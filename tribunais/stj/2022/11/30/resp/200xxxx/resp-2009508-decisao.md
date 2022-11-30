@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SPE - DELTAVILLE EMPREENDIMENTOS IMOBILIÁRIOS LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 9/3/2022.
+Concluso ao gabinete em: 6/7/2022.
+Ação: de rescisão contratual cumulada com restituição de valor e revisão de contrato, ajuizada por LIDIANE PAULA REOLON em face de SPE - DELTAVILLE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou procedente a pretensão autoral (e-STJ fls. 297-305)
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL - RESCISÃO CONTRATUAL - COMPROMISSO DE COMPRA E VENDA - CUMULAÇÃO DA INCIDÊNCIA DE CLÁUSULA PENAL E INDENIZAÇÃO POR PERDAS E DANOS - PROCEDÊNCIA EM 1º GRAU - RECURSO DA PROMITENTE-VENDEDORA- 1. CUMULAÇÃO LÍCITA DE ENCARGOS RESCISÓRIOS - ESTIPULAÇÃO DE 10% SOBRE OS VALORES PAGOS, A TÍTULO DEMULTA COMPENSATÓRIA, MAIS 21% SOBRE O VALOR DOCONTRATO, A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS, PUBLICIDADES E DESPESAS TRIBUTÁRIAS - BIS IN IDEM - DESVANTAGEM EXAGERADA AO CONSUMIDOR - MANUTENÇÃO DA MULTA DE 10% SOBRE OS VALORES PAGOS - AFASTAMENTO DASDEMAIS - PLEITO INACOLHIDO- 2. TAXA DE FRUIÇÃO DE 1% A. MSOBRE O VALOR DO IMÓVEL - INAPLICABILIDADE - TERRENO NU - AUSÊNCIA DE FATO ENSEJADOR À APLICAÇÃO DA REFERIDA TAXA - ALEGAÇÃO RECURSAL AFASTADA
+- 3. TAXAS CONDOMINIAIS E TRIBUTOS - RESPONSABILIDADE DO PROMITENTE COMPRADOR ATÉ TRANSITO EM JULGADO DA DECISÃO - INACOLHIMENTO - NOTIFICAÇÃO EXTRAJUDICIAL COM INTENÇÃO DE RESILIÇÃO DO CONTRATO SUFICIENTE A CESSAR RESPONASBILIDADE DO PROMITENTE COMPRADOR - RECURSO CONHECIDO E DESPROVIDO.
+1. A previsão de cláusulas penais compensatórias por inadimplemento contratual, baseadas no mesmo fato gerador resulta em bis in idem, com desvantagem exagerada ao devedor-consumidor.
+2. Incomprovada a efetiva utilização do imóvel, tratando-se de terreno nu, inaplicável a taxa de fruição por uso de imóvel.
+3. A notificação extrajudicial, objetivando a resilição de contrato é termo adequado para afastar a obrigação de pagamento das despesas condominiais e dos demais tributos incidentes sobre o imóvel. (e-STJ fls. 434-435)
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação aos arts. 32-A, I, II, III, IV, da Lei nº6.766/79; 67-A, da Lei nº 4.591/64; 402, 409, 411, 475, 884, 1.196, 1.024, do CC; e 1.022, I e II,do CPC/15, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta que o acórdão violou a jurisprudência do STJ ao (I) permitir a retenção de apenas 10% dos valores pagos pelo consumidor; (II) afastar a taxa de fruição e taxas condominiais; (III) fixar o termo inicial dos juros de mora; e (IV) impossibilitar a devolução de eventuais valores de maneira parcelada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Das Súmula 5 e 7/STJ
+No particular, verifica-se que o acórdão recorrido decidiu as questões suscitadas no recurso especial em atenção ao contexto fático-probatório dos autos e, notadamente, respeitando as cláusulas contratuais pactuadas.
+Em atenção ao percentual de retenção, a decisão estadual assim dispôs:
+"Como regra, é indispensável frisar que a atual orientação jurisprudencial do STJ é a de que, ressalvadas determinadas peculiaridades fáticas e jurídicas, tem-se por razoável a aplicação de multa contratual compensatória, para os casos de rescisão imotivada pelo promitente-comprador, a quantia de 25% sobre os valores pagos pelo adquirente.
+O caso sub judice enseja solução diversa; acertada, daí, a sentença que limitou a retenção da multa rescisória a 10% sobre os valores pagos pelo adquirente. (..)
+As previsões contratuais ressalvam, de antemão e de forma dissimulada, os prejuízos suportados pela requerida com a prematura rescisão do contrato, constituindo bis in idem e expondo o consumidor a obrigação iníqua (art. 51, V do CDC).
+Como o próprio instrumento contratual contempla indenização preestabelecida de perdas e danos nos casos de rescisão pelo consumidor, incidindo 10% sobre os valores pagos (sem comissão de corretagem, conforme previsto na cláusula), privilegia-se esta disposição em detrimento das demais (de 10% de honorários advocatícios e 11% despesas com serviços de publicidade e tributos), extirpando-as da contratação, pois abusivas.
+A retenção pela requerida, na espécie, é quantificada da seguinte forma: 10% sobre valor pago pelo adquirente, sendo imperativa a devolução do restante, atualizados com juros de 1% desde a citação e correção monetária desde a data sentença, conforme sentença." (e-STJ fls. 440).
+No que tange à taxa de fruição e às demais taxas imputadas ao consumidor, o Tribunal consignou expressamente que, a despeito da legalidade da cobrança em abstrato, na hipótese em concreto, "a requerida não comprovou que o autor efetivamente usufruiu do imóvel e das respectivas estruturas de uso comum, mormente porque se trata de mero terreno nu. Aliás, é incontroversa a não utilização do imóvel pelo autor, pelo que a não fruição do imóvel, é incapaz de ocasionar o enriquecimento sem causa pelo o autor" (e-STJ fls. 442).
+Logo, alterar o decidido no acórdão estadual exige o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pela incidência das Súmulas 5 e 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe 13/3/2017 e AgInt no AREsp 1.215.736/SP, 4ª Turma, DJe 15/10/2018.
+- Da Súmula 568/STJ
+No mais, a devolução do montante de maneira parcelada não é admitida nos termos da jurisprudência desta Corte. Inteligência da Súmula 543/STJ: Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+No que tange aos juros de mora, tratando-se de responsabilidade contratual, os juros devem incidir a partir da citação (AgInt no REsp 1.939.663/RN, 3ª Turma, DJe 27/4/2022). Não se aplicao Tema 1.002/STJ, uma vez que, na hipótese em análise, não se pretende a resolução "de forma diversa da cláusula penal convencionada", de modo que os juros de mora não incidem a partir do trânsito em julgado.
+Não há quer se falar em violação ao art. 1.022 do CPC/15. Aplica-se, pois, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, com fundamento no art. 932, III e IV, a, do CPC/15, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 3.000,00 (e-STJ fl. 443) para R$ 3.500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALOR E REVISÃO DE CONTRATO. DEVOLUÇÃO PARCELADA. IMPOSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de rescisão contratual cumulada com restituição de valor e revisão de contrato.
+2. Inteligência da Súmula 543/STJ: na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+3. O reexame de fatose provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
