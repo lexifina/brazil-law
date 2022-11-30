@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Vilma Nunes de Lima contra acórdão proferido pelaPrimeira Turma do STJ que não conheceu de agravo interno manejado contra decisão monocrática da Presidência do STJ que não conheceu de agravo em recurso especial.
+Com efeito, a decisão monocrática proferida pela Presidência reconheceu a incidência da Súm. n. 182/STJ no exame do agravo em recurso especial. Por sua vez, a Primeira Turma declarou a incidência da Súm. n. 182/STJ por falta de impugnação aos fundamentos declarados pela decisão da Presidência.
+Nos embargos de divergência, a recorrente alega, em síntese, que:
+Conforme se demonstrará nos acórdãos paradigmas, é nítido que a ausência de impugnação específica da Parte Agravante não enseja a aplicação da Súmula 182, do STJ, mas, tão somente, a preclusão daquilo que não foi impugnado, de modo que a aplicação das Súmulas 182, do STJ e, por analogia, 284, do STF, devem ser rechaçadas.
+A pretensão não merece acolhida.
+A questão de mérito do recurso especial não foi analisada pelo acórdão impugnado pelos embargos de divergência, tendo em vista o reconhecimento da incidência da Súm. n. 182/STJ.
+A admissão dos embargos de divergência pressupõe a apreciação da controvérsia suscitada pelo recurso especial. Se o mérito do recurso especial não foi apreciado, não há elementos capazes de indicar divergência acerca da interpretação jurídica em casos semelhantes. Logo, a não admissão dos embargos de divergência deve ser mantida. Nesse sentido,confira-se, mutatis mutandis:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. NÃO CONHECIMENTO DO ACÓRDÃOEMBARGADO. APLICAÇÃO DA SÚMULA 182/STJ. AUSÊNCIA DE DISCUSSÃO DO MÉRITO.INADMISSIBILIDADE.
+1. Cuida-se de Embargos de Divergência em Agravo em Recurso Especial contra acórdão da Primeira Turma do STJ que não conheceu do Agravo Interno dos particulares.
+2. O acórdão embargado não conheceu do recurso porque a parte ora embargante, então agravante, não rebateu, como lhe competia, o fundamento da decisão agravada referente à aplicação da Súmula 182/STJ. Na verdade, comete o mesmo equívoco ocorrido quando da interposição do Agravo emRecurso Especial. Nesse diapasão, aplicou-se reiteradamente a mesmaSúmula.
+3. Assim, verifica-se que o acórdão da Primeira Turma do STJ não analisou o mérito da controvérsia, ao entendimento de que parte interessada nãoinfirmara os fundamentos da decisão impugnada, "mostrando-se inadmissível o recurso que não se insurge contra todos eles, conforme a Súmula 182 doSTJ".
+4. Incabível a oposição de Embargos de Divergência, quanto ao mérito, uma vez que a Primeira Turma do STJ, em nenhum momento, expôs seu entendimento, quanto ao termo de juros em precatórios.
+5. Embargos de Divergência rejeitados.
+(EAREsp 1514742/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgadoem 03/06/2020, DJe 20/08/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA.
+INADMISSIBILIDADE. MÉRITO DO RECURSO ESPECIAL NÃO APRECIADO. SÚMULA N. 315 DO STJ. NÃO CABIMENTO PARA ANÁLISE DE REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL.
+I - Na origem, trata-se de ação que objetiva a impenhorabilidade de bem imóvel constrito nos autos descritos na inicial, por tratar-se de bem de família. Na sentença, julgou-se improcedente o pedido. No Tribunal deJustiça do Estado de São Paulo, a sentença foi mantida, por meio de decisão monocrática (fl. 628).
+II - Verifica-se que a Terceira Turma manteve a decisão monocrática que não conheceu do agravo em recurso especial por ausência de impugnaçãoespecífica aos fundamentos da decisão que negou seguimento ao recursoespecial interposto.
+III - Dessa forma, o acórdão embargado não enfrentou o mérito da controvérsia, incidindo, no caso, o óbice que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, in verbis: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." Nesse sentido: AgRg nos EAREsp n. 1.217.230/SC, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 28/8/2019, DJe 9/9/2019; AgInt nos EAREsp n. 1.079.571/SP, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 27/8/2019, DJe 2/9/2019 e AgInt nos EDv nos EAREsp n. 1.080.007/SP, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 13/8/2019, DJe 16/8/2019.
+IV - Cumpre destacar, ademais, que, em sua versão original, o Código de Processo Civil de 2015 (art. 1.043, II), previa a possibilidade de oposição de embargos de divergência em se tratando de arestos relativos ao juízo de admissibilidade. Ocorre que tal dispositivo foi revogado na edição da Lei n. 13.256/2016, ratificando o entendimento já prestigiadopor esta Corte de Justiça, que assim se manifestou a respeito do assunto: AgInt nos EREsp n. 1.473.968/RS, Rel. Ministro Luis Felipe Salomão, CorteEspecial, julgado em 17/8/2016, DJe 30/8/2016.
+V - É que os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito.
+VI - Portanto, com fundamento nos arts. 932, III, do CPC, e 266-C do RISTJ, correta a decisão que indeferiu liminarmente os embargos de divergência.
+VII - Agravo interno improvido.
+(AgInt nos EAREsp 1400802/SP, Rel. Ministro FRANCISCO FALCÃO, CORTEESPECIAL, julgado em 26/05/2020, DJe 01/06/2020)
+Ante o exposto, não admito os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO. ACÓRDÃO IMPUGNADO: NÃO CONHECIMENTO DE RECURSO POR INCIDÊNCIA DA SÚM. N. 182/STJ. CONTROVÉRSIA DORECURSO ESPECIAL. NÃO ANÁLISE PELO ACÓRDÃO EMBARGADO. IMPOSSIBILIDADE DEADMISSÃO DOS EMBARGOS DE DIVERGÊNCIA.
