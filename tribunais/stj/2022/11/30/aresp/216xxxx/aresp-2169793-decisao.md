@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por SUN BLOOM PARTICIPAÇÕES LTDAcontra decisão do Tribunal de Justiça do Estado de São Paulo, o qualnão admitiu recurso especial fundado naalínea"a" do permissivo constitucional, e quedesafia acórdão assim ementado:
+AGRAVO DE INSTRUMENTO AÇÃO CIVIL PÚBLICA AMBIENTAL HONORÁRIOS PERICIAIS - Insurgência contra a decisão de primeiro grau que fixou os honorários periciais finais em R$ 18.000,00 Decisão que merece subsistir Existência de acordo entre as partes em que a agravante se compromete a custear a verba pericial até o limite de R$ 15.000,00, devidamente corrigidos Decisório que ao arbitrar novos honorários promoveu a inclusão parcial da correção monetária proposta pelo expert Observância do quanto entabulado no acordo firmado entre as partes Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+No especial obstaculizado, a ora agravante apontou violação dos arts.95 e 465, § 2º, inciso I, § 4º, do CPC/2015, defendendo, em suma, a impossibilidade de atualização monetária do valor dos honorários periciais após a entrega do laudo.
+Afirmou que as partes celebraram dois acordos para manutenção do imóvel tombado, sendo estipulado na última transação, ocorrida após o seu incêndio, que a ora agravante arcariacom o valor total dos honorários periciais em R$ 15.000,00 (quinze mil reais).
+Sustentou, em suma, que não há justificativa para a fixação da referida verbaem patamar mais alto do que o acordado, pois o depósito de 50%da perícia já foi realizado,sendo indevida a majoração dos honorários após a entrega do laudo.
+Contrarrazões apresentadas às e-STJ fls. 1192/1208.
+A decisão a quo inadmitiu o recurso especial ante a ausência de contrariedade a norma invocada, bem como pela incidência da Súmula 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Contraminuta às e-STJ fl. 1236/1255.
+Parecer do Ministério Público Federal pelo desprovimento do recurso.
+Passo a decidir.
+Extrai-se dos autos que a empresa Sun Bloom Participações Ltda. interpôs agravo de instrumento contra decisão que, nos autos de ação civil pública, fixou o valor final dos honorários periciais em R$ 18.000,00 (dezoito mil reais).
+O Tribunal de origemnegou provimento ao recurso, concluindo queo valor final dos honorários periciais, fixado em R$ 18.000,00 (dezoito mil reais), não violou o acordo judicialfirmado entre as partes, por corresponder ao quantum inicialmentefixado em R$ 15.000,00 (quinze mil reais), corrigido monetariamente. Eis os fundamentos do acórdão recorrido (e-STJ fls. 1086/1089):
+Bem examinada a questão posta em Juízo, vê-se que a irresignação recursal não comporta provimento.
+Isso porque, o acordo celebrado entre as partes (fls. 229/233) prevê em seu item 1, "a", a forma de correção dos valores dos honorários, na oportunidade transcrito:
+"(..) 1 - Comprometendo-se a ré, na qualidade de proprietária do imóvel da matrícula 37.284, do 1º CRI de Jundiaí, por este ato a:
+a) Não promover qualquer alteração, modificação ou degradação no casarão sede da Fazenda Mont Serrat, até a decisão final acerca do tombamento do aludido imóvel pelo CONDEPHAAT; caso a resposta do CONDEPHAAT seja positiva quanto ao tombamento do imóvel, a presente ação será extinta, em função da perda do objeto; contudo, caso a resposta do CONDEPHAAT seja negativa, a presente ação será retomada, hipótese na qual deverá ser reaberto o prazo para que a empresa possa contestar o presente feito, devendo ser citada para tanto; ainda, compromete-se a SUN BLOOM a custear, até o limite de R$ 15.000,00 (quinze mil reais), valor a ser corrigido pela Tabela do Tribunal de Justiça, o pagamento dos honorários periciais relacionados à nomeação judicial para fins de avaliação das condições históricas e arquitetônicas do imóvel, visando decisão quanto à necessidade ou não de proteção por decisão judicial".
+Com efeito, aparentemente na petição de fls. 812/814, a Sra.Perita apenas apresenta cálculos no sentido de promover a correção monetária dos honorários, nos moldes de como restou previsto no acordo entabulado entre as partes.
+Nesse sentido, na decisão de fls. 935 o Juízo a quo fixou o valor dos honorários periciais finais em R$ 18.000,00 (dezoito mil reais), ou seja, em valor aquém do pleiteado pelo expert, englobando parcialmente a correção monetária ocorrida no período compreendido entre a realização da perícia em 2018 e o data da apresentação do laudo pericial em janeiro de 2020.
+Nesse sentido, é entendimento pacífico neste E. Tribunal de Justiça de São Paulo a possibilidade de complementação a ser verificada após a entrega do laudo pericial, senão vejamos:
+(..)
+No caso dos autos, a necessidade de complementação se justifica pela previsão expressa contida no acordo firmado entre as partes de que o valor da verba honorária do perito seria corrigido monetariamente.
+Assim, verifica-se que a decisão do Juízo a quo que arbitrou novos honorários tem por base o pedido da Sra. Perita de absorção da correção monetária ao honorário pericial estipulado contratualmente entre os litigantes.
+Nessa quadra, forçoso convir que a modificação do julgado demandaria o reexame do acordo entabulado entre as partee do acervo fático probatório dos autos, providência incompatível com a via estreita do recurso especial, de acordo com as Súmulas 5 e 7 do STJ.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DE HONORÁRIOS PERICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REDUÇÃO DA VERBA FIXADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 5 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, a revisão do valor dos honorários periciais arbitrado pelas instâncias ordinárias implicaria análise reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.984.936/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+1. Ação de arbitramento de honorários advocatícios ajuizada pelo advogado recorrido contra os recorrentes referente ao trabalho realizado em uma ação penal, três habeas corpus, três queixas-crime e em uma ação de reparação de danos.
+2. Inocorrência de violação ao art. 1.022, II, do CPC, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Com relação à apontada violação ao art. 1.022, III, do CPC, as razões recursais não indicaram em que consiste o erro material em que supostamente incorreu o acórdão recorrido, incidindo, por analogia, o óbice da Súmula 284 do STF.
+4. Ausência de nulidade e cerceamento de defesa, pois a parte recorrente, apesar de devidamente intimada, deixou transcorrer in albis o prazo para apresentar impugnação ao laudo pericial.
+5. Nos termos da jurisprudência pacífica do STJ, o vício relativo à ausência de intimação constitui nulidade relativa, devendo ser alegada na primeira oportunidade em que couber à parte se manifestar nos autos, sob pena de preclusão, o que inocorreu na espécie.
+6. A expedição da certidão de objeto e pé - documento essencial a demonstrar a alegada nulidade -, foi requerida pelo recorrente somente após quase 6 (seis) anos da data do fato, derruindo a linha argumentativa desenvolvida pelo recorrente.
+7. A pretensão deduzida pelo recorrente na suposta petição extraviada não encontraria guarida na regra inserta no art. 433, § único, do CPC/73.
+8. No tocante à apontada violação ao art. 398 do CPC/73, a apresentação de razões dissociadas da realidade dos autos impõe a aplicação, por analogia, do óbice da Súmula 284 do STF.
+9. Segundo a jurisprudência do Superior Tribunal de Justiça, não configura o cerceamento de defesa o julgamento da causa sem a produção de outras provas, quando o Tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento, como no caso.
+10. A alteração do entendimento do acórdão recorrido de que o conjunto probatório dos autos mostrava-se suficiente para o julgamento da lide, demandaria o reexame do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ.
+11. A modificação da conclusão adotada pelo Tribunal de origem quanto à correção da fixação dos honorários contratuais no valor indicado pela perícia implica o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme a Súmula 7/STJ 12. Nos termos do art. 105 da Constituição Federal, compete ao STJ uniformizar a interpretação da legislação federal, não se enquadrando no conceito de lei federal resoluções, regimentos internos, normativos etc., incluindo o Código de Ética e Disciplina da OAB.
+13. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+14. A sucumbência de cada uma das partes deve ser fixada em relação à procedência ou não dos pedidos constante na inicial.
+15. A ausência de indicação dos dispositivos legais supostamente violados pelo acórdão impugnado caracteriza deficiência na fundamentação recursal, consoante a Súmula 284/STF. 16. Divergência jurisprudencial não comprovada nos moldes exigidos nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+17. Pedido de concessão de efeito suspensivo prejudicado.
+18. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.838.279/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/10/2019, DJe de 28/10/2019.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
