@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ROBERTO FERREIRA DOS SANTOS, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 387):
+DIREITO PROCESSUAL CIVIL E CIVIL - APELAÇÃO CÍVEL - AÇÃO REVISIONAL - CÉDULA DE CRÉDITO BANCÁRIO - JUROS REMUNERATÓRIOS - CAPITALIZAÇÃO - POSSIBILIDADE - COMISSÃO DE PERMANÊNCIA - ENCARGO NÃO PACTUADO - TARIFA DE CADASTRO - LEGALIDADE - TARIFA DE AVALIAÇÃO DO BEM - LICITUDE - TARIFA DE REGISTRO DE CONTRATO - COBRANÇA AUTORIZADA - LITIGÂNCIA DE MÁ-FÉ - INOCORRÊNCIA - SENTENÇA REFORMADA EM PARTE - RECURSO PROVIDO PARCIALMENTE.
+- É possível a incidência de capitalização mensal de juros após a edição da Medida Provisória nº 2.170/2001, cuja constitucionalidade do art. 5º foi reconhecida pelo Supremo Tribunal Federal, RE 592377, julgado em 04/02/2015, e desde que expressamente pactuada no contrato. A contratação expressa da taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a capitalização dos juros.
+- Por não existir previsão contratual de incidência de comissão de permanência, no período de anormalidade, nem prova de sua cobrança, não há o que revisar no ajuste, nessa perspectiva.
+- A cobrança de tarifa de cadastro, prevista em contrato formalizado em 2010, revela-se legítima, estando em conformidade com o disposto no Enunciado n.º 566, da Súmula de Jurisprudência Dominante do Superior Tribunal de Justiça.
+- É legítima a cobrança da tarifa de avaliação de bem, porquanto expressamente autorizada pela Resolução 3.919/2010 e ausente questionamento específico na peça de ingresso sobre a efetiva realização do serviço.
+- No tocante à despesa com registro do contrato, sendo ela admitida como válida em assente jurisprudência do Superior Tribunal de Justiça, e constando do Certificado de Registro do veículo financiado a inserção de gravame, deve ser considerada legítima a cobrança, uma vez que tal apontamento só ocorre quando precedido do arquivamento do ajuste - que é oneroso - junto à repartição competente, nos termos do artigo 1.361, §1º, do Código Civil, c/c artigo 6.º, §5.º, e artigo 33, da Resolução n.º 689/2017, do Conselho Nacional de Trânsito (CONTRAN).
+- Incabível a condenação do autor, por litigância de má-fé, quando não comprovada a prática de alguma das condutas estabelecidas no art. 80 do CPC.
+Os embargos de declaração opostos peloora recorrente foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 423):
+DIREITO PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - VÍCIOS DESCRITOS NO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL - AUSÊNCIA - MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO - EMBARGOS REJEITADOS.
+- A oposição dos embargos pressupõe a existência de obscuridade, contradição, omissão ou erro material no julgado.
+- Não é omisso o julgado quando nele esgotados os temas que foram submetidos ao órgão julgador, por ocasião do recurso, expondo, de forma clara e objetiva, a solução adotada para o caso.
+- O fato de o recorrente não concordar com o decisório impugnado não enseja a interposição de embargos declaratórios, cabendo à parte interessada valer-se dos meios próprios para alcançar a sua pretensão de reforma da decisão.
+Em suas razões de recurso especial (e-STJ, fls. 431-440), o agravante alegou violação aos arts. 489, 1.022 e 1.036 do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido teria sido omisso, uma vez que nãoapreciou a tese de que não foi efetivamente prestado o serviço de "avaliação do bem" e de "registro".
+Frisou, ainda, que a decisão não reconheceu aabusividade dovalor cobrado pela"tarifa de cadastro", conforme determinado pela jurisprudência deste Superior Tribunal.
+Foram apresentadas contrarrazões (e-STJ, fls. 452-455).
+O processamento do apelo especial não foi admitido pela Corte local, levando oinsurgente a interpor o presente agravo.
+Nas razões do agravo, orecorrente impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Contraminuta apresentada (e-STJ, fls. 484-487).
+Brevemente relatado, decido.
+O Tribunal de Justiça do Estado de Minas Gerais, ao analisar a questão, assim fundamentou (e-STJ, fls. 395-402; sem grifos no original):
+No que diz respeito à cobrança relacionada à avaliação do bem, fixou o Superior Tribunal de Justiça, no julgamento do REsp n.º 1.578.553/SP, por meio de Acórdão proferido sob a sistemática do art. 1.036 do CPC, as seguintes teses, que passo a adotar, por acatamento :
+(..)
+Em relação ao encargo, foi cobrado no importe de R$395,00 e, sendo lícito, de um lado, e não alegando o autor, de outro, a falta de prestação do serviço, resumindo suas afirmações ao aspecto de (i)legalidade, deve ser mantida a sentença.
+(..)
+Voltando-me ao conteúdo dos autos, observo que, no ajuste, foi cobrado, da requerente, encargo a título de registro do contrato, não tendoela negado a prestação do serviço, sustentando apenas a ilegalidade da cobrança que, ao contrário do que alega, é permitida.
+Em razão disso e o do reconhecimento, pelo STJ, da validade do encargo, é que mantenho a sentença, dada a legalidade de sua exigência.
+Cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Na hipótese dos autos, percebe-se que a decisão recorrida resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A propósito, segue trecho do acórdãodos embargos de declaração então opostos (e-STJ, fl. 425):
+Nesse sentido, analisando os termos do decisum, em cotejo com a peça recursal, concluo inexistir eiva que autorize o acolhimento dos embargos declaratórios, tendo o Órgão julgador exaurido as questões postas a exame, emitindo o seu pronunciamento de modo a esgotar os temas que lhe foram submetidos.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito do ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+No mais, infirmar a conclusão adotada pela Corte local, a fim de averiguar se,efetivamente, teriam sido prestados os serviços contratualmente cobrados, esbarraria no teor das Súmulas 5 e 7/STJ, uma vez que demandaria reexame das cláusulas contratuais, bem como do conjunto fático-probatório, o que não é possível nesta seara.
+Noutro vértice, não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto o recorrente não demonstrou a divergência nos moldes exigidos pelos artigos 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Na mesma linha de cognição:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. MATÉRIA. PUBLICAÇÃO. INTERNET. CENSURA PRÉVIA. IMPOSSIBILIDADE. DIREITO À INFORMAÇÃO. LIBERDADE DE EXPRESSÃO. DIREITOS DE PERSONALIDADE. VIOLAÇÃO. ABUSO DE DIREITO. CONFIGURAÇÃO. VALOR DA INDENIZAÇÃO. REEXAME FÁTICO. VEDAÇÃO.
+(..)
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+(..)
+7. Recurso especial parcialmente conhecido e não provido.
+(REsp 1887919/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2021, DJe 31/08/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RESCISÃO CONTRATUAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. NÃO CABIMENTO. AGRAVO PROVIDO. RECURSO DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. Divergência jurisprudencial não comprovada em razão de a mera transcrição de ementas não ser suficiente para dar abertura ao apelo especial pela alínea "c" do permissivo constitucional, além de decisões monocráticas serem imprestáveis à comprovação do dissídio jurisprudencial.
+(..)
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1671139/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/02/2021, DJe 23/02/2021)
+Ante o exposto, conheço do agravopara conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida aorecorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AÇÃO REVISIONAL.CÉDULA DE CRÉDITO BANCÁRIO.VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. CONCLUSÃO PAUTADA EM CLÁUSULAS CONTRATUAIS E EM PREMISSAS FÁTICAS E PROBATÓRIAS. REVISÃO INVIÁVEL. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
