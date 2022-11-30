@@ -1,0 +1,27 @@
+DECISÃO
+ALISSON FRANCISCO DOS ANJOS CARDOSOalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro(Apelação Criminal n. 0001894-36.2022.8.19.0066).
+Consta dos autos que opaciente foi condenadoa 5anosde reclusão, em regime inicial fechado, mais multa, pela prática docrimeprevistonoart. 33, caput,da Lei n. 11.343/2006.
+Pleiteia a defesa, neste writ, a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, a imposição de regime menos gravoso e a substituição da pena privativa de liberdade por restritivas de direitos.
+O Ministério Público Federal opinou pela denegação do writ.
+Decido.
+I. Aplicação da minorante
+O Tribunal de origem manteve a não aplicação do redutor, conforme trechoabaixo (fl. 60):
+ ..  a apreensão do dinheiro, das drogas, bem como a apreensão da balança e de material de endolação não deixam dúvidas do crime de tráfico de drogas. A considerável quantidade de maconha apreendida, os apetrechos de comércio de drogas e o local da apreensão - " os policiais encontraram 2 tabletes de maconha, uma balança de precisão e material para endolação; Que a comunidade é dominado pela facção Comando Vermelho" - depõem para o fato de que o acusado cometia o delito com habitualidade, não sendo um traficante ocasional, o que afasta da minorante do tráfico-privilegiado.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, conforme visto, ainstânciade origem - dentro do seu livre convencimento motivado - apontouelementos concretos dos autos, não apenas relativos àquantidade de droga apreendida (1.160 g de maconha), mas também relativa à apreensão de apetrechos para o tráfico (balança de precisão e 200 sacos para embalar drogas),que evidenciam que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ademais, imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o pacientese dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+II. Regime de cumprimento da pena
+Sobre a matéria posta em discussão, faço lembrar que, uma vez reconhecida,incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art.2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolhado regime inicial de cumprimento de pena deve levar em consideração aquantidade da reprimenda imposta, a eventual existência de circunstânciasjudiciais desfavoráveis, bem como as demais peculiaridades do caso
+concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidadede drogas apreendidas), para que, então, seja fixado o regime carcerárioque se mostre o mais adequado para a prevenção e a repressão do delitoperpetrado, nos termos do art. 33 e parágrafos do Código Penal - comobservância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, conforme visto, a Corte de origem justificou a fixação do regimeinicial mais gravoso com base, justamente, nas peculiaridades do casoconcreto -notadamente na quantidade de droga apreendida.
+Entretanto, embora a quantidade da droga apreendida constitua, de fato,
+fundamento idôneo a justificar a fixação do modo de cumprimento da pena,certo é que, no caso, foi apreendida quantidade não expressiva damencionada substância (1.160 g de maconha), de maneira que se mostradesproporcional sopesar apenas tal elemento para justificar a imposição doregime fechado.
+Logo, nessa trilha, entendo que regime semiaberto é o mais adequado para aprevenção e repressão do delito perpetrado.
+III. Substituição da pena por restritiva de direitos
+Por fim, diante do insucesso da tese defensiva que poderia levar à reduçãoda reprimenda, fica mantida a negativa de substituição da pena privativade liberdade por restritiva de direitos, em razão da ausência decumprimento do requisito objetivo previsto no art. 44, I, do Código Penal(sanção superior a 4 anos de reclusão).
+IV. Dispositivo
+À vista do exposto, concedo em parte a ordem a fim de fixar o regime
+semiaberto para cumprimento da pena.
+Publique-se e intimem-se.
