@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS CORTE REAL PYRRHOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(Apelação Criminal n. 0030535-06.2020.8.19.0001).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 72/82, in verbis:
+Cuidam os autos de habeas corpus impetrado em favor de LUCAS CORTE REAL PYRRHO, contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que deu parcial provimento ao recurso de apelação por ele interposto e cuja ementa vai abaixo transcrita:
+ ..
+Alega a impetrante, em síntese, a inidoneidade da fração aplicada na terceira fase da dosimetria, tendo em vista estar baseada tão somente no número de majorantes.
+Requer, assim, o estabelecimento da fração de 1/3 (um terço) na terceira fase da aplicação da pena.
+Autuado o feito nesse STJ, à míngua de pedido liminar e estando os autos devidamente instruídos, vieram com vista ao Parquet Federal para análise e emissão de opinativo, o que passamos a fazer, cabendo adiantar que o writ não deverá ser conhecido, pois utilizado como sucedâneo recursal.
+ ..
+Tal como se vê dos autos, LUCAS CORTE REAL PYRRHO, ora paciente, foi condenado às penas de 5 (cinco) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicial semiaberto, e multa, pela prática do crime previsto no artigo 157, § 2º, II e V, do Código Penal (roubo majorado pelo concurso de agentes e pela restrição à liberdade da vítima).
+Em sede de apelação, a Corte Estadual deu parcial provimento ao recurso do réu para reduzir a fração de aumento aplicada na terceira fase da dosimetria em virtude do reconhecimento de duas majorantes, de modo que a pena final restou aplicada no patamar de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, e 12 (doze) dias-multa. É contra essa decisão que se volta a impetração ora examinada.
+Ao final, o Parquet opinou pela concessão da ordem de ofício.
+É o relatório.
+Decido.
+De fato, não se admite, na terceira fase da dosimetria da pena do delito tipificado no art. 157, § 2º, do Código Penal, a exasperação acima do mínimo com base, tão somente, na quantidade de majorantes. Para tanto, faz-se necessária fundamentação concreta, baseada em dados extraídos dos autos. Esse é o teor da Súmula n. 443 do Superior Tribunal de Justiça,in verbis:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+A propósito:
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME INICIAL FECHADO. LEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+1.O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+2.As instâncias ordinárias não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido. Ressalva do relator.
+3. Fixada a quantidade da sanção devida a quem, comprovadamente, violou a norma penal, compete ao juízo natural da causa indicar, de maneira motivada e com base nos dados concretos dos autos, qual o regime inicial adequado para o cumprimento da reprimenda, não sendo possível coarctar-lhe a consideração de fatores que, associados e complementares à dogmática penal, indiquem como necessária, para o alcance dos fins da pena, a imposição de regime mais gravoso do que indicaria a mera correspondência da quantidade da pena à previsão legal.
+4. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, roubo contra residência em concurso de três agentes e com emprego de arma de fogo.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal o aumento da reprimenda procedido na terceira etapa da dosimetria.
+(HC 222.445/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/02/2016, DJe 2/3/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. ROUBO DUPLAMENTE MAJORADO. PACIENTE CONDENADO A 5 ANOS E 6 MESES DE RECLUSÃO. FRAÇÃO DE AUMENTO PELAS MAJORANTES ESTABELECIDA COM BASE EM CRITÉRIO QUANTITATIVO. IMPOSSIBILIDADE. OFENSA À SÚMULA N. 443/STJ. FRAÇÃO REDUZIDA PARA 1/3. PENA REDIMENSIONADA. DETRAÇÃO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+-O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+-Na hipótese, o aumento da pena em fração superior a 1/3 ocorreu em razão da quantidade de majorantes, sem a indicação de fundamentação concreta, a evidenciar a necessidade de aplicação da fração mínima. Pena reduzida para 5 anos e 4 meses de reclusão.
+- O § 2º do art. 387 do Código de Processo Penal não possui relação com a progressão de regime, instituto próprio da execução penal. Assim, cabe ao juízo sentenciante a verificação da possibilidade de se estabelecer regime inicial mais brando, em razão da aplicação da detração no caso concreto, descontando-se da pena aplicada o tempo de prisão provisória do acusado.
+- No caso, como o feito transitou em julgado e não há nos autos informações precisas acerca do tempo em que o paciente permaneceu em custódia preventiva, deve o Juízo das Execuções Penais avaliar a possibilidade de o paciente iniciar o cumprimento da pena em regime mais brando, considerando a detração.
+- Habeas corpus não conhecido. Ordem concedida de ofício para reduzir a pena do paciente e determinar que o Juízo das Execuções Penais considere a possibilidade da detração.
+(HC 343.147/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/3/2016, DJe 7/3/2016, grifei.)
+No caso dos autos, a  cerca da controvérsia, o Magistrado de primeira instância assim consignou (e-STJ fl. 41):
+3ª fase: Ausentes as causas de diminuição de pena, por outro lado, verificam-se duas causas especiais de aumento de pena, quais sejam, o concurso de pessoas (art. 157, §2º, II do CP), e o emprego de arma de fogo (art. 157, §2º-A, I do CP). Aumento a pena em 2/5, resultando a pena definitiva em 05 (cinco) anos 07 (sete) meses e 06 (seis) dias de reclusão e 12 (doze) dias-multa" (fls. 41 e-STJ).
+Já o Tribunal de origem, no ponto, decidiu nos seguintes termos (e-STJ fl. 68):
+Na etapa derradeira, presentes as causas de aumento previstas no artigo 157, § 2º, II e V, do Código Penal, a pena foi exasperada em 2/5 (dois quintos).
+Neste ponto, em se tratando da presença de duas majorantes, a sentença merece pequeno reparo, uma vez que, de acordo com o entendimento do Superior Tribunal de Justiça, deve ser aplicada a fração de 3/8, mais benéfica ao acusado.
+Da leitura dos excertos acima transcritos, constata-seque o estabelecimento da fração de aumento em 3/8 pela aplicação de 2 causas especiais de aumento de pena não deve ser preservado, tendo em vista que se restringiu ao cálculo unicamente matemático do número de majorantes. Não houve indicação de circunstâncias que desbordassem da reprovabilidade já prevista nas elementares do tipo penal.
+Faz-se imperativo, portanto, o redimensionamento da reprimenda, a fim de reduzir o percentual aplicado na terceira fasepara 1/3, fixando a pena definitiva em 5 anose 4 mesesde reclusão.
+À vista do exposto e acolhendo o parecer do Ministério Público Federal,concedo a ordema fim de, nos termos acima deduzidos,reduzir a pena do paciente para 5 anos e 4 meses de reclusão.
+Publique-se. Intimem-se.
