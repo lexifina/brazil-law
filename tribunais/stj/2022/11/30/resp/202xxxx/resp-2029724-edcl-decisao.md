@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 2380):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. VIOLAÇÃO DOS ARTS. 11, 489 E 1022, INC. II, E PARÁGRAFO ÚNICO, DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. ACÓRDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. FRAUDES E INDÍCIOS DE CRIMES. INTERCONEXÃO DE OPERAÇÕES E CONTROLES COMUNS. LEGITIMIDADE DA INTERVENÇÃO QUESTIONADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO E PREJUDICADO. INCIDÊNCIA DA SÚMULA 13/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+Os embargantes alegam que o julgado contém omissão quanto a questões de direito relevantes e pontos de violação à Constituição Federal e àlei federal: a) legitimidade e capacidade processual da parte autora; b) legalidade da intervenção na Cia. de Investimento Oboé por extensão sob o falso pilar do art. 51 da Lei 6024/1974, o que configurou violação do art. 1022 do CPC/2015 e não incidência das Súmulas 284/STF e 211/STJ, pois verificado no caso o prequestionamento ficto; c) inaplicabilidade da Súmula 283/STF, pois houve "(..) vasta e cabal impugnação dos recorrentes ao acórdão recorrido: (..)." (fl. 2394).
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Pois bem.
+A decisão embargada conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento porque: a) a competência para análise de eventual ofensa a dispositivos constitucionais pertence ao Supremo Tribunal Federal; b) não há falar, no caso, em ofensa aos arts. 11, 489 e 1022, inc. II, e parágrafo único, do CPC/2015; c) incidem na hipótese as Súmulas 211/STJ, 284/STF, 283/STF e 7/STJ; d) o dissídio jurisprudencial invocado, a par de não ter sido demonstrado nos moldes estabelecidos nos arts. 1029, §1º, do CPC/2015 e 255, §§ 1º e 2º do RISTJ, restou prejudicado em razão da incidência dos enunciados sumulares, incidindo ainda no ponto a Súmula 13/STJ.
+Nos presentes embargos, a parte recorrente alega que a referida decisão contém omissão quanto a questões de direito relevantes e pontos de violação à Constituição Federal e àlei federal.
+Ocorre que razão não lhe assiste.
+Com efeito, tem-se que há omissão quando, embora oportunamente provocado, deixa o órgão julgador de analisar matéria relevante para o deslinde da causa. Por outro lado, não há omissão quando, mesmo sem que se examine individualmente cada um dos argumentos suscitados, há manifestação clara e fundamentada acerca de todas as questões relevantes para a solução da controvérsia.
+Nesse diapasão, tem-se que a decisão de fls. 2380-2384 não incorreu no vício apontado, posto que analisou cada um dos pontos alegados no recurso especial da parte e, como de mister, apresentou de forma clara e ampla os motivos de ter concluído como concluiu.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1022 DO CPC/2015. OMISSÃO. VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
