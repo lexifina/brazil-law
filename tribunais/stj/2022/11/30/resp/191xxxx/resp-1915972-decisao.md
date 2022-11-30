@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por EBERSON VILELA MARTINS, com respaldo na alínea"a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em juízo de retratação do art. 1.040, II, do CPC/2015, que foi assim ementado(e-STJ fl. 112):
+JUÍZO DE RETRATAÇÃO. Art. 1.030, II, do CPC.
+1. Tema 810 de repercussão geral julgado pelo Colendo Supremo Tribunal Federal  Necessidade de retratação parcial. Correção monetária de débitos judiciais do INSS apurados em ação acidentária  Indexador  IPCA-E, a partir de 30/06/2009, nos termos do que o STF decidiu no RE nº 870.947, em 20/09/2017.
+2. Tema 905 dos recursos repetitivos julgado pelo Colendo Superior Tribunal de Justiça  Retratação desnecessária  índice de correção monetária (INPC) diverso daquele definido no RE nº 870.947 (IPCA-E)  Entendimento do STF que se aplica a todas as condenações judiciais impostas à Fazenda Pública, qualquer que seja o ente federativo de que se cuide.
+MODIFICADO EM PARTE O ENTENDIMENTO ANTERIORMENTE ADOTADO.
+Em suas razões, a parte autoraaponta violação doart. 27 da Lei n. 13.080/2015,postulando, em síntese, o afastamento da TR como índice de correção monetária, aplicando-se, no caso, o IPCA-E.
+Sem contrarrazões (e-STJ fl. 103).Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 120/121.
+Passo a decidir.
+O acórdão do TJ/SP tem se baseado na repercussão geral do STF para fixar o IPCA-E como índice da correção monetária de benefício regido pela Lei n. 8.213/1991 no período posterior à entrada em vigor da Lei n. 11.960/2009, declarada inconstitucional no tocante à atualização monetária.
+Ocorre que o julgado em repercussão geral (RE 870.947/SE-RG) não tratou de benefício previdenciário, mas sim assistencial, mostrando-se, por isso, inaplicável ao caso concreto.
+Com efeito, no julgamento do Tema 905 do STJ (Recursos Especiais1.495.146/MG, 1.492.221/PR e 1.495.144/RS), a Primeira Seção firmou a compreensão de que, em se tratando de causas previdenciárias, as condenações impostas à Fazenda Pública, para efeito de correção monetária, sujeitam-se à incidência do INPC a partir da vigência do art. 41-A da Lei n. 8.213/1991, com a redação incluída pela Lei n. 11.430/2006.
+Impende ressaltar que o INPC aplica-se sem a limitação temporal dada pelo Tribunal de origem, ou seja, deve incidir inclusive no período posterior à entrada em vigor da Lei n. 11.960/2009, de acordo com os julgados repetitivos. E nos períodos anteriores à entrada em vigor da Lei n. 11.430/2006, incidem os índices previstos no Manual de Cálculos da Justiça Federal.
+Quanto aos juros de mora, estes devem continuar a observar a remuneração oficial da caderneta de poupança (art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009), independentemente de quais sejam os períodos a que se referirem os débitos de natureza previdenciária, conforme o decidido no Tema 810 do STF.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A CONDENAÇÃO JUDICIAL DE NATUREZA PREVIDENCIÁRIA. TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+1.1 Impossibilidade de fixação apriorística da taxa de correção monetária. No presente julgamento, o estabelecimento de índices que devem ser aplicados a título de correção monetária não implica pré-fixação (ou fixação apriorística) de taxa de atualização monetária. Do contrário, a decisão baseia-se em índices que, atualmente, refletem a correção monetária ocorrida no período correspondente. Nesse contexto, em relação às situações futuras, a aplicação dos índices em comento, sobretudo o INPC e o IPCA-E, é legítima enquanto tais índices sejam capazes de captar o fenômeno inflacionário.
+1.2 Não cabimento de modulação dos efeitos da decisão.
+A modulação dos efeitos da decisão que declarou inconstitucional a atualização monetária dos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, no âmbito do Supremo Tribunal Federal, objetivou reconhecer a validade dos precatórios expedidos ou pagos até 25 de março de 2015, impedindo, desse modo, a rediscussão do débito baseada na aplicação de índices diversos. Assim, mostra-se descabida a modulação em relação aos casos em que não ocorreu expedição ou pagamento de precatório.
+2. Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+3. Índices aplicáveis a depender da natureza da condenação.
+(..)
+3.2 Condenações judiciais de natureza previdenciária.
+As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+(..)
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido. Acórdão sujeito ao regime previsto no art. 1.036 e seguintes do CPC/2015, c/c o art. 256-N e seguintes do RISTJ.
+(REsp 1.492.221/PR, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 20/03/2018) (Grifos acrescidos).
+No tocanteà correção monetária, o acórdão do TJ/SP, em juízo de retratação do art. 1.040, II, do CPC/2015, assim decidiu (e-STJ fl. 115):
+Assim, em juizo de retratação, determino que, a partir de 30/06/2009, a correção monetária dos valores em atraso seja pelo IPCA-E, nos termos do que o Supremo Tribunal Federal decidiu no RE nº 870.947, em 20/09/2017 e também em 03/10/2019, quando rejeitados todos os embargos de declaração opostos.
+Como a parte autora postulou em seu apelo nobre o afastamento da TR e a utilização do IPCA-E como índice decorreção monetária, verifica-se, assim, queseu pedidofoi atendido pelo Tribunal local, ainda que de forma divergente da jurisprudência desta Corte.
+Como não foi renovada a insurgência após o juízo de retratação, mantem-se o acórdão a quo nesse sentido, reconhecendo, na espécie, a perda superveniente do objeto de seu recurso quanto ao ponto.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
