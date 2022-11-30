@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto peloESTADO DO PARANÁ contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁassim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA O ESTADO. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBENCIA. FIXAÇÃO DA VERBA SOB A ÉGIDE DO CPC/73. INAPLICABILIDADE DO ART. 85. §16 DO CPC/15. INCIDÊNCIA DE JUROS DE MORA. TERMO INICIAL. INTIMAÇÃO DA FAZENDA PÚBLICA PARA PAGAMENTO. CUMPRIMENTO VOLUNTÁRIO TEMPESTIVO. INOCORRÊNCIADE MORA. JUROS DE MORA AFASTADO. DECISÃO REFORMADA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aoartigo 85, §16, do CPC/2015 sob o fundamento de que o termo inicial dos juros de mora é o trânsito em julgado e não a intimação no cumprimento de sentença.
+Contrarrazões ao recurso especial às fls. 139/150.
+Decisão de admissibilidade à fls. 155/157.
+É o relatório. Decido.
+A pretensão não merece acolhimento.
+Consta do v. acórdão de origem:
+Compulsando os autos, verifica-se que a decisão singular reconheceu que a incidência de juros de mora sobre os honorários fixados em sentença sob a égide do CPC/73 deve ocorrer a partir do trânsito em julgado da sentença, entendimento que contraria a jurisprudência consolidada do STJ no sentido de que na execução de honorários, os juros moratórios incidentes sobre a verba honorária são computados a partir da citação do devedor na execução.  .. Verifica-se, portanto, que o termo inicial da contagem de juros, na hipótese, é a data da intimação da Fazenda Pública para cumprimento da obrigação, caso não seja cumprida a obrigação voluntariamente, dentro do prazo legal. Havendo o cumprimento da obrigação dentro do prazo legal, não há falar em mora do devedor.
+Com efeito, o posicionamento adotado pelo Tribunal de origem está em harmonia com a orientação jurisprudencial desta Corte Superior no sentido de que " ..  o termo inicial para a incidência dos juros de mora sobre os honorários advocatícios é o da citação do executado no processo de execução"(REsp n. 1.895.645/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/11/2020, DJe de 14/4/2021).
+Nesse mesmo sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INCIDÊNCIA DE JUROS DE MORA SOBRE HONORÁRIOS ADVOCATÍCIOS. TERMO INICIAL: CITAÇÃO DO EXECUTADO NO PROCESSO DE EXECUÇÃO. SÚMULA 83/STJ. HIPÓTESE EM QUE A PARTE APRESENTOU OS CÁLCULOS PARA EXECUÇÃO SEM A INCLUSÃO DOS JUROS DE MORA. A UNIÃO CONCORDOU COM OS VALORES. PRETENSÃO DE EXECUTAR OS JUROS DE MORA NÃO INCLUÍDOS. IMPOSSIBILIDADE. PRECLUSÃO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.1. O entendimento adotado no acórdão impugnado encontra amparo na jurisprudência do Superior Tribunal de Justiça, de que o termo inicial para a incidência dos juros de mora sobre os honorários advocatícios é o da citação do executado no processo de execução.Precedentes: AgInt no AREsp. 965.471/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 28.10.2016; e AgRg no REsp. 1.432.692/RJ, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 1o.4.2016.  .. 4. Agravo Interno do Particular desprovido.(AgInt nos EDcl no REsp n. 1.560.473/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 9/3/2020, DJe de 11/3/2020). (grifo nosso)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. JUROS DE MORA SOBRE HONORÁRIOSADVOCATÍCIOS. TERMO INICIAL.CITAÇÃO DO EXECUTADO NO PROCESSO DE EXECUÇÃO. RECURSO ESPECIAL NÃO PROVIDO.
