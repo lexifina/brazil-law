@@ -1,0 +1,9 @@
+DECISÃO
+JOSÉ EDMILSON GOMES DO REGO ajuíza revisão criminal contra decisão proferida por esta Corte, no HC n. 296.177/PE, que que concedeu em parte a ordem, a fim reduzir a pena ao patamar de 10 anos de reclusão, pela prática do crime de homicídio qualificado.
+Alega a defesa, nesta oportunidade e em síntese, a existência de ilegalidade da exasperação da pena-base, a qual teria persistido mesmo após a concessão parcial da ordem por este Superior Tribunal.
+Entretanto, embora o requerente haja apontado a existência de decisão desta Corte, proferida em habeas corpus, cujo desfecho logrou êxito na modificação da pena imposta, é forçoso reconhecer que a revisão criminal é manifestamente incabível no caso.
+De fato, consoante dispõe o art. 239 do RISTJ, as revisões criminais somente são cabíveis quando o recurso especial é apreciado, em seu mérito, pelo colegiado desta Corte. Vale dizer, o exame do caso deve ser feito em recurso especial e não em habeas corpus.
+Nesse sentido: "Compete ao STJ processar e julgar as revisões criminais de seus julgados nas hipóteses em que a condenação tiver sido decretada ou mantida no julgamento colegiado de recurso especial, se o fundamento revisando coincidir com a questão federal apreciada pelo órgão julgador" (AgRg na RvCr n. 5.586/BA, Rel. Ministro João Otávio de Noronha, DJe 16/4/2021, destaquei).
+E ainda: "A revisão criminal, como meio extraordinário de impugnação e medida excepcional cabível apenas nas situações expressamente previstas em lei, tem sua utilização restringida justamente diante da existência da coisa julgada. Assim, segundo a orientação desta Corte, somente é cabível a revisão criminal quando as questões objeto do pedido houverem sido examinadas no recurso especial" (AgRg na RvCr n. 5.650/RS, Rel. Ministro Rogerio Schietti, DJe 31/8/2022, grifei).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da presente revisão criminal.
+Publique-se e intimem-se
