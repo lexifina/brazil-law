@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor deJorge Luiz dos Reis Burgoscontra o ato coator proferido pela Oitava Câmara Criminal do Tribunal de Justiça de Minas Gerais, que, nos autos do HC n. 1.0000.22.163576-6/000, denegou a ordem, mantendo opaciente preso preventivamente em razão da condenação à pena total de 21 anos, 10 meses e 10 dias de reclusão, em regime fechado, e 1.035 dias-multa, pela prática de condutas descritas como organização criminosa, tráfico de drogas e lavagem de dinheiro (Processo n.5121859-51.2021.8.13.0024 -Operação Lockdown,da 4ª Vara de Tóxicos, Organização Criminosa e Lavagem de Bens e Valores de Belo Horizonte/MG).
+Os impetrantes alegam, em síntese, que o desmembramento do feito e a realização de audiência de instrução e julgamento sem a presença dos demais corréus prejudicou o exercício do direito de defesa, incorrendo em nulidade.
+Sustentam que a violação dos princípios da ampla defesa e do contraditório eivou a sentença de nulidade.
+Mencionam que cautelares diversas da prisão são suficientes para tutelar o caso concreto.
+Destacam a presunção da inocência.
+Pedema anulação da sentença e a expedição de alvará de soltura (fls. 3/17).
+Liminar indeferida às fls. 125/126.
+O Ministério Público Federal pugna pelo não conhecimento do writ, conforme os termos da ementa do parecer (fl. 131):
+EMENTA: HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. RACIONALIZAÇÃO NO USO DO MANDAMUS. PRECEDENTES DO STJ E STF. PROCESSO PENAL. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO. NULIDADES. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO ANTE O DESMEMBRAMENTO DO FEITO E A REALIZAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO SEM A PRESENÇA DOS CORRÉUS. INEXISTÊNCIA DE PREJUÍZO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO EM SEDE DE WRIT. INVIABILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ADEQUADA. ENVOLVIMENTO EM ORGANIZAÇÃO CRIMINOSA. NECESSIDADE DE INTERRUPÇÃO DA ATUAÇÃO DO GRUPO CRIMINOSO. GARANTIA DA ORDEM PÚBLICA. REQUISITOS DOART. 312 DO CPP. PREENCHIMENTO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+A impetração pretende a nulidade do feito em razãodo desmembramento indevido do processo e da violação dos princípios da ampla defesa e do contraditório, bem comoa revogação da prisão preventiva mantida na sentença.
+A impressão que tive ao indeferir a liminar se mantém.
+Primeiro, as nulidades aventadas não foram objeto de discussão no writ combatido, que não conheceu dos seguintes argumentos(fls. 115/117):
+O suposto desmembramento irregular do feito já foi arguido, apreciado e rechaçado por este Eg. Tribunal de Justiça no julgamento do Habeas Corpus nº 1.0000.22.035425-2/000, ocorrido na Sessão realizada na data de 10.03.2022, fato que inviabiliza o seu conhecimento na presente oportunidade, por se tratar de mera reiteração.
+ ..
+Ademais, eventuais vícios constantes no feito de origem, passíveis de dar causa à anulação da r. sentença condenatória, não são passíveis de exame através do presente Writ.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram posicionamento no sentido de que é incabível o manejo do Habeas Corpus como substitutivo do recurso legalmente previsto, ressalvada a hipótese de flagrante ilegalidade do ato judicial impugnado, caso em que a ordem deve ser deferida ex officio.
+ ..
+No caso em análise, os advogados impetrantes se insurgem ao argumento de que a r. sentença condenatória contém nulidades insanáveis. Há via própria para o exame da aludida questão, qual seja, a Apelação Criminal, recurso que inclusive já foi interposto (fls. 101/103 doc. único), razão pela qual o presente remédio constitucional, utilizado como sucedâneo recursal, não deve ser conhecido.
+Convém destacar que não há patente ilegalidade na r. sentença atacada, fato que daria ensejo à concessão da ordem de ofício.
+Como se sabe, a Constituição Federal fixa o rol de competências do Superior Tribunal de Justiça no art. 105, de modo que o conhecimento de matérias não debatidas em habeas corpus na origem subvertem a estrutura constitucional, caso conhecidas na via eleita neste Tribunal Superior.
+Em suporte: AgRg no HC n. 472.533/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/12/2018; o AgRg no AgRg no HC n. 453.621/ES, Ministro Felix Fischer, Quinta Turma, DJe 30/10/2018; e o AgRg no REsp n. 1.746.280/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/10/2018.
+No presente caso, o ato coator não discutiu o pedido as alegações de nulidade, não sendo possível inaugurar tal discussão nesta instância superior.
+Já quanto à revogação da prisão preventiva, importante observar o teor da sentença (fl. 76):
+O acusado foi mantido preso até o momento em virtude de se fazer presente uma das razões ensejadoras da prisão preventiva, qual seja, a garantia da ordem pública. Entendo que ainda se faz presente a cautelaridade na mantença da prisão. Perpetrou ele os crimes de organização criminosa, tráfico de drogas e lavagem de bens e valores, além de ter maus antecedentes, demonstrando que a sua liberdade constitui-se em um atentado à ordem pública. Entendo estar patente nos autos a periculosidade in concreto do réu. Assim, por concluir que a prisão cautelar mantém-se necessária, denego ao réu o direito de, afigurando-se inviável a fixação de recorrer em liberdade, mantendo-o preso preventivamente medidas cautelares alternativas à prisão, em razão do que fundamentado.
+Provocado na via do habeas corpus, o Tribunal local fixou o seguinte (fl. 119/120):
+No caso dos autos, em que pese a irresignação dos impetrantes, permanece hígida a necessidade da prisão preventiva.
+A materialidade dos crimes e a autoria foram reconhecidas na sentença após regular instrução, não sendo possível, na via estreita do Writ, infirmar tal conclusão.
+No tocante ao periculum libertatis, não resta dúvida quanto à sua presença.
+Restou apurado após regular instrução que o Paciente é um dos líderes da organização criminosa especializada em tráfico de drogas e em lavagem de dinheiro.
+O acautelado coordenava as tarefas executadas pelos demais integrantes, operacionalizava o recebimento e a distribuição dos entorpecentes e cuidava da manutenção do armamento pertencente à Orcrim.
+A periculosidade do Paciente fica evidenciada pela liderança na prática reiterada de crimes graves e pelo seu histórico criminal (fls. 165/181 doc. único), de modo que a prisão deve ser mantida para garantir a ordem pública e agora, diante da prolação da sentença condenatória, para assegurar a aplicação da lei penal.
+Cumpre ressaltar que o Paciente permaneceu segregado durante toda a instrução processual, de modo que assim deve permanecer enquanto aguarda o julgamento do eventual recurso, vezque não houve alteração das circunstâncias fáticas que justificaram a custódia.
+A jurisprudência do Superior Tribunal de Justiça diz que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade, nos termos do art. 387, § 1º, do Código de Processo Penal (HC n. 462.045/AC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2018).
+No presente caso, a sentença referiu-se ao decreto inicial da prisão preventiva para mantê-la, destacando o histórico criminal do paciente, reincidente e de maus antecedentes, além de ser o responsável por operacionalizar o recebimento e distribuição do entorpecente (fl. 37).
+Ora, a manutenção do cárcere constitui importante instrumento de que dispõe o Estado para desarticular organizações criminosas. A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (HC n. 371.769/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2017).
+Ante o exposto, conheço parcialmente do writ e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. DESMEMBRAMENTO. VIOLAÇÃO DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO.MATÉRIA NÃO DEBATIDA NO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PRECEDENTE. PRISÃO PREVENTIVA. ART. 387, § 1º, DO CPP. FUNDAMENTOS DO DECRETO. PACIENTE REINCIDENTE. LÍDER DA ORGANIZAÇÃO. PRECEDENTE.
+Writ parcialmente conhecido e, nessa extensão, denegada a ordem.
