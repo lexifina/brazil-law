@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Aldemir Pereira Torales, cuja pena privativa de liberdade foi extinta pelo cumprimento, estando pendente a execução de 650 dias-multa, em razão de condenação pelo crime de tráfico de drogas.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no Agravo em Execução Penal n. 5101987-18.2022.8.21.7000 (fls. 8/12), que manteve o indeferimento da isenção do pagamento da pena de multa na Execução n. 1797109-86.2009.8.21.0031 (fls. 31/32), da Vara Adjunta de Execuções Criminais da comarca de São Gabriel/RS.
+Alega-se constrangimento ilegal consistente na negativa de declaração da extinção de sua punibilidade pelo cumprimento integral da pena com base no inadimplemento da pena de multa, ao argumento de que o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade (fl. 4).
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que seja declarada a extinção da pena.
+É o relatório.
+Ao que se tem, a Terceira Seção desta Corte firmou o entendimento de que, na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade (Tema Repetitivo n. 931. REsp 1.785.861/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24/11/2021, DJe 30/11/2021).
+Da análise dos autosverifica-se que o Juízo da execução penal dispensou o paciente do pagamento de custas judiciais e lhe concedeu o benefício da assistência judiciária: tendo em vista o teor da petição defensiva, bem como a declaração de hipossuficiência acostada, verifico que o apenado Aldemir Pereira Torales, se inclui na condição de necessidade na acepção da Lei n. 1.060/1951 (fl. 31).
+A seu turno, a Corte estadual afastou a pretensão mandamental ao fundamento de que a existência de dificuldade financeira não se mostra como causa suficiente para suprimir a sanção pecuniária imposta (fl. 11).
+Então, razão assiste à impetração, pois, para esta Corte, considerando que o paciente não deixou de adimplir a pena pecuniária por mera liberalidade, visto que é pessoa pobre no sentido legal, e tanto é verdade que se encontra assistido pela Defensoria Pública do Estado de Minas Gerais.  ..  Assim, não se mostra razoável que o não pagamento da pena pecuniária obste a extinção da sua punibilidade já que, repisa-se, cumprida integralmente a pena corporal imposta (AgRg no REsp n. 1.958.777/MG, de minha relatoria, Sexta Turma, julgado em 9/8/2022, DJe 15/8/2022).
+Em razão disso, concedo liminarmente a ordem impetrada para reconhecer a extinção da punibilidade da pena pecuniária objeto da Execução n. 1797109-86.2009.8.21.0031, da Vara Adjunta de Execuções Criminais da comarca de São Gabriel/RS.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE. PENDÊNCIA DE PENA DE MULTA. AUSÊNCIA DE CAPACIDADE ECONÔMICA. POSSIBILIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
