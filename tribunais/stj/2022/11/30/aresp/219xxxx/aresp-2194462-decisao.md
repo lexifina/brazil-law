@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por EDP SÃO PAULO DISTRIBUIÇÃO DE ENERGIA S.A.em face de decisão da Presidência deste Superior Tribunalque não conheceu do agravo em recurso especial, por incidência da Súmula n. 182/STJ, uma vez não impugnado o óbice da Súmula n. 7/STJ.
+Nas suas razões, a parte agravante insurge-se contra a decisão agravada, afirmando ter havido a impugnação de todos os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Requer, assim, a reconsideração da decisão agravada ou que seja o feito submetido ajulgamento no órgão especial.
+É o relatório.
+Passo a decidir.
+De fato, com razão a parte agravante.
+Com efeito, a agravante comprovou refutou a incidência da Súmula n. 7/STJ, nas razões do agravo de fls. 758/770 (e-STJ). Nesse contexto, reconsidero a decisão de fls. 777/779 (e-STJ),e passo à análise do agravo em recurso especial.
+O Tribunal de Justiça do Estado de São Paulojulgou oapelointerpostopela recorrente, conforme a seguinte ementa:
+APELAÇÃO - Ação de obrigação de fazer, cumulada pleito declaratório de inexigibilidade de débito e indenizatório por danos morais - Sentença que acolheu os pedidos veiculados na exordial, condenou a ré ao restabelecimento do serviço de fornecimento de energia, declarando a inexigibilidade dos débitos pretéritos, bem como, condenou ainda a ré ao pagamento de R$ 9.980,00 a título de danos morais e à importância de R$ 6.000,00 (equivalente a seis dias-multa por descumprimento da ordem liminar) - Pleito de reforma do decidido - Descabimento - Ausência de inadimplência quando da interrupção do serviço público essencial que restou delineada nos autos - Serviço de natureza essencial, que não detém natureza propter rem Débito anterior vinculado ao usuário que efetivamente se utiliza da prestação Precedentes - Concessionária ré que, a despeito de tal circunstância retardou, por mais de quarenta (40) dias, o devido restabelecimento - Conduta desidiosa latente Atividade fim da parte autora,comércio de carnes, que obviamente sofreu sensíveis prejuízos - Dano caracterizado - Montante arbitrado que se mostra adequado e razoável, diante do contexto fático - Sentença mantida - Recurso desprovido.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a agravante alega violação do art. 1.022do CPC/2015, sustentando ter havido omissãodo acórdão recorrido.
+Aponta ofensa aos arts. 1º, 6º, § 1º. 9º, e 29 da Lei n. 8.987/1995 e 7º do CDC, insurgindo-se contra a aplicação das normas do direito do consumidor, em virtude da aplicação do regramento específico das regras do setor de energia elétrica.
+Afirma terem sido ofendidos os arts. 319 e 373 do CPC/2015, sustentando que "ov. acórdão não valorou as provas carreadas aos autos pela EDP, demonstrando, inclusive o motivo da negativa de transferência de titularidade sem o pagamento do débito (em razão da sucessão comercial existente), com base na Legislação vigente, Resolução 414/2010" (e-STJ, fl. 703).
+Sustenta afronta ao art. 884 do CC/2002, sustentando ter havido o enriquecimento sem causa dos agravantes.
+Por fim, alega a violação dos arts. 133 do CTN, 128 da Resolução n. 414 /2010 da ANATEL e 1.146 do CC/2002, sob o argumento de que "restou comprovado amplamentenos autos em sede de contestação e apelação, a legalidade da negativa de transferência de ttularidade, já que existente débito na instalação que será utilizada para o mesmo fim comercial que a empresa antecessora" (e-STJ, fl. 705).
+Foram apresentadas contrarrazões.
+De início, registro a impossibilidade de conhecimento do recurso especial em relação à alegada ofensa aoart. 1.022do CPC/2015, a qual foi formulada de forma genérica, sem a específica demonstração de suposto vício do acórdão recorrido.
+Desse modo, em razão da deficiente fundamentação recursal no ponto, incide a Súmula nº 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+O Tribunal de origem não se pronunciou sobre os arts. 1º, 6º, § 1º. 9º, e 29 da Lei n. 8.987/1995 e 7º do CDC,319 e 373 do CPC/2015, 884 do CC/2002, 133 do CTN, e 1.146 do CC/2002, tendo decidido a controvérsia a partir da análise de Resolução da ANATEL e do reconhecimento de dano moral sofrido pela agravada.
+Nesse contexto, inviável a pretensão da recorrente por óbice das Súmulas n. 282 e 356 do STF, por ausência de prequestionamento dos dispositivos legais apontados como violados.
+Além disso, a desconstituição das conclusões do acórdão recorrido a respeito do dano moral sofrido pela agravada demandaria o revolvimento do acervo fático-probatório, vedado em recurso especial a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos o art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º
+do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVOEM RECURSO ESPECIAL. ENERGIA ELÉTRICA. DECISÃO RECONSIDERADA. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. PREQUESTIONAMENTO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
