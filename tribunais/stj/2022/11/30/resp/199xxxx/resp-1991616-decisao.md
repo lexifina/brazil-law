@@ -1,0 +1,27 @@
+DECISÃO
+EDUARDO FRANCISCO PORTES PORTO SOBRINHO interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0607.14.007804-1/001.
+Extrai-se dos autos que o recorrente foi condenado, em primeiro grau, à pena de 4 anos e 6 meses de reclusão, em regime semiaberto, mais multa, pela prática do delito previsto no art. 157, § 1º, do Código Penal. O Tribunal de origem deu parcial provimento ao apelo defensivo, a fim de reduzir a reprimenda do réu para 4 anos de reclusão e 10 dias-multa.
+Nas razões recursais, a defesa aponta a violação dos arts. 59 e 33, § 2º, "c", do Código Penal, por considerar não haver fundamentação idônea para a valoração negativa da conduta social do réu e imposição do regime inicial semiaberto.
+Requer o provimento do recurso, a fim de que seja reduzida a reprimenda e estabelecido regime mais brando.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 311-319).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+No caso, o Juiz de primeiro grau, fixou a pena-base do recorrente em 5 anos de reclusão, pelos antecedentes, pela personalidade e pela conduta social do agente.
+A Corte estadual afastou a valoração negativa dos antecedentes e da personalidade, mas manteve a avaliação desfavorável da conduta social.
+Quanto à conduta social do agente, o acórdão registrou (fl. 245-, grifei):
+Ocorre que, conforme se vê na CAC de fs.103/105, o acusado ostenta apenas uma condenação definitiva, sendo ela por fato posterior ao ora em apuração.
+Assim, referido apontamento não pode configurar os maus antecedentes do agente, sendo apto, todavia, para demonstrar a reprovável conduta social do réu, demonstrando ser ele pessoa voltada à prática reiterada de ilícitos.
+Sobre o tema, a Terceira Seção deste Superior Tribunal entende que "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte" (EAREsp n. 1.311.636/MS, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 26/4/2019, grifei).
+Nesse contexto, reputo inidôneo o fundamento adotado pelas instâncias ordinárias, que indicaram condenações definitivas do réu a fim de negativar a vetorial conduta social.
+Ilustrativamente:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. CONDENAÇÕES ANTERIORES TRANSITADAS EM JULGADO QUE NÃO JUSTIFICAM A VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL E DA PERSONALIDADE. 2) AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do REsp 1794854/DF, sob o rito de recurso especial repetitivo, fixou-se a seguinte tese: "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente" (Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 23/6/2021, DJe 1º/7/2021).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.814.875/AL, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 26/11/2021)
+Reconhecida, portanto, a ilegalidade, passo à readequação da reprimenda.
+Partindo dos critérios adotados pelas instâncias ordinárias, afasto a análise desfavorável da conduta social do agente e fixo a pena-base no mínimo legal, em 4 anos de reclusão, mais 10 dias-multa. Na segunda fase, a pena permanece inalterada, ainda que reconhecida a atenuante da confissão, por força da Súmula n. 231 do STJ. Na terceira etapa, ausentes causas de aumento e de diminuição, torno a reprimenda definitivamente estabelecida em 4 anos de reclusão mais 10 dias-multa.
+Como consectário lógico da pena aplicada e considerando a ausência de circunstâncias judiciais negativas, fixo o regime aberto para início do cumprimento da pena, em observância ao parecer do Ministério Público Federal, que opinou pelo provimento do recurso, com a consequente readequação do regime (fl. 319).
+À vista do exposto, com fundamento no art. 932, V, "a", do CPC, c/c o art. 34, XVIII, "c", do RISTJ, dou provimento ao recurso especial, para afastar a análise negativa da conduta social, redimensionando a sanção para 4 anos de reclusão mais 10 dias-multa, e fixar o regime aberto para início do seu cumprimento.
+Publique-se e intimem-se.
