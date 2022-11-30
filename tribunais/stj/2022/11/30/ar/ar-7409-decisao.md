@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de ação rescisória, com pedido de tutela antecipada, ajuizada por KELLEN NUNES GOMES RODRIGUES, com baseno art. 966, VII, do CPC/2015, em que visadesconstituir decisão desta Corte, proferida no julgamento do RMS 53916/RJ, da relatoria do eminente Ministro Og Fernandes, na qual se negou provimento ao recurso ordinário em mandado de segurança porinexistir prova pré-constituída de preterição arbitrária e imotivada por parte da administração, não havendo falar em ofensa ao direito líquido e certo à nomeação da recorrente.
+A parte autorasustenta, em síntese,que muito emboratenha passado para "cadastro reserva"para o cargo de técnico em farmáciano Município de Campos dos Goytacazes, estava dentro do número de vagas abertas durante a validade do concurso, visto que há vasta prova material de que foram abertas 143 vagas e a autora estava na colocação 81ª.
+Alega queobteve, posteriormente ao trânsito em julgado do seu recurso, provas novas - cuja existência ignorava ou de que não pode fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável -, consubstanciada no julgamento de outro MS de outra impetrante que conseguiu por meiodo mandado de segurança a vaga pleiteada no mesmo concurso sob as mesmas condições da autora.
+Defende, assim, que tem direito a nomeação, por estarcomprovado o seu direito líquido e certo,além da violação ao princípio da isonomia, uma vez que se trata domesmo concurso, mesmo cargo, em que ocorreu a nomeação de outros candidatos e foi negado à autora.
+Porfim, pleiteia o provimento da presente açãoem caráter liminar, expedindo-se mandado que determine a imediata nomeação, posse e exercício do cargo.
+Passo a decidir.
+Aação rescisória tem como finalidade a desconstituição de decisão de mérito, sendo certo que, nos termos do art. 105, I, "e", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as ações rescisórias dos seus julgados.
+A admissão de ação rescisória ajuizadacom base no disposto no inciso VIIdo art. 966 do CPC/2015pressupõe a apresentaçãode prova nova, obtida pelo autor após o trânsito em julgado,cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável.
+No caso dos autos, por óbvio, que o provimento jurisdicional em um outro processo em que a autora não figurou como partenão se enquadra emdocumento novo hábil à rescisão da coisa julgada material, tendo em vista que deve haver identidade entre os elementos da ação. É necessária a mesma relação jurídica.
+Na realidade, constata-se que a presente ação rescisória está sendo indevidamente utilizada como sucedâneo recursal, já que a pretensão deduzida não diz respeito a eventual vício de formação da coisa julgada, mas sim a corrigir eventual injustiça da decisão rescindenda.
+A propósito, cito osprecedentesa seguir:
+AGRAVO INTERNO NA PETIÇÃO. PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL. EXCEPCIONALIDADE DA MEDIDA. AÇÃO RESCISÓRIA. PROVA NOVA. MANEJO DA RESCISÓRIA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE FUMUS BONI IURIS E DE PERICULUM IN MORA. MERO INÍCIO DOS ATOS EXECUTÓRIOS. AGRAVO INTERNO DESPROVIDO.
+1. A atribuição de efeito suspensivo a recurso especial é excepcional e pressupõe a existência de decisão manifestamente ilegal ou contrária à jurisprudência do STJ, somada à demonstração dos requisitos da viabilidade do apelo nobre e da plausibilidade do direito invocado, além do perigo da demora.
+2. Nos termos do art. 966, VII, do CPC, prova nova é aquela que o autor não teve condições de produzir no processo originário por motivos alheios à sua vontade e à sua disponibilidade, seja porque desconhecida, seja por não estar então acessível.
+3. A ação rescisória não pode ser utilizada como sucedâneo de recurso, tendo lugar apenas nos casos em que a transgressão à lei se mostrar relevante ou, ao menos, suficientemente duvidosa a ponto de justificar novo debate, pois é preciso respeitar a estabilidade das relações jurídicas acobertadas pela coisa julgada, em favor da segurança jurídica.
+4. O mero início dos atos executórios não caracteriza o periculum in mora necessário para a concessão do efeito suspensivo ao recurso.
+5. Agravo interno desprovido.
+(AgInt na Pet 15.287/SP, Rel.Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 10/10/2022, DJe de 21/10/2022). (Grifos acrescidos).
+PROCESSO CIVIL. AÇÃO RESCISÓRIA. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. PERITO. POLÍCIA CIVIL. AUSÊNCIA DE MANIFESTA VIOLAÇÃO DE NORMA JURÍDICA. DOCUMENTO NOVO INCAPAZ DE MODIFICAR O JULGADO RESCINDENDO. IMPROCEDÊNCIA.
+ ..
+5. Nos termos da jurisprudência do STJ, o documento novo que propicia o manejo da ação rescisória, fundada no art. 966, VII do CPC, é aquele que, já existente à época da decisão rescindenda, era ignorado pelo autor ou do qual não pôde fazer uso, capaz de assegurar, por si só, a procedência do pronunciamento jurisdicional, o que não é o caso dos autos.
+6. Ação rescisória julgada improcedente.
+(AR 5.923/MS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO,julgado em 26/9/2018, DJe de 17/10/2018). (Grifos acrescidos).
+Nesse panorama, registro que aPrimeira Seção desta Corte tem admitido a possibilidade de indeferimento liminar de pleito rescisório pelo relator quando não divisadas nenhuma das hipóteses descritas no art. 966 do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. INDEFERIMENTO LIMINAR. JULGAMENTO RESCINDENDO. EXAME DE MÉRITO. NÃO OCORRÊNCIA.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "é possível o indeferimento liminar da ação rescisória, com base no art. 34, XVIII, do RISTJ, quando o relator verificar o descabimento de plano da ação rescisória, por ausência das hipóteses descritas no caput do art. 966" (AgInt na AR 6.601/DF, Rel. Ministro OG FERNANDES, Primeira Seção, julgado em 07/04/2020, DJe 16/04/2020).
+2. No presente caso, não houve o exame do mérito do Habeas Data 324/DF, tendo em vista o reconhecimento da incompetência do STJ para processar e julgar o feito em destaque, não sendo a hipótese de aplicação da ressalva prevista no art. 966,§ 2º, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt na AR 6.772/DF, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 11/11/2020, DJe 17/11/2020). (Grifos acrescidos).
+PROCESSO CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. ALEGATIVA DE ERRO DE FATO. DESERÇÃO DO RECURSO ESPECIAL. EQUÍVOCO NO PREENCHIMENTO DAS GUIAS DE RECOLHIMENTO. EXISTÊNCIA DE PRONUNCIAMENTO JUDICIAL SOBRE O FATO. UTILIZAÇÃO DA AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. INDEFERIMENTO DA INICIAL. POSSIBILIDADE. DECISÃO MONOCRÁTICA MANTIDA.
+1. De acordo com jurisprudência do STJ, é possível o indeferimento liminar da ação rescisória, com base no art. 34, XVIII, do RISTJ, quando o relator verificar o descabimento de plano da ação rescisória, por ausência das hipóteses descritas no caput do art.966.
+2. Não se admite o ajuizamento da ação rescisória, com base na alegativa de erro de fato, quando o mesmo tiver sido objeto de controvérsia e pronunciamento judicial no âmbito do processo rescindendo.
+3. No caso, a parte autora alega a existência de erro de fato no processo rescindendo, mas a narrativa contida na peça inicial evidencia a mera discordância do litigante em relação ao critério interpretativo adotado na decisão rescindenda sobre o reconhecimento da deserção do recurso especial, em razão do preenchimento equivocado das respectivas guias de recolhimento. Em tal situação, está evidenciada a utilização do feito rescisório como mero sucedâneo recursal, de modo que deve ser mantida a decisão que extinguiu a ação.
+4. Agravo interno a que se nega provimento.
+(AgInt na AR 6.601/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 07/04/2020, DJe 16/04/2020). (Grifos acrescidos).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, INDEFIRO LIMINARMENTE a petição inicial, restando PREJUDICADA a análise do pedido de tutela de urgência.
+Sem honorários, uma vez que a parte ré nem sequer foi citada.
+Publique-se. Intimem-se.
