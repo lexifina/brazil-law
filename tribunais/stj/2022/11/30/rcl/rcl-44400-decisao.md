@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por RODRIGO ARAÚJO SANTANA, com esteio no art. 105, I, "f", da Constituição Federal, do art. 988 e ss. do CPC/15, bem como nos arts. 187 a 192, ambos do RISTJ, apontando descumprimento pelo Juízo de Direito da 1ª Vara de Execuções Criminais da Comarca de Araçatuba/SP de decisão por mim proferida no Habeas Corpus n. 731.369/SP no qual, a despeito de não conhecer da impetração, recomendei ao Juízo das execuções que os pedidos defensivos, de julgamento do livramento condicional e da progressão ao regime aberto, fossem apreciados o mais breve possível.
+Na presente reclamação, a defesa lembra que pleiteou a concessão do livramento condicional em 9/4/2020, reiterando o pedido em 17/11/2021, e afirma que, mesmo tendo sido devidamente intimada da decisão proferida no HC 731.369/SP e 29/06/2022, até a presente data os pleitos não foram ainda apreciados, não tendo sido juntados aos autos da execução nem mesmo os cálculos de pena atualizados.
+Aponta violação dos princípios da humanidade, e da celeridade ou razoável duração do processo e assevera que "inexiste contribuição da defesa para demora na apreciação dos pedidos, uma vez sempre atendeu prontamente as decisões proferidas no prazo correto e inclusive peticionou nos autos no dia 8/8/2022 e até o presente momento quase 4 meses após o protocolo, sequer tem decisão quanto à petição" (e-STJ fl. 8).
+Pede, assim, a concessão de liminar, "para que os pedidos defensivos, de julgamento do livramento condicional e da progressão ao regime aberto, sejam apreciados no prazo máximo de 10 dias" (e-STJ fl. 10).
+No mérito, requer sejam "definitivamente que sejam apreciados os pedidos livramento condicional e da progressão ao regime aberto, visto que a demora na apreciação de pedidos pela máquina estatal não pode de maneira alguma fazer com que o reclamante fique preso injustificadamente" (e-STJ fl. 10).
+Pede, ainda, a concessão dos benefícios da justiça gratuita.
+É o relatório. Passo a decidir.
+Inicialmente, concedo a justiça gratuita pleiteada.
+No mérito, relembro que, nos termos do art. 105, I, f, da CF/88, c/c o art. 187 do RISTJ, cabe Reclamação da parte interessada ou do Ministério Público, para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões.
+Por sua vez, o novo CPC legislou exaustivamente sobre o tema nos arts. 988 a 993, definindo, como hipóteses do cabimento da Reclamação, aquelas descritas no art. 988, dentre as quais as que preveem especificamente a Reclamação dirigida ao Superior Tribunal de Justiça são as seguintes:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+(..)
+§ 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+I - proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+A leitura dos dispositivos acima transcritos revela que a reclamação somente é cabível para preservar a competência do tribunal e a autoridade de suas decisões.
+Ora, uma "recomendação" judicial, ainda que emanada de Corte Superior, não tem o mesmo peso de uma ordem judicial, cujo cumprimento pode ser pleiteado na via da reclamação e que, a depender da circunstância e dos agentes envolvidos, pode até mesmo configurar o delito de desobediência (art. 330, CP).
+Assim sendo, não cabe reclamação para arguir descumprimento de "recomendação" efetuada, a título de obiter dictum, em julgado desta Corte.
+Nesse sentido, confiram-se, entre outros, os seguintes julgados: RCL n. 43.852/SP, Rel. Ministro RIBEIRO DANTAS, DJe de 14/11/2022; RCL n. 43.629/SP, Rela. MinistraLAURITA VAZ, DJe de 23/8/2022; RCL n. 40.481/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 25/9/2020; RCL n. 40.273/PR, Rel. Ministro RIBEIRO DANTAS, DJe de 16/6/2020; RCL n. 039.959/PE, Rel. Ministro RIBEIRO DANTAS, DJe de 6/4/2020; RCL n. 40.498/BA, Rel. MinistroREYNALDO SOARES DA FONSECA, DJe de 6/8/2020; RCL n. 39.729/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 14/2/2020; RCL n. 039.438/PE, Rel. MinistroREYNALDO SOARES DA FONSECA, DJe de 6/12/2019.
+Na mesma linha:
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. DESCUMPRIMENTO DE ORDEM EMANADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO HC N. 482.856/SP. NÃO CONFIGURAÇÃO. AGRAVO DESPROVIDO.
+1. No caso, não há que se falar em desobediência à ordem do Superior Tribunal de Justiça. Isso porque, o HC n. 487.699/GO não foi conhecido, reconhecendo-se existir fundamentos idôneos à segregação provisória, afastando-se a possibilidade de sua substituição por outras medidas cautelares, bem como a alegação de excesso de prazo, havendo recomendação de celeridade à resolução do caso.
+2. Não é cabível a reclamação para a pretensão de reconhecimento de excesso de prazo por fatos supervenientes à própria decisão cuja autoridade se busca garantir.
+3. Agravo regimental desprovido.
+(AgRg na Rcl 38.607/SP, Rel. Ministro JORGE MUSSI, Terceira Seção, julgado em 12/02/2020, DJe 28/02/2020)
+De se ressaltar, ademais, que a consulta ao andamento processual da Petição Criminal n. 1009265-15.2020.8.26.0032 revela ter sido realizada, em 28/7/2022, audiência de justificação relativa à possível falta grave cometida pelo ora reclamante. Com efeito, eventual cometimento de falta grave recente pode vir a refletir na aferição do requisito subjetivo necessário à concessão da benesse pretendida pelo ora reclamante na execução penal, pelo que é de todo conveniente que a deliberação sobre a questão preceda a análise do pedido de livramento condicional.
+Ante o exposto, não conheço da presente reclamação e a extingo sem resolução de mérito, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, na redação que lhe foi dada pela Emenda Regimental n. 22, de 16/3/2016.
+Entretanto, diante do fato de que a Petição Criminal n. 1009265-15.2020.8.26.0032 não teve mais nenhum andamento depois de 8/8/2022, reitero a recomendação para que o Juízo das Execuções tome todas as providências necessárias para que sejam analisados os pedidos da defesa, com a maior brevidade possível.
+Cientifiquem-se o Ministério Público Federal, o Ministério Público do Estado de São Paulo e o Juízo prolator da decisão objeto de reclamação.
+Intimem-se.
