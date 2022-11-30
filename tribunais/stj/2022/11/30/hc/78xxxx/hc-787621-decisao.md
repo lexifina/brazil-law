@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de FELIPE GABRIEL DE OLIVEIRA SANTOScontra acórdão proferido peloTribunal de Justiça do Estado de Goiás no HC n.5194005-43.2021.8.09.0011.
+O Paciente foi condenado às penas de8 (oito) anos,3 (três) meses e 29 (vinte e nove) dias de reclusão, em regime inicial fechado,e 30 (trinta) dias-multa como incurso no art.157, § 2.º, inciso II,e § 2.º-A, inciso I, do Código Penal. Foi-lhe negado o recursoem liberdade.
+Interposto recurso de apelação, a Corte localnegou-lhe provimento (fls. 39-44).
+Neste mandamus, a Defesasustenta ofensa aos arts. 313, inciso II, e 387, § 1.º, ambos do Código de Processo Penal.Aduz, em suma, que não se verifica a existência de fundamentação idônea para a manutenção da custódia.
+Asseveraque as razões invocadas na origem" .. deixaram de contextualizar, em dados concretos dos autos, a necessidade cautelar de segregação do réu" (fl. 9), e que a manutenção da segregação cautelar foi tratada como mera consequência da prolação do édito condenatório. Sustenta apossibilidade de aplicação demedidas cautelares alternativas e a existência decondições pessoais favoráveis ao Paciente.
+Requer, em liminar e no mérito, a concessão de liberdade provisória, ainda que mediante a imposição de medidas cautelares alternativas à prisão.
+É o relatório.
+Decido.
+Verifico não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária do writ. Com efeito, o Juízo sentenciante negou ao Paciente o direito de recorrer em liberdade afirmando a"manutenção dos fundamentos da decisão de evento nº 167" (fl. 35). Consta da sentença, ainda, que foi indeferido pedido de revogação da custódia (fl. 26). OTribunal de origem manteve a sentença, no ponto, assinalando estarem "preenchidos os requisitos do artigo 312 do Código de Processo Penal" (fl. 42).
+Ocorre queaDefesanão juntou acópiadadecisão que decretou a prisão preventiva nemda decisão que indeferiupedido de revogação da custódia- mantida na sentença condenatória e no acórdão ora impugnado-, peças necessárias à devida compreensão da controvérsia.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019.
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃOESSENCIALÀ ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
