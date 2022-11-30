@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porREINALDO PETRECHEN,contra decisão que negou seguimento a recurso especial fundamentadonasalíneas"a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/07/2022.
+Concluso ao gabinete em: 03/10/2022.
+Ação:demarcatória e divisória, c/c pedido de imissão na posse, proposta pelo ora agravante em face de EDUARDO CAMPOS DE FREITAS, ISADORA DE FREITAS RUIZ, CLEIA MARILDA PORTUGAL PETRECHEN, LUIZ CARLOS MACHIAVELLI PETRECHEN, MARAYSE EDUARDA DE FREITAS, PEDRO DOMINGOS DE FREITAS, PEDRO HENRIQUE DE FREITAS, VINICIUS DE FREITAS RUIZ, tendo por objeto a fração ideal de 50% de imóvel rural, que fora adjudicada pelo autor em ação de execução, em que figurava como executado Luiz Carlos Petrechen.
+Citados, os requeridos apresentaram reconvenção, na qual postularam a declaração de ineficácia da adjudicação em relação a eles.
+Sentença:julgou improcedentes os pedidos iniciais, julgando procedente o pedido reconvencional formulado pelos réus, para declarar a ineficácia da arrematação do imóvel realizada pelo ora agravante, em relação aos agravaods.
+Acórdão:deu provimento à apelação interposta pelos agravados, para fixar honorários na reconvenção, e negou provimento ao apelo do agravante, nos termos da seguinte ementa (e-STJ fls. 833/834):
+"DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DEMARCATÓRIA C/C IMISSÃO NA POSSE. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO PRINCIPAL E PROCEDÊNCIA DO PEDIDO RECONVENCIONAL. IRRESIGNAÇÃO DAS DUAS PARTES.
+APELAÇÃO 1 (PELOS REQUERIDOS). PEDIDO PARA FIXAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA EM PERCENTUAL SOBRE O VALOR DA CAUSA QUANTO AO PEDIDO PRINCIPAL. PROVIMENTO. FIXAÇÃO POR EQUIDADE SOMENTE EM HIPÓTESES EXCEPCIONAIS NÃO CARACTERIZADAS NA ESPÉCIE (ART. 85, § 8º, CPC). PRECEDENTES. FIXAÇÃO DE HONORÁRIOS ESPECÍFICOS PARA RECONVENÇÃO. NECESSIDADE (AT. 85, § 1º, CPC).
+APELAÇÃO 2 (PELOS AUTORES). ALEGAÇÃO DE QUE OS PEDIDOSRELATIVOS À DEMARCAÇÃO E IMISSÃO NA POSSE DEVEM SERJULGADOS PROCEDENTES. NÃO PROVIMENTO. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE EVIDENCIAM A INEFICÁCIA DO DIREITOALEGADO PELO AUTOS EM RELAÇÃO AOS REQUERIDOS. PRECEDENTES.
+1. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2)que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite afixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II)o valor da causa for muito baixo. 6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido.Segundo recurso especial desprovido. (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe29/03/2019) (destaquei)
+2. Tendo em vista que o direito pleiteado pelo Autor decorre de adjudicação do imóvel aperfeiçoada em Ação de Execução, sobre a qual os Requeridos (promitentes vendedores) não foram regularmente cientificados, o ato se mostra ineficaz em relação aos Réus.
+APELAÇÃO 1 CONHECIDA E PROVIDA
+APELAÇÃO 2 CONHECIDA E NÃO PROVIDA"
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 87, 88, 1.227 e 1.245 do CC/02, 65 da Lei 4.504/64, 843 e 889, VI, do CPC,bem como dissídio jurisprudencial, sustentando que: (i) o imóvel possui metragem passível de subdivisão, superior ao módulo rural; (ii) quando da celebração da promessa de compra e venda com os recorridos, o recorrente participou apenas como titular de direito de crédito sobre a área, e não condômino; (iii) até o momento da adjudicação, o recorrente era mero detentor de direito de crédito, e não de direito real, sendo que os promitentes compradores não haviam realizado o registro da promessa de compra e venda na matrícula do imóvel; (iv) os recorridos tinham conhecimento da adjudicação e a ela não se opuseram; (v) a relativização da boa-fé depende de prova, não bastando o grau de parentesco entre os envolvidos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 87, 88, 1.227 e 1.245 do CC/02, 65 da Lei 4.504/64 e843 do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à boa-fé do agravante na adjudicação realizada após a celebração do compromisso de compra e venda,exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (ineficácia da adjudicação, ante a má-fé do adjudicante), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa(e-STJ fl.839) para 15%.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DEMARCATÓRIA E DIVISÓRIA DE IMÓVEL RURAL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ.REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação demarcatória e divisória de imóvel rural.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3.Alterar o decidido no acórdão impugnado, no que se refere à boa-fé do agravante na adjudicação realizada após a celebração do compromisso de compra e venda, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
