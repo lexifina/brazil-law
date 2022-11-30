@@ -1,0 +1,8 @@
+DECISÃO
+Não obstante o acórdão exarado no HC n.5332060-07.2021.8.09.0000 não tenha decidido a temática suscitada neste writ, no caso, sobrevieram a prolação de sentença e o julgamento, peloTribunal de Justiça de Goiás, da apelação defensiva, interposta nos autos do Processo n. 5078722-30.2021.8.09.0024. O Colegiado deu provimento ao recurso nos termos desta ementa:
+APELAÇÃO CRIMINAL. TRÁFICO. NULIDADES. INVASÃO DE DOMICÍLIO. OCORRÊNCIA. DÚVIDA QUANTO A RESIDÊNCIA DO RÉU. FALTA DE FUNDADAS RAZÕES PARA INGRESSO NA RESIDÊNCIA DO RÉU.IN DUBIO PRO REO.DEMAIS MATÉRIAS. PREJUDICADAS. 1.Prospera a tese defensiva de nulidade da prisão em flagrante, decorrente da invasão de domicílio e mácula da prova amealhada, na medida em que, ao ser dado voz de parada ao réu, este ingressou de volta à sua suposta residência, sendo perseguido pelos policiais até os fundos do imóvel, onde foi realizada a busca pessoal (abordagem) e apreendida a droga consigo.2.Havendo dúvidas quanto a residência do acusado, compete à acusação fazer a prova cabal de que o local era ermo, inabitável ou ainda em construção (sem condições de moradia), sob pena de incidência do princípio doin dubio pro reo.3.Demais matérias de mérito prejudicadas em virtude da absolvição operada.RECURSO CONHECIDO EPROVIDO.
+Assim, perdeu o objeto o presente writ, julgo-o, consequentemente, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DA PROVA. TEMA NÃO DEBATIDO NO ACÓRDÃO IMPUGNADO. SUPERVENIENTESPROLAÇÃO DE SENTENÇA E PROVIMENTO DO APELO DEFENSIVO.PERDA DE OBJETO.
+Writ prejudicado.
