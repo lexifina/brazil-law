@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Tatiana Guimarães da Silva, com fundamento no art. 105, III, ae c, da Constituição Federal, desafiandoacórdão assim ementado (e-STJ, fl. 170):
+"APELAÇÃO - AÇÃO DE COBRANÇA - Pretensão de declaração de nulidade da sentença em razão de extravio de documento - Possibilidade de manifestação anterior - Preclusão. RECURSO NÃO PROVIDO."
+Os embargos de declaração opostos foram acolhidos parcialmente, sem efeitos infringentes(e-STJ, fls. 192-196).
+Arecorrentealegou, nas razões do recurso especial (e-STJ, fls. 1.696-1.798), a violação dos arts. 278, 371, 435 e437do Código de Processo Civil de 2015; 18, 20, 26 e 39 do Código de Defesa do Consumidor; e 186 e 927 do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a nulidade de sentença, apontando a existência de erro material e inexistência de preclusão. Afirmou que assim que teve ciência, por meio da carga do processo, acerca da ausência de documento, alegou o vício na primeira oportunidade, ou seja, na apelação, inclusive juntando novamente o documento (e-mail), capaz de, por si só, alterar a sentença; quea situação é de extravio e não que o documento não tenha sido de fato apresentado, e quehouve expressa referência ao documento na petição, inclusive requerendo a intimação da parte contrária para manifestação, razão pela qual não teria qualquer motivo para deixar de apresentá-lo na oportunidade, apontando que trata-se de documento novo, que não fora apresentado com a inicial, porque apenas se cogitou de decadência após a apresentação da defesa, sendo necessária a apresentação da contraprova.
+Alegou que, ainda que a matéria aqui ventilada pudesse ser objeto de futura ação rescisória pela existência de documento novo, por uma questão processual (objetivando-se evitar outra demanda com o mesmo viés), entende que havendo comprovação cabal de inexistência da decadência, esta deve ser afastada pela decisão colegiada.
+Aduziu que a reparação dos danos se baliza na responsabilidade do ofensor com vistas à satisfação pessoal ou econômica do consumidor e que, no caso em questão, houve violação contratual por parte da requerida, em razão da inexecução do contrato e a a existência de responsabilidade objetiva, na qualidade de fornecedora de um produto.
+Foram apresentadas contrarrazões (e-STJ, fls. 219-224).
+O Tribunal de origem não admitiu o recurso especial em razão da ausência de violação dos dispositivos apontados; e da impossibilidade de reexame do conjunto fático-probatório,incidindo a Súmula n. 7/STJ(e-STJ, fls. 229-230).
+É o relatório, decido.
+Preliminarmente, no tocante aos arts. 18, 20, 26 e 39 do Código de Defesa do Consumidor; e 186 e 927 do Código Civil de 2002, constata-se que o conteúdo normativo dos dispositivos invocados no recurso especial não foram apreciados pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+Caberia ao recorrente, na hipótese, alegar violação do art. 1.022 do CPC/2015, providência, todavia, da qual não se desincumbiu.
+Dessa forma, o apelo nobre esbarra no óbice da Súmula n. 211/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Derruir as conclusões do Tribunal de piso no tocante à legitimidade passiva e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+1.1. A orientação jurisprudencial desta Casa é no sentido de que é solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de consumo, o que atrai a incidência do teor da Súmula 83/STJ 2.Nos termos da jurisprudência desta Corte, a existência de fundamentos inatacados, aptos à manutenção do arresto recorrido , e a constatação de razões dissociadas do recurso em relação ao acórdão impugnado atraem a incidência das Súmulas 283 e 284 do STF.
+3. "Importa consignar que esta Corte Superior perfilha o entendimento de que as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no REsp 1197860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017).
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, obrigatória a incidência da Súmula 211 do STJ.
+5. O acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição. Precedentes.
+6. Relativamente ao percentual de retenção, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.113.574/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022, DJe de 4/11/2022).
+Quanto ao mais, o Tribunala quo, ao julgar a apelação, consignou o seguinte (e-STJ, fl. 171):
+A irresignação é improcedente.
+Isso porque, diferentemente do que alega a apelante, é seu dever certificar a idoneidade das petições e documentos que junta nos autos.
+Ainda, foi intimada em data posterior à juntada da referida petição à especificação de provas (fls. 116/117), não aduzindo acerca da ausência do e-mail cujo extravio se alega.
+Nesse sentido, segundo o artigo 245 do Código de Processo Civil, "a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão". Assim, não se manifestando acerca da ausência do documento na primeira oportunidade, restou preclusa tal possibilidade de insurgência.
+No mais, a prova não pode ser considerada nova nos termos do artigo 397 do CPC, vez que produzida em data anterior à propositura da ação, de conhecimento da apelante e cuja juntada aos autos era possível.(Sem grifo no original).
+A conclusão do acórdão recorrido está em consonância com o posicionamento desta Corte de Justiça acerca da necessidade de alegação das nulidades no primeiro momento em que a parte tiver oportunidade, sob pena de preclusão, como se deu no caso dos autos.
+Portanto, o acórdão recorrido julgou em conformidade com a jurisprudência desta Corte, incidindo a Súmula n. 83/STJ.
+É o que se verifica nas seguintes ementas:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CORREÇÃO. INTEMPESTIVIDADE CONFIRMADA. INTIMAÇÃO. VÍCIO. NULIDADE RELATIVA. PRECLUSÃO. INOVAÇÃO RECURSAL. DJE. PUBLICAÇÃO. PREVALÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, o vício relativo à ausência de intimação constitui nulidade relativa, devendo ser alegada na primeira oportunidade em que couber à parte se manifestar nos autos, sob pena de preclusão.
+3. É inviável a análise de tese alegada apenas no âmbito de agravo interno, visto que constitui inadmissível inovação recursal.
+4. A publicação no Diário de Justiça Eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais. Precedente.
+5. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 1.589.406/RJ, RelatorMinistro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/10/2020, DJe 29/10/2020).
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUDIÊNCIA DE JUSTIFICAÇÃO PRÉVIA NÃO REALIZADA. AUSÊNCIA DE DANO À PARTE RÉ. PREJUÍZO NÃO DEMONSTRADO. ALEGAÇÃO DE NULIDADE. PRECLUSÃO. NULIDADE DE ALGIBEIRA. IMPOSSIBILIDADE DE MANEJO. AGRAVO DESPROVIDO.
+1. A ausência de realização da audiência de justificação prévia não acarreta nenhum prejuízo à parte ré, já que o único provimento que pode decorrer do referido ato processual é a concessão de providência liminar à parte contrária.
+2. Ainda que se pudesse vislumbrar a possibilidade de dano à parte ré no caso concreto, a jurisprudência desta Corte Superior é firme no sentido de que a decretação de nulidade processual não prescinde da efetiva demonstração do prejuízo, ônus do qual a parte não se desincumbiu.
+3. Destaque-se ainda que, nos termos da jurisprudência desta Corte Superior, eventuais vícios processuais devem ser alegados pela parte na primeira oportunidade que tiver de se manifestar nos autos, sob pena de preclusão.
+(..)
+(AgInt no REsp n. 1.699.980/SP, RelatorMinistro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/3/2018, DJe 2/4/2018 - sem grifo no original).
+Além disso, verifica-se que o Tribunala quojulgou com amparo na prova dos autos,assim, amodificação de tal entendimento, demandaria o reexame do substrato fático-probatório dos autos, providência inviável no recurso especial, aplicando-se a Súmula n. 7/STJ.
+A propósito, guardadas as devidas particularidades:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. INTIMAÇÃO EM NOME DE UMA DAS PARTES. EXPRESSÃO E OUTRO. POSSIBILIDADE. REEXAME DE PROVA. INVIABILIDADE. APLICAÇÃO DAS SÚMULAS NºS 7 E 83 DO STJ. NULIDADE. NECESSIDADE DE MANIFESTAÇÃO NA PRIMEIRA OPORTUNIDADE. PRECLUSÃO. OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Inaplicabilidade do NCPC ao caso ante os termos do Enunciado nº 2 aprovado pelo Plenário do STJ na Sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. O presente agravo não se revela apto a alterar o conteúdo do julgado impugnado que negou provimento ao recurso especial, devendo ser ele mantido pelos seus próprios fundamentos.
+3. O Tribunal local afastou a nulidade apontada por entender válida a decisão publicada na imprensa oficial, na qual a intimação da parte foi feita pela expressão e outro e em nome dos seus respectivos patronos, havendo elementos suficientes para a identificação exigida pelo art. 236, § 1º, do CPC/73.
+4. Constata-se que, além da impossibilidade de reexame de prova, o direito da parte estaria precluso, incidindo o art. 245 do CPC/73, uma vez que esta se manteve silente e deixou de apontar a referida nulidade no momento apropriado.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp n. 515.461/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/9/2016, DJe de 7/10/2016).
+Por fim, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de R$ 1.000,00 (mil reais) para R$ 1.200,00 (mil e duzentos reais).
+Publique-se.
