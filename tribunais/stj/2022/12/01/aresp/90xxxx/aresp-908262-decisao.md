@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto pelaIRMAOS QUEVEDO LTDA E OUTRA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo,assim ementado:
+CUMPRIMENTO DE SENTENÇA. Decisão que rejeitou o pedido de reconhecimento de erro de cálculo. Manutenção. Fundada dúvida a respeito da tempestividade do presente recurso. Magistrado a quo que, ao proferir sua decisão, menciona a manutenção de suposta decisão anterior não juntada neste recurso, o que faz presumir se tratar de mero pedido de reconsideração, que não autoriza a suspensão nem a interrupção do prazo de interposição do recurso adequado. Devedor somente veiculou insurgência em relação aos cálculos após a determinação de expedição de guias de levantamento em favor do credor dos valores depositados em juízo. Alegação de excesso de execução extemporânea, além do prazo previsto para a impugnação ao cumprimento de sentença, nos termos do artigo 475-J, §1o do CPC. Não podem os agravantes reconhecer integralmente o valor exequendo como correto, sem qualquer objeção, e, após o cumprimento integral da parte líquida da sentença, voltar sobre os próprios passos e sustentar que houve indevido excesso de execução, revolvendo toda a matéria coberta por preclusão. Prazo de impugnação tem natureza peremptória, não sendo passível de prorrogação. Recurso não provido. (fl.289)
+Em suas razões recursais, a recorrente aponta violação aoart. 884 do CCe divergência jurisprudencial, sustentando, em síntese, que o erro de cálculo pode ser reconhecido a qualquer tempo, não sendo obstado pela preclusão ou coisa julgada.
+Aduz, ainda, que o cálculo apresentando pelo agravado possui um excesso de R$319.946,02 (trezentos e dezenove mil, quatrocentos e quarenta e seis reais e dois centavos).
+É o relatório.
+Passo a decidir.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ:"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Além disso, quanto à alegada violação doart. 884 do CC, verifica-se que o conteúdo normativo dodispositivoinvocadono apelo nobre não foi apreciadopelo Tribunala quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Outrossim, o recurso não merece prosperar pela alínea "c" do permissivo constitucionalem razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, doRISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
