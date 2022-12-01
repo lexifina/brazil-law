@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 329, DE 24 de NOVEMBRO de 2022
+Altera a Instrução Normativa BCB nº 81, de 23 de fevereiro de 2021, que consolida os procedimentos para a remessa das informações relativas às apurações de limites e padrões regulamentares de que trata o art. 1º da Resolução BCB nº 69, de 10 de fevereiro de 2021, e altera as Instruções de preenchimento e o Leiaute do documento de código 2061 - Demonstrativo de Limites Operacionais (DLO).
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso da atribuição que confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base no art. 77, inciso III, do referido Regimento, e tendo em vista o disposto nas Resoluções CMN ns. 4.955, 4.957 e 4.958, todas de 21 de outubro de 2021, e na Resolução BCB nº 232, de 7 de julho de 2022, e Circular 3.343, de 1º de março de 2007,
+R E S O L V E :
