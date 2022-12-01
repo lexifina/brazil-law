@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porLUIS FERNANDO DE ASSIS ALONSO à decisão monocrática desta relatoria de fls. 392-394(e-STJ),quedeu provimento ao recurso especial, a fim de declarar a prescrição da pretensão revisional e extinguir a ação, por esse fundamento (art. 487, II, do CPC/2015), relativamente aos contratos assinados há mais de dez anos da data da propositura da ação.
+Em suas razões recursais, a parte embargante alegaomissãoda decisão, ante a desconsideração de que, no recurso especial interposto, "nãopostula a reforma da decisão recorrida no que se refere ao termo inicial da prescrição, mas apenas em relação ao prazo prescricional aplicável".
+Assevera que "não há que se confundir o prazo prescricional aplicável (decenal ou quinquenal, matéria devolvida a esta Corte) com o termo inicial da prescrição, matéria preclusa no feito, já que expressamente fixada na origem, sem a interposição do competente recurso pela Fundação ré".
+Impugnação apresentada às fls. 402-404(e-STJ).
+É o relatório. Decido.
+Assiste razãoà parte embargante.
+Com efeito, o Tribunal de origem reconheceu a ocorrência da prescrição quinquenal da pretensão revisional de 10 (dez) contratos de mútuo, com exceção de 3 (três), pois decorridos mais de 5 (cinco) anos entre o vencimento do ajuste ou da última parcela e o ajuizamento da ação em 2/10/2017.
+Assim, o termo inicial da prescrição quinquenal foi objeto de decisão pelo Tribunal de origem, o qual o fixou como vencimento do ajuste ou da última parcela e o ajuizamento da ação (e-STJ, fl. 251):
+"Tratando a dívida de contratos de empréstimo, envolvendo relação de trato sucessivo, a prescrição deve incidir a partir do vencimento da última parcela do contrato."
+Norecurso especial interposto pela parte ora embargante, houve pedido apenas para pronunciamento da prescrição decenal, com termo inicial a partir do vencimento da última parcela do contrato(e-STJ, fl. 331):
+"Conhecido o recurso, consequência lógica e necessária é a de seu integral provimento para que seja afastada a prescrição quinquenal, devendo ser pronunciada apenas a prescrição decenal com arrimo no artigo 205 do Código Civil, com termo inicial a partir do vencimento da última parcela de cada contrato revisando."
+Desse modo, embora a jurisprudência desta Corte considerea data da assinatura do contrato como o termo inicial da prescrição da pretensão revisional, conforme declinado na decisão embargada,realmente não poderia ter sido alterado o tópico, sem configurar ofensa à preclusão, decisãoextra petita ereformatio in pejus,porquefoi objeto de prévia decisão que não foi recorrida, notadamente pelo fato do recurso especial constarpostulação para confirmação doacórdão recorrido nessa questão.
+Diante do exposto,acolho os embargos de declaração, a fim de integrar a fundamentação da decisão embargada (e-STJ, de fls. 392-394) nos termos ora declinados e alterar o seudispositivo para constar aseguinte redação:"Diante do exposto, dou provimento ao recurso especial, a fim de declarar a prescrição decenal da pretensão revisional e extinguir a ação, por esse fundamento (art. 487, II, do CPC/2015), relativamente aos contratos com a última parcela vencida há mais de dez anos da data da propositura da ação".
+As disposições sobre a sucumbência permanecem inalteradas.
+Publique-se.
