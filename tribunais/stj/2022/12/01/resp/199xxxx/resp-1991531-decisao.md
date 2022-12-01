@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  BANCO  ITAU CONSIGNADO  S.A.,  fundamentado  no  artigo  105,  inciso  III,  alínea  "a"  e  "c",  da  Constituição  Federal,  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Mato Grosso do Sul assim  ementado:
+"APELAÇÃO CÍVEL - AÇÃO REVISIONAL CONTRATO - JUROS REMUNERATÓRIOS LIMITADOS À TAXA MÉDIA DE MERCADO - DISCREPÂNCIA CONTRATUAL - SUCUMBÊNCIA A SER SUPORTADA INTEGRALMENTE PELA INSTITUIÇÃO FINANCEIRA- SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO. 1. Em relação ao contrato objeto de discussão tem-se que a diferença entre a taxa praticada ao ano é superior a 5% da taxa média, restando, pois, configurada a cobrança abusiva. Assim, passível de ser revista, com a consequente substituição pela taxa média de mercado. 2. Consequentemente, tendo a parte autora/apelante obtido êxito quanto ao pleito inaugural (fixação da taxa média de juros remuneratórios), há que ser alterada a sucumbência, a qual deverá ser arcada integralmente pelo banco apelado. 3. Não sendo possível auferir o valor econômico e, ainda, sendo irrisório o valor atribuído à causa,para fins de fixação dos honorários advocatícios, nos termos do art. 85, § 8º, do CPC,os honorários advocatícios de sucumbência ficam arbitrados em R$ 1.000,00"  (e-STJ  fl.  162).
+No recurso especial (fls. 180/188e-STJ), alega-se, além de divergência jurisprudencial, violação dos artigos4º, V e IX, da Lei nº 4.595/1964,39, 51 e 52, II do CDC, ao fundamento de que os juros remuneratórios contratados não são abusivos, pois fixados com uma variação razoável da taxa média de mercado.
+O  recurso  foi  encaminhado  pelo Vice-presidentedo Tribunal  a  Turma  julgadora  para  juízo  de  retratação.
+Em  novo  acórdão,  a decisão foi reformada e  foi afastadaa abusividade dos juros remuneratórios, conforme ementa:
+"APELAÇÃO CÍVEL  NOVO JULGAMENTO (ART. 1.030, II, DO CPC)  AÇÃO REVISIONAL DE CONTRATO - JUROS REMUNERATÓRIOS - ABUSIVIDADE NÃO DEMONSTRADA  MANTIDA A SENTENÇA DE IMPROCEDÊNCIA  MODIFICAÇÃO DO JULGAMENTO - RECURSO CONHECIDO E DESPROVIDO.
+I - Realizada nova análise da matéria após retorno da Vice -Presidência, nos termos do artigo 1.030, II, do CPC, é devida a limitação dos juros remuneratórios somente quando comprovada que a taxa exigida pelo banco supera consideravelmente a taxa média de mercado aplicada às operações de mesma espécie, divulgada pelo Bacen, adotando-se como parâmetro o entendimento proferido no Recurso Especial n.º 1.061.530/RS. Constatada a ausência de abusividade nos encargos contratados no presente caso, é de rigor a manutenção da avença livremente ajustada.
+II - Consequentemente, deve ser mantida a sentença de improcedência.
+III - Recurso conhecido e desprovido. (e-STJ  fls.  371).
+É  o  relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A alegação de ausência de abusividade dos juros remuneratórios  não  será  examinada  em  virtude  da  ausência  de  interesse  recursal,  tendo  em  vista  que  essa abusividade  foi  excluída  pelo  Tribunal  de  origem  em  juízo  de  retratação.
+Ante  o  exposto,  julgo prejudicado o  recurso  especial .
+Publique-se.
+Intimem-se.
