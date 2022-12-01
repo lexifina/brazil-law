@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por IMAGINATIVA INDÚSTRIA E COMÉRCIO DE MANUFATURADOS LTDA - MEcontra decisão que não admitiu recurso especial (fls. 920-933), com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 902):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE FRANQUIA COMERCIAL. AÇÃO INDENIZATÓRIA E RECONVENÇÃO. CONJUNTO PROBATÓRIO PRODUZIDO NO SENTIDO DA ADEQUADA ASSISTÊNCIA DO FRANQUEADOR PARA COM O FRANQUEADO, NÃO HAVENDO ELEMENTOS QUEINDIQUEM DESCUMPRIMENTO CONTRATUAL A ENSEJAR A REPARAÇÃO INDENIZATÓRIA PLEITEADA. ART. 333, I, DO CPC. IMPROCEDÊNCIA DA AÇÃO PRINCIPAL E PROCEDÊNCIA DA RECONVENÇÃO QUE SE CONFIRMA EM GRAU RECURSAL. HONORÁRIOS ADVOCATÍCIOS MANTIDOS. PREQUESTIONAMENTO. RECURSOS DESPROVIDOS.
+Afirmaarecorrenteque háviolação doart.4º, parágrafo único, da Lei 8.955/1994, argumentando que franqueadora a deixou totalmente desamparada, não lhe dando a assistência que se espera emuma relação como a de franquia, incorrendo, inclusive, em infringência ao que foi contratado.
+Salienta (fl. 930):
+Durante a permanência das atividades do contrato de franquia comercial, a ré apresentou fora do prazo previsto em Lei, um modelo insuficiente de CIRCULAR DE OFERTA DE FRANQUIA, o que, por si só, garante ao franqueado o direito de "arguir a anulabilidade do contrato e exigir a devolução de todas as quantias que já houver pago ao franqueador, ou a terceiros por ele indicados, a título de taxa de filiação e royalties, devidamente corrigidos, pela variação da remuneração básica dos depósitos de poupança mais perdas e danos", conforme parágrafo único do artigo 4º da Lei 8.955 de 15 de dezembro de 1994 que é o diploma legal em vigor que dispõe sobre o contrato de franquia empresarial.
+Diz ainda que foram violados os arts. 186 e 927, ambos do CC/2002, bem como o art. 5º, X, da Constituição Federal. No particular, sustenta que a atuação da parte contrária é causa de prejuízos e, pois, da obrigação de indenizar.
+Foram apresentadas contrarrazões (fls. 975-983).
+O recurso não foi admitido na origem (fls. 986-1.001).
+É o relatório. Decido.
+Conheço do agravo para analisar o especial, recurso que não merece conhecimento.
+Inicialmente, violação a dispositivo constitucional não cabe na via do especial, cujo único escopo é a uniformização do direito federal.
+Quanto aos arts. 186 e 927, ambos do Código Civil, ressente-se o recurso especial do necessário prequestionamento, dado que a matéria a eles referente não foi decidida no Tribunal de origem, que limitou-se à lei de franquias, ao contrato e às nuances fáticas dos autos. Incidem as Súmulas 282 e 356 do STF.
+Colhe-se, a propósito, do acórdão recorrido o seguinte (fls. 906-917):
+(..)
+Não merece reparo a bem lançada sentença de origem, considerando o conjunto probatório trazido aos autos, cujos fundamentos adoto como razões de decidir, transcrevendo-os, verbis:
+Visa a parte autora a condenação da ré ao pagamento de indenização, a título de danos materiais e morais.Os pedidos não merecem acolhimento.
+Com efeito, da análise dos autos se verifica que, em 31 de maio de 2006, as partes firmaram um contrato de franquia comercial, adquirindo a requerente os direitos de uso do nome e da marca "Personal Paper, o que, além de incontroverso, encontra amparo no documento de fls. 26/37.
+A controvérsia cinge-se, porém, ao cumprimento do contrato, à medida em que alega a requerente que a demandada não cumpriucom as obrigações assumidas, a saber, deixou de acompanhar o negócio, de manter e atualizar o mix de produtos, de desenvolver o conjunto de fornecedores para a rede de franquia, negociar preços do fornecimento para a rede, orientar a franqueada sobre promoções e estratégias e realizar movimento ou campanha de divulgação.
+Inicialmente, no que tange ao acompanhamento do contratado, negociação de preços e orientação sobre promoções, dispõe a cláusula 8ªdo instrumento contratual:
+(..)
+Partindo da disposição supra, tem-se que que o dever da demandada consistia em assistência contínua à demandante quanto à elaboração, execução e apresentação dos produtos, auxiliando, ainda, nas técnicas de venda e preços e nas promoçõesa serem realizadas pela franqueada.
+Essa obrigação foi cumprida pela ré, uma vez que da análise dos autos infere-se que por ocasião da assinatura do contrato foi entregue à autora um manual de atendimento ao cliente, que consta às fls.421/422. E Soma-se a esse documento o relato das testemunhas que referem que a demandada prestou o auxílio permanente à franqueada para a instalação no local e o treinamento dos funcionários.
+(..)
+Assim, tem-se que a requerida atendeu satisfatoriamente à cláusula 8ªdo pacto, disponibilizando assistência contínua a franqueada, inclusive, quanto a montagem e execução da franquia, aos preços e forma de atendimento, sendo insubsistente a irresignação da autora no ponto.
+Outrossim, em relação aos produtos e à rede de fornecedores, estabelece a cláusula 9ªdo instrumento de franquia:
+(..)
+Alega a requerente, no entanto, que não houve o fornecimento e atualização do mix de produtos e que a ré não desenvolveu o conjunto de fornecedores, o que, não se sustenta, à medida em que o dispositivo contratual supra colacionado é claro ao apontar que parte do fornecimento seria pela demandada e a outra por terceiros com quem a requerente optasse contratar, por sua conta e risco. E mais, que competia a franqueada resgatar os produtos na forma e prazo convencionados.
+Ademais, consoante afirmaram as testemunhas inquiridas pelo Juízo, a ré forneceu adequadamente os produtos, havendo eventual demora, em decorrência da necessidade de transporte dos bens.
+Seguem os fundamentos do julgado ratificando a sentença, que foi proferida, como se percebe, com aanálise percuciente das cláusulas contratuais e das provas para concluir que não teria a parte contrária causado nenhum prejuízo à ora recorrente, inclusive quanto ao dispositivo tido como violado (art. 4º, parágrafo único, da Lei 8.955/1994):
+Nesse sentido, muito embora não conste no instrumento contratual qualquer disposição acerca da circular de oferta, a legislação é clara ao estabelecer a obrigação do prévio fornecimento e orientação pela franqueadora.
+Com base nessa norma, tenho que diversamente do alegado pelas requerentes, a ré forneceu o manual da franquia tempestiva e adequadamente e, após, o manual de atendimento ao cliente, suprindo, portanto, sua obrigação, fato que foi ratificado pelo depoimento da testemunha Sandra Espíndola da Silva.
+(..)
+Afasta-se, portanto, a alegação de anulabilidade do contrato, restando prejudicado, ainda, o pedido de devolução dos valores pagos, até mesmo porque, as despesas com a instalação da franquia era de responsabilidade exclusiva da franqueada, conforme já exposto.
+Improcede, assim, a ação principal, haja vista que não vislumbro descumprimento contratual pela ré que caracterize um ilícito e gere prejuízos materiais às requerentes, mormente, quando a taxa de filiação e os royalities são devidos, a título de contraprestação.
+E mais, não há que se falar em danos materiais, quanto as despesas com a aquisição de produtos e equipamentos para a montagem e desmontagem do estoque compete à demandante, que anuiu expressamente com a obrigação ao assinar o contrato, aderindo, até mesmo, a necessidade de adequação aos padrões da matriz.
+Do mesmo modo, descabe o pedido de indenização por danos morais, haja vista que eventual aborrecimento ou dissabor suportado pelas demandantes decorreu de sua própria conduta quanto à administração da loja, não havendo qualquer ato ilícito a ser imputado à demandada, que se limitou a cumprir o pacto firmado.
+(..)
+Ademais, a vasta prova testemunhal produzida confirma a tese defensiva, mostrando o efetivo acompanhamento pela demandada do negócio realizado, não havendo prova que corrobore o pedido indenizatório, constatando-se a efetiva assistência do franqueador para com o franqueado, não havendo elementos que indiquem descumprimento contratual a ensejar a reparação indenizatória pleiteada, ônus que incumbia à parte autora, a teor do art. 333, I, do CPC.
+Por outro lado, não há demonstração de que o insucesso do empreendimento realizado pela parte autora se deu em razão da atuação da demandada, considerando a existência de outros tantos fatores externos que influenciam no êxito do negócio.
+No que toca ao recurso adesivo, tenho que os honorários advocatícios foram dimensionados dentro dos ditames legais contidos no art. 20, § 3º, do CPC, considerando os parâmetros adotados em situações similares.
+Como se vê, aquestão federal, nos moldes em que delineada, encontra óbicenas Súmulas 5 e 7 do STJ, ou seja, para se chegar a conclusão diversa daquela adotada pelo Tribunal de Justiçaé preciso interpretar o contrato e revolver as provas.
+Nesse sentido, já decidiu esta Corte, mutatis mutandis:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO EMPRESARIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CONTRATO DE FRANQUIA. RESCISÃO CONTRATUAL. DESCUMPRIMENTO DAS OBRIGAÇÕES POR AMBAS AS PARTES. CULPA RECÍPROCA. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. No caso concreto, a análise das razões recursais -quanto à inexistência de provas de que houve descumprimento contratual por parte das franqueadoras, ora recorrentes -demandaria análise do contrato e reexame da matéria fática, o que é vedado em sede de recurso especial, por incidência das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.066.540/RJ, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/8/2022, DJe de 18/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECUSO ESPECIAL. RESCISÃO CONTRATUAL. FRANQUIA. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. ALEGADA RESCISÃO DO CONTRATO POR INEXISTÊNCIA DE BOA-FÉ, INEXECUÇÃO CONTRATUAL E OMISSÃO DA RECORRIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 CPC/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. Inexistência de julgamento extra petita, porquanto a Corte local não violou os limites objetivos da pretensão, respeitando o princípio processual da congruência.
+3. Rever a conclusão do Tribunal de origem e acolher a pretensão recursal demandaria reexame de provas e interpretação de cláusulas contratuais, providências vedadas nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.837.984/SP, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe de 1/2/2022)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
