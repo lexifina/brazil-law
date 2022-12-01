@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de pedido de reconsideração por ODETE CASTANHEIRA DE SOUZA E OUTROS, contra decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+A decisão foi assim fundamentada, na parte em que impugnada pelos agravantes:
+Cuida-se de agravo em recurso especial interposto por ODETE CASTANHEIRA DE SOUZA E OUTROS, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional, no qual se discute, entre outras matérias, o termo final da incidência dos juros remuneratórios nos casos de ações coletivas e individuais reivindicando a reposição de expurgos inflacionários em cadernetas de poupança.
+A questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1.101), o que sugere a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041, ambos do CPC/2015. (fl. 854-855, e-STJ).
+Conforme entendimento desta Corte:
+i) havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Nesse sentido: AgInt nos EDcl no AREsp 1.131.306/SP, SEGUNDA TURMA, DJe 15/2/2019; AgInt no REsp 1.615.887/PR, PRIMEIRA TURMA, DJe 12/2/2019. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+ii) não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível. Precedentes: AgInt no REsp 1.663.877/SE, TERCEIRA TURMA, DJe de 04/09/2017; AgInt no AREsp 1423595/AL, SEGUNDA TURMA, DJe 17/06/2019; AgInt no REsp 1577710/PR, SEGUNDA TURMA, DJe 07/06/2019.
+Ressalte-se que, eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+Forte nessas razões, indefiro o pedido.
+Publique-se. Intimem-se.
