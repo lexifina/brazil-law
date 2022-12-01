@@ -1,0 +1,4 @@
+Resolução Nº 240 RESOLUÇÃO BCB Nº 240, DE 1º DE SETEMBRO DE 2022
+Altera a Resolução BCB nº 229, de 12 de maio de 2022, que estabelece os procedimentos para o cálculo da parcela dos ativos ponderados pelo risco (RWA) referente às exposições ao risco de crédito sujeitas ao cálculo do requerimento de capital mediante abordagem padronizada (RWACPAD), de que tratam a Resolução CMN nº 4.958, de 21 de outubro de 2021, e a Resolução BCB nº 200, de 11 de março de 2022.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 31 de agosto de 2022, com base no disposto nos arts. 9º, 10, inciso IX, e 11, inciso VII, da Lei nº 4.595, de 31 de dezembro de 1964, e tendo em vista o disposto no art. 3º, § 2º, da Resolução CMN nº 4.958, de 21 de outubro de 2021, nos arts. 3º, inciso III, e 14 da Resolução nº 4.282, de 4 de novembro de 2013, e no art. 3º, § 2º, da Resolução BCB nº 200, de 11 de março de 2022,
+R E S O L V E :
