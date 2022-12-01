@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO NORIO SHINOMIA contra decisão que não admitiu recurso especial, este manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - Homologação de acordo celebrado por advogado sem poderes - Revogação de mandato expressamente comunicada nos autos em data anterior a celebração do acordo - Novo patrono constituído, através de juntada de nova procuração - Atos que implicam na revogação do mandato - Parte que não concorda com os termos do acordo celebrado - Ausência dos requisitos para validade do acordo- Necessidade de prosseguimento da ação.Agravo provido." (e-STJ fl. 80)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 105/109).
+Nas razões do apelo nobre, a parte ora agravante aponta ofensa aos arts.1.022, II; 1.015; 282, § 1º, todos do Novo Código de Processo Civil; ao art. 687 do CC/2002e ao art. 23 da Lei 8.906/1994 (EOAB), aduzindo, em resumo, que (a) "Ao simplesmente ignorar fosse suprida as duas omissões apresentadas nos embargos de declaração, com fundamentos minuciosamente elaborados demonstrando às várias contrariedades às normas da lei federal ocorrida na r. decisão a quo, incorreu o mesmo tribunal em violação à outra norma de mesmo nível hierárquico, o Código de Processo Civil, art. 1.022, II" (e-STJ fl. 124); (b)"almejou a anulação do .. acordo de folha 242/244 dos autos .. (fls. 7) firmado entre as partes, e não da interlocutória que o homologou.O agravo não se presta a anular ato jurídico das partes" (e-STJ fl. 125); (c) "Sendo relação jurídica de crédito entre o advogado e as executadas, cujo acordo foi ratificado por advogado constituído, ainda, sem atingir qualquer direito ou interesse da recorrida, não há porque ser anulado a decisão que também o homologou, devendo produzir todos os jurídicos e legais efeitos" (e-STJ fl. 128); (d) "o mandato cessa pela revogação (CC, art. 682, I) e pode ocorrer a qualquer momento, sendo ainda unilateral, não dependendo da aceitação do mandatário.No entanto, deve ser levado ao seu conhecimento o respectivo ato jurídico" (e-STJ fl. 130); (e) "não foi demonstrado no agravo o prejuízo da recorrida ante o acordo formulado e homologado judicialmente, fato ignorado última instância ordinária, afrontando norma federal, ensejando o recurso especial" (e-STJ fl. 137).
+É o relatório. Decido.
+De início, cumpre asseverar que não se visualiza a alegada violação aoart. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal regional, malgrado não ter acolhido os argumentos suscitados pela parte aqui agravante, manifestou-se expressamente acerca dos temas necessários à integral solução da lide, concluindo pela nulidade da transação em razão da ausência de poderes do advogado que o subscreveu.
+A propósito,transcrevoalgumas passagens do v. acórdão recorrido, in verbis:
+"Trata-se, na origem, de ação de despejo por falta de pagamento cumulada com cobrança de alugueis, julgada procedente, ora em fase de cumprimento de sentença.
+Houve penhora e avaliação de bem imóvel de propriedade da agravada, tendo sido designado o dia 24/02/2016 para a praça do imóvel.
+Alega a agravante ter participado de uma reunião no escritório de seu antigo patrono, no dia 10/02/2016, tendo sido sugerida a realização de acordo, com o qual não concordou, e, dadas as circunstâncias disse que revogaria o mandato.
+No dia 11/02/2016 a agravante comunicou ao Juízo a "quo" a revogação do mandato de seu antigo patrono, por "quebra do elo de confiança", revogando expressamente todos os poderes outorgados (fls. 25).
+No mesmo dia, 11/02/2016, a agravante constituiu novo patrono, conforme instrumento de procuração reunido aos autos (fls. 26).
+Contudo, no dia 18/02/2016, o seu antigo patrono despachou acordo firmado com a agravada no dia 16/02/2016, sem a participação da agravante.
+Pois bem.
+Nos termos do artigo 682, inciso I, do Código Civil, o mandato cessa pela revogação.
+Revogação que pode ocorrer a qualquer momento, de forma expressa ou tácita, uma vez que o mandato é essencialmente revogável e fundado na confiança. A revogação é ato unilateral e independe da aceitação do mandatário.
+ ..
+Houve comunicação expressa nos autos quanto a revogação do mandato do antigo patrono da agravante, antes mesmo da data da celebração do acordo.
+E ainda, nos termos do artigo 687 do Código Civil a nomeação de novo mandatário para o mesmo negócio revoga o mandato anterior.
+Assim, a juntada de nova procuração nos autos, implica na revogação automática.
+ ..
+Nestas condições, houve revogação expressa nos autos do mandato do antigo patrono da agravante e, anoto especialmente, que em data anterior à celebração, por ele, de acordo com a agravada.
+A agravante expressamente não concorda com os termos do acordo celebrado por quem já não mais detinha poderes para transigir. Assim, para a validade do ato, falta requisito essencial.
+Logo, não há como se homologar acordo firmado por pessoa sem poderes para transigir, e cujos termos não atendem a vontade da parte.
+Ante o exposto, dou provimento ao recurso para revogar a homologação do acordo e determinar o regular processamento do feito, com designação de data para a praça do bem penhorado." (e-STJ fls. 81/83)
+Com efeito, as conclusões exaradas no v. acórdão recorrido estão em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que ajuntada aos autos de nova procuração, sem nenhuma ressalva de poderes conferidos ao antigo patrono, caracteriza a revogação tácita do mandato anterior, cabendo ao advogado destituído a busca de eventuais direitos em ação própria.
+Nesse sentido, vale mencionar:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO ACORDO NO RECURSO ESPECIAL. MANDATO ORIGINAL. REVOGAÇÃO TÁCITA. HOMOLOGAÇÃO DE ACORDO. HONORÁRIOS SUCUMBENCIAIS. ADVOGADO DESTITUÍDO.
+1. A juntada aos autos de novo instrumento procuratório, sem nenhuma ressalva de poderes conferido ao antigo patrono, caracteriza a revogação tácita do mandato anterior. Precedente.
+2. Havendo extinção do feito pela homologação de acordo entre as partes antes do trânsito em julgado da sentença, não mais subsistem os honorários sucumbenciais nela fixados. Precedentes.
+3. Hipótese em que apenas resta ao advogado destituído a busca de eventuais direitos em ação própria.
+4. Agravo interno não provido."
+(AgInt nos EDcl Acordo no REsp n. 1.517.922/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 30/4/2018.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA DANDO PARCIAL PROVIMENTO AO APELO EXTREMO, A FIM DE RECONHECER A NEGATIVA DE PRESTAÇÃO JURISDICIONAL QUANDO DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. INSURGÊNCIA RECURSAL DA RÉ.
+1. A jurisprudência do Superior Tribunal de Justiça é orientada no sentido de que a constituição de novo procurador nos autos, sem que haja ressalva em sentido contrário, acarreta revogação tácita dos mandatos anteriores. Precedentes.
+2. Agravo regimental não conhecido."
+(AgRg no REsp n. 1.085.915/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/2/2016, DJe de 16/2/2016.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. QUESTÃO DE ORDEM PÚBLICA. PRECLUSÃO. OUTORGA DE NOVO MANDATO. REVOGAÇÃO TÁCITA. DECISÃO MANTIDA.
+1. Consoante jurisprudência desta Corte, ainda que a questão seja de ordem pública, há preclusão consumativa se esta tiver sido objeto de decisão anterior definitivamente julgada.
+2. A outorga de nova procuração sem ressalva do instrumento procuratório anterior caracteriza revogação tácita de mandato.
+Precedentes.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp n. 1.536.684/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/12/2015, DJe de 4/2/2016.)
+Por outro lado, tendo a decisão agravada sido proferida em sede de cumprimento de sentença, cabível o agravo de instrumento, nos exatos termos do art. 1.015, parágrafo único, do Código de Processo Civil, que estabelece: "Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário".
+No mesmo sentido:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. DECISÃO INTERLOCUTÓRIA QUE INDEFERIU O PEDIDO DE NULIDADE DAS INTIMAÇÕES OCORRIDAS APÓS A PROLATAÇÃO DA SENTENÇA. CABIMENTO DO RECURSO EM FACE DE TODAS AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS EM LIQUIDAÇÃO E CUMPRIMENTO DE SENTENÇA, EXECUÇÃO E INVENTÁRIO, INDEPENDENTEMENTE DO CONTEÚDO DA DECISÃO. INCIDÊNCIA ESPECÍFICA DO ART. 1.015, PARÁGRAFO ÚNICO, DO CPC/2015. LIMITAÇÃO DE CABIMENTO DO RECURSO, PREVISTA NO ART. 1.015, CAPUT E INCISOS, QUE SOMENTE SE APLICA ÀS DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE DE CONHECIMENTO.
+1- Ação proposta em 13/02/2017. Recurso especial interposto em 10/08/2017 e concluso à Relatora em 26/04/2018.
+2- O propósito recursal consiste em definir se é recorrível, de imediato e por meio de agravo de instrumento, a decisão interlocutória que indeferiu o pedido de declaração de nulidade das intimações ocorridas após a prolatação da sentença.
+3- Somente as decisões interlocutórias proferidas na fase de conhecimento se submetem ao regime recursal disciplinado pelo art. 1.015, caput e incisos do CPC/2015, segundo o qual apenas os conteúdos elencados na referida lista se tornarão indiscutíveis pela preclusão se não interposto, de imediato, o recurso de agravo de instrumento, devendo todas as demais interlocutórias aguardar a prolação da sentença para serem impugnadas na apelação ou nas contrarrazões de apelação.
+4- Para as decisões interlocutórias proferidas em fases subsequentes à cognitiva - liquidação e cumprimento de sentença -, no processo de execução e na ação de inventário, o legislador optou conscientemente por um regime recursal distinto, prevendo o art. 1.015, parágrafo único, do CPC/2015, que haverá ampla e irrestrita recorribilidade de todas as decisões interlocutórias, quer seja porque a maioria dessas fases ou processos não se findam por sentença e, consequentemente, não haverá a interposição de futura apelação, quer seja em razão de as decisões interlocutórias proferidas nessas fases ou processos possuírem aptidão para atingir, imediata e severamente, a esfera jurídica das partes, sendo absolutamente irrelevante investigar, nesse contexto, se o conteúdo da decisão interlocutória se amolda ou não às hipóteses previstas no caput e incisos do art. 1.015 do CPC/2015.
+5- Na hipótese, tendo sido proferida decisão interlocutória - que indeferiu o pedido de nulidade das intimações após a prolatação da sentença - após o trânsito em julgado e antes do efetivo cumprimento do comando sentencial, cabível, de imediato, o recurso de agravo de instrumento, na forma do art. 1.015, parágrafo único, do CPC/2015.
+6- Recurso especial conhecido e provido."
+(REsp n. 1.736.285/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/5/2019, DJe de 24/5/2019.)
+Incide, na espécie, o óbice sumular n. 83/STJ, que assim dispõe: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Por fim, no tocante à afirmação de ausência de prejuízo para reforma da decisão e, por consequência, revogação do acordo em vitrina, necessário o revolvimento do suporte fático-probatório dos autos, o que é defeso em sede de recurso especial nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
