@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ AUGUSTO CHAVES BOAL E ANGELO COSSA FERREIRAcontra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 104):
+"AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - DECISÃO QUE INDEFERIU O PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA - INSURGENCIA DA PARTE AUTORA.
+AGRAVANTE QUE, NA QUALIDADE DE SÓCIO DE PESSOA JURÍDICA, PRETENDE O DEFERIMENTO DE UMA SÉRIE DE MEDIDAS VISANDO PRESERVAR SEUS DIREITOS - ACOLHIMENTO PARCIAL - EVIDENCIADA A VEROSSIMILHANÇA DAS ALEGAÇÕES E O FUNDADO RECEIO DE DANO IRREPARÁVEL OU DE DIFÍCIL REPARAÇÃO - EXEGESE DO ART. 300, DO CPC/2015 - CONDUTAS DOS AGRAVADOS QUE, PAULATINAMENTE, AFASTARAM O AGRAVANTE DA EMPRESA - TERCEIRIZAÇÃO DE SERVIÇOS À FIRMA CUJO QUADRO SOCIAL É FORMADO EXCLUSIVAMENTE PELOS AGRAVADOS - ART. 1.074, § 2º, DO CÓDIGO CIVIL, QUE VEDA AO SÓCIO VOTAR EM MATÉRIA QUE LHE DIGA RESPEITO DIRETAMENTE - SITUAÇÃO DEMONSTRADA - NOMEAÇÃO DE ADMINISTRADOR JUDICIAL QUE SE MOSTRA IMPOSITIVA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO."
+Opostos embargos de declaração, foram rejeitados.
+Afirma a recorrente que há, além de dissídio pretoriano, violação aos artigos124, 300, e 489, § 1º, inciso IV, do Código de Processo Civil de 2015; e arts. 50, 1.076, incisos II e III, e 1.085, do Código Civil.
+Apresentadas contrarrazões (fls. 162/177).
+O recurso não foi admitido na origem pelos seguintes fundamentos: a) incidência das Súmulas 211/STJ e 282/STF (esta por analogia); b) incidência da Súmula 7 do STJ; c) incidência da Súmula 735 do STF, aplicada de forma análoga; ed) a incidência da referida Súmula 7 também impede a verificação da divergência jurisprudencial suscitada.
+É o relatório. Passo a decidir.
+O recurso não merece sequer conhecimento.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Observa-se que o agravo previsto no art. 1.042 do CPC/15 tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+Nas razões do agravo em recurso especial, a parte agravante não rebateu todos os fundamentos que ensejaram a negativa de seguimento ao recurso especial, tendo em vista que não infirmou de forma específica os fundamentos da decisão que inadmitiu o recurso especial referente às Súmulas211/STJ e 282/STF.
+Ademais, limitou-se a tecer vagas e genéricas considerações a respeito da diferença entre reexame e valoração das provas, sem contextualizar especificamente no caso dos autos como o provimento almejado transbordaria da incursão na seara probatória.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+Incide, na hipótese, o art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente os fundamentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
