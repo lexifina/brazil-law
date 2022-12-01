@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especialinterposto por ALEXANDRE SABA RODRIGUEZ, com fundamento no art. 105, III, a,da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiçado Estado de São Paulo, assim ementado:
+BEM MÓVEL - COMPRA E VENDA - O 0 AÇÃO DE RESCISÃO CONTRATUAL -- c, CUMULADA COM INDENIZAÇÃO PORDANO MORAL - REVELIA - PRESUNÇÃO RELATIVA - DANO o "O "0 MORAL NÃO CARACTERIZADO -DECISÃO MANTIDA - APELAÇÃONÃO PROVIDA
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 515-518.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 344, e 345, IV, do CPC/2015, bem como 27 do Código de Defesa do Consumidor. Sustenta, em síntese, que: a) deve ser aplicado os efeitos da revelia, não podendo ser afastado os argumentos e provas apresentadas pelo recorrente; e b) restou comprovada a falha na prestação dos serviços, o que en seja reparação por danos morais.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, assim se manifestou quanto à revelia e seus efeitos:
+O debate inicial se resume à aplicaçãodos efeitos da revelia no presente caso.
+Nesse contexto, a presunção de veracidade dos fatos alegados pelo autor decorrenff- a revelia não -pode ensejar a obrigatória procedência da demanda, destoando das demais circunstâncias dos autos.
+Verifica-se que a decisão encontra amparo na jurisprudência desta Corte, que se firmou no sentido de que "A revelia não importa em procedência automática dos pedidos, porquanto a presunção de veracidade dos fatos alegados pelo autor é relativa, cabendo ao magistrado a análise conjunta das alegações e das provas produzidas."(AgInt no AREsp n. 1.985.090/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022.)
+Incidência, portanto, da Súmula 83/STJ.
+Outrossim, quanto ao dever de indenizar, a Corte de origem, com arrimo no acervo fático-probatório, assim decidiu:.
+Ademais, o inconformismo do autor cinge-se à responsabilidade da ré, revendedora de veículo, pela indenização por danos morais, em virtude da impossibilidade do o demandante circular com o veículo adquirido, por ter sido o bem objeto de penhora nos autos de processo trabalhista, por certo período, ou seja, de agosto de 2011 a março de 2012. Em razão do parcelamento do preço,quando ocorreu a restrição o veículo ainda não havia sido transferido, razão pela qual ainda permanecia em nome do antigo proprietário.
+Por seu turno, a ré tomou todas as providências para salvaguardar o direito do autor.
+Portanto, diante das particularidades docaso concreto, não restaram caracterizados os danos de ordem moral.
+Isto porque, no caso em concreto, situação colocada em julgamento não teve o condão de ensejar reparaçãopor dano moral, visto que inocorrente qualquer afronta ao direito de personalidade do autor.
+Assim, firmado entendimento no sentido de que o descumprimento contratual, por si só, não enseja indenização por danos morais, a situação em análise não se inclui na excpecionalidade.
+No caso, como se vê da leitura do excerto ora transcrito, o Tribunala quoconcluiu que "a ré tomou todas as providências para salvaguardar o direito do autor.Portanto, diante das particularidades do caso concreto, não restaram caracterizados os danos de ordem moral.Isto porque, no caso em concreto, situação colocada em julgamento não teve o condão de ensejar reparação por dano moral, visto que inocorrente qualquer afronta ao direito de personalidade do autor."
+Nesse contexto, tem-se que a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE VEÍCULO. SOLIDARIEDADE DA REVENDEDORA DE VEÍCULO NA OBRIGAÇÃO DE TRANSFERIR O REGISTRO DO VEÍCULO JUNTO AO DETRAN, RETIRANDO O NOME DO ANTIGO PROPRIETÁRIO. TRANSFERÊNCIA DE PROPRIEDADE. EXPEDIÇÃO DE NOVO CRV, AINDA QUE PARA FINS DE POSTERIOR REVENDA. PRECEDENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O relator está autorizado a decidir monocraticamente recurso que for contrário a jurisprudência dominante (arts. 557, caput e § 1º-A, do CPC/73; 932, IV, do CPC/2015). Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado em sede de agravo interno.
+2. Rever as conclusões do acórdão recorrido no sentido de que a recorrente tem a obrigação de efetuar a transferência da propriedade do veículo, objeto da ação ajuizada na origem, incluindo o pagamento de multas e encargos relativos ao automóvel desde a data em que dele se apossou; e acolher a pretensão recursal no tocante à ausência de solidariedade, impossibilidade do cumprimento da obrigação e ausência de danos morais; demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. De acordo com precedente firmado pela Primeira Turma do STJ, "A transferência de propriedade de veículo automotor usado implica, obrigatoriamente, na expedição de novo Certificado de Registro de Veículo - CRV, conforme dispõe o art. 123, I, do CTB, ainda quando a aquisição ocorra para fins de posterior revenda." (REsp 1429799/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/03/2021, DJe 08/03/2021).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.921.643/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2021, DJe de 3/8/2021.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso e, nessa extensão, negar-lhe provimento.
+Publique-se.
