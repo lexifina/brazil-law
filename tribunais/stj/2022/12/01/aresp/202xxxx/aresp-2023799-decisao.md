@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial,fundado no art. 105, III, "a", da Constituição Federal, interpostopor DANIELA FABRICIA ARAÚJO PEREIRAcontra v. acórdão do eg. Tribunal deJustiça do Estado do Mato Grosso do Sul, assim ementado:
+EMENTA - AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - GRATUIDADE DA JUSTIÇA - HIPOSSUFICIÊNCIA NÃO DEMONSTRADA - PREPARO NÃO RECOLHIDO NO PRAZO ASSINALADO - DESERÇÃO - REDISCUSSÃO - INEXISTÊNCIA DE ELEMENTOS APTOS A PROMOVER A REFORMA DA DECISÃO MONOCRÁTICA - RECURSO AO QUAL SE NEGA PROVIMENTO.
+Nega-se a gratuidade da justiça a quem aufere renda mensal que indica a capacidade econômica de arcar com as custas processuais e honorários advocatícios, sem prejuízo do sustento próprio e de sua família.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 489 e 98 do Código de Processo Civil de 2015. Sustenta, em síntese, que: a) "A partir do momento que o Agravo Interno se insurgiu contra a r. decisão que indeferiu a gratuidade da justiça no prazo correto, e destacou isso na tempestividade do Agravo Interno (contra qual decisão estava recorrendo), é dever do Magistrado enfrentar os argumentos ali deduzidos no Recurso, posto que não se manifestou em face da deserção e nem buscou a rediscussão da matéria, mas sim trouxe elementos para que a Justiça Gratuita fosse retomada e o Agravo de Instrumento fosse devidamente analisado no seu mérito!" (fl. 518); e b) "conforme demonstrado no Agravo Interno, a Recorrente recebe (consoante seu holerite atual), o valor aproximado de R$ 4.000,00 (quatro mil reais), bem como há outros elementos nos autos que permitem inferir sua hipossuficiência financeira" (fl. 519).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489do CPC/2015, uma vez que o eg. TJ-MSanalisou os pontosessenciais ao deslinde da controvérsia, dando-lhes robusta e devidafundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido deque o magistrado não está obrigado a responder a todosos argumentos apresentados pelos litigantes, desde que aprecie a lide emsua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃODE COBRANÇA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTODE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, ERRO MATERIALOU OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC.INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DOACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. COMPENSAÇÃO COM PREJUÍZO DE DIREITODE TERCEIRO. IMPOSSIBILIDADE.
+(..)
+3. Devidamente analisada e discutida a questão controvertida,e fundamentado corretamente o acórdão recorrido, de modo a esgotara prestação jurisdicional, não há que se falar em violação do art. 489do CPC.
+(..)
+7. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1576971/RS, Rel. Ministra NANCY ANDRIGHI,TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+Em relação à alegada ofensa aoart. 98do CPC/2015, melhor sortenão socorre àrecorrente.
+Com efeito, o recorrente defende que faz jus aobenefício de gratuidade de justiça. O TJ-MS, por sua vez, assim decidiusobre a matéria:
+Busca a agravante, através do presente agravo interno, a reforma da decisão monocrática através da qual o recurso de agravo de instrumento foi julgado deserto, tendo em vista que a recorrente, indeferido seu pedido de gratuidade da justiça, não recolheu o preparo no prazo assinalado.
+Contudo, através da cópia do holerite da agravante (f. 471), constata- se que seu rendimento líquido mensal corresponde a R$ 4.062,04 (quatro mil, sessenta e dois reais e quatro centavos), valor este que não se amolda ao conceito de miserabilidade jurídica.
+É nítido que não se está diante de pessoa hipossuficiente, que faz jus às benesses da gratuidade, sendo o rendimento mensal acima indicado suficiente para demonstrar a possibilidade de arcar com as custas processuais e honorários advocatícios sem prejuízo do sustento próprio e de sua família.
+O art. 98, caput, do CPC estabelece que A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei, consignando o § 2º do art. 99, entretanto, que O juiz somente poderá indeferir o pedido de houver nos autos elementos que evidenciem a falta de pressupostos legais para a concessão da gratuidade (..).
+Tais dispositivos devem ser interpretados à luz da Constituição, que prevê em seu art. 5º, inc. LXXIV, que o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, sendo óbvia a imprescindibilidade da prova para que o solicitante seja agraciado com a benesse.
+(..)
+Os benefícios da gratuidade da justiça devem ser concedidos aos realmente carecedores, o que se apura mediante as provas constantes dos autos, não podendo seu deferimento se dar de forma indiscriminada, sob pena de desvirtuamento do instituto, onerando o Estado com benesses desnecessárias.
+Não bastasse isso, é importante destacar que a agravante deveria ter interposto o presente recurso quando lhe foi indeferida a benesse da gratuidade, e não após ter o recurso de agravo de instrumento sido julgado deserto.
+Por todo o acima exposto, constata-se que através deste agravo interno, busca a recorrente tão somente a rediscussão da matéria, sem apresentar, no entanto, qualquer elemento capaz de ensejar a reforma do decisum.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origemconcluiu que o recorrente não faz jus ao benefício de justiça gratuita.Nesse contexto, a pretensão de modificar tal entendimento demandaria orevolvimento do acervo fático-probatório, o que é inviável em sede derecurso especial, nos termos da Súmula 7/STJ. Nesse sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTODE SENTENÇA. PEDIDO DE GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. REEXAME DEMATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.RECURSO DESPROVIDO.
+1. Embora o pedido de assistência judiciária gratuita possa ser postuladoa qualquer tempo, na hipótese a instância ordinária revogou o benefício emimpugnação do pedido de gratuidade de justiça, por compreender nãosubsistirem os motivos configuradores da hipossuficiência.
+2. Inexistindo elementos fáticos - descritos no acórdão recorrido - aindicar que houve modificação da situação financeira desde que revogado obenefício da justiça gratuita, o acolhimento da pretensão recursal, a fimde reconhecer a hipossuficiência do agravante, demandaria, no caso, aincursão no contexto fático-probatório dos autos, o que encontra óbice naSúmula 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 807.456/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 02/04/2019, DJe 15/04/2019)
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - INDEFERIMENTO DOBENEFÍCIO DE GRATUIDADE DE JUSTIÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DOAGRAVO PARA NEGAR SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DO REQUERENTE.
+1. Embora milite em favor do declarante a presunção acerca do estado dehipossuficiência, essa não é absoluta, não sendo defeso ao juiz a análisedo conjunto fático-probatório que circunda as alegações da parte (art. 5º,caput, da Lei n. 1.060/50).
+2. Rever os fundamentos que ensejaram o indeferimento do pedido de justiçagratuita exigiria reapreciação da situação fática, o que é vedado emsedede recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. "A declaração de pobreza implica simples presunção juris tantum,suscetível de ser elidida pelo magistrado se tiver fundadas razões paradeclarar que o requerente não se encontra no estado de miserabilidadeanunciado" (REsp 1.019.233/SP, Relator Ministro Mauro Campbell Marques,Segunda Turma, julgado em 09/12/2008, DJe 06/02/2009).
+4. Agravo regimental desprovido."
+(AgRg no AREsp 808.673/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 08/02/2018, DJe 23/02/2018)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recursoespecial e, nessa extensão, negar-lhe provimento.
+Publique-se.
