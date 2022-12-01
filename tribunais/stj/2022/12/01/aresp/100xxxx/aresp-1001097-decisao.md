@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de agravo interposto por FERTIMAR TRANSPORTES E ARMAZENS GERAIS LTDA - EPP de decisão que negou seguimento a recurso especial interposto contra o v. acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONTRATO DE LOCAÇÃO. Desconsideração da personalidade jurídica e extensão dos efeitos da desconsideração às empresas integrantes do grupo econômico de fato. Limitação da penhora a 30% do faturamento da empresa executada.
+Questões já dirimidas. Preclusão. Citação dos chamados ao processo. Ausência de interesse da agravante em tutelar interesse de terceiros. Medida, ademais, desnecessária, ante a ausência de violação dos princípios do contraditório e da ampla defesa. Inexistência de nulidade do ato decisório.
+Fundamentação sucinta, porém suficiente para a elucidação da questão. PRELIMINAR AFASTADA. RECURSO DESPROVIDO, COM OBSERVAÇÃO."(e-STJ, fl. 263)
+Nas razões do recurso especial, fundamentado nas alíneasaecdo permissivo constitucional, a recorrente aponta violação dos arts. 213 a 233 e 245 do CPC/1073, bem como divergência jurisprudencial alegando, em síntese, a nulidade da penhora de ativos das sociedadesFERTIMAR LOGÍSTICA E TRANSPORTE LTDA e FERTIMIX LTDA e seus respectivos sóciosem razão da ausência de citação destes, "tendo em vista que referidas empresas são pessoas jurídicas distintas da recorrente, e os sócios, são pessoas físicas que não se confundem com as empresas cujos quadros sociais integram, devendo, assim, ser resguardados os princípios do contraditório e ampla defesa a estes"(e-STJ, fl. 206).
+Não foram apresentadas contrarrazões (e-STJ, fl. 262.
+É o relatório. Decido.
+2.O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Examinados os autos, contudo, a insurgência não tem como prosperar.
+Com efeito, o eg.Tribunal de origem, ao examinar a questão relativa à inclusão das sociedadesFERTIMAR LOGÍSTICA E TRANSPORTE LTDA e FERTIMIX LTDA no polo passivo da ação executiva, entendeu pela ilegitimidade recursal da requerida, decidindo nos seguintes termos:
+"Anote-se, de início, que a agravante não detém legitimidade para pleitear em juízo o interesse de terceiro, no caso as pessoas incluídas no polo passivo da demanda. E nem se cogite de eventual interesse de agir, diante da desconsideração de sua personalidade jurídica, uma vez que esta medida tem por propósito exclusivo a declaração de ineficácia da separação patrimonial perante o credor.
+De fato, nos autos do agravo de instrumento nº 2208061-41.2014.8.26.0000, já se decidiu a respeito da possibilidade de desconsideração da personalidade jurídica da empresa agravada."(e-STJ, fl. 188)
+Contudo, essefundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, fazendo incidir, na espécie, por analogia, o óbice daSúmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. VIOLAÇÃO AO ART. 413 DO CC. SÚMULAS 282 E 356 DO STF. AGRAVO DES PROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.984.657/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022)
+Por essa mesma razão,prejudicado o conhecimento do recurso pela alínea c do permissivo constitucional, uma vez que, conforme reiteradamente decidido no âmbito desta Corte, "A inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
