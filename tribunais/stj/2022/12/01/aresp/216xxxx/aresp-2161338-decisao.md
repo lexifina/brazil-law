@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto porSAMIA ANGELA SAWAYA e JULIO CÉSAR SAWAYA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"APELAÇÃO CÍVEL. PROPRIEDADE E DIREITOS REAIS SOBRE COISAS ALHEIAS. AÇÃO ANULATÓRIA DE GARANTIA HIPOTECÁRIA. ATO NEGOCIAL QUE NÃO SE RELEVA INEQUIVOCAMENTE ULTRA VIRES PERANTE A PARTE DEMANDADA. NEGARAM PROVIMENTO À APELAÇÃO. UNÂNIME"(e-STJ fl. 377).
+Nas razões do recurso especial (e-STJ fls. 389/401), osrecorrentes apontam, além de divergência jurisprudencial,violação dos artigos 1015 e 1018 do CPC/2015.
+Alegam que
+"Osócio administrador não possuía poderes para constituir mandatário com o objetivo de representar a pessoa jurídica em atividades estranhas ao interesse social, nem tampouco assumir obrigações em favor dos cotistas ou de terceiros.
+O sócio-administrador pode praticar todos os atos pertinentes à gestão da sociedade (art. 1.015), respeitando-se os limites, autorizações e vedações, do contrato social (art. 1.018), de maneira que havendo expressa vedação no contrato social, não pode o sócio administrador, representar a pessoa jurídica, SEM A ANUÊNCIA DE TODOS OS DEMAIS SÓCIOS, em atividade estranha ao seu interesse social ou assumir obrigações em favor dos cotistas ou terceiros"
+Ao final, requerema nulidade da garantia hipotecária conferida por sócio administrador sem a outorga dos demais sócios.
+Apresentaas acontrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente,o tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+"De pronto, insta salientar que a procuração por escritura pública (evento 2, PROC6) na qual outorgados poderes por Sawaya Construções e Incorporações Ltda., através do seu sócio-administrador Mounir Sawaya, a Mounir Sawaya Junior, para o fim especial de representar a outorgante, tratando de todos os negócios concernentes a mesma, incluindo adquirir, vender, permutar, hipotecar ou por qualquer forma alienar ou onerar quaisquer bens imóveis de propriedade da outorgante, mostra-se válida, não possuindo qualquer irregularidade, por si só, a atrair efeitos de nulidade.
+Assentada essa premissa, tem-se que a quaestio a ser solvida diz com a aferição de eventual excesso de poderes do sócio-administrador e, logo, do representante por ele constituído, por ocasião do oferecimento de imóvel da outorgante em garantia hipotecária em favor de terceiro.
+Pois bem, nos termos do artigo 1.015 do CCB, no silêncio do contrato, os administradores podem praticar todos os atos pertinentes à gestão da sociedade; não constituindo objeto social, a oneração ou a venda de bens imóveis depende do que a maioria dos sócios decidir.
+No caso em tela, é certo que o oferecimento de bem imóvel de Sawaya Construções e Incorporações Ltda., em garantia hipotecária do pagamento de dívida de terceiro - Sawaya Junior Construções Ltda, em favor de Capesi Empreendimentos Imobiliários Ltda, não estava compreendido no objeto social daquela (indústria da construção civil destinados a venda, compra evenda de imóveis e a incorporação imobiliária - cláusula terceira - evento 2, CONTRSOCIAL4).
+Nesse contexto, a oneração de bens imóveis da sociedade estava condicionada à decisão da maioria dos sócios, nos termos do aludido dispositivo legal. E, no particular, observa-se que o sócio-administrador, Sr. Mounir Sawaya, possuía 76% das quotas sociais (cláusula quinta- evento 2, CONTRSOCIAL4). Em outras palavras, tratando-se o administrador também de sócio amplamente majoritário, não se pode considerar que, aos olhos da demandada, ele não estava habilitado para praticar o ato negocial, nos termos do artigo 1.015 do CCB, não se podendo falar em ato inequivocamente ultra vires.
+De mais a mais, aduza-se que não há elementos que evidenciem estivesse a parte ré ciente de que o mencionado ato negocial poderia estar em descompasso com os reais interesses da sociedade empresarial proprietária do imóvel oferecido em garantia. A uma, em se considerando a existência de identidade parcial entre os sócios de Sawaya Construções e Incorporações Ltda. e Sawaya Junior Construções Ltda, como é incontroverso.
+A duas, porque se tratava de empresas que envolviam pessoas da mesma família (SAWAYA), com atuação em ramos assemelhados.
+Agora, se o ato negocial foi realizado efetivamente apenas no interesse sócio-administrador, ou seja, em contrariedade ao da sociedade, caberá aos autores buscar a responsabilização dele, nos termos do artigo 1.010, § 3º, do mesmo diploma legal (..)"(e-STJ fl.375).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria a interpretação de clásula contratual eo revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre o valor do causa).
+Publique-se.
+Intimem-se.
