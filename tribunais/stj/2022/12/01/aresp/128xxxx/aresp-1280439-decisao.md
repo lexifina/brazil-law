@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por ALBINO GONÇALVES CAIXETA DA CUNHA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, a, da Constituição Federal, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Previdência privada - PREVI - Benefício Renda Certa, concedido por ocasião da revisão do plano, na forma do artigo 20, parágrafo 2º da Lei Complementar nº 109/2001, aos participantes que, em atividade, contribuíram com mais de 360 mensalidades.
+Regulamento do Plano de Benefícios 1, que regulamenta o benefício, no artigo 88, parágrafo 4º.
+Na hipótese dos autos, restou incontroverso o fato de que as contribuições feitas pelo autor, na ativa, foram superiores a 360 - Contudo, como muito bem observado pela Magistrada sentenciante, o demandante já recebeu benefícios especiais de renda certa no período de janeiro de 2007 a dezembro de 2008, provavelmente equivalentes à devolução de dois meses de contribuições enquanto na ativa, conforme afirmado no Laudo do Perito do Juízo - Mantença da Sentença - Desprovimento da Apelação." (fl. 819)
+O recorrente aponta ofensa aos arts. 5º, caput, 202 da Constituição Federal, 47, § 3º, do Código de Defesa do Consumidor, 20 da Lei Complementar n. 109/2001, à Lei Complementar n. 95/98 e ao Decreto n. 4.176/2002, sustentando, em síntese, que, tendo vertido mais de 360 contribuições ao fundo de previdência, na forma do art. 88 do Regulamento PREVI 01, faz jus ao benefício especial de renda certa.
+Contrarrazões às fls. 864/883.
+É o relatório.
+De início, aponta-se que o recurso especial não é sede adequada para se alegar ofensa a dispositivos da Constituição Federal, matéria própria do recurso extraordinário, de competência do Supremo Tribunal Federal.
+Não se conhece, ademais, da alegação de ofensa a dispositivo do Código de Defesa do Consumidor, tendo em vista que o diploma não se aplica às relações entre participantes e fundos fechados de previdência complementar, na forma da Súmula 563/STJ ("O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.").
+Quanto à questão de fundo, o eg. TJRJ julgou improcedente o pedido do autor, tendo em vista que ele já recebeu os benefícios especiais de renda certa "no período de janeiro de 2007 a dezembro de 2008", consoante demonstrado no "quesito 10, alínea b" e "item 54 da conclusão" (fl. 823) do laudo pericial.
+Diante disso, nota-se que o recorrente não se atentou ao fundamento do acórdão recorrido, relativo ao fato de que o benefício de renda especial já havia sido pago pela PREVI, circunstância que atrai o óbice da Súmula n. 283/STF à espécie.
+Ademais, não compete a esta Corte Superior, em sede de recurso especial, averiguar se a PREVI já efetuou o pagamento ao autor do benefício previsto no art. 88 do Regulamento 01 do Plano, sob pena de ofensa ao Enunciado da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida de 10% para 11%, observado o benefício da gratuidade da justiça.
+Publique-se.
