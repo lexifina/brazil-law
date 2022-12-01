@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por FEDERAL DE SEGUROS S.A em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal Regional Federal da 2ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. PERDA DE OBJETO. REVOGADA A DECISÃO SOBRE CUJO CUMPRIMENTO VERSA A DECISÃO AGRAVADA. PEDIDO DE GRATUIDADE DE JUSTIÇA.
+1. Agravo interno interposto contra a decisão proferida por este Relator, que negou seguimento ao agravo de instrumento, por considerar que teria restado esvaziado seu objeto em razão da revogação da tutela antecipada em julgamento de agravo de instrumento anteriormente interposto.
+2. Uma vez julgado o mérito do Agravo de Instrumento n.º 0103080-94.2014.4.02.0000, tendo sido revogada a tutela antecipada sobre cujo cumprimento versa a decisão de Primeira Instância que constitui objeto do presente agravo de instrumento e ante a eficácia imediata daquele julgamento - que não se encontra suspensa pelo oposição de embargos de declaração naqueles autos-, resta evidente a perda de objeto deste segundo recurso, ainda que não tenha transitado em julgado o mencionado acórdão.
+3. Em se tratando o presente agravo de instrumento de recurso que não exige o pagamento de custas processuais, tampouco enseja a condenação das partes em honorários advocatícios, descabe analisar o pedido de gratuidade de justiça formulado.
+4. Agravo interno desprovido." (fl. 1.216)
+A recorrente aponta ofensa aos arts. 995, 932, III, e 1.022 do CPC/15, sustentando, em síntese, (a) omissão do Tribunal de origem quanto à subsistência do objeto do agravo de instrumento, uma vez que, apesar de revogada a decisão que antecipou a tutela em seu favor, a revogação ainda não havia transitado em julgado e (b) "independentemente da alegada eficácia imediata da decisão que revogou a liminar de 1ª Instância, até a confirmação definitiva de seu julgamento - o que só ocorrerá com o trânsito em julgado do acórdão -, não se pode considerar, de forma definitiva, ter havido perda de objeto do Agravo de Instrumento apresentado pela Federal Seguros, haja vista a pendência de recurso interposto pela Recorrente em face daquele acórdão, o que implica a real (e provável) possibilidade de sua modificação pelas instâncias superiores" (fl. 1.256).
+Contrarrazões às fls. 1.336/1.347.
+É o relatório.
+Trata-se, na origem, de recurso de agravo de instrumento, interposto pela recorrente em face de decisão de 1º grau que considerou cumpridos os termos de tutela antecipada anteriormente concedida. A irresignação da recorrente, portanto, visava demonstrar o descumprimento da decisão antecipatória pela Caixa Econômica Federal.
+Contudo, consoante explicado nas razões do recurso especial, antes do julgamento do mérito do referido agravo de instrumento, o eg. TRF da 2ª Região deu provimento a agravo de instrumento interposto pela Caixa Econômica Federal para "revogar a antecipação de tutela" (fl. 1.254) - cujo descumprimento se pretendia discutir.
+À vista da revogação da tutela antecipada, pois, o Tribunal de origem julgou prejudicado o agravo de instrumento interposto pela recorrente, por perda superveniente de objeto, nestes temos:
+"Quanto ao agravo interno, em que pese a insurgência da Agravante, não há como reconsiderar a decisão agravada à luz dos frágeis argumentos por ela trazidos aos autos em seu recurso, ora sob exame.
+Com efeito, uma vez julgado o mérito do Agravo de Instrumento n.º 0103080-94.2014.4.02.0000, tendo sido revogada a tutela antecipada sobre cujo cumprimento versa a decisão de Primeira Instância que constitui objeto do presente agravo de instrumento e ante a eficácia imediata daquele julgamento - que não se encontra suspensa pelo oposição de embargos de declaração naqueles autos-, resta evidente a perda de objeto deste segundo recurso, ainda que não tenha transitado em julgado o mencionado acórdão." (fl. 1.215)
+Diante disso, não se verifica, inicialmente, qualquer omissão do Tribunal de origem, uma vez que negou conhecimento ao agravo de instrumento com fundamentação suficiente, qual seja a perda superveniente do objeto da irresignação.
+Rejeita-se, pois, a tese de violação ao art. 1.022 do CPC/15.
+Quanto à questão de fundo, de fato a revogação da tutela antecipada enseja a perda superveniente da irresignação que pretende discutir o cumprimento ou descumprimento da decisão provisória, consoante entendimento já consolidado por esta Corte Superior. Nesse sentido:
+AGRAVO INTERNO. PEDIDO DE SUSPENSÃO. TUTELA ANTECIPADA. REAJUSTE DAS PASSAGENS DE ÔNIBUS E DE LOTAÇÕES.
+I - Espécie em que o decisum objeto do pedido de suspensão foi revogado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento do Agravo de Instrumento n. 70068423334.
+II - Superveniente perda do objeto do pedido de suspensão.
+Agravo interno prejudicado.
+(AgInt na SLS n. 2.138/RS, relator Ministro Francisco Falcão, Corte Especial, julgado em 15/6/2016, DJe de 29/6/2016.)
+PROCESSO CIVIL. MEDIDA CAUTELAR. ASTREINTES. EXECUÇÃO. INTERESSE DA PARTE. PROCEDÊNCIA DO PEDIDO DA AÇÃO PRINCIPAL. NECESSIDADE. DISPOSITIVOS LEGAIS ANALISADOS: ARTS. 273, §§ 3º E 4º, 461, §§ 4º E 5º, E 475-O, DO CPC.
+1. Agravo de instrumento interposto em 10.12.2007. Recurso especial concluso ao gabinete da Relatora em 29.11.2011.
+2. Recurso especial que discute as condições para cobrança de astreintes fixadas liminarmente em medida cautelar.
+3. O interesse nas astreintes encontra-se visceralmente ligado ao êxito da parte na ação principal, êxito esse que acaba por se caracterizar como uma condição resolutiva da multa cominatória: se procedente o pedido, convalida-se; se improcedente, perde efeito retroativamente.
+4. Considerando que a lógica norteadora do nosso sistema processual é conferir ao autor o produto da multa cominatória derivada do descumprimento da obrigação pelo devedor, seria completamente irracional admitir o beneficiamento daquele com as astreintes quando a decisão final concluir pela improcedência do pedido, sob pena, inclusive, de se caracterizar o enriquecimento sem causa do autor.
+5. A revogação da tutela antecipada na qual baseado o título executivo provisório de astreintes, fica sem efeito a respectiva execução, que também possui natureza provisória, nos termos dos arts. 273, § 4º, e 475-O, do CPC.
+6. Julgamento do recurso especial prejudicado pela perda superveniente de objeto.
+(REsp n. 1.245.539/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/4/2014, DJe de 29/4/2014.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. TUTELA ANTECIPADA. REVOGAÇÃO. JUÍZO SUPERVENIENTE DE IMPROCEDÊNCIA DO PEDIDO. PERDA DO OBJETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Este Superior Tribunal consolidou o entendimento de que fica prejudicado o Recurso Especial interposto contra decisão em Agravo de Instrumento quando proferida sentença de mérito na origem que revoga a liminar antecipatória com o juízo de improcedência do pedido.
+2. O trâmite de processo nos termos do art. 543-C do CPC não tem o condão de sobrestar o julgamento de outros recursos sobre o mesmo assunto quando não superado o juízo de admissibilidade recursal. Precedentes.
+3. Agravo Regimental desprovido.
+(AgRg no REsp n. 1.178.665/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/5/2012, DJe de 21/5/2012.)
+O fato de a revogação da tutela antecipada ainda não ter transitado em julgado não influencia a perda do objeto da irresignação, tendo em vista que, se o Tribunal de origem fosse obrigado a examinar o descumprimento de medida precária não mais vigente, procederia a julgamento em tese, o que é vedado pelo art. 492, parágrafo único, do CPC/15.
+Ademais, pendente apenas o julgamento de recurso especial, em face do acórdão que revogou a tutela antecipada, muito dificilmente haveria êxito da ora recorrente em restabelecer a medida, ante os óbices das Súmulas n. 7/STJ e 735/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
