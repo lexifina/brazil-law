@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ISAURA IMALIA DE MEDEIROS AZEVEDO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do TJ/RN.
+Ação: de obrigação de fazer ajuizada por IGOR MICKELLEY CARIA MARTINS em desfavor da recorrente, na qual se discute a obrigação de pagamento do IPTU.
+Decisão interlocutória: indeferiu o pedido de reabertura do prazo para apresentação de contestação, sob o fundamento de que o termo inicial do prazo para contestar era a data da juntada aos autos do mandado de citação.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO DEEMENTAINSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. DECRETAÇÃO DE REVELIA. PLEITO DE REFORMA DADECISÃO QUE INDEFERIU A REABERTURA DO PRAZOPARA CONTESTAÇÃO. AUSÊNCIA DE ELEMENTOSCAPAZES DE CONTRARIAR A DECISÃO DO JUÍZOSINGULAR. CITAÇÃO REALIZADA REGULARMENTE. INTELIGÊNCIA DO INCISO III DO ARTIGO 335, E DO INCISOII DO ARTIGO 231, AMBOS DO CPC. HAVENDO AUDIÊNCIA MARCADA, O PRAZO PARA A DEFESA DEVERÁ SERCONTADO A PARTIR DO REFERIDO EVENTO, CASOCONTRÁRIO, DEVERÁ SER CONSIDERADO DA JUNTADADO MANDADO DE CITAÇÃO DEVIDAMENTE CUMPRIDO. PRAZO DECORRIDO SEM A APRESENTAÇÃO DA PEÇACONTESTATÓRIA. RECURSO CONHECIDO E DESPROVIDO.
+Recurso especial: alega violação dos arts. 334 e 335 do CPC e do art. 5, LX, da CF. Menciona que, no mandado de citação, constava que o marco inicial para contestar o feito seria a data da audiência de conciliação, caso não houvesse acordo, de modo que não se pode considerar como termo inicial do prazo para apresentação de contestação a data da juntada aos autos do mandado de citação. Discorre sobre o princípio do contraditório.
+Decisão de admissibilidade: o Tribunal de origem admitiu o recurso especial.
+É o relatório. Decido.
+Inicialmente, cabe consignar que, nos termos da jurisprudência do STJ, a ausência de designação de audiência de conciliação não importa nulidade processual, podendo as partes transigir a qualquer momento (AgInt no AREsp n. 1.406.270/SP, Quarta Turma, DJe de 26/2/2020; AgRg no REsp 240.934/ES, Terceira Turma, DJe 19/11/2010).
+Consabidamente, realizada a citação via mandado, o termo inicial da fluência do prazo de 15 (quinze) dias para oferecer contestação é a data da juntada aos autos do mandado cumprido (art. 335, III, do CPC/2015). No entanto, esse termo inicial é protraído para a data da realização da audiência de conciliação ou de mediação, ou da última sessão de conciliação, quando designada equalquer parte não comparecer ou, comparecendo, não houver autocomposição (art. 335, I, do CPC/2015).
+Na espécie, segundo consignado no acórdão recorrido, "na decisão que determinou a citação da parte, não houve o prévio agendamento da audiência de conciliação, consoante ID. 7035568, o prazo para a apresentação da defesa passou a ser contado da juntada aos autos do mandado de citação devidamente cumprido, nos termos da regra constante do inciso III do artigo 355, que remete à dispositivo do artigo 231, ambos do CPC" (e-STJ, fl. 79).
+Considerando tal panorama fático, ante a não designação de audiência de conciliação, o prazo para oferecer contestação era mesmo a data da juntada aos autos do mandado cumprido.
+Destaque-se que, para averiguar se havia menção no mandado de que o termo inicial para contestar seria a data da audiência de conciliação, seria necessário o reexame do acervo fático-probatório, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de aplicar a norma do art. 85, § 11, do CPC, porquanto não foram arbitrados honorários na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INÍCIO DO PRAZO PARA CONTESTAR. JUNTADA AOS AUTOS DO MANDADO. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer.
+2. Aausência de designação de audiência de conciliação não importa nulidade processual, podendo as partes transigir a qualquer momento. Precedentes.
+3. Realizada a citação via mandado, o termo inicial da fluência do prazo de 15 (quinze) dias para oferecer contestação é a data da juntada aos autos do mandado cumprido (art. 335, III, do CPC/2015). No entanto, esse termo inicial é protraído para a data da realização da audiência de conciliação ou de mediação, ou da última sessão de conciliação, quando designada e qualquer parte não comparecer ou, comparecendo, não houver autocomposição (art. 335, I, do CPC/2015). Precedentes.
+4. Para averiguar se havia menção no mandado de que o termo inicial para contestar seria a data da audiência de conciliação, seria necessário o reexame do acervo fático-probatório, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+5. Recurso especial não conhecido.
