@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de IMOBILIARIA IRAPUAN S A e OUTROS contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REMESSA DOS AUTOS AO CONTADOR. EXCESSO DE EXECUÇÃO. JUROS DE MORA. SENTENÇA QUE JULGOU EMBARGOS DO DEVEDOR TRANSITADA EM JULGADO. PRECLUSÃO CONSUMATIVA. TAXA DE JUROS CONTRATUAIS. INEXISTÊNCIA DE MATÉRIA DE ORDEM PÚBLICA.
+Agravo de instrumento interposto de decisão que, em execução de título extrajudicial, indeferiu pedido de remessa dos autos ao contador para exclusão de excesso de execução decorrente da aplicação de taxa de juros superior à legal.
+1. É extemporânea a não deve ser conhecida em decorrência de preclusão consumativa alegação de excesso de execução decorrente de incorreta taxa de juros de mora depois de transitada em julgado sentença de parcial procedência em embargos à execução.
+2. Taxa de juros de mora só constitui matéria de ordem pública se constituir consectário lógico de condenação e não se decorrer da livre manifestação das partes em contrato.
+3. Recurso ao qual se nega provimento." (e-STJ fl. 47)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 135/141)
+Nas razões do recurso especial, o agravante alega violação dos arts. 524, §2º do CPC, 1.062 do CC/16, e 406 do CC/02, e divergência jurisprudencial, sustentando, em síntese, que: 1) independentemente de se tratar ou não de taxa de juros de mora contratual, na atualização dos valores devidos deve ser aplicada a norma prevista no art. 1.062 do CC/16, segundo a qual "A taxa dos juros moratórios, quando não convencionada, será de seis por cento ao ano" ; 2) se faz necessária a remessa dos autos ao contador para realização de cálculos e conferência dos valores apresentados pelo exequente, eis que incluída taxa superior à prevista em lei e por se tratar de matéria de ordem pública, impugnável a qualquer tempo; 3) ao permitir a cobrança de valores em excesso, sob o fundamento de que a questão não poderia ser tratada neste momento, o v. acórdão recorrido viola, ainda, a regra do art. 884 do Código Civil, autorizando um manifesto enriquecimento injustificado em favor do recorrido.
+Contrarrazões às fls.167/183 (e-STJ).
+É o relatório. Decido.
+De início, cumpre destacar que, a despeito de considerar intempestiva a impugnação dos recorrentes quanto aos juros de mora, a Corte de origem adentrou na análise do tema, senão vejamos.
+Quanto aos juros moratórios, consta do acórdão recorrido que há previsão contratual expressa estipulando-os em percentual equivalente a 1% (um por cento) ao mês:
+"Compulsando os autos se infere que a hipótese versa sobre execução de título extrajudicial, na qual foram oferecidos embargos do devedor nos quais os agravantes alegaram, dentre outras matérias, excesso de execução.
+A sentença, confirmada em segunda instância, rejeitou a tese nos seguintes termos 4 :
+(..)
+O contrato prevê a atualização monetária com base na ANBID (cláusula 3a). A cláusula 20a prevê a comissão de permanência e juros de 1% ao mês. E o parágrafo primeiro da referida cláusula prevê multa de 10% pelo atraso e os 20% de honorários advocatícios estão previstos no parágrafo segundo.
+(..)
+Quanto aos juros moratórios, estes estão cumulados com a comissão de permanência prevista na cláusula 20a. Tal comissão também é potestativa e não pode ser cumulada com juros moratórios. Assim, é caso de aplicar apenas juros de 1% ao mês e excluir a comissão de permanência." (e-STJ fl. 50/51)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE NORMA CONSTITUCIONAL. COMPETÊNCIA DO STF. SUBSISTÊNCIA DE FUNDAMENTO INATACADO. SÚMULA N. 283/STF. JUROS MORATÓRIOS. PREVISÃO CONTRATUAL. ART. 406 DO CC/2002. INAPLICABILIDADE. PRECEDENTES DO STJ. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. "Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (EDcl no AgInt nos EDcl nos EDv nos EAREsp 1685042/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 06/12/2021, DJe 09/12/2021).
+1.1. Em suas razões, a recorrente afirmou violação do art. 155, § 2º, da CF/1988, cujo exame somente compete ao C. STF, e deve ser suscitada por meio de recurso extraordinário.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento consolidado na Súmula n. 283/STF.
+2.1. No caso concreto, o TJ local deixou de examinar a tese relativa ao termo inicial dos juros moratórios por entender que a recorrente não cumpriu o comando do art. 917, § 4º, II, do CPC/2015, bem assim pela incidência do art. 397 do CC/2002, dispositivos de cuja violação não cogita o especial.
+3. Diante do expresso comando do dispositivo, somente na ausência de convenção é que se aplica o encargo moratório segundo o índice previsto no art. 406 do CC/2002. Precedentes de ambas as Turmas de Direito Privado do STJ (Súmula n. 83/STJ).
+3.1. O acórdão recorrido consigna que houve expressa convenção de juros de mora, o que afasta a aplicação da norma legal em referência, bem assim do Tema Repetitivo n. 176/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.979.302/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Quanto à alegação de que que se faz necessária a remessa dos autos ao contador para realização de cálculos e conferência dos valores apresentados pelo exequente, constou no acórdão recorrido:
+"Em razão disso, apresentados os cálculos após a exclusão da parcela considerada excedente, o douto juízo a quo indeferiu a remessa dos autos ao contador judicial porque extemporânea e, portanto, protelatória, já que apresentada às vésperas de leilão designado:
+1) Fls. 972 e ss.: Além da manifestação do devedor ser extemporânea, não foi observado o dever de apresentar o valor que entende devido, considerando que a realização dos cálculos, na forma pretendida, poderia ser realizada, inclusive, por ferramenta constante no "site" do TJRJ, não sendo o caso de atuação da Central de Cálculos.
+(..)
+Diante disso, não há falar em omissão com relação ao art. 524, §2º, do CPC porque nele é prevista a faculdade do juízo de remeter os autos a contador judicial. Por óbvio, no caso dos autos, pelas razões expendidas acima, o presidente do processo concluiu pela desnecessidade da remessa considerada a extemporaneidade da manifestação." (e-STJ fl. 140) (grfiei)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 475-B, § 3º, DO CPC/73. PRETENSÃO DE REMESSA DOS AUTOS AO CONTADOR JUDICIAL. DESNECESSIDADE AFIRMADA PELO TRIBUNAL DE ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. RECURSO IMPROVIDO.
+1. Considerando que, na espécie, o Tribunal de origem concluiu ser desnecessário o envio dos autos à Contadoria Judicial em razão da ausência de "indícios de que o cálculo da consumidora tenha extrapolado os limites da decisão em cumprimento", infirmar a compreensão alcançada, com base nas provas dos autos, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 852.734/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/5/2016, DJe de 6/6/2016.)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE PERÍCIA PARA AFERIR O QUANTUM DEBEATUR EM CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE ASSENTADA PELO ACÓRDÃO RECORRIDO. MODIFICAÇÃO DE ENTENDIMENTO INVIÁVEL EM RECURSO ESPECIAL. ENUNCIADO N. 7 DA SÚMULA DO STJ. PRECEDENTES. AUSÊNCIA DE ARGUMENTOS APTOS A INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Por aplicação do enunciado n. 7 da Súmula do STJ, é inviável o recurso especial que pretende ver modificada a premissa fática, assentada pelas instâncias ordinárias, segundo a qual é desnecessária, na espécie, a produção de prova pericial para aferir o quantum debeatur no cumprimento de sentença, porquanto suficientes os documentos constantes dos autos.
+2. O juízo acerca da necessidade de remessa dos autos ao Contador Judicial para elaboração de novos cálculos, na aplicação do art. 475-B, § 3º, do CPC, assim como a análise quanto à necessidade de produção de prova pericial exigiriam a formação de nova convicção acerca dos fatos da causa por meio do reexame das provas, vedado pelo verbete sumular n. 7 do STJ.
+3. Nas hipóteses em que o agravante não traz argumentos aptos a infirmar os fundamentos da decisão agravada, deve-se negar provimento ao agravo regimental.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 671.013/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/5/2015, DJe de 11/6/2015.)
+Por fim, afastada a alegação de cobrança de valores em excesso, não há que se falar em enriquecimento injustificado em favor do recorrido.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
