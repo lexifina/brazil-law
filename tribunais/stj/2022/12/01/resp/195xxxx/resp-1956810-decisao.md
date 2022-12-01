@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por EVERALDO MOUZINHO DE PONTES, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 195):
+Acidentária - Acidente típico - Lesões em membro inferior direito e em membro superior esquerdo - Incapacidade total e permanente e nexo causal caracterizados - Aposentadoria por invalidez acidentária devida Sentença mantida. Dou parcial provimento ao recurso oficial e à apelação autárquica.
+Embargos de declaração rejeitados (e-STJ fls. 222/225).
+Em suas razões, a parte recorrente aponta violação dos arts. 15, II, e 86, § 1º, da Lei n. 8.213/1991, alegando, em síntese, que o termo inicial do benefício de aposentadoria por invalidez deve ser fixado a partir da cessação do auxílio-doença anterior ou do requerimento administrativo.
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 235/236.
+Passo a decidir.
+É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação, clara e precisa, de dispositivo de lei federal implica deficiência na fundamentação do recurso especial.
+Na espécie, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal, porquanto o acórdão impugnado decidiu com fundamento no art. 86, § 2º, da Lei n. 8.213/1991, porém o recorrente limitou-se a apontar como violados os arts. 15, II (esse totalmente alheio ao caso concreto), e 86 (genericamente) da Lei n. 8.213/1991, não se desincumbindo de apontar, na fundamentação do apelo extremo, qual norma legal teria sido realmente violada (videe-STJ fls. 208/215), procedimento indispensável ao conhecimento do recurso interposto com fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+Vejam-se, a propósito os seguintes julgados de ambas as Turmas que integram a Primeira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁUSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido. (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do Supremo Tribunal Federal.
+Art. 15. Mantém a qualidade de segurado, independentemente de contribuições:
+II - até 12 (doze) meses após a cessação das contribuições, o segurado que deixar de exercer atividade remunerada abrangida pela Previdência Social ou estiver suspenso ou licenciado sem remuneração;
+§ 1º O prazo do inciso II será prorrogado para até 24 (vinte e quatro) meses se o segurado já tiver pago mais de 120 (cento e vinte) contribuições mensais sem interrupção que acarrete a perda da qualidade de segurado.
+Art. 86. O auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.
+§ 1º O auxílio-acidente mensal corresponderá a cinquenta por cento do salário-de-benefício e será devido, observado o disposto no § 5º, até a véspera do início de qualquer aposentadoria ou até a data do óbito do segurado.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem majoração da verba honorária em razão de se tratar de ação acidentária (art. 129, parágrafo único, da Lei n. 8.213/1991).
+Publique-se. Intimem-se.
