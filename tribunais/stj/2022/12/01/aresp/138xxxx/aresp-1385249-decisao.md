@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo daJOSÉ FARIA PARISI contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiçado Estado de São Paulo, assim ementado:
+"Apelação cível. Mandato. Ação de cobrança de honorários. Prova documental a informar a contratação dos serviços advocatícios pelo acionado, em nome próprio, do que se infere sua legitimidade passiva. Documentos acerca dos quais oportunizada manifestação à parte contrária. Responsabilidade do requerido pelo pagamento da respectiva remuneração. Ajuste verbal a alicerçar imposição de remuneratória proporcional ao trabalho desenvolvido, analisados tempo a tanto exigido, conteúdo econômico e natureza das demandas. Inteligência dos artigos 22, § 2º, da Lei n. 8.906/94, ao lado do 36 do Código de Ética e Disciplina da OAB. Redução do percentual chancelado de 20%(vinte por cento) para 10%(dez por cento) dos valores atribuídos às causas patrocinadas. Distribuição recíproca da sucumbência. Sentença reformada. Recurso parcialmente provido."
+(e-STJ fl. 349)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, o agravantealegou dissídio jurisprudencial e violação dos arts. 85, §2º, do CPC. Assevera que a redução dos honorários advocatícios pronunciada pelo acórdão recorrido resultaram em valor desproporcional, em razão de sua manifesta irrisoriedade quando contrastado com o valor das execuções cujas defesas patrocinou.
+Decisão de inadmissibilidade do recurso especial às fls. 445-446 (e-STJ).
+Contraminuta às fls. 474-475 (e-STJ).
+É o relatório. Passo a decidir.
+De início, cumpre enfatizar que, na origem, trata-se deação de cobrança de honorários advocatícios contratuais, na qual se arbitrouo valor de R$ 219.872,63 a remunerar os serviços prestados em quatro demandas judiciais, correspondentes a "20% sobre o valor do débito do réu" (e-STJ fl. 260).
+Ao dar parcial provimento à apelação, o eg. Tribunal de origem assim fundamentou sua conclusão:
+"O arbitramento da remuneração, sublinhadas as circunstâncias e peculiaridades da hipótese, deve alcançar curso à guisa da análise do (i) trabalho desenvolvido pelo causídico, (ii) tempo para ele dispensado, (iii) natureza e complexidade das questões versadas, (iv) parâmetros estabelecidos na tabela da OAB, gizado seu caráter informativo, e não vinculativo, e (v) valor de mercado dos serviços.
+Razoável, isso em relevo, o arbitramento do volume remuneratório no equivalente a 10% (dez por cento) do valor de cada causa patrocinada, quais sejam, (i) processo n. 0818991-61.1995.8.26.0100, R$ 48.618,71, em maio/1995 (fl. 14); (ii) processo n. 0710321-26.1995.8.26.0100, R$ 6.566,00, em maio/1995 (fl. 68); (iii) processo n. 0045981-83.1999.8.26.0100, R$ 31.916, 64, em março/1999 (fl. 118), reduzido, destarte, o fixado em primeiro grau."
+(e-STJ, fls.356-357)
+Vê-se, portanto, que o acórdão recorrido, sopesando as circunstâncias em que prestado o serviço, arbitrou 10% sobre o valor das causas, a fim de remunerar os serviços prestados. Esse arbitramento, à toda evidência, não se afiguravalor irrisório, de modo que a modificação do percentual demandaria o reexame das peculiaridades fático-probatórias (Súmula 7/STJ).
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
