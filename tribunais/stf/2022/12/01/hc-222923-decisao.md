@@ -1,0 +1,23 @@
+Habeas corpus. Ato coator imputado ao Juízo de primeiro grau. Incompetência desta Suprema Corte para processamento e julgamento do presente writ. Art. 102, I, d e i, da Lei Maior. Não conhecimento do writ.
+
+    Vistos etc.
+
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Hellen Cristina Cruz de Souza em favor de Bruno Miranda da Silva Pereira, contra ato do Juízo de Direito da 2ª Vara de Execuções Criminais da Comarca de Presidente Prudente/SP, exarado nos autos do Processo 1005832-70.2021.8.26.0451.
+
+    É o breve relato.
+
+    Decido.
+
+    À míngua de pronunciamento judicial exarado por quaisquer das autoridades elencadas no rol do art. 102, I, d e i, da Lei Maior, não há como dar prosseguimento à impetração, manifesta a incompetência desta Suprema Corte para processamento e julgamento do writ.
+
+    Ante o exposto, não conheço do presente habeas corpus (art. 13, V, e, c/c art. 21, § 1º, do RISTF).
+
+    Encaminhem-se os autos, com urgência, ao Tribunal de Justiça competente para que adote as providências que julgar cabíveis.
+
+    Publique-se.
+
+    Brasília, 1º de dezembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
