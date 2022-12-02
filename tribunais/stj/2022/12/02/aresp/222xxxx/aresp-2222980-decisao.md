@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de ALPHAMONEY PROMOTORA DE VENDAS LTDA. e OUTROS, com o qual objetivaadmissão de recurso especial interposto, com fundamento no art. 105, inciso III, alínea "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 238/239):
+DIREITO PROCESSUAL CIVIL. CONSTITUCIONAL.TRIBUTÁRIO. BASE DE CÁLCULO. CONTRIBUIÇÃO SALÁRIO-EDUCAÇÃO. EC 33/2001. ACRÉSCIMO DO § 2º DO ARTIGO 149, CF. TESE DE RESTRIÇÃO DA HIPÓTESE DE INCIDÊNCIA REJEITADA.
+1. Rejeitadas as preliminares de ilegitimidade passiva do FNDE e de sua falta de interesse na lide pois o FNDE é o destinatário final da contribuição social salário-educação e o responsável pela repetição do indébito, em eventual procedência do pedido. Rejeito, ainda, as preliminares de inadequação da via eleita e ausência de direito líquido e certo uma vez que se confundem com o próprio mérito da causa, e assim serão tratadas.
+2. O § 2º do artigo 149 da Constituição Federal não é proibitivo, no sentido de impedir que a lei adote outras bases de cálculo. O objetivo do constituinte derivado não foi o de restringir a ação dolegislador, como sempre se fez relativamente às contribuições do artigo 195, mas o de preencher o enorme vazio normativo da redação anterior, indicando, agora, possibilidades, que ficam de logo asseguradas para a imposição fiscal, sem prejuízo de que a lei preveja, em cada situação concreta, a base de cálculo ou material respectiva, e a alíquota pertinente, específica ou ad valorem.
+3. Consolidada a jurisprudência desta Corte a respeito da possibilidade de utilização da folha de salários como base de cálculo das contribuições referidas no caput do artigo 149 da Constituição Federal, frente à Emenda Constitucional 33/2001.
+4. Reconhecida a repercussão geral do tema discutido nestes autos no julgamento do RE 603.624, que ainda pende de julgamento. Em verdade, o que se observa é que a jurisprudência do Supremo Tribunal Federal, presentemente, está orientada em sentido contrário à pretensão dos apelantes.
+5. Apelação desprovida.
+No especial, a parte alega, em síntese, violação:
+a) do art. 1.022, I e II, do CPC/2015, pois entende que, apesar dos embargos de declaração,o Tribunal de origem foi omisso sobre diversos dispositivos de lei federal aplicáveis à demanda;
+b) do art. 110 do CTN, ao argumento de que a alteração da redação do art. 149 da Constituição Federal, com o advento da Emenda Constitucional n. 33/2001, tornou inconstitucional a contribuição ao salário educação.
+Sem contrarrazões.
+O recurso especial não foi admitido na origem (e-STJ fls. 316/322), ensejando a interposição de agravo em recurso especial.
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de mandado de segurança impetrado por ALPHAMONEY PROMOTORA DE VENDAS LTDA. e OUTROS, em que objetivam a declaração de inexigibilidade da contribuição salário-educação após 12 de dezembro de 2001.
+No primeiro grau de jurisdição, foi denegada a segurança pleiteada.
+A impetrante interpôs recurso de apelação, não provido pelo Tribunal de origem.
+Os embargos de declaração apresentados foram rejeitados.
+Pois bem.
+Feita essa anotação, constata-se que o recurso especial não merece ser conhecido quanto à suposta violação do art. 1.022 do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado os dispositivos legais suscitadosnos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2107963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2053264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1987496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2022; EDcl nos EDcl no AgInt no AREsp 1574705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1718316/RS, Relator Ministro Og Fernandes, Segunda Turma, DJe 24/11/2020.
+Da mesma forma, o recurso especial não pode ser conhecido quanto ao mérito.
+Verifica-se que o Tribunal de origem decidiu a controvérsia com base em fundamento exclusivamente constitucional de que são constitucionais as contribuições sociais calculadas sobre a folha de salários frente à Emenda Constitucional n. 33/2001.Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 230/):
+Senhores Desembargadores, preliminarmente afasto a alegação de ilegitimidade passiva para a causa do FNDE e de sua falta de interesse na lide, com fundamento no fato de ser o FNDE o destinatário final da contribuição em questão e o responsável pela repetição do indébito, em eventual procedência do pedido.
+Quanto às alegações de inadequação da via eleita e ausência de direito líquido e certo, rejeito-as, uma vez que se confundem com o próprio mérito da causa, e assim serão tratadas.
+O cerne do recurso em exame é a tese de que, com o advento da Emenda Constitucional 33/2001 - que acresceu o § 2º ao artigo 149 da Constituição Federal, houve positivação de rol taxativo das bases de cálculo imponíveis para as contribuições sociais, interventivas (CIDEs) e de interesse das categorias profissionais ou econômicas, mencionadas no caput. Assim, segundo a apelante, uma vez que a contribuição social salário educação é calculada sobre afolha de salários, base alheia ao rol numerus clausus do § 2º, haveria que se concluir que tais valores são, presentemente, inexigíveis.
+Esta a redação do dispositivo:
+ ..
+Verifica-se, prima fade, que o preceito constitucional não é proibitivo, como se alegou, no sentido de impedir que a lei adote outras bases de cálculo. O objetivo do constituinte derivado, no artigo 149, não foi o de restringir a ação do legislador, como sempre se fez relativamente às contribuições do artigo 195, mas o de preencher o enorme vazio normativo da redação anterior, indicando, agora, possibilidades, que ficam de logo asseguradas para a imposição fiscal, sem prejuízo de que a lei preveja, em cada situação concreta, a base de cálculo ou material respectiva, e a alíquota pertinente, específica ou ad valorem.
+Esta Corte possui jurisprudência consolidada a respeito da constitucionalidade das contribuições calculadas sobre a folha de salários frente à Emenda Constitucional 33/2001:  ..
+Ressalte-se, ainda, haver, quanto à constitucionalidade da contribuição salário-educação, fundamento diverso e autônomo:  ..
+Reconhecida a repercussão geral do tema discutido nestes autos no RE 603.624, que ainda pende de julgamento. O que se observa é que a jurisprudência do Supremo Tribunal Federal, presentemente, está orientada em sentido contrário à pretensão dos apelantes (grifos nossos):  ..
+Ante o exposto, nego provimento à apelação.
+Ocorre que, como é de conhecimento geral, o recurso especial não se presta para revisão de julgado respaldado em fundamentação de índole constitucional. Nesse sentido é a jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SALÁRIO-EDUCAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ACÓRDÃO COM ENFOQUE CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ.
+1. O Tribunal de origem decidiu sobre o recolhimento da contribuição destinada ao salário-educação, sob ótica constitucional e infraconstitucional, situação que desafia o manejo não só do Recurso Especial, mas também do Recurso Extraordinário. Entretanto, a parte recorrente não interpôs o cabível apelo extraordinário, atraindo a aplicação da Súmula 126 do STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+2. O óbice imposto à admissão do Recurso Especial pela alínea "a" do permissivo constitucional inviabiliza sua análise pela alínea "c".
+3. Recurso Especial não conhecido.
+(REsp n. 1.845.480/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2019, DJe de 12/5/2020.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de horários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
