@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu medida liminar no writ de origem (fls. 35-36).
+O paciente cumpre pena de 9anos, 8meses e 23dias de reclusão, em regime inicial semiaberto, pela prática docrime de latrocínio, tendo o juízo da execução determinado a realização do exame criminológico, para fins de progressão ao regime aberto.
+Argumenta a defesa, em síntese, que " a capacidade de ressocialização do Paciente é demonstrada no dia a dia em que o Paciente deixa a prisão para gozar das saídas temporárias com sua família, mãe, mulher e filhos sem demonstrar quaisquer motivos para desconfiança. Os retornos nunca atrasaram. Nunca cometeu qualquer delito no período em que esteve visitando seus parentes e sem vigilância. Esses são sinais fáticos e práticos de ressocialização. Não precisa ser submetido ao exame" (fl. 7).
+Requer, liminarmente e no mérito, o afastamento da exigência de realização do exame criminológico e o deferimento da progressão de regime.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+A medida liminar foi assim indeferidapelo TJSP (fls. 35-36):
+ ..  Trata-se de paciente que cumpre pena total de 09 anos, 08 meses e 23 dias de reclusão, em regime inicial semiaberto, por latrocínio, com término de cumprimento de pena previsto para 21/01/2026 (fls. 536/541 dos autos n. 0019507-62.2016.8.26.0041).
+A r. decisão que requisitou o referido exame (fls. 546/547) dos autos de execução faz alusão ao livramento condicional e progressão ao regime aberto.
+E a questão do excesso de prazo não se resolve apenas na soma aritmética dos prazos, devendo ser analisada diante das peculiaridades de cada caso.
+Ademais, o Ministério Publico se manifestou às fls. 565 no sentido do aguardo dos laudos, exatamente nos termos da última decisão do juízo de fls. 566 proferida em 10/11/2022.
+Assim, nada de teratológico existe, vez que, no presente caso, a r. Decisão apontou imprescindível a realização de atual exame criminológico para verificação do aspecto subjetivo para benefícios ao paciente que, repise-se, cumpre pena por delito praticado com violência ou grave ameaça que resultou na tentativa de latrocínio. Destacou-se ainda que o beneficio almejado deverá inserir o paciente ao imediato convívio social, de modo que referida cautela estáem conformidade com o principio in dubio pro societate.
+Com relação à realização do exame criminológico, cumpre anotar que, embora tenha sido dada nova redação ao art. 112, da Lei de Execuções Penais, pela Lei n.º 10.792/2003, não se exigindo mais o exame criminológico, esse pode ser realizado sempre que o Juízo das Execuções julgar necessário, diante das peculiaridades da causa.
+E essa E. Câmara tem entendido que o exame criminológico não foi abolido totalmente e é necessário quando se tratar de mais de um crime praticado com violência ou grave ameaça, ou apresente o condenado inúmeras infrações penais e ainda quando demonstre perigosidade na execução do crime acima da média. ..
+A questão referente à dispensa de exame criminológico e consequente progressão de regime foipassível de indeferimento do pedido liminar na origem por demandar o exame mais aprofundado a ser realizado no mérito do writlá impetrado, não se verificandode imediato, nesta sede, flagrante ilegalidade.
+Logo, a apreciação da questão diretamentepor esta Corte implicaria inevitavelmente em indevida supressão de instância,não se verificando flagrante ilegalidade a ensejar a mitigação do enunciado da Súmula nº 691do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
