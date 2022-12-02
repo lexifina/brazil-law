@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão que deu parcial provimento à apelação do Ministério Público.
+O paciente foi absolvido da imputação pela prática do crime previsto no art. 155, §§1º e 4º, II e IV, do CP,com fundamento no art. 386, VII, do CPP.
+Interposta apelação pelo Ministério Público, o Tribunal de origem deu-lhe parcial provimento para condenar o ora paciente como incurso noart. 155, §§ 1º e 4º, II, do CP, a 3 anos de reclusão, em regime aberto, e 14 dias-multa.
+No presente writ, alega a defesa que: "Embora no acórdão tenha constado a presença do laudo às fls. 52/59, que justificaria a caracterização da qualificadora da escalada, verifica-se quereferido laudo não trata da escalada e nada a respeito constatou. Assim, era de rigor o seu afastamento, sendo insuficiente a prova oral" (fls. 13-14).
+Argumenta que a fundamentação para exasperar a pena-base, pelas consequências do crime, é inidônea.
+Afirma que: "Na terceira fase de rigor o afastamento da causa de aumento referente ao repouso noturno pelas seguintes razões (i) o fato ocorreu em estabelecimentocomercial e (ii) o presente feito versa sobre furto qualificado (caso não afastada a qualificadora da escalada)" (fls. 17-18)".
+Requer que "seja determinada a redução da pena imposta e por fim seja substituída a pena privativa de liberdade por restritivas de direitos" (fl. 21).
+Prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Acerca da qualificadora relativa à escalada, o Tribunal de origem assim se pronunciou (fl. 89):
+Restou perfeitamente caracterizada, ainda, pelas provas pericial (fls. laudo de fls. 52/59) e oral produzidas ao longo da instrução criminal, que a subtração da res furtiva teria se dado mediante "escalada" (art. 155, § 4º, II, do CP). Como bem explanado pelo Parquet, a fls. 369:
+A perícia de fls. 56 demonstrou que o réu escalou. Além disso, a vítima assegurou que seu vizinho avistou os réus em cima do telhado. Foram subtraídos fios de para-raios. Somente com a escalada foi possível praticar o crime.
+Consoante entendimento jurisprudencial desta Corte, "para reconhecimento da qualificadora daescalada,é imprescindível a realização de examepericial,sendo possível a sua substituição por outros meios probatórios somente se o delito não deixar vestígios ou tenham esses desaparecido, ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo" (AgRg no AREsp 1902141/ DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/10/2021, DJe 13/10/2021).
+Tendo o Tribunal de origem concluído que, entre outros meios de prova, a perícia realizada demonstrou que houve a escalada, alterar a referida conclusão, na forma pretendida pela defesa, demandaria revolvimento fático-probatório, providência inviável na seara do writ.
+A exasperação da pena-base, pelas consequências do crime, teve como fundamento o fato de que "o crime gerou dano ao estabelecimento comercial que, além de ficar sem os fios, ainda sofreu avarias em razão da prática criminosa" (fl. 98).
+Não tendo sido especificado o dano e as avarias mencionados, de modo a trazer fundamentação concreta ao aumento perpetrado, verifica-se que a descrição da circunstância judicial não extrapola os elementos ínsitos ao tipo penal imputado, devendo-se proceder ao decote da vetorial em comento.
+Nos termos da orientação jurisprudencial desta Corte, " a valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1672105/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 01/09/2020).
+O Tribunal a quo, ao aplicar a causa de aumento do § 1º do art. 155 do CP (repouso noturno) na modalidade qualificada do furto (art. 155, § 4º, do CP), contrariou o mais recente entendimento desta Corte.
+Era vigente neste Colegiado o entendimento jurisprudencial de que a majorante do furto praticado durante o repouso noturno seria compatível com a forma qualificada do referido delito.
+No entanto, a referida orientação foi superada, no "julgamento dos Recursos Especiais n. 1.888.756, 1.891.007 e 1.890.981 sob o rito previsto nos arts. 1.036 e 1.037 do Código de Processo Civil, concluído em 25/05/2022, a Terceira Seção do STJ fixou, no Tema Repetitivo n. 1.087, a tese de que " a  causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)"" (HC n. 747.967/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022).
+Assim, afasta-se o aumento relativo à majorante prevista no art. 155, § 1º, do Código Penal.
+Fixa-se a pena-base no mínimo legal - 2 anos de reclusão e 10 dias-multa, inalterada na etapa intermediária, a qual se torna definitiva, à míngua de causas modificativas.
+Ausentes circunstâncias desfavoráveis, nos termos dos arts. 33 e 44 do CP, aplica-se o regime aberto, substituída a pena privativa de liberdade por duas penas restritivas de direitos, a serem aferidas pelo Juízo da execução.
+Ante o exposto, concedo parcialmente o habeas corpus para (re) estabelecer a pena definitiva do paciente em 2 anos de reclusão, em regime aberto, e 10 dias-multa,substituída a pena privativa de liberdade por duas penas restritivas de direitos, a serem aferidas pelo Juízo da execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
