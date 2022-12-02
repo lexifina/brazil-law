@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO VOLKSWAGEN S.A. (BANCO VOLKSWAGEN)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Amapá, assim ementado:
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CONTRATO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. CONSTITUIÇÃO EM MORA. REQUISITO IMPRESCINDÍVEL. 1) Entende o Superior Tribunal de Justiça que "a demonstração da mora em alienação fiduciária ou leasing - para ensejar, respectivamente, o ajuizamento de ação de busca e apreensão ou de reintegração de posse - pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento - em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário" (S7J - REsp 1.292.182/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUAR7A TURMA, julgado em 29/09/2016, EJe de 16/11/2016); 2) No caso em tela, não houve o cumprimento da formalidade exigida, uma vez que não há na carta remetida ao endereço da devedora nenhuma assinatura, pois ela não foi sequer localizado, ficando registrando na carta apenas "mudou-se"; 3) Apelação conhecida e não provida. (e-STJ, fl. 206).
+Irresignado, BANCO VOLKSWAGEN interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação doart. 2º, § 2º, e 3º do Decreto-Lei nº 911/69,ao sustentar (1) que adevedora fiduciantefoi constituídaem mora para o ajuizamento da ação de busca e apreensão, mediante o envio da notificação para o endereço informado no contrato.
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Amapá(e-STJ, fls. 262/265).
+Nas razões do presente agravo, BANCO VOLKSWAGENalegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da constituição em mora da devedora
+Cinge-se a controvérsia à presença dos requisitos para o deferimento daliminar de busca e apreensão, quais sejam, o contrato de alienação fiduciária e a constituição em mora dodevedor.
+No caso dos autos, o Tribunal estadual manteve a sentença de extinção da ação de busca e apreensão, pelos seguintes fundamentos:
+A comprovação da mora, por sua vez, efetiva-se com a entrega da notificação premonitória realizada mediante carta registrada com "AR" ou enviada através do Cartório de Registro de Títulos e Documentos, ou pelo protesto do título, podendo o aviso de recebimento da correspondência ser assinado por pessoa diversa da do destinatário.
+A Lei nº 13.043/14 modificou a redação anterior do Decreto-Lei nº 911/69 e o art. 2 2 , parágrafo 2 2 , passou a apresentar a seguinte redação: "A mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+(..)
+Portanto, não é mais necessário o protesto do título e nem o envio de correspondência por intermédio de Cartório, bastando uma notificação enviada pelo próprio credor que cuidará para que seja regularmente entregue ao destinatário.
+Embora a lei não exija que o recebimento do aviso se opere pela assinatura do próprio punho do devedor, há que se comprovar que a notificação foi recebida por alguém, para que se opere a presunção (relativa) de que o devedor foi constituído em mora por entrega da carta.
+No caso sub judice, a notificação não foi entregue a ninguém, nem a terceira pessoa, pela motivação "mudou-se". Portanto, a constituição em mora, que é requisito de validade para ação de busca e apreensão, não foi provada, concluindo-se pelo total acerto da sentença que extinguiu o feito sem julgamento de mérito em face de ausência de pressuposto processual para a ação. (e-STJ, fls. 208/209).
+Desse modo, verifica-se que o acórdão recorrido está em dissonânciacom a jurisprudência desta Corte.
+Apesar danecessidade de comprovação do efetivo recebimento da notificação para a constituição em mora do devedor,este Tribunal já decidiu que a entrega da notificação pode ser dispensadaquando se verifica que o próprio devedor deu causa à frustração da entrega, pois não informou à credora a mudança de endereço no curso da relação contratual.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte, a notificação extrajudicial enviada ao endereço indicado no contrato e devolvida em virtude de mudança do devedor caracteriza-se como cumprida a formalidade necessária ao ajuizamento da ação de busca e apreensão do bem, se o novo endereço não havia sido devidamente comunicado pelo réu. Precedente.
+2. No caso, ficou assentado no acórdão recorrido que a parte ré não se mudou de endereço. Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.096.404/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 5/9/2022.)
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DL 911/69. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO EXTRAJUDICIAL. AVISO DE RECEBIMENTO (AR) COM INFORMAÇÃO DE QUE O DEVEDOR MUDOU-SE. COMPROVAÇÃO DO RECEBIMENTO PESSOAL. DESNECESSIDADE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. INDEVIDA.
+1. Ação de busca e apreensão da qual se extrai este recurso especial, interposto em 16/5/19 e concluso ao gabinete em 1º/8/19.
+2. O propósito recursal consiste em definir se é imprescindível a comprovação simultânea do encaminhamento de notificação ao endereço constante no contrato e do seu recebimento pessoal, para a constituição do devedor em mora nos contratos de alienação fiduciária.
+3. O prévio encaminhamento de notificação ao endereço informado no contrato pelo Cartório de Títulos e Documentos é suficiente para a comprovação da mora, tornando-se desnecessário ao ajuizamento da ação de busca e apreensão que o credor fiduciário demonstre o efetivo recebimento da correspondência pela pessoa do devedor. 4. O retorno da carta com aviso de recebimento no qual consta que o devedor "mudou-se" não constitui, por si só, fundamento para dizer que não foi constituído em mora.
+5. A bem dos princípios da probidade e boa-fé, não é imputável ao credor fiduciário a desídia do devedor que deixou de informar a mudança do domicílio indicado no contrato, frustrando, assim, a comunicação entre as partes.
+6. Na hipótese dos autos, o Tribunal de origem extinguiu o processo sem resolução de mérito, por ausência de comprovação da mora para o ajuizamento da ação de busca e apreensão, sob o fundamento de o AR constar a mudança do devedor. Esse entendimento não se alinha à jurisprudência do STJ.
+7. Recurso especial conhecido e provido.
+(REsp n. 1.828.778/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/8/2019, DJe de 29/8/2019.)
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTOao recurso especial para reconhecer a constituição em mora da rée determinar o retorno dos autos ao Tribunal de origem pararegular prosseguimento da ação de busca e apreensão.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO.ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇO DECLARADO PELA FIDUCIANTE MAS NÃO ENTREGUE. MOTIVO MUDOU-SE. EXTINÇÃO DA AÇÃO. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AFASTAMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
