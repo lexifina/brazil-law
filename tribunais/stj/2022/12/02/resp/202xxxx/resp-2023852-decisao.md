@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRÉ LUIZ PALAZZO, com amparo no art. 105, inciso III,alíneas "a" e "c", da Constituição Federal,em desafio aacórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 177, e-STJ):
+*AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA - Prazo quinquenal para o ajuizamento da execução - Aplicação da Súmula nº 150 do Supremo Tribunal Federal e do informativo nº 0484 do Superior Tribunal de Justiça - Existência de cautelar de protesto interruptivo do lapso prescricional - Contagem do prazo que deve recomeçar a partir da data do ajuizamento da cautelar, excluindo-se o dia do começo e incluindo-se o do vencimento - Inteligência dos artigos 132 do Código Civil e 224 do Novo Estatuto Adjetivo Civil - Ação proposta no dia 30 de setembro de 2019, após o exaurimento do prazo prescricional, ocorrido aos 27 de setembro do mesmo ano - Prescrição consumada - Recurso provido *
+Opostos embargos de declaração, foram rejeitados (fls. 197-201, e-STJ).
+Em suas razões de recurso especial, o Recorrente aponta, além de dissídio jurisprudencial, ofensa aoartigo202, parágrafo único, do CC.
+Sustenta, em síntese, a inocorrência de prescrição da pretensão autoral, posto que, interrompida a prescrição pelo ajuizamento de cautelar de protesto, a recontagem do prazo prescricional deve ter como marco inicial a data do último ato processual do feito que a interrompeu.
+Contrarrazões às fls. 236-260, e-STJ.
+Admitido o apelo extremo na origem (fls. 268-270, e-STJ), ascenderam os autos a esta Corte Superior.
+É o relatório. Decide-se.
+1.Discute-se no apelo nobre, dentre outras questões, a "interrupçãodoprazo prescricionalpara pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação deprotestoou de execução coletiva por legitimado para propor demandas coletivas", tema recentemente afetado pela Segunda Seção desta Corte à sistemática de recursos repetitivos, cadastrado como Tema1033(REsp nº. 1.801.615/SP e REsp nº. 1.774.204/RS).
+Ademais, foi determinada a suspensão de todos os recursos especiais e agravos em recurso especial na segunda instância e/ou que tramitem no STJ.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2.Do exposto, determina-se a restituição dos autos ao Tribunal de origem a fim de que fique sobrestado até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema1033)e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Publique-se. Intimem-se.
