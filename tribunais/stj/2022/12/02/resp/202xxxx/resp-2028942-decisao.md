@@ -1,0 +1,41 @@
+DECISÃO
+INEPAR S. A. INDÚSTRIA E CONSTRUÇÕES - EM RECUPERAÇÃO JUDICIAL (INEPAR) interpôs agravo de instrumento contra decisão que, em ação de execuão ajuizada porBTA CONSULTORIA LTDA. (BTA), autorizou penhora cautelar de R$ 1.460.026,21 (um milhão, quatrocentos e sessenta mil e vinte e seis reais e vinte e um centavos) no rosto dos autos de procedimento arbitral proposto porIESA ÓLEO &GÁS (IESA), integrante do mesmo grupo econômico da ora agravante, em desfavor dePETROBRAS NETHERLANDS BV e TUPI BV, aos fundamentos de quecomprovada a plausibilidade do direito de IESA por se cuidar de execução baseada em título executivo extrajudicial e também o perido de dano ou risco ao resultado útil do processo diante da possibilidade de levantamento dos valores depositados no citado procedimento (e-STJ, fls. 81/82).
+O agravo de instrumento foi desprovido pelo Tribunal de Justiça do Distrito Federal e dos Territórios,nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CAUTELAR DE ARRESTO. DEVEDORA EM RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. REQUISITOS PARA O DEFERIMENTO DA MEDIDA CAUTELAR. PRESENTES. DECISÃO MANTIDA.
+1. Trata-se de agravo em face da decisão que, em ação de execução de título extrajudicial, acolheu o pedido da exequente e determinou o arresto no rosto dos autos do processo n. 1.692.985/SP, em trâmite perante do Superior Tribunal de Justiça, a atingir direitos da agravante até o limite da quantia exequenda.
+2. Nos moldes do art. 799, inciso VIII, do CPC, é facultado ao credor, ao manejar execução destinada à satisfação do crédito estampado em título executivo, pleitear medidas acautelatórias urgentes com o objetivo de viabilizar a efetivação do direito material vindicado.
+3. Em se tratando de tutela de urgência, para sua concessão devem restar presentes os requisitos previstos no art. 799, inciso VIII, do CPC, consistentes na (i) plausibilidade do direito vindicado e na (ii) demonstração do perigo de dano ou risco ao resultado útil do processo.
+4. Atendidos os requisitos dos artigos 300 e 301 do CPC, para o deferimento da medida cautelar de arresto, não merece reparo a decisão hostilizada.
+5. Agravo conhecido e desprovido. Liminar revogada.(e-STJ, fl. 575).
+Os embargos de declaração opostos por INEPARforam rejeitados (e-STJ, fls. 622/630).
+Inconformada, INEPAR interpôs recurso especial com fundamento nas alíneasae c do permissivo constitucional, apontando a violação dos seguintes dispositivos legais(1)arts. 489, § 1º, e 1.022, II, do NCPC, ao reputar omisso o aresto recorrido no pertinente à alegação de que competiria ao juízo recuperacional julgar acerca de pedidos de penhora, arresto ou sequestro formulados em face de devedora submetida ao rito da LRF; e(2)art. 76 da Lei nº 11.101/05, ao aduzir que, em se cuidando de sociedade empresária sujeita à recuperação judicial, seria da competência do juízo em que tramita a ação de soerguimento decidir sobre todos os atos de constrição em face da recuperanda, ainda que se trate de crédito extraconcursal, além de estar alegadamente ausente o risco ao resultado útil do processo na medida em que os valores depositados teriam sido reconhecidos como essenciais e assim vinculados ao cumprimento do correspondente plano.
+Em juízo de admissibilidade, a Presidência do Tribunal distrital admitiu o referido apelo nobre (e-STJ, fls. 670/671).
+O Ministério Público Federal manifestou-se pela negativa de conhecimento do recurso especial (e-STJ, fls. 682/686).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interpostocontra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e(2)Da alegada omissão do acórdão recorrido e da competência
+Ao contrário do que afirmado nas razões do recurso especial, o TJDFT foi claro ao assentar as bases pelas quais deixou de se manifestar acerca da alegaçãode que seria da competência do juízo recuperacional decidir sobre todos os atos de constrição em face da recuperanda.
+Confira-se o aresto recorrido e o acórdão dos correspondentes embargos de declaração:
+O recurso foi conhecido apenas parcialmente, nos termos da decisão ID 30495829. Na parte que se pode conhecer, passo à análise do mérito.(e-STJ, fl. 579)
+A embargante alega, em síntese, omissão no julgado, pois teria deixado de analisar a tese de que, em se tratando de empresa submetida à recuperação judicial, compte exclusivamente ao juízo da recuperação decidir sobre os atos de constrição em face da recuperanda.
+Debruçando-me sobre o v. aresto resistido, não verifico a presença de qualquer dos defeitos enumerados no art. 1.022 do Código de Processo Civil, a ensejar o acolhimento dos presentes embargos, pois o julgado não apresenta vício de omissão, contradição ou obscuridade.
+Inicialmente, verifico que a matéria relativa à alegada omissão, embora constante da petição do agravo, não foi conhecida, conforme a decisão de ID 30495829, contra a qual não houve recurso.
+Vejamos trecho do referido decisum:
+Conforme relatado, insurge-se a agravante contra decisão que deferiu o arresto de eventual crédito destinado à agravante nos autos nº 1.692.985/SP, até o limite de R$ 1.460.026,21.
+Assim, revela-se cabível a presente insurgência, porquanto amparado no artigo 1.015, parágrafo único, do Código de Processo Civil.
+Sem embargo, o recurso deve ser conhecido apenas em parte. A incompetência absoluta do juízo é questão não contemplada pela decisão agravada (ID 103208602 - origem). Na verdade, sequer foi suscitada perante o juízo singular.
+Conforme consabido, o objeto do agravo de instrumento está adstrito às matérias apreciadas pelo juízo singular, em razão do efeito devolutivo restrito. Por conseguinte, não há como conhecer de alegações não contempladas pela decisão agravada - mesmo que concernentes a questões de ordem pública - sob pena de supressão de instância.
+Nesse mesmo sentido:
+ ..  2. O conhecimento e julgamento em sede de agravo de instrumento de questões não apreciadas pela decisão recorrida, mesmo as matérias de ordem pública, constitui supressão de instância, se ainda não foram analisadas na instância de origem.  ..
+(Acórdão 1375657, 07169833220218070000, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 6/10/2021, publicado no DJE: 18/10/2021. Pág.:Sem Página Cadastrada.)
+Passo ao exame do pedido liminar, quanto às demais alegações.
+Assim, diante da ausência dos defeitos enumerados no art. 1.022 do CPC, e restando demonstrado o desígnio buscado pela embargante - análise de questão não conhecida, os presentes embargos não podem ser acolhidos.(e-STJ, fls. 624/625)
+Não há como sustentar, portanto, omissão no enfrentamento da pretensão.
+No tocante à alegação de que, em se cuidando de sociedade empresária sujeita à recuperação judicial, seria da competência do juízo em que tramita a ação de soerguimento decidir sobre todos os atos de constrição em face da recuperanda, ainda que se trate de crédito extraconcursal, além de estar alegadamente ausente o risco ao resultado útil do processo na medida em que os valores depositados teriam sido reconhecidos como essenciais e assim vinculados ao cumprimento do correspondente plano, tem-se que, afastada a pretensa omissão da matéria,fica prejudicado o pleito no particular.
+Nessas condições, pelo meu voto,NEGOPROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE RECUPERAÇÃO JUDICIAL. PENHORA NO ROSTO DOS AUTOS.VIOLAÇÃO DOSARTS. 489 E 1.022 DO NCPC. FUNDAMENTAÇÃO SUFICIENTE PELA CORTE DISTRITAL. HIGIDEZ DO ACÓRDÃO IMPUGNADO.RECURSO ESPECIAL NÃO PROVIDO.
