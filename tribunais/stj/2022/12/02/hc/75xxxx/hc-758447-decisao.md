@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Thalis Iego Teodoro contra o acórdão do Tribunal de Justiça de Minas Gerais, que deu parcial provimento à apelação interposta pela defesa (Apelação Criminal n. 1.0472.17.001939-3/001).
+Consta dos autos que o paciente foi condenado como incurso nos arts. 159, § 1º (extorsão mediante sequestro), e 157, § 2º, I e II (roubo), ambos do Código Penal, às penas de 18 anos, 7 meses e 10 dias de reclusão, em regime inicial fechado, e pagamento de 60 dias-multa.
+Em sede de apelação, o Tribunal de Justiça de Minas Geraisdeuparcial provimento ao recurso para reduzir a pena a 17 anos e 4 meses de reclusão, mais pagamento de 13 dias-multa, em regime inicial fechado(fls. 86/121).
+No presente writ, a defesa alega, em síntese,que se faz necessária a desclassificação do crime de extorsão mediante sequestro (art. 159, § 1º, do Código Penal) para o crime de extorsão (art. 158, §§ 1º e 3º, do Código Penal).
+Processado o writ,sempedido liminar, depois de prestadas informações (fls. 146 e 149), o Ministério Público Federal emitiu parecer pela denegação da ordem (fl. 157).
+É o relatório.
+O pleito desclassificatório está calcado na assertiva de que aação criminosa objetivava conduzira vítima até a agência bancária onde exercia o cargo de gerência para que ela mesma (a vítima) viabilizasse a conquista da vantagem econômica indevida(fl. 10).
+Tal alegação, no entanto, destoa da moldura fática estabelecida no acórdão atacado, que concluiu no sentido de uma ação delituosa bem mais sofisticada, envolvendo o sequestro de duas pessoas, manutenção de uma das vítimas em cativeiro e o estabelecimento da vantagem econômica -que deveria ser obtida pela segunda vítima nobanco -,como condição ou preço deresgate da primeira(em cativeiro) - (fl. 104 - grifo nosso):
+ ..
+Assim, o que se conclui é que os réus, sob a liderança de Wesley de Abreu e contando com a participação de J.P.S.R.F., após planejamento, dirigiram até a residência das vítimas, uma delas gerente do banco Itaú e, mediante grave ameaça exercida com arma de fogo, ingressaram no local, mantendo-as sob a vigilância do grupo. Segundo fora comprovado, no dia seguinte ao início da empreitada criminosa, a maior parte do bando saiu do local, mantendo E. em seu poder em um cativeiro - sítio do tio de Yuri -, enquanto o menor se deslocou até a agência bancária junto com A., para que, contando com o acesso facilitado dele aos cofres e caixas do banco, lograsse êxito em obter vantagem - elevada quantia em dinheiro - como condição para libertar a esposa.
+Nestes termos, encontra-se plenamente configurada a conduta delituosa disposta no art. 159, § 1º do CP, revelando serem completamente descabidos os pleitos desclassificatórios.
+Diga-se, ser inviável o reconhecimento da figura delitiva disposta no art. 158, § 3º do Códex, já que, enquanto uma das vítimas - no caso, E. - era mantida em cárcere, a sua liberdade era negociada como pagamento com a outra vítima - no caso, A. -, ou seja, a vantagem a ser obtida era condição ou preço do resgate da pessoa com a liberdade privada, elemento que constitui o crime de extorsão mediante sequestro. Ora, na extorsão qualificada sustentada pela defesa, a liberdade da vítima é restringida - sem a necessidade de encarceramento - e, aqui, não há a finalidade de recebimento de resgate, mas, tão somente, o desejo de obter, através do constrangimento daquela, uma indevida vantagem econômica.
+Acerca da distinção de tais condutas criminosa estão os ensinamentos de Guilherme de Souza Nucci e de Rogério Greco:
+(..) a nova figura (art. 158, § 3º do CP) também não se confunde com a extorsão mediante sequestro, tendo em vista que nesta última hipótese, a privação (destituir, tolher) da liberdade é mais que evidente, ingressando o ofendido em cárcere, até que haja a troca da vantagem como condição ou preço do resgate". (Código Penal Comentado, Revista dos Tribunais, 17ª ed., 2017 - pp. 587/588)
+ ..
+Moldura essa que se adequa com perfeição ao tipo penal do art. 159 do CP e que, enquanto calcada no exame de matéria probatória,não comporta reexame em sede de cognição sumária.
+Ora, épacífico o entendimento desta Corte de que não é cabível, na estreita via do writ, proceder ao aprofundado reexame de fatos e provas para apreciar o pleito ausência de autoria e de desclassificação da conduta(HC n. 621.130/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/2/2021).
+Ante o exposto, não conheçodohabeas corpus(art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.EXTORSÃO MEDIANTE SEQUESTRO. PEDIDO DE DESCLASSIFICAÇÃO PARA CRIME DE EXTORSÃO QUALIFICADA. IMPOSSIBILIDADE DE REEXAME FÁTICO E PROBATÓRIO.
+Writ não conhecido.
