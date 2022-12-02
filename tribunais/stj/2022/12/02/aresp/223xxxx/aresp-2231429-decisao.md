@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial do interposto por JUCELIA DA CONCEIÇÃO BICALHO E OUTRO, contra acórdão do Tribunal de Justiça do Estado de Rondõnia, contra acórdão assim ementado:
+Apelação cível. Ação declaratória de inexigibilidade de débito. Energia elétrica. Medição irregular. Recuperação de consumo. Cobrança. Possibilidade. Parâmetros para apuração do débito. Adequação. Ausência de suspensão do serviço e negativação. Dever de indenizar. Inexistência.
+É possível que a concessionária de serviço público proceda à recuperação de consumo de energia elétrica em razão da constatação de inconsistências no consumo pretérito, desde que haja outros elementos suficientes para demonstrar a irregularidade na medição, a exemplo do histórico de consumo e o levantamento carga, dentre outros.
+O parâmetro a ser utilizado para o cálculo do débito deverá ser a média de consumo dos três meses imediatamente posteriores à substituição do medidor e pelo período pretérito máximo de doze meses.
+A mera cobrança, ainda que posteriormente declarada indevida, não é capaz de gerar abalo moral, se não houve suspensão do fornecimento de energia ou inscrição do nome do consumidor em cadastro restritivo do crédito.
+Osembargos declaratórios foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015, aduzindo omissão do acórdão recorrido quanto à ausência de comprovação da licitude dos débitos questionados a autorizar a cobrança pela agravada. Afirma ainda obscuridade quanto à pretensão de reconhecimento de julgamento fora do pedido.
+Alega ainda afronta aos arts. 373, II, do CPC/2015 e 6º, VIII, do CDC, sustentando ter havido má-valoração da prova a autorizar a cobrança de débito de energia elétrica. Destaca (e-STJ, fl. 253):
+30. Destarte, certamente houve error in judicando, porque há notória inadequação da condenação posto que o documento denominado "relatório de ensaio de medidor" não é, nunca foi e não pode ser considerado como laudo pericial, mormente quando se constata que essa suposta perícia, ou seja, o tal "Relatório de Ensaio de Medidor" é falso, porque já se encontrava previamente preenchido; não bastando muito esforço para se chegar à essa conclusão, bastando uma simples olhada nos autos (id 13105477 -Pág. 5 e Pág. 6). 31 Segundo se vê da "Notificação de Execução de Relatório de
+Sustenta a ocorrência de dano moral, com fundamento nos arts. 186 e 927 do CC/2002, 14 e 42, parágrafo único, do CDC.
+Por fim, aduz ter havido julgamento fora do pedido, com fundamento na ofensa aos arts. 141 e 492 do CPC/2015. Assevera (e-STJ, fls. 257):
+46. Os autos revelam que NÃO HOUVE qualquer pedido da recorrida pela revisão do consumo que não foi objeto, nem em sede e de contestação e no pedido reconvencional (..) .
+Houve contrarrazões.
+A inadmissão do recurso especial se deu pela incidência daSúmula7/STJ - daí o presente agravo.
+É o relatório.
+Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamento da não admissão do recurso especial.
+A pretensão recursal não merece acolhimento.
+Quanto à definição do débito a ser cobrado pela agravada e o suposto julgamento fora do pedido, o Tribunal de Justiça assim se manifestou(e-STJ, fls. 192/193 ):
+Analisando os autos, nota-se que a dívida em discussão se deu em virtude da apuração de energia elétrica supostamente consumida e não faturada, ensejando a cobrança de débito no valor de R$1.550,17, conforme fatura acostada sob oID n. 13105454.
+O caso dos autos já foi analisado por diversas vezes neste Tribunal, nos quais se decidiu que a perícia unilateral, realizada por prepostos da concessionária de energia, sem oportunidade à ampla defesa e ao contraditório eram ilegais e, portanto, gerava a declaração de inexigibilidade do débito decorrente daquelas.
+Todavia, esta Câmara Cível reapreciou a questão e decidiu pela possibilidade da concessionária efetuar a recuperação de consumo, desde que o de medição, em decorrência da irregularidade constatada, fique evidenciado por déficit outros meios de prova, tais como o histórico de consumo e o levantamento de carga, dentre outros, observando-se, ainda, as normas estabelecidas pela agência reguladora.
+Nessa perspectiva, o valor a ser pago pelo consumidor em razão de recuperação de consumo pretérito não pode ser apurado com base em consumo estimado com base na carga instalada, como usualmente tem feito a concessionária de energia.
+Assim sendo, no julgamento da Apelação Cível n. 0010645-44.2013.8.22.0001, da relatoria do desembargador Alexandre Miguel, em 24/9/2014, esta Câmara analisou caso semelhante, firmando entendimento sob a matéria,inclusive sobre os parâmetros a serem adotados para a apuração do débito decorrente da recuperação de consumo de energia elétrica.
+(..)
+Nota-se, assim, que embora a Resolução n. 414/2010 da ANEEL preveja uma forma de cálculo em seu art. 130, inc. III, tem-se que a norma interna deve ser adaptada de modo que a interpretação seja mais favorável ao consumidor, conforme entendimento firmado no julgamento acima transcrito.
+Por esta razão, o valor a ser cobrado na recuperação de consumo em razão da substituição do medidor deverá considerar a média de consumo dos 3 meses imediatamente posteriores à substituição do equipamento e pelo período pretérito máximo de 1 ano.No caso dos autos, observa-se que a parte-apelante pagava apenas o consumo mínimo, sendo certo que após a substituição do medidor, o consumo da referida unidade aumentou, de forma que está demonstrada a existência de de déficit medição a ser recuperado.
+Dessa forma, fica mantida a possibilidade de haver a cobrança de recuperação de consumo, tal como determinado pelo juiz , não havendo que se falar em julgamento .
+(..)
+Assim, é necessário aferir no caso concreto se a situação trazida pela parte pode ser considerada ofensiva aponto de causar dano moral ou mesmo se esta se insere no conceito de dano moral puro, dispensando eventual prova de sua ocorrência. Pois bem. Esta Corte já decidiu, em diversas oportunidades, que a interrupção indevida do fornecimento de energia elétrica gera o dever de indenizar, sem necessidade de comprovação do dano, o qual seria presumido.
+Entretanto, no caso presente, não ocorreu a interrupção do fornecimento da energia elétrica nem a negativação do nome do consumidor, de modo que não vislumbro dano moral passível de indenização.
+(..)
+Dessa forma, não há que se falar em dano moral só pelo fato de ter havido cobrança indevida,desacompanhada de suspensão do fornecimento, de negativação do nome do consumidor ou de outra forma de divulgação da suposta inadimplência.
+No caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao reconhecer a adequação do pedido julgado pela Corte local, determinando a forma de pagamento do débito referente ao consumo de energia elétrica, e afastando a pretensão de dano moral.
+Nesses termos, não há falar em vício noacórdão recorrido. Na linha da jurisprudência desta Corte, se os fundamentos do acórdão se mostram insuficientes ou incorretos na opinião da parte recorrente, não quer dizer que eles não existam.
+Não há que se confundir decisão contrária ao interesse da parte com negativa de prestação jurisdicional.
+Nesse contexto, a modificação das conclusões do acórdão recorrido a respeito do julgamento fora do pedido, do valor apurado do débito e da caracterizaçãodo dano moral,demandaria o revolvimento do acervo fático-probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO E OBSCURIDADE. INEXISTÊNCIA.. JULGAMENTO FORA DO PEDIDO. ÔNUS DA PROVA. DANO MORAL.AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
