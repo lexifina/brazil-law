@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEANDRO DE ALMEIDA MAXIMINIANO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento da Apelação Criminal n. 0001780-92.2016.8.19.0071 (relatoria do Desembargador Paulo Rangel), cujo acórdão recebeu aseguinte ementa (e-STJ fl. 135, grifei):
+RECURSOS DE APELAÇÃO. DIANTE DA DECISÃO DO E. STJ, PASSO A REALIZAR A NOVA DOSIMETRIA DA PENA. Evitando o bis in idem identificado pela decisão do E. STJ, acolho em parte o recurso ministerial, mantenho a pena-base no mínimo legal, eis que considero que os acusados se dedicam ao tráfico de drogas em razão da considerável quantidade de droga apreendida e variedade de entorpecente, de modo que é inapropriada a aplicação do redutor do tráfico-privilegiado, sendo certo, ainda, que o réu Leonardo é reincidente específico. Na segunda fase, aumento a pena do acusado Leonardo em razão da reincidência.
+Mantenho o regime fechado para os réus Leonardo e Leandro, eis que o primeiro é reincidente, sendo certo que a quantidade e variedade de drogas demonstram a maior reprovabilidade da conduta dos acusados. Não merece prosperar o pleito de substituição de pena por encontrar óbice no art. 44, I, do CP. Não merece prosperar o pleito de substituição de pena por encontrar óbice no art. 44, I, do CP.
+CONHEÇO DOS APELOS E DOU PARCIAL PROVIMENTO AO RECURSO DEFENSIVO PARA ABSOLVER OS RÉUS DA IMPUTAÇÃO DO CRIME DESCRITO NO ART. 35 DA LEI 11.343/06, NA FORMA DO 386, VII, DO CPP E DOU PARCIAL PROVIMENTO AO RECURSO MINISTERIAL PARA ESTIPULAR A PENA DE 5 ANOS E 10 MESES DE RECLUSÃO, EM REGIME FECHADO, E 510 DIAS- MULTA PARA O RÉU LEONARDO E A PENA DE 5 ANOS DE RECLUSÃO, EM REGIME FECHADO, E 500 DIAS-MULTA PARA O RÉU LEANDRO.
+Daí o presente writ, no qual alega a defesa que, no caso, há "patente ilegalidade, consubstanciada na manutenção do regime inicial fechado a réu primário e sem antecedentes, com pena-base imposta no mínimo legal previsto" (e-STJ fl. 6).
+Requer, desse modo, inclusive liminarmente, o abrandamento do regime inicial de cumprimento da pena.
+O pedido liminar foi deferido.
+Informações prestadas.
+O parquet opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+No que toca ao regime inicial e à substituição da pena, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Na espécie, o Tribunal origináriofixou o regime inicialmente fechado para cumprimento da pena imposta ao paciente em virtude da quantidade/variedade de droga apreendida(e-STJ fl. 136).
+Todavia, no caso,considerando o quantum de pena imposto ao paciente (5anosde reclusão), além de as condições judiciais do art. 59do Código Penal lheserem todas favoráveis e dea quantidade de drogas apreendidas, embora não seja irrelevante,não ser expressiva-aproximadamente 9g (nove gramas) de crack e 312g (trezentos e doze gramas) de maconha-,entendo ser adequadooregime inicial semiaberto para desconto da reprimenda.
+Tal o contexto, concedo a ordem, nos termos ora delineados.
+Publique-se. Intimem-se.
