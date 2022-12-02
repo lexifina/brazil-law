@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA CRISTINA ZANONI PALMIERI e OUTROS contra decisão que inadmitiu o recurso especial, tendo por exclusivo fundamento a ausência de demonstração da relevância da matéria infraconstitucional sub judice.
+O requisito da relevância ao recurso especial foi introduzido no ordenamento jurídico pela Emenda Constitucionaln.125, de 14 de julho de 2022, a qual, ao inserir o parágrafo 2º ao art.105 da Constituição Federal, referiu-se, expressamente, à regulamentação do dispositivo por lei infraconstitucional.
+Nessa esteira, o Pleno do Superior Tribunal de Justiça aprovou o Enunciado Administrativo 8, nos termos seguintes: "A indicação, no recurso especial, dos fundamentos derelevânciada questão dedireito federal infraconstitucionalsomente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da ConstituiçãoFederal."
+Assim e tendo em vista que, na hipótese vertente, a inadmissão teve como exclusivo fundamento a ausência de demonstração do requisito da relevância, é de rigor a restituição dos autos à origem, a fim de que, à luz das premissas fixadas no bojo do supramencionado enunciado administrativo, proceda o Tribunal a quo ao juízo de admissibilidade do recurso especial.
+Publique-se. Intimem-se.
