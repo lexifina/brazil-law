@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA CRUZ DE LIMA contra decisão que negou seguimento a recurso especial, interposto em face de acórdão assim ementado (e-STJ, fl. 490):
+APELAÇÃO CÍVEL. NULIDADE DE ASSEMBLEIADE CONDOMÍNIO RESIDENCIAL. DECADÊNCIA RECONHECIDA DE OFÍCIO. PRAZO GERAL DE 02 ANOS. APELAÇÃO PREJUDICADA.
+1. A busca judicial pela nulidade de duas assembleias realizadas no condomínio apelado, decorrente de eventual ilegalidade no procedimento de aprovação de obras, refere-se a formalidade do ato realizado entre particulares e, por isso, tem natureza constitutiva negativa, motivo pelo qual, aplica-se, no caso, o prazo decadencial, o qual pode e deve ser reconhecido de ofício, em qualquer tempo e grau de jurisdição.
+2. Tratando-se de fato anulável, a tese apresentada pela recorrente, de irregularidade das assembleias realizadas no condomínio, que autorizou a realização de obras, por vícios em relação ao respectivo Regimento e Convenção, tem prazo decadencial estabelecido na regra geral, de 2 (dois) anos, prevista no artigo 179, do Código Civil, ante a inexistência na lei que estabeleça prazo específico.
+3. Verificado que entre a realização das assembleias questionadas nesta ação e a propositura da demanda, transcorreram mais de 02 (dois) anos, deve ser reconhecida,"ex officio", a decadência do direito de ação, pelo que fica prejudicada a apelação interposta em face da sentença que julgou improcedentes os pedidos iniciais.
+4. DECADÊNCIA RECONHECIDA "EX OFFICIO". AÇÃO EXTINTA COM JULGAMENTO DO MÉRITO. APELAÇÃO PREJUDICADA. HONORÁRIOS RECURSAIS MAJORADOS.
+Opostos embargos de declaração, foram desprovidos (e-STJ, fls. 519-526).
+Nas razões do especial, aponta a recorrente violação do artigo 205 do Código Civil, argumentando, em síntese, que o prazo para anulação deassembleia condominial porvício de formalidadeseria prescricional.
+Defende que seria aplicávelo prazo geral de 10 anos, poisinexistenteprevisão específica de prazo para o evento considerado.
+Aberto prazo para contrarrazões, não foi apresentado, conforme certificado à fl. 544 (e-STJ).
+O recurso especial não foi admitido, em razão do óbice da Súmula 7/STJ; contra o que se manifesta o agravante na presente via (e-STJ, fls. 555-561).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifica-seque o contorno fático está bem delineadono acórdão recorrido, porquanto, incontroversoo exercício de pretensão anulatóriacontra assembleia condominial,supostamenteinstauradasem o quórum mínimo.
+A propósito, transcrevo a seguinte passagem do acórdão recorrido (e-STJ, fls. 481/493):
+Afirma que, ".. a própria Convenção do Condomínio Apelado, estatui o art. 16 que, com relação as obras de reformas, transformações ou modificações nas unidades ou nas áreas de uso comum, necessitarão do voto e quórum de no mínimo 2/3 dos condôminos a ser manifestado em Assembleia Geral Extraordinária, procedida em qualquer caso, da aprovação dos Poderes Públicos competentes. .."
+Ressalta ainda que existe previsão na Convenção de que os votos dos condôminos inadimplentes serão considerados nulos, situação que afirma ter ocorrido no caso e não observada na sentença recorrida.
+Aduz mais que ".. mesmo sem possuir os quóruns necessários de deliberação em assembleia, o síndico iniciou as obras de construção de muro em área comum, entre os blocos, oque prejudicou sobremaneira o deslocamento e acesso de parte dos moradores, e ainda permitiu que alguns dos condôminos agregassem parte da área comum às suas unidades condominiais..", informando ainda que as referidas obras foram realizadas sem a Anotação de Responsabilidade Técnica.
+ ..
+Ao contrário do que entende a apelante, verifico que a tese de irregularidades das assembleias de condôminos que autorizou a realização de obras no condomínio, por vícios em relação ao Regimento e Convenção, tem prazo decadencial estabelecido na regra geral, de 2(dois) anos, prevista no artigo 179, do Código Civil, ante a inexistência na lei que estabeleça prazo específico:
+"Art. 179. Quando a lei dispuser que determinado ato é anulável, sem estabelecer prazo para pleitear-se a anulação, será este de dois anos, a contar da data da conclusão do ato."
+Destarte, como a apelante argumenta, na inicial, a necessidade de anulação dasprefaladas assembleias, em razão de vícios de quorum para as deliberações ali consagradas, tenho que decaiu o seu direito, porque decorrido mais de 02 (dois) anos entre a realização de taisassembleias e o protocolo da ação, uma vez que a demanda foi proposta em 26 de outubro de 2020 (mov. de nº01), e as assembleias realizadas em 2013 e 2017.
+Ultrapassado o prazo de 02 anos para a propositura da ação, operou-se a decadência do direito da apelante em arguir a nulidade das assembleias condominiais em questão, bem como das deliberações nelas constantes. (grifo acrescido)
+Como se vê do trecho acima reproduzido, não há dúvida sobre a origem da pretensão formulada pelo recorrente, tampouco sobre o lapso temporal entre a lesão e o exercício do direito de ação.
+Diante desse contexto, e ao contrário do que consta na decisão agravada, a análise sobre a pertinência do prazo prescricional ou de decadência revela controvérsia eminentemente jurídica, de modo que não se aplica o óbiceda Súmula 7/STJ.
+De todo modo, observo que a orientação adotada no acórdão recorrido não destoa da jurisprudência desta Corte, pacificada no sentido de que o prazo para anulação de assembleia de condomínio é decadencial, e não prescricional.
+Com efeito, o Código Civil de 2002 adotou como princípio orientador a operabilidade, distinguindo de modo analíticoa prescrição e a decadência, estabelecendo inclusive prazo subsidiário e específicopara essa última,caso inexistenteprazo específicopara o exercício daação anulatória(artigo 179 do CC/02).
+A propósito:
+CIVIL E PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AÇÃO ANULATÓRIA DE VENDA DE ASCENDENTE A DESCENDENTE. ANULABILIDADE, AINDA QUE NA VIGÊNCIA DO CÓDIGO CIVIL DE 1916. SUJEIÇÃO A PRAZO DECADENCIAL. REDUÇÃO DO PRAZO PELO CÓDIGO CIVIL VIGENTE. REGRA DE TRANSIÇÃO. APLICABILIDADE. INTEGRAL TRANSCURSO DO PRAZO LEGAL. DECADÊNCIA RECONHECIDA. RECURSO DESPROVIDO. DECISÃO MANTIDA.
+1. A venda de ascendente a descendente caracteriza ato anulável, ainda que praticado na vigência do Código Civil de 1916, condição reafirmada no art. 496 do atual diploma material. Precedentes.
+2. Segundo o art. 179 do Código Civil de 2002, "quando a lei dispuser que determinado ato é anulável, sem estabelecer prazo para pleitear-se a anulação, será este de dois anos, a contar da data da conclusão do ato."
+3. O prazo fixado pelo Código Civil revogado, reduzido pela atual lei civil, só prevalece se não transcorrida mais da metade (inteligência do art. 2.028 do CC/2002). O novel prazo legal deve ser contado a partir do início de vigência do atual diploma material civil. Precedentes.
+4. No caso concreto, ajuizada ação após o prazo fixado pelo art. 179 do Código Civil vigente, afigura-se impositivo o reconhecimento da decadência do direito de o autor pleitear a anulação do ato jurídico contrário à norma do art. 1.132 do CC/1916, atual art. 496 do CC/2002.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 1.198.907/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/9/2014, DJe de 18/9/2014.) (grifo acrescido)
+Especificamenteem relação aoprazo paraanularassembleia de condomínio,ressalvo que o precedente mencionado pelarecorrente foi julgado com base no Código Civil de 1916, que não previa, ao contrário do que ocorre no CC/02 (artigo 179),prazo subsidiário eautônomo em relação àdecadência.
+Dessa maneira, inexistenteprazo específico para anulação de assembleia por vício de formalidade, incidiao prazo subsidiário de 20 anos, aplicávelde modo indistintoàprescrição e decadência, considerada a menção a"ações pessoais"noartigo 177 do CC/16.
+Ademais, o exame daliteralidadedo artigo 177 do CC/16 revela que todas as ações pessoais estariam sujeitas à prescrição,caso inexistente prazo específico para o exercício da respectiva ação judicial, como se verificana espécie.
+Por conta disso, a menção nos precedentes desta Corte julgados com base no CC/16de que a anulação por vício de formalidade assemblear estaria sujeita ao prazo prescricional de 20 anos.
+A propósito:
+NULIDADE. Anulabilidade. Prescrição. Convenção de condomínio.Alteração. Desatenção ao quorum previsto na convenção.
+Anulável o ato de alteração de convenção do condomínio aprovado sem requisito exigido na convenção, é prescritível a pretensão anulatória.
+Recurso conhecido e provido.
+(REsp n. 196.312/RJ, relator Ministro Ruy Rosado de Aguiar, Quarta Turma, julgado em 23/2/1999, DJ de 29/3/1999, p. 189.)
+AGRAVO INTERNO NO GRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. CONDIÇÕES DA AÇÃO. POSSIBILIDADE JURÍDICA DO PEDIDO E INTERESSE PROCESSUAL.APLICAÇÃO DA SÚMULA Nº 7/STJ. PRESCRIÇÃO. PEDIDO DE DECLARAÇÃO DE NULIDADE DE DELIBERAÇÃO DE ASSEMBLEIA DE CONDOMÍNIO. PRAZO PRESCRICIONAL VINTENÁRIO, À ÉPOCA, ORA REDUZIDO A DEZ ANOS.INTELIGÊNCIA DOS ARTS. 177 DO CC/1916 E 205 DO CC/2002. PRAZO QUE NÃO SE CONFUNDE COM AQUELE DE ANULAÇÃO DO ATO, POR VÍCIO DE VONTADE OU SOCIAL, NA FORMA DO ART. 178, § 9º, V, "B", DO CC/1916, VIGENTE À ÉPOCA. PRESCRIÇÃO NÃO CONSUMADA. REVISÃO DESTE ENTENDIMENTO.
+IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. DECISÃO QUE SEGUE MANTIDA. LEGITIMIDADE DA MULTA APLICADA AO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 284/STF. AUSÊNCIA DE IMPUGNAÇÃO.
+AGRAVO INTERNO EM PARTE CONHECIDO E DESPROVIDO.
+(AgInt no AREsp n. 1.201.670/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/9/2019, DJe de 25/9/2019.)
+Na hipótese, porém,como as assembleias que se pretendem ver anuladas remontam a 2013 e 2017 (e-STJ, fl. 493); não há dúvida de que incide o Código Civil de 2002, que prevê prazo subsidiário e autônomopara o exercício de ação anulatória, nos termos dosprecedentesmencionados.
+Desse modo, tratando-se de ação anulatória de assembleia condominial por vício formal, em relação aoqueremanesce no atual códigoa inexistência deprazo específico para a respectiva ação anulatória, aplica-se a regra geral prevista no artigo 179 do Código Civil, de 2 anos.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
