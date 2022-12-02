@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Associação de Formatura das Turmas XVII E XVIII de Medicina - UFSJ - FORMANDOS DE 2022 à decisão monocrática proferida por este signatário, assim ementada (e-STJ, fl. 789):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. POSSIBILIDADE DE LIBERAÇÃO DE VALORES. PREMISSAS FÁTICAS. SÚMULA N. 7/STJ. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. AUSÊNCIA DE JUSTIFICATIVA ADEQUADA PARA SUA IMPOSIÇÃO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+Em suas razões, a embargante alega a existência de omissão na decisão embargada, quanto ao intuito protelatório da embargada quando da interposição dos embargos de declaração na origem, haja vista que a Corte estadual já se manifestara sobre a ausência de insolvência da associação.
+Assevera que "outro ponto também demonstrado pela Embargante, que evidencia a conduta protelatória que vinha sendo adotada pela Embargada, diz respeito ao fato de que o julgamento do recurso de Agravo de Instrumento havia sido incluído em pauta de julgamento virtual do dia 01/12/2021, mas foi retirado de pauta ante o requerimento injustificado da Embargada para sustentação oral, postergando seu julgamento em mais de 3 (três) meses (e-STJ Fl.600), sendo que ao final a Embargada nem mesmo comparecer à sessão de julgamento para realizar a referida sustentação oral" (e-STJ, fls. 795-796).
+Impugnação às fls. 801-803 (e-STJ), com pedido de aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Brevemente relatado, decido.
+Inicialmente, observa-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+O julgado embargado esclarece a controvérsia apontando argumentos consistentes, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte insurgente.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.666.390/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021)
+Em relação à alegada omissão, verifica-se que, na espécie, o Tribunal estadual apresentou os seguintes fundamentos para aplicação da penalidade (e-STJ, fls. 696-697):
+Assim, resta evidenciado o descabimento dos presentes embargos de declaração, visto que o propósito recursal não é de promover o aclaramento ou a integração do acórdão embargado, mas a reforma deste, inobstante a espécie recursal não seja o veículo adequado para tal finalidade.
+Ora, se a embargante discorda dos fundamentos de fato e de direito que deram arrimo à rejeição das suas teses, é evidente que sua insurgência contra o acórdão tem esteio em alegação de que houve error in judicando. E, nesse contexto, não há que se falar em oposição de embargos de declaração, já que este recurso, por ser desprovido de efeitos infringentes ordinários, não é a via própria para pleitear reanálise de provas e revisão de entendimentos.
+Nesse cenário, fica patente a resistência injustificada da embargante ao acórdão, decorrente de mera renitência ante a decisão prolatada em seu desfavor, o que evidencia o caráter manifestamente protelatório dos presentes embargos de declaração.
+Destarte, não existindo omissão, contradição ou qualquer outro vício a ser sanado no acórdão, e sendo manifesto o caráter protelatório do recurso, REJEITO OS EMBARGOS DE DECLARAÇÃO e, com fulcro no art. 1.026, § 2º, do CPC, condeno a embargante ao pagamento de multa de 2% (dois por cento) sobre o valor atualizado da causa.
+Com efeito, constata-se que a multa foi fixada unicamente em razão da utilização do recurso, não tendo sido apontado, concretamente, nenhum intuito meramente protelatório ou má-fé.
+Nesse contexto, conclui-se que a imposição da penalidade foi uma decorrência da oposição dos embargos de declaração, quando se extrai, contudo, apenas o uso do direito de recorrer previsto no art. 1.022 do CPC/2015.
+Portanto, na hipótese, não sendo caso de abuso de direito de recorrer, não cabe a multa do art. 1.026, § 2º, do CPC/2015, sendo, pois, de rigor a exclusão da penalidade.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE DEU PROVIMENTO AO RECLAMO E, DE PLANO, DESPROVEU O AGRAVO. INCONFORMISMO DA AGRAVANTE.
+1. A multa prevista no art. 1.026, § 2º, do CPC/2015, não é automática (AgInt no AREsp 1631739/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021), devendo ser afastada quando não se caracteriza o propósito protelatório na oposição dos embargos de declaração (EDcl no AgInt no REsp 1893132/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021), nos termos da Súmula 98 do STJ.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao agravo interno e, por conseguinte, afastar a multa do art. 1.026, § 2º, do NCPC, aplicada pela instância de origem.
+(EDcl no AgInt no AREsp n. 1.620.025/RN, relator Ministro Marco Buzzi, Quarta Turma, DJe de 8/10/2021.)
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+No que se refere ao pedido de que seja imposta a multa prevista no § 2º do art. 1.026 do CPC/2015, não deve ser acolhido o requerimento da parte contrária, pois o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. CARÁTER MANIFESTAMENTE PROTELATÓRIO. NÃO EVIDENCIADO. EMBARGOS REJEITADOS.
