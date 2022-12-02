@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 122):
+CONTRATO Prestação de serviços Plano de saúde Fase de cumprimento de sentença provisório Impugnação Rejeição Necessidade "Astreinte" Alegada cobrança indevida Descabimento Prova de descumprimento quanto à inatividade do plano oferecido Existência Levantamento do valor Impossibilidade Decisão mantida, ratificando-se seus fundamentos, a teor do art. 252 do RITJSP Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 137-140).
+Nas razões do especial (e-STJ, fls. 626-642), a recorrente alegou, além de dissídio jurisprudencial, a violação ao art. 537, § 1º, e 1.022, II, do Código de Processo Civil de 2015; e 884 do Código Civil.
+Sustentou, preliminarmente, negativa de prestação jurisdicional, afirmando que não houve apreciação do tema suscitado nos embargos de declaração atinente ànecessidade de exclusão ou diminuição da multa prevista no art. 537 do CPC/2015.
+Ressaltou que houve cumprimento da obrigação de fazer, aduzindo, ainda, que a multa aplicada fere os princípios da razoabilidade e da proporcionalidade.
+Postulou, assim, aexclusão das astreintes ou, alternativamente, a sua redução.
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo (e-STJ, fls. 203-208).
+Brevemente relatado, decido.
+No tocante à suposta negativa de prestação jurisdicional, observa-se que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, tendo justificado as razões para ratificar a cassação da multa diária imposta, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meios dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, o Colegiado estadual, após minuciosa análise dos elementos de fato e de prova dos autos, manteve a imposição das astreintes sob a seguinte fundamentação(e-STJ, fls. 123-124):
+Trata-se de cumprimento de sentença provisório, pela cobrança de multa, em ação de obrigação de fazer, relativa à prestação de serviços, de plano de saúde. A constatação de inatividade do plano, deuensejo à liminar, com fixação de multa, agora executada.
+Em seguida ao depósito do valor devido, de R$16.928,26 e apresentação de impugnação, a rejeição deste incidente gerou o presente recurso. Respeitados os argumentos da recorrente, razão não lhe assiste.
+Há prova quanto à inatividade do plano de saúde, o que motivou a concessão da liminar, com a fixação da multa, sendo indevido o levantamento pretendido.
+De outro lado, não se comprovou excesso da quantia. Nesse contexto, bem decidiu o MM. Juiz "a quo", ao rejeitar a impugnação, "(..)Quanto à alegação de que o plano sempre esteve ativo, apesar da documentação juntada pelo impugnante, há nos autos prova do descumprimento (fls. 24 e 25) que demonstram que o plano do impugnado esteve suspenso, documentos estes não impugnados.(..)".
+Como se depreende das razões expendidas, o Tribunal de origem indicou fundamentadamente os motivos que lhe formaram o convencimento para manter a decisão que impôs a fixação das astreintes, salientando a existência de "prova quanto à inatividade do plano de saúde, o que motivou a concessão da liminar, com a fixação da multa, sendo indevido o levantamento pretendido" (e-STJ, fl. 124).
+Ademais, forçoso reconhecer que a revisão da conclusão firmada na origem, para acolher a pretensão recursal quanto ao afastamento ou redução da multa imposta, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CUMPRIMENTO DE SENTENÇA.ASTREINTES. ART. 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. REVISÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
