@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por DENISE PRUINELLI e OUTRO com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. PROMESSA DE COMPRA E VENDA. AÇÃO INDENIZATORIA. ATRASO NA ENTREGA DA OBRA. INVERSÃO DA CLÁUSULA PENAL FIXADA UNICAMENTE EM FAVOR DA PROMITENTE VENDEDORA. POSSIBILIDADE. TEMA REPETITIVO 971 STJ. CUMULAÇÃO COM LUCROS CESSANTES. IMPOSSIBILIDADE. TEMA REPETITIVO 970 STJ. DANOS MORAIS CARACTERIZADOS.
+Descumprido o prazo estipulado para a entrega da obra, não pode a demandada se escusar da responsabilidade pelo atraso.
+Nos contratos firmados entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimpiemento do adquirente, pode ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor, como ditou o e. Superior Tribunal de justiça no julgamento do Recurso Especial 1.631.485/DF, representativo de controvérsia afetado pelo Tema 971.
+Inviável a cumulação da cláusula penal com indenização por lucros cessantes, conforme o entendimento explicitado pelo Terna 970, do Superior Tribunal de justiça. jurisprudência da Corte.
+Indevidos encargos de mora enquanto não entregue o imóvel, devendo ser extirpados os juros moratórios da dívida até a data em que foi averbado o habite-se.
+Em regra, o simples atraso injustificado na entrega de obra de empreendimento não acarreta dano moral passível de indenização.
+Todavia, no caso, extrapolado, em muito, o prazo para a entrega do imóvel, deve ser fixada indenização pelo abalo moral, mantido o montante estabelecido da sentença.
+DERAM PARCIAL PROVIMENTO À S APELAÇÕES.
+UNÂNIME." (e-STJ,fl.935/936)
+Em reexame de matéria repetitiva, foi atido o julgado anterior, nos seguintes termos:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA.DETERMINAÇÃO DE NOVO JULGAMENTO PARA APLICAÇÃO DA TESE FIRMADA NO TEMA 996.
+O STJ, no julgamento do Recurso Especial n 9 1.729.593/SP (Tema 996) firmou o entendimento de ser devido o pagamento de indenização, pela injusta privação do uso do bem, na forma de aluguel mensal, tendo como termo final a data da disponibilização da posse ao adquirente da unidade autônoma.
+Caso concreto em que restou afastado o pagamento de lucros cessantes, pois não cumulados com a cláusula penai, consistindo em situação que não se enquadra no Tema 996.
+EM JUIZO DE RETRATAÇÃO, MANTIVERAM O ANTERIOR JULGAMENTO. UNÂNIME." (e-STJ fl. 618/622)
+Em suas razões recursais, a recorrente aponta dissídio jurisprudencial em relação ao posicionamento do STJ no julgamento do REsp repetitivo nº 1.729.593/SP (Tema 996).
+Aduz que é devida a indenização a título de locativos mensais até o momento da entrega das chaves, quando o adquirente passa a fruir do bem, e não apenas até "a data da averbação da carta de habitação, ou seja, 15/02/2013".
+Apresentadas contrarrazões às fls. 602/608 (e-STJ)
+É o relatório. Passo a decidir.
+O recurso merece acolhimento.
+A Corte de origem, ao fixar o termo final da cláusula penal devida em virtude do atraso na entrega do imóvel assim decidiu:
+"A fim de estar em consonância com a orientação do 511 entendo que não se mostra adequada a simples inversão da cláusula penal, de modo que fixo a indenização pelo atraso na entrega da obra em 0,5% sobre o valor total do imóvel já pago pela parte autora, a incidir por mês de atraso, a contar de 30/08/2012 até a data da averbação da carta de habitação, ou seja, 15/02/2013, valor a ser corrigido pelo 1GP-M, desde a data do acórdão e acrescido de juros de mora de 1%ao mês desde a citação.
+No ponto, necessário ressaltar que conforme se depreende dos autos, a mora da construtora findou-se em 15 de fevereiro de 2013, data da expedição da carta de habitação. A propósito, complemento que o habite-se é o momento em que se considera oficialmente concluído o empreendimento e cumprida a obrigação assumida peia construtora." (e-STJ fl.508/509)
+Ocorre que tal entendimento vai de encontro à jurisprudência firmada nesta Corte Superior, no sentido de que a cláusula penal deve ser paga até a data da disponibilização da posse direta ao adquirente da unidade autônoma. Sobre o tema:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO. COMPRA E VENDA DE IMÓVEL. CLÁUSULA PENAL. MORA. INADIMPLEMENTO TERMO FINAL INDENIZATÓRIO. RESCISÃO. AJUIZAMENTO DA AÇÃO. TRANSITO EM JULGADO.
+1. Ação de indenização por dano material.
+2. Recurso especial interposto em: 14/02/2022. Concluso ao gabinete em: 03/05/2022.
+3. O propósito recursal consiste em perquirir qual o termo final de incidência da cláusula penal por atraso na entrega de unidade imobiliária quando houver rescisão contratual.
+4. Na ocorrência de atraso na entrega de unidade imobiliária ao adquirente, ultrapassado o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização. Precedentes.
+5. A multa por atraso visa a reparar o dano causado a outrem por violação de obrigação. Tratando-se de contrato de compra e venda de imóvel, a inadimplência do promitente vendedor, isto é, o atraso na entrega do imóvel alienado, de acordo com jurisprudência desta Corte, cessará na data do recebimento da unidade pelo adquirente, mediante a entrega das chaves.
+6. Em conformidade com o parágrafo único do art. 395, do Código Civil, caso a prestação, devido à mora, tornar-se inútil ao credor, este poderá enjeitá-la, e exigir a satisfação das perdas e danos.
+Assim, admissível a rescisão contratual por atraso na entrega de imóvel, pois aquele que infringe um dever contratual principal ou lateral abre a possibilidade de resolução do contrato, sendo compatíveis os pedidos de rescisão de contrato e de indenização por perdas e danos.
+7. Nada obstante a importância do interesse do contraente para a manutenção da avença, há firme a jurisprudência desta Corte Superior em preceituar que é "imprescindível a prévia manifestação judicial na hipótese de rescisão de compromisso de compra e venda de imóvel para que seja consumada a resolução do contrato, ainda que existente cláusula resolutória expressa, diante da necessidade de observância do princípio da boa-fé objetiva a nortear os contratos".
+Precedentes.
+8. Nas hipóteses em que não chegou a haver a entrega das chaves de imóvel objeto de contrato de compra e venda, pois sobreveio sentença de procedência pela rescisão contratual, o marco final da multa compensatória por atraso na entrega do bem deve ser a data em que transitou em julgado a sentença.
+9. Diante do exposto, o correto termo final da cláusula penal moratória deve ser computado a partir do trânsito em julgado da decretação da rescisão contratual.
+10. Contudo, na hipótese sob julgamento, não há como aplicar essa compreensão, porquanto o recurso especial visa a alteração do termo final do dever de indenizar para a data da propositura da ação de rescisão contratual (conclusão da sentença) e o acórdão fixa a data da publicação da sentença. Assim, para não violar a regra do reformatio in pejus, deve ser mantido o teor do acórdão recorrido.
+11. Recurso especial CONHECIDO e NÃO PROVIDO.
+(REsp n. 1.997.300/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/9/2022, DJe de 14/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO. OFENSA AO ARTIGO 1.022 DO CPC. AUSÊNCIA. ATRASO NA ENTREGA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. PROGRAMA MINHA CASA MINHA VIDA. LUCROS CESSANTES. DANO PRESUMIDO. REVERSÃO DA CLÁUSULA PENAL EM FAVOR DO CONSUMIDOR. ADMISSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. O fortuito interno, entendido como o fato imprevisível e inevitável ocorrido no momento da prestação do serviço ou da fabricação do produto, não exclui a responsabilidade do fornecedor, pois relaciona-se com a atividade e os riscos inerentes ao empreendimento. Precedentes.
+4. "No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe de 27/09/2019).
+5. A cláusula penal inserta em contratos bilaterais, onerosos e comutativos deve voltar-se aos contratantes indistintamente, ainda que redigida apenas em favor de uma das partes. Precedentes.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.057.346/RO, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. MINHA CASA MINHA VIDA. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE DA CEF E DA CONSTRUTORA. TAXA DE OBRA. ILEGITIMIDADE DA COBRANÇA. PENALIDADES DECORRENTES DA MORA NA ENTREGA DO IMÓVEL. INEXISTÊNCIA DE CLÁUSULA PENAL EXPRESSA. PRINCÍPIOS DA BOA-FÉ OBJETIVA E EQUILÍBRIO CONTRATUAL. INVERSÃO DE DISPOSIÇÃO CONTRATUTAL. PRAZO PARA ENTREGA DO IMÓVEL. PARTICULARIDADES DO CASO CONCRETO. DANOS MORAIS. CONFIGURAÇÃO. PRETENSÃO RECURSAL. LUCROS CESSANTES DEVIDOS. AGRAVO INTERNO NÃO PROVIDO.
+1. "No caso de descumprimento do prazo para a entr ega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp 1729593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 27/09/2019).
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.592.087/RN, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar como termo final da cláusula penal a data de disponibilização da posse direta da unidade autônoma ao recorrente.
+Publique-se.
