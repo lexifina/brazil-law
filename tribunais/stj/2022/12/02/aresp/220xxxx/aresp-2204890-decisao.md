@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo(art. 1.042 do CPC/15) interposto por CAIXA ECONÔMICA FEDERALem face da decisão acostada às fls. 164-165 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelaora agravante.
+O apelo extremo, fundado naalínea"a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 57-63e-STJ, proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE TÍTULO EXECUTIVO JUDICIAL. MULTA FIXADA EM CASO DE DESCUMPRIMENTO. MERA ALEGAÇÃO DE EXAURIMENTO DA OBRIGAÇÃO DE FAZER. VALOR TOTAL DA MULTA AINDA A SER APURADO. INVIÁVEL AVALIAR A PRESUMIDA SOMA EXCESSIVA.
+1. Em decisão pretérita à agravada estabeleceu-se a intimação da CEF para o cumprimento da obrigação de fazer definida no título executivo judicial - o qual reconheceu o direito de os autores manterem o vínculo de previdência privada com a FUNCEF, mediante transferência - sendo fixada multa diária de R$ 500,00 (quinhentos reais) em caso de descumprimento.
+2. Limita-se a CEF a afirmar que os agravados manifestaram expressamente o desinteresse de serem transferidos para a FUNCEF, o que, contudo, não se verifica nos autos de origem. Desarrazoada, portanto, a alegação de que se trata de "pretensão executiva inexistente, com o único intuito de aferição de astreintes".
+3. A recorrente já se insurgira contra a aplicação da multa, cuja razoabilidade do valor e periodicidade foram objeto de análise por esta Corte, por ocasião do julgamento do agravo de instrumento nº 0008047-77.2014.4.02.0000, com trânsito em julgado.
+4. Ademais, o valor total da multa, em razão do descumprimento da determinação judicial, ainda não foi apurado para que se possa aferir a presumida soma excessiva na hipótese, sendo certo que na decisão agravada estipulou-se, inclusive, a remessa dos autos à Contadoria Judicial para a averiguação do montante, aliás, com a ressalva de que "a multa deve ser calculada com relação aos autores que não manifestaram a falta de interesse na transferência da PREVEHAB para a FUNCEF".
+5. Agravo de instrumento conhecido e desprovido.
+Opostos embargos declaratórios (fls. 74-77e-STJ), restaram desacolhidos na origem (fls. 94-102 e-STJ).
+Nas razões de recurso especial (fls. 113-123e-STJ), alegou ainsurgente que o acórdão recorrido violou osartigos 523, 536 e 537 do CPC/15, 887 do CC,aduzindo o descabimento da multa exequenda, pois a ordem judicial foi cumprida em relação aos que manifestaram interesse na transferência da para a FUNCEF.
+Afirma que, deixando de atender intimação específica expedida pelo Juízo de origem, "os exequentes remanescentes não manifestaram expresso interesse na transferência para a FUNCEF nem esclareceram sobre eventual cumprimento pela CEF, de modo que incabível a intimação da CEF para pagamento da multa" (fl. 121 e-STJ).
+Argumenta, ainda, que embora o Juízo tenha andado bem ao extinguir a execução em relação à parte substancial dos autores, determinou, quanto à JOSE DE ALMEIDA BOTELHO e LENITA DE OLIVEIRA FERREIRA, o prosseguimento da fase de liquidação, por meio de remessa de autos à contadoria, para cálculo de multa. Aduz, todavia, que estes "não se manifestaram sobre o interesse em migrar para a FUNCEF quedando-se silentes e omissos", o que inviabilizaria qualquer ação da CAIXA.
+Em síntese, sustenta que "os referidos autores, apesar de não terem afirmado o interesse em migrar para a FUNCEF, peticionaram no feito apenas executando a multa, pelo que alegam ser descumprimento de obrigação de fazer" (fl. 122 e-STJ).
+Contrarrazões às fls. 139-144e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre porinexistência de ofensa aos dispositivos de lei e por óbice da Súmula 7/STJ.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 177-183e-STJ, reiterando as teses do apelo nobre e sustentando a ausência de óbice da Súmula 7/STJ.
+Contraminuta às fls. 189-193 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. A recorrente sustenta, em seu recurso especial, em síntese, ser descabida a multa exequenda, ante a ausência de descumprimento de ordem judicial, pois os autoresJOSE DE ALMEIDA BOTELHO e LENITA DE OLIVEIRA FERREIRAnão teriam manifestado interesse na transferência para a FUNCEF, o que inviabilizaria a transferência compulsória por parte da CEF.
+Sobre o tema, asseverou a Corte de origem:
+Conforme consignado pelo douto juízo de origem, em decisão pretérita determinou-se a intimação da CEF para o cumprimento da obrigação de fazer definida no título executivo judicial - o qual reconheceu o direito de os autores manterem o vínculo de previdência privada com a FUNCEF, mediante transferência - sendo fixada multa diária de R$ 500,00 (quinhentos reais) em caso de descumprimento (Evento 131 - autos originários).
+Seguiu-se determinação judicial no sentido da intimação dos autores para esclarecer a intenção de serem transferidos para a FUNCEF, bem como da CEF para promover o cumprimento do julgado com relação aos autores que manifestassem interesse nesse sentido, no prazo de 10 dias, sob pena de manutenção da multa jáaplicada, estipulando, como termo inicial, o décimo primeiro dia após a sua intimação (Evento 164 - autos originários).
+A fixação de multa foi mantida por esta Turma Especializada, no julgamento do agravo de instrumento nº 0008047-77.2014.4.02.0000, o qual foi acolhido parcialmente, apenas para considerar como termo inicial para a incidência da multa de R$ 500,00 ao dia, na hipótese de descumprimento da determinação judicial, o décimo primeiro dia após a intimação da CEF a respeito do julgamento proferido no referido recurso (Evento 239 OUT 51 - autos principais).
+Na ocasião, esta Turma Especializada estabeleceu também que cabia à CEF dar cumprimento à decisão agravada com relação aos autores que não manifestaram a falta de interesse na transferência da PREVEHAB para a FUNCEF.
+Sucede que a CEF limita-se agora a afirmar que os agravados manifestaram expressamente o desinteresse de serem transferidos para a FUNCEF, o que, contudo, não se verifica nos autos de origem
+A propósito, salientaram os agravados que "inexiste nos autos originais qualquer manifestação de JOSÉ DE ALMEIDA BOTELHO e LENITA DE OLIVEIRA FERREIRA que indique "falta de interesse na transferência da PREVHAB para a FUNCEF" - hipótese agora inventada pela Agravante! - de modo que não faz o menor sentido a pretendida extinção da execução em relação aos Exequentes-agravados" (Evento 14 - CONTRAZ1 - fl. 2).
+Desarrazoada, portanto, a alegação de que se trata de "pretensão executiva inexistente, com o único intuito de aferição de astreintes".
+Como visto, a Corte de origem consignou que decisão anterior, proferida pelo mesmo órgão julgador, havia determinado a transferência também dos autores "que não manifestaram a falta de interesse".
+O recurso especial deixou de infirmar, de forma específica, este que consiste no principal fundamento do acórdão recorrido - ou seja, a existência de decisão anterior, determinando a transferência de todos que não se manifestaram contrariamente.
+Incidente, portanto, o óbice da Súmula 283/STF, aplicável por analogia.
+Ademais, rever as conclusões acima, acerca do teor de decisão proferida em autos diversos, encontra óbice na Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), pois inexistente condenação desde a origem no presente feito recursal.
+Publique-se.
+Intimem-se.
