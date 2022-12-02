@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interno interposto por FLÁVIO ANTÔNIO VENTURINI FISCHcontra decisão singular da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em virtude da ausência de impugnação ao óbice da Súmula 83 do STJ (fls. 201/202).
+Nas razões do seu agravo interno, o agravante afirma que impugnou expressamente o respectivo fundamento.
+Verifico que, de fato, o óbice da Súmula 7 do STJ foi devidamente impugnado nas razões do agravo em recurso especial, motivo pelo qual reconsidero a decisão de fls. 201/202, de lavra da Presidência do Superior Tribunal de Justiça, tornando-a sem efeito.
+Assim, conheço do agravo e passo à análise do recurso especial.
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 116):
+AGRAVO DE INSTRUMENTO EM EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. ARGUIÇÃO DE IMPENHORABILIDADE DE IMÓVEL RURAL - REJEITADA. IMÓVEL NÃO SE ENQUADRA NA DEFINIÇÃO LEGAL DE PEQUENA PROPRIEDADE RURAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE SEJA O ÚNICO BEM FAMILIAR E DE QUE A SUBSISTÊNCIA DA FAMÍLIA UNICAMENTE DELE DEPENDA. IMÓVEL DADO EM GARANTIA HIPOTECÁRIA NO TÍTULO EXEQUENDO - POSSIBILIDADE DE PENHORA - EXCEÇÃO PRECONIZADA NO ARTIGO 3º, INCISO V, DA LEI N. 8.009/90. AVALIAÇÃO DO IMÓVEL - ADEQUADA - EXECUTADO NÃO COMPROVOU IRREGULARIDADE E OU DISPARIDADE DE VALORES. RECURSO DESPROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta, a par de dissídio jurisprudencial, a violação doart. 833, VIII, do Código de Processo Civil/2015 e do art. 4º da Lei 4.504/54 que determinam a impenhorabilidade da pequena propriedade rural.
+Afirma que se trata do único imóvel da família e sua única fonte de renda, não tendo sido comprovada a existência de outro imóvel que pudesse justificar a penhora do propriedade rural.
+Aduz a necessidade de realização de nova avaliação, nos termos do art. 873, I, do CPC/2015.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+Da acurada análise do acórdão recorrido, verifico que oTribunal de origem afastou a impenhorabilidade da pequena propriedade rural porque (i) o imóvelnão se enquadra no conceito de pequena propriedade rural, uma vez que possui área de 200 hectares, excedendo o limite legal de 4 módulos fiscais, que correspondem a 160 hectares no Município de Bandeirantes; e (ii)o recorrente não trouxe evidência segura de que se trata do único imóvel de propriedade familiar, somado ao fato de que foi dado em garantia do título exequendo, o que corrobora a possibilidade de penhora. Confira-se:
+De efeito, não merece guarida a alegação de impenhorabilidade do imóvel rural, posto que não se enquadra no conceito de pequena propriedade rural, uma vez que possui área de 200 hectares, excedendo o limite legal de 4 módulos fiscais, que correspondem a 160 hectares no Município de Bandeirantes.
+Ademais, o Executado não trouxe evidência segura de que se trata do único imóvel de propriedade familiar, somado ao fato de que foi dado em garantia do título exequendo, o que corrobora a possibilidade de penhora  ..  (e-STJ, fl. 118).
+Nos termos da tese fixada pelo Supremo Tribunal Federal: "É impenhorável a pequenapropriedade ruralfamiliar constituída de mais de 01 (um) terreno, desde que contínuos e com área total inferior a 04 (quatro)módulosfiscais do município de localização" (ARE 1038507, Rel. Edson Fachin, Tribunal Pleno, julgado em 21/12/2020, DJe 12/3/2021).Confira-se a ementa do referido precedente:
+PEQUENA PROPRIEDADE RURAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ART. 5º, XXVI, DA CONSTITUIÇÃO FEDERAL. 1. As regras de impenhorabilidade do bem de família, assim como da propriedade rural, amparam-se no princípio da dignidade humana e visam garantir a preservação de um patrimônio jurídico mínimo. 2. A pequena propriedade rural consubstancia-se no imóvel com área entre 01 (um) e 04 (quatro) módulos fiscais, ainda que constituída de mais de 01 (um) imóvel, e que não pode ser objeto de penhora. 3. A garantia da impenhorabilidade é indisponível, assegurada como direito fundamental do grupo familiar, e não cede ante gravação do bem com hipoteca. 4. Recurso extraordinário não provido, com fixação da seguinte tese: "É impenhorável a pequena propriedade rural familiar constituída de mais de 01 (um) terreno, desde que contínuos e com área total inferior a 04 (quatro) módulos fiscais do município de localização".
+No caso dos autos, o Tribunal de origem consignou queo imóvel não se enquadra no conceito de pequena propriedade rural, uma vez que possui área de 200 hectares, excedendo o limite legal de 4 módulos fiscais, que correspondem a 160 hectares no Município de Bandeirantes.
+Por esse motivo, não é possível o reconhecimento da impenhorabilidade da propriedade rural como pretendido nas razões do presente recurso.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEQUENA PROPRIEDADE RURAL DADA EM GARANTIA HIPOTECÁRIA INFERIOR A 04 MÓDULOS FISCAIS. IMPENHORABILIDADE RECONHECIDA NA ORIGEM. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a tese fixada pelo Supremo Tribunal Federal: "É impenhorável a pequena propriedade rural familiar constituída de mais de 01 (um) terreno, desde que contínuos e com área total inferior a 04 (quatro) módulos fiscais do município de localização" (ARE 1038507, Rel. EDSON FACHIN, TRIBUNAL PLENO, julgado em 21/12/2020, DJe 12/3/2021).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.106.993/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PEQUENA PROPRIEDADE RURAL. QUATRO MÓDULOS FISCAIS. IMÓVEL. GARANTIA HIPOTECÁRIA. IMPENHORABILIDADE. MULTA. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O entendimento do Superior Tribunal de Justiça é no sentido de que se enquadra como pequena propriedade rural aquela cuja área tenha entre 1 (um) e 4 (quatro) módulos fiscais. Precedentes.
+3. A pequena propriedade rural é impenhorável mesmo na hipótese em que dada como garantia hipotecária para financiamento da atividade produtiva. Precedentes.
+4. Na hipótese, rever o argumento de que o imóvel encontra-se arrendado demandaria o revolvimento do acervo fático-probatório, procedimento inviável em recurso especial, atraindo a incidência da Súmula nº 7/STJ.
+5. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo indispensável o nítido não cabimento do recurso. Precedente.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.810.055/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022.)
+Em face do exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
