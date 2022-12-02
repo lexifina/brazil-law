@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCIANO LOPES DE ALMEIDA, apontando como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO nos autos da Apelação Criminal n. 0803032- 84.2019.4.05.8100.
+Extrai-se dos autos que, em 25/6/2020, o paciente foi condenado em primeiro grau às penas de 17 anos e 4 meses de reclusão, em regime inicial fechado, e multa, pela prática dos crimes previstos nos arts. 33 e 35, c/c o art. 40, I, todos da Lei n. 11.343/2006 (trafico e associação para narcotráfico internacional), ocasião na qual o Juiz sentenciante manteve a prisão preventiva do réu.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, o qual, em 1/4/2022, deu parcial provimento ao reclamo, para afastar a condenação relativa à associação para o tráfico de drogas, redimensionando a pena imposta para 10 anos e 8 meses de reclusão, mantidos os demais termos da sentença, nos termos do acórdão juntado às fls.46/52.
+No presente writ o impetrante sustenta a existência de excesso de prazo na remessa para esta Corte Superior do recurso especial interposto perante o Tribunal de origem. Aduz que o recurso foi interposto há mais de 5 meses e até a presente data não foi remetido ao Superior Tribunal de Justiça.
+Aponta que a demora evidenciada não pode ser atribuída à defesa, mas apenas à inércia estatal. Indica ofensa ao princípio da razoabilidade.
+Requer, em liminar e no mérito, o reconhecimento do excesso de prazo apontado, com a expedição de alvará de soltura em favor do paciente.
+Indeferida o pedido de liminar (fls. 55/56), as informações foram devidamente prestadas (fls. 67/197 e 198/215) e o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 217/223).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, no presente writ, o direito do paciente recorrer em liberdade em razão do excesso de prazo na remessa para esta Corte Superior do Recurso Especial interposto perante o Tribunal de origem.
+Na hipótese,inexiste desídia dos Juízos processantes na condução do feito. A ação penal foi sentenciada em 25/6/2020 e a apelação julgada pelo Tribunal estadual em 1º/4/2021. De acordo com as informações prestadas, às fls. 168/215, verifica-se que adefesa do pacienteapresentou Recurso Especial e Recurso Extraordinário em 12/4/2022, com contrarrazões apresentadas pelo Ministério Público Federal em 24/5/2022, com a admissão do primeiro e inadmissão do Recurso Extraordinário, em decisão proferida em 14/6/2022.Inconformada com a negativa de seguimento do Recurso Extraordinário, a defesa do acusado interpôs Agravo Interno e, após as contrarrazões da Procuradoria Regional da República/5ª Região, foi procedida à redistribuição do processo n.0803032- 84.2019.4.05.8100 à Presidência do Tribunal Regional Federal da 5ªRegião, agora tramitando naquela Corte como Agravo Interno Criminal, sendo incluído para julgamentona sessão virtual do dia 2/11/2022 do órgão julgador Pleno.
+Vê-se, pois, que ofeito seguiu trâmite regular e compatível com a complexidade do processo, de modo que não há mora na sua condução que justifique a revogação da custódia cautelar.
+Assim sendo, não se mostra moroso nem desarrazoado o tempo para o envio do Recuso Especial a esta Corte Superior.
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar do paciente.
+Ante o exposto, denego a ordem dehabeas corpus.
+Publique-se.
+Intimem-se.
