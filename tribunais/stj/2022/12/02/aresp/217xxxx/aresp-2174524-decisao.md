@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por JBS S/Aem face da decisão acostada às fls. 966-973 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelaora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 248-259e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+AGRAVO DE INSTRUMENTO COM AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA.SUSCITADA QUESTÃO DE ORDEM QUANTO A PREJUDICIALIDADE SUPERVENIENTE QUE HAVERIA SIDO IMPUTADA AO RECURSO. REJEITADA. DECISÃO DO STJ QUE NÃO GUARDA CORRELAÇÃO COM O OBJETO DO RECURSO. INOCORRÊNCIA DE PREJUDICIALIDADE OU DE ESVAZIAMENTO DO OBJETO DO RECURSO. MÉRITO.INTERPOSIÇÃO DE APELO CONTRA SENTENÇA DE IMPROCEDÊNCIA DE EMBARGOS DE TERCEIRO, QUE NÃO CONSTRANGE A PROSSECUÇÃO DA DEMANDA EXECUTÓRIA.JURISPRUDÊNCIA HARMÔNICA DO STJ. RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA. AGRAVO INTERNO PREJUDICADO.
+1. Embora reconhecida seja a autoridade do comando judicial proferido pelo Eminente Ministro, importa destacar quanto a inaptidão desta a inutilizar o recurso em testilha, visto que nenhum juízo de valor fora exteriorizado pelo douto ministro, mas, após superficial estudo dos autos, vislumbrada a necessidade em se preservar a conjuntura fática trazida de possível deterioração ou esvaziamento.
+2. Vigoram sobre o procedimento executório os princípios da efetividade e da satisfatividade, garantindo ao credor que, reconhecido o seu direito - seja através de ação de conhecimento, seja através de título judicial preexistente -, tenha-o efetivado, garantindo-lhe, assim, a materialização/cumprimento daquela obrigação em tempo razoável.
+3. Nesta perspectiva, impõe-se ao sistema executório a otimização de seus atos, sempre objetivando conferir uma maior celeridade e eficiência àquele que deste se vale para ter seu direito exercido, admitindo-se, em prol disto, uma atuação do magistrado voltada a esta finalidade, relativizando, assim, alguns dos meios de proteção ao devedor que não se justifiquem ao momento.
+4. À vista disso, firmou-se na jurisprudência do Superior Tribunal de Justiça a orientação de que "O apelo recebido contra a sentença dos Embargos de Terceiro não tem efeitos sobre o outro processo, qual seja, o executivo. Eventual efeito suspensivo incide, aí sim, sobre as determinações que eventualmente constarem do dispositivo da sentença proferida na própria ação de Embargos de Terceiro, não em outra" (AgRg no REsp 1344843/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 11/6/2013, DJe 24/6/2013).
+5. Conclui-se, portanto, pela adequação do pedido realizado pela Recorrente em se determinar a regularização da prossecução da demanda executória, visto que, ainda que oposto apelo frente a sentença que julgou improcedente os embargos de terceiro, não goza, este, da capacidade de influir no processo executório.
+Nas razões de recurso especial (fls. 564-584 e-STJ), alegou a insurgente que o acórdão recorrido violou o artigo 995 do CPC/15, sustentando, em síntese, que a medida deferida, neste STJ, nos autos da TP n. 2.004/BA deve sobrestar o levantamento de qualquer valor nos autos da execução originária.
+Contrarrazões às fls. 871-886e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, o que ensejou a interposiçãopresente agravo (art. 1.042 do CPC/15), às fls. 976-985 e-STJ.
+Contraminuta às fls. 989-1000e-STJ.
+É o relatório.
+Decide-se.
+Não mais subsiste razão para o processamento do presente agravo, uma vez manifesta a superveniente perda de seu objeto.
+1. O recurso especial sustenta, em apertada síntese, a impossibilidade de levantamento de quaisquer valores nos autos da execução originária em razão da decisão proferida por este Relator nos autos daTP n. 2.004/BA.
+Todavia, após a interposição do apelo nobre nestes autos, foi proferida nova decisão na TPn. 2.004/BA, julgando-a prejudicada, em razão da decisão de mérito proferida no recurso principal (ARESP n. 1.508.354/BA) - ao qual, vale dizer, negou-se provimento, em decisão já transitada em julgado.
+Assim, não mais subsiste qualquer efeito decorrente da decisão proferida na TP n. 2.004/BA - o que esvazia a pretensão trazida no presente recurso.
+2. Acrescente-se, outrossim, que sequer se fazia presente o interesse recursal da parte insurgente, pois a Corte de origem, expressamente, condicionou os efeitos do acórdão aqui recorrido aos termos da decisão proferida no âmbito deste STJ (fl. 258 e-STJ).
+3. Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou protelatório poderá ensejar, conforme o caso, a aplicação de multa calculada sobre o valor atualizado da causa (arts. 1.021, § 4º e 1.026, § 2º, CPC/2015).
+4. Do exposto, com fulcro no artigo 34, XI, do RISTJ, julga-seprejudicado o recurso, ante a perda do objeto da pretensão recursal.
+Publique-se.
+Intimem-se.
