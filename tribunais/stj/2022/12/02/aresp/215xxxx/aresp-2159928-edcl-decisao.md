@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EVA GENI DE COUTO, emface da decisão monocrática proferida às fls. 1.248/1.249 (e-STJ),da lavra deste signatário, que não conheceu do agravo (art. 1.042, do CPC/15) manejado pela ora insurgente, por ofensa ao princípio da dialeticidade.
+Em suas razões de fls. 1.251/1.254 (e-STJ), a pretexto de apontar a ocorrência de omissão e obscuridade a macular o julgado embargado, reitera a parte insurgentea viabilidade do recurso especial inadmitido.
+Impugnação às fls. 1.261/1.267 (e-STJ).
+É o breve relatório.
+Decido.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022, CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confira-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACÓRDÃO DESTE ÓRGÃO FRACIO NÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA. 1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. 2. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp 1743741/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO. (..) 3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente. 4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. 6. Agravo interno não provido. (AgInt no AREsp 1825577/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Segundo entendimento consolidado desta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte processual e cujo exame, se fosse realizado, poderia alterar o resultado da controvérsia.
+Aobscuridade, a seu turno, constitui vício de fundamentação caracterizado pela falta de clareza, confusão ou ininteligibilidade que torna incompreensível o ato jurisdicional impugnado.
+No caso, não há infringência ao artigo art. 1.022, CPC/2015, em razão da suficiente fundamentação exarada no decisumembargado, tendo a controvérsia sido dirimidade forma clara, com base no entendimento adotado no âmbito desta Corte Superior, notadamente no que diz respeito à ofensa ao princípio da dialeticidade.
+Neste sentido, traz-se à colação o seguinte trecho do julgado embargado (fls. 1.248/1.249, e-STJ):
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1.Com efeito, a recorrente limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, repisando os argumentos deduzidos no apelo nobre, sem, contudo, efetivamente demonstrar a inadequação do óbice invocado.
+No tocante à aplicação das Súmulas 282/STF, 7 e83/STJ, a obstar a subida do especial às instâncias superiores, verifica-se que a parte agravante não discorreu qualquer consideração apta a combater os referidos impedimentos.
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do NCPC:
+Art. 932.Incumbe ao relator:
+(..)
+III -não conhecer de recursoinadmissível, prejudicado ouque não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ,"à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira ademonstrarque o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja,não bastaque façaalegações genéricasem sentido contrário às afirmações do julgado contra o qual se insurge"(AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+Depreende-se, portanto, que longe de apontar vícios de fundamentação no decisum embargado, pretende a parteinsurgente, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
