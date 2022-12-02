@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 589/590).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 498):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATO DE TRANSPORTE MARÍTIMO INTERNACIONAL - TARIFA DE SOBREESTADIA (DEMURRAGE) DE CONTÊINERES - ATRASO NA DEVOLUÇÃO DE EQUIPAMENTOS - DEVER DE PAGAMENTO - SENTENÇA DE PROCEDÊNCIA PARCIAL - INSURGÊNCIA DA RÉ-RECONVINTE - PEDIDO DE APLICAÇÃO DA PENALIDADE PREVISTA NO ARTIGO 940 DO CÓDIGO CIVIL EM RAZÃO DE COBRANÇA DE VALORES A MAIOR - DESCABIMENTO - NECESSIDADE DE DEMONSTRAÇÃO DA MÁ-FÉ DO CREDOR COM A FINALIDADE DE SE LOCUPLETAR - VERBETE SUMULAR 159 DO SUPREMO TRIBUNAL FEDERAL - JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NO MESMO SENTIDO - AUTORA QUE RECONHECEU O EQUÍVOCO NA COBRANÇA EM SUA RÉPLICA, DEMONSTRANDO BOA-FÉ - EXCESSO NA COBRANÇA QUE NÃO CARACTERIZA, POR SI SÓ, MÁ-FÉ DE MODO A ENSEJAR A APLICAÇÃO DA SANÇÃO DO ARTIGO 940 DO CÓDIGO CIVIL - MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA DO PLEITO RECONVENCIONAL - RECURSO CONHECIDO E DESPROVIDO - MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, NA FORMA DO ARTIGO 85, § 11 DO CÓDIGO DE PROCESSO CIVIL.
+Os embargos de declaração foram rejeitados (e-STJ fls. 542/546).
+Nas razões do recurso especial (e-STJ fls. 561/570), fundamentado no art. 105, III, "a", da CF, a parte alegou violação do art. 940 do CC/2002, porquanto "a conduta maliciosa do agente de que promove a cobrança de valores superiores àqueles realmente devidos é presumida, representando assim um flagrante abuso de direito nos termos do artigo 187 do Código Civil, haja vista que promove lide temerária violando a boa-fé objetiva" (e-STJ fl. 568 - sic).
+No agravo (e-STJ fls. 599/606), afirmaa presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 610/617(e-STJ).
+É o relatório.
+Decido.
+Conforme sedimentado pela jurisprudência deste Tribunal Superior, aaplicação do art.940do CC/2002, que determina a repetição em dobro de eventuais indébitos, exige, além da cobrança de quantia indevida, a configuração demá-fédo credor (AgInt no REsp n. 1.656.686/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/11/2021, DJe de 22/11/2021, AgInt no AREsp n. 1.752.351/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/6/2021, DJe de 24/6/2021).
+No caso concreto, o Tribunal de origem analisou a prova dos autos para afastar a sanção prevista no art.940do CC/2002, pois não verificada amá-féda parte recorrida.
+Alterar tal conclusão é inviável em sede recurso especial, tendo em vista que este recurso nãocomporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos. Incide no caso a Súmula n. 7/STJ(AgInt no AREsp n. 2.108.689/SP, de minha relatoria, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022,AgInt no AREsp n. 1.752.351/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/6/2021, DJe de 24/6/2021).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
