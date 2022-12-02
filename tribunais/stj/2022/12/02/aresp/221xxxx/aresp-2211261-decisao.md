@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por JOSÉ HUMBERTO DA SILVA, contra decisão que negou seguimento a recurso especial, com fulcro na ausência de negativa de prestação jurisdicional e nos enunciados contidos nas Súmulas 07 e 83/STJ(fls. 1.224/1.226, e-STJ):
+Em suas razões de agravo (art. 1.042, do CPC/15), a parte recorrente lança argumentos para desconstituir os fundamentos que embasaram o decisumrecorrido, oportunidade em que reafirma as razões deduzidas no apelo nobre, notadamente quanto ao preenchimento dos requisitos necessários para o reconhecimento dousucapião (fls. 1.229/1.246, e-STJ).
+Sem contraminuta (certidão de fls. 1.262, e-STJ).
+Instado, o Ministério Púbico Federal manifestou-se pelo não conhecimento do recurso (art. 1.042, do CPC/15). O respectivo parecer ficou sintetizado nos seguintes termos (fls. 1.290/1.296, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OSFUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ. ART. 932, III, DO CPC E ART. 253,PARÁGRAFO ÚNICO, I, DO RISTJ. USUCAPIÃO. REQUISITOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+- Parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Com efeito, orecorrente limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, reafirmando os argumentos deduzidos no apelo nobre, sem, contudo, efetivamente demonstrar a inadequação dos óbices invocados.
+No que se refere à aplicação da Súmula 07 do STJ, convém destacar que a alegação genérica de que o tema discutido no recurso especial representa matéria de direito e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada.
+Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição articulada da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias.
+No particular, esta eg. Quarta Turma, nos autos do AGInt no ARESp n. 1.490.629/SP, publicado no DJe de 25/08/2021, firmou o entendimento de que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias."
+Necessário consignar, em um primeiro momento, que todo recurso especial, por pressuposto de cabimento, discute a aplicação da lei federal, pois essa a "competência" que lhe foi atribuída pelo texto constitucional. A circunstância de o reclamo discutir a aplicação de dispositivo de lei federal não exclui, por si só - para conferir amparo à tese da parte insurgente - eventual necessidade de revolvimento do acervo fático-probatório dos autos.
+Desta forma, cabia à parte insurgente apresentar fundamentos aptos a justificar, no caso, o porquê da aplicação do dispositivo não demandar - em contraste ao que concluiu a Corte local - a análise de fatos, obrigação processual da qual, a rigor, não se desincumbiu.
+Cumpre ressaltar, por oportuno, que apesar dos argumentos deduzidos pelo recorrente, a revaloração da prova consiste em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial, como bem observou o E. Ministro Felix Fischer: "A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento" (REsp 683702/RS, QUINTA TURMA, julgado em 01.03.2005).
+Entretanto, na hipótese dos autos, para superar as premissas sobre as quais se apoiou a instância de origem, a fim deaferir o efetivo preenchimento dos requisitos necessários para o reconhecimento do usucapião, mister seria o reexame das provas colacionadas aos autos, prática que é vedada a esta Corte Superior.
+Como bem destacado pelo Ministério Público Federal, em seu parecer (fls. 1.292/1.295, e-STJ):
+O agravo não pode ser conhecido, uma vez não ter atacado especificamente os fundamentos da decisão agravada, na forma como exigida pelo art. 932, III, do CPC, e art. 253, parágrafo único, I, do RISTJ, os quais dispõem:
+(..)
+É que o agravante não trouxe, em seu agravo, fundamentação suficiente que pudesse afastar as conclusões expostas na decisão recorrida, permitindo incidir, na espécie, a Súmula nº 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalta-se que, para fins de atendimento do requisito exigido pela súmula 182 do STJ, não basta apenas citar os pontos da decisão agravada, é necessário efetivamente contrapô-los, ou seja, demonstrar que não é acertada a inadmissão recursal, o que não se verificou no presente caso.
+(..)
+Mesmo que superado tal óbice processual quanto ao agravo, o recurso especial, também, não merece trânsito. A Corte local entendeu não estarem presentes os requisitos para a perfectibilização da usucapião, nos seguintes termos (fls.1.073/1.075):
+(..)
+Nesses termos, aplicável é o entendimento no sentido de que ".. o acolhimento da pretensão recursal quanto ao preenchimento ou não dos requisitos da usucapião extraordinária demandaria o revolvimento de matéria fática e reexame do substrato probatório dos autos, providência obstada, na via eleita, pela Súmula 7 do STJ" (Agint no AREsp 1420654/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em30/09/2019, DJe 08/10/2019).
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do NCPC:
+Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+E, ainda, "Inexistindo impugnação específica ao decisum impugnado, restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+2. Do exposto, com fulcro no art. 932, III, do CPC/2015, e na aplicação, por analogia, do Enunciado n. 182 da Súmula deste STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
