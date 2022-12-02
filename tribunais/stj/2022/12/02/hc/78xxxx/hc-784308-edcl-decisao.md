@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JEFFERSON LANZONIem face da decisão proferida às e-STJ fls. 463/470.
+Em suas razões(e-STJ fls. 473/474), o embargante alega que há contradição a ser eliminada no ponto em que, da análise da FAC de fls. 151/157 - documento utilizado para fundamentar os maus antecedentes -, depreende-se que o paciente não ostentava nenhuma condenação transitada em julgado, ao passo que, a referendada FAC apontava a existência de uma ação penal em curso (autos nº0208674-19.2016.8.19.0001), o que não serve para configuração de maus antecedentes, exsurgindo-se o constrangimento ilegal à ser sanado de ofício(e-STJ fl. 473).Também aponta que não houve manifestaçãoquanto ao fato de, tanto o Juízo Singular quanto o Juízo Plural não fizeram menção expressa à folha de antecedentes criminais do paciente, e muito menos indicaram condenação com trânsito em julgado capaz de calçar a repreenda fixada(e-STJ fl. 473).
+Ao final, pede o acolhimento dos presentes embargos.
+É o relatório. Decido.
+É ressabido que os embargos de declaração são cabíveis quando o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material.
+No caso, inexiste omissão ou contradição a ser dirimida, tendo em vista que a tese suscitada pela defesa- apontada inexistência de condenação definitiva anterior apta a gerar maus antecedentes- foi examinada de forma expressa e clara na decisão agravada, nos termos seguintes(e-STJ fl. 467- destaquei):
+ ..  extrai-se que a exasperação da pena-base, o recrudescimento do regime e a negativa de substituição possuem lastro no fato de o paciente possuir maus antecedentes.
+No ponto, cabe consignar que a condenação utilizada para efeito de maus antecedentes se refere a fato anterior e que transitou em julgado após os fatos em exame, mas antes da prolação da sentença (e-STJ fl. 226).
+Sobre o tema, importa considerar quea jurisprudência desta Corte é firme no sentido de que condenaçõesdefinitivaspor fatosanteriores ao crime em exame, mas com trânsito em julgadoposterior, ainda que não sirva para configuraraagravante da reincidência, pode caracterizar maus antecedentes.
+Nesse sentido:  ..
+Com efeito, consta expressamente da decisão monocrática que a condenação constante dae-STJ fl. 226 configura maus antecedentes. Consta da referida folha o trânsito em julgado em 1º/10/2018, ou seja, após os fatos em exame, mas antes da prolação da sentença,tal como consta da decisão retro. Referida anotação correspondeà anotação n. 1das folhas originais 151/157, referidas pelas instâncias ordinárias.
+Em consequência,revela-se idônea a fundamentação utilizada na origem para exasperar a pena-base do paciente e, em consequência, para o recrudescimento do regime e para negar asubstituição da pena privativa de liberdade por restritivas de direitos, na esteira do disposto nos arts. 33, §§ 2º e 3º, e 44, inciso III, ambos do Código Penal, tal como consta da decisão agravada(e-STJ fls. 468/469).
+Portanto, os presentes embargos declaratórios não comportam acolhimento, na medida em que a decisão embargadanão incorreu em nenhum vício que demande integração.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
