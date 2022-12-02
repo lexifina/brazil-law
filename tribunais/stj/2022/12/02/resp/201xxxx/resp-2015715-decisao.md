@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se derecurso especial interposto por SABARALCOOL S.A. AÇÚCAR E ÁLCOOL com fundamento no artigo 105, inciso III, alínea"a", da Constituição Federal, impugnado pelo acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. RESCISÃO DE CONTRATO DE PARCERIA AGRÍCOLA C/C DESPEJO E INDENIZAÇÃO POR LUCROS CESSANTES. (1) ALEGAÇÃO DE SALDO EM FAVOR DA APELANTE EM RAZÃO DE PLANTAÇÃO EM ÁREA MENOR DO QUE A CONTRATADA E DE COLHEITA TARDIA DA SAFRA DE 2014 EM VIRTUDE DE CONDIÇÕES CLIMÁTICAS. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO DO RECURSO NESSES TÓPICOS. (2) LUCROS CESSANTES QUE DEVEM SER AFERIDOS TOMANDO-SE POR BASE A SAFRA DE 2014, CONFESSADAMENTE NÃO PAGA, ALÉM DA SAFRA DE 2015, PRESUMIDAMENTE EXISTENTE E CUJA COLHEITA FOI REALIZADA AÇODADAMENTE EM RAZÃO DO CUMPRIMENTO DA LIMINAR DE DESPEJO. (3) PRETENSÃO DE APLICAÇÃO DA TAXA SELIC EM SUBSTITUIÇÃO À TAXA DE 1% AO MÊS, FIXADA A TÍTULO DE JUROS DE MORA E CORREÇÃO MONETÁRIA. NÃO ACOLHIMENTO. RECURSO PARCIALMENTE CONHECIDO E, NA PORÇÃOCONHECIDA, DESPROVIDO"(fls. 481/482 e-STJ).
+Os embargos de declaraçãoopostos foram rejeitados(fls. 497/501 e-STJ).
+Nas razões do recurso especial (fls. 504/511 e-STJ), arecorrente aponta violação doart. 406 do Código Civil, sob o fundamento de queos juros legais e correção monetária aplicados nas decisões judiciais, ainda que se trate de contrato civil,devem ser os índices equivalentes à taxa SELIC.
+Com ascontrarrazões (fls. 519/523 e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação merece prosperar.
+No que concerno aos juros de mora, a Corte de origem consignou:
+"Por fim, não obstante o precedente da Corte Especial do STJ, no julgamento do EREsp 727.842, posicionamento esse consolidado no REsp 1.102.552/CE julgado pela 1ª Seção sob o rito dos repetitivos, entendo que para os casos de dívida de natureza civil, não há que se falar em aplicação da taxa Selic, de modo que os juros de mora devem permanecer no percentual de 1% ao mês, conforme estabelecido na sentença.
+De se ver que não se trata de entendimento isolado, porquanto no âmbito do próprio Superior Tribunal de Justiça, recentemente, o ministro Luis Felipe Salomão, relator do REsp 1.081.149/RS (2008/018953-1), proferiu decisão monocrática admitindo a incidência do nos termos do 138, do amicus curiae, CPC, justamente por considerar a questão relevante e de repercussão social, afim de buscar a "elucidação de questões fático-jurídicas concernentes à natureza jurídica da Taxa Selic e incidência ou não nas dívidas civis, especialmente quando relacionadas a reparações de danos contratuais e extracontratuais, os elementos que a compõem, os critérios para sua fixação, o histórico mensal da taxa, entre outros pontos relevantes para o deslinde da controvérsia""(fl. 485 e-STJ).
+De fato, o julgado atacado diverge da jurisprudência desta Corte, firmada no sentido de que, a partir da vigência do Código Civil de 2002, o percentual dos juros moratórios deve ser calculado conforme a variação da Taxa Selic, sem a cumulação de correção monetária, nas ações envolvendo responsabilidade contratual, sendo o termo inicial dos juros moratórios a data da citação.
+Confiram-se:
+"AGRAVO INTERNO. RECURSO ESPECIAL. RESTITUIÇÃO DE VALORES RETIDOS INDEVIDAMENTE POR INSTITUIÇÃO FINANCEIRA. PEDIDO DE UTILIZAÇÃO DOS MESMOS CRITÉRIOS DE CÁLCULO ESTABELECIDOS NO CONTRATO. IMPOSSIBILIDADE. PRERROGATIVA EXCLUSIVA DAS INSTITUIÇÕES FINANCEIRAS. APLICAÇÃO DATAXA SELIC.AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. "A restituição dos frutos do capital retido indevidamente por instituição financeira não deve ser feita simplesmente com o emprego das mesmas taxas por ela praticadas, visto que estas operam por regras específicas que não têm como ser aplicadas a terceiros como medida de ressarcimento" (AgInt no REsp 1.519.968/SP, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe 3/9/2018).
+3. "A Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art.406do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação"(AgInt no REsp 1.794.823/RN, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 28/5/2020).
+4. Agravo interno não conhecido" (AgInt no REsp 1.966.743/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/8/2002, DJe 17/8/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. TAXA DE JUROS DE MORA. SUBSTITUIÇÃO PELA SELIC. AGRAVO INTERNO DESPROVIDO.
+1. A taxa de juros moratórios a que alude o art. 406 do Código Civil é a Selic.
+2. Agravo interno desprovido" (AgInt noAREsp 1.611.330/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/9/2020, DJe 21/9/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVADO.
+1. Esta Corte firmou entendimento no sentido de que a fixação da taxa dos juros moratórios, a partir da entrada em vigor do artigo 406 do Código Civil de 2002, deve ser com base na taxa Selic, podendo essa tese ser aplicada inclusive nos casos em que se discute a execução de honorários. Precedentes.
+2. O termo inicial dos juros moratórios deve ser determinado a partir da natureza da relação jurídica mantida entre as partes.
+2.1. No caso, tratando-se de mandato, a relação jurídica tem natureza contratual, sendo o termo inicial dos juros moratórios a data da citação. Incidência da Súmula 83/STJ.
+(..)
+4. Agravo interno desprovido" (AgInt no AREsp 1.180.613/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/10/2019, DJe 23/10/2019 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. RESCISÃO UNILATERAL. JUROS MORATÓRIOS. TAXA APLICÁVEL.
+1. Nas ações envolvendo responsabilidade contratual, os juros moratórios, devidos a partir da citação, incidem à taxa de 0,5% ao mês (art. 1.062 do CC/1916) até a vigência do Código Civil de 2002; após 10/1/2003, devem incidir segundo os ditames do art. 406 do referido diploma legal.
+2. Na ausência de convenção em sentido contrário, a partir da vigência do Código Civil de 2002, os juros moratórios devem incidir segundo a variação da Taxa Selic.
+(..)
+4. Agravo interno não provido" (AgInt no REsp 1.599.906/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/9/2017, DJe 10/10/2017 - grifou-se).
+Ante o exposto, dou provimento ao recurso especialpara determinar a incidência dos juros moratóriosa partir da citação, segundo a variação da Taxa Selic, sem a cumulação da correção monetária, mantida a sucumbência fixada na origem.
+Publique-se.
+Intimem-se.
