@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por POLILIX AMBIENTAL COLETA DE RESÍDUOS LTDA. - EPP e POLILIX TRIAGEM E CLASSIFICAÇÃO DE RESÍDUOS LTDA. - EPP contra a decisão de fls. 202-203 (e-STJ), da Presidência desta Corte, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação a todos os fundamentos da decisão agravada.
+Nas razões do agravo, as partes insurgentes alegam que refutaramespecificamente todos os fundamentos da decisão que inadmitiu o seu apelo especial.
+No caso, cabe observar que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pelas agravantes, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por POLILIX AMBIENTAL COLETA DE RESÍDUOS LTDA. - EPP e POLILIX TRIAGEM E CLASSIFICAÇÃO DE RESÍDUOS LTDA. - EPP, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 134):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PRETENSÃO DA CREDORA DE OBTER EXTRATOS BANCÁRIOS, CONTRATOS, CHEQUES EMITIDOS, MOVIMENTAÇÃO DE CARTÕES DE CRÉDITO E OPERAÇÕES DE CÂMBIO PELO SISBAJUD. QUEBRA DE SIGILO BANCÁRIO. MEDIDA ATÍPICA DESPROPORCIONAL. INTELIGÊNCIA DO ART. 139, INCISO IV, DO CPC. AUSÊNCIA DE AUTORIZAÇÃO DA MEDIDA NA LEI COMPLEMENTAR 105/01. DECISÃO MANTIDA 1 . O pedido de requisição de extratos bancários, faturas de cartões de crédito, contratos de câmbio, abertura de contas e de cheques emitidos por meio do sistema SISBAJUD foi corretamente indeferido, pois, afora a quebra do sigilo bancário só ser possível para investigação criminal o instrução processual penal (art. 5 º. XII, CF), a alegação de que a agravada não entrega declarações de imposto de renda não se enquadra nas circunstâncias excepcionais que justificam a quebra do sigilo bancário nos termos da LC nº 105/2001. Precedentes da jurisprudência. 2. Recurso improvido.
+Em suas razões de recurso especial (e-STJ, fls. 143-166), as agravantes alegaramviolação aoart. 139, IV, do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentaram, em síntese, o cabimento das medidas executivas atípicas requeridas contra os executados, tendo em vista o esgotamento de todos os meios ordinários disponíveis para satisfazer seu crédito.
+Requereram, dessa forma, o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando as insurgentes a interpor o presente agravo.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial, concernente à discussão quanto à possibilidade, ou não, de o magistrado, com base no art. 139, IV, do CPC/2015, adotar, subsidiariamente, meios executivos atípicos, foi afetada pela Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos,conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de proposta de afetação do Tema 1.137, proferidas nos autos do REsp n. 1.955.539/SP e do REsp n. 1.955.574/SP, ambos de relatoria do Ministro Marco Buzzi, publicadas no DJe de 7/4/2022, submeteram a julgamento a questão nos seguintes termos:
+PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - DIREITO PROCESSUAL CIVIL - EXECUÇÃO - POSSIBILIDADE, OU NÃO, DE ADOÇÃO DE MEIOS EXECUTIVOS ATÍPICOS. (Art. 139, IV, do CPC/15)
+1. Delimitação da controvérsia: 1.1. Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.137/STJ, sejam tomadas as providências previstas nos arts. 1.039,caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ADOÇÃO DE MEDIDAS EXECUTIVAS ATÍPICAS COM BASE NO ART. 139, IV, DO CPC/2015. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS (PROAFR NO RESP N. 1.955.539/SP E NO RESP N. 1.955.574/SP). TEMA 1.137. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
