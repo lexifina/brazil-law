@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMERCIAL SÃO JORGE COMERCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA. (SÃO JORGE) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da lavra doDesembargador relator SALLES VIEIRA, assim ementado:
+"AGRAVO DE INSTRUMENTO EMBARGOS À EXECUÇÃO EFEITO SUSPENSIVO REQUISITOS DO ART. 919, §1º, DO NCPC I- Decisão agravada que recebeu os embargos à execução sem atribuição de efeito suspensivo II- Necessária a cumulação dos requisitos elencados no art. 919, §1º, do NCPC, para que os embargos à execução sejam recebidos com a atribuição de efeito suspensivo Ainda que se considerem relevantes os argumentos suscitados pela parte, não é cabível a concessão de efeito suspensivo aos embargos à execução se a execução não está garantida pela penhora, depósito ou caução suficientes Hipótese em que o valor dos bens móveis penhorados não é suficiente para garantir a execução Imóvel penhorado que, por sua vez, não pode servir para garantir a execução da qual tirados estes embargos, uma vez que não é de propriedade da agravante, mas sim de Roque Baso Participações Ltda., empresa esta que não é parte na referida execução, integrando ela apenas o polo passivo da outra execução movida pela agravada Precedentes Decisão mantida Agravo improvido." (e-STJ, fl. 1.199)
+Os embargos declaratórios opostos por SÃO JORGE foram rejeitados, (e-STJ, fls. 1227/1232).
+Irresignada, SÃO JORGEinterpôsrecurso especial com base no art. 105, III,a e c, da CF, apontando a violação doart. 919 do CPC, além de dissídio jurisprudencial, pretendendoseja atribuído efeito suspensivo aos embargos à execução.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo (e-STJ, fls. 1272/1274).
+Nas razões do presente agravo, SÃO JORGE alegouque não incidem os óbices apontados na decisão de inadmissibilidade.
+Foiapresentada contraminuta (e-STJ, fls. 1290/1301).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Do efeito suspensivo aos embargos à execução
+SÃO JORGE pretende, com seu recurso especial, que seja atribuído efeito suspensivo aos embargos por ela opostos sob o entendimento de que a penhora efetuada em imóvel de terceiro, em outro processo executivo, serve para garantir o juízo na presente execução.
+Todavia,o TJSP consignou que:
+No caso em tela, ainda que se considerem relevantes os argumentos constantes dos embargos à execução, está ausente o requisito listado na letra "b" acima transcrita, vez que a execução não está garantida pela penhora, depósito ou caução suficientes.
+Ora, o que se extrai dos autos é que, em 15/05/2018, foram penhoradas "1.023 unidades de tablados quadrados em ferro para exposição sem tampa, com pés para regulagem e pintura epox, medindo aproximadamente 60X60cm cada unidade, avaliando cada unidade em R$135,00 (cento e trinta e cinco reais), perfazendo um total de R$138.105,00 (cento e trinta e oito mil cento e cinco reais)" (Auto de Penhora e Depósito de fls. 642).
+O valor da execução nº 1132779-34.2016.8.26.0100, contudo, atualizado em março de 2020, alcança o montante de R$192.936,46 (fls. 601).
+Vê-se, portanto, que referida penhora não é suficiente para garantir a execução.
+No mais, verifica-se que, em 12/05/2020, foi deferida a penhora do imóvel matriculado sob o nº18.906 junto ao CRI de Porto Ferreira (fls. 682), a qual foi efetivada em 20/07/2020 (Certidão de Penhora de fls. 1.502/1.504 dos autos da execução nº 1132630-38.2016.8.26.0100).
+Tal penhora, porém, em que pese a irresignação da agravante, não pode servir para garantir a execução nº 1132779-34.2016.8.26.0100, uma vez que, como se vê da matrícula nº 18.906, o imóvel constrito não é de propriedade da agravante, mas sim de Roque Baso Participações Ltda., empresa esta que não é parte na referida execução, na qual opostos os presentes embargos, integrando ela apenas o polo passivo da execução nº 1132630-38.2016.8.26.0100.
+Assim, ainda que das razões da agravante depreenda-se que há a possibilidade de dano de difícil reparação, se tiver prosseguimento a ação de execução, a execução não se encontra suficientemente garantida. (e-STJ Fls.1202/1203).
+Assim, rever as conclusões quanto ao preenchimento dos requisitos para concessão de efeito suspensivo aos embargos à execução, no presente caso afastando a conclusão do acórdão recorrido acerca da suficiência da penhora,demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º7 do STJ.
+Salienta-se que, de acordo com o pacífico entendimento desta CorteSuperior, os mesmos óbices impostos à admissão do recurso pela alínea a dopermissivo constitucional impedem a análise recursal pela alínea c,ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. EXECUÇÃO. EMBARGOS. EFEITO SUSPENSIVO. INDEFERIMENTO REQUISITOS. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
