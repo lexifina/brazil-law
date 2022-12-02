@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão de "Não se vislumbra r  na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos no  art. 1.022 do CPC/2015 "(e-STJ fls. 463/470).
+O acórdão recorrido encontra-seassim ementado (e-STJ fls. 376/377):
+EMBARGOS DE DECLARAÇÃO  OMISSÃO CARACTERIZADA  PLANOS ECONÔMICOS VERÃO E COLLOR I  FASE DE CONHECIMENTO - SOBRESTAMENTO DO FEITO. OMISSÃO CARACTERIZADA. RECURSO CONHECIDO E PROVIDO
+I  As hipóteses de cabimento dos Embargos de Declaração são obscuridade, contradição ou omissão, nos termos do art. 1.022 do NCPC, não se prestando tal recurso para o reexame do julgado.
+II  Quando não há a interposição de recurso para o C. STF, a própria corte constitucional reconhece a possibilidade de prosseguimento do recurso especial nos casos em que não é mais cabível o recurso extraordinário, portanto, quando o feito retorna para este órgão julgador para eventual juízo de retratação em face de decisão do C STJ, e este não é exercido, não há que se falar em sobrestamento com fundamento nos temas que ainda não foram apreciados pelo Supremo Tribunal Federal.
+III  Contudo, havendo exercício do juízo de retratação e a modificação do julgado, corno no caso destes autos, reabre-se paraas partes a via do Recurso Extraordinário, o que impõe, por consequência, o sobrestamento determinado nos Recursos Extraordinários nº626.307 e 591.797, que se referem, respectivamente aos Planos Verão e Collor I.
+III  Embargos conhecidos e providos para determinar o sobrestamento do feito.
+Os embargos de declaração foram rejeitados (e-STJ fls. 400/405).
+Nas razões do recurso especial (e-STJ fls. 407/426), fundamentado no art. 105, III, "a", da CF, a parte alegouviolação dos seguintes dispositivos legais:
+(i) arts. 1.022, II, e 489, § 1º, IV, do CPC/2015, relativa à:
+(a) contradição no seguinte ponto (e-STJ fl. 414):
+(..)
+4. Reconhece o acórdão embargado, na esteira da jurisprudência do Supremo Tribunal Federal, que na hipótese do exercício parcial ao direito de interposição, unicamente do Especial, cuja matéria fora pacificada pelo Superior Tribunal de Justiça, no julgamento de repetitivo, não é causa de suspensão do feito, em caso da existência de Recurso Extraordinário com repercussão geral reconhecida e com deferimento de sobrestamento dos feitos com o mesmo objeto.
+5. Em seguida, ao reverso, e em colisão, sustenta que na hipótese de exercido o juízo de retratação, haveria nova oportunidade de interposição de Recurso Extraordinário, portanto, aplicável o efeito da suspensão determinado pelo Supremo Tribunal Federal.
+6. Com efeito, o exercício do juízo de retratação para além de não conferir nova oportunidade ao recorrente para interposição de novo recurso, conforme disposto no art. 1.041, e seu § 2º, do Código de Processo Civil, restrito à analise da questão determinada pelo acórdão paradigma (STF ou STJ), bem assim de eventuais questões ainda não decididas ou que advieram do referido julgamento (art. 1.041, § 1º, CPC).
+(..)
+(b) omissão referente à(e-STJ fl. 414/415):
+(i) preclusão, ante a não interposição de recurso contra decisão proferida pela 3ª Vice-Presidente do TJRJ no exercício do juízo de admissibilidade do Recurso Especial, às fls. 203/208 (índice 272); e,
+(ii)não interposição de Recurso Extraordinário, simultâneo ao Recurso Especial cuja matéria fora afetada à temática dos repetitivos perante o Superior Tribunal de justiça, e no caso concreto, o exercido do juízo de retratação, notadamente em relação ao Tema 303, o processo retomou o seu curso normal (art. 1.041, §1º, CPC) por inexistir outra questão a ser decidida.
+(ii) art. 507 do CPC/2015, porquanto "resta evidenciado que não havia mais interesse em discutir no curso do processo questão já decidida, repita-se, assunto referente ao tema 303 da jurisprudência do STJ, ante a preclusão ocorrida" (e-STJ fl. 420), de sorte que "os acórdãos recorridos também padecem do vício da nulidade ao deixar de reconhecerem a ocorrência da preclusão, disposto no enunciado do art. 507 do Código de Processo Civil, em relação à alegada suspensão do processo que cuida do índice de correção do saldo da conta poupança referente ao "Plano Collor I", eis que tal questão já fora decidida por decisão no juízo de admissibilidade do Recurso Especial" (e-STJ fls. 420/421), e
+(iii) art. 1.041, § 1º, do CPC/2015, "pois o juízo de retratação para além de não conferir nova oportunidade ao recorrente para interposição de novo recurso, conforme disposto no art. 1.041, e seu § 2º, do Código de Processo Civil, restringe-se à analise da questão determinada pelo acórdão paradigma (STF ou STJ), bem assim de eventuais questões ainda não decididas ou que advieram do referido julgamento (art. 1.041, § 1º, CPC)", de maneira que: "(i) ante a não interposição de Recurso Extraordinário concomitante ao Especial, não haverá oportunidade de readequação, em eventual declaração de inconstitucionalidade das normas legais, e (ii) não há outras questões a serem decididas, tampouco originadas do juízo de retratação. Assim, fica encerrada a prestação jurisdicional" (e-STJ fl. 422).
+No agravo (e-STJ fls. 493/504), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 510/519(e-STJ).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve a omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, quaissejam:
+(a) contradição no seguinte ponto (e-STJ fl. 414):
+(..)
+4. Reconhece o acórdão embargado, na esteira da jurisprudência do Supremo Tribunal Federal, que na hipótese do exercício parcial ao direito de interposição, unicamente do Especial, cuja matéria fora pacificada pelo Superior Tribunal de Justiça, no julgamento de repetitivo, não é causa de suspensão do feito, em caso da existência de Recurso Extraordinário com repercussão geral reconhecida e com deferimento de sobrestamento dos feitos com o mesmo objeto.
+5. Em seguida, ao reverso, e em colisão, sustenta que na hipótese de exercido o juízo de retratação, haveria nova oportunidade de interposição de Recurso Extraordinário, portanto, aplicável o efeito da suspensão determinado pelo Supremo Tribunal Federal.
+6. Com efeito, o exercício do juízo de retratação para além de não conferir nova oportunidade ao recorrente para interposição de novo recurso, conforme disposto no art. 1.041, e seu § 2º, do Código de Processo Civil, restrito à analise da questão determinada pelo acórdão paradigma (STF ou STJ), bem assim de eventuais questões ainda não decididas ou que advieram do referido julgamento (art. 1.041, § 1º, CPC).
+(..)
+(b) omissão referente à (e-STJ fl. 414/415):
+(i) preclusão, ante a não interposição de recurso contra decisão proferida pela 3ª Vice-Presidente do TJRJ no exercício do juízo de admissibilidade do Recurso Especial, às fls. 203/208 (índice 272); e,
+(ii) não interposição de Recurso Extraordinário, simultâneo ao Recurso Especial cuja matéria fora afetada à temática dos repetitivos perante o Superior Tribunal de justiça, e no caso concreto, o exercido do juízo de retratação, notadamente em relação ao Tema 303, o processo retomou o seu curso normal (art. 1.041, §1º, CPC) por inexistir outra questão a ser decidida.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Ademais, ajurisprudência deste Tribunal Superior se firmou no sentido de que, "ainda que a questão federal tenha surgido somente no acórdão recorrido, entendendo a parte recorrente pela existência de algum vício  deve opor  embargos de declaração a fim de suprir a exigência do indispensável prequestionamento e viabilizar o conhecimento do recurso especial em relação aos referidos dispositivos legais" (AgInt no REsp n. 1.803.468/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/6/2021, DJe de 14/6/2021).
+Assim, constatada a omissão, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
