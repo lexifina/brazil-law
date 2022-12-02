@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo, manejado por Hugo Pereira de Mendonçacontra decisão que negou seguimento a recurso especial adesivo interposto em face de acórdão assim ementado (e-STJ, fl. 60):
+Agravo de instrumento contra decisão que, apreciando liquidação por arbitramento de sentença proferida em ação indenizatória, homologou o laudo pericial para fins de declarar que o valor do débito do Agravante, para reparação dos danos sofridos no imóvel, é de R$ 134.704,84, e o valor que o Agravado deixou de auferir com a locação do bem, desde março de 2010 até março de 2019, é de R$ 962.104,07, devendo ser adicionado ao montante, o valor correspondente "até o efetivo reparo dos imóveis". Foi, ainda, imposto ao Agravante, o pagamento das custas processuais referentes à liquidação e honorários advocatícios de 10% do valor fixado na fase de liquidação. Prova pericial realizada para arbitramento dos danos que não comporta anulação ou complementação como alega o Agravante, uma vez que foi a mesma regularmente realizada, tendo o Sr. Perito respondido aos quesitos formulados pelas partes, e prestado os esclarecimentos requeridos, sendo as críticas apresentadas pelo Agravante passíveis de exame em sede recursal. Critério adotado pelo Sr. Perito para a fixação do valor do aluguel que observou o que foi determinado na sentença, visando verificar o valor do aluguel em período pretérito em que o bem não pode ser utilizado. Pretensão de exclusão da cobrança no período de março a dezembro de 2020, indicado pelo Agravante invocando os efeitos da pandemia nas atividades do Centro da Cidade, uma vez que não se discute relação jurídica de locação entre as partes, mas sim, a reparação dos danos verificados no imóvel do Agravado, utilizando como parâmetro o valor que teria sido auferido com a locação do bem. Honorários advocatícios de sucumbência que não são devidos na liquidação por arbitramento, não havendo previsão no artigo 85, § 1º do CPC. Provimento parcial do agravo de instrumento.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte agravante aponta violação doart. 85, § 1º,do Código de Processo Civil, bem como divergência jurisprudencial.
+Sustenta ser cabível a condenação emhonorários de sucumbência nafase de liquidação de sentença litigiosa, requerendo a reforma do acórdão recorrido, no capítulo em que a afasta.
+O primeiro juízo de admissibilidade considerou o recurso especial adesivo prejudicado, em razão da negativa de admissibilidade do recurso especial principal.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Consoante a jurisprudência do STJ, orecurso adesivofica prejudicado, quando o recurso principal não é admitido na origem, e apesar de a parte interpor agravo em recurso especial contra essa inadmissão, ela acaba sendo confirmada no âmbito desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA DE RESPONSABILIDADE CIVIL POR ERRO MÉDICO C/C INDENIZATÓRIA DE DANOS MORAIS. RECURSO ESPECIAL PRINCIPAL INADMITIDO. IMPOSSIBILIDADE DO CONHECIMENTO DO RECURSO ESPECIAL ADESIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com a jurisprudência desta Corte, a inadmissibilidade do recurso especial principal, qualquer que seja o seu fundamento, inviabiliza o conhecimento do recurso adesivo, nos termos do art. 997, § 2º, do CPC/2015 (correspondente ao art. 500, III, do CPC/1973). Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.024.155/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DE RECURSO ESPECIAL E DE RECURSO ESPECIAL ADESIVO. AUSÊNCIA DE AGRAVO DO RECURSO ESPECIAL PRINCIPAL. PREJUDICIALIDADE DO ADESIVO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ é pacífica no sentido de que o recurso adesivo, por sua natureza, segue a sorte do principal, de modo que, inadmitido o recurso principal e inexistindo recurso contra a inadmissão, o recurso especial adesivo fica prejudicado, nos termos do art. 997, § 2º, do CPC/2015.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.511.045/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/11/2019, DJe de 19/11/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO PRINCÍPIO DA DIALETICIDADE. AGRAVO IMPROVIDO.
+1. O recurso adesivo fica subordinado à sorte do principal. Assim, se o recurso especial principal não é admitido (seja qual for a causa), também não se conhece do recurso especial adesivo (art. 500, III, CPC/1973) 2. Agravo interno improvido.
+(AgInt no AREsp n. 919.719/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/10/2016, DJe de 20/10/2016.)
+Assim, tendo o Tribunal de origem negado seguimento ao recurso principal e esta Corte Superior negado provimento ao respectivo agravo, fica prejudicada a análise dorecurso adesivo.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
