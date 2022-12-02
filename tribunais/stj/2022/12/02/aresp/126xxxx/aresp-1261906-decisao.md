@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15)interposto por BANCO DO BRASIL SAcontra decisão que negou seguimento a recurso especial, ante a ausência de prequestionamento das teses referentes ao foro competente, prescrição e termo inicial dos juros de mora(fls. 245-246, e-STJ).
+Em suas razões de agravo, buscando destrancar o processamento do apelo nobre (fls. 248-265, e-STJ), a parte recorrente sustenta: (1) a inaplicabilidade da Súmula 7 do STJ; e (2) a ilegitimidade ativados poupadores que,à época da propositura da ação civil pública, não eram associados do IDEC e não possuíam domicílio nos limites da competência territorial do órgão prolator. Sucessivamente, defendem, ainda: (3) o excesso de execução; (4) a incidência de juros de mora a partir da citação do executado no cumprimento individual de sentença; e (5) a ilegalidade da condenação da instituição financeira em honorários de sucumbência e multa.
+Contraminuta às fls. 322/325 (e-STJ).
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Infere-se das razões do agravo (fls. 245-246,e-STJ), que embora a parte insurgente tenha repisado os argumentos do apelo extremo acerca das tesesreferentes ao foro competentee termo inicial dos juros de mora; acrescentando, ainda, argumentaçãona qual aduziuinaplicabilidade da Súmula 7/STJ; ilegitimidade ativa;excesso de execução; ilegalidade da condenaçãoem honorários de sucumbência e multa;com relação aofundamentodo decisum - ausência de prequestionamento das teses referentes ao foro competente, prescrição e termo inicial dos juros de mora;- verifica-se que não foram sequer mencionados nas razões recursais, deixando de atender a dialeticidade.
+Com efeito, a falta de ataque específico a todos os fundamentos da decisão agravada atrai, por analogia, o óbice contido na Súmula 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+O agravo em recurso especial que não afasta os fundamentos que levaram a não admissão do recurso não deve ser conhecido, nos termos do artigo 932, inciso III, do Código de Processo Civil/2015, que assim dispõe:
+Art. 932.Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ouque não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+É dever da parte agravante, à luz do princípio da dialeticidade, demonstrar o desacerto do da decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, inciso III, do CPC/2015, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugna os fundamentos do decisum.
+Consoante jurisprudência desta Corte, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).  grifou-se
+E, ainda, "Inexistindo impugnação específicaao decisum impugnado,restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+Inafastável, portanto, o teor da Súmula 182/STJ.
+2. Do exposto, não conheço do agravo (art. 1042 do CPC/2015).
+Publique-se. Intimem-se.
