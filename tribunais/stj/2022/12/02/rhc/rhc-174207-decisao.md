@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto porMATHEUS BORGES PACHECOcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento do HC n. 2197148-19.2022.8.26.0000.
+Extrai-se dos autos que o recorrente foi condenado à pena de 4 anos, 1 mês e 23 dias, em regime inicial semiaberto, pela prática do crime de roubo. Após o trânsito em julgado, foi expedido mandado de prisão em desfavor do paciente.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da impetração nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - Execução penal - Pedidos de detração e progressão de regimes - Impossibilidade de se modificar regime prisional no âmbito do presente writ ou mesmo de determinar outras providências que competem ao Juízo das Execuções Criminais, sob pena de supressão de um grau jurisdicional - Ordem não conhecida"(fl. 161).
+No presenterecurso, a defesa sustenta que o paciente está submetido à constrangimento ilegal, uma vez que se considerado o tempo de prisão provisória, o agentejá teria direito à progressão ao regime aberto. Aduz que o cumprimento do mandado de prisão faria com que o paciente permanecesse preso em regime mais gravoso do que o dedireito.
+Requer, assim,"o conhecimento do presente recurso para deferir a detração referente ao período da prisão cautelar cumprida nos processos acima referidos, alterando-se o regime inicial de cumprimento de pena do paciente para o aberto, com a determinação de expedição de contramandado de prisão".
+É o relatório.
+Decido.
+Inicialmente, verifica-se que a possibilidade de concessão da progressão de regime ao paciente não foi analisada pelo Juízo das execuções, afastando a competência do Tribunal de origem e deste Tribunal Superiorpara conhecer originariamente da matéria, sob pena de incorrer em indevida supressão de instância.
+Com efeito, a jurisprudência desta Corte Superior somente admite a concessão de ordem de habeas corpus, para determinar a prévia expedição da guia de execução e consequentemente a análise dos benefícios da execução, em situações excepcionais que justifiquem a medida por circunstâncias do caso concreto.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. AFASTAMENTO DA EXIGÊNCIA DO CUMPRIMENTO DO MANDADO PRISIONAL PARA EXPEDIÇÃO DA GUIA DE EXECUÇÃO. EXCEPCIONALIDADE NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+1. Na espécie, o Agravante foi condenado por sentença transitada em julgado à pena de 8 (oito) anos de reclusão, em regime inicial semiaberto, pela prática do crime de extorsão mediante sequestro. O mandado de prisão do Sentenciado está pendente de cumprimento.
+2. A jurisprudência do Superior Tribunal de Justiça, em hipóteses nas quais o prévio recolhimento do Paciente consubstanciaria constrangimento ilegal, admite a extraordinária expedição da guia de execução antes do cumprimento do mandado prisional.
+3. O fato de existir portaria da Vara de Execução Penal estabelecendo requisitos para eventual concessão de trabalho externo para os Apenados no regime semiaberto, por si só, não configura excepcionalidade apta a afastar a formação de processo de execução criminal (PEC) e, consequentemente a prisão do Sentenciado.
+4. No caso, não há notícia nos autos de nenhuma excepcionalidade que permita afastar a exigência da prévia implementação da prisão do Agravante, o que evidencia a ausência de constrangimento ilegal a ser sanado.
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 725.424/RS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/5/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PACIENTE CONDENADO NO REGIME SEMIABERTO. PLEITO DE CUMPRIMENTO DA PENA EM PRISÃO DOMICILIAR. EXPEDIÇÃO DE GUIA DE RECOLHIMENTO. IMPOSSIBILIDADE. MANDADO DE PRISÃO PENDENTE DE CUMPRIMENTO. INÍCIO DA EXECUÇÃO. COMPETÊNCIA DO JUÍZO EXECUTÓRIO. INEXISTÊNCIA DE EXCEPCIONALIDADE. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. É firme neste Superior Tribunal de Justiça a orientação de que, nos termos do art. 66, III, c, da Lei n. 7.210/1984, compete ao Juízo da Execução Penal avaliar as matérias inerentes ao cumprimento da pena, dentre as quais o pedido de progressão de regime. Precedentes.
+2. Com efeito, há julgados deste STJ que admitem a expedição da guia de execução antes do cumprimento do mandado prisional. Contudo, somente em casos específicos e excepcionais, em situações nas quais as circunstâncias fáticas e concretas indiquem que a prisão do sentenciado possa vir a ser excessivamente gravosa. A propósito, AgRg no HC 583.027/SP, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/11/2020, DJe 27/11/2020; HC 599.475/SP, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/9/2020, DJe 29/9/2020.
+3. Não demonstrada excepcionalidade a autorizar a expedição de guia de recolhimento antes de cumprido o mandado de prisão. É que, consoante aduzido na decisão agravada, a argumentação relativa a possibilidade de alteração do cumprimento da pena em prisão domiciliar em vez de ser no regime semiaberto, é despida de qualquer plausibilidade jurídica, na medida em que sequer foi submetida a debate na instância ordinária, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC 673.679/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021).
+No caso em análise, não há qualquer peculiaridade que demande o recolhimento do mandado de prisão e a inversão da ordem dos atos previstos nos arts. 674 e 675, do Código de Processo Penal, e 105, da Lei das Execuções Penais.
+Diante da dupla supressão de instância, inviável o conhecimento do recurso.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
