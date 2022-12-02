@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por CENTAURUS MOTOR COMÉRCIO E IMPORTAÇÃO LIMITADA - MASSA FALIDA - em face de acórdão assim ementado (e- STJ, fl. 131):
+Agravo de Instrumento. Execução de título extrajudicial. Locação não residencial. Decisão agravada que autorizou o administrador judicial a promover seus cálculos de acordo com o previsto na cláusula contratual atinente aos honorários advocatícios. Inadmissibilidade. Ainda que previstos em contrato de locação, os honorários advocatícios decorrentes de processo judicial têm natureza sucumbencial e a sua fixação é prerrogativa do magistrado, nos termos legais. Decisão reformada para impedir a inclusão da verba no cálculo da execução. Recurso provido.
+Nas razões do especial, aponta a recorrente violação do artigo 784, VIII, do Código de Processo Civil, bem como dosartigos 389, 395 e 404 do Código Civil, além do dissídio jurisprudencial.
+Argumenta, em síntese, que seria permitidaa inclusão dovalor relativo a honorários advocatícios contratuaisemexecução proveniente decontrato de locação.
+Contrarrazões às fls. 160-163 (e-STJ).
+O recurso especial foi admitido, conforme decisão de fls. 173-174 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verificoqueo Tribunal de origem não admitiu a execução de honorários contratuais, sob o argumento de que se trata de atividade tipicamente jurisdicional. Desse modo, caberia apenas ao juízo arbitrar honorários, conforme se extrai da seguinte passagem do acórdão recorrido (e-STJ, fls. 133-134):
+Os honorários advocatícios pretendidos pela agravada, apesar de constarem em contrato (cláusula 3.4)possuem natureza eminentemente sucumbencial, pois estipulados entre as partes e não entre a parte e seu patrono.
+Além disso, em se tratando de honorários advocatícios oriundos de processo judicial, a sua fixação é prerrogativa do magistrado, nos termos legais, sendo indisponível pelas partes.
+A orientação adotada pelo Tribunal de origem destoa da jurisprudência destaCorte, pacificada no sentido de que, em contrato de locação não residencial, é possível repassar os custos dos honorários ao responsável pela mora, de modo a prefixar as perdas e danos,na forma de cláusula penal.
+A propósito:
+RECURSO ESPECIAL. SHOPPING CENTER. LOCAÇÃO DE ESPAÇO. EXECUÇÃO. HONORÁRIOS CONTRATUAIS. REPASSE. LOCATÁRIO. PRÉVIO AJUSTE. BIS IN IDEM. NÃO OCORRÊNCIA. ATIVIDADE EMPRESARIAL. AUTONOMIA DA VONTADE. PREVALÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se é possível a inclusão de valor relativo a honorários advocatícios contratuais previamente ajustados pelas partes na execução de contrato de locação de espaço em shopping center.
+3. Em regra os honorários contratuais são devidos por aquele que contrata o advogado para atuar em seu favor, respondendo cada uma das partes pelos honorários contratuais de seu advogado. A parte vencida, além dos honorários contratuais do seu advogado, também arcará com o pagamento dos honorários sucumbenciais devidos ao patrono da parte vencedora.
+4. Na hipótese, o contrato firmado entre as partes prevê que o locatário deverá pagar os honorários contratuais de seu advogado, assim como os do advogado do locador, o que não configura bis in idem, pois não se trata do pagamento da mesma verba, mas do repasse de custo do locador para o locatário.
+5. A atividade empresarial é caracterizada pelo risco e regulada pela lógica da livre-concorrência, devendo prevalecer nesses ajustes, salvo situação excepcional, a autonomia da vontade e o princípio pacta sunt servanda.
+6. Não há como afastar a incidência de cláusula de contrato de locação de espaço em shopping center com base em alegação genérica de afronta à boa-fé objetiva, devendo ficar demonstrada a situação excepcional que autoriza a intervenção do Poder Judiciário.
+7. Recurso especial provido.
+(REsp n. 1.644.890/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2020, DJe de 26/8/2020.) (grifo acrescido)
+RECURSO ESPECIAL. CIVIL. LOCAÇÃO DE ESPAÇO EM SHOPPING CENTER. EXECUÇÃO. HONORÁRIOS CONTRATUAIS. REPASSE AO LOCATÁRIO. CLÁUSULA CONTRATUAL. POSSIBILIDADE.
+1- Recurso especial interposto em 5/7/2020 e concluso ao gabinete em 18/5/2021.
+2- O propósito recursal consiste em dizer se: a) estaria caracterizada negativa de prestação jurisdicional; e b) é lícito, por meio de cláusula contratual inserta em contrato de locação de espaço em shopping center, o repasse ao locatário do dever de arcar com os honorários advocatícios convencionais.
+3- Na hipótese em exame é de ser afastada a existência de omissões no acórdão recorrido, à consideração de que as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+4- Nos contratos empresariais deve ser conferido especial prestígio aos princípios da liberdade contratual e do pacta sunt servanda, reconhecendo-se neles verdadeira presunção de simetria e paridade entre os contraentes, sendo imprescindível observar e respeitar a alocação de riscos definida pelas partes.
+5- Na hipótese dos autos, infere-se do exame da cláusula em apreço - transcrita no acórdão recorrido - que a fixação do valor dos honorários contratuais não ficou sequer ao arbítrio do locador, porquanto o montante foi fixado em porcentagem sobre o valor total da dívida.
+6- Desse modo, tendo em vista que os honorários advocatícios contratuais não se confundem com os honorários sucumbenciais e que o contrato de locação de espaço em shopping center representa verdadeiro contrato empresarial celebrado entre agentes econômicos que se presumem ativos e probos, inexistindo, na hipótese dos autos, elementos que justifiquem a intromissão do Poder Judiciário no negócio firmado, deve ser considerada válida e eficaz a cláusula contratual em apreço, que transfere custos do locador ao locatário, impondo a este o dever de arcar com os honorários contratuais previamente estipulados.
+7- Recurso especial provido.
+(REsp n. 1.910.582/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/8/2021, DJe de 20/8/2021.)(grifo acrescido)
+Ressalvo que, na hipótese, é incontroverso que se trata de locação comercial, conforme extraio do título que instrui a inicial da execução na origem (fls. 26-37).
+Afora isso, ainda que se possa cogitarda unilateralidade da cláusula aludida, não houve controvérsia no acórdão recorrido a respeito, inviabilizando a análise do tema de modo originário nesta Corte.
+Dessa maneira, evidenciado que se trata de contrato de locação comercial, em que se presume a igualdade entre os contratantes, não há óbice a que disponhamtambém sobre os honorários devidos ao vencedor, pois, expressivodaautonomia da vontade, nos termos dos precedentes mencionados.
+Em face do exposto, douprovimento ao recurso especial para cassar o acórdão recorrido, restabelecendo a decisão do Juízo da 2ª Vara Cível da Comarca de Santos/SP, que admitiu a execução não só do valor dos aluguéis e demais acréscimos, mas também doshonoráriosprevistos no título extrajudicial executado (e-STJ, fl. 76).
+Deixo de arbitrar honorários de recurso, pois inexistente condenação a respeito na origem, vedado o acréscimo ulterior, na forma do § 11 do artigo 85 do CPC/15.
+Intimem-se.
