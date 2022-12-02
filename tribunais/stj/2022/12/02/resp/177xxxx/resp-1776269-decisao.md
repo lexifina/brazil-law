@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial de GUILHERME SABINO PEREIRA fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AÇÃO DE RESTITUIÇÃO C/C INDENIZAÇÃO - DESCONTOS NA CONTA CORRENTE AO AUTOR - RESTITUIÇÃO DE VALORES - NÃO CABIMENTO - DANO MORAL - INOCORRÊNCIA - MANUTENÇÃO DA SENTENÇA. Não há se falar em restituição de valores, tendo em vista o inadimplemento do autor. Não há caracterização de dano moral uma vez que os saques foram livremente efetuados pelo consumidor não havendo abusividade ou ilicitude por parte da Instituição Financeira quanto à cobrança do débito mediante o desconto em folha de pagamento." (e-STJ fl. 221)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 251)
+Nas razões do recurso especial, o agravante alega violação dos arts. 489, § 1º, IV, 833, IV, e 1.022, II, do Código de Processo Civil, e 51, IV, do Código de Defesa do Consumidor, sustentando, em síntese, que: 1) a Corte de origem não se pronunciou sobre a ilicitude da conduta do recorrido em reter seu salário para quitar dívida oriunda de cheque especial; 2) não se pode confundir o empréstimo realizado através do cheque especial com o empréstimo consignado em folha de pagamento; 3) mesmo que exista cláusula contratual que expressamente autoriza a retenção salarial em caso de inadimplemento de empréstimo contratado através de cheque especial, a retenção é ilegal e abusiva, por se tratar de verba salarial.
+Requer que sejam cessados os descontos em seus rendimentos, a restituição do valor descontado indevidamente e sucessivamente a devolução dos valores de forma simples e a indenização por danos morais.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa aos arts. 489, § 1º, IV, 833, IV, e 1.022, II, do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+O Tribunal de origem, no que diz respeito à alegação de que mesmo que exista cláusula contratual que expressamente autoriza a retenção salarial em caso de inadimplemento de empréstimo contratado através de cheque especial, a retenção é ilegal e abusiva, por se tratar de verba salarial, expressamente consignou o seguinte:
+"Com relação ao débito em conta salário, se autorizado pelo consumidor, é lícito, embora com limitação.
+(..)
+O art. 11 do Decreto 4.961/2004, assim como o art. 1º da Lei 10.820/2003 limitam os descontos voluntários em folha em até 30% do salário. Se a conta-corrente do autor, ora apelante, é para depósito de salário, como alega nos autos, o débito em conta destinada ao depósito do salário ou proventos, por aplicação analógica, também está limitado ao percentual de 30% (trinta por cento) dos proventos líquidos do apelado." (e-STJ fl. 226)
+Ocorre que é entendimento desta Corte Superior que "São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento" (REsp n. 1.872.441/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 9/3/2022, DJe de 15/3/2022).Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. NÃO CABIMENTO. CONTRATO DE CHEQUE ESPECIAL. DESCONTO EM CONTA-CORRENTE EM QUE DEPOSITADO SALÁRIO. AUSÊNCIA DE ATO ILÍCITO. SÚMULA 7/STJ.
+1. É válida a cláusula que autoriza o desconto em conta-corrente dos valores necessários à cobertura de cheque especial regularmente contratado, ainda que se trate de conta utilizada para recebimento de salário. Precedentes.
+2. Hipótese em que o Tribunal de origem consignou que não ficou configurado ato ilícito passível de reparação em razão do exercício regular de direito do banco agravante. Súmula 7/STJ.
+3. Inaplicabilidade da Súmula 603/STJ.
+4. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no REsp n. 1.354.734/MG, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 12/6/2018, DJe de 1/8/2018.)
+Nesse contexto, não seria cabível nem mesmo a limitação determinada pela Corte de origem , um vez que fundada no art. 1º da Lei n. 10.820/2003, não aplicável ao caso.
+Contudo, como não houve recurso do agravado, fica mantido o acórdão recorrido, tendo em vista a vedação à reforma para pior (reformatio in pejus).
+Por fim, afastada a ilegalidade da conduta adotada pelo banco recorrido, nos termos da fundamentação acima, não há que se falar de condenação ao pagamento de indenização por danos morais.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% sobre o valor da causa, suspensa a exigibilidade no caso de prévio deferimento da gratuidade da justiça.
+Publique-se.
