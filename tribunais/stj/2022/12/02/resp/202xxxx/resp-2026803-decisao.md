@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso especial interposto por REINALDO DA CONCEICAO RIBAS, fundamentado na alíneaado permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 396):
+Apelações Tráfico ilícito de entorpecentes.
+Recurso defensivo - Materialidade e autoria delitivas demonstradas Depoimentos firmes e seguros dos policiais militares Validade Delito previsto no art. 37, da Lei de Drogas não configurado Impossibilidade de desclassificação - Condição de "olheiro" que figura como atividade diretamente ligada ao tráfico de drogas Impossibilidade de redução da pena com fundamento no art. 46, da Lei 11.343/06 - Condenação mantida Recurso desprovido.
+Recurso do Ministério Público - Dosimetria Pena-base fixada acima do mínimo legal com fundamento nos maus antecedentes e nas diretrizes estabelecidas pelo art. 42, da Lei 11.343/06 Reincidência que prevalece sobre a confissão - Penas readequadas - Regime inicial fechado - Recurso provido.
+Extrai-se dos autos que o recorrente foi condenado à pena de 5 anos de reclusão em regime inicial fechado, bem como ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal a quo negou provimento ao apelo defensivo,dando provimento ao recurso interposto pelo Parquet, para adequar a reprimenda para 6 anos, 9 meses e 20 dias de reclusão em regime fechado, e o pagamento de 680 dias-multa, no piso, mantendo-se, no mais, a r. sentença recorrida.
+Nas razões do recurso especial sustenta o insurgente que aquantidade e natureza dasdrogas apreendidas, vale dizer, 1,42 Kg de cocaína e 105 g de maconha, não justificariam a fixação da pena-base acima do mínimo legal, ainda que nos termos do art. 42 da Lei n. 11.343/2006..
+Argumenta, ainda,que a atenuante da confissão espontânea deve ser compensada integralmente com a agravante da reincidência, seja geral ou específica.
+As contrarrazões foram apresentadas às (e-STJ fls. 449/469).
+O Ministério Público Federal, na condição decustos legis, ofertou parecer peloparcial conhecimento do recurso especial e, nessa extensão, pelo provimento(e-STJ fls. 504/510).
+É o relatório.
+Decido.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Para melhor contextualizar, transcrevo os fundamentos do acórdão quanto aos pontos objeto de insurgência neste apelo especial (e-STJ fls. 404/407):
+Passo à análise da dosimetria das penas.
+A pena-base foi fixada no mínimo legal (05 anos de reclusão e pagamento de 500 dias-multa).
+No entanto, comporta acolhimento o pedido do Ministério Público de aumento da pena com base nos maus antecedentes (fls. 78/90) e nas diretrizes estabelecidas pelo artigo 42, da Lei nº 11.343/06, em razão da quantidade e variedade das drogas encontradas em poder do acusado (1.344 porções de cocaína, pesando aproximadamente 1,42 quilo e 57 porções de maconha, pesando aproximadamente 105 gramas).
+É cediço que a quantidade e natureza das drogas apreendidas é sempre preponderante na aplicação da pena, inclusive na fixação da pena-base.
+ ..
+Assim, em razão, não só da quantidade e variedade dos entorpecentes apreendidos, como também dos maus antecedentes por ele ostentado, fixo a pena-base em 1/6 acima do mínimo legal, partindo de 05 anos e 10 meses de reclusão, mais pagamento de 583 dias-multa, no piso.
+Na segunda fase, a agravante da reincidência (fls. 26/29 e 91/93) foi compensada com a atenuante da confissão espontânea.
+No entanto, também comporta acolhimento o pleito do Ministério Público, pois a circunstância agravante dareincidência, é preponderante sobre qualquer outra, inclusive sobre a circunstância atenuante da confissão, nos termos do artigo 67, do Código Penal.
+ ..
+Assim, elevo as reprimendas em 1/6, perfazendo 06 anos, 09 meses e 20 dias de reclusão e pagamentode 680 dias-multa.
+Ao que se nota, a exasperação da pena-base cominada ao recorrente encontra-se justificada com base nos maus antecedentes, além danatureza e quantidade das drogas apreendidas, que não pode ser consideradaínfima nem desprezível.
+Dessa forma, tal fundamento se revela idôneo, tendo em vista ovolume de entorpecentes apreendidos - 1,42 Kg de cocaína e 105 g de maconha-, impondo-se a manutenção da pena-base.
+Com efeito, nos termos da jurisprudência sedimentada nesta Corte Superior, a aplicação da pena-base por crime de tráfico de drogas deve observar com preponderância a natureza e a quantidade de substância do produto, exatamente como prevê o art. 42 da Lei n. 11.343/2006.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. NATUREZA DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E QUALIDADE DA DROGA ENCONTRADA, NO CASO, QUE JUSTIFICAM O INCREMENTO PUNITIVO. SEGUNDA FASE DO CÁLCULO DOSIMÉTRICO. IMPOSSIBILIDADE DE COMPENSAÇÃO INTEGRAL DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. PREPONDERÂNCIA, NA HIPÓTESE, DA MULTIRREINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+- Na hipótese, a ordem foi concedida, de ofício, para readequar o patamar de exasperação da pena-base do agravante à fração de 1/6 sobre o mínimo legal, com fundamento na qualidade especialmente deletéria da droga apreendida. A referida vetorial, no caso, realmente, desborda do ordinário do tipo criminal - 106 invólucros plásticos contendo crack, com peso bruto aproximado de 61,3 gramas (fl. 27) e peso líquido de 27,5 gramas (fl. 20) -, autorizando o mencionado quantum de incremento punitivo.
+ ..
+- Agravo regimental desprovido. (AgRg no HC 662.223/SP. Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca. DJe de 14.5.2021)
+No mesmo diapasão:
+PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. CULPABILIDADE. CRIME PRATICADO ENQUANTO O RÉU CUMPRIA PENA NO REGIME ABERTO POR OUTRO DELITO. MAIOR REPROVABILIDADE DA CONDUTA. AUSÊNCIA DE ILEGALIDADE. NATUREZA DA DROGA APREENDIDA. QUANTIDADE INEXPRESSIVA. DESPROPORCIONALIDADE DO AUMENTO. ORDEM PARCIALMENTE CONCEDIDA.
+ ..
+2. Para os crimes relacionados ao tráfico de drogas, o art. 42 da Lei n. 11.343/2006 esclarece que o magistrado, ao estabelecer a sanção, considerará, com preponderância sobre os critérios previstos no art. 59 do Código Penal, a natureza e a quantidade do produto ou da substância apreendida. Com efeito, em certos casos, a qualidade e a variedade de entorpecentes apreendidos demonstram um grau mais elevado de dedicação à atividade criminosa, ensejando maior reprovabilidade da conduta, o que autoriza a exasperação da pena-base, conforme a discricionariedade juridicamente vinculada do magistrado.
+3. Na hipótese, contudo, o aumento operado mostrou-se desproporcional, sobretudo em razão da inexpressiva quantidade de droga apreendida - 19g (dezenove gramas) de cocaína e 4g (quatro gramas) de crack
+4. Na espécie, a instância de origem estabeleceu a reprimenda básica acima do mínimo legal, considerando desfavorável a circunstância judicial relativa à culpabilidade, tendo em vista que o paciente praticou o crime de tráfico de drogas durante o período de cumprimento de pena em regime aberto imposta em outro processo. Tal fundamentação se mostra adequada para a exasperação da pena-base, pois anuncia o maior grau de reprovabilidade da conduta do acusado, bem como o menosprezo especial ao bem jurídico violado. Precedentes. (HC 639.208/SC. Sexta Turma. Rel. Ministro Antônio Saldanha Palheiro. DJe de 4.3.2021).
+Sobre a compensação das circunstâncias legais em voga, a jurisprudência desta Corte Superior, no julgamento do Recurso Especial n. 1.947.845/SP, sob a sistemática dos recursos repetitivos, consolidou entendimento segundo o qual, ressalvada a hipótese de multirreincidência, é possível na segunda fase da dosimetria da pena a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não.
+Naquela ocasião procedeu-se à readequação do Tema n. 585, restando assim a ementa do julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. FURTO SIMPLES TENTADO. CONDENAÇÃO. DOSIMETRIA DA PENA. PRETENSÃO DE COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. REGIME SEMIABERTO. ADEQUAÇÃO.
+1. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+2. Na hipótese dos autos, comprovada a reincidência específica da recorrente, deve a referida agravante ser compensada integralmente com a atenuante da confissão.
+3. Recurso especial provido para reformar o acórdão proferido no julgamento da Apelação Criminal n. 1503215-08.2019.8.26.0530, a fim de restabelecer a compensação integral entre a atenuante da confissão e a agravante da reincidência, fixando o regime inicial semiaberto. Acolhida a readequação da Tese n. 585/STJ nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+(REsp 1.947.845/SP. Terceira Seção. Rel. Ministro Sebastião Reis Júnior. DJe de 24.6.2022 - grifou-se)
+A propósito, confiram-se ainda os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO. COMPENSAÇÃO INTEGRAL DA CONFISSÃO COM A REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. O Tribunal de origem não admitiu o apelo nobre com esteio na incidência das Súmulas n. 284/STF e 7/STJ, na ausência de prequestionamento e não comprovação do alegado dissenso pretoriano.
+2. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos relativos à aplicação das Súmulas 284/STF, ausência de prequestionamento e não comprovação do dissídio jurisprudencial. Incidência da Súmula n. 182/STJ.
+3. Constatação da existência de ilegalidade flagrante, a ser reparada, sponte propria, por esta Corte Superior, e não por força de acolhimento de pedido ou recurso defensivo, nos termos do art. 654, § 2.º, do Código de Processo Penal.
+4. Mesmo sendo o Acusado reincidente específico, é possível a compensação integral da agravante da reincidência com a atenuante da confissão espontânea.
+5. Agravo regimental desprovido. Concedido habeas corpus, de ofício, a fim de compensar integralmente a confissão e a reincidência e redimensionar as reprimendas aos patamares de 2 anos de reclusão, em regime inicial semiaberto, e 10 dias-multa.
+(AgRg no AREsp 2021593/SP. Sexta Turma. Rel. Ministra Laurita Vaz. DJe de 6.5.2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE QUALIFICADO (CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO) EM CONCURSO FORMAL DE DELITOS. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Casa, no julgamento do HC n. 365.963/SP, assinalou a possibilidade de compensação integral da agravante da reincidência - genérica e específica - com a atenuante da confissão espontânea, ressalvados apenas os casos de multirreincidência.
+Na oportunidade, esclareceu o Ministro relator não existir dispositivo na legislação penal pátria determinando tratamento mais severo à recidiva específica na segunda fase do cálculo da reprimenda. Concluiu, assim, não evidenciar a reincidência específica maior reprovabilidade do comportamento ou da personalidade do acusado. Precedentes.
+2. No caso, a condenação definitiva anterior dos réus pelo mesmo delito, por não encerrar maior desvalor das condutas, não justificaria a aplicação de fração de aumento superior à mínima, na segunda etapa da dosimetria, razão pela qual mostrou-se evidente a desproporcionalidade do aumento em 1/3, operado em decorrência do reconhecimento da agravante da reincidência específica, o que justificou a readequação das penas com a exasperação da sanção no montante de 1/6.
+3. Agravo regimental desprovido.
+(AgRg no HC 718078/SP. Sexta Turma. Rel. Ministro Antônio Saldanha Palheiro. DJe de 8.4.2022)
+Destarte, impõem-se a compensação integral da atenuante da confissão espontânea com a agravante da reincidência.
+Passa-se, assim, à dosimetria da pena.
+Tem-se que a pena-base ficou estabelecida em 5anos e 10 meses de reclusão e 583 dias-multa.
+Na segunda etapa, procedo à compensação integral da agravante da reincidência coma atenuante da confissão.
+Na terceira fase, diante da ausência de circunstâncias modificativas, fica a reprimenda estabelecida em 5 anos e 10 meses de reclusão e 583 dias-multa, mantidos os demais termos do aresto fustigado.
+Ante o exposto, com fulcro no art. 255, § 4º, III, do Regimento Interno do STJ, dou parcial provimento ao recurso especial para redimensionaras penas cominadas ao recorrente, mantidosos demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
