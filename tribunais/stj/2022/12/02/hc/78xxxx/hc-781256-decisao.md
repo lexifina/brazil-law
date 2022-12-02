@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em benefício de DIEGO ERNESTO MINO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5045498-24.2020.8.24.0023).
+Extrai-se dos autos queo paciente foi condenadopelo Conselho de Sentença, à pena de 4 (quatro) anos, 9 (nove) meses e 5 (cinco) dias de reclusão, bem como ao pagamento de 12 (doze) dias-multa, em regime inicial semiaberto, pela prática do crime previsto no art. 2º, § 2º, da Lei n. 12.850/2013 (integrar organização criminosa), sendo-lhe indeferido o direito de recorrer em liberdade; sendoabsolvido quanto ao delito do art. 121, § 2º, incs. I, III e IV, do Código Penal (homicídio qualificado).
+Irresignada, a defesa interpôs recurso de apelação perante a Corte estadual, a qual negou provimento ao recurso, nos termos do acórdão assim ementado:
+"APELAÇÕES CRIMINAIS - TRIBUNAL DO JÚRI - HOMICÍDIO TRIPLAMENTE QUALIFICADO (CP, ARTS. 121, I, III E IV) E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA (LEI N. 12.850/13, ART. 2º, § 2º) - SENTENÇA PARCIALMENTE CONDENATÓRIA - INSURGÊNCIAS DEFENSIVAS - PRELIMINAR - ALEGADA EXISTÊNCIA DE NULIDADE PROCESSUAL - AUSÊNCIA DE ENVIO DO MATERIAL EXTRAÍDO DO CELULAR DE UM DOS APELANTES À DEFENSORIA PÚBLICA - INOCORRÊNCIA - INSTITUIÇÃO QUE JÁ ACOMPANHAVA OUTRO DENUNCIADO DESDE O INÍCIO DA MARCHA PROCESSUAL - ADEMAIS, DEFESORA QUE TEVE CIÊNCIA DO MATERIAL DEPOSITADO EM CARTÓRIO ANTES DA SESSÃO PLENÁRIA E VEIO A SE INSURGIR APENAS EM GRAU RECURSAL - AUSÊNCIA DE PREJUÍZO - EIVA AFASTADA - MÉRITO - ALEGADA DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - INDÍCIOS SUFICIENTES DE MATERIALIDADE E AUTORIA DOS DELITOS - DECISÃO AMPARADA EM UMA DAS VERSÕES EXISTENTES NO PROCESSO - SOBERANIA DO TRIBUNAL POPULAR (CF, ART. 5º, XXXVIII, "C") - DECISÃO MANTIDA - ALEGADA INCONSTITUCIONALIDADE DO ART. 489 DO CÓDIGO DE PROCESSO PENAL - DECISÃO NÃO UNÂNIME QUE NÃO IMPÕE A ABSOLVIÇÃO DO RÉU - ADEMAIS, PREVISÃO DA TOMADA DE DECISÃO POR MAIORIA DOS VOTOS QUE NÃO SE MOSTRA CONTRÁRIA AO TEXTO CONSTITUCIONAL - DOSIMETRIA - PENA-BASE - CULPABILIDADE - RÉU QUE CUMPRIA PENA POR OUTRO DELITO EM REGIME ABERTO - POSSIBILIDADE DO AUMENTO - PRECEDENTES - ETAPA INTERMEDIÁRIA - ALEGAÇÃO DE INCONSTITUCIONALIDADE DA " REINCIDÊNCIA - IMPROCEDÊNCIA - AGRAVANTE AVALIZADA PELO SUPREMO TRIBUNAL FEDERAL - REPRIMENDA INALTERADA - RECURSOS DESPROVIDOS"(fls. 36/37).
+No presente writ, a defesa sustenta que a segregação cautelar do paciente, além de despida de fundamentação idônea a sua manutenção pelo Magistrado sentenciante, não preenche os requisitos autorizadores previstos no art. 312 do CPP.
+Requer, assim, a cassaçãodo trecho da sentença de 1º grau, prestigiada no 2º grau, onde foi determinado o cumprimento provisório da sentença em desfavor do paciente.
+Não houvepedido de liminar.
+As informações foram prestadas, àsfls. 53/81.
+O Ministério Público se manifestou pelo não conhecimento do habeas corpus (fls. 83/87).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Conforme relatado, busca-se, no presente writ, a revogação da custódia cautelar do paciente.
+Ocorre que, no caso em apreço, as alegações trazidas no presente writ, referentes à ausência de fundamentação pelo Magistrado sentenciante para manter a custódia cautelar do paciente,não foram levadas paraapreciação pelo Tribunal de origem, no julgamento do recurso de apelação (fls. 62/78), o que obsta a análise por este Tribunal Superior de Justiça, sob pena de incorrer em indevida supressão de instância.
+Confiram-se os seguintes precedentes do STJ, nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE. FUNGIBILIDADE RECURSAL. ALEGADO EXCESSO DE PRAZO DAS MEDIDAS CAUTELARES ALTERNATIVAS. MATÉRIA NÃO ANALISADA PELA INSTÂNCIA DE ORIGEM. SUPRESSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausentes os requisitos do art. 619 do CPP, observada a tempestividade recursal e aplicado o princípio da fungibilidade, os embargos de declaração devem ser recebidos como agravo regimental.
+2. O STJ não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.
+(AgRg no HC 577.034/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 05/03/2021).
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIMES PREVISTOS NOS ARTS. 90 E 96, AMBOS DA LEI 8.666/1993, ART. 4º, INCISO II, ALÍNEA "C" DA LEI 8.137/1990 E ART. 288, ART. 317 E ART. 333, TODOS DO CÓDIGO PENAL. OPERAÇÃO TRITÃO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE E NECESSIDADE. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. RAZOABILIDADE. FIANÇA. REVOLVIMENTO FÁTICO PROBATÓRIO. PANDEMIA. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+VII - No que tange ao pedido de reconsideração com respaldo na situação emergencial de saúde pública do país - decorrente da pandemia do COVID-19, acarretando o excesso de prazo nas medidas cautelares -, este sequer foi analisado pelo Tribunal a quo, ficando esta Corte Superior impedida de analisar o tema sob pena de indevida supressão de instância.
+Agravo regimental desprovido.
+(AgRg nos EDcl no RHC 120.237/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 22/09/2020).
+Ante exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
