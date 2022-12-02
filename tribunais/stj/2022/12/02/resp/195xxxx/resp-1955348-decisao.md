@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial, interposto por BANCO DO BRASIL S/A, com amparo naalínea"a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal Regional da 5ª Região, assim ementado (fl. 390, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO QUE NÃO CONHECE DOAGRAVO DE INSTRUMENTO INTERPOSTO CONTRA SENTENÇA DE EXTINÇÃO. ERROGROSSEIRO. IMPOSSIBILIDADE DE OBSERVÂNCIA DO PRINCÍPIO DA FUNGIBILIDADERECURSAL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. AGRAVO INTERNO NÃOPROVIDO
+1. Agravo interno (CPC, art. 1.021) contra decisão desta relatoria que negou conhecimento ao agravo de instrumento manejado (CPC, art. 932, IV, b) contra sentença do Juízo da 15ª Vara Federal do Rio Grande do Norte, que, entendendo pela incompetência da Justiça Federal para processar cumprimento de sentença em que figure no polo passivo unicamente sociedade de economia mista, ainda que o título exequendo tenha se formado em ação coletiva processada e julgada na Justiça Federal, julgou extinto o presente processo sem resolução de mérito (art. 485, IV, do CPC).
+2. Nas razões recursais, sustenta que "a justificativa utilizada na sentença da inviabilidade operacional para remessa do processo à Justiça Estadual não modifica a natureza jurídica de decisão interlocutória quando há declinação de competência".
+3. Não há dúvidas de que o ato por meio do qual o juiz se declara incompetente para processar e julgar o feito e determina a remessa dos autos ao juízo tido por competente, a fim de que lá tenha prosseguimento, possui natureza de decisão interlocutória.
+4. No caso dos autos, todavia, o magistrado, embora tenha reconhecido sua incompetência para processar e julgar o feito, proferiu sentença extinguido o processo sem resolução do mérito, invocando expressamente o art. 485, IV, do CPC, sob o fundamento de que "o sistema do Processo Judicial Eletrônico - PJE não permite a declinação da competência da Justiça Federal para a Justiça Estadual, mas apenas a remessa de processos entre varas federais de uma mesma seção judiciária, oque impõe a extinção deste feito sem resolução de mérito".
+5. O único recurso cabível contra esse ato seria a apelação, e não o agravo de instrumento, constituindo a interposição deste recurso erro grosseiro, insuscetível de convalidação.
+6. Precedente do STJ:AgInt no AREsp 1420170/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRATURMA, julgado em 09/03/2020, DJe 11/03/2020.
+7. Agravo interno improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 414/417, e-STJ).
+Em suas razões de recurso especial, oRecorrenteaponta ofensa aoartigo64, § 3º, do CPC/15. Sustenta, em síntese, que o agravo de instrumento deve ser conhecido e provido para determinar a remessa dos autos à justiça estadual, não havendo que se falar em extinção da demanda.
+Sem contrarrazões (fl. 437, e-STJ), e após decisão de admissão do recurso especial (fl. 438, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Com efeito, não há controvérsia acerca da natureza interlocutória da decisão que declina a competência, inexistindo, portanto, erro grosseiro da parte recorrente ao interpor o recurso de agravo de instrumento na origem.
+Nesse sentido, conforme entendimento desta Corte,o argumento de impossibilidade técnica do Judiciário em remeter os autos para o juízo competente, ante as dificuldades inerentes ao processamento eletrônico, não pode ser utilizado para prejudicar o jurisdicionado, sob pena de configurar-se indevido obstáculo ao acesso à tutela jurisdicional.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. AÇÃO ORDINÁRIA. VALOR DA CAUSA. OBSERVÂNCIA DA COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. VIOLAÇÃO A NORMATIVO FEDERAL. DECLARAÇÃO DE INCOMPETÊNCIA. NECESSÁRIA REMESSA DO FEITO AO JUÍZO COMPETENTE. IMPOSSIBILIDADE DE OPOSIÇÃO DE INVIABILIDADE DO SISTEMA DE AUTOMAÇÃO. PRECEDENTE. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF. DIVERGÊNCIA INTERNA. SÚMULA 13/STJ.
+1. A pronúncia da incompetência absoluta enseja a remessa dos autos ao juízo competente e não a extinção do processo sem resolução de mérito, na forma do art. 64, § 3.º, do CPC/2015, considerada ainda a ausência dessa hipótese no rol do art. 485 do mesmo diploma legal.
+2. "O argumento de impossibilidade técnica do Judiciário em remeter os autos para o juízo competente, ante as dificuldades inerentes ao processamento eletrônico, não pode ser utilizado para prejudicar o jurisdicionado, sob pena de configurar-se indevido obstáculo ao acesso à tutela jurisdicional" (REsp 1.526.914/PE, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 21/06/2016, DJe 28/06/2016).
+3. Não se conhece do recurso especial que se fundamenta na existência de divergência jurisprudencial, mas se limita, para a demonstração da similitude fático-jurídica, à mera transcrição de ementas e de trechos de votos. Hipótese, por extensão, da Súmula 284/STF.
+4. A divergência entre julgados do mesmo tribunal não enseja recurso especial. Inteligência da Súmula 13/STJ.
+5. Recurso especial conhecido parcialmente e, nessa extensão, provido.
+(REsp n. 1.776.858/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/3/2019, DJe de 22/3/2019.)
+Portanto, à luz do art. 64, §3º, do CPC, deve o Poder Judiciário remeter os autos para o juízo competente, não havendo que se falar em extinção do processo sem análise de mérito.
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou provimento a fim de, reformando o acórdão recorrido, determinar que os autos sejam encaminhados para o juízo competente, mediante providência a ser adotada pelo juízo de primeiro grau.
+Publique-se. Intimem-se.
