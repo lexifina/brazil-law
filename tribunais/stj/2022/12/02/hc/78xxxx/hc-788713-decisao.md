@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus impetrado em benefício de DOUGLAS SOARES VIEIRA DA SILVA contra decisão monocrática proferida pelo Juiz de Direito da 29ª Vara Criminal do Foro Central Criminal daComarca de São Paulo/SP, nos autos n.1515750-94.2022.8.26.0228.
+Narra a impetrante queo paciente foi preso em flagrante no dia 10/7/2022, pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/2006. A prisão foi convertida em preventiva.
+A defesa formulou pedido de revogação da prisão preventiva apontando excesso de prazo na formação da culpo. O pedido foi indeferido nos termos da decisão reproduzida às e-STJ fls. 20/21.
+Na presente oportunidade, alega a defesa que a demora na tramitação do feito não pode ser atribuída à defesa, destacando que o paciente preso há mais de 142 dias.
+Sustenta que o evidente excesso de prazoafasta a cautelaridade e instrumentalidade da medida extrema, tornando-a ilegal.
+Diante disso, pleiteia, liminarmente e no mérito a concessão da liberdade provisória.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque adefesa se insurge contra decisão proferida pelo magistrado singular no primeiro grau de jurisdição. Vale lembrar que é necessáriaa manifestação do colegiado do Tribunal competente para, desse modo, atrair a competência do Superior Tribunal de Justiça, nos termos do art. 105, II, da Constituição Federal.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Importante lembrar que eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Assim, conquanto o paciente esteja preso desde julho de 2022, não é possível se reconhecer, neste momento, a existência de retardo abusivo e injustificado na prestação jurisdicional, de forma a caracterizar excesso de prazo.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
