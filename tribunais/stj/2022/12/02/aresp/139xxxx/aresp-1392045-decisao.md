@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BANCO DO BRASIL SA, contra decisão que não admitiu recurso especial (fls. 273/274 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 197, e-STJ):
+AGRAVO INTERNO Descabimento da suspensão da execução individual - Determinação do STJ que envolve execuções da r. sentença proferida em demanda coletiva diversa - Inaplicabilidade- Pré-questionamento - Recurso improvido
+Nas razões do apelo extremo (fls. 205/259, e-STJ), o Recorrente aponta ofensa aos artigos 17, 85, 240, 332, § 1º, 485, inciso VI, 1.035 do CPC/2015; 1º, § 2º, da Lei nº 6.899/1981; 95, 97 e 98 do CDC;21 da Lei 4717/65.Sustenta, em síntese: (i) a necessidade de suspensão dos processos que tenham por objeto matéria sobre expurgos inflacionários; (ii) a ilegitimidade ativa dos poupadores por ausência de comprovação de vínculo associativo ao IDEC; (iii) a inexigibilidade da sentença coletiva fora dos limites territoriais do órgão prolator; (iv) a inexigibilidade do título executivo pela falta de prévia liquidação da sentença; (v)não incidem juros remuneratórios; subsidiariamente, não se deve admitir a incidência de juros remuneratórios após o encerramento da conta poupança; e deve ser reconhecida a prescrição da pretensão relativa aos juros remuneratórios; (vi) o marco inicial para a incidência dos juros de mora é a citação para a liquidação de sentença; e (vii) a inaplicabilidade da Tabela Prática para atualização das contas de poupança, devendo ser utilizados os índices de remuneração próprios das cadernetas de poupança.
+Sem contrarrazões(fl. 272, e-STJ), o apelo não foi admitido na origem (fls. 273/274, e-STJ), dando ensejo ao agravo (fls. 277/291, e-STJ), visando destrancar o processamento daquela insurgência, no qual orecorrenterefuta os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 296, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece provimento.
+1. De início, observo que o presente recurso não trata do Tema nº. 948 do STJ, afetado ao procedimento dos recursos especiais repetitivos, pois o título executivo formado na fase de conhecimento da Ação Civil Pública nº. 1998.01.1.016798-9 (12ª Vara Cível de Brasília/DF) não restringiu sua eficácia subjetiva.
+Outrossim, o Ministro Gilmar Mendes, do Supremo Tribunal Federal, reconsiderou a decisão que havia determinado a suspensão nacional de liquidações, cumprimentos de sentença e execuções relativos a expurgos inflacionários em caderneta de poupança.
+Por via de consequência, a Segunda Seção do STJ deliberou pelo regular andamento dos recursos relacionados a expurgos inflacionários em fase de execução de sentença (individual ou coletiva) em que a parte se manifeste, expressamente, pela não adesão ao acordo homologado pelo STF.
+Considerando que o presente caso não se insere nas hipóteses acima, não há falar em suspensão do processo.
+2. Constata-se da leitura do acórdão recorrido, que o Tribunal de origem não decidiu acerca dos arts. 17, 85, 240, 332, § 1º, 485, inciso VI, 1.035 do CPC/2015; 1º, § 2º, da Lei nº 6.899/1981; 95, 97 e 98 do CDC; 21 da Lei 4717/65, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial, notadamente porque o juízo cognitivo da Corte local restringiu-se à análise da suspensão do processo.
+Saliente-se, ainda, que a agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de atender ao aludido requisito de admissibilidade ou à pretensa alegação de negativa de prestação jurisdicional.
+Incide, portanto, o óbice disposto na Súmula 282/STF.
+3. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
