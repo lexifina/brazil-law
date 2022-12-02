@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por São Francisco Sistemas de Saúde S.E. Ltda., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 279):
+TUTELA DE URGÊNCIA Ação de obrigação de fazer, fundada em contrato de assistência médico-hospitalar Deferimento parcial pelo Juízo de Primeiro Grau - Paciente acometida de carcinoma de Merkel metastático Medicamento "AVELUMABE" Indicação médica Relevante fundamento da demanda e justificado receio de ineficácia do provimento final demonstrados Incidência das Súmulas nº 95 e 102, do Tribunal de Justiça/SP - Decisão mantida AGRAVO DE INSTRUMENTO NÃO PROVIDO, PREJUDICADO O AGRAVO INTERNO.
+Em suas razões de recurso especial (e-STJ, fls. 286-294), oagravante alegou violação aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional, tendo em vista que o acórdão recorrido não se manifestou a respeito de que a parte recorrida foi inativada do plano de saúde em virtude da inadimplência das mensalidades, bem como ela procurou tratamento de saúde com profissional particular, sendo que necessita passar por atendimento na rede credenciada para avaliar o seu estado de saúde e a medicação adequada.
+Requereu, dessa forma, o provimento do recurso.
+O processamento do apelo especial não foi admitido pela Corte local, levando oinsurgente a interpor o presente agravo.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à apontada violação ao art. 1.022 do Código de Processo Civil de 2015, constata-se a ausência de interesse recursal, no ponto, pois nem sequer foram opostos embargos de declaração ao acórdão recorrido, sendo inadmissível, portanto, a alegação de deficiência na prestação jurisdicional.
+Na mais, o Tribunal de Justiça do Estado de São Paulo, ao julgar o agravo de instrumento, assim se manifestou (e-STJ, fls. 280-281):
+Contrato firmado a envolver prestação de serviços no campo da saúde. Saúde e consequente tratamento é matéria de interesse manifestamente público. Ainda que prestado o serviço por terceiros, particulares, mantida a condição e quem assume a prestação tem a obrigação de atentar para essa condição pública de atendimento.
+E isto porque o fim principal do serviço é o atendimento como substitutivo do próprio Estado com todos os riscos decorrentes.
+De outra parte, na relação contratual de adesão a incidência das disposições trazidas pelo Código de Defesa do Consumidor e, por princípio, na dúvida, cumpre o atendimento dos interesses da parte considerada, pela legislação, mais fraca, no caso, o contratante consumidor.
+Cumpre a concessão liminar de tutela desde que o julgador se convença da relevância do fundamento da demanda, bem como do justificado receio de ineficácia do provimento final (art. 497, do Código deProcesso Civil/2015).
+No caso, presentes os requisitos autorizadores para a concessão da medida.
+Portanto, a alegada ofensa ao art. 489 do CPC/2015 não ficou configurada, uma vez que o Colegiado de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. VIOLAÇÃO AO ART. 489 DO NCPC NÃO EVIDENCIADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
