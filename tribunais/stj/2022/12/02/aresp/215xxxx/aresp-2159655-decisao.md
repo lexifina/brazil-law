@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ROSELI GONCALVES BATISTA, em face de decisão que não admitiu recurso especial daora insurgente.
+O apelo extremo, fundado nasalíneas "a" e "c",do permissivo constitucional, desafia acórdão de fls. 285-291, e-STJ, proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 285-286, e-STJ):
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA, VISANDO RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - SENTENÇA QUE JULGOU PROCEDENTE A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E DETERMINOU O ARQUIVAMENTO DOS AUTOS - INSURGÊNCIA DA EXECUTADA - PEDIDO DE EXTINÇÃO DO CUMPRIMENTO DE SENTENÇA, COM A CONDENAÇÃO DA EXEQUENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS - ACOLHIMENTO - EXECUTADA BENEFICIÁRIA DE JUSTIÇA GRATUITA -- SUSPENSÃO DA EXIGIBILIDADE DAS OBRIGAÇÕESRELACIONADAS ÀS VERBAS SUCUMBENCIAIS PELO PRAZO DE CINCO ANOS - APLICAÇÃO DO ART. 98 §3º DO CPC - AUSÊNCIA DE COMPROVAÇÃO E DE ALEGAÇÃO PELO CREDOR NO SENTIDO DE QUE NÃO MAIS SUBSISTE A SITUAÇÃO DE HIPOSSUFICIÊNCIA - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA ACOLHIDA - EXTINÇÃO DA EXECUÇÃO - CABIMENTO - PLEITO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DO PATRONO DA EXECUTADA - POSSIBILIDADE - ART. 85 §1º DO CPC - SENTENÇA REFORMADA.
+RECURSO CONHECIDO E PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 318-321, e-STJ).
+Nas razões do recurso especial (fls.330-348, e-STJ), a insurgente apontou, além de dissídio jurisprudência,violação aoartigo85, § 8º, do CPC, argumentando a necessidade de fixação dos honorários advocatícios de forma equitativa, em razão do baixo valor da causa.
+Contrarrazões às fls. 367-371, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 375-377, e-STJ), dando ensejo na interposição do presente agravo (fls. 385-391, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 401-406, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração ao artigo85, § 8º, do CPC, argumentando a necessidade de fixação dos honorários advocatícios de forma equitativa, em razão do baixo valor da causa.
+Sustenta, em síntese, que "Embora o Tribunal tenha fixado os honorários em "10% (dez por cento) sobre o valor atualizado dado ao cumprimento de sentençareferido montante revela-se ínfimo, eis que atinge a quantia de R$ 283,00 (duzentos e oitenta e três reais)"" (fl. 338, e-STJ).
+Com efeito, verifica-se da leitura do acórdão recorridoque a matéria inserta noreferidodispositivolegalnão fora objeto de exame pelo Tribunal a quo, mesmo após o julgamento dos embargos de declaração, do qualconstou que a fixação de honorários de forma equitativasequerfoi pleiteado nas razões recursais do recurso deapelação interposto pela embargante.
+Ademais, nas razões do especial deixou a recorrente de apontar eventual violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+Na hipótese, portanto, incide o teor das Súmulas 211 do STJ e 282 do STF, ante a ausência de prequestionamento dos supracitados dispositivos legais.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se a correta interpretação da legislação federal.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE NOME EMPRESARIAL CUMULADA COM INDENIZATÓRIA, MARCA E NOME DE DOMÍNIO. ART. 461, § 4º, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. MULTA. OFENSA AO ART. 461, § 6º, DO CPC/1973. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado em embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 631.332/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/03/2017, DJe 28/03/2017)  grifou-se
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.  ..  QUESTÕES NÃO DISCUTIDAS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AFERIÇÃO DA TEMPESTIVIDADE DOS EMBARGOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O conteúdo normativo de todas as normas apontadas como violadas não foi debatido pelo Tribunal de origem, carecendo, no ponto, do imprescindível requisito do prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Dessa forma, mesmo tendo sido opostos embargos de declaração, estes não tiveram o condão de suprir o devido prequestionamento, razão pela qual deveria a parte, no recurso especial, ter suscitado a violação ao art. 535, II, do Código de Processo Civil, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Inafastável, nesse particular, a Súmula n. 211 desta Corte.
+ ..
+3. Agravo improvido. (AgRg nos EDcl no AREsp 740.572/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016)  grifou-se
+Com efeito, esta Corte admite o prequestionamento implícito/ficto dos dispositivos tidos por violados, desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem, o que não ocorreu na hipótese. Nesse sentido: AgInt no AREsp 332.087/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 25/08/2016; AgRg no AREsp 748.582/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 13/05/2016.
+Na hipótese, inafastável o teor das Súmulas 211/STJ e 282/STF, ante a ausência de prequestionamento, porquanto os dispositivos apontados como violados não tiveram o competente juízo de valor aferido, nem foram interpretados pelo Tribunal de origem.
+A incidência dos supracitados óbices impede a análise do dissídio jurisprudencial alegado, na medida em que "A iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial pela alínea "c" do permissivo constitucional também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial" (AgInt no AREsp n. 1.425.676/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24/5/2019). Ainda, no mesmo sentido,confira-se: AgInt no AREsp 1843672/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/09/2021.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
