@@ -1,0 +1,31 @@
+DECISÃO
+Toutatis Client Services do Brasil Ltda. -em Recuperação Judicial suscita o presente conflito positivo de competência, apontando como suscitados o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo -SP e o Juízo da 1ª Vara do Trabalho de Uberlândia- MG.
+Narra a suscitante que, em razão da situação de dificuldade econômico-financeira que a assolou, ajuizou pedido de recuperação judicial, o qual foi distribuído aoJuízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP (Processo n. 1081674-47.2018.8.26.0100), em 7/8/2018, e deferido, com determinação de suspensão de todas as ações e execuções em trâmite contra a recuperanda, pelo prazo de 180 (cento e oitenta) dias, prorrogando-se, sucessivamente, até a realização daAssembleia Geral de Credores (AGC).
+Aponta, por outro lado, que o Juízo da 1ª Vara do Trabalho de Uberlândia - MG, mesmo informado arespeito da submissão da recuperanda a processo de soerguimento, determinou o prosseguimento da execução trabalhista (Processo n. 0001085-29.2013.5.03.0043)contra ele curso, acarretando penhoras de valores em suas contas bancárias.
+Ato contínuo, aduz que o Juízo Trabalhista, atendendo o seu pedido, suspendeu as execuções contra ela em curso, alinhando-se com a orientação do Superior Tribunal de Justiça, o que,todavia, foi reformado pelo Tribunal Regional do Trabalho da 3ª Região, em sede de agravo de petição, com determinação de prosseguimento da execução, mesmo recaindo a execução sobrecrédito concursal.
+Com base nessas premissas, assere a postulante estar evidenciado o conflito de competência, sobretudo considerando a jurisprudência deste Tribunal, sedimentada na esteira de que compete ao Juízo da recuperação a deliberação a respeito dos atos constritivos que impliquem no regular andamento do processo recuperacional.
+Nesse contexto, requer, liminarmente, a imediata suspensão da execução trabalhista (Autos n. 0001085-29.2013.5.03.0043) em trâmite perante o Juízo da 1ª Vara do Trabalho de Uberlândia - MG, designando-se, por conseguinte, o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP para deliberar a respeito dos atos urgentes até o julgamento final do conflito de competência, ocasião em que deverá ser reconhecida a competência definitiva do Juízo da recuperação judicial para decidir sobre os atos de constrição do patrimônio da suscitante.
+O pedido liminar foi deferido por esta relatoria (e-STJ, fls. 129-131), a fim de:
+ ..  suspender oacórdãodo Tribunal Regional do Trabalho da 3ª Região, proferida nos autos da Execução Trabalhista n. 0001085-29.2013.5.03.0043, ficando designado o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP para dirimir, em caráter provisório, a respeito da destinação dos valores provenientes de penhoras evetualmente efetivadas sobre o patrimônio da suscitante, bem como acerca das demaisquestões urgentes.
+Foram encaminhadas informações por ambos os juízos suscitados(e-STJ, fls. 143-152 e 156-158).
+O Ministério Público Federal manifestou-se pelo reconhecimento da competência do Juízo da recuperação judicial (e-STJ, fls. 160-164).
+Brevemente relatado, decido.
+Com efeito, é uníssona ajurisprudência desta Corte Superior na esteira de que "é competente o juízo universal para prosseguimento de atos de execução que incidam sobre o patrimônio de empresa em processo falimentar ou de recuperação judicial", não competindo "ao juízo trabalhista interferir no acervo patrimonial da suscitante enquanto não houver a certificação do trânsito em julgado de sentença que declara o encerramento da sua recuperação judicial" (AgInt no CC n. 167.826/PA, Relatora a Ministra Nancy Andrighi, DJe 21/8/2020).
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA LABORAL. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEI N. 11.101/2005. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas em recuperação judicial, devem ser autorizados ou realizados pelo Juízo do soerguimento até o trânsito em julgado da sentença que encerra a recuperação judicial.
+2. A razão de ser da supremacia dessa regra de competência é a concentração, no Juízo da recuperação judicial, de todas as decisões que envolvam o patrimônio da recuperanda, inclusive os valores objeto de constrição no juízo trabalhista, ainda que posteriores à recuperação ou mesmo os créditos extraconcursais, a fim de não comprometer a tentativa de mantê-la em funcionamento.
+3. Agravo interno não provido.
+(AgInt no CC n. 175.296/MG, Relator o Ministro Luis Felipe Salomão, DJe 7/4/2021)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AÇÃO TRABALHISTA. DEPÓSITOS RECURSAIS.
+1. Após o deferimento da recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+ ..
+3. Agravo interno não provido.
+(AgInt no CC n. 163.175/GO, Relator o Ministro Ricardo Villas Bôas Cueva, DJe 9/12/2020)
+Há de se reconhecer, assim, a caracterização do conflito, a prevalecer a competência do Juízo recuperacional.
+Ante o exposto, conheço do presente conflito e declaro a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP para deliberar sobre atos constritivos exarados no bojo do Processo de n. 0001085-29.2013.5.03.0043, em curso perante o Juízo da 1ª Vara do Trabalho de Uberlândia - MG.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Dê-se ciência aos juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DARECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DE BENS QUE INTEGRAM O PATRIMÔNIO DA EMPRESA REALIZADOS POR JUÍZO DIVERSO DE ONDE SE PROCESSA O PEDIDO DE SOERGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. RECONHECIMENTO.
