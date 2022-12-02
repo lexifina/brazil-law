@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pelo SINDICATO DOS SERVIDORES MUNICIPAIS DE RIBEIRÃO PRETOcontra decisão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que não admitiu recurso especial fundado naalínea"a"do permissivo constitucional para desafiar acórdão assim ementado (e-STJ fl. 756):
+APELAÇÃO. INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES MUNICIPAIS DE RIBEIRÃO PRETO, GUATAPARÁ E PRADÓPOLIS. PROPAGANDA INSTITUCIONAL. DANO MORAL COLETIVO. NÃO CONFIGURADO. Insurge-se o autor contra publicidade veiculada pela Prefeitura Municipal noticiando a situação deficitária do IPM. Informações objetivas e concisas, com ressalva à ausência de responsabilidade dos aposentados e pensionistas. Não comprovada a conduta danosa, não há se falar em responsabilidade. A pretensa vedação a futuras propagandas esbarra em vedação constitucional à censura. Sentença mantida.
+RECURSO NÃO PROVIDO.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 442 e 489, II, do CPC/2015, sustentando cerceamento de defesa e julgamentocitra petita.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Ausente contraminuta (e-STJ fl. 890).
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, no que toca às alegaçãode julgamento citra petita, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, no que toca à alegação de contrariedade doart. 489, II, do CPC/2015, percebe-se que esse dispositivo não diz respeito diretamente à tese desenvolvidas no apelo nobre (julgamento citra petita), o que revela a deficiência de fundamentação nesse particular, a ensejar o óbice de conhecimento encartado na Súmula 284 do STF.
+Por fim, quanto ao alegado cerceamento de defesa, entendeu aresto hostilizado que a " ..  sentença entendeu ausente um dos elementos da responsabilidade civil, qual seja, a conduta. Não tendo sido reconhecida a ilegalidade/abusividade da propaganda, não há se falar em dano moral, logo, desnecessária a oitiva das testemunhas", tendo ponderado que aoitavadestas visava a " ..  comprovação do dano moral alegado"(e-STJ fl. 758).
+Dessarte, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
