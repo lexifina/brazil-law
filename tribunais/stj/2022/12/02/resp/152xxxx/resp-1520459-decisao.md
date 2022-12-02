@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA DE SEGUROS PREVIDÊNCIA DO SULfundamentado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. Etapa de cumprimento de julgado (composição por morte em atropelamento produzido por veículo automotor). Exigibilidade do crédito, diretamente contra seguradora, denunciada à lide, nos limites da respectiva apólice (cobertura para danos contra terceiro). Inteligência do artigo 787, do Código Civil. Recurso da seguradora. Desprovimento."
+(e-STJ fl. 170)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, a recorrente alegaviolação dos arts. 458 e 535 do CPC/73 e 1.452 do CC/16. Além da negativa de prestação de tutela jurisdicional adequada, sustenta que o v. acórdão recorrido desconsiderou ser da essência do contrato de seguro a relação jurídica estrita entre o segurado e a seguradora, não havendo que se falar em obrigação desta em relação a terceiro.
+Contrarrazões apresentadas às fls. 211-228.
+É o relatório. Decido.
+Para melhor compreensão do debatedos autos, importa esclarecerque o presente recurso foi interposto no bojo de agravo de instrumento, o qual impugna decisão de penhora proferida emexecução de título judicial. O título judicial exequendo se refereàsentença,transitadaem julgado antes da reforma de 2005 do CPC/73,por meio da qual sefixou indenização em favor dos sucessores davítima de acidente automobilístico,condenando o causador do acidentes etambém a seguradora. A própria recorrente noticia em seu recurso especial ter integradoa ação de conhecimento, sendo portanto devedora, nos termos da sentença.
+No que tange à alegação de violação do arts. 459 e 535do CPC/73, extrai-se do acórdão recorrido que o eg. Tribunal local decidiu a lide em sua inteireza, indicando, de forma clara e expressa, os fundamentos utilizados comorazão de decidir. É o que se extrai do seguinte trecho do v. acórdão recorrido:
+"Seguro de responsabilidade civil, da vítima ou beneficiários (hipótese dos autos, tratando-se de sucessores de vítima levada a óbito em atropelamento produzido por veículo automotor) o direito de demandar a liquidação do crédito, também contra a seguradora, evidentemente nos limites da respectiva apólice (artigo 787, do Código Civil).
+Afinal, nessa modalidade de contratação, o beneficiário do seguro é o terceiro, por isso que, à seguradora, somente aproveita possível liberação, pagando diretamente ao terceiroou, em reembolso ao segurado, provando este a adequada composição da cobertura, motu próprio, exibindo recibo do beneficiário.
+Sem qualquer fomento jurídico acenada liberação da seguradora, à consideração de acordo entabulado unicamente com a segurada e - pior -, já sabedora do estado de insolvência da segurada, com evidente prejuízo das credoras, de molde a frustrar a exequibilidade do título condenatório."
+(e-STJ fls. 171-172)
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Logo, não se pode cogitar de vícios dos arts. 458 e535 do CPC/73.
+Dito isso, verifica-se que, de fato, o eg. Tribunal de origem não se manifestou acerca do conteúdo do art. 1.452 do CC/16, o que resulta na ausência de prequestionamento e aplicação da Súmula 211 do STJ à hipótese dos autos.
+Por oportuno, assenta-se que a ausência de manifestação, entretanto, não caracteriza vício de omissão, porquanto, como visto, o v. acórdãorecorrido indicou fundamentação suficiente, mormente porque a obrigação da seguradora já se encontrava definida em título judicial transitado em julgado.
+Com esses fundamentos, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
