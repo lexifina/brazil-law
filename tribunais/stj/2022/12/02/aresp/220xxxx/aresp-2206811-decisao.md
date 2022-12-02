@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTARinterposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+ADMINISTRATIVO. ANS. PLANO DE SAÚDE. IMPLANTE COCLEAR. OPÇÃO POR MÉDICO NÃO CREDENCIADO À OPERADORA. LIMITAÇÃO CONTRATUAL.INEXISTÊNCIA DE HIPÓTESE DE EXCEPCIONALIDADE. NEGATIVA DE COBERTURA. NÃO OCORRÊNCIA. MULTA. INDEVIDA.
+1. Na hipótese vertente, foi relatado à ANS, em 27/03/2014, que a beneficiária solicitou à Operadora autorização para a realização de implante coclear, em 13/03/2014, sendo-lhe negada a autorização, em razão do médico solicitante não pertencer à rede credenciada, a despeito da família da beneficiária ter se comprometido a arcar com os honorários médicos.
+2. Consta do Auto de Infração nº 3908/2016, datado de 06/04/2016, que a autora infringiu o disposto no artigo 12, II, da Lei nº 9.656/98, pela constatação da conduta prevista no artigo 77, da RN nº 124/06, ao "deixar de garantir cobertura para implante coclear para a beneficiária Maria Clara Bordalho Teodoro em março de 2014".
+3. A orientação do c. Superior Tribunal de Justiça é no sentido de que "somente é exigível que os planos de saúde custeiem tratamento médico realizado por profissional não credenciado nas hipóteses de emergência ou urgência, inexistência de estabelecimento credenciado no local ou recusa do hospital conveniado" (AgInt no AREsp 1236879/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/08/2018, DJ e 05/09/2 018).
+4. Verifica-se, na espécie, que o contrato firmado entre a autora e a beneficiária exclui de sua cobertura, exceto nos casos de urgência e emergência, as despesas com hospitais, médicos e entidades não credenciadas, não contemplando, pois, a livre escolha de prestadores.
+5. Não há, nos autos, prova alguma que ateste a falta de capacidade dos médicos credenciados, tampouco a falta de estrutura de hospitais e clínicas da rede credenciada.
+6. Inexistindo hipótese de excepcionalidade, não se tratando de situação de emergência ou urgência e porquanto fundada em cláusula contratual expressa que restringe a cobertura do plano à rede credenciada, a recusa da autora em autorizar procedimento de implante coclear realizado por médico particular não se mostra abusiva.
+7. Não caracterizado, portanto, o descumprimento da Lei nº 9.656/98 e demais normas regulamentares, a justificar a imposição da pena pecuniária.
+8. Apelação provida.
+Foram rejeitados os embargos de declaração. Nas razões do recurso especial, a recorrente aponta violação aoartigo 12, II, "a", da Lei n. 9.656/98, alegando que a jurisprudência do STJ entende que o beneficiário deve ser reembolsado quando, mesmo não se tratando de caso de urgência ou emergência, optar pelo atendimento em estabelecimento não contratado, credenciado ou referenciado pela operadora, respeitados os limites estabelecidos contratualmente.
+Não foram apresentadas contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado no argumento de querevisitar a conclusão do acórdão pressupõe revolvimento do acervo fático-probatório dos autos, inviável no âmbito de recurso especial, nos termos do entendimento consolidado na Súmula 7 do Superior Tribunal de Justiça.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+É o relatório. Passo a decidir.
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem decidiu a controvérsia nos seguintes termos:
+Na hipótese vertente, foi relatado à ANS (ID 147633414  pág. 8), em 27/03/2014, que a beneficiária solicitou à Operadora autorização para a realização de implante coclear, em 13/03/2014, sendo-lhe negada a autorização, em razão do médico solicitante não pertencer à rede credenciada, a despeito da família da beneficiária ter se comprometido a arcar com os honorários médicos.
+Consta do Auto de Infração nº 3908/2016 (ID 147633415 pág. 8), datado de 06/04/2016, que a autora infringiu o disposto no artigo 12, II, da Lei nº 9.656/98, pela constatação da conduta prevista no artigo 77, da RN nº 124/06, ao "deixar de garantir cobertura para implante coclear para a beneficiária Maria Clara Bordalho Teodoro em março de 2014".
+O artigo 12, inciso II, alínea "a", da Lei nº 9.656/98 dispõe, in verbis:
+Art. 12 São facultadas a oferta, a contratação e a vigência dos produtos de que tratam o inciso I e o §1º do art. 1º desta Lei, nas segmentações previstas nos incisos I a IV deste artigo, respeitadas as respectivas amplitudes de cobertura delineadas no plano-referência de que trata o art. 10, segundo as seguintes exigências mínimas: (Redação dada pela Medida Provisória nº 2.177-44 de 2001)
+II - quando incluir internação hospitalar:
+a) cobertura de internações hospitalares, vedada a limitação de prazo, valor máximo e quantidade, em clinicas básicas e especializadas, reconhecidas pelo Conselho Federal de Medicina, admitindo-se a exclusão dos procedimentos obstétricos. (Redação dada pela Medida Provisória nº 2177-44, de 2001)
+Por seu turno, o artigo 77, da Resolução Normativa ANS nº 124/2006 determina:
+Art. 77. Deixar de garantir ao beneficiário acesso ou cobertura previstos em lei. (Redação dada pela RN nº 396, de 25/0 1/20 16)
+Sanção- muda de R$ 80.000,00.
+A orientação do c. Superior Tribunal de Justiça é no sentido de que "somente é exigível que os planos de saúde custeiem tratamento médico realizado por profissional não credenciado nas hipóteses de emergência ou urgência, inexistência de estabelecimento credenciado no local ou recusa do hospital conveniado". Confira-se: (..)
+Verifica-se, na espécie, que o contrato firmado entre a autora e a beneficiária exclui de sua cobertura, exceto nos casos de urgência e emergência, das despesas com hospitais, médicos e entidades não credenciadas, não contemplando, pois, a livre escolha de prestadores. Vejamos:
+CLÁUSULA IV EXCLUSÕES DE COBERTURA
+Em conformidade com o que prevê a Lei nº 9.655/1998, e respeitando-se as coberturas mínimas obrigatórias previstas na citada Lei e no Rol de Procedimentos e Eventos em Saúde da ANS, estão excluídos da cobertura do Plano os eventos e despesas decorrentes de atendimentos, serviços ou procedimentos não previstos no Rol de Procedimentos e Eventos em Saúde da ANS vigente à época do evento e os provenientes de:
+Despesas com hospitais, médicos e entidades não credenciadas e não relacionadas no Manual de Orientação oferecido pela CONTRATADA, exceto nos casos de urgência e emergência.
+CLÁUSULA IX - ACESSO A LIVRE ESCOLHA DE PRESTADORES
+Este contrato não contempla este benefício.
+Não há, nos autos, prova alguma que ateste a falta de capacidade dos médicos credenciados, tampouco a falta de estrutura de hospitais e clínicas da rede credenciada.
+Assim, inexistindo hipótese de excepcionalidade, não se tratando de situação de emergência ou urgência e porquanto fundada em cláusula contratual expressa que restringe a cobertura do plano à rede credenciada, a recusa da autora em autorizar procedimento de implante coclear realizado por médico particular não se mostra abusiva.
+Não caracterizado, portanto, o descumprimento da Lei nº 9.656/98 e demais normas regulamentares, a justificar a imposição da pena pecuniária. (destaquei)
+Nota-se que a Corte a quo concluiu quea recusa da autora em autorizar procedimento de implante coclear realizado por médico particular não se mostra abusiva, pois o contrato firmado entre a recorrente e a beneficiária exclui de sua cobertura, exceto nos casos de urgência e emergência (o que não restou caracterizado), despesas com hospitais, médicos e entidades não credenciadas, não contemplando a livre escolha de prestadores.
+Depreende-se das razões da recorrente que o recurso especial não impugnou o fundamento basilar que ampara o acórdão recorrido.Sendo assim, como a fundamentação utilizada pelo Tribunal a quo para formar seu convencimento é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais,alterar a conclusão do acórdão recorrido demandaria interpretação de cláusula contratual e revisão do acervo fático-probatório, o que é vedado pelas Súmulas 5 e 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PODER DE POLÍCIA. ANS. PLANO DE SAÚDE. IMPLANTE COCLEAE. MÉDICO NÃO CREDENCIADO. CONTRATO. NEGATIVA DE COBERTURA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO BASILAR DO ACÓRDÃO. SÚMULA 283/STF.REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. SÚMULA 7/STJ. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA 5/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
