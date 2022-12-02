@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 243):
+APELAÇÃO CRIMINAL - INSURGÊNCIA DEFENSIVA - TRÁFICO DE ENTORPECENTES - PLEITO ABSOLUTÓRIO - INCABÍVEL - PROVAS SEGURAS E SUFICIENTES - ALTERAÇÃO DO REGIME PRISIONAL - INVIABILIDADE - RECURSO IMPROVIMENTO.
+I. Inviável falar em absolvição, pois os relatos dos policiais responsáveis pela apreensão da droga somados a confissão do recorrente, bem como a própria dinâmica dos fatos, não deixa remanescer dúvida séria quanto à autoria e materialidade da infração irrogada ao apelante na exordial acusatória.
+II. A reprimenda sopesada ao apelante em 05 anos e 05 meses de reclusão, a presença da circunstância judicial negativa (maus antecedentes) e a reincidência, obstam a aplicação do regime prisional semiaberto, motivo pelo qual não acolho o pleito defensivo, mantendo o regime inicial de cumprimento de pena fechado.
+III. Com parecer, recurso improvido.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 5 meses de reclusão, em regime inicial fechado, e 541 dias-multa.
+No presente writ, aduz a defesa a desproporcionalidade do regime prisional mais gravoso, argumentando que as circunstâncias judiciais são"amplamente favoráveis ao Paciente que teve a pena-base fixada próximo ao mínimo legal" (fl. 8).
+Requer, liminarmente e no mérito, a fixação do regime semiaberto, conforme estabelecido no art. 33, § 2º, b, e § 3, do Código Penal.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Acerca do regime prisional, consta do acórdão impetrado (fl. 247):
+Não obstante o esforço argumentativo desenvolvido pelo combativo Defensor Público, não há como desconsiderar que, de acordo com a exegese dos artigos 33, §§ 2º e 3º, do Código Penal e a Súmula 269 do STJ, a reprimenda sopesada ao recorrente em 05 anos e 05 meses de reclusão, a presença da circunstância judicial negativa (maus antecedentes) e a reincidência, obstam a aplicação do regime prisional semiaberto, motivo pelo qual não acolho o pleito defensivo, mantendo o regime inicial de cumprimento fechado.
+Na hipótese, fixada pena em patamar superior a 4 e inferior a 8 anos de reclusão, havendo circunstâncias judiciais desfavoráveis (maus antecedentes, além da quantidade de droga apreendida, nos termos do art. 42 da Lei 11.343/2006, tratando-se de1,745kg de maconha) etratando-se de acusado reincidente, mostra-se adequado o regime inicial fechado, a teor do art. 33, § 2º, b, c.c.§ 3º, do CP, não havendo ilegalidade a ser sanada. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. PLEITO DE CONCESSÃO DA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006 E DE ALTERAÇÃO DO REGIME PRISIONAL PARA O INÍCIO DO CUMPRIMENTO DA REPRIMENDA. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA APTA A ENSEJAR A CONCESSÃO DA ORDEM, DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de Santa Catarina já transitado em julgado, de modo que não deve ser conhecido, pois manejado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte.
+2. Não há flagrante ilegalidade a ser sanada de ofício, pois, no caso, a incidência do art. 33, § 4.º, da Lei n. 11.343/2006, foi afastada em razão de elementos probatórios concretos que indicam o envolvimento habitual do Agravante com a criminalidade. Além disso, o regime carcerário inicial fechado está de acordo com a literalidade do art. 33, §§ 2.º e 3.º, do Código Penal, tendo em vista o quantum da pena imposta (acima de quatro anos) e a existência de circunstância judicial desfavorável.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 775.357/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/10/2022, DJe de 3/11/2022.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
