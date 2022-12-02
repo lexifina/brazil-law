@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por IRESOLVE COMPANHIA SECURITIZADORA DE CREDITOS FINANCEIROS S.A em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RECURSO  Agravo de Instrumento - Como as decisões embargada e a que julga os embargos de declaração compreendem um único ato decisório, esse ato é suscetível de impugnação pelo recurso próprio em razão da natureza jurídica do ato judicial que decidiu os embargos de declaração - Recurso cabível contra sentença é a apelação e não o agravo de instrumento (art. 1.009, CPC/2015) - R. ato judicial recorrido rejeitou embargos de declaração oferecidos pela parte agravante contra r. sentença que julgou extinta a ação monitória, em fase de conhecimento, sem julgamento do mérito, nos termos do art. 485, III, CPC - R.
+decisão recorrida integra a r. sentença embargada, de forma que deve ser impugnada mediante o recurso cabível contra sentença  Agravo de instrumento interposto pela parte autora não pode ser conhecido.
+Recurso não conhecido." (e-STJ fl. 1017)
+Os embargos de declaração foram rejeitados (fls. 1029/1032).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 489, incisos III, IV e V, do §1 2 e §3 2 , art. 492, 493, 494, inciso II, art. 1.022, incisos I, II e III, além do art. 1.026, todos do CPC, e divergência jurisprudencial, sustentando, em síntese, que a decisão de primeiro grau, que deixou de conhecer dos embargos de declaração interpostos contra a sentença e determinou a certificação do decurso de prazo para recorrer é impugnável por agravo, e não por apelação, pois nela o juiz de primeiro grau sequer conheceu do recurso e não ingressou nos pontos destacados pela Recorrente.
+Aduz que não conhecer dos embargos de declaração tempestivamente opostos e determinar à Serventia que promova a certificação do decurso do prazo prejudica a parte, a quem assiste o direito de se utilizar de todos os recursos cabíveis para a ampla defesa e do contraditório garantidos pela Constituição Federal, ainda mais quando de fato há matéria para ser embargada.
+Defende que diante do não enfrentamento da questão de fundo posta nas razões, tanto do agravo, quanto dos embargos opostos contra o acórdão que não conheceu do agravo, houve falha na fundamentação.
+Contrarrazões ao apelo nobre (fls. 1062/1065).
+É o relatório. Decido.
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da recorrente, senão vejamos.
+Cuida-se de acórdão recorrido no qual o eg. Tribunal de origem não conheceu do agravo de instrumento interposto pelo recorrente por entender que a decisão que não conheceu dos embargos de declaração opostos contra a sentença que extinguiu o feito é recorrível por apelação, in verbis:
+"3.1. Como as decisões embargada e a que julga os embargos de declaração compreendem um único ato decisório, esse ato é suscetível de impugnação pelo recurso próprio em razão da natureza jurídica do ato judicial que decidiu os embargos de declaração.
+(..)
+3.2. O recurso cabível contra sentença é a apelação e não o agravo de instrumento (art. 1.009, CPC/2015).
+3.3. Nos termos do art. 203, §1º, do CPC/2015: "Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução" (o destaque não consta do original).
+Na espécie, o r. ato judicial recorrido rejeitou embargos de declaração oferecidos pela parte agravante contra r. sentença que julgou extinta a ação monitória, em fase de conhecimento, sem julgamento do mérito, nos termos do art. 485, III, CPC (fls. 739  fls. 712 dos autos de origem).
+Nos termos da orientação adotada, a r. decisão recorrida integra a r. sentença embargada, de forma que deve ser impugnada mediante o recurso cabível contra sentença.
+Desta forma, somente pode ser admitida a apelação como o recurso cabível contra o ato judicial impugnado no presente recurso.
+Isto é o quanto basta para o não conhecimento do recurso." (e-STJ fl. 1020/1021)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ROL DO ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. MODULAÇÃO DOS EFEITOS. DECISÃO AGRAVADA. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA SENTENÇA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. ERRO GROSSEIRO. APELAÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Tema Repetitivo n. 988: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+2. Esta tese foi firmada pela eg. Corte Especial, na sessão de 05/12/2018, nos autos do REsp 1.696.396/MT e do REsp 1.704.520/MT, ambos de relatoria da em. Ministra Nancy Andrighi, cujos acórdãos foram publicados em 19/12/2018.
+3. Nesse julgamento, modulando os efeitos do decisum, foi consignado que a referida tese somente se aplicaria às decisões interlocutórias proferidas após a publicação desses acórdãos. O objetivo da modulação é resguardar da alegação de "preclusão consumativa" os litigantes que - antes da publicação destes acórdãos - não interpuseram agravo de instrumento porque entendiam que o rol do art. 1.015 do CPC/2015 era taxativo, e, por tal razão, deixaram de recorrer.
+4. No caso, a decisão agravada deve ser reformada, porque, equivocadamente, entendeu que a referida modulação de efeitos leva à conclusão de que o "agravo de instrumento" somente seria cabível para as decisões interlocutórias proferidas após 19/12/2018, data da publicação dos acórdãos em que foi fixada a tese do "Tema Repetitivo n. 988".
+5. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que se considera erro grosseiro a interposição de agravo de instrumento contra embargos declaratórios opostos de sentença, porquanto, tratando-se de decisão integrativa da sentença, o recurso cabível é apelação. Precedentes.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial, por outro fundamento.
+(AgInt no AREsp n. 1.890.620/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO INTERPOSTO CONTRA DECISÃO PROFERIDA NOS EMBARGOS DE DECLARAÇÃO OPOSTOS À SENTENÇA. ERRO GROSSEIRO. PRECEDENTES.
+1. A decisão proferida nos embargos de declaração integra a sentença e deve ser atacada por recurso de apelação. A interposição de agravo é considerada erro grosseiro.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 839.564/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/5/2016, DJe 27/5/2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM CONTRA EMBARGOS DE DECLARAÇÃO OPOSTOS EM FACE DE SENTENÇA. ERRO GROSSEIRO. INTELIGÊNCIA DO ART. 513 DO CPC.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil.
+2. Quando o magistrado decide a causa com base nos arts. 267 e 269 do CPC, é facultado à parte manejar o recurso de apelação para a instância superior na forma do art. 513 do diploma processual. No caso dos autos, a recorrente deveria ter interposto apelação da sentença que não conheceu dos embargos de declaração por intempestividade e, não, agravo de instrumento como fez. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.333.998/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/6/2013, DJe de 13/6/2013.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
