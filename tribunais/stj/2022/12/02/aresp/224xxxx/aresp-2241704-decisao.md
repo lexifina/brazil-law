@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  ITAU UNIBANCO S.A,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Goiás,  assim  ementado  (fl.  189,  e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE DECLARAÇÃO DEPRESCRIÇÃO E DESCONSTITUIÇÃO DE HIPOTECA. FALTA DEINTERESSE RECURSAL. FORMA DE FIXAÇÃO DA VERBAHONORÁRIA. VALOR DA CAUSA ELEVADO. TEMA 1.076, DO STJ.1. Apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los.2. A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. Nesses casos, é obrigatória a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC (Tema 1.076, do STJ). APELO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 211-224, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa ao artigo 1.022 do CPC.
+Sustenta,  em  síntese,a nulidade do acórdão em razão de omissão acerca da causalidade para fins de fixação da verba sucumbencial, pois a recorrente teria apenas demonstrado a validade do seu crédito e da hipoteca, não havendo oposição à sua baixa.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  357-360,  e-STJ).  Contraminuta  às  fls.  365-367,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. Alega o recorrente violação aoart. 1.022do CPC, ao argumento de deficiência na fundamentação em razão de omissão e obscuridade no acórdão recorrido, não sanadas quando do julgamento dos embargos de declaração.
+Sustenta que o acórdão fora omisso sobre a causalidade para fins de fixação da verba sucumbencial, pois a recorrente teria apenas demonstrado a validade do seu crédito e da hipoteca, não havendo oposição à sua baixa.
+Razão não lhe assiste, no ponto.
+Não se vislumbram os alegados vícios, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, conforme se infere às fls. 221-222, e-STJ:
+Do exame dos autos, observa-se que o banco embargante opõe-se ao acórdão recorrido afirmando não ter sido apreciado seu pedido de inversão dos ônus sucumbenciais, com base no princípio da causalidade, uma vez que não houve resistência injustificada.
+Sem razão, contudo, a parte embargante.
+É que a ação objetivava o reconhecimento da prescrição e desconstituição da hipoteca, e foi julgada procedente, de forma que a sucumbência, inegavelmente, é do banco embargante.
+Ademais, o princípio da causalidade não lhe socorre, porquanto a prescrição da obrigação somente foi reconhecida, com baixa da hipoteca, após a propositura da demanda, de forma que o fato de próprio banco não ter resolvido essa questão na via extraprocessual foi o que ensejou a propositura da demanda.
+O acórdão recorrido, portanto, é claro, íntegro e não está eivado de qualquer nulidade a maculá-lo.
+Foram feitas expressas menções ao princípio da causalidade e das razões pelas quais ele não socorre a recorrente.
+Esclareceu a Cortea quoque a ação objetivava a baixa da hipoteca e o reconhecimento da prescrição, que somente foi reconhecida após a propositura da demanda, não tendo o banco resolvido essa questãona via extraprocessual, mas apenas com a procedência da ação proposta pela recorrida.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA.  ..  1. Não há ofensa ao art. 535 do CPC, pois o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. 2. O Tribunal de origem por ocasião do julgamento do recurso examinou as questões, embora de forma contrária à pretensão do recorrente, não existindo omissão a ser sanada.  ..  5. Agravo regimental improvido. (AgRg no AREsp 627.146/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2015, DJe 29/10/2015)  grifou-se
+PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 535, 826 E 927 DO CPC. OMISSÃO. INEXISTENTE. JULGADO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO FIRMADA COM BASE NA MATÉRIA FÁTICO-PROBATÓRIA. SÚM. 7/STJ. DISSÍDIO INTERPRETATIVO. NÃO OBEDIÊNCIA AOS TERMOS REGIMENTAIS. REGIMENTAL NÃO PROVIDO. 1. Não se configurou a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos aos autos pelas partes. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.  ..  4. Agravo regimental não provido. (AgRg no AREsp 498.536/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/09/2015, DJe 16/09/2015)  grifou-se
+Como se vê, não se vislumbra omissão ou obscuridade, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aoreferidodispositivo.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação aoartigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2.Do exposto, conheço do agravo para não conhecer do recurso especial.
+Com base no art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem.
+Publique-se.
+Intimem-se.
