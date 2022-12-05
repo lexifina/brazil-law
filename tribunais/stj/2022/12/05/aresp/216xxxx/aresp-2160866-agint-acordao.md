@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município de Salvadorcontra decisão que negou provimento ao agravo em recurso especial, ante aausência de negativa de prestação jurisdicional e com base na incidência das Súmulas 284/STF e 7/STJ(fls. 176/179).
+Inconformado, o agravante reitera a negativa de prestaçãojurisdicional, sob o argumento de que, "No que se refere à ausência de negativa de prestação jurisdicional, o agravante demonstrou que, além de se tratar de análise que se encontra fora do âmbito de competência do Tribunal a quo (juízo de mérito), o órgão jurisdicional não teria enfrentado todos os argumentos suscitados pela parte e que teriam o condão de alterar a conclusão adotada, em violação ao art. 498, §1º, IV, do CPC.Assim, como se vê, este fundamento foi especificamente impugnado, destacando-se o dever do órgão jurisdicional de enfrentar todos os argumentos suscitados para que a parte possa suportar decisão desfavorável." (fl. 184).
+No mais, assevera a inaplicabilidade da Súmula 7/STJ ao caso, pois "Não se trata, in casu, de reexame de pressuposto fático da tutela provisória, mas, sim, do exame de violações a normas federais relativas ao dever de fundamentação do órgão jurisdicional, bem assim aos princípios aplicáveis em certames públicos. Cuida-se de violações que podem ser afirmadas em sede de recurso especial e que devem ser conhecidas pelo STJ, inclusive porque se trata de questões jurídicas, afastando, desta forma, a incidência da Sum 7/STJ, pois não é necessário reexame da matéria fático- probatória." (fl. 184).
+Houve manifestação da parte agravada (fls. 187/193).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO.TUTELA ANTECIPADA. NATUREZA PRECÁRIA E PROVISÓRIA DO JULGADO QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. ANÁLISE DOS REQUISITOS AUTORIZADORES. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICONAL. NÃO OCORRÊNCIA.
+1.Verifica-se não ter ocorrido ofensa aos arts. 489, §1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No mais,a Corte de origem manteve decisão anterior que concluiu que estão presentes os requisitos autorizadores para a concessão da tutela de urgência, sendo que a alteração das conclusões adotadas, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que peseaos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, verifica-se não ter ocorrido ofensaaos arts. 489, §1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorávelao interesse da parte com negativa ou ausênciade prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/4/2021).
+A tanto, verifica-se, pela fundamentação do acórdão recorrido (fls. 40/46), integrada em sede de embargos declaratórios (fls. 76/82), que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Outrossim, não se descortina negativa de prestação jurisdicional, ao tão só argumentode o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, reitera-seque, a Corte de origem manteve decisão anterior que concluiu que estão presentes os requisitos autorizadores para a concessão da tutela de urgência, sendo que a alteração das conclusões adotadas, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MEDIDA LIMINAR. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela ausência dos requisitos autorizadores da suspensão da liminar que deferiu a imissão da agravada na posse do imóvel. Alterar esse entendimento demandaria reexame do conjunto fático-probatório, vedado em recurso especial.
+3. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1192819/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/04/2018, DJe 16/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. ANTECIPAÇÃO DOS EFEITOS DA TUTELA.
+REQUISITOS AUTORIZADORES.REEXAME. SÚMULA Nº 7/STJ. PERDA DE OBJETO. PRETENSÃO PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça entende não ser cabível recurso especial para reexaminar decisão que defere ou indefere liminar em pedido de antecipação de tutela, nos casos em que haja necessidade de revisão das premissas de fato adotadas pelas instâncias ordinárias, como no caso, em virtude da incidência da Súmula nº 7/STJ. Precedentes.
+3. A prolação de sentença no feito principal torna prejudicado o agravo de instrumento contra o deferimento de antecipação de tutela e, consequentemente, do recurso especial posteriormente interposto.
+4. Agravo interno não provido.
+(AgInt no AREsp 1141274/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IPVA. SEGURO OBRIGATÓRIO E TAXA DE LICENCIAMENTO. ALIENAÇÃO DE VEÍCULO AUTOMOTOR.
+COMUNICAÇÃO AO ÓRGÃO DE TRÂNSITO POSTERIORMENTE À OCORRÊNCIA DOS FATOS GERADORES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ANÁLISE DOS REQUISITOS. IMPOSSIBILIDADE. SÚMULAS 735/STF E 7/STJ.
+1. A Corte regional, soberana na análise das circunstâncias fáticas e probatórias da causa, concluiu que, em cognição sumária, a cobrança dirigida contra o responsável tributário, no caso dos autos, é legítima.
+2. O STJ possui o entendimento de ser incabível, via de regra, Recurso Especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária,o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+3. Consigne-se, ademais, que a análise do preenchimento dos requisitos autorizadores da concessão da medida liminar reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1706944/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
