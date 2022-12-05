@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO contra decisão unipessoal que conheceu do agravo para conhecer parcialmente o recurso especial que interpusera e, nessa parte, negar-lhe provimento, pelos seguintes fundamentos:falta desimilitude fática na demonstração do dissídio jurisprudencial;divergência jurisprudencial prejudicada pela aplicação das Súmulas 5 e 7/STJ; e harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Ação: revisão de contrato de empréstimo consignado, ajuizada por EURIA LUCIA DE OLIVEIRA AMARANTE, em face da agravante.
+Sentença: julgou procedentes os pedidos, para limitar os juros remuneratórios do contrato à taxa média à época da contratação, ou seja, de 23,33% ao ano; descaracterizar a mora em relação ao contrato; e autorizar a repetição simples do indébito, se verificado pagamento a maior.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. EMPRÉSTIMO PESSOAL CONSIGNADO. PRELIMINAR DE CARÊNCIA DE AÇÃO AFASTADA. RECONHECIMENTO DA PRESCRIÇÃO DECENAL. TAXAS DE JUROS REMUNERATÓRIOS. LIMITAÇÃO ÀS MÉDIAS DIVULGADAS PELO BACEN PARA A MESMA MODALIDADE E PERÍODO DE CONTRATAÇÃO. ADMITIDA A REPETIÇÃO DO INDÉBITO, NA FORMA SIMPLES. HONORÁRIOS MAJORADOS, NOS TERMOS DO §11 DO ART. 85 DO CPC. RECURSO DESPROVIDO.
+Recurso especial: alega a existência de dissídio jurisprudencial. Sustenta que: i) a abusividade dos juros remuneratórios não deve ser constatada mediante mera comparação entre a taxa contratada e a taxa média de mercado (tabela do BACEN), devendo ser analisadas as peculiaridades do caso em concreto; ii) a intervenção do Poder Judiciário na revisão da taxa de juros só é admitida em situações excepcionais.
+Decisão monocrática:conheceu do agravo para conhecer parcialmente do recurso especial interposto pela agravante e, nessa parte, negou-lhe provimento.
+Agravo interno:em suas razões, a agravante afirma que: i) não se busca reexame das provas ou cláusulas contratuaise sim uma nova valoração das provas já especificadas e delineadas na decisão recorrida; ii) busca demonstrar o manifesto confronto com decisões do STJ, inclusive recurso repetitivo sobre a matéria, ao declarar abusividade mediante mera comparação entre taxas contratadas, olvidando-se de uma análise mais minuciosa da contratação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. EMPRÉSTIMO CONSIGNADO. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULAS 5 E 7 DO STJ. PREJUDICADO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de revisão de contrato de empréstimo consignado.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado. Precedente Repetitivo da 2ª Seção.
+5. Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto. Precedentes.
+6. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, ante afalta de similitude fática na demonstração do dissídio jurisprudencial; a divergência jurisprudencial prejudicada pela aplicação das Súmulas 5 e 7/STJ; e a harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+1. Da divergência jurisprudencial
+Verifica-se que os arcabouços fáticos dos julgados cotejados são divergentes. O acórdão recorrido concluiu pela abusividade dos juros remuneratórios com a análise das peculiaridades do caso concreto.
+Assim, o recurso especial, fundamentado na alínea "c" do permissivo constitucional, apenas traz jurisprudência que a agravante entende divergir do acórdão recorrido, sem, contudo, comprovar a existência de similitude fática, elemento indispensável à demonstração da divergência. Logo, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Além disso, a incidência das Súmulas 5 e 7 desta Corte acerca do tema que se supõe divergente (abusividade dos juros remuneratórios), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+2. Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+Por fim, ao entender pela abusividade dos juros remuneratórios, o TJ/RS aplicou de forma adequada a jurisprudência do STJ no sentido de que: i)a taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil (REsp 1.061.530/RS, 2ª Seção, DJe de 10/3/2009); ii)para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto (AgInt no AREsp n. 1.942.512/RS, 4ª Turma, DJe de 10/3/2022; AgInt no AREsp n. 1.823.166/RS, 4ª Turma, DJe de 24/2/2022; AgInt no REsp n. 1.930.618/RS, 3ª Turma, DJe de 27/4/2022; e AgInt no AREsp n. 1.643.166/SP, 3ª Turma, DJe de 27/11/2020).
+A agravante não trouxe qualquer argumento novo capaz de demonstrar, de forma consistente, que os precedentes indicados não se aplicam à hipótese dos autos ou foram superados.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
