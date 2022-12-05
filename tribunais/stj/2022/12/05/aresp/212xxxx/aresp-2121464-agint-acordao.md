@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  GAFISA S.A.  contra  a  decisão  da Presidência desta Corte  (fls.  1.215/1.217,  e-STJ)  que  conheceu  do  agravo  para  não conhecer do recurso especial.
+Nas  presentes  razões,  a  agravante  aduz  que a matéria veiculada nas razões do apelo especial ostenta natureza estritamente jurídica e não demanda incursão aos elementos probatórios dos autos. Alega que houve a devida comprovação da divergência jurisprudencial.
+Considera incabível o pagamento de indenização à agravada.Defende a redução do montante indenizatório.
+Pleiteia a acolhimento do presente inconformismo a fim de que seja dado provimento ao agravo em recurso especial.
+Sem impugnação.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO EM  RECURSO  ESPECIAL.  AÇÃO  DE  REVISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL.UNIDADE IMOBILIÁRIA. ENTREGA. ATRASO.RESPONSABILIDADE. DANO MORAL. MONTANTE INDENIZATÓRIO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Considera-se  deficiente  de  fundamentação  o  recurso  especial  que  não  indica  os  dispositivos  legais  supostamente  violados  pelo  acórdão  recorrido,  circunstância  que  atrai  a  incidência,  por  analogia,  da  Súmula  nº  284  do  Supremo  Tribunal  Federal.
+3.  Para  rever  a  conclusão  da  Corte  local  acerca da configuração do dano moral e do patamar indenizatório,  seria  necessária  a  análise  de  fatos  e  de  provas  dos  autos,  procedimento  inviável  em  recurso  especial,  em virtude do  óbice  da  Súmula  nº  7/STJ.
+4.  O Superior Tribunal de Justiça entende que  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A irresignação  não  merece  prosperar.
+Com efeito, as conclusões do tribunal de origem acerca da configuração do dano moraldecorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"Em relação ao dano moral, entendo que seus pressupostos estão configurados. Destarte, o excessivo atraso na entrega da unidade imobiliária, bem como a ausência de observânciapor parte dos réus, em prestar informações claras sobre os diferentes produtos e serviços supera, em muito, o mero aborrecimento.
+Contudo, observo que na peça inaugural o pedido de compensação a título de danos morais foi expresso na quantia de R$5.000,00 (cinco mil reais). No entanto, a sentença a arbitrou em R$ 10.000,00, portanto, acoimada de vício de julgamento ultra petita, razão pela qual o julgado merece o decote nesta verba, em estrita observância ao princípio da congruência.
+Concluo, portanto, que a sentença merece pequeno reparo. Ante todo o exposto, voto no sentido de CONHECERD OS RECURSOS E DESPROVÊ-LOS. E, de ofício, fixo a verba arbitrada a título de danos morais na quantia de R$5.000,00 (cinco mil reais) a fim de adequar a prestação jurisdicional ao pedido formulado na peça inaugural.Mantenho, no mais, a sentença tal como lançada. Majoro os honorários advocatícios em 2% (dois por cento) a título de sucumbência recursal para cada recorrente."(fls. 1.067/1.068, e-STJ - grifou-se).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal, acerca da ocorrência do dano, da sua extensão e do montante indenizatóriodemandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra incabívelante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL C/C REPARAÇÃO POR DANOS MATERIAIS E MORAIS. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. NÃO OCORRÊNCIA. DANO MORAL. SITUAÇÃO CONCRETA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. REVISÃO DO VALOR. IMPOSSIBILIDADE.
+1. Rescisão contratual c/c reparação por danos materiais e morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Alterar o decidido no acórdão recorrido no tocante ao atraso na entrega do imóvel e configuração do dano moral, exige o reexame de fatos e provas, procedimento que é vedado pela Súmula 7/STJ.
+5. A alteração do val or fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada, o que não está caracterizado na hipótese dos autos.
+6. Agravo interno não provido."(AgInt no AREsp n. 1.984.661/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou entendimento de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não é o caso dos autos.
+3. Quanto a alegada impossibilidade de alteração de ofício do termo inicial da correção monetária, assinalou o acórdão recorrido que se aplica ao caso a Súmula n.º 362 do STJ. Ocorre que esse fundamento, suficiente por si só para manter a conclusão do julgado, não foi objeto de impugnação específica nas razões do recurso especial, incidindo, à hipótese, o comando da Súmula n.º 283 do STF, por analogia.
+4. Agravo interno não provido."(AgInt nos EDcl no AREsp n. 1.850.098/RJ, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DO CONTRATO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS MORAIS CONFIGURADOS DE FORMA EXCEPCIONAL. OFENSA A DIREITOS DA PERSONALIDADE QUE EXASPERAM MERO DISSABOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. COBRANÇA DE COMISSÃO DE CORRETAGEM. AUSÊNCIA DE PREVISÃO NO CONTRATO. SÚMULA 5/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou a ocorrência de danos morais na espécie, tendo em vista que a demora na entrega do imóvel adquirido na planta, excepcionalmente neste caso, gerou significativa e anormal violação do direito da personalidade do promitente-comprador, em razão de transtornos que ocasionaram angústia, apreensão, intranquilidade e dificuldades.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Na hipótese, o eg. Tribunal estadual, com arrimo nas peculiaridades do caso concreto, concluiu pela inexistência de previsão no contrato quanto à cobrança de comissão de corretagem, assim como o valor não fora transcrito na cláusula descritiva do montante devido, não sendo possível a retenção dos valores pagos a título de comissão de corretagem. Para modificar esse entendimento, seria necessário analisar as cláusulas contratuais, providência incompatível com o recurso especial, a teor da Súmula 5/STJ.
+4. Agravo interno desprovido." (AgInt no AREsp n. 2.042.494/MA, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022).
+Registre-se, outrossim, que, consoante ajurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO CONSUMADA. DESCONSTITUIÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ANÁLISE FEITA COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Rever as conclusões das instâncias ordinárias quanto à ocorrência de prescrição da ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais exige, necessariamente, a incursão no material fático-probatório dos autos, notadamente porque as alegações da recorrente são no sentido de considerar outro termo inicial para a contagem do prazo prescricional, o que atrai a aplicação da Súmula 7/STJ.
+2. No que toca ao conhecimento do apelo especial por divergência jurisprudencial, também não colhe êxito. Isso porque julgado fundado em fatos e provas (incidência da Súmula 7/STJ) não enseja a possibilidade de demonstração da similitude fática, conforme tranquilo entendimento desta Corte Superior.
+3. Agravo interno desprovido." (AgInt no AREsp 1.114.253/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/11/2017 - grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
