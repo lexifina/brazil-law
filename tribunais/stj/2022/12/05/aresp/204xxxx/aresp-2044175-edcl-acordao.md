@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Benedito Gonçalves.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA:Trata-se de embargos de declaraçãoopostos por Consórcio Metropolitano 5contra acórdão proferido pela Primeira Turma deste Sodalício, assim ementado (fls. 298/299):
+ADMINISTRATIVO E PROCESSUAL CIVIL.AGRAVO INTERNO.CONTROVÉRSIA DIRIMIDA PELO TRIBUNALA QUOMEDIANTE FUNDAMENTAÇÃO SUFICIENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. DECISÃO PRECÁRIA. NÃO CABIMENTO DE RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 735/STF. REQUISITOS PARA CONCESSÃO DA MEDIDA LIMINAR. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1.Não ocorre ofensaaos arts. 489, § 1º, IV, e1.022do CPC quanto à omissão suscitada, na medida em que a Corte de origem dirimiu, fundamentadamente, as questõesque lhe foramsubmetidas eapreciouintegralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2.Não é cabível, em regra, recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem em decisões precárias e/ou interlocutórias.
+3. Esse entendimento é aplicável ao caso em exame, visto que a parte ambiciona discutir questão relativa à análise das provas para inexigibilidade de multa contratual, a qual ainda poderá ser revista quando da prolação da sentença e no respectivo julgamento da apelação.Dessarte, na hipótese dos autos, não se está, ainda, diante de "causa decidida em única ou última instância"apta a ensejar a abertura da via especial, o que atrai a incidência da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+4. Aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que se encontram presentes os requisitos para a concessão da medida liminar reivindicada na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+Aparte embargante sustenta, em resumo, a existência de omissão no julgado, que não teria se manifestado sobre os argumentos apresentados no agravo interno, mormente quanto às "condutas do tribunal de origem de ocultaçãode elementos capazes de confirmar a probabilidade do direito, divergência com as provas dos autos e decisão surpresa" (fls. 313/314).
+Aduz a efetiva negativa de prestação jurisdicional pela Corte de origem e a inaplicabilidade das vedações sumulares. Afirma que "não se trata de análise contrária ao interesse da parte, mas da não análise" (fl. 316) e que se trata de "questão exclusivamente jurídica saber se a prolação de decisão desconsiderando prova capaz de infirmá-la viola ao art. 371, do Código de Processo Civil" (fl. 317).
+Requer, desse modo, o acolhimento dos aclaratórios para que seja dado provimento ao recurso especial.
+Impugnação do agravado às fls.338/341.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.DECISÃO COLEGIADA. INEXISTÊNCIA DE QUALQUER DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição,omissão da decisão recorrida ou, ainda, para correção de erro material.
+2. No caso, não se verifica a existência de qualquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados víciosno julgado embargado, traduzem, na verdade, o inconformismo da partecom a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4.Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignação do embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição,omissão da decisão atacada ou, ainda, para correção de erro material.
+Entretanto, no caso dos autos, não se verifica a existência de qualquer dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou devidamenteconsignada noaresto hostilizado a não ocorrência da alegada negativa de prestação jurisdicional, bem como a incidência dos óbices das Súmulas 735/STF e 7/STJ para o conhecimento do apelo nobre.
+A propósito, confiram-se os seguintes excertos do acórdão embargado (fls. 300/304):
+Com efeito, conforme constou no combatidodecisum,inexiste a alegada ofensa aos arts. 489, § 1º, IV, e 1.022do CPC quanto às omissõessuscitadas, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com a ausência desta.
+Dessarte,observa-se pela fundamentação do acórdão recorrido (fls. 92/96), integrada em sede de embargos declaratórios (fls. 120/123), que a Corte de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afastam-se, assim, as alegadas omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Note-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, sendo dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que, para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+ ..
+Por sua vez, verifica-se que o recurso especial foi interposto em sede de agravo de instrumento, buscando reformar decisão "que, no bojo da ação anulatória ajuizada contra a Companhia do Metropolitano de São Paulo - Metrô, indeferiu o pedido de antecipação dos efeitos da tutela" (fl. 92), nos autos n. 1053081-81.2020.8.26.0053. Contudo, cumpre assinalar não ser cabível, em regra, recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem na emissão de decisões precárias e/ou interlocutórias. A respeito do cabimento de recursos de natureza extraordinária, em hipóteses como a presente, relevantes as ponderações realizadas no julgamento do REsp 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 8/5/2006:
+ ..
+Denota-se que esse entendimento é aplicável ao caso em exame, visto que a parte ambiciona discutir questão relativa à análise das provas para inexigibilidade de multa contratual, a qual ainda poderá ser revista quando da prolação da sentença e no respectivo julgamento da apelação. A propósito, observe-se o quanto assentado nos seguintes julgados:  ..
+Dessarte, na hipótese dos autos, não se está, ainda, diante de "causa decidida em única ou última instância", apta a ensejar a abertura da via especial, o que atrai a incidência, por analogia, da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+ ..
+Ademais, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que se encontram presentes os requisitos para a concessão da medida liminar reivindicada na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados víciosno julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes aclaratórios.
+Nesse vértice, veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
