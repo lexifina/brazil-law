@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por DELMA SILVA contra acórdão que negou provimento ao agravo interno no agravo em recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. EMBARGOS DE DECLARAÇÃO.OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de adjudicação compulsória.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno no agravo em recurso especial não provido.
+Em suas razões, aponta a embargante supostas omissões no acórdão embargado, porquanto não enfrentou os seguintes argumentos trazidos no agravo interno: ocorrência de prequestionamento implícito; reconhecimento pelopróprio Tribunal de origem que, em virtude do valor quitado, trata-se, no fundo, de doação (negócio dissimulado é válido), de maneira a afastar a incidência da Súmula 7/STJ; exigibilidade da forma (escritura) somente para a transcrição no registro imobiliário, sendo que as obrigações assumidas no pacto particular são válidas e podem ser exigidas, tal como se deu na presente demanda.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+De fato, o acórdão embargado foi claro quanto a manter a ausência de negativa de prestação jurisdicional, a falta de prequestionamento e a aplicação da Súmula 7/STJ, conforme se depreende dos seguintes trechos:
+A agravante alega que o acórdão recorrido foi omisso ao decidir matéria não debatida previamente pelas partes, violando o princípio do contraditório efetivo e da não surpresa; sobre a diferença entre as modalidades de simulação, eis que tratar-se-ia de simulação relativa, considerando que o negócio jurídico realizado produziu efeitos; sobre a finalidade da escritura pública nos negócios jurídicos que envolvam transferência de direitos obrigacionais sobre bens imóveis e os efeitos entre as partes do contrato celebrado.
+Entretanto, o TJ/MG foi claro em suas conclusões: i) a escritura pública é imprescindível para a validade de negócio jurídico de compra e venda de imóvel quando o valor excede trinta salários mínimos (e-STJ fl. 337); ii) tendo a Prefeiturade Ibiá avaliado o imóvel por R$ 100.000,00, evidencia-se a simulação perpetrada pelo contrato que transfere a propriedade de todo o imóvel, já edificado, por apenas R$ 13.5000,00 (e-STJ fl. 339); iii) a agravante não comprovou que o preço foi pago por vários empréstimos que teriam sido concedidos a seu irmão (e-STJ fl.339); iv) tratar- se-ia de doação de 90% do bem sem que fosse observada a forma prescrita em lei (e-STJ fl. 339); v) não comprovada a regularidade da contratação, evidencia-se a simulação (e-STJ fl. 339); vi) o promitente comprador só pode exigir a outorga da escritura definitiva de compra e venda do promitente vendedor, ou de terceiros a quem os direitos desde forem cedidos/transferidos, se provar a validade do negócio jurídico e o pagamento do preço (e-STJ fl. 340); vii) o contrato é nulo e seus vícios são insuscetíveis de convalidação (e-STJ fl. 389); viii) não tendo a agravante comprovado o pagamento de quaisquer valores, não há como se falar em retorno das partes ao estado anterior para impor ao agravado a restituição do valor declarado no contrato nulo (e-STJ fl. 389).
+(..)
+Ademais, os arts. 9º, caput, 10 e 933, caput, do CPC/15, e 167, caput, e1.245 do CC/02 não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Saliente-se, outrossim, que a ausência de prequestionamento dos dispositivos legais indicados pela agravante não leva ao imediato provimento do recurso especial por ofensa aos arts. 489 e 1.022 do CPC/15, quando o Tribunal de origem fundamenta a decisão suficientemente para decidir de forma integral a controvérsia, como ocorreu na hipótese dos autos.
+(..)
+Permanece, ainda, a incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto à nulidade do contrato de compra e venda celebrado entre as partes demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende dos seguintes trechos:
+Como se vê, apesar de ter comprado o lote em 23.12.2008, por R$7.000,00 (sete mil reais), nele edificou uma área de 86m  o que, à evidência, eleva o preço do imóvel. E, como assinalado pelo juízo monocrático, o contrato firmado com a Apelante não especifica disposição apenas do lote, mas de todo o conjunto (lote e edificação).
+Ora, tendo a Prefeitura de lbiá avaliado o imóvel por R $100.000,00 (cem mil reais), evidencia -se a simulação perpetrada pelo contrato que transfere a propriedade de todo o imóvel, já edificado, por apenas R$13.500,00 (treze mil e quinhentos reais).
+Além disso, a Apelante, promitente compradora, alegou que o preço foi pago por vários empréstimos que teriam sido concedidos a seu irmão, não tendo, contudo, comprovado suas assertivas, discriminando o histórico de tais empréstimos ou apresentado cópias de seus comprovantes bancários que evidenciassem as transferências ou mesmo por conversas de aplicativo travadas com o irmão, então promitente vendedor.
+Como assinalado pelo juízo, tratar-se-ia de doação de 90% do bem sem que fosse observada a forma prescrita em lei.
+E, não comprovada a regularidade da contratação, evidenciando-se a simulação, outra não pode ser a conclusão que não a de improcedência da pretensão autoral.
+(..)
+Importante salientar que o promitente comprador só pode exigir a outorga da escritura definitiva de compra e venda do promitente vendedor, ou de terceiros a quem os direitos deste forem cedidos/transferidos, se provar a validadedo negócio jurídico e o pagamento do preço (CC, art. 1.418). A falta de tais requisitos conduz à improcedência da pretensão.
+No julgamento dos embargos de declaração:
+Como se vê, inexistem os vícios apontados. O contrato foi considerado nulo. Seus vícios são insuscetíveis de convalidação. E, não tendo a Embargante comprovado o pagamento de quaisquer valores, não há como se falar em retorno das partes ao status quo ante para impor ao Embargado a restituição do valor declarado no contrato nulo.
+Note-se que o Embargado requereu a produção de perícia grafotécnica que não foi realizada, não tendo a Embargante comprovado a idoneidade do documento por ela apresentado.
+Na verdade, revela-se inequívoca a pretensão daembargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Portanto, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
