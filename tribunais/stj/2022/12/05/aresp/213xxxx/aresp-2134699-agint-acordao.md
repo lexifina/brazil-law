@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por OPEN EDUCAÇÃO LTDA. contra a decisão de fls. 483-485 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial por ela manejando.
+Oapelo especial foi deduzido com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 364):
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS JULGADA PROCEDENTE ALEGAÇÃO PELO BANCO DO BRASIL DE COMPETÊNCIA DA JUSTIÇA ESTADUAL E ILEGITIMIDADE PASSIVA - INSTITUIÇÃO FINANCEIRA REPRESENTANTE DO FNDE PARTE LEGÍTIMA - JUSTIÇA COMUM ESTADUAL É COMPETENTE PARA JULGAR AS CAUSAS QUE TENHAM COMO PARTE UNIVERSIDADE E, POR OBJETO, A PRESTAÇÃO DE SERVIÇO - BOLSA INTEGRAL DE ESTUDOS - ISENÇÃO OFERECIDA AOS ALUNOS COM ADESÃO AO PROGRAMA FIES UNIESP PODE PAGAR - DESCUMPRIMENTO DOS REQUISITOS PARA ALCANÇAR O BENEFÍCIO ALMEJADO NÃO DEMONSTRADO DANO MORAL CONFIGURADO QUANTUM INDENIZATÓRIO MANTIDO REFORMA, DE OFÍCIO, DA DISTRIBUIÇÃO DA SUCUMBÊNCIA NA SENTENÇA HONORÁRIOS ADVOCATÍCIOS AO PATRONO DO BANCO DEVIDOS PELA AUTORA, OBSERVADA A CONDIÇÃO SUSPENSIVA EM RAZÃO DA CONCESSÃO DA JUSTIÇA GRATUITA (ART. 98, § 3º DO CPC - RECURSOS NÃO PROVIDOS.
+Nas razões do recurso especial (e-STJ, fls. 414-423), a ora agravante apontou violação dos arts. 476 do CC/2002 e 373, I, do CPC/2015, sustentando, que a parte recorrida não comprovou o cumprimento integral dos itens de elegibilidade do programa instituído. Assim, não respeitadas as condições acordadas, o contrato de assunção e reconhecimento de dívida celebrado entre as partes deixou de ser válido e eficaz, não fazendo jus a aluna ao pagamento das parcelas de amortização.
+Em face do juízo prévio negativo de admissibilidade do recurso especial, a ora insurgente interpôs agravo, ocasião em que foi julgado nos termos da seguinte ementa (e-STJ, fl. 483):
+AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA OU TESE. SÚMULAS 282 E 356 DO STF. ALUNA QUE CUMPRIU COM AS OBRIGAÇÃO ASSUMIDAS NO CONTRATO DE ASSUNÇÃO DE DÍVIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+No presente agravo interno (e-STJ, fls. 488-497), a ora agravante assevera, em suma, que houve o prequestionamento dos dispositivos suscitados como vulnerados e refuta a incidência da Súmula 7/STJ.
+Sem impugnação (e-STJ, fl. 500).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. ALUNA QUE CUMPRIU COM AS OBRIGAÇÕESASSUMIDAS NO CONTRATO DE ASSUNÇÃO DE DÍVIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou a responsabilidade da ré pelo pagamento das parcelas do financiamento contratado por meio do programa FIES, tendo em vista o cumprimento, por parte da universitária, das condições concernentes à realização de atividades de caráter social propostas e à entrega dos respectivos comprovantes. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+De fato, observa-se o prequestionamento do conteúdo normativo do art. 476 do CC/2002. Contudo, a insurgência não merece prosperar pela incidência da Súmula 7/STJ.
+Isso porque o argumento para o não adimplemento do contrato de assunção de dívida do FIES está fundamentado no não cumprimento, por parte da universitária, das exigências contidas na avença, a qual teria deixado de comprovar a entrega das ações sociais junto à instituição de educação.
+Entretanto, o colegiado estadual, ao analisar a matéria controvertida, consignou a responsabilidade da ré pelo pagamento das parcelas do financiamento contratado por meio do programa FIES, sob a seguinte fundamentação (e-STJ, fl. 367, sem grifos no original):
+No mais, a instituição de ensino ré oferece a concessão do benefício de isenção para os alunos com adesão ao Programa Fies Uniesp Paga, que se trata de um programa social onde o estabelecimento de ensino se compromete a arcar com o pagamento do Financiamento Estudantil (FIES) realizado pelo aluno junto à instituição bancária, desde que atendidos determinados requisitos.
+Pelos documentos apresentados pela autora, resta clara a responsabilidade da ré pelo pagamento das parcelas do financiamento contratado pela aluna por meio do programa FIES, após a conclusão do curso.
+No entanto, a ré alega o descumprimento do contrato por não terem sido satisfeitas todas as obrigações assumidas pela autora, em especial a realização de atividades de caráter social nos moldes estabelecidos nas cláusulas contratuais.
+Diante de tais circunstâncias, não se pode tomar como legal a negativa ofertada, pois a documentação acostada aos autos demonstrou que a autora cumpriu as condições concernentes à realização de atividades de caráter social propostas e à entrega dos respectivos comprovantes quanto ao cumprimento.
+Dessa forma, cumpridos os requisitos contratuais pela aluna, não pode se eximir a universidade da incumbência consistente em assumir o pagamento do financiamento universitário.
+Da análise dos fundamentos do recurso e seu cotejo com as razões do acórdão recorrido, percebe-se que a recorrente busca emprestar entendimento diverso, para o tema, daquele que foi adotado pelo Tribunal de origem a partir da análise do conjunto probatório posto à sua disposição.
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, fazendo prevalecer a tese de que a aluna não teria cumprido os requisitos para alcançar o benefício almejado no contrato entabulado entre as partes, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
