@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Antonio Masami Nagai e outros, contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 256):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA. ORDEM JUDICIAL. DESCUMPRIMENTO. MULTA COMINATÓRIA. REDUÇÃO DO MONTANTE TOTAL. POSTERIOR CONSERVAÇÃO DA QUANTIA. VALOR INICIAL MODERADO. EXIGIBILIDADE E PRINCÍPIO DA RAZOABILIDADE. DISPOSITIVOS APONTADOS COMO OFENDIDOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. APLICAÇÃO. MANUTENÇÃO DO VALOR FINAL. REEXAME DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. DIVERGÊNCIAJURISPRUDENCIALPREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a parteagravante pretende a reforma da decisão proferida.
+Para tanto, sustenta quenão incideno caso oóbicedaSúmula7/STJ, porque não se faz necessário, nem se pretende o reexame de matéria de fato ouprova, bem como não se pode falar de falta de prequestionamento.
+Não foi apresentada impugnação(e-STJ, fl. 338).
+Foi deferidoo pedido de concessão de efeito suspensivo ao agravo interno, até o julgamento definitivo do recurso (e-STJ, fls. 340-344)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1.EXECUÇÃO PROVISÓRIA. ORDEM JUDICIAL. DESCUMPRIMENTO. MULTA COMINATÓRIA. REDUÇÃO DO MONTANTE TOTAL. POSTERIOR CONSERVAÇÃO DA QUANTIA. VALOR INICIAL MODERADO. EXIGIBILIDADE E PRINCÍPIO DA RAZOABILIDADE. REEXAME DAS QUESTÕES. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULA7/STJ. 2.DISPOSITIVOS DO CÓDIGO DE PROCESSO CIVILAPONTADOS COMO OFENDIDOS. FALTA DE PRESTIONAMENTO.SÚMULAS 282 E 356/STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA DOS PRESSUPOSTOS.3. RAZÕES RECURSAIS INSUFICIENTES. 4. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca do valor final da multa cominatória pelo descumprimento de ordem judicial)demanda reexame de matéria fático-probatória, o que é inviável devido aos óbices daSúmula7/STJ, não sendo também o caso de revaloração das provas.
+1.2."Por mais vultoso que seja o valor total da multa, não se pode perder de vista que o principal a ser discutido não é suposto enriquecimento de uma das partes, mas a coercibilidade das decisões proferidas pelo Poder Judiciário, que se veem atacadas em sua dignidade no momento em que são ignoradas e descumpridas pelos jurisdicionados" (REsp 1.748.507/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/8/2019, DJe 12/8/2019).
+2.No caso em exame, a questão envolvendo a alegação de ofensa a dispositivos do Código de Processo Civilnão foi objeto de debate e decisão, padecendo da ausência de prequestionamento.
+2.1.OSuperior Tribunal de Justiçapossui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese em que sequer foram opostos embargos de declaração na origem.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento.
+Ao solucionar a lide, verifica-se que o Tribunal local deixou consignado o seguinte (e-STJ, fls. 33-36)
+Não há dúvida a respeito da incidência, na hipótese, da multa diária, inclusive porque confesso o descumprimento a destempo da ordem judicial de pagamento dos haveres (fls. 22). Cumpre anotar, ademais, que, desde a fixação da penalidade, às fls. 836 do processo nº 1001370-70.2016.8.26.0346, impôs-se o limite de 180 (cento e oitenta) dias e sujeita a nova avaliação caso inobservado o comando.
+E tal determinação, de fato, foi desrespeitada, o a revisão da sanção e da limitação no feito de origem, às fls.1.338.
+(..)
+Embora seja teoricamente possível, segundo a doutrina processualista e a jurisprudência do Superior Tribunal de Justiça, nas quais ressalte-se a decisão guerreada está bem amparada, a moderação da penalidade, neste caso, é indevida.
+Não se ignora que as astreintes não têm caráter indenizatório, mas finalidade precípua de inibir o devedor em descumprir a obrigação, razão de observarem os princípios da vedação ao enriquecimento sem causa e da proporcionalidade.
+Ademais, não há, em tal raciocínio, afronta à coisa julgada ou ao instituto da preclusão, pois a lei autoriza sua modificação, inclusive de ofício, nos termos do § 1º do artigo 537 do Código de Processo Civil, que, aliás, não se restringe somente à multa vincenda.
+Na hipótese em discussão, no entanto, a pena fixada, inicialmente, em R$ 2.000,00 por dia a cada executado tanto não era excessiva que o Magistrado de origem houve por bem majorá-la, após verificar o sistemático descumprimento das ordens pelos réus.
+É verdade que o montante total da sanção, de R$ 1.440.000,00, é muito maior que o da obrigação remanescente, calculada pelo exequente em R$ 388.078,75. Mas a conclusão pela desproporção da penalidade não pode estar escorada apenas na simples comparação dos valores.
+É que o real prejuízo suportado pelo recorrente decorre, mais que da ausência do crédito, da inconsistência do pensionamento esperado em respeito ao comando judicial.
+Inobservada a programação mensal de transferências, o exequente, porconsequência, também não pôde escalonar as obrigações voltadas à sua subsistência, sendo irrelevante a alegação, dos agravados, de que dispõe de outras fontes de renda.
+Não bastasse, os executados deliberadamente desdenharam da autoridade contida no comando de pagamento, conduta que não poderia, depois, ser premiada pela redução da multa.
+(..)
+Além disso, a somatória apenas alcançou valor milionário porque os executados mantiveram-se inertes, agarrados a argumentação inapta para a reversão da tutela.
+(..)
+Por tais razões, excepcionalmente, proponho à Turma Julgadora que a decisão agravada seja reformada para restabelecer integralmente a sanção.
+A decisão agravadaaduziu quea alteração do entendimento do Tribunal local, coma inversão do julgado, esbarra no reexame dos fatos e análise dos documentos existentes nos autos, o que é vedado em âmbito de recurso especial, devido ao óbice doenunciado7 da Súmula deste Tribunal.
+De fato, a conclusão adotada teve, como ponto de partida, a análise dos fatos ocorridos e dos documentos existentes nos autos - notadamente o descumprimento da ordem judicial de pagamento dos haveres, o prejuízo causado à parte agravada pela falta do pagamento e o fato de a multa ter alcançado valor elevado, pelaargumentação inapta para a reversão da tutela apresentada pela sua defesa -cujo reexame é vedado em recurso especial, consoante areferidaSúmula.
+Registre-se não ser caso de revaloração da prova, porquenão é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada, no caso, pelaSúmula7/STJ.
+Reitere-se quea questão precípua - a manutenção do valor final alcançado pela multa - foi decidida com base nas premissas fáticas e probatórias existentes nos autos, de modo que rever o entendimento adotado no acórdão recorrido demandaria reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Com efeito, para adotar conclusão diversa daquela do acórdão recorrido, acerca da aplicação da multa ante o reconhecido descumprimento da tutela concedida e a reiteração em desobedecer a ordem judicial, na hipótese dos autos, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+Ademais, é pacífica a jurisprudência do Superior Tribunal de Justiça de que o pedido de redução do valor da multa diária aplicada como meio coercitivo para o cumprimento da ordem judicial só pode ser examinado nesta Corte nos casos em que se mostrar irrisório ou exorbitante, o que não se observa no caso dos autos.
+Ainda nesse contexto, cabe destacar que a Terceira Turma desta Corte possui entendimento pacificado de que a razoabilidade e a proporcionalidade das astreintes deve ser verificada no momento em que fixadas, levando-se em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor.
+Merece destaque o seguinte trechodo acórdão recorrido (e-STJ, fl. 34):
+na hipótese em discussão, no entanto, a pena fixada, inicialmente, em R$ 2.000,00 por dia a cada executado tanto não era excessiva que o Magistrado de origem houve por bem majorá-la, após verificar o sistemático descumprimento das ordens pelos réus.
+Por conseguinte, "por mais vultoso que seja o valor total da multa, não se pode perder de vista que o principal a ser discutido não é suposto enriquecimento de umadas partes, mas a coercibilidade das decisões proferidas pelo Poder Judiciário, que se veem atacadas em sua dignidade no momento em que são ignoradas e descumpridas pelos jurisdicionados" (REsp 1.748.507/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/8/2019, DJe 12/8/2019).
+Relativamenteàs matérias alusivas ao comportamento das partes do processo e aoshonorários advocatícios, constata-se, da leitura do acórdão recorrido que os referidos temas, da forma como apresentados no recurso especial, não foram objeto de apreciação pelo Tribunal estadual, e nem sequer houve oposição de embargos de declaração para provocar a discussão a respeito,vindo à baila o disposto nas Súmulas 282 e 356/STF.
+Como se sabe, para que se configure o prequestionamento das matérias, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu no caso.
+Falta à matéria, portanto, o indispensável prequestionamento.
+Cumpre referir que não se pode falar em prequestionamento implícito (ou ficto). Isso porque, nos termos do art. 1.025 do CPC/2015 (em razão de ter a insurgente suscitado anteriormente os artigos tidos por vulnerados, ter oposto os embargos de declaração na origem e trazer esses fundamentos no recurso especial, com alegação de violação ao art. 1.022 do CPC/2015), essa possibilidade necessita do reconhecimento, pelo STJ, de ter havido erro, omissão, contradição ou obscuridade no acórdão impugnado, o que não ocorreu no presente caso.
+Cabe reiterar, também, embora seja de sabença geral, que, em virtude da incidência dos referidos óbices sumulares, fica prejudicada a análise da divergência jurisprudencial.
+A propósito: "a iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial - pela alínea "c" do permissivo constitucional - também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial" (AgInt no AREsp n. 1.425.676/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/5/2019, DJe 24/5/2019).
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Em consequência, revogoo efeito suspensivo concedido às fls.340-344(e-STJ).
+Comunique-se ao Juízo de primeiro grau (1ª Vara Judicial Cível da Comarca de Martinópolis/SP, nos autos do Incidente de Cumprimento de Sentença nº 0000194-68.2019.8.26.0346).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
