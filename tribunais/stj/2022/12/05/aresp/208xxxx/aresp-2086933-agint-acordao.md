@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto pela FUNDAÇÃO ITAÚ UNIBANCO PREVIDÊNCIA COMPLEMENTAR (FUNDAÇÃO ITAÚ) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio deJaneiro, assim ementado:
+APELAÇÃO CÍVEL - PLANO DE PREVIDÊNCIA COMPLEMENTAR-FILHO MAIOR INVÁLIDO - ALEGAÇÃO DE AUSÊNCIA DE INSCRIÇÃO DO FILHO COMO DEPENDENTE. 1-Autor que é portador de diabetes tipo 1 desde 12 anos de idade, com baixa visual severa decorrente de retinopatia diabética proliferativa grave, com acuidade visual de 20/200 no olho direito e, tendo desde os 17 anos, amaurose no olho esquerdo, sem possibilidade de melhora clínica ou cirúrgica. Além disso, o Autor sofreu um AVC que agravou sua situação, ficando incapacitado para o exercício de atividade laboral. 2-Presunção de dependência econômica do filho inválido. 3-Apesar de o Autor receber aposentadoria por invalidez pelo INSS, foi reconhecida sua dependência econômica, tendo o Instituto de Previdência concedido a pensão por morte de seu genitor. 4-Autor e sua filha, neta do assistido, aparecem como dependentes do Sr. Manoel no imposto de renda do exercício de 2015. 5-Ante a constatação do erro no preenchimento do documento, competia ao Réu comunicar a irregularidade ao assistido a fim de que este tivesse oportunidade de regularizar o documento, seja opondo sua assinatura seja retificando a declaração. 6-A ausência de comunicação da irregularidade viola o princípio da confiança e da boa-fé, uma vez que inspira na parte contrária a fidúcia de que o documento foicorretamente preenchido. 7-Art. 422 do CC. DESPROVIMENTO DO RECURSO(e-STJ, fls. 636/637).
+Os embargos declaratórios interpostos por FUNDAÇÃO ITAÚ foram rejeitados.
+Irresignada, FUNDAÇÃO ITAÚ manifestou recurso especial com base no art. 105, III,a, da CF, apontando a violação dos arts. 2º, 3º, VI, 6º, 7º e 9º, todos da Lei Complementar n.º 109/2001, alegando que a parte recorrida não cumpriu os requisitos regulamentares para obtenção do benefício pensão por morte, tendo em vista que no preenchimento do cadastro não foi informada a existência de filho maior inválido.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio de Janeiro por incidir, no caso, o teor da Súmula n.º 7 do STJ(e-STJ, fls. 684/689).
+Nas razões do agravo, FUNDAÇÃO ITAÚ refutouoreferidoóbicede prelibação (e-STJ, fls. 703/709).
+Foiapresentada contraminuta (e-STJ, fls. 713/722).
+Em decisão monocrática de minha lavra, foi conhecido o agravo para não conhecer do recurso especial,nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. PLANO DE PREVIDÊNCIA COMPLEMENTAR. ERRO NO PREENCHIMENTO DO CADASTRO. FILHO MAIOR INVÁLIDO. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283 DO STF. ANALOGIA.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL(e-STJ, fl. 740).
+Os embargos de declaração interpostos pela FUNDAÇÃO ITAÚ foram recebidos como agravo interno(e-STJ, fls. 755/757).
+Nas razões deste agravo interno,FUNDAÇÃO ITAÚ alegou que
+ ..  Diante do erro de premissa fática da decisão, apresentamos Embargos de Declaração para que o juízo se manifestasse expressamente, tendo sido recebido como agravo interno e determinado a adequação das razões.
+Ocorre que a discussão no Recurso Especial é o cumprimento do que está disposto no Regulamento do Plano ao qual o falecido estava vinculado, em consonância com o que preconiza a Lei Complementar 109 em seu art. 17.
+A fundamentação exarada pelo Tribunal a quo não observou o que está disposto na Lei, bastando-se a deferir o pedido autoral pelo princípio da boa-fé, em direta afronta às normas suscitadas pela agravante. Ressalta-se que o Recurso Especial tem seu cabimento exatamente para as situações em que há afronta direta à Lei Federal.
+Assim, deverá o AREsp ser conhecido e dado provimento para o julgamento do Recurso Especial que ponderou exatamente a ofensa supramencionada(sic., e-STJ, fls. 759/761 - sem destaques no original).
+A impugnação foi apresentada (e-STJ, fls. 766/772 e 773/779).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.PLANO DE PREVIDÊNCIA COMPLEMENTAR. ERRO NO PREENCHIMENTO DO CADASTRO. FILHO MAIOR INVÁLIDO. ACÓRDÃO RECORRIDO. FUNDAMENTO AUTÔNOMO NÃO ESPECIFICAMENTE IMPUGNADO.INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.Existindo argumento capaz de manter o acórdão impugnado porsuaspróprias pernas, não havendo o ataque específico a tal ponto,colhe-se aincidência, por analogia, da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece ser provido.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Da incidência daSúmulan.º283 do STF
+Nas razões do recurso especial, FUNDAÇÃO ITAÚ afirmou a violação dos arts. 2º, 3º, VI, 6º, 7º e 9º, todos da LC nº 109/2001, alegando que a parte recorrida não cumpriu os requisitos regulamentares para obtenção do benefício pensão por morte, tendo em vista que no preenchimento do cadastro não foi informada a existência de filho maior inválido.
+Contudo, da acurada análise do acórdão recorrido, é possível verificar que o TJRJconsignou que:
+ ..  Neste contexto, constata-se que o Autor recebe aposentadoria por invalidez pelo INSS e que, apesar de sua invalidez ter sido somente concretizada quando já tinha mais de 21 anos, o INSS reconheceu sua dependência econômica, concedendo a pensão por morte de seu genitor (Index 000144).
+Da mesma forma, é possível constatar que tanto o Autor quanto sua filha, neta do assistido, aparecem como dependentes do Sr. Manoel no imposto de renda do exercício de 2015 (Index 000040). Verifica-se, igualmente, que o Autor mora na residência de seu falecido genitor.
+Ressalte-se, ainda, que o Réu afirma que o Sr. Manoel incluiu o Autor como dependente no formulário enviado para sua residência em 2009, mas que o referido documento é inválido, uma vez que faltou a assinatura do assistido.
+Ocorre que, neste caso, ante a constatação do erro no preenchimento do documento, competia ao Réu comunicar a irregularidade ao assistido a fim de que este tivesse oportunidade de regularizar o documento, seja opondo sua assinatura seja retificando a declaração.
+De fato, a ausência de comunicação da irregularidade viola o princípio da confiança e da boa-fé, uma vez que inspira na parte contrária afidúcia de que o documento foi corretamente preenchido. Observe-se o art. 422 do CC:
+Art. 422. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé.
+Desta forma, constata a invalidez do Autor, sua dependência econômica em relação ao assistido e a violação do princípio da confiança pelo Réu, não há alternativa que o reconhecimento do direito autoral(e-STJ, fls. 635/641 - sem destaques no original).
+Nesse panorama, consoante já ressaltado no julgado agravado, ofundamento do acórdão recorrido acerca da violação ao princípio da boa-fé objetiva, por falta de comunicação de suposta irregularidade do preenchimento do cadastro, não foi objeto de impugnação das razões do recurso especial, ofendendo o princípio da dialeticidade recursal, colhendo assima incidência da Súmula n.º 283 do STF, por analogia:é inadmissível o recurso extraordinário, quanto a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Assim, está claro que o recurso especial não ultrapassa sequer a barreira do conhecimento.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
