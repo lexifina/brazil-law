@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelaCOMPANHIA DE FIAÇÃO E TECIDOS SANTO ANTÔNIO e COMPANHIA DE FIAÇÃO E TECIDOS CEDRONORTE contra decisão em que conheci parcialmente do recurso especial com fundamento na Súmula 211 do STJ e, na parte conhecida, neguei-lhe provimento diante da inexistência de violação do art. 535 do CPC/1973.
+As agravantes alegam que houve omissão do Tribunal regional acerca de dispositivos legais essenciais ao deslinde da controvérsia, pois, "seexaminados, conduziriam o julgador à reversão de seu entendimento, com o consequente deferimento da isenção postulada" (e-STJ fl. 394).
+Sustentam que "não se pode imputar à parte a pecha de ausência de prequestionamento, quando todos os dispositivos legais compuseram embargos de declaração apresentados tempestivamente na origem. Entender- se o contrário implicaria ausência de prestação jurisdicional, à vista da oportuna provocação da parte, não suprida pela instância a quo" (e-STJ fl. 395).
+Quanto ao mérito, argumentam, em resumo, que, "pela Lei n.1.348/1951 houve ampliação da designação do Nordeste de um critério puramente geográfico para o conceito econômico, em respeito às peculiaridades regionais, compreendendo-se que as agravantes estão localizadas na região Nordeste, na concepção jurídica do termo, e, portanto, fazem jus à concessão do benefício fiscal nos termos da Medida Provisória n.1.562/1996, atualmente convertida na Lei n.9.808/1999" (e-STJ fl. 396).
+Não foi apresentada impugnação pela parte agravada (certidão de e-STJ fl. 402).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+1.O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça"(Enunciado Administrativo n. 2, sessão de 09/03/2016).
+2.Inexiste ofensa ao art. 535 do CPC/1973 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+3.Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula211do STJ, quando a tese jurídica defendida no recurso especialnão éexaminadana origem, mesmo após a oposição deembargos de declaração.
+4. Agravo interno desprovido.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Dito isso, cabe salientar que orecurso especial foi interposto contraacórdão do Tribunal Regional Federal da 1ª Regiãoassim ementado(e-STJ fl. 237):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE - AFRMM. ISENÇÃO CONCEDIDA AOS EMPREENDIMENTOS LOCALIZADOS NO NORDESTE E AMAZÔNIA.IMPOSSIBILIDADE DE EXTENSÃO DA NORMA ISENTIVA PARA CONTRIBUINTE SITUADO EM MINAS GERAIS. ART. 111, II, CTN.
+1. A isenção do AFRMM concedida aos empreendimentos localizados no Nordeste e na Amazônia (art. 4 0 , da Medida Provisória 1 562/96 convertida na Lei 9.808/99) não estendeu a isenção àqueles empreendimentos situados na região do polígono da seca.
+2. A regra inserta no artigo 111, inciso II, do Código Tributário Nacional, estabelece que "Interpreta-se literalmente a legislação tributária que disponha sobre outorga de isenção", não cabendo ao intérprete a extensão da norma isentiva.
+3. Apelação desprovida.
+Conforme consignado na decisão agravada, não houve negativa de prestação jurisdicional pelo Tribunal a quo, visto que aprecioufundamentadamente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Percebe-se que, contrariamenteà pretensão do recorrente, o Tribunal regional, com fundamento no art. 111, inciso II, do CTN, registrou que a norma que outorga isenção deve ser interpretada literalmente e que, no caso do art. 4º da Lei n.9.808/1999, a legislação não estendeu expressamente a isenção aos empreendimentos localizados na região do polígono da seca. É o que se observa do excerto do voto condutor do acórdão regional recorrido (e-STJ fl. 234):
+Dispõe o art. 4º da Media Provisória nº 1.562/96, convertida na Lei nº 9.808/99:
+Art. 4ºSerão concedidos aos empreendimentos que se implantarem, modernizarem, ampliarem ou diversificarem no Nordeste e na Amazônia e que sejam considerados de interesse para o desenvolvimento destas regiões, segundo avaliações técnicas específicas das respectivas Superintendências de Desenvolvimento, até 31 de dezembro de 2010, os seguintes benefícios:
+I - isenção do Adicional ao Frete para Renovação da Marinha Mercante - AFRMM;
+(..)
+Da sua leitura, infere-se que a isenção do AFRMM atinge, tão-somente, os empreendimentos localizados no Nordeste e na Amazônia. Observe-se que o legislador não estendeu a isenção àqueles empreendimentos situados na região do polígono da seca, como pretende a parte Apelante.
+Convém registrar que a regra inserta no artigo 111, inciso II, do Código Tributário Nacional, estabelece que "Interpreta-se literalmente a legislação tributária que disponha sobre outorga de isenção", não cabendo ao intérprete a extensão da norma isentiva.
+Como bem alinhavou o Juízo a quo, "O legislador ordinário não conferiu isenção do AFRMM aos contribuintes da região norte de Minas Gerais atingida pela seca. Do contrário, teria disposto expressamente." (fl. 174).
+Ante o exposto, nego provimento à apelação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Quanto ao mais, verifica-se dos autos que o conteúdo normativodoart. 1º da Lei n. 1.348/1951, do art. 1º da Lei n.3.692/1959, do art. 39 da Lei n. 4.239/1963, do art. 5º da Lei n. 7.827/1989, do art. 11 da Lei n. 9.808/1999e do art. 156, parágrafo único, do CTNcarece do requisito constitucional do prequestionamento.
+Embora não seja exigida a menção expressa a dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica defendida pelorecorrente em seu apelo nobre, o que não se constata na hipótese. Esse é o entendimento consagrado na edição da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
