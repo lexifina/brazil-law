@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interposto por DIRECIONAL RUBI EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra a decisão da Presidência desta Corte Superior de fls. 472-473(e-STJ), fundada na ausência de especificação do dispositivo de lei federal ofendido no acórdão estadual (Súmula 284/STF) - não conhecimento do recurso.
+O apelo especial foi deduzido com base nas alíneas a e c do permissivo constitucional, no qual se insurgiucontra acórdão do Tribunal de Justiça do Amazonas assim ementado (e-STJ, fl. 331):
+APELAÇÃO CÍVEL. RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. RETENÇÃO DE 15% DOS VALORES PAGOS PELO COMPRADOR. VALOR DE RETENÇÃO CONFORME ENTENDIMENTO DO STJ. JUROS E CORREÇÃO MONETÁRIA DE ACORDO COM A PORTARIA N.º 163/2014 DO TJAM. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 359-361).
+No recurso especial, ainsurgenteapontou, além de divergência jurisprudencial, desrespeito a dispositivo legal.
+Esclareceu que se opôs ao acórdão ao estipular a retenção de quantum para pagamento de valor. Arguiu queo precedente utilizado pela Corte local para afastar a cláusula contratual firmada entre as partes, bem como fixar o percentual de 15% (quinze por cento,) não é mais o posicionamento praticado por esta Corte Superior e demais tribunais pátrios.
+Argumentou a recorrente que nãoterá nenhumenriquecimento com a fixação do percentual de retenção de 25% (vinte e cinco por cento) a 30% (trinta por cento) das parcelas pagas pelos recorridos; sendo certo quea retenção do sinal e do percentual de 30% (trinta por cento) das parcelas pagas é medida legal e justificável, uma vezque a desistência de qualquer comprador enseja despesas ao vendedor. Requereu o provimento do recurso especial(e-STJ, fls. 373-377).
+Obstado seguimento ao apelo excepcional, foi protocolado agravo em recurso especial, o qual foi apreciado pela Presidência desta Corte Superior, conforme decisão de fls. 472-473 (e-STJ), negando-se conhecimento ao agravo.
+Neste recurso interno, ainsurgentereforçaa argumentação constante na petição de recurso especial. Frisanão ser caso de aplicação da Súmula 284/STF, em razão da carênciadessa deficiência recursal, e pugnapelo provimento do recurso (e-STJ, fls. 292-300).
+Contraminuta não apresentada (e-STJ, fls. 496-497).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO. PROMESSA DE COMPRA E VENDA.FALTA DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça entende que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente afrontado implica deficiência na fundamentação do recurso especial. Aplicável o óbice da Súmula 284/STF.
+2. Destaca-se que "a mera citação de passagem de dispositivos legais no corpo das razões recursais não satisfaz tal requisito, já que é impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do Recurso Especial interposto"  AgInt no AREsp n. 1.890.951/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022 .
+3. Agravo interno desprovido.
+VOTO
+Não há razões para o provimento do agravo interno.
+Mediante análise dos autos, verifica-se que aora recorrenterealmente não especificou, de forma clara, qual dispositivo de lei federal teria sido ofendido no julgamento da segunda instância, acrescentandoque a efetivação dessa delimitação deve ser objetiva e precisa, pois, caso contrário, incide o texto da Súmula 284/STF - situação verificada no contexto analisado.
+Consoante posicionamento do Superior Tribunal de Justiça, "a mera citação de passagem de dispositivos legais no corpo das razões recursais  que é o caso dos autos  não satisfaz tal requisito, já que é impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do Recurso Especial interposto  AgInt no AREsp n. 1.890.951/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022 .
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284/STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECURSO NÃO PROVIDO.
+1. O recurso especial fundado na alínea "a" do permissivo constitucional requer, obrigatoriamente, que o recorrente particularize de forma inequívoca os dispositivos legais que entenda tenham sido contrariados ou aos quais o Tribunal de origem lhes tenha negado vigência, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial. Incidência, por analogia, da Súmula 284/STF. Precedentes. 2. Dispositivo legal citado no corpo da petição recursal, a título de recurso argumentativo, não viabiliza a abertura da via especial, na medida em que não atende a requisito constitucionalmente exigido pelo art. 105, III, "a", da Constituição Federal, qual seja a indicação da legislação federal violada.
+3. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição das ementas dos acórdãos confrontados, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos os requisitos previstos no art. 541, parágrafo único, do CPC/1973 e no art. 255, § 2º, do RISTJ.
+4. Agravo interno não provido.
+ AgInt no AREsp n. 1.177.671/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 27/2/2018, DJe de 6/3/2018.
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO DO MUNICÍPIO A QUE SE NEGA PROVIMENTO.
+1. Apesar de mencionar, no corpo das razões de seu Apelo Nobre, dispositivos de Lei Federal, a parte recorrente deixou de demonstrar, precisamente, como tal violação teria ocorrido.
+2. A alegação de ofensa à Lei Federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial (AgRg no REsp. 1.730.708/RO, Rel. Min. RIBEIRO DANTAS, DJe 10.10.2018).
+3. No mais, a jurisprudência do STJ, à luz da Súmula 735/STF, firmou-se no sentido de que, via de regra, não é cabível Recurso Especial para reexaminar decisão que defere ou indefere liminar ou concede antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+4. Agravo Interno do Município a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.808.482/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/2/2020, DJe de 14/2/2020.)
+Destarte, a "falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF"(AgInt no AREsp n. 1.917.838/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
