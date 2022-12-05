@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SARP MINERACAO LTDA., LEANDRO FRACASSI, MARIA ALICE DE LIMA FRACASSI, TIBALDO FRACASSIcontra acórdão prolatado pela Primeira Turma, de que fui relator,assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RESPONSABILIDADE DESÓCIO. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO DE LEGITIMIDADE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXAME. INVIABILIDADE.
+1. Aautoridade administrativa tem o dever de motivar devidamente o ato de inclusão de eventuais pessoas passíveis de responsabilização no ato administrativo de inscrição da dívida ativa, sendo certo, porém, não necessita constar expressamente na certidão de dívida ativa, uma vez quepresumem-se legítimas e verídicas suas informações, o que permite seja ela utilizada como petição inicial da execução (§ 2º do art. 6º da Lei n. 6.830/1980).
+2. De acordo com o entendimento firmado pela Egrégia Primeira Seção do STJ no julgamento dos REsp 1.104.900/ES e 1.110.925/SP, ambos pela sistemática dos recursos repetitivos, se a execução foi ajuizada apenas contra a pessoa jurídica, mas o nome do sócio consta da CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN, não sendo possível a discussão deste tema em sede de exceção de pré-executividade.
+3. Agravo interno desprovido.
+Os embargantesalegam haver omissão no acórdão que deixou de analisar as alegações(i) de ausência de prévio procedimento administrativo para inclusão dos sócios cujos nomes constam na CDA como responsáveis pelo crédito tributário executado e (ii)de que não fora oportunizado aos sócios o contraditório e a ampla defesa antes dainclusão dos mesmos como corresponsáveis tributários.
+Aduzem ainda que o acórdão não teria se manifestado acerca da principal alegação, a de que a ausência da indicação no título executivo do fundamento legal para a responsabilização dos sócios macularia a CDA pelo não preenchimento dos seus requisitos formais.
+Os embargos de declaração foram impugnados pelo ESTADO.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso interposto.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo nãohaver vício de integração a ser sanado.
+Inicialmente, inexiste omissão no acórdão acerca da alegação de mácula do titulo executivo por ausência de preenchimento de seus requisitos formais.
+Consignou-se no acórdão quea autoridade administrativa tem o dever de motivar devidamente o ato de inclusão de eventuais pessoas passíveis de responsabilização no ato administrativo deinscriçãoda dívida ativa.Essa motivação, porém, não necessita constar expressamente na certidão de dívida ativa, uma vez que presumem-se legítimas e verídicas suas informações, o que permiteseja ela utilizada como petição inicial da execução (§ 2º do art. 6º da Lei n. 6.830/1980).
+Dizendo de outra forma:apesar de a motivação para a inclusão do sócio como coobrigado tributário ser essencial ao ato administrativo de inclusão de eventuais pessoas passíveis de responsabilização no procedimento administrativo de inscrição em dívida ativa, esta motivação não necessita constar expressamente na certidão dela decorrente, que será utilizada como título executivo, diante da presunção de legitimidade e veracidade que acompanha as informações ali constantes.
+Dito isso, não houve apreciação expressa acerca das supostas alegações deausência de prévio procedimento administrativo para inclusão dos sócios como responsáveis pelo crédito tributário executado ede que não fora oportunizado aos sócios o contraditório e a ampla defesa antes de sua inclusão como corresponsáveistributários porque estas alegações não foram formuladas no recurso especial, surgindo pela primeira vez nas razões do agravo contra decisão do Tribunala quoque inadmitiu o recurso especial (e-STJ fl. 272), o que configura-se como inaceitável inovação recursal.
+Ainda que assim não fosse, os fundamentos do acórdão são suficientes para infirmar estas alegações, uma vez que a Primeira Turma desta Corte, na oportunidade em que apreciado o REsp n. 1.604.672/ES, concluiu que, "em razão de os únicos sujeitos passivos aptos a constar no termo de inscrição em dívida ativa serem o devedor e os corresponsáveis, caso seus nomes constem na Certidão de Dívida Ativa, ainda que sem menção à corresponsabilidade, devem-lhes ser atribuídos os ônus de afastamento da presunção de legitimidade e veracidade dessa respectiva qualificação".
+A propósito, confira-se a ementa do julgado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA. EX-SÓCIO ADMINISTRADOR DE SOCIEDADE ANÔNIMA FALIDA. QUALIFICAÇÃO COMO CORRESPONSÁVEL. AUSÊNCIA. IRRELEVÂNCIA. ATO DE INSCRIÇÃO PLENAMENTE VINCULADO. PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE.
+1. O nome do sócio constante da Certidão de Dívida Ativa não necessita estar acompanhado da qualificação de corresponsável/codevedor para permitir sua inclusão no polo passivo da execução fiscal, pois, além de essa condição dever ser aferida no prévio processo administrativo, a autoridade fiscal, sob pena de responsabilização, não tem discricionariedade quanto aos elementos a serem inseridos no ato de inscrição, visto que a respectiva atividade é plenamente vinculada.
+2. Conforme sedimentado pela Primeira Seção, no julgamento do REsp 1.104.900/ES, "se a execução foi ajuizada apenas contra a pessoa jurídica, mas o nome do sócio consta da CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN, ou seja, não houve a prática de atos "com excesso de poderes ou infração de lei, contrato social ou estatutos"".
+3. "O sujeito passivo, acusado ou interessado" (art.203 do CTN) deve ter sempre a seu alcance o processo administrativo correspondente à inscrição em dívida ativa, conforme disposição do art. 41 da Lei n. 6.830/1980, o que lhe oportuniza o desenvolvimento do contraditório e a aferição da regularidade do cumprimento dos requisitos de validade da Certidão de Dívida Ativa.
+4. Hipótese em que, em razão de o nome de ex-administrador de sociedade anônima (VASP S.A.) constar da Certidão de Dívida Ativa, mesmo sem a qualificação de corresponsável, é dele o ônus de afastamento da presunção de legitimidade e veracidade desse documento.
+5. Recurso especial provido.
+(REsp 1604672/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/09/2017, DJe 11/10/2017)
+Não por outro motivo as instâncias ordinárias deixaram de conhecer da exceção de pré-executividade apresentada quanto ao tema da corresponsabilidade dos sócios, ao afirmar que exigiria dilação probatória incompatível com o rito do instituto (Súmula 393 do STJ).
+Nesse sentido,a orientação adotada pela Corte de origem não destoa dajurisprudência da Primeira Turma do STJ sobre o tema, motivo pelo qual não merece reparos.
+Ponderado isso, constato que o pleito aclaratório, antes de ter a pretensão de dirimir vício de integração do acórdão, pretende exclusivamente a revisão do julgado, sendo inviável o acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
