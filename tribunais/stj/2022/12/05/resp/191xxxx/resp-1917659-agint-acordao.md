@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto porROBERTO IRINEUcontra decisãode minha relatoria, que não conheceu do recurso especial, ante o óbice da Súmula 7 do STJ (e-STJ fls. 220/223).
+Em suas razões, a parte agravante sustenta que não pretende o reexame de provas, masa sua revaloração, a fim de demonstrar que os documentos apresentados são aptos acomprovar o labor rural do segurado, mesmo fora do período de carência exigido.
+Afirma que o STJ possui entendimento de que certidões de casamento e de nascimento servem como início de prova material do trabalho rural, independentemente da data em que expedidas
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não ofertou impugnação (e-STJ fl. 236).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EXERCÍCIO DE ATIVIDADE AGRÍCOLA. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Na esteira do REsp n. 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material corroborado por testemunhos idôneos.
+2.Esta Corte também pacificou o entendimento no sentido de reconhecer como início de prova material certidões de nascimento, casamento e outros documentos em nome de terceiros, desde que corroborados pela prova testemunhal.
+3. Caso em que o acórdão recorrido concluiu em sentido oposto ao postulado, por consignar que a prova produzida não era apta a demonstrar o exercício da atividade no campo, pelo período de carência legalmente exigido, notadamente pela ausência de início de prova materialamparada por testemunhos idôneos,circunstâncias que esbarram no óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece acolhimento.
+Na esteira do REsp n. 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material corroborado por testemunhos idôneos.
+Esta Corte também pacificou o entendimento no sentido de reconhecer como início de prova material certidões de nascimento, casamento e outros documentos em nome de terceiros, desde que corroborados pela provatestemunhalidônea, a saber:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. DOCUMENTO NOVO. JULGAMENTO PRO MISERO. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL CORROBORADA POR PROVA TESTEMUNHAL. CERTIDÃO DE CASAMENTO.
+1. O documento novo que propicia o manejo da ação rescisória fundada no art. 485, VII, do Código de Processo Civil é aquele que, já existente à época da decisão rescindenda, era ignorado pelo autor ou do qual não pôde fazer uso, capaz de assegurar, por si só, a procedência do pronunciamento jurisdicional.
+2. A Terceira Seção desta Corte, em situações referentes a trabalhadores rurais, apoiada na necessidade de julgamento pro misero, tem elastecido o conceito de "documento novo", para fins de propositura de ação rescisória.
+3. O Superior Tribunal de Justiça admite, como início de prova material da atividade rural, a certidão de casamento na qual conste o cônjuge da beneficiária como lavrador, desde que devidamente corroborada por prova testemunhal, sendo desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido.
+4. Hipótese em que há início de prova material, aliado à prova testemunhal colhida no feito originário, de modo a acarretar o reconhecimento do direito da autora ao benefício pleiteado.
+5. Pedido rescisório procedente. (AR 3.567/SP, de minha relatoria, TERCEIRA SEÇÃO, julgado em 24/06/2015, DJe 04/08/2015, grifos acrescidos ).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ART. 485, VII, CPC. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL CORROBORADO POR PROVA TESTEMUNHAL.
+I - É cediço que, nos casos de trabalhadores rurais, este Superior Tribunal de Justiça tem adotado solução pro misero, de modo a se admitir, como início de prova material, documentos anteriores à propositura da ação originária.
+II - Seguindo essa premissa, a jurisprudência firmou posicionamento segundo o qual as certidões de casamento e de óbito são aceitas como início da prova material nas hipóteses em que a profissão do cônjuge estiver expressamente consignada.
+III- O pedido inicial instruído por início de prova material, corroborado, de forma clara e evidente, pelo acervo testemunhal, é apto a comprovar o exercício de atividade rurícola.
+IV- Ação Rescisória procedente.(AR 3.561/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 25/02/2015, DJe 05/03/2015).
+Colhe-se dos autos que o Tribunal de origem modificoua sentença de procedência do pedido, por consignar que a prova produzida não era apta a demonstrar o exercício da atividade no campo, pelo período de carência legalmente exigido, notadamente pela ausência de início de prova material, corroborada por testemunhos idôneos, circunstâncias que esbarram no óbice da Súmula 7 do STJ (e-STJ fl. 171):
+A autora pleiteia a concessão de aposentadoria por idade rural. Nasceu em 14 de outubro de 1952, com implemento do requisito etário em 14 de outubro de 2007.Deveria, portanto, comprovar nos autos o exercício do labor rural, em período imediatamente anterior a 2007, ao longo de, ao menos, 156 (cento e cinquenta e seis) meses, conforme determinação contida no art. 142 da Lei nº 8.213/91.
+Foram acostadas aos autos cópias de certidão de casamento da autora, realizado em 1976, na qual o marido da autora foi qualificado como lavrador (ID 4385413); e de CTPS da autora, na qual consta registro de caráter rural, no período de 16/03/1995 a 25/06/1996 (ID 4385414, p. 1-2).
+Ainda que se tratasse de labor rural em regime de economia familiar, a certidão de casamento é anterior ao período de carência, logo, não pode ser aproveitada. Em relação à CTPS da autora, embora seja prova plena do exercício de atividade laborativa rural no interregno nela apontado, não se constitui - quando apresentada isoladamente - em suficiente início de prova material do labor nas lides campesinas em outros períodos que nela não constam.
+Assim, ante a ausência de suficiente início de prova material contemporâneo aos fatos alegados, resta inviabilizado o reconhecimento de labor rural por todo o tempo pleiteado.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA RURAL. AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO.PROVA MATERIAL INCONSISTENTE E CONTRADITÓRIA. TESTEMUNHAS QUE NÃO CONFEREM AMPLITUDE AO INÍCIO DA PROVA MATERIAL. VÁRIOS LAPSOS DE ATIVIDADE URBANA NOS REGISTROS DO CNIS. DESCARACTERIZAÇÃO DA CONDIÇÃO DE SEGURADO ESPECIAL. CONJUNTO FÁTICO-PROBATÓRIO DESARMÔNICO. RECURSO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que o exercício de atividade urbana, por si só, não descaracteriza a condição de Segurado especial, vez que se admite a descontinuidade no exercício da atividade rural.
+2. No caso dos autos, contudo, as provas materiais apresentadas estão em confronto com os registros do CNIS do autor, que apontam diversos vínculos de atividade urbana, suficientes a descaracterizar a sua condição de Trabalhador Rural.
+3. Neste caso, verifica-se que o acervo testemunhal produzido apresenta-se inadequado, por ser contraditório, para evidenciar a pretendida situação de Trabalhador Rural da parte autora.
+4. Agravo Interno do Particular a que se nega provimento. (AgInt no AREsp 1372614/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020) .
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. EFICÁCIA AMPLIATIVA DA PROVA TESTEMUNHAL. TEMPO DE SERVIÇO ANTERIOR À DATA DO DOCUMENTO MAIS ANTIGO TIDO POR DEMONSTRADO PELO TRIBUNAL A QUO.COMPROVAÇÃO DE TODO O PERÍODO CONTROVERTIDO. NÃO RECONHECIMENTO.REVISÃO DA CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que, conquanto a prova testemunhal tenha sido suficiente para fins de reconhecimento do exercício de labor rural em período anterior à data do documento mais antigo, não teve o condão de ampliar a eficácia do início de prova material para todo o período controvertido.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 859.244/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/04/2019, DJe 29/04/2019).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR IDADE RURAL. REQUISITOS.SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada, que deve ser mantida pelos seus próprios fundamentos, aplicou ao recurso especial o óbice da Súmula 7/STJ, pois rever a duração e o impacto dos vínculos trabalhistas urbanos na condição de segurada especial da agravante exigiria sim o revolvimento de fatos e provas, na medida que o Tribunal a quo não foi específico quanto ao ponto, não tendo sido opostos embargos de declaração para esclarecimentos pormenorizados dos acontecimentos no período da carência do benefício pleiteado.
+2. Agravo interno não provido. (AgInt no AREsp 1.077.269/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 25/09/2017).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
