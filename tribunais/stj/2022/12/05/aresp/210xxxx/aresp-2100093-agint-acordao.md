@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  HOSPITAL  SANTA  EMÍLIA  S.A.  (outro  nome:  AMIGO  -  ASSISTÊNCIA  MÉDICA  INTEGRADA  DE  GINECOLOGIA  E  OBSTETRÍCIA  LTDA.)  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça,  declarada  às  fls.  431/433  (e-STJ),  que  não  conheceu  do  agravo  em  recurso  especial  porque intempestivo.
+Inconformada, no presente recurso (fls.  435/441,  e-STJ), aagravante  sustenta  que,  quando  da  interposição  do  agravo  em  recurso  especial,
+
+"(..)  NÃO  havia  possibilidade  de  a  Agravante  instruir  o  AREsp  com  prova  do  período  de  suspensão  dos  prazos  dos  processos  físicos,  pois  inexistia  qualquer  definição  por  parte  do  tribunal  local,  em  virtude  da  pandemia  do  COVID-19,e  tal  definição  somente  adveio  meses  após  do  protocolo  do  AREsp"  (fl.  437,  e-STJ).
+Salienta  que  somente  com  o  Ato  Normativo  Conjunto  nº  20,  de  julho  de  2021,  o  tribunal  de  origem  dispôs , em  seu  art.  7º , que  os  prazos  processuais  dos  processos  físicos  iriam  ser  retomados  em  2/8/2021.  Assim,  não  há  falar  em  intempestividade  do  agravo.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte adversa  não  ofereceu  impugnação  (fl.  445,  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  INTEMPESTIVIDADE.  PRAZO.  SUSPENSÃO.  COVID-19.  PANDEMIA.  RESOLUÇÃO  Nº  313/CNJ.  RECURSO  ESPECIAL.  ART.  1.003,  §  6º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  RESOLUÇÃO  Nº  318/CNJ.  TRIBUNAL  DE  ORIGEM.  EXPEDIENTE  FORENSE.  SUSPENSÃO.  COMPROVAÇÃO.  ATO  DA  INTERPOSIÇÃO.  NECESSIDADE.  DISPONIBILIZAÇÃO  E  PUBLICAÇÃO.  EFICÁCIA  MANTIDA.  INTEMPESTIVIDADE.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Em  virtude  da  pandemia  do  novo  coronavírus  (COVID-19),  o  Conselho  Nacional  de  Justiça  editou  a  Resolução  nº  313,  de  19/3/2020,  que  determinou  a  suspensão  dos  prazos  processuais  a  partir  de  sua  publicação  até  o  dia  30/4/2020,  voltando  a  correr  no  dia  4/5/2020,  não  tendo  sido  suspensas  as  publicações  ou  a  eficácia  das  publicações  na  data  em  que  foram  disponibilizadas  no  Diário  da  Justiça  eletrônico.
+3.  É  intempestivo  o  recurso  especial  protocolizado  após  o  prazo  de  15  (quinze)  dias,  nos  termos  dos  arts.  1.003,  §  5º,  e  219  do  Código  de  Processo  Civil  de  2015.
+4.  A  Resolução  nº  318,  de  7/5/2020,  do  CNJ,  prorrogou  a  vigência  das  Resoluções  nºs  313  e  314  até  o  dia  31  de  maio  de  2020,  mantendo  a  fluência  dos  prazos  desde  4/5/2020  e  permitindo  a  suspensão  dos  prazos,  caso  autoridade  estadual  determinasse  medidas  restritivas  (lockdown),  ou  a  pedido  do  próprio  Tribunal,  suspensão  que  seria  válida  somente  para  aquela  unidade  da  federação.
+5.  Na  hipótese,  a  recorrente  não  comprovou,  no  ato  de  interposição  do  recurso  especial,  que  os  prazos  processuais  foram  suspensos  no  tribunal  de  origem  a  partir  do  dia  4/5/2020,  nem  que  houve  prorrogação  além  do  período  determinado  nas  resoluções  do  CNJ.
+6.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Observa-se  dos  autos  que  a  publicação  da  decisão  agravada  ocorreu  no  dia  10/12/2020  (fl.  384,  e-STJ),  sendo  o  agravo  em  recurso  especial  interposto  somente  em  3/2/2021  (fl.  386,  e-STJ),  fora,  portanto,  do  prazo  de  15  (quinze)  dias,  conforme  estabelece  o  art.  1.003,  §  5º,  do  Código  de  Processo  Civil  de  2015.
+Registra-se  que,  em  virtude  da  pandemia  do  novo  coronavírus  (COVID-19),  o  Conselho  Nacional  de  Justiça  publicou  a  Resolução  nº  313,  de  19/3/2020,  que  tratou  das  medidas  de  prevenção  do  contágio  do  vírus,  dentre  as  quais  determinou  a  suspensão  dos  prazos  processuais  a  partir  de  sua  publicação  até  o  dia  30/4/2020,  voltando  a  correr  no  dia  4/5/2020.
+Nesse  contexto,  nos  termos  dos  arts.  1.003,  §  5º,  e  219  do  Código  de  Processo  Civil  de  2015,  contados  15  (quinze)  dias  úteis  do  dia  1º/6/2020,  o  termo  final  é  o  dia  2/2/2021,  de  modo  que  o  recurso  protocolizado  em  3/2/2021  é  manifestamente  intempestivo.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ORDINÁRIO  EM  MANDADO  DE  SEGURANÇA.  ENUNCIADO  ADMINISTRATIVO  3/STJ.  INTERPOSIÇÃO  INTEMPESTIVA.  NÃO  CONHECIMENTO.
+1.  Publicada  a  decisão  monocrática  em  26.03.2020,  o  prazo  para  o  agravo  interno  iniciou-se,  dada  a  paralisação  por  conta  da  pandemia  de  SARS-CoV2,  no  dia  04.05.2020  e  teve  fim  em  22.05.2020,  por  isso  a  intempestividade  pela  protocolização  da  minuta  apenas  no  dia  25.05.2020.  2.  Agravo  interno  não  conhecido"  (AgInt  no  RMS  62.735/MG,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  19/10/2020,  DJe  22/10/2020).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INTEMPESTIVIDADE.  FERIADO  LOCAL.  COMPROVAÇÃO  NO  ATO  DE  INTERPOSIÇÃO  DO  RECURSO.  ART.  5º  DA  RESOLUÇÃO  313  DO  CNJ.  SUSPENSÃO  DO  PRAZO  PROCESSUAL.  POSSIBILIDADE  DE  PUBLICAÇÕES  SEREM  REALIZADAS.
+1.  É  intempestivo  o  recurso  especial  que  é  interposto  fora  do  prazo  recursal  de  15  (quinze)  dias  úteis,  a  contar  da  publicação  do  acórdão  recorrido  (recurso  interposto  sob  a  égide  do  CPC/15).
+2.  O  art.  1.003,  §  6º,  do  CPC/2015,  estabelece  que  o  recorrente  comprovará  a  ocorrência  de  feriado  local  no  ato  de  interposição  do  recurso,  o  que  impossibilita  a  regularização  posterior.
+3.  A  possibilidade  de  comprovação  posterior  de  feriado  local  ocorrerá  -  apenas  -  nas  situações  referentes  à  "segunda-feira  de  carnaval"  e  desde  que  o  recurso  tenha  sido  interposto  antes  da  publicação  do  REsp  1.813.684/SP  (Corte  Especial),  a  qual  ocorreu  em  18/11/2019.  Precedente.
+4.  É  intempestivo  o  agravo  que  é  interposto  fora  do  prazo  recursal  de  15  (quinze)  dias  úteis,  a  contar  da  publicação  da  decisão  de  inadmissibilidade  do  recurso  especial  (recurso  interposto  sob  a  égide  do  CPC/15).
+5.  Nos  termos  do  art.  5º  da  Resolução  313/2020  do  CNJ,  para  fins  de  aferição  de  tempestividade,  suspende-se  o  prazo  processual  no  período  de  19/03/2020  a  30/04/2020,  o  que  não  impede  que  publicações  sejam  realizadas.
+6.  Agravo  interno  no  agravo  em  recurso  especial  não  provido"  (AgInt  no  AREsp  1.718.895/GO,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  23/11/2020,  DJe  27/11/2020).
+Convém  ressaltar  que  a  Resolução  nº  318/CNJ,  de  7/5/2020,  prorrogou  a  vigência  das  Resoluções  nºs  313  e  314  até  o  dia  31  de  maio  de  2020,  mantendo  a  fluência  dos  prazos  desde  4/5/2020  e  permitindo  a  suspensão  dos  prazos,  caso  autoridade  estadual  determinasse  medidas  restritivas  (lockdown),  ou  a  pedido  do  próprio  Tribunal,  suspensão  que  seria  válida  somente  para  aquela  unidade  da  federação.
+Na  hipótese,  como  bem  ressaltado  pela  Presidência  desta  Corte,
+"(..)
+Não  se  desconhece  o  documento  juntado  às  fls.  398/399.  No  entanto,  é  insuficiente  para  afastar  a  intempestividade  do  agravo.
+Veja-se  que  o  documento  não  comprova  o  início  e  o  final  da  suspensão  dos  prazos  processuais  no  Tribunal  de  origem,  apenas  traz  a  informação  de  que  "os  prazos  dos  processos  físicos  permanecem  suspensos  até  a  quarta  fase  do  cronograma  de  retomada  das  atividades  presenciais  do  PJBA,  em  data  a  ser  divulgada",  ou  seja,  não  restou  comprovado  se,  de  fato,  houve  suspensão  no  período  de  10/12/2020  a  03/02/2021  (data  da  interposição  do  agravo)"  (fl.  432,  e-STJ  -  grifou-se).
+Assim,  não  tendo  a  agravante  comprovado,  no  ato  de  interposição  do  agravo  em  recurso  especial,  a  suspensão  dos  prazos  processuais  no  âmbito  da  Corte  de  origem  ou  que  houve  prorrogação  além  do  período  determinado  nas  resoluções  do  CNJ,  não  há  como  afastar  a  intempestividade  decretada  na  decisão  atacada.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  INTEMPESTIVO.  RESOLUÇÃO  Nº  313/2020  DO  CNJ.  SUSPENSÃO  DO  PRAZO  PROCESSUAL  APÓS  4/5/2020.  NECESSIDADE  DE  COMPROVAÇÃO.  NÃO  PROVIMENTO.
+(..)
+3.  A  suspensão  dos  prazos  prevista  no  art.  2.º  da  Resolução  nº  318/2020  do  CNJ  depende  de  que  haja  a  superveniente  imposição  de  medidas  sanitárias  restritivas  à  livre  locomoção  de  pessoas  por  parte  da  autoridade  estadual.  Assim,  deve  a  parte  recorrente,  no  momento  da  interposição  do  recurso,  comprovar  que,  durante  o  prazo  recursal,  foram  impostas  medidas  dessa  natureza  pelo  Poder  Executivo  estadual  ou  de  que  houve  a  suspensão  dos  prazos  por  ato  do  Tribunal  estadual.  Precedentes.
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.804.082/SP,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  4/10/2021,  DJe  8/10/2021).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  INTEMPESTIVIDADE.  RECURSO  ESPECIAL.  TRIBUNAL  DE  ORIGEM.  COVID-19.  EXPEDIENTE  FORENSE.  SUSPENSÃO.  COMPROVAÇÃO.  ATO  DA  INTERPOSIÇÃO  DO  RECURSO.  ART.  1.003,  §  6º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  RESOLUÇÕES  CNJ.
+(..)
+4.  A  Resolução  nº  318,  de  7/5/2020,  do  CNJ,  prorrogou  a  vigência  das  Resoluções  nºs  313  e  314  até  o  dia  31  de  maio  de  2020,  mantendo  a  fluência  dos  prazos  desde  4/5/2020  e  permitindo  a  suspensão  dos  prazos,  caso  autoridade  estadual  determinasse  medidas  restritivas  (lockdown),  ou  a  pedido  do  próprio  Tribunal,  suspensão  que  seria  válida  somente  para  aquela  unidade  da  federação.
+5.  Na  hipótese,  a  recorrente  não  comprovou,  no  ato  de  interposição  do  recurso  especial,  que  a  partir  do  dia  16/3/2020  os  prazos  processuais  foram  suspensos  no  tribunal  de  origem,  nem  que  houve  prorrogação  além  do  período  determinado  nas  resoluções  do  CNJ.
+(..)
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.819.833/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  20/9/2021,  DJe  24/9/2021).
+As  razões  do  presente  agravo  não  são  suficientes  para  reformar  a  decisão  agravada.
+Ante  o  exposto,  nego  provimento  ao  agravo.
+É  o  voto.
