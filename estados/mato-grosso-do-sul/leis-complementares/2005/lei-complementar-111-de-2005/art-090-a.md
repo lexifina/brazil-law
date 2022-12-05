@@ -1,0 +1,1 @@
+Art. 90-A. Na apuração de antiguidade, o Conselho Superior da Defensoria Pública somente poderá recusar o Defensor Público mais antigo pelo voto fundamentado de dois terços de seus membros, conforme procedimento próprio e assegurado ampla defesa, repetindo-se a votação até fixar-se a indicação.

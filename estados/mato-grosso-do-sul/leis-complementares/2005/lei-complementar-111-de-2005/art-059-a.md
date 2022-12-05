@@ -1,0 +1,1 @@
+Art. 59-A. Após a posse, a Escola Superior da Defensoria Pública ministrará aos Defensores Públicos Substitutos curso oficial de preparação à carreira, objetivando o treinamento específico para o desempenho das funções técnico-jurídicas e noções de outras disciplinas necessárias à consecução dos princípios institucionais.
