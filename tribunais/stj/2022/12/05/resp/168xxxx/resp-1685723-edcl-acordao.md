@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 29/11/2022 a 05/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por Caramuru Alimentos S.A. contra acórdãoassim ementado (fl. 3.560):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INTERESSE DA UNIÃO. AFERIÇÃO. REMESSA DOS AUTOS À JUSTIÇA FEDERAL. APLICAÇÃO DA SÚMULA 150/STJ.
+1. O entendimento dado pelo Tribunal de origem à questão encontra-se em consonância com a jurisprudência desta Corte, no sentido de que incumbe exclusivamente à Justiça Federal, nos termos do artigo 109, I, da CF, aferir se há, ou não, interesse da União na lide, aplicando-se ao caso dos autos o disposto na Súmula 150/STJ, cujo teor é o seguinte: "Compete à justiça federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+2. Agravo interno não provido.
+Em suas razões, a embargante sustenta que o acórdão atacado foi omissão, tendo em vista que: i) o voto vencido proferido na origem "analisou pormenorizadamente o mérito da questão da intervenção anômala, deixando evidente a inaplicabilidade do instituto ao caso concreto e,consequentemente, a competência da Justiça Estadual para o julgamento da causa" (fls. 3.599/3600); e ii) não foi realizado do devido distinguishing,salientando que a "análise da aplicação ou não do enunciado da Súmula 150 ao caso concreto NECESSARIAMENTE precisa passar pelo crivo do que dispõe o artigo 5º da Lei 9.469/1997, pois, como exaustivamente exposto nos autos, a própria União ao intervir no feito, o faz de forma anômala, nos termos do artigo 5º da Lei nº 9.469/1997(fls. 3.275)" (fls. 3.601).
+Defende que: i)"a questão foi discutida e fundamentada pelo Tribunal de origem, uma vez que o voto vencido faz parte do acórdão, consoante disposto no artigo 941, § 3ºdo Código de Processo Civil" (fls. 3.600); e ii)"ofato de a maioria dos Desembargadores da Egrégia 10ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo terem decidido ser aplicável ao caso o entendimento disposto no enunciado da Súmula 150 do STJ não afasta a conclusão de que houve análise da matéria referente à intervenção anômala pela Câmara julgadora, como bem demonstra o voto vencido acima colacionado" (fls. 3.601)
+Ao final, pugna pelo acolhimento dos embargos de declaração.
+Com impugnação (fls. 3.607/3.612).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.ART. 1.022DO CPC/2015.VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque oacórdão embargado decidiu a controvérsia de forma clara e fundamentada, no sentido de que oentendimento dado pelo Tribunal de origem à questão encontra-se em consonância com a jurisprudência desta Corte, no sentido de que incumbe exclusivamente à Justiça Federal, nos termos do artigo 109, I, da CF, aferir se há, ou não, interesse da União na lide, aplicando-se ao caso dos autos o disposto na Súmula 150/STJ.
+Note que, ainda que o voto-vencido tenha feito referência ao artigo 5º da Lei 9.469/1997, a insurgência não merece prosperar, tendo em vista que, ao contrário do afirmado pela embargante,nãoconstaem nenhum desses votos da origem a informação de que a União requereu seu ingresso no feito na qualidade de assistente anômala e a análise quanto a esse ponto, em sede de recurso especial, esbarra no óbice da Súmula 7/STJ.
+Sendo assim, não se vislumbra razões para alterar o julgado, posto que, de fato,aaferição acerca da existência de eventual interesse da União que justifique a sua presença na lide é da esfera de competência da Justiça Federal, nos termos da Súmula 150/STJ.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
