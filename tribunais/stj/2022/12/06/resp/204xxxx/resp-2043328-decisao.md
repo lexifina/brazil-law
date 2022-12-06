@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VOTORANTIM CIMENTOS S/Acontra decisão que negou seguimento a recurso especial fundamentado nasalíneas"a" e "c" do permissivo constitucional.
+Agravo em recurso especialinterposto em: 02/02/2022.
+Concluso ao gabinete em: 22/11/2022.
+Ação: rescisão contratual, em fase de cumprimento de sentença, ajuizada por VOTORANTIM CIMENTOS S/A em face de JNM COMÉRCIO DE PEDRAS EM GERAL LTDA.
+Decisão interlocutória:indeferiu o pedido de pesquisa de bens pelos sistemas BACEN CCS e SIMBA, bem como de expedição de ofício ao Conselho de Controle de Atividades Financeiras (COAF).
+Acórdão: negou provimento ao agravo de instrumento interposto por VOTORANTIM CIMENTOS S/A, nos termos da seguinte ementa:
+Agravo de instrumento. Ação de rescisão contratual em fase de cumprimento de sentença. Recurso interposto contra decisão que indeferiu o pedido de pesquisa de bens pelos sistemas BACEN CCS e SIMBA, bem como de expedição de ofício ao Conselho de Controle de Atividades Financeiras (COAF). Inconformismo. Descabimento. Sistemas BACEN CCS e SIMBA. Mecanismos de pesquisa criados com o objetivo de prevenir e reprimir crimes financeiros. Indeferimento de expedição de ofício ao COAF. Órgão destinado à produção de inteligência financeira e proteção dos setores econômicos contra a lavagem de dinheiro e o financiamento do terrorismo. Impossibilidade de utilização dos sistemas BACEN CCS e SIMBA, bem como de consulta ao COAF para busca de bens e movimentações financeiras em execução civil. Precedentes desta C. Corte. Decisão mantida. Recurso improvido.(e-STJ fls. 545)
+Embargos de Declaração: opostos por VOTORANTIM CIMENTOS S/A, foram rejeitados.
+Recurso especial: alega violação dos arts. 139, 438, I e II, 797 e 1022, § único, II do CPC,bem como dissídio jurisprudencial.
+Além de negativa de prestação jurisdicional, sustenta "que compete ao magistrado a prática dos atos necessários para o prosseguimento do regular do processo, enquanto meio de efetivação dos direitos em litígio, incumbindo-lhe, de fato, a determinação de "todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial (..)", ainda mais considerando o trâmite do cumprimento de sentença por 4 anos sem qualquer retorno, o que vai de encontro a garantia de duração razoável do processo para a obtenção da solução integral do mérito, incluída a atividade satisfativa, assim como proporcionalidade, razoabilidade e eficiência".(e-STJ fls. 557).
+RELATADO O PROCESSO, DECIDE-SE.
+Em face das razões apresentadas no agravo de e-STJ fls. 663/699determino a reautuação do agravo como recurso especial, nos termos do art. 34, XVI, do RISTJ, para melhor exame da matéria em debate.
