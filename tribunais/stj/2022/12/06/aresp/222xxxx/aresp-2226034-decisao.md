@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ODECIO ESTRAICH, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/09/2022.
+Concluso ao gabinete em: 08/11/2022.
+Ação: revisional de contrato com pedido de compensação por danos morais e devolução de quantias movida pelo agravante, contra BANCO AGIBANK S.A.
+Sentença: julgou parcialmente procedentes os pedidos da inicial.
+Acórdão: deu parcial provimento à apelação da agravada e negou provimento ao recurso do agravante, nos termos da ementa:
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. REPETIÇÃO EM DOBRO DO INDÉBITO. DANOS MORAIS INOCORRENTES. HONORÁRIOS SUCUMBENCIAIS. MANUTENÇÃO DA SENTENÇA. POSSÍVEL A APLICAÇÃO DE JUROS REMUNERATÓRIOS, PORINSTITUIÇÃO FINANCEIRA, EM PATAMAR SUPERIOR A 12% AO ANO,CONFORME ENTENDIMENTO PACIFICADO PELO STJ. CASO EM QUEOS JUROS FORAM PACTUADOS EM DISSONÂNCIA COM A TAXA MÉDIADE MERCADO PARA O MÊS E ANO DA CONTRATAÇÃO, DEVENDO SERLIMITADOS. (RESP Nº 1.061.530/RS). A COMPENSAÇÃO DE VALORES E A REPETIÇÃO DOINDÉBITO CONSTITUEM DECORRÊNCIA LÓGICA DA PRETENSÃOREVISIONAL E DO NECESSÁRIO ACERTAMENTO DA RELAÇÃODÉBITO-CRÉDITO, EM FACE DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA, DEVENDO SER ADMITIDAS DE FORMA SIMPLES,INDEPENDENTEMENTE DE PROVA DO PAGAMENTO POR ERRO. PRECEDENTE DO STJ. OS INCÔMODOS DECORRENTES DE COBRANÇAS INDEVIDAS, POR SISÓ, NÃO CARACTERIZAM DANOMORAL. HONORÁRIOS SUCUMBENCIAIS REDIMENSIONADOS, COM FULCRO NOART. 86 DO CPC. APELAÇÃO CÍVEL DO RÉU PARCIALMENTE CONHECIDA E, NAPARTE EM QUE CONHECIDA, PARCIALMENTE PROVIDA. RECURSO ADESIVO DO AUTOR DESPROVIDO. UNÂNIME."(e-STJ fl. 238)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022, II , II, c/c art. 489, § 1º, III e IV, do CPC. Sustenta negativa de prestação jurisdicional, ao argumentarqueque o julgamento concedeu pedido dissociado da causa de pedir das partes, bem como que o pedido indenizatório se funda em cobrança de valores superiores ao estipulado contratualmente, e não na abusividade de juros remuneratórios, como entendeu o TJ/RS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Na hipótese, a parte alega que o julgamento concedeu pedido dissociado da causa de pedir das partes, bem como que o pedido indenizatório se funda em cobrança de valores superiores ao estipulado contratualmente, alegações que caracterizam viés estritamente infrigencial por error in judicando.
+Neste sentir, ainda que a solução mais adequada para essa ou aquela questão fosse realmente a sugerida pelo embargante, certo é que o conserto dos comandos judiciais em debate somente poderia advir de uma reformado julgado através da via recursal adequada, visto que "mostra-se inviável a alteração do acórdão recorrido, na via dos embargos de declaração, em face de error in judicando, na medida em que este não se configura erro material capaz de ser corrigido por meio de embargos de declaração." (EDcl no REsp 798.283/ES, Quinta Turma, DJe 12/05/2011).
+No particular, verifica-se que o acórdão recorrido, sob viés diferente da parte agravante, decidiu, fundamentada e expressamente acerca de queas cobranças indevidas geradas por encargos abusivos que tornaram os descontos superiores àqueles inicialmente contratadosnão caracterizam dano moral e que, embora os juros contratados fossem, efetivamente, abusivos, é certo que as cobranças foram realizadas com base nos termos dos contratos.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos art. 489 e 1.022 do CPC.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUALCIVIL.AGRAVOEMRECURSOESPECIAL.AÇÃOREVISIONALDECONTRATOCOMPEDIDODECOMPENSAÇÃOPORDANOSMORAISEDEVOLUÇÃODEQUANTIAS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Açãorevisional de contrato com pedido de compensação por danos morais e devolução de quantias.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Agravo conhecido. Recurso especial não provido.
