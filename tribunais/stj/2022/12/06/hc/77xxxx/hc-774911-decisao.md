@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso, com pedido liminar, impetrado em benefício deFELIPE ALEXSANDRO SANTIN REIScontra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento daApelação Criminal n.1500288-85.2021.8.26.0599.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, pela prática do crime previsto no art. 155, § 4º, II e IV, c.c o art. 14, II, ambos do Código Penal (furto qualificado tentado), à pena de 1 ano, 6 meses e 20 dias de reclusão, em regime inicial fechado, e multa.
+Ambas as partes apelaram, o Tribunal deu parcial provimento apenas ao recurso do Ministério Público para afastar o reconhecimento da confissão espontânea, redimensionando a pena imposta para 1 ano, 10 meses e 12 dias de reclusão, mantidos os demais termos da sentença condenatória. O acórdão ficouassim ementado:
+"FURTO DUPLAMENTE QUALIFICADO TENTADO - Autoria e a materialidade comprovadas - Condenação mantida - Participação de menor importância não configurada - Confissão parcial - Atenuante não caracterizada - Hipótese de readequação da pena, tal como pleiteado pelo Ministério Público - Manutenção da redução mínima pela tentativa, diante do iter criminis verificado - Regime inicial fechado fundamentadamente imposto. Desprovimento do apelo defensivo e acolhimento do recurso ministerial"(fl. 366).
+No presentewrit,a Defensoria Pública sustenta que o paciente faz jus ao reconhecimento da confissão espontânea, visto que, embora parcial, teria sido utilizada para fundamentar a condenação.
+Requer a concessão da ordem nesse sentido.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal opinou pela concessão da ordem (fls. 67/74).
+É o relatório.
+Decido.
+Diante da hipótese dehabeas corpussubstitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No que concerneao reconhecimento da atenuante da confissão espontânea, asseverou a Corte estadual:
+" ..
+Na segunda fase, a reprimenda não sofreu alteração, eis que compensada a agravante da reincidência com a atenuante da confissão.
+No entanto, a mencionada atenuante não pode ser reconhecida na presente hipótese, tendo em vista que o acusado admitiu apenas parcialmente a prática do furto, procurando minimizar sua culpa.Com efeito, deve ser ressaltado que, em juízo, ele apresentou versão diversa daquela narrada na Delegacia, tendo afirmado perante a autoridade judicial, com o nítido intuito de tentar abrandar sua pena, que havia exercido apenas a função de olheiro. Com o mesmo propósito, também procurou afastar a qualificadora da escalada" (fl. 371).
+A jurisprudência desta Corte entende que a atenuante da confissão, mesmo que parcial, quando utilizada para formar a convicção do julgador, deve ser reconhecida, com a consequente redução da pena.
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ART. 304 C/C ART. 297, AMBOS DO CÓDIGO PENAL. SEGUNDA FASE DA DOSIMETRIA. COMPENSAÇÃO ENTRE A AGRAVANTE DA REINCIDÊNCIA E A ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. MATÉRIA PACIFICADA NO ERESP N. 1.154.752/RS. DUPLA REINCIDÊNCIA. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE. PRECEDENTES. REINCIDÊNCIA ESPECÍFICA. PRECEDENTE JULGADO PELA TERCEIRA SEÇÃO DESTA CORTE NO HC N. 365.963/SP. APLICAÇÃO DA FRAÇÃO DE 1/3. REDUÇÃO PARA A USUAL FRAÇÃO DE 1/6. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PENA QUE DEVE SER REDUZIDA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- A Terceira Seção desta Corte Superior, ao julgar o EREsp n. 1.154.752/RS, uniformizou o entendimento de que a atenuante da confissão espontânea deve ser compensada com a agravante da reincidência.
+- Avançando na análise do tema, a mesma Terceira Seção, no julgamento do HC n. 365.963/SP, ocorrido em 11/10/2017, assentou não haver previsão legal para que se oferte mais desvalor à conduta daquele que ostenta outra condenação pelo mesmo delito, de forma que a reincidência específica deve ser compensada integralmente com a atenuante da confissão.
+- Tendo em vista múltipla reincidência específica do paciente, a compensação integral entre a confissão e a reincidência violaria os princípios da individualização da pena e da proporcionalidade.
+- No caso, porém, está configurado o constrangimento ilegal, pois as instâncias ordinárias exasperaram a pena, na segunda fase da dosimetria, na fração de 1/3, apenas pela reincidência específica, o que destoa do novel entendimento firmado nesta Corte, devendo ser reduzida a exasperação para a usual fração de 1/6.
+- Habeas corpus não conhecido. Ordem concedida ex officio, para reduzir a pena corporal do paciente para 3 anos e 6 meses de reclusão, e 17 dias-multa, mantidos os demais termos da condenação.
+(HC 411.129/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/12/2017).
+Ante o exposto,não conheço dohabeas corpus,mas concedo a ordem, de ofício, para restabelecer a sentença penal condenatória.
+Publique-se.
+Intime-se.
