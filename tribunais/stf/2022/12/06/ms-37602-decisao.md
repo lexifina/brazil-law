@@ -1,0 +1,209 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado pelo Estado do Piauí em face de decisão tomada pelo Ministro do Tribunal de Contas da União Augusto Nardes, nos autos da Representação 045.703/2020-5, de sua relatoria, em que determinou o seguinte:
+
+    “(...)
+
+    Ante todo o exposto, decido: a) determinar ao Estado do Piauí, cautelarmente, com fundamento no art. 276, caput, do Regimento Interno do TCU, que se abstenha, até a decisão definitiva de mérito deste Tribunal, de utilizar recursos do Fundef e do Fundeb, ainda que obtidos judicialmente, para novos pagamentos decorrentes da utilização e/ou da disponibilização dos imóveis aportados no Fundo Financeiro do Regime Próprio de Previdência Social do Estado do Piauí de que trata o art. 2º da Lei Estadual 6.776/2016, visto que tais pagamentos configuram manobra com o objetivo de legitimar a utilização de recursos vinculados no pagamento de despesas previdenciárias, conflitando, destarte, com a legislação regente daqueles fundos e o entendimento firmado por este Tribunal acerca da matéria, contido, em especial, nos Acórdãos 1.824/2017, 1.962/2017 e 2.866/2018, todos do Plenário e da relatoria do Ministro Walton Alencar Rodrigues, que vedam, entre outras destinações, dispêndios com passivos trabalhistas ou previdenciários; b) determinar, nos termos do art. 276, § 3º, do Regimento Interno/TCU, a oitiva do Estado do Piauí para, caso tenha interesse, manifestar-se, no prazo de até quinze dias, sobre os fatos apontados nesta representação envolvendo a aventada utilização irregular de recursos dos precatórios do Fundef para o pagamento de contraprestação pela utilização dos imóveis aportados no Fundo Financeiro do Regime Próprio de Previdência Social do Estado do Piauí de que trata o art. 2º da Lei Estadual 6.776/2016, descritos nos itens 14.a a 14.c acima, alertando-o quanto à possibilidade de o Tribunal vir a determinar a restituição dos referidos montantes aos cofres daquele fundo, bem como a responsabilização dos agentes públicos que deram causa à citada despesa; c) encaminhar cópia da presente decisão, acompanhada dos pareceres da unidade técnica que a fundamentaram (peças 11 e 12), ao Estado do Piauí, a fim de subsidiar as manifestações a serem requeridas; d) encaminhar cópia integral deste processo ao Tribunal de Contas do Estado do Piauí, ao Ministério Público do Estado do Piauí, à Procuradoria da República no Estado do Piauí, ao Ministério Público de Contas junto ao TCE/PI e à Controladoria Geral da União no Estado do Piauí, com a finalidade de fornecer subsídios às ações de controle a cargo de cada um desses órgãos”. (eDOC 13, p. 5)
+
+    Em suma, a decisão impugnada determinou ao ente federado que se abstenha de utilizar recursos provenientes de precatório emitido para quitar débitos relativos ao FUNDEF e FUNDEB no pagamento de aluguéis de imóveis pertencentes ao Fundo Financeiro do Regime Próprio de Previdência Social do Piauí – Fundação Piauí Previdência, afetados à prestação de serviço público de educação.
+
+    Posteriormente, o ato coator foi ratificado pelo Acórdão 4.053/2020-TCU-Plenário, proferido pelo Tribunal de Contas da União, em julgamento assim sumariado:
+
+    “REPRESENTAÇÃO. UTILIZAÇÃO DOS RECURSOS ALUSIVOS AOS PRECATÓRIOS DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO - FUNDEF EM DESACORDO COM AS NORMAS DE REGÊNCIA DESSE FUNDO E COM O ENTENDIMENTO FIRMADO POR ESTE TRIBUNAL ACERCA DA MATÉRIA, QUANTO À VEDAÇÃO, ENTRE OUTRAS DESTINAÇÕES, DE DISPÊNDIOS COM PASSIVOS TRABALHISTAS OU PREVIDENCIÁRIOS. PRESENÇA DO FUMUS BONI IURIS E DO PERICULUM IN MORA. CONCESSÃO DE MEDIDA CAUTELAR SUSPENDENDO O PROCEDIMENTO ATÉ O ADVENTO DE DELIBERAÇÃO DEFINITIVA DO TRIBUNAL A RESPEITO. OITIVA. REFERENDO DO PLENÁRIO.”
+
+    Na exordial, o impetrante sustenta a regularidade da aplicação da disponibilidade em caixa, gerada pelo pagamento do precatório 0227623-77.2019.4.01.9198 (requisitado pelo Tribunal Regional Federal da 1ª Região no valor de R$ 1,65 bilhão, com fundamento na condenação judicial da União para complementar valores repassados a menor no âmbito do FUNDEF), na locação de imóveis destinados a instalação de unidades de educação básica.
+
+    Alega que a autoridade coatora incorreu em ilegalidade ao pressupor um desvio contábil no emprego da verba, ao cogitar que mediante vias transversas o autor estaria capitalizando fundo previdenciário, finalidade essa distinta daquelas ações educacionais para as quais são vinculados os recursos do FUNDEF, bem como descumprindo decisões anteriores do TCU.
+
+     Expõe que por meio das Leis estaduais 6.776/2016 e 6.910/2016 o Estado piauiense alienou gratuitamente bens imóveis por si utilizados em atividades do ensino público básico à Fundação Piauí Previdência, instituída pela Lei Complementar estadual 39/2014, como gestora do regime próprio da previdência social daquela unidade da federação. O equívoco do TCU teria sido presumir fraude nesse proceder administrativo.
+
+    Defende, em acréscimo, que o TCU é incompetente para o exercício do controle externo das alienações patrimoniais realizadas por Estado-membro. Mesmo que assim não fosse, seria necessário por parte da autoridade coatora a declaração da inconstitucionalidade dos diplomas estaduais que viabilizaram a transferência patrimonial dos bens públicos desde o Erário estadual para a Fundação Piauí Previdência, o que não ocorrera na espécie.
+
+    Ademais, argumenta que o contrato de locação imobiliária em questão diz respeito a despesa pública regularmente qualificada como de manutenção e desenvolvimento do ensino, nos termos dos arts. 70 e 71 da Lei 9.394/1996 e do art. 23 da Lei 11.494/2007, bem como em consonância ao item 4.1.4.C do Manual de Orientação do Fundeb, editado pelo Ministério da Educação.
+
+    Em resumo, aporta as seguintes conclusões de sua argumentação jurídica:
+
+    “a) O impetrante alienou imóveis ao Fundo do RPPS com base em autorização legislativa anterior ao ajuizamento do litígio em que tomou parte com a União Federal (Leis Estaduais 6.776/2016 e 6.910/2016);
+
+    b) Subsequentemente, mas também antes do ajuizamento do litígio, o Estado firmou com a Fundação Piauí Previdência, gestora do Fundo RPPS-PI, contrato de locação dos imóveis transferidos, após competente avaliação patrimonial, mediante dispensa de licitação respaldada no art. 24, inciso X, da LLC (contrato de locação nº 00244/2017);
+
+    c) Havendo contrato de locação válido e vigente, o Estado do Piauí estava, como está autorizado à utilização de recursos do precatório com o pagamento dos respectivos alugueres, que constituem despesas com manutenção e desenvolvimento do ensino, conforme art. 70 da LDB, c/c Manual de Orientação do FUNDEB, editado pelo Ministério da Educação.”
+
+    O impetrante também cuida de impugnar os argumentos laterais do TCU. De início, afirma a relação de causalidade entre os dispêndios realizados com pagamentos imobiliários ao fundo de previdência estadual e os previstos no plano de aplicação dos recursos oriundos dos precatórios do Fundef.
+
+    Além disso, entende que há previsão legal para utilização dessas verbas relativas às despesas de exercícios anteriores. No particular, cuida-se de valores não adimplidos referentes ao contrato de locação com referência aos anos de 2017 a 2019.
+
+    Pugna pela plena compatibilidade entre a alienação dos imóveis pela Lei estadual 6.776/2016 e o disposto no art. 100 do Código Civil.
+
+    Em sede liminar, requer a sustação dos efeitos do Acórdão nº 4.053/2020, do Plenário do TCU.
+
+    No mérito, pede a concessão da ordem, de modo a confirmar a medida acauteladora, com a declaração de nulidade do ato do órgão de controle e a afirmação da prerrogativa do ente público de solver com recursos do FUNDEF e FUNDEB os valores devidos ao Fundo Financeiro do RPPS-PI – Fundação Piauí Previdência pela utilização dos imóveis que lhe foram transferidos pelas Leis Estaduais 6.776/2016 e 6.910/2016.
+
+    No curso do recesso forense, a Presidência do STF não verificou se tratar de caso a atrair sua atuação excepcional, nos termos regimentais.
+
+    Inicialmente, os autos foram distribuídos ao Ministro Roberto Barroso, por prevenção atinente à Rcl 39.509, de sua relatoria, porém Sua Excelência suscitou à Presidência ser o caso de livre distribuição do feito. (eDOC 19)
+
+    O Ministro Presidente Luiz Fux pediu informações à Secretaria Judiciária do STF a respeito dos critérios utilizados na indigitada distribuição. (eDOC 22)
+
+    Posteriormente, decidiu por minha prevenção para conhecer da demanda em razão do MS 36.705, de minha relatoria, em que o Estado do Piauí hostiliza decisão do TCU no contexto do supracitado precatório federal. (eDOC 24)
+
+    A tutela provisória de urgência foi deferida para fins de sustar a eficácia do acórdão 4.053/2020-TCU-Plenário. (eDOC 27)
+
+    Informações prestadas pela autoridade coatora. (eDOC 38)
+
+    A Procuradoria-Geral da República manifestou-se pela denegação da segurança, em acórdão assim ementado:
+
+    “Mandado de segurança. Legitimidade do controle pelo Tribunal de Contas da União da destinação de verbas de precatório judicial decorrente de ação judicial que condenou a União ao pagamento de complementação ao FUNDEF. Crédito de precatório com origem federal e natureza vinculada à destinação prevista no art. 60 do ADCT. Legitimidade de medida cautelar determinada pelo TCU com vistas a prevenir destinação desvirtuada desses recursos do FUNDEF. Parecer por que se negue a segurança”. (eDOC 43)
+
+    A Advocacia-Geral da União interpôs agravo contra a decisão que concedeu a tutela provisória de urgência. (eDOC 45) Contrarrazões do agravado. (eDOC 49)
+
+    Em seguida, o Estado do Piauí, ora impetrante, apresentou manifestação aduzindo que, um mês após a impetração, a Procuradoria da República no Estado do Piauí ajuizou Ação Civil Pública perante a Justiça Federal de 1ª Instância, na qual deduziu os seguintes pedidos:
+
+    ”Diante do exposto, o MINISTÉRIO PÚBLICO FEDERAL requer:
+
+    b.1) o Estado do Piauí se abstenha de utilizar recursos do Fundef e do Fundeb, ainda que obtidos judicialmente, para novos pagamentos decorrentes da utilização e/ou da disponibilização dos imóveis aportados no Fundo Financeiro do Regime Próprio de Previdência Social do Estado do Piauí de que trata o art. 2º da lei estadual 6.776/2016;
+
+    b.2) a fixação de multa diária no valor de R$ 100.000,00 (cem mil reais) para a hipótese de não cumprimento da supracitada determinação.
+
+    c) ao final, seja(m):
+
+    c.1) anuladas as doações dos imóveis sedes das 436 (quatrocentos e trinta e seis) escolas públicas estaduais a que se refere à Lei nº 6.776/2016, realizadas em favor da Fundação Piauí Previdência;
+
+    c.2) tornado sem efeito o contrato de locação nº 244/2017 firmado entre a Secretaria de Estado da Educação do Piauí – SEDUC e a referida entidade;
+
+    c.3) restituídos os referidos montantes aos cofres do Fundeb, totalizando R$ 91.646.731,14 (noventa e um milhões, seiscentos e quarenta e seis mil, setecentos e trinta e um reais e quatorze centavos), bem como a responsabilização dos agentes públicos que deram causa à citada despesa; (...)’ (petição inicial em anexo – DOC. 02)”.
+
+    Aduz, ainda, in verbis, que:
+
+    “A causa petendi da aludida ACP, a exemplo do que se passa nesta impetração, consiste na utilização, pelo Estado do Piauí, de recursos do Precatório nº 0227623- 77.2019.4.01.9198 no pagamento de alugueis de imóveis pertencentes ao Fundo previdenciário da Administração estadual, gerido pela Fundação Piauí Previdência. É o que se deduz da suso referida petição inicial:
+
+    (...)
+
+    A ACP foi distribuída à d. 5ª Vara Federal da Seção Judiciária do Piauí (Processo nº 1001248-12.2021.4.01.4000), à qual se impunha, por imperativo de conexão, a remessa ex officio do processo ao C. Supremo Tribunal Federal, sob as cautelas desta eminente Relatoria.
+
+    Contudo, em 03.02.2021 - data na qual Vossa Excelência já havia deferido liminar neste MS -, Sua Excelência o MM Juiz titular da 5ª Vara Federal de Teresina concedeu a tutela provisória requestada pelo Ministério Público Federal, fazendo-o nos termos seguintes:
+
+    ‘Por fim, ressalto que o Tribunal de Contas da União está apurando tal prática no bojo da TC 045.703/2020-5, tendo perfilhado do mesmo entendimento aqui esposado, quanto à necessidade de serem suspensos tais pagamentos.
+
+    Por todo o exposto, DEFIRO a tutela de urgência, inaudita altera pars, para DETERMINAR que o Estado do Piauí se abstenha de utilizar recursos do Fundef e do Fundeb, ainda que obtidos judicialmente, para promover pagamentos decorrentes da utilização e/ou da disponibilização dos imóveis aportados ao Fundo Financeiro do Regime Próprio de Previdência Social do Estado do Piauí de que trata o art. 2º da lei estadual 6.776/2016, sob pena de multa diária no valor de R$ 50.000,00 (cinquenta mil reais), até julgamento definitivo de mérito da presente demanda.
+
+    Citem-se. Intimem-se.’ (decisão em anexo – DOC. 03)
+
+    Referida decisão, fácil ver-se, simplesmente desconsiderou o decisum anteriormente proferido (em 25.02.2021) por Vossa Excelência neste MS.
+
+    (...)
+
+    A decisão da Justiça Federal em Teresina, como se vê, trouxe o efeito prático de revigorar o ato coator do eminente Ministro Relator da Representação nº 045.703/2020-5, cuja eficácia havia sido anteriormente sustada por decisão de Vossa Excelência.
+
+    Evidencia-se, portanto, que a liminar do MM Juiz federal não apenas ignorou o disposto no art. 55, §§ º e 3º e 58 do CPC, como também desacatou a decisão superiormente proferida por esta d. Relatoria.
+
+    Acresça-se que tais objeções foram devidamente participadas pela Fazenda Pública ao MM Juízo in initio litis e, depois, em sede de contestação, sem sucesso”. (eDOC 51)
+
+    Ao final, requer: i) a remessa dos autos da Ação Civil Pública n. 1001248-12.2021.4.01.4000 ao STF, porque conexa a esta impetração; e ii) a cassação da decisão liminar proferida pelo juiz de primeira instância (art. 64, § 4º, CPC), em reverência à antecedente decisão proferida nestes autos.
+
+    É o relatório. Decido.
+
+    É caso de confirmação da tutela de urgência anteriormente deferida.
+
+    Isso porque permanecem legítimas as alegações da Fazenda estadual de modo similar ao que verificado em medida cautelar no MS 36.705, de minha relatoria, no qual torno a transcrever o que lá argumentei:
+
+    “Dessa forma, como no caso dos autos, aparentemente, ainda não ocorreu qualquer operação com a utilização de dinheiro público, não verifico objeto a ser fiscalizado pelo Tribunal de Contas.
+
+    Além disso, me parece que o TCU, a despeito de fundamentar sua atuação no controle da legalidade do ato administrativo, pretendeu, na verdade, realizar o controle da constitucionalidade do disposto na Lei Estadual 7.243/2019, sobre o qual ainda não se pronunciou o STF.
+
+    Cumpre registrar que, caso o TCU entenda pela inconstitucionalidade do citado diploma, deve tomar as providências cabíveis, oficiando os órgãos competentes para a propositura da respectiva ação de inconstitucionalidade.
+
+    Assim, resta demonstrado o fumus boni iuris.”
+
+    Reitero, ainda, que neste mandamus, não empreendo juízo de constitucionalidade sobre as Leis estaduais 6.776/2016 e 6.910/2016, mas unicamente dedico-me a avaliar a atuação do TCU no caso.
+
+    Desse modo, afigura-se suficiente o argumento sustentado pelo impetrante no sentido da incompetência do TCU no que toca ao “controle para o exercício do controle externo das alienações patrimoniais realizadas por Estado-membro”. Explico.
+
+    Seguindo os cânones do constitucionalismo e de nossa tradição institucional, a Constituição Federal de 1988 afetou ao Congresso Nacional a titularidade da função de controle externo da Administração Pública (art. 70, CF/88). De modo a tornar factível o exercício dessa função, o texto constitucional invocou o auxílio do Tribunal de Contas da União (TCU) no art. 71, CF/88, dispositivo que elenca competências exercidas ora privativamente pelos Tribunais de Contas, ora de modo compartilhado com o Poder Legislativo (BRITTO, Carlos Ayres. O Regime Constitucional dos Tribunais de Contas. In: O novo Tribunal de Contas: órgão protetor dos direitos fundamentais. 3ª ed. Belo Horizonte: Fórum, 2005, p. 66).
+
+    É certo que alguns incisos do art. 71 da Constituição traduzem competências que se exercem de modo isolado pelo Tribunal de Contas da União; mas, também nessas atribuições, a função de auxiliar o Congresso Nacional no controle externo da Administração Pública Federal apenas se revela presente em cotejo com o âmbito de competência do Congresso Nacional.
+
+    Do ponto de vista constitucional, a função do Congresso Nacional de proceder à fiscalização da administração pública traduzida, por exemplo, no inciso IX do art. 49 da CF (pelo critério orgânico “... do Poder Executivo”) pode ser desempenhada por uma série de instrumentos políticos e jurídicos, os poderes, por sua vez expressamente encartados em normas de competência ou derivados da própria função (= missão a realizar). A distinção encontra correspondente próximo no par conceitual normas de tarefa (Aufgabennormen) e normas de competência (Kompetenznormen), muito caro à dogmática constitucional, que relembra ser usual que um mesmo dispositivo possa compreender, simultaneamente, ambas dimensões. (JAGMETTI, Riccardo. Kommentar zu Art. 22-quarter aBV. In: Kommentar zur Bundesverfassung der Schweizerischen Eidgenossenschaft vom 29. Mai 1874. Zurique; Berna: Helbing & Lichtenhahn, 1987, n. 5).
+
+    Há algum tempo tenho pronunciado a necessidade de este Supremo Tribunal Federal empreender leitura funcional do rol de competências inscritas nos artigos 70 e 71 da Constituição Federal. A esse respeito, retomo o que por mim defendido no MS 24.423, de minha relatoria, DJe 20.02.2009, em que se contendia a respeito de decretação da indisponibilidade dos bens de dirigentes da TERRACAP em tomada de contas especial processada pelo TCU:
+
+    “A meu ver, a interpretação deste inciso II do art. 71 deve ser feita em consonância com o disposto no art. 70 e seu parágrafo único da Constituição, atribuindo-se a competência ao Tribunal de Contas da União quando houver, especificamente, responsabilidade de administradores e responsáveis dos órgãos da administração pública, direta e indireta, no âmbito da utilização de recursos públicos federais.
+
+    Portanto, conquanto o patrimônio da TERRACAP esteja destinado ao cumprimento de finalidades de interesse público – em síntese, de um lado a implantação e desenvolvimento do Distrito Federal, art. 2º da Lei nº 5.861/72(atividade econômica indireta do Estado, na forma dos arts. 163, § 2º, da Constituição de 67, e 174 da vigente Lei Maior), e, de outro a doação à União e ao Distrito Federal dos terrenos necessários a seus serviços (conforme já anteriormente referido) – isto não afasta o fato de que ela é uma sociedade de economia mista sob o controle acionário de ente da federação distinto da União.
+
+    Portanto, a questão aqui não diz com a delimitação sobre a abrangência, objetiva e subjetiva, da competência fiscalizatória do TCU, relativamente aos órgãos, entidades, sociedades ou recursos da União, mas sim com matéria estritamente federativa, porque não se pode anuir com a adoção de medidas invasivas – ou, pior, de condução ou de paralisação gerencial-executiva – da União sobre órgãos, entidades ou sociedades sob o controle de Poder Público estadual ou municipal (nesse sentido, o recente julgamento no MS 25.295, Pleno, Rel. Joaquim Barbosa, julg. 20.04.05).
+
+    Indaga-se, apenas para exemplificar: seria admissível que o Tribunal de Contas dos Municípios do Estado de São Paulo, argüindo como fundamentos a sua competência constitucional de fiscalização das contas do Município de Santos e a participação societária por este mantida junto à Companhia Docas de Santos (sociedade de economia mista sob o controle da União), determinasse a instauração de tomada de contas especial e decretasse a indisponibilidade de bens dos responsáveis (a seu juízo) por atos supostamente danosos ao patrimônio daquela concessionária de serviço público portuário? Não parece haver dúvidas de que a resposta seria, imediatamente, negativa, rigorosamente pelas mesmas razões anteriormente referidas.
+
+    Em face do exposto, não caracterizada hipótese de competência do Tribunal de Contas da União, defiro a ordem, para que seja anulada a decisão TC 015.645/2001-0 (Decisão 1.693/02 – Plenário), que determinou a tomada de contas especial no âmbito da TERRACAP e a indisponibilidade de bens dos dirigentes daquela empresa.”
+
+    Ora, é certo que todo órgão público se volta à realização do interesse público, mandato que, entretanto, não o autoriza a atuar, em nome dessa finalidade genérica, em matérias para as quais não possui competência ou cujo tratamento se coloca além da capacidade institucional do órgão. (WALINE, Jean. Droit Administratif. 23ª ed. Paris: Dalloz, 2010, p. 3; MARQUES NETO, Floriano Peixoto de Azevedo. “A bipolaridade do Direito Administrativo e a sua superação”. In: MARQUES NETO, Floriano Peixoto de Azevedo; ARAGÃO, Alexandre de (orgs.). O Direito Administrativo e seus novos paradigmas. 2ª ed. Belo Horizonte: Fórum, 2017, pp. 87-127).
+
+    Correlatamente, a tarefa de proceder à incolumidade do erário federal não pode elevar o Tribunal de Contas da União (TCU) a uma espécie de juízo universal, em que a simples alegação hipotética de dano à União o tornaria competente para resolver questões afetas aos Tribunais de Contas dos estados ou, o que é pior, ao Poder Judiciário.
+
+    No caso dos autos, é certo que a autoridade coatora possui competência constitucional para fiscalizar verbas públicas pertinentes ao Fundef, havendo interesse da União, como, aliás, depreende-se dos seguintes precedentes:
+
+    “EMENTA: ‘Habeas Corpus’. Crime previsto no art. 2º, I do Decreto-lei nº 201/67. Prefeito municipal. Fraude em licitações. Desvio de verbas provenientes do FUNDEF, do FNDE e do FPM. Art. 71, VI da CF. Sujeição de quaisquer recursos repassados pela União a Estados, Distrito Federal e Municípios à fiscalização pelo Congresso Nacional, por intermédio do Tribunal de Contas da União. Presença de interesse da União a ser preservado, evidenciando a Competência da Justiça Federal para processar e julgar os crimes contra esse interesse (art. 109, IV da CF). Havendo concurso de infrações, essa competência também alcança os outros crimes. Precedentes citados: HHCC nºs 68.399, 74.788 e 78.728. "Habeas corpus" deferido parcialmente.”(HC 80.867, Rel. Min. ELLEN GRACIE, Primeira Turma, DJ 12.4.2002)
+
+    “DIREITO PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. FRAUDE EM LICITAÇÃO E DESVIO DE VERBAS FEDERAIS. IMPROVIMENTO. 1. O recurso extraordinário se fundamenta no art. 102, III, a, da Constituição Federal, sob o argumento de que o acórdão recorrido teria violado o disposto no art. 109, IV, do texto constitucional, relativo à competência da justiça federal. 2. Esta Corte já teve oportunidade de apreciar matéria semelhante, relacionada à possível fraude à licitação envolvendo verbas federais, sujeitas à fiscalização pelo Tribunal de Contas da União. Tratava-se de possível fraude em licitações com desvio de verbas provenientes do FUNDEF, do FNDE e do FPM, em que se reconheceu interesse da União a ser preservado, evidenciando a competência da Justiça Federal para processar e julgar os crimes contra esse interesse (HC nº 80.867/PI, de minha relatoria, 1ª Turma, DJ 12.04.2002). 3. Concluo no sentido da correção do julgado da Corte local, ao confirmar decisão declinatória em favor da justiça federal. No caso, havendo concurso de crimes, a competência da justiça federal também alcançará os fatos supostamente criminosos que foram praticados em conexão com aqueles de competência da justiça federal. 4. Recurso extraordinário conhecido e improvido.” (RE 464621, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 21.11.2008)
+
+    Contudo, a corrente lide implica em conflito federativo a respeito das opções de gastos da disponibilidade percebida em razão de precatório federal de ordem bilionária.
+
+    Ora, em regra, o ente devedor não ostenta interesse ou quaisquer pretensões quanto ao uso da pecúnia devida ao credor em obrigação de dar reconhecida judicialmente. Esse racional não se altera quando o exequente é Fazenda Pública, visto que nesse caso o rito da execução fiscal previsto na Lei 6.830/1980 cede à execução contra a Fazenda Pública com assento nos arts. 534 e 535 do CPC e posterior execução judicial pelo regime constitucional dos precatórios.
+
+    Nessas hipóteses as receitas extraordinárias são percebidas com liberalidade ao legislador orçamentário e ao gestor público que realiza a execução do orçamento público.
+
+    A problemática dos requisitórios decorrentes da complementação da União na ambiência do FUNDEF, entretanto, representa temperamento a essa regra, tendo em vista que na ACO 648, de relatoria do Ministro Marco Aurélio e com acórdão redigido pelo Ministro Edson Fachin, DJe 09.03.2018, houve determinação por parte do STF que esses valores, frutos de uma condenação judicial remanesçam vinculados à finalidade educacional, haja vista o subfinanciamento da área por atuação equivocada da União.
+
+    É o que se vê na ementa do mencionado julgamento:
+
+    “AÇÕES CÍVEIS ORIGINÁRIAS. ESTADO DA BAHIA. DIREITO FINANCEIRO. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO FUNDEF. EMENDA CONSTITUCIONAL 14/1996. COMPLEMENTAÇÃO DA UNIÃO. FUNÇÃO SUPLETIVA. VALOR MÍNIMO NACIONAL POR ALUNO. FIXAÇÃO. LEI 9.424/1996. DECRETO 2.264/1997. FORMA DE PAGAMENTO. OBRIGAÇÃO DE PAGAR. SISTEMÁTICA DOS PRECATÓRIOS. VINCULAÇÃO À FINALIDADE CONSTITUCIONAL DE ENSINO. DANO MORAL COLETIVO.
+
+    1. O valor da complementação da União ao FUNDEF deve ser calculado com base no valor mínimo nacional por aluno extraído da média nacional. RE-RG 636.978, de relatoria do Ministro Cezar Peluso, Tribunal Pleno do STF. REsp 1.101.015, de relatoria do Ministro Teori Zavascki, 1ª Seção do STJ. Acórdão do Pleno TCU 871/2002.
+
+    2. A complementação ao FUNDEF realizada a partir do valor mínimo anual por aluno fixada em desacordo com a média nacional impõe à União o dever de suplementação de recursos, mantida a vinculação constitucional a ações de desenvolvimento e manutenção do ensino.
+
+    3. É ilegal o Decreto 2.264/1997 na medida em que extravasou da delegação legal oriunda do §1º do art. 6º da Lei 9.424/1996 e das margens de discricionariedade conferidas à Presidência da República para fixar, em termos nacionais, o Valor Mínimo Nacional por Aluno.
+
+    4. Há um único método de cálculo do Valor Mínimo Nacional por Aluno nunca inferior à razão entre a previsão da receita total para o fundo e a matrícula total do ensino fundamental no ano anterior, acrescida do total estimado de novas matrículas, tudo em âmbito nacional.
+
+    5. A adoção de parâmetros nacionais não descaracteriza o caráter regional dos fundos de natureza contábil, gerenciados pelos Estados federados, com vinculação constitucional a ações de desenvolvimento e manutenção do ensino fundamental. Art. 60 do ADCT.
+
+    6. Eventual frustração de repasse de verbas é unicamente interesse público secundário da Fazenda Pública, inconfundível, pois, com suposta ofensa aos direitos de personalidade da população de determinado ente federativo para efeitos de responsabilização de danos morais coletivos.
+
+    7. Deu-se a perda superveniente do objeto da demanda com o advento da EC 53/2006, instituidora do FUNDEB, porquanto se torna inviável a imposição de obrigações de fato positivo e negativo no que diz respeito ao FUNDEF.
+
+    8. O adimplemento das condenações pecuniárias por parte da União e respectiva disponibilidade financeira aos Autores vinculam-se à finalidade constitucional de promoção do direito à educação, única possibilidade de dispêndio dessas verbas públicas.
+
+    9. Ação cível originária parcialmente conhecida e, na parte conhecida, a que se dá parcial procedência.” (grifei)
+
+    Porém, esse comando judicial não permite desvirtuar a autonomia administrativa e financeira dos Estados federados (art. 25 c/c art. 2º da CF/88) o que ocorreria, isso sim, se fosse facultado ao TCU, ao argumento de zelar pela vinculação financeira das verbas oriundas do FUNDEF/FUNDEB, adotar medidas verdadeiramente invasivas como a que se tem sob análise, cuja gravidade é tanto mais pronunciada por seu impacto palpável na atividade financeira e gerencial do Estado do Piauí.
+
+    Um resultado, é bem de ver, desproporcional. Mesmo porque, a utilização do quantum oriundo do precatório para honrar débito de contrato de aluguel de unidades escolares não parece representar despesa pública que desborde do campo temático da manutenção e desenvolvimento do ensino para os fins do art. 70 da Lei n. 9.394/96.
+
+    A propósito, calha sublinhar que, da leitura do ato coator, verifico que a própria autoridade coatora percebeu-se em zona limítrofe em termos de competências, como se vê:
+
+    “23. Todavia, ainda que tenha compreendido, em algum momento, a cooperação financeira da União, que, a propósito, é realizada de forma suplementar, a execução das políticas públicas educacionais no âmbito daquele estado, nelas incluídas a administração dos bens de uso especial da rede escolar estadual, envolve a gestão de recursos da esfera desse ente federado, dentre outras origens, que não se subordinam ao controle do TCU.
+
+    24. Ou seja, sendo o ente federado o detentor da gestão do patrimônio da rede estadual de educação básica, a alienação de imóveis integrantes desse patrimônio é matéria que refoge à competência deste Tribunal.
+
+    25. Destarte, salvo melhor juízo, a averiguação das razões fáticas e normativas da opção do Estado do Piauí em alienar imóveis próprios, dos critérios de determinação dos valores de alienação e de locação posterior desses imóveis e da regularidade do processo de alienação compete aos órgãos locais de controle.
+
+    26. Nesse sentido, no lugar da diligência, julgo mais adequado o envio de cópia destes autos ao Tribunal de Contas do Estado do Piauí, ao Ministério Público do Estado do Piauí, à Procuradoria da República no Estado do Piauí, ao Ministério Público de Contas junto ao TCE/PI e à Controladoria Geral da União no Estado do Piauí, tal qual já sugerido pela unidade técnica, para que tais órgãos adotem as providências que julgarem cabíveis, no âmbito de suas respectivas competências.”
+
+    Por conseguinte, entendo assistir razão ao Estado do Piauí na espécie.
+
+    Ante o exposto, confirmando a decisão liminar, concedo a segurança pleiteada. Prejudicado o agravo interposto pela União (eDOC 45).
+
+    Comunique-se, com urgência, o teor desta decisão: i) à autoridade coatora, ii) ao autor, e iii) à Fundação Piauí Previdência na pessoa de seu diretor-presidente ou do correspondente representante legal.
+
+    À Secretaria Judiciária para que proceda ao desentranhamento da Petição 48.109/2021 (eDOC 51), bem como dos documentos que a acompanham, para autuação e distribuição como reclamação, em processo autônomo, observando-se a regra do art. 70 do Regimento Interno do STF.
+
+    Publique-se.
+
+    Brasília, 6 de dezembro de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
