@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de DANILO CAMARGO RAMOS VIEIRA,apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2271316-89.2022.8.26.0000.
+Consta dos autos que o Juízo da Execução Criminal determinou a realização de exame criminológico para a análise do pedido do paciente de progressão ao regime semiaberto.
+Inconformada, a defesa impetrou prévio writ na origem, que teve o seguimento negado.
+Nesta via, sustenta a impetrante que o paciente estaria sofrendo constrangimento ilegal, pois estaria preso em regime fechado mesmo já tendo cumprido todos os requisitos legais para a progressão ao modo intermediário.
+Afirma que o requisito objetivo teria sido alcançado em 03.5.2021 e que o sentenciado possuiria bom comportamento carcerário, nunca teve condenação por falta disciplinar e apresentaria histórico de trabalho, não havendo nada que justifique a exigência de realização de exame criminológico.
+Alega que a gravidade do crime, por si só, não pode constituir óbice à concessão do benefício, tampouco justifica a determinação de realização de exame criminológico, por total falta de previsão legal.
+Aduz que, para a análise do mérito do condenado, basta, em regra, atestado do diretor do estabelecimento que comprove o bom comportamento, e acrescenta que "somente se pode determinar a realização de exame criminológico caso demonstrado, no caso concreto, a necessidade de submissão do preso à avaliação, conforme enunciado 439 da Súmula do STJ" (e-STJ fl. 8).
+Requer, liminarmente e no mérito, a concessão da ordem para que "seja deferida ao paciente a progressão ao regime semiaberto sem a necessidade de exame criminológico, ou, ao menos, seja determinada a análise do pedido de progressão de regime com a dispensa do referido exame" (e-STJ fl. 11).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Compulsando-se os autos, verifica-se que a defesa insurge-se contra decisão singular de desembargadordo Tribunal de origem, contra a qual seria cabívelagravoregimental, que não foi interposto, o que impossibilita o conhecimento do writ, consoante tem decidido este Superior Tribunal de Justiça:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. LAVAGEM DE CAPITAIS. ORGANIZAÇÃO CRIMINOSA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO INTERPOSIÇÃO DO AGRAVO REGIMENTAL. AUSÊNCIA DE DECISÃO COLEGIADA. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NÃO INAUGURADA NOS TERMOS DO ART. 105, II, A, DA CF. NÃO CONHECIMENTO DO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Segundo disposição do art. 105, inciso II, a, da Constituição Federal, este Superior Tribunal de Justiça é competente para julgar os recursos ordinários nos habeas corpus denegados em única ou última instância pelos Tribunais sujeito à sua jurisdição. Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, inciso II, a, da Constituição Federal, para julgar recurso ordinário em habeas corpus, ou habeas corpus substitutivo de recurso ordinário, interposto, ou impetrado, contra decisão monocrática, proferida por Desembargador Relator, que julga extinta a impetração na origem, sem resolução do mérito.
+II - No caso, não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar. Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste habeas corpus substitutivo de recurso ordinário.
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 747.117/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 16/8/2022, DJe de 23/8/2022.)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INVASÃO DE DOMICÍLIO. NÃO EXAURIMENTO DA INSTÂNCIA. WRIT INDEFERIDO LIMINARMENTE.
+1. Tendo a impetração sido direcionada à decisão monocrática proferida pelo relator na origem, ausente o competente agravo regimental, verifica-se o não exaurimento da instância antecedente.
+2. "É vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+3. Agravo regimental improvido.
+(AgRg no HC n. 732.376/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
