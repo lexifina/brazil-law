@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porRAFAEL ALVES BORGES (e-STJ fls. 989/998) contra decisão monocrática de e-STJ fls. 983/985, queconheceudo agravo para negarprovimentoao seu recurso especial.
+A parte agravante alega a redução da pena-base, uma vez que a quantidade e a natureza da droga apreendida não justificam a exasperação.
+Requer, assim, a reconsideração da decisão agravada.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. PENA-BASE. EXASPERAÇÃO. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA PARA A EXASPERAÇÃO.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes.
+2. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes.
+3. No presente caso, em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, a quantidade do entorpecente apreendido - 935g de maconha - justifica a elevação da reprimenda inicial, não havendo qualquer ilegalidade a ser sanada.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+No tocante à pena-base para o delito de tráfico, houve a manutenção da fundamentação para a exasperação pelainstânciade origem, conforme trecho abaixo (e-STJ fls. 751/752):
+Ao analisar negativamente a circunstância judicial "culpabilidade", o nobre magistrado fundamentou:
+"Culpabilidade: de distinta reprovação, considerando-se, pois, a quantidade de substância entorpecente apreendida - 935 gramas de maconha.
+Ora, a expressiva quantidade da droga apreendida, capaz de atingir uma elevada quantidade de pessoas, demonstra o maior desvalor da ação, trazendo maior reprovação do fato e do seu autor, recomendando assim, uma exasperação da pena".
+Assim, diante de tal fundamentação a pena-base restou perfeitamente exasperada, vez que o magistrado sentenciante levou em consideração a quantidade de droga, o que mostra a dimensão da atividade ilícita em que estavam envolvidos os acusados, além do dano à saúde pública, devendo ser mantida.
+No ponto, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC n. 272.126/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; HC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+Prosseguindo, na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes:AgRg nos EDcl no HC 711.362/SP, Rel. Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 22/3/2022, DJe 25/3/2022;AgRg no HC 679.035/AL, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 15/3/2022, DJe 18/3/2022;AgRg no HC 689.669/SP, RelatorMinistro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 15/3/2022, DJe 21/3/2022;AgRg no AREsp 2.036.996/SP, RelatorMinistro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 8/3/2022, DJe 11/3/2022;AgRg no AREsp 1.946.731/MS, Relator Ministro OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe 2/3/2022;AgRg no REsp 1.935.344/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022;AgRg no HC 706.132/SC, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/2/2022, DJe 18/2/2022;AgRg no HC 708.107/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 15/2/2022, DJe 21/2/2022.
+Assim, em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, a quantidade doentorpecenteapreendido-935g de maconha-justificaa elevação da reprimenda inicial, não havendo qualquer ilegalidade a ser sanada.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto,nego provimentoao agravo regimental.
+É como voto.
