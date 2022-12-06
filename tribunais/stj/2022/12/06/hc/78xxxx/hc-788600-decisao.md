@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ANDRE LUIS BERDU PINTO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo,nos termos do acórdão de STJ, fls. 52-55, não ementado.
+Neste writ, a impetrante alega constrangimento ilegal causado ao paciente, na medida em que lhe foi indeferido o pedido de progressão antecipada de regime.
+Assevera que o sentenciado cumpre pena em regime semiaberto e resgatará o lapso temporal necessário à progressão ao regime aberto em 22/2/2023 e, tendo em vista a falta de vagas nas unidades penitenciárias, a defesa postulou pedido de progressão antecipada, que foi indeferido em razão da ausência de cumprimento do requisito objetivo.
+Afirma que manter o reeducando em regime mais gravoso do aquele definido por decisão judicial importa em excesso de execução e violação à Súmula Vinculante n. 56/STF.
+Defende que "havendo déficit de vagas, cabe aos magistrados da execução penal determinar medidas cautelares como a progressão antecipada em favor de sentenciados que estão na iminência de cumprir o lapso progressional, que é exatamente o caso em análise." (e-STJ, fl. 6).
+Requer, inclusive liminarmente, que se declare o cumprimento do requisito objetivo da progressão de regime e se determine a análise em primeiro grau do requisito subjetivo.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem negou provimento ao agravo em execução aos seguintes fundamentos:
+"Pretende o agravante seja autorizado a progredir, de forma antecipada, ao regime aberto, porém sem razão.
+O sentenciado cumpre pena em unidade prisional adequada ao regime semiaberto e resgatará o lapso temporal necessário à progressão ao regime aberto apenas em 10/02/2023 (fls. 13), portanto, não adimpliu o requisito objetivo para a progressão de regime, de modo que a r. decisão atacada não merece qualquer reparo.
+Cabe destacar que a Súmula Vinculante nº 56 se destina àqueles que se encontram em regime mais gravoso do que o devido, o que não ocorre na hipótese.
+Ora, o preenchimento do lapso de cumprimento da pena necessário para a concessão da benesse ainda é futuro, constituindo a progressão mera expectativa de direito, que exige a conjugação dos requisitos objetivo e subjetivo, o último a ser avaliado no momento em que alcançado o marco temporal.
+Ademais, o regime aberto prescinde de espera por vagas, pois o recorrente cumprirá a pena em sua própria residência, e não em uma unidade prisional.
+Não bastasse, em recente decisão, esta C. Câmara entendeu pela excepcionalidade da concessão da progressão antecipada prevista no RE 641.320/RS e na Reclamação/STF 51.888, circunstância não verificada nos autos. Confira:
+ ..  De fato, dentre as determinações previstas no RE 641.320/RS e Reclamação/STF 51.888, no sentido de combater o déficit de vagas no regime semiaberto, há previsão de promoção antecipada ao regime aberto aos sentenciados que cumprem pena no regime intermediário. Todavia, trata-se de casos excepcionais, valendo a menção de que não há efeito vinculante em tais recomendações, as quais não devem ser feitas de modo aleatório e indiscriminado" (Agravo de Execução Penal 0008469-88.2022.8.26.0996; Relator (a): Sérgio Ribas; Órgão Julgador: 8ª Câmara de Direito Criminal;
+Presidente Prudente/DEECRIM UR5 - Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 5ª RAJ; Data do Julgamento: 31/08/2022; Data de Registro: 31/08/2022)
+No mesmo sentido, colaciona-se precedentes desta E. Corte:  ..
+Destarte, ausente qualquer ilegalidade ou excesso de execução, não há justificativa para acolhimento do pleito formulado.
+Isto posto, pelo meu voto, nega-se provimento ao agravo em execução penal interposto por André Luís Berdu Pinto." (e-STJ, fls. 54-55).
+Da leitura dos trechos do acórdão acima colacionados, vê-se que o paciente cumpre pena em estabelecimento prisional compatível ao regime semiaberto e que ainda não foi atingido o lapso temporal de cumprimento de pena, para fins de concessão do regime aberto, previsto no art. 112 da LEP. Portanto, não se configura o direito ao benefício, ainda que de forma antecipada, que autorize a aplicação da Súmula Vinculante n. 56/STF.
+Com efeito, a "inexistência de estabelecimento penal adequado para todos os apenados não autoriza a concessão imediata de progressões antecipadas, porquanto é imprescindível verificar - dentre os executados - quais estão mais próximos de obter os benefícios da execução penal, observado inclusive o requisito subjetivo" (AgRg no HC n. 769.941/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022).
+Nessas circunstâncias, não se verifica a existência de constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
