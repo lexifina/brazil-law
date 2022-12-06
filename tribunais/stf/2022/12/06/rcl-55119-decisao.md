@@ -1,0 +1,56 @@
+DECISÃO:
+
+Ementa: DIREITO PENAL. RECLAMAÇÃO. SÚMULA VINCULANTE 56. IMPOSSIBILIDADE DE CUMPRIMENTO DE PENA EM REGIME MAIS GRAVOSO DO QUE O DETERMINADO NA SENTENÇA.  AUSÊNCIA DE ADERÊNCIA.
+ 1.	A Súmula Vinculante 56 tem por objetivo evitar que o condenado cumpra pena em regime mais gravoso do que o determinado na sentença ou do que o autorizado por lei.
+ 2.	O RE 641.320, ao qual a Súmula Vinculante 56 faz referência, permite que o cumprimento da pena em regime semiaberto ocorra em estabelecimento que não seja caracterizado como colônia agrícola, ficando a cargo do magistrado verificar a adequação do estabelecimento.
+ 3.	As informações contidas nos autos não demonstram aderência entre o ato reclamado e a Súmula Vinculante 56.
+ 4.	Reclamação a que se nega seguimento. Prejudicado o pedido liminar.
+
+1.	Trata-se de reclamação, com pedido de liminar, ajuizada por Sandro Roberto Castro de Oliveira, com fundamento nos arts. 102, I, l, e 103-A, § 3º da CF, em face de decisão proferida nos autos da Execução Penal nº 0102088-35.2015.8.21.0001, em trâmite na 1ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que “cassou a decisão que concedeu progressão de regime e, por falta de vagas nos estabelecimentos penais próprios ao regime semiaberto, concedeu prisão domiciliar mediante monitoramento eletrônico e expediu mandado de prisão ao regime semiaberto”, o que, em tese, teria violado autoridade da Súmula Vinculante 56.
+
+2.	O autor alega que se encontra em regime semiaberto e que devido ao déficit de vagas em estabelecimentos penais próprios ao regime, foi concedida prisão domiciliar com monitoramento eletrônico, nos termos da Súmula Vinculante 56. Contudo, o Ministério Público interpôs agravo em execução onde foi mantida a progressão de regime e cassada concessão de prisão domiciliar com monitoramento eletrônico.
+
+3.	O órgão reclamado prestou informações.
+
+4.	A Procuradoria-Geral da República opina pela improcedência da reclamação, em parecer assim ementado:
+
+RECLAMAÇÃO CONSTITUCIONAL. EXECUÇÃO PENAL. AFRONTA AO ENUNCIADO DA SÚMULA VINCULANTE Nº 56 DO SUPREMO TRIBUNAL FEDERAL. NÃO CONFIGURAÇÃO. RECLAMANTE QUE OBTEVE A PROGRESSÃO PARA O REGIME SEMIABERTO E, NO MESMO ATO, A CONCESSÃO AUTOMÁTICA DE PRISÃO DOMICILIAR MONITORADA. DECISÃO PARCIALMENTE REFORMADA PELO TJRS. ACÓRDAO A QUO PROFERIDO EM SINTONIA COM A TESE FIRMADA NO JULGAMENTO DO RE 641.320/RS. RESTABELECIMENTO DA PRISÃO DOMILICIAR COM MONITORAMENTO ELETRÔNICO.  INVIABILIDADE. PARECER PELA IMPROCEDÊNCIA DA AÇÃO.
+
+5.	É o relatório. Decido.
+
+6.	A reclamação dirigida ao Supremo Tribunal Federal só é cabível quando se sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a súmula vinculante (CF/88, arts. 102, I, l, e 103-A, § 3º). Em se tratando de alegação de violação a decisão dotada de efeito vinculante, há necessidade de relação de aderência estrita entre o ato impugnado e o paradigma supostamente violado.
+
+7.	A Súmula Vinculante 56 possui o seguinte teor:
+
+A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.
+
+8.	O enunciado vinculante tem por objetivo evitar que o condenado cumpra pena em regime mais gravoso do que o determinado na sentença; ou cumpra pena em regime mais gravoso do que o autorizado por lei, em razão da inexistência de vagas ou de condições específicas que o possibilitem.
+
+9.	Para evitar que a execução da pena ocorra fora dos parâmetros fixados pelo ordenamento jurídico, é possível que o magistrado, ante a falta de vagas, adote algumas soluções criativas, previstas no RE 641.320. A primeira seria a saída antecipada de sentenciado que esteja cumprindo pena no regime com falta de vagas, colocando-o em liberdade eletronicamente monitorada, se proveniente do regime semiaberto, ou impondo-lhe penas alternativas ou estudo, se proveniente do regime aberto. Para isso, no entanto, é necessária a criação do Cadastro Nacional de Presos contendo informações acerca dos sentenciados, que formarão uma espécie de fila, de modo a permitir a identificação daquele que está mais próximo de satisfazer o requisito objetivo para progressão de regime. Outra medida seria a concessão da liberdade eletronicamente vigiada ao sentenciado, cuja fiscalização depende da atuação do Poder Público mediante construção de centrais para o acompanhamento da medida. Por fim, propõe-se, no voto do Relator, Ministro Gilmar Mendes, que os sentenciados que cumprem pena no regime aberto possam cumprir penas restritivas de direitos ou se comprometer a frequentar educação formal regular, em lugar da privativa de liberdade. Nessa linha, confira-se a seguinte ementa:
+
+Constitucional. Direito Penal. Execução penal. Repercussão geral. Recurso extraordinário representativo da controvérsia. 2. Cumprimento de pena em regime fechado, na hipótese de inexistir vaga em estabelecimento adequado a seu regime. Violação aos princípios da individualização da pena (art. 5º, XLVI) e da legalidade (art. 5º, XXXIX). A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso. 3. Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como colônia agrícola, industrial(regime semiaberto) ou de albergado ou estabelecimento adequado(regime aberto) (art. 33, § 1º, alíneas e ). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado. 4. Havendo déficit de vagas, deverão ser determinados: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+[...] 8. Caso concreto: o Tribunal de Justiça reconheceu, em sede de apelação em ação penal, a inexistência de estabelecimento adequado ao cumprimento de pena privativa de liberdade no regime semiaberto e, como consequência, determinou o cumprimento da pena em prisão domiciliar, até que disponibilizada vaga . Recurso extraordinário provido em parte, apenas para determinar que, havendo viabilidade, ao invés da prisão domiciliar, sejam observados (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada do recorrido, enquanto em regime semiaberto; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado após progressão ao regime aberto.
+(RE 641.320, Rel. Min. GILMAR MENDES, Tribunal Pleno, grifos acrescentados)
+
+10.	A solução, entre as três propostas no recurso extraordinário acima identificado, deve levar em conta as peculiaridades do caso concreto, aproximando-se, assim, de uma pena que seja suficiente para a prevenção e reprovação do delito, nos termos do art. 59 do Código Penal, conforme citado pelo Ministro Gilmar Mendes em seu voto.     Abre-se, assim, margem para a adoção de soluções criativas pelo Juiz da execução penal, o qual, por ter o conhecimento dos fatos pertinentes ao cumprimento da pena, pode aplicar a medida mais adequada ao caso sob sua análise.
+
+11.	No caso dos autos, consta que o autor cumpre pena em presídio adequado ao seu atual cumprimento de pena e que o pedido de prisão domiciliar foi cassado por ausência de preenchimento dos requisitos. Vejam-se, nesse sentido, trechos das informações prestadas pelo órgão reclamado:
+
+[...]
+Em resposta ao pedido de informações formulado por Vossa Excelência, esclareço que SANDRO ROBERTO CASTRO DE OLIVEIRA encontra-se no cumprimento de pena privativa de liberdade total de 18 anos e 06 meses de reclusão, pela prática de crimes de homicídio qualificado, tráfico de drogas e porte ilegal de arma de uso restrito.
+Em 06 de julho de 2021, quando o ora reclamante contava com saldo de pena a cumprir de 64% da pena total (11 anos e nove meses), sobreveio decisão de progressão para o regime semiaberto, tendo a magistrada Sonali da Cruz Zluhan, na mesma decisão, determinado sua inclusão no sistema de monitoramento eletrônico (evento 136 do SEEU), ao argumento de ausência de vagas.
+Interposto recurso de agravo pelo Ministério Público, foi este distribuído a minha relataria em 27 de setembro de 2021 e submetido a julgamento pelo colegiado da Primeira Câmara Criminal deste Tribunal de Justiça Estadual em 16 de dezembro de 2021, quando provido, no que tange à prisão domiciliar com monitoramento eletrônico, para "cassar a decisão agravada, revogando a prisão domiciliar concedida. e determinar seja outra proferida. com observância dos parâmetros estabelecidos no RE 641.321 RE/RS"
+O fundamento para o acolhimento da insurgência ministerial, registro, situou-se no descumprimento, pelo juízo da execução, das diretrizes estabelecidas pelo Supremo Tribunal Federal no Recurso Extraordinário (RE) 641320 e reafirmadas na Súmula Vinculante n. 56.
+Nesse ponto, informo que a concessão de prisão domiciliar no mesmo ato da progressão, pelas Varas de Execuções Criminais da Comarca de Porto Alegre, foi objeto de expediente instaurado pela Corregedoria Geral de Justiça - acionada pela magistrada da 1 ª Vara de Execuções Criminais desta Comarca, que afirmava não possuir condições de cumprir a determinação deste órgão colegiado para que observasse a orientação do Supremo Tribunal Federal -, do qual prestei exaustivos esclarecimentos, através do ofício Ofício nº 03/2021-GAB/DES-HGSN, que encaminho em anexo, pois guarda relação direta com o objeto da presente reclamação.
+Consigno, por derradeiro, ter realizado, nesta data, consulta aos registros da Superintendência dos Serviços Penitenciários, disponíveis no sistema Consultas Integradas, os quais evidenciam que SANDRO ROBERTO CASTRO DE OLIVEIRA atualmente não se encontra submetido a regime prisional mais gravoso, pois recolhido no INSTITUTO PENAL DE GRAVATAÍ SANTOS E MEDEIROS, que se destina à população carcerária dos regimes aberto e semiaberto, finalidade essa que se encontra preservada, conforme se infere dos relatórios de fiscalização do Conselho Nacional de Justiça e das informações de inspeção daquela unidade prisional do exercício de Setembro/2022.” (Grifei)
+
+12.	Não há decisão que tenha negado transferência ao regime mais benéfico por ausência de vagas. O que há é decisão que mantém o apenado em ala adequada ao regime semiaberto, tendo a anterior concessão de prisão domiciliar sido cassada de maneira fundamentada. De modo que carece a presente reclamação de aderência entre o ato reclamado e a Súmula Vinculante 56, exigência imprescindível para o cabimento da presente ação (Rcl 12.887-AgR, Rel. Min. Dias Toffoli).
+
+13.	Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Fica prejudicado o pedido liminar.
+
+Publique-se. Intime-se.
+
+	Brasília, 6 de dezembro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+Relator
