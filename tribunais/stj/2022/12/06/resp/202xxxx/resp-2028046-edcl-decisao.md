@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Maurício Dal Agnol à decisão desta relatoria proferida nos seguintes termos (e-STJ, fl. 604):
+RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS E COBRANÇA. PRESCRIÇÃO QUINQUENAL RECONHECIDA. PECULIARIDADES DO CASO. CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME INVIÁVEL. SÚMULAS N. 5 E 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões (e-STJ, fls. 610-615), sustenta o embargante, em síntese, que a decisão foi omissa por não enfrentar tese relevante para o deslinde da controvérsia, sobretudo no tocante à aplicação da teoria daactio nata, segundo a qual o prazo prescricional se inicia com o nascimento da pretensão que, no caso dos autos, só ocorreria com o recebimento dos valores.
+Assim, pleiteia que seja eliminada a omissão ora suscitada.
+Não foi apresentada impugnação (e-STJ, fl. 534).
+É o relatório.
+Os embargos merecem acolhimento, apenas para fins de sanar a omissão, sem efeitos modificativos.
+Consoante o entendimento do Superior Tribunal de Justiça, no caso de honorários contratuais, se tal verba for pactuada com amparo em cláusula de êxito, a cobrança só é possível, mesmo na hipótese de revogação do mandato no curso da demanda,após a implementação da condição suspensiva. Desse modo, é a partir do instante em que obtido o sucesso na ação que se preludia o cômputo do referido prazo extintivo.
+Veja-se:
+RECURSO ESPECIAL. CONTRATO. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRESCRIÇÃO. NÃO OCORRÊNCIA. FALECIMENTO. MANDATO. EXTINÇÃO. ART. 689, II, CC/2002. CLÁUSULA QUOTA LITIS. ÊXITO. CONDIÇÃO SUSPENSIVA. ART. 199, I, CC/2002.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir o termo inicial da prescrição da pretensão de obter o pagamento de honorários advocatícios contratuais na hipótese em que, ocorrendo o falecimento do mandante, o instrumento negocial estipula cláusula quota litis e condiciona o recebimento da referida verba à liberação dos valores da condenação.
+3. O prazo prescricional é contado, em regra, a partir do momento em que configurada lesão ao direito subjetivo, sendo desinfluente para tanto ter ou não seu titular conhecimento pleno do ocorrido ou da extensão dos danos (art. 189 do CC/2002).
+4. O termo inicial do prazo prescricional, em situações específicas, pode ser deslocado para o momento de conhecimento da lesão, aplicando-se excepcionalmente a actio nata em seu viés subjetivo.
+Precedentes.
+5. Nas ações de cobrança de honorários advocatícios contratuais, ocorrendo o falecimento do mandante, o termo inicial da prescrição, em regra, é a data da ciência desse fato pelo advogado (mandatário).
+6. A existência de cláusula quota litis em contrato de prestação de serviços advocatícios faz postergar o início da prescrição até o momento da implementação da condição suspensiva.
+7. Recurso especial não provido.
+(REsp 1605604/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2021, DJe 26/04/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO. PROVEITO OBTIDO NA DEMANDA. PRESCRIÇÃO. TERMO INICIAL. PRINCÍPIO DA ACTIO NATA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Trata-se, na origem, de ação de arbitramento de honorários, na qual a remuneração pelos serviços advocatícios estava condicionada ao sucesso da demanda.
+3. O termo inicial do prazo de prescrição da pretensão ao recebimento de honorários advocatícios contratados sob a condição de êxito da demanda judicial, no caso em que o mandato foi revogado por ato unilateral do mandante antes do término do litígio judicial, à luz do princípio da actio nata, é a data do êxito da demanda, e não a da revogação do mandato.
+4. Agravo interno não provido.
+(AgInt no AREsp 1106058/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+No caso em análise, no entanto, o Tribunal estadual reconheceu a prescrição em vista dos seguintes fundamentos (e-STJ, fls. 604-608):
+A lide envolve o arbitramento e cobrança dos honorários devidos pelos serviços prestados à apelada no processo nº 001/1.10.0335823-4 (reajuste de proventos de servidor e execução de sentença) até a data do fim do mandato.
+É caso de manter a extinção, em virtude da prescrição quinquenal, agregando fundamentação à sentença para melhor exaurir o tema.
+A questão debatida neste processo não é nova no âmbito deste Tribunal, uma vez que há diversas ações de arbitramento de honorários ajuizadas pelo recorrente, o qual teve sua inscrição na OAB suspensa no início de 2014, ficando inabilitado para exercer os poderes a ele conferidos, consoante disposto nos artigos 682, inc. III, do CC e 42 do Estatuto da OAB.(..)
+Em se tratando de ação de arbitramento de honorários advocatícios - decorrente do encerramento do mandato pela inabilitação profissional do causídico-, conta-se o prazo quinquenal previsto no art. 25, incisos I e V, do Estatuto da OAB, a partir da datada cessação do mandato, o que, no caso dos autos, ocorreu em 21.02.2014, segundo dispõe a orientação do Ofício-Circular nº 022/2014 da CGJ/TJRS.
+Considerando que a demanda foi ajuizada somente em 13.06.2021, após transcorrido05 anos da cessação dos poderes sem culpa atribuível ao cliente, impõe-se reconhecer a prescrição.
+(..)
+Ademais, não convence a tese do advogado de que a condição para ajuizar a demanda só foi implementada em 22.06.2016, quando o alvará foi levantado pela cliente (evento 1, anexo 8, fls. 19/21).
+Ainda que o contrato previsse o pagamento de honorários por ocasião do recebimento de valores, tal fato não acarreta o deslocamento do termo inicial da prescrição (actio nata). Isso porque, essa condição era aplicável enquanto o mandato estivesse vigente, porém, com a interrupção dos poderes por culpa exclusiva do advogado (inabilitação profissional) houve o vencimento antecipado da obrigação e dos serviços prestados até aquele momento:
+(..)
+Portanto, a hipótese dos autos se distingue sensivelmente dos precedentes do STJ, pois a condição suspensiva contida no "item II" do contrato de honorários, prevendo o adimplemento da verba a partir do recebimento dos valores (cláusula de êxito), torna-se inócua coma cessação motivada pela inabilitação do profissional(evento 1, contrato de honorários 3)
+(..)
+Ademais, é importante frisar que a condição suspensiva foi vinculada à "desistência" da ação ou "revogação" do mandato, hipóteses não verificadas nos autos, pois trata-se de "cessação do mandato pela inabilitação", sendo impossível interpretar a condição suspensiva extensivamente, conforme art. 121 do CC.
+De qualquer forma, seria inconcebível admitir a preservação exclusiva e proposital da aludida condição, porque o advogado que deu causa à interrupção dos trabalhos ("Operação Carmelina") não pode se valer da sua própria torpeza visando prolatar no tempo os efeitos da prescrição (venire contra factum proprium e tu quo que), conforme orientação do STJ no Agravo Regimental interposto no Agravo de Instrumento nº 1.351.861-RS, com a seguinte fundamentação no corpo da decisão:
+(..)
+Também não prospera a tese de que não teria interesse processual para ajuizar o arbitramento antes do saque do alvará, razão pela qual teria esperado até o levantamento de valores para litigar com a apelada.
+Note-se que a cessação dos poderes ocorreu na fase de execução da sentença, tanto é que o próprio causídico reconhece ter dado início à execução do julgado (evento 32, fl. 2): "A atuação do Apelante se deu em toda a fase de conhecimento daquela ação, durante o cumprimento de sentença, até a finalização do incidente de impugnação de créditos". Ou seja, o crédito já estava garantido, pois tinha transitado em julgado.
+Portanto, a condição suspensiva (êxito) havia se implementado, pendente apenas do quantum definitivo (ex. juros, correção monetária). Nestas condições, era perfeitamente possível o ajuizamento da ação de arbitramento que, por ventura, poderia, tão somente, ser suspensa pelo Magistrado, caso reputasse a incidência do art. 313, inc. V, alínea "a", do CPC:
+(..)
+Logo, não há falar em surgimento posterior da pretensão, porque o advogado já poderia - e deveria - cobrar pelos serviços, ante à liquidezdo valor recebido pela cliente.
+Ressalto que este julgamento está em consonância com o entendimento proferido pelo STJ no REsp n. 805.151/SP e no Informativo nº 560, onde ficou consolidada a orientação de que o prazo prescricional nos contratos advocatícios com cláusula de êxito começa a fluir, não a partir da data de revogação do mandato, mas sim do êxito da demanda.
+Entretanto, o referido julgado também excepciona que este entendimento é aplicado nas hipóteses " ..  em que o mandato foi revogado por ato unilateral do mandante". Considerando que não houve revogação unilateral, mas sim cessação por culpa atribuível ao advogado, aplica-se a data da inabilitação profissional como termo inicial da prescrição. Até porque, a cliente apenas atendeu ao Ofício-Circular nº 022/2014 da CGJ/TJRS, alertando as partes sobre as investigações criminais e a suspensão do registro contra o causídico.
+(..)
+No que se refere à interrupção da prescrição pelo ajuizamento da prévia execução dos honorários aqui cobrados (9000108-82.2021.8.21.0096) em 07.04.2021, a qual foi julgada extinta pela incompetência do JEC e baixada em 11.08.2021, tal fato não altera a conclusão já exarada.
+Isso porque, entre a data da cessação do mandato pela inabilitação do advogado (21.02.2014) e o ajuizamento da referida execução no JEC (07.04.2021) já havia transcorrido o prazo de 05 anos, tornando inócua a referida causa de interrupção, a qual só aconteceu quando já prescrita a pretensão.
+Nessas condições, as particularidades do caso, após a análise pormenorizada da lide, impõem manter a sentença em decorrência da prescrição.
+Por fim, ressalto inexistir afronta ou negativa de vigência aos dispositivos constitucionais e legais discutidos no recurso, os quais se consideram incluídos no acórdão, nos termos do art. 1.025 do CPC, especialmente, os artigos 22, §2º, 25, incisos I e V e 42 da lei8.906/94; artigos 121, 125, 189, 199, 202, 206, §5º, inc. II e 682, inc. III, do CC. Será considerada protelatória e de má-fé a oposição de embargos declaratórios na tentativa de rediscutir o mérito por via transversa ou modificar o entendimento taxativamente exarado neste julgado, sujeito às penalidades legais.
+Ante o resultado do julgamento, majoro a verba sucumbencial devida pelo recorrente para R$ 3.000,00, nos termos do art. 85, § 2º e § 11, do CPC. Revogada a AJG deferida equivocadamente na sentença, ante à ausência de pedido neste sentido e diante do pagamento espontâneo das custas e do preparo, afastando concluir pela incapacidade financeira.
+Da leitura atenta do acórdão, verifica-se que fora reconhecida a implementação da cláusula de êxito, por já ter ocorrido o trânsito em julgado do crédito sobre o qual teria direito a cliente quando da cessação dos poderes outorgados ao ora embargante, de modo que, à época, já era possível ao advogado cobrar pelos serviços prestados.
+Assim, apesar de ter o Tribunal de Justiça reconhecido "(..) a data da inabilitação profissional como termo inicial da prescrição", tal conclusão foi calcada na premissa fática de que "(..) a condição suspensiva (êxito) havia se implementado, pendente apenas doquantumdefinitivo (ex. juros, correção monetária)".
+Portanto, é certo que a conclusão adotada no acórdão recorrido foi pautada em peculiaridades do caso, sobretudo pelo reconhecimento da implementação do êxito (causa suspensiva).
+O acolhimento da pretensão recursal, a fim de afastar a conclusão do Tribunal local sobre a implementação da causa suspensiva,demandaria o revolvimento de fatos e provas, bem como interpretação de cláusula contratual,inviável ante osóbices das Súmulas n. 5 e 7/STJ.
+Diante dessas considerações, acolho os embargos de declaração para sanar a omissão, mantendo a decisão ora embargada sob seus próprios termos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. DECISÃO EMBARGADA MANTIDA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEMEFEITOS INTEGRATIVOS.
