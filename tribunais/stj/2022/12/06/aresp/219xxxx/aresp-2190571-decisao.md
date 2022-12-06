@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por Banco Santander (Brasil) S.A. contra a decisão de fls. 115-117 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aoacórdãode fls. 56-61 (e-STJ), prolatadopelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Validade da citação nos embargos de terceiro. Carta de citação recebida pelo embargado. Ausência de informação nos autos dos embargos de terceiro da revogação ou renúncia aos poderes outorgados aos antigos patronos, bem como a comprovação de constituição de novos patronos. Nulidade da intimação no cumprimento de sentença, pois instaurado posteriormente ao requerimento de intimação em nome dos novos patronos. Manutenção do r. "decisum"; Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 63-86), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 272, §§ 2º e 5º, e 280 do CPC/2015. Sustentou, em síntese, a nulidade da sua citação nos embargos de terceiro.
+Contrarrazões às fls. 95-107 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não demonstração da violação aos dispositivos arrolados; e b) não comprovação do dissídio jurisprudencial.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 154-165 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, verifica-se que os fundamentos da decisão para a rejeição da tese de nulidade da citação sobre os embargos de terceiro foram: o embargado recebeu a carta de citação; não informou nos autos dos embargos de terceiro a substituição dos advogados; e de que o manejo dos embargos à execução foi certificado nos autos daação de execução.
+Veja-se às fls. 60-61 (e-STJ):
+Conforme restou fundamentado na r. sentença guerreada e se constata a fls. 119 dos autos dos embargos de terceiro, o embargado recebeu a carta de citação em 21/06/2017, com respectiva juntada aos autos em 29/06/2017. Além disso, conforme já acima detalhado, a fls. 123/124 dos autos dos embargos de terceiro, verifica-se que a r. decisão de fls. 122 foi disponibilizada no DJe em 19/02/2018 com a indicação dos seguintes advogados do embargado/agravante: Dra. Beatriz Aparecida Mesquita Politani OAB/SP 132.641, e Dr. Márcio Perez de Rezende OAB/SP 77.460. Todavia, o próprio embargado/executado reconheceu em suas manifestações que o peticionamento informando os novos patronos se deu em 30.11.2017, mas nos autos da ação de execução. Dessa forma, de rigor reconhecer que era ônus do embargado a informação nos respectivos autos dos embargos de terceiro da revogação ou renúncia aos poderes outorgados aos antigos patronos, bem como a comprovação de constituição de novos patronos, ônus este do qual não se desincumbiu. Ainda, conforme também se verifica a fls. 127 dos autos dos embargos de terceiro, foi certificada a sua oposição nos autos da ação de execução, em 12/04/2018, data esta, inclusive, bem anterior à r. sentença prolatada em 07/08/2018.Assim, diante da comprovação de que foram realizados os devidos e suficientes atos de ciência, mostra-se imperiosa a ratificação da validade da citação nos embargos de terceiro.
+Dessa forma, a revisão da conclusão a que chegou a Corte estadual (validade da citação) demandaria nova incursão no conjunto probatório dos autos, medida obstada pela incidência da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A jurisprudência desta Corte já consolidou o entendimento de que o benefício da gratuidade de justiça pode ser indeferido quando as circunstâncias dos autos apontarem que a parte possui meios de arcar com as custas do processo em virtude da presunção relativa da declaração de hipossuficiência.
+2. É incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal. Tal circunstância impossibilita o exame do pedido de redução da indenização por danos morais.
+3. A análise da alegada nulidade da citação demandaria o revolvimento do contexto fático dos autos, vedado em recurso especial por óbice da Súmula 7 do STJ.
+4. A incidência do referido óbice também impede a análise do dissídio jurisprudencial, o que inviabiliza o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Tendo a Corte de origem afastado a intervenção do Ministério Público por falta de demonstração da existência de interesse de incapaz, não há como inverter tal conclusão sem a incursão no conjunto probatório dos autos. Incidência da Súmula 7 do STJ.
+6. Para Alterar a conclusão do Tribunal de origem, acolhendo-se a pretensão recursal de exonerar o agravante do dever de quitar o débito executado seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.585.241/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/6/2020, DJe de 3/8/2020.)
+Importante consignar o entendimento desta Corte Superior no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RESPONSABILIDADE DO FORNECEDOR CIVIL. PROPAGANDA ENGANOSA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. A verificação de que a situação não ultrapassou o mero inadimplemento contratual exigiria o reexame de provas, vedado em recurso especial.
+3. "Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1812345/AM, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe 21/11/2019).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.817.343/SP, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 04/10/2021, DJe 08/10/2021).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. VALIDADE DA CITAÇÃO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
