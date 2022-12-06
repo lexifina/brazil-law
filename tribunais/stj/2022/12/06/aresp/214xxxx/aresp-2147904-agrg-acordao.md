@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ORESTO ABEDIAS JUNIOR, contra decisão do Ministro Humberto Martins que não conheceu do agravo em recurso especial.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 451-453).
+Sustenta que a ausência de demonstração de feriado local perante a Cortea quoé mera nulidade relativa, que pode e deve ser sanada na forma do art. 932, parágrafo único, do CPC.
+Pugna pela reconsideração da decisão agravada ou o provimento do agravo regimental.
+As contrarrazões foram apresentadas às fls. 478-479.
+O Ministério Público Federal opinou pelo não conhecimento do agravo regimental (e-STJ fls. 485-487).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. TRÁFICO DE DROGAS. POSSE ILEGAL DE MUNIÇÕES. RECURSO INTERPOSTO APÓS LAPSO DE QUINZE DIAS. SUSPENSÃO DOS PRAZOS POR FORÇA DE NORMA LOCAL. COMPROVAÇÃO. INEXISTÊNCIA. INTEMPESTIVIDADE DO RECLAMO CONSTATADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É iterativa a orientação desta Corte Superior que "eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos Tribunais de Justiça estaduais, deve ser comprovada no ato de interposição do recurso" (AgRg no AREsp 2.016.917/MG. Quinta Turma. Rel. Desembargador Convocado Jesuíno Rissato. DJe de 25.3.2022).
+2. Estabelecendo expressamente o art. 1.003, § 6º, do CPC que cabe ao recorrente demonstrar "a ocorrência de feriado local no ato de interposição do recurso", firmou-se a jurisprudência desta Corte Superior que o prazo do art. 932, parágrafo único, do referido Codex não confere ao recorrente a possibilidade de comprovação ulterior de ausência de expediente forense perante a Corte de origem.
+3. Na espécie, conforme se infere dos autos, o acórdão apelatório foi disponibilizado no DJe da Corte estadual no dia 24.3.2021 (quarta-feira) e considerado publicado no dia 25.3.2021 (quinta-feira). Assim iniciando-se no dia 26.3.2021 (sexta-feira), o prazo contínuo e peremptório de 15 dias para interposição do recurso especial findou-se em 9.4.2021 (sexta-feira).
+4. Desta forma, nos termos dos arts. 3º e 798, ambos do Digesto Processual, c/c art. 994, VIII, e art. 1.003, § 5º, ambos da Lei n. 13.105/2015, afigura-se intempestivo, portanto, o reclamo somente interposto em 19.4.2021.
+5. Agravo regimental improvido.
+VOTO
+Preenchidos os requisitos de admissibilidade do regimental, no mérito verifica-se que razão não assiste ao agravante.
+Consta dos autos que o agravante foi condenado às penas de 1 ano de reclusão e 10 dias-multa pela prática do crime descrito no art. 180,caput, do Código Penal; 3 anos de reclusão e 10 dias-multa como incurso no art. 16,caput, da Lei n. 10.826/2003, e 5 anos de reclusão e 500 dias-multa, por violação à norma contida no tipo do art. 33,caput, da Lei n. 11.343/2006.
+Interposto recurso especial, a insurgência foi inadmitida, diante de sua intempestividade. Eis os fundamentos de decidir, in verbis (e-STJ fl. 419) :
+Consoante se depreende da certidão lavrada às fls. 375, o acórdão foi publicado em 25 de março de 2021. Já o recurso foi protocolado apenas aos 19 de abril de 2021 (fls. 380), portanto, fora do prazo legal, conforme disposto no § 5º, do artigo 1.003, do Código de Processo Civil, e no artigo 798, do Código de Processo Penal.
+Cumpre registrar que o recorrente deixou de observar o artigo 1003, § 6º, do Diploma Processual Civil, que determina a comprovação da ocorrência de feriado local no ato de interposição do recurso. Nessa conformidade, a decisão da Corte Especial do C. Superior Tribunal de Justiça no AREsp 957.821/MS de que "a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido."
+Importante salientar que, no caso, não foi comprovada a suspensão dos prazos processuais nos dias 26, 29, 30 e 31 de março de 2021, conforme o Provimento CSM nº 2603/2021, bem como o dia 1º de abril de 2021 (Endoenças -Provimento CSM nº 2584/2020), que se enquadram na situação de feriado local.
+Como se sabe, a jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que "eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos Tribunais de Justiça estaduais, deve ser comprovada no ato de interposição do recurso" (AgRg no AREsp 2016917/MG. Quinta Turma. Rel. Desembargador Convocado Jesuíno Rissato. DJE de 25.3.2022).
+De tal ônus, contudo, a parte não se desincumbiu oportunamente, eis que a petição de interposição do recurso especial não se encontra instruída com nenhuma demonstração nesse sentido.
+A título exemplificativo, são os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPOSIÇÕES DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL - CPC/2015. NÃO APLICAÇÃO EM MATÉRIA PENAL. SUSPENSÃO DOS PRAZOS. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE. AGRAVO DESPROVIDO.
+ ..
+3. "A suspensão dos prazos processuais em decorrência de ausência de expediente ou de recesso forense, feriados locais, entre outros, deve ser comprovada, durante a interposição do recurso, no Tribunal de origem, mediante documento idôneo, sendo insuficiente, para tanto, a mera referência, nas razões do recurso, à existência de norma local ou ato normativo do tribunal de origem ou a juntada de documento não dotado de fé pública. (ut, AgInt no AREsp 1731185/CE, Rel. Ministro BENEDITO GONÇALVES, DJe 15/04/2021)" (AgRg no AREsp 1859099/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 28/6/2021).
+4. In casu, o acórdão recorrido foi publicado em 2/12/2019, com iníciodo prazo recursal em 3/12/2019 e término em 17/12/2019. No entanto, o recurso especial somente foi interposto em 10/1/2020, quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1.766.259/RJ. Quinta Turma. Rel. Ministro Joel Ilan Paciornik. DJe 16.8.2021)
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. RECESSO FORENSE. FACULDADE ATRIBUÍDA AOS TRIBUNAIS ESTADUAIS POR MEIO DA RESOLUÇÃO 244/CNJ. NECESSIDADE DE COMPROVAÇÃO DE EVENTUAL SUSPENSÃO DOS PRAZOS NO ATO DA INTERPOSIÇÃO DO RECURSO POR DOCUMENTO IDÔNEO. ÔNUS DO AGRAVANTE. RECURSO NÃO PROVIDO.
+ ..
+2. No presente caso, não tendo a defesa comprovado, no momento da interposição do recurso especial, a suspensão dos prazos processuais, perante a Corte de origem, no período de 20 de dezembro de 2021 a 6 de janeiro de 2022, o recurso interposto em 24/1/2022 é intempestivo. Não é possível, após a apresentação do recurso, a comprovação do recesso forense, por meio de petição protocolizada no outro dia do recurso cabível. É que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão (AgInt no REsp n. 1.888.066/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+3. Agravo regimental não provido.
+(AgRg nos EDcl nos EDcl no AREsp 2097862/PR. Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca. DJe de 22.8.2022)
+Ademais, estabelecendo expressamente o art. 1.003, § 6º, do CPC que cabe ao recorrente demonstrar a ocorrência de feriado local no ato de interposição do recurso, firmou-se a jurisprudência desta Corte Superior que o prazo do art. 932, parágrafo único, do referidoCodex"somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade."(AgInt no AREsp 1674285/PR. Terceira Turma. Rel. Ministro Moura Ribeiro. DJe de 28.8.2020).
+Na espécie, conforme se infere da certidão de e-STJ fl. 315, o acórdão apelatório foi disponibilizado no DJe da Corte estadual no dia 24.3.2021 (quarta-feira) e considerado publicado no dia 25.3.2021 (quinta-feira). Assim iniciando-se nodia 26.3.2021 (sexta-feira),o prazocontínuo e peremptório de 15 dias para interposição do recurso especial findou-se em 9.4.2021 (sexta-feira).
+Desta forma, nos termos dos arts. 3º e 798, ambos do Digesto Processual, c/c art. 994, VIII, e art. 1.003, § 5º, ambos da Lei n. 13.105/2015, afigura-se intempestivo, portanto, o reclamo somente interposto em 19.4.2021 (e-STJ fl. 380).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
