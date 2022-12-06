@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio,impetrado em favor deLEANDRO EDUAR ALCANTARAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul - HC1415578-42.2022.8.12.0000.
+Extrai-se dos autos que o Juízo de primeiro grau decretou a prisão temporária do paciente na data de 3/8/2022,pelo prazo de 30 dias, em face da suposta prática do crime de homicídio doloso.
+A defesa impetrou prévio habeas corpus perante o Tribunal de origem, que denegou a ordem (e-STJ, fls. 155-162).
+Nesta Corte, a defesa alega, em síntese, a existência de constrangimento ilegal na hipótese, tendo em vista queo "argumento do pedido de prisão temporária e a concessão do referido pedido pelo D. Juízo não existe mais, tendo em vista que a testemunha ocuar dos fatos retificou seu depoimento dizendo que não tem certeza deque a foto queVALQUÍRIA, vulgo "XUXA", lhe apresentoué compatível com o garupade camiseta amarela, ou seja, disse que o garupa lembra semelhança em seus olhos, apenas, e NÃO PODE AFIRMAR QUE ERA LEANDRO EDUAR ALCÂNTARA" (e-STJ, fls. 7-8).
+Pondera que além da ausência de indícios de autoria, foi apresentado álibi do acusado.
+Sustenta que não foram observados os critérios para fundamentar a prisão temporária, nos termos dasADIs 4109 e 3360 julgado pelo STF.
+Invoca as condições favoráveis do paciente.
+Requer, assim, a revogação do decreto de custódia temporária, com a expedição de contramandado de prisão em favor do acusado, mediante a imposição das medidas cautelares previstas no art. 319 do CPP .
+O pedido de liminar foi indeferido à fl. (e-STJ).
+O Ministério Público Federal manifesta-se pelo não conhecimento da impetração ou por sua denegação (e-STJ, fls. 105-111).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juízo de primeiro grau decretou a prisão temporária do paciente nos seguintes termos:
+"Compulsando os autos, verifico que o IP 420/2022/5DP apura o homicídio doloso que vitimouAdriano Ferreira Ocampo, em 26-7-2022, por volta de 11h20, na Rua Manoel Pereira de Souza, em frente ao numeral 3875, Bairro Jardim Los Angeles, nesta Capital. O representadoLeandro Eduardo Alcântarafoi reconhecido por uma testemunha presencial e pela pessoa de Valquíria como sendo o autor dos disparos.
+"Há possibilidade de este homicídio doloso ter conexão com os homicídios de João Lennon Ferreirados Santose de Isidoro Cáceres,nas datas de 28 e 29-7-2022, pois o atirador, em ambos os casos,utilizava uma motocicleta de cor escura, com váriosdisparos de pistola, e as vítimas dos três casos tinham envolvimento com tráfico de drogas.
+Presente, pois, a prova da materialidade e indícios que recaem sobre o representado.
+Desse modo, nos termos do que dispõe o art. 1º, incisos I e III, da Lei n. 7.960/1989, a prisão temporária se justifica para melhor esclarecimentos dos fatos." (e-STJ, fls. 41-44).
+O Tribunal de origem assim se fundamentou, para denegar a ordem, no pertinente:
+"O quadro, portanto, adequa-se perfeitamente à hipótese prevista no art. 1º, inc. I, da Lei 7.960/89, diante da necessidade da ordem prisional para o sucessodas investigações (periculum libertatis), já que, em liberdade, patente o risco concretode o paciente afetar o regular andamento das investigações em curso, eis que, foragido,embaraça as investigações encetadas para a finalidade de apurar o noticiado homicídioqualificado, podendo, sobretudo, controlar e influenciar as testemunhas oculares,causando ingerências de modo a prejudicar o resultado da coleta das informações.
+Trata-se, ainda, de investigações relativas a crime hediondo,encontrando-se, pois, no rol do art. 1º, III, da Lei 7960/89, que autorizam a prisãopreventiva, caracterizando, assim, o necessário"fumus comissi delicti".
+Oportuno, ainda, salientar que o paciente sequer encontra-se sobcárcere, uma vez que o mandado de prisão não foi cumprido, encontrando-se, portanto,foragido.
+Da mesma forma, importante destacar que o paciente foidevidamente apontado e reconhecido por uma testemunha como sendo o autor do crime. Aliás, neste sentido foi o decisum de primeiro grau:" (e-STJ, fls. 155-162).
+Ora, a prisão temporária, ao revés da prisão preventiva, tem por finalidade tão somente a custódia do cidadão para assegurar a investigação criminal.
+Ilustrativamente:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. PRESSUPOSTOS DO ART. 1º DA LEI N. 7.960/1989. FUNDAMENTAÇÃO INSUFICIENTE. OCORRÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL. ORDEM CONCEDIDA.
+1. A jurisprudência desta Corte Superior é remansosa no sentido de que o encarceramento provisório do indiciado ou acusado antes do trânsito em julgado da decisão condenatória, como medida excepcional, deve estar amparado nas hipóteses taxativamente previstas na legislação de regência e em decisão judicial devidamente fundamentada.
+2. O art. 1º da Lei 7.960/1989 evidencia que o objetivo primordial da prisão temporária é o de acautelar o inquérito policial, procedimento administrativo voltado a esclarecer o fato criminoso, a reunir meios informativos que possam habilitar o titular da ação penal a formar sua opinio delicti e, por outra angulação, a servir de lastro à acusação.
+3. Na espécie, quase todos os fundamentos apresentados pelo juiz de primeira instância, tanto na decisão que originalmente decretou a prisão temporária quanto na que a renovou, dizem respeito a outra espécie de constrição processual, a prisão preventiva, a saber: (a) evitação da destruição das provas; (b) tensão social dentro da reserva; (c) indícios sérios da existência de armas entre os indígenas; (d) integrantes da comunidade indígena com notória capacidade de influenciar os demais e (e) fuga dos acusados, que se refugiaram na reserva indígena.
+4. A decisão que renovou a constrição cautelar apontou, ainda, (a) "o grande número de indivíduos supostamente participantes do duplo homicídio (aproximadamente trinta indígenas), parcialmente identificados, a dificultar sobremaneira a ultimação das diligências investigatórias", bem como a (b) "necessidade de cumprimento de três mandados de prisão temporária, expedidos em 05/05/2014 e ainda não cumpridos em razão das alegadas dificuldades de ingresso na reserva indígena, afora as demais diligências probatórias necessárias ao aprofundamento das investigações e a organização da prova colhida".
+5. Ordem concedida para, confirmada a liminar, cassar a prisão temporária dos pacientes."
+(HC 296.507/RS, relator Rogerio Schietti Cruz, Sexta Turma, DJe de 19/3/2015.)
+Cumpre registrar que o Supremo Tribunal Federal, em recente decisãojulgou parcialmente procedentes as Ações Diretas de Inconstitucionalidade (ADIs) n. 3.360 (JULG-14-02-2022 UF-DF TURMA-TP MIN-CÁRMEN LÚCIA N.PÁG-115 DJe-084 DIVULG 02-05-2022 PUBLIC 03-05-2022)e 4.190 (CÁRMEN LÚCIA, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 14/02/2022, PROCESSO ELETRÔNICO DJe-075 DIVULG 20-04-2022 PUBLIC 22-04-2022), para dar interpretação conforme a Constituição da República, ao art. 1º da Lei n. 7.960/1989 e decidiu que a decretação da prisão temporária está autorizada quando cumpridos os seguintes requisitos, cumulativamente:
+(i) for imprescindível para as investigações do inquérito policial (verificada a partir de elementos concretos, e não meras conjecturas, vedada a sua utilização como prisão para averiguações, em violação do princípio da não auto incriminação, ou quando fundada no mero fato de o representado não ter residência fixa);
+(ii) houver fundadas razões de autoria ou participação do indiciado;
+(iii) for justificada em fatos novos ou contemporâneos;
+(iv) for adequada à gravidade concreta do crime, às circunstâncias do fato e às condições pessoais do indiciado; e
+(v) não for suficiente a imposição de medidas cautelares diversas.
+Na espécie, observa-se que o decreto temporário não observou tais diretrizes.
+Em que psese tenha mencionado aimprescindibilidade para as investigaçõe do inquérito e fundads razões de autoria do indiciado, verifica-se que o decreto não apresentou justificativas em fatos novo ou comtemporâneos, adequação à gravidade concreta do crime, às circunstâncias do fato e às condições pessoais do indiciado e a não suficiência da imposição de medidas cautelares, carecendo, dessarte, de fundamentação apta a justificar a prisão.
+Nesse sentido, confira-se, ainda, a decisão noRHC 107974, Rel.Ministro SEBASTIÃO REIS JÚNIOR, data da publicação 21/03/2022.
+Ante o exposto, não conheço do habeas corpus, contudo, concedo a ordem de oficio, para revogar a prisão temporária imposta ao paciente nos autos n.0022121-43.2022.8.12.0001.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
