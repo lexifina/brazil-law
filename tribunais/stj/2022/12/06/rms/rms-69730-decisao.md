@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, com pedido liminar, interposto por EDUARDO APARECIDO DE ALMEIDAcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Mandado de Segurança n. 2059655-97.2022.8.26.0000.
+Conforme narrativa da defesa, o ParquetEstadual, nos Autos n. 0029702.40.2020.8.26.0050, imputou aEDUARDO APARECIDO DE ALMEIDAa prática dos delitos de organização criminosa e lavagem de dinheirotipificados no art. 2º, §§ 2º e 3º, bem como nos incisos III e V, do § 4º, da Lei n.12.850/13e no art. 1º da Lei n.9.613/98, combinado com os arts. 29 e 69 do Código Penal- CP.
+Segundo a defesa, "cerca de quase três anos depois dos fatos denunciados e que culminaram na prisão do Paciente em 18/07/2018, o "Parquet"trouxe aos autos provas oriundas do País vizinho, o Paraguai, produzidas pela Sra. LILIAN LORENA LEDESMA JARA(a testemunha do Auto de Apreensão em Flagrante do ora Pacientee que teria acompanhado todo o deslinde dos fatos) e que, supostamente, consistiam na extração dos dados no interior de aparelhos telefônicos apreendidos do Paciente" (fl. 2).
+Diante disso, a defesa impetrou o mandado de segurança perante o Tribunal a quo objetivando a oitiva da referida pessoa por carta rogatória, ao argumento deque o manuseio, conservação e transporte da prova que viajou do Paraguai até o Brasil foram extremamente informais, sendo necessário comprovar a origem, licitude e custódia da prova que instrui o Relatório 17/2021-FTx. No entendimento da defesa, a referida prova é a principal - ou possivelmente a única- existentecontra o impetrante.
+Todavia, a ordem foi denegada na origem, em acórdão que restou assim ementado:
+"Mandado de segurança: indeferimento de produção de prova testemunhal por carta rogatória.
+Adequação: não especificação de "imprescindibilidade"(art. 222-A, caput, Cód. Proc. Penal).
+Ordem denegada" (fl. 223).
+Irresignada, a defesa interpôs o presente recurso reiterando que "a Sra. LILIAN LORENA LEDESMA JARA é a pessoa que produziu as provasem que o r. "Parquet" se baseou para a produção do Relatório nº 17/2021-FTx3, juntado nos autos após quase 03 (três) anos da prisão deste Recorrente e da apreensão de seus pertences" (fl.233). Sustenta tratar-se da "única pessoa que detém as informações privilegiadas a respeito de toda a circunstância que rodeia a prisão do Recorrente" (fl. 234). Afirma, também, que a referida pessoa deu entrevista para a mídia. Nesse contexto,aduzque o aludido depoimento, negado pelo Juízo de Primeiro Grau, é imprescindível para o exercício da ampla defesa (fl. 235).
+Assim, requer, "seja concedido, inaudita altera pars, provimento liminar para suspender o ato coator e garantir que o interrogatório do réu ora Recorrente somente seja efetuado em data posterior a daoitiva da testemunha LILIAN LORENA LEDESMA JARA, sob pena de ferir o Devido Processo Legal por meio da violação do direito ao Contraditório e da Ampla Defesa" (fls. 239/240).
+No mérito, pleiteia a confirmação da liminar.
+A liminar foi indeferida por decisão de fls. 256/258.
+O Ministério Público Federal lavrou parecer que recebeu o seguinte sumário:
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO PROCESSUAL PENAL. CARTA ROGATÓRIA. AUSÊNCIA DE COMPROVAÇÃO DA IMPRESCINDIBILIDADE DO DEPOIMENTO (ART. 222-A DO CPP). NÃO DEMONSTRAÇÃO DE DIREITO LÍQUIDO E CERTO. PARECER PELO DESPROVIMENTO DO RECURSO" (fl. 263).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Consta do voto condutor do julgado atacado:
+"Aos fundamentos supra, resta acrescer que a produção de provas não é um direito absoluto e está sujeita a preclusão temporal, bem como deve ter sua pertinência analisada pelo juízo destinatário do conjunto probatório (art. 400, § 1º, Cód. Proc. Penal)" (fl. 224).
+Como visto, oTribunal local destacou que cabe ao magistrado, destinatário da prova, avaliar com discricionariedade a necessidade de determinada diligência/prova.
+O acórdão encontra-se de acordo com ajurisprudência desta Corte no sentido de que "o deferimento de realização de diligência e de produção de provas é faculdade do Magistrado, no exercício da sua discricionariedade motivada, cabendo ao órgão julgador desautorizar a realização de providências que considerar protelatórias ou desnecessárias e sem pertinência com a sua instrução" (AgRg no AREsp 1.737.521/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/06/2021, DJe 21/06/2021).
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE PRODUÇÃO DE PROVAS. PERÍCIA DE LOG DE EVENTOS EM CELULAR APREENDIDO. INDEFERIMENTO. DECISÃO FUNDAMENTADA. DISCRICIONARIEDADE DO MAGISTRADO. REVISÃO FÁTICO-PROBATÓRIA DOS AUTOS. JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE.
+1. O deferimento da produção de provas está inserido no âmbito de discricionariedade do magistrado responsável pelo processo, devendo fazê-lo demonstrando os motivos do seu convencimento.
+2. Tendo sido indicada fundamentação suficiente com os motivos do convencimento do magistrado a respeito da desnecessidade de produção de prova -"pois já há nos autos relatório de extração de dados armazenados no celular a partir da data do fato, qual seja, 08/01/2021 (vide INQ3 no evento nº. 01)"-, não se registra a suposta ilegalidade.
+3. A via estreita do habeas corpus não é meio adequado para verificação de conveniência ou necessidade de produção de provas, se a avaliação desse juízo de discricionariedade do julgador demanda, como in casu, o cotejo analítico e aprofundado dos elementos fático-probatórios contidos nos autos da ação penal. (AgRg no RHC 98291/PR, Relator(a) Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/08/2018, DJe 10/08/2018).
+4. Agravo regimental improvido
+(AgRg no HC n. 745.360/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022.)
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. DILIGÊNCIA REQUERIDA PELA DEFESA. OITIVA DE TESTEMUNHA. INDEFERIMENTO. DECISÃO MOTIVADA. PRESCINDIBILIDADE DA PROVA. RECURSO DESPROVIDO.
+1. Não se acolhe alegação de nulidade por cerceamento de defesa decorrente do indeferimento de diligências requeridas pela defesa, pois o magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização daquelas que considerar protelatórias, desnecessárias ou impertinentes (STJ, REsp n. 1.519.662/DF).
+2. O indeferimento de pedido de oitiva de testemunha, quando motivado, não configura cerceamento de defesa, porquanto o juízo de necessidade da prova deve ser orientado pelo critério de discricionariedade do julgador (STJ, AgRg no REsp n. 1.498.225/RS).
+3. O deferimento de provas submete-se ao arbítrio do magistrado, cuja decisão, sempre fundamentada, deve levar em conta o conjunto probatório (STF, RHC n. 90.399/RJ).
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 158.682/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 22/2/2022, DJe de 24/2/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRABANDO E ASSOCIAÇÃO CRIMINOSA. ALEGAÇÃO DE NULIDADE DE INTERCEPTAÇÕES TELEFÔNICAS E VEDAÇÃO DE PRODUÇÃO DE PROVA PERICIAL. RECURSO IMPROVIDO.
+1. A jurisprudência desta Corte que admite válida a prisão em flagrante e demais provas alcançadas em razão do fenômeno da serendipidade, ainda que inexista conexão ou continência com o crime supervenientemente encontrado, desde que não haja desvio de finalidade na execução do meio de obtenção de prova. Na espécie, a medida cautelar inicial de interceptação telefônica visava à apuração de prática de delitos praticados por associação criminosa de agentes públicos que deveriam fiscalizar a prática de contrabando de cigarros, tendo sido apurada a partir daí a prática de contrabando pelos pacientes, inexistindo desvio de finalidade da medida. Precedentes.
+2. Não se identifica qualquer ilegalidade de fundamentação na decisão da interceptação telefônica quando proferida por juízo competente, apresentadas fundadas razões no sentido da imprescindibilidade da medida, sua finalidade, alcance e objetivo.
+3. Nos termos da jurisprudência desta Corte "o deferimento de realização de diligência e de produção de provas é faculdade do Magistrado, no exercício da sua discricionariedade motivada, cabendo ao órgão julgador desautorizar a realização de providências que considerar protelatórias ou desnecessárias e sem pertinência com a sua instrução" (AgRg no AREsp 1737521/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/6/2021, DJe 21/6/2021).
+4. Agravo regimental improvido.
+(AgRg no HC n. 663.191/PR, de minha relatoria, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.)
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se.
+Intimem-se.
