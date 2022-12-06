@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de HYCK FELIPE SILVESTRE RIBEIROcontra decisão de Juiz da 2ª VARA REGIONAL DE EXECUÇÃO PENAL EM MEIO FECHADO E SEMIABERTO DO RECIFE, proferida no processo de execução penal n.1002772-32.2019.8.17.4001.
+Consta dos autos que o paciente requisitou que a contagem dos seus dias de penacumpridos fosse computada em dobro, de acordo com disposição da Comissão Interamericana de Direitos Humanos - CIDH, tendo sido tal pedido negado, nos termos da decisão de fl. 12.
+No presente writ, adefesa buscao cômputo em dobro do tempo de pena cumprido pelo paciente, em consonância com as disposições da CIDH, definidos no Incidente de Resolução de Demandas Repetitivas n.8770-65.2021.8.17.9000.
+Desse modo, requer, em liminar, que"seja DEFERIDA medida cautelar para determinar ao juízo da Vara de Execução Penal do Estado de Pernambuco que desconsidere a restrição a crimes equiparados a hediondo posta na Tese 3 do IRDR nº 8770- 65.2021.8.17.9000 e promova o cômputo em dobro do período que o paciente permaneceu preso no Complexo do Curado" (fl. 6). No mérito, a concessão da ordem "para cassar o v. acórdão do TJPE (Tese 3) que exclui da compensação penal, contra expressa determinação da Resolução de 28/11/2018, os acusados de crimes contra a vida e a integridade física, ou de natureza sexual, ou por ele condenados, e os acusados/ condenados por crime hediondo e equiparados" (fl. 6).
+É o relatório.Decido.
+Não há com dar seguimento ao pedido.
+Por se tratar dehabeas corpussubstitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça - STJ.
+Além disso, consoante acima relatado, aponta-se como autoridade coatora a2ª VARA REGIONAL DE EXECUÇÃO PENAL EM MEIO FECHADO E SEMIABERTO DO RECIFE,alegando negativaem dar cumprimento àResolução da Corte Interamericana de Direitos Humanos. Ocorre que a tese de negativa de cumprimento daResolução com a desconsideração darestrição para crimes equiparados a hediondos- no que diz respeito específico ao paciente- não foi submetida ou apreciada pelo Tribunal Estadual. Nessa seara, de acordo com o disposto no art. 105, I, alínea "c", da Carta da República, incompetente o Superior Tribunal de Justiça para processar e julgar o presente feito.
+A propósito, confira-se:
+"EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.5. Embargos de declaração rejeitados"
+(EDCL no HC 230.583/MG, Rel. Ministro SEBASTIÃO REIS JUNIOR, DJe 1.10.2014).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a presente impetração.
+Publique-se.
+Intimem-se.
