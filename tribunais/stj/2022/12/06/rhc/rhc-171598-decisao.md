@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra acórdão assim ementado (fl. 77):
+EMENTA: HABEAS CORPUS - MATÉRIA AFETA À EXECUÇÃO -INADEQUAÇÃO DA VIA ELEITA - PRÁTICA DE FALTA GRAVE -RETIFICAÇÃO DE ATESTADO DE PENAS DO APENADO - IMPETRAÇÃO NÃO CONHECIDA. Não se vislumbrando, no caso concreto, qualquer constrangimento ilegal imposto ao paciente, e não sendo o Habeas Corpus a via correta para a discussão de questões atinentes à execução penal, não deve a impetração ser conhecida.
+O recorrente cumpriapena no regime semiaberto, tendo sido concedida prisão domiciliar mediante monitoração eletrônica. Posteriormente foi expedido mandado de prisão ante os fatos adiante citados.Na origem, impetrou writ buscando a revogação da decisão que reconheceu a prática de falta grave pelo reeducando e alterou a data-base para a obtenção de benefícios executórios.
+Sustenta a defesa que as atuais procuradoras foram constituídas após o transcurso do prazo do antigo procurador constituídonos autos da execução da pena do recorrente, que demonstrou comportamento negligente na defesa.
+Alega ser evidente a falta de justa causa que recai sobre o feito, havendo prejuízo ao recorrente, pois que "não estava empreendendo, muito menos tentando fugir e furtar a aplicação da lei penal, o que resultou no reconhecimento de falta grave, bem como a regressão de regime e alteração da data-base para fins dos direitos executórios, preso ilegalmente, situação que autoriza o conhecimento do pedido como habeas corpus, haja vista a coação ilegal que lhe foi imposta, atingindo o seu direito à liberdade" (fl. 98).
+Expõe considerações pelas quais busca demonstrar não ter havido violação da área de inclusão do monitoramento eletrônico pelo recorrente, bem como que este não teve o intuito de empreender fuga, mas de trabalhar. Defende ser cabível devolução do prazo recursal em respeito aos princípios do devido processo legal, da ampla defesa e do contraditório.
+Requer o provimento do recurso.
+O Ministério Público Federal opina pelo desprovimento do recurso, mas pela concessão da ordem para que o Tribunal a quo examine o mérito da impetração como entender de direito.
+O Tribunal de origem não conheceu do writ sob os seguintes fundamentos (fls. 79-80):
+Conforme visto, discute o impetrante matérias afetas à execução penal.
+Inicialmente, julgo necessário tecer algumas considerações sobre o Habeas Corpus, vez que tenho que este Writ não é o instrumento adequado para discutir questões desta natureza, tratando-se de matéria afeta à execução penal.
+Como é cediço, trata-se o Habeas Corpus de uma ação constitucional prevista no art. 5º, inciso LXVIII, da Constituição Federal que visa evitar ou cessar violência ou ameaça na liberdade de locomoção, por ilegalidade ou abuso de poder.
+A propósito, dispõe o art. 5º, inciso LXVIII da Carta Magna:
+"Conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Além do mais, nas lições do doutrinador Alexandre de Moraes a via estreita do Habeas Corpus não poderá ser utilizada para correção de qualquer inidoneidade que não implique coação ou iminência de locomoção no direito de ir e vir.
+ ..
+Nesse diapasão, venho exaustivamente me manifestando que o Habeas Corpus não é o instrumento adequado para discutir questões desta natureza, sendo a excessiva substituição dos recursos cabíveis pelo writ claro reflexo da banalização desta Ação Constitucional.
+Assim, o Habeas Corpus não é o instrumento adequado para discutir questões de matérias relacionadas à execução definitiva da pena, qual seja a prática de falta grave e a retificação de atestado de penas do apenado.
+No entanto, ainda que o Habeas Corpus não seja a via mais adequada para esse tipo de discussão, prevalece no STJ o entendimento de que o descabimento do Writ para a análise dessas matérias não impede que por meio dele seja sanada flagrante ilegalidade e irregularidade no direito de locomoção, o que tampouco consegui vislumbrar.
+Com efeito, o parecer da Procuradoria-Geral de Justiça acerva a literalidade do artigo 118 da Lei de Execução Penal o qual prevê a regressão de regime ante o cometimento de falta grave.
+Demais disso, tem-se a Súmula 534do colendo Superior Tribunal de Justiça, que estabelece que "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração".
+Por fim, ressalta-se que o recurso cabível a essa situação é o recurso de agravo em execução previsto no artigo 197 da Lei de Execução Penal, devendo a defesa técnica constituída pelo paciente se atentar para o prazo previsto para sua interposição.
+Ante o exposto, não se vislumbrando a ocorrência de manifesto constrangimento ilegal suportado pelo paciente, passível de ser sanado pela via eleita, voto no sentido de NÃO CONHECER DA IMPETRAÇÃO.
+Como visto, apesar de devidamente provocado, o Tribunal de origem não se pronunciou sobre aquestãolevantada, relacionada apossível revogação da decisão que reconheceu a falta grave pelorecorrente e em se considerando as alegações levantadas pela defesa, pois entendeu não ser cabível a impetração do writ.
+Na hipótese, não se pode subtrair do Tribunal Estadual a verificação quanto à existência de ilegalidade flagrante, caso em que poderá conceder habeas corpus de ofício.
+Configurado constrangimento ilegal diante da negativa de prestação jurisdicional, uma vez que o acórdão impugnado não examinou a matéria essencial do writ. Nesse sentido: AgRg no HC 592.647/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 1/10/2020; AgRg no HC 560.395/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/05/2020; EDcl no HC 516.808/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 11/10/2019; RHC 93.944/GO, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/05/2019; HC 334.762/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 26/02/2016; RHC 55.949/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 20/05/2015.
+Ante o exposto, dou provimento ao recurso ordinário em habeas corpus paradeterminar ao Tribunal de origem que aprecie o mérito do writ originário, como entender de Direito.
+Comunique-se.
+Publique-se.
+Intimem-se.
