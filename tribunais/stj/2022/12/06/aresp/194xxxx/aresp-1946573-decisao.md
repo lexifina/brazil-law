@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interposto por USINA MARTINÓPOLIS S. A. AÇÚCAR E ÁLCOOL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 467):
+Apelo - Embargos à execução - Caso em que foram opostos intempestivamente - Substituição da penhora que já havia ocorrido - Oposição extemporânea atestada por certidão juntada por servidor do juízo - Embargos protelatórios, pois as questões foram apreciadas Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 514-516).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489e 1.022do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 780 do CPC, 16 e 28 da Lei n. 6.830/1980 e 174 do CTN "ao decidir que, "de fato, além dos embargos serem opostos de forma intempestiva, já que existia, sim, a penhora de bem imóvel, ficou evidenciado e decidido, as questões já foram apresentadas e apreciadas, não havendo motivos para novo julgamento", pois retirou da recorrente o direito de ter seus embargos à execução julgados, conforme determina a lei" (fl. 487).
+Foram oferecidas contrarrazões ao recurso especial (fls. 524-529).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 530-531), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 565).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há que falar em violação doart. 1.022do CPC porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgIntnoAREspn. 1.907.401/SP, relatora MinistraAssuseteMagalhães, Segunda Turma, julgado em 22/8/2022,DJede 29/8/2022).
+Também não merece prosperar a alegada violação dos arts. 780 do CPC, 28 da Lei n. 6.830/1980 e 174 do CTN, pois a impertinência dos dispositivos legaisapontados como violados, no sentido de ser incapazes deinfirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, tais artigos nãoforam prequestionados, o que atrai, também, a incidência da Súmula n. 211 do STJ.
+No caso dos autos, discute-seatempestividade ou intempestividade dos embargos à execução fiscal opostos pela ora agravante. O Tribunal de origem, ao analisar a controvérsia, assim se manifestou (fls. 468-469):
+Cinge-se a controvérsia em saber se era o caso de se reconhecer a intempestividade dos embargos opostos e se eles eram mesmo protelatórios, como afirmou a recorrente. A intempestividade dos embargos opostos veio certificada a fls. 403, pelo Cartório:
+"Certifico e dou fé que os presentes embargos foram opostos à execução fiscal nº 0000219-73.1988, de forma INTEMPESTIVA, uma vez que foi lavrado termo de substituição de penhora, conforme cópia de fls. 35. Nada mais".
+Segundo a certidão de fls. 36 dos autos, verifica-se que o constante da relação nº 0766/2015 (lavratura do termo de substituição de penhora) foi disponibilizado na página 318/320 do Diário da Justiça Eletrônico em 25/11/2015, considerando-se a data da publicação, o primeiro dia útil subsequente, ou seja, o dia 26 de novembro.
+No caso, a empresa executada somente protocolizou seus embargos, em 15 de dezembro, portanto, fora do prazo. Assim, mostrou-se correta a decisão que entendeu que os embargos à execução opostos seriam intempestivos.
+Ainda, insurgiu-se a executada contra a decisão proferida nos autos da execução fiscal correlata, que deferiu a substituição da penhora que lá se realizou.
+Se assim é, não se pode admitir que sejam opostos novos embargos, com vistas a discutir as mesmas questões que já foram alcançadas pela preclusão consumativa, eis que já foram definitivamente discutidas e decididas.
+Portanto, de fato, alémdos embargos serem opostos de forma intempestiva, já que existia, sim, a penhora de bem imóvel, como ficou evidenciado e decidido, as questões já foram apresentadas e apreciadas, não havendo motivos para novo julgamento.
+Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, para afastar a intempestividadedos embargos à execução é necessária aincursão no contexto fático-probatório dos autos, vedada em recurso especial, em razão da incidência daSúmula n. 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+No mesmo sentido, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PRAZO. A PARTIR DA INTIMAÇÃO PESSOAL DA PENHORA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS ESTÃO ALINHADOS À ORIENTAÇÃO DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Primeiramente, esclareça-se que a análise dos pontos arguidos na argumentação recursal que remetem à suposta afronta ao texto constitucional não se enquadra no âmbito de julgamento destinado ao Recurso Especial pelo permissivo constitucional.
+2. Quanto à suposta afronta ao art. 535 do CPC/1973, verifica-se que as questões submetidas à apreciação perante a Corte de origem foram integralmente resolvidas, não padecendo o julgado de qualquer mácula, no ponto.
+3. Observa-se, ainda, que, no que se refere à contagem do prazo para oferecimento de Embargos à Execução Fiscal, é pacífico no Superior Tribunal de Justiça que a contagem tem início a partir da intimação pessoal da penhora, estando o acórdão recorrido alinhado a este entendimento, o que faz incidir o óbice da Súmula 83/STJ à espécie.
+4. Outrossim, a aferição quanto à tempestividade daquele recurso necessitaria, indispensavelmente, do reexame de provas, tarefa defesa em Recurso Especial.
+5. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp n. 934.762/BA, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 30/11/2020, DJe de 3/12/2020, grifo meu.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. INTEMPESTIVIDADE. PRAZO INICIADO COM A INTIMAÇÃO DA PENHORA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃO CONHECIMENTO DO RECURSO.
+1. A irresignação não merece conhecimento.
+2. A tese principal sustenta que o início do prazo para a interposição de Embargos à Execução quando foi realizada penhora de valor insignificante deveria ser depois da garantia que ofereceu.
+Assim, seus Embargos estariam tempestivos.
+3. Ocorre que a Primeira Seção do STJ, em Recurso Especial submetido à sistemática do art. 543-C do CPC/1973, estabeleceu que o termo inicial para a oposição de Embargos à Execução Fiscal é a data da efetiva intimação da penhora, e não a da juntada aos autos do mandado cumprido, mesmo que a constrição tenha sido insuficiente, como alega a recorrente. Assim sendo, a oportunidade para questionar o montante ou complementá-lo é por ocasião dos Embargos referidos.
+4. A Corte regional exarou o seguinte (fls. 910, 916, e-STJ):
+"Incontroverso nos autos que os presentes embargos foram opostos em 03.10.2011, a partir intimação da penhora de bem nomeado, realizada em 02.09.2011, (..)Todavia, verifica-se que a certidão do oficial de justiça juntada a fl. 755/756 atesta que a embargante foi intimada da primeira penhora na pessoa de seu representante legal, Sr. SERGIO ROMANO, em 28.10.2004, sem que tenha oferecido embargos no prazo legal (..). Ou seja, a questão se o juízo estava garantido ou não era assunto a ser discutido nos próprios autos (..)".
+5. O entendimento do Tribunal de origem, está, portanto, em consonância com o do STJ, razão pela qual incide a Súmula 83/STJ. Ademais, rever o histórico processual dos autos e analisar a tempestividade dos Embargos em questão demanda o reexame do conjunto fático-probatório, o que é defeso ante a Súmula 7/STJ.
+6. Recurso Especial não conhecido.
+(REsp n. 1.799.993/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2019, DJe de 29/5/2019, grifo meu.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
