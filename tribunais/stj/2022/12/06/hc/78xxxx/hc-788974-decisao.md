@@ -1,0 +1,7 @@
+DECISÃO
+DANIEL AFONSO DA SILVA LOURENÇO JUNIOR alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação Criminal n. 1500820-39.2020.8.26.0617.
+Nesta Corte, a defesa pleiteia a "absolvição pelo crime previsto no artigo 333, do Código Penal, diante do princípio da consunção e nesta mesma toada com relação ao crime previsto no artigo 16, parágrafo único, inciso IV, da Lei nº 10.826/2003" (fl. 16), por considerar que o emprego de arma de fogo deveria configurar a majorante do art. 40, IV, da Lei n. 11.343/2006. Como consectário, pugna pelo abrandamento do regime inicial de cumprimento de pena.
+De plano, observo que as ilegalidades suscitadas não foram apreciadas, sob esse enfoque, pelo Tribunala quo, que se limitou a reconhecer a suficiência de provas para a condenação e a correção da dosimetrida da pena realizada pelo Juízo singular,o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Registro, por oportuno, que taismatériam deveriam ser suscitadas no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal, soberana na análise de provas, um pronunciamento seguro sobre a questão, sendo, portanto, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
