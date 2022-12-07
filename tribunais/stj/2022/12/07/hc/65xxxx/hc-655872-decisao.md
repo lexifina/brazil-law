@@ -1,0 +1,8 @@
+DECISÃO
+ROGÉRIO SOARESalega sofrer coação ilegal em face de acórdão do Tribunala quo(MS n. 70084972009), que, em 25/3/2021,prorrogou sua permanênciano Presídio Federal de Campo Grande/RS.
+A defesa afirma queo incidente não podia ser resolvido em mandado de segurança, por decisão genérica, que não observou as determinações do Juiz de origem,sem observância do direito ao contraditório ou ao duplo grau de jurisdição.
+O acórdão possuía prazo determinado, pois,conforme o art. 10, capute § 1º, da Lei n.11.671/2008, "o período de permanência não poderá ser superior a 360 (trezentos e sessenta) dias, renovável, excepcionalmente, quando solicitado motivadamente pelo juízo de origem, observados os requisitos da transferência".Assim, não há interesse ou utilidade em realizar o controle da legalidade de ato judicial que não possui efeitos jurídicos na atualidade, há muito findos.
+O MS foi interposto contra decisão prolatada, em17/2/2021, que indeferiuo pedido de renovação da transferênciapara o Sistema Penitenciário Federal. A segurança foi concedida, em25/3/2021, por 360 dias.Se o condenado permanece na mesma situação, existe outra decisão judicial de prorrogação da medida excepcional,passível de impugnação por instrumento próprio.
+Aliás,o "Juízo da 5ª Vara Federal Criminal de Campo Grande/MS autorizou a renovação da permanência do paciente no Presídio Federal" e a defesa manejou"o Agravo em Execução" (fl. 183). Assim, existe decisão de mérito sobre o incidente da execução e oaresto recorrido não respalda a atual constrição da liberdadedo postulante.
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
