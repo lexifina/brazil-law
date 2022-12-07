@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado (e-STJ, fls. 59 ):
+"EMENTA: PROCESSUAL PENAL. AGEX. TRÁFICO DE DROGAS E PORTE DE ARMA. PLEITO DE MUDANÇA NO CÁLCULO DAS FRAÇÕES PARA FINS DE PROGRESSÃO DE REGIME. NECESSIDADE DE CÔMPUTO ISOLADO POR CADA CRIME. OBSERVÂNCIA DO PRINCÍPIO DA INDIVIDUALIZAÇÃO DAS PENAS E ULTRATIVIDADE DA LEI MAIS BENÉFICA (LEP SEM ALTERAÇÕES DO PACOTE ANTICRIME). APLICABILIDADE DE COEFICIENTES DE 1/6 (UM SEXTO) PARA O DELITO COMUM E 2/5 (DOIS QUINTOS) PARA O HEDIONDO EQUIPARADO. RETIFICAÇÃO IMPOSITIVA DA GEP. PRECEDENTES. REFORMADO. CONHECIMENTO E PROVIMENTO DECISUM ".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 111, caput e parágrafo único e 112, I e V, todos da LEP. Aduz para tanto, em síntese, que "o sistema brasileiro de execução penal ao adotar o critério de soma ou unificação das penas na fase executória acaba por impedir a aplicação de frações isoladamente em relação à progressão de regime para cada tipo penal que originou a condenação. Com efeito, tal sistemática implica, assim, na repercussão da reincidência sobre a totalidade das penas em cumprimento pelo agente. Ademais, essa condição pessoal do apenado, ainda que não reconhecida pelo Juízo condenatório, deve, necessariamente, ser considerada pelo Juízo executório" (e-STJ, fl. 79).
+Com contrarrazões (e-STJ, fls. 85-88), o recurso especial foi admitido na origem.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 99-103 ).
+É o relatório.
+Decido.
+No que se refere à tese recursal de que repercussão da reincidência sobre a totalidade das penas em cumprimento pelo agentedeveriaser considerada pelo Juízo executório (ainda que não reconhecida pelo Juízo condenatório), verifica-se que o acórdão recorrido não analisou a questão posta em debate.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. DOSIMETRIA. SEGUNDA FASE. FRAÇÃO SUPERIOR A 1/6 SEM MOTIVAÇÃO. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+I - O efeito devolutivo da apelação encontra limites nas razões expostas pelo recorrente (tantum devolutum quantum appellatum), em respeito ao princípio da dialeticidade que rege os recursos previstos no âmbito do processo penal pátrio, por meio do qual se permite o exercício do contraditório pela parte detentora dos interesses adversos, garantindo-se, assim, o respeito à clausula constitucional do devido processo legal.
+II - Neste caso, o pedido de redução da fração da agravante não foi apresentado pela Defesa em sede de apelação, caracterizando, portanto, inovação recursal.
+III - Se a controvérsia não foi resolvida à luz do dispositivo tido por violado, tampouco foram opostos embargos de declaração para fins de prequestionamento, incidem os enunciados n. 282 e n. 356 do Supremo Tribunal Federal.
+Agravo regimental desprovido." (AgRg no AREsp 1.424.239/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/3/2019, DJe 26/3/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso.
+Publique-se. Intimem-se.
