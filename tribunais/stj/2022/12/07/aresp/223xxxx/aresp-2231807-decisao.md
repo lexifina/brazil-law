@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 49):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. PENHORA ON LINE. VALOR INFERIOR A 40 SALÁRIOSMÍNIMOS. SISTEMA BACENJUD/SISBAJUD. VALOR IRRISÓRIO.
+1. Consoante dicção do art. 833, inciso X, do CPC, esta Corte tem acompanhado o entendimento do egrégio Superior Tribunal de Justiça, que tem reconhecido a impenhorabilidade das quantias mantidas em conta-corrente, poupança e/ou outro tipo de aplicação, até limite de 40 salários-mínimos, independentemente de ter ou não origem salarial.
+2. Inexistem razões para, de plano, assegurar o bloqueio de até 40 salários-mínimos(independente de ter origem salarial ou não) que tenha sido localizado por meio da consulta ao sistema BACENJUD/SISBAJUD em conta-corrente, poupança e/ou outro tipo de aplicação de sua titularidade.
+3. Na hipótese dos autos, tratando-se de valor irrisório, que, embora a não impeça a sua penhora via BACENJUD/SISBAJUD, sequer cobriria as custas do processo, mesmo ausente a manifestação da parte executada a respeito da possibilidade de liberação dos valores bloqueados, o que autoriza a imediata liberação.
+Opostos embargos de declaração (fls. 58-60), foram rejeitados (fls. 70-75).
+Nas razões do recurso, interposto com fundamento no art. 105, III, a, da Constituição Federal, alega a autarquia recorrenteviolação aos arts. 789, 797, 835, I, 854, § 3º, I, e 1022, II, do CPC/2015,e aos arts. 7º, II, 9º, 10 e 11, I, da Lei nº 6.830/80.
+Aponta a ocorrência denegativa de prestação jurisdicionale assevera que "não se pode impedir a penhora de valores cuja impenhorabilidade sequer foi objeto de arguição (pela parte executada), visto que tal negativa retiraria da execução qualquer garantia, em afronta ao princípio segundo o qual a execução deve ser promovida no interesse do credor".
+Inadmitido o recurso especial (fls. 93-95), seguiu-se o presente agravo (fls. 101-112)
+É o relatório.
+Decido.
+Presentes os pressupostos recursais, conheço do agravo e passo ao exame do próprio recurso especial.
+Depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, resolveu de forma integral a controvérsia posta em debate.
+Na linha da jurisprudência do STJ, não há que se falar em negativa de prestação jurisdicional quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.Não configurada, portanto, a alegada violação ao artigo 1022 do CPC/2015.
+No tocante à segunda insurgência, melhor sorte não assiste àrecorrente.
+Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos de execução fiscal, deixou de bloquear valores localizados via SISBAJUD.
+Ao decidir a questão, o Tribunal a quoafirmou o seguinte (fls. 51-53):
+Inicialmente, cumpre referir que o Agravada foi condenada, consoante decisão do e. STJ (evento 62, DEC4) à devolução dos valores de benefício previdenciário indevidamente recebidos a título de antecipação de tutela posteriormente revogada, que, em 09/2021, correspondem a R$35.263,82.
+Não procede a insurgência recursal.
+Isso porque, a quantia submetida a penhora on line é inferior a 40 saláriosmínimos. Nessa hipótese, e consoante dicção do art. 833, inciso X, do CPC, esta Corte tem acompanhado o entendimento do egrégio Superior Tribunal de Justiça, que tem reconhecido a impenhorabilidade das quantias mantidas em conta-corrente, poupança e/ou outro tipo de aplicação, até limite de 40 salários-mínimos, independentemente de ter ou não origem salarial.
+ ..
+Dessa forma, inexistem razões para, de plano, assegurar o bloqueio de valor até 40 salários-mínimos (independente de ter origem salarial ou não) que tenha sido localizado por meio da consulta ao sistema BACENJUD/SISBAJUD em conta-corrente, poupança e/ou outro tipo de aplicação de sua titularidade.
+No julgamento dos embargos de declaração, a Corte de origem ainda destacou (fl. 74):
+Veja-se que tratando o feito de valores até o limite de 40 salários-mínimos mantidos em conta corrente ou poupados, a jurisprudência desta Corte entende que são impenhoráveis, independentemente de ter ou não origem salarial, sendo que, portanto, não há que se falar de que prova de que a quantia impenhorável recai sobre o executado.
+Em verdade, percebe-se que o presente recurso trata de rediscutir o mérito do julgado recorrido, providência incompatível com a via eleita dos embargos de declaração.
+Quanto ao ponto, o acórdão recorrido está conformado à jurisprudência do Superior Tribunal de Justiça, no sentido de que os valores inferiores a 40 salários-mínimos são impenhoráveis. Ademais, esta Corte também possui entendimento no sentido de que a impenhorabilidade constitui matéria de ordem pública, passível, portanto, de ser conhecida de ofício pelo juiz. A propósito do tema, cito os seguintes julgados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 833, X, DO CPC. IMPENHORABILIDADE DE VALORES DEPOSITADOS EM CADERNETA DE POUPANÇA OU CONTA-CORRENTE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS.
+1. A jurisprudência do Superior Tribunal de Justiça trilha o entendimento de que a quantia inferior a quarenta salários mínimos depositada em conta-corrente, conta poupança ou em qualquer fundo de investimento decorrente de verbas salariais deve ser acobertada pela proteção legal da impenhorabilidade absoluta, nos termos do art. 833, IV e X , do Código de Processo Civil.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.128.627/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/10/2022, DJe de 14/10/2022.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DÍVIDA ATIVA NÃO TRIBUTÁRIA. MULTAS E DEMAI S SANÇÕES. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que determinou a liberação de bloqueio de conta poupança de devedor. No Tribunal a quo, negou-se provimento ao recurso.
+II - Quanto à suposta afronta ao art. 854, §3º, I, do CPC/2015, verifica-se que a decisão proferida pelo Tribunal de origem, de que os valores inferiores a 40 salários-mínimos são impenhoráveis, vai ao encontro da jurisprudência do Superior Tribunal de Justiça.
+Confira-se: AgInt no AREsp 1.706.667/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/11/2020, DJe 17/11/2020.
+III - Agravo interno improvido.
+(AgInt no AREsp n. 2.054.335/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. VALORES DEPOSITADOS EM CONTAS BANCÁRIAS. MONTANTE INFERIOR A QUARENTA SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. AGRAVO INTERNO DO ENTE ESTATAL A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça firmou entendimento segundo o qual termos do disposto no art. 649, X do CPC/1973 (atual art. 833, X do Código Fux), é impenhorável o montante de até quarenta salários mínimos depositado não apenas em cadernetas de poupança, mas também em conta- corrente ou em fundos de investimento, ou guardados em papel-moeda.
+2. Agravo Interno do Ente Estatal a que se nega provimento.
+(AgInt no AREsp n. 1.706.667/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/11/2020, DJe de 17/11/2020.)
+ADMINISTRATIVO. AGRAVO INTERNO. PENHORA. SISTEMA BACENJUD. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. POSSIBILIDADE DE DESBLOQUEIO EX OFFICIO.
+1. A penhora eletrônica não pode descurar-se do disposto no art. 833, X, do CPC, uma vez que "a previsão de impenhorabilidade das aplicações financeiras do devedor até o limite de 40 salários-mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário" (AREsp 2.109.094, Rel. Ministro Gurgel de Faria, DJe de 16.8.2022).
+2. Nos termos da jurisprudência firmada no âmbito desta Corte de Justiça, a impenhorabilidade constitui matéria de ordem pública, cognoscível de ofício pelo juiz, não havendo falar em nulidade da decisão que, de plano, determina o desbloqueio da quantia ilegalmente penhorada.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.158.284/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. BLOQUEIO DE ATIVOS FINANCEIROS. MONTANTE INFERIOR A 40 SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. DECISÃO EX OFFICIO. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não há falar em ofensa ao art. 1.022, II, do CPC, na medida em que a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal a quo não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+3. Nos termos do disposto no art. 833, X, do CPC, é impenhorável o montante de até quarenta salários-mínimos depositado em instituição financeira, não apenas em cadernetas de poupança, mas, também, em conta-corrente ou em fundos de investimento, ou, ainda, guardados em papel-moeda.
+4. Nos termos da jurisprudência firmada no âmbito desta Corte Superior de Justiça, a impenhorabilidade constitui matéria de ordem pública, cognoscível de ofício pelo juiz, não havendo falar em nulidade da decisão que, de plano, indefere o bloqueio da quantia pelo sistemaSISBAJUD,ante a irrisoriedade dos valores depositados.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.129.480/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. BACENJUD. APLICAÇÕES FINANCEIRAS INFERIORES A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. POSSIBILIDADE DE RECONHECIMENTO DE OFÍCIO PELO JUIZ. AGRAVO INTERNO DO INMETRO DESPROVIDO.
+1. Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis valores inferiores a 40 (quarenta) salários mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da parte interessada, indeferir o bloqueio de ativo financeiros ou determinar a liberação dos valores constritos, isso porque, além de as matérias de ordem públicas serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor. Precedente: AgInt no AREsp n. 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/9/2022, DJe de 22/9/2022.
+2. Agravo interno do INMETRO a que se nega provimento.
+(AgInt no AREsp n. 2.149.064/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+Ante o exposto,com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, bem como na Súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. AGRAVO EM RECURSO ESPECIAL.ART. 1022 DO CPC. VIOLAÇÃO NÃO CONFIGURADA. EXECUÇÃO FISCAL.PENHORA. SISTEMA BACENJUD. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. POSSIBILIDADE DE DESBLOQUEIO EX OFFICIO.PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
