@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto porCRISTIANE DE MACEDO RODRIGUES,com fundamento no art. 105, III,"a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 193):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+1. Apesar do pequeno valor dos impostos suprimidos, não é possível a aplicação do princípio da insignificância porque a reiteração de comportamentos antinormativos por parte do agente impede a aplicação desse princípio, já que não podem ser consideradas irrelevantes repetidas lesões a bens jurídicos tutelados pelo Direito Penal. Posição do STF.
+2. Apelação não provida.
+Os embargos de declaração opostos pela defesa foram rejeitados, nos termos da seguinte ementa (e-STJ fl. 217):
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ANPP.
+1. O ANPP não é cabível para fatos anteriores ao início da vigência da Lei nº 13.964/2019 depois que houve o recebimento da denúncia. Jurisprudenciado STF e do STJ. Omissão inexistente.
+2. Embargos de declaração rejeitados.
+Nas razões recursais, adefesa aponta violação doart. 28-A do Código de Processo Penal, alegando, em síntese, que o Acordo de Não Persecução Penal,por sua natureza denorma mista, deve ser aplicado a todos os processos pendentes de trânsito em julgado, cuidando-se de direito subjetivo do réu(e-STJ fls. 224/230)
+Apresentadas as contrarrazões (e-STJ fls. 267/279) e admitido na origem, oMinistério Público Federal se manifestou, nesta instância, pelo não provimento do recurso especial (e-STJ fls. 295/303).
+É o relatório. Decido.
+O recurso não merece provimento.
+Conforme relatado, busca a defesa seja aplicado o artigo 28-A do CPP aos autos, a despeito de adenúncia tiver sido recebida antes da entrada em vigor da Lei n. 13.964/2019, que criou o instituto doAcordo de Não Persecução Penal - ANPP.
+Ao rejeitar os embargos de declaração, asseverou o Tribunal de origem queo ANPP não é cabível para fatos anteriores ao início da vigência da Lei nº 13.964/2019 depois que a denúncia foi recebida (e-STJ fl. 215).
+OSupremo Tribunal Federal, no julgamento do HC n. 191.464/SC, de relatoria do Ministro ROBERTO BARROSO (DJe 18/9/2020) - que invocou os precedentes do HC n. 186.289/RS, Relatora Ministra CARMEN LÚCIA (DJe 1º/6/2020), e do ARE n. 1.171.894/RS, Relator Ministro MARCO AURÉLIO (DJe 21/2/2020) -, externou a impossibilidade de fazer-se incidir o ANPP quando já existente condenação, conquanto ela ainda esteja suscetível de impugnação.
+Nesse sentido, o Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-Ado CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias. Precedentes:AgRg no HC 629.473/SC, Rel. Ministro ANTÔNIO SALDANHA PALHEIRO, Sexta Turma, julgado em 17/8/2021, DJe 24/8/2021;AgRg no HC 644.042/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 25/5/2021, DJe 28/5/2021;AgRg no REsp 1.920.293/PR, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 8/6/2021, DJe 21/6/2021;AgRg no REsp 1.898.529/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 9/3/2021, DJe 15/3/2021; AgRg no REsp 1.882.601/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 9/3/2021, DJe 12/3/2021; AgRg no HC 629.225/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 23/2/2021, DJe 1º/3/2021; EDcl no AgRg no AgRg no AREsp 1.635.787/SP, Rel. Ministro REYNALDO SOARES DA FONSECA,Quinta Turma, julgado em 4/8/2020, DJe 13/8/2020.
+In casu, tendo sido recebidaa denúnciaantes que entrasseem vigor a Lei n. 13.964/2019, em 27/9/2017, tendo o Juízo de primeiro grau já proferido sentença condenatória, confirmada pelo Tribunal,não se pode falar na aplicação doart. 28-A do CPP.
+Ademais, ao acolher a proposta de afetação do Tema Repetitivo n. 1.098, a Terceira Seção decidiu quenão se aplica à hipótese o disposto na parte final do § 1º do art. 1036 do Código de Processo Civil (suspensão do trâmite dos processos pendentes), haja vista que a questão será julgada com brevidade(ProAfR no REsp n. 1.890.343/SC, de minha relatoria, Terceira Seção, DJe 15/6/2021).
+Assim, oacórdão recorrido está em consonância com o entendimento pacificado nesta Corte de Justiça, o que faz incidir o óbice da Súmula568/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
