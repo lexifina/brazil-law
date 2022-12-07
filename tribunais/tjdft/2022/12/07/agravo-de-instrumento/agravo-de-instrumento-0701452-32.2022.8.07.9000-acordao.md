@@ -1,0 +1,110 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+
+Processo N.
+AGRAVO DE INSTRUMENTO 0701452-32.2022.8.07.9000
+
+AGRAVANTE(S)
+SONIA MARIA DE CARVALHO SOUSA
+
+AGRAVADO(S)
+TERRA FORTE INVESTIMENTOS LTDA
+
+Relatora
+Juiza EDI MARIA COUTINHO BIZZI
+
+Acórdão Nº
+1647936
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. JUIZADOS ESPECIAIS CÍVEIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE IMÓVEL EM OUTRO ESTADO. MEDIDA INCOMPATÍVEL COM O PROCEDIMENTOS DA LEI 9.099/95. AGRAVO CONHECIDO E DESPROVIDO.
+
+1. O procedimento da Lei 9.099/95 é regido pelos princípios da informalidade, celeridade, simplicidade e economia processual, sendo incompatível com medidas processuais complexas.
+
+2. A penhora, avaliação, alienação e adjudicação de imóvel do executado em outro estado não são compatíveis com o procedimento dos Juizados Especiais. Excepcionalmente, admite-se a prática de tais atos quando o executado, desde o início da fase de conhecimento, possuía domicílio no local do bem. Precedentes: Acórdão 1626181, 07014531720228079000, Relator: SILVANA DA SILVA CHAVES, Relator Designado: MARILIA DE AVILA E SILVA SAMPAIO Segunda Turma Recursal, data de julgamento: 7/10/2022; Acórdão 1359656, 07007034920218079000, Relator: FERNANDO ANTONIO TAVERNARD LIMA, Terceira Turma Recursal, data de julgamento: 4/8/2021, publicado no DJE: 12/8/2021.
+
+3. Ao credor é facultado o ajuizamento do cumprimento de sentença no local em que se encontra o bem, nos termos do art. 516, parágrafo único, do CPC.
+
+4. Agravo de instrumento conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDI MARIA COUTINHO BIZZI - Relatora, EDILSON ENEDINO DAS CHAGAS - 1º Vogal e FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal, sob a Presidência do Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Dezembro de 2022
+
+Juiza EDI MARIA COUTINHO BIZZIRelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto contra decisão que indeferiu a expedição de cartão precatória para penhora de imóvel da executada em outra unidade da federação.
+
+A agravante alega que foram realizadas tentativas de penhora on-line de valores e de veículo pelo SISBAJUD e RENAJUD, tendo o processo sido arquivado por ausência de bens penhoráveis. Sustenta que localizou um imóvel do executado em Padre Bernardo/GO e que a penhora pode ser realizada por termo nos autos com expedição de ofício ao Registro Imobiliário. Defende que a medida não é incompatível com o procedimento dos Juizados Especiais, sendo necessária para satisfazer o seu crédito.
+
+Não há pedido de efeito suspensivo.
+
+Apresentadas contrarrazões. O agravado alega que o recurso é intempestivo.
+
+É o relato.
+
+VOTOS
+
+A Senhora Juíza EDI MARIA COUTINHO BIZZI - Relatora
+
+Eminentes pares!
+
+Da tempestividade
+
+O agravado alega que o recurso é intempestivo.
+
+A decisão agravada foi disponibilizada no DJe em 20 de julho de 2022 e publicada no dia útil seguinte, dia 21 (quinta-feira). Assim, o prazo começou a correr em 22 de julho, todavia foi suspenso entre 1º e 5 de agosto (Portarias Conjuntas 101 e 102) e também em 8 agosto (https://pje-indisponibilidade.tjdft.jus.br/).
+
+Assim, o recurso interposto em 18 de agosto é tempestivo.
+
+Da penhora de imóvel em outro estado
+
+A agravante busca a penhora de um imóvel registrado no nome da executada em Padre Bernardo/GO. A medida constritiva foi indeferida pelo juízo a quo em razão da complexidade dos atos necessários à efetivação da penhora e alienação do bem.
+
+Tenho aderido ao entendimento, na linha da decisão agravada, de que o procedimento da Lei 9.099/95 é incompatível com atos processuais complexos. O legislador fixou como diretrizes a celeridade, simplicidade e economia processual. A adoção de medidas que possam estender indefinidamente o processo – tanto na fase conhecimento como de cumprimento de sentença - é incompatível com o procedimento sumaríssimo.
+
+Ressalte-se que à parte é concedida a alternativa de ajuizar a demanda pelo procedimento comum perante a Vara Cível, em que então poderá ter suas pretensões amplamente analisadas na fase de conhecimento e no cumprimento de sentença. A escolha pelos Juizados Especiais Cíveis representa a aceitação dos limites do procedimento.
+
+Nesse sentido, as Turmas Recusais têm manifestado entendimento de que não cabe a expedição de carta precatória para efetivação de penhora, avaliação e alienação de bens em outro estado. Excepcionalmente tem sido admitido tal ato processual quando o executado, desde o início da fase de conhecimento, esteja domiciliado no outro estado, o que não é o caso dos autos:
+
+JUIZADOS ESPECIAIS CÍVEIS. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INDICAÇÃO DE IMÓVEL À PENHORA. BEM SITUADO EM OUTRO ESTADO DA FEDERAÇÃO. CARTA PRECATÓRIA. IMPOSSIBILIDADE. INCOMPATIBILIDADE COM A LEI 9099/95. RECURSO CONHECIDO E NÃO PROVIDO. I. Trata-se de agravo de instrumento interposto contra decisão proferida pelo 1° Juizado Especial Cível da Circunscrição Judiciária de Águas Claras, que indeferiu o pedido formulado em sede de cumprimento de sentença, para fins de penhora de imóvel de propriedade da executada localizado em outra unidade da federação (Goiás), porquanto o rito dos Juizados Especiais não contempla a providência de expedição de carta precatória de penhora, avaliação de bens, as quais exigiriam tramitação extra do feito e dilação temporal incompatível com os princípios fundamentais dispostos no artigo 2º. da Lei nº. 9.099/95. Em suas razões recursais, em síntese, sustentou a ausência de impedimento legal de penhora de imóvel do devedor localizado em comarca distinta daquela de tramitação do processo, uma vez que o próprio artigo 13, § 2º, da Lei 9099/95, prevê que a prática de atos processuais em outras comarcas poderá ser solicitada por qualquer meio idôneo de comunicação, de forma que a penhora do imóvel pode ser realizada por termos nos autos, enquanto sua avaliação pode ser concretizada pela expedição e encaminhamento digital de mandado/ofício à comarca de Padre Bernardo/GO. Defendeu que a jurisprudência das Turmas Recursais dos Juizados Especiais do DF, ao contrário do que foi decidido na origem, também permite o ato de constrição em comarca localizada em outro Estado da federação. Requereu o provimento do recurso para reforma da decisão, a fim de permitir a penhora do imóvel, com a consequente expedição de carta precatória, se o caso. II. (...) III. Consoante julgados deste Eg. TJDFT, não se admite a expedição de carta precatória no rito sumaríssimo. Nesse sentido, cita-se: Acórdão n.820171, 20130110213616ACJ, Relator: LUIS MARTIUS HOLANDA BEZERRA JUNIOR 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, Data de Julgamento: 16/09/2014, publicado no DJE: 19/09/2014. Pág.: 239; e Acórdão 1354845, 07361379020188070016, Relator: GEILZA FATIMA CAVALCANTI DINIZ, Segunda Turma Recursal, data de julgamento: 20/7/2021, publicado no DJE: 27/7/2021. IV. Cumpre observar que no caso específico de penhora de bens, apenas se admite a realização da diligência por meio de carta precatória se o processo estiver em fase de cumprimento de sentença e desde o início do processo de conhecimento o domicílio do réu já se situava em outro Estado, o que não é o caso dos autos. A empresa devedora situa-se na Rua Copaíba, Lote 01, Torre A, Sala 1810, Ed. DF Century Plaza, Águas Claras, conforme indicado na inicial. V. Neste sentido, confira-se o julgado da 3ª. Turma Recursal: "Não se desconsidera que a expedição de carta precatória à penhora de bem localizado em outro estado da federação, a rigor, não coadunaria aos princípios orientadores dos juizados especiais (simplicidade, informalidade, economia processual e celeridade - Lei 9.099/95, Art. 2º). III. Não obstante, este órgão revisional já manifestou entendimento (Acórdão n. 1120326, DJe 05.09.2018) no sentido de que, se o processo de conhecimento, desde seu início, apontava o domicílio do réu em outra unidade da federação, logo não há lastro para se rechaçar a expedição de carta precatória na fase de execução do título judicial [...]". (Acórdão 1283379, 07074621620198070006, Relator: FERNANDO ANTONIO TAVERNARD LIMA, Terceira Turma Recursal, data de julgamento: 17/9/2020, publicado no DJE: 28/9/2020). VI. Recurso CONHECIDO E NÃO PROVIDO. VII. Sem honorários ante a ausência de contrarrazões tempestivas. VIII. A súmula de julgamento servirá de acórdão, nos termos do art. 55 da Lei 9.099/95.
+
+(Acórdão 1626181, 07014531720228079000, Relator: SILVANA DA SILVA CHAVES, , Relator Designado:MARILIA DE AVILA E SILVA SAMPAIO Segunda Turma Recursal, data de julgamento: 7/10/2022, publicado no DJE: 19/10/2022. Pág.: Sem Página Cadastrada.)
+
+JUIZADOS ESPECIAIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO DE INDEFERIMENTO DE EXPEDIÇÃO DE CARTA PRECATÓRIA PARA PENHORA DE BENS EM OUTRA UNIDADE DA FEDERAÇÃO (LUZIÂNIA/GO). GENÉRICO REQUERIMENTO DE CONSTRIÇÃO DE BENS NA RESIDÊNCIA DA DEVEDORA. INCOMPATIBILIDADE AOS CRITÉRIOS INFORMADORES DOS JUIZADOS ESPECIAIS, NOTADAMENTE DIANTE DAS INFRUTÍFERAS ANTERIORES DILIGÊNCIAS (SISBAJUD, RENAJUD E ERIDF). NÃO EVIDENCIADA MINIMAMENTE A EFETIVIDADE DA MEDIDA. AGRAVO IMPROVIDO. I.Agravo de instrumento contra a decisão do douto Juízo do 3º Juizado Especial Cível de Brasília/DF (cumprimento de sentença 0704994-21), de indeferimento de expedição de carta precatória para penhora de bens em LUZIÂNIA/GO. II. A decisão foi prolatada nos seguintes termos: [...] indefiro o pedido de Id 76796782. A cidade de Luziânia-Go não é comarca contígua ao Distrito Federal, indispensável à expedição de carta precatória para cumprimento da diligência pretendida, art. 255 do CPC, e o art. 179 do Provimento Geral da Corregedoria. Os processos nos juizados especiais orientam-se pelos critérios da celeridade, informalidade e economia processual, portanto, a expedição de carta precatória para cumprimento de atos executórios em outro Estado da Federação, é procedimento incompatível, conforme vemos na jurisprudência das E. Turmas Recursais do Distrito Federal, in verbis: PROCESSUAL CIVIL. JUIZADO ESPECIAL. RÉU DOMICILIADO EM OUTRA UNIDADE DA FEDERAÇÃO. CITAÇÃO POR MEIO POSTAL INVIABILIZADA. EXPEDIÇÃO DE CARTA PRECATÓRIA. PROVIDÊNCIA INCOMPATÍVEL COM O SISTEMA DOS JUIZADOS ESPECIAIS. EXTINÇÃO DO FEITO SEM EXAME DO MÉRITO. RECURSO CONHECIDO E DESPROVIDO.1. Na esteira do que preconiza o art. 2º da Lei nº. 9.099/95, no âmbito dos Juizados Especiais, o processo orientar-se-á pelos critérios da oralidade, simplicidade, informalidade, economia processual e celeridade.2. Tendo a parte autora informado, para fins de citação do demandado, endereço localizado em outra unidade da federação, e, tendo restado frustrada a tentativa de chamamento pela via postal, eclode necessária a expedição de carta precatória, medida que não se coaduna com o rito célere e de diminuta complexidade, característico da jurisdição especial. Precedentes das Turmas Recursais dos Juizados Especiais do Distrito Federal. (?) (Acórdão n.820171, 20130110213616ACJ, Relator: LUIS MARTIUS HOLANDA BEZERRA JUNIOR, 3ª Turma Recursal dos Juizados Especiais do Distrito Federal, Data de Julgamento: 16/09/2014, Publicado no DJE: 19/09/2014. Pág.: 239). Assim, intime-se o credor a dar prosseguimento ao feito, no prazo de 5 dias. Giselle Rocha Raposo Juíza de Direito BRASÍLIA, DF, 16 de novembro de 2020 11:06:16. III. No que concerne aos atos processuais nos autos originários, destaca-se: (a) execução de título de crédito extrajudicial (nota promissória), ajuizada em 24.08.2020, inicialmente distribuída ao Juizado Especial Cível do Guará/DF, o qual declinou da competência ao 3º Juizado Especial Cível de Brasília/DF (exequente domiciliado no SIA e executada em Luziânia/GO); (b) citação da executada (AR/MP), em 15.12.2020, no endereço: Quadra 28, lote 1, Jardim Umuarama, Setor 5, Luziânia/GO); (c) tentativas infrutíferas de localização de bens da devedora, por meio dos sistemas SISBAJUD, RENAJUD (no CPF e CNPJ da executada - empresária individual) e ERIDF; (d) requerimento de expedição de carta precatória para penhora (indeferido). IV. Certo é que este órgão revisional já teria se manifestado acerca da excepcional viabilidade de expedição de carta precatória para penhora de bens (na execução de título judicial - acórdão n. 1120326, DJe 05.09.2018), se o processo de conhecimento, desde seu início, apontava o domicílio do réu em outra unidade da federação, e o credor tivesse se desincumbido do ônus de demonstrar, previamente, que a executada possuiria bens desembaraçados e passíveis de execução (TJDFT, 3ª TR, acórdão 1283379, DJe 28.09.2020). V. No entanto, diversa se revela a situação fática-processual nos presentes autos eletrônicos (execução de título extrajudicial), em que o credor não indica precisamente os eventuais bens a serem penhorados (em Luziânia/DF), sendo que todas as diligências e pesquisas deferidas pelo juízo de origem aos sistemas conveniados deste TJDF (SISBAJUD, RENAJUD e ERIDF evidenciariam a inexistência de bens passíveis de constrição (veículos, imóveis e/ou ativos financeiros), vinculados ao CPF ou ao CNPJ da devedora (empresária individual). VI. Sendo assim, é de se confirmar a decisão originária, uma vez que, no específico caso concreto, a expedição de carta precatória iria de encontro aos critérios informadores dos juizados especiais (simplicidade, informalidade, economia processual e celeridade - art. 2º, II, da Lei 9.099/95), sobretudo ante a falta de indicação de bens penhoráveis do devedor (não evidenciada minimamente a efetividade da medida à satisfação do crédito). Precedente: TJDF1ª TR, acórdão 1324837, DJe 08.04.2021. VII. No mais, não resultaria prejudicada a reanálise da questão, a ser apreciada pelo juízo originário, na hipótese de indicação precisa (não genérica) dos bens da devedora passíveis de constrição. VIII. Agravo conhecido e improvido. Confirmada a decisão originária. Sem custas processuais nem honorários advocatícios.
+
+(Acórdão 1359656, 07007034920218079000, Relator: FERNANDO ANTONIO TAVERNARD LIMA, Terceira Turma Recursal, data de julgamento: 4/8/2021, publicado no DJE: 12/8/2021. Pág.: Sem Página Cadastrada.)
+
+A agravante alega que a penhora pode ser realizada por termo nos autos, não havendo necessidade de expedição de carta precatória. De fato, o art. 845, § 1º, do CPC autoriza a formalização da penhora por termo nos autos quando houver certidão do registro imobiliário. Todavia, ainda que assim seja feito, atos sucessivos serão necessários para satisfazer o crédito, como a avaliação do bem, alienação, adjudicação, o que não exclui a possibilidade - provável, na hipótese - de expedição de carta precatória. Tudo isso prolongará o feito por tempo incompatível com o procedimento do Juizado Especial, além de exigir da serventia judicial a prática de atos complexos que não estão inseridos na sua rotina.
+
+Ressalte-se que ao credor é facultado o ajuizamento do cumprimento de sentença no local em que se encontra o bem, nos termos do art. 516, parágrafo único, do CPC. Aliás o juízo onde o imóvel está registrado é o mais apto a realizar as diligências sobre o bem, satisfazendo a obrigação.
+
+Nesse sentido:
+
+DIREITO PROCESSUAL CIVIL. INCOMPETÊNCIA. AJUIZAMENTO DE AÇÃO DE CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE DE EXECUÇÃO EM JUÍZO DIVERSO. REGULARIZAÇÃO DE POLO. NECESSIDADE DE SUSPENSÃO PROCESSUAL. RITO INCOMPATÍVEL COM OS JUIZADOS. 1 - Competência. Na forma do art. 516, inciso II e parágrafo único do CPC/2015, é possível executar título executivo judicial em juízo diverso do processo de conhecimento. Viável, pois, em tese, a execução de sentença originária de processo da Comarca de Padre Bernardo. 2 - Competência. Habilitação. No caso em exame, os pretensos credores se afirmam herdeiros do autor da ação no juízo de origem, pelo que, na forma do art. 313, §2º, inciso II do CPC, a execução pressupõe o incidente de habilitação, ou inventário, ainda que negativo, incompatível com o rito célere dos Juizados Especiais, em face do que dispõe o art. 51, inciso I, alínea a da Lei. 3 - Recurso conhecido, mas não provido. Custas e honorários advocatícios pelo recorrente.
+
+(Acórdão 1052103, 07021303020178070009, Relator: AISTON HENRIQUE DE SOUSA, Primeira Turma Recursal, data de julgamento: 5/10/2017, publicado no DJE: 17/10/2017. Pág.: Sem Página Cadastrada.)
+
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DECLINAÇÃO DA COMPETÊNCIA A PEDIDO DO EXEQUENTE. JUÍZO DO ATUAL DOMICÍLIO DO EXECUTADO E DO LOCAL ONDE SE ENCONTRAM OS BENS SUJEITOS À EXECUÇÃO. MANUTENÇÃO DA DECISÃO AGRAVADA. I. De acordo com a dicção do artigo 516, parágrafo único, do Código de Processo Civil, o requerimento de cumprimento de sentença, na hipótese em que o exequente opta por juízo diverso daquele que "decidiu a causa no primeiro grau de jurisdição", deve ser formulado perante o juízo escolhido. II. Se juízo originário, a pedido do exequente, declina da competência para processar o cumprimento de sentença e o juízo indicado não a recusa, a questão remanesce superada processualmente. III. A opção pelo "juízo do atual domicílio do executado", prevista na primeira parte do parágrafo único do artigo 516 do Código de Processo Civil, só se justifica quando houve mudança de domicílio no curso da relação processual, pois só se pode cogitar de domicílio atual em contraposição a domicílio anterior. IV. É lícita a opção do exequente pelo processamento do cumprimento de sentença no "juízo do local onde se encontrem os bens sujeitos à execução" quando esse fato não é objetado pelo executado. V. Agravo de Instrumento conhecido e desprovido.
+
+(Acórdão 1436539, 07208547020218070000, Relator: JAMES EDUARDO OLIVEIRA , 4ª Turma Cível, data de julgamento: 13/7/2022, publicado no DJE: 29/7/2022. Pág.: Sem Página Cadastrada.)
+
+Ante o exposto, conheço e nego provimento ao agravo de instrumento.
+
+Custas pela agravante.
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - 1º VogalCom o relator
+
+O Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA - 2º VogalCom o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNANIME.
