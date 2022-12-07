@@ -1,0 +1,2 @@
+Altera a Lei nº 5.851, de 7 de dezembro de 1972, para prever que constituirão recursos da Empresa Brasileira de Pesquisa Agropecuária (Embrapa) os oriundos dos contratos de transferência de tecnologias e dos licenciamentos para exploração comercial de tecnologias, de produtos, inclusive cultivares protegidos, de serviços e de direitos de uso da marca e para dispor sobre a aplicação desses recursos.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
