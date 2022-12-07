@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por JOÃO PINTO MARTINS JUNIOR,em face de v. acórdão proferido pela col. SextaTurma desta eg. Corte,cuja ementa foi assim definida (fls. 793 - 794):
+"RECURSO ESPECIAL. DESCAMINHO. TIPICIDADE. CRIME FORMAL. DECLARAÇÃO DE IMPORTAÇÃO COM FRAUDE. FALSA DECLARAÇÃO DE CONTEÚDO. ILUDIR O PAGAMENTO DE TRIBUTOS.
+1. "Nos termos do art. 334 do Código Penal, o crime de descaminho se perfaz com o ato de iludir o pagamento de imposto devido pela entrada de mercadoria no país. Desnecessária, portanto, a apuração administrativo-fiscal do montante que deixou de ser recolhido para a configuração do delito. O mesmo raciocínio deve ser aplicado ao delito de contrabando. Precedentes" (AgRg no REsp 1419119/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/03/2014, DJe 28/03/2014).
+2. Devidamente delimitados os fatos nos autos, no sentido da existência de declaração de importação com fraude nos preços e falsa declaração de conteúdo, com o fim de iludir o pagamento de tributos federais, deve ser restabelecida a sentença condenatória pela prática do delito de delito de descaminho.
+3. Recurso especial provido."
+Opostos embargos de declaração (fls. 805 - 809), estes foramrejeitados (fls. 823 - 831).
+O embargante, em síntese, reitera os termos do recurso pretérito, no sentido de que: a) "a decisão combatida insistira em omissão no pertinente ao documento, produzido no exterior e com autenticidade atestada pelas autoridades diplomáticas competentes, que afasta qualquer possibilidade de reputar imprecisão ou incorreção nas Declarações de Importação -DIs, notadamente quanto à descrição das mercadorias, conforme destacado no bojo das ações cíveis respectivas (nº 0801379-18.2017.4.05.8100 e nº 0801398-24.2017.4.05.8100)" (fl. 835); b) "Os acórdãos ora combatidos não especificaram onde reside a prova concreta de importação de mercadoria similar com preço maior que o declarado pela empresa do Embargante em 2016" (fl. 835); c) "permanece a ausência de manifestação do julgado quanto à realização de importações com descrições similares que foram devidamente aceitas pelo serviço de fiscalização e controle das operações de comércio exterior (SISCOMEX)" (fl. 835); d) "o acórdão recorrido também incorreu em omissão ao não indicar em que momento exato e específico sobreviera a autoria delitiva" (fl. 835), e e)Aduz ser "inconteste a ausência de prequestionamento da matéria junto ao TRF da 5ª Região, pois não sobreveio manifestação jurisdicional, expressa e específica, acerca da suposta falsidade ideológica de notas fiscais e declarações de importação ventilada pelo Embargado" (fl. 840).
+Requer, ao final, o conhecimento e provimento dos embargos de divergência.
+É o relatório.
+Decido.
+Com efeito, consoante disciplina o artigo 1.043 do CPC/2015 os Embargos de Divergência são cabíveis contra acórdão que:
+"I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+ ..
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia."
+Analisando a divergência apontada, verifica-se que o recurso nãocomportaprocessamento,uma vez que o embargantenão indicou qualquer dissídio jurisprudencial sobre a questão,e sequer colacionou aos autos outro v. acórdão exarado no âmbito deste e. STJ que, em tese, pudesse divergir do v. acórdão embargado.
+Ante o exposto, indefiro liminarmente os embargos de divergência, comfulcro no art. 266-C do RISTJ.
+P. e I.
