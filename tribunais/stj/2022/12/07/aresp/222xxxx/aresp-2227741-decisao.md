@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDNA VIRGINIA CASTILHO MONTEIRO DE MELLO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA NO ROSTO DOS AUTOS. INDENIZAÇÃO. DANOS MORAIS. POSSIBILIDADE.
+Alega a recorrente violação do art. 833, IV, do CPC, no que concerne à impossibilidade de penhora sobre ativos no espólio relativos ao pagamento de indenização por danos morais tendo em vista que a verba será utilizada integralmente para o sustento da recorrente e de sua família, sendo de rigor a relativização da regra de impenhorabilidade para adequação ao caso concreto, reconhecendo o caráter alimentício da verba, trazendo o(s) seguinte(s) argumento(s):
+Compreende a recorrente pela clara violação do artigo 833, inciso IV do Código de Processo Civil, que assim dispõe:  ..  (fls. 1.766).
+Como bem dispõe o dispositivo em tela, a verba recebida como fim destinado ao sustento do devedor e de sua família é impenhorável, exatamente como defende a expoente (fls. 1.766).
+Ainda que a verba oriunda de danos morais não integre o rol de exceções à penhora, o fato é que o valor proveniente da indenização, será utilizado integralmente para o sustento da recorrente e sua família, fato esse absolutamente ignorado pelo Tribunal Regional (fls. 1.767).
+E é exatamente essa a linha de argumento da recorrente, porquanto era devida a relativização da regra quanto aos valores recebidos à título de danos morais, já que demasiadamente necessários ao sustento familiar da expoente, acarretando, inobstante, na impenhorabilidade daqueles valores (fls. 1.768).
+O Tribunal a quo, deveria, sim, observar a questão peculiar do caso em concreto, julgando a relativização dos valores percebidos e necessários ao sustento familiar (fls. 1.768).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
