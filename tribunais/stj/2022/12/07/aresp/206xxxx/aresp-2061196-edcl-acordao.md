@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/12/2022 a 07/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ que não conheceu do Recurso Especial.
+Em apertada síntese, as embargantes alegam omissão no acórdão recorrido, porquanto este não teria examinado a tese de que, nos "casos de extinção de pessoas jurídicas por incorporação, baixa ou outro forma de descontinuação da atividade", deve ocorrer o aproveitamento fiscal sem limitação legal (fl. 1.840, e-STJ).
+A parte embargada ofereceu impugnação às fls. 1.849-1.852, e-STJ.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. PREJUÍZOS FISCAIS. LIMITE DE 30%. COMPENSAÇÃO. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+1. Trata-se, na origem, de Mandado de Segurança que almeja, o reconhecimento de suposto direito líquido e certo de "compensar prejuízo fiscal e base de cálculo negativa de CSLL sem a limitação do percentual de 30% previsto nos artigos 42 e 58 da Lei 8.981/95 e artigos 15 e 16 da Lei 9.065/95".
+2. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Os aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+3. A legislação do IRPJ e da CSLL permite que eventuais prejuízos fiscais apurados em períodos anteriores sejam compensados com os lucros apurados posteriormente, e estabelece que a referida compensação é limitada a 30% (trinta por cento) do lucro real por ano-calendário.
+4. O STF considerou que a natureza jurídica da compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL é de benefício fiscal, decidindo pela constitucionalidade da lei que impôs o limite de 30% (trinta por cento) para que a compensação pudesse ser efetivada. Inexiste permissão legal para que, caso a empresa seja extinta por incorporação, seus prejuízos fiscais sejam compensados sem limitação.
+5. No direito tributário, ramo do direito público, a relação jurídica só pode decorrer de norma positiva. Desse modo, o silêncio da lei não cria direitos nem para o contribuinte nem para o fisco. Sendo a compensação um benefício fiscal, a interpretação deve ser restritiva  nos termos do art. 111 do Código Tributário Nacional, não se pode ampliar o sentido da lei nem o seu significado.
+6. Logo, "havendo norma expressa limitando a compensação de prejuízos fiscais de IRPJ e CSLL a 30% do lucro líquido ajustado do exercício em que se der a compensação, sem qualquer ressalva à possibilidade de compensação acima desse limite nos casos de liquidação da empresa, não pode o Poder Judiciário se substituir ao legislador e ampliar o limite estabelecido" (AgInt nos EDcl no AREsp 1.685.511/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.6.2021).
+7. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+8. Os argumentos das embargantes denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+9. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.11.2022.
+Trata-se, na origem, de Mandado de Segurança que almeja reconhecimento de suposto direito líquido e certo de "compensar prejuízo fiscal e base de cálculo negativa de CSLL sem a limitação do percentual de 30% previsto nos artigos 42 e 58 da Lei 8.981/95 e artigos 15 e 16 da Lei 9.065/95" (fl. 1.575, e-STJ).
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Os Aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+As embargantes, mais uma vez, intencionam discutir o mérito da causa, esquecendo-se de demonstrar a existência de omissão, contradição ou obscuridade, o que não é permitido no âmbito dos Embargos de Declaração.
+A legislação do IRPJ e da CSLL permite que eventuais prejuízos fiscais apurados em períodos anteriores sejam compensados com os lucros apurados posteriormente, e estabelece que a referida compensação é limitada a 30% (trinta por cento) do lucro real por ano-calendário.
+O STF considerou que a natureza jurídica da compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL é de benefício fiscal, decidindo pela constitucionalidade da lei que impôs o limite de 30% (trinta por cento) para que a compensação pudesse ser efetivada.
+Inexiste permissão legal para que, caso a empresa seja extinta por incorporação, seus prejuízos fiscais sejam compensados sem qualquer limitação.
+No direito tributário, ramo do direito público, a relação jurídica só pode decorrer de norma positiva. Desse modo, o silêncio da lei não cria direitos nem para o contribuinte nem para o fisco. Sendo a compensação um benefício fiscal, a interpretação deve ser restritiva - nos termos do art. 111 do Código Tributário Nacional, não se pode ampliar o sentido da lei nem o seu significado.
+Logo, "havendo norma expressa limitando a compensação de prejuízos fiscais de IRPJ e CSLL a 30% do lucro líquido ajustado do exercício em que se der a compensação, sem qualquer ressalva à possibilidade de compensação acima desse limite nos casos de liquidação da empresa, não pode o Poder Judiciário se substituir ao legislador e ampliar o limite estabelecido" (AgInt nos EDcl no AREsp 1.685.511/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17.6.2021).
+Assim sendo, cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
