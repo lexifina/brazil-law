@@ -1,0 +1,35 @@
+DECISÃO
+ITrata-se de habeas corpus substitutivo de recurso próprioimpetrado em favor deEVALDO GHISI DA SILVA,contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ - Agravo Interno n. 38755-09.2022.8.16.0000.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do delito do art. 121, § 2º, II e IV c/c o art. 14, II, todos do CP.
+Alega a defesa que mesmo sem os laudo de prestabilidade e confronto balístíco, o ora paciente foi pronunciado.
+Na fase do art. 422 do CP, a defesa requereu a realização de perícia na munição deflagrada e confronto com as armas, qie foi indeferida pelo Juiz monocrático.
+A defesa apresentou correição parcialperante o Tribunal de origem, que não ha conheceu por decisão monocrática. Interposto agravo regimental, este não foi provido, nos termos do acórdão de fls. 39-44(e-STJ).
+O julgado encontra-se assim ementado:
+"AGRAVO INTERNO - CORREIÇÃO PARCIAL - NÃOCONHECIMENTO - INCONFORMISMO COM AS RAZÕES JURÍDICASADOTADAS PARA INDEFERIMENTO DE DILIGÊNCIAS NA FASE DOART. 422 DO CÓDIGO DE PROCESSO PENAL - INADMISSIBILIDADEDA MEDIDA CORREICIONAL, CABÍVEL TÃO-SOMENTE PARAREPARAÇÃO DE - DECISÃO MANTIDA -ERROR IN PROCEDENDORECURSO NÃO PROVIDO."
+Neste writ, a defesa alega, em síntese, que a policía, o Ministério Público já havia feito vários requerimentos de períci e laudos, os quais não foram acostados aos autos, não podendo estes serem indiferidos na fase do art. 422 do CPP.
+Requer a concessão da ordem, inclusive liminarmente, para que seja reformado o acórdão atacado.
+O Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 128-131).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+"Como se viu, resultou demonstrado, nem ao menos em tese, erro ou abuso que pudesse importar em não inversão tumultuária de atos e fórmulas procedimentais, paralisação injustificada do feito ou dilação abusiva de prazos.
+Daí, a flagrante inadmissibilidade da presente correição parcial, que não se presta - como pretende o Corrigente - ao debate das razões jurídicas ou fundamentos adotados por decisão (in)deferitória depretensão manifestada pelas partes.
+Rememore-se, uma vez mais, não obstante, que esta Primeira Câmara Criminal - no julgamento do nº 1.745.271-6 e do Recurso em Sentido Estrito nº 66-34.2004.8.16.0116 - já haviareputado prescindível e protelatóriaa realização do mesmo exame pericial aqui vindicado (e motivadamente indeferido pelo Juízo), não havendo cogitar, assim, da invocada ofensa à plenitudea quode defesa.
+Insuficientes, portanto, as razões expendidas pelo Agravante para modificar a compreensão alcançada na deliberação recorrida, imperiosa se mostra a sua manutenção" (e-STJ, fls.43-44).
+Verifica-se que o acórdão combatido consignou que a questão aqui trazida já havia sido analisada em sede dehabeas corpus e de recurso em sentido estrito anterior naquela Corte.
+Ademais, o acórdão atacado encontra-se em consonância com o entendimento deste Superior Tribunal de Justiça, na medida em que acorreição parcialé o instrumento adequado a reparação de vício de procedimento (error in procedendo) interposto contra ato de juiz de que não haja previsão de recurso, o que não ocorreu na hipótese em análise (HC n. 151.267/PR, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 25/5/2010, DJe de 14/6/2010).
+Nesse sentido, ainda:
+RECURSO ESPECIAL. DECISÃO QUE RECUSA A HOMOLOGAÇÃO DE ACORDO DE COLABORAÇÃO PREMIADA. RECURSO CABÍVEL. AUSÊNCIA DE PREVISÃO LEGISLATIVA EXPRESSA.DÚVIDA OBJETIVA. APLICAÇÃO DO PRINCÍPIO DA FUNGIBIBILIDADE. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. A teor das disposições contidas na Lei n. 12.850/2013, realizado o acordo de colaboração premiada, serão remetidos ao juiz,para verificação de sua regularidade, legalidade, adequação e voluntariedade, ostermos do ajuste, as declarações do colaborador e cópia da investigação. Tem-se, nessa fase, a fiscalização dosaspectosprevistos no art. 4º, § 7º, do mesmo regramento legal, com redação incluída pela Lei n. 13.964/2019.
+2. O magistrado poderá recusar a homologação da proposta que não atender aos requisitos legaise esse ato judicialtem conteúdo decisório, pois impede o meio de obtenção da prova. Entretanto, nãoexiste previsão normativasobre o recurso cabível para a sua impugnação.
+3. Nesse contexto, ante a lacuna na lei, o operador do direito tem de identificar,entre os instrumentos recursais existentes no direito processual penal, aquele mais adequado paraa revisão da decisão proferida em primeira instância.
+4. Analisadas as espécies de recursoselencados no Código de Processo Penal, tem-se que a apelação criminal é apropriada para confrontar a decisão que recusar a homologação da proposta de acordo de colaboração premiada.
+5. O ato judicial: a) não ocasiona uma situação de inversão tumultuária do processo, a atrair o uso da correição parcial e b) tem força definitiva, uma vez que impede o negócio jurídico processual, com prejuízo às partes interessadas. Ademais, o cabimento dorecurso emsentido estrito está taxativamente previsto no art. 581 do CPP e seus incisos não tratam de hipótese concreta que se assemelha àquela prevista no art. 4º, § 8º, da Lei n. 12.850/2013.
+6. De toda forma,antea existência de dúvida objetiva quanto ao instrumento adequado para combater o provimento jurisdicional, não constitui erro grosseiro o manejo de correição parcial, principalmente quando esse instrumento foi aceito em situações outras pelo Tribunal.Interposta a insurgência no interstício de cinco dias, sem que se possa falar em sua intempestividade, era perfeitamente aplicável o princípio da fungibilidade recursal. Foi violado o art. 579 do CPP, uma vez que: "salvo a hipótese de má-fé, a parte não será prejudicada pela interposição de um recurso por outro".
+7. Recurso especial conhecido e provido, para determinar o recebimento da correição parcial interposta pelo Ministério Público como apelação criminal.
+(REsp n. 1.834.215/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/10/2020, DJe de 12/11/2020.)
+Consoante bem delineado pelo parecer ministerial, "inexistente vício de procedimento, revela-se incabível o manejo de correição parcial perante a Corte de origem para veicular simples inconformismo com as razõesjurídicas da decisão judicial" (e-STJ, fl. 131).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se
