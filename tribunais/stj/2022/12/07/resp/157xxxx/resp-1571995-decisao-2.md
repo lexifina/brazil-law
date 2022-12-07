@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por AERCAP IRELAND LIMITED (AERCAP), com fundamento no art. 105, III, alíneasa e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo assim ementado:
+RECURSO - Agravo de instrumento Reconsideração de parte da decisão agravada - Análise do recurso nesta parte prejudicada.
+LEGITIMIDADE "AD CAUSAM" - Questão a respeito da legitimidade da TRANSBRASIL S/A LINHAS AÉREAS já decidida nos autos do Agr. Instr. N" 9292579-04.2008.9.26.0000 - Massa falida que não tem legitimidade para promover atos de execução, pois não participou do processo que resultou na decisão exequenda- Recurso nesta parte improvido.
+CAUÇÃO - Execução provisória - Desnecessidade - Garantia que só é passível de ser exigida em caso de levantamento de depósito em dinheiro e da prática de atos que importem em alienação de propriedade - Art. 475-0, III, do CPC - Grave dano não caracterizado-Recurso nesta parte improvido.
+LIQUIDAÇÃO - Sentença - Condenação das agravantes ao pagamento de indenização por danos materiais - Acórdão que determinou a liquidação por arbitramento. Decisão agravada que tão-somente cumpriu o acórdão - Recurso nesta parte improvido(e-STJ, fl. 1.064).
+Os embargos de declaração opostos porAERCAP e GENERAL ELETRIC CAPITAL CORPORATIONAL, ALCYONE FSC CORPORATION e AIRPLANES HOLDINGS LIMITED (GENERAL ELETRIC e outras) foram rejeitados com correção deerro material(e-STJ, fls. 1.329/1.339).
+Nas razões do presente recurso,AERCAPalegou além de dissídio jurisprudenciala violação dos arts. 12, III, 128, 535, 460, 475-B, §3º, 475-O, III, e 620 do CPC/73; e 22, III, c, i, l, m e o, 76, parágrafo único, e 103 Lei nº 11.101/05, ao sustentar(1)ausência de fundamentação e negativa de prestação jurisdicional assim consubstanciada: (1.a)omissão quanto à aplicação dos arts.12, III, 128, 535, 460, 475-B, §3º, 475-O, III, e 620 do CPC/73; e 22, III, c, i, l, m e o, 76, parágrafo único, e 103 Lei nº 11.101/05; e (1.b) omissão no que se refere à ilegitimidade da Transbrasil para estar em juízo; e(1.c)contradição, pois, de um lado, o acórdão recorrido se refere à execução provisória de sentença, e de outro aoincidente do qual se originou o recurso somente se referindo à parte ilíquida da sentença, portanto, ao procedimento de liquidação, e não de execução provisória;(2)acórdão extra petita;(3)ilegitimidade da Transbrasil diante da legitimidadedo síndico da massa falida;(4)necessidade de remessa dos autos ao contador judicial; e(5)necessidadede prestação de caução pela recorrida(e-STJ, fls. 1.581/1.611).
+Foram apresentadas contrarrazões (e-STJ, fls. 1.676/1.680 e 1.682/1.714).
+É o relatório.
+Decido.
+O recursomerece prosperar.
+(1) Da negativa de prestação jurisdicional
+O TJSP, ao analisar os embargos de declaração deixou de analisar as alegações constantes nos embargos de declaração opostos às e-STJ, fls. 1.110/1.119: (1.a) omissão quanto à aplicação dos arts. 12, III, 128, 535, 460, 475-B, §3º, 475-O, III, e 620 do CPC/73; e 22, III, c, i, l, m e o, 76, parágrafo único, e 103 Lei nº 11.101/05; e (1.b) omissão no que se refere à ilegitimidade da Transbrasil para estar em juízo; e (1.c) contradição, pois, de um lado, o acórdão recorrido se refere à execução provisória de sentença, e de outro ao incidente do qual se originou o recurso somente se referindo à parte ilíquida da sentença, portanto, ao procedimento de liquidação, e não de execução provisória.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJSPa se manifestar sobre as questões federais terminou por negar prestação jurisdicional aRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Nessas condições,DOU PROVIMENTO ao recurso especial de AERCAP, determinando o retorno dos autos ao TJSP para que analise as questõestrazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AERCAP. AÇÃO DECLARATÓRIA DE NULIDADE.EXECUÇÃO PROVISÓRIA DE SENTENÇA. AGRAVO DE INSTRUMENTO.OMISSÕES E CONTRADIÇÕES.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
