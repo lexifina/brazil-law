@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/12/2022 a 07/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Cuida-se de agravo interno manejado pelo ESTADO DO PARANÁ para submeter ao crivo do órgão colegiado decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE. ICMS. BASE DE CÁLCULO EFETIVA INFERIOR À PRESUMIDA. INAPLICABILIDADE DO ART. 166 DO CTN. MERO RESSARCIMENTO. RESP 525.625, SEGUNDA TURMA, JULGADO EM 9/8/2022. INFORMATIVO DE JURISPRUDÊNCIA DO STJ Nº 744 DE 15 DE AGOSTO DE 2022. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+O agravante insurge-se contra a decisão agravada alegando que a questão debatida nos autos foi sumulada pelo STF através do Enunciado nº 546, segundo o qual "Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão, que o contribuinte de jurenão recuperou do contribuinte de factoo quantumrespetivo". Assevera que adecisão deferiu o pedido de afastar a incidência do art. 166 do CTN, o que não poderia ser feito, uma vez que não houve de fato comprovação de que a parte teria suportado o encargo financeiro, estando ausente a autorização expressa do contribuinte de fato para que a ora agravada pudesse pleitear a restituição do ICMS pago a maior. Cita precedentes desta Corte no sentido da sua pretensão.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante o órgão colegiado.
+Impugnação às fls. 1.947-1.951 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS-ST. AFASTAMENTO DO ART. 166 DO CTN NO ÂMBITO DO RESSARCIMENTO DOS VALORES PAGOS A MAIOR. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE FUNDAMENTOS AUTÔNOMOS. AGRAVO INTERNO NÃO CONHECIDO.
+1. Da análise das razões do agravo interno verifica-se que a agravante não impugnou os fundamentos da decisão agravada, razão pela qual não é possível conhecer do presente agravo interno, haja vista a incidência do § 1º do art. 1.021 do CPC e da Súmula nº 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. A Corte Especial do STJ pacificou o entendimento quanto ao cabimento de impugnação parcial de capítulos autônomos em sede de agravo interno, admitindo a desnecessidade de impugnação específica de todos os fundamentos da decisão recorrida e reconhecendo a preclusão dos capítulos não impugnados (EREsp 1424404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021). Contudo, no caso em tela, os fundamentos impugnados não são autônomos, o que impossibilita o conhecimento parcial do presente agravo interno.
+3. Agravo interno não conhecido.
+VOTO
+A irresignação não merece conhecimento.
+A decisão agravada deu provimento ao agravo interno do particular para afastar a aplicação do art. 166 do CTN em caso de ressarcimento ao contribuinte dosvalores pagos a maior no âmbito da substituição tributária para frente, visto que o supracitado dispositivo está inserido na seção relativa a pagamento indevido, não sendo este o caso dos autos, pois os valores eram devidos quando do recolhimento do tributo sob a base de cálculo presumida; contudo, quando realizada a operação, a base de cálculo real foi inferior àquela presumida, dando azo ao direito de ressarcimento previsto nos arts. 150, § 7º, da Constituição Federal e 10 da Lei Complementar nº 87/1996, dai porque, em se tratando de mero ressarcimento, e não de repetição de indébito, foi afastada a incidência do art. 166 do CTN, consoante entendimento adotado noREsp, 525.625/RS, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 9/8/2022.
+Da análise das razões do agravo interno, verifica-se que o agravante não impugnou os supracitados fundamentos da decisão agravada, apenas pugnou pela aplicação da Súmula nº 546 do STF, de modo que não é possível conhecer do presente recurso, haja vista a incidência do § 1º do art. 1.021 do CPC e da Súmula nº 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. JUIZADO ESPECIAL FEDERAL. GRATUIDADE JUDICIÁRIA. DESCABIMENTO.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Incidência da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+3. Agravo interno não conhecido. (AgInt na Rcl 42.515/RS, Rel. Ministro Og Fernandes, Primeira Seção, DJe 21/03/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO.SÚMULA 182/STJ.
+1. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada. Incidência da Súmula 182/STJ.
+2. Hipótese em que a agravante, ao apresentar negativa genérica, não impugnou concretamente o fundamento segundo o qual a jurisprudência do STJ considera incabível Reclamação para discutir decisão local que não promove a suspensão de processo que discute tema afetado no STJ a julgamento no Rito dos Recursos Repetitivos. Precedentes do STJ: Rcl 32.391/SP, Rel. Min. Mauro Campbell Marques, DJe 18.12.2017; e AgInt nos EDcl na Rcl 37.271/SC, Rel. Ministro Napoleão Nunes Maia Filho, DJe 18.3.2020.
+3. Agravo Interno não conhecido. (AgInt na Rcl 41.185/RJ, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 15/03/2022)
+Impende registrar que a Corte Especial do STJ pacificou o entendimento quanto ao cabimento de impugnação parcial de capítulos autônomos em sede de agravo interno, admitindo a desnecessidade de impugnação específica de todos os fundamentos da decisão recorrida e reconhecendo a preclusão dos capítulos não impugnados. (EREsp 1424404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+Contudo, no caso em tela, os fundamentos impugnados não são autônomos, o que impossibilita o conhecimento parcial do presente agravo interno.
+Ante o exposto, NÃO CONHEÇO do presente agravo interno.
+É como voto.
