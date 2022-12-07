@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRENO HEITOR DE SOUZA MOREIRA contra decisão que inadmitiu recurso especial em razão da incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação na ação de obrigação de fazer c/cindenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 369):
+Prestação de serviços educacionais. Ação de obrigação de fazer c. c. indenização por danos materiais e morais. Extinção do Curso de Engenharia Mecânica por insuficiência de alunos matriculados a partir do quinto período. Possibilidade diante de expressa previsão contratual. Contrato redigido com cláusulas claras, permitindo a compreensão do homem minimamente inteligente. Ausência de abusividade das cláusulas contratuais. Jurisprudência deste E. TJSP. Sentença de improcedência. Apelo do autor improvido.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, a violação dos artigos:
+a) 53, I, da Lei n. 9.394/1996, impugnando o cancelamento do curso de ensino superior em decorrência de ausência de quórum de alunos;
+b) 6º, III, 14 e 46, todos do Código de Defesa do Consumidor, alegando ausência de informação sobre o risco do negócio, bem como a existência de cláusula contratual abusiva; e
+c) 187 do Código Civil, suscitando a prática de ato ilícito pela parte recorrida.
+Afirma que as partes firmaram contrato de prestação de serviços educacionais
+Narra que a recorrida encerrou repentinamente o curso de engenharia mecânica, justificando não haver número mínimo de alunos para a continuidade da graduação.
+Sustenta que não foi informado de que havia somente 16 alunos matriculados no seu curso de engenharia mecânica.
+Defende que é imprópria a conduta da instituição de ensino, que frustrou a sua expectativa quanto à conclusão do curso, sobretudo porque já havia ultrapassado dois anos de atividade.
+Argumenta ainda que o entendimento do acórdão recorrido diverge do entendimento de julgado do TJRS sobre o cancelamento abrupto de curso por entidade educacional ante a insuficiência de alunos matriculados.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas às fls. 418-427, e o recurso especial foi inadmitido na origem (fls. 428-430).
+A contraminuta ao agravo foi oferecida às fls. 446-452.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 371-372 e 374):
+O culto magistrado julgou improcedente a demanda, "tendo em vista que, desde o início da relação contratual tinha ciência da possibilidade de não oferecimento do curso de Engenharia Mecânica, no caso de insuficiência de alunos matriculados para essa área específica da engenharia.".
+E, pese a irresignação recursal do autor, a brilhante sentença deve ser mantida.
+Isto porque, constou expressamente no Manual do candidato do processo seletivo que "Os cursos de Engenharia têm duração de cinco anos (dez semestres) e são constituídos de dez períodos letivos (..) A UNIP reserva-se o direito de, a partir do 5º período, não formar turmas das áreas (habilitação/modalidade) com número de matriculados inferior a 40 alunos." (cf. fls. 152).
+Neste mesmo sentido foi a redação da Cláusula 3.1.5.1 do contrato de prestação de serviços. Confira-se:
+ ..
+Ou seja, apesar das alegações do autor, é certo que tanto o manual do processo seletivo, quanto o próprio contrato de ensino em si, previram expressamente que a partir do quintos emestre seria possível que a instituição de ensino não formasse turmas de áreas com menos de quarenta alunos matriculados.
+Em primeiro lugar anote-se que as cláusulas estão redigidas de maneira clara, suficientes para compreensão do homem de inteligência mínima.
+Não pode o autor se dizer ignorante ao conteúdo do contrato antes de firmá-lo.
+No mais, ainda que o curso de engenharia mecânica tenha se iniciado com menos de quarenta alunos, é certo que não foi gerada expectativa legítima de continuidade do curso atéo último período letivo, eis que somente a partir do quinto período é que a ré teria a faculdade de prosseguir ou não com os cursos com menos de 40 alunos.
+E tal previsão não é materialmente abusiva, pois os dois primeiros anos do curso de engenharia são básicos, não havendo prejuízos ao aluno, que já tinha ciência da possibilidade de extinção do curso, e pode dar continuidade aos estudos em outra instituição de ensino.
+ ..
+Bem por isso, ante a ausência de abusividade das cláusulas contratuais, de rigor a manutenção da brilhante sentença de improcedência.
+Como bem apontou o douto magistrado, "a prova documental carreada aos autos comprova a plena ciência do autor sobre a possibilidade da descontinuidade do curso em discussão, diante da expressa previsão contida na cláusula 3.1.5.1, do contrato firmado e da observação de nº 1 do Manual do Candidato." (fls. 290).
+No tocante à ofensa ao art. 53, I, da Lei n. 9.394/1996, constata-se que há conformidade do acórdão recorrido com o entendimento do Superior Tribunal de Justiça sobre a autonomia administrativa e financeira das instituições de ensino superior, as quais asseguram a extinção de curso superior por elas.
+Em relação à violação dos arts. 6º, III, 14 e 46, todos do CDC, verifica-se que o entendimento adotado no acórdão recorrido encontra amparo na jurisprudência firmada nesta Corte de que a informação é adequada, uma vez que contida tantono manual do discente como no contrato de prestação de serviçosacerca da necessidade de número mínimo de estudantes para a formação de turmas, bem como sobreo encerramento do curso por insuficiência de alunos.
+De igual modo, quanto à violação ao art.187 do CC, o acórdão recorrido está em consonância com a jurisprudência do STJ sobre a inexistência de conduta abusiva da recorrida na extinção do curso em questão.
+Na linha do que acima exposto, merecemdestaque os seguintes julgados:
+RECURSO ESPECIAL - AÇÃO ANULATÓRIA DE CLÁUSULA CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - NÃO FORMAÇÃO DE NOVAS TURMAS DE CURSO SUPERIOR (EXTINÇÃO DE CURSO UNIVERSITÁRIO) - TRANSFERÊNCIA DE ALUNA PARA OUTRA INSTITUIÇÃO DE ENSINO - RESPONSABILIDADE CIVIL DA UNIVERSIDADE RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS, AO ENTENDEREM CONFIGURADOS E COMPROVADOS OS DANOS ALEGADOS, NÃO OBSTANTE O AFASTAMENTO DA ARGUIDA ABUSIVIDADE DA CLÁUSULA CONTRATUAL QUE FACULTA À UNIVERSIDADE A EXTINÇÃO DO CURSO POR AUSÊNCIA DE VIABILIDADE ECONÔMICO-FINANCEIRA - AUTONOMIA UNIVERSITÁRIA (ART. 207 DA CF/88) - POSSIBILIDADE DE EXTINÇÃO DE CURSO SUPERIOR, NOS TERMOS DO ARTIGO 53, INCISO I, DA LEI N. 9.394/96 - RECURSO ESPECIAL PROVIDO, A FIM DE JULGAR IMPROCEDENTE O PEDIDO CONDENATÓRIO. INSURGÊNCIA DA INSTITUIÇÃO EDUCACIONAL.
+1. Violação ao art. 535 do CPC não configurada. Acórdão local que enfrentou de modo fundamentado todos os aspectos fundamentais ao julgamento da demanda.
+2. Nos termos do Código de Defesa do Consumidor, o contrato de prestação de serviços educacionais traduz relação de consumo.
+3. A instituição educacional privada de ensino superior goza de autonomia universitária, nos termos do art. 207 da Constituição Federal, motivo pelo qual possível, ante a inviabilidade de determinado curso, proceder à sua extinção, conforme preceito constante do art. 53, I, da Lei nº 9.394/1996 - Lei de Diretrizes e Bases da Educação Nacional.
+4. O art. 6º, III, do CDC que institui o dever de informação e consagra o princípio da transparência, alcançou o negócio jurídico entabulado entre as partes, porquanto a aluna/consumidora foi adequadamente informada acerca da possibilidade de extinção do curso em razão de ausência de quorum mínimo, tanto em razão de cláusula contratual existente no pacto, quanto no manual do discente.
+5. No caso, não se verifica o alegado defeito na prestação de serviços, haja vista que a extinção de cursos é procedimento legalmente previsto e admitido, não sendo dado atribuir-se a responsabilização à universidade por evento sobre o qual não há qualquer participação ou influência da desta (ausência de alunos e não obtenção, pela aluna, de aprovação), mormente quando cumpre todos os deveres ínsitos à boa-fé objetiva.
+Na relação jurídica estabelecida com seu corpo discente, consoante atestado pelas instâncias ordinárias, a instituição de ensino forneceu adequada informação e, no momento em que verificada a impossibilidade de manutenção do curso superior, ofereceu alternativas à aluna, providenciando e viabilizando, conforme solicitado por esta, a transferência para outra faculdade.
+6. Recurso especial provido para julgar improcedente os pedidos da inicial. (REsp n. 1.094.769/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/3/2014, DJe de 15/8/2014.)
+RECURSO ESPECIAL. DANO MORAL. ENSINO SUPERIOR. PRESTAÇÃO DE SERVIÇOS POR INSTITUIÇÃO PRIVADA. CÓDIGO DE DEFESA DO CONSUMIDOR - CDC. EXTINÇÃO ANTECIPADA DE CURSO. AUTONOMIA UNIVERSITÁRIA. CONDUTA DESLEAL OU ABUSIVA. AUSÊNCIA.
+1. O contrato de prestação de serviços educacionais está sujeito às disposições contidas no Código de Defesa do Consumidor - CDC. O estudante é um consumidor de serviços educacionais. A universidade, por sua vez, deve prestar seus serviços na forma contratada, oferecendo salas de aula, professores e conteúdo didático- científico adequados ao bom desenvolvimento do curso universitário.
+2. A extinção antecipada de curso superior, ainda que por razões de ordem econômica, encontra amparo no art. 207 da Constituição Federal e na Lei nº 9.394/1996, que asseguram autonomia universitária de ordem administrativa e financeira, motivo pelo qual a indenização por dano moral será cabível tão somente se configurada a existência de alguma conduta desleal ou abusiva da instituição de ensino.
+3. Na hipótese, segundo as instâncias ordinárias, a universidade teria comunicado previamente a extinção do curso, oferecido restituição integral dos valores pagos e oportunidade de transferência, o que demonstra transparência e boa-fé, não caracterizando, por conseguinte, nenhum ato abusivo a ensejar indenização por danos morais.
+4. Recurso especial não provido. (REsp n. 1.155.866/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/2/2015, DJe de 18/2/2015.)
+Confira-se também oseguinteprecedente: REsp n. 1.453.852/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/10/2015, DJe de 20/11/2015.
+Nesse contexto, tendo em vista que a decisão da Corte de origem encontra amparo na jurisprudência do STJ, impõe-se a incidência daSúmula n. 83 do STJ em relação aos temas apresentados, tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal.
+A propósito, veja-se este julgado: AgInt no AREsp n. 1.824.877/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/10/2022, DJe de 3/11/2022.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
