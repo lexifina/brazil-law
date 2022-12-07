@@ -1,0 +1,114 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0721714-37.2022.8.07.0000AGRAVANTE(S)BANCO DO BRASIL S/AAGRAVADO(S)PEDRO CAVALCANTE GUIMARAES,GERALDO CAVALCANTE GUIMARAES,CICERO CAVALCANTE GUIMARAES,MARIA RENAVA CAVALCANTE GUIMARAES,KASSIA NAIONARA ALVES GUIMARAES,CATIANE ALVES GUIMARAES,KASSIO NATANAEL ALVES GUIMARAES,QUESIA MILA ALVES GUIMARAES,RITA KELINE ALVES GUIMARAES,ROSINETE GUIMARAES,PAMELA STEFANY PEQUENO GUIMARAES e JOSE NETO GUIMARAESRelatorDesembargador LEONARDO ROSCOE BESSA Acórdão Nº1652359
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. MERO INCONFORMISMO. DISCUSSÃO INTEGRAL DA MATÉRIA. INOVAÇÃO RECURSAL. VIA RECURSAL IMPRÓPRIA. MANIFESTAÇÃO. IMPOSSIBILIDADE. SUPRESSÃO DA INSTÂNCIA ORIGINÁRIA. OMISSÃO. INEXISTÊNCIA. BOA-FÉ PROCESSUAL. VIOLAÇÃO. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA.
+
+1. A teor do art. 1.022 do Código de Processo Civil – CPC, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz, de ofício ou a requerimento, e corrigir erro material no acórdão recorrido.
+
+2. Os embargos de declaração não se prestam ao reexame de matéria julgada, pois seu conteúdo se limita às hipóteses delineadas no art. 1.022 do Código de Processo Civil - CPC.
+
+3. Os fundamentos do acórdão abordaram todas as questões jurídicas suscitadas pelo embargante: aplicabilidade do Código de Defesa do Consumidor – CDC para reconhecer a solidariedade passiva do Banco do Brasil e da União, responsáveis pelo pagamento de cédulas de crédito rural, não cabimento do chamamento ao processo da União no processo de execução, e tramitação da liquidação de sentença pelo rito do arbitramento.
+
+4. Apesar de a matéria do agravo ter sido integralmente debatida e refutada, o embargante acrescenta várias outras razões para a reforma do julgado, por meio inadequado, qual seja, os embargos de declaração. Além disso, houve inclusão indevida (inovação recursal) nesta oportunidade para se reconhecer, ainda, ausência de causa de pedir e a ilegitimidade passiva do agravante, motivo pelo qual não há que se falar em omissão.
+
+5. O tribunal não está obrigado a se manifestar sobre todos os pontos suscitados pela defesa, desde que se pronuncie quanto aos relevantes para a manutenção ou reforma da decisão impugnada (EDcl no REsp 1803277/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/04/2022, DJe 18/04/2022).
+
+6. Implica abuso do direito de recorrer quando suscitadas omissões manifestamente descabidas com relação a temas que, além de não terem sido objeto de recurso, são matérias que devem ser resolvidas pelo juízo de primeiro grau, sob pena de supressão da instância originária.
+
+7. Não se admite inclusão indevida de novas teses, visto que os embargos de declaração não se prestam ao reconhecimento da suposta ausência de causa de pedir, diante do não pagamento das cédulas de crédito, ou da ilegitimidade do embargante para integrar o polo passivo da demanda.
+
+8. A impertinência dos dispositivos invocados como pretexto de prequestionamento evidencia a manifesta desnecessidade dos embargos de declaração, implica o retardamento injustificável da solução do processo e desvirtua a finalidade do recurso.
+
+9. A interposição de dois recursos protelatórios, por meio de inovação recursal e pretensões manifestamente infundadas, vai de encontro ao princípio da boa-fé processual (artigos 5º e 6º do CPC), o que justifica a aplicação da multa prevista no artigo 1.026, § 2º, do CPC.
+
+10. Embargos de declaração conhecidos e rejeitados. Multa por oposição de embargos de declaração protelatórios aplicada.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONARDO ROSCOE BESSA - Relator, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal e ESDRAS NEVES - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 15 de Dezembro de 2022
+
+Desembargador LEONARDO ROSCOE BESSAPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de embargos de declaração opostos por BANCO DO BRASIL S.A. contra acórdão da Sexta Turma Cível, que negou provimento à apelação por ele interposta.
+
+O acórdão restou assim ementado:
+
+“AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL. EXPURGOS INFLACIONÁRIOS. “PLANOS COLLOR I E II”. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. OBRIGAÇÃO SOLIDÁRIA. INCLUSÃO DE APENAS UM DOS DEVEDORES. FACULDADE DO CREDOR. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO.  CHAMAMENTO AO PROCESSO. NÃO CABIMENTO. MOMENTO PROCESSUAL INOPORTUNO. PROCEDIMENTO. LIQUIDAÇÃO POR ARBITRAMENTO. ADEQUAÇÃO. 1. A incidência do Código de Defesa do Consumidor - CPC a determinado suporte fático depende primordialmente dos conceitos normativos de consumidor (arts. 2º, 17 e 29), fornecedor, produto e serviço (art. 3º e respectivos parágrafos). Embora o produtor rural não se encaixe no conceito de consumidor padrão (art. 2º, caput) em face do elemento teleológico da relação de consumo, a conclusão é diversa pela corrente denominada finalismo mitigado, adotada pelo Superior Tribunal de Justiça (STJ). 2. Nas obrigações solidárias, o art. 275 do Código de Civil (CC) prevê que: "o credor tem direito a exigir e receber de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais devedores continuam obrigados solidariamente pelo resto”.  3. Na hipótese, a condenação que deu origem à liquidação de sentença estabeleceu obrigação solidária passiva entre a União, o Banco do Brasil e Banco Central do Brasil. Não há litisconsórcio passivo necessário, pois não há exigência – pela lei ou pela natureza da obrigação – de que todos os coobrigados sejam demandados após a fase cognitiva. 4. O chamamento ao processo é espécie de intervenção de terceiros inaplicável às fases de liquidação e cumprimento de sentença. Tem por objetivo a declaração da responsabilidade dos demais coobrigados na sentença. Ou seja, é cabível apenas na fase de conhecimento. Além disso, facultada ao credor a opção de escolher de qual dos devedores solidários pretende cobrar a dívida, o chamamento ao processo iria de encontro a essa opção. Por consequência, não há que se falar em violação à tese firmada no REsp n.º 1.145.146/RS, sob o regime dos recursos repetitivos, que é inaplicável ao caso concreto (cumprimento de sentença). 5. O artigo 509 do CPC estabelece que a liquidação da sentença deve observar o rito do arbitramento, quando houver previsão no título executivo, convenção entre as partes ou a depender da natureza do objeto da liquidação. Por outro lado, a liquidação seguirá o rito comum quando houver a necessidade de alegar e provar fato novo. 6. A sentença e o acórdão proferidos na ação civil pública nº 94008514-1 foram omissos quanto à modalidade da liquidação a ser realizada. É possível, conforme o caso, a liquidação por arbitramento ou pelo procedimento comum. 7. O cerne da liquidação consiste apenas em apurar quais valores são devidos aos agravados, a partir da aplicação do índice de correção determinado na ação civil pública.  8. Recurso conhecido e não provido.” (ID 34911096)
+
+O embargante sustenta que houve omissão no acórdão. (ID 40824298). Alega que: 1) a competência absoluta é matéria de ordem pública, pois a dívida decorrente da cédula de crédito dural decorre de cessão à união, de modo que o acompanhamento do caso deve ocorrer por meio da Procuradoria Geral da Fazenda Nacional; 2) ausência de causa de pedir, diante do não pagamento das cédulas de crédito até a presente data; 3) manutenção do interessa da União, diante da inclusão dos créditos por meio do Programa Especial de Saneamento de Ativos – PESA; 3) ilegitimidade do Banco do Brasil para integrar o polo passivo da demanda.
+
+Ao final, requer o acolhimento dos embargos de declaração.
+
+Contrarrazões apresentadas (ID 41154321).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - Relator1. CONHECIMENTO
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+2. MÉRITO
+
+Cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual o juiz deveria se pronunciar, de ofício ou a requerimento, e para corrigir erro material (art. 1.022 do Código de Processo Civil – CPC).
+
+A norma processual deixa claro que os embargos de declaração não se destinam à obtenção de reexame da matéria analisada no julgado embargado. Sua finalidade é de aclarar ou integrar a decisão e não provocar nova manifestação de caráter substitutivo, modificativo ou infringente.
+
+O recurso não merece provimento, diante da inexistência de quaisquer das hipóteses supracitadas.
+
+Os fundamentos do acórdão abordaram todas as questões jurídicas suscitadas pelo embargante, nos termos da petição recursal (ID 38795769):
+
+“(...) O Código de Defesa do Consumidor (CDC) deve ser aplicado no presente feito. Embora o produtor rural não se encaixe no conceito de consumidor padrão (art. 2º, caput) em face do elemento teleológico da relação de consumo, a conclusão é diversa pela corrente denominada finalismo mitigado, adotada pelo Superior Tribunal de Justiça (STJ). Tal corrente defende justamente afastar a análise da destinação final do produto ou serviço para verificar, no caso concreto, se há vulnerabilidade (fática, jurídica ou técnica) da pessoa jurídica. Ademais, o conceito de consumidor por equiparação, constante no art. 29 do CDC, também afasta o exame do elemento teleológico - destinação final. A incidência do CDC, no que concerne à proteção contratual, particularmente com relação a serviços e produtos bancários, deve ser analisada à luz do referido conceito. A propósito, segue trecho do acórdão proferido nos embargos de declaração no REsp n. 1.319.232/DF, que legitimou o direito do agravado, em que o Superior Tribunal de Justiça confirma a aplicação do CDC: “Conforme destacado no paradigma da Colenda Quarta Turma (REsp 1166054/RN, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/04/2015, DJe 18/06/2015), é torrencial a jurisprudência desta Corte Superior aplicando o Código de Defesa do Consumidor nas hipóteses de contratos de Cédulas de Crédito Rural. Nesse sentido, é sabido que, em havendo mais de um autor da ofensa ao consumidor, todos responderão solidariamente pela reparação dos prejuízos decorrentes da violação de normas de consumo, como preceitua o parágrafo único do artigo 7º do Código de Defesa do Consumidor, verbis: Art. 7° Os direitos previstos neste código não excluem outros decorrentes de tratados ou convenções internacionais de que o Brasil seja signatário, da legislação interna ordinária, de regulamentos expedidos pelas autoridades administrativas competentes, bem como dos que derivem dos princípios gerais do direito, analogia, costumes e equidade. Parágrafo único. Tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo. Portanto, a solidariedade na condenação dos demandados decorreu da própria lei, não havendo falar em vício de extra petita. Ademais, a solidariedade passiva decorre do fato de a instituição financeira ter cumprido comunicado do Banco Central, que executava políticas públicas estabelecidas pela União. Assim, as três pessoas jurídicas participaram da violação dos direitos dos mutuários/consumidores, devendo, assim, responder solidariamente pelos prejuízos causados.” - grifou-se Assim, não há dúvidas quanto à aplicação do CDC nas hipóteses de contratos de cédulas de crédito rural, especialmente para a finalidade de inversão do ônus da prova. Quanto à alegação de que há litisconsórcio passivo necessário da União e do Banco Central, também não assiste razão ao agravante. O Superior Tribunal de Justiça e a doutrina têm conferido intepretação extensiva e ampla à solidariedade dos fornecedores justamente para conferir, no âmbito da responsabilidade civil, efetividade à reparação de danos do consumidor. Objetiva-se que todos os danos sofridos pelo consumidor sejam efetivamente ressarcidos. O delineamento da solidariedade passiva dos devedores deve ser interpretado em favor do credor (consumidor). Em outros termos, a solidariedade passiva foi instituída pelo CDC para facilitar o restabelecimento do direito do consumidor lesado. Nos casos de intervenção de terceiros, por existir regramento próprio para as relações de consumo, as disposições do Código de Processo Civil (arts. 119 a 132) devem ser afastadas ou, conforme a hipótese, ser interpretadas de modo sistemático e coerente (diálogo das fontes) com o microssistema da lei de proteção ao consumo. No âmbito do CDC, o chamamento ao processo foi previsto – e autorizado – para uma única e específica situação, qual seja, quando o fornecedor houver contratado seguro em caso de responsabilidade civil. Mesmo nesta hipótese, o CDC proibiu a integração do contraditório pelo Instituto de Resseguros do Brasil (art. 101, II). E, até mesmo nesta única situação permitida de chamamento ao processo, deve-se perquirir, no caso concreto, se o deferimento contraria os objetivos de presteza e entrega da prestação jurisdicional (AgInt no REsp 1863500/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021). Assim, em síntese, cabe ao consumidor escolher entre os devedores solidários qual ou quais irão figurar no polo passivo da ação. Posteriormente, aquele que efetivamente cumprir a obrigação poderá ajuizar ação regressiva contra os demais. Nessa linha, o STJ já decidiu que, nas ações de consumo, “a celeridade processual age em favor do consumidor, devendo o fornecedor exercer seu direito de regresso quanto aos demais devedores solidários por meio de ação autônoma” (REsp 1739718/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/12/2020, DJe 04/12/2020). No mesmo sentido, são os seguintes precedentes deste tribunal:  (...) Por essas razões, é inadequado o chamamento ao processo nessa fase processual. Por consequência, não há que se falar em violação à tese firmada no REsp n.º 1.145.146/RS, sob o regime dos recursos repetitivos, que é inaplicável ao caso concreto (cumprimento de sentença). Finalmente, não procede a alegação de que a liquidação de sentença deve seguir o rito comum. O artigo 509 do CPC estabelece que a liquidação da sentença deve observar o rito do arbitramento, quando houver previsão no título executivo, convenção entre as partes ou a depender da natureza do objeto da liquidação. Por outro lado, a liquidação seguirá o rito comum quando houver a necessidade de alegar e provar fato novo. Na hipótese, a sentença e o acórdão proferidos na ação civil pública nº 94008514-1 foram omissos quanto à modalidade da liquidação a ser realizada, sendo possível, conforme o caso, a liquidação por arbitramento ou pelo procedimento comum. Não há necessidade de comprovação de fato novo. O cerne da liquidação consiste apenas em apurar quais valores são devidos aos agravados, a partir da aplicação do índice de correção determinado na ação civil pública. Portanto, trata-se de hipótese em que a realização de prova pericial é suficiente.” – grifou-se
+
+Cumpre destacar que, apesar de a matéria do agravo ter sido integralmente debatida e refutada, o embargante acrescenta várias outras razões para a reforma do julgado, por meio inadequado, qual seja, os embargos de declaração.
+
+O embargante insiste na competência absoluta da Justiça Federal e na necessidade de intervenção da União no feito, mas incluiu fundamentos que não foram objeto de devolução, ato que implica indevida inovação recursal: 1) ausência de causa de pedir, diante do não pagamento das cédulas de crédito até a presente data; 2) manutenção do interesse da União, diante da inclusão dos créditos por meio do Programa Especial de Saneamento de Ativos – PESA; 3) ilegitimidade do Banco do Brasil para integrar o polo passivo da demanda.
+
+O magistrado não está obrigado a se manifestar sobre toda e qualquer tese levantada pelas partes, muito menos quando sequer foram objeto do recurso.
+
+De qualquer modo, basta que haja fundamentação suficiente sobre os pontos que possam realmente acarretar a alteração do julgamento. Ilustrativamente, registre-se o seguinte julgado do Superior Tribunal de Justiça:
+
+“PROCESSO CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO. INDENIZAÇÃO. IMPLANTAÇÃO DE USINA HIDRELÉTRICA - UHE GARIBALDI. SENTENÇA DE PROCEDÊNCIA DO PEDIDO. REFORMA PARCIAL. EXCLUSÃO DA PLANTAÇÃO DE CITRUS DA INDENIZAÇÃO. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CARACTERIZADA. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO A QUO. SÚMULAS N. 283 E 284/STF. INCLUSÃO DO POMAR DE CITRUS. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO E CONTRATO ESPECÍFICO. ÓBICES DAS SÚMULAS N; 5 E 7/STJ. DISSÍDIO NÃO CONHECIDO. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO OU OMISSÃO NO ACÓRDÃO. (...) III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material. IV - Quanto à alegada contradição, a que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS n. 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp n. 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017. V - Não há contradição entre as afirmações de que não há omissão relevante no julgado a caracterizar violação do art. 1.022 do CPC e o entendimento de que o acórdão não é obrigado a enfrentar minuciosamente todas as alegações aduzidas quando esteja suficientemente fundamentada a decisão. VI - Com efeito, conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016). (...) XI - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão. XII - Embargos de declaração rejeitados. (EDcl no REsp 1803277/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 11/04/2022, DJe 18/04/2022)”
+
+Por tais razões, não há omissão a ser declarada ou qualquer outro vício passível de correção por meio dos presentes embargos de declaração.
+
+Diante da evidente inexistência de omissão ou qualquer outro vício passível de correção, cumpre analisar a conduta processual das embargantes, quanto ao conteúdo manifestamente protelatório dos seus recursos.
+
+O CPC assim dispõe:
+
+“Art. 1.026. Os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso. (...) § 2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa. § 3º Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até dez por cento sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao depósito prévio do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que a recolherão ao final. § 4º Não serão admitidos novos embargos de declaração se os 2 (dois) anteriores houverem sido considerados protelatórios.” – grifou-se
+
+Claramente inexiste omissão ou contradição. Toda a matéria devolvida no agravo, principalmente no que concerne à impossibilidade de chamamento da União em processo de execução e à competência da Justiça Estadual para processar e julgar a liquidação de sentença e seu cumprimento.
+
+Todavia, incorreu em abuso do direito de recorrer ao alegar omissões manifestamente descabidas com relação a temas que, além de não terem sido objeto de recurso, são matérias que devem ser resolvidas pelo juízo de primeiro grau, sob pena de supressão da instância originária.
+
+Não bastasse isso, conforme simples leitura da petição recursal, inovou indevidamente ao acrescentar novas teses recursais visto que os embargos de declaração não se prestam ao reconhecimento da suposta ausência de causa de pedir, diante do não pagamento das cédulas de crédito ou da ilegitimidade do Banco do Brasil para integrar o polo passivo da demanda.
+
+A pretensão manifestamente infundada implica o retardamento injustificável da solução do processo e desvirtua a finalidade do recurso. Trata-se de conduta que vai de encontro ao disposto nos artigos 5º e 6º do CPC, o que justifica a aplicação da multa prevista no dispositivo legal supramencionado.
+
+Diante do exposto, condeno o embargante ao pagamento da multa prevista no art. 1.026, § 2º, c/c art. 85, § 2º, caput, do CPC, no patamar de 1% sobre o valor da causa.
+
+Fica o embargante advertido, nos termos do art. 1.026, §§ 3º e 4º, do CPC, de que ulteriores questionamentos sobre os mesmos temas poderão ensejar a majoração da multa aqui aplicada até o patamar de 10% sobre a base de cálculo aqui adotada, o que obstará, ainda, a oposição de novos embargos declaratórios.
+
+3. DISPOSITIVO
+
+CONHEÇO do recurso e REJEITO os embargos de declaração.
+
+Condeno o embargante ao pagamento de multa de 1% sobre o valor da causa.
+
+É como voto.
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal Com o relatorO Senhor Desembargador ESDRAS NEVES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
