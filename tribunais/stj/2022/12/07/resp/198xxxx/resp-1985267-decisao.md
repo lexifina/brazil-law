@@ -1,0 +1,50 @@
+DECISÃO
+ELVIS GOMES DE FARIA ALVESinterpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado de Minas Geraisnos Embargos de Declaração na Apelação n. 1.0145.19.012129-6/001.
+O recorrente aponta violação dos arts. 59,capute II, do Código Penal, e 617 do Código de Processo Penal, por considerar inidônea a motivação exarada para valorar negativamente as consequências do delito e pela ocorrência dereformatio in pejus, uma vez que o Tribunala quo, a despeito de haver afastado a análise desfavorável de três circunstâncias judiciais, manteve o aumento de pena fixado pelo Juízo singular.
+Pugna pelo provimento do recurso parareduzir a pena imposta.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento.
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+O recorrente foi condenado, em primeira instância, à pena de 7 anos de reclusão, em regime inicial fechado, e 40 dias-multa, como incurso no art. 158,caput, do Código Penal. A reprimenda foi assim individualizada (fls. 202-203, grifei):
+16.1. Culpabilidade: considero-a anormal para o caso tratado nos autos, reprovável a conduta praticada em face da consciência da ilicitude e da exigibilidade de comportamento diverso daquele adotado pelo condenado;
+16.2. Antecedentes criminais: maculados conforme CAC - f. 45/50vº, havendo três condenações transitadas em julgado a serem consideradas para fins de reincidência, bem como seis outras, inclusive por delitos desta mesma natureza, a serem consagradas nesta fase;
+16.3. Conduta social: que ser tida em seu desfavor, ante declarações dos Milicianos de ser conhecida em senda policial por diversos delitos;
+16.4. Personalidade do agente: exteriorizada nos autos, no bojo dos depoimentos dos Militares, que abonam ser indivíduo extremamente irritadiço e agressivo, mesmo na presença das autoridades policiais;
+16.5. Motivos: que lhes são desfavoráveis, porque não encontro qualquer embasamento para que o fato fosse praticado como descrito nos autos;
+16.6. Circunstâncias: que pesam em seu desfavor, ante utilização de pedra para acentuar temor na vítima;
+16.7. Consequências do crime: que foram negativas, devido ao prejuízo financeiro da vítima, que não foi restituída até então;
+16.8. Comportamento da vítima: que nenhuma influência teve para aparecimento do fato no mundo jurídico.
+Fixo pena em 06 (seis) anos de reclusão e 30 (trinta) dias-multa. Ausentes atenuantes. Pela agravante da reincidência - múltipla -, a agravo em 01 (um) ano de reclusão e 10 (dez) dias-multa, encontrando 07 (sete) anos de reclusão no regime fechado e 40 (quarenta) dias-multa na razão unitária mínima vigente na era dos fatos, que sofrerá reajuste conforme tabela da CGJ quando de sua satisfação. Minguando causas gerais ou especiais de diminuição ou aumento, a concretizo.
+Irresignada, a defesa recorreu. O Tribunala quodeu parcial provimento ao apelo, sob a seguinte motivação (fls. 277-280, destaquei):
+O d. Juiz primevo fixou a pena-base do delito em 06 (seis) anos dereclusão e 30 (trinta) dias-multa em razão da análise negativa das circunstâncias judiciais da culpabilidade, antecedentes, conduta social e personalidade do agente, motivos e consequências do crime.
+Em relação à culpabilidade, entendo que se mostrou normal ao tipo penal em questão, não havendo qualquer particularidade no caso concreto que ensejasse um maior grau de reprovabilidade além daquele já analisado pelo legislador quando da tipificação do crime.
+Quanto aos antecedentes, conforme já mencionado, o acusado possui 09 (nove) sentenças condenatórias transitadas em julgado em data anterior ao delito em questão, sendo que seis delas foram utilizadas para configurar seus maus antecedentes e três sua reincidência, não havendo falar em bis in idem, tendo em vista a utilização de condenações diversas em cada fase da dosimetria da pena.
+No que tange à conduta social e personalidade do acusado, ressalvo que inquéritos e processos em andamento em desfavor do agente não podem macular tais circunstâncias judiciais, sob pena de violar o princípio constitucional da presunção de inocência, nos termos da Súmula nº 444, do Superior Tribunal de Justiça, a saber:
+ ..
+Ademais, no caso em tela, o d. Juiz utilizou todas as condenações transitadas em julgado do acusado para considerar seus maus antecedentes e sua reincidência, não podendo tal fato ensejar, também a análise desfavorável de sua conduta social, por se tratar de bis in idem, motivo pelo qual, in casu, a circunstância judicial da conduta social do agente deve ser aferida positivamente.
+Noutro giro, quanto à personalidade, o d. Juiz a negativou diante da prova oral colhida, que demonstrou que o acusado é irritadiço, exaltado, desobediente e agressivo, inclusive perante os policiaismilitares, fato que, a meu ver, é apto para desabonar sua personalidade.
+Quanto aos motivos, é certo que, in casu, se mostram inerentes ao delito em análise, já que não restou evidenciada nos autos nenhuma motivação ou implicação extraordinária, que extrapolem aquelas comuns ao tipo.
+Por fim, em relação às consequências, tendo em vista que a vítima não teve a quantia que entregou ao acusado restituída, entendo que agiu com acerto o d. Magistrado ao aferi-las negativamente.
+Sendo assim, presentes três circunstâncias judiciais negativas ao apelante (antecedentes, personalidade do agente e consequências do crime), ressalvando que nessa etapa foram utilizadas seis condenações do apelante para configurar seus maus antecedentes, mantenho a pena-base estabelecida pelo d. Juiz primevo, qual seja, 06 (seis) anos de reclusão, por encontrar-se justa e razoável, de acordo com o princípio da individualização da pena.
+Na segunda fase, foi reconhecida, tão somente, a agravante da reincidência, sendo que três condenações do apelante foram analisadas nessa etapa, motivo pelo qual mantenho o aumento da pena para 07 (sete) anos de reclusão.
+Ausentes causas de aumento ou diminuição da pena, fica a reprimenda concretizada, ao final, em 07 (sete) anos de reclusão.
+Contudo, em relação à pena de multa, em respeito aos princípios da proporcionalidade e correlação com a pena corporal, a reduzo para 15 (quinze) dias-multa, em seu valor unitário mínimo.
+Diante da reincidência múltipla e dos maus antecedentes do apelante, que possui nove condenações transitadas em julgado em seu desfavor, mantenho o regime fechado para o cumprimento da pena, nos termos do art. 33, § 2º, "a" e § 3º, do CP, por ser ele o mais socialmente adequado, não havendo falar em abrandamento para outro menos gravoso.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Inicialmente, observo assistir razão à defesa quanto à apontada reformatio in pejus, uma vez que o acórdão combatidoafastou a valoração negativa da culpabilidade, da conduta social do agente e dos motivos do crime, mas manteve o patamar de aumento fixado pelo Juízo singular.
+Todavia,não poderia o Tribunal de origem, sem recurso da acusação que abordasse especificamente esse tema, atribuir para cada circunstância judicial remanescente um montante diferenciado do que foi estabelecido pelo Magistrado de primeiro grau.
+Portanto, diante da ocorrência de reformatio in pejus, entendo que deve ser reduzida proporcionalmente a pena-base aplicada ao recorrente.
+Nesse sentido:
+ ..
+1. Ofende o princípio do ne reformatio in pejus o afastamento, pela Corte de origem, de circunstância judicial valorada negativamente em sentença sem a respectiva redução na reprimenda.
+2. Não houve acréscimo de fundamentação pelo Tribunal estadual na análise da primeira fase da dosimetria. Com efeito, trata-se de hipótese em que o Magistrado de primeira instância reconheceu a desfavorabilidade de duas vetoriais previstas no art. 59 do Código Penal e o Juízo a quo, ao afastar uma delas, manteve o quantum da pena-base.
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 1.741.481/AM, Rel. Ministro Rogerio Schietti, 6ª T., DJe 25/4/2022, grifei)
+Da mesma forma, vejo que os fundamentos exarados para considerar desfavoráveis as consequências do delito- notadamente, a ausência de ressarcimento do prejuízo suportado pela vítima-não extrapolam os dados inerentes ao tipo penal e, por conseguinte, não justificam acréscimo na pena-base.
+Assim, deve ser afastada a valoração negativa das consequências do delito e corrigida areformatio in pejusconstatada. Passo à nova dosimetria da pena.
+Em primeira instância, foram valoradas negativamente a culpabilidade,os antecedentes, a conduta social e a personalidadedo réu,os motivos, as circunstâncias e as consequências do crime, e fixada a pena-base em 6 anos de reclusão, o que corresponde a um acréscimo de 3 meses e 12 dias para cada vetorial desfavorável.
+Mantidas, apenas, as circunstâncias dos antecedentes criminas e da personalidade do réu, a pena-base é reduzida para 4 anos, 6 meses e 24 dias de reclusão.
+Na segunda etapa, a reprimenda foi acrescida em 1/6 pela multirreincidência, o que totaliza 5 anos, 3 meses e 28 dias de reclusão, que torno definitiva nesse patamar, pela ausência de causas de aumento ou de diminuição de pena.
+Diante da reincidência e dos maus antecedentes do réu, fica mantido o regime inicial fechado, consoante art. 33, §§ 2º, "b", e 3º, do Código Penal.
+À vista do exposto,dou provimento ao recurso para afastar a valoração negativa das consequências do delito e, diante da reformatio in pejusdetectada, proceder à readequação da pena imposta ao réu, de modo a torná-la definitiva em5 anos, 3 meses e 28 dias de reclusão, mantido o regime inicial fechado.
+Publique-se e intimem-se.
