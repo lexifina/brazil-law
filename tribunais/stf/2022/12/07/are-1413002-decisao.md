@@ -1,0 +1,47 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO PARA ADMISSÃO NO CURSO DE FORMAÇÃO DE SOLDADOS PARA INGRESSO NO QUADRO DE PRAÇAS DA POLÍCIA MILITAR DO ESTADO DE SANTA CATARINA. EDITAL N. 042/CGCP/2019. CANDIDATO CONSIDERADO INAPTO NA AVALIAÇÃO DE SAÚDE. JUNTA MÉDICA OFICIAL QUE SE LIMITOU A ATESTAR A EXISTÊNCIA DE ALTERAÇÕES NOS EXAMES APRESENTADOS. PERITO JUDICIAL QUE NÃO SÓ DECLAROU A CAPACIDADE FÍSICA DO REQUERENTE COMO TAMBÉM AFIRMOU QUE O EXERCÍCIO DO CARGO SERIA BENÉFICO PARA O CONTROLE DA MOLÉSTIA (HIPERTENSÃO ARTERIAL ESTÁGIO 1). ATENDIMENTO DOS REQUISITOS LEGAIS E EDITALÍCIOS PARA A ETAPA COMPROVADO. SENTENÇA DE PROCEDÊNCIA MANTIDA. PRECEDENTES. RECURSO VOLUNTÁRIO E REMESSA OFICIAL CONHECIDOS E DESPROVIDOS.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º, 5º e 37, I e II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 2º e 37, I e II da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver-se dado exclusivamente com base na sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se que o(s) art(s). 5º da Constituição, apontado(s) como violado(s), carece(m) do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da(s) referida(s) norma(s). Outrossim, a matéria apresentada nos embargos de declaração não supre o requisito do prequestionamento. Incidem na espécie as Súmulas 282 e 356 desta Corte. Nesse sentido, destaca-se:
+
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli (Presidente), DJe de 18/12/19).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PRETENSÃO DE FILIAÇÃO À ENTIDADE SINDICAL PATRONAL. EXISTÊNCIA DE ESTABELECIMENTO EMPRESARIAL NA BASE TERRITORIAL DO SINDICATO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.210.606/SP - AgR, Primeira Turma; Rel.  Min. Luiz Fux; DJe de 13/09/19).
+
+    Além disso, verifica-se que a parte recorrente não indicou nas razões do recurso extraordinário em que consiste a suposta violação do permissivo constitucional apontado, limitando-se a sustentar que houve ofensa a dispositivo constitucional, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário [ ] quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO. LEI 4.051/1986 DO ESTADO DO PIAUÍ. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. INTERPOSIÇÃO DE APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes, o que é vedado pela Súmula 280/STF. Precedentes. III - Apelo extremo com base na alínea c do inciso III do art. 102 da Constituição Federal. É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)” (RE nº 1.183.212/PI-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 13/5/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE PENITENCIÁRIO ESTADUAL. PERCEPÇÃO DE ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. LEI 6.772/2006 DO ESTADO DE ALAGOAS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 896.468/AL-AgR, Primeira Turma, Rel. Luiz Fux, DJe de 20/5/19).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 7 de dezembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
