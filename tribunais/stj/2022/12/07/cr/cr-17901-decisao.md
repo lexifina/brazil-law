@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Criminal de Cascais, Juiz 1) solicita que se proceda à notificação de CICERO RIBEIRO MALAQUIAS para tonar ciência " ..  de todo o conteúdo das guias para pagamento da multa e custas penais e das custas processuais" relativas aos autos do processo 479/06>CSC(fl. 9).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 85), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
