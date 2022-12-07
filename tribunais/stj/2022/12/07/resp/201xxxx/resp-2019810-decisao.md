@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULOcom fundamento naalínea"a" do permissivo constitucionalcontra acórdãodo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execuçãon. 1.0231.16.025627-8/001.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 170/174:
+Trata-se de recurso especial interposto pelo Ministério Público do Estado deSão Paulo, com fundamento no art. 105-III-a da Constituição, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução penal ministerial (Agravo de Execução Penal nº 0010031-69.2021.8.26.0996).
+Consta nos autos que o Juízo de Direito da Execução Criminal da Comarca dePresidente Prudente/SP - DEECRIM UR5 deferiu o pedido de progressão de regime para o semiaberto feito pela defesa do recorrido.
+Contra essa decisão, o Ministério Público interpôs o recurso de agravo em execução perante o Tribunal de Justiça de São Paulo, que o desproveu em acórdão assime ementado:
+AGRAVO. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. Deferimento. Insurgência do Ministério Público. Longevidade da reprimenda, reincidência e gravidade dos crimes praticados que não são argumentos idôneos para a confecção de exame criminológico, tampouco para impedir a progressão prisional. Precedentes do Colendo Superior Tribunal de Justiça. Atestado de bom comportamento carcerário e inexistência de registro de falta disciplinar de qualquer natureza no curso da execução. Decisão mantida. RECURSO DESPROVIDO. (fl.116)
+Inconformado, o Ministério Público interpôs recurso especial, alegando violação ao art. 112 da Lei nº 7.210/1984, sob o fundamento de que "A exegese que sustenta não ser mais possível ao magistrado determinar a elaboração do exame criminológico, para fins de progressão, na verdade, está proibindo-o de pesquisar o mérito do condenado antes de decidir sobre a concessão do benefício, o que é um absurdo, frente ao aludido princípio constitucional da individualização da pena. Realizar um processo individualizador da pena sem pesquisar satisfatoriamente a resposta do preso ao tratamento penitenciário é negar-se a própria existência dessa individualização e o sistema adotado no Brasil, isto é, o de obtenção de benefícios com base no merecimento do executado. Aliás, nos termos da Exposição de Motivos da LEP, o mérito é "o critério que comanda a execução progressiva" (item 29)." (fls. 145/146)
+Sustenta que o recorrido foi condenado a uma pena total de 30 anos, 3 meses e6 dias de reclusão, em regime fechado, cujo término de cumprimento está previsto para ocorrer em 21/08/2046, pela prática de crimes de roubos majorados. Tais circunstâncias são aptas a demonstrar um grave desvio de personalidade do condenado, que recomenda a realização do exame criminológico, para se aferir com base em elementos mais consistentes que o apenado está apto e merece ingressar em regime mais brando.
+Pede o conhecimento e provimento do recurso especial para que seja reformado o acórdão recorrido, a fim de que seja determinada a realização do exame criminológico no recorrido (fls. 129/152).
+Sem contrarrazões, o recurso especial foi admitido na origem.
+OParquetopinou pelo não conhecimento dorecurso especial (e-STJ fls. 170/174).
+É o relatório.
+Decido.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984pela Lei n. 10.792/2003suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26, do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos,o Juízo das xecuçõespromoveu o ora agravado ao regime semiaberto e autorizou o trabalho externo, dispensando a realização de exame criminológico, com a seguinte fundamentação (e-STJ fls. 88/89):
+Constata-se, em análise dos autos, que o reeducando descontou parcela superior ao lapso temporal legalmente exigido e possui bom comportamento carcerário, portanto, satisfaz os requisitos objetivo e subjetivo para pretensão.
+Não há notícia quanto à prática de falta disciplinar recente, o que demonstra que vem assimilando satisfatoriamente a terapêutica penal aplicada.
+De outra banda, sem argumentos concretos autorizantes de um Juízo objetivo de necessidade, não se sustenta o pedido de realização de exame criminológico, eis que não bastam alegações subjetivas amparadas somente na gravidade abstrata do delito e no tempo de prisão a cumprir.
+Deste modo, presentes os requisitos e bem demonstradas as condiçõespessoais, o pedido deve prosperar.
+OTribunal de origem, por sua vez, negou provimento ao agravo do Ministério Público, com a seguinte fundamentação(e-STJ fls. 117/121):
+Com efeito, embora a Lei nº 10.792/03 tenha dispensado o parecer técnico como requisito à progressão, não o vetou, sendo facultado ao Juiz requisitar a perícia desde que fundamentada a decisão nos casos em que entenda necessário para a verificação dopressuposto de ordem subjetiva; nesse sentido, a Súmula nº 439, doColendo Superior Tribunal de Justiça.
+Ocorre que a gravidade abstrata dos crimes pelos quais o recorrido foi condenado, a reincidência e a longa pena a cumprir não são argumentos idôneos para a confecção de exame criminológico, tampouco para impedir a progressão de regime carcerário.
+ ..
+E inexiste, no caso em tela, motivo concreto que justifique a imprescindibilidade da realização de exame criminológico.
+Em verdade, ao reverso do que tenta fazer crer o recorrente, os elementos constantes do caderno processual demonstram o preenchimento do requisito subjetivo para a benesse concedida, pois o agravado possui atestado de bom comportamento carcerário emitido pelo Diretor do estabelecimento prisional (fls. 80), não havendo anotação de falta disciplinar de qualquer natureza desde que iniciada a execução, em 15 de maio de 2016 (fls. 81 e 84).
+Não passa despercebida, também, sua participação em cursos profissionalizantes (fls. 84); demonstrando, assim, um juízo de prognose positiva no cárcere.
+Em suma, a progressão de regime foi deferida com acerto e deve ser mantida.
+Nessas circunstâncias,não havendo fundamento que demonstre, efetivamente, a necessidade de realização do exame criminológico, devemser mantidosa decisão de primeiro grau e o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que afastaram a sua exigência.
+Aliás, nesse mesmo sentido foi a manifestação do Ministério Público Federal, a saber (e-STJ fl. 173):
+De acordo com o entendimento uníssono desse Superior Tribunal de Justiça, a quantidade de pena a cumprir e a gravidade abstrata dos crimes praticados não justificam diferenciado tratamento à progressão prisional, mormente quando o apenado tem bom comportamento carcerário. Além disso, fatores relacionados ao crime praticado devem influir na fixação da pena, mas não na avaliação de concessão de benefícios na execução penal.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO DE LONGA PENA A CUMPRIR E GRAVIDADE ABSTRATA. INIDONEIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora a alteração legislativa produzida pela Lei 10.792/2003, no art. 112 da Lei 7.210/84 (Lei de Execução Penal - LEP), tenha suprimido a referência expressa ao exame criminológico como requisito à progressão de regime, esta Corte consolidou entendimento de que o magistrado pode, de forma fundamentada, exigir a sua realização, nos termos da Súmula 439 do STJ.
+2. A simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Aplica-se ao caso, pois, o disposto na Súmula n. 83 do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
