@@ -1,0 +1,6 @@
+Art. 14-B. Vinculada ao Gabinete do Procurador-Geral do Estado, atuará, de forma permanente, a Comissão de Acolhimento das Mulheres, constituída por equipe multidisciplinar encarregada de tornar a Procuradoria-Geral do Estado um ambiente funcional mais seguro e inclusivo para seus servidores e colaboradores, com reflexo na qualidade do trabalho, atuando especialmente no(a):
+I - promoção de ações para a conscientização da importância do combate à violência contra as mulheres;
+II - orientação dos servidores e colaboradores da Procuradoria-Geral do Estado sobre como atuar diante de casos de violência contra as mulheres, inclusive no ambiente de trabalho;
+III - prevenção da violência ou do assédio contra as mulheres no local de trabalho, inclusive moral;
+IV - acolhimento as mulheres que trabalham na Procuradoria-Geral do Estado que estejam envolvidas em qualquer situação de violência, inclusive em seus lares, dando o devido suporte e orientação, inclusive psicológico;
+V - busca, por todos os meios, de solução dos casos constatados de violência contra as mulheres no âmbito do trabalho, dando ciência às autoridades competentes da Procuradoria-Geral do Estado e indicando os necessários encaminhamentos para o caso, inclusive para fins de eventual responsabilização funcional.
