@@ -1,0 +1,1 @@
+Art. 28-C. Os compromissos de compra e venda firmados pela extinta RFFSA tendo por objeto imóveis não operacionais valerão como título para o registro da propriedade do bem adquirido, quando acompanhados de termo de quitação expedido pela Secretaria do Patrimônio da União.

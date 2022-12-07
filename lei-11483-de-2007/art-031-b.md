@@ -1,0 +1,7 @@
+Art. 31-B. A União disponibilizará os recursos orçamentários e financeiros necessários ao pagamento dos encargos de responsabilidade do Fundo Contingente da Extinta Rede Ferroviária Federal S.A. (FC) por intermédio dos seguintes órgãos:
+I - Ministério do Planejamento, Desenvolvimento e Gestão, quanto às despesas decorrentes de eventuais levantamentos de gravames judiciais existentes em 22 de janeiro de 2007 incidentes sobre bens oriundos da extinta RFFSA, imprescindíveis à administração pública federal;
+II - Ministério dos Transportes, Portos e Aviação Civil, quanto às despesas decorrentes de condenações judiciais que imponham ônus à Valec, na condição de sucessora trabalhista, em observância ao disposto no inciso I do caput do art. 17 desta Lei, referentes aos passivos originados até 22 de janeiro de 2007; e
+III - Secretaria do Tesouro Nacional do Ministério da Fazenda, quanto:
+a) às participações dos acionistas minoritários da extinta RFFSA, na forma prevista no caput do art. 3º desta Lei; e
+b) às despesas referentes à regularização, à administração, à avaliação e à venda dos imóveis não operacionais da extinta RFFSA, ocorridas e não pagas à Caixa Econômica Federal na qualidade de agente operador do FC.
+Parágrafo único. Os pagamentos das despesas decorrentes de obrigações previstas no inciso II do caput deste artigo ocorrerão exclusivamente por meio de solicitação da Valec dirigida ao Ministério dos Transportes, Portos e Aviação Civil, acompanhada da respectiva decisão judicial.
