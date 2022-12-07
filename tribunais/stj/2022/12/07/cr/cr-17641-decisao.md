@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa - Juízo Local de Pequena Criminalidade de Lisboa - Juiz 2) solicita a notificação pessoal de MARCOS AUGUSTO MUNIZ MARQUES SEGUNDO, a fim de que tome ciência da sentença condenatória, relativa ao Processo n. 1257/21.9/9LSB, para que possa exercer seu direito de recurso, no prazo de 30 (trinta) dias, a contar da presente notificação (fl. 5).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 166), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
