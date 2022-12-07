@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de ALEX GIROTTI RODRIGUESem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2278338-04.2022.8.26.0000).
+Consta dos autos ter o Juízo de primeiro grau postergado a análise do peito de progressão de regime para após a realização de exame criminológico.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi indeferida liminarmente, nos termos da seguinte ementa(e-STJ fls. 41):
+HABEAS CORPUS ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, VEZ QUE INGRESSOU COM PEDIDO DE PROGRESSÃO DE REGIME PRISIONAL SEMIABERTO, PORÉM O MAGISTRADO DETERMINOU A REALIZAÇÃO DE AVALIAÇÃO PSIQUIÁTRICA ANTES DE SUA APRECIAÇÃO, O QUAL PRETENDE VER AFASTADO.CASO EM QUE A IMPETRAÇÃO NÃO ESTÁ INSTRUÍDA COM AS PEÇAS NECESSÁRIAS A SUA APRECIAÇÃO.
+Ordem indeferida liminarmente.
+No presente writ, sustenta a defesa que "o caso concreto não apresenta qualquer evidência da necessidade do exame psiquiátrico, a não ser questões já analisadas no juízo de conhecimento, que descabe a discussão neste momento.Por seu turno, condutas anteriores não podem servir como parâmetro para a obtenção de direitos, pois, deve ser analisado se, no momento, após a situação prisional atual, fora praticada qualquer conduta desabonadora" (e-STJ fl. 10).
+Busca, inclusive liminarmente, "seja concedida, liminarmente, a presente ordem de habeas corpus, a fim de que seja cassada a r.decisão proferida pela autoridade coatora que determinou a realização de avaliação psiquiátrica, e seja determinada a análise e apreciação por aquele R.Juízo a quo do PEDIDO DE PROGRESSÃO DE REGIME PRISIONAL para o REGIME SEMIABERTO, com base nos requisitos legais objetivo e subjetivo previstos no artigo 112 da LEP, bem como no exame criminológico já juntado aos autos" (e-STJ fl. 15).
+É o relatório.
+Decido.
+A despeito do esforço da diligente defesa, não há como dar curso à impetração, tendo em vista que a tese formulada não foi examinada pelo Tribunal de origem no acórdão impugnado.
+Assim, ausente manifestação do segundo grau, o Superior Tribunal de Justiça está impedido de enfrentar as alegações formuladas, sob pena de incorrer em indevida supressão de instância.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4ª ed. rev. ampl. e atual. Salvador: JusPodium, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência do Superior Tribunal de Justiça para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos dos arts. 105, I, c, e II, a, da Constituição Federal, bem como do art. 13, I, alínea b, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido, guardadas as devidas particularidades:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA.INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS.ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA.ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..  (HC 387.938/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/3/2017, DJe 23/3/2017.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
