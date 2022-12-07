@@ -1,0 +1,3 @@
+DECISÃO
+Diante da notícia veiculada pelo Ministério Público Federal, às fls. 1.041-1.042, de que foi proferida "sentença condenatória, em 25/11/2022, impondo ao recorrente a pena de 09 (nove) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, a ser cumprida em regime inicial fechado, e ao pagamento de 24 (vinte e quatro) dias-multa, pela prática dos crimes previstos no art. 158, caput e § 1º, do CP e no art. 1º, caput e § 2º, inciso I, da Lei nº 9.613/98, combinado com o art. 61, inciso II, alínea h, na forma do art. 69 do CP", fica sem objeto este writ, no qual era alegado excesso de prazo para formação de culpa. Assim, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este habeas corpus.
+Publique-se e intimem-se.
