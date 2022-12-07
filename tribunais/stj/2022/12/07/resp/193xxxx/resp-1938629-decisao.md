@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Mato Grossocom fundamento na alínea a do permissivo constitucionalcontra acórdão proferido pelo Tribunal de Justiça daquele Estado.
+Colhe-se dos autos que o réu, ora recorrido, teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 33, caput, c/c o art. 40, V, ambos da Lei n.11.343/2006.
+O colegiado local concedeu a ordem em habeas corpus para reconhecer o excesso de prazo na formação da culpa e substituir a custódia cautelar por medidas alternativas à prisão.
+Nesta recurso, o recorrente aponta que o acórdão violou os arts. 318 e 648, II, do Código de Processo Penal.
+Requer o provimento do recurso para afastar a fundamentação relativa ao excesso de prazo e cassar o acórdão, com restabelecimento da prisão domiciliar outrora deferida pela Corte a quo em favor do recorrido.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Na espécie, ao reconhecer o excesso de prazo na formação da culpa, apresentou o Tribunal de Justiça estes fundamentos (e-STJ fls. 459/471):
+O ponto modal do presente feito está consubstanciado nos autos processuais terem ficado paralisado por aproximadamente 04 (quatro) meses, desde 16 de julho de 2020, instante em que não houve a audiência de instrução e julgamento, por ausência de intimação do paciente até a data da impetração do writ, pois o magistrado somente designou nova audiência quando prestou as informações a esta Egrégia Corte de Justiça.
+Entretanto, mesmo que não tenha havido a suspensão dos prazos processuais em relação aos réus presos, ao paciente foi concedida a ordem no habeas corpus n.
+1013198-12.2020.8.11.0000, para determinar a prisão domiciliar do beneficiário. Portanto, atendendo a Recomendação n. 62/2020 do CNJ.
+Por outro lado, emerge dos autos que o paciente informou o endereço na Comarca de Cuiabá, sendo necessário a expedição de carta precatória para a intimação do mesmo quando a audiência de instrução e julgamento.
+Neste contexto, para caracterizar o constrangimento ilegal, o alegado excesso de prazo deve ser sopesado à vista do caso concreto, e não apenas pela somatória dos prazos previstos em lei para a realização dos atos processuais, compatibilizando o exame da coação com o princípio da razoabilidade.
+No caso vertente, a segregação do paciente ocorreu há, aproximadamente, 08 (oito) meses, ou seja 240 (duzentos e quarenta) dias, não se afigurando excessiva, haja vista que a Lei de Drogas prevê prazo dilatado para a conclusão da instrução processual. Contudo, a instrução processual sequer iniciou, eis que novamente o beneficiário não foi intimado da audiência de instrução e julgamento, conforme a certidão id. 70853950.
+Por outro lado, não se deve esquecer que esta Egrégia Corte de Justiça, em julgamento em julho de 2020, os autos do habeas corpus n. 1013198-12.2020.8.11.0000, concedeu a ordem, para determinar, em caráter excepcional e temporária, a prisão domiciliar , cumulando-a com a imposição de medidas cautelares, gerando dificuldade no Juízo singular, eis que a audiência de instrução estava agendada para 16 de julho de 2020, sendo que após esta data, diante da pandemia da COVID-19, não houve a designação de nova audiência, até a solicitação das informações para este writ, restando designada para o dia 16 de dezembro de 2020, às 13h30min, que não será realizada por ausência de intimação do paciente para o ato processual.
+Assim, a ação não apresenta nenhuma complexidade (um denunciado por tráfico de drogas) e inexistiu produção de qualquer ato processual durante 04 (quatro) meses.
+O constrangimento ilegal, por excesso de prazo para encerramento da instrução processual, mostra-se caracterizado.
+Nesse contexto, entendo que, para infirmar as razões adotadas pela Corte de origem,de que ficou caracterizado excesso de prazo para o término da instrução, e acolher a irresignação do recorrente, para afastá-lo, seria necessário revolvimento de matéria fática, providênciainviável diante do disposto no enunciado7 da Súmula dessa Corte Superior.
+Ainda que assim não fosse, conforme consignado no acórdão, o réu ficou preso por 8 meses sem que a instrução processual sequer tivesse se iniciado, e o processo ficou paralisado por 4 meses sem a produção de nenhum ato. Ademais, trata-se de feito sem complexidade - apenas um réu. Desse modo, na minha compreensão, o excesso de prazo ficou devidamente demonstrado, não se verificando violação aos apontados dispositivos legais.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
