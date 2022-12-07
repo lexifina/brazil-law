@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de tutela provisória requerida pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL visando atribuir efeito suspensivo ao recurso especial aviado em oposição a acórdão do Tribunal de Justiça daquela unidade federativa no HC n. 5004466-73.2022.8.21.7000.
+Consta que, no bojo da denominada "Operação HIPO", o requerido foi preso preventivamente e posteriormente denunciado pela prática, em tese, dos crimes do art. 2º, caput, da Lei n. 12.850/2013 (organização criminosa); do art. 272, § 1º-A, do Código Penal (falsificação, corrupção e adulteração de produtos alimentícios, por 3 vezes); e do artigo 7º, inciso VII (2 vezes) e inciso IX (3 vezes), da Lei n. 8.137/1990 (crimes contra as relações de consumo), na forma do artigo 69do Código Penal, "em virtude da investigação instaurada para apurar a existência de abate clandestino de cavalos, com posterior trituração da carne para venda a estabelecimentos comerciais que utilizam a carne moída como ingrediente" (e-STJ fl. 63).
+O Tribunal de origem concedeu parcialmente a ordem de habeas corpus, para substituir a prisão preventiva por medidas cautelares diversas.
+Nesta oportunidade, sustenta o Ministério Público a presença dos requisitos autorizadores do art. 312 do Código de Processo Penal, em especial pela necessidade de acautelar a ordem pública e pela conveniência da instrução criminal.
+Assere a gravidade concreta e a necessidade de cessar as atividades da organização criminosa, destacando "que o paciente EDUARDO MEZZOMO, proprietário de chácara, junto com seu pai, RENY MEZZOMO, coordenava a compra dos cavalos, realizava a logística de transporte dos animais até sua propriedade rural, os abatia, desossava, beneficiava-lhes a carne extraída e enterrava as carcaças em valas abertas em sua própria propriedade rural, tudo de forma clandestina. Depois, fornecia o produto a ALEXANDRE e TEREZINHA GEDOZ, que o distribuíam a vários estabelecimentos da região, que o colocavam à venda ao público, como se de um produto legal e saudável se tratasse" (e-STJ fl. 7).
+Alega que a função do acusado era relevante e não poderia ser equiparada à conduta do corréu, que fora solto por decisão do Juiz de primeiro grau.
+Diante dessas considerações, requer "a concessão de efeito suspensivo ativo ao Recurso Especial, cassando-se a decisão que substituiu a prisão preventiva do paciente pelas medidas cautelares constantes do artigo 319 do Código de Processo Penal e, consequentemente, mantendo-se o réu segregado" (e-STJ fl. 14).
+É o relatório.
+Decido.
+Em 9 de novembro de 2022, o REsp n. 2.014.898/RS não mereceu conhecimento, tendo em vista a incidência do óbice previsto no enunciado n. 7 da Súmula desta Casa.
+Nada mais há, portanto, a ser aqui apreciado, tendo em vista que buscava a presente petição a atribuição de efeito suspensivo ativo ao referido recurso especial.
+Ante o exposto, julgo prejudicado o pedido.
+Publique-se. Intimem-se.
