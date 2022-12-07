@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  por  Agência Nacional de Transportes Terrestres - ANTT ,  com  fundamento  no  art.  105,  III,  a,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  Regional  da  4ª  Região  , assim  ementado  (fl.  35):
+AGRAVO  DE  INSTRUMENTO.  EXECUÇÃO  FISCAL.  RENAJUD.  RESTRIÇÃO  DE  CIRCULAÇÃO.
+Não  cabe  a  anotação  no  sistema  RENAJUD  de  restrição  à  circulação  de  veículo  quando  não  houver  justificativa  para  tanto,  como  no  caso  em  que  sequer  há  penhora  sobre  o  veículo.
+Opostos  embargos  declaratórios,  foram  rejeitados  (fls.  53/54).
+A  parte  recorrente  aponta  violação  aos  arts .  97,  839,  845,  1.022  do  CPC,  e  7  º  8,º  da  LEF.  Sustenta,  em  resumo,  que:  (I)  apesar  dos  embargos  de  declaração  opostos,  o  Tribunal  de  origem  manteve-se  omisso  sobre  as  questões  suscitadas,  a  saber  de  que  "  o  se  pronunciando  sobre  a  efetiva  incidência  dos  arts.  797,  839  e  845  do  CPC;  7º  e  10  da  LEF,  base  normativa  essa  que  entende  realizada  a  penhora  pela  apreensão  e  depósito  do  bem,  onde  quer  que  se  encontre,  e  que  permite  a  efetivação  do  direito  à  penhora  sobre  o  patrimônio  do  devedor  (veículo)"( fl.  64);  (II)  "mostra-se  plenamente  razoável  a  restrição  total  sobre  o  veículo  automotor  registrado  em  nome  do  devedor,  ainda  que  o  veículo  ainda  não  tenha  sido  encontrado  (e,  justamente  por  sua  não-localização,  encontra-se  inviabilizada  a  penhora  ou  arresto"(  fl.  65).
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO
+Verifica-se,  inicialmente,  não  ter  ocorrido  ofensa  ao  art.  1.022,  II,  do  CPC,  na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas  e  apreciou  integralmente  a  controvérsia  posta  nos  autos;  não  se  pode,  ademais,  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional.
+Quanto  à  matéria  de  fundo,  razão  assiste  à  parte  recorrente,  pois  "O  Superior  Tribunal  de  Justiça  possui  precedentes  favoráveis  à  possibilidade  de  restrição  de  circulação  de  veículo,  por  via  do  sistema  Renajud,  para  viabilizar  a  localização  e  apreensão  do  bem,  a  fim  de  que  seja  realizada  a  penhora  e  a  consequente  satisfação  do  crédito  exequendo"  (AgInt  no  REsp  1.820.182/PR,  Rel.  Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  18/10/2019).
+Nesse  mesmo  sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema Renajud, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.
+2. Agravo Interno não provido.
+(AgInt no REsp n. 1.820.182/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/10/2019, DJe de 18/10/2019.)
+EXECUÇÃO  FISCAL.  SISTEMA  RENAJUD.  APREENSÃO  DO  VEÍCULO.  IMPOSIÇÃO  LEGAL.  PENHORA.  EFETIVAÇÃO.
+I  -  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  pacífica  no  sentido  de  que  é  legal  a  localização  e  restrição  de  circulação  de  veículo,  por  meio  do  sistema  RENAJUD.  Precedentes:  AgInt  no  REsp  n.  1.678.675/RS,  Rel.  Min.  Og  Fernandes,  DJe  13/3/2018  e  REsp  n.  1.7  44.401/MG,  Rel.  Min.  Nancy  Andrighi,  DJe  22/11/2018.
+II  -  A  viabilização  da  localização  e  restrição  da  circulação  do  veículo  objetiva  a  realização  da  penhora,  tendo  como  consequência  natural  a  apreensão  do  bem,  sendo  indevida  autorização  para  manter  a  circulação  deste,  dificultando  a  satisfação  do  crédito.
+  III  -  Recurso  especial  provido.
+(REsp  1.778.360/RS,  Rel.  Ministro  Francisco  Falcão,  Segunda  Turma,  DJe  14/02/2019).
+PROCESSUAL  CIVIL.  ADMINISTRATIVO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  EXECUÇÃO  FISCAL.  RESTRIÇÃO  DE  CIRCULAÇÃO  DE  VEÍCULO.  RENAJUD.  POSSIBILIDADE.
+1.  O  Superior  Tribunal  de  Justiça  possui  precedentes  favoráveis  à  possibilidade  de  restrição  de  circulação  de  veículo,  por  via  do  sistema  RENAJUD,  para  viabilizar  a  localização  e  apreensão  do  bem,  a  fim  de  que  seja  realizada  a  penhora  e  a  consequente  satisfação  do  crédito  exequendo.  Nesse  sentido,  as  seguintes  decisões  monocráticas:  REsp  1.669.427/RS,  Rel.  Ministro  Mauro  Campbell  Marques,  DJe  9/6/2017;  AREsp  1.165.070/MG,  Rel.  Ministro  Marco  Aurélio  Bellizze,  DJe  7/11/2017;  AREsp  1.076.857/MG,  Rel.  Ministro  Luis  Felipe  Salomão,  DJe  5/5/2017;  AREsp  1.071.742/MG,  Rel.  Ministra  Isabel  Gallotti,  DJe  18/4/2017;  AREsp  1.062.167/MG,  Rel.  Ministro  Antonio  Carlos  Ferreira,  DJe  5/9/2017;  e  AREsp  1.155.900/MG,  Rel.  Ministro  Moura  Ribeiro,  DJe  2/10/2017.
+2.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  REsp  1.678.675/RS,  Rel.  Ministro  OG  Fernandes,  Segunda  Turma,  DJe  13/03/2018)
+Confiram-se, ainda: Resp n. 2.030.234/RS, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), DJ 18/10/2022; e Resp n. 1.929.984/RS, Rel. Min. Gurgel de Faria, DJ 01/08/2022.
+Desse  modo,  verifica-se  que  o  posicionamento  da  Corte  Regional  destoa  da
+jurisprudência  deste  Superior  Tribunal  de  Justiça  sobre  o  tema,  motivo  pelo  qual  não  merece  subsistir.
+  ANTE  O  EXPOSTO  ,  dou  provimento  ao  recurso  especial,  nos  termos  da  fundamentação  acima.
+Publique-se.
