@@ -1,0 +1,47 @@
+EMENTA
+ADMINISTRATIVO. ANISTIA POLÍTICA. CABOS DA AERONÁUTICA. ANULAÇÃO. DECADÊNCIA. JUÍZO DE RETRATAÇÃO.
+1. O Supremo Tribunal Federal, em julgamento realizado sob a sistemática da repercussão geral - Tema 839 -, firmou o entendimento de que, "no exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria n. 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas", estabelecendo, ainda, que as situações flagrantemente inconstitucionais não se consolidam pelo transcurso do prazo decadencial previsto no art. 54 da Lei n. 9.784/1999.
+2. Necessário exercício do juízo de retratação, a fim de adequar o julgado anterior ao entendimento estabelecido pelo STF em sede de repercussão geral, com o afastamento da decadência.
+3. Juízo de retratação exercido para denegar a ordem.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, em juízo de retratação, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Manoel Erhardt (desembargador convocado do TRF-5ª Região), Francisco Falcão, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães e Regina Helena Costa votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Retornam a mim os presentes autos para novo julgamento, em face do disposto no art. 1.040 do CPC/2015.
+Concluiu este Órgão colegiado, no julgamento do mandado de segurança, que a Administração decaiu do seu direito de revisar ato de concessão de anistia política. A ementa sintetizou o julgado com o seguinte teor (e-STJ fls. 211/212):
+ANISTIA POLÍTICA. DECADÊNCIA DO DIREITO DE ANULAR O RESPECTIVO ATO.
+1. O direito da Administração Pública de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé (L. 9.784/99, art.
+54, caput).
+No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento (L. 9.784/99, art. 54, § 1º).
+Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato (L. 9.784/99, art. 54, § 2º).
+2. Comprovando-se a falsidade dos motivos que ensejaram a declaração da condição de anistiado político será o ato respectivo tornado nulo pelo Ministro de Estado da Justiça, em procedimento em que se assegurará a plenitude do direito de defesa, ficando ao favorecido o encargo de ressarcir a Fazenda Nacional pelas verbas que houver recebido indevidamente, sem prejuízo de outras sanções de caráter administrativo e penal (L. 10.559/02, art. 17).
+A Administração Pública exerce o direito de anular o ato que reconheceu em alguém a condição de anistiado político quando é instaurado o respectivo processo administrativo.
+O termo inicial do prazo de decadência, nesse caso, inicia a partir dos efeitos patrimoniais do reconhecimento da condição de anistiado, isto é, do primeiro pagamento da prestação mensal permanente e continuada, que deve ocorrer obrigatoriamente no prazo de sessenta dias (Lei nº 10.559/02, art. 12, § 4º).
+Nada importa o tempo decorrido entre a instauração do processo administrativo e o ato do Ministro de Estado da Justiça que vier a anular o reconhecimento da condição de anistiado político; nesse período, já não se pode cogitar de decadência porque o direito da Administração Pública de rever seu ato já foi exercido.
+3. Espécie em que, entre a data do primeiro pagamento da prestação mensal e a data da instauração do processo administrativo destinado a anular o ato de declaração da condição de anistiado político, transcorreram mais de cinco anos.
+Ordem concedida.
+Opostos embargos declaratórios, foram rejeitados (e-STJ fls. 254/257).
+Inconformados, a União e o MPF manejaram recurso extraordinário (e-STJ fls. 322/342 e 361/383).
+Tendo em vista o reconhecimento de repercussão geral da questão suscitada - Tema 839 -, os extraordinários ficaram sobrestados (e-STJ fls. 416/418 e 419/421).
+O eminente Ministro Vice-Presidente desta Corte proferiu decisão em que determinou a remessa dos autos a mim, para fins do art. 1.040 do CPC/2015.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. ANISTIA POLÍTICA. CABOS DA AERONÁUTICA. ANULAÇÃO. DECADÊNCIA. JUÍZO DE RETRATAÇÃO.
+1. O Supremo Tribunal Federal, em julgamento realizado sob a sistemática da repercussão geral - Tema 839 -, firmou o entendimento de que, "no exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria n. 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas", estabelecendo, ainda, que as situações flagrantemente inconstitucionais não se consolidam pelo transcurso do prazo decadencial previsto no art. 54 da Lei n. 9.784/1999.
+2. Necessário exercício do juízo de retratação, a fim de adequar o julgado anterior ao entendimento estabelecido pelo STF em sede de repercussão geral, com o afastamento da decadência.
+3. Juízo de retratação exercido para denegar a ordem.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+O Supremo Tribunal Federal, no julgamento do RE 817.338/DF - realizado sob a sistemática da repercussão geral, Tema 839 -, firmou o entendimento de que, "no exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria n. 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas". O aresto restou assim ementado:
+Direito Constitucional. Repercussão geral. Direito Administrativo. Anistia política. Revisão. Exercício de autotutela da administração pública. Decadência. Não ocorrência. Procedimento administrativo com devido processo legal. Ato flagrantemente inconstitucional. Violação do art. 8º do ADCT. Não comprovação de ato com motivação exclusivamente política. Inexistência de inobservância do princípio da segurança jurídica. Recursos extraordinários providos, com fixação de tese.
+1. A Constituição Federal de 1988, no art. 8º do ADCT, assim como os diplomas que versam sobre a anistia, não contempla aqueles militares que não foram vítimas de punição, demissão, afastamento de suas atividades profissionais por atos de motivação política, a exemplo dos cabos da Aeronáutica que foram licenciados com fundamento na legislação disciplinar ordinária por alcançarem o tempo legal de serviço militar (Portaria nº 1.104-GM3/64).
+2. O decurso do lapso temporal de 5 (cinco) anos não é causa impeditiva bastante para inibir a Administração Pública de revisar determinado ato, haja vista que a ressalva da parte final da cabeça do art. 54 da Lei nº 9.784/99 autoriza a anulação do ato a qualquer tempo, uma vez demonstrada, no âmbito do procedimento administrativo, com observância do devido processo legal, a má-fé do beneficiário.
+3. As situações flagrantemente inconstitucionais não devem ser consolidadas pelo transcurso do prazo decadencial previsto no art. 54 da Lei nº 9.784/99, sob pena de subversão dos princípios, das regras e dos preceitos previstos na Constituição Federal de 1988. Precedentes.
+4. Recursos extraordinários providos.
+5. Fixou-se a seguinte tese: "No exercício de seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica relativos à Portaria nº 1.104, editada pelo Ministro de Estado da Aeronáutica, em 12 de outubro de 1964 quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas."
+(RE 817338, Relator: DIAS TOFFOLI, Tribunal Pleno, julgado em 16/10/2019, DJe 31-07-2020)
+De acordo com o entendimento estabelecido (proferido no julgamento de hipótese similar ao caso dos autos), as situações flagrantemente inconstitucionais não se consolidam pelo transcurso do prazo decadencial previsto no art. 54 da Lei n. 9.784/1999.
+Dessa forma, as anistias concedidas com base na Portaria n. 1.104-GM3/64 podem ser revistas pela Administração, independentemente do transcurso do prazo de 5 anos previsto no dispositivo em comento, podendo o ato de concessão da benesse ser anulado, quando comprovada a ausência de motivação exclusivamente política em sede de procedimento administrativo, com observância do devido processo legal.
+Na hipótese dos autos, esta Primeira Seção concluiu que a Administração decaiu do seu direito de revisar ato de concessão de anistia política, já que editada portaria de anulação da anistia do impetrante após decorrido o prazo decadencial.
+Ante o exposto, nos termos dos arts. 1.040, II, do CPC/2015, entendo ser o caso de exercer o juízo de retratação para afastar a decadência, em conformidade com o estabelecido pelo STF em sede de repercussão geral, e DENEGAR A ORDEM.
+É como voto.
