@@ -1,0 +1,1 @@
+Art. 6º-D. Quando liquidados no mesmo exercício, poderá ser concedido desconto de 10% (dez por cento) para pagamento à vista das taxas de ocupação e foro, na fase administrativa de cobrança, mediante os critérios e as condições a serem fixados em ato do Secretário de Patrimônio da União do Ministério do Planejamento, Desenvolvimento e Gestão.

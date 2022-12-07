@@ -1,0 +1,2 @@
+Art. 6º-B. A União repassará 20% (vinte por cento) dos recursos arrecadados por meio da cobrança de taxa de ocupação, foro e laudêmio aos Municípios e ao Distrito Federal onde estão localizados os imóveis que deram origem à cobrança.
+Parágrafo único. Os repasses de que trata o caput deste artigo serão realizados até o quinto dia útil do mês de abril do ano subsequente ao do recebimento dos recursos.
