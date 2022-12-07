@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MARIVALDO ANTÔNIO DA SILVA, com fundamento naalínea"a"do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado (e-STJ, fls. 436-445):
+"PENAL. REVISÃO CRIMINAL. TRÁFICO TRANSNACIONAL DE DROGASE ASSOCIAÇÃO PARA O TRÁFICO. ARTIGOS 33 E 35 C. C. O ART. 40, I, DA LEI11.343/06. ART. 621 INCISO II e III DO CÓDIGO DE PROCESSO PENAL. LEGALIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS RATIFICADA. AUTORIA. CONDENAÇÃO MANTIDA. ALTERAÇÃO EM SEDE REVISIONAL. NÃO CABIMENTO. REVISÃO IMPROCEDENTE.
+O acórdão impugnado está bem fundamentado, pois expõe, detalhadamente, as razões pelas quais ratificou a legalidade das interceptações telefônicase manteve a condenação do requerente pela prática dos delitos, baseando-senos elementos de prova colhidos durante a instrução processual.
+O órgão julgador considerou todas as provas produzidas sob o crivo do contraditórioe da ampla defesa, as quais, por serem firmes e harmônicas, demonstrarama autoria do requerente. É sabido que em sede de revisão criminal não háespaço para reavaliação do conjunto probatório e para substituição do livre convencimentodo juiz pelo entendimento do Tribunal.
+A defesa, durante toda a instrução processual, teve amplo e irrestrito acessoàs interceptações telefônicas e respectiva transcrição. Dessa forma revela-se descabidaa pretensão de, amparada num laudo pericial produzido unilateralmente, desconstituirdecisão transitada em julgado e proferida em decisão colegiada por membrosdesta Corte.
+Pedido revisional julgado improcedente."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 472-481).
+Em suas razões recursais, aparterecorrentealega, em síntese, que: (I)houve manifesto erro judiciário ao utilizarcomo razões de convencimento exclusivamente interceptações telefônicas e telemáticasque, na fase judicial, foram editadas e alteradas, com quebra da cadeia decustódia; (II) no processo que culminou com a sua condenação foi indeferida a produção de prova pericial sobreas interceptações, inclusive de voz, que tinha como objetoaferir, dentre outros, a sua autenticidade; (III)o laudo agora produzido servepara demonstrar que não houve o necessário rigor técnico na apreciação da únicaprova condenatória, pois o material disponibilizado não era original e era passívelde edição; (IV) devido à falta de prova pericial que garantisse a integridade do material coletado, entende que foram violados os arts. 157, 158-A e 158-B, todos do CPP.
+Com contrarrazões (e-STJ, fls. 604-616), o apelo nobre foi inadmitido na origem(e-STJ, fls. 632-635), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo, ou, caso conhecido, pelo não provimento(e-STJ, fls. 709-716).
+É o relatório.
+Decido.
+A decisão que inadmitiu o recurso especial na origem foi pautada na incidência das Súmulas 283 e 284 do STJ
+Neste recurso, entretanto, oagravantedeixade impugnar os referidos fundamentos, reiterando os argumentos de mérito quando da interposição do recurso especial. Nesse diapasão, o agravante não poderia ouvidar-se de enfrentar estes óbices.Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1260918/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/05/2020, DJe 19/05/2020)
+Por conseguinte, a Súmula 182/STJ impede o conhecimento da irresignação recursal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ,não conheçodo agravo em recurso especial.
+Publique-se. Intimem-se.
