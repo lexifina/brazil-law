@@ -1,0 +1,11 @@
+DECISÃO
+RAFAEL DA SILVA BRAGA MARTINS agrava da decisão que inadmitiu o recurso especial interposto, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0030096-68.2015.8.19.0001.
+Nas razões do especial, a defesa afirma que o acórdão "contrariou os artigos 1º e 2º e 69 do Código Penal, os artigos 41, 155, 381 e 386, incisos I,II, III e VII, 563, 566 e 616 do Código de Processo Penal, os artigos 28, § 1º e§2º, 33, § 1º, inciso II, e §4º, 42, 50, §1º, 52, inciso I, da Lei nº 11.343/2006,bem como as garantias constitucionais do devido processo legal, do contraditório e da ampla defesa, elencadas no artigo 5º, incisos LIV e LV, além dos incisos XXXIX, XLIII, LX e LI do mesmo artigo 5º e o artigo 93, inciso IX, 144, inciso II e 243 da Constituição Federal" (fl. 440).
+O Tribunal a quo não admitiu o recurso com base nos seguintes óbices: impropriedade da via eleita para questionar a violação de dispositivo constitucional e necessidade de revolvimento fático-probatório (Súmula n. 7 do STJ).
+O Ministério Público Federal opinou pelo conhecimento do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento (fls. 677-682).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente todas as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso, embora o agravante haja impugnado o óbice relativo à necessidade de reexame de provas (Súmula n. 7 do STJ), não rebateu o fundamento relacionado à impropriedade da via eleita para suscitar a violação de dispositivo constitucional.
+Portanto, verifica-se que o agravante não rebateu, com particularidade, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
