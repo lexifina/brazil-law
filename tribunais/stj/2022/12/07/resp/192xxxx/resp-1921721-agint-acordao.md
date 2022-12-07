@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/12/2022 a 07/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Distrito Federalcontra decisão proferida pelo Ministro Relator, Francisco Falcão, quenegou provimento ao recurso especial interposto no REsp n. 1.921.721/DF (2021/0038331-8).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A matéria correlaciona-se, diante do disposto, com a ausência de legitimidade para pleitear a compensação de valores, a qual deve ser observada, sob pena de o juízo não resolver o mérito, conforme o art. 485, VI e § 3ºdo CPC.
+ ..
+Diante do exposto, conforme abordado no presente agravo, a parte autora, ao pleitear a repetição de indébito, não observou o disposto no art. 166 do CTN, assim como entendimento do Colendo Superior Tribunal de Justiça, conforme elucidado nos seguintes julgados:
+ ..
+Portanto, carecendo de demonstrações de que não houve o repasse do encargo tributário ao consumidor final, de acordo com o art. 166 do CTN, e com os julgados acima expostos, o autor não possui legitimidade ativa para pleitear a repetição do indébito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ICMS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de ação de repetição de indébito, ajuizada contra oDistrito Federal, objetivando reconhecimento de restituição de diferença paga a maior em recolhimento de ICMS. Na sentença o pedido foi julgado improcedente. No Tribunala quo, a sentença foi parcialmente reformada paradeterminar o retorno dos autos ao Juízo de origem para que analise o caso sob a ótica do precedente proferido pelo Supremo Tribunal Federal.
+II - O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que, na sistemática da substituição tributária para frentena aquisição da mercadoria, o contribuinte substituído antecipadamente recolhe o tributo de acordo com a base de cálculo estimada, de modo que, no caso específico de revenda por menor valor, não tem ele como recuperar o tributo que já pagou, decorrendo o desconto no preço final do produto da própria margem de lucro do comerciante, sendo inaplicável, na espécie, a condição ao pleito repetitório de que trata o art. 166 do CTN.
+III - Nesse sentido, confira-se: AgInt no REsp n. 1.895.172/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt no REsp n. 1.956.196/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/2/2022, DJe de 17/2/2022; e AgInt no REsp n. 1.426.465/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/12/2018, DJe de 7/2/2019.
+IV - Desta forma, o tributo ao final suportado pelo consumidor incidira sobre uma base de cálculo estimada e fora assim recolhido pelo revendedor. Se essa base de cálculo real, ou seja, aquela realizada na operação final, for menor que a presumida, parece lógico que essa sistemática imporá ao revendedor o ônus correspondente à diferença entre o valor que foi efetivamente pago e aquele que seria se a base de cálculo foi a real (AgInt no REsp n. 1.895.172/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022). Logo, possui o substituto tributário legitimidade para postular a restituição de ICMS.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que, na sistemática da substituição tributária para frentena aquisição da mercadoria, o contribuinte substituído antecipadamente recolhe o tributo de acordo com a base de cálculo estimada, de modo que, no caso específico de revenda por menor valor,não tem ele como recuperar o tributo que já pagou, decorrendo o desconto no preço final do produto da própria margem de lucro do comerciante, sendo inaplicável, na espécie, a condição ao pleito repetitório de que trata o art. 166 do CTN.
+Nesse sentido, confira-se: AgInt no REsp n. 1.895.172/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022;AgInt no REsp n. 1.956.196/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/2/2022, DJe de 17/2/2022; eAgInt no REsp n. 1.426.465/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/12/2018, DJe de 7/2/2019.
+Desta forma, o tributo ao final suportado pelo consumidor incidira sobre uma base de cálculo estimada e fora assim recolhido pelo revendedor. Se essa base de cálculo real, ou seja, aquela realizada na operação final, for menor que a presumida, parece lógico que essa sistemática imporáao revendedor o ônus correspondente à diferença entre o valor que foi efetivamente pago e aquele que seria se a base de cálculo foi a real (AgInt no REsp n. 1.895.172/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022). Logo, possui o substituto tributário legitimidade para postular a restituição de ICMS.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
