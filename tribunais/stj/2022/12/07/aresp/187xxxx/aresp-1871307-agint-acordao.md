@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/12/2022 a 07/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art.105, III, a e c, da Constituição Federal, visando reformar acórdão proferido peloTribunal de Justiça do Estado do Rio De Janeiro, assim resumido:
+JUÍZO DE RETRATAÇÃO NA APELAÇÃO CÍVEL. ARTIGO 1.030,II,DO CPC/15. EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO,COM RESOLUÇÃO DO MÉRITO,EM RAZÃO DA PRESCRIÇÃO INTERCORRENTE. NECESSIDADE DE CONFORMAÇÃO DO JULGADO COM OS TEMAS Nº 568E 571DOSTJ. OBSERVÂNCIA OBRIGATÓRIA DAS TESES FIXADAS NO RESP Nº 1.340.553/RS. NÃO OCORRÊNCIA DA CAUSA EXTINTIVA DA PRETENSÃO. ANULAÇÃO DA SENTENÇA PARA PROSSEGUIMENTO DO FEITO. REFORMA DO ACÓRDÃO EM SEDE DE JUÍZO DE RETRATAÇÃO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Primeiramente, cumpre ressaltar que não se trata de reanálise das provas, o que, de fato, encontraria óbice na súmula 07 deste E. STJ.
+Faz-se necessário, na verdade, uma revaloração das provas, o que é permitido no entendimento desta Corte.
+ ..
+Nesses casos, cumprindo o lapso temporal (01  05 anos), o tempo verbal "deveria" significa que o processo deve ser enviado para a manifestação da Fazenda Pública acerca das causas suspensivas, extintivas ou interruptivas da prescrição, após o que, caso inexistentes, o juiz poderá reconhecer a prescrição intercorrente e decretá-la de imediato.
+E foi exatamente o que ocorreu no presente caso na correta decisão da primeira instância.
+Desse modo, é imperativa a revaloração da prova estabelecida durante a instrução processual, não se aplicando a Súmula 07 desta Egrégia Corte, conforme iterativa jurisprudência, para analisar os marcos (ou sua ausência) interruptivos ou suspensivos da prescrição, conforme assentados na sentença e acórdãos, em consonância com o item 4.2do acórdão do REsp nº 1.340.553/RS, aplicado aos casos em que não houve -mas deveriater havido -arquivamento dos autos sem baixa na distribuição.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DO MÉRITO, EM RAZÃO DA PRESCRIÇÃO INTERCORRENTE.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO EXAME DA DIVERGÊNCIA JURISPRUDENCIAL.
+I - Na origem, trata-se deexecução fiscalobjetivandoa cobrança de débitos de IPTU.Na sentença, foijulgado extinta a execução ante o reconhecimento da prescrição intercorrente. No Tribunala quo, a sentença foi mantida.
+II - A pretensão recursal de rever o posicionamento adotado no acórdão recorrido, quanto ao afastamento da prescrição intercorrente, teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+III - Portanto, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV- Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados. Nesse sentido: AgInt no AREsp n. 1.518.728/RJ, relatorMinistro Mauro Campbell Marques, Segunda Turma, julgado em 19/11/2019, DJe 22/11/2019; AgRg no REsp n. 1.773.075/SP, Relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019; AgInt no AREsp n. 1.546.739/MG, relatorMinistro Francisco Falcão, Segunda Turma, julgado em 18/5/2020, DJe 20/5/2020.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Para afastar a ocorrência da prescrição intercorrente, aCorte a quo analisou as alegações da parte com os seguintes fundamentos:
+In casu, verifica-se que a citação ficta do executado se deu através do edital publicado em 02/04/2004.
+Após esse ato, consultando a movimentação do processo no sítio eletrônico do Tribunal, constata-se que a Fazenda Pública apenas teve vista pessoal dos autos em 22/10/2010.
+Embora nessa oportunidade já coubesse ao exequente indicar bens do devedor à penhora, certo é que o Município não se atentou para a efetivação da citação ficta, requerendo novas diligências voltadas para a integração do contribuinte à lide.
+Ocorre que ao invés de indeferi-las, o juízo determinou que se cumprisse o requerido pela edilidade ao longo dos anos, o que contribuiu para a lentidão do processo nesse período, e a manutenção do Município em erro.
+Fato é, que tão logo a realização da citação ficta foi notada pelo magistrado no despacho de 30/06/2015, a edilidade finalmente requereu providências tendentes a localizar bens do devedor em 13/07/2015.
+Assim, considerando que o Município tomou ciência pessoal de que as diligências restaram infrutíferas em 24/08/2015 (data da remessa à Procuradoria), somente aqui se inicia o prazo de um ano de suspensão automática do processo.
+Destarte, considerando que a sentença que acolheu a exceção de pré-executividade apresentada, reconhecendo a prescrição intercorrente, foi prolatada em 17/03/2016, depreende-se que o decisum emanado desta Câmara, ao entender estar prescrito o crédito tributário exequendo, se distanciou das conclusões alcançadas pela Corte Superior de Justiça no julgamento do acórdão paradigma, precedente cuja observância é obrigatória.
+Note-se que a outra conclusão não se iria chegar, ainda que se tomasse por data de início da suspensão do processo aquela em que a Procuradoria pela primeira vez poderia ter requerido diligências na busca de satisfação de seu crédito, já que entre 22/10/2010, e a data da prolação da sentença, não se passaram seis anos.
+Diante disso, em sede de juízo de retratação, reforma-se o acórdão de fls.164/168, e dá-se provimento ao recurso de apelação, a fim de determinar o prosseguimento do feito no juízo de origem.
+A pretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto ao afastamento da prescrição intercorrente teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Portanto, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.Nesse sentido:AgInt no AREsp n. 1.518.728/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/11/2019, DJe 22/11/2019;AgRg no REsp n. 1.773.075/SP, Relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019;AgInt no AREsp n. 1.546.739/MG, relatorMinistro Francisco Falcão, Segunda Turma, julgado em 18/5/2020, DJe 20/5/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
