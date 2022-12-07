@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARIA DOS REMEDIOS ALMEIDA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Apelação Criminal n. 0056053-34.2015.8.06.0001).
+A paciente foi condenada à pena de 5 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/06.
+Inconformada, a defesa apelou para a Corte estadual que, por sua vez, deu parcial provimento ao recurso para redimensionar a pena em 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 180 dias-multa.
+Nesta via, destacam os impetrantes que a Defensoria Pública, ao ser intimada do acórdão condenatório proferido pelo Tribunal de origem, deixou o prazo recursal transcorrer in albis, prejudicando, assim, a paciente que restou irresignada com uma condenação injusta.
+Apontam que a não interposição do Recurso Especial perante esta Corte foi injustificável, evidenciando-se a mera desídia da Defensoria Pública.
+Defendem, ainda, a aplicação do enunciado n. 523 da Súmula do Supremo Tribunal Federal ao caso em testilha, porquanto houve deficiência na defesa técnica da paciente.
+Requerem, liminarmente e no mérito, a reabertura do prazo recursal em favor da paciente, para a interposição do Recurso Especial ao Superior Tribunal de Justiça.
+É o relatório.
+A matéria de fundo não foi apreciada no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+Confira-se precedente sobre a questão:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. CONTAGEM DOS PRAZOS EM MATÉRIA PROCESSUAL PENAL. DIAS CORRIDOS. PRECEDENTES DESTE STJ. ORIENTAÇÃO FIRMADA NO RESP 1.349.935/SE. REPRESENTATIVO DA CONTROVÉRSIA. INTIMAÇÃO PESSOAL DO MINISTÉRIO PÚBLICO. INTERPOSIÇÃO DE RECURSO PELA DEFESA FORA DO PRAZO RECURSAL. INTEMPESTIVIDADE RECONHECIDA NA ORIGEM. MÉRITO DA DEMANDA. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Acerca da necessidade de intimação pessoal do Ministério Público, enquanto a Defesa é intimada em Plenário, esta Corte Superior já decidiu, em sede da sistemática dos recursos repetitivos, que tal conduta não fere o princípio da paridade de armas. Vejamos: "A distinção entre intimação do ato e início da contagem do prazo processual permite que se entenda indispensável - para o exercício do contraditório e a efetiva realização da missão constitucional do Ministério Público - que a fluência do prazo para a prática de determinado prazo peremptório somente ocorra a partir do ingresso dos autos na secretaria do órgão destinatário da intimação. Precedentes" (REsp n. 1.349.935/SE, Terceira Seção, Rel. Min. Rogério Schietti Cruz, DJe de 14/9/2017).
+III - Ora, esta Corte Superior já assentou, de forma pacífica, que os recursos em matéria processual penal não são regidos pela regra de contagem dos prazos em dias úteis, tal qual ocorre em matéria civil: "É intempestivo (..) interposto fora do prazo de 5 dias corridos (..)" (AgInt no REsp n. 1.717.810/AL, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 29/8/2018).
+IV - Conforme reiterada jurisprudência deste Superior Tribunal de Justiça, "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (HC n. 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/12/2017).
+Habeas corpus não conhecido.
+(HC n. 718.027/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022.)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
