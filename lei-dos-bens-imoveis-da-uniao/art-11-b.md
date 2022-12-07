@@ -11,6 +11,6 @@ II - (revogado).
 § 8º O lançamento de débitos relacionados ao foro, à taxa de ocupação e a outras receitas extraordinárias:
 I - utilizará como parâmetro o valor do domínio pleno do terreno estabelecido de acordo com o disposto no caput deste artigo; e
 II - observará o percentual máximo de atualização estabelecido em regulamento, aplicado sobre os valores cobrados no ano anterior, ressalvada a correção de inconsistências cadastrais.
-§ 8º-A O regulamento a que se refere o inciso II do § 8º não estabelecerá percentual superior a duas vezes o Índice Nacional de Preços ao Consumidor Amplo - IPCA do exercício anterior ou o índice que vier a substituí-lo.
+§ 8º-A. O regulamento a que se refere o inciso II do § 8º deste artigo não estabelecerá percentual superior a 2 (duas) vezes o Índice Nacional de Preços ao Consumidor Amplo (IPCA) do exercício anterior ou o índice que vier a substituí-lo.
 § 9º A Secretaria de Coordenação e Governança do Patrimônio da União atualizará a planta de valores anualmente e estabelecerá os valores mínimos para fins de cobrança dos débitos a que se refere o § 8º deste artigo.
 § 10. (VETADO).

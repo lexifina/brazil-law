@@ -1,14 +1,14 @@
 Art. 11-C. As avaliações para fins de alienação onerosa dos domínios pleno, útil ou direto de imóveis da União, permitida a contratação da Caixa Econômica Federal ou de empresas públicas, órgãos ou entidades da administração pública direta ou indireta da União, do Distrito Federal, dos Estados ou dos Municípios cuja atividade-fim seja o desenvolvimento urbano ou imobiliário, com dispensa de licitação, ou de empresa privada, por meio de licitação, serão realizadas:
 I - pela Secretaria de Coordenação e Governança do Patrimônio da União; ou
 II - pelo órgão ou entidade pública gestora responsável pelo imóvel.
-§ 1º O preço mínimo para as alienações onerosas será fixado com base no valor de mercado do imóvel, estabelecido em laudo de avaliação, cujo prazo de validade será de, no máximo, doze meses.
+§ 1º O preço mínimo para as alienações onerosas será fixado com base no valor de mercado do imóvel, estabelecido em laudo de avaliação, cujo prazo de validade será de 12 (doze) meses.
 § 2º Para as áreas públicas da União objeto da Reurb-E, nos casos de venda direta, o preço de venda será fixado com base no valor de mercado do imóvel, excluídas as benfeitorias realizadas pelo ocupante, cujo prazo de validade da avaliação será de, no máximo, doze meses.
 § 3º Para as alienações que tenham como objeto a remição do aforamento ou a venda do domínio pleno ou útil, para os ocupantes ou foreiros regularmente cadastrados na SPU, a avaliação, cujo prazo de validade será de, no máximo, doze meses, poderá ser realizada por trecho ou região, desde que comprovadamente homogêneos, com base em pesquisa mercadológica e critérios estabelecidos no zoneamento ou plano diretor do Município.
-§ 4º Nas hipóteses de venda de terrenos de até 250 m² (duzentos e cinquenta metros quadrados) em área urbana, ou de imóveis rurais de até o limite do módulo fiscal, definido pelo Instituto Nacional de Colonização e Reforma Agrária (Incra), será admitida a avaliação por planta de valores.
-§ 5º A avaliação de que trata o § 4º deste artigo será baseada em métodos estatísticos lastreados em pesquisa mercadológica e em níveis de precisão compatíveis com os riscos aceitos, nos termos estabelecidos em ato do Secretário de Coordenação e Governança do Patrimônio da União, desde que esses métodos:
-I - sejam previamente aprovados pela Secretaria de Coordenação e Governança do Patrimônio da União;
-II - sejam baseados em critérios, premissas e procedimentos objetivos, documentados, passíveis de verificação pelos órgãos de controle e disponíveis em sistema eletrônico de dados; e
-III - propiciem a geração de relatório individualizado da precificação do imóvel.
+§ 4º Será admitida a avaliação por planta de valores da Secretaria de Coordenação e Governança do Patrimônio da União por ocasião da alienação de:
+I - terrenos da União ou de suas frações de até 250 m² (duzentos e cinquenta metros quadrados) em área urbana;
+II - imóveis inscritos em ocupação, utilizados como moradia pelos atuais ocupantes, independentemente da extensão da área; ou
+III - imóveis rurais de até o limite do módulo fiscal, definido pelo Instituto Nacional de Colonização e Reforma Agrária (Incra).
+§ 5º (Revogado).
 § 6º As avaliações poderão ser realizadas sem que haja visita presencial, por meio de modelos de precificação, automatizados ou não, nos termos dos §§ 4º e 5º deste artigo.
 § 7º Os laudos de avaliação dos imóveis elaborados por empresas especializadas serão homologados pela Secretaria de Coordenação e Governança do Patrimônio da União ou pelo órgão ou entidade pública gestora do imóvel, por meio de modelos preestabelecidos e sistema automatizado.
 § 8º É dispensada a homologação de que trata o § 7º deste artigo dos laudos de avaliação realizados por banco público federal ou por empresas públicas.
@@ -16,3 +16,5 @@ III - propiciem a geração de relatório individualizado da precificação do i
 § 10. A Secretaria de Coordenação e Governança do Patrimônio da União poderá utilizar o valor estimado nos laudos de avaliação para fins de venda do imóvel em prazo menor do que a média de absorção do mercado.
 § 11. É vedada a avaliação por empresas especializadas cujos sócios sejam servidores da Secretaria de Coordenação e Governança do Patrimônio da União ou da Secretaria Especial de Desestatização, Desinvestimento e Mercados do Ministério da Economia, ou seus parentes, em linha reta ou colateral, por consanguinidade ou afinidade, até o terceiro grau, inclusive.
 § 12. Ato do Secretário de Coordenação e Governança do Patrimônio da União disporá sobre critérios técnicos para a elaboração e a homologação dos laudos de avaliação.
+§ 13. Nos casos de homologação dos laudos de avaliação, a Secretaria de Coordenação e Governança do Patrimônio da União será responsável exclusivamente pela verificação das normas aplicáveis, sem prejuízo da responsabilidade integral do agente privado que elaborou o laudo.
+§ 14. As avaliações de imóveis da União poderão ter seu prazo de validade estendido, por meio de revalidação, conforme critérios técnicos estabelecidos em ato do Secretário de Coordenação e Governança do Patrimônio da União.
