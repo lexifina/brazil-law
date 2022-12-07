@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória na qual a Justiça portuguesa (Tribunal Judicial da Comarca de Viana do Castelo - Juízo Local Criminal de Viana do Castelo - Juiz 2) solicita a notificação pessoal de BRUNO JORGE BRITES para tomar ciência da decisão proferida nos autos do Processo n. 1003/10.2PBVCT, que determinou a conversão da pena de multa em prisão subsidiária, bem como do prazo de 30 dias, a contar da intimação, para exercer o direito de recurso (fls. 7/8).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 50), determino a devolução dos autos à Justiça rogante, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
