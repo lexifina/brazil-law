@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça francesa solicita que se proceda à notificação da empresa CENTRAL GERADORA EÓLICA ARENA S/A. dos termos do Acórdão proferido pelo Tribunal de Relação de Versalhes, nos autos doProcesso n. 643TR2022, para, caso queira, interpor recurso de cassação no prazo de 2 meses. Este período é aumentado em dois meses para as pessoas que vivem no estrangeiro.
+No processamento da carta rogatória, a observância da garantia do devido processo legal é imperativa (art. 36,caput, do CPC). A impugnação restringir-se-á à discussão quanto ao atendimento dos requisitos (ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos; e inteligência da decisão), sendo vedada a revisão do mérito do pronunciamento judicial estrangeiro (art. 36, § 2º, do CPC).
+Assim, no âmbito do procedimento preliminar à concessão da ordem,intime-se a parte interessada, no endereço indicado à fl. 8, para que, caso queira e com advogado constituído (art. 103 do CPC), impugne, no prazo de 15 dias, o pedido de concessão deexequatur(art. 216-Q do RISTJ).
+Caso não se encontre a parte interessada, remetam-se os autos aoparquetpara que, se possível, forneça outro endereço para localização.
+Na hipótese de revelia, de apuração da incapacidade do interessado (art. 216-R do RISTJ) ou de não localização da parte interessada (AgRg na Carta Rogatória n. 9.556/PT),notifique-se a Defensoria Pública da União, a fim de que indique representante para atuar como curador especial e, nesse contexto, manifestar-se.
+Apresentada a resposta, encaminhem-se os autos ao Ministério Público Federal para que, em 15 dias, se manifeste sobre a concessão doexequatur(art. 216-S do RISTJ).
+Publique-se.
