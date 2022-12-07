@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELESSANDRO SOUSA DANTAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+REVISÃO CRIMINAL  LATROCÍNIO TENTADO  PENA-BASE  REDUÇÃO  NÃO CABIMENTO  CIRCUNSTÂNCIAS JUDICIAIS ANALISADAS DE FORMA ESCORREITA  ARTIGO 14, II, DO CÓDIGO PENAL  FATOR DE REDUÇÃO DECORRENTE DA TENTATIVA  ALTERAÇÃO  NECESSIDADE  PEDIDO PARCIALMENTE PROCEDENTE.
+Quanto à controvérsia recursal, alega violação dos arts. 14, II, parágrafo único, 157, §3º, II, ambos do CP, e art. 621, I, do CPP, no que concerne ao reconhecimento da causa de diminuição de pena da tentativa na fração máxima de 2/3 (dois terços), uma vez que o réu não percorreu grande parte do iter criminis, trazendo o(s) seguinte(s) argumento(s):
+Da simples leitura do acórdão recorrido, nota-se que restou incontroverso que em primeira instância o Magistrado sentenciante não fundamentou de forma concreta a escolha da fração incidente em virtude do reconhecimento da forma tentada do delito.
+A defesa pondera que a aplicação da tentativa deve ocorrer sempre de maneira fundamentada (art. 93, IX, CF), indicando o aplicador da pena qual foi o iter criminis percorrido e justificando a aplicação em menor ou maior quantidade.
+Em razão disso, cumpria ao Tribunal de origem, uma vez reconhecida a ilegalidade perpetrada na fixação da pena, estabelecer a maior fração redutora com fincas no reconhecimento da forma tentada do crime.
+ ..
+De mais a mais, as considerações lançadas no acórdão, ao contrário do autorizar a fração de 1/2, determinam a incidência da redução em 2/3, porque restou incontroverso dos fatos declinados no decisum que o iter criminis foi interrompido logo no seu início, podendo-se afirmar que o crime esteve longe da consumação.
+ ..
+Como registrado no acórdão, a vítima declarou que as duas facadas foram superficiais e que não precisou se afastar de suas atividades habituais. Ademais, do prontuário juntado aos autos, constata-se que seus exames de RX do tórax estavam normais e que a vítima se evadiu da sala de emergências.
+Desta forma, o Recorrente não percorreu considerável parte do iter criminis como compreendeu o TJMG, o que determina a redução da pena, na terceira fase de sua dosimetria, na fração de 2/3 prevista em lei (fls. 260-262).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Já no que se refere ao patamar de redução da pena na terceira fase da dosimetria, entendo que razão assiste ao peticionário, quando pondera a desproporcionalidade havida na espécie.
+Em conformidade com o artigo 14, parágrafo único, do Código Penal, "Salvo disposição em contrário, pune-se a tentativa com a pena correspondente ao crime consumado, diminuída de um a dois terços".
+Para estabelecer a fração de redução incidente ao caso, o juiz deve observar o iter percorrido pelo agente, ou seja, o quão perto este chegou da consumação do seu intento.
+ ..
+Conforme se observa, o d. Juiz singular aplicou o menor fator de redução aplicável à tentativa, mas sem indicar, concretamente, o quão perto o agente chegou da consumação de seu intento.
+Neste particular, observo que a vítima declarou que "não se afastou de suas atividades em virtude das facadas, que foram superficiais" (fls. 46 - doc. único).
+Do prontuário médico de fls. 112 (doc. único), consta que o Raio-X de tórax de U.B. apresentou-se dentro dos limites da normalidade, e que o paciente U.B. evadiu-se da sala de emergência.
+Neste contexto, considero que o agente percorreu considerável porção do iter criminis, ao golpear a vítima com a faca que possuía, mas não ao ponto de quase consumar o seu intento, pelo que entendo justa e proporcional à espécie a aplicação do fator de redução intermediário de  (metade), conforme a previsão do artigo 14, parágrafo único, do Código Penal (fl. 233-234).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, a fim de alterar a fração da causa de diminuição de pena relativa à tentativa, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "Alterar a fração da minorante da tentativa exigiria reexame dos fatos e provas da causa, para aferir quanto do iter criminis foi percorrido pelos réus. Incidência da Súmula 7/STJ." (AgRg no AgRg no AREsp n. 1.969.888/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/11/2021.)
+De igual sorte: " Na terceira fase, a pretensão de que a minorante da tentativa incida na fração de um 2/3 (ao invés do mínimo de 1/3 aplicado na origem) encontra óbice na Súmula 7/STJ, pois seria necessário reexaminar os fatos e provas da causa para concluir quão perto o recorrente chegou de concluir o iter criminis dos homicídios." (AgRg no REsp n. 1.925.430/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe de 10/8/2021.)
+Ainda: A pretensão de alteração da fração da minorante da tentativa encontra óbice na Súmula 7/STJ, porque seria necessário o reexame dos fatos e provas da causa para avaliar a maior ou menor proximidade da conduta ao resultado almejado." (AgRg no AREsp n. 1.954.266/TO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 15/3/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.969.965/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, DJe de 16/12/2021; AgRg no AREsp n. 1.846.296/MA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 11/10/2021; AgRg no AREsp n. 1.599.947/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/9/2021; AgRg no AREsp n. 1.881.761/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
