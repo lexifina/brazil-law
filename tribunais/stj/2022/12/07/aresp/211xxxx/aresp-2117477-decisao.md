@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de requerimento de exclusão do recurso da pauta de julgamento da sessão virtual.
+Enquanto não havia sido disponibilizado sistema tecnológico, o pedido de sustentação oral em processos incluídos em sessão virtual de julgamento implicava, nos termos do art. 1º da Resolução STJ/GP 19, de 7 de junho de 2022, a respectiva exclusão da pauta virtual. Confira-se:
+Art. 1º Nas hipóteses de julgamento virtual, regulado pelo Título III-A da Parte I do Regimento Interno do Superior Tribunal de Justiça, até que exista viabilidade tecnológica para a inserção no processo da mídia contendo a sustentação oral, implicará retirada da pauta virtual o pedido de sustentação oral ou de uso da palavra para esclarecimento de equívoco ou dúvida surgida em relação aos fatos, documentos ou a afirmações que influam na decisão.
+Entretanto, conforme divulgado na página eletrônica do STJ, as inscrições para realização de sustentação oral nos processos incluídos nas pautas de julgamento virtual foram viabilizadas a partir do dia 10 de agosto de 2022 (acesso pelo link https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/10082022-STJ-passa-a-receber-inscricoes-para-sustentacao-oral-nas-sessoes-virtuais-de-julgamento-.aspx), e sujeitam-seao prazo estabelecido no art. 4º, I, da Resolução STJ/GP 9/2022. Cabe ao interessado, portanto, acessar a página eletrônica do STJ e, no prazo legal, preencher o formulário "Sustentação Oral e Preferência de Julgamento".
+Diante do exposto, por se encontrar o presente feito incluído em sessão virtual de julgamento para a qual já se encontra disponível a inserção de mídia eletrônica com vistas àsustentação oral, indefiro o requerimento de exclusão de pauta.
+Publique-se.
+Intimem-se.
