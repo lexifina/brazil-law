@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 01/12/2022 a 07/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial interposto pelo particular, ante o óbice da Súmula 7 desta Corte (fls. 520-523, e-STJ).
+A parte agravante alega que tanto a questão sobre a sua legitimidade para executar o título executivo em questão quanto aquela referente à minoração dos honorários advocatícios não demandam reexame de fatos e provas.
+Postula a reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. REVISÃO DO VALOR DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial interposto pelo particular, ante o óbice da Súmula 7 desta Corte (fls. 520-523, e-STJ). A parte agravante alega que tanto a questão sobre a sua legitimidade para executar o título executivo em questão quanto aquela referente à minoração dos honorários advocatícios não demandam o reexame de fatos e provas.
+2. Na decisão ora agravada, consignou-se (fl. 521, e-STJ, grifos acrescentados): "Na hipótese em tela, há expressa consideração no acórdão recorrido acerca da limitação dos beneficiários da Ação Coletiva no Título Executivo transitado em julgado, razão pela qual o entendimento da Corte a quo se encontra em consonância com a jurisprudência do STJ, no sentido de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada"". (AgInt no REsp 1.586.726/BA, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9.5.2016).
+3. No presente recurso, entretanto, a parte agravante não refuta a exceção acima transcrita, no sentido de que houve limitação subjetiva expressa no título executivo, cuja mudança implicaria ofensa à coisa julgada. Limita-se a discorrer sobre o trecho inicial da tese: a prescindibilidade da nominação dos substituídos, o que a beneficiaria, se não fosse a exceção exposta. Aplica-se, assim, a Súmula 182/STJ.
+4. Tampouco merecem prosperar os argumentos sobre o valor fixado a título de honorários advocatícios. A parte não demonstrou de que modo a verba seria excessiva ou irrisória, hipóteses que afastariam a incidência da Súmula 7 desta Corte.
+5. É pacífico o entendimento no sentido de que, no "recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1.135.014/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 27.3.2020). Isso, no caso dos autos, indubitavelmente não ocorreu.
+6. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.10.2022.
+Não se pode conhecer da irresignação.
+Na decisão ora agravada, consignou-se (fl. 521, e-STJ, grifos acrescentados):
+Na hipótese em tela, há expressa consideração no acórdão recorrido acerca da limitação dos beneficiários da Ação Coletiva no Título Executivo transitado em julgado, razão pela qual o entendimento da Corte a quo se encontra em consonância com a jurisprudência do STJ, no sentido de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada." (AgInt no REsp 1.586.726/BA, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9/5/2016).
+No presente recurso, entretanto, a parte agravante não refuta a exceção acima transcrita, no sentido de que houve limitação subjetiva expressa no título executivo, cuja mudança implicaria em ofensa à coisa julgada. Limita-se a discorrer sobre o trecho inicial da tese: a prescindibilidade da nominação dos substituídos, o que a beneficiaria, se não fosse a exceção exposta.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Nesse sentido, os precedentes:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.061.011/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, DJe 09/04/2019).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ENUNCIADO ADMINISTRATIVO 3/STJ. REQUISITO LEGAL NÃO ATENDIDO. AUSÊNCIA DE ACÓRDÃO DA TURMA NACIONAL DE UNIFORMIZAÇÃO. PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO. FUNDAMENTO NÃO IMPUGNADO. OBSERVÂNCIA DO ARTIGO 1.021, § 1º, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. No caso, o pedido de uniformização de interpretação de lei não foi conhecido em razão de não existir acórdão da Turma Nacional de Uniformização, requisito formal de conhecimento.
+2. O fundamento adotado na decisão agravada, de que não há acórdão da TNU, não foi impugnado em sede de agravo interno, atraindo a inteligência da Súmula 182/STJ, observando-se o artigo 1.021, § 1º, do CPC/2015.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no PUIL 326/DF, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 18/12/2017).
+Ademais, tampouco merecem prosperar os argumentos sobre o valor fixado a título de honorários advocatícios. A parte não demonstrou de que modo a verba seria excessiva ou irrisória, hipóteses que afastariam a incidência da Súmula 7 desta Corte.
+É pacífico o entendimento no sentido de que, no "recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1.135.014/SP, Relator Ministro Gurgel de Faria, Primeira Turma, DJe 27.3.2020). Isso, no caso dos autos, indubitavelmente não ocorreu.
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
