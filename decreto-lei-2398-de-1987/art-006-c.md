@@ -1,0 +1,1 @@
+Art. 6º-C. Os créditos relativos a receitas patrimoniais, passíveis de restituição ou reembolso, serão restituídos, reembolsados ou compensados com base nos critérios definidos em legislação específica referente aos tributos administrados pela Secretaria da Receita Federal do Brasil.
