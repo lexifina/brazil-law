@@ -1,0 +1,97 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE CONTRABANDO. ARTIGO 334-A, § 1º, INCISO V, DO CÓDIGO PENAL. PLEITO DE APLICAÇÃO RETROATIVA DO ACORDO DE NÃO PERSECUÇÃO PENAL. PRETENSÃO DE REDISCUSSÃO DOS CRITÉRIOS DE DOSIMETRIA DA PENA. INABILITAÇÃO PARA DIRIGIR VEÍCULO. EFEITO PREVISTO NO ARTIGO 92, INCISO III, DO CÓDIGO PENAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO IDÔNEA PELAS INSTÂNCIAS PRECEDENTES. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. INVIABILIDADE DO WRIT PARA EXAME DE QUESTÕES ALHEIAS AO DIREITO DE LOCOMOÇÃO.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no REsp nº 2.017.798, assim ementado:
+
+    “PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE DO ART. 28-A DO CPP. IMPOSSIBILIDADE. PRECEDENTES DO STJ. TEMA REPETITIVO 1098. CRIME DE CONTRABANDO DE CIGARROS. PENA-BASE. QUANTIDADE DE MAÇOS APREENDIDOS. INCREMENTO. POSSIBILIDADE. QUANTUM FIXADO. LIVRE CONVENCIMENTO MOTIVADO. INABILITAÇÃO PARA DIRIGIR. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+
+    1. O Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias.
+
+    2. O fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal (HC 185.913) não implica a suspensão dos processos em andamento nesta Corte Superior, uma vez que a controvérsia foi afetada à sistemática dos recursos repetitivos (Tema Repetitivo 1098), ocasião em que a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+
+    3. A grande quantidade de cigarros contrabandeados pelo réu (259.500 maços) justifica o incremento da pena-base, inexistindo direito do subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor (AgRg no REsp n. 1.966.870/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022).
+
+    4. Conforme iterativa jurisprudência do Superior Tribunal de Justiça, a reiterada prática delitiva com a utilização da carteira de habilitação serve como motivação para aplicar, nos termos do art. 92, III, do Código Penal, como efeito da condenação, a inabilitação para dirigir veículo automotor, ainda que o recorrente exerça a profissão de motorista.
+
+    5. Agravo regimental improvido.”
+
+    Colhe-se dos autos que o paciente foi condenado à pena de 04 (quatro) anos de reclusão, em regime inicial aberto, pela prática do crime previsto no artigo 334-A, § 1º, inciso V, do Código Penal. A sentença ainda determinou a substituição da pena privativa de liberdade por uma restritiva de direitos, além da inabilitação para dirigir veículo locomotor.
+
+    Em sede de apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo apenas para redimensionar a pena do paciente para 03 (três) anos de reclusão.
+
+    Irresignada, a defesa interpôs recurso especial, cujo provimento foi negado pelo Superior Tribunal de Justiça.
+
+    Contra esse decisum, foi interposto agravo regimental, o qual restou desprovido nos termos da ementa supratranscrita.
+
+    Sobreveio a presente impetração, na qual a defesa aponta constrangimento ilegal consubstanciado na não aplicação do artigo 28-A do Código de Processo Penal e na dosimetria da pena.
+
+    Aduz que “não se observa óbice à oferta do acordo de não persecução penal aos processos com denúncia recebida antes da data da vigência da Lei n. 13.964/2019”.
+
+    Alega, também, que “o aumento da pena-base do Paciente em 1 ano, acima do mínimo legal, ultrapassa a razoabilidade”.
+
+    Ainda, quanto à pena de inabilitação para dirigir veículo, defende que “em razão do princípio da individualização da pena, não se aplica ao Paciente que é motorista profissional, porquanto inviabiliza o exercício de sua atividade laborativa”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “ANTE O EXPOSTO, a Defensoria Pública da União postula seja conhecido o presente writ e concedida a ordem de habeas corpus para: (a) declarar a ilegalidade do acórdão do Superior Tribunal de Justiça e determinar a intimação do Ministério Público para oferecer acordo de não persecução penal ao Paciente JUVENAL PEREIRA SANTOS, já que preenchidos os requisitos legais do art. 28-A do Código de Processo Penal; ou, subsidiariamente, para (b) reformar a dosimetria penal, na primeira fase, com a redução proporcional do patamar de aumento da circunstância judicial das consequências do crime; (c) afastar a pena de inabilitação para conduzir veículo automotor, na forma do artigo 92, III, do Código Penal.”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] A despeito das razões apresentadas, a parte agravante não trouxe argumentos capazes de reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos, in verbis (e-STJ fls. 485/490):
+
+    [...]
+
+    De fato, a conclusão adotada pela Corte de origem está em consonância com o entendimento do Superior Tribunal de Justiça de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, revela-se incompatível com o propósito do instituto quando já recebida a denúncia e encerrada a prestação jurisdicional nas instâncias ordinárias, como ocorreu no presente feito (AgRg no AREsp n. 1.983.450/DF, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 24/6/2022) (AgRg no REsp n. 1.970.975/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/8/2022, DJe de 29/8/2022.).
+
+    Ademais, o fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal (HC 185.913) não implica a suspensão dos processos em andamento nesta Corte Superior, uma vez que a controvérsia foi afetada à sistemática dos recursos repetitivos (Tema Repetitivo 1098), ocasião em que a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+
+    Outrossim, como destacado na decisão agravada, a grande quantidade de cigarros contrabandeados pelo réu (259.500 maços) justifica o incremento da pena-base, inexistindo direito do subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor (AgRg no REsp n. 1.966.870/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022).
+
+    Por fim, conforme iterativa jurisprudência do Superior Tribunal de Justiça, a reiterada prática delitiva com a utilização da carteira de habilitação serve como motivação para aplicar, nos termos do art. 92, III, do Código Penal, como efeito não automático da condenação, a inabilitação para dirigir veículo automotor, ainda que o recorrente exerça a profissão de motorista. [...]”
+
+    Deveras, cumpre destacar que esta Corte possui precedentes no sentido da inaplicabilidade do acordo de não persecução penal após o recebimento da denúncia, in verbis:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. PROCESSUAL PENAL. CONTRABANDO. CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. PRECEDENTES. AÇÃO PENAL SENTENCIADA. MOMENTO PARA PROPOSITURA DO ACORDO DE NÃO PERSECUÇÃO PENAL: IMPOSSIBILIDADE APÓS SENTENÇA CONDENATÓRIA. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (HC 216.849-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 23/8/2022)
+
+    Agravo regimental em recurso ordinário em habeas corpus. Penal e Processo Penal. Condenação pela prática do crime descrito no art. 33, § 4º, da Lei nº 11.343/06. Pretendida aplicação retroativa da norma que estabeleceu o ANPP (acordo de não persecução penal). Inviabilidade. Sentença condenatória em grau de recurso. Agravo não provido. 1. “O acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia’” (HC nº 191.464/SC-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 26/11/20). 2. Agravo não provido. (RHC 201.228-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 16/3/2022)
+
+    RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE FURTO. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CÓDIGO DE PROCESSO PENAL). INVIABILIDADE DE COMPOSIÇÃO ENTRE AS PARTES APÓS O RECEBIMENTO DA DENÚNCIA. FINALIDADE DO INSTITUTO: EVITAR O PROCESSO-CRIME. RECURSO ORDINÁRIO A QUE SE NEGA PROVIMENTO. (RHC 200.310-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 22/10/2021)
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. ACORDO DE NÃO PERSECUÇÃO PENAL. INAPLICABILIDADE. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AGRAVO REGIMENTAL DESPROVIDO. 1. A jurisprudência desta Corte firmou-se no sentido de que o acordo de não persecução penal (ANPP), introduzido pela Lei 13.964/2019, esgota-se na fase pré-processual, não sendo possível aplicá-lo ao presente feito. Precedentes. 2. O relator pode decidir monocraticamente pedido ou recurso manifestamente inadmissível, improcedente, prejudicado ou contrário à jurisprudência dominante ou a Súmula desta Corte, nos termos do art. 557, caput, do CPC e do art. 21, § 1º, do RISTF. Precedentes. 3. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico. 4. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe à alegação genérica de que a questão em debate é dotada de repercussão geral. 5. Agravo regimental desprovido. (ARE 1.254.952-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 18/11/2021)
+
+    De outro lado, no que tange à dosimetria, verifico que o Superior Tribunal de Justiça consignou que “a grande quantidade de cigarros contrabandeados pelo réu (259.500 maços) justifica o incremento da pena-base”.
+
+    Assim, como se depreende da fundamentação da decisão do juízo a quo, a dosimetria da pena foi realizada com base em fatos e elementos existentes no caso in concreto.
+
+    Deveras, cumpre ressaltar que esta Corte sufraga o entendimento de que o habeas corpus é a via inadequada para um juízo de ponderação sobre a suficiência das circunstâncias judiciais valoradas pelas instâncias antecedentes para majorar a pena-base. Nessa linha, in verbis:
+
+    RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. TRÁFICO DE ENTORPECENTE. DOSIMETRIA DA PENA BASE. LIMITES INSTRUTÓRIOS DO HABEAS CORPUS. 1. Elementos concretos para a fixação da pena base imposta ao Paciente, entre os quais a culpabilidade, a quantidade e a natureza do entorpecente apreendido, não se mostra juridicamente desproporcional a pena-base de reclusão mantida nas instâncias antecedentes. 2. Não se presta o habeas corpus para ponderar, em concreto, a suficiência das circunstâncias judiciais invocadas pelas instâncias antecedentes para a majoração da pena-base. Precedentes. 3. Recurso ao qual se nega provimento. (RHC 132.361, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 22/4/2016)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. DOSIMETRIA DA PENA. CULPABILIDADE CONSIDERADA ACENTUADA. REVISÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício na decisão que deixa de reconhecer excesso na fixação da pena. Hipótese em que as instâncias ordinárias concluíram que “a culpabilidade do réu refoge à esfera normal dos delitos da espécie”. 3. Não há como empreender juízo exato da correspondência entre o aumento da pena e a quantidade de circunstâncias judiciais desfavoráveis, visto que a exasperação não deriva, de modo automático, da expressividade numérica dessas particularidades. 4. Agravo regimental desprovido. (HC 130.760-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 22/4/2016)
+
+    Com efeito, há que se reconhecer que a dosimetria da pena é matéria sujeita a certa discricionariedade judicial, sujeita à revisão apenas em casos de flagrante teratologia, ilegalidade ou abuso de poder. Nesse sentido o HC nº 132.475, de relatoria da Min. Rosa Weber, Primeira Turma, DJe de 23/8/2016:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. FIXAÇÃO DA PENA-BASE. AFASTAMENTO DA MINORANTE DO ARTIGO 33, § 4º, DA LEI 11.343/2006. 1. Contra a denegação de habeas corpus por Tribunal Superior prevê a Constituição Federal remédio jurídico expresso, o recurso ordinário. Diante da dicção do art. 102, II, a, da Constituição da República, a impetração de novo habeas corpus em caráter substitutivo escamoteia o instituto recursal próprio, em manifesta burla ao preceito constitucional. 2. A jurisprudência deste Supremo Tribunal Federal no sentido de que “não se conhece de habeas corpus em que se reitera a pretensão veiculada em writ anteriormente impetrado” (HC 112.645/TO, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012). 3. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Pertinente à dosimetria da pena, encontra-se a aplicação da causa de diminuição da pena objeto do § 4º do art. 33 da Lei 11.343/2006. 4. Na hipótese, adequada a exasperação da pena-base acima do mínimo legal dada 'a expressiva quantidade de droga apreendida – 57 kg de maconha'. 5. A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a constatação de o paciente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demandaria o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. 6. Agravo regimental conhecido e não provido.
+
+    Demais disso, em relação ao pleito de que seja afastado o efeito da condenação consistente na inabilitação para conduzir veículo automotor, impende consignar que a matéria ora discutida não versa sobre o direito de locomoção do paciente. Destarte, esclareço que o objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, art. 5º, LXVIII), não cabendo sua utilização para examinar questões alheias à liberdade de locomoção, conforme entendimento pacificado neste Tribunal:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS . PENAL. ROUBO MAJORADO. QUESTIONAMENTO RESTRITO À PENA DE MULTA. INEXISTÊNCIA DE COAÇÃO À LIBERDADE DE LOCOMOÇÃO. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. (HC 217.822-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 31/8/2022)
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS . PENAL E PROCESSUAL PENAL. CRIME DE CONTRABANDO. ARTIGO 334-A DO CÓDIGO PENAL. PENA RESTRITIVA DE DIREITO CONSUBSTANCIADA EM PRESTAÇÃO PECUNIÁRIA. ALEGADA DESPROPORCIONALIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. INEXISTÊNCIA DE ATO CONCRETO, ATUAL OU IMINENTE DE AMEAÇA OU RESTRIÇÃO ILEGAL DO DIREITO DE LOCOMOÇÃO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. REITERAÇÃO DAS RAZÕES. AGRAVO REGIMENTAL DESPROVIDO. 1. O objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, artigo 5º, LXVIII), não cabendo sua utilização quando não demonstrada a existência de fatos aptos a tolherem a liberdade de ir e vir do paciente. 2. In casu, o paciente foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial aberto, pela prática do crime tipificado no artigo 334-A, § 1º, IV, do Código Penal, tendo sido a pena privativa de liberdade substituída por pena restritiva de direitos, consistente em prestação de serviços à comunidade e prestação pecuniária no valor de 10 (dez) salários mínimos. 3. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos. 4. O writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal. 5. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 9/5/2017; HC 122.904-AgR, Primeira Turma Rel. Min. Edson Fachin, DJe de 17/5/2016; RHC 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015. 6. Agravo regimental DESPROVIDO. (HC 182.387-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 18/6/2020)
+
+    HABEAS CORPUS. DESCAMINHO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. CONDIÇÃO DE PROCEDIBILIDADE DA PERSECUÇÃO PENAL. PRESCINDIBILIDADE. PENA ACESSÓRIA. SUSPENSÃO DA HABILITAÇÃO PARA DIREÇÃO DE VEÍCULO AUTOMOTOR. INEXISTÊNCIA DE AMEAÇA OU CONSTRANGIMENTO ILEGAL À LIBERDADE DE LOCOMOÇÃO. 1. Os crimes de descaminho, cuja consumação pressupõe a transposição das barreiras alfandegárias sem o recolhimento dos tributos devidos pelo produto, prescindem da constituição definitiva do crédito tributário. Vulnerados, a partir dessa conduta, os interesses econômicos do Estado, o produto nacional e a economia do País, o processamento dos autos na esfera penal independe da apuração do valor destinado à arrecadação tributária. Precedentes. 2. Nos termos do art. 654 do Código de Processo Penal, a petição inicial de habeas corpus conterá a declaração da espécie de constrangimento ilegal ao direito de locomoção, ou, em caso de simples ameaça de coação, as razões em que se funda o seu temor. 3. A pena acessória de inabilitação para dirigir está devidamente justificada pela decisão impetrada. 4. Ordem denegada. (HC 129.302, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 21/11/2016)
+
+    Assim, diante da inexistência de teratologia ou flagrante ilegalidade, não se cuida de hipótese de concessão da ordem.
+
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Brasília, 7 de dezembro de 2022.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
