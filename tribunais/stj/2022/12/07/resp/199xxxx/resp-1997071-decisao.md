@@ -1,0 +1,26 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  Regional Federal da 5ª Região na  Apelação Criminal n. 0811683-78.2019.4.05.8400.
+O recorrido foi condenado, pelo crime do art. 171, § 3º, do Código Penal, em continuidade delitiva, à sanção de 3 anos e 4 meses de reclusão mais 135 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituídas por duas restritivas de direitos.
+O Parquet federal aponta violação dos arts. 59, 68, c/c o art. 171, § 3º, e 71, todos do Código Penal. Em síntese, pleiteia a reavaliação das vetoriais culpabilidade, personalidade e consequências do delito, para considerá-las desfavoráveis ao réu, com reflexos na pena imposta.
+O  Ministério  Público  Federal , em parecer doSubprocurador-Geral da República José Elaeres Marques Teixeira, às fls. 1.547-1.556, opinou  pelo  provimento do recurso especial.
+Decido.
+I. Art. 59 do CP
+A pena privativa de liberdade imposta ao acusado foi examinada pela Corte de origemnos termos a seguir (fls. 1.494-1.495):
+ ..
+Relativamente à dosimetria, identifica-se que a sentença, de forma correta, ao analisar as circunstâncias judiciais do art. 59 do Código Penal, considerou como desfavorável ao réu as circunstâncias do crime, pelo fato de o acusado ter ludibriado terceiro, tendo ainda utilizado seus dados para a prática do ilícito, ao ponto de este terceiro responder a processo criminal.
+Com relação à culpabilidade, diferentemente do requerido no recurso do Ministério Público, esta deve ser considerada neutra, pois a condição de servidor público do acusado, com violação de dever inerente ao cargo, já foi considerada na segunda fase da dosimetria, quando da aplicação da agravante prevista no art. 61, II, "g" do Código Penal.
+No concernente à personalidade, não foi possível identificar qualquer elemento que justificasse o aumento da pena-base, sendo insuficiente para tanto, a postura demonstrada em audiência- que se manteve dentro do seu direito de autodefesa- e os indícios de ocultação de patrimônio- que sequer foram comprovados.
+Da mesma forma, a vetorial relativa às consequências do crime deve ser considerada como neutra. É que, apesar do valor global do prejuízo ao ente público se mostrar de considerável monta, não excede o que normalmente alcançado em casos similares. Além disso, no caso, cabe a consideração de que o montante só foi atingido com a realização de vários saques menores, efetuados durante um longo período de tempo, o que está levando à incidência da majorante relativa à continuidade delitiva no patamar máximo.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto.
+Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelos oito fatores indicativos relacionados no caput do art. 59 do Código Penal, os quais não deve se furtar de analisar individualmente. São eles: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime, assim como comportamento da vítima.
+Na hipótese, a Corte de origem manteve a valoração favorável das vetoriais culpabilidade, personalidade e consequências do crime.
+Com efeito,a avaliação desfavorável da vetorial culpabilidade, baseada na circunstância de ser o acusado servidor público, concomitantemente com o reconhecimento da agravante prevista no art. 61, II, "g", do Código Penal, implicaria indevido bis in idem. Em que pese o precedente indicado nas razões do recurso especial, não identifico similitude fática suficiente para que fosse aplicado ao caso concreto.
+É inviável a avaliação desfavorável da vetorial personalidade. O comportamento inadequado do réu na audiência eos indícios de ocultação do patrimônio-por se tratarem, em tese, de ilícitos autônomos- não devem ser considerados para fins de verificação da personalidade do agente.
+No tocante às consequências, o STJ tem entendimento de ser possível avaliar negativamente a referida vetorial a partir da constatação do prejuízo imposto à autarquia.
+No entanto, ocaso dos autos inviabiliza a avaliação adequada deste parâmetro. Atribuiu-se ao acusado a prática de 157 ações delituosas. O valor apontado pelo recorrente, de R$ 98.708,05, se refere à soma detodos os ilícitos. As emissões das ordens bancárias indevidas de benefícios, aparentemente, eram de pequeno valor.
+Nesse caso específico, não seria proporcional tomar o valor global de todos os pagamentos ilícitos como referência paranegativar a vetorial de apenas um dos crimes e, sobre este, fazer incidira exasperação máximarelativa àcontinuidade delitiva.
+II. Dispositivo
+À  vista  do  exposto,  nego provimento aorecurso especial.
+Publique-se  e  intimem-se.
