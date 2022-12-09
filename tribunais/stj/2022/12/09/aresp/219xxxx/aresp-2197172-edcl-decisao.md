@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RICARDO JOSE QUEIROZ DA SILVA, à decisão de fls. 238/239, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Quando do protocolo do recurso especial, o recorrente anexou a documentação comprobatória do recolhimento de custas que possuía no momento, qual seja, o agendamento feito no Banco para pagamento da GRU.
+Insatisfeito com o documento juntado, o recorrente foi intimado pela Corte Su- perior para demonstrar o efetivo pagamento, o que foi prontamente cumprido através da juntada do documento de fls. 232.
+ ..
+Note-se que o documento acima mencionado possui como descrição: COM- PROVANTE DE PAGAMENTO DE BOLETO, detendo ainda as referências de data do pagamento (28/03/2022), valor do boleto: R$ 223,30 e também OPERAÇÃO EFETUADA em 28/03/2022 às 17:23:24 (fl. 243).
+Dessa forma, o ora Embargante demonstrou, de forma irrefutável, o atendi- mento ao despacho de fls. 230, com a juntada do comprovante de pagamento acima colacionado e fornecido pelo Banco Itaú.
+Ao que parece, não foi observado pela Presidência desta Corte a juntada pelo Recorrente de tal documento, equívoco que merece ser corrigido, diante da compro- vação de efetiva realização de preparo recursal.
+DO DESRESPEITO AO ARTIGO 1.007, §4º DO CPC
+Além da não observância quanto a juntada de documento comprobatório de pagamento de custas recursais por parte do Recorrente, deixou a Presidência desta Corte de atender o que preconiza o §4º, do artigo 1.007 do Código de Normas, que oportuniza ao recorrente que não efetuar o correto recolhimento do preparo no ato de interposição do recurso, ser intimado para realizar o recolhimento em dobro (fl. 244).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, no ato da interposição, o recurso especial não foi instruído com o comprovante do efetivo pagamento, tendo sido juntado apenas o comprovante de agendamento do preparo (fl. 144).
+Percebida, na origem, a irregularidade, a parte foi intimada para sanar o vício (fls. 151/154), contudo, não regularizou, uma vez que juntou novamente o comprovante de agendamento do preparo (fls. 156/157).
+O recurso encontra-se deserto, pois "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Cumpre consignar que intimada a parte nos termos do art. 1.007, §§ 2º, 4º ou 7º, do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada na origem e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice. No caso, a certidão de intimação de fl. 228 não teve efeito prático.
+Veja-se que foi dada, nesta Corte, equivocadamente, oportunidade à parte para regularizar o vicio e, por isso, constou na decisão ora embargada "torno sem efeito a certidão de fls. 228, tendo em vista a preclusão consumativa decorrente da intimação pelo tribunal de origem para regularização do preparo".
+Desse modo, na hipótese, quando da apresentação da comprovante de fl. 232, houve a preclusão da prática do ato, não podendo ser considerado para efeitos de quitação da verba. Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
