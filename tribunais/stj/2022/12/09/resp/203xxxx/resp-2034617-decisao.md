@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa é a seguinte:
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO COMUM. AVISO- PRÉVIO INDENIZADO. ATIVIDADE ESPECIAL. AGENTES NOCIVOS RUÍDO E HIDROCARBONETOS. MÉTODO DE AFERIÇÃO.NÍVEIS DE CONCENTRAÇÃO DOS AGENTES QUÍMICOS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO INSUFICIENTE. AVERBAÇÃO.
+1. O aviso prévio indenizado, sobre o qual não incide contribuição previdenciária, deve ser anotado em CTPS e computado para todos os fins, inclusive como tempo de serviço, nos termos do art. 487, §1º, da CLT.
+2. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+3. Até 28-04-1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, admitindo-se qualquer meio de prova (exceto para ruído e calor); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, sendo necessária a comprovação da exposição do segurado a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, através de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+4. A exposição a hidrocarbonetos aromáticos e a ruído em níveis superiores aos limites de tolerância vigentes à época da prestação do labor enseja o reconhecimento do tempo de serviço como especial.
+5. Tratando-se de agente nocivo ruído, quando não houver indicação da metodologia, ou for utilizada metodologia diversa daquela da FUNDACENTRO, o enquadramento deve ser analisado de acordo com a aferição do ruído que for apresentada no processo. Precedentes desta Corte Regional.
+6. Os riscos ocupacionais gerados pela exposição a agentesquímicos não dependem, segundo os normativos aplicáveis, de análise quanto ao grau ou intensidade de exposição no ambiente de trabalho para a configuração da nocividade e reconhecimento da especialidade do labor para fins previdenciários.
+7. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer- se a especialidade do tempo de labor correspondente.
+8. Não implementados os requisitos à aposentadoria, tem o segurado direito à averbação do tempo de serviço reconhecido judicialmente.
+Nos Embargos de Declaração (fls. 355-362, e-STJ), o recorrente assim justificou a ocorrência de omissão:
+À evidência, porém, a decisão padece de omissão quanto ao fato de que a verba recebida pelo aviso prévio indenizado, assim como todos os demais desembolsos indenizatórios percebidos pelo segurado, estão excluídos do conceito de salário-de-contribuição, conforme se denota do disposto no art. 28, §9º, alínea e, da Lei 8.212/91, não podendo, por conseguinte, ser computado como tempo de contribuição.
+Os aclaratórios foram rejeitados conforme ementa (fl. 228, e-STJ) abaixo transcrita:
+EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO. PREQUESTIONAMENTO. OMISSÃO. OCORRÊNCIA. COMPLEMENTAÇÃO DO JULGADO. CABIMENTO.
+1. Os embargos de declaração pressupõem a presença de omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. Nos termos do julgamento do Tema 250, da TNU, e interpretando a legislação trabalhista e previdenciária à luz das garantias constitucionais, o aviso prévio indenizado deve ser computado para todos os  ns, inclusive como tempo de serviço, nos termos do art. 487, §1º, da CLT, ainda que ausente contribuição previdenciária.
+3. Parcialmente providos os embargos de declaração do INSS apenas para complementação do julgado.
+Inconformada, a autarquia afirma, em seu Recurso Especial, que houve ofensa ao art. 1.022, I e II, do Código de Processo Civil,ao art. 28, § 9º, "e", da Lei 8.212/1991 e ao art. 55 da Lei 8.213/1991.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.11.2022.
+Merece prosperar a irresignação.
+O acórdão recorrido é omisso ao não tratar do tema da eventual incompatibilidade de dispositivo da CLT (tempo de contribuição) com o caráter contributivo da previdência social, questionamento que deveria necessariamente ser abordado para fins de completa e íntegra prestação jurisdicional, pois configura matéria relevante para o deslinde da controvérsia
+Conforme se depreende da leitura dos autos, a Corte regional manteve-se silente quanto à questão ao julgar os Embargos Declaratórios, visto que tão somente registrou resposta protocolar e padrão no sentido de rejeitar o recurso.
+Deve, portanto, a Corte regional integrar sua decisão para contemplar as questões trazidas nos Embargos de Declaração, de modo a tornar pleno o provimento jurisdicional vindicado.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. OFENSA AO ART. 1022, II, DO CPC/2015. AUSÊNCIA DE ANÁLISE DE TESES APRESENTADAS NO AGRAVO DE INSTRUMENTO. INCIDÊNCIA DO ART. 1057 DO CPC/2015 E EXCESSO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA COMPLEMENTAÇÃO DO JULGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o provimento do recurso especial por contrariedade ao art. 1022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir a anulação ou reforma do julgado; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+2. In casu, o Tribunal de origem não enfrentou as matérias suscitadas nas razões do agravo de instrumento, mesmo após a oposição de embargos de declaração, em que pese sua relevância para a solução da controvérsia, restando configurada a ofensa ao art. 1022, II, do CPC/2015, por negativa de prestação jurisdicional, devendo os autos serem devolvidos para a complementação do julgado, a fim de que sejam apreciadas a tese de inaplicabilidade do art. 535 do CPC/2015, em razão da regra prevista no art. 1057 do mesmo diploma, bem como sobre a tese de excesso de execução.
+3. Agravo interno não provido.
+(AgInt no REsp 1.913.400/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/9/2021)
+Diante do exposto, dou provimento ao Recurso Especial e determino o retorno dos autos à origempara novo julgamento dos Embargos de Declaração, a fim de que o Tribunal a quo se manifeste especificamente acerca da omissão apontada.
+Publique-se.
+Intimem-se.
