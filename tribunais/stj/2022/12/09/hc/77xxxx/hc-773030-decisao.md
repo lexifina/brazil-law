@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Daniel Ferreira da Silva - cumprindo pena nos autos da Execução Penal n. 0011781-37.2016.8.26.0041, em curso na Vara de Execuções Penais da comarca de Bauru/SP - DEECRIM 3ª RAJ -, apontando-se como autoridade coatora a Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que negou provimento ao Agravo de Execução Penal n.0004085-82.2022.8.26.0026, nos termos da seguinte ementa (fl. 41):
+Ementa - Agravo em execução penal da Defesa - Livramento condicional - Decisão que revogou o livramento condicional, diante de condenação definitiva pela prática de novo crime no curso do benefício - Falta disciplinar de natureza grave bem reconhecida, a teor do artigo 52, da LEP - Interrupção do prazo para a obtenção da progressão de regime e perda dos dias remidos - Consequências legais da prática de falta grave - Recurso de agravo em execução desprovido.
+No presente writ, alega-se a não configuração de falta grave em razão do cometimento de crime durante o livramento condicional, buscando-se, em liminar e no mérito, a reforma da decisão que condenou o sentenciado pela prática de falta disciplinar grave por cometimento de crime durante o livramento condicional, com o consequente afastamento da perda dos dias remidos e interrupção dos lapsos para novos benefícios (fls. 4/11).
+Indeferi a pretensão de urgência (fls. 48/50).
+Informações prestadas (fls. 56/57 e 61/62).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus, ressaltando, porém,a existência de ilegalidade no acórdão impugnado (fls. 69/74).
+É o relatório.
+No caso dos autos, as instâncias ordinárias concluíramque a prática de novo delito durante o período de prova do livramento condicionalcaracterizafalta grave.
+Contudo, o referido entendimento diverge da orientação desta Corte Superior de Justiça, no sentido de que o cometimento de crime no curso do período de prova do livramento condicional não produz os efeitos inerentes à falta grave, pois a legislação penal prevê efeitos próprios e diversos.
+Em outras palavras, a prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena (REsp n. 1.101.461/RS, Ministra Maria Thereza de Assis Moura, DJe 19/2/2013) -(HC n. 338.702/PR, de minha relatoria, Sexta Turma, DJe 9/12/2015).
+No mesmo sentido, oAgRg no HC n. 572.228/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2020; e oAgRg no HC n. 731.257/MG, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, julgado em 13/9/2022, DJe 16/9/2022.
+Com efeito, na espécie, é possível somente a aplicação do art. 145 da Lei de Execuções Penais, a fim de revogar o benefício do livramento condicional.
+Não é outra a opinião da Subprocuradora-Geral da República Solange Mendes de Souza, para quem adecisão proferida pelo Tribunal de origem contraria o entendimento firmado nessa Corte Superior, no sentido de que não configura prática de falta grave o cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será descontado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, e art. 145 da LEP (fl. 72).
+Ante o exposto, acolhoo parecer econcedo a ordem para, mantendo a revogação do livramento condicional, afastar a anotação do cometimento de falta grave pelo paciente, excluindo, consequentemente, todas as sanções aplicadas em detrimento da homologação da falta.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE CRIME DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA GRAVE E APLICAÇÃO DOS CONSECTÁRIOS LEGAIS. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
