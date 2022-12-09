@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jedian Domingues Gomes (ou Jedian Domingos Gomes) e Gilmar Martins da Silva, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Narram os autos que os pacientes cumprem pena em razão de condenação pela prática dos crimes de tráfico de drogas e associação para o mesmo fim (Ação Penal n. 0002043-32.2016.8.26.0071).
+Alega a impetrante que, a despeito de ambos os pacientes cumprirem, atualmente,pena em regime aberto, oJuízo "a quo" expediu Mandado de prisão, e aguarda o cumprimento do mesmo, para ai sim, ser feito novo calculo de pena na Execução criminal e Eles novamente serem colocados em regime aberto(fl. 5).
+Aduz que existia a execução provisória e cumpriram o lapso temporal para a progressão de regime. Não houve alteração de pena. Não tem porque voltarem presos, para ser feito novo cálculo e nova progressão (fl. 5).
+Postula, ao final, a concessão liminar da ordem, a fim de que se determine novo calculo de pena, sem que os mesmos sejam recolhidos presos para isso. Pois aíse verificará que realmente cumpriram o lapso temporal de suas penas, tendo em vista a presença do "fumus boni iuris" e do "periculum in mora", lhe seja concedida o contra mandado de prisão e determinado novo cálculo de pena, podendo cada um em sua execução, alcançar em liberdade seu regime aberto (fl. 6).
+É o relatório.
+O presente writ não comporta conhecimento, diante da supressão de instância, uma vez que a decisão do Juízo de primeiro grau, que determinou a expedição de mandado de prisão contra os pacientes, não foi objeto de satisfatório debate pelo Tribunal.
+No entanto, analisando detidamente os autos, tenho que o feito comporta concessão de ordem de ofício.
+De início, observo que, solicitadas informações ao Juízo da Execução Penal, este permaneceu inerte (fl. 231), possibilitando a análise das alegações de acordo com a documentação apresentada pela impetranteapenas.
+Ao que se tem dos autos, os pacientes permaneceram custodiados de 26/1/2017 a setembro de 2020. Consta que ambos os réus foram beneficiados com a expedição de alvará de soltura: aJedian foi deferido o regime aberto, cumprido em prisão albergue domiciliar (fl. 185); e a Gilmar, o livramento condicional em 21/10/2020 (fls. 204/205).
+Apesar de não terem os pacientes sido condenados em regime inicial diverso do fechado, entendo que a situação atrai o entendimento consolidado na Resoluçãon. 474/2022 do Conselho Nacional de Justiça, que dispõe: transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante 56.
+Isso porquenão podem os sentenciados, que cumpriram boa parte da pena em segregação cautelar, o suficiente para alcançarem a progressão de regime prisional, serem custodiados para, só então, pleitearem os benefícios da execução penal, em especialdiante da situação do Sistema Prisional brasileiro.
+A propósito:AgRg no RHC n. 155.785/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021.
+Em face do exposto, não conheço da impetração. Concedo, entretanto, ordem de habeas corpus de ofício, para garantir aos pacientes odireito de serem intimados a iniciar o cumprimento da pena no regime adequado, a ser fixado pelo Juízo da execução, diante da análise e decisão a respeito da situação carcerária de cada um, sem que para tanto seja expedido mandado de prisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. CONDENAÇÃO DEFINITIVA PROFERIDA QUANDO OS SENTENCIADOS SE ENCONTRAVAMEM LIBERDADE, GOZANDO DE BENEFÍCIOS DA EXECUÇÃO EM REGIME SEMIABERTO. EXPEDIÇÃO DE MANDADO DE PRISÃO E GUIA DE EXECUÇÃO DEFINITIVA. DEBATE DO TEMA PELO TRIBUNAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. CONHECIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DO ENTENDIMENTO FIXADO NA RESOLUÇÃO N. 474/2022 DO CNJ. POSSIBILIDADE, DIANTE DAS PECULIARIDADES DO CASO CONCRETO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONCESSÃO DE ORDEM DE OFÍCIO QUE SE IMPÕE.
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
