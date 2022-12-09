@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MONGERAL AEGON SEGUROS E PREVIDÊNCIA S.A. (MONGERAL) contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, de relatoria daDesª CRISTINA TEREZA GAULIA, assim ementado:
+Agravo de instrumento. Execução provisória de sentença. Decisão vergastada que determinou que dois terços do valor dos honorários advocatícios fixados em acordo celebrado entre as partes sejam destinados ao antigo patrono da parte autora, este destituído pelos autores da ação de origem. Inconformismo da ré/agravante. Antigo patrono, que patrocinou o processo de conhecimento, que foi destituído pela autora antes da interposição do recurso de apelação. Direito autônomo de executar os honorários sucumbenciais nos próprios autos em que tal verba foi fixada, que pertence apenas ao causídico regularmente constituído nos autos, nos termos do art. 23 da Lei n.º 8.906/94. Precedentes do Superior Tribunal de Justiça. Acordo entre as partes que se revela legítimo entre partes maiores e capazes e que não pode ser alterado de ofício pelo juiz em favor de terceiro.Incabível o arbitramento proporcional da verba honorária em favor do antigo patrono nos autos do processo originário, devendo o mesmo deduzir tal pretensão em demanda própria. Reforma da decisão. Provimento do recurso (e-STJ, fl. 25).
+Os embargos de declaração opostos por MONGERALforam rejeitados (e-STJ, fls. 39/44).
+Irresignada, MONGERAL interpôs recurso especial, com base no art. 105, III, alínea a, da CF, alegando violação dos arts. 112, 113, § 1º, III, 138, 840 do CC, 1.022, II, do CPC,ao sustentar (1)a negativa da prestação jurisdicional, ao se recusar o Tribunal Local a se manifestar sobre parte dos artigos tidos por violados, quais sejam,arts. 112, 113, § 1º, II, III, do CC, na interpretação do acordo firmado entre as partes, que possuía a intenção do pagamento de todas as verbas executadas, dentre elas a integralidade dos honorários sucumbenciais; e,(2) que o acordo firmado entre as partes tinha a intenção de englobar a integralidade das verbas executadas, dentre as quais,os honorários sucumbenciais(e-STJ, fls. 46/57).
+Foram apresentadas as contrarrazões (e-STJ, fls. 365/368).
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 370/373).
+Nas razões do presente agravo, MONGERAL alegou que impugnou todos os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 390/397).
+Não foi apresentada contraminuta (e-STJ, fl. 403).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da alegada necessidade de retorno dos autos ao Tribunal por ofensa aoart. 1.022,II,do CPC
+No que se refere à violação doart. 1.022, II,do CPC, MONGERAL alegou genericamente a ofensa aocitadoartigo, sem demonstrar de que forma houve a vulneração aoreferidodispositivo, sem indicar quais pontos do acórdão foram omissos, contraditórios ou obscuros.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial, porquanto não permite a exata compreensão da controvérsia, incidindo, pois, à espécie, o óbice da Sumula nº 284 do STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESPEJO POR FALTA DE PAGAMENTO. LOCAÇÃO DE IMÓVEL RESIDENCIAL. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 284 DO STF, POR ANALOGIA. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. PREMISSA DE FATO FIXADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO SUMULAR 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há como acolher a violação ao art. 535 do CPC/1973, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incide, no caso, o enunciado sumular n. 284 do STF, por analogia.
+ ..
+4. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 771.095/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/8/2016, DJe 30/8/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. SÚMULA Nº 284/STF. AÇÃO INDENIZATÓRIA. CHAMAMENTO AO PROCESSO. OPORTUNIDADE PRECLUSA. NÃO CABIMENTO EM 2º GRAU DE JURISDIÇÃO. FUNDAMENTOS NÃO ATACADOS. SÚMULA Nº 283/STF. LEGITIMIDADE PASSIVA E VALOR INDENIZATÓRIO. INVERSÃO DO JULGADO. REEXAME PROVAS. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp 721.195/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 13/9/2016, DJe 21/9/2016 - sem destaque no original)
+(2) Da suscitada ofensa aos arts. 112, 113, § 1º, III, 138, 840 do CC
+MONGERAL, nas razões de seu recurso nobre, sustentouque o acordo firmado entre as partes tinha a intenção de englobar a integralidade das verbas executadas, dentre as quais, os honorários sucumbenciais.
+O Tribunal de Justiça do Estado do Rio de Janeiro, por seu turno, soberano na análise do conteúdo fático-probatório, concluiu que não se ignora que o antigo patrono tenha direito ao recebimento de honorários advocatícios. Noentanto, houve um acordo, no qual foram incluídos, com a concordância do atual representante, os valores devidos a título de honorários, de modo que o antigo patrono carece de legitimidade para pleitear o pagamento, no âmbito de ação que não mais atua, em razão da sua destituição, nos termos do art. 23 da Lei nº 8.906/1994, ressalvado o direito do antigopatrono pleitear, em ação autônoma, o percentual que entende devido, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Contudo, no dia 02/10/2020, as partes protocolizaram termo de acordo com o objetivo de pôr fim a lide (fl. 114 dos autos de origem).  ..  Em 18/10/2020, o antigo patrono da exequente (Dr. Paulo Cesar Ramos Manhães), peticionou (fl. 125 dos autos de origem) informando que teria patrocinado todo o processo de conhecimento (nº 0314042- 85.2014.8.19.0001) até a revogação do mandato em 20/07/2018 (fl. 164 dos autos de origem), não tendo contudo recebido nenhum pagamento a título de honorários advocatícios, embora tenha havido condenação de honorários sucumbenciais em sentença. Assim, requereu o rateio na proporção de dois terços dos honorários pactuados no acordo.  .. A controvérsia está em definir se os honorários advocatícios pactuados entre executado e exequente devem ser rateados entre o antigo e o atual patrono.  .. Sublinhe-se que não se ignora que o antigo patrono tenha direito ao recebimento dos honorários advocatícios, tendo em vista que a destituição dos poderes que lhe foram anteriormente outorgados implica deposição apenas do poder de representação e não da verba honorária pelo trabalho até então desempenhado.No entanto, considerando a celebração de acordo, no qual foram incluídos, com concordância do atual representante da autora, os valores devidos a título de honorários, o antigo patrono não tem legitimidade para pleitear o pagamento no âmbito da ação ordinária na qual não mais atua em razão de sua destituição, nos termos do art. 23 da Lei nº 8.906/94 (e-STJ, fls. 27 e 29/31)
+Verifica-se que ofundamentode que houve um acordo, no qual foram incluídos, com a concordância do atual representante, os valores devidos a título de honorários, de modo que o antigo patrono carece de legitimidade para pleitear o pagamento, no âmbito de ação que não mais atua, em razão da sua destituição, nos termos do art. 23 da Lei nº 8.906/1994não foiimpugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Neste sentido, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.  ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+O recurso, portanto, não pode ser conhecido.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO.VIOLAÇÃO DOART. 1.022, II,DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. HONORÁRIOS ADVOCATÍCIOS. ANTIGO PATRONO. ILEGITIMIDADE. ART. 23 DA LEI Nº 8.904/1994. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
