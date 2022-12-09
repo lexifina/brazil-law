@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especialcontra acórdão assim ementado:
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. PRELIMINAR. DECADÊNCIA DO DIREITO DE IMPETRAÇÃO. REJEITADA. CONCURSO PÚBLICO. MUNICÍPIO DO SALVADOR. ENFERMEIRO SAUEMF. CANDIDATO APROVADO EM CADASTRO RESERVA. CONTRATAÇÃO PRECÁRIA DURANTE O PRAZO DE VALIDADE DO CONCURSO. PRETERIÇÃO. COMPROVAÇÃO. PRAZO DE VALIDADE DO CERTAME EXPIRADO. IMEDIATA CONVOCAÇÃO. SEGURANÇA CONCEDIDA.
+1. Rejeita-se a preliminar de decadência do direito de impetração, uma vez que a fluência do prazo decadencial para a impugnação da ausência de nomeação de candidato em concurso público somente se inicia com o esgotamento do prazo de validade do certame, consoante entendimento consolidado do STJ.
+2. Com amparo na jurisprudência dos Tribunais Superiores, esta Seção Cível de Direito Público tem se manifestado de forma majoritária pela existência do direito líquido e certo à nomeação e posse, em favor dos candidatos classificados fora do número de vagas disponibilizadas no Edital (cadastro reserva), quando comprovada, dentre outras causas, a desistência ou eliminação de candidatos mais bem posicionados, ou quando cabalmente demonstrada a contratação precária para o preenchimento de vagas efetivas durante a vigência do prazo de validade do certame, em número suficiente de contratados para alcançar a classificação do candidato que ingressou em Juízo.
+3. Neste sentido, comprovada a existência de 27 contratações precárias para o cargo de Enfermeiro SAUEMF, ocorridas após a homologação do resultado do concurso, cujas vagas deveriam ser ocupadas pelos concursados, assegura-se o direito líquido e certo à imediata convocação para a realização dos exames pré-admissionais, e a consequente nomeação e posse, em favor da candidata classificada na 2212 posição, distante 25 colocações do último candidato convocado pela Administração Pública.
+SEGURANÇA CONCEDIDA.
+Embargos de Declaração rejeitados (fls. 1.491-1.496, e-STJ).
+No Recurso Especial (fls. 1.503-1.520, e-STJ), alega-se violação doart. 1.022 c/c 489 do CPC; do art. 41 da Lei 8.666/1993; do art. 4º da LINDB; do art. 37, II e IV, da CF/1988; dos arts. 1º e 6º,§ 1º, da Lei 12.016/2009; do art. 5º, LXIX, da CF/1988; do art. 405 do CPC/2015 e do art. 364 do CPC/1973.
+Contrarrazões às fls. 1528-1562, e-STJ.
+O Recurso foi inadmitido na origem, o que motivou a interposição do Agravo de fls. 1650-1656, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.11.2022.
+O Recurso Especial foi inadmitido na origem pelos seguintes fundamentos: a) ausência de violação dos arts. 1.022, II, 489 e 927, do CPC/2015; b) impossibilidade de invocação de violação de normas constitucionais em Recurso Especial; c) Súmula 83/STJ. No Agravo, a parte deixoude impugnar os dois últimos fundamentos.
+No entendimento da Corte Especial do Superior Tribunal de Justiça e na esteira da Súmula 182/STJ, o agravante deve impugnar todos os fundamentos da decisão agravada, pois "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão" (EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+Ademais, "se a inadmissão teve amparo no óbice descrito na Súmula 83/STJ, deve a parte apontar precedentes deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão agravada, procedendo ao cotejo analítico entre eles para demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou, na hipótese de distinção dos casos, comprovar a inaplicação ao feito do posicionamento exposto no decisum."(AgInt no AREsp 1723249/PR, Rel. Ministro Og Fernandes, Segunda Turma, jDJe 28.6.2021)
+Ante o exposto,não conheçodo Agravo.
+Publique-se.
+Intimem-se.
