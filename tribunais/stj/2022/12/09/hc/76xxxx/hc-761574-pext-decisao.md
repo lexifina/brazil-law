@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de extensão da ordem concedida ao paciente Jerisson Washington Nicolau da Silva Santos(fls. 78/82)ora formulado em benefício do corréu Bruno Reis Cardoso Xavier(fls. 88/389).
+A defesa sustenta que o requerentepossui as mesmas condições fáticas e processuais do paciente, poisfora condenado pelo mesmo fato e a mesma pena que o paciente, sendo que ambos tiveram idênticas em sentença, ou seja 5 anos mais multa(fl. 89). Nesses termos, pretende a extensão do benefício concedido, ou seja, a revogação da prisão preventiva, com a imposição de medidas cautelares alternativas.
+É o relatório.
+Assiste razão à defesa.
+Conforme se vê às fls. 24/25, o Juízo de primeiro grau condenou ambos os réus em razão da prática do crime de tráfico de drogas, em idênticas condições,ao cumprimento da pena de 5 anos de reclusão, inicialmente em regime fechado, além do pagamento de 500 dias-multa, negando o direito de recorrer em liberdade, registrando queos requisitos da prisão preventiva estão presentes, sobretudo a garantia da ordem pública e aplicação da lei penal, motivo pelo qual mantenho a prisão preventiva já decretada.Recomendem-se os réus na prisão em que se encontram recolhidos por força desta sentença e expeçam-se guias de recolhimento provisória, caso haja recurso por qualquer das partes.
+Dessa forma, como já dito por ocasião da concessão da ordem ao pacienteJerisson Washington Nicolau da Silva Santos, o Magistrado negou  ..  o direito de recorrer em liberdade apenas mencionando, genericamente, o disposto no art. 312 do Código de Processo Penal, não indicando nenhum elemento concreto que evidenciasse a real necessidade da custódia.Ora, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, ao decretar ou manter a prisão preventiva, cabe ao julgador vincular o seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie.(fl. 81).
+Assim,pela igualdade de posições pessoais e processuais, há que se estender os efeitos da referida decisão aoora requerente, em observância ao disposto no art. 580 do Código de Processo Penal.
+Ante o exposto,defiro o pedido de extensão para também revogar a prisão preventiva decretada em desfavor deBruno Reis Cardoso Xavier, na Ação Penal n.1500084-72.2022.8.26.0545 (2ª Vara Criminal da comarca de Bragança Paulista/SP), determinando sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem estabelecidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a eventual decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto,nos termos do art. 312 do Código de Processo Penal.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS.TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.SENTENÇA CONDENATÓRIA. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO INIDÔNEA.ORDEM CONCEDIDA A CORRÉU. PEDIDO DE EXTENSÃO. DEFERIMENTO. CORRÉUS EM IDENTIDADE DE SITUAÇÕES. ART. 580 DO CPP. INCIDÊNCIA.
+Pedido de extensão deferido.
