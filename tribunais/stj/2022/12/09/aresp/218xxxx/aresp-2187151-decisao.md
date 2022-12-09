@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. RESSARCIMENTO.RESPONSABILIDADE OBJETIVA. CDC. SUB-ROGAÇÃO. ALEGAÇÃO DE OSCILAÇÃO NA TENSÃO ELÉTRICA. COBERTURA PELO SEGURO.NEXO CAUSAL DEMONSTRADO. RELATÓRIOS TÉCNICOS E SOLICITAÇÃO DE RESSARCIMENTO. VALIDADE. RESOLUÇÃO 414/2010. I. Nos termos do § 6º do art. 37 da CF/88, a requerida, na condição de concessionária de serviços públicos, responde objetivamente por atos de seus agentes, cumprindo-lhe então o dever de indenizar os danos deles decorrentes, sendo irrelevante perquirir-se sobre a existência de culpa, desde que demonstrado o dano e o nexo causal entre este e a conduta, omissiva ou comissiva, praticada. Cuida-se da Teoria do Risco Administrativo. II. Ainda, resta patente a aplicação do Código de Defesa do Consumidor na espécie, pois trata-se de evidente relação de consumo existente entre a concessionária de energia elétrica/apelante e o Condomínio Residencial segurado, cujos direitos, na oportunidade, sub- roga-se a seguradora/apelante. III. No caso dos autos, restou comprovadoo nexo de causalidade entre a conduta da apelada/CELG e os danos noticiados, autorizador do direito da reparação pretendida. IV. Inversão do ônus sucumbencial. APELAÇÃO CÍVEL CONHECIDA E PROVIDA."
+A parte agravante, nas razões do Recurso Especial, sustenta, em síntese:
+(..)17. Ressalta-se Exa., que como informado na peça de bloqueio e nas contrarrazões, não houve comprovação de nexo causal entre a queima dos equipamentos eletrônicos e atos praticados pela Recorrente. Logo resta evidente a necessidade de reforma do acórdão recorrido.
+(..)20. Conforme demonstrado nos autos, nos dias citados pelo Recorrido, nos quais deveriam ter ocorrido os "distúrbios elétricos", não consta nos sistemas da Recorrente qualquer ocorrência de queda de energia ou interrupção ou até de atendimento emergencial.
+21. Além do mais, no tocante as afirmações apresentadas nos "laudos técnicos", tem-se que os mesmos sequer apresentam fundamentações técnicas, apenas fazem suposições, possibilidades e relatos da causa dos supostos danos.(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.11.2022.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+(..)
+No caso dos autos, restou comprovado o nexo de causalidade entre a conduta da apelada/CELG e os danos noticiados, autorizador do direito da reparação pretendida. Vejamos.
+O sinistro ocorrido com o segurado RESIDENCIAL SERRA DOS PIRINEUS, aconteceu no dia 02.12.12. No dia 08/02/2019, o segurado contratou a empresa ASSERGS Assessoria e Regulação de Sinistros Ltda. para que procedesse com a regulação do sinistro, colhendo dados e as primeiras informações do ocorrido, registrando que:  no dia 02/12/2012 (domingo) por volta das 15h foi informado pelos condôminos que durante uma chuva ocorreram picos de energia no condomínio e o elevador de serviço parou de funcionar; de imediato foi acionado o técnico daempresa "Site Elevadores" que presta serviços de manutenção nos elevadores do condomínio e após análise foi constatada a queima de vários componentes no painel de comando do elevador.
+Ademais, restou consignado no laudo técnico: Com base na vistoria, levantamentos, informações e laudo técnico o elevador de serviços foi danificado em decorrência de variação de tensão elétrica/corrente, o que caracteriza o sinistro como Danos Elétricos.
+Percebe-se então que consta no processo, relatório técnicoacompanhado de fotos dos equipamentos danificado, prova da solicitação de ressarcimento perante a concessionária de energia elétrica, elementos que possuem força suficiente para imputar à requerida a responsabilidade pretendida.
+Lado outro, a Celg não desconstitui o direito autoral. Não há nos autos informação quanto variação de tensão elétrica, apenas laudo unilateral que atesta ausência de interrupção elétrica ou solicitação de atendimento emergencial no dia 02/12/12, bem como agendamento de vistoria.
+(..)
+Na hipótese dos autos, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se estão presentes os requisitos de configuração de responsabilidade civil da concessionária de energia,o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
