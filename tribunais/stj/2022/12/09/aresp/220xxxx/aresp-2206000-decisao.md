@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial da Fazenda Nacional contra acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. RECUPERAÇÃO JUDICIAL. SUBMISSÃO DOS ATOS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA AO JUÍZO DA RECUPERAÇÃO JUDICIAL. 1. O deferimento da recuperação judicial não impõe a suspensão do curso da execução fiscal. Os atos que importem em constrição do patrimônio da empresa, todavia, ficam submetidos à análise do juízo da recuperação judicial, em homenagem ao princípio da preservação da empresa. 2. Agravo de instrumento a que se dá parcial provimento, apenas para determinar o prosseguimento da execução fiscal.
+Os Embargos de Declaração foram rejeitados.
+A Fazenda Nacional alega:
+No caso vertente, a União (Fazenda Nacional) opôs Embargos de Declaração perante a E. Corte Regional, para o fim de ver sanada omissão quanto a questões federais relevantes, aduzindo que não há que se falarem suspensão do processo de execução fiscal em razão do deferimento da recuperação judicial, a uma porque os bens necessários à satisfação do crédito público não compõem o patrimônio da empresa para fins do processo de recuperação judicial e, por isso podem ser livremente expropriados pelo juízo executivo, a duas porque a própria lei de regência da recuperação judicial, bem como o CTN dispõem expressamente a respeito da necessidade de continuidade do feito executivo.
+(..)
+O prosseguimento da execução fiscal, em paralelo à recuperação judicial, naturalmente deve ser pleno, atingindo-se o seu ápice e objetivo final que é a satisfação do credor exequente. Logo, ao contrário do quanto estabelecido na r. decisão agravada, nada impede o prosseguimento da execução, com alienação dos bens constritos e a entrega do produto da sua alienação à Fazenda Pública, como afirma a 1ª Seção do Superior Tribunal de Justiça:
+(..)
+Dessa forma, ao adotar entendimento diverso, optando pela suspensão dos atos expropriatórios, o acórdão incorreu em violação aos artigos 187 do Código Tributário Nacional, 5º e 29 da lei nº 6.830/80 e 6º, § 7º, da lei nº 11.101/05, de modo que merece provimento o presente recurso para reforma do julgado.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.11.2022.
+De plano, afasto a apontada violação dos arts. 489 e 1.022 do CPC/2015, pois não se constata omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, o aresto vergastado está em consonância com a jurisprudência do STJ de que o deferimento do processamento da recuperação judicial não tem, por si só, o condão de suspender as Execuções Fiscais, na dicção do art. 6º, § 7º, da Lei 11.101/2005, mas a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do juízo da recuperação judicial. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ATO CONSTRITIVO. JUÍZO DA RECUPERAÇÃO. ANÁLISE. DECISÃO MANTIDA.
+1. "O deferimento do processamento da recuperação judicial não tem, por si só, o condão de suspender as execuções fiscais, na dicção do art. 6º, § 7º, da Lei n. 11.101/2005, porém a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do juízo da recuperação judicial" (AgInt no CC 166.058/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 02/06/2020, DJe 09/06/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 172.416/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 9/12/2020)
+No mesmo sentido do que já entendia esta Corte Superior foi publicada a Lei 14.122, em 24 de dezembro de 2020, que acrescentou o § 7º-B ao art. 6º da Lei 11.102/2005 (Lei de Falências e Recuperação Judicial e Extrajudicial), com a seguinte redação:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica:
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei; (incluído pela Lei nº 14.112 de 2020) (Vigência)
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência; (incluído pela Lei nº 14.112 de 2020) (Vigência)
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência. (incluído pela Lei nº 14.112 de 2020) (Vigência)
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), observado o disposto no art. 805 do referido Código. (incluído pela Lei n. 14.112 de 2020)
+Por tudo isso, conheço do Agravo para negar provimento ao Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
