@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em benefício de NICOLY DA SILVA COSTA contra decisão monocrática proferida pelo Tribunal de Justiça do Estado de Minas Geraisque indeferiu o pedido deliminar, formulado no habeas corpus originário (HC n. 1.0000.22.284001-9/000).
+Noticiam os autos que a paciente foi presa temporariamente pela suposta prática do crime de tráfico de drogas.
+Irresignada com aprisão cautelar, a defesa impetrou habeas corpus na Corte estadual.O Relator da ação originária, contudo, indeferiu o pedido liminar(e-STJ fls. 87/88). Esta é a decisão impetrada.
+Na presente oportunidade, a defesa sustenta que a decisão do Tribunal de origem não está fundamentada, o que permite a superação do enunciado n. 691 da Súmula do STF.Aduz que aprisão preventiva da paciente não está fundamentada em elementos concretos, que o imóvel locado em nome da paciente era onde ela residia com seu marido e estão ausentes da espécie os requisitos do art. 312 do Código de Processo Penal. Destaca que a paciente é primária, sem qualquer antecedente criminal, possui 18 anos, eresidência fixa.
+Ressalta que não foram indicados elementos concretos que evidenciem a existência depericulum libertatis, e por isso é possível a paciente responder ao processo em liberdade.
+Ao final requer, liminarmente e no mérito, o relaxamento da prisão preventiva da paciente, mesmo mediante a imposição de medidas cautelares, inclusive a prisão domiciliar.
+É o relatório. Decido.
+O presente mandamus não merece ser conhecido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, a decisão objurgada é do seguinte teor, in verbis (e-STJ fls. 87/88):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de N.S.C., apontando como autoridade coatora o M.M. Juiz de Direito da 1ª Vara Criminal e de Execuções Criminais da Comarca de Poços de Caldas.
+Relata a impetração que a paciente foi presa preventivamente pelo suposto envolvimento na prática do delito previsto no art. 33 da Lei n. 11.343/06.
+Sustenta que a decisão carece de fundamentação concreta e adequada com base nos pressupostos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal.
+Salienta a ilegalidade da prisão preventiva como forma de antecipação de pena, o que contraria o princípio constitucional da presunção de inocência.
+Aduz a respeito da primariedade da paciente, que possui menoridade relativa, trabalho lícito e residência fixa.
+Pondera a respeito da aplicabilidade de medidas cautelares diversas da prisão, em consonância com o art. 319 do CPP.
+Diante disso, requer o deferimento da liminar e, no mérito, a concessão definitiva da ordem, para que seja restituída a liberdade da paciente. Pugna, ainda, pela substituição da custódia cautelar por prisão domiciliar.
+A inicial veio acompanhada de documentos (seq. 02/06).
+É o relatório. Decido.
+Primeiramente, cumpre esclarecer que a concessão de liminar em habeas corpus é medida excepcional e pressupõe a verificação, de imediato, da ausência dos requisitos cumulativos que sustentam asprisões provisórias: fumus commissi delicti (justa causa - indícios de autoria e prova da materialidade - para a segregação cautelar) e periculum libertatis (garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal).
+Após a detida análise dos fundamentos da presente impetração, não se vislumbra, de plano, a ocorrência de constrangimento ilegal ou a coexistência dos supracitados requisitos de maneira a justificar o acolhimento do pleito liminar.
+Além disso, cabe destacar que o alegado na inicial demanda a análise das informações da autoridade apontada coatora, e o deferimento da medida liminar pleiteada exauriria a pretensão deduzida, resultando na prejudicialidade do exame detido da impetração.
+Diante do exposto, INDEFIRO a liminar pleiteada e determino:
+1. Seja oficiada a autoridade ora apontada como coatora para prestar informações, instruindo-as com Certidão e Folha de Antecedentes Criminais do paciente, a decisão que decretou a prisão preventiva, bem como outros documentos que entender pertinentes no prazo de 05 (cinco) dias;
+2. Vista à Procuradoria-Geral de Justiça para manifestação, no prazo regimental.
+Os pedidos da defesa não foram analisados, mesmo que sumariamente, pelo Tribunal de Justiça local. Reputa-se, portanto, configurada flagrante ilegalidade hábil a permitir a concessão da ordem, de ofício, embora em termos distintos do que foi requerido pela defesa.
+Explico.
+Como otópico"da legalidade da fundamentação da prisão preventiva da paciente" não foiabordado, de forma sumária, masindividual e concretamente,pelo Tribunal de Justiça local,esta Corte Superior não pode examinar as questões colocadas pela defesa (a fim de verificar se é possível superar os termos do enunciado n. 691 da Súmula do Supremo Tribunal Federal), sob pena de ficar caracterizada a indevida supressão de instância.
+Como cediço, matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância(AgRg no HC n. 525.332/RJ, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é da Corte Maior que o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)(AgRg no HC n. 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Ante o exposto,não conheçodohabeas corpus.Entretanto,concedoa ordem,de ofício, para determinar ao Tribunal local,que aprecie, como entender de direito e de forma fundamentada e individualizada, o pedido liminar formulado pela defesa.
+Comunique-se, ao Tribunal de Justiça Estadual, encaminhando-lhes o inteiro teor da presente decisão.
+Intimem-se.
