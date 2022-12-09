@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de EDMILSON DELFINO DE ARAUJO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento do Agravo de Execução Penal n.0002724-20.2022.8.26.0482.
+Extrai-se dos autos que o Juízo de primeiro grau indeferiu o pedido de progressão de regime formulado pelo paciente nos termos da decisão de fls. 39/42.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"AGRAVO EM EXECUÇÃO- Indeferimento do regime semiaberto -Ausência do requisito subjetivo -Sentenciado que cumpre longa pena por crimes graves - Agravo improvido"(fl.40).
+No presentewrit, a defesa sustenta que o paciente preenche todos os requisitos necessários à progressão ao regime semiaberto. Aduz que a longa pena a cumprir e a gravidade abstrata dos crimes não constituem fundamentos idôneos ao indeferimento do benefício.
+Requer, em liminar e no mérito, a progressão ao regime semiaberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoávelverificar a existência de eventual constrangimento ilegal.
+O acórdão impugnado decidiu nos seguintes termos:
+"De início, cumpre-se ressaltar que com o advento da Lei nº 10.792/03, dando nova redação ao art. 112,caput, da Lei 7210/84, olaudo criminológico tornou-se dispensável. Contudo, é certo também que, o nosso sistema jurídico faculta ao julgador determinar a realização de diligências, quando entender necessárias para a apuração da verdade real, consoante se depreende pelo que dispõem os artigos 156, 157 e 182, dentre outros, do Código de Processo Penal.
+Nesse sentido, ".. o Pretório Excelso vem entendendo que a realização do exame criminológico no caso de condenado a crime cometido com violência ou grave ameaça à pessoa não é compulsório, i. e., é mera faculdade do Juiz que deve, caso entenda necessária a realização do referido exame, motivar sua decisão" (STJ/RHC 15263/PR, Rel. Min. Felix Fischer, DJ 07.06.04, p. 240).
+No entanto, apesar do exame criminológico ter apontado aspectos favoráveis à concessão do benefício, conforme bem consignou o digno magistrado sentenciante Dr. Luiz Carlos de Carvalho Moreira a fls. 43, ".. a superficialidade do atestado de bom comportamento e eventuais detalhes favoráveis não tem o condão de autorizar a imediata concessão da benesse almejada, sendo indispensável a manutenção de sua segregação por maior período de tempo, visando absorver a terapêutica penal e revelar seu merecimento a posterior progressão a regime sem a vigilância direta do Estado.
+Com efeito, verifica-se que o apenado cumpre pena por crimes praticados com violência ou grave ameaça contra a pessoa (roubos majorados), além de receptação, revelando-se tratar de pessoa perigosa, corrompida pelo submundo do crime e nociva à sociedade.."
+Ademais, conforme consta do Boletim Informativo de fls. 29/35, o sentenciado cumpre longa pena pela prática de receptação e roubos majorados (por quatro vezes), com término de cumprimento previsto para19.06.2036. Aliás, após ter sido agraciado com o livramento condicional, voltou a delinquir, traindo, assim, a confiança que lhe fora depositada pelo Juízo.
+Evidente, pois, o não preenchimento do requisito de ordem subjetiva, não havendo que se falar na concessão da progressão ao regime semiaberto" (fls. 40/42).
+Como visto, as instâncias ordinárias afirmaram que o paciente não preenchia o requisito subjetivo para a progressão de regime com fundamento na longa pena a cumprir ena gravidade abstrata dos crimes praticados.
+Desse modo, divergiram da jurisprudência consolidada nesta Corte Superior, no sentido de que apenas os incidentes relacionados com a execução penal podem ser utilizados para afastar o bom comportamento carcerário e indeferir a progressão de regime.
+A proposito:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PROGRESSÃO DE REGIME PRISIONAL. INDEFERIMENTO. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+2. O art. 122 da Lei de Execução Penal exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+3. No caso dos autos, verifica-se que as instâncias ordinárias se utilizaram de argumento inidôneo para indeferir a progressão de regime, baseando-se tão somente na gravidade abstrata do crime cometido e na quantidade de pena a cumprir, desconsiderando, ainda, a boa conduta carcerária do paciente e a inexistência de faltas disciplinares.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para deferir ao paciente a progressão ao regime semiaberto.
+(HC 414.758/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 27/11/2017).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. BENEFÍCIO INDEFERIDO, COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS E NA LONGA PENA A CUMPRIR. NOTÍCIA DE FALTA GRAVE PRATICADA EM 2014. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Ausência idônea fundamentação para denegar a progressão de regime quando ausente motivo concreto para negativação do requisito subjetivo, já que a quantidade da pena e os fatores relacionados ao crime praticado não justificam diferenciado tratamento para a progressão de regime, mormente na hipótese em que as faltas disciplinares são antigas e o reeducando é portador de atestado de bom comportamento e exame criminológico favoráveis. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 457.405/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/02/2019).
+Evidente, portanto, o constrangimento ilegal.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço da impetração. Contudo, concedo liminarmente a ordem de habeas corpus, de ofício, para determinar ao juízo das execuções que prossiga na análise dos requisitos necessários à progressão de regime, sem considerar como impeditivos de ordem subjetiva a gravidade abstrata dos delitos e a quantidade de pena que resta cumprir.
+Publique-se.
+Intimem-se.
