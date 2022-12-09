@@ -1,0 +1,40 @@
+DECISÃO
+JOELCE LOPES MOREIRAagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado do Rio Grande do Sulna Apelação n. 0033296-71.2021.8.21.7000
+Depreende-se dos autos que o Juiz sentenciante condenou o ora recorrente à pena de 1 ano, 6 meses e 6 dias de reclusão, em regime semiaberto, pela prática docrime previsto no art. 155,caput, do CP.
+O Tribunal de origem negouprovimento à apelação defensiva, a fim de manter a sentença em todos os seus termos.
+Nas razões do especial, alegou a defesa que o acórdão recorrido violou o art. 386, III, do CPP, ao argumento de que, apesar do ínfimo valor dasres furtivae,não foi reconhecida a bagatela, para cuja análise são irrelevantes os registros de vida pregressa.
+Requereufosse aplicado o princípio da insignificância.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+Ao julgar a apelação, o Tribunal de origem asseriu o seguinte:
+Dessarte, a aplicação do princípio da insignificância, como motivo de exclusão da tipificação, além do valor da res, também deve levar em conta as circunstâncias pessoais relacionadas ao autor do fato.
+No caso, embora, isoladamente, o valor dos bens subtraídos relacionados ao fato 1 (R$ 9,80 - fato 1; R$ 165,50 - fato 2; R$ 94,50 - fato 3 - auto de avaliação direta - fl. 59) fosse inferior a 10% do salário mínimo vigente ao tempo dos episódios (2017 - R$ 937,00 - https://www.contabeis.com.br/tabelas/salario-minimo/ ), não se pode perder de vista que, no auto de avaliação direta, confeccionado pela Polícia Civil, não constou o valor das "11 cargas de gilette march 3" (fl.53), igualmente furtadas, 2
+Além disso, de acordo com a certidão judicial criminal das fls. 125/128, há registros de condenações definitivas do réu/apelante pela prática de crimes de furto, no tocante aos processos números 011/2.05.0000967-4, 105/2.06.0001019-9, 105/2.06.0001020-2, 016/2.12.0004645-0 e 011/2.12.0004079-5.
+Evidenciado, portanto, que a vinculação do réu a ilícitos não é circunstância absolutamente isolada na sua vida.
+Ademais, a reiteração delitiva que obsta o reconhecimento da insignificância penal ficou demonstrada também por este processo, em que 3 (três) crimes são apurados.
+Presente, portanto, particularidade concreta que diferencia o réu de cidadãos sem registros de relação com outros expedientes criminais, impróprio valorar como totalmente inexpressiva a conduta que, objetivamente, gerou a movimentação de todo o aparato estatal, ocorrendo atuação da Brigada Militar, formalização de auto de prisão em flagrante e a sequência de todos os demais atos previstos em lei para a situação, inclusive sentença penal condenatória.
+Logo, ausente a possibilidade de reconhecimento da atipicidade da conduta a partir do princípio da insignificância, salientando-se que o delito do artigo 155 do CP não trabalha, na questão da sua configuração formal, com peculiaridade vinculada à restituição de bens e eventual ausência de prejuízo, o que teria o potencial de incentivar a impunidade e estimular a criminalidade (fls. 337-338, destaquei).
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta- possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento doREsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitivae dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto,odiálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registrosde vida pregressadevemser entendidos comoelementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal-que podeser incompatível com a exclusão da punibilidade- e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se comoprincípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Na espécie, em que pese o reduzido valor dobemsubtraído, entendo não ser viável a incidência do princípio da insignificância, diante da multirreincidência ostentada pelo réu, que possui quatro condenações anteriores por crimes patrimoniais- furto e roubo-, o que está em consonância com ajurisprudência desta Corte Superior.
+Ilustrativamente:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. FURTO SIMPLES. TRANCAMENTO. INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA EM CRIMES PATRIMONIAIS. ORDEM DENEGADA. AGRAVO DESPROVIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. RECURSO IMPROVIDO.
+ ..
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, pois,independentemente do valor atribuído àres furtiva, consta dos autos que o recorrente possui duas condenações anteriores definitivas pela prática de crimes de roubo e furto,circunstância que demonstra a prática de crimes de forma habitual e reiterada, reveladora de personalidade voltada para o crime, ficando afastado o requisito do reduzido grau de reprovabilidade da conduta para aplicação do princípio da insignificância ora pretendido. Precedentes.
+ ..
+6. Recurso em habeas corpus improvido.
+(RHC n. 161.967/MG, relator MinistroAntonio Saldanha Palheiro, 6ª T., DJe de 6/5/2022, grifei)
+ ..
+1. Não preenche o agravante os requisitos para a aplicação do princípio da insignificância,em que pese o reduzido valor do bem furtado, por ser o réu multirreincidente em crime patrimonial(AgRg no AREsp n. 1.073.572/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/4/2018).
+2. Agravo regimental improvido.
+(AgRg no HC n. 466.521/SC, relator MinistroSebastião Reis Júnior, 6ª T., DJe de 19/5/2020, destaquei)
+No mesmo sentido, o parecer do Ministério Público Federal:
+A decisão agravada não conheceu do recurso especial, sob o fundamento da incidência da Súmula 83/STJ porquanto "o entendimento desta Corte se firmou no sentido de que o princípio da insignificância não tem aplicabilidade nos casos em que se verifica a reiterada prática da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese" (fl. 373).
+Esse entendimento realmente está em consonância com a jurisprudência dessa Corte Superior de Justiça, no sentido de que "A reincidência específica, aliada a outras condenações, impede o reconhecimento do princípio da insignificância. Precedentes" (AgRg no REsp n. 2.002.845/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/11/2022, DJe de 17/11/2022) (fl. 422).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
