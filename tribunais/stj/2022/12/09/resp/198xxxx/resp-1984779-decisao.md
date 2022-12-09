@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte (fl. 2.465, e-STJ):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. EX-PREFEITO. EMPRESÁRIOS. FRUSTRAÇÃO DA LICITUDE DE LICITAÇÃO. CONTRATAÇÃO DIRETA DE SERVIÇOS ARTÍSTICOS E DE SERVIÇOS PARA REALIZAÇÃO DE EVENTOS. VIOLAÇÃO AOS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. ART. 11, CAPUT, I, DA LEI 8.429/92. ATOS DE IMPROBIDADE CONFIGURADOS. DANO AO ERÁRIO NÃO COMPROVADO. ALTERAÇÃO NA CAPITULAÇÃO LEGAL DO ATO ÍMPROBO. POSSIBILIDADE. ADEQUAÇÃO DAS SANÇÕES. NECESSIDADE. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SENTENÇA REFORMA EM PARTE.
+1. O MPF atribuiu aos acusados a prática de atos de improbidade previstos nos arts. 10, VIII, da Lei 8.429/92, por frustração da licitude de licitação e malversação de verbas públicas.
+2. A teor do disposto no inciso III do art. 25 da Lei 8.666/93, é inexigível a licitação para contratação de profissional de setor artístico, diretamente ou por meio de empresário exclusivo, sendo certo que este é aquele que gerencia permanentemente o artista a ser contratado para todo e qualquer evento, e não aquele que detém exclusividade apenas para a realização de um evento específico.
+3. A contratação foi feita por intermédio de empresa que apresentou atestado de exclusividade para a contratação de artistas apenas nas datas da realização do evento, razão pela qual a empresa não pode ser considerada como exclusiva dos artistas, condição exigida pela lei como sine qua non para a inexigibilidade de licitação.
+4. Demonstrados, materialidade, autoria e dolo genérico de realizar conduta ímproba, por parte do ex-gestor e dos demais requeridos. Embora tenham ocorrido irregularidades, mostra-se incabível a condenação dos requeridos ao ressarcimento do valor, pois não ficou comprovado o dano ao erário, razão pela qual a conduta deve se subsume ao art. 11, I, da Lei de Improbidade Administrativa.
+5. Conquanto não se desconheça o entendimento jurisprudencial adotado no âmbito do Superior Tribunal de Justiça no sentido de que a dispensa de licitação dá ensejo ao chamado dano in re ipsa, o suposto dano presumido decorrente da ausência da licitação não deve ser considerado diante da conclusão de que não se vislumbrou a efetiva ocorrência de prejuízo ao erário.
+6. Todavia, em atenção aos parâmetros normativos do art. 12, III, da Lei de Improbidade, cotejando a gravidade das práticas e de acordo com os princípios da proporcionalidade e da razoabilidade, afigura-se necessária uma adequação nas sanções, para reduzir o prazo de suspensão dos direitos políticos e da proibição de contratar com o Pode Público, ambas, para 3 (três) anos.
+7. Apelações não providas.
+O recorrente alega, além de divergência jurisprudencial, violação dos arts. 10, VIII, e 12, II, da Lei 8.429/1992. Sustenta, em suma, que "o dano ao erário decorrente da ilídima inexigibilidade de licitação deve ser considerado presumido (dano in re ipsa)" (fl. 2.505, e-STJ).
+Contrarrazões às fls. 2.919-2.923 e 2.928-2.933, e-STJ.
+Decisão de admissibilidade do Recurso às fls. 2.934-2.935, e-STJ.
+Parecer do Ministério Público Federal, às fls. 2.954-2.958, e-STJ, opina pela "devolução dos autos ao Tribunal de origem, para aguardar o julgamento da matéria submetida à sistemática dos recursos repetitivos (Tema 1.096/STJ)".
+É o relatório.
+Decido.
+Verifico que a matéria versada no apelo foi afetada ao rito dos Recursos Repetitivos por meio dos Recursos Especiais 1.912.668/GO e 1.914.458/PI (Rel. Ministro Og Fernandes, Primeira Seção), que cuidam do Tema 1.096: "Definir se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário in re ipsa".
+Noacórdão de afetação, foi determinada a "suspensão aos recursos especiais e agravos em recursos especiais interpostos nos tribunais de segunda instância ou em tramitação no STJ".
+Dessa forma, em cumprimento ao decisum mencionado, determino o sobrestamento da presente demanda para que se aguarde, na Coordenadoria desta Corte Superior, o julgamento do Tema 1.096/STJ.
+Publique-se.
+Intimem-se.
