@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte (fl. 496, e-STJ):
+REGIME ADUANEIRO ESPECIAL: DRAWBACK-SUSPENSÃO: NATUREZA DE ISENÇÃO SOB CONDIÇÃO RESOLUTÓRIA. IMPOSSIBILIDADE DO LANÇAMENTO TRIBUTÁRIO ENQUANTO VIGENTE A ISENÇÃO. DECADÊNCIA NÃO VERIFICADA. INAFASTABILIDADE DA MULTA DE OFÍCIO. JUROS DE MORA DEVIDOS DESDE A DATA DO REGISTRO DA DECLARAÇÃO DE IMPORTAÇÃO.
+Os Embargos de Declaração foram rejeitados com aplicação de multa, nos termos do art. 1.026, § 2º, do CPC (fl. 825, e-STJ).
+A parte recorrente, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 937 a 940, 1.022, 1.025 e 1.026, § 2º, do CPC; dos arts. 72, caput e § 2º, e 78, II, do Decreto-Lei 37/1966; dos arts. 116, II, 117, II, 173, I, 150, § 4º, e 174 do CTN; do art. 44 da Lei 9.430/1996; e do art. 7º da Lei 8.906/1994. Afirma que houve cerceamento de defesa, ante o julgamento, em sessão virtual, do recurso de Apelação.
+Aduz a "prescrição dos créditos tributários constituídos mediante termo de responsabilidade, ante o transcurso do prazo quinquenal após o fim de vigência do drawback" (fl. 845, e-STJ). Entende que o acórdão recorrido criou hipótese de suspensão não prevista em lei para fins de decadência, "referente a fato gerador ocorrido há mais de 5 anos antes do auto de infração" (fl. 851, e-STJ). Sustenta que "os juros de mora apenas podem incidir a partir de 30 dias após o fim do prazo de concessão dos atos concessórios, tendo em vista que apenas após este termo há mora do contribuinte quanto aos tributos constituídos" (fl. 851, e-STJ).
+Contrarrazões apresentadas às fls. 881-892, e-STJ.
+Decisão de admissibilidade do recurso às fls. 895-896, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.11.2022.
+Assiste razão à recorrenteno que tange à violação do art. 1.022 do CPC/2015.
+NosAclaratórios opostos na origem, a parte sustenta (fls. 813-814, e-STJ):
+Embora o acórdão tenha analisado o caput do art. 72 do Decreto-Lei n. 37/1966, o acórdão omitiu-se sobre o § 2º do art. 72 e o inciso II do art. 78 do mesmo Decreto Lei n. 37/1966, que são expressos:
+Art. 72 -  ..  § 2º - O termo de responsabilidade é título representativo de direito líquido e certo da Fazenda Nacional com relação às obrigações fiscais nele constituídas.
+Art. 78 - Poderá ser concedida, nos termos e condições estabelecidas no regulamento:  ..  II - suspensão do pagamento dos tributos sobre a importação de mercadoria a ser exportada após beneficiamento, ou destinada à fabricação, complementação ou acondicionamento de outra a ser exportada;
+A importância da análise destes dispositivos legais é de que eles infirmam a lógica de que o termo de responsabilidade não constituiria o crédito tributário, bem como que o drawback suspensão não seria uma hipótese de suspensão de pagamento dos tributos constituídos.
+Percebe-se, assim, que o juízo foi omisso sobre dispositivos alegados pela parte que poderiam infirmar suas premissas, tornando-se imprescindível sua análise para fins de prequestionamento e remessa à instância superior.
+(..)
+Percebe-se que a parte fez pedido de retirada de pauta virtual em Evento 24, nos termos da Resolução n. 128/2021 do TRF-4. Contudo, não houve análise do pleito e houve o julgamento, por pauta virtual, inviabilizando o exercício de prerrogativa da advocacia e o hígido encaminhamento processual, nos termos do art. 7º, X, da Lei n. 8.906/1994 e arts. 937 a 940 do CPC, segundo os quais, na continuidade julgamento, que é uno e indivisível, não há como se iniciar telepresencialmente para depois da sustentação oral, pedir-se vistas e incluir em pauta virtual, negando-se direito básico de participação do advogado de esclarecer fatos eventualmente relatados incorretamente
+Por esta razão, pede-se o prequestionamento do art. 7º do EOAB e arts. 937-940 do CPC, no sentido de que se dê interpretação do juízo quanto à omissão do pleito feito pelo causídico em momento tempestivo e que não foi analisado (Ev. 24).
+Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca as seguintes teses jurídicas: a) a constituição do crédito tributário teria ocorrido no momento da assinatura do Termo de Responsabilidade da importação, na forma do art. 72, § 2º, do Decreto-Lei 37/1966, motivo pelo qual estariam prescritos os créditos tributários; b) suposta ocorrência de cerceamento de defesa, ante a alegada contrariedade aos arts. 7º, X, da Lei 8.906/1994 e 937 a 940 do CPC.
+Porém, instada a se manifestar, verifica-se que a Corte regional não procedeu à análide dessas questões suscitadas pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+No caso, o fundamento utilizado pelo acórdão recorrido não é hábil a afastar a argumentação tida como ignorada.
+Mesmo com os Aclaratórios opostos para sanear a lacuna, o Tribunal de origem deixou de se manifestar sobre aquela. Reconhece-se, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a ofensa ao art. 1.022 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISS. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+I - A parte recorrente alegou, na petição dos aclaratórios na origem, a necessidade de averiguação da natureza do software comercializado pela empresa, se produzido de forma personalizada ou em grande escala (massificada). II - Apesar de instada a se manifestar, a Corte local não analisou a relevante questão suscitada pela parte recorrente.
+III - Caracteriza-se, portanto, ofensa ao art. 1.022 do Código de Processo Civil de 2015 quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+IV - Não caracteriza revolvimento do acervo fático-probatório o provimento do recurso especial em razão de violação do art. 1.022 do Código de Processo Civil de 2015.
+V - Agravo interno improvido.
+(AgInt no AREsp 1068039/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/08/2017, DJe 17/08/2017)
+Prejudicada a análise das demais questões apresentadas no apelo nobre.
+Ao lume do exposto, dou parcial provimento ao Recurso Especial e determino o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca das seguintes teses jurídicas: a) a constituição do crédito tributário teria ocorrido no momento da assinatura do Termo de Responsabilidade da importação, na forma do art. 72, § 2º, do Decreto-Lei 37/1966, motivo pelo qual estariam prescritos os créditos tributários; b) suposta ocorrência de cerceamento de defesa, ante a alegada contrariedade aos arts. 7º, X, da Lei 8.906/1994 e 937 a 940 do CPC.
+Publique-se.
+Intimem-se.
