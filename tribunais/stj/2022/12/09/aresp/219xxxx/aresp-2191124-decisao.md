@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. REQUISITO NEGATIVO. AUSÊNCIA DE AUXÍLIO-DOENÇA. BENEFÍCIO INDEFERIDO.
+1. A regra que regula a concessão do auxílio-reclusão é a vigente na época do recolhimento do segurado à prisão.
+2. Na vigência da Lei 8.213/91, após a Emenda Constitucional nº 20, são requisitos à concessão do auxílio-reclusão:
+a) efetivo recolhimento à prisão; b) demonstração da qualidade de segurado do preso; c) condição de dependente de quem objetiva o benefício; d) prova de que o segurado não está recebendo remuneração de empresa ou de que está em gozo de auxílio-doença, de aposentadoria ou abono de permanência em serviço; e) renda mensal do segurado inferior ao limite legal estipulado.
+3. Caso em que, na data do recolhimento do segurado à prisão, a percepção do benefício de auxílio-doença, impede a concessão de auxílio-reclusão a seus dependentes.
+Nas razões do Apelo Especial, a parte recorrente aduz, preliminarmente, que, "diante da inobservância da decisão recorrida ao TEMA STJ 896 (por não exercer o segurado instituidor atividade laboral na data da prisão, havendo ausência de renda), se requer a nulidade da decisão, por ausência de fundamento do ato judicial, com fundamento nos artigos 489, VI, 927 e 928 do CPC." (fl. 270, e-STJ).
+Argumenta ainda que, "contrariamente ao decidido no acórdão, o art. 80 da Lei 8.213/91 não impede o recebimento do benefício, pois menciona que o auxílio-reclusão será devido aos dependentes do segurado recolhido à prisão, que não estiver em gozo de auxílio-doença".
+Sustenta que "a expressão "em gozo de auxílio-doença" remete a estar usufruindo tal benefício previdenciário. Caso cesse o auxílio-doença, diferente do que diz a decisão recorrida, NÃO há vedação legal de que a parte Recorrente passe a receber o benefício de auxílio-reclusão." (fl. 273, e-STJ).Ao final, requer (fls. 293-294, e-STJ):
+(..), REFORMAR a decisão exarada pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, nos termos da exposição supra, para remeter os autos ao Tribunal de Origem para que adeque seu entendimento ao do STJ ou que esse Tribunal mesmo RECONHEÇA O DIREITO da parte Recorrente ao benefício de auxílio-reclusão e:
+c.1) CONDENE o Instituto Nacional do Seguro Social (INSS) a implantar o benefício de auxílio-reclusão titularizado pela parte Recorrente (NB 188.747.933-0), a contar de 21/07/2017;
+c.2) CONDENE o Instituto Nacional do Seguro Social (INSS) ao pagamento das parcelas vencidas e vincendas, desde a data de 21/07/2017, cujo montante deve ser acrescido de juros legais moratórios de 1% ao mês e correção monetária nos termos do TEMA STF 810, incidentes até a data do efetivo pagamento, com salário de benefício calculado nos moldes do artigo 29, II, § 5º, da Lei n.º 8.213/91;
+c.3) CONDENE o Instituto Nacional do Seguro Social (INSS) ao pagamento de indenização a título de dano moral, IN RE IPSA, à parte Recorrente, no valor de R$ 20.000,00 (vinte mil reais), com incidência de juros e correção monetária, na forma legal.
+d) a condenação da Autarquia Previdenciária para que pague as perdas e danos, no percentual de 30% da condenação, sob o valor atualizado da causa e demais cominações legais;
+e) que os valores a título de honorários contratuais e honorários sucumbenciais sejam separados à sociedade de advogados;
+f) a condenação do INSS ao pagamento das custas processuais e honorários advocatícios em, no mínimo, 20% sobre o valor da condenação;
+g) determinar que a condenação da verba honorária sucumbencial seja proferida a partir do novo CPC (art. 85, § 3º), para que a base de cálculo da sucumbência corresponda ao valor da condenação ou do proveito econômico, sem incidência da Súmula 111 do STJ, também tendo em vista que a sentença não foi de procedência e o trabalho do profissional da advocacia se estenderá até o efetivo encerramento do processo, por ser medida de JUSTIÇA!
+Não foram apresentadas contrarrazões.
+Instado a se manifestar, o Ministério Público Federal, às fls. 371-374, e-STJ, opinou pelo não conhecimento do Agravo em Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de novembro de 2022.
+Cuida-se, na origem, de Ação Previdenciária ajuizada pela parte ora recorrente contra o INSS, objetivando a concessão do benefício de auxílio-reclusão, em razão do recolhimento à prisão de seu genitor em 14/10/2016, a contar de 21/07/2017, dia imediatamente posterior à cessação do auxílio-doença, o qual perdurou durante o período compreendido entre 16/10/2014 e 20/07/2017.
+Inicialmente, inexiste a alegada violação do art. 489 do CPC/2015, pois a Corte a quo julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão só porque contrário aos interesses da parte.
+Consoante entendimento do STJ, o magistrado não está obrigado a responder a todas as alegações das partes nem a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No mais, o Tribunal de origem, ao dirimir a lide, lançou os seguintes fundamentos (fl. 250, e-STJ):
+Do caso concreto
+Os documentos acostados no evento 1, OUT12 dão conta da comprovação acerca do cumprimento da pena restritiva de liberdade, bem como as datas em que o segurado se encontrava recluso.
+Constam dos registros que Carlos Augusto Oliveira da Silva esteve preso em regime fechado desde 14/10/2016, estando desde 11/04/2017 no Presídio Regional de Caxias do Sul (evento 1, OUT12).
+A condição de dependente do autor, decorre da sua condição de filho menor do recluso, nos termos da certidão de nascimento apresentada (evento 1, CERTNASC6).
+A controvérsia gira em torno da renda mensal do instituidor recluso.
+Observa-se que o último vínculo empregatício de Carlos Augusto Oliveira da Silva, findou em 26/03/2014, com a empresa PROGAS - Indústria Metalúrgica Ltda., passando o segurado a gozar do benefício de auxílio-doença no período de 16/10/2014 a 20/07/2017 (evento 1, CNIS10).
+Assim sendo, observa-se que o autor se encontrava no gozo de auxílio-doença na data do seu encarceramento, o que encontra empeço no caput do artigo 80, que estabelece como requisito negativo a percepção do auxílio-doença para a concessão de auxílio-reclusão.
+Deste modo, muito antes de apreciar o requisito relativo ao limite de renda definido pelo art. 116 do Decreto nº 3.048/99, cujos contornos foram redefinidos pelo Tema 896 do STJ, nos casos em que o autor não exercia atividade laborativa remunerada na data do recolhimento à prisão, o pedido improcede diante da vedação explícita constante do caput do art. 80.
+Consigno que, ainda que o pedido indique termo inicial posterior à cessação do benefício de auxílio-doença, tal não interfere na conclusão de que, na data do recolhimento à prisão, inexistir direito da parte ao benefício, uma vez que, para os fins da sua concessão, deve ser considerado o princípio tempus regit actum, segundo o qual os requisitos para a concessão do benefício devem ser computados na data do evento que o motivou, no caso, a reclusão do segurado.
+Por ter sido ratificada a improcedência do pedido, bem como o indeferimento do benefício, resta prejudicada a apreciação do pedido relativo à indenização por dano moral decorrente do referido indeferimento.
+Com efeito, a jurisprudência do STJ consolidou o entendimento de que os requisitos para a concessão do auxílio-reclusão devem ser verificados no momento do recolhimento à prisão, em observância ao princípio tempus regit actum.
+E ainda, nos termos do art. 80 da Lei 8.213/91, o auxílio-reclusão é devido nas mesmas condições da pensão por morte aos dependentes do segurado recolhido à prisão, desde que não receba remuneração da empresa nem auxílio-doença, aposentadoria ou abono de permanência em serviço.
+Na caso dos autos, a Corte de origem, após análise dos elementos informativos dos autos, concluiu que "o autor se encontrava no gozo de auxílio-doença na data do seu encarceramento, o que encontra empeço no caput do artigo 80, que estabelece como requisito negativo a percepção do auxílio-doença para a concessão de auxílio-reclusão." (fl. 250, e-STJ), razão pela qual afastou a aplicação do Tema 896 do STJ à hipótese em exame.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, a teor do óbice previsto na Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. REQUISITOS NÃO PREENCHIDOS. ANÁLISE DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL AFASTADA.
+1. A Corte de Origem decidiu que a parte autora não faz jus à concessão do benefício almejado.
+2. Promover juízo diverso daquele emanado pela instância inferior, a fim de acolher a tese trazida pela parte agravante, demanda reincursão no contexto fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Não há falar em divergência jurisprudencial. O último salário de contribuição foi levado em consideração quando da análise do pleito, sendo tal valor maior que a média dos salários de contribuição entre janeiro e agosto de 2005, o que dá ensejo à negativa da concessão do benefício, por estar acima do teto estabelecido pela Instrução Normativa INSS/PRES 45 de 6.8.10.
+4. Não cabe ao Superior Tribunal de Justiça adentrar no mérito a fim de verificar a correção do valor apurado pela instância inferior, tendo em vista o óbice da Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no AREsp n. 644.201/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/8/2015, DJe de 18/11/2015.)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas em relação à alegação de ofensa ao art. 489 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
