@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração (fls. 130-136)opostos pelo ESTADO DE MATO GROSSO DO SUL contra a decisão que julgou procedente a reclamação.
+O embargante alega, em suma, que o julgamento foi proferido sem considerar a repercussão geral reconhecida no Tema n. 1.234 pelo Supremo Tribunal Federal.
+A parte adversa argumentou que não há omissão, devendo haver rejeição dos embargos declaratórios, porque a discussão objeto da reclamação é a não aplicação do IAC n. 14 do Superior Tribunal de Justiça.
+O Superior Tribunal de Justiça, às 118-124, julgou procedente a reclamação e determinou a suspensão da decisão proferida na Apelação Cível n. 0800916-29.2021.8.12.0010, a qualdeterminou a inclusão da União no polo passivo da demanda, bem comoo prosseguimento do feito na Justiça estadual, em especial porque a suspensão da tramitação dos feitos em idêntica situação não foi determinada pelo STJ quando da afetação do IAC n. 14.
+É, no essencial, o relatório.
+Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, objetivam corrigir erro material ou esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de essencial relevância para o julgamento da demanda judicial. Configuram recurso de natureza integrativa e, portanto, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes, como é a hipótese dos autos.
+Percebe-se que a parte embargante apenas insurge-se contra o mérito decisório, o qual concluiu que houve afronta ao decidido pela Corte federal, porquanto, no julgamento da Questão de Ordem no IAC n. 14/STJ, a Primeira Seção deliberou que, até o julgamento definitivo do incidente de assunção de competência, o juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, de modo que o processo deve prosseguir na jurisdição estadual. O Supremo Tribunal Federal reconheceu a repercussão geral, por meio do Tema n. 1234, contudonão resolveu em definitivo ainda a questão, sobretudo a decidida atualmente pelo Superior Tribunal de Justiça concernente à questão processual da não inclusão, pela parte autora da ação, da União no polo passivo, não obstante a solidariedade.
+Dessa forma, vê-se que a apontada omissão caracteriza, na verdade, mera insurgência meritória, não aceitação da fundamentação exposta, e não uma falha propriamente dita que pudesse ser sanada via aclaratórios, sem o propósito específico, portanto, de sanar obscuridade, contradição, omissão ou erro material.
+Confira-se precedente nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt na SS n.3135/BA, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 16/6/2020.)
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
