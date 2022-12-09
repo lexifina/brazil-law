@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Jose de Jesus, apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça do Espírito Santo, que indeferiu o pedido liminar nos autos do Habeas Corpus n.00045004720228080000.
+Verifica-se dos autos que o paciente foi preso em flagrantepelasuposta prática do crime previsto noart. 121, caput, c/c o art. 14, II, e art. 121, § 2º, IX, c/c o art. 14, II, na forma do art. 69, todos doCódigo Penal, prisão posteriormente convertida em preventiva em audiência de custódia (Processo n. 0008811-73.2022.8.08.0035, doJuízo da 4ª Vara Criminal do Tribunal do Júri da comarca de Vila Velha/ES - fls. 77/79).
+Na presente impetração, alega a parte impetrante a necessidade de superação da Súmula 691/STF, uma vez que o auto de prisão em flagrante foi realizado porcolegas de trabalho da suposta vítima, com base em inverdadese em depoimentos que podem ter sofridoinfluência da suposta vítima para incrementar falsas verdades e agravar ainda mais a situação do paciente(fls. 7/9).
+Sustentaa falta de motivação idônea para a decretação da prisão preventiva. Ressaltaa presença de condições pessoais favoráveis e que o paciente se encontra custodiado em hospital para tratamento clinico e realização de procedimento cirúrgico, sendo que possui em seu corpo dois projéteis de arma de fogo, sendo o caso de aplicação da custódia domiciliar, com a utilização de monitoração eletrônica(fls. 10/13).
+Requer, em liminar, a expedição de alvará de soltura; e, no mérito, o trancamento da ação penalou, então, a revogação da prisão preventiva imposta ao requerente,nos termos do art.316 do CPP, concedendo se a liberdade provisória ao paciente, para que, responda a inquérito policial, auto de prisão em flagrante ou processo penal em liberdade, e não preso, ou, ainda,a aplicação de medidas cautelares diversas nos termos dos art. 282, c/c o art. 319 do CPP, o qual o paciente se compromete a cumpri-las integralmente (fl. 16).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela.
+Vale destacar que o Desembargador plantonista ressaltou quea Magistrada a quo observou detidamente as disposições do art.93, inciso IX, da Constituição Federal, bem como as regras dos arts. 282, incisos I e II, 312, 313, inciso I, c/c o art. 282, § 6º, e art. 315, todos do Código de Processo Penal, uma vez que presentes os requisitos legais para tanto, comprovada a materialidade e presentes indícios suficientes de autoria delitiva, assim como evidenciada a necessidade de se garantir a ordem pública (fl. 82).
+Ressalto que, no presente caso, as questões trazidas na impetração não foram ainda enfrentadas pelo Tribunal a quo, não se admitindo a pretendida supressão de instância.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS.LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
