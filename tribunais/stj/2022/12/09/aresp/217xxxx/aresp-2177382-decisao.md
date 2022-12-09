@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por Adilson Ferreira dos Santos Júnior contra a decisão do Tribunal de Justiça de Alagoas, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 0005462-44.2011.8.02.0058, assim ementado (fl. 185):
+PROCESSO PENAL. PENAL. APELAÇÃO. FURTO SIMPLES. PLEITO PARA O RECONHECIMENTO DO FURTO PRIVILEGIADO (ART. 155, § 2.º, DO CÓDIGO PENAL). IMPOSSIBILIDADE. NÃO DEMONSTRAÇÃO DA PRIMARIEDADE E TAMPOUCO QUE O VALOR DA RES FURTIVA SERIA INFERIOR A UM SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO DELITUOSO.
+01 - Para a configuração do furto privilegiado, exige-se a presença de 02 (dois) requisitos, quais sejam primariedade e pequeno valor do bem furtado, fatos que não restaram satisfeitos na espécie.
+02  Considera-se como pequeno valor da coisa furtada, aquele que não ultrapasse o equivalente a um salário mínimo vigente à época do fato, de acordo com os precedentes do Superior Tribunal de Justiça.
+RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Nas razões do especial, apontou a Defensoria Pública ofensa ao art. 155, § 2º, do Código Penal, sustentando, em suma, a aplicação da causa de diminuição de pena prevista no § 2º do art. 155 do Código Penal, tendo em conta a primariedade do réu e o pequeno valor do objeto material (fls. 198/199).
+Apresentadas contrarrazões (fls. 205/208), o recurso foi inadmitido na origem, por incidência da Súmula 7/STJ (fls. 210/212).
+Contra essa decisão a Defensoria interpõe agravo (fls. 217/220). Opina o Ministério Público Federal pelo desprovimento do recurso, nos seguintes termos (fl. 237):
+AGRAVO VISANDO A SUBIDA DE RECURSO ESPECIAL. CONDENAÇÃO POR FURTO SIMPLES. PLEITO DE RECONHECIMENTO DO FURTO PRIVILEGIADO. PRETENSÃO QUE EXIGE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+- Parecer pelo desprovimento do agravo.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+A pretensão recursal direciona-se à aplicação da causa especial de diminuição de pena prevista no art. 155, § 2º, do Código Penal, com o consequente redimensionamento da pena imposta.
+O Tribunal de origem afastou a aplicação da figura privilegiada, asseverando, in verbis (fls. 187/188 - grifo nosso):
+ ..  10. Quanto à primariedade, observa-se que esta não restou demonstrada, já que, conforme se observa do Sistema de Automação do Judiciário - SAJ, o apelante possui condenação com trânsito em julgado pela prática do crime de mesma natureza do ora analisado (Processo n.0001506-20.2011.8.02.0058, 8ª Vara Criminal da Comarca de Arapiraca), tendo gerado o processo de execução n" 0500049-22.2013.8.02.0058, o qual, inclusive, foi beneficiado com o instituto jurídico do indulto.
+11. No que se refere ao pequeno valor, a jurisprudência pátria estabelece como parâmetro o salário mínimo vigente à época do fato, in verbis:
+ ..
+12. No caso dos autos, a defesa não se desincumbiu do ônus de demonstrar o real valor dos bens subtraídos. Ademais, analisado o termo de apreensão e apresentação colacionado à fl. 8 observa-se um grande quantitativo de objetos furtados (2 aparelhos celulares, 1 perfume do boticário, 1 controle de ar condicionado, 1 isqueiro, 06 voltas para o pescoço, 03 pulseiras, 2 pares de brinco, 1 colar e 4 anéis), o que a priori demonstra, também, o não preenchimento do segundo requisito exigido para o reconhecimento do privilégio em apreço.  ..
+Primeiramente, da atenta leitura do apelo especial e dos trechos acima transcritos, verifica-se que as razões recursais dissociadas da realidade fático/processual existente no acórdão ora impugnado, o qual concluiu pelo não preenchimento dos requisitos para a configuração do furto privilegiado: a primariedade e o pequeno valor do bem furtado, razão pela qual têm incidência os óbices das Súmulas 283 e 284/STF. A propósito: REsp n. 1.788.474/RO, Ministra Laurita Vaz, Sexta Turma, DJe 3/12/2019; e AgRg no AREsp n. 1.211.558/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/5/2018.
+Por outro lado, mostra-se inviável a aplicação do privilégio previsto no § 2º do art. 155 do Código Penal.
+Na linha do entendimento desta Corte, para a concessão do aludido benefício no crime de furto, exige-se a conjugação de dois requisitos objetivos, consubstanciados na primariedade do agente e no pequeno valor da coisa furtada, ou seja, a importância do bem não deve ultrapassar o valor do salário mínimo vigente à época dos fatos (AgRg no REsp n. 1.785.985/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/9/2019).
+Na espécie, constata-se que os referidos requisitos não foram efetivamente preenchidos, pois, além de o Tribunal de origem expressamente afirmar que a primariedade não foi demonstrada, tendo em vista a existência de condenação com trânsito em julgado pela prática de crime da mesma natureza do ora analisado, concluiu que também não fora demonstrado o pequeno valor da res furtivae.
+Descabida, portanto, a pretensão recursal.
+Na mesma linha, veja-se o AgRg no AREsp n. 1.793.658/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/11/2021.
+Nesse contexto, para desconstituir o entendimento firmado pelo Tribunal de origem, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.A propósito:AgRg no AREsp n. 832.436/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/2/2018.
+De mais a mais, não há se falar em privilégio, considerando a falta de laudo de avaliação dos bens furtados.
+Com efeito, nos termos da jurisprudência desta Corte, a ausência de laudo pericial que defina o valor da res furtivae impede o reconhecimento do pequeno valor do objeto para fazer incidir o privilégio previsto no § 2º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido (AgRg no AREsp n. 1.846.296/MA, Ministra Laurita Vaz, Sexta Turma, DJe 11/10/2021). E, ainda, o AgRg no AgRg no HC n. 749.319/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/9/2022; e o AgRg no AREsp n. 1.823.639/MA, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 16/11/2021.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. PEDIDO DE APLICAÇÃO DA FIGURA PRIVILEGIADA. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS DA PRIMARIEDADE E DO PEQUENO VALOR. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. REVISÃO DAS CONCLUSÕES. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
