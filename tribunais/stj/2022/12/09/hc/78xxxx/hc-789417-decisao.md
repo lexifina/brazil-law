@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EVANDRO CINTRA RODRIGUES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente teve a prisão temporária decretada contra si (convertida a custódia em prisão preventiva)sob a imputação da suposta prática dos crimes de organização criminosa, tráfico de drogas, sequestro, roubo, entre outros.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A impetração, contudo, foi declarada prejudicada(e-STJ fl. 70):
+HABEAS CORPUS - PRETENDIDA A REVOGAÇÃO DA PRISÃO TEMPORÁRIA - SUPERVENIÊNCIA DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA - NOVA FUNDAMENTAÇÃO - ORDEM PREJUDICADA.
+No presente recurso, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea para a prisão preventiva, ressaltando, ainda, a insuficiência de indícios mínimos de autoria, a ausência de demonstração do periculum libertatis, devidamente amparada em elementos concretose, ainda,a desproporcionalidade da medida extrema, sobretudo por se tratar de apreensão dequantidade reduzida de drogas, mostrando-se plausível a substituição da custódia pormedidas cautelares alternativas.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+Isso porque as alegações apresentadas nesta ação não foram debatidas no ato apontado coator pelo colegiado, tendo o Desembargador Relator sequer examinado as teses suscitadas, uma vez que a superveniente prolação de decreto de prisão preventiva tornou aquela impetração sem objeto, pelo que foi reconhecida a prejudicialidade do writ.
+Observa-se, ainda, que não houve a prévia interposição de agravo regimental, na tentativa de submeter as matérias ao crivo do órgão colegiado do Tribunal estadual, de modo a atrair a competência desta Corte, nos termos do art. 105, II, da Constituição Federal.
+Nesse contexto, o Superior Tribunal de Justiça fica impedido de analisar diretamente o pleito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes do STJ e do STF.
+- Agravo regimental desprovido. (AgRg no HC n. 332.057/BA, de minha relatoria, Quinta Turma, julgado em 15/3/2016, DJe 28/3/2016).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADORA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1 - Insurgindo-se a defesa do paciente em face de decisão monocrática de Desembargadora que não analisou a pretensão pleiteada no prévio writ, contra a qual seria cabível agravo regimental, mostra-se incabível o conhecimento do pedido, pois não configurada nenhuma das hipóteses elencadas no art. 105 da CF, a ensejar a inauguração da competência desta Corte.
+2 - Não é possível a esta Corte adentrar no mérito do writ, sob pena de supressão de instância, já que não houve manifestação em última instância pelo Tribunal coator acerca dos pedidos de reconhecimento da incompetência do Juízo impetrado e a decretação da nulidade de todos os atos praticados no bojo da ação penal originária,
+3 - Não trazendo o agravante tese jurídica capaz de modificar o posicionamento anteriormente firmado, é de se manter a decisão agravada por seus próprios fundamentos.
+4 - Agravo regimental improvido. (AgInt no HC n. 242.379/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 2/8/2016, DJe 15/8/2016).
+Por fim e por respeito ao debate, cabe destacar que,ainda que fosse possível superar o referido óbice, sequer acitadadecisão que converteu a prisão temporária em prisão preventiva foi trazidaa estes autos,o que inviabiliza, de igual modo,o exame das alegações de constrangimento ilegal.
+Com efeito,a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal(AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
