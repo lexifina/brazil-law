@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, "a", da Constituição Federal de 1988, manejado contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 672, e-STJ):
+DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. ABANDONO DE CARGO. ANIMUS ABANDONANDI.
+Para que reste configurado o abandono de cargo, devem estar presentes tanto o elemento objetivo (ausência por 30 dias consecutivos) quanto o elemento subjetivo: o animus abandonandi.
+A despeito da determinação para retorno automático ao trabalho, a autora foi submetida a avaliação complementar, em 29/10/2013, na qual a junta médica concluiu que a autora tinha condições de voltar ao trabalho, porquanto a doença se encontrava estabilizada. Contudo, o que se viu foi que a autora jamais retornou ao trabalho, motivo pelo qual foi demitida.
+Embargos de declaração rejeitados (fls. 708, e-STJ).
+Nas razões do Recurso Especial, a agravante sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 489, §1 º, 405, 408 e 412 do CPC/2015 e dos arts. 138 e 140 da Lei 8.112/1990. Em síntese, aduz que o laudo pericial comprobatório da incapacidade não foi analisado, e que a servidora não tinha a intenção de abandonar o cargo público. Requer, ao final, seja declarada a nulidade do acórdão, com a realização de perícia complementar e, subsidiariamente, o retorno dos autos para novo julgamento.
+Contrarrazões às fls. 799-801, e-STJ.
+O Juízo de admissibilidade negativo (fls. 815-822, e-STJ) deu ensejo à interposição do presente Agravo (fls. 833-843, e-STJ).
+Contraminuta ofertada às fls. 848-849, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.11.2022.
+A irresignação não merece prosperar.
+Inicialmente, quanto à suposta negativa de prestação jurisdicional, a recorrente afirma que o Tribunal a quo cingiu-se a reproduzir a fundamentação da sentença e não enfrentou as alegações expressas na Apelação.
+Ao analisar a controvérsia. o colegiado originário assim se manifestou (fls. 646-647, e-STJ):
+Consoante narrado, a autora entrou em exercício no dia 08/05/2013 na APS de Rio Pardo/RS. Após alguns meses de trabalho, recebeu duas licenças para tratamento de saúde consecutivas: a primeira concedeu período de afastamento de 19/08/213 a 30/09/2013, totalizando 43 dias de afastamento (ev. 12, PROCADM1, fl. 12); a segunda, a contar de 01/10/2013, estendendo-se a 01/11/2013, ou seja, afastamento de 32 dias (ev. 12, PROCADM1, fl. 13). Neste documento, a autora já fora informada de que deveria retornar ao trabalho ao contar do término da licença, ou seja, a contar de 04/11/2013.
+A despeito desta determinação para retorno automático ao trabalho, a autora foi, ainda assim, submetida a nova avaliação complementar, em 29/10/2013, na qual a junta médica concluiu que a autora tinha condições de voltar ao trabalho, porquanto a doença se encontrava estabilizada. Contudo, o que se viu foi que a autora jamais retornou ao trabalho, motivo pelo qual foi demitida.
+Adianto que, ao contrário do que alega a autora, tenho que restou bem caracterizado o animus abandonandi, uma vez que a moléstia não tolheu a voluntariedade da conduta omissiva da autora.
+A autora, de forma espontânea, manifestou-se a respeito da sua intenção de, efetivamente, abandonar o cargo. Primeiramente, no próprio relatório complementar (ev. 12, PROCADM1, fl. 14): (..)
+Embora isoladamente a declaração de não ter intenção de retornar pudesse gerar dúvidas quanto ao seu real desejo, as demais provas dos autos autorizam concluir que se tratava de não retornar ao cargo, mais do que, simplesmente, à cidade de Rio Pardo/RS.
+Do ev. 12, PROCADM1, fls 19 e seguintes, observam-se diversas certidões, lavradas por diversos servidores, que tentaram, exaustivamente, entrar em contato com a autora para verificar por qual motivo ela deixara de retornar ao cargo. As ligações foram realizadas de 04/11/2013 até 26/11/2013, sem que a autora tenha contatado a APS - isto só ocorreu na data de03/12/2013.
+Cabe, ainda, salientar a existência de comunicação validamente realizada, por correio, sobre o conteúdo da decisão (ev. 12, PROCADM1, fl. 17).
+Como se vê, mesmo inquestionavelmente ciente do seu dever funcional, a autora ainda assim não interpôs o recurso, nem retornou ao trabalho.
+No seio do Processo Administrativo Disciplinar 35280.000564/2013-51, foi tomado depoimento da autora, do qual exsurge cristalina a existência de animus abandonandi, bem assim a preservação do seu juízo crítico, dos seus direitos e deveres, além da capacidade de entendimento quanto às consequências das suas ações e omissões.
+Como se lê, evidentemente não há ofensa ao art. 489, § 1º, do CPC/2015, visto que a Corte regional apresentou argumentos jurídicos suficientes para confirmar a intenção da parte de abandonar o cargo e retornar para a cidade de origem. Assim, revela-se desnecessária a análise de todos os demais pontos levantados, pois seriam incapazes de infirmar a conclusão adotada. Portanto, não há violação dos arts. 489, § 1º, do CPC/2015, na medida em que o órgão julgador apreciou a demanda de forma clara e precisa, deixando bem delineados os motivos e fundamentos que embasaram o .jugado.
+No mais, é evidente que, para modificar o entendimento firmado no decisum recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme dispõe a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. (..). COISA JULGADA RECONHECIDA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+6. A adoção de entendimento diverso quanto à presença dos elementos caracterizadores da coisa julgada, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+7. Agravo interno de FRANCISCO PEREIRA DA SILVA desprovido.(AgInt no AREsp 1.455.291/CE, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF 5), Primeira Turma, DJe de 2/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Na hipótese, para alterar as conclusões contidas no acórdão recorrido em relação à ocorrência da coisa julgada e aos elementos ensejadores da responsabilidade civil seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido.(AgInt no AREsp 1.978.914/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 29/4/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Desconstituir o entendimento proferido pelo acórdão recorrido, de que se operou a coisa julgada na espécie, exigiria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial. Incidência da Súmula 7 do STJ. Precedentes.
+(..)(AgInt no AREsp 1.859.558/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 6/5/2022.)
+Por fim, a incidência da Súmula 7 do STJ quanto à interposição do Recurso pela alínea "a" do permissivo constitucional impede o seu conhecimento também pela alínea "c", pois não é possível analisar a divergência jurisprudencial quando não há similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+In casu, a solução dos temas não depende apenas de se interpretar a legislação federal, mas efetivamente de se apreciar a documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Diante de todo o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+Publique-se.
