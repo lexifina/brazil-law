@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c"da CF) interposto contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+CONSUMIDOR E PROCESSO CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO.FORNECIMENTO DE ÁGUA. CAESB. TARIFA MÍNIMA MULTIPLICADA PELO NÚMERO DE UNIDADES AUTÔNOMAS (ECONOMIAS). EXISTÊNCIA DE ÚNICO HIDRÔMETRO NO CONDOMÍNIO. RESP Nº 1.166.561/RJ (TEMA 414). VIOLAÇÃO DA CLÁUSULA DE RESERVA DE PLENÁRIO (ART. 97 DA CF/1998). INOCORRÊNCIA. SENTENÇA MANTIDA.
+1 - O c. Superior Tribunal de Justiça no julgamento do REsp 1.166.561/RJ, sob a sistemática do recurso repetitivo (Tema 414), firmou o entendimento de que "A cobrança pelo fornecimento de água aos condomínios em que o consumo total de água é medido por único hidrômetro deve se dar pelo consumo real aferido. (..) não é lícita a cobrança de tarifa de água no valor do consumo mínimo multiplicado pelo número de economias existentes no imóvel, quando houver único hidrômetro no local".
+2 - A determinação de aplicação do art. 106, II, da Resolução Adasa 14/2011, utilizando-se o consumo real aferido no hidrômetro, não cria uma nova forma de faturamento imposta pelo Judiciário, apenas faz prevalecer imperiosa determinação administrativa da Agência Reguladora. Portanto, não há ingerência indevida do Poder Judiciário no mérito do ato administrativo e muito menos há que se falar em criação de uma nova forma de faturamento ou que estaria estabelecendo normas de política tarifária.
+3 - A conclusão adotada pelo Julgador não pressupõe declaração de inconstitucionalidade de dispositivo da Lei 442/1983, no tocante a cobrança de consumo mínimo, mas tão somente de interpretação da legislação infraconstitucional aplicável ao caso, com base na jurisprudência do Superior Tribunal de Justiça, o que não pode ser confundido com declaração de inconstitucionalidade.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial,violação dos arts. 22, 29 e 30 da Lei 11.445/2007; 6º, § 1º, da Lei 8.987/1995; 85 do CPC/2015; do Decreto Distrital 26.590/2006; da Lei 3.557/2005; e das Resoluções 14 e 15 da ADASA.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.11.2022.
+Inicialmente, de acordo com os Enunciados Administrativos 2 e 3 do STJ, osrequisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Constata-se que o Agravo foi interposto contra a decisão que negou seguimento ao Apelo Nobreem virtude da aplicação do art. 1.030, I, "b", do CPC/2015 (fls. 562-564, e-STJ).
+Consoante o disposto no art. 1.030, § 2º, do CPC, é cabível Agravo Interno contra decisão que nega seguimento a Recurso Especial com base no inciso I, b, do mesmo artigo. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+(..)
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE INADMISSIBILIDADE. PUBLICAÇÃO NA VIGÊNCIA DO CPC/2015. CABIMENTO DE AGRAVO INTERNO NOS TERMOS DO ART. 1.030, § 2º, DO CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO.
+1. Inicialmente, de acordo com os Enunciados Administrativos do STJ 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. No caso dos autos, aplicam-se as disposições constantes no CPC de 2015.
+2. O Recurso Especial teve seguimento negado (fls. 86-91, e-STJ) por estar o acórdão recorrido em harmonia com acórdão proferido pelo STJ no REsp 1.657.156/RJ, recurso repetitivo com base no que dispõe o art. 1.036 do CPC/2015, não tendo a parte interposto Agravo Interno, mas, incontinenti, Agravo em Recurso Especial (fls. 95-100, e-STJ).
+3. O STJ entende que "a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno" (AREsp 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 26/8/2016).
+4. Agravo Interno não provido.
+(AgInt no AREsp 1.445.583/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. APELO NOBRE INADMITIDO COM FUNDAMENTO NO ART. 1030, I, "b", DO CPC/2015. CABIMENTO DO AGRAVO INTERNO NA ORIGEM. APLICAÇÃO DO ART. 1030, §2º, DO CPC.
+1. Ação de revisão de benefício previdenciário.
+2. Não é cabível o agravo em recurso especial contra decisão que, com fulcro no art. 1030, I, "b", do CPC/2015, nega seguimento ao apelo nobre, uma vez que é de competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de suposto equívoco na aplicação de precedente representativo da controvérsia julgado por este Tribunal.
+3. Agravo interno nos embargos de declaração no agravo em recurso especial não provido.
+(AgInt nos EDcl no AREsp 1.396.609/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 20/11/2019)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo.
+Publique-se.
+Intimem-se.
