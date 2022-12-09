@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo contra a inadmissão do Recurso Especial por ausência de violação ao art. 1022 do CPC, consonância com o Tema 355/STJe incidência da Súmula 7/STJ.
+Defende o Município de Cotia/SP:
+Conforme demonstrado nas razões do recurso especial, houve contrariedade ao previsto na Lei Federal n. 13.105/2015 - CPC, especificamente ao art. 1.022, II, do CPC, uma vez que a origem não se manifestou especificamente sobre ponto crucial para deslinde da demanda (contradição do v. acórdão com os elementos probatórios juntados nos autos, uma vez que ausente unidade autônoma da embargada no Município de Taboão da Serra), a requerimento da parte: embargos de declaração opostos pela municipalidade. Além disso, adentrando na matéria de fundo, também houve violação ao artigo 3º, da Lei Complementar n. 116/03, que estabelece a competência territorial para a cobrança do ISS (regra geral), para as hipóteses previstas no item 13.3 da lista de serviços anexa à referida lei complementar.
+ ..
+Além disso, o entendimento firmado pelo E. Tribunal de Justiçado Estado de São Paulo é no sentido de que restou demonstrada a existência de unidade profissional instalada e a prestação do núcleo dos serviços, nas dependências da contratante, localizada no Município de Taboão da Serra, o que afastaria a competência e a capacidade tributárias do município em que sediada a empresa autora (Município de Cotia), para exigir o ISS sobre os serviços de impressão, digitalização, reprografia.
+Porém, o fato é que não se pode considerar como estabelecimento da parte autora a estrutura instalada no paço municipal, vez que, a toda evidência, não se trata de filial ou sede formalmente constituída e sim mera transferência de recursos humanos, de forma que se aplica a regra geral da competência territorial para a cobrança do ISS, nos termos do artigo 3º da Lei Complementar n. 116/2003 Esclarece-se, não se trata, aqui, de reexame de prova, razão pela qual de rigor seja afastada a aplicação da Súmula nº 7 do STJ ao debatido nesta demanda.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8 de novembro de 2022.
+A irresignação não merece acolhida.
+O Tribunal de origem consignou que os serviçosprevistos no contrato foram prestados nas dependências da Prefeitura de Taboão da Serra, afastando assim a legitimidade do Município de Cotia para a cobrança do ISS, respaldado nos arts. 3º e 4º da LC 116/2003.
+Da leitura atenta do Voto condutorvê-se que o Tribunal de origem manifestou-se de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais o recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos arts. 489 e 1.022 do CPC/2015.
+Não foi devidamente impugnada a consonância do julgado com o Tema 355/STJ. A fundamentação supra é apta, por si só, para manter o decisum combatido, atraindo, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+É inviável, ainda, analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar a interpretaçãoestabelecidapelo acórdão recorridosobre o art. 4º da LC 116/2003 - quanto ao local "onde o contribuinte desenvolva a atividade de prestar serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes para caracterizá-lo as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas". Aplica-se o óbice da Súmula 7/STJ.
+Sem motivopara a reforma do Juízo prelibador.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
