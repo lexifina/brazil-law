@@ -1,0 +1,30 @@
+DECISÃO
+NORBERTO DE SOUZA NETO (NORBERTO) requereu cumprimento individual da sentença proferida na Ação Civil Pública nº 1998.01.1.016798-9 pela 12ª Vara Cível de Brasília/DF, ajuizada pelo INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR (IDEC) contra o BANCO DO BRASIL S.A. (BANCO DO BRASIL) visando ao pagamento de diferenças sobre o saldo da caderneta de poupança oriundas dos expurgos inflacionários do denominado Plano Verão (janeiro/89).
+O Juízo de 1º Grau rejeitoua impugnação ao cumprimento individual de sentença manejada pelo BANCO DO BRASIL.
+Contra essa decisão, BANCO DO BRASIL interpôs agravo de instrumento que não foi provido peloTJ/SP, em acórdão da relatoria do Des. JOÃO BATISTA VILHENA assim ementado:
+AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA ILEGITIMIDADE DE PARTE PASSIVA Alegação de que seriam a União Federal e o BACEN os exclusivos responsáveis pelo quanto se está a exigir do agravante Descabimento Agravante que mantém com o agravado contrato que envolve conta poupança em relação a qual, sobre o respectivo saldo depositado em fev/89, não foi aplicada a devida correção monetária Entendimento jurisprudencial do STJ Legitimidade do agravante confirmada.
+AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA Fato do Príncipe Inocorrência Expurgos inflacionários operados em virtude do "Plano Verão" Inexistência de alteração no contrato existente entre as partes Afetação tão somente do indexador da correção monetária a ser aplicado aos depósitos existentes em conta poupança Agravante que é o responsável pela aplicação aos montantes depositados dos corretos índices de correção monetária Prejudicial rechaçada.
+AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA - EXCLUDENTES DE RESPONSABILIDAE Caso fortuito ou força maior Inocorrência Agravante que tem a responsabilidade de arcar com o pagamento dos valores devidos em virtude de falha ocorrida na remuneração e atualização dos depósitos feitos em contas poupança em fev/89 - Falha apontada que não teve origem em caso fortuito ou de força maior.
+AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA Aplicação do regime monetário vigente no momento do pagamento das prestações Responsabilidade do agravante Pagamento do valor equivalente à correta aplicação da correção monetária segundo os padrões da época e que reconhecido o ilícito, ou seja, fev/89.
+Agravo desprovido(e-STJ, fl. 142).
+Irresignado, BANCO DO BRASIL interpôs recurso especial com fundamento no art. 105, III, a, da CF/88, alegando violação dos arts. 5º, XXVI, da CF, 267, VI, e726 do CPC,100 do CDC, 2º-Ada Lei nº 9.494/97, e 5º da Lei nº 7.347/85, sustentando, em síntese, (1) ilegitimidade ativa do Ministério Público para proteger direitos individuais homogêneospatrimoniais disponíveis; (2) inviabilidade de protesto interruptivo;(3) ausência de condição de associado para postular a execução de sentença proferida em ação civil pública, bem como a necessidade de suspensão do processo;(4) que os juros de mora devem ser considerados a partir do cumprimento de sentença e não da citação na ação civil pública; e(5) que a atualização das diferenças somente pode ser feita de acordo com os índices pactuados.
+O recurso não foi admitido na origem, sobrevindo o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece conhecimento.
+BANCO DO BRASIL sustentou (1)ilegitimidade ativa do Ministério Público para proteger direitos individuais homogêneos patrimoniais disponíveis; (2) inviabilidade de protesto interruptivo; (3)ausência de condição de associado para postular a execução de sentença proferida em ação civil pública, bem como a necessidade de suspensão do processo; (4) que os juros de mora devem ser considerados a partir do cumprimento de sentença e não da citação na ação civil pública; e (5) que a atualização das diferenças somente pode ser feita de acordo com os índices pactuados.
+Verifica-se, no entanto, que os temas trazidos no apelo nobre não foram prequestionados, pois oTJSP não emitiu pronunciamento sobre eles e não foram opostos embargos de declaração para sanar eventual omissão.
+Assim, não há como ser analisada as teses trazidas no recurso especial em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. DECISÃO MANTIDA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.855.434/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 18/4/2022)
+Incidem, portanto, o teor das Súmulas nºs 282 e 356 do STF.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS.LEGITIMIDADE ATIVA,ILEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROTEGER DIREITOS INDIVIDUAIS HOMOGÊNEOS,INVIABILIDADE DE PROTESTO INTERRUPTIVO, TERMO INICIAL DOS JUROS DE MORA E CORREÇÃO MONETÁRIA.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
