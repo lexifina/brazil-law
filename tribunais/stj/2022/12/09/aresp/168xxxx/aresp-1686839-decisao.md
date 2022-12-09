@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCOS ROBERTO PATRIARCA BARBOSA e OUTRO(MARCOS e outro), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da relatoria do Desembargador João Pazine Neto, assim ementado:
+Revisão contratual. Cédulas de crédito rural. Capitalização de juros. Possibilidade. Decreto-Lei nº 167/67, artigo 5º. Súmula 93 do STJ. Cédula de crédito rural estabelecida quando em vigor a Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2170-36/2001. Súmula 539 do STJ. Contrato de adesão que não implica necessariamente ser abusivo. Limitação de juros. Impossibilidade, uma vez que os juros remuneratórios contratados se encontram conforme Decreto-Lei nº 167/67. Alongamento da dívida. Impossibilidade, nos termos do item 2.6.12 do Manual de Crédito Rural. Encargos moratórios que devem ser exigidos conforme o artigo 5º, parágrafo único, do Decreto Lei nº 167/67, o que afasta a exigibilidade da comissão de permanência. Todavia, não demonstraram os Autores a exigibilidade de encargos em patamar diverso, ônus que a eles competia. Sentença mantida. Verba honorária adequada. Justiça gratuita deferida aos Apelantes. Recurso não provido, com observação(e-STJ, fl. 1029)
+Os embargos de declaração opostos por MARCOS e outroforam rejeitados(e-STJ, fls. 1093/1096).
+Irresignados,MARCOS e outrointerpuseram recurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 12, § 3º, da Lei nº8.929/94, 14 da Lei nº 4.829/65 e 50 da Lei nº 8.171/91 e 1.022 do NCPC, ao sustentarque(1)existe contradição no acórdão, uma vez quejuros remuneratórios em demasia estão aplicados de forma imbutida nas Cédulas de Produto Rural Financeira;(2) a cédula de produto rural é regida pelos mesmos ditames da cédula de crédito rural, tendo a mesma natureza jurídica e subordinação ao CMN, devendo ser observada a capacidade de pagamento do produtor na fixação do prazo de alongamento da dívida; (3) menciona dissídio em relação à necessidade delimitação dos juros,impossibilidade de capitalização de juros e exclusão de encargos moratórios.
+O recurso não foi admitido peloTribunal de Justiça de São Paulo (e-STJ, fls. 1275/1277).
+Nas razões do presente agravo, MARCOS e outroalegaramque os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da ausência de violação do art. 1.022do NCPC
+MARCOS e outro asseveram queexiste contradição no acórdão, uma vez que juros remuneratórios em demasia estão aplicados de forma imbutida nas Cédulas de Produto Rural Financeira.
+Contudo, verifica-se que o Tribunal estadualse pronunciou sobre os temas consignando:
+Por sua vez, os encargos moratórios em razão da inadimplência dos contratos, devem obedecer o enunciado do artigo 5º, parágrafo único, do Decreto Lei nº 167/67, que assim dispõe: "Art 5º. (..). Parágrafo único. Em caso de mora, a taxa de juros constante da cédula será elevável de 1% (um por cento) ao ano", o que afasta a exigibilidade da comissão de permanência. No entanto, não se verifica que o Réu está a exigir encargos moratórios em descompasso com o regramento legal referido, ônus que pertencia aos Apelantes em demonstrar e do qual não se desincumbiram(e-STJ, fl. 1037).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RECUPERAÇÃO JUDICIAL. PENHORA DEFERIDA EM OUTRO PROCESSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA DECIDIR ACERCA DA DESTINAÇÃO DOS BENS DA EMPRESA RECUPERANDA. ART. 47, Lei 11.101/2005. PRECEDENTES. VENDA DE IMÓVEL JÁ PENHORADO EM OUTRO PROCESSO. POSSIBILIDADE. HIPÓTESE EM QUE O BEM JÁ ESTAVA EXPRESSAMENTE DESTINADO À VENDA, NO PLANO DE RECUPERAÇÃO DA EMPRESA. PREVALÊNCIA DO PROCEDIMENTO DE SOERGUIMENTO PERANTE A AÇÃO INDIVIDUAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS AOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. IRRISORIEDADE DO VALOR ARBITRADO NA ORIGEM. RECURSO ESPECIAL DE INTERPART PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO. RECURSO ESPECIAL DE SÉRGIO E.I. PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+ ..
+12. Recurso especial de INTERPART conhecido em parte e nessa extensão não provido.
+13. Recurso especial de SÉRGIO E.I. provido.
+(REsp n. 1.854.493/SP, de minha relatoria, Terceira Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Afasta-se, portanto, a alegada violação.
+(2)Da cédula
+MARCOS e outro defendem quea cédula de produto rural é regida pelos mesmos ditames da cédula de crédito rural, tendo a mesma natureza jurídica e subordinação ao CMN, devendo ser observada a capacidade de pagamento do produtor na fixação do prazo de alongamento da dívida.
+A questão foi assim analisada na origem:
+Conforme se pode depreender do processo, os Apelantes se encontram em mora em relação aos contratos indicados na ação e, portanto, não se pode falar em enquadramento ao benefício da prorrogação da dívida. Acrescente-se que, conforme corretamente enunciado pela r. sentença (pág. 789), "a alegada frustração de safra não foi comprovada pela parte autora. O documento de fls. 252, produzido de forma unilateral, não explicita a razão pela qual considera a safra frustrada, e, ainda, somente se refere a um exercício financeiro 2014..". Ademais, conforme é referido pelos Autores, a suposta quebra de safra ocorreu na lavoura de feijão e milho, enquanto que, no processo, existem outros contratos que se referem à lavoura de "soja"(e-STJ, fl. 1036).
+Assim, rever as conclusões quanto à ausência de preenchimentodos requisitos para a prorrogação da dívidademandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. REVISIONAL. CÉDULA DE CRÉDITO RURAL. CDC. MULTA MORATÓRIA. CAPITALIZAÇÃO MENSAL DE JUROS. CORREÇÃO MONETÁRIA. ENCARGOS MORATÓRIOS. PRORROGAÇÃO DA DÍVIDA. SUCUMBÊNCIA MÍNIMA.
+1. O entendimento da Corte local de que se tratando de relação de insumo é inaplicável o CDC está em conformidade com a jurisprudência do STJ.
+2. Considerando a inaplicabilidade do CDC no presente caso, consequentemente deve ser mantida a multa moratória contratada.
+3. Possibilidade de cobrança de capitalização de juros, desde que pactuada, tendo em vista que o art. 5º do Decreto-Lei n. 167/67 autoriza a cobrança do encargo nas cédulas de crédito rural, industrial e comercial.
+4. Rever o acórdão recorrido e acolher a pretensão recursal quanto à alegada hipossuficiência e vulnerabilidade dos recorrentes e ausência de pactuação expressa de capitalização de juros demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como interpretação de cláusulas contratuais, o que é vedado nesta via especial ante os óbices das Súmulas 5 e 7 do STJ.
+5. Nas razões do presente agravo interno, os agravantes não indicaram as premissas fáticas do acórdão recorrido que supostamente permitiriam conclusão jurídica diversa da adotada pelo Tribunal de origem, limitando-se a alegar, genericamente, que não seria necessário o reexame de provas.
+6. A Taxa Referencial (TR) pode ser aplicada como indexador da correção monetária nos contratos posteriores à Lei 8.177/91, desde que pactuada. Incidência da Súmula 83 do STJ.
+7. No tocante ao dissídio sobre a inoponibilidade dos encargos moratórios, a ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+8. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+9. Quanto às alegações de preenchimento dos requisitos para a prorrogação da dívida e de sucumbência mínima, o acolhimento da pretensão recursal demandaria o revolvimento de matéria eminentemente fática, o que é inviável ante o óbice da Súmula 7 do STJ.
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.365.244/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/2/2021, DJe de 2/3/2021.)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+(3) Dissídio jurisprudencial
+A jurisprudência desta Corte está sedimentada no sentido de que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente.
+Sob esse aspecto, confira-se o seguinte julgado em hipótese análoga:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MATERIAIS E MORAIS. INDENIZAÇÃO. PLANO DE SAÚDE. COBERTURA. INTERNAÇÃO. NEOPLASIA. NEGATIVA. FALECIMENTO. INADIMPLEMENTO CONTRATUAL. DIVERGÊNCIA JURISPRUDENCIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. MULTA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o dissídio jurisprudencial não restou demonstrado nos moldes legal e regimental ante a ausência de similitude fática entre os arestos confrontados.
+3. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedente.
+4. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art.
+1.021, § 4º, do CPC/2015, sendo indispensável o nítido não cabimento do recurso. Precedente.
+5. Agravo interno não provido.
+(AgInt no AREsp 1740350/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+No caso, a parte recorrente não particularizou o dispositivo de lei sob o qual recairia a divergência. Em tal circunstância, aplica-se a Súmula n. 284 do STF, tendo em vista a deficiência na fundamentação recursal.
+Nessas condições, CONHEÇOdo agravo para CONHECER EM PARTEdo recurso especial e, nessa extensão, NEGAR-LHE provimento.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de BB, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observados os benefícios da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO DE REVISÃO CONTRATUAL. CÉDULA DE PRODUTO RURAL.OMISSÃO. INEXISTÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. PRORROGAÇÃO DA DÍVIDA.REANÁLISE DE CONTRATO E DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ.DISSÍDIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. INCIDÊNCIA DA SÚMULA Nº 284 DO STF.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
