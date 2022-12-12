@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED CAMPO GRANDE/MS - COOPERATIVA DE TRABALHO MÉDICO contra decisão monocrática de fls. 452-459 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fls. 380 e-STJ):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - OPERADORA DE PLANO DE SAÚDE - PRELIMINAR DE CERCEAMENTO DE DEFESA - PROVA DOCUMENTAL SUFICIENTE - DESNECESSIDADE DE PROVA PERICIAL TÉCNICA - PRELIMINAR REJEITADA.
+I) Não há cerceamento de defesa quando o julgador indefere produção de prova que repute desnecessária, se os demais elementos probatórios carreados aos autos já são suficientes para a resolução da demanda, ainda mais quando a questão subsume-se à análise de provas documentais, in casu, a prova da necessidade de realização de internação e anestesia para procedimento cirúrgico odontológico.
+II) Preliminar de cerceamento de defesa rejeitada.
+AÇÃO DE OBRIGAÇÃO DE FAZER - PRETENSÃO DE FORNECIMENTO DE INTERNAÇÃO E ANESTESISTA PARA REALIZAÇÃO DE CIRURGIA ODONTOLÓGICA - TRATAMENTO COBERTO PELO PLANO DE SAÚDE - DIREITO DO CONSUMIDOR DE OBTER O TRATAMENTO INDICADO PELO PROFISSIONAL - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+I) Nos contratos de plano de saúde, não sendo demonstrada a existência de cláusula de exclusão de cobertura, com previsão destacada da limitação, deve o tratamento ser garantido ao segurado, nos termos indicados pelo profissional de saúde responsável pelo tratamento, não sendo possível a negativa de prestação com base na alegação de ausência de cobertura.
+II) O atendimento do plano de saúde deve ser dado ao contratante segundo os termos contratuais celebrados, os quais devem obediência ao Código de Defesa do Consumidor, de tal forma que se o profissional indica necessidade de internação e anestesia para a realização de procedimento cirúrgico, o plano de saúde não pode recusar a cobertura sob o argumento de que o procedimento não é coberto, vez que este não será custeado pelo Plano.
+III. Recurso conhecido e improvido.
+Sem oposição de embargos de declaração.
+Nas razões do recurso especial (fls. 392-409 e-STJ), a parte insurgente apontou que o acórdão recorrido violou os seguintes dispositivos legais: (i) artigo 369 do Código de Processo Civil de 2015, aduzindo a existência de cerceamento de defesa, ante o julgamento antecipado da lide e o indeferimento da produção de prova pericial; e (ii) artigo 54, § 4º, do Código de Defesa do Consumidor, defendendoa legalidade de negativa de cobertura, eis que a exclusão da prestação de serviços odontológicos consta expressamente no instrumento contratual, de forma clara e destacada. Alegou, ainda, a existência de dissídio jurisprudencial quanto à taxatividade do rol da ANS.
+Não foram apresentadas contrarrazões, conforme certidão à fl. 422 e-STJ.
+Em juízo de admissibilidade (fls. 424-426 e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: a) incidência do óbice da Súmula 282/STF; e b) aplicação do óbice da Súmula 7/STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 452-459 e-STJ), este signatário conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos: (i) incidência do óbice da Súmula 7 do STJ; (ii) aplicação dos óbices das Súmulas 283 e 284 do STF, em razão da dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada; e (iii) incidência dos óbices das Súmulas 282/STF e 284/STF, no que tange à interposição do apelo extremo com fundamento na alínea "c" do permissivo constitucional.
+Inconformada, no presente agravo interno (fls. 462-470 e-STJ), a parte recorrente insurge-se contra a negativa de seguimento ao recurso especial, combatendo a aplicação dos óbices das Súmulas 7/STJ; 283 e 284 do STF.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1.  O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a inexistência de cerceamento de defesa. Incidência da Súmula 7/STJ.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. De início, observa-se que a parte agravante não se insurgiu,de forma específica, contra a incidência do óbice da Súmulas 282/STF e 284/STF, no que tange à interposição do apelo extremo com fundamento na alínea "c" do permissivo constitucional.
+Opera-se, assim, a preclusão das matérias não impugnadas.
+2. Quanto aplicação do óbice da Súmula 7/STJ, acerca do reconhecimento da ocorrência de cerceamento de defesa, deve ser mantida a decisão que  negou  provimento  ao  recurso  especial.
+Com efeito, conforme consignado pela decisão agravada, quanto à aventada afronta ao art. 369, do CPC/15, a Corte de origem afastou o alegado cerceamento de defesa, consignando que, "in casu, a pretendida prova pericial, em nada iria alterar a solução do litígio, vez que a questão de necessidade da internação foi apontada pelo profissional de saúde responsável pela realização do procedimento indicado" (fls. 385 e-STJ).
+Efetivamente, à luz do artigo 130 do CPC/73 (atual 370 do CPC/15), cabe ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias.
+Assim, o poder de instrução, conferido ao magistrado em decorrência dos princípios da livre admissibilidade da prova e do livre convencimento motivado, autoriza-o a indeferir as provas requeridas, quando constatada sua manifesta desnecessidade ou inconveniência, o que não configura cerceamento de defesa.
+Nesse contexto, nos termos da jurisprudência desta Corte Superior, a revisão do entendimento do Tribunal de origem acerca da não ocorrência de cerceamento de defesa no caso concreto, reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DO DIREITO DE DEFESA. NECESSIDADE DA PRODUÇÃO DAS PROVAS CONSTATADA PELO TRIBUNAL DE ORIGEM. REVER A CONCLUSÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA 7 DO STJ. AGRAVO IMPROVIDO.
+ ..
+2. A análise quanto à ocorrência de cerceamento de defesa pode ser dirigida ao Tribunal local, que, com base nos elementos de prova, conclui pela necessidade de produção da prova testemunhal. Rever essa conclusão é inviável no âmbito do recurso especial, ante o disposto no enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de provas não enseja recurso especial."
+3. Agravo interno improvido.
+(AgInt no AREsp 1066155/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE TRANSCRIÇÃO. EMBARGOS DE TERCEIROS. CERCEAMENTO DE DEFESA. PRODUÇÃO PROBATÓRIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. IMPOSSIBILIDADE. COISA JULGADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A pretensão de verificar se o indeferimento de produção probatória ensejou cerceamento de defesa somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ. Precedentes.
+ ..
+3. Agravo interno não provido.
+(AgInt no REsp 1504751/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/04/2018, DJe 03/05/2018)
+3. No mérito, com relação à aplicação, por analogia, dos óbices recursais das Súmulas 283 e 284 do STF, deve  ser  mantida  a  decisão  que  negou  provimento  ao  recurso  especial.
+Quanto à apontada contrariedade ao art. 54, § 4º, do CDC, cinge-se a controvérsia recursal à verificação acerca do cabimento da negativa de cobertura no caso dos autos.
+Sobre o tema, o Tribunal de origem manteve a sentença condenatória, sob a seguinte fundamentação (fls. 387-389 e-STJ):
+O recurso deve ser improvido.
+Primeiramente é necessário esclarecer que a pretensão da requerente é a de cobertura do valor referente à estrutura hospitalar e anestesia, não havendo pedido para que a operadora do plano de saúde arque com o valor referente à extração dos sisos por profissional de odontologia.
+Dentro desta perspectiva, não há que se falar em negativa de oferecimento do procedimento por ausência de cobertura do plano de saúde.
+E ainda que assim não fosse, o procedimento realizado por ela tem por desiderato o tratamento de retrusão progressiva do complexo maxilo-mandibular (CID K 07.01) e doença degenerativa (CID M 19.91), doenças estas devidamente cobertas pelo plano de saúde.
+Como bem anotado pela douta a quo, é indevida a negativa da ré em custear o procedimento, devidamente coberto pelo plano de saúde contratado pela requerente.
+E no caso o contrato firmado entre as partes expressamente prevê a cobertura da estrutura hospitalar necessária à realização dos procedimentos odontológicos passíveis de realização ambulatória , mas que por imperativo clínico necessitem de internação hospitalar.
+Ademais, não há demonstração da ocorrência de qualquer prejuízo de cunho patrimonial à requerida agravante, vez que a pretensão exposta tem por desiderato apenas o pagamento das demais despesas advindas com a realização do procedimento e que seriam custeadas de qualquer modo pelo Plano de Saúde caso a requerente fosse tratai" diretamente a doença que lhe acomete.
+Assim, por todos os ângulos analisados, a manutenção do fornecimento dos meios necessários para realização da cirurgia é medida que se impõe.
+Deveras, o contrato de seguro e de plano de saúde tem por objeto a cobertura do risco à saúde contratado pelo segurado, ou seja, o evento futuro e certo que poderá gerar o dever de ressarcir as despesas médicas por parte da seguradora. Outro elemento essencial desta espécie contratual é a boa-fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes.
+Há perfeita incidência normativa do Código de Defesa do Consumidor nos contratos atinentes aos planos ou seguros de saúde, como aquele avençado entre as partes, podendo se definir como sendo um serviço a cobertura do seguro médico ofertada pela demandada, consubstanciada no pagamento dos procedimentos clínicos decorrentes de riscos futuros à saúde estipulados no contrato, segundo farto precedente do SUPERIOR TRIBUNAL DE JUSTIÇA a respeito desses contratos.
+Referidas espécies de contrato podem ter cláusulas limitativas do direito do consumidor, é certo, mas quando tal ocorre deve o contrato estar permeado das disposições da Lei 8.078/90 que regulam essas espécies de contratos, porque a relação jurídica celebrada entre as partes está sujeita a essa regulamentação específica protetora do consumidor.
+Sua diretriz basilar é o princípio boa-fé objetiva, o qual "visa a garantir a ação sem abuso, sem obstrução, sem causar lesão a ninguém".
+Trata-se. pois. de uma regra de conduta, ou seja, do "dever de agir com lealdade e cooperação, abstendo-se de condutas que possam esvaziar as legítimas expectativas da outra parte"
+Em decorrência do dever de agir segundo os parâmetros da boa-fé objetiva, surgem múltiplos deveres conexos, como o dever de transparência, de informação e de cooperação, por exemplo, os quais, por sua vez, embasam a redação do art. 54, §§ 3
+Observa-se, então, que toda e qualquer cláusula limitativa do direito do consumidor deve ser redigida em caráter ostensivo, claro e induvidoso, de forma a permitir a exata e imediata compreensão do consumidor, ex vi do artigo 54, § 3
+Portanto, se há cobertura para a doença, não pode subsistir qualquer limitação para a obtenção de seu tratamento.
+Assim, havendo comprovação do direito da apelada, não há que se falar reforma da sentença que julgou procedentes os pedidos iniciais para que fosse determinado o fornecimento do tratamento buscado.
+Nas razões do recurso especial, a insurgente limita-se a sustentar a legalidade da negativa de cobertura com base no único argumento de que a exclusão da prestação de serviços odontológicos consta expressamente no instrumento contratual, de forma clara e destacada.
+Nada tratou, todavia, dos demais fundamentos do acórdão recorrido, no sentido de que: (i) "a pretensão da requerente é a de cobertura do valor referente à estrutura hospitalar e anestesia, não havendo pedido para que a operadora do plano de saúde arque com o valor referente à extração dos sisos por profissional de odontologia"; (ii) "o procedimento realizado por ela tem por desiderato o tratamento de retrusão progressiva do complexo maxilo-mandibular (CID K 07.01) e doença degenerativa (CID M 19.91), doenças estas devidamente cobertas pelo plano de saúde)"; e (iii) "o contrato firmado entre as partes expressamente prevê a cobertura da estrutura hospitalar necessária à realização dos procedimentos odontológicos passíveis de realização ambulatória, mas que por imperativo clínico necessitem de internação hospitalar".
+Infere-se, assim, a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO EMBARGANTE.
+1. Admissível o agravo interno, apesar de não infirmar a totalidade da decisão monocrática recorrida, pois a jurisprudência do STJ é assente no sentido de que a impugnação a capítulos autônomos da decisão apenas induz à preclusão das matérias não discutidas.
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando a Corte de origem decide de modo fundamentado, como ocorre na hipótese, Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a aplicação das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto ao bem ser o único da família ou servi-lhe de residência ou, ainda, de subsídio para essa. Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1215038/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)  grifou-se
+3.1. Ademais, vê-se que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame do contrato de plano de saúde - demandaria o reexame das provas dos autos, juízo obstado pelas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. HOME CARE. ABUSO. DANO MORAL. EXISTÊNCIA. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou a revisão de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso, entendeu o Tribunal de origem que o beneficiário do plano teria direito ao home care, pois, interpretando o dispositivo contratual apresentado pela operadora do plano, não é possível concluir que estaria excluída a cobertura dessa terapêutica.
+3. Concluiu ainda que, no contexto em que negado o custeio - paciente que teve sua saúde posta em risco -, haveria dano moral a ser indenizado. Alterar esse entendimento exigiria reexame do acervo probatório dos autos, providência incabível em recurso especial.
+4. "Conforme jurisprudência do Superior Tribunal de Justiça, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AREsp 1.725.002/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/4/2021, DJe 23/4/2021).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.973.560/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+Portanto, inviável a admissão do presente apelo nobre.
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
