@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 370):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. AUSÊNCIA DE NOTIFICAÇÃO PESSOAL. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ARTIGO 23 DA LEI N. 12.016/2009. PRECEDENTES. RECURSO NÃO PROVIDO.
+Embargos de declaração rejeitados às fls. 401-402.
+A agravante alega que não tendo sido aprovada dentro do número de vagas ofertadas pelo Edital, mas apenas classificada em 16º lugar não há que se falar em direito líquido e certo pela só fluência do prazo de validade do certame. Afirma que se voltou quanto a ilegalidade da sua nomeação, na medida em que sua convocação foi realizada apenas no Diário Oficial, de modo que não tendo havido qualquer tentativa de notificação pessoal, não há falar em decadência da ação mandamental.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. AUSÊNCIA DE NOTIFICAÇÃO PESSOAL. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ARTIGO 23 DA LEI N. 12.016/2009. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Oprazo decadencial para o aprovado em concurso público impetrar mandado de segurança contra ausência de nomeação, o que, na situação em tela, abrange eventual irregularidade na respectiva convocação, deve ser contado da data de expiração da validade do certame. Quando já expirado o prazo de validade do concurso, não se pode falar em ato omissivo. Os efeitos da decadência passam a operar a partir do término do prazo de validade do concurso, por se tratar de um ato concreto. Precedentes.
+3. No caso concreto, mesmo considerandoque a validade do concurso se encerrou em 29/06/2014, como defende a recorrente, observa-se que a exordial do mandado de segurança somente foi protocolizada em 18/01/2019, muito além do lapso temporal de 120 (cento e vinte) dias legalmente estabelecido, sendo impositivo o reconhecimento da decadência do direito à impetração.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Sob esse enfoque, anota-se que a presente irresignação não merece prosperar.
+Com efeito, infere-se dos autos que aora agravante insurgiu-se, via mandado de segurança, contra ato atribuído ao Governador do Estado do Mato Grosso, consubstanciado na sua nomeação para o cargo de Agente de Desenvolvimento Econômico e Social  Perfil de Técnico em Enfermagem, decorrente de aprovação emconcurso público, exclusivamente mediante a publicação do ato pelo Diário Oficial, não obstante já decorrido mais de dois anos desde a homologação do resultado final do certame.
+Ao denegar a segurança, o Tribunal de origem assim manifestou-se (fls. 280-282):
+No decorrer do julgamento desta Ação Constitucional, rememorei que, assim como manifestado pela quase totalidade dos membros desta Turma, em voto recente, decidi pela impossibilidade da perpetuação do prazo para a impetração do Mandado de Segurança, em hipóteses idênticas à destes autos.
+Assinalo que o caso vertente tem por escopo a repetição do ato de convocação da Impetrante, Josimárcia de Souza Dias Batista, para assumir o cargo de Agente de Desenvolvimento Econômico e Social  Perfil de Técnico em Enfermagem, em razão da sua aprovação no concurso público regulado pelo Edital n. 005/2009, ao fundamento da impropriedade da sua anterior nomeação, realizada, unicamente, via Diário Oficial Eletrônico, embora passado considerável lapso temporal desde a homologação do certame.
+Sobre a matéria, de fato, é entendimento deste Sodalício que o ato combatido caracteriza a violação ao princípio da razoabilidade, uma vez que é inviável exigir da candidata o acompanhamento, diário, com leitura atenta, as publicações oficiais.
+Na hipótese, entrementes, o concurso foi homologado em 30/06/2010, de modo que o seu prazo de validade, de dois anos, expirou-se em 30/06/2012. A convocação, por sua vez, ocorreu em 06/11/2012, ao passo que a impetração, apenas, em 18/01/2019.
+Ainda que se considerasse a possível renovação do prazo de validade do concurso em referência, seu término teria ocorrido em 30/06/2014, de sorte que o manejo do remédio constitucional estaria autorizado até o centésimo vigésimo dia posterior àquela data, portanto, 30/10/2014.
+Em contrapartida, o protocolo deste mandamus, como alhures registrado, foi realizado quando decorridos mais de quatro anos do prazo decadencial em voga.
+É cediço que o prazo decadencial do mandado de segurança é de 120 (cento e vinte) dias, conforme dispõe o artigo 23, da Lei n. 12.016/2009, in verbis:
+ ..
+In casu, o aludido prazo se inicia com o término do período de validade do concurso público.
+Nesse sentido, a pacífica jurisprudência estabelecida nos Tribunais Pátrios, da qual destaco o seguinte julgado do Superior Tribunal de Justiça:
+ ..
+Nessa quadra, tenho que o direito pleiteado pela impetrante não encontra guarida nesta estreita via, visto que superado o prazo decadencial que é inerente ao writ.
+Com efeito, superado o prazo decadencial para a impetração, de rigor o indeferimento da inicial, nos termos do artigo 10, da Lei de n. 12.016/2009, que assim dispõe:
+ ..
+Por tais razões, hei por bem retificar o voto outrora lançado.
+Ante o exposto, INDEFIRO a petição inicial, nos termos do artigo 10, caput, da Lei n. 12.016/2009 e, de consequência, DENEGO A SEGURANÇA vindicada pela Impetrante Josimárcia de Souza Dias Batista, revogando, pois, a liminar outrora deferida.
+Malgrado as alegações apresentadas pela agravante, reitera-se que o acórdão a quo encontra-se em conformidade com a jurisprudência desta Corte no sentido de que o prazo decadencial para o aprovado em concurso público impetrar mandado de segurança contra ausência de nomeação, o que, na situação em tela, abrange eventual irregularidade na respectiva convocação, deve ser contado da data de expiração da validade do certame. Quando já expirado o prazo de validade do concurso, não se pode falar em ato omissivo. Os efeitos da decadência passam a operar a partir do término do prazo de validade do concurso, por se tratar de um ato concreto.
+A propósito, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRAZO DECADENCIAL. TERMO INICIAL. TÉRMINO DA VALIDADE DO CERTAME. ART. 23 DA LEI N. 12.906/2009. RECURSO NÃO PROVIDO, COM A DEVIDA VÊNIA AO EM. RELATOR MINISTRO NAPOLEÃO NUNES MAIA FILHO (RMS 58.698/BA, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Benedito Gonçalves, Primeira Turma, DJe 4/6/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA POLÍCIA MILITAR. MANDADO DE SEGURANÇA. PRAZO DECADENCIAL QUE TEM INÍCIO COM A EXPIRAÇÃO DA VALIDADE DO CERTAME. DECADÊNCIA CONFIGURADA.
+ ..
+3. A jurisprudência do STJ entende que, quando já expirado o prazo de validade do concurso, como na espécie, os efeitos da decadência passam a operar a partir do término do prazo de validade do concurso, por se tratar de ato concreto. Precedentes: AgInt no RMS 58.238/BA, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 8.10.2018; e RMS 58.235/BA, Rel. Ministro Herman Benjamim, Segunda Turma, DJe 23.11.2018.
+4. No caso, tendo a impetração se dado após transcorridos os cento e vinte (120) dias da ciência do ato impugnado, por evidente, já se configurou a decadência de que trata o artigo 23 da Lei 12.016/2009.
+5. Recurso Ordinário não provido (RMS 59.902/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/5/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. DECADÊNCIA. NÃO OCORRÊNCIA. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DAS VAGAS PREVISTAS NO EDITAL DO CERTAME. DESISTÊNCIA DE CANDIDATO CLASSIFICADO EM COLOCAÇÃO SUPERIOR. DIREITO À NOMEAÇÃO. INEXISTÊNCIA.
+1. O prazo decadencial para a impetração do mandamus contra ausência de nomeação de candidato aprovado em concurso público é a data do término de validade do certame.
+ ..
+5. Agravo regimental provido para negar provimento ao recurso ordinário em mandado de segurança (AgRg no RMS 46.535/DF, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Gurgel de Faria, Primeira Turma, DJe 29/04/2019).
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. PRAZO DECADENCIAL QUE TEM INÍCIO COM A EXPIRAÇÃO DA VALIDADE DO CERTAME. DECADÊNCIA DA IMPETRAÇÃO.
+1. Cuida-se de irresignação contra a decisão do Tribunal de origem que reconheceu a decadência do direito de impetração.
+2. O prazo decadencial para o aprovado em concurso público impetrar Mandado de Segurança contra ausência de nomeação deve ser contado da data de expiração da validade do certame. Quando já expirado o prazo de validade do concurso, não se pode falar em ato omissivo. Os efeitos da decadência passam a operar a partir do término do prazo de validade do concurso, por se tratar de um ato concreto. Precedentes: AgRg no RMS 46.941/SP, Rel. Min. Sérgio Kukina, DJe 27.6.2016; AgRg no MS 22.297/DF, Rel. Min. Assusete Magalhães, DJe 25.4.2016.
+3. Acerca do tema, a jurisprudência pacífica do Superior Tribunal de Justiça reconhece que o termo inicial para contagem do prazo decadencial de cento e vinte dias é a data do término do prazo de validade do concurso público, ou seja, no mesmo sentido da decisão recorrida (AgInt no RMS 50.428/MG, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º.12.2017; AgRg no RMS 48.436/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 19.9.2016).
+4. Recurso Ordinário não conhecido (RMS 57.045/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/11/2018).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. APROVAÇÃO PARA CADASTRO DE RESERVA. DECADÊNCIA NÃO CONFIGURADA. PRAZO QUE DEVE SER CONTADO A PARTIR DO TÉRMINO DA VALIDADE DO CERTAME. PRECEDENTES.
+1. O prazo decadencial para se impetrar Mandado de Segurança contra ausência de nomeação de candidato aprovado em concurso público é a data de expiração da validade do certame.
+2. No caso, o impetrante se insurge não só contra as contratações precárias, sendo este um dos fundamentos que subsidiam o direito vindicado no mandado de segurança, que é, efetivamente, a sua nomeação ao cargo. Precedente.
+3. No caso dos autos, o remédio constitucional foi impetrado dia 11/05/2015, quando ainda não havia encerrado a validade do concurso, de modo que deve ser afastada a decadência.
+4. Agravo regimental não provido (AgRg no RMS 49.330/AC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2/2/2016).
+Na mesma linha já decidiu o Supremo Tribunal Federal, in verbis:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. FISCAL DO TRABALHO. DECADÊNCIA. DIREITOS ASSEGURADOS AOS CONCORRENTES: NÃO-EXCLUSÃO E NÃO-PRETERIÇÃO. CONCURSO REALIZADO EM DUAS ETAPAS. PARTICIPAÇÃO NA SEGUNDA ETAPA (TREINAMENTO) ASSEGURADA POR MEDIDA PRECÁRIA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO À NOMEAÇÃO.
+1. O prazo decadencial para se impetrar mandado de segurança com o objetivo de obter nomeação de servidor público se inicia a partir do término do prazo de validade do concurso.
+ ..
+4. Recurso improvido (RMS 24551, Rel. MinistraEllen Gracie, Segunda Turma, DJU de 24/10/2003).
+Efetivamente, aadoção do término do prazo de validade do certame como marco inicial para impetração parte da premissa de que o candidato aprovado em concurso público deve acompanhar a validade do certame para o qual concorreu, tendo em vista que as nomeações ocorrem durante esse período, convolando-se a mera expectativa em direito líquido e certo à posse no cargo.
+Assim, mesmo que se trate de omissão da Administração Pública em deixar de notificar pessoalmente a candidata aprovada para tomar posse no cargo almejado, não se cogita de mais nomeações após o encerramento do prazo de validade do concurso. Portanto, desde o momento da expiração da validade do certame, a impetrante já reunia os atributos jurídicos suficientes para suscitar a ilegalidade do ato de nomeação.
+Nesse contexto, ainda que se considere que a validade do concurso se encerrou em 29/06/2014, como defende a recorrente, observa-se que a exordial do mandado de segurança somente foi protocolizada em 18/01/2019, muito além do lapso temporal de 120 (cento e vinte) dias legalmente estabelecido, sendo impositivo o reconhecimento da decadência do direito à impetração.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CANDIDATO APROVADO EM CONCURSO PÚBLICO. AUSÊNCIA DE NOTIFICAÇÃO PESSOAL DO ATO DE NOMEAÇÃO. EXPIRAÇÃO DO PRAZO DE VALIDADE. DECADÊNCIA DA IMPETRAÇÃO.
+1. O prazo decadencial para o aprovado em concurso público impetrar mandado de segurança contra ausência de nomeação, o que, na situação em tela, abrange eventual irregularidade na respectiva convocação, deve ser contado da data de expiração da validade do certame.
+2. Mesmo que se trate de omissão da Administração Pública em deixar de notificar pessoalmente a candidata aprovada para tomar posse no cargo almejado, não se cogita de mais nomeações após o encerramento do prazo de validade do concurso, porquanto é nesse período em que a mera expectativa pode convolar-se em direito líquido e certo à nomeação.
+3. No caso, a expiração da validade do concurso ocorreu em 8/12/2008, e o mandado de segurança apenas foi impetrado em 13/5/2014, quando há muito esgotado o prazo decadencial de 120 dias.
+4. Ainda que se considere como termo inicial para o ajuizamento do mandamus a data da publicação do ato que tornou sem efeito a nomeação da impetrante (1º/6/2009), melhor sorte não assiste à recorrente, considerando-se o longo lapso temporal entre a prática desse ato e a propositura da demanda.
+5. Agravo interno a que se nega provimento (AgRg no RMS 48.436/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/9/2016).
+A corroborar essa compreensão, transcreve-se a manifestação do ilustre representante do Parquet com assento nesta Corte que, em seu Parecer acostado aos presentes autos, destacou que "apesar de não se reconhecer razoável, "em concurso público, que a convocação de aprovado para etapas posteriores à homologação do certame seja feita unicamente mediante publicação na imprensa oficial, quando houver decorrido extenso lapso temporal entre essa homologação e a nova etapa" (RMS 61.572/AM, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 14.10.2019), o impasse, na espécie, está no fato de que a candidata somente manejou mandado de segurança sobre a questão em 2019, muitos anos após a expiração da validade do certame, quando o ato impugnado já se apresentava como um ato concreto" (fl. 368).
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
