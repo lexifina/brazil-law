@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.040/1.048) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, o agravante refuta a aplicação da Súmula n. 7 do STJ alegando que " o agravante pretende, com base nas conclusões firmadas pelas instâncias ordinárias, o pronunciamento desta Corte de Vértice sobre a alegada impossibilidade de o Tribunal a quo reavivar, no âmbito de apelação, questão sepultada em julgamento pretérito, a teor do que dispõe os arts. 507 e 508, do CPC" (e-STJ fl. 1.044).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.051).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, para alterar a conclusão da Corte estadual de que houve equívoco no cadastro dos patronos no sistema e de que a parte recorrida manifestou-se na primeira oportunidade após efetuada a correção cadastral, seria necessária análise de matéria fática, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+O agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.031/1.033):
+Cuida-se de agravo apresentado por APARECIDO ALBINO DECHICHE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. SENTENÇA DE EXTINÇÃO DO PROCESSO POR SATISFAÇÃO DA OBRIGAÇÃO. INSURGÊNCIA DA AUTORA PELA NULIDADE DA INTIMAÇÃO EXPEDIDA A ADVOGADO DIVERSO DO INFORMADO NOS AUTOS. NÃO OBSERVÂNCIA PEDIDO DE INTIMAÇÃO EXCLUSIVA. INTIMAÇÃO EM NOME DE PATRONO DIVERSO DO INDICADO PELA PARTE. PREJUÍZO EVIDENCIADO MEDIANTE O PROSSEGUIMENTO DO FEITO EM CUMPRIMENTO DE SENTENÇA PARA EXECUÇÃO DE VERBA HONORÁRIA. NULIDADE DA INTIMAÇÃO DA SENTENÇA DE CONHECIMENTO E DEMAIS ATOS PROCESSUAIS SUBSEQUENTES (§ 5º, DO ART. 272, DO CPC). RECURSO CONHECIDO E PROVIDO.
+Alega o recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 507 e 508 do CPC, no que concerne preclusão da matéria objeto do recurso de apelação, trazendo o(s) seguinte(s) argumento(s):
+A 17a Câmara Cível do Tribunal de Justiça do Paraná conheceu e deu provimento ao recurso de apelação interposto pelo banco recorrido contra decisão que extinguiu a fase de cumprimento de sentença (mov. 249 - 1 0 grau), com fulcro no art. 924, II, do CPC/15, cassando todos os atos processuais realizados após a publicação sentença prolatada na fase de conhecimento (mov. 16 - 2 0 grau).
+Ocorre que o acórdão de origem infringiu a regra disposta no artigo 507 e 508 do Código de Processo Civil de 2015. É a seguinte a redação dos dispositivos legais em referência:
+Art. 507. É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
+Art. 508. Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido
+Na situação em tela, conforme sublinhado em linhas volvidas, o mesmo vício processual arguido em sede de apelação foi ventilado anteriormente pela instituição financeira recorrida na impugnação de mov. 146.1
+O cotejo entre ambas as peças processuais revela que tanto na impugnação de seq. 146.1 quanto na apelação (cópias anexas) a instituição financeira suscitou nulidade do processo por ausência de intimação do patrono constituído à época pelo banco, Genésio Felipe Natividade, acerca da sentença de abandono exarada na fase de conhecimento, pois, segundo suas razões, o cartório judicial não habilitou o citado advogado no processo eletrônico, direcionando a intimação à procuradora Fabíula Müller Koening, a qual realizou a leitura das intimações expedidas no mov. 36 e 42.
+Acontece que o juízo de primeira instância resolveu o mérito do incidente instaurado na fase de execução de sentença por ocasião da prolação da decisão interlocutória, que repeliu a tese de nulidade dos atos processuais suscitada pelo banco recorrido (vide mov. 151.1 - 1 0 grau).
+A citada decisão singular outrora exarada, que apreciou em cognição exauriente a tese jurídica de nulidade por vício na intimação do representante legal do banco, até mesmo foi objeto do agravo de instrumento no 0014227- 47.2018.8.16.0000, cuja decisão monocrática que negou conhecimento ao recurso foi impugnada, por seu turno, via recurso especial não admitido na origem (cópias inclusas), operando-se o fenômeno da preclusão (fls. 846/847).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Por fim, em que pese a alegação em contrarrazões de preclusão da matéria objeto de recurso, há que se considerar, primeiro, que a confusão processual foi causada por equívoco no cadastro dos patronos no sistema e, em segundo, que houve manifestação do banco pela nulidade processual em sua primeira oportunidade depois de efetuada a correção cadastral (mov. 146.1) e, ainda, que a nulidade processual pode ser reconhecida a qualquer tempo, inclusive de ofício, não havendo, assim, que se falar em razão de apelo preclusa (fls. 773/774 - grifos acrescidos).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ". (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+A alegação de ocorrência de coisa julgada foi afastada pela Corte estadual mediante os seguintes fundamentos (e-STJ fls. 773/774):
+Por fim, em que pese a alegação em contrarrazões de preclusão da matéria objeto de recurso, há que se considerar, primeiro, que a confusão processual foi causada por equívoco no cadastro dos patronos no sistema e, em segundo, que houve manifestação do banco pela nulidade processual em sua primeira oportunidade depois de efetuada a correção cadastral (mov. 146.1) e, ainda, que a nulidade processual pode ser reconhecida a qualquer tempo, inclusive de ofício, não havendo, assim, que se falar em razão de apelo preclusa.
+Alterar as conclusões do Tribunal de origem de que houve equívoco no cadastro dos patronos no sistema e de que o banco manifestou-se na primeira oportunidade após efetuada a correção cadastral demandaria análise de matéria fática, inviável em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
