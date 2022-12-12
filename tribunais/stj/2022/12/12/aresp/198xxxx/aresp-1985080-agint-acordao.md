@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+CONDOMÍNIO RESIDENCIAL FIT GIARDINO (CONDOMÍNIO) ajuizou ação de indenização contra CONSTRUTORA TENDA S.A. e FIT 31 SPE EMPREENDIMENTOS IMOBILIARIOS (TENDA e outra), objetivando acondenação das rés ao cumprimento de obrigação de fazer, consubstanciada na correção de vícios construtivos tidos no empreendimento, bem como indenização por danos materiais.
+No curso da ação, o d. Juízo de primeira instância indeferiu o pedido de reconhecimento da decadência, arguido pelas rés.
+O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao agravo de instrumento interposto por TENDA e outra, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROMESSA DE COMPRA E VENDA. VÍCIOS CONSTRUTIVOS. DECADÊNCIA. PEDIDOS INDENIZATÓRIOS. ARTIGO 27, CDC. PRAZO DE GARANTIA LEGAL. ARTIGO 618, PARÁGRAFO ÚNICO, CÓDIGO CIVIL. Da decadência. O pedido relacionado à obrigação de fazer (conserto) indica expressamente, como alternativa em favor do autor, a possibilidade de conversão em perdas e danos (item "d" da inicial), o que denota a eficácia preponderantemente indenizatória da demanda, atraindo a incidência do artigo 27 do Código de Defesa do Consumidor. De acordo com o que preceitua o artigo 618 do Código Civil nos contratos de empreitada de edifícios ou outras construções consideráveis, o empreiteiro de materiais e execução responderá, durante o prazo irredutível de cinco anos, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo. Esse prazo, contudo, diz respeito à garantia legal, não se confundindo com prazo prescricional ou decadencial. Sendo assim, o prazo decadencial de 180 dias a que se refere o parágrafo único do mesmo dispositivo legal não pode ser interpretado em detrimento do direito de garantia referido, e deve incidir apenas quando já exauridos os cinco anos previstos no caput. Precedentes desta Corte. NEGARAM PROVIMENTO AO AGRAVO. UNÂNIME. (e-STJ, fl. 239).
+Os embargos de declaração que se seguiram foram rejeitados (e-STJ, fls. 331/335).
+Inconformadas, TENDA e outra interpuseram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando dissídio jurisprudencial, bem comoviolação dos arts. 1.022, II, do CPC; 26, II, do CDCe 618, parágrafo único, do Código Civil. Sustentaram o seguinte:(1) negativa de prestação jurisdicional, pela omissão da análise da decadência, com baseno art. 26, II, do CDC; e(2)a prejudicial de decadência não foi suscitada quanto aos pedidos indenizatórios, e, sim,quanto aopedidode obrigação de fazer, especificamente os itens "c" e "e" da petição inicial.
+Após a apresentação das contrarrazões, o recurso foi inadmitido pelo TJRS, ante a incidência daSúmulanº83 do STJ (e-STJ, fls. 411/419 e 422/429).
+Sobreveio, então, agravo em recurso especial que, em decisão monocrática da minha relatoria, foi conhecido para negar provimento ao apelo nobre, nos termos da seguinte ementa:
+CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMA DO NCPC. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1022 DO NCPC. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AÇÃO INDENIZATÓRIA. VÍCIOS DE CONSTRUÇÃO NO IMÓVEL. PRETENSÃO DE INDENIZAÇÃO PARA OS REPAROS NECESSÁRIOS. PRAZO DECADENCIAL DO ART. 26 DO CDC (90 DIAS). INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO AO PRAZO PRESCRICIONAL. DO ART. 27 DO CDC. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fls. 487/493).
+Nas razões do presente agravo interno, TENDA e outra insistiram nos mesmos argumentos despendidos no apelo nobre(e-STJ, fls. 496/503).
+Foi apresentada impugnação (e-STJ, fls. 506/512).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMA DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. VÍCIO DE CONSTRUÇÃO NO IMÓVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.Inexistentes as hipóteses do art. 1.022, II, do CPC,não merecem acolhimento os embargos de declaraçãoque têm nítido caráter infringente.
+2.1. Os embargos de declaração não se prestam à manifestação deinconformismo ou à rediscussão do julgado.
+3. OTJRS concluiu que, em se tratando de pretensão preponderantemente indenizatória, porvícios na construção, é aplicável, na espécie, o prazo prescricional, e não o decadencial de 180 dias previsto no parágrafo único do art. 618do CC. Entendimento em consonância com a jurisprudência desta Corte. Incidência da Súmula nº 83 do STJ.
+4.Agravo interno não provido.
+VOTO
+O recurso não merece acolhida.
+De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Em suas razões recursais, TENDA e outra insistiram na tese de violação do art. 1.022, II do CPC, sustentandoque o acórdão estadualdeveria ser cassado e ordenado novo julgamento, para que o TJRS se manifestassesobre a incidência do art. 26, II, do CDC, no caso em exame.
+No entanto, referidaofensa somente ocorre quando o acórdão contém erro material e/ou deixa de se pronunciarsobre questão jurídica, ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é corrigir eventual incorreção material do acórdão ou complementá-lo, quando identificada omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+Na hipótesesub judice, o Tribunal estadual enfrentou a controvérsia adequadamente,encontrando motivo suficiente para fundamentar a decisão,não estandoobrigado a se ateraos fundamentos indicados pelas partes, tampouco a examinar todos os artigos de lei invocados no recurso.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL AMBIENTAL. ARTS. 489, § 1º, E1022,II, DO CPC.OMISSÃONÃO CONFIGURADA. COMPROVAÇÃO DE QUE A PARTE AUTORA FOI ATINGIDA PELA IRREGULAR EMISSÃO DE MAUS ODORES. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. Cuida-se de ação de procedimento ordinário proposta pela parte ora agravante contra a Companhia de Saneamento do Paraná - SANEPAR, com o fim de obter indenização pelos danos morais decorrentes da irregular emissão de gases pela Estação de Tratamento de Esgoto Guaraituba, com geração de intenso mau cheiro.
+2. Não há falar em ofensa aos arts. 489, § 1º, IV, e1.022do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ouausênciade prestação jurisdicional.
+3. O Tribunal a quo não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável aanálisedosdispositivosque pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp 2.009.722 / PR, Rel. MinistroSÉRGIO KUKINA, Primeira Turma, j.3/10/2022 - sem destaque no original).
+Dessa forma, não obstante a insurgência manifestada, não se pode cogitar de ofensa ao art. 1.022, II, do CPC.
+Quanto ao pedido de reconhecimento dadecadência, o inconformismo das recorrentes não prospera.
+Segundo sustentaram TENDA e outra, deve ser reconhecida adecadência do direito do CONDOMÍNIO acerca da reparação dos vícios construtivos do imóvel,porquanto eles seriam de fácil constatação, de modo que teria escoado o prazo previsto noparágrafo único do art. 618 do CC(Decairá do direito assegurado neste artigo o dono da obra que não propuser a ação contra o empreiteiro, nos cento e oitenta dias seguintes ao aparecimento do vício ou defeito).
+A Corte local afastou a prejudicial, sob o fundamento de que a pretensão doCONDOMÍNIO tem eficácia preponderantemente indenizatória, e não obrigacional, já que, no pedido relacionado à obrigação de fazer, existe pedido alternativo pela conversão em indenização por danos materiais.Outro argumento utilizado peloacórdão é de queo prazo de 180 dias previsto no parágrafo único do art. 618 incidiria somente após o decurso do prazo quinquenal docaput do mesmo dispositivo.Confira-se:
+(..)no caso dos autos, a parte autora busca também ser indenizada pelos danos decorrentes do negócio entabulado entre as partes, conforme se extrai da leitura da inicial, cuja cópia instruiu o presente agravo (fls. 18/31).
+O próprio pedido relacionado à obrigação de fazer (conserto) indica expressamente, como alternativa em favor do autor, a possibilidade de conversão em perdas e danos (item "d" da inicial), o que denota a eficácia preponderantemente indenizatória da demanda.
+Assim, diante do pedido de ressarcimento de danos em decorrência de alegado fato do produto, aplicável o prazo de cinco anos previsto no artigo 27 do Código de Defesa do Consumidor:
+(..)
+Desse modo, mostra-se acertada a decisão ora agravada, que rejeitou a prefacial, considerando que o laudo pericial que constatou os vícios data de 05/06/2015, sendo proposta a presente ação em 22/03/2016, de modo que efetivamente não restou implementado o prazo prescricional de cinco anos previsto para a espécie, razão pela qual se rejeita a prefacial de decadência.
+(..)
+Ademais, não obstante os pedidos indenizatórios, verifico que o prazo a que alude o artigo 618, do Código Civil é tão somente de garantia, sendo entendimento desta Câmara que o respectivo parágrafo único incide somente após o decurso do prazo previsto no caput do dispositivo legal.
+De fato, esse prazo decadencialde 180 dias é para redibir ocontrato, rejeitando-se a obra, ou, eventualmente, pleitear o abatimento no preço, não se confundindocom o prazo prescricional para pleitear a reparação pelos danos materiais.
+De acordo com os ensinamentos de PABLO STOLZE:
+Este prazo decadencial se refere, única e exclusivamente, ao exercício dodireito de garantia. Trata-se, portanto, de um prazo para o ajuizamento dapostulação decorrente de uma ação redibitória ou a quanti minoris, que discrepada regra geral contida no art. 445 do Código Civil.
+Tal prazo decadencial não se confunde com o prazo prescricional para oajuizamento de postulação de natureza condenatória, para a obtenção deindenização pelos danos verificados.
+(Manual de direito civil; volume único - São Paulo: Saraiva, 2017, p. 806).
+Referido dispositivo foi, inclusive, objeto de análise pelaIII Jornada de Direito Civil da Justiça Federal, que editou o Enunciado nº 181, com a seguinte redação:
+Enunciado n. 181  Art. 618: O prazo referido no art. 618, parágrafo único, do CC refere-seunicamente à garantia prevista no caput, sem prejuízo de poder o dono da obra, com base nomau cumprimento do contrato de empreitada, demandar perdas e danos;
+Tal entendimento também encontra-se em harmonia com precedentes desta Corte Superior, do que são exemplos os seguintes julgados:
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E COMPENSAÇÃO DE DANOS MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO ADEQUADA. DEFEITOS APARENTES DA OBRA. METRAGEM A MENOR.PRAZO DECADENCIAL. INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO À PRESCRIÇÃO. PRAZODECENAL. ART. 205 DO CÓDIGO CIVIL.
+1. O propósito recursal é o afastamento da prejudicial de decadência em relação à pretensão de indenização por vícios de qualidade e quantidade no imóvel adquirido pelos consumidores.
+2. É de 90 (noventa) dias oprazopara o consumidor reclamar por vícios aparentes ou de fácil constatação no imóvel por si adquirido, contado a partir da efetiva entrega do bem (art. 26, II e § 1º, do CDC).
+3. No referidoprazo decadencial,pode o consumidor exigir qualquer das alternativas previstas no art. 20 do CDC, a saber: a reexecução dos serviços, a restituição imediata da quantia paga ou o abatimento proporcional do preço. Cuida-se de verdadeiro direito potestativo do consumidor, cuja tutela se dá mediante as denominadas ações constitutivas, positivas ou negativas.
+4. Quando, porém, a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência deprazo decadencial.A ação, tipicamente condenatória, sujeita-se aprazode prescrição.
+5. À falta deprazoespecífico no CDC que regule a pretensão de indenização por inadimplemento contratual, deve incidir oprazogeral decenal previsto no art. 205 do CC/02, o qual corresponde aoprazovintenário de que trata a Súmula 194/STJ, aprovada ainda na vigência do Código Civil de 1916 ("Prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos na obra").
+6. Recurso especial conhecido e provido.
+(REsp 1.717.160 / DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma. j.22/3/2018 - sem destaqueno original).
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. PRESCRIÇÃO. REVISÃO. SÚMULA Nº 7/STJ. CERCEAMENTO DE DEFESA. SÚMULA Nº 7/STJ.
+ .. .
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se a pretensão do consumidor é de natureza indenizatória (de ressarcimento pelo prejuízo decorrente dos vícios do imóvel), não há incidência de prazo decadencial. A ação condenatória sujeita-se a prazo de prescrição.
+ ..
+5. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.783.556/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 25/5/2020, DJe 28/5/2020).
+Desse modo, como bem ponderado pela decisão agravada, verifica-se que oacórdão recorrido está em sintonia com a orientação assentada nesta Corte, aplicando-se, à espécie, o óbice da Súmula nº 83 do STJ.
+Assim, como TENDA e outranão demonstraramo equívoco nos fundamentos da decisão agravada, deve ser mantido o não provimento do agravo em recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
