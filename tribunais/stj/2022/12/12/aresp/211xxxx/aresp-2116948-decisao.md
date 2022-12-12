@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial pela impossibilidade de análise, pelo Superior Tribunal de Justiça, de matéria constitucional e no remanescente pela consonância do acórdão com a jurisprudência pacífica desta Corte.
+Pretende Jorge Luísde Almeida Gomes a declaração da competência estadual para o julgamento da lide, aduz para tanto que a União não manifestou interesse no feito e, tratando-se de contrato realizado pelo Ente público Estadual, cujo julgamento de contas será feita perante o TCE do estado do Pará, não há porque deslocar a competência para julgamento do feito para a Justiça Federal.
+Contraminuta do Ministério Público Federal às fls. 380-388, e-STJ.
+Este recurso tem conexão com os REsps 1.956.221 (responsabilidade solidária) e também com os REsps 1.984.805/PA; 1.955.116/AM; 1.955.300/DF; 1.955.440/DF; 1.955.957/MG (indisponibilidade dos bens).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22 de novembro de 2022.
+Dessume-se que o Agravo de Instrumento foi provido mantendo a competência para julgar a Ação Civil Publica perante a Justiça Federal. Consignou:
+Sem a ocorrência de quaisquer alterações fáticas desde a análise do pedido de liminar, constata-se, nos termos já delineados, que merece reparo o julgado recorrido, eis que, mostra-se razoável do ponto de vista jurídico/processual que este Juízo Federal detenha competência para o regular processamento do feito originário, na medida em que figurando a União como garantidora do contrato de empréstimo que teria financiado investimento público onde analisadas possíveis irregularidades, não se pode concluir, neste momento processual, a ausência de prejuízo ao erário, ou até mesmo, inocorrência de ato de improbidade, pelo que se afigura prematuro o declínio determinado pelo Juízo singular.
+ ..
+A competência do Ministério Público, por sua vez, advém da própria Constituição Federal, que, em seu art. 129, III, dispõe como função institucional do referido órgão, a promoção de inquérito civil e ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos.
+O fundamento constitucional dado à matéria impede o conhecimento do Recurso. Apreciar a questão, embasada nos referidos dispositivos, implicaria em usurpação da competência do Supremo Tribunal Federal. Precedente: AgInt no AREsp 1.732.903/SC, Relator Ministro Herman Benjamin, Segunda Turma, DJe 17.2.2021. Destaco precedente do Pretório Excelso:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTE DESTA SEGUNDA TURMA EM CASO ANÁLOGO (RE 822.816-AGR, DE MINHA RELATORIA).
+1. Para efeito de determinação de competência, pouco importa que a parte seja legítima ou não. A existência ou não da legitimação deve ser apreciada e decidida pelo juiz considerado competente para tanto, o que significa que a questão competencial é logicamente antecedente e eventualmente prejudicial a da legitimidade das partes.
+2. O que se leva em consideração é a parte processual, que nem sempre coincide com a parte legítima. Parte processual é a que efetivamente figura na relação processual, ou seja, é aquela que pede ou em face de quem se pede a tutela jurisdicional numa determinada demanda. Já a parte legítima é aquela que, segundo a lei, deve figurar como demandante ou demandada no processo.
+3. A simples circunstância de se tratar de ação civil pública proposta pelo Ministério Público Federal é suficiente para fixar a competência da Justiça Federal. Ao juiz federal caberá apreciar a demanda, ainda que seja para dizer que não é ele, e sim o Ministério Público Estadual, o que tem legitimação ativa para a causa. Concluindo pela ilegitimidade, a solução não será a da declinação de competência, mas a de extinção do processo sem julgamento de mérito.
+4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC/2015, pois não houve prévia fixação de honorários advocatícios na causa. (STF-ARE 859405/SP, relator Ministro Teori Zavaski, Segunda Turma, DJe10.8.2016)
+Ainda que assim não fosse, compete à Justiça Federal decidir acerca da existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas (Súmula 150/STJ).
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
