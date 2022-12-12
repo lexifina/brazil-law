@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por JOSÉ CORDEIRO RAMOS e FÁBIO DA SILVA HONORIO contra acórdão da Sexta Turma assim ementado:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 180, § 1º, IV, DO CÓDIGO PENAL. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. DOSIMETRIA. PENA-BASE. ANTECEDENTES CRIMINAIS. AFASTAMENTO. SÚMULA N. 7/STJ. ART. 387, § 2º, DO CPP. CIRCUNSTÂNCIAS DESFAVORÁVEIS. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática pelo relator quando a decisão for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça. Precedentes.
+2. Sobre a valoração negativa dos antecedentes criminais, o Supremo Tribunal Federal decidiu, em recurso extraordinário com repercussão geral, que "não se aplica aos maus antecedentes o prazo quinquenal de prescrição previsto para a reincidência (art. 64, I, do Código Penal)" (RE n. 593.818, relator ROBERTO BARROSO, Tribunal Pleno, julgado em 18/8/2020, processo eletrônico, REPERCUSSÃO GERAL - MÉRITO, DJe-277, divulgado em 20/11/2020, publicado em 23/11/2020). Contudo, segundo a jurisprudência desta Corte, "quando os registros da folha de antecedentes do réu são muito antigos  .. , admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento" (REsp n. 1.707.948/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/4/2018, DJe de 16/4/2018.). Nesse contexto, "o cômputo do prazo do para aplicação do direito ao esquecimento em relação aos antecedentes é realizado entre extinção da pena anteriormente imposta e a prática do novo delito" (EDcl no AgRg no HC n. 696.253/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.). Precedentes.
+3. Na hipótese, todavia, com base no quadro fático delineado pelas instâncias ordinárias, é inviável examinar a pretensão recursal sob essa ótica sem o revolvimento fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+4. "Embora a reprimenda não tenha ultrapassado 4 anos, as circunstâncias judiciais desfavoráveis e a reincidência justificam a fixação do regime inicial fechado, segundo a jurisprudência desta Corte, mostrando-se inócua, inclusive, para fins de escolha do regime inicial, a discussão acerca da detração do tempo de prisão provisória (art.387, § 2º, do Código de Processo Penal - CPP)" (AgRg no HC n. 490.175/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 30/5/2019, DJe 11/6/2019). Precedentes.
+5. A substituição da pena privativa de liberdade por restritivas de direitos não se revela adequada à espécie, pois foram reconhecidas circunstâncias judiciais desfavoráveis, situação bastante a afastar o requisito subjetivo previsto no art. 44, inciso III, do Código Penal. Precedente.
+6. Agravo regimental desprovido.
+Nestes declaratórios, os embargantes requerem o acolhimento do recurso "para que se esclareça se, efetivamente, entende-se que os embargantes devam ser presos, com o trânsito em julgado, em regime fechado e semiaberto para que, apenas então, sejajulgada extinta a pena pelo cumprimento ou se lhes defira o livramento ou a progressão a que já têm direito, consolidando-se o erro judiciário" (e-STJfl. 864).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 180, §§1º e 2º, DO CÓDIGO PENAL. RECEPTAÇÃO QUALIFICADA. VÍCIO. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. Assim, não demonstrada a ocorrência de nenhum dos vícios previstos no art. 619 do CPP, descabe o acolhimento dos presentes aclaratórios. Percebe-se, isso sim, que há uma insatisfaçãoquanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+A despeito dos argumentos expendidos, é certo que a decisão embargada analisou as questões submetidas ao crivo desta Corte de forma fundamentada e com clareza, nos limites necessários e possíveis à solução da lide. Sobre anorma prevista no art. 387, § 2º, do CPP, destacou-se que a existência de circunstâncias judiciais desfavoráveis torna inócua sua aplicação.
+Logo, não há razões para se falar em nenhum vício.
+Nestes declaratórios, embora não apontem com clareza o vício, depreende-se que os embargantes pretendem esclarecimentos acerca da progressão de regime a ser realizada emexecução penal, o que nem sequer foi objeto de apreciação judicial.
+Nesse contexto, importa ressaltar que "não é cabível a formulação de novas teses em embargos declaratórios, porque constitui indevida inovação recursal" (EDcl no AgRg no AREsp n. 2.102.592/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/9/2022, DJe de 21/9/2022.).
+Ademais, cumpre esclarecer que "o instituto da detração penal não se confunde com o da progressão de regime. Assim, a análise de eventual cumprimento dos requisitos objetivo e subjetivo para a progressão de regime é competência originária do juiz que preside sobre o cumprimento da pena, nos termos do art. 66, inciso III, alínea "b", da Lei de Execução Penal" (AgRg no HC n. 629.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/12/2020, DJe de 17/12/2020.).
+Percebe-se, isso sim, que há uma insatisfaçãoquanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
