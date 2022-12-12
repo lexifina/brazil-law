@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BRAGUA SOLUÇÕES COMERCIAL IMPORTAÇÃO EXPORTAÇÃO DE SERVIÇOS LTDA., inconformada com a decisão de fls. 786/789, que conheceu do agravo para negar provimento ao recurso especial em razão da incidência da Súmula 356/STF e da Súmula 7/STJ.
+Em suas razões, a agravante aponta (a) que a discussão arguida em recurso especial decorre da análise da literalidade do dispositivo legal, de modo que não demanda análise de fatos e (b) que houve o prequestionamento, ainda que imiplícito, dos dispositivos indicados, sendo evidente que o acórdão discute a responsabilização da agravante decorrente de prestação de serviços,
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. VALOR DOS DANOS MATERIAIS. REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, as Súmulas 282 e 356 do STF.
+2. A Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que o valor dos danos materiais foi corretamente arbitrado, considerando a mão de obra e outras despesas inerentes à reexecução da obra, decorrente do defeito no serviço executado pela agravante.
+3. A modificação do valor arbitrado pela instância de origem a título de danos materiais exige o reexame do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Tem-se que os arts. 337, XI do CPC/15 e 14, §3º, II do CDC não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto dos embargos de declaração opostos às fls. 416/418, não se vislumbrando o prequestionamento, sequer implícito, necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentid6o:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Ademais, tem-se que a Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que o valor dos danos materiais foi corretamente arbitrado, considerando a mão de obra e outras despesas inerentes a reexecução da obra, decorrente do defeito no serviço executado pela agravante, in verbis:
+"Não profliga a pretensão recursal subsidiária de redução do valor condenatório, àquele correspondente ao refazimento apenas da camada de regularização, porque é inegável todo o desdobramento provocado pelo defeito no serviço realizado pela ré, que, necessariamente, antecede a impermeabilização da piscina, a exigir mão de obra e outras despesas inerentes para o desfazimento de tudo até o atingimento daquela camada de concreto estrutural, para a reexecução da regularização dos planos e posterior nova aplicação de impermeabilizante na obra. A respeito disso, a recomendação pericial foi no sentido de que, desta vez, tendo em vista a anterior falha evidenciada na regularização da área e de infiltração da resina aplicada, a impermeabilização deveria ser realizada com outro material, manta asfáltica, a fim de garantir o resultado positivo do serviço. Não houve a apresentação de orçamentos comparativos entre uma ou outra técnica de impermeabilização, a fim de se verificar sensível diferença de valores alegada pela ré. No entanto, nem mesmo isso seria óbice para que tais gastos estivessem mesmo abarcados na condenação ao pagamento de indenização por danos materiais atribuída a ela, uma vez que toda a problemática discutida no processo teria tido origem, como já repisado, no defeito de serviço executado pela ré e que ensejou, agora, a aplicação de outra técnica de impermeabilização para a garantia e segurança de resultado satisfatório da obra." (e-STJ, fls. 396/398)
+Nesse contexto, a modificação do v. acórdão recorrido para reconhecer que o valor determinado em sede de danos patrimoniais é excessivo demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA COMBUSTÍVEL. ADULTERAÇÃO. INVERSÃO DO ÔNUS DA PROVA. CABIMENTO. PRECEDENTES. POSTO DE GASOLINA. DEVER DE PRESERVAR AMOSTRAS DO PRODUTO. VIABILIZAÇÃO DA PERÍCIA. DESÍDIA. VEROSSIMILHANÇA DAS ALEGAÇÕES. VEÍCULO QUE APRESENTOU FALHAS MECÂNICAS APÓS O ABASTECIMENTO DE COMBUSTÍVEL. RESPONSABILIDADE CIVIL CARACTERIZADA. DANOS MATERIAIS COMPROVADOS. DANOS MORAIS CONFIGURADOS. VALOR FIXADO PARA A INDENIZAÇÃO. CONFORMIDADE COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. REFERÊNCIA. NÚMERO DE AUTORES DA DEMANDA. ROL DE ATINGIDOS PELA CONDUTA. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria foi objeto de exame em decisão exarada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O exame da pretensão recursal de reforma do v. acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial nos termos do enunciado da Súmula 7 do STJ. Dissídio prejudicado.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.997.188/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VIOLAÇÃO DOS ARTS. 186 E 927 DO CÓDIGO CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DEFEITO. VÍCIO DO PRODUTO. CONCESSIONÁRIA. COMERCIANTE. RESPONSABILIDADE SOLIDÁRIA. DANOS MATERIAIS. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. As razões do recurso especial não desenvolveram argumentação que evidenciasse a ofensa aos artigos 186 e 927 do Código Civil, caracterizando a deficiência na fundamentação do apelo especial, circunstância que atrai, por analogia, a incidência da Súmula 284 do STF.
+2. O acórdão recorrido está de acordo a jurisprudência desta Corte Superior, no sentido de que a responsabilidade entre a concessionária e a fabricante de veículos por defeitos no automóvel - vício do produto - é solidária. Precedentes.
+3. No caso, o Tribunal de origem consignou que é "correta a condenação da requerida ao ressarcimento dos valores despendidos com o conserto do veículo e utilização de transporte, enquanto o seu carro estava indisponível". A modificação do entendimento lançado no v. acórdão recorrido quanto à comprovação do dano material demandaria o revolvimento de suporte fático-probatório dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.820.645/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+Ante todo o exposto, nega-se provimento ao agravo interno.
+É como voto.
