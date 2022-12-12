@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de agravo interno interposto peloMunicípio do Rio de Janeirodesafiando decisão da Presidência do STJ que, com base no art. 21-E, V, do RISTJ,conheceudo agravo para não conhecer do recurso especial, em razão da incidência do óbice da Súmula 7/STJ.
+A parte agravante sustenta, em resumo, a inaplicabilidade da referida vedação sumular, argumentandoque "a matéria posta no recurso especial municipal é eminentemente jurídica, sendo desnecessário o reexame de fatos" (fl. 1.256).
+Além disso, reiteraa argumentação expendida no apelo nobre para fins de modificação do acórdão a quo.
+Requer, desse modo, o provimento do agravo interno.
+Impugnação das agravadas às fls. 1.264/1.279.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL DO ESTADO. HOSPITAL MUNICIPAL. ÓBITO DAPACIENTE. VALOR INDENIZATÓRIO. MODIFICAÇÃO DAS CONCLUSÕES DA CORTE RECORRIDA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. ACorte de origem, com base no acervo probatório dos autos, consignoua comprovação dos elementos ensejadores da responsabilidade civil estatal, de modo que a alteração de tal conclusão demandaria, necessariamente, o reexame da matéria fática, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2.Do mesmo modo, quanto ao valor da indenização fixada, cumpre destacar que, em regra, não é cabível na via especial a revisão do montante estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas, conforme a referida Súmula 7/STJ.
+3. Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica, contudo, na espécie.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, noque se refere à responsabilidade civil, aquestão restou assim decidida pelo Tribunal recorrido (fls. 1.099/1.103):
+Já no que toca ao mérito, deve ser afastada a alegação do Município Réu de ausência de nexo de causalidade entre a conduta dos seus prepostos e o agravamento do quadro clínico e óbito da irmã e filha das Autoras.
+Conforme restou consignado no laudo pericial:
+ .. O suporte clínico recebido ao longo da internação foi extremamente aquém das necessidades apresentadas pela paciente, como amplamente comentado em itens 7.1 a 7.6."(grifos nossos)
+Em resposta aos quesitos formulados pelas Autoras, o Perito ratificou a sua conclusão de que houve desídia por parte da equipe médica no atendimento prestado à Aline, conforme se verifica a seguir:
+ ..
+Em que pese o Réu tenha ofertado impugnação ao laudo pericial, não veio aos autos nenhum elemento capaz de infirmar a conclusão da Perita, a qual prestou os devidos esclarecimentos à fl. 982:
+ ..
+Enfim, com base nos elementos dos autos, forçoso reconhecer que o agravamento do quadro clínico da irmã e filha das Autoras e o seu falecimento decorreram do comportamento desidioso dos profissionais de saúde que a atenderam, o que culminou com o seu óbito, razão pela qual deve o Réu responder pela reparação dos danos a que deu causa.
+Nesse contexto, é certo que aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de afirmar que não se encontram presentes na espécie os elementos ensejadores da responsabilidade civil do ente público, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No que se refere ao valor daindenização fixada a título de danos morais, destaca-se o seguinte trecho do acórdão a quo (fls. 1.103/1.104):
+É certo que a perda de um parente é causa de profunda dor espiritual, principalmente quando envolve uma pessoa jovem, como ocorreu na espécie.
+A reparação moral deve ser arbitrada pelo Magistrado de acordo com as peculiaridades do caso concreto, observando as consequências advindas da conduta desidiosa do Réu, a participação da vítima, a situação econômica das partes, a intensidade do sofrimento experimentado pelos familiares da vítima.
+Levando-se em consideração as circunstâncias do caso concreto, tem-se que os valores de R$ 20.000,00 para a Primeira Autora e de R$ 40.000,00 para a Segunda Autora não atendem aos princípios da proporcionalidade e da razoabilidade,merecendo ser majorados para R$ 30.000,00 em favor da irmã e R$ 100.000,00 para a mãe da vítima.
+Nesse ponto, cumpre destacar que, em regra, não é cabível na via especial a revisão do montante indenizatório estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas, conforme a referida Súmula 7/STJ.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que oquantumarbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica, contudo, na espécie, ante o resultado danoso (óbito da paciente).
+A propósito, confiram-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE CIVIL DO ESTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Cuida-se, na origem, de Ação de Indenização por Danos Morais, ajuizada em desfavor do Estado do Amapá, em razão da morte do filho da parte autora, ocorrida nas dependências do Hospital de Emergências Estadual, no dia 22.1.2017, decorrente da omissão na prestação de atendimento médico à referida vítima de atropelamento.
+2. A sentença de procedência foi mantida pelo Tribunal de origem, nesses termos: "comprovada a gravidade do quadro clínico, a conclusão lógica é que houve falha na prestação do serviço médico do Estado quando os agentes públicos mantiveram o paciente por cerca de 10 (dez) horas no corredor do hospital, na mesma maca do SAMU, ao invés de submetê-lo a tratamentos mais intensivos, impondo dor e angústia ao autor por acompanhar de perto o sofrimento do filho até a morte. Neste diapasão, vislumbro que o Juízo a quo não responsabilizou civilmente o Estado porque não garantiu a vida do paciente, como tenta supor o apelante, mas porque se constata o verdadeiro descaso com as providências necessárias para lhe possibilitar mínima chance de sobrevivência".
+3. Quanto ao valor fixado a título de reparação por danos morais, o acórdão impugnado consignou que a indenização fixada pelo juízo de primeira instância seria razoável, diante do caso concreto: "Quanto ao valor da indenização, considerando as peculiaridades do caso, verifica-se que o quantum fixado na origem não fere os princípios da razoabilidade e da proporcionalidade, servindo, a um só tempo, para compensar o autor e repreender o réu, para que ofereça tratamento médico-hospitalar digno e eficiente para a sociedade. Destarte, não configurada a alegada violação ao princípio da razoabilidade na fixação do valor indenizatório, com a possibilidade de enriquecimento sem causa do apelado, não há que falar em redução do valor fixado (R$ 20.000,00), que atende aos parâmetros deste Tribunal de Justiça".
+4. Para modificar o entendimento firmado no acórdão recorrido  no que tange à configuração de responsabilidade civil do Estado, no caso, bem como no que concerne aos valores adequados a título de indenização por danos morais  seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+5. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 1.904.870/AP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 31/5/2021, DJe de 1/7/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RESPONSABILIDADE CIVIL. HOSPITAL MUNICIPAL. MORTE DE PACIENTE EM DECORRÊNCIA DE QUEDA DE MACA. INDENIZAÇÃO POR DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 ao julgamento deste Agravo Interno.
+II - No caso, rever o entendimento do Tribunal de origem, que consignou o reconhecimento do nexo de causalidade entre o evento danoso no hospital público e a morte do pai e marido dos Recorrentes, mas manteve o quantum debeatur fixado em R$ 50.000,00 (cinquenta mil reais), demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+IV - Os Agravantes não apresentam, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 1.641.540/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/5/2017, DJe de 29/5/2017)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
