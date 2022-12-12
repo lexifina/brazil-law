@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+GISELE LOPES ZAMBE (GISELE) ajuizou ação de cobrança contra ZURICH SANTANDER BRASIL SEGUROS E PREVIDÊNCIA S.A. (ZURICH) e MEGA RIO VEÍCULOS PARA LOCAÇÃO LTDA. (MEGA), alegando ser beneficiária de seguro de vida celebrado por seu filho, falecido, e pleiteando que ZURICH e MEGA sejam compelidas ao fornecimento de cópia da apólice, além do pagamento da indenização securitária e de danos morais no montante de R$ 20.000,00 (vinte mil reais).
+Em primeira instância, o pedido foi julgado procedente, condenando-se ZURICH ao pagamento de indenização securitária no montante de R$ 35.000,00 (trinta e cinco mil reais) e de danos morais no valor de R$ 5.000,00 (cinco mil reais), bem como de 50% das custas processuais e honorários advocatícios fixados em 15% sobre o valor da condenação. Ainda, os pedidos formulados em desfavor de MEGA foram julgados improcedentes, condenando-se GISELE ao pagamento de 50% das custas processuais, além de honorários sucumbenciais devidos ao patrono de MEGA, no montante de 15% sobre o valor da condenação (e-STJ, fls. 274/282).
+A apelação interposta por ZURICH não foi provida pelo Tribunal de Justiça do Rio de Janeironos termos do acórdão relatado pelo Des. ANDRÉ ANDRADE, assim ementado:
+AÇÃO DE COBRANÇA CUMULADA COM RESPONSABILIDADE CIVIL. CONTRATO DE SEGURO DE VIDA EM GRUPO. ÓBITO DO SEGURADO, FUNCIONÁRIO DA ESTIPULANTE, ORA SEGUNDA RÉ. RECONHECIMENTO DA EXISTÊNCIA DE AVISO DE SINISTRO E DA RECUSA NO PAGAMENTO DA INDENIZAÇÃO, POR FALTA DE APRESENTAÇÃO DE DOCUMENTOS, QUE NÃO É COMPATÍVEL COM A TESE RECURSAL DE FALTA DE INTERESSE DE AGIR. INDENIZAÇÃO SECURITÁRIA DEVIDA. PACTO DE DISTRIBUIÇÃO PROPORCIONAL DO CAPITAL SEGURADO TOTAL ENTRE OS FUNCIONÁRIOS DA ESTIPULANTE QUE NÃO PODE SER INVOCADA EM PREJUÍZO DO BENEFICIÁRIO, CONSUMIDOR POR EQUIPARAÇÃO, UMA VEZ QUE A RESPONSABILIDADE PELA ENTREGA DA DOCUMENTAÇÃO EXIGIDA PARA O CÁLCULO NÃO LHE PODE SER IMPUTADA. DANO MORAL CONFIGURADO. INDENIZAÇÃO FIXADA EM VALOR COMPATÍVEL COM A PEQUENA EXTENSÃO DO DANO. PRETENSÃO DE ALTERAÇÃO DO TERMO INICIAL DA CORREÇÃO MONETÁRIA INCIDENTE SOBRE A INDENIZAÇÃO SECURITÁRIA QUE NÃO ENCONTRA AMPARO NA JURISPRUDÊNCIA DO STJ SOBRE O TEMA. DESPROVIMENTO DO APELO (e-STJ, fl. 352).
+Irresignado, ZURICH interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação do art. 757 do CC, ao sustentar que (1) para o cálculo indenizatório, é necessário dividir o capital segurado global pelo número de pessoas seguradas, devendo haver divisão proporcional à participação do funcionário no capital social; e (2) houve cerceamento de defesa, pois não foi expedido ofício à empresa segurada, não podendo ZURICH ser compelida a apresentar GFIP referente ao mês do sinistro, documento a que não tem acesso (e-STJ, fls. 370/379).
+O recurso não foi admitido pelo Tribunal fluminense (e-STJ, fls. 399/402).
+Nas razões do presente agravo, ZURICH alegou que não incidem os óbices invocados (e-STJ, fls. 413/417).
+Não foi apresentada contraminuta (e-STJ, fl. 471).
+Conheci do agravo para não conhecer de recurso especial em decisão de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. FUNDAMENTO NÃO IMPUGNADO. DISPOSITIVO LEGAL NÃO INDICADO. SÚMULAS NºS 283 E 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 440 - destaque no original).
+Nas razões do presente agravo interno, ZURICH defendeu que a negativa de expedição de ofício à estipulante, para apuração do valor do capital segurado atinente àGISELE, ofendeu o art. 757 do CC, porquanto ensejou à seguradora obrigação que supera os limites da apólice, desvirtuando o conceito de seguro (e-STJ, fls. 445/449).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. IMPUGNAÇÃO ESPECÍFICA. DISPOSITIVO LEGAL VIOLADO OU DISSÍDIO JURISPRUDENCIAL. NECESSIDADE. SÚMULAS N.os 283 E 284 DO STF.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. DECISÃO MANTIDA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A falta de impugnação específica, associada a indicação de dispositivo de lei ou dissenso jurisprudencial pertinente, torna incólume o fundamento de que a falta do documento não pode ser imputada à beneficiária, temdo em vista a relação direta entre estipulante e seguradora, incidindo as Súmulas n.ºs 283 e 284 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Da violação do art. 757 do CC
+Nas razões do presente recurso, ZURICH defendeu que a negativa de expedição de ofício à estipulante, para apuração do valor do capital segurado atinente àGISELE, ofendeu o art. 757 do CC, porquanto ensejou à seguradora obrigação que supera os limites da apólice, desvirtuando o conceito de seguro.
+A decisão agravada concluiu pela impossibilidade de conhecimento do recurso especial, haja vista a incidência das Súmulas n.ºs 283 e 284 do STF.
+Ocorre que o Tribunal estadual consignou ser inviável negar a cobertura securitária em decorrência da falta de juntada da GFIP, pois a obrigação não competia ao beneficiário, dada a relação direta entre seguradora e estipulante. Confira-se:
+Muito embora a seguradora tenha baseado a sua defesa na falta de apresentação de documentos exigidos para a regulação do sinistro, não demonstrou a comunicação da autora sobre suas exigências e relacionou, dentre elas, documentos cuja falta não lhe pode ser imputada, uma vez que pertencentes à estipulante do contrato, com quem tem relação direta e independente.
+Com efeito, a cópia da Guia de Recolhimento do Fundo de Garantia e Informação à Previdência Social, claramente destinada à liquidação da indenização securitária pelo método da distribuição proporcional, deveria ser exigida da segunda ré, que era empregadora do falecido segurado e foi a responsável direta pela celebração do contrato de seguro de vida em grupo do qual a autora é beneficiária.
+Como os demais documentos já foram acostados aos presentes autos (inds. 16/26 e 214), a sua falta não poderia ser invocada como obstáculo para o pagamento da indenização devida ao beneficiário do seguro, pela ocorrência do risco coberto.
+Sendo assim, não poderia mesmo ser rejeitada a pretensão indenizatória exarada na inicial (e-STJ, fls. 356/357).
+No entanto, o recurso especial não se dedicou a impugnar especificamente o fundamento do Tribunal estadual, mediante indicação de ofensa a dispositivo de lei ou dissenso pretoriano.
+Na verdade, ZURICH apontou como violado unicamente o art. 757 do NCPC, que não guarda pertinência com o cerne do fundamento do acórdão no sentido do ônus de juntada do documento.
+Portanto, a despeito dos argumentos de ZURICH quanto aos limites da apólice, a falta de impugnação específica, associada a indicação de dispositivo de lei ou dissenso jurisprudencial pertinente, torna incólume o fundamento de que a falta do documento não pode ser imputada à beneficiária, haja vista a relação direta entre estipulante e seguradora.
+Logo, a decisão agravada não merece reforma quanto à incidência das Súmulas n.ºs 283 e 284 do STF.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
