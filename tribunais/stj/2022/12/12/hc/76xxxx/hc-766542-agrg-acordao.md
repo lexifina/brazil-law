@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Thiago TananBragacontra a decisão, de minha lavra, que denegou a ordem do habeas corpus. Esta, a ementa da decisão (fl. 746):
+HABEAS CORPUS. CONDENAÇÃO PELO CRIME DE TRÁFICO DE DROGAS.PLEITO DE ABSOLVIÇÃO. ATIPICIDADE MATERIAL DA CONDUTA.PRINCÍPIO DA INSIGNIFICÂNCIA. INADMISSIBILIDADE. CRIME DE PERIGO PRESUMIDO OU ABSTRATO.CONSTRANGIMENTO ILEGALNÃO EVIDENCIADO.
+Ordem denegada.
+O agravante repisa as alegações apresentadas na inicial do writ, asseverando que o Supremo Tribunal Federal concluiu pela possibilidade de aplicação do princípio da insignificância nos casos de tráfico de drogas, por ocasião do julgamento do HC n. 127.573/SP.
+Argumenta que o entendimento de que o tráfico de quantidade insignificância de droga trata-se de crime de perigo presumido merece ser levado para discussão da Turma, para que a jurisprudência se alinhe com o entendimento adotado na Corte Suprema (fl. 755).
+Requer a reconsideração da decisão ou, subsidiariamente, o julgamento doagravo pela Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO PELO CRIME DE TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INADMISSIBILIDADE. CRIME DE PERIGO PRESUMIDO OU ABSTRATO. DECISÃO ISOLADA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE CARÁTER VINCULANTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A decisão agravada deve ser mantida, posto que está em perfeita harmonia com a orientação consolidada nesta Corte, no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas, por se tratar de crime de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de droga apreendida (AgRg no HC n. 567.737/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020).
+2. Oentendimento do HC n. 127.573/SP, da Segunda Turma do Supremo Tribunal Federalé isolado, inclusivea concessão da ordem deu-se por maioria, não possuindo caráter vinculante. Prevalece na Suprema Cortea impossibilidade de aplicação do princípio da bagatela ao crime de tráfico de entorpecente.
+3. Agravo regimental improvido.
+VOTO
+Não obstante asalegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Ao examinar a apelação da defesa, o Tribunal de origem afastoua incidência do princípio da insignificância, mantendo a condenação do paciente (fls. 14/15):
+ ..
+Com relação ao pedido de absolvição pela aplicação do princípio da insignificância, sem razão a defesa.
+O princípio da insignificância está fundamentado em valores de política criminal e, conforme entendimento do Supremo Tribunal Federal, tem como requisitos para a sua aplicação: a mínima ofensividade da conduta, a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica.
+No caso dos autos, não se pode afirmar que estão presentes os requisitos acima para seu reconhecimento, uma vez que há potencialidade lesiva e periculosidade social. Demais disso,o crime de tráfico de drogas é de perigo presumido ou abstrato e sua configuração independe da quantidade de droga comercializada.
+ ..
+Quanto ao ponto,é incensurável o entendimento do Tribunala quoao afirmar queo crime de tráfico de drogas é de perigo presumido ou abstrato e sua configuração independe da quantidade de droga comercializada(fl. 15).
+Ora,prevalece neste Superior Tribunal de Justiça a diretriz no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas, por se tratar de crime de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de droga apreendida(AgRg no HC n. 567.737/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020). Da Sexta Turma, por exemplo, este julgado:AgRg no HC n. 715.811/SC, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), DJe 20/6/2022.
+Não foi outra a opinião do Subprocurador-Geral da Repúblicaem seu parecer,in verbis(fl. 743):
+Prevalece neste Superior Tribunal de Justiça, a diretriz no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas, por se tratar de crime de perigo abstrato ou presumido, sendo irrelevante, para esse específico fim, a quantidade de droga apreendida.
+Acrescento aos precedentes anteriormente citados os seguintes julgados desta Corte Superior de Justiça:
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. CRIME DE PERIGO ABSTRATO. DESPROVIMENTO DO RECURSO.
+1. Pacificou-se neste Sodalício o entendimento de que não se admite o reconhecimento do princípio da insignificância ao delito de tráfico de drogas, por se tratar de crime de perigo abstrato, que dispensa a produção de qualquer resultado para a sua consumação.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 736.553/MG,Ministro Jorge Mussi, Quinta Turma, DJe de 21/10/2022 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TRANCAMENTO DO PROCESSO. ATIPICIDADE DA CONDUTA. SUPRESSÃO DE INSTÂNCIA. APLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. No tocante à tese relativa ao trancamento do processo, em razão da atipicidade da conduta, não foi abordada pelo Tribunal estadual.Assim, inviável o conhecimento da matéria, sob pena de indevida supressão de instância.
+2. É pacífico neste Tribunal Superior que o princípio insignificância não se aplica "aos delitos de tráfico de drogas, por se tratar de crime de perigo abstrato ou presumido, sendo irrelevante paraesse específico fim, a quantidade de droga apreendida. Precedentes" (AgRg no RHC n. 163.579/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDTF), 5ª T., DJe 29/6/2022). Precedentes.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 754.828/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/10/2022 - grifo nosso).
+Por sua vez, o entendimento do HC n. 127.573/SP,da Segunda Turma do Supremo Tribunal Federal, ainda é isolado. Inclusive, a concessão da ordem deu-sepor maioria, não possuindo caráter vinculante. Prevalece na Suprema Corte, a impossibilidade de aplicação do princípio da bagatela aocrimede tráfico de entorpecente. Nesse sentido, confiram-se:
+Habeas corpus. Direito Penal. Direito Processual Penal. Tráfico e associação para o tráfico. Impetração dirigida contra decisão monocrática em que se indeferiu pedido liminar em habeas corpus formalizado no Superior Tribunal de Justiça. Não exaurimento da instância antecedente. Impossibilidade. Precedentes. Atipicidade material da conduta. Pequena quantidade de droga (4,95 de maconha). Insignificância. Contornos do delito. Não preenchimento dos requisitos. Writ do qual não se conhece.
+(HC 194268, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe-084 DIVULG 03-05-2021 PUBLIC 04-05-2021 - grifo nosso).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO.
+(HC 185681 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, DJe-207 DIVULG 19-08-2020 PUBLIC 20-08-2020 - grifo nosso).
+HABEAS CORPUS - CABIMENTO. Ante a envergadura maior do habeas, voltado a preservar a liberdade de ir e vir do cidadão, não há como deixar de adentrar-se à matéria de fundo, pouco importando que direcione à análise do cabimento e processamento de recursos dirigidos ao Superior Tribunal de Justiça. HABEAS CORPUS - CABIMENTO. Em jogo a liberdade de ir e vir, não se tem como deixar de adentrar a matéria versada no habeas, ainda que direcione à análise de fatos e provas. HABEAS CORPUS - INSTÂNCIA - SUPRESSÃO. Revelando o habeas corpus parte única - o paciente, personificado pelo impetrante -, o instituto da supressão de instância há de ser tomado, no que visa beneficiá-la, com as cautelas próprias. REPRESENTAÇÃO PROCESSUAL - IRREGULARIDADE - CONSEQUÊNCIA. A irregularidade na representação processual implica a inexistência do ato de interposição, inviabilizando o conhecimento pelo Órgão judicante. COMPETÊNCIA - AFERIÇÃO - JUÍZO. A competência há de ser aferida considerado o Juízo, revelando-se impróprio cogitar de fixação em relação à pessoa do magistrado. PRISÃO EM FLAGRANTE - AUSÊNCIA - REPERCUSSÃO - AÇÃO PENAL. Eventual ausência de justa causa para a formalização do flagrante não repercute na validade da ação penal. TRÁFICO DE DROGAS - PRINCÍPIO DA INSIGNIFICÂNCIA - INCOMPATIBILIDADE. O princípio da insignificância é incompatível com a prática do tráfico de drogas, pouco importando a quantidade de entorpecente. PENA - DOSIMETRIA - CIRCUNSTÂNCIAS JUDICIAIS. A valoração de circunstâncias judiciais, no que inserida na dosimetria da pena, envolve, de regra, o justo ou injusto, não encerrando ilegalidade.
+(HC 129489, Relator(a): MARCO AURÉLIO, Primeira Turma,DJe-215 DIVULG 02-10-2019 PUBLIC 03-10-2019 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
