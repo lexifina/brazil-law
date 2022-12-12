@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SÉRGIO ROBERTO ROCHA RENZ, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 2/12/2021.
+Concluso ao gabinete em: 25/4/2022.
+Ação: cumprimento de sentença, ajuizada por SÉRGIO ROBERTO ROCHA RENZ em face de AGROPECUÁRIA ALVORADA LTDA E OUTROS, no qual há pedido incidental de desconsideração da personalidade jurídica da empresa ré.
+Decisão interlocutória: O Juízo de origem julgou extinto o incidente processual, sem resolução do mérito, ante a configuração da coisa julgada e condenou o recorrente ao pagamento de custas e honorários advocatícios.
+Acórdão: o TJMTnão conheceu do agravo de instrumento interposto pelo recorrente, por manifesta inadmissibilidade, nos termos da seguinte ementa:
+PEDIDO AUTÔNOMO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA -SENTENÇA QUE JULGA EXTINTO O FEITO SEM RESOLUÇÃO DO MÉRITO - EXISTÊNCIA DE COISA JULGADA - ART. 485, V, CPC - DECISÃO QUE NÃO POSSUI NATUREZA INTERLOCUTÓRIA - AGRAVO DE INSTRUMENTO - DESCABIMENTO - RECURSO NÃO CONHECIDO.
+O recurso adequado para combater a decisão que extingue o pedido autônomo de desconsideração da personalidade jurídica, sem julgamento do mérito, ante a existência de coisa julgada, nos termos do art. 485, inc. V, do CPC, é o de apelação, consoante exegese do art.1.009, caput, do mesmo código. (e-STJ fls. 269)
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação aos arts. 489, § 1º, IV, 1.022, II, 203, §§ 1º e 2º, 136 e 1.015, IV, do CPC/15, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta que a decisão que julgao incidente de desconsideração da personalidade jurídicanãopõe fim à fase cognitiva do procedimento comum e tampoucoextingue a execução, não se subsumindo, pois, à definição legal de sentença. Aduz que se trata de decisão interlocutória sujeita ao recurso de agravo de instrumento.Requer o provimento do recurso especial para determinar o retorno dos autos à instância de origem para que seja devidamente apreciado o recurso interposto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da súmula 568/STJ
+O acórdão recorrido decidiu em desconformidade com a jurisprudência consolidada nesta Corte, no sentido de quea decisão proferida no incidente de desconsideração da personalidade é considerada decisão interlocutória e, portanto, está sujeita ao recurso de agravo de instrumento, nos termos do art. 1.015, IV, do CPC/15. Por consequência, também não há que se falar em fixação de honorários sucumbenciais.
+A propósito, confira-se:
+RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. EXECUÇÃO REDIRECIONADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. MATÉRIA DE DEFESA. VERIFICAÇÃO. NECESSIDADE. DECRETAÇÃO INCIDENTAL. EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. COGNIÇÃO AMPLA. ILEGITIMIDADE PASSIVA AD CAUSAM. ALEGAÇÃO. POSSIBILIDADE. COISA JULGADA. ART. 472 DO CPC/1973. NÃO CONFIGURAÇÃO. PRECLUSÃO. ART. 473 DO CPC/1973. NÃO OCORRÊNCIA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O ato que determina a desconsideração da personalidade jurídica em caráter incidental no curso de processo de execução não faz coisa julgada, por possuir natureza de decisão interlocutória. Decisões interlocutórias sujeitam-se à preclusão, o que impede a rediscussão da matéria no mesmo processo, pelas mesmas partes (art. 473 do CPC/1973). Precedentes.
+3. O trânsito em julgado da decisão que desconsidera a personalidade jurídica torna a matéria preclusa somente no tocante às partes que integravam aquela relação processual, não sendo possível estender os mesmos efeitos aos sócios, que apenas depois foram citados para responderem pelo débito.
+4. A jurisprudência desta Corte Superior admite a desconsideração da personalidade jurídica de forma incidental no âmbito de execução, dispensando a citação prévia dos sócios, tendo em vista que estes poderão exercer seus direitos ao contraditório e à ampla defesa posteriormente, por meio dos instrumentos processuais adequados (embargos à execução, impugnação ao cumprimento de sentença ou exceção de pré-executividade). Precedentes.
+5. Afastada a preclusão indevidamente aplicada na origem, deve ser garantida ao embargante a possibilidade de demonstrar a ausência dos pressupostos da desconsideração da personalidade jurídica da pessoa jurídica originalmente demandada, sob pena de cerceamento de sua defesa.
+6. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1.685.353/SP, 3ª Turma, DJe 12/3/2021)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. ARTIGO 136 CAPUT DO CPC. O INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RESOLUÇÃO POR DECISÃO INTERLOCUTÓRIA. INTELIGÊNCIA DO INCISO IV DO ARTIGO 1015 CAPUT DO CPC. APELAÇÃO NÃO CONHECIDA. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ NA MATÉRIA. SÚMULA 83 DO STJ. PREQUESTIONAMENTO. NÃO PREENCHIMENTO. SÚMULA 211 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A interposição de apelação contra decisão que decide o incidente de desconsideração da personalidade jurídica consiste em erro grosseiro, não admitindo a aplicação do princípio da fungibilidade.
+2. O entendimento da Corte local apresenta-se em harmonia com a jurisprudência prevalecente nesta Corte Superior de Justiça, o que atrai a inadmissibilidade do recurso especial pela incidência da Súmula 83 do STJ.
+3. A matéria referente aos dispositivos de lei indicados como violados não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp 2.035.082/RS, 4ª Turma, DJe 15/8/2022.)
+Também nesse sentido: REsp1.800.330/SP, 3ª Turma,DJe 4/12/2020; REsp 1.845.536/SC, 3ª Turma, DJe 9/6/2020 e AgInt no AREsp 1.745.989/PR, 4ª Turma, DJe 26/11/2021.
+Forte nessas razões, CONHEÇO do recurso especial e, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, DOU-LHE PROVIMENTO para determinar o retorno dos autos ao Tribunal de origem a fim de que, superada a admissibilidade recursal, aprecie o mérito do agravo de instrumento como bem entender de direito.
+Deixo de majorar os honorários sucumbenciais, uma vez que o processo será objeto de novo julgamento.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INCIDENTE PROCESSUAL DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ART. 1.015, IV, DO CPC/15.
+1. Cumprimento de sentença.Incidente processual de desconsideração da personalidade jurídica.
+2. O incidente de desconsideração da personalidade jurídica resolve-se por decisão interlocutória, em face da qual é cabível o recurso de agravo de instrumento, nos termos do art. 1.015, IV, do CPC/15. Precedentes desta Corte.
+3. Recurso especial conhecido e provido para determinar o retorno dos autos ao Tribunal de origem a fim de que, superada a admissibilidade recursal, aprecie o mérito do agravo de instrumento como bem entender de direito.
