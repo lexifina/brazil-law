@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo contra decisão que inadmitiu o recurso especial interposto por BANCO DO BRASIL S/A, fundamenta do nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/12/2020.
+Concluso ao gabinete em: 8/11/2022.
+Ação: de cobrança, ajuizada por BANCO DO BRASIL S/A em face de MIX REPRESENTAÇOES LTDA ME., MAYRA CAROLINE DOS SANTOS, BARBARA NAYHARA DOS SANTOS, HELIO DOS ANJOS FERREIRA e MARCIA LUZIA DOS ANJOS.
+Sentença: julgou procedente a pretensão autoral, para condenar os recorridos, solidariamente, ao pagamento da quantia de R$337.681,30. (e-STJ fls. 213-215).
+Acórdão: deu provimento à apelação interposta por BARBARA NAYHARA DOS SANTOS, MARCIA LUZIA DOS ANJOS eMAYRA CAROLINE DOS SANTOS, reconhecendo a sua ilegitimidade passiva; de ofício, reconheceu a ilegitimidade passiva em relação à HELIO DOS ANJOS FERREIRA; e negou provimento ao recurso interposto por MIX REPRESENTACOES LTDA/ME, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CÉDULA DE CRÉDITO BANCÁRIO. EMPRÉSTIMO CONTRAÍDO POR SOCIEDADE EMPRESÁRIA. AVAL. AUSÊNCIA DE ASSINATURA. ILEGITIMIDADE PASSIVA ACOLHIDA. PRELIMINAR DE CARÊNCIA DE AÇÃO ACOLHIDA DE OFÍCIO CONTRA OUTRO RÉU. COMPROVAÇÃO DA RELAÇÃO JURÍDICA COM A EMPRESA BENEFICIÁRIA DO MÚTUO. EXTRATO CONTA CORRENTE. DISPONIBILIZAÇÃO DO CRÉDITO. COMPROVAÇÃO PELO CREDOR. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. APELAÇÕES CONHECIDAS. PROVIDA A DE BARBARA, MAYRA E MARCIA. DESPROVIDA A DE MIX REPRESENTACOES LTDA-ME E RECONHECIDA DE OFÍCIO A ILEGITIMIDADE PASSIVA.
+1. Nos termos do artigo 898 do Código Civil, o aval deve ser dado no verso ou no anverso do próprio título, sendo suficiente para a sua validade a assinatura do avalista. Portanto, o aval é uma garantia formal que deve estar necessariamente documentado no título de crédito.
+2. Não demonstrada a relação jurídica entre a instituição financeira e os avalistas, por ausência de assinatura no título de crédito, deve ser reconhecida a ilegitimidade passiva.
+3. As condições da ação são matéria de ordem pública e, consequentemente, cognoscíveis de ofício. Desse modo, cabe ao magistrado reconhecer a falta de interesse processual e a ilegitimidade ativa ad causam a qualquer tempo em prol dos princípios processuais da efetividade, da celeridade e da economia processual (art. 337, §5º, CPC).
+4. Sendo a ação de cobrança uma modalidade de ação de conhecimento, permite-se que o credor comprove a celebração do negócio jurídico por meio de todos os meios de prova admitidos. Assim, ausência de assinatura da cédula de crédito bancário, apesar de afastar a constituição do título executivo extrajudicial, não impede a cobrança do mútuo se houver outros documentos que corroborem a celebração do negócio jurídico.
+5. Comprovada a disponibilização do crédito por meio de demonstrativo de conta vinculada, não há que se falar em cobrança indevida.
+6. O mero exercício do direito de recorrer e com escopo de reformar provimento judicial desfavorável não configura litigância de má-fé.
+7. RECURSOS CONHECIDOS. PROVIDA A APELAÇÃO INTERPOSTA POR BARBARA, MAYRA E MARCIA. DESPROVIDO O RECURSO INTERPOSTO POR MIX REPRESENTACOES LTDA-ME. ILEGITIMIDADE DE HELIO RECONHECIDA DE OFÍCIO. (e-STJ fls. 326-334)
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação aos arts. 85, §8º, do CPC/15, bem como dissídio jurisprudencial. Pleiteia o provimento do recurso especial para reformar o acórdão recorrido a fim de reduzir o montante dos honorários advocatícios fixados, pois exorbitantes. Pede, na hipótese, o arbitramento por equidade.
+Decisão da Presidência do TJDFT: inadmitiu o recurso especial.
+Agravo em recurso especial: reitera as razões anteriormente apresentadas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+Na hipótese em apreço, não se verifica qualquer irregularidade em relação à fixação de honorários advocatícios em percentual sobre o valor da condenação, nos termos do art. 85, §§ 2 e 8º, do CPC/15.
+Sobre o tema, ressalvado o posicionamento desta Relatora, a Corte Especial do STJ fixou as seguintes teses ao julgar o Tema 1076, DJe 31/05/2022:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo." (Tema 1076, DJe 31/05/2022)
+Logo, considerando que o Tribunal de origem fixou os honorários em "12% (doze por cento) do valor da condenação" (e-STJ fl. 334), distribuídos proporcionalmente, não é possível seu arbitramento por equidade. Mantém-se a decisão no ponto.
+- Do dissídio jurisprudencial
+Nota-se que o recurso especial, fundamentado na alínea "c" do permissivo constitucional, apenas traz jurisprudência que a agravante entende divergir do acórdão recorrido, sem, contudo, demonstrar a existência de similitude fática ou ainda, realizar o necessário cotejo analítico.
+Dessa forma, a falta da similitude fática e do cotejo analítico, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11º, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fl. 334) para 13%, observada a divisão proporcional.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. VALOR DA CONDENAÇÃO. ELEVADO. POSSIBILIDADE.FIXAÇÃO POR EQUIDADE. EXCEPCIONALIDADE.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO.
+1. Ação de cobrança.
+2. A Corte Especial do STJ fixou as seguintes teses ao julgar o Tema 1076: "I) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. II) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
