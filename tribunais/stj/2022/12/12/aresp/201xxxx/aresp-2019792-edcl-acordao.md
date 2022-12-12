@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos de declaração, opostos por MARIZA ZUGE, contra acórdão desta col. Quarta Turma, proferido em sede de agravo interno, assim ementado (e-STJ, fl. 658):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO REALIZADO POR MÉDICO NÃO CREDENCIADO. REEMBOLSO. LIMITAÇÃO. PREÇOS DE TABELA EFETIVAMENTE CONTRATADOS COM A OPERADORA. AGRAVO INTERNO DESPROVIDO.1. O reembolso das despesas médico-hospitalares realizadas em estabelecimento não conveniado efetuadas em situações excepcionais, como no presente caso, está limitado aos preços e tabelas efetivamente contratados com a operadora de saúde, mesmo em casos excepcionais, como urgência ou localização hospitalar diversa do domicílio do paciente. Precedentes.2. Agravo interno desprovido.
+Em suas razões recursais, a embargante aponta omissão no julgando, visto que o aresto embargado restou silente quanto à incidência do óbice do enunciado 283STF, porquanto a embargada não combateu os fundamentos do aresto estadual, mormente em relação à ausência do dever de informação, que embasou a condenação da ora recorrida ao reembolso integral das despesas médicas suportadas pela embargante.
+A embargada apresentou impugnação às fls. 675-676.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022).
+2. No caso, os aclaratórios merecem acolhida para sanar omissão.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, o v. acórdão embargado padece de omissão quanto à alegada incidência do óbice do verbete 283/STF.
+Assim, diante dessa omissão, passa-se à sua análise a fim de integrar o v. acórdão objurgado.
+Contudo, não prospera a alegada incidência do verbete 283/STF, visto que em suas razões do apelo especial a ora embargada combateu o fundamento do aresto estadual no que se refere à ausência do dever de informação, que fundamentou a condenação da ora recorrida no reembolso integral das despesas médicas suportadas pela embargante, senão vejamos:
+"Excelências, ao analisar o acórdão recorrido, qual confirma a sentença, verifica-se que o mesmo não observou a aplicabilidade do art. 12, VI da Lei 9.656/98, mas sim, manteve a interpretação do art. 35-C da mesma Lei, fundamentando com o art. 6, III do Código de Defesa do Consumidor, sem sequer a parte autora, ora recorrida, ter alegado ausência de informação.
+ ..
+O Acórdão atacado fundamenta a manutenção da sentença sob o aspecto do art. 35-C da Lei 9.656/98, que traz a obrigatoriedade de cobertura em casos de urgência/emergência, mas também, sob a ótica da falha de informação, por entender que a autora, ora recorrida, não poderá ser reembolsada com base nas tabelas do plano de saúde, por não estar demonstrado nos autos que o plano de saúde recorrente a informou na contratação do plano da forma de reembolso. Primeiramente cabe citar que o artigo 35-C da Lei 9.656/98 serve apenas para afirmar as hipóteses em que a cobertura é obrigatória. Ressalte-se que o plano de saúde recorrente não negou cobertura ao atendimento dentro da rede de atendimento em que atua, que é em um grupo de municípios dentro do Rio Grande do Sul, demonstrando em instrução que possui especialista habilitado para tratar do filho da recorrida. Até mesmo nos fatos exordiais, resta claro que a escolha por profissional não credenciado do plano de saúde foi por livre vontade da recorrida, não podendo sequer dizer que o caso era de urgência/emergência. Em segundo lugar, em nenhum momento a autora, ora recorrida, informa desconhecer a tabela de reembolso do plano de saúde. Cabe aqui pontuar que a mesma ajuíza ação, requerendo reembolso total do plano de saúde referente aos valores que desembolsou com a cirurgia particular de seu filho, por entender que o caso era de urgência e emergência, bem como, o plano não possuía médico especialista credenciado para atender seu filho, o que não é verdade. Evidente que o Tribunal a quo trouxe à baila o artigo 6º, III do CDC apenas para corroborar os fatos da sentença, mas não é caso de avaliar o cotejo processual pela ótica do CDC, sendo que nenhuma das partes alegou vício de informação." (fls. 406-407 - g.n.)
+Diante do exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para sanar a omissão existente no acórdão embargado.
+É como voto.
