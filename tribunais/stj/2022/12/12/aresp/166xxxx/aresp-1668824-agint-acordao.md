@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.011/1.025) interposto contra decisão desta relatoria que negou provimento ao agravo, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 1.006/1.008).
+A agravante sustenta não ser aplicável a Súmula n. 282/STF, pois "a questão foi devidamente enfrentada pelo E. Tribunal de Justiça de São Paulo, não havendo que se falar em óbice por ausência de prequestionamento" (e-STJ fl. 1.017).
+Alega que "não merece subsistir no tocante a declaração de óbice da Súmula nº 7 desse C. Superior Tribunal de Justiça a respeito do ônus da prova, a que diz respeito o artigo 373, do Código de Processo Civil" (e-STJ fl. 1.019).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões não apresentadas (e-STJ fl. 1.033).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.FALTA DE PREQUESTIONAMENTO. SÚMULA N.282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.DECISÃO MANTIDA.
+1.A simples indicação de afronta a dispositivos legais, sem debate - sequer implícito - da matéria pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento(Súmula n. 282 do STF).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem reconheceu haver nos autos prova documental da existência do grupo econômico e concluiuque aagravante não apresentouprovas para desconstituir o direito da parte agravada. Não há como derruira premissa do acórdão recorridosemo reexame da matéria fática, vedado em sede de recurso especial.
+4.Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator):A insurgência não merece acolhida.
+A agravantenão trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls.1.006/1.008):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos dispositivos legais apontados e da incidência da Súmula n. 7 do STJ (e-STJ fls. 976/977).
+O acórdão recorrido está assim ementado (e-STJ fl. 911):
+Agravo de Instrumento. Execução. Insurgência em face de decisão que indeferiu o pedido de realização de prova oral para a comprovação de inexistência de grupo econômico. Ônus da prova. Inteligência do artigo 373, inciso I do Código de Processo Civil. Prova documental carreada aos autos que caracterizou a existência de grupo econômico entre as executadas, que possuem sócios em comum, especialmente em cargos de direção, além de o mesmo objeto social ligado à incorporação imobiliária. Os fatos desconstitutivos do direito da exequente/agravada deveriam ser comprovados mediante apresentação de documentos constitutivos da sociedade empresária, a contrapor a não existência do alegado grupo econômico, ônus do qual não se desincumbiu a empresa agravante, sendo impertinente a produção de prova oral para a solução da controvérsia. Inteligência do artigo 373, inciso II do Código de Processo Civil. Agravo desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 965/969).
+No recurso especial (e-STJ fls. 931/945), fundamentado no art. 105, III, "a", da CF, a recorrentealegou violação doart. 373 do CPC/2015, porque o "ônus da prova incumbe ao autor - no caso a Recorrida que requereu a instauração do IDPJ -, quanto ao fato constitutivo de seu direito", destacando que "não é a Recorrente que deve comprovar a inexistente de suposto grupo econômico, mas sim a Recorrida, que deve comprovar a existência do grupo, em prova do que alegado"(e-STJ fls. 939/940).
+Sustentou ofensa aos arts. 997 e 1.054 do CC/2002, visto que "não há qualquer menção da Sra. Margot em qualquer documento que diga respeito a devedora original ou demais empresas supostamente ligadas ao Grupo, o que demonstra cabalmente a ausência de provas ou fundamentos que possam embasar a pretensão da Recorrida em ver formado o grupo econômico imaginário " (e-STJ fl. 941).
+Aduziu inobservância do art. 50 do CC/2002, pois, "para que a desconsideração da personalidade jurídica seja decretada e ocorra a inclusão dos sócios no polo passivo de qualquer tipo de ação executiva, faz-se imprescindível a prova do abuso da personalidade jurídica pelos seus sócios, caracterizado pelo desvio de finalidade ou pela confusão patrimonial" (e-STJ fl. 942).
+No agravo (e-STJ fls. 980/991), declaraa presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+As matérias dos arts. 50,997 e 1.054 do CC/2002 não foramapreciadaspelo Tribunal de origem, estando ausente o requisito do prequestionamento (Súmula n. 282/STF).
+Quanto ao ônus da prova, a Corte local decidiu que (e-STJ fls. 922/924):
+Nos autos em testilha, o ônus da prova caberia à empresa agravada, que deveria comprovar ser a empresa agravante parte do mesmo grupo econômico da empresa executada (interessada), de modo a justificar a constrição realizada.
+Analisando os autos digitais, o que se pode constatar é que foram deferidos pedidos de reconhecimento de grupo econômico e desconsideração da personalidade jurídica, com consequente expedição de mandado de levantamento das quantias depositadas nos autos (fl.579 dos autos principais).
+Observe-se, consoante asseverou o magistrado a quo em sua manifestação (fls.893/895), que a agravante buscou a reapreciação da decisão (cujo prazo para interposição de recuso já havia transcorrido), em meio ao protocolo de diversas petições repetitivas, de cunho estritamente protelatório, visando a gerar tumulto processual. Inconformada, opôs embargos de declaração, que foram rejeitados liminarmente (eis que intempestivos fl.723), aviando o presente agravo de instrumento com pedido de efeito suspensivo, que fora concedido.
+No entanto, constata-se que o objeto social da empresa agravante assim como o objeto social da empresa interessada (ambas executadas) se mostram muito próximos, relacionados à incorporação imobiliária, possuindo ambas, sócios em comum em cargos de direção (no caso, a Sra. Margot Alyse Greenman), o que daria baldrame à afirmação de ambas as empresas pertencerem ao mesmo grupo econômico, de modo a justificar a constrição realizada (penhorafl.429).
+Tenha-se presente que a agravante ainda anteriormente aviou agravo de instrumento (processo n.2212883-68.2017.8.26.0000 fls.882/887) contra a decisão que, em incidente de desconsideração da personalidade jurídica, homologou pedido de desistência em relação às demais pessoas jurídicas integrantes do grupo econômico da empresa executada (interessada), tendo sido negado o provimento ao recurso, que fora julgado por esta Egrégia 18ª Câmara de Direito Privado (relatoria da juíza Carmen Lúcia da Silva), donde fora imposta multa à agravante por litigância de má-fé, nos termos do art. 80, inciso VII, do Código de Processo Civil correspondente a 5% do valor atualizado da execução (artigo 81 do Código de Processo Civil).
+Nesse giro verbal, caberia à empresa agravante o ônus de provar os fatos desconstitutivos do direito da agravada (art. 373, II, CPC), comprovando mediante documentos constitutivos da sociedade empresária a não existência do alegado grupo econômico, ônus do qual não se desincumbiu, sendo, de fato, impertinente a produção de prova oral (devidamente afastada pelo magistrado a quo) para a solução da controvérsia.
+Nessa cadência, não há que se falar em anulação da decisão ou deferimento do pedido de produção de prova testemunhal, devendo ser mantida a decisão objurgada, que deve ser mantida por seus próprios e bem lançados fundamentos, os quais ficam inteiramente adotados como razão de decidir para o desprovimento do recurso.
+Para desconstituir a premissa estabelecida no acórdão recorrido, a fim de reconhecer que a parte agravada não fez prova constitutiva do direito alegado, seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pelaSúmula n.7 do STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+No que se refere aos arts. 50, 997 e 1.054 do CC/2002, o conteúdo dos dispositivos legais não foiapreciadopelo Tribunaldo Estado,estando ausente oprequestionamento.
+Destaca-se que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que sepossibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017), o que não ocorreu.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO SINGULAR QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL.INSURGÊNCIA DA DEMANDADA.
+1. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral.Incidência da Súmula 7/STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não fora alegada violação ao artigo 1.022 do NCPC, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência da Súmula 211/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.901.106/MA, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/5/2021, DJe 4/6/2021.)
+Em relação ao ônus da prova, o Tribunal de origem reconheceu existente nos autos prova documental que demonstra a existência de grupo econômico e concluiuque a agravante não apresentou elementos probatórios para desconstituir o direito da parte agravada.
+Para alterar a premissa estabelecida peloTJSP ereconhecer que não há elementos que comprovem odireito da agravada, bem como que a recorrenteapresentouprovas que afastam a tese de existência de grupo econômico,seria imprescindívelo exame do conjunto fático-probatório dos autos, inadmissível em sede de recurso especial, a teor daSúmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
