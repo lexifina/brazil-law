@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESPÓLIO DE JOSÉ BIANCHINI, em face da decisão de fls. 583-587, e-STJ, da lavra deste signatário, que deu provimento ao recurso especial manejado pela ora agravado.
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fls. 346-347, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - INSTRUMENTO PARTICULAR DE CONFISSÃO DE DIVIDA - APELANTE ESPÓLIO DE JOSÉ BIANCHINI - PRERROGATIVA DO CREDOR POSSUIDOR DE TÍTULO EXECUTIVO EXTRAJUDICIAL DE AJUIZAR EXECUÇÃO OU MONITÓRIA - "AVALISTA" QUE APÕE SUA ASSINATURA NO TÍTULO, TORNA-SE RESPONSÁVEL SOLIDÁRIO PELO PAGAMENTO DA DÍVIDA - ERRÔNEA EXCLUSÃO DO POLO PASSIVO DA DEMANDA, POR ILEGITIMIDADE "AD CAUSAM" - RECURSO PROVIDO - APELANTE CELSO FERNANDES PADOVANI - CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS PELA EXTINÇÃO DO PROCESSO POR ILEGITIMIDADE PASSIVA - RECURSO PREJUDICADO - APELANTE JOSÉ LUCAS DE SOUZA - CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE - NÃO OCORRÊNCIA - PRESCRIÇÃO - INTERRUPÇÃO DO PRAZO (ART. 202, IV, CC) - DÍVIDA ARROLADA EM INVENTÁRIO - RECURSO DESPROVIDO.
+O credor possuidor de título executivo extrajudicial pode optar pelo ajuizamento de execução ou monitória, visto que a escolha não traz qualquer prejuízo ao devedor. Aquele que, por sua livre e espontânea vontade, apõe assinatura como "avalista" em instrumento de confissão de dívida, fica responsável pelo pagamento, na qualidade de garantidor solidário. Precedentes do STJ. Errônea extinção do processo, em relação ao avalista, por ilegitimidade "ad causam". Recurso provido. Sentença reformada quanto a este tópico.
+A pretensão recursal do avalista excluído do processo de ver o espólio credor condenado em honorários advocatícios restou prejudicada, diante da reforma da sentença neste quesito.
+Se o juiz considerou suficiente o acervo documental para a formação de seu convencimento, dispensando a realização de audiência de instrução, não há que se falar em cerceamento de defesa pelo julgamento antecipado da lide. Precedentes do STJ. O prazo prescricional "in casu" (art. 206, § 5º, I, CC) foi interrompido pelo arrolamento da dívida em processo de inventário (art. 202, IV, CC). O reinicio dar-se-á com o trânsito em julgado da sentença que deferir ou não a habilitação do crédito. Hipótese em que esta ainda não foi prolatada. Terceiro e derradeiro recurso desprovido.
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 418-428, e-STJ.
+Nas razões do recurso especial (fls. 496-510, e-STJ), o insurgente apontou, além de dissídio jurisprudencial, violação ao disposto nos artigos 1.022, II, do CPC/15; 206, § 5º, I, CC. Sustenta, em síntese, negativa de prestação jurisdicional ao deixar de apreciar as questões arguidas tanto na apelação quanto nos embargos de declaração. Alega a ocorrência de prescrição, ao aduzir que "o título de crédito em exame tem como vencimento a data de 06 de outubro de 2000, já a ação monitória foi ajuizada apenas em 18 de abril de 2013" (fl. 508, e-STJ).
+Apresentadas contrarrazões às fls. 527-536, e-STJ.
+Às fls. 583-587, e-STJ, deu-se provimento ao reclamo, a fim de reconhecer a prescrição da pretensão autoral.
+Opostos embargos de declaração, foram acolhidos para sanar erro material (fls. 606-607, e-STJ).
+Irresignados, o sucumbente maneja o presente agravo interno (fls. 611-625, e-STJ), no qual sustenta, em suma, a ausência de prequestionamento das matérias debatidas no recurso provido; incidência da Súmula 7/STJ; e existência de fato interruptivo da prescrição.
+Impugnação às fls. 635-648 e 650-658, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS REQUERENTES.
+1. A matéria debatida no recurso, ligada ao prazo prescricional aplicável ao caso, bem como à capacidade de ação realizada pelo credor interromper ou não o lapso da prescrição, constituem matérias eminentemente jurídicas, cuja análise não demanda revolvimento de matéria probatória.
+2. A Corte local expressamente abordou as questões ligadas à prescrição e sua interrupção, a denotar o prequestionamento da matéria.
+3. Segundo a jurisprudência desta Corte, à luz do art. 204, caput, do CC/02, o ato interruptivo da prescrição, como regra, tem caráter pessoal, haja vista que somente aproveitará a quem o promover ou prejudicará aquele contra quem for dirigido. Precedentes.
+3.1. Na hipótese dos autos, a simples inclusão do documento que enseja a presente monitória no processo de inventário do credor falecido não constitui ato tendente a cobrança destinado a interpelar o devedor. Cuida-se de medida que não teve o condão de interromper o lapso prescricional.
+4. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Inicialmente, pontua-se que a matéria atinente à prescrição da pretensão autoral, bem como à existência ou não de causa interruptiva de tal lapso, constituem matéria de cunho eminentemente jurídico, cujo reconhecimento não demanda revolvimento de matéria probatória, mas tão somente análise acerca de existência ou não de infringência a dispositivos de lei.
+Não há se falar, portanto, na incidência do óbice da Súmula 7 do STJ no caso em tela.
+Ademais, trata-se de questão expressamente abordada no acórdão exarado pela Corte local, motivo pelo qual, igualmente, não subsiste a alegação de ausência de prequestionamento da matéria ventilada no apelo extremo.
+2. No que tange ao mérito do apelo, igualmente não prospera o agravo interno.
+Como pontuado na decisão unipessoal, a Corte local afastou a prescrição da pretensão inicial sob o fundamento de que a apresentação do título no inventário do credor falecido ensejou a interrupção do lapso prescricional. Veja-se (fls. 354, e-STJ):
+Consoante descrito alhures, o termo inicial da contagem do prazo prescricional é a data prevista para o pagamento da dívida, qual seja, 05/10/2000, de conformidade com a cláusula 2" da cártula (vide 11.46). Percebe-se que o instrumento particular de confissão de dívida "sub oculis" foi confeccionado sob a égide do Código Beviláqua, que previa prescrição vintenária, a teor do seu artigo 177. Com o advento do Código Civil de 2002, o prazo foi reduzido para cinco anos (art. 206, § 5º, inciso 1). Nestes casos, deve se atentar para a regra de transição estabelecida no art. 2.028 do CC/2002, segundo a qual, em se tratando de prazos em curso que ainda não tenham atingido a metade do previsto no CC/1916, até a data da entrada em vigor do CC/2002, isto é,11/01/2003, a prescrição será regida pela novel legislação. Logo, o prazo prescricional na hipótese em questão é o do art. 206, § 5º, inciso I,do CC/2002, ou seja, cinco anos. Fixada esta premissa, uma análise açodada concluiria pela prescrição desta ação monitória, a qual foi protocolizada em 18/04/2013 (vide fl. 05, verso).
+Entretanto, a dívida em questão foi arrolada em processo de inventário (1. 171), ocasionando a interrupção do prazo prescricional, "ex vi" do art.202, IV, do CC. É o que nos informa o seguinte trecho da sentença:
+Como visto, esse posicionamento não se alinha à jurisprudência desta Corte.
+O Código Civil de 2002, em seu art. 202 do CC/02, elenca causas interruptivas da prescrição que refletem condutas do credor tendentes a permitir a cobrança do crédito, assim como de atos de reconhecimento, por parte do devedor, da existência de sua dívida.
+Por tal fundamento, entende esta Corte que a interrupção tem caráter pessoal, e aproveita apenas quem a promover ou prejudica aquela contra quem for dirigido. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. INTERRUPÇÃO DA PRESCRIÇÃO. ART. 204 CC. CARÁTER PESSOAL. ART. 27 DO CDC. OCORRÊNCIA DA PRESCRIÇÃO.
+1. O Código Civil, em seu art. 204, caput, prevê, como regra, o caráter pessoal do ato interruptivo da prescrição, haja vista que somente aproveitará a quem o promover ou prejudicará aquele contra quem for dirigido (persona ad personam non fit interruptio)". (REsp 1276778/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/3/2017, DJe 28/4/2017)
+2. No caso, ainda que aplicado o prazo prescricional quinquenal previsto no art. 27 do CDC ante a natureza eminentemente consumerista da relação jurídica, verifica-se a ocorrência da prescrição da pretensão ora veiculada.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.972.505/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+Especificamente sobre o inciso VI do supracitado dispositivo legal, tem-se que este denota a interrupção do prazo prescricional por representar forma de interpelação, realizada pelo credor, do espólio do devedor, com o objetivo de ver satisfeito seu crédito.
+Nesse sentido, relevante a lição de Arnaldo Rizzardo:
+Uma vez verificado o inventário dos bens do devedor, ou a abertura de concurso de credores, a apresentação do título de crédito nos respectivos autos produz a interrupção do tempo de prescrição. Acontece que, com a apresentação do título, opera-se o ato de manifestar a intenção do recebimento do crédito, correspondendo a uma interpelação. (RIZZARDO, Arnaldo. Prescrição e Decadência. 2ª ed. Rio de Janeiro: Editora Forense. 2017)
+Na espécie, a simples inclusão do documento que enseja a presente monitória no processo de inventário do credor falecido não constitui ato tendente a cobrança destinado a interpelar o devedor. Com efeito, cuida-se de ato unilateral, do qual o devedor sequer tem notícia.
+Tem-se, portanto, que, distintamente do que defende a ora agravante, não se vislumbra a aludida interrupção do lapso prescricional.
+Ademais, como visto, a hipótese narrada no inciso VI do art. 202 do Código Civil descreve ato realizado pelo credor em desfavor do espólio, e não pelo próprio espólio credor, como se vislumbra no caso.
+Nesse contexto, considerando-se ser incontroversa a aplicabilidade do prazo quinquenal à espécie, e afastada a existência do marco interruptivo reconhecido pelas instâncias ordinárias, de rigor o reconhecimento da prescrição da pretensão autoral.
+Logo, de rigor a manutenção da decisão agravada, por seus próprios fundamentos.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
