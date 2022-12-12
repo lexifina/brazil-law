@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa solicita que se proceda à notificação de GIULIANO RIBEIRO MONTEIRO ALMEIDA para comparecer à audiência de julgamento que será realizada no Tribunal Judicial da Comarca de Faro, Juízo Local Criminal de Albufeira- Juiz 3, no dia 2 de fevereiro de 2023, às 14h30, no bojo do Processo n. 178/10.5GCABF.
+Tendo em vista que a diligência foi cumprida (certidão de fl. 76), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
