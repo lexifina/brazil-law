@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Caique de Souza Bomfim (ou Caique de Souza Bonfim), em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n.1500343-49.2020.8.26.0315), por manter a condenação do paciente como incursono art. 33, caput, c/c o art. 40, VI, ambos da Lei n.11.343/2006(tráfico de 3,15g de cocaína e 56,76 g de maconha), à pena de 5 anos e 10 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 583dias-multa.
+Pretende a defesa, em síntese, a aplicação da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com o redimensionamento da pena, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos ou, subsidiariamente, a fixação do regime inicial semiaberto.
+Não houve pedido de liminar.
+Informações prestadas (fls. 41/59), o Ministério Público Federal opinou pelo não conhecimento do writ(fls. 61/66).
+É o relatório.
+O Magistrado de primeirograu, corroborado pelo Tribunal de origem, asseverou que não se aplica ao réu a causa de diminuição de pena prevista no art.33, § 4º, da Lei n. 11.343/2006, porque embora não reincidente, a certidão de objeto e pé acostada em fls. 159 revela a existência de outro processo em trâmite também referente o tráfico de entorpecentes com abordagem e data de fato em momento anterior a destes autos (7.10.2020). Tal fato fato revela o envolvimento do réu no tráfico de entorpecentes(fl. 20).
+Ou seja, a minorante foi negada sem que houvesse menção àsentença condenatória transitada em julgado.
+Ora, até há pouco tempo, a Jurisprudência do Superior Tribunal de Justiça admitia como prova da dedicação a atividades criminosas a existência de ações penais em curso (AgRg no HC n. 638.848/MT, Ministro Felix Fischer, Quinta Turma, DJe 26/04/2021).
+No entanto, em recentes julgados, a Sexta Turma desta Corte Superior, seguindo orientação do Supremo Tribunal Federal, passou a não admitir ações penais em andamento como fundamento da dedicação a atividades criminosas, tendo em conta o princípio da presunção de inocência.
+Dito de outra forma, inquéritos policiais e/ou ações penais ainda sem acertificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade (AgRg no HC n.648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS PRIVILEGIADO. DISSÍDIO JURISPRUDENCIAL. PLEITO DE DECOTE DO RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA. AÇÃO PENAL EM CURSO DESCRITA NO ACÓRDÃO DA APELAÇÃO. FUNDAMENTO INSUFICIENTE A JUSTIFICAR A EXCLUSÃO DA MINORANTE. NOVO POSICIONAMENTO DA SEXTA TURMA (HC N. 559.880/RS, DJE 2/3/2021).
+1. Colhe-se de recentes julgados da Sexta Turma que a Suprema Corte, em recentes precedentes, consignou que, na ausência das demais situações impeditivas da causa de diminuição da pena, tão-somente a existência de ações penais sem trânsito em julgado não pode justificar a negativa de minorante, na esteira do entendimento, firmado sob a sistemática da repercussão geral de que, "ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais." (RE 591.054, Tema 129, Relator Marco Aurélio, Pleno, DJe 26/02/2015) (AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021).
+2. O Supremo Tribunal Federal, por ambas as Turmas, possui o entendimento de que inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade. Ressalva deste relator (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.912.740/SP, de minha relatoria, Sexta Turma,DJe 21/6/2021)
+Nesse mesmo sentido o AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021; e o HC n. 602.611/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/11/2020.
+Além disso,aquantidade do material entorpecente apreendido (tráfico de 3,15 g de cocaína e 56,76 g de maconha)não pode ser consideradaelevada a ponto de, isoladamente, levar à conclusão de dedicação a atividades criminosas.
+Dessa forma, tratando-se de réu primárioe não havendo, pelas instâncias ordinárias, menção a elementos aptos a demonstrar, com segurança, a dedicação a atividades criminosas ou a integração em organização da mesma natureza, deve ser reconhecido seu direito à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no seu patamar máximo.
+Assim, partindo-se do quantum de 5anos e 10 meses de reclusão, e 583dias-multa, reduzo a reprimenda em 2/3 (art. 33, § 4º, da Lei n. 11.343/2006), fixando-a definitivamente em1ano, 11 mesese 10 dias de reclusão, além do pagamento de 194dias-multa.
+Tratando-se de réu primárioe fixada a pena-base no mínimo legal, deve ser fixado o regime aberto para o seu cumprimento.
+Pelos mesmos motivos, determino a substituição da privativa de liberdade por restritivas de direitos, que deverão ser estabelecidas pelo Juízo da Vara de Execuções Criminais.
+Ante o exposto, concedo a ordem a fim de fixar a pena dopaciente em 1 ano, 11 meses e 10 dias de reclusão, a ser cumprida em regime aberto, além do pagamento de 194dias-multa, substituída a privativa de liberdade por restritivas de direitosa serem estabelecidas pelo Juízo de primeiro grau.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA.TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. AÇÃO PENAL SEM TRÂNSITO EM JULGADO.MUDANÇA DE ENTENDIMENTO.MINORANTE.APLICAÇÃO. NECESSIDADE. REGIME ABERTO. FIXAÇÃO.CONVERSÃO DAS REPRIMENDAS.
+Ordem concedida nos termos do dispositivo.
