@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por Emerson dos Santos Acioli contra a decisão do Tribunal de Justiça de Alagoasque, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, em que impugnava acórdão proferido na Apelação Criminal n. 0700508-89.2015.8.02.0019, assim ementado (fl. 158):
+PENAL. PROCESSUAL PENAL. FURTO SIMPLES. ART. 155, §1º, DO CÓDIGO PENAL. PLEITO DE ABSOLVIÇÃO. TESE DE ATIPICIDADE DA CONDUTA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DELITO PRATICADO DURANTE O REPOUSO NOTURNO. PRECEDENTE DO STJ. DOSIMETRIA. RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. REDUÇÃO DA PENA-BASE PARA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 231 DO STJ. EXCLUSÃO DA CAUSA DE AUMENTO DO REPOUSO NOTURNO. INVIABILIDADE. RECONHECIMENTO DA INCIDÊNCIA DA DIMINUIÇÃO PREVISTA NO §2º, DO ART. 155 DO CP. PENA REDIMENSIONADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+Nas razões do especial, oferecido com base no art. 105, III, a, do permissivo constitucional, a Defensoria Pública apontou ofensa aos arts. 155 do Código Penal e 386, III, do Código de Processo Penal, sustentando, em suma, a ausência de tipicidade material da conduta, com a aplicação do princípio da insignificância, uma vez que o recorrente foi denunciado sob a acusação de ter tentado furtar dois engradados de cerveja de 600ml e duas caixas de refrigerante em lata (fl. 173), objetos de valor reduzido e que foram integralmente restituídos ao ofendido (fl. 178).
+Apresentadas contrarrazões (fls. 186/189), o recurso foi inadmitido na origem, por incidência da Súmula 7/STJ (fls. 192/194).
+Daí o presente agravo (fls. 199/204). Instado a se manifestar, o Ministério Público Federal opina pelo conhecimento e não provimento do agravo, nos seguintes termos (fl. 231):
+AGRAVO. RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+- Inobstante não se aplique ao caso a dicção da Súmula 7/STJ, impede o conhecimento da controvérsia o verbete sumular 83/STJ.
+- Para o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância depende do reconhecimento dos seguintes requisitos: a) mínima ofensividade da conduta; b) ausência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica.
+- A jurisprudência atual não tem admitido a incidência do princípio da bagatela quando o furto for qualificado, o que revela maior reprovabilidade do comportamento do agente. No caso em apreço, entenderam as instâncias ordinárias que não se encontram preenchidos os pressupostos necessários ao reconhecimento do princípio da bagatela, pois o crime de furto foi perpetrado na forma qualificada, durante o período de repouso noturno.
+- Parecer pelo conhecimento e não provimento do agravo em recurso especial.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões recursais.
+A pretensão recursal direciona-se ao reconhecimento da atipicidade da conduta, com aplicação do princípio da insignificância e a consequente absolvição do ora agravante.
+Todavia, a irresignação não merece acolhida.
+Isso porque a hipótese dos autos não se trata de situação que atrai a incidência excepcional do princípio da insignificância, uma vez que, além de o crime de furto ter sido praticado durante o repouso noturno (art. 155, § 1º, do CP), circunstância que denota a maior reprovabilidade da conduta (AgRg no HC n. 748.785/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/6/2022), não há, nos autos, laudo de avaliação, o que impossibilita a discussão acerca da insignificância do dano, afastando, assim, a possibilidade de aplicação do princípio da insignificância (AgRg no AREsp n. 1.988.630/MA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/5/2022).
+Veja-se, ainda:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO PRATICADO DURANTE O REPOUSO NOTURNO. AUSÊNCIA DE LAUDO DE AVALIAÇÃO DO BEM FURTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+1. Na compreensão firmada pela jurisprudência, a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada.
+2. Hipótese em que, conforme a denúncia, o acusado subtraiu "2 (dois) sacos de carvão, com 10 kg cada, marca RM, de propriedade do estabelecimento comercial Churrascaria Rancho Gaúcho". A defesa argumenta que "o prejuízo patrimonial foi de cerca de R$ 80,00 reais", enquanto a vítima, em juízo, alegou que teve um prejuízo de aproximadamente R$ 250,00.
+3. Em razão da ausência do laudo de avaliação da res furtiva, da divergência entre as afirmações da defesa e da vítima acerca do valor real do bem furtado, bem como por ter sido o delito praticado durante o repouso noturno (art. 155, § 1º, do CP), não há como reconhecer a mínima ofensividade da conduta.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.966.462/DF, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 16/9/2022)
+É o caso, pois, de incidir a Súmula 568/STJ.
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DELITO PRATICADO DURANTE O REPOUSO NOTURNO. MAIOR REPROVABILIDADE DA CONDUTA. AUSÊNCIA DE LAUDO DE AVALIAÇÃO DO BEM FURTADO. PRECEDENTES.
+Agravo conhecido para desprover o recurso especial.
