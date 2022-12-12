@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCUS VINICIUS DA SILVA LEAO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do Recurso em Sentido Estrito (RESE) n.0037579-96.2019.8.19.0038.
+Consta dos autos que o Paciente foi denunciado(fls. 13-15) pela suposta prática dos ilícitos tipificados no art.157, § 2.º, inciso II, e § 2.º-A, c.c. o art. 14, inciso II, ambos do Código Penal, pois, em tese, em concurso com dois indivíduos não identificados,"tentou subtrair, em proveito de ambos, a carga de cigarros de propriedade da empresa Souza Cruz que se encontrava em poder da vítima  .. , mediante grave ameaça exercida com o emprego de arma de fogo e através de palavras de ordem dirigidas ao ofendido" (fl. 13); com a restrição da liberdade do Ofendido.
+O Magistrado singular, às fls. 21-22, rejeitou a denúncia, com fundamento no art. 395, inciso III, e no art. 396,caput, do Código de Processo Penal.
+Contra essa decisão o Ministério Público interpôs RESE, que foi provido pela Corte de origem às fls. 46-50. Eis a ementado julgado (fl. 46):
+"RECURSO EM SENTIDO ESTRITO. ROUBO SIMPLES. IRRESIGNAÇÃO MINISTERIAL.
+Recorrido denunciado pela suposta prática do crime roubo majorado pelo concurso de agentes e emprego de arma de fogo, na forma tentada. Rejeição da denúncia, ao argumento de ausência de justa causa para recebimento da denúncia, em razão da autoria delitiva ser firmada pela vítima por meio de reconhecimento fotográfico.
+Pleito do MP para cassação do decisum vergastado, recebendo a exordial como proposta pelo Parquet. Possibilidade.
+Validade do reconhecimento fotográfico.Nesse momento de cognição sumária, vigora o princípio in dubio pro societate, devendo o magistrado verificar apenas a plausibilidade do direito invocado e não exigir prova definitiva da autoria.Precedente desta Corte de Justiça. Decisão que se reforma.
+RECURSO MINISTERIAL AO QUAL SE DÁ PROVIMENTO."
+Neste writ,a Parte Impetrante sustenta, em suma, que não estão presentes na hipótese os requisitos legais autorizadores da decretação da prisão preventiva do Paciente.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferidopelo Ministro HUMBERTO MARTINS, então Presidente desta Corte, às fls. 53-54.
+As informações processuais requisitadas foram prestadas às fls. 57-69.
+O Ministério Público Federal opinou pelo não conhecimento do writàs fls. 71-72.
+Existe pedido de sustentação oral à fl. 12.
+É o relatório.Decido.
+De início, pontuo que, sob pena de incorrer em indevida supressão de instância, esta Corte não pode apreciar a alegação acerca da eventual ilegalidade da prisão preventiva do Paciente, tendo em vista que o Tribunal não apreciou o tema.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Por fim, apenas para fins de registro, entendo relevante consignar que, em consulta aositeda Corte de origem, pude constatar que, nos autos da Ação Penal em comento (Ação Penal n.0037579-96.2019.8.19.0038), não há sequer indicação de que o Paciente se encontre preso preventivamente. Nesses registros virtuais constadecisão do Magistrado singular, datada de 10/08/2022, por intermédio da quala denúncia ministerial foi recebida e o pedido de decretação da prisão preventiva foi indeferido, nos seguintes termos (sem grifos no original):
+"Cuida-se de denúncia oferecida pelo Ministério Público, por meio da qual imputou a MARCUS VINICIUS DA SILVA LEÃO, a prática, em tese, do crime de roubo majorado pelo concurso de pessoas e emprego de arma de fogo, na forma tentada, tipificado no art. 157, §2º, II e §2ºA, I c/c art.14, II, todos do Código Penal.
+2. A existência de um processo penal, por si só, já enseja efeitos negativos para o réu, de modo que o recebimento da inicial acusatória deve ser revestido de prévio exame em relação à presença das condições mínimas inerentes à instauração da persecução criminal, sob pena de configurar-se indesejável constrangimento ilegal.
+3. Tenho que, no caso dos autos, os pressupostos e as condições necessárias à deflagração da ação penal estão presentes (CPP, art. 395, II), em especial a denominada justa causa, que informa a necessidade de uma carga probatória mínima de autoria e materialidade da infração penal ínsita ao momento processual de recebimento da denúncia (CPP, art. 395, III). A prova da materialidade da infração penal e os indícios de autoria da prática delitiva que pesam sobre o denunciado restam demonstrados pelos documentos que instruem a inicial acusatória. Além disso, consta da denúncia a exposição dos fatos criminosos imputados ao acusado e todas as suas circunstâncias (CPP, art. 41 c/c 395, I).
+4. Pelo exposto, com fundamento no art. 396, caput, do Código de Processo Penal, RECEBO A DENÚNCIA oferecida pelo Ministério Público contra MARCUS VINICIUS DA SILVA LEÃO, em relação ao crime de roubo majorado pelo concurso de pessoas e emprego de arma de fogo, na forma tentada, tipificado no art. 157, §2º, II e §2ºA, I c/c art.14, II, todos do Código Penal. Do requerimento de decretação da prisão preventiva
+5. Passo à análise do requerimento de decretação da prisão preventiva do acusado.
+6. O art. 313 do Código de Processo Penal prevê as hipóteses de admissão da decretação da custódia cautelar, dentre as quais encontra-se a seguinte: Art. 313. Nos termos do art. 312 deste Código, será admitida a decretação da prisão preventiva: (..) I - nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos;
+7. A pena máxima prevista no preceito secundário do art.157, §2º, II e §2ºA, I, c/c art.14, II, do Código Penal, é superior a quatro anos, de modo que está presente hipótese de admissão da decretação da segregação cautelar.
+8. Os pressupostos atinentes à prova da existência do crime e aos indícios suficientes de autoria, constantes do art. 312 do Código de Processo Penal, também estão presentes. As peças do inquérito policial que instrui a denúncia dão conta da existência do crime ora sub judice.
+9. Por outro lado, não há indícios suficientes de autoria para decretação da prisão preventiva do acusado, embora esteja presente a justa causa para o recebimento da denúncia.
+10. No caso dos autos, não houve prisão em flagrante, devendo ser ressaltado, ainda, que o reconhecimento fotográfico feito pela vítima em sede policial não observou o procedimento previsto no art. 226 do Código de Processo Penal.
+11. Com efeito, tenho que as formalidades descritas no art. 226 do CPP constituem garantia mínima para quem se encontra na condição de suspeito da prática de um crime. Neste sentido, o seguinte julgado: STJ. 6ª Turma. HC 598.886-SC, Rel. Min. Rogerio Schietti Cruz, julgado em 27/10/2020, informativo 684). Sendo assim, pelas razões expostas, indefiro o pedido de decretação da prisão preventiva do denunciado.
+12. Expeça-se mandado de CITAÇÃO para que (i) o acusado responda à acusação, por escrito, no prazo de 10 (dez) dias, nos termos dos art. 396, caput, e 396-A, caput, ambos do Código de Processo Penal, bem como para (ii) dizer se possui advogado ou se deseja ser defendido pela Defensoria Pública, devendo ficar ciente, também, de que esta será nomeada para assisti-lo na hipótese de quedar-se inerte, nos termos do artigo 396-A, §2º, do Código de Processo Penal.
+13. Defiro as diligências requeridas pelo Ministério Público no item 2 da cota da denúncia de index 000024. Expeça-se o necessário.
+14. Tudo cumprido, voltem conclusos para designação de Audiência de Instrução e Julgamento."
+Ante o exposto, NÃO CONHEÇOda impetração.
+Com o não conhecimento dohabeas corpus, fica prejudicado o pedido de intimação para sustentação oral formulado pela Parte Impetrante.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO DUPLAMENTE MAJORADO TENTADO. ALEGADA ILEGITIMIDADE DA PRISÃO PREVENTIVA. TEMA NÃO DEBATIDO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
