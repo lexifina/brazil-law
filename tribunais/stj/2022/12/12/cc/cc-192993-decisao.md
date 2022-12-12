@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como Suscitante o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO ABERTO E MEDIDAS ALTERNATIVAS DE VALPARAÍSO DE GOIÁS - GO e, como Suscitado, o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES DAS PENAS E MEDIDAS ALTERNATIVAS DE BRASÍLIA -DF.
+O Juízo suscitadoreconheceu sua incompetência para processar a execução penal, nos seguintes termos (fl. 285):
+"TRANSFIRA-SE a presente execução para a Comarca de Valparaíso de Goiás/GO, ou a mais próxima que detiver competência, para que o sentenciado dê inicio/continuidade ao cumprimento da pena.
+Expeça-se autorização de viagem com transferência, se o caso.
+Solicito ao Ilustre Juízo deprecado a gentileza de resolver eventuais incidentes de execução, o que faço com espeque no seguinte entendimento jurisprudencial:
+ ..
+Nos termos do art. 7ºda Resolução nº 113/2010 do CNJ, remetam-se os autos, com as cautelas para controle de sua chegada ao juízo de destino."
+De outra parte, o Juízo suscitante igualmente declarou-se incompetente para processar a execução penal, pelos seguintes motivos (fls. 316-318; grifos diversos do original):
+"Compulsando os autos, constato que o reeducando cumpre pena no regime aberto domiciliar e que por ter declarado residir em Valparaíso de Goiás, houve a transferência da execução penal para esta Comarca.
+Todavia, a competência para execução da pena é do Juízo da condenação e não do local do domicílio do sentenciado, de modo que a simples mudança de residência do apenado, por vontade própria, não autoriza o deslocamento automático da competência do Juízo da Execução Penal.
+Demais disso, os autos de execução penal foram remetidos sem a prévia concordância deste Juízo, única e exclusivamente em razão de constar nos autos que o reeducando esteja domiciliado na Comarca de Valparaíso de Goiás/GO.
+ ..
+Frise-se que a Comarca de Valparaíso de Goiás, localizada no entorno do Distrito Federal, é considerada cidade dormitório, onde vários cidadãos se deslocam diariamente para a Capital Federal e suas adjacências para trabalharem, o que afastaria qualquer óbice para que o reeducando cumprisse sua reprimenda no Juízo da condenação, ainda mais tratando-se de regime aberto domiciliar.
+Por esses fundamentos, declaro a incompetência deste Juízo e, de conseguinte, de ofício, SUSCITO O CONFLITO NEGATIVO DE COMPETÊNCIA, remetendo-se os presentes autos ao Egrégio Superior Tribunal de Justiça, com suporte no artigo 105, I, d, da Constituição Federal."
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do conflito,a fim de que seja declaradocompetente o Juízo suscitado (fls. 340-342).
+É o relatório.Decido.
+A jurisprudência desta Corte Superior é firme no sentido de que a execução da pena cabe ao Juízo da condenação, independentemente da espécie de pena aplicada ou do regime prisional em que o Reeducando se encontre, não implicando deslocamento de competência o fato de o Apenado possuirresidência em outra comarca,podendo ser deprecada a fiscalização do cumprimento da pena, caso o Juízo da condenaçãoassim entendanecessário.
+Nesse sentido:
+"CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO SUSCITANTE. RECUSA DO JUÍZO SUSCITADO QUE AVOCA A EXECUÇÃO. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. ART. 65 DA LEI DE EXECUÇÃO PENAL - LEP. SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADA (SEEU) IMPLEMENTADO PELO CONSELHO NACIONAL DE JUSTIÇA - CNJ. DECISÃO LIMINAR NA ADIn 6259/2019 NO SUPREMO TRIBUNAL FEDERAL - STF. EFICÁCIA DOS ARTS. 2º, 3º, 9º, 12 e 13 DA RESOLUÇÃO CNJ 280/2019 SUSPENSA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2."A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência"(CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011).
+ ..
+5. Conflito de competência conhecido para declarar que a execução da pena compete ao Juízo Federal da 9ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitante, e que incumbe ao Juízo Federal da 1ª de São Bernardo do Campo - SJ/SP, o suscitado, o cumprimento da carta precatória para acompanhamento e fiscalização da execução das penas restritivas de direitos e da pena de multa."(CC 172.445/RJ, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 29/06/2020, sem grifos no original.)
+"AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECURSO DO INTERESSADO. LEGITIMIDADE. COMPETÊNCIA PARA A EXECUÇÃO PENAL. JUÍZO INDICADO NA LEI LOCAL DE ORGANIZAÇÃO JUDICIÁRIA DO JUÍZO DA CONDENAÇÃO. TRANSFERÊNCIA DE PRESO PARA LOCAL PRÓXIMO AOS SEUS FAMILIARES. EXISTÊNCIA DE VAGAS. CONDIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO
+1. Possui legitimidade para interpor agravo regimental eventual interessado, desde que demonstre que a decisão proferida no conflito de competência refletirá diretamente na sua condição carcerária.
+2. A jurisprudência desta Corte, com fundamento no art. 65 da Lei de Execuções Penais, firmou entendimento de que o juízo competente para a execução penal é o indicado na lei local de organização judiciária do Juízo da condenação. É evidente que o fato de o processo executivo ser de competência de juízo que não corresponda ao do domicílio do réu não impede, por si só, que a pena possa ser cumprida neste último local, sob a supervisão de juízo que deve ser deprecado para essa finalidade.
+3. A despeito de otimizar a ressocialização do preso e de humanizar o cumprimento da reprimenda, pela maior proximidade do preso aos seus familiares, a transferência de presídio depende da existência de vaga.
+4. Agravo regimental não provido."(AgRg no CC 143.256/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 08/06/2016, DJe 17/06/2016, sem grifos no original.)
+Dessa forma, compete ao Juízo de Direito da Vara de Execuções das Penas e Medidas Alternativas de Brasília - DF, local de onde se originou a condenação, a execução da pena do Sentenciado, o qual poderá eventualmente deprecar a fiscalização do cumprimento da pena e a prática de atos processuais para o atual domicílio do Apenado, se entender necessário.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competenteo JUÍZO DE DIREITO DA VARA DE EXECUÇÕES DAS PENAS E MEDIDAS ALTERNATIVAS DE BRASÍLIA -DF, o Suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. RÉU DOMICILIADO EM COMARCA DIVERSA DAQUELA EM QUE FOI CONDENADO. COMPETÊNCIA DO JUÍZO DE EXECUÇÃO DA COMARCA EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA. DECLARADA A COMPETÊNCIA DO JUÍZO SUSCITADO.
