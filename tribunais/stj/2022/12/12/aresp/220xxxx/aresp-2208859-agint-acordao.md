@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Maranhãocontra decisão da Presidência da Corte, que não conheceu do agravo em recurso especial, em razão de a parte recorrente não ter rebatido, de forma específica, todos os fundamentos adotados pela decisão agravada, atraindo a incidência da Súmula 182 desta Corte Superior.
+Inconformada, a parte agravante afirma que "não seria necessária a manifestação de todos os pontos da decisão recorrida, quando o principal deles é suficiente parar dar provimento ao recurso. No presente caso reforça-se a tese por esse principal ponto, no presente caso, ser matéria de observância obrigatória, que suplanta os demais argumentos debatidos. (..) Nesse diapasão, o entendimento de que o Estado deixou de impugnar todos os pontos da decisão agravada não merece prosperar, porque produziu tese que infirma parte do julgado suficientemente apta a promover a modificação integral do julgado."(fls. 598/600)
+Repisa, ainda, os argumentos de mérito discutidos no recurso especial.
+Não houve impugnação às razões do recurso.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP).
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida.
+Como antes assentado na decisão, observa-se que o agravo em recurso especial não ultrapassa a barreira do conhecimento, pois a parte agravante não rebateu, de modo específico, todos os fundamentos adotados pela decisão que negou trânsito ao apelo especial, deixando de atacar a apontadadeficiência de cotejo analítico.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Nessa mesma linha, convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o referido óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC eEAREsp 831.326/SP).
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
