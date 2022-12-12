@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):Cuida-se de agravo interno interposto por ONADIR GONÇALVES DIAS, em face de decisão monocrática da lavra deste signatário que negouprovimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e"c", da Constituição Federal, desafiou acórdão proferido pelo Tribunal deJustiça do Estado de São Paulo,assim ementado (fl. 82, e-STJ):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Cédula de crédito bancário - Confissão de dívida. Penhora. 1. Imóvel doado aos filhos após a citação e lavratura do termo de penhora. Ausência de prévia averbação da penhora. Irrelevância. Fraude à execução caracterizada. Precedentes do STJ. 2. Bem de família. Não reconhecimento. Fraude à execução incompatível com a proteção legal. Recurso não provido.
+Opostos embargos de declaração (fls. 89/95, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 106/125, e-STJ), o recorrente apontou, além de dissídio jurisprudencial, ofensa aos artigos 1022, 792 do Código de Processo Civil/15; 1º e 5º da Lei 8.009/90 e Súmula 375 do STJ. Sustentou, em síntese: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões suscitadas nos aclaratórios em relação ao enfrentamento adequado da questão relativa caracterização do imóvel com bem de família; ii) antes de declarar a fraude à execução, era dever do juiz intimar os filhos do devedor (adquirentes do imóvel a título de donatários-doação) para que, se quisessem, opor embargos de terceiros e comprovar a licitude e legitimidade da doação, sobretudo por se tratar o bem doado de imóvel bem de família que jamais seria alcançado pela ação executiva; iii) a ausência de registro de penhora ou da própria execução, evidencia que não houve qualquer má-fé do Recorrente, o que afasta o reconhecimento da fraude à execução; iv) "a prova nos autos de que o imóvel penhorado é, na verdade, bem de família tem-se que a consequência disso é que o bem é, portanto, impenhorável, não havendo se falar em intuito de insolvência ou de fraude".
+Contrarrazões apresentadas às fls. 156/166, e-STJ.
+Após a decisão de admissão do recurso especial (fls. 174/176, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão monocrática (fls. 194/199, e-STJ), este signatário negouprovimento ao recurso sob os seguintes fundamentos: i) ausência denegativa de prestação jurisdicional; ii) incidência dasSúmulas 211, 83 e7 doSTJ.
+Opostos embargos de declaração (fls. 202/207, e-STJ), esses foram rejeitados pela decisão monocrática de fls. 216/219, e-STJ.
+No agravo interno (fls. 223/240, e-STJ), oinsurgente reitera as razões dorecurso especial, bem como refuta os retrocitados óbices.
+Impugnação às fls. 243/249, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENO NA ORIGEM- DECISÃOMONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSALDOAGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origemde forma suficiente, fundamentada e sem omissões, devendo ser afastada aalegada violação aos artigos 489 e 1.022 do CPC/15. Consoanteentendimento desta Corte, não importa negativa de prestaçãojurisdicionalo acórdão que adota, para a resolução da causa, fundamentação suficiente,porém diversa da pretendida pelo recorrente, decidindo de modo integral acontrovérsia posta no tocante à caracterização do imóvel com bem de família. Precedentes.
+2. A ausência de enfrentamento da questão objeto da controvérsia atinente à necessidade de intimação dos filhos do devedor pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+3. "Considera-se em fraude de execução a doação de imóvel ao descendente quando, ao tempo da doação, corria contra os devedores demanda capaz de reduzi-los à insolvência. A jurisprudência do STJ reconhece a importante proteção aos terceiros que adquirem de boa fé bem imóvel sem saber de ação executiva movida em face do alienante em estado de insolvência. Entretanto, essa proteção não se justifica quando o doador procura blindar seu patrimônio dentro da própria família mediante a doação gratuita de seus bens para seu descendente, com objetivo de fraudar a execução já em curso." (REsp 1600111/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016).
+3.1. A reforma do acórdão recorrido, no sentido de reconhecer que não houve fraude à execução, demanda a incursão no acervo fático-probatório dos autos, prática vedada pela Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos peloagravante são incapazes de infirmar a decisão objurgada, motivo pelo qualmerece ser mantida na íntegra por seus próprios fundamentos.
+1. De início, consoante asseverado na decisão agravada, não se vislumbraomissão ou deficiência de fundamentação no acórdão impugnado, visto que éclara e suficiente a fundamentação adotada pelo Tribunal de origem para odeslinde da controvérsia, inclusive em relaçãoao enfrentamento da questão relativa à caracterização do imóvel com bem de família.
+É o que se observa do seguinte trecho do acórdão impugnado (fl. 207,e-STJ):
+E no que diz respeito à alegada impenhorabilidade, além de não comprovado que o imóvel serve de residência ao devedor e sua família, a proteção do bem de família é incompatível com a conduta de fraude à execução.
+O Superior Tribunal de Justiça pacificou o entendimento no sentido de que: "A regra de impenhorabilidade aplica-se às situações de uso regular do direito. O abuso do direito de propriedade, a fraude e a má-fé do proprietário conduzem à ineficácia da norma protetiva, que não pode conviver, tolerar e premiar a atuação do agente em desconformidade com o ordenamento jurídico" (REsp 1200112/RJ, Rel. Ministro CASTRO MEIRA,SEGUNDA TURMA, julgado em 07/08/2012, DJe 21/08/2012); decidindo, ainda, que "O bem que retorna ao patrimônio do devedor, por força de reconhecimento de fraude à execução, não goza da proteção da impenhorabilidade disposta na Lei nº 8.009/1990, sob pena de prestigiar-se a má-fé do executado" (AgRg no REsp 1085381/SP, Rel. Ministro PAULO GALLOTTI, SEXTA TURMA, julgado em 10/03/2009, DJe 30/03/2009).
+Com efeito, as questões postas à discussão foram dirimidas pelo órgãojulgador de forma suficientemente ampla e fundamentada, embora não tenhaacolhido as pretensões da recorrente, portanto não há ofensa aoartigo1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestaçãojurisdicional o acórdão que adota para a resolução da causa fundamentaçãosuficiente, porém diversa da pretendida pelo recorrente, decidindo de modointegral a controvérsia posta, como ocorre na hipótese sub judice.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADACOM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃOJURISDICIONAL.FUNDAMENTAÇÃO E OMISSÃO NÃO CONSTATADAS. 2. JULGAMENTO EXTRA PETITA. NÃOOCORRÊNCIA. 3. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. APLICAÇÃODE MULTA DO ART. 1.026, § 2º, DO CPC/2015 PELO TRIBUNAL LOCAL.POSSIBILIDADE. SÚMULA 83/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficoucaracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que oTribunal de origem se manifestou de forma fundamentada sobre todas asquestões necessárias para o deslinde da controvérsia. O mero inconformismo
+da parte com o julgamento contrário à sua pretensão não caracteriza faltade prestação jurisdicional.
+ ..
+4. Agravo interno a que se negaprovimento.
+(AgInt no AREsp 1263748/MG, Rel. Ministro MARCO AURÉLIOBELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018)
+Desta forma, considerando que a questão trazida à discussão foi dirimidapelo Tribunal de origem de forma fundamentada e sem omissões oucontradições, merece ser afastada a alegada negativa de prestaçãojurisdicional.
+2. Pretende a agravante o afastamento da Súmula 211 do STJ, ao argumentoter havido o prequestionamento da matéria.
+Conforme asseverado na decisão monocrática ora agravada, no concernente à afronta ao artigo 792 do CPC/15 (antes de declarar a fraude à execução, era dever do juiz intimar os filhos do devedor (adquirentes do imóvel a título de donatários-doação) para que, se quisessem, opor embargos de terceiros e comprovar a licitude e legitimidade da doação), embora o ora insurgente tenha apresentado embargos de declaração, incide, na espécie, o óbice da Súmula 211 do STJ, porquanto ausente o devido prequestionamento, haja vista que as matérias reguladas nos aludidos dispositivos não foram interpretadas pelo Tribunal de origem, não tendo havido alegação de negativa de prestação jurisdicional nas razões do recursais.
+Oportuno consignar, que para se configurar o prequestionamento da matéria é necessário extrai do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que sepossa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PERÍCIA. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+(..)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, o qual preceitua que cabe ao magistrado dirigir a instrução probatória por meio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Inviável rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, sem a análise dos fatos e das provas dos autos, o que é inviável em recurso especial diante da incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1105171/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+3. Com efeito "considera-se em fraude de execução a doação de imóvel ao descendente quando, ao tempo da doação, corria contra os devedores demanda capaz de reduzi-los à insolvência. A jurisprudência do STJ reconhece a importante proteção aos terceiros que adquirem de boa fé bem imóvel sem saber de ação executiva movida em face do alienante em estado de insolvência. Entretanto, essa proteção não se justifica quando o doador procura blindar seu patrimônio dentro da própria família mediante a doação gratuita de seus bens para seu descendente, com objetivo de fraudar a execução já em curso (REsp 1600111/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)" (AgInt no AREsp 1413941/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/04/2019, DJe 16/04/2019).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INSOLVÊNCIA CIVIL. BEM DE FAMÍLIA. DOAÇÃO A DESCENDENTE. FRAUDE À EXECUÇÃO. COMPROVAÇÃO. PRESSUPOSTOS. EXISTÊNCIA. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA. REVISÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+(..)
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que a doação de bem imóvel pelos pais a descendente, quando em trâmite demanda capaz de reduzi-los à insolvência, configura fraude à execução. Precedentes.
+3. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1576822/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. SÚMULA 375/STJ. INEQUÍVOCA CIÊNCIA DO TERCEIRO EMBARGANTE. CONSILIUM FRAUDIS CONFIGURADO. AGRAVO DESPROVIDO.
+(..)
+2. "Considera-se em fraude de execução a doação de imóvel ao descendente quando, ao tempo da doação, corria contra os devedores demanda capaz de reduzi-los à insolvência" (REsp 1600111/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/09/2016, DJe 07/10/2016).
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no REsp 1319605/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/03/2017, DJe 20/03/2017)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. DOAÇÃO DE DEVEDOR INSOLVENTE EM FAVOR DO PRÓPRIO FILHO. FRAUDE À EXECUÇÃO CONFIGURADA.
+1. Considera-se em fraude de execução a doação de imóvel ao descendente quando, ao tempo da doação, corria contra os devedores demanda capaz de reduzi-los à insolvência.
+2. A jurisprudência do STJ reconhece a importante proteção aos terceiros que adquirem de boa fé bem imóvel sem saber de ação executiva movida em face do alienante em estado de insolvência.
+3. Entretanto, essa proteção não se justifica quando o doador procura blindar seu patrimônio dentro da própria família mediante a doação gratuita de seus bens para seu descendente, com objetivo de fraudar a execução já em curso.
+4. Modificar o entendimento do acórdão recorrido no sentido de que a doação se efetivou de forma irregular, por meio de prática de ato de alienação em fraude à execução, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+5. Recurso especial conhecido e não provido.
+(REsp 1600111/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)
+Na espécie, a Corte de origem, ao negar provimento ao agravo de instrumento interposto pelo insurgente, ora agravante, concluiu que as penhoras existentes nos autos não são suficientes para garantir a execução, bem como que as doações realizadas pelo executado demonstraram a tentativa de esvaziar o patrimônio com o propósito de frustrar a expectativa da exequente, ora agravado, na persecução do seu crédito.
+A propósito, confira-se trecho extraído do aresto hostilizado que bem assenta a conclusão alcançada pelo colegiado a quo (fls. 83/87, e-STJ):
+O caso trata de execução de cédula de crédito bancário confissão de dívida, pelo valor total de R$ 5.006.134,36 (atualizado para 22.09.2015), ajuizada em05.10.2015, em face de Meta Manutenção e Instalações Industriais Ltda.,Behnam Chovghi Iazdi e Onadir Gonçalves Dias (fls. 14/19).
+O credor indicou na petição inicial 10 imóveis para penhora, três deles pertencentes 50% a Onadir, dentre os quais aquele matriculado sob o nº.13.007 do 4º CRI de Campinas/SP.
+O executado Onadir foi citado em18.12.2015 (fls. 33), sem pagar o débito, ensejando o pedido de penhora dos imóveis indicados em20.01.2016 (fls. 126dos autos principais).
+Em razão da tumultuada condução do processo, a penhora somente foi deferida em29.05.2017 (fls. 36).
+Lavrado o termo de penhora em20.06.2017 (fls. 173 dos autos principais), quando da averbação na matrícula do imóvel (somente em02.02.2019 !),foi devolvido pelo cartório de registro de imóveis com a informação de que o bem já não constava mais em nome do devedor, que o havia doado a seus filhos em 13.12.2018(fls. 279 e 317/319 dos autos principais).
+A pedido do exequente (fls. 51/55) foi reconhecida a fraude à execução na doação havida aos filhos (fls. 69), contra o que se insurge o coexecutado Onadir, sob fundamento de que na época da doação não havia averbação da penhora na matrícula do imóvel e, além disso, o bem se caracteriza como de família, pois serve lhe de residência.
+Mas sem razão.
+O inciso IV, do art. 792, do CPC, dispõe que constitui fraude à execução a alienação ou oneração de bem "quando, ao tempo da alienação ou oneração, tramitava contra o devedor demanda capaz de reduzi-lo à insolvência".
+Com efeito, a doação do imóvel feita aos filhos do devedor ocorreu após a citação do devedor, que confessou tê-la feito para livrar o bem da penhora e garantir a moradia à família.
+Evidentemente que está caracterizada a fraude à execução, sendo irrelevante que não havia, na época, averbação da penhora na matrícula do imóvel, pois a ciência do executado quanto à constrição é incontroversa e, certamente, de seus filhos, donatários do imóvel.
+Ademais, a Súmula nº 375, do STJ, invocada pelo agravante dispõe que: "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente".
+No caso dos autos a má-fé está escancarada e confessada pelo próprio devedor!
+(..)
+Também não vinda a alegação de que há muitos imóveis indicados nos autos suficientes para a garantia da execução, pois em nome do agravante foram indicados apenas três, incluindo aquele ora objeto de discussão, dos quais, aliás, possui apenas 50%.
+Além disso, em 25.05.2020, a execução já ultrapassava o valor de R$ 10 milhões (fls. 373/374 dos autos principais) e não foi nem minimamente demonstrado o valor dos imóveis para aferir se devidamente garantida a execução.
+De tal modo, bem caracterizada e, confessada, a fraude à execução, deve prevalecer a decisão agravada quanto à ineficácia da doação.
+E no que diz respeito à alegada impenhorabilidade, além de nãocomprovado que o imóvel serve de residência ao devedor e sua família, a proteção do bem de família é incompatível com a conduta de fraude à execução.
+Dessa forma, além de o aresto recorrido encontrar apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria, o que atrai a incidência do óbice contido na Súmula 83/STJ, para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+4. Do exposto, nego provimento ao agravo interno.
+É como voto.
