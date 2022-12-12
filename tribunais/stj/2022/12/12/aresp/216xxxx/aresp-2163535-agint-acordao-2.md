@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelaSIQUEIRA CASTRO-ADVOGADOS, para desafiar decisão proferida às e-STJ fls. 2.390/2.395, em que conheci do agravo para não conhecer do recurso especial, em face da incidência da Súmula 7 do STJ.
+Sustenta a parte agravante, em suma, que o referido enunciado não se aplicam à espécie, pois "os fatos a merecer análise por este Colendo Tribunal Superior estão contidos no v.acórdão recorrido", "inclusive no tocante a clara ilegalidade de rescisão contratual por parte da CEDAE", (e-STJ fl. 2.422).
+Quanto ao mais, reitera os fundamentos anteriormente expendidos, no sentido deacolhimento do pedido de condenação por danos materiais e morais decorrentes da perda de uma chance, haja vista ter sido alijado da licitação pública em decorrência da ilegal penalidade aplicada para CEDAE.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 2.455/2.462.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO.RESCISÃO UNILATERAL E APLICAÇÃO DE PENALIDADE. DANOS MORAIS E MATERIAIS PELA PERDA DE UMA CHANCE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1.É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Ação em que o escritório de advocacia postula indenização por danos morais e materiais advindos da perda de uma chance decorrente da aplicação indevida de penalidade de proibição de licitar, em processo administrativo, após a rescisão unilateral do contrato.
+3. Ao apreciar o pleito indenizatório, o Tribunal local concluiu que não havia como prever, "com algum grau de segurança", que o escritório, ora agravante, "seria o vencedor do certame caso não tivesse sido excluído do procedimento, e, consequentemente, seria contratado para cuidar dos processos trabalhistas envolvendo a CEDAE", bem com que "o escritório não comprovou que terceiros tenham tido ciência do motivo da rescisão do contrato firmado com a CEDAE, tampouco que tenha perdido clientes em razão do ocorrido, não restando, então, caracterizada lesão à sua honra objetiva e, consequentemente, lesão de caráter extrapatrimonial passível de compensação."
+4. Amodificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+5.Agravo interno desprovido.
+VOTO
+A decisão recorrida não merece reparos.
+Como ali anotado,a controvérsia travada na origem consistiu em se aferir se a aplicação dapenalidade de suspensão dos direitos de licitar e de contratar com a CEDAE, ora agravada, ampara o pedido de indenização por danos morais e materiais decorrente da"perda de uma chance".
+Acerca do pedido indenizatório, o Tribunal de origemconcluiu que não havia como prever, com algum grau de segurança, que o escritório, ora agravante, "seria o vencedor do certame caso não tivesse sido excluído do procedimento, e, consequentemente, seria contratado para cuidar dos processos trabalhistas envolvendo a CEDAE", bem com que"o escritório não comprovou que terceiros tenham tido ciência do motivo da rescisão do contrato firmado com a CEDAE, tampouco que tenha perdido clientes em razão do ocorrido, não restando, então, caracterizada lesão à sua honra objetiva e, consequentemente, lesão de caráter extrapatrimonial passível de compensação." (e-STJ fls. 1.890/1.892):
+E quanto à alegada perda de uma chance, em razão de ter sido o escritório excluído do procedimento licitatório envolvendo processos trabalhistas, por conta da penalidade que lhe foi aplicada no processo administrativo objeto de análise, cumpre esclarecer que o dano indenizável pela perda de uma chance reclama a comprovação incontroversa de que o lesado teve uma interrupção de um fato vantajoso que estava em curso, sendo insuficiente à sua configuração, apenas uma mera expectativa ou probabilidade de ocorrência de fato vantajoso àquele sujeito.
+Se faz necessário, pois, que se trate de uma chance séria e real, que proporcione ao lesado efetivas condições pessoais de concorrer à situação futura esperada, não sendo indenizável o dano potencial ou incerto.
+A chance perdida reparável deverá caracterizar um prejuízo material ou imaterial resultante de fato consumado, não hipotético. Em outras palavras, é preciso verificar em cada caso se o resultado favorável seria razoável ou se não passaria de mera possibilidade aleatória.
+In casu, não há como prever aqui, com algum grau de segurança, que o apelante seria o vencedor do certame caso não tivesse sido excluído do procedimento, e, consequentemente, seria contratado para cuidar dos processos trabalhistas envolvendo a CEDAE, de modo que não restou caracterizado um prejuízo material a ensejar o dever de reparação.
+Quanto ao dano moral, como cediço, é cabível reparação de dano moral sofrido por pessoa jurídica, estando tal entendimento consolidado no enunciado nº 227 da súmula do STJ.
+Entretanto, para que se configure o dano extrapatrimonial, deve haver prova nos autos do abalo à imagem sofrido pela apelante e ao seu prestígio perante clientes, fornecedores e terceiros.
+Com efeito, faz-se, para tanto, imprescindível que ocorra lesão a honra objetiva da pessoa jurídica, não se podendo cogitar de honra subjetiva.
+No caso sob enfoque, o escritório não comprovou que terceiros tenham tido ciência do motivo da rescisão do contrato firmado com a CEDAE, tampouco que tenha perdido clientes em razão do ocorrido, não restando, então, caracterizada lesão à sua honra objetiva e, consequentemente, lesão de caráter extrapatrimonial passível de compensação.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Acerca do tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. PERDA DE PRAZO PARA PROPOSITURA DA AÇÃO. CULPA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. DECISÃO MANTIDA.
+1. "Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 141, 489, 492 e 1.022 do estatuto processual civil de 2015" (AgInt no AREsp 1.630.025/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/8/2020, DJe 14/8/2020).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem, a partir da análise dos elementos de prova, concluiu que houve falha no dever de informação por parte da profissional e que foi comprovada a culpa pela perda da chance. Entender de modo contrário implicaria reexame da matéria fática, o que é vedado em recurso especial.
+(..).
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.717.961/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2020, DJe de 14/12/2020.).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui entendimento no sentido de que em caso de responsabilidade de profissionais da advocacia por condutas apontadas como negligentes, e diante do aspecto relativo à incerteza da vantagem não experimentada, as demandas que invocam a teoria da "perda de uma chance" devem ser solucionadas a partir de detida análise acerca das reais possibilidades de êxito do postulante, eventualmente perdidas em razão da desídia do causídico.Precedentes.
+2. O acolhimento da pretensão recursal, a fim de reconhecer a inexistência do dever de indenizar, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+3. "O intuito de debater novos temas, por meio de agravo regimental, não trazidos inicialmente no recurso especial, se reveste de indevida inovação recursal, não sendo viável, portanto, a análise, ainda que se trate de matéria de ordem pública, porquanto imprescindível a prévia irresignação no momento oportuno e o efetivo debate sobre os temas" (AgRg no AREsp 401.770/PI, Rel.
+Min. MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 12/11/2013).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.488.134/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/9/2019, DJe de 10/9/2019.).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
