@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso próprio,impetrado em benefício de João Vitor de Moura, contra acórdão doTribunal de Justiça do Estado de São Paulo, proferido no julgamento do Agravo em Execução Penal n. 0002352-85.2022.8.26.0154.
+Extrai-se dos autos que o Juízo das Execuções indeferiu o pedido de retificação da folha de cálculo formulado pelopaciente, que pugnava excluir o caráter hediondo do crime de tráfico de drogas (fls. 87/89).
+Irresignada, a defesa interpôs agravo perante o Tribunal de origem, que negou provimento ao recurso, em acórdão assim sumariado:
+"RETIFICAÇÃO DE CÁLCULOS - Condenação do crime de tráfico - Discussão a respeito da hediondez do crime de tráfico - Argumento de que a Lei n. 13.964/19 revogou o art. 2º, § 2º, da Lei 8072/90 - Irrelevância - Crime de tráfico que é equiparado a hediondo com previsão na CF/88 - Precedentes do C. STJ - Agravo improvido (voto nº 46360).
+RECURSO DESPROVIDO" (fl. 51).
+No presentewrit, o impetrante argumenta que,com a revogação do § 2ºdo art. 2ºda Lei n. 8.072/90 pela Lei n. 13.964/2019, o crime de tráfico de drogas deixou de ser consideradocomo delito equiparado a hediondo.
+Requer a retificação do cálculo da pena.
+O pedido liminar foi indeferido em decisão de fls. 57/58.
+Parecer do Ministério Público Federal opinando pela denegação da ordem, assim sumariado:
+"HABEAS CORPUS. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. CRIME EQUIPARADO A HEDIONDO. PARECER PELA DENEGAÇÃO DA ORDEM" (fl. 91).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, razoável verificar a existência de eventual constrangimento ilegal aautorizara concessão da ordem de ofício.
+O acórdão impugnado assim destramou a questão:
+"Pese os argumentos da combativa defesa, muito não há que se discutir, vez que trata-se dematéria pacificada pela jurisprudência e doutrina.
+Ainda que a Lei 13.964/19 tenha revogado o § 2º do art. 2º da Lei 8.072/90, que se referia aos percentuais necessários de cumprimento de pena para fins de progressão no regime, não houve revogação do "caput"do art. 2º, que prevê que: "Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: I anistia, graça e indulto; II fiança", que está em consonância com a ordem constitucional de 1988 que em seu art. 5º, inciso XLIII, prevê que: "a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem", provindo, portanto, da própria Constituição Federal a equiparação do crime de tráfico a crime hediondo" (fl. 53).
+Da atenta leitura dos autos, verifica-se que o Tribunal de origem não divergiu da jurisprudência dominante nesta Corte Superior, no sentido de que a equiparação do crime de tráfico de drogas a crimes hediondos, assim como a tortura e o terrorismo, decorre diretamente da Constituição Federal, não sendo adequado afirmar que o "Pacote Anticrime" afastou as consequências deletérias da Lei n. 8.072/1990 destes delitos.
+No ponto, destaco a doutrina de Renato Brasileiro de Lima:
+"A justificativa para o constituinte originário ter separado os crimes hediondos dos equiparados a hediondos está diretamente relacionada à necessidade de assegurar maior estabilidade na consideração destes últimos como crimes mais severamente punidos. Em outras palavras, a Constituição Federal autoriza expressamente que uma simples Lei Ordinária defina e indique quais crimes serão considerados hediondos. No entanto, para os Equiparados a hediondos, o constituinte não deixou qualquer margem de discricionariedade para o legislador ordinário, na medida em que a própria Constituição Federal já impõe tratamento mais severo à tortura, ao tráfico de drogas e ao terrorismo (LIMA, Renato Brasileiro de. Legislação criminal especial comentada: volume único. 8. ed. -Salvador: JusPODIVM, 2020)."
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABES CORPUS. EXECUÇÃO PENAL. OFENSSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. TRÁFICO DE DROGAS. AFASTAMENTO DA HEDIONDEZ. READEQUEAÇÃO DA FRAÇÃO DE CUMPRIMENTO. APLICAÇÃO DO ART. 112, I, LEP. ALTERAÇÃO LEGISLATIVA. IMPOSSIBILIDADE. NATUREZA HEDIONDA QUE DECORRE DA CARTA POLÍTICA. NÃO ENFRETAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I- De início, não há falar em violação ao princípio do colegiado, na medida em que o entendimento que prevalece atualmente neste Sodalício é pela possibilidade do relator, quando se deparar com recurso que impugna acórdão alinhado à jurisprudência dominante deste Tribunal, poderá, na forma da Súmula 568/STJ e Regimento Interno deste Tribunal, decidir monocraticamente. Ademais, a interposição de agravo regimental, cujo julgamento será feito pelo colegiado da Turma, torna despicienda eventual alegação de nulidade.
+Precedentes.
+II- Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+III - Conforme se depreende, não há que se falar em constrangimento ilegal no presente caso, porquanto a equiparação do crime de tráfico de drogas a crimes hediondos, assim como o de tortura e o de terrorismo, está de acordo com a jurisprudência deste Sodalício, além de ter disposição direta na Constituição Federal, não sendo idôneo o argumento de que a Lei n. 13.964/2019, ao revogar o § 2º do art. 2º da Lei n. 8.072/1990, afastou a natureza hedionda do delito.
+IV - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai o Enunciado sumular n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental, que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 762.639/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. HEDIONDEZ EQUIPARADA.
+1. A Lei n. 13.964/2019 não retirou o caráter de equiparado a hediondo do crime de tráfico de drogas. O caráter hediondo somente é retirado quando incide a figura do tráfico privilegiado, nos termos do § 5º do art. 112 da Lei 7.910/1984, o que não é o caso dos autos, conforme já decidido pelo Supremo Tribunal Federal no HC 118.533/MS.
+2. Dir-se-á que a previsão do § 5º do art. 112 da Lei 7.210/1984 (LEP), de que "Não se considera hediondo ou equiparado, para fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343, de 23 de agosto de 2006.", antes supõe norma legal que arrole o tráfico de drogas como crime hediondo ou equiparado, premissa que tem sustentabilidadeum tanto vulnerável depois que a Lei nº 13.964, de 24/12/2019, revogou o § 2º do art. 2º da Lei 8.092/1990. Mas, de toda forma, essa é a jurisprudência estabilizada do do STJ.
+3. Agravo regimental improvido.
+(AgRg no HC n. 748.788/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
