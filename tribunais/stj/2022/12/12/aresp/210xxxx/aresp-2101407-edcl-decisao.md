@@ -1,0 +1,14 @@
+DECISÃO
+RODRIGUES AUTO PEÇAS LTDA e OUTRO opõem embargos declaratórios à decisão de fls. 554-558, que negou provimento ao agravo em recurso especial com base naSúmulan. 284 do STF e nas Súmulas n. 13 e 211 do STJ e por deficiência na demonstração do dissídio jurisprudencial.
+Em suas razões, os embargantes sustentam que o acórdão embargado contém vícios que merecem ser sanados.
+Reiteram que o Agravo de Instrumento n. 0809725-51.2020.8.02.0000 (AREsp n. 2.101.407/AL 2022/00972185-5) foi julgado em conjunto com o Recurso de Agravo de Instrumento n. 0807857-72.2019.8.02.0000, como dito no cotejo analítico às fls. 184-185 destes autos. Subsequentemente, colacionam o mesmo dissídio jurisprudencial apresentado nas razões do recurso especial.
+Discorrem sobre o instituto jurídico da conexão e afirmam que está clara a prejudicialidade externa e a possibilidade de julgamentos contraditóriosa impor a reunião dos dois casos para o julgamento conjunto, com a consequente anulação da decisão embargada esuspensão do mesmo até que o outro recurso seja recepcionado por esta Corte Superior.
+Requerem o conhecimento e provimento dos presentes embargos declaratórios para que sejam sanadosos vícios apontados.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado.
+Nas razões dos embargos de declaração, a parte recorrente não aponta nenhuma vício (omissão, contradição, obscuridade, erro material) passível de ser sanado, apenas, demonstra seu interesse na reanálise de questão que foi obstada pela incidência daSúmulan. 284 do STF, das Súmulas n. 13 e 211 do STJ e na deficiência de demonstração do dissídio jurisprudencial.
+Registre-se que, segundo o entendimento da Corte Especial do STJ, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Ademais, a mera irresignação dos embargantes com o entendimento adotado no julgamento do agravo não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial,DJe de 15/12/2021).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição,omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
