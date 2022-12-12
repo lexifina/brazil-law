@@ -1,0 +1,3 @@
+DECISÃO
+Os agravantes apresentaram pedido de reconsideração, ao argumento de que "o presente recurso tem objeto diverso do equivocadamente acima afirmado. Com efeito, o objeto deste recurso é a reforma da decisão do Juízo Agravado determinando que os bens objeto de promessa de doação 1 do "de cujus" aos Agravantes se processasse através de ação própria e não, nos autos do inventário daquele (vide: item 1.2., alínea "b", fls. 5/6 da peça vestibular e item 1.1, alínea "b", fls. 67 do Recurso Especial), o que constitui violação do art. 612 do CPC e dispõe de forma diversa de decisão desta Corte" (e-STJ fls. 207/208).
+Diante das razões expostas, acolho o pedidopara tornar sem efeito a decisão de e-STJ fl. 201 e determino a redistribuição do processo para a minha relatoria.
