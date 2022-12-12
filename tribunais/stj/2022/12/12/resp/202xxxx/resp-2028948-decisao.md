@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUNIVERSIDADE FEDERAL DE PERNAMBUCO - UFPE com fundamento no artigo 105, III, "a"da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fls. 677-678):
+EMENTA: PROCESSUAL CIVIL. HONORÁRIOS ADVOCAT CIOS. PROMOÇÃO DO CUMPRIMENTO DE SENTENÇA. CABIMENTO. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DE INSTRUMENTO PROVIDO.
+1. Agravo de Instrumento contra decisão que indeferiu o pleito de arbitramento de honorários advocatícios pela instauração do cumprimento de sentença
+2. A orientação que prevalece no Superior Tribunal de Justiça é no sentido de que "apesar de os honorários advocatícios constituírem direito autônomo do advogado, à luz do disposto no art. 23 da Lei 8.906/1994, a parte possui legitimidade concorrente para discutir a respeito do tema" (AgInt nos Edcl no REsp 1.864.129/MS, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 1º/09/2020).Preliminar de ilegitimidade rejeitada.
+3. A Corte Especial do STJ, no julgamento do REsp nº 1.252.412/RN, sob o rito dos recursos repetitivos, "firmou a orientação no sentido de que inexiste preclusão do arbitramento de verba honorária, no curso da execução, ainda que sobre ela tenha sido silente a inicial do processo executivo (REsp n. 1.252.412/RN, Rel. MinistroArnaldo Esteves Lima, Corte Especial, julgado em 6/11/2013, DJe 3/2/2014)" no AREsp nº 1.443.129/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 11/05/2020).
+4. Na hipótese, a ASSOCIAÇÃO DOS DOCENTES DA UNIVERSIDADE FEDERAL DE PERNAMBUCO - ADUFEPE ingressou com cumprimento de sentença relativo ao título judicial originado na ação ordinária nº. 97.0003739-8, em que se reconheceu o direito dos substituídos ao reajuste de 28,86%.
+5. O STJ, também em recurso repetitivo (REsp 1.520.710/SC), assentou o seguinte entendimento (Tema 587): a) Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973; b) Inexistência de reciprocidade das obrigações ou de bilateralidade de créditos: ausência dos pressupostos do instituto da compensação (art. 368 do Código Civil). Impossibilidade de se compensarem os honorários fixados em embargos à execução com aqueles fixados na própria ação de execução.
+6. O fato de ter havido condenação da agravante em honorários advocatícios em sede de embargos à execução anteriormente julgados não constitui óbice para o arbitramento da verba honorária pela promoção do cumprimento de sentença.
+7. Como não houve impugnação ao cumprimento de sentença, também não há que se falar em bis in idem quanto à fixação da verba honorária.
+8. Provimento do agravo de instrumento para arbitrar honorários advocatícios em desfavor da Fazenda Pública, no percentual de 10% (dez por cento) sobre o proveito econômico obtido pela parte exequente, no cumprimento de sentença em tela, nos termos do art. 85, §3º, I, do CPC.
+Embargos de declaração rejeitados.
+Em sua petição de recurso especial, sustenta a parte recorrente ofensa aosartigos14, 827, 223 e 507, do CPC/2015, aduzindo argumentação quanto ao reconhecimento da ocorrência de preclusão no tocante à fixação de verba honorária na execução em apreço.
+Fundamenta em que (..) " os honorários advocatícios relativamente ao processo de execução devem serfixados no despacho inicial" (..) -fl. 740. Assim, se "a lei define o momento em que deverá haver a fixação dos honorários advocatícios; ultrapassada essa fase processual e não se insurgindo a parte interessada contra a omissão do magistrado, opera-se a preclusão da oportunidade para se fixar o pagamento de tal verba" (fl. 740).
+Nesse sentido (..) "se após sua intimação do despacho inicial sem o arbitramento dos honorários o patrono quedou-se silente, sem o manuseio de qualquer recurso, consolidou-se o fato da não incidência dos honorários sucumbenciais, configurando-se, portanto, o instituto da preclusão" (..) -fl. 740.
+Por fim,"Com efeito, na decisão tomada pelo STJ no recurso repetitivo RESP 1252412/RN, paradigma sobre a matéria, consta a ressalva de que, nos casos em que o exequente SE CONFORMA com o despacho citatório que se omite em fixar honorários a execução, opera-se a preclusão" (fl. 741).
+Com contrarrazões.
+Juízo positivo de admissibilidade àfl. 803.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Quanto à tese meritória de ser incábível a fixação da verba honorária no caso dos autos, ante a ocorrência de preclusão, a irresignação da parte não comporta acolhida.
+O Tribunal de origem afastou a preclusão ao fundamento de que a verba honorária poderia ser fixada a qualquer tempo durante a execução, assentado na seguinte compreensão (fl. 676):
+ ..
+A Corte Especial do STJ, no julgamento do REsp nº 1.252.412/RN, sob o rito dos recursos repetitivos, "firmou a orientação no sentido de que inexiste preclusão do arbitramento de verba honorária, no curso da execução, ainda que sobre ela tenha sido silente a inicial do processo executivo (REsp n. 1.252.412/RN, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 6/11/2013, DJe (AgInt no AREsp nº 1.443.129/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 3/2/2014)" 11/05/2020).
+ ..
+Do que se observa, o acórdão recorrido está no mesmo sentido da jurisprudência desta Corte Superior, segundo a qual não há preclusão para a fixação dos honorários na execução.
+Nesse sentido os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM EXECUÇÃO. PRECLUSÃO. INEXISTÊNCIA. JULGADO MONOCRÁTICO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DO STJ. AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Nos termos do entendimento jurisprudencial desta Corte Superior, não há preclusão para a fixação dos honorários advocatícios na execução em face da Fazenda Pública, ainda que já tenham sido realizados a expedição ou o pagamento de RPV, ante a ausência de previsão legal definindo um momento para o arbitramento dos honorários.
+2. Agravo interno do ente federativo a que se nega provimento.
+(AgInt no REsp n. 1.769.096/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, DJe de 15/12/2021.)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. INEXISTÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Consoante o entendimento desta Corte Superior, no curso da execução, não há preclusão no pedido de fixação de verba honorária, ainda que referida verba não tenha sido pleiteada no início do processo executivo, tendo em vista a inexistência de dispositivo legal que determine o momento processual para aquele pleito.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.730.462/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/3/2021.)
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. Entende este Superior Tribunal de Justiça que não há preclusão no pedido de fixação de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, tendo em vista a inexistência de dispositivo legal que determine o momento processual para aquele pleito. Precedentes.
+2. Recurso especial não provido.
+(REsp 1.866.441/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 08/09/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. RPV. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. A teor da jurisprudência desta Corte não há falar em preclusão no pedido de arbitramento de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, e apesar de já ter havido o pagamento da RPV, tendo em vista a inexistência de dispositivo legal que determine o momento processual para esse pleito. Precedentes: AgRg no REsp 1.397.117/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/9/2015; AgRg no REsp 1.397.478/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/6/2015; AgRg no REsp 1.355.571/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/6/2013.
+2. Agravo interno não provido.
+(AgInt no REsp 1.725.649/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 14/11/2018)
+Ante o exposto, nego provimento ao recurso especial.Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA.VIOLAÇÃO AOS ARTS. 14, 827, 223 e 507, do CPC/2015. HONORÁRIOS ADVOCATÍCIOS. ALEGADA PRECLUSÃO. INOCORRÊNCIA. PRECEDENTES. RECURSO NÃO PROVIDO.
