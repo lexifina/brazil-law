@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Laércio de Souza Pereira- preso preventivamente, desde 25/11/2021, porquanto, supostamente, seria mandante do homicídio do próprio irmão, pois se sentiu menosprezado e discriminado em ocasiões pretéritas  ..  (fl. 59) -,apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESPÍRITO SANTO (Habeas Corpusn. 5006016-17.2022.8.08.0000).
+Afirma-se, na impetração, que inexistem quaisquer das hipóteses previstas no art. 312 do Código de Processo Penal a autorizar o pedido de liberdade do paciente, inclusive em razão do excesso de prazo para a formação da culpa.
+Requer-se, em liminar e no mérito, a concessão de liberdade do paciente (fls. 3/10).
+É o relatório.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus commissi delicti e o periculum in libertatis(art. 312 do CPP).
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau -no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva do paciente em decorrência da gravidade concreta do delito (paciente supostamente foi o mandante do homicídio do próprio irmão, fls. 58/65), e afastou o excesso de prazo em decorrência da complexidade do feito - existência de 3 réus e de inúmeros pedidos de revogação de prisão preventiva (fl. 63) -, nos seguintes termos(fls. 63/65):
+ ..
+Em relação à alegação de excesso de prazo, cumpre esclarecer que cada processo possui suas peculiaridades, demandando lapsos temporais diferentes para conclusão, sendo razoável admitir-se, em alguns casos, um relativo atraso, desde que justificável. Nesse sentido, o Superior Tribunal de Justiça entende que somente configura constrangimento ilegal a ensejar o relaxamento da prisão cautelar, a duração irrazoável do processo que decorra de desídia do aparato estatal (AgRg no RHC 140.720/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ,SEXTA TURMA, julgado em 08/06/2021, DJe 15/06/2021).
+Logo, para a configuração do excesso de prazo é essencial que seja demonstrada a desídia da autoridade judicial na condução do feito, o que não restou evidenciado no presente caso. Isso porque a defesa não demonstrou a desídia estatal, e além disso, analisando sítio eletrônico deste Egrégio Tribunal de Justiça, observa-se que o magistrado a quo está conferindo andamento adequado à marcha processual.
+De acordo com as informações provenientes da autoridade coatora, é possível perceber que o processo de origem tramita regularmente, considerando a existência de três réus e de inúmeros pedidos de revogação de prisão preventiva.
+Desse modo, como dito, não vejo decurso de tempo considerável, apto à concessão de liberdade em razão de ilegalidade.
+ ..
+O paciente, em tese, foi o mandante do homicídio do próprio irmão, pois se sentiu menosprezado e discriminado em ocasiões pretéritas. Ao que se extrai dos autos, no dia dos fatos, os acusados teriam se encontrado em um bar próximo ao Parque Moscoso, na cidade de Vitória e lá combinaram a dinâmica do homicídio. O executor chamou a vítima em sua casa e, quando esta atendeu, efetuou vários disparos de arma de fogo contra ela, tendo o paciente, na ocasião, dado a cobertura para posteriormente conceder fuga ao executor.
+As circunstâncias do crime demonstram a gravidade concreta da conduta e, por consectário lógico, a periculosidade acentuada do paciente, elemento que evidencia, como dito, a necessidade da custódia cautelar para fins de garantia da ordem pública.
+ ..
+Por conseguinte, acustódia está corretamente motivada no modus operandi e na gravidade concreta do crime (AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022).
+Inclusive, oSupremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017)- (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Também se justifica a prisão preventiva para a garantia da ordem pública, em face do risco concreto de reiteração delituosa, quando o imputado ostenta condenaçãopretérita, isto é,responde a outras ações penais, uma delas inclusive já possuindo decisão condenatória transitada em julgado(AgRg no RHC n. 152.073/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO.ART. 121, § 2º, IE IV, C/C 29 E 61, TODOS DO CÓDIGO PENAL.PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. PRESERVAÇÃO DA ORDEM PÚBLICA.CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
