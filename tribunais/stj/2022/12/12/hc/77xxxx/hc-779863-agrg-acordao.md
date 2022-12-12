@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Jorge Mussi e Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE PENNA RODRIGUES contra decisão monocrática, da minha lavra, que indeferiu liminarmente o mandamus.
+O agravante aduz, em síntese, que "a impetração difere e é inovadora frente ao tema apresentado no Agravo em Recurso Especial antes julgado, não se tratando de discutir a hipótese de conexão, mas sendo apontada a ilegalidade do acórdão condenatório (da 1ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro), com violação à garantia fundamental ao juiz natural".
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MERA REITERAÇÃO. TEMAS JÁ ANALISADOS NO ARESP 1.861.328/RJ. ALEGAÇÃO DE PERSPECTIVA DISTINTA. IRRELEVÂNCIA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A matéria trazida na impetração já foi previamente submetida ao conhecimento desta Corte Superior, no julgamento do Agravo em Recurso Especial n. 1.861.328/RJ. Nesse contexto, não compete ao Superior Tribunal de Justiça analisar novamente, ainda que sob perspectiva supostamente distinta, tema já examinado e rechaçado, de forma devidamente fundamentada e em observância à jurisprudência não apenas desta Corte Superior, mas também do Supremo Tribunal Federal.
+- "O processo é um encadeamento de atos para frente, não sendo possível que a parte ingresse com pedidos perante instâncias já exauridas, ao argumento de que a matéria deve ser analisada sob novo prisma" (AgRg no HC 627.829/DF, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/12/2020, DJe de 7/12/2020).
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a matéria trazida na impetração já foi previamente submetida ao conhecimento do Superior Tribunal de Justiça. De fato, no julgamento do Agravo em Recurso Especial n. 1.861.328/RJ, a defesa alegou, em um primeiro momento, "ofensa ao art. 76 do Código de Processo Penal, em razão da não observância às regras de conexão, por considerar que se trata de processo conexo à Operação Lava-Jato, sendo, portanto, da competência da Justiça Federal".
+Ficou registrado, na oportunidade, que "o Tribunal de origem, ao analisar a alegação defensiva, consignou que "não há razão para se deslocar a competência para a Justiça Federal, pois não se verifica, no caso concreto, conexão com os outros crimes praticados contra a Petrobras, oriundos da denominada "Operação Lava Jato". O crime de que trata esse processo não é objeto de investigação primária pela Justiça Federal". Assentou, ainda, que (e-STJ fl. 2.472)": (..).
+Da leitura dos excertos do acórdão recorrido, constatou-se que "as instâncias ordinárias consignaram, com base nos elementos fáticos e probatórios dos autos, que a presente hipótese não revelava conexão com os processos da Lava-Jato que tramitam na Justiça Federal, motivo pelo qual seu trâmite foi mantido na Justiça Estadual".
+Nesse contexto, afirmou-se que, "desconstituir as conclusões das instâncias ordinárias, a respeito da ausência de conexão da hipótese dos autos com os processos da Lava-Jato, demandaria indevido revolvimento do conjunto fático-probatório dos autos, o que não se admite na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça".
+Relevante anotar, novamente, que também não é cabível em habeas corpus o revolvimento de fatos e provas, motivo pelo qual a utilização do presente remédio constitucional em nada altera a conclusão trazida no Agravo em Recurso Especial n. 1.861.328/RJ. Dessarte, não é dado a esta Corte Superior se imiscuir nas conclusões alcançadas pelas instâncias ordinárias, com base no conjunto probatório trazido aos autos.
+Ademais, ficou igualmente registrado no julgamento do agravo regimental que "o verbete n. 706/STF consigna que "é relativa a nulidade decorrente da inobservância da competência penal por prevenção" e que, conforme dispõe o enunciado n. 235/STJ, "a conexão não determina a reunião dos processos, se um deles já foi julgado". Nessa linha de intelecção, já tendo sido confirmada a condenação proferida nos presentes autos, não há mais se falar em eventual reunião dos processos".
+Nesse contexto, reitero que não compete ao Superior Tribunal de Justiça analisar novamente, ainda que sob perspectiva supostamente distinta, tema já examinado e rechaçado, de forma devidamente fundamentada e em observância à jurisprudência não apenas desta Corte Superior, mas também do Supremo Tribunal Federal.
+Como é de conhecimento, "o processo é um encadeamento de atos para frente, não sendo possível que a parte ingresse com pedidos perante instâncias já exauridas, ao argumento de que a matéria deve ser analisada sob novo prisma" (AgRg no HC 627.829/DF, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/12/2020, DJe de 7/12/2020).
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
