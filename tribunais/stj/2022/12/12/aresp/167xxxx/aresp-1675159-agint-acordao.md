@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto porCARLOS ROBERTO FARIAcontra decisão de minha relatoria, em que conheci do agravo para não conhecer do recurso especial por inadmissibilidade de apelo especial para análise de ofensa a normas interna corporis e por ausência de comando normativo apto a fundamentar a pretensão recursal (e-STJ fls. 139/143).
+Em suas razões, a parte agravante sustenta que somente citou o art. 5º da Constituição Federal e a Portaria n. 9.095/2014 e a Resolução n. 458/2017 do CJF a título de demonstração da extensão da matéria de direito em discussão, e não como fundamento para o conhecimento do recurso especial.
+Aduz, ainda, que "a matéria de direito é a possibilidade de fracionamento ou divisão dos honorários contratuais entre dois ou mais advogados, na requisição de precatórios ou RPVs, diante da ausência de vedação legal" (e-STJ fl. 151).
+Assim, argumenta que a Lei n. 8.906/1994 prevê que os honorários pertencem ao advogado e devem ser pagos a ele, sem proibir que haja a divisão do valor entre dois ou mais procuradores, o que leva à compreensão de que o acórdão recorrido teria criado uma vedação que a lei nunca previu, violando, desse modo, a Lei n. 8.906/1994.
+Intimada, a parte agravada não ofertou impugnação (e-STJ fl. 164).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FRACIONAMENTO ENTRE MAIS DE UM PATRONO. DISPOSITIVOS VIOLADOS. COMANDO NORMATIVO APTO A FUNDAMENTAR A PRETENSÃO. AUSÊNCIA.
+1. O Superior Tribunal de Justiça possui o entendimento de que a falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF, pois não é possível conhecer de apelo nobre que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+2. Caso em quea pretensão recursal - no sentido de que sejam fracionados os valores a título de honorários entre dois ou mais procuradores - não encontra amparo na legislação mencionada, que se limita a assegurar o direito do advogado aos honorários convencionados mediante (i) dedução da quantia por ocasião do levantamento ou da expedição de ofício requisitório e (ii) execução autônoma da decisão judicial ou do contrato escrito que arbitrar a verba honorária.
+3. Agravo interno desprovido.
+VOTO
+Não merece reparos a decisão agravada.
+No caso, ainda que a parte agravante sustente que a indicação dos dispositivos da Constituição Federal e as portarias tenham sido indicadas apenas como reforço de argumentação, não há como avançar no conhecimento do recurso especial diante da Súmula 284 do STF.
+É que,conforme já demonstrado no provimento ora atacado, a controvérsia cinge-se àpretensão de fracionamento da verba honorária do causídico para o recebimentopor mais de um patrono, em ofícios requisitórios individualizados. Em suas razões, o recorrente alega a violação dos seguintes dispositivos legais:
+Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência. .. § 4º Se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.
+Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor.
+Art. 24. A decisão judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, concordata, concurso de credores, insolvência civil e liquidação extrajudicial.
+§ 1º A execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier.
+Com efeito, a pretensão recursal - no sentido de que sejam fracionados os valores a título de honorários entre dois ou mais procuradores - não encontra amparo na legislação mencionada, que se limita a assegurar o direito do advogado aos honorários convencionados mediante (i) dedução da quantia por ocasião do levantamento ou da expedição de ofício requisitório e (ii) execução autônoma da decisão judicial ou do contrato escrito que arbitrar a verba honorária.
+Ademais, os artigos supra em nada foram violados pelo acórdão recorrido, queconsignou que a procuração foi outorgada pela parte autora à sociedade de advogados e que a divisão da verba honorária entre os patronos é questão interna corporis, in verbis (e-STJ fl. 22):
+Com efeito, extrai-se da procuração de fls. 57 dos autos principais e do substabelecimento de fls. 09 do presente instrumento que o autor outorgou poderes para representá-lo a uma sociedade de advogados.
+A pretensão de fracionamento carece de amparo legal, na medida em que a divisão dos honorários advocatícios contratuais é questão a ser decidida entre os procuradores, certamente de acordo com os critérios entre eles estabelecidos. A questão relativa à Receita Federal é totalmente estranha à lide, cabendo ao interessado observar as regrais tributárias pertinentes, em consonância com o modelo fiscal seguido pelo escritório.
+Por fim, o pedido de requisição dos valores incontroversos ainda não foi apreciado pelo juízo de origem, não podendo esta Corte pronunciar-se sobre a matéria, sob pena de supressão de um grau de jurisdição. Ante o exposto, pelo meu voto, nego provimento ao recurso.
+Assim, a falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017) (Grifos acrescidos).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017)(Grifos acrescidos).
+Assim, a manutenção do julgado é medido que se impõe.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
