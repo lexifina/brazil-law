@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  KAJA  MÓVEIS  LTDA.  e  OUTRA  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  devido  (i)  à  ausência  de  violação  dos  arts.  489  e  1.022  do  Código  de  Processo  Civil  de  2015  e  (ii)  à  incidência  da  Súmula  nº  530/STJ  no  tocante  à  limitação  dos  juros  remuneratórios  à  taxa  média  de  mercado.
+Nas  presentes  razões,  os  agravantes  repisam  a  insurgência  veiculada  no  recurso  especial  quanto  à  alegada  violação  dos  arts.  489  e  1.022  do  CPC/2015,  aduzindo  que
+"(..)  um  dos  principais  pedidos  suscitados  no  apelo  ao  e.  TJRS  foi  de  nulidade  da  r.  sentença,  em  razão  de  ter  ela  se  baseado  em  prova  inexistente  no  processo.  O  juiz  de  primeiro  grau  afirmou  que  a  taxa  média  de  juros  remuneratórios  fixados  pelo  Banco  Central  era  de  209,76%  a.a,  afastando  a  pretensão  revisional  dos  ora  agravantes,  pois  essa  taxa  de  juros  remuneratórios  estariam  abaixo  do  previsto  no  título  executivo  (176,65%  a.a.)
+Acontece  que  NÃO  EXISTE  nos  autos  a  PROVA  citada  pelo  juiz  de  primeiro  grau.  A  prova  da  taxa  juros  de  209,76%  não  foi  acostada  aos  autos.  Logo,  a  r.  sentença  está  baseada  em  prova  inexistente.
+O  e.  TJRS  ao  apreciar  o  pedido  de  nulidade  da  r.  sentença,  que  o  fez  somente  em  sede  de  embargos  de  declaração,  não  enfrentou  a  alegação  de  que  a  r.  sentença  se  baseou  em  prova  inexistente.  E  fez  pior,  pois  tentou  justificar  o  injustificável,  apontando  site  do  BACEN  e  afirmando  que  a  taxa  média  de  juros  remuneratórios  seria  de  156,93%  a.a.  e  8,85%  a.m.,  taxa  esse  distinta  daquela  informada  na  r.  sentença  e  distinta  daquelas  informadas  pelas  partes.
+Ora,  esse  argumento  não  é  motivo  bastante  a  afastar  a  alegação  de  que  a  r.  sentença  se  baseou  em  prova  inexistente.
+E  sendo  assim,  o  v.  acórdão  recorrido  é  nulo,  por  negativa  de  fundamentação  e  prestação  jurisdicional  conforme  os  ditames  da  Constituição  Federal"  (fls.  457-458,  e-STJ).
+Refutam  o  óbice  da  Súmula  nº  530/STJ,  alegando  que  sua  aplicação  se  dá  somente  nos  casos  em  que  não  existe  contrato  fixando  a  taxa  de  juros  remuneratórios,  o  que  é  o  caso  dos  autos.
+Além  disso,  afirmam  a  taxa  de  juros  remuneratórios  mostra-se  abusiva  e  superior  à  média  de  juros  fixadas  pelo  Banco  Central,  motivo  pelo  qual  se  mostra  cabível  o  pedido  de  revisão  do  contrato.
+Postulam,  ao  final,  a  reforma  da  decisão  atacada  para  decretar  a  nulidade  do  acórdão  estadual  por  deficiência  de  fundamentação,  porquanto  baseado  em  prova  inexistente,  violando  o  dever  de  imparcialidade  e  do  devido  processo  legal  e,  por  consequência,  determinar  o  retorno  dos  autos  à  origem  para  que  o  tribunal  local  se  manifeste  a  respeito  da  nulidade  da  sentença.
+Devidamente  intimada,  a  parte  contrária  deixou  transcorrer  o  prazo  para  impugnar  o  recurso  (certidão  de  fl.  469,  e-STJ).
+É  o  relatório.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+No tocante  às  omissões  suscitadas e à  deficiência  de  fundamentação,  o  tribunal  estadual  ressaltou  que,
+"(..)  Embora  o  acórdão  não  tenha  analisado  o  pedido  de  nulidade  da  sentença  (porque  não  explicitada  nela  de  onde  ser  originaram  os  juros  remuneratórios  de  209,76%  referidos  na  decisão),  apreciou  o  pedido  de  revisão  do  contrato,  isto  é,  da  alegada  abusividade  dos  juros  remuneratórios.
+Eis  o  julgado
+Pelo  que  se  depreende  dos  autos,  a  parte  apelante  ingressou  com  embargos  à  execução  na  qual  alegou  nulidade  do  título  por  ausência  de  liquidez,  arguiu  a  prescrição  e  pediu  a  revisão  do  contrato.
+(..)
+Como  já  referido,  a  cédula  de  crédito  bancário  em  execução  prevê  na  cláusula  8  a  renovação  automática  do  crédito  (Evento  8,  OUT2).  Na  impugnação,  Evento  41,  OUT2,  a  apelada  junta  aos  autos  "pesquisa  de  alterações"  a  fim  de  comprovar  as  sucessivas  renovações  automáticas,  tendo  sido  a  última,  em  24.05.2016.  A  execução  foi  ajuizada  em  13.09.2018.  Assim,  não  há  falar  em  prescrição,  porquanto  demonstrada  a  renovação  automática  do  contrato,  expressamente  pactuada  entre  as  partes,  não  tendo  transcorrido  o  prazo  de  três  anos  a  contar  da  última  renovação  até  a  data  do  ajuizamento  da  ação.
+Por  fim,  no  que  diz  respeito  aos  juros,  o  STJ  já  pacificou  entendimento  em  julgamento  sujeito  ao  rito  do  art.  543-C,  do  CPC,  de  que  a  taxa  de  juros  remuneratórios  não  está  sujeita  a  limitação  e  que  a  revisão  da  taxa  contratada  só  se  dá  em  situações  excepcionais.
+(..)
+No  caso  dos  autos,  as  partes  firmaram,  em  02  de  julho  de  2012  Cédula  de  Crédito  Bancário  com  previsão  de  juros  remuneratórios  de  8,85%  ao  mês  e  176,65%  ao  ano.
+A  taxa  média  de  juros  divulgada  pelo  BACEN  era  de  8,18%  ao  mês  e  156,93%  ao  ano  (taxa  média  mensal  de  operações  de  crédito  com  recursos  livres,  pessoa  jurídica).
+Assim,  a  taxa  pacutada,  em  patamar  pouco  superior  à  taxa  do  BACEN  não  é  abusiva,  não  tendo  sido  demonstrada  a  situação  excepcional.
+Deste  modo,  os  argumentos  trazidos,  em  sede  recursal,  não  são  suficientes  para  a  modificação  das  conclusões  a  que  chegou  o  julgador  a  quo.
+(..)
+Registro  que  as  tabelas  utilizadas  pelo  Julgado  constam  no  link:  https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.domethod=prepararTelaLocalizarSeries"  (fls.  362-366,  e-STJ  -  grifou-se).
+Portanto,  o  argumento  de  que  o  acórdão  atacado  teria  incorrido  em  negativa  de  prestação  jurisdicional  é  improcedente.
+De  fato,  o  tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  do  recorrente.
+A propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  ART.  489  DO  CPC/2015.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  ART.  1.021,  §  3º,  DO  CPC/2015.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  REITERAÇÃO.  POSSIBILIDADE.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  O  dispositivo  legal  indicado  como  malferido  não  tem  comando  normativo  suficiente  para  infirmar  os  fundamentos  do  acórdão  recorrido,  tampouco  para  sustentar  a  tese  defendida  pelo  recorrente,  o  que  configura  a  deficiência  de  fundamentação  do  recurso  especial  a  atrair  a  incidência  da  Súmula  nº  284/STF.
+4.  O  julgador  pode  reiterar  os  fundamentos  da  decisão  recorrida  quando  não  deduzidos  novos  argumentos  pela  parte  recorrente,  pelo  que  o  art.  1.021,  §  3º,  do  CPC/2015  não  impõe  ao  julgado  a  obrigação  de  reformular  a  decisão  agravada.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.395.429/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  18/11/2019,  DJe  21/11/2019  -  grifou-se).
+Registra-se  que  mesmo  à  luz  do  art.  489  do  CPC/2015,  o  órgão  julgador  não  estaria  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  acerca d aqueles  capazes  de,  em  tese,  de  algum  modo,  infirmar  a  conclusão  adotada  pelo  órgão  julgador  (inciso  IV).
+A  motivação  contrária  ao  interesse  da  parte,  ou  mesmo  omissa  em  relação  aos  pontos  considerados  irrelevantes  pelo  julgador,  não  autoriza  o  acolhimento  dos  embargos  declaratórios.
+Ressalta-se  que  a  revisão  da  taxa  de  juros  remuneratórios  dependerá  de  comprovação  da  onerosidade  excessiva  -  capaz  de  colocar  o  consumidor  em  desvantagem  exagerada  -  em  cada  caso  concreto,  tendo  como  parâmetro  a  taxa  média  de  mercado  para  as  operações  equivalentes.
+Assim,  deve  haver  a  ocorrência  de  significativa  discrepância  entre  a  taxa  média  de  mercado  e  a  praticada  pela  instituição  financeira  para  o  reconhecimento  da  abusividade  dos  juros.
+Na  hipótese,  o  tribunal  de  origem  deixou  assentado  que  a  taxa  pactuada  em  percentual  pouco  superior  à  média  de  mercado  divulgada  pelo  Banco  Central  não  se  mostrou  abusiva,  razão  pela  qual  manteve  a  taxa  de  juros  pactuada.
+É  o  que  se  extrai  da  seguinte  passagem:
+"(..)  No  caso  dos  autos,  as  partes  firmaram,  em  02  de  julho  de  2012  Cédula  de  Crédito  Bancário  com  previsão  de  juros  remuneratórios  de  8,85%  ao  mês  e  176,65%  ao  ano.
+A  taxa  média  de  juros  divulgada  pelo  BACEN  era  de  8,18%  ao  mês  e  156,93%  ao  ano  (taxa  média  mensal  de  operações  de  crédito  com  recursos  livres,  pessoa  jurídica).
+Assim,  a  taxa  pactuada,  em  patamar  pouco  superior  à  taxa  do  BACEN  não  é  abusiva,  não  tendo  sido  demonstrada  a  situação  excepcional"  (fls.  333-334,  e-STJ).
+Nesse  contexto,  rever  a  conclusão  firmada  pelas  instâncias  ordinárias  acerca  da  natureza  abusiva  dos  juros  contratados  demandaria  a  análise  de  circunstâncias  fático-probatórias  dos  autos  e  de  cláusulas  contratuais,  procedimentos  inviáveis  em  recurso  especial  em virtude dos óbices  das  Súmulas  nºs  5  e  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  BANCÁRIO.  JUROS  REMUNERATÓRIOS.  ABUSIVIDADE.  TAXA  MÉDIA  DO  MERCADO.  REFERÊNCIA.  CAPITALIZAÇÃO  DOS  JUROS.  REVISÃO.  SÚMULAS  5  E  7/STJ.
+1.  A  jurisprudência  desta  Corte  é  assente  no  sentido  de  que  os  juros  remuneratórios  cobrados  pelas  instituições  financeiras  não  sofrem  a  limitação  imposta  pelo  Decreto  nº  22.626/33  (Lei  de  Usura),  a  teor  do  disposto  na  Súmula  596/STF,  de  forma  que  a  abusividade  da  pactuação  dos  juros  remuneratórios  deve  ser  cabalmente  demonstrada  em  cada  caso,  com  a  comprovação  do  desequilíbrio  contratual  ou  de  lucros  excessivos.
+2.  Essa  abusividade  não  decorre  do  simples  fato  da  taxa  cobrada  ser  um  pouco  acima  da  média  de  mercado.  Isso  porque  a  taxa  média  de  mercado  não  é  um  limitador,  mas  mero  referencial.  Precedentes.
+3.  É  inviável  rever  a  conclusão  do  Tribunal  estadual  de  que  os  juros  remuneratórios,  no  caso,  não  destoam  da  taxa  média  de  mercado,  pois  demandaria  reexame  de  provas,  o  que  é  vedado  em  recurso  especial  (Súmula  7/STJ).
+(..)
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.456.492/MS,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  25/6/2019,  DJe  27/6/2019).
+"AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  REVISÃO  DE  CLÁUSULAS  CONTRATUAIS.  JUROS  REMUNERATÓRIOS.  ABUSIVIDADE.  AUSÊNCIA.  REEXAME.  INCIDÊNCIA  DAS  SÚMULAS  N.  5  E  7/STJ.  NÃO  PROVIMENTO.
+1.  A  jurisprudência  desta  Corte  decidiu  que  o  fato  de  as  taxas  de  juros  excederem  o  limite  de  12%  ao  ano  não  configura  abusividade,  devendo,  para  seu  reconhecimento,  ser  comprovada  sua  discrepância  em  relação  à  taxa  média  de  mercado  divulgada  pelo  BACEN.  O  entendimento  foi  consolidado  com  a  edição  da  Súmula  382  do  STJ.
+2.  Não  comprovada  a  ilegalidade  ou  abusividade  das  taxas  de  juros  contratadas,  o  reexame  do  tema  encontra  obstáculo  nas  Súmulas  n.  5  e  7/STJ.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.355.709/MG,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  23/4/2019,  DJe  26/4/2019  -  grifou-se).
+Nesse  contexto,  os  argumentos  expendidos  pela  agravante  são  insuficientes  para  alterar  os  fundamentos  da  decisão  atacada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  BANCÁRIO.  CÉDULA  DE  CRÉDITO.  TÍTULO  EXECUTIVO  EXTRAJUDICIAL.  ARTS.  489  E  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  OMISSÕES.  AUSÊNCIA.  FUNDAMENTAÇÃO  SUFICIENTE.  JUROS  REMUNERATÓRIOS.  TAXA  MÉDIA  DE  MERCADO.  BANCO  CENTRAL.  CONTRATO.  ABUSIVIDADE.  AUSÊNCIA.  REVISÃO.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  espécie,  não  houve  violação  dos  artigo  s  489  e  1.022  do  CPC/2015,  visto  que  agiu  corretamente  o  tribunal  de  origem  ao  rejeitar  os  embargos  de  declaração  por  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  atacado,  ficando  patente  o  intuito  infringente  da  irresignação.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  consolidou-se  no  sentido  de  que  os  juros  remuneratórios  devem  ser  limitados  à  taxa  média  de  mercado  apenas  quando  comprovada,  no  caso  concreto,  a  significativa  discrepância  entre  a  taxa  pactuada  e  a  taxa  de  mercado  para  operações  similares.
+4.  Na  hipótese,  rever  a  conclusão  firmada  pelas  instâncias  ordinárias  quanto  à  ausência  de  abusividade  da  taxa  de  juros  remuneratórios  contratados  demandaria  a  análise  de  circunstâncias  fático-probatórias  dos  autos  e  de  cláusulas  contratuais,  procedimentos  inviáveis  em  recurso  especial  devido  à  incidência  das  Súmulas  nºs  5  e  7/STJ.
+5.  Agravo  interno  não  provido.
