@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Daniel Leonardo da Silva Nunes, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco, ante o julgamento proferido noIncidente de Resolução de Demandas Repetitivas n. 8770-65.2021.8.17.9000- fls. 14/144.
+A defesa narra que opaciente formulou pedido de aplicação da resolução da Corte Interamericana de Direitos Humanos (CIDH) na execução penal nº 00002015-06.2012.8.17.4011 pugnando pela contagem em dobro do tempo de permanência do preso no Complexo Penitenciário do Curado (fl. 3).
+Aduz que o Juízo primevo indeferiu o pleito defensivo negando vigência à resolução da CIDH. (doc.01- indeferimento juízo da vara de execução) Instaurou-se o Incidente de Resolução de Demandas Repetitivas nº 1002801-48.2020.8.17.4001 no E. TJPE, o qual foi julgado parcialmente procedente (fl. 3).
+Argumenta que, sendo deferido a aplicação da resolução da corte interamericana de direitos humanos (cômputo em dobro do tempo de pena cumprida no Complexo do Curado) na execução penal nº 00002015-06.2012.8.17.4011, o paciente faria jus a progressão de regime (para o aberto), vez que segundo consta no atestado de penaextraído do processo, o prazo de alcance para progressão de regime para o aberto ocorreria em 18/08/2024 (fls. 5/6).
+Ao final, requer-se (fl. 6):
+Seja DEFERIDA medida cautelar para determinar ao juízo da Vara de Execução Penal do Estado de Pernambuco que desconsidere a restrição a crimes equiparados a hediondo posta na Tese 3 do IRDR nº 8770- 65.2021.8.17.9000 e promova o cômputo em dobro do período que o paciente permaneceu preso no Complexo do Curado.
+No mérito, CONCEDER A ORDEM para cassar o v. acórdão do TJPE (Tese 3) que exclui da compensação penal, contra expressa determinação da Resolução de 28/11/2018, os acusados de crimes contra a vida e a integridade física, ou de natureza sexual, ou por ele condenados, e os acusados/ condenados por crime hediondo e equiparados.
+É o relatório.
+O writ não comporta conhecimento.
+De início, observo ser incabível a impugnação, como pretende a defesa, de decisão proferida em incidente de resolução de demandas repetitivas (IRDR), pela via do writ. Isso porqueo acórdão exarado no julgamento do IRDR, por si só, não ostenta aptidão jurídica suficiente para limitar o direito de ir e vir do paciente, sendo certo que acompetênciadesta Corte para processarhabeas corpus,nesse caso, depende da efetivaaplicação das tesesestabelecidasnaquele julgado no caso concreto.
+Vale ressaltar que a decisão proferida pelo Juízo da execução,que aplicou o entendimento firmado no IRDR, não foi examinada peloTribunal de origem, sendo vedada a impugnação diretamente nesta Corte, tendo em vista a ausência de competência (art. 105, I, c, da CF) e a impossibilidade de supressão de instância.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.RESOLUÇÃO EDITADA EM 28/11/2018 PELA CORTE INTERAMERICANA DE DIREITOS HUMANOS. JULGAMENTO DE INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS PELO TRIBUNAL DE JUSTIÇA DE PERNAMBUCO. IMPUGNAÇÃO DO ACÓRDÃO PELA VIA DO WRIT. IMPOSSIBILIDADE.JULGADO QUE, POR SI SÓ, NÃO OSTENTA APTIDÃO JURÍDICA PARA LIMITAR O DIREITO DE IR E VIR DO PACIENTE. COMPETÊNCIA DESTA CORTE QUE DEMANDA A APLICAÇÃO DAS TESES NO CASO CONCRETO. DECISÃOPROFERIDA PELO JUIZ DE PRIMEIRA INSTÂNCIA. MANIFESTA INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 105, I, C, DA CF. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Habeas corpus não conhecido.
