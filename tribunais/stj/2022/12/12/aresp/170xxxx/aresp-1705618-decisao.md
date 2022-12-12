@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra ainadmissão de recurso especial interposto por ACREDIESEL COMERCIAL DE VEÍCULOS LTDA. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sulassim ementado:
+"RECURSO DE APELAÇÃO - AÇÃO DE RESCISÃO CONTRATUAL C.C REPARAÇÃO DE DANOS - DECADÊNCIA - AFASTADA - FLUÊNCIA DO PRAZO A PARTIR DO TÉRMINO DA GARANTIA CONTRATUAL - AQUISIÇÃO DE VEÍCULO NOVO COM DEFEITO - VÍCIO QUE NÃO FOI SANADO NO PRAZO DE 30 (TRINTA) DIAS - CDC, ART. 18 - RESTITUIÇÃO DO VALOR DE MERCADO DO VEÍCULO À ÉPOCA DA DEVOLUÇÃO DO CARRO - DANOS MATERIAIS E MORAIS - CONFIGURADOS - ASTREINTES - CABÍVEIS - RECURSO CONHECIDO E PROVIDO EM PARTE.
+Cabível a rescisão contratual e a restituição dos valores pagos de acordo com a tabela FIPE, à época da devolução do carro, acrescido de correção monetária, pelo IGPM/FGV desde o desembolso e juros de mora de 1% ao mês a partir da citação, bem como o devido retorno do veículo a concessionária ré, com o objetivo de evitar o enriquecimento ilícito, haja vista a utilização do veículo por quatro longos anos de uso contínuo e regular.
+É devida a reparação pelos danos materiais, efetivamente comprovados em decorrência das despesas havidas com o encaminhamento do veículo para reparos, fora das revisões previstas com a de manutenção, mormente levando em conta que os apelados residem em Costa Rica-MS e a concessionária apelante está localizada em Campo Grande-MS, assim como das despesas com locação de outro veículo durante todo o período em que este esteve em conserto, por vício inerente ao produto e o utilizado até o deslinde da demanda.
+Possível a condenação em danos morais, quando ficar demonstrado que o consumidor adquiriu veículo novo, que logo apresentou sérios defeitos de fabricação, sendo necessário o retorno para reparação por diversas vezes, o que consumiu período superior ao legalmente previsto, bem como se viram privados de usufruir do bem. Tais aborrecimentos ultrapassam aqueles experimentados no quotidiano das pessoas e geram o dever de indenizar.
+Recurso conhecido e provido em parte" (fl. 1.013e-STJ).
+Os embargos de declaração, opostos por duas vezes,foram rejeitados com imposição de multa (fls. 1.045/1.049e 1.068/1.079 e-STJ).
+Nas presentes razões, a recorrente aponta, além de divergência jurisprudencial, violação dos artigos 1.022, II, parágrafo único, II,1.026, § 2º, do Código de Processo Civil de 2015e 18 do Código de Defesa do Consumidor.
+Sustenta omissão no julgado.
+Argumenta que não há vícios no veículo e não há indenização a pagar.
+Requer o afastamento da multa imposta nos aclaratórios.
+Contrarrazões às fls. 1.134/1.140 e-STJ.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância da questão de direito federal infraconstitucional.
+A irresignação merece prosperar em parte.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, conforme se observa à fl. 1.070 e-STJ.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+No mais, a questão do vício do produto foi analisada nos seguintes termos:
+"(..)
+Assim, ao contrário do ponderado pelo apelante, a prova constante dos autos resulta sem sombra de dúvidas que o veículo, passou por várias tentativas de solução do problema, todas sem o êxito esperado, tendo, inclusive, o vazamento de óleo decorrido dos procedimentos realizados pela recorrente, em face da mão de obra por ela empregada, consistindo em vício de procedimento na manutenção.
+Destarte, agiu com o acerto o magistrado de piso ao rescindir o contrato, entretanto entendo devida a restituição dos valores pagos de acordo com a tabela FIPE, à época da devolução do carro, acrescido de correção monetária, pelo IGPM/FGV desde o desembolso e juros de mora de 1% ao mês a partir da citação, bem como o devido retorno do veículo a concessionária ré, com o objetivo de evitar o enriquecimento ilícito, haja vista que os apelados utilizaram o veículo adquirido desde19.09.2014, estando o bem com quatro longos anos de uso contínuo e regular" (fl. 1.019 e-STJ).
+Dessa forma, rever os argumentos trazidos pelo acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ, RESPONSÁVEL SOLIDÁRIA.
+1. A parte agravante não se insurgiu quanto ao capítulo atinente à ausência de negativa de prestação jurisdicional, a incidir a preclusão quanto ao ponto.
+2. Para afastar a hipossuficiência técnica e jurídica da parte autora a desautorizar a incidência do diploma consumerista à espécie, seria imprescindível promover o revolvimento das provas sobre as quais se pautou a Corte local, providência vedada pela Súmula 7/STJ.
+3. Quanto à legitimidade do fornecedor imediato do motor náutico para responder à demanda indenizatória, o Tribunal de origem julgou o caso em conformidade com o entendimento desta Corte Superior, assente no sentido de que é solidária a responsabilidade do fabricante e da concessionária do veículo por vício do produto, podendo o consumidor acionar qualquer um dos coobrigados. Incidência da Súmula 83 do STJ.
+4. No caso, embora o Tribunal de origem tenha atestado que o prazo extintivo adequado à demanda é, de fato, o decadencial do art. 26 do CDC - em conformidade, pois, com o entendimento do STJ -, concluiu não ter escoado o período de 90 (noventa) dias para o consumidor reclamar do vício no motor náutico, pois não haveria prova nos autos acerca da data na qual o consumidor teria tido acesso à resposta do fornecedor, negando-lhe a reparação e a substituição do produto viciado.
+4.1 Para reformar o acórdão recorrido, no que concerne à alegada existência de prova nos autos do dia do recebimento efetivo da contranotificação pelo consumidor, seria imprescindível promover o revolvimento do acervo fático-probatório dos autos, providência vedada a esta Corte Superior ante o óbice da Súmula 7/STJ.
+5. As teses atinentes à ausência de prova quanto à existência de vício do produto e dos danos materiais experimentados pela parte autora, em especial dos relacionados às despesas de manutenção da embarcação em área de marina, está obstada pela Súmula 7/STJ, pois, em sede de recurso especial, o STJ não está autorizado a reexaminar os documentos acostados pelas partes aos autos.
+6. Agravo interno desprovido"
+(AgInt no AREsp n. 180.386/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+Por fim, esta Corte entende que, opostos os embargos de declaração com o intuito de prequestionamento, não há motivo de atribuir-lhes caráter protelatório, em conformidade com a Súmula nº 98/STJ,devendo ser afastada amulta aplicada pelo Tribunal local.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. RESPONSABILIDADE PELOS ÔNUS SUCUMBENCIAIS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. MULTA DO § 2º DO ART. 1.026 DO CPC/2015 AFASTADA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Consoante o § 10 do art. 85 do CPC/2015, aquele que deu causa à instauração do processo deverá arcar com as custas de sucumbência na hipótese de perda superveniente do objeto, na forma do princípio da causalidade. Precedentes 2. Os embargos de declaração foram opostos com o intuito de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula 98/STJ, deve ser afastada a multa aplicada pelo Tribunal local.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar parcial provimento ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015"
+(AgInt no AREsp 2.072.384/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO. NÃO OCORRÊNCIA. MULTA DO ART. 1.026, § 3º, DO CPC/2015. RECOLHIMENTO PRÉVIO. DESNECESSIDADE. TESE JURÍDICA RELEVANTE. AUSÊNCIA DE PRONUNCIAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE. RETORNO DOS AUTOS. DECISÃO MANTIDA.
+1. É firme a jurisprudência do STJ no sentido de que a interposição de qualquer recurso somente se condiciona ao pagamento da multa prevista no art. 1.026, § 3º, do CPC/2015 no caso da segunda interposição de embargos de declaração reputados protelatórios.
+2. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+3. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.757.331/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Ante o exposto, conheço do agravo para dar parcialprovimento ao recurso especial a fim deafastar a multa imposta nos aclaratórios.
+Publique-se.
+Intimem-se.
