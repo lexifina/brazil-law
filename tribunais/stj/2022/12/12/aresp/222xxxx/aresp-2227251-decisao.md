@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIMED-RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. ANS. INFRAÇÃO. NEGATIVA DE COBERTURA. OPERADORA DE SAÚDE. ART. 12, II, "B", DA LEI N. 9.656/1998. ART. 77 DA RN 124/2006. PROCEDIMENTO DE COLONOSCOPIA. PRESUNÇÃO DE LEGITIMIDADE, LEGALIDADE E VERACIDADE DOS ATOS ADMINISTRATIVOS. NÃO ILIDIDA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO.
+Quanto à controvérsia, alega violação do art. 25 da Lei n. 9.656/1998, no que concerne à inexistência de conduta constitutiva de infração, eis que restou comprovada a garantia do procedimento, por meio de sua autorização e posterior realização, assim, não cabendo a punição de multa aplicada, trazendo os seguintes argumentos:
+Não havendo, portanto, que se falar em ausência de garantia de procedimento obrigatório, bem como em prática de conduta constitutiva de infração que justifique a manutenção da multa.
+O crédito exequendo teve origem em autuação promovida pela ANS, no bojo do Processo Administrativo, no qual foi aplicada multa à Cooperativa, ora Recorrente, em decorrência de suposta negativa de cobertura (fls. 356).
+Com efeito, o objeto do presente recurso é a infringência ao artigo 25 da Lei nº 9.656/98 (fls. 357)
+O ponto de controvérsia apontado pela Recorrente, na Inicial e no Apelo, diz respeito à impossibilidade da Unimed - Rio para suportar a autuação, na medida em que não praticou a conduta constitutiva de infração pela qual foi autuada (fls. 358).
+Conforme demonstrado na apelação, é válido apontar que, diferentemente do indicado no v. acórdão recorrido, a autuação contra a ora recorrente foi aplicada de forma irregular, uma vez que não houve a prática constitutiva de infração.
+Isso porque, conforme já falado, mas para fins de contextualização é relevante repisar, a autuação foi aplicada em decorrência de negativa de cobertura para procedimento solicitado por beneficiário.
+No entanto, ao longo da demanda restou comprovada a garantia do procedimento, através de sua autorização e posterior realização.
+Não havendo, portanto, que se falar em ausência de garantia de procedimento obrigatório, bem como em prática de conduta constitutiva de infração que justifique a manutenção da multa.
+Portanto, frente a ausência de conduta constitutiva de infração, praticada pela Unimed  Rio, ora recorrente, torna-se flagrante a violação do art. 25 da Lei 9.656 de 98, uma vez que conforme redação abaixo transcrita, estão sujeitos às penalidades os indivíduos que violarem os dispositivos da referida Lei (fls. 359-360).
+Nesse sentido, tendo em vista que não ter sido a recorrente a autora da conduta constitutiva de infração, é irregular a aplicação de multa pecuniária em face da Operadora no presente caso.
+Diante do exposto, o presente Recurso Especial merece acolhimento para reconhecer a contrariedade ao artigo 25 da Lei 9.656/98, a fim de que a decisão recorrida seja reformada, uma vez que não houve, objetivamente, prática de conduta constitutiva de infração por parte da Recorrente (fls. 360).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, não se pode concluir pela efetiva comprovação da autorização de cobertura integral do procedimento de colonoscopia pela operadora de saúde (fls. 345).
+Na espécie, não há comprovação, a qualquer tempo, de cobertura do exame solicitado ao beneficiário, motivo pelo qual inexiste Reparação Voluntária e Eficaz (RVE) a ser analisada (fls. 346).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
