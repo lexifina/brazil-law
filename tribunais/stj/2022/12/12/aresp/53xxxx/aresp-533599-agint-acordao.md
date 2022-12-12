@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRASLO PRODUTOS DE CARNE LTDA., em face da decisão de fls. 1508-1512, e-STJ, da lavra deste signatário, que deu parcial provimento ao agravo em recurso especial manejado pela ora agravante.
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 561-571, e-STJ):
+AGRAVO RETIDO - Alegação de prescrição por aplicação da Lei n. 9.611/98, art. 22 - Ação de cobrança em que a autora busca o recebimento de horas extras excedentes da prestação dos serviços, pelo tempo que excedeu a espera para o transporte de contêineres vazios do terminal da Brasmar - Inaplicabilidade do prazo prescricional previsto na Lei n. 9.611/98 - Decisão mantida - Agravo conhecido e improvido. AÇÃO DE COBRANÇA -Contrato de transporte de mercadorias - Horas extras excedentes das horas contratuais previstas para descarregamento (free time) - Legitimidade da requerida para responder pela ação em razão do contrato existente entre as partes e de ser a final beneficiária do transporte de carnes de sua propriedade - Horas extras - Provas- Documentos encartados aos autos suficientes para comprovar os pedidos e se apurar os valores devidos - Sentença reformada- Ação procedente - Apelo conhecido e provido. Dispositivo: Negam provimento ao agravo retido reiterado nas contrarrazões recursais e deram provimento ao recurso de apelação para julgar procedente a ação.
+Opostos embargos de declaração (fls. 574-586, e-STJ), esses foram rejeitados (fls. 588-596, e-STJ).
+Nas razões do recurso especial (fls. 599-634, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 17, IV, VI e VII e 18, 165 e 458, II, 535, II, do CPC/1973 e 22 da Lei 9.611/98, na medida em que o Tribunal local não se manifestou acerca das questões suscitadas em sede de embargos de declaração;
+(ii) 17, IV, VI e VII do CPC/1973, pois é descabida a fixação de multa em razão de embargos protelatórios;
+(iii) 18 do CPC/1973, já que não é adequado usar o valor atualizado da causa como parâmetro para a fixação da multa acima referida;
+(iv) 22 da Lei 9611/98, pois o prazo prescricional aplicável à espécie seria ânuo;
+Contrarrazões às fls. 674-682, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que deu ensejo a agravo.
+Às fls. 1936-1941, e-STJ, deu-se parcial provimento ao apelo, tão somente para afastar a multa aplicada com base no art. 17 do CPC/1973. Quanto às demais questões em debate, negou-se provimento ao apelo, com base na inexistência de negativa de prestação jurisdicional e incidência das Súmulas 5 e 7 do STJ.
+Irresignada, a sucumbente maneja o presente agravo interno (fls. 1944-1961, e-STJ), no qual sustenta, em suma, a existência de omissão quanto à análise do apelo sob o aspecto da alínea "c" do permissivo constitucional, bem como em relação à nulidade do acórdão recorrido por vício de fundamentação; inaplicabilidade das Súmulas 5 e 7 do STJ. Requer, ademais, esclarecimentos acerca do afastamento das sanções processuais.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à natureza do contrato de transporte, se unimodal ou multimodal, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, deve ser afastada a alegação de ofensa aos artigo 1.022 do CPC/15, "na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018).
+No mesmo sentido, vejam-se, a título de exemplo: EDcl no Ag 749.349/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1716263/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no AREsp 1241784/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+No caso em tela, conforme destacado na decisão agravada, o Tribunal local expressamente reconheceu que a pretensão ora tratada não é albergada pela Lei 9611/98. Pontuou-se, ademais, não haver evidências de que se trataria de transporte multimodal.
+Logo, não há se falar em negativa de prestação jurisdicional, mas em mero inconformismo da parte com o acolhimento de tese jurídica por parte do Tribunal local.
+2. De igual modo, deve ser mantida a aplicabilidade das Súmulas 5 e 7 do STJ em relação à alegada afronta ao art. 22 da Lei 9.611/98.
+Conforme asseverado na decisão agravada, restou consignado pelas instâncias ordinárias trata-se de ação destinada ao reconhecimento de responsabilidade contratual, a qual não é regida pelas disposições da Lei 9611/98. Veja-se (fls. 569, e-STJ):
+Como já dito, cuida-se de ação de cobrança em que a autora busca o recebimento de R$ 27.562,50 a título de horas extras excedentes da prestação dos serviços de transporte contratado isto é, pelo tempo que excedeu a espera para o transporte de contêineres vazios do terminal da Brasmar.
+Portanto, não é o caso de aplicação do dispositivo invocado que trata especialmente "das responsabilidades decorrentes do transporte multimodal" e, por esse motivo o prazo é contado da entrega, indicando claramente reportar-se à falha na prestação do serviço de transporte e não ao preço desse serviço ,que se rege pelo direito comum.
+Tal conclusão fica clara na leitura do artigo antecedente ao detalhar as causas de indenização: "perdas, danos ou avarias resultantes de inveracidade na declaração de carga ou de inadequação dos elementos que lhe compete fornecer para a emissão do Conhecimento
+Assentou-se, ademais, não haver prova de que se cuidaria de transporte multimodal, nos seguintes termos (fl. 569, e-STJ):
+Ao lado dessa assertiva, não há prova de que se trata de um único contrato, operado por um único transportador. Não há demonstração de que o transporte terrestre realizado pela autora apelante encontra-se subordinado ao operador do contrato de transporte marítimo
+Logo, diferentemente do que aduz a insurgente, o provimento do recurso demandaria, necessariamente, o revolvimento de matéria probatória, tendente a rever a premissa fática relacionada à natureza da modalidade de transporte contratada, se unimodal ou multimodal.
+Trata-se, contudo, de providência que encontra óbice nas Súmulas 5 e 7 do STJ.
+2.1. Destaque-se, a propósito, não prosperar a alegada inexistência de distinção entre contratos unimodais ou multimodais para fins de cômputo da prescrição, por meio da qual a ora recorrente busca afastar a segunda linha argumentativa contida no acórdão no presente ponto.
+Com efeito, como decidido por esta Corte, o prazo ânuo disposto na Lei 9611/98 abarca somente o transporte multimodal, e não o unimodal. Relevante, no ponto, a transcrição da tese firmada no Tema 1035:
+A pretensão de cobrança de valores relativos a despesas de sobre-estadias de contêineres (demurrage) previamente estabelecidos em contrato de transporte marítimo (unimodal) prescreve em 5 (cinco) anos, a teor do que dispõe o art. 206, § 5º, inciso I, do Código Civil de 2002
+Nesse contexto, inviável o acolhimento da pretensão recursal em relação à presente questão.
+3. Por fim, destaca-se que a decisão agravada é clara no sentido de reconhecer a inexistência de litigância de má-fé em decorrência da oposição, por parte da ora agravante, de embargos de declaração na origem. Nesse contexto, foram afastadas todas as sanções impostas com base em tal fato no acórdão de fls. 588-596, e-STJ, ou seja, tanto a multa de1% sobre o valor atualizado da causa, quanto a indenização arbitrada em 20% sobre a aludida base de cálculo.
+3.1. De igual modo, não subsiste omissão quanto à análise do apelo sob a ótica da alínea "c" do permissivo constitucional, na medida em que aincidência da Súmula 7 do STJ ao caso impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, citam-se os seguintes precedentes: AgInt no REsp 1747869/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019; AgInt no AREsp 661.630/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 02/04/2019, DJe 10/04/2019; AgInt no AREsp 1391262/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019; AgInt no AREsp 1153643/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/04/2019, DJe 26/04/2019.
+4. Do exposto, nego provimento ao agravo interno.
+É como voto.
