@@ -1,0 +1,57 @@
+DECISÃO
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. TEMA 1.234. DIREITO À SAÚDE. MEDICAMENTO REGISTRADO NA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA – ANVISA NÃO PADRONIZADO PELO SISTEMA ÚNICO DE SAÚDE – SUS. NECESSIDADE DE INCLUSÃO DA UNIÃO NO POLO PASSIVO. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. RECONSIDERAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+
+Relatório
+
+    1. Em 19.8.2022, o recurso extraordinário interposto pelo Estado do Paraná foi provido “para, reformando o acórdão recorrido, determinar a remessa do feito à Justiça Federal, mantido o fornecimento do medicamento/tratamento ao recorrido até novo exame do caso pela instância judicial competente” (fl. 9, e-doc. 33). A decisão tem a seguinte ementa:
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS DE PRESTAR ASSISTÊNCIA À SAÚDE. FORNECIMENTO DE MEDICAMENTO/TRATAMENTO NÃO PREVISTO NO REGULAMENTO DO SISTEMA ÚNICO DE SAÚDE – SUS. INCLUSÃO DA UNIÃO NO POLO PASSIVO. TEMA 793 DA REPERCUSSÃO GERAL. REMESSA DOS AUTOS À JUSTIÇA FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO” (fl. 1, e-doc. 33).
+
+    2. Intimada dessa decisão em 2.9.2022 (e-doc. 36), a União interpôs tempestivo agravo regimental em 22.9.2022 (e-doc. 38).
+
+    3. O agravante assevera “trata[r]-se de recursos extraordinários manejados em face de acórdão proferido pelo Tribunal de Justiça do Paraná, por meio do qual foi indeferido pedido de inclusão da União no polo passivo de demanda judicial relativa ao fornecimento de medicamento ainda não incorporado à política pública de saúde, ou seja, não padronizado pelo SUS para o tratamento da enfermidade da parte autora” (fl. 2, e-doc. 38).
+
+    Sustenta que “o caso em apreço amolda-se ao paradigma de repercussão geral do RE nº 1.366.243-RG, razão pela qual a decisão monocrática merece reforma” (fl. 10, e-doc. 37).
+
+    Pede “a reconsideração da decisão agravada para que o presente recurso extraordinário seja conhecido e, posteriormente, submetido à sistemática da repercussão geral, com fundamento no RE nº 1.366.243-RG. Caso não seja proferido juízo de retratação, requer a inclusão do processo em pauta para o julgamento do presente agravo, reiterando-se os pedidos acima formulados” (fls. 17-18, e-doc. 37).
+
+    4. Em contrarrazões, o Estado do Paraná sustenta que “o medicamento oncológico postulado possui registro na ANVISA, mas não é contemplado pela política pública de saúde para a enfermidade da autora. Nessas hipóteses, a União deve necessariamente compor o polo passivo do feito, tal qual determinado por esta Corte no julgamento do RE 855.178/SE (tema 793 da sistemática da repercussão geral)” (fl. 2, e-doc. 43).
+
+    Analisada a questão trazida na espécie, DECIDO.
+
+    5. Este recurso deve retornar ao Tribunal de Justiça do Paraná, para observância da sistemática da repercussão geral.
+
+    6. Na espécie vertente, a Quinta Câmara Cível do Tribunal de origem manteve o acórdão recorrido nos termos da seguinte ementa:
+
+    “JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA ANTECIPADA. PACIENTE PORTADORA DE CÂNCER DE MAMA MASTASTÁTICO (CID – C50.9). ACÓRDÃO QUE CONFIRMOU SENTENÇA DE PROCEDÊNCIA. RETORNO DOS AUTOS PARA JUÍZO DE RETRATAÇÃO. RE 855.178/SE – TEMA 793. RESPONSABILIDADE SOLIDÁRIA ENTRE OS ENTES DA FEDERAÇÃO. INAPLICABILIDADE NO CASO. SENTENÇA PROFERIDA ANTERIORMENTE AO JULGAMENTO DO LEADING CASE (23.05.2019). ACÓRDÃO MANTIDO. DEVOLUÇÃO DOS AUTOS À 1ª VICE-PRESIDÊNCIA. MAIORIA” (fl. 9, e-doc. 20).
+
+    Em 8.9.2022, no julgamento eletrônico do Recurso Extraordinário n. 1.366.243-RG, Tema 1.234, Relator o Ministro Presidente, este Supremo Tribunal reconheceu a repercussão geral da controvérsia sobre a “legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária – ANVISA, mas não padronizados no Sistema Único de Saúde – SUS ”:
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA - ANVISA, MAS NÃO PADRONIZADOS NO SISTEMA ÚNICO DE SAÚDE – SUS. INTERESSE PROCESSUAL DA UNIÃO. SOLIDARIEDADE DOS ENTES FEDERADOS. COMPETÊNCIA PARA PROCESSAMENTO DA CAUSA. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 13.9.2022).
+
+    Em processos análogos a este recurso, este Supremo Tribunal tem determinado a devolução dos autos à origem, para aguardar-se o julgamento de mérito do Tema 1.234 da repercussão geral:
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 1.234. DIREITO À SAÚDE. MEDICAMENTO TRIÓXIDO DE ARSÊNIO. FORNECIMENTO DE MEDICAMENTO NÃO PREVISTO NO REGULAMENTO DO SISTEMA ÚNICO DE SAÚDE – SUS. TRATAMENTO ONCOLÓGICO. NECESSIDADE DA UNIÃO NO POLO PASSIVO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA, ATRIBUINDO-SE-LHES EFEITOS INFRINGENTES, ANULAR AS DECISÕES DO SUPREMO TRIBUNAL FEDERAL E DETERMINAR A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA OBSERVÂNCIA DO DISPOSTO NO ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. BAIXA IMEDIATA” (RE n. 1.385.971-AgR-ED, de minha relatoria, Primeira Turma, DJe 5.10.2022).
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO REGISTRADO NA ANVISA MAS NÃO PADRONIZADO PELO SUS. CONTROVÉRSIA QUANTO À LEGITIMIDADE DA INCLUSÃO DA UNIÃO NO POLO PASSIVO DO FEITO E À CONSECTÁRIA COMPETÊNCIA DA JUSTIÇA FEDERAL. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 1.234. RECURSO EXTRAORDINÁRIO 1.366.243. EMBARGOS DE DECLARAÇÃO PROVIDOS PARA TORNAR SEM EFEITO AS DECISÕES ANTERIORMENTE PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL NESTE PROCESSO E, COM FUNDAMENTO NO ARTIGO 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO STF, DETERMINAR A DEVOLUÇÃO IMEDIATA DO FEITO AO TRIBUNAL DE ORIGEM, MANTIDO O FORNECIMENTO DO MEDICAMENTO EM QUESTÃO AO PACIENTE, NA FORMA COMO EVENTUALMENTE DEFERIDO NA ORIGEM, ATÉ O JULGAMENTO FINAL DO MÉRITO DO TEMA 1.234 DA REPERCUSSÃO GERAL” (RE n. 1.379.104-AgR-ED-ED, Relator o Ministro Luiz Fux, DJe 2.12.2022).
+
+    “Embargos de declaração em agravo regimental em recurso extraordinário. Direito à saúde. Fornecimento de medicamento registrado na ANVISA mas não padronizado pelo SUS. Controvérsia acerca da inclusão da União no polo passivo da demanda e da remessa do feito para a Justiça Federal. Debate compreendido no Tema 1.234 da Repercussão Geral. Embargos acolhidos com efeitos infringentes para a aplicação da sistemática da repercussão geral. 1. A matéria constitucional suscitada no presente recurso extraordinário corresponde ao Tema 1.234 da Repercussão Geral, cujo feito paradigma é o RE nº 1.366.243/SC, no qual se discute a ‘[l]egitimidade passiva da União e [a] competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde – SUS’. 2. O reconhecimento da repercussão geral dessa matéria impõe a devolução do feito à Corte de Origem para a aplicação da sistemática da repercussão geral. 3. Embargos de declaração acolhidos com efeitos infringente” (RE n. 1.385.872-AgR-ED, Redator para o acórdão o Ministro Dias Toffoli, Primeira Turma, DJe 30.11.2022).
+
+    O reconhecimento da repercussão geral da matéria trazida nos autos é posterior à decisão agravada, de 19.8.2022 (e-doc. 33).
+
+    Reconhecida a repercussão geral do tema suscitado no recurso extraordinário, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+
+    7. Este Supremo Tribunal fixou entendimento de ser irrecorrível a decisão de devolução de recurso à instância de origem, em observância aos procedimentos da sistemática da repercussão geral (RE n. 1.385.971-AgR-ED, de minha relatoria, Primeira Turma, DJe 5.10.2022; ARE n. 1.387.266-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 9.9.2022; e ARE n. 1.344.838-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 18.3.2022).
+
+    8. Considerando as consequências que poderiam advir da suspensão do tratamento médico, com fundamento no princípio da dignidade da pessoa humana e no direito fundamental à saúde, deve ser mantido o fornecimento do medicamento à paciente, como deferido na origem, até o julgamento de mérito do Tema 1.234 da repercussão geral.
+
+    9. Pelo exposto, torno sem efeito a decisão agravada e determino a devolução dos autos à origem, para observância do art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal, mantido o fornecimento do medicamento à paciente até o julgamento de mérito deste processo ou enquanto perdurar a necessidade da interessada.
+
+    Publique-se.
+
+    Brasília, 12 de dezembro de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
