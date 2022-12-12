@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Companhia Excelsior de Seguros contra decisão por meio da qual neguei provimento ao recurso especial, com fundamento na Súmula 7/STJ.
+Alega a ora agravante que não incide na espécie o óbice da Súmula 7/STJ, insistindo na aplicação ao caso do Tema 1011/STF e na exclusão da multa processual.
+A parte agravada apresentou contraminuta.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. SEGURO HABITACIONAL. MULTA PROCESSUAL. REEXAME DE MATÉRIA DE FATO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não merece reforma a decisão agravada, cujos fundamentos transcrevo:
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DE AGRAVO DE INSTRUMENTO. PRETENSÃO DE QUE SEJA APLICADA A TESE FIRMADA NO JULGADO DO RE 827.996 (TEMA 1.011 DO STF). CASO DOS AUTOS QUE TRATA DE CONTRATO VINCULADO À APÓLICE PARTICULAR (RAMO 68) ENQUANTO O TEMA JULGADO PELO STF SE REFERE AOS CONTRATOS VINCULADOS À APÓLICE PÚBLICA (RAMO 66). SEGURADORA QUE TEVE OPORTUNIDADE DE SE MANIFESTAR PARA FINS DE EVITAR AS CHAMADAS "DECISÕES SURPRESAS" E APENAS REPRODUZIU SUAS RAZÕES RECURSAIS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO, COM FIXAÇÃO DE MULTA.
+Nas razões de recurso especial, a recorrente alega violação dos artigos 1º, § 1º da Lei Federal 12.409/2011 e 1.021, § 4º, do Código de Defesa do Consumidor, além de divergência jurisprudencial.
+Não merece reforma o acórdão recorrido, que consignou:
+Inobstante as reiteradas razões da agravante quanto à aplicação da tese firmada no julgamento do Tema 1.011 pelo Supremo Tribunal Federal e consequente remessa dos autos à Justiça Federal e intimação da Caixa Econômica Federal sobre eventual interesse no feito, concluo que o presente agravo interno não deve ser provido.
+(..)
+Como se vê, a tese firmada pelo Supremo Tribunal Federal se aplica apenas aos contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS) - Apólices públicas, ramo 66. Ocorre que o contrato em debate nos presentes autos está vinculado à apólice privada, ramo 68.
+(..)
+Aliás, como dito na decisão monocrática que não conheceu do agravo de instrumento interposto, a matéria já foi debatida, logo após a própria Caixa Econômica ter manifestado seu desinteresse na causa porque o contrato não está vinculado à apólice pública, ramo 66.
+Destaca-se que em sede do referido agravo de instrumento, para fins de evitar as chamadas "decisões surpresas" a recorrente foi intimada a se manifestar sobre a preclusão da matéria, bem como o fato de já constar nos autos o desinteresse da Caixa Econômica e, ainda, especificamente a se manifestar sobre constar nos autos que se trata de contrato vinculado a apólice privada (ramo 68), enquanto afirma que estamos diante de contrato vinculado a apólice pública (ramo 66), contudo, sem nenhuma prova. Em sua resposta, apenas reiterou suas razões recursais, contudo, sem enfrentar diretamente qualquer um dos itens provocados.
+Neste agravo interno, novamente, a recorrente apenas insiste na aplicação da tese firmada no julgamento do RE 827.996, tema 1.011 do STF, sem fazer qualquer menção ao fato de que o caso dos autos se refere a contrato vinculado a apólice privada (ramo 68) e que a própria Caixa Econômica já manifestou desinteresse pelo mesmo motivo.
+Ou seja, a qualquer custo, a recorrente quer a aplicação do Tema 1.011 do STF, mesmo que a apólice aqui debatida seja diversa daquela espécie tratada no julgamento da Suprema Corte, o que não deve ser admitido.
+No que se refere à preclusão, reporto-me, com destaques, à decisão anterior:
+"(..) Ocorre que a matéria já foi objeto do agravo de instrumento nº 0005041-29.2020.8.16.0000, bem como já enfrentadas na fase de conhecimento, tanto por ocasião do saneador (mov. 1.4), quanto por ocasião do julgamento da apelação cível (mov. 1.5).
+Além disso, como dito no despacho de mov. 17.1/TJPR, a própria Caixa Econômica Federal já manifestou seu desinteresse na demanda, na medida em que constatou que os contratos em debate, diferentemente do alegado pela recorrente, possuem inscrição junto à apólice de mercado, ou seja, (mov. 1.4 página 116 - digitalização) ramo 68: (..) Note-se que quando instada a se manifestar sobre os contratos terem apólice do ramo 68 e não ramo 66, a agravante apenas insistiu que se tratam de apólices públicas (ramo 66), sem apresentar qualquer prova dos autos neste sentido.
+Logo, independente do julgamento do tema 1.011 do STF, considerando que a matéria suscitada pela agravante em seu recurso já foi apreciada por esta Câmara, resta configurada a preclusão, o que impossibilita a desconsideração do que já foi decidido para novamente se pronunciar sobre o tema, sob pena de ofensa ao artigo 505 do Código de Processo Civil:
+"Art. 505. Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo:
+I - se, tratando-se de relação jurídica de trato continuado, sobreveio modificação no estado de fato ou de direito, caso em que poderá a parte pedir a revisão do que foi estatuído na sentença;
+II - nos demais casos prescritos em lei." Além disso, deve também ser destacado o disposto no artigo 507 do Código de Processo Civil:
+"Art. 507. É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão." (..)
+Portanto, em razão de seus próprios fundamentos, a decisão que não conheceu do agravo de instrumento deve ser mantida.
+Em face do exposto, voto no sentido de que esta Oitava Câmara negue provimento ao presente agravo de instrumento, com a consequente aplicação da multa prevista no §4º do artigo 1.021 do Código de Processo Civil, pois conforme deliberado pela Câmara, a aplicação da referida multa não é automática e depende de cada caso. Como há evidência de que o recurso é manifestamente inadmissível, porque protelatório, ou improcedente, a ponto de ser tido como abusivo, cabe a condenação da agravante ao pagamento de multa fixada em 1% do valor atualizado da causa.
+Com efeito, verifico que apenas com o reexame do conjunto fático-probatório seria possível infirmar a conclusão do acórdão recorrido quanto à natureza privada da apólice de seguro, o que atrai a incidência, no ponto, da Súmula 7/STJ.
+O mesmo óbice incide também quanto à multa processual, na medida em que, embora o entendimento desta Corte seja no sentido de que a mera interposição do recurso cabível, por si só, não enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, o certo é que demandaria revisão dos elementos de fato dos autos para afastar o intuito protelatório delineado pelo Tribunal de origem.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+Com efeito, reafirmo que a desconstituição do julgado quanto à natureza da apólice e ao caráter protelatório e abusivo do recurso demandaria o reexame do acervo fático-probatório dos autos, procedimento que, na via do recurso especial, encontra óbice na Súmula 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os seus fundamentos, a decisão agravada deve ser mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
