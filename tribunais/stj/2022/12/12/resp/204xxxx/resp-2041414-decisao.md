@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO EINVESTIMENTO S/A fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de busca e apreensão, ajuizada por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A em face de ISRAEL BATTISTI.
+Sentença: julgou extinto o processp, com fulcro no art. 485, IV, do CPC.
+Acórdão: deu provimento à apelação interposta pelo recorrente, nos seguintes termos:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DEFINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL INVÁLIDA. MORA NÃOCONFIGURADA. FALTA DE PRESSUPOSTO DE CONSTITUIÇÃO EDESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. EXTINÇÃODA AÇÃO. Não caracterizada a mora do devedor, diante da falta de comprovação danotificação extrajudicial, cuja tentativa restou frustrada. Descumpridas asdisposições contidas no Decreto-Lei nº 911/69, inexiste pressuposto indispensávelao desenvolvimento regular e válido do processo, ensejando a extinção da açãosem julgamento de mérito. APELAÇÃO DESPROVIDA.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aduz violação aos art. 2º, § 2º e o art. 3º, caput, do Decreto-lei 911/69, bem como aos arts. 394, 397 e 422, do Código Civil, e aos arts. 4º, 6º, 139, IX, 317, 321 caput e parágrafo único, e 485, IV, do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação dos arts. 489 e 1.022 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos art. 489 e 1022 do CPC/2015.
+-Da comprovação de notificação extrajudicial
+Na hipótese dos autos, o acórdão recorrido assim concluiu:
+"Para fins de caracterização da mora, é firme a jurisprudência no sentido de que basta anotificação do devedor, por meio de carta com aviso de recebimento, no endereço declinado nocontrato, não exigindo sequer a firma do contratante e a menção quanto ao valor do débito. No caso, verifico que a parte requerida não foi constituída em mora, tendo em vistaque, da análise das peças que acompanham a petição inicial, é possível verificar que o envio denotificação extrajudicial se deu mediante carta com aviso de recebimento, que, por sua vez, não foirecebida no endereço, em face da informação "ausente" nas três tentativas de entrega (evento 01,NOT7). Outrossim, não há nos autos demonstração de que outras diligências tenham sidoefetivadas para tentar realizar a notificação do requerido, não sendo possível afirmar, diante dadocumentação constante nos autos, que o devedor fiduciante tenha sido constituído em mora. Assento, no ponto, que em que pesa existam decisões de Tribunais de Justiça e dopróprio Superior Tribunal de Justiça que reconhecem a validade de notificação remetida para oendereço declinado no contrato, ainda que a mesma retorne com a informação "ausente", não setratam de precedentes de observância obrigatória (art. 927, do CPC), nem mesmo de jurisprudênciapropriamente dita, porque são, repito, decisões isoladas. Tanto é assim que consulta ao repositório de Jurisprudência daquele Tribunal indicaque em inúmeros casos em que a tese - validade de notificação extrajudicial feita mediante envio decorrespondência ao endereço do contrato, com retorno negativo com a informação "ausente" - foilevada até ele, não reconheceu a notificação como válida. Nesse sentido, cito o Resp 1839883,Relator Min. Luis Felipe Salomão, p. em 29.10.2019, e o Resp 1828377, Relator o Min. MouraRibeiro, p. em 14.08.2019." (e-STJ fls. 117-118)
+A jurisprudência desta Corte é firme no sentido de que, por formalidade legal, para oajuizamentodaaçãode busca e apreensão, necessária a comprovação damorapor meio danotificação extrajudicialdo devedor, realizada por intermédio de carta registrada enviada por Cartório de Títulos e Documentos, com a efetiva entrega danotificaçãono seu endereço cadastral, apenas dispensando-se anotificaçãopessoal. Precedentes. (REsp 1592422/RJ,Quarta Turma, julgado em 17/05/2016, DJe 22/06/2016; AgInt no AREsp n. 2.119.740/DF, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022;AgInt no REsp n. 1.978.852/RS, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022)
+Isso, pois, inviável se extrair do simples fato da ausência do devedor de sua residência qualquer conduta contrária à boa-fé objetiva.(REsp 1848836/RS, Terceira Turma, julgado em 24/11/2020, DJe 27/11/2020)
+Dessarte, estando o entendimento do Tribunal de origem em consonância com a jurisprudência desta Corte Superior, não há que falar na alteração do julgado. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Outrossim, alterar o entendimento da Corte Estadual quanto à ausência de comprovação de recebimento da notificação extrajudicial exigiria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento noart. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foramarbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. DEVEDOR. AUSENTE. COMPROVAÇÃO RECEBIMENTO. REEXAME DE FATOS E PROVAS.
+1. Ação de busca e apreensão de bem alienado fiduciariamente.
+2.Ausentesos vícios do art. 1.022 do CPC, rejeitam- se os embargos de declaração.
+3. A jurisprudência desta Corte é firme no sentido de que, para a busca e apreensão nos contratos de alienação fiduciária, necessária a comprovação damorapor meio danotificação extrajudicialdo devedor, com a efetiva entrega danotificaçãono seu endereço cadastral, apenas dispensando-se anotificaçãopessoal. Precedentes.
+4. O reexame fático probatório é inadmissível em recurso especial.
+5. Recurso especial não conhecido.
