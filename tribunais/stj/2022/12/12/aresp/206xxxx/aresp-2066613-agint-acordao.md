@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEELcontra decisão de minha lavra, em que reconsiderei decisão da Presidência do STJ, que conheceudo agravopara conhecer parcialmente dorecurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 1.463/1.465).
+Aduz a parte recorrente, em suma, a ocorrência deviolação do art.489, § 1º, IV, do CPC/2015, poiso Regional teria deixado de se manifestar sobrea alegação de que "a demora da análise administrativa do pedido de alteração da capacidade da UTE Palmeira de Goiás se deu em razão da própria Autora, que deixoude apresentar os documentos necessários em tempo devido (documentos estes imprescindíveis para a liberação do CCT)"  e-STJ fls. 1.471/1.472 .
+Pugna, também, pelo afastamentodo art.253, § único, "a" e "b", do RISTJ, ao argumento de que não se trata de recurso especial inadmissível ouprejudicado.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls.1.489/1.497.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. NEGATIVA DE TUTELA JURISDICIONAL. NÃO OCORRÊNCIA.
+1.Afastada a afrontaao princípio da colegialidade, porquanto o art. 932, III, do CPC/2015, c/c o art. 253, I e II, do RISTJ autoriza o relator a julgar monocraticamente o agravo em recurso especial, nas situações ali descritas.
+2. Não há violação do art. 489do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+3. Agravo interno desprovido.
+VOTO
+Nada obstante as razões invocadas,a decisão recorrida não merece reparos.
+Ab initio, convém registrar queo art. 932, III, do CPC/2015, c/c o art. 253, I e II, do RISTJ autoriza o relator a julgar monocraticamente o agravo em recurso especial, nas situações ali descritas, inclusive nos casos em que se alega nulidade por negativa de prestação jurisdicional, como na espécie.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRINCÍPIO DA COLEGIALIDADE. OFENSA. NÃO OCORRÊNCIA. NEGATIVA DE TUTELA JURISDICIONAL E PREQUESTIONAMENTO. INEXISTÊNCIA. LICENCIAMENTO AMBIENTAL. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. INVIABILIDADE.
+1. Afastada a afronta ao princípio da colegialidade, porquanto o art. 932, III, do CPC/2015, c/c o art. 253, I e II, do RISTJ autoriza o relator a julgar monocraticamente o agravo em recurso especial, nas situações ali descritas.
+2. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+3. O acolhimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015 exige do recorrente a indicação de violação do disposto no art. 1.022 do mesmo diploma, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017).
+4. A Corte local atestou a ocorrência de atividade potencialmente poluidora sem licença ambiental (operação de Estação Rádio Base - ERB) com base nas Leis Municipais ali citadas cujo reexame é incabível em sede de recurso especial, nos termos da Súmula 280 do Supremo Tribunal Federal, em aplicação analógica.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.558.021/PR, Minha Relatoria, julgado em 25/10/2021, DJe de 24/11/2021.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. GRUPO ECONÔMICO. REDIRECIONAMENTO. PRESCRIÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ALICERÇADO NO ACERVO FÁTICO-PROBATÓRIO. REFORMA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PRETORIANO. ANÁLISE PREJUDICADA.
+1. Nos termos do art. 932, IV, a, do CPC/2015 c/c o art. 253, II, b, do RISTJ, é autorizado ao Relator negar provimento ao recurso contrário à Súmula ou à jurisprudência dominante deste Superior Tribunal de Justiça, hipótese dos presentes autos, sendo que a possibilidade de interposição de agravo interno ao órgão colegiado afasta a alegação de ofensa ao princípio da colegialidade. Nesse sentido: AgInt no MS 22.585/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 9/4/2019.
+2. Afasta-se a ofensa aos arts. 489, II, e 1.022, I e II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..).
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.902.563/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021.)
+Quanto à alegada ofensa ao art. 489, § 1º do CPC/2015, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De fato, o Regional manifestou-se, inclusive no acórdão integrativo, acerca da alegação da ANEEL de que "a autora não pode se livrar dos gravames decorrentes do atraso noticiado nos autos na medida em que tal mora também decorreu de sua inércia em assinar o Contrato de Conexão às instalações de Transmissão  CCT" (e-STJ fl. 1.177).
+Eis o teor do aresto recorrido (e-STJ fls. 1.183/1.186):
+15. Objetivam a ANEEL e a CCEE a reforma da sentença recorrida sob o fundamento, em síntese, de ter sido a autora responsável pelo atraso na entrada em operação da UTE Palmeiras de Goiás, sobretudo porque a mora em questão teria decorrido de sua inércia em assinar o Contrato de Conexão às instalações de Transmissão  CCT.
+16. Sustenta a autora, por seu turno, que a inviabilização da entrada em operação comercial da usina termelétrica se justificou pela falta de sistema elétrico para sua conexão ao Sistema Elétrico Interligado Nacional, cuja implantação é de responsabilidade única e exclusiva da CELG, fato reconhecido, segundo afirma, pela própria ANEEL.
+17. Compulsando os documentos acostados aos autos, observo que, de fato, razão assiste à autora, pelo que devida a manutenção da sentença recorrida no ponto em que reconheceu a ausência de culpa no atraso do inicio da entrada em operação comercial da UTE Palmeiras de Goiás e afastou a aplicação de quaisquer penalidades e ônus daí decorrentes.
+(..).
+22. Igualmente relevante, por fim, o teor do Ofício nº 21/2012-SEM/ANEEL, datado de 26/01/2012, que expressamente informa a previsão de 30/05/2012 para a entrada em operação comercial do sistema de transmissão e da subestação Palmeiras, de responsabilidade da CELG G&T (fl. 258), corroborando a tese da autora de que a entrada em operação comercial da UTE Palmeiras de Goiás não foi possível por culpa atribuída a terceiro.
+(..).
+24. É que, apesar da tentativa de imputação de culpa à autora pelo atraso na entrada em operação comercial da UTE Palmeiras de Goiás, sob a alegação de que ela não teria providenciado a assinatura do CCT, documento que autorizaria a CELG-GT a dar início à implementação dos reforços, a própria ANEEL reconheceu, conforme transcrição no parágrafo 21, que a assinatura do CCT dependia da emissão do Parecer de Acesso pelo ONS e que, por sua vez, se viu impedido de assim proceder pelo fato de a alteração de potência da termelétrica não ter sido, até então, autorizada pela ANEEL.
+25. Em outras palavras, se a assinatura tempestiva do CCT restou abalada por ato imputável à própria ANEEL, não há como invocar tal fato na tentativa de atribuir à autora a responsabilidade pelo atraso na entrada em operação comercial da usina termelétrica. (Grifos acrescidos).
+No acórdão integrativo, o Regional reiterou afundamentação anterior(e-STJ fl. 1.254):
+3. A ANEEL alega que o v. acórdão foi omisso, pois informou que a demora da análise administrativa do pedido de alteração da capacidade instalada da UTE Palmeiras de Goiás se deu em razão da própria autora, e que em razão disso, proferiu decisão tardia acerca do pedido de alteração da capacidade da usina e indevido responsabilizá-la pela delonga.
+4. Não há que se falar em omissão, visto que o acórdão, em seus fundamentos, foi expresso ao abordar a questão apontada pela embargante acerca da atribuição da responsabilidade à autora pelo atraso, senão vejamos:
+"24. É que, apesar da tentativa de imputação de culpa à autora pelo atraso na entrada em operação comercial da UTE Palmeiras de Goiás, sob a alegação de que ela não teria providenciado a assinatura do CCT, documento que autorizaria a CELG-GT a dar inicio à implementação dos reforços, a própria ANEEL reconheceu, conforme transcrição no parágrafo 21, que a assinatura do CCT dependia da emissão do Parecer de Acesso pelo ONS e que, por sua vez, se viu impedido de assim proceder pelo fato de a alteração de potência da termelétrica não ter sido, até então, autorizada pela ANEEL.
+25. Em outras palavras, se a assinatura tempestiva do CCT restou abalada por ato imputável à própria ANEEL, não há como invocar tal fato na tentativa de atribuir à autora a responsabilidade pelo atraso na entrada em operação comercial da usina termelétrica."
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
