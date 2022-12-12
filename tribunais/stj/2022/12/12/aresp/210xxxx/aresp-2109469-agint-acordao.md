@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICOcontra decisão da Presidência do Superior Tribunal de Justiçaque conheceu do agravo para não conhecer do recurso especial por ela manejado, nos termos abaixo transcritos (e-STJ, fls. 451-455):
+Cuida-se de agravo apresentado por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO contra a decisão que não admitiu seu recurso especial. O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COMBINADA COM INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA ANTECIPADA EM CARÁTER ANTECEDENTE PLANO DE SAÚDE NEGATIVA DE REALIZAÇÃO DE EXAMES SOLICITADOS PELO MÉDICO RESPONSÁVEL CONTRATO ANTERIOR A LEI N.º 9.656 DE 1998 NÃO COMPROVADA OPORTUNIDADE DE ADAPTAÇÃO - ILEGALIDADE DA NEGATIVA DA COBERTURA - ATO ILÍCITO CONFIGURADO - DANO MATERIAL E MORAL DEVIDOS - SENTENÇA MANTIDA RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 10, § 1º, da Lei n. 9.656/98, no que concerne à licitude da negativa de cobertura, por operadoras de plano de saúde, de procedimentos médicos não previstos no Rol de Procedimento da ANS, trazendo o(s) seguinte(s) argumento(s):
+(..)
+Quanto à segunda controvérsia, alega violação do arts. 186 e 927 do Código Civil, além de dissídio jurisprudencial, no que concerne à inexistência de dano moral pela negativa de cobertura dos procedimentos médicos na hipótese dos autos, trazendo o(s) seguinte(s) argumento(s):
+(..)
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu:
+No entanto, apesar de mencionar que a apelada não realizou a migração para o plano atual, o plano de saúde apelante deixou de apresentar provas capazes de corroborar com suas alegações, não se desincumbindo de seu ônus probatório, deixando de comprovar a existência de fato impeditivo, modificativo ou extintivo do direito daautora, conforme dispõe o inciso II do artigo 373 do Código de Processo Civil. O caput do artigo 35 da Lei n.º 9.656 de 1998 preceitua que é assegurado ao beneficiário de plano de saúde anterior à vigência da referida lei a possibilidade de optar pela adaptação ao sistema nos moldes da nova legislação e, não coexistindo provas de que a apelante tenha dado ao beneficiário a oportunidade de fazê-lo, não há que se falar em inaplicabilidade da Lei nº 9.656 de 1998 e das normas regulamentadoras expedidas pela Agência Nacional de Saúde Suplementar - ANS (fls. 334-335). Portanto, no caso em tela, não há provas de que o plano de saúde apelante notificou a usuária para fazer a adaptação de seu contrato à Lei n.º 9.656 de 1998, ônus que lhe incumbia. Consequentemente, a aplicação da Lei n.º 9.656 de 1998 ao caso é medida impositiva, por ser corolário lógico do direito de informação, liberdade de escolha e igualdade nas contratações do consumidor e intepretação mais benéfica a este, hipossuficiente na relação de consumo, conforme preceituam os incisos II, III, e VIII do artigo 6.º bem como o § 4.º do artigo 54, todos do Código de Defesa do Consumidor.
+ ..
+Assim, não há, nos argumentos e documentos apresentados pela ré, elementos que corroborem com a alegada legalidade da recusa sofrida pela paciente, não havendo falar em observância ao princípio do pacta sunt servanda, eis que com o advento do Código de Defesa do Consumidor, há sua mitigação, devendo as cláusulas contratuais serem interpretadas em favor da parte hipossuficiente, no caso, a autora. (fl. 336-337).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+(..)
+Quanto à segunda controvérsia, na espécie, o acórdão recorrido assim decidiu:
+No que tange à indenização a título de danos morais, tem-se que a negativa de fornecimento do exame solicitado, procedimento este solicitado pelo médico do autor, mostra-se ilegítima, diante da relevância do bem jurídico em discussão, sob pena de frustrar a expectativa do beneficiário do plano, que necessita do fornecimento de tratamento imprescindível para evitar a progressão da doença, bem como de frustrar o próprio objetivo do contrato, qual seja, a preservação de sua saúde. Posto isso, a conduta do plano de saúde em recusar o procedimento solicitado pelo médico responsável pela autora merece censura a ponto de fazer incidir dano moral indenizável (fl. 338).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+(..)
+Além disso, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Em suas razões (e-STJ, fls. 463-480), a insurgente, em resumo, repisa os argumentos de mérito anteriormente vertidos no seu recurso especial, concernentes à legitimidade da recusa de custeio dos exames indicados à agravada e à inexistência do dano moral no caso dos autos.
+Não houve impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 932, III, C/C O ART. 1.021, § 1º, AMBOS DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1.Cabe à parte insurgente, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial atrai a aplicação do disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015. Precedentes.
+2.Agravo interno não conhecido.
+VOTO
+Não há como conhecer da irresignação.
+Na deliberação unipessoal ora atacada, a Presidência desta Corte conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos (e-STJ, fls. 451-455):
+i)recurso especial que veicula alegações dissociadas do que foi decidido pelo Tribunal de origem, sem impugnação dos fundamentos do acórdão recorrido, incidindo a Súmula 284/STF;
+ii)necessidade de revisão de fatos e provas para alterar o convencimento do aresto impugnado e acolher a insurgência recursal, incidindo a Súmula 7/STJ;
+iii)nãodemonstração do dissídio jurisprudencial apontado, dadaa falta de similitude fática e jurídica entre os casos confrontados.
+Neste agravo interno, entretanto, a insurgente deixou de demonstrar o desacerto do aludido julgado e de rechaçar adequadamente a fundamentação da decisão monocrática agravada, limitando-se a repisar as teses de mérito anteriormente vertidas no recurso especial.
+Com efeito, os arts. 932, III, e 1.021, § 1º, ambos do Código de Processo Civil de 2015, preveem a obrigação de a parte recorrente observar o princípio da dialeticidade recursal, com impugnação específica dos fundamentos da decisão agravada na petição de agravo interno, sob pena de não conhecimento do recurso.
+Dessa forma, considerando a ausência de impugnação efetiva dos fundamentos da decisão agravada, não há como conhecer do presente agravo interno, tendo em vista a não observância ao princípio da dialeticidade, segundo dispõem os arts. 932, III, e 1.021, § 1º, do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu as Súmulas nºs 5 e 7 do STJ. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.955.513/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. PREPARO. SÚMULA 187/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NAS RAZÕES RECURSAIS. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 1.021, § 1º, DO CPC E ART. 259, § 2º, DO RISTJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nas razões do agravo interno a recorrente não impugnou especificamente os fundamentos da decisão da Presidência desta Corte Superior, qual sejam, a ausência de comprovação do benefício da gratuidade de justiça e a consequente aplicação da Súmula 187/STJ.
+2. O artigo 1.021, § 1º, do CPC/2015 e o art. 259, § 2º, do RISTJ determinam que, na petição de agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada, o que não foi observado no presente caso.
+3. Ressalte-se que o princípio da dialeticidade impõe à parte recorrente, sob pena do não conhecimento do seu recurso, o ônus de explicitar os motivos específicos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente tecer alegações genéricas de não aplicabilidade dos óbices invocados ou repetir o teor do apelo nobre.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.813.746/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022.)
+Ante o exposto, não conheço do agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
