@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Companhia Excelsior de Seguros contra decisão por meio da qual neguei provimento a agravo, com base nas Súmulas 284/STF e 7/STJ.
+Alega a agravante: i) que não incidem os referidos óbices na espécie, afirmando que abordou objetivamente os dispositivos da legislação federal tido por violados pelo tribunal local; ii) que, com a vigência do Código de Processo Civil, a instâncias extraordinárias deverão admitir recursos excepcionais pautados em prequestionamento ficto e que a matéria suscitada, por ser de ordem pública, sequer se submete ao requisito de prequestionamento; iii) que o presente recurso não encontra óbice na Súmula 83/STJ em relação à legitimidade da CEF, já que não há entendimento pacífico sobre o tema no STJ, e ainda que no presente caso tenha havido decisão anterior em sentido contrário, não há que se falar em preclusão, porque, tratando-se de matéria de ordem pública, é cognoscível a qualquer tempo e grau de jurisdição.
+A parte agravada apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. FALTA DE PREQUESTIONAMENTO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A DISPOSITIVO DE LEI FEDERAL. SÚMULA 284/STF. REEXAME DE MATÉRIA DE FATO. SÚMULA 7/STJ.
+1. Configura deficiência na fundamentação do recurso especial a alegação genérica de violação a artigos de lei, sem, contudo, demonstrar em que extensão e como se deu a suposta violação. Incidência da Súmula 284/STF.
+2. A ausência de prequestionamento dos dispositivos legais tidos por violados impede o conhecimento do recurso especial (Súmula 282/STF).
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+4. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+5. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não merece reforma a decisão agravada, cujos fundamentos transcrevo:
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SEGURO HABITACIONAL. REJEIÇÃO DA IMPUGNAÇÃO. ILEGITIMIDADE PASSIVA E COMPETÊNCIA DA JUSTIÇA FEDERAL. QUESTÕES ACOBERTADAS PELA EFICÁCIA PRECLUSIVA DA COISA JULGADA. ART. 508 DO CPC/15. REDISCUSSÃO VIÁVEL APENAS EM SEDE DE AÇÃO RESCISÓRIA. DECISÃO AGRAVADA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+A teor do artigo 508 do CPC/15 (CPC/73, art. 474), não é concedido à parte o direito de reabrir discussão de matéria já decidida e agasalhada pela coisa julgada. Logo, é inviável a arguição, na impugnação ao cumprimento de sentença, de questões que já foram decididas no processo de conhecimento e sobre as quais já se operou a coisa julgada, ainda que se trate de matéria de ordem pública.
+Exercendo juízo de conformidade, o Tribunal catarinense manteve o acórdão recorrido.
+Nas razões de recurso especial, a recorrente alega violação dos artigos 1º, § 1º, da Lei 12.409/2011; 17, 18, 485 e 525, § 1º, II e VI, do Código de Processo Civil; 299 e 303 do Código Civil, além de divergência jurisprudencial.
+Não merece reforma a decisão agravada.
+Com efeito, anoto que o recurso especial apresenta deficiência em sua fundamentação, porque a parte ora agravante não demonstrou, de forma clara e objetiva, de que maneira os artigos 17 e 18 do Código de Processo Civil e 299 e 303 do Código Civil foram violados pelo acórdão recorrido, pois a simples alusão a dispositivos, sem a necessária argumentação que sustente a ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incidência da Súmula 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO AUTOR.
+1. A alegação de afronta ao art. 1.022 do CPC/15 de forma genérica, sem a efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284/STF.
+2. A ausência de demonstração da forma como teriam sido violados os artigos 371 e 373 do CPC/15 impede a compreensão da controvérsia, e atrai a aplicação, por analogia, da Súmula 284/STF.
+(..) (AgInt no AREsp 1169592/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 03/04/2018)
+Da mesma forma, não merece reforma o acórdão recorrido, no ponto que consignou:
+Necessário destacar que a legitimidade da parte agravante, o eventual interesse jurídico da Caixa Econômica Federal e, por conseguinte, a competência da Justiça Federal, já foram objeto de análise no caso concreto, inclusive, nesta instância recursal, quando da análise do Agravo de Instrumento n. 2008.012004-5, proferida contra a decisão no processo de conhecimento.
+Depreende-se da ementa do acórdão, da lavra do Des. Mazoni Ferreira, julgado (..)
+Como se infere, a questão trazida no presente recurso já fora abordada na origem e foi definitivamente rechaçada com o julgamento do agravo. Em consulta ao SAJ verifica-se que o referido processo de conhecimento transitou em julgado no dia 11 de julho de 2014. O feito então retornou ao juízo de origem e, na fase de cumprimento, após a apresentação da impugnação pela parte agravante, sobreveio a decisão recorrida.
+Muito embora a legitimidade de parte e a competência tenham caráter de ordem pública, o que, a rigor, implicaria no seu conhecimento a qualquer tempo e em qualquer grau de jurisdição (CPC/73, art. 267, § 3º e CPC/15, art. 485, § 3º), deve- se esclarecer que isso sucede somente enquanto não ocorrido o trânsito em julgado, operando-se sobre tais questões a eficácia da coisa julgada, nos termos do artigo 508 do CPC/15 (..) "Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido. " (CPC/73, art. 474).
+Assim, embora se trate de matéria de ordem pública, não há como rediscutir a questão em fase de cumprimento de sentença, após o trânsito em julgado das decisões de mérito, ainda que os argumentos e a base legal sejam diferenciados dos analisados nos precedentes jurisprudenciais, sob pena de ofensa à coisa julgada.
+(..)
+Conclui-se, dessa forma, que é inviável a rediscussão acerca dos temas fase atual, mesmo porque, após o trânsito em julgado da ação de conhecimento, competência funcional absoluta para o cumprimento da sentença, na forma do art. 516, II, do CPC/15, correspondente ao art. 475-P, II, do CPC/73.
+Desse modo, operada a coisa julgada, inviável a rediscussão da matéria já decidida nos mesmos autos, a qual será possível, em tese, apenas em sede de ação rescisória, notadamente no prazo previsto para a sua propositura e desde que presentes as hipóteses do artigo 966, do Código de Processo Civil de 2015.
+Com efeito, verifico que o entendimento do Tribunal de origem está de acordo com a jurisprudência consolidada desta Corte, no sentido de que "Até mesmo as matérias de ordem pública que podiam ser deduzidas na fase de conhecimento são alcançadas pela eficácia preclusiva da coisa jugada, não cabendo mais requentá-las na fase de cumprimento de sentença" (AgRg no AREsp n. 594.368/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/4/2015, DJe 14/4/2015). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NULIDADE DA CITAÇÃO. MATÉRIA DECIDIDA E NÃO IMPUGNADA. COISA JULGADA MATERIAL. PRECLUSÃO PRO JUDICATO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. Nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional" (AgInt no REsp 1.756.189/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe de 12/06/2020).
+3. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.865.161/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 18/2/2022.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. MULTA COMINATÓRIA. INEXIGIBILIDADE DO TÍTULO. MATÉRIA DE ORDEM PÚBLICA. APRECIAÇÃO ANTERIOR. PRECLUSÃO CONSUMATIVA. ERRO DE CÁLCULO. INEXISTÊNCIA. RAZOABILIDADE E PROPORCIONALIDADE. ORDEM JUDICIAL. DESCUMPRIMENTO. AFERIÇÃO. POSSIBILIDADE. SUPRESSÃO DAS ASTREINTES.
+(..)
+2. As questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional.
+(..)
+(REsp n. 1.881.709/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/11/2020, DJe de 4/12/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. INCIDÊNCIA DA SÚMULA 7/STJ. 2. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INCIDÊNCIA DA SÚMULA 7/STJ. 3. HONORÁRIOS ADVOCATÍCIOS. PLEITO DE REDUÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. 4. ERRO MATERIAL NA PERÍCIA CONTÁBIL REALIZADA NA FASE DE CONHECIMENTO. EFICÁCIA PRECLUSIVA DA COISA JULGADA, AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA. 5. EXCESSO DE EXECUÇÃO COM FULCRO EM PRESCRIÇÃO. MATÉRIA DEDUZIDA NA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DEVE SER RELATIVA À PRESCRIÇÃO SUPERVENIENTE À SENTENÇA. 6. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. O apontado excesso de execução fundado na existência de erro material na prova pericial produzida ainda na fase de conhecimento fica acobertado pela eficácia preclusiva da coisa julgada (art. 508 do CPC/2015), se a parte, ao invés de suscitar tal equívoco mesmo naquela fase processual, só o fez no cumprimento de sentença, quando já constituído o título executivo judicial. Ainda que se considere como questão de ordem pública, o eventual erro não pode ser desfeito no âmbito da impugnação ao cumprimento de sentença, porquanto já operada a coisa julgada. Precedente.
+5. Por derradeiro, no que se refere à prescrição, mesmo se tratando, também, de matéria cogente, só se acolhe a sua alegação, na impugnação ao cumprimento de sentença, se tal instituto tiver se consumado após a sentença, nos termos do art. 525, § 1º, VII, do CPC/2015 (equivalente ao art. 475-L, VI, do CPC/1973). Precedente.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.143.944/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/3/2018, DJe de 27/3/2018.)
+É manifesta, pois, a incidência da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+Com efeito, reitero a aplicação da Súmula 284/STF, na medida em que a parte citou genericamente os artigos 17 e 18 do Código de Processo Civil e 299 e 303 do Código Civil, sem demonstrar de que forma tal violação teria ocorrido.
+Da mesma forma, reafirmo a incidência da Súmula 83/STJ, porque o Tribunal de origem, ao considerar que as questões de ordem pública estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional, não desbordou da jurisprudência desta Corte Superior.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
