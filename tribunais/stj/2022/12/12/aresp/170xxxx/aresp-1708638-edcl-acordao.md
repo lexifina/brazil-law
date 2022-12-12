@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos de declaração opostos por ADILSON GUIDOLIN VICENTIN ROMAN em face de acórdão proferido por esta Quarta Turma, assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CÉDULA DE CRÉDITO RURAL. INÉPCIA DA INICIAL. AFASTAMENTO. CLÁUSULAS ABUSIVAS. CONHECIMENTO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 381/STJ. PRESCRIÇÃO. NÃO OCORRÊNCIA. LIBERAÇÃO DOS VALORES. IDONEIDADE. COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Inexiste inépcia da inicial quando o autor descreve adequadamente a causa de pedir da demanda, consistente na existência de relação jurídica negocial entre as partes e na inadimplência do devedor, bem como o objeto da pretensão, consistente na satisfação do crédito.
+2. Nos termos da Súmula 381STJ, " n os contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas".
+3. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu que foi devidamente demonstrada a dívida e a inadimplência do devedor. A reforma desse entendimento também demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno improvido." (fl. 456)
+O embargante sustenta, em síntese, (a) o Enunciado da Súmula n. 381/STJ, que exige expresso pedido para se reconhecer a abusividade em contratos bancários, não se aplica às demandas fundadas em cédulas de crédito rural, (b) inexiste lesão ao contraditório, pois "o pedido de declaração de nulidade da cláusula contratual inserida na cédula de crédito rural fora expressamente deduzida pelo embargante/agravante em suas razões de apelo" (fl. 475), (c) omissão deste Órgão Colegiado acerca da ilegalidade do Enunciado da Súmula n. 381/STJ e (d) contradição do julgado ao aplicar o Enunciado da Súmula n. 7/STJ no tocante ao tema da prescrição.
+Impugnação às fls. 485/491.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Inicialmente, destaca-se não ter havido contradição no acórdão recorrido relativamente à matéria da prescrição, cujo exame de fundo fora obstado pela Súmula n. 7/STJ nestes termos:
+"Como visto, apesar de o Tribunal a quo ter reconhecido que a demora na promoção da citação do réu decorreu de culpa tanto do autor quanto dos mecanismos inerentes ao Poder Judiciário, concluiu que o tempo de atraso imputado exclusivamente ao autor não seria suficiente para a declaração da prescrição.
+Não se desconhecem precedentes desta Corte Superior anotando que o atraso na promoção da citação só impede a caracterização da prescrição quando ocorre exclusivamente por culpa dos serviços dos cartórios do Poder Judiciário. Contudo, deve-se anotar que, depois de ajuizada a ação, a pretensão do autor só fica sujeita à prescrição se ele não cumprir os prazos previstos em lei para a promoção (tempestiva) da citação do réu.
+Uma vez que, na espécie, a ação foi ajuizada na vigência do CPC/73, vigia o entendimento do STJ de que " o  art. 219, §§ 2º e 4º, do CPC estabelecem que a parte deve promover a citação em até 10 dias do despacho que a ordena, condicionando sua validade ao aperfeiçoamento do ato citatório em até 90 dias contados do 11º dia após proferido a ordem de citação" (REsp 1.066.288/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 09/12/2008, DJe de 27/02/2009).
+Na hipótese, portanto, a única forma de verificar se o atraso imputado ao autor para a promoção da citação teria sido determinante para a consumação da prescrição seria investigando se, mesmo depois de intimado pelo Juízo de 1º grau a indicar o endereço correto do réu, o autor teria se omitido por prazo superior ao previsto em lei, o que, porém, é vedado pela Súmula 7/STJ." (fl. 464)
+Ademais, aplicou-se à espécie o Enunciado da Súmula n. 381/STJ - ainda vigente, destaque-se - com base em argumentos claros, coerentes e devidamente justificados, in verbis:
+"O Tribunal também obstou a discussão sobre a legalidade dos encargos moratórios do contrato, dada a inovação recursal do insurgente, nesse ponto. Cita-se trecho do aresto:
+"Quanto a cobrança ilegal de encargos na fase de inadimplemento, conforme adiantado no despacho de f. 225, aludida matéria não foi objeto de defesa em primeiro grau, constituindo-se em verdadeira inovação recursal. E nem se diga que a cobrança de abusiva de juros constituiria em matéria de ordem pública, uma vez que se trata de direito disponível, podendo a parte optar por pagar os encargos cobrados." (fl. 251)
+Contudo, o recorrente insiste na possibilidade de arguir, exclusivamente em sede de apelação, a ilegalidade dos encargos moratórios previstos no contrato bancário, em especial das taxas de juros remuneratórios e moratórios e da multa moratória.
+A conclusão do Tribunal de origem, porém, vai ao encontro do entendimento do STJ firmado na Súmula 381, segundo a qual, " n os contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas".
+Nesse tópico, primeiro deve-se destacar que, segundo esta Corte Superior, o pedido para a declaração da índole abusiva das cláusulas de contrato bancário deve constar da petição inicial, justamente porque, rejeitada a tese de que eventuais práticas abusivas cometidas por instituições financeiras constituiriam matéria de ordem pública, o consumidor não está autorizado a inovar essa pretensão apenas em 2º grau. Nesse sentido:
+(..)
+Segundo, a Súmula 381/STJ tem sido amplamente aplicada por esta Corte em cédulas de crédito rural, consoante se observa nos seguintes precedentes:" (fls. 462/463)
+Portanto, não há como acolher os embargos de declaração, já que têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022), circunstâncias não verificadas na espécie. É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É o voto.
