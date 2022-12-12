@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOAQUIM BRAIDE, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, III, alínea"a" da Constituição Federal.
+Agravo em recurso especial interposto em:14/02/2022.
+Concluso ao gabinete em: 02/12/2022.
+Ação:de cobrança ajuizada por PORTAL LOTEADORA E INCORPORADORA S/S LTDAem face de JOAQUIM BRAIDE, objetivando a cobrança de parcelas inadimplidas decorrentes de contrato de compra e venda de lote residencial.
+Sentença: julgou parcialmente procedente o pedido inicial e improcedente a reconvenção.
+Acórdão: negou provimento à apelação interpostapelo agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. Compra e venda de imóvel. Ação de cobrança. Sentença de parcial procedência do pedido principal e de improcedência da reconvenção. Irresignação do réu. Não acolhimento. Alegação de nulidade dos atos processuais, em razão de falha na representação processual da parte autora. A ação foi ajuizada por Portal Loteadora e Incorporadora S/S Ltda, tendo juntada a segunda alteração do contrato social e procuração outorgada, representada pela empresa Brasoli Administração de Bens e Participações Ltda-ME. Autor que na distribuição da ação não juntou o contrato social atualizado (quarta alteração). Conduta que, por si só não invalida os atos processuais, vez que, a representação processual não estava defeituosa, apenas não havia sido juntada a última alteração social da empresa autora, o que não tem o condão de invalidar os atos processuais. Falha sanada. Aplicação da regra do aproveitamento dos atos processuais, conforme artigo 283, § único, do CPC. Designação de audiência de conciliação. O fato de o d. juiz de primeiro grau não ter designado a audiência de conciliação em tempo hábil para que o réu, citado, pudesse dela participar, não enseja prejuízo à parte. As partes podem a qualquer tempo transigirem, seja por simples petição juntada aos autos, seja de forma extrajudicial, levando-se os termos ao d. juízo para homologação. Oportunidade concedida em grau de recurso, contudo, o autor manifestou seu desinteresse expresso. Inviável a designação de audiência, quando a parte não tem interesse na realização de acordo. Tal providência, no caso concreto, somenteensejaria na postergação da prestação jurisdicional, o que fere o ordenamento processual vigente (art. 4º, do CPC). Sentença mantida. RECURSO DESPROVIDO." (e-STJ, fl. 218)
+Recurso especial: alegou ofensa aos arts. 334 e 335, do CPC/2015;478 e 480 do Código Civil,sustentando: i) a inobservância do direito de defesa ao não ser marcada audiência de conciliação em tempo hábil para que o agravante pudesse participar; ii) que a falha do poder judiciário prejudicou muito a vida do agravante; iii) que pode requerer a revisão do contrato com base na teoria da imprevisão, o que seria alegado na audiência de conciliação que lhe foi negada; iv) requer a nova designação da audiência de conciliação para que possa negociar o débito discutido na presente ação, de acordo com a teoria da imprevisão, de maneira a equilibrar as parcelas restantes sem prejuízo seu nem da ora agravada, mesmo sem a concordância destapois já demonstrado anterior interesse nesta designação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+Os arts. 478 e 480 do Código Civil, indicados como violados, não foram apreciados pelo acórdão recorrido, tampouco foram opostosembargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem, especificamente quanto ao tema.
+É de se ressaltar queo Tribunal de origem não decidiu acerca da teoria da imprevisão sobre a qual referidos artigos se referem. Apenas foimencionada no voto como pedido do agravante a ser alegado na audiência de conciliação a qual se pretende a designação.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+O agravante não impugnou os fundamentos do Tribunal de origem no sentido de que a designação de audiência de conciliação para oportunizar ao agravante a discussão do seu direito sob o prisma da teoria da imprevisão, (..) não guarda qualquer amparo legal, pois, como dito, é matéria de defesa e deve ser alegada na contestação e não deixada para discutir em audiência de conciliação, conforme expressamente previsto no artigo 336, do CPC"(e-STJ, fls. 387/388).
+Assim, aplicável à hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Por fim, quanto à questão controvertida, extrai-se do acórdão recorrido:
+"(..) o fato de o d. juiz de primeiro grau não ter designado a audiência de conciliação em tempo hábil para que o réu, citado, pudesse dela participar, não enseja prejuízo à parte.
+Isso porque, as partes podem a qualquer tempotransigirem, seja por simples petição juntada aos autos, seja de forma extrajudicial, levando-se os termos ao d. juízo para homologação.
+Não se perca de vista que este Relator intimou o autor sobre o interesse na designação de audiência de conciliação e houve o desinteresse expresso manifestado por ele.
+Assim, inviável a designação de audiência, quando a parte não tem interesse na realização de acordo. Tal providência, no caso, concreto, somente ensejaria na postergação da prestação jurisdicional, o que fere o ordenamento processual vigente (art. 4º, do CPC).
+(..)
+Ademais, o apelante narrou que na audiência de conciliação iria discutir a teoria da imprevisão.
+Contudo, o objetivo da audiência de conciliação é justamente a solução da questão por meio de acordo e não para discutir questões jurídicas que sequer foram objeto de defesa da parte ré.
+Destaca-se que, em sua defesa, o réu limitou-se a contestar o valor do montante devido e a pedir o ressarcimento das benfeitorias realizadas no terreno.
+Logo, designar audiência de conciliação com o objetivo de o apelante ter a oportunidade de poder discutir, conforme defendido, sob o prisma da teoria da imprevisão, que a prestação que assumiu inicialmente, tornou-se onerosa, não somente em razão de sua condição financeira, como também asparcelas, em decorrência dos índices aplicados, ou a forma de aplicação dos mesmos, fazendo com que o bem adquirido corra risco de lhe ser suprimido, após já ter efetuado o pagamento de um percentual significativo do total do financiamento, não guarda qualquer amparo legal, pois, como dito, é matéria de defesa e deve ser alegada na contestação e não deixada para discutir em audiência de conciliação, conforme expressamente previsto no artigo 336, do CPC (..)" (e-STJ, fls. 385/388)
+Alterar o entendimento do Tribunal de origem, quanto à ausência de prejuízo ao agravante; à impossibilidade de ser determinar outra audiência pelo não preenchimento dos seus requisitos; e pela questão a ser discutida ser matéria de defesa, que deve ser alegada em contestação,exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TEORIA DA IMPREVISÃO.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do
+recurso especial.
+4.O reexame de fatos e provas em recurso especial é inadmissível.
+5.Agravo conhecido. Recurso especial não conhecido.
