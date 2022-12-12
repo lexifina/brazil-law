@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA CRISTINA DO PRADOcontra a decisão da Presidência deste Superior Tribunal (e-STJ, fls. 930-932) que não conheceu do agravo em recurso especial, devido à ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial por ela manejado.
+Em suas razões (e-STJ, fls. 935-946), a agravante sustenta, em suma, que impugnou integralmente os fundamentos da decisão que não admitiu o recurso especial, sendo cabível a apreciação deste reclamo.
+Impugnação às fls. 963-968 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1.Conforme a jurisprudência do Superior Tribunal de Justiça, tendo em vista o princípio da unirrecorribilidade e a preclusão consumativa, a interposição de dois recursos pela mesma parte contra a mesma decisão judicial impede o conhecimento daquele protocolizado por último.
+2. Cabe à parte recorrente, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC/2015.
+3. Agravo interno desprovido.
+VOTO
+Inicialmente, nota-se que contra a decisão impugnadade fls. 930-932 (e-STJ)a insurgenteinterpõedois agravos internos; sendo o primeiro apresentado por intermédio da Petição n. 964097/2022 (e-STJ, fls. 935-946), e o segundo por meio da Petição n. 964095/2022 (e-STJ, fls. 947-958).
+Dessa forma, no que se refere ao segundo agravo interno (e-STJ, fls. 947-958 - Petição n. 964095/2022) apresentado pela agravante, em atenção ao princípio da unirrecorribilidade e da ocorrência da preclusão consumativa, não há como conhecer da insurgência, uma vez que é vedada a interposição de mais de um recurso pela mesma parte contra a mesma decisão judicial.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. DOIS AGRAVOS INTERPOSTOS. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. ANÁLISE DO PRIMEIRO QUE FOI INTERPOSTO. PRECLUSÃO CONSUMATIVA. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. DANO MORAL NÃO CONFIGURADO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porqueelecta una via non datur regressus ad alteram.
+3. O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.894.894/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/12/2021, DJe de 10/12/2021.)
+Quanto ao agravo interno de fls. 935-946 (e-STJ), a irresignação não merece prosperar.
+Com efeito, é dever da parte agravante combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do julgado que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+O referido entendimento foi confirmado pela Corte Especial do Superior Tribunal de Justiça no julgamento dos Embargos de Divergência no Agravo em Recurso Especial n. 746.775/PR.
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Na decisão ora atacada, não se conheceu do agravo interposto, sob o argumento de que os fundamentos da decisão de inadmissibilidade do apelo especial não foram rebatidos naquele recurso, de acordo com as seguintes justificativas (e-STJ, fls. 930-932):
+Cuida-se de agravo em recurso especial apresentado por MARIA CRISTINA DO PRADO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal (art. 492 do Código de Processo Civil), ausência de afronta a dispositivo legal (arts. 32, inciso I, 39, inciso I e 51, inciso XIII do Código de Defesa do Consumidor e art. 932, inciso V, alíneas "a", "b" e "c" do Código de Processo Civil), Súmula 7/STJ, Súmula 13/STJ e deficiência de cotejo analítico. Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ, Súmula 13/STJ e deficiência de cotejo analítico.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Por conseguinte, constata-se que, de fato, a agravante, nas razões do agravo em recurso especial (e-STJ, fls. 420-435), não impugnou especificamente os fundamentos da decisão agravada atinentes à incidência das Súmulas 7e 13/STJao caso e à ausência de cotejo analítico para demonstração do dissídio jurisprudencial, limitando-se a afirmar a existência de divergência pretoriana e repisar as teses de mérito vertidas no apelo especial.
+Desse modo, à luz do princípio da dialeticidade, a parte agravante deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do apelo especial, sob pena de seu não conhecimento. Portanto, como não se desincumbiu de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+Em arremate, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto impugnado, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
