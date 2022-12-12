@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jade Soares dos Santos contra decisão que indeferiu liminarmente o habeas corpus, assim ementada (fl. 312):
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA.TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ELEMENTOS FÁTICOS. MINORANTE. NÃO INCIDÊNCIA. REGIME FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. PRECEDENTES DESTA CORTE SUPERIOR.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
+Consta dos autos que o Juízo de Direito da Vara Criminal da comarca de Leme/SP condenou a ora paciente como incursa nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, a pena privativa de liberdade de 2 anos e 6 meses de reclusão, a ser resgatada no regime semiaberto, e pagamento de 250 dias-multa (no valor unitário mínimo), substituída a pena privativa de liberdade por restritivas, consistentes em prestação de serviços à comunidade e limitação de fim de semana (fl. 48) - (Ação Penal n. 1501291-45.2021.8.26.0318 - fls. 44/48 - tráfico de 1.257 g de cocaína, além de petrechos).
+O Tribunal de Justiça de São Paulo, por sua vez, deu provimento ao recurso ministerial, para afastar o redutor de pena e as penas substitutivas, e reajustar a pena final para 5 anos de reclusão, e fixar o regime inicial fechado, mais o pagamento de 500 dias-multa,no mínimo legal, nos termos deste Voto, mantendo, no mais, a r. sentença por seus próprios e jurídicos fundamentos (fl. 43) -(Apelação Criminal n. 1501291-45.2021.8.26.0318 - fls. 29/43).
+Nesta Casa, a defesa buscou, em síntese, no âmbito liminar e no mérito, a aplicação da causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo, a fixação de regime menos gravoso, bem como a substituição da privativa de liberdade por restritivas de direitos.
+Indeferido liminarmente o writ (fls. 312/314), a parte interpõe o presente agravo regimental, o qual reitera os pedidos da inicial. Postula, em suma,seja reconhecidoos benefícios trazidos no § 4º do art. 33 da Lei 11.343/06, bem como que seja alterado o regime de pena do fechado para o regime aberto, e/ou para o regime semiaberto (fl. 345).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO DE DROGAS. DOSIMETRIA DA PENA.TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ELEMENTOS FÁTICOS. MINORANTE. NÃO INCIDÊNCIA. PENA FINAL ACIMA DE 4 ANOS DE RECLUSÃO. CONVERSÃO. IMPOSSIBILIDADE. REGIME FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. PRECEDENTES.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Agravo regimental improvido.
+VOTO
+A irresignação não merece guarida.
+Com efeito,o Tribunal de origem afastou a incidência da referida minorante, sob a seguinte fundamentação (fls. 39/41 - grifo nosso):
+Com efeito, neste caso concreto, a ré afirmou, em juízo, que fazia um mês que vinha praticando tal conduta de guardar entorpecentes em casa, o que, de plano, indica dedicação à atividade criminosa. Ademais, os depoimentos dos policiais deram conta de que receberam informação justamente nesse sentido, de que a ré guardava expressiva quantidade de drogas em casa, o que, de fato, se comprovou.
+ ..
+A ré não preenche os requisitos legais para a concessão de tal benefício, especificamente a dedicação à atividade criminosa, como bem pontuado pelo Ministério Público em sua peça recursal.
+Referido benefício só pode ser concedido a criminosos eventuais, primários, de bons antecedentes, e que não se dediquem às atividades criminosas, conforme dispõe o art.33, § 4º, da Lei de Drogas. Neste caso, ainda que a ré seja primária, a prova demonstrou, como já consignado, sua dedicação às atividades criminosas. Dedicar-se a atividades criminosas não é o simples fato de integrar associação criminosa. Do contrário, sempre que um réu não fosse denunciado por tal delito (seja de associação destinada ao tráfico ou não), faria jus à benesse tão ampla quanto a do § 4º, do art. 33, da lei de drogas. De rigor, portanto, a análise cuidadosa de todas as circunstâncias que permeiam o caso, o que passa, sem dúvida, por exemplo, pela aferição da quantidade das drogas e da sua natureza, que éaltamente ofensiva e possui efeitos devastadores, circunstância esta, como visto, é desfavorável ao réu. O citado dispositivo consiste em punir com menor rigor o "traficante de primeira viagem", vale dizer, aquele que não faz do tráfico de drogas o seu meio de vida.
+Assim, afasta-se a aplicação do redutor de pena, e a pena final fica redimensionada para 05 anos de reclusão e 500 dias-multa.  ..
+Dessa forma, para que fosse possível entender de modo diverso e afastar a conclusão de que a ré se dedica aatividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, o que não é possível na via eleita, que possui rito célere e cognição sumária. Nesse sentido: AgRg no REsp n. 1.737.179/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/8/2019.
+Mantida, assim, a reprimenda em 5 anos de reclusão, além do pagamento de 500 dias-multa, não há falar em substituição da privativa de liberdade por restritivas de direitos (art. 44, I, do CP).
+Quanto ao mais, não há ilegalidade na fixação do regime fechado para o início do cumprimento da pena inferior a 8 anos de reclusão quando há circunstância judicial considerada negativa, o que, inclusive, ensejou a fixação da pena-base acima do mínimo legal. Nesse sentido: AgRg no REsp n. 1.984.532/SC, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 16/9/2022; AgRg no HC n. 750.072/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2022; AgRg nosEDcl no HC n. 741.225/SP, Ministro Jesuíno Rissato (Desembargador convocado DO TJDFT), Quinta Turma, DJe 24/6/2022.
+Por fim, ressalto o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. SUPERAÇÃO. IMPOSSIBILIDADE. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No caso, foram apontados elementos concretos e específicos dos autos que, em princípio, evidenciam a impossibilidade de aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, diante da ausência de preenchimento do requisito de "não se dedicar a atividades criminosas".
+3. Embora o réu haja sido definitivamente condenado a reprimenda inferior a 8 anos de reclusão, certo é que teve a pena-base fixada acima do mínimo legal, em razão da desfavorabilidade das circunstâncias do delito, o que, ao menos à primeira vista, evidencia ser o regime inicial fechado o mais adequado para a prevenção e repressão do delito perpetrado.
+4. Uma vez que o acusado foi condenado a reprimenda superior a 4 anos de reclusão, não há nenhuma ilegalidade manifesta no fato de lhe haver sido negada a substituição da reprimenda privativa de liberdade por restritivas de direitos, ex vi do disposto no art. 44, I, do CP.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 642.050/SP,Ministro Rogerio Schietti Cruz, Sexta Turma,DJe 2/3/2021 - grifo nosso)
+Ante o exposto, nego provimento ao agravo regimental.
