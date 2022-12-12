@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Jorge Mussi e Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto porEDIVANDRO DE OLIVEIRA BUENO contra decisão singularque não conheceu do habeas corpus.
+O agravante reitera a tese de que seria inidônea a exasperação da pena-base. Aduz que, diferente do que considerou a decisão agravada, a hipótese dos autos é diferente dadiscutida nos autos doHC n. 719.489/SP, não sendo, portanto, indevida reiteração de pedidos.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. CRIME DE ORGANIZAÇÃO CRIMINOSA. PENA-BASE. INIDONEIDADE.MATÉRIA ANTERIOMENTE ANALISADA POR ESTA CORTE. INDEVIDA REITERAÇÃO DE PEDIDOS.RECURSO DESPROVIDO.
+1. Amatéria referente à pena-base foi apreciada por esta Corte no HC n. 719.489/SP, situação em que foi considerada idônea a fundamentação apresentada pela origem.Cuida-se, portanto, de indevida reiteração de pedido.
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelaagravante, devendo a decisão ser mantida por seus próprios fundamentos.
+No caso, verifica-se que a matéria referente à pena-base foi apreciada por esta Corte no HC n. 719.489/SP, situação em que foi considerada idônea a fundamentação apresentada pela origem.
+Confira-se, a propósito, a fundamentação apresentada por este Tribunal:
+" ..
+A primeira controvérsia refere-se à pena-base.
+Confiram-se, a propósito, o seguinte trecho do acórdão impugnado:
+" ..
+Para Daniel Valêncio, no que diz respeito ao delito de organização criminosa, a pena privativa de liberdade, no primeiro momento, foi fixada em 25/24 (vinte e cinco vinte e quatro avos) acima do mínimo legal, considerando o douto magistrado sentenciante desfavoráveis as circunstâncias judiciais relativas à culpabilidade, conduta social e personalidade do apelante, bem como a atinente às consequências da infração, in verbis: "Na primeira fase da dosimetria da pena, observa-se que a culpabilidade do réu para o delito deve ser considerada negativa. A condição de guarda municipal, integrante de instituição destinada à proteção de patrimônio público, exige dele maior grau de observância de deveres e obrigações relacionadas ao cargo que ocupa. Embora a Guarda Municipal não esteja formalmente elencada como órgão de segurança pública pela Constituição da República, sua previsão se encontra alocada no capítulo destinado a essa área de atuação governamental, precisamente no art. 144, § 2º, da CR (..). A autoridade ine rente à posição que ocupava o agente o colocava em posição de superioridade e dessa condição abusou o réu, o que demonstra a elevada intensidade do dolo e exige maior reprovabilidade de sua conduta (..). A conduta social do réu deve ser considerada negativa, eis que, segundo depoimentos das testemunhas, o acusado costumava intimidar e amedrontar diversas pessoas da cidade de Ibiúna e, juntamente com Edivandro Bueno, foi apontado por diversas testemunhas como temido na cidade. De igual modo, sua personalidade também merece valoração negativa. Diversos depoimentos das testemunhas indicaram que o réu era violento e agressivo em suas abordagens, o que demonstra personalidade com propensão e apreço pela violência gratuita e merece maior reprovação. Considera-se também, como circunstância negativa, as consequências do delito, pois a formação da organização criminosa no âmbito da Guarda Civil Municipal, para além da perturbação da paz social, interferiu na prestação do serviço público e repercutiu na credibilidade da instituição perante a população". Todavia, conquanto as circunstâncias apontadas devam, de fato, ser valoradas negativamente, a fração adotada mostrou-se excessiva, pelo que a pena-base fica estabelecida em 2/3 (dois terços) acima do mínimo legal. Observa-se que, em verdade, o Juízo sentenciante adotou, para as circunstâncias reconhecidas, o aumento total de 5/8 (cinco oitavos) "da diferença entre a pena máxima e mínima abstratamente fixadas para o delito" (sic) e, embora não se olvide de que há entendimento no sentido da fixação tal como feita pelo Juízo a quo, em observância ao intitulado "critério proporcional", não há como acoroçoá-lo, daí porque a exasperação da pena- base se deu a partir do mínimo legal.  .. .
+ ..
+Para Edivandro Bueno, em relação ao crime de organização criminosa, a sanção corporal, no primeiro momento, foi fixada em 25/24 (vinte e cinco vinte e quatro avos) acima do mínimo legal, considerando o douto magistrado sentenciante desfavoráveis as circunstâncias judiciais relativas à culpabilidade, conduta social e personalidade do apelante, bem como a atinente às consequências da infração, pelas mesmas razões já expostas na etapa inicial da dosimetria da pena de Daniel Valêncio quanto a essa mesma infração (organização criminosa)" (fls. 255/25258).
+A fundamentação apresentada mostra-se idônea, baseada em elementos concretos, cuja avaliação está situada no campo da discricionariedade do julgador. Sendo assim, não é possível, sobretudo em habeas corpus, desconsiderar a valoração negativa das circunstâncias judiciais, como pretende a impetrante.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME CONTRA SISTEMA FINANCEIRO NACIONAL. OBTENÇÃO MEDIANTE FRAUDE DE FINANCIAMENTO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. MANTIDAS AS CIRCUNSTÂNCIAS DOS MOTIVOS E DAS CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO.
+O entendimento firme desta Corte Superior é no sentido de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, desautoriza a revisão da reprimenda por esta Corte Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+Agravo regimental desprovido.
+(AgRg nos EDcl no REsp 1595637/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 22/08/2018).
+ .. "
+Cuida-se, portanto, de indevida reiteração de pedido.
+Ante o exposto, voto pelo desprovimento do recurso.
