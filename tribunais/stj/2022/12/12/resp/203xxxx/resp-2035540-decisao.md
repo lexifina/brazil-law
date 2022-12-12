@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado (fls. 355-356, e-STJ):
+RECURSO DE APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DIREITO ADMINISTRATIVO. PRESCRIÇÃO TRINTENÁRIA DO FGTS. MODULAÇÃO DOS EFEITOS DO ARE 709.212/DF. APELAÇÃO CÍVEL CONHECIDA E PROVIDA. POSTERGADA A FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS.
+1. Cuida-se de Recurso de Apelação que visa a reforma da sentença proferida pelo magistrado atuante na 1ª Vara da Comarca de Quixeramobim e que entendeu pela improcedência da Ação Trabalhista proposta em desfavor do Município de Quixeramobim.
+2. Na origem, alegam os autores terem sido admitidos pela municipalidade mediante regime celetista, tendo tal situação sido modificada em 1992, quando foi instituído um Regime Jurídico Único pela municipalidade em questão e os agentes públicos "migraram" para a condição de estatutários. Pleiteiam, diante disso, o recebimento de verbas relativas ao FGTS, especificamente no que diz respeito ao período anterior à instituição do RJU.
+3. Diante da modulação dos efeitos do julgamento do ARE 709.212/DF, com vistas a garantir a efetiva observância ao princípio da segurança jurídica e evitar surpresa, como a discussão gira em torno de parcelas do FGTS relativas a um período anterior a 1992, portanto anteriores ao julgamento do ARE n. 709.212/DF e tendo o feito sido proposto ainda em dezembro de 2014, há de se reconhecer aplicável ao caso a modulação dos efeitos do julgado, devendo ser garantido ao autor o recebimento das verbas relativas ao FGTS referente a todo o período laborado. Precedentes.
+4. Em relação aos honorários sucumbenciais, cujo ônus incumbe à municipalidade demandada, e em favor dos patronos dos autores, diante da iliquidez do julgado, mister que a fixação do percentual devido pelas partes sucumbentes ocorra somente quando da liquidação do julgado, nos termos do art. 85, §4º, II, CPC.
+5. Recurso de Apelação Cível conhecido e provido, para reformar a sentença apelada, aplicando ao caso a prescrição trintenária do débito e garantindo aos apelantes o direito de perceber o montante correspondente aos depósitos de FGTS correspondentes a todo o período de sua contratação celetista pela edilidade apelada, tendo por marco final a instituição do Regime Jurídico Único, bem como para determinar que os honorários sucumbenciais, cujo ônus incumbe ao Município de Quixeramobim, sejam fixados somente por ocasião da liquidação do feito (arts. 85, §4º, II, do CPC).
+Os Embargos de Declaração foram rejeitados (fls. 393-405, e-STJ).
+O recorrente alega que houve ofensa, em preliminar, dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil; no mérito, dos arts. 502 e 505também do CPC. Afirma, em síntese, que houve omissão quanto à existência de coisa julgada e a ocorrência da prescrição bienal. Aduz, ainda, que a coisa julgada foi violada, o que deve ensejar a extinção do processo.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.11.2022.
+Quanto àviolação dos arts. 489 e 1.022 do CPC/2015, o recorrente sustenta (fl. 419, e-STJ, grifo acrescido):
+Conforme já mencionado, o acórdão do TJCE que julgou a apelação dos ora recorridos lastreou-se na alegação de que, em virtude da modulação de efeitos realizada pelo STF no julgamento do ARE 709.212 (tema 608 da repercussão geral), a pretensão ao recebimento de valores do FGTS não estaria fulminada pela prescrição quinquenal.
+Porém, a ilustre Corte local deixou de apreciar pontos cruciais para o deslinde da causa, notadamente a existência de coisa julgada sobre a questão e a ocorrência da prescrição bienal.
+Buscando suprir essa grave omissão, o ora recorrente opôs embargos de declaração, expressamente suscitando tais questões. Contudo, o TJCE simplesmente não enfrentou os pedidos.
+Ao apreciar os Embargos de Declaração, o colegiado originário limitou-se a tecer argumentos genéricos, sem enfrentar os dois pontos suscitados pelo Município, a dizer: a existência de coisa julgada e a ocorrência de prescrição bienal. De fato, houve omissão quanto à análise dessas questões, que configuram matérias relevantes para o deslinde da controvérsia.
+Dessa forma, justifica-se a devolução dos autos à origem para novo julgamento dos aclaratórios.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015.NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+(..)
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1.465.390/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 2/3/2021)
+Diante do exposto, dou provimento ao Recurso Especial e determino o retorno dos autos à Corte localpara novo julgamento dos Embargos de Declaração, dessa vez commanifestação expressa acerca da coisa julgada e da prescrição bienal.
+Publique-se.
+Intimem-se.
