@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Tratam os autos de embargos de declaração opostos por NELSON FRANCISCO RODELO - RIO PRETO e NELSON FRANCISCO RODELO contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado (fl. 2.494):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 1.022 E 1.025 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. PROVA PERICIAL QUE AFASTOU A POSSIBILIDADE DE DESMEMBRAMENTO DO IMÓVEL. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 1.022 e 1.025 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. De acordo com a jurisprudência desta Corte, se admite, excepcionalmente, "a penhora de parte do imóvel quando for possível o seu desmembramento em unidades autônomas, sem descaracterizá-lo, levando em consideração, com razoabilidade, as circunstâncias e peculiaridades do caso" (AgRg no AREsp 531.614/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/6/2016, DJe de 27/6/2016).
+3. Na hipótese, o Tribunal de origem, à luz das provas constantes nos autos, concluiu pela impossibilidade de desmembramento do imóvel como defendido pelos agravantes. Nesse contexto, a modificação do acórdão estadual demandaria revolvimento do acervo fático- probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Agravo interno desprovido."
+Nas razões dos aclaratórios, afirma-se que o acórdão padece de contradição, pois, a prova pericial não concluiu pela impossibilidade de desdobramento do imóvel. Ademais, a revaloração das provas que ensejaram a decisão proferida pelo TJSP não demandaria revolvimento do acervo fático-probatório, afastando, assim, o óbice da Súmula 7/STJ.
+Sem impugnação, conforme certidões apresentadas às fls. 2.529-2.531.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a parte embargante defende contradição no julgamento, sustentando que "a prova pericial em nenhum momento afastou a possibilidade de desmembramento do imóvel." (fl. 2.509) Assentou, ainda, que a revaloração das provas apreciadas pela Corte de origem não esbarra no óbice da Súmula 7/STJ.
+O acórdão embargado, por sua vez, assim deixou assentado (fls. 2.500-2.503):
+"Em relação à alegada ofensa aos arts. 805, 872, § 1º, 874, I, e 894 do CPC/2015, melhor sorte não socorre aos recorrentes. Com efeito, os agravantes defendem a possibilidade de desmembramento do imóvel. Entretanto, rejeitando a referida tese, o Tribunal de Justiça de São Paulo assim decidiu (fls. 272-273):
+"Ora, competia aos insurgentes comprovar quaisquer das possibilidades referidas nos incisos deste artigo do Código de Processo Civil,posto que o ônus probatório lhe é devido, uma vez que quem alega tem o dever de provar (art. 373, II, do CPC). Nesse aspecto, o laudo avaliatório produzido por seu assistente técnico (fls. 106/117) não tem o condão de afastar as conclusões contidas no laudo do perito judicial, que além de bem exprimir a metodologia para a avaliação do bem constritado, também respondeu aos quesitos de forma clara e inconteste, principalmente em relação ao fundo de comércio e à possibilidade de desdobro do bem.
+Aliás, está correta a avaliação do perito nomeado no sentido de que o fundo de comércio do estabelecimento comercial pertencente aos executados não pode ser considerado para fins da avaliação ora em estudo,mormente porque o conjunto de bens corpóreos e incorpóreos da pessoa jurídica instalada no imóvel poderá ser exercida, se o caso, em outro local,não havendo, portanto, fundamento em tal pleito.
+O mesmo ocorre em relação à possibilidade de desdobro do bem, que inevitavelmente implicaria no desfazimento do imóvel tal qual erigido ,ainda que abarcando vários lotes, ensejando, consequentemente, sua desvalorização, não havendo como, do ponto de vista lógico, sustentar tal premissa.
+O perito judicial, a respeito de tais pontos, procedeu à avaliação do bem e produziu um laudo devidamente estruturado, com linguagem técnica clara e objetiva, além de materialmente aparelhado, o mesmo ocorrendo na oportunidade que teve de prestar, de forma satisfatória, os esclarecimentos levantados pelas partes, razão pela qual não pode ser desqualificado sem que a parte demonstre de forma fundamentada a ocorrência de erro ou dolo do avaliador, porquanto presumível a sua legitimidade.
+Observa-se do laudo pericial, ainda, que o expert detalhou todas as peculiaridades do imóvel de modo individual, discriminando suas características, tais como material de construção, piso, revestimentos,sistemas de energia elétrica, instalações hidro-sanitárias e outros detalhes que vão muito além da simples análise acerca do bairro onde se encontra, não havendo que se falar, de outro lado, em impertinência acerca da metodologia utilizada ou mesmo em desídia na respostas aos quesitos.
+Diante de tal quadro, inexistindo no processo elementos de convencimento acerca da sustentada incorreção no trabalho determinado pelo juízo, tem-se por correta a avaliação realizada com base nos elementos apresentados no laudo do avaliador, fato que enseja sua homologação, nesta oportunidade ratificada.
+Portanto, mantém-se na íntegra a decisão ora atacada."
+Sobre o tema, tem-se que a iterativa jurisprudência se firmou no sentido de que se admite, excepcionalmente, "a penhora de parte do imóvel quando for possível o seu desmembramento em unidades autônomas, sem descaracterizá-lo, levando em consideração, com razoabilidade, as circunstâncias e peculiaridades do caso"(AgRg no AREsp 531.614/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/6/2016, DJe de 27/6/2016).
+Na hipótese, diante do contexto apresentado, observa-se que o Tribunal de origem concluiu que o desmembramento "inevitavelmente implicaria no desfazimento do imóvel tal qual erigido ,ainda que abarcando vários lotes, ensejando, consequentemente, sua desvalorização, não havendo como, do ponto de vista lógico, sustentar tal premissa.
+Desse modo, a pretensão de modificar o entendimento firmado pela Corte de origem demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. Nesse sentido:
+(..)
+Melhor sorte não socorre à agravante, no que toca ao alegado dissídio jurisprudencial, haja vista que, consoante o entendimento desta Corte Superior, a incidência da Súmula 7/STJ pela alínea "a" também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido:
+(..)
+Com essas considerações, conclui-se que o recurso não merece prosperar." (grifou-se)
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir temas devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É como voto.
