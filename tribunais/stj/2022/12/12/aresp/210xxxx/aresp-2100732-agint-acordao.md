@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BIANCA  FREZZATO  BITTENCOURT  DA  COSTA  E  OUTROS  contra  a  decisão  que  negou  provimento  ao  recurso  especial,  devido  aos  óbices  das  Súmulas  nºs  7  e  568/STJ.
+Em  suas  razões,  os  agravantes  refutam  os  óbices  sumulares  aplicados  na  decisão  recorrida.
+Reiteram  a  alegada  violação  do  art.  485,  III,  do  Código  de  Processo  Civil  de2015,  aduzindo  que  a  parte  autora  quedou-se  inerte  quando  instada  a  dar  prosseguimento  ao  feito.
+Por  essa  razão,  insistem  que  não  deve  prevalecer  o  entendimento  do  acórdão  recorrido  de  que  as  intimações  realizadas  por  meio  do  advogado  e  pessoal  não  seria  m  válidas  para  caracterizar  o  abandono  ca  causa.
+Ao  final,  requerem  a  reconsideração  da  decisão  atacada  para  dar  provimento  ao  recurso  especial.
+Devidamente  intimada,  a  parte  contrária  deixou  transcorrer  o  prazo  para  impugnar  o  recurso  (certidão  de  fl.  812,  e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO.  TÍTULO  EXTRAJUDICIAL.  ABANDONO  DO  FEITO.  EXTINÇÃO.  INTIMAÇÃO  PESSOAL.  ART.  485,  §  1º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  PROVAS.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  preleciona  que  a  hipótese  de  abandono  do  feito  exige  a  intimação  pessoal  da  parte,  com  a  advertência  de  que  a  falta  de  promoção  dos  autos  de  sua  incumbência  no  prazo  acarretará  a  extinção  do  feito,  nos  termos  do  art.  485,  §  1º,  do  CPC/2015.
+3.  Na  hipótese,  o  tribunal  de  origem  consignou  a  ausência  de  intimação  pessoal  do  agravado  para  dar  prosseguimento  ao  feito.  A  revisão  dos  fundamentos  do  acórdão  recorrido  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  o  reexame  de  provas,  procedimentos  vedados  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Com  efeito,  observa-se  que  o  acórdão  estadual  consignou  que  não  houve  intimação  pessoal  do  agravado  para  dar  prosseguimento  à  demanda,  motivo pelo  qual  afastou  a  possibilidade  de  extinção  do  feito  por  abandono.
+É  o  que  se  extrai  da  seguinte  fundamentação:
+"(..)
+Da  leitura  do  trâmite  processual  relatado,  verifica-se  equívoco  da  r.  sentença,  na  medida  em  que  o  comprovante  do  AR  referente  a  intimação  pessoal  do  Banco  apelante,  juntado  no  mov.  410.1,  foi  recebido  pelo  Banco  em  29/06/2020,  de  modo  que  diz  respeito  a  primeira  carta  de  intimação  pessoal,  expedida  no  mov.  393.1,  em  12/06/2020.
+Ocorre  que  desta  primeira  carta  de  intimação  pessoal  houve  manifestação  do  Banco  apelante,  no  sentido  de  desistir  do  imóvel  e  requerer  prazo  para  se  manifestar  sobre  a  pesquisa  Infojud  (mov.  397.1).
+O  que  se  observa  do  andamento  processual  relatado,  é  que,  mesmo  o  Banco  apelante  não  tendo  recolhido  custas  para  o  envio  da  primeira  carta  de  intimação  pessoal,  a  Serventia  enviou  a  carta  de  intimação,  que  foi  recebida  pelo  Banco  em  29/06/2020  e  juntada  no  mov.  410.1.
+Ocorre  que,  mesmo  antes  de  receber  a  esta  intimação  pessoal,  o  Banco  apelante  já  havia  se  manifestado  nos  autos  (mov.  397.1,  em  19/06/2020).
+Desse  modo,  verifica-se  que  o  Banco  apelante  não  foi  intimado  pessoalmente  da  segunda  carta  de  intimação  pessoal,  expedida  pela  Serventia  em  15/07/2020,  no  mov.  406.1,  para  que  no  prazo  de  05  (cinco)  dias  se  manifestasse,  sob  pena  de  extinção  sem  resolução  do  mérito  na  forma  do  art.  485,  II,  CPC.
+Portanto,  diante  da  ausência  de  intimação  pessoal  da  parte  autora  para  dar  prosseguimento  ao  feito,  não  há  que  se  falar  em  extinção  por  abandono,  eis  que  não  cumpridas  as  condições  para  tanto"  (fl.  642,  e-STJ).
+Dessa  maneira,  a  revisão  do  entendimento  do  acórdão  impugnado  demandaria  o  reexame  do  contexto  fático-probatório,  procedimento  inadmissível  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ:  "A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EXTINÇÃO  DO  PROCESSO  SEM  JULGAMENTO  DE  MÉRITO.  ABANDONO  DA  CAUSA.  REQUERIMENTO  DO  RÉU.  INTIMAÇÃO  PESSOAL  DA  PARTE.  ACÓRDÃO  EM  SINTONIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  83/STJ.  RECURSO  NÃO  PROVIDO.
+1.  O  acórdão  recorrido  decidiu  em  sintonia  com  a  jurisprudência  do  STJ  de  que  a  extinção  do  feito  por  abandono  de  causa  pela  parte  autora  exige  o  requerimento  da  ré,  a  intimação  pessoal  da  autora  para  que  a  falta  seja  suprida  no  prazo  de  48  horas,  antes  da  extinção  do  feito.  Precedentes.
+2.  A  alteração  das  premissas  fáticas  adotadas  pelo  eg.  Tribunal  de  origem  exige  o  reexame  do  substrato  fático-probatório  contido  nos  autos,  providência  que,  na  via  do  recurso  especial,  encontra  óbice  na  Súmula  7  do  Superior  Tribunal  de  Justiça.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1244268/MS,  Rel.  Ministro  LÁZARO  GUIMARÃES  (DESEMBARGADOR  CONVOCADO  DO  TRF  5ª  REGIÃO),  QUARTA  TURMA,  julgado  em  16/08/2018,  DJe  23/08/2018  -  grifou-se).
+Além disso,  verifica-se  que  o  entendimento  do  tribunal  de  origem  encontra-se  em  harmonia  com  a  jurisprudência  desta Corte,  firmada  no  sentido  de  haver  necessidade  de  prévia  intimação  do  advogado  e  intimação  pessoal  da  parte  para  dar  andamento  ao  processo,  antes  de  extinguir  o  feito  por  abandono.
+A propósito:
+"PROCESSUAL  CIVIL.  EXECUÇÃO  FISCAL.  ABANDONO  DE  CAUSA.  ART.  485,  III,  DO  CPC.  OBRIGATORIEDADE  DE  INTIMAÇÃO  PESSOAL  FIXANDO  PRAZO  PARA  PROMOVER  O  ANDAMENTO  DO  FEITO,  CUJO  DESATENDIMENTO  SERÁ  SANCIONADO  COM  SENTENÇA  TERMINATIVA  SEM  MÉRITO.  ART.  485,  §  1º,  DO  CPC.
+1.  O  término  do  processo  sem  resolução  do  mérito,  na  hipótese  de  abandono  (art.  485,  III,  do  CPC),  exige  que  a  parte  seja  intimada  pessoalmente,  com  a  advertência  de  que  a  falta  de  promoção  dos  autos  de  sua  incumbência,  no  prazo  derradeiro  (que  é  de  cinco  dias,  no  atual  CPC),  acarretará  a  extinção  do  feito.  Exegese  do  art.  485,  §  1º,  do  CPC.
+2.  A  regra  acima  já  vinha  prevista  no  CPC/1973,  no  art.  267,  §  1º  (a  única  diferença  é  que  o  prazo  para  restabelecer  o  andamento  do  feito  era  de  quarenta  e  oito  horas).  A  jurisprudência  do  STJ,  em  relação  ao  referido  dispositivo  legal,  exigia  que  a  sentença  de  extinção  fosse  precedida  de  intimação  pessoal  abrindo  o  específico  prazo  (então  de  48h,  conforme  dito)  para  que  fosse  promovido  o  andamento  do  feito,  sob  pena  de  extinção.
+3.  No  caso  concreto,  o  Tribunal  de  origem  manteve  a  sentença  de  extinção  da  Execução  Fiscal  por  abandono,  consignando  que  a  Fazenda  credora  foi  cientificada  pessoalmente  da  penhora  deferida,  sem  apresentar  manifestação.
+4.  Há  dois  equívocos  que  conduzem  à  reforma  do  julgado:  em  primeiro  lugar,  a  extinção  do  feito  por  abandono  tem  por  premissa  que  a  parte,  por  mais  de  trinta  (30)  dias,  não  promoveu  os  atos  e/ou  diligências  que  lhe  competiam.  Ademais,  verificado  o  transcurso  do  prazo  in  albis,  compete  à  autoridade  judicial  determinar  a  sua  intimação  pessoal  para  que,  no  prazo  de  cinco  dias  ou  de  quarenta  e  oito  horas  (conforme  vigente,  ao  tempo  da  intimação,  o  novo  ou  o  revogado  CPC),  promovesse  o  andamento  do  feito,  sob  pena  de  extinção.
+5.  Ao  que  se  verifica,  o  ato  de  cientificar  a  Fazenda  Pública  da  realização  da  penhora  não  lhe  transferiu  a  prática  de  qualquer  ato  processual,  uma  vez  que  o  ato  subsequente  (alienação  judicial)  poderia  ser  promovido  ex  officio  pelo  juiz.
+6.  Não  bastasse  isso,  ao  que  consta  do  voto  condutor  do  acórdão  hostilizado,  a  extinção  do  feito  teria  decorrido  da  simples  ausência  de  resposta  do  ente  público  à  cientificação  da  penhora  realizada  nos  autos,  quando,  conforme  acima  demonstrado,  a  sentença  somente  poderia  ser  proferida  se  previamente  tivesse  havido  intimação  pessoal  concedendo  à  exequente  prazo  para  que  esta  praticasse  algum  ato  privativo,  indispensável  para  o  andamento  do  feito,  cujo  desatendimento  seria  sancionado  com  a  extinção  por  abandono  de  causa.
+7.  Recurso  Especial  provido."  (REsp  1.738.705/MT,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  22/5/2018,  DJe  23/11/2018).
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO-OCORRÊNCIA.  ABANDONO  DE  CAUSA.  EXTINÇÃO  DO  FEITO.  NECESSIDADE  DE  REQUERIMENTO  DO  RÉU.  INCIDÊNCIA  DA  SÚMULA  83  DESTA  CORTE.  RECURSO  NÃO  PROVIDO.
+1.  O  acórdão  recorrido  analisou  todas  as  questões  necessárias  ao  deslinde  da  controvérsia,  não  se  configurando  omissão  alguma  ou  negativa  de  prestação  jurisdicional.
+2.  A  extinção  do  processo  por  abandono  de  causa  depende  de  prévio  requerimento  do  réu.  Incidência  da  Súmula  83/STJ.
+3.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  308.487/GO,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  28/5/2013,  DJe  10/6/2013).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
