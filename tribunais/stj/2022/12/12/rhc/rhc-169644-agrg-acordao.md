@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RAFIQUL ISLAM MANIKinterpõe agravo regimental contra decisão de minha relatoria que denegou a ordem no habeas corpus por ele impetrado, em que postulava a revogação da custódia preventiva ou, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão, consoante as providências elencadas no art. 319 do CPP.
+Nas razões do regimental, a defesa aduz, resumidamente, que o estado de liberdade do insurgente não oferece qualquer risco de reiteração de delitiva, visto que não exerce função de liderança na suposta associação criminosa direcionada à migração ilegal e assinala os predicados que lhe são favoráveis (fls. 3.755-3.754).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja provido o recurso e concedida a ordem no habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DENEGAÇÃO DA ORDEM. MIGRAÇÃO ILEGAL E ASSOCIAÇÃO CRIMINOSA. REAPRECIAÇÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O decreto prisional encerra motivação idônea e corrobora a periculosidade do agente, em prejuízo da liberdade de locomoção para a finalidade de acautelar a ordem pública. Trata-se de paciente preso por suposta associação direcionada à migração ilegal de estrangeiros.Custódia preventiva mantida diante do risco concreto de reiteração delitiva.
+2. "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (RELATOR):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão. Mantenho, assim, a decisão agravada por seus próprios fundamentos.
+Na ocasião do indeferimento da ordem, verifica-se a fundamentação, no que interessa, nos seguintes termos (fls. 3.745-3.750, destaques do original):
+ ..  Os elementos apresentados afastam a plausibilidade jurídica do direito tido como violado. Com efeito, o Juiz de direito destacou o modus operandi empregado na ação delituosa quando mencionou que o acusado é suposto integrante de organização criminosa direcionada à promoção de migração ilegal de estrangeiros provenientes da Ásia com destino aos Estados Unidos, com o fim de obtenção de vantagem econômica.
+O decisum ressalta que as autoridades policiais, por meio de interceptações telefônicas autorizadas judicialmente, constataram que o réu desempenharia, em tese, função de liderança para o sucesso da referida atividade ilícita, haja vista que o Brasil se constituiria em um dos países que serviriam de passagem dos imigrantes.
+Ainda, menciona que o agente disporia de vínculos financeiros com demais investigados e haveria robustos indícios de que o paciente coordenaria a permanência dos contrabandeados em imóveis no bairro do Brás, na capital paulista, bem como a empreitada criminosa envolveria a criação de pessoas jurídicas para fins espúrios.
+Em oportunidade anterior, no decorrer de procedimento investigatório denominado - Operação "Estação Brás - Bengal Tiger" - os policiais federais desarticularam outra associação que perpetrava crime análogo. Todavia, o teor das conversas telefônicas, o conteúdo de documentos e dos e-mails obtidos para a apuração da hipótese sub judice, apontaram possível vinculação do postulante com indiciados na referida operação e com outros supostos coautores que, atualmente, encontram-se foragidos.
+O Tribunal a quo ressalta que na peça exordial, o Parquet narra ser o réu responsável pelos contatos iniciais com os aliciadores que residiriam nos países das vítimas, bem como por "deter a logística para o ingresso e a saída ilegal de estrangeiros no Brasil e em outros países", além de comunicar-se "com os demais membros da organização criminosa situados nos lugares que compõem a rota utilizada pelo grupo" (fl. 3.694, destaquei).
+Quanto ao periculum libertatis, o Magistrado o respaldou a fim de estancar a atividade ilícita, pois "nem mesmo a realização de anterior operação policial inibiu a atuação da organização criminosa, conforme ressaltou o MPF" (fl. 3.692).
+Tais circunstâncias denotam a presença de motivação idônea para a decretação da custódia preventiva, pois ancorada em dados concretos dos autos, haja vista ser efetiva a gravidade da conduta imputada ao agente, dado o modo de agir empregado nas ações delituosas.
+Assim, o risco de reiteração delitiva enseja a necessidade de manutenção da segregação cautelar, afastada, por conseguinte, a alegação de suposta configuração de constrangimento ilegal em detrimento do paciente e a possibilidade de imposição de medidas cautelares  .. .
+A meu sentir, afigura-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que denegou a ordem no habeas corpus. E, sob o pretexto das aludidas condições subjetivas favoráveis do paciente e da ausência de fundamentação do decisum quanto à sua periculosidade, visa a defesa à rediscussão de matéria já apreciada.
+A propósito, em consonância com o entendimento jurisprudencial desta Corte Superior:
+ ..  é assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos  ..  (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
+Publique-se e intimem-se.
