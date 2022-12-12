@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público de Santa Catarina ao acórdão, da minha lavra, em que a Sexta Turma negou provimento ao agravo regimental interposto contra a decisão em que, acolhendo o parecer do Ministério Público Federal,concedi a ordem para assegurar à paciente o cumprimento da pena em prisão domiciliar. Esta, a ementa (fl. 509):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. EXECUÇÃO DA PENA. REGIME SEMIABERTO. PRISÃO DOMICILIAR. GENITORA DE CRIANÇAS MENORES DE 12 ANOS. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE PERICULOSIDADE DA PACIENTE PARA OS INFANTES. CONCESSÃO DO BENEFÍCIO. PRECEDENTES. PARECER ACOLHIDO.
+Agravo regimental improvido.
+Sustenta o embargante, em suma, a existência de omissão no acórdão embargado, argumentando queo MPSC fulcrou sua insurgência na ofensa aos princípios constitucionais da igualdade e da legalidade (art. 5º, caput e II, da CF), além de traçar o panorama atual da jurisprudência dos Tribunais Superiores, a princípio, em sentido oposto à decisão agravada(fl. 521).
+Requer, assim, sejam acolhidos os embargos de declaração para suprir o vício apontado e conferir efeitos infringentes a fim de afastar a concessão da prisão domiciliar em execução penal em regime semiaberto, ressalvada a possibilidade de nova impetração calcada na demonstração de sua imprescindibilidade aos cuidados da prole (fl. 526).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EMAGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. EXECUÇÃO DA PENA. REGIME SEMIABERTO. PRISÃO DOMICILIAR. GENITORA DE CRIANÇAS MENORES DE 12 ANOS. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE PERICULOSIDADE DA PACIENTE PARA OS INFANTES. CONCESSÃO DO BENEFÍCIO.INTENÇÃO DE REDISCUTIR O MÉRITO DA IMPETRAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS. VIOLAÇÃO DE PRINCÍPIOS E PRECEITOS CONSTITUCIONAIS. COMPETÊNCIA EXCLUSIVA DO STF.
+Embargos de declaração rejeitados.
+VOTO
+Não obstante a opinião do embargante, ressalto ser incabível a oposição dos embargos de declaração para a rediscussão da tese jurídica já debatida eaplicada pelo órgão julgador. Isso porque os embargos de declaração somente podem ser utilizados quando, na decisão embargada, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o Juiz ou o Tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Na hipótese, não há omissão a ser sanada. Ora, ficou bem claro no acórdão embargado que,a hipótese vertente está em conformidade como a jurisprudência desta Corte, que admite a possibilidade de concessão da prisão domiciliar - fundada no art. 117, III, da LEP - aos presos que cumprem pena em regime prisional diverso do aberto, destacando que o crime não foi cometido com violência ou grave ameaça à pessoa nem contra descendente. Assim, e ausentes elementos que indiquem que o benefício não atende os melhores interesses das crianças, tem-se como demonstrada a excepcionalidade do caso a autorizar a concessão da prisão domiciliar à paciente (fl. 479) - (fl. 513).
+Nesse contexto, verifica-se que o embargante, na verdade, não se conforma com a conclusão alcançada, buscando, mais uma vez, rediscutir, com intuito infringente, questões já devidamente enfrentadas e decididas, providência incompatível com a via eleita.
+Como é cediço, o descontentamento com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que não se prestam para rediscutir a lide, por mais que a parte sustente insatisfação com as respostas dadas.
+Urge ressaltar, ademais, que não é cabível a oposição de embargos de declaração com a finalidade de obter pronunciamento do Superior Tribunal de Justiça em matéria constitucional, ainda que para fins de prequestionamento (EDcl no AgRg no HC n. 473.458/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 4/6/2019).
+Impertinente, portanto, a pretensão do embargante.
+Em face do exposto, rejeito os embargos de declaração.
