@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor deFELIPE DE BARROS LEITE, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo - HC Criminal 2237698-56.2022.8.26.0000.
+Consta dos autos que o paciente foi preso, em flagrante, em 29/4/2020,pela suposta prática dos crimes previstos no art. 33, caput, e no art. 35, caput, c. c. o art. 40, III e IV, todos da Lei n.11.343/2006 e art. 69 do Código Penal. A custódia foi convertida em preventiva no dia 30/4/2020.
+Impetrado préviohabeas corpusperante o Tribunal de origem, não foi conhecido, em face de ausência de competência daquele sodalício para julgamento domandamus(e-STJ, fls. 349-351).
+Nesta Corte, a defesa alegaem síntese, a existência de constrangimento ilegal na hipótese, "haja vistao não reconhecimento da ausência de fundada suspeita da posse de corpo de delito e o reconhecimento da invasão de domicilio,  por não haver  fundadas razões para o ingresso forçado dos policiais militares sem a autorização expressa do proprietário e sem o mandado judicial" (e-STJ, fl. 7).
+Aduz que "a abordagem dos policiais militares, após "receberem uma denúncia", desacompanhada de outros elementos concretos que indiquem a ocorrência de crimes, não legitima a busca e apreensão pessoal e veicular, fundamentada no art. 240, § 2º, do Código de Processo Penal, porquanto exige-se a presença de fundada suspeita para que o procedimento persecutório esteja autorizado e, portanto, válido" (e-STJ, fl. 11).
+Pleiteia, liminarmente e no mérito, a concessão da ordem, no intuito de que seja reconhecida a nulidade das "provas obtidas ilegalmente" (e-STJ, fl. 42), com o reconhecimento da "ilegalidade da busca pessoal e veicular, bem como a invasão de domicílio,  diante da  entrada forçada dos agentes em seu "lava jato"" (e-STJ, fl. 42).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado
+Passo ao exame da impetração, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+Desde logo, convém anotar que, embora a defesa sustente a tese de nulidade das provas supostamente obtidas mediante busca pessoal e veicular ilegal e invasão de domicílio, observa-se que tais questõesnão foramobjeto de análise no acórdão recorrido. Logo, não tendo sido analisada a referida tese pelo juízo de origem, inviável seu enfrentamento por este Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..  5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância. .. .
+(HC 400.229/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+Ante o exposto, indefiro liminarmente ohabeas corpus, nos termos do art. 210 do RISTJ.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
