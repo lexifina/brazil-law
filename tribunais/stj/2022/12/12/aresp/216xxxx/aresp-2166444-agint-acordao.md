@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por TRANSPORTES COLETIVOS TREVO S.A.contra decisão de minha lavra,e-STJ fls. 484/487,em queconheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lheprovimento, considerando a ausência de afronta aoart. 1.022 do CPC/2015 e a incidência da Súmula 7 do STJ.
+Sustenta a parte recorrenteque houve negativa de vigência ao artigo 1.022, I e II, do CPC/2015, pois "o decisum recorrido se ressente de esclarecimentos quanto à ausência de nexo de causalidade entre o incidente relatado e ação ou omissão" que lhe foi imputada.
+Afirma, ainda, que o referido enunciado sumular não se aplica à hipótese, bastando "seja revalorada a prova realizada", a qual dá conta de que não participouda relação causal nos fatos descritos na exordial,com novo enquadramento jurídico dos fatos (e-STJ fls. 491/496).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma .
+Impugnação apresentada às e-STJ fls. 500/504.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACIDENTE EM TRANSPORTE COLETIVO. RESPONSABILIDADE DA CONCESSIONÁRIA. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Em demanda indenizatória por danos oriundos de acidente ocorrido em transporte coletivo urbano (queda no interior de ônibus), a Corte estadual se convenceu de que "a parte autora logrou êxito em comprovar suficientemente o fato constitutivo de seu direito, e, não tendo sido demonstrada qualquer excludente de responsabilidade por parte da empresa ré, a manutenção da sentença é medida imperativa", de modo que esbarra no referido óbice sumular divergir da compreensão firmada na origem.
+4. Agravo interno desprovido.
+VOTO
+Nada obstante as razões invocadas, adecisão recorrida não merece reparos.
+Não merece acolhimento a pretensão de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal de origem se manifestou de maneira clara e suficientemente fundamentada acerca da comprovação de responsabilidade da recorrente pelos danos oriundos doevento danoso.
+No mérito, os autos cuidam deindenização postulada por acidente ocorrido em transporte coletivo urbano (queda no interior de ônibus), demanda julgada parcialmente procedente para condenar a ré, ora recorrente, na indenização pleiteada.
+A Corte local manteve a sentença por se convencer de que "a parte autora logrou êxito em comprovar suficientemente o fato constitutivo de seu direito, e, não tendo sido demonstrada qualquer excludente de responsabilidade por parte da empresa ré, a manutenção da sentença é medida imperativa."
+Anotou, ainda, "da análise da prova produzida no curso da instrução processual" que "o evento, de fato, foi devidamente comprovado não tendo a ré demonstrado qualquer circunstância hábil a afastar sua responsabilidade", conforme o trecho a seguir transcrito (e-STJ fl. 366):
+O caso em apreço trata de típica hipótese de responsabilidade civil objetiva.
+Tal assertiva tem por base a redação dada pelo artigo 37, §6º, da Constituição Federal1 que, de maneira inquestionável, sedimentou, em nossa doutrina jurídica, a responsabilidade objetiva das empresas que prestam serviços públicos, consubstanciada na teoria do risco em que a obrigação de indenizar existe ainda que a conduta não seja culposa.
+Assim, para a configuração da responsabilidade civil dessa natureza devem ser demonstrados, tão somente, a conduta, o dano provocado pelo agente público e o nexo de causalidade, sem que haja perquirição de culpa. Desse modo, a responsabilização somente poderá ser afastada nos casos em que verificada a culpa exclusiva da vítima, a ocorrência de caso fortuito, força maior ou de fato de terceiro, circunstâncias cuja prova da existência impõe-se à prestadora do serviço público nos termos do previsto pelo artigo 373, inciso II, do Código de Processo Civil.
+Feitas estas considerações, da análise da prova produzida no curso da instrução processual, verifica-se que o evento, de fato, foi devidamente comprovado não tendo a ré demonstrado qualquer circunstância hábil a afastar sua responsabilidade. Por consequência, inequívoco é o dever da prestadora de serviço de responder pelos prejuízos reclamados.
+Saliento, que o próprio condutor do ônibus, Sandro Sutil de Lima, afirma que a suspensão do ônibus chegou a levantar quando da frenagem e que, antes do acidente, a autora se deslocava normalmente.
+Logo, considerando que a parte autora logrou êxito em comprovar suficientemente o fato constitutivo de seu direito, e, não tendo sido demonstrada qualquer excludente de responsabilidade por parte da empresa ré, a manutenção da sentença é medida imperativa. Sobretudo quando considerado que eventual dúvida, na situação em apreço, deve ser interpretada favoravelmente ao consumidor em prol do qual milita, igualmente, a cláusula de incolumidade.
+De outra parte, no que tange ao pleito indenizatório por danos morais, inexiste qualquer dúvida da sua viabilidade no caso concreto em razão da comprovada ofensa perpetrada à integridade física da transportada. Quanto ao ponto, destaco que a reparabilidade do dano subjetivo - alçada ao plano constitucional, no artigo 5º, incisos V e X, da Carta Política, e expressamente consagrada na lei substantiva civil, em seus artigos 186 e 927 - exige que o julgador arbitre, pautado nos princípios da razoabilidade e proporcionalidade, um valor justo ao ressarcimento do dano extrapatrimonial.
+Impõe-se, assim, que o magistrado atente às condições do ofensor, do ofendido e do bem jurídico lesado, assim como à intensidade e duração do sofrimento, e à reprovação da conduta do agressor, não se olvidando, contudo, que o ressarcimento da lesão ao patrimônio moral do indivíduo deve ser suficiente para recompor os prejuízos suportados, sem importar em enriquecimento sem causa.
+Ainda, no presente caso, não se pode afastar a gravidade das sequelas impostas na realização das atividades cotidianas da autora, privação nos cuidados com seu esposo, a duração do tratamento e as dores advindas da lesão em sua coluna. (Grifos acrescidos).
+Em relação à alegada violação do(s) art(s). 373, I e II, do Código de Processo Civil, 186 e 927 do Código Civil/2002, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVILDO ESTADO. EXCLUDENTE DA RESPONSABILIDADE PELO DANOS CAUSADOS. ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+Da leitura da conclusões do Tribunal de origem, não se verifica discussão a respeito do conteúdo dos dos arts. 188, I, do CC/2002 e 373, I, do CPC/2015, o que atrai a incidência das Súmula 282 e 356/STF pela ausência de prequestionamento.
+Ademais, a verificação da ocorrência de supostos atos ilícitos e do dano moral, bem como a da inexistência de nexo causal, demandaria necessariamente o reexame do conjunto fático-probatório dos autos, procedimento inviável em sede de recurso especial ante o óbice previsto na Súmula 7/STJ.
+Agravo interno não provido.
+(AgInt no AREsp n. 1.431.214/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/5/2019, DJe de 14/5/2019)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
