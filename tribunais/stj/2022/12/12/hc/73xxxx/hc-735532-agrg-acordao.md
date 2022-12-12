@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental emhabeas corpus interposto por Claudinei Carpi e Narcizo Carpicontra a decisão, de minha Relatoria, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 168):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL, POR SER DEVIDO O RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. QUESTÃO DA INSIGNIFICÂNCIA NÃO DEBATIDA PELO TRIBUNAL E NEM MESMO PELA DEFESA QUANDO DISCORRE NA INICIAL. APONTAMENTO DE AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA. INÉPCIA DA DENÚNCIA NÃO CONFIGURADA. INICIAL ACUSATÓRIA QUE PREENCHE OS REQUISITOS DO ART. 41 DO CPP. AUSÊNCIA DE ILEGALIDADE. DEVIDO O PROSSEGUIMENTO DA AÇÃO PENAL.
+Sustentam os agravantes que a denúncia não indica qual a contribuição dos pacientes para subtração do arado antigo. Aduzem que não foi mencionado de que forma teria o furto ocorrido, mas que apenas os agravantes seriam os autores do furto.
+Afirmam que a denúncia deveria ser clara, precisa e completa e apresentar as circunstâncias do fato criminoso, o que não foi feito.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EMHABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. PREMATURIDADE NO TRANCAMENTO DA AÇÃO PENAL. DEVIDO O PROSSEGUIMENTO DA AÇÃO PENAL. APONTAMENTO DE AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA. INÉPCIA DA DENÚNCIA NÃO CONFIGURADA. INICIAL ACUSATÓRIA QUE PREENCHE OS REQUISITOS DO ART. 41 DO CPP.
+1.Existindo indícios de materialidade e autoria, com as palavras da vítima e de testemunhas, além do boletim de ocorrência, como consta do acórdão hostilizado, não há falar em inépcia da denúncia.
+2. Otrancamento da persecução penal ou de inquérito policial, em sede de habeas corpus, constitui medida excepcional, não sendo o caso dos presentes autos.
+3.Agravo regimental improvido.
+VOTO
+Não há o que ser alterado na decisão que denegou a ordem de habeas corpus. A inicial acusatória está de acordo com o que exige o art. 41 do Código de Processo Penal, pois foramapresentados o fato criminoso, a suposta prática do delito de tentativa de furto qualificado, a qualificação dos réus, que estariam em concurso de agentes, além da capitulação do crime e o local, data e nome da vítima. Confira-se, novamente, parte da denúncia (fl. 13):
+ ..  No dia 19 de janeiro de 2020 (domingo), por volta das 19h 12min, na localidade de Linha Lageado dos Pintos, Interior, em Concórdia/SC, os denunciados Claudinei Carpi e Narcizo Carpi, em comunhão de esforços e unidade de desígnios, agindo em flagrante demonstração de ofensa ao patrimônio alheio, tentaram subtrair para si ou para outrem, um arado antigo, avaliado em R$ 190,00, de propriedade do ofendido Joari Marcos Bernardi. Assim procedendo, os denunciados Claudinei Carpi e Narcizo Carpi incorreram nas sanções do artigo 155, § 4º, inciso IV, cumulado com o artigo 14, inciso II, ambos do Código Penal  ..
+Existindo indícios de materialidade e autoria, como as palavras da vítima e de testemunhas, além do boletim de ocorrência, como consta do acórdão hostilizado, não há falar em inépcia da denúncia. Como já mencionado na decisão, o trancamento da persecução penal ou de inquérito policial, em sede de habeas corpus, constitui medida excepcional, somente admitida quando restar demonstrado, sem a necessidade de exame do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade ou a ausência de indícios suficientes da autoria ou prova da materialidade (AgRg no HC n. 770.592/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2022).
+Na hipótese, não se mostra presente flagrante ilegalidade a ponto de obstar o prosseguimento da ação penalquando os pacientes terão a oportunidade de se defenderem e pedirem a aplicação do princípio da insignificância, se for o caso, e terão garantidos os princípios do contraditório, da ampla defesa e do devido processo legal.
+Ante o exposto, nego provimento ao agravo regimental.
