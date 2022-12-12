@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por LUIZ ANTONIO TAVARES DE SÁ, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 133-147):
+"RECURSO EM SENTIDO ESTRITO. ESTELIONATO. DECISÃO QUE EXTINGUIU A PUNIBILIDADE DO ACUSADO PELA OCORRÊNCIA DA DECADÊNCIA E RENÚNCIA DO DIREITO DE REPRESENTAÇÃO. APELO MINISTERIAL REQUERENDO A REFORMA DA R. DECISÃO, PARA QUE SE DETERMINE O PROSSEGUIMENTO DO PRESENTE FEITO, ATÉ FINAL EXAME DO MÉRITO DA AÇÃO PENAL, NOS TERMOS DA DENÚNCIA. ACOLHIMENTO. MODIFICAÇÃO PROMOVIDA PELO PACOTE ANTICRIME QUANTO À CONDIÇÃO DE PROCEDIBILIDADE DA AÇÃO PENAL, EM CRIMES DE ESTELIONATO, QUE POSSUI NATUREZA ESPECIFICAMENTE PROCEDIMENTAL E. PORTANTO, NÃO PODE RETROAGIR EM BENEFÍCIO DO ACUSADO, SOB RISCO DE INSEGURANÇA JURÍDICA E VIOLAÇÃO DO ATO JURÍDICO PERFEITO. RECURSO PROVIDO PARA CASSAR A R. DECISÃO RECORRIDA, PROSSEGUINDO-SE A AÇÃO PENAL EM SEUS ULTERIORES TERMOS".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 2º, parágrafo único, e 171, § 5º, do CP. Aduz para tanto, em síntese, que a exigência de representação da vítima no crime de estelionato, introduzida pela Lei 13.964/2019, seria aplicável ao caso dos autos, tendo em vista o princípio da retroatividade benéfica.
+Com contrarrazões (e-STJ, fls. 177-180), o recurso especial foi inadmitido na origem (e-STJ, fls. 183-184), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 216-219).
+É o relatório.
+Decido.
+A decisão que inadmitiu o recurso especial na origemfoi pautada na incidência daSúmula83/STJ; no entanto, a parteagravante não impugnou este fundamento da decisão agravada.
+Afinal, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+Em seu agravo, a defesa se limita a afirmar que a Súmula 83/STJ não se aplicaria aos recursos especiais interpostos pela alínea "a" do art. 105, III, da CR/1988, argumentoque já foi diversas vezes rejeitados por este Tribunal Superior, como exemplificam os seguintes arestos:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE CONTRABANDO. CONDENAÇÃO CONFIRMADA PELO TRIBUNAL REGIONAL. RESP INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARESP NÃO CONHECIDO. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+ ..
+7. Com efeito,a pretensão recursal não haveria de prosperar, uma vez que incidente na espécie a Súmula n. 83/STJ, de possível aplicação tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ. Gize-se, também, que a Súmula 83/STJ não está condicionada à existência de precedente submetido à sistemática dos recursos repetitivos, bastando a demonstração de que o acórdão recorrido está no mesmo sentido da jurisprudência consolidada desta Corte (AgInt no AREsp 1585383/SC, Rel. Ministro HERMAN BENJAMIN, DJe 07/05/2020).
+8. Agravo regimental improvido".
+(AgRg no AREsp n. 2.056.912/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 83/STJ.
+1. Em atenção ao princípio da dialeticidade, devem ser explicitados os motivos pelos quais não há consonância do acórdão recorrido com a jurisprudência do STJ, não bastando para tanto a simples afirmação de que a Súmula 83/STJ foi impugnada especificamente.
+2. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+3. A Súmula 83/STJ é aplicável tanto ao recurso especial interposto com fundamento na alínea "c" do permissivo constitucional, como àquele interposto com base na alínea "a", conforme reiterada jurisprudência desta Corte Superior.
+4. Agravo regimental improvido".
+(AgRg no AREsp n. 1.975.211/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022.)
+Ou seja: não basta dizer que a Súmula 83/STJ seriainaplicável, como fez a defesa.Caberia à parte agravante impugnar tal fundamentotrazendo precedentes deste STJ contemporâneos ou supervenientes a seu favor - ou pelo menos demonstrando alguma distinção entre os julgados mencionados na decisão agravada e o caso dos autos -, o que não fez.
+Por conseguinte, a Súmula 182/STJ impede o conhecimento da irresignação recursal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ,não conheçodo agravo em recurso especial.
+Publique-se. Intimem-se.
