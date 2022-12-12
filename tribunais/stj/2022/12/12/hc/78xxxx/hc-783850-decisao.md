@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de LUCAS VENTURA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0007901-20.2022.8.26.0496).
+Consta dos autos ter o Juízo das execuções penais indeferido o pedido de afastamento da hediondez, por equiparação, do delito de tráfico de drogas.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao agravo em execução, nos termos da seguinte ementa(e-STJ fl. 16):
+Execução penal. Pleito de retificação de cálculo para progressão de regime para que seja exigido o cumprimento de 40% da pena fixada para o crime hediondo. Sentenciado que, além da condenação por tráfico de drogas, ostenta condenação pelo cometimento do outro delito da mesma natureza. Tratando-se de reincidente específico na prática de delitos equiparados a hediondos, correto que, para o preenchimento do requisito objetivo, de ordem temporal, seja exigido o desconto de 60% das penas. A reincidência específica do agravante já foi reconhecida no julgamento do Agravo de Execução nº 0002695-59.2021.8.26.0496 por esta 16ª Câmara de Direito Criminal, ficando inclusive expressa a inviabilidade de concessão de livramento condicional (art. 83, V,in fine, CP). Pleito defensivo inadmitido. Agravo não provido.
+No presentewrit, a Defensoria sustenta, em síntese, que o art. 2º, § 2º, da Lei n.8.072/1990 foi revogado pela Lei n. 13.964/2019, a partir do que o delito de tráfico de drogas não pode mais ser equiparado a hediondo, inclusive para fins de progressão de regime.
+Busca, assim, liminarmente e no mérito, sejaafastadaa equiparação do crime de tráfico de drogas a crime hediondo; e, por conseguinte, sejam aplicadas as frações relativas aosdelitos comuns para fins de progressão de regime e livramento condicional.
+Indeferido o pedidoliminar (e-STJ fls. 163/164)e prestadas as informações solicitadas (e-STJ fls. 175/200),o Ministério Público Federal opinou pelo não conhecimento da impetração e concessão da ordem de ofício (e-STJ fls. 204/209).
+É, em síntese, o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem, ao negar provimento ao agravo defensivo, manteve a decisão de primeiro grau que indeferiu o pedido de retificação do cálculo da pena, consignando, paratanto, que(e-STJ fls. 17/19):
+Esta C. 16ª Câmara de Direito Criminal, ao julgar o Agravo de Execução nº 0002695-59.2021.8.26.0496 interposto pelo Ministério Público, reconheceu, por unanimidade, a reincidência específica do ora agravante e afastou a possibilidade de concessão do livramento condicional sob os seguintes fundamentos:  .. .
+Nota-se, portanto, que a reincidência específica do agravante foi amplamente discutida e reconhecida, razão por que não há como deixar de ser aplicada a exigência do desconto de 60% (3/5) das penas impostas pelos crimes hediondos ou a ele equiparados para a obtenção da progressão de regime, assim como já decidido nos autos do Agravo de Execução acima citado.
+Ao contrário do que alega a defesa, o paciente é reincidente específico em crime equiparado a hediondo, o acórdão combatido é claro ao apontar duas condenações por tráfico de drogas e uma por tráfico privilegiado, razão pela qual não cabe a fração pretendida pela defesa para fins de progressão de regime.
+Nomesmo sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGENTE QUE CUMPRE PENA PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. REINCIDENTE ESPECÍFICO. REQUISITO OBJETIVO. APLICAÇÃO DO PERCENTUAL DE 60% DO CUMPRIMENTO DA PENA PARA OBTER O BENEFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior, inclusive com o julgamento de feito segundo o rito dos processos repetitivos, pacificou o entendimento de que o apenado que cumpre reprimenda por ter praticado crime hediondo ou equiparado somente deve adimplir 60% (sessenta por cento) da pena para requerer a progressão de regime caso a reincidência decorra de crime hediondo ou equiparado.
+2. De outra parte, registra-se que "a reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios" (REsp n. 1.957.657/MG, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 26/11/2021).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 752.575/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. LEI N. 13.964/2019. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. APLICAÇÃO DO INCISO VII DO ART. 112 DA LEP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A alteração promovida pela Lei n. 13.964/2019 no art. 112 da Lei de Execuções Penais estabeleceu novos lapsos para a progressão de regime.
+2. Hipótese de aplicação do percentual de 60% previsto no inciso VII do art. 112 da Lei de Execução Penal, conforme reconhecido pelas instâncias ordinárias, dado que o agravante, registrando uma condenação pelo art. 12 da Lei 6.368/76, com cumprimento de pena em 20/6/2012, veio a praticar o tráfico de drogas em 17/3/2015, com posterior condenação.
+3. Agravo regimental improvido.
+(AgRg no HC n. 723.863/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Ante o exposto,denego a ordem.
+Publique-se. Intimem-se.
