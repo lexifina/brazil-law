@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por CELG DISTRIBUICAO S.A. - CELG D em face da decisão acostada às fls. 432/434, e-STJ, da lavra da Presidência desta Casa, que conheceu do agravo para não conhecer do recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. DANOS ELÉTRICOS. CONTRATO DE SEGURO. SUB-ROGAÇÃO DOS DIREITOS. APLICAÇÃO DO CDC. NEXO DE CAUSALIDADE DEMONSTRADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DOCUMENTAÇÃO COLIGIDA A INICIAL.
+SENTENÇA CONFIRMADA. 1. É objetiva a responsabilidade da concessionária de fornecimento de energia elétrica, bastando a demonstração do nexo de causalidade, independentemente de dolo ou culpa, nos termos doo art. 37 § 6º da Constituição Federal. 2. Mesmo que unilaterais, se não foram expressa e tecnicamente impugnados pela parte demandada, consideram-se válidos e eficazes os documentos acostados com a exordial, que comprovam o nexo de causalidade entre os danos reclamados e a falha na prestação do serviço de energia elétrica." (TJGO - Apelação Cível nº 5023504.72.2017.8.09.0051, Rel. Des. Maria das Graças Carneiro Requi, DJe 16/08/2018). 3.
+Deixando a concessionária de impugnar veemente os documentos acostados a exordial, requerendo realização de prova inócua para o deslinde da controversa, não há que se falar em ausência do nexo de causalidade, mormente quando não se desincumbiu do ônus previsto no art. 373, II do Código de Processo Civil. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA CONFIRMADA.
+(fl. 311)
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, aponta divergência jurisprudencial quanto à interpretação do art. 373, I, do CPC, no que concerne à inexistência de comprovação do nexo causal entre a prestação do serviço e o alegado dano, pois a recorrida não se desincumbiu de seu ônus probatório, tendo em vista que os laudos unilaterais apresentados pelas seguradoras não possuem força probatória, por terem sido produzidos sem o crivo do contraditório e da ampla defesa.
+Contrarrazões às fls. 364/386, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre por aplicação da súmula 7/STJ. Essa decisão foi impugnada por meio do agravo (art. 1.042 do CPC/15) cuja minuta está às fls. 395/399, e-STJ. Contraminuta às fls. 405/428, e-STJ.
+Em julgamento monocrático, conheceu-se do agravo para não conhecer do recurso especial, ante a não demonstração da divergência.
+Inconformada, interpôs o presente agravo interno (fls. 437/443, e-STJ), em síntese, sustentando ter sido comprovada a divergência nos moldes legais.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REGRESSIVA DE RESSARCIMENTO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico, que evidencie a similitude fática entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional. Precedentes.
+1.1. a incidência da súmula 7 do STJ impede igualmente o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Conforme dito na decisão ora agravada, Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados, não bastando, portanto, a mera transcrição de ementas ou votos.
+Com efeito, o Superior Tribunal de Justiça já decidiu: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório". (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 05/04/2019.)
+Ainda nesse sentido: "A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal". (AgInt no REsp n. 1.903.321/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/03/2021.)
+1.1. Por fim, salienta-se que este Tribunal Superior entende que a incidência da súmula 7 do STJ impede igualmente o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+Nesse sentido, confira-se: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 16/05/2016; AgRg no AREsp 463.390/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 26/03/2014.
+Com efeito, no presente caso, derruir a conclusão a que chegou o acórdão local a respeito da não demonstração do nexo de causalidade, demandaria o revolvimento de matéria fática, o que encontra óbice na Súmula 7 do STJ.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
