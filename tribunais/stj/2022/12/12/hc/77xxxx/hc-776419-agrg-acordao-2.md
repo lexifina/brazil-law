@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Jorge Mussi e Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSOS INTERPOSTOS PELADEFENSORIA PÚBLICA DA UNIÃO E PELA DEFENSORIA PÚBLICA ESTADUALSEM REPRESENTAÇÃO NA CAPITAL FEDERAL. PRECLUSÃO. AGRAVO NÃO CONHECIDO.
+1. Na espécie,tanto a Defensoria Pública da União como a Defensoria Pública de Santa Catarina interpuseram agravo regimental da decisão monocrática.
+2. Não se desconhece o entendimento de que enquanto os Estados, mediante lei específica, não organizarem suas Defensorias Públicas para atuarem continuamente nesta Capital Federal, inclusive com sede própria, o acompanhamento dos processos em trâmite nesta Corte constitui prerrogativa da Defensoria Pública da União - DPU. (AgRg no HC 378.088/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/12/2016, DJe de 16/12/2016).
+3. Ocorre que, o presenterecurso não merece conhecimento, ante a verificação do instituto da preclusão,na medida em que a Defensoria Pública de Santa Catarina - impetrante do writ - mesmo sem ter sido intimada e sem ter representação em Brasília, interpôsagravo regimental, dentro do prazo,antes da Defensoria Pública da União.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PEDRO SERGIO ALVES, contra a decisão de fls. 465-468 (e-STJ), que não conheceu do habeas corpus.
+O agravante alega, em suma, que a decisão que decretou a prisão preventiva é genérica e quea gravidade em abstrato do delito, por sisó, não basta para fundamentar a decretação da prisão cautelar, ainda que se aluda ànecessidade de garantia da ordem pública e da aplicação da lei penal
+Aduz que foi encontrado em sua própria residência, diga-se fixa,ao ser cumprido mandado de prisão.
+Pondera quehá medidas cautelares,diferentes da prisão, que são suficientes para garantir a aplicação da lei penal - como por exemplo o uso de tornozeleira eletrônica.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado para que seja revogada a prisão preventiva com a subsituição pormedidas cautelares do art. 319 do CPP.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSOS INTERPOSTOS PELADEFENSORIA PÚBLICA DA UNIÃO E PELA DEFENSORIA PÚBLICA ESTADUALSEM REPRESENTAÇÃO NA CAPITAL FEDERAL. PRECLUSÃO. AGRAVO NÃO CONHECIDO.
+1. Na espécie,tanto a Defensoria Pública da União como a Defensoria Pública de Santa Catarina interpuseram agravo regimental da decisão monocrática.
+2. Não se desconhece o entendimento de que enquanto os Estados, mediante lei específica, não organizarem suas Defensorias Públicas para atuarem continuamente nesta Capital Federal, inclusive com sede própria, o acompanhamento dos processos em trâmite nesta Corte constitui prerrogativa da Defensoria Pública da União - DPU. (AgRg no HC 378.088/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/12/2016, DJe de 16/12/2016).
+3. Ocorre que, o presenterecurso não merece conhecimento, ante a verificação do instituto da preclusão,na medida em que a Defensoria Pública de Santa Catarina - impetrante do writ - mesmo sem ter sido intimada e sem ter representação em Brasília, interpôsagravo regimental, dentro do prazo,antes da Defensoria Pública da União.
+4. Agravo regimental não conhecido.
+VOTO
+Inicialmente, verifica-se dos presentes autos, que, tanto a Defensoria Pública da União como a Defensoria Pública de Santa Catarina interpuseram agravo regimental.
+Cumpre registrar que não se desconhece o entendimento de que enquanto os Estados, mediante lei específica, não organizarem suas Defensorias Públicas para atuarem continuamente nesta Capital Federal, inclusive com sede própria, o acompanhamento dos processos em trâmite nesta Corte constitui prerrogativa da Defensoria Pública da União - DPU. (AgRg no AREsp n. 230.296/AL, Ministro Og Fernandes, Sexta Turma, DJe 4/6/2013). Nessa linha, da Quinta Turma, confiram-se, ainda, o EDcl no AgRg no HC n. 236.865/RS, Ministro Marco Aurélio Bellizze, DJe 4/3/2013; e o AgRg no HC n. 262.791/RS, Ministro Gurgel de Faria, Quinta Turma, DJe 19/6/2015.
+Ora, esse entendimento indicaria que a Defensoria Pública da União seria a parte legítima para recorrer, contudo, embora a Defensoria estadual não tenha sido intimada da decisão agravada (e-STJ, fl. 473) e não tenha representação em Brasília, consideroque, no presente caso, impõe-se o conhecimento do agravo regimental interposto pela Defensoria Pública do Estado de Santa Catarina, eis que interposto primeiro, dentro do prazo e por ter sido ela que impetrou o writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. DEFENSORIA PÚBLICA DA UNIÃO E DEFENSORIA PÚBLICA ESTADUAL SEM REPRESENTAÇÃO NA CAPITAL FEDERAL. TRÁFICO DE DROGAS. TESE DE QUE A QUANTIDADE SÓ PODERIA SER CONSIDERADA NA PRIMEIRA FASE DA DOSIMETRIA. IMPROCEDÊNCIA. PRECEDENTES DO STJ E DO STF. ALTERAÇÃO DA FRAÇÃO DECORRENTE DA CAUSA DE DIMINUIÇÃO. DISCRICIONARIEDADE DO ÓRGÃO JULGADOR. CIRCUNSTÂNCIAS DO CASO CONCRETO. MODIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO.
+1. Enquanto os Estados, mediante lei específica, não organizarem suas Defensorias Públicas para atuarem continuamente nesta Capital Federal, inclusive com sede própria, o acompanhamento dos processos em trâmite nesta Corte constitui prerrogativa da Defensoria Pública da União - DPU. Precedentes. (AgRg no AREsp n. 230.296/AL, Ministro Og Fernandes, Sexta Turma, DJe 4/6/2013).
+2. Hipótese em que a Defensoria Pública de Santa Catarina - impetrante do writ - mesmo sem ter sido intimada e mesmo sem ter representação em Brasília, interpôs o agravo regimental dentro do prazo.
+3. Deve ser mantida, por seus próprios fundamentos, a decisão monocrática que indeferiu liminarmente o writ originário, pois, no caso concreto, o acórdão impugnado está em consonância com a jurisprudência desta Corte Superior, segundo o qual não se extrai do art. 42 da Lei n. 11.343/2006 uma restrição ao momento em que as circunstâncias descritas devem prevalecer, se na primeira ou na terceira fase, mas um comando para que o julgador dispense maior atenção àquelas condições. Caso acolhido o argumento da defesa, o julgador estaria obrigado a ponderar a quantidade e natureza das drogas exclusivamente na primeira fase da dosimetria, a fim de propiciar a redução por circunstância atenuante na segunda fase e a fixação do redutor especial no patamar máximo na terceira.
+4. Tal entendimento guarda perfeita harmonia com a jurisprudência firmada pela Suprema Corte, que, no ARE n. 666.334/MG, julgado sob o regime de repercussão geral, considerou adequado o uso de tais elementos (quantidade e natureza) em fases distintas da dosimetria, desde que de forma exclusiva em uma delas.
+5. A Corte local concluiu, ao analisar as circunstâncias da apreensão da droga, que seria razoável e proporcional a aplicação da causa de diminuição no patamar de 1/6 da pena, estando, portanto, dentro do seu critério de discricionariedade, notadamente por verificar as circunstâncias inerentes ao caso concreto. Dessa forma, é inviável a análise do tema na via estreita habeas corpus.
+6. Agravo regimental da Defensoria Pública da União não conhecido. Agravo regimental da Defensoria Pública de Santa Catarina improvido."
+(AgRg no HC 378.088/SC, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/12/2016, DJe de 16/12/2016, grifou-se.)
+Assim, entendo que o presente agravo regimental não deve ser conhecido, diante da verificação do instituto da preclusão.
+Ante o exposto,não conheço do agravo regimental.
+É o voto.
