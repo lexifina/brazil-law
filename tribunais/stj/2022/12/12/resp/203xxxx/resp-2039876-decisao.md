@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com base no art. 105, III, "a", da CF/1988, contra acórdão do TRF da 5ª Regiãoassim ementado (fls. 128-129, e-STJ):
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL EMPREGADOR. PESSOA FÍSICA. INEXIGIBILIDADE.
+1. Apelação interposta pelo Particular contra sentença que denegou a Segurança requestada, declarando o processo extinto, sem resolução de mérito, nos termos do art. 6º, § 5º, da Lei nº 12.016/2009, c/c o art.485, IV, do CPC, sob o fundamento de que "os fatos alegados pelo impetrante dependem de diligências probatórias impossíveis de serem realizadas na via expressa do presente writ. Se os fatos não estão claros e comprovados de plano, aptos a permitirem a imediata apreciação do direito líquido e certo alegado, dependendo, portanto, da instauração da fase instrutória para sua verificação, não é caso de mandado de segurança".
+2.O Apelante, em suas razões recursais que, "ainda que não se desconheça quedilação probatória é incompatível com o rito da ação mandamental, merece reforma a decisão, visto que todos os elementos probatórios que suportam o fato constitutivo do pedido do Autor estão presentes nos autos." Sustenta que "como se denota dos documentos juntados com a petição inicial, resta amplamente comprovada a condição da parte Impetrante como produtor rural pessoa física e, por conseguinte, como contribuinte da contribuição ao salário-educação. Afirma que "a documentação acostada com a petição inicial é suficiente para corroborar a situação preconizada pela parte Autora, pois a Matrícula CEI atesta a condição de produtor rural pessoa física, ao passo que a Relação dos Trabalhadores - SEFIP corrobora a condição de empregador. Por fim, assevera que "o entendimento exposto pelo nobre Julgador não se coaduna com a inteligência jurisprudencial predominante que reconhece que o empregador pessoa física não pode ser equiparado ao conceito de "empresa" para fins de sujeição ao recolhimento da contribuição ao salário-educação".
+3. O cerne da controvérsia reside na análise da possibilidade de equiparação do Impetrante, produtor rural pessoa física sem inscrição no CNPJ, com Empresas sujeitas à incidência da contribuição para o salário educação.
+4. O egrégio STJ, ao julgar o Recurso Especial - REsp 1.162.307/RJ, por meio da sistemática dos recursos repetitivos, inserido no art. 543-C, do CPC, firmou o seguinte entendimento: "A contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não." (REsp 1.162.307/RJ, 1ª Seção, Rel. Ministro Luiz Fux, DJe de 3.12.2010).
+5. O produtor rural pessoa física, portanto, desprovido de registro no Cadastro Nacional de Pessoa Jurídica (CNPJ), não se enquadra no conceito de Empresa, para fins de incidência da contribuição para o salário-educação.
+6. Esta Terceira Turma também já se manifestou no mesmo sentido: "Se, por um lado, o produtor rural inscrito no CNPJ se sujeita à incidência da contribuição do salário-educação, por outro, o produtor rural pessoa física, desvinculado do CNPJ, não se enquadra no conceito de empresa, para fins de incidência da contribuição do salário-educação." (TRF5 - Processo 0803376-94.2021.4.05.8100, Remessa Necessária Cível, 3ª Turma, Rel. Desembargador Federal Rogério de Meneses Fialho Moreira, Data de Assinatura: 22/10/2021)
+7. O Impetrante comprovou a condição de produtor rural pessoa física sem CNPJ, fazendo jus ao não recolhimento do salário-educação, residindo o direito líquido e certo apto a amparar a sua pretensão.
+8. No que tange ao direito à compensação, o Superior Tribunal de Justiça (STJ), através da Súmula nº 213, consolidou o entendimento, segundo o qual "O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária."
+9. Apelação provida para conceder a Segurança, assegurando ao Impetrante o direito líquido e certo de não recolher a contribuição ao salário-educação, na qualidade de produtor rural pessoa física sem inscrição no CNPJ; e de compensar, na via administrativa, em obediência à Súmula nº 271, do STF, os valores indevidamente recolhidos, no quinquênio legal, excepcionadas as parcelas anteriores aos 5 (cinco) anos anteriores ao ajuizamento da ação, que foram alcançadas pela prescrição, acrescidos de SELIC (art. 39, § 4º, da Lei nº 9.250/95), desde a data do recolhimento indevido até o momento da efetiva compensação (Súmula nº 162 do STJ).
+Os Embargos de Declaração foram desprovidos (fls. 173-175, e-STJ).
+A Fazenda Nacional aponta ofensa aos arts.489 e 1.022do CPC/2015 e postula a declaração de nulidade do acórdão recorrido.
+Contrarrazões às fls. 195-204, e-STJ.
+Admitido o Recurso Especial na origem (fl. 206, e-STJ), subiram os autos a esta Corte.
+É o relatório.
+Decido.
+Apetição de Recurso Especial apresenta-se ilegível (fls. 183-187, e-STJ), o que impossibilita sua leitura com a clareza necessária. Desse modo, consoante a orientação desta Corte, não se deve conhecer do Recurso.
+Nesse sentido, cito:
+PROCESSO CIVIL. AGRAVO INTERNO. AFRONTA AO ARTIGO 1.022, II, DO CPC/15. INEXISTÊNCIA. PETIÇÃO VIA FAC-SÍMILE. PEÇAINCOMPLETA. SÚMULA N. 83/STJ.
+(..)
+2. A transmissão da peça recursal de forma incompleta ou ilegível inviabiliza o conhecimento do recurso, ainda que os originais sejam protocolados no prazo.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.277.935/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 20/8/2019)
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
