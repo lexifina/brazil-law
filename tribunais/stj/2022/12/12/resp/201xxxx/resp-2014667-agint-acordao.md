@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por BOSQUES DO MADEIRA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim ementado (e-STJ, fl. 334):
+Agravo de instrumento. Liquidação de sentença. Rescisão contratual. Multa exorbitante. Redução. Existência de coisa julgada. Impossibilidade. Excesso na execução. Inocorrência. Sentença. transitada em julgado. Incidência da cláusula penal na avença. Recurso desprovido. Verificada a efetiva existência de coisa julgada quanto à forma de cobrança da multa pela rescisão antecipada do contrato, fica, automaticamente, refutada a alegação de que o juiz tem o dever de reduzir a cláusula penal quando se verificar sanção excessiva ou o cumprimento parcial da obrigação, notadamente quando o caso em análise não se refere a astreintes aplicadas pelo magistrado. Em se tratando de cumprimento de sentença que reconhece a exigibilidade de obrigação de pagar quantia certa, somente se configura excesso de execução quando o credor pleiteia quantia superior à resultante da sentença transitada em julgado, que previu a incidência da cláusula penal nos moldes estabelecidos na avença.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 382-385).
+Em suas razões recursais (e-STJ, fls. 393-412), a parte recorrente sustentou a existência de violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado quanto ao enriquecimento sem causa da Recorrida e quanto à necessidade de redução da multa contratual frente ao valor exorbitante da multa, em flagrante ofensa aos princípios da razoabilidade e proporcionalidade, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional.
+b) arts. 412, 413 e 884 do Código Civil, alegando que a multa contratual fora fixada em valor manifestamente excessivo, importando em evidente enriquecimento ilícito da recorrida, razão pela qual o Tribunal deveria reduzi-la em atenção aos princípios da proporcionalidade e razoabilidade.
+Aponta, ainda, divergência jurisprudencial sobre o tema.
+Contrarrazões apresentadas às fls. 439-459 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 470-472 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 491-497), este signatário negou provimento ao recurso especial em razão da ausência de negativa de prestação jurisdicional e incidência das Súmulas 83/STJ, 5/STJ e 7/STJ.
+No presente agravo interno (e-STJ, fls. 500-526), a ora agravante combate parcialmente os óbices supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 528-549 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de justificativa para a redução da cláusula penal, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+3. Consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Cinge-se a irresignação no presente agravo interno acerca da negativa de prestação jurisdicional e incidência das Súmulas 5/STJ e 7/STJ à hipótese, porquanto a parte não impugnou o óbice da Súmula 83/STJ.
+Consoante a jurisprudência sedimentada nesta Corte Superior, a impugnação à Súmula 83/STJ se dá com a apresentação de precedentes contemporâneos ou supervenientes aos mencionados na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, providência não atendida pela agravante.
+Opera-se, assim, a preclusão damatérianão impugnada.
+2. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura. Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, manifestando-se expressamente acerca da multa contratual aplicada, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 383, e-STJ):
+Ao contrário do que afirma a embargante, o acórdão analisou, criteriosamente, a questão levantada neste recurso, uma vez que ficou consignado que no contrato firmado entre as partes, confeccionado pela recorrente, houve a previsão de multa por dia de atraso da obra (fl. 330):
+A Cláusula 3.25 do contrato diz que o atraso na devolução a que se refere o parágrafo anterior configura esbulho possessório e sujeitará o(a)(s) comprador(a)(s)(es) ao pagamento da multa de 0,5% do valor total do contrato por dia de atraso, a contar da data do término do prazo para purgar a mora. Os valores aqui previstos poderão ser compensados com os haveres do(a)(s) comprador(a)(s)(es) ou a critério da vencedora, exigidos de imediato (fl. 32 - Processo n. 7020958-95.2020.8.22.0001)
+O julgado esclareceu que a rescisão do contrato se deu por culpa exclusiva da recorrente, não havendo razão para que a aplicação do critério da multa seja alterado na fase de cumprimento de sentença para o valor de 0,5% por mês, visto que a sentença a condenou ao pagamento da multa por atraso, conforme estabelecido na Cláusula 3.25, conforme previsão contratual.
+Verifica-se, então, a inexistência do vício apontado, mas tão somente o acolhimento de tese contrária ao interesse da parte-embargante.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+3. Em relação à alegada ofensa aos arts. 412, 413 e 884 do Código Civil, a incidência das Súmulas 5/STJ e 7/STJmerece ser mantida.
+No caso, a parte argumentou que a multa contratual fora fixada em valor manifestamente excessivo, importando em evidente enriquecimento ilícito da recorrida, razão pela qual o Tribunal deveria reduzi-la em atenção aos princípios da proporcionalidade e razoabilidade.
+Acerca do tema, assim constou no aresto recorrido (e-STJ, fl. 333):
+Analisando os autos, observo que a rescisão do contrato se deu por culpa exclusiva da agravante, não há motivos para que a aplicação do critério da multa seja alterado, na fase de cumprimento de sentença, para o valor de 0,5% por mês, uma vez que a sentença a condenou à multa por atraso conforme estabelecido na cláusula 3.25 do contrato firmado entre as partes (multa por dia de atraso), cuja matéria não foi objeto do recurso de apelação, que, quando de seu julgamento, afastou a condenação em danos morais e manteve os demais termos da sentença, incluindo a condenação ao pagamento da multa contratual prevista na cláusula citada.
+Em que pese os argumentos da agravante de que a multa cominatória/astreintes não se submete aos efeitos da preclusão e da coisa julgada, sendo possível sua revisão a qualquer tempo pelo juiz, desde que a parte requeira, entendo que suas afirmações não prosperam, tendo em vista que, no caso em debate, não se trata de astreintes aplicadas pelo magistrado, mas, sim, de inversão de multa prevista no contrato, incluída pela agravante.
+Em se tratando de cumprimento de sentença que reconhece a exigibilidade de obrigação de pagar quantia certa, somente se configura excesso de execução quando o credor pleiteia quantia superior à resultante da sentença, o que não se verifica na hipótese dos autos, tendo em vista que a sentença proferida na ação de rescisão contratual c/c com restituição de valores, repetição de indébito, indenização por danos materiais e morais, transitada em julgado, previu a incidência da cláusula penal nos moldes em que estabelecida na avença, ou seja, nos termos da Cláusula 3.25 do contrato. Não há que se falar, desse modo, na inexistência de coisa julgada quanto à forma de cobrança da multa contratual, compreendida a pretensão de redução equitativa do seu valor.
+Como se vê, o Colegiado estadual consignou não ser possível modificar os critérios de aplicação da multa contratual em sede de cumprimento de sentença, ante a ocorrência de preclusão, e afastou o alegado excesso de execução, posto que a sentença proferida previu a incidência da cláusula penal nos moldes em que estabelecida na avença, ou seja, nos termos da Cláusula 3.25 do contrato.
+Nesse contexto, para derruir as conclusões da Corte de origem no tocante à redução do valor da multa contratual, bem como aferir se houve ou não ofensa aos princípios da razoabilidade e proporcionalidade, seria necessário o reexame do contexto fático e probatório dos autos, providência vedada em sede de recurso especial, a teor das Súmulas 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Segundo a jurisprudência desta Corte, o caso fortuito interno não exclui a responsabilidade do fornecedor, pois relaciona-se com a atividade e os riscos inerentes ao empreendimento. Precedentes.
+1.1. Na espécie, a Corte local entendeu que o atraso na obra não caracterizaria caso fortuito interno. Rever tal premissa demandaria reexame de matéria probatória. Incidência da Súmula 7/STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282/STF.
+3. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de justificativa para a redução da cláusula penal, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.062.795/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO C/C PEDIDO DE COBRANÇA DE MULTA E DO DEPÓSITO ANTECIPADO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. AUSÊNCIA DE NULIDADE DAS CLÁUSULAS CONTRATUAIS. ALTERAÇÃO. SÚMULAS N. 5 E 7/STJ. 3. AGRAVO DESPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão do julgado, com o consequente acolhimento da pretensão recursal quanto à redução equitativa do valor da multa, demandaria necessariamente o reexame do acervo fático-probatório da causa e a análise e interpretação de cláusulas contratuais, o que não se admite em recurso especial, ante o óbice das Súmulas n. 5 e 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.028.629/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO RECURSO ESPECIAL - RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Para alterar as conclusões do órgão julgador, no tocante à redução do valor da multa contratual, na forma como posta, seria necessário o reexame do contexto fático e probatório dos autos, providência vedada em sede de recurso especial, a teor das Súmulas 5 e 7/STJ.
+2. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+3. A revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatório, incidindo a Súmula 7 do STJ 4. Agravo inter no desprovido.
+(AgInt nos EDcl no AREsp n. 1.940.558/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+4. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018). 5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1307496/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+De rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
