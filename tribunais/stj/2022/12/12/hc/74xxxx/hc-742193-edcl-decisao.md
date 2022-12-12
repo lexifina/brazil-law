@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS  contra decisão de fls. 368/372, de minha relatoria, na qual concedia ordem, ex officio, confirmando a liminar anteriormente deferida, para revogar o mandado de prisão expedido contra o ora embargado, mediante a aplicação das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal, a serem definidas pelo magistrado de primeiro grau.
+Nos presentes embargos, sustenta o embargante a ocorrência de omissão no julgado, pois, na decisão proferida anteriormente, na qual neguei provimento ao agravo regimental interposto pelo embargante contra liminar deferida, alega que as matérias trazidas naquele agravo não foram analisadas na decisão, quais sejam:referentes àpresunção de constitucionalidade das leis, conforme votos favoráveis no tema de repercussão geral; soberania dos veredictos (artigo 5º, inciso XXXVIII, alínea "c", da CRFB/88); a desnecessidade das exigências trazidas no art. 312 do CPP, porquanto a questão aqui debatida se refere à segunda parte da alínea "e" e não à primeira parte, do art.492, inciso I, do CPP; e a inobservância da cláusula de reserva do plenário, descrita no art.97 da Constituição da República, e Súmula Vinculante 10 do STF.
+Requer, assim, "o seu acolhimento para que, suprida a omissão apontada, sejam acolhidos os presentes aclaratórios para que a questão seja debatida em toda sua extensão constitucional, em especial em relação à invocação de ofensa à soberania dos veredictos (art. 5º, XXXVIII, alínea "c", da Constituição da República)" (fls. 378/384).
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal, pressupostos não caracterizados na hipótese dos autos.
+No caso em apreço, não há falar em omissão no julgado.
+Inicialmente, ressalto que, conforme entendimento desta Corte Superior de Justiça, não se admite nos embargos declaratórios o prequestionamento de matéria constitucional.
+Sobre o tema, veja-se oseguintejulgadodesta Corte Superior de Justiça:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. In casu, o acórdão embargado foi claro e expresso ao inadmitir os embargos de divergência, entre outros argumentos, por concluir que são inadmissíveis quando interpostos contra acórdãos proferidos pela mesma turma que apreciou o acórdão paradigma; e que a aferição da ocorrência ou não dos vícios apontados no art. 619 do Código de Processo Penal depende da apreciação das premissas fáticas do caso concreto, o que impede a sua comparação com outros julgados.
+3. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+4. Esta Corte é firme na compreensão de que são inadmissíveis os embargos de declaração que visem ao prequestionamento de matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp n. 2.002.337/DF, relator Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, DJe de 14/11/2022).
+Ademais, ressalte-se que o referido agravo regimental interposto pelo embargante foi contra decisão liminar, sendo que já foi decidido o mérito do presente mandamus, em decisão publicada no DJe em 8/11/2022, constituindo assim novo título.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
