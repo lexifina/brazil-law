@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/12/2022 a 12/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CARLOS MAURÍCIO LEMOSinterpõe agravo regimental contra decisum de fls. 167-168, em que não conheci do habeas corpus.
+Nas razões do regimental, o agravante sustenta que owritdeve ser conhecido.
+Pleiteia, portanto, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA.IMPRESCINDÍVEL SUBMISSÃO DA PRETENSÃO DEFENSIVA À INSTÂNCIA ESTADUAL.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em que pesem os argumentos defensivos, para que esta Corte Superiorexamine a pretensão defensiva é imprescindívelsubmetê-la ao crivo doJuízo de segunda instância, sob pena de se incorrer em indevida supressãode instância.
+2. No caso,otemarelativoà incompetência da Justiça Federal nãofoiobjeto de análise pelo Tribunal estadual, circunstância que impede asua apreciação por esta Corte Superior, sob pena de atuar em indevidasupressão de instância.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo agravante, entendo que não lheassiste razão.
+I. Contextualização
+O paciente foi condenado pela 7ªVara Federal da Subseção Judiciária de Ribeirão Preto/SP à pena de 2 anos e 8 meses de reclusão, em regime inicialmente aberto, pela prática do crime descrito no art. 149, caput e § 1º, II, do Código Penal.
+A sentença foi mantida pelo Tribunal Regional Federal da 3ª Região pelos seguintes fundamentos (fls. 30-33):
+A defesa de CARLOS (ID 155819305, pp. 77/89) pede a sua absolvição por ausência de prova da materialidade do crime. Afirma não ter sido demonstrada a imputada situação de sujeição dos trabalhadores de sua obra a condição análoga à de escravo, pois as testemunhas esclareceram que, no local do alojamento, havia banheiro e refeitório, fora do canteiro de obra, não havendo, ainda, vigilância que impedisse a locomoção ou o deslocamento de qualquer pessoa. Afirma, ainda, que os trabalhadores cumpriam jornadas normais de trabalho e que jamais foi solicitado aos corréus o aliciamento de trabalhadores de outros estados para a sua obra.
+ ..
+1. Da redução a condição análoga à de escravo (CP, art. 149, caput e § Nos termos do art. 149, caput, do Código Penal, a redução de alguém a condição similar à de escravo traduz-se nas seguintes condutas elementares alternativas: i) submissão da pessoa a trabalhos forçados; ii) submissão da pessoa a jornada exaustiva; iii) sujeição da pessoa a condições degradantes de trabalho; iv) restrição, por qualquer meio, da locomoção da pessoa em razão de divida contraída com o empregador ou preposto. Para que se configure esse tipo penal, basta uma dessas condutas. São alternativas, e não cumulativas. No caso, a materialidade do crime imputado aos réus está evidenciada na Informação nº 415/2012-DPF/POR/SP (ID 155819231, pp. 27/28), tendo sido apuradano//fia cr/minis a respeito da falta de condições dignas de trabalho no canteiro da obra do Conjunto Habitacional Liliana Urtiaga Andreazza, em Santa Rosa de Viterbo, de responsabilidade da Construtora Lemos Rodrigues. As fotografias do local (ID 155819307) e o relatório de diligência realizada (em conjunto) pelo Ministério Público do Trabalho, pelo Ministério do Trabalho e pela Polícia Federal (ID 155819357, pp. 8/17) são claros o suficiente para apontar as diversas e graves irregularidades nas instalações do alojamento dos trabalhadores da obra, especialmente as instalações sanitárias e os dormitórios.  .. A autoria (em relação a ambos os réus) está comprovada pelas declarações prestadas pelos empregados no Ministério Público do Trabalho (ID 155819356, pp. 24/31) e pela prova oral produzida em juízo (IDs 155819363, 155819364). Com efeito, os depoimentos das testemunhas de acusação foram coerentes e uníssonos em afirmar que as condições do alojamento em Santa Rosa do Viterbo eram degradantes e que as carteiras de trabalho dos trabalhadores haviam sido retidas pelo corréu GENILSON, que prestava serviços ao corréu CARLOS (responsável pela obra), por tempo muito superior ao permitido pela legislação trabalhista para que providenciasse os respectivos registros, o que mostra claramente a finalidade espúria dessa retenção. Na audiência realizada em 15.06.2012, na Procuradoria do Trabalho em Ribeirão Preto, ficou comprovado não só que GENILSON reteve indevidamente as CTPS dos empregados a ele vinculados - tanto que, nessa data, ele ainda detinha os documentos (ID 155819231, pp. 36/38) - como também se comprovou a vontade livre e consciente de fazer essa retenção, ou seja, o dolo, ao contrário do que alega a defesa desse apelante. A defesa do corréu CARLOS, por sua vez, não se insurgiu em relação à autoria e ao dolo, limitando sua argumentação à inexistência de prova da materialidade, o que já foi rejeitado. Portanto, comprovadas a materialidade, a autoria, e o dolo, mantenho as condenações de GENILSON JUVINO DO NASCIMENTO e de CARLOS MAURÍCIO DE LEMOS pela prática do crime de redução a condição análoga à de escravo, previsto no art. 149, caput e § 1º, II, do Código Penal, em relação aos fatos narrados na denúncia.
+II. Supressão de instância
+Infere-se do trecho transcrito que a questão relativa àincompetência da Justiça Federal não foi veiculada pelo paciente em apelação e tampouco foi apreciada peloTribunal a quo, nem sequer de forma tangencial.
+Tal constatação impede a análisedessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+Reitero, por oportuno, que o fato de se tratar de matéria de ordem pública não afasta a conclusão relacionada à impossibilidade de inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior deJustiça,dada sua incompetência para tanto e sob pena de incidir-se em indevidasupressão de instância, das teses de nulidade dasentença por ausência deanálise de tese defensiva apresentada nas alegações finais e o consequenteexcesso de prazo na custódia, tampouco de imposiçãode regime inicial maisgravoso que o permitido ou de possibilidade desubstituição da penaprivativa de liberdade por restritiva de direitos, tendoem vista que taisquestões não foram analisadas pelo Tribunal impetrado no aresto combatido,em razão da inadequação da via eleita, pendente de julgamento, ainda,apelação já interposta.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. MinistroJorge Mussi, 5ª T., DJe 12/4/2016).
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
