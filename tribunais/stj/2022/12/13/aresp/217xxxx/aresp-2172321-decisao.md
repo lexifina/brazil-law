@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ARITA RANGEL PESSOA contra decisão que negou seguimento a recurso especial, interposto em face de acórdão assim ementado (e-STJ, fl. 39):
+AGRAVO DE INSTRUMENTO. Ação de exigir contas. Decisão interlocutória que determinou o prosseguimento de ação de exigir contas, em segunda fase. Descabimento da pretensão de sobrestamento do andamento da ação. O procedimento da ação de exigir contas comporta duas fases. A primeira, visa a apenas averiguar o dever da parte demandada a prestar as contas que lhe são exigidas, conforme se infere do artigo 550, § 2º, do CPC. A regra inscrita no artigo 551, do Código de Processo Civil estipula a forma como devem ser apresentadas as contas, com especificação das receitas e aplicações das despesas e os investimentos, se houver, bem como o respectivo saldo. Encerrada a primeira fase, está a agravante, portanto, obrigada a prestar as contas solicitadas pelo agravado tal como corretamente destacado pelo juízo a quo. Decisão que não se mostra teratológica, contrária à lei ou à prova dos autos. Manutenção da decisão que se impõe. RECURSO NÃO PROVIDO.
+Nas razões do especial, aponta arecorrente violação dos artigos 313, V, e 921 do Código de Processo Civil, além do dissídio jurisprudencial.
+Argumenta, em suma, que a existência de prejudicial externa determinaria o sobrestamento da ação principal até o julgamento final da ação relacionada.
+As contrarrazões foram apresentadas (e-STJ, fls. 94-107).
+O recurso especial não foi admitido, em razão do óbice das Súmulas 282 e 356/STF, contra o que se manifesta aagravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Observo, de início, que o Tribunal de origem consignou que a pretensão de sobrestar o processo, em decorrência da prejudicial externa, estaria preclusa, considerada a peculiaridade do procedimento especial de exigir contas.
+A propósito, extraio do acórdão recorrido a seguinte passagem (e-STJ, fls. 40-41):
+Cumpre esclarecer que nesta fase da prestação de contas não se discute a validade dos contratos firmados entre as partes. Busca-se, neste momento, tão somente a prestação das contas em si, especificando pormenorizadamente as receitas e aplicações das despesas e os investimentos, se houver, bem como o respectivo saldo, conforme disposto no artigo 551, do CPC.
+ ..
+Como já destacado na decisão que indeferiu a concessão do efeito suspensivo pleiteado nos presentes autos, a agravante não pode pretender obstar as prerrogativas legais do agravado simplesmente invocando a existência de prejudicialidade externa a destempo, uma vez que a primeira fase do procedimento originário já se encontra julgada por decisão abarcada pela preclusão. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o Tribunal de origem pressupõe que a análise do pedido de suspensão do processo estaria preclusa, considerado o momento em que requerido, já na segunda fase do procedimento de exigir contas.
+A recorrente, por sua vez, não impugna o fundamento da preclusão, em todo suficiente para manter a conclusão do acórdão recorrido, atraindo a aplicação do óbice das Súmulas 283 e 284/STF.
+De todo modo, para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição deacórdãostidos por discordantes, a realização do cotejo analítico dodissídiojurisprudencial invocado, com a necessária demonstração desimilitude fáticaentre o aresto impugnado e osacórdãosparadigmas, assim como a presença de soluções jurídicas diversas para a situação.
+No caso, porém, o agravante limitou-se à transcrição das ementas dos julgados supostamente divergentes, inviabilizando o conhecimento do recurso também com base no artigo 105, inciso III, alínea "c", da Constituição Federal.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. LITIGÂNCIA DE MÁ-FÉ. MULTA. ART. 1.021, § 4º, DO CPC. CABIMENTO. AFERIÇÃO DO EXCESSO DO PERCENTUAL APLICADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. NÃO DEMONSTRAÇÃO. AGRAVO DESPROVIDO.
+1. Compete ao tribunal a quo, diante do acervo fático-probatório dos autos, estabelecer se a interposição do recurso é abusiva ou protelatória e aplicar o percentual de multa do art. 1.021, § 4º, do CPC adequado ao caso concreto, de modo que a imposição não represente obrigação demasiadamente penosa, tendo em vista seu caráter pedagógico.
+2. Para reverter a conclusão da corte de origem, reconhecendo a existência de excesso na aplicação da multa prevista no art. 1.021, § 4º, do CPC, seria necessária a incursão no acervo fático-probatório dos autos, o que é inadmissível em recurso especial, em razão da incidência da Súmula n. 7 do STJ.
+3. A simples transcrição de ementas e de trechos dos acórdãos recorrido e paradigma, sem o correspondente cotejo analítico e a demonstração da identidade ou similitude fática entre eles nos moldes do RISTJ, impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.875.143/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/11/2022, DJe de 17/11/2022.) (grifo acrescido)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação em honorários na origem, vedando o acréscimo ulterior, na forma do § 11 do artigo 85 do CPC/15.
+Intimem-se.
