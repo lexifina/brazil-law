@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/12/2022 a 13/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADEON DA COSTA MELOcontra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 870):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+O agravante sustenta que os Temas n. 339 e 181 do STF não se aplicariam ao caso dos autos, em que se busca o reconhecimentoda violação dosarts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+Afirma que não estaria discutindo os requisitos de admissibilidade do recurso especial.
+Argumenta que (fl. 883):
+No caso em tela não se exigem o exame pormenorizado, mas sim que seja levado em consideração provas que estão sendo ocultados nos julgados, o que causa cerceamento de defesa, por sem um elemento essencial para o deslinde da controversa, conforme a própria norma infraconstitucionais observa no seu art. 489, §1º, IV, do CPC/2015, uma vez que verificada tal questão infirmaria a conclusão adotada.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 890-891.
+É o relatório.
+EMENTA
+AGRAVOREGIMENTAL. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. DESPROVIMENTO DO AGRAVO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência do Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema n. 181/STF).
+3. Agravo regimental a que se nega provimento.
+VOTO
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+A conclusão mencionada ficou sedimentada sob o regime da repercussão geral pela Suprema Corte, no Tema n. 339/STF, segundo o qual "o art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do arestoparadigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso,constata-se que foram declinadas as razões pelas quais o colegiado negou provimento ao agravo regimental, valendo destacar o seguinte excerto (fls. 782-788):
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Primeiramente, a questão acerca da violação do art. 226 do CPP não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas n. 211/STJ e 282/STF.
+Prosseguindo, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a enaltecer a tese de autoria delitiva imputada pelo parquet ao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelo delito de tráfico (e-STJ fls. 599/604).
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por não haver elementos suficientes de prova para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Em relação à reincidência do envolvido, não há qualquer ilegalidade em seu reconhecimento, uma vez que o Tribunal de origem consignou que, como não se passaram mais de 5 (cinco) anos, nos termos do art. 64, inciso I, do Código Penal, entre a extinção da punibilidade pelo cumprimento integral da pena e o crime posterior, mostra-se adequada o emprego da agravante da reincidência feita pelo julgador de origem em ID nº 22912401 - Pág. 5 (e-STJ fls. 606).
+No tocante à incidência do art. 40, inciso III, da Lei n. 11.343/2006, o Tribunal de Justiça consignou (e-STJ fls. 606/607):
+Na terceira fase, ausentes causas de diminuição da pena. No tocante as causas de aumento de pena, restou devidamente demonstrado nos autos que a difusão de drogas foi perpetrada pelo réu, próximo a uma escola - Centro de Ensino Fundamental 35, situado na Ceilândia (ID nº 22911327 - Pág. 2 e ID nº 22911328 - Páginas 2 e 4), assim, não merece acolhida o pedido de afastamento da causa de aumento de pena, prevista no artigo 40, inciso III, da Lei de Tóxicos, ..
+Acerca da matéria, é firme a jurisprudência desta Corte Superior no sentido de que, para a imposição da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, basta que o tráfico de drogas tenha ocorrido nas proximidades de qualquer dos estabelecimentos descritos na norma, sendo prescindível a comprovação de que o comércio de entorpecentes visava atingir estudantes ou qualquer frequentador dos locais indicados no referido preceito (HC n. 164.414/RS, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 20/8/2015, DJe 8/9/2015).
+ ..
+No presente caso, em atenção à jurisprudência desta Corte Superior e considerando que o Tribunal local reconheceu que o tráfico foi praticado nas proximidades de uma escola, justificada a incidência da causa de aumento prevista no art. 40, inciso III, da Lei n. 11.343/2006. Ademais, para se concluir que o tráfico não fora realizado perto de escola, exige-se o reexame de fatos e provas, procedimento que é vedado pela Súmula 7/STJ.
+Da mesma maneira, foram explicitados os motivos pelos quais foram rejeitados os aclaratórios (fl. 806):
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que decidir pela absolvição, por não haver elementos suficientes de prova para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ademais não se pode falar em cerceamento de defesa, uma vez que o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a enaltecer a tese de autoria delitiva imputada pelo parquet ao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelo delito de tráfico (e-STJ fls. 599/604).
+Assim, rever os fundamentos utilizados pela Corte Estadual, para
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Por outro lado, no RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365 RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Na espécie, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental, mantendo a decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento a fim de reduzir a pena-base do recorrente, aplicando, na parte não conhecida,osóbices das Súmulas n. 7 e 211 do STJ e 282 do STF.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade nos pontos questionados no recurso extraordinário, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada.
+Ante o exposto, nego provimento ao agravoregimental.
+É como voto.
