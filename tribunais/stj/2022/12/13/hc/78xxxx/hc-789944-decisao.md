@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor deMAXWELL DE OLIVEIRA SANTANA,apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO - Apelação Criminal n. 0000286-74.2017.8.17.0990.
+Extrai-se dos autos que o paciente foi condenado pela prática do delito doart. 33 c/c art. 40, inciso IV, ambos da Lei n. 11.343/06,à pena de 10 anos, 9 meses e 15 dias de reclusão, em regime inicial semiaberto, vedado o direito de recorrer em liberdade (e-STJ, fls. 8-15).
+A defesa apresentou recurso de apelação perante o Tribunal de origem, ainda pendente de julgamento(e-STJ, fls. 25-26).
+Neste writ, a defesa alega, em síntese, que o paciente encontra-se preso provisoriamente desde 19/1/2017.
+Requer a concessão da ordem, inclusive liminarmente, para que seja relaxada a prisão preventiva para que o paciente aguarde em liberdade o julgamento do apelo.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, quanto à fundamentação da prisão preventiva e do excesso de prazo, verifica-se que as questões não foramobjeto de análisepelo Tribunal de origem, na medida em que a apelação ainda não foi julgada,o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Em relação ao alegado excesso de prazo no julgamento da apelação, observa-se que razão não assiste à defesa.
+Com efeito, verifica-se quea aferição do excesso de prazo reclama a observância da garantia daduração razoável do processo, prevista no art. 5º, LXXVIII, daConstituição Federal.
+Segundo pacífico entendimento doutrinário ejurisprudencial, a configuração de excesso de prazo não decorre da somaaritmética de prazos legais. A questão deve ser aferida consoante oscritérios de razoabilidade, em razão das peculiaridades do caso concreto.
+Da análise dos autos, observa-se que a sentença condenatória data de 10/3/2022 e o recurso de apelação foi distribuído no Tribunal de Justiça em 25/11/2022, estando com vista á Procuradoria de Justiça desde 28/11/2022.
+Assim,deveser afastada a alegação de constrangimento ilegal pelademora no julgamento, não estando configuradanenhuma desídia ou negligência do poder estatal, uma vez que o recursoestá sendo processado regularmente, sobretudo levando-se em consideraçãooquantumda condenação, qual seja, 10 anos, 9 meses e 15 dias de reclusão.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. RECOMENDAÇÃO PROFERIDA NO HC 634.323/MS. ALEGADA INOBSERVÂNCIA. AUSÊNCIA DE CUNHO DECISÓRIO.NÃO CABIMENTO DE RECLAMAÇÃO. MANDAMUS NÃO SUBSTITUTIVO. 2.RECOMENDAÇÃO DE CELERIDADE NO PROCESSAMENTO DA APELAÇÃO. ADOÇÃO DE DILIGÊNCIAS NECESSÁRIAS. AUSÊNCIA DE DESÍDIA. PREVISÃO DE JULGAMENTO PARA ESTE ANO. 3. EXCESSO DE PRAZO. CRITÉRIO NÃO MATEMÁTICO.
+PARTICULARIDADES DO CASO CONCRETO. SITUAÇÃO DE PANDEMIA. ATRASO NÃO IMPUTÁVEL AO JUDICIÁRIO. 4. REEXAME DA NECESSIDADE DA PRISÃO CAUTELAR. ART. 316, P. ÚNICO, DO CPP. DISPOSITIVO QUE NÃO SE APLICA APÓS A PROLAÇÃO DA SENTENÇA. JURISPRUDÊNCIA DO STJ. RESSALVA DO RELATOR. 5. ORDEM DENEGADA.
+1. Eventual descumprimento das decisões proferidas pelo STJ deve ser questionado pelo instrumento processual adequado, que é a reclamação. Contudo, cuidando-se de recomendação, não há se falar propriamente em inobservância da autoridade da decisão desta Corte, não se tratando, portanto, de habeas corpus substitutivo. Nada obstante a ausência de cunho decisório, mister se faz a efetiva observância às recomendações proferidas pelo STJ, com o objetivo de se evitar a ocorrência de constrangimento ilegal.
+2. Prévia recomendação para que fosse promovida "a maior celeridade possível ao processamento e julgamento da apelação criminal".
+Informações no sentido de que já foi realizada a digitalização bem como a complementação do feito, que trata de processo complexo e com inúmeros volumes. Assim, não há se falar em desídia estatal.
+Ademais, há previsão de julgamento ainda para este ano, o que denota o empenho da Corte Regional em imprimir a celeridade possível.
+3. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Deve se levar em consideração, ademais, a particularidade do momento vivido, uma vez que, em virtude do recrudescimento da pandemia e do retrocesso às fases mais rígidas, houve atraso no cumprimento de determinadas diligências, situação que, por certo, não pode ser imputada ao Poder Judiciário.
+- O excesso de prazo em caso de demora no julgamento de apelação não se afere com base na soma aritmética dos prazos processuais, devendo ser examinadas as peculiaridades da causa, em especial o quantum da pena aplicada na sentença e a complexidade do feito.
+(AgRg no HC 626.530/CE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 10/08/2021, DJe 13/08/2021).
+4. Quanto ao reexame da "necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei n. 13.964/2019", a jurisprudência desta Corte evoluiu no sentido de que o dever de reavaliar periodicamente, a cada 90 dias, a necessidade da prisão preventiva, cessa com a formação de um juízo de certeza da culpabilidade do réu, declarado na sentença, e ingresso do processo na fase recursal, sem prejuízo da possibilidade de se utilizar de ações autônomas. Fica ressalvado o ponto de vista do Relator.
+5. Ordem denegada."
+(HC 670.887/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/08/2021, DJe 30/08/2021)
+"(..).
+1. A aferição do excesso de prazo reclama a observância da garantia daduração razoável do processo, prevista no art. 5º, LXXVIII, daConstituição Federal. Tal verificação, contudo, não se realiza de formapuramente matemática. Demanda, ao contrário, um juízo de razoabilidade, noqual devem ser sopesados não só o tempo da prisão provisória mas também aspeculiaridades da causa, sua complexidade, bem como quaisquer fatores que
+possam influir na tramitação da ação penal.
+2. Esta Corte tem reiterada jurisprudência no sentido de que a análise doexcesso de prazo para o julgamento da apelação deve levar em consideraçãoo quantum de pena aplicada na sentença condenatória.
+(Precedentes.)
+3. Na presente hipótese, o paciente foi condenado, pela prática dosdelitos tipificados no art. 157, § 2º, II, (roubo qualificado) e no art.155, § 4º, IV, c/c o art. 14, II (furto qualificado na forma tentada),todos do Código Penal, à pena total de 8 anos, 9 meses e 23 dias dereclusão, no regime fechado, ocasião em que foi mantida a sua segregaçãocautelar. A prisão preventiva do ora paciente foi decretada em 26/2/2018,o Magistrado de piso proferiu sentença em 16/1/2019 e o recurso deapelação foi recebido no Tribunal de Justiça em 15/4/2019.
+4. Está dentro dos limites de razoabilidade o prazo de pouco mais de 13meses desde o recebimento do recurso de apelação pelo Tribunal de origem,mormente se considerada a pena concretamente aplicada de quase 9 anos dereclusão.
+5. Habeas corpus denegado, recomendando-se ao Tribunal de Justiça estadual
+que seja dada a devida preferência no julgamento do recurso de apelação."
+(HC 571.041/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA,julgado em 23/6/2020, DJe 1/7/2020)
+"(..).
+1. Ao manejar o presente remédio constitucional concomitantemente com osembargos de declaração opostos contra o acórdão proferido pelo Tribunal deorigem, no que tange a aventada ilegalidade da prisão preventiva, a defesapretende a obtenção da mesma prestação jurisdicional em mais de uma via de
+impugnação, circunstância que caracteriza ofensa ao princípio daunirrecorribilidade das decisões judiciais. Precedentes.
+2. Consoante orientação jurisprudencial desta Corte Superior de Justiça,os lapsos temporais indicados na legislação pátria para a finalização dosatos processuais servem apenas como parâmetro geral, não se podendodeduzir o excesso apenas pela soma aritmética dos prazos legais.
+3. Em homenagem ao princípio da razoabilidade, admite-se certa variaçãonos referidos prazos, de acordo com as peculiaridades de cada casoconcreto, devendo o constrangimento ser reconhecido como ilegal somentequando o retardo ou a delonga sejam injustificados e possam ser atribuídosao Judiciário.
+4. Embora seja dever do Estado primar pela célere prestação jurisdicional,em homenagem ao princípio constitucional da razoável duração do processo,forçoso reconhecer que, no caso examinado, não se vislumbra a existênciade decurso de prazo excessivo ou desproporcional no julgamento dosembargos de declaração opostos, inexistindo, em princípio, desídia ounegligência do Estado-Juiz.
+5. Tendo sido proferida em consonância com o entendimento firmado nesteSodalício sobre os temas impugnados, deve ser mantida a decisão agravadapelos seus próprios fundamentos.
+6. Agravo regimental improvido, com recomendação à Corte Estadual para queimprima celeridade no julgamento dos embargos opostos no HC n.0048035-25.2019.8.19.0000."
+(AgRg no HC 543.360/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgadoem 5/3/2020, DJe 17/3/2020)
+"PROCESSUAL PENAL. HABEAS CORPUS TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JULGAMENTO DOSEMBARGOS DE DECLARAÇÃOOPOSTOS CONTRA ACÓRDÃO QUE JULGOU O RECURSO DE APELAÇÃO DA DEFESA.INOCORRÊNCIA. RECURSO INTERPOSTO MENOS DE DOIS MESES ANTES DA IMPETRAÇÃO
+DO PRESENTE MANDAMUS. RAZOABILIDADE. HABEAS CORPUS DENEGADO.
+I - O prazo para a conclusão da instrução criminal não tem ascaracterísticas de fatalidade e de improrrogabilidade, fazendo-seimprescindível raciocinar com o juízo de razoabilidade para definir oexcesso de prazo, não se ponderando a mera soma aritmética dos prazos paraos atos processuais. Precedentes.
+II - In casu, verifica-se que os embargos de declaração foram recebidospelo eg. Tribunal de origem menos dois meses antes da impetração dopresente mandamus, não havendo, por esse motivo, que se falar, ao menospor ora, na configuração de constrangimento ilegal passível de ser sanadopela presente via. Assim, faz-se necessário asseverar que o feito estariaseguindo seu trâmite regular, não se tendo qualquer notícia de fato queevidencie atraso injustificado ou desídia atribuível ao Poder Judiciário.Precedentes.
+Habeas corpus denegado."
+(HC 480.451/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em
+13/12/2018, DJe 4/2/2019)
+Ante o exposto,não conheçodohabeas corpus.Recomenda-se, entretanto,de ofício, ao Relator da Apelação 0000286-74.2017.8.17.0990, quereexamine a necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei n. 13.964/2019 (ADIs 6581/DF e 6582/DF). Recomenda-se, ainda, celeridade..
+Publique-se.
+Intime-se
