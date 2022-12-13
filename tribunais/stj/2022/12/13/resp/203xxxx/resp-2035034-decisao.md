@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl.133):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL INIDÔNEA. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (CÓDIGO DE PROCESSO CIVIL, ARTIGO 485, INCISO IV).
+A REMESSA DE MENSAGEM ELETRÔNICA ATRAVÉS DE "E-MAIL REGISTRADO" NÃO ATENDE AOS REQUISITOS DO ARTIGO 2º, §2º, DO DL911/69 À VALIDADE DA COMPROVAÇÃO DA MORA. LEGISLAÇÃO ESPECÍFICA QUE EXPRESSAMENTE EXIGE, AO MENOS, A REMESSA DE CARTA, COM AVISO DE RECEBIMENTO, AO ENDEREÇO DO FIDUCIANTE. JURISPRUDÊNCIA DESTA CORTE. NÃO ERA CASO DE OPORTUNIZAR AO CREDOR A EMENDA À INICIAL, POIS A VÁLIDA COMPROVAÇÃO DA MORA É CONDIÇÃO DE PROCEDIBILIDADE DA AÇÃO DE BUSCA E APREENSÃO, NÃO SE ADMITINDO QUE OCORRA APÓS O AJUIZAMENTO DA DEMANDA.
+NEGADO PROVIMENTO AO APELO.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 4º, 10, 139, IX, 321 do Código de Processo Civil; aos arts. 2º, § 2º, 3º,do Decreto Lei 911/1969;bem como divergência jurisprudencial.
+Defende a validade da notificação encaminhada ao endereço eletrônico (e-mail) informado no contratopara a constituição em mora do devedor.
+Afirma que não foi dadaao autor a oportunidade de emendar a inicial e que a notificação realizada em data posterior ao do ajuizamento da ação não causará qualquer prejuízo ao devedor.
+Requer ainda que, na hipótese de manutenção do acórdão recorrido, o ônus de sucumbência seja imposto ao devedor em virtude da aplicação do princípio da causalidade
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local não reconheceu a validade da notificação encaminhada por correio eletrônico com base nos seguintes fundamentos (e-STJ, fls.130/132):
+A Ação de Busca e Apreensão, nos termos do artigo 3º, do Decreto Lei n. 911/69, pressupõe a existência do inadimplemento da devedora (mora).
+Outrossim, segundo a nova redação do artigo 2º, parágrafo 2º, do Decreto-Lei n.
+911/69 (alteração dada pela Lei nº 13.043, de 2014), nos contratos de financiamento com garantia fiduciária, não paga a prestação no vencimento já se configura a mora do devedor, ex re, que poderá ser comprovada até mesmo por carta registrada com aviso de recebimento, sequer sendo exigível a assinatura pessoal do destinatário no AR.
+Veja-se que a súmula 72 do STJ dispõe ser imprescindível a comprovação da mora debendi para fins de busca e apreensão, in verbis:
+Súmula 72. A comprovação da mora é imprescindível à busca e apreensão do bem.
+Extrai-se da legislação que regulamenta a matéria, que a despeito de não exigir a notificação pessoal do fiduciante, tampouco a realização de diligência por cartório de títulos e documentos, ainda assim resguarda ao consumidor a prerrogativa de recebimento da carta no endereço que tenha indicado ao credor, mediante demonstração - ao menos - de aviso de recebimento. Mesmo que se atente à inegável modernização de atos administrativos/judiciais, ainda há exigência expressa da legislação específica quanto à remessa, ao menos, de carta AR.
+Dessa forma, conclui-se pela insuficiência da pretendida comprovação da mora através de e-mail registrado, por ausência, in casu, de garantia de recebimento e leitura. Nesse sentido a recente jurisprudência desta Corte, e.g.:
+(..)
+Cumpre referir, por oportuno, que descabe a concessão de prazo para regularização da comprovação da mora. Ocorre que a notificação extrajudicial é condição de procedibilidade da ação de busca e apreensão, devendo, portanto, dar-se previamente à propositura do feito. A ação somente se justificaria pela inércia do devedor após sua intimação acerca do débito. Logo, o protesto de título de fl. 31, posterior ao ajuizamento da ação, não se presta ao fim pretendido.
+Diz a jurisprudência:
+(..)
+Dessa forma, sendo a comprovação da mora pressuposto de constituição e de desenvolvimento da ação de busca e apreensão (Código de Processo Civil, artigo 485, inciso IV), verificada sua inidoneidade, não é possível dar continuidade ao feito.
+Na hipótese, a Corte estadual negou provimento ao recurso de apelação da instituição financeira por considerar a ausência de comprovação da mora, eis que a notificação enviada somente para o endereço eletrônico (e-mail) do devedor não é válidapara constituição em mora, pois não encontra respaldo no §2º do art. 2º do Decreto-Lei nº 911/69.
+Nesse contexto, o acórdão recorrido está em conformidade com a jurisprudência do STJ, pois,embora não seja necessária a notificação pessoal do devedor, é indispensável a comprovação do recebimento da comunicação no endereço constante do contrato, o que não foi demonstrado. A propósito confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. COMPROVAÇÃO DA MORA. CONDIÇÃO DE PROCEDIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor.
+Para rever a conclusão que chegou o Tribunal de origem quanto à falta de regular notificação acerca da mora, seria necessário o reexame do conjunto fático-probatório dos autos, providência descabida, tendo em vista a incidência da Súmula n. 7/STJ.
+2. Esta Corte de Justiça entende que a comprovação da mora é condição de procedibilidade da ação de busca e apreensão, não se admitindo que ocorra após o ajuizamento da demanda. Incidência da Súmula n. 83/STJ.
+3. Agravo interno improvido.
+(AgInt no REsp n. 2.022.425/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.)
+Destaco, ainda,que oart. 2º, parágrafo 2º, do Decreto-Lei 911/69, dispõe que"a mora decorrerá do simples vencimento do prazo para pagamento e poderá sercomprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+Além disso, para revisar as conclusões adotadas pela Corte estadual no sentido de ter havido comprovação do recebimento da notificação eletrônica pelo destinatário, demandaria, necessariamente, a revisão do contexto fático-probatório dos autos, o que é vedado a teor do enunciado n. 7 da Súmula do STJ.
+No tocante à tese de ofensa aos 4º, 10, 139, IX, 321, do CPC, uma vez que não foi conferidaoportunidade para emenda da inicial, verifica-se que a conclusão adotada peloacordãorecorrido está em concordância com ajurisprudência desta Corte, que reconhecea prévia notificação como condição de procedibilidade para o manejo da ação debusca e apreensão.Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DEBUSCA E APREENSÃO.JUROS REMUNERATÓRIOS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. DESCARACTERIZAÇÃO DA MORA. RECONHECIMENTO DE ÍNDOLE ABUSIVA DE ENCARGO INCIDENTE NO PERÍODO DA NORMALIDADE. EXTINÇÃO DA AÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Agravante que deixou de impugnar especificamente a incidência da Súmula 83/STJ, aplicada pela decisão agravada, o que atrai o disposto na Súmula 182/STJ. Precedente. 2. "Consoante o teor da Súmula 72 desta Corte, a demonstração da mora é indispensável ao ajuizamento da ação debusca e apreensãodo bem alienado fiduciariamente. Assim, descaracterizada a mora, impõe-se a extinção dabusca e apreensão" (REsp 1.396.500/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/10/2013, DJe de 06/11/2013).
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 1.378.505/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/2/2019, DJe de 13/3/2019.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DEBUSCA E APREENSÃO- ENTREGA DA NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO - COMPROVAÇÃO DA MORA - POSSIBILIDADE - DECISÃO AGRAVADA MANTIDA.
+1.- O Tribunal de origem decidiu que foi observada condição de procedibilidade da ação debusca e apreensão.
+2.- A comprovação da mora se dá por meio do protesto do título, se houver, ou pela notificação feita extrajudicialmente, mediante envio de carta registrada expedida por intermédio do Cartório de Títulos e Documentos, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário.
+3.- O entendimento do Tribunal de origem, quanto à regularidade da constituição em mora, uma vez que a notificação extrajudicial foi encaminhada ao domicílio do devedor, mediante carta registrada, e ali foi recebida, embora não por ele, coaduna-se com o firmado nesta Corte. Aplicável, portanto, o enunciado 83 da Súmula desta Corte.
+4.- O agravado não trouxe qualquer argumento capaz de infirmar a decisão agravada, que se mantém por seus próprios fundamentos.
+5.- Agravo Regimental improvido.
+(AgRg no AREsp 133.642/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/06/2012, DJe 26/06/2012)
+Quanto à alegação de que o ônus de sucumbência deve recair sobre o devedor em razão daaplicação do princípio da causalidade, observo quea parterecorrente não indicou qualodispositivode lei federal teriasido violadoou sobrequal recairia a divergência.Tais circunstâncias prejudicam a compreensão da controvérsia e atraem oóbice contido no enunciado n. 284 da Súmula do STF.
+Em face do exposto, nego provimento ao recurso especial.
+Sem majoração de honorários advocatícios, porquanto não fixados na origem.
+Intimem-se.
