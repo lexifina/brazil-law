@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULOcontra decisão de inadmissão de seu recurso especial, o qual fora manejado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ fl. 188):
+APELAÇÃO - Ação anulatória c. c repetição de indébito - Município de São Paulo ITBI - Base de cálculo para recolhimento - Valor venal do imóvel utilizado para o cálculo do IPTU ou valor da transação, o que for maior - Inteligência do IRDR nº 2243516-62.2017.8.26.0000 - Imposição de prévia fixação da base de cálculo atinente ao valor venal de referência - Descabimento - Declaração de inconstitucionalidade dos artigos 7º-A, 7º-B e 12 da Lei 11.154/91 pelo c. Órgão Especial do TJSP - Afronta ao princípio da legalidade insculpido no artigo 150, I da Constituição da República e artigo 97, II e IV do CTN - Sentença mantida - Recurso desprovido.
+No seu recurso especial, interposto com base na alínea "a" do permissivo constitucional, o recorrente aponta violação dos arts. 38, 97, II, e 148do CTNe do art. 373, I, do CPC/2015.
+Aduz, em síntese, que "não há nos autos qualquer prova que demonstre que o processo administrativo que arbitrou o valor do bem para efeitos da incidência do ITBI, tenha sido feito de forma desarrazoada ou distante da realidade do mercado imobiliário. Era ônus do apelado comprovar que os valores apurados em arbitramento administrativo não estavam em consonância com o mundo fenomênico" (e-STJ fl. 200).
+Afirma, ainda, que, "ao contrário do entendimento preconizado no Juízo a quo, a partir da intimação do contribuinte inicia-se o direito ao exercício do contraditório e da ampla defesa, tanto assim o é que com a autuação, uma vez apresentada a defesa, sem a necessidade de realização de depósito, fica suspensa a exigibilidade do crédito tributário. O que demonstra que com a intimação do resultado do arbitramento começa para o contribuinte o momento de realizar a impugnação, fazer provas, realizar periciais, inclusive. No caso é indubitável que o contribuinte foi devidamente intimado a optou por não realizar qualquer impugnação no âmbito administrativo" (e-STJ fl. 204).
+Aventa, outrossim, matéria relativa à correta fixação da base de cálculo do ITBI.
+Contrarrazões às e-STJ fls. 226/250.
+Recurso especial ao qual foi negado seguimento em relação ao tema da base de cálculo do ITBIeinadmitidoem relação à nulidade do procedimento administrativo pela falta de intimação do contribuinte (e-STJ fls. 253/254).
+Decisão agravada (e-STJ fls. 257/254).
+Sem contraminuta (e-STJfls. 277/301).
+A irresignação não merece prosperar.
+Ao reconhecer a nulidade do procedimento administrativo-fiscal, dada a falta de regular intimação do contribuinte, assim se manifestouo Tribunal de origem (e-STJ fl. 190):
+(..) para se proceder ao lançamento complementar, deve a municipalidade garantir ao contribuinte o direito ao contraditório e à ampla defesa, o que, em análise dos documentos de fls. 93/111 colacionados aos autos, não ocorreu.
+Logo, como bem decidido na r. sentença, era mesmo o caso de se anular o auto de infração e o processo administrativo, já que a apelada não foi devidamente intimada.
+Evidentemente, mostra-se impossível a revisão desse entendimento, no sentido de que não houve intimação do contribuinte do procedimento administrativo-fiscal, uma vez que demandaria ultrapassar o quadro fático desenhado nas instâncias ordinárias, providência vedada pela Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
