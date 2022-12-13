@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em nome deWallan Rodrigo Abrao, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo em Execução Penal n. 0009975-02.2022.8.26.0996).
+Alega-se que a data-base para a progressão ao regime aberto deve ser a data em que o sentenciado preencheu o lapso temporal para a progressão ao regime semiaberto, independentemente da data da decisão judicial que deferiu o benefício ou a realização do exame criminológico, tendo em vista seu caráter declaratório.
+Requer-se, em liminar e no mérito, a concessão da ordem para determinar a retificação do cálculo de penas, definindo a data-base para cálculo de aquisição de benefício a data em que atingido o lapso para o regime semiaberto.
+É o relatório.
+Não há, na espécie, manifesto constrangimento ilegal a ser reparado por meio destehabeas corpussubstitutivo de recurso especial, pois, pelo que consta do acórdão, o Tribunal estadual decidiu nos exatos termos da jurisprudência desta Casa.
+A jurisprudência assente do Superior Tribunal de Justiça considera que, sendo determinada a realização deexame criminológico, reputa-se preenchido o requisito subjetivo no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Caso dos autos. Precedente: HC n. 414.156/SP, Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017(AgRg no HC n. 620.573/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/12/2020, DJe 7/12/2020).
+Em outras palavras,a data-base para verificação do implemento dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo (HC n. 526.825/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 20/11/2019)- (AgRg no HC n. 625.371/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe 10/12/2020).
+Mais recentes: AgRg no HC n. 634.186/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2021, DJe 30/3/2021; e AgRg no HC n. 669.349/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe 20/9/2021.
+Ante o exposto,indefiro liminarmenteowrit.
+Publique-se.
+EMENTA
+HABEAS CORPUSSUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPLEMENTAÇÃO DE REQUISITOS SUBJETIVOS E OBJETIVOS. DATA-BASE. DIA DO ADIMPLEMENTO DA ÚLTIMA CONDIÇÃO. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO PREENCHIDO NA DATA DO PARECER FAVORÁVEL EXARADO. JURISPRUDÊNCIA ASSENTE DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writindeferido liminarmente.
