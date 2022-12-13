@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "b" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    CIVIL. - PROCESSO CIVIL. RESPONSABILIDADE CIVIL. DANO ,MATERIAL, MORAL E ESTÉTICO. DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES (DNIT). ACIDENTE DE TRÂNSITO. FALTA DE MANUTENÇÃO E SINALIZAÇÃO DA. RODOVIA. PRESENÇA DE AREIA E BRITA, NA FAIXA DE ROLAMENTO - LESÃO PERMANENTE NO CONDUTOR DO VEÍCULO. PARAPLEGIA. INDENIZAÇÃO DEVIDA SEGURO OBRIGATÓRIO. COMPENSAÇÃO DO RESPECTIVO VALOR COM O DA INDENIZAÇÃO. JUROS DE MORA E CORREÇÃO MONETÁRIA, INCIDÊNCIA DO MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. APELAÇÃO E REMESSA OFICIAL, PROVIDAS EM PARTE. 1. Demonstrada a negligência do Dnit, diante das atribuições que lhe foram conferidas pelo art. 82, inciso IV, da Lei n: 10.23312001, é cabível reparação dos danos causados aos autores; decorrentes das. sequelas sofridas em razão de acidente ocorrido em rodovia federal mal conservada e sinalizada, cuja faixa de rodagem se encontrava ,tornada por significativa quantidade de brita e areia que tomou impossível o controle da direção do veiculo. 2. Na jurisprudência pátria está pacificado o entendimento de que é subjetiva, visto que decorrente de omissão, a responsabilidade do Dnit, nos casos de acidente em rodovia federal, ocasionado pela má conservação da via. Esse entendimento decorre do dever legal que tem o Dnit de prover a segurança do tráfego nas rodovias federais, por meio de constantes ações de manutenção e conservação. Precedentes. 3. Valores referentes aos danos morais fixados em R$ 90.000,00 (noventa mil reais), em favor de Valtenes Jacinto Silva, R$ 5.000,00 (cinco mil reais) a ser pago a Ana Maria Santana e R$ 5.000,00 (cinco mil reais) devidos a Steffany Figueiredo que, diante das circunstâncias do caso, mostram-se razoáveis para reparar o gravame sofrido, especialmente em razão da lesão irreversível experimentada pelo I° requerente, que o tomou paraplégico e incapacitado para o exercício de atividade econômica. 4. Mantidos os valores estabelecidos a título de reparação dos danos estéticos em favor de Valtenes Jacinto Silva e Ana Maria Santana, porque fixados em parâmetros razoáveis, admitidos pela jurisprudência pátria, o mesmo ocorrendo em relação aos danos materiais. 5. A pleiteada compensação do valor da indenização com a do seguro obrigatório dependeria da demonstração de que os autores receberam o montante correspondente ao aludido seguro, ônus que cabia ao recorrente e do qual não se desincumbiu. 6. A incidência dos juros de mora, na espécie, deve ser feita em consonância com os ditames da Súmula n. 54 do Superior Tribunal de Justiça, a partir do evento danoso. 7. A correção monetária deverá incidir a partir do arbitramento, ou seja, da data da sentença que reconheceu a ocorrência do dano moral (AC n. 0021403-94.2004.4.01.3500/GO, Relator Desembargador Federal João Batista Moreira, e-DJF1 de 06.09.2013, p. 318). 8. Apelação do Dnit e remessa oficial, providas, em parte, para estabelecer a forma de incidência dos juros de mora e da correção monetária.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5°, incisos XXXV, LIV e LV; 37, § 6º; 93, inciso IX; e 100, § 12º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o art. 93, inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento, como ocorreu no caso em tela (AI nº 791.292/PE-RG-QO, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+
+    Outrossim, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), o Plenário da Corte ratificou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli (Presidente), DJe de 1º/2/19).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Acidente de trânsito. Responsabilidade objetiva. Dano moral e material. Dever de indenizar. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC)” (ARE nº 1.096.566/PE-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 2/5/18).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Agravo regimental a que se nega provimento” (ARE nº 936.614/PE-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 9/8/16).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 13 de dezembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
