@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto peloMINISTÉRIO PÚBLICO FEDERAL contra decisão doTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, quenão admitiu recurso especial, fundadonas alíneas "a" e "c" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 260):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. LOAS. DEFICIÊNCIA NÃO COMPROVADA. REQUISITOS NÃO PREENCHIDOS. VERBA HONORÁRIA. REEXAME NECESSÁRIO NÃO CONHECIDO. APELAÇÃO DA PARTE AUTORA DESPROVIDA. SENTENÇA MANTIDA.
+1 - Considerando as datas do termo inicial e da prolação da sentença, bem como o valor da benesse (01 salário mínimo mensal), a hipótese em exame não excede os 1.000 salários mínimos, não havendo que se falar em remessa oficial, nos termos do art. 496, § 3º, inciso I, do NCPC.
+2 - O Benefício Assistencial requerido está previsto no artigo 203, inciso V, da Constituição Federal, e regulamentado pelas atuais disposições contidas nos artigos 20, 21 e 21-A, todos da Lei 8.742/1993.
+3 - A concessão do benefício assistencial (LOAS) requer o preenchimento concomitante do requisito de deficiência/idade e de miserabilidade. Requisitos legais não preenchidos.
+4 - O laudo pericial foi exaustivo e preciso ao atestar que a autora não possui efetivo impedimento ou incapacidade para atividade laboral, ou inserção no meio social, sendo capaz de exercer suas atividades habituais de forma plenamente autônoma, de modo que não faz jus ao benefício requerido.
+5 - Parte autora condenada ao pagamento de honorários sucumbenciais.
+6 - Reexame Necessário não conhecido. Apelação da parte autora desprovida. Sentença mantida.
+Embargos de declaração rejeitados (e-STJ fls. 286/290).
+No recurso especial obstaculizado, o MPF apontou aviolação doart.1.022, I, primeira parte, do CPC/2015, e dissídio jurisprudencial, alegando a ocorrência da seguinteobscuridade no acórdão embargado (e-STJ fls. 304/305):
+Na hipótese vertente, o acórdão vergastado afirmou que o laudo pericial atestou precisa e exaustivamente que "a autora não possui efetivo impedimento ou incapacidade para atividade laboral, ou inserção no meio social, sendo capaz de exercer suas atividades habituais de forma plenamente autônoma" (ID 146864811).
+Trata-se de fundamento obscuro, que não se compreende diante do que consta do referido laudo:
+5-O periciando apresentada doença ou moléstia que o incapacite para o exercício de sua atividade laborativa habitual  Em caso afirmativo, citar o respectivo CID.
+Sim, com redução permanente de sua capacidade de trabalho (incapacidade parcial e permanente).
+6-Se houver incapacidade, trata-se de incapacidade temporária ou permanente
+Permanente.
+7-Considerando a atividade laborativa habitual do periciando, sua qualificação profissional e outros elementos que julgar pertinentes, trata-se de incapacidade total (para toda e qualquer atividade profissional) ou parcial (somente para algumas atividades profissionais, dentre as quais a que o autor exerce atualmente)
+Há redução permanente de sua capacidade de trabalho (incapacidade parcial e permanente) omniprofissional.
+Como se viu, o expert afirmou que a Demandante padece de moléstia que a incapacita para o exercício de sua atividade habitual, com redução parcial e permanente da sua capacidade laborativa para todas as profissões.
+Nessa trilha, não obstante o princípio do convencimento motivado (artigo 371 do CPC), contrariar diretamente as conclusões da perícia, sem indicar expressamente os motivos que justificam sua desconsideração, além de caracterizar violação ao artigo 1.022, inciso I, primeira parte, do CPC, implica ofensa ao artigo 479 do CPC.
+Aduziu, ainda, ofensa aosarts.489, § 1º, I, e1.022, II, do CPC/2015, e divergência jurisprudencial, por negativa de integração do Tribunal local "ao desconsiderar os fatos indicados pelo Parquet em sua manifestação de ID 135761354, às fls. 2/3, no sentido de que, conforme atestado pelo perito, a Demandante estudou apenas até o oitavo ano do ensino fundamental, apresenta força muscular reduzida na mão e antebraço esquerdos, e possui histórico profissional limitado a atividades braçais, como empregada doméstica, trabalhadora rural e do lar. Tratando-se de questão cujo exame é relevante para fins de aferição do impedimento de longo prazo no caso concreto e, nessa medida, capaz de infirmar a conclusão adotada pelos Julgadores" (e-STJ fl. 305).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+O Ministério Público Federal opinou pelo conhecimento do agravo, para conhecer e prover o recurso especial, determinando-se o retorno dos autos ao Tribunal a quo, para que supra os vícios apontados (e-STJ fls. 343/350).
+Passo a decidir.
+Verifico que a pretensão merece prosperar.
+O art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveiscontra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência da parte agravante se amolda àhipótesedo art. 1.022, I, primeira parte, do CPC/2015, bem como àelencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não enfrentou a suscitada obscuridade sobre aconclusão da perícia acerca daredução parcial e permanente da capacidade laborativa da demandante para todas as profissões, além denão ter exprimidojuízo de valor sobre o fato de queestudou apenas até o oitavo ano do ensino fundamental, apresenta força muscular reduzida na mão e antebraço esquerdos, e possui histórico profissional limitado a atividades braçais, como empregada doméstica, trabalhadora rural e do lar.
+Os referidostemas foram submetidos à apreciação do Tribunal de origem, conforme se extrai do seguinte trecho dos embargos de declaração opostos pela parte insurgente (e-STJ fls. 273/274):
+Todavia, o julgado é omisso, tendo em vista que não considerou os argumentos do Ministério Público Federal, trazidos em sua manifestação de ID 135761354, às fls. 2/3, no sentido de que, conforme atestado pelo perito, a Apelante estudou apenas até o oitavo ano do ensino fundamental, apresenta força muscular reduzida na mão e antebraço esquerdos, e possui histórico profissional limitado a atividades braçais, como empregada doméstica, trabalhadora rural e do lar.
+Tratando-se de argumentos relevantes para fins de aferição do impedimento de longo prazo no caso concreto e, nessa medida, capazes de infirmar a conclusão adotada pelos Julgadores, ignorá-los caracteriza infringência ao artigo 489, § 1º, inciso IV, do CPC.
+O acórdão também é obscuro ao afirmar que o laudo pericial atestou precisa e exaustivamente que "a autora não possui efetivo impedimento ou incapacidade para atividade laboral, ou inserção no meio social, sendo capaz de exercer suas atividades habituais de forma plenamente autônoma".
+Não é possível compreender esse ponto da fundamentação, uma vez que consta do referido laudo:
+5-O periciando apresentada doença ou moléstia que o incapacite para o exercício de sua atividade laborativa habitual  Em caso afirmativo, citar o respectivo CID.
+Sim, com redução permanente de sua capacidade de trabalho (incapacidade parcial e permanente).
+6-Se houver incapacidade, trata-se de incapacidade temporária ou permanente
+Permanente.
+7-Considerando a atividade laborativa habitual do periciando, sua qualificação profissional e outros elementos que julgar pertinentes, trata-se de incapacidade total (para toda e qualquer atividade profissional) ou parcial (somentepara algumas atividades profissionais, dentre as quais a que o autor exerce atualmente)
+Há redução permanente de sua capacidade de trabalho (incapacidade parcial e permanente) omniprofissional.
+Como se viu, o expertafirmou que a Demandante padece de moléstia que a incapacita para o exercício de sua atividade habitual, com redução parcial e permanente da sua capacidade laborativa para todasas profissões.
+Nessa trilha, não obstante o princípio do convencimento motivado (artigo 371 do CPC), contrariar diretamente as conclusões da perícia, sem indicar expressamente os motivos que justificam sua desconsideração, constitui infringência ao artigo 479 do CPC.
+É de rigor, então, o esclarecimento da obscuridade, a fim de que a decisão vindoura, observando as respostas aos quesitos colacionados acima, torne compreensíveis os fundamentos de que a Autora não possui impedimento, nem incapacidade laborativa, e de que é capaz para o exercício de suas atividades habituais.
+Logo, estando configurados os vícios apontados pela parte recorrente no apelo nobre,faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que sejam sanados pela Corte de origem.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração, por violação do art. 1.022, I, primeira parte,e II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos pela parteora agravante esaneos vícios ora identificados.
+Publique-se. Intimem-se.
