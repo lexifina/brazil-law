@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de SÉRGIO RICARDO VIEIRA DE CARVALHO, no qual se apontacomo autoridade coatora o TRIBUNAL DE JUSTIÇA DO MARANHÃO, que, em 11/11/2022, por unanimidade de votos, julgou parcialmente procedente a Revisão Criminal n.0813959-83.2022.8.10.0000.
+O paciente tinha sidocondenado, ao lado de outras duas pessoas, à pena de 12 anos de reclusão, mais pagamento de 90 dias-multa, pela prática do delito descrito no art. 157, § 2º, I e II, do Código Penal (Processo n. 2.660/2006, da 3ª Vara da comarca de Timon/MA). E a Corte estadual, na ação revisional,redimensionoua pena dele, reduzindo-a a8 anos e 4 meses de reclusão, em regime inicialmente fechado, além de 90 dias-multa, mantidos inalterados os demais termos da decisão impugnada.
+Eis a ementa do acórdão ora atacado (fl. 160):
+REVISÃO CRIMINAL. GRATUIDADE DA JUSTIÇA. HIPOSSUFICIÊNCIA NÃO REFUTADA. DEFERIMENTO. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS. ART. 157, § 2º, I E II DO CP. DOSIMETRIA.PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. ANTECEDENTES CRIMINAIS.PERSONALIDADE. MOTIVOS. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME.FUNDAMENTAÇÃO INIDÔNEA. REVISÃO DO CÁLCULO DOSIMÉTRICO QUE SE IMPÕE. PRETENSÃO REVISIONAL PARCIALMENTE PROCEDENTE.
+I. O pleito de gratuidade da justiça, formulado com arrimo no argumento de hipossuficiência do requerente, mormente porque não refutado pela parte adversa, goza de presunção de veracidade, impondo-se o seu deferimento.
+II. Constatada a existência de fundamentação inidônea na atribuição de valoração negativa de circunstâncias judiciais do art. 59 do CP - antecedentes criminais, personalidade do agente e motivos do crime -, de rigor o afastamento.
+III. Não obstante o reconhecimento da ausência de motivação idônea para justificar a vetorial das circunstâncias do crime, é possível ao Tribunal, ainda que em sede de revisão criminal, reajustar a dosimetria da pena, deslocando uma das majorantes do crime de roubo para fins de exacerbação da reprimenda na fase inicial do cálculo dosimétrico, suprindo a fundamentação do comando sentencial impugnado.
+IV. De acordo com o STJ, " m algrado não seja possível atribuir à revisão criminal o efeito devolutivo amplo da apelação, tal ação originária devolve ao Tribunal o exame das questões deduzidas pela defesa, sem que reste caracterizada a ocorrência de reformatio in pejus no emprego de nova fundamentação ao sopesar os parâmetros dosimétricos, máxime se a pena foi expressivamente reduzida no julgamento colegiado." (AgRg no HC n. 453.140/MA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/4/2021, DJe de 9/4/2021).
+V. Revisão Criminal julgada PARCIALMENTE PROCEDENTE, para redimensionar a pena do requerente, Sergio Ricardo Vieira de Carvalho, reduzindo-a ao quantum 8 (oito) anos e 4 (quatro) meses de reclusão, em regime inicialmente fechado, além de 90 (noventa) dias-multa, mantidos inalterados os demais termos da decisão impugnada.
+Sobreveio, então, o presente writ, em que se busca a concessão da ordem para reconhecer a fundamentação inidônea na exasperação da pena-base em relação às consequências do crime, bem como para que seja fixado o regime semiaberto para início de cumprimento de pena.
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, afinal o entendimento do Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça.
+Além dos precedentes citados no acórdão (RHC n. 134.491 AgR, Ministra Rosa Weber, Primeira Turma, DJe 26/11/2018; e AgRg no HC n. 740.492/SP, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022), confira-se este da minha relatoria:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 59 E 68 DO CP. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. PREJUÍZO RELEVANTE À VÍTIMA. FUNDAMENTAÇÃO IDÔNEA.
+1. Consoante a jurisprudência desta Corte, o alto prejuízo suportado pela vítima ultrapassa as consequências ordinárias do tipo penal de roubo, razão pela qual representa fundamento idôneo para aumentar a pena-base. Precedentes.
+2. In casu, o Tribunal de origem consignou o relevante prejuízo sofrido pelas vítimas, notadamente uma delas, que necessitou despender recursos para consertar a moto que foi completamente desmontada. Assim, não há que se falar em bis in idem.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.739.450/SE, da minha relatoria, Sexta Turma, DJe 14/10/2022)
+No caso, o acórdão impugnado manteve a sentença recorrida que valorou negativamente a vetorial das consequências do crime mediante fundamentação legítima para exasperação da pena-base, considerando-se o elevado prejuízo sofrido pela vítima à época dos fatos (2.12.2006), no valor de R$ 3.000,00 (três mil reais)- fl. 176.
+Afora isso, para modificar tal conclusão, seria indispensável o reexame fático-probatório, providência totalmente descabida na via eleita.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONDENAÇÃO TRANSITADA EM JULGADO. PENA-BASE. CONSEQUÊNCIAS DO DELITO. ELEVADO PREJUÍZO SOFRIDO PELA VÍTIMA. ACÓRDÃO EM CONSONÂNCIA COM A FIRME JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Petição inicial indeferida liminarmente.
