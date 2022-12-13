@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HEDGE BPF INVESTIMENTOS E COMÉRCIO LTDA contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ.
+Alegaoagravanteque os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, ae c, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0813314-06.2019.8.12.0001) assim ementado (fl. 289):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C REVISIONAL DE CONTRATO - ARRAS - RETENÇÃO INDEVIDA - FRUIÇÃO - LOTE NÃO EDIFICADO- INDEVIDA - CORRETAGEM - TRANSFERÊNCIA AO COMPRADOR EM CASO DERESCISÃO - BIS IN IDEM - RESTITUIÇÃO DOS VALORES EM PARCELAÚNICA - PRECEDENTESTJ - DESPESAS ADMINISTRATIVAS NÃO COMPROVADAS - HONORÁRIOS DE SUCUMBÊNCIA FIXADOS SOBRE O VALORDACAUSA - MANUTENÇÃO. RECURSO CONHECIDOE DESPROVIDO. 1. Por ocasião da rescisão contratual pelo promitente comprador, em razão da insuportabilidade financeira, o valor dado a título de sinal (arras) deve ser-lhe restituído, sob pena de enriquecimento sem causa da vendedora. E, consoante precedentes do STJ, ainda que o comprador tenha se arrependido do negócio, não importa em perda da arras. 2. Tratando-se de compra de lote de terreno sem edificação, não há se falar em incidência da taxa de fruição. 3. Para o caso de rescisão por culpa do comprador já há previsão de retenção de valores a título de multa como cláusula penal justamente para ressarcir prejuízos, de modo que admitir também a restituição de corretagem implica em bis in idem. 4. No que diz respeito à forma de restituição dos valores pagos, a matéria já se encontra pacificada no STJ por meio de recurso representativo de controvérsia, sendo a restituição em parcela única. 5. Não há se falarem pagamento de despesas administrativas, quando efetivamente não restaram comprovadas. 6. No que se refere à fixação da verba honorária, não há como aferir o proveito econômico, até porque com a determinação de compensação de valores, ao final este pode vir a se revelar irrisório. Daí que não merece reparos a sentença que arbitrou a verba honorária sobre o valor atualizado da causa.
+Os embargos de declaração opostosforam rejeitados (fls. 333-337).
+Norecurso especial (fls. 339-355), orecorrente  apontaviolação dos arts.402, 403, 884 e 885 do Código Civil.Defende que a partir da posse "deveria o recorrido pagar pela fruição, de forma a compensar (indenizar) a recorrente pelo tempo em que teve o bem a sua disposição" (fl. 347).
+Aduzaindadivergência jurisprudencial ao recurso repetitivo representadopelo REsp n. 1.551.951/SP, sob o argumento de queos "casos confrontados são essencialmente idênticos" (fl. 352).
+Requer  o  conhecimento  e  provimento  do  recurso para viabilizar a cobrança da taxa de fruição, bem como oabatimento dos valores gastos com comissão de corretagem.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+O  Tribunal  de  origem manteve a manteve a sentença e, quanto às questões apontadas nesta via recursal, decidiu nos seguintes termos  (fls. 294-296):
+No mais, recorre a apelante para que a indenização pela fruição seja determinada a partir do recebimento do imóvel pelo apelado, conforme data indicada no contrato, até efetiva entrega.
+Razão alguma lhe assiste.
+É que em se tratando de compra de lote de terreno sem edificação, não há se falar em incidência da taxa de fruição.
+ ..
+Outrossim, sustenta a apelante fazer jus à retenção de valores no equivalente à taxa de corretagem, conforme estabelecido no contrato e em consonância com o STJ.
+Verifico, no entanto, que na hipótese há peculiaridade que difere dos precedentes invocados.
+Veja que no contrato a corretagem não foi inicialmente atribuída ao comprador. Prevê a cláusula décima sexta que a comissão do corretor, no importe de 7% do valor do contrato, é de responsabilidade da vendedora. Confira:
+ ..
+Apenas para o caso de rescisão contratual por culpa do comprador é que o contrato prevê a retenção pela vendedora das despesas que desembolsou com a corretagem, conforme parágrafo único da referida cláusula:
+ ..
+Ocorre que para o caso de rescisão por culpa do comprador já há previsão de retenção de valores a título de cláusula penal justamente para ressarcir prejuízos, de modo que admitir também a restituição de corretagem implicaria em bis in idem, razão pela qual mantenho a sentença também quanto a nulidade da cobrança, ainda que por fundamento diverso.
+No que diz respeito à forma de restituição dos valores pagos, a matéria já se encontra pacificada no STJ por meio de recurso representativo de controvérsia:
+ ..
+Agora, quanto ao pagamento de despesas administrativas, efetivamente, não restaram comprovadas, tendo sido apenas indicada de forma genérica, não havendo demonstração de qualquer valor.
+Por fim, no que se refere à fixação da verba honorária, não há como aferir o proveito econômico, até porque com a determinação de compensação de valores, ao final este pode vir a se revelar irrisório.
+Daí que, não merece reparos a sentença que arbitrou a verba honorária sobre o valor atualizado da causa.
+Ante o exposto, conheço e nego provimento ao presente recurso de apelação. Por consequência, majoro para 12% sobre o valor da causa os honorários de sucumbência, nos termos do art. 85, §11, do CPC.
+É como voto.
+Quanto às alegações de violação dos arts. 402, 403, 884 e 885 do Código Civil, defendendo que a partir da posse "deveria o recorrido pagar pela fruição, de forma a compensar (indenizar) a recorrente pelo tempo em que teve o bem a sua disposição" (fl. 347), observa-se que a decisão da corte de origem guarda amparo na jurisprudência desse STJ, no sentido de "ser inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da efetiva ausência de utilização do bem" (AgInt no AREsp n. 2.141.386/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/10/2022).
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL (LOTE). TAXA DE FRUIÇÃO INDEVIDA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Consoante entendimento desta Corte Superior, tratando-se de terreno sem edificação e não havendo prova de realização de qualquer benfeitoria no lote, bem como ausente qualquer comprovação de prejuízo efetivo, não há que se falar em indenização a título de fruição do imóvel (REsp 1.863.007/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 23/3/2021, DJe 26/3/2021).
+2. "A controvérsia foi dirimida no TJSP nos termos da jurisprudência pacífica desta Corte, de que o arrependimento do promitente comprador de unidade habitacional em construção não importa em perda das arras se estas forem confirmatórias, admitindo-se, contudo, a retenção, pelo vendedor, de parte das prestações pagas, como forma de indenizá-lo pelos prejuízos eventualmente suportados com o desfazimento do negócio. Aplicação, ao caso, da Súmula nº 568 do STJ." (AgInt no REsp 1.864.915/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 24/8/2020, DJe 27/8/2020).
+3. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.940.543/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE LOTE NÃO EDIFICADO. RESCISÃO DE CONTRATO. TAXA DE FRUIÇÃO. DESCABIMENTO. EXISTÊNCIA DE DIVERGÊNCIA NESTA CORTE. RAZÃO RECURSAL INSUFICIENTE. AGRAVO INTERNO DESPROVIDO.
+1. A decisão monocrática está fundada em precedente desta Corte sobre a matéria, no sentido do descabimento da taxa de fruição de imóvel não edificado.
+2. A arguição de existência de entendimento diverso neste Superior Tribunal deve ser feita através dos competentes embargos de divergência.
+3. Razão recursal insuficiente para a revisão do julgado.
+4. Agravo interno desprovido.(AgInt nos EDcl no REsp n. 1.992.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma,DJe de 24/8/2022.)
+Incide, pois, a Súmula n. 83 do STJ.
+No tocante à suscitada divergência jurisprudencial a respeito da retenção da taxa de corretagem, a Corte de origem consignou a expressa disposição contratual no sentido de que a "cláusula décima sexta que a comissão do corretor, no importe de 7% do valor do contrato, é de responsabilidade da vendedora" (fl. 295).
+Nesse sentido, o recurso especial é inviável quando a modificação das conclusões adotadas no acórdão recorrido demanda reinterpretação de cláusulas contratuais, vez quedemandaria revolvimento do quadro fático-probatório, no sentido de reconhecer a ausência do intuito protelatório, inviável em sede de recurso especial, em razão dos óbices das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. CLONAGEM. RESPONSABILIDADE. ADMINISTRADORA. CREDENCIADORA. ILEGITIMIDADE PASSIVA. SÚMULA Nº 83/STJ. PRESTAÇÃO DOS SERVIÇOS. FALHA. REVISÃO. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. As administradoras de cartão de crédito se responsabilizam integralmente pela compra do consumidor, assumindo o risco de crédito, bem como de eventual fraude, notadamente quando há falha na prestação do serviço. Precedentes.
+4. O recurso especial é inviável quando a modificação das conclusões adotadas no acórdão recorrido demanda reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ).
+5. Agravo interno não provido.(AgInt no AgRg no AREsp n. 731.449/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/11/2022.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento.(AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/12/2022.)
+Por fim,a "incidência da Súmula n. 7 do STJ impede o conhecimento do recurso no tocante à alínea c do permissivo constitucional" (REsp n. 1.455.515/ES, de minha relatoria, Terceira Turma, DJe de 9/6/2016).
+No mesmo sentido, cito os seguintes precedentes:AgInt no AREsp n. 2.165.595/RS, relator Ministro Moura Ribeiro, Terceira Turma,DJe de 30/11/2022;AgInt no REsp n. 1.892.085/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022; eAgRg no REsp n. 1.533.380/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/12/2021.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 20% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se.  Intimem-se.
