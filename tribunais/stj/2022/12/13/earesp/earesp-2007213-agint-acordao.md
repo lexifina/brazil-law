@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 07/12/2022 a 13/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por ZAIRA GOLDIN CANTOIA contra decisão da Presidência do STJ que indeferiu liminarmente os embargos de divergência.
+Ação: de obrigação de fazer c/c perdas e danos, ajuizada por ZAIRA GOLDIN CANTOIA contra JOSÉ APARECIDO DOS SANTOS, alegando que adquiriu um veículo do réu e, quando foi vender o bem para um terceiro, a transferência da titularidade do bem não foi possível em razão de bloqueio judicial em desfavor do réu, resultando em prejuízos para a autora.
+Sentença: o Juízo de primeiro grau julgou extinto o processo, sem resolução de mérito, por falta de interesse processual, nos termos do art. 485, VI, do CPC/2015.
+Acórdão: o TJ/SP negou provimento à apelação interposta por ZAIRA, nos termos da seguinte ementa:
+Ausente obrigação e ausente ilícito imputáveis ao réu, que não deu causa à restrição sobre o veículo vendido, a solução residiria na rejeição da demanda da compradora, mas a esta altura a extinção do processo sem exame de mérito conduz ao mesmo resultado. Apelo improvido.
+(e-STJ fl. 216)
+Recurso especial: interposto por ZAIRA, alegando violação dos arts. 186 e 927 do CC/2002. Sustentou, em síntese, que foram configurados danos morais em decorrência do descumprimento dos termos de contrato de compra e venda do veículo firmado entre as partes, uma vez que não foi efetivada a transferência do veículo em tempo adequado mesmo com a quitação do valor.
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, dando azo à interposição do agravo em recurso especial de e-STJ fls. 257-267.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial, por deserção, incidindo a Súmula 187/STJ.
+Acórdão da 4ª Turma do STJ: deu provimento ao agravo interno interposto por ZAIRA, para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. NÃO OCORRÊNCIA. DEFERIMENTO DE JUSTIÇA GRATUITA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. "Segundo orientação firmada pela Corte Especial, uma vez concedido o benefício da justiça gratuita na origem, não há necessidade de renovar o pedido em sede recursal" (AgInt no REsp 1.582.843/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/11/2020, DJe de 14/12/2020).
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+(e-STJ fl. 313)
+Embargos de divergência: interpostos por ZAIRA, apontando a existência de dissídio jurisprudencial entre o acórdão embargado e (I) os acórdãos proferidos pela Terceira Turma no julgamento do AgRg no AREsp 704.973/RS e do AgRg no AREsp 803.460/RS; e (II) os acórdãos proferidos pela Quarta Turma no julgamento do AgInt no AREsp 1.478.886/SP e do AgRg no REsp 1.508.107/PR.
+Decisão da Presidência do STJ: indeferiu liminarmente os embargos de divergência, considerando que o acórdão embargado não apreciou o mérito do recurso especial, incidindo a Súmula 315/STJ.
+Agravo interno: alega que estão presentes os requisitos para o cabimento dos embargos de divergência, porquanto o acórdão embargado apreciou a controvérsia objeto dos autos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO E NÃO APRECIOU O MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA 315/STJ.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+2. Assim, segundo a jurisprudência desta Corte, não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III, do CPC/2015.
+3. Hipótese em que o acórdão embargado não conheceu do recurso especial, por ausência de prequestionamento (Súmulas 282 e 356 do STF) e existência de fundamento autônomo não impugnado (Súmula 283/STF), de modo que não apreciou o mérito do recurso. Incidência da Súmula 315/STJ.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada indeferiu liminarmente os embargos de divergência com base na seguinte fundamentação: "Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas 282, 283 e 356/STF. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"" (e-STJ fl. 416).
+Pela análise das razões recursais ora apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto à modificação da decisão agravada.
+Nas razões de seu agravo interno, a agravante alega, em síntese, que "r. decisão objeto dos embargos, embora tenha negado conhecimento ao recurso especial, apreciou a controvérsia objeto dos autos, concluindo de forma antagônica aos paradigmáticos arestos já declinado na exordial dos divergentes" (e-STJ fl. 429).
+No entanto, diferentemente do alegado pela agravante, o acórdão embargado apenas não conheceu do recurso especial, em razão da ausência de prequestionamento (Súmulas 282 e 356 do STF) e da existência de fundamento autônomo não impugnado (Súmula 283/STF), de modo que não apreciou o mérito do recurso.
+Essa situação, por si só, justifica o indeferimento liminar dos embargos de divergência, tendo em vista que este recurso não é cabível na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula 315/STJ, como bem decidiu a decisão agravada.
+Com efeito, à luz do art. 1.043, § 2º, do CPC/2015, é certo que os embargos de divergência podem veicular questão de direito material ou de direito processual. Contudo, cuidando-se de questão de direito processual, o que se admite no âmbito dos embargos de divergência é a resolução de dissenso interno do Superior Tribunal de Justiça acerca da interpretação de norma processual em sua moldura abstrata, sendo incabível questionar, nessa seara, a aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial à hipótese concreta dos autos.
+Nesse sentido: AgInt nos EREsp 1.637.880/SP, Corte Especial, DJe 3/8/2018; AgInt nos EAREsp 955.088/RS, Corte Especial, DJe 2/5/2018; AgInt nos EDcl nos EAREsp 1.406.323/SP, Segunda Seção, DJe 17/9/2020.
+Sob esse enfoque, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial" (AgInt nos EAREsp 1.581.988/BA, Corte Especial, DJe 15/10/2021).
+Assim, consoante a jurisprudência da Corte Especial do STJ, "não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC" (AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe 20/4/2022). No mesmo sentido: AgInt nos EAREsp 2.024.606/MT, Segunda Seção, DJe 27/10/2022.
+Portanto, a decisão agravada merece ser mantida.
+DISPOSITIVO
+Forte nessas razões, nego provimento ao agravo interno.
