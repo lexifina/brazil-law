@@ -1,0 +1,26 @@
+DECISÃO
+Vistos,
+EUTELSAT DO BRASIL LTDA. requer seja expedido ofício determinando a expedição de alvará de levantamento correspondente aos valores depositados judicialmente nestes autos (às fls. 561).(fls. 1.195/1.222e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A pretensão veiculada às fls. 1.195/1.222e não foi apresentada nas contrarrazões ao recurso especial.
+É pacífico, nesta Corte, o entendimento segundo o qual a tese não apresentada no recurso especial ou nas suas contrarrazões, mas apenas quando da oposição de embargos de declaração, configura inadmissível inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa, ainda que verse sobre matéria de ordem pública, como demonstram os julgados assim ementados
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. TESE APRESENTADA APENAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. QUESTÃO DE ORDEM PÚBLICA. IRRELEVÂNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL. REGIME JURÍDICO APLICÁVEL. PROPOSITURA DA AÇÃO SOB A ÉGIDE DO ESTATUTO PROCESSUAL CIVIL DE 1973. PROLAÇÃO DE SENTENÇA QUANDO EM VIGOR O CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE DA NOVEL LEGISLAÇÃO. NECESSIDADE DE ARBITRAMENTO DA VERBA HONORÁRIA SUCUMBENCIAL À LUZ DO ART. 85 DA LEI N. 13.105/2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - A tese não apresentada no recurso especial ou nas suas contrarrazões, mas apenas quando da oposição de embargos de declaração, configura inadmissível inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa, ainda que verse sobre matéria de ordem pública.
+Precedentes.
+III - A sentença é o marco para delimitação do regime jurídico aplicável à fixação de honorários advocatícios, revelando-se incorreto seu arbitramento, com fundamento no CPC de 1973, posteriormente à 18.03.2016 (data da entrada em vigor da novel legislação). Precedentes.
+IV - Inviável o arbitramento dos honorários advocatícios de sucumbência, diretamente por este Superior Tribunal, com base no art. 85 do Código de Processo Civil de 2015, sob pena de configurar supressão de grau de jurisdição e desvirtuar a competência recursal desta Corte, vale dizer, uniformização da interpretação da legislação federal.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.724.143/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/4/2019, DJe de 2/5/2019.)
+Quanto ao pedido subsidiário, a Requerente não demonstrou efetivamente a urgênciada concessão do pedido capaz de ensejar o seu acolhimento antes do exaurimento da competênciadeste Superior Tribunal
+Posto isso, com fundamento no art. 932, III,do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, NÃO CONHEÇO do pedido de fls. 1195/1222e,devendo a Requerente pleiteá-lo perante o Juízo competente no momento oportuno.
+Publique-se e intimem-se.
+Obedecidasas formalidadeslegais, retornem-se os autos para a apreciação do Agravo Interno de fls. 1.184/1.193e).
+Publique-se. Intime-se.
