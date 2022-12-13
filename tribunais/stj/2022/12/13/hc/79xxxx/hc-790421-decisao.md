@@ -1,0 +1,41 @@
+DECISÃO
+Nestehabeas corpus,impetrado em favor deJonatha Garcia Peres-condenado como incurso no crime de tentativa de roubo majorado(Apelação Criminal n.1504609-14.2021.8.26.0196, do Tribunal de Justiça de São Paulo) -, alega-se constrangimento ilegal noregime inicial de pena estipuladoe requer-se, em liminar e no mérito, a fixação do regime aberto.
+É o relatório.
+Owrité inadmissível.
+Em consulta aos autos doAREsp n. 2.245.383/SP, obtive a informação de que a condenação em referênciajá transitou em julgado.
+O presentewrit, pois, ésucedâneo de revisão criminal,sendo esta Corte Superiormanifestamenteincompetentepara a análise do pleito revisional, notadamente porque inexiste neste Tribunal julgamento de mérito passível de revisão (o recurso especial não foi sequer conhecido).
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. WRITIMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUSDE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019)
+ ..
+1. Ohabeas corpusfoi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018)
+Tampouco diviso constrangimento ilegal apto a subsidiar a concessão dehabeas corpusde ofício (art. 654, § 2º, do CPP).
+Embora a pena tenha sido fixada em patamar inferior a 4 anos, o paciente ostenta a condição dereincidente, circunstância essa apta a justificar a imposição do regime inicial mais gravoso.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ATENUANTE DA CONFISSÃO. APLICAÇÃO. INADMISSIBILIDADE. REGIME MAIS GRAVOSO FIXADO DIANTE DA REINCIDÊNCIA. IDONEIDADE. SUBSTITUIÇÃO DAS PENAS. INVIABILIDADE. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA.
+1. Não há falar-se no reconhecimento da atenuante da confissão, uma vez que o apenado não admitiu a origem ilícita do bem - elementar do tipo penal previsto no art. 180 do CP -, afirmando tão somente que havia recebido a motocicleta para lavá-la. Precedentes.
+2. Mesmo com a pena final estabelecida abaixo de quatro anos de reclusão, em razão da agravante da reincidência, possibilita-se a fixação de regime mais gravoso, no caso, o semiaberto.
+3. "Consoante dispõe a Súmula n. 269 desta Corte, o regime inicial semiaberto está adequado para o caso concreto no qual a pena definitiva ficou inferior a 4 anos e o apenado é reincidente" (AgRg no AgRg no AREsp n. 2.093.059/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+4. Diante da reincidência em crime doloso, "o réu não faz jus a substituição da pena corporal por restritiva de direitos em razão da ausência de requisitos, ou seja, art. 44, II, do Código Penal veda a substituição da pena privativa de liberdade por pena restritiva de direitos ao acusado reincidente em crime doloso, salvo se, em face de condenação anterior, a medida for socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime, ponto em que se ressente o recurso do requisito do prequestionamento (AgRg no AREsp n. 1.761.481/RJ, Sexta Turma, Rel. Min. Olindo Menezes - Desembargador Convocado do TRF 1ª Região, DJe de 11/6/2021, grifei)" (AgRg no HC n. 739.366/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+5. Inexistindo debate sobre o tema da detração perante o Tribunal local, fica esta Corte inviabilizada de tratá-lo, sob pena de indevida supressão de instância.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 712.102/SP, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe21/10/2022 - grifo nosso)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. FRAUDE À FISCALIZAÇÃO TRIBUTÁRIA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ. ART. 255, § 4º, DO RISTJ. CARÊNCIA DE PREQUESTIONAMENTO. INOCORRÊNCIA. EVIDENCIADA A VIOLAÇÃO DO ART. 33, § 2º, B, DO CP, ANTE A FIXAÇÃO DE REGIME PRISIONAL ABERTO AO AGRAVANTE, RECONHECIDAMENTE REINCIDENTE. CARÊNCIA DE ANÁLISE DE ALUDIDA FALTA DE COTEJO ANALÍTICO. PRESCINDIBILIDADE, ANTE O PROVIMENTO DO RECURSO COM SUPORTE NA VIOLAÇÃO DE PRECEITO INFRACONSTITUCIONAL. MANUTENAÇÃO DO RESTABELECIMENTO, NOS TERMOS DA SENTENÇA CONDENATÓRIA, DA EXASPERAÇÃO DO REGIME PRISIONAL. JULGADOS DE AMBAS AS TURMAS.
+1. O argumento de que houve violação do princípio da colegialidade não merece prosperar, porquanto conforme expressa previsão regimental (art. 255, § 4º, do RISTJ) e reiterada jurisprudência desta Corte, é possível ao relator, mesmo em matéria penal, não conhecer do recurso, provê-lo ou desprovê-lo, sem que haja ofensa ao referido postulado.
+2. Nos termos da Súmula n. 568/STJ e do art. 255, § 4º, do RISTJ, é possível que o Ministro Relator decida monocraticamente o recurso especial quando o apelo nobre for inadmissível, estiver prejudicado ou houver entendimento dominante acerca do tema. Além disso, a interposição do agravo regimental devolve ao Órgão Colegiado a matéria recursal, o que torna prejudicada eventual alegação de ofensa ao princípio da colegialidade (AgRg no AgRg no AREsp n. 1.374.756/BA, Ministra Laurita Vaz, Sexta Turma, DJe 1º/3/2019).
+3. A matéria está devidamente prequestionada, vide fundamentos contidos à fl. 444.
+4. O recurso especial foi provido com esteio na violação do art. 33, § 2º, b, do Código Penal, haja vista a fixação de regime aberto ao agravante reconhecidamente reincidente.
+5. Nas hipóteses em que o recurso especial é provido com suporte na violação de dispositivo infraconstitucional, torna-se dispensada a análise de aludido dissenso jurisprudencial.
+6. No que diz respeito ao mérito, constam da referida fl. 444 os seguintes fundamentos: o apelante é reincidente específico, sendo devidamente exasperada a reprimenda na segunda fase da dosimetria, em um sexto.  ..  Incabível a aplicação de substitutivos penais, pois a vida pregressa do apelante revela não serem socialmente recomendáveis. Todavia, o regime prisional comporta mitigação para o aberto, apesar da reincidência, nos termos do art. 33, § 3º, do Código Penal.
+7. Não obstante a ausência de circunstâncias judiciais desfavoráveis, o reconhecimento da agravante da reincidência e o quantum de pena privativa de liberdade dosado denotam o desacerto na fixação do regime prisional aberto.
+8. No caso, não há ilegalidade ou desproporcionalidade na fixação de regime semiaberto, uma vez que, não obstante a pena do agravante tenha sido fixada em patamar inferior a 4 anos, está presente a agravante da reincidência. Súmula n. 269/STJ.  ..  (AgRg no HC n. 738.378/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/6/2022).  ..  No caso, não obstante a pena seja inferior a 4 anos de reclusão e as circunstâncias sejam todas favoráveis, não há se falar em regime aberto, uma vez que o paciente é reincidente.Assim, nos termos do art. 33, § 2º, alínea "b", do Código Penal, o regime semiaberto se mostra mais adequado (AgRg no HC n. 702.669/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021).
+9. Agravo regimental improvido.
+(AgRg no REsp n. 1.971.104/SP, de minha relatoria, Sexta Turma, DJe 30/9/2022 - grifo nosso)
+Ante o exposto, não conheço dohabeas corpus(art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE PASSÍVEL DE REVISÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ não conhecido.
