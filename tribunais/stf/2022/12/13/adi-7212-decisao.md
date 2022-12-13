@@ -1,0 +1,19 @@
+DESPACHO
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUCIONAL, FINANCEIRO E ELEITORAL. PROPOSTA DE EMENDA CONSTITUCIONAL Nº 15, DE 2022. EMENDA CONSTITUCIONAL Nº 123, DE 2022. SOLICITAÇÃO DE CONVOCAÇÃO DE SESSÃO VIRTUAL EXTRAORDINÁRIA DO TRIBUNAL PLENO. ART. 21-B, §§4º E 5º, DO RISTF C/C ART. 5º-B DA RESOLUÇÃO STF Nº 642, DE 2019.
+
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido liminar, ajuizada pelo Partido Novo em face da Emenda Constitucional nº 123, de 2022, que “altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis; inclui o art. 120 no Ato das Disposições Constitucionais Transitórias para reconhecer o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes; autoriza a União a entregar auxílio financeiro aos Estados e ao Distrito Federal que outorgarem créditos tributários do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) aos produtores e distribuidores de etanol hidratado; expande o auxílio Gás dos Brasileiros, de que trata a Lei nº 14.237, de 19 de novembro de 2021; institui auxílio para caminhoneiros autônomos; expande o Programa Auxílio Brasil, de que trata a Lei nº 14.284, de 29 de dezembro de 2021; e institui auxílio para entes da Federação financiarem a gratuidade do transporte público”.
+
+    2. Por conseguinte, considerando que o Supremo Tribunal Federal acerca-se do recesso judiciário, a partir de 20 (vinte) de dezembro, terça-feira, solicito à Presidente do Supremo Tribunal Federal a inclusão do feito para julgamento, com a máxima urgência, no Plenário Virtual deste Tribunal, mediante convocação de sessão virtual extraordinária, com o fito de julgar em definitivo o mérito desta ação objetiva. Assim, sugere-se que referido ato seja realizado no período entre 15/12/2022 (quinta-feira) e 19/12/2022 (segunda-feira), nos termos do art. 5º-B, § 1º, da Resolução STF nº 642, de 2019, e do art. 21-B, § 4º, do Regimento Interno do Supremo Tribunal Federal.
+
+    3. Por oportuno, justifico a imperatividade desse julgamento no formato sugerido em função de dois motivos. A um, à luz de entendimento pessoal pela necessidade de auto-contenção judicial e dos valores da normalidade e da legitimidade do prélio eleitoral, este Subscritor adotou como premissa de trabalho não indicar à pauta do Colegiado, ou mesmo tomar decisões individuais, processos sob sua relatoria que pudessem impactar, ainda que remotamente, nas eleições gerais de 2022. No entanto, na data de ontem, com o implemento do ato previsto no art. 215 do Código Eleitoral, considero que mencionada precaução não se faz mais relevante.
+
+    4. A dois, verifico que parcela do objeto ora impugnado ostenta vigência temporária limitada ao presente exercício financeiro, de modo que há na espécie fundado risco de prejudicialidade superveniente desta ação direta. Nesse sentido, registro que, mutatis mutandis, efetivamente ocorreu a extinção anômala da ADI nº 6.768/DF, de minha relatoria, j. 22/11/2022, p. 23/11/2022, que veiculava controvérsia semelhante a respeito do montante de recursos destinados ao auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia da Covid-19, nos termos do art. 3º da EC nº 109, de 2021. Isso porque a ADI nº 6.768/DF veio à minha relatoria, por substituição, em consonância ao art. 38 do RISTF, a apenas 1 (um) dia do recesso forense do ano passado. Em síntese, tendo em vista a constrição temporal em comento e a efetividade da jurisdição constitucional, demonstra-se recomendável o início e o término do supracitado julgamento no corrente exercício judiciário.
+
+    Publique-se.
+
+    Brasília, 13 de dezembro de 2022.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
