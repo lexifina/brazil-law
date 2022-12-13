@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUILHERME LIANDRO DOS SANTOScontra decisão singularque não conheceu do habeas corpus.
+Consta dos autos que oJuízo da execução proferiu decisão em que homologou a prática de falta disciplinar grave, consistente na posse de chip de celular,e determinou a regressão ao regime fechado, fixou como data efetiva para cálculo de novos benefícios o dia 15/04/2021 edeclarou a perda de 1/6 (um sexto) dos dias remidos (e-STJ fls. 372-373).
+Inconformada, a defesa interpôs agravo em execução, que foi desprovido (e-STJ fls. 10-15).
+No habeas corpus impetrado nesta Corte, buscou-se oafastamento da falta disciplinarpor atipicidade da conduta.
+Nas razões deste agravo regimental,o agravante reitera que a conduta em tese praticada é atípica, alegando que ingressar em estabelecimento prisional com chip de celular não se subsume ao tipo penal previsto no art. 349-A do Código Penal e, por simetria, tal entendimento deve também se aplicar ao art. 50, VII da LEP.
+Destaca que"o bem jurídicotutelado pela norma em apreço é a comunicação entre presos e/ou a sociedade externa, de modo que os componentes ou acessórios não possuem essa capacidade quando desacompanhados do aparelho celular" (e-STJ fls. 510-511).
+Requer, ao final, a reconsideração do decisum ou a submissão do feito ao colegiado, a fim de que a ordem seja concedida, nos termos pleiteadosinicialmente.
+O Ministério Público do Distrito Federal e Territóriosmanifestou-se pelo desprovimento do recurso (e-STJ fls. 529-531).
+É o relatório.
+Por manter a decisão agravada por seus próprios fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DISCIPLINAR.NATUREZA GRAVE. POSSE DE CHIP DESACOMPANHADO DE APARELHO CELULAR. FUNDAMENTAÇÃO ADEQUADA. REEXAME DE PROVAS. VIA INADEQUADA. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito aopleitode afastamento da configuração da falta grave, esta Corte Superior firmou a orientação de que, para entender de modo diverso e desconstituir o entendimento da Corte estadual, é necessário o exame aprofundado de provas, providência que é inadmissível na via eleita do habeas corpus, mormente pelo fato de que vigora no processo penal brasileiro o princípio do livre convencimento, desde que devidamente fundamentado.
+2. No caso posto, verifica-se que o Tribunal de origem manteve a decisão de primeiro grau e reconheceu que a indisciplina praticada peloapenadoestá prevista no art. 50, VII, da Lei de Execução Penal, consistindo, portanto em falta disciplinar de natureza grave, conclusão a que chegou com base nas evidências de provas.
+3. Prevalece no âmbito deste Superior Tribunal de Justiça o entendimento segundo o qual,após o advento da Lei n. 11.466/2007, a posse de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, constitui falta disciplinar de natureza grave.
+4. Agravo regimental desprovido.
+VOTO
+Inicialmente, tendo em vista que a defesa foi intimada eletronicamente da decisão publicada em 25/8/2022 (e-STJ fl. 514), cumpre atestar a tempestividade da insurgência, pois interposta no 23/8/2022 (e-STJ fl. 512), ou seja, dentro do prazo em dobro previsto nos arts. 109, § 2º e 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+Ultrapassados os requisitos de admissibilidade do agravo regimental, verifica-se que a irresignação não merece prosperar.
+Conforme afirmado na decisão agravada, no tocante à alegação de atipicidade da conduta, verifica-se que durante a execução da pena ficou constatada a prática de falta grave pelo agravante consistente posse de chip de aparelho celular, nos termos do art. 50, VII,da Lei de Execução Penal.
+O Magistrado de primeiro grau consignou que a falta disciplinar foi reconhecida, consignando que "a materialidade encontra-se demonstrada por meio da documentação acostada ao ID nº 308210181 (Mov. 224.2), em especial o Auto de Apreensão nº 7791416", ressaltando que "no que tange à autoria, o sentenciado confirmou a prática da falta, corroborando, assim, o relato do policial penal Salles" (e-STJ fl. 373).
+Ao analisar o agravo em execução, o Tribunal de origem manteve o reconhecimento da falta grave com amparo na seguinte fundamentação (e-STJ fls. 13-15):
+Embora se esteja no campo das infrações disciplinares, para se configurar a falta grave imputada ao apenado é irrelevante a produção de um resultado, bastando o simples fato de o apenado ter em sua posse elementos, dispositivos ou apetrechos que permitam a comunicação com outros presos ou com o ambiente externo.
+Nesse sentido, o fato de o chip estar lacrado não descaracteriza a infração, pois desnecessária a comprovação do funcionamento ou habilitação prévia do item. A propósito, o c. Superior Tribunal de Justiça manifestou-se diversas vezes sobre o tema e concluiu que a posse de "chip" de aparelho de telefone celular configura a conduta prevista no inciso VII do art. 50 da Lei de Execuções Penais. Confira-se:
+ ..
+Desse modo, verifica-se que o Precedente invocado pela Defensoria Pública (HC Nº 619.776 - DF - Rel. Min. Ribeiro Dantas - 5ª Turma - DJ de 26/04/2021) é isolado e adstrito ao âmbito da Quinta Turma, predominando, majoritariamente, o entendimento pela manutenção da tipicidade da conduta. Até que haja uniformização e manifestação da Terceira Seção sobre a divergência, acompanha-se a Jurisprudência dominante deste eg. TJDFT, a saber:
+ ..
+Ademais, a tese de ausência de consciência do agravante acerca da ilicitude de sua conduta não se reveste de plausibilidade. Ele disse que teria comprado o chip no dia anterior, acreditando que poderia entrar com o objeto pelo fato de ele ainda estar lacrado.
+Todavia, ao contrário do que aduz a Defesa, há potencial consciência da ilicitude, suficiente para a manutenção da culpabilidade como terceiro substrato do crime, pois, antes de entrar no presídio, o reeducando poderia, ao menos, ter questionado os agentes quanto à legalidade na conduta, já que é dever do preso submeter-se às normas da execução da pena (art. 38, LEP), dentre as quais a de não portar aparelho de telefone celular, rádio ou outro meio de comunicação no interior do presídio.
+Desse modo, não pode ser reconhecido erro de proibição quando não há nos autos prova, sequer indiciária, do desconhecimento da ilicitude da conduta.
+Como se observa, não há que se falar em atipicidade da conduta, uma vez que as decisõesimpugnadasestão em consonânciacom a jurisprudência desta Corte Superior de Justiça, segundo a qual, "após o advento da Lei n. 11.466/2007, a posse de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, constitui falta disciplinar de natureza grave"(AgRg no HC n. 662.734/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe de 9/8/2021).
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. EXECUÇÃO. FALTA GRAVE. POSSE DE ACESSÓRIOS DE APARELHO CELULAR. ATIPICIDADE DA CONDUTA. NÃO OCORRÊNCIA.
+1. Embargos declaratórios com nítidos intuitos infringentes devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Entende esta Corte que a posse/uso de aparelho celular, bem como de seus componentes essenciais - tais como chip, carregador ou bateria -, constitui prática de falta grave, com esteio no art. 50, VII, da Lei 7.210/84, sendo prescindível a realização de perícia no aparelho telefônico ou em seus acessórios com a finalidade de atestar a sua funcionalidade. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+(EDcl no HC n. 683.470/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 26/10/2021, DJe de 28/10/2021.)
+No mesmo norte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE/USO DE APARELHO CELULAR NO INTERIOR DO ESTABELECIMENTO PRISIONAL. FALTA GRAVE. DEPOIMENTO DOS AGENTES PENITENCIÁRIOS. PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE.. RECURSO NÃO PROVIDO.
+1. In casu, a conduta do sentenciado amolda-se à previsão contida no art. 50, inciso VII, da Lei n. 7.210/1984, que estabelece constituir falta disciplinar de natureza grave a posse/uso de aparelho celular.
+2. De fato, consolidou-se nesta Superior Corte de Justiça entendimento no sentido de que a posse/uso de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, constitui falta grave, sendo prescindível a realização de perícia no aparelho telefônico ou seus acessórios com a finalidade de se atestar sua funcionalidade.
+3. Registre-se que firmou-se neste Tribunal orientação jurisprudencial de que a prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave. A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral (HC n. 391.170/SP, Rel. Ministro. NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017). Na mesma linha de entendimento: HC n. 334.732/SP , Rel. Ministra MARIA THEREZA DE ASSIS MOURA, julgado em 17/12/2015, publicado em 1º/2/2016.
+4. A pretensão de reconhecimento da atipicidade demanda profunda incursão em matéria fática, o que é vedado em habeas corpus.
+5. Agravo regimental não provido.
+(AgRg no HC n. 671.045/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/6/2021, DJe de 21/6/2021.)
+Dessa forma, constata-se que a conduta perpetrada, no presente caso, caracteriza a falta grave, apta a autorizar a aplicação de sanção disciplinar, nos termos em que procedidos.
+Ademais, no que diz respeito ao afastamento da falta disciplinar, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, para entender de modo diverso e desconstituir o entendimento da Corte estadual, seria necessário o exame aprofundado de provas, providência que é inadmissível na via do habeas corpus, mormente pelo fato de que vigora no processo penal brasileiro o princípio do livre convencimento motivado.
+Cabe asseverar, que a estreita via do habeas corpus não permite análise aprofundada de prova no intuito de reanalisar as razões e os motivos pelos quais o Tribunal a quo formou o seu convencimento acerca da prática de falta disciplinar, seja ela grave ou média, pelo paciente.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. POSSE DE APARELHO CELULAR EM ESTABELECIMENTO PRISIONAL. FALTA GRAVE. AFASTAMENTO/DESCLASSIFICAÇÃO. VIA ELEITA INADEQUADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. PERÍCIA. PRESCINDIBILIDADE. REGRESSÃO DE REGIME. INFRAÇÃO APURADA EM PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. OITIVA JUDICIAL. DISPENSÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Diante da fundamentação apresentada no voto condutor do acórdão recorrido, o afastamento ou desclassificação da infração disciplinar praticada pelo paciente (art. 50, VII, da Lei de Execução Penal - LEP) demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus.
+2. "A jurisprudência deste Tribunal Superior é pacífica no sentido de ser prescindível, para a configuração da falta grave, a realização de perícia no aparelho telefônico ou nos componentes essenciais, dentre os quais o "chip", a fim de demonstrar o funcionamento" (HC 652.528/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/5/2021).
+3. O entendimento desta Corte é pacífico no sentido de ser dispensável a oitiva judicial do apenado, se ele foi previamente ouvido em procedimento administrativo, com observância do devido processo legal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 709.273/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022, DJe de 21/3/2022, sem grifos no original.)
+Ante o exposto, negoprovimento ao agravo regimental.
+É o voto.
