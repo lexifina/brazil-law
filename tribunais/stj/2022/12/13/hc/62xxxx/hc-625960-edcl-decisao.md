@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração à decisão de fls. 284/290, que foi assim ementada:
+HABEAS CORPUS. FALSIDADE IDEOLÓGICA. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA E DE INÉPCIA DA DENÚNCIA. REQUISITOS DO ART. 41 DO CPP ATENDIDOS. FALTA DE MATERIALIDADE DELITIVA. NÃO OCORRÊNCIA. ANÁLISE FÁTICO-PROBATÓRIA. INVIABILIDADE.ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PARECER ACOLHIDO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER ACOLHIDO. EXTINÇÃO DA PUNIBILIDADE NA ORIGEM, EM RELAÇÃO A UM PACIENTE. PERDA DO OBJETO.
+Writ em parte prejudicado e, no mais, ordem denegada.
+Mara Lúcia Silvestree Paulo Fernando de Moraes Nicolau apontam omissão no decisum por não ter sido examinado o ponto questionado no writ relativo à nulidade do acórdão por ausência de fundamentação. Pedem seja sanada a falha.
+É o relatório.
+Tem razão a parte embargante.
+De fato, a decisão limitou-se a afastar a existência de excepcionalidade a justificar o prematuro trancamento da Ação Penal n.0046466-28.2019.8.16.0014, conforme a motivação elencadaàs fls. 286/289.
+Fica agora então consignado também que o acórdão proferido peloTribunal de Justiça do Paraná no Recurso em Sentido Estrito n. 0083432-87.2019.8.16.0014não carece de fundamentação.
+Aquele colegiado deixou bem explícitas as suas razões de decidir, afirmando, por exemplo, que a peça acusatória juntada aos autos atende perfeitamente os requisitos do artigo 41 do Código de Processo Penal;disse também que os fatos foram narrados de forma clara, de modo a adequar as condutas dos recorridos aos tipos penais, possibilitando-lhes o exercício da ampla defesa e do contraditório(fl. 120), e ainda expôs queos elementos indiciários apontam, em tese, que os ora recorridos concorreram para a prática dos delitos de falsificação ideológica, pois teriam, em tese, inserido informações falsas em prontuários médicos, furtando-se de suas responsabilidades com relação aos pacientes internados na Clínica Psiquiátrica investigada(fl. 121). Concluiu que,havendo indícios mínimos, o MM. Juízo singular não poderia extinguir o feito sem oportunizar, no momento próprio, a produção de provas aptas a comprovar a tipicidade das condutas(fl. 121). A Corte local entendeu que, de fato, não há falarem ausência de justa causa, ou em denúncia temerária ou leviana, ou mesmo em descrição genérica dos fatos, pois lastreada em um conjunto mínimo de indícios de autoria, sendo temerária sua rejeição neste momento processual, sobretudo diante da gravidade dos fatos imputados(fl. 121).
+Ora, o Plenário do Supremo Tribunal Federal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes).(ARE n. 1.037.055 AgR, Ministro Roberto Barroso, Primeira Turma, DJe 30/6/2017), o que, no caso, ocorreu.
+Assim, recebo os embargos de declaração para sanar a omissão indicada, sem mudança de resultado.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. EXISTÊNCIA DE PONTO OMISSO. ACÓRDÃO DO TRIBUNAL ESTADUAL INQUINADO DE DESMOTIVADO. ALEGAÇÃO AFASTADA.FUNDAMENTOS SUFICIENTES PARA JUSTIFICAR SUAS CONCLUSÕES.
+Embargos acolhidos para sanar a omissão, sem modificação de resultado.
