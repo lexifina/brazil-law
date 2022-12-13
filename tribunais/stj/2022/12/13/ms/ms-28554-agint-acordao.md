@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 07/12/2022 a 13/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trago a exame Agravo Interno contra decisão (fls. 28-29, e-STJ) desta relatoria, a qual possui a seguinte conclusão:
+In casu, foi carreada aos autos apenas cópia da mensagem eletrônica da Ouvidoria do Ministério da Economia (fl. 14, e-STJ). Nela, consta que o Banco Central do Brasil informou que a matéria objeto do requerimento já está sendo tratada em processo judicial e que a autarquia não teria interesse em participar de procedimento arbitral ou de conciliação.
+Nesse diapasão, conclui-se inexistir qualquer ato coator praticado pelo Ministro da Economia que possa atrair a competência desta Corte, nos termos do art. 105, I, "b", da Constituição da República. Na mesma linha: MS 26.290/DF, Rel. Min. Regina Helena Costa, DJe 19.6.2020; MS 26.122/DF, Rel. Min. Gurgel de Faria, DJe 2.6.2020; MS 26.115/DF, Rel. Min. Herman Benjamin, DJe 2.6.2020.
+Ante o exposto, indefiro liminarmente o Mandado de Segurança.
+A parte agravante alega (fls. 31-46, e-STJ):
+2. OS PROCESSOS DE MS 26290, MS 26122 E MS 26115, COM V. DECISÕES AO FINAL COLACIONADAS, EM NADA, ABSOLUTAMENTE NADA SE COMPARAM AO ASSUNTO DO MANDADO DE SEFGURANÇA ORA RECORRIDA, TRATANDO DE ESPÉCIE DIVERSA EM QUE AS AUTORIDADES SOB CONTROLE JURISDICIONAL NAS ESPÉCIES OU AGIRAM DE ACORDO COM A LEI, OU AGIRAM POR INTEMÉDIO DE AUTORIDADE INTERNA SEM O COMANDO DE AGIR POR DECRETO DO MINISTRO
+2. NA ESPÉCIE, O DECRETO COMANDA O MINISTRO DA ECONOMIA, DIGNA AUTORIDADE COATORA PELO PRESIDENTE DA REPÚBLICA, NO DECRETO 10960, E, SE O PODER INTRINSECAMENTE LIGA O AO MINISTRO FOI INTERNAMENTE DELEGADO, NÃO SUPRIME SUA RESPONSABILIDADE MINISTERIAL, SOB PENA DE TRAIÇÃO DO DECRETO
+4. REQUEREM OS IMPETRANTES ASSISTÊNCIA JUDICIÁRIA GRATUITA, NA FORMA INCIDENTE,TENDO EM VISTA, O TEMPO DE INVESTIMENTO ASSOCIADO AO TEMPO DE ESPERA DO CUSTO DO PROCESSO PRINCIPAL, POSTURA DO JUDICIÁRIO EM REFERIDOS PRIOCESSO DE EVITAR O EXERCÍCIO DE DIREITO LIGADO AS LEI DA CARTULARES, EM QUE FOI EXECUTIVO NÃO PODE SER NEGADO, E, POSTURA, CONTRÁRIA AOS PEDIDOS, BEIRANDO O INTERESSE DE PREJUDICAR ESTE CAUSÍDICO SUBSCRITOR,REQUERENDO JULGAMENTO PLENÁRIO, COM DIREITO DE SUSTENTAÇÃO ORAL, SEM CORTE DO DIREITO DA FALA, PARA ELUCIDAR O TEMA RECORRIDO, OU SUSPEIÇÃO POR NEGATIVA IMPONDERADA DO CAUSÍDICO SUBSCRITOR PAR EVITAR O CLAREMENTO DO DIREITO, TANTO QUE NOS AUTOS DE TP 3789 A NEGATIVA E CORTE DE FALA, LEVARAM A JULGAMENTO ALVO DE RECURSO PORQUE O PLEITO FOI JU,GADO DIVERAMENTE DA ESPÉCIE, REQUERENDO ALTERNATIVAMENTE A SUSPEIÇÃO DE VOSSA EXCELÊNCIA POR REITERADA PRÁTICA DE NEGATIVA INFUJNDADA, DATA VENIA, AOS PLEITOS DESTE CAUSÍDICO SUBSCRITOR QUANDO DA RELATORIA
+Requer, ao final, a reconsideração da decisão monocrática ou a remessa do presente Agravo Interno ao Colegiado, para julgamento.
+Contrarrazões às fls. 62-66, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. ATO COATOR NÃO COMPROVADO. ILEGITIMIDADE DA AUTORIDADE IMPETRADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO AGRAVO INTERNO. RECURSO NÃO CONHECIDO.
+1. A petição inicial é confusa e consiste em Mandado de Segurança impetrado contra ato imputado ao Ministro de Estado da Economia que, aparentemente, teria negado aos impetrantes a possibilidade de realização de uma audiência para discutir a celebração de acordo envolvendo ações do extinto BESC - Banco do Estado de Santa Catarina.
+2. Verifica-se da também obscura petição do Agravo Interno, que a parte agravante não consegue se desvencilhar do ônus processual da impugnação especificada. Não foi capaz de demonstrar qual ato tipificado como coator e nem tampouco que a autoridade apontada como coatora responde pelo ato administrativo, a atrair a competência desta Corte Superior.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, em razão da violação ao art. 1.021, §1º do CPC/15. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada. A propósito: PET no MS 28.325/BA, Rel. Min. Luis Felipe Salomão, Segunda Seção, DJe de 3.5.2022; e AgInt no MS 23.512/DF, Rel. Min. Gurgel de Faria, Primeira Seção, DJe de 17.3.2022.
+4. Ademais, da imprecisa petição inicial, verifica-se que não houve realização de pedido certo (art. 322 do CPC/2015), tampouco existe ato coator, pois foi carreada aos autos apenas cópia da mensagem eletrônica da Ouvidoria do Ministério da Economia (fl. 14, e-STJ). Nela, consta que o Banco Central do Brasil informou que a matéria objeto do requerimento já está sendo tratada em processo judicial e que a autarquia não teria interesse em participar de procedimento arbitral ou de conciliação. Na mesma linha: MS 26.290/DF, Rel. Min. Regina Helena Costa, DJe 19.6.2020; MS 26.122/DF, Rel. Min. Gurgel de Faria, DJe 2.6.2020; MS 26.115/DF, Rel. Min. Herman Benjamin, DJe 2.6.2020.
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Autos conclusos neste Gabinete em 30.5.2022.
+O Agravo Interno não merece prosperar.
+A petição inicial é confusa e consiste em Mandado de Segurança impetrado contra ato imputado ao Ministro de Estado da Economia, que, aparentemente, teria negado aos impetrantes a possibilidade de realização de uma audiência para discutir a celebração de acordo envolvendo ações do extinto BESC - Banco do Estado de Santa Catarina.
+Verifica-se da também obscura petição do Agravo Interno que a parte agravante não consegue se desvencilhar do ônus processual da impugnação especificada. Não foi capaz de demonstrar qual o ato tipificado como coator nem que a autoridade apontada como coatora responde pelo ato inquinado de ilegalidade, a atrair a competência jurisdicional desta Corte Superior.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, em razão da afronta ao art. 1.021, § 1º, do CPC/2015. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+A propósito:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ.
+1. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015; e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno não conhecido.
+(PET no MS n. 28.325/BA, Rel. Min. Luis Felipe Salomão, Segunda Seção, DJe de 3/5/2022.)
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 1.021, § 1º, do CPC/2015 e na Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a parte recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+(AgInt no MS n. 23.512/DF, Rel. Min. Gurgel de Faria, Primeira Seção, DJe de 17/3/2022.)
+Ademais, da imprecisa petição inicial, verifica-se que não houve realização de pedido certo (art. 322 do CPC/15), tampouco existe ato coator, pois foi carreada aos autos apenas cópia da mensagem eletrônica da Ouvidoria do Ministério da Economia (fl. 14, e-STJ). Nela, consta que o Banco Central do Brasil informou que a matéria objeto do requerimento já está sendo tratada em processo judicial e que a autarquia não teria interesse em participar de procedimento arbitral ou de conciliação. Na mesma linha: MS 26.290/DF, Rel. Min. Regina Helena Costa, DJe 19.6.2020; MS 26.122/DF, Rel. Min. Gurgel de Faria, DJe 2.6.2020; MS 26.115/DF, Rel. Min. Herman Benjamin, DJe 2.6.2020.
+Como se observa, a irresignação não prospera.
+Diante do exposto, não conheço do Agravo Interno.
+É o Voto.
