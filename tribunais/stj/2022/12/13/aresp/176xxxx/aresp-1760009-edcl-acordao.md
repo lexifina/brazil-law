@@ -1,0 +1,44 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. ATUALIZAÇÃO. TERMO INICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. DATA DO RECOLHIMENTO INDEVIDO. PRECEDENTES. ACLARATÓRIOS ACOLHIDOS.
+1. A embargante sustenta que houve omissão, pois "o v. acórdão não previu o momento a partir do qual incidirá a correção monetária e os juros de mora" (fl. 538, e-STJ).
+2. Esta Corte Superior possui orientação de que os valores a serem recolhidos a título de repetição de indébito tributário devem ser atualizados desde o recolhimento indevido. Nesse sentido: AgInt no REsp 1.991.778/MG, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 11.11.2022; AgInt no REsp 1.940.005/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 22.3.2022; e AgInt no REsp 1.923.585/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 24.3.2022.
+3. Dessa forma, os Aclaratórios devem ser acolhidos para se acrescentar ao acórdão embargado que os valores a serem recolhidos a título de repetição de indébito tributário devem ser atualizados desde a data do recolhimento indevido.
+4. Embargos de Declaração acolhidos com efeitos modificativos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, acolheu os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Humberto Martins votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão às fls. 523-532 e-STJ, que acolheu Embargos de Declaração com efeitos modificativos, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. AUSÊNCIA DE FIXAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. AUSÊNCIA DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC/2015. SUPRIMENTO DA OMISSÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. A recorrente alega que houve omissão, pois no acórdão embargado: i) constou o direito de a embargante repetir o indébito tributário referente ao ITBI do exercício de 2012, referente à parte das 13 glebas do imóvel de matrícula 1.243, quando o correto deveria ser a totalidade das 13 glebas, nos termos do pedido recursal; ii) não constou a forma de calcular a atualização dos valores a serem repetidos e iii) não houve majoração dos honorários advocatícios, nos termos do art. 85, §11, do CPC/15.
+2. Constou no acórdão proferido pelo Tribunal de origem que "após a realização de georreferenciamento no ano de 2014, descobriu-se que a totalidade das glebas da matrícula 353 e parte do imóvel de matrícula 1243 pertenciam ao Município de Igaraçu do Tietê." (fl. 333, e-STJ, grifei). Contudo, a "parte" do imóvel de matrícula 1.243 refere-se às 13 glebas, conforme se verifica às fls. 3 e 356, e-STJ. Dessa forma, procede a alegação do embargante.
+3. Em relação à alegação de omissão referente a forma de calcular a atualização dos valores a serem repetidos, verifica-se que a questão foi definida pelo STF, ao julgar o Tema 810, em repercussão geral. O Superior Tribunal de Justiça, por sua vez, decidiu o Tema 905 na sistemática dos Recursos Especiais repetitivos. Dessarte, deve ser aclarada a decisão para suprir a omissão e fazer constar que a atualização monetária e os juros de mora devem seguir o quanto foi decidido nos Temas 810 do STF e 905 do STJ.
+4. Por fim, o recorrente aduz que não houve majoração dos honorários advocatícios, nos termos do art. 85, §11, do CPC/15. Com razão o embargante, de modo que deve haver a majoração dos honorários advocatícios já fixados.
+5. Dessa forma, a parte dispositiva do acórdão embargado passar a constar da seguinte forma: "Por tudo isso, dou provimento ao Agravo Interno para prover o Recurso Especial, a fim de que o Município de São Manuel proceda à repetição do indébito tributário referente ao ITBI, exercício de 2012, pago em relação à totalidade das glebas da matrícula 353 (Fazenda São Joaquim) e às 13 glebas do imóvel de matrícula 1243 (Fazenda Santa Maria), incidindo atualização monetária e juros de mora na forma no Tema 810 do STF e 905 do STJ. Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no §11 do art. 85 do CPC/2015. Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso."
+6. Embargos de Declaração acolhidos com efeitos modificativos, nos termos da fundamentação.
+A embargante sustenta que houve omissão pois "o v. acórdão não previu o momento a partir do qual incidirá a correção monetária e os juros de mora" (fl. 538, e-STJ).
+Sem contraminuta, conforme certidão à fl. 545, e-STJ.
+Memoriais às fls. 548-550, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 21 de novembro de 2022.
+Com razão a recorrente.
+Esta Corte Superior possui orientação de que os valores a serem recolhidos a título de repetição de indébito tributário devem ser atualizados desde o recolhimento indevido.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. APLICAÇÃO DA TAXA SELIC A PARTIR DA VIGÊNCIA DA LEGISLAÇÃO ESTADUAL AUTORIZADORA. POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. No que tange ao termo a quo para incidência da Taxa SELIC, este Superior Tribunal de Justiça possui entendimento segundo o qual "os valores a serem devolvidos a título de repetição de indébito tributário, em atenção ao princípio da isonomia, devem ser atualizados pelos mesmos índices de correção monetária e de juros de mora aplicados na cobrança de tributo em atraso, de modo que é devida a utilização da Taxa Selic desde o recolhimento indevido, inclusive na esfera estadual, a partir da vigência da lei local que a tenha estabelecido (Temas 119 e 905 do STJ)" (AgInt no REsp 1.940.005/PR, Rel Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/03/2022, DJe de 22/03/2022). Precedentes.
+V. Agravo interno improvido.
+(AgInt no REsp n. 1.991.778/MG, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 11/11/2022.)
+TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TRIBUTO ESTADUAL. ATUALIZAÇÃO. TAXA SELIC. TERMO INICIAL. RECOLHIMENTO INDEVIDO. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. NORMA LOCAL. REEXAME. IMPOSSIBILIDADE.
+1. Os valores a serem devolvidos a título de repetição de indébito tributário, em atenção ao princípio da isonomia, devem ser atualizados pelos mesmos índices de correção monetária e de juros de mora aplicados na cobrança de tributo em atraso, de modo que é devida a utilização da Taxa Selic desde o recolhimento indevido, inclusive na esfera estadual, a partir da vigência da lei local que a tenha estabelecido (Temas 119 e 905 do STJ).
+(..)
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.940.005/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 22/3/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. TRIBUTO ESTADUAL. JUROS DE MORA. TAXA SELIC. INCIDÊNCIA A PARTIR DO RECOLHIMENTO INDEVIDO APÓS A VIGÊ CIA DA LEI ESTADUAL AUTORIZADORA.
+(..)
+2.A Primeira Seção do STJ, ao julgar os REsps 1.111.189/SP e 1.111.175/SP, mediante o rito dos recursos repetitivos, entendeu que, no âmbito federal, após a vigência da Lei 9.250/95 (lei que instituiu a Selic), os juros de mora nas ações de repetição de indébito tributário devem incidir a partir do recolhimento indevido. No caso de tributos estaduais, segue o mesmo entendimento, desde que haja previsão em lei estadual para adoção do índice estipulado para os tributos federais. Na espécie, há previsão na lei estadual paranaense (Lei 11.580/96) de aplicação da taxa Selic, devendo incidir sobre os indébitos tributários a partir da data de cada recolhimento indevido realizado após a vigência da lei estadual autorizadora.
+3.Agravo interno não provido.
+(AgInt no REsp n. 1.923.585/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 24/3/2022, grifei.)
+Dessa forma, os Aclaratórios devem ser acolhidos para se acrescentar ao acórdão embargado que os valores a serem recolhidos a título de repetição de indébito tributário devem ser atualizados desde a data do recolhimento indevido.
+Pelo exposto, acolho os Embargos de Declaração com efeitos modificativos, nos termos da fundamentação acima.
+É como voto.
