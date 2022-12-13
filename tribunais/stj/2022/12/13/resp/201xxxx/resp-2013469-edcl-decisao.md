@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fls. 804-805):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. SOBRESTAMENTO DO RECURSO ATÉ O EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. DEVOLUÇÃO DOS AUTOS.
+O embargante alega que há erro de fato no julgado, pois "Os recursos especiais em questão impugnam acórdão que, em execução de título judicial transitado em julgado, fixou como critério de correção monetária o IPCA-e a partir da vigência da Lei nº 11.960/2009 (..). O Estado do Paraná pretende a aplicação da TR como índice de correção monetária (e-STF, fl. 515-531). O Exequente postula a aplicação da média do INPC/IGP-DI, conforme estabelecido no título judicial transitado em julgado (e-STJ fl. 577-590). (..) Ao determinar a suspensão do recurso especial para que se aguarde o julgamento do Tema 1.170 do STF, a r. decisão embargada partiu de premissa equivocada, de que nele estaria sendo apreciada a mesma questão tratada no especial. No entanto, os recursos especiais não questionam os juros de mora, mas, sim, exclusivamente a correção monetária." (fls. 810-813).
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há erro de fato no julgado, pois "Ao determinar a suspensão do recurso especial para que se aguarde o julgamento do Tema 1.170 do STF, a r. decisão embargada partiu de premissa equivocada, de que nele estaria sendo apreciada a mesma questão tratada no especial. No entanto, os recursos especiais não questionam os juros de mora, mas, sim, exclusivamente a correção monetária." (fl. 813).
+Isso assentado, tem-se que razão não lhe assiste.
+Com efeito, a matéria dos autos e a discutida no Tema 1170/STF, apesar das alegações trazidas nestes embargos, guardam relação entre si, de modo que a providência adotada na espécie deve ser mantida, a fim de evitar decisões conflitantes entre esta Corte Superior e o Supremo Tribunal Federal. Tanto assim que este último tem determinado o sobrestamento de processos semelhantes, ao argumento de que a correção monetária encontra-se também prevista no art. 1º-F da Lei 9494/1997, com redação dada pela Lei 11.960/2009, igualmente objeto de julgamento no RE 870.947 (Tema 810).
+A determinação, inclusive, é assente neste Tribunal: REsp 1987405/SC, Rel. Min. Benedito Gonçalves, Data de Publicação em 14/10/2022; AREsp 2022426/SP, Rel. Min. Manoel Erhardt - Desembargador Convocado do TRF5, Data de Publicação em 21/9/2022; EDcl no REsp 2003348/SP, Rel. Min Sérgio Kukina, Data de Publicação em 5/9/2022 e AgInt no AREsp 2044212/RS, Rel. Min. Gurgel de Faria, Data de Publicação em 26/5/2022.
+Assim, tudo considerado, evidencia-se não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
