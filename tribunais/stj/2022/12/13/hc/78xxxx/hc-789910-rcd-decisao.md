@@ -1,0 +1,6 @@
+DECISÃO
+IKARO DO NASCIMENTO SOUZA e AMANDA APARECIDA QUINTINO DE SOUZA SAMPAIO pleiteiam, às fls. 81-84, a reconsideração da decisão que indeferiu liminarmente o habeas corpus em razão da incidência da Súmula n. 691 do STF.
+A despeito dos argumentos externados pela defesa, a decisão deve ser mantida. Os casos que envolvem a prisão de indivíduo com expressiva quantidade de droga, sobretudo em se tratando de entorpecente com alto poder deletério e em contexto de tráfico internacional, ensejam o exame acurado das circunstâncias em se de deram o delito, situação que pressupõe o esgotamento da instância ordinária (efetivo exame do caso pelo Tribunal de origem).
+Registro, por oportuno, que o indeferimento liminar do habeas corpus impetrado não exerceu juízo de mérito, mas apenas prelibatório,muito embora haja examinado de maneira perfunctória a decisão constritiva, a fim de afastar o manifesto constrangimento ilegal que justificatia a suplantação da Súmula n. 691 do STF. Nesse contexto, ainda que o resultado na origem seja desfavorável à pretensão defensiva, isso não obstará, por meio de novo remédio constitucional, o efetivo exame do caso e suas nuances por esta Corte.
+À vista do exposto, indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
