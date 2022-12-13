@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 124):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS - INSCRIÇÃO DO NOME DO CONSUMIDOR EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO - NECESSIDADE DE PRÉVIA NOTIFICAÇÃO - COMPROVAÇÃO - REGULARIDADE DA INSCRIÇÃO - AUSENTE DEVER DE INDENIZAR - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+1. Discute-se no presente recurso: se restou demonstrada a prévia notificação do autor-apelante acerca da inscrição de seu nome junto ao banco de dados da ré-apelada, capaz de ensejar direito à indenização por danos morais.
+2. Nos termos do art. 43, § 3º, da Lei Federal nº 8.078, de 11/09/1990 - Código de Defesa do Consumidor, "a abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele".
+3. Para adimplemento, pelos cadastros de inadimplência, dessa obrigação de comunicação, basta a comprovação da postagem, ao consumidor, do correspondência notificando-o quanto à inscrição de seu nome no respectivo cadastro, sendo desnecessário aviso de recebimento. Precedentes do STJ.
+4. Na espécie, restou comprovada a prévia notificação do consumidor antes da inclusão de seu nome nos cadastros da requerida, não havendo qualquer ato ilícito indenizável.
+5. Apelação Cível conhecida e não provida, com majoração dos honorários de sucumbência.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 186, 927 e 944 do Código Civil, e arts. 6º, VI, 14 e 43, § 2º, do Código de Defesa do Consumidor.
+Sustenta que a parte agravadafoi ineficaz ao notificar o consumidor, de forma prévia à inserção de seu nome no cadastro de inadimplência, posto que o agravante reside em local não atendido pelos Correios.
+Afirma que a conduta da agravada deu causa ao sofrimento de danos morais, os quais devem ser indenizados.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, cumpre dizer que o ora agravante pretende reformar o entendimento do Tribunal local, quando concluiu que o Serasa, ora agravado, havia se desincumbido do ônus de notificar o consumidor previamente à inserção de seu nome no cadastro de inadimplentes.
+Impossível conhecer, contudo, das aventadas violações aosarts. 186, 927 e 944 do Código Civil, e6º, VI, e 14do Código de Defesa do Consumidor, posto que o conteúdo normativo da citada legislaçãopermaneceuestranhoao acórdão recorrido, e também não foi abordadono julgamento dos embargos de declaração opostos.
+Logo, está ausente o requisito do prequestionamento, incidindoaopontoo óbice da Súmula 211, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Não sendo possível conhecer das teses referentes aos artigos mencionados, vê-se que a Corte estadual assentou a regularidade da notificação com base em documentos constantes dos autos. Senão, vejamos (e-STJ, fls. 129/130):
+ A  parte ré-apelada juntou documentos que comprovam a notificação do consumidor sobre a sua inadimplência e a possibilidade de negativação do seu nome acerca do referido débito (f. 39-41).
+O autor, ora apelante, nega que tenha recebido as notificações sobre a referida negativação de seu nome; contudo, analisando os autos, tenho que a parte ré demonstrou, de forma contundente, ter encaminhado notificação prévia válida sobre a abertura do registro em comento.
+Isto porque, a documentação acostada pela ré-apelada, é satisfatória para demonstrar que cumpriu com o seu dever de cientificar previamente o requerente acerca da inclusão do seu nome no serviço de proteção ao crédito, por solicitação do credor Energisa Mato Grosso do Sul - Distribuidora de Energia S/A, sendo que o código de barras na embalagem e a chancela dos correios no envelope confirmam a postagem dos documentos para o endereço ali constante, o qual foi fornecido pelosolicitante da inscrição.  ..
+Ainda que o autor afirme que não há prova de envio das correspondências, é importante destacar que a carta-notificação foi enviada por meio de franqueamento autorizado de cartas - FAC1 - , serviço disponibilizado pelos Correios para remessa de grandes quantidades de cartas comerciais, de sorte que a cópia da embalagem, com código de barras e chancela dos correios, conforme acimacolacionado, confirma sua postagem.
+Consigne-se que o serviço de proteção ao crédito não dispõe dos dados cadastrais, de maneira que não parece correto exigir que comprove que oendereço foi o real fornecido pelo credor. A obrigação de indicar o endereço do devedor é unicamente do credor, não sendo possível transferi-la ao órgão responsável pela inscrição.
+Assim, a revisão da premissa de que a agravada cumpriu com seu dever de de cientificar previamente o agravante acerca da inclusão do seu nome no serviço de proteção ao crédito conclusão é providência vedada pelo óbice da Súmula 7/STJ, pois ensejaria a revisão de matéria fático-probatória.
+Ademais, importa ressaltar que o acórdão recorrido, ao concluir que "o mero envio da notificação é suficiente para cumprimento da norma do art. 43, § 2º, da Lei Federal nº 8.078, de 11/09/1990 - Código de Defesa do Consumidor", encontra-se em consonância com o entendimento desta Corte Superior, razão pela qual incide ao pleito o óbice contido na Súmula 83/STJ.
+A justificar a incidência dos mencionados óbices, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL EPROCESSUAL. INSCRIÇÃO CADASTRO DE INADIMPLENTES.NOTIFICAÇÃO PRÉVIA. COMPROVAÇÃO DE ENVIO. SÚMULA Nº 7/STJ.DANOS MORAIS. INDENIZAÇÃO. VALOR EXORBITANTE. NÃOVERIFICAÇÃO. RAZOABILIDADE.
+1. A notificação prévia de que trata o art. 43, § 2º, do Código de Defesa doConsumidor como condição de procedibilidade para a inscrição do nome dodevedor em cadastro de inadimplente prescinde da comprovação dorecebimento pelo devedor por meio de aviso de recebimento (AR),considerando-se cumprida pelo órgão de manutenção do cadastro com osimples envio da correspondência ao endereço fornecido pelo credor.Verificar a comprovação do recebimento é vetado pela Súmula nº 7/STJ.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 761.851/PR, Rel. Ministro RICARDO VILLAS BÔASCUEVA, TERCEIRA TURMA, julgado em 18/10/2016, DJe 27/10/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃOORDINÁRIA. 1. DANOS MORAIS. NÃO CONFIGURADOS.COMUNICAÇÃO PRÉVIA COMPROVADA. ART. 43, § 2º, DO CDC.INCIDÊNCIA DAS SÚMULAS 359 E 404/STJ. NECESSIDADE DEREEXAME DOS FATOS. SÚMULA 7/STJ. 2. HONORÁRIOSADVOCATÍCIOS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVOIMPROVIDO.
+1. A Segunda Seção deste Tribunal, no julgamento do REsp 1.083.291/RSrepresentativo de controvérsia repetitiva (art. 543-C CPC/73), consolidou oentendimento de que, para a notificação ao consumidor da inscrição de seunome em cadastro restritivo de crédito, basta o envio de correspondênciadirigida ao endereço do devedor, sendo desnecessário o aviso derecebimento.
+1.2. Na espécie, a Corte a quo, calcada nas provas acostadas aos autos,concluiu pelo cumprimento do disposto no art. 43, § 2º, do Código de Defesado Consumidor. A revisão desse entendimento demanda a reapreciação dasprovas, providência que encontra óbice na Súmula 7/STJ.
+1.3. Não cabe, em recurso especial, desconstituir a premissa de fato adotadapelo Tribunal de origem no sentido de que a notificação prévia dosconsumidores não foi efetuada.
+ ..
+3. Agravo interno improvido.
+(AgInt no AREsp 1283792/MT, Rel. Ministro MARCO AURÉLIOBELLIZZE, TERCEIRA TURMA, julgado em 17/2/2020, DJe 19/2/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃOEM CADASTRO DE INADIMPLENTES REGULAR. NOTIFICAÇÃOPRÉVIA. COMPROVAÇÃO DE ENVIO. SÚMULAS N. 7 E 83 DO STJ.ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVOINTERNO DESPROVIDO.
+1. É pacífica a jurisprudência da Segunda Seção no sentido de que, para anotificação ao consumidor da inscrição de seu nome em cadastro restritivode crédito, basta o envio de correspondência dirigida ao endereço do credor,sendo desnecessário aviso de recebimento. Entendimento firmado nojulgamento do Recurso Especial 1.083.291/RS, julgado sob o rito dosrecursos repetitivos.
+2. A revisão da conclusão estadual - acerca do adequado cumprimento dodisposto no artigo 43, § 2º, do Código de Defesa do Consumidor , e por isso,descabida a inscrição de seu nome em cadastro de inadimplentes -demandaria o revolvimento do acervo fático-probatório dos autos,providência inviável na via estrita do recurso especial, ante o óbice dispostona Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1078272/SP, Rel. Ministro MARCO AURÉLIOBELLIZZE, TERCEIRA TURMA, julgado em 15/8/2017, DJe 25/8/2017)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
