@@ -1,0 +1,2 @@
+Institui a Política Nacional de Incentivo à Agricultura e Pecuária de Precisão para ampliação da eficiência na aplicação de recursos e insumos de produção, de forma a diminuir o desperdício, reduzir os custos de produção e aumentar a produtividade e a lucratividade, bem como garantir a sustentabilidade ambiental, social e econômica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
