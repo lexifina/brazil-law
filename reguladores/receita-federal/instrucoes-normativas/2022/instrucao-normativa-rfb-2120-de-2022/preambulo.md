@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2120, de 12 de dezembro de 2022
+Altera a Instrução Normativa RFB nº 1.753, de 30 de outubro de 2017, que dispõe sobre os procedimentos para anular os efeitos dos atos administrativos emitidos com base em competência atribuída por lei comercial que contemplem modificação ou adoção de novos métodos ou critérios contábeis
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no parágrafo único do art. 58 da Lei nº 12.973, de 13 de maio de 2014, resolve:
