@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porMINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE(e-STJ fls. 417/425) contra decisão monocrática de e-STJ fls. 409/411, queconheceudo agravo para negar provimentoao seu recurso especial.
+A parte agravante alega: (i) que o Tribunal a quo foi omisso quanto aos aspectos fáticos do caso, que não foram levados em consideração para a fixação do regime prisional; (ii) a fixação do regime fechado para o cumprimento da pena, em razão da gravidade concreta do delito (praticado em concurso de pessoas, com o emprego de arma de fogo e mediante violência contra várias vítimas).
+Requer, assim, a reconsideração da decisão agravada.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO (ART. 157, §3º, PARTE FINAL, DO CP). AUSÊNCIA DE VIOLAÇÃO AO ART. 619 DO CP. REGIME DE CUMPRIMENTO DE PENA. SEMIABERTO. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. ACorte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+2. Em relação ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+3. Foi elaborado, então, o enunciado 440 da Súmula deste Tribunal, segundo o qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados 718 e 719 da Súmula do Supremo Tribunal Federal.
+4. No caso, estabelecida a pena definitiva do acusado em 7 anos e 3 meses de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, não havendo qualquer outro elemento concreto a justificar o regime mais gravoso, o regime semiaberto é o adequado à prevenção e reparação do delito.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+De início, ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+Nesse contexto, tem-se que o fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, por certo não revela violação do art. 619 do Código de Processo Penal.
+Em relação ao regime de cumprimento de pena, ajurisprudência desta Corte firmou-se no sentido deque é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+Foi elaborado, então, o enunciado 440 da Súmula deste Tribunal, segundo o qual,fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, RelatorMinistro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+No caso, estabelecida a pena definitiva doacusadoem 7anos e 3 meses de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primárioorecorrente e sem antecedentes, não havendo qualquer outro elemento concreto a justificar o regime mais gravoso, o regimesemiaberto é o adequado à prevenção e reparação do delito.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto,nego provimentoao agravo regimental.
+É como voto.
