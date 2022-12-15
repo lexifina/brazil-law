@@ -23,11 +23,11 @@ Das Ações, Planos e Programas
 CAPÍTULO IV
 DO FOMENTO À ATIVIDADE TURÍSTICA
 Seção I
-Da Habilitação a Linhas de Crédito Oficiais e ao Fundo Geral de Turismo - FUNGETUR
+Da Habilitação a Linhas de Crédito Oficiais e ao Fundo Geral de Turismo (Novo Fungetur)
 Seção II
 Do Suporte Financeiro às Atividades Turísticas
 Seção III
-Do Fundo Geral de Turismo - FUNGETUR
+Do Fundo Geral de Turismo (Novo Fungetur)
 CAPÍTULO V
 DOS PRESTADORES DE SERVIÇOS TURÍSTICOS
 Seção I

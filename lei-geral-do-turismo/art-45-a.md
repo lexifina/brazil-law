@@ -1,0 +1,1 @@
+Art. 45-A. As ações de promoção turística serão consideradas prioritárias para o fortalecimento e a expansão do turismo, devendo ser assim contempladas no planejamento e no ordenamento do setor pela Política Nacional de Turismo e nas diretrizes, nas metas e nos programas definidos no PNT.
