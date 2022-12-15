@@ -1,0 +1,63 @@
+EMENTA
+PPROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPEIÇÃO. PARCIALIDADE DO JULGADOR. NÃO OCORRÊNCIA. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre a suspeição do magistrado, a Corte de origem de forma fundamentada rechaçou todas as alegações que embasaram a tese de parcialidade do juízo criminal que conduziu o feito em 1º grau de jurisdição, concluindo pela inexistência da suspeição. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Messod Azulay Neto, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por LEANDRO SILVA COELHO, contra decisão desta Corte que conheceu do agravo para não conhecer do recurso especial, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, diante incidência da Súmula 7/STJ (e-STJ, fls. 745-748).
+A parte agravante alega, em suma, não ser o caso da incidência da Súmula 7/STJ, bem com a suspeição do magistrado, em razão da sua parcialidade.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PPROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPEIÇÃO. PARCIALIDADE DO JULGADOR. NÃO OCORRÊNCIA. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre a suspeição do magistrado, a Corte de origem de forma fundamentada rechaçou todas as alegações que embasaram a tese de parcialidade do juízo criminal que conduziu o feito em 1º grau de jurisdição, concluindo pela inexistência da suspeição. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Sobre a suspeição do magistrado, a Corte de origem de forma fundamentada rechaçou todas as alegações que embasaram a tese de parcialidade do juízo criminal que conduziu o feito em 1º grau de jurisdição, concluindo pela inexistência da suspeição, conforme se depreendo a partir do trecho do acórdão recorrido em destaque:
+"Não reconheço o fato narrado como representativo de admissão de parcialidade por parte da magistrada Excepta.
+A decisão referida, constato, está fundamentada no inciso III, do art. 252 do Código de Processo Penal, alinhando a causa concreta da manifestação antecipada de impedimento.
+Diante da enunciação da causa objetiva de impedimento, descabe dar ao fato interpretação outra, muito menos para gerar efeitos nesta exceção.
+Dito de outro modo: em face de motivo objetivo enunciado naqueles autos para o impedimento manifestado, não cabe dar interpretação àquele fato como sintoma de suspeição, muito menos trazê-lo para esta exceção.
+Recebimento da denúncia exauriente, com mais de 300 (trezentas)laudas, reconhecendo como comprovada autoria e a materialidade em diversos pontos da acusação, pré-julgando os acusados.
+Aponto que volume expressivo do que trazido pelo excipiente como manifestação de prejulgamento do então acusado se constitui, pela referência que lhe acompanha, de remissão a documentos e afirmações a outros atores processuais, ou de trechos de documentos oficiais de órgãos públicos.
+Fazendo o caminho inverso do que o proposto na peça que suscita o reconhecimento da suspeição, recupero o conteúdo da remissão realizada pela magistrada Excepta.
+Indicou a defesa do Excipiente o seguinte trecho da decisão que recebeu a denúncia:
+(..)
+O trecho compõe o momento da decisão que recebeu parcialmente a denúncia, em que magistrada Excepta analisou, de forma conjunta, a materialidade do FATO 8 - Peculato, relativamente aos denunciados GILBERTO DE OLIVEIRAMORITZ, MARCOS BAPTISTA DALMAU, ROGÉRIO DA SILVA NUNES, DENISEAPARECIDA BUNN e LEANDRO SILVA COELHO
+Na sequência, ao analisar a autoria, também de forma conjunta, mas no particular trecho, tratando especificamente da companheira do Excipiente, Denise Aparecida Bunn, é que surge a primeira parte do trecho indicado, em que afirma presente a autoria delitiva.
+Efetivamente, a magistrada fecha a análise, afirmando presente a autoria do excipiente
+Em que pese isso, nota-se que, ao dar início à análise conjunta da autoria dos acusados nesse Fato 8, a magistrada Excepta assentou, no parágrafo após o número 5.8.2. Autoria, que a análise é feita em conjunto com a prova da materialidade acima identificada e será feita de forma conjunta (com individualização necessária) em relação aos(as) denunciados(as), tendo em vista a característica do delito sob análise e intrincamento probatório em relação as condutas típicas praticadas em tese pelos(as) denunciados(as)
+Não identifico excesso de linguagem ou qualquer irregularidade na atuação judicial, em face da ressalva da prática em tese.
+A locução ânimo doloso, se tomada em acepção técnica, de fato se apresenta desnecessária para o momento processual, vez que antecipar a presença de evidência de ânimo doloso subverte a lógica processual, que pressupõe recebimento da denúncia e a necessária ultrapassagem dos filtros da ação penal, de verificação da materialidade e autoria de fato típico e antijurídico, momento em que cabe perquirir a existência do dolo
+Entrementes, se analisado o contexto em que empregada, no encadeamento de elementos de prova em que a magistrada destaca transcrição de conversa no aplicativo WhatsApp, que retrataria concerto entre Leandro e sua companheira, para supostamente ocultar valor em tese recebido por Denise por meio do companheiro, vê-se justica do o emprego porquanto o elemento subjetivo integra o tipo penal. E no momento do recebimento da denúncia, o juiz deve verificar se a descrição do tipo atribuído ao denunciado corresponde aos elementos mínimos de prova. Do contrário, poderia ensejar, inclusive, a absolvição sumária.
+No que diz com o adjetivo vasto, empregado em relação ao conjunto probatório, não há qualquer reparo a fazer, vez que a só leitura da denúncia e da decisão que a recebeu, pela sua extensão e referências aos elementos probatórios que a magistrada examinou, dá a dimensão de que o material que compõe o acervo probatório é de fato amplo.
+De tudo quanto visto, não extraio dos elementos textuais destacados pelo excipiente, evidência de que a magistrada Excepta possua interesse na causa que não o seu regular processamento.
+Por outro lado, a longa decisão de recebimento da denúncia, por compatível com a extensão temporal em que os fatos teriam ocorrido, multiplicidade de condutas imputadas e complexidade intrínseca de análise de contexto de Operações Policiais dessa envergadura, não denota suspeição ou indicativo de falta de imparcialidade da magistrada.
+Cumpre assinalar, por pertinente, a distinção entre o dever de imparcialidade do juiz, sem o qual a decisão compromete a própria jurisdição, com a neutralidade, elemento ontologicamente ausente no sujeito, e indesejável que se pretenda, apresente o juiz.
+(..)
+No caso concreto, segundo se retira da decisão recorrida, não se verifica excesso de linguagem.
+Identifico, ao revés, que a magistrada Excepta cuidou de dialogar com os temas lançados nas defesas preliminares daqueles denunciados funcionários públicos de forma suficiente a justificar a admissibilidade da ação penal, sem intrusão no mérito, a não ser para sinalizar às defesas a convicção acerca da materialidade dos delitos narrados e dos indícios suficientes de autoria, a pardo exame da tipicidade.
+Percebo que a redação da decisão espelha a extensão e complexidade dos fatos sob escrutínio, que estão distanciados no tempo e contam, ainda, como fonte para os fatos imputados, de Relatório de Demandas Externas 201407738,da Controladoria Geral da União - CGU, e de Relatório de Fiscalização TC nº023.418/2017-6 pelo Tribunal de Contas da União - TCU.
+Essa dimensão vem decalcada na decisão recorrida, na qual se tem a demonstração de que a magistrada, já no momento do recebimento da denúncia, está plenamente apropriada do material produzido na fase pré-processual, que, percebe-se, é vasto. Assim, os atos e fatos processuais alinhados na inicial da presente exceção nãose prestam para demonstrar a quebra da parcialidade da magistrada, assim como não consubstanciam prejulgamento da causa penal. Como já afirmei, não detecto interesse outro da magistrada Excepta, que não seja a escorreita instrução processual.(..
+Feitas essas considerações, a presente exceção de suspeição afigura-se absolutamente improcedente, uma vez que as razões invocadas pelo Excipiente não encontram sintonia ou adequação com quaisquer das hipóteses legalmente previstas de quebra da imparcialidade ou ensejadoras de suspeição da magistrada.
+CONCLUSÃ
+Em linha de conclusão, porque a decisão de recebimento da denúncia não apresenta elementos que a façam encontrar moldura no figurino das hipóteses ensejadoras de suspeição, por não indicar a ocorrência da quebra da imparcialidade por parte da Excepta, ou prejulgamento da causa, além de não externar interesse que não seja a regular instrução processual, é de ser julgada improcedente a exceção de suspeição (e-STJ, fls. 551-557):
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OPERAÇÃO OUVIDOS MOUCOS. ALEGADA SUSPEIÇÃO DE MAGISTRADO. QUEBRA DA IMPARCIALIDADE DA JUÍZA FEDERAL. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O artigo 12 do Código de Ética da Magistratura Nacional, aprovado pelo Conselho Nacional de Justiça, em linha com o que estabelece o art. 36, inciso III, da Lei Complementar 35/1979, não impede o livre exercício do direito de manifestação do juiz. Ao contrário, ao regulamentar a relação entre os membros do Poder Judiciário e a imprensa, o normativo estabelece critérios que assegurem, de um lado, a força normativa dos princípios da liberdade de expressão e da publicidade dos atos emanados do Estado (art. 5º, IV; art. 37, caput, e art. 93, IX, da Constituição Federal) e de outro, a prudência, atributo inerente ao exercício da judicatura.
+III - Para modificar as conclusões a que chegou o eg. Tribunal de origem a respeito da suspeição da magistrada, é indispensável o reingresso no conjunto fático-probatório, providência inviável na via eleita , a teor do enunciado sumular n. 7 desta Corte Superior de Justiça.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.004.098/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 2/8/2022, DJe de 15/8/2022.)"
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPEIÇÃO DE MAGISTRADO. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. IMPEDIMENTO E SUSPEIÇÃO. ROL TAXATIVO. RECURSO NÃO PROVIDO.
+1. Para reverter a conclusão das instâncias ordinárias e afastar o entendimento de que não está configurada qualquer causa de suspeição da Magistrado, seria necessário revolver o contexto fático-probatório, providência inadmissível em recurso especial. Incidência do Enunciado n. 7/STJ.
+2. As causas de impedimento e suspeição de magistrado estão dispostas taxativamente no Código de Processo Penal, não comportando interpretação ampliativa.
+3. Agravo regimental desprovido
+(AgRg no AREsp n. 1.881.330/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021.)"
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
