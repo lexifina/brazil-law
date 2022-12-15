@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentadono art.105, III, a e c, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim resumido:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DESEGURANÇA. ISS. SOCIEDADE MÉDICA. LEI COMPLEMENTAR QUEALTERA O CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE FOZ DO IGUAÇU E REVOGA EXPRESSAMENTE O ART. 9º, §3º DO DECRETO-LEI 406/1968, E QUE ESTARIA IMPEDINDO A TRIBUTAÇÃO PELA MODALIDADE FIXA. INCONSTITUCIONALIDADE DA NORMA RECONHECIDA PELO ÓRGÃO ESPECIAL DESTA CORTE. MEDIDA IRRELEVANTE NA ESPÉCIE DIANTE DO CARÁTER EMPRESARIAL DA SOCIEDADE. TRIBUTAÇÃO QUE DEVE SE DAR PELO FATURAMENTO DA EMPRESA. SENTENÇA REFORMADA. IMPOSSIBILIDADE DE DISCUSSÃO EM SEDE DE MANDADO DE SEGURANÇA.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+No entanto, em que pese o entendimento exarado pelo Eminente Ministro, o presente caso não demanda o reexame de provas, sendo a súmula nº7 inaplicável no presente caso. Isso sede ao fato de que, o acórdão recorrido apreciou corretamente a matéria fático-probatória. Tanto isso é verdade que, o recurso especial apresentado pela recorrente parte do pressuposto de que as características societárias da recorrente foram delineadas no acórdão recorrido.
+ ..
+Basta lembrar que no EAREsp nº 31.084/MS, a 1ª Seção do STJ afirmou que a presença de responsabilidade limitada não afasta o caráter uniprofissional das sociedades, e quanto à previsão de retirada de pró-labore e divisão de lucros, restou demonstrado que tais características são gerais para todos os tipos de sociedades personificadas, nos termos do Código Civil. Portanto, não há que se falar na necessidade de reexame de provas, uma vez que todo o quadro fático se encontra bem delineado no acórdão recorrido, sendo que o presente recurso especial demanda apenas uma requalificação jurídica dos fatos incontroversos presentes na decisão impugnada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.MANDADO DE SEGURANÇA. ISS. SOCIEDADE MÉDICA. IMPOSSIBILIDADE DE DISCUSSÃO EM MANDADO DE SEGURANÇA.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N . 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de mandado de segurança contra ato do chefe do Executivo do Município de Foz do Iguaçu. Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi reformada.
+II - A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Nesse sentido: REsp n. 1.293.161/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/4/2018, DJe 11/4/2018 e AgInt no REsp n. 2.000.174/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2022, DJe 19/10/2022.
+IV- Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ ..  não se pode ignorar que a tributação de forma fixa se fundamenta no caráter pessoal da prestação de serviço, assim como na responsabilidade pessoal por suas atividades. Embora os impetrantes defendam o caráter não empresarial da sociedade, o contrato social revela situação fática diversa, e que demanda a rejeição do pedido de tributação fixa. Desde a elaboração do contrato social há previsão de retirada de pro-labore e de responsabilidade limitada ao valor das respectivas cotas, colocações essas mantidas mesmo com as alterações feitas no contrato social. Veja-se que o parágrafo primeiro da cláusula quinta dispõe expressamente que "a responsabilidade de cada sócio é restrita ao valor de suas quotas, não havendo responsabilidade solidária pelas obrigações sociais, respondendo todos, no entanto, pela integralização do capital social". Fl.02, mov. 1.7. Além disso, a última alteração contratual prevê de forma expressa a divisão de lucros entre os sócios:
+ ..
+Assim, é inquestionável o caráter empresarial da sociedade, o que torna manifestamente infundada a pretensão de tributação do ISS pela modalidade fixa.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial". Nesse sentido: REsp n. 1.293.161/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/4/2018, DJe 11/4/2018 eAgInt no REsp n. 2.000.174/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2022, DJe 19/10/2022.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
