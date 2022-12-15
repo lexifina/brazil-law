@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Mauro Campbell Marques.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRENO DIAS DE CASTRO NETO E OUTROS contra decisão proferida às e-STJ fls. 539/541, por meio da qual conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO. VIOLAÇÃO AOS ARTS. 1022 E 489, § 1º, IV, DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 81 E 103 DA LEI Nº 8078/90. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. MORTE DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO COLEITVA. DIREITO POSTULADO PERTENCENTE À PENSIONISTA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULAS Nº 284 E 283 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nas razões do agravo interno, os agravantes alegam, em síntese, que teria havido efetiva violação aos arts. 1022 e 489, § 1º, IV, do CPC/2015, por negativa de prestação jurisdicional. Sustentam que "a Corte Regional NADA DISSE a respeito da ampla legitimidade do Sindicato" (e-STJ fl. 547).
+Ademais, aduzem que não incidiria a Súmula nº 284/STF, pois "as razões recursais são perfeitamente plausíveis e coerentes para a alteração do entendimento fixado pelo v. Acórdão Regional" (e-STJ fl. 551).
+Sustentam que "nas razões do recurso especial, pugnou-se pela reforma do v. Acórdão Regional, demonstrando-se (i) nulidade do v. Acórdão diante da insistência na omissão; (ii) afronta ao disposto nos artigos 81 e 103 da Lei n. 8.078/90; 203 do Código Civil; e 8º, inciso III, da CRFB, que diz, justamente da ampla legitimidade do Sindicato, inclusive para representar pensionistas e sucessores de servidores falecidos" (e-STJ fl. 552).
+Por fim, alegam que recentes julgados desta Corte Superior "têm reconhecido a legitimidade do Sindicato para atuar como substituto processual de pensionistas e sucessores, mesmo na hipótese em que o falecimento do servidor tenha se dado antes da ação de conhecimento" (e-STJ fl. 553).
+Requerem, assim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado, para que seja conhecido e provido o recurso especial.
+Sem contraminuta ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AOS ARTS. 1022 E 489, § 1º, IV, DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 81 E 103 DA LEI Nº 8.078/90 E AO ART. 203 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTO NÃO IMPUGNADO NAS RAZÕES DO AGRAVO INTERNO. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1022 do CPC/2015.
+2. Quanto a suposta violação aos arts. 81 e 103 da Lei nº 8.078/90, bem como ao art. 203 do Código Civil, verifica-se da decisão ora agravada que o recurso especial não foi conhecido com base em dois fundamentos: (i) ausência de prequestionamento, tendo sido aplicada a Súmula nº 211/STJ; (ii) falta de impugnação específica a fundamento do acórdão recorrido, tendo sido aplicada, por analogia, a Súmula nº 284/STF.
+3. Nas razões do agravo interno, contudo, os agravantes não impugnaram de forma específica a incidência da Súmula nº 211/STJ.
+Assim, inviável o conhecimento do agravo interno, neste ponto, conforme art. 1021, § 1º, do CPC/2015 e art. 259, § 2º, do RISTJ, ante o descumprimento do ônus da dialeticidade.
+4. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+VOTO
+Segundo já consignado na decisão agravada, o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1022 do CPC/2015.
+Destaca-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE OBJETIVA DO ESTADO. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA IMPOSSIBILIDADE DE CONCESSÃO DE PENSÃO À MÃE DA VÍTIMA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ALÍNEA "C". ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.975.143/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/3/2022)
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE EM TRANSPORTE COLETIVO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PROCEDÊNCIA DOS PEDIDOS. ALEGAÇÃO DE OFENSA AO ART. 1.0222 DO CPC/2015. INEXISTÊNCIA. AUSÊNCIA DE NEXO DE CAUSALIDADE. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação ajuizada contra a Companhia Metalúrgica Prada e a Prefeitura Municipal de São Paulo/SP objetivando o pagamento de indenização por danos morais e lucros cessantes, tendo em vista ter sido vítima de acidente em ônibus de transporte coletivo. Na sentença, julgaram-se procedentes os pedidos para condenar os réus a pagar o valor de R$476,60 (quatrocentos e setenta e seis reais e sessenta centavos) por danos materiais e R$7.500,00 (sete mil e quinhentos reais) por danos morais. No Tribunal a quo, a sentença foi mantida. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação da embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+IV - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+V - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp 1046644/MS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017 e AgInt no REsp 1625513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017).
+ ..
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 1.881.948/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 16/2/2022)
+Quanto a suposta violação aos arts. 81 e 103 da Lei nº 8.078/90, bem como ao art. 203 do Código Civil, verifica-se da decisão ora agravada que o recurso especial não foi conhecido com base em dois fundamentos: (i) ausência de prequestionamento, tendo sido aplicada a Súmula nº 211/STJ; (ii) falta de impugnação específica a fundamento do acórdão recorrido, tendo sido aplicada, por analogia, a Súmula nº 284/STF.
+Nas razões do agravo interno os agravantes não impugnaram, de forma específica, a incidência da Súmula nº 211/STJ.
+Assim, inviável o conhecimento do agravo interno, neste ponto, conforme art. 1021, § 1º, do CPC/2015 e art. 259, § 2º, do RISTJ, ante o descumprimento do ônus da dialeticidade. Nesse sentido os seguintes precedentes deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp 1421967/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/10/2018, DJe 05/11/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO DE NULIDADE DO DECISUM. PREVENÇÃO INTERNA. ARGUIÇÃO ATÉ O JULGAMENTO DO RECURSO SOB PENA DE PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A prevenção interna é relativa, devendo ser arguida até o início do julgamento do recurso, nos termos do art. 71, § 4º, do Regimento Interno desta Corte, sob pena de preclusão.
+III - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil.
+IV - Honorários recursais. Não cabimento.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo interno não conhecido.
+(AgInt no REsp 1432231/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. No caso, a agravante não combateu a argumentação deduzida na decisão impugnada, segundo a qual a parte não demonstrou, nas razões do agravo em recurso especial, a existência de afronta ao art. 535 do CPC/1973, sequer no tocante ao impeditivo constante da Súmula 7/STJ.
+3. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 4. A jurisprudência do STJ não admite inovação recursal no âmbito do agravo interno.
+5. Agravo interno não conhecido.
+(AgInt no AREsp 1053331/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/09/2018, DJe 24/09/2018)
+Ante o exposto, conheço parcialmente do agravo interno e, nessa extensão, nego-lhe provimento.
+É o voto.
