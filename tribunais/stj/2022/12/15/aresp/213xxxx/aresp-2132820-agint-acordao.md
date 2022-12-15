@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática da Presidência do STJ de fls. 697-699, e-STJ, que conheceu do Agravo para não conhecer do Recurso Especial, tendo em vista que "não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente".
+A parte agravante sustenta (fls. 705-708, e-STJ):
+(..) o tema da prescrição do fundo de direito previsto no artigo 1º do Decreto 20.910/32, foi longamente debatido pelo Tribunal de Justiça piauiense (..)
+(..)
+No entanto, equivocou-se o Tribunal estadual ao dizer que no ano de 1985, a requerente foi transposta para um cargo na extinta FADEP.
+Em verdade, ela foi apenas cedida para trabalhar nessa fundação, sendo a sua transposição realizada apenas em 1990, com a publicação do Decreto Estadual 8151/90, a qual a enquadrou no cargo de Professora Auxiliar (matrícula nº 00040-8), através da Portaria nº 364/90, ficando vinculada ao Departamento de Ciências Biológicas e Educação Física.
+À propósito, fl. 7 e-STJ:
+(..)
+Portanto, o Tribunal de Justiça julgou de forma equivocada o caso, partindo do pressuposto de a transposição teria ocorrido antes da Constituição de 1988, de modo que não seria inconstitucional, e, por consequência, a prescrição alcançaria apenas as diferenças das parcelas remuneratórias devidas em razão dessa referida investidura derivada anteriores ao quinquênio que antecedeu a propositura da ação.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 711-718, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DIFERENÇAS SALARIAIS. PRESCRIÇÃO. DIREITO LOCAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No enfrentamento da matéria, o Tribunal de origem, com apoio no conjunto fático-probatório, lançou os seguintes fundamentos: "Conforme o disposto no art. 1º do Decreto 20.910/32, qualquer pretensão que seja formulada contra a Fazenda Pública está sujeita a prazo prescricional de 5 (cinco) anos. Contudo, quando a pretensão da ação tratar de vantagens pecuniárias de trato sucessivo, em que não houver negativa do direito reclamado, a prescrição atingirá somente as parcelas vencidas antes do quinquênio anterior à propositura da ação, nos termos da Súmula 85 do STJ, in verbis: (..) Da análise dos autos, verifica-se que a ora Apelante pleiteia as diferenças salariais decorrentes da transposição de cargo e dos reenquadramentos que fora submetida no decorrer dos 30 anos que trabalha na UESPI, motivo pelo qual não há se falar em prescrição do fundo de direito (..). Compulsando os autos, verifico que a apelante comprovou os fatos acima narrados, tendo demonstrado que fez parte dos quadros de professores da SEDUC e que foi transposta para a FADEP (atual UESPI) em 10/07/85 (fls. 12), ou seja, antes da promulgação da Constituição Federal de 1988, que passou a prever a ilegalidade dessa forma de investidura em cargo público, motivo pelo qual sua designação para a UESPI não foi inconstitucional".
+2. No Recurso Especial, alegou-se que "o direito de pedir a transposição/reenquadramento surge com o próprio enquadramento da autora em 1990, através do Decreto Estadual nº 8.230/90. E uma vez que as pretensões contra a Fazenda Pública somente podem ser ajuizadas em até 5 (cinco) anos após o início da fluência do prazo prescricional, está prescrita a pretensão autoral, conforme dispõe o Decreto nº 20.910/32 em seu artigo 1º (..)" (fls. 554, e-STJ).
+3. A irresignação não merece mesmo prosperar, porquanto a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos e com base em normas estaduais, cujo reexame é impossível no Superior Tribunal de Justiça, ante o óbice das Súmula 7/STJ e 280 do STF. Precedentes do STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8 de novembro de 2022 .
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No enfrentamento da matéria, o Tribunal de origem, com apoio no conjunto fático-probatório, lançou os seguintes fundamentos (fls. 402-408, e-STJ):
+Conforme o disposto no art. 1º do Decreto 20.910/32, qualquer pretensão que seja formulada contra a Fazenda Pública está sujeita a prazo prescricional de 5 (cinco) anos. Contudo, quando a pretensão da ação tratar de vantagens pecuniárias de trato sucessivo, em que não houver negativa do direito reclamado, a prescrição atingirá somente as parcelas vencidas antes do quinquênio anterior à propositura da ação, nos termos da Súmula 85 do STJ, in verbis:
+(..)
+Da análise dos autos, verifica-se que a ora Apelante pleiteia as diferenças salariais decorrentes da transposição de cargo e dos reenquadramentos que fora submetida no decorrer dos 30 anos que trabalha na UESPI, motivo pelo qual não há se falar em prescrição do fundo de direito (..).
+(..)
+Compulsando os autos, verifico que a apelante comprovou os fatos acima narrados, tendo demonstrado que fez parte dos quadros de professores da SEDUC e que foi transposta para a FADEP (atual UESPI) em 10/07/85 (fls. 12), ou seja, antes da promulgação da Constituição Federal de 1988, que passou a prever a ilegalidade dessa forma de investidura em cargo público, motivo pelo qual sua designação para a UESPI não foi inconstitucional.
+(..)
+A apelante comprovou, também, que, embora esteja nos quadros da UESPI há mais de 30 anos e seja por ela remunerada, continua recebendo a remuneração referente ao cargo que ocupava quando fazia parte dos quadros da SEDUC (fls.10), motivo pelo qual tem o direito de constar nos quadros da UESPI como professora adjunta, fazendo jus ao recebimento das diferenças salariais entre o cargo pelo qual vem sendo remunerada e o cargo que efetivamente exerce.
+Ante o exposto, conheço do presente recurso e dou-lhe provimento, ratificando o vínculo institucional já existente, inclusive para fins previdenciános, bem com condenando a UESPI ao pagamento da soma das diferenças salariais dos últimos cinco anos entre os vencimentos do cargo de professora adjunta da UESPI e do cargo de professora SE, VIII, pelo qual vem recebendo no período citado, incluindo as diferenças de parcelas que se venceram no curso deste processo até o efetivo recebimento pela autora dos vencimentos do cargo de professora adjunta.
+No Recurso Especial, alegou-se que "o direito de pedir a transposição/reenquadramento surge com o próprio enquadramento da autora em 1990, através do Decreto Estadual nº 8.230/90. E uma vez que as pretensões contra a Fazenda Pública somente podem ser ajuizadas em até 5 (cinco) anos após o início da fluência do prazo prescricional, está prescrita a pretensão autoral, conforme dispõe o Decreto nº 20.910/32 em seu artigo 1º (..)" (fls. 554, e-STJ).
+A irresignação não merece mesmo prosperar, porquanto a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos e com base em normas estaduais, cujo reexame é impossível no Superior Tribunal de Justiça, ante o óbice das Súmula 7/STJ e 280 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. APOSENTADOS E PENSIONISTAS DA EX-FEPASA. DIFERENÇAS DE PISO SALARIAL. CLASSES SALARIAIS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARTIGOS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. ANÁLISE DE LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF.
+(..)
+4. Apesar de terem sido invocados dispositivos legais, o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local, a saber, Decreto 35.530, de 19 de setembro de 1959 e art. 4º, §2º, da Lei Estadual 9.343/1996. Destaco a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa a sua apreciação pelo STJ. Aplicação, por analogia, da Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe Recurso Extraordinário".
+5. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é impossível no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+6. Agravo Interno não provido.
+(AgInt no REsp 1.749.441/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.3.2019)
+A propósito, recentes decisões: AREsp 2.069.154/TO, Rel. Min. Sérgio Kukina, DJe 7.4.2022; AREsp 1.943.636/TO, Rel. Min. Herman Benjamin, DJe 13.10.2021; AREsp 1.928.152/TO, Rel. Min. Herman Benjamin, DJe 13.10.2021; AREsp 1.935.376/TO, Rel. Min. Humberto Martins, DJe 27.9.2021; AREsp 1.907.117/TO, Rel. Min. Sérgio Kukina, DJe 3.8.2021; AREsp 1.906.331/TO, Rel. Min. Mauro Campbell Marques, DJe 3.8.2021.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
