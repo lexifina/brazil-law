@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação objetivandoopagamentodasdiferençasresiduaisdoreajustede28,86%,noperíodocompreendidoentre janeirode1993ejunhode1998. Na sentença. o magistrado julgou procedente o pedido.No Tribunal a quo, a sentença foi parcialmente reformada, conforme a seguinte ementa do acórdão:
+APELAÇÕES CÍVEIS. AÇÃO COLETIVA AJUIZADA POR SINDICATO. PRELIMINARES DE VIOLAÇÃO DO JUIZ NATURAL, AUSÊNCIA DE INTERESSE, ILEGITIMIDADE E INÉPCIA DA INICIAL AFASTADAS. PRESCRIÇÃO AFASTADA. INDIVIDUALIZAÇÃO E LIQUIDAÇÃO DO CRÉDITO E TITULARIDADE DO DIREITO MATERIAL.COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES INDIVIDUALMENTE AJUIZADAS PELOS INTERESSADOS.TERMO INICIAL PARA A INCIDÊNCIA DOS JUROS DE MORA. ÍNDICE DE CORREÇÃO MONETÁRIA. SENTENÇA PARCIALMENTE MODIFICADA.
+No recurso especial, a parte recorrente alegou violação dos arts. 219 do Código de Processo Civile 16 da Lei n. 7.347/1985.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO COLETIVA AJUIZADA POR SINDICATO.COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES INDIVIDUALMENTE AJUIZADAS PELOS INTERESSADOS. TERMO INICIAL PARA A INCIDÊNCIA DOS JUROS DE MORA. ÍNDICE DE CORREÇÃO MONETÁRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando o pagamento das diferenças residuais do reajuste de 28,86%, no período compreendido entre janeiro de 1993 e junho de 1998. Na sentença. o magistrado julgou procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - No que diz respeito à alegação de violação do art. 16 da Lei n. 7.347/1985, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No que diz respeito à alegação de violação do art. 16 da Lei n.7.347/1985, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
