@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que acolheu parcialmente os Embargos de Declaração com efeitos modificativos apenas para fazer constar a ressalva de que cabe pagamento de honorários advocatícios contratuais, nos termos da ADPF 528/STF, e determinou o retorno dos autos ao Tribunal de origem.
+A parte agravante reitera sua tese de que o Recurso Especial interposto pela União perdeu seu objeto. Postula a reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Impugnação apresentada às fls. 363-365, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. IMPUGNAÇÃO INSUFICIENTE. SÚMULAS 283 E 284/STF. DECISÃO AGRAVADA NÃO ATACADA ESPECIFICAMENTE. ART. 1.021, § 4º, DO CPC/2015. SÚMULA 182/STJ.
+1. Trata-se de Agravo Interno contra decisão que acolheu parcialmente os Embargos de Declaração com efeitos modificativos apenas para fazer constar a ressalva de que cabe pagamento de honorários advocatícios contratuais, nos termos da ADPF 528/STF, e determinou ainda o retorno dos autos ao Tribunal de origem.
+2. A parte ora agravante repete os argumentos que, segundo ela, amparam a tese de perda do objeto do Recurso Especial da União. Não refuta, entretanto, o entendimento exarado na decisão monocrática, sintetizado a seguir (fls. 327-328, e-STJ): "Nessa conjuntura, o embargante afirma que o recurso a União perdeu o objeto porque os valores já foram levantados pelo escritório, porém não demonstra o trânsito em julgado do processo executivo. A eventual expedição dos precatórios da parcela dita incontroversa não impede a apreciação do recurso que visa a impedir sua expedição, pelo simples fato de que não se trata de situação fática incapaz de retornar ao status quo anterior".
+3. A parte passa ao largo de tais fundamentos. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade e, não tendo sido os argumentos atacados pela parte, os quais são aptos, por si sós, para manter o decisum combatido, incidem na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência de fundamentação e a ausência de impugnação.
+4. Ademais, é aplicável, ainda, por analogia, a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". (AgInt no REsp 1.881.152/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.10.2020; e AgInt no AREsp 1.751.773/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 18.12.2020).
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.11.2022.
+O Agravo Interno não pode ser conhecido.
+A parte ora agravante repete os argumentos que, segundo ela, amparam a tese de perda do objeto do Recurso Especial da União. Não refuta, entretanto, o entendimento exarado na decisão monocrática, sintetizado a seguir (fls. 327-328, e-STJ):
+Nessa conjuntura, o embargante afirma que o recurso a União perdeu o objeto porque os valores já foram levantados pelo escritório, porém não demonstra o trânsito em julgado do processo executivo. A eventual expedição dos precatórios da parcela dita incontroversa não impede a apreciação do recurso que visa a impedir sua expedição, pelo simples fato de que não se trata de situação fática incapaz de retornar ao status quo anterior.
+A parte passa ao largo de tais fundamentos. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade e, não tendo sido os argumentos atacados pela parte, os quais são aptos, por si sós, para manter o decisum combatido, incidem na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência de fundamentação e a ausência de impugnação.
+Nessa esteira:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declarou que os servidores integrantes de associação coletiva serão beneficiados por título proferido em mandado de segurança coletivo independentemente da existência de lista de servidores na petição inicial
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido. (AgInt no AREsp 1.206.856/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24.5.2018).
+Ademais, é aplicável, ainda, por analogia, a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". (AgInt no REsp 1.881.152/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/10/2020; e AgInt no AREsp 1.751.773/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 18/12/2020).
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL ERRO MÉDICO. RESPONSABILIDADE OBJETIVA DO ESTADO. CORPO ESTRANHO NO INTERIOR DO PACIENTE. ESQUECIMENTO DE OBJETO APÓS CIRURGIA. COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE O DANO E A CONDUTA ESTATAL. DANO MORAL CONFIGURADO. REDUÇÃO DO QUANTUM. ART. 1022 DO CPC. AUSÊNCIA DE OFENSA. SÚMULA 7/STJ. INCIDÊNCIA. IMPUGNAÇÃO DEFICIENTE. SÚMULA 182/STJ. APLICAÇÃO.
+1.Trata-se de Agravo contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo entendendo pela ausência de refutação específica aos fundamentos da inadmissibilidade do Recurso Especial.
+2. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+3. A Corte Especial do Superior Tribunal de Justiça pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018)
+4. Deveria a parte rebater todos os fundamentos do decisum no sentido de que: a) a decisão recorrida mereceria resultado diverso, por existir acórdão de órgão fracionário do STJ com similitude fática e jurídica, cujo teor decisório se realizou de forma divergente daquela solução apresentada; ou b) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido que contém fundamentação adequada para lhe dar respaldo, não se evidenciando o suposto maltrato às normas legais enunciadas.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.778.346/PE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1/7/2021).
+Desta forma, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, a irresignação não merece acolhimento.
+Ante o exposto, não conheço do Agravo Interno.
+É como voto.
