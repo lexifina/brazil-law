@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Ministério Público do Estado de São Paulo contra decisão que deferiu o pedido de tutela provisória.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, c, do RISTJ, defiro o pedido para conceder efeito suspensivo ao agravo em recurso especial, até o julgamento pela Segunda Turma, afastando as consequências condenatórias do acórdão pelo Tribunal de Justiça do Estado de São Paulo, restabelecendo os direitos políticos de requerente. "
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Nesse cenário, repisa o órgão ministerial que inexiste o fumus boni iuris, porque o direto superveniente, consistente nas alterações promovidas Lei n. 14.230/2021 na Lei de Improbidade Administrativa, somente pode ser conhecido se admitido o recurso especial, o que não se verifica no caso, porque ainda não houve a apreciação do agravo em recurso especial interposto pelo agravante.
+É que, se o recurso especial não supera a fase de admissibilidade, tem-se a incognoscibilidade do direito superveniente e a impossibilidade de análise da Lei n. 14.230/2021. Nessa hipótese, patente a impossibilidadedo conhecimento de norma superveniente.
+ ..
+Nesse cenário, frise-se que, diferentemente do que entendeu a decisão agravada, a probabilidade de êxito do recurso especial é remota, seja porque sequer será o caso de se aplicar a Lei n. 14.230/1021, que depende da admissão do agravo em recurso especial para ser conhecida -o que não se vislumbra, pela incidência da Súmula 7 do STJ, seja porque, considerando, como fato superveniente, as teses fixadas pela colenda Corte Constitucional no Tema 1199 de repercussão geral no dia 18 de agosto p. p., especialmente o seu item 4, o processo não se encontra prescrito-argumento utilizado, a contrario sensu, pela decisão agravada, que invocou decisão do Supremo Tribunal Federal antes da fixação das teses no aludido tema de repercussão geral-e, apesar de ora agravado ter sido condenado com base no art. 10, VIII e XII, da Lei de Improbidade Administrativa, o Tribunal de Justiça estadual já asseverou expressamente a presença do dolo na conduta dele.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PEDIDO DE TUTELA PROVISÓRIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de pedido de tutela provisória. Esta foi deferida.
+II - De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+III - Sabe-se que o deferimento da tutela de urgência, para conferir efeito suspensivo, somente é possível quando presentes, concomitantemente, o fumus boni iurise o periculum in mora. Nesse sentido: RCD na AR n. 5.879/SE, relator Ministro Humberto Martins, Primeira Seção, julgado em 26/10/2016, DJe em 8/11/2016.
+IV - Na espécie, está evidenciado o perigo da demora e o risco de irreversibilidade da decisão, uma vez que ficou caracterizada situação emergencial que justifica a concessão de liminar, que é exatamente a possibilidade do julgamento, ao final, ser-lhe favorável no Superior Tribunal de Justiça, tendo sido impedido de participar das eleições de 2022 em razão do acórdão recorrido, uma vez que pretende lançar candidatura.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Sabe-se que o deferimento da tutela de urgência, para conferir efeito suspensivo, somente é possível quando presentes, concomitantemente, o fumus boni iurise o periculum in mora.Nesse sentido:RCD na AR n. 5.879/SE, relator Ministro Humberto Martins, Primeira Seção, julgado em 26/10/2016, DJe em 8/11/2016.
+Na espécie, está evidenciado o perigo da demora e o risco de irreversibilidade da decisão, uma vez que ficou caracterizada situação emergencial que justifica a concessão de liminar, que é exatamente a possibilidade do julgamento, ao final, ser-lhe favorável no Superior Tribunal de Justiça, tendo sido impedido de participar das eleições de 2022 em razão do acórdão recorrido, uma vez que pretende lançar candidatura.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
