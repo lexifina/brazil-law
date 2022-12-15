@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelaDrogaria do Parque Ltda. contra decisão que não conheceu do recurso especial, fundamentadono artigo 105, III, a e c, da Constituição da Federal, que visa reformar acórdão proferido peloTribunal Regional Federal da 2ª Região, assim resumido:
+ADMINISTRATIVO. PROCESSO CIVIL. FARMÁCIA POPULAR. PROGRAMA "AQUI TEM FARMÁCIA POPULAR". DENÚNCIA DE IRREGULARIDADE. APURAÇÃO. PRESUNÇÃO RELATIVA DE LEGALIDADE E LEGITIMIDADE DO ATO ADMINISTRATIVO NÃO AFASTADA. SUSPENSÃO DO CREDENCIAMENTO. PREVISÃO LEGAL. RECURSO DE APELAÇÃO E REMESSA NECESSÁRIA PROVIDOS.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, § único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Entretanto, a conclusão do N. Ministro pela incidência da súmula 7 não procede, data maxima venia, haja vista que com a interposição do recurso especial a Agravante pretende não o reexame de fato, mas a requalificação jurídica dos fatos.
+ ..
+E veja das razões recursais que a Agravante não pretende modificar esse cenário fático, mas sim, com base nestes fatos, pretende seja reconhecido como desarrazoada a desproporcional a atuação (ou falta dela) da UNIÃO na condução do procedimento administrativo que já dura 25 (vinte e cinco) meses, com base nessa suposta excepcionalidade.
+ ..
+Veja, portanto, que a controvérsia se resume à interpretação e à valoração que ganharão os dispositivos legais incidentes sobre a situação fática já incontroversa e assumida no acórdão recorrido, bem como à demonstração de que tais dispositivos receberam interpretação divergente em circunstâncias fáticas idênticas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. FARMÁCIA POPULAR. PROGRAMA "AQUI TEM FARMÁCIA POPULAR". DENÚNCIA DE IRREGULARIDADE. APURAÇÃO. PRESUNÇÃO RELATIVA DE LEGALIDADE E LEGITIMIDADE DO ATO ADMINISTRATIVO NÃO AFASTADA. SUSPENSÃO DO CREDENCIAMENTO. PREVISÃO LEGAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+I - Na origem, trata-se de ação ordináriacontra a Uniãoobjetivando anulaçãode ato administrativo. Na sentença o pedido foi julgado parcialmente procedente. No Tribunala quo, a sentença foi reformada para julgar improcedente o pedido.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+III - Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Nesse sentido: AgInt no AREsp n. 2.104.197/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022; AgInt no AREsp n. 2.104.197/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022; REsp n.1.293.161/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/4/2018, DJe 11/4/2018.
+IV - O não conhecimento do recurso especial pela alínea a do permissivo constitucional, diante da incidência da Súmula n. 7/STJ, prejudica o exame do dissídio jurisprudencial.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+No caso em tela, não cabe falar em violação de contrato administrativo, posto que a suspensão do cadastro da parte autora junto ao Sistema DATASUS, atinente à execução do Programa Farmácia Popular Brasil - PFPB, decorreu da constatação de supostas irregularidades.
+Com efeito, os atos administrativos possuem presunção relativa de legalidade e legitimidade, que só pode ser afastada em caso de demonstração em sentido contrário, o que não restou comprovado pela ora apelada, eis que não restou demonstrado nos autos que toda a documentação solicitada pela Administração foi efetivamente fornecida em cópia legível, não obstante o afirmado pela União no sentido de que "fora solicitado e não apresentados os seguintes documentos, alguns apresentados mas pendentes de apreciação (CÓPIAS LEGÍVEIS dos seguintes documentos comprobatórios): a - CUPOM FISCAL (documento fiscal de emissão obrigatória que comprova a venda de mercadoria efetuada pelo estabelecimento); b - CUPOM VINCULADO (documento não fiscal emitido nas operações realizadas pelo Programa Farmácia Popular). DOCUMENTO OFICIAL COM FOTO APRESENTADO NO ATO DA COMPRA (cópia do CPF do paciente e/ou documento oficial com foto que conste o CPF e permita a identificação do usuário e, caso necessário, também do seu representante legal); c - RECEITA,PRESCRIÇÃO OU LAUDO MÉDICO e demais documentos utilizados para dispensação."
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".Nesse sentido:AgInt no AREsp n. 2.104.197/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022;AgInt no AREsp n. 2.104.197/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022;REsp n. 1.293.161/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/4/2018, DJe 11/4/2018.
+O não conhecimento do recurso especial pela alínea a do permissivo constitucional, diante da incidência da Súmula n. 7/STJ, prejudica o exame do dissídio jurisprudencial.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
