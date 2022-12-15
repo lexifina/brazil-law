@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art.105, III,a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. INSTALAÇÃO DE LINHAS DE TRANSMISSÃO DE ENERGIA ELÉTRICA. PRESCRIÇÃO DA PRETENSÃO INDENIZATÓRIA E INÉPCIA DA INICIAL. INOCORRÉNCIA. VALOR DA INDENIZAÇÃO. LAUDO PERICIAL. EXCLUSÃO DO VALOR FIXADO PELA REPARAÇÃO ACERCA DA IMPOSSIBILIDADE DE EXPLORAÇÃO MINERAL DA ÁREA. RENÚNCIA EXPRESSA. PREVALÊNCIA DO INTERESSE PÚBLICO. SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial, implicando, ainda, na majoração da verba honorária recursal em mais 0,5% (meio por cento), na parte em que sucumbiu o recorrente."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Simples leitura das razões recursais demonstra que se pretende, tão somente, elidir a violação à legislação federal perpetrada pelo V. Acórdão lavrado pela Corte Estadual (e-STJ, fls. 730/753), valendo-se, para tanto, dos elementos fáticos e probatórios reconhecidos pelas instâncias ordinárias, atribuindo-se enquadramento jurídico adequado.
+ ..
+Definitivamente, não se pretende a modificação das referidas premissas por este Eg. STJ, mas apenas o reconhecimento de que estas, à luz do direito aplicável (art. 11, "b", eparágrafos, do Código de Mineração; e os arts. 114, 115 e 118 do Código Civil), conduzem ao reconhecimento de que as perdas decorrentes da impossibilidade de exploração mineral da área serviente(privação do uso do potencial minerário do bem) deve integrar a quantificação da indenização devida ao superficiário.
+ ..
+Inegavelmente, aludido intento coaduna-se plenamente com a via recursal eleita, porquanto a jurisprudência iterativa deste Eg. STJ compreende que o reenquadramento jurídico das circunstâncias de fato descritos no acórdão recorrido, tal como pretende o Agravanteno caso em apreço, não constitui quaisquer dos óbices nas Súmulas/STJ ns. 05 e 07. Observe-se:
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO.AÇÃO DE INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. IMPOSSIBILIDADE DE EXPLORAÇÃO MINERAL DA ÁREA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de Ação de Constituição de Servidão Administrativaajuizada por TDG - Transmissora Delmiro Gouveia S.A.objetivando a ocupação de parte de seu imóvel rural. Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi reformada.
+II- Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".Nesse sentido: REsp n. 1.789.783/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/4/2019; REsp n. 1.742.915/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/11/2018; AgInt no AREsp 1.724.483/PR, Segunda Turma, julgado em 18/10/2022, DJE 21/10/2022
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ .. .
+Desse modo, considerando que o imóvel do apelado se encontrava encravado na passagem da rede de transmissão, a apelante tentou celebrar uma negociação amigável com aquele, no intuito de constituir a servidão administrativa e fixar indenização, oferecendo para tanto o valor de R$ 43.784,35 (quarenta e três mil, setecentos e oitenta e quatro reais e trinta e cinco centavos).
+Entretanto, o apelado não aceitou a proposta, sendo que em contestação teria ofertado a quantia de R$ 150.000,00 (cento e cinquenta mil reais), que foi a mesma paga pela Eletronorte, em razão de servidão de passagem realizada anteriormente no mesmo imóvel.
+Nesse passo, a apelante por não ter concordado com o valor apresentado pelo apelado, pleiteou pela realização de perícia.
+Assim, através da decisão de fls. 158/158-v (Vol. 1), observo que o juízo a quo nomeou perito judicial, o Sr. Jorge Creso Cutrim Demétrio, ocasião em que a apelante e apelado formularam quesitos a serem respondidos pelo perito (fls. 121/198-200 - Vol I).
+A referida perícia judicial foi apresentada em 13.06.2017 (fls. 219-241 - Vol II), com a seguinte conclusão:
+ .. .
+Destarte, em análise da perícia juntada aos autos, verifico que o perito judicial apontou uma perda de lucro líquido no importe de R$ 5.000.000,00 (cinco milhões de reais), referente a suposta impossibilidade de exploração mineral, levando em consideração exclusivamente o Laudo de Avaliação de Reservas Minerais, confeccionado unilateralmente por técnico contratado pelo apelado, juntados aos autos às fis. 248/280, sem nenhum estudo sobre esse aspecto.
+Sendo assim, não se pode acatar essa parte do laudo que não se lastreou em estudo técnico, capaz de conferir legitimidade as conclusões descritas.
+Aliado a esse fato, o apelado tinha conhecimento de que seu filho, Sr. Gilmar Moreira da Silva Filho havia renunciado expressamente junto ao DNPM qualquer indenização em razão do cancelamento de eventual outorga de título de exploração mineral na área, referente a impossibilidade de manutenção de extração de areia no seu imóvel e a existência de linha de transmissão de energia.
+Dessa forma, apesar de inexistir documento que comprove a transferência de domínio do imóvel, resta devidamente demonstrado que o filho, ao renunciar à eventual indenização, representa os interesses do seu pai, proprietário do imóvel e ainda que assim não fosse, a extração de areia da área serviente do imóvel restaria inviabilizada, seja pelo proprietário, seu filho ou eventual minerador.
+Destaco que o documento anexado aos autos à fl. 450, vol II, deixa claro que a análise (e-STJ Fl.1082)Documento eletrônico juntado ao processo em 03/06/2022 às 17:50:15 pelo usuário: SISTEMA JUSTIÇA - SERVIÇOS AUTOMÁTICOS Documento eletrônico VDA32712087 assinado eletronicamente nos termos do Art.1º §2º inciso III da Lei 11.419/2006 Signatário(a): MINISTRO Francisco Falcão Assinado em: 03/06/2022 17:34:36 Publicação no DJe/STJ nº 3408 de 07/06/2022. Código de Controle do Documento: 44ddd1c3-e897-4744-9c0b-edbe66a6b5e1feita no imóvel pelo DNPM, excluiu da área destinada à extração de areia em razão da existência da linha de transmissão que já existia, construída pela Eletronorte.
+Logo, a área onde se encontra a servidão de passagem jamais poderá ser explorada, tendo em vista a prevalência do interesse público sobre o particular.
+Ao revés do sustentado pelo apelado a restrição imposta à área serviente pode sim alcançar a esfera de direitos do superficiário.
+Portanto, tendo em vista que não era desenvolvida a exploração mineral na área à época do decreto de utilidade pública e ajuizamento da ação; a renúncia expressa em relação a indenização pela impossibilidade de extração mineral onde passa a linha de transmissão e a prevalência do interesse público sobre o particular, não deve prevalecer a indenização fixada pelo juízo de base em relação à perda de lucro líquido de eventual prejuízo decorrente de inviabilidade de extração mineral.
+É sabido que a indenização decorrente de constituição de servidão administrativa deve corresponder ao efetivo prejuízo sofrido pelo proprietário.
+ .. .
+Como ressaltado acima, a parte relativa a impossibilidade de exploração mineral da área não foi objeto de estudo técnico, pois o perito afirmou em resposta as questões desse tema "Conforme vistoria e documentação apresentada pelo réu".
+Assim, para concluir acerca das quantias acima destacadas nos dois primeiros pontos, o perito se utilizou de cálculos devidamente especificados no bojo de sua perícia, ao contrário, não descreveu o cálculo utilizado para chegar ao montante de R$ 5.000.000,00 (cinco milhões de reais), tendo se utilizado de perícia realizada unilateralmente pelo Apelado (fis. 247-280), a que, o apelante teve acesso, embora após a realização da perícia. .. .
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial". Nesse sentido: REsp n. 1.789.783/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/4/2019;REsp n. 1.742.915/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/11/2018;AgInt no AREsp 1.724.483/PR, Segunda Turma, julgado em 18/10/2022, DJE 21/10/2022
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
