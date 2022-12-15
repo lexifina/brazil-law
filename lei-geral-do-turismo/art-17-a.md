@@ -1,0 +1,1 @@
+Art. 17-A. O Fungetur, criado pelo Decreto-Lei nº 1.191, de 27 de outubro de 1971, alterado pelo Decreto-Lei nº 1.439, de 30 de dezembro de 1975, e ratificado pela Lei nº 8.181, de 28 de março de 1991, passa a ser denominado Fundo Geral de Turismo (Novo Fungetur).

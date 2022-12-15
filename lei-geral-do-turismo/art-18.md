@@ -1,1 +1,1 @@
-Art. 18. O Fundo Geral de Turismo - FUNGETUR, criado pelo Decreto-Lei nº 1.191, de 27 de outubro de 1971, alterado pelo Decreto-Lei nº 1.439, de 30 de dezembro de 1975, ratificado pela Lei nº 8.181, de 28 de março de 1991, terá seu funcionamento e condições operacionais regulados em ato do Ministro de Estado do Turismo.
+Art. 18. O Novo Fungetur terá seu funcionamento e condições operacionais regulados em ato do Ministro de Estado do Turismo.
