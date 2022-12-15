@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto porAssociação dos MunicípiosMineradores de Minas Gerais edo Brasil -AMIG contra decisão que não conheceu do recurso especial, fundamentadono art.105, III, a, da Constituição Federal, que visa reformar acórdãodo Tribunal de Justiça do Estado do Rio de Janeiro, assim resumido:
+AÇÃO DE OBRIGAÇÃO DE FAZER  RETIFICAÇÃO DA DECLAN-IPM  EXISTENCIA DE CONEXÃO ENTRE AS DEMANDAS AJUIZADAS ENTRE AS MESMAS PARTES - PREVENÇÃO DA DÉCIMA SEGUNDA CÂMARA CÍVEL RECONHECIDA PELO EGRÉGIO ÓRGÃO ESPECIAL NO JULGAMENTO DE CONFLITO DE COMPETÊNCIA  DECLÍNIO DA COMPETÊNCIA.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+4. Ao contrário do que entendeu a v. decisão agravada, d. v., a questão discutida no recurso especial envolve apenas a aplicação do direito, sendo certo que, para se apreciar a controvérsia jurídica posta no recurso especial, é necessário levar em consideração apenas fatos incontroversos, já devidamente delineados pelo Tribunal a quo.
+5. O pronunciamento judicial que a agravante almeja obter em seu recurso especial não requer o reexame do acervo fático-probatório dos auto se pode ser alcançado mediante uma mera abstração jurídica.
+6. O que se pretende é pura e simplesmente o reconhecimento de que o art. 55, § 1º, do CPC1, à luz da Súmula 235 do e. STJ2, leva à irremediável conclusão de que é incabível a prevenção, com base na conexão entre processos, se um deles já foi julgado. Trata-se apenas disso.
+ ..
+11. Ou seja, não seestá pedindo que essa e. Corte analise se há ou não conexão entre duas causas, imiscuindo-se nas questões fáticas das demandas, mas apenas reconheça que, diante da ocorrência do julgamento de uma das demandas  fato este incontroverso nos autos  , a conexão torna-se impossível, nos termos do art. 55, § 1º, do CPC, e da jurisprudência pacífica desse e. STJ, consolidada na sua Súmula 235.
+12. Lembre-se que, em recente precedente, essa e. 4ª Turma reiterou que, "Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra no óbice previsto na Súmula 7, do STJ, quando se exige somente a revaloração jurídica das circunstâncias fático-probatórias estabelecidas pela instância ordinária"3.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXISTÊNCIA DE CONEXÃO ENTRE AS DEMANDAS AJUIZADAS ENTRE AS MESMAS PARTES.PREVENÇÃO DA DÉCIMA SEGUNDA CÂMARA CÍVEL RECONHECIDA PELO EGRÉGIO ÓRGÃO ESPECIAL NO JULGAMENTO DE CONFLITO DE COMPETÊNCIA.DECLÍNIO DA COMPETÊNCIA.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento, objetivando reformar integralmente a decisão agravada. OTribunala quodeclinou da competência.
+II - A Corte a quo reconheceu a competência da Décima Segunda Câmara Cível com os seguintes fundamentos: "A leitura dos autos, de fato, revela que o Egrégio Órgão Especial, no julgamento do Conflito de Competêncianº. 0017358-51.2015.8.19.0000, considerando evidente a conexão entre as demandas ajuizadas, que tratam das mesmas partes, mesma causa de pedir e mesmo pedido - a retificação da DECLAN-IPM -, ocorrendo apenas variação quanto ao ano fiscal, declarou a competência por prevenção da Décima Segunda Câmara Cível. Dentro deste quadro, não há como deixar de se reconhecer a prevenção daquela Câmara para que conheça e julgue o presente agravo de instrumento, tendo, inclusive, se manifestado sobre o ingresso da Agravante como assistente em autos onde litigam as mesmas partes."
+III- Pelo exposto, é de se declinar da competência, em favor da Décima Segunda Câmara Cível deste Egrégio Tribunal de Justiça, para conhecer e julgar o presente recurso, com a remessa dos autos à Egrégia Primeira Vice-Presidência, para a sua redistribuição.
+IV - Verifica-se que a Corte de origem reconheceu a competência da Décima Segunda Câmara Cível levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V- Nesse sentido: AgInt nos EDcl no AREsp n. 1.853.083/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/11/2021, DJe de 2/12/2021; AgRg no AREsp n. 647.642/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/5/2018, DJe de 15/5/2018 e REsp n. 1.708.256/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/3/2018, DJe de 13/11/2018.
+VI- Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo reconheceu a competência da Décima Segunda Câmara Cível com os seguintes fundamentos:
+A leitura dos autos, de fato, revela que o Egrégio Órgão Especial, no julgamento do Conflito de Competência nº. 0017358-51.2015.8.19.0000, considerando evidente a conexão entre as demandas ajuizadas, que tratam das mesmas partes, mesma causa de pedir e mesmo pedido - a retificação da DECLAN-IPM -, ocorrendo apenas variação quanto ao ano fiscal, declarou a competência por prevenção da Décima Segunda Câmara Cível. Dentro deste quadro, não há como deixar de se reconhecer a prevenção daquela Câmara para que conheça e julgue o presente agravo de instrumento, tendo, inclusive, se manifestado sobre o ingresso da Agravante como assistente em autos onde litigam as mesmas partes.
+Pelo exposto, é de se declinar da competência, em favor da Décima Segunda Câmara Cível deste Egrégio Tribunal de Justiça, para conhecer e julgar o presente recurso, com a remessa dos autos à Egrégia Primeira Vice-Presidência, para a sua redistribuição.
+ ..
+Verifica-se que a Corte de origem reconheceu a competência da Décima Segunda Câmara Cível levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Nesse sentido:AgInt nos EDcl no AREsp n. 1.853.083/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/11/2021, DJe de 2/12/2021;AgRg no AREsp n. 647.642/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/5/2018, DJe de 15/5/2018 eREsp n. 1.708.256/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/3/2018, DJe de 13/11/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
