@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 594/598) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015.1. Em sede de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), a Corte Especial/STJ firmou as seguintes teses jurídicas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.2. Agravo interno não provido.
+O embargante sustenta, em suma, que:
+Com o devido respeito, o acórdão ora embargado deixou de apreciar a questão levantada pelo Estado de Minas Gerais em sede de agravo interno, qual seja, a manifesta incidência do óbice da súmula 7/STJ, a impedir o conhecimento do recurso especial interposto pela parte contrária.
+Isto porque é patente, no presente caso, a incidência do óbice da Súmula 7/STJ, uma vez que o Tribunal de origem não se recusou a aplicar os art. 85, §2.º e seguintes do CPC, mas, dentro da análise fático-probatória dos autos, entendeu que o proveito econômico obtido pelo acolhimento da exceção de pré-executividade não correspondia ao valor da causa da execução.
+Requer sejam acolhidos os embargos.
+Impugnação às fls. 601/606.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+No acórdão embargado, oagravo interno não foi provido nos seguintes termos:
+Na espécie, foi dado provimento ao recurso especial do ora agravado, em virtude de o entendimento da Corte de origem estar em dissonância com as teses jurídicas firmadas no julgamento de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes - Tema 1.076).
+Com efeito, quando do julgamento dos mencionados recursos especiais, a Corte Especial/STJ firmou as seguintes teses jurídicas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso concreto, a Corte de origem não observou as teses supras, ao reformar a sentença que havia calculado os honorários sobre o valor da causa, com fulcro no art. 85, § 3º, inciso III, do CPC/2015.
+Como se verifica, o aresto embargado contém fundamentação suficiente para demonstrar que, no caso concreto, a Corte de origem,, ao reformar a sentença que havia calculado os honorários sobre o valor da causa, com fulcro no art. 85, § 3º, inciso III, do CPC/2015,não observou as teses jurídicas firmadas no julgamento de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes - Tema 1.076).
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Ademais, conforme entendimento pacífico desta Corte, "não é oórgãojulgador obrigado a rebater, um a um, todos os argumentos trazidospelaspartes em defesa da tese que apresentaram. Deve apenas enfrentarademanda, observando as questões relevantes e imprescindíveis àsuaresolução" (REsp 1.719.219/MG, Rel. Ministro Herman Benjamin,SegundaTurma, julgado em 19/4/2018, DJe 23/5/2018).
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
