@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/12/2022 a 15/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundado no art. 105, III,a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. AC A O DE OBRIGAC A O DE FAZER. CUMPRIMENTO DE SENTENC A. DECISÃO AGRAVADA QUE ACOLHEU EM PARTE A IMPUGNAÇÃO À EXECUÇÃO E REDUZIU O MONTANTE DAS ASTREINTESPARA R$ 82.980,00. IRRESIGNAÇÃO DA RÉ. EXECUTADA, ORA AGRAVANTE, QUE NÃO COMPROVOU DE FORMA SUFICIENTEMENTE HÁBIL O CUMPRIMENTO DA TUTELA DE URGÊNCIA DEFERIDA PARA RESTABELECIMENTO DO FORNECIMENTO DE ÁGUA, SOB PENA DE MULTA DIÁRIA DE R$ 300,00 (TREZENTOS REAIS). MANUTENÇÃO DA DECISÃO. RECURSO DESPROVIDO.
+1-Nos termos do art. 537, do Co digo de Processo Civil, a multa coercitiva e  devida desde o dia em que se configurar o descumprimento da decisa o;
+2-A decisão concessiva da tutela de urgência (index 000132), prolatada em 25/02/2015, determinou que a ré restabelecesse o fornecimento de água na residência da autora, no prazo de 72h, sob pena de multa diária no importe de R$ 300,00 (trezentos reais);
+3-Conforme se depreende dos autos, a ré foi intimada para cumprimento da tutela de urgência em 09/03/2015, e teria que proceder ao restabelecimento do serviço até o dia 12/03/2015, após o qual passaria a fluir a multa diária;
+4-A ré reconhece somente ter dado cumprimento à tutela de urgência no dia 17/05/2015. Inobstante a isso, foi realizada aprova pericial em 30/11/2019, conforme laudo de fls. 494/498, em que foi constatado que no momento da diligência não havia abastecimento de água no imóvel, além de ter sido evidenciada falha constante de abastecimento no local;
+5-Conforme bem salientado pela Magistrada a quo:" restou evidente não ter sido cumprida a tutela de urgência, porém igualmente deve ser ponderado que a multa atingiu valor exorbitante e desproporcional, além de ter que ser considerado que a ré vem prestando o serviço, ainda que não de forma contínua, Deve, ainda, ser ressaltado que a tutela foi concedida de forma genérica e determinou o restabelecimento do serviço, o que tem sido cumprido pela ré. Assim sendo, deve ser reduzida a multa para um patamar razoável, considerando as informações prestadas pela autora nas planilhas, razão pela qual entendo que o montante da multa deve ser reduzido para 1/5 do valor cobrado, deduzido o ano de 2014, o que equivale a R$ 82.980,00, o que se mostra mais do que suficiente para compensar a autora pelos danos causados e permitir o reembolso pelo gasto extra com aquisição de água potável para consumo.";
+6-O Co digo de Processo Civil, preve  a incide ncia de multa cominato ria, para o fim de incutir o devedor ao cumprimento da obrigac a o de fazer em sede de cumprimento de sentenc a, sem, contudo, provocar o enriquecimento sem causa ou assumir cara ter indenizato rio, mas garantir a efica cia da decisa o proferida;
+7-Nessa esteira, deve ser fixada atendo-se aos para metros da razoabilidade e proporcionalidade, na o devendo ser i nfima nem excessiva, levando-se em conta a natureza da obrigac a o a ser cumprida, a releva ncia do bem juri dico tutelado e a urge ncia no seu cumprimento;
+8-In casu, na o encontro nenhuma situac a o apta a ensejar nova modificac a o estando o montante estabelecido no patamar de R$ 82.980,00 condizente com os limites da razoabilidade e proporcionalidade;
+9-Decisão mantida;
+10-Recurso desprovido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A fixação de multa nos casos de obrigação de fazer, não fazer ou de entrega de coisa, afigura-se como legítima, representando meio idôneo a ser utilizado pelo juiz para compelir a ré, ora agravante, a cumprir a ordem judicial.
+O artigo 461, §6º, do CPC faculta ao Juiz a possibilidade de alteração do valor da multa aplicada em caso de descumprimento, bem como sua periodicidade, caso verifique que esta se tornou excessiva, conforme se observa no dispositivo a seguir:
+ ..
+Sendo assim, o valor da multa diária fixada para o caso de descumprimento deve ser reduzido para um valor mais condizente com os limites da razoabilidade e proporcionalidade, tendo em vista que a mesma tem o escopo de garantir a efetividade da ordem judicial com o cumprimento da obrigação e não o enriquecimento ilícito por parte da agravada, uma vez que a fixação de multa nos parâmetros utilizados excede os limites de sua finalidade, tornando-se excessiva.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. LEI FEDERAL NÃO VIGENTE. RECURSO INCABÍVEL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que acolheu impugnaçãoao cumprimentode sentençae reconheceu haver excesso na execução. No Tribunala quo, negou-se provimento ao agravo.
+II - Verifica-se que o recorrente aponta como violado o art. 461, § 6º, do CPC/1973, no que concerne à necessária redução do valor da multa diária fixada para um valor mais condizente com os limites da razoabilidade e proporcionalidade.
+III - Não é cabível, portanto, a interposição de recurso especial fundado em dispositivo de lei federal não vigente, seja em razão de a questão fática ou jurídica ter surgido após a sua revogação, seja por ser anterior à sua entrada em vigor. Nesse sentido:REsp n. 1.425.740/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/9/2015, DJe de 3/2/2016.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que o recorrente aponta como violado o art.461, § 6º, do CPC/1973, no que concerne à necessária redução do valor da multa diária fixada para um valor mais condizente com os limites da razoabilidade e proporcionalidade.
+Não é cabível, portanto, a interposição derecurso especial fundado em dispositivo de lei federal não vigente, seja em razão de a questão fática ou jurídica ter surgido após a sua revogação, seja por ser anterior à sua entrada em vigor. Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ICMS. EMBARGOS À EXECUÇÃO FISCAL. PRESUNÇÃO DE CERTEZA E DE LIQUIDEZ DA CDA. DESCONSTITUIÇÃO. POSSIBILIDADE. CRÉDITOS ESCRITURAIS. CRÉDITO FÍSICO. PROVA PERICIAL. RECURSO ESPECIAL QUE NÃO APONTA VIOLAÇÃO A DISPOSITIVO DO CONVÊNIO INTERESTADUAL ICMS 66/1988. LC 87/1996 NÃO VIGENTE À ÉPOCA DOS FATOS. SÚMULA 284/STF. INTERPRETAÇÃO DE LEI ESTADUAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Cuida-se, na origem, de Embargos à Execução Fiscal que buscam desconstituir certidão de dívida ativa para cobrança de ICMS lançado por suposto creditamento indevido na aquisição de insumos.
+2. A presunção de certeza e de liquidez da CDA não é absoluta e pode ser afastada nos Embargos à Execução Fiscal cujo ônus da prova compete ao executado. Precedentes do STJ.
+3. Os fatos geradores em questão são anteriores à entrada em vigor da LC 87/1996 e se referem aos anos de 1992 a 1996. Aplicam-se ao caso as disposições do Convênio Interestadual ICMS 66/1988, as quais serviram de fundamento para o acórdão recorrido.
+4. No presente caso, não há como superar a preliminar suscitada pela parte recorrida, no sentido de que o Recurso Especial do Estado do Rio de Janeiro em momento algum faz referência a violação de dispositivo do Convênio ICMS 66/1988, mas se limita a invocar normas da Constituição Federal, da Lei Estadual 2.657/1996 e da LC 87/1996, que, repita-se, não se encontrava em vigor à época dos fatos.
+5. Os substanciosos fundamentos trazidos nos memoriais e declinados na sustentação oral não têm o condão de suprir a deficiência contida no Recurso Especial, pois a falta de menção aos artigos de lei federal aplicáveis à controvérsia atrai o óbice da Súmula 284/STF.
+6. Sob pena de usurpação da competência do STF, o STJ não pode examinar, como questão principal no âmbito do Recurso Especial, a alegada violação a norma constitucional. Ademais, nos termos da Súmula 280/STF, é vedada a interpretação de lei estadual 7. Não se verifica, de plano, exorbitância no arbitramento de honorários sucumbenciais em R$ 15.000,00 (quinze mil reais), razão pela qual é inviável sua revisão nesta instância (Súmula 7/STJ).
+8. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.425.740/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/9/2015, DJe de 3/2/2016.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
