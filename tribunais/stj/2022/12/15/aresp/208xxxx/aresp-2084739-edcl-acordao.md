@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WILLIAN DIAS HONORATOopõe embargos de declaração contra acórdão proferido pela Sexta Turma desta Corte Superior, que rejeitou os aclaratórios anteriormente opostos.
+A defesa assere haver omissão no decisum. Argumenta: "Informante não é testemunha e, portanto, não é prova jurisdicionalizada. Se prova jurisdicionalizada há, como afirma este Colendo Órgão Julgador, indubitável a obrigação de indicá-la" (fl. 1.475).
+Requer sejam conhecidos e providos os aclaratórios, com efeitos infringentes, a fim de que seja integrado o julgado e seja indicada "qual prova jurisdicionalizada, in casu, no âmbito da íntima convicção do Conselho de Sentença, poderia o jurado se balizar para reconhecer a qualificadora do motivo fútil, sob pena de gravíssima negativa de prestação jurisdicional e violação ao disposto nos artigos 5º, incisos LIV, LV, e 93, inciso IX, da Constituição Federal" (fl. 1.476).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃONO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Como realçado nos primeiros aclaratórios opostos, não há que se falar em omissão, pois em todas as manifestações anteriores ficou claro que o veredito foi mantido tendo em vista a existência de depoimento judicializado confirmado por outros elementos angariados no inquérito.Além disso, foi lembrado que a decisão popular não é motivadae que a aferição das provas e dos elementos produzidos em plenário e o julgamento do réu ocorrem em conformidade com a íntima convicção dos juízes populares, de modo que não cabe às instâncias ordinárias, tampouco ao STJ valorar as provas do processo, sob pena de violação da competência constitucional conferida ao Conselho de Sentença.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Reafirmo queos embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Mais uma vez, identifico não haver omissão.
+Nas decisões anteriormente proferidas, esta Corte Superior foi clara em consignar que o Tribunal a quomanteve o veredito,porquanto, de acordo com depoimento judicializado, confirmado por outros elementos angariados no inquérito, a vítima"já havia posto fim ao relacionamento e que o réu agiu movido por motivo fútil" (fl. 1.331). Nessa extensão, esclareceu que, tendo em vista haver a Corte de origem identificadoestar o veredito devidamenterespaldado nas provas dos autos, verificar os depoimentos mencionados pela defesa e concluir não haver indícios do término do relacionamento entre acusado e ofendida, tudo com o propósito de afastar a qualificadora do motivo fútildemandaria análise aprofundada do contexto fático-probatório, vedada em recurso especial.
+Também, assinalou que o veredito popular não é motivado e que a aferição das provas e dos elementos produzidos em plenário e o julgamento do réu ocorrem em conformidade com a íntima convicção dos juízes populares, de modo que não cabe às instâncias ordinárias, tampouco ao STJ valorar as provas do processo, sob pena de violação da competência constitucional conferida ao Conselho de Sentença.
+Como já dito, nesse momentoé adequado, tão somente, averiguar se a condenação encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame.
+Assim, novamente concluo que não há fundamento a justificar a oposição do presente recurso integrativo.
+À vista do exposto, rejeito os embargos de declaração.
