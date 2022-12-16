@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  (fls.  513-517  e-STJ)  opostos  por  JOSÉ  AUGUSTO  GONÇALO  SARAIVA  e  OUTROS  ao  acórdão  (fls.  501-511  e-STJ)que  conferiu  provimento  ao  recurso  especial  interposto  por  SOCIEDADE  ALPHAVILLE  CENTRO  DE  APOIO  em  aresto  assim  ementado:
+"RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA.  ASSOCIAÇÃO  DE  MORADORES.  TAXAS.  ENCARGO.  ADESÃO.  DESLINDE  DA  CONTROVÉRSIA.  QUESTÕES.  RELEVÂNCIA.  APRECIAÇÃO.  AUSÊNCIA.  MATÉRIA  SUSCITADA  EM  EMBARGOS  DE  DECLARAÇÃO.  ART.  1.022  DO  CPC/2015.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  CONFIGURAÇÃO.  RETORNO  DOS  AUTOS  À  ORIGEM.  DESNECESSIDADE.  ARTIGO  1.025  DO  CPC/2015.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  origem,  cuida-se  de  ação  de  cobrança  proposta  por  associação  de  moradores  objetivando  a  condenação  dos  réus  ao  pagamento  de  taxa  de  fundo  de  reserva  para  a  realização  de  obra  de  estacionamento.
+3.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça,  no  julgamento  do  REsp  nº  1.439.163/SP  e  do  REsp  nº  1.280.871/SP,  processados  sob  o  rito  dos  recursos  repetitivos,  sedimentou  o  entendimento  de  que,  em  regra,  as  taxas  de  manutenção  criadas  por  associações  de  moradores  não  obrigam  os  não  associados,  ficando  ressalvadas  as  hipóteses  em  que  houver  anuência  ao  encargo.
+4.  Segundo  a  jurisprudência  desta  Corte,  a  manifestação  de  vontade  de  anuir  ao  encargo  pode  se  perfectibilizar  mediante  contrato,  por  meio  de  adesão  do  proprietário  aos  termos  constitutivos  da  associação  de  moradores,  por  intermédio  de  previsão  na  escritura  pública  de  compra  e  venda  do  lote  ou,  ainda,  do  depósito  em  cartório  do  contrato-padrão  contendo  as  obrigações  no  registro  de  imóveis,  entre  outros.
+5.  No  caso  em  apreço,  não  obstante  a  oposição  de  embargos  declaratórios  requerendo  expressamente  manifestação  acerca  de  aspectos  fáticos,  que  diferenciariam  o  caso  dos  autos  daquele  invocado  como  paradigma  nas  razões  de  decidir  do  acórdão  recorrido,  relacionados  com  a  alegada  anuência  ao  encargo,  permaneceu  silente  o  Tribunal.
+6.  O  não  enfrentamento  pela  Corte  de  origem  de  questões  ventiladas  nos  embargos  de  declaração  e  imprescindíveis  à  solução  do  litígio  implica  violação  do  art.  1.022  do  Código  de  Processo  Civil  de  2015.
+7.  Considerando  o  disposto  no  artigo  1.025  do  Código  de  Processo  Civil  de  2015  e  os  princípios  da  celeridade,  da  economia  processual,  da  efetividade  da  jurisdição  e  da  primazia  do  julgamento  de  mérito,  incumbe  a  esta  Corte  Superior  a  aplicação  do  direito  à  espécie,  sendo  desnecessária  a  decretação  de  nulidade  do  acórdão  e  consequente  retorno  dos  autos  à  origem.
+8.  No  caso  em  apreço,  os  réus  anuíram  à  cobrança  mediante  instrumento  particular  de  compromisso  de  compra  e  venda,  de  modo  que  merece  reforma  o  acórdão  recorrido.
+9.  Recurso  especial  conhecido  e  provido"  (fls.  501-502  e-STJ).
+Os  embargantes  sustentam,  em  síntese,  que  o  acórdão  embargado
+"(..)
+(..)  não  declarou,  conforme  aponta  a  prova  documental  dos  autos,  que,  além  dos  Embargantes  não  possuírem  escritura  definitiva,  adquiriram  os  lotes  em  03/10/1983,  ou  seja,  anteriormente  à  data  de  criação  da  Associação  Apelante,  que  deu-se  apenas  em  22/05/1990,  não  havendo  prova  documental  posterior  de  ratificação  por  parte  dos  Embargantes  de  que  tenham  aderido  aos  quadros  da  Embargada"  (fl.  514  e-STJ).
+Voltam  a  afirmar  que  não  aderiram  ao  ato  constitutivo  da  associação  embargada,  de  modo  que  estariam  sendo  descumpridas  as  teses  consolidadas  tanto  pelo  Superior  Tribunal  de  Justiça  no  Tema  nº  882  dos  recursos  repetitivos  (REsp  nº  1.439.163)  quanto  pelo  Supremo  Tribunal  Federal  no  Tema  nº  492  de  repercussão  geral  (RE  nº  695.911).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+O  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  embargos  declaratórios,  enumerados  no  artigo  1.022  do  Código  de  Processo  Civil  de  2015:  obscuridade,  contradição,  omissão  ou  erro  material.
+No  caso  dos  autos,  o  recurso  especial  foi  conhecido  e  provido  com  fundamentação  completa,  clara  e  coerente,  consoante  se  colhe  da  fundamentação  do  acórdão  embargado  (fls.  506-511  e-STJ).
+Com  efeito,  a  sentença  de  primeiro  grau  foi  categórica  ao  afirmar  que  "(..) os  réus  anuíram  à  cobrança,  conforme  demonstrado  às  fls.  40/41,  nas  cláusulas  8  e  9  do  contrato"  (fl.  278  e-STJ).
+O  documento  a  que  se  refere  o  juízo  sentenciante  é  o  Instrumento  Particular  de  Compromisso  de  Venda  e  Compra  em  que  os  próprios  réus  figuraram  como  compradores,  apondo  suas  assinaturas  (fls.  34-43  e-STJ).
+Lê-se  da  cláusula  9.2.  do  referido  contrato :
+"(..)
+Desta  Associação  Civil  serão  associados  natos  todos  os  titulares  dos  imóveis  localizados  em  CENTRO  de  APOIO  2  -  ALPHAVILLE,  ou  de  direitos  sobre  esses  imóveis,  e  será  ela  dirigida  por  uma  Diretoria  que  se  incumbirá  de  fazer  respeitar  os  Regulamentos  específicos  de  cada  quadra,  e  as  demais  determinações  aprovadas  pelos  Associados.
+Nesta  Associação  os  votos  serão  proporcionais  à  área  do  imóvel  e  à  àrea  construída  sobre  ele,  sendo  que  a  cada  128  m2  de  terreno  desprezadas  as  frações,  corresponderá  o  direito  de  um  voto,  e  a  cada  112  m2  de  área  construída,  desprezadas  as  frações,  também  corresponderá  o  direito  de  um  voto"  (fl.  41  e-STJ  -  grifou-se).
+Logo,  não  há  espaço  para  falar  em  falta  de  anuência  dos  réus.  Há,  ao  contrário,  adesão  inequívoca  manifestada  por  livre  e  espontânea  vontade  em  instrumento  contratual.
+Assim,  nota-se  que  o  acórdão  embargado  está  em  perfeita  conformidade  com  o  Tema  nº  882  dos  recursos  repetitivos  (REsp  nº  1.439.163),  ratificado  pelo  Supremo  Tribunal  Federal  através  do  Tema  nº  492  de  repercussão  geral  (RE  nº  695.911).
+A  propósito:
+"RECURSO  EXTRAORDINÁRIO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  REPERCUSSÃO  GERAL.  TEMA  492.  DEVOLUÇÃO  DOS  AUTOS  A  ESTE  ÓRGÃO  FRACIONÁRIO  PARA  OS  FINS  DO  ART.  1.040,  II,  DO  CPC.  LOTEAMENTO.  COBRANÇA  DE  TAXA  DE  MANUTENÇÃO.  ADMINISTRADORA  JARDIM  ACAPULCO.  MANUTENÇÃO  DA  CONCLUSÃO  DO  ACÓRDÃO  RECORRIDO.  ESTRITA  OBSERVÂNCIA  DO  QUANTO  PACIFICADO  PELO  SUPREMO  NO  RE  695.911/SP.
+1.  Inocorrência  de  conflito  entre  as  conclusões  desta  Terceira  Turma,  quando  da  apreciação  do  presente  recurso  especial,  e  as  do  Pleno  do  Supremo  Tribunal  Federal,  quando  do  julgamento  do  RE  695.911/SP,  submetido  ao  regime  da  repercussão  geral  (Tema  492),  evidenciando-se,  sim,  o  devido  "distinguishing"  entre  os  julgados.
+2.  Reconhecimento  expresso,  pelo  acórdão  recorrido,  da  existência  de  vínculo  contratual  a  confortar  a  cobrança  das  despesas  pela  Administradora  Jardim  Acapulco.
+3.  Afastamento,  na  hipótese,  da  incidência  da  tese  firmada,  sob  o  rito  da  repercussão  geral,  no  RE  695.911/SP  (tema  492),  estando  o  não  associado  e  a  administradora  vinculados  contratualmente.
+4.  MANUTENÇÃO  ACÓRDÃO  RECORRIDO  POR  NÃO  SER  HIPÓTESE  DE  RETRATAÇÃO"  (RE  nos  EDcl  no  AgRg  no  REsp  nº  1.422.605/SP,  relator  Ministro  Paulo  de  Tarso  Sanseverino,  Terceira  Turma,  julgado  em  9/8/2022,  DJe  de  16/8/2022  -  grifou-se).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  algum  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
