@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 6.088-6.094) opostos por APOTEX DO BRASIL LTDA.ao acórdão (e-STJ fls. 6.070-6.086)que conheceu parcialmente do recurso especial e negou-lhe provimento.
+O acórdão embargado recebeu a seguinte ementa:
+"RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  SOCIEDADE  EMPRESÁRIA.  MÁ  ADMINISTRAÇÃO.  CUMPRIMENTO  DE  SENTENÇA.  FASE  DE  LIQUIDAÇÃO  DE  SENTENÇA.  DANOS  MATERIAIS.  LUCROS  CESSANTES.  APURAÇÃO.  LAUDO  PERICIAL.  HOMOLOGAÇÃO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  ART.  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  REEXAME  DE  PROVAS.  INVIABILIDADE.  SÚMULA  Nº  7/STJ.  FUNDAMENTAÇÃO  DO  RECURSO.  DEFICIÊNCIA. SÚMULA  Nº  284/STF.  JUROS  DE  MORA.  RESPONSABILIDADE  CONTRATUAL.  OBRIGAÇÃO  ILÍQUIDA.  TERMO  INICIAL.  CITAÇÃO.  DIVERGÊNCIA.  DEMONSTRAÇÃO. AUSÊNCIA.  SIMILITUDE  FÁTICA. AUSÊNCIA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  origem,  trata-se  de  ação  de  indenização  na  fase  de  liquidação  de  sentença  para  apuração  de  lucros  cessantes  decorrentes  de  condenação  por  prejuízos  materiais  advindos  da  má  administração  de  sociedade  empresária.
+3.  As  questões  controvertidas  no  presente  recurso  podem  ser  assim  resumidas:  (i)  se  o  acórdão  recorrido  padece  de  vício  de  nulidade  por  negativa  de  prestação  jurisdicional;  (ii)  se  existente  ofensa  ao  princípio  da  isonomia;  (iii)  se  a  metodologia  utilizada  pelo  perito  judicial  para  a  apuração  dos  lucros  cessantes  foi  adequada;  (iv)  se  ofendido  o  princípio  que  veda  o  enriquecimento  ilícito;  (v)  se  prospera  a  alegada  ilegitimidade  de  parte  e  (vi)  qual  o  termo  inicial  dos  juros  de  mora.
+4.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+5.  Ausente  o  prequestionamento  de  dispositivos  apontados  como  violados  no  recurso  especial,  sequer  de  modo  implícito,  incide  o  disposto  na  Súmula  nº  282/STF.
+6.  A  teor  da  Súmula  nº  283/STF,  aplicada  por  analogia,  não  se  admite  recurso  especial  quando  a  decisão  recorrida  se  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles.
+7.  A  reforma  do  julgado  demandaria  o  reexame  do  contexto  fático-probatório,  procedimento  vedado  na  estreita  via  do  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+8.  Se  o  artigo  apontado  como  violado  não  apresenta  conteúdo  normativo  suficiente  para  fundamentar  a  tese  desenvolvida  no  recurso  especial,  incide,  por  analogia,  a  Súmula  nº  284/STF.
+9.  Segundo  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  em  se  tratando  de  responsabilidade  contratual,  os  juros  de  mora  são  contados  da  citação,  ainda  que  se  trate  de  obrigação  ilíquida.
+10.  A  demonstração  do  dissídio  jurisprudencial  pressupõe  a  ocorrência  de  similitude  fática  entre  o  acórdão  atacado  e  os  paradigmas.
+11.  No  caso  dos  autos,  nota-se  que,  diante  da  ausência  ou  precariedade  da  escrituração  contábil  resultado  da  gestão  temerária  e  fraudulenta  reconhecida  na  fase  de  conhecimento,  o  perito  judicial  se  valeu,  para  a  apuração  dos  lucros  cessantes,  do  documento  denominado business  plan,  que  foi  produzido  e  elaborado  pela  própria  recorrente,  não  havendo  espaço  para  se  falar  em  lucros  cessantes  hipotéticos,  projeção  perpétua  de  lucros  ou  ausência  de  comprovação  dos  danos.
+12.  Recurso  especial  parcialmente  conhecido  e  não  provido" (e-STJ fls. 6.070-6.071).
+A embargante afirma que o acórdão embargado teria sido omisso quanto às limitações do business plan para a projeção de lucros cessantes da IBFARMA.
+Aponta, ainda, obscuridade quanto à aplicabilidade da Súmula nº 284/STF em relação ao artigo 6º do Código de Processo Civil de 1973.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas sim reformar o julgado por via inadequada.
+2. Embargos declaratórios rejeitados.
+VOTO
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+O acórdão embargado não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, o recurso especial foi parcialmente conhecido e não provido com fundamentação completa, clara e coerente, consoante se colhe da fundamentação do acórdão atacado.
+No tocante às alegadaslimitações do business plan para a projeção de lucros cessantes da IBFARMA, dispôs expressamente o acórdão embargado:
+"(..)
+Segundo  o  artigo  402  do  Código  Civil,
+"(..) Salvo  as  exceções  expressamente  previstas  em  lei,  as  perdas  e  danos  devidas  ao  credor  abrangem,  além  do  que  ele  efetivamente  perdeu,  o  que  razoavelmente  deixou  de  lucrar".
+Sob  a  pretensa  ofensa  ao  artigo  402  do  Código  Civil,  a  parte  recorrente  sustenta,  em  síntese,  que  a  metodologia  utilizada  pelo  perito  judicial  para  a  apuração  dos  lucros  cessantes  seria  ilegal  e  inadequada.
+Ora,  da  simples  leitura  das  razões  recursais  -  em  cotejo  com  a  norma  apontada  como  infringida  -,  nota-se  a  patente  deficiência  de  fundamentação  do  recurso,  porquanto  o  dispositivo  legal  invocado  não  apresenta  comando  normativo  suficiente  para  fundamentar  a  tese  defendida  no  especial.
+Com  efeito,  o  artigo  402  do  Código  Civil  -  ao  dispor,  genericamente,  que  "as  perdas  e  danos  devidas  ao  credor  abrangem,  além  do  que  ele  efetivamente  perdeu,  o  que  razoavelmente  deixou  de  lucrar"  -  não  versa  acerca  desta  ou  daquela  metodologia  de  cálculo,  muito  menos  acerca  da  impossibilidade  de  utilização  para  aferição  das  perdas  e  danos  de  determinada  documentação  contábil.
+Em  verdade,  quanto  ao  cerne  da  sua  irresignação  recursal  (impossibilidade  de  utilização  do  business  plan),  registra-se  que  a  recorrente  não  indicou  nenhuma  norma  jurídica  infraconstitucional  pertinente  ao  tema,  o  que  atrai  à  hipótese  a  incidência  da  Súmula  284 / STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  AÇÃO  DE  RESOLUÇÃO  DE  CONTRATO  DE  FORNECIMENTO  DE  COMBUSTÍVEIS.  PRÁTICA  DE  PREÇOS  E  PRAZOS  DIFERENCIADOS  ENTRE  REVENDEDORES  CONCORRENTES.  AFRONTA  À  LIVRE  CONCORRÊNCIA,  ISONOMIA  E  BOA-FÉ  CONTRATUAL.
+1.  A  ausência  de  manifestação  no  acórdão  recorrido  acerca  de  dispositivo  legal  indicado  como  violado  impede  o  conhecimento  do  recurso  especial,  a  teor  do  enunciado  da  Súmula  n.º  282/STF.
+2.  A  alegação  de  afronta  à  lei  federal  não  foi  demonstrada  com  clareza,  pois  o  dispositivo  apontado  não  tem  comando  normativo  capaz  de  amparar  a  tese  recursal  e  de  infirmar  o  juízo  formulado  no  acórdão  recorrido,  atraindo  o  óbice  do  enunciado  da  Súmula  n.º  284/STF.
+3.  Impossibilidade,  ante  os  óbices  das  Súmulas  n.ºs  05  e  07/STJ,  de  revisão  das  conclusões  do  acórdão  acerca  da  ocorrência  de  descumprimento  contratual  e  da  razoabilidade  do  valor  da  multa  compensatória.
+4.  A  interposição  do  recurso  especial  pela  alínea  "c",  do  permissivo  constitucional,  exige  a  demonstração  da  identidade  fática  e  jurídica  entre  a  hipótese  dos  autos  e  os  acórdãos  paradigmas,  sobretudo  sob  a  perspectiva  do  artigo  de  lei  indicado  como  violado.
+5.  Razões  do  agravo  interno  que  não  alteram  as  conclusões  da  decisão  agravada.
+6.  AGRAVO  INTERNO  DESPROVIDO".
+(AgInt  no  REsp  1.515.994/PR,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  18/2/2019,  DJe  22/2/2019  -  grifou-se).
+"PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  LEGITIMIDADE  PASSIVA.  DISPOSITIVO  QUE  NÃO  CONTÉM  COMANDO  CAPAZ  DE  INFIRMAR  O  JUÍZO  EMITIDO  PELO  ACÓRDÃO  RECORRIDO.  SÚMULA  284/STF.  INTERPRETAÇÃO  DE  DIREITO  LOCAL.  IMPOSSIBILIDADE.  SÚMULA  280/STF.
+1.  Não  viola  o  art.  535,  II,  do  CPC,  nem  importa  negativa  de  prestação  jurisdicional,  o  acórdão  que,  mesmo  sem  ter  examinado  individualmente  cada  um  dos  argumentos  trazidos  pelo  vencido,  adotou,  entretanto,  fundamentação  suficiente  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  O  art.  267,  VI,  do  CPC  não  contém  comando  capaz  de  fundamentar  a  alegação  dos  recorrentes,  no  sentido  de  que  o  adicional  de  2%  é  destinado  a  um  fundo  "para  custear  os  proventos  dos  servidores",  o  que  justifica  a  ilegitimidade  passiva  do  IPERGS.
+3.  A  controvérsia  suscitada  pelos  recorrentes  demanda  análise  de  direito  local,  pelo  que  se  aplica,  por  analogia,  a  Súmula  280  do  Supremo  Tribunal  Federal.
+4.  Recurso  especial  parcialmente  conhecido  e  desprovido".(REsp  915.932/RS,  Rel.  Ministro  TEORI  ALBINO  ZAVASCKI,  PRIMEIRA  TURMA,  julgado  em  10/4/2007,  DJ  23/4/2007  -  grifou-se)" (e-STJ fls. 6.082-6.083).
+No que se refere à alegada ofensa aoartigo 6º do Código de Processo Civil de 1973, o aresto impugnado foi claro ao fundamentar a impossibilidade de conhecimento do recurso especial em virtude da incidência da Súmula nº 284/STF.
+Confira-se:
+"(..) Invocando  ofensa  ao  artigo  6º  do  Código  de  Processo  Civil  de  1973,  alega  a  recorrente  que
+"(..)
+(..)  os  R$  100  milhões  que  foram  fixados  a  título  de  lucros  cessantes  referem-se  aos  lucros  que  a  IBFARMA  teria  supostamente  deixado  de  auferir.  Logo,  os  Requeridos,  que  detêm  49%  do  capital  da  social,  não  poderiam  pleitear  o  recebimento  de  100%  desses  lucros;".
+Tais  alegações  foram  afastadas  pela  Corte  local,  sob  os  seguintes  fundamentos:
+"(..)
+Outrossim,  especificamente  rechaçado  pelo  laudo  pericial,  o  argumento  de  que  faria  jus  a  Agravada  a  ser  indenizada  em  valor  equivalente  a  49%  (quarenta  e  nove  por  cento)  do  valor  total  apurado  no  laudo  pericial,  tendo  em  conta  a  distribuição  societária  entre  as  partes  na  IBFARMA  ser  na  proporção  de  51%  à  Agravante,  e  49%  à  Agravada,  não  merece  ratificação.
+Sobre  o  tema,  o  expert  do  Juízo,  em  esclarecimentos  prestados  às  fls.  4.485/4.515  dos  autos,  elucida  que  o  objeto  de  seu  parecer  é  a  apuração  dos  prejuízos  efetivamente  experimentados  pelas  Agravadas  em  razão  da  administração  da  IBFARMA  por  parte  da  Agravante,  Apotex  do  Brasil  Ltda,  e  não  a  distribuição  de  lucros,  temática  que  necessariamente  deveria  observar  a  participação  de  cada  sócio  na  composição  do  capital  da  empresa,  consoante  ressaltado  pela  Agravante.
+Assim  sendo,  tendo  em  conta  que  cuida-se  o  valor  ali  apurado  de  projeção  dos  prejuízos  imputados  à  Agravada,  naturalmente  que  a  indenização  que  cabe  à  recorrida  não  se  subsume  à  sua  participação  societária,  mas,  sim,  corresponde  ao  total  apurado  pelo  expert  em  sua  multirreferida  manifestação"  (e-STJ  fl.  4.990).
+Novamente,  nota-se  que  as  alegações  recursais  e  o  debate  jurídico  travado  nos  autos  estão  totalmente  desconectados  do  texto  normativo  do  artigo  6º  do  Código  de  Processo  Civil  de  1973  ("Ninguém  poderá  pleitear,  em  nome  próprio,  direito  alheio,  salvo  quando  autorizado  por  lei"),  apontado  como  malferido  nas  razões  do  apelo  nobre,  atraindo  mais  uma  vez  o  óbice  na  Súmula  nº  284/STF  dada  a  flagrante  deficiência  de  fundamentação  do  recurso  especial" (e-STJ fls. 6.083-6.084).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
