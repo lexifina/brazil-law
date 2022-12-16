@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+BRUNO EDUARDO SELL interpõe agravo regimental contra decisão de fls. 350-352, proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial, por incidência da Súmula n. 182 do STJ.
+A defesa aduz, em síntese, que, ao contrário do que afirmado, foi devidamente rebatida a apontada incidência do óbice contido na Súmula n. 83 do STJ.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que sejam acolhidas as teses aventadas no recurso especial,
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ. 2. Nas razões do agravo em recurso especial, o agravante deixou de impugnar um dos fundamentos invocados pelo Tribunal a quo para obstar o prosseguimento do recurso especial.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O Tribunal a quo obstou o prosseguimento do recurso especial pelos seguinte fundamentos: a) Súmula n. 7 do STJ (art. 240, § 1º, do CPP); b) Súmula n. 83 do STJ (art. 240, § 1º, do CPP); c) Súmula n. 7 do STJ (art. 42 da Lei n. 11.343/2006); d) Súmula n. 83 do STJ (fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006).
+Todavia, o agravante, nas razões do agravo em recurso especial, deixou de impugnar a apontada aplicação da Súmula n. 83 do STJ no tocante à fração do redutor descrito no art. 33, § 4º, da Lei de Drogas.
+Embora a defesa haja aberto um tópico específico denominado "Súmula 83/STJ", certo é que, em nenhum momento, demonstrou ou fundamentou, de forma concreta e pormenorizada, as razões pelas quais o acórdão recorrido estaria em desacordo com o entendimento adotado pelo STJ quanto à fração da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Também não trouxe nem sequer um único julgado para evidenciar que, ao contrário do que afirmado pela Corte de origem, a pretensão deduzida no recurso especial estaria em consonância com a jurisprudência do STJ em relação à matéria nele delineada. Apenas afirmou, genericamente, que: a) "o Tribunal a quo deixou de realizar o cotejo analítico entre os julgados apresentados e o caso em questão"; b) "não se apontou a verossimilhança entre os casos e tampouco porque a ratio decidendi apresentada deveria ser aplicada no caso em debate"; c) "conforme precedentes da própria Corte, "a Súmula 83 do STJ se aplica a casos em que a interposição do recurso especial tiver se fundamentado na divergência, isto é, na alínea "c" do art. 105, III da Constituição". No caso vertente, no entanto, a interposição se deu com fulcro no art. 105, III, "a", razão pela qual inaplicável referido entendimento sumular"; d) "a circunstância de existirem julgados do STJ contrários à pretensão recursal não configura óbice à admissibilidade do recurso" (fls. 321-322).
+Saliento, por oportuno, que, consoante o entendimento da Corte Especial do STJ, a decisão que inadmite o recurso especial não pode ser impugnada parcialmente (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018).
+Segundo o entendimento que prevaleceu (do Ministro Salomão), não há diversos capítulos no decisum que inadmitiu o recurso especial, que é formado por um único dispositivo, qual seja, o da inadmissão do recurso: "A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva e não a fundamentação como um elemento autônomo em si mesmo". O ministro sustentou, categoricamente, que "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade", sob pena de incidência do enunciado na Súmula n. 182 do STJ.
+Assim, entendo irretocável a conclusão do decisum ora agravado, ao haver aplicado o enunciado na Súmula n. 182 do STJ, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
