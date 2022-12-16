@@ -1,0 +1,1 @@
+DISPÕE SOBRE A REVISÃO DO PLANO PLURIANUAL 2020-2023, PARA O EXERCÍCIO DE 2023, E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
