@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SANTINVEST S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/08/2022.
+Concluso ao gabinete em: 25/10/2022.
+Ação: revisional, ajuizada por HELIO MORTARI, em face da agravante, fundada na abusividade contratual.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu provimento à apelação interposta pelo agravado, para determinar a limitação dos juros remuneratórios à taxa média de mercado divulgada pelo Bacen, nos termos da seguinte ementa:
+EMPRÉSTIMO PESSOAL. REVISÃO. IMPROCEDÊNCIA. APELO DO AUTOR.
+JUROS REMUNERATÓRIOS. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA. ABUSIVIDADE EVIDENCIADA NA HIPÓTESE. REPARO DA SENTENÇA.
+Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central.
+READEQUAÇÃO DOS ÔNUS DE SUCUMBÊNCIA, ANTE A REFORMA DA SENTENÇA.
+Reformada a sentença, ainda que parcialmente, é imperiosa a readequação dos ônus sucumbenciais.
+APELO PROVIDO.
+Recurso especial: alega dissídio jurisprudencial quanto a interpretação do art. 51, §1º, do CDC.
+Sustenta que a abusividade da taxa de juros contratada deveria ser demonstrada de acordo com as peculiaridades do caso concreto, visto que o simples fato de estar acima da média de mercado (superior em 10% à média divulgada pelo Bacen) não autorizaria a sua limitação e diminuição. Além disso, a diferença entre o percentual contratado e a média de mercado seria irrisória, o que já demonstra a inexistência de abusividade.
+É O RELATÓRIO. DECIDO.
+- Da Súmula 568/STJ
+Esta Corte Superior entende que o simples fato de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média de mercado divulgada pelo Banco Central do Brasil, por si só, não indica abusividade, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras (REsp n. 2.009.614/SC, 3ª Turma, DJe de 30/9/2022).
+No julgamento do mencionado REsp n. 2.009.614/SC (3ª Turma, DJe de 30/9/2022), restou consignado que devem ser observados os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo; b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas, revelando-se insuficiente, portanto, (I) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente -, (II) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e (III) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.
+No mesmo sentido: REsp n. 1.821.182/RS, 4ª Turma, DJe de 29/6/2022; AgInt no REsp n. 1.977.593/SP, 3ª Turma, REPDJe de 29/06/2022, DJe de 22/6/2022.
+Na hipótese sob julgamento, o Tribunal de origem limitou-se a cotejar as taxas de juros pactuadas com as taxas médias de mercado divulgadas pelo BACEN, considerando como parâmetro o limite de 10% acima desta taxa média e, em razão deste, concluiu que estaria caracterizado o caráter abusivo, nos seguintes termos (e-STJ, fls. 165/167):
+(a) juros remuneratórios
+Acerca da temática concernente à fixação de juros remuneratórios em contratos bancários, tal como a hipótese dos autos, a Súmula n. 382 do Superior Tribunal de Justiça assentou entendimento de que "a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade".
+Ademais, no que tange à possibilidade de revisão da taxa pactuada, o Superior Tribunal de Justiça, em julgamento de Recursos Especiais Repetitivos (REsp. n. 1.112.879 e REsp. n. 1.112.880), firmou o seguinte entendimento:
+(..)
+Com efeito, a jurisprudência admite a revisão da cláusula que estabelece o percentual dos juros remuneratórios em situações excepcionais, desde que aplicável o Código de Defesa do Consumidor ao caso e a exista abusividade no pacto, nos termos do entendimento fixado pelo o Superior Tribunal de justiça, em julgamento de Recurso Especial, afeto ao rito dos recursos repetitivos:
+(..)
+Na esteira do entendimento acima delineado, esta Câmara julgadora tem considerado como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central.
+Neste sentido:
+(..)
+No caso dos autos, a taxa de juros remuneratórios prevista no contrato de empréstimo pessoal é de 26,08% ao ano, ao passo que a média de mercado divulgada pelo Bacen para o período de contratação (setembro/2019) era de 19,32% ao ano. Como se vê, o percentual pactuado excede em 10% àquele divulgado pelo Banco Central e, diante disso, verifica-se abusividade no contrato, de modo que deve incidir na hipótese a taxa média de mercado.
+Com efeito, não se extrai da decisão impugnada qualquer consideração acerca das peculiaridades da hipótese concreta, com o exame pormenorizado da situação da economia na época da contratação, do custo da captação dos recursos, do risco envolvido na operação, do relacionamento mantido com o banco, das garantias ofertadas, etc.
+Diante da dissonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o retorno dos autos às instâncias ordinárias para que aplique o direito à espécie, a partir dos parâmetros delineados pela jurisprudência desta Corte Superior, verificando se as taxas de juros remuneratórios, na hipótese, revelam-se ou não abusivas.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional, fundada na abusividade contratual.
+2. O simples fato de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média de mercado divulgada pelo Banco Central do Brasil, por si só, não indica abusividade, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras. Precedentes.
+3. Devem ser observados os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo; b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas, revelando-se insuficiente, portanto, (I) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente -, (II) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e (III) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual. Precedentes.
+4. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ
+5. Agravo em recurso especial conhecido. Recurso especial conhecido e provido.
