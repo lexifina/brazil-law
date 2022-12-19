@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 5 e 7do STJ, além da ausência de omissão no acórdão recorrido.
+A decisão colegiadarecorridaestá assim ementada (e-STJ fl. 311):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. ADMINISTRADORA DE PLANO DESAÚDE. TRATAMENTO DE HOME CARE. NEGATIVA DE COBERTURA. RELATÓRIOMÉDICO. NECESSIDADE DO TRATAMENTO PLEITEADO. VEDAÇÃO CONTRATUAL.NULIDADE. NATUREZA CONTRATUAL. EXPECTATIVAS DO CONSUMIDOR.HONORÁRIOS ADVOCATÍCIOS. ART. 85, §2º, CPC. EXORBITÂNCIA. AUSÊNCIA.SENTENÇA MANTIDA.
+1. O relatório médico que encaminha o paciente para tratamento domiciliar é suficiente à comprovação desua necessidade.
+2. A cláusula que exclui a cobertura de determinado tipo de procedimento que seja essencial à garantia dosegurado contraria a própria natureza do contrato, frustrando as expectativas do consumidor que adere a essetipo de avença.
+3. Por estar submetido ao Estatuto Consumerista, o contrato deve ser interpretado cm benefício doconsumidor, excluindo-se as cláusulas abusivas, conforme o artigo 51, inciso I, do Código de Defesa doConsumidor, sendo entendidas como tais, aquelas que restrinjam demasiadamente o rol de coberturas, demodo a privar o próprio usufruto do contrato c descaracterizar a sua finalidade.
+4. Os contratos de seguro de saúde, ainda que primem pelo princípio do pacta sunt servanda, não podemesquecer as diretrizes básicas que regem as relações privadas, em especial a eticidade, fundada na boa-fé ena própria função social do contrato.
+5. Os honorários advocatícios devem ser fixados entre o mínimo de dez e o máximo de vinte por cento sobreo valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valoratualizado da causa, nos termos do art. 85, do Código de Processo Civil. 5.1. O valor fixado pelo juizsentenciante (dez por cento do valor atualizado da causa), no caso dos autos, não se mostra exorbitante,razão pela qual não se mostra necessária a fixação dos honorários advocatícios consoante apreciaçãoequitativa.
+6. Recurso conhecido e desprovido.
+No recurso especial (e-STJ fls. 392/409), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou afronta aos arts. 10, VI e § 4º,12 da Lei n. 9.656/1998 e 51, IV, do CDC,argumentando que a parte recorrida não faria jus ao tratamentohome care, por ser desnecessário, além de inexistir obrigação prevista no rol da ANS.
+Sustenta ainda que haveria omissão no acórdão recorrido quanto às violações legais apontadas.
+No agravo (e-STJ fls. 440/449), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inicialmente, não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunala quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+OTJDFT,soberano no exame dos fatos e das provas dos autos, considerou que seria imprescindível o tratamento em regimehome care,pois estaria comprovadasua necessidade, sendo "verificada pelos relatórios médicos constantes dos autos que destacam os distúrbios sofridos pelo recorrido"(e-STJ fl. 315).
+Alterar taisconclusões, entendendopela ausência de necessidade do tratamentohome care, como sugere a ora recorrente,é inviável em recurso especial, de acordo com aSúmulan.7 do STJ.
+Ademais,"Conforme jurisprudência do Superior Tribunal de Justiça, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AREsp 1.725.002/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/4/2021, DJe 23/4/2021).
+Ressalte-se que "a taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção, ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Conforme se depreende da definição do instituto, o home care não é procedimento, evento ou medicamento diverso daqueles previstos no Rol da ANS, mas tão somente a adoção de tratamento já dispensado ao paciente em sua residência, como alternativa à internação hospitalar" (AREsp n. 2.177.735/MT, Relatora Ministra MARIA ISABEL GALLOTTI, publicada em 16/11/2022).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
