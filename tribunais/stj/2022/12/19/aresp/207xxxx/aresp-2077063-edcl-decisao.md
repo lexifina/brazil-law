@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DANILOFIGUEIREDO DA CRUZ contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 680):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+Sustenta a parte embarganteser devido o reconhecimento da violação dos arts. 5º,caput, LIV, LV e LVI, e 93, IX, da CF (fl. 690).
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+Contrarrazões do Ministério Público Federal àsfls. 698-704.
+Contrarrazões do Ministério Público do Estado de São Paulo às fls. 706-708.
+É o relatório.
+O art. 619 do Código de Processo Penaldisciplina que, "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado na decisão embargada, não é possível o seguimento do recurso extraordinário devido à aplicação dos Temas n. 181 e 339do STF.Confira-se (fls. 681-683):
+A Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+ ..
+No caso, constata-se que foram declinadas as razões pelas quais foi negado provimento ao agravo regimental, com a consequente manutenção da decisão que não conheceu do agravo em recurso especial, valendo destacar o seguinte excerto (fl. 627):
+O Tribunal de origem inadmitiu o recurso especial em razão de a Defesa não ter rebatido os fundamentos do acórdão recorrido, aplicando o óbice da Súmula n. 284 do Supremo (fl. 533); por não ter feito a comprovação do dissídio jurisprudencial nos termos do art. 1.029, § 1.º, do Código de Processo Civil e nos termos do art. 255, § 1.º, do RISTJ (fl. 534); por não ter citado o repositório oficial, autorizado ou credenciado em que fora publicado o acórdão paradigma e por não ter procedido ao necessário cotejo analítico (fl. 534), e por não ser possível a comprovação do dissídio jurisprudencial por meio de citação de acórdão proferido em mandado de segurança ou em habeas corpus, e os nos respectivos recursos ordinários (fls. 534-535); e pelo óbice da Súmula n. 7 desta Corte (fl. 535).
+Tal como apontado na decisão ora agravada, o Agravante, nas razões do agravo em recurso especial, não refutou, de formaconcreta e específica, as razões de decidir relativas à impossibilidade de alegação de divergência com base em paradigmas oriundos de habeas corpus, mandado de segurança ou em recurso ordinário e à Súmula 7/STJ.
+Ressalto que para rebater de forma concreta o obstáculo da Súmula n. 7/STJ é necessário que o Agravante demonstre, além da contextualização do caso concreto, as devidas razões pelas quais entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório.
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse entendimento: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fl. 642):
+No caso, o Embargante não demonstrou, de forma concreta, a ocorrência de nenhuma das hipóteses legais ensejadoras dos embargos declaratórios.
+Como já referido, o agravo em recurso especial não logrou ser conhecido por força do óbice da Súmula n. 182 desta Corte, em razão de a Defesa não ter refutado, de forma concreta e específica, as razões de decidir relativas à impossibilidade de alegação de divergência com base em paradigmas oriundos de habeas corpus, mandado de segurança ou em recurso ordinário e à Súmula n. 7/STJ.
+Assim, sequer alcançado o conhecimento do agravo em recurso especial, não há se falar em omissão do acórdão recorrido por ausência de apreciação das alegações de mérito nele declinadas.
+A bem da verdade, estes embargos de declaração são meros reflexos da inconformação do Embargante com os resultados dos julgamentos, o que não autoriza a oposição deles nos termos do art. 619 do Código de Processo Penal.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+ ..
+No caso, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental, mantendo decisão que não conheceu do agravo em recurso especial, considerada a falta de impugnação dos fundamentos de inadmissibilidade do recurso especial.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, com fundamento no art. 22,§ 2º, I, a, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
