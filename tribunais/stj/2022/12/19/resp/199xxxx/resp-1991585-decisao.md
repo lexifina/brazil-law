@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por Ivaney Ferreira Pinto, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0433.17.012341-1/001 (fls. 192/203):
+APELAÇÃO CRIMINAL - FURTO SIMPLES (ART. 155, CAPUT, DO CP) - RECURSO DEFENSIVO: APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - INVIABILIDADE - AUSÊNCIA DOS REQUISITOS - REPROVABILIDADE DA CONDUTA DO AGENTE - REDUÇÃO DA PENA-BASE - NÃO CABIMENTO - INCREMENTO SUFICIENTEMENTE JUSTIFICADO - COMPENSAÇÃO INTEGRAL ENTRE REINCIDÊNCIA E CONFISSAO ESPONTÂNEA - INVIABILIDADE. 1) Somente é cabível a aplicação do princípio da insignificância quando evidenciado que o bem jurídico tutelado sofreu mínima lesão e que a conduta do agente expressa pequena reprovabilidade e periculosidade social. A reincidência inviabiliza a aplicação do referido postulado, eis que a reiteração criminosa não permite reconhecer o reduzido grau de reprovabilidade da conduta. Precedentes do STF e do STJ. 2) Não é possível mensurar matematicamente o aumento da pena-base, razão pela qual a lei confere ao julgador certo grau de discricionariedade, observando-se o princípio da proporcionalidade e do livre convencimento motivado. Precedentes. 3) Não há que se falar em compensação integral entre a atenuante de confissão espontânea e a agravante de reincidência, quando a vida pregressa do agente reforça a contumácia do acusado na usurpação dos bens alheios, e, nessa seara, justificável é a penalização de forma mais severa, como instrumento necessário à reprovação e prevenção do crime.
+No presente recurso especial, aponta o recorrente a violação dos arts. 1º e 155, ambos do Código Penal, sob a tese da atipicidade material da conduta.
+É asseverado que a reiteração delitiva do recorrente não se afigura como fundamento válido para não se lhe aplicar o princípio da insignificância, destacando-se que o bem que se decidiu que ele subtraiu era de valor inferior a 10% do quantum do salário mínimo vigente à época dos fatos, e que foi restituído à vítima (fl. 210).
+Ao final da peça recursal pede que seja absolvido, aplicando-se o princípio da insignificância (fl. 214).
+Oferecidas contrarrazões (fls. 217/220), o recurso especial foi admitido na origem (fls. 224/225).
+O Ministério Público Federal opina pelo desprovimento da insurgência (fls. 237/240):
+RECURSO ESPECIAL. FURTO. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA, PELA INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. PRECEDENTES DO STJ.
+- Não obstante o reduzido valor da res furtiva, o TJ/SP destacou a reincidência do recorrente, o que demonstra desprezo sistemático pelo cumprimento do ordenamento jurídico e impede a aplicação do princípio da insignificância.
+- Parecer pelo desprovimento do recurso especial.
+É o relatório.
+Razão assiste ao recorrente.
+Da sentença condenatória e do combatido aresto extraem-se os seguintes fundamentos para o não reconhecimento da bagatela (fls. 144/145 e 197/199 - grifo nosso):
+ ..
+Em que pese o requerimento da defesa, não há como aplicar a teoria da insignificância para o fim de ser reconhecer a atipicidade material da conduta.
+Com efeito, conquanto os objetos subtraídos tenham sido avaliados em menos que 10% do salário-mínimo vigente à época do fato (f. 34), observa-se que não se fazem presentes os requisitos subjetivos para a aplicação da referida teoria, já que o acusado é multirreincidente (ostenta sete condenações definitivas anteriores, das quais seis são por delitos contra o patrimônio), como demonstra a CAC de f. 84/86v. Nesse contexto, o eventual reconhecimento da existência de um crime de bagatela representaria um incentivo à prática de crimes, dada a certeza da impunidade.
+ ..
+Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta do apelante, pois, conforme se extrai da certidão de antecedentes criminais acostada às fls. 84/86v, lvaney ostenta sete condenações transitadas em julgado pela prática de crime de crime contra o patrimônio (furto). Tal elemento demonstra o desprezo do apelante pelas normas vigentes, evidenciando sua periculosidade social, fator que impossibilita a aplicação do princípio da insignificância.
+Neste contexto, ainda que o valor do bem subtraído possa ser considerado insignificante, a CAC do acusado indica a prática habitual de delitos desta espécie, não podendo sua conduta ser tida como insignificante.
+ ..
+Desse modo, independentemente do valor atribuído à res furtiva, a reprovabilidade da conduta do apelante em razão da reiteração delitiva é incompatível com tal postulado e demanda atuação do Estado.
+Assim, incabível a aplicação da insignificância no caso em tela, devendo ser mantida a condenação do apelante nos termos da sentença combatida.
+ ..
+Não obstante os argumentos colacionados pela Corte de origem, levando-se em consideração o ínfimo valor do bem subtraído, consistente em duas latas de energético Red Bull, avaliadas em R$ 20,00 (vinte reais)- (fl. 37), bem como a sua integral restituição, em conformidade com a jurisprudência desta Corte de Justiça, de forma excepcional, é possibilitada a aplicação do princípio da insignificância.
+A corroborar:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FURTO SIMPLES TENTADO. VIOLAÇÃO DOS ARTS. 1º E 155, AMBOS DO CP; E 385 DO CPP. RES FURTIVA: UMA LATA DE CERA AUTOMOTIVA AVALIADA EM R$ 19,90. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. PARTICULARIDADES DO CASO. REDUZIDA EXPRESSIVIDADE DO VALOR DOS BENS SUBTRAÍDOS. RESTITUIÇÃO À VÍTIMA.
+1. O Juízo singular rejeitou a denúncia em face da aplicação do princípio da insignificância, notadamente pelo ínfimo valor do bem subtraído (uma lata de cera automotiva avaliada em R$ 19,90).
+2. Não se desconhece a posição majoritária desta Corte Superior de que a reincidência, por si só, não exclui a aplicação do princípio da insignificância, mas deve ser sopesada junto com as demais circunstâncias fáticas, admitindo-se incidência do aludido princípio ao reincidente em situações excepcionais.
+3. Por se tratar de furto simples tentado, de ser ínfimo o valor subtraído, bem como o montante ter sido restituído à vítima, mostra-se presente a excepcionalidade que autoriza a incidência do princípio da insignificância.
+4.  ..  apesar da existência de outra ação penal pelo delito de furto praticado em 2008, na qual foi extinta a punibilidade do paciente pela ocorrência da prescrição da pretensão executória, considerando tratar-se de bens de pequeno valor - 2 chinelos da marca "Havaianas", avaliados em R$ 37,80, o que equivale a 4,30% do salário mínimo vigente à época -, os quais, inclusive, foram restituídos à vítima, não se mostra recomendável a sua condenação, eis que evidente a inexpressividade da lesão jurídica provocada (HC n. 428.313/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/5/2018).
+5. Agravo regimental improvido.
+(AgRg no REsp n. 1.731.857/MG, de minha relatoria, Sexta Turma, DJe 13/8/2018 - grifo nosso).
+Logo, tenho que o acórdão recorrido, neste particular - inaplicabilidade do princípio da insignificância -, está em dissonância com a jurisprudência cristalizada nesta Corte Superior de Justiça, impondo-se a absolvição do recorrente.
+Em face do exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para absolver o recorrente, com suporte no art. 386, III, do Código de Processo Penal.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO SIMPLES. VIOLAÇÃO DOS ARTS. 1º E 155, AMBOS DO CP. RES FURTIVAE: DUAS LATAS DE ENERGÉTICO AVALIADAS EM R$ 20,00. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. PARTICULARIDADES DO CASO. REDUZIDA EXPRESSIVIDADE DO VALOR DOS BENS SUBTRAÍDOS. RESTITUIÇÃO À VÍTIMA.
+Recurso especial provido nos termos do dispositivo.
