@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA SEGURADORA S.A, com fundamento no art. 105, III, alíneas"a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+"APELAÇÃO CÍVEL. CONTRATOS. SISTEMA FINANCEIRO DA HABITAÇÃO. DECRETO-LEI Nº 70/66. CONSTITUCIONALIDADE. SALDO DEVEDOR. AMORTIZAÇÃO. CES. ALEGAÇÃO DE ANATOCISMO. AÇÃO DECLARATÓRIA DE QUITAÇÃO DO IMÓVEL FINANCIADO PELA COBERTURA DE SEGURO EM DECORRENCIA DE APOSENTADORIA POR INVALIDEZ PERMANENTE. SITUAÇÃO DE RENEGOCIAÇÃO DO CONTRATO SEM "ANIMUS NOVANDI". REPETIÇÃO DO INDÉBITO DAS PARCELAS PAGAS APÓS O EVENTO. RESPONSABILIDADE DO MUTUÁRIO QUANTO ÀS PRESTAÇÕES VENCIDAS EM DATAS ANTERIORES À OCORRÊNCIA DE SINISTRO. NÃO OCORRÊNCIA DE PRESCRIÇÃO.
+I. Pertencendo à técnica dos procedimentos de execução o aparelhamento da defesa em vias exógenas não é dentro, mas no lado de fora do processo de execução que se disponibilizam os meios jurídicos adequados à ampla defesa do devedor. Alegação de inconstitucionalidade do Decreto-Lei nº 70/66 rejeitada. Precedente do E. STF.
+II. A falta de previsão legal na época da avença não impossibilitava a previsão contratual do CES pois é princípio em matéria de contratos a autonomia da vontade das partes limitada apenas pelos princípios cogentes ou de ordem pública.
+III. Hipótese de doença preexistente que não se confirma. Direito à cobertura securitária que se reconhece. Prestações vencidas antes da aposentadoria por invalidez que são de responsabilidade do mutuário.
+IV. Alegação de prescrição que se afasta. Precedentes.
+V. Recurso parcialmente provido somente para julgar procedente o pedido de quitação do contrato de financiamento por meio da cobertura do seguro em decorrência de aposentadoria por invalidez"(fls. 466/467 e-STJ).
+Os embargos de declaração opostos rejeitados.
+No recurso especial, além do dissídio jurisprudencial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 178, § 6º, inciso II, do Código Civil de 1916, correspondente ao art. 206, § 1º, inciso I, do Código Civil de 2002, ao fundamento de que a pretensão do recorrido sujeita-se ao prazo prescricional ânuo e que o segurado teve conhecimento dasua invalidez mais de um ano antes da propositura da ação;
+(ii) arts. 36 do Decreto-Lei nº 73/1966 e1.432 e 1460 do Código Civil de 1916, correspondentes aos arts. 757 e 760 do Código Civil de 2002, haja vista que o acórdão combatido impôs à seguradora responsabilidade por risco pretérito e não previsto na apólice.
+Com as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ) e, portanto, em data anterior à publicação da Emenda Constitucional nº125.
+A irresignação merece prosperar em parte.
+Pela alínea "c" do permissivo constitucional, o recurso não merece conhecimento pois, nos termos dos arts.1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Torna-se patente, assim, a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ESPECIAL INTERPOSTO PELA ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015), o que não foi observado no caso, fazendo incidir a Súmula n. 284/STF, aplicada por analogia. Precedentes.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 1.086.408/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/10/2017 - grifou-se).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AOS ARTS. 619 E 620 DO CPP. OMISSÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ARESTOS CONFRONTADOS. NÃO COMPROVAÇÃO DO DISSÍDIO. VIOLAÇÃO DE REGRA TÉCNICA DO RECURSO. VÍCIO SUBSTANCIAL INSANÁVEL. PRESSUPOSTO DE ADMISSIBILIDADE. NÃO VERIFICAÇÃO. RECURSO DESPROVIDO.
+(..)
+3. Não se conhece de recurso especial fundado em dissídio jurisprudencial quando não realizado o cotejo analítico entre os arestos confrontados e quando o recorrente deixa de juntar aos autos o inteiro teor dos paradigmas indicados.
+4. A comprovação da divergência jurisprudencial constitui regra técnica cujo descumprimento caracteriza vício substancial insanável.
+5. Agravo regimental desprovido" (AgRg no REsp 1.865.061/AC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 17/11/2020, DJe de 20/11/2020- grifou-se).
+De outra parte, aquestão atinente ao prazo prescricional da pretensão indenizatória foi apreciada pelo Tribunal de origem nos seguintes termos:
+"(..)
+Por fim, alega ainda a Caixa Seguradora S/A em suas contrarrazões de apelação a ocorrência de prescrição por ter a negativa de seguro ocorrido em 29/07/2005 em relação à aposentadoria por invalidez concedida em 01/03/2005, e a ação ajuizada em 28/07/2008, tendo decorrido o prazo de 1 ano para se reclamar a indenização da seguradora.
+A jurisprudência é pacifica no tocante ao prazo de prescrição das ações ajuizadas pelo mutuário em que se postula a concessão do seguro habitacional, sendo ele de 10 anos, sendo impertinentes, por conseguinte, as alegações da Caixa Seguradora S/A" (fl. 462 e-STJ).
+Ocorre que a jurisprudência mais recente do Superior Tribunal de Justiça é no sentido de que,na hipótesede contrato de mútuo habitacional firmado no âmbito do Sistema FinanceiroHabitacional (SFH), é ânuo o prazo prescricional da pretensão domutuário/segurado para fins de recebimento de indenização relativa aoseguro habitacional obrigatório.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. SFH. SEGURO HABITACIONAL. PRETENSÃO DE COBERTURA SECURITÁRIA DECORRENTE DE INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA. INCIDÊNCIA. ART. 178, § 6º, DO CÓDIGO CIVIL DE 2002.
+1. "Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do Código Civil de 1916 às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação"(REsp 871.983/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 25/4/2012, DJe 21/5/2012).
+2. No caso, como a aposentadoria por invalidez foi concedida em 2007 e a ação foi ajuizada somente em 2011, a pretensão securitária está fulminada pela prescrição.
+3. Agravo regimental provido. Extinção do processo com resolução de mérito"(AgRg no AREsp 634.538/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/12/2016, DJe de 2/2/2017 - grifou-se).
+"CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SEGURO. SISTEMAFINANCEIRO DA HABITAÇÃO. INVALIDEZ DO MUTUÁRIO. PRESCRIÇÃO ANUAL. SÚMULAN. 83/STJ. DECISÃO MANTIDA.
+1. É firme o entendimento desta Corte de que se aplica o prazo deprescrição anual do art. 178, § 6º, II, do Código Civil de 1916, às açõesdo segurado/mutuário contra a seguradora, buscando a cobertura de sinistrorelacionado a contrato de mútuo habitacional celebrado no âmbito doSistema Financeiro da Habitação.
+2. O Tribunal de origem, ao concluir pela prescrição ânua da ação decobrança securitária, está em consonância com a orientação do STJ.Incidência da Súmula n. 83/STJ.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp 123.250/MG,Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em20/8/2013, DJe 27/8/2013 - grifou-se).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEGURO HABITACIONAL. SISTEMAFINANCEIRO DA HABITAÇÃO. AÇÃO DE COBRANÇA. PRESCRIÇÃO ANUAL. ART. 178, §6º DO CÓDIGO CIVIL DE 1916. SÚMULAS 7 E 182/STJ. DECISÃO AGRAVADA.MANUTENÇÃO.
+1.- Aplica-se o prazo de prescrição anual do art. 178, § 6º,II do Código Civil de 1916 às ações do segurado/mutuário contra aseguradora, buscando a cobertura de sinistro relacionado a contrato demútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação.
+2.- Não tendo o acórdão recorrido fixado um termo inicial para a contagemdo prazo prescricional não é possível, em sede de Recurso Especial,reconhecer o advento da prescrição, pois seria necessário reexame doselementos fático-probatórios dos autos,soberanamente delineados pelasinstâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula7 do STJ.
+3.- Nas razões do agravo regimental, devem ser expressamenteimpugnados os fundamentos lançados na decisão do Julgado. Incidência daSúmula 182 do Superior Tribunal de Justiça.
+4.- Agravo Regimentalimprovido" (AgRg nos EDcl nos EDcl no REsp 1.273.293/SP, Rel. MinistroSIDNEI BENETI, TERCEIRA TURMA, julgado em 18/12/2012, DJe 4/2/2013 -grifou-se).
+No caso concreto, está incontroverso que a negativa da cobertura securitária ocorreu em 29/7/2005 e a ação ajuizada em 28/7/2008, razão pela qual é forçoso reconhecer que a pretensão indenizatória está fulminada pela prescrição.
+Diante do reconhecimento da prescrição, fica prejudicadaa alegação de violação dosarts. 36 do Decreto-Lei nº 73/1966 e 757 e 760 do Código Civil de 2002.
+Ante o exposto, dou parcial provimento ao recursoespecial para determinar o retorno dos autos à origem para que as demais questões suscitadas no recurso apelatório sejam examinadas, considerando-se prescritaa pretensão de cobertura securitária, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
