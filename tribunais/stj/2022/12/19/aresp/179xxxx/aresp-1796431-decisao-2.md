@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por ELEVATEC ELEVADORES TÉCNICOS IND COM IMP E EXP LTDA. contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos dispositivos legais e da incidência daSúmulan. 7/STJ (e-STJ fls. 941/943).
+O acórdão recorrido está assim ementado (e-STJ fl. 788):
+AÇÃO INDENIZATÓRIA POR DANO MORAL - TRÂNSITO EM JULGADO DE INTERLOCUTÓRIA QUE REVOGOU A GRATUIDADE PROCESSUAL - APELO PLEITEANDO, DENTRE OUTRAS COISAS, O RESTABELECIMENTO DA BENESSE REVOGADA - DECISÃO DO RELATOR INDEFERINDO O RESTABELECIMENTO E DETERMINADO O RECOLHIMENTO DO PREPARO - DETERMINAÇÃO DESATENDIDA - DESERÇÃO CARACTERIZADA - RECURSO DA AUTORA NÃO CONHECIDO.
+AÇÃO INDENIZATÓRIA POR DANO MORAL AUTORA CUJO MARIDO FOI ENCONTRADO MORTO NO FOSSO DO ELEVADOR DE SERVIÇO DO EDIFÍCIO EM QUE RESIDIAM - INQUÉRITO POLICIAL QUE NÃO CONSEGUIU ESCLARECER AS CIRCUNSTÂNCIAS DA MORTE, EXCETO O FATO DE QUE O FALECIDO CIRCULAVA PELO EDIFÍCIO NO DIA DE SUA MORTE - PRESUNÇÃO DE NEXO CAUSAL ENTRE A MORTE E DE FEITO DO ELEVADOR - ADMISSIBILIDADE - PRECEDENTE E DOUTRINA RESPONSABILIDADE OBJETIVA DO CONDOMÍNIO - RECONHECIMENTO - INTELIGÊNCIA DO ART. 937 DO CC - PROVA DE CULPA EXCLUSIVA DA VÍTIMA OU DE TERCEIRO - AUSÊNCIA - RESPONSABILIZAÇÃO MANTIDA - COMPENSAÇÃO PECUNIÁRIA FIXADA EM R$ 100.000,00 REDUÇÃO PARA R$ 80.000,00 - NECESSIDADE PARÂMETRO ADOTADO EM CASO SEMELHANTE - RECURSO DO CONDOMÍNIO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 825/831 e 842/845).
+No recurso especial (e-STJ fls. 848/857), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou violação doart. 339, § 1º, do CPC/2015, "uma vez que não há como considerar pessoas jurídicas com sócios diferentes como empresas do mesmo grupo econômico" (e-STJ fl. 851).
+Destacou que (e-STJ fls. 854/855):
+Está documentalmente comprovado pelos contratos sociais que JOSÉ HERCULANO DOMINGOS, sócio da Recorrente ELEVATEC (indústria metalúrgica), não faz parte do quadro societário da empresa prestadora de serviços de manutenção de elevadores, ELEVAR MANUTENÇAO E MODERNIZAÇAO DE ELEVADORES LTDA.
+(..)
+As empresas ELEVATEC e ELEVAR não possuem controle unificado, até porque, o sócio majoritário da Recorrente não faz parte do quadro societário da empresa ELEVAR. Além disso, uma é indústria de peças para elevadores; a outra é prestadora de serviços de manutenção de elevadores.
+Data vênia, não se pode confundir grupo econômico com a mera existência de duas empresas que apenas tem dois sócios em comum.
+Sustentouofensa aoart. 178, II, do CPC/2015, visto que devida a participação do Ministério Público por tratar o processo de interesse de incapaz.
+No agravo (e-STJ fls. 951/962), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Em relação à tese de ilegitimidade passiva, a Corte local decidiu que (e-STJ fls. 794/795):
+Quanto à preliminar de ilegitimidade passiva ad causam, sua rejeição decorre do disposto no art. 17 do CDC e da constatação de que as pessoas jurídicas Elevatec e Elevar formam grupo econômico.
+Com efeito, a autora afirma ser vítima de dano moral causado por defeito de serviço de manutenção de elevadores. Se essa afirmação é verdadeira ou não, é questão que diz com o mérito. Para fins de verificação da legitimidade ad causam, basta o teor da afirmação contida na petição inicial, pois o ordenamento processual civil brasileiro adotou a teoria da asserção. Sendo esse o teor de sua afirmação, não há dúvida de que ela deve ser considerada, no caso, consumidora por equiparação, ainda que não tenha contratado diretamente os serviços da fornecedora Elevar Manutenção e Modernização de Elevadores Ltda., que foi a pessoa jurídica responsável pela prestação do serviço de manutenção do elevador em cujo fosso foi encontrado o marido da demandante (fls. 256/282 e 418/478). É que referido dispositivo legal determina o seguinte:
+(..)
+Vale esclarecer que a "Seção" a que se refere essa norma é a da "Responsabilidade pelo Fato do Produto e do Serviço" (g. n.), que é a questão central do presente processo.
+Corolário disso (ou seja, do estabelecimento da premissa de que a autora é, no caso, consumidora por equiparação) é que a relação entre autora e Elevar deve ser considerada de consumo, o que implica dizer que lhe é aplicável ateoria da aparência, a qual, objetivando proteger a boa-fé do consumidor, confere legitimidade passiva à pessoa jurídica que, embora tenha participado apenas indiretamente da cadeia de fornecimento, é do mesmo grupo econômico da fornecedora direta do serviço. Nesse sentido:
+(..)
+No caso, os documentos de fls. 40/48 e 247/248 demonstram que Elevatec e Elevar pertencem ao mesmo grupo econômico, pois têm sede no mesmo endereço (fls. 42 e 248), compartilham sócios (fls. 40 e 247) e ambos os contratos sociais registram, como objeto social, o serviço de manutenção de elevadores (fls. 42 e 248). Tanto assim que a própria Elevar, ao explicar o funcionamento do sistema de segurança do elevador, serve-se de folheto explicativo da Elevatec (fls. 256/257).
+Em remate, cumpre registrar que não é verdadeira a assertiva segundo a qual a autora concordou com o pedido de substituição no polo passivo; em verdade, ela pleiteou o litisconsórcio passivo entre Elevar e Elevatec (fl. 482).
+Desconstituir o acórdão recorrido,a fim de afastar a legitimidade passivada agravante decorrente da constituição de grupo econômico, exigiria a apreciação do conjunto fático-probatório dos autos, hipótese vedada pela Súmula n. 7/STJ.
+Em relação à alegada ofensa ao art. 178 do CPC/2015, a Corte local consignou ser "Descabido, outrossim, o pedido de intervenção doMinistério Público formulado sob o argumento de que um dos sócios de Elevar foi interditado. É que não há notícia de dissolução regular dessa pessoa jurídica e, por isso, a situação continua regulada pelo art. 1052, caput, do CC" (e-STJ fls. 830/831).
+A agravante não impugnou a aplicação do art. 1.052 do CC/2002, incidindo a Súmula n. 283/STF.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
