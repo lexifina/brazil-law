@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por TÚLIO GAIOMARCON DE SOUZA SANTOS, fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado(e-STJ fl. 693):
+APELAÇÃO CRIMINAL. RECURSO MINISTERIAL. VIOLAÇÃO DE DOMICÍLIO. AUSÊNCIA DE DOLO ESPECÍFICO. ABSOLVIÇÃO MANTIDA. AGRAVANTE DA CALAMIDADE PÚBLICA EM RAZÃO DA PANDEMIA DA COVID-19. DECOTE. INAPLICABILIDADE NO CASO. RECURSO DEFENSIVO. TRÁFICO DE DROGAS. REDUÇÃO DA PENA-BASE. DESCABIMENTO. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ARTIGO 33, § 4º, DA LEI 11.343/06. INVIABILIDADE. ABRANDAMENTO DO REGIME PRISIONAL. IMPOSSIBILIDADE.
+- Quando o agente entra em residência alheia com o fim único de fugir da polícia, não se faz presente o dolo específico de violação de domicílio caracterizador do delito previsto no artigo 150 do Código Penal.
+- Para o reconhecimento da agravante do artigo 61, II, "j", do Código Penal, é necessário que o agente tenha se valido da situação de calamidade pública para praticar o crime, o que não restou demonstrado no caso em tela.
+- A apreensão de grande quantidade de droga (1kg de maconha) autoriza a fixação da pena-base acima do mínimo patamar legal. -Demonstrada a dedicação do acusado à prática de atividades criminosas, inviável a aplicação da causa de diminuição de pena contida no artigo 33, §4º, da Lei nº 11.343/06.
+- Deve ser mantida a imposição do regime fechado quando modalidades mais brandas não se mostram suficientes para a prevenção e reprovação do delito.
+Depreende-se dos autos que o réu foi condenado às penas de 5 anos e 5 meses de reclusão em regime inicial fechado, e 541 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, o que restou mantido em decorrência do não provimento do apelo defensivo.
+Nas razões do recurso especial reputa contrariado o art. 33, § 4º, da Lei Antidrogas e os arts. 33, § 2º,c, e 44do Código Penal.
+Sustenta a existência de ações penais em curso e a quantidade de droga apreendidanão constituem fundamentos válidos para o afastamento da minorante relativa ao tráfico privilegiado.
+Acrescenta que constituibis in idema utilização concomitante da qualidade e quantidade da droga na primeira e na terceira fase do sistema legal de fixação da pena, quer para afastar a redutora, quer para modular sua fração de incidência.
+Pugna pelo provimento do recurso, a fim de ser aplicada a circunstância legal do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, com a consequente mitigação da reprimenda, alteração do regime inicial de seu cumprimento e a substituição da pena privativa de liberdade por restritivas de direito.
+Contrarrazoada a insurgência e após o juízo de admissibilidade (e-STJ fls. 747-749), os autos ascenderam a este Superior Tribunal de Justiça.
+O Ministério Público Federal, na condição de custos legis, manifestou-se pelo desprovimento do recurso (e-STJ fls. 765-773).
+É o relatório. Decido.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca da causa especial de diminuição da pena, o Tribunal estadualconsignou (e-STJ fls. 704-707):
+É bom ressaltar que não se confunde a "primariedade" e os "bons antecedentes" com o requisito relativo a "não se dedicar às atividades criminosas", o que pode ser verificado pela totalidade dasprovas colhidas, e não apenas pela certidão de antecedentes criminais do acusado.
+Entendimento contrário poderia levar à equivocada conclusão que qualquer traficante, em sua primeira condenação, faria jus à minorante, o que não foi a intenção do legislador ao prever o benefício.
+In casu, embora o acusado seja tecnicamente primário, possui outras duas condenações anteriores pelos crimes de tráfico de drogas e roubo qualificado (cf. CAC de fls. 235/240 doc. único). Apesar de inexistirem informações, nestes autos, do trânsito em julgado, este fato é capaz de demonstrar o envolvimento habitual do acusado com a criminalidade.
+Destaco que fatos criminais pendentes de definitividade, ainda que não sirvam para valoração negativa da reincidência e dos antecedentes (Súmula nº 444 do STJ), podem conduzir ao afastamento causa de diminuição contida no artigo 33, § 4º, da Lei nº 11.343/06, por demonstrarem a dedicação do acusado a atividades criminosas.
+ ..
+Mas não é só.
+A grande quantidade de substância tóxica apreendida - 1kg de maconha - evidencia a sua imersão habitual na mercancia ilícita, pois "traficantes de primeira viagem" não têm acesso a tamanha porção de droga.
+ ..
+Ressalto que a utilização da quantidade da droga para elevar a pena-base e como um dos fundamentos para negar a minorante em tela não configura bis in idem. Nos termos da jurisprudência dominante, apenas haveria dupla valoração pelo mesmo fato caso esses fatores tivessem sido considerados na primeira fase e, concomitantemente, para balizar a redução pelo artigo 33, § 4º, da Lei nº 11.343/06, o que não é o caso.
+Entretanto, a Suprema Corte firmou o entendimento de que inquéritos policiais e ações penais em curso não constituem fundamentos idôneos para afastar a minorante do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência, verbis:
+AGRAVOREGIMENTALNO RECURSO EXTRAORDINÁRIO. CRIMINAL. INQUÉRITOS POLICIAIS E PROCESSOS CRIMINAIS EM CURSO. ANTECEDENTES CRIMINAIS. ART. 33, § 4º, DA LEI 11.343/2006. PRINCÍPIO CONSTITUCIONAL DA NÃO CULPABILIDADE. RE 591.054-RG/SC. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - O Plenário do Supremo Tribunal Federal firmou o entendimento de que, ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais. Precedente.
+II - A aplicação da causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da Constituição Federal.
+III- Agravo regimental a que se nega provimento.
+(RE 1283996 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020, PROCESSO ELETRÔNICO DJe-285 DIVULG 02-12-2020 PUBLIC 03-12-2020)
+Seguindo a mesma linha de entendimento:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. AUSÊNCIA DE ELEMENTOS QUE INDIQUEM A DEDICAÇÃO DO AGENTE EM ATIVIDADES CRIMINOSAS. AÇÕES PENAIS EM CURSO. FUNDAMENTO INVÁLIDO. RECURSO NÃO PROVIDO.
+ ..
+3. O Supremo Tribunal Federal já se manifestou reiteradas vezes que inquéritos e processos em curso não devem ser aferidos em desfavor do agente na dosimetria da pena, sob pena de violação do princípio da não culpabilidade. Apoiado nesse entendimento, vem decidindo ser inadmissível a utilização de ação penal em curso para afastar a causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.970.580/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022)
+Do mesmo modo, conforme jurisprudência ressonante nesta Corte, a quantidade de drogas, isoladamente, não impede a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei 11.343/2006. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO NA FRAÇÃO DE 1/3. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE OS ACUSADOS SE DEDICAVAM A ATIVIDADESCRIMINOSASBASEADA EXCLUSIVAMENTE NA QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado na fração de 1/3.
+2. Esta Corte vem se manifestando no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+3. Agravo regimental não provido.
+(AgRg no HC n. 761.528/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022)
+No caso em apreço, nota-se que a Corte a quo afastou a causa especial de diminuição de pena sob o fundamento de que a quantidade de drogas apreendida é considerável e que o acusado possui outras condenações pelo crime de tráfico de drogas e por roubo, ambas sem informações sobre o trânsito em julgado.
+Faz-se imperioso, portanto, reconhecer a ilegalidade do acórdão recorrido no mencionado ponto.
+Passo à dosimetria da pena.
+Compulsando-se os autos constata-se que o juízo de primeiro grau, com o beneplácito da Corte estadual, reputou desfavoráveis as consequências do crime e a quantidade de droga apreendida, fixando a pena-base em 6 anos e6 meses de reclusão, além de 650 dias-multa.
+Ocorre que a título deconsequências do crimeconsignou-se que "são altamente prejudiciais à sociedade como um todo,pelo já explicitado, eis que induz ao vício, jovens que certamente poderiam ter um futuro melhor se longe das drogas estivessem."(e-STJ fls. 539-540), o que certamente não constitui motivação concreta para justificar a exacerbação da pena inicial.
+Assim, afastada a negativação da vetorial em questão e considerando a já mencionada quantidade de droga apreendida, fixo a pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa.
+Na segunda fase, faço incidir a atenuante do art. 65, III,d, do Código Penal, passando as penas para 5 anos de reclusão e 500 dias-multa.
+Na terceira etapa, ausentes causas de aumento, reduzo em 2/3 as penas, ante a incidência da causa de diminuição do § 4º do art. 33 da Lei 11.343/2006, conforme a decisão ora exarada, ficando a reprimenda estabelecida em 1 ano e 8 meses de reclusão e 166 dias-multa, a qual torna-se definitiva, à míngua de outras causas modificadoras.
+Por fim, quanto ao regime inicial e a substituição da pena privativa de liberdade, entendo adequadoo regime intermediário, bem como insuficiente a aplicação de penas substitutivas,nos termos da jurisprudência desta Corte, segundo a qual "não obstante o estabelecimento da pena inferior a 4 anos, a quantidade de droga apreendida justifica a imposição do regime mais gravoso, ficando, assim, fixado o regime semiaberto, não sendo recomendada a substituição da pena privativa de liberdade por penas restritivas de direitos, com fundamento no art. 44, III, do CP" (AgRg no HC n. 712.022/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, doRegimento Interno do Superior Tribunal de Justiça, dou parcial provimento ao recurso especial para redimensionar aspenas do recorrente para 1 anoe 8 meses de reclusão em regime inicial semiaberto, e 166 dias-multa, mantidos os demais termos do acórdão impugnado.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
