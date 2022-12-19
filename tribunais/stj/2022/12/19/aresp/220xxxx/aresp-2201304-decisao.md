@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FAZENDA NACIONAL, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. RE 574.706. EMBARGOS DE DECLARAÇÃO. JULGAMENTO. MODULAÇÃO DOS EFEITOS DO JULGADO. JUÍZO DE RETRATAÇÃO.
+1. Autos devolvidos para juízo de retratação, à vista das disposições do artigo 1.040, II, do CPC.
+2. Na presente ação houve o reconhecimento do direito da parte demandante à exclusão do ICMS da base de cálculo do PIS e da COFINS, nos termos em que decidido pelo E. STF, nos autos do RE 574.706, restando reconhecido, ainda, o direito da parte à compensação e/ou restituição dos valores indevidamente recolhidos a esse título, observada a prescrição quinquenal. Por ocasião da apreciação da matéria por esta Turma julgadora, ainda se encontravam pendentes de julgamento, perante a Suprema Corte, embargos de declaração opostos pela União Federal nos autos do indigitado recurso excepcional.
+3. Em 13/05/2021 o E. STF apreciou os indigitados embargos de declaração, acolhendo-os, em parte, para modular o julgado proferido no RE 574.706, decidindo que os efeitos do aludido julgamento haverá de se dar após 15/03/2017, ressalvadas as ações judiciais e administrativas protocoladas até o aludido termo. Esclareceu-se, ainda, que o ICMS a ser excluído da base de cálculo do PIS e da COFINS é o destacado na nota fiscal.
+4. Tendo o presente feito sido ajuizado depois do julgamento do RE 574.706, a compensação deve se limitar aos valores indevidamente recolhidos a título de exclusão do ICMS da base de cálculo do PIS e da COFINS recolhidos após 15/03/2017, nos termos do entendimento da Corte Suprema, alhures mencionado.
+5. Apelação da União Federal provida, em parte, tão-somente para limitar a compensação dos valores indevidamente recolhidos, nos termos da fundamentação. Mantidos os demais termos do acórdão" (fl. 783e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 787/792e), os quais restaram rejeitados, nos seguintes termos:
+"TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO VERIFICADA. INCLUSÃO DO ICMS DA BASE DO PIS E COFINS. INCONSTITUCIONALIDADE RECONHECIDA. MODULAÇÃO DOS EFEITOS. PROCEDÊNCIA DO PEDIDO DE EXCLUSÃO. RESTRIÇÃO MERAMENTE TEMPORAL. INAPLICABILIDADE DE SUCUMBÊNCIA RECÍPROCA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- No que se refere à alegada omissão acerca da fixação de verbas de sucumbência, não se observa a existência de vício no julgado embargado, visto que não há improcedência parcial da questão da exclusão do ICMS da base de cálculo do PIS e da COFINS no tocante aos fatos geradores ocorridos até 15 de março de 2017, eis que a situação trata-se, meramente, de restrição temporal da eficácia da decisão em virtude da modulação dos efeitos proferida pela Colenda Corte Suprema.
+- Por outras palavras, oSTF reconheceu a inconstitucionalidade da inclusão do ICMS nas bases de cálculo do PIS e da COFINS desde seu nascedouro, mas modulou os efeitos de sua decisão para que tal declaração de inconstitucionalidade produzisse efeitos apenas apósde 15 de março de 2017, não sendo esta questão motivo para reconhecimento da sucumbência recíproca.
+- Embargos de declaração rejeitados" (fl. 821e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontaviolação aos arts. 85, § 3º, 4º, 8º, 11 e 86, do CPC, sustentando, em síntese, que "de rigor a aplicação do art. 85, § 4º, II, do CPC, que determina que, não sendo líquida a sentença, a definição do percentual deverá ocorrer quando liquidado o julgado"(fl. 839e); que "não há que se falar em fixação de verba honorária, diante da inexistência do seu valor, diante da falta de liquidez do julgado" (fl. 841e); que não cabe, no caso, aaplicação pura e simples de percentual sobre o valor da causa; que "houve a sucumbência recíproca, nos termos do art. 86 do Código de Processo Civil" (fl. 857e).
+Por fim, requer " o conhecimento e o provimento do recurso especial, por violação ao artigo 85, §2º, 4º, inciso II e §8º, e ao artigo 86 do CPC, conforme fundamentação" (fl. 858e).
+Contrarrazões a fls. 863/879e.
+Inadmitido o Recurso Especial (fls. 881/890e), foi interposto o presente Agravo (fls. 893/902e).
+Contraminuta a fls. 907/925e.
+A irresignação não merece prosperar.
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 85, § 3º, 4º, 8º, 11, do CPC, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+No mais,para se adotar entendimento em sentido diverso do exposto no acórdão recorrido, seria necessária a incursão no acervo probatório dos autos, providência vedada em sede de especial, a teor da Súmula 7/STJ.
+Com efeito, a jurisprudência do STJ orienta-se no sentido de que "a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7 desta Corte" (STJ, AgInt no AREsp 918.616/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/11/2016).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NOMEAÇÃO À AUTORIA. FACULDADE DO AUTOR. LEGITIMIDADE DA INSTITUIÇÃO FINANCEIRA. ESTORNO INDEVIDO EM CONTA CORRENTE. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. SÚMULA 211 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. (..).
+3.Consoante reiterada jurisprudência do STJ, a reforma do julgado quanto à sucumbência mínima ou recíproca da parte, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+4. Agravo interno não provido" (STJ, AgInt no AREsp 945.692/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 03/05/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ARTIGO 535 DO CPC. OMISSÃO. AUSÊNCIA. CÉDULA DE CRÉDITO RURAL. CAPITALIZAÇÃO MENSAL DOS JUROS. POSSIBILIDADE. EXISTÊNCIA DE PACTUAÇÃO. SUCUMBÊNCIA RECÍPROCA OU MÍNIMA. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. (..).
+3.Segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+4. Agravo interno desprovido" (STJ, AgInt no AREsp 1.132804/PR, Rel. Ministro LÁZARO GUIMARÃES - Desembargador Federal Convocado do TRF da 5ª Região, QUARTA TURMA, DJe de 27/03/2018).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. OCORRÊNCIA DOS PRESSUPOSTOS ENSEJADORES. REDUÇÃO DO QUANTUM INDENIZATÓRIO. SUCUMBÊNCIA MÍNIMA. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. (..).
+4.Esta Corte tem reiteradamente decidido que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, tendo em vista o óbice disposto na Súmula 7/STJ.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 985.265/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/11/2016).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. POSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. REEXAME DE PROVAS. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. (..).
+2.A reapreciação dos critérios fáticos que levaram as instâncias ordinárias a fixar a proporção em que as partes foram vencidas na demanda e a verificação da existência de sucumbência mínima ou recíproca demandam reexame de prova dos autos. Incidência da Súmula n. 7/STJ.
+3. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+4. Agravo regimental desprovido" (STJ, AgRg no AREsp 712.281/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 14/12/2015).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
