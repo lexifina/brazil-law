@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/12/2022 a 19/12/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+2. Hipótese em que o Agravante não impugnou o fundamento, declinado na decisão agravada, quanto à incognoscibilidade do habeas corpus impetrado contra acórdão já transitado em julgado.
+3. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por LUIS RICARDO DA ROCHA contra a decisão de fls. 72-75, em que indeferi liminarmente o habeas corpus. O decisum foi assim ementado (fl. 72):
+"HABEAS CORPUS. DIREITO PENAL. ROUBO E EXTORSÃO QUALIFICADA. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. MANEJO DE WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PATENTE ILEGALIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA."
+As razões recursais aduzem que há patente ilegalidade, uma vez que a reforma da sentença absolutória no julgamento do recurso de apelação se amparou em fatos não comprovados durante a instrução processual. Argumentam que há fundada dúvida sobre a participação do Agravante na prática do delito.
+Requerem a submissão do feito ao Órgão colegiado, sendo, ao final, concedida a ordem de habeas corpus "para que seja mantida a sentença absolutória de primeiro grau, expedindo-se alvará de soltura" (fl. 84).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+2. Hipótese em que o Agravante não impugnou o fundamento, declinado na decisão agravada, quanto à incognoscibilidade do habeas corpus impetrado contra acórdão já transitado em julgado.
+3. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, é imperioso ressaltar que o princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+Na hipótese em análise, o habeas corpus foi indeferido liminarmente, porque o presente remédio constitucional foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo já transitado em julgado. Desse modo, consignei, na decisão recorrida, ser incognoscível o writ, pois manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+No entanto, em suas razões recursais, o Agravante não impugnou o fundamento declinado na decisão recorrida com relação à norma do art. 105, inciso I, alínea e, da Constituição da República, que delimita a competência desta Corte para processar e julgar apenas as revisões criminais ajuizadas em face de seus próprios julgados. Limitou-se apenas a alegar que o acórdão proferido pelo Tribunal estadual está amparado unicamente em prova produzida em inquérito policial, não confirmada em juízo.
+Dessa forma, observo que as presentes razões estão dissociadas dos fundamentos do decisum ora recorrido - o que viola regra do Código de Processo Civil, in litteris (sem grifos no original):
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Essa norma, a propósito, foi identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, como se vê: " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Por pertinente, cito também os seguintes precedentes de ambas as Turmas da Terceira Seção desta Corte, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão combatida.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto das razões lançadas no decisum atacado, e não são suficientes, para tanto, meras alegações genéricas ou a repetição dos termos já expostos no recurso.
+ .. .
+6. Agravo regimental não conhecido." (AgRg no HC n. 746.386/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/6/2022, DJe 27/6/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE IMPUGNAÇÃO. PEDIDO RECURSAL NÃO CONHECIDO.
+1. Hipótese na qual o Ministro Presidente, na decisão ora agravada, não analisou o fundo da controvérsia, ante a incompetência do Superior Tribunal de Justiça. Nas presentes razões recursais, o Agravante deixou de impugnar o fundamento da decisão ora recorrida, limitando-se a reiterar as alegações meritórias ventiladas na inicial deste feito.
+2. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, em que se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+3. Pedido recursal não conhecido." (AgRg no HC 637.769/ MG , Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. FIXAÇÃO DE REGIME MAIS GRAVOSO. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA E RECINCIDÊNCIA DEMONSTRADAS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ .. .
+2. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+3. A reiteração dos argumentos apresentados nas razões de habeas corpus e a apresentação de alegações genéricas e dissociadas dos fundamentos da decisão agravada tornam inviável o agravo regimental por ofensa ao princípio da dialeticidade.
+ .. .
+5. Agravo regimental não conhecido." (AgRg no HC n. 622.949/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 2/8/2022, DJe 8/8/2022; sem grifos no original.)
+O mesmo entendimento prevalece no âmbito do Supremo Tribunal Federal, conforme se infere dos seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. INCOGNOSCIBILIDAE. DIALETICIDADE. AUSÊNCIA. HOMICÍDIO QUALIFICADO. FEMINICÍDIO. OCULTAÇÃO DE CADÁVER. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Na esteira da pacífica jurisprudência desta Corte, a interposição de agravo regimental demanda a mínima articulação de argumentos aptos a infirmar a decisão arrostada, não sendo suficiente a mera reiteração dos termos aduzidos na inicial do writ.
+2. A ausência de impugnação específica aos fundamentos da decisão unipessoal conduz à imediata e integral incognoscibilidade do agravo, por violação ao princípio da dialeticidade recursal.
+3. Agravo regimental não conhecido." (HC 209857 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 16/05/2022, PROCESSO ELETRÔNICO DJe-107 DIVULG 01-06-2022 PUBLIC 02-06-2022; sem grifos no original.)
+"Agravo regimental no habeas corpus. 2. Recurso que não impugna os fundamentos da decisão agravada. Violação ao princípio da dialeticidade. 3. Agravo não conhecido." (HC 214066 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 23/05/2022, PROCESSO ELETRÔNICO DJe-101 DIVULG 25-05-2022 PUBLIC 26-05-2022; sem grifos no original.)
+De qualquer forma, apenas para que não se alegue omissão, quanto à matéria de fundo, não reconheço patente ilegalidade apta a ensejar a concessão da ordem de ofício.
+Pois bem, o Tribunal estadual, ao julgar o apelo da Acusação, consignou o seguinte com base no acervo fático-probatório dos autos (fls. 52-54):
+"Com efeito, tal qual reivindica o "parquet", ao contrário do que decidido em 1º grau, considera-se de rigor a condenação pela prática dos crimes de roubo circunstanciado pelo concurso de agentes e de extorsão qualificada, mediante restrição da liberdade da vítima, em concurso material, não apenas das corrés Naiara e Débora, mas também do corréu Luiz Ricardo, consoante precisa síntese de provas enumerada nas contrarrazões da Acusação, que ora se adotam, na parte pertinente, como razões de decidir:
+"I - A vítima reconheceu sem qualquer dúvida todos os autores do crime, inclusive Luís Ricardo ("Neguinho"), tanto na fase policial quanto em juízo, confundindo-se apenas com o apelido no momento do reconhecimento judicial (fato totalmente compreensível para um senhor de quase oitenta anos de idade);
+II - As rés confessaram na fase policial o crime e imputaram a coautoria a Clóvis e Luís Ricardo ("Neguinho") e mudaram a versão em juízo por medo de represálias (o que também é compreensível);
+III - Clóvis estava no bar de Luís Ricardo ("Neguinho") logo após o crime e foram levados até lá pelas coautoras, que sabiam que ambos estavam naquele local e foram apontados por elas como coautores dos crimes aos policiais militares (Ora, não é crível que, logo após a prática de um crime tão grave como este, um dos autores - Clóvis, que confessou a participação - tenha ido ao bar de Luís Ricardo consertar uma chopeira);
+IV - Houve troca de mensagens pelo Whatsapp entre todos os coautores dos crimes, inclusive Luís Ricardo ("Neguinho"), conforme conclusão do laudo pericial realizado no aparelho celular de Clóvis, a sentenciada Nayara conversa sobre o plano para a realização dos crimes e menciona, expressamente que é para mandar mensagem no celular do "Neguinho" (Luís Ricardo) e há mensagem trocada entre Débora e "Neguinho" (fls. 523/524).
+Ou seja, somando-se todos os elementos colhidos nos autos, a condenação é medida de rigor e, diferente do que fundamenta o nobre juiz sentenciante, não há apenas prova produzida na fase policial, mas um farto conjunto probatório a ensejar um édito condenatório ao apelado.
+Assim, ante todo o conjunto probatório e indiciário trazido aos autos, a modificação da sentença é necessária para a realização da justiça e evitar a impunidade!
+Por fim, sem menos importância, ressalte-se que, em depoimento bastante seguro, a vítima descreveu a dinâmica do roubo praticado pelos réus.
+Ademais, a vítima reconheceu todos os envolvidos tanto na fase policial como em juízo. E não é o caso de dizer que, em juízo, o apelado não foi reconhecido porque a vítima disse que se tratava de "Clovinho". Ora, trata-se de pessoa idosa (79 anos) e é de todo compreensível que ele tenha trocado os apelidos no momento do reconhecimento, até porque é um momento desconfortável para quem deve fazê-lo e pelo fato que a vítima não conhecia Luís Ricardo pelo nome, mas somente pelo apelido, "Neguinho".
+Mais não é preciso para se perceber que a condenação em relação ao apelado é inarredável" (fls. 1003/1005, com grifos no original)."
+Vale destacar que, em regra, tendo a instância ordinária reconhecido haver elementos de autoria e materialidade, a inversão do julgado, de maneira a fazer prevalecer o pleito absolutório do Agravante, demandaria "reexame aprofundado de todo o acervo fático-probatório, providência totalmente incompatível com os estreitos limites do remédio heroico, que em função do seu rito célere e cognição sumária, não admite dilação probatória" (AgRg no HC 696.574/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/04/2022, DJe 07/04/2022).
+Assim, afigura-se incabível o pleito de absolvição do Agravante quanto aos crimes imputados, especialmente, na hipótese em exame, em que o Tribunal estadual ressaltou não apenas "indícios da fase policial, que não foram confirmados em juízo" (fl. 3), mas também outros elementos probatórios.
+Por fim, cabe advertir à Defesa que, para eventual detida análise das alegações ora formuladas, pode o Agravante manejar na origem a via de impugnação adequada, qual seja, a revisão criminal (STF, HC 206.818/SC, Rel. Ministro GILMAR MENDES, julgado em 13/10/2021, DJe 14/10/2021; v.g.).
+Assim, não verifico a existência de flagrante ilegalidade a reclamar a concessão da ordem ex officio.
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
