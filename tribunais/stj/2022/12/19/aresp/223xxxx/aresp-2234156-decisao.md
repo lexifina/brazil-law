@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por BRINQUEDOS MARALEX EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+Indenizatória. Inscrição indevida. Pessoa jurídica. Valor indenizatório. Majoração.
+Deve ser majorado o valor indenizatório a título de danos morais, decorrentes da negativação indevida do nome da pessoal jurídica, quando a quantia fixada na origem se revela insuficiente, observando-se os critérios da razoabilidade e da proporcionalidade, bem como o caráter punitivo da indenização, sem que o valor arbitrado acarrete o enriquecimento sem causa da vítima, tampouco a quebra financeira do ofensor (fl. 160).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 944, caput e parágrafo único, do CC, no que concerne à necessidade de redução do valor exorbitante fixado a título de dano moral, por ser desproporcional, trazendo os seguintes argumentos:
+Conforme será demonstrado adiante, o valor da indenização arbitrada neste caso deixa de levar em consideração a extensão do dano e a conduta da recorrente, sendo, portanto, muito superior ao realmente devido, conforme expressa previsão do do art. 944, do Código Civil
+ ..
+Logo, se a negativação permaneceu ativa, a responsabilidade é exclusivamente da própria, de modo que não havia nenhuma razão para ela ser indenizada e, muito menos, para que o valor fixado.
+De qualquer forma, não houve insurgência, por parte da recorrente, acerca da indenização, resignando-se com o valor fixado pelo insigne Juízo monocrático, o que não significa que o valor por ele fixado pudesse ser majorado.
+Em outras palavras, evidente que a quantia de R$ 8.000,00 arbitrada pelo Tribunal de origem é desproporcional, já que a própria recorrida deu causa à negativação.
+ ..
+Pautada no que dispõe os referidos dispositivos, considerando que a negativação, a princípio, não era indevida, tem-se que a indenização deve ser reduzida, de modo a ser restabelecido o valor fixado em primeira instância, ou seja R$ 3.000,00, condizente com o que se observa no caso vertente (fls. 201/205)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A questão cinge-se unicamente em analisar se o valor indenizatório, fixado na origem em R$3.000,00, merece ser majorado.
+Prevalecendo o dever de indenizar, a fixação do valor a ser atribuído a título de danos morais deverá atender aos critérios da razoabilidade e proporcionalidade para que a medida não represente enriquecimento ilícito e, ainda, seja capaz de coibir a prática reiterada da conduta lesiva pelo seu causador, levando-se em conta as dimensões do dano suportado e as condições econômicas das partes envolvidas.
+No caso, a indenização fixada pelo julgador de origem, na importância de R$3.000,00, encontra-se, a meu ver, em desacordo com tais critérios, notadamente se considerado que a apelante permaneceu com seu nome negativado por cerca de cinco meses, o que, certamente, prejudicou suas atividades.
+O valor indenizatório deve ser arbitrado em R$8.000,00, porque melhor se adequa à lesão experimentada e, também, se revela de acordo com a média dos precedentes mantidos por esta Corte em casos análogos (fl. 159).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
