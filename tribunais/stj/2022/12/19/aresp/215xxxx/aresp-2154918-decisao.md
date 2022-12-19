@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DÉBORA SILVA DA COSTA (DÉBORA), em face de SAGA ENGENHARIA LTDA. E DIMENSÃO ENGENHARIA E CONSTRUÇÃO LTDA. (SAGA E OUTRA), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO CONTRA CONSTRUTORA. IMÓVEL ADQUIRIDO EM PLANTA. PRESCRIÇÃO. RECONHECIMENTO. PRAZO TRIENAL. RECURSO NÃO PROVIDO.
+1. Desde a assinatura do contrato de financiamento com a instituição bancária, tomou conhecimento de que o condomínio estaria situado na Avenida Princesa Diana, posto que é o endereço declinado no contrato (ID 8111760), assinado em 29/12/2014.
+A presente ação, porém, só foi ajuizada em 26/04/2018.
+Apelo conhecido e não provido.(e-STJ, fls. 419/430)
+Os embargos de declaração opostos por DÉBORAforam rejeitados (e-STJ, fls. 440/451).
+Irresignada, DÉBORAinterpôs recurso especial, com base no art. 105, inciso III, alínea a, da CF. Apontou a violação dos arts.27 do Código de Defesa do Consumidore205 e 206, § 3º, inciso V, do Código Civil, sustentando, em apertada síntese,que não há falar em prescrição da pretensão autoral, pois, entre avistoria do imóvel e a entrega chaves em30/3/2016 e a data do ajuizamento da pretensão em 26/4/2018, sequer houve o decurso da prescrição trienal a ensejar o reconhecimento da prescrição.Porém, ainda que não se aceite a prescrição quinquenal para pretensão indenizatória, na falta de prazo específico, melhor solução seria a aplicação do prazo decenal instado no art. 205do CC/2002.
+Foram apresentadas as contrarrazões(e-STJ, fls. 477/490).
+O apelo nobre não foi admitido por incidência das Súmulas nºs7 e 211 do STJ(e-STJ, fls. 494/499).
+Agora, em sede de agravo em recurso especial, DÉBORArebateu a tempo e modo todas as razões da decisão de inadmissibilidade recursal.
+Passo, portanto, à análise do recurso especial.
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+DÉBORAalegou a violação dos arts. 27 do Código de Defesa do Consumidor e 205 e 206, § 3º, inciso V, do Código Civil, sustentando, em apertada síntese, que não há falar em prescrição da pretensão autoral, pois,entre a vistoria do imóvel e entrega chaves em 30/03/2016 e a data do ajuizamento da pretensão em 26/04/2018, sequer houve o decurso da prescrição trienal a ensejar o reconhecimento da prescrição. Porém, ainda que não se aceite a prescrição quinquenal para pretensão indenizatória, na falta de prazo específico, melhor solução seria a aplicação do prazo decenal instado no art. 205do CC/2002.
+O TJMA entendeu ter ocorrido a prescrição da pretensão da autora, ora Recorrente, pois, entre a data da assinatura do contrato de compra e venda e a data do ajuizamento da ação, passaram-se mais de 3 anos, conforme disposto no art.206, § 3º, V, do CC,verbis:
+Entendeu a sentença guerreada que a pretensão autoral de indenização da autora pelos danos morais e materiais descritos em sua exordial, restava prescrita.
+Analisando a demanda, vejo que o motivo fundamente pelo qual ajuizou a requerente a ação é porque alega que o imóvel por ela adquirido junto a Construtora fora entrega em endereço diverso do contratado.
+Porém, como bem aponta o MM. Juiz, desde a assinatura do contrato de financiamento com a instituição bancária, tomou conhecimento de que o condomínio estaria situado na Avenida Princesa Diana, posto que é o endereço declinado no contrato (ID 8111760), assinado em 29/12/2014. A presente ação, porém, só foi ajuizada em 26/04/2018. É sabido que o exercício a destempo de um direito gera o seu perecimento, daí o brocado "o direito não socorre aos que dormem" (Dormientibus Non Sucurrit Ius).
+O prazo prescricional a ser aplicado, na espécie, é o prazo trienal descrito pelo artigo 206, parágrafo 3º, inciso V, do Código Civil.
+O caso em tela não se subsume à hipótese de reparação por danos decorrentes de fato do produto (os acidentes de consumo), para atrair o prazo quinquenal do Código de Defesa do Consumidor, como, em vão, pleiteia o recorrente.(e-STJ, fls. 423/424)
+Da análise dos autos, verifica-se que o Tribunal local entendeu que a pretensão autoral estava prescrita, pois, como entre a data da assinatura do contrato (29/12/2014) e a data do ajuizamento da ação (26/04/2018)transcorreram mais de 3 anos, foi aplicado o prazo trienal à espéciepor entender ser cabível o disposto no art. 206, § 3º, V, do CC.
+Contudo, o Superior Tribunal de Justiça tem posicionamento no sentido de que, quanto àrestituição de valores pagos por conta de rescisão de contrato de compra e venda de imóvel, cabe o prazo prescricional decenal, conforme disposto no art. 205 do Código Civil.
+Confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. 1. RESTITUIÇÃO DE VALORES PAGOS. PRESCRIÇÃO. PRAZO DECENAL. PRECEDENTES. 2. SINAL. RETENÇÃO. INVIABILIDADE. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. 3. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO INTERNO DESPROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, "a pretensão ao recebimento de valores pagos, que não foram restituídos diante de rescisão de contrato de compra e venda de imóvel, submete-se ao prazo prescricional de dez anos, previsto no art. 205 do Código Civil, e não ao prazo de três anos, constante do art. 206, § 3º, IV e V, do mesmo diploma" (AgInt no REsp 1.334.574/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2019, DJe 4/9/2019)
+ ..
+(AgInt no AREsp n. 1.855.232/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/9/2021, DJe de 30/9/2021.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA COM PACTO ADJETO DE HIPOTECA. AÇÃO REVISIONAL C/C PEDIDO DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. TERMO INICIAL. PRAZO DE PRESCRIÇÃO É O DECENAL. ARTIGO 205, DO CÓDIGO CIVIL. TERMO INICIAL PARA A CONTAGEM. VENCIMENTO DA ÚLTIMA PRESTAÇÃO. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO NO STJ NA MATÉRIA. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada ainda que em sentido diverso à pretensão da agravante.
+2. Os entendimentos da Corte local sobre o prazo prescricional e o termo inicial da contagem de aludido prazo estão em harmonia com a jurisprudência prevalecente no STJ, o que atrai a incidência da Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.849.509/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. RESCISÃO. DEVOLUÇÃO DAS PARCELAS PAGAS. PRESCRIÇÃO DECENAL. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, "a pretensão ao recebimento de valores pagos, que não foram restituídos diante de rescisão de contrato de compra e venda de imóvel, submete-se ao prazo prescricional de dez anos, previsto no art. 205 do Código Civil, e não ao prazo de três anos, constante do art. 206, § 3º, IV e V, do mesmo diploma" (AgInt no REsp 1334574/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/8/2019, DJe 4/9/2019).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.854.195/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/6/2020, DJe de 26/6/2020.)
+Portanto, como entre a data da assinatura do contrato (29/12/2014) e a data do ajuizamento da ação (26/4/2018) não transcorreram mais de 10 anos, deve ser afastada a prescrição da pretensão da autora.
+Nessas condições, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, para afastarprescrição da pretensão ao recebimento de danos morais pelo alegado descumprimento do contrato e determinar o retorno dos autos ao primeiro grau de jurisdição a fim de que aprecie esse pedido da forma como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO CONTRA CONSTRUTORA. PRAZO PRESCRICIONAL DE 10 ANOS. ART. 205 DO CÓDIGO CIVIL. PRESCRIÇÃO AFASTADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PROVIDO.
