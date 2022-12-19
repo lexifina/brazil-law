@@ -1,0 +1,10 @@
+DECISÃO
+Na Petição de fls. 214-218, e-STJ, o sindicato solicita a devolução dos autos à origem, em observância ao art. 1.040 do CPC, devido à afetação do tema dos REsps 1.965.849/DF, 1.979.911/DF e 1.965.394/DF. Para isso, defende que seja tornada sem efeito a decisão monocrática de fls. 190-195, e-STJ, e que o Agravo Interno seja julgado prejudicado.
+Assiste razão ao requerente.
+Em sessão virtual realizada em 19.10.2022, a Primeira Seção do STJ afetou os Recursos Especiais acima citados e delimitou a seguinte tese controvertida: "Necessidade ou não de apresentação do contrato celebrado com cada um dos filiados para que o sindicato possa reter os honorários contratuais sobre o montante da condenação" (Tema 1.175/STJ).
+Como a presente hipótese trata exatamente de tal questão, deve serprestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que faculte às instâncias de origem o exercício do juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC/2015. Nesse sentido: AgInt no REsp 1.833.016/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.4.2020; REsp 1.864.760/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17.4.2020; REsp 1825441/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 18.3.2020; e REsp 1.834.832/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.12.2019.
+Diante do exposto, acolho o pedido do requerente e torno sem efeito a decisão monocrática de fls. 190-195, e-STJ, julgo prejudicado o Agravo Interno de fls. 199-204, e-STJ, e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1. 040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o aresto vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
