@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpusinterposto por Edivaldo Pereira de Macedocontra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que denegou o HC n.5043122-57.2022.4.04.0000/PR, mantendoa decisão do Juízo da4ª Vara Federal de Foz do Iguaçu/PR, que, nos autos da Execução Penal n.5011587-03.2015.4.04.7002/PR,determinoua expedição de mandado de prisão para o recorrente, condenadoem regime semiaberto.
+Aqui, a defesa alega quea decisão que entendeu por expedir o mandado de prisão na fixação de regime inicial de cumprimento de pena como semiaberto não considerou o entendimento esposado pelo Supremo Tribunal Federal sobre o tema, ao não justificar a adoção da medida de expedição do mandado de prisão frente ao caso concreto apresentado, uma vez que o regime inicial para cumprimento de pena restou fixado como semiaberto(fl. 59).
+Aduz quea decisão que determinou a expedição do mandado de prisão violou a Resolução do CNJ n. 417/2021 (fl. 63).
+Requer, assim, a concessão da ordem para:I. Cassar a decisão proferida que determinou a expedição de mandado de prisão contra o paciente. II. Determinar à autoridade coautora para que intime o paciente para dar início à execução de sua pena, se for ou juízo competente para tanto; ou III. A determinação à autoridade coautora para que remeta o processo ao juízo competente para execução da pena, nos termos do art. 65 da LEP e da Súmula 192 do STJ. (fl. 66).
+O Ministério Público Federal ofereceu parecer pela concessão da ordem de ofício (fls. 82/84).
+É o relatório.
+Estou de acordo com o parecer oferecido peloSubprocurador-Geral da RepúblicaOswaldo José Barbosa Silva, cujos fundamentos a seguir transcritos adoto como razão de decidir (fls. 84/87 - grifo nosso):
+ ..
+Como se sabe, o art. 105, da Lei nº 7.210/84 e art. 674, do Código de Processo Penal estabelecem que, transitando em julgado a sentença que aplicar penaprivativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução. Sendo assim, a expedição da guia de recolhimento demanda prévia prisão do condenado ao regime semiaberto ou fechado.
+13. Nesse sentido, a orientação perfilhada pelo Superior Tribunal de Justiça era no sentido de que, nos termos do art. 105, da Lei de Execução Penal, a expedição de guia de execução definitiva estava condicionada ao prévio recolhimento do apenado ao cárcere, excetuada a hipótese da prisão causar situação excessivamente onerosa ao condenado, situação que permitiria expedir a referida guia antes do encarceramento.
+ ..
+Contudo, com a alteração do art. 23 da Resolução n. 417/CNJ, promovida pela Resolução n. 474 do mesmo órgão, passou-se a mitigar a imposição do art. 105 da LEP para os casos nos quais o regime inicial for o intermediário ou o aberto. Assim, diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada.
+ ..
+Nesse sentido, tem sido o entendimento dessa Corte Superior, conforme se observa no recente julgado a respeito do tema:
+PENAL. EXECUÇÃO PENAL. HABEAS CORPUS. CONDENAÇÃO EMREGIME INICIAL SEMIABERTO. EXPEDIÇÃO DE GUIA DEEXECUÇÃO DEFINITIVA CONDICIONADA AO CUMPRIMENTODO MANDADO PRISIONAL. ART. 105 DA LEP. MITIGAÇÃO. ADVENTO DA RESOLUÇÃO N. 474/CNJ. INTIMAÇÃO PRÉVIA. ORDEM CONCEDIDA.
+1. O entendimento por muito tempo sedimentado do Superior Tribunal de Justiça, nos termos do art. 105 da Lei de Execução Penal, indicava que a expedição de guia de execução definitiva dependia do prévio recolhimento do apenado ao cárcere. Admitindo-se, contudo, exceções em casos pontuais.
+2. Com a alteração do art. 23 da Resolução n. 417/CNJ, promovida pela Resolução n. 474 do mesmo órgão, passou-se a mitigar a imposição do art. 105 da LEP para os casos nos quais o regime inicial for o intermediário ou o aberto.
+3. Tratando-se de paciente condenado à pena de 2 anos e 8meses de reclusão em regime inicial semiaberto e diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena,não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada.
+4. Ordem concedida para determinar, com fulcro na Resolução n. 474do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena.(HC n. 757.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/11/2022, DJe de 11/11/2022, grifei).
+18. Presente, portanto, hipótese de ilegalidade flagrante apta a ensejara expedição da guia definitiva sem o prévio recolhimento do condenado.
+19. Dessa forma, opina o Ministério Público Federal pela concessão de habeas corpus, de ofício, para determinar, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena.
+ ..
+Ante o exposto, acolhendo os fundamentos do parecer ministerial, dou provimento ao recursopara determinar, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena.
+Comunique-se.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL.CONDENAÇÃO EM REGIMEINICIAL SEMIABERTO. CONDICIONAMENTO DA EXPEDIÇÃO DA GUIA DE EXECUÇÃO AORECOLHIMENTO DO APENADO À PRISÃO. IMPOSSIBILIDADE. INTIMAÇÃO DO APENADOPARA INICIAR O CUMPRIMENTO DA PENA NO REGIME ADEQUADO(RESOLUÇÃO N. 474/2022 DO CNJ). PARECER MINISTERIAL ACOLHIDO.
+Recurso provido nos termos dodispositivo.
