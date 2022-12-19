@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de tutela provisóriaformulada por YAN ARCHILA VOLPINI, visando a concessão de liminar que assegure a sua matrícula no INSTITUTO PRESBITERIANO MACKENZIE, com benefício da bolsa integral no âmbito do ProUni.
+Alega o requerente que cursou os dois primeiros anos do Ensino Médio na rede pública de ensino, notadamente na Escola Estadual HorácioManley Lane, e o terceiro e último no Objetivo São Roque, com bolsa parcial que lhe garantiu o desconto de 54,48% da mensalidade.
+Ao ser aprovado no curso degraduação de Engenharia de Produção noINSTITUTO PRESBITERIANO MACKENZIE, pleiteou a bolsa integral doPrograma Universidade para Todos -ProUni,o que lhe foi negado em razão do não cumprimento de um dos requisitos para a concessão do benefício, qual seja, que tenha o estudantecursado o Ensino Médio completo em escola da rede pública ou em instituições privadas na condição de bolsista integral, nos termos daLei n.11.096/2005, art. 2º, inciso I.
+Assevera que deve ser aplicado ao caso o princípio de razoabilidadepara resguardar ao autor o seu direito à bolsa integral do ProUni, diante de suahipossuficiência.Cita precedentes desta Corte que respaldam a tese apresentada (REsp n.1.765.508/SC eREsp n. 1.015.341/RS).
+Alegaainda queestá impedido de entrar na universidade, sem assistir as aulas, e, portanto,não pode aguardar o juízo de admissibilidade para obter a decisão sobre o efeito suspensivo.
+O Tribunal Regional Federal da 3ª Região assim decidiu sobre a controvérsia no Agravo de Instrumento n. 5012135-65.2022.4.03.0000 (fls. 38-46):
+PROCESSUAL CIVIL E ADMINISTRATIVO. TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE. AGRAVO DE INSTRUMENTO. ENSINO SUPERIOR. MATRÍCULA. BOLSA INTEGRAL. PROUNI. IMPOSSIBILIDADE. ARTIGOS 1º E 2º DA LEI N.º 11.906/05. NÃO VERIFICAÇÃO DE UM DOS REQUISITOS LEGAIS. RECURSO DESPROVIDO.
+- Para a obtenção de bolsa de estudos integral em instituição privada de ensino superior por meio do Programa Universidade para Todos - PROUNI, o estudante deve comprovar baixa renda e ser egresso da rede pública de ensino ou ter cursado o ensino médio em escola particular com bolsa integral (artigos 1º e 2º, inciso I, da Lei no 11.906/05).
+- Impossibilidade de concessão do benefício, em razão do não preenchimento de um dos requisitos legais necessários.
+- Agravo de instrumento desprovido.
+Requer, ao final, a concessão de liminar que assegure a sua matrícula no INSTITUTO PRESBITERIANO MACKENZIE, com benefício da bolsa integral no âmbito do ProUni.
+É, no essencial, o relatório.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Por sua vez, a competência do Superior Tribunal de Justiça para a apreciação de pedido de efeito suspensivo a recurso especial ainda não admitido é necessário que ojuízo de admissibilidade do recurso já tenha sido realizado pela Corte de origem,conformese extrai dos seguinte enunciados sumulares doSTF:
+Súmula 634/STF: Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem.
+Súmula 635/STF: Cabe ao presidente do tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade.
+O novo Código de Processo Civil reafirmou a orientação prevista nos mencionados enunciados, conforme explicita o art. 1.029, § 5º, III:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petiçõesdistintas que conterão:
+(..)
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+(..)
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Ressalto que apenas épossível a concessão, diretamente pelo Superior Tribunal de Justiça, de efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem, quando efetivamente demonstrada, além dos requisitos próprios da tutela de urgência, situação de manifesta ilegalidade ou teratologia, que não é o caso dos autos.
+A propósito, o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. PEDIDO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSENTE JUÍZO DE ADMISSIBILIDADE NA ORIGEM. FALTA DOS REQUISITOS PARA CONCESSÃO DA LIMINAR PRETENDIDA. DECISÃO MANTIDA.
+1. "A competência do STJ para analisar o pedido de atribuição de efeito suspensivo a recurso ordinário constitucional nasce após a conclusão da tramitação do recurso no Tribunal de origem (arts.1.027, § 2º e 1.029, § 5º, III, do CPC/2015). Excepcionalmente, é possível o exame do pedido de tutela provisória diretamente por este Tribunal caso evidenciada a teratologia da decisão impugnada e, cumulativamente, se estiverem presentes a plausibilidade do direito alegado e o risco de dano irreparável ou de difícil reparação" (AgInt no TP 2.522/AM, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021).
+2. No caso concreto, não se verifica a presença dos requisitos, pois não verificada a viabilidade das teses deduzidas no especial, que demandariam o revolvimento de matéria fática, tampouco o alegado perigo de dano irreversível.
+3. Agravo interno a que se nega provimento.(AgInt no TP n. 3.576/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. CONCURSO PÚBLICO. PRETENSÃO LIMINAR ATRELADA A RECURSO ESPECIAL AINDA NÃO ADMITIDO PELA CORTE DE ORIGEM.
+COMPETÊNCIA DESTE STJ NÃO INAUGURADA. ART. 1.029, 5o., I E III DO CÓDIGO FUX. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Consoante o art. 1.029, § 5o., I e III do Código Fux, o pedido liminar relativo ao Recurso Especial somente poderá ser dirigido a esta Corte Superior se já tiver sido publicada a decisão de admissibilidade do Apelo Nobre na origem; caso contrário, o pleito deverá ser formulado perante o Presidente ou Vice-Presidente do Tribunal local.
+2. Agravo Interno do Particular a que se nega provimento.
+(AgInt no TP n. 1.694/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma,DJe de 3/12/2020.)
+Por fim, é firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente na corte de origem, em razão do óbice da Súmula n. 7 do STJ, bem assim da Súmula n. 735 do STF. Precedente:AgInt no AREsp n. 1.907.919/RS, relator Ministro Gurgel de Faria, Primeira Turma,DJe de 24/2/2022.
+Ante o exposto, indefiro liminarmente o pedido de tutela provisória.
+Publique-se. Intimem-se.
