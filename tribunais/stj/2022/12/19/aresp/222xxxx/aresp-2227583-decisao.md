@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAIVA GOMES & COMPANHIA S.A.(PAIVA GOMES)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte(TJRN), assim ementado:
+CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM AÇÃO DE INDENIZAÇÃO. SENTENÇA DE PROCEDÊNCIA PARCIAL. CONTRATO DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DA EMPRESA E DE NECESSIDADE DE INCLUSÃO DA CAIXA ECONÔMICA NO POLO PASSIVO DA DEMANDA. AUSÊNCIA DE RESPONSABILIDADE DA CEF. ATUAÇÃO APENAS COMO AGENTE FINANCEIRO. OBRIGAÇÃO DA CONSTRUTORA. ATRASO INJUSTIFICADO NA ENTREGA DA OBRA. DANOS MORAIS DEVIDOS. QUANTUM ARBITRADO EM CONSONÂNCIA COM OS PARÂMETROS DA PROPORCIONALIDADE E RAZOABILIDADE. DANOS MATERIAIS RELATIVOS AOS ALUGUEIS PAGOS NO PERÍODO DO ATRASO. DETERMINAÇÃO DE ENTREGAR O IMÓVEL SOB PENA DE MULTA DIÁRIA. IMPOSSIBILIDADE. CONSTRUÇÃO NÃO CONCLUÍDA.REFORMA DA SENTENÇA. CONHECIMENTO E PROVIMENTO PARCIAL DO APELO.(e-STJ, fls. 365/366).
+Inconformada, PAIVA GOMES manejourecurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 186, 927 e 932 do CC e 114 do NCPC, sob o entendimento de que, (1) em decorrência da gestãodo empreendimento,a legitimidade e responsabilidade pelos danos causados ao adquirente é da Caixa Econômica Federal. Apresenta, ainda, (2)divergência jurisprudencial defendendo queo mero inadimplemento de contrato não enseja a condenação emdanos extrapatrimoniais.
+Com contrarrazões, oapelo nobre não foi admitido pelo TJRN (fls. 518/523).
+Nas razões do presente agravo, a PAIVA GOMES alegaque não incidem os óbices apontados na decisão de inadmissibilidade.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Legitimidade e responsabilidade da CEF
+Nas razões do recurso especial, PAIVA GOMES defendeque aCEF deve integrar a lide em litisconsôrcio necessário e ser responsabilizada pelos danos causados ao consumidor, tendo em vista sua atuação como gestora dos recursos e do empreendimento.
+Da leitura dos fundamentos do acórdão recorrido, entretanto, verifica-se que o Tribunal de origem concluiu que, no caso, a CEF agiu apenas como agente financeiro do empreendimento imobiliário, não lhe podendo ser atribuída nenhuma responsabilidade pelo descumprimento do contrato no tocante à entrega da obra.
+A conclusão do acórdão recorrido encontra respaldo na jurisprudência desta Corte e, ademais, para ultrapassar a conclusão do Tribunal de origem acerca da atuação da instituição financeira seria necessária a interpretação de cláusulas do contrato celebrado entre as partes, assim como a incursão nas premissas fáticas dos autos, o que se afigura inviável nesta sede excepcional, ante os óbices das Súmulas nºs 5 e 7 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA MINHA VIDA. DESFAZIMENTO CONTRATUAL MOTIVADO PELA MORA DOS VENDEDORES. INCLUSÃO DO AGENTE FINANCEIRO NO POLO PASSIVO DA DEMANDA. QUESTÃO SOLUCIONADA COM BASE NA INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E NO EXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+3. No caso em apreço, o Tribunal estadual concluiu que a empresa pública agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a realização da obra firmado com o ora recorrente. Desse modo, a revisão do julgado encontra óbice nas Súmulas nºs 5 e 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.000.984/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. VÍCIOS DE CONSTRUÇÃO. CAIXA ECONÔMICA FEDERAL. LEGITIMIDADE PASSIVA. INEXISTÊNCIA. MERO AGENTE FINANCEIRO. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir a legitimidade passiva da Caixa Econômica Federal para responder pelo atraso na entrega e por vícios de construção de imóvel.
+3. O Superior Tribunal de Justiça consolidou entendimento no sentido de que a Caixa Econômica Federal não possui legitimidade passiva para responder a demanda que discute atraso na entrega e vícios de construção de imóvel, quando atua na condição de mero agente financeiro.
+4. Na hipótese, rever o entendimento da instância ordinária, que concluiu que a Caixa Econômica Federal atuou apenas como agente financeiro, demanda o reexame de cláusulas do contrato e das provas constantes dos autos, procedimentos obstados pelas Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.952.898/RN, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+(2)Dano moral
+Analisando a existência de dano moral pelo atraso na obra, a sentença, confirmada quanto ao ponto pelo acórdão recorrido,assim fundamentou:
+Apesar do entendimento atual do Superior Tribunal de Justiça no sentido de que o mero inadimplemento contratual, ou seja, o mero atraso na entrega do imóvel, por si só, não geraria o dever de indenizar pelos supostos danos morais, havendo a necessidade de comprovar os pressupostos da responsabilidade civil, tem-se que na presente demanda está mais do que demonstrado o abalo moral que vem suportando a demandante, considerando, sobretudo, o longo período de espera, quase quatro anos, e a frustração do sonho de adquirir a casa própria. (e-STJ, fl. 267)
+Desse modo, estando o pedido baseado em fatos diversos, especialmente o atraso excessivo na entrega da obra, deve ser mantida a condenação em danos morais.
+Anotem-se precedentes desta Corte sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. PREQUESTIONAMENTO AUSENTE. SÚMULA 282/STF. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada quanto à tese sobre a restituição da comissão de corretagem. Incidência da vedação prevista na Súmula 282/STF.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi superior a um ano e quatro meses após a expiração do prazo de tolerância.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.983.175/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL  AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Segundo a jurisprudência deste Superior Tribunal de Justiça, se a situação exposta ultrapassar o mero dissabor, com peculiaridades analisadas pelo Tribunal de origem, no sentido de que o atraso na entrega do imóvel adquirido foi por longo período, é possível a condenação em danos morais, situação esta evidenciada na hipótese.
+Incidência da Súmula 83 do STJ. Precedentes.
+2. Rever o entendimento do Tribunal de origem, no sentido de aferir a ausência de demonstração de danos morais indenizáveis, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.924.062/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. INAPLICABILIDADE. REVISÃO. SÚMULAS 5 E 7/STJ. DANO MORAL. ATRASO EXCESSIVO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Concluindo a instância originária ter ocorrido atraso na entrega do imóvel, mostra-se vedado ao Superior Tribunal de Justiça, em julgamento de recurso especial, rever o posicionamento adotado devido à incidência da Súmula 7/STJ.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, inexiste dano moral com o mero descumprimento contratual, exceto quando verificada situação peculiar apta a justificar o reconhecimento de violação a direito da personalidade.
+3. De acordo com a orientação jurisprudencial deste Tribunal Superior, o longo período de atraso na entrega do imóvel configura dano extrapatrimonial indenizável.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.003.228/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2022, DJe de 29/4/2022.)
+Nessas condições, CONHEÇOdo agravo e NÃO CONHEÇO dorecurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EMRECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMÓVEL. AGENTE FINANCEIRO. ILEGITIMIDADE. ATRASOEXCESSIVO NA ENTREGA.DECISÃO PROFERIDA DE ACORDO COM O ENTENDIMENTO DESTA CORTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
