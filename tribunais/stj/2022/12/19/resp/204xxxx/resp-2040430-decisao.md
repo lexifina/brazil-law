@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELAINE SALERA DE CARVALHO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO INTERNO -DECISÃO MONOCRÁTICA -INDEFERIMENTO DO PEDIDO DE ASSISTÊNCIA JUDICIÁRIA -MICROEMPRESARIO INDIVIDUAL -HIPOSSUFICIÊNCIA NÃO COMPROVADA -DECISÃO MANTIDA.
+-Diante do permissivo legal inserto no art. 932, I, CPC/2015, compete ao relator dirigir o processo no tribunal, podendo decidir monocraticamente na análise de matérias já pacificadas.
+-Considerando que o microempreendedor individual trata-se de uma pessoa natural que exerce atividade profissional em nome próprio, o benefício da justiça gratuita deve ser analisado à luz dos dispositivos legais pertinentes à pessoa física.
+-A despeito da previsão legal da presunção relativa de necessidade (art. 99, § 2º, do NCPC), pode o magistrado indeferir a justiça gratuita, quando verificar a existência de elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade (art. 99, § 1º do Código de Processo Civil)" (fl. 1.493, e-STJ).
+Opostos embargos de declaração por ambas as partes, foram acolhidos os do recorridopara esclarecer que a multa aplicada seria correspondente a 1% (um por cento) sobre o valor atualizado da causa(fls. 1.524/1.526 e 1.560/1.567, e-STJ).
+No recurso especial, a recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos, com as respectivas teses:
+(i) artigos 932, inciso IV, e 1.019 do Código de Processo Civil de 2015 (CPC/2015) - porque a Corte de origem não poderia ter julgado o agravo de instrumento singularmente, não servindoo precedente apontado paraamparar a conclusão do relator;
+(ii) artigo 1.021, § 3º, do CPC/2015 - porque o acórdão que julgou o agravo interno éidênticoà decisão singular proferida anteriormente, não tendo sido analisados os argumentos suscitados, como o de que os fundos mencionadosseriam, na realidade, decorrentes de empréstimos tomados e não de poupança;
+(iii) artigo 489, § 1º, inciso IV, do CPC/2015 - porque o acórdão contém omissões, as quais não foram supridas nem sequer após a oposição dos aclaratórios;
+(iv) artigo 1.021, § 4º, do CPC/2015 - porque a multa prevista no referido dispositivo legal não é de aplicação automática, dependendo sua incidência de que o recurso seja manifestamente inadmissível ou de não procedência evidente, o que não ocorreu na hipótese. Aponta como paradigma o AgInt no EREsp nº 1.120.356/RS.
+Requer o provimento do recurso especial para que seja declarado nulo o julgamento do agravo de instrumento por decisão monocrática, ou para que o acórdão proferido no julgamento do agravo interno seja anulado e, caso superadas essas preliminares, para que seja afastada a multa do artigo 1.021, § 4º, do Código de Processo Civil de 2015.
+Apresentadas contrarrazões (fls. 1.658/1.669, e-STJ), e admitido o recurso na origem, ao qual foi atribuído efeito suspensivo (fls. 1.673/1.676, e-STJ), subiram os autos a esta Corte Superior.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015(Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar em parte.
+Cumpre assinalar, inicialmente, que a jurisprudência desta Corte é firme no sentido de que o julgamento colegiado do agravo interno supre eventual violação ao princípio da colegialidade, pois a análise do recurso é submetida ao órgão competente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Eventual vício na decisão monocrática que julga o recurso com base no art. 932 do NCPC é superado pelo exame colegiado da pretensão.
+2. Não se verifica violação aos arts. 128 e 460 do CPC/73, quando o Tribunal local pronuncia-se de forma fundamentada, clara e coerente sobre as questões postas para análise, ainda que contrariamente aos interesses da parte recorrente. Precedentes.
+3. Sem pedido expresso da parte autora, configura julgamento extra petita a declaração de nulidade de cláusulas de contrato bancário.
+4. Agravo interno desprovido."
+(AgInt no AREsp 442.974/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/06/2020, DJe 10/06/2020 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.DUPLICIDADE DE ARREMATAÇÕES DE IMÓVEIS. REGISTRO DO TÍTULO AQUISITIVO. NECESSIDADE. PRECEDENTES. DECISÃO SINGULAR QUE NEGOU PROVIMENTO AO ARESP. CONTESTAÇÃO DA PARTE AUTORA. POSSIBILIDADE.PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. O relator está autorizado a decidir singularmente recurso (artigo 932, do Código de Processo Civil de 2015, antigo 557). Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em sede de agravo interno.
+3. Nos termos da jurisprudência desta Corte, havendo duplicidade de arrematações sobre o mesmo imóvel em juízos distintos, aquele que promover primeiramente o registro do título aquisitivo adquire o respectivo domínio. Precedentes.
+4. Agravo interno não conhecido."
+(AgInt nos EDcl no AREsp 1071530/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/05/2020, DJe 06/05/2020 - grifou-se)
+Na hipótese dos autos, ainda que a recorrente afirme que o acórdão recorrido se limitou a reproduzir a decisão singular, verifica-se que a Corte de origem fezmenção aos empréstimos realizados, não os considerando suficientes para justificar o pedido de assistência gratuita, além de acrescentarque entendeu serem os valores em conta oriundos de poupança (investimento)já que contavam com o código 51, referente a aplicações financeiras, conforme se verifica do seguinte trecho do aresto recorrido:
+"(..)
+Assim, ainda que venha a Agravante passando por período de dificuldades financeiras, tendo em vista a existência de empréstimos bancários, tal fato, por si só, não tem o condão de comprovar sua hipossuficiência. Soma-se a isso o fato de ser a Agravante aposentada do Banco do Brasil, percebendo, mensalmente, a quantia de R$ R$ 4.500,00 (quatro mil e quinhentos reais). Referido montante, a meu sentir, não configura a hipossuficiência alegada hábil a amparar a concessão da benesse.
+Ademais, ainda que assim não fosse, a despeito de realmente existirem empréstimos bancários em nome da firma individual, os extratos bancários de ordem 48 a 50 daquele instrumento deixam entrever o resgaste de valores oriundos de conta poupança ( código 51) existente em nome da Agravante, além, é claro, do empréstimo de R$ 300.000,00 ( trezentos mil reais) realizado em favor do seu filho, como bem afirmou o d. Julgador de primeiro grau.
+Aliás, do exame dos extratos bancários em questão, pode-se inferir, inclusive, aplicações financeiras (código 51) realizadas pela Agravante o que, a meu sentir, corrobora a sua condição de arcar com o pagamento das custas processuais sem prejuízo do seu próprio sustento" (fl. 1.500, e-STJ - grifou-se).
+Assim, o acórdão enfrentou as questões postas em debate na medida necessária para o deslinde da controvérsia, não se podendo falar em falta de fundamentação.
+No que respeita à persistência de omissões ou equívocos após o julgamento dos aclaratórios, verifica-se que a recorrente não aponta violação do artigo 1.022 do CPC/2015, o que atrai a incidência da Súmula nº 284/STF.
+Em relaçãoà multa do artigo 1.021, § 4º, do CPC/2015, assiste razão à recorrente. De fato, ajurisprudência desta Corte se firmou no sentido de que a aplicação da multa não é automática, dependendo da comprovação de que o recurso era manifestamente incabível ou não procedente de plano, como se verifica dos seguintes precedentes:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. AFASTAMENTO DAS INDENIZAÇÕES POR DANOS MORAIS E POR LUCROS CESSANTES. AUSÊNCIA DE INTERESSE RECURSAL. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As questões relativas às indenizações por danos morais e por lucros cessantes estão prejudicadas, por ausência de interesse recursal.
+3. Esta Corte Superior possui jurisprudência consolidada de que incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente vendedora, conforme foi reconhecido no caso.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+5. Agravo interno não provido."
+(AgInt no AREsp nº1.912.406/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE QUANTIAS PAGAS C/C INDENIZAÇÃO POR DANO MORAL. RELAÇÃO DE CONSUMO. VÍCIO DO PRODUTO. VEÍCULO. DECADÊNCIA. DANO MORAL. AUSÊNCIA DE PRESSUPOSTOS. SÚMULA 7/STJ. DISPOSITIVO LEGAL TIDO POR VIOLADO NÃO APONTADO. SÚMULA N. 284/STF. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem concluído pela ocorrência do prazo decadencial e pela inexistência de dano moral, a revisão de tais entendimentos não está ao alcance desta Corte Superior, por demandar o reexame do conjunto fático-probatório dos autos, providência vedada nesta instância especial, nos termos da Súmula 7/STJ.
+2. Não apontado o dispositivo legal tido por violado, incide, na hipótese, o enunciado n. 284 da Súmula do Supremo Tribunal Federal, aplicável por simetria ao recurso especial.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+4. Agravo interno desprovido."
+(AgInt no AREsp nº2.127.436/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022 - grifou-se)
+Na hipótese, a multa foi aplicada em razão do simples não provimento do agravo interno por unanimidade, motivo pelo qual deve ser afastada.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, dou-lhe parcial provimento para afastar a multa do artigo 1.021, § 4º, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
