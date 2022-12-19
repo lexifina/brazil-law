@@ -1,0 +1,17 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento, objetivando seja determinado que o agravado devolva o montante que recebeu a maior a título de tutela antecipada eseja decidido que nenhum valor é devido a título de honorários advocatícios. No Tribunal a quoo agravo de instrumento foi improvido. O valor da causa foi fixado em R$ 30.000,00.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. BENEFÍCIO PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA. DEVOLUÇÃO. DESNECESSIDADE. ENTENDIMENTO DO E. STF. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO ADMINISTRATIVO. BASE DE CÁLCULO. I - Não há que se falar em devolução de eventuais parcelas recebidas pela parte autora, a título de auxílio-doença, tendo em vista sua natureza alimentar e a boa-fé da demandante, além deterem sido recebidas por força de decisão judicial que determinou a antecipação dos efeitos da tutela. Nesse sentido: STF, ARE 734242, Rel. Min. ROBERTO BARROSO, DJe de 08.09.2015. II - Os valores pagos administrativamente, em cumprimento da antecipação dos efeitos da tutela, não interferem na base de cálculo dos honorários advocatícios, que devem corresponderà totalidade das prestações que seriam devidas até a data da sentença. III - Agravo de instrumento do INSS improvido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Entretanto, razão não assiste ao INSS, eis que não há que se falar em devolução de parcelas recebidas pela parte autora, a título de auxílio-doença, tendo em vista sua natureza alimentar e a boa-fé do demandante, além de terem sido recebidas por força de decisão judicial que determinou a antecipação dos efeitos da tutela.
+ ..
+Por outro lado, assinalo que os valores pagos administrativamente, por força da antecipada dos efeitos da tutela, não interferem na base de cálculo dos honorários advocatícios, que devem corresponder à totalidade das prestações que seriam devidas até a data da sentença.
+ ..
+Assim, mantenho a decisão agravada, uma vez que se encontra em harmonia com os parâmetros in totum ora discriminados, bem como com os termos definidos no título executivo.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
