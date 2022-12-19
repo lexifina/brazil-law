@@ -1,0 +1,17 @@
+DECISÃO
+JHONATAS KAERLLY SOUZA DOS SANTOSagrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia(Apelação Criminal n. 0500996-48.2018.8.05.0113).
+Nas razões do agravo, a defesa afirma que "não objetiva a defesa qualquer reabertura da instrução probatória ou reexame da prova, mas tão somente trazer elementos para fins de revaloração da prova, a fim de que seja reconhecido e declarado a ilicitude das provas colhidas quando da formação da culpa em face da invasão do domicílio do acusado sem qualquer ordem judicial, bem como dos laudos periciais, o quecontamina as provas derivadas, impondo-se ainda a desclassificação do delito tipificado no art. 33 para o art. 28 da lei de drogas, objetivando a correção de equívoco verificado na instância ordinária (TJ-BA)" (fls. 450-451).
+Além disso, assevera que "a utilização do enunciado n.º 83 da súmula do stj como óbice ao conhecimento do recurso especial interposto com fundamento na contrariedade ou negativa de vigência a tratado ou lei federal - alínea "a" do permissivo constitucional - viola o princípio constitucional do devido processo legal, entre outros, conforme citado no artigo acima transcrito" (fl. 459).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo(fls. 505-507).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+Extrai-se dos autos que a Corte estadual obstou o prosseguimento do recurso especial diante da necessidade de reexame de prova (Súmula n. 7 do STJ), bem como daincidência daSúmulan. 83do STJ.
+Ao analisar os argumentos trazidos pela defesa nas razões recursais, nos termos delineados no relatório, observo que não houve fundamentação clara, específica e pormenorizada capaz de infirmar os óbices aplicados pelo Tribunal a quo.
+No que diz respeito à Súmula n. 7 do STJ, o agravante, em nenhum momento, desenvolveu, com um mínimo de profundidade, as razões pelas quais, na visão da defesa, a pretensão de alterar o que já decidido pelas instâncias ordinárias não demandaria o revolvimento de matéria fático-probatória.
+Na verdade, a parte se valeu de assertivas genéricas em sentido contrário às afirmações da decisão agravada como forma de refutá-la.
+Além disso,não trouxe também nenhum precedente que pudesse demonstrar a inaplicabilidade do julgado colacionado na decisão impugnada - qual seja, o entendimento pacificado do STJ sobre a inviolabilidade do domicílio e imprestabilidade dos depoimentos de policiais.
+Aliás, entende esta Corte Superior que, "Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ(AgRg no AREsp n. 1.874.097/SC, relator Ministro João Otávio de Noronha, 5ªT., DJe de 15/8/2022).
+Portanto, verifica-se que o agravante não rebateu, concretamente, todos os óbices da inadmissão do recurso especial.
+Assim, é inegável a aplicação, na espécie, da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
