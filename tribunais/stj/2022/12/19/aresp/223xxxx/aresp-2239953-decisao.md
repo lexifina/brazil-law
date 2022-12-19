@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ, com base na alínea a do permissivo constitucional, contra acórdão da Segunda Câmara Especializada Criminal do Tribunal de Justiça piauiense que concedeu ordem de habeas corpus em favor de Ruan Moura Borges Oliveira.
+No apelo especial, o Parquet estadual apontou violação dos arts. 282, incisos I eII e §6º; 312, caput e §2º; 313, inciso I; 315, caput e §1º; e 619, todos do Código de Processo Penal, por entender que fora "amplamente comprovado os pressupostos, requisitos e fundamentos da prisão preventiva, sendo incensurável tal medida extrema a fim de acautelar-se o resultado útil do processo, não merecendo acolhida as razões adotadas pelo douto desembargador relator, acerca das condições subjetivas favoráveis ao acusado e de que as medidas alternativas impostas seriam suficientes para preservar a regular instrução processual."(e-STJ fl. 259). Requereu, ao final, o provimento do recurso especial a fim de que fosse restabelecida a prisão preventiva do acusado.
+No entanto, o recurso especial foi inadmitido em razão do óbice da Súmula n. 7/STJ.
+O recorrente manejou, então, o presente agravo, insurgindo-se contra a inadmissibilidade do recurso especial, sustentando que o acolhimento da pretensão recursal não demandaria reexame de prova, mas apenas a sua revaloração.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Na espécie, a Corte estadual concedeu a ordem de habeas corpus para substituir aprisão preventivapor medidas cautelares diversas, nos seguintes termos (e-STJ fls. 197/208):
+O paciente foi preso em flagrante, posteriormente convertido em preventiva, pela suposta prática do crime de tráfico de drogas interestadual, em razão de ter sido encontrado, dentro do seu veículo, malas contendo maconha. Na ocasião, o paciente e o acusado Valdenor de Jesus estavam na rodoviária de Picos-PI comprando uma passagem para a cidade de Fortaleza-CE, bilhete este que estaria em nome deste último investigado (Valdenor). Confira-se:
+ ..
+A Lei 12.403/11, que alterou a prisão processual, possibilitou a aplicação de medidas cautelares diversas da prisão, inserindo a prisão preventiva como última ratio.
+Com efeito, o art. 282, §6º, do CPP, dispõe que "a prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautela, observado o art. 319 (..)".
+A propósito, a doutrina de Paccelli: "É que agora, a regra deverá ser a imposição preferencial das medidas cautelares deixando a prisão preventiva para casos de maior gravidade, cujas circunstâncias sejam indicativas de maior risco à efetividade do processo ou de reiteração criminosa. Esta, que, em princípio, deve ser evitada, passa a ocupar o último degrau das preocupações com o processo, somente tendo cabimento quando inadequadas ou descumpridas aquelas (as outras medidas cautelares)".
+No caso, não obstante a quantidade significativa de droga apreendida, considerando que o paciente é primário, sem registros criminais (Sistema Themis), possui endereço fixo, além do crime não envolver violência ou grave ameaça contra pessoa e a dinâmica dos fatos indicarem a sua participação como "mula", a aplicação de medidas cautelares diversas da prisão se revela mais adequada, neste momento, para resguardar a ordem pública, garantir a aplicação da lei penal e o bom andamento da instrução.
+A propósito, já decidiu o STJ: "Embora o édito prisional indique a necessidade da prisão cautelar, a imposição das medidas cautelares revela-se mais adequada e proporcional ao caso. Isso porque o paciente é primário, a conduta foi praticada sem violência ou grave ameaça e a dinâmica dos fatos sinaliza para uma participação não tão relevante, assemelhando-se à figura da "mula"".
+Dessa forma, nos termos do art. 282, I e II, do CPP, alterado pela Lei 12.403/11 3 , cabível e proporcional a aplicação das medidas cautelares diversas da prisão previstas no art. 319, incisos IV e V do CPP ao paciente, quais sejam: IV - proibição de ausentar- se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução; V- recolhimento domiciliar no período noturno.
+Como se vê, a despeito da gravidade da conduta delitiva, o Tribunal de origem, soberano quanto à análise dasprovase fatos que instruem a ação penal, examinando detidamente as particularidades do caso em apreço e a atuação individualizada do agente, concluiu que, na espécie, não mais subsistiriam os fundamentos que justificaram aprisãocautelar, considerando adequada a aplicação de medidas diversas ao ora recorrido.
+Desse modo, uma vez constatada pela Corte a quo, fundamentadamente, a desnecessidade da segregação cautelar, a alteração do resultado do julgamento, a fim de se reconhecer a violação do art.312do Código de Processo Penal, nos termos aqui apresentados, exigiria incursão no conjunto fático-probatório, o que não é possível na via eleita,conforme se extrai daSúmulan. 7/STJ.
+Nesse sentido:
+AGRAVOEMRECURSO ESPECIAL.PEDIDO DEPRISÃO PREVENTIVA.INDEFERIMENTO. RÉU FORAGIDO. FUNDAMENTAÇÃO INSUFICIENTE.REEXAMEDEPROVAS.NÃO PROVIMENTO.
+1. Não é cabível, no âmbito dorecurso especial,apreciar a fundamentação da decisão que indefere o pedido deprisão preventivado réu, na hipótese De a decisão impugnada apresentar motivos suficientes para tal indeferimento, por se trata de fundamentação idônea e, portanto, demandarreexamede matéria de fato, matéria deprova,que encontra óbice naSúmulan.7do STJ.
+2.Agravoregimental não provido.
+(AgRg no AREsp n. 1.534.967/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/12/2019, DJe de 3/2/2020.)
+PENAL E PROCESSUAL PENAL.AGRAVOREGIMENTAL NOAGRAVOEMRECURSO ESPECIAL.PLEITO MINISTERIAL PARA RESTABELECERPRISÃO PREVENTIVA.IMPOSSIBLIDADE.SÚMULA7/STJ.
+O pleito ministerial, no sentido de se verificar a comprovação dos requisitos elencados nos arts.312e 313 do Código de Processo Penal para restabelecer aprisão preventivado ora agravado encontra óbice intransponível naSúmulan.7desta Corte, por implicar, necessariamente, no revolvimento do material fático-probatório delineado nos autos, providência incabível na via eleita.
+Agravoregimental não provido.
+(AgRg no AREsp n. 1.132.897/PA, relator Ministro Felix Fischer, Quinta Turma, julgado em 23/11/2017, DJe de 1/12/2017.)
+PENAL E PROCESSO PENAL.AGRAVOREGIMENTAL NOAGRAVOEMRECURSO ESPECIAL.VIOLAÇÃO AOS ARTS. 282,312,313 E 319 DO CPP.PRISÃO PREVENTIVA.RESTABELECIMENTO.REEXAMEFÁTICO-PROBATÓRIO.
+IMPOSSIBILIDADE.SÚMULA7/STJ.AGRAVOREGIMENTAL DESPROVIDO.
+1. Havendo entendimento do Tribunal de origem de que outras medidas cautelares diversas daprisãosão mais adequadas ao caso, não é possível esta Corte Superior alterar o referido entendimento e restabelecer a custódiapreventiva,sob pena de incorrer em indevidoreexamedo acervo fático-probatório dos autos.
+2. No caso dos autos, não é possível, em sede derecurso especial,acolher a pretensão doMinistério Públicopara restabelecer aprisão preventiva,pois demandariareexamede fatos eprovas,o que é vedado nos termos do enunciado7daSúmulado Superior Tribunal de Justiça, verbis: "A pretensão de simplesreexamedeprovanão ensejaRecurso Especial".
+3.Agravoregimental a que se nega provimento.
+(AgRg no AREsp n. 1.069.988/MT, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 4/5/2017, DJe de 11/5/2017.)
+PROCESSO PENAL. VIOLAÇÃO DO ART.312DO CPP.PRISÃO PREVENTIVA.REEXAMEDEPROVAS.IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULA7/STJ.
+1. Para a análise da tese recursal, no sentido de que existem elementos aptos a fundamentar aprisão preventivado agravante para garantia da ordem pública, mostra-se, no caso, imprescindível oreexamedos elementos fático-probatórios dos autos, o que é defeso em âmbito derecurso especial,em virtude do disposto naSúmula 7desta Corte. Precedentes.
+2.Agravoregimental a que se nega provimento.
+(AgInt no AREsp n. 921.943/BA, de minha relatoria, Sexta Turma, julgado em 7/2/2017, DJe de 16/2/2017.)
+Desse modo, correta a decisão que negou seguimento ao recurso especial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
