@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Socialcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 50):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO.RAZÕES RECURSAIS DISSOCIADAS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+Inviável o conhecimento do recurso nas hipóteses em que as razões recursais encontram-se dissociadas da decisão atacada, na forma do disposto no artigo 932, inciso III do Código de Processo Civil.
+Opostos embargos declaratórios, foram rejeitados (fls. 77/80).
+Nas razões do recurso especial, a parte agravante apontaviolação aos arts. 932, III, 1.016 e 1.022, II, do CPC. Sustenta, em síntese, negativa de prestação jurisdicional eque "a matéria atinente aos consectários legais (juros e correção monetária) é de ordem pública, devendo ser conhecida em qualquer tempo e grau de jurisdição.De outro ponto, na impugnação ofertada pela Autarquia (ev. 58 dos autos de origem), expressamente foi ressaltado a incorreção do percentual do índice adotado." (fls. 93/94)
+Aduz que "o recurso questiona especificamente os argumentos da decisão agravada, sendo, portanto, inequívoco o error in iudicando da decisão combatida. Logo, demonstra-se a devolução ao TRF4 do âmbito recursal ventilado em petição inicial do presente agravo de instrumento, não cabendo penalizar a Administração por reiterar (em agravo de instrumento) o quanto sustentado perante o juízo a quo (em impugnação em 1ª instância) justamente porque não apreciado por aquele juízo." (fl. 94)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mais, colhe-se do acórdão o seguinte trecho, verbis (fls. 53/54):
+(..) conforme os elementos dos autos, o Juiz de Primeiro Grau, na decisão recorrida, limitou-se a estabelecer que os valores devidos deverão ser corrigidos pelo IPCA-E, a partir de junho/2009.
+Já em seu agravo de instrumento, o INSS alega que o critério aplicado pela parte exequente na atualização monetária, embora tenha sido indicado como IPCA-E, não corresponde efetivamente ao referido índice.
+Vê-se, portanto, que as razões de agravo estão claramente dissociadas da decisão de origem, eis que têm por objeto questão não apreciada pelo Juízo a quo na decisão agravada.
+Com efeito, na decisão recorrida o Juiz de Primeiro Grau estabeleceu que os valores em execução devem ser atualizados por meio aplicação do IPCA-E a partir de junho de 2009. A parte agravante, por sua vez, não traz em seu recurso qualquer fundamento apto a impugnar o entendimento adotado na decisão recorrida, na medida em que concorda com a aplicação do referido índice, discordando dos percentuais efetivamente utilizados nos cálculos elaborados pelo exequente a título de IPCA-E, o que não foi objeto da decisão recorrida.
+Destaque-se que não foram opostos embargos de declaração pelo INSS, em face da decisão ora agravada.
+Desse modo, estando as razões do Agravo de Instrumento dissociadas da decisão de origem, incumbe ao Relator, nos termos do art. 932, III, do Código de Processo Civil, "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
