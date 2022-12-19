@@ -1,0 +1,79 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “Direta de Inconstitucionalidade – Município de São Bernardo do Campo - Alegação de inconstitucionalidade da Lei Municipal nº 6.977/2021, que ‘Dispõe sobre autorização legislativa ao poder executivo para promover a extinção do Instituto Municipal de Assistência à Saúde do Funcionalismo (IMASF), e dá outras providências’ - Criação ou extinção de entidades da Administração descentralizada é prerrogativa do Chefe do Poder Executivo - Descabido o controle na norma em face de diplomas infraconstitucionais - Princípios da legalidade, finalidade, moralidade, interesse público, motivação, proporcionalidade ou proibição do retrocesso social. não violados - Ação improcedente”.
+
+    No recurso extraordinário, amparado nas alíneas “a” e “c” do permissivo constitucional, defende-se a vulneração das normas dos artigos 5º, incisos XXXIII, LXXIII, 25, 37, 55, inciso II, e 85, inciso V, 194, 195 e 196 da Constituição Federal, em virtude da violação aos princípios da legalidade, moralidade, publicidade, finalidade, proporcionalidade e não retrocesso social.
+
+    O recorrente alega que a votação, na Câmara Municipal de São Bernardo do Campo, do projeto de lei que resultou na lei impugnada desrespeitou o processo legislativo, sob o argumento de que:
+
+     “Resta cristalino que não houve boa-fé por parte da Administração Pública, visto que esse PL foi votado às escondidas e em tempo incabível para matéria de tamanha complexidade, mesmo com apontamentos realizados pelo Sindicato e por uma vereadora da casa sobre a imoralidade contida no trâmite. A única razão aparente para que tamanho retrocesso seja aplicado em forma de Lei, passando por cima de dispositivos legais, constitucionais e da vontade do povo, é o benefício de uma ideia de poucos em detrimento da vontade de muitos, ferindo a moral que deve ter o Poder público, e caracterizando-se uma ofensa a este princípio constitucional imprescindível”.
+
+    Sustenta que
+
+    “ao tramitar um Projeto de Lei de forma ‘relâmpago’, sem resguardar, dentre outros elementos, um prazo razoável para dar devida publicidade ao projeto, e muito menos para receber questionamentos da população, os Réus atentam contra a boa-fé e contra os interesses do povo, ferindo não só um princípio da Constituição, mas toda a estrutura jurídica e política da União”.
+
+    Requer que seja julgada inconstitucional a Lei municipal nº 6.977/21 de São Bernardo do Campo, que determinou a extinção do IMASF- Instituto Municipal de Assistência à Saúde do Funcionalismo.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    O Órgão Especial do Tribunal de Justiça do Estado de São Paulo julgou improcedente a ação direta de inconstitucionalidade ajuizada em face da Lei municipal nº 6.977/21 de São Bernardo do Campo/SP, de iniciativa do poder executivo, a qual autoriza a extinção do Instituto Municipal de Assistência à Saúde do Funcionalismo (IMASF).
+
+    O acórdão recorrido, quanto à celeridade na tramitação do projeto de lei do qual se originou a Lei municipal combatida, entendeu que
+
+    “trata-se de matéria interna corporis, de atribuição típica do Poder Legislativo, insuscetível de intervenção judicial no tocante à interpretação e aplicação de normas exclusivamente regimentais.
+
+    Com efeito, em observância ao postulado da separação dos Poderes, é descabido invocar o controle judiciário para invadir prerrogativas dos membros do Poder Legislativo local no que tange ao regular exercício de suas funções, debate político no processo legislativo e adoção de prazos regimentais, em razão da relevância social da matéria votada”.
+
+    É pacífico o entendimento desta Suprema Corte no sentido de ser restrito o controle judicial sobre os atos interna corporis relacionados ao trâmite de propostas no âmbito de Casas Legislativas, sob pena de violação ao postulado da separação de poderes. Neste sentido são os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. INCONSTITUCIONALIDADE FORMAL DA LEI 13.654/18 RECONHECIDA PELO ÓRGÃO ESPECIAL DO TJDFT. IMPOSSIBILIDADE DE CONTROLE JURISDICIONAL EM RELAÇÃO À INTERPRETAÇÃO DE NORMAS REGIMENTAIS DAS CASAS LEGISLATIVAS. ASSUNTO INTERNA CORPORIS. PRESUNÇÃO DE CONSTITUCIONALIDADE DOS ATOS NORMATIVOS. UTILIZAÇÃO DE ARMA BRANCA NO ROUBO MAJORADO. EXCLUSÃO DA CAUSA DE AUMENTO DECORRENTE DA REVOGAÇÃO PROMOVIDA PELA LEI 13.654/2018. APLICABILIDADE RECONHECIDA POR ESTA CORTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. In casu, o TJDFT detectou vício formal de inconstitucionalidade em temáticas estranhas ao procedimento legislativo constitucionalmente previsto na Seção VIII (arts. 59 a 69) da CARTA MAGNA, circunstância em que estaria o Poder Judiciário legitimado para examinar a lisura jurídico-constitucional de seu trâmite pelas Casas Legislativas. 2. Não é possível o controle jurisdicional em relação à interpretação de normas regimentais das Casas Legislativas, sendo vedado ao Poder Judiciário, substituindo-se ao próprio Legislativo, dizer qual o verdadeiro significado da previsão regimental, por tratar-se de assunto interna corporis, sob pena de ostensivo desrespeito à Separação de Poderes, por intromissão política do Judiciário no Legislativo. 3. Até que se declare a inconstitucionalidade de determinada lei editada pelo Poder Legislativo pátrio de modo devidamente fundamentado, o ato normativo goza de presunção de constitucionalidade quando inserto no nosso ordenamento jurídico. Precedentes. 4. Esta SUPREMA CORTE vem chancelando a aplicação pelas instâncias jurisdicionais ordinárias do preceito federal ora em exame aos casos em que indicada a incidência da novatio legis in mellius, para os fins de exclusão da causa de aumento de pena constante do art. 157, § 2º , I, do Código Penal, revogado pela Lei 13.654/2018. Precedentes. 5. Agravo Regimental a que se nega provimento” (ARE nº 1.234.080-AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 21/5/20). (Grifei)
+
+    “Agravo regimental no recurso extraordinário com agravo. Artigo 93, XI, CF. Ausência de afronta. Lei Estadual nº 18.370/14. Processo legal legislativo. Afronta reflexa. Fatos e provas. Súmulas 280, 279 e 636 do STF. 1. O acolhimento da pretensão de inconstitucionalidade formal da Lei nº 18.370/14 do Estado do Paraná, por atropelo do processo legal legislativo, importaria no reexame da causa à luz das normas do Regimento Interno da Assembleia Legislativa do Estado do Paraná e dos fatos e das provas constantes dos autos. A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o recurso extraordinário. Incidência das Súmulas nºs 279, 280 e 636 da Corte. 2. A jurisprudência do Supremo Tribunal Federal é no sentido de não caber ao Poder Judiciário, a pretexto de realizar o controle de atos legislativos, imiscuir-se em matérias interna corporis, sob pena de violação do princípio da separação dos Poderes. Precedentes. 3. Agravo regimental ao qual se nega provimento, com imposição de multa de 2% (dois por cento) do valor atualizado da causa, consoante o art. 1.021, § 4º, do Novo CPC, caso seja unânime a votação. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que os recorrentes não foram condenados no pagamento de honorários sucumbenciais pela instância de origem” (ARE nº 1.028.435-AgR, Segunda Turma, de minha relatoria, DJe de 15/8/17). (Grifei)
+
+    “CONSTITUCIONAL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ALEGAÇÃO DE ILEGALIDADE ATRIBUÍDA AO PRESIDENTE DA CÂMARA DOS DEPUTADOS. INOCORRÊNCIA. INTERPRETAÇÃO DE NORMAS DO REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS. IMPOSSIBILIDADE. ASSUNTO INTERNA CORPORIS. SEPARAÇÃO DOS PODERES. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. Não é possível o controle jurisdicional em relação à interpretação de normas regimentais das Casas Legislativas, sendo vedado ao Poder Judiciário, substituindo-se ao próprio Legislativo, dizer qual o verdadeiro significado da previsão regimental, por tratar-se de assunto interna corporis, sob pena de ostensivo desrespeito à Separação de Poderes, por intromissão política do Judiciário no Legislativo. 2. É pacífica a orientação jurisprudencial desta SUPREMA CORTE no sentido de que, a proteção ao princípio fundamental inserido no art. 2º da CF/1988, segundo o qual, são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário, afasta a possibilidade de ingerência do Poder Judiciário nas questões de conflitos de interpretação, aplicação e alcance de normas meramente regimentais. 3. Recurso de agravo a que se nega provimento” (MS nº 36.662-AgR, Tribunal Pleno, Relator o Ministro Alexandre de Moraes, DJe de 7/11/19).
+
+    “Agravo regimental em mandado de segurança. 2. Omissão da Câmara dos Deputados. Não envio de Parecer da CCJ à publicação. 3. Competência exclusiva da casa legislativa para impulso e elaboração da pauta de suas atividades internas. Ato interna corporis. Não sujeito ao controle judicial. Separação de Poderes. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (MS nº 25.144-AgR, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 28/2/18).
+
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO DO PRESIDENTE DA CÂMARA DOS DEPUTADOS. FORMA DE CONVOCAÇÃO DE REUNIÃO DE COMISSÃO. INTERPRETAÇÃO DE DISPOSITIVOS REGIMENTAIS DA CÂMARA DOS DEPUTADOS. ATO INTERNA CORPORIS, NÃO SUJEITO AO CONTROLE JUDICIAL. NÃO CABIMENTO DO WRIT. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal já assentou que os atos classificados como interna corporis não estão sujeitos ao controle judicial (Precedentes: MS 22.183, Redator para o acórdão Ministro Maurício Corrêa, DJ 12/12/1997; MS 26.062- AgR, Rel. Min. Gilmar Mendes, DJe 4/4/2008; MS 24.356, Rel. Min. Carlos Velloso, DJ 12/9/2003) 2. In casu, restou claro que o ato praticado pelo impetrado, diante da situação fática descrita pelos impetrantes, envolveu a interpretação dos dispositivos regimentais, ficando restrita a matéria ao âmbito de discussão da Câmara dos Deputados. Dessa forma, afigura-se incabível o mandado de segurança, pois não se trata de ato sujeito ao controle jurisdicional (Precedentes: MS 28.010, Rel. Min. Cármen Lúcia, DJe 20/5/2009, e MS 33.705 AgR, Rel. Min. Celso de Mello DJe 29/3/2016). 3. Agravo regimental a que se NEGA PROVIMENTO” (MS nº 31.951-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 16/8/16).
+
+    Ademais, a presente controvérsia se ajusta ao Tema 1120 da Repercussão Geral (Recurso Extraordinário nº 1.297.884, de minha relatoria), no qual se fixou a seguinte tese:
+
+    “Em respeito ao princípio da separação dos poderes, previsto no art. 2º da Constituição Federal, quando não caracterizado o desrespeito às normas constitucionais pertinentes ao processo legislativo, é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis”.
+
+    No tocante à alegação de ausência de auditorias contábeis e registros financeiros a respaldar a motivação do Projeto de Lei nº 47/2021 pautada no déficit orçamentário do IMASF, o Tribunal de origem consignou:
+
+    “No entanto, de acordo com os documentos acostados aos autos, inclusive pelo próprio autor (fls. 1448/1459), há sentença do Tribunal de Contas do Estado de São Paulo, datada de 10/03/2022, atestando desequilíbrio orçamentário recorrente na autarquia, com resultado financeiro negativo desde 2011, atingindo, no exercício de 2018, déficits orçamentário, patrimonial, financeiro e econômico nos patamares de R$ 3.460.780,63, R$ 12.437.594,83, R$ 14.963.801,59 e R$ 17.837.248,64, respectivamente, sem recursos disponíveis para pagamento de suas dívidas (índice de liquidez imediata apurado de 0,22). Ao que consta, os resultados orçamentários negativos persistiram em 2019 (R$ 3.870.368,26) e 2020 (R$ 11.444.855,20), mesmo após a adoção de medidas concretas para promover os devidos ajustes (fls. 1455).
+
+    O alarmante quadro deficitário do IMASF também foi ressaltado nas informações prestadas pelo Prefeito, que acrescentou conclusão lançada em estudo atuarial contratado pela autarquia em 2019 (fls. 1216/1273), no sentido da necessidade de alteração do modelo assistencial até então vigente, nos seguintes termos:
+
+    (...)
+
+    Além disso, há notícia de que a carteira do IMASF é muito envelhecida, o que eleva os custos assistenciais, e outras medidas foram tomadas pela Administração local visando o restabelecimento do equilíbrio financeiro e atuarial das contas da autarquia, sem sucesso (tais como o estabelecimento de reajustes das contribuições mensais, fixação de novos valores relativos às contribuições dos agregados, aumento dos repasses mensais obrigatórios e criação do regime de coparticipação dos beneficiários no custeio dos serviços, o que não teria sido suficiente para equalizar suas despesas e receitas - fls. 1166). Daí a imposição de revisão geral do modelo assistencial vigente, com a extinção da autarquia, ficando o sistema, a partir de 01/10/2021, sob responsabilidade de empresa privada contratada através de processo licitatório, de modo a permitir a continuidade dos planos de assistência médica fornecidos pelo IMASF (com aproximadamente 38.000 titulares), inclusive com melhoria de rede e minimizando o impacto de reajuste nas contribuições dos titulares”.
+
+    Desse modo, para superar esse entendimento e acolher a pretensão recursal, seria necessário o reexame dos fatos e das provas constantes dos autos, o que não se mostra viável nesta via extraordinária. Incidência da Súmula nº 279 da Corte.
+
+    Por fim, entendeu-se não padecer a referida norma legal de vício de iniciativa, inserindo-se dentro da competência privativa do chefe do Poder Executivo deflagrar processo legislativo de lei que disponha sobre a extinção de entidade integrante da administração pública indireta.
+
+    Cuida-se de posicionamento já pacificado na jurisprudência desta Suprema Corte, citando-se, para exemplificar, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIÇOS PÚBLICOS E ORGANIZAÇÃO ADMINISTRATIVA. PROCESSO LEGISLATIVO. INICIATIVA. PODER EXECUTIVO. À luz do princípio da simetria, são de iniciativa do Chefe do Poder Executivo estadual as leis que versem sobre serviços públicos e organização administrativa do Estado. Agravo regimental a que se nega provimento (RE nº 396.970/SP-AgR, Segunda Turma, Rel. Min. Eros Grau, DJe de 9/10/09).
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DO ESTADO DE SÃO PAULO. CRIAÇÃO DE CONSELHO ESTADUAL DE CONTROLE E FISCALIZAÇÃO DO SANGUE - COFISAN, ÓRGÃO AUXILIAR DA SECRETARIA DE ESTADO DA SAÚDE. LEI DE INICIATIVA PARLAMENTAR. VÍCIO DE INICIATIVA. INCONSTITUCIONALIDADE RECONHECIDA. I - Projeto de lei que visa a criação e estruturação de órgão da administração pública: iniciativa do Chefe do Poder Executivo (art. 61, § 1º, II, e, CR/88). Princípio da simetria. II - Precedentes do STF. III - Ação direta julgada procedente para declarar a inconstitucionalidade da Lei estadual paulista 9.080/95” (ADI nº 1.275/SP, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 8/6/07).
+
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do STF, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 19 de dezembro de 2022.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
