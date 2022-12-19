@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. PESSOA JURÍDICA. EMPRESA INATIVA. FATO GERADOR. SÚMULAS 283/STF E 284/STF.
+1. Não há a ofensa ao art 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução. O aresto vergastado enfrentou expressamente o tema relativo ao registro da empresa no Conselho de Química, bem como a aplicação do disposto no art. 5º da Lei 12.514/2011, embora contrariamente aos interesses da parte ora agravante.
+2. O ora agravante, não infirmou, nas razões de Recurso Especial, o argumento de que a inscrição no Conselho Regional de Química foi feito por pessoa que não detinha poderes de representação. Como tal fundamentação é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, não há como conhecer do recurso. Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Agravo conhecido para conhecer do Recurso Especial, apenas no tocante à alegada violação do art. 1.022 do CPC/2015 e, nessa parte, negar-lhe provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Humberto Martins votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. PESSOA JURÍDICA. EMPRESA INATIVA. FATO GERADOR. INOCORRÊNCIA.
+1. A exigibilidade de inscrição junto ao Conselho Pro ssional é determinada pela atividade básica ou pela natureza dos serviços prestados pela pessoa jurídica (art. 1º da Lei nº 6.830/1980).
+2. Constatado que a empresa estava inativa durante o período cobrado, não há como exigir o pagamento das anuidades.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega que foram violados os arts. 5º da Lei 12.514/2011; 334, 335 e 341 da CLT; 84 do Decreto 6.871/2009, que regulamenta a Lei 8.918/1994; 2º do Decreto 85.877/1981; 373, I, do CPC/2015, e 27 da Lei 2.800/1956. Em síntese, defende que o fato gerador para o pagamento das anuidades e taxas é o efetivo registro voluntário no Conselho Regional de Química e que somente a comprovação do requerimento do desligamento de tal conselho é que poderia afastar a autuação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Não há a ofensa ao art 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução.
+O aresto vergastado enfrentou expressamente o tema relativo ao registro da empresa no Conselho de Química, bem como a aplicação do disposto no art. 5º da Lei 12.514/2011, embora contrariamente aos interesses da parte ora agravante.
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+O fato gerador da obrigação tributária, no caso de pessoas jurídicas, é a prestação de determinada atividade, que, por sua vez, gera o dever de inscrever-se em Conselho Profissional. Assim, ainda que haja a inscrição em Conselho, não havendo prestação de atividade, não há falar em pagamento de anuidade, em razão da ausência de fato gerador.
+(..)
+A jurisprudência deste Tribunal entende que o advento da Lei nº 12.514/2011 não alterou esse quadro, porquanto, em se tratando de pessoas jurídicas, deve o seu art. 5º ser conjugado com a Lei nº 6.839/80, do que se conclui que deve ser afastada a obrigatoriedade do registro da empresa, e da contratação de profissional legalmente habilitado, se sua atividade está fora do âmbito de fiscalização do conselho profissional.
+(..)
+Desta forma, inexistindo a prestação da atividade ou constatada a própria inatividade da empresa, a vinculação e os respectivos recolhimentos são inexigíveis.
+restou demonstrado que a empresa embargante é sediada no Estado de São Paulo, onde devidamente registrada e com suas obrigações em dia perante o Conselho Regional de Química da IV Região (ev. 1, docs. 5 e 11).
+Segundo consta da prova colacionada, a embargante criou a filial nº 02, com endereço na cidade de Blumenau, tendo por objetivo a Representação Comercial e Comercialização dos Produtos Químicos da Cromoquim Produtos Tensoativos Ltda. EPP (ev. 1, doc. 6, p. 2) em 06/05/2003.
+Do processo administrativo juntado aos autos verifica-se que a inscrição junto ao embargado decorreu de fiscalização do órgão de classe, tendo sido a embargante intimada a se regularizar perante o Conselho, sob pena de multa (ev. 7, doc. 2, p. 9).
+A empresa promoveu então o requerimento de sua inscrição, por formulário preenchido pelo responsável técnico Milton Martins Gomes (ev. 7, doc. 2, p. 13), o qual não detinha poderes de representação, constando de sua carteira de trabalho apresentada ao CRQ a informação do cargo de gerente de vendas (ev. 7, doc. 1, p. 14; e ev. 7, doc. 2, p. 11/12).
+Além da evidente irregularidade no registro da empresa perante o CRQ da 13ª Região, verifica-se que a empresa finndou suas atividades no Estado de Santa Catarina em 2009, quando encerradas as atividades operacionais na filial então situada na cidade de Itajaí (ev. 1, docs. 8 e 9).
+A parte ora agravante não infirmou, nas razões de Recurso Especial, o argumento de que a inscrição no Conselho Regional de Química foi feito por pessoa que não detinha poderes de representação. Como tal fundamentação é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, não há como conhecer do recurso. Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Ante o exposto, conheço do Agravo para conhecer do Recurso Especial, apenas no tocante à alegada violação do art. 1.022 do CPC/2015 e, nessa parte, negar-lhe provimento.
+É como voto.
