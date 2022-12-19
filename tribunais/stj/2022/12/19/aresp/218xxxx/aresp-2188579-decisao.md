@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial sob o fundamento de incidência da Súmula n. 83/STJ (e-STJ fls. 159/162).
+O acórdão está assim ementado (e-STJ fl. 59):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. EMENTA APURAÇÃO DO VALOR DEVIDO EM FASE DE CUMPRIMENTO DE SENTENÇA. ATUALIZAÇÃO MONETÁRIA. CÁLCULOS SIMPLES. LADO CONFECCIONADO POR PERITO CONTÁBIL JUDICIAL JÁ DEVIDAMENTE HOMOLOGADO. DESNECESSIDADE DE PERÍCIA ATUARIAL. INEXISTÊNCIA DE CÁLCULOS COMPLEXOS QUE DEMANDEM PERÍCIA ESPECIALIZADA.EMBARGOS DE DECLARAÇÃO OPOSTOS NO JUÍZO DE ORIGEM QUE NÃO APRESENTAM CARÁTER PROTELATÓRIO. EXCLUSÃO DA MULTA IMPOSTA QUE SE IMPÕE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 99/102).
+No recurso especial (e-STJ fls. 109/127), fundamentado no art. 105, III, "a" e "c", da CF, a recorrentealegou dissídio jurisprudencial e ofensa aos arts.5º e 6º do Decreto-Lei n.806/1969, 1º, 43 e 44 da Lei n.6.435/1977,27 e 28 do Decreto n.81.240/1978,18, 19, 22, 25 e 67 da Lei Complementar n.109/2001 e373, II, do CPC/2015, sustentando, em síntese, cerceamento de defesa pelo indeferimento da perícia atuarial requerida.
+Não foram apresentadas contrarrazões nem contraminuta (e-STJ fl. 182).
+É o relatório.
+Decido.
+O acórdão recorrido entendeu desnecessáriaa realização da perícia atuarial complementar pretendida pela agravante, pelos seguintes fundamentos (e-STJ fl. 61):
+O mérito recursal cinge-se em averiguar sobre a necessidade da confecção de laudo pericial complementar, para apurar os valores devidos, bem como a reforma da decisão para afastar a multa aplicada na decisão que rejeitou os embargos de declaração opostos.
+Compulsando-se os autos, não se evidencia que o caso trazido à baila demande exame de cálculos especializado, a saber, através de perícia complementar.
+Ao contrário, percebe-se que a necessidade que emana da lide principal, no momento, é satisfeita por simples cálculos aritméticos, sobretudo em razão da existência da homologação dos cálculos apresentados pelo perito, tornando indiscutível os supostos valores apresentados pelo recorrente.
+Registre-se ainda, que o pleito para elaboração de novo laudo pericial já foi rejeitada em decisão anterior de fls. 849 (dos autos originários) conforme destaca o juízo e no despacho de ID. 1609714 a quo - pág. 03, correspondente à pag. 893 dos autos originários.
+Assim, tratando-se de cálculos simples, ou seja, apenas de atualização da dívida, inexiste obrigatoriedade e mesmo necessidade de perícia complementar, não havendo nos autos, qualquer fato que impere a elaboração de cálculos por profissional com a especificação exigida pela parte recorrente, sobretudo diante das informações extraídas da decisão recorrida no sentido de que a conta já foi homologada no juízo de origem não comportando mais discussões.
+Diversamente do que aponta o recorrente, a decisão que homologou os cálculos não reconheceu os supostos erros técnicos apontados, bem como não pode ser objeto do presente recurso, tendo e vista a ocorrência da preclusão.
+Observa-se que, a agravante não apresenta a planilha de cálculos do recorrido com os valores que aponta como indevido, bem como não trouxe o laudo do perito, e a decisão de fls. 847/848 que homologou referido cálculo.
+Nesta senda é possível verificar através da documentação apresentada que a decisão agravada reconheceu que os valores apresentados pelo recorrido estão em conformidade com a conta homologada pelo juízo na decisão de fls. 847/848 dos autos originários, necessitando somente de ajustes aritméticos, que consiste na atualização da conta.
+Neste contexto, não se evidencia que o caso dos autos requeira nova perícia judicial apontada pela recorrente, restando, portanto, acertada a decisão proferida em primeira instância.
+Tal entendimento está de acordo com a jurisprudência deste Tribunal Superior, segundo a qual "É dispensável a produção de prova pericial atuarial para aferir valores devidos a título de complementação de benefício previdenciário no cumprimento de sentença transitada em julgado. Inaplicabilidade do entendimento firmado pela Segunda Seção do STJ no julgamento REsp 1.345.326/RS, relativo à necessidade de perícia atuarial em processo de conhecimento" (AgInt nos EDcl no AREsp n. 876.163/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/8/2017, DJe 25/8/2017). No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. REALIZAÇÃO DE PERÍCIA ATUARIAL NA FASE DE CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Na hipótese em que se discute a necessidade da produção da prova pericial atuarial para aferir os valores devidos na fase de cumprimento de sentença transitada em julgado, não se aplica o entendimento firmado pela Segunda Seção do STJ no julgamento REsp 1.345.326/RS, relativo à necessidade de perícia atuarial em processo de conhecimento. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.277.511/SE, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/10/2019, DJe 24/10/2019.)
+Incide assim a Súmula n. 83 do STJ, aplicável tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados na alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
