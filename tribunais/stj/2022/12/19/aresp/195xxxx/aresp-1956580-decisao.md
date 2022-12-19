@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto peloESPÓLIO DE ALEXANDRE SERPA ALBUQUERQUEcontra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 896/898).
+O acórdão recorrido ficou assim ementado (e-STJ fl. 834):
+LOCAÇÃO. DESPEJO. Sentença de procedência parcial dos pedidos. Preliminar de legitimidade passiva analisada com o mérito. Contrato de locação firmado apenas com o réu Arnaldo. Obrigação pessoal. Cobrança indevida com relação ás demais rés. razão pela qual o pedido deve ser julgado improcedente. Teoria da Asserção. Legitimidade da cobrança do IPTU e despesas de condomínio.
+Responsabilidade da cobrança das referidas despesas, conforme previsão contratual. Planilha de cálculo que excluiu da cobrança das despesas relativas ao "Fundo de Obras". Documentos que não demonstram o pagamento das referidas despesas. Penhora no rosto dos autos indevida. Honorários de advogado das rés devidos. RECURSO DO AUTOR NÃO PROVIDO. RECURSO DO RÉU PROVIDO EM PARTE.
+Os embargos de declaração da parte contrária foram rejeitados(e-STJ fls. 845/848).
+No especial (e-STJ fls. 851/859), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa ao art. 11, I, da Lei n.8.245/1991, sustentando, em síntese, a legitimidade passivaad casusamdas filhas do contratanteoriginário.
+Segundo afirma, "a jurisprudência já consolidou entendimento no sentido de que o art. 11, I, da Lei nº 8.245/911, que prevê a sub-rogação dos herdeiros na posição contratual do locatário falecido, também se aplica aos casos de sub-rogação de filhos de genitor locatário, não falecido, que permanecem no imóvel após a saída deste, o que ocorreu na espécie" (e-STJ fl. 854).
+No agravo (e-STJ fls. 905/910), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos os requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 940/948).
+É o relatório.
+Decido.
+O TJSP reconheceu a ilegitimidade passiva das corrésMELINA GIORGETTI, MELISSA GIORGETTI, MILENA GIORGETTI, decidindo com base nos seguintes fundamentos (e-STJ fls. 836/837):
+Os documentos de fls. 24/27 demonstram que o contrato de locação foi firmado entre Alexandre Serpa Albuquerque eArnaldo Barreto, no ano de 1981, pelo prazo de 1 (um) ano, contrato que foi prorrogado por prazo indeterminado.
+Assim, agiu com acerto o magistrado de primeiro grau ao reconhecer a ilegitimidade de Melissa, Melina e Milena para arcar o pagamento da dívida, já que se trata de obrigação de caráter pessoal.
+De acordo com a Teoria da Asserção (in status assertionis), Daniel Assumpção ensina que "a presença das condições da ação deve ser analisada pelo juiz com os elementos fornecidos pelo próprio autor em sua petição inicial, sem nenhum desenvolvimento cognitivo". Caso a análise se dê após o aprofundamento do juízo de cognição por meio da instrução processual, "não mais haverá tais condições da ação, que passarão a ser entendidas como matérias de mérito" (Neves, Daniel Amorim Assumpção. Manual de direito processual civil volume único. 8ª ed. Salvador. Ed. Jus Podivm, 2016, pp. 69-70).
+A Teoria da Asserção tem ampla aceitação no C. STJ, podendo-se considerar ter a Corte adotado referida teoria(Informativo 535, C. STJ).
+Quanto àviolação do art. 11, I, da Lei n. 8.245/1991, segundo a qual os herdeiros sub-rogam-se nos direitos e obrigações do locatário, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Além disso, para acolher as razões recursaise reconhecer que foram preenchidos os requisitos paraa sub-rogação dos herdeiros na posição contratual do locatário falecido, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial interposto pelo ESPÓLIO DE ALEXANDRE SERPA ALBUQUERQUE.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
