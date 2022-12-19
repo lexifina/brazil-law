@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Santa Catarinaassim ementado:
+AGRAVO INTERNO. ART. 1.021 DO CPC.AÇÃO PREVIDENCIÁRIA.ALMEJADA CONCESSÃO DE AUXÍLIO-ACIDENTE.MOTORISTA DE CAMINHÃO QUE EM ACIDENTE NO TRABALHO, SOFREU GRAVE LESÃO NO OLHO ESQUERDO (CID H 26.2) PASSANDO A DEPENDER DO USO DE ÓCULOS PARA O EXERCÍCIO DA FUNÇÃO.CORREÇÃO DA ACUIDADE VISUAL QUE, MESMO COM A UTILIZAÇÃO DAS LENTES, NÃO OCORRE NA TOTALIDADE.VEREDICTO DE PROCEDÊNCIA.JULGADO MONOCRÁTICO QUE NEGOU PROVIMENTO AO APELO INTERPOSTO PELA AUTARQUIA PREVIDENCIÁRIA FEDERAL.INSURGÊNCIA DO INSTITUTO NACIONAL DO SEGURO SOCIAL.APONTADA CARÊNCIA DE COMPROVAÇÃO DA REDUÇÃO DA CAPACIDADE PARA O TRABALHO.ROGO PARA O AFASTAMENTO DA BENESSE.ELOCUÇÃO INCOERENTE. ESCOPO ABDUZIDO.OBREIRO QUE, APÓS O INFORTÚNIO, PASSOU A TER DIFICULDADES PARA O EXERCÍCIO DO LABOR HABITUAL.PERÍCIA JUDICIAL QUE, CONQUANTO NÃO ATESTE A INAPTIDÃO DO SEGURADO AUTOR, NÃO AFASTA A DIMINUIÇÃO DO POTENCIAL PARA A ATIVIDADE ROTINEIRA.APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO MISERO.PRECEDENTES.
+"Não há campo para certezas na vida, muito menos no processo, que busca antes de tudo a versão mais plausível. A verdade é uma generosa quimera (Cândido Rangel Dinamarco); está no campo do impossível (Luiz Guilherme Marinoni). No direito acidentário essa amplitude cognitiva é ampliada na medida em que o segurado se ampara no in dubio pro misero. No caso, mesmo que a tese da autora não possa estar isenta de críticas, é verossímil e então sobreleva o caráter protetivo da infortunística." (TJSC, Apelação Cível n. 0301682-87.2018.8.24.0018, rel. Des. Hélio do Valle Pereira, Quinta Câmara de Direito Público, j. em 14/12/2021).
+DECISÃO UNIPESSOAL MANTIDA.RECURSO CONHECIDO E DESPROVIDO.DIANTE DA PERSISTÊNCIA DO INSS, QUE INTERPÕE AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA EM CORRENTE JURISPRUDENCIAL DOMINANTE, CONDENAÇÃO AO PAGAMENTO DA MULTA PREVISTA NO ART. 1.021, § 4º DO CPC, NO IMPORTE DE 5% SOBRE O VALOR ATUALIZADO ATRIBUÍDO À CAUSA.
+A parte recorrente afirma que houveofensa aoart. 1.021, § 4º, do CPC/2015. Afirma:
+Com efeito, é cediço que, para caracterização da litigância de má-fé, capaz de ensejar a imposição de multa nos termos do dispositivo citado, necessário o elemento subjetivo, qual seja, a intenção dolosa. Logo, o reconhecimento da litigância de má-fé pressupõe que a conduta da parte seja realizada na intenção de prejudicar, o que não restou demonstrado nos presentes autos.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15.12.2022.
+Assiste razão à Autarquia.
+Há pacífica jurisprudência nesta Corte Superior nosentido de que a incidência damulta prevista no art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do Agravo Interno em votação unânime. Tampouco houve o reconhecimento de manifesta inadmissibilidade do recurso que combateu a decisão monocrática.Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 27/9/2016).
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO RECONHECIDA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. MULTA. INTERPOSIÇÃO DO AGRAVO INTERNO. ART. 1.021, § 4º, DO CPC/2015. LITIGÂNCIA DE MÁ-FÉ. ATUAÇÃO DENTRO DO SISTEMA RECURSAL. INEXISTÊNCIA DE CONDUTA CONTRÁRIA À BOA-FÉ. EMBARGOS ACOLHIDOS, EM PARTE.
+(..)3. A aplicação da multa prevista nos artigos 259, § 4º, do Regimento Interno do STJ e 1.021, § 4º, do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. Precedentes.
+4. A mera atitude deliberada da parte em interpor o recurso previsto na legislação de regência não conduz à conclusão da má-fé processual.
+5. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgInt no RE no AgInt no AREsp 1.441.985/SP, Relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 15/6/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. TELEFONIA PÚBLICA. CONCESSÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 16 E 492 DO CPC E 95 DO CDC. INCIDÊNCIA DA SÚMULA N. 211/STJ. MULTA DIÁRIA. VALOR. OBRIGAÇÃO DE PUBLICAÇÃO DA SENTENÇA EM JORNAL DE GRANDE CIRCULAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. MESMA TESE DESENVOLVIDA COM BASE NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. CONHECIMENTO PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt no REsp 1.885.880/SC, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/10/2021).
+Diante do exposto, dou provimento ao Recurso Especial para afastar a multa do art. 1.021 do CPC/2015.
+Publique-se.
+Intimem-se.
