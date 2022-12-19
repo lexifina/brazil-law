@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 47):
+Agravo em execução penal. Progressão antecipada ao regime aberto. Alegada ausência de vagas nas unidades penitenciárias de regime semiaberto.
+Impossibilidade de beneficiamento. Agravante que se encontra em unidade prisional compatível com o regime atual (semiaberto). A Defesa requereu a progressão antecipada ao regime aberto apenas 2 dias após a concessão do regime semiaberto, sem qualquer configuração de morosidade, ao passo que a efetiva mudança de vaga foi implementada pela Administração Penitenciária dentro do prazo de 30 dias fixado pelo Magistrado. Ausente o requisito objetivo, deve ser mantida, por ora, a negativa de progressão ao regime aberto. Agravo não provido.
+Extrai-se dos autos que o Juízo das execuções indeferiu o pedido de progressão antecipada ao regime aberto feito pelo paciente. O Tribunal de origem negou provimento ao agravo em execução da defesa.
+A defesa aduz que "o paciente está na iminência de cumprir o requisito objetivo exigido para a progressão, isto é, o lapso será cumprido no decorrer dos próximos meses. Considerando o tempo normal de tramitação dos pedidos de progressão e a demora para a efetivação da transferência dos sentenciados ao regime semiaberto, esta antecipação atende ao princípio da razoabilidade." (fls. 6-7).
+Afirma ter sido proposta a Reclamação n. 51.888 ao STF, em cujo julgamento determinou-se "a "implementação imediata das medidas que lhe tocam quanto à gestão das vagas existentes, inclusive com possibilidade, se for o caso, de concessão de progressão antecipada em favor de outros condenados que já se encontrem em regime semiaberto" e que " havendo déficit de vagas, cabe aos magistrados da execução penal determinar medidas cautelares como a progressão antecipada em favor de sentenciados que estão na iminência de cumprir o lapso progressional, que é exatamente o caso em análise" (fl. 6).
+Menciona ser necessário levar em consideração o disposto na Súmula Vinculante 56 e o entendimento exarado no RE 641.320/RS.
+Requer, liminarmente e no mérito, a concessão da ordem "para declarar o cumprimento do requisito objetivo da progressão de regime e determinar a análise em primeiro grau do requisito subjetivo" (fl. 8).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela prejudicialidade da impetração.
+Conforme consignado no parecer ministerial (fls. 87-88):
+4. Conforme se extrai do acórdão do Tribunal de origem (fl. 72), "o cálculo acostado aos autos principais aponta que JOÃO CARLOS somente preencherá o lapso exigido para o regime aberto em 15/11/2022".
+5. Como se vê, considerando que na data de hoje o requisito temporal para a progressão de regime se encontra preenchido, e que não há nos autos outros elementos que permitam avaliar a possibilidade ou não da concessão da benesse, deverá ser apresentadonovo pedido perante o Juízo da Execução Penal a fim de que este examine o preenchimento dos demais requisitos para a concessão do benefício da progressão do regime para cumprimento de pena.
+6. Diante do exposto, encontrar-se prejudicado o presente habeas corpus pela superveniência do preenchimento do requisito temporal para a progressão de regime, requerendo o Ministério Público Federal o arquivamento do feito, sem análise meritória.
+Nesse contexto, em razão da mudança fático-processual, ante o possível preenchimento do requisito objetivo,fica configurada a supervenienteperda do objeto desta impetração.
+Ante o exposto, julgoprejudicadoo presente habeas corpus.
+Publique-se.
+Intimem-se.
