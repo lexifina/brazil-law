@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de de agravo manejado por MARINA PEREIRA DE FREITAS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3º Região, assim ementado (fl. 153):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. LEI Nº8.213/1991. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE INCAPACIDADE. EXERCÍCIO DA ATIVIDADE HABITUAL. POSSIBILIDADE..
+- Constituem requisitos para a concessão de benefícios por incapacidade: (I) a qualidade de segurado; (II) a carência de 12 (doze) contribuições mensais, quando exigida; e (III) a incapacidade para o trabalho de modo permanente e insuscetível de recuperação ou de reabilitação para outra atividade que garanta a subsistência (aposentadoria por invalidez) e a incapacidade temporária, por mais de 15 dias consecutivos (auxílio-doença), assim como a demonstração de que, ao filiar-se ao Regime Geral da Previdência Social (RGPS), o segurado não apresentava a alegada doença ou lesão, salvo na hipótese de progressão ou agravamento destas.
+- Consta dos autos que a parte autora, com 56 (cinquenta e seis) anos na data da perícia, realizada em 20/03/2018, é portadora de doença degenerativa da coluna vertebral (M51.9), com redução do espaço discal C5-C6, espondilose dorsal e redução dos espaços invertebrais lombares e terdinopatia do supraespinhal bilateralmente (M75) e fibromialgia (M79.7), o que lhe ocasionaria incapacidade parcial e permanente.
+- Depreende-se dos esclarecimentos expendidos pelo expertque as moléstias das quais a parte autora é portadora, de natureza degenerativa e curso crônico, cujo estágio de desenvolvimento seria compatível com sua idade, passíveis de melhora por meio de tratamento médico, não a impediriam de continuar exercendo suas atividades laborativas habituais, embora haja a redução na correspondente capacidade
+.- Apelação do INSS provida e apelação da parte autora prejudicada.
+Opostos embargos de declaração, foram rejeitados (fls. 196/203).
+Aponta o recorrente violação aoart.59 da Lei nº 8.213/91,sustentando que "restou conclusivo de forma peremptória, com base em analise clinica e na documentação médica carreada aos autos, pela INCAPACIDADE PARCIAL E PERMANENTE DA AUTORA ENEXO CAUSAL COM ESFORÇOS EXECUTADO AO LONGO DOS ANOS EM ATIVIDADE BRAÇAL- EMPREGADA DOMÉSTICA/FAXINEIRA" (fl. 221).
+Devidamente intimada, a parte recorrida não apresentou contrarrazões ao recurso especial, conforme certidão àsfls. 271/272.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na espécie, o Tribunal a quo, ao examinar o conjuntofático-probatório dos autos, considerou que a parte autora não preencheu osrequisitos legalmente exigidos à concessão do benefício pleiteado. É o que seinfere do seguinte trecho extraído do acórdão recorrido (fl. 169):
+Consta dos autos que a parte autora, com 56 (cinquenta e seis) anos na data da perícia, realizada em 20/03/2018, é portadora de doença degenerativa da coluna vertebral (M51.9), com redução do espaço discal C5-C6, espondilose dorsal e redução dos espaços invertebrais lombares e terdinopatia do supra espinhal bilateralmente (M75) e fibromialgia (M79.7), o que lhe ocasionaria incapacidade parcial e permanente, sem impedi-la, no entanto, de continuar exercendo sua atividade habitual de "lavadeira/passadeira e faxineira".
+Sob tal perspectiva, depreende-se dos esclarecimentos expendidos pelo que as moléstias das quais a parte autora é portadora, de natureza degenerativa expert e curso crônico, passíveis de melhora por meio de tratamento médico, não a impediriam de continuar exercendo suas atividades laborativas habituais, embora haja a redução na correspondente capacidade (ID 35232627 - Págs. 3/6):
+ ..
+E, em resposta ao quesito nº 8, formulado pelo MM. Juízo a quo, bem comoao quesito nº 16, apresentado pelo INSS, afirma o d. perito:
+ ..
+O deferimento do auxílio-doença acidentário, no período de 4/12/2007 no a 11/12/207 (fls. 83), corroborou o liame ocupacional entre a doença e o trabalho.
+Sob tal perspectiva, afere-se que a redução da capacidade laborativa foiocasionada por doenças degenerativas de curso crônico, cujo estágio dedesenvolvimento seria compatível com a idade da parte autora, não a impedindo, razão por quetodavia, de continuar exercendo sua atividade laborativa habitual,indevido o pretendido benefício por incapacidade.
+Dessa forma, não se vislumbra a suscitada violação à lei federal, de forma que a alteração das conclusões adotadas pelaCorte de origem, tal como colocada a questão nas razões recursais,demandaria, necessariamente, novo exame do acervo de fatos e de provasconstante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSOESPECIAL.PEDIDO DE CONCESSÃO DE BENEFÍCIO DE AUXÍLIO-ACIDENTE JULGADO IMPROCEDENTEPELAS INSTÂNCIAS DE ORIGEM EM RAZÃO DO NÃO RECONHECIMENTO DO NEXO CAUSAL EDA INCAPACIDADE LABORAL DA PARTE AUTORA. AGRAVO REGIMENTALDESPROVIDO.
+(..).
+3. In casu, o Tribunal a quo, soberano na análise fático-probatória dacausa, confirmando a sentença, julgou improcedente o pedido inicial porentender que a moléstia não afeta de modo parcial e definitivo acapacidade laborativa da autora, nem tem nexo causal com a atividade porela exercida.
+4. A alteração dessa conclusão, na forma pretendida, demandarianecessariamente o incursão no acervo fático-probatório do sautos, a fim deverificar se o autor encontra-se incapacitado para o trabalho. Contudo,tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensãode simples reexame de prova não enseja Recurso Especial.
+(..)7. Agravo Regimental desprovido.
+(AgRg no REsp 1.378.370/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO,PRIMEIRA TURMA, julgado em 04/12/2014, DJe 16/12/2014).
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
