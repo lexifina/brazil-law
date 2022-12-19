@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/12/2022 a 19/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por GABRIEL ROCHA PINHEIRO CASTRO contra a decisão de e-STJ fls. 277/282, em que deneguei a ordem.
+Na hipótese, o agravante foi condenado à pena de 2 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática do delito tipificado no art. 157, § 2º, inciso VII, c/c o art. 14, inciso II, ambos do Código Penal.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fl. 211):
+APELAÇÃO CRIMINAL (RÉU PRESO). CRIMES CONTRA O PATRIMÔNIO. ROUBO MAJORADO TENTADO (ART. 157, §2 9 , VII, C/C ART. 14, II, AMBOS DO CP). SENTENÇA CONDENATÓRIA. RECURSO EXCLUSIVO DA DEFESA. PLEITO DE ABSOLVIÇÃO PELA ALEGADA INSUFICIÊNCIA DE PROVAS. SUBSIDIARIAMENTE, PLEITO DE REDUÇÃO DA PENA BASILAR NO MÍNIMO LEGAL E ABRANDAMENTO DO REGIME PRISIONAL. RECURSO CONHECIDO E DESPROVIDO. 1. SUFICIÊNCIA DE PROVAS DA AUTORIA DELITIVA. NÃO HÁ FALAR EM INSUFICIÊNCIA PROBATÓRIA QUANDO OS ELEMENTOS INFORMATIVOS E AS PROVAS COLHIDAS NOS AUTOS, ANALISADOS EM CONJUNTO, FORMAM UM ARCABOUÇO PROBATÓRIO SUFICIENTE PARA EMBASAR A CONDENAÇÃO. NA HIPÓTESE, OS DEPOIMENTOS DA VITIMA E POLICIAIS, SOMADOS AOS DEMAIS DOCUMENTOS CARREADOS AOS AUTOS, CORROBORAM A VERSÃO APRESENTADA EM TODOS OS PONTOS, NÃO DEIXANDO DÚVIDAS ACERCA DA AUTORIA DELITIVA POR PARTE DO APELANTE. 2. VETOR CIRCUNSTÂNCIAS DO CRIME. NO CASO O AUMENTO DA PENA-BASE NAS CIRCUNSTÂNCIAS DO CRIME SE DEU EM RAZÃO DO ARREMESSO DA PEDRA APÓS A VITIMA EMPREENDER FUGA, CIRCUNSTÂNCIA QUE EXTRAPOLA A NORMALIDADE E SE MOSTRA APTA A MAJORAR A PENA-BASE NO VETOR CIRCUNSTÂNCIAS DO DELITO. 3. REGIME PRISIONAL. A FIXAÇÃO DO REGIME INICIAL PARA CUMPRIMENTO DA PENA É ATO DISCRICIONÁRIO DO JULGADOR, QUE, NOS TERMOS DO ARTIGO 33 DO CÓDIGO PENAL, OBSERVARÁ NÃO APENAS O QUANTUM DA PENA IMPOSTA, COMO TAMBÉM A REINCIDÊNCIA DO CONDENADO E AS CIRCUNSTÂNCIAS JUDICIAIS PREVISTAS NO ARTIGO 59 - ATENDIDOS, É CLARO, OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. IN CASU, A PENA DEVE SER CUMPRIDA EM REGIME INICIAL SEMIABERTO, TENDO EM VISTA A PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME SEMIABERTO MANTIDO.
+Neste writ, sustentou a defesa que o aumento da pena-base careceria de fundamentação idônea, asseverando que o vetor relativo às circunstâncias do crime fora avaliado de forma negativa, tendo o magistrado utilizado elementares do tipo penal para isso.
+Alegou que a conduta não extrapolou a normalidade do tipo e ponderou que "a vítima sequer saiu lesionada, não sendo possível dizer que a violência foi extraordinária" (e-STJ fl. 7).
+Sustentou, ainda, que o regime inicial intermediário seria desproporcional ao caso concreto, sobretudo quando considerada a primariedade do ora agravante e o fato de apenas uma das circunstâncias ter sido avaliada como negativa. Invocou a Súmulas n. 718 e 719 da Suprema Corte.
+Requereu a concessão da ordem para fixar a pena-base no mínimo legal e o regime inicial aberto, sendo a ordem denegada.
+Nesta oportunidade, a defesa reitera as razões contidas na inicial do writ, reiterando a existência, segundo entende, de ilegalidade na dosimetria da pena do agravante.
+Requer, assim, o provimento do recurso para fixar a pena-base no mínimo legal e alterar o regime inicial de cumprimento de pena.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. ROUBO MAJORADO TENTADO. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. REGIME SEMIABERTO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AUSÊNCIA DE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Na hipótese,o agravante ameaçou a vítima com uma faca, e ela, após conseguir se desvencilhar e empreender fuga em sua motocicleta, veio a ser atingida por uma pedra arremessada por ele, o que evidenciou gravidade da conduta que excedeu àquela ínsita ao tipo penal em comento, não merecendo reparo a exasperação da pena-base em virtude da negativação dascircunstâncias da infração.
+2.Nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis. No caso, presente circunstância judicial desfavorável, não háilegalidade em relação à fixação do regime intermediário para o início de cumprimento da reprimenda de 2 anos e 8 meses de reclusão.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não prospera.
+Dosimetria - Pena-base
+No caso, estes foram os fundamentos invocados pelo Magistrado de piso acerca da dosimetria do agravante, in verbis (e-STJ fls. 103/104):
+Dosimetria:
+Na primeira fase da dosimetria, diante do que dispõe o art. 59 do CP, considero: a culpabilidade, compreendida como a reprovabilidade social da conduta, é normal à espécie; o réu não registra condenação anterior (evento 3, do APF); inexistem elementos que permitam aferir a personalidade do agente; o motivo do ilícito foi normal à espécie; as circunstâncias foram especialmente graves. O delito se perfectibiliza com a realização de uma subtração mediante violência ou grave ameaça, mas, no caso concreto, foi praticado mediante violência e grave ameaça, pois após ameaçar a vítima com a faca, e quando este iniciou a fuga, arremessou e acertou uma pedra, o que certamente o torna mais grave. As consequências são próprias do tipo; o comportamento das vítimas em nada contribuiu para a prática do crime.
+Assim, considerando que há uma circunstância desfavorável, fixo a pena-base acima do mínimo legal em 1/6, ou seja, em 4 (quatro) anos e 8 (oito) meses de reclusão e 11 (onze) dias-multa.
+Na segunda fase, não há agravantes. Presente, porém, a atenuante do art. 65, I, do CP, pois o agente tinha menos de 21 anos na data do fato, razão pela qual reduzo a pena privativa de liberdade para 4 (quatro) anos de reclusão.
+Presente, ainda, a causa de aumento de pena do art. 157, §2º, VII, razão pela qual aumento em 1/3 a pena até aqui imposta, fixando-a em 5 (cinco) anos e 4 (quatro) meses de reclusão e 14 (catorze) dias-multa. Verifico, ainda, a incidência da causa de redução do art. 14, II, do Código Penal, razão pela qual reduzo em metade a pena, fixando-a em 2 (dois) anos e 8 (oito) meses de reclusão e 5 (cinco) dias-multa.
+Registro que foi aplicada fração intermediária de redução porque o réu já havia percorrido parte considerável do iter criminis quando a conduta cessou pela fuga da vítima, mas também não estava próximo o bastante da consumação a justificar a redução em grau mínimo.
+Portanto, torno a pena definitiva em 2 (dois) anos e 8 (oito) meses de reclusão e 5 (cinco) dias-multa.
+Analisada a situação econômica do réu com base nos elementos contidos nos autos, fixo o valor do dia-multa em 1/30 (um trigésimo) do salário mínimo à época dos fatos, devidamente corrigido até a data do pagamento.
+Diante das circunstâncias judiciais desfavoráveis, fixo o regime inicial semiaberto para o início do cumprimento da pena, nos termos do art. 33, §§2º e 3º, do CP.
+A substituição da pena privativa de liberdade por restritivas de direitos (art. 44, do CP) é inviável diante das circunstâncias judiciais desfavoráveis, o que impede também a suspensão condicional da pena (art. 77, do CP), benefício este que também é incompatível com a quantidade de pena imposta. (Grifei.)
+O Tribunal de origem, por sua vez, assim consignou no ponto (e-STJ fl. 103):
+A defesa requer a redução da pena basilar no mínimo legal.
+O pleito não comporta acolhimento.
+Oportuna a transcrição da parte da sentença que trata acerca da primeira fase da dosimetria da pena.
+Na primeira fase da dosimetria, diante do que dispõe o art. 59 do CP, considero: a culpabilidade, compreendida como a reprovabilidade social da conduta, á normal à espécie; o réu não registra condenação anterior (evento 3, do APF); inexistem elementos que permitam aferir a personalidade do agente; o motivo do ilícito foi normal à espécie; as circunstâncias foram especialmente graves. O delito se perfectibiliza com a realização de uma subtração mediante violência ou grave ameaça, mas, no caso concreto, foi praticado mediante violência e grave ameaça, pois após ameaçar a vítima com a faca, e quando este iniciou a fuga, arremessou e acertou uma pedra, o que certamente o torna mais grave. As consequências são próprias do tipo;
+o comportamento das vítimas em nada contribuiu para a prática do crime.
+Assim, considerando que há uma circunstância desfavorável, fixo a pena-base acima do mínimo legal em 1/6, ou seja, em 4 (quatro) anos e 8 (oito) meses de reclusão e 11 (onze) dias-multa.
+Como se vê, o juízo a quo valorou negativamente o vetor circunstâncias do crime.
+Relativamente às circunstâncias do crime, é sabido que "são as modalidades da ação criminosa, particularmente no que respeita à sua natureza, à espécie dos meios empregados, ao objeto, ao tempo, ao lugar, à atitude ou estado de ânimo do réu antes, durante ou após o crime" (SILVA, Jorge Vicente. Manual da sentença penal condenatória. Curitiba: Juruá, 2003).
+São portanto, "os elementos acidentais que não participam da estrutura do tipo, embora envolvendo o delito" (NUCCI, Guilherme de Souza. Código penal comentado. 18. Ed. Rio de Janeiro: Forense, 2018. p. 484).
+No caso, como visto, a juíza exasperou a pena base no vetor circunstâncias do crime em razão do arremesso da pedra após a fuga da vítima, circunstância que extrapola a normalidade e se mostra apta a majorar a pena-base no vetor circunstâncias do delito.
+Como bem salientado pela douta Procuradoria-Geral de Justiça:
+In casu, o Juízo a quo utilizou separada e adequadamente a violência e a grave ameaça, esta utilizada para configurar o crime de roubo (arma branca) e aquela, para justificar o aumento na primeira fase dosimétrica (arremesso da pedra). Destaca-se que o aumento da pena-base se deu pela consideração das circunstâncias do crime serem mais gravosas que o normal à espécie, logo não ocorreu bis in idem. Logo, não se conhece do reclamo no ponto.
+Mantenho, pois, a referida valoração negativa. (Grifei.)
+Como destaquei na decisão agravada, as circunstâncias da infração podem ser compreendidas como os pormenores do fato delitivo, acessórios ou acidentais, não inerentes ao tipo penal. Sendo assim, na análise das circunstâncias do crime, é imperioso ao julgador apreciar, com base em fatos concretos, o lugar do crime, o tempo de sua duração, a atitude assumida pelo agente no decorrer da consumação da infração penal, a mecânica delitiva empregada, entre outros elementos indicativos de uma maior censurabilidade da conduta.
+Assentada tal premissa, não vislumbrei o constrangimento ilegal alegado.
+Com efeito, o agravante ameaçou a vítima com uma faca, e ela, após conseguir se desvencilhar e empreender fuga em sua motocicleta, veio a ser atingida por uma pedra arremessada por ele, o que evidenciou, no meu sentir, gravidade da conduta que excedeu àquela ínsita ao tipo penal em comento, não merecendo reparo a pena-base fixada.
+No mesmo sentido foi o parecer do Ministério Público Federal, senão vejamos (e-STJ fl. 273):
+Como se vê, a fim de negativar as circunstâncias do crime, bem ponderou o Julgador de 1º grau que: " O delito se perfectibiliza com a realização de uma subtração mediante violência ou grave ameaça, mas, no caso concreto, foi praticado mediante violência e grave ameaça, pois após ameaçar a vítima com a faca, e quando este iniciou a fuga, arremessou e acertou uma pedra, o que certamente o torna mais grave".
+De fato, o agir do Paciente se reveste de especial gravidade, na medida em que não só ameaçou a vítima com uma arma branca, como, não satisfeito com a fuga daquela, que se evadiu, para proteger a sua própria vida, ainda a atingiu com uma pedra, que chegou a causar-lhe lesão corporal.
+Dessarte, compreendi estar devidamente justificada a majoração da pena-base, dentro do espectro de discricionariedade do magistrado, de maneira que, não havendo nenhuma ilegalidade quanto à fundamentação utilizada ou à fração de exasperação escolhida, deneguei a ordem, no ponto.
+Regime prisional
+Nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+Nesse sentido, não vislumbrei ilegalidade em relação à fixação do regime intermediário, haja vista a existência de circunstância judicial desfavorável.
+Citei os seguintes julgados para corroborar tal conclusão:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. DOSIMETRIA. ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA ACERCA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME. EXISTÊNCIA DE JUSTIFICATIVA PARA MAJORAÇÃO DA PENA PELAS CONSEQUÊNCIAS DO CRIME. REDIMENSIONAMENTO DA PENA. PENA ABAIXO DE 4 ANOS. REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme o posicionamento desta Corte no sentido da possibilidade de estabelecimento de regime inicial mais gravoso do que aquele indicado pelo quantum de pena estabelecido, quando presentes uma ou mais circunstâncias judiciais desfavoráveis, ex vi do art. 33, §§2º e 3º, do Código Penal, como na hipótese.
+2. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 544.801/RO, de minha relatoria, Sexta Turma, julgado em 6/10/2020, DJe de 13/10/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PENA-BASE. PERSONALIDADE DO AGENTE. ILEGALIDADE CONSTATADA. REGIME FECHADO. PENA IGUAL A UM ANO DE RECLUSÃO. REGIME SEMIABERTO ADEQUADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+VI - Conforme o disposto no artigo 33, § 3º, do Código Penal, em relação ao regime inicial para o resgate da reprimenda, além do quantum da pena, também deve haver a análise das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+VII - In casu, consoante consta na decisão agravada, considerando o quantum de pena estabelecido (01 (um) ano de reclusão), bem como a existência de circunstâncias judiciais desfavoráveis, o regime mais gravoso sequente, qual seja, o semiaberto, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 688.856/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021.)
+Mantenho, portanto, a decisão agravada por seus próprios fundamentose nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
