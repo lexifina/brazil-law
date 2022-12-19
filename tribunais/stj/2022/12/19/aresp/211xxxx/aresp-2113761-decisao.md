@@ -1,0 +1,11 @@
+DECISÃO
+MARCO TULIO DE FREITAS agravada decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n.1.0342.19.001679-6/001).
+O Tribunal a quo obstou o prosseguimento do recurso especial em razão danecessidade de reexame de prova (Súmula n. 7 do STJ).
+Todavia, oagravante, nas razões do agravo em recurso especial, no que diz respeito à Súmula n. 7 do STJ, limitou-se a afirmar, en passant, que " ..  no fundamento do REsp por nós interposto, constou-se, contextualmente, o panorama fáticoobtemperadonos autos - sem, de longe, esbarrar na Súmula 7 deste STJ -, com o rigor da aplicação do direito - negativa de vigência aos comandos legais: artigo 33, § 2º,alínea c do Código Penal" (fl. 2.226).
+Ou seja, em nenhum momento, desenvolveu, com um mínimo de profundidade, as razões pelas quais, na visão da defesa, a pretensão de alterar o que já decidido pelas instâncias ordinárias não demandariao revolvimento de matéria fático-probatória.
+Assim, não há como ser conhecido o agravo em recurso especial, nos termos do enunciado na Súmula n. 182 do STJ, in verbis:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Saliento, por oportuno, que, consoante o entendimento da Corte Especial do STJ, a decisão que inadmite o recurso especial não pode ser impugnada parcialmente (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018). Segundo o entendimento que prevaleceu (do Ministro Salomão), não há diversos capítulos no decisum que inadmitiu o recurso especial, que é formado por um único dispositivo, qual seja, o da inadmissão do recurso: "A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva e não a fundamentação como um elemento autônomo em si mesmo".
+O Ministro sustentou, categoricamente, que "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade", sob pena de incidência do enunciado na Súmula n. 182 do STJ.
+À vista do exposto,não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
