@@ -1,0 +1,55 @@
+DECISÃO
+
+    1. Reconsidero a decisão proferida em 23/09/2021 – na qual neguei provimento ao recurso extraordinário deduzido pelo Estado do Rio Grade do Sul – tendo em vista a superveniência do reconhecimento de repercussão geral acerca da controvérsia.
+
+    Julgo prejudicado o agravo interno interposto contra o ato decisório e reexamino o apelo extremo.
+
+    O recurso extraordinário foi interposto pelo Estado do Rio Grande do Sul, com fundamento em permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça daquela unidade federativa assim ementado:
+
+    APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. TRATAMENTO DE SAÚDE.
+
+    1. RESPONSABILIDADE SOLIDÁRIA. CUMPRE TANTO À UNIÃO, QUANTO AO ESTADO E AO MUNICÍPIO, DE MODO SOLIDÁRIO, À LUZ DO DISPOSTO NOS ARTIGOS 196 E 23, II, DA CF/88, O FORNECIMENTO DE MEDICAMENTOS A QUEM DELES NECESSITA, MAS NÃO PODE ARCAR COM OS PESADOS CUSTOS. A AÇÃO PODERÁ SER PROPOSTA CONTRA UM OU CONTRA OUTRO, OU, AINDA, CONTRA ESTADO E MUNICÍPIO, POIS TODOS OS ENTES FEDERATIVOS TÊM RESPONSABILIDADE ACERCA DA SAÚDE PÚBLICA. TEMA 793 DO STF. A COMPREENSÃO PRELIMINAR QUE SE EXTRAI DA TESE FIXADA, CONSIDERANDO QUE O ACÓRDÃO NÃO FOI PUBLICADO, É DE QUE A SUPREMA CORTE REAFIRMOU A SUA JURISPRUDÊNCIA QUANTO À RESPONSABILIDADE SOLIDÁRIA DOS ENTES PÚBLICOS NA EXECUÇÃO DOS SERVIÇOS DE SAÚDE, SENDO CABÍVEL, CONFORME AS REGRAS DE REPARTIÇÃO DE COMPETÊNCIAS, DETERMINAR O RESSARCIMENTO A QUEM SUPORTOU O ÔNUS FINANCEIRO.
+
+     2. AUTOAPLICABILIDADE DO ART. 196 DA CONSTITUIÇÃO FEDERAL DE 1988. POSTULADO CONSTITUCIONAL DA DIGNIDADE DA PESSOA HUMANA. O DIREITO À SAÚDE É GARANTIA FUNDAMENTAL, PREVISTA NO ART. 6º, CAPUT, DA CARTA, COM APLICAÇÃO IMEDIATA – LEIA-SE § 1º DO ART. 5º DA MESMA CONSTITUIÇÃO –, E NÃO UM DIREITO MERAMENTE PROGRAMÁTICO.
+
+    3. PRINCÍPIO DA TRIPARTIÇÃO DOS PODERES. DOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. A VIOLAÇÃO DE DIREITOS FUNDAMENTAIS, SOBRETUDO A UMA EXISTÊNCIA DIGNA, LEGITIMA O CONTROLE JUDICIAL, HAJA VISTA A INÉRCIA DO PODER EXECUTIVO.
+
+    4. PRINCÍPIO DA RESERVA DO POSSÍVEL. NÃO SE APLICA QUANDO SE ESTÁ DIANTE DE DIREITOS FUNDAMENTAIS, EM QUE SE BUSCA PRESERVAR A DIGNIDADE DA VIDA HUMANA, CONSAGRADO NA CF/88 COMO UM DOS FUNDAMENTOS DO NOSSO ESTADO DEMOCRÁTICO E SOCIAL DE DIREITO (ART. 1º, INC. III, DA CARTA MAGNA).
+
+    5. PRINCÍPIO DA PROTEÇÃO DO NÚCLEO ESSENCIAL. PRINCÍPIO DA VINCULAÇÃO. DA PROIBIÇÃO DE RETROCESSO. É DE PRESERVAÇÃO DOS DIREITOS FUNDAMENTAIS QUE SE TRATA, EVITANDO-SE O SEU ESVAZIAMENTO EM DECORRÊNCIA DE RESTRIÇÕES DESCABIDAS, DESNECESSÁRIAS OU DESPROPORCIONAIS.
+
+    6. DIREITO AO TRATAMENTO. SENDO DEVER DO ENTE PÚBLICO A GARANTIA DA SAÚDE FÍSICA E MENTAL DOS INDIVÍDUOS, E RESTANDO COMPROVADA NOS AUTOS A NECESSIDADE DA PARTE REQUERENTE DE SUBMETER-SE AO TRATAMENTO DESCRITO NA INICIAL, IMPERIOSA A PROCEDÊNCIA DO PEDIDO PARA QUE O ENTE PÚBLICO O CUSTEIE. EXEGESE QUE SE FAZ DO DISPOSTO NOS ARTIGOS 196 E 198, INCISOS, DA CONSTITUIÇÃO FEDERAL DE 1988, E 241 DA CONSTITUIÇÃO ESTADUAL DO RIO GRANDE DO SUL, BEM COMO NA LEI ESTADUAL/RS N. 9.908/93.
+
+     8. BLOQUEIO DE VALORES. O DESCUMPRIMENTO COM A OBRIGAÇÃO JUDICIAL IMPOSTA AUTORIZA O BLOQUEIO DE VALORES NO ERÁRIO DOS RÉUS PARA QUE A PARTE AUTORA ADQUIRA O TRATAMENTO NA ESFERA PARTICULAR. PARA TANTO É NECESSÁRIO APRESENTAR TRÊS ORÇAMENTOS NOS AUTOS, DEVIDAMENTE ATUALIZADOS. O DE MENOR VALOR DEVERÁ PREVALECER PARA TAL FINALIDADE.
+
+    RECURSO DESPROVIDO.
+
+    Interposto o recurso extraordinário, a Vice-Presidência do Tribunal de origem determinou a devolução dos autos à Turma Julgadora (CPC, art. 1.030), tendo o órgão judiciário refutado o juízo de retratação em acórdão no qual assentou a seguinte conclusão:
+
+    JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. TRATAMENTO DE SAÚDE NÃO INCORPORADO NO SUS. TEMA 793 DO STF.
+
+    A PRESTAÇÃO DOS SERVIÇOS DE SAÚDE NO ÂMBITO DE SUS É DE RESPONSABILIDADE SOLIDÁRIA ENTRE OS ENTES FEDERADO. O STF AO JULGAR O RE 855178 (TEMA 793) REITEROU A JURISPRUDÊNCIA DA RESPECTIVA CORTE SOBRE A MATÉRIA. O ENTE QUE ARCAR COM AS DESPESAS DO TRATAMENTO, DE FORMA EXCLUSIVA, PODERÁ, NA ESFERA ADMINISTRATIVA OU JUDICIAL, PROMOVER OS ATOS NECESSÁRIOS PARA REAVER A COTA PARTE DOS DEMAIS.
+
+    O FATO DE O TRATAMENTO NÃO CONSTAR NA LISTA DO SUS NÃO EXIGE QUE A UNIÃO LITIGUE NECESSARIAMENTE NO POLO PASSIVO DA AÇÃO JUDICIAL, POIS O TEXTO DA CONSTITUIÇÃO FEDERAL DE 1988 NÃO FAZ ESSA RESSALVA.
+
+    APELO DESPROVIDO EM JUÍZO DE RETRATAÇÃO.
+
+    O recorrente afirma que a decisão recorrida diverge do que foi decidido no Recurso Extraordinário n. 855.178, Tema n. 793/RG, ao determinar o fornecimento, pelo Estado do Rio Grande do Sul, da medicação TOFACITINIBE, tratamento que integra o Grupo 1A do Componente Especializado da Assistência Farmacêutica (CEAF), cuja aquisição é centralizada no Ministério da Saúde.
+
+    É o relatório. Decido.
+
+    2. O Plenário do Supremo Tribunal Federal, ao apreciar o RE 1366243, ministro Gilmar Mendes, Tema n. 1.234/RG, reconheceu a existência de repercussão geral da questão relativa à legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde – SUS, em acórdão assim ementado:
+
+    RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA - ANVISA, MAS NÃO PADRONIZADOS NO SISTEMA ÚNICO DE SAÚDE - SUS. INTERESSE PROCESSUAL DA UNIÃO. SOLIDARIEDADE DOS ENTES FEDERADOS. COMPETÊNCIA PARA PROCESSAMENTO DA CAUSA. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL.
+
+    Embora a literalidade da controvérsia disposta nessa ocasião faça referência apenas à necessidade de inclusão da União no polo passivo em demandas que envolvam o fornecimento de medicamento não incorporado ao SUS, reputo que a compreensão da questão constitucional é igualmente aplicável ao presente caso, cujo o fármaco postulado, embora inserido no Elenco de Medicamentos do Componente Especializado da Assistência Farmacêutica, dentro do Grupo 1A, é de responsabilidade financeira do Ministério da Saúde.
+
+    3. Nesses termos, em atenção ao princípio da segurança jurídica, reconsidero a decisão agravada, e determino a devolução dos autos à instância a quo, para que adote o disposto nos arts. 1.039, 1.040 e 1.041 do Código de Processo Civil.
+
+    4. Publique-se.
+
+Brasília, 19 de dezembro de 2022.
+
+Ministro NUNES MARQUES
+
+Relator
