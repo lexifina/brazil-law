@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelaFUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"MANDADO DE SEGURANÇA. APELAÇÃO E REMESSANECESSÁRIA. QUEBRA DE PRÉ-REQUISITO. CONCESSÃO DAORDEM. TEORIA DO FATO CONSUMADO. MANUTENÇÃO DASENTENÇA.
+1. Em se tratando de aluno formando, é possível, em caráter excepcional, a quebra de pré-requisito de modo a viabilizar a sua graduação, no seu interesse e da sociedade, inclusive porque a medida não acarreta prejuízo à instituição de ensino. Precedentes deste Tribunal.
+2. Deve ser aplicada a teoria do fato consumado, pois a revogação da liminar neste momento, dadas as condições e expectativas que envolvem as partes, contribuiria muito mais para prejudicar interesses dos envolvidos doque para restaurar a ordem jurídica" (fl. 159e).
+Não foram opostos Embargos de Declaração.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 296, 297 e 520 do CPC/2015, assim como ao art. 53, I e II, da Lei 9.394/96, sustentando, em apertada síntese,que "a Universidade, no desempenho de sua missão institucional, tem liberdade para definir a grade curricular de seus cursos, e o exercício desimpedido desse mister é instrumental à plena realização de seus distintos desideratos" (fl. 177e); "não há que se falar em fato consumado, haja vista que o Poder Judiciário pode a qualquer momento reverter tal situação desfavorável à Universidade, diante da ilegalidade cometida" (fl. 180e).
+Por fim, requer a "admissão do presente Recurso Especial no Tribunal a quo, uma vez que todos os requisitos recursais estão plenamente atendidos in casu, conforme restou sobejamente demonstrado, razão pela qual o recurso em tela deve ser remetido ao Egrégio Superior Tribunal de Justiça para sua apreciação e julgamento. Caso assim não se entenda, requer o provimento deste recurso especial, para que seja reformado o V. Acórdão recorrido" (fl. 184e).
+Contrarrazões a fls. 192/194e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 204/205e).
+A irresignação não merece conhecimento.
+Inicialmente, embora a parte agravante alegue violação às supramencionadas normas infraconstitucionais, verifica-se que a controvérsia, no ponto, foi dirimida, pela Corte a quo, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+Ilustrativamente:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ.FUNDAMENTODEBATIDO EMINENTEMENTECONSTITUCIONAL.
+(..)
+VIII - Não obstante a alegada violação do texto da LINDB, tem-se que, conforme se verifica do acórdão recorrido e também das razões recursais, ofundamentodebatido é eminentementeconstitucional,em especial porque o Tribunal de origem lastreou o acórdão recorrido na interpretação do art. 231, § 6º, da Constituição Federal.
+IX - No caso, a pretensão de reforma do acórdão lastreado no textoconstitucionalincumbe ao Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+X - Agravo interno improvido" (STJ, AgInt no AREsp 2.074.502/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 01/12/2022).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ENSINO PARTICULAR. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. ARTS. 186, 187 E 927 DO CÓDIGO CIVIL E 1º, 4º E 6º, IV, VI E VII, DO CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA DA SÚMULA 211/STJ. ATO ILÍCITO. INDENIZAÇÃO. ÔNUS DA SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ. INCIDÊNCIA.
+ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOSCONSTITUCIONALE INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N.126/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - Malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado arts. 186, 187 e 927 do Código Civil e 1º, 4º e 6º, IV, VI e VII, do Código de Defesa do Consumidor, já que, como dito, a questão foi decidida com enfoqueconstitucional (autonomia universitária).
+(..)
+IX - Agravo Interno improvido" (STJ, AgInt no REsp 1.984.433/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/09/2022).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL.AUTONOMIA UNIVERSITÁRIA.
+FISCALIZAÇÃO DAS INSTITUIÇÕES DE ENSINO. ENFOQUECONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. "Aos recursos interpostos comfundamentono CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Ao reconhecer a legitimidade do Poder Público para o manejo de ações tendentes à fiscalização e ao zelo pelo padrão de qualidade dos estabelecimentos de ensino, o Tribunal de origem decidiu a controvérsia à luz defundamentoeminentementeconstitucional(interpretação dos arts. 206 e 207 da CF/1988), o que evidencia a inviabilidade de análise do apelo nobre, sob pena de usurpação da competência da Suprema Corte.
+3. Agravo interno desprovido" (STJ,AgInt no REsp 1.382.784/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 27/03/2020).
+Ainda, em que pesem as razões da parte recorrente, verifica-se, do exame do acórdão recorrido, que o Tribunal a quo não emitiu pronunciamento acerca dos arts. 296, 297 e 520 do CPC/2015, assim como do art. 53, I e II, da Lei 9.394/96. Assim, não observado o requisito do prequestionamento, incide, por analogia, os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.Ressalte-se que não houve, sequer, a oposição de Embargos de Declaração.
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO VERBAL DE SERVIÇO DE PUBLICIDADE E MARKETING. VEDAÇÃO DE VEICULAÇÃO DA CRIAÇÃO DO AUTOR FORA DO ESTADO EM QUE FOI FIRMADO O CONTRATO. RESTRIÇÃO NÃO RECONHECIDA PELO TRIBUNAL. ALEGAÇÃO DE VIOLAÇÃO DA LEI 9.610/98. FALTA DE PREQUESTIONAMENTO. AGRAVO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. "O prequestionamento implícito pressupõe que a Corte local decida a matéria com base nos dispositivos legais tidos por violados, ainda que não lhes faça menção expressa, o que não ocorreu no presente caso" (AgInt no AgInt nos EDcl no AREsp 1.430.535/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 3.10.2019).
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.564.234/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 03/05/2022).
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. Não cabe a alegação de dissídio com julgados de Turma Recursal ou da Turma Nacional de Uniformização - TNU.
+3. Agravo interno não provido" (STJ, AgInt no AREsp 1.951.691/SP Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/04/2022).
+Por fim, cumpre registrar que a Corte de origem, ao analisar a controvérsia, asseverou, no que interessa, que:
+"Entretanto, verifico que essa regra vem sendo flexibilizada em situações peculiares, como a do provável formando, admitindo-se a matrícula em disciplinas subsequentes (quebra de pré-requisito), em atenção ao princípio da razoabilidade.
+(..)
+No caso, ainda, é necessário registrar que a sentença de concessão da ordem manteve o entendimento da liminar deferida no ev. 3 do mandado de segurança originário, assegurando a matrícula na disciplina Prática Jurídica Social II (08394), do curso de Direito da Universidade Federal do Rio Grande - FURG, no ano letivo de 2021.
+Assim, a revisão da sentença, neste momento, dadas as condições e expectativas que envolvem as partes, contribuiria muito mais para prejudicar interesses dos envolvidos do que para restaurar a ordem jurídica, estando a situação fática consolidada" (fl. 162e).
+Entretanto, tais fundamentos não foram impugnados pelo recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS PARTES RÉS.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Para derruir as conclusões do Tribunal de piso e acolher o inconformismo recursal no sentido de verificar qual a natureza da pretensão da autora na demanda, bem assim a ocorrência da alegada prescrição, segundo as alegações vertidas nas razões do apelo extremo, seria imprescindível a análise de cláusulas contratuais e o revolvimento de matéria fática, providências vedadas na via estreita do recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3.1. Seria imprescindível derruir a afirmação do Órgão de origem, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Agravo interno desprovido" (STJ, AgInt no AREsp 2.083.957/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 01/09/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO A DIREITO DA PERSONALIDADE. LEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ATO ILÍCITO. DANO MORAL. REVISÃO. SÚMULA 7/STJ. VALOR DA CONDENAÇÃO. REEXAME. EXORBITÂNCIA NÃO CONSTATADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "a falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial" (AgInt no AREsp 1.940.620/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 29/11/2021, DJe 01/12/2021).
+(..)
+5. Agravo interno improvido" (STJ, AgInt no AREsp 1.955.096/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 21/02/2022).
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REDISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. FALTA DE PREQUESTIONAMENTO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DO RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento (Súmula 211/STJ).
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento central e suficiente para manter o acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Agravo interno improvido" (STJ, AgInt no AREsp 1.848.660/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 18/02/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECLUSÃO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA N. 283. MATÉRIA NÃO ALEGADA EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE CONHECIMENTO EM RECURSO POSTERIOR. INOVAÇÃO RECURSAL. PRECLUSÃO.
+(..)
+2. A subsistência de fundamento não atacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, consoante o entendimento disposto na Súmula n. 283 do STF, aplicável por analogia.
+(..)
+5. Agravo interno não conhecido" (STJ, AgInt no REsp 1.910.283/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/12/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE SUSTAÇÃO DE PROTESTO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+4. Agravo interno não provido" (STJ, AgInt no AREsp 1.940.620/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 01/12/2021).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
