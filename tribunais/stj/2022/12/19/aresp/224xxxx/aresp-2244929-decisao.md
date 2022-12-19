@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por CRISTIANE CANET MOCELLIN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO MONITORIA EM FASE DE CUMPRIMENTO DE SENTENÇA. CASO CONCRETO. DEFERIMENTO DE PENHORA NO ROSTO DE AUTOS DE EXECUÇÃO AJUIZADA PELA EXECUTADA. ALEGAÇÃO. CONSTRIÇÃO SOBRE CRÉDITO PERTENCENTE A TERCEIRO ESTRANHO. NÃO VERIFICAÇÃO. EXECUTADA QUE FIGURA COMO EXEQUENTE NO FEITO EXECUTIVO SOBRE O QUAL RECAIU A CONSTRIÇÃO. PENHORA. MANUTENÇÃO. ALTERAÇÃO DA VERDADE DOS FATOS CONSTATADA. LITIGÂNCIA DE MÁ-FÉ. CONFIGURAÇÃO. DECISÃO MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 80 e 81 do CPC, no que concerne à não configuração da litigância de má-fé, uma vez que a recorrente suscitou tese jurídica legítima dentro do regular exercício do direito processual. Aduz que:
+Ora, de fato, a Recorrente trouxe elementos a conhecimento do Juízo de Primeiro Grau e do Tribunal e contextualizou documentalmente a realização do acordo no âmbito de deliberações societárias. Não se criou algo do vazio. Todos os argumentos apresentados na defesa foram baseados em deliberações societárias em que ficou claro que a San Telmo iria emprestar valores a Ouro Fino  e não Cristiane.
+Portanto, ainda que constasse nos documentos do mútuo, tal fato se deu como representante que era da San Telmo. A tese foi, portanto, amparada em elementos de prova consistentes. A Recorrente não litiga de má-fé quando defende, dentro dos parâmetros legais, o que acredita ser seu direito e não age de forma contrária à lealdade processual  até porque exerceu se direito assegurado pela lei processual.
+ ..
+A condenação por litigância de má-fé é absoluta exceção na ordem jurídica brasileira, como reiteram os diversos precedentes do STJ. E, no caso, passou-se muito longe de má-fé: o que houve foi tão somente a dedução de tese jurídica (plenamente fundamentada, aliás)
+ ..
+Trata-se, quando menos, de controvérsia jurídica, passível de ser suscitada e decidida. Nada impede que se decida contra  como de fato fez; mas não se pode impedir que a Recorrente suscite discussão jurídica legítima.
+ ..
+O exercício do regular exercício do direito processual, no prazo legal concedido, não pode ser taxado de má-fé. E mais a defesa apresentada não teve qualquer potencialidade de prejudicar ou retardar o andamento do feito, eis que destituída de efeito suspensivo, tampouco o agravo de instrumento interposto (fls. 70/74).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+É certo que a parte pode deduzir em juízo todos os argumentos que entende pertinentes à defesa de seu direito, mas não, veladamente, distorcer fatos que são demonstrados, indenes de dúvidas, em documentos constantes de autos de processos ajuizados, com o intuito de induzir o julgador a erro.
+Essa foi a conduta da agravante na impugnação à penhora, que se repete neste grau recursal, em sua peça de agravo de instrumento.
+O contraditório e a ampla defesa não são ilimitados e é por essa razão que existem instrumentos processuais destinados a coibir atuação de parte que abusa de seu direito de defesa, como a multa por litigância de má-fé, que se amolda perfeitamente à situação dos autos (fls. 61).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
