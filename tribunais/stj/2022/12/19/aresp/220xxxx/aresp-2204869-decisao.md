@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FREDSON SOUZA DE ANDRADE e outros(FREDSON e outros), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça da Bahia, da relatoria do Desembargador Mário Augusto Albiani Alves Junior, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONSÓRCIO. ALEGAÇÃO DE RECUSA DE CADASTRO. NÃO COMPROVADA. INDENIZAÇÃO POR DANO MORAL. INDEVIDA. DILUIÇÃO DO LANCE NAS PARCELAS. REGULARIDADE. RECURSO NÃO PROVIDO. HONORÁRIOS SUCUMBENCIAIS MAJORADOS. ART. 85, §11, CPC. Trata-se de ação revisional de contrato de consórcio, em que os autores/apelantes sustentam que houve recusa de cadastro do primeiro apelante, após pagamento do lance, havendo liberação do veículo apenas com a cessão da quota ao segundo apelante. Aduzem que o valor do lance não foi corretamente abatido das parcelas posteriores e que houve cobranças abusivas. Buscam indenização por danos morais. Embora trate-se de demanda consumerista, em que é possível a inversão do ônus da prova, para facilitar a defesa do consumidor, o magistrado não está obrigado a fazer tal inversão. No caso, o apelado apenas conseguiria provar o motivo da cessão se, de fato, fosse verdade que houve recusa do cadastro do primeiro apelante. Deve-se notar que sequer há indício de que o cadastro do primeiro apelante foi recusado. Aplica-se, portanto, a regra do art. 373, I, do CPC, de que cabe ao autor provar os fatos constitutivos de seu direito. Como não houve demonstração de que o primeiro apelante teve recusado seu cadastro, não há prova do direito à indenização por danos morais. No tocante à alegação de que a diluição das parcelas não ocorreu da forma como simulada, deve-se observar que o valor das parcelas foi reduzido a valor muito próximo do simulado e em alguns meses, conforme fl. 45, a parcela foi inferior ao valor simulado. Ademais, o contrato de consórcio não garante valor fixo da parcela, havendo variação no valor pago a medida que varia o valor do bem consorciado, como demonstrado no documento de fl. 38. Recurso não provido(e-STJ, fls. 325/326)
+Os embargos de declaração opostos por FREDSON e outrosforam rejeitados(e-STJ, fls. 291/296).
+Irresignados, FREDSON e outrosinterpuseramrecurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 6º, II, IV e VI, e51, IV,do CDC, ao sustentarque(1)cumpriu com sua obrigação, quitando o valor na data aprazada, criando expectativa do recebimento do veículo, mas, no entanto, houve embaraço na sua entrega, sendo direito do consumidora existência de informações claras e boa-fé contratual, devendo haver a inversão do ônus da prova diante da hipossuficiência do consumidor.
+O recurso não foi admitido peloTribunal de Justiça da Bahia(e-STJ, fls. 500/501).
+Nas razões do presente agravo, FREDSON e outrosalegaram que os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Do negócio
+FREDSON e outros asseveram teremcumpridocom sua obrigação contratual, quitando o valor na data aprazada, criando expectativa do recebimento do veículo, mas, no entanto, houve embaraço na sua entrega, sendo direito do consumidoraexistência de informações claras e boa-fé contratual, devendo haver a inversão do ônus da prova diante da hipossuficiência do consumidor.
+A questão foi assim esclarecida o acórdão:
+Do exame minucioso dos fólios, todavia, constato que não houve a comprovação do dano alegado pelo autor.
+É incontroverso que o primeiro apelante realizou contrato de consórcio com o apelado, tendo, posteriormente, cedido sua cota ao segundo apelante. Os motivos da cessão, no entanto, é que são controvertidos.
+Os apelantes alegam que houve recusa do cadastro do primeiro apelante, enquanto o apelado sustenta que não houve tal recusa e desconhece o motivo da cessão. Embora trate-se de demanda consumerista, em que é possível a inversão do ônus da prova, para facilitar a defesa do consumidor, o magistrado não está obrigado a fazer tal inversão.
+Deve-se notar que sequer há indício de que o cadastro do primeiro apelante foi recusado.
+Para qualquer outro motivo que possa ter havido entre os apelantes para realização da cessão da quota do consórcio, não seria possível imputar ao apelado o ônus da prova, por ser impossível a este produzi-la.
+Aplica-se, portanto, a regra do art. 373, I, do CPC, de que cabe ao autor provar os fatos constitutivos de seu direito. Como não houve demonstração de que o primeiro apelante teve recusado seu cadastro, não há prova do direito à indenização por danos morais(e-STJ, fls. 329/330).
+Assim, rever as conclusões quanto à inexistência de comprovação de dano, bem como impossibilidade de inversão do ônus da prova, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO BANCÁRIO. TÍTULO EXECUTIVO. DEMONSTRATIVO DE EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. SÚMULA. VIOLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. ALEGAÇÕES. VEROSSIMILHANÇA. NÃO DEMONSTRAÇÃO. REEXAME. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE.
+ ..
+6. A discussão acerca do cabimento ou não da regra inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência do consumidor e da verossimilhança das alegações deduzidas, o que, no presente caso, reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.955.527/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇOdo agravo para NÃOCONHECERdo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de FIAT e outra, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observados os benefícios da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO REVISIONAL. CONSÓRCIO. INVERSÃO DO ÔNUS DA PROVA. DANO.REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULANº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
