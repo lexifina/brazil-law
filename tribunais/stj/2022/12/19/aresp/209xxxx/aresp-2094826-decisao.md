@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ(e-STJ fls. 173/174).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 61):
+AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - TUTELAANTECIPATÓRIA CONCEDIDA PARA AUTORIZAR O DEPÓSITOJUDICIAL DAS PRESTAÇÕES E PARA DETERMINAR A ENTREGADAS CHAVES - POSTERIOR COMUNICAÇÃO DA PARTEREQUERIDA DE QUE A OBRIGAÇÃO DE FAZER SE TORNOUIMPOSSÍVEL - DECISÃO RECORRIDA QUE, NESSE CONTEXTO,REJEITOU O PEDIDO DE INCIDÊNCIA DE ASTREINTES -IRRESIGNAÇÃO DA PARTE AUTORA - PRETENSÃO DE FIXAÇÃO DEMULTA PELO DESCUMPRIMENTO DA TUTELA ANTECIPADAANTERIORMENTE CONCEDIDA - IMPOSSIBILIDADE -DEMONSTRATIVO DE QUE A OBRIGAÇÃO DE FAZER IMPOSTANÃO É PASSÍVEL DE CUMPRIMENTO DIANTE DA ALIENAÇÃO DAUNIDADE IMOBILIÁRIA PARA TERCEIROS ANTES DE TOMARCONHECIMENTO DA TUTELA ANTECIPATÓRIA CONCEDIDA -OPORTUNA CONVERSÃO DA OBRIGAÇÃO EM INDENIZAÇÃO -INCIDÊNCIA DO ART. 499 DO CPC - DECISÃO MANTIDA - RECURSONÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 99/102).
+Nas razões do recurso especial (e-STJ fls. 111/123), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 139, IV, e 537, § 4º, do CPC/2015, tendo em vista que "devem ser fixadas as astreintes, ainda que impossível o cumprimento da obrigação por culpa dos Recorridos, uma vez que o destinatário da ordem judicial deve ter em mente a certeza de que eventual desobediência lhe trará consequências mais gravosas que o próprio cumprimento da ordem, sob pena de tornar inócuo o instituto processual e de violar o direito fundamental à efetividade da tutela jurisdicional" (e-STJ fl. 117).
+No agravo (e-STJ fls. 183/189), afirma-sea presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 201/214 (e-STJ).
+É o relatório.
+Decido.
+Segundo o Tribunal de origem, "não obstante seja possível a fixação de astreintes para a hipótese de descumprimento de obrigação, é certo que no caso em tela o cumprimento se tornou impossível, a justificar a solução adotada pela decisão guerreada, ou seja, deliberar pela conversão da obrigação de fazer em perdas e danos" (e-STJ fl. 63).
+No mesmo sentido, encontra-se a jurisprudência desta Corte Superior, segundo a qual"é cabível a aplicação de astreintes como instrumento de coerção ao cumprimento de decisões judiciais que imponham obrigação de fazer ou não fazer. Todavia, deve ser afastada a incidência da referida multa na hipótese de impossibilidade de se alcançar a finalidade da ordem judicial" (AgRg no AREsp 431.294/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/11/2014, DJe de 03/12/2014).
+No mais, modificar o entendimento do acórdão impugnado quanto à impossibilidade de cumprimento da obrigação, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
