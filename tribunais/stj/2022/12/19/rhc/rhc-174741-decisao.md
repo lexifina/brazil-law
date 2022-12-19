@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 68):
+HABEAS CORPUS. ROUBO TRIPLAMENTE MAJORADO PELO CONCURSO DE AGENTES, USO DE ARMA DE FOGO E RESTRIÇÃO DA VÍTIMA. SEGREGAÇÃO CAUTELAR MANTIDA.
+A materialidade e os indícios suficientes de autoria restaram bem demonstrados. O periculum libertatis, por sua vez, também resta evidenciado diante das circunstâncias fáticas e da gravidade concreta dos crimes, envolvendo concurso de pessoas e premeditação, com acesso ao prédio com uso de ""tags"", mantendo as vítimas dentro de um local na residência, mediante uso de arma e violência. A hipótese dos autos trata-se de crime de Roubo Triplamente Majorado, com emprego de excessiva violência.
+Registra-se que não há notícias, até a presente data, do cumprimento do mandado de prisão nos autos da ação penal vinculada ao feito. Portanto, o paciente não se encontra segregado.
+A decisão hostilizada é lastreada em critérios de necessidade e suficiência, constantes nos incisos I e II do artigo 282, do Código de Processo Penal, que devem ser observados quando da imposição das medidas cautelares no Processo Penal, dentre as quais se insere a Prisão Preventiva.
+Nestas condições, pelas circunstâncias acima apontadas, é que vislumbro que a imposição da Prisão Preventiva, neste momento, é necessária, adequada e não é excessiva.
+Substituição da prisão preventiva por medidas cautelares que não se mostra adequada e suficiente ao caso concreto.
+ORDEM DENEGADA.
+Em 22/2/2022, orecorrente teve a prisão preventiva, sendo denunciado nos termos do art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+Neste recurso, argumenta, em suma, com a existência de constrangimento ilegal, pois não se sabe exatamente como ocorreu o reconhecimento de sua pessoa na Delegacia de Polícia,afirmando, ainda, que não há nos autos notícias de observância de qualquer formalidade a que alude o art. 226 do CPP, requerendo, liminarmente e no mérito, a revogação do mandado de prisão contra si expedido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Arespeito da ilegalidade levantada, cumpre ressaltar que o Tribunal de origem manteve a decisão monocrática que indeferiu a liminar, transcrevendo-a, no ponto, nesses termos (fl. 65):
+ ..  Em relação ao argumento de que não foi observado o art. 226 do Código de Processo Penal, incabível na via estreita desta ação constitucional, de rito célere, o exame aprofundado da prova ao efeito de analisar a tese de negativa de autoria ventilada pelos impetrantes, o que deve ser relegado para a análise do juízo de origem na sentença. ..
+Desse modo, tem-se que a matéria, na forma como aqui trazida, não pode ser analisada por estaCorte, tendo em vista que não apreciada pelo Tribunal de origem, fato que obsta o seu exame, sob pena de indevida supressão de instância. Confira-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO E ASSOCIAÇÃO CRIMINOSA. NULIDADE POR INOBSERVÂNCIA AO DISPOSTO NO ART. 226 DO CÓDIGO DE PROCESSO PENAL CPP. PRECLUSÃO TEMPORAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ E DO SUPREMO TRIBUNAL FEDERAL STF. TESE NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. O Tribunal de origem julgou a apelação do agravante em 12/8/2015, tendo o acórdão transitado em julgado em 2/10/2015. Somente no dia 19/4/2022 foi impetrado o presente habeas corpus, o que impede o seu conhecimento em decorrência da preclusão da matéria.
+3. Com efeito, em respeito à segurança jurídica e lealdade processual, a jurisprudência do Superior Tribunal de Justiça STJ tem se orientado no sentido de que as nulidades, ainda quando denominadas absolutas, devem ser arguidas em momento oportuno, bem como qualquer outra falha ocorrida no julgamento, sujeitando-se à preclusão temporal. Precedentes do STJ e do STF.
+4. Ademais, a tese de nulidade do processo em razão da condenação do paciente ter-se lastreado tão-somente no reconhecimento fotográfico, sem observância do art. 226 do CPP, não foi debatida no Tribunal de origem, ficando esta Corte impedida de manifestar-se sobre o tema, sob pena de incidir em indevida supressão de instância.
+5. De se destacar que "esta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância, não se presumindo o prejuízo somente pelo fato do agravante ter sido condenado" (AgRg no HC n. 686.002/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 6/10/2021).
+6. Agravo regimental desprovido. (AgRg no HC n. 736.632/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, liminarmente, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
