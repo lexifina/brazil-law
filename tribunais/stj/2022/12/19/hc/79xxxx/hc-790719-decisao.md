@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  LEANDRO FREITAS CORDEIRO,  apontando  como  autoridade  coatora  Desembargador do  Tribunal  de Justiça do Estado de Minas Gerais,  no  julgamento  do  HC  n.  1.0000.22.289881-9/000.
+Extrai-se dos autos que o paciente foi preso preventivamente, nos autos da ação penal em que foi denunciado pela suposta prática dos crimes tipificados no art. 1º, II, c/c o § 4º, III, da Lei n. 9.455/1997 e no art. 2º, caput, c/c o § 3º, da Lei n. 12.850/2013, na forma do art. 69 do CP.
+Impetrado prévio writ na origem, a liminar foi indeferida.
+Nesta via, sustentam os impetrantes que a manutenção da segregação cautelar careceria de fundamentação idônea, reputando ausentes os requisitos autorizadores insculpidos no art. 312 do Código de Processo Penal.
+Dizem que o paciente teria sido encarcerado pela primeira vez, em razão unicamente do depoimento isolado do corréu Diego de Oliveira Defende, o que não poderia ser considerado como indício suficiente de autoria.
+Afirmam que as características do paciente não corresponderiam às informadas pelo corréu em interrogatório extrajudicial e que estaria "sendo acusado de pertencer à uma organização criminosa e ter se associado a pessoas que sequer conhece, para cometer crimes que nem tinha conhecimento de sua existência" (e-STJ fl. 10).
+Asseveram que, ou o paciente estaria sendo confundido com outra pessoa ou estaria sendo indicado dolosamente pelo referido corréu.
+Alegam que a prisão deveria ser relaxada, por falta de realização da audiência de custódia, bem como por ausência das hipóteses descritas no art. 302 do CPP.
+Realçam as condições pessoais favoráveis do acusado e consideram que faria jus à liberdade provisória, sendo possível a aplicação de medidas cautelares diversas.
+Acrescentam que também seria cabível a substituição da custódia por prisão domiciliar, eis que o paciente tem uma filha menor de idade e sua companheira está grávida, sendo o responsável pelo sustento da família.
+Defendem o afastamento do óbice da Súmula 691/STF, sob o argumento de que a decisão que indeferiu a liminar na origem é teratológica, por absoluta ausência de fundamentação, além de ter ratificado flagrante ilegalidade praticada pelo magistrado singular.
+Requerem, liminarmente e no mérito, seja reconhecida a nulidade pela não realização de audiência de custódia, com o consequente relaxamento da prisão. Subsidiariamente, pugnam para que seja revogada a segregação preventiva do paciente, expedindo-se alvará de soltura em seu favor, ainda que mediante a aplicação de medidas cautelares alternativas ou substituição por prisão domiciliar.
+É  o  relatório.  Decido.
+A  jurisprudência  deste  Superior  Tribunal  de  Justiça  firmou-se  no  sentido  de  que,  "ausente  teratologia  ou  evidente  ilegalidade  na  decisão  impugnada  capaz  de  justificar  o  processamento  da  presente  ordem,  pela  mitigação  da  Súmula  691  do  STF,  deve-se  resguardar  a  competência  do  Tribunal  Estadual  para  análise  do  tema  e  evitar  a  indevida  supressão  de  instância"  (AgRg no HC n. 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo as seguintes considerações (e-STJ fl. 1.527):
+ .. a concessão de liminar na precária via do habeas corpus só é possível quando inegavelmente demonstrados o perigo na demora e a fumaça do bom direito, o que não é o caso, data vênia.
+Se o periculum in mora parece sempre existir quando se trata do remédio heroico, fato é que não foi aqui cabalmente demonstrado o fumus boni iuris ensejador da ordem precária.
+A precariedade de informações, em que pese a inicial ter descrito a ilegalidade e ter vindo acompanhada de documentos, não autoriza desde logo a conclusão de que a magistrada agiu arbitrária e ilegalmente. É certo que a liminar, que nem sequer tem previsão legal, só poderia ser deferida se o paciente demonstrasse a coação desmedida por parte da autoridade impetrada de forma plena e induvidosa.
+Não sendo o caso, a prudência recomenda sejam colhidas informações do juízo a quo para que melhor se apure o fato e, então, se decida sobre a existência de constrangimento ilegal que deva ser sanado na presente via.
+Assim, INDEFIRO A LIMINAR.
+Dessa  forma,  não  se  constata  qualquer  vício  na  negativa  do  pleito  liminar  formulado  no  mandamus  originário,  sendo  certo  que  o  revolvimento  das  questões  nele  aventadas  e  aqui  reiteradas  certamente  acarretaria  a  indevida  supressão  de  instância,  pois  serão  alvo  de  exame  oportuno  na  Corte  de  Justiça  indicada  como  coatora  quando  do  julgamento  do  seu  mérito.
+Ante  o  exposto,  com  fundamento  no  art.  210  do  Regimento  Interno  deste  Superior  Tribunal  de  Justiça,  indefiro  liminarmente  o  presente  habeas  corpus.
+Publique-se.  Intime-se.
+Cientifique-se  o  Ministério  Público  Federal.
