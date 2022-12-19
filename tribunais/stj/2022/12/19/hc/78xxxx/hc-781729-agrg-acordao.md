@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/12/2022 a 19/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de Agravo Regimental contra decisão proferida pela Presidência desta Corte Superior que indeferiuliminarmente ohabeas corpus, ante a incidência do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+No presente recurso, o agravante repisa as razões suscitadas nohabeas corpus, reiterando aausência de fundamentação concreta para a imposição daprisão cautelar. Destaca, portanto, a ausência dos pressupostos insertos no artigo 312 do Código de Processo Penal -CPP.
+Requer, assim, o provimento do presente recurso, a fim de que seja expedido alvará de soltura em seu favor.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO FUNDAMENTADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Diante de fundamentada decisão que indefere a liminar na impetração originária, não há que se falar em flagrante ilegalidade a ensejar a superação do enunciado n. 691 da STF.
+2. Agravo regimental desprovido.
+VOTO
+Em que pese o esforço daagravante, a decisão deve ser mantida por seus próprios fundamentos.
+Destaque-se que ohabeas corpusfoi impetrado contra decisão de desembargador relator que indeferiu o pedido de liminar no feito originário. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento dowrit.
+A superação do referido enunciado sumular é possível apenas na hipótese de flagrante constrangimento ilegal, o que não ocorre no presente caso.
+Com efeito, destaco o seguinte trecho da decisão proferida pelo Tribunal de origem:
+"Por não demonstrado o manifesto constrangimento ilegal na custódia cautelar, descabe o deferimento da medida liminar. Isso porque, a r. decisão está devidamente fundamentada diante da prova da materialidade do delito e os indícios de autoria, considerando que o paciente teria sido preso em posse de 5 aparelhos celulares, 2 facas, 1 balança de precisão, 3 rolos de filme plástico, R$ 190,00 em espécie, papéis com anotações da contabilidade do tráfico, 319 porções de maconha e 3 porções maiores da mesma substância, pesando, ao todo, 435,8g, denotando que ele não só comercializava as substâncias, mas também era responsável pela preparação e embalagem das drogas. No mais, ressaltou o douto magistrado a quo que a entrada no domicílio foi autorizada pelo proprietário da residência e a descoberta das drogas resultou de encontro fortuito, decorrente do forte cheiro exalado pela maconha e não de uma busca aleatória. Por fim, anote-se que, na delegacia de polícia, o paciente optou por permanecer em silêncio, informando o Delegado de Polícia que não constatou nenhum tipo de lesão aparente no indiciado, determinando a realização de exame de Corpo de Delito (IML), bem como que, inquirido, ele apenas alegou que não sofreu nenhum tipo de violência física, moral ou psicológica por parte dos policias que realizaram a sua condução até o Plantão Policial, bem como pelos policias que realizaram os atos de Polícia Judiciaria."(fl. 128)
+Assim, diante de fundamentada decisão do desembargador relator, não se vislumbra hipótese de superação do enunciado n. 691 da Súmula do STF.
+A propósito, confiram-se alguns precedentes:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. LAVAGEM DE DINHEIRO. ILEGALIDADE DO INQUÉRITO POLICIAL INSTAURADO CONTRA O RECORRENTE. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANDAMUS ORIGINÁRIO IMPETRADO CONTRA DECISÃO DE MAGISTRADO QUE INDEFERIU PEDIDO LIMINAR EM WRIT.INCIDÊNCIA DO ENUNCIADO 691 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.AUSÊNCIA DE FLAGRANTE ILEGALIDADE. COAÇÃO ILEGAL NÃO CONFIGURADA.DESPROVIMENTO DO RECLAMO.
+1. A aventada ilegalidade da instauração de inquérito policial contra o recorrente não foi alvo de deliberação pela Corte de origem no aresto impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.Precedentes.
+2.Não há qualquer mácula no não conhecimento do mandamus originário, pois foi foi impetrado em face de decisão singular de magistrado que indeferiu a liminar pleiteada em prévio writ, o que atrai a incidência do enunciado 691 da Súmula do Supremo Tribunal Federal.
+3.Não há que se falar em superação do referido óbice sumular, como excepcionalmente se admite, tendo em vista que, consoante destacado pelo Tribunal de origem, em uma análise perfunctória, não se vislumbra constrangimento ou ilegalidade manifestos passíveis de serem reconhecidos. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no RHC 122.341/PA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 22/4/2020).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. INCIDÊNCIA DA SÚMULA N. 691/STF. CRIME DE TORTURA PARA OBTENÇÃO DE INFORMAÇÕES. ALEGADA NULIDADE DA ORDEM DE PRISÃO DEFINITIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. RECONHECIMENTO DE PRESCRIÇÃO. QUESTÃO PASSÍVEL DE INDEFERIMENTO DO PEDIDO LIMINAR.MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA.PRECEDENTES. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. A questão referente ao reconhecimento da prescrição é passível de indeferimento do pedido de liminar quando não for evidenciada de plano, por demandar mais aprofundada análise do caso, em exame próprio do mérito da impetração (AgRg no HC 484.437/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/3/2019, DJe de 18/3/2019).
+3.No caso dos autos, não há que se falar em superação do referido óbice sumular, como excepcionalmente se admite, tendo em vista que, consoante destacado pela Juíza Federal, em substituição de Desembargador Federal, Relatora do mandamus originário, em uma análise perfunctória, não se vislumbra constrangimento ou ilegalidade manifestos passíveis de serem reconhecidos em sede liminar.
+4. Agravo regimental improvido.
+(AgRg no HC 545.259/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 9/12/2019).
+Ante o exposto, voto pelo desprovimento do presente agravo regimental.
