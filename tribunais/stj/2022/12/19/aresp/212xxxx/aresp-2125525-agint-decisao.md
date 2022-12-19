@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interno interposto por TRADITIO COMPANHIA DE SEGUROS) contra a decisãode fls. 500-502 (e-STJ), da Presidência desta Corte, que não conheceudo recurso especial, com base no art. 21-E, inciso V, doRegimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação aos fundamentos da decisão de admissibilidade.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal do Estado do Paraná assim ementado (fl. 82, e-STJ):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - APRESENTAÇÃO DE SEGURO GARANTIA - POSSIBILIDADE - LEI 11.382/2006 E CÓDIGO DE PROCESSO CIVIL DE 2015 - GARANTIA COM MESMO STATUS DE DINHEIRO - AUSÊNCIA DE PREJUÍZO À PARTE EXEQUENTE - APÓLICE OFERTADA QUE VISA À GARANTIA DO DÉBITO, NÃO O PAGAMENTO VOLUNTÁRIO - AUSÊNCIA DE DISPONIBILIDADE IMEDIATA DO VALOR AO EXEQUENTE - PRETENSÃO DE AFASTAMENTO DA MULTA PREVISTA NO ARTIGO 523, § 1º DO CPC NÃO ACOLHIDA - PEDIDO SUBSIDIÁRIO DE INCIDÊNCIA DAS PENALIDADES SOMENTE SOBRE O VALOR INADIMPLIDO - ACOLHIMENTO - INTELIGÊNCIA DO ART. 523, § 2º DO CÓDIGO DE PROCESSO CIVIL - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 278-283, e-STJ).
+Nas razões do recurso especial (fls. 402-411, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 523, 525 e 835 do Código de Processo Civil de 2015.
+Sustentou, em suma, ser indevida sua condenação ao pagamento de multa e honorários advocatícios sobre o valor executado, porquanto a determinação da sentença foi integralmente obedecida, seja pelo depósito parcial da quantia devida, seja pela apresentação do seguro garantia quanto ao montanteremanescente, considerando que o referido seguro garantia equivale a dinheiro.
+Apontou que o oferecimento do seguro garantia, além de não acarretar nenhum prejuízo ao exequente, atende ao princípio da menor onerosidade do devedor.
+Em juízo de admissibilidade (fls. 457-458, e-STJ), a Corte de origem negou o processamento do recurso especial ante a aplicação da Súmula 83/STJ, em virtude de o acórdão recorrido encontrar-se em harmonia com aj jurisprudência desta Corte.
+Irresignada (fls. 467-470, e-STJ), aduziu a agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 480-488 (e-STJ).
+O feito ascendeu ao Superior Tribunal de Justiça. Entretanto, aPresidência desta Corte, por decisão monocrática, não conheceu do agravoem recurso especial (e-STJ, fls. 500-502), uma vez que a recorrente nãoimpugnou todos os fundamentos da decisão de inadmissibilidade, emdesrespeito ao preconizado no art. 932, III, do CPC/2015, ensejando aaplicação da Súmula n. 182/STJ.
+Neste agravo interno (e-STJ, fls. 509-513), defende a insurgente a inaplicabilidade do óbice apontado para o nãoconhecimento do agravo em recurso especial, afirmando ter impugnado todosos fundamentos da decisão de inadmissibilidade no agravo apresentado.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão doagravo interno ao Colegiado.
+Impugnação às fls. 517-522 (e-STJ).
+Brevemente relatado, decido.
+No caso, observa-se que a decisão do TJPR que negou seguimento ao recursoespecial foi impugnada pela parte agravante, ainda que sucintamente,motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisãoagravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim deproceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conforme entendimento desta Corte Superior, "a multa a que se refere o art. 523 do Código de Processo Civil de 2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito." (AgInt no AREsp 1.904.409/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/03/2022, DJe 24/03/2022).
+Assim, o oferecimento de seguro-garantia não impede a incidência da multa e dos honorários, nos termos do art. 523 do CPC/2015, por não se confundir com o pagamento voluntário.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CUMPRIMENTO DE SENTENÇA. SEGURO-GARANTIA. INCIDÊNCIA DA PENALIDADE DO ART. 523 DO CPC. OFERECIMENTO DO SEGURO NÃO SE CONFUNDE COM O PAGAMENTO VOLUNTÁRIO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Na forma da tranquila jurisprudência desta Corte, a multa do art. 523, §1º, do CPC não incidirá quando o executado pagar voluntariamente a quantum executado, situação que não se confunde com quaisquer das formas de garantia do juízo, como a penhora de bens ou valores para posterior discussão do débito ou a oferta de seguro-garantia.
+2. A pretensão do recorrente de transmudar o seguro-garantia, cuja função não é outra senão assegurar futura solvência do débito, em pagamento voluntário, por alegada equivalência a valor em espécie não se mostra sequer razoável.
+3. O legislador quando equiparou o seguro a dinheiro o fez no art. 835 do CPC, norma voltada a regular a ordem a ser observada quando da realização da penhora.
+4. Não há nada menos pagamento voluntário do que a penhora, seja de dinheiro, ou de qualquer outro dos bens ali arrolados, pois expressão da imposição da vontade do Estado sobre o patrimônio do particular, ou seja, não é nem pagamento e nem voluntário.
+5. AGRAVO INTERNO DESPROVIDO (AgInt no REsp n. 1.889.144/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022).
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 84-85, 90-92, e-STJ, sem grifos no original):
+Portanto, para o CPC/2015, tanto o seguro garantia judicial, quanto a fiança bancária, equiparam-se ao depósito em dinheiro, e, por isso, tem o mesmo status, ou seja, ocupam a mesma ordem de preferência legal, constituindo, sem dúvida, substancial garantia à satisfação do crédito executado, até porque a ordem de preferência legal foi estabelecida levando em consideração a maior facilidade de conversão do bem em dinheiro.
+(..)
+Logo, tem-se que o oferecimento de seguro garantia judicial, por equivaler a dinheiro, é irrecusável, devendo ser aceito pelo juiz, que deverá avaliar a suficiência da garantia, bem como os demais requisitos previstos em lei.
+(..)
+Não socorre razão à agravante, contudo, ao defender que o oferecimento do seguro garantia teria o condão de afastar a multa do artigo 523, parágrafo 1º, do Código de Processo Civil, porquanto não se confunde com o pagamento voluntário do débito.
+(..)
+A apólice ofertada visa nitidamente à garantia da dívida, a fim de propiciar o seu debate, inexistindo disponibilidade imediata da quantia ao exequente.
+(..)
+Portanto, correta a decisão que determinou a incidência de multa e honorários advocatícios, na medida em que não houve cumprimento voluntário e integral da obrigação, mas somente o pagamento parcial e a apresentação de apólice de seguro garantia para a discussão do montante restante (mov. 217.2 última renovação).
+Contudo, assiste razão à agravante quanto ao seu pedido subsidiário, no sentido que deve ser excluído da base de cálculo das penalidades o montante já adimplido/depositado.
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ, a obstar a análise do reclamo.
+Ademais, o Tribunal de origem concluiu que a apresentação do seguro foi apresentado para a garantia do remanescente da dívida, o que não se confunde com o pagamento voluntário da obrigação.
+Contudo, não tratou a recorrente de impugnar tal fundamento, cujasubsistência inviabiliza a apreciação do recurso especial e propicia oconsequente desprovimento do presente agravo, pela aplicação da Súmula n.283 do STF: "É inadmissível o recurso extraordinário, quando a decisãorecorrida assenta em mais de um fundamento suficiente e o recurso nãoabrange todos eles".
+Diante do exposto, em juízo de reconsideração, conheço do agravo paranegar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SEGURO GARANTIA. PAGAMENTO INTEGRAL DO DÉBITO NÃO EFETUADO. INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS. DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISE DO AGRAVO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.AGRAVO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO, PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
