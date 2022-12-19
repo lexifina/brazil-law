@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpusajuizado em nome deJuan Carlos Baldessin,condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, pela prática do delito descrito no art. 33,caput, da Lei n. 11.343/2006(Processo n. 1501046-64.2021.8.26.0599, da 3ª Vara Criminal da comarca de Piracicaba/SP).
+Aponta-se como autoridade coatora oTribunal de Justiça de São Paulo que, no julgamento daApelação Criminal n.1501046-64.2021.8.26.0599, deu provimento ao recurso interposto pelo Ministério Públicopara fixar o regime inicial fechado;eparcial provimento ao recurso interposto pela defesapara reduzir a pena, ficando o réu condenadocomo incurso no art.33,capute § 4º, da Lei n.11.343/2006, à pena de 2 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 250 dias-multa, no valor unitário mínimo legal, mantida, no mais, a sentença de primeiro grau (fls. 290/299).
+Requer-se, em liminar, seja assegurado aopacienteo direito de permanecer em liberdade até o julgamento do mérito deste writ e, com isso, determinando-se a expedição de contramandado de prisão ou, caso já tenha sido efetuada sua prisão, alvará de soltura,e no mérito, a concessão da ordem para que:b.1) o paciente seja absolvido em razão da insuficiência probatória (CPP, art. 386, VII); c.1) em caso de não acolhimento do pleito anterior, (i) seja aplicado o redutor da figura do tráfico privilegiado (LD, art. 33, § 4º) em seu máximo patamar e, por via de consequência, (ii) seja fixado o regime inicial de cumprimento de pena aberto e (iii) seja substituída a pena privativa de liberdade por restritiva de direitos(fls. 10/11).
+A liminar foi indeferida (fls. 311/312).
+Solicitadasinformações, foram prestadas (fls. 316/317).
+Instado a se manifestar,oMinistério Público Federal opinoupelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem(fls. 334/336).
+É o relatório.
+De início, registra-seque, em consulta aos autos da apelação criminal, obtive a informação de que o acórdão exarado no julgamento daquele recurso foi publicado em 14/9/2022, inexistindo notícia de interposição de recurso no prazo de 15 dias, circunstância que autoriza a conclusão de que a condenação em referência já foi atingida pela preclusão máxima (trânsito em julgado),sendo esta Corte Superiorincompetente para processamento do presentehabeas corpus.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. WRITIMPETRADO CONTRA ACÓRDÃOTRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA ACOMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUSDE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019)
+ ..
+1. Ohabeas corpusfoi impetrado contra acórdão do Tribunal deJustiça do Estado de São Paulo transitado em julgado; é, portanto,substitutivo de revisão criminal. Por força do art. 105, I, "e", daConstituição Federal, a competência desta Corte para processar e julgarrevisão criminal limita-se às hipóteses de seus próprios julgados. Comonão existe, neste Tribunal, julgamento de mérito passível de revisão emrelação à condenação sofrida pelo paciente, forçoso reconhecer aincompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro RogerioSchietti Cruz, Sexta Turma, DJe 21/5/2018)
+Diviso, no entanto, ilegalidade flagrante apta a justificar aconcessão dehabeas corpusde ofício.
+Confiram-se trechos do acórdão recorrido, no que interessa, in verbis (fls. 296/297- grifo nosso):
+ ..
+Quanto à pena, a sentença merece reparo.
+O MMº Juiz, na primeira fase, atento ao disposto no artigo 59 do CP, considerando que as circunstâncias judiciais não são desfavoráveis ao acusado, fixou a pena-base no mínimo legal, em 5 anos de reclusão e pagamento de 500 dias-multa, no valor unitário mínimo legal.
+Na segunda fase, ausentes circunstâncias agravantes ou atenuantes, a pena foi mantida sem alterações.
+Já na terceira etapa, o MMº Juiz sentenciante não aplicou a causa de diminuição da pena prevista no § 4º do art.33 da Lei n. 11.343/2006 em razão do acusado ter sido preso pela prática do mesmo crime menos de um mês após alcançar a liberdade nestes autos. Todavia, é certo que tal processo não pode ser considerado como indicativo de que o acusado se dedica a atividades criminosas, em respeito ao princípio do "in dubio pro reo". Assim sendo, neste ponto, entendendo presentes os requisitos legais, ou seja, sendo o réu primário e sem maus antecedentes, além de inexistirem evidências de que esteja envolvido em atividades criminosas ou com organização criminosa, mas levando em conta a quantidade das drogas apreendidas, reduzo a pena no patamar de 1/2, nos termos do art.33, § 4º, da Lei n.11.343/2006, tornando-a definitiva em 2 anos e 6 meses de reclusão e pagamento de 250 dias-multa, no valor mínimo legal.
+ ..
+Com relação à fixação do regime inicial semiaberto, a sentença também merece reparo, tal como pleiteado pelo Ministério Público.
+De fato, diferentemente do disposto na sentença monocrática, o regime inicial para o cumprimento da pena não pode ser outro, que não o fechado, pois a fixação de regime diverso (aberto ou semiaberto) não se mostra satisfatória à repressão do grave delito praticado, não apenas em razão da natureza do crime, que gera graves prejuízos sociais, merecendo, por isso mesmo, tratamento mais severo, mas, notadamente, por não se tratar o réu de pequeno e eventual traficante, tendo em vista a quantidade de drogas apreendidas, somada à quantia em dinheiro, produto da venda de diversas outras porções, ficando demonstrada, portanto, a necessidade da fixação do regime fechado.
+Consigne-se, desta forma, que o regime inicial fechado não está sendo fixado em razão da quantidade de pena, tampouco da gravidade abstrata do delito, mas das circunstâncias concretas em que praticado o crime em questão, reveladoras da necessidade da imposição de regime mais gravoso, para fins de repressão e prevenção.
+ ..
+No que tange aopedido da impetrante no sentido defixar o redutor no patamar máximo (2/3), com razão a defesa,pois a pequena quantidade de drogas (2,2 g de cocaína),além de não haver autorizado o incremento da pena na primeira fase, também é inviável parajustificara fixação da minorante em patamar inferior ao máximo legal com base apenas na quantidade de drogas.
+Assim, opaciente faz jus ao redutor no máximo (2/3), o que enseja o redimensionamento da pena para1 ano e 8 meses de reclusão, além do pagamento de 166dias-multa.
+Considerando a natureza do crime (perpetrado sem violência ou grave ameaça), o patamar da pena (inferior a 4 anos) e a primariedade dopaciente,substituo a pena privativa de liberdade por duas restritivas de direitos a serem estabelecidas pelo Juízo da execução.
+Ante o exposto, não conheço do habeas corpus. De ofício, concedoa ordem afim de aplicar o redutor doart. 33, § 4º, da Lei n. 11.343/2006(na fração de 2/3) reduzindo a pena imposta ao paciente a 1 ano e 8mesesde reclusão,em regime inicial fechado, além do pagamento de 166dias-multa, substituída a pena corporal por duas restritivas de direitos a serem estabelecidas pelo Juízo da execução(Processo n. 1501046-64.2021.8.26.0599, em curso na 3ªVara Criminal de Piracicaba/SP).
+Dê-se ciência ao Juízo de primeiro grau.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ (AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE SUPERIOR). DOSIMETRIA. REDUTOR ESPECIAL DA PENA FIXADONO JULGAMENTO DA APELAÇÃO COM BASE NA QUANTIDADE DE DROGAS. INCIDÊNCIA DA FRAÇÃO MÁXIMA(2/3). POSSIBILIDADE.REDIMENSIONAMENTO DA PENA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS.
+Writ não conhecido. De ofício, ordem concedidanos termos do dispositivo.
