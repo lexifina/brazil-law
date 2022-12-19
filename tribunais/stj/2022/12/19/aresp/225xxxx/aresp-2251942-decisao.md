@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO VOLKSWAGEN S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS À EXECUÇÃO FISCAL Arrendamento mercantil Débito de IPVA imputado à pessoa jurídica arrendante Responsabilidade solidária da instituição financeira Domínio resolúvel do bem com posse indireta - Ausência de benefício de ordem - Prova suficiente da baixa do gravame no Sistema Nacional de Gravames equivale à comunicação da transferência de propriedade - Embargante não provou a baixa dos gravames em relação às 88 CDAs remanescentes, nem a quitação dos respectivos débitos, apenas em relação a uma delas Recurso de apelação da embargante provido, em parte (fl. 268).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC e art. 121 do CTN, no que concerne à necessidade de reconhecimento da ilegitimidade passiva do recorrente, com fundamento na inexistência de liames contratuais com os veículos objetos de tributação, trazendo os seguintes argumentos:
+O Recorrente recebeu a presente execução com surpresa ante a ausência de qualquer relação contratual ou obrigacional com o veículo objeto da tributação.
+Pois bem.
+O Recorrente em consulta ao seu banco de dados não localizou o veículo cuja propriedade o Estado de São Paulo pretende fazer incidir o IPVA.
+Compulsando o sistema operacional do Recorrente, verifica-se que tal veículo não está inserido no cadastro de veículos arrendados.
+Este veículo não pertence e não pertenceu ao Recorrente como quer fazer crer o Recorrido.
+ ..
+Tendo a Fazenda estadual afirmado a propriedade do Recorrente como pressuposto para inseri-la no polo passivo tributário, deverá comprovar tal relação jurídica para que a imputação tributária subsista.
+ ..
+Como admitir que o fato constitutivo do direito de tributar o IPVA sobre referido bem móvel seja ônus do pseudo- contribuinte
+Estaríamos todos sujeitos a imputação de tributos ao bel talante do ente público tributante  Atos deste jaez devem ser coibidos pelo Judiciário sob pena de causar o fim das sequelas da segurança jurídica que o contribuinte ainda possui (fls. 293- 295).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Revejo meu posicionamento anterior, para o fim de seguir a orientação desta Câmara. No contrato de arrendamento o arrendante permanece com a propriedade do bem; ao arrendatário se transfere somente a posse direta do veículo.
+Assim, na condição de titular do domínio, o arrendante é responsável pelo pagamento do IPVA durante ao prazo de vigência do contrato, já que o tributo decorre da propriedade do automóvel (fl. 269).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em análise, a embargante provou a baixa dos gravames no Sistema Nacional de Gravames antes da ocorrência do fato gerador que culminou nas 11 CDAs relacionadas às fls. 04/07, e, desta forma, não era mais a proprietária dos veículos, não respondendo pelo imposto.
+Vale dizer, uma vez que a baixa do gravame no SNG equivale à comunicação da transferência definitiva da propriedade, a apelada não responde por fato gerador ocorrido posteriormente (fl. 272).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
