@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado:
+AGRAVO DE INSTRUMENTO EXCEÇÃO DE PRÉ-EXECUTIVIDADE QUE VERSA SOBRE A ILEGALIDADE DOS JUROS DERIVADOS DA LEI ESTADUAL N 13918/2009 ADMISSIBILIDADE MATÉRIA DE ORDEM PÚBLICA E QUE NÃO DEMANDA DILAÇÃO PROBATÓRIA QUESTÃO APRECIADA PELO C ÓRGÃO ESPECIAL NA ARGUIÇÃO DE INCONSTITUCIONALIDADE N 0170909-6120128260000 DE RIGOR A OBSERVÂNCIA AOS LIMITES DA TAXA SELIC PRECEDENTES DESTE E TRIBUNAL ACOLHIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE QUE SE IMPÕE PARA DETERMINAR A SUSPENSÃO DA EXIGIBILIDADE DA PARCELA DOS JUROS INDEVIDOS COM RETIFICAÇÃO DAS CDAS PELA FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS DE ACORDO COM O ART 85 § 3 DO CÓDIGO DE PROCESSO CIVIL DE 2015 VALOR RESULTANTE QUE É INCOMPATÍVEL COM A BAIXA COMPLEXIDADE DA DEMANDA ARBITRAMENTO COM BASE NO § 8 DO MESMO ARTIGO ADMISSIBILIDADE RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados.
+No recursoespecial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, arecorrente sustenta, além da divergência jurisprudencial, violação do art. 85, §§ 3º e 8º, do Código de Processo Civil, argumentando que não cabe a fixação de honorários advocatícios no caso concreto na medida em que a Fazenda Pública não deu causa à cobrança e a decisão proferida não é terminativa.
+Houve contrarrazões ao recurso especial (e-STJ fls. 290/304).
+É o relatório. Decido.
+A insurgência não comporta acolhida.
+Isso porque, da leitura do aresto combatido, verifica-se que em momento algum a Corte de origem analisou a tese veiculada no apelo nobre. O acórdão recorrido não se manifestou acerca da responsabilidade da Fazenda no ajuizamento da demanda ou acerca do caráter terminativo ou não do acórdão recorrido.
+Assim, ausente o exame das teses recursais pelo Tribunal local, o recurso especial carece de necessário prequestionamento, atraindo a incidência da Súmula n. 211/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO DE FUNDO DE DIREITO RECONHECIDA. AÇÃO PROPOSTA CONTRA INSS. AUÊNCIA DE INTERRUPÇÃO OU SUSPENSÃO DO PRAZO PRESCRICIONAL. EFEITO INTER PARTES DA COISA JULGADA. ART. 472 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO DA QUESTÃO DE FUNDO. INCIDÊNCIA DA SÚMULA N. 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC. RECURSO NÃO PROVIDO.
+1. Não houve violação do art. 1.022 do CPC, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo as questões suscitadas pelo recorrente.
+2. A posição firmada pelo Tribunal de origem está em plena consonância com a jurisprudência desta Corte de que, em hipóteses como a dos autos, na qual se pretende a modificação do ato de aposentação do servidor público a pretexto de computar-se, de forma diferenciada, o tempo de serviço prestado em condições especiais insalubres, a prescrição atinge o próprio fundo de direito. Precedentes.
+3. Na ocasião em que foi concedida a aposentadoria, a insurgente já tinha ciência do período laborado em condições especiais, motivo pelo qual poderia, desde aquela época, ter pleiteado perante o instituto recorrido a contagem diferenciada do tempo de serviço ou, ainda, ter ajuizado ação também contra a entidade municipal.
+4. Como não o fez, não houve interrupção ou suspensão da prescrição, pois a ação promovida em oposição ao INSS não alterou o prazo prescricional da pretensão contra o recorrido, ante o efeito inter partes da coisa julgada oriunda daquela demanda, consoante o art. 472 do CPC/1973.
+5. Nesse contexto, como a aposentadoria foi concedida em 3/3/2005 e a presente ação apenas foi ajuizada em 27/11/2018, inevitável o reconhecimento da prescrição do próprio fundo do direito, nos moldes do art. 1º do Decreto n. 20.910/1932.
+6. As demais teses recursais - relativas à questão de fundo - não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula n. 211/STJ.
+7. Quanto ao art. 1.025 do CPC, apenas no caso de reconhecimento de vício de omissão no acórdão recorrido, é possível a supressão de instância para conhecimento da matéria fictamente prequestionada, o que não ocorreu no caso, na medida em que o Tribunal de origem não conheceu desse fundamento recursal, ante o acolhimento da prejudicial de prescrição.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.907.477/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+No mais, vale destacar queo cumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto.
+Dessa forma, ainda que a Corte local tenha se manifestado acerca do art. 85, §§ 3º e 8º, do CPC, o dispositivo não foi analisado para enfrentar a tese específica veiculada no recurso especial, razão pela qual não se pode falar em prequestionamento.
+Por fim, deixo de analisar a divergência em virtude do óbice aplicado ao conhecimento da matéria pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. CARÊNCIA DE NECESSÁRIO PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
