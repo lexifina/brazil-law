@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por ARNALDO BARRETO GIORGETTI contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 899/902).
+O acórdão recorrido ficou assim ementado (e-STJ fl. 834):
+LOCAÇÃO. DESPEJO. Sentença de procedência parcial dos pedidos. Preliminar de legitimidade passiva analisada com o mérito. Contrato de locação firmado apenas com o réu Arnaldo. Obrigação pessoal. Cobrança indevida com relação ás demais rés. razão pela qual o pedido deve ser julgado improcedente. Teoria da Asserção. Legitimidade da cobrança do IPTU e despesas de condomínio.
+Responsabilidade da cobrança das referidas despesas, conforme previsão contratual. Planilha de cálculo que excluiu da cobrança das despesas relativas ao "Fundo de Obras". Documentos que não demonstram o pagamento das referidas despesas. Penhora no rosto dos autos indevida. Honorários de advogado das rés devidos. RECURSO DO AUTOR NÃO PROVIDO. RECURSO DO RÉU PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados (e-STJ fls. 845/848).
+No especial (e-STJ fls. 863/875), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 1.022, II, 1.025 e 1.026, § 2º, do CPC/2015, sustentandonegativa de prestação jurisdicional quanto a tese de violação do art. 22, IX, da Lei n. 8.245/1991 e que os embargos de declaração não seria protelatórios.
+Segundo afirma, "oque se estava discutindo é que, pelo fato de o Recorrido não ter apresentado comprovantes de pagamento das despesas de condomínio e IPTU, não poderia ele exigi-las, pois os únicos legitimados, neste caso, seriam o próprio condomínio e a Municipalidade, afinal, com o devido respeito, eventualmente poderia o Locador não ter realizado o pagamento dessas despesas e estar as exigindo do Recorrente" (e-STJ fl. 870).
+Aponta afronta ao art.22, IX, da Lei n. 8.245/1991, por entender serresponsável somente "pelo pagamento das despesas condominiais e IPTU que estiverem comprovadamente pagas pelo Recorrido" (e-STJ fl. 875).
+No agravo (e-STJ fls. 912/935), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos os requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 950/956).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 1022 e 1.025do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+O TJSP, ao apreciar a tese de violação do art.22, IX, da Lei n. 8.245/1991,reconheceu que"o pagamento dos encargos da locação (incluindo o IPTU e as despesas de condomínio) é obrigação decorrente do contrato, de modo que não está condicionado à apresentação dos comprovantes de pagamento por parte do locatário"(e-STJ fl. 847).
+O fundamento do acórdão recorrido segundo o qual a exigibilidade dos encargos decorreriaexclusivamente do contratonão foi impugnado no recurso especial. Incidente, portanto, a Súmula n. 283 do STF.
+Além disso, para alterar os fundamentos acima transcritos no sentido de que o pagamento dos encargos da locação (incluindo o IPTU e as despesas de condomínio) é obrigação decorrente do contrato, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Com relação àmulta impostaà recorrente, constata-se que a oposição dos embargos declaratórios, na Corte de origem, decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido recurso para tentar combater decisão que lhe era desfavorável.
+Além disso, os embargos de declaração foram opostos com o nítido caráter prequestionador, motivo pelo qual deve ser afastada a sanção prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula n. 98/STJ.
+Ante o exposto, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial interposto por ARNALDO BARRETO GIORGETTI, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
