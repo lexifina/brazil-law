@@ -1,0 +1,20 @@
+DECISÃO
+  Trata-se  de  embargos  de  declaração  opostos  por  ELETROPAULO  METROPOLITANA  ELETRICIDADE  DE  SÃO  PAULO  S.A.  à  decisão  desta  relatoria  que  não  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (fls.  4.071/4.074  e-STJ).
+Nas  presentes  razões  (fls.  4.084/4.086  e-STJ),  a  embargante  aponta,  em  síntese,  a  existência  de  omissão  no  julgado  atacado.
+Afirma  que  o  apelo  nobre  que  interpôs  deveria  ter  sido  julgado  prejudicado  com  o  provimento  do  recurso  especial  da  parte  adversa  com  base  no  reconhecimento  de  negativa  de  prestação  jurisdicional.
+Sustenta  que  a  possibilidade  de  alteração  dos  acórdãos  proferidos  na  origem
+"(..)  efetivamente  prejudica  o  processamento  do  Recurso  Especial  e  do  posterior  Agravo  em  Recurso  Especial  manejados  pela  Eletropaulo,  dado  que  foram  interpostos  em  consideração  ao  que  fora  decidido  nestes  autos  -  e  não  no  que  poderá  ser,  futuramente,  decidido  em  complementação  quando  os  autos  retornarem  ao  E.  TJ/SP"  (fl.  4.085  e-STJ).
+Ao  final,  requer  o  acolhimento  do  recurso  para  que  o  seu  recurso  especial  seja  julgado  prejudicado.
+A  parte  contrária  ofereceu  impugnação  às  fls.  4.091/4.092  (e-STJ).
+É  o  relatório.
+DECIDO.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  das  questões  de  direito  federal  infraconstitucional.
+Os  aclaratórios  merecem  ser  acolhidos  apenas  para  esclarecimentos.
+Na  origem,  a  parte  ora  embargante  ajuizou  ação  de  resolução  contratual  c/c  restituição  de  valores  em  desfavor  de  Celsa  do  Brasil  Comércio  de  Eletroeletrônicos  Ltda.  e  KDL  Tecnologia  em  Iluminação  Ltda.  EPP.  objetivando  a  resolução  do  contrato  celebrado  entre  as  partes  para  o  fornecimento  de  5.000  (cinco  mil)  unidades  do  equipamento  denominado  Seccionalizador  Automático  Monofásico,  fabricado  pela  embargada  Celsa,  em  virtude  dos  defeitos  técnicos  apresentados  após  iniciada  a  instalação.
+Conforme  consignado  na  decisão  atacada,  o  magistrado  de  primeiro  grau  de  jurisdição  julgou  pela  procedência  dos  pedidos  e  o  tribunal  local  não  conheceu  do  apelo  de  KDL  devido  à  deserção  e  negou  provimento  ao  da  Celsa  com  a  observação  de  que  a  Eletropaulo,  para  não  se  enriquecer  de  forma  indevida,  deve  devolver  os  equipamentos  às  rés  ou,  na  sua  impossibilidade,  a  obrigação  deve  ser  convertida  em  perdas  e  danos,  a  ser  apurada  em  liquidação  de  sentença.
+Nesta  Corte  Superior,  o  recurso  especial  de  Celsa  foi  provido  devido  à  negativa  de  prestação  jurisdicional,  visto  que,  embora  instado  por  embargos  declaratórios,  o  tribunal  de  origem  deixou  de  se  manifestar  a  respeito  da  alegação  de  que  os  pareceres  elaborados  por  seus  assistentes  técnicos  não  foram  apreciados  no  acórdão  recorrido.
+Já  o  apelo  extremo  da  embargante  sequer  ultrapassou  o  juízo  de  admissibilidade,  visto  que  a  matéria  articulada  em  suas  razões  não  foram  alvo  de  exame  na  instância  ordinária,  ainda  que  de  modo  implícito,  e  não  foram  opostos  embargos  de  declaração  para  forçar  o  pronunciamento,  incidindo  ao  caso  o  óbice  da  Súmula  nº  282/STF.
+Nessa  medida,  não  houve  prejuízo  à  embargante  com  o  provimento  do  recurso  especial  da  parte  contrária,  tanto  mais  que  será  renovada  a  possibilidade  de  se  insurgir  contra  eventual  mudança  de  entendimento  do  tribunal  estadual  quando  da  realização  de  novo  exame  dos  aclaratórios.
+  Ante  o  exposto,  acolho  os  embargos  de  declaração  para  fins  de  esclarecimentos,  sem  efeitos  infringentes.
+Publique-se.
+Intimem-se.
