@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de NATANAEL APARECIDO RIBEIRO MARTINS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0000411-96.2018.8.26.0621.
+Depreende-se dos autos que, em 3/4/2019, opaciente foicondenadoà pena de10 anos e 10 mesesde reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas em concurso material com o crime de porte de arma de fogo de uso restrito(arts. 33,caput, da Lei n. 11.343/2006, e 16 da Lei n. 10.826/2006,na forma do art. 69 do Código Penal).
+Irresignada, a defesa apelou buscando a absolvição ou, alternativamente, a compensação entre a agravante da reincidência e a atenuante da confissão espontânea;a redução da pena-base no mínimo legal no que diz respeito ao crime da Lei de Armas; e o abrandamento do regime prisional.
+Em sessão de julgamento realizada no dia 28/11/2019, a 8ª Câmara Criminaldo Tribunala quodeu parcial provimento ao recursopara o fim de readequar sua conduta, subsumindo-a ao previsto no art.33,caput, c/c o art.40, IV, ambos da Lei n. 11.343/2006, fixando-lhe apenade 8 anos, 6 meses e 2 dias de reclusão, afastada a condenação pela prática inserta no art.16, parágrafo único, IV, da Lei 10.826/2003; mantida, no mais, a sentença de primeiro grau. Eis a ementa do acórdão(e-STJ fls. 32/33):
+Tráfico de drogas- Coesão e harmonia do quadro probatório - Validade dos depoimentos policiais - Condenação mantida.
+Tráfico de drogas- Natureza permanente - Condutas múltiplas alternativas, que se protraem no tempo - Fatos praticados com lapso mínimo entre eles, no mesmo município, em mesmo contexto fático e em circunstâncias semelhantes - Crime único - Reconhecimento - Necessidade.
+Preliminar de nulidade- Violação de domicílio Não ocorrência Mandado de busca e apreensão regular - Crime permanente, que, de qualquer modo, dispensaria o mandado de busca domiciliar - Licitude das provas.
+Pena-base- Peculiaridades do caso, realçada a natureza da droga apreendida, que autorizam a exasperação - Patamar consentâneo.
+Reincidência- Majoração em patamar consentâneo no que se refere a um dos réus.
+Artigo 40, IV, da Lei 11.343/06- Reconhecimento - Necessidade - Arma oculta na residência do corréu, base da mercancia ilícita - Contexto fático- temporal único - Princípio da consunção - Absorção do delito da Lei de Armas.
+Aplicação do § 4º, do artigo 33, da Lei nº 11.343/06-Circunstâncias em que perpetrado o delito, que contou com apreensão de expressivas quantidades de drogas, de diversas naturezas, alinhadas à ausência de comprovação de ocupação lícita pelos réus e aos coerentes depoimentos policiais, a indicarem sua dedicação a atividade criminosa ou participação em organização criminosa - Prova de ocupação lícita de parte de um dos réus que, "de per si", não deveria dar causa à aplicação do benefício-Afastamento - Impossibilidade, haja vista a resignação ministerial - Passado desabonador de um dos réus que, de qualquer modo, impede seja contemplado com o benefício.
+Conversão da privativa de liberdade emrestritivas de direitos- Peculiaridades do caso que não a recomendam. "Quantum" das penas, que, de qualquer modo, impossibilita a substituição.
+Regime prisional fechado- Subsistência - Gravidade concreta do delito perpetrado, que contou com a apreensão de expressivas quantidades de drogas, cuja nocividade e alto poder viciante não se desconhecem, certos seu potencial de disseminação e sua natureza desagregadora, a isso se alinhando a dedicação dos réus à atividade criminosa.
+Regime prisional aberto- Subsistência em relação a um dos réus, ante o conformismo ministerial.
+Apelos defensivos parcialmente providos e improvidos, rejeitada a preliminar.(Grifei.)
+Pretende-se, no presentehabeas corpus, liminarmente e no mérito, o afastamento do incremento na pena relativo à reincidência ea aplicação da minorante insertas no art. 33, § 4º, da Lei n. 11.343/2006, em seu grau máximo.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 74/78).
+É, em síntese, o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da dosimetria da pena, o Tribunal de origem assim consignou (e-STJ fls. 36/38):
+No que concerne aos acusados Lucas Sampaio e Natanael, as penas merecem redimensionamento.
+No que tange ao delito da lei de armas, tem-se que a arma de fogo apreendida está a demonstrar que tomava, Natanael, as precauções exigidas para a segurança do ilícito negócio, ainda que só com o fimde intimidação, não indicando mero hobby de sua parte, mas sua inserção na senda criminosa.
+Certo, pois, que a arma de fogo se destinava única e exclusivamente à mantença da execrável prática, não passando de meio para se atingir o fim maior da mercancia ilícita, situando-se no contexto fático do crime previsto na lei de drogas.
+Desta forma, não se configura o crime autônomo previsto no Estatuto do Desarmamento, mas a causa de aumento do artigo 40, IV, da Lei 11.343/06, ficando absorvido o delito do artigo 16, parágrafo único, IV, da Lei 10.826/03, em observância ao princípio da consunção crime-fim (tráfico de drogas) absorve o crime-meio (posse de arma de fogo).
+ ..
+Impõe-se, assim, a adequação de sua reprimenda.
+As peculiaridades do caso, realçada a natureza das drogas apreendidas, autoriza a exasperação na fase inicial do cálculo dosimétrico, das penas de ambos, consentâneo o patamar eleito a esse título, que alçou as penas a 05 anos e 10 meses de reclusão e 583 dias-multa.
+No que diz com Lucas Sampaio, embora os fatos narrados na prefacial hajam ocorrido em momentos distintos, não se há negar que se viram inserir em mesmo contexto fático.
+O tipo penal em evidência, tráfico de drogas, é delito de natureza permanente, abarcando condutas múltiplas alternativas, que se protraem no tempo, sendo, os fatos ora sob juízo, perpetrados em lapso mínimo, em mesmo contexto fático e em circunstâncias semelhantes.
+Forçoso, pois, o reconhecimento do crime único, partindo, a dosimetria, deste entendimento.
+Não se há falar em confissão espontânea, certo que a versão apresentada por Lucas está a desenhar estratégia de defesa tendente a empalidecer sua responsabilidade criminal.
+Na fase subsequente, ficam inalteradas as penas de Lucas, majorando-se à conta de 1/6 as penas de Natanael, a título dareincidência certificada, obtendo-se 07 anos, 03 meses e 15 dias de reclusão e 729 dias-multa.
+Reconhecida a causa de aumento do artigo 40, IV, da lei especial, no que diz com Natanael, uma vez que a prática ilícita envolveu apreensão de arma de fogo, mostra-se de bom alvitre a majoração das penas à conta de 1/6, alçando-as a 08 anos, 06 meses e 02 dias de reclusão e 850 dias- multa, no menor valor unitário, tornadas definitivas, ausentes circunstâncias modificadoras.
+As singularidades do caso, que contou com apreensão de expressivas quantidades de drogas, de variadas naturezas, além de arma de fogo, alinhadas aos coerentes depoimentos policiais e à situação econômica dos réus, que sequer trouxeram prova de ocupação lícita, estão a demonstrar que faziam do tráfico seu ofício ou de que participava de organização criminosa.
+Não se exige grande esforço mental para se deduzir que pela quantidade de drogas, de variadas naturezas, que trazia consigo, de expressivo valor econômico, gozava, o inculpado, da confiança de seu fornecedor, o que não se adquire em parco espaço de tempo.
+Não era mesmo caso de aplicação da benesse da lei especial.
+Não fosse isso e o passado desabonador de Natanael bastaria a impedir a incidência do benefício.
+As quantidades e a diversidade das drogas apreendidas estão a demonstrar seu potencial de disseminação e de arregimentação de clientes aos borbotões.
+Registra-se a nocividade das drogas apreendidas em especial a cocaína em pó e sob a forma de "crack" , com alta capacidade de provocar dependência, conduzindo os que optam por enveredar por essa seara a caminhos muitas vezes sem volta, em total descompasso com os valores apregoados pela Sociedade.
+A fixação do regime inicial fechado mostra-seadequada ante a gravidade concreta do delito perpetrado, notória a nocividade das drogas apreendidas e sua alta capacidade de provocar dependência, restando patentes sua capacidade de disseminação e a arregimentação de clientes aos borbotões.
+Da análise do acórdão impugnado, observo que não há como conhecer do writ.
+A defesa alega que, "o processo utilizado como caracterizador da reincidência (processo nº 0000074- 15.2015.8.26.0621) apenas transitou em julgado ao paciente em 03/08/2018, enquanto os fatos que ensejaram o processo em análise (processo nº 0000411-96.2018.8.26.0621) ocorreram em 17/05/2018.Ou seja, na data dos fatos, ainda não havia ocorrido o trânsito em julgado da ação penal nº 0000074-15.2015.8.26.0621. Deste modo, o paciente, ao contrário do decidido, é réu primário" (e-STJ fl. 6).
+No entanto, a suscitadatese trazida pela defesanão foi objeto de debate pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ademais, ainda que assim não fosse,cumpre registrar que,"segundo  a  orientação  desta  Corte  Superior,  a  condenação  definitiva  por  fato  anterior  ao  crime  descrito  na  denúncia,  com  trânsito  em  julgado  posterior  à  data  do  ilícito  de  que  ora  se  cuida,  embora  não  configure  a  agravante  da  reincidência,  pode  caracterizar  maus  antecedentes  e  ensejar  o  acréscimo  da  pena-base" (AgRg  no  HC  n.  607.497/SC,  relator  Ministro  ROGÉRIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  22/9/2020,  DJe  30/9/2020).
+E, ainda,"a condenação anterior existente, ainda que alcançada pelo período depurador de cinco anos previsto no art. 64, I, do Código Penal, embora não seja apta a caracterizar a agravante da reincidência, configura maus antecedentes, razão pela qual fica impedida a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, diante da ausência do preenchimento dos requisitos legais" (HC n. 446.042/RJ, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/5/2018, DJe 29/5/2018).
+À vista do exposto, não conheço do writ.
+Publique-se. Intimem-se.
