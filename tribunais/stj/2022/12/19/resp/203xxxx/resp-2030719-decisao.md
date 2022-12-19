@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FUNDAÇÃO NACIONAL DE SAÚDE, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO- no qual se discute, dentre outros, os critérios para concessão do benefício da assistência judiciária gratuita à pessoa natural.
+A referida matéria foi afetada, em 06/12/2022, pela CORTE ESPECIAL do STJ, para julgamento segundo o rito dos recursos repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, nos REsp 1.988.687/RJ, REsp 1.988.697/RJ eREsp 1.988.686/RJ, de relatoria do MinistroOG FERNANDES.
+Na ocasião, a controvérsia a ser dirimida restou assim delimitada: "Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil".
+Nesse julgamento, determinou-se, a suspensão datramitação de processos com recurso especial e/ou agravo em recurso especial interposto, em tramitação na origem e/ou no STJ.
+Ante o exposto,determino a devolução do presente feito ao Tribunal de origem, com a devida baixa neste Tribunal, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o Recurso Especial: (a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I.
