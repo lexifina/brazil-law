@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo de CARLOS HENRIQUE COSTA DA SILVAem face de decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de Apelação Criminal n. 0074905-70.2020.8.19.0001.
+Consta dos autos que o réu foi condenado como incurso no art.14, caput, da Lei n. 10.826/2003 (porte de arma de fogo e munição de uso permitido), às penas de2 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa,conforme a sentença de fls. 193/194.
+O recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO (ART. 14 LEI 10.826/03). CONDENAÇÃO. RECURSO DEFENSIVO.
+DOSIMETRIA. REINCIDÊNCIA. AFASTAMENTO. ATENUAÇÃO DO REGIME E SUBSTITUIÇÃO DA PPL POR RESTRITIVA DE DIREITOS.
+Prisão em flagrante. Porte ilegal de arma de fogo. Capitulação delitiva inicial alterada pela acusação em alegações finais para o delito descrito no art. 14, caput, da Lei 10.826/03. Prova robusta. Confissão espontânea do réu.
+Porte ilegal de arma de fogo de uso permitido. Infração penal de perigo cujo bem jurídico protegido é a segurança pública e a paz social. Condenação impositiva. Reincidência. Modulador da pena. Objeto do recurso.
+Dosimetria. Pena-base fixada no mínimo legal cominado no preceito secundário da norma penal incriminadora violada. Réu reincidente e confesso. Circunstâncias compensadas na fase intermediária.
+Reconhecimento da reincidência que impede a fixação de regime inicial aberto, e a substituição da pena corporal por restritiva de direitos.
+Detração penal. Réu que respondeu ao processo em liberdade.
+Condição de reincidente. Impossibilidade de atenuação do regime prisional estabelecido. Sentença de extinção da pena pelo seu cumprimento, passada em julgado em 29/08/2018. Apelante que veio a praticar novo crime no dia 07/04/2020. Período depurador não alcançado. Sentença escorreita.
+NEGADO PROVIMENTO AO RECURSO" (fl. 270).
+Os embargos de declaração foram rejeitados, nos termos do acórdão às fls. 310/321.
+Em sede de recurso especial, a defesa apontou violação aoart. 44, § 3º, do Código Penal - CP.
+Sustenta, em síntese, que "à luz do referido dispositivo legal, a substituição das penas guarda amparo com os fins tutelados pelo legislador quando da previsão de tal medida. Isso porque, a reincidência não se operou em virtude da prática de mesmo crime (reincidência específica), uma vez que o primeiro se refere à prática capitulada no art. 33 da Lei 11.343/2006, ao passo que o segundo condiz à conduta tipificada no art. 14, caput, da Lei 10.826/03, sendo, portanto, hipótese de reincidência genérica" (fl. 353). Entende que o cometimento do novo crime ocorreu há mais de cinco anos da realização do primeiro crime e ascircunstâncias judiciais são favoráveis, possibilitando a substituição da pena privativa de liberdade por restritivas de direitos.
+Contrarrazões do Ministério Público do Estado do Rio de Janeiro - MPE (fls. 362/371).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 83do Superior Tribunal de Justiça - STJ (fls. 373/378).
+Em agravo em recurso especial, a defesa alega que não se aplica a Súmula 83 do STJ (fls. 396/406).Contraminuta (fls. 411/413).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelodesprovimento do agravo em recurso especial (fls. 435/439).
+É o relatório.
+Decido.
+Sobre a violação ao art. 44, § 3º, do CP, o TJ consignou que o réu não preenche os requisitos legais para a substituição da pena privativa de liberdade, a teor do disposto no inciso II do mesmo dispositivo legal, o que obsta o benefício.
+Talentendimento encontra amparona jurisprudência deste Superior Tribunal de Justiça,no sentido de que"embora a pena definitiva tenha sido fixada em patamar inferior a 4 anos de reclusão, a substituição da pena privativa de liberdade por restritiva de direitos mostra-se insuficiente quando há reincidência e a medida não se mostra recomendável" (art. 44, II e § 3º, do CP) (AgRg no REsp. 1.716.907/SP, Rel. Min. RIBEIRO DANTAS, QUINTA TURMA, DJe 30/5/2018).
+Confiram-se, no mesmo sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE DELITIVA. OFENSA AO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. INTERCEPTAÇÃO TELEFÔNICA. PROVA CAUTELAR COM CONTRADITÓRIO DIFERIDO. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora o débito tributário seja inferior a R$ 20.000,00 (vinte mil reais), entendo não ser aplicável o princípio da insignificância em virtude do não preenchimento do requisito referente ao reduzido grau de reprovabilidade da conduta, isso porque, o princípio da insignificância é afastado quando se extrai dos autos a existência de 05 procedimentos administrativos fiscais em desfavor do agravante, além da presença da reincidência, denotando a conduta contumaz na prática criminosa.
+2. "À luz do art. 155 do CPP, é possível condenar o réu com lastro em interceptação telefônica (prova cautelar com contraditório diferido) convergente com as demais provas obtidas no processo penal e com a declaração de testemunha ouvida na fase policial" (REsp 1688915/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 20/3/2018).
+3. "Embora a pena definitiva tenha sido fixada em patamar inferior a 4 anos de reclusão, a substituição da pena privativa de liberdade por restritiva de direitos mostra-se insuficiente quando há reincidência e a medida não se mostra recomendável" (art. 44, II e § 3º, do CP) (AgRg no REsp 1716907/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 30/5/2018).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.093.041/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. SEQUESTRO E CÁRCERE PRIVADO.PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL.CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E RÉU REINCIDENTE. PENA DEFINITIVA INFERIOR A 4 ANOS. FIXAÇÃO DO REGIME INICIAL FECHADO. NÃO APLICAÇÃO DO ENUNCIADO N. 269 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AUSÊNCIA DOS REQUISITOS LEGAIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- Nos termos do enunciado n. 269 da Súmula desta Corte, é admissível a fixação do regime prisional semiaberto ao réu reincidente condenado a pena igual ou inferior a quatro anos, quandofavoráveis as circunstâncias judiciais. Tal entendimento não se aplica ao caso dos autos, porquanto o paciente apresenta maus antecedentes, o que ensejou a fixação da pena-base acima do mínimo legal.
+- Prevê o art. 44, incisos II e III, do Código Penal ser inviável a substituição da pena privativa de liberdade por medidas restritivas de direitos, em se tratando de réu reincidente em crime doloso, ou quando os maus antecedentes não indicarem a possibilidade da medida.
+Habeas corpus não conhecido (HC 366.006/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 26/10/2017).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se.
+Intimem-se.
