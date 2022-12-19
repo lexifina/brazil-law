@@ -1,0 +1,19 @@
+DECISÃO
+O requerente buscasanar omissão quanto à majoração da verba de honorários sucumbenciais fixados na origem,em decisum que deu provimento ao seu Recurso Especiala fim de afastar a prescriçãoreconhecida pelo Tribunal a quo.
+Afirma (fl. 444, e-STJ):
+O respeitável acórdão acolheu acertadamente o recurso interposto e, consequentemente, afastou a tese de prescrição aventada pelo tribunal a quo.
+No entanto, é de se observar que o Eminente Relator deixou de se manifestar quanto à majoração dos honorários sucumbenciais fixados na origem, considerando o labor desempenhado pelos procuradores do recorrente com a interposição do presente recurso especial.
+Assim, considerando que as verbas sucumbenciais e os honorários advocatícios se compreendem no principal e são matéria de ordem pública, cognoscíveis a qualquer tempo, inclusive de ofício, requer-se que o Ministro Relator se manifeste acerca da majoração dos honorários sucumbenciais, tendo em vista o trabalho exercido em âmbito recursal.
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça assentou o entendimento de que é devida a majoração dos honorários com base no art. 85, § 11, do CPC/2015 somente quando estiverem presentes três requisitos cumulativos: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o Recurso.Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DA ELETROBRÁS. OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NO ACOLHIMENTO PARCIAL DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA ONDE SÃO EXECUTADAS DIFERENÇAS NA DEVOLUÇÃO DO EMPRÉSTIMO COMPULSÓRIO SOBRE O CONSUMO ENERGIA ELÉTRICA. JULGAMENTO DE RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS PARA INTEGRAÇÃO DO JULGADO.
+1. Há omissão no julgado que acolhe, ainda que parcialmente, a impugnação ao cumprimento de sentença, mas deixa de fixar honorários em favor do advogado da parte impugnante.
+2. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, apenas quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+3. Precedentes: AgInt no AREsp 1519033 / AL, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 04.02.2020; AgInt nos EDcl no AREsp 1343527 / RS, Primeira Turma, Rel. Min. Gurgel de Faria, julgado em 19.11.2019; EDcl no REsp 1804904 / SP, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 17.09.2019; AgInt nos EREsp 1539725 / DF, Segunda Seção, Rel. Min. Antonio Carlos Ferreira, julgado em 09.08.2017.
+4. Caso em que não ocorreram as situações previstas nas alíneas "b" e "c" descritas acima. Sendo assim, não é o caso de majoração da verba com a fixação de honorários sucumbenciais recursais.
+5. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no REsp n. 1.822.085/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/10/2022.)
+No caso em apreço, os requisitos para a majoração dos honorários não foram devidamente preenchidos, visto que o Recurso Especial do particular fora provido.Assim, incabível a majoração da verba honorária, na forma do art.85, § 11, do CPC/2015.
+Diante do exposto, indefiro o pedido de majoração doshonorários recursais.
+Publique-se.
+Intimem-se.
