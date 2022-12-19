@@ -1,0 +1,5 @@
+DECISÃO
+Diante da superveniência do julgamento da apelação pelo Tribunal de origem e, também, da apreciação do AREsp n. 1.479.819/SP por esta Corte,cuja decisão desfavorável à pretensão defensiva, inclusive, foi objeto de agravo regimental, que também já foi julgado (DJe 8/6/2020), considero prejudicado este recurso em habeas corpus, no qual eram sustentadas as teses deinépcia e falta de fundamentação do acórdão e da decisão que primeiro grau que afastou a preliminar de inépcia.
+De fato, seja pela absoluta modificação do quadro processual, o qual, agora, já conta com o exaurimento das instâncias ordinárias e com o exame dos recursos excepcionaisdirigidos a esta Corte, seja porque se a superveniência de sentença condenatória, por si só, já tornaria incipiente a alegação de inépcia da denúncia, com muito mais força torna insubsistente essa alegação quando apreciada até mesmo a apelação defensiva.
+À vista do exposto, com fundamento noart. 34, XI,do RISTJ, julgo prejudicado o recurso em habeas corpus.
+Publique-se e intimem-se.
