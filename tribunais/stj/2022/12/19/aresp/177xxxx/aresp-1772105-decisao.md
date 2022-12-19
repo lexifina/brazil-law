@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por CENTRO EDUCACIONAL DAS AMÉRICAS LTDA. contra decisão que inadmitiu o recurso especial em virtude da ausência de violação do dispositivo legal apontado (e-STJ fls. 1.344/1.345).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.247):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. COBRANÇA DE PRÓ-LABORE PELO EXERCÍCIO DE CARGO DE DIREÇÃO EM SOCIEDADE POR COTAS DE RESPONSABILIDADE LIMITADA. PERÍODO DE JANEIRO DE 2.012 A OUTUBRO DE 2.014. DESAPROVAÇÃO DO BALANÇO DE 2.013 E FALTA DE EXAME, AO TEMPO DO AJUIZAMENTO DA AÇÃO, DO BALANÇO DE 2.014. PROVA ESCRITA SUFICIENTE. IMPUGNAÇÃO, CONTUDO, DA EXISTÊNCIA DA DÍVIDA PELA SOCIEDADE EMPRESÁRIA. IMPRESCINDIBILIDADE DA APROVAÇÃO DAS CONTAS PELA ASSEMBLEIA. INTELIGÊNCIA DO ART. 1.071, I, DO CÓDIGO CIVIL. AUSÊNCIA, PORÉM, DE QUALQUER ALEGAÇÃO A RESPEITO DO EXERCÍCIO DE 2012. PRESUNÇÃO DE REGULAR APROVAÇÃO. IMPUTAÇÃO DE PAGAMENTO. DIREITO DO DEVEDOR. NORMA EXPRESSA. ART. 352 DO CÓDIGO CIVIL. FALTA DE IMPUGNAÇÃO DO AUTOR À ALEGAÇÃO DO RECEBIMENTO DE VALORES POR CONTA DE OUTROS DÉBITOS DA SOCIEDADE. ALEGAÇÃO DE INEXISTÊNCIA DE PRÓ-LABORES EM RAZÃO DA NECESSIDADE DE APURAÇÃO DOS HAVERES DO AUTOR OU DE QUE DEVERIAM SER PAGOS NA FORMA PREVISTA PARA A LIQUIDAÇÃO DOS HAVERES EM CASO DE EXCLUSÃO DE SÓCIO. IMPROCEDÊNCIA. VERBA DE NATUREZA REMUNERATÓRIA E SEM QUALQUER RELAÇÃO COM HAVERES. PROCEDÊNCIA DO PEDIDO MONITÓRIO APENAS EM RELAÇÃO AOS PRÓ-LABORES DE 2.012. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. REDISTRIBUIÇÃO DA SUCUMBÊNCIA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.272/1.273 e1.295/1.296).
+No recurso especial (e-STJ fls. 1.307/1.313), fundamentado no art. 105, III, "a", da CF, o recorrentealegou violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, porque o acórdão recorrido não tratou da tese de que houve impugnação dos valores de pró-labore do ano de 2012.
+No agravo (e-STJ fls. 1.354/1.360), declaraa presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto à impugnação do valores de pró-labore do ano de 2012, o Tribunal de origem consignou que (e-STJ fls. 1.272/1.273):
+De um lado, porque a menção no acordão no sentido da falta de impugnação ao valor dos pró-labores, como se percebe do contexto em que inserida, diz respeito ao valor mensal dessa remuneração, cujo montante, de fato, não foi impugnado pela recorrente. Nem o valor e tampouco o exercício de direção pelo embargado.
+Por outro, porque a estabilização da demanda ocorre na fase postulatória e, bem lido os fundamentos dos embargos monitórios, constata-se que a embargante nãoimpugnou as contas do exercício de 2.012, de modo que irrelevante se o perito chegou à conclusão diversa, até porque os fundamentos da perícia estão alicerçados na imputação de pagamento, cujo exercício somente era viável nos exercícios cujas contas não foram aprovadas.
+Portanto, inexiste ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre aquestão suscitadanos autos.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
