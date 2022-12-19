@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/12/2022 a 19/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de agravo regimental interpostocontra a decisão em que não conheci dopresente habeas corpuseafastei a ocorrência de flagrante ilegalidade nas saídas temporárias automatizadas.
+A defesa alega quebra de isonomia, pois o apenado não foi agraciado com saída temporária próxima ao Natal de 2021, bem como em 2022.
+Requer a reconsideração do decisum ou o provimento do agravo regimental, para conceder a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS AUTOMATIZADAS POR GRUPOS DE PRESOS. VALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1."Na hipótese dos autos, observa-se a excepcionalidade da medida, a justificar a saída temporária automatizada, valendo registrar que as saídas foram determinadas por ato judicial único, respeitado o limite de 35 saídas, conforme se observa à fl. 86 (e-STJ), e não delegadas para a autoridade prisional"(AgRg no REsp 1.484.704/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 31/10/2017).
+2. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Extrai-se dos autos que o Juízo das execuções deferiu o pedido de saídas temporárias automatizadas, contudo, o paciente não obteve o direito de gozar do benefício no período do natal de 2022.
+Conforme relatado, busca-se, na presente impetração, alteração de data fixada para a saída temporária na execução de pena privativa de liberdade. O Juízo de primeiro grau deferiu o benefício das saídas temporárias, em cinco oportunidade distintas, pelo período de sete dias cada, sendo o início de cada período para os dias 08 de fevereiro de 2022, 03 de maio de 2022, 19 de julho de 2022, 27 de setembro de 2022 e 29 de novembro de 2022.
+Por sua vez, o Tribunal a quo confirmou a decisão, com os seguintes fundamentos:
+"A irresignação do reeducando, em suma, cinge-se ao indeferimento do pedido de antecipação da 5 saída temporária para o período que abrange as festividades de natal.
+É cediço que a concessão do benefício da saída temporária na época do natal reforça o intuito ressocializador da Lei de Execução Penal, sobretudo por ser esta uma data de festividade religiosa e com notória aproximação dos entes familiares.
+Ocorre, porém, que o gozo do benefício é ditado pelo Juízo discricionário do magistrado da execução penal, o qual, diante da numerosa quantidade de apenados, deve organizar de forma equânime os reeducandos para que possam usufruir da benesse sem que haja prejuízo à segurança da unidade prisional.
+E, nesse sentido, pelo que se vê, foi o interlocutório guerreado, in verbis (Seq. 72.1):
+Trata-se de pedido formulado pela defesa do apenado Robson Queiroz de Mello, que atualmente cumpre pena em regime semiaberto, requerendo a alteração da data fixada para saída temporária, do dia 29/11/2022 para o dia 20/12/2022, conforme petição do seq. 59.1.
+A lei de execução penal estipula a limitação de cinco saídas temporárias anuais, conforme artigo 124: "A autorização será concedida por prazo não superior a 7 (sete) dias, podendo ser renovada por mais 4 (quatro) vezes durante o ano".
+Contudo, caberá ao Juízo de execução penal a fixação do calendário anual das saídas temporárias, mediante critérios de conveniência e oportunidade, considerando as peculiaridades do local de cumprimento da pena, principalmente a organização administrativa no que tange aos procedimentos de logística operacional e de segurança da unidade prisional.
+Ademais, na decisão do seq. 52.1 constam os fundamentos para a escolha das datas, os quais me remeto a fim de evitar tautologia.
+Da referida decisão (Seq. 52.1), esclareceu o togado singular que:
+ ..  as datas previstas para as saídas são previamente fixadas por este Juízo por meio da divisão dos apenados em grupos.
+Referida divisão é realizada de acordo com o segundo número do dígito sequencial do número do processo (no presente caso "7"), tudo a fim de assegurar o pleno exercício do direito do apenado, bem com viabilizar o bom funcionamento do cartório judicial e da unidade prisional, permitindo a saída de apenados em número razoável por período, facilitando também o controle e a fiscalização das condições estipuladas nas decisões que deferiram a saída temporária pelos órgãos de segurança pública".
+Ante o exposto:
+b) DEFIRO a saída temporária ao apenado Robson Queiroz de Mello, autorizando o afastamento do estabelecimento prisional, por 7 (sete) dias, em 05 (cinco) oportunidades diferentes (1 4 saída - 08/02/2022; 2 4 saída - 03/05/2022; 3 4 saída - 19/07/2022; 4 4 saída - 27/09/2022 e 5 4 saída - 29/11/2022), com período de intervalo mínimo de 45 (quarenta e cinco) dias entre uma saída e outra, a teor do disposto no § 3º do art. 124 da LEP, ficando a critério da direção do estabelecimento penal a fixação dos horários de saída e de retorno  .. .
+Como se percebe, a escolha das datas para o gozo do benefício é realizada com a divisão em grupos de apenados, a fim de todos tenham a possibilidade de usufruir o direito em feriados, como natal, dia dos pais e outros, mas sempre visando a capacidade do cartório e da unidade prisional, a fim de garantir a segurança, o controle e a fiscalização das condições estipuladas.
+Sob tal enfoque, considerando a dinâmica empregada pelo juízo da execução penal, anota-se que não há qualquer ilegalidade no decisum guerreado, até mesmo porque é notória a inviabilidade de deferimento concomitante do pleito a todos os reeducandos da Comarca. Ora, se não há como conceder a todos, a fim de não prejudicá-los ainda mais (com o indeferimento de todos), por certo que o critério utilizado, aleatório, é válido e benéfico aos apenados.
+Sobre o tema, inclusive, colhe-se recentes julgados desta egrégia Corte Estadual:
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE INDEFERIU O PEDIDO DE ALTERAÇÃO DA DATA DA SAÍDA TEMPORÁRIA. INSURGÊNCIA DO REEDUCANDO.
+PRETENDIDA FRUIÇÃO DA SAÍDA TEMPORÁRIA NO PERÍODO DE NATAL. AVENTADA IMPORTÂNCIA DA FESTIVIDADE PARA A RESSOCIALIZAÇÃO DO APENADO.
+DESCABIMENTO. DEFINIÇÃO DAS DATAS DE FRUIÇÃO DO BENEFÍCIO QUE SE ENCONTRA NA ESFERA DE DISCRICIONARIEDADE DO JUÍZO DA EXECUÇÃO PENAL.
+PRECEDENTES DESTA CORTE. ADEMAIS, JUÍZO DE ORIGEM QUE JUSTIFICOU A ESCOLHA DAS DATAS E GARANTIU QUE PELO MENOS UMA DAS SAÍDAS COINCIDISSE COM UMA FESTIVIDADE (DIA DAS MÃES).
+DECISUM IRRETOCÁVEL. RECURSO CONHECIDO E DESPROVIDO.
+(TJSC, Agravo de Execução Penal n. 5024608- 04.2021.8.24.0064, do Tribunal de Justiça de Santa Catarina, rel. Antônio Zoldan da Veiga, Quinta Câmara Criminal, j. 07-04-2022).
+ ..
+Ademais, tal como no caso em apreço, "O fato de, especificamente no dia de Natal, o apenado não estar com a família não representa, por si só, óbice à sua ressocialização, como sugere a defesa. A garantia do convívio com o seio familiar estará garantida, apenas em período diverso - e bem próximo, inclusive, à festividade natalina, uma vez que a 5 4 saída está prevista para início em 29/11/2022"(TJSC, Agravo de Execução Penal n. 5000702- 48.2022.8.24.0064, do Tribunal de Justiça de Santa Catarina, rel. Paulo Roberto Sartorato, Primeira Câmara Criminal, j. 28-06-2022).
+Desta feita, conclui-se que não há motivação idônea para alteração das datas fixadas, devendo estas permanecerem incólumes." (fls. 373/374)
+Constata-se que não assiste razão à defesa, pois, de acordo com a jurisprudência deste Tribunal Superior, prolatada sob rito dos recursos repetitivos (REsp n. 1.544.036/RJ),decidiu-se ser possível fixar calendário anual de saídas temporárias por ato judicial único, como feito na hipótese, em que houve devida justificação e fundamentação do decisório impugnado. Vejam-se:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE POR DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. SAÍDAS TEMPORÁRIAS AUTOMATIZADAS. POSSIBILIDADE. EXCEPCIONALIDADE PREVISTA NO RECURSO ESPECIAL REPETITIVO N. 1.544.036/RJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica nulidade por deficiência na fundamentação das decisões das instâncias ordinárias, eis que, embora sucintas, foram devidamente motivadas (STF, Segunda Turma, AgRg no HC 105.349/SP, Rel. Min. Ayres Britto, DJ de 17/2/2011).
+2. A Terceira Seção deste Superior Tribunal de Justiça, ao examinar o Recurso especial 1.544.036/RJ, da relatoria do eminente Ministro Rogério Schietti Cruz, a par de referendar a tese relativa à necessidade de decisão judicial motivada para cada autorização de saída temporária, consignou que, se a apreciação individual do pedido estiver, por deficiência exclusiva do aparato estatal, interferindo no direito subjetivo do apenado, será permitida a fixação de calendário anual de saídas temporárias por ato judicial único.
+3. No caso dos autos, consoante bem delineou o ilustre representante do Ministério Público Federal, "o agendamento prévio das saídas temporárias foi organizado pelo Juízo da Execução mediante critérios de conveniência e oportunidade, considerando-se as peculiaridades do ambiente prisional, e permitindo-se o usufruto do benefício de forma equânime entre todos os apenados, garantindo-se, dessa forma, a segurança nos estabelecimentos prisionais e a ressocialização do apenado."
+4. Agravo regimental desprovido.
+(AgRg no HC n. 736.769/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/8/2022).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS AUTOMATIZADAS. POSSIBILIDADE. EXCEPCIONALIDADE PREVISTA NO RECURSO ESPECIAL REPETITIVO N. 1.544.036/RJ. RECURSO DESPROVIDO.
+1. A Terceira Seção deste Superior Tribunal de Justiça, ao examinar o Recurso especial 1.544.036/RJ, da relatoria do eminente Ministro Rogério Schietti Cruz, a par de referendar a tese relativa à necessidade de decisão judicial motivada para cada autorização de saída temporária, consignou que se a apreciação individual do pedido estiver, por deficiência exclusiva do aparato estatal, interferindo no direito subjetivo do apenado, será permitida a fixação de calendário anual de saídas temporárias por ato judicial único.
+2. Na hipótese dos autos, observa-se a excepcionalidade da medida, a justificar a saída temporária automatizada, valendo registrar que as saídas foram determinadas por ato judicial único, respeitado o limite de 35 saídas, conforme se observa à fl. 86 (e-STJ), e não delegadas para a autoridade prisional. Ademais, restou consignado que tais medidas serão automaticamente canceladas caso não sejam observadas as determinações de horário e data de retorno fixadas pelo Magistrado de primeira instância.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1.484.704/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 31/10/2017).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. SAÍDAS TEMPORÁRIAS. CONCESSÃO DE FORMA AUTOMÁTICA. POSSIBILIDADE. FLEXIBILIZAÇÃO DO TRÂMITE. RECURSO ESPECIAL REPETITIVO N. 1.544.036/RJ. INSURGÊNCIA DESPROVIDA.
+1. Revendo posicionamento anterior, a Terceira Seção desta Corte Superior de Justiça, no julgamento de Recurso Especial Representativo da Controvérsia n. 1.544.036/RJ, firmou entendimento no sentido da possibilidade de o Juízo da Execução, excepcionalmente e após a oitiva do Órgão Ministerial, autorizar e estabelecer, previamente, as datas de todas as saídas temporárias às quais tem direito o apenado, quando a análise individual do pedido ficar prejudicada pela burocratização e deficiências estruturais do órgão judicante.
+2. É necessária a flexibilização do trâmite para a concessão do benefício, a fim de se evitar que, em virtude das dificuldades estruturais das varas de execuções penais, o direito pleiteado pelos condenados seja inviabilizado por questões meramente burocráticas.
+3. Nessas hipóteses, não há delegação à autoridade administrativa penitenciária da função jurisdicional da concessão do benefício, ficando essa apenas incumbida da execução do cronograma estabelecido judicialmente.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.634.545/SC, relator Ministro Jorge Mussi, Quinta Turma, DJe de 11/4/2017).
+Portanto, inexiste constrangimento ilegal apto a modificar as datas das saídas temporárias automatizadas do paciente, ora agravante.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
