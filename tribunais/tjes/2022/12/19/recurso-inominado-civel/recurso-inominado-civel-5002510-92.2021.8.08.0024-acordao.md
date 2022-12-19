@@ -1,0 +1,50 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002510-92.2021.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BRADESCO ADMINISTRADORA DE CONSORCIOS LTDA.
+RECORRIDO: MILTON NATALICIO SABINO DE ALMEIDA
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.
+AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL c/c RESTITUIÇÃO DE QUANTIA PAGA
+.
+CELEBRAÇÃO DE CONTRATO DE CONSÓRCIOS. DESISTÊNCIA. RESCISÃO CONTRATUAL E RESTITUIÇÃO DE PARCELAS PAGAS
+. SENTENÇA DE PISO QUE JULGOU PARCIALMENTE PROCEDENTE QUE ASSIM DECIDIU:
+JULGO PROCEDENTES os pedidos formulados na inicial, para o fim de DECLARAR NULA DE PLENO DIREITO a cláusula penal imposta no contrato de adesão, bem como condenar a ré a restituir de forma imediata o valor devido ao requerente em razão da cota nº 0681, pertencente ao Grupo nº 00514 (R$40.339,78 - quarenta mil e trezentos e trinta e nove reais e setenta e oito centavos), deduzindo do montante taxa de administração contratual proporcional ao tempo em que o requerente permaneceu consorciado [...].
+RECURSO DA PARTE REQUERIDA QUE SE LIMITOU SOMENTE A PEDIR A IMPROCEDÊNCIA DO PEDIDO INIC
+IAL, POIS HOUVE O PAGAMENTO EM ESPÉCIE DA CARTA DE CRÉDITO, MEDIANTE SOLICITAÇÃO DO AUTOR.
+
+RECURSO DA PARTE REQUERIDA CONHECIDO E IMPROVIDO.
+DIREITO DO CONSUMIDOR. CONSÓRCIO É UMA OPERAÇÃO DE CAPTAÇ
+ÃO DE RECURSOS EM GRUPO FECHADO. O REQUERENTE NÃO COMPROVOU QUE O AUTOR TENHA REALMENTE RECEBIDO O VALOR QUE A ADMINISTRADORA ALEGA. AUSÊNCIA DE
+DEMONSTRAÇÃO DO FATO EXTINTIVO DO DIREITO ALEGADO. INTELIGÊNCIA DO ART. 373, INCISO II, CPC.
+NESSE SENTIDO, ESCORREITA A SENTENÇA DE PISO.
+MANTENHO A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95
+.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
