@@ -1,0 +1,31 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+0002559-85.2016.8.08.0028
+APELAÇÃO / REMESSA NECESSÁRIA (1728)
+APELANTE: MUNICIPIO DE IRUPI
+APELADO: SINDICATO DOS SERVIDORES PUBLICOS DE IUNA E IRUPI
+RELATOR(A
+):JORGE DO NASCIMENTO VIANA
+
+Composição de julgamento: 016 - Gabinete Des. JORGE DO NASCIMENTO VIANA - JORGE DO NASCIMENTO VIANA - Relator / 020 - Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA - Vogal / 001 - Gabinete Des. MANOEL ALVES RABELO - MANOEL ALVES RABELO - Vogal / 014 - Gabinete Des. ROBSON LUIZ ALBANEZ - DEBORA MARIA AMBOS CORREA DA SILVA - Vogal / 012 - Gabinete Desª. ELIANA JUNQUEIRA MUNHOS FERREIRA - ELIANA JUNQUEIRA MUNHOS FERREIRA - Vogal
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+
+VOTOS VOGAIS
+020 - Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA (Vogal)
+Proferir voto escrito para acompanhar
+001 - Gabinete Des. MANOEL ALVES RABELO - MANOEL ALVES RABELO (Vogal)
+Acompanhar
+014 - Gabinete Des. ROBSON LUIZ ALBANEZ - DEBORA MARIA AMBOS CORREA DA SILVA (Vogal)
+Acompanhar
+012 - Gabinete Desª. ELIANA JUNQUEIRA MUNHOS FERREIRA - ELIANA JUNQUEIRA MUNHOS FERREIRA (Vogal)
+Proferir voto escrito divergente
+EMENTA
+DECISÃO
+Por maioria, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
