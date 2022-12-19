@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/12/2022 a 19/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FABIANO GOMES DOS SANTOS e DANIEL RIBEIRO SOARES agravam da decisão de fls. 405-408, em que dei provimento ao recurso especial da acusação, para condenar os réus como incursos no art. 330 do Código Penal.
+Neste regimental, a defesa sustenta a atipicidade da conduta de descumprimento de ordem de parada de automóvel emitida por policiais militares durante blitz de trânsito.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja negado provimento ao recurso do Ministério Público estadual.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESOBEDIÊNCIA A ORDEM LEGAL DE PARADA NO CONTEXTO DE REPRESSÃO DE CRIME. CONDUTA TÍPICA. ART. 330 DO CÓDIGO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante decidiu a Terceira Seção do Superior Tribunal de Justiça, no julgamento de recurso especial representativo de controvérsia (REsp n. 1.859.933/SC, Rel. Ministro Antonio Saldanha Palheiro, 3ª S., DJe 1º/4/2022), " a  desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro".
+2. Na espécie, os recorridos "desobedecerem a ordem de parada dos militares, empreenderam fuga em alta velocidade, chegando a colidir com diversos veículos, momento que colidiram contra o meio-fio e uma lixeira" (fl. 2), o que configura o crime de desobediência.
+3. A tese da autodefesa, invocada pela Corte antecedente, não é suficiente para descaracterizar a conduta imputada, pois o direito de proteção à liberdade não inclui a desobediência de ordem legal.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelos ora agravantes, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Conforme registrado no decisum ora impugnado, os recorridos Fabiano Gomes dos Santos e Daniel Ribeiro Soares foram denunciados pela prática dos crimes previstos nos arts. 157, § 2º, II, 330, do Código Penal e 311 do Código de Trânsito Brasileiro, considerando os seguintes fatos narrados na exordial acusatória (fls. 1-2, grifei):
+Consta dos autos do incluso inquérito policial que no dia 02 de agosto de 2019, por volta das 21:08 horas, na Rua Padre Eustáquio, nº 2950, bairro Padre Eustáquio, em via pública, nesta capital, os denunciados subtraíram, mediante grave ameaça, com emprego de simulacro, para proveito comum, o veículo Toyota Yaris, placas CHV-1656, pertencente à vítima Maria Aparecida de Lourdes Oliveira Alves; bem como desobedeceram a ordem dos militares e trafegaram com o veículo em alta velocidade, gerando perigo de dano.
+Colhe-se dos autos que na data, hora e local dos fatos, a vítima havia acabado de estacionar o veículo, quando, ao desembarcar, foi surpreendida pelos autores que, na posse de um simulacro, anunciaram o assalto, gritando: "Perdeu! Perdeu! Passa o veículo!" Ato contínuo, a vítima, temerosa por sua vida, tentou fugir a pé, momento que caiu ao solo e os autores pegaram a chave do veículo, evadindo em alta velocidade.
+Consta dos autos que, após a vítima acionar os militares, os mesmos lograram êxito no rastreamento, visualizando os acusados na Av. Heráclito Mourão de Miranda, onde acontecia uma blitz de trânsito.
+É dos autos que, após os acusados desobedecerem a ordem de parada dos militares, empreenderam fuga em alta velocidade, chegando a colidir com diversos veículos, momento que colidiram contra o meio-fio e uma lixeira.
+Após tentarem fugir a pé, os militares realizaram a abordagem dos autores e apreenderam o simulacro utilizado no roubo, tendo a vítima prontamente reconhecido DANIEL como o condutor do veículo e portador do simulacro, e FABIANO como o segundo autor.
+O Juízo de primeiro grau julgou parcialmente procedente a denúncia para condenar os réus pela prática de roubo qualificado, absolvendo os acusados, contudo, quanto aos delitos previstos nos arts. 330 do CP e 311 do CTB.
+Irresignado, o Ministério Público estadual interpôs apelação perante o Tribunal a quo, que lhe negou provimento.
+Quanto à manutenção da absolvição dos réus pelo crime de desobediência, a Corte de origem consignou (fls. 304-305, destaquei):
+Razão não assiste ao Parquet ao apregoar pela edição de decreto condenatório, não se extraindo da conduta dos recorridos Fabiano Comes dos Santos e Daniel Ribeiro Soares o dolo necessário à tipificação do Crime de desobediência, desmerecendo censura, portanto, a decisão editada em Primeira Instância.
+Consoante orientação jurisprudencial deste Sodalício, não configura infração penal a desobediência à ordem de parada obrigatória emanada de autoridade policial, quando o agente descumpre a ordem com o intuito de preservar seu status libertatis, conforme ocorrera na hipótese dos autos, impondo-se a manutenção do decreto absolutório.
+Pela leitura dos excertos transcritos, observei que a questão jurídica está devidamente prequestionada e não demanda o revolvimento de matéria fático-probatória, sendo suficiente a revaloração de fatos incontroversos que já estão delineados no aresto impugnado.
+Sobre o tema em análise, por ocasião do julgamento do Recurso Especial Representativo de Controvérsia n. 1.859.933/SC, ocorrido em 9/3/2022, a Terceira Sessão desta Corte Superior firmou o entendimento de que " a  desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro".
+Na hipótese, os recorridos "desobedecerem a ordem de parada dos militares, empreenderam fuga em alta velocidade, chegando a colidir com diversos veículos, momento que colidiram contra o meio-fio e uma lixeira" (fl. 2). A tese da autodefesa, invocada pela Corte antecedente, não é suficiente para descaracterizar a conduta imputada, pois o direito de proteção à liberdade não inclui a desobediência de ordem legal.
+Dessa forma, constatei a violação do art. 330 do Código Penal, por ser claramente típica a conduta de desobediência praticada pelos recorridos.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESOBEDIÊNCIA. ORDEM DE PARADA POR PARTE DE POLICIAIS NO EXERCÍCIO DE ATIVIDADE OSTENSIVA. TIPICIDADE DA CONDUTA. MATÉRIA PACÍFICA NESTA CORTE SUPERIOR. RESP N. 1.859.933/SC (TEMA 1.060). AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do 1.859.933/SC (Tema 1060), relator Ministro Antonio Saldanha Palheiro, DJe de 1/4/2022 , pela sistemática dos recursos repetitivos, firmou orientação no sentido de que a desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro.
+2. No presente caso, a ordem de parada não foi dada por autoridade de trânsito, no controle cotidiano no tráfego local, mas emanada de policiais militares, no exercício de atividade ostensiva destinada à prevenção e à repressão de crimes, tendo a abordagem do recorrente se dado em razão de suspeita de atividade ilícita, o que configura hipótese de incidência do delito de desobediência tipificado no art. 330, do CP.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.954.136/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 20/6/2022, destaquei)
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
