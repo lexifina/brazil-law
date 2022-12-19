@@ -1,0 +1,35 @@
+DECISÃO
+Daisy Luce Freire de Mello Azelmanajuizou ação de indenização contra Transportes Amigos Unidos S.A. e, em fase de cumprimento de sentença, houve inclusão no polo passivo do Município do Rio de Janeiro.
+O Juízo da 16ª Vara Cível da Comarca da Capital declinou da competência e o Juízo da 13ª Vara de Fazenda Pública da Capital suscitou conflito negativo de competência.
+OTribunal de Justiça do Estado do Rio de Janeiro julgou procedente o incidente e manteve o processamento do feito perante o Juízo que decidiu a causa na fase de conhecimento, nos termos assim ementados (fl. x):
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. INCLUSÃO DO MUNICÍPIO DO RIO DE JANEIRO. DECLÍNIO PARA A VARA DE FAZENDA PÚBLICA QUE, POR SUA VEZ, ENTEDE NÃO HAVER RAZÃO PARA A MODIFICAÇÃO DE COMPETÊNCIA EM RAZÃO DAINCLUSÃO DO MUNICÍPIO NA FASE DE CUMPRIMENTO DE SENTENÇA. PERPETUATIO JURISDICIONIS. ARTIGOS 43 C/C 516, INCISO II, DO NCPC.
+-Sentença proferida pelo Juízo suscitado que reconheceu a responsabilidade civil da Transportadora. Inclusão do Município do Rio de Janeiro no polo passivo da demanda, na fase de cumprimento do Julgado, diante da sua responsabilidade subsidiária, com a remessa dos autos ao Juízo Fazendário que, por sua vez, suscitou conflito negativo de competência.
+-Incidência ao caso do disposto no artigo 43 do NCPC. Princípio da Perpetuatio Jurisdicionis. A determinação da competência para o julgamento deuma demanda é fixada no momento de sua distribuição, sendoirrelevantes as modificações do estado de fato ou de direito, salvo quando suprimirem o órgão julgador ou alterarem a competência absoluta, que não é o caso. Precedentes Jurisprudenciais.
+-FIXAÇÃO DA COMPETÊNCIA DO JUÍZO SUSCITADO DA 16ª VARA CÍVEL DA COMARCA DA CAPITAL.
+Os embargos de declaração opostos foram rejeitados (fls. 52-61).
+Município do Rio de Janeiro interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação doart. 1.022, II, do CPC/2015, por omissão no acórdão recorrido quanto aos argumentos de inobservância do art. 43, parte final, art. 62 e art. 516, parágrafo único, do CPC/2015, e por contradição quanto ao reconhecimento da intervenção superveniente de pessoa jurídica de direito público.
+Foram apresentadas contrarrazões (fls. 80-82) e o Tribunal de origem inadmitiu o recurso especial (fls. x-x), tendo sido interposto o presente agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo / não conhecimento do recurso especial / provimento do recurso especial / desprovimento do recurso especial (fls. 87-91).
+É o relatório. Decido.
+Considerando que a parteagravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão e contradição das questõesjurídicas apresentadas pelo recorrente, quaissejam, a inobservância da legislação sobre competência e o reconhecimento da inclusão do Município na fase de cumprimento.
+A respeito das questões, a Corte de origem se manifestou expressamente no sentido de que a inclusão do Município no polo passivo da demanda já na fase de cumprimento não tem o condão de alterar a competência do Juízo de cognição. Destaca-se (fls. 34-35):
+Com efeito, o artigo 43 do NCPC, que traz o Princípio da Perpetuatio Jurisdicionis, dispõe que a determinação da competência para o julgamento de uma demanda é fixada no momento de sua distribuição, sendo irrelevantes as modificações do estado de fato ou de direito, salvo quando suprimirem o órgão julgador ou alterarem a competência absoluta, o que não é o caso.
+Por sua vez, o artigo 516, inciso II, do CPC/15 estabelece a regra de que o cumprimento da sentença se fará perante o Juízo que decidiu a causa no primeiro grau de Jurisdição.
+Como se vê, no caso sob análise o Município somente foi incluído no polo passivo após a prolação da sentença, já na fase de seu cumprimento, não se justificando o declínio da competência para o Juízo Fazendário.
+O próprio Superior Tribunal de Justiça, ainda na vigência do Código de Processo Civil/1973, consolidou o entendimento segundo o qual a competência para o cumprimento de sentença é funcional e, por conseguinte, absoluta, devendo processar-se perante o Juízo que decidiu a causa no primeiro grau de jurisdição, nos exatos termos do disposto no inciso II do artigo 475-Pdo CPC(atual art. 516, inciso II do CPC/15):  ..
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA. ERRO JUDICIÁRIO NÃO CARACTERIZADO. POSTERIOR ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. DANOS MORAIS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+(..)
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 941.782/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDORES, ANUÊNIOS. BASE DE CÁLCULO REAJUSTADA PELO ÍNDICE 28,86%. RECONHECIMENTO PELA CORTE DE ORIGEM. ÔNUS DE SUCUMBÊNCIA - SÚMULA 7 DO STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1385196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 10/09/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
