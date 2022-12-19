@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMT assim ementado (e-STJ fl. 99):
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO A RELAÇÃO DE CREDORES - MAJORAÇÃO DE CRÉDITO - ILEGITIMIDADE ATIVA DA RECUPERANDA - FACULDADE DO PRÓPRIO INTERESSADO - ART. 8º DA LEI 11.101/2005 - ART. 18, CPC - DECISÃO MANTIDA - RECURSO DESPROVIDO A empresa recuperanda não é parte legitima para, diante da divergência de crédito e por meio de impugnação à relação de credores, pleitear a majoração do crédito de titularidade de terceiro.
+Nas razões do recurso (e-STJ fls. 111/131), interposto com fundamento no art. 105, III, "a", da CF, a parte aponta violação do art. 8º da Lei n. 11.101/2005. Sustenta que (e-STJ fl. 122):
+O art. 8º da lei 11.101/2005 não faz distinção sobre a pretensão perseguida pela parte na apresentação da sua impugnação. Repita-se que todas as partes nomeadas no art. 8º da lei 11.101/2005 podem apresentar impugnação "apontando a ausência de qualquer crédito ou manifestando-se contra a legitimidade, importância ou classificação de crédito relacionado." Veja, Excelência, que a lei não discute qual o fundamento ou qual objetivo cada parte pode perseguir na impugnação de crédito. Nos termos do art. 8º, "no prazo de 10 (dez) dias, (..) o devedor ou seus sócios (..) podem apresentar ao juiz impugnação contra a relação de credores, (..) manifestando-se contra a legitimidade, importância ou classificação de crédito relacionado." Inclusive, a lei é muito clara ao apontar que qualquer um dos legitimados pode apresentar impugnação manifestando-se contra a "importância" de crédito relacionado. Pode-se, portanto, utilizar a impugnação de crédito para majoração ou minoração do crédito!
+Afirma que é possível cognição ampla e exauriente noincidentede impugnação de crédito, podendo a recuperanda ajuizá-lopara majorar ou reduziro valor do crédito.
+Não foram apresentadas contrarrazões (e-STJ fl. 147).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 148/151), os autos vieram a esta Corte.
+É o relatório
+Decido.
+A Corte estadual decidiu a matéria controvertida nos seguintes termos (e-STJ fl. 89):
+Não se discute que o art. 8º da Lei 11.101/2005 legitima o devedor ou seus sócios, bem como qualquer credor, o Comitê ou o Ministério Público, a apresentar impugnação contra a importância, legitimidade ou classificação do crédito relacionado na lista de credores apresentada pelo administrador judicial.
+Contudo, a pretensão da devedora de elevar os créditos da agravada é prerrogativa que incumbe exclusivamente à credora, caso não concorde com o valor declarado e queira elevá-lo.
+Tal entendimento se dá pela interpretação do art. 8º em consonância com o art. 18 do Código de Processo Civil, pelo qual não é dado a ninguém pleitear em nome próprio direito alheio.
+Sobre o tema, Manoel Justino Bezerra Filho esclarece:
+"O interesse para manifestar-se contra a legitimidade, importância ou classificação do crédito relacionado é de qualquer credor, do devedor, seus sócios ou o Ministério Público. No entanto, apenas tem interesse para apontar ausência do crédito o próprio titular do crédito, vez que ninguém pode pleitear direito alheio em nome próprio. Por outro lado a habilitação não é obrigação do credor e sim, prerrogativa que pode ou não ser exercida por ele a partir de sua própria vontade" (Lei de Recuperação de Empresas e Falência Lei 11.101/05 Comentada artigo por artigo, 7ª Edição, Editora Revista do Tribunais, p. 81).
+O Tribunal de origem decidiu a questão com base na norma processual, concluindo que não cabe a ninguém pleitear direito próprio em nome alheio e, por isso, confirmou a decisão que extinguiu a impugnação de crédito.
+Contudo, nas razões do especial, a parte não apresentou argumentosnesse sentido, tampouco indicou dispositivo legal apto a refutar tal fundamento, de modo que incidem as Súmulas n. 283 e 284 do STF, a impedir o seguimento do especial.
+Em face do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
