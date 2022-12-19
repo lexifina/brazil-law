@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 75):
+Habeas Corpus. Receptação qualificada. Pedido de liberdade provisória. Descabimento. Decisão que decretou a custódia bem fundamentada. Constrangimento ilegal não demonstrado. Prisão mantida. Ordem denegada
+Extrai-se da impetração que o paciente foi preso preventivamente pela suposta prática do crime de receptação qualificada (art. 180, §1º, do Código Penal).
+Sustenta o impetrante, em síntese, ausência dos requisitos ensejadores da prisão preventiva, bem como que o decreto não foi ancorado em fundamentação concreta.
+Requer, liminarmente e no mérito, a revogação da medida extrema.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+O decreto restou assim lançado (fl. 48):
+Com relação ao averiguado Fábio, diversamente, é reincidente específico, conforme consta de sua FA de fls. 141/143, por ter sido condenado ao crime do artigo 180, §1º, do CP, nos autos nº 0001203-21.2018.8.26.0566, estando em cumprimento de pena, o que indica que a medida anterior não foi capaz de cessar seus atos criminoso. A prática de receptação não pode ser relevada, já que alimenta os crimes patrimoniais, como aqueles sofridos pelas vítimas identificadas, tratando-se de delito que por sua vez é de extrema gravidade e tem causado repúdio e enorme insegurança à comunidade laboriosa e ordeira do País, havendo, no caso, sérios indícios do envolvimento do averiguado de forma organizada e não eventual, conforme indicaram as circunstâncias da prisão, contribuindo para desestabilizar as relações de convivência social, estando, assim, presente o motivo da garantia da ordem pública, autorizador da decretação da prisão preventiva, não se trata de antecipação da reprimenda, nem reconhecimento definitivo da culpabilidade.
+Como se vê, consta do decreto prisional fundamentação baseada na garantia da ordem pública, tendo em vista a reiteração delitiva do paciente, sendo "reincidente específico, conforme consta de sua FA de fls. 141/143, por ter sido condenado ao crime do artigo 180, §1º, do CP, nos autos nº 0001203-21.2018.8.26.0566" (fl. 48).
+Nesse sentido, "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Vale destacar que, "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
