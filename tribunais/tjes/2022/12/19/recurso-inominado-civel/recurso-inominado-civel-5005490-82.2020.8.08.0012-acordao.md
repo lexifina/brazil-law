@@ -1,0 +1,34 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005490-82.2020.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BRUNO SOUZA BARRETO
+RECORRIDO: SEGURA ASSISTENCIA LTDA
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO DESTA TURMA RECURSAL QUE MANTEVE A SENTENÇA DE PISO PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS
+.
+SUSTENTA A PARTE EMBARGANTE QUE HÁ OMISSÃO NA DECISÃO PROFERIDA. MERO INCONFORMISMO. O EMBARGOS DE DECLARAÇÃO SÃO RECURSO PARA SUPRIR CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL, NÃO SE PRESTANDO AO REEXAME DE MATÉRIA. EMBARGOS DE DECLARAÇÃO QUE NÃO POSSUEM QUALQUER PROPÓSITO DE SUPRIR OS VÍCIOS QUE LHE SÃO PERMITIDOS ATACAR.
+RECURSO CONHECIDO E IMPROVIDO
+. SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer em parte os Embargos de Declaração, e, nesta parte, negar-lhe provimento, nos termos do voto do Relator.
