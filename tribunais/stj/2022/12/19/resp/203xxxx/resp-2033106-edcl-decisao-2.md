@@ -1,0 +1,12 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos pela Refinaria de Sal, contra decisão proferida às fls. 275/277 (e-STJ), cuja ementa assim estabeleceu, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. QUESTIONAMENTO DE INCIDÊNCIA DE ICMS. ENERGIA ELÉTRICA CONTRIBUINTE DE FATO. LEGITIMIDADE ATIVA AD CAUSAM. PRECEDENTE. RECURSO ESPECIAL CONHECIDO PARA LHE DAR PROVIMENTO PARCIAL.
+Nas razões dos aclaratórios, a recorrente alega que não obstante o provimento parcial do apelo especial, deixou de remeter o feito ao Tribunal ad quem, para realização de retratação, nos termos do artigo 1.030, II, do Código de Processo Civil. E outrora não tratou a respeito da legitimidade da ora embargante para impetrar mandado de segurança na origem.
+Impugnação aos aclaratórios às fls. 297/299 (e-STJ).
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+Portanto, cabe rememorar que apenas são cabíveis os declaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situações não observadas na espécie.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
