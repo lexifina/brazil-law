@@ -1,0 +1,34 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000601-53.2022.8.08.0000
+AGRAVO DE INSTRUMENTO (202)
+AGRAVANTE: PREVIDENCIA USIMINAS
+AGRAVADO: GUILHERME CALDEIRA LANDEIRO e outros
+RELATOR(A
+):JORGE DO NASCIMENTO VIANA
+
+Composição de julgamento: 016 - Gabinete Des. JORGE DO NASCIMENTO VIANA - JORGE DO NASCIMENTO VIANA - Relator / 001 - Gabinete Des. MANOEL ALVES RABELO - MANOEL ALVES RABELO - Vogal / 012 - Gabinete Desª. ELIANA JUNQUEIRA MUNHOS FERREIRA - ELIANA JUNQUEIRA MUNHOS FERREIRA - Vogal
+_______________________________________________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+
+VOTOS VOGAIS
+001 - Gabinete Des. MANOEL ALVES RABELO - MANOEL ALVES RABELO (Vogal)
+Acompanhar
+012 - Gabinete Desª. ELIANA JUNQUEIRA MUNHOS FERREIRA - ELIANA JUNQUEIRA MUNHOS FERREIRA (Vogal)
+Acompanhar
+DESEMBARGADOR(RES) IMPEDIDO(S)
+020 - Gabinete Des. ARTHUR JOSÉ NEIVA DE ALMEIDA - ARTHUR JOSE NEIVA DE ALMEIDA (Vogal)
+Impedido ou Suspeito
+
+EMENTA
+
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
