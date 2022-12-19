@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento naalínea"a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado (fl. 321):
+PREVIDENCIÁRIO. PROCESSO CIVIL. EXERCÍCIO DE ATIVIDADEESPECIAL. AMBIENTE HOSPITALAR. ATIVIDADESADMINISTRATIVAS. REAFIRMAÇÃO DA DER. IMPLANTAÇÃO DOBENEFÍCIO.
+1. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições especiais são disciplinados pela lei em vigor à época em que efetivamente foi prestada, passando a constituir direito adquirido do trabalhador.
+2. A avaliação da nocividade do trabalho em contato com agentes biológicos é qualitativa, ou seja, a simples presença no ambiente profissional desses agentes faz reconhecer a sua existência que prescinde, pois, de mensuração.
+3. Se o desempenho de atribuições eminentemente administrativas e burocráticas em estabelecimento hospitalar não envolve o contato habitual e prolongado com pacientes portadores de doenças infectocontagiosas ou o manuseio de materiais contaminados, a atividade não deve ser enquadrada como especial.
+4. A reafirmação da data de entrada do requerimento administrativo(DER), antes inclusive admitida pela administração previdenciária (IN 77/2015), tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, como fato superveniente, após o ajuizamento da ação ou da própria decisão recorrida, de ofício ou mediante petição da parte.
+5. Considerada a eficácia mandamental dos provimentos fundados no art. 497, caput, do Código de Processo Civil, e tendo em vista que a decisão não está sujeita, em princípio, a recurso com efeito suspensivo, é imediato o cumprimento do acórdão quanto à implantação do benefício devido à parte autora, a ser efetivado em 30 (trinta) dias.
+Opostos embargos de declaração, foramacolhidos em partenos seguintes termos(fls. 489-493):
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃOEVIDENCIADA EM PARTE. EFEITOS INFRINGENTES. PREQUESTIONAMENTO.
+1. A integração da decisão colegiada é possível quando se verificar qualquer das situações previstas no art. 1.022 do Código de Processo Civil, sendo inviável, contudo, quando, sob o pretexto de ocorrência de omissão, contradição, obscuridade ou erro material na decisão embargada, rediscutir matéria já apreciada, pretensão que deve ser manifestada por meio do adequado recurso.
+2. Se constatada omissão em relação à fundamentação do julgado, os embargos podem ser acolhidos com efeitos infringentes.
+3. Examinadas pelo órgão colegiado as questões suscitadas nos embargos, ainda que ausente referência expressa a dispositivos legais, está implicitamente configurado o prequestionamento. Precedentes do STJ.
+Alega a parte recorrente violação dos arts. 85, caput, do CPC e 389do CCe argumenta, em síntese, que "somente se o INSS opuser-se ao pedido de reafirmação da DER, resistindo a pretensão, dando causa a demanda, haverá condenação a verba honorária. Caso contrário sequer há que se falar em sucumbência" (fl. 509).
+Aduz que, na hipótese dos autos, o INSS não se insurgiu quanto àpossibilidade de reafirmação da DER, nemhouve descumprimento da obrigaçãoreconhecida pelo juízo, razão pela qual afirma que não são devidos honorários de sucumbência.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+O Tribunal de origem, de modo fundamentado, resolveu de forma integral a controvérsia, discorrendo acerca do critério de fixação dos honorários de sucumbência na espécie.Sobre o tema,consignou o seguinte (fl. 334):
+No presente caso, conforme o que foi decidido no IAC nº 5007975-25.2013.4.04.7003, considerando o reconhecimento do direito ao benefício em momento posterior ao ajuizamento da ação, os juros moratórios são devidos a partir da data em que a parte autora passou a fazer jus ao benefício.
+Quanto aos honorários, a sucumbência parcial da parte autora, determinada pela concessão do benefício somente mediante o cômputo de lapso de tempo considerável após a DER, impõe a sua condenação ao pagamento da parcela correspondente aos ônus sucumbenciais.
+Tendo em vista as disposições dos §§ 2º e 3º do art. 85 do CPC (aplicável à hipótese, já que a sentença recorrida foi publicada sob a sua vigência), reputa-se adequada a verba honorária estipulada em sentença (Súmula nº 111 do STJ; Súmula nº 76 desta Corte).
+Registre-se que esse percentual já engloba os honorários relativos à esfera recursal, consoante dispõe o art. 85, §11, do CPC.
+Desse modo, ambas as partes devem responder pelo pagamento de honorários advocatícios, sendo incabível a sua compensação (art. 85, §14), nos termos estabelecidos na sentença.
+Entretanto, a exigibilidade dessa obrigação, em relação ao autor, fica suspensa por força da Gratuidade da Justiça, nos termos do art. 98, § 3º, do CPC.
+Os honorários também têm por termo inicial a data da reafirmação da DER, em consonância com a decisão proferida no IAC nº 5007975-25.2013.4.04.7003.
+Observa-se que o Tribunal de origemdeterminou a sucumbência parcial da parte autora, determinada pela concessão do benefício somente mediante o cômputo de lapso de tempo considerável após a DER.
+Nesse contexto, verifica-se que a parte recorrente busca, na verdade, a análise acerca do cabimento dos honorários em desfavor da autarquia na hipótese dos autos.
+Contudo, modificar o entendimento exarado pela Corte de origem a fim de acolher a pretensão recursal de afastar a condenação do INSS em honorários advocatícios enseja o revolvimento da matéria de fato, o que é inviável em recurso especial nos termos da Súmula n. 7/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOSDE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015.NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO).JUROS DE MORA. NÃO INCIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1- Quanto à mora, é sabido que a execução contra o INSS possui doistipos de obrigações: a primeira consiste na implantação do benefício, asegunda, no pagamento de parcelas vencidas a serem liquidadas e quitadaspela via do precatório ou do RPV. No caso de o INSS não efetivar aimplantação do benefício, primeira obrigação oriunda de sua condenação, noprazo razoável de até quarenta e cinco dias, surgirão, a partir daí,parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver afixação dos juros, embutidos no requisitório de pequeno valor.
+2. Quanto à condenação em honorário, oreexame de matéria de prova é inviável em sede de recursoespecial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.946.109/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 12/11/2021.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. A jurisprudência desta Corte assevera que, "segundo o princípio da causalidade, aquele que der causa à instauração da demanda ou do incidente processual deve arcar com as despesas deles decorrentes" (AgRg no AREsp 525.559/RJ, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 12/8/2014, DJe 19/8/2014).
+2. No caso, a alteração das conclusões adotadas pela Corte de origem acerca da aplicação do princípio da causalidade, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.651.454/RS, relator Ministro Sérgio Kukina, Primeira Turma,DJe de 9/3/2018.)
+Ademais, mesmo que se pudesse afastar a incidência da Súmula n. 7/STJ,verifica-se que o recorrente não refutou a fundamentação do acórdão no sentido de ocorrência desucumbência parcial da parte autora, em razão daconcessão do benefício somente mediante o cômputo de lapso de tempo considerável após a DER.
+Assim, não há de ser admitido o recurso, visto que esta Corte tem firme posicionamento no sentido de que a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n.283/STF:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ante o exposto,conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Por fim,determino a majoração dos honorários em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
