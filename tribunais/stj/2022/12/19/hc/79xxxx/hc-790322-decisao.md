@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra a decisão que indeferiu a liminar no writ de origem.
+Consta nos autos que foi cumprida a ordem de prisão contra o paciente em razão do título executivo judicial decorrente da condenação a pena privativa de liberdade de 5 (cinco) anos e 4 (quatro) meses de reclusão, a ser cumprida no regime semiaberto, haja vista a prática do crime previsto no art. 157, §2º, II, do Código Penal - transitouem julgado para a defesa em 5/2/2018.
+O impetrante informa que no dia 23/10/2022, por volta de 12:30, o paciente foi preso após ser reconhecido pelas câmeras de monitoramento e reconhecimento facial, que posteriormente, perante a Polinter - Coordenação de Polícia Interestadual, verificou- se a existência de mandado de prisão definitivo expedido pelo juízo da 6ª Vara Criminal de Salvador - processo n.º 0030458-75.2006.8.05.0001.
+Sustenta queprotocolou, nos autos do processo de execução criminal,petição, a fim de requerera adequação imediata da execução da pena ao regime semiaberto, ou, subsidiariamente, não havendo vaga para cumprimento da pena no regime adequado que seja expedido alvará de soltura para cumprimento noregime aberto. Então, oJuizda 1ª Vara de Execuções Penais de Salvador determinou que o pacientefosse transferido para estabelecimento prisional compatível com o regime semiaberto, no prazo de 72 horas. Entretanto, o paciente permanececustodiado na Cadeia Pública de Salvador - Anexo 1, unidade, segundo o impetrante, inadequada ao regime fixado, e, por isso,impetrou-se habeas corpus no Tribunal de Justiça do Estado da Bahia, no qual, indeferiu-se a liminar.
+Por fim, requer queseja concedida, liminarmente, ordem, em favor do paciente, a fim de, à mingua de estabelecimento penal adequado ao cumprimento da pena no regime semiaberto, determine-se a prisão domiciliar, em cumprimento ao comando normativo extraído da Súmula Vinculante n.º 56 do Supremo Tribunal.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+O Tribunal a quo indeferiu o pedido liminar nos seguintes termos (fls. 26-29):
+ ..
+É o que cumpre relatar.
+O pleito liminar é a busca, em juízo perfunctório, da antecipação do provimento final da tutela jurisdicional, tendo como vertentes de análise os requisitos do fumus boni iuris e do periculum in mora.
+Em que pese a súplica de urgência das razões aduzidas no writ, entendo descabida a concessão da liminar pleiteada, tendo em vista que, em análise superficial da argumentação posta na exordial e dos documentos a esta acostados, não vislumbro presentes os requisitos ensejadores da medida requerida, quais sejam, o fumus boni iuris e o periculum in mora.
+Vale ressaltar que a doutrina apenas defende a viabilidade da concessão da liminar no writ como medida de exceção, nos termos a seguir expostos:
+ ..
+No caso em exame, denota-se incabível a concessão do pleito liminar, não sendo constatados, neste momento processual, os requisitos do fumus boni iuris e do periculum in mora que viessem a autorizar, de imediato, o atendimento do pleito defensivo, o que torna recomendável aguardar o regular transcurso do feito, com o envio das necessárias informações por parte do Juiz apontado como coator.
+Mostra-se, no caso em tela, imprescindível, tendo em vista a maior proximidade com a realidade fática e considerando o princípio da confiança no Juiz da causa, o envio das devidas informações a respeito para a análise dos pleitos formulados no presente habeas corpus.
+Ante o exposto, não vislumbro, prima facie, os elementos autorizadores da concessão segura da medida liminar suplicada, razão pela qual a INDEFIRO.
+Como se vê, a liminar foi indeferida, porque,em análise superficial da argumentação posta na exordial e dos documentos a esta acostados, não se vislumbrou presentes os requisitos ensejadores da medida requerida, quais sejam, o fumus boni iuris e o periculum in mora.
+De fato, no presente caso, é inviável o deferimento de medida liminar porque não há nenhuma prova, segundo a qual, o paciente cumpre pena privativa de liberdade em estabelecimento prisional inadequado ao regime imposto na sentença definitiva, e, nem ao menos, juntou-se a decisão do Juiz da Execução Penal que determinou o prazo de 72 horas para que seja providenciada a adequação do cumprimento da pena, assim como nada indica nos autos se houve ou não o cumprimento dessa suposta decisão.
+Assim, não se verifica manifesta ilegalidade apta a autorizar a mitigação da Súmula 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
