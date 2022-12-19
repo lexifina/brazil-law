@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PRUDENTIAL DO BRASIL SEGUROS DE VIDA S.A. contra decisão, da lavra deste signatário, acostada às fls. 524/526, que apoiada na decisão exarada no CC 184.495/SP, Rel. Min. Ricardo Villas Bôas Cueva, conheceu do presente incidente e declarou a competência do r. Juízo da 13ª Vara do Trabalho de São Paulo/SP.
+Em suas razões, a embargante aponta que o CC 184.495/SP, não transitou em julgado sendo passível, portanto, de alteração em sua conclusão. Aventa, outrossim, acerca da competência do r. juízo arbitral. E, ao final, requer o acolhimento da insurgência.
+A impugnação foi apresentada e está juntada às fls. 787/798.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Isso porque, o r.decisumora atacado não contém vícios, aptos ao acolhimento da insurgência, porquanto consoante destacado na oportunidade do exame unipessoal da questão,a controvérsia gira em torno de se definir qual o juízo competente para processar e julgar demandas distintas, a primeira instaurada perante o juízo trabalhista e a segunda perante o juízo arbitral, buscando dirimir a existência de vínculo trabalhista e os efeitos do contrato de franquia firmado entre as partes, em que foi estabelecida a arbitragem como forma de composição de litígios.
+Nesse contexto,a questão foi dirimida pela Segunda Seção nos autos do CC 184.495/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 1/7/2022, assim ementado:
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ARBITRAL. CONTRATO DE FRANQUIA. EXISTÊNCIA OU NÃO DE VÍNCULO EMPREGATÍCIO. RELAÇÃO DE PREJUDICIALIDADE. SUSPENSÃO DO PROCEDIMENTO ARBITRAL. NECESSIDADE. ART. 313, V, DO CPC/2015.
+1. Resume-se a controvérsia a definir a competência para o julgamento de demandas distintas, a primeira instaurada perante juízo arbitral e a segunda ajuizada na Justiça trabalhista, envolvendo relação jurídica anterior e posterior à celebração de contrato de franquia no qual se estabeleceu a arbitragem como forma de composição de litígios.
+2. A jurisprudência desta Corte se firmou no sentido de que é possível, diante da conclusão de que a atividade arbitral tem natureza jurisdicional, que exista conflito de competência entre Juízo arbitral e órgão do Poder Judiciário, cabendo ao Superior Tribunal de Justiça seu julgamento.
+3. Hipótese em que a franqueadora busca, por meio de procedimento arbitral, o reconhecimento de que a rescisão do contrato foi motivada por justa causa, por culpa da franqueada, e o pagamento da respectiva multa contratual, ao passo que a representante técnica da franqueada, por meio de reclamatória trabalhista, busca o reconhecimento de vínculo empregatício em todo o período de relacionamento, antes e depois da celebração do contrato de franquia.
+4. Verificada a impossibilidade de reunião dos processos em um mesmo juízo e havendo inegável vínculo de prejudicialidade entre eles, a questão deve ser resolvida mediante aplicação da regra prevista no art. 313, V, do Código de Processo Civil de 2015, que determina a suspensão do processo quando a sentença de mérito depender da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente.
+5. Conflito conhecido para declarar a competência do JUÍZO DA 83ª VARA DO TRABALHO DE SÃO PAULO para decidir acerca da existência ou não de relação de emprego em todo o período reclamado, mantida a suspensão do procedimento arbitral por ele já determinada. Embargos de declaração prejudicados.
+CC nº 184.495/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. 22/6/2022, DJe de 1/7/2022.
+E ainda: CC 187.684/SP, Rel. Min. Moura Ribeiro, DJe de 14/09/2022; CC 188.704/SP, Rel. Min. Marco Aurélio Bellizze, DJe de 01/7/2022.
+2. Do exposto, com fundamento no art. 1.022, do CPC/15, rejeita-se os presentes embargos de declaração.
+Publique-se. Intimem-se.
