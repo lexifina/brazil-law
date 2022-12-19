@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por Banco do Brasil S.A. contra decisão que não admitiu o recurso especial, com base no art. 105, III,a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 71-72):
+AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. OBRIGAÇÃO SOLIDÁRIA. EXIGIBILIDADE ORIENTADA CONTRA APENAS UM DOS DEVEDORES SOLIDÁRIOS. DESNECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO. LIQUIDAÇÃO POR ARBITRAMENTO. RECURSO DESPROVIDO.
+1. Na presente hipótese as questões submetidas ao conhecimento deste Egrégio Tribunal de Justiça consistem em examinar a possibilidade de chamamento ao processo da União para que ocorra a formação de litisconsórcio passivo e a necessidade de liquidação pelo procedimento comum.
+2. Os credores podem exigir o adimplemento da obrigação integralmente apenas de um dos devedores solidários, nos termos do art. 275 do Código Civil. Assim, o requerimento de cumprimento individual de sentença coletiva pode ser formulado em desfavor apenas da sociedade anônima Banco do Brasil S/A, por se tratar de obrigação solidária, podendo igualmente ser dirigido a uma unidade jurisdicional que compõe a Justiça do Distrito Federal e dos Territórios.
+3. A solidariedade não é curialmente a causa da formação de litisconsórcio passivo necessário. Os devedores solidários devem ser demandados em litisconsórcio necessário apenas se a relação obrigacional que os une for de natureza indivisível, de acordo com a regra claramente prevista no art. 114 do CPC.
+4. O chamamento ao processo consiste em modalidade de intervenção de terceiro cuja finalidade consiste justamente na constituição de obrigação solidária. Por essa razão somente é admissível no curso do processo nos termos do art. 130, inc. III, do CPC.
+5. A modalidade de liquidação por arbitramento deve ser promovida diante da necessidadede especificação dos elementos da obrigação a ser adimplida, por meio da produção de provas, com destaque para a elaboração de laudo por perito, nos termos dos artigos 509, inc. I, e 510, ambos do CPC.
+5.1. No caso concreto o credor está a exigir crédito constituído por meio de sentença coletiva, decorrente de ação civil pública. Por essa razão não é possível vislumbrar a existência de fato novo, cujo exame justifique a modalidade de liquidação pelo procedimento comum, nos moldes do art. 511 do CPC.
+5.2. A produção de prova pericial, já deferida pelo Juízo singular, é suficiente para possibilitar a quantificação da obrigação a ser adimplida, bem como a existência de eventual débito já solvido pela recorrente.
+6. Recurso parcialmente conhecido e desprovido.
+Nas razões do recurso especial (e-STJ, fls. 99-114), o banco recorrente alegou violação aos arts. 130 a 132 e 509, II, do CPC/2015.
+Sustentou que seria necessário o chamamento ao processo da União e do Banco Central, uma vez que a liquidação decorreu de demanda em que houve condenação solidária entre as partes. Afirmou que, por consequência, deveria ser reconhecida a competência da Justiça Federal para julgamento da questão.
+Argumentou que, nas ações individuais de sentença proferida em ações coletivas, seria imperiosa a realização do procedimento comum de liquidação de sentença para individualização do crédito.
+Contrarrazões às fls. 128-134 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial (e- STJ, fls. 137-139).
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial, acerca da necessidade de prévia liquidação do julgado para o cumprimento de sentença condenatória genérica em demanda coletiva,foi afetada pela Corte Especial como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão exarada pelo Relator Ministro Benedito Gonçalves no REsp n. 1.978.629/RJ, no REsp n. 1.985.037/RJ e REsp n. 1.985.491/RJ, publicada no DJe de 18/10/2022, delimitou o Tema n. 1.169 nos seguintes termos:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO PELO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DO JULGADO COLETIVO.
+1. Delimitação da controvérsia:  Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos .
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/09/2016), em conjunto com os REsp 1.985.037/RJ e 1.985.491/RJ.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia vinculado ao Tema 1.169/STJ, sejam tomadas as providências previstas nos arts. 1.039,caput, e 1.040 do CPC/2015.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRÉVIA LIQUIDAÇÃO.MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.169. SUSPENSÃO DO FEITO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
