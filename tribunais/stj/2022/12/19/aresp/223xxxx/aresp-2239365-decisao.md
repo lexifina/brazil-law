@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. DESCONTO DE VALORES RECEBIDOS A TÍTULO DE BENEFÍCIOS INACUMULÁVEIS. LIMITE. IRDR 14/TRF4. APLICABILIDADE.
+Consoante a tese fixada por ocasião do julgamento do Incidente de Resolução de Demandas Repetitivas nº 14: O procedimento no desconto de valores recebidos a título de benefícios inacumuláveis quando o direito à percepção de um deles transita em julgado após o auferimento do outro, gerando crédito de proventos em atraso, deve ser realizado por competência e no limite do valor da mensalidade resultante da aplicação do julgado, evitando- se, desta forma, a execução invertida ou a restituição indevida de valores, haja vista o caráter alimentar do benefício previdenciário e a boa-fé do segurado, não se ferindo a coisa julgada, sem existência de "refomatio in pejus", eis que há expressa determinação legal para tanto. (TRF4 5023872-14.2017.4.04.0000, Terceira Seção, Relator Jorge Antonio Maurique, juntado aos autos em 28/05/2018).
+Os Embargos de Declaração opostos pelo INSS não foram providos.
+Em seu Recurso Especial, o agravante alega violação dos arts. 115, II, e 124 da Lei 8.213/1991; 368 e 876 do CC/2002; e 509, § 4º, 535, VI, e 1.022 do CPC/2015.Sustenta, em suma, que, "por força da legislação previdenciária (arts. 115 e 124) e civil (arts. 368 e 876) o montante pago a maior, através de benefício previdenciário inacumulável, merece ser compensado integralmente, pois refere-se a um "crédito" titulado pela Autarquia Previdenciária" (fl. 597, e-STJ).
+Contrarrazões às fls. 602-604, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de dezembro de 2022.
+De início, não se conhece da suposta ofensa ao art. 1.022 do CPC/2015, pois o recorrente se limitou a afirmar, em linhas gerais, de forma genérica, que o acórdão impugnado incorreu em omissão ao deixar de se pronunciar acerca de questões expostas nos Embargos de Declaração.
+Ademais, não apresentou argumentos suficientes para demonstrar que o Tribunal de origem violou os mencionados dispositivos legais e a relevância deles para o julgamento do feito. Incide nesse ponto a Súmula 284/STF.
+Quanto à alegada contrariedade aos arts. 115, II,da Lei 8.213/1991; 368 e 876 do CC; e 509, § 4º, e 535, VI, do CPC, bem como à tese a eles vinculada, verifica-se que, a despeito da oposição dos Aclaratórios, não houve juízo de valor por parte do Colegiado regional, o que acarreta o não conhecimento do Apelo Nobre pela falta de prequestionamento. Incide no caso a Súmula 211/STJ.
+Além disso, a mera declaração do Tribunal de origem de se ter por prequestionados dispositivos a fim de viabilizar o acesso à instância superior não se mostra suficiente para esta Corte se, após análise, constatar-se a inexistência do imprescindível debate.Esclareço que, para que se possa caracterizar tal requisito, é necessário que tenha sido emitido algum juízo de valor acerca do sentido e da compreensão dos artigos tidos como afrontados. Na hipótese em exame, isso não ocorreu.
+Ademais, a reapreciação do aresto impugnado, em confronto com as razões recursais, revela que o fundamento apresentado naquele julgado (de que a demanda foi resolvida com base no Incidente de Resolução de Demandas Repetitivas 14), utilizado de forma suficiente para manter a decisão proferida na origem, não foi rebatido no REsp, o que atrai os óbices das Súmulas 283 e 284/STF.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
