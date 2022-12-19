@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/12/2022 a 19/12/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAILAN SILVA DOS SANTOS contra decisão proferida por este Relator, que indeferiu liminarmente o habeas corpus (e-STJ, fls. 95-96).
+Nas razões recursais (e-STJ, fls. 99-117), o agravante alega constrangimento ilegal decorrente da alteração da data-base para benefícios executórios, com a unificação de suas penas.
+Sustenta a possibilidade de este Tribunal Superior relativizar o entendimento acerca da supressão de instância em face de grave ilegalidade. No caso, a grave ilegalidade foi cometida pelo Tribunal Estadual que não examinou a controvérsia e nem reconheceu que a data-base deveria ser aquela da última prisão efetiva.
+Ressalta que se encontra preso desde o ano de 2013, não alcançando durante este período a progressão a regime menos gravoso. Aduz que a data-base foi fixada em seu último mandado de prisão (26/4/2019), ou seja, em data posterior ao seu encarceramento.
+Cita jurisprudência desta Corte no sentido de que a unificação das penas, por si só, não altera a data-base para concessão de novos benefícios, devendo ser considerada a data da última prisão ou da última infração disciplinar.
+Nesse sentido, afirma que não cometeu falta grave, devendo ser fixada como termo inicial a data da última prisão.
+Requer o provimento do recurso, para alterar a data-base para a da última prisão.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL ESTADUAL QUE NEGOU SEGUIMENTO A ORDEM ORIGINÁRIA. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE INTERPOSIÇÃO DO AGRAVO REGIMENTAL NA ORIGEM. WRIT INDEFERIDO LIMINARMENTE. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não é cabível impetração de habeas corpus contra decisão monocrática, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância" (AgRg no HC 494.883/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 9/4/2019, DJe 30/4/2019).
+2. Agravo regimental não provido.
+VOTO
+O recurso não comporta provimento.
+Segundo se infere dos documentos colacionados ao feito, o Desembargador Relator do HC n. 1001581-63.2022.8.01.0000 negou seguimento monocraticamente ao mandamus originário e a defesa não interpôs o cabível agravo regimental dessa decisão, de forma a submeter a matéria ao julgamento do órgão colegiado.
+Portanto, nos termos da jurisprudência desta Corte, "Não é cabível impetração de habeas corpus contra decisão monocrática, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância" (AgRg no HC 494.883/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/04/2019, DJe 30/04/2019).
+Com efeito, em face da ausência de exame da controvérsia pelo órgão colegiado, o Superior Tribunal de Justiça fica impedido de analisar o pleito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O RECURSO. INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DE INSTÂNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente recurso em habeas corpus se impugna decisão singular do Desembargador Relator do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao writ impetrado na origem, por se tratar de mera reiteração. Contra essa decisão seria cabível agravo regimental ao colegiado competente, o qual não foi interposto, o que impossibilita o conhecimento do recurso ordinário.
+2. O princípio da fungibilidade recursal tem aplicação quando se verifica a existência de dúvida objetiva a respeito de qual seria o recurso cabível em determinada hipótese. O equívoco da defesa em interpor o recurso adequado não se enquadra na categoria de dúvida objetiva, o que impossibilita a incidência do referido princípio na espécie.
+3. No caso, deveria ter sido interposto agravo regimental contra a decisão monocrática do relator na origem, a fim de submeter os argumentos defensivos à análise pelo colegiado competente daquela Corte. O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça.
+4. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciadas pela Corte de origem, sob pena de indevida supressão de instância." (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015).
+5. Agravo regimental desprovido." (AgRg no RHC 118.447/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/10/2019, DJe 18/10/2019).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. MANDAMUS IMPETRADO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DA INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+1. No presente writ e impugna decisão singular de Desembargador do Tribunal de Justiça do Distrito Federal e Territórios, contra a qual seria cabível agravo regimental, que não foi interposto, o que impossibilita o seu conhecimento. Precedentes do STJ e do STF.
+2. O mandamus originário teve o seguimento negado pelo Desembargador Relator porque o Tribunal de Justiça do Distrito Federal e Territórios seria manifestamente incompetente para apreciar as questões nele alegadas, que deverão ser examinadas pela Corte Estadual de Goiás ante a declinação da competência para processar e julgar a ação penal deflagrada contra a paciente, o que reforça a impossibilidade de análise do remédio constitucional diretamente por este Sodalício, o que se daria em indevida supressão de instância.
+3. Agravo regimental desprovido." (AgRg no HC n. 341.543/DF, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 17/12/2015, DJe 2/2/2016).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
