@@ -1,0 +1,22 @@
+DECISÃO
+Na origem trata-se de execução fiscal, objetivando o recebimento de crédito oriundo de Certidão de Dívida Ativa. Na sentença, extinguiu-se o feito, por conta de sentença de procedência proferida em ação declaratória de inexigibilidade de crédito ajuizada pela ora Executada.No Tribunal a quoa apelação foi desprovida. O valor da causa foi fixado em R$ 5.620,06.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+EXECUÇÃO FISCAL. EXTINÇÃO COM BASE EM AÇÃO AUTÔNOMA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+De acordo com a jurisprudência desta Corte, tendo a execução fiscal sido extinta em decorrência direta da decisão proferida em ação autônoma, não há se falar em nova fixação de honorários advocatícios na ação executiva, uma vez que o trabalho do advogado já foi remunerado na referida ação.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Conforme entendimento pacificado no âmbito do C. STJ, tanto a parte quanto o advogado, na condição de terceiro interessado, têm legitimidade para recorrer de decisão no tocante à verba honorária.
+ ..
+Considerando, entretanto, que a discussão no recurso de apelação versa exclusivamente sobre honorários advocatícios e que a sentença foi proferida na vigência do CPC/2015, deve constar como apelante apenas o advogado, e não a parte representada.
+ ..
+Efetivamente, a jurisprudência deste Regional está consolidada no sentido de que é incabível nova condenação em honorários sucumbenciais quando a extinção da execução fiscal decorrer de julgado produzido em ação autônoma, onde já houve condenação da Fazenda Pública ao pagamento de verba honorária.
+ ..
+No caso presente, houve expressa condenação da Fazenda Nacional na ação declaratória de inexigibilidade de registro no CRQ/PR nº 5014616-87.2017.4.04.7003 ao pagamento de honorários advocatícios sobre o valor do débito em execução (autos de origem, Evento 48, SENT1), de modo que, no cenário exposto, o apelo não enseja acolhimento.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Relativamente às demais alegações de violação (art. 1025 do CPC/15), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
