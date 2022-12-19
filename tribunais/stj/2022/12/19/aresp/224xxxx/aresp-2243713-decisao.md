@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se deagravo interposto por CLÁUDIO LINO DOS SANTOS SILVA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de CLÁUDIO LINO DOS SANTOS SILVA, a petição de recurso especial foi protocolada na origem sem o devido comprovante de pagamento das custas processuais.
+No caso, o comprovante juntado não contém a autenticação bancária, dado essencial para verificação da efetiva quitação da obrigação.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se atrazer àfl. 576 o comprovante de pagamento com a autenticaçãobancária referente à guia anteriormente apresentada, sem, contudo, realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Ressalte-se que a petição de fls. 580/583 não pode ser aceita para o fim de regularização do preparo, em razão da preclusão consumativa, uma vez que já realizado o ato, por meio da petição de fls. 574/576. Nesse sentido: AgInt no AREsp 1766022/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 15/04/2021; AgInt nos EDcl no REsp 1789515/CE, relator Ministro Og Fernandes, Segunda Turma, Dje de 22/10/2019;
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça,não conheço do recurso.
+Publique-se. Intimem-se.
