@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por C R V, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 646):
+INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO GUARAITUBA. EMISSÃO DE MAU CHEIRO. RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO INTEGRAL. POLUIÇÃO ATMOSFÉRICA VERIFICADA. PARTE AUTORA QUE COMPROVOU QUE FOI ATINGIDA PELO ODOR DESAGRADÁVEL, POIS RESIDIA PRÓXIMO À ETE NA ÉPOCA DE SEU FUNCIONAMENTO. REDUÇÃO DA QUALIDADE DE VIDA. DANOS MORAIS CONFIGURADOS. SENTENÇA REFORMADA. APELAÇÃO PROVIDA.
+Embargos de Declaração rejeitados.
+Em suas razões, a parte recorrente alega violação do artigo 398 e 405 do Código Civil, bem como divergência jurisprudencial, alegando, em síntese, ao contrário do firmado no acórdão recorrido,no caso de responsabilidade extracontratual, o termo inicial para incidência dos juros é a data doevento danoso e não a data da citação, conforme entendimento pacífico do STJ, consubstanciado na Súmula nº 54/STJ.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 757-758.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+No caso, o Tribunal de origem deu provimento à apelação e condenou a recorrida por dano extrapatrimonial, como resultado da redução na qualidade de vida do recorrente devido ao mau cheiroinerente ao processo de tratamento de esgoto da Saneapar e, em consequência disso,fixouotermo inicial para incidência dos juros de mora a partir da citação, nos seguintes termos(fl. 658):
+ ..
+Em relação ao indenizatório, cumpre destacar que a ressarcibilidade do quantum dano moral visa, além de tentar amenizar o sofrimento da vítima, criar comportamento para que não se reitere a conduta praticada. Desta forma, o pagamento realizado pelo ofensor é uma forma de discipliná-lo e ensiná-lo a agir com mais cautela ao manifestar seus atos, bem como acarretar efeito de persuasão no seu ânimo de lesionar. Deve-se também considerar, na sua fixação, a extensão do sofrimento causado pelo ato lesivo experimentado e a capacidade econômica das partes. A dificuldade em se estabelecer critérios para a fixação de danos morais está na impossibilidade de se avaliar a abstração, já que a percepção de efeitos reflexos é possível, mas o mesmo não ocorre em relação à ofensa que atinge aos valores concernentes ao íntimo. De qualquer forma, consagrou-se na doutrina e na jurisprudência que o valor dos danos morais não pode ser ínfimo, a ponto de não compensar os danos sofridos, nem tão elevado, sob pena de acarretar enrique cimento indevido aos lesionados. Para tanto, deve-se levar em consideração os critérios de razoabilidade e proporcionalidade.
+Diante das peculiaridades do caso em análise, e atendendo aos parâmetros adotados por essa Câmara, merece provimento o presente recurso de apelação para condenar a ré ao pagamento de indenização por danos morais no valor de R$2.000,00 (dois mil reais), o qual se mostra adequado e suficiente para assegurar à parte autora a justa reparação pelos prejuízos suportados, sem incorrer em enriquecimento ilícito, devendo o montante ser acrescido de juros de mora de 1% (um por cento) ao mês a contar da citação e de correção monetária pela média do INPC/IGP-DI a partir deste julgamento.
+Extrai-se dos autos quea indenização por danos morais arbitrada não se referiu ao cumprimento do contrato de tratamento de esgoto firmado entre as partes, mas aos prejuízos e danos sofridos pelomau cheiro inerente ao processo de tratamento doesgoto.
+Dessa forma, não há que se falar em responsabilidade contratual, uma vez queo contrato e a prestação do serviço não foram discutidos nos presentes autos, mas de responsabilidade extracontratual, decorrente dos danos morais em razão do mau cheiro advindo daestação de tratamento e das condições insalubres estabelecidas.
+Assim, ao contrário do que decidiu a Corte local, em se tratando de responsabilidade extracontratual, os juros moratórios devem incidir a partir da data do evento danoso, nos termos da Súmula 54 do STJ, ou seja, desde a instalação da referida estação.
+Nesse sentido:
+PROCESSUAL CIVIL. JUROS DE MORA. TERMO INICIAL. DATA DO EVENTO DANOSO. SÚMULA 54 DO STJ.
+1. Do que se observa nos autos, a indenização por danos morais arbitrada não se referiu ao cumprimento do contrato de tratamento de esgoto firmado entre as partes, mas aos prejuízos e danos sofridos pela parte recorrente em razão da instalação de uma estação de tratamento de esgoto próximo a sua residência.
+2. Desse modo, não há que se falar em responsabilidade contratual, visto que o contrato e a prestação do serviço não foram discutidos nos presentes autos, mas em responsabilidade extracontratual, decorrente dos danos morais em razão do mau cheiro advindo da referida estação e das condições insalubres estabelecidas.
+3. Assim, em se tratando de responsabilidade extracontratual, os juros moratórios devem incidir a partir da data do evento danoso, nos termos da Súmula 54 do STJ, ou seja, desde a instalação da referida estação.
+4. Recurso Especial provido.
+(REsp n. 1.718.176/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/8/2018.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO INDENIZATÓRIA - REDE ELÉTRICA DE ALTA TENSÃO INSTALADA IRREGULARMENTE - MORTE POR ELETROCUSSÃO RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+ ..
+3. Os juros moratórios, em se tratando de responsabilidade extracontratual, incidem desde a data do evento danoso, nos termos da Súmula 54/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 624.967/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe de 19/12/2016.)
+Ante o exposto, dou provimento ao recurso especial,determinando a aplicação dos juros moratórios a partir do termo inicial do evento danoso, nos termos da Súmula n.54 do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. RESPONSABILIDADE EXTRACONTRATUAL.INDENIZAÇÃO POR DANOS MORAIS. JUROS DE MORA. TERMO INICIAL. DATA DO EVENTO DANOSO. SÚMULA Nº 54 DO STJ. PRECEDENTES. RECURSO PROVIDO.
