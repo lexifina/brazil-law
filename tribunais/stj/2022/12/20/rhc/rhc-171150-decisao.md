@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interporto por KAYO CAMPELO DE SOUSA, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios.
+Consta dos autos que o recorrente foi preso preventivamente pela possível prática do crime descrito nos arts.33 e 35 da Lei11.343/2006 e art. 180, caput, do CP.
+A Tribunal a quo denegou a ordem do habeas corpus impetrado na origem, nos seguintes termos:
+"PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. RECEPTAÇÃO. NULIDADE DA BUSCA E APREENSÃO. NÃO RECONHECIMENTO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE LATENTE. ORDEM DENEGADA.
+1. Não há que se falar em ilicitude da medida de busca e apreensão realizada na residência do paciente, uma vez que devidamente fundamentada no caso dos autos.
+2. Mantém-se a prisão preventiva do paciente, com a finalidade de preservar a ordem pública, se ainda persistem os motivos ensejadores da custódia, respaldados sobretudo pela gravidade concreta das condutas e pela adequada prognose de reiteração delitiva.
+3. Ordem denegada." (e-STJ, fls. 370)
+Neste recurso,o recorrente sustenta, em síntese, que "a autoridade policial, de maneira enganadora, acrescentou o endereço do Requerente na lista de endereços vinculados ao senhor Lucas e ventilou que um suposto informante teria visto o senhor Lucas entregar a arma para um morador daquela residência  ..  No momento em que foi expedido o mandado de busca e apreensão sem qualquer fundada suspeita e devidamente individualizado, resta configurado o constrangimento na medida" (e-STJ, fl. 387).
+O pedido liminar foi indeferido (e-STJ, fl. 400).
+Informações prestadas (e-STJ, fls. 403-409).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso(e-STJ, fl. 413).
+É o relatório.
+Decido.
+Não prospera o recurso.
+Quanto à nulidade arguida acerca da busca, assim consignou o juízo singular:
+"Inicialmente, a despeito do alegado, verifica-se que o cumprimento de mandado de busca e apreensão na residência do paciente foi justificado, uma vez que fundamentado em robustos indícios da prática ilícita lá realizada e do vínculo existente entre o paciente e o investigado Lucas.
+Registre-se que, conforme consignei por ocasião da denegação da liminar:
+( ) não prevalecem as alegações de que a investigação policial não conseguiu associar a residência do paciente às condutas delituosas apuradas no inquérito policial.
+Segundo a representação, Chocolate (Lucas) utilizaria o lote de 289B para guardar sua arma, que ficaria em posse do seu vizinho de frente (não identificado). Essa informação foi repassada pelo informante colaborador que afirmou ter visto Chocolate entregando a arma de fogo para o morador desta residência guardar. (..) No mais, é certo que em se tratando de crime permanente, como é o delito de tráfico de drogas, "entende-se o agente em flagrante delito enquanto não cessar a permanência", à luz do que dispõe o art. 303, do CPP, situação que excepciona a inviolabilidade de domicílio.
+ ..
+Assim, não há que se falar em ilegalidade da busca e apreensão realizada, tampouco das provas obtidas e da prisão em flagrante do paciente.
+Por outro lado, não se olvide que a decretação e a preservação da prisão preventiva do réu atende a todos os requisitos legais, uma vez que o Ministério Público requereu a manutenção da custódia (art. 311, do CPP), a pena máxima cominada ao crime de tráfico de drogas excede 4 (quatro) anos (art. 313, inciso I, do CPP) e há prova da materialidade dos delitos e suficientes indícios de autoria contra o acusado, tendo sido recentemente recebida a denúncia, conforme informado no ofício de ID 37309430.
+Noutro giro, os elementos até o momento colhidos evidenciam o perigo que o estado de liberdade do paciente poderia trazer à ordem pública, considerando a gravidade concreta das condutas e o risco de reiteração delitiva.
+Segundo depreende-se dos autos, o paciente foi preso em flagrante durante cumprimento de mandado de busca e apreensão em sua residência, oportunidade em que policiais encontraram drogas, caderno com anotações de contabilidade aparentemente do tráfico, rolos de papel filme, tampa de balança com resquícios de entorpecentes e dinheiro em espécie (R$ 400,00), além de um telefone celular produto de roubo." (e-STJ, fls.360-361).
+O mandado de busca e apreensão atentou aos requisitos do art. 243 do CPP e está adequado às hipóteses do art. 240, § 1º, "d" e "e", do CPP. O fato de o nome do proprietário ou morador e o endereço exato não terem sido previamente identificados não enseja nulidade, haja vista que o diploma processual penal exige apenas que o mandado o/a identifique o mais precisamente possível, e não exatamente, o que evidencia a dificuldade de acesso e localização do local indicado para se proceder à medida constritiva. No caso, houve indicação correta do endereço e do indício de que estaria o recorrente escondendo arma de outrem, malgrado não se soubesse precisar o nome.
+Cito precedente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DO MANDADO DE BUSCA E APREENSÃO. VIOLAÇÃO DOS PRINCÍPIOS DA COLEGIALIDADE E DO JUIZ NATURAL. INOCORRÊNCIA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE FUNDAMENTADA NA QUANTIDADE E NATUREZA DOS ENTORPECENTES. AFASTAMENTO DO TRÁFICO PRIVILEGIADO COM BASE NA REINCIDÊNCIA. FIXAÇÃO DO REGIME FECHADO DEVIDAMENTE FUNDAMENTADA.
+1. "Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental" (AgRg no HC n. 519.056/SP, Ministra Laurita Vaz, Sexta Turma, DJe 11/3/2021).
+2. Não há que se falar em nulidade do mandado de busca e apreensão e das provas dele decorrentes, tendo em vista que o endereço a ser diligenciado foi devidamente identificado com as informações possíveis até aquele momento, pois, consoante consignou o Tribunal estadual, as autoridades policiais vinham recebendo notícias de informantes a respeito da prática de crimes pelo acusado em região específica de Belo Horizonte, notadamente tráfico de drogas e homicídios. A dificuldade de identificação do imóvel pelo número ocorreu porque estava em reforma, mas a edificação foi delimitada com precisão através do auxílio de fotografias, o que afasta a alegação de que o mandado foi genérico.
+3. No que tange ao prazo de cumprimento do mandado, o Tribunal estadual, acertadamente, deixou claro que foi razoável, haja vista que a diligência exigiu preparação cuidadosa, já que o acusado era ex-policial militar, o que demandou a participação de vários investigadores. O mandado de busca e apreensão seguiu os ditames do art. 243 do Código de Processo Penal.
+ ..
+8. Agravo regimental improvido. (AgRg no HC n. 709.004/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 8/3/2022, DJe de 11/3/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, "b" do RISTJ, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
