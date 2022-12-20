@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por Gleidson Felício de Oliveira contra a decisão do Tribunal de Justiça de Rondônia, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 0000034-06.2021.8.22.0501, assim ementado (fl. 116):
+EMENTA
+Apelação criminal. Furto qualificado. Regime semiaberto. Pena inferior a quatro anos. Reincidência.
+Modificação para o aberto. Inviabilidade. Recurso não provido.
+1. O condenado reincidente (específico ou não) à pena inferior a quatro anos, deve iniciar o cumprimento da pena em regime prisional semiaberto.
+2. Recurso não provido.
+Nas razões do especial, apontou a Defensoria Pública violação do art. 33 do Código Penal, contestando, em suma, a fixação do regime semiaberto, aduzindo que a sentença, mantida pelo Tribunal, impôs regime mais severo do que o necessário para o seu inicial cumprimento (fl. 132). Requereu seja determinada a modificação do regime inicial de cumprimento de pena do recorrente para o regime aberto (fl. 137).
+Apresentadas contrarrazões (fls. 139/149), o recurso foi inadmitido na origem, por incidência da Súmula 83/STJ (fls. 150/151).
+Daí o presente agravo (fls. 157/161). Instado a se manifestar, o Ministério Público Federal opina pelo não provimento do agravo, nos seguintes termos (fl. 184):
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. NÃO CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA 83/STJ. AGRAVO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO CONHECIMENTO DO RECURSO.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões recursais.
+A irresignação não merece acolhida.
+Consta da sentença condenatória (fl. 86 - grifo nosso):
+ ..  Da dosimetria da pena. Culpabilidade normal para o tipo. Registra condenações criminais nos autos n.0020152-47.2014.8.22.0501 e 0005721-42.2013.8.22.0501. Não há nos autos informações quanto a conduta social, personalidade do réu, tampouco quanto aos motivos da prática do delito. As circunstâncias e consequências do crime não lhe são desfavoráveis e a vítima em nada contribuiu para sua ocorrência. Assim, nos termos do artigo 59 do Código Penal, considerando os antecedentes criminais do réu, fixo-lhe a pena base em 1 (um) ano e 2 (dois) meses de reclusão e 11 (onze) dias multa. Não há circunstâncias atenuantes a considerar. Presente a circunstância agravante da reincidência, pois o réu já foi condenado pelo crime de receptação nos autos nº O017717-03.2014.8.22.0501, cuja sentença transitou em julgado em 19.05.2015. Por essa razão agravo a pena em mais 2 (dois) meses de reclusão e 1 (um) dias multa, tornando-a em 1 (um) ano e 4 (quatro) meses de reclusão e 12 (doze) dias multa. Não há causas de diminuição de pena a considerar. Presente a causa de aumento prevista no § 1º, do artigo 155, do Código Penal, razão pela qual aumento a em 1/3 tornando-a definitiva em 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão e 16 (dezesseis) dias-multa. Fixo o valor do dia multa em 1/30 do salário mínimo vigente, ou seja, R$ 36,66, totalizando R$ 586,56, porém deixo de exigir o seu pagamento por entender insuficientes as condições financeiras do réu. Pelos mesmos fundamentos isento-o das custas processuais. A pena deverá ser cumprida em regime inicial semiaberto, conforme disposto no artigo 33, §3º, do Código Penal, em razão da reincidência. A reincidência impede a substituição da pena privativa de liberdade por restritiva de direitos.  ..
+O Tribunal de origem, por sua vez, asseverou não haver violação das Súmulas 718 e 719/STF, ao argumento de que, em que pese a pena definitiva não ser superior a 4 anos, não vislumbro transgressão às referidas súmulas na fixação do regime semiaberto, porquanto a fundamentação tem esteio legal no da pena e na reincidência (§2º, quantum "b" c/c "c" do art. 33, do CP) - fl. 69v., não havendo, destarte, transgressão aos referidos verbetes (fl. 114).
+Agiram com acerto as instâncias ordinárias.
+Mostra-se inviável,in casu, a pretensão de fixação do regime inicial aberto, em vista da valoração negativa de circunstância judicial (antecedentes - fl. 86) e da reincidência do agravante, consoante orientação do art. 33, §§ 2º e 3º, do Código Penal.
+Na mesma linha: AgRg no HC n. 772.412/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/10/2022; HC n. 615.801/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/8/2022; AgRg no HC n. 720.331/SC, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 20/5/2022; AgRg no AREsp n. 1.799.017/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/4/2021; e AgRg no REsp n. 1.894.347/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/12/2020.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. REPOUSO NOTURNO. REGIME SEMIABERTO. REINCIDÊNCIA.MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. SÚMULA 269/STJ.
+Agravo conhecido para desprover o recurso especial.
