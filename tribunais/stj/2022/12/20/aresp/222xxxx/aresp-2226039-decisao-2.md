@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por POLITORNO MÓVEIS LTDA, contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fls. 1.211/1.212):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. PRELIMINARES DE CERCEAMENTO DE DEFESA E JULGAMENTO EXTRA PETITA. DANOS MORAIS DECORRENTES DO EXERCÍCIO ABUSIVO DO DIREITO DE AÇÃO. DANOS MATERIAIS ORIUNDOS DA EFETIVAÇÃO DA TUTELA DE URGÊNCIA, POSTERIORMENTE REVOGADA EM SENTENÇA DESFAVORÁVEL. HONORÁRIOS ADVOCATÍCIOS READEQUADOS.
+1. Preliminar de cerceamento de defesa. Pedido de realização de nova prova pericial. Hipótese do art. 480 do CPC não configurada. Estudo que analisou com profundidade a matéria submetida à perícia, a qual possui acentuado grau de complexidade. Contraditório e ampla defesa preservados. Preliminar afastada.
+2. Preliminar de julgamento extra petita. Discussão acerca do direito aplicável. Decisão de primeiro grau que acertadamente balizou a análise na redação do pedido de responsabilização objetiva da parte ré pelos danos advindos da concessão das medidas cautelares. Aplicação dos brocardos da mihi factum dabo tibi jus e lura novit cutia.
+3. Danos morais. Pessoa jurídica. Conquanto seja possível que a pessoa jurídica venha a sofrer danos morais (Súmula 227 do ST), no caso concreto não restou demonstrada violação à honra objetiva da parte autora. Ausente, outrossim, a demonstração do abuso praticado pela ré quanto ao exercício do seu direito de ação. Danos morais não configurados.
+4. Danos materiais. Prejuízos oriundos da efetivação das medidas cautelares no âmbito das ações ajuizadas pela parte ré. Responsabilidade objetiva do requerente. Art. 302 do CPC (art. 811 do CPC/73). Danos demonstrados à suficiência pela parte autora, lastreado pelos cálculos realizados na perícia contábil. Dever de indenizar configurado.
+5. Sucumbência. Custas distribuídas de forma equânime entre as partes, à luz do art. 86, caput do CPC. Pleito de redução dos honorários advocatícios sucumbenciais que merece acolhimento, em atenção aos pressupostos elencados pelo art. 85, §2º do CPC, notadamente a natureza da ação e o valor da causa. partes Redução do de quantum devido pelas a título honorários advocatícios sucumbenciais. PRELIMINARES AFASTADAS. APELAÇÃO DA PARTE AUTORA DESPROVIDA. APELO DA PARTE RÉ PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.261/1.266).
+Nas razões do recurso especial (e-STJ fls. 1.304/1.314), interposto com base no art. 105, III, "a", da CF, arecorrente "requer redirecionamento -da sucumbência para, que os - honorários do Requerido sejam fixados sobre á parcela que decaiu a Recorrente ou mesmo, diante da parcela mínima, sejam afastados"(e-STJ fl. 1.310).
+Alegaainda que "houve  demonstração de prejuízo anímico suficiente para incidência dos danos morais, na medida" que o simples ajuizamento de ação não . gera dano moral., entretanto, no presente caso,houve excesso do Recorrido, pois foi proposta uma nova ação judicial com o mesmo objeto perante a mesma empresa, após o trânsito em julgado da primeira ação"(e-STJ fl. 1.311).
+Em suma, são estes os pedidos recursais (e-STJ fls. 1.312/1.313):
+Ante o exposto requer o recebimento do presente.Recurso de. Especial, face as razões de procedência apresentadas, em vistas da existência de dano moral presumido no caso, face a propositura de duas ações idênticas comliminares de suspensão industrial, a segunda proposta após o trânsito em julgado da primeira, assim como diante dá discrepância da sucumbência fixada, a qual propõe honorários para o Recorrido com base na condenação por aquele sofrido ao invés da parcela que a Recorrente decaiu requerendo reforma no ponto, considerando ainda o afastamento da condenação em honorários, uma vez que aRecorrente decaiu em pedido mínimo, tratando-se da medida da mais lídimaJustiça.
+Foram oferecidas contrarrazões (e-STJ fls. 1.340/1.358).
+No agravo (e-STJ fls. 1.394/1.398), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.400/1.407).
+É o relatório.
+Decido.
+A recorrente deixou de indicar nas razões recursais - de forma inequívoca e vinculada - os dispositivos de lei federal eventualmente violados pelo acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DECISÃO EXTRA PETITA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. ROMPIMENTO DE BARRAGEM. MORTE. REPARAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DANOS MORAIS. QUANTUM ARBITRADO. IMPOSSIBILIDADE DE ANÁLISE DA PRETENSÃO. SÚMULA N. 7 DO STJ. CONDENAÇÃO EM PENSIONAMENTO VITALÍCIO. EXCLUSÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inviável o agravo interno cujas razões estão dissociadas dos fundamentos da decisão impugnada (Súmula n. 284/STF).
+(..)
+5. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+6 . Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.719.237/GO, minha relatoria, Quarta Turma, julgado em 6/12/2022, DJe de 13/12/2022.)
+E ainda: AgInt nos EDcl no AREsp n. 2.117.115/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.
+Dessa forma, o recurso não pode ser conhecido, pois a recorrente não declina, nas razões, qual o dispositivo legal afrontado. Deficiência na fundamentação que enseja a aplicação da Súmula n.284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo de POLITORNO MÓVEIS LTDA. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
