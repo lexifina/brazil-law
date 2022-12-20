@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado nas alíneas a e c do permissivo constitucional, interposto por MARIA AUGUSTA DA SILVA, contra acórdão do Tribunal Regional Federal da 5ª Região, publicado na vigência do CPC/2015.
+A parte recorrente, inconformada como o reconhecimento da decadência do pedido de revisão do benefício originário, para repercutir na pensão por morte, de que é titular, sustenta, in vebis:
+"O artigo 103 da Lei nº 8.213/91 prescreve que "é de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo"
+No caso dos autos, por se tratar de postulação movida por pensionista, tendente à revisão do benefício originário, o prazo decadencial começa a fluir a partir da concessão da sua pensão por morte, e não do benefício de aposentadoria, pois até então a dependente não ostentava legitimidade para pleitear a revisão.
+Se o prazo decadencial não for analisado de forma individualizada Excelências, acontecerão casos, em que a decadência da pensão por morte ocorrerá antes da própria concessão. O benefício será concedido decadente. Ou seja, se contar o prazo decadencial da concessão do benefício originário, então a pensão nem poderia sequer ser concedida, uma vez que o segurado já estava recebendo o benefício há mais de 10 anos.
+O STJ já se manifestou no que a AgRg no RECURSO ESPECIAL Nº 1.462.100 - PR (2014/0149332-7) que a decadência deve ser analisada a partir da concessão do benefício de pensão por morte, conforme ementa abaixo:
+(..)
+Nesse norte, a TNU nos autos do PREDILEF n. 2008.50.51.001325-4, julgado em 27 de junho de 2012, decidiu que:
+(..)
+Sendo assim, não há que se falar em decadência do benefício de pensão por morte, uma vez que concedido há menos de 10 anos.
+Portanto, não decorreu o prazo decadencial de dez anos em relação ao direito da titular da pensão por morte no caso em tela.
+Assim sendo, requer-se o conhecimento e provimento do recurso, para afastar a decisão que declarou a decadência do pedido de revisão em tela" (fl. 165/167e).
+Por fim, "requer-se a admissão e processamento do presente recurso, a fim de que a Corte Superior se manifeste, pacificando a controvérsia acima apontada, para cassar o julgado recorrido, nos termos requeridos" (fl. 167e).
+Sem contrarrazões, o Recurso Especial foi admitido, na origem.
+O inconformismo não prospera.
+Destaco, inicialmente, que o Tribunal de origem reconheceu a decadência, adotando, como um dos fundamentos, o julgamento do RE 626.489/SE, pelo STF.
+Em que pese a fundamentação do acórdão, a parte recorrente não interpôs Recurso Extraordinário, na origem, circunstância que atrai o óbice da Súmula 126 do STJ, que assim dispõe:
+"É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Como não bastasse, a parte recorrente não indicou, direta e expressamente, o (s) dispositivo (s) de lei federal tido (s) por violado (s), ou que fundamenta a divergência jurisprudencial, o que atrai a incidência, por analogia, da Súmula 284 do STF, tampou observou o comando dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, segundo os quais a divergência exige comprovação - mediante a juntada de cópia dos acórdãos paradigma ou a citação do repositório oficial ou autorizado em que publicados - e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a simples transcrição de ementas, sem realizar o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretação.
+Registre-se, por fim, que o acórdão recorrido está conforme o entendimento do STJ, assentado no julgamento do no julgamento dos Embargos de Divergência no Recurso Especial 1.605.554/PR.
+Em face do exposto, com fundamento no art. 255, § 4ª, I, a, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
