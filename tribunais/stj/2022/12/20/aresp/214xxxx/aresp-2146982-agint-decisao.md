@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 733/750) interposto contra decisão doeminenteMinistroPresidente desta Corte que não conheceu do agravoemrecurso especial.
+Em  suas  razões,  a parte  agravante  sustenta  que  impugnou  todos os  fundamentos  da  decisão  de  inadmissibilidade  do  recurso  especial,  não  podendo  o  agravo  ser  rejeitado  com  base  na  Súmula  n.  182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fl. 753).
+É o relatório.
+Decido.
+O recorrenteatacoutodos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da ausência de violação do art. 1.022 do CPC/2015 e da incidência das Súmulas n. 7 e 83 do STJ(e-STJ fls. 673/675).
+O acórdão recorrido está assim ementado (e-STJ fl. 599):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. APREENSÃO TEMPORÁRIA DO VEICULO EM AÇÃO DE BUSCA E APREENSÃO AFORADA PELA INSTITUIÇÃO FINANCEIRA RÉ. INEXISTÊNCIA DE COMPROVAÇÃO DA MORA. EXTINÇÃO DAQUELE FEITO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. ILICITUDE DA CONDUTA DA REQUERIDA RECONHECIDA. AUSÊNCIA DE COMPROVAÇÃO, ENTRETANTO, DE FATO QUE TENHA REPERCUTIDO DE MANEIRA GRAVE E LESIVA À DIGNIDADE DO AUTOR. ABALO ANÍMICO NÃO PRESUMIDO NO CASO CONCRETO. EVENTUAIS PREJUÍZOS QUE NÃO DESBORDARAM DA ESFERA PATRIMONIAL. IMPROCEDÊNCIA MANTIDA POR FUNDAMENTO DIVERSO. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 628/630).
+No recurso especial (e-STJ fls. 638/653),fundamentado no art. 105, III, "a" e "c", da CF,a parte recorrente apontou ofensa aos arts. 1.022 do CPC/2015, 186, 187 e 927 do CC e 6º, 14 e 42 do CDC. Sustentou, em síntese, falta de prestação jurisdicional e configuração do dano moral, decorrente do ato ilícito.
+A insurgência não merece prosperar.
+Não há falar em afronta aoart.1.022, II, do CPC/2015, pois oagravante limitou-se a apontar violação doreferidoartigo, não especificando, de forma clara, como e em que medida o acórdão recorrido oteria afrontado. Portanto, incide, por analogia, a Súmula n. 284/STF.
+Sobre o dano moral,o Tribunal de origem assim se manifestou (e-STJ fl. 601):
+Do mesmo modo, é indiscutível que o erro da instituição financeira implicou na apreensão indevida do veículo do ora demandante, após o deferimento da medida liminar naqueles autos, sendo devolvido posteriormente o bem ao adquirente.
+Ocorre que, nada obstante, o autor não demonstrou a ocorrência de constrangimento extraordinário suportado em razão da situação descrita, não fazendo prova de que tenha experimentado efetivo sofrimento anímico capaz de ensejar a reparação pecuniária pretendida.
+Isso porque, a partir da leitura da inicial, extrai-se que o requerente fundamentou seu pedido indenizatório no suposto abalo anímico decorrente "de ter sua honra e boa-fama abalada frente a seus vizinhos e familiares no momento da indevida apreensão de seu automóvel", bem como dos transtornos diante da impossibilidade de se locomover para o trabalho, uma vez que laborava como carpinteiro e utilizava o carro para o transporte de suas ferramentas.
+Todavia, as alegações autorais vieram desacompanhadas de qualquer elemento de prova apto a sustentá-las, uma vez que, do exame do caderno processual, verifica-se que o autor apresentou junto a inicial apenas seus documentos pessoais e as peças processuais da ação de busca e apreensão (Evento 1), que são incapazes de comprovar a situação vexatória supostamente enfrentada perante seus vizinhos e familiares.
+Ademais, não houve oitiva de testemunhas para a atestar veracidade das suas alegações, e apesar de autor ter requerido na inicial a produção de prova testemunhal, não houve insurgência recursal quanto ao julgamento antecipado do feito.
+Assim, o requerente não comprovou a contento os fatos constitutivos de seu direito, não se desonerando de assentar o abalo alegadamente por si experimentado, na forma do artigo 373, inciso I, do Código de Processo Civil. Nesta esteira, convém ressaltar que ainda que litigue sob o proteção da legislação consumerista, é posição sumulada por esta Corte que "A inversão do ônus da prova não exime o consumidor de trazer aos autos indícios mínimos do direito alegado na inicial quando a prova lhe diga respeito" (Súmula 55 do Tribunal de Justiça de Santa Catarina).
+Por outro lado, no tocante a alegação referente à privação do exercício profissional em razão da apreensão temporária do veículo, tem-se que tal situação pode ter ocasionado lucros cessantes ao demandante, os quais, além de não terem sido objeto da inicial, exigiriam prova segura do efetivo exercício da atividade e do valor que deixou de auferir.
+Referia argumentação lançada pelo autor, ademais, apenas reforça a constatação de que eventuais danos suportados não desbordaram da seara patrimonial, os quais, como ressaltado, apesar de poderem ser exigidos em caso de efetiva demonstração (CC, art. 944), não integram a causa de pedir da presente ação.
+Dissentir dessa conclusãodemandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte (Súmula n. 7/STJ).
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÕES CONEXAS. BUSCA E APREENSÃO. PRESENÇA DE OFICIAL DE JUSTIÇA NA RESIDÊNCIA DO AUTOR. LIMINAR EM OUTRA AÇÃO QUE GARANTIA A POSSE DO BEM. DANOS MORAIS NÃO CONFIGURADOS. REVISÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, com base nos elementos fático-probatórios constituídos nos autos, entendeu pela inexistência de dano moral em decorrência da presença de oficial de justiça para cumprimento de ordem judicial de busca e apreensão proferida em ação conexa à revisional proposta pelo agravante, na qual lhe foi deferida, liminarmente, a posse do bem.
+2. Com efeito, a modificação da conclusão do que foi firmado nas instâncias ordinárias demandaria, no caso sob análise, minucioso exame das provas constantes nos autos, o que é defeso em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 445.538/PB, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/11/2015, DJe de 7/12/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA DE VEÍCULO. CONCLUSÃO NO SENTIDO DA INEXISTÊNCIA DE DANOS MORAIS E DE SALDO REMANESCENTE EM DESFAVOR DA INSURGENTE. INEXISTÊNCIA DE MÁ-FÉ COM A INSCRIÇÃO DO NOME DA AUTORA EM CADASTRO DE INADIMPLENTES. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Analisando o contexto fático-probatório dos autos, a segunda instância concluiu não haver a configuração de danos morais, bem como reconheceu a existência de saldo remanescente em desfavor da agravante. Firmou o acórdão que não se vislumbrou má-fé na inscrição do nome da autora em cadastro de inadimplentes, tendo em vista que esta tinha ciência de demanda em seu desfavor, em razão de citação na ação de busca e apreensão do veículo, e ocorrência de saldo remanescente oriundo de contrato com alienação fiduciária em garantia. Essas ponderações foram feitas com base em fatos, provas e termos contratuais, ensejando os óbices das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.980.076/PR, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/3/2022, DJe de 18/3/2022.)
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 728/730) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
