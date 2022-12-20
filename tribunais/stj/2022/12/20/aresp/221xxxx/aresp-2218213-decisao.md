@@ -1,0 +1,24 @@
+DECISÃO
+ANDRE SILVA DOS SANTOS agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 5006427-43.2017.8.21.0010.
+Depreende-se dos autos que o réu foi condenado a 2 anos de reclusão, em regime aberto, mais 12 dias-multa, pela prática do crime previsto no art. 155, caput, do CP.
+O Tribunal de origem negou provimento à apelação e rejeitou os embargos infringentes, ambos defensivos.
+Nas razões do especial, alegou a defesa a violação do art. 386, III, do CPP, ao argumento de que, apesar do valor ínfimo dos bens subtraídos,não foi reconhecida a bagatela, para cuja análise são irrelevantes os registros de vida pregressa do agente.
+Requereu fosse aplicado o princípio da insignificância.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu desprovimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+ ..  embora o valor da res - R$60,00, montante aproximado de 6% do salário mínimo então vigente, parâmetro sempre tomado em consideração para aferição do que seja pequeno valor  ..  -, por si só, talvez autorizasse a aplicação do princípio da insignificância ou bagatela, a certidão de registros criminais de ANDRE (evento 3, DOC2, fls. 29/45) indica que o delito descrito na denúncia não é fato isolado em sua vida, o que impede, na espécie, a aplicação do mencionado princípio. Frisa-se, aqui, que se está diante de um indivíduo multirreincidente, demonstrando que é habitual na prática de ilícitos, fazendo destes seu meio de vida, merecendo, assim, maior rigor estatal pela sua conduta.
+(fl. 222, destaquei)
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento doREsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitivae dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, odiálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registrosde vida pregressadevemser entendidos comoelementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal-que podeser incompatível com a exclusão da punibilidade- e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se comoprincípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o própriolegislador penal confere importância aos registros na folha de antecedentespara o cômputo da reprimenda, como ocorrena privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses paraagentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade deindividualizar a pena.
+Na espécie, o réu multirreincidenteespecíficofoi acusado de haver subtraído,em 22/6/2017,de estabelecimento comercial três sombrinhas, avaliadas em R$ 60,00, equivalentes a 6,4% do salário mínimo vigente na época dos fatos.
+Por oportuno, observo que o acusado ostenta condenações pela prática de roubo (cometido em 2016 e transitado em julgado em 2018, fl. 119) etrêsfurtos anteriores ao fato destes autos (condenações com trânsito emjulgado em 2016, fl. 121,em 2017, fl. 120, em 2019, fl. 123), todas aptas para configurar reincidência, haja vista que a sentença foi proferida neste processo em 2020.
+Em que pese o valor relativamente reduzido dos bens furtados, a multirreincidência específica do agente (fls. 101-124)justificaoprosseguimento da atividade punitiva estatal.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
