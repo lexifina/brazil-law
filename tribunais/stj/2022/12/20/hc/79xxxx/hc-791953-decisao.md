@@ -1,0 +1,12 @@
+DECISÃO
+MAURICIO ESTEVES DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.22.259753-6/000, em que foi mantida a decisão em que "a autoridade coatora revogou também o regime aberto, com os mesmos fundamentos utilizados para suspender o livramento condicional, configurando o bis in idem" (fl. 40).
+Asseriu a defesa, perante a Corte de origem, que "a r. decisão afronta o princípio do devido processo legal, em flagrante arbitrariedade e ilegalidade em desfavor do paciente" (fl. 41), razão pela qual requer o restabelecimento do regime aberto.
+Decido.
+O livramento condicional, benefício previsto nos arts. 131 a 146 da Lei de Execução Penal é a última fase do cumprimento da pena, inserido na sistemática da execução penal. Todavia, possui regras distintas da execução penal dentro do sistema progressivo de penas.
+De fato, a prática de novo delito durante o período de prova do livramento condicional não acarreta os mesmos efeitos da prática da falta grave cometida por apenado inserido no sistema progressivo de cumprimento da pena. Nesse sentido:
+ ..
+2. "A prática de fato definido como crime durante o livramento condicional tem consequências próprias previstas no Código Penal e na Lei de Execuções Penais, as quais não se confundem com os consectários legais da falta grave praticada por aquele que está inserto no sistema progressivo de cumprimento de pena" (REsp. 1.101.461/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 19/02/2013).
+3. Agravo regimental desprovido (AgRg no REsp n. 1.794.850/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/8/2019).
+Aliás, ao revistar seu entendimento sobre a questão e adotar o posicionamento acima alinhavado, a Sexta Turma desta Corte Superior salientou que "deve ser restabelecida a linha divisória entre o cumprimento progressivo da pena e o livramento condicional, devendo a indisciplina acarretar, conforme o caso, os consectários legais previstos especificamente, e não como vem sendo feito, aplicando-se àquele que se encontra em livramento todas as consequências negativas do descumprimento da disciplina na execução penal" (REsp n. 1.101.461/RS, Rel. Ministra Maria Theresa de Assis Moura, 6ª T., DJe 19/2/2013).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem para cassar a decisão que suspendeu cautelarmente o regime aberto.
+Publique-se e intimem-se.
