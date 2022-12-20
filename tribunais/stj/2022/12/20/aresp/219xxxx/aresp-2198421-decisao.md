@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se, na origem, de embargos à execução opostos por ANDRÉ DIONÍSIO DOS SANTOS e OUTROS em desfavor de BANCO DO BRASIL S.A., os quais foram julgados improcedentes pela magistrada singular.
+Interposta apelação pelos orainsurgentes, a Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná negou-lhe provimento, mantendo íntegra a sentença anteriormente proferida, nos termos da seguinte ementa (e-STJ, fls. 1.063-1.064):
+APELAÇÃO CÍVEL (EMBARGANTES). EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO.
+I - SENTENÇA QUE INDEFERIU OS BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA À PARTE EMBARGANTE. ESTADO DE NECESSIDADE ECONÔMICO NÃO COMPROVADO. SENTENÇA MANTIDA.
+II - JUROS REMUNERATÓRIOS. CÉDULA DE CRÉDITO BANCÁRIO. INAPLICABILIDADE DAS REGRAS QUE REGEM O FINANCIAMENTO RURAL. LIMITAÇÃO A 12% AO ANO. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+III - CAPITALIZAÇÃO DE JUROS. CONTRATO COM PAGAMENTO EM PARCELAS FIXAS. RESPEITO AO PRINCÍPIO DA BOA-FÉ E PROBIDADE. PACTUAÇÃO EXPRESSA. COBRANÇA DEVIDA. PRECEDENTES DO STJ. SENTENÇA MANTIDA.
+IV - JUROS MORATÓRIOS. PACTUAÇÃO. AUSÊNCIA DE INCIDÊNCIA. LIMITAÇÃO INDEVIDA. SENTENÇA MANTIDA.
+V - COMISSÃO DE PERMANÊNCIA. PREVISÃO CONTRATUAL. COBRANÇA ISOLADA. PERMITIDA. SÚMULA 294 DO STJ. SENTENÇA MANTIDA.
+VI - MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. ART. 85, §11, DO CPC.
+I -Não tendo sido demonstrado o estado de necessidade da parte embargante, não há que se falar em concessão dos benefícios da assistência judiciária gratuita. II - Ausentes os requisitos para caracterizar a cédula de crédito rural, não há como se efetuar a equiparação da cédula bancária para que sejam aplicadas as normas que regem o financiamento rural, sendo indevida a limitação dos juros remuneratórios a 12% ao ano.
+III - Tratando-se de parcelas fixas, é irrelevante a discussão sobre a ocorrência ou não da capitalização mensal dos juros, pois, independentemente das taxas incidentes, o valor e a quantidade das prestações foram esclarecidos à parte embargante, pouco importando na prática a nomenclatura dos encargos e, ainda que assim não fosse, admite-se a capitalização de juros na cédula de crédito bancário desde que expressamente pactuada (art. 28, § 1º, inc. I, da Lei10.931/2004), como na presente hipótese.
+IV -Comprovada a ausência de incidência dos juros moratórios, conforme laudo pericial elaborado na origem, é indevida sua limitação.
+V - Admite-se a cobrança de comissão de permanência, de forma isolada e desde que haja a previsão contratual, a teor da Súmula 294 do STJ.
+VI - Diante do não provimento do recurso, impõe-se a majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC.
+APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA.
+Contra o acórdão que negou provimento à apelação cível, ANDRÉ DIONÍSIO DOS SANTOS e OUTROS, com fulcro no art. 105, III, c, da Constituição Federal, interpuseram recurso especial, apontando violação aos arts. 98 e 99 do CPC/2015; e art. 51, IV, do Código de Defesa do Consumidor.
+Em síntese, alegaram os recorrentes (a) ausência de intimação para que fossem juntados outros documentos que comprovassem o preenchimento dos requisitos autorizadores à concessão do benefício da gratuidade de justiça; (b) inexistência de cláusula expressa permissiva de capitalização de juros compostos; e (c) impossibilidade da cobrança de comissão de permanência.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 5 e 7 deste Superior Tribunal (e-STJ, fls. 1.218-1.222), o que ensejou a interposição do presente agravo (e-STJ, fls. 1.225-1.241).
+Brevemente relatado, decido.
+Não há como conhecer da irresignação dos recorrentes.
+Para conhecimento e processamento do recurso especial, interposto com fundamento na alínea c do permissivo constitucional,a parte recorrente deve proceder ao cotejo analítico e à demonstração de similitude fática entre os arestos paradigma e impugnado, a fim de comprovar o dissídio jurisprudencial suscitado, sob pena de não conhecimento do reclamo.
+Ilustrativamente (sem grifos no original):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Não se conhece do recurso especial fundado na alínea "c" do art. 105, III, da CF, quando a parte deixa de realizar o cotejo analítico, não atendendo aos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+2. É entendimento pacífico desta Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.694.206/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. ART. 1.010 DO CPC/2015. APELAÇÃO. REPETIÇÃO. FUNDAMENTOS DA CONTESTAÇÃO. PRINCÍPIO DA DIALETICIDADE. IRRESIGNAÇÃO. COMPREENSÃO. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. EXTINÇÃO DA AÇÃO. COISA JULGADA. VIOLAÇÃO. AUSÊNCIA. CONTAS. NÃO QUITAÇÃO . INTERESSE DE AGIR . CARACTERIZAÇÃO. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL . COMPROVAÇÃO. AUSÊNCIA.
+ ..
+7. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.810.421/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PRESTAÇÃO DE SERVIÇOS. DEFEITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DANOS MORAIS. RAZOABILIDADE E PROPORCIONALIDADE. OBSERVÂNCIA. REDUÇÃO DA INDENIZAÇÃO. SÚMULA N. 7 DO STJ. DISPOSITIVOS LEGAIS. OFENSA. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. 1.1. A alteração da conclusão do acórdão recorrido quanto ao defeito na prestação do serviço demandaria reexame da prova dos autos. 1.2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+2. Ademais, tal recurso é de fundamentação vinculada. Para seu conhecimento, é imprescindível que o recorrente desenvolva argumentação própria e associada à impugnação direta das razões de decidir do acórdão recorrido. Em respeito à dialética recursal, a parte deve demonstrar como foi contrariada a lei federal à qual foi atribuída interpretação divergente, bem como comprovar o dissídio mediante cotejo analítico entre o aresto impugnado e os paradigmas - o que não ocorreu. Não serve para tal propósito a citação inespecífica de normas, a mera transcrição de julgados ou a simples referência a razões apresentadas em recursos antecedentes.
+Aplicação, por analogia, da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.151.353/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+Na hipótese dos autos, não obstante a renitente alegação de que acórdão objurgado conferira interpretação divergente aos dispositivos invocados da que haja atribuído outro tribunal, os recorrentes não se desincumbiram do ônus de realizar o cotejo analítico, limitando-se à reprodução do julgado paradigma. Tal fato atrai, por analogia, a incidência da Súmula n. 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% do valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. GRATUIDADE DE JUSTIÇA. JUROS COMPOSTOS. COMISSÃO DE PERMANÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SUMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
