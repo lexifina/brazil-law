@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício de GEOVANE CARDOSO DOS SANTOS, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁno julgamento da Apelação Criminal n. 0014941-41.2016.8.16.0173.
+Extrai-se dos autos que o paciente foi condenado pela prática do delito descrito no art. 14 da Lei n. 10.826/2003, conforme sentença de fls.215/225, àpenade2 anos de reclusão mais10 dias-multa, a ser cumprida em regime inicial aberto, substituída por duas penas restritivas de direitos.
+Irresignada, a defesa interpôsrecursode apelação perante o Tribunal de origem, ao qual foi negado provimento nos termos do acórdão que restou assim ementado:
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE MUNIÇÕES. ARTIGO 14, CAPUT, DA LEI 10.826/2003. CONDENAÇÃO. INSURGÊNCIA RECURSAL DA DEFESA. PLEITO ABSOLUTÓRIO. ALEGAÇÃO DE ATIPICIDADE MATERIAL DA CONDUTA, DADO A FALTA DE POTENCIAL LESIVIDADE À INCOLUMIDADE PÚBLICA. IMPOSSIBILIDADE. O ESTATUTO DO DESARMAMENTO TRATA DE CRIMES DE MERA CONDUTA E PERIGO ABSTRATO, BASTANDO QUE O AGENTE PRATIQUE A CONDUTA, PRESCINDINDO DE RESULTADO NATURALÍSTICO. O SIMPLES FATO DO APELANTE PORTAR AS MUNIÇÕES JÁ FERE O BEM-JURÍDICO, DE MODO A NÃO CARACTERIZAR UMA CONDUTA ATÍPICA. ALEGAÇÃO DE APLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. DEFERIMENTO DE HONORÁRIOS ADVOCATÍCIOS AO DEFENSOR DATIVO. RECURSO NÃO PROVIDO." (fl. 286).
+No presentewrit, o impetrante alega, em síntese, a atipicidade material do crime de porte de munição de calibre permitido, com fundamento no princípio da insignificância.
+Requer, liminarmente, a expedição de alvará de soltura em favor do paciente e, no mérito, a sua absolvição com fundamento na atipicidade material da conduta.
+Medida liminar indeferida conforme decisão de fls. 431/432.
+Parecer ministerial de fls. 437 pela concessão da ordem.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+O acórdão impugnado assim tratou sobre o tema (fls. 288/293):
+" ..
+Em um primeiro momento cumpre salientar que a materialidade e autoria delitiva são incontestes, estando ampla e seguramente comprovadas pelo acervo probatório carreado aos autos, não sendo, inclusive, objeto de discussão da tese defensiva.
+Quanto ao pleito absolutório baseado na atipicidade material da conduta, pela ausência delesividade ao bem jurídico e pela possibilidade de aplicação do princípio da insignificância, temos que razão não assiste ao apelante.
+ ..
+Da leitura do dispositivo colacionado acima, verifica-se que se trata de um tipo mistoalternativo, de modo que a realização de mais de uma conduta resulta em um crime único,sendo que as ações tipificadas estão separadas pela palavra "ou".
+Sobre isso, leciona Victor Eduardo Rios Gonçalves:
+Trata-se, porém, de crime de ação múltipla  também chamado decrime de conteúdo variado ou de tipo misto alternativo  em que arealização de mais de uma conduta típica, em relação ao mesmoobjeto material, constitui crime único, na medida em que as diversasações descritas na lei estão separadas pela conjunção alternativa"ou". Assim, se o agente adquire e, em seguida, porta a mesma armade fogo, comete apenas um crime. 1
+Desse modo, a conduta de portar acessório munição é, portanto, punida com a mesmaoupena daquela de portar arma de fogo.
+ ..
+Frise-se que o simples fato de o trazer consigo acessório ou munição, consuma o delito, sendoprescindível a ocorrência de um resultado naturalístico, bem como uma efetiva lesão aobem-jurídico. Inclusive, é desnecessário que se tenha apreendido arma de fogo, vez que setrata de crime de mera conduta e perigo abstrato, caracterizando-se com a simples prática deum dos núcleos de ação descritas no tipo penal.
+Em vista disso, tem-se que o crime imputado ao apelante se consuma apenas com o porte daarma, acessório e/ou munição, na medida em que tal atitude - portar munição -, por si só, ésuficiente para afetar a incolumidade pública que é o bem-jurídico tutelado por este dispositivo.
+Destarte, o fato de trazer consigo munições, ainda que tenham sido encontradas abandonadase coletadas pelo apelante, por si só, já coloca em risco a coletividade, sem necessidade dequalquer alteração no mundo exterior para haver dano, caracterizando-se, assim, o delitoprevisto pelo artigo 14, caput, da Lei 10.826/03.
+Dessa maneira, portanto, vislumbra-se irrelevante as circunstâncias em que o apelanteencontrou as munições, bem como o fato de que estas estavam desacompanhadas de arma defogo, isto porque o descrito no artigo 14 da Lei 10.826/03, tipifica o porte de arma de fogo, acessório e/ou munições.
+No mesmo contexto, não é sustentável a tese acerca da aplicabilidade do princípio dain casuinsignificância, vez que é desimportante para a configuração do delito a quantidade de projéteisapreendidos, por se tratar de crime de mera conduta e perigo abstrato.
+No caso concreto, não se pode ter como insignificante a conduta praticada pelo apelante, como qual foram apreendidas sete munições intactas, calibre 32, marca CBC (mov. 1.5), vez que ocrime se consumou apenas com o fato de Geovane ter trazido consigo os artefatos bélicos,sem a devida autorização, na medida em que tal atitude, ainda que isolada, é suficiente paraafetar a incolumidade pública.
+ ..
+Forçoso convir que o pleito formulado pela defesa é insustentável, mormente pelo fato de que odelito por ele praticado é de mera conduta e perigo abstrato, sendo incabível a utilização doprincípio da insignificância, bem como a absolvição pela atipicidade material. Por essas razões,rejeito o pedido da defesa."
+Como se observa, a instância ordinária atestou a tipicidade da conduta destacando sua característica de crime de perigo abstrato, e por tal razão prescindível a demonstração de perigo de dano, considerando que o bem jurídico é a incolumidade pública.
+A par da quantidade de munições apreendidas na espécie - sete munições intactas, calibre 32, marca CBC -, e diante da ausência de circunstâncias adicionais (amunição não foi apreendida no contexto da prática de outro crimee cuida-se de agente primário, sem anotações criminais), não serevela gravidade que justifica a condenação penal. No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ART. 14, CAPUT, DA LEI N. 10.826/2003. CRIME DE PERIGO ABSTRATO. 6 MUNIÇÕES CALIBRE .28 E 10 ESPOLETAS DESACOMPANHADAS DE ARMA DE FOGO. AUSÊNCIA DE OUTRAS CIRCUNSTÂNCIAS ADICIONAIS. INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL DA CONDUTA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. "Embora o crime de porte de armamentos e munições trate-se de delito de mera conduta e de perigo abstrato, nos casos de apreensão de pequena quantidade de munição desacompanhada do armamento capaz de deflagrá-la, é devido o reconhecimento da atipicidade material da conduta, em razão da ausência de lesão ou probabilidade de dano ao bem jurídico tutelado pela norma penal" (HC 610.323/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Restou caracterizado o constrangimento ilegal passível da concessão da ordem de ofício, diante da pequena quantidade de munições apreendidas - 6 munições e 10 espoletas para espingarda calibre .28 - bem como constatada a ausência de circunstâncias adicionais que justificasse a condenação penal, não sendo suficiente para tal finalidade a simples menção sobre a gravidade abstrata do delito.
+3. Agravo desprovido.
+(AgRg no HC n. 708.004/RS, da minha relatoria, Quinta Turma, DJe de 16/9/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. ATIPICIDADE MATERIAL DA CONDUTA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA QUANTIDADE DE MUNIÇÕES APREENDIDAS. JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+2. Por se tratar de crime de perigo abstrato ou de mera conduta, o porte ilegal de munições, ainda que desacompanhadas de arma de fogo, é conduta materialmente típica, conforme a jurisprudência do Superior Tribunal de Justiça.
+3. É possível reconhecer a atipicidade material da conduta dos crimes descritos na Lei n. 10.826/2003 em situação específica de ínfima quantidade de munição (12 munições de calibre .38), aliada à ausência do artefato capaz de disparar os projéteis. Aplicação do princípio da insignificância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 717.770/RS, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 10/6/2022.)
+Ante o exposto, não conheço dohabeas corpus, mas concedo a ordem de ofício para declarar a atipicidade material da conduta e absolver o paciente GEOVANE CARDOSO DOS SANTOS nos autos da ação penal n. 0014941-41.2016.8.16.0173.
+Publique-se.
+Intimem-se.
