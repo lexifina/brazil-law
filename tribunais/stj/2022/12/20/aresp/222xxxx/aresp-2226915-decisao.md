@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelaENERGISA RONDONIA - DISTRIBUIDORA DE ENERGIA S.A. contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, quenão admitiu recurso especial fundado na alínea "a"do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl.495):
+Apelação. Indenização. Propriedade particular. Rompimento de cabo de energia elétrica.
+Incêndio. Responsabilidade civil. Comprovação. Danos materiais e morais devidos. Manutenção da sentença.
+Comprovado que incêndio em propriedade rural decorreu de rompimento de cabo de energia elétrica, configurada a responsabilidade civil da concessionária pelos danos materiais e morais daí decorrentes e comprovados nos autos.
+Embargos de declaração rejeitados (e-STJ fls. 522/525).
+No recurso especial obstaculizado, a parte recorrente apontouviolaçãodos arts. 489, § 1º, IV e 1.022do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, dos arts. 141, 373, I e II, e 492do CPC/2015, argumentando que o recorrido não logrou comprovar que oincêndio decorreu de falha na distribuição de energia.
+Afirma também que o Tribunal proferiu julgamento além dos limites do pedidoao impor condenação em montante superior ao requerido na inicial(e-STJ fls. 533/544).
+Sem contrarrazões (e-STJ fl.550).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Com relação à apontada violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973), constato que a parte deixou de especificar qual(is) teria(m) sido o(s) inciso(s) contrariado(s), fato que, por caracterizar deficiência de fundamentação do recurso especial, acaba por atrair a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL QUANTO A QUESTÃO QUE, A DESPEITO DA OPOSIÇÃO DE ACLARATÓRIOS, NÃO FOI APRECIADA PELO TRIBUNAL A QUO. SÚMULA 211/STJ. AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF (AgInt no AREsp 1.530.183/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 19.12.2019; AgInt no AREsp 1.559.920/SE, Rel. Min. FRANCISCO FALCÃO, DJe 22.10.2020).
+2. Na espécie, incide ao caso o óbice da Súmula 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+ ..
+5. Agravo Interno do Ente Federativo desprovido. (STJ, AgInt no AREsp 1.766.826/RS, rel. Min. MANOEL ERHARDT (DESEMBARGADOR FEDERAL CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe de 30/4/2021).
+PROCESSO CIVIL. ADMINISTRATIVO. FALHA DO SERVIÇO. ALEGADA ATUAÇÃO NEGLIGENTE DE DEFENSOR PÚBLICO ESTADUAL NO PATROCÍNIO DA CAUSA. DANO MORAL NÃO RECONHECIDO. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO STF. PRETENSÃO DE RECONHECIMENTO DE DANO MORAL INDENIZÁVEL. CONTROVÉRSIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+III - Quanto à alegação de negativa de prestação jurisdicional, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material. Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF" (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+ ..
+V - Agravo interno improvido" (STJ, AgInt no AREsp 2.017.243/CE, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 2/6/2022).
+No mérito, o Tribunal a quo atestou, inclusive no aresto integrativo, a responsabilidade da agravante pelo incêndio provocado em decorrência do rompimento de um cabo de energia, nos seguintes termos (e-STJ fl.523):
+Na espécie verifico que o acórdão alvejado contém motivação clara e suficiente, no caso dos autos, restou demonstrado nos autos que a causa do incêndio foi em decorrência de um rompimento de cabo de energia elétrica, confirmado inclusive nos autos n. 0026154-49.2012.8.22.0001, de propriedade vizinha da apelada, bem como a oitiva da testemunha Alex da Silva Pinto e provas documentais acostadas nos autos.
+Desse modo, em decorrência do rompimento de um cabo de energia de responsabilidade da requerida, que presta serviço de distribuição e transmissão de energia elétrica, serviço de natureza pública, sujeitando-se às regras do §6 do art. 37 da Constituição Federal, ou seja, a responsabilidade é objetiva, independe de prova de culpa.
+Para se eximir da responsabilidade, a requerida teria que comprovar que o dano ocorreu por caso fortuito, força maior ou que inexiste nexo de causalidade, no entanto manteve-se inerte.
+Observa-se ainda que foi realizada perícia judicial, mantendo-se a sentença que considerou que os valores apresentados pelo perito condiziam com a realidade e serviam para estabelecer um parâmetro para indenizar a autora pelos danos materiais sofridos.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+No mais, observa-se que o Tribunal de origem não emitiu juízo de valor sobre os arts.141e 492 do CPC/2015,tidos por violados, tampouco o seu teor foi invocado nos embargos de declaração opostos; em razão disso,no ponto, carecer o recurso do indispensávelprequestionamento, incidindo, assim, as Súmulas 282 e 356 do STF.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
