@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFFERSON FABIANO LUCAS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, prolatado no julgamento do HC n. 2081352-77.2022.8.26.0000.
+Consta  que "o paciente foi denunciado pela prática dos crimes tipificados no artigo 2º, caput, e § 2.º e § 3.º, da Lei 12.850/13; artigo 158, § 1.º (por onze vezes), do Código Penal e artigo 1º, capute § 4º (por quatro vezes), da Lei 9.613/98" (fl. 33).A denúncia foi recebida em 04/06/2018 (fls. 140-143).
+A Defesa, pugnando a revogação da prisão preventiva do Paciente e Corréus,impetrouhabeas corpusno Supremo Tribunal Federal.O Ministro relator, em 15/05/2019, deferiu a liminar, determinando a expedição de alvará de soltura em benefício do ora Paciente e Corréus.
+Em 03/09/2019, no entanto, o Colegiado do STF, por maioria, "não conheceu da impetração e revogou a medida liminar anteriormente deferida" (fl. 33), o que fez com que o Juízo de primeiro grau determinasse a expedição de mandados de prisão em desfavor do Paciente e Corréus.
+Irresignada, a Defesa impetrou novohabeas corpusno STF, tendo o Ministro relator, novamente, deferido a liminar em 22/10/2019 (fl. 33).
+Em virtude disso, o Magistrado singular determinou a expedição de contramandado de prisão em favor do Paciente (fl. 33).
+A decisão liminar foi revogada mais uma vez pelo STFque, ao julgar o mérito dohabeas corpus, não conheceu da impetração(fl. 34).
+Em 21/02/2020, a Autoridade judiciária "determinou a expedição de novo mandado de prisão em desfavor do paciente" (fl. 34).
+Descontente, a Defesa formulou pedido de revogação da custódia cautelarque, em 09/03/2020, foi indeferido pelo Magistrado competente às fls. 149-154.
+Inconformada, a Defesa impetrou habeas corpus na Corte estadual, que denegou a ordem às fls. 30-42.
+Neste writ, a Parte Impetrante sustenta, em suma, que: (i) "o juízo de origem ao decretar novamente a prisão preventiva, após a revogação da liminar pela Turma do STF, depois de quase um ano, não motivou adequadamente a decisão, ou seja, não trouxe ou apontou qualquer fato concreto e contemporâneo" (fl. 06); (ii) "ao decidir sobre a questão, a 13º Câmara de Direito Criminal do Tribunal de Justiça de São Paulo inovou e corrigiu a decisão de origem, agregando novos fundamentos quando tratou sobre a questão da contemporaneidade" (fl. 06); e (iii) deve ser aplicado o mesmo raciocínio jurídico utilizado no HC 493.738/SP, da relatoria do Ministro NEFI CORDEIRO.
+Requer, em medida liminar e no mérito, a revogação da prisão preventiva.
+A Defesa protocolou a petição n. 1.131.766/2022, àfl. 157, na qual relata que o Ministro NEFI CORDEIRO seria prevento para apreciar o presentewrit, pois teria julgado processos conexos (HC 618.746/SP e 457.505/SP) e que, em virtude de sua ausência, os presentes autos deveriam ser distribuídos à apreciação do Desembargador Convocado do TRF 1.ª REGIÃO,OLINDO MENEZES, tendo em vista que este substituía aquele.
+É o relatório.
+Decido.
+Inicialmente, quanto à preliminar de prevenção do Desembargador Convocado do TRF 1.ª REGIÃO, OLINDO MENEZES, para julgar este feito, ressalto que a norma do art. 71, § 1.º, do Regimento Interno do Superior Tribunal de Justiça foi observada por ocasião da distribuição destes autos a esta Relatoria.
+No mais, no caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, a Parte Impetrante não acostou aos autos cópia de peça processual que comprove a ocorrência do alegado constrangimento ilegal que estaria sofrendo, o que inviabiliza a análise do pleito deduzido, pois prejudica a devida compreensão da controvérsia.
+Explico. O acórdão impugnado indica que,após a expedição do decreto prisional ora questionado (fls. 149-154),houve uma série de decisões judiciais mantenedoras da prisão preventiva do Paciente, cujas cópias sequer foramjuntadas aowritpara análise, como se pode apurar (fls. 34-42; sem grifos no original):
+" .. Infere-se que a autoridade judiciaria procedeu à análise da necessidade da manutenção da prisão cautelar do paciente (fls. 13.538 dos autos originais).
+Após a apresentação das alegações finais, a autoridade judiciaria proferiu sentença e condenou o paciente a cumprir pena privativa de liberdade de 97 (noventa e sete) anos e 10 (dez) meses, em regime inicial fechado (fls. 13.563 dos autos originais).
+Os réus interpuseram recurso de apelação.
+Os autos subiram ao E. Tribunal de Justiça (fls. 14.811 dos autos originais).
+No dia 06 de abril de 2021, contudo, o Colendo Supremo Tribunal Federal, no julgamento do HC nº 187.035, por maioria, deferiu a ordem para reconhecer a nulidade do processo-crime a partir da audiência de instrução, determinando a renovação do ato (fls.16.568 dos autos originais).
+Os autos foram devolvidos ao juízo a quo (fls. 16.587 dos autos originais).
+Na oportunidade, renovou-se o exame quanto à necessidade de manutenção da custódia cautelar dos réus, observando-se determinação no sentido de providências para renovação da prova oral (fls. 16.599 dos autos originais).
+ ..
+No entanto, no último dia 11 de fevereiro, quando da análise do agravo regimental apresentado pela defesa, a Ministra-Relatora reconsiderou a decisão agravada e concedeu a ordem de habeas corpus, apenas para suspender a ação penal nº 0017583-79.201.8.26.0602, em trâmite perante a 2ª Vara Criminal da Comarca de Sorocaba, até o julgamento do HC nº 2009142-28.2022.8.26.0000 pelo Tribunal de Justiça (fls. 19.087 dos autos originais).
+A necessidade de manutenção da prisão cautelar foi aferida (fls. 19.286 dos autos originais).
+ ..
+As razões de decidir foram reiteradas em diversas ocasiões, sendo a mais recente no último dia 02 de abril, quando do reexame da necessidade da prisão cautelar do paciente e corréus (fls. 13.538, 16/599 e 19/286)."
+Nesse cenário,não tendo sido juntadas cópias das decisões judiciais mais recentes que mantiveram a prisão preventiva ora questionada, resta inviabilizada a apreciação dowrit.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva".
+Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos. No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
