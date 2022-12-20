@@ -1,0 +1,41 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Fernando Ramires Sanches - condenado como incurso no crime de tráfico de drogas à pena de 5 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa (Apelação Criminal n.0030888-07.2021.8.12.0001, do Tribunal de Justiça de Mato Grosso do Sul) - alega-se constrangimento ilegal na vedação do redutor especial da pena (art. 33,§ 4º, da Lei n. 11.343/2006) e requer-se, em liminar e no mérito, a redução da pena e o abrandamento do regime inicial de cumprimento.
+É o relatório.
+O writ é inadmissível.
+Ao vedar o redutor especial da pena(art. 33, § 4º, da Lei n. 11.343/2006), a Corte de origem firmou a existência de prova judicializada, inclusive testemunhal, no sentido de que o paciente se dedicava ao tráfico de forma contínua e habitual (fls. 381/382 - grifo nosso):
+ ..
+II Do privilégio prevista no artigo 33, § 4º, da Lei n. 11.343/06.
+Sucessivamente, a defesa almeja o reconhecimento da redutora concernente ao tráfico privilegiado, por entender que estão preenchidos os requisitos legais.
+A pretensão não comporta acolhimento.
+Como cediço, para a consideração da referida causa de diminuição de pena é indispensável o preenchimento de quatro requisitos cumulativos, elencados no § 4º, do artigo 33, da Lei de Drogas, a saber: a) ser o agente primário; b) portador de bons antecedentes; c) não se dedicar às atividades criminosas; e d) não integrar organização criminosa.
+Vejamos o teor do referido artigo de lei, verbis:
+ ..
+Sob essas balizas, revela-se incabível o reconhecimento da redutora do tráfico privilegiado, uma vez que emerge cristalino dos autos que o recorrente se dedica à atividade criminosa relativa ao tráfico de drogas.
+Consoante restou apurado no curso da persecução penal, mormente pela farta prova testemunhal, o réu vinha desenvolvendo o comércio ilícito de drogas em local popularmente conhecido como "boca de fumo".
+Por ocasião do flagrante, apreendeu-se 109g (trinta e três gramas e três decigramas) de cocaína, a qual o apelante confirmou que seria destinada à traficância, além de R$81,00 (oitenta e um reais) e dois aparelhos celulares.
+Ressalta-se que a dedicação do acusado ao tráfico restou, da mesma forma, demonstrada pela prova oral colhida no curso da persecução penal, uma vez que usuários de drogas, após terem sido flagrados por suposta prática de furto, indicaram a boca de fumo pertencente ao apelante.
+Ademais, as testemunhas Simone, Evelyn e Laura, as quais estavam na residência do apelante no momento do flagrante, confirmaram, sob o crivo judicial, que Fernando realizava o tráfico de drogas no local e que vendia cocaína.
+Ressalta-se que o próprio réu confessou, na fase policial, realizava o tráfico na residência, cujo local havia alugado apenas para vender drogas. Inclusive, confirmou "que a droga apreendida era para vender, afirmando que usa o local para receber os usuários, onde também permite que eles usem a droga que vende no local;QUE, o interrogando afirma que vende cada paradinha por R$ 10,00 (dez reais); (..) QUE, sobre os objetos encontrados na boca de fumo, um relógio, correntes e três celulares, o interrogando afirma que tudo pertence a sua pessoa, e que apenas o celular marca Samsung de capa rosa não pertence a sua pessoa, mas que conhece a proprietária, que é usuária de droga, que possivelmente esqueceu na boca de fumo quando esteve no local".
+Com efeito, os elementos de convicção evidenciam que a incidência do apelante no crime de tráfico não foi eventual ou esporádica, restando comprovado, ao contrário, que se dedicava, de forma contínua e habitual, ao comércio ilícito de drogas.
+ ..
+Assim, o acolhimento da pretensão defensiva demandaria o reexame das provas que fundaram a convicção do julgador ordinário, providência essa inviável em sede de cognição sumária.
+Nesse sentido, confiram-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PEDIDO DE ABSOLVIÇÃO. EXISTÊNCIA DE PROVA PRODUZIDA SOB O CRIVO DO CONTRADITÓRIO JUDICIAL. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO E NOVA PONDERAÇÃO DOS ELEMENTOS DE PROVA. PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO. ART. 33, § 4.º, DA LEI N. 11.343/2006. PROVA DA DEDICAÇÃO DO AGENTE À ATIVIDADE CRIMINOSA. BENEFÍCIO INDEFERIDO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+- Nos autos, a condenação do agravante está fundada em diversos elementos de informação e elementos de prova, notadamente, no depoimento prestado em juízo do policial militar EDUARDO ABRANTES (fl. 46), no depoimento judicial do policial militar DJAYLOM PINHEIRO DE SOUZA (fl. 47), na confissão extrajudicial do agravante (fl. 46), nas circunstâncias do flagrante (o agravante foi preso em local conhecido como ponto de venda de drogas, na posse de grande quantidade de maconha dentro de um saco preto, novecentos e cinquenta reais e um aparelho de telefonia celular) (fl. 46) e na apreensão de anotações típicas de contabilidade do tráfico e de apetrechos utilizados para fracionamento do material entorpecente (fl. 49).
+- Existindo prova produzida sob o crivo do contraditório judicial para respaldar a condenação, a via estreita, de cognição sumária, do writ, não se presta à análise da suficiência do acervo probatório para fundar juízo condenatório.
+- A privilegiadora do art. 33, § 4.º, da Lei n. 11.343/2006, exige que o apenado seja primário, de bons antecedentes, que não se dedique à atividade criminosa ou integre organização criminosa.
+- No caso, a Corte local entendeu que o agravante se dedicava ao crime, levando em conta a grande quantidade de droga apreendida, mas também a apreensão de dinheiro, de anotações atinentes ao tráfico e de apetrechos utilizados para o fracionamento e embalagem de drogas. O juízo de fato, portanto, está firmado em elementos concretos presentes nos autos. A reforma do quadro fático-probatório firmado na origem não tem lugar no âmbito do mandamus.
+- Agravo regimental desprovido.
+(AgRg no HC n. 777.449/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 7/11/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS QUE EMBASAM A CONCLUSÃO DE QUE A PACIENTE DEDICA-SE ÀS ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. NA PRESENTE VIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - Na hipótese, houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada na grande quantidade de drogas aprendidas, vale dizer, 359,660 gramas de maconha, elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas.
+IV - Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Agravo regimental desprovido.
+(AgRg no HC n. 523.505/SP, Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma,DJe 16/10/2019)
+Ante o exposto, não conheço dohabeas corpus(art.34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONSTRANGIMENTO ILEGAL NA VEDAÇÃO DO REDUTOR ESPECIAL DA PENA. ACÓRDÃO IMPUGNADO CALCADO NA CONVICÇÃO DO JULGADOR, FORMADA A PARTIR DO EXAME DAPROVA COLIGIDA, INCLUSIVE JUDICIALIZADA, NO SENTIDO DE QUE O PACIENTE SE DEDICAVA AO CRIME. REEXAME. INADMISSIBILIDADE. COGNIÇÃO SUMÁRIA.
+Writ não conhecido.
