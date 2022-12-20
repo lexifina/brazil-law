@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por Gerusa Teixeira Gardeline contra decisão do Tribunal de Justiça do Estado do Pará, a qual inadmitiu o recurso especial interposto por si, com os argumentos da incidência da Súmula n. 83/STJ e de que o acórdão impugnado espelha a orientação assente no âmbito do STJ, no sentido de inexistir violação do princípio da individualização das penas em sede de ação por ato de improbidade administrativa, quando o Corte de origem demonstra que todos os réus concorreram com equivalente gravidade para a prática do ato ímprobo (e-STJ fls. 2.536-2.537).
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos:incidência da Súmula n. 83/STJ e o acórdão impugnado espelha a orientação assente no âmbito do STJ, no sentido de inexistir violação do princípio da individualização das penas em sede de ação por ato de improbidade administrativa, quando o Corte de origem demonstra que todos os réus concorreram com equivalente gravidade para a prática do ato ímprobo
+Ocorre que aagravante não impugnou, especificamente, os fundamentos supra, o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
