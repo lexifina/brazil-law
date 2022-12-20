@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça argentina (Tribunal Civil e Comercial n. 14, do Departamento Judicial de Mar Del Plata, Buenos Aires), nos termos do Acordo Cooperação Jurídica Internacional Argentina/Brasil, pretende a obtenção de certidão de óbito de JUSTO ROBERTO DE LA ROSA (ESPÓLIO), a fim de instruir o Processo n. 308/2019.
+Em consulta ao banco de dados da Central de Informações de Registro Civil, não foi localizada a referida certidão (fl. 19), muito embora tenha sido encartado aos autos, às fls. 14/15, a declaração de óbito (n. 9480600).
+Nesse passo, deu-se vista ao Ministério Público Federal para parecer (fl. 20), no qual foi recomendada a expedição de ofício ao Ministério da Previdência Social (Sistema de Controle de Óbito) e ao Sistema de Registro Civil (ARPEN), para que fossem realizadas pesquisas sobre o pedido da autoridade argentina (fls. 23/24).
+Determinou-se a expedição de ofício ao Ministério da Previdência Social (Sistema de Controle de óbito) e ao Sistema de Registro Civil (ARPEN).
+Todavia, por meio das petições de fls. 39-43 e 44-46, os referidos órgãos informaram que não localizaram a certidão de óbito de Justo Roberto de La Rosa.
+Pelo exposto, a despeito do empenho das autoridades brasileiras para localização da parte interessada, verifica-se que a providência não logrou êxito, razão pela qual determino a devolução da comissão sem cumprimento ao Juízo rogante, por intermédio da autoridade central.
