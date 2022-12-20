@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 475/486) interposto contra decisão do eminente Ministro Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a parteagravante aduz que impugnou todos os fundamentos da decisão que não admitiu o especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadascontrarrazões(e-STJ fls. 489/491).
+É o relatório.
+Decido.
+A parte agravante impugnou todos os fundamentos da decisão de admissibilidade, não havendo falar em incidência da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da ausência de violação dos artigos indicadose da incidência daSúmulan. 7do STJ(e-STJ fls. 443/444).
+O acórdão recorrido está assim ementado (e-STJ fl. 411):
+PRESTAÇÃO DE SERVIÇOS MÉDICO-HOSPITALARES. Ação de cobrança e denunciação da lide julgadas procedentes. Apelo da denunciada. Atendimento da denunciante apelada em hospital não credenciado ante grave estado de saúde da recorrida, vítima de acidente automobilístico. Reembolso que deve ser integral, pois o hospital autor não foi eleito por mero capricho, mas em razão do estado de urgência. Inteligência do artigo 51, IV do Código de Defesa do Consumidor, observado que a denunciada apelante sequer alegou ou comprovou que as despesas cobradas superam aquelas que seriam custeadas se a paciente fosse atendida em rede credenciada. Precedentes. Desnecessária a cobrança da beneficiária para posterior reembolso pela apelante. Condenação direta e solidária da denunciada. Cabimento. Súmula 537 do Colendo Superior Tribunal de Justiça. Recurso não provido.
+No recurso especial (e-STJ fls. 420/425), fundamentado no art. 105, III, "a", da CF, arecorrente apontou ofensa aoart. 12,VI, da Lei n. 9.656/1998. Sustentou, em síntese, impossibilidade de reembolso integral dos valores gastos com atendimentorealizadoem rede não credenciada.
+A insurgência não merece prosperar.
+A Corte de origem asseverou quea autora, em razão da gravidade do acidente, foi encaminhadapelo Corpo de Bombeiros a umhospital, sem direito de escolha.Porém, no mesmo dia, com a evolução do seu quadro, foi transferida para uma rede credenciada pelo plano de saúde. Aduziu, ainda, que a ora recorrente sequer impugnou que as despesas em hospital não credenciado superariamas de umnosocômioda rede credenciada e que os limites da cobertura contratual teriam sido ultrapassados, in verbis (e-STJ fls. 413/414):
+Além disso, está evidenciada nos autos a urgência do atendimento médico prestado pelo autor à primeira, que foi encaminhada ao hospital pelos bombeiros em 02.04.2017, após acidente automobilístico, conforme páginas 72/77.
+A corré apelada Geisa foi vítima de politraumatismo (página 85), a apresentar politrauma com HSA traumática, fratura facial e trauma de bexiga (página 87), observado ainda ser incontroversa a urgência do atendimento
+Não bastasse, dos autos (página 87) verifica-seque no próprio dia 02.04.2017, após evolução neurológica estável durante estadia no PS, a coapelada Geisa foi posteriormente transferida para hospital da rede conveniada de seu plano de saúde em cuidados de UTI, a afastar a alegação da apelante no sentido de que a parte ré não teria solicitado transferência para outro local e teria escolhido por vontade própria o atendimento no hospital autor. Tal atendimento ocorreu em virtude do estado clínico da coapelada.
+O hospital autor, para o qual a coapelada Geisa foi encaminhada pelo Corpo de Bombeiros (páginas 72/73), não foi eleito pela parte ré por mero capricho, mas em razão de urgência, de maneira que o reembolso deve ser integral, ante interpretação cumulada do artigo 12, VI, da lei nº 9.656/1998 com o artigo 51, IV, do Código de Defesa do Consumidor, observado ainda que a apelante sequer impugnados materiais utilizados e procedimento empregado, tampouco demonstra que as despesas médico-hospitalares ora cobradas superem aquelas que seriam custeadas se atendida a coapelada em rede credenciada; a rigor a apelante sequer impugnou especificamente em contestação eventuais limites de cobertura.
+Contudo, no recurso especial, a recorrente sustenta, de forma genérica,a impossibilidade de reembolsar o valor integralmente gasto quando a parteutilizarede fora do credenciamento.
+Verifica-se, portanto, que não houve impugnação específica dos fundamentos do acórdão recorrido, o que atrai a aplicação da Súmula n. 283 do STF.
+Ademais, alterar os fundamentos do Tribunal a quo,que, conforme trecho acima transcrito,concluiu pela falta de comprovação de que os limites da cobertura contratual teriam sido ultrapassados, esbarra naSúmulan. 5 do STJ.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 470/472)para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
