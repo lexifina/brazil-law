@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA DE PREVIDENCIA DO FUNCIONÁRIOS DO BANCO DO BRASIL em face da decisão acostada às fls 660/663, e-STJ, da lavra deste signatário, em que se deu parcial provimento ao recurso especial do Banco do Brasil para excluí-lo da lide.
+Nas razões dos aclaratórios (fls. 666/674, e-STJ), aponta omissão quanto a necessidade de recomposição prévia e integral das reservas matemáticas.
+É o relatório. Decide-se.
+1. Conforme afirma a decisão embargada, "A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma" (Tema 936/STJ).
+Ademais, segundo entendimento fixado pela Suprema Corte, em repercussão geral, "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema 1.166/STF).
+Assim, a recomposição da reserva matemática (decorrente da aplicação da modulação de efeitos no julgamento dos Repetitivo/Temas 955 e 1021/STJ) deverá ocorrer na forma delineada no julgamento do EREsp 1557698/RS, pela Segunda Seção desta Corte, conforme dito na decisão ora embargada, o qua estabelece que faculta-se ao autor verter as parcelas de custeio de responsabilidade do patrocinador, se pagas a menor, para recomposição da reserva e poder receber o benefício integral, visto não poder demandá-lo em virtude de sua ilegitimidade passiva ad causam, assegurando-lhe o direito de ressarcimento pelo que despender a título de custeio da cota patronal.
+Portanto, tendo a decisão embargada decidido de modo claro e fundamentado, apenas contrário aos interesses da parte embargante, não há de se falar emvício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
