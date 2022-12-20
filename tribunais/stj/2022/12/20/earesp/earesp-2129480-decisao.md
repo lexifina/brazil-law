@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de divergência opostos pelo AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL EBIOCOMBUSTÍVEIS, contra acórdão da PRIMEIRA TURMA, relatado pelo Ministro Sérgio Kukina, e ementado nestes termos:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. BLOQUEIO DE ATIVOS FINANCEIROS. MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. DECISÃO EX OFFICIO. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não há falar em ofensa ao art. 1.022, II, do CPC, na medida em que a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal a quo não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+3. Nos termos do disposto no art. 833, X, do CPC, é impenhorável o montante de até quarenta salários mínimos depositado em instituição financeira, não apenas em cadernetas de poupança mas, também, em conta-corrente ou em fundos de investimento, ou, ainda, guardados em papel-moeda.
+4. Nos termos da jurisprudência firmada no âmbito desta Corte Superior de Justiça, a impenhorabilidade constitui matéria de ordempública, cognoscível de ofício pelo juiz, não havendo falar em nulidade da decisão que, de plano, indefere o bloqueio da quantia pelo sistema SISBAJUD, ante a irrisoriedade dos valores depositados.
+5. Agravo interno não provido."
+Alega o Embargante que o acórdão embargado, ao permitir que o juiz reconheça, de ofício, a impenhorabilidade da quantia inferior a 40 salários mínimos, sem arguição de defesa do executado, "divergiu do acórdão proferido pela SEGUNDA TURMA do STJ no julgamento do Recurso Especial nº 1.800.272/RS, Relator Ministro Herman Benjamin, publicado no DJe 29/05/2019, e do acórdão da TERCEIRA TURMA, no Recurso Especial nº 1.986.106/DF, Relator Ministro Moura Ribeiro, Relator p/acórdão Ministro Marco Aurélio Bellizze, publicado no DJe de 15/06/2022, ora utilizados como paradigmas para o devido confronto analítico" (fl. 152).
+Argumenta, ainda, que "a Corte Especial concluiu, no EAREsp 223.196/RS, Rel.Ministra ELIANA CALMON, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, julgado em20/11/2013, DJe 18/02/2014, que "a própria lei processual sugere temperamentos aocaráter absoluto das impenhorabilidades, de modo que se revela fragilizada a ideia de queas constrições sobre os bens constantes no rol do art. 649 do CPC são, em quaisquersituações, descabidas"" (fl. 160).
+Pede o acolhimento dos embargos.
+É o relatório.
+Decido.
+Em juízo prelibatório, entendo estar demonstrado o alegado dissídio jurisprudencial, cuja controvérsia é saber se a parte executada é que deve invocar a impenhorabilidade de montante de até quarenta salários mínimos depositado em instituição financeira,em tempo e modo próprios, ou se o juiz pode estabelecê-la de ofício.
+Ante o exposto, ADMITO o processamento dos presentes embargos, a teor do art. 266 do Regimento Interno do Superior Tribunal de Justiça.
+Dê-se vista aos Embargados, para impugnação no prazo legal, nos termos do art. 267 do Regimento Interno do Superior Tribunal de Justiça.
+Após, dê-se vista ao Ministério Público Federal para o parecer.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL.BLOQUEIO DE ATIVOS FINANCEIROS.MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. CONTROVÉRSIA ACERCA DA POSSIBILIDADE DEO JUIZ IMPOR A LIMITAÇÃO DE OFÍCIO.DEMONSTRADO, EM JUÍZO PRELIBATÓRIO, O ALEGADO DISSÍDIO. PROCESSAMENTO DOS EMBARGOS. ABERTURA DE PRAZO PARA IMPUGNAÇÃO E VISTA AO MINISTÉRIO PÚBLICO FEDERAL.
