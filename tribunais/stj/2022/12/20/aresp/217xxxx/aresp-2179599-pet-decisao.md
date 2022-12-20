@@ -1,0 +1,10 @@
+DECISÃO
+Às fls. 509-512, e-STJ, a FUNDAÇÃO UNIVERSIDADE DO SUL DE SANTA CATARINA - UNISUL, agravante, juntou aos presentes autos petição direcionada à origem, na qual as partes noticiaram a celebração de acordo entre si para cumprimento de sentença, expuseram os termos da avença e requereram, ao final, a homologação do pacto, a extinção do feito com os consectários legais, a dispensa e a renúncia dos prazos recursais.
+Às fls. 516-518, e-STJ, a agravanteinformoua quitaçãodoacordo, juntou os comprovantes respectivos e requereu a baixa doprocesso, com o consequente retorno dos autos à origem para homologação da avença e arquivamento definitivo.
+É o breve relatório. Decide-se.
+1. A realização de acordo entre as partes, sem qualquer reserva, representa ato incompatível com a vontade de recorrer, o que foi reforçado pelas partes àfl. 510, e-STJ, do referido pacto, em que renunciam aos prazos recursais.
+Nesse contexto, observo que as advogadas KAROLLINY REINOL DA SILVA BRITTES ESPÍNDOLA e TATIANA MENEGHEL, subscritoras da minuta do acordo, possuem poderes para transigir e desistir, conforme os instrumentos de mandato de fls. 25 e 82-83, e-STJ. Assim, encontram-se cumpridas as formalidades dos artigos 104 e 105 do CPC/2015.
+Embora a homologação de acordo esteja entre as atribuições do relator, nos termos do art. 34, interno IX, do RISTJ, é recomendável o retorno dos autos à origem, pois, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância.
+Por fim, considerando que já foi publicada a decisão que julgou o agravo em recurso especial (fls. 506-508 e 513, e-STJ), recebe-se a presente como desistência do prazo recursal.
+2. Do exposto, homologo o pedido de desistência, para que surta os efeitos jurídicos. Julgo extinto o procedimento recursal, ante a perda do objeto, e determino o retorno dos autos à origem para homologação e acompanhamento do acordo.
+Publique-se. Intimem-se.
