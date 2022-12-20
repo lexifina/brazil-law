@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - POSSE DEMONSTRADA - AUSÊNCIA DE.REGISTRO - AÇÃO CIVIL PÚBLICA - INDISPONIBILIDADE DE BENS - PROTEÇÃO DA POSSE - ORDENAMENTO JURÍDICO - AFASTAMENTO DA CONSTRIÇÃO.
+- A via processual dos embargos de terceiros tutela a posse daquele que, não fazendo parte da relação processual, sofre prejuízos com a constrição do bem.
+- A despeito da formalização da documentação de aquisição do bem, o ordenamento jurídicoprotege a posse de terceiro que, uma vez comprovada nos autos, impõe que seja desconstituída a constrição judicial.
+- A indisponibilidade de bens, na ação civil pública, é medida jurídicaviável, contudo, não se insurge como crédito certo capaz de configurar a fraude contra credores, na transação de bens do patrimônio do agente mormente quando a negociaçãoprecedeu a ação civil.
+Determinado novo julgamento pelo STJ, os Embargos de Declaração foram providossem efeitos infringentes (fl. 448, e-STJ):
+EMBARGOS DE DECLARAÇÃO - REQUISITOS - OMISSÃO - NOVO JULGAMENTO.
+- Presente um dos vícios previstos na legislação processual autorizadores da oposição do recurso como via integrativa da decisão recorrida, acolhem-se os embargos de declaração sem atribuir-lhes efeitos infringentes.
+Nas razões do Recurso Especial, o agravante sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 1.022 do CPC. Afirma:
+Destacou-se que analisando o novo julgamento dos aclaratórios observa-se que a Turma Julgadora não apreciou detidamente a falibilidade dos documentos trazidos aos autos pela empresa ora embargada, os quais não comprovam a posse, nem a propriedade sobre o imóvel registrado sob a matrícula n.º 27.710.
+Isso porque, não se ateve ao fato de que a quitação da dívida do 1NSS pela empresa recorrida, com consequente cancelamento da penhora, se deu em 03.02.2014 (fis. 249 v.), data posterior ao envio do oficio para o registro da indisponibilidade do bem (30.01.2014, cf. fis. 250), decretada no bojo da Ação Civil Pública n.º 0261.13.015311-5.
+Também não se ateve ao fato que mesmo após a propositura da aludida Ação Civil Pública  que ocorreu em 10.12.2013 - a empresa embargada continuou a realizar os pagamentos, ciente da indisponibilidade lançada sobre a matrícula n.º 27.710, vindo a opor os Embargos de Terceiro somente em 04.03 .2015 (fis. 7).
+Além disso não considerou que não foram juntados ao autos os cheques mencionados na cláusula terceira "b" do contato de compra e venda, e dele integrante, não se podendo concluir pela efetiva realização do negócio em sua totalidade.
+Contraminuta às fls. 522-529, e-STJ.
+O Ministério Público Federal opinoupelo desprovimento do recurso nestes termos (fls. 542-549, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. EMBARGOS DE TERCEIRO.INDISPONIBILIDADE DE BENS. COMPROVAÇÃO DA POSSE.AFASTAMENTO DA CONSTRIÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. ALEGADA OMISSÃO DO TRIBUNAL A QUO AO NÃO APRECIAR A FALIBILIDADE DOS DOCUMENTOS APRESENTADOS PELA EMPRESA RECORRIDA PARA COMPROVAR A POSSE DO IMÓVEL. INEXISTÊNCIA DE OMISSÃO. PARECER PELO NÃO PROVIMENTO DO AGRAVO.
+I - O Tribunal a quo decidiu, de forma clara e fundamentada, todas as questões trazidas à lide, concluindo que não há elementos que justifiquem a alegada falibilidade da documentação apresentada pela empresa recorrida para comprovar a posse do imóvel a sustentar a legitimidade dos embargos de terceiros por ela interpostos.
+II - Logo, não há o que se falar em violação ao art.1.022, II, do CPC/2015, visto que o Tribunal de origem apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, inexistindo vício de omissão, contradição, obscuridade ou erro material.
+III - Parecer pelo não provimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.11.2022.
+Cuida-se, origem, de Embargos de Terceirosopostos por Digital Celular FGA Ltda - ME contra o MP/MG, na qual se expõe que o embargado move uma ação contra o representante legal da empresa Chacon Engenharia Ltda. para apurarato de improbidade administrativa e danos ao erário. Foiliminarmente deferido o bloqueio de bens até o limite de R$ 31.410,21 (trinta e um mil, quatrocentos e dez reais e vinte e um centavos), que incluiu um imóvel alegadamenteadquirido antes do litígio, pelo o que a empresa requereu a desconstituição do bloqueio efetuado sobre o imóvel de sua propriedade.
+A sentença julgou procedente o pedido, com entendimento mantido após o julgamento da Apelação.
+O recorrente aponta omissão quanto aos seguintes pontos:
+Destacou-se que analisando o novo julgamento dos aclaratórios observa-se que a Turma Julgadora não apreciou detidamente a falibilidade dos documentos trazidos aos autos pela empresa ora embargada, os quais não comprovam a posse, nem a propriedade sobre o imóvel registrado sob a matrícula n.º 27.710.
+Isso porque, não se ateve ao fato de que a quitação da dívida do 1NSS pela empresa recorrida, com consequente cancelamento da penhora, se deu em 03.02.2014 (fis. 249 v.), data posterior ao envio do oficio para o registro da indisponibilidade do bem (30.01.2014, cf. fis. 250), decretada no bojo da Ação Civil Pública n.º 0261.13.015311-5.
+Também não se ateve ao fato que mesmo após a propositura da aludida Ação Civil Pública  que ocorreu em 10.12.2013 - a empresa embargada continuou a realizar os pagamentos, ciente da indisponibilidade lançada sobre a matrícula n.º 27.710, vindo a opor os Embargos de Terceiro somente em 04.03 .2015 (fis. 7).
+Além disso não considerou que não foram juntados ao autos os cheques mencionados na cláusula terceira "b" do contato de compra e venda, e dele integrante, não se podendo concluir pela efetiva realização do negócio em sua totalidade.
+Constata-se que não se configura a ofensa aoart. 1.022 do Código de Processo Civil, visto não haver no acórdão recorrido quaisquer dos vícios previstos nessedispositivolegal. O Tribunal a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Com efeito, o colegiado estadualtratouexpressamente dos pontos indicados como omitidos (fls. 468-470, e-STJ, grifo no original):
+As questões foram devidamente enfrentadas nos embargos anteriores, de forma clara e precisa, como determinado pelo STJ em decisão no Recurso Especial. A despeito disso, o Embargante provocou novo recurso. Diante disso, passo a indicar o posicionamento da Turma Julgadora nas duas questões restantes, a partir dos acórdãos anteriores.
+- Falibilidade dos documentos trazidos aos autos pela empresa recorrida para comprovar a posse do imóvel;
+Data venia, embora o Embargante insista na questão, apuro que foi ela devidamente enfrentada pela Turma Julgadora, tanto no acórdão do recurso de Apelação, quanto nos Embargos de sequencial 002.
+Foi mencionado nos Embargos 002 que o contrato de promessa de compra e venda, juntado às fls. 19/22, apresenta-se livre de aparente máculaformal, constando nele as "assinaturas devidamente reconhecidas em cartório".
+Contratantes capazes, objeto lícito e forma prescrita em lei são os requisitos que determinam a validade do negócio jurídico, conforme o art. 104 do Código Civil, o que já foi ponderado nos embargos anteriores:
+"Para a Turma Julgadora, não há qualquer elemento que justifique a alegada falibilidade da documentação, pois ela se apresentou como ato jurídico perfeito, dentro das determinações legais e, ainda assim, corroborada por entendimento sumular." (fis. 376 - Embargos 002)
+Nesse sentido, o acórdão do recurso de apelação já invocava o disposto na Súmula 84 do STJ para convencer-se da posse do bem pelos Embargados que trouxeram o documento combatido:
+"É admissível a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, ainda que desprovido de registro." (Súmula 84).
+Diante da apresentação do contrato de compra e venda e do texto sumular, a Turma julgou "ser prescindível a exibição dos cheques dados para pagamento" (fls. 376), por aplicar o entendimento da Súmula citada de que, para a posse, é suficiente o compromisso de compra e venda do imóvel.
+Desta feita, a questão segue analisada e enfrentada desde o julgamento do recurso de apelação, constando ainda do acórdão anterior.
+- Data de quitação da dívida;
+Igualmente à questão anterior, a data de quitação da dívida do INSS foi devidamente examinada quando do julgamento do recurso de apelação e dos embargos de sequencial 002, senão vejamos.
+Foi mencionado no julgamento da apelação cível que o pagamento da dívida do INSS pelos Embargados sugeria "certa autonomia" diante do imóvel litigado, confirmando, junto a outros elementos, a posse do bem, afinal, repito, como mencionado no acórdão do recurso principal, o compromisso de compra e venda foi assinado em ano anterior à proposição da ação:
+"No que tange às datas confrontadas, é evidente que o contrato apresentado foi celebrado muito antes da proposição da ação civil pública, pois foi assinado em 21/08/2012, enquanto a ação foi proposta em 10/12/2013. A tentativa de configurar o consilium fraudis a partir da mera instauração do inquérito civil é por demais açodada, mormente considerando que a investigação, por si só, não sustenta aideia da prévia existência de um crédito a ser solvido." (fls. 306 - acórdão da Apelação Cível)
+O enfrentamento da mesma questão foi repetido nos Embargos anteriores - 002 - em razão do que foi determinado pelo STJ, cujas considerações seguem transcritas:
+"Sobre a data de pagamento da dívida do imóvel com o INSS, o acórdão não precisou se fixar no período do pagamento, vez que os tomou com presunção de autonomia do Embargado sobre o bem.
+Outrossim, a presunção absoluta de que a constrição é do conhecimento de terceiros se dá com o seu registro na matrícula do imóvel, o que é bem distinto da data de envio do ofício para o registro da indisponibilidade." (fls. 376- verso; acórdão dos Embargos 002 - grifei)
+Considerando que o contrato de promessa de compra e venda foi realizado no ano de 2012 e que o imóvel estava constrito por dívida com o INSS, resolveu, o Promitente Comprador, quitar a dívida em fevereiro de 2014, sim, após a expedição de ofício para o registro da indisponibilidade, o que não é proibido por lei, Isoladamente, isso não representa que o Embargado não detinha a posse do imóvel, legitimando-o a defender o bem através dos Embargos de Terceiros.
+(..)
+Ressalte-seque não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Por tudo isso, conheço do Agravo para conhecerdo Recurso Especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
