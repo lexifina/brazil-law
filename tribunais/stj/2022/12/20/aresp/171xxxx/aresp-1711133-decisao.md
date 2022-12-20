@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação de dispositivo legal e incidência da Súmula n. 7 do STJ (e-STJ fls. 730/733).
+O acórdão recorrido está assim ementado (e-STJ fl.618):
+DESPESAS CONDOMINIAIS. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE PROVAS DA APROVAÇÃO DAS REFERIDAS DESPESAS. EXTINÇÃO DA EXECUÇÃO. Nos termos do inc. X do art. 784 do NCPC, constituem título executivo as despesas condominiais previstas em convenção ou aprovadas em assembleia de condôminos, desde que comprovadas documentalmente. Petição inicial que veio instruída somente com a ata de assembleia de aprovação das despesas exequendas de período inferior ao cobrado e extraordinária sem pormenorização do preço da manutenção de elevadores e da forma de rateio. Já recebida a inicial, não se há de falar em apresentação de tal documento nos termos do art. 321 do NCPC, sendo de rigor a extinção da execução. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 664/647 e 667/673). Em acórdão proferido às fls. 685/687 (e-STJ), os declaratórios foram acolhido para correção de erro material.
+No recurso especial (e-STJ fls. 690/701), fundamentado no art. 105, III, "a" e"c", da CF, orecorrente alegou violação dos arts. 489, § 1º, IV, e 1.022, I e II,do CPC/2015, visto que houve obscuridade e omissão quanto à tese de que consta dos autos todas as atas das assembleiasque fixaram o valor da taxa de condomínio.
+Sustentou ofensa ao art.10 e 933 do CPC/2015, pois configurada a decisão surpresa.
+Aduziu inobservância do art. 784, X, do CPC/2015, porque as "contribuições ordinárias ou extraordinárias de condomínio previstas na respectiva convenção ou aprovadas em assembleia geral, desde que documentalmente comprovadas são título executivo extrajudicial" (e-STJ fl. 699).
+No agravo (e-STJ fls. 358/380), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+A alegação de violação dos arts. 10 e 933 do CPCfoi apreciada pelo Tribunal de origem, estando ausente o requisito do prequestionamento. Aplica-se, portanto, aSúmula n. 282/STF.
+Quanto à tese de existência de título executivo, a Corte local consignou que (e-STJ fls. 621/623):
+No caso em tela, verifica-se que a inicial foi instruída com cópia da ata da assembleia geral ordinária referente aos anos de 2011/2012 e da assembleiaextraordinária relativa à manutenção de elevadores (fls.53/55).
+Ocorre que de tais documentos não é possível inferir-se a forma de rateio das despesas ordinárias e extraordinárias, haja vista que somente foi apresentado o orçamento do período de 2011/2012, faltando de todo o período posterior (até 2017, conforme cobrança objetivada pelo condomínio-exequente), já da previsão de manutenção dos elevadores não foi especificado o preço final e a forma de parcelamento.
+Ademais, nem sequer foi apresentada a cópia da convenção de condomínio e dos boletos bancários relativos às despesas condominiais exequendas a fim de constituir o título executivo.
+Conforme já consignado, o art. 784, inc. X, do NCPC, dispõe expressamente que as despesas devem estar previstas em convenção, o que não é possível comprovar-se por meio dos documentos acima elencados.
+Além disso, em que pese ao entendimento do ilustre Magistrado a quo, não se pode exigir do executado que cumpra obrigação imposta ao exequente, pois incumbe a este instruir devidamente a petição inicial da execução, não sendo dever do executado efetuar pesquisa junto ao Cartório de Registro de Imóveis para obter informação acerca da previsão das despesas exequendas na convenção de condomínio como constou da r. sentença recorrida.
+Não se ignora que, tratando-se de documento essencial à propositura da execução, incumbia ao Magistrado a quo determinar sua apresentação, nos termos do art. 321 do NCPC. Porém, já ultrapassada tal oportunidade com o recebimento da inicial, de rigor a extinção da execução.
+A Corte local entendeu que o recorrente não realizou prova das despesas condominiais nos termos do art. 784, X, do CPC/2015.Para desconstituir a premissa estabelecida noacórdão recorrido, seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
