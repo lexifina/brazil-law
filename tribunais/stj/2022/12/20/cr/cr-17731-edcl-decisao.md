@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela parte interessada contra a decisão de fl. 442-443, na qual foi indeferido o pleito de sustentação oral no julgamento do agravo interno interposto pela interessada.
+Assinala que a decisão não está fundamentada, visto que a jurisprudência citada não se amolda ao caso em tela, bem como afirma sercabível a apresentação de sustentação oral no referido agravo interno.
+Requer que sejam corrigidas a omissão e contradição e deferida a sustentação oral.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos dedeclaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Nesse passo, vale consignar os termos da decisão embargada, a qual não carece de maior fundamentação, eis queo seu teorbem esclarece a razão doindeferimento do pleito de sustentação oral:
+Não há justificativa para o pedido de preferência e tampouco é cabível, na espécie, a apresentação de sustentação oral.
+No tocante ao pleito de sustentação oral, vale destacar que a carta rogatória não possui natureza de ação, tratando-se de procedimento que corresponde a instrumento jurídico de cooperação processual internacional por meio do qual a autoridade judicial de um país roga o auxílio de outra autoridade estrangeira para a realização de certa diligência.
+Ademais, ainda que se observe que o Superior Tribunal de Justiça publicou recentemente a Emenda Regimental 41/2022, que altera dispositivos do seu Regimento Interno (RISTJ) para adequá-lo à Lei 14.365/2022, nenhuma alteração surtiu com relação ao instituto da carta rogatória.
+A propósito, confira-se o recente julgado desta Corte:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA NULIDADE POR FALTA DE INTIMAÇÃO DO JULGAMENTO DO REGIMENTAL. DESNECESSIDADE. ART. 258 DO RISTJ. SUSTENTAÇÃO ORAL INCABÍVEL NA ESPÉCIE.INTELIGÊNCIA DO ART. 7º, § 2º-B, III, DO EOAB. EMBARGOS DE DECLARAÇÃO REJEITADOS.1. O agravo regimental em matéria criminal é regido pelo art. 258 do RISTJ, que não estabelece a necessidade de prévia intimação de nenhuma das partes antes do julgamento do recurso.2. Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial.3. Recurso especial e agravo em recurso especial são espécies recursais distintas, consoante os arts. 994, VI e VIII, do CPC, e 67, XXIII e XXXIII, do RISTJ. Pela literalidade do art. 7º, § 2º-B, III, da Lei 8.906/1994, somente o agravo regimental em recurso especial comporta sustentação oral.4. Diante do silêncio legislativo, o agravo em recurso especial continua seguindo a regra do art. 159, IV, do RISTJ, que veda a realização de sustentação oral em seu julgamento.5. Embargos de declaração rejeitados.(EDcl no AgRg no AREsp n. 2.170.433/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Ante o exposto, indefiro os pedidos.
+Não há, portanto, qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, verifica-se queo presente processo judicial foi regularmente julgado na sessão Virtual de Mérito da Corte Especial que ocorreu entre os dias07/12/2022 e 13/12/2022.
+Ante o exposto, rejeito os embargos de declaração.
+Devolvam-se os autos à Justiça rogante.
+Publique-se. Intimem-se.
