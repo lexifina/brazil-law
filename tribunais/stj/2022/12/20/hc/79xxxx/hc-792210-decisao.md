@@ -1,0 +1,32 @@
+DECISÃO
+GELSON OLIVEIRA DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulno Agravo em Execução n. 2363739-24.2010.8.21.0034.
+Pugna o impetrante para que concedido ao paciente o livramento condicional, ao argumento, em síntese, de que estariam preenchidos os requisitos objetivo e subjetivo.
+Decido.
+O Magistrado da execução indeferiu o pleito de livramento condicional formulado em favor do paciente, em decisão assim fundamentada (fls. 360-361, destaquei):
+No presente caso, o requisito objetivo encontra-se devidamente adimplido, conforme informação acostada no evento 322.
+No entanto, entendo que o benefício não deve ser concedido.
+Isso porque, embora o apenado tenha implementado o lapso temporal necessário à concessão do benefício, oportunizar o cumprimento da pena em liberdade condicional, situação com menor vigilância previsto na execução penal, diretamente após o regime fechado, não se mostra adequado, uma vez que restaria descaracterizado o pressuposto progressivo do sistema executório penal.
+Ainda, importante mencionar que o apenado teve nove fugas, o que demonstra ainda mais a necessidade de um período maior de observação na conduta do apenado para posteriormente ir para a última etapa do processo de reintegração, qual seja, o livramento condicional.
+ ..
+Assim, por ora, entendo inviável no presente caso o deferimento do livramento condicional.
+Diante do exposto, indefiro o pedido de livramento condicional, porquanto ausente o requisito subjetivo.
+O Tribunal a quo ratificou o decisum supra, in verbis (fls. 29-32, grifei):
+O apenado cumpre pena total atual de 21 (vinte e um) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, atualmente em regime fechado, por crimes de roubo, cumprido até 07/11/2022, 11 (onze) anos e 19 (dezenove) dias de reclusão.
+Compulsando os documentos acostados, entendo que não deve prosperar a pretensão recursal.
+Efetivamente assiste razão o Ministério Público ao afirmar que o sentenciado empreendeu fuga em 09 (nove) oportunidades, conforme se verifica no sequencial 322.1, fl. 03do SEEU.
+É sabido que para a obtenção do benefício não basta somente o cumprimento do requisito temporal. Necessários e imprescindíveis a comprovação de comportamento satisfatório durante a execução da pena, o bom desempenho no trabalho atribuído no presídio e, ainda, aptidão para prover a própria subsistência.
+ ..
+De outro lado, cumpre salientar que não há qualquer disposição legal que exija do apenado estar em determinado regime para que possa ser agraciado com a benesse do livramento condicional, desde que preenchidos os requisitos objetivos e subjetivos.
+Entretanto, na execução penal, diversamente do que sucede com o processo penal, a dúvida se reverte em favor da sociedade, não sendo recomendável que se conceda crédito de confiança àqueles sentenciados que revelem inadaptação a regime menos severo.
+Sobre a matéria, estabelece o artigo 83, parágrafo único, do Código Penal, que para o condenado por crime doloso, praticado com violência ou grave ameaça à pessoa, como na hipótese dos autos, a concessão do livramento condicional ficará subordinada também à constatação de condições pessoais que façam presumir que esse, quando liberado, não voltará a delinquir.
+Dito isso, diante do fato de sua última falta grave cometida ser relativamente recente (2021), demonstra que o reeducando ainda não oferece seguras mostras de se achar capacitado para ingresso direto no livramento condicional, sem ponderáveis riscos de recidiva, no descumprimento das condições impostas. Significativa e esclarecedora, quanto ao implemento do requisito subjetivo, é a doutrina de Mirabete:
+ ..
+Por tais motivos, embora preenchidos os requisitos exigidos na Lei de Execução Penal, sua conduta pregressa não demonstra efetiva condição à favorabilidade da benesse.
+ISSO POSTO, voto por negar provimento ao recurso defensivo.
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Da mesma forma, " s egundo a jurisprudência deste Superior Tribunal de Justiça, não há obrigatoriedade de o sentenciado vivenciar primeiramente o regime intermediário para que obtenha o benefício do livramento condicional, em razão da inexistência de tal previsão no art. 83 do Código Penal" (HC n. 482.168/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 19/2/2019).
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que o Tribunal de origem ressaltou que o reeducando registra em seu histórico carcerário o registro de 9fugas do sistema prisional, de modo a macular o preenchimento do requisito de ordem subjetiva.
+Portanto, verifica-se que foi indeferida a benesse em função do histórico prisional desfavorável ao apenado, o que consiste na prática recente de infração disciplinar de natureza grave (fuga em 21/2/2020 - fl. 349), argumento que encontra guarida na jurisprudência do Superior Tribunal de Justiça, segundo a qual " n ão há que falar, dessa forma, em criação de situação não prevista em lei, nem em violação do princípio da vedação das penas perpétuas, porque, para obtenção do livramento condicional, além do requisito de não cometimento de falta grave nos últimos 12 meses, deve ser comprovado o bom comportamento durante a execução da pena (art. 83, III, "a", do CP)" (AgRg no HC n. 664.578/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/5/2021, sublinhei).
+À vista do exposto, denego a ordem dehabeas corpus,in limine.
+Publique-se e intimem-se.
