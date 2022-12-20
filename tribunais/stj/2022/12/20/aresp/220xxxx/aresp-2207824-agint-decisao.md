@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravos internos (e-STJ fls. 1.220/1.225 e 1.226/1.231) interpostos contra decisão daeminente MinistraPresidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a parteagravante aduz que impugnou todos os fundamentos da decisão que não admitiu o especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadascontrarrazões(e-STJ fls. 1.236/1.247).
+É o relatório.
+Decido.
+Conforme a jurisprudência desta Corte, é defesa a interposição simultânea de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal e da preclusão consumativa. Assim, o segundo agravo interno (e-STJ fls. 1.226/1.231) não deve ser conhecido.
+Quanto ao recurso de fls. 1.220/1.225 (e-STJ), aparte agravante impugnou todos os fundamentos da decisão de admissibilidade, não havendo falar em incidência da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude daincidência das Súmulas n. 284 do STF e 7do STJ(e-STJ fls. 1.169/1.175).
+O acórdão recorrido está assim ementado (e-STJ fls. 980/981):
+PLANO DE ASSISTÊNCIA MÉDICA AOAPOSENTADO. ENTIDADE DE PREVIDÊNCIA FECHADA. FUNDAÇÃOSISTEL DE SEGURIDADE SOCIAL. INAPLICABILIDADE DO CDC. COPARTICIPAÇÃO. CUSTEIO COMPARTILHADO DE DESPESAS MÉDICAS. REGULARIDADE DA COBRANÇA. SUSPENSÃOIRREGULAR DO SERVIÇO. DANO MORALMANTIDO.
+Plano de Saúde Coletivo. Suspensão irregular. A sentença confirmou a tutela em relação a BRADESCO SAÚDE S/A e SISTEL -FUNDAÇÃO DE SEGURIDADE SOCIAL. Condenou as mesmas no cancelamento das cobranças de agosto de 2018 no valor de R$18.516,45 (fls. 33), setembro de 2018 no valor de R$ 41.687,38 (fls. 34) e março de 2019 no valor de R$50.001,07 (fls. 35), sob pena de pagamento em dobro, além de indenização por danos morais à segunda autora ELZA VELLOZO RAGGIO na quantia de R$ 10.000,00 e a cada um dos herdeiros habilitados (ELZA VELLOZORAGGIO, INEZITA VELLOZO RAGGIO, ARNALDO JOSÉ VELLOZO RAGGIO, ZILDA CRISTINA VELLOZO RAGGIO DEL CIMA) a quantia de R$2.500,00. Reconheceu a sucumbência recíproca. Julgou improcedentes os pedidos em relação ao réu PLENO SAÚDE e condenou os autores na sucumbência em relação a este. Apelo dos autores e das rés Bradesco Saúde e SISTEL.
+Ilegitimidade passiva da Bradesco Saúde rejeitada. Teoria da asserção. Ademais, o relato é de negativa de atendimento por suspensão do serviço.
+Afastada a obrigação de cancelamento das cobranças. Assistência prestada através de coparticipação. Valores devidos. Necessidade de quitação do percentual que cabe aos autores.
+Em que pese a inadimplência, não houve cumprimento do art. 13, parágrafo único, inciso II, da Lei nº 9.656/98. Dano moral configurado e mantido em seu valor original diante da suspensão unilateral sem prévio aviso e negativa de atendimento médico. Recurso dos autores e da ré Bradesco Saúde desprovido.
+Recurso da ré SISTEL parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.038/1.050).
+No recurso especial (e-STJ fls. 1.052/1.070), fundamentado no art. 105, III, "a", da CF, arecorrente apontou ofensa aos arts. 10, § 4º, e 13, II, da Lei n. 9.656/1998e 186, 422, 927 e 944 do CC. Sustentou, em síntese, legalidade da rescisão do contrato coletivo por falta de pagamento, ainda quesem aviso prévio ou notificaçãoda parte beneficiária, ausência de conduta ilícita ou decomprovação do abalo moral e exorbitância da indenização fixada (R$ 10.000,00 - dez mil reais).
+A insurgência não merece prosperar.
+Quanto aoart.10, § 4º, da Lei n. 9.656/1998, verifica-se a falta de prequestionamento da matéria pelo Tribunal de origem e, apesar da oposição de embargos de declaração, estes não versavam sobre o referido dispositivo. Incide, no ponto, o teor das Súmulas n. 282 e 356 do STF.
+Sobre a rescisão contratual, a Jurisprudência do STJ firmou-se no sentido de que, embora seja possível a rescisão unilateral do contrato de plano de saúde coletivo por inadimplência, é imprescindível a notificação prévia do segurado, o que não ocorreu no presente caso.
+Nesse sentido:
+CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL IMOTIVADA. LEGALIDADE EM TESE. BENEFICIÁRIA EM TRATAMENTO DE SAÚDE. DANOS MORAIS. EXISTÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "O plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009). Nada obstante, no caso de usuário em estado de saúde grave, independentemente do regime de contratação do plano de saúde (coletivo ou individual), deve-se aguardar a conclusão do tratamento médico garantidor da sobrevivência e/ou incolumidade física para se pôr fim à avença" (AgInt no AREsp 1.433.637/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/5/2019, DJe 23/5/2019).
+2. No caso, o Tribunal a quo reconheceu que a rescisão era indevida, por estar a parte beneficiária em tratamento de doença grave, além de ter havido danos morais a serem indenizados em decorrência da negativa de atendimento. Nesse contexto, em sede de recurso especial, não há como reexaminar fatos e provas para alterar o entendimento da Corte de origem, ante o óbice da Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.963.156/DF, de minha relatoria, QUARTA TURMA, julgado em 9/5/2022, DJe de 16/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. RESILIÇÃO UNILATERAL PELA OPERADORA. POSSIBILIDADE. ART. 13, PARÁGRAFO ÚNICO, II, DA LEI Nº 9.656/98. IMPOSSIBILIDADE DE OBRIGAR O PLANO DE SAÚDE A MANTER APÓLICE. PRECEDENTES. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Esta Corte possui a compreensão de que é possível a resilição unilateral do contrato coletivo de plano de saúde, imotivadamente após a vigência do período de 12 meses e mediante prévia notificação da outra parte, uma vez que a norma inserta no art. 13, II, b, parágrafo único, da Lei nº 9.656/98, aplica-se exclusivamente a contratos individuais ou familiares (AgRg no AgRg no AREsp nº 51.473/SP, Rel. Ministro ANTÔNIO CARLOS FERREIRA, Quarta Turma, DJe 14/10/2015).
+3. A jurisprudência desta Corte orienta que não é possível obrigar a operadora de plano de saúde a manter válidas, para um único segurado, as condições e cláusulas previstas em contrato coletivo de assistência à saúde já extinto.
+4. Inviável o conhecimento de teses que não foram discutidas pelo Tribunal bandeirante e nem sequer foram trazidas nas contrarrazões ao recurso especial, cuidando-se, portanto, de inovação recursal e de supressão de instância.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.902.349/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/3/2022, DJe de 18/3/2022.)
+Em relação à conduta abusiva praticada pela recorrente e à configuração do dano moral,o Tribunala quoassim se manifestou (e-STJ fls. 996/997):
+De tal modo, há nítida ocorrência de falha, na medida em que para a licitude da suspensão haveria necessidade de inadimplemento superior asessenta dias E prévia notificação do beneficiário, nos moldes impostos pelo art. 13, II da Lei 9.656/98.
+Em razão da falha da ré, correta, pois, a sentença que confirmou a tutela antecipada para reativação da assistência à saúde aderida pelos autores.
+Os danos morais experimentados são inequívocos. A conduta da SISTEL ultrapassou o mero descumprimento de dever contratual, na medida em que inviabilizou o pleno exercício do direito à saúde dos beneficiários, lesando sua dignidade, restando caracterizado o dano de natureza extrapatrimonial, assim como a negativa de atendimento pela Bradesco Saúde, fato não impugnado pela mesma.
+Rever esses fundamentos esbarra no óbice da Súmula n. 7/STJ.
+No que concerne ao valor indenizatório, conforme entendimento pacífico do STJ, a modificação da quantia arbitrada é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+O valor estabelecido pela Cortea quonão enseja a intervenção do STJ.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 1.215/1.217)para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
