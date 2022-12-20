@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl.193):
+AGRAVO DE INSTRUMENTO - AÇÃO DE DESCONTITUIÇÃO DE DÉBITO PAGO EM DUPLICIDADE C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS C/C REPETIÇÃO DO INDÉBITO - RELAÇÃO DE CONSUMO - SÚMULA 479 STJ - DENUNCIAÇÃO DA LIDE - IMPOSSIBILIDADE. - Súmula 479/STJ, in verbis: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.". - Nos termos do art. 88, do Código de Defesa do Consumidor é vedada a denunciação da lide nas hipóteses de relação de consumo.
+Nas razões do recurso especial, a parte agravante aponta violação aoart. 88 do Código de Defesa do Consumidore ao art. 125, II,do Código de Processo Civil.
+Defende adenunciação da lide dobeneficiáriodaoperação bancária supostamente fraudulenta.
+Alega que "caso constatada a ocorrência de fraude, o beneficiário do valor recebido tornar-se-á legítimo a devolver integralmente aquilo que percebeu indevidamente, retornando a situação ao status quo ante, na exata condição imposta pelo inciso II, do art. 125 do CPC, sob pena de enriquecer sem causa" (e-STJ, fl.209).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, oTribunal de origem entendeu pelo não cabimento da denunciação da lide com base nos seguintesfundamentos:
+Trata-se de Ação de Desconstituição de Débito Pago Duplicidade c/c Indenização por Danos Morais e Materiais c/c Repetição do Indébito ajuizada por ANA CÉLIA RODRIGUES em desfavor de AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO e BANCO SANTANDER (BRASIL) S/A. A autora alega, em suma, que efetuou contato telefônico com o réu SANTANDER, através do número de telefone infirmado no carnê de pagamento, oportunidade em que foi oferecida quitação da dívida através do pagamento de boleto único no valor de R$3.743,22 (três mil setecentos e quarenta e três reais e vinte e dois centavos), que lhe foi enviado via "WhatsApp". No entanto, ao efetuar pagamento, a autora afirma ter tomado conhecimento de que o valor não se reverteu em favor do verdadeiro credor, mas de terceiro não identificado, que a induziu a erro, obtendo vantagem ilícita.
+Cumpre esclarecer que, a autora celebrou contrato de financiamento junto à agravante AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO e, em decorrência da relação comercial foi emitido carnê de pagamento do BANCO SANTANDER (BRASIL) S/A.
+Ao contrário do que sustentam os agravantes, a relação das partes é de consumo. A autora, suposta vítima de evento danoso, é considerada consumidora, nos termos do art. 17, do CDC, o que torna relação jurídica travada como de consumo em face do objeto do contrato. Aplicável, de plano, o disposto na Lei nº 8.078/90.
+Trata-se de matéria pacificada pelas posições assumidas pelo Supremo Tribunal Federal (no julgamento da ADI 2.591) e pelo Superior Tribunal de Justiça (Súmula 297: "O Código de Defesa do Consumidor é aplicável às instituições financeiras").
+Aparentemente, o ocorrido denota da falha na prestação de serviço da Instituição Financeira SANTANTER S/A, uma vez que a agravada cuidou em comprovar a conversa via aplicativo "WhatsApp" (ordem 14), onde negocia a dívida referente ao contrato de financiamento nº 20028676417, formalizado com a agravante AYMORE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.
+Decorre que a responsabilidade do fornecedor de produtos e serviços possui intima relação com o risco inerente à atividade empresarial desenvolvida, não sendo possível que o consumidor suporte prejuízos em decorrências de falhas na prestação do serviço.
+Ainda. Quanto à instituição financeira, no caso de fraude de terceiros, mesmo que se possa considerar hipótese de fortuito interno, a Súmula 479/STJ dispõe: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.".
+É de rigor considerar que os dados da relação contratual aparentemente foram disponibilizados externamente, possibilitando eventual ação de fraudadores.
+A princípio, é possível perceber que os agravantes ao denunciarem a lide aos os beneficiários da operação pretendem, unicamente, esquivar da responsabilidade civil que lhes é imputada.
+Todavia, não é esse o alcance do instituto.
+Ademais, o caso concreto trata-se de relação de consumo, portanto, aplicável o disposto no art. 88, do CDC, in verbis:
+(..)
+Portanto, entendo que o juiz atendeu suficientemente às condições pertinentes para indeferir pedido de denunciação da lide.
+Com estes fundamentos, NEGO PROVIMENTO AO RECURSO.
+Verifico que a conclusão adotada na origem está em consonância coma jurisprudência desta Corte Superior, no sentido de que não é cabível a denunciação da lide em se tratando de relação de consumo, conforme dispõe o art. 88 do Código de Defesa do Consumidor.A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DEFUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, oacórdão impugnado, a argumentação dissociada bem como a ausência dedemonstração da suposta violação à legislação federal impedem oconhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmulado Supremo Tribunal Federal.
+2. O entendimento desta Corte Superior é de que, em se tratando de relaçãode consumo, descabe a denunciação da lide, nos termos do art. 88 do Códigode Defesa do Consumidor.
+3. A jurisprudência do STJ se firmou no sentido de que "o Código deProcesso Civil de 2015 não prevê a obrigatoriedade da denunciação da lideem nenhuma de suas hipóteses. Ao contrário, assegura o exercício dodireito de regresso por ação autônoma quando indeferida, não promovida ouproibida (CPC/2015, art 125, caput, e § 1º) (AgInt no AREsp n.1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgadoem 14/12/2021, DJe 17/12/2021)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro Marco Aurélio Bellizze,Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Ademais, alterar a conclusão do Tribunal local que afastou o pedido de denunciação da lidedemandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete n. 7 da Súmula desta Corte Superior.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
