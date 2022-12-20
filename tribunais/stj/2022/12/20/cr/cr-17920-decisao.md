@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça uruguaia solicita que se proceda à citação de VAGNER RAMOS ROMERO para tomar conhecimento da tramitação de processo relativo à apuração de suposta infração aduaneira de contrabando e, consequentemente, estabelecer "domicílio processual, sob apercebimento de tê-lo constituído no fórum, pelo prazo de 90 dias (art. 126 CGP)" (fl. 17).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 57), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
