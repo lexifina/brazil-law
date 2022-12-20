@@ -1,0 +1,10 @@
+DECISÃO
+O presenterecurso em habeas corpus interposto diretamente nesta Corte por Everton Deyvid Pereira Moreira, William Diones Valencoella de Lima e Guilherme Rodrigues Lopes - autuados em flagrante delito em 30/8/2022, pela prática, em tese, dos crimes de porte ilegal de armas de fogo de uso permitido e com numeração suprimida e resistência, no qual se ataca acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 5195969-86.2022.8.21.7000 (fls. 29/30) - que manteve a conversão de prisão em flagrante dos recorrentes em preventiva nos Autos n. 5153651-36.2022.8.21.0001 (fls. 17/22), do Núcleo de Gestão Estratégica do Sistema Prisional da comarca de Porto Alegre/RS - não deve ser conhecido.
+Isso porquese alegaconstrangimento ilegal consistente em deficiência de fundamentação do acautelamento preventivo, porém os autos não estão suficientemente instruídos, carecendo de cópia do decreto provisório, além de relatório e voto do acórdão hostilizado, peças indispensáveis para que seja possível verificar a verossimilhança das alegações.
+Ao que se tem, embora a defesatenha juntado cópia do termo de audiência de custódia (fls. 17/22), em que consta o dispositivo do decreto provisório, não cuidou de trazer aos autos a transcrição do conteúdo de mídia anexa à ata da audiência, na qual o Magistrado singular apontou a fundamentação para a prisão preventiva hostilizada.
+Assim, a mera indicação de link para acesso à peça faltante e essencial para o exame do alegado constrangimento ilegal, que deixou de ser juntada com a inicial do writ, não é suficiente para reverter a decisão que não conheceu do pedido de habeas corpus por instrução deficiente da impetração (AgRg no HC n. 727.481/SP, de minha relatoria, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022).
+Em razão disso, não conheço do presente recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMASDE FOGODE USO PERMITIDO E COM NUMERAÇÃO SUPRIMIDAE RESISTÊNCIA. PRISÃO PREVENTIVA. ALEGAÇÃO DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE CÓPIA DO DECRETO PRISIONAL. INSTRUÇÃO DEFICIENTE.
+Recurso não conhecido.
