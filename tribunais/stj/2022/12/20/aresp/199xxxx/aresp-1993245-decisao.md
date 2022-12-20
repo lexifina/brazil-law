@@ -1,0 +1,35 @@
+DECISÃO
+PATRÍCIA FREITAS DA SILVA (PATRÍCIA) ajuizou ação de reintegração de posse com pedido liminar em desfavor dePEDRO EUSTÁQUIO COSTA POSSAS (PEDRO).
+A sentença julgou improcedentes os pedidos iniciais (e-STJ, fls. 1.375/1.381 e 1.388).
+OTribunal de Justiça de Minas Gerais negou provimento ao recurso de apelação manejado por PATRÍCIA, em acórdão da relatoria do Des. JOSÉ DE CARVALHO BARBOSA,assim ementado:
+APELAÇÃO CIVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - REQUISITOS DO ART. 561 DO CPC NÃO COMPROVADOS - IMPROCEDÊNCIA DO PEDIDO - SENTENÇA MANTIDA - INDENIZAÇÃO POR BENFEITORIAS - APURAÇÂO EM SEDE PRÓPRIA - POSSIBILIDADE. A reintegração de posse deve ser concedida quando preenchidos os requisitos cumulativos do alt. 561 do CPC, quais sejam comprovação da posse anterior, da prática de esbulho e da perda da posse em razão do ato ilícito. Não sendo comprovado nos autos que a parte autora exercia efetivamente a posse do imóvel objeto do litígio, ao tempo do alegado esbulho, revela-se Incabível a proteção possessória pretendida. Não havendo nos autos elementos suficientes para julgamento do pedido de indenização por benfeitorias feitas no imoveI, pedido esse formulado pela autora no curso do processo, deve a análise desse pedido ser feito em sede própria(e-STJ, fl. 462).
+Os embargos de declaração interpostos por PATRÍCIA foram rejeitados.
+Em seu recurso especial, manejado com base nas alíneasaecdo permissivo constitucional,PATRÍCIA alegou dissídio e ofensa aosarts.141, 343 e 492, todos do NCPC; e 1.219 e 1.255, ambos do CC/02,argumentando, em suma, ter havido julgamento fora do pedido, bem como insistiu na sua posse de boa-fé do imóvel objeto da lide (e-STJ, fls. 1.475/1.492).
+O apelo nobre não foi admitido pelo TJMG por(i)incidência das Súmulas n.ºs 7 e 83, ambas do STJ; e(ii)falta de demonstração do dissídio (e-STJ, fls. 1.550/1.556).
+Ainda inconformada,PATRÍCIA manifestou o presente agravo, em cujas razões, além de reiterar o seu apelo nobre, aduziu, em síntese, que(1)demonstrou a violação dos arts.141, 343 e 492, todos do NCPC; e 1.219 e 1.255, ambos do CC/02;(2)descabe falar naincidência daSúmulan.º7 do STJ; e(3)demonstrou o dissídio jurisprudencial(e-STJ, fls. 1.580/1.616).
+Acontraminutafoiapresentada(e-STJ, fls. 1.649/1.687).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento, devendo ser mantido oacórdão proferido pelo Des. JOSÉ DE CARVALHO BARBOSA.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, poisPATRÍCIA não infirmou seus esteios, na medida em que não refutou de forma arrazoada o óbice pela incidência daSúmulan.º7 do STJ. Além disso, nada disse acerca daincidência da Súmula n.º 83 do STJ, ao caso.
+Em suma,PATRÍCIA limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Na espécie, como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ,deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não foi feito.
+Além disso,não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não estáem consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte,com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisãoagravada(AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Ressalte-se que o TJMG foi claro ao destacar que
+ ..  Os precedentes aplicam-se às inteiras ao argumento recursal que, assim, não pode ter trânsito. "Não há que falarem julgamento extra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida, respeitando o princípio da congruência." (Aglnt no AREsp 969.868/MT, ReI. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22106/2020, DJe 2510612020). Incide a súmula 83/STJ(e-STJ, fls. 1.552 - sem destaques no original).
+Contudo,PATRÍCIA deixou de trazer aos autos precedentes desta Corte de Justiça que infirmassem tal entendimento.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apeloextremo, ônus do qual não se desincumbiu a parte insurgente.Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Nessas condições, nos termos do art. 932, III, do NCPC,NÃO CONHEÇOdo agravo.
+Considerando a aplicabilidade das regras do NCPC e o não conhecimento dorecurso, MAJORO os honorários advocatícios anteriormente fixados emdesfavor de PATRÍCIA, de R$ 1.200,00 (mil e duzentos reais) para R$ 1.500,00 (mil e quinhentos reais), nos termos do art. 85, § 11, do NCPC. Deverá serobservado, se for o caso, o benefício da gratuidade da justiça, nos termosdo art. 98, § 3º, do NCPC.
+Por oportuno, previno as partesde que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL.RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC.AGRAVO NÃO CONHECIDO.
