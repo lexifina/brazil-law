@@ -1,0 +1,27 @@
+DECISÃO
+ADAIL JOSE FIGUEIREDO PINHEIRO alega sofrer coação ilegal por decisum prolatado por Desembargador do Tribunal de Justiça do Estado do Amazonas (Processo n. 4004148-71.2018.8.04.0000).
+Nesta Corte, sustenta a defesa que é da Justiça Eleitoral a competência para processar e julgar os crimes investigados, relacionados ao ora paciente.
+Requer, liminarmente e no mérito, a interrupção das "investigações desenvolvidas nos 5 Procedimentos de Investigação Criminal (PICs 1281/2018, 1547/2018, 1881/2018, 021/2019 e 1441/2019) citados na Medida Cautelar nº 0006044-86.2019.8.04.0000"e a "tramitação dos autos principais da investigação (processo nº 4004148-71.2018.4.01.0000, onde fora deferida a homologação da colaboração premiada)" (fls. 17-18).
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não conhecimento do mandamus (fls. 2.241-2.243; 2.248-2.251; 2.254-2.256).
+Decido.
+Expõem os autos que o GAECO - Grupo de Atuação Especial de Combate ao Crime Organizado, do Ministério Público do Estado do Amazonas, iniciou o Procedimento n. 040/2018, a fim de apurar suposta organização criminosa atuante no âmbito do Município de Coari, com o envolvimento do chefe do Executivo, grande parte de vereadores e empresários.
+O 1º Vice-Presidente da Câmara Municipal e vereadores da Cidade de Coari firmaram acordo de colaboração premiada com o Parquet estadual, que foram homologados por Desembargadora do Tribunal a quo (fls. 136-138; 139-141).
+Segundo o órgão ministerial, a partir, sobretudo, dos depoimentos dos colaboradores e dos dados obtidos com as cautelares autorizadas judicialmente (afastamento do sigilo bancário e fiscal e conversas alcançadas por interceptações telefônicas), foi possível inferir (a) a existência de sobrepreço em contratações pela Prefeitura de Coari; (b) ajustes entre participantes de procedimentos licitatórios; (c) o "apadrinhamento" de empresas de parentes e pessoas ligadas ao Prefeito; (d) retenção arbitrária de pagamentos para induzir o oferecimento de vantagens e (e) pagamentos em montante superior aos serviços executados (fl. 2.176).
+Feitos esses registros, passo ao exame do writ.
+De início, não constato, nos presentes autos, informação ou documento que aponte o prévio pronunciamento de órgão colegiado de segundo grau sujeito à jurisdição desta Corte Superior, aos ditames do art. 105, I, "c", da Constituição da República.
+Assim, não identifico a presença dos pressupostos constitucionais para que este Superior Tribunal para processe e julgue o mandamus.
+Ao mesmo propósito opinou o Ministério Público Federal, in verbis (fl. 2.255):
+ ..  é inviável o conhecimento do habeas corpus, conforme já decidiu esse Superior Tribunal de Justiça: "É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF" (HC 456575 /RJ; Relator: Ministro JORGE MUSSI - QUINTA TURMA; DJe 27/09/2018).
+Ademais, a tese de incompetência da Justiça Comum Estadual não foi submetida ao exame da Corte Estadual, não sendo possível alegá-la originariamente em habeas corpus perante essa Eg. Corte Superior, em clara supressão de instância.
+Tampouco vislumbro razão para superar a supressão de instância.
+Não olvido que, com efeito, a competência para conduzir e fiscalizar investigação de crime eleitoral imputado a Prefeito é da Corte eleitoral.
+Nesse sentido:
+ ..  AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS.  ..  2. COMPRA E VENDA DE MANDATO DO PREFEITO ELEITO.  ..
+1. O Plenário do STF, no julgamento do INQ n. 4.435/DF, confirmou sua jurisprudência no sentido de que compete à Justiça Eleitoral julgar os crimes comuns que sejam conexos com os crimes eleitorais, cabendo à Justiça Especializada analisar, de acordo com o caso concreto, a efetiva existência de conexão.  ..
+(AgRg no RHC n. 143.364/PB, Relator para acórdão Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 4/11/2021.)
+Nada obstante, in casu, a despeito das declarações dos colaboradores, que indicam a possível existência de ilícitos com objetivos eleitorais, em princípio, toda a investigação é direcionada para apurar a existência de organização criminosa com atuação precípua em fraudes licitatórias.
+Como realcei ao indeferir o pleito urgente, não há procedimento instaurado com vistas a investigar delitos eleitorais. "No particular", as informações prestadas fazem menção à "suposta organização  que  atuaria de maneira sistemática e com divisão de tarefas para a prática de crimes previstos nos arts. 298, 299, 312, 319, 317 e 333, todos do Código Penal, bem como dos delitos previstos nos arts. 90, 92 e 95 da Lei de Licitações, art. 1º do Decreto-Lei 201/1967 e art. 1º, § 1º c/c art. 2º, caput, da Lei n. 12.850/2013" (fl. 2.243).
+Destacou a Desembargadora do Tribunal de origem que os acordos de colaboração premiada versam sobre "recebimento de valores mensais ("mensalinho"), recebimento de vantagens indevidas, lavagem de dinheiro, fraude em licitação, entre outros tipos penais, além de informar a estrutura hierárquica e a divisão de tarefas" (fl. 136).
+Dessarte, não se aplica, ao menos pelo que exibem os autos, motivo para adotar a compreensão do Plenário do STF, firmada no AgRg no Inquérito n. 4.435/DF (DJe 21/8/2019).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
