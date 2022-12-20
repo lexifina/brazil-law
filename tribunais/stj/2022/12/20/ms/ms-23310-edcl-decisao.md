@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pela UNIÃO, contra decisão de minhalavra, que rejeitou anteriores Embargos de Declaração (fls. 444/447e).
+Inconformada, sustenta a parte embargante omissão no julgado, eis que:
+"(..) por meio das Informações acostadas a partir das fls. 62 dos autos, mais especificamente às fls. 66e, a autoridade apontada como coatora observou que a portaria de anistia na qual foram previstos os valores retroativos ora pleiteados fora anulada
+(..)
+Assim, a decisão permaneceu silente quanto à alegação de inexistência de direito líquido e certo, e quanto ao pedido de denegação da segurança, em razão da anulação da portaria de anistia Portaria/MJ 1.239, de 08/10/2002, na qual foram previstos os valores retroativos aqui pleiteados, pela Portaria nº 1.927, de 04/09/2012 (e-STJ fls. 66 e 81).
+É notório, pois, que a decisão padece de omissão e contradição, de forma que merece ser integrada, e a segurança denegada"(fls. 455/454e).
+Por fim, requer o acolhimento dos Embargos Declaratórios, com a denegação da segurança.
+Nas razões de impugnação, a parte embargada pugna pela rejeiçãodos Embargos Declaratórios (fls. 457/459e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na forma da jurisprudência do Superior Tribunal de Justiça, ""ossegundos embargos de declaração devem limitar-se a apontar os víciosporventura constatados no acórdão que julgou os primeiros embargos, sendoinadmissíveis quando se contrapõem aos argumentos delineados no arestoanteriormente impugnado (EDcl nos EDcl no AgRg na AR 3.817/MG, Rel.Ministro Teori Albino Zavascki, Primeira Turma, DJe 12/5/2008). Nessesentido, ainda: EDcl nos EDcl no REsp 1.388.789/RJ, Rel. Ministro BeneditoGonçalves, Primeira Turma, DJe 31/5/2019; EDcl nos EDcl no AgInt no AREsp1.246.879/AM, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe22/3/2019; AgInt no REsp 1.448.706/PR, Rel. Ministro Gurgel de Faria,Primeira Turma, DJe 20/6/2017; EDcl nos EDcl no AgRg no AREsp 725.166/ES,Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/10/2016" (STJ, EDclnos EDcl nos EREsp 895.119/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRASEÇÃO, DJe de 23/08/2019).
+Como se vê, na verdade, aponta a UNIÃO suposta omissão ocorrida na decisão de fls. 398/407e, cuja questão somente foiaventada nos segundos declaratórios.
+De qualquer modo, não obstante a autoridade impetrada aponte, a fl. 66e, que a portaria anistiadora fora anulada "por meio da Portaria MJ nº 1927, de 04 de setembro de 2012", não há nos autos a respectiva comprovação do alegado, eis que as informações não se fizeram acompanhar de cópia dareferida portaria.
+No entanto, consoante já assinalado na decisão ora embargada, a decisão de fls. 398/407e ressalvou, expressamente, o caso de posterior anulação da portaria anistiadora, na linha do decidido na Questão de Ordem no MS 15.706/DF, no sentido de que, "nas hipóteses de concessão da ordem, situação dos autos, ficará prejudicado o seu cumprimento se, antes do pagamento do correspondente precatório, sobrevier decisão administrativa anulando ou revogando o ato de concessão da anistia" (fl. 407e).
+Sendo assim, não há que se falar em omissão no julgado.
+Ante o exposto, rejeito os Segundos Embargos Declaratórios,com advertência de que nova oposição de Embargos de Declaração, considerados protelatórios, implicará imposição de multa.
+I.
