@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpusinterposto por JADER JOSÉ BRAGA em face de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais.
+Questiona o recorrente, em síntese, a manutenção de sua prisão preventiva pela sentença condenatória contra ele prolatada, pugnando pela oportuna revogação.
+É o relatório.
+Decido.
+O presente recurso não pode ser conhecido.
+Com efeito, a manutenção da prisão preventiva do recorrente em sede de sentença penal condenatória preservou hígidos os fundamentos da decretação da prisão preventivalançados pelas instâncias ordinárias e exaurientemente examinados por esta Corte no âmbito do pedido de extensão no RHC n. 166.429/MG e no RHC n. 166.527/MG, o que implica no reconhecimento de que o presente recurso é mera reiteração dos pedidos formulados nessas duas irresignações ora mencionadas, o que se veda pela jurisprudência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TIPIFICADO NO ART. 33, CAPUT, C/C O ART. 40, IV, AMBOS DA LEI N. 11.343/2006. NULIDADE. DOSIMETRIA DA PENA. REITERAÇÃO DE PEDIDOS FORMULADOS EM OUTRO WRIT. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. NÃO OFERECIMENTO DE ALEGAÇÕES FINAIS. INOCORRÊNCIA. PEDIDO DE ABSOLVIÇÃO. INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As alegações de que o HD apreendido na residência do paciente não continha filmagens no local dos fatos, o que ensejaria a nulidade do feito, bem como sobre a dosimetria da pena (configuração de maus antecedentes com base em pena esta extinta com perdão judicial e bis in idem entre os maus antecedentes e a reincidência), constituem mera reiteração do HC n. 763.437/RJ, o que é amplamente rechaçado pela jurisprudência desta Corte Superior.
+2. Na hipótese, não há falar em impossibilidade de oferecimento de alegações finais em favor do paciente, tendo em vista que, em razão da inércia do patrono constituído, o paciente foi intimado para indicar novo advogado de sua confiança, an tes de se proceder à nomeação da Defensoria Pública para o exercício do contraditório.
+Após, o paciente constituiu novo advogado e, em 14/4/2021, a defesa apresentou as alegações finais em seu favor, motivo pelo qual não há falar no alegado impedimento para apresentação da referida peça defensiva.
+3. Quanto ao pleito de absolvição, verifica-se que a Corte local, soberana na análise dos fatos e provas, manteve, de forma fundamentada e com base no acervo probatório dos autos, a condenação do paciente pelo crime de tráfico de drogas, em especial pelos seguros depoimentos dos policiais militares, pelas circunstâncias da prisão, bem como a apreensão de farta quantidade e variedade de material entorpecente, arma de fogo, munições, "kit rajada", carregador, eletroeletrônicos e uma mochila. Rever tal entendimento enseja o revolvimento do material fático-probatório amealhado ao processo, o que é vedado nesta instância superior.
+4. Agravo regimental a que se nega provimento.(AgRg no HC n. 779.236/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022.)
+Ante o exposto, com fulcro no art. 34, inciso XVIII,a, do RISTJ, não conheço do recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
