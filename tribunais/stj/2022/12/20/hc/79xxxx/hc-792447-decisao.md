@@ -1,0 +1,12 @@
+DECISÃO
+O presentewrit, impetrado em benefício deMarcilio Alves Feitosa-preso preventivamente pela suposta prática do delito de homicídio qualificado -contra o ato coator do Tribunal de Justiça do Ceará, que indeferiu o pedido liminar nowritali impetrado (Habeas Corpusn. 0640305-66.2022.8.06.0000), não comporta processamento.
+Com efeito, busca a impetração a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal, a fim de que seja revogadaa prisão preventiva do paciente (Autos n. 0054613-71.2013.8.06.0001), alegando ausência de contemporaneidade do decreto preventivo, bem como excesso de prazo na formação da culpa.
+Da análise da decisãoa quo,observa-se que o Relator nem sequer se manifestou acerca dos pleitos trazidos nesta impetração, solicitando informações ao Juízo singular, e nisso não há nenhuma necessidade de reparo,uma vez que prudente e legítimo ao julgador para melhor formular seu livre convencimento, razão pela qual inexiste teratologia ou ilegalidade capaz de justificar a superação do óbice sumular.
+Ademais, acerca do alegado excesso de prazo, o Magistrado singular ressaltou queo feito tem tido tramitação regular, sendo de se observar, ainda, que se trata de processo complexo, com expedição de cartas precatórias, até mesmo para interrogatório do réu.Ademais, deve-se destacar que que o feito já conta com sentença de pronúncia, além de recurso apresentado pela Defesa e o pronto julgamento do TJCE, conforme acórdão de fls. 461/470.De se ressaltar, ainda, que foi designada sessão plenária do júripara o dia 19/11/2020, a qual foi adiada, a pedido da própria Defesa, conforme decisão de fls. 710/711, sendo que a nova data apontada, 18/02/2021, restou prejudicada em razão dos efeitos da pandemia, conforme decisão de fls. 789/790(fl. 201- grifo nosso).
+Segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais;a questão deve ser aferida conformeos critérios de razoabilidade.
+Nesse sentido: AgRg no RHC 123.274/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/8/2020.
+Em face do exposto, com fulcro no art. 210 do RISTJ,indefiro liminarmentea inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. CONTEMPORANEIDADEE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SÚMULA 691/STF. INCIDÊNCIA. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA.
+Inicial indeferida liminarmente.
