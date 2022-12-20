@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula 7/STJ e desatendimento aos requisitos do art. 1.029, § 1º, do CPC.
+Defende Felício Tadeu Bragante:
+Alegou-se, a nulidade da cobrança executiva, levando em conta várias CDA"s, de exercícios diversos, de IPTU, o que macula de morte o devido processo legal, e, no caso, como se desanuvia, foi crucial para que houvesse enorme confusão entre os argumentos, e as provas, logo, da subsunção correta do alegado pela Agravante, inclusive calcada em prova extrajudicial, mas de grande relevância, além do tumulto causado por vários processos administrativos, dos vários exercícios, como dito, ponto relevante para que se levasse em erro o julgador, e o acórdão, como demonstrado empiricamente.
+ ..
+Daí temos o julgado que atentou frontalmente com o artigo 1.022, I a III, do CPC, já que foi lacônico, em afastar a integração pretendida, aludindo que não haveria contradição, omissão, ou obscuridade, e que não haveria também erro material.
+ ..
+Como já demonstrado acima, de proêmio, ao repisar os embargos de declaração, o acórdão, houve negativa de vigência, ao se entender possível a cobrança de IPTU numa mesma CDA em vários exercícios fiscais, em claro atentado, que se mostra mais que patenteado pelas nuances da lide, onde se denegou que o IPTU sobre área rural, ainda não contemplada por todos os equipamentos urbanos, se admitisse o lançamento, que foi contestado, até administrativamente, mas cuja cobrança que admite o enriquecimento sem causa, inconstitucional e ilegal, da Recorrida, em claro atentado ao artigo 202, e incisos c/c 203, do CTN, desprestigiados.
+ ..
+Contraminuta às fls. 456-460, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14 de dezembro de 2022.
+A irresignação não merece acolhida. O Tribunal de origem consignou:
+De proêmio, rechaça-se a argumentação do apelante quanto à suposta omissão do juízo a quo em analisar o laudo juntado. Da leitura atenta da sentença verifica-se que o magistrado sentenciante bem analisou os documentos juntados pelo embargante, destacando-se o seguinte trecho para melhor compreensão:
+"No intuito de comprovar a ausência dos requisitos do artigo 32, do CTN, a embargante procurou reforçar seus argumentos com os documentos de fls. 201/221, onde demonstra a necessidade da atuação da SANASA para implantar o sistema de esgotamento sanitário e abastecimento de água, moldando-se às Diretrizes Urbanísticas/Desmembramento de gleba em lotes.
+No entanto, observa-se que a determinação da referida obra pela SANASA foi necessária para executar a Diretriz nº 3.406 - revisão, estipulada pela Gerência de Planejamento e Projetos, dando-se vida ao Empreendimento Imobiliário, de categoria não singular, com uma concentração populacional equivalente a 6.420 habitantes.
+ ..
+Não há, portanto, qualquer nulidade a ser sanada, não estando o juízo a quo adstrito ao laudo elaborado pelo assistente da parte, nos exatos termos do disposto no art. 479 do CPC.
+Quanto aos melhoramentos exigidos pelo art. 32 do CTN, de rigor a manutenção da sentença, eis que demonstrado pela Municipalidade, em especial às fls. 269/282, que o imóvel se encontra servido de rede de iluminação, guias, sarjetas, ruas pavimentadas e canalização de águas pluviais, havendo declaração de moradores da região em 2014 de que no local já haviam benfeitorias implantadas há mais de 10 anos.
+Ademais, instada a especificar provas (fls. 263) o embargante nada requereu, demonstrando desinteresse na dilação probatória.
+No que tange à aventada nulidade da cobrança, em razão da aglutinação dos débitos em um único lançamento, é sabido que devem ser observados os requisitos formais contidos no art. 2º, par. 5º, da Lei de Execuções Fiscais.
+Da análise da CDA encartada (fls. 25/27), constata-se que o título executivo indica sujeito passivo, natureza do débito (IPTU), fundamentação legal e o montante da dívida, bem como há referência aos encargos incidentes, ao processo administrativo, inclusive com as datas das decisões em 01 º (07/03/2014) e 2 º instância (07/08/2015) informações que, dentre outras, bastam para que o contribuinte se inteire a respeito da cobrança, afastando a hipótese de cerceamento de defesa: com efeito, não há nulidade sem prejuízo. Ademais, os lançamentos ora impugnados foram exaustivamente discutidos no processo administrativo, como se vislumbra dos documentos juntados com a inicial.
+Por fim, no que pertine a alegada decadência do exercício de 2002, dos documentos juntados verifica-se que o exercício de 2002 foi impugnado através do protocolado 2002/0/17209 (fls. 78), havendo, portanto, suspensão da exigibilidade do crédito tributário, conforme se verifica do procedimento 2008/10/56970, anexado aos autos pelo próprio embargante.
+Do exposto, NEGA - SE PROVIMENTO ao recurso, majorando-se a verba honorária para 09 % do valor atualizado da causa.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Da leitura atenta do Voto condutor, vê-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+A alteração das conclusões adotadas pela instância ordinária, no que diz respeito à integridade da CDA, da inexistência de cerceamento de defesa, ou a urbanidade do terreno demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ". Neste sentido o AgInt no AREsp 1.190.608/PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24.4.2018.
+Determino a majoração dos honorários advocatícios em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
