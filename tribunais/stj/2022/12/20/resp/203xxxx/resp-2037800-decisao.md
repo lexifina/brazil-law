@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por LILIAN KAITING CHUANG WANG, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 60-65, e-STJ):
+Agravo de Instrumento. Cumprimento de sentença provisório. Honorários advocatícios. Não houve decisão sobre a justiça gratuita concedida aos demais réus; excesso de execução e solidariedade entre os réus. A impugnação ao cumprimento de sentença apresentada pelo agravante, ainda não foi apreciada pelo Juiz de Primeira Instância. Não conhecimento, sob pena de supressão de grau de jurisdição. Possibilidade de propositura do cumprimento provisório de sentença antes do trânsito em julgado, mesmo pendente de julgamento embargos de declaração (artigo 1.026 do CPC). Dispõe o Enunciado 218 do Fórum Permanente de Processualistas Civis: A inexistência de efeito suspensivo dos embargos de declaração não autoriza o cumprimento provisório da sentença nos casos em que a apelação tenha efeito suspensivo. No caso dos autos a apelação é dotada de efeito suspensivo. Não poderia a autora dar início ao cumprimento provisório de sentença. Execução provisória extinta. Decisão reformada. Litigância de má-fé. Não configurada. RECURSO PROVIDO na parte conhecida.
+Opostos embargos de declaração, esses foram rejeitados .
+Nas razões do recurso especial (fls. 206/218, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i)520, 995, 1.012, §1º, inciso II e 1.026, todos do Código de Processo Civil, sustentando que o os embargos de declaração não possuem efeito suspensivo e, por tal razão, não impedem o prosseguimento do cumprimento provisório de sentença.
+Contrarrazões às fls. 229/242, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1.A respeito do tema, esta Corte vem se pronunciando no sentido de que, em regra, o recurso de natureza integrativa não tem, de fato, efeito suspensivo.
+Nesse sentido, convém mencionar excerto de julgado de lavra do Ministro Moura Ribeiro, nos autos do AgInt no REsp 1.842.550/DF (TERCEIRA TURMA, julgado em 10/8/2020, DJe 14/8/2020):
+.. o NCPC dispõe expressamente no art. 1.026, caput, que os embargos de declaração não possuem efeito suspensivo, podendo ser conferido de forma excepcional, ante a necessária demonstração da probabilidade de provimento do recurso ou, caso relevante a fundamentação, exista risco de dano grave ou de difícil reparação, nos termos do § 1º do referido artigo.
+Veja-se:
+CIVIL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. DECISÃO INTERLOCUTÓRIA QUE DEFERE A REALIZAÇÃO DE TERCEIRA PERÍCIA. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. IMPETRAÇÃO DE MANDADO DE SEGURANÇA CONTRA A MESMA DECISÃO INTERLOCUTÓRIA. IMPOSSIBILIDADE. SÚMULA 267/STF. IMPUGNAÇÃO DA INTERLOCUTÓRIA DIFERIDA NO TEMPO. ADMISSIBILIDADE. INTERPOSIÇÃO DE RECURSO E IMPETRAÇÃO DE MANDADO DE SEGURANÇA CONCOMITANTEMENTE. IMPOSSIBILIDADE. SUPERAÇÃO DA JURISPRUDÊNCIA FIXADA NA VIGÊNCIA DO CPC/73. POSSIBILIDADE DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS RECURSOS, EM SENTIDO AMPLO, POR SIMPLES REQUERIMENTO E POR OBRA DO JUIZ. ILEGALIDADE OU TERATOLOGIA NA DECISÃO QUE NÃO CONHECE DO AGRAVO. INEXISTÊNCIA. SINTONIA DA DECISÃO COM PRECEDENTE DESTA CORTE. ILEGALIDADE OU TERATOLOGIA NA DECISÃO QUE DEFERE A REALIZAÇÃO DA TERCEIRA PERÍCIA. INEXISTÊNCIA. DECISÃO FUNDAMENTADA NA INCONCLUSIVIDADE DAS PROVAS ANTERIORES E NA REMANESCÊNCIA DE DÚVIDA SOBRE A MATÉRIA FÁTICA. PODER INSTRUTÓRIO DO JUIZ.
+ ..
+4- Não mais subsiste a jurisprudência da Corte que, à luz do sistema recursal do CPC/73 em sua versão originária, admitia a interposição de recurso em concomitância com a impetração do mandado de segurança, sendo este com o propósito específico de atribuir efeito suspensivo àquele, uma vez que todos os recursos previstos na legislação processual em vigor contemplam a possibilidade de atribuição de efeito suspensivo, por requerimento realizado no próprio processo e por obra do juiz.
+ ..
+6- Recurso ordinário conhecido e desprovido, prejudicado o exame do agravo interno interposto contra a decisão unipessoal que havia negado a atribuição de efeito suspensivo ao recurso.(RMS 60.641/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 5/11/2019, DJe 7/11/2019)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO JUDICIAL. DESCABIMENTO.
+1 - Não cabe mandado de segurança contra ato judicial passível de recurso, no caso concreto uma decisão monocrática de relator que, com base no art. 120 do CPC e em súmula desta Corte (363/STJ), decide conflito de competência.
+2 - É impróprio e descabido o manejo do writ para emprestar efeito suspensivo a embargos de declaração, via integrativa por excelência que, a rigor e em tese, não se presta à confrontação e muito alteração do decisum, notadamente na espécie, onde demonstrado o acerto do julgamento que se baseia em jurisprudência iterativa.
+3 - Agravo regimental desprovido.(AgRg no MS 14.769/DF, Rel. Ministro FERNANDO GONÇALVES, Corte Especial, j. em 17/3/2010, DJe 29/3/2010)
+No mesmo sentido do precedente acima:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL DESERTO. DESPACHO PRESIDENCIAL QUE DETERMINA A JUNTADA DO COMPROVANTE DE PAGAMENTO EM DOBRO DO PREPARO (ART. 1.007, § 4º, DO CPC/2015). EMBARGOS DE DECLARAÇÃO QUE NÃO SUSPENDEM A EFICÁCIA DA DETERMINAÇÃO DA PRESIDÊNCIA. INTELIGÊNCIA DO ART. 1.026, CAPUT, DO CPC/2015. RECOLHIMENTO TARDIO DAS CUSTAS EM DOBRO. DESERÇÃO CONFIRMADA.
+1. Devidamente intimada a efetuar o pagamento em dobro do preparo do recurso especial, a parte agravante assim o fez somente depois de esgotado o prazo indicado no despacho da presidência do STJ, atraindo, com isso, a pena de deserção.
+2. Não tendo a parte recorrente postulado efeito suspensivo aos embargos de declaração que opôs contra o provimento que determinou o recolhimento em dobro do preparo, o pagamento de tal encargo pecuniário somente após o julgamento dos aclaratórios, quando já transcorrido o prazo a tanto consignado, não tem o condão de afastar a deserção.
+3. De acordo com o art. 1.026, caput, do CPC/2015, os embargos de declaração não suspendem a eficácia da decisão contra a qual são opostos, mas somente interrompem o prazo para a interposição de posterior recurso pelas partes.
+4. Agravo interno a que se nega provimento.(AgInt nos EDcl no REsp 1690933/PR, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+A regra, que decorre do texto expresso do art. 1.026 do Código de Processo Civil, é de que os embargos de declaração não possuem efeito suspensivo, ou seja, não impedem o curso do prazo para a prática de atos executórios ou mandamentais.
+O acórdão recorrido está, portanto, em dissonânciacom o entendimento desta Corte e com o texto expresso da lei.
+2.Do exposto, dá-se provimento ao recurso, para determinar o prosseguimento do cumprimento provisório de sentença.
+Publique-se.
+Intimem-se
