@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TIAGO FREIRE DE OLIVEIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.284701-4/000).
+Consta dos autos que o paciente foi preso em flagrante no dia 25/11/2022 - depois preso preventivamente em 1º/12/2022-em razão da suposta prática dodelitotipificadono art. 180, caput, do Código Penal.
+De acordo com o auto de prisão em flagrante (e-STJ fls. 23/140),os envolvidos foram flagrados com um número considerável de aparelhos celulares e caixas de som, bens que supostamente foram produto do crime defurto.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual, alegando, em síntese,constrangimento ilegal gerado pela concessão da liberdade provisória mediante pagamento de fiança de R$ 10.000,00, ressaltando que o paciente não tem condições financeiras de arcar com tal valor, bem como o fato de ser primário, de bons antecedentes e possuir residência fixa.
+O Tribunal a quo, contudo, denegou a ordem, nos termos do acórdão assim ementado (e-STJ fl. 15):
+HABEAS CORPUS - RECEPTAÇÃO - LIBERDADE PROVISÓRIA MEDIANTE PAGAMENTO DE FIANÇA - PRISÃO PREVENTIVA DECRETADA POSTERIORMENTE - PEDIDO PREJUDICADO. Com a decretação da prisão preventiva do paciente, resta prejudicada a análise do pedido, visto que a medida constritiva encontra-se justificada por novo título judicial.
+Na presente oportunidade (e-STJ fls. 3/14), a defesa aponta ausência dos requisitos autorizadores da prisão preventiva descritos no art. 312 do Código de Processo Penal.
+Diante disso, pede, liminarmente e no mérito, a revogação da segregação cautelar do paciente.
+É o relatório. Decido.
+Não obstantea defesa indique a falta dos requisitos para a decretação da custódia cautelar, verifico que a tese não foi examinada pela Corte estadual, o que obsta a apreciação por este Tribunal Superior, sob pena de indevida supressão de instância.
+Como cediço, matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância(AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)(AgRg no HC n. 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Além disso, observa-se que o presente writ configura reiteração do HC 792849/MG, o que igualmente inviabiliza o exame das alegações.
+É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido(AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
