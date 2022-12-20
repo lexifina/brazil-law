@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo, com pedido liminar, impetrado em favor de DEIVIS RAFAEL LIMA DE OLVEIRA contra acórdão do Tribunal de Justiça de São Paulo (Apelação Criminal nº 1521638-78.2021.8.26.0228).
+Consta dos autos que o paciente foi condenado como incurso no art. 171, caput, c. c. o art. 14, II, ambos do Código Penal, à pena de 8 meses e 12 dias de reclusão, em regime inicial semiaberto, além do pagamento de 6 dias-multa.
+Defesa e acusação interpuseram recurso de apelação, sendo em parte provido o defensivo e desprovido o acusatório, nos termos de acórdão que recebeu a seguinte ementa:
+"APELAÇÃO CRIMINAL ESTELIONATO CONDENAÇÃO RECURSOS DEFENSIVO E MINISTERIAL FATOS DEVIDAMENTE COMPROVADOS CONDENAÇÃO MANTIDA PENA-BASE MANTIDA AFASTAMENTO DA AGRAVANTE DO ART. 61, II, "G", DO CP INSUFICIÊNCIA PROBATÓRIA REGIME INICIAL SEMIABERTO MANTIDO RECURSO DEFENSIVO PARCIALMENTE PROVIDO E RECURSO MINISTERIAL NÃO PROVIDO." (fl. 21, e-STJ)
+Em razões, a Defensoria Pública alega que o estabelecimento do regime inicialmente fechado é ilegal, pois, ainda que o paciente seja reincidente, a vítima não teve prejuízo e o valor do estelionato frustrado era ínfimo.
+Requer, liminarmente e no mérito, seja fixado o regime aberto para o início do resgate da reprimenda.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A sentença assim procedeu à dosimetria:
+"Na primeira fase, verifico que o réu ostenta quatro condenações anteriores, sendo apenas uma delas apta a gerar reincidência (fls.33/37e85/96), assim com fundamento nas circunstâncias judiciais do art. 59 do CP, fixo a pena-base acima do mínimo legal, majorando-a em1/6, iniciando assim em 01ano e 02meses de reclusão e pagamento de 11 dias-multa.
+Na segunda fase, inexistem circunstâncias atenuantes a serem consideradas. Contudo, presente a agravante da reincidência (fls.85/96) e a agravante do crime praticado no exercício de profissão por se valer de sua atividade de entregador para obtera vantagem indevida (artigo 61, inciso II, alínea "g" , do Código Penal). Assim, majoro a pena em 1/5, perfazendo 01 ano, 04 meses e 24 dias de reclusão e pagamento de 13 dias-multa.
+Na terceira fase, verifico que não há causas de aumento de pena, contudo sendo o crime tentado, deverá apena ser diminuída de 1/2 em razão do iter criminis percorrido, pois o entregar apresentou a "maquininha" para receber o pagamento, aproximando-se da consumação.
+Desta feita, torno definitiva a pena do acusado em 08 meses e 12 dias de reclusão e pagamento de 06 dias-multa. Em razão da reincidência, impossível a substituição da pena ou aplicação do Sursis. Por sua vez, considerando que o acusado estava em liberdade desde14/12/2015, bem como com base na quantidade de pena estabelecida, fixo o regime semiaberto para inicio do cumprimento da pena." (fl. 18, e-STJ)
+O Tribunal de origem manteve o regime mais grave sob a seguinte motivação:
+"Em que pese o cabimento, a princípio, do regime inicial fechado pleiteado pelo Ministério Público, nos termos do art. 33, § 3.º,do Código Penal, em razão da circunstância judicial negativa e da reincidência, desproporcional o regime mais gravoso à uma pena tão branda, inferior a um ano de reclusão.
+Dessarte, permanece o regime inicial semiaberto, pois incabível o aberto, ex vi o art. 33, § 2.º, "c", do Código Penal, que o reserva aos condenados primários." (fls. 24-25, e-STJ)
+No caso dos autos, as instâncias ordinárias estabeleceram a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada uma circunstância judicial (art. 59 do CP), o que, por si só, permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do Código Penal.
+Outrossim, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor.
+Aplica-se ao caso, a contrario sensu, a Súmula n.º 269 do STJ.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CRIME IMPOSSÍVEL. PRINCÍPIO DA INSIGNIFICÂNCIA. FORMA CONSUMADA. REGIME.
+1. A tese de crime impossível não foi apreciada na origem. Trata-se de supressão de instância. Além disso, o agravante, nas razões do agravo regimental, não impugnou esse fundamento.
+2. Inviável a aplicação do princípio da insignificância, pois, além de se tratar de furto qualificado, o agravante possui maus antecedentes e é reincidente em crimes da mesma natureza.
+3. É "assente a adoção da teoria da amotio por esta Corte e pelo Supremo Tribunal Federal, segundo a qual os referidos crimes patrimoniais consumam-se no momento da inversão da posse, tornando-se o agente efetivo possuidor da coisa, ainda que não seja de forma mansa e pacífica, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima" (HC n. 495.846/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 4/6/2019, DJe de 11/6/2019.)
+4. Inviável a fixação do regime semiaberto, a despeito de a pena ser inferior a 4 anos, pois o paciente é reincidente e a pena-base foi fixada acima do mínimo legal em razão da existência de circunstâncias judiciais desfavoráveis.
+5. Agravo regimental desprovido." (AgRg no HC n. 755.713/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
