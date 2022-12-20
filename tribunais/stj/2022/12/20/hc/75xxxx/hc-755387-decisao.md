@@ -1,0 +1,20 @@
+DECISÃO
+PAULO DA CONCEIÇÃO NASCIMENTO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação Criminal n. 0374771-48.2016.8.09.0175.
+Nesta impetração, a defesa aponta a ausência de fundamentação idônea para a valoração negativa das consequências do crime.
+Requer a fixação da pena-base no mínimo legal e a substituição da reprimenda por uma restritiva de direitos e multa.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 555-569).
+Decido.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano e 6 meses de reclusão mais 18 dias-multa, em regime aberto, pela prática do delito previsto no art. 180, caput, do Código Penal. A reprimenda privativa de liberdade foi substituída por duas restritivas de direitos.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+No caso, o Juiz de primeiro grau considerou negativas as consequências do delito, "haja vista que houve danos na ignição da motocicleta" (fl. 375, destaquei).
+A Corte de origem manteve a exasperação da pena-base, porquanto "o juiz a quo sopesou a "extensão do dano patrimonial" causado à vítima do crime de furto, por ter sido o veículo encontrado com avarias" (fl. 540, grifei).
+Reputo ilegítima a fundamentação adotada, haja vista que a não recuperação ou a recuperação parcial da res furtiva é decorrência comum dos delitos patrimoniais e não há, ademais, qualquer menção na sentença, ou no acórdão, de que as ditas avarias hajam sido causadas pelo paciente.
+Deveras: "O fato de não ter havido a restituição dos bens subtraídos não autoriza, por si só, a valoração desfavorável das consequências do crime" (HC n. 287.449/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 12/3/2015).
+Dessa forma, identifico a violação legal apontada, para afastar a valoração negativa da referida circunstância judicial e passo à nova dosimetria.
+Na primeira fase, afastada a análise desfavorável das consequências do delito, fixo a pena-base no mínimo legal, 1 ano de reclusão mais 10 dias-multa, que assim fica definitivamente estabelecida, ante a ausência de circunstâncias agravantes e atenuantes, bem como de causas de aumento ou de diminuição.
+Diante do patamar da sanção, da natureza do crime (sem violência ou grave ameaça) e da favorabilidade de todas as circunstâncias judiciais, a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade por uma restritiva de direitos, a qual deverá ser estabelecida pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, concedo a ordem, para afastar a análise negativa das consequências do delito, e redimensiono a sanção para 1 ano de reclusão mais 10 dias-multa, substituída a pena privativa de liberdade por uma restritiva de direitos, a qual deverá ser estabelecida pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias de origem, para as providências cabíveis.
+Publique-se e intimem-se.
