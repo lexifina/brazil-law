@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANDRÉ GIVAGO SCHAEDLERPACHECO, contradecisão de fl. 122 (e-STJ) que negou pedido de reconsideração.
+Neste recurso, o embargante repisa os argumentos que informaram ainicialmandamental.
+Pleiteia o acolhimento dos embargos declaratórios a fim de quesejaconcedida a ordem de habeas corpus nos moldes da inicial.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Isso porque, nos termos do art. 619 do Código de Processo Penal,osembargos de declaração, como recurso de correção, destinam-se asupriromissão, contradição, ambiguidade ou obscuridade existente emjulgado. Nãose prestam, portanto, para revisão, por mero inconformismo daparte, dedecisão já tomada.Sobre o tema:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEASCORPUS. ART. 619 DO CPP. OMISSÃO. VÍCIO AUSENTE.
+1. O cabimento dos embargos de declaração está vinculado à demonstração deque a decisão embargada apresenta um dos vícios previstos no art. 619 doCódigo de Processo Penal, quais sejam, ambiguidade, obscuridade,contradição ou omissão, o que não se verifica no caso dos autos.
+2. O acórdão proferido pela Sexta Turma foi claro ao afirmar que, comrelação às buscas veicular e pessoal, a Corte de origem destacou que "ospoliciais  ..  afirmaram que tinham informações, de meses anteriores, deque o acusado estava perpetrando o tráfico na cidade de Blumenau; querecentemente receberam denúncias anônimas informando que o réu haviaadquirido o veículo Citroen C4 Pallas, cor prata, placas LXR2163, e quefazia entrega do entorpecente com o referido automóvel, assim como de queestaria residindo com sua esposa no Condomínio Residencial Manacas; que,após a abordagem do referido veículo, constataram que o apelante traziaconsigo 6 (seis) porções de maconha embaladas e etiquetadas, prontas paravenda".Dessa forma, nota-se que as buscas veicular e pessoal encontram-sejustificadas nas informações prévias e na apreensão de droga em poder doagente.
+3. Ademais, "o julgador não está obrigado a responder a todas as questõessuscitadas pelas partes quando já encontrado motivo suficiente paraproferir a decisão, não servindo os aclaratórios para rediscussão dojulgado" (EDcl no AgRg no HC n. 520.357/SP, relator Ministro NEFICORDEIRO, SEXTA TURMA, julgado em 10/12/2019, DJe 12/12/2019).
+4. Embargos de declaração rejeitados."(EDcl no AgRg no HC n. 692.646/SC, relator Ministro Antonio SaldanhaPalheiro, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DEDROGAS. PRISÃO PREVENTIVA. VÍCIOS INEXISTENTES.
+1. Os embargos de declaração são admitidos tão somente quando evidenciadadeficiência no acórdão recorrido, consistente em obscuridade, contradição,ambiguidade ou omissão, situações que não se fazem presentes.
+2. Ficou positivado que, diante da quantidade de drogas apreendidas (44,8gramas de maconha e 98,9 gramas de cocaína) - elementar, inclusive, dotipo penal previsto no art. 33, caput, da Lei nº 11.343/2006 -, ascircunstâncias em apreço não exigiriam medida tão gravosa como a custódiacautelar, mormente por cuidar-se de réu tecnicamente primário.
+3. Quanto ao risco de reiteração delitiva, são suficientes as medidascautelares previstas no art. 319/CPP, as quais, por si sós, já restringema liberdade do réu.
+4. Embargos de declaração rejeitados."(EDcl no AgRg no HC n. 712.086/SP, relator Ministro Olindo Menezes(Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022.)
+"PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃONO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃOOCORRÊNCIA. NÃO APLICAÇÃO DO ART. 540 DO CÓDIGO DE PROCESSO PENAL MILITAR- CPPM. PRECEDENTES. INTEMPESTIVIDADE DOS EMBARGOS OPOSTOS APÓS O PRAZO DE2 DIAS. EMBARGOS REJEITADOS.
+1. São intempestivos os embargos de declaração opostos após o prazo de 2(dois) dias contínuos de que tratam os arts. 263, do Regimento Interno doSuperior Tribunal de Justiça - RISTJ, 619 e 798, ambos do Código deProcesso Penal - CPP (EDcl no AgRg nos EDcl no AREsp n. 1.866.505/DF,relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/4/2022).
+2. Conforme jurisprudência desta Corte, o prazo previsto no art. 540 doCódigo de Processo Penal Militar é aplicado unicamente contra decisumproferido pelo Superior Tribunal Militar - STM, não sendo adotado naoposição de aclaratórios perante esta Corte Superior.Precedentes.
+3. Embargos de declaração rejeitados."(EDcl nos EDcl no AgRg no AREsp n. 2.020.203/RS, relator Ministro JoelIlan Paciornik, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022.)
+No caso, a decisão foi clara ao asseverar que "Não se vislumbraconstrangimento ilegal passível de correção pela via do habeas corpus, nocaso concreto, considerando que não resta evidenciada nenhuma ameaça oupossibilidade de restrição, ainda que de forma indireta ou reflexa, aodireito de locomoção do paciente/impetrante." (fl. 43, e-STJ).
+Ante o exposto, rejeito os embargos de declaração.
+Retornem os autosà Vice-Presidência desta Corte para fins de juízo de admissibilidade do Recurso Extraordinário interposto às fls. 60-64, e-STJ.
+Publique-se. Intimem-se.
