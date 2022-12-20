@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por VITOR MENDES RUIZ contra decisão do Tribunal de Justiça do Estado do Pará, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+A defesa aponta negativa de vigência ao artigo 33, § 4º, da Lei 11.343/06, alegando, em suma, que o recorrente faz jus à aplicação da minorante do tráfico privilegiado na fração de 2/3, pois é primário, possui bons antecedentes, não se dedica à prática de atividades criminosas, tampouco integra organização criminosa.
+Requer, assim, seja dado provimento ao recurso, a fim de se aplicar o mencionado redutor em grau máximo (e-STJ, fls. 365-369).
+Foram apresentadas as contrarrazões (e-STJ, fls. 376-380).
+O recurso foi inadmitido sob o fundamento de que a pretensão recursal encontrariaóbice na Súmula 83 do STJ (e-STJ, fls. 381-386). Daí este agravo (e-STJ, fls. 389-393).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ, fls. 415-417).
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+Consoante se verifica dos autos, o réu, em 1ª instância, foi condenado como incurso nas sanções do artigo 33, caput, e 35, ambos da lei 11.343/06 - crime de tráfico e associação para o tráfico de drogas -, ao cumprimento das penas de 05 anos de reclusão e 500 dias-multa (pelo crime de tráfico) e 03 anos de reclusão e 700 dias-multa (pelo crime de associação para o tráfico de drogas). Reconhecido o concurso material, a pena total restou fixada no total de 08 anos de reclusão, e 1.200 dias-multa, a ser cumprido em regime inicialmente fechado.
+O Tribunal a quo, por sua vez, deu provimento à apelação defensiva para absolver os apelantes da prática do crime de associação para o tráfico (art. 35, da Lei 11.343/06), reconhecer a causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas e redimensionar a pena aplicada a ambos, para o patamar de 4 anos e 2 meses de reclusão, e 417 dias-multa, em regime semiaberto.
+Por ocasião da aplicação da pena relativa ao crime de tráfico de entorpecentes, a 2ª Turma de Direito Penal do TJPA entendeu que a redutora do tráfico privilegiado não poderia ser aplicada em seu índice máximo de 2/3, sob o fundamento de que a natureza do entorpecente (cocaína) altamente viciante, aliada à quantidade apreendida (41 invólucros), justificaria a adoção de fração inferior (e-STJ, fls. 206-207).
+Sobre o tema, cumpre ressaltar que é assente neste Superior Tribunal de Justiça o entendimento segundo o qual é possível a valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 - neste último caso ainda que sejam os únicos elementos aferidos -, desde que não tenha sido considerada na primeira fase do cálculo da pena (HC n. 725.534/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 27/4/2022, DJe de 1/6/2022).
+No caso dos autos, foram apreendidos 41 invólucros de cocaína, com peso líquido total de 11,4g. Embora a quantidade de entorpecente apreendida não seja ínfima, também não se mostra exorbitante a ponto de impedir a aplicação da referida redutora no seu patamar máximo.
+Desse modo, considerando-se ainda a primariedade e os bons antecedentes do réu, é de rigor a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3.
+Nesse sentido:
+" ..
+1 - A incidência da minorante prevista no § 4º, do art. 33, da Lei n. 11.343/2006, pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2 - Na hipótese, embora a agravada fosse primária e possuísse bons antecedentes, a minorante foi afastada com base na existência de ação penal em curso.
+3 - A Quinta Turma desta Corte, alinhando-se ao entendimento sufragado no Supremo Tribunal Federal, além de buscar nova pacificação no âmbito do Superior Tribunal de Justiça, consignou que a causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, inciso LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020), (HC 6.644.284/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/9/2021).
+4 - Na espécie, não havendo prova da dedicação do agente à atividade criminosa, inexistia óbice à aplicação da causa de diminuição.Tendo em vista a quantidade não elevada das drogas apreendidas - 7,75 gramas de cocaína e 160,55 gramas de maconha -, era mesmo possível a aplicação da fração máxima da redutora, em 2/3.
+5 - Agravo regimental a que se nega provimento." (AgRg no AREsp n. 2.077.006/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Assim, uma vez aplicada a redutora no seu patamar máximo, fica a reprimenda do recorrente definitivamente estabelecida em 1 ano e 8 meses de reclusão, mais 166 dias-multa.
+O regime inicial deve ser o aberto, nos termos do art. 33, § 2º, "c", e § 3º, do CP.
+Preenchidos os requisitos do art. 44 do Estatuto Repressor, substitui-se a sanção corporal porrestritivas de direitos, a serem fixadas pelo juízo das execuções penais.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b" e "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de aplicar a fração máxima do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 e reduzir a pena do recorrente, nos termos da fundamentação.
+Por força do art. 580 do Código de Processo Penal, estendo os efeitos desta decisão à corré Ediely Alves dos Santos.
+Publique-se. Intimem-se.
