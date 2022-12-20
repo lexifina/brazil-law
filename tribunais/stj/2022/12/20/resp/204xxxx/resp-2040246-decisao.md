@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DO ART. 1.022 DO CPC AUSENTES. REDISCUSSÃO DE MATÉRIA. IMPOSSIBILIDADE.
+1. A robustez na fundamentação do acórdão embargado dispensa maiores digressões, na medida em que explicita à exaustão suas razões, analisando a presente causa com a profundidade e a pertinência exigidas em uma Corte de Apelação (conforme relatório, voto e ementa que "per relationem" passam a integrar a fundamentação deste julgado).
+2. Inexistência de omissão, obscuridade e/ou contradição no acórdão embargado (art. 1.022 do CPC).
+3. O dever de fundamentação das decisões judiciais, que consta expressamente do texto constitucional (art. 93, IX, da CF), não impõe ao magistrado a obrigação de utilizar-se dos fundamentos que as partes entendem ser os mais adequados. Basta que a fundamentação apresentada tenha sido suficientemente utilizada no deslinde da questão para que a norma constitucional seja observada em sua integralidade.
+4. "Descabe, em sede de embargos de declaração, a rediscussão de matéria meritória, exaustivamente analisada pelo acórdão embargado" (EDREsp 1127913, Rel. Luis Felipe Salomão, Quarta Turma, DJe de 04/02/2013).
+5. Embargos de declaração não providos.
+Em suas razões recursais, o recorrente alega violação dos arts. 85, § 11, e 1.022, § 2º, do Código de Processo Civil. Afirma:
+Assim, evidenciado está que o acórdão viola frontalmente o § 11 do art. 85 do CPC, na medida em que estabelece critérios manifestamente discricionários para deixar de fixar os honorários recursais devidos aos advogados do Recorrente, salientando que, com a devida vênia, se preenchidos os requisitos legais, não se trata de faculdade do julgador arbitrá-los, mas verdadeira imposição, considerando-se o comando verbal "majorará".
+Confira-se novamente a fundamentação para a não aplicação do dispositivo: matéria eminentemente de direito e repetitória:honorários considerados suficientes para o trabalho desenvolvido pelo advogado até a fase recursal. (fl. 371, e-STJ)
+O recorrido apresentou contrarrazões (fls. 400-405,e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.12.2022.
+Assiste razão ao recorrente.
+Com efeito, a Segunda Seção do STJ, ao julgar os EREsp 1.539.725/DF, estabeleceu como requisito para a fixação de honorários recursais, entre outros, o não conhecimento integral ou o não provimento do recurso pelo Relator, monocraticamente ou pelo órgão colegiado competente, conforme acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+(..)
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. (..)
+11. Agravo interno a que se nega provimento. Honorários recursais arbitrados ex officio, sanada omissão na decisão ora agravada.
+(AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 19/10/2017)
+Em detida análise dos autos, verifico que ademanda foi julgada improcedente pelo juízo monocrático (fls. 227-234, e-STJ), que fixou os honorários advocatícios em desfavor das autoras nopercentual de 10% (dez por cento), sobre o valor da causa.
+A Apelação interposta pela ora recorrida, devidamente contrarrazoada (fls. 260-282e-STJ) pelo recorrente, foi desprovida, bem como foi mantida a condenação aos honorários sucumbenciais inalterados (fls. 332,e-STJ). Transcrevo trecho do decisum:
+No tocante à aplicação do § 11 do art. 85 do CPC, verifico que a matéria discutida nos autos é eminentemente de direito, razão pela qual devem ser mantidos os honorários advocatícios fixados na sentença, considerados suficientes para o trabalho desenvolvido pelo advogado até a fase recursal, vez que não houve inovação nas contrarrazões da apelação.
+Logo, constata-se que os critérios para a majoração dos honorários sucumbenciais foram devidamente preenchidos, uma vez que: a) a decisão recorrida (sentença) foi publicada em 26.4.2021(fl. 235, e-STJ), portanto após a entrada em vigência do CPC/2015; b) a Apelação foi integralmente desprovida pela Corte regional; e c) houve condenação ao pagamento de honorários na sentença, com a majoração dos honorários sucumbenciais em favor do orarecorrente.
+Nesse sentido, jurisprudência uniforme da Primeira e da Segunda Turmas:
+EMBARGO DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. OMISSÃO SANADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+I - A jurisprudência do Superior Tribunal de Justiça é no sentindo de se aplicar o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), impondo a majoração do percentual já fixado, relativo aos honorários advocatícios, independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões.
+II - Verificada a existência de omissão no acórdão embargado quanto aos honorários recursais e considerando o disposto no art. 85, § 11, do CPC, combinado com o Enunciado Administrativo n. 7/STJ, impõe-se a majoração do valor relativo aos honorários advocatícios fixados na origem, em um ponto percentual, respeitados os limites legais, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+III - Embargos de declaração acolhidos para fixar os honorários recursais.
+(EDcl no AREsp 1.643.720/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA DJe 25/6/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. OMISSÃO NO JULGADO. EXISTÊNCIA. MAJORAÇÃO EM 10% DA VERBA HONORÁRIA FIXADA NAS INSTÂNCIAS ORDINÁRIAS. EMBARGOS ACOLHIDOS PARA SANAR O VÍCIO CONTIDO NO JULGADO EMBARGADO.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. Omissão acerca dos honorários advocatícios recursais que deve ser sanada.
+3. Na forma da jurisprudência deste Superior Tribunal, é "devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 7/3/2019).
+4. Embargos de declaração acolhidos para condenar a parte embargada ao pagamento de honorários advocatícios recursais, na forma do art.85, § 11, do CPC/2015, arbitrados em 10% sobre a verba honorária fixada nas Instâncias ordinárias.
+(EDcl no REsp 1.685.367/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA DJe 25/3/2021)
+Diante do exposto, dou provimento ao Recurso Especiale determino a devolução dos autos ao Tribunal a quo para que sejam fixados os honorários recursais, nos termos do art. 85, § 11, do CPC/2015, em virtude do desprovimento da Apelação.
+Publique-se.
+Intimem-se.
