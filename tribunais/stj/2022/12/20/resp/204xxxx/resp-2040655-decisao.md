@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, sem fundamento no artigo 105, III, "a" e/ou "c", da Constituição Federal de 1988, do Acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (fl. 1385, e-STJ):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. PARCELA DESCONTADA DO SALÁRIO DO TRABALHADOR PARA CUSTEIO DESUA PRÓPRIA ALIMENTAÇÃO E TRANSPORTE. NATUREZA REMUNERATÓRIA. INCIDÊNCIA. APELAÇÃO E REMESSA PROVIDAS.
+1. O apelo do Fisco Federal se insurge contra sentença que acolheu os pedidos exordiais para afastar a incidência das contribuições previdenciárias, ao RAT/SAT, ao Sistema S, ao INCRA e ao Salário-Educação sobre os descontos de Vale-Transporte e Vale-Alimentação. De igual modo, reconheceu à parte autoral o direito à repetição dos valores indevidamente recolhidos a título das referenciadas contribuições. Sentença sujeita, obrigatoriamente, ao duplo grau de jurisdição, por força do disposto no art. 14, § 1º, da Lei nº 12.016/2009.
+2. É certo que o custeio dos auxílios transporte e alimentação se faz com a participação do empregador e do empregado. Também é verdade que a parcela paga pelo empregador não sofre a incidência de contribuição previdenciária. Porém, aquela suportada pelo empregado, descontada de seu salário, tem, do ponto de vista do empregador, natureza evidentemente salarial. Significa dizer que o empregador paga ao empregado o salário integral e este usa parte do seu salário para o custeio dos auxílios referenciados. O fato deste pagamento se dar através de desconto promovido pelo empregador e com o posterior recolhimento, não altera sua natureza jurídica de salário. Dizer que não há incidência da contribuição previdenciária patronal sobre o valor dos descontos é o mesmo que concluir que a contribuição previdenciária somente incide sobre parte do salário. E essa discussão não guarda qualquer relação com a clássica, já resolvida em favor do contribuinte.
+3. Apelação e remessa oficial providas para julgar improcedentes os pedidos exordiais.
+Opostos Embargos de Declaração pelas partes, o Tribunal Regional de origem não reconheceu os da Fazenda Nacional e rejeitou os do contribuinte (fl. 1444, e-STJ).
+Aponta a Agravante nas razões do Recurso Especial violação dos arts. 22, § 2º, e 28, § 9º, da Lei 8.212/1991.
+Contrarrazões às fls. 1.542-1.546, e-STJ.
+Recurso Especial admitido preliminarmente na origem às fl. 1.550, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.12.2022.
+Observa-se quenão houve a indicação do permissivo constitucional autorizador do Recurso Especial,o que atrai a incidência da Súmula 284 do STF.
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do Recurso Especial deve conter a "demonstração do cabimento do recurso interposto".Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu Recurso Especial, com a expressa indicação da alínea do dispositivo autorizador.
+A jurisprudência do STJ entende que "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF" (AgInt no AREsp 920.625/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 26/04/2017).
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. JURISPRUDÊNCIA PACÍFICA. SÚMULA 168/STJ. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315 DO STJ.
+1. Não prospera a pretensão recursal, na medida em que a jurisprudência se firmou no mesmo sentido do acórdão embargado, qual seja, que a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do recurso especial. Precedentes: AgRg no AREsp 551.606/PB, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 06/10/2015, DJe 03/02/2016; AgRg no Ag 760.867/PE, Rel. Min. José Delgado, Primeira Turma, julgado em 07/11/2006, DJ 23/11/2006, p. 221; AgRg no REsp 1244392/AL, Rel. Min. Massami Uyeda, Terceira Turma, julgado em 20/10/2011, DJe 08/11/2011.
+2. In casu, incide a Súmula 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Os agravantes pleiteiam rever acórdão que aplicou o entendimento de que "a falta de indicação do dispositivo constitucional em que se funda o recurso especial implica deficiência de fundamentação recursal, o que atrai (por analogia) o óbice contido no enunciado da Súmula 284 do STF". Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial. Precedentes: AgRg nos EAREsp 681.574/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/02/2016, DJe 02/03/2016; AgRg nos EAg 1.421.413/MG, Rel. Min. Og Fernandes, Corte Especial, julgado em 02/12/2015, DJe 18/12/2015; AgRg nos EDcl nos EAREsp 204.278/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, julgado em 04/11/2015, DJe 18/11/2015.
+4. Aplica-se ao caso dos autos a Súmula 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo regimental improvido.
+(STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. FALTA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL QUE FUNDAMENTOU O RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECEDENTE DA CORTE ESPECIAL.
+1. O Superior Tribunal de Justiça, ao emitir o juízo de admissibilidade do recurso especial, não está vinculado nem limitado à decisão proferida pelo Tribunal de origem. Precedentes.
+2. A Corte Especial do Superior Tribunal de Justiça firmou orientação de que "a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do recurso especial" (EAREsp 278.959/MG, Rel. Min. Humberto Martins, Corte Especial, DJe 6/5/2016).
+3. Precedentes: AgInt no AgInt no AREsp 813.272/PB, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 8/6/2018; AgInt no AgInt no AREsp 1.015.487/RJ, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 2/8/2017; AgInt no REsp 1.528.100/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 27/3/2018; AgInt no AREsp 920.625/MG, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 26/4/2017.
+4. Agravo interno a que se nega provimento.
+(STJ, AgInt no REsp 1.473.618/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/12/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PERMISSIVO CONSTITUCIONAL NÃO INDICADO NO ESPECIAL. RECURSO INADMISSÍVEL. SÚMULA 284/STF.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. Agravo interno no recurso especial não provido.
+(STJ, AgInt no REsp 1.631.109/RR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31/03/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. ALIENAÇÃO DE VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO AOS ÓRGÃOS COMPETENTES. PAGAMENTO DO IPVA. ART. 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. RESPONSABILIDADE SOLIDÁRIA DO ALIENANTE. NÃO CONFIGURAÇÃO.
+1. O STJ entende ser inviável o Recurso Especial que não explicita a alínea do permissivo constitucional violada e que não especifica com exatidão a norma legal vilipendiada. Portanto, está caracterizada a deficiência do recurso. Dessa forma, sua pretensão esbarra no óbice da Súmula 284/STF.
+2. Na hipótese dos autos, o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça, de que a obrigatoriedade de a parte alienante do veículo comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro, não se aplica extensivamente ao pagamento do IPVA, tendo em vista que a mencionada exação não se confunde com nenhum tipo de penalidade.
+3. Agravo conhecido para conhecer parcialmente do Recurso Especial e nega-lhe provimento.
+(STJ, AREsp 1.181.851/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL QUE EMBASA O APELO NOBRE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECEDENTE DA CORTE ESPECIAL.
+1. A ausência de indicação da alínea do permissivo constitucional em que se embasa o recurso especial caracteriza deficiência de fundamentação, impedindo sua apreciação. Incidência da Súmula 284/STF. Precedentes: AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 06/05/2016; AREsp 1.181.851/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017.
+2. Agravo interno improvido.
+(STJ, AgInt no AgInt no AREsp 813.272/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/06/2018)
+Ante o exposto, não conheçodo Recurso Especial.
+Sem arbitramento de honoráriosrecursais, pois o Apelo tem origem emMandadodeSegurança(Súmula 105 do STJ).
+Publique-se.
+Intimem-se.
