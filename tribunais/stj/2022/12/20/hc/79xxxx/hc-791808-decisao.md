@@ -1,0 +1,16 @@
+DECISÃO
+LEANDRO ANTÔNIO CAMPANHA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2251091-48.2022.8.26.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que o paciente "guardava e tinha em depósito, para fins de entrega ao consumo de terceiras pessoas, 03 (três) tijolos de maconha, com peso líquido de 1.756,74g, uma grande porção fracionada de maconha, com peso líquido de 16,19g, e, também, um pedaço de planta de maconha, com peso líquido de 1,75g, substância entorpecente que causa dependência física e psíquica, sem autorização e em desacordo com determinação legal e regulamentar" (fl. 147, sublinhei).
+Asseriu a defesa, perante a Corte de origem, "em suma, que o constrangimento ilegal do qual o paciente está a padecer advém da decisão proferida pelo referido juízo que indeferiu o pedido de liberdade provisória, sem a devida fundamentação e desconsiderando que o paciente ostenta condições favoráveis de responder ao processo em liberdade, eis que é primário, possui emprego e residência fixa" (fl. 115).
+A esse respeito é imperioso ressaltar que, "consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (RHC n. 115.823/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/9/2019, destaquei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, cifrada na apreensão de significativa quantidade de droga (493,9 gramas de maconha), além de uma balança de precisão e um rolo de plástico filme, demonstrando a necessidade da prisão para a garantia da ordem pública.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Ordem denegada (HC n. 454.511/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 14/8/2018, grifei).
+ ..
+2. O Magistrado de primeiro grau expôs os motivos pelos quais a prisão preventiva seria necessária, ao destacar a elevada quantidade de droga apreendida em poder do acusado - 377 g de maconha -, além dos petrechos utilizados para a comercialização. Tais elementos, nos termos da jurisprudência desta Corte Superior, são indicativos da dedicação habitual ao comércio ilegal de entorpecentes e, por isso mesmo, constituem motivação idônea a justificar a custódia provisória do indiciado.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido (RHC n. 99.826/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/8/2018, destaquei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
