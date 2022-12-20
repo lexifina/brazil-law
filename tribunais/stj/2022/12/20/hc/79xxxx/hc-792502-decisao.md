@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE NETO DE CARVALHO,contra decisão proferida peloDesembargadorRelatordoTribunal de Justiça do Estado de São Paulo no HC n. 2289366-66.2022.8.26.0000.
+Consta dos autos que, noticiada aprática, em tese, de falta disciplinar de natureza grave pelo Apenado (suposta fuga), o Juízo da Execução Penal determinou, cautelarmente, a sua transferência ao regime fechado (fls. 55-61).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, cujo pedido liminar foi indeferido.
+Daí o presente mandamus, em que a Parte Impetrante aduz que, no caso, diante das relevantes razões para a não reapresentação do Paciente à unidade prisional após a saída temporária, é imprescindível a designação de audiência de justificação por videoconferência para oitiva.
+Defende que o prévio recolhimento do Apenado ao regime fechado para o prosseguimento da apreciação da suposta ocorrência da falta grave é desproporcional, especialmente porque se encontra "impossibilitado de se locomover, necessitando de auxílios de cadeira de rodas e bengala, falto que é o fundamento para acolhimento da justificativa do Reeducando" (fl. 13).
+Requer, liminarmente e no mérito, seja designada audiência de justificação por videoconferência para oitiva do Paciente.
+É o relatório.
+Decido.
+Conforme entendimentofirmado pelo Supremo Tribunal Federal e por estaCorte, não se admite habeas corpus contra decisão negativa de liminarproferida em outro writ na instância de origem, sob pena de indevidasupressão de instância.
+É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal("Não compete ao Supremo Tribunal Federal conhecer de habeas corpusimpetrado contra decisão do Relator que, em habeas corpus requerido atribunal superior, indefere a liminar"), aplicável, mutatis mutandis, aoSuperior Tribunal de Justiça (v.g.: AgInt no HC 495.842/PR, Rel. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/10/2019; AgInt no HC 486.524/SP,Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, DJe 07/06/2019; AgRg no HC568.995/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2020; AgRgno HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbiceprocessual, salvo nas hipóteses em que se evidenciar situaçãoabsolutamente teratológica e desprovida de qualquer razoabilidade (porforçar o pronunciamento adiantado da Instância Superior e suprimir ajurisdição da Inferior, em subversão à regular ordem de competências).
+No caso, não verifico patente ilegalidade na decisão proferida peloDesembargadorRelator, que indeferiu o pedido liminar à base da seguinte motivação (fl. 64):
+"Na hipótese vertente, não se verifica o fumus boni iuris e o periculum in mora a justificar a concessão da liminar. Esta só é cabível quando de plano, numa cognição sumária, constata-se a plausibilidade do direito alegado e, diante dela, o risco de que eventual demora na prestação jurisdicional acabe por inviabilizar a obtenção da providência que se pleiteia, o que não ocorre no presente caso, pois é necessária análise cuidadosa dos fatos e documentos, que deverão ser apreciadas pela C. Câmara.
+Requisitem-se informações da autoridade judiciária apontada como coatora, em 48 horas, sobre o alegado, remetendo-se, em seguida, os autos a Douta Procuradoria de Justiça."
+Como se vê, o pedido liminar foi indeferido sob o fundamento de que é imprescindível a completa tramitação do feito, com informações e manifestação do Ministério Público, para posterior apreciação da matéria pelo órgão colegiado,providência que nãose mostra carente de razoabilidade diante das alegações da Defesa.
+Dessa forma, a questão ora suscitada não foiexaminada na decisão liminar impugnada.
+Assim, por não se observar, ao menos primo ictu oculi,nenhumateratologia, não há como superar o óbice processual previsto naSúmula n.691 do Supremo Tribunal Federal, cuja essência vem sendoreiteradamenteratificada por julgados do Pretório Excelso e desteSuperior Tribunal deJustiça.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 doRegimentoInterno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE apetiçãoinicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIUO PEDIDO LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM, AINDA NÃO JULGADO.IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIADE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTEINDEFERIDA.
