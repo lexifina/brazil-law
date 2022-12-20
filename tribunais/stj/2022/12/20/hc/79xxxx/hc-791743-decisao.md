@@ -1,0 +1,9 @@
+DECISÃO
+PAULO ROGERIO SANTOS GONÇALVES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação Criminal n. 0001757-43.2020.8.12.0026.
+A defesa pretende, em síntese, a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, com fixação de regime prisional mais brando e substituição da pena por restritivas de direitos.
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico que a pretensão defensiva já foi rejeitada por esta Corte no julgamento do Agrg no Aresp n. 1.972.768/MS, em que se decidiu que:
+No caso, a instância ordinária - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, ressaltou o Tribunal a quo "o modus operandi para a prática do crime no transporte de grande quantidade de droga, com efetivo envolvimento do apelante, que saiu do seu domicílio, para transportar entorpecente que seria distribuído em outro Estado da Federação" (fl. 259). Ponderou que " d iversa situação seria se apenas tratasse de contratado ("mula") sem todo aparato comprovado para o sucesso do crime, especialmente no caso em que há alta quantidade de entorpecente que conduz ao notório valor monetário elevado e a divisão de tarefas entre o transportador e os preparadores do aparato" (fl. 259).
+Dessa forma, não se pode julgar este feito por consubstanciar mera reiteração de pedido, uma vez que tem as mesmas partes e idêntico objeto ao recurso citado.
+À vista do exposto, indefiro liminarmente este habeas corpus, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ.
+Publique-se e intimem-se.
