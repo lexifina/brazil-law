@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED DE SANTA BÁRBARA D"OESTE E AMERICANA - COOPERATIVA DE TRABALHO MÉDICO (UNIMED), com fundamento no art. 105, III, alíneasa e c, da CF, contra acórdão,proferido pelo Des. CARLOS ALBERTO DE SALLES, doTribunal Paulista, assim ementado:
+OBRIGAÇÃODEFAZER. PLANODESAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIAS (TERAPIA OCUPACIONAL COM MÉTODO DE INTEGRAÇÃO SENSORIAL E EQUOTERAPIA). Insurgência contra sentença de procedência. Sentença mantida. Cerceamento de defesa. Inocorrência. Questão que a apelante pretendia demonstrar com expedição de ofício é de direito, não ensejando produção de prova. Mérito. Terapia ocupacional com método de integração sensorial e equoterapia. Expressa recomendação médica para o tratamento (Súmula 102, TJ/SP). Cobertura obrigatória. Precedentes. Recurso desprovido.(e-STJ, fl. 386).
+Os embargos de declaração opostos peloG. M. DOS S. foram acolhidos (e-STJ, fls. 387/389) e os embargos de declaração opostos pela UNIMED foram rejeitados (e-STJ, fls. 399/401)
+Inconformada, UNIMEDinterpôs recurso especial com fundamento nas alíneasa e c, do permissivo constitucional, apontandoa violação dos arts. 1.022, II, do NCPC,10, § 4º, 12, VI, da Lei nº 9.656/98, e 4º, III, da Lei nº 9.961/2000. Sustentou, em síntese,que (1)há omissão no acórdão recorrido, pois o Tribunal não se manifestou sobre o fato de que a terapêutica de Equoterapia deve ser realizada na rede credenciada da Recorrente;(2) os métodos terapêuticos consistentes em Equoterapia e Terapia Ocupacional com método de Integração Sensorial com foco no estímulo intelectual, sensorial e comportamental, além de não constarem no rol de coberturas de procedimentos e eventos mínimos dos planos de saúde da Agência Nacional de Saúde Suplementar, possuem natureza experimental; (3) a UNIMED forneça o tratamento preferencialmente dentro da sua rede credenciada; e (4) que o reembolso do tratamento ocorra nos limites do contrato pactuado entre as partes.
+O recursofoi admitido pelo TJSP(e-STJ, fls. 566/568).
+É o relatório.
+DECIDO.
+O apelo nobre não mereceacolhimento.
+(1)Da alegada violação do art. 1.022, II, do NCPC.
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+(2) e (3)Da violação aos arts..10, § 4º, 12, VI, da Lei nº 9.656/98, e 4º, III, da Lei nº 9.961/2000.
+UNIMED sustentou queos métodos terapêuticos consistentes em Equoterapia e Terapia Ocupacional com método de Integração Sensorial com foco no estímulo intelectual, sensorial e comportamental, além de não constarem no rol de coberturas de procedimentos e eventos mínimos dos planos de saúde da Agência Nacional de Saúde Suplementar, possuem natureza experimental; e que a UNIMED forneça o tratamento preferencialmente dentro da sua rede credenciada.
+O TJSP assim se manifestou sobre a questão:
+Realmente, há prescrição médica específica para o tratamento em questão (p. 27), que, ao contrário do alegado no recurso, apresenta justificativa para indicação de equoterapia: "visando melhorar equilíbrio, atenuar hiperatividade, melhorar inabilidades e ansiedade".
+Do relatório médico, verifica-se que não se trata de modalidade terapêutica com fins pedagógicos, mas sim de tratamento para os sintomas apresentados pelo apelado em decorrência do transtorno do espectro autista, tais como falta de equilíbrio, hiperatividade, "atrasos na aquisição e desenvolvimento de linguagem, movimentos estereotipados" (p. 27), ansiedade.
+É o que basta para afastar exclusão pelo rol da ANS, nos termos da Súmula 102 deste Tribunal: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS".
+A circunstância de a diretriz de utilização do plano emitida pela Agência Nacional de Saúde Suplementar atualmente vigente não contemplar os métodos específicos de tratamento solicitados pelo médico não altera essa conclusão: não se cuida de procedimentos experimentais, de eficácia não comprovada ou que tragam risco à saúde do paciente; há apenas descompasso entre a evolução da medicina e a respectiva regulamentação pelo órgão responsável que, de todo modo, não pode prejudicar o apelado.
+Da mesma forma, a despeito da nota técnica emitida pelo NAT-Jus não ter encontrado superioridade dos métodos indicados pelo médico de confiança do apelado em relação àqueles já cobertos pelo plano de saúde, lá não se enuncia, novamente, que tais terapias seriam inferiores, inseguras ou inadequadas para o caso o que, novamente, conduz à manutenção da r. sentença(e-STJ, fl. 369, sem destaque no original).
+Nos embargos de declaração o TJSP consignou:
+A embargante alega omissão quanto ao pedidode que a equoterapia seja realizada por profissionais indicados pela operadora, dentro da rede credenciada, da mesma forma que a terapia ocupacional com integração sensorial (ps. 327/328),afirmando que "possui clínica contratada para prestação do serviço" (p.3).
+No entanto, a embargante não demonstrou a existência de clínica contratada, referenciada ou credenciada para a realização de equoterapia. Na contestação, sua linha de defesa foi pela ilegalidade da negativa de cobertura, por se tratar de procedimento experimental, alternativo, não contemplado pela ANS, não se tendo formulado pedido subsidiário específico deste jaez.
+Da mesma forma, não foram juntados com a apelação quaisquer documentos que demonstrassem a viabilidade de alteração da r. sentença no sentido ora pretendido(e-STJ, fls. 400/401, sem destaque no original).
+Da análise das razões do presente recurso verifica-se que os referidos fundamentonão foramimpugnados, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Confira-se o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOAÇÃO. ARROLAMENTO. REEXAME DO CONTRATO E DE PROVAS.INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ.FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, a análise da pretensão do recorrente, que alega que a doação não poderia ser cindida e que teria havido aceitação tácita por parte de uma das doadoras, exigiria o reexame das provas, sobretudo do contrato firmado entre as partes, o que não se admite em recurso especial.
+3. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.626.816/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 23/9/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente (Súmula 284/STF).
+5. A existência de fundamento do acórdão recorrido não impugnado  quando suficiente para a manutenção de suas conclusões  impede a apreciação do recurso especial (Súmula 283/STF).
+6. A incidência das Súmulas 283 e 284 do STF prejudicam a análise do dissídio jurisprudencial pretendido.
+7. Agravo interno não provido.
+(AgInt na PET no REsp 1.930.298/AM, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 22/9/2021)
+(4) Do reembolso.
+UNIMED sustentou que o reembolso do tratamento ocorra nos limites do contrato pactuado entre as partes.
+Observa-se que a questão tal como posta não foi enfrentada pelo TJSP, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 24/3/2015, DJe 27/3/2015).
+Nessas condições,CONHEÇOdo recurso especial eNEGO-LHE PROVIMENTO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL.RECURSO ESPECIAL.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE.VIOLAÇÃO DO ART. 1.022, II, DO NCPC QUE NÃO SE VERIFICA. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIA OCUPACIONAL COM MÉTODO DE INTEGRAÇÃO SENSORIAL E EQUOTERAPIA.FUNDAMENTOS DO ARESTO COMBATIDO NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA.REEMBOLSO. PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
