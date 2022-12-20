@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL E FALÊNCIA. RECUPERAÇÃO JUDICIAL. PRELIMINAR CONTRARRECURSAL DE PRECLUSÃO. AFASTADA. MÉRITO. CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA QUE NÃO SE SUBMETE AOS EFEITOS DA RECUPERAÇÃO.
+- Preliminar contrarrecursalde preclusão: sustenta a parte em contrarrazões que a questão anteriormente pacificada não pode tornar a ser discutida no processo. Entretanto, insatisfeita com a classificação do crédito em liça, a parte corretamente impugnou a classificação de seu crédito, sendo, naquela oportunidade, reconhecido que os créditos não estão sujeitos à recuperação, porquanto, garantidos por alienação fiduciária.
+- Mérito. A decisão proferida na impugnação deve prevalecer sobre a decisão proferida nos autos da recuperação judicial, ainda que confirmada pelo Tribunal de Justiça, porquanto esta foi proferida em sede de tutela de urgência, enquanto aquela, teve análise em juízo de cognição exauriente. Ainda, não se pode perder de vista o disposto no artigo 49, § 3º, da Lei n.º 11.101/05, segundo o qual não estão sujeitos à recuperação judicial "o credor titular da posição de proprietário fiduciário de bens móveis ou imóveis", dentre outros. Decisão reformada.
+PRELIMINAR REJEITADA. AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME.
+Alegou-se, no especial, violação dos artigos 1.022 e 489 do Código de Processo Civil e 49, § 3º, da Lei 11.101/05 sob o argumento de que o acórdão é omisso, haja vista que o Tribunal local "reconhece que a CCB 409001357 está sujeita à recuperação judicial mas, ainda assim, não examina a razão pela qual se admitiria que operação de crédito sujeita à recuperação judicial poderia justificar retenção de valores" (e-STJ, fl. 373).
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+O Tribunal local, bem ao contrário do que afirma a recorrente, não só examinou quais créditos estão inseridos e excluídos da recuperação judicial como determinou expressamente, no julgamento de embargos de declaração recebidos com efeitos infringentes, que, somente em relação aos créditos extraconcursais, deveria haver a restituição ou retenção, caso os valores estejamna posseda devedora ou do credor, respectivamente.
+Leiam-se os excertos:
+"Ora, foi reconhecidaa garantia dos contratos em debate por alienação fiduciária, ao asseverar, em sua fundamentação que "deve ser retificada, pelo exposto, perante a RECUPERAÇÃO JUDICIAL, a classificação dos créditos de acordo com a classificação dada pelo BB à fl. 215: R$264.852,95 são créditos quirografários; R$ 3.757.077,07, são créditos com garantia real (contrato 409001477, 2000872, 2000877, 2000873, 4001715, 409001357 e 409001483); e R$ 369.021,51 (contratos 409001435, 409001441 e 409001447) não estão sujeitos à recuperação judicial - garantidos por alienação fiduciária.
+Assim, aplicável a integra do artigo 49, § 3º, da Lei n.º 11.101/05, segundo o qual não estão sujeitosà recuperação judicial "o credor titular da posição de proprietáriofiduciário de bens móveis ou imóveis" (e-STJ, fl. 202).
+--
+"Alfim, conforme a fundamentação supra, deve haver a restituição dos valores que não estão sujeitosà Recuperação Judicial (por força do artigo 49, §3º, da Lei n.º 11.101/05) ao BANCO DO BRASIL. De mais a mais, em sendo decidida pela preponderância daimpugnação manejada pelo Banco do Brasil, consectário lógico é a revogação da multa diária que foi fixada quando do julgamento dos embargos declaratórios" (e-STJ, fls. 274/275).
+A restituição, como se vê, foi determinanda em relação aos créditos constantes dos contratos n.409001435, 409001441 e 409001447.
+O Contrato n.409001357 não está relacionado entre aqueles com garantia de alienação fiduciária, mas com garantia real, em relação ao qual não se determinou restituição alguma.
+Inequívoca, pois, a incidência dos enunciados n. 284 da Súmula do Supremo Tribunal Federal e 7 desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
