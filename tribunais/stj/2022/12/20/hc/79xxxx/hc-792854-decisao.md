@@ -1,0 +1,28 @@
+DECISÃO
+RELLISON DEIVID NASCIMENTO DE JESUSalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal estadual.
+Busca a defesa o restabelecimento da decisão que deferiu o livramento condicional ao paciente, independentemente do pagamento da multa aplicada cumulativamente com a pena privativa de liberdade.
+Decido.
+O Magistrado de origem deferiu ao paciente o livramento condicional, pois preenchidos os requisitos objetivo, "bem como o requisito subjetivo, pois, não constam nos autos nenhuma informação de envolvimento em novo crime, tem comportamento satisfatório durante a execução da pena, bom desemprenho no trabalho que lhe foi atribuído e aptidão para prover a própria subsistência mediante trabalho honesto" (fl. 120).
+O Tribunala quocassou o referido benefício, sob o seguinte fundamentos (fls. 25-26, grifei):
+Ao tratar do livramento condicional, o art. 83, da Lei nº 7.210/84, sujeita a benesse ao atendimento de dois requisitos: o efetivo cumprimento de QUANTUM mínimo da pena (objetivo), e o bom comportamento carcerário (subjetivo).
+Em assim sendo, não há cindir o dispositivo de forma a ter considerado, a título de pena, tão somente a reprimenda corporal, privativa de liberdade, vez que a multa imposta por expressa determinação legal integra, para todos os efeitos, aquele conceito.
+Nesse sentido, LITTERIS: "tendo sido reconhecido o caráter de sanção penal da pena de multa nos termos do art. 5º, XLVI, "c", da CF, não se verifica manifesta ilegalidade no indeferimento da progressão de regime em razão do seu inadimplemento" (STJ, AgRg no HC 601.835/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 03/11/2020).
+ ..
+Demonstrado nos autos, pois, que o Agravado não adimpliu multa penal imposta, descabida resulta a benesse que lhe fora deferida na origem, por ofensa à norma de regência e desacordo, ademais, com a orientação emanada das eg. Cortes Superiores.
+Tudo considerado, e em consonância, ademais, com o parecer ministerial IN CASU proferido, conheço do Agravo em Execução Penal, e dou-lhe integral provimento para, reformando a decisão objurgada, determinar seja restabelecido o regular cumprimento da pena, vez que pelo Agravado não cumprido requisito imprescindível ao benefício que lhe fora equivocadamente concedido.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe de 16/5/2022).
+Da análise dos autos, verifico que o acórdão impugnado está em consonância com a jurisprudência desta Corte Superior, senão vejamos:
+ ..
+1. O não pagamento da pena de multa, aplicada cumulativamente com a pena privativa de liberdade, denota a ausência do requisito subjetivo para a concessão do livramento condicional.
+2. A revisão do acórdão, a fim de se acolher a tese de hipossuficiência do condenado, demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.758.670/TO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/4/2019)
+Na mesma direção, menciono as seguintes decisões monocráticas:REsp n. 2.005.420/RO, relator Ministro Sebastião Reis Júnior, DJe 29/9/2022;REsp n. 2.009.997/RO, Rel. Ministro Ribeiro Dantas, DJe 12/9/2022;REsp n. 2.005.668/RO, Rel. Ministro Ribeiro Dantas, DJe 1º/2/2022;REsp n. 1.970.700/RO, Rel. MinistroSebastião Reis Júnior, DJe 17/5/2022.
+O Juiz da VEC,antes de conceder o livramento condicional, deverá averiguar o adimplemento da multa, intimar o condenado para pagar seu valor, pedir o parcelamentoou comprovar a hipossuficiência.Se comprovada situação de penúria, o reeducando fará jus ao benefício.
+A pobreza não é presumida, nem mesmo quando o réu é patrocinado pela Defensoria Pública ou por defensor dativo, pois no direito penal é obrigatória a assistência jurídica integral, mesmo que a parte tenha condições financeiras de contratar advogado particular, mas opte por não fazê-lo.
+É ônus do condenado explicar o descumprimento da sentença. Isso deve ser feito, primeiramente, ao Juiz da VEC, quando requerer a progressão de regime, com oportunidade de oitiva do Ministério Público, que atua como fiscal da execução. Não é atribuição do Poder Judiciário determinar diligências para pesquisar a situação de econômica do reeducando, principalmente porque dados bancários e fiscais são resguardados por sigilo e não podem ser devassados sem justa causa.
+Ressalto, que na situação sob exame,não há nenhuma discussão sobre a situação de penúria ou de indigência do apenado. Não se pontua nenhum óbice à progressão do regime quando o condenado estiver em comprovada situação de pobreza.
+À vista do exposto, concedo parcialmente a ordem de habeas corpus,in limine, para determinar que,antes doretorno do paciente ao regime semiaberto, o Juízo da Execução Penal intime o apenado para comprovar o pagamento da multa ou eventual falta de condições econômicas de fazê-lo, ainda que de forma parcelada.
+Comunique-se o inteiro teor dessa decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
