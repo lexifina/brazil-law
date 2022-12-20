@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LUZIA APARECIDA RODRIGUES contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fl. 180):
+APELAÇÃO CÍVEL - AÇÃO DE PROCEDIMENTO COMUM - INEXISTÊNCIA DE DÉBITO - DÍVIDA DECLARADA INEXISTENTE EM OUTRO PROCESSO - FALTA DE INTERESSE PROCESSUAL - FORNECIMENTO DE DADOS INCORRETOS AO SISTEMA "SERASA SCORE" - AUSÊNCIA DE RECUSA INDEVIDA DE CRÉDITO - DANO MORAL NÃO CONFIGURADO. O interesse de agir ou interesse processual surge da necessidade de a parte obter por meio do processo a proteção ao seu interesse substancial, pois a Constituição Federal consagra a garantia de que a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito (art. 5º, XXXV). Ausente o interesse processual de declaração de inexistência do débito quando já tutelada a pretensão em outra ação judicial. "O desrespeito aos limites legais na utilização do sistema "credit scoring", configurando abuso no exercício desse direito (art. 187 do CC), pode ensejar a responsabilidade objetiva e solidária do fornecedor do serviço, do responsável pelo banco de dados, da fonte e do consulente (art. 16 da Lei n. 12.414/2011) pela ocorrência de danos morais nas hipóteses de utilização de informações excessivas ou sensíveis (art. 3º, § 3º, I e II, da Lei n. 12.414/2011), bem como nos casos de comprovada recusa indevida de crédito pelo uso de dados incorretos ou desatualizados" (STJ, REsp 1457199/RS). O mero fornecimento de dados incorretos aos sistemas de "credit scoring" não configura, por si só, abalo moral indenizável. Para caracterização do dever de indenizar, é necessária a comprovação de recusa indevida de crédito, decorrente do lançamento de informações incorretas e da baixa pontuação.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 195-209), a parte recorrente sustentou violação aos arts. 187 do Código Civil, 18 e 43 do CDC, defendendo ser devida a indenização pleiteada, pois comprovados os danos morais em razão do lançamento de dívida inexigível em seu nome nas informações do score, prejudicando a avaliação de risco de crédito da recorrente.
+Apontou, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 240-244, e-STJ), o que ensejou o manejo do presente agravo (fls. 247-260, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Extrai-se dos autos que o Tribunal de origem, em relação à tese de cabimento de indenização por danos morais, negou seguimento ao recurso especial da ora agravante sob o argumento de que o acórdão recorrido encontra-se em consonância com entendimento consagrado pelo Superior Tribunal de Justiça em sede de recurso representativo de controvérsia repetitiva, no caso, RESP 1419697/RS (TEMA 710).
+Portanto, aplica-se o disposto no artigo 1030, inciso I, "b", § 2º, do CPC/15, que assim dispõe:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Com efeito, de acordo com a jurisprudência pacificada nesta Corte Superior, o recurso cabível contra decisão que, com fulcro no art. 1030, I, b, do CPC/15, nega seguimento a recurso especial, é o agravo interno para o próprio Tribunal de origem.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, não conheço do agravo em recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
