@@ -1,0 +1,29 @@
+DECISÃO
+CLEIDIANE MARIA SOUSA DA SILVAagrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará (Apelação Criminal n. 0008314-36.2017.8.14.0013).
+Nas razões do especial, a defesa apontou violação doart.33, § 4º, da Lei n. 11.343/2006.
+Argumenta que "E.TJE/PA negou à ré a aplicação máxima da casa de diminuição da pena prevista no § 4º, art. 33 da Lei nº 11.343/06, levando em consideração a natureza e quantidade dos entorpecentes apreendidos e pelo fato da recorrente não comprovar trabalho lícito  .. " (fl. 280).
+Requer, portanto, a aplicação da minorante em seu grau máximo, ou seja, em 2/3.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 319-322).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial
+I. Fração da minorante prevista no art. 33, § 4º, da Lei de Drogas
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem manteve a minorante descrita no § 4º do art. 33 da Lei n. 11.343/2006 em seu patamar mínimo (1/6), com base nos seguintes fundamentos (fl. 194, grifei):
+No que se refere ao patamar de redução decorrente do privilégio reconhecido, tenho que a natureza (cocaína), a quantidade (32 trouxas) e o fato de a recorrente não comprovar trabalho lícito autorizam sua fixação em 1/6 (um sexto) conforme consta da sentença.
+No caso, conforme visto, a Corte estadual justificou aincidência do redutor em questão em 1/6 no fato de a acusadanão ter emprego lícito ena quantidade/natureza dadroga apreendida.
+No entanto, no tocante ao primeiro fundamento, saliento que o simples fato de a ré não haver comprovado o exercício de atividades lícitas à época dos fatos não pode, evidentemente, levar à conclusão contrária, qual seja, a de que se dedicaa atividades criminosas, até porque o desemprego, diante da realidade social brasileira, representa, na verdade, um infortúnio de boa parte da população, e não algo tencionado. Nesse sentido, menciono o seguinte julgado desta Corte Superior de Justiça: AgRg no HC n. 382.724/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 27/9/2017.
+Além disso, quanto ao segundo argumento, verifico que a quantidade de drogas apreendidas não foi tão elevada - 32 petecas de cocaína.
+Por esses motivos,considero, dentro do livre convencimento motivado, ser adequadae suficiente a redução de pena no patamar máximo de 2/3.
+Apenas ad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento, de fato, vedado na via estreita do habeas corpus. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pela instância de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Nova dosimetria
+Procedendo-se, pois, à nova dosimetria da pena, verifico que areprimenda-base ficou estabelecida no mínimo legal, isto é, em 5 anos de reclusão e pagamento de 500 dias-multa.
+Na segunda fase, ausentes atenuantes e agravantes.
+Na terceira etapa, reduzo a reprimenda em 2/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena daacusadadefinitivamente estabelecida em 1 ano e 8 mesesde reclusão e pagamento de 167dias-multa.
+Como consectário da redução efetivada na pena daacusada, deve ser reavaliado o regime inicial de cumprimento da sanção reclusiva.
+Uma vez que elafoi condenadaa reprimenda inferior a 4 anos de reclusão, era tecnicamente primáriaao tempo do delito, possuidora de bons antecedentes, foi apreendidacom quantidade não excessiva de drogas, deve ser estabelecido o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal, de maneira que deve ser provido o recurso também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+III. Dispositivo
+À vista do exposto, conheço do agravopara darprovimento ao recurso especial, a fim de, nos termos acima estabelecidos, aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 2/3, e, consequentemente, reduzir apenaprivativade liberdade imposta à répara1 ano e 8 mesesde reclusão, em regime aberto, e pagamento de 167dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
