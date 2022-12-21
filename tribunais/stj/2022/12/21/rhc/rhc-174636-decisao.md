@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus sempedido liminar interposto porMARCOS GABRIEL DE OLIVEIRA FAQUIM desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO(HC n. 5006545-36.2022.8.08.0000).
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 155/156):
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto na forma do art. 105, II, "a", da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, nos autos do Habeas Corpus Criminal nº 5006545-36.2022.8.08.0000, assim ementado:
+HABEAS CORPUS - ARTIGO 33, C/C O ARTIGO 40, INCISO III,AMBOS DA LEI Nº 11.343/06 - ALEGAÇÃO DECONSTRANGIMENTO ILEGAL - PRISÃO PREVENTIVA -REQUISITOS DOS ARTIGOS 312 E 313, INCISO I, AMBOS DOCÓDIGO DE PROCESSO PENAL - APLICAÇÃO DAS MEDIDASCAUTELARES DIVERSAS DA PRISÃO - INVIABILIDADE -DEMONSTRAÇÃO DA NECESSIDADE DA CUSTÓDIA PREVENTIVA- ANÁLISE SOBRE A AUTORIA DOS DELITOS - DESCABIMENTO -MATÉRIA QUE NÃO PODE SER PROCEDIDA NA VIA ELEITA -ORDEM DENEGADA.
+1. Quando a decretação da custódia cautelar estiver apoiada nas circunstâncias legais que a autoriza, não há que se falar em constrangimento ilegal, devendo ser mantida. In casu, a necessidade de garantia da ordem pública e o perigo pelo estado de liberdade do custodiado restaram demonstrados nos autos, tendo em vista, além da gravidade concreta do suposto delito, diante da quantidade e variedade de drogas apreendidas, e dapericulosidade social do paciente.
+2. O Superior Tribunal de Justiça possui entendimento consolidado de que" ..  as circunstâncias fáticas do crime, como a grande quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos podem servir de fundamentos para o Decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade. (STJ; HC639.271; Proc. 2021/0006100-3; MG; Quinta Turma; Rel. Min. Reynaldo Soares da Fonseca; Julg. 06/04/2021; DJE 13/04/2021)".
+3. Em sede de habeas corpus é descabida a apreciação aprofundada de provas, razão pela qual as alegações de ausência de autoria e materialidade não merecem ser apreciadas. Precedentes.
+4. Com a comprovação fundamentada da necessidade e da adequação da medida segregatícia, baseada em dados concretos, entende-se que as medidas cautelares diversas da prisão do artigo 319 do Código de Processo Penal, se apresentam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Ordem denegada.
+Em suas razões de recurso, o recorrente alega: 1) fundamentação inidônea do decreto prisional, baseado na gravidade abstrata do crime; 2) ausência dos requisitos autorizadores do art. 312 do CPP; 3 ) ausência de provas acerca da autoria, pois é usuário e não tem envolvimento com práticas criminosas, não é reincidente, tampouco denota qualquer periculosidade, e 4) possuindo condições pessoais favoráveis. Ao final, pede:
+Do exposto, requer seja conhecido e provido o presente recurso na forma da lei e regimento interno desta Corte, para conceder a ordem ora impetrada, expedindo-se, em consequência, o competente alvará de soltura, afim de que o recorrente possa ser posto em liberdade.
+O Ministério Público Federal manifestou-se pela prejudicialidade dorecurso (e-STJ fls. 155/157).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porque, consoante parecer doParquetFederal (e consulta complementar realizada no sítio eletrônico do Tribunal de origem) "o magistrado singular, em 8/12/2022, nos autos da Ação Penal nº 0000736-52.2022.8.08.0065, concedeu a liberdade provisória ao recorrente MARCOS GABRIEL DE OLIVEIRA FAQUIM, "condicionado ao cumprimento das seguintes medidas cautelares: a) não mudar de domicílio sem prévia comunicação a este Juízo; c) comparecimento quinzenal em Juízo para informar e justificar assuas atividades lícitas, até o trânsito em julgado deste processo"" (e-STJ fl. 156).
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+Decido.
