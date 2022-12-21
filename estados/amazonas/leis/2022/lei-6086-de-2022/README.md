@@ -1,0 +1,5 @@
+# Lei nº 6.086, de 21 de dezembro de 2022, do Estado do Amazonas
+
+FICA SUSPENSO O CORTE DOS SERVIÇOS PÚBLICOS ESSENCIAIS DE ÁGUA E ENERGIA ELÉTRICA DOS HOSPITAIS PÚBLICOS, HOSPITAIS CONVENIADOS COM O SISTEMA ÚNICO DA SAÚDE – SUS, HOSPITAIS E CLÍNICAS FILANTRÓPICAS E CLÍNICAS DE HEMODIÁLISE NO AMAZONAS, DURANTE A DECRETAÇÃO DE ESTADO DE CALAMIDADE PÚBLICA NO ESTADO DO AMAZONAS.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/12237>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2022/12237/6086.pdf>
