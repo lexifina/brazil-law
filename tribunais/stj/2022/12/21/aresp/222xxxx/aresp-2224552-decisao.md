@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. RESCISÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. VÍCIOS. RESTITUÍÇÃO DOS VALORES. DANOS MATERIAIS. LIQUIDAÇÃO. DANO MORAL CONFIGURAÇÃO. A constatação de vício permite ao comprador pleitear a rescisão do vínculo contratual ou, ainda, o abatimento do preço em valor correspondente ao defeito, nos termos do art. 442, do CC. A existência de vícios construtivos que se apresentam em imóvel novo, gera não um mero aborrecimento, mas abalo moral, por criar situação de flagrante intranquilidade de espírito e abalo psicológico ao comprador.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do especial, a parte agravante alegou violação dos arts. 1.022 do Código de Processo Civil/2015; 443 e 445do Código Civil. Afirmou que houve negativa de prestação jurisdicional no caso. Sustentou que, "Inicialmente, importante destacar que para o caso dos autos, um laudo inconclusivo, considerando a complexidade do exame necessário ao deslinde do feito, não deve ser utilizado como argumento em prejuízo exclusivo de uma das partes, tal como se operou.Isto por que, se por um lado o i. perito oficial não concluiu pela total segurança do prédio, também não apontou qualquer risco de desabamento, o que à evidência jamais ficou comprovado" (fl. 2-542).
+Apontou que, "Conforme se depreende do caso em tela, os imóveis foram entregues em 2002 e ação ajuizada tão somente em 2004, tendo por certo, nesse sentido, que o direito de redibir ou mesmo de pugnar pelo abatimento do preço, já havia decaído na época do ajuizamento, questão sobre a qual o juízo não se manifestou, embora tenha suscitado de ofício a matéria, tal qual se operou na Sentença" (fl. 2.543).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa aoart.1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016.
+Extrai-se que no acórdão recorrido ficou estabelecido o seguinte (fls. 2.210- 2.216):
+Evidencia-se que os autores/apelados ajuizaram a presente ação pugnando pela rescisão de contrato e restituição das quantias pagas e indenização por danos materiais e morais em face da apelante sob o fundamento de celebraram com a empresa contratos por instrumento particular de compra e venda por meio dos quais adquiriram os apartamentos constantes dos blocos integrantes do conjunto residencial Berlim II, sendo que foram edificados sobre um grande aterro qual não apresentou condições de estabilização, ensejando movimentações no maciço do solo, causando deslocamento das construções e, por conseguinte, enormes trincas, fissuras, rachaduras nas junções das paredes com tetos, dentre outros problemas descritos na inicial.
+Sustentara que foi solicitado laudo técnico de engenharia, sendoos vícios conformados.
+Expuseram que a construtora na tentativa de sanar os problemas houve rompimento das tubulações de água e esgoto e esvaziamento de uma das caixas d"água de 5.000 litros de cada um dos blocos 01 e 02 para diminuir o peso sobre os taludes o que, segundo relataram agravou a situação dos prédios, provocando afundamento do solo, rompimento da tubulação de captação e água e esgoto do bloco 02.
+(..).
+A controvérsia dos autos consiste em aferir a existência de vícios nos imóveis, de forma a comprometer a segurança e habitabilidade hábeis a ensejar a rescisão e reparação pelos danos alegados.
+(..).
+A constatação do vício redibitório autoriza os compradores do bem defeituoso a pleitearem a rescisão do vínculo contratual ou, ainda, o abatimento do preço em valor correspondente ao defeito, conforme dispõe o art. 442, do Código Civil.
+Diante da natureza da lide, a questão deve ser solucionada mediante a realização de perícia técnica na área de engenharia civil.
+No caso, conforme consta dos autos, fora realizada perícia nos autos da ação cautelar (processo n.º 024.03.057.398-4 - fls. 185/201), bem como consta laudo pericial, produzido nestes autos (ID 52244949 fls. 953/981 - doc. único pdf.).
+Em resposta aos quesitos o perito confirmou a existência de vícios no imóvel.
+Assim, conforme laudo pericial constante do processo 024.03.057.398-4 o perito concluiu que (fl. 201 doc. único):
+(..).
+Desta forma restou evidenciados os vícios existentes no imóvel adquirido pelos autores.
+Ainda, conforme laudo de fls. 1.19/1.16 doc. único pdf), mesmo após as obras de recuperação realizadas pela construtora apelante, embora o perito afirme que visualmente houve reparos, certo é que não há informação conclusiva pela perícia de que os riscos tenham sido eliminados por completo, visto que o perito aduz que a empresa que realizou a quem poderia garantir pela totalsegurança do imóvel.
+(..).
+Nesse sentido inegável pelas provas dos autos que o comprometesse a solidez da edificação no que tange à estrutura do edifício somente a empresa responsável pela execução do projeto de recuperação é que poderia garantir pela total segurança do edifício (tal como esclarecido pelo perito.
+Ainda, conforme prova pericial constantes dos autos (fls. 953/981) o perito informa a existência de trincas indicativa de movimentação do terreno (fl. 963):
+(..).
+Uma vez que as demais provas trazidas para os autos não elidiram as conclusões do laudo pericial, pelo contrário, corroboraram, devem prevalecer as conclusões manifestadas pelo perito oficial.
+Ademais, importante frisar que em razão da interdição do Bloco II, pois foi a edificação que mais apresentou danos, não se pode desconsiderar que os demais blocos que compõem o mesmo terreno sobre o qual houve a movimentação das terras e, conforme perícia realizada, apresentam defeitos, sendo que não foi possível afirmar pela estabilidade do empreendimento.
+Ainda, a existência de trincas nas áreas comuns indica que toda a área foi comprometida, inclusive o prédio dos apelados.
+Fato é que nem mesmo o perito pôde afirmar que a construção estava segura.
+Assim, deve ser mantida a rescisão contratual conforme consta da sentença.
+Portanto, considerando a rescisão do contrato em razão de vícios no imóvel, todos os valores pagos pela sua compra devem ser restituídos.
+Observo que o Colegiado estadual não decidiu acerca do art. 445 do Código Civil, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Assim, incide, à espécie, o óbice disposto na Súmula 211/STJ, no ponto, uma vez que é imprescindível que no acórdão recorrido a questão tenha sido discutida e decidida fundamentadamente, o que não verifico na presente hipótese.
+Nesse rumo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INCIDENTE DE RESERVA DE BENS. INVENTÁRIO. RECURSO CABÍVEL. PRINCÍPIO DA FUNGIBILIDADE.DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Ausente o exame da matéria pelo Tribunal de origem, mesmo diante da oposição de embargos declaratórios, inviável o recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+3. Admite-se a aplicação da fungibilidade recursal "na hipótese em que exista dúvida objetiva, fundada em divergência doutrinária ou mesmo jurisprudencial acerca do recurso a ser manejado em face da decisão judicial a qual se pretende impugnar" (AgRg no AREsp 336.945/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/10/2014, DJe 23/10/2014).
+4. Agravo interno a que se nega provimento.
+(AgInt no AgRg nos EDcl no REsp 1512522/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/06/2016, DJe 20/06/2016.)
+AGRAVO INTERNO. AGRAVO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. EMBARGOS DO DEVEDOR. IMPUGNAÇÃO. AUSÊNCIA. PRESUNÇÃO DE VERACIDADE. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O cerceamento de defesa não foi objeto de apreciação pelo acórdão de origem, a despeito da oposição de embargos de declaração, o que atrai as disposições dos enunciados n. 282 da Súmula do STF e 211 do STJ.
+2. Não se aplica a presunção de veracidade aos embargos do devedor, ainda que não respondidos pelo credor, haja vista que seu direito já está materializado no título em execução, cabendo ao devedor a prova de suas alegações. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 449.735/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/05/2016, DJe 03/06/2016.)
+Constato que o Tribunal de origem entendeu que, "Desta forma restou evidenciados os vícios existentes no imóvel adquirido pelos autores.(..).Nesse sentido inegável pelas provas dos autos que o comprometesse a solidez da edificação no que tange à estrutura do edifício somente a empresa responsável pela execução do projeto de recuperação é que poderia garantir pela total segurança do edifício (tal como esclarecido pelo perito. (..).Ainda, a existência de trincas nas áreas comuns indica que toda a área foi comprometida, inclusive o prédio dos apelados.Fato é que nem mesmo o perito pôde afirmar que a construção estava segura.Assim, deve ser mantida a rescisão contratual conforme consta da sentença.Portanto, considerando a rescisão do contrato em razão de vícios no imóvel, todos os valores pagos pela sua compra devem ser restituídos" (fls. 2.213-2.216).
+Desse modo, a revisão do julgado, nos moldes em que a questão foi apresentada, pressupõe o reexame de provas, o que é não viável, diante da incidência do obstáculo do enunciado 7 da Súmula desta Corte, na hipótese dos autos.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, devida pela parte agravante, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
