@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 257):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA.REPERCUSSÃO SOBRE A GARANTIA. AUSÊNCIA DE DIALETICIDADE RECURSAL. REJEIÇÃO. INCIDÊNCIA DAS REGRAS DO CÓDIGO DE DEFESA DO CONSUMIDOR. CAPITALIZAÇÃO MENSAL. POSSIBILIDADE.JUROS REMUNERATÓRIOS. ADEQUAÇÃO. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE ABUSIVIDADE. DESPESAS DE COBRANÇA. VALIDADE. REPASSE AO CONSUMIDOR DE HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS SEM GARANTIA DE IGUAL DIREITO.ABUSIVIDADE. INTELIGÊNCIA DO ART. 51, XII, DO CDC. PARCIAL REFORMA DA SENTENÇA.
+- Não viola o princípio da dialeticidade o recurso que impugna, de modo conciso, os fundamentos da sentença.
+- O Código de Defesa do Consumidor é aplicável aos contratos bancários.
+- A competência para a limitação dos juros nas operações e serviços bancários é do Conselho Monetário Nacional, não incidindo, na espécie, obrigatoriamente, os percentuais previstos na Lei de Usura e no Código Civil.
+- Deve-se manter o percentual dos juros constante do contrato firmado entre as partes, se não demonstrada a exorbitância, mesmo porque a tabela publicada pelo Banco Central do Brasil não possui força vinculante.
+- A capitalização dos juros em periodicidade mensal é permitida nos contratos celebrados pelas Instituições financeiras, aplicando-se a tese do duodécuplo para comprovar a pactuação.
+- "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual" (Súmula 472 do STJ).
+- Conforme expressamente dispõe o art. 51, XII, do CDC, é nula de pleno direito a cláusula que obriga o consumidor a ressarcir os custos de cobrança a título de honorários advocatícios extrajudiciais, sem que igual direito lhe seja conferido contra o fornecedor, devendo prevalecer a boa-fé e o equilíbrio contratual.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts.389, 395 e 404, doCódigo Civil; ao art. 51, XII, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Defende a validade da cláusula contratual que prevê o pagamentode honorários advocatícios decorrentes da cobrança extrajudicial da dívida.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local reformou parcialmentesentença de improcedência apenas parareconhecer a nulidade de trecho de cláusula contratual que estabelecia a cobrança de honorários advocatícios extrajudiciais na hipótese de mora do devedor, de acordo com os seguintes fundamentos (e-STJ, fls. 264/267):
+Prossegue-se, para dizer que apenas é garantido à Instituição bancária o repasse dos custos de cobrança. Por outro lado, no tocante à cláusula que permite o repasse dos honorários com cobrança judicial e extrajudicial, tenho entendimento de que a disposição contratual, tratando-se de relação de consumo, esbarra na disposição do artigo 51, XII, do Código de Defesa do Consumidor - norma específica e protetiva, que deve prevalecer:
+Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que:
+(..) XII - obriguem o consumidor a ressarcir os custos de cobrança de sua obrigação, sem que igual direito lhe seja conferido contra o fornecedor;
+Desta forma, constata-se que a nulidade parcial da cláusula debatida decorre de expressa previsão legal, devendo ser extirpada do contrato a parte relativa à cobrança dos honorários advocatícios extrajudicial, razão pela qual merece reforma a sentença, no ponto.
+Sobre o tema, a lição de NELSON NERY JÚNIOR:
+(..)
+Não socorre ao Réu a alegação de que o consumidor assinou o contrato sem qualquer ressalva, anuindo com a cláusula que prevê a cobrança de honorários advocatícios caso necessária a cobrança extrajudicial do débito. Conforme expressa disposição legal, a cláusula que obrigue o consumidor a ressarcir os custos de cobrança de sua obrigação, sem que igual direito lhe seja conferido contra o fornecedor, é nula de pleno direito, devendo prevalecer a boa-fé e o equilíbrio contratual.
+(..)
+Ante o exposto, revela-se nulo o trecho da cláusula que autoriza a incidência de honorários advocatícios em razão de eventual cobrança.
+Com tais considerações, DOU PARCIAL PROVIMENTO AO RECURSO, apenas para declarar a nulidade parcial da cláusula que estabelece a cobrança de honorários advocatícios extrajudiciais,determinada a restituição de forma simples dos eventuais valores pagos pela parte autora, a serem apurados em fase de liquidação.
+No que se refere a custas e honorários, em razão das alterações ora procedidas e havendo, como tal, reciprocidade na sucumbência, entendo que a parte autora deverá arcar com o pagamento do percentual de 95% (noventa e cinco por cento) das custas, demais despesas processuais e dos honorários advocatícios, suspensa a exigibilidade nos termos do art. 98, §3º, do CPC, ao passo que a parte ré suportará o pagamento dos 05% (cinco por cento) remanescentes.
+Com fincas no art. 85, §§2º, 8º e 11, do CPC, fixo os honorários advocatícios no importe total equivalente a 15% do valor atualizado da causa, a serem distribuídos na forma ora estabelecida, vedada a compensação por se tratar de verba pertencente aos advogados e não às partes, como determinado no §14 do mesmo dispositivo legal.
+Com efeito, a jurisprudência de ambas as Turmas da Segunda Seção deste Superior Tribunal de Justiçaé firme no sentido de que, nas relações de consumo, havendo expressa previsão contratual, ainda que em contrato de adesão, não é abusiva a cobrança dehonorários advocatícios extrajudiciais em caso de mora ou inadimplência. A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. COBRANÇA. POSSIBILIDADE. PREVISÃO CONTRATUAL. INADIMPLEMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É possível a cobrança de honorários advocatícios extrajudiciais se expressamente prevista em contrato, ainda que de adesão, em caso de mora ou inadimplemento por parte do consumidor. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no REsp n. 1.837.360/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2020, DJe de 17/11/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos da jurisprudência desta Corte Superior, é válida a cláusula contratual que prevê o pagamento de honorários decorrentes da cobrança extrajudicial da obrigação, não se confundindo com a verba sucumbencial que eventualmente advenha de demanda judicial.Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt no AREsp n. 1.593.916/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/6/2020, DJe de 30/6/2020.)
+RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. CONTRATO BANCÁRIO. MORA. CONTRATO. PREVISÃO DE COBRANÇA DE HONORÁRIOS. POSSIBILIDADE.
+1. Possibilidade de cobrança de honorários advocatícios extrajudiciais se expressamente prevista em contrato, ainda que de adesão, em caso de mora ou inadimplemento por parte do consumidor, não se confundindo com os honorários sucumbenciais que eventualmente advenham da cobrança judicial.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.813.017/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/10/2019, DJe de 24/10/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. CONTRATO DE EMPRÉSTIMO. RELAÇÃO DE CONSUMO. PREVISÃO CONTRATUAL DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE MORA OU INADIMPLEMENTO. AGRAVO NÃO PROVIDO.
+1. Nas relações de consumo, havendo expressa previsão contratual, ainda que em contrato de adesão, não se tem por abusiva a cobrança de honorários advocatícios extrajudiciais em caso de mora ou inadimplemento do consumidor.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.571.053/AL, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.)
+RECURSOS ESPECIAIS. CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. I - RECURSO DO BANCO PROMOVIDO: CONTRATO BANCÁRIO. LEASING. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE COBRANÇA EXTRAJUDICIAL. ÔNUS DECORRENTE DA MORA. RESPONSABILIDADE DO DEVEDOR. LEGALIDADE (CC/2002, ARTS. 389, 395 E 404). CONTRATO DE ADESÃO (CDC, ART. 51, XII). EXISTÊNCIA DE CLÁUSULA CONTRATUAL EXPRESSA. IMPROCEDÊNCIA DA AÇÃO. RECURSO PROVIDO. II - RECURSO DO PROMOVENTE: HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO MINISTÉRIO PÚBLICO. RECURSO PREJUDICADO.
+1. Inexiste abuso na exigência, pelo credor, de honorários advocatícios extrajudiciais a serem suportados pelo devedor em mora em caso de cobrança extrajudicial, pois, além de não causar prejuízo indevido para o devedor em atraso, tem previsão expressa nas normas dos arts. 389, 395 e 404 do Código Civil de 2002 (antes, respectivamente, nos arts. 1.056, 956 e 1.061 do CC/1916).
+2. Nas relações de consumo, havendo expressa previsão contratual, ainda que em contrato de adesão, não se tem por abusiva a cobrança de honorários advocatícios extrajudiciais em caso de mora ou inadimplemento do consumidor. Igual direito é assegurado ao consumidor, em decorrência de imposição legal, nos termos do art. 51, XII, do CDC, independentemente de previsão contratual.
+3. Recurso especial da instituição financeira provido, prejudicado o recurso do Ministério Público.
+(REsp n. 1.002.445/DF, relator Ministro Marco Buzzi, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 25/8/2015, DJe de 14/12/2015.)
+Na hipótese, a Corte local ao considerar nula aestipulação, no contrato celebrado entre as partes, de cobrança de honorários advocatícios extrajudiciais, decidiu em contrariedade à jurisprudência deste Superior Tribunal de Justiça, de modo que merece reforma o acórdão recorrido.
+Em face do exposto, douprovimento ao recurso especial para, reformando o acórdão recorrido,autorizar a cobrança dehonorários advocatícios extrajudiciaisem caso de mora ou inadimplência nos termos do contrato firmado entre as partes, e, em consequência, restabelecera sentença de fls. 182/192 de improcedência, inclusive quanto aoônus de sucumbência.
+Intimem-se.
