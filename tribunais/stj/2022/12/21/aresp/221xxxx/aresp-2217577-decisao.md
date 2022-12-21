@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por VICTOR DA SILVA ALBUQUERQUE eJEFERSON SOARES RIBEIRO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 377-392):
+"ROUBO QUALIFICADO - PRISÃO EM FLAGRANTE  ARRASTÃO EM PRAIA  PALAVRAS DAS VÍTIMAS SEGURAS E COERENTES  RECONHECIMENTO NA DELEGACIA E EM JUÍZO NEGATIVA ISOLADA DOS RÉUS-GRAVE AMEAÇA BEM COMPROVADA - DELITO CONSUMADO  SÚMULA Nº 582, DO SUPERIOR TRIBUNAL DE JUSTIÇA - CONDENAÇÃO MANTIDA;"
+Em suas razões recursais, a parte recorrente aponta violação doart. 33 do Código Penal. Aduz para tanto, em síntese, que, fixada a pena-base no mínimo legal, não foi apresentado fundamento idôneo a justificar a fixação de regime inicial mais gravoso para cumprimento da pena.
+Com contrarrazões (e-STJ, fls. 473-480), o recurso especial foi inadmitido na origem (e-STJ, fls. 551-552), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo, para conhecer e dar provimento ao recurso especial para reformar o acórdão recorrido e fixar o regime semiaberto (e-STJ, fls. 587-591).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Para permitir a análise dos critérios utilizados na fixação do regime inicial de cumprimento de pena, faz-se necessário expor excertos do acórdão da apelação:
+"Finalmente, o regime fechado para o roubo qualificado,respeitado o convencimento da ilustre Magistrada, era mesmo de rigor, já que os réus foram autores de crime com ameaça contra diversas pessoas abordadas quando estavam na praia, em verdadeiro "arrastão" contra elas.
+Ação dessa natureza denota periculosidade excessiva e abala a ordem pública, cada vez mais aterrorizada com o aumento da violência, principalmente em cidades do litoral paulista, onde aqueles que vão até lá para se divertirem acabam sendo despojados de seus pertences.
+Bem por isso, em face da gravidade concreta daconduta praticada, era mesmo recomendada enérgica punição, com a segregação dos agentes por mais tempo no isolamento total."(e-STJ, fl. 390).
+De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Na hipótese, os fundamentos utilizados para justificar o regime imposto aos recorrentes são inerentes ao próprio tipo penal, eis que o fato de ter sido praticado crime com ameaça contra diversas pessoas já foi devidamente valorado quando da condenação por crimes de roubo, em concurso formal.
+Como bem pontuou o Ministério Público Federal em seu parecer, "apesar da pena-base ter sido fixada no mínimo legal, por ausência de circunstâncias judiciais desfavoráveis, foi fixado o regime fechado ao argumento de gravidade da conduta, baseado apenas nas elementares do crime." (e-STJ, fl. 590).
+Neste contexto, é de rigor o restabelecimento do regime semiaberto, fixado na sentença condenatória.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ,conheçodo agravo paradar provimentoao recurso especial, a fim de restabelecer o regime inicial de cumprimento de pena fixado na sentença condenatória.
+Publique-se. Intimem-se.
