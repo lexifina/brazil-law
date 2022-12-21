@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de extensão protocolado porBRENDOW ALVES GAMA, em, que busca a extensãodos efeitos da decisão proferida no presentehabeas corpusem favor de FABRICIO ADEODATO RIBEIRO.
+Afirma queo corréu BRENDOW ALVES GAMA se encontra na mesma situação. Foi formulado pedido de detração do período de cumprimento da medida cautelar de recolhimento noturno referente a mesma ação penal PROCESSO CRIMINAL 0018696-19.2015.8.08.0048 da 4ª Vara Criminal da Serra/ES.O pedido de detração e extensão foi negado pela juíza da 8ª Vara de Execuções Penais de Vila Velha/ES, mesmo tendo a defesa dado ciência da decisão proferida pelo Ministro Ribeiro Dantas.
+Registra que os réus responderam a mesma ação penal, e tiveram a mesma medida cautelar de recolhimento noturno aplicada.
+Anexa a decisão do Juízodas Execuções, cópia da guia de execução e andamento processualpara comprovar que ostenta situação fática absolutamente idêntica a docorréu beneficiado e pugna pela aplicação do art. 580 do Código de Processo Penal, a fim deque seja determinadoao Juízo da Execução que também seja realizada a detração do período de cumprimento da medida cautelar de recolhimento noturno já que FABRICIO e BRENDOW estão nas mesmas condições, responderam a mesma ação penal 0018696-19.2015.8.08.0048 e tiveram a mesma medida cautelar de recolhimento noturno aplicada.
+É o relatório.
+Decido.
+Nos termos do art. 580 do Código de Processo Penal, devem ser estendidos aos demais corréus os efeitos de decisão que beneficia um dos acusados, desde que demonstrada a similitude fática e processual.
+In casu, verifica-se que o requerente comprovou que os réus responderam a mesma ação penal e tiveram a mesma medida cautelar de recolhimento noturno aplicada e queJuíza da 8ª Vara de Execuções Penais de Villa Velha/ES, negou o pedido, no sentido de não aplicar a detração no tocante as medidas cautelares diversas da prisão (recolhimento domiciliar noturno), sem a devida motivação, evidenciando-se a existência de similitude fática, apta a justificar a aplicação do disposto no art. 580 do CPP.
+Diante do exposto,defiro o pedido de extensão,para determinar ao Juízo da Execução que retifique os cálculos de pena, a fim de que seja realizada a detração do período de cumprimento da medida cautelar de recolhimento noturno pelo paciente.
+Publique-se. Intime-se.
