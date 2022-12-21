@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CHRISTIAINE PICINI BASILIO (fls. 262, e-STJ) contra a decisão de fls. 257-260 e-STJ, que negou provimento ao agravo em recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese que a decisão embargada "encontra-se omissa, obscura e contraditória no que diz respeito à falta de apreciação das teses da agravante no que diz respeito as alegações de miserabilidade comprovada pelo recebimento da ajuda do governo, de estar desempregada, doente e sem condições de trabalhar e ainda, necessitando da ajuda da mãe", aduzindo que " decisão é contraditória e omissa, sem fundamentação e motivação pois, em sendo concedida a gratuidade no Resp. poderão a autora sofrer um prejuízo irreparável caso a douta sentença seja mantida".
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contrarrazoar os embargos de declaração, a que realizou em fls. 266-268 e-STJ.
+Assim delimitada a questão, passo a decidir.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A despeito das alegações da parte embargante, a gratuidade de Justiça já foi objeto de apreciação por ocasião do julgamento do agravo de instrumento pelo Tribunal local, que a concedeu (e-STJ, fls. 68): "Concedida a gratuidade processual à agravante e o efeito suspensivo ao recurso" (fls. 39/40).
+Logo, vazio de sentido os presentes embargos de declaração, não havendo qualquer omissão, contradição ou obscuridade a ser sanada.
+Portanto, é evidente que não há omissão ou contradição alguma apta a possibilitar o acolhimento dos presentes embargos de declaração.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel, Min. Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, Dje 28.8.2014.
+Assim, não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Em face do exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração desse expediente, sob pena de pagamento de multa de 2% (dois por cento) sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Intimem-se.
