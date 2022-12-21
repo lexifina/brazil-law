@@ -1,0 +1,17 @@
+Solução de Divergência Cosit nº 1, de 15 de dezembro de 2022
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+LUCRO REAL. DEDUTIBILIDADE DE TRIBUTO, JUROS E MULTAS MORATÓRIOS. PARCELAMENTO.
+Em regra, as despesas realizadas com o pagamento do valor do principal de tributos e contribuições, ainda que mediante parcelamento, são dedutíveis, na determinação do lucro real, segundo o regime de competência, com exceção, nomeadamente, do Imposto sobre a Renda e da Contribuição Social sobre o Lucro Líquido de que a pessoa jurídica for sujeito passivo como contribuinte ou como responsável em substituição ao contribuinte.
+Não são dedutíveis na apuração do lucro real as multas por infrações fiscais, salvo as de natureza compensatória e as impostas por infrações de que não resultem falta ou insuficiência de pagamento de tributo.
+Por seu turno, a regra aplicada à dedutibilidade dos juros moratórios deve ser a mesma aplicada aos tributos, contribuições e multas sobre os quais incidem, dada sua natureza de acessório, que segue o principal. De modo que são indedutíveis, na espécie, os juros de mora incidentes sobre o IRPJ, a CSLL e sobre multas relativas a lançamento de ofício.
+Dispositivos Legais: Lei nº 8.981, de 1995, art. 41; Lei nº 9.316, de 1996, art. 1º; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda de 1999), art. 344; Decreto nº 9.580, de 2018 (Regulamento do Imposto sobre a Renda de 2018), art. 352; Instrução Normativa RFB nº 1.700, de 2017, arts. 131, 132 e 133; Soluções de Divergência nº 6, de 2012, e nº 9, de 2013; Pareceres Normativos CST nº 174, de 1974, e nº 61, de 1979; Portaria RFB nº 3.222, de 2011, art. 6º; Portaria RFB nº 1.936, de 2018.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+RESULTADO AJUSTADO. DEDUTIBILIDADE DE TRIBUTO, JUROS E MULTAS MORATÓRIOS. PARCELAMENTO.
+Em regra, as despesas realizadas com o pagamento do valor do principal de tributos e contribuições, ainda que mediante parcelamento, são dedutíveis, na determinação do resultado ajustado, segundo o regime de competência, com exceção, nomeadamente, do Imposto sobre a Renda e da Contribuição Social sobre o Lucro Líquido de que a pessoa jurídica for sujeito passivo como contribuinte ou como responsável em substituição ao contribuinte.
+Não são dedutíveis na apuração do resultado ajustado as multas por infrações fiscais, salvo as de natureza compensatória e as impostas por infrações de que não resultem falta ou insuficiência de pagamento de tributo.
+Por seu turno, a regra aplicada à dedutibilidade dos juros moratórios deve ser a mesma aplicada aos tributos, contribuições e multas sobre os quais incidem, dada sua natureza de acessório, que segue o principal. De modo que são indedutíveis, na espécie, os juros de mora incidentes sobre a CSLL, o IRPJ e sobre multas relativas a lançamento de ofício.
+Dispositivos Legais: Dispositivos Legais: Lei nº 8.981, de 1995, art. 41; Lei nº 9.316, de 1996, art. 1º; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda de 1999), art. 344; Decreto nº 9.580, de 2018 (Regulamento do Imposto sobre a Renda de 2018), art. 352; Instrução Normativa RFB nº 1.700, de 2017, arts. 131, 132 e 133; Soluções de Divergência nº 6, de 2012, e nº 9, de 2013; Pareceres Normativos CST nº 174, de 1974, e nº 61, de 1979; Portaria RFB nº 3.222, de 2011, art. 6º; Portaria RFB nº 1.936, de 2018.
+SD Cosit nº 1-2022
+[arquivo anexo: SD Cosit nº 1-2022.pdf]
+CLÁUDIA LÚCIA PIMENTEL MARTINS SILVA
+Coordenadora-Geral
