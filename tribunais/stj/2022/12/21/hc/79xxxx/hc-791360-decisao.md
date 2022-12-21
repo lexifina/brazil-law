@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Guilherme Neves Daichtman Roda, condenado a 1 ano e 8 meses de reclusão, em regime inicial aberto, substituída a pena privativa de liberdade por restritivas de direitos, e ao pagamento de 166 dias-multa, pela prática do crime de tráfico de drogas (1,47 kg de maconha e 30 porções de haxixe - fls. 15/16).
+Ataca-se acórdão proferido pelo Tribunal de Justiça de Santa Catarina (fls. 1.144/1.156), que alterou a sentença condenatória prolatada na Ação Penal n. 0002394-75.2019.8.24.0064 (fls. 24/32), da 1ª Vara Criminal da comarca de São José/SC.
+Alega-se constrangimento ilegal na dosimetria da pena - na segunda fase, por negativa de aplicação da atenuante da confissão, com a superação da Súmula n. 231 do STJ -, e requer-se, então, a concessão da ordem, inclusive em caráter liminar, para que seja redimensionada a pena imposta.
+É o relatório.
+Inicialmente, tem-se que o habeas corpus foi impetrado contra condenação já transitada em julgado há mais de 2 anos (1º/9/2020). Assim, por se tratar de sucedâneo de revisão criminal, esta Corte Superior é manifestamente incompetente para análise do pleito, notadamente porque inexiste aqui julgamento de mérito, passível de revisão.
+Julgados nesse sentido: AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022; AgRg no HC n. 751.403/SP, Ministro João Otávio de Noronha, Quinta Turma, julgado em 6/9/2022, DJe de 12/9/2022.; e HC n. 602.425/SC, Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021.
+Outrossim, não demonstrado constrangimento ilegal apto a subsidiar a concessão de habeas corpus de ofício (art. 654, § 2º, do CPP).
+Primeiro, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório (AgRg no HC n. 728.569/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe 24/6/2022).
+Ademais, no caso, da atenta análise da sentença e do acórdão hostilizado, observa-se que, quanto à dosimetria da pena, as instâncias ordinárias fixaram a pena-base no mínimo legal (fls. 31/42), deixando de aplicar a atenuante da confissão considerando ao Enunciado n. 231 da Súmula desta Corte: não resta qualquer efeito prático na pena, contudo, à luz da Súmula n. 231 do Superior Tribunal de Justiça, que impede a redução da pena aquém do mínimo legal na etapa intermediária do cálculo dosimétrico (fl. 42).
+Assim, sem razão a impetração, pois, não constatada ilegalidade na negativa de aplicação da atenuante da confissão, dosimetria da pena, considerando o Enunciado n. 231 da Súmula do STJ.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (1,47 KG DE MACONHA E 30 PORÇÕES DE HAXIXE). WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. CONHECIMENTO. IMPOSSIBILIDADE. PRETENSÃO DE REVISÃO DADOSIMETRIA DE CONDENAÇÃO TRANSITADA EM JULGADO HÁ MAIS DE 2 ANOS. IMPOSSIBILIDADE. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. INAPLICABILIDADE. ENUNCIADO N. 231 DA SÚMULA DO STJ. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
