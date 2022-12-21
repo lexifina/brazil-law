@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE BUSCA E APREENSÃO. NOTIFICAÇÃO POR CORREIO ELETRÔNICO (E-MAIL). INVALIDADE. FALTA DE PRESSUPOSTO PROCESSUAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. Não caracterizada a mora do devedor, diante da falta de comprovação denotificação extrajudicial, cuja tentativa se deu em desacordo com as disposiçõescontidas no Decreto-Lei nº 911/69, porquanto remetida via e-mail, inexistepressuposto indispensável ao desenvolvimento regular e válido do processo,ensejando a extinção da ação sem julgamento de mérito.
+APELAÇÃO DESPROVIDA.
+Alega-se violação do artigo 2º, § 2º, do Decreto-Lei 911/69 sob o argumento de que o envio de notificação da mora por correio eletrônico (e-mail) é válida, haja vista "que o legislador estabeleceu cláusula aberta, permitindo qualquer meio de prova para a comunicação do devedor fiduciante" (e-STJ, fl. 120).
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, no exame da questão em torno da notificação da mora na ação de busca e apreensão, concluiu que, "em casos como o presente, em que a notificação se dá por e-mail, não é possível extrair a ciência inequívoca do recebimento da notificação eletrônica pelo requerido e o acesso ao conteúdo do comunicado, podendo até mesmo a notificação ser reconhecida como spam - o que, aliás, sabidamente é corriqueiro" (e-STJ, fl. 108).
+Independentemente da validade do meio utilizado pelo credor, a conclusão a que chegou o Tribunal de origem, no sentido de que não é possível ter certeza de que a correspondência doi recebida e lida pelo devedor, é imune ao crivo do recurso do recurso especial, por encontrar as disposições do verbete n. 7 da Súmula desta Casa, como já se decidiu.
+A saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. COMPROVAÇÃO DA MORA. CONDIÇÃO DE PROCEDIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor.Para rever a conclusão que chegou o Tribunal de origem quanto à falta de regular notificação acerca da mora, seria necessário o reexame do conjunto fático-probatório dos autos, providência descabida, tendo em vista a incidência da Súmula n. 7/STJ.
+2. Esta Corte de Justiça entende que a comprovação da mora é condição de procedibilidade da ação de busca e apreensão, não se admitindo que ocorra após o ajuizamento da demanda. Incidência da Súmula n. 83/STJ.
+3. Agravo interno improvido.
+(AgInt no REsp n. 2.022.425/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
