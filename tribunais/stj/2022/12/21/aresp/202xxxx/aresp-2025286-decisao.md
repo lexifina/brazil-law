@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CPC. AÇÃO MONITÓRIA. EXTINÇÃO. AGRAVO DO INSTRUMENTO. MORTE DO DEVEDOR. ANTES DO AJUIZAMENTO DA AÇÃO. EXTINÇÃO.
+1 Constatado que o devedor apontado na ação monitória faleceu quase 4 anos antes do ajuizamento da ação não há de se falar em substituição processual.
+1.1 A hipótese é de ilegitimidade passiva e não de substituição processual.
+2. Agravo de instrumento desprovido.
+A parte agravante sustenta que deveria ser-lhe permitida a substituição processual dode cujuspelos herdeiros, para a cobrança da dívida até os limites da herança. Requer que os honorários sejam arbitrados com base em critérios de equidade.
+Quanto à substituição processual, a parte indica como paradigma o mesmo aresto do STJ que serviu de fundamento ao acórdão recorrido, o qual estabelece a impossibilidade de suspensão ou de substituição processual. O precedente desta Corte estabelece a necessidade de cobrança da dívida perante do espólio, providência que não foi cogitada pela parte agravante. Quanto ao ponto, incide, assim, a Súmula n. 284/STF.
+Relativamenteaos honorários advocatícios, a Segunda Seção do STJ, no julgamento do REsp n. 1.746.072/PR, entendeu que "o § 2º do art. 85 do CPC de 2015 veicula a regra geral e obrigatória de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% a 20%: (I) do valor da condenação; ou (II) do proveito econômico obtido: ou (III) não sendo possível mensurá-lo, do valor atualizado da causa", relegando "ao § 8º do art. 85 a instituição de regra excepcional, de aplicação subsidiária, para as hipóteses em que, havendo ou não condenação: (I) for inestimável ou irrisório o proveito econômico obtido; ou (II) for muito baixo o valor da causa", afastando-se ainda o entendimento de que o referido § 8º - que possibilita a fixação dos honorários por equidade poderia ser utilizado nas causas de grande valor (Relator para acórdão o Ministro RAUL ARAÚJO, DJe de 29/3/2019).
+O caso dos autos não se enquadra nas hipóteses de incidência do art. 85, § 8º, do CPC, motivo por que o acórdão estadual também não merece reparos, no ponto.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
