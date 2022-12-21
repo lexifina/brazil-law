@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARIANA ZABLONSKI DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que apaciente foi presaem flagrante pela suposta prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006, tendo sidoconcedida a liberdade provisória condicionada ao cumprimento de medidas cautelares diversas.
+Inconformada, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 22):
+AÇÃO DE HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGA - APLICAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS - VIOLAÇÃO DO ART. 282, § 2º, DO CÓDIGO DE PROCESSO PENAL - NÃO OCORRÊNCIA - IMPOSIÇÃO E PRORROGAÇÃO DAS LIMITAÇÕES ALTERNATIVAS - POSSIBILIDADE - RISCO CONCRETO DE REITERAÇÃO DELITIVA - DECISÃO FUNDAMENTADA - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO - ORDEM DENEGADA. Não se verifica afronta ao art. 282, § 2º, do CPP diante da manifestação do agente ministerial pela aplicação do art. 310, inciso III, c/c art. 321, ambos do mesmo codex. Não há constrangimento ilegal quando a imposição e manutenção das medidas cautelares diversas está fundamentada na gravidade da conduta, evidenciada, sobretudo, pelas circunstâncias da apreensão, de significativa quantidade de substância entorpecente e em razão de sua natureza, indicando o possível envolvimento da agente com a narcotraficância. Ordem conhecida e denegada.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da medida cautelar de monitoramentoeletrônico, que teria sido decretada de ofício pelo Juízo de origem, tendo o acórdão impetrado, além disso, chancelado a decisão ilegalinovando os fundamentos para a imposição da medida, a fim de negar a concessão da ordem.
+Sublinha aausência de fundamentação idônea e individualizada para justificar a imposição da medida cautelar, devendo serconsiderada a existência de condições pessoais favoráveis àpaciente, que é primária e está cumprindo a restrição há mais de 1 anosem ter cometido qualquer falta durante esse interstício.
+Diante disso, requer, em liminar e no mérito, a revogação da medida de monitoramento eletrônico, para que a paciente possa responder ao processo em plena liberdade.
+O pleito urgente foi indeferido (e-STJ fls. 556/558).
+Prestadas as informações (e-STJ fls. 579/581), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (e-STJ fls. 585/592).
+É o relatório. Decido.
+Em exame do HC n. 780.494/PR, impetrado em favor da corré BEATRIZ FERREIRA BARBI,decidi, na presente data,conceder a ordem, de ofício, para revogar as medidas cautelares impostas pelo Juízo singular na ação penal originária, decisão esta que foi estendida também à ora paciente.
+Assim, entendo que fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a medida cautelar imposta à paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
