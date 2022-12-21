@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça espanhola (Juzgado de lo penal n.º 05 de Cadiz) solicita a intimação pessoal de JESUS PIRES MATOS JÚNIOR para tomar ciência da decisão denominada "despacho de RPS e suspensão", na qual foi imposta a pena de privação e liberdade como responsabilidade subsidiária por falta de pagamento da integralidade de multa anteriormente imposta e suspensa, pelo prazo de dois anos, a execução desta penalidade (fls. 12/13).
+Concedido o exequatur (fls. 63/64), foram os autos remetidos à Seção Judiciária do Estado de São Paulo. Em comunicado eletrônico recebido nesta Corte, na data de 15/12/2022, o juízo federal acostou aos autos certidão positiva exarada nestes termos:
+CERTIFICO eu, Oficial de Justiça, que em cumprimento ao mandado nº 271.2022/020474-6 dirigi-me ao endereço mencionado AV LUIZ REVIGLIO n 215 apto 246 bloco 2 Cond Villa Nova-Jardim Bela Vista no dia 19.11.22 e lá estando procedi a devida INTIMAÇÃO DO RÉU JESUS PIRES MATOS JÚNIOR nos termos da ordem expedida conforme assinatura exarada.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
