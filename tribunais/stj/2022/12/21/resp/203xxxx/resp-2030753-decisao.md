@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MATO GROSSO DO SUL com fulcronas alíneas "a" e "c" do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ fl. 61):
+AGRAVO DE INSTRUMENTO. RECURSO EM CONTRASTE COM O ENTENDIMENTO VINCULANTE ESTABELECIDO PELO TRIBUNAL EM INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO AO RECURSO. AGRAVO INTERNO. IMPROCEDÊNCIA.
+Em suas razões, a parte recorrente aponta,além de dissídio jurisprudencial, violaçãodos arts.4º e 8º, § 2º, da Lei n. 12.514/2011, argumentando, em suma,a possibilidade de execução de multas de natureza administrativa.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem àe-STJ fl. 90.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada, referente à natureza jurídica do débito cobrado na execução fiscal, não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018.
+Ainda que assim não fosse, extrai-se do julgado o seguinte trecho (e-STJ fl. 54):
+O agravo de instrumento foi interposto contra decisão que, nos autos da execução fiscal de origem, determinou o arquivamento provisório do feito, com base no § 2º do art. 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021.
+A 1ª Seção deste tribunal, órgão colegiado que reúne as turmas especializadas em matéria tributária, decidiu em 05 de maio de 2022, no julgamento do Incidente de Assunção de Competência nº 5046920- 60.2021.4.04.0000/RS, que é formal e materialmente constitucional o § 2º do artigo 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021, sendo aplicável inclusive aos feitos pendentes em que não forem encontrados bens penhoráveis, como ocorre no caso.
+Ora, o agravo de instrumento contraria o entendimento vinculante estabelecido pela 1ª Seção deste tribunal, no julgamento acima indicado, o que justifica o seu desprovimento de plano, com base no artigo 927, III combinado com o artigo 932, IV, "c", do Código de Processo Civil.
+Como se vê, o Tribunal de origem assentou que a matéria foi examinada em Incidente de Assunção de Competência, vinculando todos os juízes e órgãos fracionários, de acordo com o disposto no art. 947, § 3º, do CPC/2015, contudo, nas razões do Recurso Especial, tal fundamentação não foi refutada.
+Assim, incide, por analogia, a Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", bem como a Súmula 284 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". (EDcl no AgInt no REsp 1589590/SP, rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016).
+Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. (REsp 1764001/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2021, DJe 01/07/2021)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
