@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Agravo de Instrumento. Execução de título executivo extrajudicial. Recuperação Judicial. Aprovação e homologação do plano de recuperação da devedora principal, ora recorrente. Novação das dívidas pretéritas, com a consequente extinção da execução individual. Seguimento, no entanto do curso da execução individual em relação aos coobrigados. Natureza interlocutória do "r. decisum" impugnado. Honorários sucumbenciais. Descabimento. Em que pese o feito executório, em relação à recuperanda, tenha sido extinto, deve-se salientar que tal decorreu da perda superveniente do interesse processual, em razão da novação das dívidas e consequente habilitação do credor no Juízo da Recuperação. Observado, ainda, que a recuperanda deu causa ao ajuizamento da execução, deveria esta arcar com os ônus sucumbenciais. Em atenção, todavia, ao princípio da "non reformatio in pejus", se impõe a manutenção da r. decisão guerreada. Recurso a que se nega provimento.
+Alegou-se, no especial, violação dos artigos 1.022 e85 do Código de Processo Civil sob o argumento de que o acórdão local é omisso e que, diante da extinção da execução de tíulo extrajudicial, a sucumbência deveria ser fixada em favor da recorrente.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Esta Corte Superior tem entendimento no sentido de que quem deu casua à instauração da demanda há de arcar com os ônus da sucumbência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDICAÇÃO DOS NOMES E ENDEREÇOS COMPLETOS DOS ADVOGADOS. DISPENSÁVEL QUANDO EXISTENTES EM OUTROS DOCUMENTOS. EXCESSO DE EXECUÇÃO. OPOSIÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRINCÍPIO DA CAUSALIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. "É prescindível a indicação do nome e endereço completos dos advogados na petição de agravo de instrumento quando, por outros documentos, for possível obter a informação. Interpretação do inciso III do art. 524 do Código de Processo Civil" (AgRg no AREsp n. 756.404/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 24/11/2015, DJe 01/12/2015).
+2. Em atenção ao princípio da causalidade, aquele que dá causa ao ajuizamento da demanda deve responder pelas despesas correspondentes.
+3. A ausência de demonstração da divergência, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelo art. 541, parágrafo único, do CPC/1973, impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 290.038/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2017, DJe de 2/3/2017.)
+No caso dos autos o Tribunal de origem manteve a sentença que extinguiu a execução em face da recorrenteà vista de que, "em que pese o feito executório, em relação à recuperanda, tenha sido extinto, impende esclarecer que tal decorreu da perda superveniente do interesse processual, em razão da novação das dívidas e consequente habilitação do credor no Juízo da Recuperação. Salienta-se,ademais,que é certo que a devedora,inadimplente, deu causa ao ajuizamento da execução. Assim, em verdade, em razão do princípio da causalidade, deveria esta arcar com os ônus sucumbenciais." (e-STJ, fl. 468).
+Isso porque, somente após o ajuizamento da execução, a devedora obteve suarecuperação judicial, quando já inadimplente, de modo que foi a recorrente quem deu causa à execução.
+O Tribunal de origem, entrementes, deixou de reformar a sentença, dita omissa em relação aos honorários advocatícios, em razão do princípiono reformatio in pejus.
+Inequívoca, pois, a incidência do verbete n. 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
