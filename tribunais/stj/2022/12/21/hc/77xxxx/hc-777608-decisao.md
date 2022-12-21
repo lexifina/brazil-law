@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SILVIA APARECIDA CALVOcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2184989-44.2022.8.26.0000.
+Consta dos autos que a Paciente está no cumprimento da pena de 9 (nove) anos e 4 (quatro) meses de reclusão, atualmente no regime fechado, pela prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, iniciada em 08/04/2022.
+Ao apreciar o pedido deindulto com base no Decreto Presidencial n. 8.940/2016, o Juízo da Execução Penal indeferiu o pleito, sob o fundamento da não incidência do mencionado decreto ao caso concreto, deixando registrado, ainda, a vedação prevista no art. 5.º, inciso XLIII, da Constituição da República (proibição de concessão do benefício aos condenados pelo cometimento do delito de tráfico ilícito de entorpecentes).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, que denegou a ordem nos termos do acórdão acostado às fls. 11-16.
+Daí o presente mandamus, em que a Parte Impetrante afirma que a Paciente é acometida de diversas doenças, necessitando de tratamento contínuo e acompanhamento médico, que não podem ser realizados no estabelecimento penal. Aduz que a Apenada precisa de controle rigoroso de medicamentos e assistência médica, encontrando-se "muito debilitada" (fl. 6), situação que, diante do grande sofrimento no cumprimento da pena, impõe a concessão do indulto humanitário.
+Requer, liminarmente e no mérito, a concessão do indulto humanitário ou, ao menos, seja a Paciente colocada em prisão domiciliar.
+O pedido liminar foi indeferido (fls. 133-135).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 159-161).
+É o relatório.
+Decido.
+No caso, o Juízo da Execução Penal, ao indeferir o pleito de indulto humanitário, consignou o seguinte (fls.22-26):
+"O pedido formulado não merece acolhimento.
+De registrar-se, inicialmente, que o Decreto n. 8.940/2016 não aplica ao caso vertente, tendo em vista que os fatos que geraram o presente processo de execução criminal foram praticados em 05/03/2020, observando-se, ainda, que o início do cumprimento da pena ocorreu em 08/04/2022, ou seja, após a publicação do referido Decreto.
+Se não bastasse, fora imposta ao condenado pena em razão da prática do delito de tráfico ilícito de entorpecentes ou de delito hediondo.
+O condenado em razão do cometimento dessa espécie de crime não pode ser agraciado com indulto ou comutação, em face da vedação inserta no art. 5., XLIII, da Constituição da República.
+Tal proibição encontra previsão, também, no art. 2., I, da Lei n. 8.072/90, e no artigo 44 da Lei n. 11.343/2006.
+ ..
+Assim sendo, o Decreto Presidencial não pode sobrepor-se à vedação constitucional supracitada, sob pena de padecer de flagrante inconstitucionalidade, a impedir sua aplicação.
+ ..
+Em resumo: a pretensão formulada há de ser rejeitada, pois afronta normas constitucional e infraconstitucional, bem assim o Decreto Presidencial de regência."
+O Tribunal estadual, por sua vez, consignou (fls. 13-15):
+"O pedido de indulto, formulado com base no Decreto Presidencial nº 8.940/2016, foi indeferido nos termos da r. decisão de fls. 15/19, contra a qual o impetrante se insurge.
+Pois bem, a despeito do entendimento contrário do impetrante, o decisum hostilizado reúne fundamentação idônea, que assim dispôs: "(..) o Decreto nº 8.940/2016 não se aplica ao caso vertente, tendo em vista que os fatos que geraram o presente processo de execução criminal foram praticado em05/03/2020, observando-se, ainda, que o início do cumprimento da pena ocorreu em08/04/2022, ou seja, após a publicação do referido Decreto (..)".
+Além disso, em razão de a condenação ser por tráfico ilícito de entorpecente, é vedada a concessão do indulto perseguido pela paciente por disposição constitucional (CF, art. 5º, inciso XLIII), e legal (Lei nº 8.072/199, art. 2º, inciso I; e Lei nº 11.343/2006, art. 44).
+Como se vê, não há dúvida de que a paciente não tem mesmo direito ao benefício perseguido, pelo que não merece qualquer repara o r. decisão hostilizada.
+No tocante ao pedido subsidiário, como não ignora o impetrante a prisão domiciliar perseguida em favor da paciente é disciplinada pela regra disposta no art. 117 da Lei de Execução Penal, de sorte que é reservada a condenadas que cumprem suas penas na modalidade carcerária aberta, o que não "é a hipótese dos autos.
+Ainda que se admita, excepcionalmente, por questões humanitárias, a concessão da prisão domiciliar a presas mantidas em outros regimes, o deferimento da benesse estará sempre condicionado à presença das hipóteses previstas no citado dispositivo legal, o que também parecer não ser o caso dos autos, pois o fato de ser a paciente portadora de diversas doenças graves, por si só, não lhe garante o direito excepcional à prisão domiciliar.
+O ofício da Diretoria Técnica III da Penitenciária Feminina de Guariba (fls. 137/136), local onde a paciente se encontra custodiada, informa que o quadro funcional da unidade prisional conta com equipe multidisciplinar de saúde: médico, dentista, enfermeiro, técnico e auxiliar de enfermagem, e psicólogo, com a observação de que, havendo necessidade, as custodiadas são encaminhadas a Unidade Básica de Saúde do município de Guariba/SP (fl. 137).
+Outrossim, há informação no mencionado ofício de que após ainclusão da paciente na unidade prisional em 14 de abril do corrente ano, ela foi entrevistada pelo Núcleo de Saúde, sendo mantida a conduta medicamentosa prescrita pelo médico infectologista. Na sequência, ela passou por consulta junto ao médico clínico do quadro funcional, que prescreveu medicamentos constantes do receituário de fl. 138; e recentemente, iniciou tratamento odontológico.
+Nesse contexto, tudo indica que a paciente vem recebendo o tratamento de que necessita na penitenciária em que está recolhida, não tendo sido comprovado que ela não possa ser tratada no presídio.
+De todo modo, como houve somente pleito de indulto humanitário na petição de fls. 9/13, nada impede que o pedido de excepcional de prisão domiciliar seja endereçado e analisado pelo r. Juízo das Execuções, juiz natural da causa."
+O entendimento das instâncias ordinárias não está eivado de ilegalidade, uma vez que o indulto humanitário previsto no DecretoPresidencial n. 8.940/2016 não incide no caso. Isso porque a conduta criminosa em execução é posterior à edição do mencionado decreto. Além disso," é  vedada a concessão de indulto ou de comutação aos condenados por crimes hediondos ou outros a eles equiparados, entre os quais se insere o tráfico de drogas sem a incidência do art. 33, § 4.º, da Lei n. 11.343/2006" (AgRg no HC 434.071/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/10/2018, DJe 08/11/2018).
+Lado outro, como ressaltado pelo Tribunal estadual, o pedido subsidiário de prisão domiciliar não foi objeto de apreciação pelo Juízo da Execução Penal. Dessa forma, o respectivo exame pelo Superior Tribunal de Justiça caracterizaria a indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO DEFINITIVA.PRISÃO DOMICILIAR.MATERNIDADE. SUPERAÇÃO DA SÚMULA N. 691 DO STF. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mérito do habeas corpus impetrado na origem não foi analisado pelo Tribunal, situação que atrai a incidência do enunciado da Súmula n. 691 do Supremo Tribunal Federal, que só é ultrapassado se a ilegalidade é tão flagrante que não escapa à pronta percepção do julgador, o que não ocorreu na espécie.
+2. Há de se ter como incabível a automática concessão deprisão domiciliar,nos mesmos moldes do HC n. 143.641/SP, sem percuciente análise de periculosidade (natureza e circunstâncias do crime, primariedade etc.) da sentenciada e de suas condições pessoais, para atender os melhores interesses da prole.
+3. A despeito de a agravante, em cumprimento de pena privativa de liberdade em regime fechado, ser mãe de duas crianças menores de 10 anos de idade, não ficou demonstrada, de plano, situação excepcional a autorizar a aplicação do art. 117 da LEP.
+4. Na hipótese, a sentenciada foi condenada pela prática de crime cometido com grave ameaça à pessoa - roubo majorado -, circunstância que demanda maior cautela no exame do pedido de concessão deprisão domiciliar,situação que refoge ao âmbito de cognição inicial.
+5. Ademais, o pedido nem sequer foi analisado pelo Juízo de origem, razão pela qual eventual exame do tema por esta Corte Superior acarretaria duplasupressão de instância.
+6. Agravo regimental não provido." (AgRg no HC n. 736.879/PE, Rel. MinistroROGERIO SCHIETTI CRUZ,DJe 16/05/2022; sem grifos no original.)
+Ante o exposto, CONHEÇO em parte do writ e, nessa extensão, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. 1) INDULTO. DECRETO PRESIDENCIAL N.8.940/2016. TRÁFICO ILÍCITO DE DROGAS. IMPOSSIBILIDADE. EXECUÇÃO INICIADA APÓS A PUBLICAÇÃO DO DECRETO E VEDAÇÃO PREVISTA NO ART. 5.º, INCISO XLIII, DA CONSTITUIÇÃO DA REPÚBLICA. 2) PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
