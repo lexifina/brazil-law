@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por System Marketing Consulting Ltda., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fls. 394/395):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. PEDIDO DE RECONSIDERAÇÃO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Ao dever do juiz de fundamentar adequadamente (de forma específica) a decisão que profere na forma do art. 1.021, § 3º c/c art. 489 corresponde o ônus da parte agravante em aduzir a sua impugnação também de forma específica (art. 1.021, § 1º do CPC de 2015), indicando concretamente o fundamento da decisão agravada contra o qual se dirige, inadmitindo-se, pois, reavivar razões genéricas vinculadas exclusivamente a fundamentos já afastados por aquela decisão.
+II - o Recurso de Apelação será recebido nos efeitos devolutivo e suspensivo como regra geral, permanecendo prorrogada a suspensão da eficácia até o julgamento da apelação, nos termos do art. 1.012, caput, do CPC/2015, salvo nas hipóteses em que o sistema processual vigente disponha em sentido diverso. Sendo hipótese de recebimento apenas no efeito devolutivo, a parte interessada pode apresentar pedido de concessão de efeito suspensivo à apelação, nos termos dos §§ 3º e 4º, do art. 1.012, do CPC. Para tanto, deve ser demonstrada a probabilidade de provimento do recurso ou, se relevante a fundamentação, o risco de dano irreparável ou de difícil reparação, cabendo ao Tribunal analisar diretamente o pedido, caso seja requerida sua apreciação no período compreendido entre a interposição da apelação e sua distribuição, ficando o relator designado prevento para julgar o recurso ou, se já distribuída a apelação, pode ser apresentado pedido diretamente ao relator.
+III - Há expressa previsão, inclusive, de sua concessão em recurso de apelação interposto em face de sentença que concede tutela provisória, conforme disposto no inciso V, do § 1º c/c § 3º do art. 1.012, do CPC, hipótese dos autos. Entretanto, o § 4.º prevê a suspensão da eficácia da sentença, quando se demonstrar a probabilidade de provimento do recurso, dentre outras hipóteses, sendo a hipóteses dos autos, considerando que o entendimento desta E. Segunda Turma e do E. STJ é no sentido de inocorrência de perda superveniente da finalidade especifica, desvio ou inconstitucionalidade da contribuição prevista no art. 1.º da LC 110/2001, mostrando-se exigível a contribuição em discussão
+IV - Agravo interno desprovido. Decisão mantida.
+Opostos embargos de declaração, foram estes rejeitados (fls. 405/413).
+Nas razões do recurso especial, a parte aponta, dentre outros argumentos, violação aos arts. 1º e 3º da LC 110/2001. Sustenta, em síntese, ser inexigível a contribuição criada pelo art. 1º da LC 110/2001, "uma vez comprovado o esgotamento da finalidade da contribuição social ora analisada, é inevitável a conclusão acerca da inconstitucionalidade da sua manutenção para suprir fim diverso daquele a que se destina" (fl. 4334).
+Recurso extraordinário interposto às fls. 45/484, com juízo negativo de admissibilidade fls. 547/553.
+Decisão de minha lavra às fls. 628/631, determinando o retorno dos autos ao Tribunal de origem para juízo de retratação ou de conformação a ser realizado pela instância ordinária, após o julgamento do recurso extraordinário, sobre o mesmo tema, afetado ao regime da repercussão geral (RE 878.313 RG/SC - Tema 846), nos moldes dos arts. 1.040 e 1.041 do CPC/2015.
+Por determinação da Vice-Presidência do Tribunal a quo, os autos foram devolvidos ao relator do processo para eventual juízo de retratação, na forma do art. 1.040, II, do CPC (fls. 657/660).
+Em despacho, o relator do feito na origem concluiu não ser o caso de proceder juízo de retratação, "tendo em vista que o Acórdão proferido por esta Turma acolheu o Pedido de Efeito Suspensivo em Apelação formulado pela Fazenda Nacional, adotando entendimento coincidente com o precedente mencionado na decisão que determinou a devolução dos auto" (fl. 661).
+Devolvido os autos ao Vice-Presidente do Tribunal Regional, S.Exª admitiu o recurso especial nos seguintes termos (fl. 664):
+O recurso comporta admissão.
+O recurso é tempestivo, além de estarem preenchidos os requisitos genéricos do art. 1.029 do CPC.
+Estão devidamente atendidos os requisitos da necessidade de esgotamento das vias ordinárias e do prequestionamento.
+Em cumprimento à decisão do STJ, o recurso foi submetido à sistemática prevista no art. 1.030, II do CPC, em virtude do julgamento do RE n.º 878.313/SC, vinculado ao tema n.º 846 de Repercussão Geral.
+A Turma Julgadora não exerceu o juízo de retratação.
+Ante o exposto, admito o Recurso Especial com fundamento no art. 1.030, V, "c" do Código de Processo Civil.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A respeito do processamento dos recursos especial e extraordinário nos Tribunais de origem, dispõe o art. 1.040 do CPC o seguinte, no que interessa:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+(Grifo nosso)
+Extrai-se desse dispositivo legal que o juízo de retratação é da competência do órgão colegiado que prolatou o acórdão recorrido.
+Sucede que, no caso concreto, oprocesso não foi submetido ao órgão julgador originário, a saber, a Segunda Turma do Tribunal de origem, na medida em que o juízo negativo de retratação foi realizado monocraticamente pelo relator do feito (cf. fl. 661), o que contraria a regra contida no art. 1.040, II, do CPC, importando, via de consequência, em indevido error in procedendo.
+ANTE O EXPOSTO, chamo o feito à ordem para determinar a baixa dos autos ao Tribunal de origem, a fim de que o órgão julgador competente proceda o juízo de juízo de retratação ou de conformação a que alude o art. 1.040 do CPC, dando à controvérsia a solução que entender de direito, conforme determinado às fls. 628/631.
+Publique-se.
