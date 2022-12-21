@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido liminar, impetrado por ANDRE MORAES DE LESCANO(Autos n. 0015131-70.2021.8.12.0001).
+O impetrante, sargento da Polícia Militar do Estado de Mato Grosso do Sul, foi condenado à pena de6 anos e 6 meses de reclusão, em regime inicial fechado, bem como à pena acessória de exclusão dos quadros da Polícia Militar, com fundamento no art. 102 do Código Penal Militar, pela prática dos delitos previstos nos arts.303, caput(peculato), e 312 (falsidade ideológica), ambos do Código Penal Militar.
+Nestemandamus, o impetrante afirma que "foi surpreendido pela publicação do Diário Oficial nº 10.976 de 27 de outubro de 2023, onde é possível constatar que (..) foi alvo de uma exclusão "ex-officio"dos quadros da Polícia Militar do Estado de Mato Grosso do Sul(..), sem direito a defesa alguma" (e-STJ fl. 4).
+Alega que sofre constrangimento ilegal, haja vista que "ofundamento da decisão para aplicação da pena acessória de exclusão foi recentemente alterado pelo STF, quando considerou ser o Tribunal de Justiça o órgão competente, por meio de procedimento específico, para ser válida a eventual exclusão de Praça ou Oficial" (e-STJ fl. 5).
+Argumenta que, "em 08/06/2020, a Suprema Corte reformulou o entendimento, de maneira a decidir de forma frontalmente contrária ao posicionamento na sentença, isto em regime de Repercussão Geral, no Recurso Extraordinário nº 601.146/MS6, entendendo que o art. 102 do CPM não é aplicávelaos militares estaduais, pois é o Tribunal de Justiça quem possui a competência para decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças, em processo autônomo" (e-STJ fl. 8).
+Defende que "o art. 102 do CPM ("A condenação da praça a pena privativa de liberdade, por tempo superior a dois anos, importa sua exclusão das forças armadas" - portanto se dirige apenas aos militares federais) não pode ser aplicado ao policiais militares, pois fere o princípio da legalidade/taxatividade penal, já que há uma interpretação analógica in malam partem" (e-STJ fl. 10).
+Pondera queo art. 102 do Código Penal Militar,em que se baseou a sentença, não foi recepcionado pela atual Constituição Federal, razão pela qual entende que a pena acessória de exclusão dos quadros da Polícia Militar seria teratológica e ilegal.
+Ressalta queo perigo da demora seria evidente, diante do risco de ineficácia da concessão da ordem mandamental no mérito, porquanto o impetrante deverá "aguardar "desempregado"a decisão final, a qual poderá levar anos para ser proferida", e por entender que inserir um "Policial Militar há mais de 15 (quinze) anos" em presídio comum seria "praticamente, um atestado de óbito" (e-STJ fl. 13).
+Requer (e-STJ fls. 14/15):
+(..)
+b) A concessão de liminar para determinar a suspensão da pena acessória imposta pelo MM Juiz Auditor da Justiça Militar Estadual, bem como a anulação do desligamento do Impetrante dasfileiras da Polícia Militar do Estado de Mato Grosso do Sul (e sua imediata reintegração), e, por fim e por consequência, retornando à condição de militar estadual, que o cumprimento da pena seja realizado no Presídio Militar Estadual, até o ato de julgamento do presente mandamus, considerando o risco de morte do Impetrante e a probabilidade de êxito;
+É o relatório. Decido.
+A ação mandamental não merece trânsito.
+Com efeito, na dicção do art.105,I, b, da Constituição Federal, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, osmandados de segurançaimpetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Ademais, esta Corte, interpretando o referido dispositivo, sedimentou, no enunciado sumular n. 41, a orientação de que "o Superior Tribunal de Justiça não temcompetênciapara processar e julgar, originariamente,mandado de segurançacontra ato de outros tribunais ou dos respectivos órgãos."
+Na espécie, aautoridadeapontadacomo coatoraé o JuízoAuditor da Justiça Militar Estadual do Estado de Mato Grosso do Sul, razão pela qual o mandamus não pode ser conhecido por este Tribunal Superior, porquanto este Sodalício carece decompetênciaconstitucional para a cognição do feito.
+A propósito:
+AGRAVO REGIMENTAL NOMANDADO DE SEGURANÇA.ATO APONTADO COATOR PROVENIENTE DE TRIBUNAL DE JUSTIÇA ESTADUAL. SÚMULA N. 41 DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANIFESTA INCOMPETÊNCIA DESTA CORTE. PETIÇÃO INICIALLIMINARMENTEINDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, omandado de segurançacontra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal, nos termos do art.105,inciso I, alínea b, da Constituição Federal.
+2. Nos termos da Súmula n. 41/STJ: "O Superior Tribunal de Justiça não temcompetênciapara processar e julgar, originariamente,mandado de segurançacontra ato de outros tribunais ou dos respectivos órgãos."
+3. Contra decisão denegatória demandado de segurançapor Tribunal de Justiça cabe recurso ordinário emmandado de segurançapara o Superior Tribunal de Justiça, conforme previsão expressa da alínea b do inciso II do art.105da Constituição Federal.
+4. Agravo regimental desprovido.
+(AgRg no MS n. 28.428/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/3/2022, DJe de 14/3/2022.)
+Com igual orientação:
+AGRAVO REGIMENTAL EMMANDADO DE SEGURANÇA.ATO DE TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA. CONCESSÃO DA ORDEM DE HABEAS CORPUS DE OFÍCIO. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. A CRFB é bastante clara, ao prever acompetênciadeste Superior Tribunal de Justiça para julgarmandados de segurançaapenas contra atos de Ministros de Estado, de Comandantes das Forças Armadas ou do próprio Tribunal.
+2. A previsão normativa de concessão de ordem de habeas corpus de ofício não autoriza a sua invocação pela parte como modo de se furtar de requisitos legais de admissibilidade de demandas originárias ou de recursos 3. Agravo regimental desprovido.
+(AgRg no MS n. 28.838/CE, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 14/9/2022, DJe de 28/9/2022.)
+Ante o exposto, diante da manifesta incompetência desta Corte, com fundamento no art. 212 do Regimento Interno do Superior Tribunal de Justiça, indefiroliminarmenteomandado de segurança.
+Publique-se. Intimem-se.
