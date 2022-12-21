@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo Juízo da 16ª Zona Eleitoral de Itumbiara/GO, o suscitante, em face do Juízo de Direito da Vara Criminal de Cachoeira/GO, o suscitado, instaurado em procedimento no qual se investiga a prática, em tese, dos delitos descritos nos artigos138, § 2º 139, c/c art. 141, III, todos do Código Penal.
+Consta dos autos que Adriana Antunes Moura, Sheyla Mara Antunes Moura e Carlos Martins Moura apresentaram queixa-crime emdesfavor de Glaciel de Souza Andara, imputando-lhe a suposta prática de crimes contra a honra. Segundo narra a inicial acusatória, o querelado, em uma transmissão ao vivo (áudio e imagem) nos perfis de redes sociais e também em diversos grupos do aplicativo de mensagens WhatsApp, teria feitocomentários difamatórios contra a honra e imagem da querelante Adriana Antunes Moura e caluniando a memória de seu irmão já falecido Muller Antunes Moura, filho dos querelantes Sheyla MaraAntunes Moura e Carlos Martins de Moura(fl. 8).
+De inicio, os autos foram distribuídos ao Juizado Especial Criminal de Cachoeira/GO, contudohouve o declínioda competência para o Juízo de Direito da Vara Criminal de Cachoeira/GO, pois o resultado da somatória das penas máximas em abstrato seriasuperior a 2 (dois) anos (fl. 72/73).
+Por seu turno, oJuízo de Direito da Vara Criminal de Cachoeira/GO declinou da competência ao Juízo Eleitoralaofundamento de que os crimes teriam sido praticados com finalidade de promoção eleitoral(fls. 230/231).
+Lado outro, o Juízo da 16ª Zona Eleitoral de Itumbiara/GOsuscitou conflito negativo de competênciaao fundamento de que o suposto delito não teve finalidade de propaganda eleitoral(fls. 237/239).
+No Superior Tribunal de Justiça - STJ. os autos foram encaminhados para o Ministério Público Federal, o qualemitiu parecer que recebeu o seguinte sumário:
+"CONFLITO DE COMPETÊNCIA. CRIME. QUEIXA-CRIME. CRIMES CONTRA A HONRA. CONDUTA PRATICADA FORA DO PERÍODO ELEITORAL, SEM APARENTE FINALIDADE DE PROPAGANDA. COMPETÊNCIA DA JUSTIÇA COMUM. PRECEDENTES.
+Parecer para que seja declarado competente para processar e julgar o presente feito o Juízo de Direito da Vara Criminal de Cachoeira Dourada - GO, o suscitado" (fl. 260).
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+O núcleo da controvérsia consiste em definir o Juízo competente para julgar crimes contra a honra em tese praticados por Glaciel de Souza Andrade.
+Pois bem, conforme mencionado, o Juízo da 16ª Zona Eleitoral de Itumbiara/GO suscitou o presente incidente ao fundamento de que divergências políticas não tem o condão de influir na decisão do eleitor, razão pela qualnão atraem a competência da justiça eleitoral. Asseverou, ainda, que "o fato ocorreu em 06 de março de 2020, aproximadamente 7 (sete) meses antes do pleito, quando não haviam candidatos registrados e, portanto, não havia propaganda eleitoral". Assim, no entendimento do Juízo suscitante, para a fixação da competência da Justiça Eleitoral, seria necessário que o suposto delito tivesse fins de propaganda eleitoral, o quenão aconteceu(fl. 238).
+Nesse contexto,a decisão do Juízo Eleitoral suscitante não destoa da jurisprudência desta Corte Superior de Justiça, pois em situação análoga ao caso concreto assim decidiu a Terceira Seção do STJ:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ELEITORAL E JUSTIÇA COMUM DO ESTADO. INJÚRIA E DIFAMAÇÃO. SUPOSTAS OFENSAS PRATICADAS FORA DO PERÍODO ELEITORAL, SEM APARENTE FINALIDADE DE PROPAGANDA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O que define a natureza eleitoral de crimes contra a honra é a circunstância de a ofensa ocorrer na propaganda eleitoral ou para fins desta.
+2. Os tipos penais dos arts. 325 e 326 do Código Eleitoral tutelam não apenas a honra subjetiva da vítima mas também o ambiente eleitoral, garantindo espaço ético para a veiculação das propostas dos candidatos.
+3. A ausência de circunstância elementar do tipo consubstanciada na ocorrência de ofensa durante o período de propaganda eleitoral ou para fins desta impede a subsunção dos fatos aos tipos previstos no Código Eleitoral.
+4. Conflito conhecido para declarar a competência do Juizado Criminal de Piracicaba (SP).
+(CC 174.107/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, DJe 30/11/2020)
+CONFLITO NEGATIVO DE COMPETÊNCIA. INJÚRIA. JUSTIÇA ELEITORAL E JUSTIÇA COMUM DO ESTADO. SUPOSTAS OFENSAS DESVINCULADAS, DIRETA OU INDIRETAMENTE, DE PROPAGANDA ELEITORAL. COMPETÊNCIA DA JUSTIÇA COMUM DO ESTADO.
+1. O crime previsto no art. 326 do Código Eleitoral possui nítida simetria com o crime de injúria previsto no art. 140 do Código Penal, mas com este não se confunde, distinguindo-se, sobretudo, pelo acréscimo de elementares objetivas à figura típica, que acabou por resultar em relevante restrição à sua aplicação, refletindo, também por isso, na maior especialização do objeto jurídico tutelado.
+2. Na injúria comum, tutela-se a honra subjetiva, sob o viés da dignidade ou decoro individual e, na injúria eleitoral, protegem-se esses atributos ante o interesse social, que se extrai do direito subjetivo dos eleitores à lisura da competição eleitoral.
+3. A injúria eleitoral somente se perfectibiliza quando eventual ofensa ao decoro ou à dignidade ocorrer em propaganda eleitoral ou com fins de propaganda.
+4. As ofensas cometidas no âmbito doméstico, desvinculadas, direta ou indiretamente, de propaganda eleitoral, embora possam até ter sido motivadas por divergências políticas, não configuram o crime previsto no art. 326 do Código Eleitoral.
+5. Conflito conhecido para declarar competente o Juízo de Direito do Juizado Especial Criminal da Comarca de Cruzeiro do Oeste/PR, ora suscitado.
+(CC 134.005/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 16/06/2014).
+PENAL. CONFLITO DE COMPETÊNCIA. CRIMES CONTRA A HONRA. CARTA ABERTA E MATÉRIA DIVULGADA NA IMPRENSA LOCAL. PROPAGANDA ELEITORAL OU COM FINS DE PROPAGANDA. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Os crimes de difamação e injúria prescritos, respectivamente, nos arts. 325 e 326 do Código Eleitoral, exigem finalidade eleitoral para que restem configurados. Ou seja, esse tipo de delito "somente se concretiza quando eventual ofensa ao decoro ou à dignidade ocorrer em propaganda eleitoral ou com fins de propaganda" (CC 134.005/PR, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 16/6/2014).
+2. Hipótese em que os crimes de difamação e injúria foram praticados por meio de "carta aberta nesta Cidade", bem como de matéria divulgada na imprensa local, o que não se confunde com "propaganda eleitoral" ou "visando a fins de propaganda", suporte fático a caracterizar as condutas tipificadas nos arts. 325 e 326 do Código Eleitoral.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Feira de Santana/BA, o suscitado.
+(CC 123.057/BA, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 19/05/2016).
+Como se vê, para a configuração de Crime Eleitoral é indispensável que os delitos investigadosocorram durante a propaganda eleitoral ou para fim desta, hipótese não configurada na espécie, uma vez que, à época dos fatos, não haviacandidatos registrados e, consequentemente, não havia propaganda eleitoral.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de Cachoeira/GO, o suscitado.
+Publique-se.
+Intimem-se.
