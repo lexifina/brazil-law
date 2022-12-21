@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de GLEIDSON RODRIGUES GERENA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n.1502266-83.2021.8.26.0248.
+Consta nos autos que o Paciente foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 666 (seiscentos e sessenta e seis) dias-multa, como incurso no art. 33,caput, da Lei n. 11.343/2006, em virtude da apreensão de "15 (quinze) porções de Cannabis sativa L., acondicionadas em invólucros plásticos fechados por nó, pesando 14,1 g (quatorze gramas e um decigrama), bem como 43 (quarenta e três) porções de crack, acondicionadas em invólucros plásticos, pesando 4,6 g (quatro gramas e seis decigramas)"(fl. 15).
+Irresignada, a Defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal a quo para "o para reduzir a pena a 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias/multa, no mínimo legal, mantida no mais a sentença" (fl. 25).
+Nas razões destehabeas corpus, insurge-se a Parte Impetrante contra a fixação do regime inicial fechado.
+Alega que é cabível a "FIXAÇÃO DO REGIME SEMIABERTO, nos termos do art. 33 do Código Penal em favor do réu, APLICANDO O PRINCIPIO DA ISONOMIA dos julgamentos do HABEAS CORPUS nº 223.239 do Supremo Tribunal Federal julgado recentemente em 14/12/2022 e HC nº 707.110/SP julgado no SUPERIOR TRIBUNAL DE JUSTIÇA" (fl. 4).
+Requer a concessão liminar da ordem, alterando-se o regime inicial de cumprimento de pena para o semiaberto.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta"(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Tribunal de origem manteve o regime inicial fechado com base nos seguintes fundamentos(fls. 24-25):
+"Mantida a condenação, passo à análise da pena e do regime prisional.
+A básica foi aplicada no mínimo legal, e a comprovada reincidência (fls. 39/41) justifica a majoração, mas a fração fica reduzida a 1/6, porque a sentença não motivou a contento a fração de 1/3 que adotou. O fato de ser específica a reincidência apenas impede a substituição da pena corporal por multa e/ou restritivas de direitos. Refeitos os cálculos, a pena se torna definitiva em cinco anos e dez meses de reclusão e 583 dias/multa, no piso.
+A reincidência específica inviabiliza a incidência da causa especial de redução de pena prevista no § 4º, do art. 33, e a pena, superior a quatro anos de reclusão, impede a substituição por restrição de direitos e o "sursis".
+O regime inicial fechado fica mantido, por conta da reincidência específica, indicativa da necessidade de se adotar maior rigor na retribuição. Como o Apelante foi preso no dia 07/09/2021, ainda não resgatou fração de pena suficiente para a progressão de regime, donde não se cogitar da incidência do disposto no parágrafo 2º, do artigo 387, do Código de Processo Penal."
+Como se vê,o Paciente é reincidente, circunstância que, no caso, foi valorada na segunda fase da dosimetria. Verifica-se, ainda, que o Réu foi condenado à reprimenda superior a4 (quatro) anos de reclusão, de forma que se mostra cabível o estabelecimento do regime fechado para início de cumprimento da pena, nos termos do art. 33, § 2.º, alíneab, do Código Penal.
+Nesse sentido:
+" ..
+7. É imprescindível, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada na reincidência, nas circunstâncias judiciais previstas no art. 59, do Código Penal, ou na gravidade concreta do delito, evidenciada esta última pelo modus operandi que desborde dos elementos normais do tipo penal violado. Precedentes.
+8.In casu,embora estabelecida a pena definitiva do acusado em patamar superior a 4 (quatro) e não excedente a 8 (oito) anos, o fato de ser reincidente justifica a imposição de regime prisional mais gravoso, no caso, o fechado.
+9. Agravo regimental não provido."(AgRg no AREsp 1.769.318/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 11/02/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.ROUBO MAJORADO. REITERAÇÃO DE PEDIDO. REGIME INICIAL FECHADO. PENA INFERIOR A 8 ANOS DE RECLUSÃO.RÉU REINCIDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2.É cabível a fixação de regime inicial fechado ao réu reincidente condenado a pena de reclusão superior a 4 anos e inferior a 8 anos.
+3. Agravo regimental não provido."(AgRg no HC 618.013/PB, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/10/2020, DJe 28/10/2020; sem grifos no original.)
+Destaque-se, por fim, que os precedentes mencionadospela ParteImpetrante não foram proferidos na ação penal em causa, de forma que não cabe qualquer extensão de benefícios neles concedidos, nem se tratam de precedentes com caráter vinculante.
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS.PENA SUPERIOR A 4 ANOS. REINCIDÊNCIA RECONHECIDA. FIXAÇÃO DE REGIME INICIAL FECHADO. POSSIBILIDADE.ORDEM DEHABEAS CORPUSDENEGADA.
