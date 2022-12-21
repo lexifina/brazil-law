@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a justiça portuguesa (Juízo Local Criminal do Porto - Juiz 2) solicita a citação de FERNANDO JOSÉ MONTEIRO PROENÇA para tomar conhecimento de demanda firmada nos autos do Processo n. 59079/19.3YIPRT (ação esp. Cump. Obrig. DL 269/98), bem como para, querendo, deduzir oposição (fl. 5).
+Concedido o exequatur (fls. 32/33), foram os autos remetidos à Seção Judiciária do Estado do Rio de Janeiro.
+Em documento constante à fl. 90 destes autos, o magistrado da 17ª Vara Federal do Rio de Janeiro certificou o não cumprimento da medida e a realização de diligências na tentativa de localizar o endereço do interessado. No que interessa, eis o teor do despacho (fl. 90):
+Consultando os autos eletrônicos da carta rogatória (CR17681/EX (2022/0149789-2) no sítio do STJ, observa-se que o interessado não possui CPF, conforme certidão (nº 6) de fl.11.
+Isto posto, a fim de dar cumprimento à determinação do E. STJ, promova a Secretaria a busca pelo nome do interessado (FERNANDO JOSÉ MONTEIRO PROENÇA), utilizando o sistema Sisbajud e cadastro da ReceitaFederal.
+Em caso de obtenção de novo endereço, diferente de onde já houve a tentativa de notificação (Rua Maturi, nº 35, Quintino Bocaiúva, Rio de Janeiro/RJ), expeça-se mandado de notificação.
+Tendo logrado identificar junto à Receita Federal que o interessado residiria na cidade de Salvador/BA, o magistrado determinou a redistribuição da carta rogatória para o cumprimento em outro Estado (fl. 96).
+Os autos retornaram a esta Corte, na data de 16/12/2022, encaminhados pela Seção Judiciária do Estado da Bahia, com certidão negativa exarada nestes termos (fl. 120):
+CERTIFICO E DOU FÉ que, no intuito de cumprir a carta rogatória em epígrafe, percorri, nesta data, por volta das 11h, toda a extensão da rua Miguel Burnier, na Barra, mas não encontrei o imóvel de n. 4. No início da rua há um posto de combustíveis Menor Preço, ao qual se segue um imóvel identificado pelo n.88, O último imóvel da curta via é um prédio de apartamentos residenciais identificado pelo número 190. Isto posto, devolvo o r. mandado à Ceprec e à Ceman SEM CUMPRIMENTO.
+Diante do exposto, constatada a impossibilidade de cumprimento da comissão, visto que as diligências para localização da parte interessada pelo Juízo rogado foram infrutíferas, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se. Intime-se.
