@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso próprio, com pedido liminar, impetrado em favor de SAMUEL ALVES FELISBERTO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo em Execução n. 0004254-19.2022.8.26.0269.
+Consta dos autos que o pedido de progressão de regime requeridopela defesafoi provido em primeira instância.
+Irresignado, o Ministério Público interpôs agravo em execução para cassar a decisão proferida, tendo sido dado provimento ao pedido, nos termos da ementa:
+"AGRAVO EM EXECUÇÃO PENAL. Irresignação Ministerial contra progressão ao regime semiaberto. Ausência de requisito subjetivo. Necessidade de submissão ao exame criminológico. Inteligência da Súmula/STJ, nº 439. PROVIMENTO" (fl. 23).
+No presentewrit, oimpetrante alega que houve o cumprimento dos requisitos objetivos e subjetivos para a concessão do livramento condicional.
+Sustenta que o exame criminológico não é requisito obrigatório para a concessão da progressão de regime, além do fato de o paciente ter progredido sem realizar o exame e não possuir nenhuma ocorrência que enseje seu retorno ao regime mais gravoso.
+Pugna, assim, em liminar e no mérito:
+"Ex positis, o Impetrante vem requerer dos Virtuosos Ministros desta Corte de Justiça, presentes os requisitos do fumus boni iuris e do periculum in mora, seja concedido liminarmente o writ of habeas corpus, com esteio no art. 660, § 2.º, do Código de Processo Penal, PARA QUE O PACIENTE RETORNE AO CUMPRIMENTO DE SUA PENA EM REGIMESEMIABERTO, CONCEDENDO-SE,AO FINAL E EM DEFINITIVO,A PRESENTE ORDEM, PARA QUE SE RESTABELEÇA O REGIME SEMIABERTO SEM QUALQUER NECESSIDADE DE REGRESSÃO,AO REGIME FECHADO,PARA REALIZAÇÃO DOEXAME CRIMINOLOGICO" (fl. 7).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admitehabeas corpussubstitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+No caso dos autos, o Tribunala quomanteve o indeferimento da benessesob os seguintes fundamentos:
+"A despeito de satisfeito o requisito objetivo, pela natureza dos delitos praticados, além de ostentar duas faltas de natureza média (fls. 21), carece de comprovação de completa assimilação da terapêutica penal para galgar a progressão ao regime semiaberto, evidenciando-se, por ora, necessidade de permanência no cárcere, visando absorver a terapia penal e amadurecimento à concessão da benesse, o que somente poderá ser aquilatado com a realização de exame criminológico.
+Como se sabe, a execução penal é regida pelo princípio do in dubio pro societate, ou seja, a dúvida plausível acerca do mérito do condenado em obter o benefício, deve ser resolvida em favor da sociedade, que não pode ser obrigada a conviver com a insegurança.
+Diante do exposto, dá-se provimento ao agravo, para cassar a decisão, determinando-se retorno ao regime em que se encontrava, condicionando-se, eventual futura reapreciação, à realização de exame criminológico" (fl. 24).
+Conforme relatado, a controvérsia refere-se à progressão de regime, benefício o qual pode ser concedidoaos condenados que preencherem os requisitos previstos no art. 112 da Lei de Execuções Penais -LEP.
+Todavia, esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regimepelo inadimplemento do requisito subjetivo.
+Vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTAS GRAVE E MÉDIA NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. PRECEDENTES.
+1. Para a concessão do benefício do livramento condicional, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439, in verbis: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do subjetivo, em face do histórico prisional conturbado (cometimento de faltas disciplinares de natureza grave e média), de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão do livramento condicional.
+5. "As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.  ..  Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. No tocante à nova redação dada ao inciso III do artigo 83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020).
+7. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+8. Agravo regimental desprovido.
+(AgRg no HC 639.495/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/08/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTA DISCIPLINAR GRAVE. DECISÃO DEVIDAMENTE FUNDAMENTADA. AGRAVO DESPROVIDO.
+1. As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+3. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Agravo desprovido.
+(AgRg no HC 589.039/SP, de minha relatoria, QUINTA TURMA, DJe 19/10/2020).
+Na hipótese dos autos, as instâncias ordinárias indeferiram o benefício em tela pelaausência do requisito subjetivo, tendo em vista, sobretudo, o conturbado histórico prisional do apenado, que possui registro de faltas médias.
+Assim, constata-se que ojulgado atacado estáde acordo com a jurisprudência pacífica desta Corte, inexistindo constrangimento ilegal no indeferimento do pedido.
+Ademais, cabe lembrar que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+Assim, mostrou-se evidenciada a idoneidade da fundamentação utilizada na origem, não se cogitando, portanto, da existência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Publique-se.
+Intimem-se.
