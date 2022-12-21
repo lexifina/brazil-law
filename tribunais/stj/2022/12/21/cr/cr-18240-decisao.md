@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Porto Este, Juízo Local Criminal de Marco de Canaveses) solicita que se proceda a notificação de RICARDO DAMIANI RABELO para tomar ciência da sentença proferida em 19/5/2014, que o condenou à pena de 2 (dois) anos de prisão, bem como para que tome ciência do despacho (ref. 2586453 da mesma data) que o condenou ao pagamento da multa de 2 Ucs (204,00  ) por ter faltado à audiência de julgamento no dia 19/5/2014 e por não ter justificado a sua falta (fl. 7).
+A notificação da parte interessada, via AR, foi frustrada, pois inexiste o número de endereço indicado (fls. 33-34).
+O Ministério Público Federal informouque, em pesquisa para localização de outro endereço da parte interessada,foi encontrado logradouro que não está localizado no Brasil (fls. 36-37).
+Pelo exposto, em que pese o empenho da autoridades brasileiras para localização do interessado, verifica-se que a providência não logrou êxito, razão pela qual determino a devolução da comissão sem cumprimento ao Juízo rogante, por intermédio da autoridade central.
