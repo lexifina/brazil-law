@@ -1,0 +1,12 @@
+DECISÃO
+JOÃO VITOR FERREIRA LOOS DE CASTRO alega sofrer constrangimento ilegal decorrente de ato do Tribunal de Justiça do Estado do Rio de Janeiro, no HCn. 0093433-87.2022.8.19.0000.
+A defesa pretende, liminarmente, a substituição da prisão preventiva do paciente- decretada pela suposta prática do delito de roubo majorado- por restritivas de direitos. Subsidiariamente, requer seja determinado ao TJRJ que "aprecie imediatamente a tutela de urgência nos autos do hc n. 0093433-87.2022.8.19.000, posto não ser crível uma demora de 10 dias para realizar a cognição sumária" (fl. 9).
+Decido.
+Consta dos autos que o paciente foi preso pela suposta prática do delito de roubo circunstanciado pelo concurso de agentes e pelo emprego de arma de fogo.
+Narra a impetraçãoqueo Ministério Público estadual, em alegações finais, pugnou pela absolvição do réu. Não obstante a manifestação do Parquet, o Juiz de primeiro grau manteve a prisão preventiva do réu e ainda não proferiu a sentença condenatória- o feito está concluso desde 19/10/2022.
+Em 2/12/2022, a defesa impetrou habeas corpus naorigem, a fim de que fosse analisada a legalidade da prisão do paciente. Contudo, até a presente data não foi realizado o juízo de cognição sumária pelo Desembargador relator.
+Inicialmente destaco que a pretendida substituição da prisão por cautelares alternativas não foiobjeto de análise pelo colegiado do Tribunala quo, uma vez que pendente de análise o writ lá impetrado, o queimpede o conhecimento da matéria nesta Corte Superior, sob pena de indevida supressão de instância.
+Todavia,constato a existência de flagrante ilegalidade a ensejar o deferimento do pleito liminar, em menor extensão, uma vez que, o paciente aguarda a análise da legalidade da sua prisão desde 2/12/2022, sem que haja sido verificada a viabilidade de concessão da liminar pleiteada.
+Com base nessapremissa, aliada a informação de que o processo originário está concluso para sentença desde outubro, com parecer favorável pela absolvição do paciente, entendo prudente deferir a liminar, em menor extensão, para determinar que o Tribunal de origem examine o pedido lá impetrado.
+À vista do exposto, concedo a ordem, em menor extensão, para determinar que o Tribunal de Justiça do Estado do Rio de Janeiro processe o habeas corpus e se pronuncie acerca da ocorrência de eventual ilegalidade do ato apontado como coator.
+Publique-se e intimem-se.
