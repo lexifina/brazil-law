@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto porCONCEITO FRANCHISING E LICENCIAMENTO LTDA., com fundamento naalínea"a" do permissivo constitucional, paradesafiar acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL) E IMPOSTO DE RENDA PESSOAJURÍDICA (IRPJ). APURAÇÃO EM REGIME DE LUCRO PRESUMIDO. BASE DE CÁLCULO. EXCLUSÃO DO PIS ECOFINS. IMPOSSIBILIDADE.
+É descabida a pretensão de que sejam excluídos o PIS e a COFINS da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ), apurados pelo lucro presumido, seja porque não se aplica extensivamente ao caso a tese firmada pelo Supremo Tribunal apenas em relação à contribuição ao PIS e à COFINS, seja porque essa forma de apuração dos tributos, pela sua natureza, já leva em consideração todas as possíveis deduções. Precedentes desta Corte
+Os embargos declaratórios foram acolhidos para fins de prequestionamento.
+Em suas razões, a empresa recorrente aponta violação dos arts. 1.022, II, parágrafo único,II, c/c o art. 489, § 1º,IV, do CPC;arts. 3º, caput,I e II, e 110, caput,do CTN;arts. 15, caput e § 1º,III, e art. 20 da Lei n.9.249/1995.
+Sustenta, em síntese,as seguintes teses:
+(i) existência de negativa de prestação jurisdicional pelo Tribunal de origem, visto que foi omisso poisdeixou de levar em consideração o que ficou decididono julgamento do RE n.574.706-PR, através do qual oSupremo Tribunal Federal fixou a tese relativa ao Tema 69.
+(ii)" .. a inclusão do PIS e da COFINS na base de cálculo que vai servir para apurar o lucro presumido mostra-se totalmente incabível, pois isso significa transformar em "faturamento" ou "receita" algo que assim não pode ser denominado, mormente pelo fato de não implicar alteração na situação patrimonial da empresa"(e-STJ fl.238);
+(iii) "percebe-se estar equivocado o v. acórdão recorrido ao não conceder a segurança pretendida no mandamus com base no entendimento de que a tese 69 do STF não pode ser utilizada por analogia para fins de exonerar o contribuinte de pagar IRPJ e CSLL sobre PIS e COFINS" (e-STJ fl.241);
+(iv) requer a compensaçãodos referidos valores com tributos ou contribuições vincendas administradas pela Secretaria da Receita Federal.
+Contrarrazões apresentadas àse-STJ fl. 287/290.
+Decisão a quo de admissão do recurso especial àe-STJ fl. 297.
+Parecer do Ministério Público pelo não provimento do recurso especial.
+Passo a decidir.
+A controvérsia dos presentes autos diz respeito àpossibilidade de inclusão dos valores recolhidos a título decontribuição ao Programa de Integração Social - PIS e de Contribuição para o Financiamento da Seguridade Social -COFINS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido.
+Verifica-seque questão similar encontra-se submetidaà sistemática dos recursos especiais repetitivos, no âmbito doREsp 1.767.631/SC, REsp 1.772.634/RS e REsp 1.772.470/RS, de relatoria da Ministra Regina Helena Costa, que constitui o Tema 1.008,in verbis: "Possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido."
+Nesse contexto, estando a matéria pendente de julgamento pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação quando da publicação do acórdão, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece,in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal, a fim de que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunala quo.
+Cumpre destacar, por oportuno, as seguintes decisões monocráticas, em que recursos especiais, debatendo a mesma questão postanestes autos, foram devolvidos à Corte de origempara aguardar julgamento do Tema 1.008: REsp 1.853.831/SC, Min. Sergio Kukina, DJe de 03/02/2022; REsp 1.920.205/SC, Min. Assusete Magalhães, DJe 16/08/2021; REsp 1.952.020/SC, Min. Benedito Gonçalves, DJe 05/08/2021; REsp n. 1.944.073, Min. Manoel Erhardt (Desembargador Convocado do Trf5), DJe de 30/03/2022; REsp n. 1.973.659, Min. Gurgel de Faria, DJe de 10/05/2022.
+Ante o exposto,DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixapara que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
