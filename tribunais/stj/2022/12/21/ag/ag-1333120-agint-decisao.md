@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por Denise Sérgio de Siqueira Menezes e outros contra a decisão de fls. 743-747, mediante a qual declarei prejudicado o pedido de reconsideração por eles deduzido, por entender configurada a perda superveniente do interesse processual, em face do julgamento do AG 1.397.301/RJ.
+Ocorre quea Quarta Turma, ao examinar o agravo interno no AG 1.397.301/RJ, conexo ao presente feito,acolheu com efeitos modificativos os embargos de declaraçãono agravo internoopostos pelos ora agravantes, para negar provimento ao recurso especial, ficando mantida, em consequência, a determinação do acórdão recorrido no sentido de que a Caixa Econômica Federal efetive o depósito dos honorários advocatícios incluídos no preço da arrematação, conforme título executivo judicial de que dispõem os antigos advogados do Condomínio do Edifício Rio Sul, ora agravantes.
+Ademais, a pretensão defendida pelos agravantes já foi acolhida no julgamento de agravo interno interposto no presente agravo de instrumento.
+Em face do exposto, com base noart. 34, XI, do Regimento Interno do Superior Tribunal de Justiça,declaro prejudicado o recurso, por perda superveniente de objeto.
+Intimem-se.
