@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por VERZANI & SANDRINI S.A. contra decisão que negou seguimento a recurso especial, interposto em face de acórdão assim ementado (e-STJ, fl. 650):
+PRESTAÇÃO DE SERVIÇOS - Inadimplemento da contratante - Falta de pagamento da última parcela da remuneração convencionada - Ação de cobrança - Sentença de improcedência- Apelo da autora - Subcontratação desta para prestação dos serviços junto à Petrobrás - Pagamento à ré, subcontratante, condicionado à apresentação de documentos da autora subcontratada - Recusa da ré ao pagamento à autora fundada em exceção do contrato não cumprido - Anterior propositura de ação de exibição de documentos pela ré na qual a autora foi condenada a apresentar os documentos - Ação julgada procedente - Trânsito em julgado - Controvérsia ainda não dirimida acerca do cumprimento pela autora subcontratada da obrigação de apresentar os documentos - Julgamento da presente apelação suspenso há mais de 2 (dois) anos - Impossibilidade de se continuar o desfecho das pendências que orbitam a presente ação - Exceção do contrato não cumprido que deve ser reconhecida em favor da ré - Necessidade de apresentação de documentos específicos - Retenção dos documentos pela autora - Sentença mantida - Apelação desprovida
+Opostos embargos de declaração, foram desprovidos (e-STJ, fls. 668-671/687-689).
+Nas razões do especial, aponta a recorrente violação dos artigos 313, V,493 e 1022, II, do Código de Processo Civil,argumentando, em síntese, que o sobrestamento do processo, em razão de prejudicial externa, deve perdurar até o julgamento final da demanda relacionada.
+Assevera que o Tribunal de origem não teria se pronunciado a respeito do tema, a despeito da oposição dos embargos de declaração, justificando a anulação do acórdão, em virtude do erro de procedimento.
+O recurso especial não foi admitido, por falta de preparo (e-STJ, fls. 937-398); contra o que se manifesta a agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Observo, de início, que a decisão da Presidência do TJSP foi suficientemente claraao determinar que o recorrente comprovasse a autenticação bancária noGuia de Recolhimento da União (GRU), a fim de comprovar o recolhimento do preparo (e-STJ, fl. 932):
+Providencie o recorrente VERZANI & SANDRINI LTDA a regularização do recolhimento do preparo, com a juntada de comprovante de pagamento da Guia de Recolhimento da União - GRU de fls. 910, efetuado até a data da interposição do recurso e que contenha autenticação bancária, nos termos do artigo 1.007, § 7º, do CPC. Na impossibilidade, recolha o valor devido, em dobro, no prazo de 5 (cinco) dias, sob pena de deserção (§4º do mesmo dispositivo legal). (grifo acrescido)
+Como se vê, o despacho que determinou a regularização do preparomenciona, expressamente, anecessidade de comprovar a autenticação no preparo.
+Diante desse contexto, não haveriacomo acolher a tese do agravante quanto àsuposta obscuridade no provimento, a ensejar motivo de força maior para o descumprimento.
+De todo modo, ainda que se reconheçaa obscuridadeno provimento, o erro não poderia ser imputado exclusivamente ao Judiciário, de modo a admitir-sea prática de ato processual a destempo.
+Com efeito,em caso de dúvida sobre os termos do provimento, caberia ao agravante utilizar o recurso dos embargos de declaração, conforme admitido mesmo em relação a despacho ((AgInt nos EDcl no AgInt no AREsp n. 1.534.000/ES, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/6/2022, DJe de 28/6/2022.)
+O recorrente, porém, descumpriu a determinação de regularizar o preparoe não se manifestoua fim deesclarecer o conteúdo do despacho, inviabilizando oconhecimento do especial.
+Daí por quenão merece reparo a conclusão adotada na decisão agravadaque não admitiu o recurso especial (e-STJ, fls. 937-938).
+Ressalte-se que a regularização do preparo não pode ser realizadaapós o prazo de regularização, quando da interposição do agravo de instrumento,como ora pretendido, pois já ocorrida a deserção, na forma do § 6º do ar.1007 do CPC/15.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. É deserto o recurso especial se, apesar de regularmente intimada para comprovar o tempestivo recolhimento do preparo (CPC/2015, art. 1.007, § 7º), ou efetuar o pagamento em dobro (§ 4º do mesmo artigo), a parte não o faz devida e oportunamente.
+2. Esta eg. Corte tem-se manifestado reiteradamente quanto à deserção de recursos especiais interpostos sem o recolhimento das custas devidas ao STJ, tendo em vista a natureza jurídica de taxa federal instituída pela Lei 11.636/2007, insuscetível de diferimento para posterior pagamento, ao final do processo, tendo em vista a impossibilidade de isenções heterônomas.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.905.297/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/10/2022, DJe de 28/10/2022.) (grifo acrescido)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
