@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROPRIEDADE INDUSTRIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. SOJA TRANSGÊNICA ADQUIRIDA POR PRODUTOR RURAL. ROYALTIES. ÔNUS DA PROVA. REDISTRIBUIÇÃO DO ENCARGO DA PROVA. POSSIBILIDADE. TEORIA DA CARGA DINÂMICA DAS PROVAS.
+1. Diante de uma situação concreta, na qual se verifique dificuldade de uma das partes em cumprir o encargo da prova, o Juízo pode, por decisão fundamentada, atribuir o ônus da prova de forma diversa daquela prevista nos incisos I e II do art. 373 da legislação processual civilista, consoante preconiza o §1º do referido dispositivo legal.
+2. No presente caso, conforme argumentado pela parte autora, ora agravada, evidentemente a parte ré está em melhores condições para arcar com o encargo probatório relacionado aos fatos elencados na exordial, em especial quanto à apresentação dos valores retidos a título de royalties em nome dos demandantes. Inclusive, com base no dever de cooperação das partes para o encontro da verdade dos fatos, tem-se a possibilidade de fato da empresa ré, por ser a responsável por comprovar a corretude dos valores retidos da parte autora, assumir o referido ônus.
+3. Destarte, a manutenção da decisão recorrida é medida que se impõe. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 7º e 373 do Código de Processo Civil de 2015.
+Assim posta a questão, verifico que o recurso especial não dispensa o reexame de prova. A agravante afirma não haver razão para não se considerar que as partes estão em igualdades de condições para a coleta da prova pretendida. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 753):
+Em que pese as alegações da parte ré, ora agravante, acerca da inaplicabilidade do Código de Defesa do Consumidor ao caso dos autos, observa-se, da leitura da decisão agravada, que o Juízo de Origem deferiu o pedido feito pela parte autora para que a ré traga ao feito os valores retidos a título de royalties e determinou a inversão do ônus da prova restou aplicada pelo Juízo de Origem com fundamento no art. 373, §1º, do Código de Processo Civil.
+Com efeito, o ordenamento jurídico prevê outras possibilidades de redistribuição do encargo da prova, consoante preconiza o artigo 373, §1º, do CPC, in verbis:
+(..)
+Depreende-se da leitura do referido dispositivo, que diante de uma situação concreta na qual se verifique dificuldade de uma das partes em cumprir o encargo da prova, o Juízo pode, por decisão fundamentada, atribuir o ônus da prova de forma diversa daquela prevista nos incisos I e II do art. 373 da legislação processual civilista. É esta a situação que se verifica no caso em análise.
+(..)
+No presente caso, conforme elencado pela parte autora, ora agravada, evidentemente a parte ré está em melhores condições para arcar com o encargo probatório relacionado aos fatos elencados na exordial, em especial, em atenção ao item 1 dos pedidos finais elaborados pelos demandantes (fl. 39 dos autos eletrônicos), de apresentação dos valores retidos a título de royalties em nome dos demandantes.
+No ponto, há considerar a alegação dos recorridos concernente à falta de minuciosa identificação aos produtores acerca da quantificação do montante retido, o que, por conseguinte, também justifica a inversão do ônus da prova no caso em questão.
+Na mesma linha, inclusive com base no dever de cooperação das partes para o encontro da verdade dos fatos, tem-se a possibilidade de fato da empresa ré, por ser a responsável por comprovar a corretude dos valores retidos da parte autora, assumir o referido ônus.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
