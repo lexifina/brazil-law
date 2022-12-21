@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porPINTON & CIA LTDA.contra decisão de fls. 184/185por meio da qual deuprovimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Sustenta a parte embargante que "não constou qualquer omissão no V. Acórdão recorrido, referente ao ponto a seguir: "Extrai -se dos autos que a agravada formulou pedido de compensação entre créditos de precatório e débitos tributários (ICMS), o qual originou o Processo Administrativo nº 15.972.489 -1."(fl. 191).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão. Convém destacar que a decisão embargada analisou detidamente o acórdãorecorrido. Confira-se (fl. 185):
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que o pedido de compensação abarca precatório, devendo ser observada a jurisprudência do STJ. Confira-se (fl. 86):
+Assim, com o devido respeito, é preciso que Vossas Excelências apreciem a questão em sua especificidade-, trata-se de pedido de compensação envolvendo precatório, o que atrai a aplicação da jurisprudência suso transcrita (formada ao redor do art. 151, CTN). E, no caso do Estado do Paraná, não há, há muito tempo, lei (ou decreto) que autorize a compensação de precatório.
+Contudo, o Tribunal de origem quedou silente sobre a tese ventilada, e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
