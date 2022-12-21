@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos em face da decisão de fls. 1203/1205 e-STJ.
+A parte embargante sustenta que houve erro material na decisão referida, pois a sentença determinou a redução dos juros remuneratórios, motivo por que deve ser reconhecida a descaracterização da mora.
+Impugnação às fls. 1232/1240 e-STJ.
+Com razão a embargante. A sentença deu provimento aos embargos de devedor para "que a taxa de juros incidente sobre o débito não ultrapasse o patamar de 12% ao ano", sendo certo que a cédula de crédito comercial objeto da execução cobrava "taxa efetiva equivalente a 3,31% ao mês" (fl. 25 e-STJ).
+Assim, no que se refere à configuração da mora, a Segunda Seção adota o entendimento de que a cobrança do crédito com acréscimos indevidos, no período de normalidade contratual, não tem o efeito de constituir o devedor em mora, porque dificultado o pagamento, causando a impontualidade da qual ainda se beneficiaria com a aplicação da cláusula penal (EREsp 163.884/RS, Rel. p/ acórdão Ministro Ruy Rosado de Aguiar, por maioria, DJU de 24.9.2001). O mesmo posicionamento foi reafirmado por ocasião do julgamento do Resp repetitivo 1.061.530/RS (SegundaSeção, Rel. Ministra Nancy Andrighi, unânime, DJe de 10.3.2009).
+Em face do exposto, acolho os embargos declaratórios para corrigir o erro material, com efeitos modificativos, dando provimento ao recurso especial para declarar a descaracterização da mora.Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
