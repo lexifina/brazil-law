@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de WAGNER RONIEL DOS SANTOS FIORIN contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferidono HC n.5175667-36.2022.8.21.7000/RS.
+Consta nos autos que o Paciente foi preso em flagrante delito no dia 15/07/2022, juntamente com outra, "porque guardavam, mantinham em depósito e transportavam drogas, quais sejam, 69 tijolos de maconha (com peso aproximado de 44,64 quilos), 01 saco de cocaína (com peso aproximado de 102 gramas), 01 porção de crack (com peso aproximado de 1,6 quilos) e 01 saco de cocaína (peso aproximado de 102 gramas)" (fl. 18). A prisão em flagrante foi convertida em preventiva e o Paciente foidenunciadocomo incursono art. 33,caput, da Lei n. 11.343/2006.
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem.
+Nestewrit, a Parte Impetrante alega que "há evidente ilegalidade no ato de prisão em decorrência de fato tipificado no Art. 33 da lei 11.343/06, na qual sequer existe laudo quanto as substâncias, as quais seriam proibidas pela portaria 344/98 SVS/MS, assim, sequer existe qualquer materialidade quanto ao fato típico, assim, inexistente o fumus comissi delicti" (fl. 8). Aduz que, na hipótese, a denúncia está fundamentada em laudo que não foi devidamente assinado por um perito criminal.
+Alega que "é caso de evidente trancamento no processo pela quebra da cadeia de custódia, em que no caso presente não há o mínimo de autenticidade para verificar que o documento foi redigido por perito criminal" (fl. 8).
+Argumenta que não se encontram presentes os requisitos autorizadores da prisão preventiva e que é suficiente a imposição de medidas cautelares diversas.
+Assevera que é desnecessária a segregação provisória do Paciente, por se tratar de Réu primário, com residência fixa e fonte de renda lícita. Aduz que, na hipótese de eventual condenação, fará jus à redução da pena pela minorante prevista no art. 33, § 4.º, da Lei de Drogas.
+Requer, em liminar, a expedição de alvará de soltura em favor do Paciente, ainda que mediante a aplicação de medidas cautelares alternativas, "ou até mesmo a inclusão do requerente no sistema de monitoramento eletrônico" (fl. 16).
+No mérito, pleiteia o trancamento do processo-crime ou a revogação da prisão preventiva do Paciente.
+É o relatório. Decido.
+Quanto ao pedido de trancamento da ação penal,observo que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por esteSuperior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+No mais,verifico que a Parte Impetrante não juntou aos autos as cópias das peças processuais necessárias à compreensão da controvérsia,notadamente a cópia da decisão proferida pelo Juízo de primeiro grau.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente ohabeas corpus(ou seu respectivo recurso). Dessa forma, como a Impetrante não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que ohabeas corpus"pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do pedido.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
