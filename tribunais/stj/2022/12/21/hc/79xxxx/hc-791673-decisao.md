@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CELIO DE SOUZAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0053940-87.2022.8.16.0000).
+Depreende-se dos autos ter sido decretada a prisão preventiva do paciente em razão dasuposta prática de doiscrimes de homicídio, um consumado e outro tentado.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fl. 29):
+HABEAS CORPUS. HOMICÍDIOS CONSUMADO E TENTADO. PRISÃO PREVENTIVA DECRETADA. 1. ARGUIÇÃO DE INIDONEIDADE DA FUNDAMENTAÇÃO DO DECRETO CAUTELAR ANTE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA (ARTIGOS 312 E 313, AMBOS DO CPP). TESES REJEITADAS. DECISÃO QUE SE REPORTOU CONCRETAMENTE AOS REQUISITOS LEGAIS NECESSÁRIOS, ALÉM DE FUNDAMENTADA A SEGREGAÇÃO DIANTE DA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA.2. ALEGAÇÃO RELACIONADA AO RECONHECIMENTO FOTOGRÁFICO NEGATIVO E QUE A PALAVRA DA VÍTIMA CATEGORICAMENTE NEGOU A PRESENÇA DO PACIENTE NO DIA DOS FATOS. QUESTÃO LEVANTADA QUE DEMANDA EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO.INADMISSIBILIDADE NESTA VIA ESTREITA DE COGNIÇÃO. EM SEDE DE JUÍZO COGNITIVO SUMÁRIO, EXISTEM ELEMENTOS QUE TRAZEM INDÍCIOS DA AUTORIA DO CRIME. 3. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO CARACTERIZADA, SENDO SUFICIENTE A PRESENÇA DOS MOTIVOS ENSEJADORES DA MEDIDA RESTRITIVA DE LIBERDADE. 4. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INAPLICABILIDADE. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+Daí o presente writ, no qual sustenta a defesa inexistir fundamentação idônea para a segregação antecipada do paciente, asseverando, ainda, que ele não foi reconhecido pela vítima.
+Pontua não haver contemporaneidade, pois a prisão foi decretada em 18/11/2021 e, portanto, está há mais de 12 meses em vigor sem o apontamento de fatos atuais que justifiquem o encarceramento
+Busca, inclusive liminarmente, seja revogada a prisão preventiva do paciente.
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência, pois, ao que parece, a prisão preventiva está amparada na gravidade concreta da conduta, tendo o Tribunal de origem enfatizado, ainda, que"não se trata apenas de garantir a ordem pública, como também de manter a vigência do mandado de prisão visando a conveniência da instrução criminal, pois há nos autos notícias de que o paciente seria primo de V. d L., vulgo "Chumbo", pessoa que é temida na região de Quedas do Iguaçu. Não se pode olvidar, ademais, que paciente e demais autores ainda tentaram contato com as testemunhas dos delitos após os acontecimentos, realizando possíveis ameaças e usufruindo de eventual influência política" (e-STJ fl. 35).
+A decisão que manteve a ordem de prisão, por sua vez, destacou que, até aquela oportunidade, o mandado de prisão nem sequer havia sido cumprido (e-STJ fl. 61), o que também autoriza a segregação antecipada para assegurar eventual aplicação da lei penal.
+Assim, mostra-se imprescindível a análise dos elementos de convicção constantes dos autos, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Tribunal de segunda instância e ao Juízo de primeiro grau, ressaltando-se que deverão noticiar a esta Corte Superior qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
