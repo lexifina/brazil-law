@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a sguinte ementa:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. NEGÓCIOSJURÍDICOS BANCÁRIOS. CUMPRIMENTO DE SENTENÇA. MULTA. AUSÊNCIA DE DEPÓSITO PRÉVIO. INADMISSIBILIDADE. TENDO APARTE ORA RECORRENTE SIDO CONDENADA AO PAGAMENTO DAMULTA PREVISTA NO ART. 1.021, § 4º, DO CPC, É REQUISITO DEADMISSIBILIDADE DE QUALQUER RECURSO POSTERIOR O SEUPRÉVIO DEPÓSITO. AUSENTE O RECOLHIMENTO, IMPOSITIVO ONÃO CONHECIMENTO DO RECURSO. PRELIMINAR ACOLHIDA. RECURSO NÃO CONHECIDO. UNÂNIME. NEGARAM PROVIMENTO AO RECURSO.
+Alegou-se, no especial, violação do artigo 1.021, § 4º, do Código de Processo Civil sob o argumento de que o "Agravo Interno 70082222795 - CNJ 0194188-22.2019.8.21.7000, em que foi cominada multa, foi interposto contra decisão que negou seguimento ao Recurso Especial 70081518813 - CNJ 0123790-50.2019.8.21.7000, não possuindo qualquer relação com o presente agravo de instrumento originário, uma vez que as decisões que ensejaram a interposição de ambos os recursos não se referem a mesma discussão. A presente cadeia recursal trata de questões diversas, relacionadas com a desconsideração de documentos nos cálculos de liquidação" (e-STJ, fl. 182).
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o acórdão estadual manteve a decisão que não conheceu de agravo de instrumento por ausência de recolhimento da multa prevista no dispositivo legal invocado.
+Não houve, todavia, exame da alegação em torno do argumento de que a referida multa teria sido aplicada em relação jurídico-processual diversa e tampouco foram opostos embargos de declaração contra o acórdão de origem a fim de suscitar discussão a respeito, de modo que a causa carece do indispensável prequestionamento.
+Inafastável, pois, a incidência dos verbetes n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
