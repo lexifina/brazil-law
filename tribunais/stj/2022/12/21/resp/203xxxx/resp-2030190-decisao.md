@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE SANTA CATARINA - CREA/SC, com fulcrona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ fl. 111):
+EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL.ART. 8º DA LEI Nº 12.514, DE 2011, NA REDAÇÃO DADA PELA LEI Nº 14.195, DE 2021. CONSTITUCIONALIDADE RECONHECIDA EM SEDE DE INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. APLICAÇÃO AOS PROCESSOS QUE CONTEMPLEM MULTAS, ANUIDADES E DEMAIS OBRIGAÇÕES PREVISTAS EM LEI. EXTINÇÃO DO FEITO.
+Em suas razões, a parte recorrente apontaviolaçãodos arts.6º e 8º da Lei n.12.514/2011, argumentando, em suma, a possibilidade de execução de multasaplicadas em razão do poder de polícia.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem àe-STJ fl. 135.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada, referente ànatureza jurídica do débito cobrado na execução fiscal, não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ" (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/09/2017).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 04/05/2018; e AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/09/2018.
+Ainda que assim não fosse, extrai-se do julgado o seguinte trecho (e-STJ fls. 112/113):
+As alegações apresentadas no presente recurso, por meio das quais o Conselho busca afastar a aplicação do art. 8º da Lei nº 14.195, de 2021, foram expressamente enfrentadas e rechaçadas pela 1ª Seção deste tribunal, órgão colegiado que reúne as turmas especializadas em matéria tributária, no Incidente de Assunção de Competência nº 5046920-60.2021.4.04.0000/RS, julgado em 05 de maio de 2022, que concluiu pela constitucionalidade e validade do dispositivo impugnado.
+Ademais, o valor mínimo da execução deve ser aquele equivalente a cinco vezes o montante previsto no inc. I do art. 6º da Lei nº 12.514, de 2011, qual seja o valor histórico de R$ 500,00, atualizado pelo INPC de 31-10-2011 até a data do ajuizamento da ação, e não o valor da anuidade do Conselho Regional de Engenharia e Agronomia.
+Assim, verifica-se que a apelação ora analisada contraria o entendimento vinculante estabelecido pela 1ª Seção deste tribunal, o que justifica o seu desprovimento e, consequentemente, a manutenção da sentença que inadmitiu a cobrança.
+Como se vê, oTribunal de origem assentou que a matéria foi examinada em incidente de assunção de competência, vinculando todos os juízes e órgãos fracionários, de acordo com odisposto no art. 947, § 3º, do CPC/2015, contudo, nas razões do recurso especial, tal fundamentação não foi refutada.
+Assim, incide, por analogia, aSúmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", bem como a Súmula 284 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". (EDcl no AgInt no REsp 1589590/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
