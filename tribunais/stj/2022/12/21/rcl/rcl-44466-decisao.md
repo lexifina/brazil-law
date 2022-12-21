@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizadapor RENE FRANCISCO HELLMAN e CAMILA AUGUSTA FIGUEIREDO DE ALENCAR SOUZAcontra acórdão proferido pelo Tribunal de Justiça do Acre que suspendeu o alvará de levantamento de valores depositados, "até a ocorrênciado trânsito em julgado do recurso a ser analisado pelo STJ" (e-STJ fl. 7).
+Os reclamantes sustentam que foi proposta na origem cumprimento provisório de sentença relativa ao pagamento de honorários advocatícios.
+Afirmam que a instituição financeira apresentou impugnação, alegando excesso de execução e depositando o valor de R$ 173.720,31 (cento e setenta e três mil, setecentos e vinte reais e trinta e um centavos).
+Relatam que foi determinada a expedição de alvará para levantamento da quantia, mas foi interposto agravo de instrumento no qual o TJAC determinou "a suspensão do cumprimento provisório de sentença até o julgamento do Agravo em Recurso Especial pelo STJ" (e-STJ fl. 5).
+Apontam que seria competência exclusiva deste Superior Tribunal de Justiça "atribuir efeito suspensivo ao cumprimento provisório de sentença, impedindo o levantamento do valor depositado" (e-STJ fl. 7), pois quando "o Tribunal de Justiça suspende a ordem judicial de levantamento do alvará, na verdade está atribuindo efeito suspensivo a um recurso de agravo em recurso especial" (e-STJ fl. 8).
+Alegam que foi violado o art. 1.029, § 3º, II, do CPC, razão pela qual postulam, liminarmente seja restabelecida a "eficácia da decisão de primeiro grau, que autorizou a expedição de alvará para levantamento do valor incontroverso do cumprimento de sentença" (e-STJ fl. 9) e, no mérito, requerem a confirmação da tutela de urgência.
+É o relatório.
+Decido.
+Em análise perfunctória do caso, verifica-se que o pedido liminar não deve ser concedido, ante a ausência de "fumus boni iuris"e de "periculum in mora".
+Sobre o perigo de dano ou risco ao resultado útil do processo, os reclamantes não indicaram nenhuma circunstância excepcional que exigisse pronta atuação desta Corte Superior. Ademais, o simples decurso de tempo não satisfaz o requisito da tutela de urgência.
+Quanto à probabilidade do direito, importa mencionar que o cumprimento provisório foi suspenso, em resumo, nos seguintes termos (e-STJ fl. 176/179):
+Com efeito, depreende-se dos autos originários que a ordem judicial de expedição de alvará do valor depositado voluntariamente pelo devedor/Agravante à p. 77, no montante de R$ 173.720,31 (cento e setenta e três mil, setecentos e vinte reais e trinta um centavo), de fato, deixou de observar tratar-se de dívida ainda controvertida, conforme Decisão proferida às pp. 88/90, que salienta que os cálculos apresentados por ambas as partes, relativos ao valor remanescente doshonorários advocatícios, encontram-se fora dos parâmetros legais estabelecidos no Acórdão n. 22.547, lavrado nos autos do Agravo de Instrumento n.1000835-69.2020.8.01.00002, julgado por esta Câmara Cível, em 16/10/2020, sob a relatoria da Des.ª Denise Bonfim, determinando a intimação para devida correção.
+Ademais, consoante informação contida nos autos e corroborada pelo próprio Agravante, o Agravo em Recurso Especial interposto pelo Banco devedor junto ao Superior Tribunal de Justiça em face do Acórdão proferido por este Tribunal, que discute o valor e a própria existência da dívida, ainda está pendente de julgamento (certidão de p. 328 - autos do agravo de instrumento), podendo ocorrer a redução do valor requerido ou, ainda mesmo, concluir-se pela inexistência do débito.
+Logo, tenho que as questões atinentes ao alegado excesso de execução, a própria liquidação da obrigação e a litigância de má-fé dos Agravados, devem aguardar o posicionamento da Corte Superior, haja vista que referidas matérias foram ventiladas em sede de Recurso Especial, a fim de evitar tumulto processual e maior prejuízo às partes, considerando os valores envolvidos.
+Destarte, impõe-se a reforma da Decisão agravada tão somente quanto à ordem de expedição de alvará, para determinar o bloqueio do valor depositado até a ocorrência do trânsito em julgado do recurso a ser analisado pelo STJ.
+Destaco, por fim, que tal providência não tem o condão de causar prejuízo irreversível aos credores a considerar que, se a pretensão do Agravante for afastada ao final do julgamento, poderá requerer o levantamento dos valores bloqueados, junto com os acréscimos legais.
+Nesse sentido, o entendimento jurisprudencial.
+Ante o exposto, dou provimento parcial ao Agravo de Instrumento, confirmando o efeito suspensivo concedido às pp. 95/101, para reformar a decisão recorrida no sentido de determinar o bloqueio do valor depositado em juízo pelo recorrente, até a ocorrência do trânsito em julgado do recurso interposto a ser analisado pelo STJ.
+A princípio não se vislumbra clara afronta ou usurpação da competência desta Corte Superior, notadamente porque diversos os institutos de tutela provisória para acautelar as fases recursal e de cumprimento de sentença.
+Nessa linha:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. PRETENSÃO TRANSVERSA DE SUSPENSÃO DO EVENTUAL CUMPRIMENTO PROVISÓRIO DE SENTENÇA. FUMUS BONI IURIS E PERICULUM IN MORA NÃO DEMONSTRADOS.AGRAVO DESPROVIDO.
+1. Para deferimento de liminar em tutela provisória, é necessária a conjugação do fumus boni iuris e do periculum in mora, o que não ficou demonstrado no caso dos autos. O que se verifica, na hipótese dos autos, é a confusão entre o efeito suspensivo do recurso especial com o requerimento de suspensão de execução provisória do acórdão, cujo juízo competente não é este Tribunal Superior.
+2. Agravo interno desprovido.
+(AgInt no TP 803/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/10/2017, DJe 30/10/2017.)
+À vista de tais argumentos, não há demonstração, à primeira vista, da existência de dano irreparável, de probabilidade do direito ou doperigo de dano ou risco ao resultado útil do processo,requisitos para concessão da tutela de urgência.
+Ante o exposto, INDEFIRO o pedido liminar.
+Oficie-se ao Tribunal de Justiça do Acrerequisitando-se informações.
+Intime-se a parte interessada para, se assim o quiser, manifestar-se no prazo de 10 (dez) dias.
+Após, remetam-se os autos ao Ministério Público Federal, para parecer.
+Publique-se e intimem-se.
