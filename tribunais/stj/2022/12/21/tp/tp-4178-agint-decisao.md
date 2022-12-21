@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Maria Leonor Barros Saad contra decisão proferida por este signatário, a qual deferiu a tutela de urgência postulada por João Carlos Saad a fim de conceder efeito suspensivo ao agravo em recurso especial por ele interposto (e-STJ, fls. 511-515).
+Em suas razões (e-STJ, 521-556), a agravante postula a reversão da tutela de urgência ante a ausência da probabilidade do direito do agravado, pois a suspensão da reunião do Conselho de Administração da Rádio e Televisão Bandeirantes S.A. e do Conselho de Administração do Grupo Bandeirantes em nada se relaciona com a presente demanda, sobretudo diante da existência de Procedimento Arbitral que já declarou a imediata destituição do agravado do cargo de Diretor-Presidente do Grupo Bandeirante.
+Destaca, ainda, que a sociedade empresária Aribisa não é parte da arbitragem e que o agravado praticou inúmeras irregularidades à frente do grupo societário, o que ensejou decisão arbitral determinando o seu afastamento.
+Posteriormente, a agravante informou que o agravo em recurso especial, ao qual se deu efeito suspensivo, não foi conhecido por decisão da Presidência do STJ, o que corroboraria com a inexistência defumus boni iuris(e-STJ, fls. 1.698-1.704).
+Impugnação às fls. 1.705.1736 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, é indubitável quea concessão de efeito suspensivo ou de efeito ativo a recurso especial demanda a demonstração inequívoca do periculum in mora, evidenciado pela urgência da prestação jurisdicional, a fim de evitar dano de difícil ou incerta reparação, e do fumus boni iuris, consistente na probabilidade de êxito do recurso especial, consoante já consignado na decisão agravada.
+Cumpre destacar, na espécie, que o pedido de tutela provisória de urgência tevecomo fundamento o art. 1.029, § 5º, I, do CPC/2015, isto é, o efeito suspensivo era dirigido especificamente ao agravo em recurso especial no período compreendido entre a decisão de admissão do recurso e sua distribuição nesta Corte Superior.
+Desse modo, como bem salientado pela ora agravante, a Presidência do STJ não conheceu do agravo em recurso especial interposto por João Carlos Saad (AREsp n. 2.196.956/SP), conforme se verifica da decisão publicada em 28/10/2022.
+Diante disso, de se ver que os argumentos que subsidiariam o deferimento da tutela de urgência, notadamente ofumus boni iuris, não mais subsistem, de modo que houve a perda superveniente do objeto do pedido.
+Como a pretensão de João Carlos Saad era a concessão de efeito suspensivo a agravo em recurso especial e este recurso não foi conhecido pela Ministra Presidente do STJ, deve-se reconhecer o exaurimento dos efeitos da decisão que concedeu o pleito suspensivo.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE ATRIBUIÇÃO DEEFEITO SUSPENSIVOASSOCIADO A AGRAVO EM RECURSO ESPECIAL. POSTERIOR JULGAMENTO DO RECURSO PRINCIPAL.PERDA DE OBJETODATUTELAPROVISÓRIA.
+1. O pedido detutelade urgência com o fim de atribuirefeito suspensivoao agravo em recurso especial se encontra prejudicado, porperda de objeto,em virtude do julgamento do mencionado recurso, tombado sob o n. 2.017.901/MA (número único 0005469-62.2010.4.01.3702).
+2. Jurisprudência desta Corte Superior de que, uma vez apreciado o recurso cujoefeito suspensivose buscou garantir, ocorre a supervenienteperda do objetoda medida cautelar, sendo, inclusive, desnecessário o trânsito em julgado ou mesmo a confirmação no órgão colegiado.
+3. Embargos de declaração prejudicados. (EDcl no AgInt no TP 3.594/DF, Rel. Min. Og Fernandes, Segunda Turma, julgado em 16/08/2022, DJe 30/08/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. EFEITO SUSPENSIVOA RECURSO ESPECIAL. JULGAMENTO DO RECURSO ESPECIAL PRINCIPAL.PERDA DE OBJETO.
+1. O pedido detutelade urgência deduzido com o fim de atribuirefeito suspensivoa recurso especial fica prejudicado, porperda superveniente de objeto,em virtude do julgamento do recurso principal. Precedentes.
+3. Agravo interno não provido. (AgInt no TP 1.931/BA, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 21/03/2022, DJe 24/03/2022)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO.TUTELADE EVIDÊNCIA. EXISTÊNCIA. ART. 300 DO CÓDIGO DE PROCESSO CIVIL/2015. REQUISITOS COMPROVADOS. RECURSO ESPECIAL. POSTERIOR PROLAÇÃO DA SENTENÇA DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE EM RECORRER. IMPOSSIBILIDADE DE CONCESSÃO DOEFEITO SUSPENSIVO.DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. O julgamento do recurso especial prejudica o pedido detutelaprovisória que buscava conferir-lheefeito suspensivo,porperda de objeto.Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no REsp 1.930.899/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/03/2022, DJe 24/03/2022)
+Assim, julgado o processo principal (AREsp n. 2.196.956/SP), o objeto da presente tutela provisória não mais persiste, devendo ser revogada a tutela anteriormente concedida.
+Ante o exposto, julgo prejudicado o pedido de tutela de urgência em razão da perda superveniente do seu objeto,cassandoa decisão de fls. 511-515 (e-STJ) que deferiu o efeito suspensivo ao agravo em recurso especial.
+Publique-se.
