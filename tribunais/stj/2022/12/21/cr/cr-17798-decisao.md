@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro, Juízo Local Criminal de Faro, Juiz 3) solicita que se proceda à notificação pessoal de EDER ZAVATINI para tomar ciência da sentença proferida nos autos do Processo n. 394/13.8TAFAR, bem como do prazo de 30 dias, a contar da notificação, para exercer o direito de recurso da referida sentença.
+Tendo em vista que a diligência foi cumprida (certidão de fl. 256), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
