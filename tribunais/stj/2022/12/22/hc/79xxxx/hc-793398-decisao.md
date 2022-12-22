@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCIANO DA SILVA, em que se aponta como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Segundo os impetrantes, o paciente foi preso em flagrante por policiais civis do DENARC, na cidade de Lagarto, Sergipe, por suposto envolvimento em tráfico de drogas. Submetido à audiência de custódia, teve a sua prisão convertida em preventiva. Diante do indeferimento de pedido de concessão de liberdade provisória, impetrou-se perante o Tribunal de Justiça de Sergipe, ordem de habeas corpus que, ao final, foi denegada.
+Os impetrantes consideram que a decisão lastreou-se em argumentos genéricos relacionados com a gravidade abstrata da infração imputada. Entendem que o órgão colegiado não apontou aspectos concretos que justificassem a manutenção da medida extrema. Assinalam que a manutenção da custódia fundou-se no argumento de que o crime imputado seria de natureza hedionda, o que seria motivação absolutamente insuficiente. Afirmam que o paciente reúne as condições subjetivas favoráveis para responder ao processo em liberdade, representadas que são por sua primariedade, bons antecedentes, vínculo residencial e ocupação lícita. Entendem que o caso não justifica a necessidade da custódia para o resguardo da ordem pública. Consideram que o caso permite a afirmação da figura do tráfico privilegiado. Entendem que a quantidade de drogas não é fundamento suficiente para a imposição da prisão preventiva. Por fim, afirmam que o v. Acórdão nãoenfrentou, com profundidade, a inviabilidade das medidas cautelares alternativas. Pugnam, destarte, pela concessão de liminar para o que o paciente seja posto imediatamente em liberdade, com ou sem aplicação de medidas cautelares alternativas.
+É o relatório.
+Indefere-se a liminar.
+Não se vislumbra, em sede de cognição sumária de exameliminar, manifesta ilegalidade que justificasse a pronta correção pela via do habeas corpus.
+Com efeito, a princípio, a decisão colegiada,ora atacada, não se ancorou em considerações puramente abstratas. Houve menção à quantidade e à natureza da substância apreendida como elemento afirmador da gravidade concreta e, por via de consequência, para afirmaçãoda necessidade de resguardo da ordem pública. Houve, igualmente, exposiçãode argumentos que tornavam inviável a substituição da custódia por medidas cautelares alternativas.
+Nesse sentido, anoto que a ordem pleiteada, nos termos em que foi apresentada confunde-se com o méritoda insurgência, ficando reservado ao momento do julgamento definitivo o exame mais aprofundado da matéria.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações ao Tribunal de origem, que deverão ser prestadas, preferencialmente, por malote digital e com senha de acesso para consulta ao processo.
+Após, remetam-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
