@@ -7,6 +7,7 @@ V - 1,13% (um inteiro e treze centésimos por cento) e 5,2% (cinco inteiros e do
 VI - 1,26% (um inteiro e vinte e seis centésimos por cento) e 5,8% (cinco inteiros e oito décimos por cento), para os fatos geradores ocorridos nos meses de janeiro a março de 2022, e 1,65% (um inteiro e sessenta e cinco centésimos por cento) e 7,6% (sete inteiros e seis décimos por cento), para os fatos geradores ocorridos nos meses de abril a dezembro de 2022;
 VII - 1,39% (um inteiro e trinta e nove centésimos por cento) e 6,4% (seis inteiros e quatro décimos por cento), para os fatos geradores ocorridos no ano de 2023; e
 VIII - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos geradores ocorridos no ano de 2024.
+IX - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por cento), para os fatos geradores ocorridos nos anos de 2025 a 2027.
 Parágrafo único. O disposto no caput aplica-se também:
 I - às vendas de etano, propano, butano, condensado e correntes gasosas de refinaria - HLR - hidrocarbonetos leves de refino para centrais petroquímicas para serem utilizados como insumo na produção de eteno, propeno, buteno, butadieno, orto-xileno, benzeno, tolueno, isopreno e paraxileno; e
 II - às vendas de eteno, propeno, buteno, butadieno, orto-xileno, benzeno, tolueno, isopreno e paraxileno para indústrias químicas para serem utilizados como insumo produtivo.
