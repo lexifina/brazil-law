@@ -1,0 +1,1 @@
+Art. 122. As transferências financeiras realizadas pelo Fundo Nacional de Saúde e pelo Fundo Nacional de Assistência Social diretamente aos fundos de saúde e assistência social estaduais, municipais e distritais, para enfrentamento da pandemia da Covid-19, poderão ser executadas pelos entes federativos até 31 de dezembro de 2023.
