@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº299, de 23.12.2022 (D.O 23.12.22)
+DISPÕE SOBRE A AÇÃO COMPARTILHADA DE QUE TRATA A LEI COMPLEMENTAR N.º 259, DE 10 DE DEZEMBRO DE 2021.
+A GOVERNADORA DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
