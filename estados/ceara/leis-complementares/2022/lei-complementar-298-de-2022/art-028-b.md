@@ -1,0 +1,2 @@
+Art. 28-B. O exercício da livre e espontânea opção do servidor prevista na alínea "a" do inciso II do §1.º do art. 28 desta Lei Complementar implica a sua inscrição automática no plano do regime de previdência complementar, aplicado o disposto no art. 28-A desta Lei Complementar.
+Parágrafo único. Os efeitos da opção de que trata o caput deste artigo ocorrerão a partir do primeiro dia do mês subsequente à data de assinatura do respectivo termo de opção.
