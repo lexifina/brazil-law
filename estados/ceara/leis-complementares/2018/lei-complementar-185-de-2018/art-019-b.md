@@ -1,0 +1,1 @@
+Art. 19-B. A CE-Prevcom e a Cearaprev, enquanto gestoras da Previdência Estadual, poderão firmar termos de cooperação técnica e administrativa, estabelecendo, de forma clara e precisa, critérios para rateio de despesas administrativas pertinentes e referentes ao funcionamento das fundações, observados os princípios da eficiência e economicidade em suas administrações.

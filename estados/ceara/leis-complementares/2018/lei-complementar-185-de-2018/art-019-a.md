@@ -1,0 +1,2 @@
+Art. 19-A. A Fundação de Previdência Social do Estado do Ceará - Cearaprev prestará o apoio logístico e financeiro necessário às atividades iniciais da CE-Prevcom durante os primeiros 18 (dezoito) meses de funcionamento dessa Entidade, contados a partir da data prevista no parágrafo único do art. 22 desta Lei Complementar.
+Parágrafo único. As despesas administrativas diretas ou indiretas apuradas pela Cearaprev e decorrentes do estabelecido no caput serão ressarcidas pela CE-Prevcom.
