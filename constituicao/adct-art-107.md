@@ -17,6 +17,7 @@ II - créditos extraordinários a que se refere o § 3º do art. 167 da Constitu
 III - despesas não recorrentes da Justiça Eleitoral com a realização de eleições; e
 IV - despesas com aumento de capital de empresas estatais não dependentes.
 V - transferências a Estados, Distrito Federal e Municípios de parte dos valores arrecadados com os leilões dos volumes excedentes ao limite a que se refere o § 2º do art. 1º da Lei nº 12.276, de 30 de junho de 2010, e a despesa decorrente da revisão do contrato de cessão onerosa de que trata a mesma Lei.
+VI - despesas correntes ou transferências aos fundos de saúde dos Estados, do Distrito Federal e dos Municípios, destinadas ao pagamento de despesas com pessoal para cumprimento dos pisos nacionais salariais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira, de acordo com os §§ 12, 13, 14 e 15 do art. 198 da Constituição Federal.
 § 6º-A Não se incluem no limite estabelecido no inciso I do caput deste artigo, a partir do exercício financeiro de 2023:
 I - despesas com projetos socioambientais ou relativos às mudanças climáticas custeadas com recursos de doações, bem como despesas com projetos custeados com recursos decorrentes de acordos judiciais ou extrajudiciais firmados em função de desastres ambientais;
 II - despesas das instituições federais de ensino e das Instituições Científicas, Tecnológicas e de Inovação (ICTs) custeadas com receitas próprias, de doações ou de convênios, contratos ou outras fontes, celebrados com os demais entes da Federação ou entidades privadas;
