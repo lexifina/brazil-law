@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porJOAO FORTES ENGENHARIA S A - EM RECUPERACAO JUDICIAL, JFE 16 EMPREENDIMENTOS IMOBILIARIOS SPE S.A. - EM RECUPERACAO JUDICIAL,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/08/2022.
+Concluso ao gabinete em: 21/11/2022.
+Ação:nunciação de obra nova, proposta por LUIS GUSTAVO GRANDINETTI CASTANHO DE CARVALHO em face das ora agravantes.
+Decisão interlocutória:prolatada após a sentença de procedência do pedido, deferiu tutela de urgência requerida pelo agravado, para determinar às agravantes que promovam as obras necessárias para garantir a segurança da estrutura da unidade do autor e do prédio, fixando o prazo de 30 dias para o início e 180 dias para o término, sob pena de multa diária de R$ 1.000,00.
+Acórdão:negou provimento ao agravo de instrumento interposto pelas agravantes, nos termos das seguinte ementa (e-STJ fl. 86):
+"AGRAVO DE INSTRUMENTO. RISCO DE DESABAMENTO DEEDIFÍCIO. TUTELA DE URGÊNCIA INCIDENTAL DEFERIDA APÓS PROLAÇÃO DA SENTENÇA. IMPROPRIEDADE. COMPETÊNCIA DO TRIBUNAL AD QUEM. EXCEPCIONALIDADE. POSSIBILIDADE DE DANO GRAVE. MANUTENÇÃO DA DECISÃO. Com base em sentença de mérito já prolatada o juiz deferiu tutela de urgência incidental para que a rés, ora agravantes, promovam as obras necessárias para garantir a segurança da estrutura da unidade do agravado e do prédio. Todavia, o juiz a quo só pode se manifestar sobre a formulação de tutela no curso da ação ou na própria sentença, uma que após esta ser proferida se exaure o seu ofício jurisdicional e não lhe é dado inovar no processo. O exame de questões supervenientes deve ser submetido pelas partes ao juízo colegiado ad quem, em prestígio aos artigos 203, §1º, 299, parágrafo único, e 494 do Código de Processo Civil.
+No entanto, considerando existir nos autos originários laudo pericial conclusivo pelo perigo para a segurança e solidez do prédio, com risco de dano pela probabilidade de desabamento da edificação na qual reside o agravado, a proteção da incolumidade física dos moradores e transeuntes deve ser amplamente protegida. Tais elementos justificam que a rés promovam as obras necessárias para garantir a segurança da estrutura das edificações. Portanto, com base no poder de cautela do magistrado deve ser mantida a tutela deferida, ao menos até ulteriores decisões no recurso próprio.
+CONHECIMENTO e DESPROVIMENTO do recurso".
+Embargos de declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 203, § 1º, 489, 494 e 1.022 do CPC/15, sustentando, além de negativa de prestação jurisdicional, quehouve indevida modificação da sentença após a sua prolação, pelo próprio juiz do 1º grau de jurisdição.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da impropriedade da tutela de urgência deferida pelo juiz do 1º grau de jurisdição, bem como acerca da necessidade de manutenção do decisório. Dessa maneira,os embargos de declaração opostos pelas agravantes com vistas ao revolvimento de tais temas, de fato, não comportavam acolhimento.
+Assim, observado o entendimentodesta Corte, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15.
+- Da existência de fundamento não impugnado
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem, para além de reconhecer a impropriedade da decisão proferida pelo juiz do 1º grau de jurisdição após a prolação de sentença, asseverou que excepcionalmente, o decisum deveria ser mantido, ante o risco de dano para a segurança e solidez do prédio. Veja-se:
+"No entanto, estando a apelação interposta pelas rés, item 663 do processoprincipal, ainda em processamento na primeira instância e sem que, depois de prolatada a sentença, tenha havido pleito do autor de antecipação de tutela nesta segunda instância, com base no poder geral de cautela passo a decidir sobre a tutela deferida no primeiro grau, ainda que com impropriedade processual. Considerando existir nos autos originários laudo pericial conclusivo pelo perigo para a segurança e solidez do prédio, com risco de dano pela probabilidade de desabamento da edificação na qual reside o agravado, a proteção da incolumidade física dos moradores e transeuntes deve ser amplamente protegida. Taiselementos justificam que a rés promovam as obras necessárias para garantir a segurança da estrutura das edificações, tal como estipulado no decisum agravado"(e-STJ fls. 91/92).
+As agravantes, no entanto, nada argumentaram acerca da ratificação da decisão pelo órgão competente.
+Por isso, o conhecimento do recurso especial é inviável, ante o dispostona Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de nunciação de obra nova.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
