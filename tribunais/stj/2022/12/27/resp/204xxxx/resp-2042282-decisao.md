@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RIBEIRÃO GOLF EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Ação: de indenização por danos materiais e morais ajuizada por OSVALDO DE OLVEIRA BERGAMO, MARIA AMALIA FREGONESI BERGAMO e ARLINDO GOMES BALTAZAR NETO contra a recorrente e ACER CONSULTORES EM IMÓVEIS S/A, em razão de atraso na entrega da obra.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a recorrente ao pagamento de lucros cessantes no percentual de 0,8% do valor do imóvel durante o período da mora.
+Acórdão: deu provimento ao recurso de apelação da corré e parcial provimento às apelações dos recorridos e da recorrente, conforme a seguinte ementa:
+COMISSÃO DE CORRETAGEM E TAXA SATI -RESTITUIÇÃO -ILEGITIMIDADE PASSIVA E PRESCRIÇÃO - Legitimidade da incorporadora ré - Tese consolidada nos Recursos Especiais 1.551.951-SP e 1.551.968-SP, julgados pelo rito dos recursos repetitivos -Pretensão de restituição - Incidência da prescrição trienal -Tese consolidada no Recurso Especial 1.551.956, julgado pelo rito dos recursos repetitivos - Sentença reformada neste tópico - Inversão do ônus da sucumbência -PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. PREJUDICIAL DE MÉRITO ACOLHIDA, PARA RECONHECER A PRESCRIÇÃO. RECURSO DA CORRÉ FREMA ACOLHIDO. COMPROMISSO DE COMPRA E VENDA -INDENIZAÇÃO - Atraso incontroverso - Chaves entregues após o prazo de tolerância - Ausência de excludente de responsabilidade - Súmula 161-TJSP - Prazo de tolerância de 180 dias que não é abusivo - Súmula 164-TJSP e tese jurídica aprovada no IRDR nº 0023203-35.2016.8.26.0000 (tema 01) - Lucros cessantes devidos pela não fruição do imóvel durante o período da mora, independentemente de comprovação - Súmula 162-TJSP - Modificação do valor da indenização para o equivalente a 0,5% sobre o valor do contrato, corrigido -Precedentes jurisprudenciais - Impossibilidade de cumulação da indenização por lucros cessantes com a cláusula penal - Tese consolidada no REsp nº 1.635.428-SC, julgado pelo rito dos recursos repetitivos - Juros remuneratórios que não podem incidir sobre o saldo devedor no período de atraso - Na hipótese de incidência, o valor apurado deve ser restituído aos autores - Danos morais não configurados no caso em apreço, tendo em vista que o decurso de poucos meses de atraso não é suficiente para caracterizar o abalo psicológico narrado - Sentença reformada - RECURSOS DOS AUTORES E DA CORRÉ RIBEIRÃO GOLF PARCIALMENTE PROVIDOS.
+Embargos de declaração: opostos pela recorrente, foram acolhidos para sanar erro material relativo ao termo inicial da mora (01/05/2012).
+Recurso especial: alega ofensa aos arts. 421 e 422 do CC/02 e ao art. 6º, § 1º, da LINDB. Defende ser descabido o pagamento de lucros cessantes, bem como o afastamento dos juros de mora, porque vai de encontro às disposições pactuadas. Assevera que os recorridos tinham ciência dos termos contratuais, não havendo qualquer vício na pactuação. Sustenta terem sido os recorridos quem deram causa ao atraso na entrega do imóvel, porquanto demoraram a quitar o saldo devedor, não havendo mora de sua parte.
+Decisão de admissibilidade: o TJ/SP admitiu o recurso especial.
+É o relatório. Decido.
+1. Dos lucros cessantes.
+O Tribunal de origem alinhou-se à jurisprudência desta Corte ao entender que é cabível a condenação do promitente vendedor ao pagamento de lucros cessantes na hipótese de descumprimento do prazo para entrega de imóvel objeto de compromisso de compra e venda, presumindo-se o prejuízo do promitente comprador. Nesse sentido: AgInt no REsp 1783184/RJ, 3ª Turma, DJe de 27/09/2019; AgInt no AREsp 970.022/MG, 4ª Turma, DJe de 12/09/2019; AgInt no AREsp 1021640/AM, 4ª Turma, DJe de 01/07/2019.
+Ressalte-se que o Tribunal de origem, com base nas provas produzidas nos autos, concluiu estar comprovada a mora da recorrente, de modo que a alteração dessa conclusão demandaria o revolvimento da matéria fático-probatória, o que é vedado pela Súmula 7 do STJ.
+Logo, o acórdão recorrido não comporta reforma quanto ao ponto.
+2. Dos juros remuneratórios.
+De acordo com o entendimento do STJ, na aquisição de unidades autônomas em construção, é ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância (AgInt no AREsp n. 544.253/RJ, Quarta Turma, julgado em 26/4/2021, DJe de 28/5/2021; AgInt no REsp 1.884.764/SP, Terceira Turma, julgado em 11/11/2020, DJe de 16/11/2020).
+Portanto, o acórdão recorrido, ao afastar a incidência de juros remuneratórios durante a mora da recorrente, decidiu em consonância com a jurisprudência desta Corte.
+3. Do dissídio jurisprudencial.
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico
+nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+4. Dispositivo.
+Forte nessas razões, com fundamento na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Deixo de aplicar o disposto no art. 85, §11, do CPC/2015, uma vez que a recorrente não foi condenada, na origem, a pagar honorários ao procurador dos recorridos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. CABIMENTO. DESCABIMENTO DE JUROS REMUNERATÓRIOS DURANTE O PERÍODO DE ATRASO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Ação de indenização por danos materiais e morais.
+2. Écabível a condenação do promitente vendedor ao pagamento de lucros cessantes na hipótese de descumprimento do prazo para entrega de imóvel objeto de compromisso de compra e venda, presumindo-se o prejuízo do promitente comprador. Precedentes.
+3. Na aquisição de unidades autônomas em construção, é ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância. Precedentes.
+4.Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
