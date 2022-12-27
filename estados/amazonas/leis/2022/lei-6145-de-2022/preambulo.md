@@ -1,0 +1,13 @@
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO
+
+ESTADO DO AMAZONAS
+
+Av. Mário Ypiranga Monteiro, 3950 Parque 10 de Novembro, Manaus, Amazonas CEP 69.050-030
+
+LEI Nº 6.145, DE 27 DE DEZEMBRO DE 2022.
+
+ALTERA a ementa, o caput do art. 1º e o art. 2º da Lei nº 5.515, de 28 de junho de 2021.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
