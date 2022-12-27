@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por OCTAGONO SERVICOS LTDA, que visa "suspender imediatamente a medida do art. 319, VI, do CPP decretada pelo d. Juízo da 1ª Vara Criminal da Comarca de Diadema nos Autos nº 1002419-12.2022.8.26.0161 e coonestada pela col. 13ª Câmara de Direito Criminal do e. Tribunal de Justiça do Estado de São Paulo nos autos do Mandado de Segurança nº 2164940-79.2022.8.26.0000".
+A requerente alega que o juízo de primeiro grau decretou a medida cautelar de suspensão do exercício de função pública e de atividade de natureza econômica ou financeira da Octágono e, ato contínuo, expediu ofício ao DETRAN-SP a fim de suspender todos os contratos, convênios, concessões ou outros ajustes envolvendo a empresa. A requerente atua no mercado mantendo sob sua guarda veículos apreendidos pela autoridade de trânsito estadual.
+Aponta a desarrazoabilidade da medida, uma vez que os fatos investigados não seriam contemporâneos, mas remontariam aos idos de 2019.
+Assevera que a medida imposta causará a asfixia financeira de toda a empresa, que depende de recursos oriundos dos contratos de concessão para a operação dos pátios de veículos, os quais contam hoje com mais de 70 mil automóveis, espalhados por 8 filiais por todo o Estado de São Paulo. Menciona que os indícios de ilícitos teriam se dado tão somente quanto à filial de Diadema, cujo contrato de concessão já teria sido extinto.
+Pleiteia a suspensão da medida constritiva imposta pelo juízo de primeiro grau ou, subsidiariamente, que esta possa incidir somente sobre os bens afetos ao Município de Diadema, "até que a col. Quinta Turma possadebruçar-se sobre o mérito do recurso ordinário interposto nos autos do Mandado de Segurança nº 2164940-79.2022.8.26.0000, sem prejuízo de eventual reavaliação da tutela de urgência pelo eminente Relator, Min. Messod Azulay, após o fim do recesso judiciário".
+É o relatório.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso pelo tribunal de origem.
+A esse respeito, dispõem os enunciados 634 e 635, ambos da Súmula do STF, verbis:
+634 -Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem.
+635 -Cabe ao Presidente do Tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente do seu juízo de admissibilidade.
+No caso, ao que se tem, não ocorreu, ainda, o juízo de admissibilidade do recurso em mandado de segurançainterposto, motivo pelo qual, conforme preceituam as súmulas mencionadas do STF, não é competente o STJ para processar o pedido de tutela provisória.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, indefiro liminarmente o pedido.
+Publique-se.
+Intimem-se.
