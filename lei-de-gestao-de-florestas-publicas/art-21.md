@@ -8,4 +8,4 @@ II - títulos da dívida pública emitidos sob a forma escritural, mediante regi
 III - seguro-garantia;
 IV - fiança bancária;
 V - outras admitidas em lei.
-§ 3º Para concessão florestal a pessoa jurídica de pequeno porte, microempresas e associações de comunidades locais, serão previstas em regulamento formas alternativas de fixação de garantias e preços florestais.
+§ 3º Ato do Poder Executivo federal regulamentará formas alternativas de fixação de garantias e preços florestais.
