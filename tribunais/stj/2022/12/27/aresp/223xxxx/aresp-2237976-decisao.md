@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/07/2022.
+Concluso ao gabinete em: 14/12/2022.
+Ação: execução de título extrajudicial movida pela agravante, contra JOSE WILLIS DA SILVEIRA JARDIM e OUTRA.
+Decisão interlocutória: indeferiu seu pedido de penhora de 30% dos rendimentos auferido por JOSE WILLIS DA SILVEIRA JARDIM.
+Acórdão: negou provimento ao agravo de instrumento da agravante, nos termos da ementa:
+"AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. INTERLOCUTÓRIO QUE INDEFERE PEDIDO DE PENHORA DE PERCENTUALDE SALÁRIO. INSURGÊNCIA RECURSAL. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE CONTIDANO INCISO IV DO ARTIGO 833 DO CÓDIGO DE PROCESSO CIVIL. POSSIBILIDADE. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. NECESSIDADE, CONTUDO, DEDEMONSTRAÇÃO DE QUE O BLOQUEIO NÃO PREJUDICARÁ A SUBSISTÊNCIA DO DEVEDORE DE SUA FAMÍLIA. EXCEPCIONALIDADE NÃO EVIDENCIADA NOS AUTOS. DECISÃOMANTIDA. RECURSO CONHECIDO E DESPROVIDO." (e-STJ fl. 376)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 833, IV, do CPC/15, bem como dissídio jurisprudencial. Sustenta que deve ser deferida a penhora uma vez que restou reconhecida que inexiste acervo probatório que demonstre que o valor a ser bloqueado compromete a subsistência da parte agravada e de sua família.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+O entendimento do STJ consolidou-se no sentido de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, e § 2º do CPC/2015, quando se voltar: i) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e ii) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+Precedentes: AgInt no REsp 1.407.062/MG, 4ª Turma, DJe de 08/04/2019; REsp 1.747.645/DF, 3ª Turma, DJe de 10/08/2018; e AgInt no REsp 1.790.619/SP, 4ª Turma, DJe de 20/08/2019.
+Noutra toada, não se pode olvidar que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+Por isso, embora não se possa admitir, em abstrato, a penhora do salário da agravada com base no inc. IV e X do art. 649 do CPC/73, é possível determinar a constrição, à luz da interpretação dada ao art. 649, IV do CPC/15 (art. 833, IV, do CPC/15), quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família. Neste sentido: AgInt no REsp 1.824.882/DF, 4ª Turma, DJe de 19/12/2019; e AgInt no AREsp 1.473.266/SP, 3ª Turma, DJe de 13/12/2019.
+Na hipótese em exame, o TJ/SCfoi expresso em consignar que restou demonstrado que a constrição do salário de JOSE WILLIS DA SILVEIRA JARDIM, que gira em torno de R$ 2.494,66, é capaz de preservar sua subsistência e de sua família.
+Logo, o acórdão não merece reforma, uma vez que se encontra em consonância com a jurisprudência do STJ. Aplica-se a Súmula 568/STJ à hipótese.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial eNEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PROVENTOS. PENHORA. POSSIBILIDADE. INTERPRETAÇÃO DO ART. 833, § 2º E IV DO CPC/2015. NECESSIDADE DE VERIFICAÇÃO DE NÃO PREJUÍZO À SUBSISTÊNCIA DO DEVEDOR E SUA FAMÍLIA.
+1. Execução de título executivo extrajudicial.
+2. Embora não se possa admitir, em abstrato, a penhora do salário da agravada com base no § 2º do art. 833 do CPC/15, é possível determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família, hipótese não verificada nos presentes autos.
+3. Agravo conhecido. Recurso especial conhecido enão provido.
