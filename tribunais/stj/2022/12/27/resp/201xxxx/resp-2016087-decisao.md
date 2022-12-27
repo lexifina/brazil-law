@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER (BRASIL) S.A. com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim sintetizado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS .PRESCRIÇÃO. INOCORRÊNCIA. EMPRÉSTIMO CONSIGNADO. CARTÃO DE CRÉDITO. CIÊNCIA PRÉVIA E ADEQUADA QUANTO AOS TERMOS DO CONTRATO. INEXISTÊNCIA DE PROVA INEQUÍVOCA. FALHA NO DEVER DE INFORMAÇÃO. RECEBIMENTO E USO DO CARTÃO NÃO COMPROVADOS. DANOS MORAIS CONFIGURADOS. REDUÇÃO DO QUANTUM INDENIZATÓRIO.
+- Em virtude de a demanda abordar obrigação de trato sucessivo, seu prazo prescricional se renovou a cada desconto considerado irregular pelo apelado, motivo pelo qual não se poderia concluir que o pleito autoral estava prescrito;
+- A instituição financeira em tela não comprovou a entrega do instrumento contratual ao requerente, nem o desbloqueio e uso de cartão de crédito;
+O instrumento particular (fls. 144/145) juntado pela parte ré faz qualquer especificação dos encargos que sobre elas deveriam incidir, afrontando o disposto no art. 52, II, do CDC;
+- O exame da realidade fática revela a inexistência de clareza nessa transação e a justa confusão do consumidor, havendo clara ofensa ao dever de informação previsto no art. 6º, III, do CDC;
+- Os danos morais puderam ser identificados no abalo emocional experimentado pelo demandante, em virtude das deduções indevidas em sua folha de pagamento e da tormenta de uma dívida que se perpetua;
+- Forçosa se mostra a redução do respectivo quantum indenizatório para R$ 5.000,00 (cinco mil reais);
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fls. 562-563).
+Nas razões do recurso especial, a parte recorrente aponta violação doart. 206, § 3º, V, do Código Civil de 2002; sustentando, em síntese, "Tem-se com a presente demanda a pretensão por reparação civil por fatos ocorridos em 13/05/2014. Ocorre que, a presente demanda apenas foi ajuizada em 20/07/2018. Portanto, é certo que a demanda jamais poderia versar sobre eventos, valores ou fatos ocorridos há mais de 3 (três) anos anteriores ao ajuizamento da presente ação, uma vez que, nos termos do art. 206, parágrafo 3 2 , inciso V, do Código Civil, já estariam alcançados pelo instituto da prescrição." (fl. 578).
+Apresentadas contrarrazões ao apelo nobre (fls. 663-667).
+É o relatório.
+Lado outro, o Sodalício Estadual registra que "O apelante, preliminarmente, sustentou estar prescrita a pretensão autoral, visto que o fato originário seria contrato firmado há mais de três anos antes do ajuizamento da demanda.Todavia, entendo que não merece prosperar tal raciocínio, porquanto a relação estabelecida entre as partes in casu é caracterizada como de trato sucessivo, de execução continuada.Ora, a instituição financeira recorrente vem mensalmente realizando desconto no contracheque do apelado, como pagamento do mínimo da fatura de cartão de crédito que ele aduz não ter solicitado.Destarte, o prazo prescricional da demanda foi renovado a cada desconto promovido nesse sentido." (fls. 565, g.n.).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido -ou seja, a ausência de prescrição pois trata-se de relação de trato sucessivo, de modo que o prazo prescricional foi renovado a cada desconto promovido -, não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ainda que assim não fosse, esta Corte Superior consolidou o entendimento no sentido de que, o prazo prescricional incidente no caso de ação de inexistência de débito cumulada com danos morais, é de cinco anos, contados do último desconto.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO EDANOS MORAIS.PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. PRECEDENTES. TERMO INICIAL DAPRESCRIÇÃO.DATA DO ÚLTIMO DESCONTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência sedimentada nesta Corte Superior é no sentido de que, fundando-se o pedido na ausência de contratação de empréstimo com instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo quinquenal previsto no art. 27 do Código de Defesa do Consumidor.
+2. Em relação ao termo inicial, insta esclarecer que a jurisprudência desta Casa é firme no sentido de que o prazo prescricional para o exercício da referida pretensão flui a partir da data do último desconto no benefício previdenciário.
+3. Agravo interno improvido."
+(AgInt no AREsp n. 1.728.230/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/3/2021, DJe de 15/3/2021, g.n.)
+O eg. Sodalício Estadual destacou que "quando da propositura da ação, ainda estavam ocorrendo contínuas deduções na folha de pagamento do recorrido, não há como se vislumbrar a alegada prescrição." (fl. 567)
+Portanto, não há que se falar em prescrição na espécie.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
