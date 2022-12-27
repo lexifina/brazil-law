@@ -1,0 +1,1 @@
+Veda exigência de consentimento de cônjuge ou de companheiro para realização ou autorização de procedimentos de inserção dos métodos contraceptivos que especifica, em todo o Estado do Piauí. A GOVERNADORA DO ESTADO DO PIAUÍ, Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
