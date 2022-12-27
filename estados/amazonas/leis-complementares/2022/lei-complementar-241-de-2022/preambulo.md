@@ -1,0 +1,5 @@
+LEI COMPLEMENTAR N. 241, DE 27 DE DEZEMBRO DE 2022.
+
+ALTERA a Lei Complementar nº 01, de 30 de março de 1990, e dá outras providências. A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
