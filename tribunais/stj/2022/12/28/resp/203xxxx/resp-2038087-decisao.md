@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", daConstituição Federal, interposto por ADIBE DE OLIVEIRA CAETANOcontra v. acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 137):
+EMENTA - APELAÇÃO CÍVEL EM EXECUÇÃO EXTRAJUDICIAL - PRESCRIÇÃO INTERCORRENTE RECONHECIDA - IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DOS PATRONOS DO EXECUTADO QUANDO A PRESCRIÇÃO É RECONHECIDA - IMPOSSIBILIDADE DE REFORMA DO DECISIUM - VEDAÇÃO DO REFORMATIO IN PEJUS - PERMANÊNCIA DO PATAMAR FIXADO EM PRIMEIRO GRAU - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação ao art. 85, § 2º, do Código de Processo Civil de 2015. Sustenta, em síntese, que não é hipótese de incidência do art. 85, § 8º, do CPC/2015, devendo os honorários advocatícios incidirem de 10% a 20%sobre o valor atualizado da execução.
+É o relatório. Decido.
+Na hipótese, ao afastar a incidência do art. 85, §2º, do CPC/2015, mesmo reconhecendo a extinção do feito pela prescrição intercorrente, a Corte de origem assim se manifestou:
+Ora, em caso de reconhecimento de prescrição intercorrente, não se fixa honorários advocatícios em favor do advogado do Executado já que, nada obstante a prescrição, quem deu causa à ação foi justamente o Executado e ele é que teria que responder pela sucumbência.
+Nada obstante a fixação indevida de honorários de sucumbência, em razão da impossibilidade de reformatio in pejus, não se poderia revogar a fixação mas, igualmente, não é caso de majoração, devendo permanecer no patamar em que fixado.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem deixou de aplicar a referida regra por entender que a parte sucumbente seria o próprio executado, ora recorrente, o que ocasionaria situação mais gravosa, sendo vedado pelo princípio que impossibilita areformatio in pejus.
+Entretanto, tais argumentos não impugnados se mostram autônomos esuficientes por si só para manter o acórdão estadual. Desse modo, orecurso especial encontra óbice na Súmula 283/STF. Nesse sentido,confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA COM PEDIDO DETUTELA ANTECIPADA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DESAÚDE COLETIVO. RESCISÃO UNILATERAL. AUSÊNCIA DE IMPUGNAÇÃO DOS ARTS. 421E 422 DO CÓDIGO CIVIL E 4º, I, E 47 DO CÓDIGO DE DEFESA DOCONSUMIDOR. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, defundamento autônomo e suficiente à manutenção do aresto recorrido atrai,por analogia, o óbice da Súmula 283 do STF, que assim dispõe: "Éinadmissível o recurso extraordinário, quando a decisão recorrida assentaem mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Agravo interno desprovido."
+(AgInt no REsp 1691024/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 04/05/2020, DJe 18/05/2020)
+Outrossim, a decisão recorrida está de acordo com a jurisprudência desta Corte, que se firmou no sentido de quea extinção do processo executivo, ante o reconhecimento da prescrição intercorrente, não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM DESFAVOR DA PARTE EXEQUENTE. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. SÚMULA N. 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. O recorrente não indicou a alínea do dispositivo constitucional na qual se fundamenta o recurso especial, circunstância que impede o seu conhecimento, segundo o disposto na Súmula 284/STF. Precedentes.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, a extinção do processo executivo, ante o reconhecimento da prescrição intercorrente, não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Súmula n. 83/STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.155.775/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+Incidência, portanto, da Súmula 83/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
