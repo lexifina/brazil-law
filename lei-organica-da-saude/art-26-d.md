@@ -1,0 +1,1 @@
+Art. 26-D. Compete aos conselhos federais de fiscalização do exercício profissional a normatização ética relativa à prestação dos serviços previstos neste Título, aplicando-se os padrões normativos adotados para as modalidades de atendimento presencial, no que não colidirem com os preceitos desta Lei.
