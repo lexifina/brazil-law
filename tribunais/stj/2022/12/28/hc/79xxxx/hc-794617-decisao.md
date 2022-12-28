@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de habeas corpuscom pedido de liminarimpetrado em favor de HILTON HRIL MARTINS MAIA,em que se aponta como ato coator a decisão monocrática de Desembargador Plantonistado TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que conferiu efeito suspensivo a agravo de instrumento interposto contra a decisão que revogou medidas protetivas em favor de vítima menor de idade (Agravo Instrumento n.º 0830388-87.2022.8.15.0000).
+Pretende-se, em suma, a revogação da decisão queconferiu efeito suspensivoa agravo de instrumento para mante medidas protetivas em favor de criança, porquanto"o interesse e a proteção do menor devem ser bem analisados sob o ponto da existência de laudo e relatório, inclusive do Instituto de Perícia Científica - IPC e do Núcleo de Assistência Psicossocial deste Tribunal de Justiça em que atestam as agressões físicas e psicológicas realizadas pelo seu genitor", que ora se apresenta como paciente.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria de fundo acerca das medidas protetivas não foi examinada pelo tribunal de origem, que ainda não julgou o agravo de instrumento.
+In casu, a despeito de haver dificuldade de aceitar o manejo do remédio heroico para a proteção de pessoa adulta em detrimento da proteção de menor impúbere, tenho por suficiente concluir pela inexistênciade manifesta ilegalidade a autorizar que se admita a supressão de instância, porquanto, ao menos em uma análise perfunctória, a decisão atacada não se revela teratológica.
+A propósito, não se pode olvidar que a orientaçãodo Supremo Tribunal Federal ea jurisprudência desta Corte Superior tem acolhido o entendimento segundo o qual o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício; e não se identifica com o caso presente.
+Por esse motivo, o presente mandamus não se mostra cabível, ou porque não se vincula a decisão definitiva da Corte estadual de origem, ou porque não se vislumbra a necessidade de proteção à liberdade individual do paciente no presente caso.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
