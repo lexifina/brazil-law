@@ -1,0 +1,3 @@
+Art. 26-G. A prática da telessaúde deve seguir as seguintes determinações:
+I - ser realizada por consentimento livre e esclarecido do paciente, ou de seu representante legal, e sob responsabilidade do profissional de saúde;
+II - prestar obediência aos ditames das Leis nºs 12.965, de 23 de abril de 2014 (Marco Civil da Internet), 12.842, de 10 de julho de 2013 (Lei do Ato Médico), 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados), 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) e, nas hipóteses cabíveis, aos ditames da Lei nº 13.787, de 27 de dezembro de 2018 (Lei do Prontuário Eletrônico).

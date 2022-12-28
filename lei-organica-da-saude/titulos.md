@@ -30,6 +30,7 @@ CAPÍTULO I
 Do Funcionamento
 CAPÍTULO II
 Da Participação Complementar
+TÍTULO III-A
 DA TELESSAÚDE
 TÍTULO IV
 DOS RECURSOS HUMANOS
