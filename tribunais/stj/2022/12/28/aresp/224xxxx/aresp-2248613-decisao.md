@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto porRUBENS FERREIRA DA ROCHA contra decisão de inadmissibilidade dorecurso especial apresentadoem desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Minas Geraisassim ementado:
+"APELAÇÃO CÍVEL -REVISIONAL DE CONTRATO BANCÁRIO -CDC -APLICABILIDADE -CARTÃO DE CRÉDITO CONSIGNADO -JUROS CONTRATADOS DIVERSOS DOS PREVISTOS PARA O EMPRÉSTIMO CONSIGNADO -ABUSIVIDADE -INOCORRÊNCIA -SITUAÇÕES DISTINTAS -LIMITAÇÃO -IMPOSSIBILIDADE -DANOS MORAIS -INOCORRÊNCIA -IMPROCEDÊNCIA DO PEDIDO. Nos termos da súmula n. 297 do STJ, aplicam-se aos contratos bancários o CDC. É possível a revisão contratual para exclusão das cláusulas abusivas. A abusividade dos juros contratados pode ser declarada acaso se prove que superam uma vez e meia a taxa média de mercado. Ausente prova da abusividade dos juros contratados, que são até mesmo inferiores aos da taxa média informados pelo Bacen, impõe-se a improcedência do pedido revisional. Contratos distintos permitem a estipulação de juros diversos. Inexistindo prova de ato ilícito, de dano ou de nexo de causalidade, não há que se falar em condenação da instituição financeira na reparação civil por danos morais. Recurso não provido."
+Osembargos de declaração opostos foram rejeitados.
+Em suas razões derecurso especial, a parteagravante alegouviolação dos arts. 4º, III, 6º, III e V, 14, 47, 51, IV e § 1º,III, e 52,IV e V, do CDC;489,§1º, IV, e 1.022, II, do CPC/2015;113, 187, 421, 422, 423 e 2.035, parágrafo único, do CC;5º da LINDB; e 4º da Lei 4.595/1964, defendendo, além de negativa de prestação jurisdicional, a aplicação de taxas de jurosmais favoráveis ao consumidor, ante a natureza híbridada contratação das operações de empréstimo e cartão de crédito consignado.
+Asseverou a equiparação, pelo BACEN, docartão de credito consignado às demais operações de crédito pessoal consignado, motivo pelo qual háenquadramento do contrato comoempréstimo consignado em folha de pagamento, devendo seraplicados osjuros a ele atrelados.
+Por fim, aduziu fazer jus à indenização a título de dano moral, ante a má-fé negocialda instituição financeira, notadamente pela ausência de transparência.
+Contrarrazões não apresentadas (e-STJ, fl. 330).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI,
+QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Além disso, o Tribunal de origem concluiu, diante do contrato firmado pelas partes e do contexto fático-probatório, que não houve ilicitudena contratação de cartão de créditoe das taxas de juros incidentes pelo inadimplemento, motivo pelo qual inviável a aplicaçãodejuros de modalidade contratual distinta e a configuração dedanos morais(e-STJ, fls. 285-291):
+"A controvérsia recursal diz respeito à possibilidade de revisão do contrato de cartão de crédito consignado para aplicação da taxa média de mercado dos juros aplicadas aos contratos de empréstimo consignado informadas pelo Banco Central.
+(..)
+Juros
+O Apelante aponta que os juros cobrados são abusivos tendo em vista tratar-se de cartão de crédito consignado, com garantia de pagamento, devendo portanto ser aplicada a taxa média dos contratos de empréstimo consignado, conforme valores informados pelo Bacen.
+Sem razão o Apelante.
+Isso porque, ao contrário do sustentado pelo recorrente, não há similaridade entre as situações e, portanto, não há como se entender devam se aplicados ao cartão de crédito consignado os mesmos juros previstos para os empréstimos consignados.
+O cartão de crédito consignado previu apenas o desconto consignado de um valor mínimo, devendo o Apelante cuidar de pagar a fatura mensal do saldo remanescente, ou seja, do valor que ultrapassasse o pagamento mínimo previsto para desconto em folha, ciente de que, se não pagasse a totalidade da fatura, estaria sujeito à aplicação dos encargos moratórios contratados.
+(..)
+Note-se que e ambas as faturas há informação clara a respeito dos juros que seriam aplicados ao saldo remanescente na hipótese de pagamento inferior. Confronte-se:
+(..)
+Como se vê, além do saque autorizado o Apelante utilizou efetivamente o cartão de crédito contratado, não havendo que se falar em aplicação dos juros do empréstimo consignado ao contrato de cartão de crédito regularmente contratado.
+Ora, é de conhecimento público que o não pagamento dos valores devidos da fatura do cartão de crédito na data correta enseja a aplicação de encargos moratórios.
+E, como se vê, é certo que o Apelante estava ciente da incidência dos encargos contratuais decorrentes do inadimplemento, ainda que parcial, das faturas mensais.
+Assinale-se que tal situação é totalmente diversa daquela do empréstimo consignado, onde há liberação de valores com previsão de descontos mensais em valor certo por período determinado diretamente na folha de pagamento do contratante.
+Na modalidade de cartão de crédito, ainda que exista parte consignada (valor mínimo), a instituição financeira não tem certeza da utilização de valor superior ou, ainda, do pagamento integral na data do vencimento.
+Logo, não há que se falar em revisão do contrato de cartão de crédito consignado para que os juros incidentes sobre o débito em aberto sejam equiparados aos juros previstos para o empréstimo consignado conforme pretendido pelo recorrente, ainda que se argumente com a aplicação do art. 12 da Lei mineira n. 19.490, de 2011, cujo teor é o seguinte:
+(..)
+Demais disso, não se evidencia abusividade nos juros cobrados. Isso porque os juros pactuados (4,99% a. m e 79,38% a. a.) não podem ser considerados abusivos, se comparados aos juros praticados pelo mercado à época para operações do mesmo tipo (taxa média de juros das operações de crédito com recursos livres -Pessoas físicas -cartão de crédito parcelado, que eram de 6,34% a. m. e de 109,03% a. a. (..)
+Como se vê, os juros contratados incidentes sobre o cartão de crédito consignado são inferiores aos praticados pelo mercado, não se justificando, assim, a revisão pretendida.
+Logo, não há que se falar em reforma da sentença para declaração de abusividade da cláusula contratual que previu a incidência dos juros ou, ainda, para sua limitação à taxa média do mercado, conforme pretendido pelo recorrente.
+Por fim, assinale-se que, inexistindo abusividade a ser declarada, não há que se falar em condenação da instituição financeira à reparação civil por danos morais tendo em vista a ausência de ato ilícito."
+Nesse contexto, a revisão do acórdão recorrido acerca da contratação e da configuração de danos moraisnão prescindiriado reexame das provas edas cláusulas contratuais, providência manifestamente proibida nesta instância, nos termos das Súmulas 5 e 7 do STJ.
+Nesse mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CARTÃO DE CRÉDITO. ABUSIVIDADE. AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como de cartão de crédito, pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1518620/MG, Rel. MinistroANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/02/2020, DJe 20/02/2020)
+"AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESTABELECIMENTO DE PENSÃO. PREVIDÊNCIA PRIVADA.INSTRUMENTO DE TRANSAÇÃO. BENEFÍCIO DE RENDA VITALÍCIA TRANSFORMADO EM RENDA POR PRAZO DETERMINADO. APLICAÇÃO DO CDC. OMISSÃO DE INFORMAÇÃO. VICIO DE VONTADE. ANULAÇÃO. REEXAME. IMPOSSIBILIDADE.SÚMULA 7/STJ. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. "O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas" (Súmula 563/STJ).
+2. Como bem destacou o julgado, é "possível concluir que se todas as informações tivessem sido prestadas com a clareza que a resposta a notificação extrajudicial foi, por certo que a apelada dificilmente teria anuído aos termos de transação."
+3. A alteração da conclusão do acórdão recorrido no sentido do descumprimento de dever de informação e desvantagem exagerada ao consumidor demandaria o reexame das provas dos autos e do contrato celebrado entre as partes. (Súmula 7 do STJ).
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+5. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo interno, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+6. Agravo interno não provido."
+(AgInt no AREsp 1369098/SC, Rel. MinistroLUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/11/2020, DJe 23/11/2020)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. EMPRÉSTIMO CONSIGNADO. CARTÃO DE CRÉDITO. CONDIÇÕES E ENCARGOS FINANCEIROS ESPECIFICADOS NO CONTRATO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1683963/MG, Rel. MinistraMARIA ISABEL GALLOTTI,QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+Diante do exposto,conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
