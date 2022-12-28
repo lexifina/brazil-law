@@ -1,0 +1,1 @@
+Art. 26-C. Ao profissional de saúde são asseguradas a liberdade e a completa independência de decidir sobre a utilização ou não da telessaúde, inclusive com relação à primeira consulta, atendimento ou procedimento, e poderá indicar a utilização de atendimento presencial ou optar por ele, sempre que entender necessário.
