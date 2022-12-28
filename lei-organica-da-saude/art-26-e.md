@@ -1,0 +1,1 @@
+Art. 26-E. Na prestação de serviços por telessaúde, serão observadas as normas expedidas pelo órgão de direção do Sistema Único de Saúde (SUS) quanto às condições para seu funcionamento, observada a competência dos demais órgãos reguladores.
