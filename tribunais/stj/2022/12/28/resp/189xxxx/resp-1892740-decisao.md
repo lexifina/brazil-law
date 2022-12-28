@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de recurso especial interposto por OSCAR ALVEScom arrimo nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão exarado pelo eg. Tribunal de Justiça do Estado do Paraná(TJ-PR), assim ementado (fls. 1.283):
+"AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA - PRECLUSÃO - INOCORRÊNCIA - PEDIDO REALIZADO COM BASE EM FATO NOVO E FUNDAMENTO DIVERSO - REQUERIMENTO DE PENHORA SOBRE PROVENTOS DE APOSENTADORIA PARA PAGAMENTO DE DÍVIDA DE NATUREZA NÃO ALIMENTAR - MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE -POSSIBILIDADE - PRECEDENTES DO STJ - PECULIARIDADES DO CASO CONCRETO QUE AUTORIZAM A FLEXIBILIZAÇÃO - AÇÃO QUE PERDURA HÁ MAIS DE 16 ANOS - DILAPIDAÇÃO REPENTINA DO PATRIMÔNIO - PROVENTO MENSAL DE VALOR CONSIDERÁVEL - CABIMENTO DE PENHORA SOBRE PERCENTUAL DOS VENCIMENTOS - MÍNIMO EXISTENCIAL PRESERVADO - PERCENTUAL CAPAZ DE DAR GUARIDA À DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA - DECISÃO REFORMADA PARA DETERMINAR A PENHORA DO PERCENTUAL DE 30% MENSAL SOBRE O PROVENTO LÍQUIDO DO AGRAVADO, ATÉ O PAGAMENTO DA DÍVIDA. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO."
+Os embargos de declaração (fls. 1.300-1.315)opostos pelo ora Agravanteforam acolhidos, sem efeitos modificativos, conforme v. acórdão às fls.1.343-1.345; os segundos aclaratórios (fls. 1.354-1.355), opostos por APARECIDA PEREIRA PREVIATTI, foram acolhidos, nos termos do v. acórdão de fls. 1.393-1.394.
+Nas razões recursais (fls. 1.403-1.478), OSCAR ALVES alega, preliminarmente, ofensa aos arts.11, 371, 489, § 1º,II, do CPC/15 (art. 458, II, do CPC/73), afirmando que o v. acórdão estadual carece de fundamentação.
+Ultrapassada a preliminar, aponta ofensa aos arts. 505, §2º, e 833, IV e §2º, do CPC/15 afirmandoque "(..) o primeiro trata da preclusão e o segundo estabelece que são impenhoráveis os proventos de aposentadoria, excepcionadas as hipóteses de penhora para pagamento de prestação alimentícia e de importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, que nem de longe, restaram caracterizadas nos autos, porquanto, sabidamente, os elementos trazidos ao processo pela parte agravante não permitem reconhecer situação de excepcionalidade no presente caso" (fls. 1.440- destaques no original).
+Aduz, também, que "(..) no contrato firmado, o pagamento do Compromisso Extrajudicial firmado é previsto via Boleto Bancário e não via Débito Automático, não havendo autorização para que a instituição aprovisione 100% do salário de um mês de um trabalhador que depende totalmente do seu salário para sobreviver e pagar contas de aluguel, alimentação, água, transporte, etc." (fls. 280 - destaques no original).
+Intimada, APARECIDA PEREIRA PREVIATTIapresentou contrarrazões (fls. 1.505-1.510), pelo desprovimento do recurso.
+Admitido o recurso (decisão às fls. 1.513-1.516), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+Inicialmente,deve ser rejeitada a alegada ofensa aos arts. 11, 371, 489, § 1º, II, do CPC/15 (art. 458, II, do CPC/73), tendo em vista que o v. acórdão estadual, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 489 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+(..)
+3. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1753984/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. EXCESSO DE EXECUÇÃO NÃO RECONHECIDO NO ACÓRDÃO RECORRIDO. ALEGAÇÃO INTEMPESTIVA. PRECLUSÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 489 DO CPC/2015. FUNDAMENTO SUFICIENTE PARA MANTER INCÓLUME O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente fundamentada, deve ser afastada a alegada violação ao art. 489 do Código de Processo Civil/2015.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1746875/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021 - g. n.)
+Avançando, o apelo não merece conhecimento na discussão referente à ocorrência de preclusão.
+Sobre o tema, tem-se que o eg. TJ-PR, com arrimo no acervo fático-probatóriocarreado aos autos, rejeitou tal alegação, nos termos do v. acórdão do qual se decalca o seguinte excerto(fls. 1.284-1.285):
+"Insurge-se a agravante em face da r. decisão monocrática que indeferiu a penhora sobre percentual dos proventos do agravado, sustentado, em suma, que a jurisprudência mitiga os efeitos da impenhorabilidade em nome dos princípios da efetividade e da razoabilidade, quando não afetar a dignidade do devedor.
+O agravado alega, preliminarmente, que a matéria está abarcada pela preclusão, porquanto a penhora já foi indeferida em decisão anterior e nenhum recurso foi interposto pela agravante.
+Pois bem. A preclusão opera-se pela perda, extinção ou consumação de uma faculdade processual que torna defeso à parte reabrir, no mesmo processo, discussão sobre a questão preclusa.
+No caso verifico que 12.07.2018 houve bloqueio de valores existentes na conta do agravado sub judice,(mov. 88.1). Ato contínuo, o agravado alegou a impenhorabilidade do numerário por se tratar de provento de aposentadoria.
+O juízo de 1º grau, em 21.08.2018 (mov. 106.1), entendeu pela impenhorabilidade do salário, e, considerando não se tratar de dívida de natureza alimentar, indeferiu o pedido de penhora sobre um percentual das verbas decorrentes de salário/lucros percebidas pelo agravado.
+Após obter informações sobre o imposto de renda do agravado, a agravante, em 20.11.2018, pleiteou pela penhora dos proventos daquele, sob a justificativa de que o agravado recebe a importância aproximada de30 salários mínimos e que a regra da impenhorabilidade deve ser mitigada em casos como o presente. Trouxe, para tanto, jurisprudência recente do STJ para corroborar suas alegações.
+Além disso, traz considerações sobre a dilapidação do patrimônio do agravado, que no ano de 2014/2015contava com declaração de bens e direitos que totalizava R$ 643.581,66, já em 2017/2018 apresentava apenas R$ 27.538,73.
+O que se vê é que tanto o pedido como o fundamento apresentado pela agravante são diversos dos anteriormente analisados pelo juízo de 1º grau, tanto é assim que houve novo despacho em 22.02.2019 (mov. 176.1) (ainda que com o mesmo fundamento de indeferimento).
+No caso, portanto, não há que se falar em preclusão, já que a agravante traz fundamentos baseados em fatos novos(). 1 "
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Nessa linha de intelecção, confiram-se:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC. ERRO MATERIAL NO VALOR DA CAUSA. PRECLUSÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. INTEMPESTIVIDADE DOSEMBARGOS À EXECUÇÃO. EXAME DE OFÍCIO. IMPOSSIBILIDADE. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. É inviável rever a conclusão do Tribunal de origem quanto à preclusão, porquanto demandaria reexame de provas, o que é vedado nesta instância especial, nos termos da Súmula 7 do STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.984.277/SC, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022 - g. n..)
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. PRECLUSÃO. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O Tribunal de origem, ao dirimir a controvérsia, mediante o exame dos elementos informativos da demanda, entendeu que não teria havido preclusão da matéria. Tal conclusão não se desfaz sem o reexame das provas produzidas nos autos, o que é vedado em recurso especial (Súmula n. 7 do STJ).
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 1.260.732/RS, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021 - g. n.)
+Melhor sorte não socorre ao apelo quanto à penhora sobre os proventos do ora Agravante.
+No caso, oeg. TJ-PRparcial provimento ao agravo de instrumento de APARECIDA PEREIRA PREVIATTI, ora agravada, para autorizar a penhora de 30% dos proventos do ora Agravante, conforme v. acórdão do qual se transcreveo seguinte excerto (fls.1.285-1.289):
+"(..)
+Já no tocante à impenhorabilidade dos proventos, a decisão agravada indeferiu o pleito de penhora do percentual de 10 salários mínimos agravado Odair por entender que tal verba é impenhorável e que eventual mitigação apenas se mostra possível nas hipóteses taxativas do art. 833, §2º() do CPC. 2
+Não obstante a fundamentação do juízo de 1º grau, tenho que o caso dos autos permite a mitigação da regra da impenhorabilidade dos proventos, como passo a expor.
+Conforme bem expôs a agravante, o crédito objeto deste cumprimento de sentença tem origem na ação ordinária decorrente de erro médico, ajuizada em 12.08.1999, cuja sentença foi proferida em 0409.2013, e acórdão confirmatório publicado em 26.11.2015.
+Após aproximadamente 16 anos iniciou-se o cumprimento provisório da sentença, 04.12.2017, e, em 07.02.2018 o cumprimento definitivo.
+Intimado, o agravado deixou de apresentar bens para satisfazer a obrigação, que, atualmente, alcança aquantia de aproximadamente R$ 298.598,82 (duzentos e noventa e oito mil, quinhentos e noventa e oito Reais e oitenta e dois centavos).
+O histórico das declarações de imposto de renda do agravado demonstra, assim como alegado pela agravante, que o agravado realmente sofreu uma grande dilapidação patrimonial, já que, apenas considerando a transição do ano de 2017 para 2018 (quando a execução se tornou definitiva), seus bens e direitos declarados decaiu de R$ 458.530,77 para R$ 27.538,73 (mov. 158.1).
+Os proventos de aposentadoria declarados pelo agravado, no ano de 2017, foram de R$ 289.686,54, o que totaliza um valor mensal aproximado de R$ 24.140,00 (vinte e quatro mil, cento e quatro Reais).
+A agravante diante das frustradas tentativas de obtenção do crédito pugnou pela penhora da importância de 10 salários mínimos mensais dos proventos recebidos pelo agravado, defendendo que os 20 salários mínimos restantes são suficientes para o agravado manter-se bem.
+A presente demanda (ação e cumprimento de sentença) tramita há mais de 16 anos sem qualquer pagamento por parte do agravado que, conforme mencionou em contrarrazões, cumpre o pagamento de outras despesas, sem, contudo, comprovar qualquer gasto.
+O fato de o agravado ter renda de valor considerável, aliado ao fato da dilapidação repentina do seu patrimônio, bem como a inexistência de bens em nome do devedor e a inércia deste em tentar sequer amortizar a dívida, dá ensejo à aplicação de medidas que visem a efetividade do cumprimento de sentença, sob pena de se tramitar eternamente o presente feito executivo.
+Em que pese a regra geral de impenhorabilidade das verbas salariais e a possibilidade de mitigação da regra quando os créditos ostentem natureza alimentar, a atual jurisprudência vem flexibilizando outras situações que, no caso concreto, em busca da efetividade da execução, torna possível a penhora de parte da verba salarial.
+(..)
+Além disso, o STJ, igualmente, excepciona a regra da impenhorabilidade nos casos em que restar caracterizado eventual abuso, má-fé ou fraude processual, in verbis:
+(..)
+Dessa forma, entendo que a situação do presente caso concreto é passível de flexibilização da regra da impenhorabilidade do salário, pois, repisa-se: o processo perdura há mais de 16 anos; o patrimônio a)b)do agravado praticamente esvaziou-se no último ano; infrutíferas as tentativas de localização de bens c)do agravado; o agravado, intimado, não se manifestou sobre o cumprimento da obrigação; a renda d)e)mensal do provento de aposentadoria recebido pelo agravado é bastante considerável; e a agravante f)(credora) tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+Por essas razões, autoriza-se a penhora sobre os ganhos líquidos do agravado na proporção de 30%,mensal, até que seja adimplido o débito do presente cumprimento de sentença.
+Por tais fundamentos, voto no sentido de que esta Corte dê parcial provimento ao agravo de para o fim de determinar a penhora do percentual de 30% mensal sobre o provento de instrumento, aposentadoria líquido recebido pelo agravado, até o adimplemento integral da dívida."
+(g. n.)
+Da leitura do excerto ora transcrito não se vislumbra ofensa aoart. 833 do CPC/15 nem divergência pretoriana, uma vez que o eg. TJ-PR não confrontou a jurisprudência desta eg. Corte quanto à possibilidade de mitigação da regra da impenhorabilidade do art. 833 do CPC/15. Com efeito, a jurisprudência desta eg. Corte admite a referida mitigação, como se infere da leitura dos seguintes julgados:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação de despejo por falta de pagamento cumulada com cobrança, ajuizada em desfavor de fiadores de contrato de locação.
+2. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+3. Na espécie, imperioso mostra-se o retorno dos autos à origem para que a questão seja decidida à luz da jurisprudência constante deste voto, devendo ser analisada a possibilidade de, no caso concreto, ser fixado percentual de desconto sobre o salário dos recorridos.
+4. Agravo interno não provido."
+(AgInt nos EREsp 1701828/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/06/2020, DJe 18/06/2020, g.n)
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido."
+(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018, g.n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+(..)
+3. Segundo a orientação firmada por esta Colenda Corte, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno desprovido."
+(AgInt no REsp 1923333/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. IMPENHORABILIDADE DE 40 SALÁRIOS MÍNIMOS. ABRANGÊNCIA DE OUTRAS APLICAÇÕES FINANCEIRAS. CONSONÂNCIA DO ACÓRDÃO ESTADUAL COM A ORIENTAÇÃO DESTE SODALÍCIO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E DESPROVER O RECURSO ESPECIAL.
+(..)
+3. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83, aplicável tanto ao recurso especial pela alínea a como pela alínea c do permissivo constitucional.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 1717962/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/02/2021, DJe 23/02/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 255, § 4º, I e II, do RI-STJ, conheçoem parte do recurso especial e, nessa parte, nego-lheprovimento.
+Publique-se.
