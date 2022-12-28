@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto porMAURICIO ANTONIO LOPES em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL - USUCAPIÃO EXTRAORDINÁRIA - BEM OBJETO DE ACERVO HEREDITÁRIO - POSSIBILIDADE DE USUCAPIÃO POR HERDEIRO, SE HOUVER POSSE EXCLUSIVA - ART. 1.238 C/C ART.
+1.243 DO CÓDIGO CIVIL - REQUISITOS NÃO ATENDIDOS. O fato de o imóvel usucapiendo integrar acervo hereditário não representa óbice ao exercício da pretensão aquisitiva, por prescrição, eventualmente manifestada por herdeiro que demonstre o exercício de posse exclusiva sobre o bem. Nos termos do caput, do artigo 1.238 do Código Civil/2002, para a aquisição da propriedade via usucapião extraordinária, é necessário o preenchimento dos requisitos gerais de posse ininterrupta, mansa, pacífica e com animus domini, pelo lapso temporal de 15 anos.Não comprovados os requisitos exigidos pela lei, a pretensão usucapienda deve ser rechaçada." (fl. 387).
+Os embargos de declaração foram rejeitados (fls. 429-435).
+Nas razões do recurso especial, a parte ora agravante aponta violação doart. 1.242do CódigoCivil de 2002, sustentando, em síntese, a comprovação de todos os requisitos para usucapir o imóvel indigitado nos autos, notadamente a ocupação do bem em questão desde 1989.
+Não foram apresentadas contrarrazões ao apelo nobre (certidão de fl. 461).
+É o relatório.
+O eg. Tribunal de origem consigna que "Não obstante, os documentos juntados aos autos, bem como a prova testemunhal produzida, não corrobora a versão dos fatos apresentada pelo Autor/Apelante. Pelo contrário, confirma a versão trazida em contestação, de que o Réu Hilton Antônio Pinto é quem possui a posse do imóvel. (..)Nesse contexto, tenho que não restaram atendidos os pressupostos exigidos para aquisição da propriedade do bem imóvel em questão." (fls. 399-400).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a necessidade de ser rechaçada a pretensão usucapienda, tendo em vista que não foram comprovados osrequisitos exigidos pela lei, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 12% para 13% sobre o valor da causa (fl. 401), ressalvada a concessão de justiça gratuita.
+Publique-se.
