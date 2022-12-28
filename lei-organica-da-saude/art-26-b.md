@@ -1,0 +1,2 @@
+Art. 26-B. Para fins desta Lei, considera-se telessaúde a modalidade de prestação de serviços de saúde a distância, por meio da utilização das tecnologias da informação e da comunicação, que envolve, entre outros, a transmissão segura de dados e informações de saúde, por meio de textos, de sons, de imagens ou outras formas adequadas.
+Parágrafo único. Os atos do profissional de saúde, quando praticados na modalidade telessaúde, terão validade em todo o território nacional.
