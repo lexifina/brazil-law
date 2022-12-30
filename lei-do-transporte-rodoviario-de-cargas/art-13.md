@@ -1,4 +1,9 @@
-Art. 13. Sem prejuízo do seguro de responsabilidade civil contra danos a terceiros previsto em lei, toda operação de transporte contará com o seguro contra perdas ou danos causados à carga, de acordo com o que seja estabelecido no contrato ou conhecimento de transporte, podendo o seguro ser contratado:
-I - pelo contratante dos serviços, eximindo o transportador da responsabilidade de fazê-lo;
-II - pelo transportador, quando não for firmado pelo contratante.
-Parágrafo único. As condições do seguro de transporte rodoviário de cargas obedecerão à legislação em vigor.
+Art. 13. São de contratação exclusiva dos transportadores, pessoas físicas ou jurídicas, prestadores do serviço de transporte rodoviário de cargas:
+I - seguro obrigatório de responsabilidade civil do transportador rodoviário de cargas, para cobertura de perdas ou danos causados à carga transportada em decorrência de acidentes rodoviários;
+II - seguro facultativo de responsabilidade civil do transportador rodoviário de cargas, para cobertura de roubo da carga, quando estabelecido no contrato ou conhecimento de transporte; e
+III - seguro facultativo de responsabilidade civil por veículos e danos materiais e danos corporais, para cobertura de danos causados a terceiros pelo veículo automotor utilizado no transporte rodoviário de cargas.
+§ 1º Cabe exclusivamente ao transportador a escolha da seguradora, vedada a estipulação das condições e características da apólice por parte do contratante do serviço de transporte.
+§ 2º O seguro de que trata o inciso I do caput poderá ser contratado pelo contratante do serviço quando for realizada a contratação direta do TAC, hipótese em que o contratante do serviço ficará responsável por eventuais perdas, sem qualquer ônus ao transportador autônomo.
+§ 3º Ao adquirir coberturas de seguro adicionais contra riscos já cobertos pelas apólices do transportador, o contratante do serviço de transporte não poderá vincular o transportador ao cumprimento de obrigações operacionais associadas à prestação de serviços de transporte, inclusive as previstas nos Planos de Gerenciamento de Riscos - PGR.
+§ 4º O seguro de que trata o inciso II do caput não exclui e nem impossibilita a contratação de outros seguros facultativos para cobertura de furto simples e qualificado, apropriação indébita, estelionato, extorsão simples ou mediante sequestro, ou quaisquer outros sinistros, perdas ou danos causados à carga transportada.
+§ 5º O seguro de que trata o inciso III do caput poderá ser feito em apólice globalizada, que envolva toda a frota, sem a necessidade de listagem individual dos veículos.
