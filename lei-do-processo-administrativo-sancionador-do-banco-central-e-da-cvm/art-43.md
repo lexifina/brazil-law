@@ -1,1 +1,0 @@
-Art. 43. A compensação privada de créditos ou de valores de qualquer natureza de que trata o art. 10 do Decreto-Lei nº 9.025, de 27 de fevereiro de 1946, quando não realizada nas situações expressamente previstas em regulamento do Banco Central do Brasil, sujeita os responsáveis aos dispositivos desta Lei aplicáveis nos termos do art. 38.

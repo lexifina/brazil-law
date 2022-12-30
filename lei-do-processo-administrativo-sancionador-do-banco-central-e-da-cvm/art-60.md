@@ -1,1 +1,0 @@
-Art. 60. O não fornecimento de informações regulamentares exigidas pelo Banco Central do Brasil relativas a capitais brasileiros no exterior e a prestação de informações falsas, incompletas, incorretas ou fora dos prazos e das condições previstas na regulamentação em vigor constituem infrações sujeitas à aplicação desta Lei na forma do art. 38.
