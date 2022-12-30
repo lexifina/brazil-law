@@ -1,0 +1,1 @@
+Parágrafo único - Considera-se arrendamento mercantil, para os efeitos desta Lei, o negócio jurídico realizado entre pessoa jurídica, na qualidade de arrendadora, e pessoa física ou jurídica, na qualidade de arrendatária, e que tenha por objeto o arrendamento de bens adquiridos pela arrendadora, segundo especificações da arrendatária e para uso próprio desta.
