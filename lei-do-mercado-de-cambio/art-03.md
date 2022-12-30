@@ -1,0 +1,1 @@
+Art. 3º As operações no mercado de câmbio podem ser realizadas somente por meio de instituições autorizadas a operar nesse mercado pelo Banco Central do Brasil, na forma do regulamento a ser editado por essa autarquia.

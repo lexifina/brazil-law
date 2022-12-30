@@ -1,0 +1,1 @@
+Art. 17. O Banco Central do Brasil poderá firmar convênios para compartilhamento de informações com órgãos e entidades da administração pública federal, consoante suas áreas de competência, observada a legislação sobre o sigilo bancário e sobre o sigilo fiscal.

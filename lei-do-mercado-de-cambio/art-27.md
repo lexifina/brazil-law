@@ -1,0 +1,2 @@
+Art. 27. A instituição autorizada a operar no mercado de câmbio não poderá exigir do cliente documentos, dados ou certidões que estiverem disponíveis em suas bases de dados ou em bases de dados públicas e privadas de acesso amplo.
+Parágrafo único. Independentemente do disposto no caput deste artigo, é facultado ao cliente optar pela apresentação dos documentos, dados ou certidões de que trata o caput deste artigo.

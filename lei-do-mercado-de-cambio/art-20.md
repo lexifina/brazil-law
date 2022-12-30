@@ -1,0 +1,2 @@
+Art. 20. Aplica-se o disposto no Capítulo II e no art. 36 da Lei nº 13.506, de 13 de novembro de 2017, às infrações a esta Lei e aos regulamentos a serem editados pelo Conselho Monetário Nacional e pelo Banco Central do Brasil.
+Parágrafo único. Para fins do disposto no caput deste artigo, às infrações às normas legais e regulamentares de que tratam os arts. 10, 11 e 12 desta Lei não se aplicam os arts. 2º, 3º e 4º e os incisos I, III, V e VI do caput do art. 5º da Lei nº 13.506, de 13 de novembro de 2017.
