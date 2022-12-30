@@ -1,0 +1,3 @@
+Art. 12. Fica autorizada a realização de compensação privada de créditos ou de valores entre residentes e não residentes, nas hipóteses previstas em regulamento do Banco Central do Brasil.
+§ 1º No regulamento de que trata o caput deste artigo, o Banco Central do Brasil poderá exigir que residentes prestem informações sobre a realização de compensação privada, observados os prazos, as formas e as demais condições nele previstas.
+§ 2º As infrações ao disposto neste artigo e no regulamento a ser editado pelo Banco Central do Brasil sujeitam os responsáveis às penalidades aplicáveis pelo Banco Central do Brasil, na forma do parágrafo único do art. 20 desta Lei.

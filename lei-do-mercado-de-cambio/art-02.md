@@ -1,0 +1,2 @@
+Art. 2º As operações no mercado de câmbio podem ser realizadas livremente, sem limitação de valor, observados a legislação, as diretrizes estabelecidas pelo Conselho Monetário Nacional e o regulamento a ser editado pelo Banco Central do Brasil.
+Parágrafo único. A taxa de câmbio é livremente pactuada entre as instituições autorizadas a operar no mercado de câmbio e entre as referidas instituições e seus clientes.

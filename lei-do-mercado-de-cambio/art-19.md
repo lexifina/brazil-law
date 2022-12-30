@@ -1,0 +1,1 @@
+Art. 19. O disposto nesta Lei não se aplica a operações de compra ou venda de moeda estrangeira em espécie, no valor de até US$ 500,00 (quinhentos dólares dos Estados Unidos da América) ou seu equivalente em outras moedas, realizadas no País, de forma eventual e não profissional, entre pessoas físicas.
