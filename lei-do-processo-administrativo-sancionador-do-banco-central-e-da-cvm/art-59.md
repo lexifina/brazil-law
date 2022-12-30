@@ -1,3 +1,0 @@
-Art. 59. O caput do art. 1º da Medida Provisória nº 2.224, de 4 de setembro de 2001, passa a vigorar com a seguinte redação:
-"Art. 1º O não fornecimento de informações regulamentares exigidas pelo Banco Central do Brasil relativas a capitais brasileiros no exterior e a prestação de informações falsas, incompletas, incorretas ou fora dos prazos e das condições previstas na regulamentação em vigor constituem infrações sujeitas à aplicação da ação punitiva do Banco Central do Brasil, nos termos definidos pela legislação em vigor.
-............................................................................." (NR)

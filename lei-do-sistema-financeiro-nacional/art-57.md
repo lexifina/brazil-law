@@ -1,2 +1,0 @@
-Art. 57. Passam à competência do Conselho Monetário Nacional as atribuições de caráter normativo da legislação cambial vigente e as executivas ao Banco Central da República do Brasil e ao Banco do Brasil S. A., nos termos desta lei.
-Parágrafo único. Fica extinta a Fiscalização Bancária do Banco do Brasil S. A., passando suas atribuições e prerrogativas legais ao Banco Central da República do Brasil.
