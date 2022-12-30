@@ -1,0 +1,1371 @@
+ANEXO I
+
+ANEXO II
+
+ANEXO III
+
+ANEXO IV
+
+ANEXO V – EMENDA INDIVIDUAL IMPOSITIVA EMENDA CONSTITUCIONAL Nº 47/2020, art. 174-A, I
+
+Parlamentar: ANGELA MARIA LIRA DE JESUS GARROTE
+
+da Despesa¹ R$ Valor
+
+01 AG -
+
+003 MUNICIPIO DE ESTRELA DE ALAGOAS 24.176.307/0001-06 3340 300.000,00
+
+4440 700.000,00 TOTAL 1.000.000,00
+
+Parlamentar: DAVI DAVINO FILHO
+
+Nº da Emenda Município Beneficiário CNPJ do Município Natureza da Despesa¹ R$ Valor
+
+3 DD-001 PREFEITURA MUNCICIPAL DE TEOTÔNIO 12.842.829/0001-10 3340
+
+Parlamentar: CIBELE CORADO DE MOURA
+
+Nº da Emenda
+
+Município Beneficiário CNPJ do Município Natureza da Despesa¹ R$ Valor
+
+1 CM - 12 CAPELA 12.333.753/0001-06 3340
+
+4440 150.000,00
+
+1 CM - 13 CHÃ PRETA 12.334.629/0001-57 3340
+
+4440 200.000,00
+
+1 CM - 14 PARIPUEIRA 35.561.471/0001-53 3340
+
+4440 1.211.361,19
+
+TOTAL 1.561.361,19
+
+Parlamentar: BRUNO ALBUQUERQUE TOLEDO
+
+01 BT 06 PREFEITURA MUNICIPAL DE CAJUEIRO 12.333.738/0001-50 3340
+
+4440 2.286.361,19
+
+VILELA 4440 300.000,00
+
+3 DD-002 PREFEITURA MUNCICIPAL CAMPO ALEGRE 12.264.628/0001-83 3340
+
+TOTAL 600.000,00
+
+Parlamentar: FÁTIMA CANUTO
+
+1 FCR-001 PREFEITURA MUNICIPAL DE DELMIRO
+
+GOUVEIA 12.224.895/0001-27 3340 108.000,00
+
+4440 252.000,00
+
+1 FCR-002 PREFEITURA MUNICIPAL DE MAR VERMELHO 12.333.761/0001-44 3340 120.000,00
+
+4440 280.000,00
+
+2 FCR-003 PREFEITURA MUNICIPAL DE PILAR 12.200.150/0001-28 3340 454.908,35
+
+4440 1.061.452,84
+
+TOTAL 2.276.361,19
+
+Parlamentar: FLAVIA CAVALCANTE
+
+2 FC - 003 MATRIZ DO CAMARAGIBE
+
+12.342.663/0001-73 3340
+
+4440 1.000.000,00
+
+2 FC - 004 SÃO LUÍS DO QUITUNDE 12.342.671/0001-10 3340
+
+4440 1.000.000,00
+
+TOTAL 2.000.000,00
+
+Parlamentar: INÁCIO LOIOLA
+
+IL-010 SENADOR RUI PALMEIRA 12.421.137/0001-07 3340 4440 410.000,00
+
+IL-011 MONTEIROPÓLIS 12.251.450/0001-36 3340 4440 325.000,00
+
+IL-012 PARICONHA 35.634.435/0001-72 3340 4440 325.000,00
+
+IL-013 PIRANHAS 12.225.546/0001-20 3340 4440 500.000,00
+
+IL-014 OURO BRANCO 12.258.141/0001-98 3340 4440 416.361,18
+
+IL-015 CANAPI 12.367.892/0001-42 3340 4440 225.000,00 TOTAL 2.201.361,18
+
+Parlamentar: JÓ PEREIRA
+
+2 JP 01 PREFEITURA MUNICIPAL DE FLEXEIRAS 12.262.721/0001-59 3340 4440 200.000,00
+
+2 JP 03 PREFEITURA MUNICIPAL DE CRAÍBAS 08.439.549/0001-99 3340 4440 300.000,00 TOTAL 500.000,00
+
+Parlamentar: OLAVO CALHEIROS
+
+1 OC 01 PREFEITURA MUNICIPAL DE BRANQUINHA 12.332.995/0001-77 3340
+
+4440 190.000,00
+
+1 OC 03 PREFEITURA MUNICIPAL DE CARNEIROS 12.250.684/0001-69 3340
+
+4440 160.000,00
+
+1 OC 05 PREFEITURA MUNICIPAL DE DELMIRO GOUVEIA 12.224.895/0001-27 3340
+
+4440 310.000,00
+
+1 OC 07 PREFEITURA MUNICIPAL DE FEIRA GRANDE 12.207.528/00001-15 3340
+
+4440 260.000,00
+
+1 OC 09 PREFEITURA MUNICIPAL DE IBATEGUARA 12.332.961/0001-82 3340
+
+4440 160.000,00
+
+1 OC 11 PREFEITURA MUNICIPAL DE MURICI 12.332.953/0001-36 3340
+
+4440 406.361,19
+
+1 OC 13 PREFEITURA MUNICIPAL DE OLHO D'AGUA DO CASADO 12.350.146/0001-46 3340
+
+4440 180.000,00
+
+1 OC 15 PREFEITURA MUNICIPAL DE PORTO REAL DO COLEGIO 12.207.429/0001-33 3340
+
+1 OC 17 PREFEITURA MUNICIPAL DE SANTANA DO IPANEMA 12.250.916/0001-89 3340
+
+4440 320.000,00
+
+Parlamentar: RICARDO NEZINHO
+
+1 RN 01 PREFEITURA MUNICIPAL DE SÃO JOSÉ DA
+
+TAPERA 12.261.228/0001-14 3340
+
+TOTAL 300.000,00
+
+Parlamentar: YVAN BELTRÃO
+
+01 YB - 02 PREFEITURA MUNICIPAL DE CAJUEIRO 12.333.738/0001-50 3340
+
+4440 2.286.361,18
+
+TOTAL 2.286.361,18
+
+ESTABELECIDO NO ART. 43, DA LEI ESTADUAL Nº 8.719/2022 ( LDO )
+
+EMENDA CONSTITUCIONAL Nº 42/2019
+
+Parlamentar: ANGELA MARIA LIRA DE JESUS GARROTE
+
+Nº da emenda: AG - 001 Identificação do objeto (finalidade):
+
+CUSTEIO MÉDIA E ALTA COMPLEXIDADE
+
+03 INSTITUTO AMIGA DA GENTE
+
+32.287.116/000140 27524 10.302. 0205. 4347 SAUDE
+
+3350 210-TODO O ESTADO 400.000,00
+
+4450 210-TODO O ESTADO 1.800.000,00
+
+Nº da emenda: AG - 002 Identificação do objeto (finalidade):
+
+Implementar ações na área de Assistência Social, a fim de promover o bem estar e melhoria da qualidade de vida das famílias assistidas, que vivem em estado de vulnerabilidade social, procurando garantir a proteção social à família, à infância, à adolescência, e aos idosos, bem como o amparo, atendendo a todos que dela necessitam.
+
+02 INSTITUTO AMIGA DA GENTE
+
+32.287.116/000140 15024 08.244. 0011. 4383
+
+SOCIAL
+
+3350 210-TODO O ESTADO 22.722,00
+
+4450 210-TODO O ESTADO 200.000,00
+
+Nº da emenda: AG - 004 Identificação do objeto (finalidade): A presente emenda tem por objetivo custear o apoio técnico e financeiro para a ampliação da rede de serviços especializados de media e
+
+alta complexidade
+
+FUNDO MUNICIPAL DE SAUDE DE PILAR
+
+11.405.124/000173 27524 10.302. 0205. 4347 SAUDE 3341 210-TODO O ESTADO 500.000,00
+
+Nº da emenda: AG - 005 Identificação do objeto (finalidade): A presente emenda tem por objetivo custear o apoio técnico e financeiro para a ampliação da rede de serviços especializados de media e
+
+alta complexidade
+
+FUNDO MUNCIPAL DE SAUDE DE MINADOR DO NEGRÃO
+
+11.206.753/000174 27524 10.302. 0205. 4347 SAUDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: AG - 006 Identificação do objeto (finalidade):
+
+A presente emenda tem por objetivo custear o apoio técnico e financeiro para modernização do parque tecnologico das unidades de saúde
+
+FUNDO MUNICIPAL DE SAÚDE DE BELEM
+
+11.185.950/000154 27524 10.302. 0205. 4448 SAUDE 4441 210-TODO O ESTADO 200.000,00
+
+Nº da emenda: AG - 007 Identificação do objeto (finalidade):
+
+Implementar ações na área de Assistência Social, a fim de promover o bem estar e melhoria da qualidade de vida das famílias assistidas,
+
+que vivem em estado de vulnerabilidade social, procurando garantir a proteção social à família, à infância, à adolescência, e aos idosos,
+
+bem como o amparo, atendendo a todos que dela necessitam.
+
+ASSOCIACAO COMUNITARIA
+
+DIVINA PASTORA DO
+
+BAIRRO PALMEIRA DE
+
+FORA
+
+24.865.751/000139 15024 08.244. 0011. 4383
+
+SOCIAL 4450 210-TODO O ESTADO 150.000,00
+
+3.572.722,00 Parlamentar: ANTONIO ALBUQUERQUE
+
+Nº da emenda: AA - 001 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE JACUÍPE
+
+12.584.054/000120 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 400.000,00
+
+Nº da emenda: AA - 002 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE MARAVILHA
+
+11.402.479/000109 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 500.000,00
+
+Nº da emenda: AA - 003 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE BELO MONTE
+
+11.338.070/000170 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: AA - 004 Identificação do objeto (finalidade):
+
+1 FUNDO MUNICIPAL DE SAÚDE DE PINDOBA
+
+11.243.983/000103 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 372.722,37
+
+Nº da emenda: AA - 005 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE BARRA DE SANTO ANTÔNIO
+
+11.347.540/000162 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 600.000,00
+
+Nº da emenda: AA - 006 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE JOAQUIM GOMES
+
+11.991.357/000103 27524 10.301. 0205. 4319 ´SAÚDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: AA - 007 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE MESSIAS
+
+11.292.555/000170 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: AA - 008 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE SÃO BRÁS
+
+11.259.289/000184 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: AA - 009 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE PASSO DE CAMARAGIBE
+
+11.408.429/000139 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: AA - 010 Identificação do objeto (finalidade):
+
+MANUTENÇÃO DAS AÇÕES DE SAÚDE EM TODO ESTADO
+
+1 FUNDO ESTADUAL DE SAÚDE
+
+11.659.171/000143 27524 10.302. 0205. 4347 SAÚDE 3390 210-TODO O ESTADO 1.200.000,00
+
+TOTAL 4.572.722,37
+
+Parlamentar: BRENO ALBUQUERQUE
+
+Nº da emenda: BA-001 Identificação do objeto (finalidade):
+
+Emenda destinada ao atendimento das demandas de atenção básica da saúde pública do município
+
+FUNDO MUNICIPAL DE SAÚDE DE SANTANA DO MUNDAÚ
+
+10.254.294/000131 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 900.000,00
+
+Nº da emenda: BA-002 Identificação do objeto (finalidade): Fornecer meios para garantir a continuidade do trabalho Instituto Filial Arapiraca, assegurando as pessoas menos favorecidas oportunidades de
+
+assistência social em diversas situações.
+
+INSTITUTO SERTANEJO DE APOIO AO SER (FILIAL)
+
+08.150.239/000230 15526 08.244. 0011. 4382 ASSISTÊNCIA
+
+SOCIAL 3350 210-TODO O ESTADO 986.361,00
+
+Nº da emenda: BA-003 Identificação do objeto (finalidade): Fornecer meios para garantir a continuidade do trabalho do Instituto, assegurando aos seus assistidos uma reinserção plena e saudável para a
+
+sociedade.
+
+2 INSTITUTO SERTANEJO DE APOIO AO SER
+
+08.150.239/000150 15526 08.244. 0011. 4382 ASSISTÊNCIA
+
+SOCIAL 3350 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: BA-004 Identificação do objeto (finalidade):
+
+Fornecer meios para garantir a continuidade do trabalho desenvolvido pela Agremiação, onde se ambiciona criar uma representatividade no cenário nacional, colocando a região do agreste e sertão do estado no calendário de grandes competições, gerando, dessa forma, grandes retornos para o estado, inclusive financeiro.
+
+AGREMIAÇÃO SPORTIVA ARAPIRAQUENSE - ASA
+
+12.439.568/000192 36522 27.811. 0010. 4391 ESPORTE E
+
+LAZER 3350 210-TODO O ESTADO 1.000.000,00
+
+Nº da emenda: BA-005 Identificação do objeto (finalidade): Fornecer meios para garantir a continuidade do trabalho da associação, assegurando as pessoas excepcionais oportunidade de assistência em várias
+
+especialidades.
+
+ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE MACEIÓ
+
+12.321.592/000203 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO O ESTADO 500.000,00
+
+Nº da emenda: BA-006 Identificação do objeto (finalidade):
+
+Emenda destinada ao atendimento das demandas de atenção básica da saúde pública do município de Maribondo.
+
+FUNDO MUNICIPAL DE SAÚDE DE MARIBONDO
+
+11.264.135/000180 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 300.000,00
+
+Nº da emenda: BA-007 Identificação do objeto (finalidade): Fornecer meios para garantir a continuidade do trabalho Instituto Filial Arapiraca, assegurando as pessoas menos favorecidas oportunidades de
+
+assistência em várias especialidades.
+
+INSTITUTO SERTANEJO DE APOIO AO SER (FILIAL)
+
+08.150.239/000230 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO O ESTADO 586.361,39
+
+Parlamentar: BRUNO ALBUQUERQUE TOLEDO
+
+Nº da emenda: BT-001 Identificação do objeto (finalidade):
+
+INVESTIMENTOS DE MEDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE
+
+SAÚDE DE CAJUEIRO
+
+11.436.366/000124 27524 10.302. 0205. 4347 SAÚDE 4441 210 - TODO ESTADO 1.300.000,00
+
+Nº da emenda: BT-002 Identificação do objeto (finalidade):
+
+MANUTENÇÃO DAS ATIVIDADES DO ÓRGÃO
+
+1 INSTITUTO
+
+VICTOR MEDEIROS
+
+22.815.766/000167 27.524 10.122. 0004. 2001 SAÚDE 3350 210- TODO ESTADO 86.361,18
+
+Nº da emenda: BT-003 Identificação do objeto (finalidade):
+
+INVESTIMENTOS NA ATENÇÃO BÁSICA
+
+FUNDO MUNICIPAL DE SAÚDE DE SATUBA
+
+13.232.096/000165 27524 10.301. 0205. 4319 SAÚDE 4441 210- TODO ESTADO 300.000,00
+
+Nº da emenda: BT-004 Identificação do objeto (finalidade):
+
+INVESTIMENTOS DE MEDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE SAÚDE DE PÃO DE
+
+AÇÚCAR
+
+09.687.192/000120 27524 10.302. 0205. 4347 SAÚDE 4441 210-TODO ESTADO 300.000,00
+
+Nº da emenda: BT-005 Identificação do objeto (finalidade):
+
+INVESTIMENTOS DE MEDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE SAÚDE DE MAJOR
+
+ISIDORO
+
+12.907.233/000151 27524 10.302. 0205. 4347 SAÚDE 4441 210-TODO ESTADO 300.000,00
+
+TOTAL 2.286.361,18
+
+Parlamentar: CABO BEBETO
+
+Nº da emenda: CB-001 Identificação do objeto (finalidade):
+
+1 ORGANIZAÇÃO DA
+
+SOCIEDADE CIVIL
+
+28.845. 0000. 2056 4441 210 - TODO O ESTADO 2.286.361,19
+
+Nº da emenda: CB-002 Identificação do objeto (finalidade):
+
+10.301. 0205. 4319 4441 210 - TODO O ESTADO 2.286.361,19
+
+Parlamentar: CIBELE CORADO DE MOURA
+
+Nº da emenda: CM-001 Identificação do objeto (finalidade):
+
+QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA COMO ORDENADORA DAS REDES DE ATENÇÃO À SAÚDE - RAS
+
+2 FUNDO MUNICIPAL DE SAUDE CAPELA
+
+11.203.936/000136 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO ESTADO 350.000,00
+
+Nº da emenda: CM-002 Identificação do objeto (finalidade):
+
+QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA COMO ORDENADORA DAS REDES DE ATENÇÃO À SAÚDE - RAS
+
+2 FUNDO MUNICIPAL DE SAUDE CHA PRETA
+
+11.401.087/000125 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO ESTADO 400.000,00
+
+Nº da emenda: CM-003 Identificação do objeto (finalidade):
+
+QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA COMO ORDENADORA DAS REDES DE ATENÇÃO À SAÚDE - RAS
+
+FUNDO MUNICIPAL DE SAUDE PARIPUEIRA
+
+11.432.702/000160 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO ESTADO 1.716.361,20
+
+Nº da emenda: CM-004 Identificação do objeto (finalidade):
+
+APOIO AOS PROJETOS DE ASSISTÊNCIA SOCIAL
+
+ASSOCIAÇÃO BENEFICENTE
+
+PEDRO HENRIQUE
+
+21.566.077/000101 15526 08.244. 0011. 4382
+
+ASSISTÊNCIAL
+
+SOCIAL 3350 210-TODO ESTADO 100.000,00
+
+Nº da emenda: CM-005 Identificação do objeto (finalidade):
+
+APOIO AOS PROJETOS DE ASSISTÊNCIA SOCIAL
+
+3 INSTITUTO ILHA
+
+DA CROA
+
+41.952.355/000168 15526 08.244. 0011. 4382
+
+ASSISTÊNCIAL
+
+SOCIAL 3350 210-TODO ESTADO 300.000,00
+
+Nº da emenda: CM-006 Identificação do objeto (finalidade):
+
+APOIO A ATIVIDADES ESPORTIVAS
+
+3 FEDERAÇÃO ALAGOANA DE
+
+HANDEBOL
+
+09.315.581/000125 36522 27.811. 0010. 4391 ESPORTE 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: CM-007 Identificação do objeto (finalidade):
+
+APOIO A ATIVIDADES ESPORTIVAS
+
+3 FEDERAÇÃO DE BASKETBALL DE
+
+08.629.727/000144 36522 27.811. 0010. 4391 ESPORTE 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: CM-008 Identificação do objeto (finalidade):
+
+APOIO A ATIVIDADES ESPORTIVAS
+
+ASSOCIAÇÃO CAPOEIRA CANDEIAS DE ALAGOAS
+
+26.939.360/000147 36522 27.811. 0010. 4391 ESPORTE 3350 210-TODO ESTADO 15.000,00
+
+Nº da emenda: CM-009 Identificação do objeto (finalidade):
+
+IMPLANTAÇÃO DO FICA - FOMENTO E INCENTIVO A CULTURA ALAGOANA
+
+3 ASSOCIAÇÃO TEATRAL NEGA
+
+FULÔ
+
+05.162.686/000130 18557 13.392. 0010. 4234 CULTURA 3350 210-TODO ESTADO 50.000,00
+
+Nº da emenda: CM-010 Identificação do objeto (finalidade):
+
+IMPLANTAÇÃO DO FICA - FOMENTO E INCENTIVO A CULTURA ALAGOANA
+
+ASSOCIAÇÃO DAS ARTESÃS DE SINGELEZA
+
+E BORDADOS DE PARIPUEIRA
+
+03.277.122/800171 18557 13.392. 0010. 4234 CULTURA 3350 210-TODO ESTADO 20.000,00
+
+Nº da emenda: CM-011 Identificação do objeto (finalidade):
+
+APOIO AOS PROJETOS DE ASSISTÊNCIA SOCIAL
+
+ASSOCIAÇÃO COMUNITÁRIA
+
+DOS MORADORES DO CONJUNTO
+
+RESIDENCIAL JOSÉ DUBEAUX
+
+LEÃO
+
+10.809.242/000184 15526 08.244. 0011. 4382
+
+ASSISTÊNCIA
+
+SOCIAL 3350 210-TODO ESTADO 20.000,00
+
+TOTAL 3.011.361,20
+
+Parlamentar: DAVI DAVINO FILHO
+
+Nº da emenda: DD-003 Identificação do objeto (finalidade):
+
+ASSOCIAÇÃO COMUNITÁRIA
+
+E CULTURAL
+
+DOS ROMEIROS DE PADRE CÍCERO DE JUNQUEIRO
+
+02.602.628/000121 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO 622.722,37
+
+Nº da emenda: DD-004 Identificação do objeto (finalidade):
+
+FUNDAÇÃO
+
+BRASIL DE APOIO AO
+
+IDOSO - FUNBRASIL
+
+09.412.836/000178 27524 10.301. 0205. 4319 SAÚDE 4450 210-TODO ESTADO 3.350.000,00
+
+TOTAL 3.972.722,37
+
+Parlamentar: DAVI MAIA
+
+Nº da emenda: DM-001 Identificação do objeto (finalidade):
+
+2 FUNDO ESTADUAL DE
+
+10.302. 0205. 4347 3341 210-TODO O ESTADO 2.286.361,19
+
+Nº da emenda: DM-002 Identificação do objeto (finalidade):
+
+SECRETARIA DO PLANEJANEJAMENTO, GESTÃO E PATRIMÔNIO
+
+28.845. 0000. 2056 3390 210-TODO O ESTADO 2.286.361,19
+
+Parlamentar: DUDU RONALSA
+
+Nº da emenda: DR-001 Identificação do objeto (finalidade):
+
+ADFIMA - ASSOCIAÇÃO DOS DEFICIENTES F E MENTAIS DE ARAPIRACA
+
+24.176.992/0001 -70 27524 10.302. 0205. 4348 SAUDE 3350 210-TODO O ESTADO
+
+2.072.722,3 9
+
+Nº da emenda: DR-002 Identificação do objeto (finalidade):
+
+1 FUNDEPES - FUNDAÇÃO UNIVERSITÁRIA DE
+
+12.449.880/0001 -67 36021 12.368. 0010. 3565
+
+E LAZER 3350 210-TODO O ESTADO
+
+2.000.000,0 0
+
+DESENVOLVIMENT
+
+O DE EXTENSAO E
+
+PESQUISA Nº da emenda: DR-003 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE SÃO SEBASTIÃO
+
+10.013.384/0001 -99 27524 10.302. 0205. 4348 SAÚDE 3341 210-TODO O ESTADO 100.000,00
+
+Nº da emenda: DR-004 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE DE COITE DO NOIA
+
+11.407.477/000102 27524 10.302. 0205. 4348 SAÚDE 3341 210-TODO O ESTADO 100.000,00
+
+Nº da emenda: DR-005 Identificação do objeto (finalidade):
+
+FUNDO MUNICIPAL DE SAÚDE PÃO DE AÇUCAR
+
+09.687.192/000120 27524 103.012. 0205. 4348 SAÚDE 3341 210-TODO O ESTADO 100.000,00
+
+Nº da emenda: DR-006 Identificação do objeto (finalidade):
+
+SECRETARIA DE ESTADO DA CULTURA DE ALAGOAS
+
+08.629.503/000132 13017 13.392. 0010. 4253 CULTURA 3390 210-TODO O ESTADO 200.000,00
+
+Parlamentar: FÁTIMA CANUTO
+
+Nº da emenda: FCR-008 Identificação do objeto (finalidade):
+
+CUSTEIO DOS SERVIÇOS MÉDICOS ODONTOLÓGICOS OFERECIDOS PELO SINDICATO
+
+SINDICATO DOS TRABALHADORES DO PODER LEGISLATIVO DE ALAGOAS - STPLAL
+
+24.471.948/000193 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO O ESTADO 10.000,00
+
+Nº da emenda: FCR-004 Identificação do objeto (finalidade):
+
+CUSTEIO DOS SERVIÇOS DA ATENÇÃO BÁSICA DE SAÚDE
+
+FUNDO MUNICIPAL DE SAÚDE SÃO MIGUEL DOS CAMPOS
+
+11.891.087/000150 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 500.000,00
+
+Nº da emenda: FCR-005 Identificação do objeto (finalidade):
+
+CUSTEIO DOS SERVIÇOS DA ATENÇÃO BÁSICA DE SAÚDE
+
+FUNDO MUNICIPAL DE SAÚDE DE ATALAIA
+
+11.301.685/000122 27524 10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 500.000,00
+
+Nº da emenda: FCR-006 Identificação do objeto (finalidade):
+
+CUSTEIO DOS SERVIÇOS DE MÉDIA E ALTA COMPLEXIDADE
+
+2 FUNDO DE SAÚDE
+
+DE PILAR
+
+11.405.124/000173 27524 10.302. 0205. 4347 SAÚDE 3341 210-TODO O ESTADO 1.086.361,18
+
+Nº da emenda: FCR-007 Identificação do objeto (finalidade):
+
+AQUISIÇÃO DE UMA AMBULÂNCIA PARA A REDE MUNICIPAL DE SAÚDE
+
+1 FUNDO MUNICIPAL DE PARICONHA
+
+12.092.124/000123 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO O ESTADO 200.000,00
+
+TOTAL 2.296.361,18
+
+Parlamentar: FLÁVIA CAVALCANTE
+
+Nº da emenda: FC-001 Identificação do objeto (finalidade):
+
+AÇÃO / CUSTEIO DA SAÚDE
+
+FUNDO MUNICIPAL DE SAÚDE DE MATRIZ DO CAMARAGIBE
+
+13.164.739/000180 27524 10.122. 0004. 2001 SÁUDE 3341 210-TODO O ESTADO 1.000.000,00
+
+Nº da emenda: FC-002 Identificação do objeto (finalidade):
+
+AÇÃO / CUSTEIO DA SAÚDE
+
+FUNDO MUNICIPAL DE SAÚDE DE SÃO LÚIS DO QUITUNDE
+
+11.940.419/000140 27524 10.122. 0004. 2001 SÁUDE 3341 210-TODO O ESTADO 1.000.000,00
+
+Nº da emenda: FC-005 Identificação do objeto (finalidade):
+
+CUSTEIO E MANUTENÇÃO DAS ATIVIDADES DO INSTITUTO.
+
+2 INSTITUTO FLÁVIA CAVALCANTE - IFC
+
+24.939.726/000152 27524 10.122. 0004. 2001 SÁUDE 3350 210-TODO O ESTADO 572.722,39
+
+TOTAL 2.572.722,39
+
+Parlamentar: FRANCISCO TENÓRIO
+
+Nº da emenda: FT-001 Identificação do objeto (finalidade):
+
+1 CLUBE DE REGATAS
+
+BRASIL
+
+12.159.281/0001 -09 36021 27.812. 0010. 4392 ESPORTE 3350 210-TODO O ESTADO
+
+1.500.000,0 0
+
+Nº da emenda: FT-002 Identificação do objeto (finalidade):
+
+Beneficiário CNPJ do beneficiário
+
+SINDICATO DOS TRABALHADORES
+
+DO PODER LEGISLATIVO DE ALAGOAS-STPLAL
+
+24.471.948/0001 -93 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO O ESTADO 20.000,00
+
+Nº da emenda: FT-003 Identificação do objeto (finalidade):
+
+1 INSTITUTO AMIGO
+
+LEAL
+
+07.544.884/0001 -94 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO O ESTADO 100.000,00
+
+Nº da emenda: FT-004 Identificação do objeto (finalidade):
+
+SOCIEDADE CIVIL DO DESENVOLVIMENT O CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+04.626.489/0001 -62 27524 10.301. 0205. 4319 SAÚDE 4450 210-TODO O ESTADO 500.000,00
+
+Nº da emenda: FT-005 Identificação do objeto (finalidade):
+
+Unidade Orçamentá
+
+ria
+
+a de Trabalho
+
+¹
+
+Região de Planejamen
+
+to
+
+SOCIEDADE CIVIL DO DESENVOLVIMEN TO CULTURAL E SOCIAL DO ESTADO DE ALAGOAS
+
+04.626.489/000 1-62 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO O ESTADO 1.666.361,19
+
+Nº da emenda: FT-006 Identificação do objeto (finalidade):
+
+Unidade Orçamentár
+
+ia
+
+a de Trabalho
+
+¹
+
+Região de Planejamen
+
+to
+
+SOCIEDADE CIVIL
+
+DO DESENVOLVIMEN
+
+TO CULTURAL E
+
+SOCIAL DO ESTADO DE
+
+04.626.489/000 1-62 14030 02.060. 5008. 3316
+
+AGRICULTUR
+
+A 3350 210-TODO O ESTADO 400.000,00
+
+Nº da emenda: FT-007 Identificação do objeto (finalidade):
+
+Unidade Orçamentár
+
+ia
+
+a de Trabalho
+
+¹
+
+Região de Planejamen
+
+to
+
+SOCIEDADE CIVIL
+
+DO DESENVOLVIMEN
+
+TO CULTURAL E
+
+SOCIAL DO ESTADO DE
+
+04.626.489/000 1-62 36021 27.812. 0010. 4392 ESPORTE 3350 210-TODO O ESTADO 386.361,19
+
+Parlamentar: GALBA NOVAES DE CASTRO JUNIOR
+
+Nº da emenda: GN-0001 Identificação do objeto (finalidade):
+
+DESENVOLVIMENTO DE ATIVIDADES VOLTADAS A SAUDE
+
+a da Despes
+
+a²
+
+01 INSTITUTO IRMA
+
+SUZANA
+
+06.308.989/000 1-81 27524 10.301. 0205. 4319 SAUDE 3350 210-TODO ESTADO
+
+2.058.177, 92
+
+Nº da emenda: GN-002 Identificação do objeto (finalidade):
+
+DESENVOLVIMENTO DE ATIVIDADES VOLTADAS A SAUDE
+
+1 INSTITUTO IRMA
+
+SUZANA
+
+06.308.989/000 1-81 27524 10.301. 0205. 4319 SAUDE 4450 210-TODO ESTADO 514.544,47
+
+Nº da emenda: GN-003 Identificação do objeto (finalidade):
+
+GARANTIR A MANUTENÇÃO DE PROGRAMAS ESPORTIVOS
+
+2 CLUBE DE REGATAS
+
+CRB
+
+12.159.281/000 1-09 36021 27.812. 0010. 4392 ESPORTE 3350 210-TODO ESTADO
+
+2.000.000,0 0
+
+TOTAL 4.572.722,3 9
+
+Parlamentar: GILVAN BARROS FILHO
+
+Nº da emenda: GB-001 Identificação do objeto (finalidade):
+
+27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO O ESTADO 2.286.361,19
+
+Nº da emenda: GB-002 Identificação do objeto (finalidade):
+
+13017 28.845. 0000. 2056
+
+ÁREAS 3350 210-TODO O ESTADO 2.286.361,19
+
+Parlamentar: INÁCIO LOIOLA
+
+Nº da emenda: IL-001 Identificação do objeto (finalidade):
+
+MAC - MÉDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE
+
+SAÚDE DE SENADOR RUI
+
+PALMEIRA
+
+11.348.088/000153 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO O ESTADO 410.000
+
+Nº da emenda: IL-002 Identificação do objeto (finalidade):
+
+MAC - MÉDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE
+
+SAÚDE DE MONTEIROPOLIS
+
+13.079.412/000100 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO O ESTADO 325.000
+
+Nº da emenda: IL-003 Identificação do objeto (finalidade):
+
+MAC - MÉDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE SAÚDE DE PARICOHA
+
+12.092.124/000123 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO O ESTADO 325.000
+
+Nº da emenda: IL-004 Identificação do objeto (finalidade):
+
+MAC - MÉDIA E ALTA COMPLEXIDADE
+
+FUNDO MUNICIPAL DE
+
+SAÚDE DE PIRANHAS
+
+11.197.317/000186 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO O ESTADO 500.000
+
+Nº da emenda: IL-005 Identificação do objeto (finalidade):
+
+MAC - MÉDIA E ALTA COMPLEXIDADE
+
+1 FUNDO MUNICIPAL DE OURO BRANCO
+
+14.188.779/000125 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO O ESTADO 416.361,18
+
+Nº da emenda: IL-006 Identificação do objeto (finalidade):
+
+MAC- MÉDIA E ALTA COMPLEXIDADE
+
+1 FUNDO MUNICIPAL DE SAÚDE DE CANAPI
+
+12.091.467/000173 27524 10.301. 0205. 4319 SAÚDE 4441 210-TODO ESTADO 225.000
+
+Nº da emenda: IL-007 Identificação do objeto (finalidade):
+
+REFORMA E PADRONIZAÇÃO DAS ESTRUTURAS
+
+1 ACADEMIA ALAGOANA DE
+
+LETRAS
+
+12.317.947/000100 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 80.000
+
+Nº da emenda: IL-008 Identificação do objeto (finalidade):
+
+REFORMA E PADRONIZAÇÃO DAS ESTRUTURAS
+
+INSTITUTO HISTÓRICO E GEOGRÁFICO DE ALAGOAS
+
+12.317.467/000149 18021 13.122. 0004. 2200 CULTURA 4450 210-TODO ESTADO 80.000
+
+Nº da emenda: IL-009 Identificação do objeto (finalidade):
+
+MAC- MÉDIA E ALTA COMPLEXIDADE
+
+1 SINDICATO DOS SERVIDORES DO PODER LEGISLATIVO
+
+24.471.948/000193 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO 10.000
+
+TOTAL 2.371.361,18
+
+Parlamentar: JAIRZINHO LIRA
+
+Nº da emenda: JL 001 Identificação do objeto (finalidade):
+
+12.159.281/000109 36021 27.812. 0010. 4392
+
+E LAZER 3350 210-TODO O ESTADO 1.500.000,00
+
+Nº da emenda: JL 002 Identificação do objeto (finalidade):
+
+1 FUNDO ESTADUAL DE SAÚDE
+
+11.659.171/000143 27524 10.302. 0205. 4347 3341 210-TODO O ESTADO 2.286.361,20
+
+Nº da emenda: JL 003 Identificação do objeto (finalidade):
+
+EMENDAS PARLAMENTARES
+
+1 ORGANIZAÇÃO DA SOCIEDADE CIVILDEMAIS AREAS
+
+13017 02.884. 5000. 2056 3350 210-TODO O ESTADO 786.361,19
+
+Parlamentar: JÓ PEREIRA Nº da emenda: JP-002 Identificação do objeto (finalidade):
+
+Fortalecimento da saúde no Estado
+
+ASSOCIAÇÃO DAS FAMÍLIAS DE ANJOS DO ESTADO DE ALAGOAS
+
+32.636.827/00 01-82 27524 10.302. 0205. 4348 SAÚDE 4450 210-TODO ESTADO 150.000,00
+
+Nº da emenda: JP-004 Identificação do objeto (finalidade):
+
+Estruturação do Fundo Municipal da Saúde
+
+FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE CAMPO ALEGRE
+
+12.264.628/000183 27524 10.302. 0205. 4347 SAÚDE 4441 210-TODO ESTADO 1.200.000,00
+
+Nº da emenda: JP-005 Identificação do objeto (finalidade):
+
+Estruturação do Fundo Municipal de Saúde
+
+FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE TEOTÔNIO VILELA
+
+11.780.685/000152 27524 10.302. 0205. 4347 SAÚDE 4441 210-TODO ESTADO 1.200.000,00
+
+Nº da emenda: JP-006 Identificação do objeto (finalidade):
+
+Fortalecimento da saúde no Estado
+
+FUNDAÇÃO BRASIL DE APOIO AO IDOSO - FUNBRASIL
+
+09.412.836/000178 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO ESTADO 1.222.722,39
+
+Nº da emenda: JP-007 Identificação do objeto (finalidade):
+
+Ações voltadas para a Assistência Social
+
+ASSOCIAÇÃO COMUNITÁRIA E CULTURAL DOS ROMEIROS DE JUNQUEIRO
+
+02.604.628/000121 15024 08.244. 0011. 4382
+
+ASSISTÊNCIA
+
+SOCIAL 3350 210-TODO ESTADO 300.000,00
+
+TOTAL 4.072.722,39
+
+Parlamentar: LÉO LOUREIRO
+
+Nº da emenda:
+
+LL-001 Identificação do objeto (finalidade):
+
+ASSOCIAÇÃO DE PAIS E AMIGOS DOS
+
+EXPECIONAIS-APAE
+
+MACEIÓ.
+
+12.321.592/ 0001-22 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO ESTADO 2.500.000,00
+
+Nº da emenda:
+
+LL-002 Identificação do objeto (finalidade):
+
+ASSOCIAÇÃO
+
+DE PAIS E AMIGOS DOS EXPECIONAIS-
+
+APAE PALMEIRA DOS
+
+ÍNDIOS
+
+27.915.486/00144 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO ESTADO 1.872.722,39
+
+Nº da emenda:
+
+LL-003 Identificação do objeto (finalidade):
+
+ASSOCIAÇÃO
+
+DE PAIS E AMIGOS DOS EXPECIONAIS-
+
+APAE ARAPIRACA
+
+16.739.798/000128 27524 10.302. 0205. 4348 SAÚDE 3350 210-TODO ESTADO 100.000,00
+
+Nº da emenda:
+
+LL-004 Identificação do objeto (finalidade):
+
+1 INTITUTO
+
+ABRACE
+
+08.694.743/000110 27524 08.244. 0011. 4383
+
+SOCIAL 3350 210-TODO ESTADO 100.000,00
+
+Parlamentar: ANIVALDO LUIZ DA SILVA ( LOBÃO )
+
+Nº da emenda: AL-001 Identificação do objeto (finalidade):
+
+12.159.281/000109 36021 27.812. 0010. 4392
+
+E LAZER 3350 210-TODO ESTADO 2.286.361,19
+
+Nº da emenda: AL-002 Identificação do objeto (finalidade):
+
+1 FUNDO ESTADUAL
+
+DE SAUDE
+
+12.200.259/000165 27524 10.302. 0205. 4347 SAUDE 3341 210-TODO ESTADO 2.286.361,20
+
+Parlamentar: MARCELO VICTOR
+
+Nº da emenda: MV-001 Identificação do objeto (finalidade):
+
+1 FUNDO ESTADUAL
+
+DE SAUDE
+
+12.200.259/000165 27524 10.302. 0205. 4347 SAUDE 3341 210-TODO ESTADO 4.572.722,39
+
+Parlamentar: DEPUTADO MARCOS BARBOSA
+
+Nº da emenda: MB-001 Identificação do objeto (finalidade):
+
+DEMAIS AREAS
+
+000.000.000-00 36021 28.845. 0000. 2056 4450 TODO ESTADO 2.200.000,00
+
+Nº da emenda: MB-002 Identificação do objeto (finalidade):
+
+08.402.032/000125 27524 10.301. 0205. 4319 SAÚDE 3350 TODO ESTADO 86.361,19
+
+Nº da emenda: MB-003 Identificação do objeto (finalidade):
+
+08.402.032/000125 28524 10.301. 0205. 4319 SAÚDE 3350 TODO ESTADO 2.200.000,00
+
+Nº da emenda: MB-004 Identificação do objeto (finalidade):
+
+08.402.032/000125 27524 10.301. 0205. 4319 SAÚDE 3350 TODO ESTADO 76.361,19
+
+Nº da emenda: MB-005 Identificação do objeto (finalidade):
+
+SINDICATO DOS TRABALHADORES
+
+DO PODER LEGISLATIVO
+
+24.471.948/000193 27524 10.301. 0205. 4319 SAÚDE 3350 TODO ESTADO 10.000,00
+
+Parlamentar: OLAVO CALHEIROS
+
+Nº da emenda: OC-002 Identificação do objeto (finalidade):
+
+Fundo Municipal de
+
+Saúde de Branquinha
+
+11.159.820/000147 27524 10.302. 0205. 4348 SAÚDE 3341 210 190.000,00
+
+Nº da emenda: OC-004 Identificação do objeto (finalidade):
+
+Fundo Municipal de
+
+Saúde de Carneiros
+
+12.657.662/000118 27524 10.302. 0205. 4348 SAÚDE 3341 210 160.000,00
+
+Nº da emenda: OC-006 Identificação do objeto (finalidade):
+
+Fundo Municipal de
+
+Saúde de
+
+Delmiro Gouveia
+
+11.261.089/000166 27524 10.302. 0205. 4348 SAÚDE 3341 210 310.000,00
+
+Nº da emenda: OC-008 Identificação do objeto (finalidade):
+
+Fundo Municipal de Saúde de Feira
+
+Grande
+
+11.235.511/000109 27524 10.302. 0205. 4348 SAÚDE 3341 210 260.000,00
+
+Nº da emenda: OC-010 Identificação do objeto (finalidade):
+
+Fundo Municipal de
+
+Saúde de Ibateguara
+
+11.260.658/000159 27524 10.302. 0205. 4348 SAÚDE 3341 210 160.000,00
+
+Nº da emenda: OC-012 Identificação do objeto (finalidade):
+
+Fundo Municipal de
+
+Saúde de
+
+Murici
+
+11.120.699/000140 27524 10.302. 0205. 4348 SAÚDE 3341 210 406.361,20
+
+Nº da emenda: OC-014 Identificação do objeto (finalidade):
+
+1 Fundo Municipal de
+
+Saúde de Olho D'agua do Casado
+
+13.891.745/000115 27524 10.302. 0205. 4348 SAÚDE 3341 210 180.000,00
+
+Nº da emenda: OC-016 Identificação do objeto (finalidade):
+
+1 Fundo Municipal de Saúde de Porto Real
+
+do Colegio
+
+11.698.613/000160 27524 10.302. 0205. 4348 SAÚDE 3341 210 300.000,00
+
+Nº da emenda: OC-018 Identificação do objeto (finalidade):
+
+1 Fundo Municipal de Saúde de Santana do
+
+Ipanema
+
+19.433.048/000111 27524 10.302. 0205. 4348 SAÚDE 3341 210 320.000,00
+
+TOTAL 2.286.361,20
+
+Parlamentar: RICARDO NEZINHO
+
+Nº da emenda: RN 02 Identificação do objeto (finalidade):
+
+1 ESPORTE CLUBE
+
+CRUZEIRO ARAPIRACA
+
+34.167.467/000142 36021 27.812. 0010. 4392
+
+ÁREAS 4441 210-TODO ESTADO 250.000,00
+
+Nº da emenda: RN 03 Identificação do objeto (finalidade):
+
+1 ESPAÇO CULTURAL DA MELHOR IDADE LOCUTOR MARRECO
+
+07.878.072/000185 18557 13.392. 0010. 4234
+
+ÁREAS 3341 210-TODO ESTADO 35.000,00
+
+Nº da emenda: RN 04 Identificação do objeto (finalidade):
+
+SINDICATO DOS TRABALHADORE
+
+S DO PODER LEGISLATIVO DE
+
+ALAGOAS-
+
+STPLAL
+
+24.471.948/0001 -93 26031 04.122. 0004. 2200
+
+ÁREAS 4450 210-TODO ESTADO 100.000,00
+
+Nº da emenda: RN 05 Identificação do objeto (finalidade):
+
+1 ASSOCIAÇÃO
+
+SPORTIVA ARAPIRACA
+
+04.265.017/0001 -21 36021 27.812. 0010. 4392
+
+ÁREAS 4441 210-TODO ESTADO 68.000,00
+
+Nº da emenda: RN 06 Identificação do objeto (finalidade):
+
+ACALAACADEMIA ARAPIRAQUENSE
+
+DE LETRAS E
+
+ARTES
+
+12.841.276/0001 -81 18021 13.392. 0010. 4234
+
+ÁREAS 3350 210-TODO ESTADO 50.000,00
+
+Nº da emenda: RN 07 Identificação do objeto (finalidade):
+
+3 FUNDO ESTADUAL DE
+
+27524 10.302. 0205. 4347 SAÚDE 4441 210-TODO ESTADO 3.769.722,39
+
+TOTAL 4.272.722,3 9
+
+Parlamentar: JOSÉ RONALDO MEDEIROS
+
+Nº da emenda: RM-01 Identificação do objeto (finalidade):
+
+1 FUNDO DE SAÚDE FUNDO DE
+
+10.302. 0205. 4347 SAÚDE 4441 210-TODO O ESTADO 3.200.905,67
+
+Nº da emenda: Identificação do objeto (finalidade):
+
+1 FUNDO DE SAÚDE FUNDO DE
+
+10.302. 0205. 4347 SAÚDE 3341 210-TODO O ESTADO 1.371.816,72
+
+Parlamentar: SILVIO ROGÉRIO DIAS CAMELO
+
+Nº da emenda: SC-001 Identificação do objeto (finalidade):
+
+FUNDO DE
+
+10.301. 0205. 4319 SAÚDE 3341 210-TODO O ESTADO 2.286.361,20
+
+Nº da emenda: SC-002 Identificação do objeto (finalidade):
+
+SEPLAG
+
+28.845. 0000. 2056
+
+ÁREAS 3350 210-TODO O ESTADO 2.286.361,19
+
+TOTAL 2.286.361,20
+
+Parlamentar: TARCIZO FREIRE Nº da emenda: TF-001 Identificação do objeto (finalidade):
+
+Programa de Trabalho¹
+
+12.159.281/0001 -09 36021 27.812.0010 -4392
+
+E LAZER 3350 210-TODO ESTADO
+
+2.000.000,0 0 Nº da emenda: TF-002 Identificação do objeto (finalidade):
+
+Programa de Trabalho¹
+
+08.402.032/0001 -25 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO 286.361,19
+
+Nº da emenda: TF-003 Identificação do objeto (finalidade):
+
+Programa de Trabalho¹
+
+SINDICATO DOS TRABALHADORE
+
+S DO PODER LEGISLATIVO DE
+
+24.471.948/0001 -93 28524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO 10.000,00
+
+Nº da emenda: TF-004 Identificação do objeto (finalidade):
+
+Programa de Trabalho¹
+
+SECRETARIA DE
+
+ESTADO DA
+
+SAÚDE DE ALAGOAS /
+
+SESAU
+
+12.200.259/0001 -65 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO
+
+2.200.000,0 0
+
+Nº da emenda: TF-005 Identificação do objeto (finalidade):
+
+Programa de Trabalho¹
+
+1 ORGANIZAÇÃO DA SOCIEDADE
+
+CIVIL - SAÚDE
+
+000.000.000-00 27524 10.301. 0205. 4319 SAÚDE 3350 210-TODO ESTADO 76.361,19
+
+TOTAL 4.572.722,3 8
+
+Parlamentar: YVAN BELTRÃO
+
+Nº da emenda: YB 01 Identificação do objeto (finalidade):
+
+01 FUNDO MUNICIPAL DE
+
+11.436.366/000124 27524 10.302. 0205. SAÚDE 4441 210-TODO ESTADO 2.286.361,19
+
+SAÚDE DE CAJUEIRO
