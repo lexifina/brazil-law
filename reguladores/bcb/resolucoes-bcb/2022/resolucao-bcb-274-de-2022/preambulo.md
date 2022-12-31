@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 274, DE 13 DE DEZEMBRO DE 2022
+Altera a Resolução BCB nº 131, de 20 de agosto de 2021, que consolida as normas sobre o rito do processo administrativo sancionador, a aplicação de penalidades, o termo de compromisso, as medidas acautelatórias, a multa cominatória e o acordo administrativo em processo de supervisão, previstos na Lei nº 13.506, de 13 de novembro de 2017, e os parâmetros para a aplicação das penalidades administrativas previstas na Lei nº 9.613, de 3 de março de 1998, para adequar a aplicação de penalidades às infrações previstas na Lei nº 14.286, de 29 de dezembro de 2021.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 13 de dezembro de 2022, com base no art. 36 da Lei nº 13.506, de 13 de novembro de 2017, e no art. 20 da Lei nº 14.286, de 29 de dezembro de 2021,
+R E S O L V E :
