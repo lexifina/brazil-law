@@ -1,3 +1,0 @@
-Art. 25. O Banco Central, ao aplicar a norma prevista no art. 22, fixará as condições seguintes:
-I - Se a média mensal das dívidas da emprêsa no sistema financeiro nacional, durante os doze meses anteriores, não tiver excedido os limites previstos no art. 23, êsses limites serão obrigatórios inclusive para o exercício social em curso;
-II - se a média mensal das dívidas da emprêsa no sistema financeiro nacional, durante os doze meses anteriores, tiver excedido os limites previstos no art. 23, a emprêsas deverá aumentar os recursos próprios ou reduzir progressivamente o total das suas dívidas no sistema financeiro nacional, de modo a alcançar os limites do art. 23, no prazo máximo de dois anos, a contar da data da resolução do Banco Central.
