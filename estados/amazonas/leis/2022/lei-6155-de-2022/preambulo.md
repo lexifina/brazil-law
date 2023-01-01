@@ -1,0 +1,9 @@
+LEI Nº 6.155, DE 28 DE DEZEMBRO DE 2022.
+
+ESTIMA a receita e fixa a despesa do Estado para o exercício financeiro de 2023.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
