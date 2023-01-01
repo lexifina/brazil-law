@@ -1,4 +1,4 @@
-Art. 52. A União elaborará, sob a coordenação do Ministério do Desenvolvimento Regional:
+Art. 52. A União elaborará, sob a coordenação do Ministério do Meio Ambiente e Mudança do Clima:
 I - o Plano Nacional de Saneamento Básico, que conterá:
 a) os objetivos e metas nacionais e regionalizadas, de curto, médio e longo prazos, para a universalização dos serviços de saneamento básico e o alcance de níveis crescentes de saneamento básico no território nacional, observando a compatibilidade com os demais planos e políticas públicas da União;
 b) as diretrizes e orientações para o equacionamento dos condicionantes de natureza político-institucional, legal e jurídica, econômico-financeira, administrativa, cultural e tecnológica com impacto na consecução das metas e objetivos estabelecidos;
