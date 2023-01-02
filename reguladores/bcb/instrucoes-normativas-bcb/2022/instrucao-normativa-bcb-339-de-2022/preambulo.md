@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 339, DE 23 DE DEZEMBRO DE 2022
+Altera a Instrução Normativa BCB nº 296, de 22 de agosto de 2022, que consolida as instruções para registro de operações no Sistema de Registro de Operações de Crédito com o Setor Público (Cadip), e altera o Manual do Cadip.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), substituto, no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base no art. 77, incisos III e IV, do referido Regimento, e tendo em vista o disposto nas Resoluções CMN ns. 4.940, de 26 de agosto de 2021, 4.995, de 24 de março de 2022, 4.996, de 24 de março de 2022, 5.054, de 15 de dezembro de 2022, e 5.059, de 16 de dezembro de 2022, e na da Resolução BCB nº 196, de 9 de março de 2022,
+R E S O L V E :
