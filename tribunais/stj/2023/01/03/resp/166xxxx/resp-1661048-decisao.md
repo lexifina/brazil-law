@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTOS CREDIT YELD FUNDO DE INVESTIMENTO FINANCEIRO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 539):
+"Agravo de instrumento - Execução de título extrajudicial - Cédulas de Crédito Bancário - Suspensão do processo em razão de prejudicialidade externa - Decisão que autoriza o regular andamento da demanda, em razão do decurso do prazo legal - Inadmissibilidade - Admitida a flexibilização do prazo ânuo do art. 265, § 5º, do CPC, conforme a particularidade de cada caso - Perante a Justiça Federal a executada objetiva a declaração de nulidade de contrato de mútuo que deu origem à emissão dos títulos objeto da lide - Assim, a sentença a ser lá proferida refletirá diretamente no objeto da execução - Decisão reformada, determinando- se a suspensão da execução até que sobrevenha sentença a ser proferida na ação ordinária em trâmite perante a Justiça Federal - Recurso provido."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 554/557).
+Nas razões do recurso especial, o ora recorrente aponta violação dos arts. 265, § 5º, 475,535 e 585, § 1º, do CPC/73 , bem como divergência jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que a suspensão do curso do processo por prejudicialidade externa não pode ultrapassar o período de um ano.
+É o relatório. Decido.
+Na origem, trata-se de agravo de instrumento interposto por TM CONSULTORIA EMPRESARIAL LTDA.contra decisão que, em execução de título extrajudicial, deu prosseguimento ao feito, nos termos do art. 265, § 5º, do CPC.
+O agravo de instrumento foi provido, a fim de que a execução permanecesse suspensa até o julgamento da ação declaratória em trâmite perante a Justiça Federal que discute a nulidade dos contratos de mútuo, uma vez demonstrada a prejudicialidade externa.
+Compulsando o andamento processual do processo de origem, verifica-se que, em 24/08/2022, a ação de execução de título extrajudicial foi julgada extinta, em razão de acordocelebrado pelas partes, tendo o processo transitado em julgado em 19/10/2022.
+Assim, constata-se que o recurso especial, o qual visava dar regular prosseguimento à ação de execução,tornou-se prejudicado, por perda superveniente deobjeto, concluindo-se que já não subsiste interesse no julgamento dorecurso.
+Diante do exposto, com fundamento no artigo 34, XI, do RISTJ, julgoprejudicado o recurso pela superveniente perda de objeto.
+Publique-se.
