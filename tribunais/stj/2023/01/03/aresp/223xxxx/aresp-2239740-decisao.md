@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto porSONIA MARLI CONCEICAO BRASIL em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AÇÃO DE CANCELAMENTO DE REGISTRO CUMULADA COM INDENIZATÓRIA.
+PROCESSUAL CIVIL. SENTENÇA EXTRA PETITA. MATÉRIA NÃO INDICADA COMO CAUSA DE PEDIR NA INICIAL. EXTIRPAÇÃO DE PARTE DO DECISUM.
+Deliberação de 1º Grau que reconheceu a irregularidade do aponte de registro negativo desde causa de pedir não fundamentada pela parte. Referência do julgado de o registro ter ultrapasso o prazo de manutenção quinquenal (art. 43, § 5º do CDC) que não foi objeto de insurgência pela parte. Impossibilidade de se decidir com fundamento em fato não alegado. Sentença extra petita. Extirpação parcial do decisum.
+RESPONSABILIDADE CIVIL. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. AÇÃO INDENIZATÓRIA. ART. 43, § 2º DO CDC.
+COMUNICAÇÃO COMPROVADA. DANO INEXISTENTE.
+O atendimento pelo arquivista da determinação legal de avisar previamente o consumidor quanto à abertura do cadastro de restrição de crédito afasta a pretensão por ausência de comunicação do lançamento do registro negativo. Cumprimento pela requerida ao disposto no art. 43, § 2º do CDC.
+DE OFÍCIO, EXTIRPADA EM PARTE A SENTENÇA, POR EXTRA PETITA.
+NEGADO PROVIMENTO À APELAÇÃO DA AUTORA. PREJUDICADO O RECURSO ADESIVO DA RÉ. UNÂNIME." (fl. 194).
+Os embargos de declaração foram rejeitados (fls. 211-213).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 186 e 927 do Código Civil de 2002; e arts. 6º, VI,VII e VIII, 14, 42, 43, § 2º, e 83 doCódigo de Defesa do Consumidor,bem como divergência jurisprudencial, sustentando, em síntese, (a)o não cabimento de inserçãode seu nome em cadastro de inadimplentes, pois atrelada a débito infundado; e (b) aausência de comunicação prévia obrigatória quanto a essa inclusão.
+Apresentadas contrarrazões ao apelo nobre (fls. 255-259).
+É o relatório.
+Não merece prosperar a irresignação da parte recorrente.
+De início, segundo a orientação jurisprudencial desta Corte Superior, é incabível a interposição do agravo em recurso especial contra decisão denegatória de seguimento do recurso especial fundamentada em recurso repetitivo e proferida após a vigência do CPC/2015 (18/3/2016), pois o único recurso cabível é o agravo interno dirigido ao próprio Tribunal de origem, nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015 (v.g. AREsp 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/8/2016, DJe 26/8/2016; AgInt no AREsp 1.053.970/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2017, DJe 12/5/2017; e AgInt no AREsp 982.074/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 25/10/2016, DJe 17/11/2016).
+Desse modo, considerando que a intimação da decisão agravada ocorreu em 22/09/2022 (fl. 275) está fundamentada na conformidade do acórdão recorrido com precedentes firmados em julgamentos de recursos repetitivos - Tema 59 do STJ -, não é possível o conhecimento do presente agravo acerca do tópico objeto da negativa de seguimento do recurso especial.
+O eg. Tribunal de origem consigna que "diferentemente do que alega a autora, restou provada a postagem de correspondência de aviso de abertura do cadastro para o seu endereço, como se verifica pelas cartas de notificação juntadas no evento 11, NOT3 e evento 11, NOT4, cumprindo a arquivista o que determina o parágrafo 2º do art. 43 do CDC." (fl. 191).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a comprovação do prévia notificação da recorrente, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Lado outro, quanto à alegada violação dos demais artigos tidos por violdados,verifica-se que o conteúdo normativo do dispositivo invocados no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora agravante tenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 12% para 13% sobre o valor atualizadoda causa(fl. 192), ressalvada a concessão de justiça gratuita.
+Publique-se.
