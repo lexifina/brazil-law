@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de JOSÉ MARCO TAYAH contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INDFERIMENTO DE GRATUIDADE. DIVERSAS DETERMINAÇÕES PARA RECOLHIMENTO DAS CUSTAS. CANCELAMENTO DA DISTRIBUIÇÃO. SENTENÇA DE EXTINÇÃO QUE SE MANTÉM. DESPROVIMENTO DO RECURSO." (e-STJ fl. 246/254)
+Ambos os embargos de declaração opostos foram rejeitados (e-STJ fl. 270/274 e 304/309)
+Nas razões do recurso especial, o agravante alega violação dos arts.290 e 485, inciso III, §1º, do Código de Processo Civil, sustentando, em síntese, que é indispensável a intimação pessoal do autor da ação para o complemento das custas processuais iniciais antes do cancelamento da distribuição.
+Defende que por se tratar de ausência de recolhimento decorrente do indeferimento do pedido de gratuidade de justiça, imprescindível a intimação pessoal da parte, devendo ser aplicado por parâmetro o entendimento dessa Colenda Corte quanto ao complemento de custas iniciais.
+É o relatório. Decido.
+O Tribunal de origem, no que diz respeito à necessidade de intimação pessoal da partes para fins de cancelamento da distribuição, expressamente consignou o seguinte:
+"No caso em comento, indeferido o benefício da gratuidade de justiça, por decisão transitada em julgado, da qual as patronas do ora apelante foram intimadas em outubro de 2017 (fls. 170), sendo determinado o recolhimento das custas processuais.
+Peticionou o apelante, solicitando o parcelamento das custas em 12 parcelas - fls. 171, tendo o juízo deferido em três e determinado o primeiro recolhimento no prazo de 30 dias, não havendo qualquer recurso da referida decisão.
+Decorrido prazo, sem cumprimento, novamente o apelante fez requerimento novo, para que o parcelamento fosse realizado em 18 parcelas, como se depreende de fls. 175.
+Às fls. 184, já estando preclusa qualquer possibilidade diversa do parcelamento das custas em três vezes, mais uma vez, o juízo a quo possibilitou ao apelante o recolhimento das custas processuais, sob pena de cancelamento da distribuição, havendo efetiva intimação da parte apelante.
+O processo é marcha adiante, e não admite o retorno ao exame de questões cobertas pela preclusão.
+No que concerne às custas, o ajuizamento da ação sem o seu devido recolhimento enseja o cancelamento da distribuição se, intimada a parte autora, por seu patrono, mantém-se inerte, deixando de promover o pagamento respectivo, a teor do art. 290 do CPC/2015 (grifei):
+Art.290. Será cancelada a distribuição do feito se a parte, intimada na pessoa de seu advogado, não realizar o pagamento das custas e despesas de ingresso em 15 (quinze) dias.
+Vê-se, pois, que há previsão expressa na norma de regência no sentido de ser suficiente a intimação da parte, na pessoa de seu advogado, para efetuar o correto recolhimento das custas, admitindo-se o cancelamento da distribuição, sem a necessidade de intimação pessoal da parte, enquanto ainda não formada a relação processual pela citação válida.
+(..)
+Com efeito, o dispositivo legal aplicável à espécie (art. 290 do CPC/2015) estabelece a intimação da parte, na pessoa de seu advogado, para realizar o pagamento das custas e despesas de ingresso, em 15 (quinze) dias. Isto significa: se não efetuar o pagamento regular, ou seja, integralmente e de forma correta.
+Verifica-se nos autos que diversas foram as oportunidades para que o embargante, ora apelante, efetuasse o recolhimento das custas pertinentes, sem qualquer atendimento.
+Ressalte-se que a decisão de indeferimento da gratuidade de justiça, transitada em julgado, se deu em outubro de 2017, saindo-se intimada a parte, configurando-se na data final para o efetivo recolhimento das custas.
+Após a referida intimação e diversos requerimentos sem fundamento da parte, ainda foram concedidos novos prazos, todos inadimplidos.
+Assim, não se desincumbindo a parte autora de proceder ao recolhimento das custas, a hipótese é de cancelamento da distribuição." (e-STJ fl. 248/254)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INÉRCIA DA PARTE EM PROVIDENCIAR RECOLHIMENTO DAS CUSTAS JUDICIAIS. CANCELAMENTO DA DISTRIBUIÇÃO DO FEITO. POSSIBILIDADE. PRÉVIA INTIMAÇÃO PESSOAL. DESNECESSIDADE. AUSÊNCIA DE CONDENAÇÃO DE HONORÁRIOS SUCUMBENCIAIS E RECURSAIS NA ORIGEM. FIXAÇÃO NO ÂMBITO DO STJ. IMPOSSIBILIDADE. PRECEDENTE.
+1. É possível o cancelamento da distribuição do feito por inércia da parte em providenciar o recolhimento das custas judiciais, sendo desnecessária sua prévia intimação pessoal. Precedentes: AgInt no AREsp 914.193/SE, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/9/2018, DJe 28/9/2018; AgInt no AREsp 956.522/MS, Relator Ministro Og Fernandes, Segunda Turma, julgado em 21/2/2017, DJe 2/3/2017; AgInt no AREsp 1.060.742/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2017, DJe 25/8/2017; AgInt no REsp 1.470.877/MG, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/2/2017, DJe 20/2/2017.
+2. Uma vez que não foi fixado valor de honorários sucumbenciais, tampouco recursais, na origem, e tendo constado expressamente no juízo sentenciante que, "considerando que não houve citação da parte ré, sem honorários", a condenação fixada no decisum agravado deve ser afastada. Precedente: AgInt nos EDcl no AREsp 1.339.596/SP, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/12/2018, DJe 19/12/2018.
+3. Agravo interno parcialmente provido.
+(AgInt nos EDcl no REsp n. 1.834.963/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/5/2020, DJe de 13/5/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECOLHIMENTO DE CUSTAS. AUSÊNCIA. CANCELAMENTO DA DISTRIBUIÇÃO. INTIMAÇÃO. DESNECESSIDADE.
+1. Ação civil pública, em fase de cumprimento individual de sentença, na qual se discute expurgos inflacionários.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Não ocorre ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Devidamente analisada e discutida a questão relativa ao pagamento das custas do cumprimento de sentença, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional quanto ao tema, não há que se falar em violação do art. 489 do CPC/2015.
+5. Consoante jurisprudência firmada sob o rito dos recursos especiais repetitivos, "cancela-se a distribuição da impugnação ao cumprimento de sentença ou dos embargos à execução na hipótese de não recolhimento das custas no prazo de 30 dias, independentemente de prévia intimação da parte" (REsp 1.361.811/RS, Corte Especial, DJe de 6/5/2015).
+6. Agravo interno nos embargos de declaração no agravo em recurso especial não provido.
+(AgInt nos EDcl no AREsp n. 1.698.492/BA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECOLHIMENTO DE CUSTAS INICIAIS EM EMBARGOS À EXECUÇÃO. INÉRCIA. INTIMAÇÃO PESSOAL. DESNECESSIDADE. PEDIDO DE PRAZO PELA PARTE PARA PAGAMENTO. INÉRCIA. DISTRIBUIÇÃO. CANCELAMENTO. JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.470.877/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/2/2017, DJe de 20/2/2017.)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PROCURAÇÃO. OBSERVÂNCIA DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. INDEFERIMENTO. FACULDADE JUIZ. CANCELAMENTO DISTRIBUIÇÃO. FALTA PAGAMENTO CUSTAS. DESNECESSIDADE INTIMAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO.
+1. É desnecessária a juntada de cópia de todas as procurações outorgadas pela parte agravada se regularmente intimada para contraminutar.
+2. O pedido de assistência judiciária gratuita implica presunção relativa, que pode ser afastada se o magistrado entender que há fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado. Precedentes.
+3. O benefício da justiça gratuita pode ser concedido às pessoas jurídicas apenas se comprovarem que dele necessitam. Precedentes.
+4. É desnecessária a intimação pessoal da parte para que o magistrado determine o cancelamento da distribuição por falta de pagamento de custas. Precedentes.
+5. Dissídio jurisprudencial não configurado. Súmula n. 83/STJ.
+6. Agravo regimental desprovido.
+(AgRg no Ag n. 1.363.777/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/8/2011, DJe de 22/9/2011.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
