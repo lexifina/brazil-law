@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto porADIR JOSÉ LIMAem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE.CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.
+I. Nulidade da citação. Não ocorrência. Comunicação enviada para o endereço do executado constante do contrato celebrado entre as partes. Citação recebida, sem ressalvas, no endereço antigo. Aplicação do artigo 248, § 4º, do CPC.
+Teoria da aparência. Precedentes.
+II. Bloqueio de valor depositado em conta salário titularizada pelo devedor, em que recebe proventos de aposentadoria. Insurgência. Cabimento parcial. Reconhecida a impenhorabilidade tão somente do valor equivalente aos proventos de um mês. Art. 833, IV, CPC. Precedentes.
+AGRAVO PARCIALMENTE PROVIDO."(fl. 336).
+Os embargos de declaração foram rejeitados (fls. 385-388).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 248, § 4º, e 489, § 1º, IV e V, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em síntese, (a) a ausência de fundamentação do acórdão recorrido; e (b) a nulidade da citação, pois a teoria da aparência não se aplica quando a parte não mais reside no endereço em que foi supostamente citada.
+Apresentadas contrarrazões ao apelo nobre (fls. 413-418).
+É o relatório.
+De início, quanto à alegada violação do art. 489, § 1º, IV e V, do CPC/15, sobre a ausência de fundamentação do aresto estadual,verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora agravante tenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+O eg. Tribunal de origem consigna que "ajuizada a ação de cobrança, foi enviada citação para o endereço constante do contrato entabulado entre as partes (cf. fls. 25/35). A citação foi recebida sem qualquer ressalva e não houve a devolução posterior da correspondência.Sustenta o agravante que se mudara para outro estado no ano de 2014, antes do ajuizamento da ação de cobrança.Não se verifica, entretanto, qualquer nulidade na citação tal como realizada.Isso porque, como bem decidido em primeiro grau, se aplica à hipótese o artigo 248, § 4º, do CPC, nos seguintes termos: "Nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente".Aplica-se, portanto, sem maiores delongas, a Teoria da Aparência."(fls. 338-339).
+Ocorre que o acórdão recorrido está em consonância com a jurisprudência desta Corte, a qual interpreta que "o Código de Processo Civil de 2015, em seu art.248,§ 4º, traz regra no sentido de admitir como válida acitaçãoentregue a funcionário de portaria responsável pelo recebimento de correspondência (..)" - (AgInt no AREsp 913.878/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/09/2019, DJe 04/10/2019).
+Nesse sentido, confira-se também:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALIDADE DA CITAÇÃO POSTAL. RECEBIMENTO POR PESSOA QUE TRABALHA NO LOCAL. TEORIA DA APARÊNCIA.
+1. A jurisprudência desta Corte acolhe a teoria da aparência, conferindo validade à citação recebida no endereço do devedor, mesmo que por pessoa que não tenha poderes expressos para tal.
+2. No caso, o Tribunal de origem foi peremptório ao registrar que a citação postal foi encaminhada ao escritório comercial do devedor e recebida por indivíduo que presumidamente ali trabalha, razão pela qual considerou, ante a teoria da aparência, ser possível conferir licitude ao ato processual.
+3. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem para aferir a validade da citação realizada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial."
+(AREsp n. 1.450.082/SP, relator Ministro Benedito Gonçalves, relator para acórdão Ministro Sérgio Kukina, Primeira Turma, julgado em 27/4/2021, DJe de 24/5/2021.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
