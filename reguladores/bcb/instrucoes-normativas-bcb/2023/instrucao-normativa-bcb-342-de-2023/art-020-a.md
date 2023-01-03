@@ -1,0 +1,5 @@
+Art. 20-A. O pedido de autorização para participação, de forma direta ou indireta, no capital social de quaisquer sociedades, constituídas ou a serem constituídas, sediadas no País ou no exterior, deve ser instruído com os seguintes documentos:
+I - requerimento, na forma do modelo Sisorf 8.20.10.18;
+II - justificativa fundamentada que comprove que a entidade objeto da participação societária exerce atividades complementares ou subsidiárias às da instituição detentora da participação, na forma do Anexo IV, exceto no caso de participação societária em instituições supervisionadas pelo Banco Central do Brasil ou de participação societária em instituições financeiras ou assemelhadas sediadas no exterior que configure controle;
+III - justificativa fundamentada que comprove a adequação à estratégia operacional da instituição, no caso de participação societária em instituições financeiras ou assemelhadas sediadas no exterior que configure controle, na forma do Anexo IV;
+IV - declaração, no modelo Sisorf 8.20.10.18, de que os limites operacionais estabelecidos na regulamentação em vigor continuarão sendo atendidos após a efetivação da participação.
