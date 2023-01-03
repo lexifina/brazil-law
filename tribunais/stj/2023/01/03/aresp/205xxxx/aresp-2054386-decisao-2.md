@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial fundado no art. 105, III, a, da Constituição Federal, interposto por CARLOS HIROITI OKAcontra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+COMPROMISSO DE COMPRA E VENDA. ILEGITIMIDADE PASSIVA. Atraso na conclusão da obra. Rescisão contratual e devolução de valores. Credor fiduciário que não integrou a compra e venda, atuando apenas como credor em razão do contrato de financiamento para a construção do empreendimento. Banco que prestou o serviço contratado e não tem ingerência sobre as finanças da incorporadora. Devolução de valores que decorre de conduta exclusiva da vendedora incorporadora, ou seja, atraso na entrega da obra, responsabilidade que não pode ser transferida ao banco credor.
+Sentença parcialmente reformada para julgar improcedente a ação em relação ao corréu, credor fiduciário. Fixação de honorários advocatícios em favor do corréu. Recurso parcialmente provido.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts. 7º, parágrafo único, 14, 18 e 47 do Código de Defesa do Consumidor e19, §1º da Lei 9.514/97. Sustenta, em síntese, que "embora o banco Recorrido não tenha assumido as obrigações de construir o imóvel, deve responder solidariamente pela rescisão contratual nos termos do artigo 7º, parágrafo único, do Código de Defesa do Consumidor, tendo em vista que se beneficiou diretamente dos pagamentos referente ao financiamento." (fl. 578).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quanto à legitimidade da instituição financeira para responder solidariamente pelos danos causados, a Corte de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+"Divergem autor e corréu Banco Pan S/A quanto à responsabilidade solidária da instituição financeira, ante o atraso e paralisação da obra.
+Em que pese a argumentação do autor, não há que se falar em obrigação solidária do banco réu, pois não participou do compromisso de compra e venda, sendo mero credor das prestações que lhe foram alienadas fiduciariamente pela incorporadora, nos termos da Lei nº 9.514/97, que permite o recebimento direto dos devedores, nos termos do art. 19, IV:
+(..)
+Assim, o Banco apelante tem o direito de receber dos devedores os créditos cedidos fiduciariamente, mas não tem obrigação de devolver valores ao autor, porquanto a inadimplência é da vendedora, não do credor fiduciário apelante.
+Ressalte-se, ainda, que do contrato de parceria comercial colacionado pela parte autora consta que a devedora Parque Gabriel Residencialle seria a responsável pela construção do empreendimento, enquanto que à credora Brazilian Mortgages caberia a concessão de financiamento para a edificação do empreendimento incorporado pela devedora (fls.62/87).
+Inaplicável, por consequência, a teoria do risco proveito, ou o reconhecimento de responsabilidade solidária da apelante.
+No caso, a devolução de valores decorre de conduta exclusiva da vendedora incorporadora, ou seja, atraso na entrega da obra, responsabilidade que não pode ser transferida ao banco credor.
+Assim, não há que se falar em responsabilidade solidária do banco, pois ele prestou o serviço contratado (financiamento), sem qualquer defeito, não podendo ser responsabilizado pela rescisão do contrato ou pela restituição de valores pagos, sob pena de enriquecimento sem causa.
+Além disso, o banco não tem ingerência sobre as finanças da construtora, cuja questionável administração levou a não conclusão do empreendimento."
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu que "a devolução de valores decorre de conduta exclusiva da vendedora incorporadora, ou seja, atraso na entrega da obra, responsabilidade que não pode ser transferida ao banco credor.Assim, não há que se falar em responsabilidade solidária do banco, pois ele prestou o serviço contratado (financiamento), sem qualquer defeito, não podendo ser responsabilizado pela rescisão do contrato ou pela restituição de valores pagos, sob pena de enriquecimento sem causa." (fl. 561).
+Nesse contexto, tem-se que a pretensão de modificar o entendimento firmado, quanto à legitimidade e responsabilidade da instituição bancária, demandaria revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Sumulas 7 e 5 do STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. IMÓVEL. ENTREGA. ATRASO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ILEGITIMIDADE DA CEF. AGENTE FINANCEIRO. ATUAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do tribunal de origem, que, com base em detida análise do contrato firmado entre as partes, entendeu que a CEF atuou exclusivamente na qualidade de agente operador do financiamento, atrai os óbices das Súmulas nºs 5 e 7/STJ.
+4. Consoante o entendimento firmado pelo Superior Tribunal de Justiça, a CEF, nas hipóteses em que atua na condição de agente financeiro sem sentido estrito, não possui legitimidade para responder por danos na obra financiada.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.663.524/RN, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/10/2020, DJe de 29/10/2020.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de R$1.500,00 (mil e quinhentos reais) para R$ 1.650,00 (mil seiscentos e cinquenta reais), observada eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
