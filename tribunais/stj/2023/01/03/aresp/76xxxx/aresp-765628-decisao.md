@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por PIETRO EVANGELISTA FILHOcontra decisão que não admitiurecurso especial, com fundamento no art. 105,III, a, da Constituição Federal, desafiando acórdão doTribunal de Justiça do Estado de São Paulo, assim ementado (fl. 293):
+APELAÇÃO COM REVISÃO - Anulatória de título de Crédito - Indenização -devolução de cheque - Danos morais - ausência de culpa - procedência parcial - Sentença mantida - recurso não provido.
+Opostos embargos de declaração, foram rejeitados (fl. 310):
+EMBARGOS DE DECLARAÇÃO - Recurso com escopo exclusivamente infringente, visando a instaurar nova discussão sobre questões já apreciadas - Inadmissibilidade - Prequestionamento - Embargos rejeitados.
+Alega o recorrente que há omissão no julgamento, violando o art. 535, II, do CPC/1973, já que não teria sido decidida a questão da praxeque é adotada no mercado acerca de fatos semelhantes, ou seja, que o estabelecimento comercial (Baby Beef) recebeu o chequesem qualquer averiguação, diferentemente do que é adotado por outras empresas. O julgamento antecipado da lide teria impedidoa produção de prova a esse respeito, havendo cerceamento de defesa.
+No mérito, diz que foi vulnerado o art. 335 do CPC/1973, argumentando que deveria terem sido aplicadasas regras da experiência comum subministradas pela observação do que ordinariamente acontece.
+Salienta que a adoção, para o seu caso, de praxe que não condiz com o que usualmente é praticado por outras empresas é que deu ensejo ao protesto indevido do cheque, cártula que não teria sido emitida pelo recorrente e nem sequer refere-se à sua conta bancária.
+Foram apresentadas contrarrazões (fls. 331-335).
+A inadmissão doespecial se deu pela consideração de que não houve omissão; não foi demonstrada a violação de lei federal e queincide a Súmula 7/STJ.
+É o relatório. Decido.
+A súplica foi interpostana vigência do CPC/1973 e as razões do agravo (fls. 341-366) impugnam os fundamentos da decisão que não admitiu o especial, recurso que passa a ser analisado.
+Colhe-se do acórdão recorrido o seguinte (fls. 294-295):
+Tendo a sentença analisado corretamente as questões suscitadas pelas partes, desnecessária a repetição pormenorizada dos termos nela dispostos, impondo-se a aplicação da norma acima mencionada.
+A ocorrência de cerceamento de defesa alegada pelo apelante não merece acolhida.
+O conjunto probatório existente nos autos foi suficiente para formar a convicção do Juízo a quo quanto à solução a ser adotada na presente lide.
+A sentença prolatada não padece de vício capaz de gerar sua nulidade.
+A prova carreada aos autos foi bem avaliada. A procedência parcial da ação contra a qual se insurge o apelante decorre tão somente da análise dasprovas trazidas aos autos.
+Nesse passo, inexiste sequer indício de culpa na conduta das corrés Baby Beef e M & Office na cobrança do título falso atribuído ao apelante. Das corrés não seria possível exigir a conferência dos dados bancários constantes do cheque objeto desse feito. Eventual conduta irregular, observada na sentença apelada, poderia ser imputada ao banco sacado que procedeu à devolução do título sem constatar sua falsidade, pois o apelante sequer é titular da conta bancária sacada.
+A sentença recorrida ressaltou:
+".. Embora o banco afirme não ter localizado a conta a que o referido cheque, há carimbo do próprio Banco Santander, aposto no verso deste, pelo motivo 12. (f1.57).Conclui-se, pois, pela falha do banco.
+Primeiro, devolve o cheque pelo motivo 12, conforme carimbo no verso do título a fl.57. Depois, quando oficiado, responde não ter localizado aquele número de cheque e informa que o autor é titular de outra conta, diversa da que corresponde o cheque apontado para protesto.."(folha 178).
+O Juízo a quo agiu com acerto ao observar a conduta de cada uma das partes, reconhecendo a ilegitimidade de parte do Tabelião, a ausência de culpa das demais rés, bem como a nulidade do título cuja emissão foi atribuída ao apelante.
+Por tais motivos, a sentença recorrida não merece reparo.
+Éassente nesta Corte o entendimento de que não é omisso e nem desfundamentado o julgado que decide a contenda, ainda que em sentido contrário à pretensão da parte, notadamente quando, como no caso concreto, os fundamentos expendidos bastam a justificar as conclusões adotadas.
+Assim, exemplificativamente, seguem os arestos:
+PROCESSO CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PREQUESTIONAMENTO. FUNDAMENTO NÃO ATACADO. CONSUMIDOR. CARACTERIZAÇÃO DA RELAÇÃO DE CONSUMO. SUCUMBÊNCIA MÍNIMA.
+I - Por aplicação analógica do art. 515, § 1º, do Cód. de Proc. Civil, é possível, em determinadas situações, mormente em processos de vários lustros, conhecer, neste Tribunal, de matéria não enfrentada pelo Tribunal de origem em Embargos de Declaração, desde que tenha havido válido contraditório como garantia das partes (CF, art. 5º, LV).
+II - Cumpre ao recorrente, nas razões do próprio especial, evidenciar de forma articulada os vícios de omissão, contradição e obscuridade que alega presentes no Acórdão recorrido.
+III - Não se viabiliza o especial pela indicada ausência de prestação jurisdicional, porquanto verifica-se que a matéria em exame foi devidamente enfrentada, emitindo-se pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão dos recorrentes. A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+IV - A jurisprudência desta Corte tem adotado o critério do destinatário final do produto ou serviço para a caracterização do consumidor. Precedentes.
+VI - Não merece conhecimento o recurso especial quanto ao ponto em que deixa de atacar de forma fundamentada todos os fundamentos suficientes do Acórdão. Incidência da Súmula 283 do Supremo Tribunal Federal.
+VII - No que concerne à alegada ofensa do artigo 21 do Código de Processo Civil, observa-se que o Tribunal de origem ratificou sentença que havia condenado a recorrente à integralidade dos ônus sucumbenciais por identificar hipótese de sucumbência mínima. A pretensão recursal de que sejam repartidos os referidos encargos esbarra, portanto, na Súmula 7 desta Corte. Precedentes.
+Recurso Especial improvido.
+(REsp n. 956.695/RS, relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/12/2009, DJe de 18/12/2009)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE SEGUIMENTO DE PARTE DO ESPECIAL. ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CPC. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. NOVO RECURSO DIRIGIDO AO STJ. NÃO CONHECIMENTO. 2. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. OMISSÃO. ART. 535, II, DO CPC/1973. NÃO CARACTERIZAÇÃO. 3. "ASTREINTES". TERMO FINAL. CONFIRMAÇÃO POR SENTENÇA. INOVAÇÃO RECURSAL. 4. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE PARA SUA MANUTENÇÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. É inadmissível recurso dirigido ao STJ contra acórdão do Tribunal local que, no julgamento de agravo interno, mantêm a decisão de negativa de seguimento de recurso especial anterior, por considerar que o entendimento da está de acordo com a orientação firmada no julgamento de recurso especial repetitivo.
+2. Não há omissão quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como ora verificado.
+3.1. Ao contrário do alegado, não houve revogação da tutela antecipada, e sim sua confirmação pela sentença, motivo pelo qual não prospera a tese de inexigibilidade da multa diária a partir de sua prolação.
+3.2. Tese não tratada pelo acórdão recorrido nem arguida no recurso especial (ou exposta em suas contrarrazões) e invocada apenas em recurso posterior não pode ser examinada, em virtude da preclusão consumativa.
+4. O especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 914.643/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/5/2022, DJe de 2/6/2022)
+Dissodecorre, consequentemente, a falta de prequestionamento em relação à matéria do art. 335 do CPC/1973, já que não estava e não está o Tribunal de origem obrigado a se manifestarsobre otema.Incide a Súmula 211/STJ.
+Ainda que assim não fosse, tem-se que a culpa pelo protesto indevido do cheque, que sequer teria sido emitido pelo ora recorrente, é do banco e não das pessoas colocadas pelo autor, ora recorrente, no polo passivo da demanda, conforme decidido na instância originária. Trata-se de matéria de prova, que não se submete ao crivo do especial, ante o veto da Súmula 7/STJ.
+Em casos análogos, já decidiu este Tribunal Superior, guardadas as devidas particularidades:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. INSCRIÇÃO INDEVIDA NA SERASA. AUSÊNCIA DE CULPA DO BANCO. REVISÃO DA PROVA. SÚMULA 7/STJ.
+I - A exigência de prova de dano moral se satisfaz com a demonstração da existência de inscrição indevida no cadastro da SERASA.
+II - Responde o banco pelos danos morais causados pela devolução indevida de cheque, quando o acórdão do tribunal local conclui pela sua culpa. Inviabilidade de revisão do quadro fático nesta esfera recursal. (Súmula 7/STJ).
+III - É possível a intervenção desta Corte para reduzir ou aumentar o valor indenizatório por dano moral apenas nos casos em que o quantum arbitrado pelo acórdão recorrido se mostre irrisório ou exagerado, situação que não ocorreu no caso concreto.
+Agravo regimental a que se nega provimento.
+(AgRg no Ag n. 733.018/RS, relator Ministro PAULO FURTADO (DESEMBARGADOR CONVOCADO DO TJ/BA), TERCEIRA TURMA, julgado em 4/6/2009, DJe de 17/6/2009)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. AÇÃO INDENIZATÓRIA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COMPROVAÇÃO DOS FATOS ALEGADOS. CULPA PELA INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VALOR DOS DANOS MORAIS. PROPORCIONALIDADE E RAZOABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2.1. O CPC/2015, em seus artigos 370 e 371, manteve o princípio da persuasão racional, reafirmando que compete ao magistrado dirigir a instrução probatória. A análise das razões da agravante, a respeito de a parte ter ou não ter se desincumbido de seu ônus probatório e de ser errônea a distribuição de tal ônus, demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+2.2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela culpa da recorrente pela apresentação e reapresentação indevida do cheque da recorrida - o que provocou a inscrição do nome da autora em cadastros de restrição ao crédito. Alterar tal conclusão é inviável em recurso especial.
+2.3. A jurisprudência do STJ entende razoável a condenação ao equivalente a até 50 (cinquenta) salários mínimos por dano moral decorrente de inscrição indevida em órgãos de proteção ao crédito.
+Esta Corte admite o afastamento da Súmula n. 7 do STJ para possibilitar a revisão da indenização somente quanto o valor não observar os princípios da razoabilidade e da proporcionalidade. O "quantum" estabelecido pelo acórdão recorrido não se mostra exorbitante, a justificar sua reavaliação em recurso especial.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.700.002/SC, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/10/2020, DJe de 26/10/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
