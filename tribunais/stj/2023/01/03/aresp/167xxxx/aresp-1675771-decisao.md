@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal Federal da 4ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE ELEMENTOS NOVOS. Ausente fato ou fundamento novo, capaz de infirmar a decisão hostilizada via agravo interno, esta deve ser mantida pelos seus próprios fundamentos" (e-STJ, fl. 56)
+Nas razões do recurso especial, o agravante alega violação aos arts. 119 do Código de Processo Civil de 2015, art. 3º, §1º da Lei 10.259/11, e divergência jurisprudencial sustentando, em síntese, (a) que a competência para julgar a presente demanda é da Justiça Federal e não do Juizado Especial Federal, (b) que a CEF foi admitida para figurar no polo passivo, independentemente da comprovação do comprometimento do FCVS ou de demonstrar interesse jurídico, o que diverge do entendimento deste STJ, que aponta ser possível o ingresso da CEF apenas como assistente simples e não como litisconsorte necessário, (c) que a modificação de competência deu-se em razão da admissão da CEF como integrante da demanda sem a prova dos requisitos e comprovação documental de seu interesse, (d) que o valor da causa possui mera presunção de valores, devendo ser realizada prova pericial antes de alterar o rito processual e (e) que o presente caso trata de direito coletivo, o que retira a competência do Juizado Especial Federal.
+Contrarrazões apresentadas às fls. 107/120.
+É o relatório. Passo a decidir.
+Conforme consta no Ofício de fls. 185/187 e em consulta ao sítio eletrônico do eg. TRF da 4ª Região, verifica-se que houve o trânsito em julgado da ação de conhecimento em 17/02/2021.
+Nesse contexto, considerando tratar-se na origem de agravo de instrumento, tem-se que o presente recurso especial encontra-se prejudicado, pela perda superveniente de objeto, revelando-se inútil, portanto, o seu julgamento.
+Do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial pela superveniente perda de objeto.
+Publique-se.
