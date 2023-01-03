@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado em face de decisão que negou seguimento ao recurso especial, interposto por ELAINE CRISTINA DE CARVALHO com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 159):
+FALÊNCIA. REABILITAÇÃO DE FALIDO. Pedido de extinção das obrigações do falido. Existênciade execução fiscal. Apelante que pretende a liberação do encargo sem prova de quitação dos tributos municipais, estaduais e federais. Impossibilidade. Obrigatoriedade. Inteligência do art. 191 do CTN e art. 158 da Lei 11.101/05. Recurso não provido.
+Em suas razões, a recorrente aponta violação dos arts. 158 da Lei 11.101/05; 135, IV, do Decreto-Lei 7.661/45; 187, 191 do CTN, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que "não há como se exigir a comprovação da quitação das obrigações fiscais, uma vez que tal exigência não restou configurada no artigo 158 da Lei 11.101/05, bem como não existia previsão no art. 135 do Decreto-lei 7.661/45" - (fl. 174).
+É o relatório.
+Observo, ab initio, que a pretensão da recorrente envolve discussão de natureza tributária, refoge ao âmbito da competência das Turmas de Direito Privado. Assim, entrelaça-se com matéria de competência de uma das Turmas que compõem a Primeira Seção, conforme orientação do RISTJ, art. 9º, IX.
+Aliás, registre-se que caso semelhante foi recentemente analisado pelo Ministro Herman Benjamin, senão vejamos:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. FALÊNCIA. EXECUÇÃO FISCAL ANTERIORMENTE AJUIZADA. HABILITAÇÃO DE CRÉDITO TRIBUTÁRIO. INTERESSE DE AGIR. INTELIGÊNCIA DOS ARTS. 187 DO CTN E 29 DA LEI 6.830/1980. NÃO ENQUADRAMENTO NA HIPÓTESE DO ART. 267, VI, DO CPC/1973.
+1. A Corte de origem entendeu que "possuindo a União Federal a prerrogativa de escolher entre receber seu crédito por meio da execução fiscal ou pela habilitação de crédito, ao optar pela adoção um procedimento, consequentemente renunciará ao outro".
+2. A prejudicialidade do processo falimentar para a satisfação do crédito tributário não implica a ausência de interesse processual no pedido de habilitação do crédito tributário ou na penhora no rosto dos autos.
+3. A necessidade de aguardar o término da ação de falência para eventual satisfação do seu crédito não retira da credora/exequente a faculdade de optar por ambas as vias de cobrança: habilitação no processo falimentar e ajuizamento da execução fiscal.
+4. A tentativa de resguardar o interesse público subjacente à cobrança de tal espécie de crédito, através do ajuizamento da execução fiscal e de habilitação no processo falimentar, não encontra óbice na legislação aplicável. Inteligência dos arts. 187 do CTN e 29 da Lei 6.830/1980.
+5. Em caso da existência de processo falimentar, eventual produto da alienação judicial dos bens penhorados deve ser repassado ao juízo universal da falência.
+6. Recurso Especial provido, determinando-se a devolução dos autos ao Tribunal de origem para julgamento da apelação." (REsp 1.729.249/SP, Relator o Ministro Herman Benjamin, DJe de 19/11/2018)
+Diante do exposto, determino a redistribuição deste feito a um dos eminentes Ministros que compõem a eg. Primeira Seção.
+Publique-se.
