@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Exceção de suspeição. O Tribunal de Justiça já rejeitou anterior e idêntica arguição, o que foi confirmado no STJ (AgInt. no AREsp.1494980). Inadmissibilidade de aceitar a nova investida com os mesmos e absurdos motivos. Arrematação legal. Embora o edital do leiloeiro tenha informado que admitiria lance até 50% do valor da avaliação e a decisão tenha previsto 60%, a venda se fez por quantia superior a 60%. O fato de constar da arrematação que o leilão teria se encerrado às 14:45h e o histórico de lances informe que a proposta vencedora foi inserida às 15:03h, não importa prejuízo, mas, sim, vantagem patrimonial aos interessados. Não ocorreu impugnação oportuna e a prorrogação se fez para obter melhor proveito do ato judicial. Mera irregularidade formal. Nega-se provimento para confirmar a arrematação."(e-STJ, fl. 121)
+Nas razões do recurso especial, a agravante alega violação aos arts. 166, incisos IV e V e 167, §1º, incisos II e III, 168 parágrafo único e 169 do Código Civil de 2002 e 139, inciso VI e parágrafo único do Código de Processo Civil de 2015, sustentando, em síntese, (a) queo leilão foiprorrogado mesmo sem previsão editalícia, (b) que o horário foi lançado de modo simulado pelo leiloeiro e o preço mínimo fixado foi desrespeitado, havendo lance vil, (c) que não se trata de mera irregularidade, mas nulidades insuscetíveis de confirmação e (d) que deve ser concedida gratuidade de justiça no presente caso.
+Contrarrazões às fls. 139/140.
+É o relatório. Passo a decidir.
+Inicialmente, mantenho a gratuidade de justiça concedida à fl. 141.
+Quanto a suposta violação aos arts. 166, IV e V, 167, §1º, II e III, 168, parágrafo único e 169 do CC/02 139, VI e parágrafo único do CPC/15, tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foram objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
