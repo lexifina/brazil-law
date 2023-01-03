@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 408-415) interposto por ASSOCIAÇÃO COMERCIAL DE SÃO PAULO contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional em face de v. acórdão assim ementado (fls. 191):
+"INSCRIÇÃO DO NOME EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO ORIUNDA DE INFORMAÇÃO EXTRAÍDA DO CARTÓRIO DE PROTESTO - MANUTENÇÃO POR PRAZO MÁXIMO DE CINCO ANOS, CONTADOS DO PRIMEIRO DIA SEGUINTE À DATA DO VENCIMENTO DA DÍVIDA - PERMANÊNCIA, NO CASO, POR TEMPO SUPERIOR AO QUINQUÊNIO - CANCELAMENTO DETERMINADO - DANO MORAL, PORÉM, NÃO CONFIGURADO, ANTE INFORMAÇÃO DE OUTRAS ANOTAÇÕES CUJA INCORREÇÃO OU DESATUALIZAÇÃO NÃO FORAM DEMONSTRADAS - AÇÃO PROCEDENTE EM PARTE - APELAÇÃO PARCIALMENTE PROVIDA."
+Os embargos de declaração opostos por ambas as partesforam rejeitados, nos termos dos vv. acórdãos de fls. 398-300 e fls.313-315.
+Nas razões do apelo nobre (fls. 318-332), ASSOCIAÇÃO COMERCIAL DE SÃO PAULOalega, além de divergência jurisprudencial, violação aoart. 373, II, CPC/15; ao art. 43, §1º, do Código de Defesa do Consumidor (CDC); e ao art.26 da Lei n. 8.935/94 ao argumento, entre outros, de que "(..)atuou no negócio apenas como arquivista e não como titular do crédito supostamente inadimplido. Até porque, no que tange aos títulos de crédito protestados, o dever de cancelamento incumbe a quem insere a informação, ou seja, ao credor, ou, ao maior interessado que é, indiscutivelmente o devedor. Ainda, a partir do momento em que a conduta da recorrente limita-se unicamente a dar publicidade a uma informação que já épública, e não a divulgar ao mercado uma nova informação, não há que se falar em responsabilização do órgão arquivista" (fls. 324 - destaques no original).
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 364-366), motivando o manejo do agravo em recurso especial (fls. 408-415) em testilha.
+É o relatório. Passo a decidir.
+No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreados aos autos, concluiu pelo cancelamento da inscrição do nome do ora Agravado em cadastro de proteçãoao crédito, conforme v. acórdão do qual se transcreve oseguinte excerto (fls. 192):
+"Na dicção do art. 43, § 1º, do Código de Defesa do Consumidor: "Os cadastros e dados de consumidores devem ser objetivos, claros, verdadeiros e em linguagem de fácil compreensão, não podendo conter informações negativas referentes a período superior a cinco anos".
+Outrossim, o enunciado da Súmula nº 323 do STJ, em sua nova redação, dispõe que: "A inscrição do nome do devedor pode ser mantida nos serviços de proteção ao crédito até o prazo máximo de cinco anos, independentemente da prescrição da execução".
+E o STJ vem decidindo que o termo inicial do limite temporal de cinco anos em que a dívida pode ser inscrita no banco de dados de inadimplência é contado do primeiro dia seguinte à data de vencimento da dívida (REsp 1.630.889/DF, DJe 21.09.2018, e REsp 1.630.659/DF, DJe 21.09.2018, Relatora de ambos a Ministra Nancy Andrighi; REsp 1.316.117/SC, Relator para acórdão Ministro Paulo de Tarso Sanseverino, DJe 19.08.2016).
+No caso, o autor teve uma cédula de crédito bancário protestada em seu nome em 26.03.2013, no Tabelião de Protesto de Letras e Títulos de Santo André, a qual vencera em 04.03.2012 (fls. 19). Assim sendo, o prazo máximo de permanência dessa informação no serviço de proteção ao crédito se esgotaria em 05.03.2017, cinco anos do primeiro dia seguinte à data do vencimento da dívida. A ré, contudo, ao divulgar a existência do protesto em nome do autor omitiu a data do vencimento da dívida e manteve essa anotação além do prazo máximo de cinco anos permitido por lei para manutenção do nome nos órgãos de proteção ao crédito, pois em 02.08.2017 ainda constava essa inscrição negativa em seu banco de dados (fls. 16), devendo, pois, ser cancelada.
+Apesar do dever de cancelamento, não há dano moral a indenizar, sem demonstração de que outras anotações de débito informadas no cadastro, independentemente da data em que se tornaram disponíveis, estejam incorretas ou sem a devida atualização:
+(..)" (g, n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Avançando, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da aludida Súmula também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DANO MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1815468/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+(..)
+4. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1761381/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
