@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto porCOOPERATIVA DE USUÁRIOS DO SISTEMA DE SAÚDE DE CAMPINAS, com fundamento no art. 105, III, aec, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Medida cautelar - Sustação de protesto - Deferimento da medida, mediante caução em dinheiro - Possibilidade - Discricionariedade do julgador, que pode ser abrandada, não lhe retirando o controle da idoneidade da caução - Inteligência da Súmula 16, desta Corte de Justiça - Decisão mantida - Recurso improvido." (e-STJ, fl. 504)
+Opostos embargos de declaração, foram acolhidos, sem alteração do julgado, apenas para constar que não se divisa a alegada nulidade da decisão agravada, por ausência de fundamentação, mantendo-se os demais termos tais como lançados. (e-STJ, fl. 150/152)
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 11 e 300, §1º, do NCPC; e 93da CF.Sustenta, em síntese, as seguintes teses: a)falta de fundamentação quanto ao argumento de não possuir patrimônio para garantir o juízo; b) "Impor a caução da parte que não reconhece a divida, é cercear o direito à prestação jurisdicional, além de gerar graves danos, haja vista que terá seu crédito negado com base na restrição junto ao Cartório de Protesto, SERASA e SPC, o que impossibilitaria adquirir remédios produtos e serviços de modo parcelado." (e-STJ, fl. 161)
+É o relatório. Decido.
+O recurso merece provimento.
+Da análise dos autos, verifica-se que o colendo Tribunal de origem, não obstante provocado, deixou de examinar questão essencialao deslinde da controvérsia, conforme instado em sede de embargos de declaração, quanto à alegada ausência de patrimôniopara a garantiado juízo, com a possibilidade deser dispensada a caução nos termos do art. 300, §1º, do CPC.
+Há, portanto,ausência de enfrentamento da questão posta pela parte agravante, que se mostra essencial para o deslinde da controvérsia, sendo indispensável, portanto, a devida prestação jurisdicional, especialmente porque possui natureza fático-probatória e, por tal razão, não poderia ser enfrentada a referida tesena via estreita do recurso especial, diante do óbice da Súmula 7/STJ.
+Nessa perspectiva, deixando a Corte local de examinar questão essencial ao desate da presente controvérsia, fica caracterizada a violação do art. 11 do CPC/2015. Nessa linha de intelecção, destaca-se o seguinte julgado:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. LIMITAÇÃO DE COBERTURA. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD) E INVALIDEZ LABORATIVA PERMANENTE TOTAL POR DOENÇA (ILPD). INTERPRETAÇÃO RESTRITIVA. APOSENTADORIA. ÓRGÃO PREVIDENCIÁRIO. PERÍCIA. NECESSIDADE.
+(..)
+4. O acórdão recorrido não se manifestou sobre questões essenciais para o julgamento da causa, pressuposto indispensável para o exame do recurso especial, motivo pelo qual reconhece-se a ofensa ao art. 535 do Código de Processo Civil.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 952.515/SC, Relatora a Ministra MARIA ISABEL GALLOTTI, DJe de 2/6/2017)
+Outrossim, mister acrescentar que, em razão do reconhecimento da preliminar de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões articuladas nas razões recursais.
+Diante do exposto,dou parcial provimento ao recurso especial, para reconhecer a violação do art. 11 do CPC/2015, de modo a determinar o retorno dos autos ao Tribunal de Justiça para novo julgamento dos embargos de declaração, a fim de que seja enfrentada a questão exposta alhures.
+Publique-se.
