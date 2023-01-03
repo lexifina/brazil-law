@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por ALTEMAR VOLPATO, com fundamento no art. 102, III, a, da Constituição Federal, contraacórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 595):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N.182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Hipótese da Súmula n. 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+3. Agravo interno não conhecido.
+No recurso extraordinário às fls. 605-622, aparterecorrentesustentaque teria havidoviolação dos arts. 5º, XXXV e LIV, e 93, IX,da CFe que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que faria jus ao benefício da justiça gratuita, notadamente em razão do elevado valor do preparo recursal.
+Argumenta que (fl. 610):
+ ..  a renda do recorrente, que é comerciante, restou severamente reduzida em razão dos efeitos danosos notórios da PANDEMIA COVID 19 sobre seus negócios no Município de Campina Grande do Sul/PR. Deste modo, resta imprescindível a concessão dos benefícios da assistência judiciária gratuita, ante a impossibilidade de arcar com o valor de preparo recursal, que supera a quantia de R$ 8.000,00 (oito mil reais).
+Considera que as decisões impugnadas teriam negado vigência à Lei n. 1.060/1950 e aos arts. 98 e 99 do Código de Processo Civil, o que permitiria o seguimento do recurso especial.
+Alega que haveria dissenso jurisprudencial sobre o tema, circunstância que também revelaria o cabimento do recurso especial, de modo que o seu não conhecimento caracterizaria negativa de prestação jurisdicional.
+Pondera que as provas contidas nos autos teriam sido equivocadamente valoradas.
+Considera que os acórdãos proferidos nos autos careceriam de fundamentação idônea.
+Requer, ao final, a admissão do recurso, bem como aremessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 632-639.
+É o relatório.
+A insurgência não tem como prosperar.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais o colegiado não conheceu do agravo interno, em razão da deficiência da impugnação recursal, valendo destacar os seguintes trechos (fls. 597-599):
+A decisão impugnada aplicou a Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia") às alegações de vício de fundamentação e de violação à Lei n. 1.060/1950. A parte não infirma qualquer aspecto desse ponto da decisão.
+No que tange à Súmula n. 7/STJ, ela foi aplicada quanto aos dispositivos do CPC, tanto na insurgência pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição da República.
+Com respeito a esses dispositivos (arts. 98 e 99 do CPC), afirmou-se na decisão agravada (e-STJ, fls. 551-552):
+Quanto aos arts. do CPC, o Tribunal de origem se manifestou nos seguintes termos:
+2 - A decisão que indeferiu o pedido de gratuidade fica mantida (fls. 291).
+Apesar de todo o processado e da insistência do embargante, não se pode reconhecer a hipossuficiência de quem possui propriedade rural com serviços de terraplenagem e venda parcial, estimada em R$ 270.000,00 e é sócio de empresas de produtos agropecuários e de produto para animais, tudo conforme especificado na declaração de bens enviada à Receita Federal e constantes de fls. 22 e seguintes e possui bens e direitos cujos valores dados a eles alcança mais de setecentos mil reais.
+Realmente a decisão embargada está em harmonia com a condição financeira do embargante. O peticionário não faz jus à gratuidade (fls. 362). Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Acerca desse fundamento, defende o agravante (e-STJ, fl. 562):
+Em verdade, diferente do entendimento do Nobre Ministro Presidente do STJ, busca-se tão somente o reexame da interpretação da legislação infraconstitucional conferida ao caso em concreto pelo E.TJSP, ofensiva à lei federal e em conflito com decisão de outro Tribunal. Ademais, a violação da súmula n. 7 do STJ também resta afastada em razão de error iuris, devido à inadequada valoração das provas dos autos, quais sejam, as declarações de Imposto de Renda de fls. 20/51. Aludida situação, por si só, justifica o conhecimento dopresente recurso.
+Sem razão. A impugnação genérica e assistêmica, inapta a demonstrar o desacerto da decisão atacada, não preenche os requisitos de dialeticidade recursal. Compete à parte indicar, de forma precisa, expressa e objetiva, qual a norma de direito federal foi violada pela interpretação alcançada pelo acórdão, à luz dos fatos conforme ali consignados.
+É esta a revaloração da prova admitida por esta Corte: a jurídica, não a que delineia os fatos. Em outros termos: se a pretensão pretende alterar a premissa fática, o substrato do mundo sensível a partir do qual se interpretou determinada norma, incorre-se no óbice da Súmula n. 7/STJ.
+Afirmada tal incidência, deve a parte demonstrar como sua pretensão dispensa a alteração dos elementos fáticos, limitando-se a discutir outra solução jurídica para a causa, à luz do mesmo ponto de partida narrativo.
+Ausente tal providência, no caso, por absoluta genericidade e abstração argumentativa, incorre-se na hipótese da Súmula n. 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), porquanto a impugnação assim tecida é, como dito, inapta a alterar, até mesmo em tese, a decisão agravada.
+Nesse passo, é irrelevante que a parte tenha colacionado acórdãos, com indicação da fonte, a fim de demonstrar o dissenso pretoriano. O capítulo não foi conhecido pela Súmula n. 7/STJ, de modo que a argumentação se volta contra o que não ficou decidido. Confira-se a decisão (e-STJ, fl. 552):
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+E a respectiva insurgência (e-STJ, fls. 563-564):
+A jurisprudência do próprio C. Superior Tribunal de Justiça tem permitido a forma adotada pelo recorrente (indicação da fonte do acórdão) para cumprimento da exigência da admissibilidade recursal  .. .
+Saliente-se ainda, utilizando-se novamente dos esclarecimentos do precedente acima transcrito, que o recorrente realizou o cotejo analítico com a transcrição dos trechos dos acórdãos em que se funda a divergência além da demonstração das circunstâncias que identificam ou assemelhavam os casos confrontados, conforme sepode ver nos itens 4.3 de fls. 480/483.
+Assim, se o argumento da parte não tem qualquer potencial para infirmar a decisão impugnada, evidencia-se a carência de dialeticidade recursal.
+É dizer: a impugnação deve ser não só específica, como efetiva e concreta ou, em outros termos, substancial. Um argumento manejado sem nenhuma força desconstitutiva não pode ser considerado como impugnação específica, efetiva e concreta.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade de recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque o colegiado, no julgado recorrido não conheceu do agravo internoem razão da deficiência da impugnação recursal, aplicando a Súmula n. 182/STJ.
+Como se vê, o mérito do agravo interno não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO.FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. AUSÊNCIA DE PRESSUPOSTOS DORECURSODIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DESEGUIMENTO.
