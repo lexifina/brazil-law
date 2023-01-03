@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por LEONEL AZEVEDO GIMENES E OUTRO, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 469):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA QUE RECONHECEU O PAGAMENTO DE ALUGUEL PROPORCIONAL.
+ENTENDIMENTO DE QUE OS ENCARGOS DERIVADOS DO CONTRATO DE LOCAÇÃO TÊM COMO TERMO FINAL A DATA DA ENTREGA DA CHAVE PELO LOCATÁRIO AO LOCADOR.
+CONFUSÃO QUANTO À DATA DO TERMO DE RESCISÃO CONTRATUAL. GRAFIA CONFUSA. ESCRITA À MÃO. PRESCRIÇÃO.
+INOCORRÊNCIA. DEMORA NA CITAÇÃO QUE NÃO PODE SER ATRIBUÍDA AO EXEQUENTE. PECULIARIDADES DO CASO CONCRETO. SÚMULA 106 DO STJ. SENTENÇA REFORMADA COM INVERSÃO DOS ÔNUS SUCUMBENCIAIS.
+RECURSO 1 (EXEQUENTE/EMBARGADO): CONHECIDO E PROVIDO.
+RECURSO 2 (EXECUTADOS/EMBARGANTES): CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, restaram rejeitados às fls. 507/511.
+Nas razões do recurso especial, a agravante alega violação ao art. 240 do CC. Para tanto, sustenta, em síntese, que "a prescrição do direito de cobrança dos referidos aluguéis se daria, respectivamente, em março, abril, maio e julho de 2012. Porém, apesar de a ação ter sido ajuizada em 11/08/2011, a primeira citação somente ocorreu em 30/10/2017, isto é, mais de 06 anos após a distribuição do feito" - (fl. 527), acentuando que "a demora não fora causada exclusivamente pelo Poder Judiciário" - (fl. 529).
+Foram apresentadas contrarrazões às fls. 551/572.
+É o relatório.
+No tocante à prescrição, o acórdão recorrido compreendeu que não houve a perda da pretensão do direito do autor, pois a demora na citação se deu pelos mecanismo próprios do mecanismo judicial, sem culpa da parte recorrida, como se verifica do trecho do acórdão a seguir (fls. 469/477):
+"A petição inicial indica que as cobranças derivaram dos boletos de 30.03.2009, 30.04.2009, 30.05.2009 e 13.07.2009 (mov. 1.1, fl. 33).
+Assim, somente estaria prescrita a pretensão do autor caso ele tivesse ingressado com a ação depois de 30.03.2012. Contudo, como a ação foi distribuída em 12.08.2011, não haveria que se falar em prescrição.
+Ocorre que os executados afirmam que houve grande lapso temporal entre o ajuizamento da ação e a citação.
+De fato, uma vez que o exequente ingressou com a ação em 2011 e a citação somente ocorreu em 2017.
+Todavia, compartilho do entendimento da i. magistrada de que a demora na citação não foi culpa do exequente. A uma, porque ele precisou realizar diversas diligências para encontrar o endereço dos réus, visto que quando o oficial de justiça ia ao endereço indicado, não havia ninguém no local. A duas, porque existe a própria demora da prestação jurisdicional. A três, porque o Oficial de Justiça nem sempre esteve presente. A quatro, pois a súmula 106 do STJ explica que "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência". E, por fim, porque o exequente não foi omisso no processo, havendo vários pedidos de pesquisas nos sistemas de justiça ou citação por edital, sendo certo, ainda não houve qualquer inércia do exequente capaz de configurar eventual prescrição intercorrente nos autos.
+Portanto, como bem explicado na sentença, não é possível atribuir a demora da citação ao exequente, de modo que apesar do lapso temporal, tem-se que a pretensão autoral não prescreveu."
+Com efeito, o acórdão recorrido está em consonância com a jurisprudência desta Corte de Justiça, a qual compreende que "não se declara a decadência ou a prescrição se, proposta a ação dentro do prazo legal, a demora na citação ocorre por mecanismos inerentes ao Poder Judiciário, sem culpa do credor" (AgInt no AREsp n. 1.787.973/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.). Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO. PROPOSITURA TEMPESTIVA. PRESCRIÇÃO. AFASTAMENTO. DEMORA NA CITAÇÃO. RESPONSABILIDADE DO AUTOR. AUSÊNCIA. RECOLHIMENTO DE CUSTAS. REQUERIMENTOS. DIREITO DE PETIÇÃO. INÉRCIA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência" (Súmula n. 106/STJ). Incidência da norma prevista no art. 240, §§ 1º e 3º, do CPC/2015.
+2. No caso concreto, a parte autora-agravada não se manteve inerte, mas sim exerceu o direito de petição e formulou requerimentos ao Juízo para (i) o diferimento das custas processuais, (ii) o parcelamento da despesa e, por fim, (iii) a concessão de prazo adicional para o recolhimento da taxa judiciária, sendo que este último pedido foi deferido e prontamente atendido. Não há falar, dessarte, em desídia ou na prática de atos que permitam atribuir-lhe a responsabilidade pela demora do ato citatório, notadamente pelo fato de que a citação foi realizada por carta rogatória, procedimento sabidamente demorado.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.933.513/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Ademais, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se houve ou não culpa exclusiva da parte quanto à demora na citação demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, pois fixados em patamar máximo na origem.
+Publique-se.
