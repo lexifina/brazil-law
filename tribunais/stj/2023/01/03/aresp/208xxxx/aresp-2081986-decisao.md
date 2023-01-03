@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por SPORT CLUB INTERNACIONALem face de decisão que inadmitiu recurso especial fundadono art. 105, III, "a", da Constituição Federal, interposto contra v.acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. - RECURSO DA RÉ. - MONITÓRIA. REQUISITOS E ÔNUS DA PROVA . A PROVA ESCRITA DE EXISTÊNCIA DA DÍVIDA É REQUISITO PREVISTO NO ART. 700 DO CPC/15 QUE ADOTOU A AÇÃO MONITÓRIA NA ESPÉCIE DOCUMENTAL. DEMONSTRADO O FATO CONSTITUTIVO DO DIREITO DO AUTOR INCUMBE AO RÉU FAZER PROVA DE FATO IMPEDITIVO, EXTINTIVO OU MODIFICATIVO, COMO DISPÕE O ART. 373 DO CPC/15. CIRCUNSTÂNCIA DOS AUTOS EM QUE A PARTE AUTORA PRODUZIU A PROVA QUE LHE INCUMBIA; A PARTE RÉ NÃO FEZ PROVA ADVERSA; E SE IMPÕE MANTER A SENTENÇA. - RECURSO DA AUTORA. - JUROS DE MORA. TERMO INICIAL.
+COBRANÇA. DÍVIDA POSITIVA E LÍQUIDA. A REGRA PROCESSUAL DE QUE OS JUROS MORATÓRIOS CORRAM A PARTIR DA CITAÇÃO (ART. 240 DO CPC/15) NÃO SE APLICA NA AÇÃO DE COBRANÇA COGNITIVA OU MONITÓRIA DE OBRIGAÇÃO POSITIVA E LÍQUIDA QUANDO INCIDEM A PARTIR DO VENCIMENTO DA DÍVIDA (ART. 392 DO CC/02). CIRCUNSTÂNCIA DOS AUTOS EM QUE SE TRATA DE DÍVIDA LÍQUIDA CONSTANTE DE INSTRUMENTO PARTICULAR; E O TERMO INICIAL É A DATA DO RESPECTIVO VENCIMENTO.
+RECURSO DA PARTE RÉ DESPROVIDO. RECURSO DA PARTE AUTORA PROVIDO." (e-STJ, fl.277)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 299/307)
+Nas razões do recurso especial, a parte recorrente alega violação aosarts. 783, 786 e 787, do Código de Processo Civil de2015. Sustenta, em síntese, que "o valor debatido, até o presente momento, mostra-se inexequível, justamente pelo fato de que o Autor, ora Recorrido, não cumpriu com suas obrigações contratuais que permitiriam qualquer pagamento pelo clube." (e-STJ, fl. 326)
+É o relatório. Decido.
+O recurso não merece prosperar.
+Verifica-se que o conteúdo normativo dos arts. 783, 786 e 787do CPC/2015 não foramexaminado pelo eg. Tribunal de origem, apesar da oposição de embargos dedeclaração na eg. Instância a quo.
+Como sabido, o prequestionamento é requisito de admissibilidade do apeloespecial, uma vez que compete ao eg. STJ julgar, em sede de recursoespecial, conforme dicção do art. 105, III, da Carta Magna, somente ascausas decididas, em única ou última instância, pelos Tribunais RegionaisFederais ou pelos Tribunais dos Estados, do Distrito Federal eTerritórios.
+Com efeito, é de rigor a oposição de embargos de declaração e, se mesmoapós o respectivo julgamento, o eg. Tribunal a quo permanecer omissoquanto às matérias que se pretendia prequestionar, é dever do recorrente,no apelo nobre, apontar violação ao art. 1.022 do CPC/2015, o que nãoocorreu no caso em exame. Nesse panorama, o recurso especial, no ponto,esbarra no óbice da Súmula 211/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, doRISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
