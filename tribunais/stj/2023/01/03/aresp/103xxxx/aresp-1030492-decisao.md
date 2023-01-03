@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por HABITASUL NEGÓCIOS IMOBILIÁRIOS E ADMINISTRAÇÃO DE BENS S.A em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. CONTRATOS DO SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE FINANCIAMENTO COM PACTO ADJETO DE HIPOTECA. PRESCRIÇÃO QUINQUENAL OPERADA.
+Tratando-se de relação de trato sucessivo, e tendo a ultima parcela vencido já sob a égide do Novo Código Civil, aplicável, ao caso, o prazo quinquenal previsto no art. 206, §5º, do CCB/02. Prescrição operada, pois transcorridos mais de cinco anos entre a data do vencimento da última parcela e o ajuizamento da demanda. Sentença mantida.
+NEGARAM PROVIMENTO AO APELO. UNÂNIME." (fl. 244)
+A recorrente aponta ofensa aos arts. 1.022, II, do CPC/15, 5º da Lei n. 5.741/71, 189 e 205 do Código Civil, sustentando, em síntese, (a) omissão do Tribunal de origem quanto à inadmissibilidade dos embargos do devedor apresentados antes da penhora do imóvel, (b) "afora o prazo para a sua oposição ser diferente, ele deve ser proposto a partir da efetivação da penhora do imóvel hipotecado. Se não houve penhora, não há cabimento de embargos. No caso em discussão, os recorridos opuseram os seus embargos sem que houvesse acontecido penhora nos autos, tendo realizado ato processual, portanto, que não lhe cabia" (fl. 283), (c) "não se pode falar em "antecipação" do fim do prazo contratual, uma vez que não houve nenhum instrumento assinado pelas partes que determinou a diminuição do prazo contratual. Ainda que tenham efetuado uma amortização extraordinária, esta apenas corresponde ao pagamento antecipado de prestações, que podem gerar ou a diminuição da parcela ou a redução do número de parcelas a serem pagas, não havendo falar em novação contratual" (fl. 284) e (d) o prazo prescricional aplicável à espécie é de 10 (dez) anos.
+Contrarrazões às fls. 309/319.
+É o relatório.
+De início, rejeito a tese de violação ao art. 1.022 do CPC/15, tendo em vista que a matéria apontada como omitida não é capaz de alterar o resultado da controvérsia. Apesar de o prazo para o ajuizamento dos embargos à execução se iniciar a partir da penhora, a sua apresentação antes do termo a quo não implica a extinção do feito sem resolução de mérito. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO OFERECIDOS ANTES DE FORMALIZADA A PENHORA. VIABILIDADE. QUESTÃO DE PROCEDIBILIDADE. APRECIAÇÃO SUSPENSA ATÉ QUE ESTEJA SEGURO O JUÍZO.
+1. A oposição dos embargos à execução antes de formalizada a penhora não autoriza a sua extinção sem julgamento do mérito. Por tratar-se de uma questão de procedibilidade, adia-se o processamento dos referidos embargos até que esteja seguro o juízo.
+2. Recurso especial conhecido e provido.
+(REsp n. 1.128.778/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/9/2010, DJe de 8/2/2011.)
+De outro lado, a tese relativa à não ocorrência da prescrição merece acolhida.
+O Tribunal de origem, embora corretamente tenha computado o prazo prescricional com base no art. 206, § 5º, I, do Código Civil (em cinco anos), entendeu que a amortização antecipada de algumas parcelas do financiamento alterou o termo inicial da prescrição, nestes termos:
+"O contrato foi firmado no ano de 1987, sendo que a primeira parcela venceu na data de 30.03.87. O pagamento da dívida inicialmente seria de 276 parcelas mensais e reduzidas para 217 e posteriormente ajustadas para 233 em razão da amortização da dívida no curso do contrato.
+Com a amortização extraordinária, a última parcela ocorreu na data de 31.07.2006 e, esse é o marco prescricional, ao contrário do que tenta fazer crer o apelante.
+Tratando-se de cobrança de dívida líquida constante de instrumento público ou particular, o prazo prescricional é de cinco anos, a teor do artigo 206, § 5º, do Código Civil de 2002, sendo evidente a prescrição da demanda." (fl. 248)
+Contudo, nos termos da jurisprudência desta Corte, o termo inicial da prescrição da pretensão de cobrança, fundada no inadimplemento de contrato de financiamento, é o dia do vencimento da última parcela, consoante indicado no contrato. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FINANCIAMENTO IMOBILIÁRIO. MÚTUO. EXECUÇÃO. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+3. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.829.409/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/11/2021, DJe de 6/12/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL E EMBARGOS À EXECUÇÃO HIPOTECÁRIA. CONTRATO DE MÚTUO. SISTEMA FINANCEIRO DE HABITAÇÃO. EXECUÇÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ÚLTIMA PARCELA. AGRAVO INTERNO PROVIDO PARA AFASTAR A PRESCRIÇÃO.
+1. O parcelamento do saldo devedor nos contratos de financiamento imobiliário não configura relação de trato sucessivo, pois não se trata de prestações decorrentes de obrigações periódicas e autônomas, que se renovam mês a mês, mas de parcelas de uma única obrigação, qual seja, a de quitar integralmente o valor financiado até o termo final do contrato.
+2. Por se tratar de obrigação única (pagamento do valor total financiado), desdobrada em prestações para facilitar o adimplemento por parte do devedor, o termo inicial do prazo prescricional também será único, correspondendo à data de vencimento da última parcela do financiamento.
+3. Agravo interno provido para afastar a prescrição.
+(AgInt no REsp n. 1.837.718/PR, desta relatoria, Quarta Turma, julgado em 9/8/2022, DJe de 30/8/2022.)
+Dessa forma, considerando que as amortizações extraordinárias não alteraram o contrato formalmente, o prazo prescricional só se iniciaria no 276º mês após sua assinatura, dado que o financiamento fora parcelado em 276 prestações.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de reformar o acórdão de apelação, afastando a prescrição da demanda de cobrança.
+Determino o envio dos autos ao eg. Juízo da 5ª Vara Cível da Comarca de Pelotas/RS para processar e julgar novamente a demanda.
+Publique-se.
