@@ -1,0 +1,13 @@
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO
+
+ESTADO DO AMAZONAS
+
+Av. Mário Ypiranga Monteiro, 3950 Parque 10 de Novembro, Manaus, Amazonas CEP 69.050-030
+
+LEI Nº 6.203, DE 4 DE JANEIRO DE 2023.
+
+INSTITUI o Dia Estadual das Artes Marciais e Esportes de Combate.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
