@@ -1,0 +1,4 @@
+LEI Nº 14.518, DE 4 DE JANEIRO DE 2023
+Inscreve o nome de Antonieta de Barros no Livro dos Heróis e Heroínas da Pátria.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
