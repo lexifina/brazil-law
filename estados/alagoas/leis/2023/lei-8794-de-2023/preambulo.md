@@ -1,0 +1,5 @@
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR
+
+LEI Nº 8.794, DE 5 DE JANEIRO DE 2023.
+
+INSTITUI SOBRE O DIA DO FEIRANTE. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
