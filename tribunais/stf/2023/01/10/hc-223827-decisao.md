@@ -1,0 +1,57 @@
+Decisão: Trata-se de habeas corpus com pedido de liminar, impetrado por Hel Marques de Oliveira Filho, em favor de Juan Brandon de Paula Araújo contra decisão monocrática proferida pelo Relator do HC 788.504/MG do Superior Tribunal de Justiça Superior, porquanto negado o pedido de concessão liminar da ordem declinado nos autos.
+
+    Na espécie, o paciente foi preso em flagrante na data de 4.10.2022 em razão da suposta prática do delito tipificado no art. 155, § 4º, incisos III e IV, do Código Penal (furto qualificado). Referida custódia foi convertida em prisão preventiva.
+
+    Irresignada, a defesa impetrou o HC 1.0000.22.250963-0000 no Tribunal de Justiça de Minas Gerais, o qual denegou a ordem nos termos do acórdão assim ementado:
+
+    “HABEAS CORPUS - FURTO QUALIFICADO - RECONHECIMENTO DE AUSÊNCIA DE MATERIALIDADE E DE NEGATIVA DE AUTORIA - EMENDATIO LIBELLI - IMPOSSIBILIDADE DE EXAME - CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA - DECISÃO A QUO FUNDAMENTADA - REQUISITOS AUTORIZADORES DA MEDIDA EXCEPCIONAL (ARTS. 312 E 313, I E II DO CPP) - PACIENTE REINCIDENTE - GARANTIA DA ORDEM PÚBLICA - AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - INOCORRÊNCIA- CONDIÇÕES PESSOAIS DO PACIENTE - IRRELEVÂNCIA - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO CABIMENTO. (...)”. (eDOC 3)
+
+    Daí a impetração de novo writ na Corte Superior de Justiça, que indeferiu o pleito liminar. Pendente o julgamento do mérito. (eDOC 5)
+
+    Nesta Corte, a defesa reitera a alegação de ilegalidade da prisão preventiva, por carência em sua fundamentação capaz de justificar a referida medida, sobretudo em razão do paciente não ser o autor do suposto delito de furto, haja vista que nenhum bem fora levado, ou esteve sob sua posse direta.
+
+    No mais, sustenta a possibilidade de “concessão da ordem ao caso em questão, uma vez que o delito fora cometido sem emprego de arma de fogo, violência, coação, ameaça ou qualquer outro meio que houvesse gravidade ao delito, frisando que não houve elementos que caracterizem a tipificação do furto”. (eDOC 1, p. 15)
+
+     Assevera, por fim, as condições pessoais favoráveis ostentadas pelo paciente, bem como plausibilidade na aplicação de medidas cautelares diversas da prisão.
+
+    Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+
+    É o relatório.
+
+    Decido.
+
+    De início, verifico que o pedido se esbarra na Súmula 691 desta Corte, segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+
+    É bem verdade que o rigor na aplicação de tal entendimento tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+
+    Entretanto, na hipótese dos autos, não entendo caracterizada situação ensejadora do afastamento da incidência da Súmula 691 do STF.
+
+    Como bem se sabe, presentes o fumus comissi delicti e o periculum libertatis, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições se realizam na espécie. Dessarte, a tarefa de interpretação constitucional para análise de excepcional situação jurídica de constrição da liberdade exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+
+    Direcionando-se agora ao caso dos autos, verifica-se a idoneidade da prisão preventiva decretada em desfavor do paciente, porquanto fundada na necessidade de garantia da ordem pública, ameaçada com a liberdade do paciente. Transcrevo, por oportuno, trecho da do decreto prisional:
+
+    “(...) Trata-se de comunicação da prisão em flagrante delito de Marcus Vinícius de Souza Martins e Juan Brandon de Paula, em razão da suposta prática do delito previsto no artigo 155, § 40, inciso III e IV do Código Penal Brasileiro Trata-se de comunicação da prisão em flagrante delito de Marcus Vinícius de Souza Martins e Juan Brandon de Paula, em razão da suposta prática do delito previsto no artigo 155, § 40, inciso III e IV do Código Penal Brasileiro. (…). Da análise do caso em concreto, verifico estarem presentes os requisitos ensejadores da custódia cautelar dos recolhidos. Isso porque, compulsando os autos, nota-se que o delito imputado aos autuados, por si só, admite a decretação de suas respectivas prisões preventivas, tendo em vista que a pena privativa máxima a ele cominada é superior a 04 (quatro) anos (artigo 313, inciso 1, do CPP). Tratando-se de prisão cautelar, exige-se, para sua manutenção, a presença do fumus comissi delicti e do periculum libertatis. O primeiro requisito está na prova da existência do crime e indícios suficientes de autoria. O requisito do periculum liberiatis está consubstanciado no perigo gerado pelo estado de liberdade dos imputados, quando demonstrada a necessidade da prisão para a garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal. A prova da existência do crime (materialidade) emerge de todos os documentos presentes nos autos, sobretudo o Auto de Apreensão e Boletim de Ocorrência. Ainda, existem indícios de autoria em face dos autuados, tendo em vista os depoimentos já colhidos e constantes dos autos. Da mesma forma, entendo que o periculum libertatis está presente e o decreto da prisão preventiva é necessário para a garantia da ordem pública, sobretudo diante das condições pessoais dos autuados. Em relação ao autuado Marcus Vinícius, analisando detidamente sua FAC e CAC's, verifico que se trata de indivíduo reincidente na prática delitiva, uma vez que ostenta quatro condenações criminais transitadas em julgado, perante as Comarcas de Sete Lagoas/MG e Belo Horizonte/MG, encontrando-se, inclusive, em cumprimento de pena quando da prática delitiva ora noticiada. No tocante ao autuado Juan Brandon de Paula, em análise à sua FAC e CAC's, verifica-se que este também é reincidente na prática delitiva, uma vez que possui uma condenação criminal transitada em julgado, perante a Comarca de Belo Horizonte/MG, bem como ostenta uma condenação, ainda não transitada em julgado, e responde a três ações penais, em instrução. Tais elementos, analisados em conjunto, demonstram indícios de reiteração delitiva, bem como indicativos de que os autuados não seriam iniciantes na atividade delitiva, o que denota a necessidade de suas prisões preventivas como forma de garantia da ordem pública. Da mesma forma, considerando as circunstâncias acima expostas, entendo que a substituição da prisão em questão por medidas cautelares diversas não seria suficiente para evitar o cometimento de novas infrações penais, motivo pelo qual a conversão da prisão em flagrante em prisão preventiva é medida que se impõe, como forma de garantia da ordem pública. Ante o exposto, nos termos do artigo 310, inciso ii c/c artigos 312 e 313, inciso 1, todos do Código de Processo Penal, com fulcro no parecer ministerial retro, CONVERTO em prisões preventivas, as prisões em flagrante delito de MARCUS VINÍCIUS DE SOUZA MARTINS MARQUES e JUAN BRANDON DE PAULA ARAÚJO, determinando a expedição dos competentes mandados, com data de validade para 04 de outubro de 2034. Pelos fundamentos expostos, INDEFIRO os pedidos de concessão de liberdade provisória formulados pela Defesa ”. (eDOC 4, pp. 137/139; grifei)
+
+    Ora, depreende-se que a decisão que determinou a prisão preventiva constatou a necessidade de se garantir a ordem pública, diante da constatação da reiteração delitiva fundada na existência de condenações anteriores anterior e da existência de processos penais em curso. Veja-se, novamente: “ No tocante ao autuado Juan Brandon de Paula, em análise à sua FAC e CAC's, verifica-se que este também é reincidente na prática delitiva, uma vez que possui uma condenação criminal transitada em julgado, perante a Comarca de Belo Horizonte/MG, bem como ostenta uma condenação, ainda não transitada em julgado, e responde a três ações penais, em instrução.” (eDOC 4, pp. 137/139).
+
+    No ponto, destaco que esta Corte tem considerado legítimos os decretos prisionais consubstanciados na possibilidade concreta de reiteração delitiva, apurada a partir da existência de processos em andamento, de modo que não se vislumbra constrangimento ilegal pela motivação adotada. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. ACÓRDÃO IMPUGNADO AMPARADO NA SÚMULA 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. TRÁFICO DE DROGAS E CONTRAVENÇÃO PENAL (JOGO DO BICHO). PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. 1. O acórdão impugnado não apresenta qualquer ilegalidade, já que amparado na Súmula 691/STF, segundo a qual não cabe conhecer de Habeas Corpus voltado contra decisão proferida por relator que indefere o pedido de liminar em impetração requerida a tribunal superior, sob pena de indevida supressão de instância. 2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal. 3. Sobressai, no decreto prisional, o registro de que o paciente ostenta condenação anterior à pena de 16 (dezesseis) anos de reclusão por tráfico e associação para o tráfico, ocasião em que foi apreendida grande quantidade de drogas: cerca de 800kg de maconha. Essa propensão do agente à reiteração delituosa constitui fundamento idôneo à determinação da prisão preventiva para a garantia da ordem pública. Precedente. 4. Agravo Regimental a que se nega provimento”. (HC 207.777 AgR, rel. Alexandre de Moraes, Primeira Turma, DJe 30.11.2021)
+
+    Dessarte, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, e salvo melhor juízo na apreciação de eventual impetração de novo pedido de habeas corpus a ser distribuído nos termos da competência constitucional desta Corte (CF, art. 102), descabe afastar a aplicação da Súmula 691 do STF.
+
+    Entendo, por fim, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+
+    Publique-se.
+
+    Brasília, 10 de janeiro de 2023.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
