@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JONATHAN HENRIQUE DE ASSIS TEIXEIRA, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu o pedido de liminar formulado no HC n. 1.0000.22.299292-7/000.
+Extrai-se dos autos que oMinistério Público de Minas Gerais ofereceu denúncia sob o argumento de que entre agosto e novembro de 2020, o paciente e demais denunciados se associaram para praticar reiteradamente o delito de tráfico de drogas.A decretação da prisão preventiva do pacienteocorreu em 4/12/2020. Em13/05/2022, aportou nos autos o cumprimento do mandado de prisão. Recebida a denúncia, o decreto de prisão preventiva foi mantido aoargumento de que não vislumbrava alteração fática que autorizasse, eventualmente, o deferimento de liberdade provisória ao acusado e de que o paciente estaria em local incerto e não sabido.
+Sustenta a impetrante que o paciente ainda se encontra preso, mesmo não subsistindo mais a necessidade de custódia como forma de assegurar a aplicação da lei penal ou conveniência da instrução criminal.
+Aduz a ausência de fundamentação idônea para a manutenção da prisão preventiva, quer por confundir os requisitos da prisão preventiva com as elementares do tipo penal, quer por ausência de fundamentação concreta e contemporaneidade.
+Alega, ainda, que apreponderância de provas demonstra a não participação do paciente nos fatos.
+Pretende-se, em suma, a concessão da liminar para revogar a prisão preventiva do paciente.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, a decisão atacada não se revela teratológica.
+Além da via do habeas corpus ser imprópria aoaprofundado reexame do conjunto fático-probatório, consta dos autos que o paciente foi denunciado e responde por tráfico de drogas eassociação para o tráfico (Associação Criminosa denominada "Caixa D"Água").
+Ademais, a decisão objurgada, a despeito da irresignação do paciente, assim consignou (fl. 25):
+Isso porque, afigura-se inviável o acolhimento à pretensão sumária, porquanto a motivação que ampara o pedido liminar, a todo efeito, confunde-se com o próprio mérito do "writ". Ressalto que a primariedade do paciente por si só não autoriza a desconstituição da segregação provisória quando estiverem presentes outros elementos que a justifiquem, como a garantia da ordem pública. Ademais, ao que se infere da Decisão que manteve o decreto da prisão preventiva (doc. de ordem 04), a mesma em princípio encontra-se bem fundamentada com base nos artigos 312 e 313, inciso I, ambos do CPP. Da mesma forma, a decisão constante do doc. de ordem 05, datada de 02/12/2022, também restou fundamentada mantendo-se a medida extrema pelas razões já explanadas na decisão anterior, sendo certo que, segundo ressaltado, o paciente seria um associado da gangue no fornecimento de cocaína. Ressalte-se que o processo originário é complexo, com 12 réus, e vários crimes, dentre eles tráfico de drogas, associação para o tráfico e Extorsão, já tendo sido proferida sentença com relação a alguns dos réus e, com relação ao ora paciente, o mesmo precisou ser desmembrado em razão do paciente encontrar-se por longo tempo em local incerto e não sabido, obstaculizando o andamento do processo, somente tendo aparecido nos autos, após cumprido seu mandado de prisão em maio do corrente ano. Cumpre ainda aduzir que a instrução criminal encontra-se com continuação designada, prestes a findar-se, valendo asseverar que somente restam duas testemunhas da defesa para serem inquiridas, tendo sido a própria defesa que insistiu no depoimento das mesmas e,conforme consta da decisão de ordem 05, a defesa, mesmo intimada não apresentou endereço da testemunha Hélio Junior. (negritei)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
