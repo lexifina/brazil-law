@@ -1,0 +1,59 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TEMPO DE SERVIÇO RURAL PARA FINS PREVIDENCIÁRIOS: NÃO COMPROVAÇÃO. REEXAME DE FATOS E PROVAS: ÓBICE DO ENUNCIADO Nº 279 DA SÚMULA DO STF. NEGATIVA DE PROVIMENTO.
+
+    1. Trata-se de agravo interposto contra decisão negativa de admissibilidade de recurso extraordinário apresentado em face de acórdão pelo qual a 1ª Turma Recursal do Estado do Rio Grande do Sul negou provimento a recurso inominado.
+
+    2. Nas razões do recurso extraordinário, a recorrente aponta violado o art. 7º, inc. XXXIII, da Constituição da República. Sustenta que “o limite mínimo imposto de 16 anos de idade para a inscrição no RGPS não inibe que se reconheça o tempo de serviço de trabalho rural efetivamente prestado pelo menor”. Requer, para feitos previdenciários, o reconhecimento do tempo de serviço trabalhado em economia rural no período de 1º/05/1985 a 18/04/1990 (e-doc. 60).
+
+    É o relatório.
+
+    Decido.
+
+    3. A recorrente pretende seja reconhecido também, para fins previdenciários, o tempo de serviço alegadamente trabalhado na qualidade de rural, relativamente a período em que era menor de 12 anos de idade. Não obstante, o Colegiado de origem assentou que a prestação de serviço em tais condições não ficou demonstrada. Transcrevo, para melhor compreensão da questão controvertida, parte do acórdão recorrido:
+
+    “Entretanto, para firmar juízo conclusivo acerca do efetivo trabalho rural em regime de economia familiar exercido pelo menor de 12 anos de idade, nos exatos termos do art. 11, §1º, da Lei do RGPS, é necessário que se prove, de maneira cabal e contundente, que o trabalho empregado pelo infante se afigurava como indispensável ao desenvolvimento socioeconômico do núcleo familiar, não assumindo natureza meramente eventual e complementar, o que não ocorreu no caso concreto.
+
+    Com efeito, o conjunto probatório aponta o exercício de atividades pela requerente na lida rural juntamente com seus pais desde a infância, mas dali não se pode depreender o emprego de tarefas essenciais e sem as quais não seria possível o prosseguimento do labor campesino levado a efeito pela família, de modo que caracterizada a ausência de auxílio essencial à subsistência do grupo familiar e que a dedicação ao campo possuía caráter meramente complementar no lapso em tela. Não houve elementos apresentados que pudessem levar a conclusão em sentido contrário.
+
+    Dessarte, não é possível reconhecer o labor rural anterior aos 12 anos de idade.
+
+    Destarte, entendo que a parte demandante não se desincumbiu satisfatoriamente do seu ônus processual de provar o fato constitutivo do direito alegado, qual seja, o exercício efetivo da atividade campesina em regime de economia familiar no período controvertido na esfera recursal (art. 373, inciso I, do CPC/2015), não subsistindo reparos, pois, a serem feitos na sentença recorrida.
+
+    Por derradeiro, e considerando o tempo de contribuição calculado na sentença, verifica-se que até a presente data não houve o transcurso de tempo hábil para o segurado completar o tempo de serviço necessário à concessão do benefício de aposentadoria por tempo de contribuição pleiteado, motivo pelo qual tenho por prejudicada, no caso concreto, a análise do pedido concernente à possibilidade de reafirmação da DER.” (e-doc. 53, p. 9/10; grifos acrescidos).
+
+    4. Verifica-se, portanto, que adotar conclusão em sentido contrário ao entendimento da Turma Recursal dependeria de reanálise do quadro fático-probatório constante dos autos, considerando a persistência do debate sobre a comprovação ou não de trabalho rural anterior aos 12 anos de idade. Ocorre que este reexame é providência inviável em sede extraordinária, considerado o óbice do enunciado nº 279 da Súmula do STF.
+
+    5. Nesse sentido, entre tantos outros, cito os seguintes precedentes:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. TEMPO DE SERVIÇO. AVERBAÇÃO DE PERÍODO TRABALHADO COMO ALUNO-APRENDIZ. APROVEITAMENTO DO PERÍODO PARA FINS DE APOSENTADORIA E ADICIONAIS POR TEMPO DE SERVIÇO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmula 279 do STF). 2. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.”
+
+    (ARE nº 1.367.000-AgR/MG, Rel. Min. Luiz Fux, Pleno, j. 04/04/2022, p. 20/04/2022; grifos acrescidos).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL POR TEMPO DE SERVIÇO. CONTAGEM DO PERÍODO TRABALHADO COMO SERVIDOR TEMPORÁRIO. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional local, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmulas 279 e 280 do STF). 2. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE nº 1.361.494-AgR/PA, Rel. Min. Luiz Fux, Pleno, j. 27/04/2022, p. 05/05/2022; grifos acrescidos).
+
+    “DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. AVERBAÇÃO DE TEMPO DE SERVIÇO. ARTS. 5º, II, 37, CAPUT, E 40, § 10, DA LEI MAIOR. SÚMULAS Nº 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. PREENCHIMENTO DOS REQUISITOS PREVISTOS NA LEGISLAÇÃO ORDINÁRIA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO. 1. Cristalizada a jurisprudência desta Suprema Corte, conforme as Súmulas nº 282 e 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “ O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.” 2. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, bem como a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. (...)”
+
+    (ARE nº 1.358.430-AgR/DF, Rel. Min. Rosa Weber, Primeira Turma, j. 11/04/2022, p. 18/04/2022; grifos acrescidos).
+
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria integral. Trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.“
+
+    (ARE nº 648.437-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, j. 19/11/2013, p. 16/12/2013; grifos acrescidos).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 08.04.2020. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. RECONHECIMENTO DE ATIVIDADE RURAL. PERÍODO ANTERIOR À LEI 8.213/91. EXPEDIÇÃO DE CERTIDÃO DE TEMPO DE SERVIÇO. ART. 5º, XXXIV, b, DA CF. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. CONTRIBUIÇÃO PREVIDENCIÁRIA. RECOLHIMENTO. PRECEDENTES INAPLICÁVEIS AO CASO CONCRETO. 1. Eventual divergência em relação ao entendimento adotado pelo Juízo a quo, no que diz respeito à expedição da certidão pela entidade previdenciária, de reconhecimento de tempo de serviço de trabalhador rural, demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional (Lei Federal 8.213/1991). 2. Os precedentes apontados pela parte Recorrente, que se firmaram no âmbito desta Corte, no sentido da necessidade de recolhimento de contribuição previdenciária são inaplicáveis à situação dos autos. 3. No caso concreto, além de incidir, na hipótese dos autos, a Súmula 279 do STF e por ser reflexa a alegada afronta à Constituição Federal, o Tribunal de origem, para decidir a causa, amparou-se, também, no art. 5º, XXXIV, b, da CF, o qual assegura a todos a obtenção de certidões nas repartições públicas, desde que “para defesa de direitos e esclarecimento de situações de interesse pessoal”, como ocorre no caso dos autos. Precedentes. 4. Agravo regimental a que se nega provimento. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC.”
+
+    (ARE nº 1.250.215-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 29/06/2020, p. 08/07/2020; grifos acrescidos).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. APOSENTADORIA ESPECIAL DE PROFESSOR. TEMPO DE SERVIÇO RELATIVO AO CARGO EFETIVO DE DIRETOR DE ESCOLA. ADI 3.772/DF. ATIVIDADES EXERCIDAS FORA DE SALA DE AULA. VERIFICAÇÃO. REQUISITOS PARA A CONCESSÃO DE APOSENTADORIA ESPECIAL. NÃO PREENCHIDOS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - O Plenário do Supremo Tribunal Federal no julgamento da ADI 3.772/DF decidiu que, para fins de aposentadoria especial, as funções de magistério incluem, além das restritas às salas de aula, a correção de provas, o atendimento aos pais e alunos, a preparação de aulas, a coordenação e o assessoramento pedagógico e, ainda, a direção da unidade escolar. Precedentes. II – Acórdão recorrido consignou que a benesse constitucional seria apenas para professores designados para a função de dirigentes de unidades escolares, não ao titular de cargo de direção, e que não foi preenchido o requisito de tempo exigido para a concessão da aposentadoria especial. Necessidade de reexame de fatos e de provas. Incidência da Súmula 279/STF. III – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).”
+
+    (ARE nº 1.114.725-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 20/09/2019, p. 1º/10/2019).
+
+    6. Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, do RISTF. Considerando ter havido condenação em honorários advocatícios pela instância anterior (e-doc. 53, p. 10), majoro-os em 10% (dez por cento), a título de honorários recursais, na forma do art. 85, § 11, do CPC, observado o deferimento de justiça gratuita à autora.
+
+    Publique-se.
+
+    Brasília, 10 de janeiro de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
