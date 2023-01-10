@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VALDEI SANTOS DA CRUZ, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Exsurge do caderno processual que o paciente foi sentenciado em primeira instância à reprimenda de 15 anos, 1 mês e 15 dias de reclusão, pela prática do delito de homicídio duplamente qualificado.
+A defesa constituída apresentou recurso de apelação no prazo legal, tendo sido negado provimento à insurgência pela Corte local.
+No corrente writ, o impetrante alega que, em razão da inércia do anterior causídico, não teria sido interposto recurso especial contra o aresto da apelação.Assim, "adefesa objetiva a declaração de nulidade do procedimento criminal a partir da sessão de julgamento realizada pelo Tribunal de origem que após publicação do acordão e não oferecimento de recurso por parte da causídica dativa, a qual representava o paciente, não intimou o paciente ou a Defensoria Pública para indicar novo advogado e exercer a plenitude de defesa garantida constitucionalmente ao paciente, ante a inércia do causídico anterior" (fl. 9).
+Ao final, requer (fl. 18):
+(..) a concessão da ORDEM, liminarmente, para determinar a nulidade do processo desde a publicação do acordão, a fim de que se determine a intimação do paciente para que manifeste interesse em ser defendido por advogado particular ou defensor público estadual, ou, subsidiariamente, determinar o sobrestamento do feito até que se ultime o julgamento do mérito do presente habeas corpus, suspendendo-se inclusive os prazos para interposição de recursos perante as instâncias extraordinárias (STJ e STF) e NO MÉRITO, para confirmar a liminar pleiteada, julgando nulo o feito desde a publicação do acordão, atingindo-se o acórdão lavrado pela Câmara Criminal do Tribunal de Justiça de São Paulo, e determinando, por corolário, que o TJ/BA proceda à intimação do paciente para indicar novo causídico para apresentação de razões de apelação ou dizer do interesse de ser assistido pela Defensoria Pública para tal desiderato.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi suscitada perante o Tribunal de origem, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
