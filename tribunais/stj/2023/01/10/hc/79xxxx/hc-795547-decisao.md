@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de EDUARDO AUGUSTO SARTORI, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que indeferiu o pedido de liminar formulado no HC n. 0013278-73.2019.8.16.0069.
+Opaciente foi preso em flagrante no dia 09 de novembro de 2019 pela prática, em tese, do crime previsto no artigo 129, § 9º, do Código Penal.A vítima, quando ouvida perante a autoridade policial, requereu a concessão de medidas protetivas de urgência.O Ministério Público apresentou manifestação, pugnando pela homologação do flagrante, com a concessão de liberdade provisória. O Juízo de origem homologou o auto de prisão em flagrante, concedendo liberdade provisória ao paciente, mediante o cumprimento de algumas.Em 12 de novembro de 2020, juntou-se aos autos informação de descumprimento das condições impostas ao paciente, sendo decretada sua prisão preventiva posteriormente.
+O impetrante alega que a decisão objurgada não teve motivação idônea, pois analisou apenas a gravidade em abstrato do delito e vedou ao paciente responder a ação penal em liberdade. Aduz que a ausência de contemporaneidade, pois o paciente não cometeu nenhum ato de violência desde a decretação da prisão preventiva e a ausência de provas da quebra das medidas protetivas.
+Pretende-se, em suma, a concessão da liminar para determinar a revogação da ordem de prisão preventiva.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, a decisão atacada não se revela teratológica, mormente por ter consignado o seguinte (fl. 44):
+Além disso, conforme ressaltado pelo Juízo de origem, a decretação da prisão preventiva do paciente, mostra-se necessária para assegurar a ordem pública e garantir a aplicação da lei penal, vez que "(..)o representado descumpriu as medidas anteriormente estabelecidas, uma vez que entrou em contato com a genitora da vítima por meio de telefone e passou a proferir várias ameaças contra a vítima, dizendo que "já que ela não tem pai também não vai ter mãe" e, ainda, "vou matar duas pessoas só por brincadeira". Consta dos autos que a vítima compareceu perante à Autoridade Policial e informou que o representado entrou em contato com sua genitora por meio de telefone, dizendo que o objetivo de vida dele era matá-la, fazendo com que a vítima sentisse temor por sua vida. (..) Além disso, observa-se que o representado tem demonstrado grande desrespeito para com a justiça e sociedade, tendo em vista que, descumpriu as medidas protetivas de urgência estabelecidas ao manter contato com a ofendida(..)". Portanto, verifica-se que a necessidade de segregação cautelar do paciente se encontra fundamentada em elementos idôneos e suficientes para que a medida seja aplicada ao paciente, considerando a necessidade de garantia da ordem pública, bem como a aplicação da lei penal, além de assegurar a integridade física e psíquica da vítima, existindo elementos concretos da prática criminosa.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
