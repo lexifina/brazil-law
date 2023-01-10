@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de THIAGO CAMILO CERCAL, em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que não conheceu do HC n. 0073337-35.2022.8.16.0000,julgando-oextinto, sem resolução do mérito.
+Consta dos autos que, no dia 5/8/2022, o juízo de primeiro grau decretou a prisão preventiva do pacientepor infração aoartigo 2.º,caput, da Lei n. 12.850/2013; artigo 171,caput, e § 4.º, do Código Penal; e artigo 299 do Estatuto Repressivo (fls. 20-32).
+Requerida a revogação do encarceramento, em especial sob a alegação de inexistir Sala de Estado Maior no Complexo Penal, o pleito foi indeferido pelo juiz. A decisão foi impugnada no HC n. 0054166-92.2022.8.16.0000, cuja ordem foi denegada, entendimento mantido por este Superior Tribunal de Justiça, no HC n. 778.115/PR.
+Nada obstante, após relatório da Ordem dos Advogados do Brasil no estabelecimento prisional em 11/10/2022, foi requerida novamente a revogação do ergástulo, além do ingresso no feito como amicus curiae.
+O juiz de primeiro grau reiterou que já se manifestou sobre a manutenção da prisão e deferiu o pedido de habilitação, autorizandoa participação do órgão para se manifestar sobre o tema de relevância e repercussão social, bem comopara acompanharo increpado no estabelecimento prisional e nas audiências de instrução e julgamento (fls. 51-55).
+Não se resignando, a defesa impetrou préviomandamus, que não foi conhecido, sendoextinto pelo desembargador relator, sem julgamento do mérito, em razão da reiteração do pedido, destacando o julgador que "restou devidamente demonstrado que o paciente está sendo mantido em espaço análogo à sala de Estado Maior, dotado de condições dignas"(fls. 65-68).
+No presentewrit,o impetrante afirmaque o paciente, que exercia a profissão de advogado, está segregado no Complexo Médico Penal desde 11/8/2022.
+Alega que não foi apreciado o pleito da OAB relativo ao deferimento de prisão domiciliar não foi apreciado pelo magistrado de primeiro grau, nem pela Corte Paranaense.
+Entende que não há falar em reiteração, pois consta da prévia impetração parecer da OAB/PR, com fotos da cela em que o paciente se encontra, o que não objeto de apreciação noHC n. 0054166-92.2022.8.16.0000.
+Argumenta que o local destinado ao paciente não atende às condições de Sala de Estado Maior, acrescentando que o estado de saúde do acusado requer cuidados especiais, pois foi submetido a cirurgia bariátrica e deve manter alimentação restrita, bem como receber medicação adequada.
+Pugna, liminarmente e no mérito, pela expedição do alvará de soltura. Subsidiariamente, pretende a substituição do encarceramento por medidas cautelares diversas ou mesmo a prisão domiciliar, na impossibilidade de cumprimento da prerrogativa de manter o paciente em Sala de Estado Maior.
+É o relatório.
+O writ não merece prosseguir.
+De plano, verifica-se inexistir notícia de que o Tribunal de origem tenha apreciado no colegiado a questão ora vertida, inviabilizando sua análise pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Com efeito, dispõe o artigo105, inciso I, alínea "c", da Constituição Federal, que competeao Superior Tribunal de Justiça processar e julgar habeas corpus somente quando o coator for tribunal sujeito à sua jurisdição, o que não se verifica no caso em questão. O pedido também não encontra arrimo em nenhuma das hipóteses de competênciaoriginária desta Corte Superior.
+Não bastasse, conquanto o impetrante entenda de forma diversa, a matéria aqui suscitada é também objeto do HC n. 778.115/PR, no qual o Ministro relator asseverou que "o paciente encontra-se recolhido em local adequado, sem registro de eventual inobservância das condições mínimas de salubridade e dignidade humanas, separado dos outros presos e sem o rigor e a insalubridade do cárcere comum, não havendo que se falar em constrangimento ilegal em razão das instalações em que ele se encontra recolhido". Por fim, concluiu o julgador que "maiores incursões sobre as condições específicas do espaço prisional onde se encontra demandariam exame de provas, inviável na presente via".
+Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência desta Corte Superior. Nesse sentido, confira-seo seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
