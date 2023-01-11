@@ -1,0 +1,2 @@
+Art. 14-B. Os Municípios e o Distrito Federal estão autorizados a utilizar até 31 de dezembro de 2021 o saldo remanescente das contas específicas que foram criadas para receber as transferências da União e gerir os recursos.
+Parágrafo único. O saldo remanescente de que trata ocaputdeste artigo deverá ser utilizado para executar ações emergenciais previstas nos incisos II e III docaputdo art. 2º desta Lei.

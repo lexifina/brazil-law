@@ -1,0 +1,2 @@
+Art. 14-C. Os Estados estão autorizados a transferir aos respectivos Municípios os recursos que receberam oriundos da reversão dos Municípios que não cumpriram o disposto no § 2º do art. 3º desta Lei e dos Municípios que não realizaram os procedimentos referentes à solicitação da verba dentro dos prazos estabelecidos pela União.
+Parágrafo único. Os recursos transferidos pelos Estados nos termos docaputdeste artigo deverão ser utilizados pelos Municípios para executar ações emergenciais previstas nos incisos II e III docaputdo art. 2º desta Lei.
