@@ -1,0 +1,1 @@
+Art. 14-D. Encerrado o exercício de 2021, o saldo remanescente das contas específicas que foram criadas para receber as transferências e gerir os recursos será restituído até 10 de janeiro de 2022 pelos Estados, pelo Distrito Federal e pelos Municípios à conta única do Tesouro Nacional por meio da emissão e do pagamento de Guia de Recolhimento da União eletrônica.
