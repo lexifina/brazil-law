@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se revisão criminalajuizada por ALISSON ELIZEU DA SILVA, tendo por objeto acórdãos proferidos pela Quinta Turma deste Tribunal no julgamento do AREsp n.º 2134164/SC,que manteve o não conhecimento do agravo em recurso especial, na linha do quanto firmado por decisão do Relator, Ministro João Otávio de Noronha.
+Neste procedimento, a defesa do Requerente, condenado às penas de 17 anos, 1 mês e 15 dias de reclusão, no regime fechado, mas multa, pela prática dos delitos descritos nos arts. 33, caput, e 35, caput,da Lei n. 11.343/2006, 14 da Lei n. 10.826/2003 e 304 e 333 do Código Penal, afirma que a condenação estaria alicerçada em informações que chegaram aos agentes policiais, mas que a defesa não teve acesso, o que violaria a ampla defesa e o contraditório, devendo o processo, por isso, ser anulado.
+Ressalta, por outro lado, que o relatório policial se baseou em provas não submetidas à perícia, conforme exigência do art. 158 do CPP, e que não foi oportunizado o direito ao silêncio, o que resultou na autoincriminação pela confissão informal do réu.
+Por fim, alude ofensa à inviolabilidade do domicílio do réu, porque os policiais ingressaram em sua residência sem mandado e sem a indicação precisa que ali estava sendo praticado o crime de tráfico de drogas.
+Pede a procedência da revisão criminal e a absolvição com base no artigo 386, II, do Código de Processo Penal.
+É o relatório.
+Não está instalada a competência do Superior Tribunal de Justiça para apreciar o presente pedido revisional,segundo previsão do art. 105, I, "e", da Carta Magna.
+Como se verifica, na primeira decisão proferida pelo Relator do AREsp n.º 2134164/SC, da qual resultaram os acórdãos objetos da presente revisão criminal, não houve decisão de mérito acerca da causa penal, mas tão somente o não conhecimento do agravo em recurso especial com base na Súmula 182 desta Corte.
+Destarte, a decisão proferida por esta Corte Superior no julgamento do mencionado apelose limitou a não conhecer do recurso por vício de regularidade, consoante previsão da recomendação sumular 182.
+Reafirme-se, por oportuno, ser entendimento firmado que, para que seja instaurada a competência do Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea e, da Constituição da República, é necessário que a matéria discutida na revisão criminal tenha sido objeto de análise meritória por esta Corte Superior.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM REVISÃO CRIMINAL. ART. 105, I, "E", DA CF. COMPETÊNCIA. MATÉRIAS NÃO EXAMINADAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. "Compete a esta Corte o julgamento da ação de revisão criminal tão somente quando a questão objeto do pedido revisional tiver sido analisada na ocasião da apreciação do recurso especial"(RvCr n. 1.788/RS, relator Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 23/4/2014).
+2. Na hipótese, este Superior Tribunal de Justiça, ao examinar o recurso especial, apenas reconheceu a incidência da Súmula 7/STJ, sem analisar as questões postas na presente revisão criminal.
+3. Agravo regimental desprovido."(AgRg na RvCr n. 5.585/SP, Rel. Ministro RIBEIRO DANTASTerceira Seção, julgado em 24/03/2021, DJe29/03/2021; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. DECISÃO DE INDEFERIMENTO LIMINAR. DOSIMETRIA, SUBSTITUIÇÃO DA PENA E PRESCRIÇÃO. TEMAS NÃO ENFRENTADOS NO JULGADO RESCINDENDO. INADMISSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A competência do Superior Tribunal de Justiça em tema de revisão criminal, salvo hipótese de condenação em ação originária, é restrita à questão federal posta no recurso especial (art. 240 do RISTJ).
+2. No âmbito deste Superior Tribunal, o recurso do ora requerente não foi provido, em razão da incidência das Súmulas 7 e 83 desta Corte, bem como da Súmula 284/STF.
+3. Hipótese em que os temas suscitados na revisional (dosimetria, substituição da pena e prescrição) não foram examinados na decisão que negou provimento ao agravo em recurso especial.
+4. A jurisprudência desta Corte consolidou-se no sentido de ser inadmissível revisão criminal na hipótese de a matéria suscitada não coincidir com aquela versada no julgado que se busca rescindir, nos termos do art. 240 do RISTJ.
+5. Agravo regimental não provido." (AgRg na RvCr 4.997/DF, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 14/08/2019, DJe 20/08/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM REVISÃO CRIMINAL. DECISÃO DE RELATOR QUE CONHECEU APENAS EM PARTE DA REVISÃO CRIMINAL. PEDIDO REVISIONAL RELACIONADO À ABSOLVIÇÃO DO AGRAVANTE DO CRIME DE TRÁFICO DE ENTORPECENTES QUE NÃO CHEGOU A SER EXAMINADO, NO MÉRITO, NO JULGADO RESCINDENDO, POR TER ENCONTRADO ÓBICE NA SÚMULA 7/STJ. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA PARA CONHECER DA REVISÃO CRIMINAL EM RELAÇÃO AO TEMA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Interpretando o art. 105, I, "e", da Constituição Federal, a Terceira Seção desta Corte assentou que somente atrairá a competência desta Corte o pedido revisional a respeito de questão que tiver sido apreciada, no mérito, por este Tribunal em sede de recurso especial. Precedentes.
+2. Se o pleito de absolvição formulado pela defesa não chegou a ser conhecido por esta Corte, em agravo em recurso especial, por encontrar óbice no enunciado n. 7 da Súmula do STJ, não lhe caberá conhecer de revisão criminal que ataca tema que jamais chegou a enfrentar, cabendo à parte dirigir o pedido revisional ao Tribunal de Justiça.
+3. O não conhecimento de revisão criminal em relação a questão que não chegou a ser examinada, no mérito, por esta Corte não corresponde a negativa de acesso à justiça, pois a questão poderá ser objeto de pedido de revisão criminal perante o Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento."(AgRg na RvCr n. 5.583/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, Terceira Seção, julgado em 10/03/2021, DJe12/03/2021; sem grifos no original.)
+Ante o exposto, diante da incompetência do Superior Tribunal de Justiça, não conheço do pedido de revisão criminal.
+Publique-se.
+Intimem-se.
