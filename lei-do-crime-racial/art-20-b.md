@@ -1,0 +1,1 @@
+Art. 20-B. Os crimes previstos nos arts. 2º-A e 20 desta Lei terão as penas aumentadas de 1/3 (um terço) até a metade, quando praticados por funcionário público, conforme definição prevista no Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), no exercício de suas funções ou a pretexto de exercê-las.
