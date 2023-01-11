@@ -1,0 +1,4 @@
+Art. 2º-E. As informações requisitadas nos termos dos arts. 2º-B a 2º-D desta Lei serão fornecidas no prazo máximo de 3 (três) dias úteis, contado do recebimento da requisição, e o descumprimento desse prazo acarretará multa no valor de 1 (um) a 100 (cem) salários mínimos por dia de atraso, sem prejuízo de eventual responsabilização nas esferas administrativa, civil e penal.
+§ 1º A multa de que trata o caput deste artigo será aplicada por autoridade a ser definida em regulamento a esta Lei.
+§ 2º A determinação do valor da multa diária, a ser aplicada nos termos do caput deste artigo, deverá considerar a gravidade da omissão existente e o poder econômico do infrator.
+§ 3º Os recursos decorrentes das multas aplicadas com base no caput deste artigo serão destinados ao Instituto Nacional de Câncer José Alencar Gomes da Silva (Inca) e ao Ministério da Saúde, na proporção de 50% (cinquenta por cento) para cada.
