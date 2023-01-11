@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se deagravo interposto por SIGA FOMENTO MERCANTIL FACTORING EIRELI, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de SIGA FOMENTO MERCANTIL FACTORING EIRELI, a parte recorrente foi intimada do acórdão recorrido em 09/03/2021, sendo o recurso especial interposto somente em 07/04/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+No caso, o calendário ou mera relação de feriados juntado às fls. 158/159, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso. A propósito: AgInt nos EAREsp n. 1.933.921/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 3/10/2022; e AgInt nos EDcl no AREsp n. 1.803.102/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 3/11/2022.
+Ademais, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes aosubscritordo agravo e do recurso especial, Dr. José Luis Dias da Silva .
+Além disso, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis (fls. 207/208).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Ressalte-se que não há como conhecer da petição de fls. 211/213, uma vez que preclusa a oportunidade para sanar o vício de representação.
+Outrossim, não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do mandato é da parte.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça,não conheço do recurso.
+Publique-se. Intimem-se.
