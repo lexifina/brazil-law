@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO MARCOS TORRES à decisão de fls. 1202/1203, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+No recurso especial interposto, dentre as matérias discutidas, o Embargante discute a validade do laudo pericial produzido, dentre as Entretanto, após a propositura do recurso.
+ ..
+A 7ª Câmara Cível do C. Tribunal de Justiça do Paraná, em análise de diversos recursos em que os laudos foram elaborados pelo mesmo perito nomeado nesta ação, Dr. JOSÉ ANTONIO ROCCO, vem declarado de ofício a nulidade dos atos processuais ocorridos após a entrega do laudo pericial, tendo em vista que o perito atua em inobservância a matéria de caráter previdenciário, causado anulação das perícias produzidas.
+Inclusive, foi determinada a exclusão do perito do cadastro de auxiliares da Justiça (Sistema "CAJU"), já que seus laudos são constantemente declarados nulos.
+ ..
+O Embargante anexa a esta petição alguns acórdão do C. TJPR onde foi declarada a nulidade de ofício.
+ ..
+Ressalte-se que a presente ação ainda não transitou em julgado, que a matéria ora arguida é de ordem pública, sendo passível de alegação nesta fase processual, por ser a primeira oportunidade após o Embargante possuir ciência dos fatos.
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte aponta a omissão de questão de ordem pública, sem, contudo, rebater à incidência da Súmula 284 do Supremo Tribunal Federal decorrente da ausência de indicação expressa de dispositivo de lei federal violado, óbice pelo qual o recurso especial não foi conhecido. Portanto, sem estabelecer a necessária conexão dialética entre a decisão de não conhecimento do seu recurso especial e estes aclaratórios, em total afronta ao princípio da dialeticidade.
+Ademais, questões de ordem pública, embora sejam passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do preenchimento de requisitos de admissibilidade (AgInt no AREsp n. 1.388.688/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 19/8/2021 e AgRg no AREsp n. 568.759/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/10/2015).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
