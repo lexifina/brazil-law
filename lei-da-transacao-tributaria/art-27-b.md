@@ -1,0 +1,1 @@
+Art. 27-B. Aplica-se o disposto no art. 23 ao contencioso administrativo fiscal de baixa complexidade, assim compreendido aquele cujo lançamento fiscal ou controvérsia não supere mil salários mínimos.
