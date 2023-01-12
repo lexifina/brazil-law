@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RODRIGO LEÔNCIO ZANIBONI PITA, em que se aponta como autoridade coatora desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.22.122564-2/001).
+Consta dos autos que o paciente foi preso em flagrante, no dia 22/6/2021, pela suposta prática dos crimes previstos nos artigos 12 da Lei n. 10.826/2006; artigo 312,caput, segunda parte, do Código Penal, c.c. o artigo 71 do CP;artigo 56 da Lei n. 9.605/1998, em concurso material.
+Nada obstante o parecer ministerial favorável à liberdade (fl. 17), o juiz de primeiro grau decretou a prisão preventiva do acusado em 23/6/2021 (fls. 18-28). Para tanto, destacou o julgador que, em cumprimento de mandado de busca e apreensão e de prisão por feito outro, o increpadofoi preso por posse irregular de arma de fogo e por estocar combustível irregularmente, afigurando-se necessária a segregação para a garantia da ordem pública, visto que se aproveitou do cargo de delegado de polícia para cometer crimes, inclusive ameaçando servidores subordinados eadulterando documentos públicos.
+Ao final da instrução, o réu foi condenado à pena total de 10 anos, 8 meses e 21dias de reclusão, no regime inicial fechado, mais 1 ano, 1 mês e 26 dias de detenção, no regime inicial aberto, juntamente com o pagamento de 88 dias-multa. Foi-lhe vedado o apelo em liberdade, por entender o magistrado que persistiam os motivos que ensejaram a manutenção da prisão cautelar, além de considerar a gravidade dos delitos e a periculosidade do increpado (fls. 31-88).
+Não se resignando, a defesa interpôs recurso de apelação, cujo julgamento foi designado para 9/2/2023. Ao indeferir o pedido de liberdade, a desembargadora consignou o seguinte (fls. 29-30):
+Vistos.
+Nada a prover quanto ao pedido de oposição ao julgamento virtual, pois, após a manifestação contrária do próprio peticionário, a sessão de julgamento - originalmente designada para o dia 23/11/2022 - foi adiada para a 1.ª sessão presencial, a se realizar no dia 09/02/2023 (doe. ordem 159).
+Quanto ao pleito de revogação da prisão preventiva, a manutenção da custódia cautelar ainda se faz necessária, na medida em que, o douto Juízo a quo reconheceu a subsistência dos motivos que outrora justificaram a decretação da prisão preventiva, somados, ainda, aos riscos à aplicação da lei penal, fundamentos que ainda se mostram idôneos.
+De fato, os autos noticiam uma série de crimes praticados com grave violação a deveres inerentes ao cargo de Delegado de Polícia Civil, por meio do qual o apelante teria se apropriado, por longo período, de combustível destinado ao abastecimento de viaturas policiais.
+O mero decurso do tempo não é capaz de dissipar a gravidadedessa conduta e não altera o cenário que justificou a manutenção da prisão preventiva, que tem a característica rebus sic stantibus, impondo-se sua revogação apenas quando desaparecerem os fundamentos que levaram à decretação, o que não é o caso, notadamente quando parte da demora foi provocada pela própria Defesa, que se opôs à realização do julgamento mais célere, de forma virtual.
+Registro, ademais, que o paciente também se encontra preso preventivamente por força de outro feito, no qual se apura a prática de crimes de corrupção passiva e coação no curso do processo, o que evidencia um contexto de periculosidade que não recomenda a concessão da liberdade provisória.
+Ante o exposto, indefiro o pedido contido no doc. ordem 160e 162.
+No presentewrit, o impetrante afirma que o Parquetmanifestou-se favoravelmente à liberdade do acusado, porémo juiz decretou a prisão preventiva de ofício, em evidente atuação ilegal.
+Alega, ainda, a falta de fundamentação idônea para o encarceramento, mantido no édito condenatório.
+Entende que a julgadora de segundo grau complementou a motivação da sentença, o que é vedado.
+Requer, liminarmente e no mérito, a soltura do paciente. Subsidiariamente, pugna pela substituição do ergástulo por medidas cautelares diversas.
+É o relatório.
+O writ não merece prosseguir.
+A decisão combatida foi proferida monocraticamente peladesembargadora relatora na origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016).
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CRIMES LICITATÓRIOS. COMPETÊNCIA DA JUSTIÇA ELEITORAL. MATÉRIA NÃO DISCUTA PELO TRIBUNAL DE JUSTIÇA. INDÍCIOS DE CRIMES ELEITORAIS. REMESSA AO TRIBUNAL REGIONAL ELEITORAL PARA MELHOR EXAME. AGRAVO PARCIALMENTE PROVIDO.
+1. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018).
+2. Ainda que não se possa reconhecer imediatamente a competência da Justiça Eleitoral, se há indícios expressos nos autos acerca da possível prática dos delitos durante o período de campanha eleitoral, com promessa de fraude de futuras licitações em caso de êxito nas eleições, é pertinente que a Justiça especializada seja provocada a decidir sobre a questão.
+3. Não há necessidade anular a medida de busca e apreensão determinada pelo Tribunal de Justiça porque, ainda que seja posteriormente reconhecida a competência da Justiça Eleitoral, este Superior Tribunal de Justiça vem entendendo que o reconhecimento da incompetência do juízo, por si só, não anula decisão cautelar, que, por isso, poderá ser ratificada pela autoridade competente.
+Precedentes.
+4. Agravo regimental provido em parte para determinar a remessa da investigação à Justiça eleitoral para que analise a existência ou não de eventuais crimes eleitorais capazes de atrair a sua competência (Medida cautelar inominada: 0047746-58.2020.8.19.0000).
+(AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
