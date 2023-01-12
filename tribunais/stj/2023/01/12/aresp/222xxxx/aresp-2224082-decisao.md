@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por FAZENDA NACIONAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO INTERNO. SUSPENSÃO. EVENTUAL POSSIBILIDADE DE MODULAÇÃO DOS EFEITOS. REDISCUSSÃO DAS QUESTÕES DE DIREITO TRATADAS EM RECURSO COM EFEITO VINCULANTE. NEGADO PROVIMENTO AO RECURSO.
+Quanto à controvérsia recursal, alega violação dos arts. 43, 111 e 176 do CTN; dos arts. 7º e 8º da Lei n. 8.541/92; do art. 41 da Lei n. 8.981/95; do art. 2º da Lei n. 7.689/88; e do art. 1º-F da Lei n. 9.494/97, no que concerne à incidência de IRPJ/CSLL sobre a taxa SELIC recebida em face de repetição de indébito tributário e levantamento de depósitos judiciais, trazendo o(s) seguinte(s) argumento(s):
+Ao consagrar que os juros, inclusive os da taxa SELIC não integram a base de cálculo do IRPJ e da CSLL, o acórdão recorrido negou vigência ao disposto nos dispositivos legais acima referidos, como se expõe.
+Entende a União que não há dúvida de que os juros de maneira geral, especialmente os da taxa SELIC, constituem acréscimo patrimonial, que integram a base de cálculo do IRPJ e da CSLL, em especial, porque ausente norma que isente tal parcela da incidência de tais tributos, bem assim inexistente legislação que considere tal parcela dedutível.
+Com efeito, não se trata de indenização, mas de acréscimo patrimonial, e nos termos da legislação do Imposto de Renda integra a base de cálculo do IRPJ e CSLL (fl. 367).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência". (AgRg no AREsp 1.532.282/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.302.307/TO, relatora Ministra Eliana Calmon, Primeira Seção, DJe de 13/5/2013; REsp 1.110.552/CE, relator Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15/2/2012; AgInt no REsp 1.830.547/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no AREsp 1.488.516/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/7/2020; AgInt no AgInt no AREsp 1.484.304/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp 1.519.322/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 30/10/2019; AgInt no AREsp 1.358.090/SE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
