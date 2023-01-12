@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE CARLOS DA SILVA em face da decisão de fls. 378/379, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+10. Em que pese o respeitável entendimento este aparenta apresentar, por equívoco, contradição, obscuridade e omissão.
+11. Ora, a decisão dá-se na medida em que o ora peticionante "deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo" . Todavia, tal posicionamento se dá sem lastro na realidade presente nos autos.
+12. Tal como apontado ao recurso apresentado, quando a da sentença originalmente apelada, o Juízo entendeu por ausente o nexo de causalidade entre a conduta e o dano com relação à atuação da União Federal, considerando a mesma ser parte ilegítima. Todavia, o faz sem qualquer base e, em última análise, procedendo com JULGAMENTO DE MÉRITO no que se refere a culpa da União.
+ ..
+20. A decisão exarada, atacada pela apelação, procedeu com JULGAMENTO DE MÉRITO no que se refere a culpa da União e que, com fulcro ao artigo 1.009 do CPC temos como plenamente cabível a apresentação do recurso de apelação, posto estarmos diante de sentença.
+21. Desta forma, como se observa, encontramo-nos diante de situação de correção da inobservância do artigo 1.009 no presente processo. Cumpre-nos, a fim de ilustrar a situação debatida o quadro apresentado quando do Recurso Especial:
+ ..
+22. Ademais, cumpre relatar que embora se repute correto e competente o recurso de Apelação apresentado ante a subsunção do caso em tela e a norma disposta ao código processual, se desta forma não entendesse a turma, esta foi omissa em observar o princípio da fungibilidade, do aproveitamento dos atos processuais e da instrumentalidade das formas, ao não receber a Apelação como se Agravo de Instrumento fosse.
+23. Logo, encontramo-nos diante de nova afronta a normativa federal, tal como também indicado ao Recurso apresentado (fls. 385/387).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
