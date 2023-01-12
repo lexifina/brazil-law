@@ -18,8 +18,8 @@ II - dos itens mencionados nos incisos III a V e IX do caput, incorridos no mês
 III - dos encargos de depreciação e amortização dos bens mencionados nos incisos VI, VII e XI do caput, incorridos no mês;
 IV - dos bens mencionados no inciso VIII do caput, devolvidos no mês.
 § 2º Não dará direito a crédito o valor:
-I - de mão-de-obra paga a pessoa física; e
-II - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição.
+I - de mão de obra paga a pessoa física;
+II - da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumo em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição; e
 § 3º O direito ao crédito aplica-se, exclusivamente, em relação:
 I - aos bens e serviços adquiridos de pessoa jurídica domiciliada no País;
 II - aos custos e despesas incorridos, pagos ou creditados a pessoa jurídica domiciliada no País;

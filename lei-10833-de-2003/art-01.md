@@ -13,5 +13,6 @@ VII - financeiras decorrentes do ajuste a valor presente de que trata o inciso V
 VIII - relativas aos ganhos decorrentes de avaliação do ativo e passivo com base no valor justo;
 IX - de subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos e de doações feitas pelo poder público;
 X - reconhecidas pela construção, recuperação, reforma, ampliação ou melhoramento da infraestrutura, cuja contrapartida seja ativo intangível representativo de direito de exploração, no caso de contratos de concessão de serviços públicos;
-XI - relativas ao valor do imposto que deixar de ser pago em virtude das isenções e reduções de que tratam as alíneas "a", "b", "c" e "e" do § 1º do art. 19 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977; e
-XII - relativas ao prêmio na emissão de debêntures.
+XI - relativas ao valor do imposto que deixar de ser pago em virtude das isenções e reduções de que tratam as alíneas "a", "b", "c" e "e" do § 1º do art. 19 do Decreto-Lei nº 1.598, de 1977;
+XII - relativas ao prêmio na emissão de debêntures; e
+XIII - referentes ao valor do ICMS que tenha incidido sobre a operação.
