@@ -1,0 +1,47 @@
+DECISÃO
+MÁRCIO SANTOS DA COSTAinterpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1510496-14.2020.8.26.0228).
+Nas razões do recurso especial, a defesaaponta violação dos arts.61, II, "j",do CP; 42 e 33, § 4º, da Lei n. 11.343/2006. Busca a redução da pena-base ao mínimo legal, o afastamento das agravantes da reincidência e da calamidade pública e a incidência do privilégio do tráfico.
+Decisão de admissibilidade às fls. 368-369.
+O Ministério Público Federal manifestou-se pelo conhecimento em parte do recurso especial e, nessa extensão, pelo seu provimento.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+No caso, a instância ordinária majorou a reprimenda do recorrente em virtude da análise desfavorável da diversidade, da quantidade e da natureza das drogas apreendidas - 68,2 g de maconha e 292,2g de crack.
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora a natureza da substância apreendida constitua, de fato, circunstância preponderante a ser considerada na dosimetria da pena, entendo que as quantidadesnão foram excessivamente elevadas. Logo, se mostra manifestamente desproporcional sopesar, no caso ora analisado, tais elementos para justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Assim, uma vez verificada a inadequação da análise das circunstâncias judiciais e considerando que não remanesce desfavorável nenhuma outra vetorial, reduzo a pena-base ao mínimo legal, ou seja, 5 anos de reclusão e 500 dias-multa.
+II. Afastamento da agravante prevista no art. 61, II, "j", do CP
+O Tribunal a quo reconheceu a incidência da agravante prevista no art. 61, II, "j", do Código Penal, especificamente a relativa à calamidade pública, e apoiou o agravamento da pena do réu, nos seguintes termos (fl. 299):
+Nesse tópico, convém salientar que o delito foi cometido durante o período excepcional da pandemia ocasionada pela COVID 19 fato de 14/05/2020.
+O estado de calamidade pública foi reconhecido pelo Congresso Nacional no Decreto Legislativo nº 6 de 2020, e pela Assembleia Legislativa do Estado de São Paulo no Decreto nº 64.879 de 20 de março de 2020, sendo, portanto, situação de conhecimento mundial e de plena ciência por parte da população brasileira.
+Ressalte-se que não se exige nexo de causalidade entre o crime e a pandemia de COVID-19, bastando que o réu tenha cometido o delito neste período excepcional, o que se confirma no caso em tela.
+Sua previsão como circunstância apta ao agravamento da pena se dá porque o intuito do legislador foi o de "punir quem demonstra particular desprezo pela solidariedade e fraternidade, num autêntico sadismo moral, aproveitando-se de situações calamitosas para cometer o delito" (NUCCI, Guilherme de Souza, Código Penal Comentado, 2014, p. 422).
+Decerto que o art. 61, II, "j", do CP prevê como circunstâncias que sempre agravam a pena a prática de delito "em ocasião de incêndio, naufrágio, inundação ou qualquer calamidade pública, ou de desgraça particular do ofendido".
+De fato, a conduta do agente que se vale da maior vulnerabilidade do ofendido nessas situações autoriza a elevação da pena a título da referida agravante.
+Como preleciona Damásio Evangelista de Jesus, "são casos em que, não causada pelo agente, este se aproveita da situação para cometer o delito, agravando-se a pena em face da ausência de solidariedade humana" (Comentários ao Código Penal: parte geral. São Paulo: Saraiva, 1986, p. 624).
+Entretanto, considerar que o atual cenário de pandemia se adequa à ideia de calamidade pública de que trata o art. 61, II, "j", do CP implicaria, inter alia, a sua aplicação indiscriminada para todos os crimes ocorridos nesse período, de término ainda incerto.
+Tal consideração, portanto, acabaria por não observar o próprio princípio constitucional de individualização da pena, visto que se passaria a não mais particularizar o contexto em que ocorrido o fato delituoso, pois não se pode afirmar que sempre a conduta delitiva guarda relação com as vicissitudes decorrentes desse período.
+Não menos importante é salientar que esta Corte Superior, em casos similares, tem se posicionado na direção de que embora a pandemia possa se adequar à fórmula casuística inserta no art. 61, II, "j", é necessário que seja estabelecido o nexo de causalidade, caracterizada pela "demonstração de que o agente se valeu do contexto de pandemia para prática do delito" (HC n. 654.255/SP, Rel. Ministro Sebastião Reis Júnior, DJe 7/6/2021).
+Vale dizer, segundo a orientação que tem se firmado neste Superior Tribunal, a "incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, Rel. Ministro Felix Fischer, DJe 4/12/2020).
+Diante de tais considerações, deve o recurso ser provido, neste ponto, a fim de afastar a incidência da referida agravante, seja pela constatação geral de que a pandemia não pode servir, por si só, como justificativa para a sua aplicação, seja porque o acórdão não logrou demonstrar o nexo de causalidade entre a conduta do réu e a referida calamidade.
+III. Reincidência
+A defesa olvidou-se de indicar o dispositivolegal violado.Incide, portanto,a Súmula n. 284 do STF. Isso porque nãofoi indicado pela defesa os dispositivos de lei que supostamente teriamsido infringidos.
+Consoante entendimento desta Corte Superior, "É cediço que aadmissibilidade do recurso especial exige a clara indicação dosdispositivos supostamente violados, o que não se observou in casu,circunstância que atrai a incidência do Enunciado n.º 284 da Súmula doSupremo Tribunal Federal. Precedentes. (AgRg no AREsp 996.099/MG, Rel.Ministro Jorge Mussi, Quinta Turma, DJe 19/05/2017)" (AgRg no REsp n.1.370.522/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 4/10/2017).
+Assim, denoto a falta de fundamentação do apelo especial nesse ponto,circunstância que atrai a incidência da Súmula n. 284 do Supremo TribunalFederal: "É inadmissível o recurso extraordinário, quando a deficiência na
+sua fundamentação não permitir a exata compreensão da controvérsia".
+IV. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem manteve a não incidência do redutor, considerando a reincidência do acusado.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Dessa forma, verifico que não há como ser reconhecida a incidência do redutor em favor do recorrente, haja vista a vedação expressa da concessão desse benefício aos acusados reincidentes, conforme bem salientou a instância ordinária.
+V. Nova Dosimetria
+Em razão das modificações feitas anteriormente, deve ser realizada a nova dosimetria da pena.
+Na primeira fase, a pena-base ficou estabelecida no mínimo legal, isto é, 5 anos de reclusão mais 500 dias-multa.Na segunda etapa, afasto a agravante prevista no art. 61, II, "j", do CP e majoro a pena em 1/6 em razão da reincidência, o que totaliza 5 anos e 10 meses de reclusão e 583 dias-multa, montante que torno definitivo à míngua de causas de aumento e de diminuição.
+Deve ser mantido o regime fechado em razão do quantum da pena e da presença de circunstância judicial desfavorável.
+VI.Dispositivo
+À vista do exposto, dou parcial provimento ao recurso especial, a fim de reduzir a pena-base ao mínimo legal, afastar a incidência da agravante prevista no art. 61, II, "j", do CP e tornar a reprimenda imposta ao réu definitiva em5 anos e 10 meses de reclusão e 583 dias-multa, mantido o regime fechado.
+Comunique-se a decisão, com urgência, à autoridade apontada como coatora e ao juízo de primeiro grau.
+Publique-se e intimem-se.
