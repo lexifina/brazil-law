@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDERSON REGINALDO FERREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Pretende-se, em suma, a revogação da prisão preventiva, decretada pela suposta prática de dois delitos de homicídios, tipificados no artigo 121, §2º, incisos II e IV (1º Fato) e art. 121, §2º, incisos II e IV c/c art. 14, inciso II, bem como pelo crime de porte ilegal de arma de fogo, tipificado no artigo 14 da Lei Federal nº 10.826/03.
+Argumenta que não estão presentes os requisitos autorizadores da prisão preventiva, até porque a infração foi cometida em legítima defesa, bem como aduz que o paciente possui condições pessoais favoráveis.
+Esclarece que "Em data de 16 de dezembro de 2022, por ocasião da impetração do habeas corpus perante o Tribunal de Justiça do Estado do Paraná, autuado sob o número 0064680-07.2022.8.16.0000, teve sua ordem denegada, sob alegação de supressão de instancia, uma vez que, os desembargadores, entenderam que, o paciente deveria ter requerido sua liberdade provisória perante o juízo inaugural inicialmente e posteriormente pela via do Habeas Corpus. Infelizmente, os desembargadores que julgaram o mérito do HC regional, não tomaram conhecimento que, foi pedido em duas oportunidades a liberdade provisória do paciente no Juízo de origem, qual seja, na audiência de custódia e também por ocasião do pedido de liberdade provisória número 0012428-02.2022.8.16.0170" (fl. 17).
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+In casu, em que pese o esclarecimento do impetrante no sentido de que, após a decretação da prisão preventiva, foram negados dois pedidos de revogação pelo juiz de primeiro grau, fato é que o Tribunala quoafirma não ter conhecimento denenhuma dessas decisões, tendo sido juntado aos autos do préviowrittão somente o decreto da preventiva.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
