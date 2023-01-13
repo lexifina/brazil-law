@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALEXANDRE PAULO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS (ART. 33, § 4º, C/C ART. 40, AMBOS DA LEI 11.343/06) - ABSOLVIÇÃO - IMPOSSIBILIDADE.- AUTORIA É MATERIALIDADE SUFICIENTEMENTE COMPROVADAS - REDUÇÃO DA PENA PECUNIÁRIA SUBSTITUTIVA - INVIABILIDADE - REDUÇÃO DA PENA DE MULTA - NECESSIDADE.
+Quanto à controvérsia recursal, alega violação do art. 28, caput, e § 2º, da Lei n. 11.343/2006, no que concerne à necessidade de desclassificação da conduta imputada ao réu para o crime de porte de drogas para consumo pessoal, uma vez que inexistem nos autos provas suficientes acerca da traficância, mormente porque as circunstâncias da abordagem policial indicam que se trata de mero usuário de drogas, trazendo o(s) seguinte(s) argumento(s):
+As instâncias primitivas negaram vigência ao art. 28 "caput" e § 20 da Lei de Tóxicos.
+A natureza e a quantidade da substância apreendida, o local e as condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do recorrente indicavam a incidência do crime de usuário de drogas jamais traficante.
+O TJMG através do acórdão recorrido negou vigência a Lei Federal, cabendo a esse tribunal da cidadania dar-lhe vigor.
+O § 2º do art:28 da Lei 11.343/06, determinou o caminho a se percorrer para reconhecer a conduta de usuário e jamais traficante.
+Não se pretende de forma alguma volver provas, e, sim dar vigência ao § 20 do art. 28 da Lei de Tóxicos, que se aplica ao caso em estudo.
+Contudo a regra do dispositivo supracitado não foi atendida, não tendo alternativa senão através do recurso especial (fls. 300/301).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
