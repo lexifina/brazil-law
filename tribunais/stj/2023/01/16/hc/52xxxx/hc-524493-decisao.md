@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Vanderley Gonsales Wilxenski, em que se aponta como órgão coator o Tribunal de Justiça do Paraná.
+Infere-se dos autos que o paciente, juntamente com outros corréus, teve decretada a prisão preventiva pela suposta prática dos crimes previstos no art. 35, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 (1º Fato) e art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006, c/c o art. 29 do Código Penal (2º Fato), e tudo na forma do art. 69 do Código Penal (Autos n. 0007194-72.2018.8.16.0075 - fls. 152/156).
+Irresignada, a defesa impetrou o HC n. 0030241-72.2019.8.16.0000, tendo o Tribunal a quo, por unanimidade, denegado a ordem, nos termos da seguinte ementa (fl. 460):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DECRETO DE PRISÃO PREVENTIVA. PEDIDO DE REVOGAÇÃO. IMPOSSIBILIDADE. REITERADA E SISTEMATIZADA MOVIMENTAÇÃO DE ENTORPECENTES ENTRE ESTADOS DA FEDERAÇÃO, RISCO CONCRETO À REITERAÇÃO CRIMINOSA. ORDEM PÚBLICA AMEAÇADA. DECISÃO JUDICIAL CONCRETAMENTE FUNDAMENTADA. INCABÍVEL A APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO ANTE A NECESSIDADE DA ULTIMA RATIO. IRRELEVÂNCIA DE CONDIÇÕES PESSOAIS FAVORÁVEIS. ORDEM CONHECIDA E DENEGADA.
+Sobreveio o presente writ, no qual os impetrantes sustentam, em síntese, a ausência de fundamentação idônea para justificar a decretação e manutenção da prisão preventiva, bem como a ausência dos requisitos autorizadores previstos no art. 312 do Código de Processo Penal.
+Ressaltam, ademais, a desnecessidade da custódia cautelar, ante as condições pessoais favoráveis do ora paciente - primário e de bons antecedentes (fl. 13).
+Requerem, liminarmente e no mérito, seja cassada a decisão que decretou a prisão preventiva, a fim de que o paciente aguarde em liberdade o deslinde do feito, expedindo-se o competente contramandado (fl. 23).
+Liminar indeferida (fls. 475/477).
+Prestadas as informações (fls. 483/492 e 496/497), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 500/503).
+Informações complementares às fls. 509, 520/521, 524/526 e531/564.
+É o relatório.
+O presente writataca a decretação e manutenção da prisão preventiva imposta ao ora paciente, nos autos da Ação Penal n. 0003965-70.2019.8.16.0075, pela prática, em tese, dos crimes descritos no art. 35,caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 (1º Fato) e art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006, c/c o art. 29 do Código Penal (2º Fato), tudo na forma do art. 69 do Código Penal.
+Pois bem. Com a realização do julgamento do recurso de apelação (n. 0003965-70.2019.8.16.0075), em 24/10/2022, negando provimento ao apelo defensivo,verifica-se o exaurimento do objeto do writ em liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos da sentença, mas do aresto que a substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 24/10/2022, tem-se por esvaído o objeto do remédio heroico.
+Com efeito, nos termos do entendimento adotado por este Sodalício: Com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+E ainda: AgRg no HC n. 291.055/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014; e AgRg no RHC n. 36.064/DF, Ministro Moura Ribeiro, Quinta Turma, DJe 23/9/2013.
+Tal a circunstância, julgo prejudicado o writ (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. TESE DE INIDONEIDADE DE FUNDAMENTAÇÃO. IMPETRAÇÃO QUE SE VOLTA CONTRA DENEGAÇÃOEM WRIT ORIGINÁRIO (HC N. 0030241-72.2019.8.16.0000). SUPERVENIENTE JULGAMENTO DO RECURSO DE APELAÇÃO, COM PROVIMENTO NEGADO AO APELO DEFENSIVO. SUBSTITUIÇÃO DA SENTENÇA PELO ACÓRDÃO (APELAÇÃO N. 0003965-70.2019.8.16.0075). NOVO TÍTULO JUDICIAL. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA IMPETRAÇÃO. PERDA DO OBJETO.
+Habeas corpus prejudicado.
