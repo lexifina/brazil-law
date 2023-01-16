@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA ZILDA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim resumido:
+DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA EM RELAÇÃO AO PLEITO INDENIZATÓRIO. APELAÇÃO CÍVEL. ALEGAÇÃO DE QUE HÁ NEXO CAUSAL E ELEMENTO PROBATÓRIO SUFICIENTE PARA FINS DE REPARAÇÃO. DESCABIMENTO. AUSÊNCIA DE PROVAS ACERCA DA OCORRÊNCIA DO DANO. APELO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, alega violação dos arts. 927, 967 e 968 do CC, no que concerne à necessidade de reconhecimento do dano moral, tendo em vista a indevida inclusão do nome da recorrente como titular de uma empresa registrada perante a Junta Comercial, trazendo os seguintes argumentos:
+Ocorre que diante da natureza do serviço que presta, a Junta Comercial tem, ou pelo menos deveria ter, meios suficientes à conferência da autenticidade da documentação que a ela fora apresentada para a abertura da empresa. Podendo evitar fraudes se tivesse conferido rigorosamente a documentação.
+Por esse motivo a demandada vem causando sérios prejuízos financeiros a autora, devendo responder objetivamente portais danos, ante a negligência da promovida e a imprudência na consecução do negócio jurídico entabulado com a empresa MARIA ZILDA DA SILVA 08810779410.
+ ..
+No caso em tela o dano moral restou vastamente demonstrado: primeiro a autora vem recebendo cobranças e, logo será incluída na divida ativa, posto que não irá pagar tais tributos, pois conforme comprovado na presente ação nunca foi dona da empresa individual nome MARIA ZILDA DA SILVA 08810779410, CNPJ nº 19.636.993/0001-10. A referida fraude ocasionou angustia, sofrimento e abalo psicológico na autora, pois está com a constante sensação de insegurança, haja visto ter, no Estado de São Paulo, um empresa em seu nome, da qual desconhecia completamente a origem.
+ ..
+O dano moral afigura-se presumível, pois a utilização indevida dos dados cadastrais de alguém é causa suficiente a ensejar estresse e alteração do bem estar ideal.
+A indenização por danos morais não visa à recomposição patrimonial. Antes, tem o sentido de dar ao lesado, na sua condição sócio-econômica, uma compensação pela dor sofrida, não podendo, todavia, ser causa de enriquecimento indevido.
+A obrigação de indenizar independe da comprovação de prejuízo material e inexiste parâmetro legal para sua fixação, mas somente os critérios de proporcionalidade e razoabilidade.
+Neste norte, não restam dúvidas quanto à possibilidade de cancelamento do requerimento de empresário, bem como, de condenação em indenização por danos morais (fls. 176-178).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Todavia, as provas documentais constantes nos autos não são suficientes para demonstrar o alegado dano moral, mas sim mero aborrecimento e desconforto inerente quando se está diante de um contratempo proveniente de uma negligência administrativa (fl. 161).
+ ..
+Na espécie, é inegável que a situação posta gerou aborrecimento à apelante, porém não mostrou-se suficiente para atingir sua esfera moral ou mesmo psicológica, máxime porque não extrapolou sua esfera íntima, sem qualquer repercussão social ou impedimento relativo a transações comerciais ou bancárias (fl. 162).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
