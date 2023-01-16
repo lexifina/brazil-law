@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS PEREIRA DOS SANTOS impugnandodecisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado da Bahia.
+Consta dos autos que o recorrente foi condenado pelo cometimento do delito previsto no art. 157, 82, II, do Código Penal,à pena de 06 (seis) anos e 04 (quatro) meses de reclusão, além do pagamento de 116 (dezesseis) dias-multa, à razão de 1/30 (um trinta avos) do salário mínimo vigente à época dos fatos, em regime semiaberto (e-STJ fl. 326).
+Inconformada, a defesa interpôs apelação junto ao Tribunal estadual o qual não conheceu do recurso,nos termos da seguinte ementa (e-STJ fls. 324/335):
+APELAÇÃO CRIMINAL. ROUBO MAJORADO (ART.157,§2º,IEILDOCP). RECURSO DA DEFESA.PRETENDIDA ABSOLVIÇÃO OU APARTICIPAÇÃO DE MENOR IMPORTÂNCIA. IMPOSSBILIDADE. COMPROVADAAMATERIALIDADE E AUTORIA DELITIVAS, ALÉM DA DIVISÃO DE TAREFAS. MANUTENÇÃO DA PENA. RECURSO CONHECIDO EDESPROVIDO.
+I-os crimes contra o patrimônio, a palavra da vítima encontra especial relevância, quando em consonância com as demais provas dos autos.
+II Restando demonstrado que a Apelante possuía o domínio do fato, não há que se falar em participação de menor importância.
+III-Havendo fundamentação idônea, a pena deve ser mantida.
+Interposto Recurso Especial, a Corte de origem o inadmitiu com fundamento nas Súmulas 7 e 83 ambas desta Corte(e-STJ fls. 363/365).
+Nas razões do recurso especial (e-STJ fls. 341/346), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente fragilidade das provas e violação ao art. 386, VII, do Código de Processo Penal.
+Defende o reconhecimento da causa de diminuição de pena prevista no art. 29, §1º do Código Penal.Sustenta necessidade de absolvição (fragilidade probatória).
+Aponta julgado desta Corte objetivando inaugurar a existência dedivergência jurisprudencial deste como acórdão impugnado (e-STJ fls. 382/384).
+Apresentadas contrarrazões (e-STJ fls. 355/362), o Tribunala quonão admitiu o recurso especial (e-STJ fls. 363/365), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo desprovimento do agravo (e-STJ fls. 410/416)
+É o relatório.Decido.
+Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, considerandohipótese de incidência das Súmulas 7 e83 ambas do Superior Tribunal de Justiça.
+Não obstante, nas razões do agravo (e-STJ fls. 379/387), a parte agravante deixou de apresentar impugnação específica em relação aoentraveapontadopelo Tribunal de origem na decisão de inadmissibilidade do recurso especial, limitando-se a alegar que os fundamentos do Recurso Especial ora interposto não constituireexame de prova e sim uma exata valoração das provas que autorizam o recurso ora proposto pela violação do art. 386, VII, do Código de Processo Penal, e que a decisão da Corte a quo dissoade outros tribunais do pais(e-STJ fls. 382/384), repetindo toda a argumentação apresentada no próprio recurso especial.
+Com efeito, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do Verbete Sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, destaco:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.HOMICÍDIO QUALIFICADO. OCULTAÇÃO DE CADÁVER. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. "O julgamento monocrático encontra previsão no art. 253, parágrafo único, inciso II, alínea b, do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema, inexistindo, portanto, ofensa ao princípio da colegialidade" (AgRg no AREsp n. 1.249.385/ES, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 4/2/2019).
+2.Não havendo impugnação específica acerca dos fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+3. Agravo regimental desprovido.(AgRg no AREsp 1831731/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 03/08/2021, DJe 12/08/2021, grifei)
+De seu turno, a Corte de origem, em decisão devidamente motivada, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, assim concluiu sobre do tema (e-STJ fls.324/325, grifei):
+ ..
+ADefesa do Acusado requereu a sua absolvição por ausência de provas da autoria delitiva.
+Entretanto, consoante se denota das provas carreadas aos fólios, constata-se que a autoria e a materialidade delitivas revelam-se incontestes,restando provadas pelos autos de prisão em flagrante delito (fl. 06 dos autos digitais), auto de exibição e apreensão (fl.17 dos autos digitais), laudo pericial da arma (fls.170/171 daqueles autos), além das declarações da vítima e dos depoimentos das testemunhas.
+ ..
+Assim, percebe- se que, embora o Acusado tenha negado, em Juízo, a prática do roubo, as declarações da vítima, bem como o depoimento das testemunhas, demonstram ter sido ele um dos que perpetraram o crime objeto da lide.
+Ora, o Acusado afirma ser o proprietário do veículo, não sendo crível queo Corréu tenha entrado armado no veículo, sem o seu consentimento.  ..
+Insta frisar que, em crimes contra o patrimônio, a palavra da vítimaencontra especial relevância, sobretudo quando corroborada com as demais provas colhidas nos autos, como acontece no caso em epígrafe.
+ ..
+No caso concreto, a Corte de origem registrou, a partir da análise que fez do conteúdo dos autos, a existência de elementos suficientes a comprovar a participação do recorrente no delito em questão.
+Também no que se refere àalegada violação do art. 29, §1º do Código Penal, objetivando a diminuição da pena imposta ao recorrente, destaco que diante da comprovação nos autos da prática de roubo por parte do recorrente, ficou afastada a possibilidade de apreciação da causa de diminuição de pena. É o que se constata da conclusão a que chegou a Corte de origem, como bem delineado no voto acima transcrito.
+O pronunciamento das instâncias ordinárias pela presença do elemento subjetivo exigido pelo tipo penal violado - o especial fim de agir -, bem como sobre o dano advindo da conduta ilícita patrimonial, encontra respaldo nas provas obtidas a partir da instrução criminal, sob o pálio do devido processo legal e com respeito aos princípios do contraditório e da ampla defesa.
+Nesse sentido, descabida a pretensão recursal deduzida pela defesa, pois a revisão do provimento jurisdicional recorrido demandaria, necessariamente, o reexame de matéria fático-probatória, o que, em sede de recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ.
+No tocante ao dissídio jurisprudencial alegado como fundamento do Recurso Especial interposto,extrai-se dos autos que o recorrentenão realizou o cotejo analítico entre os acórdãos confrontados, limitando-se a citar trechos do acórdão recorrido e o número do REsptido como paradigma (e-STJ fl. 382).
+Como é cediço na jurisprudência desta Corte Superior, não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera mençãode julgado para comprovar a divergênciajurisprudencial. Requisitos previstos no art. 255, §1º, do Regimento Interno do Superior Tribunal de Justiça e do art. 1.029, § 1º, do CPC. Divergência jurisprudencial não demonstrada. Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DE ROUBO QUALIFICADO, RESISTÊNCIA, LESÃO CORPORAL E CORRUPÇÃO DE MENOR. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA. NULIDADE. INVASÃO DE DOMICÍLIO DO CORRÉU/MENOR. INOCORRÊNCIA. FUNDADAS SUSPEITAS. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. EXISTÊNCIA DE OUTRAS PROVAS PARA A CONDENAÇÃO. PRECEDENTES DESTA CORTE. PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - STF. PLEITO ABSOLUTÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. FUNDAMENTOS CONCRETOS. ELEMENTOS EXTRÍNSECOS AOS TIPOS CRIMINOSOS. ATENUANTE DA CONFISSÃO. ART. 307 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A divergência jurisprudencial apontada não preenche os requisitos dos arts. 1.029, § 1º, do Código de Processo Civil - CPC/2015 e 255, § 1º, do Regimento interno do Superior Tribunal de justiça - RISTJ, não bastando a simples transcrição de ementas.
+ ..
+8. Agravo regimental desprovido.
+(AgRg no REsp n. 1.964.592/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/11/2022, DJe de 1/12/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. DISSENSO NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. PARADIGMA EM HABEAS CORPUS. NÃO CABIMENTO.
+1. A comprovação da divergência jurisprudencial pressupõe que o confronto dos julgados revele soluções distintas a idênticas premissas fáticas e jurídicas.
+2. Nos termos do entendimento firmado na Corte Especial, "não se admitem embargos de divergência quando o alegado dissídio é apresentado com acórdão paradigma proferido em habeas corpus, recurso ordinário em habeas corpus, recurso em mandado de segurança ou habeas data" (AgInt nos EREsp n. 1.863.254/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 27/9/2022, DJe de 6/10/2022).
+3. Agravo regimental improvido.
+(AgRg nos EAREsp n. 2.035.292/PB, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Terceira Seção, julgado em 9/11/2022, DJe de 11/11/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. REQUISITOS DOS ARTS. 1.029, § 1º, DO CPC E 255, § 1º, DO RISTJ. PRETENSÃO ABSOLUTÓRIA. RECONHECIMENTO DE PESSOAS. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 226, DO CPP. CORROBORADO POR OUTROS ELEMENTOS DE PROVA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA N. 7/STJ. CONCURSO DE CRIMES. OFENSA A PATRIMÔNIOS DISTINTOS. CONCURSO FORMAL CONFIGURADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementas. Requisitos previstos no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça e no art. 1.029, § 1º, do CPC. Ademais, na hipótese vertente, o recorrente não logrou comprovar a similitude fática entre os acórdãos confrontados, na medida em que o acórdão recorrido destacou a existência de outras provas da autoria, independentes do reconhecimento de pessoas, ao passo que o acórdão paradigma, não. Divergência jurisprudencial não demonstrada.
+Precedentes.
+7. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.083.407/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. ADULTERAÇÃO DE SUBSTÂNCIA MEDICINAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. INÉPCIA DA DENÚNCIA. REITERAÇÃO. PEDIDO PREJUDICADO. AUSÊNCIA DE PREQUESTIONAMENTO QUANTO À DESCLASSIFICAÇÃO DA CONDUTA. ABSOLVIÇÃO. SÚMULA N. 7/STJ. AGRAVO DESPROVIDO.  ..
+4. A mera transcrição de ementas não serve à comprovação do dissídio, sendo necessário o cotejo analítico entre os acórdãos recorrido e o paradigma, com a efetiva confirmação da similitude dos casos confrontados.
+ ..
+8. Agravo regimental desprovido (AgRg no AREsp 291.284/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 23/4/2019, DJe 3/5/2019).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. GESTÃO TEMERÁRIA. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. COTEJO ANALÍTICO. NECESSIDADE.
+1. Para a comprovação da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu na espécie.
+2. Não tendo sido demonstrada a divergência nos termos em que exigido pela legislação processual de regência (art. 1.029, § 1º, do NCPC, c/c art. 255 do RISTJ), não pode ser conhecido o recurso especial interposto com fundamento na alínea "c" do permissivo constitucional.  ..
+3. Agravo regimental desprovido(
+(AgRg no REsp 1.766.096/CE, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 4/12/2018, DJe 14/12/2018).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO DESPROVIDO.
+1. Não tendo o acórdão recorrido analisado a incidência dos dispositivos tidos por violados, fica obstado o julgamento do recurso por ausência de prequestionamento, nos termos da Súmula 211 do STJ.
+2. A mera transcrição de ementas não serve à comprovação do dissídio, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados.
+3. O recurso especial interposto pelas alíneas "a" e "c" do permissivo constitucional deve indicar a norma tida por violada e a divergência jurisprudencial.
+4. Agravo desprovido
+(AgInt nos EDcl nos EDcl no REsp 1.167.018/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 6/11/2018).
+PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NO JULGAMENTO. PRECLUSÃO. PRECEDENTES. CONDENAÇÃO AMPARADA EM ELEMENTOS COLHIDOS NA FASE INQUISITORIAL, CONFIRMADOS POR PROVAS OBTIDAS EM JUÍZO. POSSIBILIDADE. REVISÃO DE MATÉRIA PROBATÓRIA E EXAME DE LEI LOCAL. NÃO CABIMENTO. SÚMULAS 7/STJ E 280/STF. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. CONDENAÇÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+6. Para a comprovação da divergência jurisprudencial deve a parte recorrente evidenciar a existência de similitude fática e jurídica entre os arestos confrontados, nos termos do artigo 255, § 2º, do RISTJ.
+ ..
+8. Agravo regimental improvido.
+(AgRg no REsp 1500980/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2015, DJe 24/3/2015).
+Ante do exposto, com fulcro no art. 932, III, do CPC, c/c art. 253, parágrafo único, I, do RISTJ,não conheçodo agravo em recurso especial.
+Intimem-se.
