@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Vitor Almeida Braz contra a decisão monocrática,de minha lavra, assim ementada (fl. 279):
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E HOMICÍDIO TENTADO. NEGATIVA DE AUTORIA. CONTEXTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. APREENSÃO DE ELEVADA QUANTIDADE DE ENTORPECENTE (CERCA DE 15 KG DE MACONHA). CIRCUNSTÂNCIAS DA APREENSÃO. MOTIVAÇÃO IDÔNEA. INOVAÇÃO DOS FUNDAMENTOS PELO TRIBUNAL ESTADUAL. NÃO OCORRÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. ILEGALIDADE NÃO EVIDENCIADA.
+Recurso em habeas corpus improvido.
+No presente recurso, o agravante pugna pela revisão da decisão monocrática, com a finalidade de conhecer a presente ordem de habeas corpus para julgar os pedidos nela contidos, destacando que houve concordância ministerial com a soltura do recorrente, que entendeu que o caso dos autos poderia se aplicar medidas mais brandas que a prisão preventiva (fl. 297).
+Reitera as razões do recurso em habeas corpus, no sentido da negativa de autoria, da ausência de motivação do decreto de prisão preventiva, de presença de condições pessoais favoráveis e de inovação dos fundamentos por parte da Corte a quo.
+Requer, assim, a reconsideração da decisão agravada ou, caso contrário, a sua submissão ao órgão colegiado competente.
+É o relatório.
+Das informações trazidas aos autos pelo Juízo de origem (fls. 314/330), bem como, segundo consta no andamento processual dos Autos n.0019076-38.2022.8.13.0313, daVara de Execuções Penais, de Precatórias Criminais e do Tribunal do Júri, da comarca de Ipatinga/MG, verifica-se que, em 19/10/2022, isto é, após a decisão ora combatida, foi proferida sentença desclassificatória em relação ao crime de tentativa de homicídio, mantendo-se o processamento e julgamento dos crimes de tráfico de drogas e associação para o tráfico imputados a todos os denunciados (fl. 330).
+Na ocasião, salientou-se que,com relação a manutenção da prisão cautelar dos denunciados, não obstante a decisão de desclassificação, em razão da quantidade da droga apreendida, bem as circunstâncias fáticas da prisão, que, a princípio, denota a existência de atividade criminosa organizada, entende deva ser mantida a custódia cautelar dos denunciados, no momento (fl. 330 - grifo nosso).
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença desclassificatória), consubstanciado em nova motivação - tendo sido acentuado o requisito da garantia da ordem pública e emergida a ponderação de que as circunstâncias fáticas denotama existência de atividade criminosa organizada -, cujo requisito específico desafia impugnação própria perante o novo juízo.
+Diante da relevante alteração no contexto fático-processual e ocorrendo, em decisão posterior, a reavaliação dos fundamentos da prisão, não há como prosseguir no processamento deste recurso.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EMHABEAS CORPUSIMPROVIDO. HOMICÍDIO TENTADO.TRÁFICO DE DROGAS.ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DESENTENÇA DESCLASSIFICATÓRIA.REAVALIAÇÃO DOS FUNDAMENTOS DA CUSTÓDIA.NOVOFUNDAMENTO. PERDA DE OBJETO.
+Agravo regimental prejudicado.
