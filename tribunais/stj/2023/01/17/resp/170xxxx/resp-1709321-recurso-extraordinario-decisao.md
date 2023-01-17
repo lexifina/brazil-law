@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por BAUKE DOUWE DIJKSTRA,com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 896):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO GENÉRICA. SÚMULA N. 284/STF. NULIDADE. AUSÊNCIA DE PREJUÍZO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma.
+2. "O Superior Tribunal de Justiça tem iterativamente assentado que a decretação de nulidade de atos processuais depende da necessidade de efetiva demonstração de prejuízo da parte interessada, por prevalência do princípio pas de nulitte sans grief" (EREsp 1.121.718/SP, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, Julgado em 18/4/2012, DJe 1/8/2012).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que a notificação foi efetiva, nos termos da Lei n. 9.514/1997, sem prejuízo algum aos recorrentes no ajuizamento da ação declaratória de nulidade de cláusulas de garantia fiduciária de bens imóveis. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos pela parte ora recorrente foram rejeitados (fls. 932-937).
+A parte insurgente alega a violação dos arts. 5º, LIV, e93, IX, da CF. Aduz, ainda, que haveria repercussão geral da matéria tratada.
+Sustentaque esta Corte Superiorrecorrido teria deixado de apreciar pontos relevantes para o deslinde da controvérsia, que foram suscitados inclusive em embargos de declaração.
+Entendeque teria havido afronta ao devido processo legal, ao argumento de que será privado de imóvel sem que o banco recorrido tenha seguido o rito previsto no art. 26, § 3º, da Lei n. 9.514/1997 para a constituição da mora.
+Requer, ao final, a admissão do recurso e suaremessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.005-1.021.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais o órgão colegiado negou provimento ao agravo interno, valendo destacar os seguintes trechos (fls. 906-907):
+Inicialmente, não houve impugnação à aplicação da Súmula n. 83/STJ, em razão de o acórdão recorrido encontrar-se em consonância com a jurisprudência desta Corte Superior quanto à legitimidade da celebração de contrato de alienação fiduciária de imóvel como garantia de toda e qualquer obrigação pecuniária, não sendo caso de desvio de finalidade.
+A alegação genérica de afronta a dispositivos legais - arts. 1º da Lei n. 9.514/1997, 5º e 166, IV, do CC/2002, 51, IV e XV, 400 e 420 do CPC/1973 -, segundo a jurisprudência do STJ, torna a fundamentação deficiente e impede o conhecimento do recurso, devido à aplicação analógica da Súmula n. 284/STF. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL POR DANO AMBIENTAL. INALAÇÃO DE GASES TÓXICOS EM RAZÃO DE INCÊNDIO. OFENSA AOS ARTS. 489, 1.022 E 1.025 DO NCPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DANO MORAL. FALTA DE COMPROVAÇÃO DO DANO E DO NEXO DE CAUSALIDADE. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, 1.022 e 1.025 do NCPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+ ..
+7. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp 1.638.346/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/05/2020, DJe 04/06/2020.)
+Como delineado na decisão agravada, a jurisprudência do STJ entende que, quando não houver prejuízo, não deve ser declarada a nulidade. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/73. JUNTADA DE DOCUMENTO NAS CONTRARRAZÕES DO RECURSO DE APELAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DOCUMENTO NÃO INFLUENTE À SOLUÇÃO DA LIDE. AUSÊNCIA DE PREJUÍZO.
+1. Para o reconhecimento de nulidade processual, imprescindível a verificação de prejuízo.
+2. Caso concreto em que a juntada do documento, embora tenha sido extemporânea, não influenciou a solução da lide.
+3. Ausência de prejuízo a afastar a alegada nulidade processual.
+4. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1.402.700/MG, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/10/2016, DJe 18/10/2016.)
+Dessa maneira, para afastar a conclusão do Tribunal de origem de que a notificação foi efetiva, nos termos da Lei n. 9.514/1997, e que os agravantes não sofreram prejuízo apto a ensejar a pretendida declaração de nulidade, seria necessária a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 936-937):
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez comprovada a existência de algum dos vícios elencados no art. 1.022 do CPC/2015, o que não se evidencia no caso em exame. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA CARTA ROGATÓRIA. OMISSÃO INEXISTENTE. PRETENSÃO DA PARTE EMBARGANTE DE REDISCUTIR QUESTÕES JÁ DECIDIDAS NO ACÓRDÃO EMBARGADO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, hipóteses não verificadas no caso.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+3. Embargos de declaração rejeitados, com determinação de baixa imediata dos autos. (EDcl no AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 06/12/2017, DJe 09/02/2018.)
+No caso concreto, pleiteiam os embargantes nova análise do recurso anteriormente interposto, repisando as mesmas alegações apresentadas previamente.
+O recurso anterior foi devidamente examinado no acórdão ora embargado, nos seguintes termos (e-STJ, fl. 907):
+Como delineado na decisão agravada, a jurisprudência do STJ entende que, quando não houver prejuízo, não deve ser declarada a nulidade. A propósito:
+ ..
+Dessa maneira, para afastar a conclusão do Tribunal de origem de que a notificação foi efetiva, nos termos da Lei n. 9.514/1997, e que os agravantes não sofreram prejuízo apto a ensejar a pretendida declaração de nulidade, seria necessária a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Assim, ficou claro que o Tribunal entendeu ter ocorrido a notificação de maneira efetiva, de forma que não constatou nenhum prejuízo apto à declaração de nulidade. Para afastar o entendimento da Corte de origem seria, portanto, necessário revolvimento fático.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos declaratórios. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi consignada a necessidade de revolvimento fático-probatório para a aferição do suposto descumprimento das disposições do art. 26 da Lei n. 9.514/1997, relativasao procedimento de notificação do devedorem mora com o contrato de alienação fiduciária,o que, no âmbito do recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF.RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF.AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2.Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada noTema n. 339/STF, tese de observância obrigatória(CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
