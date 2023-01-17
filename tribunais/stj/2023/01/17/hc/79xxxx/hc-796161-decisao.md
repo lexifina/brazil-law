@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DILEIA DA SILVA CHARAO, JULIANO BRUM DE ALMEIDA e SIMEIA IDALINA DA SILVA MACHADO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Os pacientes foram condenados pelo crime de tráfico de drogas e associação para o tráfico (artigos 33 e 35, combinados com o artigo 40, inciso III, todos da Lei nº 11.343/06, e no artigo 2º, § 3º, da Lei n.º 12.850/13).
+Sustentam quea tese defensiva da inviolabilidade do domicílio não foi reconhecida, mesmo havendovoto favorável do relator da apelação absolvendo os pacientes pela nulidade da prova obtida em face da suposta violação do domicílio.
+Pretende-se, em suma, o reconhecimento da ilicitude das provas e aconcessão da ordem,de oficio, para a reforma da sentença e a absolvição dos pacientes.
+É o relatório.
+Em que pesem os argumentos vertidos na impetração, owrit em exame não propicia um juízo de admissibilidade positivo.
+Com efeito, na origem, a ordem dehabeas corpusfoi denegada, por maioria de votos, pela 1ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que refutou a alegação de ilicitude da prova, nos termos do acórdão a seguir ementado:
+APELAÇÃO-CRIME. TRÁFICO ILÍCITO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. APELO DEFENSIVO.
+Preliminar de Violação de Domicilio. Afastamento. Caso dos autos em que não há falar em ilicitude no ingresso domiciliar. Policiais que adentraram nas residências amparados em fundadas razões, no contexto de investigação oriunda da Operação "Centurião", além de elementos obtidos da extração de dados telefônicos de aparelhos regularmente apreendidos. Recebimento de informação apontando a traficância, o que ensejou a realização de diligências de averiguação e monitoramento do local apontado. Abordagem da ré D. e apreensão de entorpecente em sua residência. Posterior abordagem dos demais réus e do restante das drogas descritas na inicial acusatória. O crime de tráfico de drogas tem natureza permanente cuja consumação se protrai no tempo e não exige a apresentação de mandado de busca e apreensão ou autorização judicial para o ingresso dos policiais na residência do acusado, quando se tem por objetivo cessar a atividade criminosa, dada a situação de flagrância, conforme ressalva o art. 5º, XI, da Constituição Federal. Precedentes do Superior Tribunal de Justiça. Mérito. A sentença foi mantida na íntegra. APELO DEFENSIVO DESPROVIDO, POR MAIORIA.
+Nesta nova impetração, pretende-se o reconhecimento da ilicitude das provas e a concessão da ordem, de oficio, para a reforma da sentença e a absolvição dos pacientes.
+Ocorre, entretanto, que, por um lado, ohabeas corpusnão se presta à reapreciação dasprovas produzidas nos autos, ao propósito da reversão do édito condenatório. Para tal finalidade, a parte tem à sua disposição os instrumentos adequados, disponibilizados pela lei processual penal.Por outro lado, não se cogita da impetração dowritcontendo exclusivopedido de concessão de ordemde ofício.
+Assim, sob qualquer ângulo que seja analisada a matéria, ohabeas corpusnão reúne condições de prosseguimento.
+Ante o exposto, com fundamento no art. 21, XIII,c, c.c. art. 210 do RISTJ,indefiro liminarmente o presentehabeas corpus.
+Publique-se.
+Intimem-se.
