@@ -1,0 +1,66 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. REQUISITOS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL E AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Vigésima Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo:
+
+    “AGRAVO DE INSTRUMENTO – Execução de Título Extrajudicial – Decisão que acolheu a alegação de impenhorabilidade de pequena propriedade rural – Irresignação – Reconhecimento da impenhorabilidade da pequena propriedade rural depende da satisfação cumulativa dos seguintes requisitos: 1. área de até 4 (quatro) módulos fiscais; 2. ser trabalhada pelo próprio titular da terra; 3. servir de sustento ao agricultor e a sua família – Preenchimento somente dos dois primeiros requisitos – Propriedade rural que não é a única fonte de subsistência do agravado – Proteção legal que visa resguardar o mínimo existencial do trabalhador rural, não meramente excluir imóveis de determinada dimensão da esfera da responsabilidade patrimonial – Reforma do decisum – Recurso provido” (fl. 33,
+vol. 6).
+
+    Os embargos de declaração opostos foram parcialmente acolhidos sem efeitos modificativos, nos termos seguintes:
+
+    “EMBARGOS DE DECLARAÇÃO – Alegação de omissão e erro material – OMISSÃO – Não apreciação do argumento de que o imóvel em questão se trata de bem de família do agravado ora embargante – Pedido expresso em contraminuta – Omissão presente – Alegações, contudo, que não foram analisadas pelo douto Juízo ‘a quo’ – Risco de supressão de instância – Inviabilidade da sua análise nesta seara – OMISSÃO – Situação fática superveniente – Documentação não trazida em sede de contraminuta – Inovação em sede recursal vedada – Hipótese em que o embargante pretende, em verdade, o reexame da matéria – Descabimento – ERRO MATERIAL – Ausência de vícios – Mero inconformismo do embargante com o resultado do julgamento – Embargos de declaração descabidos, porquanto opostos com intuito meramente infringente – Precedentes jurisprudenciais – Embargos parcialmente acolhidos para sanar a omissão, sem efeitos modificativos” (fl. 13, vol. 10).
+
+    2. O recorrente alega ter o Tribunal de origem contrariado o art. 5º, inc. XXVI, da Constituição da República ao argumento de que “o v. Acórdão combatido criou óbice ao reconhecimento da impenhorabilidade da pequena propriedade rural sub judice, afirmando ser o Recorrente proprietário de outros imóveis da mesma natureza, embora o art. 5°, inciso XXVI não estabeleça a imprescindibilidade de que o devedor tenha um único imóvel” (fl. 16, vol. 12).
+
+    Ressalta que “o dispositivo legal em voga não estabelece a imprescindibilidade de que o devedor tenha unicamente um imóvel, mas, determina a necessidade de que se encaixe tão somente como pequena propriedade rural” (fl. 21, vol. 12).
+
+    Afirma que “o desfecho dado à lide pelo v. Aresto evidencia flagrante ofensa ao art. 5° inciso XXVI, da CRFB/88, tanto que sua interpretação anda na contramão daquela atribuída por outros Tribunais, ensejando a reforma ora pretendida face à notória divergência jurisprudencial acerca dos requisitos efetivamente impostos pela Carta Magna quanto ao reconhecimento da impenhorabilidade da pequena propriedade rural” (fl. 24, vol. 12).
+
+    Pede o provimento do presente recurso extraordinário para que “faça prevalecer o entendimento constante do acórdão paradigma em observância ao Princípio Constitucional da Segurança Jurídica, reformando o v. Aresto combatido, haja vista a ocorrência de error in judicando, de forma que predomine o teor da r. Decisão Monocrática proferida pelo Juízo Singular, que reconheceu a impenhorabilidade do imóvel sub judice” (fl. 24, vol. 12).
+
+    3. Em juízo de retratação, a Vigésima Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo, manteve o acórdão recorrido, nestes termos:
+
+    “Agravo de instrumento. Juízo de retratação com base no art. 1030, II, do CPC. Impenhorabilidade da pequena propriedade rural. Julgamento do tema n. 961 pelo Supremo Tribunal Federal. Consolidação da seguinte tese: ´É impenhorável a pequena propriedade rural familiar constituída de mais de 01 (um) terreno, desde que contínuos e com área total inferior a 04 (quatro) módulos fiscais do município de localização’. Considerações, entretanto, de que o devedor tem o domínio sobre outros dois imóveis, não contíguos ao penhorado, e com áreas superiores a quatro módulos fiscais, particulares não contempladas no julgamento pelo regime de repercussão geral. Fonte de renda adicional para sustento próprio e da família que contradiz a finalidade da norma protetiva, que é o patrimônio mínimo à sobrevivência do devedor. Acórdão mantido, refutando-se o juízo de retratação” (fl. 2, e-doc. 17).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. Razão jurídica não assiste ao recorrente.
+
+    5. No julgamento do Recurso Extraordinário com Agravo n. 1.038.507-RG, Tema 961, Relator o Ministro Edson Fachin, o Plenário deste Supremo Tribunal reconheceu a repercussão geral e no mérito fixou a tese de que “é impenhorável a pequena propriedade rural familiar constituída de mais de 01 (um) terreno, desde que contínuos e com área total inferior a 04 (quatro) módulos fiscais do município de localização” (DJe 15.3.2021).
+
+    Na espécie vertente, ao afastar a aplicação desse Tema de repercussão geral, o Tribunal de Justiça manteve a penhora do imóvel e assentou que o recorrido tem o domínio sobre outros imóveis, não contíguos ao penhorado, e com áreas superiores a quatro módulos fiscais:
+
+    “Como já exposto, o imóvel em questão mede menos de quatro módulos rurais e é trabalhado pelo executado. A celeuma persiste somente em relação à permanência do pressuposto visto como não preenchido, isto é, a subsistência do devedor auferida com o produto da exploração de outros imóveis de sua titularidade.
+
+    Reexaminando os autos, não se vislumbra afronta à tese do tema n. 961. O Supremo Tribunal Federal reafirmou a impenhorabilidade frente a duas particularidades que poderiam, em princípio, suplantá-la, a saber: (i) a constituição da pequena propriedade rural em mais de um imóvel, desde que contíguos e com área somada inferior quatro módulos fiscais; (ii) a prévia oferta do bem em garantia real (...)
+
+    No caso vertente, contudo, o fundamento para ratificar a constrição foi outro. Essa Colenda Câmara se convenceu de que o domínio do executado sobre outros dois imóveis, não contínuos ao que foi penhorado, e cuja área total supera quatro módulos fiscais, retiraria a impenhorabilidade deste último, pois o devedor goza de outras fontes de rendimento para assegurar o sustento próprio e o de sua família.
+
+    Assim, com a devida vênia a entendimentos contrários, nos estreitos contornos da tese que norteia esta reanálise, não é possível modificar o desfecho dado ao agravo de instrumento, na medida em que, analisada a impenhorabilidade sob o prisma da tutela do patrimônio mínimo do executado, a coexistência de bens que escapam do conceito de pequena propriedade rural descaracteriza o escopo protetivo da norma constitucional e das correspondentes normas legais que regem a matéria” (fls. 5-6, e-doc. 17)
+
+    A apreciação do pleito recursal demandaria a análise prévia da legislação infraconstitucional aplicável à espécie e o reexame do conjunto fático-probatório do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA DE PEQUENA PROPRIEDADE RURAL. Art. 5º, XXVI, da CF/88. DÍVIDAS NÃO RELACIONADAS À SUA ATIVIDADE PRODUTIVA. TEMA 961 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Não se aplica o entendimento firmado no Tema 961 da Repercussão Geral (RE 1.038.507, Rel. Min. EDSON FACHIN) considerando que a tese firmada no julgamento do referido precedente paradigma dirige-se a dívidas oriundas da atividade produtiva da pequena propriedade rural em decorrência de suas atividades produtivas e em situações nas quais a família seja proprietária de mais de um imóvel rural. Trata-se de hipótese diversa da ora debatida, em que o juízo de origem reconheceu que as dívidas executadas não decorriam da atividade produtiva do imóvel. 2. A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (ARE n. 1.381.361-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 1.8.2022).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL E PROCESSUAL CIVIL. ARREMATAÇÃO. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. REQUISITOS. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O recurso extraordinário não se presta ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.387.622-AgR, Relator o Ministro Luiz Fux, Planário, DJe 12.9.2022).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. REQUISITOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 1.327.560-AgR, Tribunal Pleno, Rel. Min. Luiz Fux (Presidente), DJe de 3/9/2021; ARE 1.209.955-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe de 18/9/2019; e AI 822.957-ED-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 11/3/2019. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.365.708-AgR, Relator o Ministro Luiz Fux, Tribunal Pleno, DJe 25.4.2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279/STF). 2. Agravo interno não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC). 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.279.792-AgR, Relator o Ministro Luiz Fux, Tribunal Pleno, DJe 6.11.2020).
+
+    Nada há a prover quanto às alegações do recorrente.
+
+    6. Pelo exposto, nego provimento ao recurso extraordinário (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 17 de janeiro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
