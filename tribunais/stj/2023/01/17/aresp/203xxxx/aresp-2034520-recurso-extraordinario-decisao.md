@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JOÃO BATISTA DOS SANTOS (fls. 2.545-2.550), com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 2.537):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA, DE FORMA CONCRETA, O ÓBICE DA SÚMULA 7 DESTA CORTE. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não houve impugnação concreta do fundamento relativo à aplicação da Súmula n. 7/STJ. Incidência da Súmula n. 182/STJ.
+2. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência não foram conhecidos por intempestividade (fls. 2.537-2.540).
+A parte recorrente sustenta a violação dos arts. 5º, LV e XXXIV, e 93, IX, da CF e aduz que há repercussão geral da matéria tratada.
+Alega que, por meio do agravo em recurso especial, teria impugnado de forma suficiente os fundamentos da decisão de inadmissão do recurso especial. Entende que a manutenção do não conhecimento do recurso consumaria hipótese de ofensa ao direito à prestação jurisdicional.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais o órgão colegiado negou provimento ao agravo regimental, valendo destacar os seguintes trechos (fls. 2.522-2.523):
+Tal como asseverado na decisão ora impugnada, de fato, a Defesa não impugnou de forma concreta e efetiva o óbice relativo à aplicação da Súmula n. 7 deste Tribunal, tendo se restringido a alegar que, nas razões do apelo nobre, não há pedidos relativos ao reconhecimento de matérias fáticas ou rediscussão de provas. É o que se vê destas transcrições (fl. 2450, grifei):
+ ..
+Ressalto que, para rebater de forma concreta o obstáculo da Súmula n. 7/STJ, é necessário que o Agravante demonstre, além da contextualização do caso concreto, as devidas razões pelas quais entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório.
+Assim, à míngua de efetiva e concreta impugnação de todos os fundamentos da decisão que inadmitiu o apelo nobre, mostra-se inafastável a incidência do Verbete Sumular n. 182/STJ, que assim dispõe:"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Da mesma maneira, foram apresentados fundamentos para o não conhecimentodos embargos de declaração opostos na sequência, o que vale repisar (fl. 2.540):
+Com efeito, conforme disposto nos arts. 619 do Código de Processo Penal e 263 do Regimento Interno do Superior Tribunal de Justiça, o prazo de oposição dos embargos de declaração, em matéria criminal, é de 2 (dois) dias.
+A propósito, confira-se: "Em matéria penal, o prazo para oposição de embargos de declaração é o previsto no art. 619 do Código de Processo Penal, qual seja, 2 (dois) dias, conforme dispõe o art. 263 do Regimento Interno do Superior Tribunal de Justiça. A entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal, que possui disciplina própria"(EDcl nos EDcl no AgRg no AREsp 2043644/AP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/04/2022, DJe 25/04/2022).
+No caso, os presentes embargos são intempestivos, porquanto a decisão recorrida foi publicada no dia 16/05/2022 (segunda-feira), conforme certidão acostada à fl. 2525, e o Embargante protocolizou o recurso no dia 20/05/2022 (sexta-feira, fl. 2527), ou seja, após o escoamento do prazo legal.
+Inclusive, a Coordenadoria de processamento de feitos de direito penal desta Corte teve o zelo de certificar, à fl. 2531, os prazos acima referidos.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido,foi mantido o não conhecimento do agravo em recurso especial por incidência do óbice da Súmula n. 182/STJ.
+Como se vê, o mérito do agravo emrecurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF.AGRAVO EMRECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF.AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2.Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada noTema n. 339/STF, tese de observância obrigatória(CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do agravo emrecurso especial, aplica-se a tese do Tema n. 181/STF ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
