@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GILBERTO JULIAO DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foipreso preventivamente em 13/01/2021 e posteriormentecondenado pela prática do delito do art. 157, caput, duas vezes, na forma do art. 70, ambos do CP, à pena de 4 anos e 8 meses de reclusão, em regime fechado.
+Apelou-se com o objetivo de verreconhecida a tentativa e o abrandamento do regime prisionalcom a detração do tempo de prisão provisória na forma do art. 387, § 2º, do CPP, tendo sido refutada sua pretensão.
+Neste writ, oimpetrante sustentaque o regime mais gravoso foi mantido com fundamento na reincidência do paciente,sem a devida análise do caso concreto à luz do previsto no artigo 387, § 2º, do CPP. Afirma quea redação do art. 33, § 2º, do CP leva à conclusão, em interpretação a contrario sensu, que, na hipótese de condenado reincidente, após a detração, se a pena final for inferior a 4 anos, o regime inicial seria o semiaberto.
+Pretende, em suma,liminarmente e no mérito, que o paciente seja alocado, ao menos, em regime semiaberto.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Observe-se que aparentemente a solicitação para o reconhecimento da detração não foi apresentada nem ao juízo de conhecimento, tampouco ao de execução, de modo que oTribunal de origem entendeu tratar-se de supressão de instância:
+Ora, não consta dos autos, que o requesto de detração penal do tempo de prisão cautelar provisória tenha sido formulado à Juíza sentenciante, na fase de Alegações Finais, e que esta tenha se omitido em apreciá-lo. Assim, se não houve tal pedido direcionado à mesma, deve-se, então, pugnar a medida ao Juiz da execução, para tornar efetiva a pena e estabelecer a diretriz de seu cumprimento, não podendo incidir a detração (desconto), mais de uma vez. Destarte, não se apresenta possível a veiculação de tal pleito e consequente aplicação, em sede recursal, pelos fundamentos ora acima explanados, sob pena de supressão de instância, se pedido não houve à Juíza sentenciante e esta nada decidiu a respeito, devendo o mesmo ser dirigido ao Juiz da execução da pena. Precedentes.
+Ante o exposto, com fundamento no art. 21, XIII, "c", c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
