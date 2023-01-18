@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpuscom pedido de liminarinterposto porRAFAEL THIAGO DO PRADOcontra acórdão doTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o recorrente foi condenado por posse ilegal de arma de fogo de uso restrito, tipificado no art. 16, parágrafo único, IV, da Lei n. 10.826/2003,à pena de 3 anos de reclusão, em regime aberto. A sentença condenatória foi confirmada no julgamento do recurso de apelação, já transitado em julgado.
+O recorrente aviou prévio writ, que não foi conhecido, monocraticamente, visto que substitutivo de revisão criminal. Interposto agravo regimental, a Corte de origem negou provimento à insurgência, em julgado assim sumariado (fls. 193-194):
+Habeas corpus. Impugnação de acórdão da Turma. Mera repetição de anterior habeas corpus. Competência.1 - Não se admite habeas corpus se o pedido e a causa de pedir são idênticos ao de anterior habeas corpus.2 - Não compete ao Tribunal de Justiça examinar e julgar habeas corpus em que se alega ilegalidade de acórdão desse, transitado em julgado. A competência é do e. STJ (CF, art. 105, I, "c").2 - Transitado em julgado o acórdão que confirmou a condenação, compete à Câmara Criminal julgar eventual revisãocriminal (CPP, art. 624, § 2º, c/c art. 23, II, do RITJDFT).3 - Agravo interno não provido.
+No presente recurso, sustenta a defesa a ocorrência de nulidade da busca pessoal realizada pela polícia militar, uma vez que inexistiam suspeitas para a ação policial.
+Aponta a ilegalidade da busca domiciliar realizada nos autos, uma vez que não ficou demonstrada que a autorização para a entrada na residência foi livre e voluntária.Alega, assim, que toda a prova colhida na residência encontra-se contaminada pela ilicitude.
+Sustenta, ainda, que o paciente foi denunciado com base em elementos de informaçãocolhidos pela autoridade policial em razão do acesso aos dados telefônicos sem autorização judicial.
+A parte recorrente objetiva, em suma, o reconhecimento da nulidade das provas obtidas por meioda busca pessoal,domiciliar e do acesso aos dados telefônicos, com a consequente anulação do processo.
+É o relatório.
+De pronto, constata-se que as matérias de fundo não foramapreciadas no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 34, XVIII,a, do RISTJ, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
