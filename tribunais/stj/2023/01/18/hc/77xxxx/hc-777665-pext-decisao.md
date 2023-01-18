@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de extensão formulado pela defesa de ANDERSON MATEUS FRANCISCO RODRIGUES, que objetiva alcançá-locom o benefício concedido ao corréu RUBENS DOUGLAS DE OLIVEIRA FREIRE DOS SANTOSpela decisão de e-STJ fls. 115/126.
+Salienta que Não obstante a ausência de recurso específico por parte do paciente, tem-se pela necessidade de se estender os efeitos da decisão de HABEAS CORPUS 777665-SP (2022/0327462-7), que REVOGA A PRISÃO PREVENTIVA para o paciente, nos termos do Art. 580 do CPP (e-STJ, fl. 215).
+Ademais, queo concurso de agentes restou configurado na referida decisão, evidenciando que os corréus se enquadram em situação idênticas, sendo devido a ambos o benefício já reconhecido, se enquadrando perfeitamente ao dispositivo legal acima citado (e-STJ, fl. 215).
+Requer a concessão de efeito extensivo, com a consequente expedição de contramandado de prisão em favor do paciente(e-STJ, fl. 217).
+É o relatório. Decido.
+A decisão proferida em benefício de um dos corréus pode ser estendida aos demais quando as suas situações jurídico processuaisforem idênticas (HC n. 447.378/SC, Rel. Ministro JORGE MUSSI, DJe de 17/10/2018; HC n. 398.278/MG, Rel. Ministro RIBEIRO DANTAS, DJe de 15/8/2018).
+No caso destes autos, observa-se que, efetivamente, na origem, a prisão do ora requerente foi examinada em sede de habeas corpus diverso (n. 2197385-53.2022.8.26.0000) do que ensejou a presente impetração.
+Muito embora a defesa não tenha trazido aos autos o acórdão relativo ao referido julgamento pelo Tribunal de origem, a partir da consulta processual do feito é possível acessar o teor da decisão, da qual se extrai queo decreto de prisão preventiva relativo ao paciente também é distinto, documento que tampoucofoi trazido aos autos. Com efeito, da decisão de fls. 68/73, que converte em preventiva a prisão em flagrante dos demais corréus, sequer consta o nome do ora requerente, ANDRESON MATEUS FRANCISCO RODRIGUES.
+É de se ressaltar que o rito dohabeas corpuspressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora,a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal(AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou queem sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado(AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Dessa forma, inviável o exame daidentidade de situações a autorizar a extensão da ordem ao requerente.
+Ante o exposto,indefiroo pedido de extensão requerido.
+Publique-se. Intimem-se.
