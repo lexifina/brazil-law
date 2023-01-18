@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JACOB JOSE COELHO JUNIOR, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina.
+O paciente está condenado  em sentença já transitada em julgado  à pena de 14 (catorze) anos e 11 (onze) dias de reclusão, a ser cumprida em regime inicialmente fechado, e 4 (quatro) meses e 20 (vinte) dias de detenção, a ser cumprida em regime inicialmente semiaberto, pela prática dos crimes capitulados nos artigos art. 33, caput, c/c art. 40, III, ambos da Lei 11.343/2006 e art. 2º, caput, da Lei 12.850/2013.
+O impetrante ataca a decisão monocrática proferida no HC 5064130-02.2022.8.24.0000/SC, proferida em 10/11/2022, na qual se consignou que a impetração na origem "esbarra em juízo negativo de admissibilidade, porquanto se utiliza do remédio constitucional em substituição ao instrumento apropriado para questionar decisões transitadas em julgado. Inclusive, convém destacar que o próprio STJ, também em habeas corpus substitutivo do recurso adequado (tal como aqui), reputou inviável a apreciação da tese de parcialidade do juízo sem observar a forma correta (evento 486, ACSTJSTF1).
+O que se alega é a parcialidade do julgador de primeiro grau, motivada pelo comportamento do paciente, apurado na investigação, que "tramava entregar celulares durante as audiências" conduzidas pelo magistrado e que teria causado "amargor" no juiz de 1.º grau.
+Pede-se a concessão de liminar para que seja "reconhecido a suspeição do juiz de piso, bem como o reconhecimento da nulidade da presente audiência de instrução e julgamento, por ser comprovado a parcialidade e o interesse do juízo da época em condenar o paciente".
+É o relatório.
+O writ não merece prosseguir.
+A decisão combatida foi proferida monocraticamente pelo desembargador relatorna origem. Não há, pois, deliberação colegiada sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016).
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CRIMES LICITATÓRIOS. COMPETÊNCIA DA JUSTIÇA ELEITORAL. MATÉRIA NÃO DISCUTA PELO TRIBUNAL DE JUSTIÇA. INDÍCIOS DE CRIMES ELEITORAIS. REMESSA AO TRIBUNAL REGIONAL ELEITORAL PARA MELHOR EXAME. AGRAVO PARCIALMENTE PROVIDO.
+1. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018).
+2. Ainda que não se possa reconhecer imediatamente a competência da Justiça Eleitoral, se há indícios expressos nos autos acerca da possível prática dos delitos durante o período de campanha eleitoral, com promessa de fraude de futuras licitações em caso de êxito nas eleições, é pertinente que a Justiça especializada seja provocada a decidir sobre a questão.
+3. Não há necessidade anular a medida de busca e apreensão determinada pelo Tribunal de Justiça porque, ainda que seja posteriormente reconhecida a competência da Justiça Eleitoral, este Superior Tribunal de Justiça vem entendendo que o reconhecimento da incompetência do juízo, por si só, não anula decisão cautelar, que, por isso, poderá ser ratificada pela autoridade competente.
+Precedentes.
+4. Agravo regimental provido em parte para determinar a remessa da investigação à Justiça eleitoral para que analise a existência ou não de eventuais crimes eleitorais capazes de atrair a sua competência (Medida cautelar inominada: 0047746-58.2020.8.19.0000).
+(AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021.)
+Outrossim, não há elemento que justifique a concessão de Habeas Corpusde ofício, porque se busca o reconhecimento de parcialidade fora das taxativas hipóteses legais, em arguição feita a destempo e por instrumentos inadequados.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.Intimem-se.
