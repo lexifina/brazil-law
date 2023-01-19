@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por FREDSON DO CARMO CAMPOS GOMES e FABIANE DO CARMO MELO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Erro médico - Improcedência - Insurgência dos autores - Alegação de que a responsabilidade dos réus é objetiva e que o falecimento de sua genitora decorreu de falha na prestação dos serviços médicos, em razão da inadequação de tratamentos e diagnósticos - Descabimento - Responsabilidade subjetiva - Perícia médica realizada que comprova não haver nexo de causalidade entre a morte da mãe dos demandantes e as práticas médicas realizadas durante o tratamento dela - Existência de expressa indicação para o exame de broncoscopia, que foi realizado em condições otimizadas (na UTI e com aporte de plaquetas) - Dano moral e material não configurados - Decisão mantida - RECURSO DESPROVIDO" (e-STJ fl. 563).
+No recurso especial, alega-se violação dos arts. 14 do Código de Defesa do Consumidor e 927 do Código Civil, ao fundamento de que fazem jus ao ressarcimento dos danos sofridos em decorrência do óbito de sua genitora.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A insurgência não merece prosperar.
+O tribunal de origem assim decidiu acerca da indenização pleiteada:
+"(..) Embora seja realmente lastimável o falecimento da genitora dos autores, não restou comprovada conduta negligente, imprudente ou imperita por parte dos réus, restando evidente que o evento morte não ocorreu em razão de falha na prestação de serviço, tampouco restou comprovada a inadequação dos diagnósticos ou tratamentos realizados.
+A conclusão do laudo pericial foi a seguinte (fls. 462/463):
+"(..) 5. CONCLUSÃO
+  Pericianda com relato de enxaqueca, apresentou crises de dor e foi medicada no pronto-socorro.
+  O quadro pulmonar foi detectado clinicamente em 26/05/2017, quando apresentava sinais e sintomas compatíveis com pneumonia.
+  A pericianda foi devidamente atendida, internada com realização dos exames subsidiários necessários para investigação diagnóstica e conduta. Evoluiu com derrame pleural bilateral, sendo indicada ampliação da investigação diagnóstica através de exame de broncoscopia com biópsia.
+  Devido à redução na contagem das plaquetas, com risco de sangramento, a broncoscopia foi inicialmente contra-indicada. Entretanto, o exame foi liberado contanto que executado em ambiente de UTI, com transfusão de plaquetas para segurança. A broncoscopia foi realizada no dia 02/06/2017, em condições otimizadas (na UTI, com aporte de plaquetas).
+  No caso presente, a infecção com risco de sepse apresentava elevado risco de óbito. Por outro lado, a broncoscopia com biópsia apresentava risco de sangramento, em virtude da plaquetopenia. Entretanto, a otimização das condições para o exame de broncoscopia minimizaria o risco, desta forma poderia beneficiar a precisão diagnóstica e direcionamento do tratamento.
+  Desafortunadamente, a pericianda apresentou hemorragia pulmonar com insuficiência respiratória severa, indo a óbito.
+  Há nexo de causalidade entre o exame de broncoscopia com biópsia e o sangramento pulmonar que a levou ao óbito. Entretanto havia indicação da realização do exame, em condições otimizadas, com o objetivo de diagnosticar histologicamente a doença e direcionar o melhor tratamento." (grifei).
+Veja-se que, embora a perita tenha mencionado a existência de nexo de causalidade entre o exame de broncoscopia e o sangramento pulmonar, frisou que "Devido à redução na contagem das plaquetas, com risco de sangramento, a broncoscopia foi inicialmente contra-indicada. Entretanto, o exame foi liberado contanto que executado em ambiente de UTI, com transfusão de plaquetas para segurança. A broncoscopia foi realizada no dia 02/06/2017, em condições otimizadas (na UTI, com aporte de plaquetas). Entretanto, apresentou hemorragia pulmonar com insuficiência respiratória aguda, a despeito das medidas profiláticas, indo a óbito." (fls. 462).
+Como a culpa dos médicos que atenderam a falecida genitora dos autores não ficou comprovada (e estes sequer integram o polo passivo da ação), não há que se falar em responsabilidade solidária do hospital ou da operadora de plano de saúde" (e-STJ fls. 568/569 - grifo no original).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 16% (dezesseis por cento) sobre o valor da causa (R$ 327.950,00 - trezentos e vinte e sete mil, novecentos e cinquenta reais), atualizado, os quais devem ser majorados para o patamar de 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
