@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interposto por IVAN RAMOS BEZERRA SILVA,contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado da Paraíbaassim ementado:
+"PROCESSUAL CIVIL - Agravo de Instrumento - Justiça gratuita - Pessoa física - Mera afirmação por declaração de hipossuficiência - Necessidade de comprovação - Intimado para comprovar a hipossuficiência financeira não o fez - Conclusão de desnecessidade do benefício - Desprovimento.
+- A simples declaração de hipossuficiência financeira não é suficiente para concessão do benefício da gratuidade da justiça à pessoa física, exigindo-se a comprovação do estado de hipossuficiência financeira, a partir de uma interpretação sistemática do ordenamento jurídico, na forma do art. 98, no § 3º, do art. 99, do CPC/15 e no inc. LXXIV, do art. 5º, da CF.
+- Inexistentes, nos autos, elementos de prova indicadores de singela condição financeira da parte requerente, deve ser mantido o indeferimento da gratuidade judiciária"(fls. 74-75, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, orecorrente aponta violação dos arts. 489, § 1º, III e 1.022, I, do Código de Processo Civil de 2015 e 93, IX, da Constituição Federal, aduzindo a deficiência de fundamentação, bem como omissões no julgado estadual.
+Afirma quea jurisprudência do Superior Tribunal de Justiça não exige a miséria absoluta para o deferimento do benefício de justiça gratuita.
+Alega ainda, violação do art. 99, § 3º, do CPC/2015, sob o argumento de que exerce uma das profissões mais desvalorizadas no País, motivo pelo qual mostra-se patente o deferimento do benefíciode justiça gratuita.
+Ressalta que o Tribunal indeferiu o pedido de gratuidade porquea parte não juntou aos autos documentos especifico. Segundo afirma, deveriam ter sido analisados outros elementos"como por exemplo sua profissão simplória e local humilde" em que reside o autor/agravante.(fl. 152, e-STJ).
+Defende que o Tribunal poderia reconhecer a presunção de veracidade dadeclaração de pobreza para conceder o benefício.
+Postula a reforma do acórdão estadual, para dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origempara apreciar o pedido de justiça gratuita à luz da presunção legal de veracidade da declaração de pobreza.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância da questão de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+De início, registre-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. ERRO GROSSEIRO. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. MULTA DO ART. 1.021, § 4º, DO NCPC. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. BAIXA IMEDIATA DOS AUTOS. AGRAVO NÃO CONHECIDO, COM OBSERVAÇÕES.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos do art. 1.021 do NCPC, o agravo interno somente é cabível contra decisão monocrática, não sendo, portanto, possível sua interposição contra decisão proferida por órgão colegiado, como ocorreu na espécie. Precedentes.
+3. Incabível, na hipótese, a aplicação do princípio da fungibilidade, em razão de se tratar, por evidência, de erro grosseiro. Precedentes 4. A interposição de recurso manifestamente incabível não interrompe a fluência do prazo recursal.
+5. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+6. Determinação de certificação do trânsito em julgado, de baixa imediata dos autos e aplicação da multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa, em virtude da interposição de recurso manifestamente inadmissível 7. Agravo interno não conhecido, com observações" (AgInt no AREsp nº 1.973.527/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/4/2022, DJe de 19/4/2022).
+No que toca à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC de 2015 -, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ART. 489 DO CPC/2015. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 1.021, § 3º, DO CPC/2015. FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura a deficiência de fundamentação do recurso especial a atrair a incidência da Súmula nº 284/STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. Agravo interno não provido" (AgInt no AREsp 1395429/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019 grifou-se).
+Registra-se que, mesmo à luz do novel art. 489 do CPC de 2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Por outro lado, o Tribunal local ao indeferir o benefício de justiça gratuita, fundamentou o seguinte:
+"(..) Na atualidade adoto entendimento diverso do anteriormente externalizado, posicionando-me no sentindo de que a simples declaração de hipossuficiência financeira firmada pela pessoa natural não é suficiente para a concessão dos benefícios da justiça gratuita.
+Isso porque, faz-se necessária uma interpretação sistemática do disciplinado no art. 98, no § 3º, do art. 99, do CPC/15 e no inc. LXXIV, do art. 5º, da CF, sendo imprescindível na forma do texto constitucional a comprovação da hipossuficiência de recursos.
+(..)
+Portanto, pode-se afirmar que o requisito para o gozo da gratuidade da justiça é a comprovação de insuficiência de recursos. O texto constitucional exige expressamente comprovação da insuficiência, vale dizer, não se satisfaz com a mera afirmação ou alegação sem prova (NovoCPC doutrina selecionada, v. 1: parte geral. Salvador: juspodivm, 2015, p. 807) para o deferimento do pedido de gratuidade judiciária.
+(..)
+No caso em apreço, o agravante informa ser autônomo, e residir em local periférico, pobre da cidade. Afirmou, ainda, que precisou financiar um veículo simples e acima de tudo, de pequeno valor, porém quando intimado para juntada de documentos comprobatórios necessários ao deferimento do pedido preliminar, nada juntou.
+Ressalta-se que quando da interposição da ação apenas acostou aos autos declaração de pobreza (Id 21281639 - Pág. 1- autos originários) e contrato de financiamento (Id 21281638 - Pág. 1- autos originários), cujo valor do financiamento perfaz um total de R$ 73.539,36 (setenta e três mil, quinhentos e trinta e nove reais e trinta e seis centavos).
+Assim, apesar de ter tido oportunidade de acostar outros documentos a fim de corroborar a alegada carência financeira, o agravante não o fez, nada comprovando acerca da sua renda.
+Para o deferimento da gratuidade judiciária, apenas se exige que a parte não conte com condições de suportar o ônus econômico de um processo, e, não, que esteja na miséria. Todavia não há prova no sentido de que a agravante esteja com sua renda comprometida no momento presente, a ensejar a insuficiência dos seus rendimentos para arcar com as despesas processuais e os honorários advocatícios, com prejuízo do próprio sustento e de sua família" (fl. 78-79, e-STJ).
+Dessa maneira, rever a conclusão do aresto recorrido no tocante à ausência dedemonstração da hipossuficiência dos recorrentesdemandaria a análise de circunstâncias fático-jurídicas dos autos, procedimentoinviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. INSTITUIÇÃO BANCÁRIA. DANOS CAUSADOS POR FRAUDE PRATICADA POR TERCEIRO. PRETENSÃO DE APRECIAÇÃO DE TESE CONSTITUCIONAL EM RECURSO ESPECIAL. MANIFESTO DESCABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DANO MORAL. NÃO CARACTERIZAÇÃO DE PARTICULARIDADES QUE EXTRAPOLAM O MERO DISSABOR. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS.SÚMULA N. 211/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A jurisprudência do STJ possui a orientação de que reverter a conclusão do Tribunal local para acolher a pretensão recursal (quanto ao preenchimento dos requisitos para a concessão da justiça gratuita) demandaria o revolvimento do acervo fático-probatório dos autos, medida defesa ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno improvido"(AgInt nos EDcl no AREsp 1.669.683/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe 30/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº2/STJ. JUSTIÇA GRATUITA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº7 DO STJ. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula nº7 do STJ.
+2. Embora a concessão da justiça gratuita seja possível a qualquer tempo, desde que verificadas as condições para tanto, no presente caso, o Tribunal de origem reconheceu que a agravante não teria direito ao benefício pleiteado, por não se enquadrar no conceito de economicamente necessitada, condição que permanece inalterada, diante da impossibilidade de verificação de matéria fática em recurso especial.
+3. A declaração de pobreza, segundo a jurisprudência do STJ, goza de presunção relativa, podendo ser afastada pela comprovação da real condição econômico-financeira do requerente.
+4. Agravo interno a que se nega provimento"
+(AgInt nos EDcl no REsp 1.656.230/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/4/2018, DJe 20/4/2018).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
