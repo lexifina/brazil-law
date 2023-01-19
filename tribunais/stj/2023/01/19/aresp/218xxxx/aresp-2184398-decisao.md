@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ODILON MACHADO DA COSTA contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO DEINDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMPRA EVENDA DE AUTOMÓVEL. DAÇÃO DE VEÍCULO USADO EMPAGAMENTO. OUTORGA DE PROCURAÇÃO À CONCESSIONÁRIAPARA ALIENAÇÃO DO BEM. NÃO COMUNICAÇÃO DA VENDA. FALHA NA PRESTAÇÃO DO SERVIÇO DA RÉ. MULTA IMPOSTAINDEVIDAMENTE AO AUTOR. DANO MORAL NÃO CONFIGURADO. AUSÊNCIA DE PROVA.
+1. Em que pese a falha na prestação do serviço da concessionária ré - que recebeu o veículo do autor como dação em pagamento e o repassou a terceiro sem efetuar a comunicação da venda, embora lhe tenha sido outorgada procuração para alienação dobem -, não restou comprovada a ocorrência de abalo moral em razão da imposição de multa ao demandante, por infração cometida por terceiro.
+2. Os danos morais em casos como o presente não são presumidos e devem ser comprovados minimamente pela parte que requer indenização, ônus do qual não se desincumbiu o demandante. A simples cominação de multa da qual não era o responsável, bem como a atribuição de cinco pontos em sua CNH, sem notícias de qualquer situação extraordinária decorrente destes fatos, é incapaz de geral abalo moral passível de reparação.
+3. Devida a condenação do autor ao pagamento de multa por litigância de má-fé no valor de 2% do valor atualizado da causa, por alteração da verdade dos fatos, a teor do disposto nos arts. 80, II e 81, caput, do CPC.
+4. Sentença reformada para julgar improcedente o pedido de indenização por danos morais. Prejudicada a denunciação da lide. Ônus sucumbenciais redistribuídos.APELAÇÃO DE LINEA COMERCIAL DE VEÍCULOS LTDA. PROVIDA. APELO DO AUTOR PREJUDICADO. (fls. 235-236, e-STJ).
+No recurso especial, orecorrente apontou dissídio jurisprudencial em relação aos arts. 123 do Código de Trânsito Brasileiro; 6º e 14 do Código de Defesa do Consumidore 186 e 927 do Código Civil, alegandoque "(..) o cerne da questão se encontra no fato de se verificar se a obrigação de transferência do registro era da revenda ou se o autor deveria ter comunicado a venda do veículo ao DETRAN, e os danos materiais e morais advindos destes fatos e mencionados na inicial" (fl. 249, e-STJ).
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+Isso porqueo dissídio jurisprudencial não restou caracterizado na forma exigida pelo artigo 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, haja vista o recorrente ter apenas colacionado ementa de acórdão, sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+Esta Corte tem reiteradamente decidido que para comprovação da divergência jurisprudencial não basta a simples transcrição de ementas, devendo ser mencionadas e expostas as circunstâncias que identifiquem ou assemelham os casos confrontados, bem como juntadas cópias integrais dos julgados ou, ainda, indicado o repositório oficial de jurisprudência.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinzepor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 17% (dezessetepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
