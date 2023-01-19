@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por C A M E I. e OUTROS fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Incidente de desconsideração da personalidade jurídica, nos autos de falência - Decisão que acolheu a pretensão, para responsabilizar, de maneira pessoal, a requerida Viviane (ex-controladora do Grupo falido) e desconsiderar a personalidade jurídica da empresa Tiacema, pelas dívidas da massa falida do Grupo Albertina, estendendo-se sobre elas os efeitos da falência - Inconformismo da ex-controladora do grupo falido - Acolhimento - Higidez da fundamentação do decisum - O pleito de desconsideração da personalidade jurídica e extensão dos efeitos da falência se assemelha à pretensão deduzida contra a agravante em pretérito incidente promovido pela massa falida - Aqui, o pedido deve ser interpretado de acordo com o conjunto da postulação (art. 322, § 2º, do CPC) -A inicial deste incidente está circunscrita a fato específico, qual seja, a utilização de sociedade de fachada, para tentativa de blindagem patrimonial - Os elementos de convicção revelam que, a par da simulação relativa, o estratagema não funcionou, pois o bem imóvel transferido para a sociedade de fachada acabou honrando outra obrigação da qual a agravante era devedora solidária - A agravante não deve ser responsabilizada pessoalmente, pois não obteve vantagem indevida e nem auferiu benefícios indiretos por conta da tentativa de blindagem patrimonial - Decisão reformada - Recurso provido" (fl. 230, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 323/330, e-STJ).
+No recurso especial, foi alegada a violação dos artigos 489, parágrafo único, IV; 789; 790; 792, "caput", e § 3º; e 1.022, I, II, e parágrafo único, e II, do Código de Processo Civil de 2015; 82, 83 e 129, II, da Lei n º 11.101/2005; 50 do Código Civil e da Súmula nº 375/STJ.
+De início, a parte recorrente aduz que teria havido negativa de prestação jurisdicional no julgamento dos aclaratórios.
+Além disso, sustenta que o intuito fraudulento e o prejuízo ocasionado pela ex-controladora do grupo societário estãoamplamente demonstrados nos autos. Assim, esta deveser responsabilizada, juntamente com a empresa Tiacema,pela totalidade do passivo falimentar com a declaração da ineficácia da dação em pagamento do imóvel.
+Contrarrazões às fls. 338/369 e 382/383 (e-STJ).
+O Ministério Público Federal instado a se manifestar por meio de seu representante legal, o Subprocurador-Geral da República Renato Brill de Góes, opinou pelo parcial conhecimento do recurso especial, cujo parecer recebeu a seguinte ementa:
+"RECURSO ESPECIAL. FALÊNCIA. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, II, DO CPC. INOCORRÊNCIA. REFORMA DO ACÓRDÃO RECORRIDO QUEDEMANDA O REEXAME DE FATOS E PROVAS APRECIADOSPELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ.- Parecer pelo parcial conhecimento do recurso especial e, nessa parte, pelo seu improvimento" (fl. 416, e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+No tocante à violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017 - grifou-se).
+No caso dos autos, a Corte local entendeu que a ora recorrida não pode ser responsabilizada pessoalmente pelas dívidas da massa falida, com base nos seguintes fundamentos:
+"(..)
+4- Quanto ao cerne da pretensão, à luz do que dispõe o regular ônus da prova (art. 373, I, do CPC), a massa falida deveria demonstrar eventual prejuízo ao grupo falido, à época em que consumada a tentativa de blindagem do patrimônio pessoal da agravante.
+(..)
+De fato, evidenciada a constituição de sociedade de fachada, a hipótese se amolda ao que dispõe o art.167, § 1º, I, do CC, pois é simulado o negócio jurídico que aparenta conferir ou transmitir direitos a pessoas diversas daquelas às quais realmente se transmite.
+In casu, a Tiacema é a pessoa fictícia, que atuou em nome da agravante, simulando a aquisição de créditos que deveriam ser honrados por ela própria (agravante), com intuito de evitar excussão de seus bens, em especial o bem imóvel que foi adjudicado para a Tiacema, após a aludida aquisição dos créditos.
+Essa simulação é relativa, pois subsiste o que se dissimulou, ou seja, em vez da aquisição de créditos, em nome da Tiacema, o pagamento pela própria agravante, com dinheiro advindo do exterior.
+(..)
+Quanto à adjudicação do imóvel, em benefício da Tiacema, é certo que, posteriormente (em novembro de 2017), o bem (sob a titularidade da Tiacema) foi dado em pagamento a outro credor (BlackPartners Miruna Fundo de Invetimentos), que promoveu execução de título extrajudicial exclusivamente contra a agravante (em julho de 2015), com lastro em aval dado por ela às cédulas de crédito à exportação emitidas pela Cia. Albertina (Processo n. 1070815-74.2015.8.26.0100).
+(..)
+Portanto, o intento de blindagem patrimonial e defraudar credores não se consumou, dado que o imóvel acabou honrando outra obrigação da qual a agravante era devedora solidária.
+(..)
+Essa quitação se deu, ainda que indiretamente(por conta da simulação relativa), pela própria agravante, sendo certo que a simulação relativa apenas retardou o que seria inevitável: a perda do imóvel da agravante, para satisfação de obrigações avalizadas por ela.
+Nesse particular, não vinga a tese defendida pela falida, de que houve efetiva fraude contra credores ou afronta ao par conditio creditorum, uma vez que não havia óbice a que os credores garantidos pelo aval dado pela agravante perseguissem os bens pessoais dela.
+Ademais, nem se cogita da hipótese de ineficácia objetiva (art. 129, II, da Lei 11.101/05),primeiro, porque o bem, como visto, não era da falida, e, segundo, porque o estratagema não foi eficaz e, não fosse a tentativa de blindagem patrimonial, os atos de execução forçada do patrimônio da agravante teriam regular prosseguimento, nos idos de 2013, após a penhora do bem imóvel.
+No contexto, diante dos contornos da postulação neste incidente, a agravante (ex-controladora do grupo falido) não deve ser responsabilizada pessoalmente, pois não obtevevantagem indevida e nem auferiu benefícios indiretos por conta da tentativa de blindagem patrimonial.
+(..)" (fls. 241/247, e-STJ).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias, para responsabilizar a ex-controladora do grupo empresarialpelas dívidas da massa falida, demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Por fim, cumpre atentar que não cabe recurso especial por afronta a texto de súmulas, pois estas não se enquadram no conceito de lei federal previsto no art. 105 da Carta da República.
+Nesse sentido: AgRg no AREsp 309.724/RJ, Rel. Ministro Sérgio kukina, Primeira Turma, DJe 7/6/2013; AgRg no AREsp 234.600/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24/5/2013; AgRg no Resp 1.267.276/RS, Rel. Ministra Assusete Magalhães, Sexta Turma, DJe 27/5/2013.
+Ante o exposto, conheço parcialmente do recurso especial para negar-lhe provimento.
+Publique-se.
+Intime-se.
