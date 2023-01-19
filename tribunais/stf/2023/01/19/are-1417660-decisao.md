@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "APELAÇÃO - MANDADO DE SEGURANÇA - DELEGADA DE POLÍCIA - Pretensão inicial da impetrante, titular do cargo de provimento efetivo de Delegada de Polícia, voltada ao reconhecimento de seu suposto direito líquido e certo a obter a conversão do tempo de serviço comum em tempo especial, sob o fundamento de que exerceu atividades em condições especiais - alegação de lacuna legislativa, a demandar a aplicação analógica do previsto nos artigos 57 e 58 da Lei 8.213/1991 - inadmissibilidade - Lei Complementar Federal 51/1985 e Lei Complementar Estadual 1.062/08 que regulam a matéria, não havendo que se falar em lacuna legislativa a ensejar a aplicação analógica da Lei 8.213/1991 - não comprovação, ademais, de labor em condições específicas a ensejar a contagem especial do tempo de serviço mera percepção do adicional de insalubridade que não implica contagem especial de tempo de serviço para fins de aposentadoria - inaplicabilidade do quanto decidido pelo STF no tema 943 da Repercussão Geral, uma vez que neste discutiu-se a conversão do tempo especial em tempo comum, hipótese distinta da dos presentes autos, onde se discute quanto à consideração de tempo de serviço comum como sendo especial hipótese de distinguishing precedentes deste E. Tribunal de Justiça neste sentido mantida a r. sentença que denegou a segurança - Recurso desprovido."
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, inciso III; 5º, inciso XXXVI; 37," caput"; e 40, § 4º, incisos II e III, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 19 de janeiro de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
