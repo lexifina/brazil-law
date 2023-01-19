@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por 3Z TUCUMÃ EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. Ação de Obrigação de Fazer cumulada com Indenização por Danos Morais. Sentença de parcial procedência. Compromisso de compra e venda de imóvel. Reconhecimento de negócio jurídico válido. Função social do contrato. Aplicação do art. art. 322, §2º, do CPC. Sentença mantida. Recurso improvido" (fl. 208 e-STJ).
+Os embargos de declaração opostos foram acolhidos para corrigir erro material no tocante ao percentual dos honorários recursais(fls. 239-241 e-STJ).
+No recurso especial (fls. 223-228 e-STJ), a agravante aponta a violação dos artigos186, 421 e927 do Código Civil.
+Sustenta que"não há contrato efetivado entre as partes que possa causar qualquer vínculo, em especial, responsabilidade entre as partes" e que"sem a existência de um contrato e sem qualquer prejuízo aos Recorridos não há o que se falar em danos" (fl. 227 e-STJ).
+Com as contrarrazões (fls. 246-255 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior àpublicação da Emenda Constitucional nº 125, não se aplicando ao caso orequisito de admissibilidade por ela inaugurado, ou seja, a demonstraçãoda relevância das questões de direito federal infraconstitucional.
+A insurgência não merece prosperar.
+O Tribunal de origem dirimiu a controvérsia com base nos seguintes fundamentos:
+"(..)
+A ação foi julgada parcialmente procedente nos seguintes termos:
+"Os documentos juntados as fls. 22/24 e 26/32comprovamque os autoresapresentaram uma proposta à ré para compra de uma das unidades integrantes do empreendimento denominado "Mais Casa Branca", deles não constando qualquer assinatura atribuível a eventual representante/empregado/prepostoda ré.
+Estabelecida essa premissa e considerando o disposto nos artigos 432,462 e 482, todos do Código Civil, tendo os autores confessado que os cheques emitidos por ocasião da formalização da proposta, reproduzidos as fls. 35, embora a eles não tenham sido devolvidos, não foram compensados, tendo sido os autores reconhecidamente avisados, conforme inclusive restou confirmado pelo teor de fl. 36, de que a proposta não havia sido aprovada, o que teria sido motivado pelas razões expostas a fl. 92, forçoso seria concluirque o compromisso de compra e venda efetivamente não se aperfeiçoou entre as partes.
+Não há como se olvidar, porém, que em uma das gravações reproduzidas pelos autores o representante da ré na negociação, condição que a rigor sequer foi objeto de sólida impugnação, reconheceu expressamente que a proposta havia sido aprovada, tendo sido derrubada internamente pela empresa em razão da constatação de que algumas unidades teriam sido vendidas por preços que estariam depreciando o produto.
+Irrelevante não tenham sido as aludidas gravações juntadas desde o aforamento da ação, eis que não consubstanciavam elas documentos indispensáveis à propositura da demanda, de modo que à luz do disposto nos artigos 350 e 435, caput, ambos do Código de ProcessoCivil se mostrava plenamente admissívela sua exibição, bastando, para que as mesmas sejam consideradas para formação do convencimento judicial, seja assegurada, tal qual ocorrido, a oportunidade da parte contrária se manifestar a respeito delas.
+Lícito reconhecer, pois, destacando-seaqui que os atos dos prepostos ou dos representantes autônomos vinculam os fornecedores de produtos ou serviços (artigo 34 do Código de Defesa do Consumidor), que a proposta foi aceita, tornando-se obrigatória (inteligência doartigo 30 da Lei 8.078/90), o que autoriza exijam os consumidores o seu cumprimento (artigo 35, I, da Lei 8.078/90).
+Nem se argumente que o fato dos cheques não terem sido compensados desqualificaria a caracterização do contrato. Afinal, apenas não o foramporque a ré optou por não depositá-los, comportamento que em nada compromete a obrigatoriedade da avença, a ela sendo possível, caso já superado o prazo da apresentação ou consumadoo prazo prescricional pertinente, requerer sejam as cártulas substituídas por outras ou, em última instância, reivindicar o pagamento do preço pela via judicial.
+(..)
+No caso em tela, restou demonstrado o direito dos autores e a ré não logrou êxito em provar fato impeditivo, modificativo ou extintivo deste direito, porquantonada trouxe aos autos capaz de ilidir o negócio jurídicodemonstrado em tela. Ademais, o pedido dos autores é adequado e deve ser interpretado à luz da boa-fé, nos termos doart. 322, §2º do CPC, considerando-se o conjunto da postulação, bem como a função social do contrato, prevista noart. 421, do Código Civil.
+(..)
+Não se trata de obrigar o credor a receber prestação diversa da devida, mas sim de possibilitar que o negócio jurídico atinja o objetivo que justificou sua pactuação,de modo a realizar o papel que se espera de todo e qualquercontrato, o que permite ao magistrado interpretar as cláusulascontratuais e integrá-las às intenções das partes, de modo que o contrato não atinja a finalidade oposta àquela a que econômicae socialmente seria lícito esperar" (fls. 211-219 e-STJ).
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias como pretende a recorrente, no sentido de que não há contrato e que a parte contrária não suportou nenhum prejuízo, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), visto que, na origem, os honorários advocatícios já foram fixados no patamar máximo previsto em lei.
+Intimem-se.
+Publique-se.
