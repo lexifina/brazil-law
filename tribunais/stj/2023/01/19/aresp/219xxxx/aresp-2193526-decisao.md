@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se agravo interposto porESSER NICE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.contra decisão que inadmitiu recurso especial. O apelo extremo, com base no art. 105, inciso III, alínea"a",da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECURSO DE AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FOI DETERMINADO O REGISTRO DAS PENHORAS INCIDENTES SOBRE UNIDADES IMÓVEIS QUE FORAM HIPOTECADAS PELA INCONFORMADA. CONTRAMINUTA COM PRELIMINAR DE REVOGAÇÃO DA BENESSE RELATIVA A GRATUIDADE PROCESSUAL QUE FOI CONCEDIDA A AGRAVANTE, AINDA QUE APENAS E TÃO SOMENTE PARA O PROCESSAMENTO DO PRESENTE RECURSO, COM A CONSEQUENTE DETERMINAÇÃO DIRECIONADA AO RECOLHIMENTO DAS CUSTAS PROCESSUAIS INDEVIDA REVOGAÇÃO DA GRATUIDADE PROCESSUAL DOCUMENTOS FORNECIDOS PELA RECORRENTE QUE DÃO CONTA DE SUA MOMENTÂNEA INCAPACIDADE FINANCEIRA NO QUE TOCA A SUPORTAR AS CUSTAS PROCESSUAIS PRELIMINAR REPELIDA RECURSO CONHECIDO.
+ALEGAÇÃO DE INCORREÇÃO, COM PEDIDO DE REFORMA PRETENSÃO RECURSAL DIRECIONADA A NECESSÁRIA SUSPENSÃO DO ANDAMENTO DO FEITO EXECUTIVO MOVIMENTADO PELO RECORRIDO, DIANTE DA NÃO OCORRÊNCIA DO TRANSITO EM JULGADO DA R. DECISÃO PROFERIDA NOS AUTOS DA RECUPERAÇÃO JUDICIAL DO "GRUPO ESSER", PELA QUAL RESULTOU DETERMINADA A EXCLUSÃO DA AGRAVANTE DO POLO ATIVO DO PEDIDO RECUPERACIONAL QUESTÃO ANALISADA PELA 2ª CÂMARA RESERVADA DEDIREITO EMPRESARIAL, POR ACÓRDÃO PROFERIDO NO JULGAMENTO DO RECURSO DE AGRAVO DE INSTRUMENTO Nº2207918 -42.2020.8.26.0000 - EVENTUAL RECURSO INTENTANDO PELA RECORRENTE QUE NÃO CONTA COM EFEITO SUSPENSIVO TRAMITAÇÃO DO FEITO EXECUTIVO QUE SE MOSTRA, PORTANTO, PLENAMENTE ADMITIDA PELO ORDENAMENTO JURÍDICO VIGENTE INOCORRÊNCIA DO ALEGADO DANO DE DIFÍCIL, QUIÇÁ IMPOSSÍVEL REPARAÇÃO PENHORA INCIDENTE SOBRE UNIDADES IMÓVEIS QUE FORAM HIPOTECADAS PELA AGRAVANTE QUE, INCLUSIVE, BEM ATENDE AO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO, CONFORME PREVISTO PELO ARTIGO 805, DO CPC EM VIGOR, HAJA VISTA QUE FORAM PRESERVADOS OUTROS BENS MANTIDOS EM SEU NOME ACERTO DA R. DECISÃO COMO PROFERIDA RECURSO CONHECIDO E NÃO PROVIDO"(e-STJ fls. 172/173).
+A recorrente alega que o acórdão violou os arts.6º, caput e §4º, 49, 52 e 172 da Lei nº 11.101/05.
+Sustenta que
+"em razão do crédito discutido ter sido constituído em período anterior do pedido recuperacional, não há dúvida que se sujeitam os seus efeitos.
+E mais, em razão da Recuperação Judicial, torna-se inafastável a necessidade de observância das disposições especiais previstas na LFRE, especialmente no que tange à necessidade de suspensão das ações movidas em face da empresa Recorrente"
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Verifica-se que atese em torno dos artigos6º,§4º, 49, 52 e 172 da Lei nº 11.101/05,não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1022 do Código de Processo Civil/2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação da parte em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
