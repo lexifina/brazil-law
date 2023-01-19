@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIO CESAR NAZARIO ROHDEN, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5062965-17.2022.8.24.0000/SC).
+Consta dos autos que houve sentença condenando o paciente pela prática dos crimes tipificados nos arts. 33, caput, da Lei n. 11.343/2006, c/c 14, caput, e 16, § 1º, IV, da Lei n. 10.826/2003, às penas de 8 anos e 9 meses de reclusão, em regime inicial fechado, e ao pagamento de 385 dias-multa, negado o direito de recorrer em liberdade.
+Ohabeas corpusimpetrado na origem, questionando a condenação, restou não conhecido, sendo a decisão confirmada em sede de agravo interno, assim ementado (fl. 1.090):
+AGRAVO INTERNO EM HABEAS CORPUS. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DE NÃO CONHECIMENTO, POR INADEQUAÇÃO DA VIA ELEITA. ALMEJADO O CONHECIMENTO DO WRIT. INVIABILIDADE. INSURGÊNCIA APRESENTADA EM FACE DE SENTENÇA CONDENATÓRIA. PRETENSÃO QUE DEVE SER DEDUZIDA POR VIA RECURSAL PRÓPRIA. RECURSO DE APELAÇÃO CRIMINAL, ADEMAIS, QUE JÁ FOI INTERPOSTO PELO AGRAVANTE. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. AUSÊNCIA DE MANIFESTA ILEGALIDADE A SER REPARADA. RECURSO CONHECIDO E DESPROVIDO.
+Na presente oportunidade, o impetrante sustenta que o paciente sofre constrangimento ilegal por estar preso em razão da inaplicabilidade do princípio da consunção para os delitos previstos no Estatuto do Desarmamento. Aponta que, da análise das provas dos autos, é possível verificar que o paciente praticou apenas um delito, eis que a apreensão dos objetos se deu em um único contexto fático.
+Ressalta ser primário e portador de bons antecedentes, além de possuir residência fixa, trabalho lícito e núcleo familiar. Assevera não haver risco a ordem pública ou possível reiteração criminosa.
+Requer, liminarmente, seja reformada a sentença condenatória com a consequente aplicação do princípio da consunção, para incursão do paciente apenas nas sanções do delito descrito no art. 16, § 1º, IV, da Lei n. 10.826/2003.
+No mérito, postula a confirmação da medida liminar, com a adequação da quantidade de pena e do regime inicial de cumprimento, além do deferimento do direito de responder em liberdade.
+É o relatório.
+De pronto, constata-se que a matéria de fundo não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESIGNAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO. DESNECESSIDADE. DEFESA EXERCIDA PELA DEFENSORIA PÚBLICA. VIOLAÇÃO À AMPLA DEFESA. INEXISTÊNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pela Corte de origem impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+2. Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa. Precedentes.
+3. No caso em análise, o Procedimento Administrativo Disciplinar foi devidamente acompanhado pela Defensoria Pública, a qual, diligentemente, apresentou, inclusive, defesa escrita, não havendo, portanto, qualquer violação ao amplo direito de defesa do agravante.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
