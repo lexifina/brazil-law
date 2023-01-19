@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se derecurso especial interposto porC & K ENXOVAIS LTDA., fundamentado no art. 105, inciso III, alíneas "a" e"c", da Constituição Federal, insurge-se acórdão do Tribunal de Justiça do Estado de Santa Catarinaassim ementado:
+"CÉDULA DE CRÉDITO BANCÁRIO INADIMPLIDA. BUSCA E APREENSÃO. SENTENÇA DE IMPROCEDÊNCIA QUANTO A BUSCA E DE PROCEDÊNCIA QUANTO AOS PEDIDOS REVISIONAIS. APELO DO CREDOR FIDUCIÁRIO. JUROS REMUNERATÓRIOS. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA. ABUSIVIDADE EVIDENCIADA. Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez porcento) acima da taxa média divulgada pelo Banco Central. CAPITALIZAÇÃO DE JUROS. ENCARGO ADMITIDO, DESDE QUE EXPRESSAMENTE PACTUADO. ORIENTAÇÃO CONSOLIDADA NO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 973.827. A prática do anatocismo, como também é chamada a capitalização de juros, com periodicidade inferior a um ano, é permitida pelo ordenamento jurídico pátrio, desde que existente pactuação expressa e clara e que a data do contrato seja posterior à edição da Medida Provisória n. 1.963-17/00, em 31 de março de 2000, (reeditada como MP n. 2.170-36/01). Acerca da exigência de expressa pactuação, o Superior Tribunal de Justiça entende que havendo previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal, permite-se a cobrança da taxa efetiva anual contratada. CARACTERIZAÇÃO DA MORA. ORIENTAÇÃO CONSOLIDADA PELO STJ NO RESP. N.1.061.530/RS. O afastamento da mora do consumidor depende da constatação de encargos abusivos no período de normalidade(juros remuneratórios abusivos e capitalização de juros ilegal) - e não apenas a verificação de abusividade no período de inadimplência do contrato - e do adimplemento de pelo menos a parte incontroversa do débito, quando possível aferir o quantum debeatur. Não constatado o adimplemento de pelo menos a parte incontroversa do débito, não se justifica a descaracterização da mora debendi. APELO PARCIALMENTE PROVIDO. MORA CARACTERIZADA. BUSCA E APREENSÃO PROCEDENTE. " (e-STJ fl.224).
+No recurso especial o recorrente sustenta a existência de divergência jurisprudencial acerca da desconfiguração da mora, afirma que houve violação do artigo 489, § 1º, V, do Código de Processo Civil.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A insurgência não merece prosperar.
+Verifica-se que não há correlação entre o artigo 489, § 1º, V e a desconfiguraçãoda mora, o que inviabiliza a compreensão da controvérsia por ausência de pertinência temática. Incidência, portanto, da Súmula nº 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO FISCAL AJUIZADA CONTRA SOCIEDADE DE ECONOMIA MISTA. PENHORA. IMÓVEL. VINCULAÇÃO ÀS ATIVIDADES DA SOCIEDADE. PREJUÍZO A PRESTAÇÃO DE SERVIÇOS PÚBLICOS. SÚMULAS N. 7 E N. 83 DO STJ. VIOLAÇÃO AOS ARTIGOS 458 E 535 DO CPC. AUSÊNCIA. ARTIGO 100 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. DECISÃO MANTIDA.
+(..)
+5. A alegação recursal de houve prequestionamento do art. 100 da CF não tem correlação com o embasamento do recurso especial, no qual se aponta violação ao art. 100 do Código Civil, como bem assinalado pela decisão ora agravada. Incidência, por analogia, da Súmula n. 284 do STF.
+(..)
+7. Agravo regimental não provido" (AgRg no REsp 1075160/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/11/2009, DJe17/11/2009).
+No mais, o recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Com efeito, se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, novamente, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. (..).
+2. A matéria constitucional invocada não é de ser examinada nesta via, porquanto a sua apreciação não compete ao Superior Tribunal de Justiça, pelo teor do artigo 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional.
+3. Incabível a interposição de recurso especial por violação de enunciado sumular, por se tratar de verbete que não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+4. Não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+5. Agravo interno desprovido"
+(AgInt no AREsp 576.350/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA,
+julgado em 25/4/2017, DJe 3/5/2017).
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezporcento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (dozepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
