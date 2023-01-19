@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ARMANDO OLIVEIRA SILVA contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE CONTRATUAL. CONVERSÃO DA OBRIGAÇÃO DEFAZER EM PERDAS E DANOS. JUROS E CORREÇÃO MONETÁRIA. AGRAVO PARCIALMENTE PROVIDO.
+I - A matéria do presente recurso cinge-se à análise da decisão que determinou que a correção monetária a partir de 15/04/2004 e juros de morada citação (outubro/2008); HONORÁRIOS ADVOCATÍCIOS: correção monetária a partir da sentença (16/04/2012) e juros de mora do trânsito em julgado (23/05/2017).
+II - Com efeito, temos que em se tratando de responsabilidade contratual, ainda que a ação de obrigação de fazer tenha sido convertida em perdas e danos, os juros de mora incidem a partir da citação e a correção monetária apartir da decisão que converteu a obrigação de fazer em perdas e danos.
+III - Ou seja, a correção monetária deverá incidir a partir da decisão dos embargos de declaração que converteu a obrigação de fazer em perdas e danos, isto é, do dia 07/08/2012.
+IV - Quanto aos juros de mora e demais encargos, entendo que a decisão interlocutória está de acordo com os precedentes jurisprudenciais e legais. Agravo parcialmente provido" (fl. 76, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 109, e-STJ).
+No recurso especial, orecorrente alega que houve violação dos arts. 489, 509, 917 e 1.022 do Código de Processo Civil de 2015,pois os juros de mora devemincidir desde o trânsito em julgado da demanda.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+Ademais, o tribunal estadualao concluir que, "(..) em se tratando de responsabilidade contratual, ainda que a ação de obrigação de fazer tenha sido convertida em perdas e danos, os juros de mora incidem a partir da citação e a correção monetária a partir da decisão que converteu a obrigação de fazerem perdas e danos" (fl. 78, e-STJ), aplicou a jurisprudênciaa orientação jurisprudencial desta Corte acerca do tema, consoante se verifica dos seguintes precedentes:
+"CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE PELO INADIMPLEMENTO CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULAS E REVISÃO DO ACERVO FÁTICO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. RESTITUIÇÃO DA INTEGRALIDADE DOS VALORES PAGOS. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. INCIDÊNCIA DE JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, para ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer que a rescisão da promessa de compra e venda de imóvel ocorreu por iniciativa do adquirente, seria necessária a interpretação de cláusulas do contrato firmado entre as partes, assim como a reincursão no acervo fático-probatório dos autos, o que é vedado nesta sede excepcional, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+3. Em se tratando de rescisão de promessa de compra e venda por culpa do vendedor, deve ser restituída a integralidade dos valores pagos pelo comprador. Incidência da Súmula n.º 568 do STJ.
+4. Conforme o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente vendedora, o que foi reconhecido no caso.
+5. Agravo interno não provido"
+(AgInt no REsp n. 2.013.385/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO CONTRATUAL CAUSADA PELO ATRASO DA VENDEDORA NA ENTREGA DO BEM. REVISÃO DA CULPA. SÚMULA 7/STJ. DEVOLUÇÃO INTEGRAL DO PREÇO PAGO. SÚMULA 543/STJ. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL. INCIDÊNCIA DESDE A CITAÇÃO. DANOS MORAIS. ATRASO POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO DO ART. 1.042 DO CPC/2015 CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. É inviável o conhecimento da pretensão de revisão da culpa pela resolução do negócio, porque, uma vez estabelecida a mora na entrega do imóvel como a causa da resolução, com base nos elementos fático-probatórios, a alteração desse entendimento não prescindiria do reexame direto das provas dos autos, óbice da Súmula 7/STJ.
+3. Nos termos da Súmula 543/STJ, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+4. Os juros moratórios incidem desde a citação no caso de resolução de compra e venda causada pela vendedora, em decorrência da responsabilidade contratual pelas perdas e danos. Inaplicabilidade de cláusula penal em desfavor do comprador inocente ou do Tema 1.002 dos Recursos Repetitivos (cf. AgInt no AREsp 1.699.501/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe de 07/12/2020).
+5. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que a entrega do imóvel não foi provada após um ano desde a expiração do prazo de tolerância.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento"
+(AgInt no AREsp n. 1.856.866/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/9/2021, DJe de 3/11/2021.)
+Assim,não há reparo a fazer aoentendimento exarado na origem.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista não ter havido condenação em honorários sucumbenciais na origem.
+Publique-se.
+Intimem-se.
