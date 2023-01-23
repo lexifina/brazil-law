@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada porARGEMIRO PEREIRA FRANÇAcontra decisão proferida pela 2ª Vara Cível da Comarca de Tupã/SP, quesupostamente contrariaria a orientação jurisprudencial doSuperior Tribunal de Justiça exarada no julgamento do REsp n 1.185.072/SP e sedimentada nas Súmulas 30 e 296 desta Corte Superior.
+Sustenta a parte reclamante que não seriapossível a cumulação da comissão de permanência com correção monetária, nem com juros remuneratórios e moratórios.
+Requer o deferimento de liminar para que haja a imediata suspensão do ato judicial reclamado.
+É o relatório.
+A reclamação que é da atribuição desta Corte Superior está prevista no art. 105, I, f, da Constituição Federal e constitui garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou à garantia da autoridade de suas decisões, em caso de descumprimento de seus julgados.
+No tocante à alegação de descumprimento de julgados desta Corte Superior, o cabimento dareclamação exigea demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional especificamente exarado pelo Tribunal Superior para a relação processual originária.
+É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que não se admite o ajuizamento de reclamação como sucedâneo recursal, isto é, para dirimir divergência jurisprudencial entre o acórdão reclamado e precedentes desta Corte. Confiram-se os seguintes julgados:
+A reclamação constitucional não é a via adequada para preservar a jurisprudência do STJ, mesmo que firmada em recurso repetitivo, mas sim a autoridade de suas decisões tomadas no próprio caso concreto. (AgRg na Rcl n. 25.299/SP, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 4/12/2015.)
+A reclamação constitucional não é instrumento útil para adequar os julgados do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, mesmo que proferidos em sede de recurso repetitivo. Tal procedimento se destina a fazer cumprir decisão proferida em caso concreto que envolva as partes postas no litígio do qual oriundo a reclamação. (AgRg na Rcl n. 22.505/SP, Segunda Seção, relator Ministro Ricardo Villas Boas Curva, DJe de 15/4/2015.)
+No caso, a parte insurgente utiliza-se dapresente reclamaçãocomo sucedâneo de recurso, isto é, para supostamente adequar o conteúdo do ato judicial impugnado ao entendimento jurisprudencial do STJ. Tal expediente, portanto, revela-se manifestamente descabido no âmbito deste instrumento processual.
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
