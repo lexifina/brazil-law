@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deANDERSON SILVA ALVES,contra decisão proferida pelo Desembargador Relator do HC n. 2255796-89.2022.8.26.0000, em tramitação no Tribunal de Justiça do Estado de São Paulo.
+Segundo oImpetrante, o Apenadoformulou pedidos de progressão de regime e de livramento condicional no dia 24/02/2022, os quais, até a presente data, não foram apreciados pelo Juízo da Execução Penal.
+Diante dessa situação, a Defesa impetrou habeas corpusno Tribunal estadual, o qual não foi conhecido por decisão unipessoal do Desembargador Relator (fls. 31/33).
+Nestemandamus, o Impetrante sustenta, em suma, que continua indevida e injustificadamente pendente a análise dos benefícios pleiteados há mais de 10 (dez) meses perante o Juízo de primeiro grau e afirma que estão sendo ofendidas as garantias legais e constitucionais do Reeducando, em razão da demora na condução do feito.
+Requer, liminarmente e no mérito, seja determinada a atualização do cálculo de penas, bem como a apreciação dos pleitos pendentes ou, caso não atendida a determinação, "seja o Paciente colocado em semiaberto até o efetivo julgamento dos benefícios" (fl. 9).
+É o relatório.
+De início, ressalto que não é cabível a impetração dehabeas corpusno Superior Tribunal de Justiça contra decisão monocrática de Desembargador do Tribunal de Justiça, pois odecisumsingular desafia a interposição de agravo regimental no âmbito da própria Corte de origem, a fim de que haja a manifestação do colegiado local.
+No entanto, o caso em exame guarda conexão com outro writ impetrado nesta Corte, HC 776295/SP (Processo originário: HC 2191005-14.2022.8.26.0000), a cuja pretensão a eminente Relatora, Ministra Laurita Vaz, proferiu decisão em outubro deste ano com a seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL. EXCESSO DE PRAZO NO EXAME DE BENEFÍCIOS EXECUTÓRIOS. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. ORDEM CONCEDIDA DE OFÍCIO PARA DETERMINAR QUE A CORTE A QUO PROSSIGA NA APRECIAÇÃO DO WRIT ORIGINÁRIO.
+Em razão disso, foram requisitadas informações ao Tribunal de origem e ao Juízo de Execuções, conforme despacho de fls. 37/38, sendo que o primeiro noticiou o julgamento de mérito do writvinculado à decisão de ementa acima transcritae o segundo esclareceuque o procedimento executório já foi impulsionado para análise do pedido de benefícios pretendido pelo apenado (fls. 42/44 e 45/52).
+Diante das informações, resta configurada a perda de objeto do presente mandamus, ou porque já há decisão de mérito acerca da pretensão heroicapor parte do TJSP, conforme acórdão proferido nos autos do HC n. 2191005-14.2022.8.26.0000;ou porque os pedidos de progressão de regime e de livramento condicional estão em análise pelo Juízo de Execuções, que aguarda a manifestação do Ministério Público estadual para definição do caso.
+Ante o exposto, julgo prejudicadoo writ em face da perda de objeto.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
