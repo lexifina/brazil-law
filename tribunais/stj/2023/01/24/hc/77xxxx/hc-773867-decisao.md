@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Fabrício Welsch Teodoro - preso preventivamente pela prática, em tese, do crime de tráfico de drogas (47 g de cocaína, acondicionadas em 73 flaconetes plásticos - fl. 16) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu a liminar no writ ali impetrado (Habeas Corpus n. 2222995-23.2022.8.26.0000), mantendo a segregação cautelar imposta pelo Juízo de Direito da 1ª Vara Criminal da comarca de Limeira/SP (Autos n. 1502963-48.2022.8.26.0320).
+Alega o impetrante, em síntese, que o Juízo de primeiro grau não fundamentou concretamente e de forma individualizada a não aplicação das medidas cautelares do art. 319 do Código de Processo Penal(fl. 4).
+Postula, então, a superação da Súmula 691/STFpara que, deferida a liminar, seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+Liminar concedida (fls. 39/41).
+Informações prestadas (fls. 50/65).
+Em parecer, o Ministério Público Federal opinou pela concessão da ordem (fls. 69/74).
+É o relatório.
+No caso, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+Com efeito,da análise dos autos, verifico, inclusive, a ocorrência de excepcionalidade capaz de justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal, aplicável por analogia.
+O Juízo de Direito da 1ª Vara Criminal da comarca de Limeira/SP (Autos n. 1502963-48.2022.8.26.0320) determinou a prisão cautelar do ora paciente,com base nos seguintes termos (fls. 19/20):
+ ..
+A materialidade do delito está bem demonstrada através do boletim de ocorrência (fls. 07/09); Auto de exibição e apreensão (fl. 10: R$-541,00 (quinhentos e quarenta e um reais), LACRE 5199994; 01 (um) Telefone Celular, Marca Motorola, Registro, IMEI 353619112138052, LACRE 5200054; 01 (uma) caixa de cigarro vazia - LACRE 5200053; 47 gramas de cocaína, acondicionadas em 73 (setenta e três) flaconetes plásticos, lacre 5199907; fotografias de fls. 11; laudo de constatação de fls. 13/15, havendo também indícios de autoria.
+Ouvido pela Autoridade Policial, o custodiado exerceu seu direito constitucional de permanecer em silêncio (fls. 04).
+Entretanto, a prática delitiva imputada ao custodiado foi descrita pelos Policiais Militares que realizaram a prisão em flagrante do investigado (fls.02/03): " (..)nesta data, por volta das 18:30 horas, em patrulhamento, na companhia do CB PM BRITO, pela Avenida Jaime Cheque, no bairro Pq Nossa Senhora das Dores, nesta cidade, tratando-se de local conhecido como ponto de venda de drogas, avistaram um indivíduo entregando alguma coisa para outro que estava de bicicleta. Ao perceber a aproximação da viatura o indivíduo de bicicleta agiu de forma suspeita e evadiu-se em alta velocidade. O outro rapaz, que estava a pé, chegou a fazer menção de correr, mas a viatura estava muito perto e ele foi abordado. O indivíduo foi identificado como sendo FABRICIO WESCH TEODORO. Durante revista pessoal o CB PM BRITO, localizou na cintura de FABRÍCIO um telefone celular Motorola e no bolso da jaqueta de FABRÍCIO a quantia de R$ 541,00 em dinheiro trocado e uma caixa de cigarro com 13 flaconetes plásticos com pó branco aparentando cocaína, divididos em porções individuais e prontos para serem comercializados. Ao lado de FABRÍCIO, num pequeno arbusto no canteiro central, distante menos de um metro de onde FABRÍCIO foi abordado, o CB PM BRITO localizou um saco plástico com mais 60 flaconetes idênticos aos que havia localizado com FABRÍCIO. Questionado FABRÍCIO confessou ao depoente que estava naquele local vendendo drogas e que todo o entorpecente lhe pertencia e que o dinheiro era proveniente da venda de drogas. FABRÍCIO disse ainda que hoje era a primeira vez que estava vendendo drogas, porém, o depoente se recorda de já tê-lo visto naquelas vizinhanças, porém, na época não houve motivo para abordá-lo. Diante do exposto deu voz de prisão a FABRÍCIO WELSCH TEODORO conduzindo-o a este plantão juntamente com os objetos, valores e entorpecentes."
+A custódia cautelar se revela necessária para a garantia da ordem pública. Isso porque eventual liberação redundaria em estímulo a perseverar na conduta delituosa, havendo forte evidência de envolvimento com o tráfico de forma habitual ou organizada.
+A folha de antecedentes demonstra que o custodiado ostenta diversas passagens por atos infracionais (fls. 28/29).
+ ..
+Assim, nesse contexto - primariedade técnica do paciente, a sua idade inferior a 21 anos e a quantidade reduzida de entorpecentes (47 g de cocaína, acondicionadas em 73 flaconetes plásticos - fl. 16) -, entendo ser necessário revogar a prisão imposta, facultando ao Juiz da causa a imposição, de forma fundamentada, de outras cautelares que entenda cabíveis.
+A corroborar, oportuna a manifestação, no que interessa, da Procuradoria-Geral da Repúblicaacerca da concessão da ordem, in verbis (fl.72):
+ ..
+Não se desconhece que esta Corte Superior de Justiça tem, reiteradamente, decidido, por ambas as Turmas, que a existência de registros por atos infracionais é elemento hábil a evidenciar a dedicação do agente a atividades delituosas e, por conseguinte, a impedira incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Contudo, no caso em tela, considerando as circunstâncias do crime e quantidade de droga apreendida (apreensão de 47g de cocaína), outras medidas cautelares previstas no artigo 319 do CPP são suficientes ao fim colimado - proteção dobem jurídico sob ameaça - de forma menos gravosa ao paciente, que é tecnicamente primário.
+Ademais, a Sexta Turma desta Corte tem entendido que o tráfico flagrado de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social, de modo que, in casu, a medida de prisão mostra-se desproporcional, mormente em razão da primariedade do ora paciente.
+Portanto, a ordem deve ser concedida de ofício para ratificar a liminar de fls.39/41, a fim de que o paciente aguarde o julgamento em liberdade, caso não esteja preso por razões diversas, sem prejuízo da imposição de outras medidas cautelares diversas da prisão.
+ ..
+Não há violação dos preceitos processuais quando o Magistrado adota os termos da manifestação ministerial como razões de decidir (RHC n. 31.266/RJ, Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), Quinta Turma, DJe 18/4/2012).
+Ilustrativamente: HC n. 400.807/SP, da minha relatoria, Sexta Turma, DJe 2/10/2017.
+Feitas essas considerações, verifico ilegalidade flagrante apta à concessão da ordem, nos termos da jurisprudência deste Superior Tribunal.
+Pelo exposto, com base na jurisprudência firmada, expeço a ordempara revogar a prisão aqui contestada, podendo o Magistrado singular fixar medidas cautelares que entender cabíveis.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 691/STF. SUPERAÇÃO. POSSIBILIDADE.CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
