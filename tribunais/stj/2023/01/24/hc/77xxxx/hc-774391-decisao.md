@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Guilherme Vinícius Testa contra acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação criminal n. 150049-27.2020.8.26.0551/SP).
+Consta dos autos que o paciente foi condenadopor tráfico de drogasà pena de 5 anos de reclusãoem regime inicial fechado (fls. 112/125).
+Daí o presente writ, no qual a defesa almeja, liminarmente e no mérito, seja sanado o constrangimento ilegal apontado, a fim deque se reduza a pena imposta, aplicando-se o disposto no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo previsto, tendo em vista o preenchimento dos requisitos legais exigidos, bem como a fixação de regime menos severo que o fechado e a eventual aplicação da substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal, observando-se, ainda, o disposto no art. 387 do Código de Processo Penal (fls. 3/14).
+Liminar indeferida (fls. 128/129).
+Informações prestadas (fls. 133/150).
+Em parecer, o Ministério Público Federal opinou pela concessão da ordem(fls. 154/164).
+É o relatório.
+No caso, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+Com efeito, o paciente foi condenado nos termos doart. 33, caput, da Lei n. 11.343/2006à pena de 5 anosde reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa (fls. 112/125).Todavia, merece reforma o decisum a quo, pois,em decorrência do reconhecimento de condições favoráveis na dosimetria da pena,cabível aincidência do tráfico privilegiado, sobretudo em razão da parca quantidade de entorpecente traficado (fls. 98/125).
+A corroborar, oportuna a manifestação, no que interessa, da Procuradoria-Geral da República, acerca da concessão da ordem, in verbis (fls. 162/154):
+ ..
+Portanto, o tema encontra-se atualmente pacificado no sentido de se aplicar o vetor negativo do binômio da quantidade/natureza das drogas tão somente na primeira fase da dosimetria da pena, eis que ".. a utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+Sendo assim, embora não se possa considerar desprezível a quantidade dos entorpecentes apreendidos (85g de maconha e aproximadamente 29,25g de cocaína), verificamos que, por falta de outros elementos concretos que indiquem a dedicação do réu à atividade criminosa ou a integração dele a organização criminosa, sendo isso, inclusive, que deve ser considerado na aplicação daquele entendimento da Terceira Seção dessa CorteSuperior em casos como o dos autos, deve ser aqui reconhecida a incidência da causa especial de diminuição de pena, prevista no artigo 33, § 4º, da Lei nº 11.343/2006 (tráfico privilegiado) em seu grau máximo, qual seja, o de 2/3 (dois terços), pelo que apena definitiva do réu, ora paciente, deverá ser reduzida para 1 ano e 8 meses de reclusão.
+A partir daí, cumpre assinalar que a redução da pena privativa de liberdade para quantum inferior a 4 (quatro) anos deverá ter como consequência a fixação do regime aberto para o início do cumprimento da pena, considerando-se a inexistência de circunstâncias judiciais negativas, a primariedade do réu ao tempo do crime e a ausência de fundamentação concreta a justificar a imposição de regime prisional mais gravoso.
+Ademais, também será o caso de substituição da pena corporal por restritivas de direitos, haja vista que, conforme dito, todas as condições pessoais do paciente são favoráveis, tratando-se de réu primário à época dos fatos, portador de bons antecedentes e sem nada mais de concreto que possa inquinar sua conduta até aqui. Do mesmo modo, os requisitos objetivos do artigo 44 do Código Penal estão todos preenchidos, na medida em que a ele deverá ser imposta pena corporal inferior a 4 (quatro) anos por delito praticado sem violência ou grave ameaça a pessoa.
+ ..
+Há, portanto, várias ilegalidades a serem sanadas de ofício no acórdão impetrado, devendo ser aplicada a fração máxima do redutor do tráfico privilegiado no patamar máximo de 2/3 (dois terços), sendo que, assim feito e reduzida a pena para 1 (um) ano e 8 (oito) meses de reclusão, deverá ser fixado o regime inicial aberto e, em seguida, substituída a pena privativa de liberdade por restritivas de direitos.
+Por essas razões, opina esta Representante do Parquet Federal no sentido da não admissão do writ mas, em seguida, pela concessão de uma ordem de habeas corpus ex officio, nos termos acima sugeridos.
+ ..
+Não há violação dos preceitos processuais quando o Magistrado adota os termos da manifestação ministerial como razões de decidir (RHC n. 31.266/RJ, Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), Quinta Turma, DJe 18/4/2012).
+Ilustrativamente: HC n. 400.807/SP, da minha relatoria, Sexta Turma, DJe 2/10/2017.
+Feitas essas considerações, verifico ilegalidade flagrante apta à concessão da ordem, nos termos da jurisprudência deste Superior Tribunal.
+Pelo exposto, com base na jurisprudência firmada, expeço a ordem para fixara pena definitiva em 1 ano e 8 meses de reclusão, em regime inicial aberto, sanção a ser substituída por restritivas de direitosa serem eleitas pelo Juízo de Direito de Primeiro Grau, nos termos desta decisão.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. SENTENÇA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. ILEGALIDADE FLAGRANTE. REDUÇÃO DA PENA QUE SE IMPÕE, COM A CONSEQUENTE FIXAÇÃO DO REGIME INICIAL MAIS BRANDO E SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS.PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
