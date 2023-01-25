@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por EXAME AUDITORES INDEPENDENTES e outros, fundamentado nasalíneas "a" e "c" do permissivo constitucional.
+Ação: de conhecimento com rito monitório ajuizada por EXAME AUDITORES INDEPENDENTES em face de PRÓ QUIMICA DO BRASIL LTDA.
+Sentença: julgou procedentes os pedidos formulados nos embargos monitórios para extinguir a ação de conhecimento com rito monitório.
+Acórdão: deu parcial provimento à apelação interposta por EXAME AUDITORES INDEPENDENTES e não conheceu da apelação interposta por PRÓ QUIMICA DO BRASIL LTDA, nos seguintes termos:
+Prestação de serviços advocatícios. Monitória. Réus que deixaram de pagar as parcelas dos honorários convencionados durante a execução do contrato (fase de acompanhamento da recuperação judicial). Rescisão contratual antecipada. Recebimento proporcional aos serviços efetivamente prestados. Possibilidade de apurar o quantum nesta ação monitória. Aplicação do art. 603 do CC à hipótese ante ruptura do contrato por culpa dos réus. Recurso dos autores parcialmente provido e recurso do advogado da ré não conhecido.
+Embargos de declaração: opostos pelo agravantee pelo agravado, foram rejeitados.
+Recurso especial: além de dissídio jurisprudencial,alega violação ao art. 702 §§ 2º e 3º a fim de pleitear o recebimento integral dos honorários advocatícios contratados. No mais, sustenta violação aoart. 1.022 do CPC; art. 129 do CC; e art. 22 da Lei 8.906/94.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- DA VIOLAÇÃO DO ART. 1.022 DOCPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível àhipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda quede forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJede 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão agravado decidiu, fundamentada eexpressamente acerca dos pontos controvertidos, de maneira que os embargos dedeclaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, nãohá que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula568/STJ.
+-DO RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS APÓS REVOGAÇÃO IMOTIVADA DO MANDATO
+Apesar de entender pelo direito ao recebimento dehonorários advocatícios contratuaisapós revogação imotivada do mandato, esta Turma possui jurisprudência no sentido que "ainda que a revogação do mandato tenha decorrido do exercício de direito potestativo dos recorridos, sem qualquer causa atribuída aos recorrentes, não se pode ignorar que não houve a efetiva e integral prestação do serviço contratado. Desse modo, a pretensão de se obter o pagamento integral dehonorários contratuais,fixados a partir do critério de moderação e razoabilidade em relação ao serviço total, traduz evidente desproporção, com a qual não pode pactuar o Poder Judiciário." (REsp 1.290.109/PR, Terceira Turma, julgado em 16/04/2013, DJe 15/05/2013; AgInt no AREsp n. 1.888.655/SP, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021)
+Nessa senda, a jurisprudência do Tribunal da Cidadania se firmou no sentido de ser cabível o arbitramento judicial da verba honorária proporcional ao trabalho exercido pelo advogado na hipótese de rescisão antecipada unilateral do contrato de prestação de serviços advocatícios por iniciativa do mandante (cliente), ainda que haja previsão de remuneração exclusiva por honorários sucumbenciais. (REsp n. 1.777.499/RS, Quarta Turma, julgado em 22/11/2022, DJe de 6/12/2022;AgInt no AREsp n. 1.167.313/RS, Terceira Turma, julgado em 19/6/2018, DJe de 29/6/2018;AgRg no AREsp 492.408/SP, Terceira Turma, julgado em 23/06/2015, DJe 03/08/2015)
+Na espécie, chegou-se ao seguinte entendimento no acórdão recorrido:
+"Nesse caso, se houve a ruptura do contrato de prestação de serviços por culpa dos réus, em julho de 2.012, por força do art. 603 do CC, aplicável, no meu entender, subisidiariamente aos contratos de prestação de serviços advocatícios, os autores têm direito ao recebimento das prestações dos honorários advocatícios vencidos e da metade das prestações vincendas a partir de então." (e-STJ fls. 724)
+Destarte, estando o entendimento do Tribunal de origem em consonância com esta Corte Superior não há que se falar em reforma do julgado quanto ao ponto.
+- DA ALEGADA DECISÃO EXTRA PETITA
+Em suas razões, o agravante aduz que não foi requerida a declaração de nulidade da cláusula contratual Décima, que previa a impossibilidade de rescindir o contrato de forma imotivada,razão pela qual, ao determinar indenização pecuniária, o Tribunal de origem teria incorrido em julgamento extra petita.
+É entendimento deste STJ que não implica julgamento fora do pedido (extra petita) a concessão de tutela jurisdicional que se encontra, ainda que implicitamente, abrangida no pedido formulado na petição recursal, extraída mediante sua interpretação. Súmula 568/STJ.
+- DA ALEGADA VIOLAÇÃO AOART. 702 §§2º e3º do CPC
+Aduz o agravante que não foi devidamente apresentado pelo agravado a indicação de valor que considera correto, o que violaria oart. 702, §§ 2º e 3º, CPC.
+Contudo, alterar o decidido no acórdão impugnado, no que se refere à apresentação dos valores tidos como corretos, exigiria o reexame de fatos e provas, o que é vedado em recurso especial pelaSúmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, a , do CPC/2015,bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do agravo e, nessaextensão, NEGO-LHE PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente (fls. 726) em R$ 1.000,00 (mil reais) observados os limites do art. 85, §2º, do CPC, bem como a eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO COM RITO MONITÓRIO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃOOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. RESCISÃO UNILATERAL. PRESTAÇÃO DE SERVIÇOS PARCIAL. DECISÃO EXTRA PETITA. NÃO CONFIGURADA. SUMULA 7/STJ. REEXAME DE FATOS E PROVAS.
+1. Cuida-se de ação de conhecimento com rito monitório.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentadocorretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, nãohá que se falar em omissão.
+3. Ainda que a revogação do mandato tenha decorrido do exercício de direito potestativo dos recorridos, sem qualquer causa atribuída aos recorrentes, não se pode ignorar que não houve a efetiva e integral prestação do serviço contratado. Desse modo, a pretensão de se obter o pagamento integral de honorários contratuais, fixados a partir do critério de moderação e razoabilidade em relação ao serviço total, traduz evidente desproporção, com a qual não pode pactuar o Poder Judiciário. Precedentes.
+4. É entendimento deste STJ que não implica julgamento fora do pedido (extra petita) a concessão de tutela jurisdicional que se encontra, ainda que implicitamente, abrangida no pedido formulado na petição recursal, extraída mediante sua interpretação. Súmula 568/STJ.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Recurso especial parcial conhecido e, nessa extensão, não provido.
