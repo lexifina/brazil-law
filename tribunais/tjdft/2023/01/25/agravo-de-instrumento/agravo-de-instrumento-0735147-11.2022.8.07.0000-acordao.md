@@ -1,0 +1,151 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0735147-11.2022.8.07.0000AGRAVANTE(S)CARLA OLIVEIRA VITALIAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador ESDRAS NEVES Acórdão Nº1657989
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. LEI DE EXECUÇÃO FISCAL. PRAZO DE SUSPENSÃO DE UM ANO. INÍCIO AUTOMÁTICO. RECURSO ESPECIAL REPETITIVO N° 1.340.553/RS. A prescrição intercorrente é instituto destinado a reprimir a conduta do credor desidioso, que não dá sequência à marcha processual. Nos termos do artigo 40, § 1°, da Lei n° 6.830/1980, decorrido o prazo máximo de 1 (um) ano, sem que seja localizado o devedor ou encontrados bens penhoráveis, o Juiz ordenará o arquivamento dos autos da execução fiscal. O Superior Tribunal de Justiça, no julgamento do Recurso Especial n° 1.340.553/RS, firmou tese no sentido de que o início do prazo de suspensão estipulado no referido dispositivo é automático, sem a necessidade de prévia intimação da Fazenda Pública para que comece a fluir, bastando que tenha tomado ciência da inexistência de bens penhoráveis no endereço fornecido e/ou da não localização do devedor. Esse entendimento consolida o teor do enunciado sumular 314, do Tribunal da Cidadania, que já registrava que em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo de prescrição quinquenal intercorrente. No prazo de um ano de suspensão a Fazenda Pública tem o ônus de tentar localizar bens penhoráveis, promovendo as pesquisas e diligências necessárias. Se encontrar bens, o processo volta a tramitar; se não encontrá-los, o juiz ordenará o arquivamento dos autos, iniciando-se o prazo da prescrição intercorrente, situação materializada nos autos. Com o esgotamento da matéria, o agravo interno fica prejudicado.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ESDRAS NEVES - Relator, LEONARDO ROSCOE BESSA - 1º Vogal e SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 02 de Fevereiro de 2023
+
+Desembargador ESDRAS NEVESRelator
+
+RELATÓRIO
+
+Trata-se de AGRAVO DE INSTRUMENTO, com pedido liminar, interposto por CARLA OLIVEIRA VITALI (executada) contra decisão proferida pelo Juízo da Segunda Vara de Execução Fiscal, que, nos autos de execução fiscal, Processo nº 0016753-63.2000.8.07.0001, ajuizada por DISTRITO FEDERAL (exequente), rejeitou a exceção de pré-executividade (ID 120283683, dos autos de origem).
+
+Os embargos de declaração opostos pela executada/agravante foram rejeitados (ID 138938892, dos autos de origem).
+
+Em suas razões recursais (ID 40419341), a agravante narra que, na origem, tramita Execução Fiscal movida pelo Distrito Federal, em 17/11/2000, com fundamento na Certidão nº 0000365009, na qual consta crédito tributário definitivamente constituído em 17/07/2000, inscrito em dívida ativa em 28/08/2000, no valor total atualizado de R$ 56.370,19. Afirma que a citação das executadas foi determinada em 28/11/2000, encaminhada pelos Correios, em 08/02/2001, mas que retornou sem cumprimento. Diz que encaminharam - se os mandados de citação à central de mandados, em 16/10/2001, sendo novamente frustrada a tentativa, conforme certidões emitidas em 19/10/2001, relativamente à agravante, e em 22/10/2011, em relação à pessoa jurídica Precious Cosméticos Ltda. Anota que o Juízo ordenou a intimação da Fazenda Pública para manifestação, com vista em 05/02/2002, e que a Fazenda Pública, após dois anos da intimação e vista dos autos, requereu a suspensão do feito por 120 dias, em 28/04/2004. Explica que a Fazenda Pública voltou a impulsionar o feito e requereu a expedição de ofício, para solicitação do endereço das executadas, em 26/12/2005, o que fora deferido, sobrevindo pedido de constrição do patrimônio das executadas, solicitado em 14/04/2017, que resultou no bloqueio do valor de R$ 3.745,61 de Carla Oliveira Vitali, em 11/08/2021. Aduz que, em seguida, as executadas apresentaram exceção de pré-executividade, alegando a prescrição do crédito tributário da CDA nº 0100696899 e a prescrição intercorrente, a qual foi rejeitada, sob o fundamento de que a demora na citação das executadas ocorreu por falha atribuível ao Poder Judiciário.
+
+Sustenta que a decisão agravada reconheceu que a Fazenda Pública teve ciência da não localização dos devedores em 05/02/2002 e que requereu a suspensão do feito, em 28/04/2004, voltando a impulsionar os autos em 26/12/2005, ou seja, mais de 5 anos após a constituição definitiva do crédito tributário, sem a interrupção do prazo prescricional determinado pela redação original do artigo 174, do Código Tributário Nacional. Destaca o Tema repetitivo 383, do Superior Tribunal de Justiça, e defende a prescrição, ocorrida em 17/07/2005.
+
+Alega, ainda, a ocorrência da prescrição intercorrente. Narra que a Fazenda Pública teve ciência da não localização das devedoras, em 05/02/2002, quando teve início, automaticamente, o prazo de 1 ano de suspensão do processo, para fins de configuração da prescrição intercorrente, ocorrida em 05/02/2008. Sustenta que a Súmula 106, do Superior Tribunal de Justiça, não se aplica ao caso, tendo em vista que a paralisação dos autos não pode ser imputada somente ao Poder Judiciário. Registra que houve penhora de ativos nos autos de origem e que a probabilidade de provimento do recurso justifica a concessão de efeito suspensivo ao recurso.
+
+Requer a atribuição de efeito suspensivo ao recurso. Ao final, pede o provimento do recurso.
+
+Preparo comprovado (ID 40419342).
+
+O pedido liminar foi deferido (ID 40502255).
+
+O DISTRITO FEDERAL interpôs AGRAVO INTERNO (ID 41128531).
+
+Contrarrazões ao agravo de instrumento pelo desprovimento do recurso (ID 41128532).
+
+Não foram ofertadas contrarrazões ao agravo interno (ID 41131360).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ESDRAS NEVES - Relator
+
+Conheço do recurso, porquanto estão presentes os pressupostos de admissibilidade.
+
+Em verdade, os fundamentos apresentados na decisão que deferiu o pedido liminar pretendido pela recorrente se mostram suficientes a direcionar o julgamento da questão de mérito do agravo. Isso porque não vieram aos autos outros elementos que fossem hábeis a alterar o entendimento ali exposto. Por ocasião da prolação da referida decisão, verifica-se que a situação fático-jurídica em nada se alterou, devendo, pois, a fundamentação ali expendida prevalecer como razões de decidir no julgamento meritório do presente recurso.
+
+Bem examinados os autos, não se percebem razões para a alteração da decisão exarada monocraticamente, que deferiu o pedido liminar, para suspender os efeitos da decisão agravada.
+
+Examinando os autos, entendo que assiste razão à agravante.
+
+A questão controvertida diz respeito à ocorrência da prescrição intercorrente na execução fiscal ajuizada, no ano de 2000, contra a empresa devedora PRECIOUS COSMETICOS LTDA, e a codevedora CARLA OLIVEIRA VITALI, relativa a crédito tributário inscrito na CDA 0100696899, na data de 28/08/2000 (ID 43101452, dos autos de origem).
+
+Em exame do caderno processual, nota-se que a execução fiscal foi ajuizada em 17.11.2000 (ID 43101452) e o despacho de recebimento se deu em 22.11.2000 (ID 43101452 – pág. 3). Realizada a primeira tentativa de citação das devedoras, os mandados frustrados foram juntados aos autos em 13.03.2001 e 08.11.2001 (ID 43101452 – págs. 6 e 19), vindo a Fazenda Pública a receber a remessa dos autos em abril de 2002 (ID 43101452 – pág. 25).
+
+Em abril de 2004, o DISTRITO FEDERAL requereu a suspensão do feito por 120 dias (ID 43101452 – pág. 27). Já em fevereiro de 2005, recebeu nova remessa dos autos, em razão do decurso do prazo de suspensão (ID 43101452 – pág. 29).
+
+Em dezembro de 2005, novamente o DISTRITO FEDERAL compareceu aos autos, para postular a expedição de ofício à Delegacia da Receita Federal, para localização de endereço das executadas (ID 43101452 – pág. 30).
+
+Em maio de 2006, foi certificado que a secretaria iria diligenciar para expedir o ofício requerido (ID 43101452 – pág. 32). Em março de 2007 o ofício foi expedido (ID 43101452 – pág.34).
+
+Em julho de 2015, consta que foram expedidos ARs para os endereços fornecidos, sendo a certificação de tentativa frustrada anexada aos autos em outubro de 2015 (ID 43101452- pág. 43), data da nova remessa dos autos à Procuradoria do DISTRITO FEDERAL.
+
+Em novembro de 2015, o ente distrital manifestou-se requerendo nova expedição de AR para a executada CARLA OLIVEIRA VITALI e a citação por edital da pessoa jurídica PRECIOUS COSMETICOS LTDA - ME e BACENJUD (ID 43101452 – pág. 44).
+
+O mandado de citação foi novamente expedido e houve a citação das duas devedoras, por oficial de justiça, no dia 16.12.2016 (ID 43101452 - pág. 59, dos autos de origem), sendo o mandado juntado no dia 28.06.2017. Na sequência, em 28.06.2017, os autos foram remetidos à Procuradoria do DISTRITO FEDERAL que acusou o recebimento no dia 07.07.2017 e solicitou a penhora de bens para garantia do débito fiscal (ID 43101452 – pág. 60-61, dos autos de origem).
+
+Em 09/08/2021, foi realizada penhora via SISBAJUD que foi parcialmente frutífera e bloqueou R$ 3.745,61 de titularidade da executada CARLA OLIVEIRA VITALI (ID 100193958, dos autos de origem).
+
+Na sequência, as executadas apresentaram exceção de pré-executividade na qual pediram o reconhecimento da ocorrência de prescrição intercorrente, bem como a restituição do valor de R$ 3.746,61, bloqueados na conta de titularidade da executada CARLA OLIVEIRA VITALI (ID 101760192 – pág. 8, dos autos de origem).
+
+O DISTRITO FEDERAL pediu a realização de nova pesquisa de bens à DIGRAD, diretoria integrante de sua estrutura interna (IDs 102267648 e 102267650, dos autos de origem), contudo, não foram encontrados bens de titularidade das executadas (ID 102267656, dos autos de origem).
+
+Intimado a se manifestar acerca da exceção de pré-executividade apresentada pelas executadas, o DISTRITO FEDERAL pediu a rejeição da exceção e a realização de nova pesquisa BACENJUD (ID 105259406, dos autos de origem).
+
+Ato contínuo, foi prolatada a decisão agravada de ID 120283683, que rejeitou a exceção de pré-executividade e afastou a incidência da prescrição determinando o prosseguimento do feito.
+
+Contra a referida decisão, insurge-se a agravante. Em seu agravo, a recorrente reclama, essencialmente, quanto ao não reconhecimento da prescrição intercorrente, alegando que a Fazenda Pública teve ciência da não localização das devedoras, em 05.02.2002, quando teve início, automaticamente, o prazo de 1 ano de suspensão do processo, para fins de configuração da prescrição intercorrente, ocorrida, segundo ela, em 05.02.2008.
+
+Pois bem. A prescrição intercorrente está regulamentada na Lei n° 6.830/1980, em seu artigo 40, caput e parágrafos, que dizem:
+
+Art. 40 - O Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o prazo de prescrição.
+
+§ 1º - Suspenso o curso da execução, será aberta vista dos autos ao representante judicial da Fazenda Pública.
+
+§ 2º - Decorrido o prazo máximo de 1 (um) ano, sem que seja localizado o devedor ou encontrados bens penhoráveis, o Juiz ordenará o arquivamento dos autos.
+
+§ 3º - Encontrados que sejam, a qualquer tempo, o devedor ou os bens, serão desarquivados os autos para prosseguimento da execução.
+
+§ 4°Se da decisão que ordenar o arquivamento tiver decorrido o prazo prescricional, o juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato. (Incluído pela Lei nº 11.051, de 2004)
+
+§ 5° A manifestação prévia da Fazenda Pública prevista no § 4odeste artigo será dispensada no caso de cobranças judiciais cujo valor seja inferior ao mínimo fixado por ato do Ministro de Estado da Fazenda. (Incluído pela Lei nº 11.960, de 2009)
+
+Segundo a doutrina especializada, a prescrição intercorrente foi concebida diante da necessidade de reprimir a conduta desidiosa do credor, que não dá sequência ao processo JR., Humberto T. Prescrição e Decadência. Grupo GEN, 2020. Disponível em: https://integrada.minhabiblioteca.com.br. Acesso em: 13 mar. 2022, pág. 177.
+
+Veja-se que, no caso concreto, a prescrição ordinária (considerando-se ser crédito não tributário) já havia sido interrompida pelo pedido de suspensão pelo prazo de 120 formulado pelo exequente (ID   43101452 – pág. 27), com base no artigo 8°, § 2°, da LEF, sem se olvidar que a Lei Complementar 118/2005 uniformizou a interrupção da prescrição pelo despacho citatório tanto para créditos não-tributários – como já era feito – como para créditos tributários, neste caso por força de alteração promovida no artigo 174, inciso I, do Código Tributário Nacional.
+
+O despacho citatório foi proferido em 22.11.2000 (ID 43101452 – pág. 3).
+
+E, após efetivada a citação (ID 43101452 – pág. 59), foi determinada a pesquisa/bloqueio de valores via SISBAJUD, que retornou parcialmente cumprida, bloqueando a quantia de R$ 3.374,61, em 09.08.2021 (ID 99751290).
+
+Novo pedido de pesquisa a bens foi realizado 03.09.2021 pelo ente distrital (ID 102267648).
+
+A respeito do início do prazo de suspensão e dos desdobramentos decorrentes da disciplina prevista no artigo 40, da Lei n° 6.830/80, o Superior Tribunal de Justiça, no julgamento do Recurso Especial n° 1.340.553/RS, firmou diversas teses, dentre as quais a de que o início do prazo de suspensão é automático, sem a necessidade de prévia intimação da Fazenda Pública para que comece a fluir. Confira-se a ementa do julgado:
+
+RECURSO ESPECIAL REPETITIVO. ARTS. 1.036 E SEGUINTES DO CPC/2015 (ART. 543-C, DO CPC/1973). PROCESSUAL CIVIL. TRIBUTÁRIO. SISTEMÁTICA PARA A CONTAGEM DA PRESCRIÇÃO INTERCORRENTE (PRESCRIÇÃO APÓS A PROPOSITURA DA AÇÃO) PREVISTA NO ART. 40 E PARÁGRAFOS DA LEI DE EXECUÇÃO FISCAL (LEI N. 6.830/80). 1. O espírito do art. 40, da Lei n. 6.830/80 é o de que nenhuma execução fiscal já ajuizada poderá permanecer eternamente nos escaninhos do Poder Judiciário ou da Procuradoria Fazendária encarregada da execução das respectivas dívidas fiscais. 2. Não havendo a citação de qualquer devedor por qualquer meio válido e/ou não sendo encontrados bens sobre os quais possa recair a penhora (o que permitiria o fim da inércia processual), inicia-se automaticamente o procedimento previsto no art. 40 da Lei n. 6.830/80, e respectivo prazo, ao fim do qual restará prescrito o crédito fiscal. Esse o teor da Súmula n. 314/STJ: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente". 3. Nem o Juiz e nem a Procuradoria da Fazenda Pública são os senhores do termo inicial do prazo de 1 (um) ano de suspensão previsto no caput, do art. 40, da LEF, somente a lei o é (ordena o art. 40: "[...] o juiz suspenderá [...]"). Não cabe ao Juiz ou à Procuradoria a escolha do melhor momento para o seu início. No primeiro momento em que constatada a não localização do devedor e/ou ausência de bens pelo oficial de justiça e intimada a Fazenda Pública, inicia-se automaticamente o prazo de suspensão, na forma do art. 40, caput, da LEF. Indiferente aqui, portanto, o fato de existir petição da Fazenda Pública requerendo a suspensão do feito por 30, 60, 90 ou 120 dias a fim de realizar diligências, sem pedir a suspensão do feito pelo art. 40, da LEF. Esses pedidos não encontram amparo fora do art. 40 da LEF que limita a suspensão a 1 (um) ano. Também indiferente o fato de que o Juiz, ao intimar a Fazenda Pública, não tenha expressamente feito menção à suspensão do art. 40, da LEF. O que importa para a aplicação da lei é que a Fazenda Pública tenha tomado ciência da inexistência de bens penhoráveis no endereço fornecido e/ou da não localização do devedor. Isso é o suficiente para inaugurar o prazo, ex lege. 4. Teses julgadas para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973): 4.1.) O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução; 4.1.1.) Sem prejuízo do disposto no item 4.1., nos casos de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido antes da vigência da Lei Complementar n. 118/2005), depois da citação válida, ainda que editalícia, logo após a primeira tentativa infrutífera de localização de bens penhoráveis, o Juiz declarará suspensa a execução. 4.1.2.) Sem prejuízo do disposto no item 4.1., em se tratando de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido na vigência da Lei Complementar n. 118/2005) e de qualquer dívida ativa de natureza não tributária, logo após a primeira tentativa frustrada de citação do devedor ou de localização de bens penhoráveis, o Juiz declarará suspensa a execução. 4.2.) Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2º, 3º e 4º da Lei n. 6.830/80 - LEF, findo o qual o Juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato; 4.3.) A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera. 4.4.) A Fazenda Pública, em sua primeira oportunidade de falar nos autos (art. 245 do CPC/73, correspondente ao art. 278 do CPC/2015), ao alegar nulidade pela falta de qualquer intimação dentro do procedimento do art. 40 da LEF, deverá demonstrar o prejuízo que sofreu (exceto a falta da intimação que constitui o termo inicial - 4.1., onde o prejuízo é presumido), por exemplo, deverá demonstrar a ocorrência de qualquer causa interruptiva ou suspensiva da prescrição. 4.5.) O magistrado, ao reconhecer a prescrição intercorrente, deverá fundamentar o ato judicial por meio da delimitação dos marcos legais que foram aplicados na contagem do respectivo prazo, inclusive quanto ao período em que a execução ficou suspensa. 5. Recurso especial não provido. Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973). (REsp 1340553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018)
+
+A partir das premissas fixadas em tal julgado, resta cristalino que o prazo de 1 ano, por força de lei, tem início automático, sem que sobre o começo da fluência possa haver ingerência da Fazenda ou do Juiz. Em relação à postura do Magistrado, o despacho que registra o início do prazo de suspensão na forma do artigo 40, da LEF, apenas teria a aptidão de promover melhor organização e controle do processo, possuindo natureza declaratória.
+
+Esse entendimento apenas consolida o que antes já estava sedimentado no enunciado sumular n° 314, do Superior Tribunal de Justiça, segundo o qual em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.
+
+Frise-se que nesse prazo de 1 ano de suspensão a Fazenda Pública tem o ônus de tentar localizar bens penhoráveis, promovendo as pesquisas e diligências necessárias. Se encontrar bens, o processo volta a tramitar; se não encontrá-los, o juiz ordenará o arquivamento dos autos, iniciando-se o prazo da prescrição intercorrente.
+
+A respeito do despacho de arquivamento, o Superior Tribunal de Justiça também entendeu ser desnecessário, porquanto o prazo é ex lege, fluindo de maneira automática.
+
+Essa matéria está copiosamente tratada em julgados desta Casa, consoante se verifica pela leitura das ementas abaixo reproduzidas:
+
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. CONTAGEM. LEI Nº 6.830/80. INTERRUPÇÃO. OCORRÊNCIA. PRECEDENTE DO STJ. OBSERVÂNCIA. SÚMULA Nº 106/STJ. APLICABILIDADE. DEMORA ATRIBUÍVEL AO MECANISMO DA JUSTIÇA. DECISÃO MANTIDA. 1. Por se tratar de Execução Fiscal, a prescrição intercorrente ocorre quando o processo fica paralisado, por inércia do Exequente, por prazo superior ao da prescrição do crédito tributário, que é de 5 (cinco) anos, consoante previsão do artigo 174 do Código Tributário Nacional. 2. Diante da existência de controvérsia acerca da sistemática aplicada para a contagem da prescrição intercorrente prevista no artigo 40 e parágrafos da Lei nº 6.830/80, o c. Superior Tribunal de Justiça, no julgamento do REsp nº 1.340.553/RS, sob o procedimento dos recursos repetitivos, fixou diversas teses (Temas 566, 567, 568, 569, 570 e 571). 3. O c. STJ firmou o entendimento de que "O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução" (REsp 1.340.553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018). 4. Assentou, ainda, o c. Tribunal Superior que, "Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2º, 3º e 4º da Lei n. 6.830/80 - LEF" (REsp 1.340.553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018). 5. O comparecimento espontâneo da Executada ao feito para apresentar exceção de pré-executividade enseja o suprimento da citação, considerando-se válida, de modo que foi interrompido o curso do prazo prescricional (artigo 239, § 1º, do CPC/15 c/c artigo 202, inciso I, do CC/02). 6. O tempo decorrido entre a propositura da execução e a intimação da Fazenda Pública sobre a não localização da devedora para citação não pode ser considerado em desfavor do Distrito Federal, cabendo a aplicação da Súmula n.º 106 do c. STJ, que orienta no sentido de que, "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência". 7. Agravo de Instrumento conhecido e não provido. (Acórdão 1376468, 07243683120218070000, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 30/9/2021, publicado no DJE: 14/10/2021)
+
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. SENTENÇA MANTIDA. 1. A respeito da prescrição intercorrente, o c. Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.340.553/RS, submetido ao rito dos recursos repetitivos, delineou os contornos da interpretação a ser conferida ao art. 40 da Lei de Execução Fiscal. No aludido julgado, foram firmadas as seguintes teses que se aplicam ao caso dos autos: "4. Teses julgadas para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973): 4.1.) O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução; 4.1.1.) Sem prejuízo do disposto no item 4.1., nos casos de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido antes da vigência da Lei Complementar n. 118/2005), depois da citação válida, ainda que editalícia, logo após a primeira tentativa infrutífera de localização de bens penhoráveis, o Juiz declarará suspensa a execução. 4.1.2.) Sem prejuízo do disposto no item 4.1., em se tratando de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido na vigência da Lei Complementar n. 118/2005) e de qualquer dívida ativa de natureza não tributária, logo após a primeira tentativa frustrada de citação do devedor ou de localização de bens penhoráveis, o Juiz declarará suspensa a execução. 4.2.) Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2º, 3º e 4º da Lei n. 6.830/80 - LEF, findo o qual o Juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato; 4.3.) A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera. (...) Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973)." (REsp 1340553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018). 2. A Corte Superior especificou que somente a efetiva citação e a efetiva constrição patrimonial são aptas a interromper o curso da prescrição intercorrente, não bastando para tal a mera juntada de petição em juízo requerendo a realização de penhora. Ainda que tenha havido requerimento da parte exequente anteriormente ao fim do prazo prescricional, nota-se que somente seria considerada interrompida a prescrição retroativamente à data do protocolo caso a providência restasse frutífera, o que não consubstancia a hipótese dos autos. 3. Apelo não provido.(Acórdão 1387113, 00104402319998070001, Relator: ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 17/11/2021, publicado no DJE: 3/12/2021 – g.n.)
+
+No caso vertente, observa-se que a Fazenda Pública recebeu a remessa dos autos para ciência dos mandados de citação frustrados em abril de 2002. Em 2004, requereu a suspensão da ação por 120 dias e, em fevereiro de 2005, compareceu aos autos para requerer a expedição de ofício a Delegacia da Receita Federal com vistas a buscar o endereço das devedoras.
+
+Nesse cenário, entendo que a suspensão de 1 ano teve início na data de abril de 2002, findando em abril de 2003, quando iniciou o curso do prazo quinquenal, cujo término ocorreu em abril de 2008.
+
+Registre-se que no momento da citação das executadas, o prazo quinquenal já não estava mais em curso, estando o direito perseguido pela Fazenda fulminado pela prescrição.
+
+De tal maneira, a partir de tais informações, conclui-se que a decisão agravada está a merecer reparos.
+
+De tal maneira, deve ser reformada a decisão agravada, para reconhecer a prescrição intercorrente quanto ao crédito materializado na CDA 0000365009.
+
+Quanto ao pedido de restituição de valores bloqueados em conta de titularidade da agravante, verifica-se que a penhora ocorreu em 09.08.2021, quando o direito do DISTRITO FEDERAL de cobrar o débito já havia sido alcançado pela prescrição.
+
+Desse modo, a quantia de R$ 3.745,61 deve ser restituída à executada, ora agravante, CARLA OLIVEIRA VITALI.
+
+Com o esgotamento da matéria, o agravo interno fica prejudicado.
+
+Ante o exposto, conheço do recurso de apelação interposto e a ele DOU PROVIMENTO, para reformar a decisão agravada a fim de reconhecer a ocorrência da prescrição intercorrente quanto ao crédito materializado na CDA 0000365009. Agravo interno prejudicado.
+
+É como voto.
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - 1º Vogal Com o relatorA Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
