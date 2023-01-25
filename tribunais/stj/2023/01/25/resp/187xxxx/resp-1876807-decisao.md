@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  MARIA APARECIDA DA SILVA SANTOS,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de São Paulo  assim  ementado:
+"Contrato bancário - Aplicação das Medidas Provisórias nº 1.963/2000 e 2.170-36/2001 - Inconstitucionalidade das normas em comento não reconhecida - Capitalização de juros - Possibilidade - Recurso repetitivo - Artigo 543-C do CPC - Juros - Limite de incidência - Inexistência - Inaplicabilidade dos artigos 591 c/c 406 do CC.
+Tarifas - Contrato de Empréstimo - Adoção de teses fixadas no julgamento do REsp nº 1.251.331-RS (Rel. Min. Maria Isabel Gallotti, j. 28/08/2013, STJ), na forma do art. 543-C do CPC - Tarifas e Despesas (Tarifa de Cadastro, Tarifa de Avaliação de Bens, Tarifa de Registro de Contrato, de Gravame e Seguro de Proteção Financeira) que foram expressamente contratadas, não se podendo cogitar a irregularidade na sua cobrança.
+Serviços de Terceiros - Ilegalidade - Ausência de contraprestação e informação clara - Ofensa aos artigos 6º, III, 31 e 51, IV e XII do CDC -Cobrança vedada pela Resolução CMN 3.954/2011 - Pretensão acolhida.
+Saldo devedor - Apuração em sede de liquidação de sentença, de forma simples - Condenação exclusiva da autora mantida.
+Recurso provido em parte" (e-STJ fl. 144).
+Nas  razões  do  recurso  especial  (e-STJ  fls.  152-162),  a  recorrente  aponta  violação  dos  arts. 39, I, 46 e 51, I e IV, do Código de Defesa do Consumidor, alegando, em síntese, que: a) é ilegal a cobrança daTarifade Seguro, da Tarifa de Avaliação de Bem, da Tarifa de Gravame e da Tarifa de Registro de Contrato; b) é abusiva a cobrança de juros superiores à taxa contratada e c) a cobrança de juros capitalizados depende de prévia pactuação.
+Em juízo de retratação realizado com fundamento no art. 1.040, II, do Código de Processo Civil de 2015, o órgão julgador manteve o entendimento então adotado nos termos da seguinte ementa:
+"Apelação - Reapreciação da matéria julgada na forma do artigo 1.040, II, do CPC - RITJSP artigos 108, inciso IV c 109 "caput". Revisional - Contrato bancário - Seguro de proteção financeira e gravame - Adoção de teses fixadas no julgamento do REsp 1.639.320/SP e REsp 1.639.259/SP, Tema 972, na forma do artigo 1.036 do CPC - Sentença e Acórdão julgados anteriormente à prolação do v. Acórdão proferido em sede do recurso representativo da controvérsia - Posicionamento emanado por esse Câmara pelo v. Acórdão de fls. 143/150 mantido. Recurso provido em parte"  (e-STJ  fl.  198- grifou-se).
+Apresentadas as  contrarrazões  (e-STJ  fls.  165-169),  e  admitido  o  recurso  na  origem,  subiram  os  autos  a  esta  Corte  Superior.
+É  o  relatório.
+DECIDO.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+Assiste parcial razão àrecorrente.
+No tocante à Taxa de Avaliação de Bem e às despesas com o registro do contrato,ambos os assuntos já foramenfrentados pela Segunda Seção desta Corte na apreciação do Tema nº 958/STJ, nos termos da seguinte ementa:
+"RECURSO ESPECIAL REPETITIVO. TEMA 958/STJ. DIREITO BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS, REGISTRO DO CONTRATO E AVALIAÇÃO DO BEM. PREVALÊNCIA DAS NORMAS DO DIREITO DO CONSUMIDOR SOBRE A REGULAÇÃO BANCÁRIA. EXISTÊNCIA DE NORMA REGULAMENTAR VEDANDO A COBRANÇA A TÍTULO DE COMISSÃO DO CORRESPONDENTE BANCÁRIO. DISTINÇÃO ENTRE O CORRESPONDENTE E O TERCEIRO. DESCABIMENTO DA COBRANÇA POR SERVIÇOS NÃO EFETIVAMENTE PRESTADOS. POSSIBILIDADE DE CONTROLE DA ABUSIVIDADE DE TARIFAS E DESPESAS EM CADA CASO CONCRETO.
+1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo.
+2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015:
+2.1. Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado;
+2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva;
+2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto.
+3. CASO CONCRETO.
+3.1. Aplicação da tese 2.2, declarando-se abusiva, por onerosidade excessiva, a cláusula relativa aos serviços de terceiros ("serviços prestados pela revenda").
+3.2. Aplicação da tese 2.3, mantendo-se hígidas a despesa de registro do contrato e a tarifa de avaliação do bem dado em garantia.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO" (REsp 1.578.553/SP, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/11/2018, DJe de 6/12/2018 - grifou-se).
+Relativamente à tarifa de inclusão degravameeletrônico e à prestação exigida a título de seguro (Tema nº 972/STJ), também sob o rito dos recursos repetitivos, firmou nesta Corte os seguintesentendimentos: a) é abusiva a cláusula que prevê o ressarcimento pelo consumidor da despesa com o registro do pré-gravame, em contratos celebrados a partir de 25/2/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula pactuada no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva, eb)nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.
+Confira-se a ementa do julgado:
+"RECURSO ESPECIAL REPETITIVO. TEMA 972/STJ. DIREITO BANCÁRIO. DESPESA DE PRÉ-GRAVAME. VALIDADE NOS CONTRATOS CELEBRADOS ATÉ 25/02/2011. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. RESTRIÇÃO À ESCOLHA DA SEGURADORA. ANALOGIA COM O ENTENDIMENTO DA SÚMULA 473/STJ. DESCARACTERIZAÇÃO DA MORA. NÃO OCORRÊNCIA. ENCARGOS ACESSÓRIOS.
+1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo.
+2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015:
+2.1 - Abusividade da cláusula que prevê o ressarcimento pelo consumidor da despesa com o registro do pré-gravame, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula pactuada no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva.
+2.2 - Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.
+2.3 - A abusividade de encargos acessórios do contrato não descaracteriza a mora.
+3. CASO CONCRETO.
+3.1. Aplicação da tese 2.3 ao caso concreto, mantendo-se a procedência da ação de reintegração de posse do bem arrendado.
+4. RECURSO ESPECIAL DESPROVIDO." (REsp 1.639.320/SP, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 12/12/2018, DJe de 17/12/2018) - grifou-se).
+No caso em apreço, em juízo de retratação realizado com fundamento no art. 1.040, II, do Código de Processo Civil de 2015, o órgão colegiado assim fez consignar:
+"(..) o STJ fixou teses no sentido da abusividade da cobrança de tarifa de inserção e gravame e contratação de seguro com a instituição financeira ou com seguradora por ela indicada.
+Não obstante, no caso em apreço, verifica-se que ao julgar a apelação interposta pelo réu, esta 18ªCâmara deu parcial provimento ao recurso, para afastar a cobrança das tarifas de serviços de terceiros.
+Ocorre que a r. sentença de fls. 105/110 foi prolatada no mês de junho de 2015, e o v. Acórdão de fls. 143/150 no mês de setembro de 2015, ou seja, antes da data da afetação dos mencionados recursos ao rito previsto no artigo 1.036 do Código de Processo Civil (REsp 1.639.320/SP, em 04/05/2017, e REsp 1.639.259/SP, em 15/05/2017), bem como ao respectivos julgamentos, ocorridos em 12/12/2018.
+Desse modo, as referidas decisões não divergiram da orientação do Superior Tribunal de Justiça, que sequer havia firmado qualquer tese acerca do tema, à época do julgamento da apelação, razão pela qual a Câmara mantém o seu posicionamento, e por conseguinte, o v. Acórdão de fls. 143/150" (e-STJ fls. 199-200- grifou-se).
+No entanto, ressalvadas as hipóteses de preclusão ou de coisa julgada, o momento em que foi proferido o acórdão recorrido, se antes ou depois da consolidação de determinada tese jurídica no julgamento de recurso especial repetitivo, não tem nenhuma influência para fins de aplicação do disposto no art. 1.040 do Código de Processo Civil de 2015.
+Ante o exposto, determino o retorno dos autos ao Tribunal de origem para novo juízo de conformação, à luz das teses fixadas por esta Corte Superior.
+Publique-se.
+Intimem-se.
