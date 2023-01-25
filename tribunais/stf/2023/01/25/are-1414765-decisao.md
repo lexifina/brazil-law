@@ -1,0 +1,69 @@
+Decisão
+
+    Trata-se de AGRAVO EM RECURSO EXTRAORDINÁRIO interposto contra acórdão proferido pela Turma Recursal Criminal do Estado do Rio Grande do Sul, em julgamento assim ementado (doc. 9, fl. 6):
+
+    “APELAÇÃO. ARTIGO 268 DO CÓDIGO PENAL. INFRAÇÃO DE MEDIDA SANITÁRIA PREVENTIVA. NORMA PENAL EM BRANCO. AUSÊNCIA DE REGULAMENTAÇÃO OU COMPLEMENTAÇÃO. ATIPICIDADE. DECISÃO DE ARQUIVAMENTO MANTIDA. Descumprimento de medidas sanitárias e distanciamento social durante a pandemia de COVID-19. Assente perante esta Turma Recursal Criminal o entendimento acerca da inexistência de norma reguladora ao art. 268 do CP, considerado norma penal em branco. Precedente: INFRAÇÃO DE MEDIDA SANITÁRIA PREVENTIVA. ART. 268 DO CP. NORMA PENAL EM BRANCO. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO PENAL (ART. 22, I, CF). COMPLEMENTAÇÃO PELOS DEMAIS ENTES FEDERATIVOS COM REFLEXOS NA LEGISLAÇÃO PENAL. IMPOSSIBILIDADE. O art. 268 do CP é norma penal em branco, que necessita de complementação para sua exata delimitação e produção de efeitos jurídicos. Na esfera criminal essa complementação é de competência exclusiva da União, não competindo a Estados e Municípios complementar ato normativo próprio do poder federal que implique em reflexos na legislação penal. Ademais, o Decreto Estadual nº 20.534/2020 RS, no qual se embasa o órgão acusador para oferecer a denúncia, já contém as penalidades administrativas passíveis de imposição no caso em exame, quais sejam, multa, interdição da atividade e cassação do alvará de funcionamento, mais adequadas, proporcionais e ágeis, inclusive, que a rigidez de uma resposta penal que deve ser sempre tida como ultima ratio. RECURSO DESPROVIDO. (Apelação Criminal, Nº 71010280196, Turma Recursal Criminal, Turmas Recursais, Relator: Luis Gustavo Zanella Piccinin, Julgado em: 21-02-2022) RECURSO DESPROVIDO.”
+
+    No apelo extremo, interposto com amparo no art. 102, III, alínea a da CONSTITUIÇÃO FEDERAL, a parte recorrente, o Ministério Público do Estado do Rio Grande do Sul, sustenta a repercussão geral da matéria e que o acórdão recorrido violou o art. 22, I, da CARTA MAGNA, ao aduzir que: a) Os “atos emanados do Poder Executivo não instituem novas condutas criminosas, limitando-se a complementar e dar sentido ao elemento normativo do tipo penal inscrito no artigo 268 do Código Penal.”; e b) A “atribuição de competência privativa à União para legislar sobre direito penal (artigo 22, inciso I, da Constituição Federal) não impede que leis penais em branco venham integradas por atos normativos oriundos de entes federativos diversos, ainda que em seu corpo contenham a imposição de outras medidas”.
+
+    Assim, requer “a admissão do presente recurso extraordinário e, ao final, seu integral provimento nessa Suprema Instância, com a reforma do respeitável decisum proferido pelo estadual, afastando-se a alegação de atipicidade da conduta relativa ao artigo 268 do Código penal e determinando-se o regular prosseguimento do feito na origem.” (doc. 12).
+
+    Em suas contrarrazões, a parte recorrida sustenta: a) Não se admite, “partindo-se do art. 24, XII e do art. 30 da Constituição Federal, que prefeitos estejam legitimados a criar regras próprias para completar o tipo penal em voga, pois a própria norma geral editada pelo Governo Federal (Lei nº. 13.979/20) deixa evidente que regulamentação desta lei pelos demais entes federados restringir-se-á às medidas de cunho administrativo, com destaque para a definição de penalidades pecuniárias e restrições administrativas”; b) “Apesar da decisão liminar do Supremo Tribunal Federal na ADIN nº. 6.343/DF, que permite aos Estados, Distrito Federal e Municípios a tomada de medidas administrativas e normativas sobre medidas sanitárias preventivas e regras de isolamento social, não é possível admitir que estas normas locais, sui generis, possam servir como elementos de composição do art. 268 do Código Penal, pois lhes faltaria a finalidade imposta pelo legislador penal quando edificou o tipo penal ilustrado”; c) Importa “ponderar a ocorrência do dolo também para o tipo penal previsto, o que obviamente se exclui de plano. A ação do recorrido, na posição de gestor de fábrica de argamassas, o qual deixou de possui termômetro para medir a temperatura e registrar através de relatório os sintomas conforme os protocolos de segurança, jamais poderia ser considerada como conduta criminosa. Basta uma análise superficial para aferir que a intenção/vontade do recorrido não é disseminar doença à população. Até porque o local não atende ao público e tem número ínfimo de pessoas que circulam pela fábrica, são apenas alguns poucos funcionários (10) e dois caminhões que realizam o transporte das mercadorias”; e d) “Por fim e não menos importante, tão logo o recorrido recebeu a notificação da prefeitura sobre a exigência municipal e de pronto já providenciou a adequação a norma sanitária conforme documento em anexo.”
+
+    à vista do exposto, requer a “manutenção da decisão que determinou a extinção do feito por atipicidade da conduta do agente, com consequente arquivamento deste.”(doc. 17).
+
+    O Tribunal a quo inadmitiu o recurso extremo com base no enunciado da Súmula 283 do STF (doc. 38).
+
+    No Agravo, a parte recorrente refuta o supracitado óbice (doc. 40).
+
+    É o relatório.
+
+    DECIDO.
+
+    Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+
+    Ainda que superado esse grave óbice, tem-se que, na presente hipótese, que o Juízo de origem decidiu a causa com base nos seguintes argumentos (doc. 9, fls. 2-5):
+
+    “Com efeito, a situação é correlata àquela em precedente deste Colegiado, no qual entendemos por considerar atípica a conduta imputada, por se tratar de norma penal em branco, não regulamentada.
+
+    […]
+
+    Com efeito, em estrita observância à regra constitucional do art. 22, I, da Constituição da República, segundo a qual compete exclusivamente à União legislar sobre matéria penal, não podem os demais entes federativos – Estados e municípios – usurpar dessa competência para estabelecer restrições ao cidadão com reflexos na legislação penal.
+
+    […].
+
+    Perfeitamente delineado, portanto, que, embora aos Estados e municípios tenha sido assegurado pelo e. STF, no julgamento da ADPF n. 672/DF-MC, o exercício da competência concorrente, cada qual no exercício de suas atribuições, para a adoção de medidas restritivas durante a pandemia sanitária, estas evidentemente não se estendem à esfera criminal. O próprio voto condutor do acórdão chega a mencionar exemplificativamente algumas dessas medidas: imposição de distanciamento/ isolamento social, quarentena, suspensão de atividades de ensino, restrições de comércio, atividades culturais e à circulação de pessoas, entre outras. Em nenhum momento, no entanto, o reconhecimento dessa competência estende-se à matéria penal.
+
+    O próprio Decreto Municipal nº 20.534/2020, da Prefeitura de Porto Alegre, utilizado na denúncia como fundamento legal para a tipificação da conduta, contém em seu art. 24 o rol das penalidades aplicáveis aos casos de descumprimento das medidas restritivas adotadas – multa, interdição total da atividade e cassação de alvará de localização e funcionamento – todas de cunho administrativo e, indiscutivelmente, mais adequadas, proporcionais e ágeis, inclusive, que a rigidez de uma resposta penal, que deve ser sempre tida como ultima ratio.
+
+    E não fosse suficiente por todo o fundamento, há mais!
+
+    A tipificação dada, e mesmo a consequência penal da conduta há de ser de efeito concreto, de modo que a conduta represente potencialidade alguma, em verdadeiro perigo concreto, de propagar doença contagiosa. Destarte, a saúde pública é o bem juridicamente tutelado, como correlata ao prestígio da determinação da Administração em fazer cessar ou conter a propagação de doença contagiosa.
+
+    Pois bem! A conduta assim tomada não pode jamais permitir a seletividade penal, de modo que uma determinada conduta humana e/ou social exatamente com o mesmo “risco” seja aceita e outra seja considerada crime. É precisamente o que se faz quando se classificam atividades ditas “essenciais” e outra em que se pretenda criminalizar draconianamente, como quer o Ministério Público, atividade lícita. Para o efeito de transmissibilidade e disseminação da COVID-19, não há diferença alguma entre uma aglomeração de mais de 60 pessoas em transporte público, ou mesmo em supermercados ou farmácias ou postos de saúde da aglomeração denunciada pela acusação como com potencial de propagação da doença. Aí que precisamente a acusação falece de consistência ao deixar de discriminar e descrever exatamente como – e nem se imagina conseguisse fazê-lo – uma determinada atividade com aglomeração PROPAGA a doença e como outra atividade, bastante a diferenciação por sua natureza, mas com base em MESMOS FATOS não propague a doença. Também por isso a pretensão à criminalização da conduta definida administrativamente como infração sanitária não se sustenta, porque afronta a igualdade material da norma penal ao considerar um mesmo fato criminoso e outro não.”
+
+    Como bem pontuado na decisão agravada, as argumentações recursais não são suficientes para combater, de forma específica, todos os fundamentos do acórdão recorrido, aptos por si sós a manter o julgado. Incidem, na hipótese, os óbices previstos nas Súmulas 283 (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles); e 284 (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia), ambas do STF.
+
+    Em igual sentido, citem-se os seguintes julgados monocráticos, em que se examinaram questões processuais idênticas: ARE 1.412.480/RS; DJe de 30/11/2022; ARE 1.414.053/RS, DJe de 13/12/2022; e ARE 1.413.853/RS, DJe de 6/12/2022, todos de relatoria da i. Min. Presidente ROSA WEBER.
+
+    Se não bastasse, a reversão do acórdão depende da análise da legislação local (Decreto Municipal 20.534/2020), o que é incabível em Recurso Extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DECRETO MUNICIPAL QUE PROÍBE A VENDA DE BEBIDAS ALCOÓLICAS EM LOJAS DE CONVENIÊNCIA DE POSTOS DE COMBUSTÍVEL. SÚMULA 280 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS INFRACONSTITUCIONAIS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. 1. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Incidência da Súmula 283 do STF. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame das normas locais de regência. Incidência da Súmula 280 do STF. 3. Agravo regimental a que se nega provimento.” (RE 629.490-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 9/12/2016).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRESCRIÇÃO. AÇÃO DISCIPLINAR. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I – A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional, federal e local, aplicável ao caso. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Precedentes. II - Agravo regimental improvido.” (ARE 659.447-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 19/12/2011).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2023.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
