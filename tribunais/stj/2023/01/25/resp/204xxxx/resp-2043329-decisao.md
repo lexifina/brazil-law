@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LIMAT EMPREENDIMENTOS IMOBILIARIOS LTDA, fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Ação: declaratória c/c repetição de indébitoe indenização por danos materiais e morais, ajuizada por JOYCE LOUISE DE MORAIS, em face de LIMAT EMPREENDIMENTOS IMOBILIÁRIOS LTDA e TRISUL S/A, em razão de atraso na entrega de bem imóvel, objeto de contrato de compra e venda.
+Sentença: julgou parcialmente procedentes os pedidos formulados na exordial.
+Acórdão: deu parcial provimento à apelação interposta pelarecorrida.
+Recurso especial: interposto por JOYCE LOUISE DE MORAIS, foi provido por este STJ para:a) anular o acórdão que julgou os embargos de declaração interpostos pela recorrente; e b) determinar a remessa dos autos ao TJ/SP, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito do pedido da recorrente sobre a aplicação da penalidade pelo atraso na entrega do imóvel, consoante os termos da petição inicial. (e-STJ fls. 627-630)
+Acórdão: em virtude da omissão verificada por esta Corte Superior, o Tribunal de origem reformou seu entendimento paracondenara ora recorrente ao pagamento de multa pelo atraso na entrega do imóvel arbitrada em 10% (dez por cento) do valor atualizado do contrato, corrigido desde o ajuizamento da ação e com a incidência de juros de mora de 1% (um por cento) ao mês a contar da citação, nos termos assim ementados:
+EMBARGOS DE DECLARAÇÃO - Alegação de omissão e contradição Omissão reconhecida - Embargos parcialmente acolhidos, com efeito modificativo. (e-STJ fls. 662)
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial:além de dissídio jurisprudencial, sustenta violação aos arts. 141,492 e 1.013 do CPC.
+-Do cabimento de indenização por danos morais
+Aduz o recorrente que o acórdão recorrido incorreu em julgamento extra petita e foi omisso ao não apresentar as razões pelas quais concluiu que a recorrida faz jus à indenização por danos materiais decorrentes do atraso na entrega do imóvel.
+Contudo, diferentemente do que aduz o recorrente, quanto ao ponto suscitado,o Tribunal de origem assim decidiu:
+"Com relação à pretensão de afastamento da condenação da ré ao pagamento de lucros cessantes, consignados através de aluguéis, no importe de 1 (um por cento) ao mês, no período de atraso, assiste razão à ré. Verifica-se que tal pedido não foi deduzido pela autora na inicial, o que configura verdadeiro julgamento extra petita nesse sentido, devendo serafastada tal condenação. Contudo, cumpre esclarecer que o Instrumento Particular de Compra de Venda celebrado entre as partes prevê em sua cláusula 5.3 penalidade decorrente da inadimplência somente em relação ao comprador do imóvel (cfr. fls. 91). E o Colento Superior Tribunal de Justiça no julgamento proferido no recurso repetitivo Resp 1.614.7211DF e 1.631.4851DF, datado de 22.05.2019, ainda não transitado em julgado firmou a seguinte tese: "No contrato de adesão firmado entre o comprador e a construtora incorporado, havendo previsão de cláusula penal apenas para o Inadimplemento do adquirente, deverá ela ser considerada para afixação da Indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judiciai. (REsp 16147211DF e REsp 16314851DF, Rel. Min. Luis Felipe Salomão, data do julgamento: 22.05.2019)." (e-STJ fls. 668)
+Desse modo, não há que se falar em julgamento extra petita,haja vista que o entendimento do Tribunal de origem encontra-se emconsonância com o Tema 971/STJ,inexistindo motivo paraalteração dojulgado. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Outrossim, não se vislumbra a ocorrência de reformatio in pejus na espécie, uma vez que a alteração de entendimento no acórdão recorrido decorre de recurso especial anteriormente interposto pela recorrida e que foi provido por este Tribunal da Cidadania.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bemcomo na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foramarbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, sedeclarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretara condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIAC/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NÃO DEMONSTRADO.
+1. Cuida-se de açãodeclaratória c/c repetição de indébitoe indenização por danos materiais e morais.
+2. Nos termos do Tema 971/STJ, no contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor.
+3. Recurso conhecido e não provido.
