@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUAN DOS SANTOSTEIXEIRAcom fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo,assim ementado:
+Apelação. Crime de tráfico de drogas. Sentença condenatória. Recurso defensivo. 1. Quadro probatório suficiente para evidenciar a responsabilidade penal do réu. Materialidade e autoria comprovadas. 2. As circunstâncias do caso desnudam um cenário incompatível com a incidência da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06. 3. Sanção que não comporta alteração. Apelo desprovido. (e-STJ fl. 253)
+O recorrente aponta a violação dos arts. 65, III, "d", do CP e 33, § 4º, da Lei 11.343/2006alegando, em síntese, que: a)deve ser aplicada a fração de 1/3 pelo reconhecimento da confissão; b) estão preenchidos os requisitos para o reconhecimento do tráfico privilegiadoe; c)constitui bis in idem a utilização da quantidade da droga para aumentar a pena-base e para obstar o redutor do §4º do art. 33 da Lei de Drogas.
+As contrarrazões foram apresentadas às e-STJ fls. 289/293.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 304/310.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Extrai-se dos autos que o recorrente foi condenado à pena de 5 anos de reclusão, em regime fechado,pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+Anota-se, inicialmente, que as questões referentesà fração utilizada pelo reconhecimentoda confissão e àexistência de bis in idem nautilização da quantidade da droga para aumentar a pena-base e para obstar o redutor do § 4º do art. 33 da Lei de Drogas não foram objeto de debate pelo acórdão recorrido, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento. Na hipótese, não foram sequer opostos embargos de declaração na origem. Incidência das Súmulas 282 e 356 do STF.
+Quanto ao mais, registra-se que o§ 4º do art. 33 da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas e não integre organização criminosa.
+No caso concreto,o TJSP, analisando osaspectos fáticos da causa, deixou de aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, por entender que as circunstâncias do delito evidenciaram que o agravante se dedica a atividade criminosa, o que representa motivação idônea para impedir a incidência do benefício.
+Para afastara conclusão do Tribunalde origemno sentido de que o réu se dedicava a atividades criminosas, seria necessário o revolvimento de matéria fático-probatória, providência inadmissívelna via do recurso especial. Incidênciada Súmula n.7/STJ. A propósito:AgRg no HC n. 615.972/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 17/2/2021 e AgRg no REsp n. 1.888.831/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/12/2020.
+Ante o exposto, com fundamento no art. 932, inciso IV, alínea "a", do CPC c/c o art. 255, § 4º, inciso II, do RISTJ, nego seguimento ao recurso especial.
+Intimem-se.
