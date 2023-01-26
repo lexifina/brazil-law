@@ -1,0 +1,47 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS DEVIDOS A DEFENSOR DATIVO. SUMULA 49 TJCE. VERBA DEVIDA PELO ESTADO SOB PENA DE LOCUPLETAMENTO ILÍCITO. QUANTUM MANTIDO. RECURSO CONHECIDO E DESPROVIDO.
+
+    1. Trata-se de Agravo de Instrumento interposto pelo Estado do Ceará, com escopo de ver reformada a decisão proferida pelo MM. Juiz da 2ª Vara da Comarca de Santa Quitéria, Dr. Francisco Gilmário Barros Lima, que rejeitou as arguições apresentadas pelo Estado do Ceará, em sede de impugnação à execução, onde alegava distorção do valor arbitrado a título de honorários advocatícios em relação ao patamar fixado na tabela da OAB/CE.
+
+    2. Nos termos do art. 5º, LXXIV, da Constituição Federal, o Estado prestará assistência jurídica integral e gratuita aos que demonstrarem insuficiência de recursos. No mesmo sentido, garante a Carta Magna efetividade ao direito de defesa, quando em seu art. 134, determina a criação da Defensoria Pública como instituição essencial à Justiça.
+
+    3. O exercício do múnus de defensor dativo para defesa do réu atende, igualmente, a norma fincada no art. 263, do Código de Processo Penal, que determina sua indicação pelo juiz quando o acusado não o tiver.
+
+    4. Prestado serviço à justiça na condição de defensor dativo, compete ao causídico nomeado perceber honorários pelo seu mister, nos termos do art. 22 da Lei 8.906/94 (Estatuto da OAB), sob pena de locupletamento ilícito.
+
+    5. Os honorários advocatícios foram fixados em sentença transitada em julgado, considerando sua atuação profissional no feito criminal, motivo pelo qual permanece sem alteração, sob pena de desqualificar o trabalho desenvolvido pelo profissional e ofender a coisa julgada.
+
+    6. Recurso conhecido e desprovido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV, XXXVI, LIV e LV, 129, inciso IX, e 132 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 26 de janeiro de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
