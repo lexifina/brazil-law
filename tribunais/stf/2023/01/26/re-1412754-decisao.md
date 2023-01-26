@@ -1,0 +1,89 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO DE TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA – TIDE. PAGAMENTO EM PERCENTUAIS DIFERENCIADOS ENTRE OS SERVIDORES. IMPOSSIBILIDADE DE ANÁLISE DE PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. CORREÇÃO MONETÁRIA: ACÓRDÃO RECORRIDO EM HARMONIA COM O TEMA 810 DA REPERCUSSÃO GERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto pelo Paraná, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte julgado do Tribunal de Justiça do Paraná:
+
+    “APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. TIDE. SERVIDORA DO QUADRO DO TRIBUNAL DE JUSTIÇA. AGENTE DE CONSERVAÇÃO. GRATIFICAÇÃO PAGA EM PERCENTUAIS DIFERENTES ENTRE SERVIDORES. TRATAMENTO DIFERENCIADO SEM JUSTIFICATIVA. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA IMPESSOALIDADE. RELAÇÃO 92/2010. PAGAMENTO RETROATIVO. POSSIBILIDADE. PRESCRIÇÃO QUINQUENAL. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO PROVIDO” (fl. 1, e-doc. 14).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 18).
+
+    2. O Paraná alega ter o Tribunal de origem contrariado o art. 2º, o caput do art. 5º e o inc. X do art. 37 da Constituição da República, por “interpretação diversa daquela sedimentada na Súmula 339 desta Egrégia Corte” (fl. 5, e-doc. 22).
+
+    Sustenta que “o recorrido ajuizou ação de cobrança em face do Estado do Paraná requerendo o pagamento retroativo da Gratificação de Tempo Integral e Dedicação Exclusiva (TIDE)” (fl. 5, e-doc. 22).
+
+    Argumenta que “a concessão da TIDE de forma individualizada poderia ser procedida mediante proposta do dirigente da unidade administrativa, presente o interesse da Administração. Os percentuais da gratificação, ao seu turno, poderiam ser fixados em níveis distintos segundo a essencialidade, complexidade e responsabilidade das funções desempenhadas pelo servidor. Estas disposições estão expressamente referidas na legislação de regência, que cuida da remuneração dos servidores públicos paranaenses, conforme preceitua o artigo 37, X, da Constituição Federal” (fl. 10, e-doc. 22).
+
+    Ressalta que “não há qualquer ilegalidade ou ilegitimidade a ser declarada pelo Poder Judiciário no caso concreto, pois a atuação administrativa encontra-se devidamente amparada por lei, conforme prescreve a CF. A arbitrariedade, segundo decidiu o acórdão recorrido, residiria na não concessão ou na concessão em percentuais diferenciados da TIDE para servidores que desempenhavam as mesmas funções. Ocorre que estas prerrogativas foram legalmente conferidas ao Administrador, e não ao Poder Judiciário, ainda que este atue sob o fundamento da isonomia” (fl. 10, e-doc. 22).
+
+    Assevera que se “desrespeitou a vinculação à modulação, desvirtuando por completo o efeito vinculante do artigo 102, § 2º, da Constituição Federal e, consequentemente, o alcance das ADIs 4.357 e 4.425, pois se considerou alcançado pelo efeito vinculante do precedente, para, acolhendo seu conteúdo, decretar a inconstitucionalidade da TR, mas não se considerou alcançado pelos efeitos da modulação (eficácia temporal) do julgamento das ADIs 4.357 e 4.425” (fl. 18, e-doc. 22).
+
+    Pede “a admissão, conhecimento e provimento deste Recurso Extraordinário para reformar o acórdão local e assim julgar improcedentes os pedidos inaugurais, com inversão do ônus sucumbencial ou, subsidiariamente, até 25.03.2015, do índice de correção monetária constante do artigo 1º-F, da Lei 9494/97, na redação dada pelo artigo 5º, da Lei 11.960/09” (fl. 19, e-doc. 22).
+
+    3. Foram apresentadas contrarrazões ao recurso em 30.10.2015 (e-doc. 24).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. Razão jurídica não assiste ao recorrente.
+
+    5. No acórdão recorrido, o Tribunal de origem assentou:
+
+    “A controvérsia recursal gira em torno do direito da autora ao recebimento retroativo da Gratificação por Tempo Integral e Dedicação Exclusiva (TIDE) à razão de 100%, no período anterior a agosto/2010.
+
+    (...) A Lei Estadual nº 6174/70 definiu o trabalho dos servidores em Tempo Integral e Dedicação exclusiva (TIDE) (...)
+
+    Pela leitura da legislação, verifica-se que a Administração Pública definiu o regime de trabalho e, ao mesmo tempo, deixou a critério do Administrador, por ato discricionário, a imposição de tal regime e, em contrapartida, o pagamento de gratificação.
+
+    (...) A Lei Estadual nº 16.024/2008 manteve a redação da legislação anterior, mantendo a TIDE e a respectiva gratificação.
+
+    O problema encontrado quanto à aplicação da legislação pela Administração Pública é no fato de que, apesar da discricionariedade permitida, não houve critérios na escolha dos servidores que receberiam a referida gratificação, nem ao menos com relação a qual percentual fariam jus.
+
+    Desta feita, ocorreu que servidores com mesmo cargo, função, mesma carreira e regime de trabalho em dedicação exclusiva, muitas vezes integrantes de um mesmo setor, passaram a ser tratados de maneira desigual, recebendo ou não a gratificação, sem qualquer justificativa.
+
+    (...) Assim, o ato discricionário passou a ser arbitrário, ferindo os princípios da isonomia e da impessoalidade. Então, ao realizar uma inspeção no Tribunal de Justiça do Paraná no ano de 2009, o Conselho Nacional de Justiça constatou a divergência que ocorria entre os cargos e salários dos servidores, justamente em consequência da concessão ou não da gratificação TIDE.
+
+    Na sequência, o Presidente do Tribunal, visando regularizar a situação, emitiu a Relação 92/2010, reconhecendo o direito de todos os servidores do quadro do Tribunal ao recebimento da TIDE (...).
+
+    Por tal ato, o direito dos servidores ao recebimento da TIDE em grau máximo passou a ser inequívoco, fazendo a correção das desigualdades existentes até então no quadro de servidores deste Tribunal.
+
+    (...) Portanto, é devido o pagamento dos valores devidos a título de gratificação TIDE aos servidores do quadro em período anterior à Relação 92/2010, respeitada a prescrição quinquenal.
+
+    (...) A correção monetária, deste modo, deverá ser realizada desde o vencimento de cada parcela, pelo índice do INPC até a vigência da Lei 11960/2009 (30/06/2009), e, posteriormente, pelo IPCA. Por sua vez, os juros de mora serão devidos a partir da citação, à razão de 0,5% ao mês e, com a entrada em vigor da Lei 11960/2009, com base no índice oficial de remuneração básica e juros aplicados à caderneta de poupança, respeitado, se cabível, o denominado período de graça” (fls. 2, 6, 7, 8, 10 e 13, e-doc. 14).
+
+    Rever o entendimento adotado pelas instâncias ordinárias demandaria análise da legislação infraconstitucional local aplicável à espécie (Leis estaduais ns. 6.174/1970 e 16.024/2008) e reexame do conjunto fático-probatório constante do processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 deste Supremo Tribunal. Assim, por exemplo:
+
+    “Agravo regimental em recurso extraordinário. Administrativo. Servidores públicos. Gratificação. TIDE. Leis estaduais nº 6.174/70 e nº 16.024/08. Alegação de afronta ao art. 37, caput, da CF. Princípio da isonomia. Pretensão de incidência da Súmula nº 339 do STF. Improcedência. Reexame de fatos e provas e de legislação local. Súmulas nº 279 e nº 280 do STF. Precedentes. 1. Para divergir do entendimento adotado pelo juízo a quo sobre a concessão da gratificação denominada TIDE aos servidores públicos, seria necessário o reexame dos fatos e provas dos autos e de legislação local (Leis nº 6.174/70 e nº 16.024/08), o que impede o trânsito do apelo extremo. Súmulas nº 279 e nº 280 do STF. 2. Inaplicável, na hipótese, a Súmula nº 339 do STF, tendo em vista que a concessão da referida vantagem não foi baseada no princípio da isonomia, mas na legislação local pertinente. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (RE n. 1.322.449-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 15.3.2022).
+
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA (TIDE). LEIS ESTADUAIS NºS 6.174/1970 E 16.0248/2008. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 37, CAPUT, DA CONSTITUIÇÃO DA REPÚBLICA. DEFICIÊNCIA NA DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. 1. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta ao preceito constitucional indicado nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional local encampada na decisão da Corte de origem, bem como a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Agravo interno conhecido e não provido” (RE n. 1.332.749-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 4.10.2021).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA (TIDE). LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional local (Súmula 280 do STF), tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.298.248-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 31.5.2021).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 21.03.2020. ADMINISTRATIVO. SERVIDORES PÚBLICOS. GRATIFICAÇÃO. TIDE. LEIS ESTADUAIS 6.174/1970 e 16.024/2008. JUÍZO DE RETRATAÇÃO. ALEGAÇÃO DE AFRONTA AO ART. 37, CAPUT, DA CF. PRINCÍPIO DA ISONOMIA. PRETENSÃO DE INCIDÊNCIA DA SUMULA 339 DO STF. IMPROCEDÊNCIA. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO LOCAL. SÚMULAS 279 E 280 DO STF. PRECEDENTES. 1. Para divergir do entendimento adotado pelo juízo a quo, sobre a concessão da gratificação denominada TIDE aos servidores públicos, seria necessário o reexame dos fatos e provas dos autos e de legislação local (Leis 6.174/1970 e 16.024/2008), o que impede o trânsito do apelo extremo. Súmulas 279 e 280 do STF. 2. Inaplicável, na hipótese, a Súmula 339 do STF, tendo em vista que a concessão da referida vantagem não foi baseada no princípio da isonomia, mas na legislação local pertinente. 3. Agravo regimental a que se nega provimento, com previsão da multa prevista no art. 1.021, §4º, CPC. Inaplicável o artigo 85, § 11, CPC, em virtude da sucumbência recíproca reconhecida na instância de origem” (RE n. 1.243.855-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 18.8.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO POR TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA (TIDE). EXTENSÃO. LEIS 6.174/1970 E 16.024/2008 DO ESTADO DO PARANÁ. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE NORMAS LOCAIS. IMPOSSIBLIDADE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO A QUE SE NEGA PROVIMENTO. I - Conforme as Súmulas 279/STF e 280/STF, é vedado, em recurso extraordinário, o reexame do conjunto fático-probatório dos autos e de normas infraconstitucionais locais. II - Agravo regimental a que se nega provimento” (ARE n. 1.122.376- AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 11.9.2018).
+
+    6. Quanto à incidência de juros de mora e atualização monetária dos débitos não tributários originários de condenações judiciais da Fazenda Pública, como na espécie, o julgado recorrido está em consonância com a jurisprudência deste Supremo Tribunal, conforme decidido no julgamento do Recurso Extraordinário n. 870.947, Relator o Ministro Luiz Fux, Tema 810 da repercussão geral, que fixou as seguintes teses:
+
+    “1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e 2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina” (DJe 20.11.2017).
+
+    Em 3.10.2019, ao julgar os Embargos de Declaração no Recurso Extraordinário n. 870.947-RG, Tema 810, Relator o Ministro Luiz Fux, este Supremo Tribunal decidiu não modular os efeitos da decisão nele proferida, aplicando-se às condenações impostas à Fazenda Pública a inconstitucionalidade da correção monetária pelo índice de remuneração oficial da caderneta de poupança (Taxa Referencial).
+
+    Este Supremo Tribunal atribuiu eficácia retroativa à decisão de mérito proferida naquele recurso extraordinário, sendo nulo o índice de correção monetária declarado inconstitucional (Taxa Referencial) desde a data da edição da lei pela qual estabelecido (Lei n. 11.960/2009).
+
+    Confira-se o seguinte julgado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 1º-F DA LEI N. 9.494/1997, ALTERADO PELA LEI N. 11.960/2009. ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA EM CONDENAÇÕES DA FAZENDA PÚBLICA. INCONSTITUCIONALIDADE. 1. Este Supremo Tribunal declarou inconstitucional o índice de remuneração da caderneta de poupança como critério de correção monetária em condenações judiciais da Fazenda Pública ao decidir o Recurso Extraordinário n. 870.947, com repercussão geral (Tema 810). 2. Assentou-se que a norma do art. 1º-F da Lei n. 9.494/1997, pela qual se estabelece a aplicação dos índices oficiais de remuneração da caderneta de poupança para atualização monetária nas condenações da Fazenda Pública, configura restrição desproporcional ao direito fundamental de propriedade. 3. Ação direta de inconstitucionalidade julgada procedente” (ADI n. 5.348, de minha relatoria, Plenário, DJe 28.11.2019).
+
+    7. Quanto à alegação do recorrente de descumprimento do art. 2º da Constituição da República, este Supremo Tribunal firmou jurisprudência no sentido de que o exame da legalidade dos atos administrativos pelo Poder Judiciário não afronta o princípio da separação dos Poderes: “não há falar em ofensa ao princípio da separação dos poderes quando o Poder Judiciário desempenha regularmente a função jurisdicional” (AI n. 732.188-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 1º.8.2012).
+
+    8. Pelo exposto, nego provimento ao presente recurso extraordinário (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 26 de janeiro de 2023.
+
+    Ministra CÁRMEN LÚCIA
+
+    Relatora
