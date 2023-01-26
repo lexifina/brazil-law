@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TAMIRES GABRIELE BARBOSA MARTINS e BRUNO CARLOS NETO FIORAVANTI, em que se aponta como ato coator a decisão monocrática de desembargadordo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2002928-84.2023.8.26.0000.
+Consta dos autos que os pacientes foram presos em flagrante, em 11/1/2023, pela suposta prática dos delitos tipificados nos arts. 33,caput, e 35 da Lei n. 11.343/2006.Posteriormente, a medida foi convertida em prisãopreventiva.
+O impetrante sustentaser necessária arevogação da prisão, decretada através de decisãogenérica e sem fundamentos.
+Assevera que os pacientes são primários, além de possuíremresidência e emprego fixos.
+Aponta, ainda, que o paciente Bruno assumiu a propriedade da droga e quesua esposa Tamires não tinha conhecimento sobre os fatos.
+Pretende-se, liminarmente, a revogação da prisão com a expedição do alvará de soltura e, subsidiariamente, a substituição da medida extremada por medidas cautelares diversas.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, pois a matéria de fundo é sensível e demanda maior reflexão e exame aprofundado dos autos, sendo prudente, pois, aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior.
+A decisão proferida pelo desembargador do Tribunal de Justiça de São Paulomanteve a prisão dos pacientes com base nos seguintes fundamentos (fls. 54-55):
+A medida liminar em habeas corpus, por não prevista expressamente entre os art. 647 a art. 667, todos do Código de Processo Penal, é excepcional, razão pela qual está reservada para os casos em que avulta flagrante o constrangimento ilegal. E essa não é a hipótese dos autos.
+Ademais, a análise do pedido revela-se inadequada à esfera da cognição sumária, haja vista confundir-se com o mérito, devendo ser reservado à Colenda Turma Julgadora a solução da questão em toda a sua extensão, sendo que, não foi demonstrado regularmente, de pronto, o fumus boni iuris e o periculum in mora, necessários para concessão da liminar.
+Já adecisão que converteu a prisão em flagrante em prisão preventiva destacou que (fl. 47-48):
+Após, pelo MM. Juiz foi deliberado o seguinte: " Vistos. Trata-se de auto de prisão em flagrante delito pela prática dos crimes de tráfico de drogas e associação para o tráfico,previstos nos artigos 33 e 35, ambos da Lei nº 11.343/06, respectivamente, cometidos, em tese, por Tamires Gabriele Barbosa Martins e Bruno Carlos Neto Fioravanti. No presente caso, há indícios suficientes de autoria e prova da existência dos crimes, segundo se infere pelos depoimentos dos policiais militares Maysa Marega de Cinque e Gelton de Souza Santos, como também pelo auto da exibição e apreensão (p. 13/14) e laudos de constatação provisória (p. 18 e seguintes).
+Segundo consta, os averiguados foram surpreendidos pelos policiais militares realizando a mercancia ilícita da droga no local dos fatos, onde havia denúncias de que o casal destinava-se ao tráfico de drogas em sua residência. Em abordagem, realizada revista pessoal e no imóvel, os policiais lograram encontrar 01 porção de maconha (15,89g), 02 porções de cocaína (19,94g) e diversas pedras de crack (205,12g), uma balança de precisão e a quantia de R$ 132,00. Após, com indicação de Bruno, também localizaram outras 3 porções de cocaína(1,58g) e dois aparelhos celulares, um de uso pessoal de Bruno e outro que não soube informar a procedência. Indagados, Bruno imediatamente assumiu a propriedade das drogas apreendidas, da balança e tentou a todo tempo exculpar Tamires e o casal de adolescentes que estavam no local, que foram identificados como sendo Camila (irmã de Tamires) e Maycon. De acordo com os fatos descritos, há situação flagrancial e o flagrante preenche os requisitos dos artigos 302 e 306, ambos do Código de Processo Penal, motivo pelo qual não há que se falar em seu relaxamento.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
