@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VANDERLI CESAR DE SOUSA, em que se aponta como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n.2268826-94.2022.8.26.0000).
+Consta dos autos que, no dia 07/11/2007, o paciente teve decretada prisão preventiva em seu desfavor, nos autos da ação penal em que restou pronunciadocomo incurso no art.121, § 2º, I e IV, c/co art.14, II, ambos do Código Penal.
+O mandado de prisão foi cumprido somente em 23/03/2016,após notícia de que o suplicante estaria preso na Comarca de Januária/MG, pela prática de outro crime de homicídio (fl. 220).
+Irresignada, a defesa impetrou remédio constitucional na Corte de origem tendo a ordem sido denegada.
+No presente writ,sustentaoimpetranteque o paciente estaria recolhido ao cárcere desde 2016 sem que haja previsão para o seu julgamento pelo Tribunal do Júri,a ponto de restar configurada a ilegalidade da custódia por excesso de prazo na formação da culpa.
+Alega não ter sido observado o previsto no artigo 316 do Código de Processo Penal e defende serdesnecessária a manutenção da custódia cautelar.
+Afirma a ausência de fundamentação idônea para embasar a preventiva e destaca ser suficiente a incidência de medidas cautelares alternativas.
+Esclareceque o paciente já está em vias de ser progredido ao regime aberto no outro processo pelo qual cumpre pena no Estado de Minas Gerais, assim, caso seja recambiado para São Paulo para o cumprimento da prisão cautelar, defende que deverá permanecer no modo aberto, uma vez que a existência de decreto de constrição processual em outra ação penal não obsta a progressão de regime.
+Requer, liminarmente, o relaxamento ou a revogação da prisão preventiva do paciente, expedindo-se alvará de soltura em seu favor.
+No mérito, pleiteia pela confirmação da ordem sumária e, ainda, "em caso de remanejamento do paciente, que este venha no mesmo regime que está em Minas Gerais, no caso o semiaberto ou, na falta de vagas, que seja colocado em regime domiciliar até que a vaga surja ou mesmo, pela proximidade da progressão para o regime aberto e, ausência de data para o plenário, que caso este esteja em regime aberto possa comparecer espontaneamente ao plenário, podendo ainda ser fixadas medidas cautelares diversas da prisão, para a hipótese de liberdade do paciente" (fl. 42).
+É o relatório.
+Em cognição própria do regime de plantão, não se verifica a ocorrência de manifesta ilegalidade a justificar o deferimento do pleito liminar, na medida em que, ao menos primo ictu oculi, o acórdão impugnado não se revela teratológico, tendo em vista haver sido destacado "que o paciente está cumprindo pena em Minas Gerais pela prática de novo homicídio qualificado, após o tratado nestes autos, em que foi condenado à pena de doze anos de reclusão (fls. 843/846), o que não recomenda sua soltura. Além disso, permaneceu foragido, em relação a estes autos, por quase nove anos" (fl. 228).
+Ademais, quanto ao aventado excesso de prazo da custódia, consta no aresto combatido que: "Não se vislumbra demora injustificada na formação da culpa, não se caracterizando omissão ou desídia do juízo a comprometer a tramitação regular do feito, sendo impossível a determinação de prazo certo para todo e qualquer caso, observando-se que, in casu, o paciente está preso em outro Estado (Minas Gerais), sendo aguardado seu recambiamento, diante da recusa da defesa quanto à realização da Sessão Plenária sem a presença do paciente" (fl. 226).
+Fica reservado, pois, ao momento do julgamento definitivo o exame mais aprofundado da matéria.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações ao Tribunal de origem, que deverão ser prestadas, preferencialmente, por malote digital e com senha de acesso para consulta ao processo.
+Após, remetam-se os autos ao Ministério Público Federal para parecer.
+Publique-se.Intimem-se.
