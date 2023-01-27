@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KLEBER MARIANO DOS SANTOS, em que se aponta como ato coator a decisão monocrática de desembargadordo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2008944-54.2023.8.26.0000.
+Consta dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito previsto no art.33, caput, da Lei n. 11.343/06.
+O impetrante sustentaque o decreto constritivo estaria lastreado somente na gravidade abstrata do delito, em afronta ao art. 312 do Código de Processo Penal, o que validaria o pleito de revogação da prisão preventiva.
+Alega quea quantidade de substância ilícita encontrada com o paciente seria insignificante e que o acusadoostentaria condições pessoais favoráveis ao deferimento da liberdade provisória, com a aplicação de medidas cautelares diversas da prisão; circunstâncias, que a seu ver, afastariam a incidência da Súmula 691 do Supremo Tribunal Federal.
+Aduz que na hipótese de condenação do pacienteele faria jus ao redutor da pena previsto no art.33, § 4º, da Lei n. 11.343/2006 e substituição da pena corporal por restritiva de direitos.
+Acrescenta que o paciente é genitor de uma filha menor que estariasob seus cuidados, o que possibilitaria a concessão da prisão domiciliar, consoante a regra do art. 318 do Código de Processo Penal.
+Em reforço aos seus argumentos salienta que (fl. 34):
+ ..  é genitor de filho menor (Sofia de 02 anos e 06 meses), nos termos do artigo 318, III e VI, do diploma processual penal, além do que possui diabetes e permanecerá recolhido em unidade prisional, cuja capacidade de ocupação já ultrapassou o limite há longa data(documento em anexo),além do que não dispõe de equipe de saúde lotada na unidade para enfrentar a situação de propagação do Covid-19, bem como não há dúvidas no sentido de que suas instalações favorecem a propagação do referido vírus, nos termos do artigo 4º, I, alíneas "a", "b", da Recomendação nº 62 do Conselho Nacional de Justiça.
+Refere, também, que haveria excesso de prazo na formação da culpa, o que, de igual modo, possibilitaria a concessão da liberdade ao acusado.
+Pretende, liminarmente e no mérito, a revogação da prisão preventiva, com a concessão da liberdade provisória ou o deferimento da prisão domiciliar, cumulada ou não com a aplicação de medidas cautelares.
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+No caso, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, pois a matéria de fundo é sensível e demanda maior reflexão e exame aprofundado dos autos, sendo prudente, pois, aguardar o julgamento definitivo do habeas corpus impetrado no Tribunal de origem antes de eventual intervenção desta Corte Superior, consoante se observa dosseguinte excertos extraídos da decisão impugnada (fls. 135-136):
+A manutenção da prisão cautelar foi fundamentada pela Magistrada, que entendeu presentes os indícios de autoria e a prova da materialidade do delito, bem como a caracterização dos requisitos da prisão preventiva, sobretudo o risco de reiteração delitiva indicado pelos antecedentes criminais do paciente (fls. 121/125 dos autos originários).
+Analisada a decisão, constata-se que, a despeito da quantidade não expressiva de droga apreendida, os policiais militares receberam informações de que o paciente, já conhecido dos meios policiais, estava praticando o tráfico de drogas em determinado local. Ao dirigirem-se para o endereço indicado, surpreenderam-no na posse de 29 porções de crack, tendo o paciente confessado informalmente a traficância. Além disso, a decisão indicou a presença do risco de reiteração delitiva, considerando seus antecedentes criminais (cf. Folha de Antecedentes de fls. 75/99 dos autos de origem).
+Essas circunstâncias, especialmente o mencionado risco de reiteração delitiva, em sede de cognição sumária, justificam a manutenção da custódia cautelar para garantia da ordem pública, da instrução criminal e da aplicação da lei penal.
+Nesse contexto, mostra-se insuficiente a aplicação das medidas cautelares alternativas ao cárcere previstas no artigo 319 do Código de Processo Penal.
+Em relação à concessão de prisão domiciliar com fundamento em estado de saúde, aponto que a Magistrada de primeira instância determinou à Secretaria de Administração Penitenciária para que fosse prestado o atendimento médico necessário. Assim, em sede de cognição sumária, não se constata, neste momento, a necessidade de substituição da custódia preventiva por domiciliar.
+Ainda sobre a concessão de prisão domiciliar, aponto que embora comprovada a condição de pai de criança pelo paciente, não há indicação de que ele é o único responsável e nem mesmo comprovação de sua indispensabilidade para o desenvolvimento do menor, circunstâncias exigidas pelo artigo 318, incisos III e VI, do Código de Processo Penal.
+Em relação à alegação de excesso de prazo, destaco que o paciente foi preso em flagrante na data de 19/01/2023 e no dia seguinte sua prisão foi convertida em preventiva (fls. 121/125 dos autos de origem). Grifos acrescidos.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
