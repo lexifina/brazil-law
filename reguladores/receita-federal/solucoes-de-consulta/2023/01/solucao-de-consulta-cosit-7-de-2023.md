@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 7, de 6 de janeiro de 2023
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+PESSOA FÍSICA RESIDENTE NO EXTERIOR. REGIME ESPECIAL. MUDANÇA DE DOMICÍLIO TRIBUTÁRIO. APLICAÇÕES FINANCEIRAS REALIZADAS NOS MERCADOS FINANCEIRO E DE CAPITAIS DO PAÍS.
+Os rendimentos de aplicações financeiras efetuadas por investidor pessoa física residente no exterior que adquire a condição de residente no Brasil deixam de se sujeitar, a partir da mudança de residência fiscal, ao regime especial de tributação a que se refere o art. 16 da Medida Provisória nº 2.189, de 23 de agosto de 2001, e passam a ser tributados pelas mesmas regras a que se submetem os rendimentos auferidos por pessoas físicas residentes no País.
+No caso de aplicação financeira sujeita ao imposto sobre a renda retido na fonte, os rendimentos produzidos até o dia anterior à aquisição, pelo investidor, da condição de residente no País são tributados pelo regime especial a que se refere o art. 16 da Medida Provisória nº 2.189, de 2001, cabendo à fonte pagadora a retenção e o recolhimento do imposto devido, se houver, quando da ocorrência do fato gerador do tributo, tal como a alienação, resgate/liquidação. Os rendimentos produzidos a partir da data da mudança de residência do investidor são tributados pelas mesmas regras a que se submetem os rendimentos auferidos por pessoas físicas residentes no País.
+No caso de operação realizada em bolsa e sujeita à incidência do imposto sobre a renda sobre o ganho líquido, cabe ao investidor que adquiriu a condição de residente no Brasil apurar e recolher o tributo devido conforme as regras aplicáveis às pessoas físicas residentes no País. Nessa hipótese, a base de cálculo do imposto sobre a renda será a diferença positiva entre o valor de alienação do ativo e o seu custo de aquisição, calculado pela média ponderada dos custos unitários.
+Dispositivos Legais: Medida Provisória nº 2.189, de 2001, art. 16; Lei nº 8.981, de 1995, arts. 79 a 82; Instrução Normativa RFB nº 1.585, de 2015, art. 88; Resolução CMN nº 4.373, de 2014.
+SC Cosit nº 7-2023
+[arquivo anexo: SC Cosit nº 7-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
+Substituto
