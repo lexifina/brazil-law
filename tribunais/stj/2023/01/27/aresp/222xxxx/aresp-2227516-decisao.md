@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CRUZ VERMELHA BRASILEIRA contra decisão que inadmitiu recurso especial com fundamento na ausência de violação doart. 489 do CPC.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelação n. 0004405-37.2004.9.26.0100), nos autos de ação indenizatória por danos materiais e morais.
+O julgado foi assim ementado (fl. 1.636):
+Responsabilidade civil. Pedido indenizatório. Erro médico assistência deficiente deu causa ao óbito do esposo e genitor dos autores. Sentença de parcial procedência em relação aos corréus Roger Ferdinand Louis Faure e Cruz Vermelha Brasileira e improcedente em relação ao corréu Marcos Pedro. Inconformismo da ré Cruz Vermelha e dos autores. rés. Não acolhimento.
+1. Recurso da ré Cruz Vermelha: Não acolhimento. Cabe ao hospital se responsabilizar pelos procedimentos que nele são realizados, atentando-se às limitações de sua estrutura. Não dispondo a ré apelante de UTI e nem ambulância, tem esta dever de bem fiscalizar a magnitude dos procedimentos realizados em suas dependências, a fim de garantir que não falte assistência necessária aos pacientes em caso de emergência. Danos materiais verificados. valor mantido (pensão mensal de 2/3 dos rendimentos do falecido em favor de seus dois filhos até que completem 25 anos de idade). Danos morais verificados valores mantidos (R$ 50.000,00para cada autor). Recurso desprovido.
+2. Recurso dos autores: Não acolhimento. Eventual responsabilização por erro quando da realização do procedimento cirúrgico deve ser atribuídaà cirurgiã-dentista, eis que responsável pela equipe médica que elegeu para assisti-la durante a cirurgia. Pontue-se não haver, ademais, qualquer conduta individualizada do corréu Marcos Pedro apta a configurar a responsabilização deste pelos danos reclamados.
+3. Recursos desprovidos.
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 489, §1º, III e IV,do CPC. Alega que o acórdão recorrido não foi devidamente fundamentado e que incorreu em omissão e contradição, pois não considerou todos os argumentos apresentados em sua defesa e as provas nos autos.
+Requer o provimento do recurso para que sejam reconhecidos os víciosdo acórdão e julgada improcedente a ação de indenização.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Mediante análise dos autos, verifica-se que a decisão que inadmitiu o recurso especial adotou como fundamento a ausência de violação aoart. 489 do CPC.
+Entretanto, a agravante, nas razões do agravo em recurso especial, deixou de impugnar especificamente referido fundamento.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confira-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Por fim, nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
