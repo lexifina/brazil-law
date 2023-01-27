@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ÁLCOOL QUÍMICA CANABRAVA S/A - EM RECUPERACAO JUDICIAL(ou ÁLCOOL QUÍMICA CANABRAVA S.A) contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0015215-18.2013.8.19.0014) assim ementado (fls. 970-971):
+Apelação Cível. Ação Monitória. Sentença de procedência.
+Inexistência de cerceamento de defesa. Parte ré intimada para se manifestar sobre o laudo pericial, tendo apresentado impugnação, respondida pelo expert. Perito de confiança do Juízo e equidistantes das partes. Ausência de argumentos que desconstituam o laudo pericial.
+Julgado que está devidamente fundamentado. Argumentos de defesa que foram claramente rechaçados pelo Juízo a quo.
+Relação jurídica incontroversa. Tese de que houve fraude na celebração do contrato que não foi provada e não se presta a isentar o apelante das obrigações contratuais assumidas.
+Cláusulas contratuais livremente pactuadas entre as partes. Alegação de desequilíbrio contratual que não pode ser acolhida. Contrato que é claro ao estipular garantia mensal de 70.000 toneladas.
+Quantum devido apurado no laudo pericial. Sentença mantida. Verba honorária sucumbencial majorada, naforma do artigo 85, parágrafo 11º do Código de Processo Civil. Desprovimento da Apelação.
+Opostos embargos de declaração por ambas as partes, foram rejeitados os embargos opostos pela autora e dado provimento aos embargos opostos pela ré (fls. 1.020-1.026).
+Nas razões do recurso especial (fls. 1.045-1.065), a parterecorrente  apontaviolação  dos arts.113, 413, 422, 475 e 884, do Código Civil, bem comodos arts.489 e 1.022 do CPC. Defende que: a)o Tribunal de Justiça não enfrentou todas as questões relevantes para a solução da lide; eb) "a interpretação do Contrato deve ser pautada pelo princípio da razoabilidade, da boa-fé e do equilíbrio contratual, nos termos em que determinam os artigos 113, 422, 475 e 884, do Código Civil- de modo que o remédio disponível à Recorrida seria a rescisão contratual, e não a cobrança de valores milionários por serviços sabida e deliberadamente não-prestados" (fl. 1.055).
+Requer  o  conhecimento  e  provimento  do  recurso a fim de"que seja reformado o v. acórdão, exclusivamente em relação ao patamar da condenação da Canabrava, por violação aos arts. 113, 413, 422, 475 e 884, do Código Civil, de modo que tal condenação limite-se ao valor apontado pelo laudo pericial" ou "ao valor de sua redução equitativa" (fl. 1.064) ou para que se reconheça a nulidade do acórdão.
+Contrarrazões às fls. 1.080-1.094.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o  Tribunal  de  origem  analisou as questões e assim decidiu  (fls. 972-974):
+Foi realizada prova pericial (indexadores 520/629), tendo a parte ré, ora apelante, se manifestado sobre a referida peça técnica (indexador 695), apresentando quesito complementar.
+O expert prestou os esclarecimentos (indexadores 713/718), tendo o apelante mais uma vez manifestado sua discordância ao laudo pericial(indexador 729).
+Portanto, não há que se falar em cerceamento de defesa, sendo certo que o Magistrado indicou os motivos que o levaram a acolher as conclusões do perito, na forma determinada pelo artigo 479 do Código de Processo Civil.
+A irresignação do ora recorrente se funda na alegada falta de exame das impugnações do seu assistente técnico ao laudo pericial no decisum alvejado.
+A prova técnica contra a qual se insurge o apelante foi elaborada por perito de confiança do Juízo, que está equidistante dos interesses das partes, não tendo o recorrente logrado êxito em desconstituir as conclusões a que chegou o expert, motivo pelo qual correta a sentença que acolheu o valor indicado pelo perito.
+ ..
+A Sentença é clara ao rechaçar a alegação do apelante de que houve fraude na elaboração do contrato, além de acolher o valor apontado pelo perito.
+Nessa linha, a preliminar de nulidade da Sentença não merece ser acolhida.
+Ultrapassada a questão, verifica-se que a relação jurídica entre as partes é incontroversa (contrato em fls. 22/25, indexador 17) e que o serviço foi efetivamente prestado conforme as notas fiscais de fls. 29/38 (indexador 17).
+O que a parte ré alega é que teria havido fraude de um ex-diretor na contratação da autora. Contudo, passados 7 anos do ajuizamento da demanda, o réu não conseguiu comprovar a alegada fraude, tampouco buscou anular o contrato.
+E mesmo que assim não fosse, tivesse mesmo o ex-diretor agido contrariamente ao que exige o estatuto social, extrapolando os poderes a ele conferido, o autor, como terceiro de boa-fé, não pode ser prejudicado pelo suposto atuar fraudulento do preposto da ré.
+Passando a análise do quantum devido pelo recorrente, verifica-se que o contrato é claro e estipula o valor de R$ 5,75 por tonelada, com garantia mensal de 70.000 toneladas (cláusula 4).
+O apelante pretende desconstituir a garantia mínima mensal, sob argumento de que não possuía essa quantidade de produto a ser carregado e rebocado, razão pela qual defende o pagamento sobre a carga transportada.
+Embora o laudo pericial tenha confirmado que o autor transportou o total de 106.702,11 toneladas, o contrato foi livremente pactuado entre as partes, inexistindo hipossuficiência que justifique a anulação da cláusula contratual da garantia mensal.
+Portanto, a Sentença não merece reforma.
+Por ocasião do julgamento dosembargos de declaração, a Corte de origem ainda concluiu que (fl. 1.025):
+A parte ré alega em seu Apelo que "deve-se impor o pagamento de uma quantia mais razoável, inferior àquela cobrada na presente demanda, para vedar o enriquecimento sem causa."
+Ocorre que o artigo 413 do Código Civil não se aplica a presente hipótese por não se tratar de cláusula penal, mas sim de uma cláusula de garantia de fornecimento de cana de açúcar em quantidade mínima, previa e contratualmente pactuada entre as partes.
+No que se refere à alegada violação dos arts. 489 e 1.022, do CPC, sob o argumento de que a Corte de origem não enfrentou todas as questões relevantes para a solução da lide, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Relativamente às alegadas violações dos arts. 113, 413, 422, 475 e 884do Código Civil, a Corte de origem concluiu que "o contrato foi livremente pactuado entre as partes, inexistindo hipossuficiência que justifique a anulação da cláusula contratual da garantia mensal" (fl. 1.025) e "que o serviço foi efetivamente prestado conforme as notas fiscais" (fl. 974).
+Nesse contexto, o recurso especial é inviável, porquanto a adoção de conclusões diversas do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, em razão dos óbices das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. CLONAGEM. RESPONSABILIDADE. ADMINISTRADORA. CREDENCIADORA. ILEGITIMIDADE PASSIVA. SÚMULA Nº 83/STJ. PRESTAÇÃO DOS SERVIÇOS. FALHA. REVISÃO. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de ProcessoCivil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. As administradoras de cartão de crédito se responsabilizam integralmente pela compra do consumidor, assumindo o risco de crédito, bem como de eventual fraude, notadamente quando há falha na prestação do serviço. Precedentes.
+4. O recurso especial é inviável quando a modificação das conclusões adotadas no acórdão recorrido demanda reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ).
+5. Agravo interno não provido. (AgInt no AgRg no AREsp n. 731.449/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/11/2022.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/12/2022.)
+Ante o exposto, conheço doagravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC majoro os honorários advocatícios em favor da parte recorrida de 12% para 13%,sobre o valor da condenação.
+Publique-se.  Intimem-se.
