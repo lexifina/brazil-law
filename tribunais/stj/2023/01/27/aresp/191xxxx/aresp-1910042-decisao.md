@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLÁUDIO CÉSAR DE CARVALHO SCAGLIONE, PERFECTO - SERVIÇOS DE LAVANDERIA EIRELI e ROSELY COSTA DE CARVALHO SCAGLIONE contra decisão que inadmitiu recurso especial com fundamento naSúmulan.7do STJ.
+Alegam o agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Agravo de Instrumento n.2176571-88.2020.8.26.0000) assim ementado (fl. 368):
+RECURSO - AGRAVO DE INSTRUMENTO - LOCAÇÃO DEIMÓVEIS - FINALIDADE NÃO RESIDENCIAL - PROCESSODE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃODE PRÉ-EXECUTIVIDADE - RECURSO PROCESSADO SEMCONCESSÃO DE LIMINAR. Irresignação contra a respeitáveldecisão que afastou a arguição de excesso de execução. Execução que é dotada dos requisitos legais, demonstrada o crédito exigido com planilha a demonstrar o "quantum debeatur". Via processual inadequada a discutir a assertiva de excesso de execução, não comprovado nos autos. Decisão mantida. Recurso de agravo de instrumento não provido.
+Opostos embargos de declaração, os quais foram rejeitados (fls. 377-382).
+Nas razões do recurso especial (fls. 385-396), os recorrentes  apontam violação dos arts. 489, §1º, 371, 783, 787, 798, I, c e de 1.022,I, do Código de Processo Civil.
+Defendem que o Tribunal de origem não se manifestou sobre questões que reputam relevantes para o deslinde do processo e que ao manter a rejeição da exceção de pré-executividade não foram consideradas questões atinentes ao quantum debeature a acordos extrajudiciais entre as partes que foram suscitadas.
+Requer  em  o  conhecimento  e  provimento  do  recurso.
+Contrarrazões às fls. 400-420.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o  Tribunal  de  origem  analisou as questões e assim decidiu  (fls. 369-370):
+Cuida-se na origem de execução de título extrajudicial fundada em contrato de locação de imóvel em loja comercial ( shopping center ).
+A agravada ( executada ) defende excesso de execução e nulidade por ausência de liquidez do título.
+Contudo, sem razão.
+A execução possui lastro certo e exigível consubstanciado no contrato de locação de imóveis, que prevê locativos em critérios líquidos.
+Como em demonstrado pela decisão agravada, a planilha de cálculo acostada pelo exequente discrimina de forma clara a origem dos débitos, como locativos em atraso, multa contratual e despesas condominiais, inexistente ausência de liquidez.
+Por seu turno, a agravante não traz discriminado de forma clara e fundamentada o eventual excesso, tampouco comprova a ausência de liquidez do título.
+Ainda que assim não fosse, a exceção de pré-executividade não é meio processual adequado a discutir excesso de execução, ao contrário, constituindo incidente jurisprudencial hábil a averiguar eventuais nulidades ou ofensas a matéria de ordem pública, o que não é o caso dos autos, ausente alegação de vício do título, ou ainda nulidade por irregularidade de citação, prescrição, decadência o ausência de condições da ação.
+Por fim, eventual arguição de descumprimento contratual pela locatária demanda ação própria de conhecimento, descabida a argumentação em sede executiva, limitada à busca do crédito exequendo.
+Com base em tais fundamentos, acertada a respeitável decisão agravada, devendo, pois, ser mantida. Ante o exposto, nega-se provimento ao recurso de agravo de instrumento, nos moldes desta decisão.
+Por ocasião dos embargos de declaração, o  Tribunal  de  origem  ainda concluiu o seguinte (fl. 379):
+Como já dirimido na oportunidade do Aresto ora atacado, à folha 370, a planilha de cálculo apresentada discriminou de forma clara a cobrança, sendo que, ao contrário do apregoado, caberia à agravante ( locatária ) apresentar os devidos comprovantes de pagamento das quantias discutidas.
+Nota-se, há inclusive cobrança atinente a multa por descumprimento de obrigação contratual devido a ausência de apresentação, pela embargada, dos rendimentos mensais.
+Também fundamentado que caberia à agravante discriminar de forma clara e especifica o alegado excesso de cobrança, ônus do qual não se desincumbiu.
+No que se refere à alegação deque a Corte de origem não enfrentou todas as questões relevantes para a solução da lide (arts. 489 , § 1º e 1.022, do CPC), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante àalegação de que, ao manter a rejeição da exceção de pré-executividade, a Corte de origem não considerouquestões atinentes ao quantum debeatur e acordos extrajudiciais entre as partes que foram suscitados pelos recorrentes, violando assim,os artigos 371, 783, 787, 798, I, c e d, do CPC.
+Verifica-se, considerando os trechos dos acórdãos transcritos, que o Tribunal a quo, instância soberana na análise dos fatos, concluiu que "a planilha de cálculo acostada pelo exequente discrimina de forma clara a origem dos débitos, como locativos em atraso, multa contratual e despesas condominiais, inexistente ausência de liquidez" e que "eventual arguição de descumprimento contratual pela locatária demanda ação própria de conhecimento"(fl. 370).
+Assim, rever a conclusão da Corte de origem quanto ao preenchimento dos requisitos do título de crédito ou a desnecessidade de outras provas para o acolhimento da exceção de pré-executividade, demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA. PRECEDENTES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. DECISÃO MANTIDA.
+1. "Nos termos da jurisprudência do Superior Tribunal de Justiça, firmada quando do julgamento do REsp nº 1.110.925/SP, sob o rito dos recursos repetitivos, a exceção de pré-executividade é cabível quando atendidos, simultaneamente, dois requisitos: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz e (b) é indispensável que a decisão possa ser tomada sem a necessidade de dilação probatória" (AgInt no REsp n. 1.518.665/MS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/4/2022, DJe de 5/5/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, rever o entendimento da Corte local, de que a questão da multa não necessita de dilação probatória, demandaria reexame do acervo probatório dos autos, providência vedada em recurso especial.
+4. A simples indicação de afronta a dispositivos legais, sem debate - sequer implícito - da matéria pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211 do STJ).
+5. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.148.111/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. ORDEM PÚBLICA. IMPUGNAÇÃO DEFICIENTE. SÚMULA Nº 283/STF. REQUISITOS. NECESSIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias a fim de verificar o preenchimento ou não dos requisitos necessários para o enquadramento do imóvel na proteção concedida pela Lei nº 8.009/1990 demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável em recurso especial devido à incidência da Súmula nº 7/STJ. Precedentes.
+5. O entendimento do Superior Tribunal de Justiça é no sentido de que, por se tratar de matéria de ordem pública, a impenhorabilidade do imóvel pode ser alegada a qualquer tempo, inclusive por meio de exceção de pré-executividade, desde que haja prova pré-constituída.
+Precedente.
+6. Agravo interno não provido.(AgInt no AREsp n. 1.957.754/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+Ante o exposto, nego provimento ao agravo
+Deixo de majorar os honorários, nos termos do § 11 do art. 85 do CPC, ante a ausência de arbitramento pela origem.
+Publique-se.  Intimem-se.
