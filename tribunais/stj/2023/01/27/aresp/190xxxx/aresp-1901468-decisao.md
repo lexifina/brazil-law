@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PETROBRÁS DISTRIBUIDORA S/A contra decisão que inadmitiu recurso especial com fundamento naSúmulan.7do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0124725-15.2007.8.19.0001) assim ementado (fls. 258-259):
+Direito da Locação. Ações revisional, renovatória, e embargos à execução. Sentença de parcial procedência na revisional, improcedência na renovatória, e de procedência nos embargos à execução.
+Locação do imóvel situado na frente para faixa de domínioda Rodovia Presidente Dutra, sob o número 11.991.
+Inconformismo com o resultado da demanda, atacando, sem sucesso, os fundamentos do laudo técnico e da sentença proferida. Contudo, tal irresignação, uma vez dissociada da prova dos autos, não merece prosperar.
+O imóvel em questão (Rodovia Presidente Dutra, sob o número 11.991), foi desocupado pela sublocatária em 14/08/2012, não tendo que se falar em renovação de contrato.
+Contrato de sublocação irregular, não respeitando o disposto no art. 13, da Lei nº 8.245/1991.
+Negativa de provimento aos recursos nas ações revisional e renovatória e dar provimento nos embargos à execução.
+Opostos embargos de declaração, por ambas as partes, foi dado provimento aos embargos opostos porDÉCIO HENRIQUE LOBATO SODRÉe rejeitados os aclaratórios opostos porPETROBRÁS DISTRIBUIDORA S/A (fls. 320-3234).
+No bojo do recurso especial (fls. 326-342), a recorrente  apontaviolação dos seguintes artigos:a)7º, 10 e 1.010, §1º do CPC, defendendo que houve cerceamento de defesa, ante o argumento de que não fora intimada para contrarrazoar o recurso de apelação e que a falta de intimação para apresentação de contrarrazões lhe ocasionou inegável prejuízo (fl. 330); b)73 e 783 do CPC e 413 do CC, defendendo que inexiste certeza, liquidez e exigibilidade do título executivo e que deveria a Corte de origem ter reduzido o quantum relativo à multa contratual; ec)1.022, c/c o art. 489 §1º, IV, do CPC, sob o argumento de que a Corte de origem não enfrentou as questões que reputa serem relevantes ao deslinde do processo.
+Requer  o  conhecimento  e  provimento  do  recurso.
+Contrarrazões às fls. 431-440.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o  Tribunal  de  origem  analisou as questões e assim decidiu  (fls. 265-266):
+Quanto aos embargos à execução o contrato de sublocação foi irregular, nos termos do art. 13, da Lei nº 8.245/1991, e conforme decisão no agravo de instrumento nº 0011147-67.2013.8.19.0000, uma vez que não houve prévia e expressa anuência dos locadores para a sublocação.
+ ..
+Desse modo, há pequeno reparo a ser feito na sentença impugnada, quanto os embargos à execução, uma vez que o contrato de sublocação foi irregular.
+Assim, tendo em vista que, na sentença, condenou-se a ora apelante, a título de honorários advocatícios, ao pagamento de 10% sobreo valor da causa, majora-se o valor para mais 2% (dois por cento), com base no previsto no § 11 do art. 85 do CPC.
+Ante o exposto, o voto é no sentido de negar provimento aos recursos nas ações revisional e renovatória e, dar provimento aos embargos à execução para inverter o ônus sucumbencial e com base no § 11 do art. 85 do CPC, majorar o valor da condenação a título de honorários advocatícios para mais 2% (dois por cento) sobre o valor da causa.
+Por ocasião dos embargos de declaração, o  Tribunal  de  origem  ainda concluiu o seguinte (fls. 322-323):
+Quanto aos primeiros embargos de declaração, assiste razão ao embargante quanto à improcedência dos embargos à execução, uma vez que o contrato de sublocação foi irregular, não cabendo se discutir a sublocação, uma vez que repassaram o imóvel sem anuência dos proprietários, a verba honorária de sucumbência deve ser suportada pela Petrobrás Distribuidora S/A.
+ ..
+A alegação do segundo embargante, com relação ao cerceamento de sua defesa, uma vez que não houve sua intimação para apresentar contrarrazões de apelação, não merece prosperar, uma vez que este teve oportunidade de arguir a nulidade em outros momentos processuais, uma vez que houveram publicações em nome de seu patronoem 01/02/2019 e 30/04/2019, permanecendo omisso quanto a falta de intimação.
+O Código de Processo Civil prevê, em seu art. 5º, que existe um dever imposto a todo aquele que de qualquer forma participa do processo, de se comportar de acordo com a boa-fé.
+Não há dúvida acerca do fato de que tal dispositivo consagra, de forma expressa, a incidência, do principio da boa-fé objetiva.
+No mesmo sentido, o art. 278 do CPC, estabelece que cabe a parte suscitar a nulidade na primeira oportunidade em que lhe coube falar nos autos, sob pena de preclusão.
+ ..
+Quanto ao título executivo, o mesmo é o Contrato de Sublocação, conforme cláusula no Contrato de Sublocação expresso no 13.1 e 13.3 (fls. 104/108), com amparo no art. 784, VIII do CPC.
+Está claro que não houve consentimento do embargado em repassar o imóvel locado, nos termos da Notificação Extrajudicial de fl. 74.
+No que se refere à alegada violação doart. 1.022, c/c o art. 489, §1º, IV, do CPC (item c), sob o argumento de que a Corte de origem não enfrentou todas as questões relevantes para a solução da lide, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante ao cerceamento de defesa e afronta aosarts. 7º, 10 e 1.010, § 1º, do CPC (item a), considerando os trechos dos acórdãos transcritos, a Corte de origem, instância soberana na análise dos fatos concluiu que o direito de alegar ausência de intimação restou precluso, uma vez que a parte recorrente não se manifestou a respeito da alegada nulidade no primeiro momento em que teve oportunidade nos autos e que "o art. 278 do CPC, estabelece que cabe a parte suscitar a nulidade na primeira oportunidade em que lhe coube falar nos autos, sob pena de preclusão" (fl. 323).
+Assim, rever a conclusão da Corte de origem quanto ao reconhecimento de preclusão, demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARRENDAMENTO MERCARNTIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. VALOR RESIDUAL GARANTIDOR (VRG). DEVOLUÇÃO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. UTILIZAÇÃO DA TABELA FIPE. REVISÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Modificar o entendimento do Tribunal local, acerca da alegada preclusão, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Agravo interno improvido.(AgInt no REsp n. 1.880.364/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/73. INOCORRÊNCIA.ESPECIFICAÇÃO DE PROVAS. PRECLUSÃO CONSUMATIVA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. OFENSA AO ART. 131 DO CÓDIGO DE PROCESSO CIVIL DE 1973. NÃO CONFIGURADA. LIVRE CONVENCIMENTO MOTIVADO DO JUIZ. PRECEDENTES. AGRAVO DESPROVIDO.
+ ..
+2. O eg. Tribunal de Justiça concluiu estar configurada a preclusão para a produção da prova desejada (prova documental), uma vez que esta deveria ter sido apresentada na primeira oportunidade que a parte teve de falar nos autos.
+3. Demais disso, a orientação jurisprudencial desta Corte Superior aduz que "vigora, no direito processual pátrio, o sistema de persuasão racional, adotado pelo Código de Processo Civil nos arts.130 e 131, não cabendo compelir o magistrado a acolher com primazia determinada prova, em detrimento de outras pretendidas pelas partes, se pela análise das provas em comunhão estiver convencido da verdade dos fatos" (AgRg no REsp 1.251.743/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe de 22/9/2014)
+4. Agravo interno desprovido.(AgInt no REsp n. 1.603.461/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Em relação às alegadas violações dos arts. 73 e 783 do CPC e 413 do CC (item b), a Corte de origem concluiu que o título executivo é amparado no contrato de sublocação irregular, conforme cláusula no Contrato de Sublocação expressa no 13.1 e 13.3 (fls. 104-108), com amparo no art. 784, VIII, do CPC(fl. 323).
+Nesse contexto,a adoção de conclusões diversas do acórdão recorrido implicaria interpretação de cláusulas contratuais e revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial, diantedos óbices das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. CLONAGEM. RESPONSABILIDADE. ADMINISTRADORA. CREDENCIADORA. ILEGITIMIDADE PASSIVA. SÚMULA Nº 83/STJ. PRESTAÇÃO DOS SERVIÇOS. FALHA. REVISÃO. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de ProcessoCivil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. As administradoras de cartão de crédito se responsabilizam integralmente pela compra do consumidor, assumindo o risco de crédito, bem como de eventual fraude, notadamente quando há falha na prestação do serviço. Precedentes.
+4. O recurso especial é inviável quando a modificação das conclusões adotadas no acórdão recorrido demanda reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ).
+5. Agravo interno não provido. (AgInt no AgRg no AREsp n. 731.449/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/11/2022.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/12/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 12%, arbitrados pelo Tribunal de origem, para 14% sobre o valor da causa, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se.  Intimem-se.
