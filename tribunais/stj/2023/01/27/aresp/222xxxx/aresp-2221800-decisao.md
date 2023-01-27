@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WELLINGTON FACHINI FARIAS contra decisão que inadmitiu recurso especialem razão da incidência da Súmula 7do STJ, da deficiência na fundamentação diante da ausência de comprovação do dissídio, bem comodo cotejo analítico entre o acórdão recorrido e os paradigmas.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, em apelação, assim ementado (fl. 209):
+Apelação. Compra e venda de veículos. Mora da vendedora que levou ao surgimento de despesas extras, por parte do comprador, quando da execução de contrato de seguro. Dever de indenizar. Inteligência dos arts. 395 e 403, CC. Sentença reformada. Recurso provido.
+Opostos embargos de declaração, os quais foram rejeitados, consoante acórdão com a seguinte ementa (fl. 225):
+Embargos de Declaração. Omissão verificada. Dano moral inexistente. Embargos acolhidos, sem efeitos infringentes.
+Nas razões do recurso especial, a parte agravante alega, além de dissídio jurisprudencial, violação dos arts.186, 187 e 927 do Código Civil e 6º, VI, do Código de Defesa do Consumidor. Defende a indenização por danos morais.
+Afirma que as partes firmaram contrato de compra e venda de um veículo.
+Sustenta que, em razão da demora da recorrida na entrega dos documentos do bem (136 dias), suportou danos morais indenizáveis.
+Narra que o carro foi roubado, motivo pelo qual outorgou procuração pública a recorrida, arcando com os custos, para somente apósreceber o documento de transferência e fazer prevalecer o seu direito em receber a apólice.
+Argumenta ainda que o entendimento do acórdão recorrido diverge do entendimento de julgados do TJRJ sobre a inexistência de danos morais indenizáveis.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões não foram apresentadas (fl.247) e o recurso especial foi inadmitido na origem (fls. 248-250).
+Não foi oferecida contraminuta ao agravo (fl. 266).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 211-212):
+A sentença é clara ao julgar a questão referente a danos causados pela demora na entrega de documentos, cuja consequência mais próxima é justamente a transferência do bem, tanto é que, houvesse a aludida transferência, o autor não teria que ter desembolsado o valor que ora persegue em juízo.
+No entanto, respeitado o entendimento do juízo a quo, observa-se que a demora na entrega dos documentos não imputável às restrições causadas pela pandemia de Covid-19 efetivamente gerou o dano pelo qual o autor busca ser ora ressarcido.
+Com efeito, as partes celebraram contrato de compra e venda em 20.01.2020 (fls. 16/18), com prazo de entrega do documento transferido de 30 dias (cláusula 13), salvo demora de tramitação perante o Detran, o que precisaria ser comprovado pela parte ré.
+Observado esse dever contratual, vê-se que prazo para entrega do referido documento se expiraria em19.02.2020, mais de um mês antes das restrições impostas em razão da pandemia de Covid-19, que desta forma, não pode servir de justificativa para atraso no cumprimento da obrigação, estando o vendedor em mora a partir dessa data, o que é corroborado pelas inúmeras tentativas de cobrança por parte do autor, tanto pessoalmente (fls. 51/60), como por meio do Procon (fls. 64/65), e até com a elaboração de boletim de ocorrência (fls.42/43), motivo pelo qual responde pelos prejuízos nos termos do art. 395, CC.
+No caso, sua mora - e consequente não transferência do veículo - levou à obrigação do ora apelante de fornecer à seguradora de seu veículo procuração pública, nos termos da cláusula 16.2. F do contrato de seguro para que recebesse a indenização securitária pleiteada (fls. 34), custeada pela própria parte, como se vê às fls. 47/49 e 148 dos autos.
+Destarte, comprovado o nexo entre a morada apelada e os danos materiais sofridos pelo apelante, se faz presente o dever de indenizar, nos termos do art. 403, CC.
+Do julgamento dos embargos de declaração, constou o seguinte (fls. 226-227):
+O acórdão comporta reparo apenas para constar que não merece prosperar o pedido do embargante referente à condenação em dano moral.
+ ..
+No presente caso, no entanto, não há prova inequívoca de fato suficiente a ocasionar constrangimento ou aborrecimento relevante, capaz de ferir a honra subjetiva do autor, não sendo suficientes as meras alegações de transtornos, desconforto e desprazeres.
+Não havendo na hipótese a ocorrência de grave transtorno, vergonha ou desgosto suportado pelo autor que fuja da normalidade a ponto de ocasionar inquietação ou desequilíbrio em sua vida íntima, mas, ao contrário, as circunstâncias do caso configuram apenas dissabores que não têm o condão de ofender a moral de uma pessoa comum, porquanto são próprios das relações em sociedade, máxime quando aparte indica, mas não comprova, a motivação do suposto dano extrapatrimonial, sendo insuficiente, na espécie, a mera alegação dos dissabores supostamente suportados.
+Em relação à violação dos arts. 186, 187 e 927do CC e 6º, VI, do CDC, considerando os trechos do acórdão ora transcritos, verifica-se que o Tribunal de origem, instância soberana na análise das provas, concluiu pela inexistência de danos morais indenizáveis.
+Dessa forma, rever os fundamentos adotados pela instância ordinária, notadamentequanto à presença ou não dos elementos que configuram o dano moral indenizável,demandaria a reavaliação do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face da Súmula n. 7 do STJ.
+A esse respeito, vejam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESTITUIÇÃO DE QUANTIA PAGA CUMULADA COM RESSARCIMENTO DE DANOS MATERIAIS E MORAIS. AUSÊNCIA DE PROVA. ÔNUS. DANO MORAL NÃO CONFIGURADO. PRETENSÕES RECURSAIS QUE ENVOLVEM O REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.(AgInt no AREsp n. 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/8/2020, DJe de 26/8/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. INVALIDEZ TOTAL E PERMANENTE. VALOR DA INDENIZAÇÃO. INFORMAÇÕES CONTRATUAIS CLARAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ. JUROS DE MORA. CITAÇÃO. SÚMULA 83/STJ. DANO MORAL. INEXISTÊNCIA. MERO DESCUMPRIMENTO CONTRATUAL. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. Concluindo o Tribunal de origem pela clareza das disposições contratuais, a modificação desse entendimento exige o reexame de matéria fática e das disposições contratuais, o que é inviável em sede de recurso especial.
+2. Segundo a jurisprudência do STJ, "nas ações que buscam o pagamento de indenização securitária, os juros de mora devem incidir a partir da data da citação da seguradora, visto tratar-se de eventual ilícito contratual" (AgInt no REsp 1.669.669/SC, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/3/2018, DJe de 5/4/2018).
+3. A jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais.
+4. O Tribunal de origem, examinando as circunstâncias da causa, concluiu pela inexistência de dano moral no caso, consignando que a autora não demonstrou a ocorrência de eventuais consequências gravosas decorrentes do inadimplemento contratual. A modificação desse entendimento demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial (Súmula 7/STJ).
+5. Agravo interno não provido.(AgInt no AREsp n. 1.512.579/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/10/2020, DJe de 16/11/2020.)
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre a parte agravante, pois a tese arguida em relação à alínea a do permissivo constitucional já foi afastada, tendo em vista a aplicação do óbice de reexame de prova (Súmula 7/STJ) nesta instância especial, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nessa linha de entendimento, confiram-se os seguintes julgados: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; e AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
