@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AVBRAS SPE EMPREENDIMENTOS IMOBILIÁRIOS AMERICANA LTDAe OUTRAS contra decisão que inadmitiu o recurso especial sob os fundamentos de que não foi demonstrada a alegada vulneração aos dispositivos arrolados e de ausência do devido cotejo analítico entre os acórdãos confrontados.
+Alega a parte agravante que é parte ilegítima quanto à baixa da hipoteca, já que (fl. 370):
+ ..  as agravantes nunca se recusaram a proceder com a baixa definitiva da hipoteca na matrícula do imóvel adquirido pelos agravados, tampouco a outorgar-lhes a escritura. Porém, ressalte-se que, para isso, era imprescindível a concordância e anuência do Banco Bradesco S/A, razão pela qual a baixa da hipoteca foi realizada em atraso.
+Afirma que, diante da apontada ilegitimidade, não cabe a condenação ao pagamento de multa pelo atraso no cumprimento da obrigação, frisando que "o procedimento estava sob o domínio único e exclusivo do Banco Bradesco S/A" (fl. 370).
+Impugna o valor da multa aplicada pelo juízo. Sustenta que o valor arbitrado é descomedido e excessivo, o que caracterizaria enriquecimento ilícito da parte recorrida.
+Aduz que o entendimento adotado na origem é contrário a posicionamentos proferidos por outros tribunais em casos análogos, especialmente o Tribunal de Justiça do Estado de Santa Catarina, que "entendeu por bem que a obrigação de cancelar a hipoteca dos imóveis dos adquirentes é exclusiva do Banco Credor" (fl. 373).
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na ausência de demonstração da alegada violação e do devido confronto analítico.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, limitando-se a reiterar as razões de mérito do recurso especial.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todosos fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Assim, tendo em vista que a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar todos os fundamentos da decisão agravada e, considerando o julgamento dos EAREsp n. 746.775, em 19/9/2018, em que a Corte Especial do STJ assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, deixo de majorar os honorários recursais uma vez que já fixados no patamar máximo de 20% sobre o valor dado à causa (art. 85, § 2º, CPC).
+Publique-se. Intimem-se.
