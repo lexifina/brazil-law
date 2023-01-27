@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANTONIO MARCELINO RIBEIRO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MG.
+Recurso especial interposto em: 5/5/2022.
+Concluso ao gabinete em: 20/10/2022.
+Ação: de busca e apreensão, ajuizada por BANCO J SAFRA S/A contra ANTONIO MARCELINO RIBEIRO. Atualmente, o processo se encontra em fase de cumprimento de sentença, na qual se objetiva o pagamento dos honorários advocatícios de sucumbência devidos pelo réu aos advogados do autor.
+Sentença: o Juízo de primeiro grau julgou extinto o processo, em razão da satisfação da obrigação (e-STJ fl. 113).
+Acórdão: o TJ/MG negou provimento à apelação interposta por ANTONIO, nos termos da seguinte ementa:
+APELAÇAO CIVEL - BUSCA E APREENSAO - CUMPRIMENTO DE SENTENÇA - CONTA POUPANÇA - DESVIRTUAÇAO - IMPENHORABILIDADE MITIGADA - HONORÁRIOS ADVOCATÍCIOS - VERBA ALIMENTAR
+A Súmula Vinculante nº 47 do Supremo Tribunal Federal e o artigo 85, § 14, do CPC, denotam a natureza alimentar dos honorários advocatícios, assim, regular a penhora sobre os valores existentes na conta bancária da parte apelante. Ainda, na hipótese dos autos, houve desvirtuação da conta poupança da parte insurgente.
+(e-STJ fl. 155)
+Embargos de Declaração: opostos por ANTONIO, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, § 14, 833, X e § 2º, do CPC/2015, além de dissídio jurisprudencial.
+Sustenta que "são impenhoráveis os valores poupados pelo devedor, seja em caderneta de poupança, conta corrente, fundo de investimentos ou em papel-moeda, até o limite de 40 salários mínimos" (e-STJ fl. 200-201).
+Aduz que "o fato de haver movimentações bancárias hipoteticamente típicas de conta corrente não implica, por si só, no desvirtuamento do que está sendo poupado" (e-STJ fl. 200).
+Assevera, ainda, que "os honorários advocatícios não se caracterizam como prestação alimentícia, abrangida pela exceção do art. 833, § 2º, do CPC, cujo conceito está restrito aos alimentos de natureza indenizatória ou aos fixados com fundamento no direito de família" (e-STJ fl. 205).
+Juízo prévio de admissibilidade: o TJ/MG admitiu o recurso
+É O RELATÓRIO. DECIDE-SE.
+1. Da impenhorabilidade da quantia bloqueada
+Consoante a jurisprudência dominante desta Corte, reveste-se da impenhorabilidade prevista no art. 833, X, do CPC/2015, a quantia de até 40 salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado em cada hipótese.
+Nesse sentido: EREsp 1.330.567/RS, Segunda Seção, DJe 19/12/2014; AgInt no REsp 1.991.091/DF, 3ª Turma, DJe 23/6/2022; AgInt no AREsp 2.191.093/RS, 2ª Turma, DJe 19/12/2022; AgInt no AREsp 2.222.902/RS, 1ª Turma, DJe 7/12/2022.
+Por sua vez, prevê o art. 833, § 2º, do CPC/2015, que a referida impenhorabilidade "não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem".
+No julgamento do REsp 1.815.055/SP (DJe 26/8/2020), a Corte Especial do STJ diferenciou os conceitos de "verba de natureza alimentar" e "prestação alimentícia", definindo que "uma verba tem natureza alimentar quando destinada à subsistência do credor e de sua família, mas apenas se constitui em prestação alimentícia aquela devida por quem tem a obrigação de prestar alimentos familiares, indenizatórios ou voluntários em favor de uma pessoa que, necessariamente, deles depende para sobreviver".
+Assim, no referido julgamento, restou pacificado na jurisprudência desta Corte que a exceção contida na primeira parte do art. 833, § 2º, do CPC/2015 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, ou seja, alimentos de origem familiar, indenizatória ou voluntária, não se estendendo às verbas de natureza alimentar em geral, dentre as quais se incluem os honorários advocatícios.
+Sob esse enfoque, o Tribunal de origem divergiu da jurisprudência dominante do STJ, ao afastar a impenhorabilidade da quantia depositada em conta poupança, sob os fundamentos de que o crédito tem natureza alimentar e de que a conta foi descaracterizada como conta poupança por haver movimentações.
+Portanto, o recurso merece ser provido.
+2. Do dissídio jurisprudencial
+Diante da análise do mérito em que foi acolhida, no ponto, a pretensão do recorrente, fica prejudicada a divergência jurisprudencial.
+DISPOSITIVO
+Forte nessas razões, com fundamento no art. 34, XVIII, "a" e "c", do RISTJ, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para (I) declarar a impenhorabilidade da quantia de até 40 salários mínimos poupada pelo recorrente, ressalvada eventual comprovação de abuso, má-fé ou fraude; e (II) por consequência, determino o retorno dos autos ao Juízo de primeiro grau, para prosseguir no cumprimento de sentença.
+Deixo de majorar honorários advocatícios, em virtude da ausência de condenação na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. FASE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. QUANTIA POUPADA EM PAPEL MOEDA, CONTA-CORRENTE, POUPANÇA OU FUNDO DE INVESTIMENTO. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. EXCEÇÃO DO ART. 833, § 2º, DO CPC/2015 PREVISTA APENAS PARA O PAGAMENTO DE PRESTAÇÃO ALIMENTÍCIA. DIFERENÇA EM RELAÇÃO À VERBA DE NATUREZA ALIMENTAR. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de busca e apreensão, atualmente em fase de cumprimento de sentença para o pagamento de honorários advocatícios de sucumbência, da qual foi extraído o presente recurso especial, interposto em 5/5/2022 e concluso ao gabinete em 20/10/2022.
+2. Consoante a jurisprudência dominante desta Corte, reveste-se da impenhorabilidade prevista no art. 833, X, do CPC/2015, a quantia de até 40 salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado em cada hipótese.
+3. No julgamento do REsp 1.815.055/SP (DJe 26/8/2020), a Corte Especial do STJ diferenciou os conceitos de "verba de natureza alimentar" e "prestação alimentícia", definindo que "uma verba tem natureza alimentar quando destinada à subsistência do credor e de sua família, mas apenas se constitui em prestação alimentícia aquela devida por quem tem a obrigação de prestar alimentos familiares, indenizatórios ou voluntários em favor de uma pessoa que, necessariamente, deles depende para sobreviver".
+4. Assim, restou pacificado na jurisprudência desta Corte que a exceção contida na primeira parte do art. 833, § 2º, do CPC/2015 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, ou seja, alimentos de origem familiar, indenizatória ou voluntária, não se estendendo às verbas de natureza alimentar em geral, dentre as quais se incluem os honorários advocatícios.
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para (I) declarar a impenhorabilidade da quantia de até 40 salários mínimos poupada pelo recorrente, ressalvada eventual comprovação de abuso, má-fé ou fraude; e (II) por consequência, determino o retorno dos autos ao Juízo de primeiro grau, para prosseguir no cumprimento de sentença.
