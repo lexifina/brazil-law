@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: de compensação por danos marais, ajuizada por NELCY OLIVEIRA SOARES (agravada), em face de BANCO DO BRASIL SA (agravante), na qual alega - em síntese - que é titular de conta corrente na agência do banco demandado da cidade de Querência do Norte/PR, sendo que desde o ano de 2016 o banco requerido vem sofrendo diversos assaltos, e que - desde então - passou a prestar alguns serviços de maneira precária, sendo que o último assalto teria ocorrido em 09 de agosto de 2017. Assevera que a conduta do requerido causou transtornos para a população, incluindo a requerente, sendo que para realizar atividades bancárias, precisou deslocar-se às cidades vizinhas, o que acarretou despesas extras, preocupações com assaltos e constrangimentos. Dessa forma, pleiteia a condenação do réu ao pagamento de compensação por danos morais no montante de R$ 15.000,00.
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial, em razão da:
+i) incidência da Súmula 7/STJ (arts. 12 e 14, §§ 2º e 3º, ambos do CDC);
+ii) incidência da Súmula 7/STJ (arts. 186, 187 e 927, todos do CC/02);
+iii) incidência da Súmula 7/STJ (quantificação da compensação por danos morais); e
+iv) prejudicialidade da análise da divergência jurisprudencial, em razão da incidência da Súmula 7/STJ.
+ARESP de BANCO DO BRASIL SA: limitando-se a afirmar, genericamente, que não pretende o reexame de fatos e provas dos autos, mas tão somente a revaloração jurídica dos mesmos, a par de reiterar as razões apresentadas quando da interposição do recurso especial e de sustentar a invasão da competência constitucional do STJ, a parte agravante não impugnou de maneira consistente, a inaplicabilidade dos seguintes óbices: incidência da Súmula 7/STJ (arts. 12 e 14, §§ 2º e 3º, ambos do CDC), incidência da Súmula 7/STJ (arts. 186, 187 e 927, todos do CC/02), incidência da Súmula 7/STJ (quantificação da compensação por danos morais) e prejudicialidade da análise da divergência jurisprudencial, em razão da incidência da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Cumpre salientar, que na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula 7/STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que, neste processo, não foi feito.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
