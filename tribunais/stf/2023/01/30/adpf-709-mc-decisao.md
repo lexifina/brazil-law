@@ -1,0 +1,21 @@
+Decisão:
+
+    1. Trata-se de manifestação do Grupo Temático (GT) de Saúde Indígena, composto pela Associação Brasileira de Saúde Coletiva (ABRASCO) e pela Fundação Oswaldo Cruz (FIOCRUZ), a respeito: (i) do cumprimento pela União da decisão de disponibilização dos dados de saúde por meio do OpenDATASUS; (ii) da razoabilidade da não publicação parcial de alguns dados, em respeito à privacidade de certas comunidades; (iii) do cumprimento do Plano Geral de Enfrentamento à COVID-19 para Povos Indígenas, com base nos 5º e 6º Relatórios de Monitoramento Trimestral sobre a execução de tal plano (Informação 5318/2023).
+
+    2. O GT reconhece que houve um “esforço de aprimoramento no tocante à apresentação e transparência dos dados”, por parte da Secretaria Especial de Saúde Indígena (SESAI) do Ministério da Saúde, possibilitado pela adoção da planilha com a matriz de indicadores estruturada pelo próprio GT e cuja adoção foi determinada pelo Juízo. Observa, contudo, que persistem imprecisões e resistências injustificáveis, que comprometem o esforço de análise dos dados de saúde e constituem “um flagrante obstáculo para um acesso amplo e irrestrito de dados produzidos por agências governamentais por parte da sociedade civil em geral, incluindo as próprias organizações indígenas” (fl. 5). Acrescenta, ainda, que tal situação gera um panorama falsamente favorável, que não corresponde à real situação sanitária de tais comunidades.
+
+    3. Nesse sentido, o GT observa que a existência de grupos diminutos de indígenas não impossibilita a ampla disponibilização dos dados tal como requeridos para as demais comunidades; e que, quanto a tais pequenos grupos, há possibilidades metodológicas de desidentificação para lidar com reduzidos contingentes populacionais, tal como aquela adotada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e indicada no documento do GT. Tais dados devem necessariamente incluir, entre outras já indicadas, as variáveis: de pertencimento ao SASI-SUS ou DSEI, desagregadas por sexo e idade, com a consideração da série histórica de tais dados, a fim de que se possa avaliar a evolução da pandemia.
+
+    4. O GT pondera, ainda, que cabe à União zelar pelo bom funcionamento dos links de informações disponibilizados no OpenDATASUS, entre eles: o link do 5º Relatório de Monitoramento Trimestral apresenta erro, assim como anexos do 6º  Relatório, impedindo o acesso à informação. É necessário, igualmente, organizar adequadamente os arquivos disponibilizados no OpenDATASUS e nomeá-los, tal como se faz para o universo dos demais cidadãos brasileiros, para que não haja uma barreira adicional para a análise da situação de saúde indígena.
+
+    5. Observa, por fim, que o aperfeiçoamento de sistemas de informação em saúde envolve processos que, em geral, são temporalmente longos, razão pela qual requer que a intensa produção de documentos e troca de comentários gerada no âmbito desta ADPF vá sendo cumulativamente consolidada, de modo a estabelecer um protocolo de referência para a melhoria da “produção, análise, interpretação e divulgação de dados e informações no âmbito do SASI-SUS”. Registra, ainda, a necessidade de capacitação técnico-científica da área de formação em saúde indígena e de incorporação da longa expertise acumulada pelas demais áreas de vigilância do Ministério da Saúde.
+
+    6. À luz das considerações do GT formado por ABRASCO e FIOCRUZ, determino à União: (i) a disponibilização dos dados com todos os níveis de desagregação já requeridos em planilha estruturada pelo GT; (ii) a desindentificação daqueles grupos que apresentem contingente reduzido com base nas melhores opções metodológicas existentes; (iii) a correção de erros e organização dos arquivos do OpenDATASUS nos mesmos termos e padrões adotados para os demais cidadãos brasileiros; (iv) a progressiva consolidação de um protocolo de referência que com as orientações traçadas nesta ação; (v) a incorporação à SESAI do know-how acumulado pelas demais áreas do Ministério da Saúde; e (vi) a promoção de capacitação dos servidores da SESAI na matéria.
+
+    7. Tais medidas deverão ser providenciadas pela União, em permanente interlocução com o GT, no prazo de 30 (trinta) dias, contados da ciência desta decisão. Publique-se. Intime-se.
+
+Brasília, 30 de janeiro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
