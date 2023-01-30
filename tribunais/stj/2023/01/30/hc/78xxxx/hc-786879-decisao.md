@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de Matheus Gabriel Silveira Vieira, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos (n. 5001052-70.2021.8.21.3001/RS) que o paciente foi condenadopela 2ª Vara Criminal do Foro Regional do Partenon, da Comarca de Porto Alegre,como incurso no art. art. 33, caput,da Lei nº 11.343/06, à pena de 2 anos e 6 meses de reclusão, e 250 dias-multa, em face da apreensão de9g de crack, 6g de cocaína e40g de maconha, além de rádio comunicador e a quantia de R$ 334,00 (trezentos e trinta e quatro reais) - fls. 20/26.
+Em sede de apelação (nº 5001052-70.2021.8.21.3001/RS), a Primeira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, por maioria de votos, deu provimento ao apelo ministeriale negou provimento ao recurso da defesa, alterando a pena do paciente para 6 anos e 6 meses de reclusão, em regime semiaberto, e 650 dias-multa (fls. 8/19).
+Opostos embargos infringentes, ainda se encontram pendentes de julgamento. Em 13/12/2022, o recurso encontrava-se aguardando vista ao Ministério Público para parecer.
+No presente writ, a defesa requer seja aplicada a causa de diminuição da pena, prevista no art. 33, §4º, da Lei de Drogas (fls. 3/7).
+Indeferi a liminar (fls. 436/437).
+Parecer ministerialopinando pela denegação da ordem (fls. 452/455).
+É o relatório.
+Na sentença, a pena-base foi fixada no piso mínimo de 5 anos de reclusão e 500 dias-multa. Não houve o reconhecimento de agravantes ou atenuantes. Na terceira fase, o Magistrado reconheceu a causa de diminuição da pena, prevista no art. 33, §4º, da Lei de Drogas, e a pena se tornou definitiva em 2 anos e 6 meses de reclusão, e 250 dias-multa.
+Em sede de apelação, a Corte local elevou a pena-base para 6 anos e 6 meses de reclusão, e 650 dias-multa, diante da expressiva quantidade de drogas, nos termos do art. 42 da Lei de Drogas.
+Entendo que razão assiste à defesa, pois a quantidade de drogas (9g de crack, 6g de cocaína e 40g de maconha) não se mostrou excessivaa ponto de exasperar a pena-base. Para que o paciente seja incurso no delito de tráfico de drogas, alguma quantidade de substância entorpecente deve ser apreendida. No caso, mostra-se bastante razoável que a pena-base seja fixada no mínimo legal, por ser o paciente primário, sem antecedentes e por não ser excessiva a quantidade de drogas.
+O Tribunal estadual também afasfou o privilégio, nos seguintes termos (fl. 17):
+ ..
+Quanto ao apenamento, assiste razão ao Ministério Público ao demandar o afastamento da minorante, tendo em vista que o réu foi preso em flagrante em região dominada pelo narcotráfico, de maneira que, se não estivesse associado à organização criminosa dominante, não poderia comercializar entorpecentes, e na posse de um rádio comunicador, seguramente para se comunicar com os outros integrantes do bando que atuavam no local. Não fosse o bastante, desde menor de idade ostenta inúmeros envolvimentos com a justiça criminal, como bem destacado nas razões recursais ministeriais, circunstância que comprova dedicação a atividades criminosas.
+ ..
+O fato de a apreensão das drogas ter ocorrido em local conhecido como região dominadapelo tráfico, por si só, não leva à conclusão de que há dedicação à atividade criminosa. A quantidade de drogas não se mostrou excessiva. No entanto, houve a apreensão de um rádio transmissor também. Nesses termos, entendo que não é o caso de ser aplicada a fração de 2/3, como feito na sentença, porém, deve ser reconhecida a causa de diminuição da pena, na fração de 1/3, por ser o paciente primário e sem antecedentes. Assim, a pena final se torna agora definitiva em 3 anos e 4 meses de reclusão, e 333 dias-multa. Por não ser o paciente reincidente, possível a fixação no regime aberto e substituída a pena privativa por duas restritivas de direito.
+Ante o exposto, concedo a ordem de habeas corpus, em parte, para redimensionar a pena do paciente para 3 anos e 4 meses de reclusão, em regime aberto,e 333 dias-multa. Determino ainda a substituição da pena privativa por duas restritivas de direito, a serem definidas no Juízo da Execução.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. DEVIDA A PENA-BASE FIXADA NO PISO MÍNIMO. 9G DE CRACK, 6G DE COCAÍNA E 40G DE MACONHA, ALÉM DE RÁDIO COMUNICADOR E A QUANTIA DE R$ 334,00 (TREZENTOS E TRINTA E QUATRO REAIS). PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA, ART. 33, § 4º, DA LEI DE DROGAS. POSSIBILIDADE NA FRAÇÃO DE 1/3.
+Ordem concedida, em parte, nos termos do dispositivo.
