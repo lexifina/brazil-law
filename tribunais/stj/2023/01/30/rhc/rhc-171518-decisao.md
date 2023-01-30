@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por BRUNO SANTOS FRANCAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, assim ementado:
+"AGRAVO INTERNO. HABEAS CORPUS NÃO CONHECIDO. MERA REITERAÇÃO DE ARGUMENTOS. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO DESPROVIDO. 1) Correto o provimento judicial que monocraticamente não conhece de habeas corpus que veicula mera reiteração de matéria já deduzida em Writ anterior. 2) Agravo interno conhecido e, no mérito, desprovido, para manter, na íntegra, a decisão monocrática vergastada."
+Colhe-se dos autos que o recorrenteo recorrente foi condenado pela prática dos delitos previstos no art. 33 da Lei11.343/2006 e no art. 306 da Lei9.503/1997, às penas de 5 (cinco) anos de reclusão em regime inicial fechado, 6 (seis) meses de detenção em regime inicial semiaberto e 510 (quinhentos e dez) dias-multa.
+O recurso de apelação interposto pela defesa não foi recebido pelo juízo criminalem razão de sua intempestividade. A defesa impetrou habeas corpus perante a Corte de origem, tendo o relatornão conhecido do writpor se tratar demera reiteração de impetração anterior.
+Neste recurso, o recorrente sustenta, em síntese, que que sofre constrangimento ilegal ao argumento de que não foi intimado pessoalmente da sentença condenatória, motivo pelo qual seria tempestiva a apelação interposta após a realização de tal ato.
+O Ministério Público Federal opinou pelodesprovimento do recurso.
+É o relatório.
+Decido.
+De início, verifica-se que o Tribunal de origem, ao julgar o writ originário não tratou do recebimento da apelaçãopor ser tempestiva enegou provimento ao agravo interno para manter a decisão que não conheceu da ordem ali impetrada sob o fundamento de que se trata de mera reiteração de writ anterior.
+Assim, conclui-se que a matérianão foi debatida pelo Tribunal de origem no julgamento do writ originário, o que impede o seu conhecimento por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância, consoante pacífico entendimento desta Corte:
+"Na hipótese dos autos, a irresignação da defesa não foi debatida na instância ordinária. Essa circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância." (AgRg no HC 696.456/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 7/12/2021, DJe 10/12/2021).
+"A alegação de excesso de prazo na formação da culpa não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância." (HC 688.785/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 7/12/2021, DJe 13/12/2021).
+"A Corte local não examinou o argumento de que a situação dos autos se encaixa nos casos previstos pela Recomendação n. 62/2020 para a concessão de liberdade, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância." (AgRg no HC 703.060/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/11/2021, DJe 25/11/2021).
+"O acórdão da origem não se manifestou sobre os critérios empregados na primeira fase da dosimetria da pena. Não pode este Superior Tribunal de Justiça se pronunciar, originariamente, sobre questão não devolvida à Corte de origem, sob pena de incorrer em indevida supressão de instância." (AgRg no HC 686.839/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 9/11/2021, DJe 12/11/2021).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
