@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Joao Vitor dos Santos, condenado à pena de 3 anos, 8 meses e 10 dias de reclusão, em regime inicial semiaberto, por tráfico de entorpecentes, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Habeas Corpus n. 2146741-09.2022.8.26.0000/SP).
+O impetrante alega, em síntese, que, de forma indevida, a guarda municipal, no caso, usurpou a função da polícia judiciária, em exorbitância dos poderes atribuídos no art. 144, § 8º, da Constituição da República, a provocar a nulidade da investigação realizada (fls. 3/18).
+Pede, em caráter liminar e no mérito, o seguinte (fl. 18):
+ ..
+Diante do exposto, requer-se seja distribuído e autuado o presente "writ" e que de forma LIMINAR, seja suspensa a prisão preventiva cautelar imposta ao paciente nos autos do Processo-crime nº 1500451-18.2022.8.26.0571, ora em curso perante o Juízo de Direito da 1ª Vara Criminal da Comarca de Tatuí/SP e por conseguinte, expedindo-se, imediatamente, em seu favor, o competente ALVARÁ DE SOLTURA.
+ ..
+Informações prestadas às fls. 542/566.
+O Ministério Público Federal, às fls. 568/570, opinou pelo não conhecimento do writ.
+É o relatório.
+Em suma, busca-se, neste mandamus, a declaração de nulidadedas provas obtidas mediante suposta revista ilegale,consequentemente, a absolvição do paciente.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, nojulgamento do HC n. 598.051/SP, assentou que o ingresso irregular emdomicílio alheio e busca pessoal é possível apenas quando o contexto fático anterior àinvasão ou revista permitir a conclusão acerca da ocorrência de crime - cuja urgência em sua cessação demande ação imediata -,definindo condições e procedimentos para ingresso domiciliar (ou revista pessoal)semautorização judicial, a saber:
+ ..
+1. Na hipótese de suspeita de crime em flagrante, exige-se, em termos destandard probatório para ingresso no domicílio do suspeito sem mandadojudicial, a existência de fundadas razões (justa causa), aferidas de modoobjetivo e devidamente justificadas, de maneira a indicar que dentro dacasa ocorre situação de flagrante delito.
+2. O tráfico ilícito de entorpecentes, em que pese ser classificado comocrime de natureza permanente, nem sempre autoriza a entrada sem mandado nodomicílio onde supostamente se encontra a droga. Apenas será permitido oingresso em situações de urgência, quando se concluir que do atrasodecorrente da obtenção de mandado judicial se possa objetiva econcretamente inferir que a prova do crime (ou a própria droga) serádestruída ou ocultada.
+3. O consentimento do morador, para validar o ingresso de agentes estataisem sua casa e a busca e apreensão de objetos relacionados ao crime,precisa ser voluntário e livre de qualquer tipo de constrangimento oucoação.
+4. A prova da legalidade e da voluntariedade do consentimento para oingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado,e deve ser registrada em áudio-vídeo epreservada tal prova enquanto durar o processo.
+5. A violação a essas regras e condições legais e constitucionais para oingresso no domicílio alheio resulta na ilicitude das provas obtidas emdecorrência da medida, bem como das demais provas que dela decorrerem emrelação de causalidade, sem prejuízo de eventual responsabilização penaldo(s) agente(s) público(s) que tenha(m) realizado a diligência.(HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe15/3/2021)
+ ..
+Erigida essa premissa, da atenta leitura dos autos, denota-se que amoldura fática delineada na sentença condenatóriaé de que,após denúncia anônima, os policiais se dirigiram ao local informado e, ao avistarem o paciente, revistaram-no e encontraram 14 porções de maconha(fl. 140).
+Na sentença condenatória, o quadro fático é descrito da seguinte forma (fl. 140):
+ ..
+Guardas Civis Municipais estavam em serviço quando receberam informação de um popular dando conta de que JOÃO VITORestavavendendodrogasnasproximidadesdo"Bardo Gordo"eforneceuascaracterísticasdesuasvestes(bermudaecamisetapretas). De imediato, os Guardas se dirigiram para alocal indicado e, lá chegando, avistaram JOÃO VITORcuja vestimenta correspondia àquela descrita na delação e deliberaram pela abordagem. Na ocasião, o réu estava conversando com outros dois indivíduos, que foram liberados após revista pessoal, eis que nada de ilícito com eles foi encontrado. Assim é que, efetuada a abordagem, em busca pessoal, os Guardas lograram encontrar 14 porções de "maconha" em poder do acusado, individualmente embaladas e prontas para serem comercializadas, drogas que pertenciam a JOÃO VÍTOR e estavam destinadas à venda.
+ ..
+Percebe-se, dos trechostranscritos, que, na espécie, a açãopolicial não foi legitimada pela existência de fundadas razões - justacausa - para a revista pessoal do paciente (fls. 138/148).
+Pode-se verificarque os policiais revistaram o paciente apenas em razão de uma denúncia anônima, não havendo a indicação denenhuma diligência investigatória preliminar apta a demonstrar elementosmais robustos da ocorrência do tráfico e naquele momento.
+Segundo entendimento desta Corte Superior, as circunstâncias que antecederem aviolação do domicílio ou busca pessoal devem evidenciar, de modosatisfatório e objetivo,as fundadas razões que justifiquem tal diligência e a eventual prisão emflagrante do suspeito, as quais, portanto, não podem derivar de simplesdenúncia anônima.
+Ademais, o fato de o crime de tráfico de drogas ser delito permanente, também não constitui fundamento idôneo para tanto.
+Tal o contexto, é ilícita a prova obtida na diligência em comento,bem como aquelas que dela derivaram (art. 157, § 1º, do CPP).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. BUSCA PESSOAL. ILICITUDE DAS PROVAS. GUARDA MUNICIPAL CIVIL. REVISTA PESSOAL. EXTRAPOLAÇÃO DE COMPETÊNCIA AUSÊNCIA DE FUNDADAS RAZÕES. JUSTA CAUSA NÃO VERIFICADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ABSOLVIÇÃO.
+1. Conforme a jurisprudência desta Corte Superior, considera-se ilícita a busca pessoal e domiciliar executada sem a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. 240 do CPP, bem como a prova dela derivada, não sendo razoável considerar que o nervosismo do acusado ao avistar a autoridade policial, por si só, enquadre-se na excepcionalidade da revista pessoal ocorrida em seguida.
+2. Na espécie, não ficou evidenciada a situação de flagrância. Não consta dos autos que o paciente estivesse comercializando drogas no momento da abordagem, mas apenas andando pela rua com uma bolsa, em local conhecido como ponto de tráfico e, segundo análise subjetiva de guardas civis, apresentou atitude suspeita ao tentar fugir.
+Somente após a realização de revista pessoal, em típica atividade de polícia ostensiva, é que os guardas municipais localizaram entorpecentes em poder do acusado, extrapolando a competência constitucional (art. 144, § 8º, da CF) e legal (Lei n. 13.022/2014 - Estatuto Geral das Guardas Municipais) prevista para as guardas civis municipais, que possuem por atribuição a proteção dos bens, serviços e instalações do município.
+3. A descoberta de objetos ilícitos a posteriori não convalida a abordagem policial, menos ainda da guarda municipal. Se não havia fundada suspeita de que a pessoa estava na posse de droga ou de objetos ou papéis que constituam corpo de delito, não há como se admitir que a mera descoberta casual de situação de flagrância, posterior à revista do indivíduo, justifique a medida, devendo ser reconhecida a ilegalidade por ilicitude da prova, com a absolvição do paciente da imputação constante na denúncia.
+4. Agravo regimental improvido.
+(AgRg no HC n. 733.439/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+Logo, é o caso de anular a condenação e, desde logo, absolver o pacientecom fundamento no art. 386, II, do Código de Processo Penal, pois inexiste provaindependente daquela tida como ilícita apta a manter a condenação pelocrime de tráfico de drogas.
+Ante o exposto, concedo a ordempara reconhecer a nulidade do flagrante em razão da indevida busca pessoale, por conseguinte, das provas obtidas em derivação,bem como para absolver o paciente dos fatos delineados na Ação Penal n. 1500451-18.2022.8.26.0571.
+Intime-se o Ministério Público estadual.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. PLEITO DE NULIDADE. ALEGAÇÃO DE INDEVIDA REVISTA PESSOAL.CONTEXTO FÁTICO ANTERIOR. JUSTA CAUSA. AUSÊNCIA.PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
