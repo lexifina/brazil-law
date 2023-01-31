@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por J. F. EMPREENDIMENTOS IMOBILIÁRIOS LTDAcontra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 4015083-74.2013.8.26.0602) em acórdão assim ementado (fl. 195):
+PRESCRIÇÃO - DECADÊNCIA - RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA - PEDIDO FORMULADO QUANDO JÁ ULTRAPASSADO O PRAZO PREVISTO PARA COBRANÇA DAS PARCELAS INADIMPLIDAS - CONTAGEM DO PRAZO QUE DEVE OBSERVAR O LIMITE ESTABELECIDO PARA A AÇÃO DE COBRANÇA - RECURSO NÃO PROVIDO - Prescrita a ação destinada à cobrança das parcelas de contrato de compromisso de compra e venda de imóvel, o próprio direito da vendedora de buscar a resolução do contrato deve ser reconhecido como atingido, porque o fundamento do pedido resolutório está exatamente no inadimplemento contratual.
+Os embargos de declaração opostos foram rejeitados (fls. 213-215).
+Nas razões do recurso especial, o ora agravante aponta violação dos seguintes artigos: a) 205 do Código Civil, sustentando que o direito de resolução do negócio jurídico se sujeita ao prazo decadencial, visto que a lei não estipula prazo na rescisão contratual. Aduz que o pretendido é a rescisão contratual e a reintegração de posse e não a cobrança de dívida; eb) 8º do Código de Processo Civil, argumentando que a "decisão recorrida suprime expressamente o direito da recorrente em ter o contrato rescindido ante o inadimplemento da recorrida" (fl. 205).
+Alega que(fl. 205):
+O início do prazo prescricional de 10 anos somente se operou quando do vencimento da última parcela do contrato (renegociação), ou seja, 23.02.2006. Assim, teria a recorrente, como termo final para perseguir seu direito a prestação jurisdicional para rescisão do contrato a data de 23.02.2016, nos termos do artigo 199, II do Código Civil.
+Requer o provimento do recurso a fim de que seja reconhecida a violação dos arts. 205 do CC e 8º do CPC, afastando a prescrição, remetendo-se os autos à origem para julgamento e apreciação das demais matérias objeto do recurso de apelação.
+As contrarrazões foram apresentadas às fls. 220-226.
+Inadmitido o apelo extremo, às fls. 227-228, os autos ascenderam a esta Corte.
+É o relatório. Decido.
+O recurso não merece prosperar.
+No juízo de primeiro,foi julgada improcedente a ação de rescisão de contrato cumulada com pedido de reintegração de posse e indenização por perdas e danosrelativa a contrato de promessa de compra e venda de imóvel.
+O Tribunal de origem manteve a sentença e consignou o seguinte a respeito da questão suscitada (fls. 196-198):
+2- As partes firmaram o compromisso de compra e venda em 14 de setembro de 1996 e o contrato previa o pagamento de parcelas mensais que deixaram de ser adimplidas a partir de dezembro de 2007.
+Diante da mora os requerentes ingressaram com ação de execução, contudo, a ação fora proposta por terceiro que não ostentava legitimidade, diante do que foi extinta, não produzindo qualquer efeito interruptivo da prescrição.
+A parcela que gerou o inadimplemento venceu em maio de 2001.
+Não houve notificação hábil para interrupção da prescrição.
+O art. 475 do Código Civil permite ao contratante lesado pelo inadimplemento do contrato pedir a resolução ou exigir o cumprimento.
+Para o caso específico de prestações líquidas e certas constantes de instrumento particular, como é o caso dos autos, a pretensão de ver satisfeito o pagamento prescreve em cinco anos contados do vencimento da obrigação.
+Não há dúvida de que esse prazo foi ultrapassado, sem que houvesse causa obstativa da contagem, não havendo mais possibilidade de buscar o pagamento das prestações devidas.
+Disso decorre que a requerente não pode mais exigir o pagamento e o direito de resolução do contrato, nada obstante não possua prazo prescricional específico (na verdade seria decadencial), está inegavelmente ligado ao direito de crédito, de modo que prescrita a pretensão de cobrança, a pretensão resolutória perdeu seu alicerce.
+ ..
+Prescrita a ação destinada à cobrança das parcelas de contrato de compromisso de compra e venda de imóvel, o próprio direito da vendedora de buscar a resolução do contrato deve ser reconhecido como atingido, porque o fundamento do pedido resolutório está exatamente no inadimplemento contratual.
+3- Ante o exposto, NEGA-SE PROVIMENTO AO RECURSO. Não há acréscimo na sucumbência que já foi fixada no máximo.
+A Corte local rejeitou os embargos de declaração por entender que foram opostos com "intuito infringente e prequestionador da embargante, a buscar a modificação do julgado e a interposição de recurso perante a Tribunal Superior" (fl. 215).
+No tocante ao prazo prescricional decenal para a cobrança da pretensão de rescisão contratual(item a)verifica-se que o Tribunal a quo, instância soberana na análise das provas, concluiu que houve a prescrição da (fl. 198):
+ ..  ação destinada à cobrança das parcelas de contrato de compromisso de compra e venda de imóvel, o próprio direito da vendedora de buscar a resolução do contrato deve ser reconhecido como atingido, porque o fundamento do pedido resolutório está exatamente no inadimplemento contratual.
+Nesse contexto, rever os fundamentos que embasaram essa conclusão, é necessária a incursão no conjunto fático-probatório dos autos e interpretação de cláusulas contratuais, o que é inviável nesta instância especial em face do óbicedas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM REINTEGRAÇÃO DE POSSE. BENS IMÓVEIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. MOTIVAÇÃO EM PARTE NÃO COMBATIDA. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULAS 283/STF E 5, 7, 83 E 182/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil de 1973.
+2. É inadmissível o recurso especial que não impugna fundamentos do acórdão recorrido aptos, por si sós, a manter a conclusão a que chegou a Corte estadual (Enunciado 283 da Súmula do STF).
+3. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+4. As questões jurídicas apreciadas pelo Tribunal de origem se amoldam à jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+6. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.755.571/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. PROGRAMA HABITACIONAL. PEDIDO DE RESCISÃO CONTRATUAL CUMULADO COM REINTEGRAÇÃO DE POSSE. ENRIQUECIMENTO ILÍCITO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. CARÁTER SOCIAL. FUNDAMENTO NÃO ATACADO. APLICAÇÃO DAS SÚMULAS 5 E 7 DO STJ E 283 DO STF.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. É inadmissível o recurso especial que não impugna especificamente o fundamento do acórdão recorrido, suficiente, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283 do STF).
+3. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.117.615/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/8/2021, DJe de 18/8/2021.)
+Além disso, estando o entendimento da Corte local em consonância com a jurisprudência assente nesta Corte Superior, impõe-se aincidência daSúmula n. 83/STJ. A esse respeito, confiram-se os julgados a seguir:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. PRETENSÃO DECORRENTE DE INADIMPLEMENTO CONTRATUAL. PRAZO. DECENAL. OCORRÊNCIA. AUSÊNCIA DO ELEMENTO OBJETIVO QUE SUSTENTA O PEDIDO DE RESOLUÇÃO DO CONTRATO. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+3. Com efeito, já decidiu esta Corte que "Se o pedido de resolução se funda no inadimplemento de determinada parcela, a prescrição da pretensão de exigir o respectivo pagamento prejudica, em consequência, o direito de exigir a extinção do contrato com base na mesma causa, ante a ausência do elemento objetivo que dá suporte fático ao pleito. (REsp 1728372/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/03/2019, DJe 22/03/2019).
+4. Agravo interno não provido.(AgInt no AREsp n. 1.589.393/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2021, DJe de 5/8/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. RESCISÃO DO CONTRATO E REINTEGRAÇÃO DE POSSE. IMPOSSIBILIDADE. PRESCRIÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação do art. 535 do CPC/1973, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O entendimento desta Corte dispõe que, "se o pedido de resolução se funda no inadimplemento de determinada parcela, a prescrição da pretensão de exigir o respectivo pagamento prejudica, em consequência, o direito de exigir a extinção do contrato com base na mesma causa, ante a ausência do elemento objetivo que dá suporte fático ao pleito" (REsp n. 1.728.372/DF, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/3/2019, DJe 22/3/2019).
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. Agravo interno desprovido.(AgInt no REsp n. 1.538.176/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021.)
+Quanto à alegada violação do art. 8º do Código de Processo Civil (item b)observa-se que somente foi suscitadaem sede de aclaratórios com o intuito de prequestionar a matéria, estando ausente o enfrentamento da matéria pelo acórdão recorrido.
+Ademais, oreferido dispositivo prevê que "Ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência".
+Nesse contexto, o argumento apresentado pelo ora agravante, por se revelar deficiente,não é hábilpara infirmarosfundamentos que embasam oacórdão recorrido, o que atraí a aplicação da Súmula n. 284 do STF.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance daverba arbitrada na instância de origem do limiteprevisto no § 2º do referido artigo.
+Publique-se. Intimem-se.
