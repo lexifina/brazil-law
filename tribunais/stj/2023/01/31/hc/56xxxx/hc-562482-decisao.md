@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Edson Rodrigues Albano, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Infere-se dos autos que o Juízo de Direito do Departamento Estadual de Execução Criminal da 5ª Região Administrativa Judiciária (DEECRIM - 5ª RAJ) da comarca de Presidente Prudente/SP, no PEC n. 0000368-44.2017.8.26.0509, reconhecendo a prática de falta disciplinar de natureza grave, determinou a perda de 1/3 dos dias eventualmente remidos antes da indisciplina e o reinício do cálculo de liquidação de penas para fins do benefício da progressão de regime (fls. 61/63).
+Irresignada, a defesa interpôs o Agravo de Execução Penal n. 0014335-82.2019.8.26.0996 (fls. 98/104), objetivando, preliminarmente, a nulidade da decisão por ausência de fundamentação e, no mérito, pugnou pela absolvição por insuficiência probatória, atipicidade da conduta e indevida responsabilização por ato de terceiro; subsidiariamente, pleiteou, ainda, a desclassificação para infração de natureza média e, se assim não fosse, requereu a exclusão ou redução do prejuízo à remição ao mínimo de 1 dia. Os integrantes da Décima Segunda Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, por maioria de votos, deram parcial provimento ao recurso para reduzir a 1/6 a revogação do tempo remido decretada em decorrência da falta disciplinar de 3/8/2019, nos termos da seguinte ementa (fl. 99):
+Agravo em Execução Penal - Recurso defensivo.
+Nulidade - Não ocorrência - Sentença fundamentada.
+Falta grave - Visitante flagrado com droga ao tentar ingressar na penitenciária - Confissão do pedido pelo detento - Punição por ato próprio, não de terceiro - Suficiência probatória e tipicidade da conduta - Posse de entorpecente para uso próprio - "Abolitio criminis" e desproporcionalidade da punição - Não ocorrência.
+Remição - Redução do desconto.
+Parcial provimento ao recurso.
+Sobreveio, então, o presente writ, no qual o impetrante aponta ofensa ao princípio da pessoalidade, pois a tentativa de ingresso de droga no estabelecimento prisional foi praticada por terceiro, de modo que não há falta a ser apurada.
+Argumenta, ademais, que a posse da droga para uso próprio não caracteriza fato previsto como crime doloso. Se mantida a falta, a sanção deve ser proporcional e desclassificada para natureza média.
+Sustenta, por fim, ausência de fundamentação para a decretação da fraçãode 1/3 para a perda dos dias remidos.
+Ao final,requer(fls. 12/13):
+a) a imediata concessão do provimento liminar para afastar, desde já, a falta grave aplicada;
+ ..
+d) a final e total procedência da presente ordem de habeas corpus, confirmando-se a liminar, para anular o acórdão atacado e conceder ao Paciente o afastamento da falta grave aplicada, determinando que a perda dos dias remidos se dê no mínimo legal de 1 dia.
+Liminar indeferida (fls. 107/110).
+Prestadas as informações (fls. 118/120 e 122/130), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 137/140).
+É o relatório.
+Está sob discussão no presente writ: (i) o afastamento da falta disciplinar de natureza grave cometida por ato de terceiro; e (ii) a ausência de fundamentação para a decretação dopercentual de 1/3 para aperda dos dias remidos.
+Relativamente à configuração da falta disciplinar de natureza grave,o Tribunal a quo consignou o seguinte (Agravo de Execução Penal n. 0014335-82.2019.8.26.0996 - fls. 100/103 - grifo nosso):
+ ..
+A sentença não padece de falta de motivação. Ao contrário, consignando a rendição do recluso e os relatos coerentes dos carcereiros, explicitou a razão pela qual reputou configurada a falta grave imputada. Como se vê, permitiu-se às partes perfeito conhecimento do raciocínio desenvolvido, tanto que nenhuma dificuldade encontrou o agravante para impugná-la.
+2. Consta do comunicado de evento de fl. 34 que, em 3.8.2019, Luiz Antônio Sabino Barreto, companheiro do agravante, tentou ingressar com porções de maconha na Penitenciária de Tupi Paulista.
+Isolado preventivamente e ouvido em sindicância, o reeducando confessou que, em vistas anteriores, pedira a Luiz Antônio maconha para consumo pessoal. É usuário de drogas há mais de vinte anos. Pagaria mil reais ao companheiro (fls. 40 e 59).
+Luiz Antônio assumiu que pretendia entregar a maconha ao namorado. Mantinha a erva em casa desde a época em que traficava. Tentou entrar com a substância no presídio para que Edson desse a ela o destino que desejasse, "consumo ou revenda". Receberia R$1.000,00 pela encomenda (fls. 55 e 62).
+Agentes penitenciários confirmaram o encontro do entorpecente em poder do visitante. Durante revista mecânica, apuraram "algo incomum". Questionado a respeito, Luiz Antônio admitiu transportar porções de maconha na cueca e em "top", bem como que o fazia a pedido do companheiro (fls. 57/58).
+Concluída a sindicância e entendido que o agravante cometera falta de natureza grave, impuseram-se as sanções de trinta dias de isolamento celular e de suspensão de regalias pelo mesmo período, por infringência ao art. 52, "caput", c.c. art. 49, parágrafo único, ambos da LEP (fls. 71/73).
+O Magistrado determinou a anotação da indisciplina (fls. 77/79).
+E o fez com acerto.
+Diversamente do sustentado pela defesa, suficientemente demonstrada a destinação da substância apreendida.
+Com efeito, Edson confessou ter pedido maconha ao companheiro. Este, por sua vez, nas duas oportunidades em que ouvido, garantiu que tentou ingressar no presídio com o material proibido para entregá-lo ao detento. Os agentes de segurança também mencionaram que Luiz Antônio atendida a solicitação do agravante.
+Ademais, não houve descriminalização do comportamento de portar substância entorpecente para uso próprio.
+A nova lei antidrogas não deixou de prever como crime o ato de possuir substância entorpecente para uso pessoal. Ao revés, expressamente o descreveu no "caput" do art. 28, cominando para a infração as penas de advertência sobre os efeitos das drogas, prestação de serviços à comunidade e medida educativa de comparecimento a programa ou curso educativo.
+ ..
+Em decorrência, a manutenção da falta grave no prontuário do detento é de rigor, não havendo que se falar em insuficiência probatória, atipicidade da conduta ou em desclassificação para infração média.
+ ..
+Pois bem. Não há constrangimento ilegal a ser sanado na presente via.
+Como se sabe,esta Corte Superior tem entendimento no sentido de que, em razão do princípio da intranscendênciapenal, a imposição de falta disciplinar de natureza grave grave ao executado, portransgressão realizada por terceiro, deve ser afastada quando não comprovada sua autoria, através de elementos concretos. (AgRg no HC n. 752.202/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/9/2022 - grifo nosso).
+No entanto, é possível a responsabilização do reeducando por fato praticado por terceiro, desde que sejam evidenciados indícios mínimos de participação quanto à prática do ato, baseada em elementos concretos e não apenas em meras presunções.
+In casu,crível a existência de ajuste prévio entre o apenado e seu companheiro quanto ao fato apurado, havendo sim a indicação concreta de indícios mínimos em relação a tal ajuste, consoante perfeitamente demonstradono acórdão impugnado que assimconsignou:ouvido em sindicância, o reeducando confessou que, em visitas anteriores, pedira a Luiz Antônio maconha para consumo pessoal. É usuário de drogas há mais de vinte anos. Pagaria mil reais ao companheiro(fl. 100 - grifo nosso);Edson confessou ter pedido maconha ao companheiro(fl. 101 - grifo nosso).
+Portanto, a responsabilização do paciente deve ser a ele extensiva, haja vista que deu-se não por meio de meras ilações, mas por comprovação de prévia solicitação e efetivo conhecimento de sua parte quanto à tentativa de introdução de substância estupefaciente no interior do estabelecimento prisional.
+Quanto aos dias remidos, há que se pontuar que oreclamo da defesa não se revela apto, já que, a despeito de alegar, à fl. 10,ilegalidade naaplicação do percentual de 1/3 (fl. 10), este quantum não mais subsiste, uma vez que houve por parte do Tribunal deJustiça de São Paulo a redução da fração para 1/6, conforme se extrai do seguinte trecho:Cabível, porém, o abrandamento do prejuízo à remição. Declarada a perda de um terço dos dias remidos com base na natureza da falta e no histórico prisional do sentenciado (fl. 79). Ocorre que as circunstâncias, no caso, não autorizavam o desconto máximo. Embora a infração configure crime, o fato é que Edson não chegou a ter posse da drogaapreendida em poder do visitante ainda na portaria do estabelecimento prisional. No mais, é certo que o agravante registra prática de outras duas indisciplinas graves. Os episódios, todavia, ocorreram em agosto de 2012 e fevereiro de 2013, já bastante antigos, portanto. Suficiente, assim, a redução de 1/6 (fl. 103 - grifo nosso).
+Sob esta moldura,conheço parcialmente do writ e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE IMPUTADA AO REEDUCANDO PORATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. INAPLICABILIDADE. PRESENÇA DE ELEMENTOS CONCRETOS DE QUE O PACIENTE TERIA CONCORRIDO PARA A CONDUTA. AJUSTE EM VISITA ANTERIOR COM OSEU COMPANHEIRO. PRÉVIA SOLICITAÇÃO E EFETIVO CONHECIMENTO DE SUA PARTE. COMPROVAÇÃO. CONSTRANGIMENTO ILEGAL AUSENTE. PERDA DOS DIAS REMIDOS NO PERCENTUAL DE 1/3. ARGUIÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. INSUBSISTÊNCIA DO RECLAMO. ABRANDAMENTO DA FRAÇÃO PARA 1/6 PELO TRIBUNAL A QUO. NÃO CONHECIMENTO.
+Writ parcialmente conhecido e, nessa extensão, denegado.
