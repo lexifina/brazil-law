@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto porJOSÉMARCOS CAMPOS, DANIELA CORREIA, DANIELA CORREIA TRANSPORTES LTDA., LUIS MARCELO CAZELLA CORREIA e MARILDA IMAZU CAMPOScontra decisão do Tribunal de Justiça do Paranáque inadmitiu o recurso especial por considerá-lo intempestivo.
+Alegamos agravantes que, ao contrário do que foi decido pelo Tribunal de origem, demonstraram a tempestividade do recurso especial.
+Requerem, assim, o conhecimento e provimento do agravo para que seja apreciado o recurso especial.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Embora devidamente impugnada a decisão que inadmitiu o apelo extremo, o recurso especial não comporta conhecimento diante de sua manifesta intempestividade.
+De início, esclareça-se que o prazo para interposição de recurso especial em matéria cível é de 15 dias úteis (CPC, art. 994, VI, c/c os arts. 1.003, § 5º, e 219 do Código de Processo Civil). Além disso, cabe à parte recorrente comprovar a ocorrência de feriado local no ato de interposição do recurso (art. 1.003, § 6º, do Código de Processo Civil).
+A decisão que inadmitiu o recurso especial destacou a inexistência de prova desua tempestividade. Veja-se(fl. 576):
+Verifica-se que a parte não comprovou, no ato da interposição do recurso, a suspensão do expediente forense previsto no artigo 2º do Decreto Judiciário nº 597/2020 (dia 1º.11.2021), conforme dispõe o artigo1.003, § 6º, do Código de Processo Civil. Portanto, a petição recursal juntada em 08.11.2021 está intempestiva.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que "(..) a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública." (AgInt no REsp 1.686.469/AM, Rel. Min. Mauro Campbell Marques, DJe 27.3.2018).
+Cumpre destacar que, nos termos da jurisprudência da Corte Superior, a ocorrência de feriado local deverá ser comprovada "(..) mediante documento oficial (cópia de lei, ato normativo ou certidão exarada por servidor habilitado" (AgInt no AREsp 1661435/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA ). TURMA, julgado em 21/09/2020, DJe 25/09/2020). Portanto, o da tela de detalhamento de cálculo de print prazo do Sistema Projudi não possui caráter oficial para fins de comprovação da tempestividade.
+Com efeito, nos termos da jurisprudência do STJ, é necessária a comprovação, por meio de documento idôneo e no momento da interposição do recurso, da suspensão dos prazos processuais na instância de origem (art. 1.003, § 6º, do Código de Processo Civil), o que não foi feito no presente caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. TEMPESTIVIDADE. COMPROVAÇÃO. DOCUMENTO INIDÔNEO. DIA DO SERVIDOR PÚBLICO. INOCORRÊNCIA DE FERIADO NACIONAL.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial por intempestividade.
+2. Na hipótese dos autos, a parte recorrente, para comprovar a tempestividade do Recurso juntou apenas resolução extraída da internet. Entretanto, tal prova não é considerada idônea por esta Corte, pois: "a simples cópia de página extraída do sítio eletrônico do Tribunal de origem não é hábil para a comprovação de feriado local e a suspensão dos prazos processuais, sendo, desse modo, inviável a aferição da tempestividade recursal.".(AgInt no AREsp 1.512.584/RJ, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 24.4.2020).
+3. No que se refere à alegação de que o dia do servidor público é feriado nacional, ressalta-se que a jurisprudência do Superior Tribunal de Justiça é no sentido de que o dia 28 de outubro não é feriado nacional, devendo ser comprovada a suspensão do expediente forense no momento da interposição do Recurso. Nesse sentido, AgInt no AREsp 1.336.242/CE, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe de 11.11.2019; e AgInt no AREsp 1.472.900/SP, Rel Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 22.10.2019.
+4. Agravo Interno não provido.(AgInt no AREsp n. 2.038.080/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO.
+1. A ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição contida no § 6º do art. 1.003 do CPC de 2015.
+2. O feriado do dia 28 de outubro - Dia do Servidor Público - e do dia 1º de novembro são considerados feriados locais, impondo-se a comprovação da suspensão do expediente forense no ato da interposição do recurso.
+3. Agravo Interno não provido.(AgInt no AREsp n. 1.711.267/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários advocatíciosnos termos do art. 85, § 11, do CPC, tendo em vista que referida verba honorária já alcançou o limite máximo de 20% da condenação (§ 2º do referido artigo).
+Publique-se. Intimem-se.
