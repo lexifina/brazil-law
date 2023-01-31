@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de JOALBI MONTEIRO DE ARAÚJO contra ato do Tribunal de Justiça do Estado de Mato Grosso do Sul (HC nº 1420842-40.2022.8.12.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos delitos tipificados nos arts. 33caputc/c 40, inciso I, da Lei nº 11.343/06 e 18 da Lei nº 10.826/03. A custódia foi convertida em preventiva.
+Contra a decisão, a defesa impetrou a ordem originária. Relata que "mesmo com absoluto tempo hábil para apreciação e julgamento da liminar, o E. TJMS deixou de julgar o pedido liminar e, consequentemente, com o início do recesso, a apreciação do pedido iria dar-se, apenas, a partir do dia 09/01/2023!" (e-STJ fl. 6).
+Alega que o paciente, como mero motorista, desconhecia o conteúdo da carga que transportava. Ressalta suas circunstâncias pessoais favoráveis, e defende a suficiência da aplicação de medidas cautelares alternativas.
+Requer, assim, a revogação da prisão, se necessário com aplicação de outras medidas diversas da custódia.
+A liminar foi indeferida às e-STJ fls. 148/149.
+Informações às e-STJ fls. 152/156.
+O Ministério Público Federal opinou pelo não conhecimento dowrit(e-STJ fls. 158/164).
+É o relatório. Decido.
+Owritnão merece ser conhecido.
+Verifica-se, em consulta aositeda Cortea quo, que o pleito de urgência foi apreciado na origem, tendo o Desembargador Relator indeferido o pedido, nos seguintes termos:
+A concessão de liminar em sede de habeas corpus exige a presença de dois pressupostos fundamentais: o periculum in mora ou perigo da demora, quando existe probabilidade de dano irreparável; e o fumus boni juris ou fumaça do bom direito, quando os elementos da impetração evidenciarem, inequivocamente, a existência de ilegalidade na restrição de liberdade.
+Entretanto, no caso em tela, após analisar os argumentos expendidos na impetração, não vislumbro a presença dos pressupostos necessários à concessão da liminar, eis que não transparece, ao menos sob a análise perfunctória própria deste momento, a ilegalidade afirmada na inicial.
+De todo modo, a tutela de urgência requerida confunde-se com o próprio mérito da impetração, de modo que a matéria exige análise mais cautelosa, a ser realizada pelo Órgão Colegiado em momento oportuno, após as informações da autoridade apontada como coatora
+Portanto, verifica-se que owrit, quanto ao tema, perdeu seu objeto.
+A respeito da pretensão de exame do mérito da fundamentação do decreto preventivo, bem como do cabimento da substituição da custódia por medidas cautelares alternativas, trata-se de temas que enfrentam óbice da vedação àsupressão de instância.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Ressalte-se que não se vislumbra a possibilidade de concessão da ordem de ofício, superando o referido óbice.
+Isso porque a tese de que o paciente não tinha conhecimento do conteúdo transportadoconsiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+Com efeito, segundo o STF, "não se admite no habeas corpus a análise aprofundada de fatos e provas, a fim de se verificar a inocência do Paciente" (HC n. 115.116/RJ, Relatora Ministra CÁRMEN LÚCIA, Segunda Turma, julgado em 16/09/2014, DJe 17/11/2014).
+Também é o entendimento desta Corte que "reconhecer a ausência, ou não, de elementos de autoria e materialidade delitiva acarreta, inevitavelmente, aprofundado reexame do conjunto fático-probatório, sendo impróprio na via do habeas corpus" (RHC n. 119.441/CE, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 07/11/2019, DJe 03/12/2019).
+De outro lado, não se verifica ilegalidade patente na prisão em hipótese na qual o paciente foi flagrado transportando elevada quantidade de maconha - mais de uma tonelada -, além de armas de fogo e acessórios.
+Nesse sentido, o Supremo Tribunal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, Relatora Ministra CÁRMEN LÚCIA, Segunda Turma, julgado em 15/03/2016, DJe 06/04/2016).
+De maneira idêntica, "Esta Corte Superior possui entendimento de que a quantidade, a variedade ou a natureza da substância entorpecente apreendida podem servir de fundamento para a decretação da prisão preventiva" (HC n. 547.239/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 03/12/2019, DJe 12/12/2019).
+Diante do exposto, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça,não conheçodohabeas corpus.
+Intimem-se.
