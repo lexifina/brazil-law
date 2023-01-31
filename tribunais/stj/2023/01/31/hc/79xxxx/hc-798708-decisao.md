@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deNEI CASTELLI, em que se aponta como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, tendo em vista o acórdão proferido no julgamento do HC n.5742284-43.2022.8.09.0051, que está assim sumariado (fl. 17):
+EMENTA: HABEAS CORPUS. DUPLO HOMICÍDIO, DUPLAMENTE QUALIFICADO (PROMESSA DE RECOMPENSA E MEDIANTE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA). MEDIDAS CAUTELARES DIVERSAS DA PRISÃO E PREDICADOS PESSOAIS. REITERAÇÃO. NÃO CONHECIMENTO. EXCESSO DE PRAZO. INÚMERAS MANIFESTAÇÕES DA DEFESA. 1. As matérias envolvendo medidas cautelares diversas da prisão e predicados pessoais já foram apreciadas em outros habeas corpus impetrados anteriormente (HCs nº 5629765-55 e 5214767-16), razão pela qual não devem ser conhecidas, dada a reiteração sem novos fundamentos. 2. Diante das inúmeras manifestações dos advogados do paciente nos autos da ação penal originária, ainda que destinadas a exercer o seudireito de defesa, mas sem qualquer contribuição do Judiciário ou da acusação, não restam dúvidas de que a linha defensiva por eles adotada contribuiu para o prolongamento da processualização da causa, além do que o réu já se encontra pronunciado, afastando o alegado excesso de prazo (Súmulas nº 21 e 64 do STJ). ORDEM PARCIALMENTECONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+Consta dos autos que o paciente foi preso temporariamente, em 9/11/2020, tendo sido a prisão convertida em preventiva em 7/12/2020, e denunciado como incurso no art. 121, § 2º, I e IV (duas vezes), na forma do art. 29, caput, ambos do Código Penal.
+A Defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem, conforme se depreende da colacionada ementa.
+No presente habeas corpus, a Defesa alega que não houve fundamentação idônea para a manutenção da custódia cautelar do paciente e que não estão presentes os requisitos autorizadores da prisão preventiva.
+Ressalta que "o paciente é vítima de constrangimento manifestamente ilegal, consubstanciado em manutenção de prisão preventiva ilegal uma vez que ausentes a contemporaneidade e demonstração da necessidade da medida extrema no atual momento processual", e, ainda, porque "não há qualquer demonstração de que o paciente representaria qualquer risco à sociedade".
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do Recorrente ou, subsidiariamente, a sua conversão em medida cautelar diversa .
+É o relatório.
+O writ não merece prosseguir.
+De fato, o acórdão proferido pela Corte de origem deixou claro que a questão acerca da manutenção da prisão preventiva já havia sido enfrentada em outros habeas corpus, razão por que não poderia ser novamente conhecida naquela oportunidade.
+Por outro lado, mencione-se para fins desta análise, que a matéria ora reconduzida acerca da prisão cautelar é objeto de outros habeas corpus, nos autos dos quais já foi rechaçada a tese heroica ora desenvolvida, a exemplo dos seguintes: HC n. 755671e RHC n. 145899/GO.
+Constata-se, assim, a inadmissível reiteração, conforme a jurisprudência desta Corte Superior, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.Intimem-se.
