@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUISGUILHERME CARETA NETO (ouLUIZGUILHERME CARETA NETO) eROSEMARY OZANA contra decisão que inadmitiu recurso especial em razão da incidência da Súmula n. 735 do STF.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos e que a questão não demandaria reexame de provas.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Pauloem agravo de instrumentoassim ementado (fl.118):
+AGRAVO DE INSTRUMENTO AÇÃO REVISIONAL DE CONTRATO - Decisão que indeferiu pedido de tutela de urgência para imposição à ré de efetuar a rematrícula e reduzir a mensalidade escolar do coautor - Manutenção - Art. 300 do CPC/2015 - Ausência de probabilidade do direito - Recurso desprovido.
+Nas razões do recurso especial, a parteagravante alega violação dos arts. 300do Código de Processo Civil e317, 393, 421, 422, 478, 479 e 480do Código Civil. Argumenta que foram preenchidos todos os pressupostos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, bem como que inexisteperigo de irreversibilidade do provimento antecipado.
+Afirma que, na relação contratual entabulada entre as partes, a substituição das aulas presenciais por virtuaisem razão da pandemia de covid-19ensejou a readequação do valor das mensalidades, tendo em vista ateoria da imprevisão, a boa-fé objetiva do contrato e a onerosidade excessiva.
+Defende a redução do valor das mensalidades devidas pelo serviço educacional prestado pela recorrida.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 171) e o recurso especial foi inadmitido na origem (fls. 151-152).
+A contraminuta ao agravo não foi oferecida (fl. 171).
+É o relatório. Decido.
+O recurso não merece prosperar.
+No tocante à violação dos arts. 300 do CPC e 317, 393, 421, 422, 478, 479 e 480do CC, consta do acórdão impugnado o seguinte (fls. 121-125):
+No caso presente, no exame da tutela de urgência requerida, não se vislumbra a probabilidade do direito da parte autora, visto que há necessidade de se formar o contraditório, a fim de melhor analisar os questionamentos trazidos pelo agravante e aferir o percentual mais adequado de redução, se o caso, considerando-se o alegado desequilíbrio contratual, assim como a verificação se no período relatado todo o curso de medicina foi prestado na modalidade à distância, dado que, como o próprio agravante reconhece na inicial, teria sido dispensado tratamento diferenciado.
+Não obstante se possa presumir a redução de gastos pela prestação de aulas on line, também deve-se levar em conta que o serviço educacional particular pode estar suportando grave crise financeira decorrente da diminuição de procura por novos alunos e inadimplência ou trancamento de curso pelos inscritos, também em razão dos efeitos da pandemia.
+No caso sub judice vislumbra-se ser restrita a irresignação ao indeferimento da tutela antecipada, e descabe neste recurso enveredar-se pelo tema de fundo da controvérsia a ser dirimida no processo de conhecimento após a formação do contraditório e, quiçá, da instrução probatória.
+ ..
+Destarte, examinada de forma sumária a questão trazida ao debate, verifica-se, como entendeu o juízo a quo, a ausência de elementos necessários para se aferir a probabilidade do direito, necessária para concessão da medida acautelatória.
+Conforme os fundamentos do acórdão impugnadoacima transcritos, a Corte local, ao analisar os elementos fáticos dos autos, concluiu pela ausência dos requisitos necessários para deferimento do pedido de tutela de urgência pretendido pela parterecorrente.
+Nesse contexto, a pretensão de novo pronunciamento para a concessão da tutela de urgência nesta instância especialimplicaria a análise de reexame de matéria fático-probatória dos autos, medida inviável em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+Ademais, a jurisprudência desta Corte não admite a interposição de recurso especial cujo objetivo seja discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado da Súmula n. 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+A propósito, vejam-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  .. . TUTELA DE URGÊNCIA. REVISÃO DOS REQUISITOS CONCESSIVOS DA MEDIDA LIMINAR. INVIABILIDADE. QUESTÃO ENFRENTADA PELA CORTE DE ORIGEM COM BASE NOS ELEMENTOS DE PROVA. INCIDÊNCIA DAS SÚMULAS 7 DO STJ E 735/STF. PRECEDENTES.
+ ..
+2. O Superior Tribunal de Justiça possui jurisprudência consolidada de que a verificação dos requisitos para a concessão da medida liminar de natureza cautelar ou antecipatória dos efeitos da tutela consiste em matéria de fato e de caráter precário, sendo defesa a análise em recurso especial. Incidência, portanto, das Súmulas 7 do STJ e 735 do STF.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.241.263/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 27/8/2019, DJe de 6/9/2019.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. TRATAMENTO DE SAÚDE. TUTELA ANTECIPADA. PEDIDO DE REVOGAÇÃO. ÓBICE DA SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. DISCUSSÃO DE MÉRITO NO RECURSO ESPECIAL. DESCABIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+2. Conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide sobre pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+3. No caso, descabe cogitar do exame da tese de contrariedade ao art. 10, VII, da Lei n. 9.656/1998, pois o referido normativo não está relacionado aos requisitos de concessão das medidas de urgência.
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+5. No caso concreto, para averiguar, nesta instância, a ausência dos requisitos da tutela antecipada que impôs à agravante o custeio liminar do tratamento de saúde do agravado, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.949.985/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
