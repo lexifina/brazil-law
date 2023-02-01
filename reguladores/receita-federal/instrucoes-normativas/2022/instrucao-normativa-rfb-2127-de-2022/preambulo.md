@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2127, de 30 de dezembro de 2022
+Dispõe sobre a retenção, encaminhamento e entrega de drogas ilícitas no âmbito da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no inciso II do § 1º do art. 144 e no art. 237 da Constituição Federal, e no inciso XX do art. 63 do Decreto nº 9.745, de 8 de abril de 2019, resolve:
