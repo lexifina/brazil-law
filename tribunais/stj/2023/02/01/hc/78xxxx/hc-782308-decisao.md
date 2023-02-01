@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Osvaldo Damasceno Neto, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo no julgamento da Apelação Criminal n. 1501099-05.2020.8.26.0559.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime fechado, e 699 dias-multa, pela prática do delito tipificado no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006 (tráfico de drogas majorado), nos autos da Ação Penal n. 1501099-05.2020.8.26.0559, que tramitou na 1ª Vara comarca de Mirassol/SP (fls. 16/28).
+Irresignados, defesa e Ministério Público interpuseram recurso de apelação perante a Corte estadual, que negou provimento ao apelo defensivo e deu parcial provimento ao recurso ministerialpara redimensionar a pena do paciente para 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, e 777 dias-multa, nos termos do acórdão acostado às fls. 29/43.
+No presente writ, muito embora a defesa tenha impugnado acórdão do Tribunal de Justiça, discorre acerca da possibilidade de superação da Súmula 691 do Supremo Tribunal Federal.
+Alega ilicitude das provas que embasam a condenação, porquanto obtidas mediante busca pessoal indevida e busca e apreensão ilegal no interior do estabelecimento comercial do paciente. Aponta inexistência de justa causa para as medidas invasivas, uma vez que foram realizadas com base em denúncia anônima e parâmetro subjetivo concernente ao nervosismo dos agentes.
+Destaca que o paciente é usuário de drogas, o que foi confirmado pelo corréu que admitiu a propriedade dos entorpecentes apreendidos, bem como o fato de ter ido à loja do paciente lhe vender maconha.
+Sustenta que o depoimento dos policiais se sobrepôs à confissão do corréu Matheus, violando o princípio da não culpabilidade.
+Requer, liminarmente e no mérito, a declaração de nulidade da busca e apreensão pessoal e na loja do paciente e, consequentemente, a sua absolvição.
+O pedido liminar foi indeferido às fls. 586/587.
+As informações foram prestadas às fls. 590/595.
+O Ministério Público Federal, às fls. 599/604, opinou pela denegação da ordem.
+É o relatório.
+Conforme relatado, busca-se com a impetração a declaração de nulidade das provas obtidas mediante busca e apreensão pessoal e no interior do estabelecimento comercial do paciente, culminando com a sua absolvição. Requer-se, ainda, que a conduta seja desclassificada para posse de droga para uso pessoal.
+Inicialmente, o pedido de absolvição decorrente de alegada nulidade das provas obtidas mediante busca pessoal e no interior da loja do paciente, não foi examinada pela Corte a quo, uma vez que a defesa buscou na apelação a absolvição do pacientes alegando insuficiência probatória e, subsidiariamente, a desclassificação para o delito do art. 28 da Lei n. 11.343/2006; o reconhecimento da figura privilegiada; o afastamento da majorante, com o consequente abrandamento da pena e do regime prisional, bem como a substituição da carcerária por restritivas de direitos e o direito de recorrer em liberdade (fl. 31), razão pela qual sua análise diretamente por esta Corte enseja indevida supressão de instância.
+É certo que, conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública (AgRg no HC n. 616.994/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/2/2021).
+A corroborar, confiram-se os seguintes julgados desta Corte Superior de Justiça: AgRg no HC n. 777.749/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/12/2022; AgRg no HC n. 770.342/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2022; e HC n. 687.945/BA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/11/2021.
+Noutro ponto, o Tribunal local concluiu que as provas angariadas no decorrer da instrução processual conduzem à certeza necessária quanto à prática do tráfico de drogas, delineando (fls. 31/38 - grifo nosso):
+ ..
+Inconformado, Osvaldo apela buscando a absolvição por insuficiência de provas. De forma subsidiária, pleiteia a desclassificação do delito para o previsto no artigo 28 da Lei nº 11.343/2006, o reconhecimento da figura privilegiada, o afastamento da majorante, com o consequente abrandamento da pena e do regime prisional, bem como a substituição da carcerária por restritivas de direitos e o direito de recorrer em liberdade. Ainda, prequestiona a matéria (fls. 415/425).
+ ..
+Não é verossímil que Osvaldo estivesse adquirindo a droga para consumo pessoal, tendo em vista a denúncia formulada, bem como as circunstâncias da prisão.
+Da mesma forma, inverossímil a alegação de que Matheus deixara a sacola com a droga e petrechos no provador da loja enquanto provava uma camiseta, pois ambos afirmaram que foram surpreendidos durante a transação.
+A quantidade de entorpecente apreendido e a forma como estava acondicionado, bem como a apreensão de grande quantidade em dinheiro com os acusados, além de balança de precisão e petrechos para fragmentação e embalo, aliadas às circunstâncias da apreensão e à prova oral, não deixam margem a dúvidas acerca da destinação mercantil da droga.
+Assim, o conjunto probatório colhido demonstrou que Matheus vendia drogas para Osvaldo, o qual, por sua vez, revendia, inclusive em sua loja.
+ ..
+Sublinho que o delito de tráfico de drogas se consuma com a prática de uma das condutas identificadas no núcleo do tipo, todas de natureza permanente, sendo desnecessária a mercancia da droga em si, para a sua caracterização.
+A circunstância de Osvaldo ser eventualmente usuário de drogas, como por ele sempre afirmado, por si só, não o exime da prática do tráfico, pois é fato notório que os usuários também vendem drogas, até mesmo para sustentar o próprio vício.
+Inviáveis, portanto, a absolvição e a desclassificação pretendidas, eis que bem delineada a responsabilidade criminal dos réus, nos moldes do reconhecido na sentença recorrida.
+ ..
+Nessa ordem de ideias, é inviável à desconstituição da conclusão das instâncias ordinárias, para desclassificar a conduta de tráfico de entorpecentes para posse de droga para consumo pessoal, haja vista o necessário revolvimento fático-probatório, procedimento vedado nesta via.
+Com efeito, nos termos da jurisprudência deste Superior Tribunal de Justiça, "Para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância (AgRg nos EDcl no AREsp n. 1.917.794/MS, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/12/2021, DJe 14/12/2021) - (AgRg no HC n. 721.054/GO, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 30/8/2022).
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a reforma do acórdão impugnado.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO PESSOAL E NO INTERIOR DE ESTABELECIMENTO COMERCIAL INDEVIDA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESCLASSIFICAÇÃO DO DELITO PARA PORTE PARA CONSUMO PESSOAL. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCOMPATIBILIDADE COM A VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ parcialmente conhecido e, nessa extensão, ordem denegada.
