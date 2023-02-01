@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DOUGLAS NASCIMENTO GOMES contra decisão que não conheceu do recurso emhabeas corpus,com fundamento no art. 21, XIII, c, c/c o art. 34, XVIII, a, do RISTJ, haja vista a reiteração de matéria já submetida à análise desta Corte em outra impetração.
+Sustenta o embargante que a decisão embargada padece de contradição,haja vista que o HC n. 791.499, apontado como referencial da repetição, não foi conhecido pela inadequação da via eleita. Nesse contexto, afirma que aguardou a remessa do recurso ordinário emhabeas corpus, que seria o meio de impugnação adequado ao caso concreto. Ao cabo, ambos os seus recursos não foram conhecidos, razão de seu inconformismo.
+Requer, assim, o conhecimento e acolhimento dos presentes aclaratórios, a fim de que seja sanado o apontado vício.
+É o relatório.
+Nos termos do art. 619 do Código de Processo Penal, são cabíveis embargos de declaração contra decisão que apresentar ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso em análise.
+Observa-se que, tanto no recurso emhabeas corpusinterposto nos presentes autos, quanto noHC n. 791.499, almeja-se a revogação do decreto de prisão preventiva do recorrente com base na ausência de fundamentação idônea que o sustente.
+Em que pese o fato de o HC n. 791.499 não ter sido conhecido em decorrência da inadequação da via eleita, o Ministro relator analisou na ocasião a legalidade da segregação cautelar, tendo consignado em sua decisão (grifos no original):
+O presente habeas corpus não merece ser conhecido por ausência de regularidade formal, qual seja, a adequação da via eleita.
+ .. No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+ ..  Cumpre verificar se o cárcere preventivo foi decretado em afronta aos requisitos do art. 312 do Código de Processo Penal e sem fundamentação idônea, como aduz a inicial.
+ .. No caso em apreço, depreende-se que a determinação de prisão cautelar está devidamente fundamentada, tal qual exige a legislação vigente. Foram regularmente tecidos argumentos idôneos e suficientes ao cárcere provisório.
+Com efeito, a segregação cautelar foi decretada pelo Juízo processante e mantida pelo Tribunal estadual com esteio nas circunstâncias concretas do caso, em que foram apreendidos 1 papelote contendo cocaína, com peso de 4,24g, 19 porções de maconha, com peso de 190,37g, 21 papelotes de maconha, com peso de 63,02g, e 56 pinos contendo cocaína, com peso de 43,7g, além de R$ 130,00, fracionados em notas de pequeno valor.
+As circunstâncias fáticas do crime, como a grande quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade.
+ .. Portanto, mostra-se legítimo, no caso, o decreto de prisão preventiva, uma vez ter demonstrado, com base em dados empíricos, ajustados aos requisitos do art. 312 do CPP, o efetivo risco à ordem pública gerado pela permanência da liberdade.
+Vale lembrar que as condições subjetivas favoráveis ao paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+ .. Diante do exposto, não se verifica a existência de constrangimento ilegal a ser sanado.  ..  (HC n. 791.499, Ministro Reynaldo Soares da Fonseca, DJe de 15/12/2022)
+Desse modo, não há falar em contradição decorrente do não conhecimento de ambos os recursos, porquanto, independentemente do desfecho dado à decisão daquelehabeas corpus, alisura do decreto de prisão preventiva foi efetivamente analisada naquela ocasião, o que inviabiliza o conhecimento do recurso carreado nestes autos.
+Ante o exposto, rejeitos os embargos de declaração.
+Publique-se. Intimem-se.
