@@ -1,0 +1,270 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0738603-66.2022.8.07.0000AGRAVANTE(S)SINDICATO DOS AUXILIARES DE ADMINISTRACAO ESCOLAR NO DFAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador LEONARDO ROSCOE BESSARelator Designado Desembargador ARQUIBALDO CARNEIRO Acórdão Nº1662446
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA COLETIVA. COMPETÊNCIA. PROVIMENTO GERAL DA CORREGEDORIA DESTE E. TJDFT.  PROCESSO Nº 59.888/96. SUSPENSÃO DO FEITO ATÉ O TRÂNSITO EM JULGADO DO RESP 1.301.935/DF. CABÍVEL. DISCUSSÃO SOBRE A APLICABILIDADE DO TEMA 880/STJ. PRESCRIÇÃO DO TÍTULO EXECUTIVO. DECISÃO MANTIDA.
+
+1. Cuida-se de cumprimento de sentença coletiva em que se busca aferir se cabível a suspensão do feito até o trânsito em julgado de outro processo, no qual se analisa a prescrição do mesmo título executivo.
+
+2. Quanto à competência, o Provimento Geral da Corregedoria deste e. TJDFT dispõe acerca da excepcionalidade da distribuição em hipóteses de ações coletivas genéricas, desvencilhando o cumprimento individual de sentença coletiva do juízo em que proferida a sentença paradigma.
+
+3. Na origem, o agravante defende que não estaria configurada a prescrição do título executivo, com fundamento na aplicação do Tema Repetitivo nº 880 do Superior Tribunal de Justiça.
+
+4. A questão da aplicação do Tema Repetitivo nº 880/STJ, referente ao mesmo título executivo judicial dos autos, foi tratada por este Tribunal, no cumprimento de sentença coletivo proposto pelo Sindicato agravante, processo sob nº 2009.01.1.134432-0, e pelo Superior Tribunal de Justiça, no REsp nº 1.301.935. O Superior Tribunal de Justiça reconheceu a prescrição do título executivo, inclusive afastando a incidência do Tema Repetitivo nº 880.
+
+5. Considerando que resta pendente a análise dos Embargos de Divergência no Resp 1.301.935 e visando evitar decisões conflitantes e resguardar a uniformidade jurisprudencial, mostra-se cabível aguardar o trânsito em julgado do recurso naquela Corte Superior.
+
+6. Negou-se provimento ao agravo de instrumento.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONARDO ROSCOE BESSA - Relator, ARQUIBALDO CARNEIRO - Relator Designado e 1º Vogal e SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. MAIORIA. REDIGIRÁ O ACÓRDÃO O EMINENTE 1º VOGAL , DES. ARQUIBALDO CARNEIRO., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 13 de Fevereiro de 2023
+
+Desembargador ARQUIBALDO CARNEIRORelator Designado
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto pelo SINDICATO DOS AUXILIARES DE ADMINISTRACAO ESCOLAR NO DF contra decisão da Sexta Vara da Fazenda Pública do Distrito Federal que, nos autos do cumprimento de sentença ajuizado em face do DISTRITO FEDERAL, determinou o sobrestamento do feito até o trânsito em julgado do REsp 1301935/DF (ID 138467742, autos originais).
+
+Sustenta o apelante que: 1) “o acórdão proferido nos autos do REsp. 1301935/DF em nada compromete a regular tramitação do presente cumprimento de sentença, uma vez que aquela decisão, NÃO TRANSITADA EM JULGADO e proferida nos autos de execução coletiva, não vincula o presente processo”; 2) “o direito alcançado pelos sindicalizados através de ação promovida pelo Sindicato-Agravante é direito individual homogêneo, e não coletivo em sentido estrito”; 3) “a doutrina define que os direitos difusos e coletivos (transindividuais, em sentido estrito) são essencialmente coletivos, ao passo que os direitos individuais homogêneos são apenas acidentalmente coletivos”; 4) “os direitos individuais homogêneos recebem proteção coletiva no propósito de otimizar o acesso à Justiça e a economia processual, estando a legitimação sindical para condução do processo coletivo expressa no art. 8º, III, da Constituição Federal”; 5) nos termos do art. 97 do Código de Defesa do Consumidor – CDC, ““a liquidação e a execução de sentença poderão ser promovidas pela vítima e seus sucessores, assim como pelos legitimados de que trata o art. 82”; 6) “apesar da Entidade Sindical ter promovido execução coletiva na qualidade de substituto processual no RESP 1.301.935/DF, em que pretende a execução do mesmo título executivo ora exequendo, a presente ação em nada poderá ser prejudicada, uma vez que, conforme indicado na exordial, os direitos aqui pleiteados estão individualizados para uma parcela pequena de sindicalizados, os quais apenas estão sendo representados pelo sindicato Agravante na modalidade de substituição processual, ou seja, possui natureza de execução individual”; 7) o Superior Tribunal de Justiça – STJ possui entendimento consolidado de que "não se configura litispendência quando o beneficiário de ação coletiva busca executar individualmente a sentença da ação principal, mesmo já havendo execução pelo ente sindical que encabeçara a ação"; e 8) “tratando-se de pedido de cumprimento individual de sentença, conforme reconhecido pelo próprio Juízo, não há vinculação entre a presente demanda e a constante no RESP 1301935/DF, razão pela qual a decisão de suspensão ordenada na decisão recorrida não merece prosperar”.
+
+Requer, ao final, que seja determinado o regular prosseguimento do cumprimento de sentença.
+
+Preparo recolhido (IDs 41286666 e 41286667).
+
+Não houve pedido de tutela de urgência recursal.
+
+Em contrarrazões, o Distrito Federal defende a manutenção da decisão agravada. Subsidiariamente, requer “seja determinado o processamento do cumprimento de sentença junto à primeira instância para análise das questões controvertidas, em especial a prescrição, eis que não há decisão do juízo a quo acerca das mesmas” (ID 41688610).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - Relator1. CONHECIMENTO
+
+O presente agravo de instrumento é cabível, nos termos do art. 1.015, parágrafo único, do Código de Processo Civil – CPC e foi interposto tempestivamente. A petição do agravo está instruída com as peças obrigatórias, com a ressalva do § 5º do art. 1.017. Conheço do recurso.
+
+2. MÉRITO
+
+2.1 Direitos metaindividuais: difusos, coletivos e individuais homogêneos
+
+De início, antes da análise da prescrição e necessidade de suspensão do processo (REsp. 1.301.935/DF), há questão prejudicial que deve ser examinada de ofício. É necessário verificar se há competência funcional da 1ª Vara da Fazenda Pública, juízo perante o qual tramitou a ação coletiva de conhecimento. Como esse propósito e, paralelamente, de aferir a legitimidade do Sindicato discorre-se sobre o processo coletivo.
+
+O legislador, ao longo das quatro últimas décadas, tem conferido crescente importância à disciplina normativa e sistematização de meios processuais para a tutela judicial de direitos metaindividuais.
+
+Nesta evolução normativa, o destaque vem, inicialmente, da Constituição Federal de 1988, a qual prevê diferentes possibilidades processuais de tutela de interesses metaindividuais: 1) institui o mandado de segurança coletivo (art. 5º, LXX); 2) possibilita aos sindicatos e associações defenderem em juízo interesses da respectiva coletividade (arts. 5º, XXI, e 8º, III); 3) amplia o objeto da ação popular (art. 5º, LXXIII); 4) aumenta o número de legitimados para a propositura de ação direta de inconstitucionalidade; 5) faz referência expressa à ação civil pública, para a proteção do “patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos” (art. 129, III e § 1º).
+
+No âmbito infraconstitucional, a preocupação com a tutela dos direitos coletivos se refletiu na edição de diversos diplomas legais, com destaque para a Lei 4.717/1965 (Lei da Ação Popular), a Lei 7.347/1985 (Lei da Ação Civil Pública) e a Lei 8.078/1990 (Código de Defesa do Consumidor – CDC).
+
+Em 1990, o CDC aprimora o processo coletivo brasileiro (arts. 81 a 104). Acrescenta, com inspiração na class actions for damages do direito norte-americano, a tutela judicial, em ação coletiva, dos danos pessoalmente sofridos (direitos individuais homogêneos – art. 81, parágrafo único, III, c/c os arts. 91 a 100).
+
+O CDC (art. 110) acrescenta o inciso IV ao art. 1º da Lei 7.347/1985, o que amplia o objeto da ação civil pública para “qualquer outro interesse difuso ou coletivo”: os mais variados assuntos podem ser veiculados em ação coletiva, tais como meio ambiente, consumidor, ordem urbanística, moralidade administrativa, direitos dos aposentados, dos idosos, das crianças e dos adolescentes, dos portadores de deficiência física etc.
+
+Em virtude do disposto no art. 117 do CDC, ficou estabelecida absoluta integração e complementaridade entre a Lei 7.347/1985 (Lei da Ação Civil Pública) e a Lei 8.078/1990 (Código de Defesa do Consumidor), ou seja, as inovações processuais trazidas pelo CDC são aplicáveis a tutela judicial de qualquer espécie de interesse coletivo - em sentido amplo.
+
+Os direitos metaindividuais, também denominado transindividuais ou coletivos em sentido amplo abrangem: 1) direitos difusos; 2) direitos coletivos (sentido estrito); direitos individuais homogêneos. Estão normativamente delineados no art. 81, I, II e III, do CDC. Todavia, sua adequada compreensão envolve análise mais ampla.
+
+Embora com alguma divergência doutrinária, é fundamental perceber que o direito difuso se diferencia - na essência - dos direitos coletivos e individuais homogêneos. O caráter coletivo dos direitos difusos advém da sua própria natureza. O direito é naturalmente indivisível, como ocorre, emblematicamente, na proteção de aspectos relacionados ao meio ambiente e patrimônio público. De outro lado, é apenas no processo que os direitos coletivos (em sentido estrito) e o direito individual homogêneo ganham caráter coletivo. Cuida-se de reunião processual de direitos individuais que se assemelham e que, por questões de economia processual e isonomia, podem ser agrupados numa única demanda.
+
+É possível classificar os direitos metaindividuais em direitos materialmente coletivos (DMC) e direitos processualmente coletivos (DPC). Como destacado em outra oportunidade:
+
+"Os direitos difusos são direitos materialmente coletivos (DMC). Não é a lei que lhes impõe artificialmente essa característica plural, e sim o fato de serem necessariamente usufruídos por um número indeterminado de pessoas. Não se trata, também, de união de diversas pretensões individuais num único processo. Em face da ausência de um titular específico do direito somada à vinculação processual entre essa titularidade e a legitimatio ad causam (art. 18 do CPC), faz-se necessário que a lei indique pessoas que tenham legitimidade para requerer sua proteção jurisdicional. (...) De outro lado, os direitos coletivos em sentido estrito mais se aproximam dos direitos individuais homogêneos dos que dos direitos difusos: são, em última análise, direitos individuais cujo titular possui ampla possibilidade de protegê-los em Juízo. Em outras palavras, são direitos processualmente coletivos (DPC). Ao contrário dos direitos materialmente coletivos (DMC), o caráter de indivisibilidade se dá na ação coletiva e decorre de técnica processual. Os direitos coletivos stricto sensu são materialmente individuais. Todavia, por razões de economia e celeridade processual e, também, para evitar decisões contraditórias, podem ser veiculados numa única ação civil pública, ganhando, a partir daí, dimensão processual coletiva e caráter transindividual. (BESSA, Leonardo Roscoe. Código de Defesa do Consumidor Comentado. 2 ed. Forense: Rio de Janeiro, 2022, p. 559-560)
+
+O art. 81, II e III do CDC apresenta definição inicial dos direitos coletivos em sentido estrito e individuais homogêneos nos seguintes termos: “II - interesses ou direitos coletivos, assim entendidos, para efeitos deste código, os transindividuais, de natureza indivisível de que seja titular grupo, categoria ou classe de pessoas ligadas entre si ou com a parte contrária por uma relação jurídica base; III - interesses ou direitos individuais homogêneos, assim entendidos os decorrentes de origem comum.”
+
+Tanto os direitos coletivos (em sentido estrito) como os direitos individuais homogêneos são processualmente coletivos: embora individuais, ganham uniformidade e caráter coletivo no processo. Os direitos coletivos são indivisíveis e seus titulares determináveis. Ao contrário dos direitos difusos, não se trata de indivisibilidade natural: na realidade, cada pessoa atingida pelo dano pode proteger individualmente seus interesses, sem interferir na esfera jurídica de outra pessoa na mesma situação.
+
+Cite-se o clássico exemplo da cláusula abusiva em contrato bancário, ou de compra e venda de imóveis na planta (incorporação imobiliária): a nulidade pode ser requerida em ação coletiva ou, alternativamente, cada consumidor pode, em ação individual, pedir a declaração de nulidade da cláusula do seu contrato. Os direitos coletivos se aproximam dos direitos individuais homogêneos, também divisíveis e de titulares determináveis.
+
+Portanto, muitas vezes, a análise teórica e abstrata dos direitos transidividuais não permite a sua correta identificação: a classificação processual é realizada a partir do conteúdo das demandas, com destaque para o pedido e causa de pedir. Como consequência, uma mesma demanda coletiva pode apresentar - em cumulação de pedidos - diferentes tutelas: difusa, coletiva e com caráter de individual homogêneo.  A propósito, consigne-se julgado do Superior Tribunal de Justiça (STJ):
+
+“1. A ação civil pública vindicando o reconhecimento de abusividade de cláusula de contratos presentes e futuros da incorporadora aborda questão de relevante interessante social, por envolver contratos com preços vultosos, abrangendo muitas vezes todas as economias de famílias e, no caso específico de compra e venda de imóvel em relação de consumo, o próprio direito de moradia. No caso concreto, há: I) direitos individuais homogêneos referentes aos eventuais danos experimentados por aqueles que firmaram contrato; II) direitos coletivos resultantes da suposta ilegalidade em abstrato de cláusula contratual de tolerância, a qual atinge igualmente e de forma indivisível o grupo de contratantes atuais da ré; III) direitos difusos, relacionados aos consumidores futuros, coletividade essa formada por pessoas indeterminadas e indetermináveis. (...)” (REsp 1549850/SP, Relator MINISTRO LUÍS FELIPE SALOMÃO, Quarta Turma, Julgado em 20/02/2020, Publicado em 19/05/2020) -grifou-se
+
+A diferença entre os direitos coletivos e individuais homogêneos está no nível de uniformidade, com reflexos em aspectos processuais que lhes conferem efetividade. Nos individuais homogêneos, o objeto é indenização decorrente de ilícito que atingiu várias pessoas. A origem do dano é comum, mas o valor indenizatório pode variar. O coletivo possui, em regra, caráter prospectivo (futuro) e se resolve, invariavelmente, com ato único, como, por exemplo, a determinação de diminuição uniforme de valor cobrado de prestação de plano de saúde.
+
+A tutela de direito individual exige, invariavelmente, liquidação: definição do valor que deve ser pago, a título de indenização, para cada beneficiário individual. A tutela de direito coletivo (em sentido estrito), embora possa ser pleiteada em ação individual, possui delineamento mais uniforme, o que facilita a execução e dispensa, muitas vezes, ação de cumprimento de sentença.
+
+Os direitos coletivos em sentido estrito se relacionam, em regra, a providências voltadas para o futuro, obrigações de fazer ou não fazer, como, por exemplo, determinar de maneira uniforme a redução de prestação a ser paga pelos beneficiários de planos de saúde ou a incorporação de determinado valor aos rendimentos de servidor público. Nesses casos, a estipulação de astreintes é, em regra, suficiente para conferir efetividade ao comando judicial.
+
+Na hipótese, o pedido da execução não é pagamento - futuro - do benefício para a categoria, que seria classificado como coletivo em sentido estrito, pois concedido uniformemente a todos os beneficiários. O pedido julgado procedente na ação coletiva e objeto deste cumprimento de sentença é o pagamento - pretérito - do benefício alimentação desde sua supressão, em 1996, até a data do seu restabelecimento, em 2002. Em outras palavras, constitui-se em pretensão indenizatória dos servidores. Trata-se de direito individual homogêneo: é necessária a individualização do valor devido a cada beneficiário. Embora a origem seja comum, não há uniformidade nos valores a serem pagos aos servidores.
+
+2.2 Legitimidade dos entes coletivos para a execução do direito individual homogêneo
+
+Em análise sistemática do CDC e da Lei 7.347/85, em particular da tutela de direitos individuais homogêneos, evidencia-se atuação concorrente, permanente e colaborativa entre os titulares dos direitos e o autor coletivo.
+
+O CDC dispõe claramente sobre a possibilidade de os legitimados coletivos executarem os direitos individuais homogêneos.
+
+O art. 97 é explicito, ao estabelecer, que a liquidação e execução da sentença coletiva pode ser realizada “pelos legitimados de que trata o art. 82”.
+
+Na sequência o art. 98 do CDC determina: “a execução poderá ser coletiva, sendo promovida pelos legitimados de que trata o art. 82, abrangendo as vítimas cujas indenizações já tiveram sido fixadas em sentença de liquidação, sem prejuízo do ajuizamento de outras execuções.”
+
+Por fim, o art. 100 disciplina a possibilidade de liquidação e cumprimento de sentença diretamente pelo autor coletivo quando, após um ano do trânsito em julgado, não houver “habilitação de interessados em número compatível com a gravidade do dano.” Cuida-se do que se denomina doutrinariamente de fluid recovery.
+
+Em que pesem algumas dificuldades práticas – muitas delas decorrentes da cultura de litigiosidade – é fato que o processo coletivo brasileiro estabelece a possibilidade de execução coletiva de direitos individuais homogêneos.
+
+Permite-se a execução pelo autor coletivo de danos reconhecidos na primeira fase do processo coletivo: as finalidades que justificam a tutela coletiva dos direitos individuais homogêneos não se esgotam com a prolação de sentença na fase de conhecimento. O acesso à justiça não é garantido se, após a tutela de mérito, não há satisfação do direito reconhecido, por meio da liquidação e execução da sentença coletiva.
+
+A legitimidade coletiva, quando se trata de interesses de servidores, possui duplo fundamento: como representante direto dos servidores ou como substituto processual.
+
+Há diferença relativa à atuação de associações como representantes dos associados das situações relacionadas às ações coletivas. A ação civil pública (ação coletiva), seja qual for a espécie de direito veiculado (difuso, coletivo, individual homogêneo), não se confunde com a defesa das associações e sindicatos no tocante aos seus associados e filiados (arts. 5º, XXI, e 8º, III, da Constituição Federal).
+
+O tema foi exaustivamente debatido pelos tribunais.
+
+A atuação do sindicato é prevista diretamente na Constituição Federal e possui fundamento axiológico mais denso: a defesa de categoria vulnerável (trabalhadores e servidores públicos). Daí o tratamento diferenciado pelos tribunais superiores.
+
+Nesse sentido, é o Tema de Repercussão Geral 823: “Os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos”.
+
+Este debate não traz repercussões práticas para o caso. Em qualquer perspectiva, o sindicato possui legitimidade para execução da decisão proferida em ação coletiva. Na tutela de direitos individuais homogêneos, não há necessidade de procuração dos servidores, nem de autorização específica.
+
+2.3 Limitação numérica na execução coletiva de direito individual homogêneo
+
+A legislação não prevê que a execução coletiva abranja - necessariamente - todos os lesados. Ao contrário, a inteligência dos arts. 97 e 98 do CDC indica a possibilidade de ajuizamento paralelo de ações individuais e coletivas, bem como de mais de uma execução coletiva. O art. 98 se refere expressamente a execuções (no plural): permite ajuizamento de execuções paralelas e sucessivas, com ou sem liquidação prévia individual. Nenhum dispositivo restringe o número mínimo de beneficiados.
+
+Os direitos individuais homogêneos não se descaracterizam pela opção prática de limitar a execução a um número determinado de pessoas. Tal restrição numérica está em consonância com os princípios processuais relacionados à celeridade e efetividade da prestação jurisdicional.
+
+O próprio Código de Processo Civil – CPC, ao tratar de litisconsórcio, prevê, para agilizar a solução do litígio, a possibilidade de restrição do número de litigantes tanto na fase de conhecimento como de execução: "O juiz poderá limitar o litisconsórcio facultativo quanto ao número de litigantes na fase de conhecimento, na liquidação de sentença ou na execução, quando este comprometer a rápida solução do litígio ou dificultar a defesa ou o cumprimento da sentença (art. 113, § 1º)"
+
+Dessa forma, se ajuizado pelo sindicato, mesmo que em favor de um número limitados de beneficiários, o cumprimento de sentença terá caráter coletivo.
+
+2.4 Competência do juízo da ação de conhecimento
+
+A competência para execução coletiva de direito individual homogêneo promovida por legitimados coletivos está expressamente prevista no art. 98, § 2º, do CDC: “é competente para a execução o juízo, I - da liquidação da sentença ou da ação condenatória, no caso de execução individual; II - da ação condenatória, quando coletiva a execução.”
+
+Diferentemente, nos casos de liquidação e execução individuais, com base no diálogo das fontes e na facilitação de acesso à justiça, aplica-se o art. 516, parágrafo único, do CPC, que prevê: “o exequente poderá optar pelo juízo do atual domicílio do executado, pelo juízo do local onde se encontrem os bens sujeitos à execução ou pelo juízo do local onde deva ser executada a obrigação de fazer ou de não fazer, casos em que a remessa dos autos do processo será solicitada ao juízo de origem.”
+
+Nesse sentido, a tese referente ao Tema Repetitivo 480 do Superior Tribunal de Justiça – STJ: “A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e 474, CPC e 93 e 103, CDC).”
+
+A jurisprudência evoluiu para considerar que a distribuição será sempre aleatória, mesmo nos casos em que o autor da liquidação/execução seja domiciliado no local em que tramitou a ação de conhecimento. Consigne-se o seguinte julgado:
+
+“AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PROCESSO CIVIL. AÇÃO COLETIVA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. COMPETÊNCIA. JUÍZO DA AÇÃO COLETIVA. PREVENÇÃO INEXISTENTE. DISTRIBUIÇÃO ALEATÓRIA. BENESSES DO ARTIGO 87 DO CDC. NÃO INCIDÊNCIA. INTERESSE MERAMENTE PRIVADO. DECISÃO MANTIDA. 1. Em se tratando de ação coletiva, em sentido amplo, não há prevenção do Juízo sentenciante para processar e julgar o cumprimento individual da sentença coletiva, de modo que deve haver a distribuição aleatória do feito. Precedente do STJ (REsp nº 1.391.198/RS). Art. 137, 3º, II, do Provimento Geral da Corregedoria do TJDFT.” (Acórdão 1398122, 07377288720218070000, Relator ROBSON TEIXEIRA DE FREITAS, Oitava Turma Cível, Julgado em 11/02/2022, publicado em 17/02/2022)
+
+Não há, todavia, entendimento semelhante para o caso das execuções coletivas: em regra, o ente coletivo não tem dificuldade de promover a liquidação e a execução no juízo em que tramitou a ação de conhecimento. Assim, não há obstáculo de acesso à justiça que justifique o afastamento da regra do art. 98, § 2º, II, do CDC, o que se extrai dos próprios julgados acima transcritos, interpretados a contrario sensu.
+
+2.5 Competência funcional e absoluta
+
+A competência definida no art. 98, § 2º, II, do CDC é funcional e, portanto, absoluta.
+
+A competência funcional decorre da repartição de funções de um ou mais de um órgão jurisdicional no âmbito de um mesmo processo de acordo com: 1) grau de jurisdição (ações em regra são propostas perante o juízo de primeiro grau – órgão singular - e seus recursos são processados e julgados no segundo grau - órgão colegiado); 2) fase em que se encontra (ações de conhecimento e os cumprimentos de sentença – execuções de título judicial - são processadas pelo mesmo juízo de primeiro grau, ou por juízo diverso, em caso de sentença penal condenatória,  de domicílio diverso do executado ou outro local dos bens sujeitos à execução ou de cumprimento da obrigação – CPC art. 516, parágrafo único); 3) objeto pretendido na lide (julgamento de apelação pelas turmas de um tribunal e julgamento, no mesmo caso concreto, de eventual incidente de arguição de inconstitucionalidade pelo órgão especial – CF, art. 97. (MOUZALAS, Rinaldo; OTÁVIO TERCEIRO NETO, João; MADRUGA, Eduardo. Processo Civil. Volume único. 9 ed. Salvador: Juspodivm, 2017, p. 126-147.)
+
+Por se tratar de competência funcional, deve ser reconhecida de ofício pelo magistrado em qualquer fase processual, nos termos do art. 64, § 1º, do CPC: “A incompetência absoluta pode ser alegada em qualquer tempo e grau de jurisdição e deve ser declarada de ofício”.
+
+2.6 A execução coletiva de direito individual homogêneo se pauta em critérios de racionalidade, uniformidade das decisões e celeridade
+
+Por fim, como argumento adicional, ressalte-se que a previsão de competência do juízo da ação de conhecimento para execução coletiva dos direitos individuais homogêneos se fundamenta nas razões que justificam o processo coletivo: racionalidade, rapidez, segurança, evitar decisões contraditórias.
+
+Não se diga que há menos litígio e controvérsias na fase de liquidação e execução do que restou decidido na ação de conhecimento. A experiência indica que a litigiosidade não diminui na fase de execução; são milhares de controvérsias e debates que, entre outros pontos, discutem prescrição intercorrente, termos inicial e final de juros de mora e correção monetária, acerto de cálculos do contador, adequação de atos constritivos etc.
+
+É evidente, portanto, que a concentração desse debate perante um único juízo é positiva para permitir solução concentrada e mais rápida das divergências.
+
+Há, em acréscimo, efeito secundário relevante.
+
+A tutela de direito individual homogêneo tem por objeto indenização para várias pessoas decorrentes de origem comum. Requer, em regra, duas fases no processo: conhecimento e liquidação para definir o valor exato a ser pago para cada vítima
+
+Todavia, em alguns casos, é possível, na fase inicial, já definir o quantum debeatur ou, ao menos, restringir bastante as controvérsias da segunda fase. O juízo de conhecimento, sabedor de sua competência para fase seguinte (liquidação e execução), será mais cauteloso ao definir e delimitar as futuras possíveis controvérsias. Poderá ainda ter especial cuidado ao verificar a possibilidade se proferir condenação certa e determinada - e não genérica - de modo, inclusive, a evitar a liquidação e execução.
+
+2.7 Caso concreto
+
+Na hipótese, a execução é coletiva. A limitação e identificação dos beneficiários não afastam o caráter coletivo do direito individual homogêneo.
+
+Portanto, o juízo em que tramitou a ação de conhecimento (Primeira Vara da Fazenda Pública do Distrito Federal) é prevento. A competência, repita-se, é absoluta.
+
+Em regra, cabe ao juízo competente decidir a eficácia dos pronunciamentos proferidos pelo juízo anterior (art. 64, § 4º, do CPC).  Assim, impõe-se a cassação da decisão e definição do juízo competente (Primeira Vara da Fazenda Pública do Distrito Federal) para o presente processo.
+
+3. DISPOSITIVO
+
+CONHEÇO do recurso e DOU-LHE PROVIMENTO para cassar a decisão agravada.
+
+Declaro, de ofício, a incompetência absoluta da Sexta Vara da Fazenda Pública do Distrito Federal para julgamento do cumprimento de sentença.
+
+Remetam-se os autos ao juízo competente: Primeira Vara da Fazenda Pública do Distrito Federal, que deve analisar eventual prescrição em face do teor do Resp 1301935-DF.
+
+É como voto.
+O Senhor Desembargador ARQUIBALDO CARNEIRO - Relator Designado e 1º Vogal
+
+Nobres pares, com a devida vênia, ouso divergir do eminente Relator quanto à declaração, de ofício, de incompetência absoluta.
+
+Consoante relatado, "Trata-se de agravo de instrumento interposto pelo SINDICATO DOS AUXILIARES DE ADMINISTRACAO ESCOLAR NO DF contra decisão da Sexta Vara da Fazenda Pública do Distrito Federal que, nos autos do cumprimento de sentença ajuizado em face do DISTRITO FEDERAL, determinou o sobrestamento do feito até o trânsito em julgado do REsp 1301935/DF (ID 138467742, autos originais).".
+
+No que toca à competência para execução coletiva de direito individual homogêneo promovida por legitimados coletivos, o art. 98, § 2º, II do CDC prevê que o juízo sentenciante configura-se como prevento.
+
+Observe-se: “É competente para a execução o juízo, I - da liquidação da sentença ou da ação condenatória, no caso de execução individual; II - da ação condenatória, quando coletiva a execução.”.
+
+Nada obstante a regra citada, o artigo 137, §3º, inciso II, do Provimento Geral da Corregedoria deste e. TJDFT dispõe acerca da excepcionalidade da distribuição em hipóteses de ações coletivas genéricas, desvencilhando o cumprimento individual de sentença coletiva do juízo em que proferida a sentença paradigma.
+
+Confira-se:
+
+“Art. 137. Os feitos de qualquer natureza, principais ou acessórios, serão distribuídos e numerados em ordem crescente.
+
+(...)
+
+§ 3º Não será objeto de nova distribuição:
+
+II – a decisão que converter a prisão em flagrante em prisão preventiva, o requerimento para o cumprimento definitivo de sentença, a reconvenção e a intervenção de terceiros, salvo a oposição, o pedido de impugnação à assistência e os pedidos individuais de cumprimento de sentença lastreados em título formado em ação coletiva”.
+
+E sobre essa mesma temática o c. Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, pacificou o entendimento de que o cumprimento individual de sentença coletiva não obedece à regra de prevenção disposta no art. 516, inciso II, do CPC, nos seguintes termos:
+
+“DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS METAINDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. REVISÃO JURISPRUDENCIAL. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA. 1. Para efeitos do art. 543-C do CPC: 1.1. A liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo. (arts. 468, 472 e 474, CPC e 93 e 103, CDC). (...)” (REsp 1243887/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011)
+
+No caso em comento, não obstante se tratar de execução coletiva, como exposto no voto do e. Relator, tenho como cabível a distribuição aleatória, em interpretação à jurisprudência acima indicada e ao artigo 137, §3º, inciso II, do Provimento Geral da Corregedoria deste Tribunal, considerando que o fracionamento das execuções coletivas e a possibilidade da elevada distribuição ao Juízo sentenciante podem ocasionar a inviabilização dos trabalhos daquele foro, com manifesto prejuízo à administração da justiça.
+
+Portanto, a despeito dos substanciosos fundamentos do e. Relator, tenho que os autos de origem não devem ser remetidos ao Juízo da Primeira Vara da Fazenda Pública do Distrito Federal.
+
+Superado esse ponto, passo a questão da suspensão determinada na origem.
+
+Em suas razões recursais, o agravante defende que o julgamento do REsp nº 1.301.935/DF pelo c. Superior Tribunal de Justiça não compromete o regular trâmite do cumprimento de sentença.
+
+O título judicial que se pretende executar transitou em julgado em 10/03/2000. Este cumprimento de sentença foi proposto apenas em 2022.
+
+Argumenta o autor da ação, ora agravante, em sua inicial que no que tange à prescrição “em razão da grande demora na apresentação de dados dos substituídos, inviabilizando a liquidação do julgado, torna-se legítima a instauração do presente cumprimento de sentença, por aplicação da modulação dos efeitos do Tema 880/STJ, em referência aos valores devidos aos substituídos cujas fichas financeiras não foram apresentadas em tempo pelo Distrito Federal, com o consequente pedido de pagamento dos valores devidos, com fulcro nos arts. 509, 524, § 5º, 534 e 113, § 1º, ambos do CPC".
+
+Com efeito, o agravante defende a aplicabilidade ao caso da modulação dos efeitos da tese firmada no REsp 1.336.026/PE, Tema Repetitivo nº 880 do Superior Tribunal de Justiça. Confira-se a tese:
+
+Tese: "A partir da vigência da Lei n. 10.444/2002, que incluiu o § 1º ao art. 604, dispositivo que foi sucedido, conforme Lei n. 11.232/2005, pelo art. 475-B, §§ 1º e 2º, todos do CPC/1973, não é mais imprescindível, para acertamento da conta exequenda, a juntada de documentos pela parte executada, ainda que esteja pendente de envio eventual documentação requisitada pelo juízo ao devedor, que não tenha havido dita requisição, por qualquer motivo, ou mesmo que a documentação tenha sido encaminhada de forma incompleta pelo executado. Assim, sob a égide do diploma legal citado e para as decisões transitadas em julgado sob a vigência do CPC/1973, a demora, independentemente do seu motivo, para juntada das fichas financeiras ou outros documentos correlatos aos autos da execução, ainda que sob a responsabilidade do devedor ente público, não obsta o transcurso do lapso prescricional executório, nos termos da Súmula 150/STF".
+
+Modulação dos efeitos: "Os efeitos decorrentes dos comandos contidos neste acórdão ficam modulados a partir de 30/6/2017, com fundamento no § 3º do art. 927 do CPC/2015. Resta firmado, com essa modulação, que, para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017."
+
+O agravante registra que “O Tema 880/STJ renovou o prazo prescricional para os títulos executivos transitados em julgado na vigência do CPC/73 (como no caso, cujo trânsito em julgado ocorreu em 10/03/2000), postergando o limite da prescrição para cumprimento de sentença até 30/06/2022 quando a liquidação do feito dependia de documentos a serem apresentados pelo devedor”.
+
+Ocorre que, a questão da ausência de apresentação das fichas financeiras por parte do Distrito Federal e da aplicação do Tema Repetitivo nº 880/STJ, referente ao mesmo título executivo judicial destes autos, foi tratada por este Tribunal, no cumprimento de sentença coletivo proposto pelo Sindicato agravante, processo sob nº 2009.01.1.134432-0, e pelo Superior Tribunal de Justiça, no REsp nº 1.301.935.
+
+O Superior Tribunal de Justiça reconheceu a prescrição do título executivo, inclusive afastando a incidência do Tema Repetitivo nº 880.
+
+De acordo com a aquela Corte Superior, em apreciação ao AgRg no AgRg no EREsp nº 1.301.935 e aos embargos declaração, configura-se inaplicável o Tema Repetitivo nº 880 ao título executivo judicial formado no bojo da ação nº 59888/96 (processo nº 0001096-21.1999.8.07.0000).
+
+A ilustre Relatora, Ministra Regina Helena Costa, registra que seria desnecessária a juntada dos dados funcionais dos credores. Afirma que a prescrição não teria se dado pela demora do Distrito Federal em fornecer as fichas financeiras, mas pela inércia do Sindicato em propor a ação. Observe-se:
+
+“Por fim, necessário registrar que o julgamento dos Embargos de Declaração no REsp 1.336.026/PE pela 1ª Seção desta Corte em 13/06/2018, sob o rito do art. 1.036 do Código de Processo Civil de 2015, no qual houve modulação dos efeitos da tese relativa à prescrição da pretensão executória em razão da demora da entrega das fichas financeiras pelo Executado, não possui o condão de influenciar no presente julgamento, consoante fundamentos constantes dos itens d e i, acima alinhados, ou seja:
+
+(i) o tribunal a quo considerou totalmente desnecessários os dados funcionais requeridos ao Executado para o cumprimento de quaisquer das obrigações (fl. 25e); e
+
+(ii) a prescrição da pretensão executória da obrigação de pagar quantia certa não decorreu da demora do Executado no fornecimento de fichas financeiras, mas única e exclusivamente da inércia do Sindicato, que deixou de formular o pedido de execução da obrigação de pagar a tempo e modo.”
+
+Na esteira desse raciocínio, nota-se que a controvérsia sobre a existência de prescrição nestes autos diz respeito à aplicação ou não do Tema Repetitivo nº 880/STJ ao título executivo judicial.
+
+A aludida questão já está sendo debatida no REsp nº 1.301.935/DF e, nos termos do art. 313, V, a do Código de Processo Civil, pode-se suspender o processo quando a sentença de mérito depender da declaração de existência ou inexistência de relação jurídica que constitua o objeto principal de outro processo pendente.
+
+Em análise ao sistema processual do Superior Tribunal de Justiça, verifica-se que, em recente decisão, publicada em 19/12/2022, a eminente Relatora do REsp nº 1.301.935/DF indeferiu liminarmente os Embargos de Divergência opostos pelo Sindicato. Todavia, referida decisão ainda é passível de recurso.
+
+Neste contexto, considerando que se trata do mesmo título executivo judicial nestes autos e naquele cumprimento de sentença coletivo, mostra-se cabível aguardar a conclusão do julgamento dos Embargos de Divergência, com o fim de se evitar decisões conflitantes e resguardar a uniformidade jurisprudencial.
+
+Nesse sentido, colaciono arestos deste e. Tribunal:
+
+“DIREITO PROCESSUAL CIVIL. INICIAL INDEFERIDA. DECISÃO SURPRESA NÃO CARACTERIZADA. PRELIMINAR DE NULIDADE REJEITADA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. TÍQUETE ALIMENTAÇÃO. VALORES INADIMPLIDOS. OBRIGAÇÃO DE PAGAR. LEGITIMIDADE EXTRAORDINÁRIA DO SINDICATO DOS AUXILIARES DE ADMINISTRAÇÃO ESCOLAR NO DF. TEMA 823/STF. COMPETÊNCIA. DISTRIBUIÇÃO ALEATÓRIA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. EMBARGOS DE DIVERGÊNCIA NO RESP N. 1.301.935/DF. SUSPENSÃO DO PROCESSO. SENTENÇA CASSADA. (...). 6. Pendente controvérsia no STJ sobre a prescrição da pretensão executiva, apropriada é a suspensão do cumprimento de sentença até a conclusão do julgamento dos Embargos de Divergência no REsp n. 1.301.935/DF. 7. PRELIMINAR REJEITADA. RECURSO PROVIDO. EFEITOS MODULADOS.” (Acórdão 1642929, 07091905120228070018, Relator: JOSE FIRMO REIS SOUB, 8ª Turma Cível, data de julgamento: 24/11/2022, publicado no PJe: 7/12/2022).
+
+“APELAÇÃO CÍVEL. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. AUSÊNCIA. SINDICATO. LEGITIMIDADE ATIVA CONFIGURADA. SUBSTITUIÇÃO PROCESSUAL. TEMA Nº 823/STF. REPERCUSSÃO GERAL. PREDUDICIAL DE MÉRITO. PRESCRIÇÃO. SUSPENSÃO DO PROCESSO NA ORIGEM ATÉ DECISÃO DEFINITIVA DO STJ. SENTENÇA CASSADA. (...) 7. No julgamento do REsp nº 1.301.935/nº DF, no bojo da Execução Coletiva do mesmo título judicial objeto do presente Cumprimento Individual, o c. STJ afastou, expressamente, a aplicação da modulação de efeitos do Tema Repetitivo 880, e, por conseguinte, entendeu pelo advento da prescrição da pretensão executiva. 8. Nesse contexto, verifica-se a presença da probabilidade do direito e o risco ao resultado útil do processo aptos a fundamentar a suspensão cautelar do presente Cumprimento Individual, na origem, com base no poder geral de cautela do magistrado (CPC/15, artigos 297, 300 e 313, V, "a"), tendo em vista que a decisão definitiva do c. STJ no EREsp nº 1.301.935/DF deverá ser aplicada ao presente feito, pois, do contrário, subsistiriam dois prazos prescricionais diferentes, um para a execução coletiva e outro para a execução individual da mesma sentença coletiva. 9. Apelação conhecida e provida. Sentença cassada. Preliminar rejeitada. Determinada a suspensão do processo, na origem.” (Acórdão 1644410, 07101552920228070018, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 1/12/2022, publicado no DJE: 6/12/2022).
+
+Ante o exposto, renovando vênias ao e. Relator, NEGO PROVIMENTO ao recurso para manter inalterada a r. decisão recorrida.
+
+É o meu voto.
+
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal Com a divergência
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. MAIORIA. REDIGIRÁ O ACÓRDÃO O EMINENTE 1º VOGAL , DES. ARQUIBALDO CARNEIRO.
