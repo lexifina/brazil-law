@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor dePatriciados Santos, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul no julgamento do HC n. 1405543-23.2022.8.12.0000.
+Consta dos autos que a paciente foi presa em flagrante, posteriormente convertido em preventiva, pela suposta prática do crime de tráfico de drogas majorado, nos autos da Ação Penal n. 0000872-94.2022.8.12.0014, em curso na 2ª Vara Criminal da comarca de Maracaju/MS, pois foi surpreendida transportando em ônibus intermunicipal (Ponta Porã - Campo Grande) 16 kg de maconha e 1,4 kg de skunk (fl. 79).
+Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça local, sendo a ordem denegada, nos termos do acórdão acostado às fls. 104/109.
+No presente writ, a defesa sustenta a ausência de fundamentos acerca da necessidade da custódia e da presença dos requisitos autorizadores.
+Pontua que o crime imputado à paciente é destituído de violência e grave ameaça; que a ré conta com condições pessoais favoráveis e possui uma filha que completou 12 anos de idade recentemente, o que lhe permitiria responder ao processo em liberdade.
+Requer, inclusive em caráter liminar, seja substituída a prisão preventiva por medidas cautelares previstas no art. 319 do Código de Processo Penal ou, alternativamente, seja assegurada a prisão domiciliar à ré.
+O pedido liminar foi indeferido às fls. 118/119.
+Informações prestadas às fls. 122/123.
+O Ministério Público Federal, às fls. 127/129, opina pela denegação da ordem.
+É o relatório.
+Conforme relatado, busca-se com a impetração a substituição da prisão preventiva por outras medidas cautelares previstas no art. 319 do CPP ou por prisão domiciliar.
+Eis o que explicitou o Juízo ao decretar a preventiva (fl. 62 - grifo nosso):
+ ..
+Da análise da comunicação do flagrante encaminhada pela autoridade policial, ao delito atribuído à indiciada, artigo 33 caput da Lei 11.343/06 (tráfico de entorpecentes), a pena máxima é superior a 4 anos de reclusão, cabível a prisão preventiva quanto a esse requisito. E, ainda entendo presentes os requisitos da garantia da ordem pública e econômica e para a conveniência da instrução criminal, dada a natureza e quantidade do entorpecente que transportava: 16 kg de maconha e 1,4 kg de skank, bem como não residir no distrito da culpa e não ter trabalho fixo. E, as circunstâncias, estando em ônibus de passageiros, na intenção de receber dinheiro em contrapartida ao transporte de droga, tendo ciência de se tratar de ilícito.
+No entanto, analisando as informações prestadas pela presa em seu interrogatório, alegou possuir filho de 12 anos que fica a seus cuidados, porém, não há prova dessa condição instruindo o feito, que poderá ser reavaliada em nova oportunidade pelo juízo natural.
+ ..
+Por oportuno, o Tribunal a quo, ao denegar a ordem de habeas corpus, delineou que (fls. 106/108 - grifo nosso):
+ ..
+Em relação ao fumus comissi delicti: Há indícios suficientes de autoria porquanto surpreendida em situação de flagrância, transportando o entorpecente na bagagem que trazia consigo.
+Por seu turno, no que concerne ao periculum libertatis: A prisão preventiva se justifica para resguardar a ordem pública, dada a gravidade concreta dos fatos evidenciada sobretudo pelas circunstâncias do delito, aliadas à quantidade e à variedade da droga que estava sendo transportada pela paciente - 16 kg de maconha e 1,4 kg de skank - em ônibus intermunicipal, com itinerário Ponta Porã-MS - Campo Grande - MS.
+ ..
+De outro vértice, a paciente também não possui vínculo com o distrito da culpa, eis que reside no Estado de São Paulo, sendo pertinente a medida também, a princípio, para salvaguardar a aplicação da lei penal, como tem se posicionado esta E. Corte de Justiça Estadual. (..)
+ ..
+Por fim, a hipótese tampouco se amolda aos casos nos quais exsurge a possibilidade de prisão domiciliar, estando ausentes os pressupostos do art. 318 e 318- A, do CPP, não sendo genitora de filha menor de 12 anos, com deficiência, dentre outros fundamentos hábeis, como acrescentado pela Procuradoria-Geral de Justiça no parecer de f. 82-95 ("(..)a própria paciente afirmou na delegacia que seu filho fica os finais de semana com a avó e que era com a avó que ele estava no momento da sua prisão, evidenciado que a paciente é prescindível para os cuidados dele").
+Com efeito, presentes os requisitos da prisão preventiva, deve ser mantida, perfazendo-se, por conseguinte, insuficientes as medidas cautelares alternativas, de que trata o art. 319 do CPP.
+ ..
+De início, registre-se que a prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+In casu, as instâncias ordinárias apontaram prova da existência do delito e o receio de perigo gerado pelo estado de liberdade da paciente à ordem pública, com base em elementos concretos dos autos, notadamente a quantidade e diversidade das drogas apreendidas - 16 kg de maconha e 1,4 kg de skank -, além do fato de transportar em ônibus intermunicipal (Ponta Porã - Campo Grande) as referidas substâncias ilícitas, fundamentos aptos a consubstanciara prisão cautelar.
+Com efeito, o Superior Tribunal de Justiça já decidiu que a quantidade, a variedade ou a natureza da substância entorpecente apreendida podem servir de fundamento para a decretação da prisão preventiva (HC n. 547.239/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/12/2019).
+A corroborar: AgRg no RHC n. 169.005/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/9/2022; AgRg no RHC n. 163.014/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/6/2022; AgRg nos EDcl no AgRg no HC n. 729.768/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 22/6/2022; e AgRg no HC n. 704.010/GO, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 1º/4/2022.
+Ademais, o Tribunal de origem destacou o risco à futura aplicação da lei penal, apontando que a paciente não possui vínculo com o distrito da culpa, pois reside no estado de São Paulo (fl. 107), o que, embora isoladamente não justificasse a manutenção da custódia preventiva, reforça a sua necessidade.
+Confiram-se os seguintes julgados desta Corte Superior de Justiça: HC n. 692.567/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/10/2021; e HC n. 667.692/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/9/2021.
+Noutro ponto, é entendimento desta Corte Superior de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+No mesmo sentido, trago à colação os seguintes julgados de ambas as Turmas desta Corte Superior que julgam matéria penal: HC n. 681.586/ES, Ministra Laurita Vaz, Sexta Turma, DJe 1º/7/2022; e AgRg no HC n. 737.527/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/6/2022.
+Registre-se, por fim, que a própria defesa afirmou que a filha da paciente possui 12 anos de idade, de modo que não restou preenchido o requisito de ordem objetiva contido no art. 318, V, do CPP, para deferimento de prisão domiciliar.
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento ilegal na manutenção da prisão preventiva imposta a paciente.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTOS IDÔNEOS. QUANTIDADE E DIVERSIDADE DAS DROGAS APREENDIDAS (16 KG DE MACONHA E 1,4 KG DE SKUNK). CIRCUNSTÂNCIAS DO DELITO. TRANSPORTE DE DROGAS EM ÔNIBUS INTERMUNICIPAL (PONTA PORÃ - CAMPO GRANDE). GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE VÍNCULO NO DISTRITO DA CULPA. ASSEGURAR A APLICAÇÃO DA LEI PENAL. PRISÃO DOMICILIAR. ART. 318, V, DO CPP. NÃO PREENCHIMENTO DE REQUISITO OBJETIVO. FILHA QUE POSSUI 12 ANOS COMPLETOS.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
