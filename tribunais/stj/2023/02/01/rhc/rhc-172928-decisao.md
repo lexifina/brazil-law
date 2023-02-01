@@ -1,0 +1,28 @@
+DECISÃO
+Tratam os autos de recurso ordinário em habeas corpus, interposto por WESLEY ALVES DE JESUS- denunciado e preso preventivamente pela prática, in thesis, do tipo penal previsto no art. 121, § 2º, incisos I e IV, do Código Penal -contra acórdão lavrado pela Primeira Câmara Criminal do Tribunal de Justiça do Paraná, que denegou a ordem de habeas corpus lá impetrada para manter a prisão preventiva do paciente, nos seguintes termos (fl. 402):
+HABEAS CORPUS. IMPUTAÇÃO DO CRIME DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. MANUTENÇÃO. EVIDÊNCIAS DE MATERIALIDADE E INDÍCIOS DEENVOLVIMENTO NO REFERIDO CRIME. GARANTIA DA ORDEM PÚBLICA. DECISÃO FUNDAMENTADA NA GRAVIDADE EM CONCRETO DA CONDUTA DO PACIENTE, DEMONSTRADA PELO "MODUS OPERANDI". CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. INDICATIVOS DE QUE TESTEMUNHAS TEMEMREPRESÁLIAS DO PACIENTE. SUSTENTADA FRAGILIDADE DO CONJUNTO PROBATÓRIO. ANÁLISE APROFUNDADA INCABÍVEL NESTA SEDE PROCESSUAL. INDEVIDA A APLICAÇÃO, NO CASO EM EXAME, DE MEDIDAS CAUTELARES DIVERSAS DO ENCARCERAMENTO. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO PODEM SER ANALISADAS ISOLADAMENTE DAS CIRCUNSTÂNCIAS CONCRETAS DA CONDUTA, EM TESE, DELITUOSA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+Alega a parte recorrente, em necessária síntese, que não há provas cabais de que o recorrente estivera no local do crime, não tendo sido, ainda, analisadas as provas que dariam conta de que o recorrente estaria em outro local no momento do crime(fls. 421/431).
+Argumenta que a única testemunha ocular do fato não reconheceu o recorrente, sendo que as demais somente teriam ouvido dizer que o recorrente andava de moto próximo ao local do crime, pugnando, quanto ao ponto, pela necessidade de análise das imagens que dariam conta de que o recorrente, na hora do delito, se encontrava na casa de sua sogra, participando de um churrasco (fls. 421/431).
+Aduz que não há risco à instrução criminal, amedida que o próprio recorrentese disponibilizou, cooperando com as investigações(fls. 421/431).
+Requer o provimento do recursono sentido de revogar a prisão preventiva fixada na origem(fls. 421/431).
+É o relatório.
+Inicialmente, registre-se que ajurisprudência deste Superior Tribunalé pacífica no sentido de que o habeas corpus é remédio sumaríssimo, que não se faz sucedâneo dequalquer outra espécie de recurso, portanto, não comporta -por ser medida mais complexa -exame aprofundado das provas dispostas nos autos.
+Logo, a instância de origem, ao examinar o arcabouço fático-probatório, considerou suficientes as provas para prosseguimento de ação penal em desfavor doora recorrente, consequentemente, o entendimento contrário envolveria a análise doconjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus(AgRg no HC n. 715.782/SC, Ministro Rogerio Schietti CruzDJe 21/12/2022.)
+Ilustrativamente: RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, Sexta
+Turma, DJe 10/4/2019.
+Mesmo que superado esse óbice, denota-se que o voto condutor do acórdão impugnado indicou a existência de provas acerca da suposta atividade criminosa do ora recorrente, in verbis (fl. 406 - grifos nossos):
+ ..
+Além do mais, a decretação da prisão preventiva foi também fundamentada na conveniência da instrução criminal, haja vista que, conforme consignado na decisão impugnada, há "risco de destruição de provas e coação de testemunhas caso os acusados sejam colocados em liberdade, ressaltando-se que a grande maioria das testemunhas arroladas pela denúncia e ouvidas no curso das investigações, foram arroladas e inquiridas sob a condição de sigilo, isso dado o temor ostentando pelas testemunhas em face dos acusados, havendo inclusive a menção a já existência de ameaças a testemunhas e seus familiares".
+Consoante consignado pela Procuradoria-Geral de Justiça, no ponto, "foram ouvidas várias testemunhas sigilosas - cinco delas arroladas na denúncia. Uma das testemunhas, inclusive, afirmou que presenciou os fatos e conseguiu identificar "claramente" (sic) os réus e, no dia seguinte, recebeu a informação de que eles iriam lhe "pegar", bem como "pegariam" a sua filha (mov. 42.4). Além disso, outra testemunha sigilosa (mov. 26.1) relatou que o paciente chegou a deixar um bilhete dizendo que mataria todos da sua família. Imprescindível, portanto, a necessidade da segregação cautelar pela "conveniência da instrução criminal", porque se mostra indeclinável assegurar a integridade física das testemunhas, que contribuíram e ainda contribuirão para a elucidação dos fatos"(mov. 28.1 destes autos).
+ ..
+Sobre a conveniência da manutenção da prisão cautelar, o acórdão impugnado consignou (fl. 406):
+ ..
+Não restou evidenciada a existência do alegado constrangimento ilegal apto a justificar a concessão da ordem pleiteada.
+A decisão que converteu a prisão temporária do paciente em preventiva encontra-se fundamentada nas evidências de materialidade e nos indícios de envolvimento do paciente no crime a ele imputado, visando a garantia da ordem pública em razão da gravidade em concreto da sua conduta, em tese analisada, caracterizadora da sua periculosidade social por conta do risco de reiteração delitiva decorrente domodus operandi.
+ ..
+Logo, não merece reforma o acórdão impugnado.
+Ante o exposto,nego provimentoao recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO. SUPOSTA AUSÊNCIA DE PROVAS. INDEVIDO REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ESTREITA DO WRIT.PRISÃO CAUTELAR. FUNDAMENTAÇÃO A QUO SUFICIENTE.CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Recurso emhabeas corpusimprovido.
