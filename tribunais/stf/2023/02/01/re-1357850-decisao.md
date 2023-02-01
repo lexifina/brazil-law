@@ -1,0 +1,51 @@
+DECISÃO
+
+    Trata-se de recurso extraordinário interposto por José Márcio dos Santos com fundamento na alínea ‘b’ do permissivo constitucional (eDoc 6), em face de acórdão proferido pela Turma Recursal do Grupo Jurisdicional de Itajubá/MG, que negou ao autor o direito à indenização de férias-prêmio, férias regulamentares e respectivo adicional (eDoc 4).
+
+    Em suas razões recursais, o recorrente sustenta, em síntese, que:
+
+    [...] o regime jurídico administrativo foi convalidado até a referida data, mantendo a recorrente os seus direitos e obrigações com fulcro na Lei inconstitucional até a presente data. Ademais, a recorrente busca provimento jurisdicional para receber as férias relativas ao período de 01/01/2015 e 31/12/2015, abrangido pela modulação da ADI e posterior à declaração de inconstitucionalidade, não sendo um período de permanência irregular ou nulo. No mínimo a recorrente permanecia como contratada.
+
+    [...] imperioso concluir pelo direito da recorrente ao recebimento das férias-prêmio em pecúnia, tendo em vista que não pode gozá-las devido ao seu desligamento, não havendo em se falar em requerimento administrativo, pois tudo dependia da discricionariedade do recorrido.
+
+    Recebidos os autos nesta Corte, determinei a vista ao Ministério Público Federal que ofereceu parecer da lavra da ilustre Subprocuradora- -Geral da República, Dra. Maria Caetana Cintra Santos, assim sintetizado (eDoc 17):
+
+    RE. CONTRATAÇÃO DE SERVIDOR PÚBLICO. LC 100/2007 DO ESTADO DE MINAS GERAIS. DECLARADA INCONSTITUCIONAL PELO STF. DIREITO A FÉRIAS PRÊMIO E CONVERSÃO EM PECÚNIA. IMPOSSIBILIDADE. PRECEDENTES DO STF.
+
+    - “Em se tratando de contratação nula de servidor temporário, uma vez derivada da Lei Complementar Estadual mineira nº 100/2007, declarada inconstitucional pelo STF, não é devida indenização a título de férias-prêmio, eis que, como se depreende do Tema 916 da Repercussão Geral, somente é assegurada a esses trabalhadores a remuneração devida pelo trabalho desempenhado e o depósito do FGTS.” Precedente específico do STF.
+
+    - Pelo não provimento do recurso extraordinário.
+
+    É o relatório. DECIDO.
+
+    Este Supremo Tribunal Federal, ao julgar a ADI 4.876, ministro Dias Toffoli, declarou a inconstitucionalidade dos incisos I, II, IV e V do art. 7º da Lei Complementar nº 100/2007 do Estado de Minas Gerais, visto que a norma efetivou, sem prévia aprovação em concurso público, profissionais da área de educação que mantinham vínculo com a Administração (meus grifos):
+
+    Ação direta de inconstitucionalidade. Artigo 7º da Lei Complementar nº 100/2007 do Estado de Minas Gerais. Norma que tornou titulares de cargos efetivos servidores que ingressaram na administração pública sem concurso público, englobando servidores admitidos antes e depois da Constituição de 1988. Ofensa ao art. 37, inciso II, da Constituição Federal, e ao art. 19 do Ato das Disposições Constitucionais Transitórias. Modulação dos efeitos. Procedência parcial.
+
+    1. Desde a Constituição de 1988, por força do seu art. 37, inciso II, a investidura em cargo ou emprego público depende da prévia aprovação em concurso público. As exceções a essa regra estão taxativamente previstas na Constituição. Tratando-se, no entanto, de cargo efetivo, a aprovação em concurso público se impõe.
+
+    2. O art. 19 do Atos das Disposições Constitucionais Transitórias tornou estáveis os servidores que estavam em exercício há pelo menos cinco anos na data da promulgação da Constituição de 1988. A estabilidade conferida por essa norma não implica a chamada efetividade, que depende de concurso público, nem com ela se confunde. Tal dispositivo é de observância obrigatória pelos estados. Precedentes: ADI nº 289/CE, Relator o Ministro Sepúlveda Pertence, Tribunal Pleno, DJ de 16/3/07; RE nº 199.293/SP, Relator o Ministro Marco Aurélio , Tribunal Pleno, DJ de 6/8/04; ADI nº 243/RN-MC, Relator o Ministro Maurício Corrêa, Tribunal Pleno, DJ de 24/8/01; RE nº 167635/PA, Relator o Ministro Maurício Corrêa, Segunda Turma, DJ de 7/2/97.
+
+    3. Com exceção do inciso III (que faz referência a servidores submetidos a concurso público), os demais incisos do art. 7º da Lei Complementar nº 100, de 2007, do Estado de Minas Gerais tornaram titulares de cargo efetivo servidores que ingressaram na Administração Pública com evidente burla ao princípio do concurso público (art. 37, II, CF/88).
+
+    4. Modulação dos efeitos da declaração de inconstitucionalidade, nos termos do art. 27 da Lei nº 9.868/99, para, i) em relação aos cargos para os quais não haja concurso público em andamento ou com prazo de validade em curso, dar efeitos prospectivos à decisão, de modo a somente produzir efeitos a partir de doze meses, contados da data da publicação da ata de julgamento, tempo hábil para a realização de concurso público, a nomeação e a posse de novos servidores, evitando-se, assim, prejuízo à prestação de serviços públicos essenciais à população; ii) quanto aos cargos para os quais exista concurso em andamento ou dentro do prazo de validade, a decisão deve surtir efeitos imediatamente. Ficam, ainda, ressalvados dos efeitos da decisão (a) aqueles que já estejam aposentados e aqueles servidores que, até a data de publicação da ata deste julgamento, tenham preenchido os requisitos para a aposentadoria, exclusivamente para efeitos de aposentadoria, o que não implica efetivação nos cargos ou convalidação da lei inconstitucional para esses servidores, uma vez que a sua permanência no cargo deve, necessariamente, observar os prazos de modulação acima; (b) os que foram nomeados em virtude de aprovação em concurso público, imprescindivelmente, no cargo para o qual foram aprovados; e (c) a estabilidade adquirida pelos servidores que cumpriram os requisitos previstos no art. 19 do ADCT da Constituição Federal.
+
+    5. Ação direta julgada parcialmente procedente.
+
+    Para além disso, no âmbito da repercussão geral, esta Suprema Corte, no julgamento do RE 765.320 RG, ministro Teori Zavaski, Tema n. 916, assentou entendimento que “[...] a contratação por tempo determinado para atendimento de necessidade temporária de excepcional interesse público realizada em desconformidade com os preceitos do art. 37, IX, da Constituição Federal não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção do direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/1990, ao levantamento dos depósitos efetuados no Fundo de Garantia do Tempo de Serviço – FGTS” (meus grifos).
+
+    De outro lado, o Plenário deste Supremo, em sessão concluída em 15/12/2022, reconheceu a existência de repercussão geral da questão constitucional no RE 1.400.775 RG, ministra Rosa Weber (Tema n. 1.239). O tema submetido a julgamento foi assim resumido:
+
+    Exigibilidade do pagamento de férias-prêmio por parte de servidor estadual temporário, cujo vínculo então firmado com fundamento na Lei Complementar nº 100/2007, do Estado de Minas Gerais, foi declarado nulo em razão do julgamento da ADI 4.876/MG pelo Plenário desta Suprema Corte.
+
+    Pontuo que em referida ocasião, o Pleno desta corte reafirmou a sua jurisprudência “no sentido de que os únicos efeitos aplicáveis aos contratos eivados de nulidade, com burla ao concurso público, consistem no recebimento, pelos agentes públicos assim contratados, do salário pelos dias trabalhados e na possibilidade de levantamento dos depósitos do FGTS”.
+
+    Em face do exposto, considerando que a matéria impugnada coincide com a do RE 765.320 RG, Tema n. 916, e do RE 1.400.775 RG, Tema n. 1.239, determino a devolução dos presentes autos à instância a quo para que adote o disposto nos arts. 1.039, 1.040 e 1.041 do Código de Processo Civil.
+
+    Publique-se. Intime-se.
+
+Brasília, 1º de fevereiro de 2023.
+
+Ministro NUNES MARQUES
+
+Relator
