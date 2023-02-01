@@ -1,0 +1,119 @@
+DECISÃO
+
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. NEGATIVA DE SEGUIMENTO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI Nº 11.343, DE 2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTOS IDÔNEOS. REEXAME DE FATOS E PROVAS: INVIABILIDADE. NEGATIVA DE SEGUIMENTO. PEDIDO LIMINAR PREJUDICADO.
+
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do STJ pelo qual a Quinta Turma negou provimento ao Agravo Regimental no Habeas Corpus nº 719.504/MS.
+
+    2. Colhe-se dos autos que o recorrente foi condenado, em primeira instância, à pena de 6 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 650 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343, de 2006 (tráfico de drogas).
+
+    3. Contra essa decisão, o Ministério Público e a defesa interpuseram apelação. O Tribunal de Justiça do Estado de Mato Grosso do Sul deu parcial provimento a ambas as apelações para redimensionar a pena para 5 anos, 2 meses e 15 dias de reclusão e pagamento de 520 dias-multa. Deixou de aplicar a causa de diminuição do § 4º do art. 33 da Lei de drogas e alterou o regime inicial para o semiaberto em razão da detração. Opostos embargos de declaração, foram rejeitados.
+
+    4. A defesa interpôs recurso especial, inadmitido pelo Tribunal de origem. Sobreveio agravo em recurso especial perante o Superior Tribunal de Justiça, não conhecido pelo Ministro Relator. O agravo regimental interposto não foi conhecido por intempestividade. A decisão transitou em julgado em 09/02/2021.
+
+    5. Inconformada, a defesa impetrou, em 27/01/2022, habeas corpus perante o Superior Tribunal de Justiça, não conhecido pelo Ministro Relator, ao que se seguiu o mencionado agravo.
+
+    6. Neste recurso ordinário em habeas corpus, o recorrente diz pretender apenas a revaloração de fatos incontroversos expressamente descritos na denúncia, sentença e acórdão recorrido, o que é permitido pela jurisprudência consolidada deste Supremo Tribunal Federal. Alega atendidos os requisitos legais para a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas. Sustenta a inidoneidade da fundamentação adotada pelo Tribunal de Justiça para afastar o benefício, qual seja, a quantidade de droga e de dinheiro apreendidos. Assevera que, uma vez reconhecida a redução de pena, deve ser revisto o regime de cumprimento e analisada a possibilidade de substituição por penas restritivas de direitos.
+
+    7. Requer o reconhecimento do tráfico privilegiado e a determinação de cumprimento da pena em regime aberto, bem assim a substituição da pena privativa de liberdade por restritivas de direitos.
+
+    8. O Ministério Público do Estado de Mato Grosso do Sul, em contrarrazões, manifesta-se pelo não provimento do recurso (e-doc. 43).
+
+    9. A Procuradoria-Geral da República opina, igualmente, pelo não provimento do recurso (e-doc. 56).
+
+    10. Em 07/11/2022, o recorrente protocolizou a Petição STF nº 87.129/2022, requerendo a concessão de tutela antecipada para que seja revogada a prisão, a fim de que aguarde em liberdade o julgamento do presente recurso, porquanto a pena aplicada diverge da jurisprudência dessa Suprema Corte (e-doc. 60, p. 18).
+
+    É o relatório.
+
+    Decido.
+
+    11. Observa-se que a condenação transitou em julgado em 09/02/2021, tendo sido formalizada a impetração no STJ apenas em 27/01/2022, ao que se seguiu a interposição deste recurso ordinário em 02/06/2022. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, ressalvados os casos de manifesta ilegalidade (RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018).
+
+    12. Verificada a inadequação da via eleita, a concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a impetração, entendo não ser o caso dos autos.
+
+    13. Conforme o art. 33, § 4º, da Lei de Drogas, é viável a diminuição da pena, de 1/6 a 2/3, quando o agente for primário, sem antecedentes, não se dedicar a atividades delituosas nem integrar organização criminosa. Eis o teor do dispositivo:
+
+    “§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.” (grifos nossos).
+
+    14. No presente caso, o Tribunal de Justiça, ao dar provimento parcial às apelações interpostas pela defesa e pelo Ministério Público, na dosimetria, elevou a pena-base acima do mínimo legal sob os seguintes fundamentos:
+
+    “Com efeito, quanto às circunstâncias judiciais da ‘conduta social’ e ‘personalidade’, verifica-se que foram negativamente majoradas sob o argumento de que os apelantes têm o crime como meio de vida, a qual é propensa a prática criminosa, fatos que, em verdade, em nada refletem o comportamento do apelante no meio social onde vive, seu caráter e personalidade, motivo pelo qual devem ser desconsideradas.
+
+    No que se refere aos ‘motivos’ do crime, infere-se que esta circunstância foi negativada sob o argumento de que o apelante não possui trabalho licito, buscando ‘auferir vantagem às custas da vida, saúde e trabalho de outrem’, ou, em outras palavras, busca auferir lucro fácil.
+
+    Nesse ponto, necessário consignar que o desejo de obtenção de lucro fácil é inerente ao delito aqui apurado (tráfico de drogas), não podendo ser utilizado para elevar a basilar, sob pena de bis in idem. Logo, não há motivos para se negativar a circunstância em referência.
+
+    Consequentemente, as circunstâncias judiciais utilizadas pelo sentenciante devem ser neutralizadas na dosimetria da pena dos apelantes Everton e Leonardo.
+
+    Outrossim, como narrado, o Ministério Público também recorre quanto às circunstâncias judiciais, ao argumento de que deve ser reconhecida como negativas as circunstâncias da natureza e quantidade da droga, nos termos do art. 42 da Lei 11.343/2006.
+
+    Tenho que lhe assiste razão.
+
+    É que o art. 42 da Lei 11.343/06, tendo em vista a preponderância da circunstância judicial da natureza e pluralidade de drogas, estabelece: Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+
+    No caso em específico foram apreendidas 300 gramas de cocaína e 31 gramas de maconha.
+
+    Ora, nada obstante a quantidade pequena de maconha, não se pode esquecer que o montante de cocaína apreendido não é desprezível a ponto de ser desconsiderada. Não bastasse tal fato, tem-se a variedade de drogas apreendidas, o qual é fator a ser considerado quando da fixação das penas.
+
+    E mais: no caso, temos a natureza das drogas apreendidas: a cocaína, que sabidamente causa grandes efeitos no organismo (aumento de frequência cardíaca e pressão arterial, podendo causar infartos, além de nervosismo extremos, alucinações, delírios e comportamentos violentos) e comportamentais (desmotivação, agressividade e descontrole). Não bastasse isso, o uso contínuo da droga, pode levar o dependente à hemorragias, depressão, perda de memória, falhas renais, psicose, infarto, além de dependência, eis que o usuário busca consumir mais e mais a droga.
+
+    Portanto, não se pode desconsiderar a quantidade, a natureza e diversidade de drogas para a fixação da pena é fazer letra morta do que dispõe o art. 42 da Lei de Drogas.
+
+    Aliás, acerca da questão, anotem-se os entendimentos jurisprudenciais:
+
+    (...)
+
+    Assim, é de rigor o acolhimento do pleito ministerial para o fim de reconhecer a circunstância negativa do art. 42, da Lei 11.343/2006.
+
+    Passo, então, à nova dosimetria da pena e à fixação do regime inicial para o cumprimento da pena:
+
+    (...)
+
+    b) Everton Machado Ferreira de Souza
+
+    Na primeira fase: neutralizadas as circunstâncias personalidade, conduta social e motivos. Outrossim, reconhece-se a circunstância do art. 42, da Lei 11.343/2006, diante da qualidade, variedade e natureza das drogas apreendidas. Portanto a pena base resta fixada em 6 (seis) anos e 03 (três) meses, além de 625 (seiscentos e vinte e cinco) dias multa à razão de 1/30 do valor do salário mínimo vigente à época dos fatos.
+
+    Em segunda fase, presente a atenuante da confissão espontânea, por conseguinte a pena intermediária resta fixada em 5 (cinco) anos, 2 (dois) meses e 15 (quinze) dias e 520 (quinhentos e vinte) dias multa.
+
+    Na terceira fase, ausentes causas de aumento ou diminuição. Portanto a pena de Everton Machado Ferreira de Souza, resta definitivamente fixada em 5 (cinco) anos, 2 (dois) meses e 15 (quinze) dias e 520 (quinhentos e vinte) dias multa, à razão de 1/30 do valor do salário mínimo vigente à época dos fatos.” (e-doc. 3, p. 14-17, grifos nossos).
+
+    15. Deixou de aplicar a minorante do art. 33, § 4º, da Lei nº 11.343, de 2006, assentando a dedicação a atividades criminosas, reportando-se à natureza e à quantidade da droga apreendida e à apreensão de balança de precisão e dinheiro em poder do paciente. Eis o trecho do acórdão:
+
+    “Pois bem. Na hipótese dos autos, os apelantes não possuem maus antecedentes tampouco registros aptos a gerar reincidência, de modo que reúnem os requisitos de avaliação objetiva para a obtenção do beneplácito (certidão de antecedentes de fls. 219 e 222).
+
+    Entretanto, há provas nos autos suficientes a demonstrar que os apelantes se dedicavam a atividades criminosas.
+
+    É que, conquanto tenha sido afastada a condenação por associação para o tráfico, a diversidade das drogas (maconha e cocaína), a natureza de um dos entorpecentes (cocaína, de alto poder viciante e lesivo à saúde humana), a quantidade apreendida de cocaína (400 gramas) bem como a apreensão de petrechos próprios da traficância (balança de precisão) e de dinheiro em poder do apelante Everton (R$780,00) são indicativos seguros de habitualidade no exercício do comércio de entorpecentes. Como corolário, não há que se falar em aplicabilidade da causa de diminuição do art. 33, § 4° da Lei 11.343/2006.” (e-doc. 3, p. 13, grifos nossos).
+
+    16. Percebe-se que a causa de diminuição não foi afastada a partir tão somente da quantidade e da natureza da droga apreendida, mas também em razão da apreensão de uma balança de precisão e de certa quantia em dinheiro, circunstâncias consideradas para indicar dedicação do recorrente a atividades criminosas. As premissas estão em consonância com a jurisprudência do Supremo Tribunal Federal:
+
+    “Agravo regimental em habeas corpus. Penal. Condenação. Tráfico de drogas (art. 33 da Lei nº 11.343/06). Impetração dirigida contra decisão monocrática por meio da qual o relator do habeas corpus no Superior Tribunal de Justiça não conheceu do writ. Não exaurimento da instância antecedente. Apreciação per saltum. Impossibilidade. Afastamento da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, ainda que desconsiderada condenação por idêntico delito não transitada em julgado, com base no reconhecimento da dedicação do agravante a atividades criminosas relacionadas ao tráfico de drogas. Natureza e quantidade da droga apreendida (442 g de maconha) associadas a outras circunstâncias (ausência de vínculo empregatício, envolvimento desde a menoridade em atos ilícitos, habitualidade do crime como modo de vida, agraciado com liberdade provisória voltou a delinquir, anterior reconhecimento em outro processo da benesse do redutor). Necessidade de incursão em fatos e provas para se divergir da conclusão das instâncias ordinárias. Abrandamento de regime de prisão. Impossibilidade. Quantidade e natureza da droga apreendida. Motivação idônea para justificar a imposição do regime inicial mais gravoso. Violação do princípio da colegialidade. Não ocorrência. Legitimidade da atuação do relator na forma regimental (RISTF, art. 21, § 1º). Precedentes. Agravo regimental não provido.”
+
+    (HC nº 208.727-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 28/03/2022, p. 29/04/2022; grifos nossos)
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33 DA LEI 11.343/2006). CAUSA ESPECIAL DE REDUÇÃO DE PENA (ART. 33, § 4º, DA LEI 11.343/2006). AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. FUNDAMENTOS IDÔNEOS. 1. A jurisprudência do SUPREMO TRIBUNAL FEDERAL chancela o afastamento da causa de diminuição (art. 33, § 4º, da Lei 11.343/2006) quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do acusado, b) o concurso eventual de pessoas, e c) a quantidade de droga. 2. As instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, assentaram que os elementos colhidos sob o crivo do contraditório indicaram a dedicação do paciente a atividades criminosas. O registro de que o agravante alugou imóvel para a prática do comércio de drogas, bem como a apreensão de considerável quantidade de entorpecente e petrechos destinados à divisão da substância, revelam que a hipótese não retrata quadro de traficância eventual ou de menor gravidade, circunstâncias para quais a minorante em questão deve incidir. (...). 5. Agravo regimental a que se nega provimento.”
+
+    (HC nº 161.482-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 15/10/2018, p. 19/10/2018; grifos nossos).
+
+    “Agravo regimental no recurso ordinário em habeas corpus. 2. Tráfico de drogas. 3. Não incidência do redutor previsto no artigo 33, § 4º, da Lei 11.343/2006 e a consequente impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos. 4. Paciente responsável por ponto de venda de entorpecentes. Dedicação ao tráfico de drogas. 5. Agravo regimental desprovido.”
+
+    (RHC nº 160.549-AgR/RR, Rel. Min. Gilmar Mendes, Segunda Turma, j. 22/02/2019, p. 28/02/2019; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO PROVISÓRIA DA PENA. PREJUÍZO. IMPETRAÇÃO FORMALIZADA CONTRA DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR EM HABEAS CORPUS ENDEREÇADO A TRIBUNAL SUPERIOR. APLICAÇÃO DA SÚMULA 691/STF. NÃO CONHECIMENTO. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. DESCABIMENTO DE SUPERAÇÃO SUMULAR. TRÁFICO DE DROGAS. MINORANTE. DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. REFORMATIO IN PEJUS. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Ordem concedida pelo STJ para conferir ao ora paciente o direito de recorrer em liberdade até o trânsito em julgado da sentença penal condenatória. Prejuízo. 2. A teor da Súmula 691/STF, é inadmissível a impetração de habeas corpus contra decisão denegatória de liminar, salvo em hipóteses excepcionais, em que o impetrante demonstre a existência de flagrante ilegalidade, abuso de poder ou teratologia na decisão hostilizada. 3. Inocorrência das hipóteses de excepcional superação do verbete sumular. 4. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. 5. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante com respaldo em evidências de se dedicar o agravante a atividades criminosas. 6. Reformatio in pejus. Inexistência. Precedentes. 7. Agravo regimental prejudicado quanto às alegações sobre a execução provisória da pena, e desprovido, no mais.”
+
+    (HC nº 154.090-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 14/02/2022, p. 08/04/2022; grifos nossos).
+
+    17. Além disso, assentada, pelas instâncias ordinárias, a dedicação do paciente a atividades ilícitas, a partir de dados concretos, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus, conforme precedentes de ambas as Turmas: HC nº 105.163/SP (Rel. Min. Cármen Lúcia, Primeira Turma, j. 03/05/2011, p. 18/05/2011); HC nº 157.282-AgR/SP (Rel. Min. Roberto Barroso, Primeira Turma, j. 05/10/2018, p. 05/11/2018); HC nº 156.894-AgR/SP (Rel. Min. Dias Toffoli, Segunda Turma, j. 14/08/2018, p. 05/09/2018); e HC nº 195.352-AgR/RS (Rel. Min. Nunes Marques, Segunda Turma, j. 08/03/2021, p. 09/04/2021). A propósito, confira-se:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. A existência de ações penais em curso constitui premissa idônea e válida a evidenciar a dedicação a atividade criminosa e justificar o afastamento do tráfico privilegiado. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – aplicação do tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º) –, do conjunto fático-probatório produzido nas instâncias ordinárias, que as levou a concluir pela “dedicação às atividades criminosas como verdadeiro meio de vida”. 4. Agravo interno desprovido.”
+
+    (HC nº 201.617-AgR/AM, Rel. Min. Nunes Marques, Segunda Turma, j. 23/11/2021, p. 17/12/2021; grifos nossos).
+
+    18. Ante o exposto, nego seguimento ao recurso ordinário habeas corpus, com fundamento no art. 21, § 1º, do RISTF, ficando prejudicado o pedido liminar.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
