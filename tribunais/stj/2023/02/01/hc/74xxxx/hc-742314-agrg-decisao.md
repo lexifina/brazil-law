@@ -1,0 +1,35 @@
+DECISÃO
+Trago à apreciação da Sexta Turma destaCorte o agravo regimental interposto pelo Ministério Público Federal contra a decisão mediante a qual concedi liminarmentea ordem de habeas corpus em prol de Flávio Donizeti Pinheiro Júnior. Eis a ementa do decisum, de fl. 73:
+HABEAS CORPUS.EXECUÇÃO PENAL. CUMPRIMENTO DEPENA PRIVATIVA DE LIBERDADE.CONDENAÇÃO À PENARESTRITIVA DE DIREITOS. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM SANÇÃO CORPORAL E UNIFICAÇÃO DAS REPRIMENDAS. IMPOSSIBILIDADE. NOVO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RESP N. 1.918.287/MG. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordemconcedida liminarmente nos termos do dispositivo.
+Argumenta o agravante, em suma, que (fls. 83/85 - grifo nosso):
+A superveniente condenação do paciente ao cumprimento de pena privativa de liberdade dá ensejo à conversão da sanção restritiva de direitos anteriormente imposta ao unificar as penas, diante da incompatibilidade de cumprimento simultâneo.
+Como visto, o apenado foi condenado à pena privativa de liberdade, que resulta na contenção física do indivíduo, o que inviabiliza o cumprimento simultâneo da restrição anteriormente imposta, consistente em prestação de serviços à comunidade. Diante da impossibilidade de execução conjunta das penas, deve ser convertida a sanção restritiva de direito em privativa de liberdade, e realizada a unificação das penas.
+O art. 44, §5º, do Código Penal estabelece quesobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução decidirá acerca da conversão, podendo deixar de aplicá-la se for possível o condenado cumprir a pena substitutiva anterior. No presente caso é incompatível o cumprimento da pena privativa de liberdade posterior com a condenação de prestação de serviços à comunidade.
+Assim, com a condenação posterior do paciente à sanção privativa de liberdade, devem ser convertidas as penas substitutivas impostas anteriormente, por ocasião da unificação das penas.
+ ..
+Demonstrada a incompatibilidade do cumprimento simultâneo das penas impostas ao paciente, não há constrangimento ilegal a ser sanado por essa instância superior, restando justificada a conversão da sanção restritiva de direito em privativa de liberdade.
+Ressalto que não se aplica ao presente caso a parte final da tese firmada pela Terceira Seção desta Corte, no julgamento do REspn. 1.918.287/MG, uma vez que trata de situação fática diversa, estando expressamente decidido queé vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente.
+Na espécie, o Juízo de primeiro grau consignou que a pena privativa de liberdade foi impostaposteriormenteà restritiva de direitos, como se infere do seguinte trecho:considerando que após a prática do delito que lhe rendeu condenação à pena restritiva de direitos, o (a) sentenciado (a) foi apenado (a) por outro (s) delito (s), com imposição de condenação ao cumprimento de pena privativa de liberdade transitada em julgado (processo criminal nº 4056-93.2021 - PEC nº 5614-06.2019 e 12641-37.2021) em penas privativas de liberdade, forte no art. 44, § 5º do Código Penal(fl. 33 e-STJ).
+Como visto,a sanção substituída é anterior à condenação do paciente à pena privativa de liberdade,aplicando-se a primeira parte da tese firmada no julgamento do REsp n. 1.918.287/MG,in verbis: Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade.
+Requer, assim, a reconsideração da decisão agravada ou, em assim não entendendo, que o presente agravo regimental seja submetidoao Colegiado, para que seja provido, no sentido de denegar a ordem(fl. 85).
+Intimadaeletronicamente, a Defensoria Pública estadual manifestou-se pelo indeferimento do Agravo Regimental interposto pelo Ministério Público Federal (fls. 95/99).
+É o relatório.
+É caso de reconsiderar adecisão de fls. 73/76, ora agravada.
+Acerca da questão, consignou o Tribunal a quo (Agravo em Execução n. 0014875-89.2021.8.26.0502 - fls. 60/61 - grifo nosso):
+Com efeito, FLÁVIO foi condenado nos autos nº 0005003-29.2014.8.26.0362, ao desconto de 2 anos de detenção, em regime inicial aberto, pela prática de homicídio culposo na direção de veículo automotor, pena esta substituída por restritivas de direitos. Contudo, o agravante também foi condenado ao desconto de 3 anos de reclusão, em regime inicial fechado, pela prática de tráfico de drogas, e 2 anos e 4 meses de reclusão, em regime inicial fechado, pela prática de uso de documento falso (processos nºs 0007073-87.2012.8.26.0362 e 1500307-90.2020.8.26.0546).
+De acordo com o artigo 44, parágrafo 5º, do Estatuto Repressivo, "Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-lase for possívelao condenado cumprir a pena substitutiva anterior" (grifei)
+Nesse mesmo sentido é o disposto no artigo 181, parágrafo 1º, alínea "e", da Lei nº 7.210/84:
+"Art. 181. A pena restritiva de direitos será convertida em privativa de liberdade nas hipóteses e na forma do art. 45 e seus incisos do Código Penal.
+§ 1º. A pena de prestação de serviços à comunidade será convertida quando o condenado:
+(..)
+e) sofrer condenação por outro crime à pena privativa de liberdade, cuja execução não tenha sido suspensa".
+Então, diante dessas determinações legais, o Juiz da execução, ao tomar conhecimento de nova condenação,DEVEunificar as penas. Cuida-se, portanto, de uma imposição legal ao Magistrado. Consequentemente, diante doquantumdas penas unificadas, não seria possível o sentenciado permanecer com uma de suas penas substituídas por restritivas de direitos, em virtude do total do castigo, coisa que encontra óbice no artigo 44, do Código Penal.
+Desse modo, verifica-se que o quantum decidido pela instância ordinária está em perfeita sintonia com a orientação jurisprudencial deste Tribunal Superior, que se firmou no sentido de que, "sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade" (REsp n. 1.918.287/MG - repetitivo - relatora para acórdão Ministra Laurita Vaz, Terceira Seção, julgado em 27/4/2022 - grifo nosso).
+Sobre o tema: AgRg no HC n. 737.925/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/6/2022.
+Tal o contexto, dou provimento ao agravo regimental para, reconsiderando a decisão agravada, denegar a ordem de habeas corpus.
+Comunique-se o teor desta decisão imediatamente ao Tribunal de Justiça de São Paulo.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECONSIDERAÇÃO DODECISUM. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DE CONDENAÇÃO POR PENA PRIVATIVA DE LIBERDADE NO CURSO DA EXECUÇÃO DA PENA RESTRITIVA DE DIREITOS. RECONVERSÃO. POSSIBILIDADE. APLICAÇÃO DA PRIMEIRA PARTE DA TESE FIRMADA NO JULGAMENTO DO RESP N. 1.918.287/MG.
+Agravo regimental provido para, reconsiderando a decisão agravada, denegar a ordem.
