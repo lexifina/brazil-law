@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de recursos especiais interpostos por OI S/A- EM RECUPERAÇÃO JUDICIAL, na qualidade de sucessora por incorporação societária de TELEMAR NORTE LESTE S/A (EM RECUPERAÇÃO JUDICIAL), e porBRASIL TELECOM COMUNICAÇÃO MULTIMÍDIA S. A., fundamentados na alínea "a" do permissivo constitucional.
+Em razão da distribuição prévia do AREsp 912.484/PE, com data de publicação em 3/10/2017, e do alegado nas petições de e-STJ fls. 3809-3818 e 3819-3821, consulto o e. Min. Paulo de Tarso Sanseverino acerca de sua eventual prevenção para o julgamento destes recursos, nos termos do disposto no art. 71 do RISTJ.
