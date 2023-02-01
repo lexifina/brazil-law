@@ -1,0 +1,8 @@
+DECISÃO
+LUIZ ANTÔNIO CAUS,às fls. 4.483-4.494, formula pedido de exclusão da qualificadora prevista no art. 121, § 2º, I, do CP.A petição apresentada, contudo,é manifestamente incabível.
+Inicialmente, destaco que a pretensão defensiva constitui indevida inovação recursal, porquanto suscitada, de forma inédita, na petição ora em exame.
+Ademais, percebe-se que a defesa busca oexame de tese meritória no âmbito de agravo em recurso especial que nem sequer foi conhecido. É dizer, a impugnação não reuniu os pressupostos de admissibilidade para possibilitar a sua apreciação. Igualmente, o agravo regimental não foi conhecido por ausência de dialeticidade recursal.
+Assim, não há como o requerente, por via transversa, tentar esquivar-se do complexosistema recursal vigente, que garante às partes o direito de reexame das decisões judiciais. Eventual irresignação com o resultado dodecisumprolatado pelaSexta Turma do STJ deve ser dirigida ao órgão competente.
+Por fim, não há como se examinar o pedido de concessão de habeas corpus de ofício, uma vez que, segundoa jurisprudência desta Corte Superior, "Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese (EDcl no AgRg no AREsp 1.939/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2015, DJe 13/08/2015)" (AgRg nos EAREsp n. 263.820/DF, Rel. Min. Nefi Cordeiro, 3ª S., DJe 30/10/2018).
+À vista do exposto,não conheço do pedido, porquanto é manifestamente incabível nesta via excepcional.
+Publique-se e intimem-se.
