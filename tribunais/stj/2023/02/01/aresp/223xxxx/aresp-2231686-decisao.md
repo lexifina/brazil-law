@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO BRASILEIRA DOS DISTRIBUIDORRES CHERY (ASSOCHERY) contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Inicialmente consigne-se que ao presente recurso incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, o recurso especial foi inadmitido, em razão de o acórdão estar em conformidade com a pacífica jurisprudência do STJ, conforme precedentes colacionados (Súmula 83/STJ).
+Contudo, as razões recursais não impugnam especificamente a fundamentação adotada para a inadmissão do recurso, o que acarreta o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
