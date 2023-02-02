@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARCELO CARVALHO DE OLIVEIRAcontra decisão proferida pela Presidência desta Corte Superior nos seguintes termos:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, Súmula 83/STJ, Súmula 7/STJ, Súmula 280/STF e ausência de indicação dos acórdãos paradigmas para ilustrar a divergência.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, Súmula 83/STJ, Súmula 7/STJ, Súmula 280/STF e ausência de indicação dos acórdãos paradigmas para ilustrar a divergência.
+No agravo interno, o agravante aponta impugnou todos os fundamentos da decisão de inadmissibilidade, inclusive quanto à suposta incidência do óbice da Súmula 7/STJ.
+O Ministério Público Federal apresentou contraminuta às fls. 484/487 e-STJ.
+É o relatório.
+Com efeito, houve a completa impugnação à decisão de inadmissibilidade proferida na origem.
+Sendo assim, passo à análise do agravo em recurso especial.
+Trata-se de agravo em recurso especial interposto por MARCELO CARVALHO DE OLIVEIRA, em face de decisão proferida pelo Tribunal de Justiça do Distrito Federal e Territórios que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 304e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. NULIDADE. PREJUÍZO.INOCORRÊNCIA. HIPÓTESES DE CABIMENTO DO AGRAVO DE INSTRUMENTO.TAXATIVIDADE MITIGADA. URGÊNCIA. NÃO CONFIGURAÇÃO. RISCO DE INUTILIDADE DO JULGADO. AUSÊNCIA. INADMISSIBILIDADE DO RECURSO. Pelo princípio pas de nullité sans grief, somente se decreta a nulidade de atos processuais, quando demonstrado prejuízo pela parte interessada, a teor do artigo 282, § 1º, do Código de Processo Civil. A jurisprudência está consolidada no sentido de que o rol do artigo 1.015, do CPC, é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento, quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação (Tema Repetitivo nº 988, do Superior Tribunal de Justiça), o que, contudo, não se verifica na hipótese dos autos. Cabe agravo de instrumento da decisão interlocutória que verse sobre exclusão de litisconsorte, não se admitindo a interpretação extensiva para abarcar a decisão que mantém o recorrente como parte do processo.
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. NULIDADE. PREJUÍZO.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 352 e-STJ):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO. CONTRADIÇÃO.INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO.MENÇÃO EXPRESSA AOS DISPOSITIVOS LEGAIS. DESNECESSIDADE. Os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar do acórdão impugnado eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022 e incisos, do Código de Processo Civil. A insatisfação do embargante com o resultado do julgamento não é suficiente para sua alteração por meio dos embargos de declaração. Julgados proferidos por outras Turmas Cíveis sem efeito vinculante não obrigam o exame da matéria desse órgão colegiado no mesmo sentido. Para fins de prequestionamento, dispensa-se a menção específica aos dispositivos legais citados pelas partes, sendo suficiente, para tanto, que a questão tenha sido discutida nas instâncias ordinárias.
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO. CONTRADIÇÃO.
+No recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aos seguintes dispositivos: a) art. 1.022, II, do CPC/2015, eis que o Tribunal de origem não se manifestou sobre temas relevantes suscitados oportunamente; b) arts. 9º,10 e 282, § 1º, do CPC/2015, apontando nulidade processual; c) art. 1.015, I e VII, do CPC/2015, pois cabível o agravo de instrumento interposto; d) art. 926 do CPC/2015, uma vez que o Tribunal de origem já conheceu de recursos em contexto similar.
+O Ministério Público do Distrito Federal e Territórios apresentou contrarrazões às fls. 394/510 e-STJ.
+Decisão de inadmissibilidade às fls. 413/418 e-STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Passo a decidir.
+Com efeito, considerando o preenchimento dos requisitos de admissibilidadedo agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, reconsidero a decisão agravada para conhecer doagravoem recursoespeciale, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, determinar sua autuaçãocomo recursoespecial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. AGRAVOCONHECIDOPARA REAUTUAÇÃO EM RECURSOESPECIAL.
