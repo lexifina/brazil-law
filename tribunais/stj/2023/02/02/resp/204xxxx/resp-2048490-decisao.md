@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AMORIM & CIA LTDA em face de DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTE (DNIT), no qual se discute a destruição de propriedade localizada em área de domínio público de rodovia após ter sido aprovada a planta de construção do imóvel pelo Município de São José de Mipibu, bem como a legitimidade de agir do DNIT, tendo em vista que a área em questão é de propriedade do referido Município.
+Por tratar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, I, III e XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
