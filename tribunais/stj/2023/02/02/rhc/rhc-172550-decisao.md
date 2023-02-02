@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso ordinário emhabeas corpus, interposto porIRLANDIA VASCONCELOS DO PRADO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIAno julgamento do HC n. 0804988-76.2022.8.22.0000.
+Extrai-se dos autos que o paciente foi presa em flagrante em 7/1/2022 e denunciada por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas corpus. Tráfico de entorpecentes. Prisão preventiva. Requisitos presentes. Autoria e materialidade. Garantia da ordem pública. Entorpecentes para uso próprio. Circunstância que não descaracteriza o comércio. Condições pessoais favoráveis. Irrelevância. Excesso de prazo. Denúncia oferecida. Alegação superada. Medidas cautelares. Inviáveis. Ordem denegada.
+Deve ser mantido decreto de prisão preventiva, uma vez presentes os requisitos do art. 312 do CPP, especialmente quando demonstrados os indícios de autoria e materialidade, havendo necessidade da medida cautelar para garantia da ordem pública.
+O fato de o agente ser usuário não descaracteriza o narcotráfico, haja vista que, em alguns casos, os dependentes também comercializam a droga.
+Eventuais condições pessoais favoráveis, por si sós, não são suficientes para autorizar a concessão de liberdade provisória ou a revogação da prisão preventiva, se presentes seus motivos ensejadores.
+O prazo para o início e término da instrução processual penal não deve ser analisado apenas sob a ótica temporal. O só fato de ter alcançado o tempo genérico previsto na legislação não ocasiona a automática soltura, devendo serem analisadas as peculiaridades do caso concreto.
+Fica superada a alegação por excesso de prazo, quando a denúncia já foi oferecida.
+É inviável a aplicação de medida cautelar alternativa, quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes e inadequadas para a manutenção da ordem pública e aplicação da lei penal, bem como não havendo nos autos fatos a modificar a situação fática do paciente.
+Ordem denegada."(fls. 27/28).
+No presente writ, a Defensoria Pública alega a ausência de fundamentação idônea quanto à necessidade da prisão preventiva da paciente e afirma não haver demonstração concreta da existência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Destaca que a recorrente conta com condições pessoais favoráveis, quais sejam,residência fixa e trabalho lícito e assevera que a quantidade de entorpecentes apreendida foi diminuta epondera a ocorrência de violação ao princípio da presunção de inocência.
+Requer, ao final, o provimento do recurso a fim de que a recorrente seja beneficiada com a liberdadeprovisória.
+O Ministério Público Federal opinou pelo provimento do recurso com a concessão da ordem de habeas corpus de ofício para que se determine o trancamento da ação penal (fls. 171/180).
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que o presente mandamus, no ponto em que alega ausência de fundamentação da custódia cautelar, traz pedido idêntico ao formulado no HC 769510/RO, queem decisão proferida em 10/11/2022 foi julgado prejudicado.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste writ, quanto ao ponto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020).
+E ainda que assim não se entenda, cumpre acrescentar que em consulta à página eletrônica do Tribunal de origem, constata-se que, em 23/9/2022, foi proferida sentençana Ação Penal n. 7000981-49.2022.8.22.0001, julgando parcialmente procedenteo pedido. Todavia, não é possível aferir o teor do julgado, constando apenas que o Ministério Público estadual interpôs recurso de apelação em 21/10/2022.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se inverossímil, diante da interposição do recurso ministerial. De outro lado,inexiste notícia de expedição de alvará de soltura em benefício daora pacienteapós a prolação da sentença.
+Todavia, não há como aferir se a segregação antecipada foi mantida ou não, tampouco se houvea adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento da ação que busca revogá-la, diante da notícia da prolação de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio da recorrente, afigura-se forçoso entender pela perda, quanto ao ponto, de objeto do presente habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à recente decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
