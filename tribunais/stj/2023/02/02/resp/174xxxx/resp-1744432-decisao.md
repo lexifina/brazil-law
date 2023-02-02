@@ -1,0 +1,13 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõerecurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição da República, em decorrência deacordão proferido pelo Tribunal Regional Federal da 5ª Região.
+Informam osautos que MANOEL RAIMUNDO DE SANTANA NETO, na condição de ex-prefeito de Juazeiro do Norte/CE e ANTÔNIO BONAPARTE DE SANTANA FERREIRA, na condição de ex-secretário de saúde de Juazeiro do Norte/CE,foram denunciados pela prática do ilícito tipificado no art.1º, III, do Decreto-Lei n. 201/1967.
+A Corte de origem rejeitou a denúncia,sob o fundamento de inépcia da inicial e atipicidade da conduta.
+Neste recurso especial, o MPF sustenta a negativa de vigência ao art. 41 do CPP, vez que a denúncia narra de forma satisfatória a conduta delituosa atribuída aos denunciados.Requer o provimento do recurso especial, a fim de receber-se a denúncia em desfavor dos recorridos, pelo crime descrito no artigo no art. Iº, III, do Decreto-lei n. 201/1967.
+O Parquet Federal oficiou pelo provimento do recurso(fl. 200).
+Decido.
+A Corte local, ao rejeitar a denúncia, salientou que "não  foi colhido qualquer elemento que demonstre minimamente o liame entre os atos praticados e as pessoas dos denunciados", in verbis:
+ ..  Compulsando os autos, observo que, após o oferecimento da denúncia, foram fornecidos documentos pelo Banco do Brasil ao Ministério Público Federal demonstrando que as transferências foram feitas pelos servidores municipais GERALDO CARREIRO DE BARROS FILHO e GREYCIANI ELLI OLIVEIRA, MACEDO, que movimentaram a conta que" recebeu as verbas transferidas do Fundo Nacional de Saúde, "com escopo de efetivar a requalificação de Unidades Básicas de Saúde do Município de Juazeiro do Norte/CE, desviadas pura pagamento de servidores públicos municipais" (fls. 67-74).
+Ora, se a própria instituição bancária informou que as pessoas responsáveis pelas movimentações financeiras são diversas dos denunciados, nãosendo colhido qualquer elemento que demonstre minimamente o liame entre os atos praticados e as pessoas dos denunciados. não me parece adequada à conduta destes últimos a imputação que lhes foi feita.  ..  (fl. 107)
+Assim,forçoso rememorar que esta Corte Superior entende que "a(eventual) desconstituição das premissas fáticas do acórdão recorrido, para fins de recebimento da denúncia, demandaria imprescindível reexame de prova, o que é defeso na via especial, em razão do que preceitua a Súmula 7/STJ"(AgRg no REsp n. 1.966.491/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+À vista do exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
