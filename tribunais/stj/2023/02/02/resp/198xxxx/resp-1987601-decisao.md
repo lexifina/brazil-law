@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto porWESLEY DOS SANTOS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSOem julgamento da Apelação Criminal n. 0025918-04.2017.8.11.0042.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico ilícito de entorpecentes), à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa (fl. 315).
+Recurso de apelação interposto pela defesa foi parcialmente provido para aplicar o redutor do tráfico privilegiado, readequando a pena para 2 anos e 6 meses de reclusão, em regime inicial aberto, e 250 dias-multa, substituída por duas penas restritivas de direitos(fl. 420). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - CONDENAÇÃO - RECURSO DEFENSIVO - PRELIMINAR DE ILEGALIDADE DA BUSCA PESSOAL -INOCORRÊNCIA - FUNDADA SUSPEITA CARACTERIZADA - PLEITO DEABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA PARA AQUELA DESCRITANO ART. 28 DA LEI DE DROGAS - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DOS DELITOS COMPROVADAS - DEPOIMENTOS DE POLICIAISEM JUÍZO EM HARMONIA COM AS DEMAIS PROVAS DOS AUTOS - APLICAÇÃODA CAUSA DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO - VIABILIDADE- INQUÉRITOS E AÇÕES PENAIS EM ANDAMENTO NÃO SERVEM PARAAFASTAR O § 4º, DO ART. 33, DA LEI. 11.343/06 - REGIME INICIAL MODIFICADO PARA O ABERTO ANTE A READEQUAÇÃO DA PENA - PENA DE MULTA ALTERADA DE FORMA PROPORCIONAL - SUBSTITUIÇÃO POR DUAS PENAS RESTRITIVAS DE DIREITOS - RECURSO DEFENSIVO CONHECIDO E PARCIALMENTE PROVIDO"(fls. 406/407).
+Em sede de recurso especial (fls. 439/452), a defesa apontou violação aos arts. 157, 386, VII,do Código de Processo Penal - CPP, sustentando, em síntese, nulidade processual, em razão da entrada forçada dos policiais na residência, sem apresentar justa causa. Requer a anulação das provas obtidas e a consequente absolvição criminal.
+Contrarrazões doMinisterio Publico do Estado de Mato Grosso(fls. 456/465).
+Admitido o recurso no TJ (fls. 466/470), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério PúblicoFederal- MPF, este opinou pelo desprovimento do recurso especial (fls. 478/487).
+É o relatório.
+Decido.
+Acerca da pretensão recursal, o Tribunal de Justiça do Estado de Mato Grossoconsignou o seguinte (fls. 408/409):
+"Na hipótese em análise, de acordo com os relatos prestados em Juízo pelas testemunhas Lucas Gabriel de Lima e Rafael Pinho de Assis, no dia dos fatos, no momento em que a guarnição em patrulhamento se aproximou de uma quitinete abandonada, conhecida E frequentada por usuários de drogas, este subitamente esvaiu-se para o interior da residência, pulando o muro dos fundos, o que levantou suspeita imediata dos policiais.
+Tais suspeitas foram devidamente confirmadas com a averiguação policial, encontrando-se em posse do acusado 3 porções de substância análoga a maconha; 4 pedras de substância análoga a pasta-base de cocaína; uma porção de ácido bórico; um rolo de filme plástico para embalar; uma faca e R$ 77,00 (setenta e sete reais) em células de baixo valor.
+Com efeito, é imperativo reconhecer que a abordagem policial, por sua própria natureza, independe de maior rigor procedimental, de modo que a "atitude suspeita" do acusado, que empreendeu fuga ao avistar a viatura policial, aliado ao fato de que a residência em que adentrou era supostamente disseminado tráfico de drogas, configuram-se indícios concreto se aptos a embasar a ação policial, sendo, no presente caso, prescindível prévia investigação."
+Conforme entendimento desta Corte, acasa abandonada, utilizada com o único propósito de tráfico de drogas, não é hipótese contemplada pela proteção constitucional da inviolabilidade de domicílio.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. CRIME PERMANENTE. CIRCUNSTÂNCIAS CONCRETAS. JUSTA CAUSA CONFIGURADA. ILEGALIDADE. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. No julgamento do RE n. 603.616, o Pleno do Supremo Tribunal Federal afirmou que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito.
+2. A casa abandonada, utilizada com o único propósito de tráfico de drogas, não é hipótese contemplada pela proteção constitucional da inviolabilidade de domicílio, prevista no art. 5º, XI, da Constituição da República.
+3. No caso em exame, além de incerteza quanto à natureza do imóvel, há justa causa para a ação policial configurada a partir do momento em que o acusado foi visto manuseando pedra de crack no interior do local.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 158.301/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/4/2022).
+No caso dos autos, trata-se de uma quitinete abandonada, conhecida pelos agentes policiais e frequentada por usuários de drogas, não evidenciando a ilegalidade pretendida pela defesa.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se.
+Intimem-se.
