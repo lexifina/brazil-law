@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deCARLOS EDUARDO DE CAMPOS XAVIER, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento da revisão criminaln. 2153653-22.2022.8.26.0000.
+Extrai-se dos autos que o paciente foi absolvido, em sentença prolatadapelo Juízo da 1ª Vara Criminal da Comarca de Itapetininga/SP, com fulcro no art. 386, inciso VII, do Código de Processo Penal - CPP, da imputação da prática dos crimestipificados nos arts. 33,caput,e 35,caput,da Lei n. 11.343/06 (tráfico de entorpecentes e associação ao narcotráfico).
+Irresignada, a defesa aviourevisão criminal perante o Tribunal de origem, a qual não foi conhecida consoante o acórdão assim ementado:
+"Revisão Criminal Tráfico de drogas e Associação para o tráfico Sentença absolutória, com fundamento no art. 386, inciso VII do Código de Processo Penal - Pretensão de desconstituição do julgado, sob alegação de ilicitude de provas obtida sem razão da invasão de domicílio, sem mandado de busca Descabimento da revisão criminal - Sentença condenatória transitada em julgado que constitui pressuposto essencial para ajuizamento da revisão criminal, nos termos do art. 621 do Código de Processo Penal Ausente no caso - Peticionário carece de interesse de agir Não conhecimento"(fl. 342).
+Daí o presentewrit, em que oimpetrante objetiva "seja julgada procedente a presente revisão criminal e reconhecida a ilegalidade do processo e provas ilícitas derivadas, desconstituindo a sentença condenatória consequentemente a absolvição do autor com fundamento no artigo 386 III do Código de Processo Penal" (fl. 28).
+A liminar foi indeferida (fls. 348/349).
+O Parquet Federal oficiou pelo não conhecimento do mandamus (fls. 354/357).
+É o relatório.
+Decido.
+A ação não pode ser conhecida.
+Inobstante a defesa busque a alteração dos fundamentos de sentença penal absolutória, sua pretensão não foi objeto de análise e decisão peloTribunal a quo, que não apreciou qualquer das teses suscitadas, asseverando que " ..  a sentença condenatória transitada em julgado é pressuposto processual essencial para o ajuizamento da revisão criminal. Fora das hipóteses previstas em lei, não há outra possibilidade de ingressar com revisão criminal contra decisão absolutória. E, essa é exatamente a hipótese dos autos  .. " (fl. 345).
+Forçoso concluir, assim, a inviabilidade da presente impetração, poisconforme pacífico entendimento desta Corte Superior de Justiçanão se conhece, originariamente, de tema não apreciadoe decididopelas instâncias inferiores, nem mesmo quando se trate de matéria de ordem pública ou nulidade absoluta. Cito precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADES. CONFISSÃO INFORMAL. MATÉRIA NÃO DEBATIDA NA ORIGEM. NECESSIDADE DE PRÉVIA AUTORIZAÇÃO JUDICIAL PARA A AÇÃO POLICIAL. HIPÓTESE NÃO CONTEMPLADA NO ART. 53 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento de nulidades no âmbito do processo penal deve ponderar, de um lado, a estrita observância das garantias constitucionais, sem tolerar arbitrariedades ou excessos por parte dos órgãos estatais que possam desequilibrar a dialética processual em desfavor do acusado. Por outro lado, necessário também considerar que a marcha processual não pode ser refreada sem justo motivo, exigindo-se a demonstração de agravo concreto suportado pela parte, sob pena de se prestigiar a forma pela forma, em detrimento ao conteúdo do ato.
+2. A questão relativa à nulidade das provas obtidas a partir da confissão informal do corréu de José Roberto de Souza, que não teria sido advertido do direito de permanecer em silêncio para não produzir provas contra si (Aviso de Miranda), não foi submetida à apreciação do Tribunal de origem, inviabilizando o exame do tema diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+ ..
+5. Agravo regimental não provido.
+(AgRg no HC n. 751.784/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/9/2022, DJe de 13/9/2022)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS.ALEGADA NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. TESE NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DESTA CORTE EXAMINAR A CONTROVÉRSIA PER SALTUM, AINDA QUE SE TRATE, EVENTUALMENTE, DE QUESTÃO DE ORDEM PÚBLICA.AGRAVO DESPROVIDO.
+1. A alegação de nulidade decorrente da invasão domiciliar não foi submetida à apreciação do Tribunal a quo, ao julgar recurso de apelação exclusivo da Acusação, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Não se olvide que, consoante pacífica jurisprudência desta Corte, até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte. Precedentes.
+3. Esse entendimento garante observância aos princípios do duplo grau de jurisdição e do devido processo legal substancial e não viola o princípio da inafastabilidade da jurisdição, previsto no art. 5.º, inciso XXXV, da Constituição Federal, pois, sanado o vício apontado, a eventual existência de ilegalidade flagrante será devidamente analisada.
+4. Não se pode confundir a possibilidade de concessão de ofício da ordem, isto é, sem prévia provocação por parte do interessado, com a concessão per saltum, que se verifica quando a matéria não foi sequer submetida à análise do Tribunal a quo e, por isso, é vedada pela jurisprudência pacífica desta Corte.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 670.966/SE, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/10/2022, DJe de 10/10/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.ALEGAÇÃO DE NULIDADE EM RAZÃO DE VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA.INCIDÊNCIA DO § 4º DO ART. 33 DA LEI DE DROGAS. INOVAÇÃO RECURSAL. REGIME PRISIONAL. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não merece ser conhecido, pois foi impetrado em substituição ao recurso próprio. Nesse sentido: AgRg no HC n. 745.831/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.
+2. A alegação de violação de domicílio não foi apresentada pela defesa nas razões da apelação, motivo pelo qual não foi apreciada pelo Tribunal a quo, impedindo a sua análise diretamente por esta Corte, tendo em vista a impossibilidade de supressão de instância.
+"Na instância especial, ainda que se entenda se tratar de matéria de ordem pública, não há como se dispensar o necessário debate acerca das questões controvertidas" (HC 470.704/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 3/12/2019, DJe de 11/12/2019).
+3. Configura inovação recursal a pretensão de incidência da minorante do § 4º do art. 33 da Lei de Drogas, matéria não alegada na petição inicial do presente habeas corpus.
+Mesmo que assim não fosse, o tema foi apreciado, juntamente com o regime prisional, no HC n. 638.754/SP, constituindo, assim, indevida reiteração de pedidos.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 702.870/SP, de minha relatoria, QUINTA TURMA, julgado em 9/8/2022, DJe de 15/8/2022)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.MATÉRIA NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AINDA QUE NULIDADE ABSOLUTA. INVIÁVEL A ANÁLISE.CRIME DE TRÁFICO DE DROGAS. NULIDADE DAS PROVAS. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. FRAÇÃO DE AUMENTO. DESPROPORCIONAL. SUPRESSÃO DE INTÂNCIA. APLICAÇÃO DA MINORANTE. RÉU REINCIDENTE. AFASTAMENTO DA BENESSE LEGAL. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Esta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância.
+III - No presente caso, a alegação de nulidade das provas que ensejaram a condenação, porquanto lastreada em provas ilícitas obtidas a partir de violação ao domicílio, sem mandado judicial, sequer foi objeto de apreciação pelo eg. Tribunal de origem no acórdão recorrido, ficando impedida esta Corte Superior de proceder a sua análise, sob pena de incorrer em indevida supressão de instância.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 694.957/ES, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 15/2/2022, DJe de 21/2/2022)
+Além do mais, consoante bem observado pelo Ministério Público Federal, " ..  o pleito de alteração dos fundamentos da sentença absolutória, já transitada em julgado, além de não atender à necessidade de observância das instâncias de julgamento, demanda o revolvimento aprofundado de fatos e provas, incompatível com a via eleita .. ".
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço opresentehabeas corpus.
+Publique-se.
+Intimem-se.
