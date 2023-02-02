@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 24):
+APELAÇÃO- Roubo qualificado Pena base corretamente fixada - Afastamento da agravante da calamidade pública Impossibilidade Compensação entre a agravante da reincidência e a atenuante da confissão Cabimento - Apelo parcialmente provido.
+Consta dos autos que o paciente foi condenado à pena de 9 anos e 26 dias de reclusão e pagamento de 36 dias-multa, pela prática do crime previsto no art. 157, §2º, inciso V, por duas vezes, na forma do art. 70, caput, ambos do Código Penal.
+Alega a impetrante, em síntese, ilegalidade na dosimetria da pena por ter sido agravada em razão de a conduta ter sido praticada durante calamidade pública, em virtude da pandemia de COVID-19.
+Requer, assim, inclusive liminarmente, seja afastada a circunstância agravante descrita no art. 61, inciso II, alínea j, do Código Penal, com a consequente redução da pena do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelonão conhecimento do habeas corpus, mas pela concessão da ordem, de ofício, para afastar a agravante prevista no art. 61, II, "j", do CP.
+Acerca da agravante da calamidade pública, o Juízo a quo assim manifestou quando da dosimetria da pena (fls. 19/20):
+ ..  presente a agravante prevista no art. 61, II, alínea "j", do Código Penal, tendo em conta a data do fato (14/06/2021) e a edição do Decreto nº 64.879, de 20.03.2020, da Assembleia Legislativa do Estado de São Paulo, de modo que reconheço ter sido praticado o crime em reconhecido estado de calamidade pública, decorrente da notória pandemia do vírus COVID-19, circunstância de natureza objetiva.
+ ..
+Penas finais: O cumprimento de pena privativa de liberdade de 09 (nove) anos, 08 (oito) meses e 20 (vinte) dias de reclusão e pagamento de pena pecuniária no valor correspondente a 40 (quarenta) dias multa, fixados estes no valor unitário mínimo previsto em lei.
+O réu cumprirá a pena corporal no regime inicial fechado, na medida em que a ele aplicada pena privativa de liberdade superior a oito anos de reclusão, conforme determina o art. 33, § 2º, alínea "a", do Código Penal. Não bastasse, de rigor a atenção ao comando que emerge do art. 1º, inciso II, alínea "a", e art. 2º, § 1º, da Lei Federal nº 8.072/90.
+Ainda, a necessidade do regime mais gravoso decorre das circunstâncias judiciais desfavoráveis, reconhecidas em primeira etapa da dosimetria, bem como em se tratando o acionado de indivíduo reincidente específico.
+OTribunal de origem, por sua vez, ao dar parcial provimento ao recurso defensivo para reduzir a pena, assim ressaltou (fls. 25/28):
+No que pertine ao recurso propriamente dito, a pretensão merece parcial acolhida.
+O apelante teve as penas base fixadas acima dos mínimos legais, em vistas das apontadas circunstâncias judiciais desfavoráveis. O réu, na prática do roubo, extrapolou o dolo normal, amarrando as mãos e pés da vítima, mediante o uso de abraçadeiras plásticas com tamanha força a ponto de lhe causar lesões. Não bastasse, colocou uma meia em sua boca e a amordaçou (fls. 246). Demais disso, houve planejamento prévio e devidamente elaborado com conhecimento privilegiado acerca da segurança da loja, sem contar, que o delito foi praticado quando o réu se encontrava evadido do sistema penitenciário, tudo isso a revelar a maior reprovabilidade da conduta.
+Desta forma, devidamente fixadas as básica sem  (um quarto) acima dos pisos, em 05 (cinco) anos de reclusão e pagamento de 12 (doze) dias-multa, piso mínimo.
+Na segunda fase, anota-se que não é o caso de afastamento da agravante da calamidade pública, de caráter objetivo, tendo em conta a data dos fatos (14/06/2021) e a edição do Decreto Legislativo nº 06, de 20/03/2020. O réu praticou o crime mesmo ciente da edição do referido decreto legislativo, que reconheceu a situação decalamidade pública resultante da pandemia concernente ao novo coronavírus.
+Assim, as penas devem ser majoradas em 1/6 (um sexto), a resultar em 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 14 (catorze) dias-multa.
+Ainda, nesta etapa, estão presentes a agravante da reincidência e a atenuante da confissão, as quais, entretanto, devem ser compensadas.
+ ..
+Na terceira fase, reconhecida a causa especial de aumento de pena da restrição da liberdade, as reprimendas são majoradas em 1/3 (um terço), totalizando 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão e 18 (dezoito) dias-multa.
+Por fim, tendo em vista o concurso formal de crimes, a pena de um dos roubos é aumentada no equivalente à 1/6 (um sexto), resultando, em definitivo, em 09 (nove) anos e 26 (vinte e seis) dias de reclusão, ficando estabelecido o pagamento de 36 (trinta e seis) dias-multa, consoante o disposto no art. 72, do CP.
+Mantido o regime prisional fechado.
+Isto posto, dá-se provimento parcial ao apelo para reduzir a pena para 09 (nove) anos e 26 (vinte e seis) dias de reclusãoe pagamento de 36 (trinta e seis) dias-multa, mantida, no mais, a r. Sentença.
+Extrai-se do excerto acima que o Tribunal de origem manteve a agravante do art. 61, II, j por entender que se trata de circunstância objetiva, "tendo em conta a data dos fatos (14/06/2021) e a edição do Decreto Legislativo nº 06, de 20/03/2020" e que o"réu praticou o crime mesmo ciente da edição do referido decreto legislativo, que reconheceu a situação de calamidade pública resultante da pandemia concernente ao novo coronavírus".
+Entretanto, de acordo com entendimento desta Corte, "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC 625.645/SP, Relator Ministro Felix Fischer, DJe 4/12/2020).
+Como visto, no caso, a pena foi elevada apenas pelo cometimento de crime durante a pandemia, sem demonstração do modo como o agente teria disso se aproveitado, de modo que a agravante deve ser afastada.
+Passo, então, ao ajuste da pena.
+Mantida a pena estabelecida na primeira fase pelo Tribunal de origem, qual seja,05 anos de reclusão e pagamento de 12 dias-multa, nopiso mínimo.
+Na segunda etapa, afastada a agravante da calamidade pública, a pena mantem-se inalterada em razão da compensação reconhecida entre a agravante da reincidência e a atenuante daconfissão espontânea.
+Na terceira fase, mantido o reconhecimento da causa especial de aumento de pena da restrição da liberdade, as reprimendas são majoradas em 1/3, totalizando 6anos e8 meses de reclusão e 16 dias-multa.
+Por fim, nos termos do acórdão recorrido, tendo em vista o concurso formal de crimes, a pena de um dos roubos é aumentada no equivalente à 1/6, resultando, em definitivo, em 7 anos, 9 meses e 10 dias de reclusão, mais o pagamento de 36 dias-multa, conforme o disposto no art. 72do CP.
+A justificativa para o regime inicial fechado, a seu turno, também deve ser mantida tal como fixada na sentença condenatória, porque respaldada não só peloquantum de pena - o qual restou alterado, mas também pela existência de circunstâncias judiciais desabonadoras, "reconhecidas em primeira etapa da dosimetria, bem como em se tratando o acionado de indivíduo reincidente específico", o que constitui fundamento idôneo para o estabelecimento do regime mais gravoso, nos termos do art. 33, § 2º, b, e § 3º, do CP.
+Ante o exposto, concedo o habeas corpuspara afastar a agravante da calamidade pública, fixando-se a pena em7 anos, 9 meses e 10 dias de reclusão, mais o pagamento de 36 dias-multa, sem impactono regime inicial, e mantidos os demais termos do acórdão impugnado.
+Comunique-se.
+Publique-se.
+Intimem-se.
