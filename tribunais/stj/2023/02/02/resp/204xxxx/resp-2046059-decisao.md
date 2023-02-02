@@ -1,0 +1,43 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto porTORRES SUL LOTEADORA E URBANIZADORA LTDA.,contra acórdão prolatado,por unanimidade, pela 2ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 824/825e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.PRESCRIÇÃO. INOCORRÊNCIA. TEMA 566 STJ. SÚMULA 106, DO STJ.
+Segundo o novo posicionamento do STJ a respeito da contagem do prazo para a prescrição intercorrente - REsp nº 1.340.553/RS (Tema 566 do STJ) -, o que importa para a sua inauguração é que a Fazenda Pública tenha tomado ciência da não localização do devedor e/ou da inexistência de bens penhoráveis no endereço fornecido.
+No caso, entre a ciência do credor acerca da não localização da devedora (23/01/2006) até a data em que realizada a penhora do terreno (28/06/2006) não fluiu o prazo de seis anos (01 ano de suspensão  05 anos da prescrição).
+Ademais, a execução fiscal esteve suspensa de 11/08/2006 a 23/01/2007 por ordem judicial em razão da oposição dos embargos à execução.
+Da mesma forma, após a ciência da impossibilidade de arrematação do imóvel até a penhora no rosto dos autos do processo, não fluiu o lustro prescricional, conquanto neste ínterim houve o arquivamento administrativo do feito, bem como o credor não se manteve inerte na busca por bens a satisfazer a execução fiscal.
+Eventual demora entre os atos processuais deve ser atribuída aos mecanismos do próprio Poder Judiciário, incidindo, portanto, a Súmula 106 do STJ, por analogia.
+RECURSO DESPROVIDO. UNÂNIME.
+Com amparo no art. 105, III, c, da Constituição da Repúblicaaponta-se divergência jurisprudencial, alegando, em síntese, queocorreu a prescrição intercorrente da execução em exame,baseado na inércia da parte credora, incidindo os critérios prescricionaisdefinidos no julgamento doRecurso Especial n.1.340.553-RS.
+Com contrarrazões (fls. 462/473e), o recurso foi admitido (fls. 498/508e),tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 793e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Otribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que a demora entre um ato processual e outro se deupor conta dos mecanismos do Poder Judiciário, incidindo, portanto, a Súmula 106 do STJ, nos seguintes termos(fl. 207e):
+"Como se vê, o Estado não se mostrou inerte na busca pelo crédito, sendo que a demora entre um ato processual e outro se deu, na maior parte do tempo, por conta dos mecanismos do Poder Judiciário, incidindo, portanto, a Súmula 106 do STJ, por analogia, que define:
+Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência."
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal que ocorreu a prescrição intercorrente da execução em exame, baseado na inércia da parte credora, bem como acerca da aplicação da Súmula n. 106/STJ, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. SÚMULA N. 106 DO STJ. INAPLICABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+1. Nos termos da Súmula n. 106 do STJ: "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição".
+2. Verificação quanto à responsabilidade por eventual paralisação do processo para aplicação ou afastamento da Súmula n. 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula n. 7 do STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 1.998.791/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022.)
+Outrossim, anoto que o Recurso Especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDÊNCIAL NÃO DEMONSTRADO. AUSÊNCIA DO INDISPENSÁVEL COTEJO ANALÍTICO.
+1. O dissídio jurisprudencial deve ser demonstrado conforme preceituam o art. 266, § 4º, do RISTJ, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. É pacífico nesta Corte que "A simples transcrição de ementas ou de trecho isolado do v. acórdão paradigma, sem o necessário cotejo com trechos do v. acórdão embargado, não atende aos dispositivos legais e regimentais aplicáveis à espécie" (AgInt nos EREsp 1.751.975/PE, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 19/3/2020).
+3. Agravo interno não provido.
+(AgInt nos EREsp 1.461.319/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 18/05/2021, DJe 20/05/2021)
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
