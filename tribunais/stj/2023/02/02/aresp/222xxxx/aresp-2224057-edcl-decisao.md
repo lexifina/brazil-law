@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANDRÉ FERNANDO REAL LOPES, à decisão de fls. 467/468, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Como é possível demonstrar às fls. 368 deste Agravo em Recurso Especial, há a certidão de publicação do acórdão em segunda instância e está no nome do Dr. Théo Endrigo Gonçalves.
+Às fls. 422, também há outra certidão, de publicação da decisão que inadmitiu o recurso especial e está com o nome do Dr. Théo Endrigo Gonçalves!
+Ademais, o Embargante é pessoa física e nunca trocou de advogado desde a propositura da ação principal em 2016, e se têm todas as publicações da segunda instância dirigidas ao seu nome, obviamente atuou devidamente constituído.
+Na hipótese, não compreende o Embargante, ter havido qualquer evento que tenha dado causa à dúvida acerca da sua atuação nos autos, posto que já era o advogado do Embargante, no processo principal, no cumprimento de sentença, em todos os recursos interpostos, de forma que não há qualquer motivo para que se exija nova procuração ou sua comprovação, já que o nome do patrono aparece por diversas publicações e em todas as peças anexadas aos autos.
+O advogado não possui a obrigação de juntar a procuração e comprovar que é advogado da parte a cada ato, tal medida inclusive é completamente ilegal, na medida que é comprovado nos autos que o Embargante está devidamente representado, e não há qualquer motivo ou imposição legal para apresentação de novo instrumento ou sua comprovação (fls. 473/474).
+Alega ainda:
+Por outro lado, há alegação, com a máxima vênia, ainda mais estranha nos autos, com relação ao comprovante de pagamento das custas de interposição do Recurso Especial.
+Veja Excelência, às fls. 390 há o comprovante de pagamento!
+Realizado por meio do Banco Inter.
+Há o nome do beneficiário, CNPJ, data de pagamento, valor e número do código de barras, obviamente equivalente ao boleto de fls. 389! (fl. 474).
+ ..
+Como pode ser o Embargante prejudicado por juntar o comprovante de pagamento fornecido pela instituição bancária  O que deveria fazer então, pagar 2 (duas) vezes ou mais o mesmo valor ou trocar de instituição bancária posto que a z. secretaria deste E. Superior Tribunal de Justiça, simplesmente deixou de aceitar comprovante de pagamento do Banco Inter
+ ..
+E mais, cabe destacar que a decisão que inadmitiu o Recurso Especial (fls.419/421), competente para julgar a ausência de preparo e de procuração, absolutamente nada disse sobre a questão - decisão essa publicada, obviamente no nome do advogado do Embargante (fls. 422) (fl. 475).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à representação processual, no caso, a parte recorrente, no momento da interposição dos recursos, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Théo Endrigo Gonçalves.
+Observe-se que é irrelevante o fato de o advogado estar cadastrado nos órgãos de intimação do Tribunal de origem, pois "o eventual cadastro do advogado no sistema processual eletrônico do Tribunal de origem (que o autoriza a protocolar petição eletrônica por meio da assinatura digital) não supre a necessidade da juntada de procuração ou substabelecimento para fins de interposição de recurso dirigido a este Tribunal". (AgInt no AREsp 901.032/RS, , relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/11/2016.)
+Ademais, não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2020.)
+Ademais, registre-se que foi dada a oportunidade, nesta Corte, para a parte sanar o vício de representação e, apesar disso, não houve a regularização, uma vez que se quedou inerte (fl. 465).
+No que se refere ao preparo, conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi instruído com o devido comprovante de pagamento, uma vez que o documento juntado à fl. 390 não contém a autenticação bancária, dado essencial para verificação da efetiva quitação da obrigação.
+Outrossim, entende esta Corte Superior que para comprovação do recolhimento das custas é necessário a juntada de comprovante de pagamento original, fornecido pela instituição financeira em formato "PDF" ou "arquivo de imagem", não bastando mero print da tela do internet banking. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO. COMPROVANTE DE PAGAMENTO INVÁLIDO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Hipótese em que a decisão agravada consignou (fls. 289-290, e-STJ): "Mediante análise do recurso de MARCOS OLIVEIRA RIBEIRO e OUTRO, há divergência entre o número constante no código de barras das guias de preparo e seus respectivos comprovantes de pagamento. Registre-se que este STJ consolidou o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no AREsp 1132940/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/08/2018). Ainda, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou. Constata-se, no caso, que o comprovante de recolhimento das custas juntado à fl. 284 não é válido, uma vez que não se reveste das formalidades de um comprovante emitido pela instituição financeira. Registre-se que não basta a mera transcrição de dados, como consta à fl. 284, sendo necessário o documento original. Não há dúvidas de que o comprovante de pagamento via internet banking tenha validade, porém, a parte não pode tirar um print da tela, como no caso, mas sim, colacionar o comprovante efetivo fornecido pelo banco, em formato de "PDF" ou de "arquivo de imagem"".
+2. O comprovante de pagamento de fl. 284, e-STJ, não é válido por não ser o documento oficial fornecido pelo banco, mas um print da tela fornecida pelo internet banking.
+3. Com efeito, a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os recursos interpostos para o STJ devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+4. Assim, a apresentação de comprovante de pagamento inválido, mesmo após a concessão do prazo do art. 1.007, § 4º, do CPC/2015, leva à deserção do recurso. Aplica-se a Súmula 187/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1596972/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. COMPROVANTE DE PAGAMENTO INVÁLIDO. DESERÇÃO. SÚMULA 187 DO STJ. AGRAVO NÃO PROVIDO.
+1. O comprovante de pagamento de fl. 612-615, e-STJ, não é válido por não ser o documento oficial fornecido pelo banco, mas um print da tela fornecida pelo internet banking.
+2. Com efeito, a jurisprudência do STJ é assente no sentido de que os recursos interpostos para o STJ devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Precedentes.
+3. Assim, a apresentação de comprovante de pagamento inválido, mesmo após a concessão do prazo do art. 1.007, § 4º, do CPC/2015, leva à deserção do recurso. Incidência da Súmula 187 do STJ.
+4. Agravo Interno não provido.
+(AgInt nos Edcl no AREsp 1746713/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/08/2021.)
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício do preparo, contudo, não regularizou, uma vez que se quedou inerte (fl. 465).
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+No mais, cabe ressaltar que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
