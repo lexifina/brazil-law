@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado contra acórdão do Tribunala quoque negouprovimento à apelação da defesa para manter o aumento da pena-base em 1/5 em razão da natureza e diversidade das drogas apreendidas:
+" ..  foram apreendidos dois tipos de drogas, um deles altamente lesivo, sendo certo que o artigo 42 da Lei de Drogas determina que nesta primeira fase da dosimetria da pena, sejam consideradas a natureza e a quantidade de drogas. Neste caso, houve a apreensão de maconha, e de cocaína, esta última de indiscutível maior lesividade. Assim sendo, nos termos do art.42 da Lei de Drogas, justifica-se a pena-base para 1/5 acima do mínimo legal, o que fica mantido.  .. " (fl. 88)
+O impetrante sustenta que "a quantidade e variedade (apenas dois tipos de entorpecentes) encontradas com o paciente em nada excede o normal esperado do tipo penal." (fl. 5)
+Requer, assim,a concessão da ordem para fixar a pena-base no mínimo legal.
+Parecer do Ministério Público Federal pela não concessão da ordem, nos termos da seguinte ementa:
+PENAL e PROCESSUALPENAL. Habeas corpus substitutivo de REsp. Inadmissibilidade. Tráfico de drogas. Dosimetria. Pena-base aumentada em 1/5 em razão da quantidade, natureza e diversidade das drogas apreendidas. Idoneidade. Inteligência do artigo 42 da Lei nº 11.343/06. Precedentes. Ausência de constrangimento ilegal. Não admissão do writ, descabida a concessão de um habeas corpus ex officio.(fl. 71)
+É o relatório.
+Decido.
+Primeiramente, verifico que o habeas corpus não merece ser conhecido, pois foi impetrado em substituição ao recurso próprio. Nesse sentido: HC 358.398/SP, Relator Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016.
+Também não se mostra cabível a concessão da ordem, de ofício, uma vez que o aumento da pena-base está devidamente fundamentado, nos termos do art. 42 da Lei n. 11.343/06, considerando a quantidade,a natureza e a diversidade das drogas (260,3g de maconha e 39,3g de cocaína).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO COM FUNDAMENTO NA QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. POSSIBILIDADE. QUANTUM DE AUMENTO RAZOÁVEL E PROPORCIONAL. DISCRICIONARIEDADE DO JULGADOR. ART. 42, DA LEI 11.343/06. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. IMPOSSIBILIDADE. NÃO UTILIZADA PARA CORROBORAR A CONDENAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Na ausência de previsão legal, o STJ sedimentou a orientação de que a exasperação da pena-base na fração de 1/6 para cada circunstância judicial valorada negativamente atende os princípios da razoabilidade e da proporcionalidade (HC n. 458.799/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/12/2018).
+Todavia, com base no princípio do livre convencimento motivado, ainda que valorado um único vetor, considerada sua preponderância, o julgador poderá concluir pela necessidade de exasperação da pena-base em fração superior se considerar expressiva a quantidade da droga, sua diversidade e/ou natureza (art. 42 da Lei n. 11.343/2006). Desse modo, observa-se que a Corte de origem, ao valorar as circunstâncias judiciais, fundamentou a exasperação da pena-base para 6 anos de reclusão, utilizando como parâmetro a fração aplicável à quantidade de drogas apreendida (69 porções de cocaína, pesando 41,48g e 20 papelotes de maconha, pesando 176,71g), não se verificando na espécie o constrangimento ilegal suscitado.
+III - A confissão espontânea exige que o acusado reconheça a prática da traficância, não bastando a mera admissão da posse ou propriedade do entorpecente para uso próprio. Uma vez utilizada pelo julgador para balizar a condenação, deve incidir como atenuante (art. 65, III, d, do Código Penal) na segunda fase da dosimetria da pena (AgRg no HC n. 566.527/MS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 18/5/2020).
+IV - A jurisprudência do STJ firmou-se no sentido de que, em habeas corpus, é inviável reanalisar a exasperação da pena na segunda fase da dosimetria, se as instâncias ordinárias, com base na análise das provas e de modo fundamentado, reconheceram não ter ocorrido a confissão espontânea.
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 711.218/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço dowrit.
+Publique-se.
+Intimações necessárias.
