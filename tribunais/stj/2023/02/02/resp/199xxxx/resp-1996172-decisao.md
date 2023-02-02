@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto porMARIA BENITES GONÇALVES com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão doTribunal de Justiça do Estado de Mato Grosso do Sul(Apelação n. 0800701-48.2021.8.12.0044)nos autos de ação declaratória de nulidade de empréstimo consignado c/c repetição de indébito e danos morais.
+O julgado foi assim ementado (fl. 153):
+APELAÇÃO CÍVEL - RECURSO DA PARTE AUTORA - AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C.C. REPETIÇÃO DE INDÉBITO E DANOS MORAIS - MÉRITO RECURSAL - DETERMINAÇÃO DE EMENDA DA INICIAL PARA A JUNTADA DE EXTRATOS BANCÁRIOS - PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO - INÉPCIA - RECURSO CONHECIDO E NÃO PROVIDO.
+Tendo em vista que a parte autora, apesar de intimada, não atendeu aos requisitos descritos no artigo 320 do CPC/15, deixando de juntar aos autos os extratos bancários solicitados pelo magistrado de primeiro grau, inarredável se torna a manutenção da sentença que reconheceu a inépcia da peça inaugural, extinguindo o feito sem exame do mérito.
+Os embargos de declaração opostos foram rejeitados (fls. 170-175).
+Nas razões do recurso especial, alega a parte recorrente, além de dissídio jurisprudencial,violação dos seguintes artigos:
+a)489, II e § 1º, IV, e 1.022, II, do CPC, uma vez que o Tribunal a quo rejeitou os embargos de declaração sem dirimir questão pertinente ao litígio e sem exporfundamentação clara e suficiente para tanto;
+b)6º e 373, II, do CPC e 104, III, do CC, pois declarou sua hipossuficiência na petição inicial, requerendo a inversão do ônus da prova, já que caberia ao réu provar a legalidade das contratações e não o consumidor hipossuficiente;
+c) 1.026, parágrafo 2º, do CPC, por ter sido condenado ao pagamento de multa mesmo ausente a intenção protelatória quando da interposição dos embargos de declaração, tendo em vista que pretendiasanar omissão.
+Requer o provimento dorecursopara: a) anular o acórdãodos embargos de declaração, determinando-se o retorno dos autos à origempara ser proferida nova decisão; b) afastar a inépcia da inicial, reconhecendo-se sua hipossuficiência paraprovar as supostas contratações indicadas na exordial, com a determinação de retorno dos autos a fim de que sejam analisadas as questões referentesà restituição em dobro e à compensaçãopor danos morais; c)afastara multa imposta nos embargos.
+As contrarrazões foram apresentadas às fls. 191-200.
+Admitido o apelo extremo (fls. 202-203), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar em parte.
+I - Violação dos arts.489, II, e § 1º, IV, e 1.022, II, do CPC
+A parte recorrente, limitando-se a indicar, de modo genérico, afronta aos mencionados dispositivos legais, não demonstrou oponto em que o acórdão proferido nos embargos de declaração permanecera omisso, tampoucoa falta de fundamentação da decisão.
+Desse modo, ante a impossibilidade de compreender a questão infraconstitucional arguida, aplica-se ao caso o disposto na Súmula n. 284 do STF.
+II - Violação dos arts. 6º e 373, II, do CPC e 104, III, do CC
+No que diz respeito à questão da necessidade de juntada dos extratos bancários, o Tribunal a quo afirmou o seguinte (fls. 155-157, destaquei):
+Assim, cumpre apurar as razões que deram ensejo à sentença recorrida, pela qual o juízo a quo decretou a inépcia da petição inicial, julgando extinto o feito sem resolução do mérito, em razão da inépcia da inicial.
+ ..
+In casu, deixou a parte autora de atender o comando judicial atinente à exibição dos extratos de sua conta bancária relativos ao mês do registro da contratação perante o INSS.
+Nota-se que a parte autora, na inicial, alega que acredita não ter firmado o contrato em questão. Assim, diante da ausência de certeza da parte autora quanto a existência do fato jurídico, ao que indica, com o intuito de evitar possível multa por litigância de má-fé, impõe-se uma busca mínima anterior à propositura da lide, sob pena de se utilizar do Poder Judiciário como mero órgão de consulta.
+Ora, a atitude do magistrado de primeiro grau tem por objetivo garantir a segurança jurídica, considerando que em diversas ações propostas e analisadas por este Tribunal, referentes aos descontos em benefícios previdenciários de analfabetos/aposentados/índios, foi constatada a ocorrência de fraude, não somente por parte das instituições bancárias como também das partes autoras.
+Há que se frisar, ainda, que é ônus da parte autora "(..) instruir a inicial com os documentos indispensáveis à propositura da ação" (art. 320 do CPC/15) e não do juízo, até porque, segundo os artigos 5º e 6º, ambos do CPC/15, aquele que participa do processo "(..) deve comportar-se de acordo com a boa-fé" e "(..) cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva".
+Assim, não se vislumbra no caso, cerceamento do direito à justiça ou inafastabilidade da prestação jurisdicional, e sim, o descumprimento das formalidades exigidas para a propositura da ação, mesmo após oportunizado prazo para a realização de emenda da inicial para satisfação da descomplicada obrigação, o que, por consequência, acarretou a extinção do processo, por ser a petição apresentada inepta.
+ ..
+Dessa forma, não merece reparos a sentença de primeiro grau.
+Dessa forma, o Tribunal a quo concluiu pela necessidade de juntada dos extratos bancários do recorrente em razão da ausência de certeza da parte autora quanto a existência do fato jurídico, visando evitar que o judiciário seja utilizado como órgão de consulta e também para garantir a segurança jurídica. Considerouainda que conforme o art. 5º e 6º do CPC as parte de um processo devem guiar-se pelo princípio da boa fée com cooperação para obtenção da resolução de mérito, não configurandocerceamento do direito à justiça ou inafastabilidade da prestação jurisdiciona a extinção do processo quando parte, após a oportunidade de ementa a inicial, deixa de cumprir descomplicada obrigação.
+Nas razões do recurso especial, o recorrenterestringe-se a defender a inversão do ônus da prova por não ter condições de provar as contratações, sendo hipossuficiente. Em momento algum rebateu o fundamento do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito:AgInt no REsp n. 1.645.365/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/5/2022, DJe de 26/5/2022; eAgInt no REsp n. 1.973.812/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/3/2022, DJe de 21/3/2022.
+III - 1.026, parágrafo 2º, do CPC
+Em relação à violação do art. 1.026, § 2º, do Código de Processo Civil, o Tribunal a quo constatou que as questões suscitadas nos embargos declaratórios haviam sido efetivamente decididas, não cabendo falar em omissão, contradição, obscuridade, erro material ou falta de fundamentação, mas tão somente em julgamento em sentido contrário ao pretendido pela parte.
+Ressalte-se que é assente o entendimento desta Corte de que a revisão do entendimento do tribunal local sobre o intuito protelatório dos embargos declaratórios demandaria a reavaliação do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face da Súmula n. 7 do STJ.
+Nesse sentido, confiram-se precedentes: AgInt no AgInt nos EDcl no AREsp n. 2.028.715/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; e AgInt no AREsp n. 2.036.419/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022.
+IV-Dissídio jurisprudencial
+A alegação de dissídio jurisprudencial baseada em um único acórdão paradigma do próprio Tribunal de origem, atrai a incidência do óbice da Súmula n. 13 do STJ.
+A propósito:AgInt no REsp n. 1.939.870/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022 eAgInt no AREsp n. 2.117.680/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.
+Ainda que assim não o fosse, é preciso destacar que para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+V - Conclusão
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
