@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por TATIANE DE MATOS MERENDA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO. Ação declaratória de inexistência de débito, com pedido de indenização por danos morais -Sentença de improcedência - Recurso da autora.
+INEXIGIBILIDADE DO DÉBITO - Não provimento - Relação regida pelo CDC, o que não acarreta a procedência do pedido, ausente verossimilhança nas alegações autorais - Ré especificou origem do débito, pelo inadimplemento de faturas de telefonia móvel - Regular contratação e utilização do produto - Sendo hígido o débito e inexistindo prova do adimplemento, inscrição em rol de inadimplentes é exercício regular do direito Pedido de indenização prejudicado. Recurso não provido" (fl. 156e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 212/221e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - Intempestividade - Recurso oposto após o prazo de cinco dias úteis desde a publicação do acórdão - Inteligência dos arts. 213, 224 e 1.023 do CPC Inadmissibilidade do recurso extemporâneo - Embargos declaratórios não conhecidos" (fl. 224e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aoart. 373, II, do CPC, arts. 6º, III, e 14 do CDC, art. 927 do CC,sustentando que não restou comprovado nos autos a relação jurídica existente entre as partes, circunstância que demonstra a ilegalidade da inscrição da consumidora nos cadastros de inadimplentes efetivada.
+Contrarrazões a fls. 230/232e.
+Inadmitido o Recurso Especial (fls. 233/236e), foi interposto o presente Agravo (fls. 239/259e).
+Contraminuta a fls. 262/265e.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação Declaratória de inexistência de débito cumulada com Indenizatória por danos morais ajuizadapela parte ora agravante.
+Julgadaimprocedente a demanda, recorreu o autor, restando mantidaa sentença, pelo Tribunal local.
+O Tribunal de origem, no exame da controvérsia, reputou configurada a relação jurídica entre as partes, assentando que, uma vez hígido o débito e inexistindo prova de adimplemento, a inscrição da consumidora em rol de inadimplentes é exercício regular do direito, in verbis:
+"A autora alega desconhecer os débitos apontados sob seu nome em cadastros de inadimplentes. A ré especificou sua origem e regularidade, fundada no inadimplemento de faturas do serviço de telefonia móvel, fato comprovado pela juntada das faturas correspondentes à inscrição debatida (fls. 38/61), e não impugnadas especificamente.
+Veja-se que a própria autora, em sua narrativa inicial, assume ter mantido relação negocial com a requerida, vindo posteriormente a negar tal fato pela ausência de contrato assinado por si.
+Em sentido diverso, as faturas apresentadas pela ré demonstram extenso histórico de utilização do serviço, sendo encaminhadas ao endereço residencial da parte autora e adimplidas até aquela que ensejou o apontamento aqui debatido, no valor de R$ 64,30 com vencimento em 15/11/2019, assim como aquele de R$ 245,71 referente a 15/12/2019 (fls. 22/23 e 38/45).
+Incumbia à parte autora comprovar oadimplemento dos débitos indicados, ônus do qual não se liberou. Sendo regular o débito e inexistindo prova de seu adimplemento, a inscrição do nome da autora em rol de inadimplentes traduz regular exercício do direito de cobrança pelo réu, razão pela qual fica prejudicado seu pedido de indenização por danos morais" (fls. 158/159e)
+Assim, inviável a análise do presente apelo, ante o teor da Súmula 7/STJ.
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
