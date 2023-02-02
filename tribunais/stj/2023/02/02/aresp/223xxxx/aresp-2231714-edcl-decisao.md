@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL à decisão de fls. 813/815, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+No entanto, com as vênias de estilo, a r. decisão padece de erro material, uma vez que no momento da interposição do recurso a embargante comprovou o feriado local, tanto que esclareceu em sua peça (página 270) a suspensão da contagem do prazo nos dias 24/06, 29/06 e 08/07, conforme calendário de 2022 do Poder Judiciário e, bem como juntou com o recurso o Calendário do Tribunal.
+ ..
+Desse modo, a embargante comprovou NO ATO da interposição do agravo a tempestividade, bem como a ocorrência de feriado local, sendo que o protocolo realizado em 13/07/2022, ou seja, antes do término do prazo recursal (fls. 818/820).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntado às fls. 780/786, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso.
+A propósito: AgInt nos EAREsp n. 1.933.921/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 3/10/2022; AgInt nos EDcl no AREsp n. 1.803.102/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 3/11/2022; AgInt no AREsp n. 2.078.984/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 17/10/2022; AgInt no AREsp n. 2.010.923/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2022; AgInt nos EDcl no REsp n. 1.991.002/AM, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/9/2022; AgRg no AREsp n. 2.110.048/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/8/2022.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
