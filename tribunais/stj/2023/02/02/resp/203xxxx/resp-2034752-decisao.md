@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE MEDICINA DO ESTADODO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea "a" e"c", da CF/1988, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 213):
+EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CREMERJ.INEXIGIBILIDADE DE ANUIDADES ANTERIORES A 2013. OBSERVÂNCIA DA ANTERIORIDADE NONAGESIMAL PELA LEI Nº 12.514/11. LEGALIDADE ESTRITA. ATUALIZAÇÃO DO DÉBITO.LEIS N.º 10.522/2002 E 9.430/1996. VÍCIO INSANÁVEL. SENTENÇA MANTIDA. APELAÇÃO DESPROVIDA.
+1. Apelação interposta pelo CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO - CREMERJ, objetivando a reforma da sentença que julgou extinta a Execução Fiscal por ele ajuizada, nos termos dos artigos 320, 485, incisos I e IV, 783, 803, inciso I, 924, inciso I, e 925, todos do CPC, combinados com os artigos 1º, e 6º, § 1º, da Lei n.º 6.830/80.
+2. A Lei n.º 12.514/11 entrou em vigor em 31/10/2011, mas a sua eficácia deve observar o disposto nas alíneas "b" e "c", do inciso III, do artigo 150 da CRFB (princípios da anterioridade do exercício e nonagesimal), de modo que a cobrança das anuidades com respaldo em tal lei somente poderá ocorrer após 90 dias da data da sua publicação, desde que no exercício financeiro seguinte (29/01/2012).
+3. Deve-se considerar, ainda, que o fato gerador das anuidades ocorre desde logo, a partir do 1º dia de janeiro de cada ano, razão pela qual os valores das anuidades fixados na Lei nº 12.514/11 só podem ser observados a partir do exercício de 2013. Neste sentido: TRF-2ª - AC 0069948-95.2016.4.02.5102 - 6ª Turma Especializada - Rel. Des. Fed. Nizete Lobato Carmo - e-DJF2R 18.02.2017.
+4. No caso, somente a execução das anuidades referentes aos anos de 2013 a 2015 encontra amparo na Lei nº 12.514/2011, mas não aquelas dos anos de 2011 e 2012, estando, todavia, a legalidade da sua cobrança condicionada a outros fatores.
+5. As anuidades têm natureza tributária e a cobrança dos encargos legais está disciplinada no art. 37-A, da Lei nº 10.522/2002, que prevê a incidência de juros de mora nos termos e na forma da legislação aplicável aos tributos federais.
+6. A referência, portanto, é ao artigo 61 da Lei nº 9.430/1996 que, em seu §3º, prevê que "Sobre os débitos a que se refere este artigo incidirão juros de mora calculados à taxa a que se refere o § 3º do art. 5º, a partir do primeiro dia do mês subsequente ao vencimento do prazo até o mês anterior ao do pagamento e de um por cento no mês de pagamento." 7. O dispositivo citado pela norma, por sua vez, traz como parâmetro para os juros a "taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, para títulos federais, acumulada mensalmente".
+8. Dessa forma, a utilização de indexador equivocado na inscrição do crédito fulmina o próprio lançamento, constituindo vício insanável e, portanto, inviável de simples substituição por outra certidão de dívida ativa antes da sentença. Tal cálculo equivocado também compromete a aferição do cumprimento ao artigo 8º, da Lei n.º 12.514/2011.
+9. Apelação conhecida e desprovida.
+No especial, a parte alega divergência jurisprudencial e violação dos arts. 2º, § 8º, da Lei n. 6.830/1980, ao argumento de que é possível a alteração da Certidão de Dívida Ativa (CDA) nas execuções fiscais em há necessidade de substituição do indexador de correção monetária, como no caso dos autos.
+Contrarrazões às e-STJ fls. 270/273.
+O recurso especial foi admitido na origem (e-STJ fls. 279/280).
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de execução fiscal movida pelo CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO, objetivando a cobrança de anuidades inscritas em dívida ativa.
+No primeiro grau de jurisdição, a execução fiscal foi extinta ante a existência de vícios insanáveis na Certidão de Dívida Ativa (CDA).
+O Conselho Regional interpôs recurso de apelação, não provido pelo Tribunal de origem. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 211/212):
+ .. No entanto, constata-se que há erro de lançamento na presente execução, em virtude da utilização de indexador equivocado (INPC-IBGE), uma vez que as anuidades cobradas já estão inscritas em dívida ativa e, portanto, a cobrança dos seus encargos legais está disciplinada no art. 37-A da Lei nº 10.522/2002, a seguir transcrito:  ..
+Esse dispositivo prevê, aos créditos das autarquias, a incidência de juros de mora nos termos e na forma da legislação aplicável aos tributos federais.
+A referência, portanto, é ao artigo 61, da Lei n.º 9.430/1996 que, em seu parágrafo terceiro, prevê que "Sobre os débitos a que se refere este artigo incidirão juros de mora calculados à taxa a que se refere o § 3º do art.
+5º, a partir do primeiro dia do mês subsequente ao vencimento do prazo até o mês anterior ao do pagamento e de um por cento no mês de pagamento".
+Por sua vez, o dispositivo citado pela norma em comento traz como parâmetro a "taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, para títulos federais, acumulada mensalmente", que engloba juros e correção monetária, nos seguintes termos:
+ ..
+Na mesma linha, o entendimento fixado no Agravo de Instrumento n.º 0002149-10.2019.4.02.0000, julgado na Sessão de 11/12/2019, também por esta Sexta Turma Especializada:  ..
+No presente caso, a CDA juntada à inicial não utiliza a taxa SELIC como indexador do valor devido, logo, a certidão é inexigível, por ausência de liquidez, certeza e exigibilidade.
+A utilização de indexador equivocado na inscrição do crédito fulmina o próprio lançamento, constituindo vício insanável e, portanto, inviável de simples substituição por outra certidão de dívida ativa antes da sentença.
+Tal cálculo equivocado também compromete a aferição do cumprimento ao artigo 8º, da Lei n.º 12.514/2011.
+Portanto, a sentença de extinção deve ser mantida.
+Ante o exposto, voto no sentido deconhecer e negar provimentoà apelação.
+Osembargos de declaração apresentados foram rejeitados.
+Pois bem.
+Verifica-se que o acórdão regional recorrido está em desconformidade com a orientação jurisprudencial do Superior Tribunal de Justiça, que entende que há "possibilidade de alteração da CDA, desde que haja simples operação aritmética para expurgar a parcela indevida, como no presente caso, em que houve apenas a adequação no cálculo dos juros de mora (substituição para a Selic)" (AgInt no AREsp n. 1.254.709/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 31/08/2020, DJe de 04/09/2020).
+Ainda nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. TR. ILEGALIDADE. UTILIZAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. DESNECESSIDADE DE ANULAÇÃO DA CDA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. A indicada afronta do art. 1º do Decreto-Lei 1.025/1969 e dos arts. 161, 202 e 203 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O STJ preconiza, seguindo a orientação do Supremo Tribunal Federal na ADIN 493-0, pela inaplicabilidade da TR como índice de correção monetária dos créditos ou débitos tributários, por constituir taxa nominal de juros, devendo ser aplicado, na vigência da Lei 8.177/91, o INPC, e, a partir de janeiro/92, a UFIR. Incide a TR apenas como taxa de juros sobre débitos fiscais, mesmo após a modificação da Lei 8.177/91 pela Lei 8.218/91.
+3. O acórdão recorrido deve ser reformado para ser excluída da CDA a utilização da TR para fins de correção monetária do crédito tributário, contudo a substituição do índice de correção monetária constante da certidão de dívida ativa não induz à sua anulação, pois não afeta sua liquidez e certeza.
+4. Recurso Especial parcialmente conhecido e, nessa parte provido.
+(REsp 1.587.881/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/05/2016, DJe 31/05/2016)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para determinar o regular prosseguimento da execução fiscal com a substituição da Certidão de Dívida Ativa (CDA), nos termos da fundamentação.
+Publique-se. Intimem-se.
