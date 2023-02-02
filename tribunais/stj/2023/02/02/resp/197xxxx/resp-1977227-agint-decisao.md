@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno manejado pela UNIÃOque desafia decisão de minha lavra, proferida às e-STJ fls. 962/964, em que provi apelo especial da parte adversa por ofensa ao art. 535 do CPC/1973.
+No presente agravo interno, a parte agravante, às e-STJ fls. 968/970, alega que o vício apontado pela parte agravada foi sanado pelo Tribunal Regional, ao republicar o acórdão recorrido;em razão disso,seria injustificada a devolução dos autos à origem para rejulgamento dos embargos de declaração.
+Impugnação às e-STJ fls. 975/990.
+Passo a decidir.
+A UNIÃO tem razãoem parte de suas alegações.
+Pelo compulsar dos autos, observa-se que o Regional julgou extinta ação cautelar ante a falta de ajuizamento da demanda principal no trintídio legal e condenou a parte autora, ora agravada, ao pagamento de honorários advocatícios fixados em R$ 1.000,00 (hum mil reais).
+Após certificado o trânsito em julgado, ocorreu oretorno dos autos ao TRF, porquanto verificado a baixa ao primeiro grausem o julgamento dos embargos de declaração opostos no Tribunal (e-STJ fl. 886).
+Nessa ocasião, certificou-se a ocorrência deerro material, pois o acórdão que julgoua apelação e que foidisponibilizado para publicação divergia totalmente daquele julgado e juntado aos autos (e-STJ fl. 889).
+Como afalha foi retificada pela Corte Regional na decisão de e-STJ fl. 890, com a determinação de republicação do aresto,descabe falar em ofensa ao art. 535 do CPC/1973, nesse ponto, merecendo ser retocada a decisão ora agravada.
+O julgamento dos aclaratórios ocorreu no acórdão de e-STJ fl. 911.
+Quanto aos pontos reputados omissos pela recorrente, ora agravada,referentes às questões de error in procedendo do magistrado de primeiro grau, oentendimento pacífico nesta Corte Superior é de queo julgador não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorreu na espécie.
+A esse respeito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA.
+I - Na origem, trata-se de ação de indenização ajuizada contra o Estado da Paraíba objetivando condenação da ré por danos morais sofridos. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida .
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação dos referidos artigos, conforme pacífica jurisprudência do Superior Tribunal de Justiça. Nesse sentido: AgInt nos EDcl no AREsp n. 1.791.540/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe 31/8/2021; AgInt no REsp n. 1.658.209/PR, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 1º/7/2020; AgInt no AREsp n. 1.575.315/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2020; REsp n. 1.719.219/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018; AgInt no REsp n. 1.757.501/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.129.631/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No entanto, o Regional deixou de examinar a obscuridade invocadanos embargos de declaração ali opostos, no tocante à destinação da verba honorária sucumbencial fixada no acórdão (e-STJ fl. 899).
+Dessarte, subsiste a anulação do acórdão regional, ainda que por outro fundamento,com o subsequente retorno dos autos para que o Tribunal Regional reaprecie os embargos de declaração opostos pelo agravada, sanando o vício de integração ora identificado (obscuridade na verba honorária).
+Ante o exposto,RECONSIDERO a decisão de e-STJ fls. 962/964, mantendo-a, no entanto, por diverso fundamento.
+P. I.
