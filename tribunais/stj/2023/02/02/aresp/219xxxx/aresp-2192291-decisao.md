@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por AGENÁRIO MACHADO DA SILVA, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO.
+1. Preliminar. Inexigibilidade do título executivo judicial. Afastamento . Anterioridade do título judicial em relação à EC nº19198, que deu nova redação ao art.37, XIV, e vedou o chamado "cálculo em cascata ou efeito repique". Título executivo que se originou de decisão judicial transitada em julgado antes mesmo do advento da CF/88. Intangibilidade da coisa julgada, nos termos do art. 50, XXXVI, da CF.
+2. Mérito. Correção monetária e juros de mora.Cálculos da contadoria que deverão observar, para o período em que a executada cumpriu a obrigação de depositar as parcelas do precatório, os índices oficiais de atualização vigentes à data dos respectivos depósitos;caso constatada a existência de saldo devedor nesse primeiro período, deverão adotar , para o período subsequente, a Tabela Prática atualmente vigente. Juros de mora que deverão ser aplicados sobre o montante principal incluindo os valores referentes ao IPESP (montante principal bruto). Precedentes. Sentença reformada. Recursos parcialmente providos, com determinação" (fl. 250e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aoart. 1.013 do CPC/2015 e à Lei 6.899/81, sustentando que:
+"A inconstitucionalidade declarada pelo Supremo Tribunal resultou no afastamento da TR - Taxa Referencial, como fator de atualização monetária dos valores decorrentes de condenaçõesimpostas à Fazenda Pública.
+Portanto, os cálculos levados em consideração pelo Tribunal "a quo"padecem de grave (utilização da TR) implicando numa apuração aquém da correção monetária em descompasso ao princípio da justa indenização contido na Lei 6899/81.
+Em decorrência das violações ao artigo 515 do CPC/1973 (correspondente ao atual 1013 do CPC) e da justa indenização está sendo negada aos autores a correta apuração dos seus saldos credores violando- se, assim, a Lei Federal 6899/81 que determina a correção monetária sobre qualquer débito resultante de decisão judicial; devendo ser reconhecido pelo Superior Tribunal de Justiça que é necessário o restabelecimento do valor real devidojustificando -a -correção _monetária ora pretendida"(fl. 279e).
+Por fim, requer:
+"haja por bem V.Exa. receber e mandar processar o presente recurso especialperante o ColendoSuperior Tribunalde Justiça para que- melhor examinando os temas aqui discutidos profira outra decisão.
+Ou, eventualmente, seja proferido novo julgamento pelo Tribunal "a quo"para cumprimento do § 1ºartigo 1013 do CPC bem como para sanar a omissão jurisdicional"(fl. 282e).
+Sem contrarrazões (fl. 326e).
+Em sede de juízo de retratação, assim decidiu a Corte Estadual:
+"JUÍZO DE RETRATAÇÃO. TEMA 905 dos Repetitivos do E.Superior Tribunal de Justiça. TEMA 810 de Repercussão Geral do E. Supremo Tribunal Federal.
+1. Ação relacionada a exigibilidade de título executivo judicial.
+Acórdão que determinou a aplicação dos índices oficiais de atualização vigentes à data de cada depósito de precatório, indicando que, em havendo saldo devedor, o período subsequente deveria levar em conta a Tabela Prática atualmente vigente.
+2. Precatório expedido antes de março /2015. Inaplicabilidade das teses fixadas nos Temas 905/STJ e 810/STF.
+ACÓRDÃO MANTIDO" (fl. 341e).
+Inadmitido o Recurso Especial (fl. 329e), foi interposto o presente Agravo (fls. e).
+Contraminuta a fls. 353/359e.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Embargos àExecuçãoajuizadospela parte ora recorrida, objetivando o reconhecimento da inexigibilidade do título judicial ou do excesso de execução.
+Julgada parcialmenteprocedente a demanda, recorreram ambas as partes, tendo sido reformada a sentença, pelo Tribunal local, ante o parcial provimento das Apelações.
+Daí a interposição do presente Recurso Especial.
+Quanto à alegada ofensa ao art. 1.013 do CPC/2015, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Demais,no que tange à Lei 6.899/81, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Saliente-se que "a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal" (STJ, AgInt no AREsp 1.710.262/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 27/11/2020).
+Ademais, " ..  esta Corte Superior de Justiça já consignou que "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (AgRg no AREsp 583.401/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/3/2015)" (AgInt no AREsp 1.558.460/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 11/3/2020).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
