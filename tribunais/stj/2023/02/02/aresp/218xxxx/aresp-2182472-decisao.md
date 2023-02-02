@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão querejeitou a exceção de pré-executividade oposta pelo ora agravante, rechaçando a arguição de prescrição.No Tribunal a quoo agravo de instrumento foi improvido. O valor da causa foi fixado em R$ 42.342,84.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - ISSQN - DECISÃO DE ORIGEM QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE EM QUE SE ALEGAVA A PRESCRIÇÃO MATERIAL DO CRÉDITO TRIBUTÁRIO REFERENTE AO EXERCÍCIO DE 2001 - CDA QUE NÃO INDICA DATA DE EVENTUAL DECLARAÇÃO DO IMPOSTO PELO CONTRIBUINTE, TAMPOUCO A DATA DE VENCIMENTO - ENTENDIMENTO DE QUE SE CONSIDERA DEFINITIVAMENTE CONSTITUÍDO O CRÉDITO NO PRIMEIRO DIA DO EXERCÍCIO SEGUINTE E, COMO TERMO INICIAL DA PRESCRIÇÃO, O DIA SUBSEQUENTE; NO CASO DOS AUTOS, DIA 02/01/2002 - AJUIZAMENTO ANTERIOR Á LC 118/2005 - REDAÇÃO ORIGINAL DO ART. 174 DO CTN - INTERRUPÇÃO DA PRESCRIÇÃO QUE SE DAVA COM A EFETIVA CITAÇÃO DA EXECUTADA - MANDADO DE CITAÇÃO CUMPRIDO EM 18/03/2005, ANTES, PORTANTO, DO ESCOAMENTO DO PRAZO QÜINQÜENAL - PRESCRIÇÃO NÃO CARACTERIZADA. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Não se tendo outras informações, tais como data do fato gerador, declaração pelo contribuinte, eventual pagamento parcial antecipado, etc., entende-se que, a partir da aplicação do art. 173, inc. I, do CTN, o tributo é considerado definitivamente constituído no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+ ..
+Assim, com relação ao crédito referente a 2001, considera-se definitivamente constituído o ISSQN em 01/01/2002, iniciando a correr o prazo prescricional do art.174, caput, do CTN, no dia 02/01/2002.
+Tendo em vista que a citação da executada/agravante ocorreu em 18/03/2005 conforme assinalado pelo Sr. Bernardo Laks, Diretor, no Mandado de Citação e também indicado na certidão do Oficial de Justiça (mov. 1.1, pp. 6 e 7), claramente não estava esgotado o prazo quinquenal.
+Por oportuno, consigne-se que a citação não ocorreu em 10/05/2006, como quer fazer crer a agravante. Nessa data (10/05/2006) o que se deu foi a mera juntada do mandado cumprido e respectiva certidão firmada pelo Oficial de Justiça, justamente dando conta de que a citação ocorreu em 18/03/2005.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
