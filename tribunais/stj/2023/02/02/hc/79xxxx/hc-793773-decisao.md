@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão que não conheceu em parte o habeas corpus em razão da reiteração de pedidos no que tange prisão preventiva e indeferiu a liminar na origem no que se refere ao pedido de prisão domiciliar.
+Em 19/7/2022, o writ de origem foi denegado por acórdão assim relatado (fl. 66):
+1. Em benefício de Bruna Facundo da Silva e Vinícius Pereira Maciel, o advogado Edward José de Andrade impetrou "habeas corpus", com pedido de liminar, alegando sofrerem os pacientes ilegal constrangimento por parte do MM. Juiz de Direito da Comarca de Vargem Grande do Sul, nos autos nº 1500740-93.2022.8.26.0653, porque, detidos no dia 9 de junho de 2022, por suposta prática dos crimes de tráfico de entorpecentes e associação para o tráfico, a prisão em flagrante deles foi convertida em custódia preventiva, embora ausentes os requisitos legais para tanto e por decisão carente de idônea fundamentação, pois embasada apenas na gravidade abstrata das infrações, sem considerar que eles são jovens, primários e possuem residência fixa e ocupação lícita, além da paciente Bruna ser mãe de duas filhas menores de doze anos e apresentar "fortes sintomas de COVID". Aduz que "os flagrantes foram irregulares e ilícitos" e que os pacientes são meros usuários de drogas e "não têm nenhuma relação" com os três indivíduos que também foram presos na mesma data, bem como que a prisão deles ofende o princípio constitucional da presunção de inocência.
+Por tais motivos, pleiteia a concessão da ordem para ser revogada a custódia preventiva dos pacientes ou ela substituída, para a paciente Bruna, por prisão domiciliar, expedindo-se alvarás de soltura.
+Indeferida a liminar e dispensada a requisição de informações à digna autoridade impetrada, a ilustrada Procuradoria de Justiça opinou pela denegação da ordem.
+É a síntese do necessário.
+Consta dos autos que a paciente se encontra presa preventivamente pelo cometimento, em tese, do delito tipificado no art. 33 da Lei n. 11.343/2006.
+A impetrante sustenta a ausência de fundamentação idônea para justificar o decreto da segregação cautelar, reputando não atendidos os requisitos autorizadores da preventiva, previstos no art. 312 do Código de Processo Penal. Aduz que a paciente é mãe de duas crianças menores de 12 anos.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem aplicação de medidas cautelares diversas da prisão ou mesmo a substituição da prisão preventiva pela prisão domiciliar.
+A liminar foi deferida concedendo a prisão domiciliar. Prestadas as informações, o Ministério Público Federal opinou pela concessão parcial da ordem.
+Em consulta ao sítio eletrônico do tribunal de origem, verifica-se que foi proferida sentença em 20/1/2023, que julgou parcialmente procedente desclassificando o delito praticado para o previsto no art. 28 da Lei n. 11.343/2006. Dessa forma, houve a perda superveniente do objeto deste habeas corpus, razão pela qual se encontra prejudicado.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
