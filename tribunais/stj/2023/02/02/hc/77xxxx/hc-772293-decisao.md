@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 56):
+ROUBOS SIMPLES (TENTADO E CONSUMADO). Continuidade delitiva. Prova robusta da autoria e da materialidade delitiva.
+Confissão judicial em consonância com o restante da prova colhida, notadamente com os reconhecimentos pessoais seguros efetuados pelas vítimas e o depoimento do policial militar que atendeu a ocorrência. Condenação mantida. Reprimendas que partiram dos mínimos legais e foram mantidas nos mesmos patamares na segunda fase, a despeito da atenuante da confissão espontânea (Súmula nº 231, do STJ). Na terceira fase, reconhecimento da continuidade delitiva em primeiro grau, majorando-se as penas do crime mais grave (roubo consumado) em um sexto. Regime fechado necessário. Inviabilidade de aplicação da detração penal. Apelo improvido.
+Narram os autos que o paciente foi condenado, como incurso no art. 157, caput, do Código Penal, por duas vezes, uma delas c/c o art. 14, II, na forma do art. 71 do CP, a 4 anos e 8 meses de reclusão, em regime inicial fechado, e 11 dias-multa.
+Sustenta a defesa, em suma, que "não havendo fundamento para a imposição do regime mais rígido, verifica-se que este foi fixado apenas com base na gravidade genérica do fato criminoso e sem vinculação com os parâmetros previstos nos artigos 59 e 33 do Código Penal, o que constitui uma ilegalidade" (fl. 9).
+Requer, assim, liminarmente e no mérito, que seja fixado o regime inicial semiaberto para o cumprimento da pena.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+A respeito do regime inicial de cumprimento de pena, consta do acórdão (fl. 59):
+O regime fechado, eleito para o desconto inicial da sanção privativa de liberdade, é o mais adequado diante da gravidade concreta dos delitos, sendo incogitável a concessão de regime mais brando buscada pela Defesa, providência claramente inadequada à repressão e prevenção de crime grave, que desassossega a sociedade, com a nota de que os delitos foram cometidos com grave ameaça e emprego de simulacro de arma de fogo com a intenção de reduzir a possibilidade de resistência das vítimas, demonstrando maior ousadia e a gravidade da conduta do réu.
+Por oportuno, extrai-se da sentença (fls. 50-51):
+Para a fixação do regime inicial para o cumprimento da pena privativa de liberdade (regime fechado), considerei o período de prisão preventiva (termo inicial: 14 / Outubro / 2021) e as circunstâncias dos crimes (cometidos mediante grave ameaça exercida com o emprego de um "simulacro" de arma de fogo), o que revela ousadia e periculosidade e demonstra sua total incapacidade de ressocialização ou reinserção no meio social (com imposição de regime mais severo).
+Além disso, a mera confissão espontânea (judicial ou extrajudicial) não pode ser considerada isoladamente com elemento que justifique a fixação de um regime prisional mais brando.
+Como se vê,as instâncias ordinárias fundamentaram o regime mais gravoso apenas com base na gravidade abstrata do crime de roubo majorado, sem justificativanas circunstâncias do fato delituoso. Nos termos da jurisprudência desta Corte, "a ausência de peculiaridades específicas do roubo majorado nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF" (HC 228.310/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/03/2016, DJe 11/03/2016).
+Nesse contexto, o estabelecimento de regime prisional mais gravoso sem fundamento concreto, contraria o disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+Súmula 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Súmula 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Súmula 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Sendo assim, não se justifica a imposição de regime inicial fechado ao réu condenado à pena reclusiva de 4 anos e 8 meses de reclusão, cuja pena-base foi fixada no mínimo legal,fazendo jus o paciente ao regime semiaberto, em atenção ao disposto no art. 33, §§ 2º e 3º, c/c o art. 59, ambos do Código Penal.
+Ante o exposto, concedo o habeas corpus para fixar o regime inicial semiaberto.
+Comunique-se.
+Intimem-se.
+Publique-se.
