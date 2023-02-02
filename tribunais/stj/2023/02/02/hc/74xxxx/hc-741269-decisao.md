@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deGABRIELLY CRISTINNY ARAUJO DA SILVA, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento do Recurso em Sentido Estrito n.0000232-56.2021.8.26.0590.
+Extrai-se dos autos que a paciente foi presaem flagrante em 22/12/2020,pela suposta prática do crime previsto no art.33 da Lei n. 11.343/2006 (tráfico de drogas), tendo o Juízo de primeiro grau homologado o flagrante e concedido a liberdade provisória.
+Irresignada, a acusação interpôs RESE ao qual o Tribunal de origem deu provimento, em 18/4/2022, para decretar a prisão preventivada ora paciente, tornando definitiva a decisão proferida nos autos da Medida Cautelar Inominada n.2003258-52.2021.8.26.0000, consoante o acórdão abaixo ementado:
+""RECURSO EM SENTIDO ESTRITO - TRÁFICO DE DROGAS - INTERPOSIÇÃO PELO MINISTÉRIO PÚBLICO CONTRA A DECISÃO QUE CONCEDEU A LIBERDADE PROVISÓRIA AOS ACUSADO - ALEGAÇÕES DE IMPRESCINDIBILIDADE DA MANUTENÇÃO DA CUSTÓDIA CAUTELAR PARA ACAUTELAR A ORDEM PÚBLICA, PRESENTES OS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP.
+EFEITO SUSPENSIVO AO PRESENTE RECURSO CONCEDIDO EM MEDIDA CAUTELAR INOMINADA, EXPEDIDO MANDADO DE PRISÃO EM DESFAVOR DE AMBOS OS RECORRIDOS, CUMPRIDO SOMENTE UM DELES. PRETENSÃO RECURSAL, TODAVIA, QUE RESTOU SEM OBJETO EM RELAÇÃO AO RECORRIDO, DIANTE DA REVOGAÇÃO DA PRISÃO PREVENTIVA POR EXCESSO DE PRAZO PARA A REALIZAÇÃO DO EXAME DE DEPENDÊNCIA QUÍMICA - SOLTURA ADVINDA DE OUTRA DECISÃO QUE NÃO A AQUI IMPUGNADA - RECURSO EM SENTIDO ESTRITO PARCIALMENTE PREJUDICADO.
+CABIMENTO DA IRRESIGNAÇÃO EM RELAÇÃO À RECORRIDA - NECESSIDADE DA CUSTÓDIA PREVENTIVA PARA ASSEGURAR A ORDEM PÚBLICA E A APLICAÇÃO DA LEI PENAL - ACUSADA PRESA EM FLAGRANTE, SENDO APREENDIDA GRANDE QUANTIDADE DE MACONHA (MAIS DE UM QUILO) - PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA CONDUTA REVESTIDA DE GRAVIDADE CONCRETA, INDICANDO-SE A PERICULOSIDADE DA AGENTE E A PERSONALIDADE VOLTADA À ATIVIDADES ILÍCITA, APONTANDO-SE, AINDA, QUE RESPONDE A OUTRO PROCESSO CRIMINAL POR CRIME DO MESMO JAEZ E A SITUAÇÃO DE FORAGIDA DESDE A DATA EM QUE CONCEDIDA A LIBERDADE PROVISÓRIA NESTES AUTOS - PRESENÇA DOS REQUISITOS DA PRIVAÇÃO CAUTELAR DE LIBERDADE, COM VIÉS DE PROVIDÊNCIA FINAL, BUSCANDO-SE TUTELAR PRESUMÍVEL SENTENÇA CONDENATÓRIA - EVENTUAIS CONDIÇÕES SUBJETIVAS FAVORÁVEIS QUE, POR SI SOMENTE, NÃO OBSTAM O DECRETO PRISIONAL RECURSO MINISTERIAL PROVIDO."(fl. 169).
+No presentewrita Defensoria Pública sustentaa ausência de fundamentação concreta que justifique a prisão preventiva da paciente, baseada apenas na gravidade abstrata do delito. Assevera não estarem presentes os requisitos autorizadores da medida previstos no art. 312 do Código de Processo Penal - CPP.
+Pondera que a paciente possui condições pessoais favoráveis e assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar, que a paciente "aguarde em regime aberto" (fl. 12) o julgamento do mandamus e, no mérito, a revogação da prisão preventiva.
+Indeferida a liminar (fls. 553/555).
+Prestadas as informações (fls. 560/583). Após reiteração (fl. 590), encaminhou-se os informes de fls. 593/596.
+O Ministério Público Federal oficiou pelo não conhecimento ou denegação do writ(fls. 601/603).
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque, das informações obtidas na página eletrônica do Tribunal de origem (e-SAJ), verifica-se a superveniência, em 16/1/2023, de sentença penal condenatória proferida pelo Juízo da 3ª Vara Criminal da Comarca de São Vicente/SP, nos autos da ação penal n. 1503890-16.2020.8.26.0536, para condenar a paciente "ao cumprimento da pena privativa de liberdade de 2 (dois) anos reclusão e 200 (duzentos) dias-multa, no seu valor mínimo, em regime inicial aberto, com a substituição da pena privativa de liberdade por duas restritivas de direitos", bem como determinar a expedição de alvará de soltura.
+Nessa conjuntura, resta evidenciada aperda superveniente do objeto deste habeas corpus, tendo em vista a cessação das circunstâncias determinantes da impetração.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intime-se.
