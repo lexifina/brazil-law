@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COOPERATIVA DOS PRODUTORES AGROPECUÁRIOS DE SÃO PEDRO à decisão de fls. 309/310, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Não obstante o respeito que se irroga a Vossa Excelência, infelizmente, da análise da R. Decisão que não conheceu do recurso de agravo em recurso especial, haure-se que a mesma se encontra plasmada por patente erro material e contradição, tendo emvista que ao contrário do que remanesceu reconhecido, a Embargante realizou o devido recolhimento do preparo e assim sendo, não há justificativa para que proceda ao recolhimento em dobro.
+Conforme decisão, o comprovante juntado não continha a autenticação bancária, o que, com respeito, não é o caso dos Autos: (fls. 312/313).
+ ..
+No caso, no comprovante protocolizado na origem não foi possível visualizar o número da autenticação, entretanto, após a Embargante ser regularmente intimada para sanar o vício, PRONTAMENTE TROUXE AOS AUTOS O COMPROVANTE INTEGRAL, NO QUAL CONSTA A DEVIDA AUTENTICAÇÃO BANCÁRIA, ESSENCIAL PARA A VERIFICAÇÃO DA EFETIVA QUITAÇÃO DA OBRIGAÇÃO (fl. 314).
+ ..
+Assim, de fato, não se fazia necessário um novo recolhimento do preparo em dobro, vez que houve o recolhimento quando da interposição do recurso e caberia à Serventia apenas consultar, comparar os dados da guia expedida com os do comprovante e, por fim, a autenticação, momento em que concluiria que o preparo foi recolhido da forma correta (fl. 315).
+ ..
+Entretanto, não recolheu o preparo em dobro vez que há autenticação de que o ato - pagamento da guia de preparo - foi efetivado, sendo certo que ter que proceder ao recolhimento em dobro só trará enriquecimento ilícito aos cofres públicos (fl. 316).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem comprovante de recolhimento das custas judiciais.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que limitou-se a trazer à fl. 302 o comprovante de pagamento referente à guia anteriormente apresentada, sem, contudo, realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Cumpre ressaltar, ainda, que conforme preceitua o § 4º do art. 1.007 do Código de Processo Civil, se a parte não comprovar o recolhimento no ato da interposição do recurso, deverá providenciar o recolhimento em dobro. Veja que o artigo é claro, trata-se da comprovação do recolhimento no momento oportuno. Assim, ainda que tenha recolhido o valor referente as custas na data da interposição do recurso especial, ou no caso, dentro do prazo para regularização, de nada adiantará se não apresentou a comprovação da quitação no momento oportuno. Ocorre a preclusão.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
