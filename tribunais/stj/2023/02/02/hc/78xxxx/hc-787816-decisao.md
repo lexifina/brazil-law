@@ -1,0 +1,23 @@
+DECISÃO
+JONATHAN DA SILVA MACHADOalega sofrer constrangimento ilegal em decorrência do acórdão prolatado peloTribunal de Justiça do Estado do Rio Grande do Sulna Apelação n. 5002355-76.2021.8.21.0073.
+O paciente foi condenado por embriaguez ao volante a pena privativa de liberdade substituída por uma restritiva de direitos, consistente na prestação de serviços à comunidade.
+Neste habeas corpus, a defesa busca a declaração de nulidade da citação por telefone, ao argumento de que "não há provas mínimas e robustas que o réu foi devidamente citado" (fl. 6).
+Salientou que esse meio de comunicação de atos processuais não encontra respaldo legal e causou prejuízo à parte, que não teve conhecimento do processo em que figurou como denunciado.
+O Ministério Público Federal opinou pelo não conhecimento dowritou, subsidiariamente, pela denegação da ordem (fls. 235-239).
+Decido.
+Em consulta ao site do TJ-RS, o gabinete verificou queeste writ foi impetrado concomitantemente a recurso especial para impugnar o acórdão proferido na apelação criminal. O pedido aqui deduzido, será, portanto, objeto de análise no recurso já interposto, o qual impugna o mesmo ato ora apontado como coator.
+Diverge a doutrina e, sobretudo, a jurisprudência sobre a viabilidade de se examinar habeas corpus quando existe pendência de análise da matéria pela via recursal. Dúvidas não há de que, em se tratando de discussão acerca da liberdade de locomoção diretamente afetada por ilegalidade ou abuso de poder, o cabimento do remédio heroico é indiscutível.
+Esse tema talvez tenha assumido notável relevância em razão do espectro de abrangência que tem sido dado, pela jurisprudência, ao habeas corpus. Se saudável foi a aceitação do writ como remédio para "todos os males", impõe definir os contornos da situação em que o mandamus é impetrado simultaneamente com o recurso especial e o assunto tratado naquele restringe-se a capítulo deste último.
+Assim, o recurso especial é a via processual adequada para a impugnação do acórdão proferido na apelação criminal, pois esse é o recurso que leva ao tribunal superior o conhecimento da matéria dos autos, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+Por isso mesmo é que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), bem como à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus - situação não observada no presente caso.
+Foi concedido ao paciente o direito de recorrer em liberdade, de modo que não há manifesta urgência que justifique contornar o sistema recursal vigente no âmbito do processo penal. Ademais, conforme consignado pelas instâncias ordinárias, a citação foi realizada por telefone em 3/8/2021(fl. 40), a afastar, a um primeiro olhar, a plausibilidade jurídica da tese defensiva.
+Confira-se, a propósito, trecho do voto condutor do acórdão a respeito do tema(fl. 183, grifei):
+Inicialmente, não assiste razão à defesa quando alega a nulidade da citação do acusado, bem como da intimação para audiência por ter ocorrido por meio eletrônico, considerando as recomendações contidas no Ato 30/2020, da CGJ/TJRS, artigos 11 e 12, decorrentes das medidas de prevenção ao contágio do COVID-19.
+Ainda, a citação foi realizada por oficial de justiça, que possui fé pública, sendo certificado que (12.1):
+"CERTIFICO que, em cumprimento ao respeitável mandado, diligenciei pessoalmente e lá estando COM A INFORMAÇÃO QUE O MESMO ESTARIA RESIDINDO NA PRAIA, solicitei contato telefônico e nesta data entrou em contato, e ali, 980458914, citei e intimei Jonathan da Silva Machado de todo conteúdo de ordem que li e entreguei contrafé via aplicativo que recebeu e ficou ciente".
+Do mesmo modo, a certidão de intimação para audiência ( 30.1):
+"CERTIFICO que, em cumprimento ao respeitável mandado, diligenciei via telefone 80458914 e intimei Jonathan da Silva Machado de todo conteúdo de ordem que li e enviei contrafé.
+Sendo o que tinha para certificar, devolvo o presente ao cartório, para os devidos fins.O referido é verdade, dou fé".
+É certo que este Tribunal Superior orienta que seja auferida aautenticidade da identidade do citando. Todavia, o exame minucioso da tese defensiva, à luz da jurisprudência do STJ, deverá ser realizado no meio processual adequado, qual seja, o recurso especial.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
