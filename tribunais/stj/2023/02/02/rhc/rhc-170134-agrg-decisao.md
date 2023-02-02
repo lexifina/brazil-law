@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por JEISSON ROBERTO FERNANDES DA FONSECA contra decisão singular por mim proferida, às fls. 600/603, em que não conheci do recurso ordinário emhabeas corpus por eleinterposto.
+No presente agravo, o ora agravante alega que a cópia do acórdão do HC n.1.0000.22.063765-6/000, que analisou a matéria referente aos fundamentos da segregação cautelar,ao contrário do narrado na decisão objurgada, foi acostada aos autos às fls. 569/587, o que permite que referido tema seja analisado por este Sodalício.
+Reitera, ainda, a ocorrência de excesso de prazo na formação da culpa.
+Requer a reconsideração do decisum ou a submissão do referido recurso ao Órgão Colegiado para que lhe seja dado provimento.
+É o relatório.
+Decido.
+De fato, a cópia doacórdão proferido nos autos do HC n.1.0000.22.063765-6/000 foi juntada pela defesa às fls. 569/587 dos autos,havendo análise, portanto, pelo Tribunal de origem quanto aos fundamentos da segregação cautelar do recorrente.
+Assim sendo, reconsidero a decisão agravada (fls. 600/603) tão-somente para acrescentar reconhecer não ter havido supressão de instância ou instrução deficiente quanto àanálise acerca damatéria referente aos fundamentos da custódia preventiva do recorrente.
+Todaviao recurso, quanto ao ponto, está prejudicado.
+Isso porque, conforme consta da decisão agravada, das informações obtidas na página eletrônica da Corte Estadual, verifica-se que, nos autos da Ação Penal n.0025163-55.2019.8.16.0014, que aqui se cuida, em 25/10/2022 sobreveio sentença pronunciando o recorrente como incurso no art.121, §§ 2º, inciso II e 4º,do Código Penal, mantida a custódia cautelar.
+In casu, da leitura da sentença de pronúncia, observa-se que o Magistrado de primeiro grau manteve a custódia cautelar do recorrente, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado,in verbis:
+"Da prisão preventiva
+Por fim, entendo, no que concerneàanálise da manutenção da segregação cautelar do denunciado,que ainda perduram os motivos ensejadores da decretação da medida extrema,nos termos do art. 312 e 313, incisoI, do CPP,considerando, inicialmente, que a peça acusatória atribui, ao pronunciado, a suposta prática de crime cuja pena máxima em abstrato ultrapassa 04 (quatro) anos de reclusão.
+Outrossim, possível se extrair, em princípio, na visão deste juízo, da dinâmica dos fatos narrados pela testemunha Maria Helena Godinho Santana, única testemunha ocular dos fatos, elevada frieza por parte do denunciado, prosseguindo, este, em tese, com a conduta mesmo diante das súplicas da testemunha para que cessasse imediatamente o ato, desconsiderando, outrossim, em tese, a condição de pessoas idosas da vítima e referida testemunha, circunstâncias, estas, que avocam, na visão deste juízo, elevado grau de reprovabilidade da conduta que lhe fora imputada, e demonstram, em princípio, gravidade concreta que suplanta aquela que é inerente ao tipo penal (garantia da ordem pública).
+Não bastasse isso, tendo por base os elementos colhidos,seja na fase administrativa ou judicial,pode se verificar, em tese, que o presente fatoteria sido, em análise cognitiva precária, premeditado e motivado, possivelmente, por vingança, circunstância, esta, que demonstra, de forma indiciária, frieza por parte do autuado, de onde emana, ademais, a necessidade da custódia cautelar.
+Não bastasse isso, conforme entende o Superior Tribunal de Justiça, inviável aplicação de medida cautelar diversa da prisão quando a gravidade concreta dos delitos demonstram serem insuficientes para acautelar a ordem pública,conforme ementa colacionada em seguida:
+ ..
+Nesse cenário,presentesaindaos requisitos previstos nos artigos 312 e 313, inciso I, do CPP, e ante a insuficiência das medidas cautelares diversas a prisão, conforme declinado alhures,indefiroo direito aopronuciadoJeisson Roberto Fernandes da Fonsecade responder ao presente processo em liberdade."
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tomar prejudicado owrit/recurso em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediantehabeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+Confira-se o julgado desta Corte no mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA COM AGREGAÇÃO DE NOVOS FUNDAMENTOS, NÃO IMPUGNADOS PELO IMPETRANTE. NEGATIVA DE RECORRER EM LIBERDADE. PEDIDO RECURSAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido.
+(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, reconsidero a decisão agravada, apenas para sanar erro material, contudo, julgo prejudicado o recurso ordinário emhabeas corpus.
+Publique-se.
+Intimem-se.
