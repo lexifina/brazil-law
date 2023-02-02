@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 123):
+TRÁFICO DE DROGAS. Preliminar de nulidade rejeitada. Abordagem do réu e buscas em sua residência plenamente justificadas, destacando-se que quanto a esta última houve expressa permissão do réu, conforme seu interrogatório em Juízo. No mérito, materialidade e autoria comprovadas. Relatos dos policiais militares corroborados pela confissão do réu. Pena redimensionada para fixar a base no mínimo legal, sem alteração, todavia, do total ao final imposto. Regime inicial fechado de rigor. Apelo defensivo parcialmente provido e ministerial integralmente provido.
+Consta dos autos que o paciente foi condenado por incursão ao art. 33, caput, da Lei 11.343/06, às penas de 5 anos de reclusão, no regime inicial fechado, mais 500 dias-multa.
+No presente habeas corpus, alegam os impetrantes a existência de constrangimento ilegal, porquanto fixado regime prisional mais gravoso do que o cabível segundo a pena aplicada, sem fundamentação idônea.
+Pugna, inclusive liminarmente, pela fixação do regime semiaberto.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Quanto ao regime prisional, a sentença condenatória restou assim fundamentada (fl. 70):
+Considerando o quantum da pena privativa de liberdade aplicada e as condições pessoais do condenado e, ainda, tendo em vista os critérios estabelecidos pelo artigo 59, sendo que o condenado não é reincidente, com fundamento no artigo 33, parágrafo 2º, alínea "b" e parágrafo 3º, do mesmo diploma legal, fixo, para início do cumprimento da pena, o regime semiaberto.
+O acórdão, por sua vez, assim dispôs (fl. 129):
+Todavia, considerando as características do caso em apreço (venda de drogas por delivery, quantidade e variedade relevantes), bem como a hediondez da conduta, deve ser imposto o regime inicial fechado para cumprimento de pena, como sustentado no apelo ministerial.
+Como se observa, o Tribunal de origem impôs o regime inicial fechado ao réu com fundamento nas circunstâncias em que praticado o delito, dentre elas, o modus operandi, a quantidade e variedade, além da hediondez.
+A jurisprudência desta Corte consolidou-se no sentido de que, no tocante ao delito de tráfico de drogas, "a natureza e a variedade da droga apreendida, desde que associadas a uma quantidade não desprezível, constituem fundamento idôneo a justificar tanto o aumento da pena-base, a imposição do regime mais severo, quanto o indeferimento da substituição das penas (AgRg no REsp 1.855.025/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/05/2020, DJe 25/05/2020)" (AgRg no HC 634.869/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021).
+Ressalte-seque, "Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal)". (AgRg no HC 671879 / RS, Relator(a) Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/11/2021, DJe 26/11/2021).
+No caso,a apreensão total de 453,9g de maconha e 324,9g de cocaína (fl. 57),quantidades que não se mostram relevantes, tampouco a forma como o delito foi praticado,aliados à primariedade do réu e a fixação da pena-base no mínimo legal, não constituem fundamentos válidos para a imposição do regime mais gravoso, que demandanecessariamente a indicação de elemento concreto e idôneo, o que não ocorreu, contrariandoo teor dos Enunciados 718 e 719 da Súmula do STF, bem como do Enunciado n. 440 da Súmula do STJ.
+Quanto à apontada hediondez do delito, insta consignar que o Pleno do eg. Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal).
+Desse modo, deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+Ante o exposto, concedo o habeas corpus para fixar o regime inicial semiaberto para o cumprimento da pena reclusiva.
+Comunique-se.
+Publique-se.
+Intimem-se.
