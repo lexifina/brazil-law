@@ -1,0 +1,29 @@
+DECISÃO
+JHONATHAN CARVALHO DE LIMA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territóriosna Apelação n. 0708097-69.2020.8.07.0003.
+Depreende-se dos autos que o réu foi condenado a 5 anos, 5 meses e 10 dias de reclusão, em regime fechado,mais 256 dias-multa, pela prática de furto.
+O Tribunal de origem negou provimento à apelação e acolheu os embargos de declaração, ambosdefensivos, a fim de reduzir a pena para 4 anos e 1 mês de reclusão, em regime fechado, mais 112 dias-multa.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 158 do CPP, ao argumento de que a qualificadora referente à escalada só pode ser configurada mediante laudo pericial que apresente elementos suficientes para o esclarecimento do modo utilizado pelo agente para adentrar o imóvel.
+Requer seja afastada a forma qualificada do furto.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu nãoprovimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Entende que o laudo pericial não faz menção ao local de onde os bens foram subtraídos, não havendo prova pericial acerca da existência de muro ou qualquer outro obstáculo que conduzisse à escalada para acesso ao interior do pátio da delegacia. Consequentemente, requer a desclassificação para furto simples.
+Cabe frisar que, embora seja necessária a realização de perícia para a comprovação da qualificadora da escalada no crime de furto, não podem ser ignoradas as demais provas dos autos que demonstram inequivocamente a presença de tal circunstância.  ..
+No caso dos autos, restou demonstrado pela confissão judicial do réu, em seu interrogatório (ID 34596409/12), os fatos que lhe foram imputados, bem como descreveu que para ter acesso à delegacia, pulou o muro por volta de 1h da manhã e abriu o portão eletrônico de forma manual. Relatou, ainda, que retornou ao local entre 2h e 3h da madrugada e pulou novamente o muro.
+Portanto, há que se considerar as informações prestadas pelo réu de que realizou o furto das motocicletas mediante escalada de muro para adentrar ao local onde se encontravam as motocicletas, no caso, o pátio da delegacia, deixando evidente a existência da qualificadora.
+Diante disso, embora não tenha sido realizado o exame pericial a fim de comprovar a escalada do muro, não é possível ignorar as demais provas nos autos, que demonstram inequivocamente que está presente a qualificadora em questão.
+(fls. 427-428, destaquei)
+A respeito do tema, registro que, no julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Naquela oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte. Porém, levado referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria sob a seguinte ementa:
+ ..
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Recurso provido para afastar a qualificadora da escalada da condenação do recorrente pelo delito de furto.
+(REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016, destaquei.)
+Como visto, a Sexta Turma deste Tribunal Superior concluiu pela imprescindibilidade, em regra, da comprovação da escalada por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+A partir de então, com a ressalva de minha posição pessoal, aderi ao entendimento do colegiado, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação da escalada.
+Na espécie, é incontroverso que não foi realizado exame pericial para atestar a escalada e as instâncias ordinárias não demonstraram qualquer excepcionalidade que justificasse a sua não realização, identifico o constrangimento ilegal mencionado, motivo pelo qual deve ser afastada a qualificadora em questão.
+Feitas essas considerações, passo à nova dosimetria.
+Afastada a forma qualificada dos doisfurtos, mantenho a valoração negativa da culpabilidade e conduta social para ambose orespectivo patamar de aumento (9 meses para cada vetorial), o que resulta pena-base de 2 anos e 6 meses de reclusão mais 18 dias-multa, que coincide com a intermediária, pois reitero a compensação entre a confissão e reincidência. Na terceira fase, preservo o aumento de 1/3 decorrente do repouso noturno, com o que torno final a reprimenda em 3 anos e 4 meses de reclusão mais 24 dias-multa.
+Por fim, ratifico a elevação de 1/6 relativa à continuação delitiva, a resultar 2 anos e 11 meses de reclusão mais 42 dias-multa, conforme os arts. 71 e 72 do CP.
+Diante do exposto, dou provimento ao recurso especial, com a finalidade de diminuir a sanção para2 anos e 11 meses de reclusão mais 42 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
