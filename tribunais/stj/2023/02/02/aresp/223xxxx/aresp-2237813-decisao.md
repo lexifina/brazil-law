@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, que negou admissibilidade a recurso contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO OPOSTO CONTRA DECISÃO QUE DEUPROVIMENTO A RECURSO DE APELAÇÃO. AÇÃO COLETIVA Nº 14.440/2000. SENTENÇAEXEQUENDA ILÍQUIDA. TERMO INICIAL DA PRESCRIÇÃO. DATA DA HOMOLOGAÇÃO DOS CÁLCULOS. PRESCRIÇÃO ALCANÇADA. ARGUMENTAÇÃO RECURSAL INSUFICIENTE PARA INFIRMAR A DECISÃO AGRAVADA, QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO CONHECIDO E IMPROVIDO.
+No especial, alega-se pela não ocorrência daprescrição da pretensão executória, pois argumenta que"a contagem do prazo prescricional somente tem seu início quando o título executivo torna-se líquido e exigível, o que in casu não fora observado".
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Decido.
+A premissa nos autos é de que,
+quanto à prescrição da sentença ilíquida, o entendimento desta Corte Superior é de que, sendo a liquidação ainda fase do processo de cognição, só é possível iniciar a Execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se também líquido. Assim, o lapso prescricional só se inicia quando finda a liquidação (AgRg no REsp. 1.212.834/PR, Rel. Min. HUMBERTO MARTINS, DJe 13.4.11)No presente caso, a liquidez da sentença proferida na Ação Coletiva nº 14.440/2000, ajuizada pelo SINPROESEMMA, ocorreu apenas em 09/12/2013, conforme decisão de homologação dos cálculos, de modo que, a partir daí, iniciou-se a contagem do prazo prescricional. Acontece que, o presente cumprimento de sentença encontra-se fora do prazo prescricional de 05(cinco) anos, a contar da data da liquidação da sentença, eis que foi ajuizado na data de 15 de setembro de 2019.
+Observa-se que a tese do recorrente parte de premissa não adotada no origem, motivo pelo qual a deficiência de fundamentação recursal obsta o conhecimento do recurso(esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+Mesmo que assim não fosse, irretocável o juízo negativo de admissibilidade, do qual retiro, e adoto como razão de decidir, o seguinte excerto:
+Sobre o assunto, cito julgado do STJ: "A verificação da circunstância de se tratar de dívida líquida ou não é atividade típica das instâncias ordinárias, cujo reexame, nesta Corte, encontra obstáculo no enunciado n. 7 da Súmula do STJ" (AgInt no AREsp n. 1.708.438/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 1/3/2021, DJe de15/3/2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. LIQUIDAÇÃO. NECESSIDADE. PREMISSA DIVERSA DA ADOTADA NA ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF.REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO E NÃO PROVIDO.
