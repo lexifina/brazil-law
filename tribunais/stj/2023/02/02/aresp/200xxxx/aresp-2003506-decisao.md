@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MARCOS QUIRINO DOS SANTOS, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"SFH. SEGURO. FCVS. APÓLICE PÚBLICA. CEF. LEGITIMIDADE. JUSTIÇA FEDERAL. COMPETÊNCIA. TEMA 1.011 DO STF. VÍCIOS DECONSTRUÇÃO. CONTRATO LIQUIDADO.
+1. Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art.64 do CPC e/ou o § 4º do art. 1ºA da Lei 12.409/2011.
+2. Mesmo que os sinistros tenham ocorrido no período de vigência do financiamento, se o requerimento de cobertura securitária for posterior à liquidação do contrato, não há direito à cobertura.
+3. Apelação improvida" (fl. 961e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 978/987e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. ARTIGO 1.022 DO CPC. TEMA 1.011DO STF. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO. IMPOSSIBILIDADE. ESCLARECIMENTO. AUSÊNCIA DE TRÂNSITO EMJULGADO. DESNECESSIDADE.
+1. São cabíveis embargos de declaração quando houver na decisão judicial a necessidade de se esclarecer obscuridade ou eliminar contradição ou para suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento (art. 1.022 CPC/15). Além dessas hipóteses, cabem para fins de prequestionamento, por construção jurisprudencial, como indicam as Súmulas 356 do STF e 98 do STJ.
+2. No caso, não ocorreu nenhum dos vícios acima apontados e os embargos de declaração não se prestam para rediscutir matérias já apreciadas. Ademais, o julgado embargado enfrentou todas as questões deforma clara e suficientemente fundamentada, expressamente reconhecendo a competência da Justiça Federal para a análise da demanda, eis que a ação foi ajuizada em 2009, a sentença proferida em 2017 e o contrato de financiamento possui cobertura da apólice pública (ramo 66). Além disso, também restou devidamente analisada a questão da quitação do financiamento e a ligação disso com a cobertura securitária.
+3. Ademais, importante referir que a ausência de trânsito em julgado do RE 827.966 (Tema 1.011 do STF) C não é motivo de suspensão do feito, eis que, a teor do disposto no art. 1.040, III do CPC, publicado o acórdão paradigma, os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo Tribunal Superior e os embargos de declaração, a teor do disposto no art. 1.026 do CPC não possuem efeito suspensivo"
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante não aponta o dispositivo tido por violado, se limitando a argumentar que é irrelevante a quitação do financiamento habitacional para cobertura do seguro previsto na apólice pública do FCVS (ramo66).
+Não houve contrarrazões.
+Inadmitido o Recurso Especial (fls1.031/1.035e), foi interposto o presente Agravo (fls. 1.094/1.102e).
+Contraminuta a fls. 1.112/1.102e.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação Ordinária ajuizadapela parte ora agravante, com o objetivo de responsabilizar a ré pela cobertura securitária decorrente de contrato de mútuo firmado no âmbito do Sistema Financeiro Habitacional.
+Julgada improcedente a demanda, recorrramosautores, restando mantidaa sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Incide à espécie a Súmula 284/STF, tendo em vista a ausência de indicação de dispositivo tido por violado, configurando, assim, deficiência na fundamentação.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF. INDENIZAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+3. Agravo interno desprovido"(AgInt nos EDcl no AREsp n. 2.117.115/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 15/12/2022.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
