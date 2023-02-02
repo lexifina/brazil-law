@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto porCIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO SABESPcontra decisão que inadmitiu recurso especial manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - IPTU DE 2018 - MUNICÍPIO DE CARAGUATATUBA - INICIAL E CDA - Nulidade - Não ocorrência, pois reúnem todos os requisitos legais a que alude o art. 6º da LEF, inclusive, assinatura de quem de direito em ambos os documentos - Alegação de falta de capacidade postulatória que se mostra inconsistente - Precedente desta Col. Câmara - RECURSO NÃO PROVIDO" (fl. 126e).
+Opostos embargos de declaração, foram eles rejeitados (fls. 160/167e).
+No Recurso Especial, fundamentado na alínea ado permissivo constitucional, o recorrente alegaviolação aos artigos 489, §1º, IV, e 1.022, I e II, e parágrafo único, II, do CPC/2015; 1º, I, da Lei Federal 8.906/1994; 103 do CPC/2015; 6º, §2º, da Lei Federal 6.830/1980; 798, I, "a", do CPC/2015, sustentando, em síntese, omissão não suprida em sede de embargos de declaração, bem como que a Certidão de Dívida Ativa seria inexistente por ausência de capacidade postulatória do servidor municipal que juntou o documento nos autos (fls. 134/153e).
+OTribunal de origem inadmitiu o Recurso Especial (fls. 177/178e), o que ensejou a interposição do presente Agravo (fls. 181/195e).
+O Recurso não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais,oTribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que:
+"Foi proposta a execução fiscal por meio da petição de fls. 43, na qual se percebe assinatura do d. Procurador Fiscal Chefe.
+Por sua vez, a CDA que aparelha a execução também está devidamente assinada pela servidora responsável pela seção de dívida ativa (fls. 45/6)"(fl. 127e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer em parte do Recurso Especial, e, nessa extensão, negar-lhe provimento.
+I.
