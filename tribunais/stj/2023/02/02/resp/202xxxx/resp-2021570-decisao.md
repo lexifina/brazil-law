@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto porEMERSON DOS SANTOS DE JESUScom fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento de Apelação Criminal n. 1516343-94.2020.8.26.0228.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 157, caput, c/c oart.61, II, "j", ambos do Código Penal - CP (roubo), à pena privativa de liberdade de 4 anos e 8meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11dias-multa, à razão mínima(fl. 141).
+Recurso de apelação interposto pela defesa foi parcialmente providopara reduzir as penas do recorrente para 4 anos de reclusão e10 dias-multa(fl. 239). O acórdão ficou assim ementado:
+"Roubo - Recurso da defesa -Absolvição por fragilidade probatória, redução da pena e abrandamento do regime prisional -Materialidade e autoria delitiva demonstradas - Acusado seguramente reconhecido pela vítima - Apelo parcialmente provido para redução da pena"(fl. 231).
+Em sede de recurso especial (fls. 250/257), a defesa apontou violação aosarts. 33, § 2º, ""c", e§ 3º, e 59 do CP, porque o TJ manteve o regime prisional semiaberto com fundamento tão somente na gravidade abstrata do delito. Aduz quea pena do recorrente foifixada no mínimo legal, ou seja, em 4 anos, bem comoforam consideradas favoráveis todas as circunstâncias judiciais previstas no art. 59 do CP.
+Requer seja aplicado o regime prisionalaberto.
+Sem contrarrazões doMinistério Público do Estado de São Paulo.
+Admitido parcialmente o recurso no TJ (fls. 265/266), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério PúblicoFederal- MPF, este opinou pelo provimento do recurso especial (fls. 275/277).
+É o relatório.
+Decido.
+Sobre a violação ao arts. 33, § 2º, ""c"", e § 3º e 59 do CP, o TJmanteve o regime inicial semiabertonos seguintes termos do voto do relator (grifos nossos):
+"Por seu turno, a fixação do regime prisional independe da quantidade de pena aplicada na r. sentença condenatória. O regime deve ser estipulado atendendo às circunstâncias judiciais indicadas no artigo 59, do Código Penal, observado o que dispõe o artigo 33, § 3º, do mesmo Diploma.
+No caso, o regime mais adequado para o cumprimento da pena reclusiva imposta seria o fechado, uma vez que o apelante foi condenado por crime de roubo, infração penal repugnante que, por suas circunstâncias e consequências, desassossega a sociedade e causa traumas profundos em suas vítimas, o que justifica a fixação, ao menos inicialmente, do regime mais rigoroso.
+Entretanto, dado o conformismo do Ministério Público, conservo o regime intermediário estipulado." (fl. 239).
+Extrai-se do trecho acima que o Tribunal de origem asseverou ser o rouboum delito grave, responsável por trazer temor à sociedade, o que, em sua percepção, justificaria a imposição do regime inicial fechado. Ressalvou, contudo, que o Ministério Público não recorreu da sentença, razão pela qual manteve o regime prisional semiaberto anteriormente fixado.
+Verifica-se que, no caso, inexiste fundamentação concreta para a fixação de regime inicial mais gravoso do que aquele cabívelem face da pena imposta ao recorrente. A Corte local restringiu-se a assinalar a gravidade abstrata do delito, mas, mesmo em face da redução da pena e da possibilidade de fixação de regime aberto, nada mencionou concretamente que justificasse a imposição de regime mais gravoso no caso.
+Uma vez que a penafoi reduzida para 4 anos, mínimo legal abstratamente cominado para o crime de roubo,presente a primariedade do réu e ausentes circunstâncias judiciais negativas, conforme restou consignado pelas instâncias ordinárias, é de rigor a fixação de regime inicial aberto, nos termos do art. 33,§ 1º, "c", do CP.
+Nesse sentido, foi elaborado o enunciado n. 440 da Súmula desta Corte, que prevê: "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Na mesma esteira, estão as Súmulas n. 718 e 719 do Supremo Tribunal Federal - STF.
+Sobre o tema, citam-se precedentes (grifos nossos):
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. FIXAÇÃO DO REGIME ABERTO PARA O CUMPRIMENTO DA PENA. POSSIBILIDADE. SÚMULAS 440/STJ, 718/STF E 719/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em relação ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência. Súmulas 440/STJ, 718/STF e 719/STF.
+2. No caso, estabelecida a pena definitiva do acusado em 4 anos de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, não havendo qualquer outro elemento concreto demonstrado pela Corte de origem a justificar o regime mais gravoso, o regime aberto é o adequado à prevenção e reparação do delito.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.013.751/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA DE 05 (CINCO) ANOS DE RECLUSÃO. REGIME FECHADO FIXADO COM BASE NA GRAVIDADE ABSTRATA DO DELITO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - Para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+IV - Na hipótese, o regime fechado foi mantido com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal.
+V - Considerando a primariedade dos pacientes, bem como o quantum das penas estabelecido, forçoso concluir que fazem jus ao regime semiaberto para início de cumprimento de penas, ex vi do art. 33, parágrafo 2º, alínea b, e § 3º, do Estatuto Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 731.965/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/11/2022, DJe de 18/11/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REGIME MAIS GRAVOSO. AUSÊNCIA DE FUNDAMENTAÇÃO. ILEGALIDADE RECONHECIDA. WRIT CONCEDIDO. DECISÃO MANTIDA.
+1. "A ausência de peculiaridades específicas do roubo majorado nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF" (HC 228.310/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/03/2016, DJe 11/03/2016).
+2. No caso, inobstante a fixação da pena-base no mínimo legal, o Tribunal de origem não apresentou fundamentação para justificar a aplicação do regime mais gravoso, apenas fazendo menção à gravidade concreta do crime, sem justificar sua afirmação nas circunstâncias do fato delituoso.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 687.560/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/2/2022, DJe de 21/2/2022).
+Portanto, ausente a indicação de elementos concretos a justificar a imposição de regime inicial mais gravoso do aqueleindicado em lei para oquantumde pena, imperiosa a retificação do acordão para a fixação de regime inicial aberto ao recorrente.
+Ante o exposto, conheçodo recurso especial e, com fundamento na Súmula n. 568 do STJ,dou-lhe provimento para fixar o regime inicial aberto para cumprimento da pena.
+Publique-se. Intimem-se.
