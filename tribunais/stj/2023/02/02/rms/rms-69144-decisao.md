@@ -1,0 +1,30 @@
+DECISÃO
+Eulália Maria Albino Ponciano Furtado de Mendonça Souzaimpetrou mandado de segurança contra ato reputado ilegal atribuído ao Conselho da Magistratura do Tribunal de Justiça de Minas Gerais e do Presidente do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao recurso administrativo interposto contra a decisão proferida pela MMa. Juíza Diretora do Foro da comarca de Conselheiro Lafaiete, nos autos do processo administrativo disciplinar, que aplicou pena de multa no importe de R$ 9.540,00 (nove mil quinhentos e quarenta reais), alegando, em síntese, que a aludida sanção é manifestamente desproporcional e ilegal, revelando-se passível de anulação.
+O Tribunal de Justiça do Estado de Minas Geraisdenegou a ordem, nos termos assim ementados (fl. 389):
+MANDADO DE SEGURANÇA -PROCESSO ADMINISTRATIVO - ATO LESIVO - CIÊNCIA DO IMPETRANTE - PRAZO DECADENCIAL CONFIGURADO -SEGURANÇA DENEGADA. Ausente o caráter continuado no ato coator que pretende a requerente combater na via mandamental, qual seja, a nulidade da decisão que aplicou pena de multa em processo administrativo, em prazo superior a 120 (cento e vinte dias) da data da impetração do mandamus, impõe-se o reconhecimento da decadência e a denegação da ordem.
+Os embargos de declaração opostos foram rejeitados (fls. 490-494):
+Eulália Maria Albino Ponciano Furtado de Mendonça Souzainterpõe recurso ordinário, com fundamento no art. 105, II, b, da Constituição Federal, alegando, em resumo, que o ato coator (acórdão do Conselho da Magistratura) manteve a pena de multa supostamente ilegal e desproporcional, reiterando a não configuração do prazo decadencial, considerandoa possibilidade de revisão da pena aplicada pela instância administrativa superior, por tratar-se de processo administrativo.
+Foram apresentadas contrarrazões (fls. 536-540).
+O Ministério Público Federal opinou pelo desprovimento do recurso ordinário (fls. 536-540).
+É o relatório. Decido.
+Inicialmente, cumpre destacar que omandado de segurançaé a ação constitucional destinada "a proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abusodepoder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receiodesofrê-la por partedeautoridade, sejadeque categoria for e sejam quais forem as funções que exerça" (art. 1º da Lei n. 12.016/2009).
+A utilização da via mandamental pressupõe a existênciadeum ato coator praticado por autoridade administrativa violadordedireito subjetivo da parte impetrante, por ilegalidade ou abusodepoder, bem como a apresentaçãodeprova pré-constituída.
+Ademais, a jurisprudência desta Corte é firme no sentidodeque o art. 23 da Lei n. 12.016/2009 estabelece que o direitoderequerermandado de segurançaextinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado (AgInt no RMS 46.763/MT, relator Ministro Francisco Falcão, Segunda Turma, julgadoem6/3/2018, DJe 12/3/2018 e AgInt no MS 19.073/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgadoem24/8/2016, DJe 31/8/2016).
+Por outro lado, a interposição de recursos administrativos sem efeito suspensivo não tem o condão de suspender o prazo decadencial previsto em lei.
+No caso dos autos, extrai-se que a decisão que aplicou a penademulta à impetrante foipublicada em novembro de 2018, tendo a presente impetração sido protocoladasomenteemjaneiro de 2020, ultrapassando, assim, o prazode120 dias da ciência da prática do ato impugnado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. EX-POLICIAL MILITAR. DECADÊNCIA DO MANDADO DE SEGURANÇA. TERMO INICIAL. PUBLICAÇÃO DA SANÇÃO. AUSÊNCIA DE RECURSO ADMINISTRATIVO SEM EFEITO SUSPENSIVO. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO DECADENCIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Em casos semelhantes ao dos autos, o STJ já declarou que o termo inicial do prazo para impetração do mandado de segurança contra a aplicação de sanção disciplinar administrativa ocorre quando a penalidade é publicada no Diário Oficial.
+2. A decadência do mandado de segurança não pode ser afastada. Tal como salientado na decisão ora recorrida, a publicação da sanção deu início ao prazo decadencial para o mandado de segurança, tendo em vista que não houve impetração de recurso administrativo com efeito suspensivo. Incidência da Súm. n. 430/STF.
+3. Agravo interno não provido.
+(AgInt no RMS 66776/SP, Rel. Ministro MAURO CAMPBELL MARQUES,SEGUNDA TURMA,DJe 25/03/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSO DISCIPLINAR. PEDIDO DE RECONSIDERAÇÃO. NULIDADE DO ATO DE DEMISSÃO. DECADÊNCIA. OCORRÊNCIA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Cuida-se na origem de mandado de segurança impetrado por policial militar demitido da Corporação em face de ato do Governador do Estado de São Paulo que, no exame do recurso hierárquico apresentado em face de decisão do Comandante Geral da Polícia Militar, não conheceu do pedido por falta de amparo legal.
+3. O acórdão recorrido não merece reparos, encontrando-se em sintonia com a jurisprudência deste Corte no sentido de que o termo inicial do prazo para impetração do mandado de segurança contra a aplicação de sanção disciplinar administrativa ocorre quando a penalidade é publicada no Diário Oficial, e que o pedido de revisão não tem o condão de interromper o prazo decadencial, porquanto a impetração do mandado de segurança não depende, em regra, do esgotamento das vias administrativas. Precedentes.
+4. Agravo interno não provido.
+(AgInt no RMS 67649/SP, Re. Ministro BENEDITO GONÇALVES,PRIMEIRA TURMA,DJe 09/09/2022.)
+Desse modo, éderigor o reconhecimento dadecadênciado direitodeimpetração.
+No mesmo sentido, o parecer do d. Ministério Público Federal.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao presente recurso ordinário.
+Publique-se. Intimem-se.
