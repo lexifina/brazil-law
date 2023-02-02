@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por ALESSANDRA BATISTA DE SOUZAem face de decisão proferida pelo Tribunal de Justiça do Estado do Paraná, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS OPOSTOS À EXECUÇÃO FISCAL. DECISÃO DO RELATOR QUE, COM BASE NO ARTIGO 932, INCISO III DO CÓDIGO DE PROCESSO CIVIL, NÃO CONHECEU DO RECURSO, COM FUNDAMENTO EM OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS POSTOS NA SENTENÇA RECORRIDA. CONFIGURAÇÃO. REPETIÇÃO DE ARGUMENTOS QUE NÃO TANGENCIAM OS TEMAS NEVRÁLGICOS TRATADOS NA SENTENÇA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+RECURSO DESPROVIDO.
+Opostos embargos de declaração, não foram acolhidos.
+Nas razões do recurso especial, interposto com base naalíneaado permissivo constitucional, a recorrente aponta violação aos seguintes dispositivos legais: a) arts. 1.022, I e II, c/c 489, II, e § 1º, III e IV, e 1.013,do CPC, por entender que "quando o Tribunal não enfrenta, mesmo depois de opostos embargos de declaração, pontos essenciais ao deslinde da controvérsia, tem-se inequívoco prejuízo à plenitude da tutela jurisdicional"; e b) artigo 1.010, do CPC, sob o argumento de que "não há o que se falar em repetição dos argumentos versados na petição inicial ou ofensa ao princípio da dialeticidade, haja vista a argumentação ser bastante similar, não está totalmente adstrita à peça anterior interposta, até porque aquela peça de defesa seria examinada por juízos diversos (magistrado de piso) ao do agravo de instrumento (Tribunal de Justiça)".
+A inadmissão do recurso especial se fez à consideração de que a controvérsia foi dirimida de forma fundamentada, embora em sentido contrário aos interesses da recorrente, o que não se confunde com omissão ou negativa de prestação jurisdicional, além de quenão houve indicação precisa de quais tópicos não teriam sido analisados pela Câmara, o que denota a fragilidade argumentativa da ofensa aos arts. 1.022, I e II, c/c 489, II, e § 1º, III e IV, e 1.013, do CPC, razão pela qual incide a Súmula 284 do STF, bem como que para reverter a conclusão dos julgadores, no sentido de que o recurso de apelação não impugnou os fundamentos da sentença, imprescindível o cotejo de tais peças processuais (apelação/sentença), o que é inviável em sede de recurso especial pela Súmula 7/STJ.
+Nas razões de agravo postula o processamento do recurso especial haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+Cuida-se, na origem, de recurso de apelação que não restou conhecido em virtude de ofensa ao princípio da dialeticidade.
+A pretensão não merece prosperar.
+Isso porque sem razão a parte recorrente quanto à alegada violação aos arts. 489 e 1.022 do CPC, sob a alegação de que o Tribunal de origem não se manifestou quanto a questões suscitadas nos embargos de declaração.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fl. 282e-STJ) :
+(..)
+Na hipótese em apreço, inexistem as omissões apontadas, já que a fundamentação dodecisum atacado é clara e coesa, expondo os motivos que levaram esta Câmara a afastar as teses postas no agravo interno.
+Note-se que o v. Acórdão expressamente consignou, em síntese, que a sentença apresentou suficientemente os fundamentos específicos pelos quais concluiu pela rejeição dos embargos à execução, tendo apreciado pormenorizadamente a tese de prescrição, bem como apresentando os motivos pelos quais concluiu pela desnecessidade de liquidação, enquanto a recorrente, no apelo, não impugnou tais questões específicas, apenas repetindo os mesmos argumentos que já constavam na petição inicial, os quais sequer tangenciam os temas nevrálgicos tratados pela i. Magistrada singular.
+Ademais, a embargante, não obstante afirme que seu escopo é o de sanar omissões e contradições, tece considerações acerca da questão de fundo, pretendendo nova análise acerca do mérito.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa aos citados dispositivos.
+Com relação ao alegado cumprimento doprincípio da dialeticidade, o acórdão recorrido fundamentou que (e-STJfls. 258/259):
+(..)
+Em que pese o esforço argumentativo, a ora recorrente não agregou elementos capazes de alterar o entendimento deste Relator ao lançar a decisão que não conheceu do recurso de apelação cível.
+Senão vejamos.
+4. A tese exposta neste agravo interno é a de que o recurso comportaria conhecimento pelo fato de a recorrente ter atacado todos os pontos da sentença recorrida, apresentando os argumentos necessários à reforma da decisão.
+Ocorre que, conforme exposto, a douta magistrada sentenciante, ao analisar o mérito, apresentou os fundamentos específicos pelos quais concluiu pela rejeição dos embargos à execução, ressaltando, quanto à prescrição, que, ainda que a primeira decisão de citação tenha sido declarada nula, foi realizada nova citação, com a retroação da interrupção do prazo à data da propositura da ação. Além disso, concluiu pela desnecessidade de liquidação, considerando a data da conversão da execução e a ausência de indicação dos valores que a embargante entende corretos, sendo que a recorrente, no apelo, não impugna tais questões específicas, mas apenas repete os mesmos argumentos que já constavam na petição inicial, os quais sequer tangenciam os temas nevrálgicos tratados pela i. Magistrada singular.
+Assim, em que pese às alegações no sentido de possibilidade de fundamentação livre e repetição de passagens, tem-se que recai sobre o recorrente o dever de, impugnando especificamente os fundamentos da sentença, apresentar as razões pelas quais a decisão, a seu sentir, padece de equívoco.
+Daí porque, não bastassem os fundamentos anteriormente expostos, tem-se que, não tendo sido atacados os argumentos trazidos pela Juíza a quo na sentença de mov. 39.1, patente a ofensa ao princípio da dialeticidade recursal.
+Destarte, conclui-se que a matéria foi corretamente apreciada, não havendo que se falar em reforma da decisão monocrática, que não conheceu do recurso.
+Do excerto depreende-se que a Corte local entendeu pela ofensa à dialeticidade comparando excertos da sentença e do recurso de apelação, ainda que se tenha utilizado trechos da petição inicial.
+Dessa forma, contrariar a conclusão do aresto combatido exigiria o reexame do acervo fático-probatório dos autos, providência inviável nessa seara recursal a teor da Súmula n. 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADEEM APELAÇÃO. ANÁLISE DE SUA OBSERVÂNCIA.IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. " E mbora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015". (AgInt no REsp 1735914/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/8/2018, DJe de 14/8/2018)
+2. Analisando o acórdão proferido na origem, verifica-se que a Corte local manifestou compreensão no sentido de que "..as razões recursais não atacam os fundamentos da sentença, de modo que, desrespeitado, na hipótese, o princípio da dialeticidade recursal, o presente recurso não pode ser conhecido, por lhe faltar requisito indispensável à regularidade formal".
+3. Nota-se, pois, que a Corte local entendeu que houve afronta ao princípio da dialeticidade, uma vez que não foram devidamente impugnados os fundamentos da decisão então combatida.
+4. A revisão de tal posicionamento não se mostra viável em recurso especial, pois tal providência demandaria reincursão no acervo fático-probatório dos autos, esbarrando, assim, no óbice na Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1630091/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO.CÓPIA LITERAL DA PETIÇÃO INICIAL E RAZÕES INAPTAS DE INFIRMAR OS FUNDAMENTOS DA SENTENÇA.PRINCÍPIO DA DIALETICIDADE DESCUMPRIDO.VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA.REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
