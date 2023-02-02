@@ -1,0 +1,41 @@
+DECISÃO
+ALOISIO LIMA TEIXEIRAalega sofrer constrangimentoilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeirono HCn. 0059318-40.2022.8.19.0000.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, por suposta prática de tráfico de drogas, porquanto considera ausente opericulum libertatis.Suscita a sua idade avançada e saúde debilitada.
+Deferida a liminar (fls. 74-78), foi o pedido de extensão da concessão da liminar deferido ao corréu Carlos dos Reis Sencar (fls. 116-118).
+Prestadas as informações, veio o parecer doMinistério Público Federal, que opinou pela prejudicialidade do writ (fl. 182).
+Decido.
+I. Contextualização
+O Juízo de primeiro grau converteu o flagrante e decretou a prisão preventiva do paciente, pelos seguintes fundamentos (fls. 41-42, grifei):
+Consta dos autos que policiais militares receberam denúncias e partiram para um local apontado como ponto de tráfico de drogas. Os agentes, estacionando próximo à casa do custodiado Aloísio, após cerca de quinze minutos, avistaram um indivíduo, o ora custodiado Carlos, com as características da denúncia. Aloísio saiu de sua residência e foi em direção a Carlos e, após um curto diálogo, chegou outro indivíduo (Wallace). Este abordou Aloísio e Carlos, tendo os policiais suspeitado que se tratava de venda de drogas para Wallace.
+Foi realizada a abordagem e, em busca pessoal em CARLOS, foram encontrados 6 tubos de cocaína com os dizeres: "NAÇÃO CV PÓ R$ 50 REAIS"; 3 tubos de cocaína com os dizeres: "VEMCHEIRAR CV PÓ R$ 25 REAIS"; 3 tubos de cocaína com os dizeres: "MELHOR DA SERRA CVPÓ R$ 10 REAIS; além de R$210,00 em espécie.
+Com o custodiado ALOÍSIO foi encontrado no seu bolso 4 tabletes de maconha selada e etiquetada, e R$172,00.
+Já com Wallace, foram encontrados 02 pinos de cocaína, idênticos aos encontrados com Carlos.
+Conforme pode se extrair dos laudos constantes nos autos, foram apreendidas, no total, 80,60g de maconha e 22,5g de cocaína.
+A alta quantidade e diversidade de drogas, bem como sua forma de acondicionamento, separadas em embalagens prontas para a comercialização, parte delas inclusive com valor de venda e ostentando iniciais de facção criminosa, revelam a gravidade concreta do delito e configuram indícios de que os custodiados integrem a associação criminosa que consta das embalagens dos entorpecentes, fazendo do tráfico seu meio de vida. Portanto, resta caracterizado o risco concreto de reiteração delitiva e a necessidade da prisão cautelar como garantia da ordem pública
+A Corte estadual, por maioria, manteve a segregação cautelar do paciente.
+De acordo com as informações prestadas, a audiência de instrução e julgamento foi designada para 23/1/2023 (fl. 133). Todavia, em consulta à página eletrônica do TJRJ, não há confirmação de que o ato foi realizado e o feito encontra-se "aguardando audiência de instrução e julgamento".
+Feito esse registro, passo à análise do mérito.
+II. Prisão preventiva
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+A seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Na espécie, verifico que o Magistrado singular embasou sua decisão em elementos concretos e idôneos-a quantidade e a forma de acondicionamento das drogas encontradas-, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a preventiva. Isso porque,entendo não constituir quantidade exacerbada das drogas apreendidas (35g de maconha em poder do paciente), além de se tratar de réu primário.
+Entendo, portanto, que os elementos apresentados, por si sós, não servem para denotar a periculosidade exacerbada doinvestigadona traficância, a ponto de justificar o emprego da cautela máxima. Assim, as circunstâncias apresentadas, isoladamente, não poderiam ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+Ao considerar, então, que o delito não envolveu violência ou grave ameaça contra pessoa e avaliar as situações em que perpetrado o suposto crime em questão, reputo cabível a concessão da ordem, com a confirmação da medida de urgência anteriormente deferida.
+Apesar da reprovabilidade social do comportamento atribuído aopaciente - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção doacusado, notadamente porque os delitos a eleatribuídos não envolveram violência ou grave ameaça contra pessoa.
+Ilustrativamente:
+ ..
+1. A manutenção da medida extrema somente se justifica se outras providências cautelares pessoais, com igual eficácia e adequação, não forem aptas a afastar o periculum libertatis (art. 282 do Código de Processo Penal).
+2. É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+3. Os fatos de o acusado não ostentar antecedentes criminais, de haver sido apreendido com reduzida quantidade de drogas, de o delito não haver envolvido violência ou grave ameaça contra pessoa e de não haver notícias concretas de reiteração criminosa evidenciam que as medidas cautelares alternativas produzirão o mesmo resultado cautelar - a proteção da ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado.
+4. Ordem concedida, para substituir a prisão preventiva do paciente por medidas cautelares alternativas, nos termos do voto do relator.
+(HC n. 390.080/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/6/2017)
+Verifico, ainda, a possibilidade de aplicação do art. 580 do CPP, uma vez que o fundamento do decisum é de natureza objetiva (falta de cautelaridade da medida extrema) e aproveita ao corréu Carlos dos Reis Sencar, também presoem flagrante por força do mesmo decreto preventivo, com idêntica motivação.
+Conforme dito nas decisões anteriores, tendo em vista que os delitos não envolveram violência ou grave ameaça contra pessoa e, avaliando as circunstâncias em que perpetrados os supostos crimes em questão, entendo cabível a extensão da concessão da ordem.
+III. Dispositivo
+À vista do exposto, concedo a ordem para, confirmadas as liminares, substituir a prisão preventiva doora paciente, com extensão dos efeitos ao corréu Carlos, nos termos do art. 580 do CPP, pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que forem intimados para os atos do processo e no prazo e nas condições a serem fixados pelo Magistrado, a fim de informar seu endereço e justificar suas atividades;
+b)proibição de manter contato com os corréus e investigados na mesmo processo.
+Alerte-se ao paciente e ao corréuque a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure sua exigência.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Juízo singular e à autoridade apontada como coatora.
+Publique-se e intimem-se.
