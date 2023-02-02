@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado contraacórdão assim ementado (fl. 48):
+REVISÃO CRIMINAL - TRÁFICO DE DROGAS - DECOTE DA AGRAVANTE DA REINCIDÊNCIA - INVIABILIDADE - MODIFICAÇÃO DA JURISPRUDÊNCIA MAJORITÁRIA - HIPÓTESE QUE NÃO AUTORIZA A RESCISÃO DO JULGADO.
+- A revisão criminal não é uma segunda apelação, somente sendo admitida quando presente ao menos uma das hipóteses previstas nos incisos do art. 621 do CPP.
+- Para a procedência do pleito revisional, com fulcro no art. 621, I do CPP, é de rigor que haja patente erro judiciário com manifesta valoração equivocada do panorama probatório coligido, sendo a tese acusatória acolhida à míngua de qualquer prova hábil a embasá-la.
+- A ulterior mudança da jurisprudência majoritária sobre algum tema não tem o condão de rescindir a decisão prolatada em conformidade com a orientação vigente na época.
+Narram os autos que o paciente foicondenado definitivamente a 5 anos e 10 meses de reclusão, em regime inicial fechado, mais584dias-multa, como incurso no art.33, caput, da Lei 11.343/06.
+Interposto pedido revisional, a Corte de origem indeferiu o pleito.
+Sustenta a defesa que deve ser afastada a reincidência em razão de condenação anterior pelo delito previsto no art. 28 da Lei n. 11.343/2006.
+Aduz, ainda, que não há nenhuma justificativa para se negar ao paciente a aplicação do redutor previsto no art.33, § 4º, da Lei11.343/06.
+Requer o afastamento da reincidência,a aplicação da minorante do tráfico no patamar máximo, a fixação de regime aberto e a substituição da pena privativa por restritivas de direitos.
+Prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento ou denegaçãoda ordem.
+Quanto ao pleito de afastamento da reincidência, assim se manifestou o juízo de 1º grau (fls. 20-21):
+Conforme CAC de ff. 108/112, o denunciado Tiago foi condenado, com trânsito em julgado, pelo delito do art. 28 da Lei nº 11.343/06, em 17/12/2010 (processo nº 0439.09.099425-2), o que, com o cometimento de novo delito, o torna reincidente.
+Nesse ponto, cumpre ressaltar que o art. 28 da Lei nº 11343/06 é sim apto a gerar a reincidência. A sua despenalização não significa que a conduta deixou de ser crime, e tal entendimento é majoritário em nossa jurisprudência. Senão vejamos:
+ ..
+Assim, deixo de aplicar o §4º do art. 33 da Lei nº 11343/06 e, em consequência, reconheço a circunstância agravante prevista no art. 61, inciso I, do CP.
+Por sua vez, assim constou no acórdão recorrido (fls. 50-53):
+No pertinente ao pleito de decote da agravante prevista no art. 61, I, do CPB, considerando o atual entendimento do STJ acerca da impossibilidade da condenação pelo crime do art. 28 da Lei 11.343/06 gerar reincidência, penso que melhor sorte não socorre ao requerente.
+Conquanto não mais seja apenada com reprimenda privativa de liberdade, a posse de substância entorpecente para uso pessoal ainda constitui conduta tipificada como crime, pelo que a condenação anterior por este delito tem o condão de configurar a reincidência.
+Ora, não pode o condenado, depois da cristalização da coisa julgada, vir requerer a redução da pena sem apresentar qualquer prova nova capaz de demonstrar erro técnico ou injustiça flagrante na sua fixação, uma vez que o critério subjetivo utilizado pelos julgadores para definir a pena não está submetido à revisão.
+D"outra face, embora tal questão seja alvo de divergências na jurisprudência, tal fato não serve de amparo para autorizar a rescisão do julgado. Com efeito, não cabe revisão criminal com base em questão jurisprudencial controvertida nos tribunais.
+ ..
+Ademais, impende consignar que a ulterior mudança da jurisprudência majoritária sobre algum tema não tem o condão de rescindir a decisão prolatada em conformidade com a orientação vigente na época.
+De fato, a alteração de jurisprudência não autoriza a revisão do julgado, não configurando hipótese prevista no art. 621 do CPP, já que não se pode falar que o julgado revidendo contrariou texto expresso de lei penal.
+ ..
+Portanto, incabível o afastamento da agravante da reincidência.
+Acerca da matéria, prevalecia o entendimento, na Sexta Turma desta Corte, de que a condenação definitiva pretérita pelo porte de substância entorpecente para consumo próprio, prevista no art. 28 da Lei 11.343/2006, geraria reincidência, porquanto tal conduta foi apenas despenalizada pela vigente Lei de Drogas, mas não descriminalizada.
+Dá-se que, no julgamento do REsp 1.672.654/SP, passou a prevalecer nova orientação a respeito do tema, no sentido de que a condenação anterior pelo art. 28 da Lei 11.343/06 apenas admite valoração como reincidência se o novo crime praticado for da mesma espécie. Nesse norte:
+RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO ANTERIOR PELO DELITO DO ARTIGO 28 DA LEI DE DROGAS. CARACTERIZAÇÃO DA REINCIDÊNCIA. DESPROPORCIONALIDADE.
+1. À luz do posicionamento firmado pelo Supremo Tribunal Federal na questão de ordem no RE nº 430.105/RJ, julgado em 13/02/2007, de que o porte de droga para consumo próprio, previsto no artigo 28 da Lei nº 11.343/2006, foi apenas despenalizado pela nova Lei de Drogas, mas não descriminalizado, esta Corte Superior vem decidindo que a condenação anterior pelo crime de porte de droga para uso próprio configura reincidência, o que impõe a aplicação da agravante genérica do artigo 61, inciso I, do Código Penal e o afastamento da aplicação da causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei nº 11.343/06.
+2. Todavia, se a contravenção penal, punível com pena de prisão simples, não configura reincidência, resta inequivocamente desproporcional a consideração, para fins de reincidência, da posse de droga para consumo próprio, que conquanto seja crime, é punida apenas com "advertência sobre os efeitos das drogas", "prestação de serviços à comunidade" e "medida educativa de comparecimento a programa ou curso educativo", mormente se se considerar que em casos tais não há qualquer possibilidade de conversão em pena privativa de liberdade pelo descumprimento, como no caso das penas substitutivas.
+3. Há de se considerar, ainda, que a própria constitucionalidade do artigo 28 da Lei de Drogas, que está cercado de acirrados debates acerca da legitimidade da tutela do direito penal em contraposição às garantias constitucionais da intimidade e da vida privada, está em discussão perante o Supremo Tribunal Federal, que admitiu Repercussão Geral no Recurso Extraordinário nº 635.659 para decidir sobre a tipicidade do porte de droga para consumo pessoal.
+4. E, em face dos questionamentos acerca da proporcionalidade do direito penal para o controle do consumo de drogas em prejuízo de outras medidas de natureza extrapenal relacionadas às políticas de redução de danos, eventualmente até mais severas para a contenção do consumo do que aquelas previstas atualmente, o prévio apenamento por porte de droga para consumo próprio, nos termos do artigo 28 da Lei de Drogas, não deve constituir causa geradora de reincidência.
+5. Recurso improvido (REsp 1672654/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018).
+Em caso análogo, assim decidiu esta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE AFASTOU A AGRAVANTE DA REINCIDÊNCIA E APLICOU O REDUTOR EM SUA FRAÇÃO MÁXIMA. IRRESIGNAÇÃO MINISTERIAL. REINCIDÊNCIA E AFASTAMENTO DO PRIVILÉGIO COM BASE EM CONDENAÇÃO ANTERIOR POR USO DE DROGAS. INADEQUAÇÃO. AFASTAMENTO DA REINCIDÊNCIA E DO FUNDAMENTO UTILIZADO PARA NÃO APLICAR A MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que é desproporcional o reconhecimento da reincidência em virtude de anterior condenação pelo delito previsto no art. 28 da Lei 11.343/2006. Precedentes da Quinta e Sexta Turmas.
+2. Nesse contexto, é adequado o afastamento da reincidência apoiado em condenação por uso de drogas e, em consequência, preenchidos os demais requisitos previstos no § 4º do art. 33 da Lei n. 11.343/2006, é cabível o reconhecimento do privilégio no crime de tráfico de drogas, que foi aplicado em sua fração máxima, com base na inexpressiva quantidade das drogas apreendidas.
+3. Agravo regimental não provido.  ..  (AgRg no HC 686.647/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/08/2021, DJe 30/08/2021)
+Deste modo, de rigor reconhecer que o acórdão hostilizado está em desacordo com a jurisprudência deste Tribunal, devendo ser afastada a reincidência.
+Quanto à dosimetria da pena, assim consta na sentença condenatória (fl. 18 e 22):
+Consta do inquérito policial que no dia 09/10/2013, por volta das 12h3Omin, na Rua Simeão Feres, nº 50, município de Muriaé/MG, os denunciados teriam em depósito, para traficância, 19 (dezenove) "pedras" de Crack, totalizando 4,25g (quatro gramas e vinte e cinco centigramas).
+ ..
+Deste modo, tendo em vista a ausência de circunstâncias judiciais desfavoráveis, fixo a pena base no mínimo legal, qual seja, em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Inexistem circunstâncias atenuantes. Quanto às agravantes, verifico a presença da circunstância descrita no art. 61, I, (ser o réu reincidente) do Código Penal, razão pela qual majoro a pena em 1/6 (um sexto), fração esta também incidente na pena de multa, fixando a pena intermediária em 05 (cinco) anos e 10 (dez) meses de reclusão e 584 (quinhentos e oitenta e quatro) dias-multa.
+Na terceira fase, inexistem causas de aumento ou diminuição de pena, motivo pelo qual torno-a definitiva em 05 (cinco) anos e 10 (dez) meses de reclusão e 584 (quinhentos e oitenta e quatro) dias-multa.
+Em razão de não haver nos autos elementos que demonstrem as condições econômicas da ré, fixo o valor do dia-multa no mínimo legal, correspondente a 1/30 (um trigésimo) do salário-mínimo.
+Sendo o réu reincidente, fixo o regime inicial fechado para o cumprimento da pena privativa de liberdade.
+Verifico não ser possível a substituição da pena privativa de liberdade por restritivas de direitos, nos moldes do art. 44 do Código Penal, assim como sursis do artigo 77 do Código Penal, em razão da ausência dos requisitos legais.
+Por sua vez, assim consta no acórdão (fl. 54):
+Mantida a reincidência, por consequência lógica, impossível a aplicação da minorante do §4º do art. 33 da Lei 11.343/06, o abrandamento do regime prisional e a substituição da reprimenda corporal por sanções alternativas.
+Assim como evidenciado, as instâncias ordinárias não aplicaram a minorante do tráfico, fixaram o regime fechadoe deixaram de substituir a pena privativa de liberdade por restritivas de direitos em razão da reincidência do paciente.
+No entanto, uma vez afastada a reincidência,não há óbices para a aplicação do redutor do §4º do art. 33 da Lei 11.343/06 no patamar máximo, haja vista aquantidade de droga arrecadada (4,25g de crack), queé inexpressiva, somada àausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga. Nesses termos:
+AGRAVOS REGIMENTAIS EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO. AFASTAMENTO DA MINORANTE. IMPOSSIBILIDADE. AUSÊNCIA DE ELEMENTOS QUE PERMITAM CONCLUIR, INEXORAVELMENTE, PELA DEDICAÇÃO AO TRÁFICO DE DROGAS. DECISÃO MANTIDA. AGRAVOS REGIMENTAIS IMPROVIDOS.
+1. A apreensão de quantidade não relevante de drogas e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga etc.), desautorizam a vedação à minorante do tráfico no seu patamar máximo de 2/3 (dois terços).
+2. Agravo regimental improvido.
+(AgRg no HC n. 722.090/RN, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+Nesse contexto, a pena do paciente deve ser redimensionada.
+A pena-base foi fixada no mínimo legal de 5 anos de reclusão e 500 dias-multa. Afasto a agravante da reincidência, permanecendo a reprimenda inalterada na segunda fase.Aplico, na terceira fase, a minorante do tráfico privilegiadono quantum de 2/3, resultando na pena definitiva de1anoe 8meses de reclusão, mais166dias-multa.
+Quanto ao meio prisional, adequado o regime inicial aberto, haja vista se tratar de pacienteprimáriocujapenaaplicadafoiinferiora 4 anos, nos moldes do art. 33, § 2º, c, do CP, também fazendo jus o paciente à substituição dapenaprivativade liberdade por restritivas de direitos, uma vez terpreenchido todos os requisitos legais do art. 44 do CP. Nesse sentido:AgRg no HC n. 746.166/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/9/2022, DJe de 4/10/2022.
+Ante o exposto, concedoo habeas corpuspara fixar a pena final do paciente em 1 ano e 8 meses de reclusão, mais166 dias-multa, em regime aberto, substituída a pena privativa de liberdade por penas restritivas de direitos
+Comunique-se.
+Publique-se.
+Intimem-se.
