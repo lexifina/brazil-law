@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal de Justiça do Estado de São Paulo, o suscitante,e o Tribunal Regional Federal da 3ª Região, o suscitado, nos autos da "ação de auxílio-doença e/ou aposentadoria por invalidez c/c tutela antecipada" ajuizada por Laércio Teixeira dos Santos Tatiane Emílio da Silva Castanho contra o Instituto Nacional do Seguro Social (e-STJ fls. 1/9).
+Os autos foram distribuídos à 2ª Vara Cível da Comarca de Tatuí/SP, cujo juízo julgou procedente o pedido e condenou o INSS a conceder o benefício de auxílio-doença a partir de 22/06/2018, e pelo prazo de 12 (doze) meses a contar da data da publicação da sentença.
+A 8ª Turma do Tribunal Regional Federal da 3ª Região, considerando que "de acordo com o artigo 109, inciso I, da Constituição Federal, a competência para se conhecer da ação relativa a acidente de trabalho é da Justiça Comum Estadual", determinou a remessa dos autos ao Tribunal de Justiça do Estado de São Paulo para processamento e julgamento da apelação do INSS.
+A 16ª Câmara de Direito Público do TJ/SP, por sua vez, ao argumento de que "a ação proposta é de cunho exclusivamente previdenciário, cuja competência para a apreciação do recurso, no caso concreto, é do Egrégio Tribunal Regional Federal da 3ª Região", suscitou o presente conflito de competência.
+O Ministério Público Federal manifestou-se pela declaração de competência da Justiça Estadual.
+É o relatório.
+Passo a decidir.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, de acordo com o disposto no artigo 105, I, "d", da Constituição Federal.
+A competênciaratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir. Em outras palavras, a competência é definida a partir da causa de pedir e do pedido articulados na petição inicial.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. PEDIDO DE CONCESSÃO DE AUXÍLIO-ACIDENTE DECORRENTE DE ACIDENTE DE TRABALHO. SÚMULAS 15/STJ E 501/STF. CAUSA DE PEDIR. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+ ..
+2. Nas ações que objetivam a concessão de benefício em decorrência de acidente de trabalho, a competência será determinada com base no pedido e causa de pedir. Precedentes do STJ.
+3. No caso dos autos, conforme se extrai da Petição Inicial, o pedido da presente ação é a concessão de benefício acidentário, tendo como causa de pedir a exposição ao agente nocivo ruído. Logo, a competência para processar e julgar a presente demanda é da Justiça estadual. Precedentes do STJ.
+4. Assim, caso o órgão julgador afaste a configuração do nexo causal, a hipótese é de improcedência do pleito de obtenção do benefício acidentário, e não de remessa à Justiça Federal. Nessa hipótese, caso entenda devido, pode a parte autora intentar nova ação no juízo competente para obter benefício não-acidentário, posto que diversos o pedido e a causa de pedir.
+5. Conflito de Competência conhecido para declarar competente para processar o feito a Justiça Estadual. (CC 152.002/MG, PRIMEIRA SEÇÃO, Rel. Min. HERMAN BENJAMIN, DJe 19/12/2017)
+PREVIDENCIÁRIO. COMPETÊNCIA. CONFLITO NEGATIVO. TRIBUNAL ESTADUAL E TRIBUNAL REGIONAL FEDERAL. AÇÃO PREVIDENCIÁRIA AJUIZADA EM VARA ESTADUAL. ART. 109, § 3º, DA CONSTITUIÇÃO. COMPETÊNCIA DA CORTE REGIONAL.
+1. A parte autora optou por propor a ação no município onde é domiciliada, em comarca que não sedia vara do Juízo Federal. Ação ajuizada no Juízo Estadual, em consonância com o o art. 109, § 3º, da Constituição.
+2. A competência para o julgamento da lide é definida em razão da natureza jurídica da questão controvertida, o que se verifica pelo pedido e da causa de pedir.
+3. O objetivo da parte autora é restabelecer o pagamento de benefício de auxílio-doença previdenciário, porque nega fazer jus ao auxílio-doença por acidente de trabalho que vem percebendo.
+4. O Juízo de 1º grau, que deferiu parcialmente a tutela requerida, atuou com delegação de competência federal. A dúvida do magistrado acerca do benefício efetivamente devido à autora não altera essa competência, porque o objeto da ação não é de índole acidentária.
+5. Conflito conhecido para declarar a competência do Tribunal Regional Federal da 3ª Região, o suscitado. (CC 99.455/SP, TERCEIRA SEÇÃO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 6/4/2009)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. DEMANDA DEDUZINDO PEDIDOS PARA CONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. COMPETÊNCIA ESTABELECIDA LEVANDO-SE EM CONSIDERAÇÃO OS TERMOS DA PETIÇÃO INICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1.A definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada).Precedentes: CC 51.181-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 20.03.2006; AgRg no CC 75.100-RJ, 1ª Seção, Min.
+Teori Albino Zavascki, DJ de 19.11.2007; CC 87.602-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 22.10.2007.
+2. No caso, a autora ajuizou, em face do INSS, pedidos para concessão de benefícios previdenciários (e não de natureza acidentária). Nos termos como proposta, a causa é da competência da Justiça Federal.
+3. Conflito conhecido e declarada a competência da Justiça Federal, a suscitada. (CC 121.013/SP, PRIMEIRA SEÇÃO, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 3/4/2012) (Destaque nosso)
+No mesmo sentido, as seguintes decisões: CC 134.095/MG, Relator Ministro Benedito Gonçalves, DJe 16/12/2014; CC 137.172/PA, Relator Ministro Herman Benjamin, DJe 5/12/2014; CC 136.732/MT, Relatora Ministra Assusete Magalhães, DJe 5/12/2014.
+Com efeito, o artigo 109, I, da Constituição Federal, ao excetuar da competência federal as causas de acidente do trabalho, abarcou tão somente as lides estritamente acidentárias, movidas pelo segurado contra o INSS.
+Confira-se:
+PREVIDENCIÁRIO. PETIÇÃO INICIAL. PEDIDO E CAUSA DE PEDIR. PLEITO DE APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE MENÇÃO A ACIDENTE DE TRABALHO. EXEGESE DO ART. 109, I, DA CONSTITUIÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir. 2. No caso concreto, não se extrai da petição inicial da subjacente ação qualquer alusão à ocorrência de acidente laboral que, enquanto causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado frente ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça estadual. 3. A teor do art. 109, I, da CF, compete à Justiça federal o julgamento das "causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;"
+4. Agravo regimental a que se nega provimento. (AgRg no CC 144.267/SP, PRIMEIRA SEÇÃO, Rel. Min. SÉRGIO KUKINA, DJe 31/3/2016)
+No presente caso, da análise da petição inicial depreende-se que há expressa correlação entre obenefíciopleiteadoe a narrativa da ocorrência de acidente de trabalho, o que desautoriza a apreciação da demanda pela Justiça Federal.
+Sobre o tema, confira-se o seguinte julgado:
+PREVIDENCIÁRIO. CONFLITO DE COMPETÊNCIA. BENEFÍCIO PREVIDENCIÁRIO. CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ DECORRENTES DE ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULAS 15/STJ E 501/STF. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO COMUM ESTADUAL.
+1. Compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo Segurado contra o Instituto Nacional do Seguro Social, visando ao benefício, aos serviços previdenciários e respectivas revisões correspondentes ao acidente do trabalho. Incidência da Súmula 501/STF e da Súmula 15/STJ.
+2. Conflito de Competência conhecido para declarar competente o Tribunal de Justiça do Estado de São Paulo.
+(CC n. 163.821/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 13/3/2019, DJe de 20/3/2019.)
+A propósito, lê-se na petição inicial (e-STJ fls. 1/9):
+A autora sofreu um acidente no dia 14 de julho de 2015, numa terça-feira, quando fazia faxina como diarista, e limpando a vidraça acabou escorregando e machucou o joelho esquerdo e este virou para dentro junto com o restante da perna.
+(..)
+Insta salientar que durante a espera deste exame supracitado a requerente fez vários exames de raio x, ressonância magnética que constatou discopatia abaulada de L4-L5 tocando anteriormente o saco dural neste nível e Microlitíase renal à direita e discopatia degenerativa incipiente no nível L4-L5.
+Todos os CIDs apresentados são relacionados a problemas ortopédicos, e desde o acidente com o surgimento dos problemas relatados nunca mais se recuperou a ponto de estar capaz para o trabalho.
+Além de não conseguir trabalhar em sua área de doméstica diarista não consegue nem fazer suas funções na sua casa como lavar pratos, a roupa, cuidar de seu lar e assim vem sendo ajudada pelos filhos e marido.
+Destarte, caso o órgão julgador afaste a configuração do nexo causal,a solução a ser adotada é a improcedência do pleito de obtenção do benefício acidentário e não a remessa à Justiça Federal.
+Nessa hipótese, caso entenda devido, pode a parte autora intentar nova ação perante o juízo competente para obter benefício de natureza não acidentária.
+Nessesentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. PEDIDO DE CONCESSÃO DE AUXÍLIO-ACIDENTE DECORRENTE DE ACIDENTE DE TRABALHO. SÚMULAS 15/STJ E 501/STF. CAUSA DE PEDIR. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Nos termos da jurisprudência dominante do Superior Tribunal de Justiça, é competência da Justiça Estadual processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício em razão de acidente de trabalho como também as relações daí decorrentes (restabelecimento, reajuste, cumulação), uma vez que o art. 109, I, da Constituição Federal não fez nenhuma ressalva a este respeito.
+2. Nas ações que objetivam a concessão de benefício em decorrência de acidente de trabalho, a competência será determinada com base no pedido e causa de pedir. Precedentes do STJ.
+3. No caso dos autos, conforme se extrai da Petição Inicial, o pedido da presente ação é a concessão de benefício acidentário, tendo como causa de pedir a exposição ao agente nocivo ruído. Logo, a competência para processar e julgar a presente demanda é da Justiça estadual. Precedentes do STJ.
+4. Assim, caso o órgão julgador afaste a configuração do nexo causal, a hipótese é de improcedência do pleito de obtenção do benefício acidentário, e não de remessa à Justiça Federal. Nessa hipótese, caso entenda devido, pode a parte autora intentar nova ação no juízo competente para obter benefício não-acidentário, posto que diversos o pedido e a causa de pedir.
+5. Conflito de Competência conhecido para declarar competente para processar o feito a Justiça Estadual. (CC 152.002/MG, PRIMEIRA SEÇÃO, Rel. Min. HERMAN BENJAMIN, DJe 19/12/2017)
+Ante o exposto, conheço do conflito para declarar a competência doTribunal de Justiça do Estado de São Paulo, o suscitante, o suscitado, para o julgamento da apelação.
+Publique-se.
+Intimem-se.
+Oficie-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO ACIDENTÁRIA. RESTABELECIMENTO DE AUXÍLIO-DOENÇA E/OU CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. CAUSA DE PEDIR ACIDENTÁRIA.CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
