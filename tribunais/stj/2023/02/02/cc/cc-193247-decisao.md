@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL DE ITAPEVA - SJ/SP, suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE APIAÍ - SP, suscitado, nos autos da açãoprevidenciária ajuizada por LEVINO APARICIO DE LIMA em face do Instituto Nacional do Seguro Social - INSS.
+A ação foi ajuizada perante o Juízo Federal, que determinou a expedição de carta precatória para interrogatório da autora e oitiva de testemunhas, a ser realizada pelo Juízo Cível de Apiaí. O Juízo Estadual, por sua vez, determinou sua devolução à Vara Federal deprecante, ao argumento da pandemia do Coronavírus, da possibilidade de realização dos atos processuais virtualmente e da sobrecarga de trabalho suportado pela Vara Estadual. Ao receber os autos, o Juízo Federal suscitou o presente conflito.
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para declarar competente o Juízo Federal da 1ª Vara do Juizado Especial Cível de Itapeva - SJ/SP, o suscitante, nos seguintes termos (fl. 97):
+DIREITO PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. CUMPRIMENTO DE CARTA PRECATÓRIA.
+- Não cabe a expedição de carta precatória para juiz estadual cuja comarca se encontra dentro da área de jurisdição do juiz federal deprecante. A carta precatória por sua natureza é expedida para fora da jurisdição de quem determina seu cumprimento.
+- Parecer pelo conhecimento do conflito para declarar competente o Juízo Federal da 1ª Vara do Juizado Especial Cível de Itapeva - SJ/SP, o suscitante.
+É o relatório.Decido.
+Conforme registrado no Parecer Ministerial, "nos termos do Provimento nº 31-CJF3R, de 11/12/2017, e Provimento nº 45-CJF3R, de 9/6/2021, o Município de Apiaí/SP está inserido na Subseção Judiciária de Itapeva/SP" (fl. 98).
+Como o município está na área de jurisdição doJuízoFederal, não fazsentido que esta transfira seus encargos para a Justiça estadual. Primeiramente,porqueela possui servidores e meios para cumprirsuas atribuições na área de sua jurisdição. Em segundo lugar, porque a expedição de carta precatória para a Justiça do Estado somente é necessáriase for para comarca fora da jurisdição do JuízoFederal deprecante.
+In casu, o JuízoFederal expediu carta precatória para cumprimento de ato a ser efetivado dentro da sua própriasubseçãojudiciária, objetivando seu cumprimento por outro juízo no âmbito de território onde detém competência.
+A jurisdição do JuízoFederal não está limitada ao municípiode sua sede,masao território dasubseçãojudiciária.Assim, oJuízoestadual não possui competência para a prática do ato processual, podendorecusar-se a cumprir a carta precatória, conforme reconhecido pela jurisprudência do STJ.
+A corroborar referido entendimento:
+Processo civil. Recurso especial. Ação de execução provisória de honorários. Expedição de carta precatória para citação da ré.Citação na pessoa do advogado da empresa, que apresentou procuração com poderes expressos para tanto, em comarca diversa daquela onde formalmente situada a sede da pessoa jurídica. Discussão a respeito da validade da citação, com base na regra prevista no art. 100, IV, "a", do CPC e na suposta necessidade de poderes especiais para receber citação especificamente em execução.
+- O art. 100, IV, "a", do CPC trata da definição da competência territorial para a ação. É, portanto, regra de estipulação do juízo competente (no âmbito territorial) para conhecer e processar determinada lide. O que se analisa, na presente hipótese, é simplesmente a competência para a prática de um ato processual, cujos parâmetros estão previstos no art. 209 do CPC.
+- A jurisprudência das três Seções do STJ é pacífica no sentido de que a precatória só pode ter cumprimento recusado quando não estiver revestida dos requisitos legais, quando o juízo deprecado carecer de competência em razão da matéria ou da hierarquia ou quando houver dúvida acerca de sua autenticidade.
+ ..
+Recurso especial provido.
+(REsp 884.121/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/12/2009, DJe 8/2/2010.)
+Ainda, nesse sentido,CC 181.458/SP, Rel. Ministro ANTÔNIO CARLOS FERREIRA, DJe 30/09/2021;CC 191.730/SP, Rel. Ministro FRANCISCO FALCÃO,DJe 30/9/22.
+Ante o exposto, com fundamento no art. 34, XXII, do RI/STJ, conheço do conflito negativo de competência suscitado, a fim de declarar competente, para o processamento e julgamento da causa, o Juízo Federal da 1ª Vara do Juizado Especial Cível de Itapeva - SJ/SP, o suscitante.
+Publique-se e intimem-se.
