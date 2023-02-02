@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de VINÍCIUS TEIXEIRA FERREIRA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da apelação criminal n. 0001555-46.2018.8.19.0057.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, mais o pagamento de 20 (vinte) dias-multa, como incurso nas iras do art. 157, §§ 2º, II, 2º-A, I, do Código Penal (fls. 21-25).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu provimento ao recurso, a fim de redimensionar a pena em 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 16 (dezesseis) dias-multa, consoante voto condutor do v. acórdão de fls. 35-66.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a causa de aumento de pena relativa ao uso de arma de fogo deve ser afastada, uma vez que não houve perícia no artefato bélico.
+Requer, assim, a concessão da ordem.
+Informações prestadas às fls. 72-75.
+O Ministério Público Federal, às fls. 79-85, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. MANEJO DO WRIT COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. ROUBO MAJORADO. ARMA DE FOGO. AUSÊNCIA DE PERÍCIA. PRESCINDIBILIDADE. COMPROVAÇÃODO USO E DA INTIMIDAÇÃO CAUSADA POR MEIOS DIVERSOS. ORIENTAÇÃO PACÍFICA DESSE SODALÍCIO. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO OU PELA DENEGAÇÃO DA ORDEM." (fl. 79).
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração o afastamento da causa de aumento de pena relativa ao uso de arma de fogo.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Saliente-se, ainda, quea via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+No mais, não se descure que, para o conhecimento da ordem, faz-se necessário que o direito alegado pela defesa seja líquido - dispense apuração probatória - e certo - indene de dúvida.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente. Isso porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+Aliás, a respeito do cabimento do remédio heroico, oportuna é a menção do escólio de Guilherme de Souza Nucci:
+"O habeas corpus é um remédio, mas não pode se tronar um veneno para as instituições, permitindo a morte de recursos expressamente previstos em lei, desigualando as partes (somente o réu pode valer-se) e deixando o Judiciário refém de uma demanda que se apresenta numa singela petição inicial, acompanhada de alguns documentos apenas" (NUCCI, Guilherme de Souza. Habeas Corpus. 4ª ed. Rio de Janeiro: Forense, 2022, pág. 25).
+Diante de tais considerações, portanto, não se vislumbra a existência dos pressupostos necessários ao conhecimento e à concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
