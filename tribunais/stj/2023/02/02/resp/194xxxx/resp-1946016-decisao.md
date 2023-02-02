@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por GESSICA FRANK PAULI eOUTROS, com respaldonas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ fl. 57/58):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. FALECIMENTO DO EXECUTADO. AUSÊNCIA DE INVENTÁRIO. INCLUSÃO DOS HERDEIROS.
+Havendo falecimento do devedor, a responsabilidade pelos tributos cabe ao espólio. Contudo, não havendo abertura de inventário, a responsabilidade recai sobre os sucessores do executado.
+Embargos de declaração rejeitados (e-STJ fls. 105/106).
+Em suas razões, a parte recorrente aponta,além de dissídio jurisprudencial,violação doart. 131 do CTN e do art. 1.997 do CC, argumentando que, quando não há bens que possam suportar a dívida do falecido, os sucessores não devem integrar o polo passivo da execução para responder pela dívida (e-STJ fls. 115/129).
+Contrarrazões às e-STJ fls. 137/139.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fl. 142.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+A Corte Regional, em executivo fiscal movida pela ANTT, reformou decisão que acolheuexceção de pré-executividade apresentada pelos herdeiros do devedor, ora recorrentes, para admitir o redirecionamento da execução em face dos sucessores do executado que"não deixoubens em testamento", tampouco havia "indícios de abertura de inventário." (e-STJ fl. 61).
+No acórdão integrativo, atestou que haviabens a inventariar,pois, "conforme demonstra a última declaração de imposto de renda (..),o de cujus possuía cotas de capital das empresas Petrosul Constr. e Terraplanagem Ltda. e na Retrosul, Constr. e Terraplanagem, no valor de R$ 2.7000.000,00 (dois milhões e setecentos mil reais)." (e-STJ fl. 103)
+Em sua peça recursal, a parte defende a contrariedade do art. 131 do CTN, com base noseguinte argumento (e-STJ fl. 117):
+Diz o Acórdão que havendo falecimento do devedor, a responsabilidade pelos tributos cabe ao espólio. Contudo, não havendo abertura de inventário, a responsabilidade recai sobre os sucessores do executado.
+A contrariedade à Lei Federal está clara eis que o Acórdão viola o próprio art. 131 do CTN e o art.1997, do CC ("O espólio responde pelas dívidas do falecido; mas, feita a partilha, cada herdeiro responde por elas na proporção da parte que na herança lhe coube.").
+Ficou provado no curso do processo que ao falecer o sócio executado não deixou bens aos seus herdeiros, demonstrado através da declaração de renda e das certidões de óbito, de testamento e inventário mesmo que o recorrido sustente que as cotas da empresa deveriam ser inventariadas. Cotas de uma empresa que não tem patrimônio não tem valor a ser inventariado, ou seja, no presente caso os sucessores não herdaram valores. (grifos acrescidos).
+Atestar que o falecido não deixou bens aos herdeiros, bem como que as cotas da empresa citada no aresto regional "não tem valor a ser inventariado", não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termosda Súmula 7 do STJ.
+Quanto àalínea "c", observa-se que a parte recorrente não atendeu aos requisitos doart. 541, parágrafo único, do CPC/1973 (art. 1.029, § 1º, do CPC/2015) e do art. 255, § 1º do RISTJ, tendo em vista que a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante.
+Segundo o entendimento pacífico desta Corte de Justiça, a simples transcrição de ementas, sem que se evidencie a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial. Nesse sentido: AgRg no AREsp 752.892/RS, Relator Ministro BENEDITO GONÇALVES, DJe 04/11/2015;AgRg no REsp 1.558.877/PR, Relator Ministro HERMAN BENJAMIN, Segunda Turma, DJe 05/02/2016;AgInt no AREsp 1.736.638 / PE, RelatoraMinistra MARIA ISABEL GALLOTTI,Quarta Turma;DJe 12/05/2021; e AgInt no REsp 1.704.378 / RJ, RelatorMinistro BENEDITO GONÇALVES,Primeira Turma,DJe 13/05/2021.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
