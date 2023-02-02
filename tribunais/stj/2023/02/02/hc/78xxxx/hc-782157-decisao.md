@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de EGILDO MESSIAS DE ANDRADE, contra v. acórdão prolatado pelo eg. Tribunal Regional Federal da 4ª Região.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de tráfico internacional de drogas, tipificadono art. 33, caput c.c.art 40, inciso I,ambos da Lei n. 11.343/2006 (fls. 25-33)
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O eg. Tribunal de origem, à unanimidade, denegou a ordem (fls. 12-24), em v. acórdão assim ementado (fl. 12):
+"HABEAS CORPUS. PRISÃO PREVENTIVA.ALEGAÇÃODE INCOMPETÊNCIA DO JUÍZO. ARGUIÇÃO POR EXCEÇÃO. CABIMENTO EXCEPCIONAL DA IMPETRAÇÃO. TRÁFICODE DROGAS. TRANSNACIONALIDADE. COMPETÊNCIA DAJUSTIÇA FEDERAL.
+1. A incompetência do juízo é arguida por exceção, somente sujeita a recurso quando houver acolhimento do pedido e declinação para o juízo competente(art. 581, II e III do Código de Processo Penal). Porém, a fim de evitar que o réu seja processado por juízo flagrantemente incompetente, admite-se o manejo do habeas corpus exclusivamente nas hipóteses em que haja prova pré constituída e que o exame da matéria não se revista de complexidade tal incompatível com a estreita via do remédio constitucional.
+2. A quantidade da droga apreendida e as circunstâncias do delito evidenciam, ao menos sumariamente, a transnacionalidade dos delitos de tráfico de drogas e, por consequência, a competência da Justiça Federal para processar e julgar o feito.
+3. Denegada a ordem de habeas corpus."
+Daí o presente mandamus, no qual a defesa repisa os argumentos lançados no writ originário, reafirmando a existência de constrangimento ilegal consubstanciado na incompetência da Justiça Federal em razão da ausência de comprovação da transnacionalidade do tráfico.
+Assevera que a Justiça Federal só seria competente para julgar os crimes de contrabando e descaminho.
+Aduz a ilegalidade da prisão preventiva decretada por Juízo totalmente incompetente.
+Requer, ao final, a revogação da prisão preventiva.
+A liminar foi indeferidaàs fls. 40-41 e as informações foram prestadas às fls. 45-47 e 48-50.
+O Ministério Público Federal, às fls. 53-56, manifestou-se pelo não conhecimento do writ, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. O Tribunal de origem mencionou fortes elementos de prova de que se trata de tráfico internacional de drogas sendo, portanto, da Justiça Federal a competência para o processamento da ação penal.
+2. Parecer pelo não conhecimento do writ." (fl. 53).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, inciso XX, permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+No que tange à pretensão da defesa por incompetência da Justiça Federal para julgar o crime do art. 33 c.c o art. 40, I da Lei n.º 11.343/06, o mandamusnão comporta conhecimento.
+Isso porque, as instâncias origináriasconcluíram que há indícios suficientes acerca da origem internacional da droga.Com efeito, está assentado nesta Corte Superior que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas na via estreita do mandamus ou de seu recurso ordinário.Nesse sentido: "Certificada pelo Tribunal de origem, soberano na análise dos fatos, a procedência estrangeira das drogas apreendidas, a alteração desse entendimento - a fim de afastar a competência da Justiça Federal - demandaria em incursão nos elementos fático-probatórios dos autos, o que é inviável na via eleita. " (AgRg no HC 689586/MS, Rel. Min. Jesuíno Rissato, Quinta Turma, DJe 05/10/2021 - grifei )
+Dessarte, na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo, como pretende a defesa, demandaria o revolvimento, no presente mandamus do material fático-probatório dos autos, o que é de todo inviável na via eleita.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso ordinário.
+Ante o exposto, nos termos do art. 34, XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
