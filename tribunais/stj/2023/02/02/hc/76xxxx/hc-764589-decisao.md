@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor deMARCELO LUIS DA SILVA, contra v. acórdão do eg. Tribunal de Justiça do Estado do Paraná no HC n. 0034345-05.2022.8.16.0000, assim ementado (fl. 18):
+"HABEAS CORPUS - POLICIAL MILITAR - ORGANIZAÇÃO CRIMINOSA, PECULATO, FALSIDADE IDEOLÓGICA, CORRUPÇÃO PASSIVA, CORRUPÇÃO ATIVA, CONCUSSÃO, PREVARICAÇÃO E VIOLAÇÃO DO DEVER FUNCIONAL COM O FIM DE LUCRO -CUSTÓDIA CAUTELAR - PRETENDIDA SUBSTITUIÇÃO PELA PRISÃO DOMICILIAR (CPP, ART. 318-VI) - INVIABILIDADE -REQUISITOS LEGAIS NÃO PREENCHIDOS - NÃO COMPROVAÇÃO DA CONDIÇÃO DE RESPONSÁVEL ÚNICO PELO CUIDADO DE FILHO MENOR DE DOZE ANOS -CONSTRANGIMENTO ILEGAL INEXISTENTE - ORDEM DENEGADA."
+Depreende-se dos autos que opaciente foi preso preventivamente no âmbito da denominadaOperação Força e Honra, em que se investiga organização criminosa voltada para a prática de delitos militares.
+Neste writ, a il. Defesa alega estar configurado manifesto constrangimento ilegal em razão do indeferimento da prisão domiciliar em favor do paciente.
+Afirma que a esposa do segregado é a única responsável pelo cuidado dos filhos menores de 12 (doze) anos, a qual está em"quadro grave de crises de ansiedade e episódios depressivos, os quais foram agravados com a sua demissão do emprego" (fl. 4).
+Aduz, ainda, que o paciente"tem uma vida pregressa irrepreensível, com residência fixa e ocupação lícita. E dizer isso é fundamental para se perceber que não há em sua índole qualquer inclinação-mínima que seja-de reiteração" (fl. 15).
+Requer, assim, liminarmente e no mérito, a concessão da ordem a fim de que seja convertidaa prisãopreventiva em domiciliar.
+Pedido liminar indeferido às fls.99-100
+Informações prestadas às fls. 104-112 e 115-124.
+O Ministério Público Federal, àfls. 132-134, manifestou-se pela denegação da ordem, em parecer com a seguinte ementa:
+"Habeas corpus. Organização criminosa, peculato, falsidade ideológica, corrupção passiva, corrupção ativa, concussão, prevaricação e violação do dever funcional com o fim de lucro. Substituição da prisão preventiva por prisão domiciliar. Não demonstração deque a doença psiquiátrica que acomete a esposa do paciente a incapacita para os cuidados com os filhos menores de 12 anos. Art.318, IV. Inteligência. Deve ser demonstrado que o pai é o único responsável pelos cuidados com os filhos. Constrangimento ilegal não evidenciado. Parecer pela denegação do habeas corpus."
+É o relatório.
+Decido.
+Inicialmente, insta consignar que a Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente (v.g.: HC 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014).
+As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+Portanto, não se admite a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração, o que não impede, todavia, a concessão da ordem de ofício, caso verificada ilegalidade.
+Pois bem. Acerca da controvérsia, observa-seque a eg. Corte de origem concluiu que os requisitos para a concessão da prisão domiciliar não foram preenchidos, notadamente porque não restou demonstrado ser o paciente o único responsável pelos cuidados dos filhos menores.
+Com efeito, insta consignar que é firme o entendimento deste Tribunal Superior no sentido de que o deferimento do pleito, nos termos do art. 318, inciso VI, do Código de Processo Penal, depende da comprovação inequívoca de que o segregado seja imprescindível e seja o único responsável pelos cuidados de pessoa menor de 12(doze) anos de idade.
+Dessarte, àluz dessas considerações, não se vislumbra,in casu,qualquer flagrante ilegalidade apta a possibilitar a concessão da ordem dehabeas corpusem favor do ora paciente, mesmo que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. I.
