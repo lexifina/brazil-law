@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARÍLIA DOS SANTOS BRITO, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da apelação criminal n. 5006391-91.2018.8.21.0001.
+Depreende-se dos autos que a paciente foi condenada, em primeira instância, às penas de às penas de 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, mais o pagamento de 250 (duzentos e cinquenta) dias-multa, como incurso nas iras do art. 33, caput, § 4º, da Lei n. 11.343/2006, sendo a pena privativa de liberdade substituída por prestação de serviços à comunidade e prestação pecuniária (fls. 176-182).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 167-175.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a paciente faz jus à diminuição da sanção em 2/3 (dois terços), haja vista a incidência do tráfico privilegiado.
+Aduz que a concessão do privilégio em 1/2 (um meio) não atende a juridicidade do caso, especialmente, no que toca quantidade ínfima de entorpecentes apreendidos.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 185-186).
+Informações prestadas às fls. 192-221.
+O Ministério Público Federal, às fls. 229-235, manifestou-se pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO PRIVILEGIADO DEDROGAS. DOSIMETRIA. INCIDÊNCIA DO ART. 33, §4ºDA LEI 141.343/06. RÉ PRIMÁRIA, SEM ANTECEDENTES, QUE NÃO INTEGRA GRUPO CRIMINOSO OU SE DEDICA A ATIVIDADES CRIMINOSAS. PEQUENA QUANTIDADE DE DROGAS (1,12G DE MACONHA E 1,59G DE COCAÍNA). OBSERVÂNCIA AO ART. 42 DA LEI 11.343/06. PELO CONHECIMENTO E CONCESSÃO DA ORDEM PARA RECONHECER A APLICAÇÃO DA MINORANTE EM SEU PATAMAR MÁXIMO (2/3)." (fl. 229).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a aplicação do grau máximo de redução previsto na causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Relativamente à tese de aplicação da causa de diminuição da penado art. 33, §4º, da Lei de Drogas em seu maior grau, melhor sorte não socorre as defesas. Isso porque o Magistrado fundamentou a escolha da fração de 1/2 para diminuição da pena, quantum proporcional ao caso, levando em consideração o fato de a apelante não ostentar antecedentes e não integrar organização criminosa, apesar do contraponto da natureza das drogas apreendidas - cocaína e maconha" (fl. 174).
+Com efeito, para a fixação do percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, o magistrado deve levar em consideração as circunstâncias do caso, bem como as demais circunstâncias judiciais do art. 59 do Código Penal, ante a ausência de indicação das balizas pelo legislador para a definição do quantum de diminuição.
+In casu, o v. acórdão impugnado estabeleceu a fração de 1/2 (um meio) para causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas, aduzindo que a fração esta justificada, especialmente, em razão da natureza e da quantidade de droga apreendida - 1,12g de maconha e 1,59g de cocaína (fls. 63-64). Assim, entendo ser desproporcionalidade a escolha da fração, haja vista a ínfima quantidade de entorpecente e a ausência de declinações de outros motivos a sustentar a referida escolha.
+Neste contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo da pena.
+Aplico a o privilégio no percentual de 2/3 (dois terços), de modo a fixar a sanção em 01 (um) ano e 08 (oito) meses de reclusão, mais o pagamento de 167 (cento e sessenta e sete) dias-multa.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de redimensionar a pena do paciente em 01 (um) ano e 08 (oito) meses de reclusão, mais o pagamento de 167 (cento e sessenta e sete) dias-multa, mantidos os demais termos da condenação.
+P. e I.
