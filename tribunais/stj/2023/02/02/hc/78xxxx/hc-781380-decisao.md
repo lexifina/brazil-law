@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de FELIPE EUPIDIO RANGEL CAXIAS, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo, no julgamento doHCn.2201464-75.2022.8.26.0000.
+Depreende-se dos autos que o Paciente teve a prisão cautelar decretada pela suposta prática do delito de roubo majorado tentado.
+Inconformada, a defesa impetrouhabeas corpusperante o Tribunal de origem, que, por unanimidade, denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS ROUBO MAJORADO: PLEITO DE CONCESSÃO DA LIBERDADE PROVISÓRIA, POR PRESENTES CONDIÇÕES PESSOAIS FAVORÁVEIS, INIDONEIDADE NA FUNDAMENTAÇÃO DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA E AUSÊNCIA DOS REQUISITOS ENSEJADORES DA SEGREGAÇÃO CAUTELAR AFASTAMENTO AUSÊNCIA DE CONSTRANGIMENTO ILEGAL ORDEM DENEGADA." (fl. 18).
+Dai o presente writ, onde oPaciente alega, em breve síntese, a existência de constrangimento ilegal, diante da ausência de fundamentação para a constrição cautelar.
+Requer, assim, a concessão da ordem para que seja revogadaa revogação da segregação cautelar.
+O pedido liminar foi indeferido às fls. 118-119.
+Informações prestadas às fls. 122-124.
+O Ministério Público Federal, às fls. 135-138, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"PENAL - PROCESSUAL PENAL - HABEAS CORPUS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPROCEDÊNCIA - EXISTÊNCIA DOS PRESSUPOSTOS E REQUISITOS DA PRISÃO CAUTELAR DO ARTIGO 312 DO CPP - PRECEDENTES JURISPRUDENCIAIS - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.PARECER PELA DENEGAÇÃO DA ORDEM." (fl. 135).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Quanto a alegação de ausência dos requisitos ensejadores da prisão preventiva, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal,ex vido artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HCn. 93.498/MS,Segunda Turma, Rel. Min.Celso de Mello, DJe de 18/10/2012).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)."(RHC 106.326/MG,Sexta turma,Rel. MinistraLaurita Vaz, DJe de 24/04/2019-grifei.)
+Por fim, condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de,por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão,o que ocorre na hipótese.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpussubstitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração dehabeas corpusem substituição ao recurso adequado,situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34,inciso XX, do RISTJ,não conheço dohabeas corpus.
+P. e I.
