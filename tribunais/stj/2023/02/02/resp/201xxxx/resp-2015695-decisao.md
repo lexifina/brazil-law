@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DISTRITO FEDERAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TribunaldeJustiçadoDistritoFederal e dosTerritóriosassim ementado (e-STJ fl. 225):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUTOS Nº 15.106/1993 (0000805-28.1993.8.07.0001). SINDSAÚDE. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PREJUDICIAL. PRESCRIÇÃO. INTERRUPÇÃO DO PRAZO. REJEIÇÃO.
+1. O prazo prescricional é interrompido quando há atuação do sindicato e reinicia-se pela metade nas execuções individuais a partir do trânsito em julgado do cumprimento de sentença coletivo não satisfeito (Decreto nº 20.910/1932, art. 9º). Prejudicial rejeitada.
+2. Recurso conhecido e não provido.
+No seu recurso especial (e-STJ fls. 245/260), a parte recorrente aponta violação dos arts. 1º e 9º do Decreto n. 20.910/1932 e do art. 219 do CPC/1973. Sustenta, em síntese,aprescriçãoda pretensão executória individual de julgado coletivo, bem como a ausência de suspensão/interrupção do prazo prescricional no caso dos autos. Invoca, ainda, os entendimentos sedimentados nos Temas 515 e 877 do STJ.
+Contrarrazões às e-STJ fls. 267/345.
+Recurso especialadmitido(e-STJ fls. 348/349).
+Passo a decidir.
+Destaque-se, de início, a inaplicabilidade do Tema 877 do STJ ao caso dos autos, uma vez que aprescriçãoda pretensão executória individual doservidornão foi apreciada pela Corte de origem sob o prima da eventual necessidade de apresentação de fichas financeiras, sendo essa discussão relacionada ao cumprimento coletivo.
+A irresignação recursal não merece prosperar.
+O STJentende que, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execuçãocoletivapelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18.6.2019).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇACOLETIVA. SINDSAÚDE.EXECUÇÃOCOLETIVA.INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA DAPRESCRIÇÃOEXECUTÓRIA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto pelo Distrito Federal contra decisão da 7ª Vara da Fazenda Pública do DF que, em cumprimento de sentença proposto por Regina Célia Gonçalves Sinelson (proc. 0704606- 09.2020.8.07.0018), rejeitou a impugnação.
+2. Consoante pacífica jurisprudência do STJ, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execuçãocoletivapelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18.6.2019).
+3. No caso, o Tribunal de origem, ao decidir que, "o cumprimento coletivo de sentença ainda não foi finalizado e que a agravada/embargada propôs o cumprimento individual após decisão proferida no referido processo, que oportunizou a distribuição aleatória dos pedidos (11/7/2020), não ocorreu aprescrição.", o Tribunal de origem não violou os arts. 1º e 9º do Decreto 20.910/32 e 219 do CPC/73. Muito pelo contrário, decidiu a causa em conformidade com a jurisprudência dominante do STJ.
+4. Verifica-se que o Tribunal de origem afastou aprescriçãoapós o exame pormenorizado das provas dos autos. Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente quanto à ocorrência daprescriçãosomente poderiam ter sua procedência verificada mediante reexame de matéria fática, não cabendo ao STJ, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.038.454/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇACOLETIVA.SERVIDOR PÚBLICO.SINDSAÚDE.EXECUÇÃOCOLETIVA.INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA DAPRESCRIÇÃOEXECUTÓRIA.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2.Consoante pacífica jurisprudência desta Corte, o ajuizamento da ação de execuçãocoletivapelo Sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto 20.910/1932.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.966.838/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022).
+O aresto hostilizado não diverge da orientação aludida.
+Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
