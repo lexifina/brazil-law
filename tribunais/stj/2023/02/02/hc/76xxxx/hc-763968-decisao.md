@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 65):
+HABEAS CORPUS. PRISÃO TEMPORÁRIA. HOMICÍDIO QUALIFICADO. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE. 1. Presença dos requisitos e pressupostos da prisão processual. Fundamentação idônea na origem. Imputação de crime de acentuada gravidade, que autoriza o decreto dessa modalidade de prisão cautelar, consoante o disposto na Lei nº 7.960/89. Indícios de autoria do paciente e prova da materialidade, que levam à existência de fumus commissi delicti. 2. Necessidade da prisão temporária para o avanço das investigações bem demonstrada nos autos. Liberdade de locomoção do acusado que compromete a efetividade da persecução penal, com risco à investigação policial. 3. Prática, em tese, do crime de homicídio qualificado. 4. Ordem denegada.
+Consta dos autos que o paciente teve sua prisão temporária decretada em28/5/2021,no processo nº 1504495-65.2021.8.26.0361, em que figura como investigado pelo delito de homicídio qualificado.
+Neste writ, sustenta a defesa, em síntese, constrangimento ilegal em razão daausência de fundamentação idônea para a prisão temporária, pois baseada apenas na gravidade em abstrato do delito.
+Afirma que "a autoridade policial apontou o Paciente como autor do delito, pelo simples fato deste ter ido até a residência dos familiares da vítima o procurando e afirmando ter a vítima lhe furtado a quantia de R$ 400,00 reais" (fl. 4).
+Destaca que tanto as investigações quantoo mandado de prisão, que ainda não foi cumprido, duram mais de 1 ano, de modo que nesse período o paciente não atrapalhou as investigações, intimidou testemunhas ou cometeu qualquer crime.
+Requer, liminarmente e no mérito, a revogação da prisãotemporária do recorrente ou a sua substituição por medidas cautelares diversas daprisão, nos termos do art. 319do CPP.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal se manifestou pela concessão da ordem.
+A decisão que decretou a prisão temporária está assim fundamentada (fls. 56-57):
+Acolho a representação da autoridade policial com a anuência do Ministério Público.
+Necessário o decreto da prisão temporária do representado eis que há indícios de que o mesmo tenha praticado o crime em questão, já que a autoria foi indicada pelas testemunhas as quais o reconheceram positivamente como sendo o autor do crime.
+Outrossim, mostra-se necessária a medida para o prosseguimento das investigações, com a oitiva de eventuais testemunhas, reconhecimentos, eventual acareação, dentre outras providências, objetivando-se a individualização da conduta e culpabilidade, o pleno esclarecimento da motivação e reais circunstâncias em que a infração penal foi cometida, além da possível localização do instrumento utilizado na execução do ilícito e de eventuais comparsas.
+Nestes termos, com fundamento no artigo 1º, incisos I e III, alínea "a", da Lei n.º 7.960, de 21/12/1.989 c.c. artigo 2º, § 3º, da Lei 8.072/90, DECRETO A PRISÃO TEMPORÁRIA DE JOSÉ LUIZ PEDRO JÚNIOR, vulgo "BLAU BLAU", RG: 29.976.771-1,SSP/SP, qualificado nos autos, pelo prazo de 30 (trinta) dias.
+O acusado deverá ser submetido a exame de corpo de delito, no início e no final do prazo, remetendo-se os laudos a esta Corregedoria, devendo a autoridade policial providenciar relatório circunstanciado das diligências realizadas e de tudo o que for apurado, inclusive informando este juízo da data da prisão.
+Expeça-se mandado de prisão.
+No caso, embora esse não seja o foco direto das razões recursais, mas que não deixa de compor a sua fundamentação,destaca-se que a prisão temporária, a qual tem prazo certo (Lei 7.960, de 21/12/1989 - art. 2º e Lei 8.072, de 25/07/1990 - art. 2º, § 4º), ainda não foi cumprida, tendo sido decretada em 28/5/2021, razão pela qual, a essa altura, quase 1 ano e 8meses depois, sem a conclusão da investigação, passa a configurar constrangimento ilegal.
+Não se vislumbra como a prisão poderia, a essa altura, tutelar a investigação. Se o mandado não é cumprido e isso se prolonga para além dos prazos legais, mesmo de forma demasiada no tempo, como no caso, o usual, em termos processuais, é que seja decretada a prisão preventiva, se houver pedido da autoridade policial ou do Ministério Público.
+Em suma, está configurado de forma intercorrente o constrangimento ilegal na prisão temporária do paciente já por tempo indeterminado, mesmo com mandado em aberto.
+Ante o exposto, concedo ohabeas corpus para desconstituir o vetusto decreto de prisão temporária, sem prejuízo de que seja decretada a prisão preventiva, nos devidos termos processuais penais.
+Comunique-se.
+Publique-se.
+Intimem-se.
