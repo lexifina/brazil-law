@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por SACHA CALMON - MISABEL DERZI, CONSULTORES E ADVOGADOS contraacórdão do TJ/SCassim ementado (e-STJ fl. 280):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. IMPOSTO SOBRE A CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. SENTENÇA DE EXTINÇÃO, COM FULCRO NO ARTIGO 26 DA LEI N. 6.830/1980. INSURGÊNCIA DA EXECUTADA. CONDENAÇÃO DO EXEQUENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATICIOS DE SUCUMBÊNCIA. DEFLAGRAÇÃO DESNECESSÁRIA/INDEVIDA DO PROCESSO EXECUTIVO. PLEITO RECHAÇADO. AUSÊNCIA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO, QUE TORNAVA VIÁVEL O AJUIZAMENTO DA EXECUÇÃO FISCAL. RECURSO CONHECIDO E DESPROVIDO.
+No seu recurso especial, interposto com base nas alíneas "a" e "c" do permissivo constitucional, aparte aponta a existência de divergência jurisprudencial e violação dos arts. 85 e 90do CPC/2015.
+Sustenta, em síntese, que "a letra expressa da lei dispõe que, assim como a sentença deve condenar o vencido a pagar honorários ao advogado do vencedor, prevê também que a parte que desistiu da ação deve arcar com os honorários advocatícios, sendo devida, portanto, a condenação do Fazenda Pública Estadual ao pagamento dos honorários advocatícios, por se tratar de feito executivo extinto por sentença proferida em ação anulatória, transitada em julgado" (e-STJ fls. 329/330).
+Assim, seria cabível, no seu entender,a condenação do ente público tanto na execução fiscal como na ação anulatória de débito, tendo em vista a autonomia das demandas.
+Contrarrazões às e-STJ fls. 368/379.
+Recurso especial admitido (e-STJ fls. 382/384).
+Passo a decidir.
+O recurso especial origina-se de ação de execução fiscal extinta no primeiro grau após pedido de desistência do fisco estadual.
+A discussão recursal cinge-se à questão relativa ao recaimento da condenação em honorários de sucumbência em execução fiscal extinta na origem, após homologação judicial de pedido expresso da exequente pela desistência da ação, em razão do trânsito em julgado de ação anulatória em que o referido débito fiscal restaradesconstituído.
+Como anotado pela recorrente em seu especial, esta Corte superior tem defendido em sua jurisprudência que "ajuizada a execução fiscal e opostos embargos pelo devedor, o cancelamento administrativo da inscrição em dívida ativa e a consequente desistência da execução fiscal implica na condenação da parte exequente em verba honorária de sucumbência" (AgInt no REsp 1.837.816/SP, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/03/2020, DJe 23/03/2020).
+Com efeito, este é o entendimento esposado na Súmula 153 do STJ, in verbis:
+..a desistência da execução fiscal, após o oferecimento dos embargos não exime o exeqüente dos encargos da sucumbência.
+Não obstante a literalidade do art. 26 da LEF, que exonera as partes de quaisquer ônus, a jurisprudência desta Corte Superior, sopesando a necessidade de remunerar a defesa técnica apresentada pelo advogado do executado em momento anterior ao cancelamento da CDA, passou a admitir a fixação da verba honorária, pelo princípio da causalidade.
+Nesse sentido, de forma exemplificativa, arrolo os seguintes julgados: REsp 1795760/SP, rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 21/11/2019, DJe 03/12/2019; AgInt nos EDcl no AREsp 1134272/RJ, rel. Ministro Francisco Falcão, Segunda Turma, julgado em 15/08/2019, DJe 23/08/2019.
+Na hipótese dos autos, a ação de execução fiscal foi extinta por sentença homologatória depedido de desistência, formulado peloexequente, após o julgamento definitivo de ação declaratória, cujo resultado fora favorável ao executado, naqual sequestionava a própria existência do fato gerador e da obrigação tributária.
+Assim, cabível se mostra a condenação do ente público exequentenas verbas de sucumbênciatambém na execução fiscal.
+Todavia, tendo em vista que a fixação de honorários está relacionada a questões fáticas, devem os autos retornar ao Tribunal de origem para que sejam adequadamente estabelecidos.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer o cabimento de honorários na execução fiscal extinta em decorrência do resultado de ação autônoma, determinando o retorno dos autos ao Tribunal a quo para que promova sua fixação.
+Publique-se. Intimem-se.
