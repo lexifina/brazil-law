@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MPD ENGENHARIA LTDA à decisão de fls. 2545/25460, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com efeito, da análise da folha de interposição do recurso especial (fls. e-STJ 2385) verifica-se a existência de duas chancelas, sendo que a primeira delas, a que se encontra ilegível, foi realizada pelo sistema de protocolo integrado em 17/05/2021, e segunda, a que se encontra legível, refere-se à data em que o recurso foi recebido para juntada nos autos físicos pelo E. TJSP, em 1º/06/2021, conforme abaixo reproduzido: (fl. 2549).
+ ..
+Certamente, houve falha quando da digitalização dos autos pelo Posto de Digitalização do E. TJSP, pela qual não pode a Embargante ser prejudicada, considerando-se que ela sequer foi intimada para aferir a regularidade dessa digitalização.
+No caso, visando comprovar a tempestividade do recurso especial, a ora Embargante extraiu diretamente dos autos do processo físico - que, atualmente se encontra na Vara de Origem - a cópia desse recurso (doc. 01), na qual se encontra visível e legível a data da primeira chancela (17/05/2021), conforme abaixo reproduzido: (fl. 2550).
+ ..
+Demonstrado, pois, que o recurso especial foi tempestivamente interposto pela Embargante no dia 17/05/2021, muito tempo antes do término do prazo para tanto, sobre o que se requer o pronunciamento desse C. Superior Tribunal de Justiça, a fim de que seja corrigida a premissa equivocada de que partiu a r. decisão monocrática de fls. 2545/2546 (fl. 2551).
+ ..
+De fato, a intimação do v. acórdão foi publicada em 24.02.2021, tendo o prazo recursal se iniciado em 25.02.2021, com término em 14.04.2021, considerando-se a suspensão dos prazos processuais para os processos físicos entre os dias 08.03 e 04.04.2021, em razão da adoção do Sistema Remoto de Trabalho em todo o estado de São Paulo, nos termos dos Provimentos CSM nº 2600/2021, 2602/2021, 2605/2021, 2612/2021, 2613/2021 e 2616/2021 (fls. e-STJ 2411/2420) (fl. 2552).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O Superior Tribunal de Justiça pacificou o entendimento de que, "é dever da parte, constatada a ilegibilidade do carimbo de protocolo, providenciar certidão da secretaria de protocolo do Tribunal de origem para possibilitar a verificação da tempestividade recursal". (AgInt no AREsp 1555513/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/6/2020.)
+Ademais, registre-se que esta Cortetambém firmou entendimento no sentido de que é ônus da parte aferir e fiscalizar a correta instrução do recurso interposto, sendo que a alegação de erro na digitalização deve vir acompanhada de certidão comprobatória do Tribunal de origem. (AgInt nos EDcl no AREsp 1545561/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020; AgRg no AREsp 724.426/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/06/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
