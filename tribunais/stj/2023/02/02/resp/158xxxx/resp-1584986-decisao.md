@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recursos especiais interpostos contra decisão proferida pelo Tribunal Regional Federal da 5ª Regiãoassim ementada (e-STJ fl. 104):
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. APOSENTADORIA. LICENÇA-PRÊMIO. PERÍODOS NÃO GOZADOS E NÃO COMPUTADOS EM DOBRO. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES.
+Contra o acórdão foram opostos embargos de declaração, não acolhidos.
+A UFRPE alega, preliminarmente, ofensa ao art. 535, II, do CPC/1973. No mérito, argumenta que houve ofensa aoart. 87, § 2º, da Lei n. 8.112/1990 e ao art. 1º-F da Lei n. 9.494/1997.
+Já o particular alega violação do art. 20, §§3º e 4º, do CPC/1973, pugnando pela majoração dos honorários.
+O apelo especial da universidade recorrente foi inadmitido quanto à matéria de mérito em si, subindo a esta Corte apenas para o exame da preliminar aventada.
+Passo a decidir.
+Sobre o recurso do ente público, embora a parte recorrente tenha apontado vulneração do art. 535, II, do CPC/1973, observa-se que, nas razões do recurso especial, limitou-se a indicar genericamente omissão e ausência de prequestionamento sem, contudo, explicitar e indicar de maneira clara e precisa os pontos efetivamente omissos do acórdão impugnado, não indicando, também, as matérias sobre as quais deveria pronunciar-se a instância ordinária,nem demonstrando a relevância delas para o julgamento do feito.
+Sendo genéricas as alegações que tentam fundamentar a apontada vulneração, de rigor a incidência da súmula 284 do STF (AgInt no REsp 1.612.743/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 29/06/2021, DJe 02/08/2021).
+Passo ao exame do apelo especial dos particulares.
+Esta Corte possui entendimento, sedimentado no julgamento do REsp 1.155.125/MG - realizado sob a sistemática dos recursos repetitivos -, de que, vencida a Fazenda Pública (na vigência do CPC/1973), a verba honorária pode ser fixada em percentual, mas não está adstrita aos limites de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+Note-se, ainda, que, em regra, na instância especial, não é viável a revisão do juízo de equidade que foi realizado pelo magistrado para fixar o valor da verba honorária nos termos do art. 20, § 4º, do CPC/1973, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, todavia, esta Corte Superior admite o apelo especial para reapreciar honorários advocatícios quando arbitrados de forma irrisória ou exorbitante, pois, nesses casos, a violação da aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência.
+Na hipótese dos autos, ainda que de baixa complexidade a causa, a quantia fixada em R$ 3.000,00 (três mil reais) se afigura irrisória, notadamente considerando que o valor da causa era de R$ 225.000,00; o processo já tramitava por mais de 5 (cinco) anos,e foi necessária a defesa no segundo grau de jurisdição.
+Seguindo os parâmetros acima mencionados (REsp 1.155.125/MG), adoto o valor atribuído à causa (R$ R$ 225.000,00) como base de cálculo, fixando os honorários em 5% (cinco por cento) em relação a essa.
+Ante o exposto, NÃO CONHEÇO do recurso especial da UFRPE e DOU PARCIAL PROVIMENTO ao recurso especial do particular, fixando os honorários advocatíciosem 5% (cinco por cento) sobre o valor da causa.
+Publique-se. Intimem-se.
