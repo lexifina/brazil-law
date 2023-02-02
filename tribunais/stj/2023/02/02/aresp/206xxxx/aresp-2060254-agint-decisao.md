@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pelo Fundo Nacional de Desenvolvimento da Educação, contra decisão singular proferida às fls. 424/426 (e-STJ), cuja ementa assim estabelece, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. LIMITAÇÃO APRIORÍSTICA DA EFICÁCIA DA DECISÃO À COMPETÊNCIA TERRITORIAL DO ÓRGÃO JUDICANTE. DESCONFORMIDADE COM OS PRECEDENTES EXARADOS POR ESSA CORTE. MULTA PROCESSUAL PROTELATÓRIA. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais, o recorrente afirma que o FNDE entende que merece reforma a decisão, considerando a literalidade do art. 2º-A da Lei n. 9.494/1997, que estabeleceu uma limitação territorial, temporal e subjetiva, em tudo aplicável às associações, ao contrário do que se afirmou na decisão ora agravada. Nesse sentido, segundo as razões a recorrente cabe esclarecer que os autos tratam de cumprimento de sentença oriunda de ação coletiva ordinária proposta pela Associação Catarinense de Criadores de Suínos, e não ação civil pública como mencionado na decisão agravada. Confira-se trecho da decisão de fl.17 (e-STJ). Portanto, no entendimento da ora recorrente não se aplica ao caso dos autos o precedente da Corte Especial (ERESP 1134957/SP), eis que, naquele caso, se tratava de ação civil pública.
+Contrarrazões ao Agravo Interno às fls. 441/444 (e-STJ).
+É o relatório.Passo a decidir.
+Deveras, perscrutando as razões colacionadas no Agravo Interno (fls. 428/434, e-STJ), verifico que os elementos fáticos que compõem a decisão singular prolatada às fls. 424/426 (e-STJ) não subsistem. Nesse sentido exerço o juízo de retratação, típico do Agravo Interno, para tornar sem efeito a decisão exarada às fls.424/426 (e-STJ).
+Melhor compulsando os autos e exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ,torno sem efeitoa decisão agravada.
+ANTE O EXPOSTO, reconsidero a decisão de fls. 424/426 (e-STJ). Após, voltem-me os autos conclusos para novo e oportuno exame do agravo em recurso especial.
+Publique-se.
+Intimem-se.
