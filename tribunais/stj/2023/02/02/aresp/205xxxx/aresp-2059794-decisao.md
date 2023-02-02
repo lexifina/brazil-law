@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE FARMÁCIA. COBRANÇA DEANUIDADE DE FILIAL LOCALIZADA NA MESMA JURISDIÇÃO DA MATRIZ. CAPITAL SOCIAL DESTACADO. NÃO CONFIGURADO. DESCONSTITUIÇÃO DA SENTENÇA. ARTIGO 1013, § 4º, CPC. SEGURANÇACONCEDIDA. APELAÇÃO PROVIDA.
+1. Trata-se de ação ajuizada com o fito de obter provimento jurisdicional que assegure às impetrantes a não sujeição à cobrança de anuidades das suas filiais que não possuem capital social destacado da matriz.
+2. No caso em apreço, o Juízo extinguiu o feito, sem resolução do mérito, por entender que a parte a quo impetrante pleiteia nos autos o cumprimento de decisão liminar, proferida por este Tribunal, em processo diverso, do qual não faz parte.
+3. O pedido é o que se extrai da interpretação lógico-sistemática da petição inicial e não daquilo que consta em um determinado capítulo ou parágrafo da peça vestibular.
+4. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que o órgão de classe só pode cobrar anuidade das filiais, localizadas no mesmo âmbito de competência, que tiverem capital social destacado em relação ao de sua matriz. Precedentes.
+5. No estatuto social da empresa impetrante consta expressamente a informação de que o capital social da sociedade é totalmente integralizado, sem qualquer indicação de destaque de capital para as filiais.
+6. É de rigor, portanto, dar provimento à apelação para desconstituir a sentença e, prosseguindo no julgamento, nos termos do artigo 1.013, § 4º, do Código de Processo Civil, conceder a segurança para declarar que as filiais da impetrante, localizadas no âmbito de competência do CRF/SP, não estão sujeitas à cobrança de anuidades, por não possuírem capital social destacado da matriz" (fl. 224e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 247/253e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO COM O RESULTADO DOJULGAMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis apenas quando presente alguma das hipóteses previstas no art.1.022 do novo Código de Processo Civil.
+2. No caso em apreço, o aresto analisou devidamente todas as questões, de forma suficientemente clara, nos limites da controvérsia, não restando vício a ser sanado.
+3. Registre-se que os aclaratórios não se prestam a responder questionário ou consulta formulados pela parte, tampouco compete ao Poder Judiciário a apreciação exaustiva, ponto por ponto, de tudo quanto suscetível de questionamento.
+4. No que diz respeito ao prequestionamento, frise-se que é desnecessária a referência expressa aos dispositivos legais e constitucionais tidos por violados, pois o exame da questão, à luz dos temas invocados, é mais do que suficiente para viabilizar o acesso às instâncias superiores.
+5. O que se percebe é que o embargante deseja que prevaleça a tese por ele defendida, no afã de reagitar questões de direito já dirimidas, à exaustão, pela Turma julgadora, com nítida pretensão de inversão do resultado final, o que não é possível na via estreita dos embargos de declaração.
+6. Embargos de declaração rejeitados" (fl. 310e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 127, II, do CTN, 22 e 24 da Lei 3.820/60, 4º, XIII e XI, e 34 da Lei 5.991/73, art. 1º da Lei 6.839/80, art. 969 do CC, arts. 5º e 6º da Lei 12.514/2011,arts. 3º, 5º e 6º da Lei 13.021/2014 eart. 489, § 1º, do CPC.
+Em suas razões, a parte sustenta, em adição à negativa de prestação jurisdicional, que as filiais da W2G2 S/A devem pagar a anuidade ao Conselho Regional de Farmácia do Estado de São Paulo apesar de não possuírem capital destacado de sua matriz, pois possuem registro perante o conselho.
+Contrarrazões a fls. 355/356e.
+Inadmitido o Recurso Especial (fls. 394/398e), foi interposto o presente Agravo (fls. 402/412e).
+Contraminuta a fls. 419/420e.
+A irresignação não merece prosperar.
+Na origem, trata-se de Mandado de Segurança impetrado pela parte ora agravante, com o objetivo de coibir aautoridade coatora de cobrar valores referentes à anuidade das filiais que não possuem capital social destacado da matriz.
+Julgada improcedente a demanda, recorreu oautor, reformada a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação à negativa de prestação jurisdicional, aplica-se a Súmula 284/STF.
+Com efeito, a parte ao alegar omissão no acórdão recorrido, limitou-se a indicar o art. 489, § 1º, III, do CPC como dispositivo violado, deixando de apontar o art. 1.022, II, do mesmo codex, circunstância que configura deficiência recursal.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE PELO SUPERIOR TRIBUNAL DE JUSTIÇA. 2. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. 3. TESE SOBRE A REVOGAÇÃO DA GRATUIDADE DE JUSTIÇA DEFERIDA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. LEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. SÚMULA 83/STJ. 6. AGRAVO INTERNO IMPROVIDO.
+1. Carece a esta Corte Superior competência para enfrentar suposta afronta a normas constitucionais, ainda que para fins de prequestionamento da matéria, sob pena de usurpação do mister do Supremo Tribunal Federal.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que houve manifestação fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Não há como acolher a pretensão recursal que demande o reexame dos aspectos fáticos e probatórios da causa, com vistas a modificar a conclusão exarada pelo Tribunal de origem, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+5. De acordo com a orientação deste Superior Tribunal, "em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação"(AgInt no AREsp n. 1.761.193/DF, Relator Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe 13/4/2021). Súmula 83/STJ.
+6. Agravo interno improvido"(AgInt nos EDcl no AREsp n. 2.108.267/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma,DJe de 24/11/2022.)
+No mais, no que tange ao mérito, esta Corte Superior possui jurisprudência firmada em ambas a duas Turmas da Primeira Seção no sentido de que "o órgão de classe só pode cobraranuidadedas filiais que tiveremcapital social destacadoem relação ao de sua matriz"(AgInt no REsp n. 1.678.907/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020.)
+Ilustrativamente:
+"ADMINISTRATIVO. CONSELHO REGIONAL DE QUÍMICA. EXERCÍCIO PROFISSIONAL. COBRANÇA DE ANUIDADE DE FILIAL LOCALIZADA NA MESMA JURISDIÇÃO DA MATRIZ. AUSÊNCIA DE CAPITAL DESTACADO. REVISÃO DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O STJ possui entendimento de que o órgão de classe só pode cobrar anuidade das filiais que tiverem capital social destacado em relação ao de sua matriz (AgRg no REsp 1.572.116/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29/2/2016; AgRg no REsp 1.413.195/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 10/12/2013; REsp 1.299.897/SC, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 10/5/2013; REsp 1.627.721/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/10/2016).
+2. In casu, o acórdão recorrido reconhece que as filiais da recorrida não possuem autonomia financeira em relação à matriz (fl. 264), de modo que sua reforma demanda revolvimento fático-probatório, o que é vedado nos termos da Súmula 7/STJ.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido"(REsp n. 1.645.784/SC, relator Ministro Herman Benjamin, Segunda Turma,DJe de 27/4/2017.)
+No caso concreto, restou expressamente consignado que as filiais da recorrida não possuem autonomia financeira frente sua matriz, de modo que correta a aplicação dos precedentes.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
