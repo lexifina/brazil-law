@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por Lourdes Rodrigues Germano contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial que, por sua vez, foi manejado em razãoda inadmissão, peloTribunal Regional Federal da 3ª Região, de recurso especialque impugna acórdão assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. BENEFÍCIO ASSISTENCIAL. PRÉVIOREQUERIMENTO ADMINISTRATIVO. APRECIAÇÃO. PRAZO LEGAL.
+- O artigo 41, § 6º, da Lei n. 8.213/1991, garantiu à autoridade administrativa o prazo de 45 (quarenta e cinco) dias para efetuar o pagamento da primeira renda mensal do benefício, após a apresentação da documentação necessária pelo segurado.
+- Na ausência de apreciação por parte da Autarquia ou se o pleito for indeferido, nascerá o interesse processual, condição necessária à propositura de ação judicial.
+- Tendo a ação sido ajuizada anteriormente ao indeferimento ou ao término do prazo legal de 45 dias para a análise administrativa, não se encontra presente o interesse processual, em consonância com o entendimento firmado pelo C. Supremo Tribunal Federal.
+- Agravo interno desprovido
+Nas razões dorecurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, aponta aagravanteviolação aoart.49 da Lei 9.784/99; 17 e 493 do CPC, bem como dissídio jurisprudencial.
+Defende que"não vislumbrar o interesse de agir no presente caso, mesmo com o decurso do prazo legal estabelecido em lei, 30 dias prorrogáveis por igual período sob expressa motivação, é negar vigência ao dispositivo infraconstitucional, afinal, deve-se considerar que o prazo máximo que detém a Autarquia Federal para prolatar decisão em seus requerimentos é de 60 dias, contando com a eventual prorrogação".
+Assevera que "o pedido principal remonta na concessão do benefício assistencial desde 18/11/2019. Neste ponto, registre-se que a recorrente no decorrer do processo administrativo, a saber, em 04/05/2020, implementou os requisitos para a concessão do benefício assistencial ao idoso, de modo que o INSS concedeu tal benefício. Ou seja, a recorrente tem o interesse de receber os atrasados de 18/11/2019 a 03/05/2020, na condição de BPC deficiente".
+Não foram apresentadas contrarrazões.
+Após juízo negativo de admissibilidade do recurso especial, ascenderam os autos por força de agravo.
+A Presidência do STJ não conheceu do agravo, aofundamento de que "consoante o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra decisão que nega seguimento a recurso especial com base no inciso I, b, deste mesmo artigo".
+Nas razões do agravo interno, o recorrente argumenta que "não se trata o caso dos autos de decisão que negou seguimento ao recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos",bem como pugnapela reconsideração da decisão agravada e a consequente apreciação de seu apelo nobre.
+É o relatório.
+Decido.
+Com efeito, verifica-se que os argumentos trazidosrevelam-se plausíveis, o que impõe a reconsideração da decisão da Presidênciade e-STJ fls. 448/449.
+Oagravante impugnou os fundamentos adotados na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do recurso especial, passo à sua análise.
+Depreende-se dos autos que a tese relacionada aos arts. 49 da Lei 9.784/99; 17 e 493 do CPC,não foi examinada pelo Tribunal de origem, tampouco foram opostosembargos declaratórios para sanar eventual omissão do Tribunal de origem.
+Inexistindo oposição de embargos declaratórios para tais fins, resta patente a ausência do indispensável requisito do prequestionamento, circunstância que atrai, o óbice das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada";"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FALTA DE PREQUESTIONAMENTO. REEXAME PROBATÓRIO SÚMULAS 7/STJ, 284, 282 E 356/STF.
+1. A suscitada violação do art. 535 do Código de Processo Civil foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, a teor do que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Não há como se analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 642.986/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/08/2015, DJe 31/08/2015).
+Ademais, tem-se que as mesmas razões que inviabilizam o conhecimento doapelo fundado na alínea "a" do permissivo constitucional também atingem asteses veiculadas com amparo naalínea "c".
+Ainda que assim não o fosse,o conhecimento de Recurso Especial fundado na alínea "c" do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ).
+O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+In casu, constata-se que o recorrente não cumpriu as exigências insculpidas nos mencionados dispositivos, pois não realizou o devido cotejo analítico entre os acórdãos ditos divergentes, tampouco indicou as circunstâncias que identificariam ou assemelhariam os casos confrontados.
+Sobre o tema confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL INTERPOSTO TÃO SOMENTE PELA ALINEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. SENTENÇA TRABALHISTA. INÍCIO DE PROVA MATERIAL NÃO CARACTERIZADO PELO TRIBUNAL DE ORIGEM. REVISÃO DO JULGADO. SÚMULA 7/STJ.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar o entendimento legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+2. In casu, o agravante não procedeu ao indispensável cotejo analítico no intuito de provar que os arestos confrontados partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+3. Para que o Especial seja interposto exclusivamente pelo dissídio jurisprudencial, deve a parte recorrente indicar, de maneira clara e precisa, que artigo de lei federal foi, no seu entender, interpretado de forma equivocada pela Corte de origem, o que não ocorreu na espécie. (..)
+(AgRg no REsp 1.395.538/PB, Relator Ministro Herman Benjamin, Segunda Turma, DJe 26/9/2013)
+Além disso, a divergência entre julgados do Tribunal prolator do acórdão recorrido não enseja Recurso Especial, conforme o disposto na Súmula 13/STJ,in verbis:"a divergência entre julgados do mesmo tribunal não enseja recurso especial."
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, reconsidero a decisão de e-STJ fls. 448/449e, com fundamento no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL.AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO APONTADO COMO VIOLADO. SÚMULAS 282/STF E 356/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE FÁTICA. DIVERGÊNCIA ENTRE JULGADOS DO MESMO TRIBUNAL. INCIDÊNCIA DA SÚMULA 13/STJ. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
