@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 94):
+AGRAVO EM EXECUÇÃO. CRIMES CONTRA O PATRIMÔNIO. USO DE APARELHO TELEFÔNICO. FALTA GRAVE JUDICIALMENTE RECONHECIDA. MANUTENÇÃO. A utilização de telefone celular no interior de estabelecimento prisional é conduta que encontra expressa previsão como falta grave no artigo 50, inciso VII, da Lei de Execução Penal. Suficiência dos elementos angariados durante as fases administrativa e judicial. Confirmação da falta disciplinar de natureza grave reconhecida judicialmente. ALTERAÇÃO DA DATA-BASE À OBTENÇÃO DE FUTUROS BENEFÍCIOS. Inauguração de novo marco temporal para futuros benefícios, excetuados o livramento condicional, o indulto e a comutação. Inteligência do Enunciado nº 534 das Súmulas do Superior Tribunal de Justiça. Retificação da data-base para o dia da apreensão do celular pelos agentes penitenciários determinada. AGRAVO DEFENSIVO PARCIALMENTE PROVIDO.
+Consta dos autos que o paciente cumpre pena de 19 anos e 20 diasde reclusão e, após o reconhecimento de falta grave, alterou-se a data-base para a concessão de diversos benefícios penais, inclusive saída temporária e trabalho externo.
+Alega a impetrante, em síntese, que o acórdão recorrido está em dissonância com o entendimento jurisprudencial desta Corte, na medida em que o cometimento de falta grave não acarreta a alteração da data-base para fins de saída temporária e de trabalho externo.
+Requer "que a data-base dos benefícios de saída temporária e trabalho externo não integre os consectários estabelecidos em razão do reconhecimento de falta grave" (fl. 12).
+Prestadas informações, manifestou-se o Ministério Público Federalpela concessão da ordem.
+Ao julgar o agravo em execução, assim manifestou-se o Tribunal de origem(fl. 92):
+(..)
+Ao mesmo tempo, consequência do ato de indisciplina é a a inauguração de novo termo para a concessão de futuros benefícios. Manter-se a data-base original inalterada importaria em fazer tabula rasa do mau comportamento carcerário do reeducando. Atentar-se-ia contra o princípio constitucional da isonomia, visto que reclusos com boa conduta prisional obteriam o mesmo tratamento que aqueles com comportamento desregrado, equiparando-se situações notadamente distintas.
+(..)
+Lado outro, considerando que o registro de apreensão do objeto ocorreu em 02-8-2021 (SEEU, seq. 76.1, fl. 06), necessária a retificação do dies a quo para a contagem do prazo à progressão de regime para a referida data, nos termos do artigo 112 da LEP, bem como para outros benefícios que dependam do implemento de fração de pena, englobando a concessão de saídas temporárias e de trabalho externo, excetuados o livramento condicional, o indulto e a comutação.
+Ante o exposto, voto por dar parcial provimento ao agravo em execução a fim de determinar a retificação da data-base para 02-8-2021, mantidas as demais cominações da decisão singular.
+Como se vê,o Tribunal de origem estendeu a abrangência da alteração da data-base pela prática de falta grave aosbenefícios desaídas temporárias e detrabalho externo.Contudo, consoante a jurisprudência desta Corte Superior, "A prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo. Precedentes" (HC n. 611.195/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2020, DJe de 15/10/2020).
+Ante o exposto, concedo o habeas corpus para determinar que a data-base dos benefícios de saída temporária e trabalho externo não integre os consectários estabelecidos em razão do reconhecimento da falta grave.
+Comunique-se.
+Publique-se.
+Intimem-se.
