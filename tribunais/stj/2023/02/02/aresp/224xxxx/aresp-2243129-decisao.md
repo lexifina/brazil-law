@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do FUNDO NACIONAL DE DESENVIOLVIMENTO DA EDUCAÇÃO interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. LEGITIMIDADE PASSIVA. FIES. CARÊNCIA.PRORROGAÇÃO. RESIDÊNCIA MÉDICA.
+1. O recurso não deve ser conhecido na parte em que requer a improcedência do pedido de benefício de abatimento de saldo devedor a médicos que preencham aos requisitos, dado que a matéria não consta da petição inicial, tampouco foi examinada na sentença.
+2. Deve ser reconhecida a legitimidade passiva do FNDE, eis que como agente operador do FIES, cabe definir as regras para sistematização das operações e administrar os ativos e passivos do Fundo.
+3. O autor cumpre os requisitos para se beneficiar da prorrogação do período de carência durante a residência médica (art. 6º-B, § 3º, da Lei nº 10.260/2001), não podendo ser prejudicado por falhas técnicas do sistema eletrônico do FIES.
+4. Neste caso, a especialidade cursada (Neurocirurgia) está definida na Portaria Conjunta SGTES/SAS nº 3/2013 como especialidade prioritária, o curso de residência médica está credenciado junto à Comissão Nacional de Residência Médica, e a matrícula ocorreu durante a fase de carência do contrato.
+5. Apelação conhecida em parte, e nesta parte desprovida. Remessa necessária desprovida.
+No recurso especial, o recorrente aponta, além do dissídio jurisprudencial,ofensa ao art. 6º-B, §3º, da Lei 10.260/2001.
+Foram apresentadas contrarrazões.
+Sobreveio juízo negativo de admissibilidade.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial se baseou nos seguintes argumentos:a) para revisar o entendimento a que chegou a Turma julgadora, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ; b) em relação à alegada existência de dissídio jurisprudencial, verifica-se que não estão presentes os pressupostos de admissibilidade recursal, nos termos do disposto no art. 1.029, §1º, do CPC; e c) não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial (art. 105, III, alínea "c", da Constituição Federal) na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei - Súmula nº 7 do STJ.
+Contudo, do exame do agravo interposto, observa-se que o agravante furtou-se de impugnar de forma clara e específica os fundamentos utilizados pelo Juízo a quo na decisão de inadmissibilidade, limitando-se a apresentar argumentações genéricas, bem como a repetir as razões do recurso especial.
+Assim, o agravo em recurso especial carece de fundamentação, atraindo as consequências previstas no art. 932, III, do CPC/2015,segundo o qual não se conhecerá do agravo que não tenha atacado especificamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOSFUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
