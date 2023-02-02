@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça polonesa (Juízo da 9ª Vara Cível de Poznan Grunwald e Jezyce em Ponzan), nos autos do processo IX Ns 60/20 (pedido de despacho judicial de sucessão de Paul Jack Townsend) solicita que se proceda à notificação de PAULO TOWNSEND para que apresente a sua resposta ao pedido, declarando quais os fatos apresentados pelo requerente contesta, bem como para suscitar quaisquer objeções em relação ao pedido, formulando provas, no prazo de 14 dias, contados da data de recepção da cópia do pedido, sob pena de ser devolvida sem contestação (fl. 8).
+O exequatur foi concedido (fls. 248-249).
+A notificação da parte interessada, contudo, foi frustrada, nos termos da certidão de fl. 265.
+Pelo exposto, a despeito do empenho das autoridades brasileiras para localização da parte interessada, verifica-se que a providência não logrou êxito, razão pela qual determino a devolução da comissão sem cumprimento ao Juízo rogante, por intermédio da autoridade central.
