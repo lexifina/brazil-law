@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDIO BRAULINO TEIXEIRAcom respaldona alínea "a"do permissivo constitucionalcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁassim ementado (e-STJ fls. 593):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO DA SANEPAR - GUARAITUBA. SENTENÇA DE IMPROCEDÊNCIA.
+PRELIMINAR DE ILEGITIMIDADE ATIVA APRESENTADA EM CONTRARRAZÕES - AFASTADA - TEORIA DA ASSERÇÃO - COMPROVANTE DE ENDEREÇO JUNTADO AOS AUTOS. PLEITO DE RECONHECIMENTO DE FALHA NA PRESTAÇÃO DE SERVIÇO DECORRENTE DA EMISSÃO DE ODORES PROVENIENTES DA UNIDADE DE TRATAMENTO DE ESGOTO LOCALIZADA EM REGIÃO PRÓXIMA A RESIDÊNCIA DA AUTORA. APLICAÇÃO DA RESPONSABILIDADE OBJETIVA E TEORIA DO RISCO INTEGRAL.PROVAS CONSTANTES NOS AUTOS QUE DEMONSTRAM A INEXISTÊNCIA DE NEXO CAUSAL OU DE CONCAUSA ENTRE A ATIVIDADE QUE ERA EXERCIDA PELA UNIDADE DE TRATAMENTO DE ESGOTO E O MAU CHEIRO DA REGIÃO. REALIZADAS TODAS AS MEDIDAS LEGAIS PARA ATUAÇÃO DA EMISSÃO DE GASES. PROVA TÉCNICA QUE REFLETE COMO FATOR DETERMINANTE DO MAU CHEIRO O LANÇAMENTO DE ESGOTO DOMÉSTICO NO RIO PALMITAL - ÁREA REPLETA DE OCUPAÇÃO IRREGULAR E SEM O DEVIDO SANEAMENTO. SENTENÇA INTEGRALMENTE MANTIDA.FIXADOS HONORÁRIOS RECURSAIS. RECURSO DESPROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 625/634).
+Em suas razões (e-STJ fls. 639/661), a parte recorrente aponta, além de dissenso interpretativo,violação do art.1.022,II,do CPC/2015, por negativa de prestação jurisdicional porque o acórdão recorrido deixou de se pronunciar quanto à aplicação da devida inversão do ônus da prova, e, no mérito, alega vulneração dos seguintes dispositivos:14, §1º da Lei n. 6.938/81;373, §1º do CPC/2015 e o art. 927 do Código Civil.
+Defende a aplicação ao caso da inversão do ônus da prova em matéria ambiental, como consolidado na Súmula 618 do STJ, pois "cabe ao poluidor o ônus de comprovar que sua atividade não causou os danos ambientais ou que a vítima não foi por eles atingida", ao argumento de que o acórdão recorrido não inverteu o ônus da prova em favor das vítimas dos danos ambientais,
+Contrarrazões às e-STJ fls. 692/708.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 709/710.
+Passo a decidir.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis, contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência do agravante se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre a inversão do ônus da prova em matéria ambiental, tema suscitado na apelação erenovado nos embargos de declaração ali opostos.
+Assim, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 1.022 do CPC/2015, para que as questões levantadas pela recorrente sejam apreciadas pelo Tribunal de origem, à luz do caso concreto, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido. (AgInt no AREsp 1149082/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1695486 / SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão proferido no julgamento dos embargos de declaração, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos para que o Tribunal de origem reaprecie os embargos de declaração opostos pelo ora agravante, sanando o vício de integração ora identificado.
+Publique-se. Intimem-se.
