@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ACOUGUE DO NEGUINHO LTDA com fundamento no art. 105, III, a e c, da Constituição Federal.
+O feito decorre de mandado de segurança ajuizado pelo contribuinte tendo como objetivoa declaração de inexistência de relação jurídica tributária qualificada pela obrigatoriedade de inclusão de benefícios/incentivos de ICMS - provenientes da isenção de ICMS - nas bases de cálculo do IRPJ e da CSLL, sem a limitação imposta pela Lei nº 12.973/2014, atribuindo à causa o valor deR$ 104.197,19 (cento e quatro mil, cento e noventa e sete reais e dezenove centavos), em agosto de 2021.
+Após sentença que denegou a segurança, foi interposta apelação, a qual foi improvidapelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO emacórdão foi assim ementado, in verbis:
+TRIBUTÁRIO. BENEFÍCIOS FISCAIS DE ICMS (ISENÇÃO). BASE DE CÁLCULO DO IRPJ E DA CSLL. EXCLUSÃO DESCABIDA.
+Não se exclui das bases de cálculo do IRPJ e da CSLL benefício fiscal de isenção de ICMS.
+A conclusão do Superior Tribunal de Justiça sobre os créditos presumidos de ICMS não pode ser generalizada de forma a abarcar todos os benefícios fiscais de ICMS.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, oACOUGUE DO NEGUINHO LTDA aponta violação do art. 43 do CTN.Sustenta, em síntese, que os benefícios fiscais de ICMS não devem integrar a base de cálculo do IRPJ e da COFINS.Indica divergência jurisprudencial com julgado do Tribunal Regional Federal da 3ª Região.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+No que concerne à indicação de contrariedade ao art. 43 do CTN, é firme o posicionamento do Superior Tribunal de Justiça segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal tido por violado não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PESSOA JURÍDICA. QUALIFICAÇÃO COMO AGROINDÚSTRIA. ART. 489 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REENQUADRAMENTO DA EMPRESA. EXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSULTA. FISCALIZAÇÃO IN LOCO. SITUAÇÃO FÁTICA DIVERSA. SÚMULA 284 DO STF. INCIDÊNCIA. LANÇAMENTO FISCAL. MULTA ISOLADA E DE OFÍCIO. RETROATIVIDADE DA LEGISLAÇÃO MAIS BENÉFICA. SÚMULA 283 DO STF. CARÁTER CONFISCATÓRIO. DIVERGÊNCIA NÃO DEMONSTRADA. SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. CABIMENTO.
+ ..
+4. O art. 100 do CTN não possui comando normativo suficiente para infirmar o entendimento da Corte Regional de que as soluções de consulta não vinculam o Fisco na hipótese da ocorrência de fiscalização tributária in loco, na qual se verifica situação fática diversa daquela apresentada pelo consulente, incidindo no ponto o óbice da Súmula 284 do STF.
+ ..
+(AgInt nos EDcl no AREsp 1.343.527/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/11/2019, DJe 03/12/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA VISANDO A EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. SEGURANÇA CONCEDIDA, COM LIMITAÇÃO TEMPORAL DOS EFEITOS DO JULGADO A 31/12/2014, EM FACE DA LEI 12.973/2014. ALEGADA VIOLAÇÃO AOS ARTS. 1.039, CAPUT, E 1.040, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DISPOSITIVOS PROCESSUAIS APONTADOS QUE, ADEMAIS, NÃO POSSUEM COMANDO NORMATIVO APTO A SUSTENTAR A TESE DA RECORRENTE. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. IMPOSSIBILIDADE, AINDA, DE ANÁLISE, EM RECURSO ESPECIAL, DA ADEQUAÇÃO DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM, EM JUÍZO DE RETRATAÇÃO, COM A TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA, SOB PENA DE ANÁLISE, POR VIA REFLEXA, DE QUESTÃO CONSTITUCIONAL. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+VII. De todo modo, em relação à alegada violação aos arts. 1.039, caput, e 1.040, III, do CPC/2015, os referidos dispositivos legais não possuem comando normativo apto a infirmar a conclusão, tal como posta no acórdão recorrido, em relação à limitação temporal dos efeitos do julgado a 31/12/2014, de forma a atrair, no ponto, a aplicação analógica da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+(AgInt no AREsp 1.510.210/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 29/11/2019).
+Conforme prevê o art. 255, §1º, do RI/STJ, para a constatação do dissídio jurisprudencial é de rigor a caracterização das circunstâncias que identificam os casos confrontados. Cabe a quem recorre demonstrar tais circunstâncias, através da designação das similitudes fáticas e jurídicas existentes entre os julgados, bem como da indicação do dispositivo legal federal interpretado de modo divergente nos arestos em cotejo, com a transcrição dos trechos necessários à aludida demonstração.
+Sendo assim, o conhecimento do recurso especial fundado na existência de dissídio jurisprudencial não prescinde da indicação precisa do dispositivo legal infraconstitucional federal supostamente interpretado de maneira discrepante nos acórdãos apresentados para o confronto comparativo de interpretações.
+A partir da análise das razões recursais, é possível verificar que a recorrente não indicou o dispositivo legal federal que teria sido objeto da alegada divergência interpretativa entre tribunais, o que prejudicou a caracterização do assinalado dissídio jurisprudencial.
+Prejudicada a caracterização do dissídio jurisprudencial, incide sobre a hipótese, por analogia, o óbice ao conhecimento recursal constante do enunciado da Súmula n. 284 do STF.
+Nesse sentido, destaco os precedentes que seguem:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. SÚMULA 284/STF. PREVIDÊNCIA PRIVADA. CORREÇÃO MONETÁRIA. ÍNDICE PREVISTO NO CONTRATO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.963.134/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO DE LEI FEDERAL. INDICAÇÃO. AUSÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp n. 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+2. Hipótese em que a parte insurgente não apontou nenhum dispositivo de lei federal supostamente contrariado ou interpretado de maneira divergente pela Corte de origem, circunstância que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.884.619/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/12/2021, DJe de 17/12/2021.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
