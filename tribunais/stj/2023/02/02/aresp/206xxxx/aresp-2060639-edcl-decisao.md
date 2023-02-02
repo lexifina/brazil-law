@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ROBERTO RODRIGUES MONTEIRO,contra decisão de fls. 488-494, pela qual foi reconsiderada a decisão agravada e não conhecido o agravo em recurso especial, consoante a seguinte ementa (fl. 488):
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO".
+Nas razões deste recurso (fls. 497-505), a Defesa sustenta a ocorrência de obscuridade e contradição,ao argumento de que "ao negar seguimento ao recurso, a decisão acabou por infringir as normas processuais, pois não se manifestou em relação aos argumentos apresentados no agravo do embargante, deixando de apreciar os mesmos, os quais poderiam, de fato, infirmar a conclusão adotada pelo julgador, ou seja, os autos teria que ser levado para julgamento do colegiado desta 5º Turma. Não se trata de justiça quando se exclui de apreciação questões que deveriam ser tratadas desde a primeira instância, questões pontuais e claras que influenciam diretamente o desfecho de uma ação judicial"(fl. 504).
+Por fim, pugna pelo acolhimento dos embargos, para que sejam saneadas as supostas imperfeições apontadas neste inconformismo.
+É o relatório.
+Decido.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+O embargante sustenta a ocorrência de obscuridade e contradição, ao argumento de que "ao negar seguimento ao recurso, a decisão acabou por infringir as normas processuais, pois não se manifestou em relação aos argumentos apresentados no agravo do embargante, deixando de apreciar os mesmos, os quais poderiam, de fato, infirmar a conclusão adotada pelo julgador, ou seja, os autos teria que ser levado para julgamento do colegiado desta 5º Turma. Não se trata de justiça quando se exclui de apreciação questões que deveriam ser tratadas desde a primeira instância, questões pontuais e claras que influenciam diretamente o desfecho de uma ação judicial" (fl. 504).
+A decisão, no ponto, não conheceu do agravo em recurso especial,nos seguintes termos (fls. 490-494):
+"O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão do óbice das Súmulas n. 284/STF e 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+No que tange ao óbice da Sum. n. 7/STJ, contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Com relação a referido óbice sumular, em síntese, a parte limitou-se a genericamente afirmar que (..)
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cu ida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+(..)
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+(..)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial".
+Não há na decisão embargada, portanto, as obscuridades e contradiçõesmencionadas pela defesa, de modo que não há qualquer irregularidade sanável por meio dos presentes embargos, porquantoas teses levantadas no recurso encontraram óbice à sua apreciação,não padecendo a decisão embargada dos vícios que autorizariam a sua oposição.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE TRÂNSITO. ERRO MATERIAL CONFIGURADO. POSSIBILIDADE DE SER OFERTADO ACORDO DE NÃO PERSECUÇÃO PENAL ENQUANTO AINDA PERSISTIR A RELAÇÃO PROCESSUAL. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL CPP. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+ ..
+III - Na espécie, à conta de omissão no v. acórdão, pretende o embargante a discussão de matéria que encontrou óbice à sua apreciação.
+IV - Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+Embargos de declaração parcialmente conhecidos e, na extensão, parcialmente acolhidos, mas sem efeitos modificativos" (EDcl no AgRg no AREsp n. 2.073.890/MT, Quinta Turma, Rel. Min.Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 17/5/2022).
+Desse modo, em que pese a alegação do embargante de que a decisão embargada conteria obscuridade e contradição, o que pretende a parte, porém, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos aclaratórios.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste o equívoco apontado pela parte, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Embargos de declaração rejeitados." (EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 09/11/2018).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AOS ARTS. 619 E 620 DO CPP. OMISSÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ARESTOS CONFRONTADOS. NÃO COMPROVAÇÃO DO DISSÍDIO. VIOLAÇÃO DE REGRA TÉCNICA DO RECURSO. VÍCIO SUBSTANCIAL INSANÁVEL. PRESSUPOSTO DE ADMISSIBILIDADE. NÃO VERIFICAÇÃO. RECURSO DESPROVIDO.
+1. Os embargos de declaração, recurso de fundamentação vinculada cujo acolhimento exige a existência de ambiguidade, obscuridade, contradição ou omissão no julgado, não se prestam a revisar questões já decididas com a finalidade de alterar decisão anteriormente prolatada.
+2. Afasta-se a violação do art. 619 do CPP quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento das questões abordadas no recurso.
+3. Não se conhece de recurso especial fundado em dissídio jurisprudencial quando não realizado o cotejo analítico entre os arestos confrontados e quando o recorrente deixa de juntar aos autos o inteiro teor dos paradigmas indicados.
+4. A comprovação da divergência jurisprudencial constitui regra técnica cujo descumprimento caracteriza vício substancial insanável.
+5. Agravo regimental desprovido" (AgRg no REsp n. 1.865.061/AC, Quinta Turma, Rel. Min.João Otávio de Noronha, DJe de 20/11/2020).
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. OBSCURIDADE E CONTRADIÇÃO.NÃO OCORRÊNCIA. REEXAME DA CAUSA. IMPOSSIBILIDADE.EMBARGOS REJEITADOS.
