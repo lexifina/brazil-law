@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional doSeguro Social - INSS com fundamento nas alíneas "a" do permissivoconstitucional, contra acórdão do Tribunal Regional Federal da 4ª Região,assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. APOSENTADORIA. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. HIDROCARBONETOS: NOCIVIDADE. EXPOSIÇÃO A AGENTESQUÍMICOS. RUÍDO. LIMITES DE TOLERÂNCIA. EQUIPAMENTO DEPROTEÇÃO INDIVIDUAL. REAFIRMAÇÃO DA DER. APOSENTADORIAESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO.
+1. A ausência de expressa referência em decreto regulamentara hidrocarbonetos não equivale a que tenha desconsiderado, como agentes nocivos, diversos compostos químicos que podem ser assim qualificados.
+2. Para os agentes nocivos químicos previstos no Anexo 13 da Norma Regulamentadora - NR 15, entre os quais os hidrocarbonetos e outros compostos tóxicos de carbono, é desnecessária a avaliação quantitativa.
+3. O limite de tolerância para o agente físico ruído é de 90 (noventa)decibéis, no período entre 6 de março de 1997 e 18 de novembro de 2003(Tema nº 694 do Superior Tribunal de Justiça).
+4. A declaração prestada pelo empregador a respeito da eficácia de equipamento de proteção individual não é suficiente para afastar o reconhecimento da especialidade em razão da sujeição ao ruído.
+5. A reafirmação da data de entrada do requerimento administrativo(DER), antes inclusive admitida pela administração previdenciária (IN 77/2015),tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, como fato superveniente, após o ajuizamento da ação ou da própria decisão recorrida, de ofício ou mediante petição da parte.
+6. Para ter direito à aposentadoria especial, a parte autora deve preencher os requisitos previstos no art. 57 da Lei nº 8.213, quais sejam: a carência prevista no art. 142 da referida lei e o tempo de trabalho sujeito a condições prejudiciais à sua saúde ou à sua integridade física durante 15, 20 ou 25 anos, a depender da atividade desempenhada.
+7. É possível a conversão do tempo especial em comum, sendo irrelevante, nesse particular, a vigência da MP nº 1.663, convertida na Lei nº9.711.
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, fundamentado na alínea "a"do permissivo constitucional, sustenta o recorrente a violação aosartigos 1.022 do CPC/2015, artigos 85, caput, e 927, III do CPC, e artigos389 do CC.
+Aponta negativa de prestação jurisdicional, ao argumento de que oacórdão foi omisso quanto: à impossibilidade de condenação emhonorários advocatícios. Acrescenta que não se insurgiu quanto apossibilidade de reafirmação da DER, nem tampouco houve descumprimento daobrigação reconhecida pelo juízo, razão pela qual não são devidoshonorários ao patrono do autor.
+O prazo para apresentação de contrarrazões ao recurso especialtranscorreu in albis.
+É o necessário relatar.
+Passo a decidir.
+Preliminarmente, afasto a apontada violação ao art. 1022 do CPC/2015.No caso em questão, inexistem omissão, contradição, obscuridade ouerro material, uma vez que, pela leitura do inteiro teor do acórdãoembargado, depreende-se que este apreciou devidamente a matéria em debatee analisou de forma exaustiva, clara e objetiva as questões relevantespara o deslinde da controvérsia.
+Quanto aos honorários, observa-se que o Tribunal de origem concluiu que,ainda que o INSS não tenha impugnado o pedido de reafirmação da DER, elese opôs aos demais pedidos do ora recorrido.
+Nesse contexto, acolher a pretensão recursal para analisar o princípioda causalidade, requer o revolvimento da matéria de fato, providênciainviável em sede de recurso especial, por ambas as alíneas dopermissivo constitucional, em razão do óbice contido na Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§2º AO 6º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+(..)
+4. O acórdão recorrido consignou: "O Juízo a quo proferiu sentença,em 20000000000000000,5/07/2017, extinguindo a execução fiscal na forma do
+art. 26 da Lei nº 6.830/80, sem a condenação da União ao pagamento dehonorários advocatícios. A sentença deve ser mantida. Como já dito acima,de acordo com o princípio da causalidade, o relevante é aferir quem deucausa ao ajuizamento da ação. E não há dúvidas de que, no caso, foi opróprio Executado, na medida em que o débito era devido no momentopropositura da execução. Tanto é assim que o Executado não questionou emmomento algum a imposição dos "honorários previdenciários", limitando-sea defender que estavam abrangidos pela expressão "encargos legais" e,portanto, pela remissão prevista na Lei nº 11.941/09. A demora da União emrequerer aextinção da ação - corretamente ajuizada - não é suficiente para quelhe sejam transferidos os ônus sucumbenciais. Além disso, a demorafoi justificada, na medida em que, de fato, havia controvérsiajurisprudencial sobre a possibilidade ou não de dispensa do pagamento dehonorários com base na norma remissiva" (fl. 530, e-STJ).
+5. Nos termos da jurisprudência do STJ, a condenação emhonorários advocatícios pauta-se pelo princípio da causalidade, de modoque somente aquele que deu causa à demanda ou ao incidente processual équem deve arcar com as despesas deles decorrentes.
+6. A jurisprudência do STJ é no sentido de que a revisão do quefoi decidido pelas instâncias ordinárias acerca da aplicação do princípioda causalidade só seria possível mediante reexame do acervo probatóriodos autos, o que não é adequado em Recurso Especial, por força daSúmula 7/STJ.
+7. Recurso Especial não conhecido.
+(REsp 1809073/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgadoem 21/05/2019, DJe 17/06/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c oart. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e,nessa extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelasinstâncias de origem, determino sua majoração em desfavor da parterecorrente, no importe de 15% sobre o valor já arbitrado, percentual essejustificado pelo tempo decorrido entre a interposição do recurso ejulgamento e a complexidade da causa, nos termos do art. 85, § 11, doCódigo de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3ºdo referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER (DATA DEENTRADA DO REQUERIMENTO). HONORÁRIOS ADVOCATÍCIOS EM FACE DA SUCUMBÊNCIAVERIFICADA. DISCUSSÃO SOBRE O PRINCÍPIO DA CAUSALIDADE. QUESTÃO ATRELADAAO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. RECURSO ESPECIALPARCIAMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
