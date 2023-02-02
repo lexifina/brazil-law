@@ -1,0 +1,5 @@
+DECISÃO
+Por meio da petição de fl. 134, a defesa requer a reconsideração da decisão de fls. 744-745, em que indeferi liminarmente o habeas corpus, por falta de documentação suficiente. Na ocasião, traz aos autos cópia do acórdão impugnado (Apelação Criminal n. 0029907-64.2014.8.19.0021).
+De plano, saliento que, em que pese a prática reiterada de pedidos de reconsideração, não há previsão legal expressa a permitir o uso do referido instituto. Contudo, no caso, uma vez que agora consta dos autos cópia do documento faltante (acórdão impugnado), entendo que, pela aplicação dos princípios da economia e da celeridade processuais, deve o pedido ser conhecido.
+Passo agora, portanto, à nova apreciação do feito, em que a defesa requer
+À vista do exposto, reconsidero a decisão de fls. 21-22 somente para, diante da juntada aos autos de novo documento, proceder à nova análise do feito. No entanto, embora por fundamento diverso, mantenho o indeferimento liminar do habeas corpus, com fulcro no art. 210 do RISTJ.
