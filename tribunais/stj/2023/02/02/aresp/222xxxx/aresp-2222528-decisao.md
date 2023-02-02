@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICÍPIO DE JUIZ DE FORA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL -REQUISITOS DA CDA - ERRO MATERIAL NA GRAFIA DO NOME DA EXECUTADA - SUBSTITUIÇÃO CDA - SÚMULA 392 STJ.
+1 - É entendimento sumulado do STJ que a presença de erro material ou vício formal na CDA pode ser sanada mediante a substituição do título, desde que a correção das irregularidades não acarrete a modificação do lançamento, como, por exemplo, alteração do sujeito passivo da execução.
+2 - Assim, uma vez identificados vícios sanáveis na CDA, como erro material no nome do executado, é dever do juiz oportunizar prazo para que a exequente possa substituí-la, de modo que, não o fazendo, a sentença que extingue o processo deve ser cassada" (fl. 90e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 99/109e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DECLARATÓRIOS - AGRAVO DE INSTRUMENTO - SUPOSTO VÍCIO - INEXISTÊNCIA.
+1 - Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão, e, ainda, para corrigir erro material.
+2 - Os embargos de declaração, ainda que opostos com o objetivo de prequestionamento, não podem ser acolhidos quando inexistentes as hipóteses previstas no art. 1.022 do CPC/15" (fl. 117e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontaviolação aos arts. 9º da LC 123/2006; 51, 1.103, 1.108 e 1.109, todos do Código Civil, sustentando que:
+"O que deve restar cristalino é que a dissolução irregular consiste no encerramento das atividades empresariais, sem a liquidação dos seus ativos e passivos com o fisco, ou seja, encerramento das atividades sem pagamento dos débitos nem baixa nos registros próprios. Portanto, a baixa de CNPJ, por si só, em nada se relaciona com a regularidade dos encerramentos da empresa.
+Não há como acatar que a Empresa, pelo simples fato de preencher um formulário simplificado -que se destina tão somente ao encerramento de suas atividades, afaste a sua dissolução irregular se, de maneira incontroversa, não observou o procedimento de liquidação e pagamento de credores e, ainda, sem qualquer comunicação ao Fisco Municipal deixou de funcionar em seu domicílio fiscal.
+De tudo, estando os sócios administradores inclusos na CDA, não havendo nos autos prova de que tenha sido realizado o regular procedimento de liquidação da sociedade, sendo que a informação de baixa no CNPJ não é suficiente para a comprovação da efetiva extinção da personalidade jurídica da empresa, imperioso que se determine o prosseguimento da execução fiscal em face dos sócios, nos termos da Súmula 435 do STJ" (fls. 135/136e).
+Por fim, requer "seja dado PROVIMENTO ao presente RECURSO ESPECIAL para reformar a decisão ora recorrida, reconhecendo-se a legitimidade passiva da pessoa jurídica executada, tendo em vista sua dissolução irregular e, ademais, determinando o prosseguimento da execução fiscal em desfavor dos sócios administradores" (fl. 136e).
+Inadmitido o Recurso Especial (fls. 146/148e), foi interposto o presente Agravo (fls. 150/155e).
+A irresignação não merece prosperar.
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos dispositivos legais apontados como violados, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ainda que não fosse o caso de se aplicar o referido óbice, o Recurso Especial não mereceria ser conhecido, com base na aplicação da Súmula 7/STJ.
+Com efeito,oTribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "no acórdão recorrido foi considerada que já extinta a pessoa jurídica não em função da baixa do CNPJ, mas em virtude de constar, no documento referente à baixa da CNPJ, que houve o encerramento da pessoa jurídica pela liquidação voluntária. Logo, não havia possibilidade de ajuizamento de execução fiscal em face da pessoa jurídica que não mais existia" (fl. 119e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
