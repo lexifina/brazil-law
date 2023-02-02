@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por ORDEM DOS ADVOGADOS DO BRASIL SECCÃO DE PERNAMBUCOcom fundamento no art. 105, inciso III, alínea"a", da Constituição da República, contra o acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA.
+1. Embargos de declaração opostos pela ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO DE PERNAMBUCO em face de acórdão que negou provimento à sua apelação, mantendo a sentença que extinguiu, sem resolução de mérito, a execução de título extrajudicial por ela movida para cobrança de débito inferior a quatro anuidades, no valor de R$ 1.896,67 (art. 8º da Lei 12.514/2011), condenando-a em honorários advocatícios fixados em 10% (dez por cento)do valor da causa, nos termos do art. 85, §2º CPC.
+2. Sustenta a embargante, em síntese, que há omissão no julgado, que deixou de analisar o argumento de que não seria cabível condenação aos ônus sucumbenciais. Argumenta, ainda, que o valor do débito exequendo já era superior ao mínimo legalmente estabelecido pela Lei nº12.514/2011, de modo que o feito tem que prosseguir.
+3. Nos termos do art. 1.022 do CPC/2015, cabem embargos declaratórios para esclarecer obscuridade ou eliminar contradição (inc. I); suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento (inc. II) e para corrigir erro material (inc. III).
+4. Hipótese em que não houve pronunciamento acerca da condenação da OAB em honoráriossucumbenciais.5. Na hipótese, conforme esclarece a sentença recorrida, trata-se de execução das anuidades de 2011, 2014 e 2013, no montante de R$ 1.896,67 (um mil oitocentos e noventa e seis reais e sessenta e sete centavos), não restando alcançado o valor mínimo o mínimo legal de quatro anuidades para execução das dívidas, razão pela qual se afigura inadmissível a execução ora pretendida, em virtude de expressa vedação legal.
+6. Ocorre que a condenação em honorários advocatícios é baseada no princípio da causalidade, devendo ser arcados por quem deu causa ao ajuizamento da demanda.
+7. Assim, apesar das alegações da OAB, é cabível o arbitramento de honorários em favor da DPU, a teor do mencionado princípio, a qual veio a juízo em defesa da parte executada.
+8. Quanto às demais questões, não há que se falar em omissão que dê ensejo à integração do acórdão, sendo digno de registro que os vícios apontados pela parte embargante não se afiguram capazes de infirmar os argumentos deduzidos no julgado atacado e, em consequência, alterar a conclusão nele adotada, tratando-se de rediscussão do mérito da demanda, o que não é cabível em sede de embargos de declaração.
+9. Embargos de declaração parcialmente providos, sem efeitos infringentes, para suprir a omissão apontada.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do especial, a recorrente sustenta violação ao artigo 927, § 4º, do CPC, no tocante à discussão sobre o direito ao afastamento da condenação ao pagamento de honorários sucumbenciais, uma vez que à época do ajuizamento da execução de título extrajudicialsub judice, o entendimento majoritário dostribunais, era de que a Lei nº 12.514/11 não se aplicava à Ordem dos Advogados do Brasil.
+Admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão não merece prosperar.
+Trata-se de recurso especial em que orecorrente alega que oTribunal de origem,desde o primeiro grau até a Corte regional, contrariandolei federal, condenou orecorrente ao pagamento de honorários sucumbenciais, apesar de a execução de título extrajudicial - processo originário - ter sido ajuizada em 2014, em estrita consonância com a legislação vigente e jurisprudência majoritária da época.
+Sobre este ponto, assim consignou o Tribunala quono julgamento dos embargos de declaração (fls. 238/239e-STJ), verbis:
+(..)
+Hipótese em que não houve pronunciamento acerca da condenação da OAB em honorários sucumbenciais.
+A jurisprudência deste Tribunal se posiciona no sentido de que até 2011 não há previsão legalválida para amparar juridicamente as cobranças de anuidades de conselhos profissionais até o advento da Lei 12.514/2011, o que consiste em violação à garantia estabelecida no art. 150, I, da CF.
+Na hipótese, conforme esclarece a sentença recorrida, trata-se de execução das anuidades de 2011, 2014 e 2013, no montante de R$ 1.896,67 (um mil oitocentos e noventa e seis reais e sessenta e sete centavos), não restando alcançado o valor mínimo o mínimo legal de quatro anuidades para execução das dívidas, razão pela qual se afigura inadmissível a execução ora pretendida, em virtude de expressa vedação legal.
+Ocorre que a condenação em honorários advocatícios é baseada no princípio da causalidade, devendo ser arcados por quem deu causa ao ajuizamento da demanda.
+Assim, apesar das alegações da OAB, é cabível o arbitramento de honorários em favor da DPU, a teor do mencionado princípio, que veio a juízo em defesa da parte executada.
+Observa-se que o Tribunal de origem consignou apenas que os honorários eram devidos baseando-se no princípio da causalidade, sem discussão acerca da tese recursal apresentada.
+Assim, verifica-se que o comando normativo do dispositivo indicado como violado, bem como a tese recursal que fundamenta a alegada ofensa - mudança no posicionamento jurisprudencial do Superior Tribunal de Justiça quanto à aplicação da Lei nº12.514/11 à OAB, o que influencia diretamente nos ônus sucumbenciais - não comportaexame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+É bem verdade que, enfrentada a questão/tese pelo Tribunal a quo, haverá prequestionamento.
+No entanto, se a questão não houver sido examinada por esse, não obstante ter sido instadoa se manifestar - ainda que em sede de embargos declaratórios - é dever da parte recorrente interpor recurso especial por violação ao art. 1022 do CPC, demonstrando em qual ponto o exame de tais dispositivos seria capaz de comprometer a verdade posta nos autos.
+Quedando-se inerte quanto a tal providência, incide, sim, à espécie o enunciado sumular nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. DECISÃO INTERLOCUTÓRIA PROFERIDA ANTES DO MARCO TEMPORAL DETERMINADO NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 373 E SEGUINTES DO CPC/2015. CERCEAMENTO DE DEFESA. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+IV. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal de cerceamento de defesa - arts. 373 e seguintes do CPC/2015 -, não foi apreciada, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+V. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a alegada contrariedade ao art. 1.022 do CPC/2015 restou preclusa.
+VI. Agravo interno parcialmente conhecido, e, nessa parte, improvido.
+(AgInt no AREsp 1478465/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/03/2021, DJe 15/03/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. ORDEM DOS ADVOGADOS DO BRASIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AO ARTIGO 927, § 4º, DO CPC. TESE RECURSAL QUANTO AO NÃO CABIMENTO DE CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
