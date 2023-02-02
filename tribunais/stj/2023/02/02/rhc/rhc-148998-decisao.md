@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por JULIA NOVAIS LIMAcontra acórdão proferido pelo Tribunal de Justiça do Estado de Minas GeraisnoHC n.1.0000.21.058914-9/000.
+Consta dos autos que, em 19/10/2020, o Magistrado de primeiro grau, apreciando requerimento formulado pela Autoridade Policial, decretou a prisão preventiva daRecorrente e de outros Investigados, supostamente integrantes de organização criminosa dedicada ao tráfico interestadual de drogas.
+Consoante relatado no aresto recorrido, " .. a paciente é advogada criminalista no estado do Espírito Santo e está sendo investigada por supostamente integrar uma complexa organização criminosa atuante no tráfico ilícito de entorpecentes, que transportava expressiva quantidade de drogas do estado do Paraná até a comarca de Divino/MG, onde é distribuída para o comércio varejista, com ramificação da distribuição do material ilícito para o estado do Espírito Santo" (fl. 367).
+Narra a Defesa que, em decisão de 17/12/2020, a prisão preventivafoi renovada e que, em 17/03/2021, foi indeferido o pedido de revogação da custódia (fl. 389).
+Impetradohabeas corpusna origem, a Corte local conheceu parcialmente da ordem e a denegou.
+Nesta insurgência, a Defesa alega, em suma:a)a ausência dos requisitos de fundamentos idôneos para a prisão preventiva;b)a existência de condições pessoais favoráveis à Acusada;c)a suficiência das medidas cautelares alternativas;d)a nulidade da busca e apreensão, que teria sido realizada na residência em que reside a irmã da Recorrente, também advogada, e sem acompanhamento de representante da OAB/ES em razão de comunicação tardia, além de ausência de motivação e de demonstração da imprescindibilidade da medida. Defende, no ponto, ter havido violação doart.7.º, § 6.º, do Estatuto da OAB, bem como ofensa aos arts.157,capute§ 1.º, 240 e243, todos do Código de Processo Penal, postulandoo desentranhamento das provas que aduz serem ilícitas; ee)excesso de prazo na formação da culpa.
+Frisa que o Tribunal de origem não conheceu da impetração quanto à fundamentação da prisão preventiva considerando tratar-se de reiteração de pedido, mas que ohabeas corpusali impetrado foi o primeirowritapresentado pela Defesa técnica constituída da Recorrente. Explicita que a anterior ação mandamental fora impetrada pela Ordem dos Advogados do Brasil (Seccional Espírito Santo) e com fundamentação diversa da ora apresentada.
+Requer, em liminar e no mérito, seja afastada a fundamentação do Tribunal de origem de que owritlá impetrado veicula reiteração de pedido, ou a reforma do acórdão para que seja revogada a custódia, ainda que mediante a aplicação de medidas cautelares alternativas, bem como a declaração de nulidade da busca e apreensão.
+O pedido liminar foi indeferido às fls. 422-425.
+Foram prestadas informações às fls. 429-431 e 433-435.
+O Ministério Público Federal manifestou-se às fls. 437-457, opinando pelo parcial conhecimento do recurso e, na parte conhecida, pelo seu desprovimento.
+É o relatório. Decido.
+Em consulta aos registros processuais desta Corte, constata-se que, consoante noticiado nos autos do RHC 160.011/MG (fl. 4.193),o Juízo de primeira instância proferiu sentença, em 26/08/2022, por meio da qual julgou improcedente a denúncia quanto à Recorrente e a absolveu, determinando a expedição de alvará de soltura em seu favor.
+Evidencia-se, desse modo, a prejudicialidade do presente recurso ordinário.
+Ante o exposto,JULGO PREJUDICADO o recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. INSURGÊNCIA CONTRA A PRISÃO CAUTELAR E TESE DE NULIDADE DA BUSCA E APREENSÃO.SUPERVENIÊNCIA DE SENTENÇA ABSOLUTÓRIA. PERDA DO INTERESSE PROCESSUAL. PEDIDO RECURSAL PREJUDICADO.
