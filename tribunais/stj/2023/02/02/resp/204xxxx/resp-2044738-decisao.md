@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaFAZENDA DO ESTADO DE SÃO PAULO, com respaldo naalínea"a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado(e-STJ fl. 116):
+PROCESSO Cumprimento de sentença Obrigação de pagar quantia certa Despacho inicial Honorários advocatícios Imposição Postergação Fase final Possibilidade:
+São devidos honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, na hipótese de crédito sujeito ao regime da Requisição de Pequeno Valor.
+Os honorários advocatícios fixados no início do cumprimento de sentença são considerados meramente estimativos, razão pela qual sua fixação pode ser postergada para o final.
+Nas suas razões, a parte recorrente aponta violação dos arts. 85,§§7º e 11, do CPC/2015 e 1º-D da Lei n. 9.494/1997, bem como do princípio da isonomia, sustentando o não cabimento de honorários na hipótese dos autos. Pugna, ainda, pela possibilidade de revisão doquantumda verba honorária e pelo não cabimento da majoração dos honorários recursais.
+Contrarrazões às e-STJ fls. 156/167.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 177/181.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quantoà suposta contrariedade ao princípio da isonomia, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Em relação ao pleito de revisão do quantumda verba honorária, não obstante o recurso especial tenha sido interposto com base na alínea "a", não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incidena espéciea Súmula 284 do STF.
+No que toca à alegação de contrariedade doart. 85, §11, do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No mais, esta Corte Superior entende que são devidos honorários em execuções contra a Fazenda Pública sujeitas ao regime de Requisições de Pequeno Valor (RPV), ainda que não haja impugnação.Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE OBRIGAÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. INCIDÊNCIA.
+1. Consoante o entendimento desta Corte, são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+2. Agravo interno não provido.
+(AgInt no REsp 1503410/SC, de minharelatoria, PRIMEIRA TURMA, julgado em 24/06/2019, DJe 27/06/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REDUÇÃO DE HONORÁRIOS PELA METADE EM CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA NÃO IMPUGNADO. ART. 90, § 4º, DO CPC/2015. IMPOSSIBILIDADE. EXISTÊNCIA DE NORMA ESPECÍFICA. ART. 85, § 7º, DO CPC/2015. NORMA INCOMPATÍVEL COM A SISTEMÁTICA DOS PRECATÓRIOS. INCIDÊNCIA DE HONORÁRIOS EM EXECUÇÃO SUJEITA À EXPEDIÇÃO DE RPV. RECURSO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se a previsão do § 4º do art.90 do CPC/2015 se aplica aos cumprimentos de sentença não impugnados, total ou parcialmente, pela Fazenda Pública.
+2. Da análise sistemática do diploma legal, verifica-se não haver espaço para a incidência da norma em comento no cumprimento de sentença, pois a aplicação de dispositivos legais relativos ao procedimento comum nos procedimentos especiais e no processo de execução é expressamente subsidiária, nos termos do parágrafo único do art. 318 do Código de Ritos.
+3. Com relação ao cumprimento de sentença contra a Fazenda Pública, há previsão específica de isenção de honorários em caso de ausência de impugnação, qual seja, o § 7º do art. 85 do CPC/2015. Portanto, o próprio Código de Processo Civil rege a hipótese de ausência de impugnação, não havendo que se cogitar a aplicação de outra disposição normativa de forma subsidiária.
+4. Por outro lado, deve-se ressaltar que a previsão legal é incompatível com o procedimento de execução ao qual está sujeita a Fazenda Pública, por não haver possibilidade de adimplemento simultâneo da dívida reconhecida, ante a necessidade de expedição de Precatório ou Requisição de Pequeno Valor.
+5. Não assiste razão à parte recorrente em pretender obter o mesmo benefício dos particulares. Primeiro, porque os entes públicos já possuem prerrogativas constitucionais e legais que os colocam em situação favorável em relação aos particulares. Segundo, porque o art. 90, § 4º, do CPC/2015 não se aplica ao cumprimento de sentença que reconhece a exigibilidade de obrigação de pagar quantia certa, tendo em vista a existência de norma específica que isenta o executado do pagamento de honorários, em caso de pagamento voluntário do débito no prazo legal de 15 (quinze) dias (art. 523, caput e § 1º, do CPC/2015).
+6. Esta Corte firmou jurisprudência de que são devidos honorários em execuções contra a Fazenda Pública relativas a quantias sujeitas ao regime de Requisições de Pequeno Valor (RPV), ainda que não haja impugnação. Precedentes.
+7. Recurso especial a que se nega provimento.
+(REsp 1664736/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/10/2020, DJe 17/11/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA.RECURSO ESPECIAL PROVIDO. ART. 1º-D DA LEI N. 9.494/97. EXECUÇÃO NÃO EMBARGADA CONTRA A FAZENDA PÚBLICA. PAGAMENTO POR RPV. HONORÁRIOS.CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Acerca da incidência de verba honorária na execução contra a Fazenda Pública, o Pleno do Pretório Excelso declarou a constitucionalidade, com interpretação conforme ao art. 1º-D da Lei n. 9.494/97, na redação que lhe foi dada pela Medida Provisória 2.180-35/01, de modo a reduzir-lhe a aplicação à hipótese de execução por quantia certa contra a Fazenda Pública (art. 730 do CPC), excluídos os casos de pagamento de obrigações definidos em lei como de pequeno valor (art. 100, § 3º, da CF).
+III - O Superior Tribunal de Justiça tem orientação pacificada segundo a qual são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, cujo pagamento é feito por meio de Requisição de Pequeno Valor - RPV.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt noREsp1.547.254/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, Dje 24/05/2017).
+O aresto hostilizado não diverge daorientação aludida.
+Assim, aplica-se na hipótesea Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
