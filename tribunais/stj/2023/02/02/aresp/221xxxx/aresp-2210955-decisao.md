@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo UNIVERSIDADE FEDERAL DO PARANÁ UFPRem face de decisão proferida pelo Tribunal Regional Federal da 4ª Regiãoque inadmitiu o recurso especial manejado contra acórdãoassim ementado:
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. DISTRIBUIÇÃO DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.
+1. A imposição dos ônus processuais pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes.
+2. No caso de extinção da ação em virtude da ocorrência de perda superveniente de objeto pela reconhecimento, em âmbito administrativo, do erro de tipificação da sanção discutida nestes autos, reconhece-se que no momento do ajuizamento da ação estava presente o interesse processual do impetrante, que se viu obrigado a ingressar com a ação a fim de suspender os efeitos da sanção.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, interposto com fulcro naalínea"a"do permissivo constitucional, arecorrente aduz que o Tribunal de origem violou oartigo1.022, I e II, do CPC, por se negar a analisar a apontada violação aos arts. 485, VI,85, § 10º, do CPC; e art. 25 da Lei nº 12.016/2009.
+Aduz, ainda, a violação dos arts.arts. 485, VI, 85, § 10º, do CPC; e art. 25 da Lei nº 12.016/2009, uma vez que não deu causa ao ajuizamento da ação mandamental, tampouco à perda superveniente do objeto, e, portanto, não pode ser responsabilizada pelo ressarcimento das custas em favor da parte contrária.
+Para tanto, alega que"a forma equivocada como a parte impetrante apresentou o cumprimento de suas obrigações legais em sentido diverso do previsto contratualmente é que deu ensejo ao início da apuração administrativa quanto à regularidade no desenvolvimento do contrato firmado com a UFPR. A falta de atualização e a consequente revogação da decisão administrativa estão relacionados com este momento inicial de descumprimento de cláusula contratual, s. m. j., o que indica que a aplicação do princípio da causalidade não se mostra adequado no caso em comento, para fins de que as custas processuais sejam objeto de ressarcimento pela UFPR para a parte impetrante". (fl. 363 e-STJ)
+O recurso especial foi inadmitido pelo Tribunal de origem à consideração deque não há violação ao artigo 1.022 do CPC e de que a questão suscitada demanda verificação de matéria probatória, inviável nos termos da Súmula 7/STJ.
+Nas suas razões de agravo, a parte agravante impugnou os fundamentos da decisão de inadmissibilidade do recurso especial.
+Parecer do Ministério Público Federal (fls. 437/439 e-STJ) pelo não provimento do agravo em recurso especial.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhimento.
+Isso porque sem razão a parte recorrente quanto à alegada violação aoartigo 1.022 do CPC, sob a alegação de que o Tribunal de origem não se manifestou quanto a questões suscitadas nos embargos de declaração.
+Interpostaapelação, oTribunal de origem negou provimentoaorecurso,com os seguintes fundamentos(fl. 318e-STJ):
+(..)
+Não há dúvidas de que os ônus de sucumbência devem ser analisados sob o manto do princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrente, nos termos do entendimento firmado pelo STJ no REsp nº748.836/PR, de relatoria da Ministra Eliana Calmon.
+No caso dos autos, como bem destacado pela sentença proferida, a sanção que veio a ser revogada havia considerado que o contratado não teria entregue os documentos exigidos pelo contrato, quando, na verdade, houve atraso na entrega daqueles documentos, conduta menos gravosa a atrair sanção de igual forma menos gravosa ao impetrante, o que foi, de fato, reconhecido pela decisão administrativa que reconsiderou aquela primeira sanção:
+Nota-se que as informações não foram atualizadas nos autos de penalização, situação que levou a Decisão de Primeira e Segunda Instância à penalização conforme tipificação de irregularidades constantes nos autos e consoante aos antecedentes do fornecedor junto à Administração Pública conforme extrato de ocorrência SICAF SEI 3321695.
+Nesses termos, não se vislumbra no recurso da UFPR fundamentos hábeis a superar a conclusão lançada em sentença, devendo a mesma ser mantida, negando-se, por consequência, provimento ao apelo interposto.
+Inobstante a isenção ao pagamento de custas de que goza o impetrado nos termos do art. 4º da Lei 9.289/96, tal isenção não o exime de "reembolsar as despesas judiciais feitas pela parte vencedora" (parágrafo único do art. 4º da Lei 9.289/96).
+Sem honorários face ao conteúdo das Súmulas 105 do STJ e 512 do STF, consolidado com sua positivação no ordenamento jurídico pátrio pelo art.25 da Lei nº 12.016/2009.
+Verifica-se que o Tribunal a quo apreciou todas as questões postas para sua análise, inclusive a possibilidade de condenação ao pagamento de honorários advocatícios em casos de extinção do processo sem resolução do mérito.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+Ora, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aoartigo1.022 do CPC, pois não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Ilustrativamente:
+DIREITO MINERÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. AÇÃO CIVIL PÚBLICA. EXPLORAÇÃO MINERAL ILEGAL. PATRIMÔNIO PÚBLICO. DOMÍNIO DA UNIÃO. ART. 20, IX, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE DECRETO AUTORIZATIVO. SUSPENSÃO DE LAVRA. ATO DE CONCESSÃO POSTERIOR. PRETENSÃO RESSARCITÓRIA. ACÓRDÃO COM FUNDAMENTO FÁTICOPROBATÓRIO. REVISÃO. SÚMULA 7/STJ.
+ ..
+3. Constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que a Corte Regional julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há omissão, contradição, obscuridade ou erro material a ser sanado e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+ ..
+5. Agravo Interno não provido.
+(AgInt no REsp 1740173/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2019, DJe 23/05/2019)
+Ademais, o Tribunal de origem, soberano na análise do conjunto fático probatório dos autos, concluiu que a recorrentedeucausa ao ajuizamento da ação, de modo que a reversão desse entendimento conforme a pretensão recursal demandaria o revolvimento do conjunto fático probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. VIOLAÇÃO DOARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. DISTRIBUIÇÃO DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO,NEGARPROVIMENTO.
