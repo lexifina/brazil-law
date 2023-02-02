@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por ÂNCORA CHUMBADORES LTDA E FILIAL(IS),com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado deSão Pauloassim ementado (e-STJ fl. 434):
+MANDADO DE SEGURANÇA PREVENTIVO -Pretensão à não incidência de ICMS nas operações de transporte de mercadorias entre estabelecimentos Matriz e Filial da mesma empresa - Possibilidade - Inteligência do artigo 155, II, da CF e Súmula nº 166 do STJ. Tema já assentado em repetitivo no REsp nº 1125133/SP no STJ e no Tema nº 1.099 de repercussão geral do STF. Precedentes. Pleito de repetição retroativa das cobranças de ICMS em ditas operações nos últimos 05 anos - Descabimento - Impossibilidade de se postular, via mandado de segurança, efeitos patrimoniais pretéritos - Inteligência da Súmula 271 do C. Supremo Tribunal Federal. Precedentes. Segurança parcialmente concedida na origem - R. Sentença mantida. RECURSOS DO IMPETRANTE, DA IMPETRADA E REEXAME NECESSÁRIO DESPROVIDOS.
+Embargos de declaração rejeitados (e-STJ fls. 468/480).
+Em suas razões de especial, a parte recorrente aponta a existência de dissenso pretoriano e violação dos arts. 165 e 167do CTN.
+Sustenta, em suma, que, "o mandado de segurança constitui instrumento adequado à declaração do direito à compensação do indébito recolhido em período anterior à impetração, observado o prazo prescricional de 5 (cinco) anos contados retroativamente a partir da data do ajuizamento da ação mandamental" (e-STJ fl. 491).
+Requer, assim, seja reconhecido seu direito à compensaçãotambém no período anterior ao lustro prescricional contado da impetração domandado de segurança.
+Contrarrazões às e-STJ fls. 527/532.
+Recurso especial admitido (e-STJ fls. 534/536).
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar.
+Pacífica a jurisprudência do STJ no sentido de que a declaração do direito à compensação ou creditamento, emmandado de segurança,deve cobrir o lustro prescricional anterior à impetração, sem que, com isso, tenha-se por configurada a indevida transformação do writ emação de cobrança.
+À guisa de mero exemplo, confiram-se os seguinte precedentes:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA.CREDITAMENTO INDEVIDO DE ICMS. POSSIBILIDADE DE COMPENSAÇÃO DOS CRÉDITOS NÃO ALCANÇADOS PELA PRESCRIÇÃO. AGRAVO INTERNO DO ESTADO NÃO PROVIDO.
+1. A concessão de ordem, emmandado de segurança,declarando direito à compensação ou restituição de créditos tributários não atingidos pela prescrição, não implica indevidos efeitospatrimoniais pretéritos.Precedentes do STJ.
+2. Ademais, o reconhecimento do direito à compensação de indébitos recolhidos antes da impetração do mandamus, e não fulminados pela prescrição, não induz em concessão de efeito patrimonial pretérito, o que é vedado pela Súmula 271 do STF, tampouco há transfiguração do instrumento em substitutivo daação de cobrança,uma vez que não há discussão acerca dos valores a serem compensados, providência esta adstrita à esfera administrativa.
+3. Agravo interno do Estado do Rio Grande do Sul ao qual se nega provimento.
+(AgInt no REsp n. 1.852.107/RS, Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 21/03/2022, DJe de 24/3/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.MANDADO DE SEGURANÇA.ICMS. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DOS VALORES REFERENTES AO CRÉDITO TRIBUTÁRIO NÃO ATINGIDOS PELA PRESCRIÇÃO (QUINQUÊNIO QUE ANTECEDE À IMPETRAÇÃO). POSSIBILIDADE.
+1. A jurisprudência pacífica do STJ entende que a possibilidade de a sentença mandamental declarar o direito à compensação (ou creditamento), nos termos da Súmula 213/STJ, de créditos ainda não atingidos pela prescrição não implica concessão de efeitospatrimoniais pretéritosà impetração, de modo que, reconhecido o direito à compensação, a comprovação do indébito e efetiva compensação deverão ser pleiteadas no âmbito administrativo, respeitado o prazo prescricional quinquenal anterior ao ajuizamento do mandamus. Precedentes: AgInt nos EDcl no AREsp 1.793.224/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2021, DJe 06/05/2021; AgInt no REsp 1.209.315/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/04/2021, DJe 27/04/2021; EDcl nos EDcl no REsp 1.215.773/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe 20/6/2014.
+2. Agravo interno não provido.
+(AgInt no REsp 1.911.513/RS, relator MINISTRO BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2021, DJe de 18/08/2021).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, de modo a reconhecer o direito líquido e certo do ora recorrente à compensaçãodo que pago a maior, a título de ICMS, nas operações em comento,também no lustro prescricional anterior à impetração domandado de segurança.
+Publique-se. Intimem-se.
