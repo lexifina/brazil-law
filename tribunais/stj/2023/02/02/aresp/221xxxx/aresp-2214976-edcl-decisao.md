@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GMAD PLACA SUL SUPRIMENTOS PARA MOVEIS LTDA em face da decisão de fls. 361/362, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Assim, é preciso esclarecer que reside a omissão no que se refere a falta de menção da súmula 83 do STJ, que foi a razão pela qual fora inadmitido o Recurso Especial da embargante, e consequentemente foi o fundamento utilizado como base no Agravo.
+ ..
+Vejamos que, a decisão ora embargada mencionou que o recurso apresentou violação a súmula 284/STF e que por este motivo o recurso não deveria ser admitido, súmula essa que sequer fora tratada na decisão que inadmitiu e consequentemente no agravo que inadmitiu o recurso especial.
+ ..
+Outrossim, a decisão ora embargada menciona que "Verifica-se que, embora a parte recorrente tenha indicado violação a MP 2.180-35/01 e a Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acordão recorrido.".
+Quanto a suposta indicação de violação a MP e Lei acima mencionadas, é preciso informar que reside erro material na decisão, visto que, os recursos apresentados pela embargante não apresentaram qualquer menção aos referidos dispositivos, sendo necessário assim a sua correção pois não tratam- se da matéria em questão (fl. 366).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, em razão do juízo de admissibilidade ser bifásico, não prosperam os argumentos lançados pela parte embargante quanto a falta de análise da decisão de admissibilidade proferida na origem, fundada na incidência da Sumula 83 do STJ, pois "a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais (AgInt no AREsp 1686946/MA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.)
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, indicou genericamente violação de lei federal sem particularizar quais dispositivos teriam sido contrariados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera indicação genérica de lei federal, sem particularizar seus dispositivos.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente violação de lei federal, sem, contudo, apontar especificamente qual artigo considerava violado (v. fls. 265 e 274).
+Equivoca-se a parte embargante ao apontar contradição nesse mister, pois a legislação por ele aduzida, MP 2.180-35/01 e a Lei n. 4.414/64, foi mencionada em precedente citado na decisão embargada como reforço.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
