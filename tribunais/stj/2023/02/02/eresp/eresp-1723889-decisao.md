@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Embargos de Divergência interpostos por FIBRIA CELULOSE S.A. E OUTROS, com amparo nos arts. 1.043 do Código de Processo Civil de 2015 e 266 do Regimento Interno do Superior Tribunal de Justiça, contra acórdão da 2ª Turma desta Corte(AgInt no REsp 1.723.889/SP, rel. Ministro Mauro Campbell Marques, j. 25.06.2019).
+Apontam as Embargantes a existência de dissenso entre o acórdão embargado e arestos proferidos pela 1ª Turma deste Superior Tribunal(REsp n. 1.366.437/PR, rel. Ministro Benedito Gonçalves, j. 03.10.2013; eAgInt no REsp n. 1.486.991/MT, rel. Ministro Gurgel de Faria, j. 27.04.2017).
+Nas razões recursais, alega-se, em síntese, que: (i) " ..  embora ambas as Turmas admitam a apropriação de créditos de ICMS sobre a aquisição de produtos intermediários, verifica-se que elas divergem em relação à definição desse conceito"; e " ..  a prova deve recair sobre a essencialidade dos produtos à consecução do objeto social do contribuinte, independentemente desses produtos se desgastarem gradativamente  .. " (fl. 807e).
+Ao final, asseveram que "a divergência está em que enquanto a 2ª Turma emprega definição de que intermediários seriam, apenas, os produtos consumidos imediata e integralmente em alguma etapa da industrialização, ou que se integram ao bem produzido, a 1ª Turma alberga na definição os produtos que são essenciais à consecução das atividades do contribuinte, independentemente de sofrerem desgaste gradual" (fl. 841e).
+Acompanham o recurso os documentos de fls. 844/888e.
+Os autos foram distribuídos a esta relatoria em 18.11.2019 (fl. 893e).
+Após a admissão da insurgência, oESTADO DE SÃO PAULO apresentou impugnação, na qual assinala:
+(i) os Embargos de Divergência não prosperam " ..  haja vista que demandariam, para o seu acolhimento, o reexame do conjunto fático-probatório  .. . Além disso, não há divergência jurisprudencial na espécie", porquanto " ..  ambas as turmas entendem que para que haja o creditamento  ..  é imprescindível a demonstração de que tais insumos integram o processo produtivo do contribuinte, isto é, de que são essenciais ao exercício da atividade produtiva". Logo, seriam compreensões, tão somente, complementares (fls. 899e; e 903/904e);
+(ii) que " ..  não poderia a Embargante se creditar dos valores dos materiais discutidos no presente caso, haja vista que o Tribunal de origem assentou que os adquiriu na condição de destinatária final, não os enquadrando como intermediários ao processo produtivo  .. " (fl. 904e).
+Às fls. 921/928, não se conheceu dos Embargos de Divergência.
+Posteriormente, ao apreciar Agravo Interno interposto pelas Embargantes, em juízo de retratação, reconsiderou-se o apontado decisum para restabelecer a decisão que admitiu a insurgência (fls. 1.030/1.031e).
+O pedido das Embargantes de afetação ao rito dos recursos repetitivos não foi conhecido (fls. 911/919e; e 1.036e).
+Após inclusão do feito em pauta, sobreveio a notícia de que o crédito objeto da ação executiva fiscal encontrava-se remitido (fls. 1.044/1.047e), sendo tal informação confirmada pela Embargada em momento posterior, oportunidade na qual foi apontada a ausência de interesse recursal (fls. 1.054/1.055e).
+Instada a manifestar-se, a Embargante registra a "perda de objeto do presente recurso" e requer a remessa dos autos à origem, com o fim de que seja extinta a execução fiscal correspondente (fl. 1.060/1.062e).
+É o relatório.
+Cuida-se, na origem, de embargos à execução fiscal, cujo débito em cobrança advém de auto de infração pela suposta ilegalidade na compensação de crédito decorrente da não cumulatividade do Imposto sobre Operações de Circulação de Mercadorias e Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS.
+Diante da manifestação da Embargante no sentido da "perda de objeto do presente recurso", bem como da alegação da Embargada de ausência de interesse recursal, revela-se inviável a apreciação do recurso em tela.
+Posto isso, com fundamento nos arts. 485, VI, do Código de Processo Civil de 2015, combinado com o art. 34, XI, do Regimento Interno desta Corte, JULGO PREJUDICADO OS EMBARGOS DE DIVERGÊNCIA, em razão da carência superveniente de interesse processual.
+Defiro o pedido da Embargante de remessa dos autos ao Juízo de primeiro grau.
+Publique-se e intimem-se.
