@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto porAMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que inadmitiu recurso especial por ausência de violação do art. 1.022, II, do CPC e por incidência da Súmula n. 7 do STJ.
+Alega aagravanteque os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 62):
+Agravo de instrumento. Cumprimento de sentença. Recurso interposto em face de decisão que julgou improcedente a impugnação oferecida pela agravante.Inconformismo. Descabimento. Agravante que não deu cumprimento à tutela jurisdicional concedida pela sentença proferida nos autos nº1025657-20.2020.8.26.0100, mantendo o agravado em plano individual quando deveria tê- lo recolocado em plano familiar. Descumprimento de obrigação caracterizado. Astreintes fixadas em patamar condizente com os princípios da razoabilidade e da proporcionalidade, inexistindo razão para sua alteração.
+Decisão mantida. Recurso não provido.
+Nas razões do recurso especial, aora agravanteapontaviolação do art. 1.022, II, do CPCpor não ter o Tribunal a quo se manifestado a respeito da tese de que a multa não deve ultrapassar a obrigação principal.
+Alega também violação dos arts. 537, §1º, II, do CPCe 884 do CC.Defende que as astreintes não devem revestir-se de caráter indenizatório, viabilizando o enriquecimento sem causa do credor, bem comoque devem ser fixadas conforme os princípios de razoabilidade e da proporcionalidade.
+Requer o provimento do recurso para que seja a multa excluída ou para que seja reduzidoseu valor. Pede também que as intimações e notificações sejam realizadas em nome do advogado Paulo Roberto Vigna (OAB/SPn. 173.477)e que seja o nome inserido na contracapa dos autos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Violação dos arts.537, § 1º, II, do CPC e 884 do CC
+Insurge-se a recorrentecontra o valor da multa cominatória imposta em virtude do descumprimento dadecisão que determinou o restabelecimento da parterecorridano plano de saúde familiar, pois, segundo alega,ultrapassao valor da obrigação principal, ferindo os princípios darazoabilidade e da proporcionalidade.
+O Superior Tribunal de Justiça já sedimentou entendimento no sentido de que a verificação da existência de exorbitância das astreintes por descumprimento de decisão judicial não pode ser baseada apenas na comparação entre a quantia totale o valor da obrigação principal, devendo ser analisado o valor estabelecido diariamente como multa(REsp n. 1.967.587/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/6/2022, DJe de 24/6/2022;AgInt no REsp n. 1.931.697/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022;REsp n.1.736.832/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2019, DJe de 6/3/2019;AgInt no REsp n. 1.914.269/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Além disso, aanálise da questão relativa à reduçãodas astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia, salvo se o arbitramento for excessivo ou ínfimo, o que não ocorreu na espécie.
+Nesse sentido: AgInt no AREsp n. 1.784.618/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022; REsp n. 1.929.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022.
+No caso, o Tribunal de origem, com base na análise das especificidades do caso, manteve a imposição da multapor considerá-larazoável,proporcionaleem conformidade com o disposto no art. 537 do CPC, ressaltando ainda o poder econômico da recorrente e o descumprimento da obrigação.Segue trecho do julgado(fls. 68-67,destaquei):
+No caso, diante das circunstâncias específicas, reputo que o valor das astreintes objeto do presente recurso, fixadas em R$ 5.000,00 por dia (cinco mil reais) e limitadas em R$ 200.000,00, se mostra razoável, tendo observado os princípios da razoabilidade e proporcionalidade, além de estar em consonância com os critérios acima mencionados para o estabelecimento das astreintes, inclusive considerado o poder econômico da agravante e o efetivo descumprimento da obrigação, não configurando hipótese para aplicação do art. 537, § 1º, doCPC.
+Assim, aplica-se ao casoa Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto,nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do art. 85, § 11, do CPC, em razão da inexistência de prévia fixação pela origem.
+Publique-se. Intimem-se.
