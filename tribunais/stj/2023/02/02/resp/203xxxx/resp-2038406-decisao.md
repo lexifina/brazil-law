@@ -1,0 +1,22 @@
+DECISÃO
+JEFFERSON SILVA NASCIMENTOinterpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1501314-21.2021.8.26.0599).
+Consta dos autos que orecorrente foi condenado, em primeiro grau,a 1anoe 8meses de reclusão, em regime inicial aberto, mais multa, pela prática docrimeprevistonoart. 33, caput, e § 4º, da Lei de Drogas.
+O Tribunal de origem deuprovimento ao recurso da acusação a fim de afastar a incidência da minorante e condenar o réu 5 anos de reclusão, em regime fechado, mais multa.
+Nas razões do recurso especial, a defesa aponta violação dos arts.33, § 4º, ambos da Lei n. 11.343/2006e 33, § 2º, "b", do Código Penal. Pugna pelaincidência da minorante prevista no art. 33,§ 4º, da Lei n. 11.343/2006, a fixação de regime menos gravoso e a substituição da pena privativa de liberdade por restritivas de direitos.
+Decisão de admissibilidade àfl. 325.
+O Ministério Público Federal manifestou-se peloprovimento do recurso.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, a instância de origem afastou a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pois "a quantidade de drogas apreendida em seu poder- 198 g  ..  de maconha, distribuídos em 121 invólucros e 12,8 g  ..  de crack, distribuídos em 83 invólucros- torna inviável a aplicação da benesse em comento" (fls. 284-285).
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, a quantidadede drogas apreendidas foi sopesadapara, isoladamente, levar à conclusão de que o réu seria dedicadoa atividades delituosas, reputo evidenciada a apontada violação legal.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve o recurso ser provido,a fim de aplicar, em favor do acusado, o referido benefício.
+Por conseguinte, restabeleço a sentença condenatória, no ponto em queaplicou o redutor em 2/3, fixou pena do recorrente em 1anoe 8 meses dereclusão e pagamento de 166 dias-multa, estabeleceu o regime inicialaberto e determinou a substituição da reprimenda privativa de liberdadepor prestação de serviços à comunidade e prestação pecuniária.
+À vista do exposto, conheço do recurso especial para dar-lhe parcial provimento,a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado e, por conseguinte, restabelecer a pena aplicada na sentença condenatória, nos termos em que anteriormente explicitados(Processo n. 1501314-21.2021.8.26.0599, 1ª Vara Criminal da Comarca de Piracicaba - SP).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
