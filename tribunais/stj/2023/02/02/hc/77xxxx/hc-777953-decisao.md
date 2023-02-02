@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 44):
+APELAÇÃO CRIMINAL - FURTO SIMPLES (ART. 155,CAPUT, DO CP)- SENTENÇA CONDENATÓRIA- RECURSO DA DEFESA.
+PLEITO DE RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA - NÃO ACOLHIMENTO- MULTIRRENCIDÊNCIA ESPECÍFICA-VALOR DARES FURTIVA QUE ULTRAPASSA O LIMITE DE 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA-REQUISITOS DA BENESSE NÃO PREENCHIDOS- BENESSE INVIABILIZADA.
+I - A aplicação do princípio dainsignificânciade modo a tornar a ação atípica exige a satisfação, de forma concomitante, de certos requisitos, quais sejam, conduta minimamente ofensiva, a ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e lesão jurídica inexpressiva(STF, HC 110711, rel. Min. Gilmar Mendes, j. 14.02.2012).
+II -Inviável se mostra a aplicação do princípio da insignificância quando verificada a mutirreincidência específica,que indica especial reprovabilidade do comportamento do agente, e quando o valor dares furtivaultrapassa o limite de 10% do salário mínimo vigente à época dos fatos.
+PRETENDIDOABRANDAMENTO DO REGIMEINICIAL- SÚMULA 269 DO STJ - INAPLICABILIDADE - ACUSADO MULTIRREINCIDENTE ESPECÍFICO -REGIME SEMIABERTO DESARRAZOADO AOS PROPÓSITOS DA PENA CRIMINAL.
+Muito embora a orientação do Superior Tribunal de Justiça, consubstanciada na Súmula 269, permita a fixação do regime semiaberto a réu reincidente, condenado à pena inferior a 4 anos se as circunstâncias judiciais forem favoráveis, no caso dos autos trata-se de multirreincidência específica, demonstrando que a fixação do regime semiaberto não se mostra suficiente à reprovação do crime(AC n.0000448-51.2015.8.24.0018, rel. Des. Rui Fortes, j. em 03.05.2016).
+RECURSO DESPROVIDO.
+O paciente foi condenado, como incurso no art. 155, caput, do CP, à pena de 1 ano, 2 meses e 24 dias de reclusão, em regime inicial fechado, e pagamento de 13 dias-multa.
+Sustenta a impetrante ser necessário o reconhecimento da atipicidade material, pela insignificância da conduta, qual seja, furto de "uma bicicleta avaliada em R$ 350,00, equivalente a 28,8% do salário mínimo da época, restituída à vítima" (fl. 6), ainda que se trate de réu multirreincidente específico, de forma a absolver o acusado.
+Busca, subsidiariamente, o abrandamento do regime prisional, em observância à Súmula 269/STJ.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+Decido.
+Ao afastar a incidência do princípio da insignificância, dispôs o acórdão impetrado (fls. 46-47):
+Segundo narra a denúncia:
+No dia 28 de abril de 2022, por volta das 11h, na rua Brusque, 473, bairro Dom Bosco, nesta cidade, o denunciado Jean Carlos Bezerra, agindo com evidente animus furandi e aproveitando-se do fato de que uma bicicleta encontrava-se sem cadeados no estacionamento do estabelecimento Patrimonial, subtraiu o bem pertencente a vitima Emerson Vieira Rota em proveito próprio, deixando o local em posse da res furtiva. Por ocasião dos fatos, os policiais militares Thalita Rosa da Silva e Douglas Tancredo Amorim foram acionados para atender a ocorrência de furto e, chegando ao local, encontraram o denunciado detido pelo policial civil Inedson Antonio Conceição. Em virtude desse fato, os policiais militares deram voz de prisão ao denunciado e o conduziram à presença da autoridade policial, para a tomada das providências pertinentes. Assim agindo, o denunciadoJEAN CARLOS BEZERRA infringiu o disposto no art. 155, caput, do Código Penal  .. .
+ ..
+E, face às circunstâncias do caso concreto, não há que se falar na aplicação da ideia de bagatela.
+Com efeito, forçoso observar queares furtivaconstituiu-se da quantia de R$ 350,00,superandoo limite de 10% do salário mínimo vigente à época do fato (R$ 1.212,00),circunstância estaadmitidapela jurisprudência para fins de sopesamentodo elemento dainexpressividade da lesão jurídica provocada (STJ, AgRg no HC nº 744.228/SC, rel. Min. Laurita Vaz, j. em 14.06.2022; AgRg no AREsp nº 1.940.600/DF, rel. Min. João Otávio de Noronha, j. em 24.05.2022).
+Além disso, se está diante de réu multirreincidente específico (segundo o sentenciante, "observa-se que o réu é multirreincidente, havendo 5  cinco processos geradores de reincidência  evento 3, certidões 4, 7 e 10 ").
+E, depois de tudo, agora, mais uma persecução se soma: a presente!
+Frente a todo exposto, inviável a incidência do princípio almejado.
+Háde incidir, nesteparticular, portanto, a exegese de que "a pertinência do princípio dainsignificânciadeve ser avaliada considerando os aspectos relevantes da conduta imputada. A habitualidade e areincidênciadelitiva revelam reprovabilidade suficiente a afastar a aplicação do princípio dainsignificância" (HC 118514, rel. Min. Rosa Weber, j. 19.11.2013).
+A multirreincidência específica, aliás, tornadesarrazoada a atipicidade - o querepresenta "maior desvalor da conduta aliado à personalidade do agente, voltada ao cometimento de delitos patrimoniais (reincidênciaespecífica)" (STF, HC 115147, rel. Min. Gilmar Mendes, j. 06.08.2013).
+Esta Corte tem entendimento pacificado no sentido de que não se há falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação;(c ) reduzido grau de reprovabilidade do comportamento;e(d)inexpressividade da lesão jurídica provocada (precedentes).
+O caso dos autos não atrai a incidência excepcional do princípio da insignificância, uma vez que, além de o valor da res furtiva superaro percentual de 10% (dez por cento) do salário mínimo vigente à época dos fatos -uma bicicleta avaliada em R$ 350,00-, trata-sede réu "multirreincidente, havendo 5  cinco  processos geradores de reincidência", consoante constou no acórdão objurgado, o que afasta o reduzido grau de reprovabilidade da conduta. Confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. VALOR DA RES FURTIVA. MULTIRREINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. INAPLICABILIDADE. RECLAMO DESPROVIDO.
+1. Na espécie, afigura-se inviável a aplicação do princípio da insignificância ao furto praticado quando, para além do valor da res furtiva exceder o limite de 10% do valor do salário-mínimo vigente à época dos fatos, o acusado é multirreincidente, ostentando diversas condenações anteriores por crimes contra o patrimônio, o que evidencia a acentuada reprovabilidade do seu comportamento, incompatível com a adoção do pretendido postulado.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.992.226/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 14/11/2022, DJe de 22/11/2022.)
+Quanto ao regime inicial de cumprimento da pena, constou do acórdão impetrado que,"não se desconhecendo o teor do enunciado de súmula n. 269 do STJ, tem-se como necessária a manutenção do regime fechado, já que, a despeito de não possuir circunstâncias judiciais negativas, trata-se de acusado multirreincidente específico" (fl. 47).
+Tal entendimento é contrário à jurisprudência desta Corte, segundo o qual"o enunciado da Súmula n. 269 é aplicável ao réu condenado a pena igual ou inferior a quatro de reclusão, caso as circunstâncias judiciais tenham sido favoravelmente avaliadas, ainda que o sentenciado seja multirreincidente específico"(AgRg no HC n. 324.602/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/2/2017, DJe de 16/2/2017.)
+Ante o exposto, concedo parcialmente o habeas corpus para fixar o regime inicial semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
