@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo deMIGUEL MILITAO DE MELLO em face de decisão proferida no TRIBUNALDO ESTADO DO ESTADO DE SANTA CATARINA - TJSC que não admitiu o seu recurso especial interposto com fulcro no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da apelação criminal n. 5000142-14.2020.8.24.0085/SC.
+Consta dos autos que oagravante foi condenadopela prática dodelitotipificadonoart.16, §1º, IV, da Lei n. 10.826/03(posse ilegal de arma de fogo de uso restrito),à pena de4 (quatro) anos, 4 (quatro) meses e 15 (quinze) diasde reclusão, em regime inicial fechado, além do pagamento de 11 (onze)dias-multa (fls. 140/141).
+Recurso de apelação interposto pela defesa foi desprovido, conforme o acórdão assim ementado:
+"APELAÇÃO CRIMINAL (RÉU SOLTO). CRIMES CONTRA O SISTEMA NACIONAL DE ARMAS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16, §1º, IV, DA LEI 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO EXCLUSIVO DA DEFESA. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL.
+RECURSO CONHECIDO E DESPROVIDO.
+- O ARTIGO 33, §2 9 , ALÍNEA "B", DO CÓDIGO PENAL, É CLARO AO DISPOR QUE "O CONDENADO NÃO REINCIDENTE, CUJA PENA SEJA SUPERIOR A 4 (QUATRO) ANOS E NÃO EXCEDA A 8 (OITO), PODERÁ, DESDE O PRINCÍPIO, CUMPRI-LA EM REGIME SEMI-ABERTO". NA HIPÓTESE, A PENA RESTOU CONSOLIDADA ACIMA DE 4 (QUATRO ANOS) E, EM QUE PESE SEJA INFERIOR A 8 (QUATRO) ANOS, MILITA EM DESFAVOR DO APELANTE A REINCIDÊNCIA E A PRESENÇA DA CIRCUNSTÂNCIA JUDICIAL DOS MAUS ANTECEDENTES." (fl. 199).
+Embargos de declaração opostos pela Defesa não foram conhecidos(fls. 227/229).
+Em sede de recurso especial (fls. 239/252), a Defesa apontou violação aoart.93, IX, da Constituição Federal e art. 371 doCódigo de Processo Civil - CPC, porque o TJ manteve o aumento da pena-base e o regime fechado.
+Alega que a pena-base foi aumentada em 1/6, sendo que o acórdão não motivou de maneira adequada amajoração, apenas se referindo a 2 (dois) processos já transitados em julgado que não geram reincidência.
+Assevera que "para aplicação do regime inicial não basta a análise objetiva da quantificação da pena, mas sim uma atenta e aprofundada verificação do caso concreto, o qual, no presente caso, diante da ausencia de qualquer reicidencia do Recorrente, bem como, pelas circunstacias pessoais que abonam sua conduta, deve a priori ser imposto um regime mais brando, qual seja, o regime semiaberto para eventual cumprimento incial da pena condenatória." (fl. 250).
+Requer a readequação da reprimenda , com a fixação do regime semiaberto.
+Contrarrazões ao recurso (fls. 257/265). O recurso especial não foi admitido em razão de: a) incabível o recurso especial visando apreciar dispositivo da CF; b) óbice da Súmula n. 282 do Supremo Tribunal Federal - STF; c)óbiceda Súmula n. 7 do Superior Tribunal de Justiça - STJ; e c)óbices das Súmulas n. 284 do STF e n. 86/ STJ(fls. 268/272).
+Agravo em recurso especial (fls. 280/289).Contraminuta (fls. 293/297).
+Aberta vista ao MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 319/322).
+É o relatório.
+Decido.
+Na petição de agravo em recurso especial, o agravante, ao tratar da decisão de inadmissibilidade do recurso especial, sequer menciona os referidos óbices, mas apenas faz referência ao artigo 5º da Constituição Federal,sem refutar os fundamentosdo decisum.
+Destarte, oagravo em recurso especial não deve ser conhecido por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade proferida no TJSP, consoante o art.932, III, do Código de Processo Civil de 2015- CPC. Citam-seprecedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.PENAL. ARTS. 306 E 307 DA LEI N. 9.503/1997. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA.INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ADC"S N. 43, 44 E 54. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à incidência das Súmulas 284 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental desprovido. Habeas corpus concedido, de ofício, para revogar a determinação de execução provisória da pena.
+(AgRg nos EDcl no AREsp 1619957/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 4/8/2020).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. PENAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO.AUSÊNCIA. MÉRITO. ANÁLISE. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente a impugnação específica, concreta e pormenorizada aos fundamentos da decisão agravada, sendo assim, é inadmissível o regimental, conforme previsão do art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, bem assim pela incidência da Súmula n.º 182 do Superior Tribunal de Justiça.
+2. O Agravante não trouxe nenhum precedente contemporâneo àqueles mencionados na decisão agravada que demonstrasse que o acórdão recorrido estaria em desarmonia com a jurisprudência atual do Superior Tribunal de Justiça, motivo pelo qual não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada.3. Tão-somente quando o agravo em recurso especial é conhecido, o que depende da impugnação de todos os fundamentos da decisão que inadmitiu o apelo nobre, é que se torna possível o exame da admissibilidade das questões suscitadas no recurso especial. O conhecimento de questão trazida no recurso especial em relação à qual não houve a impugnação do fundamento utilizado pelo Tribunal de origem para inadmitir o recurso especial, constituiria indevida manifestação, desta Corte Superior, sobre questões atingidas pela preclusão consumada em decorrência da inércia da parte.
+4. Não ultrapassado o juízo de admissibilidade recursal, inviável a análise dos temas de mérito nele deduzidos.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1404976/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 2/12/2019).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1199706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/5/2018).
+Ademais, no tocante ao indulto natalino (Petição n. 00011679/2023), a pena máxima em abstrato do crime supera o patamar de 5 (cinco) anos de reclusão, a teor do art. 5º doDecreto nº. 11.302, de 22 de dezembro de 2022, impondo-se o indeferimento do pedido.
+Diante do exposto, com fundamento no art. 932, inc. III, do CPC, e no art. 253, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
