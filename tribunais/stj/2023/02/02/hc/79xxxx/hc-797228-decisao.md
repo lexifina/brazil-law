@@ -1,0 +1,28 @@
+DECISÃO
+ANDERSON LEMES DO PRADO, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelaçãon. 0006872-23.2017.8.26.0297.
+Depreende-se dos autos que o réu foi condenado a 3 anos, 1 mês e 10 dias de reclusão, em regime fechado, mais 15 dias-multa, pela prática do crime de furto.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de reduzir a pena para 2 anos e 8 meses de reclusão mais 13 dias-multa.
+Neste habeas corpus, alega a impetrante que não foi reconhecida a bagatela, apesar do valor ínfimo do montante subtraído.
+Pede seja aplicado o princípio da insignificância.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O acórdão atacado asseriu o seguinte:
+Em tese, o fato narrado na denúncia é típico e antijurídico, e tudo o mais é questão meramente acadêmica, ao gosto dos laxistas, os que se colocam acima da lei positivada. Acolher-se a tese do "crime de bagatela" equivale a conceder-se o perdão judicial em hipótese não prevista na lei penal, ou a conceder-se indevida "abolitio criminis", decretada por quem não tem poderes para tanto.
+ ..
+Note-se, ademais, que os bens que o réu pretendia subtrair foram avaliados num total de R$ 145 (cento e quarenta e cinco reais),conforme se verifica do auto de fls. 31, quantia essa que evidentemente não pode ser considerada insignificante.
+ ..
+Na primeira fase, prestigiados os mesmos critérios utilizados pelo Magistrado sentenciante para fixar a pena-base do réu, notadamente a presença de duas qualificadoras (já que uma delas serviu para qualificar o crime, sendo que a outra deve ser utilizada como circunstância judicial desfavorável, por representar maior gravidade na conduta do agente), o antecedente criminal do réu devidamente comprovado pela certidão cartorária de fls. 89/93, (referente ao Processo nº 1012-80.2013), além do grande prejuízo de ordem material que a vítima sofreu, em razão dos danos no seu estabelecimento comercial (aproximadamente R$ 4.000,00), conservo o aumento da básica em 1/3, perfazendo 02 anos e 08 meses de reclusão, mais o pagamento de 13 dias-multa, no patamar raso.
+Na etapa subsequente, o Juíza quo majorou a pena em mais 1/3, em virtude da agravante da multirreincidência específica do acusado (cf. aludida certidão - referente aos Processos nºs1013-65.2013, 1014-50.2013 e 5181-13.2013, além do artigo 61, inciso I, do Código Penal) e, sem seguida, reduziu-a em 1/6, pela atenuante da confissão espontânea (cf. artigo 65, inciso III, alínea "d", do Código Penal), considerando que a agravante da recidiva deve preponderar sobre a atenuante da confissão.
+(fls. 26-28, destaquei)
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento doREsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitivae dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, odiálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registrosde vida pregressadevemser entendidos comoelementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal-que podeser incompatível com a exclusão da punibilidade- e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se comoprincípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o própriolegislador penal confere importância aos registros na folha de antecedentespara o cômputo da reprimenda, como ocorrena privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses paraagentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade deindividualizar a pena.
+Na espécie, o réu multirreincidente específicofoi acusado de haver subtraído de estabelecimento comercial bens avaliados em R$ 145,00, equivalentes a 15,47% do salário mínimo vigente na época dos fatos.
+Em que pese o valor relativamente reduzido dos bens furtados, a multirreincidência específica, o prejuízo de cerca de R$ 4000,00 causado ao estabelecimento e a configuração de qualificadora do furto justificam oprosseguimento da atividade punitiva estatal.
+Sob essas premissas, verifico que, no caso vertente, há elementos que revelam a lesão ao bem jurídico tutelado, a recomendar a atividade punitiva estatal.
+Diante do exposto, denego a ordem.
+Publique-se e intimem-se.
