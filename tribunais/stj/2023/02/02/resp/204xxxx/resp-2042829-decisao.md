@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pela CONTRIBUINTE com fulcro no permissivo do art. 105, III, "a" e "c", da Constituição Federal de 1988, contra acórdão que restou assim ementado (e-STJ fls. 231/242):
+TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DO ICMS-ST NA BASE DECÁLCULO OU CREDITAMENTO AO SUBSTITUÍDO. IMPOSSIBILIDADE. PRINCÍPIO DA NÃO-CUMULATIVIDADE.
+1. No âmbito do regime não-cumulativo do PIS e COFINS (Leis nº10.637/02 e 10.833/03), não tem o substituído tributário direito ao creditamento dos valores que pagou ao contribuinte substituto(importador/fabricante/fornecedor), a título de reembolso do recolhimento antecipado do ICMS-substituição.
+2. O tributo estadual está embutido no preço perpetrado pelo contribuinte substituído e, por conseguinte, em seu faturamento, base de cálculo da contribuição ao PIS e da COFINS. Portanto, não se reconhece o direito do contribuinte ao abatimento, da base de cálculo do PIS e da COFINS, dos valores pagos a título de ICMS-ST, seja pelo substituto, seja pelo substituído.
+Os embargos de declaraçãorestaram rejeitados(e-STJ fls. 275/281).
+Alega arecorrente CONTRIBUINTE que tem direito ao creditamento de PIS e COFINS sobre os valores desembolsados referente ao ICMS-ST destacado nas notas fiscais de aquisição de mercadoria, eis que estes compreendem custo de aquisição (e-STJ fls. 292/314).
+Contrarrazões nas e-STJ fls. 324/340.
+Recurso regularmente admitido na origem(e-STJ fls. 343/344).
+É o relatório. Passo a decidir.
+Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Precedentes: REsp. n. 1.116.473 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.02.2012; AgInt no REsp n. 1.468.671/RS, Primeira Turma, Rel. Min. Sérgio Kukina,, DJe de 30.03.2020; AREsp n. 1.641.118/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 25.06.2020; AgInt no AREsp n. 744.582/SC, Quarta Turma, Rel. Min. Luis Felipe Salomão, DJe de 01.06.2020; AgInt no AREsp n. 1.305.693/DF, Quarta Turma, Rel. Min. Raul Araújo, DJe de 31.03.02020; AgInt no REsp n. 1.475.626/RS, Terceira Turma, Rel. Min. Moura Ribeiro, DJe de 04.12.2017; AgRg no AREsp n. 546.951/MT, Quinta Turma, Rel. Min. Felix Fischer, DJe de 22.09.2015; e REsp n. 1.304.871/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 01.07.2015.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL DO PARTICULAR:PROCESSUAL CIVIL. ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO (ART. 932, III, DO CPC/2015 C/C ART. 255, § 4º, I, DO RISTJ).
