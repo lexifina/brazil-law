@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de mandado de segurança ajuizado por RODRIGO ALEXANDRE AZEVEDO ARAÚJO contra ato coator da FUNDAÇÃO UNIVERSIDADE DO ESTADO DE MATO GROSSO, pleiteando seja determinado à autoridade coatora que nomeie o impetrante no cargo ao qualfoi aprovado, técnico da Área instrumental do Governo, polo de Cuiabá/MT, na categoria de Portador de Necessidades Especiais  PNE.Na sentença julgou-se procedente o pedido. No Tribunal a quo a sentença foi reformada, por considerar o juízo sentenciante incompetente. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO APELAÇÃO É REEXAME NECESSÁRIO MANDADO DE SEGURANÇA CONCURSO PÚBLICO DECISÃO MONOCRÁTICA QUE DECLAROU A INCOMPETÊNCIA ABSOLUTA OBSERVÂNCIA DO ARTIGO 6º §3º DA LEI Nº 120162009 RECURSO DESPROVIDO
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Na origem" .. trata-se de ação de Mandado de Segurança, impetrado por Rodrigo Alexandre de Azevedo Araújo: em, face do Diretor de Concursos e Vestibulares da Universidade do Estado de Mato Grosso  UNEMAT i -que foi concedida a segurança pleiteada, julgando, extinto o processo, com julgamento de mérito, determinado à autoridade coatora que nomeie o impetrante no cargo ao quai foi aprovado, técnico da . Área instrumental do Governo, polo de Cuiabá/MT, na categoria de Portador de Necessidades Especiais  PNE.
+Foi alegado nos autos a incompetência absoluta do juízo para conhecer da matéria, considerando que o ato praticado é decorrente da autoridade coatora, Diretor de Concursos e Vestibulares da FUNEMAT- Fundação do Estado de Mato Grosso, devendo a ação ser julgada no Juízo da Comarca de Cáceres/MT, que seria a sede..
+Quanto a questão da incompetência do juízo, em se tratando de mandado de segurança, a competência se fixa de acordo com a autoridade que pratica ou ordena concretoe especificamente a execução ou a inexecução do ato impugnado; é aquela que detém legitimidade para coirigir eventual erro.
+ ..
+Constata-se que a"Ação Mandamental fora interposta em face do ato praticado pelo Diretor de Concursos e Vestibulares da Universidade de Mato Grosso ,  UNEMAT, indicando como endereço a sua sede funcional, situada à Av. Tancredo  Neves, 1.095, Bairro Cavalhada, no Município de Câceres/MT, lá exercendo suas atividades.
+Desta . feita, indicada erroneamente a autoridade tida comosuficiente para fins de provimento ao recurso.
+Não obstante o decisório ter declarado a incompetência do Juizo da 3º Vara ESpecializada da Fazenda Pública, diante da natureza jurídica do manclarnus, há de ser mantido os efeitos da segurança que foi . concedida, ate a reapreciação do writ "pelojuizo competente.
+Isso posto, nego provimento ao recurso, para manter a decisão agravada pelos seus próprios e jurídicos fundamentos.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
