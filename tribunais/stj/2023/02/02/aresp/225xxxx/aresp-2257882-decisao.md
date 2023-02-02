@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONQUEST ADMINISTRADORA E PARTICIPAÇÕES LTDA contra decisão que inadmitiu o recurso especial ante a incidência dasSúmulas n. 5, 7 e 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III,ae c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça local(Apelação Cível n. 0003809-84.2020.8.16.0160)assim ementado (fl. 340):
+Revisional. Compromisso de compra e venda de lote urbano. Rescisão contratual requerida pelo promissário comprador com fundamento na sua impossibilidade econômica de continuar o pagamento das parcelas restantes. Pagamento de 5 das 150 parcelas avençadas. Quitação em montante ínfimo ao compromissado. Majoração da retenção de 10% para25% da quantia paga. Possibilidade. Precedentes do STJ e desta Corte. Retenção de taxa de publicidade, comissão de corretagem e encargos tributários. Impossibilidade no caso. Juros de mora. Termo inicial dos juros de mora. Trânsito em julgado da condenação.
+Recurso conhecido e provido em parte.
+Nas razões do recurso especial, a parte recorrente aponta violação do art.927, III, do Código de Processo Civil. Defende a retenção de comissão de corretagem, em razão da tese firmada na oportunidade do REsp n. 1.599.511/SP, julgado sob o rito dos recursos repetitivo - Tema n. 938, sob a alegação de que prestou a devida informação ao adquirente imobiliário.Aduzaindadissídio jurisprudencial nesse sentido.
+Requero conhecimento e provimento do recurso.
+As contrarrazões não foram apresentadas.
+É o relatório. Decido.
+O recurso não deve prosperar.
+A Corte de origem analisou a questãoe concluiu o seguinte (fl. 343):
+Feitas essas considerações, ao analisar o "Contrato Particular de Compromisso de Compra e Venda de Lote Urbano" (mov. 1.9 - fls. 7), infere-se que há previsão contratualpara despesas de corretagem na cláusula "VII - Da Rescisão" "da cláusula a1"acerca obrigação de pagamento da taxa de corretagem, no valor de 7% sobre o preço corrigido do imóvel:
+ ..
+Em que pese mencione a comissão de corretagem, não há especificação ou discriminação pormenorizada dos valores devidos, apenas menção de um percentual incidente sobre o preço corrigido do imóvel no momento da retenção, de modo que o caso não atende aos requisitos previstos no REsp 1599511/SP.
+Deste modo, inexiste no contrato informação clara sobre a exatidão do valor pago a título de comissão de corretagem, requisito essencial para que a disposição contratual seja hígida, consoante entendimento da Corte Superior. Verifica-se, ademais, que não restou comprovada a atuação de corretor na transação em comento.
+No que se refere à alegada violação do art.927, III, do Código de Processo Civil, observa-se que o Tribunal a quoafastou a retenção da denominada taxa de corretagemsob o fundamento de que "inexiste no contrato informação clara sobre a exatidão do valor pago a título de comissão de corretagem, requisito essencial para que a disposição contratual seja hígida" (fl. 343).
+Nesse contexto, a pretensão de novo pronunciamento a respeito dos termos do contratoe da sua resolução nesta instância especial, implicaria na análise de cláusulas contratuais e reexame de matéria fático-probatória dos autos, medidas inviáveisem recurso especial em face do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZATÓRIA. NEGÓCIO JURÍDICO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. RESSARCIMENTO DE VALORES. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusula contratual (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos e o contrato celebrado para concluir pela ilegitimidade passiva dos réus quanto à obrigatoriedade de pagar os encargos cobrados pelos autores. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.030.561/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre a parte ora agravante, pois a tese arguida em relação ao apelo especial, com base na alínea a do permissivo constitucional,foi afastada pela impossibilidade de reexame de prova (Súmula n. 7 do STJ), nesta instância especial, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Nessa linha de entendimento, confiram-se os seguintes julgados: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que se trata de sentença prolatada sob a égide do CPC/73.
+Publique-se. Intimem-se.
