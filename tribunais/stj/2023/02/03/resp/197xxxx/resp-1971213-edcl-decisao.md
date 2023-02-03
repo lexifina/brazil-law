@@ -1,0 +1,19 @@
+DECISÃO
+ALEXANDRE MAYRINCK GOMES DA FONSECA opõe embargos de declaração à decisão de fls. 1.333-1.337, que conheceu do recurso especial e negou-lhe provimento.
+Em suas razões, a parte embargante alega a ocorrência de omissão, uma vez que a matéria arguida no recurso especial - violação literal de dispositivo legal - deixou de ser apreciada.
+Sustenta que "Como se verifica da peça recursal, o ora embargante arguiu a nulidade de sentença por violação literal do que ordena o Código de Processo Civil em seu art. 298, § único" (fl.1.340).
+Afirma que (fl. 1.340):
+Tal dispositivo garante aos litisconsortes remanescentes o PRAZO para apresentação de defesa, previsto em lei, após a sua intimação quanto ao deferimento da desistência. Sendo certo afirmar que, não havendo tal intimação NÃO se pode aplicar os efeitos da REVELIA. E é esse o ponto fulcral não só da ação rescisória como a TAMBÉM do recurso de revista interposto.
+Acrescenta que (1.341):
+No caso em tela, a hipótese da presente ação é previsto no art. 485, V do CPC/73, qual seja, violação frontal de dispositivo legal, além de não trazer a discussão qualquer matéria fática, mas tão somente matéria pura e exclusivamente de Direito, que se comprova independentemente de prova, mas sim por ato do próprio judiciário (certidão). Dar interpretação diferente, é negar vigência ao referido art. 485, V, do CPC/1973.
+Requer o acolhimento dos embargos de declaração para que sejam reconhecidas as omissões apontadas no julgado, "concedendo-lhe efeito modificativo" (fl. 1.342).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+Observa-se que o Tribunal a quo consignou que os autores foram regularmente citados. A Corte de origem assentou que "os autores das presentes ações rescisórias foram regularmente citados  ..  tiveram ampla possibilidade de exercer o contraditório e a ampla defesa, em pelo menos três oportunidades distintas" (fl. 323) e que, "por já terem sido regularmente citados,  ..  foram intimados da sentença proferida nos autos da ação de despejo, quando da publicação no diário oficial (fl. 322).
+O fato de o recorrente não ter sido intimado da desistência do autor de ação julgada procedente em nada inviabilizou o exercício do direito ao contraditório e à ampla defesa, uma vez que a desistência fora protocolada após a citação válida. Mesmo assim, o recorrente quedou-se inerte até o trânsito em julgado. Registre-se que, segundo o entendimento predominante desta Corte, não cabe a utilização de ação rescisória como sucedâneo recursal. Incidência da Súmula n. 83 do STJ.
+Nesse contexto, os fundamentos da decisão embargada foram claros no sentido de que concluir pela ausência de cerceamento de defesa e acolher as alegações demandaria reexame do conjunto fático-probatório, o que é vedado na instância especial, segundo o enunciado da Súmula n. 7 do STJ.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
