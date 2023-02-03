@@ -1,0 +1,33 @@
+DECISÃO
+Na origem, Diraldo Nunes Pereira interpôs agravo de instrumento contra decisão do Juízo de primeiro grau que, nos autos da execução de título extrajudicial ajuizada por Capricórnio Têxtil S.A. contra o agravante, considerou válida a citação do executado.
+A Décima Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao agravo de instrumento apenas para "determinar o desbloqueio dos valores de R$ 5.133,81 e R$ 5.945,45, depositados em conta-poupança de titularidade do agravante".
+O acórdão está assim ementado (e-STJ, fl. 41):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - Validade da citação por correio - Não obstante o aviso de recebimento tenha sido assinado por terceiro estranho à lide, foi entregue no endereço que o próprio executado declarou residir - Ademais, foram realizadas tentativas de citação em endereços localizados via pesquisa BACENJUD - Aplicação do art. 248, § 4º, do Código de Processo Civil - Impenhorabilidade de parte dos valores constritos, haja vista que estão depositado em poupança e não sobejam o montante de 40 salários mínimos - Inteligência do artigo 833, inciso X, do Código de Processo Civil - É impenhorável a quantia poupada de até 40 salários mínimos, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, desde que a única reserva monetária em nome do recorrente, o que não se observa no caso dos autos - Precedente do C. STJ - Natureza salarial dos valores constritos que não foi comprovada - RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Inconformado, Capricórnio Têxtil S.A. interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 932, III, e 996 do CPC.
+Ofensa ao princípio do duplo grau de jurisdição, considerando que o Juiz de piso sequer havia proferido qualquer decisão sobre a impenhorabilidade dos valores bloqueados.
+Apontou, ainda, ausência de interesse recursal, porquanto o recurso foi interposto contra decisão que intimou o executado a apresentar seus extratos bancários e não decidiu sobre a impenhorabilidade dos valores.
+Sem contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial sob os fundamentos de não demonstração da alegada vulneração aos dispositivos legais apontados e de incidência da Súmula 7 do STJ, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 121-124 (e-STJ).
+Brevemente relatado, decido.
+Na hipótese, o Tribunal de Justiça de São de Paulo, ao julgar os embargos de declaração opostos pelo exequente, afastou as alegações de falta de interesse recursal e de ausência de decisão acerca da impenhorabilidade dos valores, sob os seguintes fundamentos (e-STJ, fl. 97):
+A embargante CAPRICÓRNIO TEXTIL S/A alega que a decisão que manteve a penhora dos valores foi proferida após a interposição do agravo, razão pela qual não havia interesse recursal.
+De fato, verifica-se que a decisão que decidiu expressamente pela manutenção do bloqueio dos valores foi proferida algumas horas após a interposição do agravo de instrumento. A decisão agravada, por sua vez, havia apenas intimado o executado para juntar extratos das contas em que houve o bloqueio judicial, para que fosse analisada a alegação de impenhorabilidade do montante constrito.
+Contudo, fato é que, poucas horas depois da interposição do agravo, o d. juízo a quo proferiu decisão mantendo o bloqueio. Importante salientar que o agravante, em suas razões recursais, veiculou argumentos defendendo expressamente a impenhorabilidade da quantia e, por conseguinte, o respectivo desbloqueio.
+Outrossim, em sede de contraminuta, a ora embargante CAPRICORNIO TEXTIL S/A apresentou fundamentos para a manutenção do bloqueio, de forma que não houve qualquer prejuízo ao exercício do contraditório.
+No mais, os autos vieram conclusos à minha relatoria após o proferimento de ambas as decisões.
+Sendo assim, à luz dos princípios da instrumentalidade das formas e economia processual, não há falar em falta de interesse recursal do agravante.
+Todavia, verifica-se que o argumento adotado pela Corte a quo, acerca da ausência de prejuízo ao exercício do contraditório, não foi objeto de impugnação especifica nas razões do recurso especial, limitando a ora recorrente a defender a falta de interesse recursal do executado e a ofensa ao princípio do duplo grau de jurisdição.
+Assim, a manutenção de algum argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. SUCESSÕES. IMPUGNAÇÃO DE ESBOÇO DE PARTILHA. CONCLUSÃO DO TRIBUNAL BANDEIRANTE DE QUE O BEM IMÓVEL LEGADO PERTENCIA A PARTE DISPONÍVEL. REFORMA. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA Nº 283 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No iter do recurso especial não é possível reexaminar a conclusão do Tribunal bandeirante, soberano na análise das provas e elementos dos autos, de que a falecida genitora do recorrente, não dispôs de mais da metade da herança e que existiam bens suficientes para garantir a sua legítima (Súmula nº 7 do STJ).
+3. A ausência de impugnação no recurso especial de fundamento autônomo e suficiente para manutenção do acórdão recorrido atrai a incidência, por analogia, da Súmula nº 283 do STF.
+4. Recurso especial não conhecido. (REsp n. 1.908.766/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 25/05/2021, DJe 28/5/2021)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INTERESSE RECURSAL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO INATACADOS. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESEPCIAL.
