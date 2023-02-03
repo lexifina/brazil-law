@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIA LEUDA DOS SANTOS PEREIRA contra decisão do Tribunal de Justiça do Estado do Ceará, que inadmitiu seu recurso especial, fundado no art. 105, III, alínea "a", da Constituição da República.
+Nas razões recursais, a defesa sustenta violação dos artigos 118 e 120, ambos do Código de Processo Penal.
+Alega, em suma, a necessidade de restituição do bem apreendido (um automóvel), por pertencer à recorrente (terceiro de boa-fé), e, embora a ação penal movida em face de sua filha não tenha transitado em julgado, o veículo não mais interessaria ao processo.
+Ressalta que a ação penal já transitou em julgado para a acusação e que o recurso de apelação, interposto pela defesa, não versa sobre o referido bem.
+Requer o provimento do recurso para que seja determinada a restituição do veículo apreendido.
+Embora devidamente intimado, o recorrido não apresentou contrarrazões (e-STJ, fl. 143).
+O recurso foi inadmitido em face da incidência da Súmula 7/STJ (e-STJ, fls. 146-150). Daí este agravo (e-STJ, fls. 158-169).
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 188-191).
+É o relatório.
+Decido.
+A irresignação não prospera.
+Sobre a controvérsia, é imperioso observar que, ao contrário do que se afirma no agravo, a necessidade de se reexaminar as provas coligidas aos autos é providência inerente ao pleito recursal.
+Com base nos elementos probatórios, não obstante a afirmação da defesa de que o bem apreendido não mais interessaria ao processo, o Tribunal local esclareceu que "o veículo em tela foi apreendido após ter sido utilizado pela filha da apelante para praticar crime de roubo, conduta delitiva que resultou na prisão em flagrante desta e deu ensejo à Ação Penal n. 0004926-39.2017.8.06.0146, ainda em trâmite" (e-STJ, fl. 114).
+Concluiu, dessa forma, que, "não tendo a Ação Penal chegado ao seu fim, infere-se que o bem apreendido ainda interessa ao processo" (e-STJ, fl. 115). Acrescentou, ainda, o posicionamento da Procuradoria de Justiça a respeito da lide, a qual consignou que não seria possível afirmar com segurança a origem lícita do bem, pois a ré - filha da ora recorrente - teria confessado o seu envolvimento em outros crimes, como receptação e falsidade ideológica (e-STJ, fl. 116). Noutro giro, ainda segundo referido parecer, haveria indícios de ilicitude na aquisição do bem, tornando-se descabida, portanto, a pretensão recursal.
+Assim, imperioso concluir não ser possível reverter o entendimento adotado pelas instâncias ordinárias, como exposto, pois implicaria violação da Súmula 7/STJ. No mesmo sentido: AgInt no REsp 1.701.339/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/05/2018, DJe 21/05/2018 e AgRg no AREsp 235.716/AM, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/03/2014, DJe 02/04/2014.
+Dessarte, a restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem, conforme as exigências postas nos arts. 120 e 121 do Código de Processo Penal.
+A título de exemplo, confira-se julgado da Quinta Turma desta Corte, em que se manteve o indeferimento de pedido de restituição de valores apreendidos mesmo com a absolvição do réu, haja vista a existência de indícios de origem ilícita do dinheiro:
+"RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO QUE INDEFERIU RESTITUIÇÃO DE VALORES APREENDIDOS. INDÍCIOS DE ORIGEM ILÍCITA DA VERBA (TRÁFICO DE ENTORPECENTES). INADMISSIBILIDADE DA IMPETRAÇÃO: SÚMULA 267/STF. INEXISTÊNCIA DE TERATOLOGIA.
+1. Inadmissível o manejo do mandado de segurança como meio de impugnar decisão judicial que indeferiu o pedido de restituição de valores apreendidos em ação penal na qual o réu respondia por lavagem de dinheiro oriundo de tráfico de drogas, se tal tipo de decisão pode ser impugnada por meio da apelação prevista no art.
+593, II, do CPP, que, de regra, admite o efeito suspensivo. Óbices do art. 5º, II, da Lei 12.016/2009 e do enunciado n. 267 da Súmula/STF.
+2. Não padece de teratologia a decisão que, mesmo após o trânsito em julgado de acórdão que absolveu o réu da imputação de lavagem de dinheiro, indefere o pedido de restituição de valores apreendidos em sua posse durante operação policial, diante da existência de fortes indícios da origem ilícita do dinheiro, consubstanciados no comprovado envolvimento do réu com tráfico de drogas (delito pelo qual responde em outro processo), assim como no fato de que o valor apreendido fora encontrado em sua bolsa, separado em maços com nomes de terceiras pessoas.
+3. A restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem, conforme as exigências postas nos arts. 120 e 121 do Código de Processo Penal, c/c o art. 91, II, do Código Penal.
+4. Os documentos juntados aos autos não conseguem amparar a alegação da defesa de que o dinheiro apreendido pertencia ao pai e ao tio do recorrente e destinava-se à aquisição de caminhão, na medida em que os contratos de rescisão de trabalho apresentados como prova da origem lícita dos valores indicam o recebimento de quantias que somadas alcançam pouco mais da metade do montante apreendido.
+5. Recurso ordinário a que se nega seguimento."
+(RMS 50.550/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016, grifou-se)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
