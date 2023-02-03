@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Lucas Katsukawa Salustiano dos Santos, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo de Execução Penal n. 0005104-56.2021.8.26.0286.
+Consta dos autos que o Juízo da Execução indeferiu o pedido de remição da reprimenda do apenado, postulada após a aprovação do paciente no ENEM de 2019, em virtude da conclusão do ensino médio antes do início do cumprimento da pena.
+Irresignada, a defesa interpôs agravo em execução penal, desprovido pelo Tribunal a quo. Eis o teor da ementa:
+"AGRAVO EM EXECUÇÃO PENAL REMIÇÃO DE PENAS RECURSO DEFENSIVO: PLEITO DE REMIÇÃO DE PENA, PELA PRÁTICA DE CURSO PROFISSIONALIZANTE RECURSO NÃO CONHECIDO POR AUSÊNCIA DE JUNTADA DE DOCUMENTOS PLEITO DE REMIÇÃO DE PENA PELA PARTICIPAÇÃO A APROVAÇÃO NO ENEM DE 2019 NÃO ACOLHIMENTO CONCLUSÃO DO ENSINO MÉDIO ANTERIORMENTE AO INÍCIO DE CUMPRIMENTO DA PENA RECURSO DE AGRAVO CONHECIDO EM PARTE E NESTA, NÃO PROVIDO." (fl. 65)
+Na presente impetração, e defesa alega que, com a aprovação nas 5 matérias do ENEM de 2019, o paciente tem direito à remição de 100 dias da pena.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Todavia, tenho por prudente verificar a existência de eventual constrangimento ilegal a autorizar a concessão da ordem de ofício.
+A remição da pena do paciente foi indeferida pela Corte de origem, pelas seguintes razões:
+"Fixadas as diretrizes atinentes ao objeto recursal do presente Agravo em Execução Penal, passa-se à análise do caso concreto.
+O recorrente, cumprindo pena pelo crime de latrocínio, teve seus pedidos de remição de pena negados, pelo MM. Juiz de Direito Cassio Mahuad, respectivamente, em 29.11.2021 (fl. 142) e em 23.11.2021 (fls. 143/144), sob o fundamento, primeiro, de que os certificados não apresentavam os requisitos legais e, segundo, de que o executado já havia concluído o ensino médio antes do início do cumprimento da pena.
+ ..
+De outra parte, extrai-se do documento de fl. 140 que o recorrente concluiu o ensino médio em 23.12.2009, período anterior ao início do cumprimento de pena que se deu em 05/07/2011, segundo pesquisa no sítio deste E. Tribunal de Justiça Bandeirante.
+Assim, posterior aproveitamento no Exame Nacional do Ensino Médio em 2019 não tem o condão de lhe beneficiar com o pretendido abatimento, previsto no art. 1º, inc. IV, da Recomendação n.º 44/2013, do CNJ." (fls. 85/86)
+A Lei de Execução Penal prevê, em seu art. 126, a possibilidade de remição de parte do tempo de execução da pena, por trabalho ou por estudo, do condenado que cumpre a reprimenda em regime fechado ou semiaberto. Segundo reiterada orientação jurisprudencial deste Superior Tribunal de Justiça, como resultado de uma interpretação analógica in bonam partem da norma ali inserta, é possível a hipótese de abreviação da reprimenda em razão de atividades que não tenham previsão expressa no texto legal.
+Nessa ordem de ideias e à luz da aludida interpretação extensiva, entende-se cabível a remição para presos que estudam por conta própria. É certo que a aprovação no ENEM configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ. Todavia, no caso do inciso IV, do art. 1º, da Recomendação n. 44/2013 do CNJ, não é dispensado o requisito legal - nesse sentido a referência expressa ao art. 126, § 5º, da LEP - para a concessão da referida benesse, qual seja, a certificação, pelo órgão competente do sistema de educação, da conclusão, durante o cumprimento da pena, do ensino fundamental ou médio.
+No caso em exame, o paciente concluiu o ensino médio regular em momento anterior à prática do delito que deu origem à pena ora em cumprimento, antes, portanto, de iniciar o desconto da reprimenda, o que afasta, dessa forma, o preenchimento do requisito legal para a remição da pena pelo estudo, vale dizer, a conclusão do ensino médio durante o cumprimento da pena.
+A propósito do tema:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 126 DA LEP. PLEITO DE RECONHECIMENTO DA REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO) APÓS A CONCLUSÃO DO ENSINO MÉDIO. SENTENCIADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE.
+1. Visando à ressocialização do apenado e tendo como base o direito fundamental à Educação, o Conselho Nacional de Justiça (CNJ), por meio da Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021 -, estabeleceu a possibilidade de remição de pena à pessoa privada de liberdade, que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no Exame Nacional do Ensino Médio - ENEM.
+2. Com efeito, o propósito da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento, mas, sobretudo, fomentar a aquisição de novos conhecimentos e ferramentais educacionais por parte do apenado, de modo a facilitar a sua reintegração social.
+3. No caso, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio, visto que tal situação destoa do escopo da norma.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.979.591/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/4/2022.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. SENTENCIADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio (ENEM), visto que tal situação destoa do escopo da norma (Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021). Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.985.541/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/4/2022.)
+Ausente, portanto, flagrante ilegalidade a justificar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
