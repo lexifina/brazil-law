@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão que julgou prejudicados os agravos regimentais (Petições Eletrônicas AgRgs n. 00778883/2022 e 00707231/2022), por serem meras reiterações do agravo regimental do MINISTÉRIO PÚBLICO FEDERAL (Petição Eletrônica AgRg n.00705889/2022, recebida em 19/8/2022), cujo provimento foi negado pela Sexta Turma no dia 20/9/2022.
+Alega o recorrente que (e-STJ fls. 244/245):
+Reitere-se, o mandado de prisão era de fato direcionado ao Acusado, tendo os agentes policiais, na ocasião, atuado licitamente, conforme argumentos já esposados no agravo regimental interposto.
+O ponto é de fundamental importância para o deslinde do caso em análise, pois, ao que consta, a Corte está sendo levada ao equívoco de que os policiais militares que atuaram na abordagem do Agravado estavam no cumprimento do mandado de prisão em face de um terceiro, quando, em verdade, era, sim, o Senhor Eduardo Buchele dos Santos o alvo da diligência, conforme inclusive comprova o documento e-STJ fl. 203.
+ ..
+Adicionalmente, não é demais relembrar que o Parquet estadual também detém legitimidade e interesse processual para a interposição de agravo regimental.
+ ..
+Nesse passo, forçoso reconhecer que a decisão monocrática ora agravada, ao considerar como prejudicadas as razões da petição e-STJ fls. 193-202, mantém o equívoco fático justamente contestado pelo agravo regimental mencionado.
+Dessa forma, não há falar em prejudicialidade do recurso interposto de acordo com todos os requisitos de admissibilidade, sendo de rigor que seus termos sejam analisados singularmente, a título de reconsideração, ou em julgamento colegiado.
+Dessa forma, requer a reconsideração da decisão agravada ou a submissão do presente agravo regimental para julgamento pelo órgão colegiado.
+É o relatório.
+A irresignação não merece prosperar.
+Como bem anotou a decisão impugnada (e-STJ fls. 209/211):
+Trata-se agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA (Petição Eletrônica AgRg 00778883/2022 recebida em 5/9/2022) contra decisão monocrática de minha lavra por meio da qual reconsiderei a decisão de e-STJ fls. 137/143, a fim de conceder a ordem de habeas corpus para anular a prova decorrente do ingresso desautorizado no domicílio (e-STJ fls. 161/172).
+Alega o recorrente, em síntese, que (e-STJ fls. 200/201):
+Dessa forma, para a entrada forçada em domicílio sem autorização judicial, há necessidade de a ação estar amparada em fundadas razões da situação de flagrância, o que ocorreu no presente caso.
+O ingresso dos policiais não se tratou de uma arbitrariedade, mas sim de uma atitude necessária e imperativa para cessar a atividade delitiva.
+Tal ingresso, como visto, decorreu do monitoramento do local, o que não foi a esmo, tendo-se em conta o mandado de prisão pendente de cumprimento em face do Agravado.
+Não fosse isso, reporte-se que o flagrante não decorreu de buscas exaustivas pelo domicílio ou na chamada pescaria probatória, tendo os agentes públicos de pronto se deparado com o Agravado manuseando os entorpecentes em uma sacola.
+Assim, diante dos vastos elementos de prova angariados pelos policiais militares e, frisa-se, do estado de flagrância, os agentes estatais dirigiram-se ao imóvel do Agravado, onde apreenderam 222g de maconha, papel filme e uma balança de precisão.
+Busca, assim, seja reconsiderada a decisão agravada ou submetido o presente recurso ao órgão colegiado.
+É, em síntese, o relatório.
+O presente agravo regimental está prejudicado.
+Com efeito, verifico que a matéria aqui tratada foi dirimida pela Sexta Turma por ocasião do julgamento de agravo regimental do MINISTÉRIO PÚBLICO FEDERAL (Petição Eletrônica AgRg 00705889/2022 recebida em 19/8/2022), cuja ementa ficou assim definida:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DILIGÊNCIA REALIZADA NO DOMICÍLIO DO RÉU SEM AUTORIZAÇÃO JUDICIAL. FUNDADAS RAZÕES NÃO VERIFICADAS. AUSÊNCIA DE JUSTA CAUSA. APLICAÇÃO DO ENTENDIMENTO FIRMADO NO HC N. 598.051/SP.
+1. A Sexta Turma, ao revisitar o tema referente à violação de domicílio, no Habeas Corpus n. 598.051/SP, de relatoria do Ministro Rogerio Schietti, fixou as teses de que "as circunstâncias que antecederem a violação do domicílio devem evidenciar, de modo satisfatório e objetivo, as fundadas razões que justifiquem tal diligência e a eventual prisão em flagrante do suspeito, as quais, portanto, não podem derivar de simples desconfiança policial, apoiada, v. g., em mera atitude "suspeita", ou na fuga do indivíduo em direção a sua casa diante de uma ronda ostensiva, comportamento que pode ser atribuído a vários motivos, não, necessariamente, o de estar o abordado portando ou comercializando substância entorpecente", e de que até mesmo o consentimento, registrado nos autos, para o ingresso das autoridades públicas sem mandado deve ser comprovado pelo Estado.
+2. No presente caso, o ingresso forçado na casa, onde foram apreendidas as drogas, não se sustenta em fundadas razões extraídas da leitura dos documentos dos autos. Isso, porque a diligência apoiou-se em meras suspeitas de ser o acusado o mesmo indivíduo que tinha mandado de prisão em aberto pela prática do crime de tráfico de drogas e no fato de os policiais terem avistado o réu no interior da residência manuseando uma sacola, pois a porta da cozinha estava aberta, circunstâncias que não trazem contexto fático que justifique a dispensa de investigações prévias ou do mandado judicial para a entrada dos agentes públicos na residência, acarretando a nulidade da diligência policial.
+3. Agravo regimental desprovido.
+Dessa forma, diante de nova realidade fático-processual, é forçoso reconhecer a perda superveniente do objeto deste recurso, no qual se buscava o reconhecimento da licitude das provas colhidas, tendo em vista a existência de fundadas razões que viabilizariam o ingresso no domicílio do réu sem mandado de busca e apreensão.
+Da mesma forma, prejudicado o agravo regimental de e-STJ fls. 183/189 (Petição Eletrônica AgRg 00707231/2022 recebida em 22/8/2022), por ser mera reiteração da Petição Eletrônica AgRg 00705889/2022 recebida em 19/8/2022.
+Ante o exposto, julgo prejudicados os agravos regimentais (Petição Eletrônica AgRg 00778883/2022 e Petição Eletrônica AgRg 00707231/2022).
+De fato, ficou decidido pela Sexta Turma que, no presente caso, o ingresso forçado na casa, onde foram apreendidas as drogas, não se sustenta em fundadas razões extraídas da leitura dos documentos dos autos. Isso, porque a diligência apoiou-se em meras suspeitas de ser o acusado o mesmo indivíduo que tinha mandado de prisão em aberto pela prática do crime de tráfico de drogas e no fato de os policiais terem avistado o réu no interior da residência manuseando uma sacola, pois a porta da cozinha estava aberta, circunstâncias essas que não trazem contexto fático que justifique a dispensa de investigações prévias ou do mandado judicial para a entrada dos agentes públicos na residência, acarretando a nulidade da diligência policial.
+Assim, fica evidente a prejudicialidade da pretensão formulada pelo Ministério Público do Estado de Santa Catarina.
+Ante o exposto, nego provimento ao presente agravo regimental.
+Publique-se. Intimem-se.
