@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus de próprio punho impetrado contra acórdão assim ementado (fl. 47):
+HOMICÍDIO QUALIFICADO  Decisão dos jurados não se apartou do que foi apurado. Penas e Regime adequadamente fixados. Recurso desprovido.
+Consta dos autos que o paciente foi condenado à pena de 17 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, pelo crime disposto no art. 121, § 2º, I, III, IV e VI, § 7º, I, e § 2º-A, I, do Código Penal.
+A defesa interpôs recurso de apelação, ao qual foi negado provimento.
+Neste writ, sustenta o impetrante, em suma, que as instâncias ordinárias impuseram penas elevadas e excessivas sem fundamentação legal.
+Alega que, de forma desproporcional, foi exasperada a pena em 1/3 na segunda fase da dosimetria.
+Aduz que foi aplicada equivocadamente a causa de aumento do inciso I do § 7º do art. 121 do CP, referente à gravidez da vítima, uma vez que a ofendida "estava apenas com 2 semanas de gestação, ou seja, sua gravidez não era visível" (fl. 11).
+Argumenta, ainda, que as qualificadoras do motivo torpe e do feminicídio são incompatíveis entre si, haja vista que ambas são subjetivas.
+Requer a redução da pena na segunda fase da dosimetria, o afastamento da causa de aumento prevista no inciso I do § 7º do art. 121 do CP, e que seja reconhecida a incompatibilidade entre as qualificadoras do motivo torpe e do feminicídio.
+Prestadas as informações, o Ministério Público Federal se manifestou pela denegação da ordem.
+Da análise dos autos, verifica-se que as teses defensivas apresentadas neste writ não foram objeto de análise pelo Tribunal de origem, o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+Ademais, destaca-se que se trata de autos afetos à competência do Tribunal de Júri, devendo ser resguardada a soberania do veredicto do Tribunal Popular, garantida constitucionalmente. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. COMPETÊNCIA DO JÚRI. SOBERANIA DOS VEREDICTOS. NULIDADE. RECONHECIMENTO FOTOGRÁFICO. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. SÚMULA 713/STF. AFASTAMENTO DE QUALIFICADORA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+2. Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor dos delitos descritos na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ.
+2. Não se pode perder de vista que se trata de autos afetos à competência do Tribunal de Júri, devendo ser preservada a soberania do veredicto do Tribunal Popular, garantida constitucionalmente. Demais disso, a tese ora trazida no presente mandamus relativa a absolvição com base na suposta nulidade da prova do reconhecimento fotográfico realizado na delegacia (em desacordo com a determinação do art. 226 do CPP) não foi analisada no acórdão atacado.
+3. Como a matéria não foi submetida a debate na instância ordinária, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância. Importante destacar que, conforme os excertos acima reproduzidos, além do depoimento ora combatido, percebe-se que foram colhidos outros testemunhos na sessão de julgamento, que apontam a autoria delitiva, não restando evidenciada a similitude entre o presente caso e o julgado trazido como parâmetro jurisprudencial.
+4. A teor do entendimento consolidado na Súmula 713/STF, "o efeito devolutivo da apelação contra decisões do júri é adstrito aos fundamentos da sua interposição".
+5. Em que pesem os esforços do impetrante, verifica-se que o pleito de revisão do cálculo dosimétrico não foi objeto de cognição pela Corte de origem, o que obsta a apreciação de tal matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+6. Agravo desprovido.
+(AgRg no HC n. 752.882/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Outrossim, considerando que já houve o trânsito em julgado da apelação (fl. 41), não é cabível o manejo de habeas corpus como sucedâneo de revisão criminal, ressaltando-se que não foi identificada flagrante ilegalidade. Nesses termos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ACÓRDÃO DA APELAÇÃO TRANSITADO EM JULGADO NA ORIGEM. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+1. Diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022). Além disso, "Esta Corte firmou a tese de que não se admite aplicação retroativa de novo entendimento jurisprudencial a feitos cujo trânsito em julgado tenha ocorrido antes da guinada interpretativa" (Precedentes) - (AgRg no HC n. 731.937/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 2/5/2022).
+2. No caso, por falta de impugnação específica, permanecem incólumes esses fundamentos expendidos pela decisão ora agravada. Incide, portanto, o entendimento da Súmula 182/STJ.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 766.182/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Tendo em vista que este writ foi impetrado de próprio punho pelo paciente, intime-se a Defensoria Pública da União, com atuação nesta Corte Superior, para providências que entender cabíveis.
+Publique-se.
+Intimem-se.
