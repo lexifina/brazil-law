@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEONARDO BATISTA AQUINO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2235822-66.2022.8.26.0000).
+Depreende-se dos autos que o paciente formulou pedido de progressão de regime, estando pendente de apreciação o pleito pelo Juízo de primeiro grau.
+Irresignada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem em acórdão cuja ementa foi assim definida (e-STJ fl. 55):
+HABEAS CORPUS - Execução penal - Insurgência contra alegado excesso de prazo para análise do pedido de progressão ao regime aberto - Inocorrência - Tramitação regular, não havendo desídia a ser atribuída à autoridade impetrada - Processo físico que aguarda digitalização e redistribuição - Inexistência de constrangimento ilegal - Ordem denegada.
+Daí o presente writ, no qual alega a defesa que o paciente estaria sofrendo constrangimento ilegal por excesso de prazo para análise do pedido de progressão de regime.
+Aduz que o pedido foi protocolado em 2/8/2022, e que se deveria "ordenar o imediato julgamento do pedido, ou, subsidiariamente, determinar a imediata realização de exame criminológico  ..  para fins de análise de requisito subjetivo", mormente porque o paciente aguarda em regime mais gravoso do que aquele que faria jus (e-STJ fl. 12).
+Requer, inclusive liminarmente, a determinação de análise do pedido pelo Juízo de primeiro grau. Subsidiariamente, requer a imediata determinação de exame criminológico.
+Indeferido o pedido de liminar (e-STJ fls. 64/65) e prestadas as informações solicitadas (e-STJ fls. 69/81); o Ministério Público Federal opinou pelo não conhecimento ou denegação da ordem (e-STJ fls. 85/88).
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem denegou o habeas corpus impetrado pela defesa, mediante os seguintes fundamentos (e-STJ fls. 56/57):
+Com efeito, não se nota desídia por parte do Juízo de origem, que tem realizado, devidamente, os atos que lhe competem dentro de um prazo razoável, não havendo que se falar, portanto, em constrangimento ilegal.
+Ressalta-se que as delongas capazes de evidenciar excesso de prazo devem ser injustificadas, a denotar protelação por parte do Estado-juiz ou do MinistérioPúblico, o que, frise-se, não ocorre no caso aqui em análise.
+ ..
+Com efeito, ainda que os processos físicos tenham sofrido impacto em razão da necessidade de digitalização e migração de enorme quantidade de feitos, não se nota, por ora, a existência de desídia ou demora injustificada que autorize a concessão da ordem pretendida.
+Das informações prestadas pelo Juízo das execuções, extrai-se, ainda, o seguinte (e-STJ fl. 80):
+O paciente está preso no Centro de Progressão Penitenciária de Campinas, em regime semiaberto, com término de cumprimento de penas previsto para 23/07/2026.
+Em 11/10/2022, ante o local de prisão, não vinculado à competência deste Juizo, foi determinada a digitalização dos autos do processo de execução e a respectiva migração para o sistema SAJPG5, com posterior redistribuição ao DEECR1M competente, processo esse que já fora feito e finalizado em 23/11/2022, gerando a execução digital nº 7001704-53.2015.8.26.0114, na qual se procederá o processamento e julgamento do pedido de progressão ao regime aberto formulado em favor do paciente, sob competência daquele Juízo.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que eventual demora para apreciação do pedido de progressão de regime está justificada (digitalização do acervo e remessa para novo Juízo), e não ficou caracterizada desídia do Magistrado de primeiro grau de modo a caracterizar constrangimento ilegal a ser sanado pelo habeas corpus .
+A propósito, confiram-se, ainda, os seguintes precedentes em decisões monocráticas:
+Tive a oportunidade de julgar o mesmo assunto no HC n. 726.558/SP, impetrado por outro paciente, mas com mesmo pedido e contra a mesma Vara de Execuções. Na ocasião, pleiteei informações atualizadas para entender melhor o motivo da convocação de 100% dos funcionários e da suspensão dos prazos.
+Em resposta à solicitação de novas informações, o Juízo esclareceu a necessidade de convocação de todos os funcionários para o serviço de digitalização, explicando que a maior parte dos processos da Vara de execuções onde tramitam os autos são físicos, mas o andamento deles, durante a pandemia, ocorreu por meio de peticionamento eletrônico.
+Assim, realmente essa meta é urgente, para que todos os processos daquela vara não fiquem mais paralisados. Além disso, foi mantido um mínimo de servidores para os trabalhos urgentes, como atualização de cálculos, cumprimento de acórdão, vencimento de pena e benefícios prontos para julgamento já com cálculos atualizados.
+Por outro lado, foi estabelecido um prazo, dia 8/4/2022, para finalização da tarefa, o qual já se esgotou.
+Mas também verifiquei, pelo site do Tribunal de Justiça do Estado de São Paulo, Vara de Araçatuba, que em 27/4/2022 já foram determinados os cálculos para julgamento dos pedidos do executado, e, na sequência, foi aberta vista ao Ministério Público, que apresentou manifestação em 12/5/2022.
+Dessa forma, considerando o trabalho de digitalização de processos, considerado urgente, com meta de prazo esgotada, mas não tão atrasada, bem como o adiantamento da atualização de cálculos do executado, não há demora irrazoável no andamento do seu pedido. (HC n. 752.432, Ministro Reynaldo Soares da Fonseca, DJe de 30/6/2022, grifei.)
+Na hipótese, verifico que a apreciação dos pedidos de progressão de regime e de livramento condicional segue o trâmite regular, pois, de acordo com o andamento processual da execução n. 1006518-92.2020.8.26.0032, retirado da página eletrônica do TJSP, em 12/4/2022, foi homologada a falta grave cometida pelo paciente e determinada a elaboração de novos cálculos para fins de benefícios.
+Dessa forma, constata-se que não há desídia por parte do Juízo da Execução que, às evidências extraídas dos autos, quanto à digitalização dos processos físicos e suspensão dos prazos (e-STJ, fl. 324), bem como do andamento do processo na origem, vem envidando esforços para agilizar o cálculo de penas e apreciar os pedidos formulados pela defesa do reeducando.
+Nesse contexto, não se vislumbra flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício. (HC n. 751.783, Ministro Ribeiro Dantas, DJe de 29/6/2022 - grifei.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
