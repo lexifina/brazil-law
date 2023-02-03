@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado da Bahia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 134):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SERVIDOR ESTADUAL. PERÍCIA MÉDICA REALIZADA EM PAD PARA VERIFICAÇÃO DE SANIDADE MENTAL. NECESSIDADE DE FORMAÇÃO DE JUNTA MÉDICA, COM PELO MENOS UM DOS MÉDICOS NA ESPECIALIDADE DE PSIQUIATRIA. INTELIGÊNCIA DO ART. 227 DA LEI ESTADUAL N. 6.677/94. INOBSERVÂNCIA DO DISPOSITIVO LEGAL PELO ENTE ESTATAL. CONFIGURAÇÃO DE ATO ABUSIVO E ILEGAL. SENTENÇA MANTIDA. APELO IMPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 184/193).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 140 e 1.022, II, do CPC e 160 da Lei nº 8.112/90. Sustenta, além de negativa de prestação jurisdicional, que "A Lei Federal 8.112/90 prevê que quando submetido a exame de sanidade mental, ou seja, em junta oficial da qual participe pelo menos um médico psiquiatra, previsão do seu art. 160, in verbis:  ..  A citada disposição da Lei Federal 8.112/90 é correlata com a Lei Estadua 6.677/94 em seu art. 227, senão vejamos:  ..  O acórdão referiu-se ao artigo 227 da Lei nº 6.677/94 apenas "en passant" sem examinar a circunstância de estabelecer que do laudo deve participar pelo menos um médico psiquiatra, ou seja, não diz que há ilegalidade em somente existir um médico psiquiatra" (fls. 208/209).
+Assevera que "não houve nenhuma afronta ao princípio da legalidade, eis que perfeitamente válida e regular a avaliação médica feita por perita psiquiatra isolada, sendo a avaliação simultânea do servidor por dois ou três médicos apenas uma opção não utilizada pelo órgão Junta Médica do Estado in casu." (fl. 209).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do recurso (fls. 285/289).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 140, e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+De outro lado, extrai-se do aresto recorrido a seguinte fundamentação (fls. 135/136):
+Como é cediço, a Administração Pública está vinculada ao princípio da legalidade estrita, só podendo agir dentro dos limites estabelecidos pela lei.
+A legislação estadual, no caso a Lei Estadual n.
+6.677/94, determina que, durante a instrução de processo administrativo disciplinar, se houver dúvidas sobre a sanidade mental do acusado, ele deverá ser submetido a junta médica oficial da qual participe, pelo menos, um médico psiquiatra. Vejamos:
+(..)
+De outro ângulo, o Decreto n. 7.003/2009, que regulamenta a concessão de licenças no âmbito federal, dispõe:
+(..)
+Já o parecer CFM nº 15/95, do Conselho Federal de Medicina explicita o que se compreende por "junta médica" in verbis:
+(..)
+No caso sob análise, o impetrante, submetido a incidente de sanidade mental, não foi considerado portador de doença ou transtorno psiquiátrico, por conclusão esboçada por uma única médica psiquiatra, sem que houvesse outros médicos para compor uma verdadeira junta médica e pudessem ter avaliado conjuntamente o seu estado de saúde mental.
+Some-se a isso o fato de que o autor apresentou relatórios médicos, subscrito por perito especialista psiquiatra que atua no Hospital Psiquiátrico Juliano Moreira, onde o demandante faz tratamento, declarando que o mesmo é portador de esquizofrenia - CID X- F-20, estando inapto ao trabalho (fl. 21/25).
+Portanto, como bem destacado pela Ilustre Procuradora de Justiça em seu parecer conclusivo: "tendo em vista a possibilidade do controle judicial do ato administrativo quanto ao aspecto da legalidade, agiu com acerto o magistrado ao determinar que o Impetrante fosse periciado por junta médica regularmente constituída, conforme exigido pelo art. 227 da Lei n. 6.677/94";
+Evidencia-se, por conseguinte, a total ausência de legalidade no citado ato administrativo impugnado, restando demonstrado nos autos, de forma indubitável, o abuso de poder perpetrado pela autoridade impetrada.
+Integrada em sede de embargos de declaração (fls. 190/191):
+No caso em análise, o decisum embargado externou fundamentação correlata e suficiente em relação às questões submetidas a julgamento, com análise detida do conjunto probatório e fático, inclusive no tocante ao art. 227 da Lei Estadual n. 6.677/94, como pode se observar do seguinte trecho do aresto objurgado (fls. 14-v/15):
+(..)
+Conclui-se, assim, que, embora o impetrante tenha sido avaliado por uma única médica psiquiatra, não houve a necessária formação de uma junta médica como determina a legislação estadual atinente à matéria, a qual é composta por, pelo menos, dois médicos.
+Nesse contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Em reforço:
+CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. TÉCNICO EM ENFERMAGEM. REGIME JURÍDICO ESTATUTÁRIO. ANÁLISE DE LEI MUNICIPAL. SÚMULA 280/STF. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Trata-se de ação em que busca o recorrente desconstituir o acórdão que concedeu o benefício sem analisar as circunstâncias da profissão de técnico em enfermagem e notadamente sem embasar-se em perícia médica.
+2. Conforme consta no acórdão recorrido, a autora exerce o cargo efetivo de técnico em enfermagem, estando submetida ao regime jurídico estatutário, e ,no caso do Município de Catingueira, há regulamentação suficiente a respeito do adicional de insalubridade, conforme se vê da Lei Municipal 527/2012.
+3. Convém ressaltar que, apesar de terem sido invocados dispositivos legais, o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local, a saber, a Lei Municipal 527/2012. Destaco a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa sua apreciação por esta Corte Superior. Aplicação, por analogia, da Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe Recurso Extraordinário".
+4. Da leitura do acórdão recorrido depreende-se que foi debatida matéria com fundamento constitucional (direitos sociais dos servidores públicos § 3º do art. 39 da Constituição Federal), cujo exame é de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal, razão por que não é possível analisar a tese recursal.
+5. Recurso Especial não conhecido.
+(AREsp n. 1.518.943/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/9/2019, DJe de 11/10/2019.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
