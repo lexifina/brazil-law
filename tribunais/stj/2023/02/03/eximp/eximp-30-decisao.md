@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de exceção de impedimento suscitada por HOTEL NACIONAL S/A em face do Excelentíssimo Senhor Ministro MOURA RIBEIRO, relacionada ao julgamento do AREsp n.º 2.190.560/SP.
+O e. Ministro Moura Ribeiro não reconheceu a alegada suspeição e, por conseguinte, determinou o processamento do presente incidente, na forma do art. 276, § 1º, do RISTJ (fl. 1/6).
+É o relatório.
+Decisão.
+O presente incidente é manifestamente improcedente, impondo-se a rejeição liminar, nos termos do art. 277, § 1º, do RISTJ.
+1. Ao proceder a análise da petição inicial evidencia-se que o suscitante limitou-se a demonstrar o desacerto da decisão proferida nos autos do AREsp n.º 2.190.560/SP a qual, segundo seu particular entendimento, teria contrariado o ordenamento jurídico nacional, assim como a jurisprudência pátria.
+Todavia, o mero inconformismo da parte acerca da decisão judicial que lhe foi desfavorável não rende ensejo à oposição de exceção de impedimento o qual tem cabimento, apenas, nas hipóteses previstas no artigo 144 do CPC/15, valendo destacar, oportuno, a conduta do suscitante que, na linha tênue da má-fé processual, olvidou-se de contemplar o comando do dispositivo em epígrafe segundo o qual haverá "(..) Há impedimento do juiz, sendo-lhe vedado exercer suas funções no processo:  ..  II - de que conheceu em outro grau de jurisdição, tendo proferido decisão" (grifos nossos)
+Com efeito, a compreensão jurídica diversa daquela encerrada na decisão, a toda evidência, não se subsume a qualquer das hipóteses de suspeição constantes do supramencionado artigo 144 do Código de Processo Civil, de modo que, ante a falta de efetiva demonstração de fatos que possam macular a imparcialidade do julgador e do órgão colegiado, impõe-se o indeferimento liminar da presente exceção, a teor do art. 277, §1º, do RISTJ.
+Nesse sentido, confiram-se: AgRg na ExSup 87/GO, Rel. Min. Fernando Gonçalves, DJe de 16.9.2009; ExSusp n.º 113/SP, desta Relatoria, DJe de 06/03/2013; AgInt na ExSusp 197/DF, Rel. Min. Nancy Andrighi, DJe de 19/09/2019; AgInt na ExSusp 194/DF, Rel. Min. Luis Felipe Salomão, Dje de 21/08/2019; AgInt na ExSusp 195/DF, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 01/07/2019.
+2. Do exposto, com fundamento no art. 277, §1º, do RISTJ, indefiro liminarmente o incidente em razão da manifesta improcedência da exceção de impedimento.
+Publique-se. Intimem-se. Encaminhe-se cópia da presente decisão ao e. Min. Moura Ribeiro. Após, arquivem-se.
