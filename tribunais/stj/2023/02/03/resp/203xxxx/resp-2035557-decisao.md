@@ -1,0 +1,108 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, a, da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Narram os autos que MAURINA CADORIN, na condição de filha incapaz, ajuizou a subjacente ação ordinária em face da UNIÃO objetivando a reversão da cota-parte da pensão especial de ex-combatente instituída - em decorrência do falecimento de seu pai, no ano de 1978 -, em favor de sua mãe, falecida em 20/12/1990.
+O Juízo de 1º Grau julgou procedente o pedido autoral, a fim de reverter em favor da autora a cota-parte da pensão especial de ex-combatente originalmente paga à sua mãe, a partir de 20/12/1990, bem como a pagar as parcelas em atraso, respeitada a prescrição quinquenal, "desde 29/03/2006 até a efetiva implantação do benefício, devendo incidir os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, conforme artigo 1º-F da Lei n. 9.494/97" (fl. 100), bem como honorários advocatícios de sucumbência, arbitrados em 10% sobre o valor das parcelas vencidas até a prolação da sentença.
+O Tribunal de origem reformou parcialmente a sentença, tão somente para determinar que a verba honorária incida sobre o valor da condenação, nos termos do acórdão assim ementado (fl. 178):
+PENSÃO ESPECIAL DE EX-COMBATENTE. REVERSÃO À FILHA. LEGISLAÇÃO DE REGÊNCIA - DATA DO ÓBITO DO INSTITUIDOR. PRAZO PRESCRICIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO - INOCORRÊNCIA.
+A lei que regula o direito à reversão de pensão especial de ex-combatente é aquela vigente à data do óbito do instituidor do benefício.
+Nas prestações de trato sucessivo, que se renovam mês a mês, não há falar em prescrição da pretensão do fundo de direito, a teor da Súmula 85/STJ.
+Verba honorária.
+Opostos embargos de declaração, foram rejeitados (fls. 200/202).
+A esse acórdão a UNIÃO interpôs o REsp 1.386.846/RS, o qual restou provido para anular o acórdão dos embargos de declaração (fls. 304/308).
+Baixados os autos à origem, o Tribunal a quo realizou novo julgamento dos aclaratórios, acolhendo-os parcialmente, sem efeitos modificativos, nos termos da ementa que segue (fl. 368):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DEDECLARAÇÃO. REJULGAMENTO. MILITAR. EX-COMBATENTE. FILHAINVÁLIDA. LEGISLAÇÃO APLICÁVEL. REQUISITOS PREENCHIDOS. REVISÃO DO ATO. DECADÊNCIA. OMISSÃO. SANEAMENTO. SEMEFEITOS INFRINGENTES.
+1. A legislação aplicável ao caso prevê que são dependentes do ex-combatente os filhos inválidos (art. 5º, III, Lei nº 8.059/90), situação da autora.
+2. A autora, assim como sua mãe, detinham a qualidade de dependentes de ex-combatente, conforme o citado III, do art. 5º da Lei nº8.059/90, razão pela qual a própria União procedeu à divisão da pensão em duas partes, uma destinada à autora (filha inválida) e outra à sua mãe (viúva).
+3. Considerando o decurso de mais de 5 (cinco) anos desde a vigência da Lei 9.784/99 (art. 54), houve a estabilização dos efeitos do ato administrativo pelo decurso de tempo, consolidando assim uma expectativa legítima à destinatária do ato, havendo a decadência do direito da Administração à revisão do ato que reconheceu o direito da autora ao pensionamento.
+4. Omissão. Ocorrência. Anulação do acórdão pelo STJ e retorno dos autos para rejulgamento. Saneamento. Sem efeitos modificativos.
+Inconformada, a UNIÃO interpôs o presente apelo especial, aduzindo ofensa aos seguintes dispositivos legais:
+a) arts. 489, § 4º, IV, e 1.022 do CPC, uma vez que a despeito do rejulgamento de seus embargos de declaração, permanece o Tribunal de origem omisso "no que diz respeito à incidência das Leis n.º 4.242/1963 e n.º 3.765/1960" (fl. 388);
+b) arts. 1º e 2º da Lei nº 6.592/1978, 1º, 2º, 5º, 6º, 14, I a IV e parágrafo único da Lei 8.059/1990, uma vez que a recorrida não faz jus à cota-parte da pensão de ex-combatente instituída em decorrência do falecimento de seu pai. Isso porque (fls. 390/392):
+No caso dos autos,  ..  o falecido pai das autoras, tendo participado apenas de operações bélicas em solo Pátrio, com o cumprimento de missões de vigilância e segurança do litoral brasileiro. E por tais razões, aplicar-se-ia ao seu caso, as prescrições da Lei nº 6592 (in DOU de21/11/78), se preenchesse todos os requisitos estabelecidos em tal lei para a percepção de pensão. Sendo que o benefício previsto em tal lei, de caráter vitalício e intransferível, era concedido apenas aos próprios ex-combatentes, quando julgados incapacitados por uma Junta Militar de Saúde e necessitados economicamente.
+Evidente, portanto, que se o benefício somente foi deferido após o advento da Lei nº8.059/90 e em razão dela, pois anteriormente a autora não tinha direito ao mesmo, é este diploma legal que deve reger a possibilidade ou não de reversão da pensão em discussão.
+Nesse senso, é necessário que se esclareça, antes de mais nada, que o art. 53, III, do ADCT assegura ao ex-combatente que tenha efetivamente participado de operações bélicas durante a 2ª Guerra Mundial, nos termos da Lei nº 5.315, de 12 de setembro de 1967, direitos entre os quais se encontra elencado o direito à pensão especial.
+Com efeito, a pensão especial, conforme cita o caput do artigo 53 do Ato das Disposições Constitucionais Transitórias, da Constituição Federal de 1988, é direito assegurado, originariamente, ao ex-combatente, que efetivamente participou de operações bélicas durante a Segunda Guerra Mundial, e não os seus dependentes.
+Já no inciso III do artigo 53 da ADCT, em havendo a morte do ex-combatente, a norma constitucional assegura uma pensão de "valor igual à do inciso anterior", ou seja, de valor igual à da pensão especial à viúva ou companheira ou dependente. Vejamos:
+ ..
+Assegura, portanto, a regra constitucional, o pagamento da pensão em valor igual a da recebida pelo ex-combatente, estabelecendo, todavia, o seu pagamento proporcional aos dependentes habitados para o seu recebimento, circunstância que equivale a dizer que, a pensione no valor de uma pensão deixada por segundo-tenente, deve ser dividida proporcionalmente entre a viúva, a companheira e os dependentes, de acordo com a situação fática do ex-combatente. Deixou-se, portanto, para a lei infraconstitucional a regulamentação do pagamento da pensão para seus respectivos dependentes.
+Tal foi feito mediante a edição da Lei nº 8.059/90 que assim dispõe nos dispositivos destacados:
+ ..
+O pagamento proporcional da pensão, efetivamente restou observado pela lei infraconstitucional, não se vislumbrando do comando constitucional do art. 53, III do ADCT, qualquer restrição quanto a limitação da reversão da pensão regrada pelo parágrafo único do art. 14 da Lei nº8.059/90.
+Nesse condão, a igualdade prevista é entre os ex-combatentes, que têm o mesmo direito à pensão especial do inciso III do art. 53 do ADCT, e não, a igualdade entre os dependentes do ex-combatente, visto que os mesmos não são os destinatários principais do benefício constitucional. Simplesmente, são apenas aqueles que, somente com a morte do ex-combatente, receberão de forma proporcional, a quota-parte que lhes cabe da pensão equivalente a deixada por um segundo-tenente, conforme prevê a Constituição Federal e nos moldes da Lei nº 8.050/90.
+Logo, são os dependentes, meros sucessores da transferência proporcional da pensão especial recebida pelo ex-combatente, circunstância que não os posicionada no patamar da igualdade regrada para os titulares da pensão, aos quais resta assegurada a igualdade de condições para fins do deferimento da pensão especial.
+Tem por absolutamente claro e certo que não assegura o dispositivo constitucional da ADCT(art. 53, III) o direito de os dependentes receberem a integralidade da pensão, mas ao contrário, que o valor da pensão especial seja dividida, de forma proporcional, entre todos os dependentes.
+Importa salientar, ainda, por oportuno, que a Lei nº 8.059/90 ao regular as pensões especiais devidas a ex-combatentes da II Grande Guerra e reguladas pelas leis editadas antes da CF/88,vedou a transmissão dessas pensões, seja por reversão ou transferência.
+Dessa forma, fica afastada a possibilidade de reconhecimento judicial de um direito à reversão da pensão por morte, visto ser este inexistente nos termos da legislação de regência:
+ ..
+Pelo exposto, resta configurada a contrariedade ao parágrafo único do art. 14 da Lei nº8.059/90, pois estando a recorrida recebendo a sua pensão proporcional, não possui o direito de ver acrescido a sua quota-parte o valor correspondente as demais quotas-partes já extintas, justamente porque não assegurada a pretendida transferência pela regra constitucional transitória.
+E continua (fls. 392/393):
+DA LEI Nº 6.592/78
+Superada a questão acima, cabe analisar e demonstrar a incidência da Lei nº 6.592/78 ao caso dos autos. Senão vejamos.
+O instituidor da pensão pretendida pela autora faleceu em 08.01.1978, nesta data encontrava-se em vigor a Lei nº 6592/78, que se aplica, então, ao caso concreto, nos termos do art. 2ºda LICC. Nesse sentido a seguinte Jurisprudência:
+ ..
+No caso dos autos, portanto, o falecido pai das autoras, tendo participado apenas de operações bélicas em solo Pátrio, com o cumprimento de missões de vigilância e segurança do litoral brasileiro. E por tais razões, aplicar-se-ia ao seu caso, as prescrições da Lei nº 6592 (in DOU de21/11/78), se preenchesse todos os requisitos estabelecidos em tal lei para a percepção de pensão. Sendo que o benefício previsto em tal lei, de caráter vitalício e intransferível, era concedido apenas aos próprios ex-combatentes, quando julgados incapacitados por uma Junta Militar de Saúde e necessitados economicamente.
+ ..
+No caso dos autos, portanto, não existe qualquer fundamento para a reversão pretendida pela autora, pois a pensão era intransferível.
+Da mesma forma, não é o caso de aplicação da Lei nº 7.424/85 que autorizou a transferência do direito à pensão prevista na Lei nº 6.592/78 à viúva e aos filhos menores de qualquer condição ou interditos ou inválidos, pois a Lei nº 7.424/85 é posterior ao óbito do instituidor da pensão.
+Além disso, a decisão recorrida viola o art. 30 da Lei nº 4242/63, pois tal dispositivo estabelecia que "é concedida aos ex-combatentes da Segunda Guerra Mundial, da FEB, da FAB e da Marinha, que participaram ativamente das operações de guerra e se encontram incapacitados, sem poder prover os próprios meios de subsistência e não percebem qualquer importância dos cofres públicos, bem como a seus herdeiros, pensão igual à estipulada no art. 26 da Lei n.º 3.765, de 4 de maio de 1960" , não se aplicando evidentemente ao caso dos autos, no qual o instituidor da pensão, como já foi acima narrado cumpriu apenas missões de vigilância no litoral brasileiro, não tendo participado ativamente de operações de guerra. Além disso, não há prova nos autos de que fosse incapaz.
+Requer, assim, o provimento do recurso especial a fim de que seja reformado o acórdão recorrido e julgado improcedente o pedido autoral.
+Contrarrazões às fls. 411/421.
+Recurso admitido na origem (fls. 423/426).
+Inicialmente distribuído ao em. Ministro HERMAN BENJAMIN, S.Exª entendeu por bem consultar este Magistrado a respeito da eventual prevenção para processar e julgar o presente feito (fl. 440), a qual foi por mim aceita (fl. 443).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, verifica-se que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp n. 1.678.312/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 13/4/2021).
+A propósito, confira-se o seguinte trecho do voto condutor do acórdão que rejulgou os embargos de declaração, in litteris (fls. 373/375):
+Em que pese as alegações da embargante, a decisão se manifestou expressamente acerca da subsunção do caso concreto às previsões do art. 53inciso III da ADCT e Lei nº 8.059/90.
+Sobre a possibilidade de reversão, consta de informação prestada pelo próprio ente federado (INF3 do evento 6 dos autos originários) que:
+A pensão especial que a mãe da autora recebia não tinha nenhum vínculo com a da Lei 3.765/1960, na verdade, seu pensionamento esta previsto na Lei nº 8.059, de 4 jul 1990, que dispõe sobre a pensão especial devida aos ex-combatentes da Segunda Guerra Mundial e a seus dependentes, que reza, in verbis:
+Art. 5º Consideram-se dependentes do ex-combatente para fins desta lei:
+I - a viúva;
+II - a companheira;
+III - o filho e a filha de qualquer condição, solteiros, menores de 21 anos ou inválidos;
+IV - o pai e a mãe inválidos; e
+V - o irmão e a irmã, solteiros, menores de 21 anos ou inválidos.
+Parágrafo único. Os dependentes de que tratam os incisos IV e V só terão direito à pensão se viviam sob a dependência econômica do ex-combatente, por ocasião de seu óbito.
+Art. 6º A pensão especial é devida ao ex-combatente e somente em caso de sua morte será revertida aos dependentes. Parágrafo único. Na reversão, a pensão será dividida entre o conjunto dos dependentes habilitáveis (art. 5º, I a V), em cotas-partes iguais.(grifei)
+No mesmo sentido, consta nas razões de apelação da União que, não tendo o ex-combatente recebido qualquer benefício em vida, aplica-se a lei vigente à época do óbito da mãe (20/12/1990) sendo então a Lei 8.059/90, que disciplina o caso, a qual não prevê a possibilidade de concessão de pensão à adversária.
+Diversamente do alegado, a legislação aplicável ao caso prevê que são dependentes do ex-combatente os filhos inválidos (art. 5º, III, Lei nº8.059/90), situação da autora. Nessa perspectiva, irretocável a sentença ao consignar que (1) a administração deferiu não só à mãe, mas também à autora, pensão diversa, prevista no art. 53, inc. II e III, do ADCT, na forma do art. 5º, III, da Lei8.059/90, comprovada nos autos com a juntada do Título de Pensão Militar nº134/91, de 24.05.1991, com início do pagamento em 12/09/1990 (evento 6 -INF2); e (2) a autora, assim como sua mãe, detinham a qualidade de dependentes de ex-combatente, conforme o citado III, do art. 5º da Lei nº8.059/90, razão pela qual a própria União procedeu à divisão da pensão em duas partes, uma destinada à autora (filha inválida) e outra à sua mãe (viúva), conforme comprova o título de pensão anexado ao evento 6.
+Com efeito, o pedido da autora é apenas para a integralização decota-parte de benefício de pensão especial, após o óbito de sua genitora, antiga co-beneficiária, direito já reconhecido pela Administração.
+Ademais, impende consignar que, em 1990, já havia sido concedida cota-parte do pensionamento à autora na condição de dependente. Considerando o decurso de mais de 5 (cinco) anos desde a vigência da Lei 9.784/99 (art. 54), houve a estabilização dos efeitos do ato administrativo pelo decurso de tempo, consolidando assim uma expectativa legítima à destinatária do ato, havendo a decadência do direito da Administração à revisão do ato que reconheceu o direito da autora ao pensionamento. Nesse sentido:
+ ..
+Destarte, não procede a tese de negativa de prestação jurisdicional.
+Quanto ao mérito, não se olvida que, "consoante jurisprudência do STJ, o direito à pensão de ex-combatente é regido pela lei vigente à época de seu falecimento" (AgInt nos EDcl no REsp n. 1.436.558/PE, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 10/9/2018.).
+Sucede que, no caso concreto, há particularidades que ensejam o afastamento do referido entendimento jurisprudencial.
+Com efeito, da leitura do acórdão recorrido extrai-se algumas questões fáticas incontroversas (fl. 176) que devem ser relembradas:
+a) o pai da recorrida participou de operações bélicas durante a Segunda-Guerra Mundial, tendo falecido em 8/1/1978;
+b) em 24/5/1991, com efeitos retroativos a 12/9/1990, a UNIÃO concedeu à ora recorrente e sua falecida mãe, de forma proporcional, a pensão especial de ex-combatente prevista no art. 53, III, do ADCT (fl. 176).
+Ora, do trecho acima colacionado tira-se que o Tribunal de origem entendeu que a discussão quanto à legislação a reger a pensão de ex-combatente já estaria acobertada pela decadência administrativa, tendo em vista que ainda no ano de 1991 a própria Administração reconheceu como aplicável ao caso concreto as disposições do art. 53, III, do ADCT.
+Sucede que tal fundamento não foi especificamente impugnado pela UNIÃO, o que atrai a incidência da Súmula 283/STF.
+Calha ressaltar que a controvérsia em tela limita-se à possibilidade, ou não, de reversão em favor da autora da cota-parte da pensão já concedida pela UNIÃO à sua falecida mãe, motivo pelo qual qualquer discussão quanto à eventual (i)legalidade do aludido ato administrativo importaria em julgamento extra petita.
+Acrescente-se, ademais, que ao aduzir que a pensão especial deixada pelo falecido ex-combatente deveria ser regida pela Lei 6.592/1978, a UNIÃO desrespeita a cláusula do non venire contra factum proprium, haja vista que ela própria concedeu à autora e sua mãe a pensão especial prevista no art. 53, III, do ADCT, motivo pelo qual não pode querer promover a revisão do respectivo ato administrativo - não apenas em razão da já citada decadência administrativa e da vedação ao julgamento extra petita -, mas também do óbice previsto no art. 2º, parágrafo único, XIII, da Lei 9.784/1999:
+Art. 2o A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.
+Parágrafo único. Nos processos administrativos serão observados, entre outros, os critérios de:
+ ..
+XIII - interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público a que se dirige, vedada aplicação retroativa de nova interpretação.
+(Grifo nosso)
+Estabelecida essa premissa jurídica, de que a questão a respeito da legislação aplicável ao caso concreto não pode ser revista para prejudicar a parte ora recorrida, também por uma questão de isonomia não se pode querer afastar a Lei 8.059/1990 para o fim de beneficiá-la.
+Dito isto, uma vez que referido diploma legal foi utilizado pela UNIÃO quando da concessão do benefício, também a questão envolvendo a possibilidade ou não de reversão da cota-parte d a falecida mãe da recorrida também deve ser examinada à luz da Lei 8.059/1990.
+Logo, a despeito de a pensão por morte também ter sido concedida à parte recorrida, na condição de filha inválida, não faz ela jus à reversão da cota-parte inicialmente paga à sua mãe, em virtude da existência de impedimento legal expresso nesse sentido, a saber:
+Lei 8.059/1990
+Art. 14. A cota-parte da pensão dos dependentes se extingue:
+I - pela morte do pensionista;
+II - pelo casamento do pensionista;
+III - para o filho, filha, irmão e irmã, quando, não sendo inválidos, completam 21 anos de idade;
+IV - para o pensionista inválido, pela cessação da invalidez.
+Parágrafo único. A ocorrência de qualquer dos casos previstos neste artigo não acarreta a transferência da cota-parte aos demais dependentes.
+(Grifos nossos)
+Nesse sentido, o seguinte julgado:
+ADMINISTRATIVO. PENSÃO ESPECIAL DE EX-COMBATENTE. ART. 53 DO ADCT DA CF. ÓBITO OCORRIDO NA VIGÊNCIA DA LEI N. 8.059/1990. FILHO MAIOR E INCAPAZ. REVERSÃO DA PENSÃO PERCEBIDA PELA MÃE. VEDAÇÃO LEGAL. DIREITO À SUA COTA-PARTE DE 50%.
+1. O Superior Tribunal de Justiça, em conformidade com o posicionamento do Supremo Tribunal Federal, consolidou entendimento segundo o qual o direito à pensão de ex-combatente deve ser regido pela lei vigente à época de seu falecimento. Precedentes: EDcl no REsp 810.393/SC, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, DJe 21.3.2011; AgRg no REsp 934.365/RJ, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 13.9.2010.
+2. No caso dos autos, não há dúvida de que o benefício deve ser regido pela Lei n. 8.059/1990, que regulou a pensão especial prevista no art. 53 do ADCT, já que o falecimento do ex-combatente ocorreu em 4.2.2000.
+3. O pedido de pensão especial formulado pelo filho maior e incapaz deve limitar-se ao quinhão a que teria direito, caso houvesse se habilitado conjuntamente com a mãe ao tempo da morte do ex-combatente.
+4. A Lei n. 8.059/1990, além de dividir em cotas a pensão especial devida aos dependentes do ex-combatente falecido, foi expressa ao vedar a reversão das cotas-partes extintas em prol dos dependentes remanescentes.
+5. No caso, o filho que somente veio requerer, em seu nome, o direito à pensão especial após a morte da sua mãe, que recebia integralmente a pensão justamente em razão da condição de absolutamente incapaz do filho, deve receber 50% do referido valor, conforme dispõe o parágrafo único, do art. 14, da Lei n. 8.059/1990.
+Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.466.861/PE, relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 1/9/2014.) - Grifo nosso
+Destarte, deve o recurso especial da UNIÃO ser parcialmente provido, com a inversão do ônus da sucumbência.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa parte, dou-lhe provimento para reformar o acórdão recorrido e, assim, julgar improcedente o pedido autoral. Condeno a parte autora ao pagamento das custas e despesas processuais, bem como de honorários advocatícios de sucumbência arbitrados em 10% sobre o valor atualizado da causa, nos termos do art. 85, §§ 3º e 4º, III, do CPC, cuja cobrança fica suspensa por se tratar a autora de beneficiária da gratuidade de justiça, nos termos do art. 98, § 3º, do CPC.
+Publique-se.
