@@ -1,0 +1,24 @@
+DECISÃO
+PLANALTO PARTICIPAÇÕES E ADMINISTRAÇÕES LTDA. opõe embargos de declaração à decisão que negou provimento ao agravo em recurso especial.
+A parte embargante sustenta a existência de omissão, tendo em vista o não enfrentamento do tema relacionado à afronta aos arts. 1.015 e 1.009, § 1º, do CPC.
+Esclarece que, embora a decisão de admissibilidade do recurso especial tenha afastado a alegada violação dos dispositivos infraconstitucionais, a decisão proferida nesta instância superior que negou provimento ao especial foi omissa a respeito da possibilidade de utilização do agravo de instrumento como recurso apto a discutir se os embargos de terceiro são cabíveis em ação de despejo que atinge locatário que não participou do processo originário.
+Afirma que, pelo fato de a decisão interlocutória não estar contida no rol do art. 1.015 do CPC, não haveria falar em admissão do agravo de instrumento como recurso cabível no caso concreto.
+Requer o acolhimento dos embargos para que seja sanada a omissão verificada, de modo a se reconhecer que o STJ não admite a interposição do agravo de instrumento contra decisão interlocutória e que a falta de previsão legal inviabiliza a utilização do recurso na origem.
+É o relatório. Decido.
+O recurso deve ser acolhido sem efeitos modificativos, mas apenas integrativos.
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, verifica-se que, na decisão embargada, não houve manifestação a respeito do cabimento do agravo de instrumento contra decisão interlocutória proferida em execução de ação de despejo apresentada na origem.
+Registre-se que dos embargos de terceiro apresentados pelo locatário não se conheceu por não ser cabível para impugnar a ordem de despejo direcionada ao real locatário, ainda que este não tenha participado do processo de conhecimento.
+Contra a referida decisão, o recorrido apresentou agravo de instrumento, alegando que o fato de ter sido proferida decisão interlocutória para resolver o incidente processual autorizaria a mencionada impugnação. O recurso foi devidamente processado na instância ordinária, tendo como fundamentos a aplicação do art. 1.015, parágrafo único, do CPC e a jurisprudência do STJ acerca do caráter taxativo mitigado dos incisos que preveem as hipóteses de cabimento do agravo de instrumento.
+A embargante recorreu, alegando que é incabível a utilização do agravo de instrumento e que a interpretação dada pela Corte de origem transformaria o rol taxativo em meramente exemplificativo.
+A respeito do tema, o Tribunal a quo, à fl. 659, decidiu da seguinte forma:
+Sustenta o Agravado o não cabimento do agravo de instrumento, no caso dos autos, considerando que a decisão agravada não consta do rol do art. 1.015 do CPC. Mais além, afirma que o recurso é intempestivo, pois o MM. Juiz apenas reafirmou o que havia sido decidido nos autos do cumprimento de sentença.
+Em relação à irrecorribilidade da decisão agravada, verifica-se que o provimento judicial combatido foi proferido em embargos de terceiro vinculados a um cumprimento de sentença, aplicando-se, por conseguinte, o disposto no art. 1.015, parágrafo único, do CPC.
+Verifica-se que, ao analisar a rejeição dos embargos de terceiro sem extinguir o cumprimento de sentença, o relator na origem entendeu que a decisão proferida em primeiro grau tinha natureza de decisão interlocutória, de forma que o recurso cabível contra essa decisão era o agravo de instrumento, nos termos do art. 1.015, paragrafo único, do CPC.
+A orientação acima está em consonância com a jurisprudência do STJ de que o agravo de instrumento é o recurso cabível contra decisão que resolve eventual impugnação ao cumprimento de sentença, mas não extingue a execução, como na espécie. A propósito:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE EXECUÇÃO HIPOTECÁRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. O acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que o agravo de instrumento é o recurso cabível contra decisão que resolve impugnação ao cumprimento de sentença, mas não extingue a execução - como na hipótese -, não sendo possível a incidência do princípio da fungibilidade recursal, por se tratar de erro grosseiro. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido. (AgInt no AREsp n. 700.905/PA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/2/2017, DJe de 21/2/2017.)
+Caso, pois, de aplicação da Súmula n. 83 do STJ neste ponto do recurso.
+Ante o exposto, acolho os embargos de declaração a fim de, nos termos da fundamentação acima, sanar a omissão apontada sem atribuir efeito modificativo à decisão de fls. 928-932.
+Publique-se. Intimem-se.
