@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MRV MRL GUARUS IV INCORPORAÇÕES SPE LTDA à decisão de fls. 407/408, que não conheceu do recurso.
+Sustenta a parte embargante que:
+4. De início, importante destacar que não há dúvidas de que o acórdão foi publicado no dia 28 de março 2022 e que o recurso especial foi protocolizado no dia 27 de abril de 2022.
+5. Não obstante, conforme documento de fls. 357/363, ante a indisponibilidade do sistema, os prazos iniciados em 28 de março de 2022 foram prorrogados para o dia 31 de março de 2022. Veja-se:
+ ..
+6. De modo de que, sendo certo que o início do prazo ocorreu em 31 de março de 2022 e, considerando os feriados de 14.04.2022 - 20.04.2022 - 21.04.2022 - 22.04.2022, é incontroverso o fato de que o dia fatal para a interposição do recurso findar-se-ia em 27 de abril de 2022. Veja-se:
+ ..
+7. Pelo exposto, é fato de que o recurso apresentado é tempestivo, bem que a parte Recorrente no ato da interposição deste, comprovou a existência das interrupções e feriados existências, atendendo os requisitos dispostos no art. 1.003 §6 (fl. 411).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntado às fls. 357/362, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso.
+A propósito: AgInt nos EAREsp n. 1.933.921/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 3/10/2022; AgInt nos EDcl no AREsp n. 1.803.102/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 3/11/2022; AgInt no AREsp n. 2.078.984/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 17/10/2022; AgInt no AREsp n. 2.010.923/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2022; AgInt nos EDcl no REsp n. 1.991.002/AM, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/9/2022; AgRg no AREsp n. 2.110.048/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/8/2022.
+Veja-se que houve a publicação da decisão do acórdão recorrido em 28/3/2022, (fl. 348). Excluindo-se o dia 28/3/2022 (primeiro dia), inicia-se a contagem no dia 29/3/2022, até o dia 14/4/2022. Exclui-se da contagem o dia 15/4/2022, apenas, uma vez que se trata de feriado nacional, que não necessita ser comprovado. Após, a contagem é reiniciada no dia 18/4/2022, finalizando o prazo no dia 19/4/2022.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 19/4/2022, sendo que o recurso especial foi interposto somente em 27/4/2022, fora do prazo.
+Registre-se que a indisponibilidade de sistema ocorrida no Tribunal de origem, em 26/4/2022 (fl. 363), não interfere na contagem, uma vez que o prazo do recurso começou no dia 28/3/2022 e terminou no dia 19/4/2022.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
