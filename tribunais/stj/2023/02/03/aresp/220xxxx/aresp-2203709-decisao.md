@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INDIANA SEGUROS S.A. contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA POR ACIDENTE DE TRÂNSITO - DECISÃO SANEADORA QUE REJEITA TESE DE PRESCRIÇÃO - NECESSIDADE DE ANÁLISE INDIVIDUALIZADA DAS PRETENSÕES - PRETENSÕES REPARATÓRIA DE DIFERENTES ESPÉCIES - TEORIA DA ACTIO NATA. DANOS MORAIS, ESTÉTICOS E PENSÃO POR REDUÇÃO DE CAPACIDADE LABORATIVA - PEDIDOS QUE DETÊM, COMO CAUSA DE PEDIR, A IRREVERSIBILIDADE CLÍNICA DAS SEQUELAS SOFRIDAS NO ACIDENTE - TERMO INICIAL NA DATA EM QUE SE TOMOU CIÊNCIA DA SEDIMENTAÇÃO DAS LESÕES ATRAVÉS DE PERÍCIA MÉDICA REALIZADA PARA FINS DE DPVAT - PRECEDENTES. LUCROS CESSANTES - CONHECIMENTO DO DANO QUE INDEPENDE DE FATORES EXTERNOS - FÁCIL CONSTATAÇÃO - PRETENSÃO PARCIALMENTE PRESCRITA - PROCESSO EXTINTO COM RESOLUÇÃO DE MÉRITO EM RELAÇÃO AOS LUCROS CESSANTES ANTERIORES A 20/03/2015.
+AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+Irresignada, INDIANA SEGUROS S.A. interpôs recurso especial com base no art. 105, III, a e c, da CF, apontando a violação do art. 206, § 3º, IV, do CC, além de dissídio jurisprudencial, sob o argumento de que o prazo prescricional da pretensão indenizatória decorrente de acidente de trânsito é de 3 anos, contados a partir da data do acidente, e que o fato das lesões não terem se consolidado não obstaria o ajuizamento da ação.
+O recurso não foi admitido pelo Tribunal de Justiça do Paraná, por incidir, no caso, o teor da Súmula n.º 283 do STF, ante a ausência de impugnação aos fundamentos da decisão recorrida (e-STJ, fls. 256/257).
+Nas razões do presente agravo, INDIANA SEGUROS S.A. refuta o referido óbice de prelibação (e-STJ, fls. 261/268).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Do direito à homologação do acordo firmado
+Nas razões do presente recurso, INDIANA SEGUROS S.A. afirmou ter havido violação do art. 206, § 3º, IV, do CC, além de dissídio jurisprudencial, sob o argumento de que o prazo prescricional da pretensão indenizatória decorrente de acidente de trânsito é de 3 anos, contados a partir da data do acidente, e que o fato das lesões não terem se consolidado não obstaria o ajuizamento da ação.
+Contudo, consignou o TJPR o seguinte:
+No caso em análise, identifico que a parte autora formulou uma pluralidade de pretensões e, portanto, cada uma terá um termo inicial próprio, a ser regido pela sua natureza específica. Como já destacado na decisão de mov. 11/TJ, a autora deduziu quatro espécies distintas de pretensões reparatórias, a saber: i)lucros cessantes, pelo período de inatividade dos 38 meses imediatamente posteriores ao acidente e no qual recebeu auxílio-doença; danos morais pelo trauma sofrido pelo acidente, sequelas, constante lembrança do evento e temor por não conseguir exercer sua profissão com exatidão; dano estético e; iii) pensão por redução da capacidade laboral, com termo inicial na data do acidente e termo final no diaiv)em que ela completará 76 (setenta e seis) anos.
+Tratando-se todas de pretensões reparatórias, sobre elas se aplica o prazo prescricional trienal previsto pelo art. 206, §3º, inciso V do Código Civil, porém, como em cada uma delas cinge sobre um bem jurídico supostamente lesado distinto, o termo inicial de fluência da prescrição será a data em que cada alegado dano ocorreu.
+Não se vislumbra nos autos impugnação a tais fundamentos, o que fez por atrair o teor da Súmula n.º 283 do STF, por analogia, tendo em vista que incólumes as conclusões do acórdão recorrido quanto à aplicação distinta dos termos iniciais da prescrição para cada pretensão indenizatória.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. INDEFERIMENTO DA INICIAL. ALEGAÇÃO DE EQUÍVOCO NA EXTINÇÃO DO FEITO. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL. FUNDAMENTO INATACADO. SÚMULAS NºS 283 DO STF E 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. CORRETA APLICAÇÃO. PREVISÃO CONTIDA NO ART. 85, § 11, DO NCPC. ENTENDIMENTO FIRMADO EM JULGAMENTO DA EG. SEGUNDA SEÇÃO DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.(..)
+3. A subsistência de fundamento inatacado, apto a manter as conclusões do acórdão impugnado, impõe o reconhecimento da incidência da Súmula nº 283 STF, por analogia.
+(..)
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.818.635/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma , julgado em 25/4/2022, DJe 28/4/2022)
+Por tais razões, não se pode conhecer do recurso especial.
+Salienta-se, por oportuno, que, de acordo com o pacífico entendimento desta Corte Superior, os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+.PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR ACIDENTE DE TRÂNSITO. PRESCRIÇÃO TRIENAL. AFASTAMENTO. TERMOS INICIAIS DISTIINTOS PARA CADA PRETENSÃO INDENIZATÓRIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA N.º 283 DO STF. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
