@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por PAULO ROGERIO DE ARAUJO BRANDAO COUTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ILEGITIMIDADE DOS SÓCIOS. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO (STJ, TEMA 961). ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015.
+PROLAÇÃO DA SENTENÇA/DECISÃO. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" e alínea "c" do permissivo constitucional, alega violação do art. 20, § 3º, da Lei n. 5.869/1973, no que concerne à necessidade de se reconhecer que o arbitramento dos honorários sucumbenciais, ainda que se trate da Fazenda Pública, deve observar o limite mínimo de 10% e máximo de 20%, trazendo os seguintes argumentos:
+Inicialmente, o Recorrente esclarece que não desconhece a exceção prevista no §4º do art. 20 do CPC/73 para os casos em que a parte vencida for a Fazenda Pública, hipótese na qual o juiz poderá arbitrar o valor consoante apreciação equitativa.
+Ocorre que, embora o artigo mencionado seja aplicável aos casos em que a Fazenda Pública for parte vencida, no próprio dispositivo prevê que devem ser observados os parâmetros fixados no §3º do mesmo dispositivo
+ ..
+Não obstante, o acórdão recorrido condenou a Recorrida ao pagamento dos honorários sucumbenciais no patamar de R$ 5.000,00, corresponde a 5% da condenação, ou seja, em patamar inferior a 10% da condenação, considerando o valor atualizado da execução fiscal, que, em julho de 2021, totalizava R$ 106.780,92 (conforme expressamente enfrentado pelo acórdão recorrido).
+Ora, ao assim decidir, o acórdão recorrido negou vigência ao art. 20, §3º, do CPC/73, considerando que a condenação corresponde a apenas metade do mínimo estabelecido, que é de 10% do valor da condenação.
+ ..
+Assim, ao condenar a Recorrida ao pagamento de honorários advocatícios no valor de R$ 5.000,00, o acórdão recorrido negou vigência ao art.
+20, §3º, do CPC/73, segundo o qual o arbitramento dos honorários sucumbenciais, ainda que se trate da Fazenda Pública, deve observar o limite mínimo de 10% e máximo de 20%, motivo pelo qual o presente recurso merece provimento com fundamento no art. 105, III, "a", da CF/88 (fls. 503-506).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
