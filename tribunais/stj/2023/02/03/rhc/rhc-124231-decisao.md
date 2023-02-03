@@ -1,0 +1,25 @@
+DECISÃO
+Adoto por relatório o escrito pela Subprocuradora-Geral da República Samantha Chantal Dobrowolski (fls. 668/669):
+Trata-se de recurso ordinário em habeas corpus, fundado no art. 105, II, "a", da CF/88 e nos arts. 30 e seguintes da Lei n.º 8.038/1990, interposto por Olivo Cavalleri, Adelar Antonio Lorenzatto e Itamar Luiz Lorenzatto, em face do acórdão prolatado pela 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou o habeas corpus n.º 0280515-67.2019.8.21.7000, lá impetrado objetivando o trancamento das ações penais ajuizadas em desfavor dos recorrentes (autos n.º 001/2.15.0028629-8, 001/2.15.0028482-1, 001/2.15.0028631-0,001/2.15.0028463-5 e 001/2.15.0028628-0), para apuração da prática de crimes de sonegação fiscal, tipificado no artigo 1º, II, da Lei n.º 8.137/90.
+O acórdão atacado foi assim ementado:
+HABEAS CORPUS. SONEGAÇÃO FISCAL. ART. 1º, II, DA LEI 8.137/90. JUSTA CAUSA. PAGAMENTO DE DÉBITO TRIBUTÁRIO DA EMPRESA DOS PACIENTES. DENÚNCIA QUE INDICA FRAUDE ESTRUTURADA. CONDUTA QUE DEPENDE DA AVALIAÇÃO DO MÉRITO. IMPOSSIBILITADO O TRANCAMENTO DA AÇÃO.
+1. O trancamento da ação penal é medida excepcional, justificada quando verificada inépcia da denúncia, ausência de justa causa - quando não houver indícios mínimos de autoria e materialidade, a tornar injustificável já a instauração da ação penal -, atipicidade da conduta ou quando presente causa de extinção da punibilidade.
+2. No caso vertente, se verifica que, embora tenha sido demonstrado o adimplemento dos débitos atribuídos à empresa titulada pelos paciente s, a atrair a extinção da punibilidade prevista no art. 9º, § 2º, da Lei 10.684/03, as denúncias imputam a existência de fraude estruturada, envolvendo outros acusados e empresas, em concurso de agentes. Assim, a análise da sua conduta, para fins criminais, depende da avaliação do mérito e, em especial, da sua participação na ação que levou aos demais débitos tributários, o que escapa à análise do habeas corpus. ORDEM DENEGADA. (e-fl. 598)
+No recurso sustenta-se, em síntese, que, uma vez efetuado o pagamento integral dos débitos tributários de responsabilidade da empresa Center master sul, da qual os recorrentes são sócios-gerentes, deve ser extinta a punibilidade em relação a eles, nos termos do artigo 9º, § 2º, da Lei nº 10.684/03. Argumenta-se que os demais débitos tributários são de empresas com as quais os recorrentes não possuem vínculo algum (e-fls. 628-646).
+Admitido o recurso na origem (fl. 650), os autos ascenderam a esta Corte.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 668/676).
+É o relatório.
+Ocorre que o recurso ordinário perdeu o objeto.
+Com efeito, conforme se verifica das informações prestadas pela 13ª Vara Criminal do Foro Central da comarca de Porto Alegre/RS, em 26/9/2022, foi proferida sentença, na qual: a) Olivo Cavalleri foi absolvido; b) Adelar Antônio Lorenzatto foi condenado à pena de 4 anos de reclusão, em regime aberto, e pagamento de 170 dias-multa, substituída, ao final, por duas penas restritivas de direitos; e c) Itamar Luiz Lorenzatto foi condenado à pena de 7 anos de reclusão, em regime semiaberto, e pagamento de 530 dias-multa (sentença às fls. 686/753).
+Nesse contexto, a prolação de sentença condenatória configura título judicial que pressupõe a existência de prévia dilação probatória, na qual foi aferida e confirmada a existência de justa causa não só para a ação penal, mas também para a própria condenação, que somente poderá ser desconstituída por meio do recurso cabível.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ATENTADO VIOLENTO AO PUDOR. TRANCAMENTO DE AÇÃO PENAL. CRIME COMETIDO ANTERIORMENTE À LEI N. 12.015/2009. ALEGADO ABOLITIO CRIMINIS DA CONDUTA. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. TESE AMPLAMENTE EXAMINADA. PREJUDICADO.
+1. Embargos de declaração opostos com caráter infringente, que devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. A superveniência de sentença condenatória, na linha da orientação firmada nesta Corte, torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de que a conduta criminosa que foi atribuída ao recorrente foi revogada pela Lei n. 12.015/2009, haja vista que o novo exame da quaestio pelo Juízo de primeiro grau se dá de forma significativamente mais aprofundada.
+3. A tese de que o art. 214 do Código Penal foi revogado pela Lei n. 12.015/2009 foi amplamente examinada pelas instâncias ordinárias. 4. Agravo regimental desprovido.
+(EDcl nos EDcl no RHC n. 29.303/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/10/2020)
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL. ART. 1º, II, DA LEI N. 8.137/1990. TRANCAMENTO DE AÇÃO PENAL. SUPERVENIÊNCIA DE SENTENÇA. ABSOLVIÇÃO DE UM DOS RECORRENTES E CONDENAÇÃO DOS DEMAIS. PERDA DO OBJETO.
+Recurso prejudicado.
