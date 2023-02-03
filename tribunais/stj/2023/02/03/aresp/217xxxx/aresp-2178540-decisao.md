@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Município de Miracema do Tocantins contra decisão da Presidência desta Corte Superior que não conheceudo agravo em recurso especial, ante a incidência da Súmula 182/STJ (fls. 433/435).
+Inconformada, a parte agravante sustenta a inaplicabilidade do referido óbice, sob o argumento de que "em que pese a ausência de indicação expressa da Súmula 284/STF e Súmula 7/STJ, fato é que a não violação das referidas súmulas foi devidamente debatida no Agravo em Recurso Especial interposto. Naquela oportunidade, foi alegado ser inquestionável tanto a demonstração clara acerca da violação a Leis Federais, como o prequestionamento da matéria objeto do Recurso Especial, bem como que a ausência de indicação expressa do dispositivo legal violado não é, por si só, motivo para deixar de conhecer da matéria. Esclareceu-se, ainda, que a matéria debatida foi devidamente exposta e bem fundamentada, cuja análise também não implica no revolvimento do conjunto probatório dos autos. Desta forma, não há que se falar que o recurso anteriormente interposto não enfrentou os fundamentos invocados pela decisão recorrida." (fl. 441).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 433/435 ), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
