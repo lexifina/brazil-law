@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS ALBERTO ALVES GONCALVES contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 0004650-61.2022.8.26.0506.
+O Juízo das Execuções Penal indeferiu o pleito de livramento condicional em favor do Paciente, que está no cumprimento da pena de 21 (vinte e um) anos, 6 (seis) meses e 26 (vinte e seis) dias de reclusão, em regime fechado, com término previsto para 23/12/2025 (fls. 24-25).
+O Reeducando interpôs agravo em execução penal, que foi desprovido pelo Colegiado de origem (fls. 26-33).
+Neste writ, a Parte Impetrante sustenta, em suma, que o Tribunal local não apresentou fundamentação idônea para negar o livramento condicional ao Paciente.
+Aduz, para tanto, que "no atestado enviado pelo diretor da penitenciária, constou como "MAU" comportamento, de maneira equivocada, pois o paciente já se encontra reabilitado das faltas graves que cometeu. Isso porque o paciente cometeu falta grave pela última vez na data de 23.07.2019, ou seja, foi reabilitado da falta na data de 24.07.2020" (fl. 4).
+Requer, em liminar e no mérito, a concessão do livramento condicional ao Paciente.
+O pedido liminar foi indeferido (fls. 40).
+O Ministério Público Federal apresentou parecer opinando pela denegação da ordem (fls. 74-79).
+É o relatório. Decido.
+O Tribunal a quo negou provimento ao recurso da Defesa, mantendo o indeferimento do livramento condicional à base da motivação a seguir (fls. 26-33):
+"O recurso não merece provimento.
+Pois bem, fácil se constata, no caso, que o indeferimento do pleito era a medida de rigor, diante de manifesta ausência do requisito de ordem subjetiva. Com efeito, conforme verificado dos autos, CARLOS ALBERTO, à época da decisão, possuía comportamento carcerário classificado como mau, em decorrência do cometimento de diversas faltas disciplinares de natureza grave (intercaladas com algumas de natureza média), cometidas em 29/10/2007, 25/09/2011, 05/12/2012, 26/03/2013, 14/03/2016, 14/04/2016, 28/06/2016, 12/10/2017, 28/11/2017, 23/04/2018, 25/07/2018, 29/10/2018, 09/12/2018, 08/03/2019, 31/05/2019, 17/06/2019, 02/07/2019, 23/07/2019, com previsão de reabilitação, tão somente para 09/05/2032 (cf.
+Boletim Informativo de fls. 15/20), todas, à exceção da segunda e da terceira, perpetradas, em sequência, durante período de reabilitação da(s) então em curso e soma do(s) estabelecido(s) para a(s) nova(s), nos termos do artigo 90, "caput", e parágrafo único, do Regimento Interno Padrão (resolução SAP nº144/2010). Daí porque, ausente um dos requisitos legais no artigo 83, inciso III, alínea "a", do Código Penal, estando o agravante, à época da análise do pedido, em período de reabilitação de comportamento, imperiosa era a rejeição do pleito.
+Desse modo, diversamente do que se apontou, em que pese o agravante não tenha cometido falta disciplinar nos últimos 12 meses, ele não preencheu um dos requisitos legais, qual seja, o bom comportamento durante a execução da pena, ainda mais em se tratando, no caso, de "livramento condicional", não simples "progressão", necessitando de "méritos" claros para tão amplo benefício."
+Como se vê, o indeferimento do benefício foi suficientemente fundamentado, em razão da ausência do requisito subjetivo, tendo a Corte de origem apresentado elemento concreto nos autos, demonstrando ausência de bom comportamento durante a execução da pena, uma vez que o Paciente possui anotação pela prática de inúmeras faltas graves, sendo que as duas últimas, cometidas em 02/07/2019 e 23/07/2019, estarão reabilitadas apenas nas data de 09/05/2031 e 09/05/2032, respectivamente (fl. 19).
+Registro que é legítimo ao julgador considerar, no caso concreto e motivadamente, a impossibilidade de concessão do livramento condicional devido a ausência de bom comportamento durante a execução da pena , in verbis:
+"Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído; e
+d) aptidão para prover a própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir." (sem grifos no original)
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição a recurso, o que implica o seu não conhecimento, ressalvados casos excepcionais, onde seja possível a concessão da ordem, de ofício.
+II - "A jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Quinta Turma, de minha relatoria, DJe de 19/02/2019).
+III - Para a concessão do livramento condicional, deve o acusado preencher tanto o requisito de natureza objetiva (lapso temporal) quanto os pressupostos de cunho subjetivo (comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto), nos termos do art. 83 do CP, c/c art. 131 da LEP.
+IV - No caso concreto, o v. acórdão considerou, além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, ausente o requisito subjetivo, com base em elementos concretos da execução penal (histórico prisional conturbado). Tratando-se de fundamentação concreta trazida aos autos, afasta-se o mérito à concessão do benefício.
+V - Ademais, tem-se que "Também é firme o posicionamento desta Corte Superior no sentido de que é inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para o livramento condicional ou outro benefício, uma vez que tal providência implica reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita. Precedentes" (AgRg no HC n. 475.608/MS, Quinta Turma, de minha relatoria, DJe de 19/02/2019).
+Habeas corpus não conhecido" (HC 643.763/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/03/2021, DJe 23/03/2021; sem grifos no original.)
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGO a ordem de habeas corpus .
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE CONCESSÃO DE LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA.
