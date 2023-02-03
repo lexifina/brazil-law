@@ -1,0 +1,27 @@
+DECISÃO
+
+Trata-se  de  habeas  corpus  substitutivo  de  recurso  próprio,  com  pedido  liminar,  impetrado  em  benefício  de  ABMAEL BARBOSA DOS SANTOS e CARLOS HENRIQUE DOS SANTOS,  contra  v.  acórdão  prolatado  pelo  eg.  Tribunal  de  Justiça  do  Estado  de Santa Catarina.
+Depreende-se  dos  autos  que  os pacientes foram presos em flagrante e tiveram as prisões convertidas em preventiva pela suposta prática do delito de homicídio qualificado tentado - art. 121, §2º, IV c/c artigo 14, inciso II, ambos do Código Penal.(fl.720)
+Irresignada,  a defesa impetrou habeas corpus  perante  o  eg.  Tribunal  a  quo  que denegou a ordem (fls. 58-64), de acordo com a seguinte ementa:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. EXIGÊNCIAS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL PREENCHIDAS. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. GRAVIDADECONCRETA DO DELITO. MODUS OPERANDI. RISCO DE REITERAÇÃOCRIMINOSA. AUSÊNCIA DE VÍNCULOS COM O DISTRITO DA CULPA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES MAIS BRANDAS.
+1. As referências ao modus operandi, quando extrapolam a mera reprodução das hipóteses legais e evidenciam a maior periculosidade do réu e reprovabilidade da conduta, constituem fundamento idôneo para a decretação da prisão preventiva para salvaguardar a ordem pública.
+2. A falta de vínculo com o distrito da culpa, permeada pela ausência de endereço certo e vinda recente de outro Estado, indica a presença de risco à aplicação da lei penal. PEDIDO DE ORDEM CONHECIDO E DENEGADO."
+Daí  o  presente  mandamus,  no  qual  postula  a  defesa,  em  linhas  gerais,  a  revogação  da  prisão  preventiva decretada  em  desfavor  dos  pacientes,  em  razão  de não estarem presentes os requisitos do acautelamento cautelar dos acusados.
+Afirma que a fundamentação do decreto prisional é genérica e que os pacientes são primários, sem antecedentes.
+Sustenta a a possibilidade da aplicação de medidas cautelares diversas do art. 319 do CPP.
+Requer a revogação das prisões cautelares com e/ou aplicação de medidas cautelares diversas.
+A  liminar  foi  indeferida  às  fls. 714-716.
+Informações  prestadas  às  fls.  719-740.
+O  Ministério  Público  Federal,  às  fls.  750-758,  manifestou-se  pelo não conhecimento do writ, em parecer assim ementado (fl. 750):
+"HABEAS CORPUS COM PEDIDO DE LIMINAR. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO DO WRIT"
+É  o  relatório
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, inciso XX, permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as co nfrontar".
+Quanto a alegação de ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão as segregações cautelares, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.)
+Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
