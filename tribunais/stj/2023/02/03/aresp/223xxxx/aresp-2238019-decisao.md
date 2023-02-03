@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por Puca Remoções e Auto Socorro Eireli desafiando decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo que inadmitiu seu recurso especial ante a incidência da Súmula 7/STJ.
+A parte agravante, nas razões do agravo, limita-se a repetir a petição do recurso especial, sustentando que "não é necessária a reanálise de provas, uma vez que a Recorrente não as contesta, mas tão somente demonstra a implicação do fato perante a norma" (fl. 2067).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não rebateu, de modo específico, o fundamento adotado pela decisão agravada para negar trânsito ao apelo especial, limitando-se a reeditar os mesmos argumentos apresentados no recurso inadmitido.
+Com efeito, a ora recorrente, nas razões do agravo, cingiu-se a repetir a petição do recurso especial, deixando de refutar, de modo específico, a apontada incidência da Súmula 7/STJ.
+Quanto ao referido óbice, conquanto a agravante tenha mencionado, nas razões do agravo, que "não é necessária a reanálise de provas, uma vez que a Recorrente não as contesta, mas tão somente demonstra a implicação do fato perante a norma" (fl. 2067), limitou-se a defender a não ofensividade à referida súmula, à míngua de demonstrar a particularidade do caso dos autos suficiente para afastar o óbice apontado, nos termos em que aplicado, deixando, portanto, de impugná-lo especificamente.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
