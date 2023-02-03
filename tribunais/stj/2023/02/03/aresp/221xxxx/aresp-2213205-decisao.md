@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAMELA SUELEN VARIETTA PUJOL contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 331/332, in verbis:
+Trata-se de Agravo em Recurso Especial interposto DEFENSORIA PÚBLICA DO ESTADO DO RIO GRANDE DO SUL em favor de PAMELA SUELEN VARIETTA PUJOL (fls. 304/309) contra Decisão da Segunda Vice-Presidência do TJRS (fl. 294/296) que inadmitiu o Recurso Especial (fls. 276/281) interposto contra Acórdão proferido nos autos da Apelação Criminal nº 5002289-78.2019.8.21.0037/RS (fls. 261/267) que portou a seguinte Ementa:
+APELAÇÃO CRIME. FURTO SIMPLES. PROVA ROBUSTA. DOSIMETRIA DA PENA. REDIMENSIONAMENTO.
+FURTO. A prova dos autos é robusta a indicar a prática do crime, tendo sido presenciado pela funcionária do estabelecimento furtado. Ausência de dúvida relevante que permita a absolvição.
+DOSIMETRIA DA PENA. (i) neutralização das vetoriais culpabilidade, conduta social, circunstâncias e consequências, com a redução da pena-base para o mínimo legal; (ii) confirmação da reincidência, com o redimensionamento da fração de aumento.
+REGIME. Alterado o regime prisional para o semiaberto.
+RECURSO PARCIALMENTE PROVIDO.
+A parte Agravante insurge-se contra a incidência da Súmula 83, do STJ, ao argumento de que "o recurso defensivo encontra-se ancorado em precedentes que demonstram que a matéria, a despeito do que sustenta a decisão agravada, não está firmada nesta Corte Superior" (fl. 308). Assevera que "não há fundamento idôneo para a majoração operada, sendo imperioso o redimensionamento da fração aplicada para o patamar mínimo de 1/6" (fl. 308).
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da controvérsia, o Tribunal de origem assim consignou (e-STJ fl. 265):
+Em relação à pena provisória, existindo duas condenações pela prática de delitos de igual natureza, é possível um aumento mais significativo, à razão de 1/3, totalizando um ano e quatro meses de reclusão, que torna-se definitiva diante da ausência de outras causas de alteração da pena.
+Da análise do trecho transcrito, tenho que não assiste razão à defesa.
+É que, observada a devida fundamentação e em atenção à discricionariedade regrada do julgador, a exasperação da pena em razão da reincidência pode se dar em patamar acima de 1/6 quando constatada a existência de mais de uma condenação transitada em julgado.
+No caso, o acórdão recorrido deduziu fundamentação idônea apta a justificar o aumento na fração de 1/3, tendo em vista que apontou a existência de mais de uma condenação anterior transitada em julgado pelo mesmo delito ora perpetrado.
+Confiram-se nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DOSIMETRIA. DESPROPORCIONALIDADE NA EXASPERAÇÃO DA PENA-BASE. AUSÊNCIA DE ILEGALIDADE A SER SANADA. CIRCUNSTÂNCIAS CONCRETAS HÁBEIS A FUNDAMENTAR A FRAÇÃO DE EXASPERAÇÃO. FRAÇÃO DA REINCIDÊNCIA. PACIENTE MULTIRREINCIDENTE. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. Assim, é possível que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto. Precedentes.
+III - In casu, a pena-base foi exasperada em 1/2 (metade) devido aos maus antecedentes criminais e à exacerbada reprovabilidade da conduta do paciente, o qual desempenhava relevante função ("chefe" do tráfico de drogas no Morro do Turano), permanecendo no controle das atividades até mesmo quando recolhido no interior de unidade prisional de segurança máxima, circunstâncias concretas que demandam maior rigor na dosagem da pena, em atendimento aos princípios da proporcionalidade e da individualização da pena.
+IV - Quanto à fração da reincidência, predomina nesta Corte o entendimento de que o aumento da pena em patamar superior a 1/6, em virtude da incidência de circunstância agravante, demanda fundamentação concreta e específica para justificar o incremento em maior extensão (HC n. 387.586/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 17/4/2017; e HC n. 298.050/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017.)
+V - In casu, inexiste ilegalidade acerca da fração da reincidência, uma vez que as instâncias ordinárias atestaram a existência de três condenações transitadas em julgado, valoradas negativamente a título de reincidência, de modo que se mostra proporcional o aumento da ordem de 1/2 para a referida agravante.
+Agravo regimental desprovido.
+(AgRg no HC n. 733.705/RJ, relator Ministro Jesuíno Rissato, Desembargador Convocado do TDFT, Quinta Turma, julgado em 16/8/2022, DJe de 23/8/2022, grifei.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO DOSIMETRIA. COMPENSAÇÃO PARCIAL ENTRE A CONFISSÃO ESPONTÂNEA E A MULTIRREINCIDÊNCIA. POSSIBILIDADE. FRAÇÃO MAIOR QUE 1/6. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+2. A Terceira Seção, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, firmou o entendimento de que, aferidas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". Recentemente, em 11/10/17, no julgamento do Habeas Corpus 365.963/SP, firmou a jurisprudência no sentido que a especificidade da reincidência não obstaculiza sua compensação com a atenuante da confissão espontânea.
+3. Tratando-se de réu multirreincidente, deve ser procedida à compensação parcial entre a atenuante da confissão espontânea e a agravante da reincidência, como realizado pela Corte Estadual, sendo que o aumento da pena na fração de 1/2 não se mostra desproporcional, eis que, mesmo com a compensação, restam três condenações a serem sopesadas na segunda fase da dosimetria.
+4. Agravo regimental não provido.
+(AgRg no HC n. 669.203/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. AGRAVANTE DE REINCIDÊNCIA. PROPORCIONALIDADE. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA. MULTIRREINCIDÊNCIA OU REINCIDÊNCIA ESPECÍFICA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. As hipóteses de reincidência específica ou multirreincidência podem justificar a exasperação da pena, na segunda fase da dosimetria, acima do patamar de 1/6, para a agravante de reincidência.
+2. Agravo regimental improvido.
+(AgRg no HC 548.769/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/3/2020, DJe 16/3/2020, destaquei.)
+Não vislumbro, portanto, a apontada ilegalidade.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
