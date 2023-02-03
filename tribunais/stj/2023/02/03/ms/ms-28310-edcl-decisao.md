@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BRUNO FILIPE DE OLIVEIRA RIBEIRO conta decisão de minha lavra que indeferiu liminarmente o mandado de segurança, consoante a seguinte ementa:
+"MANDADO DE SEGURANÇA. ATO JURISDICIONAL DA SEGUNDA TURMA DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. ÓBICES DAS SÚMULAS N. 284 DO STF; 282 DO STF; 211 DO STJ; E 356 DO STF. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. DESCABIMENTO DO MANDAMUS. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO."
+Alega o ora Embargante omissão, na medida em que "não se verifica da leitura da decisão embargada qualquer análise, ou sequer menção, acerca dos argumentos por nós suscitados consoante os quais se verificaria no caso em tela a ocorrência em diversos pontos da decisão objeto do writ os vícios de Flagrante Ilegalidade e Teratologia" (fl. 694). Reitera, no mais, a argumentação deduzida na petição inicial. Requer, pois, o acolhimento dos embargos.
+A UNIÃO, ora Agravada, ofereceu contrarrazões às fls. 742-743.
+É o relatório.
+Decido.
+O Embargante aponta omissão da decisão embargada, que considerou genérica, porque, segundo entende, não examinou os argumentos da impetração.
+Sem razão, contudo.
+Ora, a ausência de aprofundada incursão nas razões do Impetrante - aquelas diretamente relacionadas à suposta erronia do juízo de admissibilidade do recurso especial, com pedido de sua revisão - decorre logicamente da constatada e inequívoca impropriedade na escolha da via eleita, que não se coaduna com a pretensão deduzida.
+A despeito da respeitável discordância do combativo causídico com o deslinde da controvérsia, que esbarrou no juízo de admissibilidade do apelo especial, a via mandamental não se presta a mera revisão dos julgados dos órgãos fracionários desta Corte, sob pena de inconcebível desvirtuamento do sistema recursal.
+No caso em apreço, conforme clara e expressamente consignado na decisão agravada, in verbis:
+"O recurso especial interposto pelo ora Impetrante foi inadmitido na origem, ensejando o manejo de agravo, aqui atuado como ARESP 1.733.342/RJ.
+O Ministro Herman Benjamin, a quem o agravo foi distribuído, proferiu decisão que conheceu do agravo para não conhecer do recurso especial, porque (i) quanto à apontada violação ao art. 489 do Código de Processo Civil, deixou de indicar, de forma clara, o vício em que teria incorrido o acórdão impugnado, fazendo incidir o óbice da Súmula 284 do STF; (ii) em relação à alegada violação aos arts. 6.º, 8.º, 10, 11, 85, § 8.º, 505 e 1.015, parágrafo único, do Código de Processo Civil, o debate proposto no recurso especial não foi apreciado pelo Tribunal de origem, o que atraiu a incidência das Súmulas n. 282 do STF; 211 do STJ e 356 do STF. Ademais, o Agravante foi condenado ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do Código de Processo Civil.
+Houve o manejo de embargos de declaração, rejeitados pelo Relator, com advertência de que a reiteração seria considerada expediente protelatório sujeito a multa.
+O subsequente agravo interno foi desprovido pela SEGUNDA TURMA, mantendo na íntegra a decisão agravada.
+Daí a impetração do presente mandado de segurança, manejando para rediscutir o juízo de admissibilidade do recurso especial, bem como a condenação em honorários recursais.
+Ora, não há nada de ilegal, tampouco teratológico, no acórdão impetrado, que aplicou a jurisprudência sumulada deste Superior Tribunal de Justiça, no que diz respeito aos requisitos de admissibilidade do recurso especial, cotejando as razões do recorrente com o acórdão recorrido, e, em seguida, majorou os honorários recursais, em estrita observâncias do comando normativo.
+Assim, mostra-se inviável a utilização de mandado de segurança para reabrir a discussão sobre a matéria, o que se traduz em claro desvirtuamento da via mandamental.
+"Consoante jurisprudência firme na Corte Especial, "o mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo, que inexiste no caso presente." (AgRg no MS 25891/DF, Relator Min. Felix Fischer, DJe 16.10.2020). No mesmo sentido: AgInt no MS 25.274/DF, Relator Min. Mauro Campbell Marques, DJe 15.5.2020; AgRg no MS 20.981/DF, Rel. Ministro Sidnei Beneti, DJe 20.8.2014; AgInt no MS 25.515/DF, Relator Min. Raul Araújo, DJe 16.4.2020" (AgInt no MS 25.377/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020).
+No mesmo diapasão:  .. "
+Inexiste, portanto, omissão a ser sanada.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ATO JURISDICIONAL DA SEGUNDA TURMA DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. ÓBICES DAS SÚMULAS N. 284 DO STF; 282 DO STF; 211 DO STJ; E 356 DO STF. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. DESCABIMENTO DO MANDAMUS. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
