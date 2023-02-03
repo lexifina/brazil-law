@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CONSTRUTORA TENDA S/A contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Extrai-se dos autos que a parte agravante, nos termos da certidão de fls. 135 (e-STJ), foi intimada para - no prazo improrrogável de 05 dias - regularizar a representação processual, em razão da ausência de procuração do subscritor do agravo em recurso especial (Dr. THIAGO ADRIANO FERREIRA).
+Nota-se que a agravante - apesar de ter acostado aos autos alguns documentos no prazo acima citado - não procedeu a juntada de procuração e/ou substabelecimento de poderes ao subscritor do agravo em recurso especial dentro do prazo concedido.
+Imperioso frisar que "a jurisprudência desta Corte adota posicionamento no sentido de ser necessário o traslado da procuração constante no feito principal, ou então a juntada de nova procuração, a fim de que seja demonstrada a regularidade da representação processual" (AgInt no REsp 1.759.439/RS, 3ª Turma, DJe 2/9/2020). No mesmo sentido, conferir: AgInt nos EDcl no AREsp 1.955.572/SP (3ª Turma, DJe de 30/03/2022).
+Nos termos do art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/2015), não promove o saneamento do vício no prazo concedido.
+Dessa forma, em razão da ausência da cadeia completa de procurações outorgando poderes ao subscritor do agravo recurso especial, não se deve conhecer do referido recurso com fundamento na Súmula 115/STJ (Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos).
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
