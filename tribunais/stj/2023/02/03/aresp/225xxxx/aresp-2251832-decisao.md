@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE ANÁPOLIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE MANDADO DE SEGURANÇA. RECURSO INTERPOSTO NA ÁREA ADMINISTRATIVA, VIA E-MAIL. NÃO CONHECIMENTO. FALTA DE ASSINATURA E NÃO JUNTADA DOS ORIGINAIS. TESES AFASTADAS. JULGADO DO STJ. SENTENÇA MANTIDA.
+Alega violação das Leis n.s 8.078/1990 e 9.784/1999, no que concerne à impossibilidade de conhecimento de recurso interposto via e-mail sem a assinatura eletrônica do peticionante, trazendo os seguintes argumentos:
+Deve ser observado que as regras procedimentais que regem o processo administrativo na seara do consumidor estão previstas na LEI COMPLEMENTAR Nº 193, DE 06 DE JANEIRO DE 2009, fundamentada na Lei 9.784/99, que rege o processo administrativo em âmbito federal. Em ambas as situações não há a previsão legal para a interposição de recurso administrativo via e-mail sem assinatura eletrônica.
+Observa-se que tampouco o Poder Judiciário permite a interposição recursal sem assinatura eletrônica.
+Nesse sentido, tem-se a seguinte decisão:
+ ..
+Desta forma, ao exigir que o Município de Anápolis, por meio do PROCON, aceite via e-mail a interposição de recurso sem assinatura eletrônica, o Poder Judiciário cria uma nova regra procedimental e fere os princípios da legalidade e do devido processo legal.
+5. DO PEDIDO:
+Ante o exposto, requer ao Superior Tribunal de Justiça que receba o presente Recurso Especial, face ser tempestivo e preencher todos os requisitos de admissibilidade, e no final seja PROVIDO, reformando a decisão prolatada pelo E. Tribunal de Justiça de Goiás diante da infração à Lei Federal n. 8.078/1990 e à Lei 9.784/99 (fls. 501-502).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "De outro lado, verifica-se que, embora a parte recorrente tenha indicado violação à MP 2.180-35/01 e à Lei n. 4.414/64, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". (AgInt no REsp n. 1.468.671/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/3/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp n. 1.641.118/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp n. 744.582/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1/6/2020; AgInt no AREsp n. 1.305.693/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 31/3/2020; AgInt no REsp n. 1.475.626/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4/12/2017; AgRg no AREsp n. 546.951/MT, relator Ministro Felix Fischer, Quinta Turma, DJe de 22/9/2015; e REsp n. 1.304.871/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 1º/7/2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
