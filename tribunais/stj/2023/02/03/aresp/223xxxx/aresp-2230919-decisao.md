@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 703, e-STJ):
+PLANO DE SAÚDE - Pleito de declaração de inexigibilidade de débito, cumulado com indenização por danos morais - Procedência parcial decretada - Paciente acometida de disfunção temporomandibular - Abusividade reconhecida - Alegação de que lícita a negativa de cobertura ante parecer de junta médica - Descabimento - Tratamento à paciente que não depende de análise prévia da empresa ré, que não exerce atividade médica, mas aos profissionais de saúde diretamente responsáveis por seu atendimento - Operadora, ademais, que não pode justificar sua negativa com base em entendimento de outro médico conveniado, que não prestava atendimento à autora - Pedido médico, ademais, que justifica a necessidade de realização do procedimento - Cirurgia realizada por médico e hospitais credenciados, consoante documentos juntados aos autos - Dever da ré de custear todo o procedimento realizado, de forma integral, diretamente junto ao hospital - Danos morais - Cabimento - Recusa baseada em cláusula contratual que, ao tempo da proposit ura da ação, já era reconhecida como nula pelo entendimento pretoriano - Conduta que, assim, passou a gerar dano moral pelos enormes dissabores e dificuldades trazidos ao consumidor prejudicado - Fixação da verba reparatória em R$ 10.000,00 que se mostra razoável para compensar o sofrimento moral - Recurso desprovido.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 757 do Código Civil e 12 da Lei 9.656/98, por não haver respaldo legal para que a Recorrente seja compelida ao reembolso integral de despesas médicas incorridas fora da rede referenciada de profissionais vinculados ao plano da Sul América. Subsidiariamente, sustenta que o reembolso de profissionais não credenciados deverá se dar nos limites contratuais; e 186, 927 e 944 do Código Civil, ante a ausência de ato ilícito apto a ensejar a condenação de dano moral. Pleiteia, ademais, a minoração do quantum indenizatório.
+Contrarrazões as fls. 739/750 e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 756/768, e-STJ).
+Contraminuta às fls.772/786, e-STJ.
+É o relatório.
+Decido.
+1. Aduz a recorrente violação aos arts. 757 do Código Civil e 12 da Lei 9.656/98, sustentando o afastamento do reembolso, em razão de ter o recorrido optado por atendimento em rede particular não credenciada e, caso se entenda devido o reembolso que o mesmo se dê com as limitações prevista no contrato.
+No entanto, conforme consta do acórdão local, o procedimento foi realizado em hospital credenciado. Confira-se (fls. 705, e-STJ):
+Além disso, existindo indicação médica para a realização do tratamento, não pode a empresa prestadora de serviços de assistência médica interferir na indicação médica.
+ ..
+Nem se alegue, ademais, que o procedimento foi realizado de forma particular, em hospital não credenciado, posto que, não é o que se verifica dos documentos juntados aos autos, em especial os de fls. 19/20 e 22/35.
+Sendo assim, como bem decidido pelo julgador monocrático, é obrigação da ré custear o procedimento realizado na autora, de forma integral, diretamente junto à Santa Casa de Itu, incluindo as despesas hospitalares, cirúrgicas, materiais e honorários médicos.
+Dessa forma, havendo a Corte de origem atestado tratar-se de recusa indevida de procedimento em hospital conveniado, modificar tal premissa demandaria a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOSPITAL CREDENCIADO. RECUSA DE ATENDIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS NºS 283 E 284/STF. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação dos fundamentos do aresto recorrido atrai a incidência, por analogia, das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+3. Na hipótese, rever as conclusões do acórdão recorrido no que se refere à previsão de cobertura de atendimento médico realizado em regime de urgência ou emergência e à afirmação de que o hospital em que o autor se submeteu a tratamento médico era conveniado exigiria o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos vedados em recurso especial pelas Súmulas nºs 5 e 7/STJ.
+4. Consoante iterativa jurisprudência do Superior Tribunal de Justiça, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.539.741/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2022, DJe de 5/5/2022.)
+Ademais, a referida premissa de se tratar de hospital conveniado, afasta ainda a apontada ofensa ao art. 12 da Lei n. 9656/98.
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+2. Contudo, melhor sorte acolhe a recorrente quanto ao afastamento da condenação em danos morais. Constou do acórdão local (fls. 706, e-STJ):
+Da mesma forma quanto aos danos morais posto que não se pode negar os aborrecimentos decorrentes da incômoda situação pessoal da autora e da dificuldade da ré em dar imediato cumprimento ao contrato, sendo esses dissabores, por si só, ante a injustificada conduta da ré, suficientes para se deferir o direito à indenização por danos morais.
+Isto porque, não obstante as alegações da ré, fato é que, ainda que a recusa viesse, em um primeiro momento, amparada em cláusula contratual o que até então afastava o dever de reparar, é certo que a questão, ao tempo da propositura da lide, já estava plenamente definida pela jurisprudência dos Tribunais, em especial do Superior Tribunal de Justiça, pelo que não era mais lícito à ré abrigar-se em dispositivo sabidamente nulo para negar cobertura, razão pela qual sua conduta, neste caso como em outros semelhantes praticados por planos de saúde, deve ser, agora, entendida como abusiva e apta a gerar dano moral, pelo enorme desconforto, dificuldades e temor pela própria vida acarretados ao consumidor.
+A Segunda Seção possui entendimento de que a mera recusa de cobertura de procedimento ou tratamento baseada em dúvida razoável de interpretação de contrato não é apta, por si só, a causar dano morais indenizáveis, mormente ao se considerar a jurisprudência desta Corte no sentido de que o mero descumprimento contratual não gera dano moral.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA A ATENDIMENTO MÉDICO-HOSPITALAR COM FUNDAMENTO EM CARÊNCIA CONTRATUAL. INADMISSIBILIDADE. HIPÓTESE DE URGÊNCIA CARACTERIZADA. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis.
+2. A cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1923012/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2021, DJe 26/11/2021)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANO MORAL . PLANO DE SAÚDE. RECUSA À REALIZAÇÃO DE CIRURGIA PÓS-BARIÁTRICA. DÚVIDA RAZOÁVEL NA INTERPRETAÇÃO DO CONTRATO. AUSÊNCIA DE LESÃO EXTRAPATRIMONIAL.
+PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/201 6: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta Corte já firmou o entendimento no sentido de que não há se falar na ocorrência de dano moral indenizável quando a operadora se nega a custear tratamento médico com base em previsão contratual que excluía a
+cobertura da referida terapêutica, ou seja, com base em dúvida razoável.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar a conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no REsp 1927347/RS, Rel. Ministro
+MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+3. Do exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a condenação em dano moral.
+Publique-se. Intimem-se.
