@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por TOTAL S.A FALIDO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+GRAVO DE INSTRUMENTO. INCIDENTE DEDESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE INTIMAÇÃO. NULIDADE. PRECLUSÃO. TRATAMENTO DESIGUAL ENTRE AS PARTES. NÃO EVIDENCIADO.
+Quanto à controvérsia, alega violação dos arts. 272, § 2º, 278, e 280 do CPC, no que concerne à nulidade dos atos processuais póstumos por ausência de intimação das partes, trazendo os seguintes argumentos:
+Doutos Ministros, conforme elencamos e comprovamos, ao ser devidamente intimado da decisão embargada (evento 658), esta agravante teve uma indigesta e desagradável surpresa, que foi verificar que o juízo proferiu uma decisão de evento 650, sendo que desta respectiva decisão NÃO HOUVE INTIMAÇÃO A NENHUMA DAS PARTES, devendo todos os atos processuais posteriores serem declarados nulos, conforme estabelece os artigos 278 e seguintes do Código de Processo Civil.
+ ..
+Excelências, o referido direito não houve preclusão no caso em tela, pois a jurisprudência é pacifica no sentido que a alegação da nulidade deverá ser realizada na primeira oportunidade em que lhe couber falar nos autos (artigo 278 CPC), ou seja, a primeira oportunidade que coube a esta peticionante falar nos autos foi após a sua devida intimação na respectiva ação, o que foi devidamente realizado pela mesma.
+Em sua primeira oportunidade, foi arguida tal nulidade com a propositura deste respectivo agravo de instrumento em 21/03/2022, e sendo matéria de ordem pública pode ser arguida e apreciada em qualquer grau de jurisdição.
+ ..
+Doutos Ministros, está devidamente comprovado, que não houve intimação de nenhuma das partes com relação a decisão de evento 650, havendo apenas a intimação da decisão de evento 658, o que trouxe a esta peticionante o conhecimento da decisão agravada, e analisando os autos a possiblidade de verificar e comprovar o respectivo vicio gravíssimo que ocasiona a nulidade de todos atos subsequentes.
+O artigo 280 do CPC, também é claro no sentido que as INTIMAÇÕES SERÃO NULAS, quando não feitas sem observância das prescrições legais. (fls. 207-211).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem asseverou:
+Inicialmente, no tocante à nulidade arguida, a pretexto de que não houve a intimação das partes acerca da decisão anterior à agravada, tal não prospera, posto que a agravante compareceu nos autos posteriormente a mesma e nada alegou, de forma que preclusa restou sua discussão, ao teor do art. 278 do Código de Processo Civil. (fl. 189)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
