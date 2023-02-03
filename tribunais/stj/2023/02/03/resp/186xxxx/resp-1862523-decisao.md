@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  ALEXANDRE CARDOSO NEPOMUCENO,  com  fundamento  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  do Paraná  assim  ementado:
+"AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO COM GARANTIA FIDUCIÁRIA. PEDIDOS JULGADOS PARCIALMENTE PROCEDENTES. CONTRATO FIRMADO EM AGOSTO DE 2010. 1. TARIFAS DE REGISTRO DE CONTRATO E DE AVALIAÇÃO DO BEM. COBRANÇAS CONTRATADAS. AUSÊNCIA DE ABUSIVIDADE. 2. ÔNUS DA SUCUMBÊNCIA MANTIDO. RECURSO DESPROVIDO" (e-STJ fl. 231).
+Os embargos de declaração opostos na origem foram rejeitados.
+Nas  razões  do  recurso  especial  (e-STJ  fls.  251-264),  o  recorrente  aponta , além de divergência jurisprudencial, violação  dos  arts. 6º, III, 31 e 52, I, do Código de Defesa do Consumidor, alegando, em síntese, que: a) é ilegal a cobrança da Tarifa de Registro do Contrato sem a comprovação do custo desembolsado pela financeira; b) é ilegal a cobrança da Tarifa de Avaliação de Bem sem a comprovação de que a avaliação foi realmente efetuada.
+Em juízo de retratação realizado com fundamento no art. 1.040, II, do Código de Processo Civil de 2015, o órgão julgador manteve o entendimento então adotado nos termos da seguinte ementa:
+"RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ALIENAÇÃO FIDUCIÁRIA. TARIFA DE REGISTRO DE CONTRATO E DE AVALIAÇÃO DE BEM. REEXAME. CONTRATO BANCÁRIO FIRMADO EM 30 DE JULHO DE 2010. TARIFAS DE REGISTRO DE CONTRATO E DE AVALIAÇÃO DE BEM. LEGALIDADE. QUESTÃO AFETADA NO JULGAMENTO DO RESP Nº 1.578.553/SP - INCIDENTE DE RESOLUÇÃO DE DEMANDA REPETITIVA - EFEITO VINCULANTE. VALIDADE NOS CONTRATOS CELEBRADOS A PARTIR DO DIA 30.04.2008. JUÍZO DE RETRATAÇÃO NÃO ACOLHIDO. ACÓRDÃO MANTIDO.
+"Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato (..)". (REsp 1578553/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 28/11/2018, DJe 06/12/2018)"  (e-STJ  fl.  300).
+Decorrido o prazo para apresentação das  contrarrazões  (e-STJ  fl.  283),  foi determinada a remessa dos autos a esta  Corte  Superior.
+É  o  relatório.
+DECIDO.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+No tocante à Taxa de Avaliação de Bem e às despesas com o registro do contrato, ambos os assuntos já foram enfrentados pela Segunda Seção desta Corte na apreciação do Tema nº 958/STJ, nos termos da seguinte ementa:
+"RECURSO ESPECIAL REPETITIVO. TEMA 958/STJ. DIREITO BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS, REGISTRO DO CONTRATO E AVALIAÇÃO DO BEM. PREVALÊNCIA DAS NORMAS DO DIREITO DO CONSUMIDOR SOBRE A REGULAÇÃO BANCÁRIA. EXISTÊNCIA DE NORMA REGULAMENTAR VEDANDO A COBRANÇA A TÍTULO DE COMISSÃO DO CORRESPONDENTE BANCÁRIO. DISTINÇÃO ENTRE O CORRESPONDENTE E O TERCEIRO. DESCABIMENTO DA COBRANÇA POR SERVIÇOS NÃO EFETIVAMENTE PRESTADOS. POSSIBILIDADE DE CONTROLE DA ABUSIVIDADE DE TARIFAS E DESPESAS EM CADA CASO CONCRETO.
+1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo.
+2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015:
+2.1. Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado;
+2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva;
+2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto.
+3. CASO CONCRETO.
+3.1. Aplicação da tese 2.2, declarando-se abusiva, por onerosidade excessiva, a cláusula relativa aos serviços de terceiros ("serviços prestados pela revenda").
+3.2. Aplicação da tese 2.3, mantendo-se hígidas a despesa de registro do contrato e a tarifa de avaliação do bem dado em garantia.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO" (REsp 1.578.553/SP, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/11/2018, DJe de 6/12/2018 - grifou-se).
+No referido precedente, ficou decidido que é abusiva a cláusula que prevê a cobrança da tarifa de avaliação, ressalvada a efetiva avaliação do bem dado em garantia, que deve ser comprovada mediante juntada do laudo de avaliação ou de outra prova idônea, sendo admitido o controle da onerosidade excessiva do valor dessa tarifa em cada caso, valendo as mesmas considerações acerca da efetiva prestação do serviço e do controle da onerosidade excessiva para a tarifa de registro do contrato.
+No caso em apreço, em juízo de retratação realizado com fundamento no art. 1.040, II, do Código de Processo Civil de 2015, o órgão colegiado assim fez consignar:
+"(..) considerando que as partes firmaram o contrato em 30.07.2010, ou seja, após o dia 30.04.2008, anoto que a cobrança das tarifas de registro e de avaliação de bens não são ilegais, devendo ser admitidas, conforme orientação do Superior Tribunal de Justiça transcrita acima.
+Por fim, frise-se que o valor das tarifas está na média do mercado, razão pela qual não há que se falar em abusividade. Na verdade, o autor sequer apontou no que consiste a alegada abusividade para pedir a exclusão das cobranças e consequente repetição do que foi pago" (e-STJ fl. 302).
+Não houve o exame, contudo, da questão atinente à comprovação da efetiva prestação dos serviços pela instituição financeira, questão imprescindível para a adequada solução da controvérsia.
+Ante o exposto, determino o retorno dos autos ao Tribunal de origem para novo juízo de conformação, à luz das teses fixadas por esta Corte Superior.
+Publique-se.
+Intimem-se.
