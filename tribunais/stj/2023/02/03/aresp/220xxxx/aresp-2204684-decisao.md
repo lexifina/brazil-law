@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Rio de Janeiro, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 54):
+AGRAVO DE INSTRUMENTO. CRÉDITO TRIBUTÁRIO. SEGURO GARANTIA.
+Agravo de instrumento da decisão proferida em sede de Mandado de Segurança preventivo, que, após a confirmação da liminar em sede de sentença que concedeu a segurança, deferiu a substituição do depósito em dinheiro por seguro garantia.
+Se o crédito tributário sequer foi constituído não há que se falar em necessidade de depósito com o fim de suspender-lhe a exigibilidade. Além disso, deve ser feito o distinguishing relativo ao Tema 378/STJ, na medida em que eventual suspensão da exigibilidade, outrora embasada no depósito em dinheiro (inciso II, do art. 151, do CTN), subsiste, agora, na concessão de liminar em mandado de segurança que, inclusive, foi confirmada pela sentença (inciso IV).
+Como se vê, há previsão legal de suspensão da exigibilidade, razão pela qual a decisão agravada, que determinou a suspensão do crédito tributário e autorizou a apresentação do seguro garantia encontra-se correta.
+Desprovimento do recurso.
+Opostos embargos declaratórios, foram rejeitados (fls. 488/491).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 267, VI, do CPC/73, 485, VI, do CPC/15 e 1º e 6º da Lei 12.016/09. Sustenta que: (I) há inadequação da via eleita pois não cabe mandado de segurança contra lei em tese; (II) não se aplica o art. 178 do CTN, pois "O beneficio concedido à agravada não é de forma alguma oneroso, sendo, ao contrário, deferido a todos os "estabelecimentos fabricantes de produtos têxteis, artigos de tecidos, confecção de roupas e acessórios de vestuário e aviamentos para costura" (cf. art. 1º da Lei estadual nº 6.331/2012) pelo só fato de empreenderem neste segmento econômico" (fl. 509) e (III) o benefício concedido é originariamente inconstitucional.
+Parecer do Ministério Público Federal pelo não conhecimento do apelo (fls. 596/599).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, quanto à inequação da via eleita, o Tribunal de origem decidiu com base na seguinte fundamentação (fl. 453):
+Pois bem. De início, cumpre registrar a adequação da via eleita pela contribuinte. E pacífico o entendimento jurisprudencial no sentido de que é possível a impetração de Mandado de Segurança contra lei de efeitos concretos. Nesse sentido, o RESP 343800/MG, da lavra do Ministro Paulo Medida.
+Assim, a alteração das conclusões adotadas pela Corte de origem no sentido de que se configura hipótese de mandado de segurança contra lei em tese a fim de aplicar a inadequação da via eleita, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Além di sso, quanto à aplicação do art. 178 do CTN em razão do benefício concedido não possuir caráter oneroso, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Confira-se o seguinte trecho do acórdão recorrido (fl. 454):
+Cumpre registrar que apesar da tese desenvolvida pelo Estado, a hipótese cm julgamento é, evidentemente, de isenção condicionada, entendida como sendo aquela que não alcançam todos os contribuintes sujeitos à determinada hipótese de tributação, mas somente aos que preencherem os requisitos estabelecidos na lei isentiva.
+Em se tratando de isenção condicionada e, no caso, por prazo determinado, tem aplicação o entendimento consolidado na súmula 544 do STF, segundo a qual "isenções tributárias concedidas, sob condição onerosa, não podem ser livremente suprimidas.
+Assim, conclui-se que o benefício instituído pela lei 6.331/12, com incidência até o dia 31/12/2018, não poderia ser modificada pelo Decreto Estadual n. 45.607/2016, em prejuízo do contribuinte que tem direito adquirido à alíquota diferenciada. Aqui, tem aplicação a norma do art. 178 do CTN:
+ ..
+Por último, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada tese de que o benefício concedido é inconstitucional,
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
