@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 17):
+AGRAVO. REVISÃO CRIMINAL. PETIÇÃO INICIAL. INDEFERIMENTO. LIMINAR. Não existindo elemento apto a modificar a decisão que, fundamentadamente, indeferiu liminarmente o pedido revisional, impõe-se sua manutenção. Agravo conhecido e desprovido.
+Consta nos autos que os pacientes foram condenados como incursos nas penas do art. 157, §2º, I e II e art. 251, §2º, do Código Penal - CP e art. 16 da Lei n. 10.826/03, nos termos do art. 69 do CP.
+Sustenta a Defesa ausência de provas suficientes para a condenação dos pacientes, devendo ser absolvidos.
+Requer, liminarmente, a concessão da ordem de habeas corpus, para que sejam suspensas eventuais execuções penais e, caso tenha sido expedido mandado de prisão, requer a expedição de contramandado. No mérito, requer sejam absolvidos os pacientes, nos termos do art. 386, VII, do Código de Processo Penal.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+O Tribunal de origem negou provimento à revisão criminal pelos seguintes fundamentos (fls. 18-19):
+Recurso próprio e tempestivo, dele conheço.
+Como destacado na decisão, não foi apresentada circunstância nova apta a desconstituir a condenação e nem demonstrada violação a texto da lei, apenas retomados trechos de depoimentos já antes valorados.
+Os agravantes pretendem rediscutir questões amplamente apreciadas, podendo-se extrair da sentença motivação calcada nos elementos coligidos na instrução, e que foram confirmadas por esta Corte no julgamento da apelação.
+Verificado que o questionamento não se adéqua às hipóteses legais, expressando tão somente a intenção de rediscutir matéria amplamente apreciada pelo Tribunal, não há fundamentos para permitir o seguimento de pedido fora da previsão legal.
+Sobre o assunto, oportuno destacar que "as sentenças penais condenatórias transitadas em julgado podem ser desconstituídas por via do instituto da Revisão Criminal, que será admitida se presente, de forma inequívoca, uma das hipóteses taxativamente previstas no art. 621, do Código de Processo Penal, que limitam a causa de pedir e, em consequência, o pedido. Assim sendo, mera reiteração de alegações já expendidas e repelidas no curso da ação penal e do recurso, incabível a revisão criminal, devendo ser inacolhida a pretensão autoral" (TRF, 2ª Região, rel. Juiz Rogério Carvalho).
+Quanto à alegação de que a Secretaria da Seção Criminal não anexou as mídias mencionadas pelos agravantes, vejo que o argumento improcede, visto que a ação penal está vinculada à revisional, situação já conhecida no momento do indeferimento liminar.
+Sem fato novo apto a alterar meu convencimento, ausentes as hipóteses do artigo 621 do Código de Processo penal, mantenho a decisão agravada.
+Conheço, mas desprovejo.
+Como visto, o Tribunal de origem julgou improcedente a revisão criminal por entender que "não foi apresentada circunstância nova apta a desconstituir a condenação e nem demonstrada violação a texto da lei, apenas retomados trechos de depoimentos já antes valorados" (fl. 18). Ainda, considerou que a parte não poderia utilizar a revisão criminal para meramente rediscutir matéria amplamente debatida na ação penal.
+Dessa forma, o acórdão impugnado está em consonância com o entendimento consolidado desta Corte, de que não cabe revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, quando não verificados os pressupostos previstos no art. 621 do CPP. Nesse sentido: HC 526904/SP, Relator(a) Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 4/5/2021, DJe 10/5/2021.
+Ademais, não é possível sequer analisar a possibilidade de concessão da ordem, de ofício, porque não foram juntados aos autos a sentença e o acórdão da ação penal originária. Dessa forma, a ausência de peças essenciais ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser denegada a ordem. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido.(PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido. (AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
