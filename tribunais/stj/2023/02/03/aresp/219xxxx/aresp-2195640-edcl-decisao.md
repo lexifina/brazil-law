@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NELSON TAMURA E OUTRO, à decisão de fls. 218/219, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Considerando os artigos supracitados, a contagem inicia-se no dia 09 de fevereiro de 2022, devendo considerar os feriados NACIONAIS nos dias 28 de fevereiro de 2022 e 01 de março de 2022 nos moldes do art. 1º, incisos II e II da PORTARIA ME Nº 14.817, DE 20 DE DEZEMBRO DE 2021 emitida pelo Ministério da Economia, previstos inclusive no calendário disponibilizado pelo Superior Tribunal de Justiça 1 , vejamos: (fl. 225).
+ ..
+Em consonância com o fora exposto acima, descontando os dois feriados, a contagem dos 15 (quinze) dias úteis, encerra-se no dia 03 de março de 2022, exata data em que o Recurso fora protocolado (fl. 226).
+Alega ainda:
+No tocante a representação processual se faz necessário ressaltar que a petição de fls. 1/9 trata-se de um agravo de instrumento, na qual o acórdão proferido pela Turma Julgadora do Egrégio TJSP, fora guerreado pelo Embargante, através do Recurso Especial que aqui se discute.
+Dentro deste contexto se faz necessária a luz do Art. 1.017 § 5 do CPC, senão vejamos:
+ ..
+Com fulcro no artigo supracitado, reitera-se que não há obrigatoriedade da juntada das procurações, motivo no qual a decisão que aponta para uma irregularidade processual é controversa visto que o agravo em recurso especial surgiu única e exclusivamente de um agravo que cumpriu a especificações da lei, diante da inovação do CPC/2015, com a judicialização eletrônica (fl. 226).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+É certo que o feriado nacional de 1º/3/2022 não precisa ser comprovado. Porém, o dia 28/2/2022 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Ademais, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Quanto à representação processual, no caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Luiz Henrique Santos Pimentel.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte (fls. 215/216).
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/02/2021; AgInt no AREsp 1691791/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/11/2020; AgInt no AREsp 1504387/RJ, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/02/2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
