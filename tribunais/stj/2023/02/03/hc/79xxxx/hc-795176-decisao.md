@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JORGE LUIS DE JESUS SACRAMENTO JUNIOR, em que se aponta como autoridade coatora desembargador plantonista do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que a prisão preventiva do paciente foi decretada, em razão da suposta prática dos crimes de tráfico de drogas, associação para o mesmo fim e organização criminosa armada.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, no qual pleiteou o relaxamento da prisão preventiva, alegando que não foi realizada a audiência de custódia, que a prisão carece de contemporaneidade e que há excesso de prazo na formação da culpa.
+O pedido liminar, contudo, não foi apreciado pelo desembargador plantonista, sob os seguintes fundamentos (e-STJ fls 114/116):
+"(..) Como se sabe, o Plantão Judiciário em Segundo Grau, instituído pela Resolução TJBA nº 15/2019, em conformidade com a Resolução nº 71/2009 do CNJ, destina-se, apenas e tão somente, à análise de matérias urgentes, que não possa ocorrer durante o expediente forense regular, sem resultar em dano irreparável ou de difícil reparação para o interessado.
+Deve, pois, o magistrado plantonista avaliar os pedidos apresentados e admitir, no Plantão, apenas aqueles que, em princípio, demandam a concessão de medida judicial urgente e necessária, para evitar lesão grave e irreparável, sob pena de violação do princípio do juiz natural.
+No caso vertente, estando o Paciente preso cautelarmente desde o dia 31/05/2022, verifica -se que o pleito embasado em ausência de contemporaneidade e não caracterização dos pressupostos autorizadores da segregação cautelar, bem como de ilegalidade pela não realização da audiência de custódia e ofensa ao princípio da homogeneidade poderia ter sido apresentado no expediente regular, não havendo, a Impetrante, demonstrado nenhuma situação de urgência capaz de deslocar a competência para este Órgão Plantonista.
+Ademais, a referida resolução que disciplina o Plantão Judiciário de 2º Grau no âmbito deste Tribunal, em seu art. 3º, relaciona de maneira expressa os temas que têm apreciação vedada pelos magistrados plantonistas, dentre os quais, em seu inciso III, aponta "pedido de interesse de réu preso fundamentado, isolada ou cumulativamente, em excesso de prazo da prisão, salvo situações excepcionais devidamente comprovadas".
+Assim, de igual modo, não se vislumbra ter, a Impetrante, indicado situação excepcional e de comprovada urgência capaz de deslocar a competência deste órgão plantonista para conhecer do pedido liminar no tocante à tese de excesso de prazo na formação da culpa.
+Ante o exposto, por reconhecer que o presente feito não se enquadra nas hipóteses previstas na Resolução TJBA nº 15/2019, declaro-me incompetente para apreciar a matéria e determino o encaminhamento do feito à Diretoria de Distribuição do 2º Grau".
+No presente mandamus, pretende a defesa seja o paciente posto em liberdade, em razão da ilegalidade da prisão preventiva, já que não foi realizada audiência de custódia e não houve contemporaneidade entre a data da decretação da prisão e o seu efetivo cumprimento. Ademais, afirma que há excesso de prazo do encarceramento preventivo, que foi imposto por decisão carente de fundamentação concreta.
+Liminar deferida, de ofício, pela Presidência desta Corte, a fim de determinar que o Tribunal de Justiça do Estado da Bahia aprecie, em sede liminar, as alegações trazidas no habeas corpus n. 8052771-32.2022.8.05.0000, decidindo como entender de direito (e-STJ fls. 119/121).
+Às e-STJ fls. 128/256, o Tribunal de origem encaminhou ao Superior Tribunal de Justiça a decisão que, em observância à liminar concedida pela Presidência desta Corte, examinou o pedido emergencial lá formulado.
+É o relatório.
+Decido.
+Inicialmente, verifico que a ordem de urgência, exarada de ofício pelo Superior Tribunal de Justiça, no sentido de que o pedido liminar formulado no writ originário fosse examinado, já foi atendido (e-STJ fls. 129/131), de forma que não mais subsiste a ausência de prestação jurisdicional reconhecida em sede liminar por esta Corte.
+No mais, este Tribunal Superior tem jurisprudência firmada de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não se vislumbra na espécie, já que se mostra imprescindível a prévia análise das teses pelo Tribunal a quo.
+Assim, as questões formuladas, notadamente diante das peculiaridades do caso, necessitam de averiguação mais aprofundada pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+A propósito, guardadas as devidas particularidades:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
