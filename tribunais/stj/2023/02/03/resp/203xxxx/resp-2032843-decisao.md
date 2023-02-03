@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 79):
+PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. LITISCONSÓRCIO ATIVO FACULTATIVO. FALECIMENTO DE EXEQUENTE. SUSPENSÃO DO FEITO. LIMITAÇÃO AO EXEQUENTE FALECIDO.
+1. Tratando-se de litisconsórcio ativo facultativo, a eventual irregularidade processual existente em relação a um dos litigantes não pode prejudicar os demais, conforme se depreende dos arts. 117 e 118 do CPC.
+2. A suspensão do feito, nos termos do disposto no art. 313, I, do CPC, deve ser limitada aos exequentes falecidos, prosseguindo a execução em relação aos demais exequentes.
+Opostos embargos declaratórios, foram rejeitados (fls. 106/109).
+A parte recorrente aponta violação aos arts. 313, I, 489, §1º, 688, 689 e 1.022, II, do CPC. Sustenta, além de negativa de prestação jurisdicional, a "evidente a necessidade de suspensão da execução em face do óbito da parte exequente até a regular habilitação dos herdeiros." (fl. 137).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que "O litisconsórcio ativo formado no processo originário tem natureza facultativa. Assim, a eventual irregularidade processual existente em relação a um dos litigantes não pode prejudicar os demais, conforme se depreende dos arts. 117 e 118 do CPC, in verbis:  ..  Portanto, a suspensão do feito, nos termos do disposto no art. 313, I, do CPC, deve ser limitada aos exequentes falecidos, prosseguindo a execução em relação aos demais exequentes." (fls. 81/82), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
