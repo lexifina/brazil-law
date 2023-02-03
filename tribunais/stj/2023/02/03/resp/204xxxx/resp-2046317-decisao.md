@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial manejado por Francisco Augusto Zardo Guedes, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 214):
+EXECUÇÃO FISCAL. HONORÁRIOS. AÇÃO ORDINÁRIA. CUMULAÇÃO. IMPOSSIBILIDADE.
+Tendo sido fixados honorários advocatícios na ação ordinária que culminou com a extinção da execução fiscal, não cabe nova fixação de verba honorária na execução, sob pena de condenação em duplicidade. Precedentes desta Corte.
+Opostos embargos declaratórios, foram rejeitados (fls. 240/243).
+A parte recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 85, caput e §§ 1º e 10, 489, §1º, IV e VI, 1.022, II, do CPC. Para tanto, sustenta omissão acerca da tese de que "é devido o pagamento dos honorários de sucumbência no caso de procedência da exceção de pré-executividade em execução fiscal" (fl. 260).
+Afirma que o "IBAMA foi quem deu causa à execução fiscal, de modo que deve arcar com os honorários sucumbenciais" (fl. 263), salientando que é "cabível a cumulação dos honorários sucumbenciais fixados na execução fiscal com aqueles arbitrados em sede ação anulatória" (fl. 263).
+Aduz que "a Tese 587 é plenamente aplicável ao caso, pois se trata de execução fiscal ajuizada pelo IBAMA em que, posteriormente, devido ao julgamento favorável em ação anulatória, o IBAMA concordou com o pedido de extinção da execução e assim se reconheceu a perda do objeto" (fl. 268).
+Pugna por anular o acórdão, e, subsidiariamente, sua reforma para condenar a autarquia ambiental ao "pagamento dos honorários sucumbenciais" (fl. 275).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Tribunal de origem, ao ratificar sentença que deixou de arbitrar honorários em prol do recorrente, asseverou ser incabível o arbitramento em duplicidade da referida verba advocatícia, e, com isso, afastou o entendimento vinculante do Tema 587/STJ, nestes termos (fls. 216/217):
+Em 05-06-2020 (evento 34) o executado, tendo em vista a cassação das multas aplicadas pelo IBAMA, requereu a extinção da execução fiscal coma condenação da exequente ao pagamento de honorários advocatícios, com fulcro no artigo 85, § 3º, do CPC. O exequente se manifestou (evento 37) concordando com a extinção da execução, porém sem a fixação de honorários advocatícios.
+O entendimento desta Turma é no sentido de que, tendo sido fixados honorários advocatícios nos embargos à execução fiscal, ou, como no caso dos autos, na ação ordinária, não cabe nova fixação de verba honorária na execução, conforme se extrai dos recentes precedentes:
+(..)
+Acrescento que a hipótese é diversa daquela decidida pelo Superior Tribunal de Justiça no tema 587, em que se discutiu, sob a égide do CPC/1973, a cumulação de honorários fixados em execução de sentença contra a Fazenda Pública com aqueles fixados nos embargos à execução opostos pela Fazenda (honorários fixados em favor do exequente na execução somados àqueles decorrentes do seu êxito nos embargos opostos pela Fazenda Pública), bem como, na situação oposta, de compensação entre as verbas (honorários fixados em favor do exequente na execução compensados com aqueles devidos à Fazenda Pública em razão do seu êxito nos embargos).
+De fato, o STJ fixou as seguintes teses:
+a) Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973.
+b) Inexistência de reciprocidade das obrigações ou de bilateralidade de créditos: ausência dos pressupostos do instituto da compensação (art. 368 do Código Civil). Impossibilidade de se compensarem os honorários fixados em embargos à execução com aqueles fixados na própria ação de execução.
+No caso dos autos, tem-se execução fiscal ajuizada pela Fazenda Pública, a qual foi extinta por força de decisão proferida em ação anulatória, em que fixados os honorários.
+Pretende-se obter nova fixação de honorários na execução em favor do procurador da parte executada.
+A situação não se amolda, portanto, ao tema 587, porque, no caso, a execução fiscal foi ajuizada pela Fazenda Pública. A leitura do acórdão do REsp. 1.520.710/SC evidencia que o entendimento se refere à execução contra a Fazenda Pública, ainda que possa eventualmente haver alguma similitude.
+Assim, entendo que não assiste razão à parte apelante no ponto, sendo incabível a fixação de honorários advocatícios na execução, sob pena de duplicidade de condenação, uma vez que já houve fixação de verba honorária na ação ordinária.
+Verifica-se, assim, não ter ocorrido ofensa aos arts. 489, §1º, IV, VI, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Todavia, procede o inconformismo relativo ao art. 85, caput e §§ 1º e 10 do CPC.
+A respeito do tema, o entendimento vinculante deste Superior Tribunal de Justiça é no sentido de que é possível a cumulação das condenações em honorários advocatícios fixados em execução fiscal e na ação conexa que se funda na desconstituição do crédito executado, por constituírem ações autônomas, em observância aos limites legalmente previstos. Observem-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA NA EXECUÇÃO FISCAL E NA AÇÃO QUE VISA DESCONSTITUIR O CRÉDITO EXECUTADO. POSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Esta Corte tem o entendimento segundo o qual é possível o arbitramento de honorários advocatícios de sucumbência, cumulativamente, na execução fiscal e na ação que visa desconstituir o crédito executado.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno desprovido.
+(AgInt no REsp n. 1.971.570/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/4/2022, DJe de 22/4/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. AÇÃO ANULATÓRIA DO CRÉDITO EXEQUENDO. ÔNUS SUCUMBENCIAIS. CUMULAÇÃO. POSSIBILIDADE. AÇÕES AUTÔNOMAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de possibilitar a fixação cumulada da verba honorária em execução fiscal e na ação conexa que visa a desconstituição do crédito executado, ante a natureza autônoma das ações.
+2. Na hipótese, tendo sido a execução fiscal extinta em razão de decisão proferida em ação ordinária, onde reconheceu-se a inexigibilidade do crédito executado, não há impedimento para a fixação de honorários sucumbenciais em favor da parte executada, respeitados os limites legalmente previstos .
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.820.812/PR, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA DO CRÉDITO EXEQUENDO. HONORÁRIOS DE SUCUMBÊNCIA. CUMULAÇÃO. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça tem se orientado "pela possibilidade de arbitramento de honorários advocatícios de sucumbência, cumulativamente, na execução fiscal e na ação que visa desconstituir o crédito executado" (AgInt no REsp 1845746/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/4/2021, DJe 15/4/2021).
+2. No caso dos autos, não há qualquer impedimento a que sejam fixados honorários advocatícios na execução fiscal julgada extinta em decorrência de ação anulatória na qual fora igualmente arbitrada a verba sucumbencial. Isso porque, em se tratando de ações autônomas, não há falar na ocorrência de pagamento em duplicidade.
+3. Agravo interno não provido.
+(AgInt no REsp 1.900.435/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/06/2021, DJe 10/06/2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DESISTÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. CUMULAÇÃO. POSSIBILIDADE. LIMITES.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1.520.710/SC (repetitivo), firmou o entendimento pela possibilidade de cumulação da verba de honorários fixada em execução fiscal com aquela arbitrada em ação conexa (embargos à execução/ação anulatória), de forma relativamente autônoma, sendo vedada a sua compensação e desde que respeitados os limites percentuais e parâmetros previstos na legislação.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.307.787/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+Dessa forma, por estar em dissonância com o entendimento deste Tribunal Superior, o acórdão recorrido merece reparos.
+ANTE O EXPOSTO, dou provimento ao recurso especial e determino o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento de honorários advocatícios, nos termos da fundamentação supra.
+Publique-se.
