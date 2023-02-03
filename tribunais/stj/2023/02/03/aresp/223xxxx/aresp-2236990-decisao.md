@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS contra decisão proferida pelo Tribunal local que negou seguimento ao recurso especial por ele aviado.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 427/430, in verbis:
+O ora agravante foi denunciado como incurso no art. 155-§1º e §4º-II, combinado com art. 71, todos do Código Penal, mas o Juízo de primeiro grau o absolveu por entender que não existe prova suficiente para a condenação.
+Irresignado, o Ministério Público Estadual apelou ao Tribunal de Justiça do Estado de Tocantins, que negou provimento ao recurso (e-STJ, fl. 342).
+Contra essa decisão, o ora agravante interpôs recurso especial com fundamento no art. 105-III-"a"da Constituição.
+Sustentou violação aos arts. 155-§1º e §4º-II do Código Penal, conforme segue:
+In casu, o acórdão carece de entendeu ser inconcebível, "ser reformado, porquanto equivocadamente a prolação de decreto condenatório fundamentado, exclusivamente, em elementos informativos colhidos durante o Inquérito Policial, no qual inexiste o devido processo legal (com seus consecta"rios do contraditório e da ampla defesa)". No caso vertente, restou patenteado durante a instrução processual, que o coacusado Alessandro Augusto Joaquim admitiu em juízo ter adquirido o botijão de ga"s furtado de Vandak Francisco dos Santos, o que comprova cabalmente que o recorrido cometeu o furto do aludido bem móvel. (e-STJ, fl. 353)
+O recurso especial foi inadmitido por se entender pela incidência da Súmula 7 do STJ (e-STJ, fls. 380/381).
+Foi interposto agravo em recurso especial, no qual se afirma que " (..) diante da valoração deficiente das provas angariadas, justifica-se, assim, o processamento deste Recurso Especial na busca do aprofundamento na revaloração da prova trazida à lume(..)" (e-STJ, fl. 394).
+Requer o provimento do recurso especial (e-STJ, fl. 394)
+Foram apresentadas contrarrazões (e-STJ, fls. 403/407).
+O Ministério Público Federal manifestou-se pelo não provimento da pretensão recursal (e-STJ fls. 427/430).
+É, em síntese, o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+De início, ressalto que, no caso, o Tribunal de origem, a quem cabe o exame das questões fático-probatórias dos autos, reconheceu a inexistência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de furto qualificado, tipificado no art. 155, § 1º e § 4º, II, c/c o art. 71, todos do Código Penal.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fls. 331/335):
+No entanto, não há elementos probatórios convincentes quanto à autoria do delito.
+Na hipótese dos autos, a vítima e o acusado Alessandro Augusto Joaquim que foram ouvidas em juízo, sob o crivo do contraditório, nada souberam informar sobre a autoria delitiva dos fatos narrados na denúncia. Nenhuma das testemunhas presenciaram o momento dos crimes, tampouco identificaram o apelado como sendo o praticante dos delitos.
+Não obstante Alessandro tenha afirmado que adquiriu o botijão de gás do apelado Vandak, não há nos autos qualquer elemento probatório que comprove ter sido o aludido botijão objeto de furto.
+Com efeito, do cotejo dos autos, não há como se concluir que de fato tenha sido o apelado quem praticou os delitos, eis que nenhuma testemunha presenciou o crime.
+Em que pese o acusado tenha confessado os crimes na fase inquisitiva, não confirmou a confissão em juízo. E, consoante pacificado na jurisprudência do Superior Tribunal de Justiça, não se admite, no ordenamento jurídico Brasileiro, a condenação lastreada exclusivamente em elementos produzidos no Inquérito Policial, onde não há o devido processo legal e respeito ao contraditório e da ampla defesa.
+ ..
+Como muito bem fundamentado pelo Sentenciante, na hipótese dos autos, a vítima e o acusado Alessandro, que foram ouvidos em juízo, sob o crivo do contraditório, nada souberam informar sobre a autoria delitiva dos fatos narrados na denúncia.
+O Julgador Monocrático externou sua dúvida, ressaltando que "(..) a única prova produzida sob o crivo do contraditório girou em torno do depoimento de Alcidete Antônio da Silva, que não contribuiu em nenhum aspecto para o esclarecimento dos fatos imputados pela acusação, não sabendo ela, com a devida certeza, sequer esclarecer se o acusado Vandak Francisco teria, de fato, praticado o crime.".
+Confiram-se as bem lançadas razões de decidir apresentadas na sentença:
+"(..) as provas finais são completamente frágeis, não sendo possível, com a indubitável convicção, perquirir se a dinâmica dos fatos narrados na denúncia teriam realmente sido praticadas por Vandak Francisco, de modo que, embora o mesmo tenha confessado os fatos na fase inquisitiva, por outro lado, em juízo não houve a confirmação das provas por meio de elementos robustos.
+Lembrando que, em se tratando de provas produzidas em juízo, o artigo 155 do Código de Processo Penal descreve que "o juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas."
+No caso dos autos, embora existam elementos informativos na fase inquisitiva bastante indiciários, observa-se que a prova produzida sob o crivo do contraditório não confirmou o acontecimento delitivo de forma inequívoca, resultando, invariavelmente, em dúvida neste magistrado.
+Destarte, acentuo que não podemos descartar a possibilidade de o acusado ter praticado a conduta delitiva descrita pela acusação, contudo, na presente etapa processual que se encontra os autos não existem espaços para presunções. Logo, se as provas carreadas ao longo da persecução penal não são firmes, coesas e sólidas, erige-se dúvida a respeito da autoria delitiva.
+Nesse ínterim, a prova constante nos autos não autoriza a prolação do decreto condenatório, devendo o acusado, conforme bem pontuado pela defesa técnica, ser absolvido com fundamento no artigo 386, inciso VII, do Código de Processo Penal, pois, até onde a vista alcança, não existem provas suficientes para a condenação.
+O princípio da presunção de inocência deve imperar ante as conjecturas que cercam o processo."
+Outrossim, a própria vítima da subtração do som, Senhora Alcidete Antônio da Silva informou desconhecer o acusado, bem como que não sabe se foi ele quem procedeu com o furto do som. Por outro lado, Edileuza Vieira Chaves quando ouvida na delegacia de polícia informou apenas que acha que foi o acusado quem subtraiu o aparelho de som, não tendo sido localizada para oitiva em juízo.
+Havendo dúvida, ainda que ínfima, no espírito do julgador, deve, naturalmente, ser resolvida em favor do réu. A dúvida não pode desfavorecer o acusado, haja vista que a condenação, como medida rigorosa e privativa de uma liberdade constitucionalmente assegurada (Art.5º, XV, LIV, LV, LVII e LXI, da CF), requer a demonstração cabal dos seus pressupostos autorizadores(referentes à autoria e materialidade).
+Vale ressaltar que apenas indícios, ainda que veementes, não bastam para sustentar uma condenação, uma vez que a probabilidade não se traduz em certeza, e não logrando êxito a acusação em produzir provas de que o acusado tenha praticado os fatos narrados na denúncia, deverá ele, no caso, ser beneficiado pelo princípio do in dubio pro reo.
+ ..
+A absolvição em casos como o presente não corresponde a uma declaração de inocênci a pura e simplesmente, e sim, que não existem provas suficientes para a sua condenação. (Grifei.)
+No caso dos autos, as instâncias ordinárias consideraram que o acervo probatório não é firme o suficiente para subsidiar a condenação do agravado. Entenderam que os fatos mencionados pelo Ministério Público constituiriam apenas indícios, destacando que o depoimento das testemunhas e da vítima não se revelaram aptos a assegurar o édito condenatório.
+Assim, a alteração da conclusão das instâncias de origem, com o ob jetivo de condenar o recorrido, demandaria análise de matéria fático-probatória, o que atrai a incidência da Súmula n. 7/STJ.
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE DE ARMA DE FOGO. PRINCÍPIO DA INSIGNIFICÂNCIA. PRETENDIDO AFASTAMENTO. PEDIDO DE CONDENAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido decidiu com base em elementos probatórios disponíveis nos autos. Reexaminá-los para afastar a aplicação do princípio da insignificância e atender ao pleito de condenação do ora recorrido implicaria o revolvimento de matéria fática, inviável em sede de recurso especial, conforme orientação da Súmula 7/ STJ.
+2. Agravo regimental não provido.(AgRg no AREsp n. 2.123.336/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
