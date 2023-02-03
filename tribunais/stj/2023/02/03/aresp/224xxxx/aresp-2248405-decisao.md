@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIO SERGIO D"AMICO (MARIO SERGIO), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo (TJSP), de relatoria do Des. JOSÉ WAGNER DE OLIVEIRA MELATTO PEIXOTO, assim ementado:
+AGRAVO INTERNO Insurgência contra decisão monocrática que indeferiu gratuidade de justiça e determinou recolhimentos - Alegação de omissão quanto ao art. 99, §2º, do CPC - Inocorrência - Incidência do art. 99, §7º, do CPC - Ausência de documentação apta a amparar o pedido - Decisão mantida - Recurso desprovido. (e-STJ, fl. 412).
+Irresignado, MARIO SERGIO interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 98, § 1º, I e IV, e 489 do CPC e 5º, LXXIV, da Constituição Federal ao sustentar que (1) não se considera fundamentada qualquer decisão judicial que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, e (2) deve ser revista a decisão que indefere ou não concede o benefício da gratuidade de justiça contrariamente aos elementos dos autos, pois encontra-se caracterizado nos autos o estado de necessidade do requerente.
+O recurso não foi admitido pelo TJSP (e-STJ, fls. 430/432).
+Nas razões do presente agravo, MARIO SERGIO alegou que os fundamentos da decisão de inadmissibilidade não se sustentam.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+MARIO SERGIO afirma que o acórdão recorrido não enfrentou todos os argumentos deduzidos no agravo interno, limitando-se a reproduzir a decisão já proferida, sendo certo que, no caso, não foram devidamente apreciados os elementos dos autos que demonstram o seu estado de necessidade e, portanto, o preenchimento dos requisitos para concessão do benefício da gratuidade judiciária.
+O tema foi assim analisado no acórdão:
+A decisão monocrática que indeferiu o pedido do agravante foi assim fundamentada:"Requer o réu-apelante no recurso concessão de justiça gratuita(fls. 298/300). Dispõe o artigo 98 do Novo Código de Processo Civil que: "a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios, tem direito à gratuidade da justiça, na forma da lei". Pela nova sistemática processual, para ser considerado necessitado é levada em consideração a situação de miserabilidade da parte, uma vez que o intuito da lei é favorecer aos realmente necessitados, na acepção estrita do termo. Muito embora o novo regramento previsto nos artigos 98 a 102 do CPC/2015 tenha por objetivo garantir o amplo acesso ao Poder Judiciário, não se justifica o deferimento dos benefícios da gratuidade para pessoas aptas ao custeio das despesas processuais. Com efeito, embora haja interesse público em conceder o benefício a quem dele necessite, a fim de garantir o acesso de todos à Justiça, há também interesse público em não admitir que quem não seja pobre ou não prove incapacidade financeira se utilize indevidamente do privilégio. No entanto, na hipótese dos autos, embora afirmado nas razões recursais não reunir condições de pagamento das custas sem comprometimento da subsistência, os elementos constantes dos autos evidenciam a possibilidadede o apelante arcar com taxa judiciária e custas processuais, razão pela qual se indefere a gratuidade da justiça e se determina que recolha taxa judiciária e custas do preparo deste recurso de apelação, no prazo de 5 dias, sob pena de deserção (art. 99, § 7º, do CPC/2015)".
+Incidente, na espécie, o que estabelece o art. 99, §7º, do CPC,que: "Requerida a concessão de gratuidade da justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento e, se indeferi-lo, fixar prazo para realização do recolhimento".
+E a despeito dos argumentos do agravante, não se verifica fato ou fundamento sólido e suficiente para a alteração do decidido.
+Como fundamentado na decisão agravada, não há comprovação de que o agravante faça jus à gratuidade da justiça, não tendo sido apresentada documentação comprobatória da ausência de condições de pagamento das custas sem comprometimento da subsistência, o que era imprescindível, na medida em que cabia ao requerente demonstrar a alteração da sua capacidade financeira, sobretudo pelo fato de ter arcado com o pagamento da taxa de mandato (fls. 171/172). (e-STJ, fls. 413/414).
+Deste modo, pelo que se dessume dos autos, o acórdão recorrido foi suficientemente fundamentado, não se podendo falar em violação do art. 489 do NCPC, uma vez que o Tribunal Estadual se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AUSÊNCIA DE EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/2015.
+(..)
+8. Agravo interno no recurso especial desprovido.
+(AgInt no REsp 1912545/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/05/2021, DJe 14/05/2021)
+(2) Do benefício da justiça gratuita
+MARIO SERGIO entende que deve ser revista a decisão que indefere ou não concede o benefício da gratuidade de justiça, contrariamente à conclusão do acórdão recorrido acima exposta.
+Rever o entendimento do Tribunal estadual ao afastar o benefício da justiça gratuita demandaria o reexame de provas, o que é vedado nesta sede, conforme a Súmula nº 7 desta Corte.
+Nesses termos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. JUSTIÇA GRATUITA. REQUISITOS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É assente o entendimento nesta Corte, segundo o qual a presunção de hipossuficiência da declaração feita pelo requerente do benefício da justiça gratuita é relativa, sendo possível ao juiz exigir a sua comprovação.
+3. A revisão da conclusão do Tribunal local para acolher a pretensão recursal (quanto ao preenchimento dos requisitos para a concessão da justiça gratuita) demandaria o revolvimento do acervo fático-probatório dos autos, medida defesa ante a natureza excepcional da via eleita, conforme enunciado da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.066.422/SP, de minha relatoria, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. GRATUIDADE JUDICIÁRIA. FUNDAMENTAÇÃO DA DECISÃO. SUFICIÊNCIA. INEXISTÊNCIA DE OFENSA AOS ARTS. 489 E 1.022 DO NCPC. HIPOSSUFICIÊNCIA. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
