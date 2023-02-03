@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por WALFRIDO DA COSTA NOGUEIRA JUNIOR contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  a colocação de V. Exa. de que o recorrente não impugnou especificamente a divergência jurisprudencial não merece prosperar, pois no agravo em recurso especial jungido ao ID n. 27, vl. 4, há apontamentos extremamente precisos e adequados quanto à divergência jurisprudencial. (fl. 1478).
+ ..
+ ..  o recurso especial apresentado a esta Corte trouxe como precedentes paradigmas julgados do Tribunal de Justiça de Minas Gerais, especificamente a apelação criminal n. 10243130004936001, mas também trouxe precedentes de outros Tribunais, mais especificamente a apelação criminal n. 70038597191 do Tribunal de Justiça do Rio Grande do Sul, e a apelação criminal n. 123020520108120001 do Tribunal de Justiça do Mato Grosso do Sul, logo não há que se aplicar a Súmula 13 ao caso concreto, pois fato é que não foi arguida divergência jurisprudencial pautada em precedentes apenas do mesmo Tribunal, tendo a Defesa Técnica de Walfrido arguido divergência pautado em julgados de outros Estados da Federação. (fl. 1479)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: divergência não comprovada e Súmula 13/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
