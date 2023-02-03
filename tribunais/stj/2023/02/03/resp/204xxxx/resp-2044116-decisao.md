@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS com fundamento no art. 105, III, , da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 175/176):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003.
+1. Inadmissível a remessa oficial, posto que aplicável o disposto no Art. 496, do CPC, § 40, II, do novo CPC, vez que a r. sentença está fundamentada cm acórdão da Excelsa Corte de Justiça, proferido em julgamento de recurso repetitivo.
+2. O ajuizamento de Ação Civil Pública nº 0004911-28.2011.4.03.6183 pelo Ministério Público Federal acarreta a interrupção da prescrição, restando prescritas as diferenças anteriores a 05.05.2006. Nesse sentido: STJ,REspNº1.604.455/RN.
+3. Afastada a decadência, vez que o entendimento firmado pelo e. STF no julgamento do RE 564354-9/SE é no sentido de que o teto do salário -de -contribuição é elemento externo à estrutura jurídica dos benefícios previdenciários, de modo que a adequação aos novos limites das EC 20/1998 e EC 41/2003 importa em alteração da renda mensal do benefício, e não modificação do ato de concessão.
+4. O e. Supremo Tribunal Federal firmou entendimento no sentido de que a aplicação do novo valor teto com base nas emendas constitucionais 20/1998 e 41/2003 aos benefícios já concedidos não viola o ato jurídico perfeito, desde que o salário de benefício ou a renda mensal inicial tenha sido limitado ao teto (STF, RE 564354).
+5. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal e, no que couber, observando-se o decidido pelo e. Supremo Tribunal Federal, quando do julgamento da questão de ordem nas ADIs4357 e 4425.
+6. Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme entendimento consolidado nac.3ºSeção desta Corte (AL em El nº 0001940-31.2002.4.03.610). A partir de então deve ser observada a Súmula Vinculante nº 17.
+7. Os honorários advocatícios devem observar as disposições contidas no inciso 11, do § 4º, do Art. 85, do CPC, e a Súmula 111,do e. STJ.8. Remessa oficial não conhecida e apelações providas em parte.
+Opostos embargos declaratórios, foram rejeitados (fls. 202/212).
+Aponta o recorrente violação aos arts. 103 da Lei 8.213/91, 240 do CPC e 1º-F da Lei 9.494/97, com a redação dada pelo art. 5º da Lei 11.960/09.
+Sustenta em síntese: (I) a pretensão autoral à revisão dos parâmetros de concessão do benefício previdenciário em razão do advento dos novos tetos das EC 20/98 e 41/03 encontra-se fulminada pela decadência (fl. 309); (II) o termo inicial do pagamento das parcelas em atraso deve retroagir à data da citação na presente demanda; e (III) os juros e a correção monetária devem ser calculados nos termos do art.1º-F da Lei nº 9.494/94" (fl. 326).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 259/266.
+Às fls. 276 e às fls. 282, a Vice-Presidência do Tribunal Regional determinou, respectivamente, "o sobrestamento do feito até o trânsito em julgado de decisões nos REsp l.492.221/PR, REsp 1.495. l44/RS e REsp l.495.146/MG - Tema 905; e dos REsp 1.761.874/SC, REsp 1.766.553/SC e REsp 1.751.667/RS - Tema 1.005.
+Por meio da decisão de fls. 289/292, os autos foram encaminhados à Turma Julgadora, para cumprimento do rito do art. 1.040 do CPC.
+Entretanto, o relator determinou a devolução dos autos à Vice-Presidência local, nos termos do despacho de fls. 293/295.
+Assomou, então, a decisão favorável de admissibilidade encartada às fls. 296/300.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso, a despeito de o despacho da Vice-Presidência haver determinado o retorno dos autos ao Órgão Fracionário, para fins de juízo de conformação, nos termos do inciso II do art. 1040 do NCPC, à luz dos REsp l.492.221/PR, REsp l.495. l44/RS e REsp l.495.146/MG - Tema 905, e dos REsp 1.761.874/SC, REsp 1.766.553/SC e REsp 1.751.667/RS - Tema 1.005, julgados sob o rito dos repetitivos, o feito foi devolvido à Vice-Presidência sem que antes fosse cumprido o rito prescrito no CPC.
+Ora, o art. 1.030, II, do CPC/2015 não deixa margem a dúvidas:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+ ..
+II - encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos  .. "
+Assim, ressai nítido que a Corte regional incorreu em error in procedendo ao determinar a remessa dos autos a este STJ antes que fosse realizado o juízo de conformação/adequação pelo colegiado.
+Ante o exposto, hei por bem, de ofício, cassar a decisão de fls. 296/300 ante o error in procedendo, determinando, em consequência, o retorno dos autos à ilustrada Corte de origem para que, no juízo de retratação a que alude o art. 1.030, II, do CPC/15, o órgão colegiado decida em conformidade com a diretriz firmada nos repetitivos consubstanciados nos REsp l.492.221/PR, REsp l.495. l44/RS e REsp l.495.146/MG - Tema 905, e dos REsp 1.761.874/SC, REsp 1.766.553/SC e REsp 1.751.667/RS - Tema 1.005.
+Dessa forma, por ora, resta prejudicada a análise do presente recurso especial.
+Publique-se.
