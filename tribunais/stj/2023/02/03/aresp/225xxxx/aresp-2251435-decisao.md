@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MINERAÇÃO FLORESTA DE GUAÍRA LTDA. (MINERAÇÃO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO INTERNO. DECISÃO QUE NÃO CONHECEU DO RECURSO DE AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. IRRESIGNAÇÃO. ALEGAÇÃO DE JUSTA CAUSA PARA O NÃO CUMPRIMENTO DO ATO PROCESSUAL TEMPESTIVAMENTE. ART. 223 DO CPC. NÃO ACOLHIMENTO. AUSÊNCIA DE PROVA NOS AUTOS DE SITUAÇÃO HÁBIL A IMPOSSIBILITAR O EXERCÍCIO DA PROFISSÃO OU SUBSTABELECIMENTO DO MANDATO PELO CAUSÍDICO. DECISÃO MANTIDA.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO (e-STJ, fl. 1660)
+Irresignada, MINERAÇÃO interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 223 e 1.004 do NCPC, ao sustentar a caracterização de justa causa e força maior nos autos para o não cumprimento do ato processual e, em consequência, a concessão de restituição do respectivo prazo.
+O recurso não foi admitido pelo TJPR.
+Nas razões do presente agravo, MINERAÇÃO alega que não incidem os óbices apontados na decisão de inadmissibilidade.
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+MINERAÇÃO afirma que encontra-se caracterizada a justa causa e força maior nos autos para o não cumprimento do ato processual, decorrente do nascimento prematuro do filho do seu patrono, que passou dias no hospital, inclusive com internamento em Unidade de Tratamento Intensivo.
+Conforme consignado no acórdão recorrido, a jurisprudência desta Corte entende que "a doença que acomete o advogado somente se caracteriza como justa causa, a ensejar a devolução do prazo, quando o impossibilita totalmente de exercer a profissão ou de substabelecer o mandato, circunstância não comprovada no caso" (AgInt no AREsp 1.534.425/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 26.3.2020).
+Sobre o tema, o Tribunal paranaense asseverou que (e-STJ, fls. 1664/1667):
+4.7. Pois bem, não obstante as alegações da agravante, não se observa na hipótese situação capaz de relevar a intempestividade da interposição do recurso, porquanto não há nos autos qualquer documento que demonstre a efetiva impossibilidade da prática tempestiva do ato processual.
+4.8. Preambularmente, cumpre ressaltar que este relator não ignora a situação sensível pela qual passou o patrono da agravante e sua família com o nascimento prematuro do pequeno Pedro; no entanto, não há nos autos parecer médico capaz de demonstrar a extensão/gravidade da enfermidade do menor e de seu genitor.
+4.9. Da imagem da rede social do procurador da agravante (mov. 1.3),extrai-se a informação de que seu filho permaneceu internado na UTI neonatal por 26 (vinte e seis) horas, ou seja, até o dia seguinte ao seu nascimento, e teve alta hospitalar após 4 (quatro) dias. Tal relato torna frágil a indicação de quadro clínico grave do recém-nascido.
+4.10. Sobre o tratamento da icterícia neonatal (conhecido como amarelão),de fato a enfermidade pode chegar a ser grave; porém, descendo ao caso concreto, não consta parecer médico nesse sentido nos autos, sequer descrição do quadro clínico do menor.
+4.11. De igual modo, sobre a enfermidade psicológica que relata estara cometido o causídico, não consta do caderno processual qualquer parecer médico a fim de atestar a efetiva realização de acompanhamento psicológico, com informações sobre início do tratamento e, principalmente, a descrição quadro clínico.
+4.12. Ademais, embora o atestado médico de mov. 1.2 traga o diagnóstico exaustão (CID Z73.0) e indique a necessidade de ausência do patrono da agravante de suas atividades profissionais por 15 (quinze) dias, não há menção sobre a especialidade da profissional que assina o documento, o que torna frágil o seu teor.
+4.13. Quanto ao alegado uso de medicamento controlado, por si só, não demonstra a alegada gravidade do quadro do causídico. Aliás, sequer trouxe aos autos a prescrição médica.
+4.14. Além do mais, apesar de o procurador alegar que, em razão da situação com o menor, estava "", e que ""perdido" quanto a sua profissão ..  transtorno era isso não o tamanho, que não se atentou a juntar o atestado médico que ora apresenta",impediu de cumprir o prazo, ainda que intempestivamente, no mesmo dia em que a intimação foi aberta automaticamente.
+4.15. Ainda, no tocante a alegada superação, pelo STJ, do entendimento de que seria necessária a comprovação da impossibilidade de não substabelecer, sendo suficiente ajusta causa, aludida tese não se sustenta, porquanto tal cognição não detém força vinculante,tampouco consiste em entendimento pacificado entre as turmas do STJ, sendo possível extrair recentes julgados da Corte Superior, em diferentes Turmas, no sentido de que "a doença que acomete o advogado somente se caracteriza como justa causa idônea para a devolução do prazo recursal quando o impossibilita de forma absoluta para o exercício da profissão ou para (AgInt no REsp 1939140/CE, Rel. Ministro Mauro Campbell Marques,substabelecer o mandato"Segunda Turma, julgado em 13/12/2021, DJe 16/12/2021).
+(..)
+4.16. Por estes fundamentos, não se infere situação de totalimpossibilidade de exercício da profissão ou substabelecimento do mandato pelo causídico, hábila configurar justa causa para a não realização da prática do ato processual (interposição dorecurso de agravo de instrumento) de forma tempestiva.
+Como se vê, o TJPR, analisando o cotejo fático constante dos autos, entendeu pela não comprovação da justa causa prevista no art. 223, caput e § 1º, do CPC/15.
+Rever tal entendimento, demandaria o revolvimento da matéria fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ART. 223 DO CPC. JUSTA CAUSA. COMPROVAÇÃO. ADOÇÃO DE ENTENDIMENTO DIVERSO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
