@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 31-32):
+HABEAS CORPUS. ROUBO MAJORADO. CONCURSO DE AGENTES. EMPREGO DE ARMA DE FOGO. CONVERSÃO DE PRISÃO EM FLAGRANTE EM PREVENTIVA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RISCO CONCRETO À ORDEM PÚBLICA.
+Cuida-se de roubo de crime grave, e a repercussão social dele decorrente está a evidenciar concreto risco à ordem pública a tornar necessária a prisão preventiva e obstar a aplicação das medidas cautelares a que alude o art. 319 do Código de Processo Penal.
+Segregação cautelar devidamente fundamentada, fundada nas circunstâncias em que se deu a prática do delito (perpetrado em concurso de agentes, com emprego de armas de fogo, no interior de estabelecimento comercial, resulta reforçada a necessidade da prisão.
+Hipótese em que foi o crime praticado em concurso de agentes e com emprego de armas de fogo, no interior de estabelecimento comercial onde se encontravam diversas pessoas, resultando evidente a necessidade da prisão, sem o que não estará resguardada a ordem pública.
+Mais, efetivada a subtração, os agentes, ao saírem do local, efetuaram disparos e, tripulando um automóvel, evadiram-se do local, mas resultaram localizados e presos, o que permitiu o reconhecimento levado a efeito por uma das vítimas (evento 1 do IP), avultando a periculosidade dos agentes, que reforça a essencialidade da segregação cautelar.
+ORDEM DENEGADA.
+O paciente foi preso em flagrante, convertido em prisão preventiva, pelo delito de roubo.
+A defesa, em síntese, destaca condições pessoais favoráveis e ausência do periculum libertatis.
+Requer, liminarmente e no mérito, a concessão da ordem "DEFERINDO-SE substituição da medida preventiva extrema por qualquer outra diversa de prisão prevista no art. 319 do CPP ou outra que entender necessária este Tribunal Superior no sentido de garantir bom andamento do feito" (fls. 25-26).
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal se manifestou pela denegação da ordem.
+A prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+A prisão preventiva foi assim fundamentada (fl. 35):
+Tenho que a conversão da prisão em flagrante em prisão preventiva, como representou a autoridade policial e foi referendo pelo o Ministério Público relativamente aos flagrados, é medida que se impõe, posto que a infração penal a eles imputada gera temor e insegurança à sociedade, máxime em pequena localidade interiorana, como é o caso de Linha São Jacó, sendo necessária a segregação cautelar a fim de que seja assegurada a ordem pública.
+No particular, o agir dos flagrados demonstra sua periculosidade social, posto que ousaram ingressar, no início da noite, em um bar, armados, onde além dos proprietários havia clientes, o que evidencia destemor e estarem dispostos a qualquer ato de modo a perpetrar o intento criminoso, além de despreocupação com as consequências de seus atos.
+Ainda, o agir dos flagrados provoca comoção no meio social, gerando sensação de impunidade e descrédito pela demora na prestação jurisdicional, caso não sejam cessadas, com veemência, suas ações.
+Necessária, pois, a pronta intervenção estatal de molde a restabelecer a ordem pública, mesmo em tempo de caos penitenciário em que o criminoso pratica o crime contando com a impunidade.
+Calha referir, ainda, que a primariedade não impede a prisão antes do tempo nem mesmo ofende o princípio da presunção de inocência, consoante entendimento sedimentado na Jurisprudência.
+Por fim, não há que se falar em aplicação de medida cautelar diversa da prisão, previstas no artigo 319, do Código de Processo Penal, tendo em conta a gravidade do crime e porque nehuma delas se apresenta adequada e eficaz para conter a empreitada criminosa trilhada pelos flagrados.
+Como se vê, o decreto de prisão preventiva se encontra devidamente fundamentado no temor e insegurança sociais, a sensação de impunidade e o descrédito popular, bem como periculosidade dos acusados, "posto que ousaram ingressar, no início da noite, em um bar, armados" para praticarem o delito de roubo.
+Com efeito, no caso, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, sendo que é firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta", (AgRg no HC 582.326/PR, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 04/08/2020, DJe 13/08/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso. No mesmo sentido: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Vale destacar que, "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
