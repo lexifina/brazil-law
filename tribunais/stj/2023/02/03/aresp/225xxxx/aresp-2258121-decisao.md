@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por Havan S.A. contra decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região que inadmitiu o recurso especial ante o óbice da Súmula 83/STJ , pois o acórdão recorrido está em consonância com o entendimento do STJ sobre a matéria trazida nos autos, no sentido de que o adicional de 1% da alíquota de Cofins-Importação previsto no §21 do art. 8º da Lei 10.865/2004 acrescentou um ponto percentual a todas as alíquotas da Cofins-Importação de que trata referido dispositivo legal.
+A parte agravante sustenta que "a r. decisão agravada merece ser reformada pois, ao adentrar ao mérito da lide, extrapolou os limites da providência que lhe compete, qual seja, a de exclusivamente efetuar o exame de admissibilidade do recurso especial interposto, analisando se há inexistência ou não de fato impeditivo ou extintivo do direito de recorrer" (fl. 901)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, de plano, que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado, especificamente, o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base o óbice externado pela Súmula 83/STJ, caberia ao recorrente demonstrar que os precedentes citados não se aplicam ao caso dos autos ou, ainda, que entendimento jurisprudencial nesta Corte não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos indicados no juízo negativo de admissibilidade, providência da qual não se desincumbiu. Nesse sentido: AgRg no REsp 1.254.077/SP (Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011).
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
