@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo apresentado por NIECIO EURICO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. IMÓVEL COM RESTRIÇÃO JUDICIAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA ALIENAÇÃO E POSSE.
+Quanto à primeira controvérsia, alega violação dos arts. 357, I, II, III, IV e V, e 679, do CPC, no que concerne à nulidade do acórdão recorrido em razão da ausência de despacho saneador no processo, que é de cunho cogente, o que impossibilitou a produção das provas necessárias pelas partes, trazendo o(s) seguinte(s) argumento(s):
+O acórdão recorrido merece ser revisto, eis que prolatado com contrariedade e negativa de vigência de lei federal, notadamente os artigos 357, I, II, III, IV, V e artigo 679, todos do Código de Processo Civil.
+Isso porque, conforme amplamente debatido nas instâncias inferiores, o julgador singular não proferiu o despacho saneador e não possibilitou a parte fazer prova dos fatos, vindo depois a julgar improcedente o pedido, sendo tudo isso chancelado pelo TRF2.
+ ..
+Contudo, o novo CPC determina expressamente em seu artigo 357 que o julgador deve, após a fase postulatória, realizar o despacho saneador, indicando os pontos controvertidos, justamente para que as partes possam fazer provas desses fatos que ele considera controvertido.
+ ..
+Esse ônus é imposto ao julgador, o que não foi observado e por isso, causando uma sentença desfavorável.
+ ..
+Não se desconhece Ministros, que há entendimento que o despacho saneador não é obrigatório em todos os casos, mas ao se observar o caso concreto, é notório que houve prejuízo para a parte recorrente, a utilidade dele no processo poderia levar o julgador a uma outra conclusão na sentença.
+Mais que isso, infere-se da sentença que o julgador diz que a causa estava madura e que era o caso de julgamento antecipado da lide, mas, de outro lado, paradoxalmente, diz que o recorrente não logrou fazer prova dos elementos mínimos da constituição do seu direito.
+De igual forma se vê o acordão, que deu azo ao error in procedendo.
+Isso porque, antes de julgar, deveria abrir prazo para as partes produzirem as provas e NÃO O FEZ, mas, de outro lado, alega falta de provas, em uma verdadeira incongruência processual.
+Deve-se ressaltar que nos embargos de terceiro, o artigo 679 do CPC dispõe expressamente que após a contestação o procedimento deve seguir o rito comum.
+ ..
+Assim, face o error in procedendo, requer seja anulada o acordão e a sentença, para que o julgador profira o despacho saneador e/ou reabra a instrução probatória, que é de cunho cogente.
+ ..
+Importante ressaltar que, não prospera o fundamento lançado no acórdão no sentido faltou provas do alegado, vez que o julgador também não as oportunizou e sobretudo, não fez a distribuição do ônus probatório para possibilitar o recorrente fazer prova daquilo que lhe competia, inclusive, sequer abriu prazo para as partes realizarem a produção probatória, ressaltando de plano que  a causa estava madura (fls 206/209).
+Quanto à segunda controvérsia, alega violação do art. 373, II, do CPC, no que concerne à necessidade da correta distribuição do ônus probatório quanto a fato impeditivo do direito da parte recorrente, que incumbe à parte ré, ora recorrida, trazendo o(s) seguinte(s) argumento(s):
+Como se sabe, cada parte deve produzir a prova que lhe compete, sob pena do pedido não ser acolhido por insuficiência probatória.
+No caso concreto, o recorrente apresentou contrato e documentos, que foram mencionados na sentença e no acordão, mas os julgadores negaram fé ao documento por não ter firma reconhecida, aduzindo uma possibilidade de simulação.
+Ora, isso seria fato impeditivo ao direito do recorrente, cuja prova quem deveria produzir era o recorrido, não havendo motivos para pressupor uma simulação não comprovado pela outra parte.
+ ..
+A lei foi ignorada e por reflexo a súmula e se realizada de forma escorreita a distribuição do ônus probatório, a sentença e acórdão seriam de procedência do pedido, vez que lançaram sob as  costas  do recorrente um fardo probatório que não era dele.
+A juntar um contrato particular o recorrente fez prova do fato constitutivo de seu direito e, se o recorrido alega simulação, cabe a ele prova o fato impeditivo.
+Isso é consectário lógico de uma destruição probatória segundo as regras processuais, até por isso existe o despacho saneador (fls. 209/210).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o acórdão recorrido assim decidiu:
+Verifica-se, portanto, que, com relação ao instituto dos embargos de terceiro, o Código de Processo Civil/2015 confere mais amplo tratamento em relação ao diploma legal anterior, pois, além de não exemplificar quais seriam os atos de constrição judicial, elucida que poderão ser oferecidos quando da sua efetiva ocorrência ou, ainda, diante da ameaça de constrição.
+Por meio dos presentes embargos de terceiro pugnou a parte embargante, ora apelante, pela a retirada da restrição judicial no imóvel localizado na Rua Martinho José Sant"anna, 1.031, Corrêas, Município de Petrópolis./RJ, com divisas e confrontações conforme matrícula 2.041, livro CR, com a manutenção da posse do imóvel.
+O magistrado a quo, julgou improcedentes os embargos de terceiro, ao fundamento, em síntese, de que "não demonstrada a propriedade sobre o imóvel objeto da constrição, restam ausentes os pressupostos mínimos que autorizam o deferimento dos pedidos veiculados em embargos de terceiro."
+ ..
+Desse modo, deve o embargante fazer prova sumária de sua posse ou de seu domínio, oferecendo desde logo documentos e rol de testemunhas.
+ ..
+No caso concreto, verifica-se que a parte embargante juntou documentos, sem entregar rol de testemunhas, tendo o Juízo a quo proferido sentença após a contestação e manifestação da parte autora, não se vislumbrando cerceamento de defesa, tampouco necessidade de despacho saneador.
+Ademais, a produção de provas no processo tem a finalidade de orientar o julgador na condução da causa. Cabe a ele, segundo preconiza a Lei Processual (artigo 370), ordenar as providências que entender pertinentes para a solução da controvérsia e indeferir aquelas medidas que se mostrem desnecessárias à formação de sua convicção, em particular, quando o exame do fato probante não exigir conhecimentos técnicos especiais (fls. 151/152).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, conforme trecho do acórdão recorrido já transcrito acima, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, o Tribunal de origem assim discorreu:
+Em relação à prova da posse, o enunciado nº 84, da Súmula do STJ aponta que "é admissível a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, ainda que desprovido do registro."
+Assim, o compromisso de compra e venda de imóvel, ainda que desprovido do registro, pode ser apto a afastar a anterioridade do crédito em relação ao ato de compra e venda, contudo, é indispensável a comprovação do exercício da posse por outros meios como contas de água e luz, contrato de compra e venda, recibo de pagamento, dentre outros, conforme pode ser extraído dos seguintes julgados do Superior Tribunal de Justiça:
+ ..
+No caso concreto, conforme consignado na sentença, a parte embargante não logrou êxito em demonstrar a alienação imobiliária por ela alegada. Confira-se:
+O compromisso de compra e venda do imóvel (evento 1, CONTR6) aponta que o embargante prometeu realizar o pagamento de R$120.000,00, em favor de Adão de Oliveira Silva (executado), nos seguintes termos:
+ ..
+O embargante trouxe aos autos os documentos abaixo discriminados a fim de comprovar a alegada alienação:
+ ..
+Verifica-se que os documentos apresentados não são suficientes para comprovar a alienação e a posse do imóvel, valendo destacar, conforme consignado na sentença que sequer houve comprovação do pagamento dos valores prometidos na aquisição do bem.
+Assim, não se vislumbra comprovação suficiente da posse ou domínio do imóvel, como contas de serviço, fotos, dentre outros documentos, de modo que o Juízo de procedência dos embargos de terceiro está condicionado à comprovação da posse ou do domínio sobre o imóvel objeto da constrição, o que não ocorreu no caso concreto (fls. 152/155).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
