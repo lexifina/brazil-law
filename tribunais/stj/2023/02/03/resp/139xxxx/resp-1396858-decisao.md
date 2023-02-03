@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRASIL TELECOM S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 234):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFCADO. CUMPRIMENTO DE SENTENÇA.
+Valor patrimonial da ação. Nos termos das decisões constantes dos autos, no caso concreto deve ser observada a, utilização do valor patrimonial da ação apurado no balanço social anterior.
+Dividendos. Data Limite. Decisão exequenda que não dispôs sobre data limite dos dividendos. Assim* ocorrendo, são devidos até a data do trânsito em julgado da demanda, pois foi este o momento em que as ações tornaram se exigíveis e, por conseguinte, os respectivos rendimentos.
+Juros sobre Capital Próprio. Constatada diferença acionária é cabível pretensão aos dividendos e juros sobre capital próprio, porquanto decorrentes da condenação complementação acionária.
+Conversão dias ações em Pecúnia. Não tendo o título exequendo estabelecido a cotação a ser utilizada na conversão das ações em pecúnia, assoma-se mais razoável que seja que a vigente na data do trânsito em julgado da decisão, condenatória, por ser justamente este o momento em que a obrigação se tornou. exigível. Desta feita, verifica-se a ausência de interesse de agir quanto ao ponto, uma vez que os cálculos a correta apuração da cotação das ações.
+Juros sobre juros. Considerando que os valores atualizados já continham juros, ocorrendo a capitalização indevida, é cabível a pretensão da agravante.
+DERAM PARCIAL PROVIMENTO AO AGRAVO. ÚNÂNIME.
+Os embargos de declaração foram parcialmente acolhidos para o fim de determinar que sejam excluídos os juros sobre o capital próprio do montante devido (e-STJ, fls. 383-387).
+Em suas razões de recurso especial (e-STJ, fls. 392-408), a recorrente alega violação dos arts. 170, §1º, 202 da Lei n. 6.404/1976; e 467, 471 e 475- V, do Código de Processo Civil, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, que o valor patrimonial das ações deve ser apurado segundo o balancete do mês da respectiva integralização, de forma a evitar o excesso de execução.
+Não foram apresentadas contrarrazões (e-STJ, fl. 414)
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 446-450).
+Brevemente relatado, decido.
+Ao dirimir a controvérsia, o Tribunal de origem adotou a seguinte fundamentação (e-STJ, fls. 365-366):
+Inexiste no cornando judicial trânsito em julgado determinação no sentido de que o valor patrimonial da ação na data da integralização seja aquele vigente no balancete do mês em que efetuado o pagamento. Embora, também não tenha sido expressa a utilização do balanço social, a correta interpretação do julgado, permite concluir que a jurisprudência à época utilizava-se de parâmetro diverso do balancete, qual seja apurava o valor patrimonial no balanço anterior a integralização. Então, admitir-se agora que seja utilizado para calcular a diferença acionária, o valor patrimonial da data da integralização; apurado no balancete do mês do aporte de recursos, ensejaria gritante afronta ao instituto da coisa julgada, já que - repisa-se - há acórdão reconhecendo de forma expressa que a apuração deveria se dar com base. na jurisprudência assente, que na época não era a de utilização do balancete mensal. Dai porque, embora este Relator adote o atual critério definido pelo STJ para a apuração do número de ações a serem subscritas (de que o valor patrimonial na data da integralização é o vigente no balancete do Mês do pagamento), no presente caso, dadas as suas. peculiaridades intrínsecas, considero correta a, utilização, no cálculo para a apuração do número de ações a serem complementadas, a cotação da ação apurada no balanço social anterior à data do investimento.
+Entretatno a jurisprudência do STJ está pacificada no sentido da aplicação da Súmula n. 371/STJ no cumprimento de sentença, quando inexiste critério relativo ao valor patrimonial da ação no título executivo, sem que isso implique ofensa à coisa julgada.
+Ademais, cumpre registrar que não há falar em violação da coisa julgada porquanto, no caso concreto, a decisão exequenda, transitada em julgado, reconheceu o direito à complementação acionária, mas não especificou o valor patrimonial da ação a ser empregado, sendo caso de incidência da Súmula n. 371 desta Corte.
+Nesse sentido:
+AÇÃO RESCISÓRIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEFONIA FIXA. SUBSCRIÇÃO DE AÇÕES. LIQUIDAÇÃO DE SENTENÇA. BALANCETE MENSAL. CÁLCULO. COISA JULGADA. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. O ponto central da controvérsia reside em saber se o acórdão rescindendo, proferido na fase de cumprimento de sentença, ao definir o balancete mensal como critério de apuração do valor patrimonial da ação - VPA - teria ofendido a coisa julgada operada na liquidação de sentença.
+2. Não tendo a sentença que transitou em julgado definido os detalhes da liquidação, mormente o critério jurídico para aferição do VPA, não há como se cogitar de ofensa à coisa julgada pela decisão de liquidação.
+3. Pedido rescisório julgado improcedente.
+(AR n. 6.344/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 24/6/2020, REPDJe de 19/11/2020, DJe de 1/7/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBSCRIÇÃO E COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. AUSÊNCIA DE CRITÉRIO ESTABELECIDO NO TÍTULO JUDICIAL EXEQUENDO. POSSIBILIDADE DE FIXAÇÃO. APURAÇÃO COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. SÚMULA N. 371/STJ. VIOLAÇÃO DA COISA JULGADA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. No caso concreto, a decisão exequenda, transitada em julgado, reconheceu o direito à complementação acionária, mas não especificou o valor patrimonial da ação a ser empregado. Portanto, é perfeitamente cabível a aplicação da Súmula n. 371 desta Corte.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.852.943/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/3/2020, DJe de 26/3/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO PARA APURAÇÃO. TÍTULO EXECUTIVO JUDICIAL OMISSO. BALANCETE MENSAL. SÚMULA 371/STJ.
+POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição, obscuridade ou erro material no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do Código de Processo Civil de 2015.
+2. Consoante entendimento desta Corte Superior, se a decisão que transita em julgado não faz nenhuma menção ao critério a ser adotado para a apuração do valor patrimonial da ação, torna-se possível a fixação do critério estabelecido na Súmula 371/STJ, na fase executiva, sem ensejar ofensa à coisa julgada. Precedentes.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente para manter o acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.423.961/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/8/2019, DJe de 27/8/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO PARA APURAÇÃO. TÍTULO EXECUTIVO JUDICIAL OMISSO. BALANCETE MENSAL. SÚMULA 371/STJ. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante entendimento desta Corte Superior, se a decisão que transita em julgado não faz nenhuma menção ao critério a ser adotado para a apuração do valor patrimonial da ação, torna-se possível a fixação do critério estabelecido na Súmula 371/STJ, na fase executiva, sem ensejar ofensa à coisa julgada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.105.519/RS, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 14/8/2018, DJe de 22/8/2018.)
+Sendo assim, o acórdão recorrido encontra-se em dissonância com o entendimento do STJ, merecendo reforma quanto ao ponto.
+Diante do exposto, dou provimento ao recurso especial, para determinar a apuração do diferencial acionário com base no balancete do mês da integralização, conforme a Súmula n. 371/STJ.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. VALOR PATRIMONIAL DA AÇÃO (VPA). AUSÊNCIA DE CRITÉRIO ESTABELECIDO NO TÍTULO JUDICIAL EXEQUENDO. POSSIBILIDADE DE FIXAÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. APURAÇÃO COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. SÚMULA 371/STJ. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. PRECEDENTES. REFORMA. RECURSO ESPECIAL PROVIDO.
