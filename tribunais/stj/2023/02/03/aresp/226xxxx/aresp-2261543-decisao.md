@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANICE DA SILVA COSTA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+CIVIL E PROCESSUAL CIVIL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. HOME CARE. SENTENÇA. PERÍCIA TÉCNICA. TABELA NEAD/ABEMID. CONCLUSÃO. PROVA REGULAR. DESNECESSIDADE DO SERVIÇO DE INTERNAÇÃO DOMICILIAR. COMPROVAÇÃO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+Quanto à primeira controvérsia, alega violação dos arts. 371, 375 e 479 do CPC, no que concerne à inadequada valoração da prova pericial, eis que a conclusão do laudo pericial é notoriamente contraditória com as respostas objetivas oferecidas na tabela ABEMID e NEAD, que reconhecem a total dependência técnica da idosa e a sua elegibilidade ao home care integral, trazendo o(s) seguinte(s) argumento(s):
+Concedida a tutela recursal, foi realizada perícia judicial que reconheceu a dependência total da idosa, mas, em sua conclusão, indicou que o suporte oferecido seria suficiente.
+Ocorre que a conclusão do laudo pericial é notoriamente contraditória com as respostas objetivas oferecidas na tabela ABEMID e NEAD, que reconhecem a total dependência técnica da idosa e a sua elegibilidade ao home care integral.
+Contudo, o E. TJDFT considerou somente trechos do laudo pericial que entendiam como suficiente o atendimento prestado, sopesando de forma inadequada a prova pericial.
+ ..
+No caso, nem sequer o recorrente pediu que a prova fosse desprezada, mas que fosse adotada em seu espírito, já a conclusão exarada pelo expert era contrária às suas próprias fundamentações.
+Conforme descrito expressamente no acórdão e acima citado, o Tribunal deixou de con- siderar adequadamente que, dentre as respostas da perita, ela confirmou que a idosa era totalmente dependente tecnicamente e que necessitava de atendimento para minimizar as frequentes complicações inerentes ao quadro.
+Ora, o que fazer com a idosa quando sofresse uma dessas frequentes complicações
+Não obstante, é sabido que as tabelas da ABEMID e NEAD são documentos frequentemente UTILIZADOS PELAS PRÓPRIAS OPERADORAS para balizar o direito dos beneficiários a te- rem ou não direito ao home care com atendimento por técnico de enfermagem integral.
+O r. acordão cita que a idosa alcançou pontuação 9 na tabela NEAD preenchida pela própria expert, mas que, mesmo assim, ela não estaria elegível para o atendimento com suporte por técnicos de 24 horas.
+Ocorre que tal conclusão vai de encontro com o sistema de pontuação da referida tabela, uma vez que, basta o paciente estar acima de 7 pontos para ser elegível. Veja:
+ ..
+Conforme reconhecido no r. acórdão, a nobre expert assinalou a paciente com pontuação de 13, o que, conforme a legenda da tabela, a classificava como de média complexidade, terceiro grau mais elevado e score idêntico ao indicado pela médica assistente. Veja:
+ ..
+A mesma tabela possui campo exclusivo para descrição sobre o grau de atividade da vida diária RELACIONADA A CUIDADOS TÉCNICOS. Em tal categoria, a perita assinalou que a periciada tinha dependência total, reconhecido expressamente no r. acórdão. Veja:
+ ..
+Ora, se a perita classificou a periciada como dependente total de cuidados técnicos, por qual razão não a classificou na Obs.: 2  ..  enfermagem 24h
+ ..
+Mesmo que assim não fosse, é de se concluir também que a perita classificou a periciada no terceiro grau mais alto de necessidade de cuidados, e confirmou que a paciente era totalmente dependente de cuidados técnicos.
+ ..
+Ora, ao julgar contra as afirmações contidas expressamente no laudo pericial e citadas no acórdão, o E. Tribunal deixou de aplicar a conclusão contida no espírito do laudo pericial que, mesmo que contaminado pela conclusão equivocada da expert, revela o real quadro da beneficiária, que era de dependência total de técnicos de enfermagem (fls. 3591/3597).
+Quanto à segunda controvérsia, alega violação dos arts. 186 e 187 do CC, no que concerne à configuração de dano moral indenizável em razão de ilícito praticado pela parte recorrida, a qual violou o contrato e colocou idosa em situação de abandono, trazendo o(s) seguinte(s) argumento(s):
+Ocorre que as provas citadas no r. acórdão levam à conclusão de que a recorrida praticou ato ilícito, violando o contrato e colocando a idosa em completa situação de abandono.
+Conforme citado no r. acordão tal conduta é considerada dano moral in re ipsa, passível de reparação (fl. 3597).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Compulsando a prova pericial produzida, consubstanciando em laudo do expert, tem-se que houve a conclusão pela ausência de necessidade de internação home care, com acompanhamento em tempo integral por profissional de enfermagem. Também foi considerado adequado ao quadro de saúde da autora a assistência domiciliar deferida pela requerida.
+ ..
+Em outras palavras, diante da prova pericial pela ausência da necessidade de internação, conclui-se que a prestação da internação nos moldes ofertados pela requerida ocorreu de forma devida, afastando-se qualquer irregularidade na atuação da apelada.
+Quanto ao argumento da apelante que aduz contradição do laudo pericial, por sugerir pontuação 13 na tabela Nead (Abemid) - indicando tratar-se de paciente de média complexidade e, portanto, necessitada de internação domiciliar com acompanhamento -, não deve prosperar.
+As pontuações nas referidas tabelas são complementadas com os demais componentes do laudo da expert, que indicam expressamente a desnecessidade da internação com acompanhamento integral por equipe técnica de enfermagem.
+A perita, expressa e ostensivamente, indica que o tratamento dispensado pela requerida à autora estava de acordo com que a paciente necessitava. Assevera ainda que a recusa da família com a alta hospitalar restou injustificada, em que pese a pontuação alcançada na referida tabela.
+Desse modo, tendo-se em vista as respostas da perícia aos quesitos formulados, tem-se que as conclusões da perícia não são contraditórias ou desprovidas de fundamento científico. Pelo contrário, foram devidamente explicitadas e justificadas, inclusive com referência cronológica e ao estado de saúde da autora em cada momento.
+ ..
+Assim, o apelo do espólio consubstancia-se em mera discordância com o resultado, que apresentado desprovido de outra prova técnica capaz de infirmar o resultado do laudo, não deve prevalecer (fls. 3565/3569).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Entretanto, como exposto da situação fática do caso, bem como do laudo pericial produzido, depreende-se que a apelada agiu em conformidade com os ditames da boa-fé objetiva e com os ditames normativos que regem o contrato, pois deferiu à autora/paciente o acompanhamento por 3h de enfermagem e demais profissionais, conforme colacionado aos autos (ID34277426).
+Assim, baseando-se na prova pericial produzida, que aponta pela ausência da necessidade de internação domiciliar bem como no deferimento do acompanhamento domiciliar (ID ID34277426), não se vislumbra qualquer ato ilícito, violação ao contrato ou abuso de direito atribuível à apelada que enseje em compensação por danos morais (fls. 3571/3572).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
