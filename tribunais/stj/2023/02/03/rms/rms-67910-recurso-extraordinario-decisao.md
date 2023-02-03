@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por PAULO FELIZARDO PRIMO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 279):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. IMPETRAÇÃO CONTRA ATO JUDICIAL. PREVISÃO DE RECURSO PRÓPRIO. IMPETRAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. TERATOLOGIA. INEXISTÊNCIA. SÚMULA N. 267/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - É firme a orientação desta Corte no sentido de que revela-se incabível a utilização do mandado de segurança como sucedâneo recursal, salvo quando a decisão impugnada ostentar manifesta ilegalidade, teratologia ou abuso de poder, o que não é o caso dos autos.
+IV - Não cabe mandado de segurança contra ato judicial passível de recurso ou correição, nos termos da Súmula 267 do Supremo Tribunal Federal.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+Os embargos de declaração foram rejeitados (fls. 311-317).
+A parte recorrente sustenta a violação dos arts. 5º, LIV e LV, e 93, IX, da CF e aduz que haveria repercussão geral da matéria tratada.
+Alega que (fl. 331):
+O não enfrentamento das questões constitucionais levantadas pelos recorrentes, em razão da rejeição dos aclaratórios, configura ofensa direta aos princípios do devido processo legal (CF, art. 5º, LIV), da ampla defesa, e do contraditório (CF, art. 5º, LV), bem como, negativa de prestação jurisdicional, nos termos do art. 93, IX, da Constituição Federal, sem a necessidade de exame dos dispositivos legais, porquanto, vedado o exame da legislação infraconstitucional no âmbito do Supremo Tribunal Federal.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 348).
+É o relatório.
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinados os motivos pelos quais foi mantida a decisão monocrática por meio da qual o recurso foi parcialmente conhecido, valendo destacar os seguintes trechos (fls. 283-284):
+Observo que o tribunal de origem decidiu pela deficiência de fundamentação nas razões do agravo interno, conforme se extrai dos seguintes excertos (fl. 156e):
+No caso dos autos, o agravante limitou-se a aduzir irresignação genérica contra o entendimento jurídico adotado no julgamento, o qual está embasado, em essência, nos seguintes fundamentos legais e razões de decidir:
+1. O mandado de segurança não pode ser utilizado como sucedâneo do recurso legalmente cabível, sendo medida excepcional e extrema, admissível somente em casos de ilegalidade ou abuso de poder, por parte do prolator do ato processual impugnado.
+2. Nos termos do inciso I do art. 5º da Lei 12.016/2009, c. c. art. 1015 do CPC, o ato judicial atacado era passível de recurso via agravo de instrumento, para defesa dos interesses do Impetrante, a teor do disposto no parágrafo único do art. 1015 do CPC, o que evidencia o descabimento da via eleita. demais, o mandado de segurança não é sucedâneo de recurso, segundo entendimento consolidado na Súmula 267 do Supremo Tribunal Federal.
+Diante dessas circunstâncias, mostra-se inviável o acolhimento da pretensão recursal em análise.
+Contudo, tal fundamento não foi refutado pelo Recorrente, porquanto limitou-se a afirmar, de forma genérica, que "ao contrário do que consta no v. acórdão recorrido, o recorrente indicou concretamente a quais fundamentos da decisão agravada se dirige, esclarecendo as razões pelas quais a impetração do mandado de segurança era a medida adequada" (fl. 173e).
+É firme o posicionamento desta Corte no sentido de que a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+ ..
+Outrossim, verifico que o tribunal de origem adotou entendimento consolidado nesta Corte segundo o qual revela-se incabível a utilização do mandado de segurança como sucedâneo recursal, salvo quando a decisão impugnada ostentar manifesta ilegalidade, teratologia ou abuso de poder, o que não é o caso dos autos.
+No caso, aplicável, por analogia, a Súmula n. 267 do Supremo Tribunal Federal, segundo a qual: "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 315-317):
+A Embargante alega não ter sido examinado nenhum dos argumentos apresentados no Agravo Interno. Trata-se de argumentação genérica, sem indicar, efetivamente, qual seria o ponto omisso, bem como a sua relevância para o deslinde da controvérsia. Ou seja, não se está demonstrando a existência de nulidade capaz de ensejar o acolhimento do recurso por ofensa ao art. 1.022 do CPC/2015, mas, tão somente discordando de decisão desfavorável.
+De acordo com a jurisprudência desta Corte, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, acórdão proferido pelo tribunal de origem em outro processo, o entendimento da parte, outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+ ..
+No mais, diferentemente do que quer fazer crer a Embargante, os argumentos apresentados nas razões do recurso são, nitidamente, insuficientes para superar os óbices sumulares apontados.
+Verifico, ainda, que as alegações de omissão dizem respeito ao próprio mérito do recurso.
+É firme o posicionamento desta Corte segundo o qual não configura omissão a ausência de pronunciamento sobre o mérito do recurso que não ultrapassa o juízo de admissibilidade, como o demonstra o julgado assim ementado:
+ ..
+Assim, a pretexto de omissão, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada na decisão monocrática e no acórdão recorrido, embora em adversidade aos interesses da parte.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Com efeito, demonstrado que ocorreu a prestação jurisdicional, ainda que se discorde da solução alcançada, a fundamentação tenha sido sucinta ou não tenha havido exame pormenorizado de cada uma das alegações, impõe-se a aplicação do Tema n. 339/STF, consoante entendimento do próprio STF, representado pela ementa do acórdão a seguir transcrita:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA. SÚMULA 280/STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - Conforme assentado no julgamento do AI 791.292-QO-RG/PE (Tema 339 da Repercussão Geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário a análise de normas infraconstitucionais o que é inviável em recurso extraordinário. Incidência da Súmula 280/STF.
+III - Agravo regimental a que se nega provimento.
+(ARE n. 1.385.381-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 14/9/2022, DJe de 16/9/2022.)
+Dessa forma, o julgado questionado não padece de vício de fundamentação, consoante entendimento da Suprema Corte, cuja observância é devida (art. 927, III, parte final, do CPC).
+Ademais, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a su posta ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal depende da análise do art. 10 da Lei n. 12.016/2009 e do art. 212 do Regimento Interno do Superior Tribunal de Justiça, razão pela qual incide o Tema n. 660/STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
