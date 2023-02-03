@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa solicita que se proceda à notificação de AUGUSTO ANDRÉ DA SILVA DIAS para comparecer à audiência de julgamento designada para o dia 11 de janeiro de 2023, às 9h30, perante o Juízo de Competência Genérica de Ourique, no interesse do Processo 39/22.5GCORQ, em que responde pelo "crime de condução de veículo a motor sem habilitação legal, previsto e punido pelo art. 3º, nºs 1 e 2, do Decreto-Lei nº 2198, com referência aos arts. 121º e ss. do Código da Estrada".
+Considerando o de curso da data marcada para a audiência, julgo prejudicada a comissão e determino a devolução dos autos à Justiça rogante, por intermédio da autoridade central competente (art. 216-X do RISTJ), cabendo ao Juízo rogante avaliar os documentos de fl . 119 , sem prejuízo da reapresentação.
+Publique-se.
