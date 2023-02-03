@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por SAINT GERMAIN DISTRIBUIDORA DE VEÍCULOS LTDA - EM RECUPERAÇÃO JUDICIAL, e suscitados o JUÍZO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP e o JUÍZO DA 41ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ.
+Ação em trâmite no juízo cível: recuperação judicial da suscitante.
+Ação em trâmite na Justiça do Trabalho: reclamatória, ajuizada por ADRIANO MOREIRA INGLAT.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo recuperacional é o único competente para dirimir questões que afetem o patrimônio da sociedade empresária devedora, sob pena de violação do princípio da preservação da empresa.
+Tutela antecipada: deferida às fls. 1.280/1.281, e-STJ.
+Informações prestadas pelo Juízo Cível: noticiou o regular andamento do processo de recuperação judicial da suscitante.
+Parecer do MPF: manifestou-se pela declaração da competência do juízo universal.
+RELATADO O PROCESSO, DECIDE-SE.
+Depreende-se dos autos que o processo de recuperação judicial da empresa suscitante está em regular andamento perante o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP. De outro lado, observa-se que o Juízo trabalhista autorizou o bloqueio de bens e valores da empresa recuperanda para pagamento do débito trabalhista.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei 11.101/05, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, mesmo que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP para a realização de qualquer ato processual que implique em constrição do patrimônio da empresa suscitante, no autos da Reclamação Trabalhista n. 0010739-32.2015.5.01.0041, ajuizada por Adriano Moreira Inglat, em trâmite no Juízo da 41ª Vara do Trabalho do Rio de Janeiro.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP.
