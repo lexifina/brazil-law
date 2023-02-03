@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de KLEITON DE GODOY PINHEIRO contra acórdão do Tribunal de Justiça do Estado do Paraná no HC n. 0052292-72.2022.8.16.0000.
+Consta dos autos que o Paciente foi denunciado pela prática, em tese, dos crimes previstos no art. 155, § 4.º, inciso IV, do Código Penal (fato 1), art. 155, § 4.º, inciso IV, do Código Penal, por duas vezes (fato 2) e art. 288, do Código Penal (fato 3).
+Narra a denúncia que o Acusado e corréus "fazem parte de uma associação criminosa que atua em diversos estados praticando o crime de furto em lojas de departamento e supermercados, atuando sempre com o mesmo "modus operandi", consistente em algumas pessoas entrarem no estabelecimento e separarem os objetos, colocando-os em um lugar menos movimentado e após outra pessoa sair com as sacolas, efetuando fuga logo em seguida" (fl. 71), sendo imputado ao Paciente a participação em subtração de mercadorias de elevado valor.
+Foi decretada a prisão temporária e posteriormente a prisão preventiva do Réu, em 12/05/2022. Afirma a inicial que o mandado de prisão foi cumprido em 04/05/2022.
+Os pedidos de revogação da custódia cautelar foram indeferidos às fls. 88-91 e 92-95, consignando o Magistrado que o feito está na fase de apresentação das alegações finais.
+Inconformada, a Defesa impetrou habeas corpus na Corte de origem, que foi parcialmente conhecido e denegado nos termos do acórdão de fls. 16-25.
+No presente writ, o Impetrante afirma que há excesso de prazo na condução do feito e que inexistem fundamentos idôneos e indícios suficientes de autoria para justificar a custódia cautelar do Paciente, que possui condições pessoais favoráveis, supostamente cometeu crime sem violência e possui filho menor que necessitam de seus cuidados, motivo pelo qual faz jus à revogação da prisão preventiva.
+Busca, liminarmente e no mérito, a revogação da custódia cautelar ou substituição por medidas cautelares diversas da prisão.
+Indeferi o pedido liminar às fls. 148-149.
+As informações foram prestadas às fls. 152-156.
+Por intermédio da petição de fls. 160-163, a Parte Impetrante busca a reconsideração da decisão por meio da qual indeferi o pedido de medida liminar para a revogação da custódia cautelar ou substituição por medidas cautelares diversas da prisão. Aduz em suma, que, após prestadas as informações, restou evidente o excesso de prazo na formação da culpa, pois, em razão da ausência de gravação na mídia, foi redesignada a oitiva de testemunha, para o dia 13/12/2022. Afirma, ainda, que a reprodução do ato trará nulidade à ação penal por inversão na ordem da oitiva, que acontecerá após o seu interrogatório.
+O pedido de reconsideração da decisão que indeferiu a liminar foi indeferido nos termos da decisão de fl. 166, sendo requeridas informações complementares.
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus, alternativamente, pela denegação da ordem (fls. 170-177).
+É o relatório. Decido.
+De início, friso que a Defesa impetrou o HC n. 762.139/PR, com idênticos fundamentos, em favor do Paciente. O writ foi parcialmente conhecido - apenas quanto aos fundamentos da custódia cautelar - e denegado, em decisão transitada em julgado no dia 18/10/2022, após julgamento de embargos de declaração, não sendo cabível reanálise da matéria.
+A alegada nulidade por inversão na ordem da oitiva da testemunha, por sua vez, não foi suscitada e, tampouco, apreciada no habeas corpus originário, o que impede esta Corte Superior de Justiça de se manifestar sobre a matéria, sob pena de supressão de instância.
+O writ é cognoscível apenas quanto às teses de excesso de prazo na formação da culpa e cabimento da prisão domiciliar, as quais não foram conhecidas na primeira impetração em favor de Réu, visto que suscitadas originariamente nesta Corte Superior.
+E, na parte conhecida, esta impetração perdeu o objeto.
+Consoante informações complementares prestadas pelo Juízo da 3ª Vara Criminal de Guarapuava - PR, foi oportuniza a realização de novo interrogatório dos acusados, após refeita a inquirição da mencionada testemunha. Assim, " h avendo necessidade de redesignação do feito, a audiência mencionada foi remarcada para o dia 15/02/2023 às 14h15min. Na mesma decisão, a prisão do paciente foi revogada, a qual foi substituída por monitoração eletrônica e medidas cautelares diversas da prisão" (fl. 183).
+Ante o exposto, em razão da ausência superveniente de interesse processual, JULGO PREJUDICADO o habeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PERDA DE OBJETO. HABEAS CORPUS PREJUDICADO.
