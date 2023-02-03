@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBERT ANTONIO FERREIRA BENTO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0014877-59.2021.8.26.0502).
+Consta dos autos que o Juízo das Execuções absolveu o paciente da falta grave que lhe foi imputada, consistente no recebimento de droga ilícita no interior do estabelecimento prisional.
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal estadual, o qual deu provimento ao recurso, nos termos do aresto acostado às e-STJ fls. 329/332, sem ementa.
+A impetrante sustenta que o paciente "negou ter solicitado ou encomendado os entorpecentes. Afirmou que nunca forneceu os dados e endereços de seus familiares, e que não esperava receber Sedex aquele dia" (e-STJ fl. 4).
+Aduz que "o sentenciado em nenhuma ocasião obteve a posse do entorpecente, e tampouco ficou comprovado que a tenha encomendado" (e-STJ fl. 5).
+Acrescenta que "reconhecer a falta imputada em desfavor do agravante, sem prova de prévio conluio entre ele e o remetente, implicaria em condenar com base na mera presunção e pelo simples fato de ele ser o destinatário da encomenda enviada, além de constituir ofensa ao princípio da intransferência" (e-STJ fl. 7). .
+Requer a manutenção da decisão que absolveu o paciente da acusação de prática de falta grave, ou, alternativamente, a classificação da falta como de natureza média.
+Indeferida a liminar (e-STJ fls. 335/336), e prestadas as informações solicitadas (e-STJ fls. 340/359); manifestou-se o Ministério Público Federal pela não admissão do writ, descabida a concessão de uma ordem de habeas corpus ex-officio (e-STJ fls. 361/366).
+É o relatório.
+Decido.
+No caso, a absolvição do paciente pela prática de falta grave consistente no recebimento de correspondência contendo droga ilícita foi fundamentada nos seguintes termos (e-STJ fl. 316):
+Forçosa a absolvição.
+Encerrado o expediente administrativo, não há prova segura da autoria da infração disciplinar.
+Embora o laudo toxicológico tenha comprovado a materialidade da falta (fls.170/171), a autoria não ficou suficientemente demonstrada.
+O reeducando, quando ouvido (fl. 167), negou participação na tentativa de introdução de drogas na unidade via Sedex.. Ouvida a avó do executado, que constava como remetente do referido Sedex, esta também negou o envio (fl. 278/279).
+Não bastasse a negativa de autoria, não existe nenhum elemento de convicção que indique, de forma concreta, quem foi o real remetente e quem seria o destinatário da substancia apreendida.
+A absolvição, nesse cenário probatório, é medida que melhor atende à hipótese dos autos.
+ASSIM SENDO, ABSOLVO o sentenciado ROBERT ANTONIO FERREIRA BENTO, recolhido(a) no(a) Penitenciária III de Franco da Rocha.
+O Tribunal de origem deu provimento ao recurso ministerial com espeque na seguinte argumentação (e-STJ fls. 331/332):
+Segundo se afere dos autos, no dia 12 de outubro de 2020, agentes penitenciários encontraram na correspondência enviada via "Sedex" ao agravado, 30 filetes da droga sintética conhecida como "K4", com massa líquida de 7,2g. A correspondência foi enviada ao sentenciado por Maria Rosa Tozi, sua avó,cadastrada em seu rol de visitas.
+O sentenciado, ouvido, afirmou não ter solicitado o entorpecente. Ademais, sua avó, pessoa idosa, não teria condições de enviar-lhe correspondência via"Sedex".
+Os agentes de segurança Jose Rafael de Souza Neto e Magno Henrique Brandão confirmaram que na correspondência enviada ao sentenciado encontraram-se os filetes de "K4", e que no momento da apreensão o sentenciado admitiu ser o destinatário das drogas.
+De ver-se que nenhum elemento aponta para eventual interesse dos agentes penitenciários em acusar falsamente o agravado.
+De outra parte, soa inverídica a assertiva do agravado, segundo a qual não havia solicitado o envio do "Sedex". Este foi encaminhado por sua avó pessoa que admitiu já ter-lhe enviado outras duas correspondências em uma agência dos Correios de Mairiporã/SP, cidade de seu domicílio; ademais, ela não teria enviado a "encomenda", sujeitando o sentenciado ao risco de uma imputação de falta grave, caso ele não a tivesse solicitado.
+Aliás, irrelevante o fato de não ter a encomenda chegado às mãos do sentenciado: nos termos do artigo 49, parágrafo único, da Lei de Execução Penal, pune-se a tentativa da infração disciplinar com a sanção correspondente à falta consumada.
+Assim, respeitada a convicção da nobre Magistrada, a conduta do agravado configura infração disciplinar de natureza grave, e a prova produzida é suficiente à sua anotação.
+Caberá ao Juízo de primeiro grau, ante o reconhecimento da falta grave, estabelecer as consequências do fato na execução.
+Isto posto, pelo meu voto, dá-se provimento ao agravo para reconhecer a prática de falta disciplinar de natureza grave pelo sentenciado, cabendo ao Juízo de primeiro grau estabelecer as consequências do fato na execução da pena. Comunique-se.
+O entendimento do Tribunal a quo, na espécie, não merece prosperar.
+Esta Corte Superior possui posicionamento de que, "em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 25/4/2017).
+Em outras palavras, é possível a responsabilização do reeducando por fato praticado por terceiro, desde que sejam evidenciados indícios mínimos de participação quanto à prática do ato, baseada em elementos concretos e não apenas em meras presunções.
+No caso, não há como concluir que o paciente praticou falta grave. Com efeito, depreende-se dos autos que o apenado nem sequer manteve contato com o material que supostamente lhe fora destinado mediante correspondência, porquanto o objeto proibido (entorpecente sintético "K4" ) não ingressou na unidade prisional em virtude do trabalho dos agentes penitenciários.
+Conclui-se, assim, que a responsabilização deu-se por meio de meras ilações, não sendo demonstrados de maneira suficiente os indícios da unidade de desígnios do paciente em relação ao fato.
+No mesmo sentido, o seguinte precedente:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ENVIO, VIA SEDEX, DE UM APARELHO CELULAR ACONDICIONADO EM UMA BARRA DE SABONETE. REVISTA PRÉVIA NO ESTABELECIMENTO PRISIONAL. DESCOBERTA. NÃO COMPROVAÇÃO DE ATO MATERIAL DO REEDUCANDO. FALTA DISCIPLINAR. INOCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Esta Corte Superior de Justiça firmou entendimento no sentido de que, em decorrência do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos. O mencionado princípio é explicado como a vedação de se pretender a aplicação da sanção penal a quem não seja o autor do fato, corolário impositivo do princípio constitucional da personalidade da pena, insculpido no art. 5º, inciso XLV, da Carta Magna.
+3. In casu, não há como concluir que o paciente praticou falta grave. Com efeito, depreende-se dos autos que o apenado sequer manteve contato com o material que supostamente lhe fora destinado mediante SEDEX, porquanto o objeto proibido (aparelho celular), acondicionados no interior de um sabonete, não ingressou na unidade prisional, em virtude do diligente trabalho dos agentes penitenciários.
+4. Ademais, não ficou comprovada a prática de nenhum ato material pelo paciente, não podendo, assim, a suposta conduta ilícita ser imputada ao reeducando.
+5. Habeas corpus não conhecido. No entanto, ordem concedida de ofício para cassar o acórdão proferido pela Corte de origem, e, em consequência, absolver o paciente do cometimento da falta grave que lhe fora imputada.
+(HC 651.712/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/3/2021, DJe 29/3/2021. )
+No mesmo sentido, ainda, cito os seguintes julgados: HC n. 707.014/SP, relatora Ministra LAURITA VAZ, DJe 25/11/2021; HC n. 683.871/SP, relator Ministro ROGÉRIO SCHIETTI CRUZ, DJe 29/9/2021.
+Ante o exposto, concedo a ordem para cassar o acórdão referente ao Agravo em Execução n. 0014877-59.2021.8.26.0502 e restabelecer a decisão de primeiro grau.
+Publique-se. Intimem-se.
