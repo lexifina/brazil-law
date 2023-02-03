@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado de Alagoas contra decisão da Presidência desta Corte Superior que não conheceudo agravo em recurso especial, ante a incidência da Súmula 182/STJ (fls. 376/378).
+Inconformada, a parte agravante sustenta a inaplicabilidade do referido óbice, sob o argumento de que "é de se observar que o tópico "IV" do agravo em recurso especial, infirma justamente a incidência da Súmula 83/STJ.  ..  Não obstante, conforme demonstrado em sede do agravo em recurso especial, inclusive, com indicação de jurisprudências desta Corte, nas ações de promoção de militares, o início da prescrição decorre não da negativa do direito, mas do ato de concessão, eis que inaplicável a Súmula 85/STJ. É o que se vê dos seguintes trechos do agravo em recurso especial (e-STJ fls. 291/293):" (fl. 382), bem como que "No mesmo sentido, o agravante sustentou, expressamente, que a o provimento do recurso especial não demanda o revolvimento fático probatório. Confira- se trechos do agravo em recurso especial nesse sentido:  ..  Uma vez demonstrado que a agravante impugnou tanto a Súmula 7/STJ quanto à Súmula 83/STJ, verifica-se que houve impugnação específica de todos os fundamentos da decisão de admissibilidade, razão pela qual não incide, também, a Súmula 182/STJ." (fls. 385/386).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 376/378), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
