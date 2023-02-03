@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por André Camera Capone e Ricardo Pires Bellini à decisão monocrática proferida por este signatário, assim ementada (e-STJ, fl. 212):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. MULTA. AUSÊNCIA DE MÁ-FÉ OU INTUITO PROTELATÓRIO PELA INTERPOSIÇÃO DE RECURSO CABÍVEL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, os embargantes alegam a existência de omissão na decisão embargada no tocante ao requerimento da condenação dos rés com a inclusão de juros e correção monetária desde 17/12/2015.
+Asseveram, ainda, que o Tribunal estadual não se manifestou quanto à base de cálculo utilizada para efeito de liquidação.
+Impugnação às fls. 223-229 e 233-239 (e-STJ), com pedido de aplicação das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Brevemente relatado, decido.
+Inicialmente, observa-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+No caso, observa-se que o Tribunal de origem, expressamente consignou que (e-STJ, fl. 117-118):
+O autor foi condenado ao pagamento de honorários de 10%, "a incidir sobre a diferença entre o valor pretendido e o efetivamente alcançado" (fl. 942 do processo).
+No cumprimento de sentença nº 0006788-47.2021.8.26.0114 foi reconhecido que o termo inicial da correção monetária do valor devido ao autor é a data da citação (fls. 193/194 do proc. nº 0006788-47.2021.8.26.0114).
+O valor pretendido pelo autor, na inicial, era de R$ 210.533,49, mas ele obteve o valor de R$ 149.377,78 (fl. 942 do processo). Sendo assim, os honorários por ele devidos correspondem a 10% do valor da diferença (R$61.155,71) entre tais valores.
+De fato, não constou do título judicial a forma de atualização dos honorários de sucumbência devidos aos agravantes, não se vinculando a atualização de tais honorários, neste caso, à forma de atualização dos valores devidos ao autor, porque assim não estabeleceu o v. acórdão, que estipulou que os honorários incidirão sobre a diferença entre o valor pretendido e o alcançado, sem cogitar de correção ou juros sobre tais valores, para a apuração dos honorários.
+A correção, portanto, dos honorários de R$ 6.115, 67 (10% da mencionada diferença) incide desde a data da distribuição da ação (14.12.18, fl. 1 do processo), quando foi indicado o valor pretendido pelo autor, conforme a decisão agravada.
+Os juros de mora sobre os honorários incidiriam desde a intimação do agravado para o pagamento da verba honorária (abril de 2021, fl. 38 do cumprimento de sentença), porque a hipótese é de verba honorária arbitrada em percentual do valor do proveito econômico obtido pelos agravantes, não sobre quantia certa, não tendo aplicação ao caso o disposto no art. 85, § 16, do CPC nem o precedente indicado na decisão agravada, que também diz respeito a quantia certa.
+Consta, ainda, dos embargos de declaração parcialmente acolhidos pela Corte de origem (e-STJ, fl. 129-130):
+Conheço dos embargos de declaração, porque são tempestivos, e os acolho em parte, pois o acórdão padece da contradição apontada, pois constou do acórdão no parágrafo 2º de fl. 117 que "assiste parcial razão aos agravantes", apesar de ter sido negado provimento ao agravo.
+Assim sendo, corrijo a contradição apontada para que se leia no segundo parágrafo de fl. 117: "Não assiste razão aos agravantes".
+Em relação a questão da base de cálculo, porém, não há omissão a ser reconhecida.
+Os embargantes pretendiam que fosse reconhecido que eles teriam direito aos honorários calculados sobre a diferença do valor pretendido pelo agravado, mas com correção monetária e juros desde a destituição.
+Sobre tal alegação, a Turma Julgadora se manifestou no v. acórdão, rebatendo a alegação, discorrendo minuciosamente a respeito do tema, para enfim concluir que o título judicial "estipulou que os honorários incidirão sobre a diferença entre o valor pretendido e o alcançado, sem cogitar de correção ou juros sobre tais valores, para a apuração dos honorários" (fl. 117).
+Constou ainda que "o valor pretendido pelo autor, na inicial, era de R$210.533,49, mas ele obteve o valor de R$149.377,78 (fl. 942 do processo)" (fl.117), de modo que os honorários correspondem a 10% calculado sobre o valor da diferença de R$61.155,71, razão pela qual "a correção, portanto, dos honorários de R$6.115,67 (10% da mencionada diferença) incide desde a data da distribuição da ação (14.12.18, fl. 1 do processo), quando foi indicado o valor pretendido pelo autor, conforme a decisão agravada" (fl. 117).
+Desse modo, verifica-se que o Colegiado dirimiu a causa com base em fundamentação sólida, sem omissões ou contradições.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos. O decisum embargado esclarece a controvérsia apontando argumentos consistentes, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte insurgente.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS SUSCITADOS.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, não se reconhece a violação ao art. 1.022, do NCPC, quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza vício do julgado.
+3. O verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa devidamente decidida.
+4. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+(EDcl no AgInt no REsp n. 1.822.748/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REDISCUSSÃO DO JULGADO. INOVAÇÃO RECURSAL. INADEQUAÇÃO.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3. Sendo evidente o intuito protelatório dos presentes embargos, impõe-se a aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa, na forma prevista no artigo 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no REsp n. 1.918.421/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Importante frisar, inclusive, que se observa inconformismo reiterado da parte com o teor do julgado, pois estes aclaratórios, embora com palavras diferentes, defendem os mesmos argumentos já lançados na petição do recurso especial.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é a utomática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+No que se refere ao pedido de que seja imposta a multa prevista no § 2º do art. 1.026 do CPC/2015, também não deve ser acatado o requerimento da parte contrária, pois o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICÁVEL. CARÁTER MANIFESTAMENTE PROTELATÓRIO. NÃO EVIDENCIADO. EMBARGOS REJEITA DOS.
