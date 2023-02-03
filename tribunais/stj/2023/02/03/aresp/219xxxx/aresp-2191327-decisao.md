@@ -1,0 +1,15 @@
+DECISÃO
+Na origem trata-se de embargos à execução ajuizado por B.M. AGROINDUSTRIAL LTDA contra a FAZENDA NACIONAL, pretendendo a extinção da execução. Na sentença julgou-se parcialmente procedente o pedido, para excluir das CDAs os valores da inclusão do ICMS na base de cálculo da COFINS. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 1.767.346,47 (um milhão setecentos e sessenta e sete mil, trezentos e quarenta e seis reais e quarenta e sete centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PROCESSUAL C IVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. DECISÃO DO STF. REPERCUSSÃO GERAL.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A matéria em questão já foi decidida pelo STF, em sede de repercussão geral, no RE 574.706, em 15 demarço de 2017, que fixou a seguinte tese: "o ICMS não compõe a base de cálculo do PIS e da COFINS"
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Uma vez realizado o juízo de conformação pelo Tribunal a quo com entendimento proferido em recurso extraordinário submetido ao rito da repercussão geral , nos termos do art. 1.030 do CPC, fica prejudicada a análise da matéria do apelo raro coincidente com aquela discutida no referido recurso representativo de controvérsia.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
