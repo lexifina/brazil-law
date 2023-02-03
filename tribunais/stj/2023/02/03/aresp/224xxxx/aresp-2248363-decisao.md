@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por RUBENS BEZERRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+TRIBUTÁRIO. AGRAVO INTERNO. ART. 1.021 DO CPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DA CITAÇÃO POR EDITAL. INOCORRÊNCIA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do arts. 239, 256, 280 e 803, II, do CPC, no que concerne à ilegalidade de citação por edital do recorrente, ante a inexistência dos requisitos autorizadores da referida medida excepcional, trazendo os seguintes argumentos:
+29. Logo, a citação da maneira em que ocorrida simplesmente não pode subsistir, (i) uma vez que o Tribunal recorrido utilizou fundamentação legal não aplicável à solução do caso concreto, na medida em que esse não se trata de execução fiscal, mas sim de execução de título extrajudicial, invocando a aplicabilidade dos artigos 239, 280 e 803, inciso II, todos do Código de Processo Civil e não do artigo 8º da Lei nº 6.830/30; e (ii) por padecer de vícios que maculam todos os atos processuais posteriores à sua incidência por violar as disposições destes artigo, ao passo em que ela foi praticada após a tentativa infrutífera, mas não esgotada, de citação pessoal do Recorrente no endereço de domicílio que este regularmente reside até o presente momento, a saber: "Rua Natingui, nº 1188 - Alto dos Pinheiros, São Paulo/SP" (fl. 335).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso concreto, foram 03 (três) tentativas de citação por Oficial de Justiça, em 03 (três) endereços diferentes. Foram diligenciados o endereço indicado na inicial, bem como o endereço constante na Receita Federal.
+Foi ainda utilizado o sistema BacenJud para diligência em outro endereço.
+Por fim, a agravada forneceu novo endereço, conforme pesquisas nos cartórios de imóveis, cuja diligência também restou negativa.
+Na hipótese, a agravada esgotou todos os meios no sentido de localizar o devedor para fins de prosseguimento do feito executivo.
+Dessa maneira, não há nulidade na citação por edital. No caso concreto, várias tentativas infrutíferas precederam a citação por edital.
+As razões recursais não contrapõem os fundamentos do r. decisum a ponto de demonstrar qualquer desacerto, limitando-se a reproduzir argumentos os quais visam à rediscussão da matéria nele contida (fl. 311).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
