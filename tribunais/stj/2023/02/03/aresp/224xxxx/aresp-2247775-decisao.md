@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE GUARUJÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. TÍTULO EXTRAJUDICIAL (DESPESAS CONDOMINIAIS). PENDÊNCIA RELACIONADA À PREFERÊNCIA DE CRÉDITOS. RECURSO DE CREDOR, TRIBUTÁRIO. PROVIMENTO.
+Quanto à controvérsia recursal, alega violação dos artigos 187 do CTN e 908 do CPC, no que concerne à necessidade de indicação de uma ordem de preferência na habilitação de credores pelo acórdão recorrido no tocante à liquidação de bem penhorado advindo de título extrajudicial por quantia certa, sob pena de inviabilizar a execução do julgado e de incidir em negativa de prestação jurisdicional, trazendo o(s) seguinte(s) argumento(s):
+Há necessidade de um posicionamento, uma ordem sobre a preferência objeto do recurso, pois o mero afastamento da decisão de primeiro grau, determinando a instauração do concurso de credores desacompanhado de uma ordem expressa, impede a execução do julgado, caracterizando verdadeira negativa de prestação jurisdicional.
+ ..
+Por todo o exposto, diante das relevantes razões recursais expendidas, requer seja conhecido e provido o presente recurso especial, reformando o acórdão atacado para que seja reconhecida expressamente a preferência do crédito tributário sobre o crédito condominial, independentemente da instauração de concurso de credores pelo juízo em que houve a arrematação do imóvel (fls. 104/106).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
