@@ -1,0 +1,21 @@
+DECISÃO
+Na origem trata-se de ação ordinária ajuizada por ROGÉRIO SIMONETTI BEVILAQUA contra o INSS, pleiteando benefício assistencial de prestação continuada à pessoa portadora de deficiência. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 11.244,00 (onze mil, duzentos e quarenta e quatro reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. DEFICIÊNCIA. HIPOSSUFICIÊNCIA ECONÔMICA. REQUISITOS NÃO PREENCHIDOS.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Cumpre, então, examinar o preenchimento dos requisitos para a concessão do benefício pleiteado no caso vertente.
+Consoante perícia médica produzida é possível concluir que o estado clínico da parte autora implica a existência de impedimento de longo prazo, o qual, em interação comum a ou mais barreiras, poderia obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, devendo, assim, ser considerada pessoa com deficiência para os efeitos legais.
+No tocante à demonstração da miserabilidade, o Estudo Social produzido indica que o núcleo familiar é integrado pela parte postulante e seus genitores. À época (08/2018) foi informado que a renda mensal consistia em um salário mínimo (R$ 954,00) proveniente da aposentadoria por idade recebida pela genitora, mais R$ 1.065,00 advindos da aposentadoria por tempo de contribuição auferida pelo genitor, totalizando R$ 2.019,00. O imóvel em que residem é cedido pela cunhada, tendo como contraprestação o pagamento das parcelas do CDHU. Foram declaradas despesas mensais com luz e água (R$ 150,00), alimentação (R$750,00), gás (R$ 80,00), remédios eventuais (R$ 250,00), IPTU (R$ 64,00), prestação da casa(R$ 136,00) e telefone (R$ 130,00), totalizando R$ 1.560,00.
+Dessarte, tem-se que conquanto a economia doméstica não seja de fartura, a renda auferida se mostra adequada ao suprimento das necessidades essenciais do núcleo familiar.
+Ressalte-se, por oportuno, que embora o valor do benefício recebido pela genitora devesse ser excluído do cômputo da renda familiar, já que equivalente a 01 (um) salário mínimo, a renda percebida é suficiente para a subsistência do núcleo familiar.
+Anote-se que o direito ao benefício assistencial de prestação continuada está atrelado à situação de sensível carência material enfrentada pelo postulante, não bastando para a sua concessão a alegação de meras dificuldades financeiras, sob pena de desnaturar o objetivo almejado pelo Constituinte, isto é, dar amparo ao deficiente e ao idoso inseridos em contextos de manifesta privação de recursos, e banalizar a utilização do instituto, sobrecarregando, desse modo, o combalido orçamento da Seguridade Social.
+Dessa forma, no caso em apreço, não restaram satisfeitos todos os requisitos necessários à concessão do benefício de prestação continuada contemplado no art. 203, V, do Texto Constitucional, e art. 20, caput, da Lei 8.742/1993.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
