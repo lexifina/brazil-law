@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RAFAEL DE SOUZA SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime semiaberto, mais pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste habeas corpus, alega o impetrante não haver provas da habitualidade delitiva nem do envolvimento com grupo criminoso, tendo o redutor do tráfico privilegiado sido afastado com amparo em meras presunções do julgador a partir das circunstâncias do delito.
+Aduz ser o paciente primário, de bons antecedentes, bem como que é ínfima a quantidade de entorpecente apreendida.
+Requer, assim, a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006, a fixação do modo prisional aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Liminar indeferida (e-STJ, fls. 290).
+Informações prestadas (e-STJ, fls. 293-300).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 302-306).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao negar provimento ao apelo defensivo, manteve o redutor do art. 33, § 4º, da Lei de Drogas afastado com base nos seguintes fundamentos:
+"Da concessão do tráfico privilegiado.
+O pedido não deve ser acolhido.
+A causa de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/2006 deve ser reconhecida ao agente primário e portador de bons antecedentes que não se dedica à prática de atividades criminosas, nem integra organização criminosa, in verbis:
+"Art. 33 - (..) § 4º  Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+A norma acima transcrita consubstancia a hipótese do denominado "tráfico privilegiado" ou "eventual", cuja finalidade é abrandar a pena do traficante que preencher os requisitos legais estabelecidos pelo legislador.
+Para que o acusado possa fazer jus ao benefício da diminuição, deverão estar presentes quatro requisitos cumulativos: (a) agente primário; (b) bons antecedentes; (c) não dedicação a atividades criminosas; (d) não integração de organização criminosa. A ausência de apenas um desse requisitos determina o indeferimento da benesse.
+Na hipótese, em que pese tratar-se de réu primário e com bons antecedentes, não é possível dizer que não se dedica a atividades criminosas ou que não integra ou integrou organização criminosa.
+Com relação aos dois primeiros requisitos estampados no dispositivo legal ora examinado (primariedade e bons antecedentes), estes se submetem a uma avaliação estritamente objetiva, pois basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não esses requisitos.
+Por outro lado, no tocante aos últimos requisitos, a análise deve ser mais criteriosa e envolve uma apreciação subjetiva do julgador que, a partir dos elementos de convicção existentes nos autos, deverá concluir se o agente é "dedicado às atividades criminosas" e se "integra organização criminosa".
+Portanto, para avaliar se é cabível a aplicação dessa causa de diminuição da pena, é necessário analisar a vida pregressa do agente, isto é, se crime foi realizado de forma isolada, eventual, ou em um contexto de habitualidade. Em síntese, deve ficar demonstrado que o crime de tráfico de drogas representou "um ponto fora da curva" na vida do agente, um erro que contradiz o seu estilo de vida.
+Para avaliar tais aspectos é necessário analisar as circunstâncias em que o crime de tráfico de drogas se desenvolveu.
+O caso concreto obstaculiza a concessão.
+Colaciono aqui trecho da sentença que afastou a benesse que, pela excelência de suas fundamentações, adoto como razões de decidir:
+"Os elementos de provas produzidos no processo justificam a condenação e o afastamento do privilégio, diante da inexistência dos requisitos legais autorizadores, já que as circunstâncias que envolveram a conduta criminosa evidenciam claramente que o réu se dedicava às atividades criminosas.
+É que, muito embora o acusado tenha negado a prática do delito, o policial civil inquirido judicialmente afirmou que a prisão do acusado em flagrante decorreu do cumprimento de mandado de busca e apreensão, oriundo da Operação "Carrasco", dando conta de que o acusado e outros indivíduos estariam abastecendo "bocas de fumo" desta cidade.
+Destarte, na residência do acusado, além de entorpecentes foram apreendidos sacolas plásticas para embalar a droga, documentos de veículos e uma máquina de cartão, características daquele que está regularmente envolvido com o tráfico de drogas.
+Denota-se, assim, que o réu se dedicava a atividades criminosas, sendo incabível o reconhecimento do tráfico privilegiado em razão do reiterado tráfico de drogas realizado pelo acusado via entrega de drogas a pedido (disque-droga), consoante se comprovou através do cumprimento de mandado de busca e apreensão e das mensagens trocadas com a irmã do acusado."
+Conforme bem prolatado na sentença alhures citada, o apelante já estava sendo investigado pelo crime de tráfico de drogas, o que motivou a força policial o pedido de interceptação telefônica (Autos n.º 0000921-97.2020.8.12.0017), que fora concedido no dia 06 de maio de 2020, que culminou no mandando de busca e apreensão expedido no dia 02 de outubro de 2020 (Autos n.º 0001861-62.2020.8.12.0017).
+Todos esses aspectos evidenciam, acima de qualquer dúvida razoável, que o apelado integra ou integrou, ainda que momentaneamente, organização criminosa, o que implica óbice ao reconhecimento do tráfico privilegiado.
+Deste modo, os elementos de provas produzidos no processo justificam a condenação e o afastamento do privilégio, diante da inexistência dos requisitos legais autorizadores, já que as circunstâncias que envolveram a conduta evidenciam a dedicação a atividade criminosa, razão pela qual, por certo, não merecedor da benesse pretendida Assim, o apelante não faz jus ao beneficio previsto no art. 33, §4º, da Lei 11.343/06" (e-STJ, fls. 270-273)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na hipótese, o Tribunal a quo manteve afastada a redutora do tráfico privilegiado por entender que as provas colhidas nos autos, so bretudo as extraídas da investigação policial ocorrida na "Operação Carrasco" e do celular do acusado, denotam a sua habitualidade delitiva, visto que se apurou ser o responsável pelo abastecimento das "bocas de fumo" da região e da realização de entrega de entorpecentes na modalidade "disque-droga".
+Portanto, assentado pela instância ordinária, soberana na análise dos fatos, que o paciente faz do comércio ilícito de entorpecentes uma atividade habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. INTERROGATÓRIO. INÍCIO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PROCEDIMENTO ESPECIAL DA LEI N. 11.343/2006. ILEGALIDADE. AUSÊNCIA. PENA-BASE. REDUÇÃO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PROVIDÊNCIAS INÓCUAS. SÚMULA N. 231/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE ÀS ATIVIDADES CRIMINOSAS.
+AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+Habeas corpus denegado."
+(HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+Mantida a sanção em patamar superior a 4 anos e não excedente a 8 anos de reclusão, inviáveis a fixação do modo prisional aberto e a substituição da pena privativa de liberdade por restritivas de direitos, nos termos dos arts. 33, § 2º, "b", e 44, I do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
