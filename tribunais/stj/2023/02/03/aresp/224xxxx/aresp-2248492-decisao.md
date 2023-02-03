@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por FERNANDO HENRIQUE PANONTIN com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 31):
+AGRAVO DE INSTRUMENTO - Decisão que, em cumprimento de sentença, determina a conversão da obrigação em perdas e danos - Pretensão à sua reforma - Inadmissibilidade - Hipótese em que a execução de obrigação de fazer não se tem mostrado eficaz, protraindo a controvérsia entre as partes, pelo que a própria executada requereu a medida - Inteligência dos artigos 499 e 139, II do CPC - Decisão mantida - AGRAVO DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 389-58), a agravante alegou, além de dissídio jurisprudencial, a violação aos arts. 139, II, e 499 do Código de Processo Civil de 2015.
+Sustentou, em síntese, que as circunstâncias autorizadas em lei para a conversão em perdas e danos não estão presentes no caso concreto. Asseverou que houve cumprimento da obrigação (obrigação de emitir milhas aéreas) por 67 dias, tendo faltado apenas 5 dias para a integralidade da execução.
+Ressaltou que há entendimento no STJ no sentido de que "a conversão de uma obrigação em perdas e danos só poderá ser realizada caso haja impossibilidade de cumprir a obrigação" (e-STJ, fl. 46).
+Argumentou ser notório as diversas tentativas da recorrida de procrastinar o feito, com o descumprimento de ordens judiciais, em ofensa aos princípios da boa-fé e lealdade processual.
+Apontou, ao final, dissídio jurisprudencial no tocante à conversão em perdas e danos nos caso de obrigação de fazer fungíveis.
+Foram apresentadas contrarrazões (e-STJ, fls. 95-99).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+Ao analisar a situação jurídica dos autos, no que tange à questionada conversão da obrigação em perdas e danos, o Tribunal de origem declinou a seguinte fundamentação (e-STJ, fls. 32-33):
+De fato, como se observa às fls. 160/161 e 171/173 (autos do cumprimento de sentença, n. 0023684-84.2019.8.26.0002), notadamente à fl. 173 (primeiro parágrafo, dos mesmos autos), o agravante negou interesse na conversão da obrigação em perdas e danos embora tenha se manifestado à fl. 155 (último parágrafo, dos mesmos autos).
+Entretanto, o pedido da conversão foi formulado pela agravada (à fl. 170, último parágrafo, do cumprimento de sentença), e tal pedido foi acertadamente deferido.
+Isso porque, a sistemática adotada para o cumprimento de sentença não se tem mostrado eficaz, considerando, notadamente, a controvérsia entre as partes.
+E, pela agravada são apresentados argumentos no sentido de que o agravante não tem atendido aos prazos de resgate, bem como aos limites, de maneira que, diante da suspensão do vencimento das milhas durante a marcha processual, seria possível protrair-se ad aeternum o cumprimento de sentença (fl. 170, especialmente no segundo parágrafo, autos do cumprimento de sentença).
+O incidente já tramita há quase três anos e a obrigação de fazer imposta não diz respeito à entrega de coisa infungível, ou prestação que só possa ser efetivada pela agravada, razão pela qual considerando que a conversão em perdas e danos encontra respaldo no art. 499, do NCPC, mostrando-se suficiente para o adimplemento da obrigação judicialmente estipulada, impõe-se observar o interesse público concernente a razoável duração do processo (art. 139, II, NCPC).
+Não comporta, pois, reforma a r. decisão agravada.
+Ante o exposto ,NEGO PROVIMENTO ao agravo.
+Nesse contexto, atentando-se aos argumentos trazidos pelo insurgente e aos fundamentos (acima destacados) adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A ausência de enfrentamento, pelo Tribunal de origem, da tese de que o dano moral seria in re ipsa impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Os óbices das Súmulas 282/STF e 283/STF aplicam-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, restando prejudicada a análise do dissídio jurisprudencial alegado.
+5. Agravo interno desprovido. (AgInt no REsp n. 1.970.022/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - sem grifo no original)
+Ademais, a questão foi resolvida com base nos elementos fáticos que permearam a demanda, de modo que rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Por fim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação dos referidos óbices sumulares, porquanto não é possível encontrar similitude fática entre os acórdãos confrontados, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONVERSÃO EM PERDAS E DANOS. EXECUÇÃO INEFICAZ. REVISÃO DAS CONCLUSÕES ALCANÇADAS. IMPOSSIBILIDADE. MATÉRIA FÁTI CO-PROBATÓRIA. SÚMULA 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
