@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROMULO SANTOS DE OLIVEIRA contra decisão proferida pelo Tribunal de Justiça do Estado da Bahia que negou seguimento ao recurso especial aviado pela defesa.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 419/420, in verbis:
+O agravante foi condenado pelo crime de roubo majorado, à pena de 07 (sete) anos e 02 (dois) meses de reclusão, em regime semiaberto, cumulada ao pagamento da pena pecuniária de 80 dias-multa.
+Em grau de apelação criminal, o Tribunal a quo deu parcial provimento ao recurso defensivo para redimensionar a reprimenda para 05 (cinco) anos e 04 (quatro) meses de reclusão, mantendo os demais termos da sentença condenatória.
+O recurso especial lastreia-se no art. 105, III, "a", da Constituição Federal, sustentando violação ao artigo 386, VII, do CPP e 157, §2º, II, do CP, asseverando a ausência de provas para a condenação e, subsidiariamente, o reconhecimento da tentativa.
+A decisão de admissibilidade negou seguimento ao recurso pelo óbice da Súmula 7 do STJ.
+O agravo sustenta a desnecessidade de reexame de provas, visto que o recurso defende a ausência de provas concretas para a condenação e, subsidiariamente, o reconhecimento da tentativa.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ fls. 419/420).
+É, em síntese, o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+Pleiteia o agravante sua absolvição do crime de roubo majorado, ao argumento de que " ..  são muitos os dados constantes nos autos capazes de levar a um entendimento contrário ao exposto no acórdão, por demonstrarem a inocência dos acusados  .. " (e-STJ fl. 299).
+De início, ressalto que, no caso, o Tribunal de origem, a quem cabe o exame das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório pela prática do crime de roubo majorado, tipificado no art. 157, §2º, II, do Código Penal.
+No ponto, a Corte originária manifestou-se nos seguintes termos (e-STJ fls. 276/284 ):
+A autoria e a materialidade estão comprovadas pelo auto de prisão em flagrante (fl. 04), pelo auto de exibição e apreensão (fl. 06), pelas declarações prestadas pela vítima José Carlos Santos Júnior e pelo apelante durante o Inquérito Policial e, por fim, pelos depoimentos prestados em Juízo pelas testemunhas arroladas pela Acusação (mídia à fl. 09).
+Muito embora na tese defensiva apresentada neste Recurso o recorrente tenha se retratado das declarações prestadas em sede policial, afirmando que a sentença não teria sido lastreada em provas suficientes para uma condenação e que este apelante não seria o verdadeiro autor do roubo sob julgamento, mas sim um terceiro de vulgo "Caveira", qual seja, um suposto conhecido seu com o qual apenas desceu do ônibus, entende-se que estes argumentos são inverossímeis, especialmente quando confrontados com o conteúdo probatório dos autos.
+ ..
+Ocorre que a retratação do apelante, em que este alega não esta praticando o roubo na companhia de "Caveira", mas apenas levando o simulacro de arma para um "lugar", conforme havia lhe sido ordenado por uma pessoa, é argumento que carece de verosimilhança, por não encontrar parâmetro nas demais provas constantes dos autos, a saber, depoimentos de testemunhas e declarações da vítima, os quais o apontam como um dos autores do crime em comento.
+ ..
+Então, pelo raciocínio lógico aqui desenvolvido e considerando-se a firmeza do relato prestado pela vítima José Carlos Santos Júnior, bem como a harmonia deste relato com o depoimento das testemunhas policiais ao apontar o apelante Rômulo Santos de Oliveira como um dos autores do delito imputado, entende-se que a tese de ausência de provas quanto à autoria não tem consistência perante os elementos trazidos aos autos, que são suficientes e seguros para ensejar o decreto condenatório da exata maneira ocorrida na sentença guerreada, razão pela qual o pleito absolutório não merece prosperar.
+ ..
+Também não prospera o pleito subsidiário de desclassificação do delito de roubo consumado para a sua forma tentada, sob o argumento da ausência da posse tranquila da coisa. Sabe-se que, independentemente de a posse da res furtiva não ter sido tranquila, considera-se consumado o delito de roubo com a mera inversão da posse.
+Assim, com fulcro no entendimento dos Tribunais Superiores, reputa- se improcedente este pleito desclassificatório. (Grifei.)
+No caso dos autos, as instâncias ordinárias consideraram que o acervo probatório é firme o suficiente para subsidiar a condenação do agravante. Para tanto, fundamentam-se no depoimento do acusado em delegacia, bem como nos depoimentos da vítima e das testemunhas de acusação prestados em juízo, sob o crivo do contraditório e da ampla defesa.
+Destaco, por oportuno, que o Superior Tribunal de Justiça entende que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC n. 672.359/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/6/2021, DJe 28/6/2021).
+De mais a mais, rever essa conclusão reclamaria ampla incursão no acervo fático-probatório, inviável diante do óbice da súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. INCIDÊNCIA DE AGRAVANTE NÃO DESCRITA NA DENÚNCIA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para entender-se pela absolvição do recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+2. As instâncias antecedentes entenderam devidamente comprovadas a autoria e a materialidade do roubo majorado pelo qual o réu foi condenado, notadamente pela prova oral produzida durante a instrução do feito, em especial o depoimento da vítima e dos policiais, corroboradas pelo conteúdo das interceptações telefônicas contidas nos autos.
+3. A jurisprudência desta Corte Superior entende que não ofende o princípio da correlação a condenação por circunstâncias agravantes ou atenuantes não descritas na denúncia, nos termos dos arts. 385 e 387, I e II, ambos do Código de Processo Penal. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.009.660/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a Corte de origem, após a análise acurada dos elementos probatórios, entendeu comprovada a autoria dos agentes e a materialidade do delito.
+2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.
+3. No que diz respeito ao crime continuado, vale salientar que, no caso dos crimes de roubo majorado e latrocínio, sequer é necessário avaliar o requisito subjetivo ou o lapso temporal entre os crimes, porquanto não há atendimento do requisito objetivo da pluralidade de crimes da mesma espécie.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+Ademais, igualmente inviável o pleito acerca do reconhecimento da modalidade tentada, uma vez que o acórdão recorrido, ao defender consumado o delito de roubo mediante a mera inversão da posse, dispensando, assim, a posse tranquila da coisa, encontra-se em harmonia com a jurisprudência desta Corte Superior.
+Com efeito, a Terceira Seção desta Corte, julgando recurso especial representativo da controvérsia, na forma do art. 543-C do Código de Processo Civil revogado (regime dos recursos repetitivos), com disciplina atual no art. 1.036 e seguintes do CPC em vigor, em decisão unânime, pacificou a matéria, assim resumida: "Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada. " ( REsp n. 1.524.450/RJ, relator Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 29/10/2015; grifei)
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO E ROUBO QUALIFICADOS. RECONHECIMENTO DA FORMA TENTADA (ROUBO). INVIABILIDADE. CIRCUNSTÂNCIAS DO CRIME. USO DE ARMA BRANCA. VETORIAL NEGATIVADA. IDONEIDADE.
+1. "No âmbito desta Corte e do Supremo Tribunal Federal, prevalece o entendimento de que os crimes de roubo e furto se consumam no instante em que o agente se torna possuidor da coisa alheia móvel, ainda que por pouco tempo, sendo prescindível a posse mansa, pacífica, tranquila e desvigiada do bem" (AgRg no HC 642.916/RJ, Rel. Min. Felix Fischer, Quinta Turma, julgado em 25/05/2021, DJe de 31/05/2021).
+2. "O uso de faca no delito de roubo pode ser empregado para exasperar a pena-base se não houver sido levado em consideração na terceira fase da dosimetria e não se caracteriza, como quer a defesa, elementar do tipo penal" (AgRg no REsp n. 1.787.473/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25/8/2020, DJe de 1/9/2020).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 689.613/SP, relator Ministro Olindo Menezes (Desembargador Convocad o do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
