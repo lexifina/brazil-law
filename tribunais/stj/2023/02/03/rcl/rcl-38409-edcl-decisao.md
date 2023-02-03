@@ -1,0 +1,11 @@
+DECISÃO
+Nos termos da decisão de fls. 476-478 (e-STJ), esta relatoria entendeu não ser possível conhecer da presente reclamação ante a constatação de não ser essa a via processual adequada para se impugnar acórdão proferido por Turma Recursal de Juizado Especial Federal.
+Conforme esclarecido ao reclamante, ao invés de vir ao STJ com a reclamação, deveria ele ter formulado um pedido de uniformização de interpretação de lei federal, endereçando-o à Turma Nacional de Uniformização dos Juizados Especiais Federais, tal como expressamente disciplinado pelo art. 14, § 2º, da Lei n. 10.259/2001.
+À referida decisão o reclamante opôs embargos de declaração sob a alegação de que esta relatoria, ao não conhecer da reclamação, deveria tê-la encaminhado à Turma Nacional de Uniformização, que seria a competente para julgá-la. Ao deixar de fazê-lo, teria incorrido em omissão.
+Brevemente relatado, decido.
+A oposição dos presentes embargos, como é fácil perceber, deve-se à má compreensão do reclamante a respeito da fundamentação da decisão embargada.
+Conforme relatado, o que se afirmou na decisão de fls. 476-478 (e-STJ) foi que o reclamante se equivocou ao fazer uso de uma reclamação ajuizada originariamente no STJ para questionar um acórdão de Turma Recursal de Juizado Especial Federal, quando o correto teria sido a apresentação de pedido de uniformização de interpretação de lei federal, para cujo julgamento é competente a Turma Nacional de Uniformização dos Juizados Especiais Federais.
+O uso da reclamação para o STJ quando cabível era o pedido de uniformização endereçado à TNU configura erro grosseiro, tendo em vista que não há dúvida objetiva quanto ao recurso a ser interposto na situação detalhada pelo reclamante (veja-se, a propósito, o AgInt na Rcl n. 42.239/PR, relator o Ministro Luis Felipe Salomão, DJe 7/12/2021).
+E por se tratar de erro grosseiro, a esta relatoria não era dado, em abono ao equívoco cometido pelo reclamante, determinar, de ofício, a convolação do reclamo em pedido de uniformização - e o seu consequente encaminhamento à TNU - , e tampouco era caso de remeter a própria reclamação àquela Turma Nacional, por se tratar de feito estranho às competências daquele órgão jurisdicional.
+À míngua de omissão, mas com esses breves esclarecimentos, rejeito os embargos de declaração.
+Publique-se.
