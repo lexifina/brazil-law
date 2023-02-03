@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARILDA BEATRIZ SILVEIRA DE MEDEIROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO CONSIGNADO CELEBRADO EM 2008. TAXA MÉDIA DO BACEN AINDA NÃO DIVULGADA À ÉPOCA PARA A OPERAÇÃO BANCÁRIA EM QUESTÃO. ÔNUS DA PARTE AUTORA DE DEMONSTRAR A ALEGADA ABUSIVIDADE DOS JUROS CONTRATADOS, DO QUAL NÃO SE DESINCUMBIU. IMPROCEDÊNCIA DA DEMANDA.
+APELAÇÃO PROVIDA (fl. 241).
+Quanto à controvérsia, sustenta divergência jurisprudencial atinente à interpretação do art. 51, IV, § 1º, III, do CDC, no que tange à taxa abusiva de juros remuneratórios aplicada à espécie, e traz os seguintes argumentos:
+O Tribunal de Origem, no acórdão recorrido, decidiu sobre a aplicação ou não da taxa média de juros de forma absolutamente contrária ao Superior Tribunal de Justiça.
+O antagonismo das decisões é perceptível através de uma comparação simples.
+ ..
+Da própria fundamentação do acórdão recorrido já é possível depreender que a taxa do contrato supera a média de mercado. A orientação do Superior Tribunal de Justiça é de que, em havendo abusividade dos juros remuneratórios, a adequação desta taxa à média de mercado é medida impositiva. Prevalece a mais favorável ao consumidor.
+O caso dos autos é de abusividade da taxa de juros, mas o venerando acórdão recorrido negou a aplicação da taxa média de juros ao contrato em tela. Andou, assim, na direção oposta ao entendimento sedimentado pelo STJ no acórdão paradigma, sendo clarividente a dissidência entre as decisões.
+O contrato debatido possui taxa de juros remuneratórios superior à taxa média de mercado. Portanto, diante do consolidado entendimento do Superior Tribunal de Justiça acerca do tema em sede de recursos repetitivos (Recurso Especial 1.112.879/PR - temas 27 e 234 do STJ), a decisão da Corte Estadual contraria entendimento da Corte Superior.
+Considerando que o acórdão da apelação diverge do entendimento do Superior Tribunal de Justiça decido em sede de recurso, inclusive, a parte recorrente postula o encaminhamento do presente feito ao Órgão Julgador para realização do juízo de retratação no ponto, forte na previsão do art. 1.030, inciso II, do NCPC.
+ ..
+Como se vê, a taxa de juros remuneratórios do contrato ultrapassa a taxa média de mercado informada pelo BACEN na data da assinatura da avença. Ainda assim, máxima vênia, o venerando aresto recorrido determinou a manutenção da taxa contratada, ainda que evidente a irregularidade contratual no ponto.
+Comparados os acórdãos é possível observar que o entendimento adotado pelo TJ/RS ao julgar o caso em tela colide com o posicionamento sedimentado pelo STJ ao julgar a mesma matéria em sede de recurso repetitivo.
+Enquanto o venerando acórdão recorrido negou a aplicação da taxa média de mercado ao contrato debatido - cuja taxa, repise-se, supera aquela informada pelo BACEN -, a Corte Superior decidiu pelo cabimento da readequação da taxa de juros em situação análoga (fls. 250/254).
+É, no essencial, o relatório. Decido.
+Na espécie, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aqueles apontados como paradigmas, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
