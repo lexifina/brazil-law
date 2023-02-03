@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  agravo  manejado  por  MARCELO  ROMANO  DEHNHARDT  contra  decisão  que  não  admitiu  recurso  especial,  este  interposto  com  fundamento  no  art.  105,  III,  a,  da  CF,  desafiando  acórdão  proferido  pelo  Tribunal  Regional  da  4ª  Região,  assim  ementado  (fl.  55):
+AGRAVO  DE  INSTRUMENTO.  EMBARGOS  À  EXECUÇÃO  FISCAL.  EFEITO  SUSPENSIVO.  REQUISITOS.
+1.  Os  embargos  do  devedor  podem  ter  efeito  suspensivo  quando  a  execução  estiver  integralmente  garantida  e  o  juiz  verificar  a  presença  de  fundamentos  que  autorize  a  concessão  da  tutela  provisória,  nos  termos  do  art.  919,§1º,  do  CPC,  aplicado  às  execuções  fiscais,  conforme  decidiu  o  STJ  no  RESP1.272.727/PE,  representativo  de  controvérsia.
+2.  No  caso,  ausente  a  garantia  integral  do  juízo,  somada  à  ausência  de  probabilidade  do  direito  alegado,  inviável  a  atribuição  de  efeito  suspensivo  aos  embargos.
+Opostos  embargos  declaratórios,  foram  rejeitados  (fls.  106/108).
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  aos  arts.  64  ,  278,  300  e  919  do  CPC.  Sustenta,  em  resumo: (I) a nulidade absoluta de todo o processo desde a cautelar de incidente de desconsideração da personalidade jurídica; (II) possibilidade de atribuição de efeito suspensivo aos embargos à execução fiscal porquanto pendente de avaliação bens já penhorados de forma a afastar o fundamento da ausência de garantia integral.
+Contrarrazões  apresentadas  às  fls.155/172.
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+Quanto à apontada violação dos art. 64 e 278 do CPC, verifica-se que o Tribunal de origem não se manifestou sobre a tese apresentada nas razões recursais, sobre a nulidade absoluta do feito desde a cautelar de incidente de desconsideração da personalidade jurídica em razão da incompetência do juízo, e sequer constou dos embargos declaratórios opostos para suprir eventual omissão. Assim, patente a falta do necessário prequestionamento no particular, a atrair o óbice da Súmula 356/STF.Sobre  a  alegada  negativa  de  efeito  suspensivo  aos  embargos  a  execução,  o  Tribunal  a  quo  assim se  manifestou (fl. 68)  :
+O magistrado singular concluiu que a atribuição de efeito suspensivo aos embargos é impedida não somente pela ausência de probabilidade do direito veiculado na inicial, mas também pela ausência de garantia integral.
+De fato, considerando os valores cobrados na execução fiscal (R$ 5.561.164,81 em 08/2016), a garantia do juízo, ao que tudo indica, não é integral, na medida em que a agravante sequer insurgiu-se quanto ao ponto.
+Nesse contexto, ante a ausência de garantia integral do juízo, somada à ausência de probabilidade do direito alegado, não vejo motivos para que seja reformada a r. decisão agravada que deixou de atribuir efeito suspensivo aos embargos à execução.
+  Nesse  contexto,  a  desconstituição  das  premissas  lançadas  pela  instância  ordinária,  na  forma  pretendida,  demandaria  o  reexame  de  matéria  de  fato,  procedimento  que,  em  sede  especial,  encontra  óbice  na  Súmula  7/STJ,  bem  anotada  pelo  decisório  agravado.
+ANTE  O  EXPOSTO,  nego  provimento  ao  agravo.
+Publique-se.
