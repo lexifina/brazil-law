@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 16):
+AGRAVO EM EXECUÇÃO - Recurso ministerial - Conduta indisciplinar consistente em desobediência e incitação ou participação em movimento para subverter a ordem e a disciplina - Juízo de Primeiro Grau que reclassificou o comportamento como infração de natureza média - Decisão que deve ser reformada - Falta grave configurada (artigo 50, I e VI, c. c. o artigo 39, II e V, da Lei de Execução Penal) - Imposição das sanções correspondentes à falta da modalidade grave, com anotação no respectivo prontuário - Pedido de interrupção do lapso para a obtenção de benefícios executórios. Limitação à progressão de regime. Não há como se reconhecer a interrupção do lapso para o indulto e comutação, pois os seus requisitos se sujeitam à discricionariedade do Presidente da República; e, os demais benefícios, por falta de previsão legal. Entendimento do STJ - RECURSO PARCIALMENTE PROVIDO.
+Consta dos autos que foi instaurado procedimento disciplinar em desfavor do paciente, em razão da prática de falta disciplinar de natureza grave cometida durante o cumprimento de pena em regime fechado.
+A natureza da falta disciplinar foi alterada para falta média pelo Juiz de 1º Grau.
+Interposto agravo em execução pelo Ministério Público estadual, o Tribunal de origem reclassificou a falta disciplinar como de natureza grave, determinando a perda de 1/3 dos dias remidos, bem como a regressão de regime e a interrupção do lapso temporal para a progressão de regime.
+Sustenta a defesa que, entre a decisão do Juízo das Execuções e o acórdão da Corte de origem, o paciente foi progredido ao regime semiaberto, sendo regredido posteriormente em razão do acórdão recorrido.
+Argumenta que "o paciente não cometeu a infração após sua progressão. Pelo contrário, mesmo lhe sendo imputada falta grave, quando recebido o acórdão em primeiro grau, os requisitos do artigo 112 da Lei de Execução Penal estavam presentes e o mais adequado ao caso seria a manutenção da progressão, apenas com alteração da data-base" (fl. 7).
+Aduz, ainda, que "Embora conste em seu histórico infrações disciplinares, já estão reabilitadas e não podem mais impedir a concessão de benefícios" (fl. 9).
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de que o paciente retorne ao regime semiaberto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento ou denegação da ordem.
+Da análise dos autos, verifica-se que a tese defensiva de que o paciente cometeu falta grave antes da sua progressão, devendo retornar ao regime semiaberto, não foi objeto de análise pelo Tribunal de origem, o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
