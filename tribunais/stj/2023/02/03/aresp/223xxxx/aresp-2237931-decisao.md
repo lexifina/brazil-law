@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SAUDE S/A contra decisão que não admitiu o recurso especial, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 1.215):
+EMENTA - RESPONSABILIDADE CIVIL - INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Parcial procedência - Demanda ajuizada pela mãe de paciente, internada para tratamento de quadro depressivo junto ao hospital que integra o polo passivo (e lá cometido suicídio) - Demanda também ajuizada em face do plano de saúde contratado pela falecida e administradora do plano - Parcial procedência decretada - Inconformismo - Não acolhimento - Prescrição ânua - Afastamento - Demanda ajuizada quando não transcorrido o lapso temporal quinquenal previsto no art. 27 do CDC (aqui aplicável) - Responsabilidade objetiva dos integrantes do polo passivo, enquanto prestadores/fornecedores de serviço (art. 7, CDC) Preliminar afastada - Paciente internada com grave quadro depressivo (com risco de suicídio) - Conjunto probatório indicativo de que houve falha dos funcionários do hospital quanto ao dever de guarda da paciente que, embora internada em quarto de vigilância (conhecido como "aquário"), permaneceu sem acompanhamento por cerca de dez minutos (tempo suficiente para cometimento do suicídio) - Nexo causal estabelecido -- Dano moral que decorre do sofrimento vivenciado pela mãe, em virtude do suicídio da filha - Arbitramento no valor de 100.000,00 que comporta majoração para R$ 150.000,00 (cuidando-se de condenação solidária) Cabível, ainda, o reembolso de despesas com o funeral da vítima, diante da modicidade do valor - Precedentes Sentença mantida Recursos das rés improvidos, provido o da autora.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.278-1.280).
+Nas razões do recurso especial, BRADESCO SAUDE S/A, alegou, além de divergência jurisprudencial, violação aos arts. 757, 884 e 944, do CC/2002.
+Sustentou que não possui responsabilidade pelos atos narrados na inicial, tendo em vista que não responde por atos médicos e nem mesmo pelos supostos atos praticados pela sua rede prestadora, uma vez que a seguradora se obriga a garantir apenas os riscos pactuados.
+Defendeu a redução do quantum fixado em R$ 150.000,00 (cento e cinquenta mil reais) a título de dano moral.
+Contrarrazões apresentadas às fls. 1.284-1.294 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial por inexistência de ofensa aos arts. 757, 884 e 944, do CC/2002, bem como a incidência da Súmula n. 7/STJ; e, quanto à alínea c do permissivo constitucional, apontou-se à ausência de cotejo analítico e o descumprimento das formalidades exigidas para demonstração do dissídio jurisprudencial.
+Agravo em recurso especial apresentado às fls. 1.375-1.391(e-STJ).
+Brevemente relatado, decido.
+O Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+Ilustrativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE BEM DE FAMÍLIA. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+(AgInt no AREsp n. 2.035.238/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/6/2022, DJe de 28/6/2022.)
+2. Agravo interno a que se nega provimento.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados não deve, de fato, ser conhecido.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.873.836/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Do exame dos autos, verifica-se que, nas razões do agravo em recurso especial, a recorrente limitou-se a impugnar parte dos fundamentos da decisão de inadmissibilidade, sem tecer considerações sobre a falta de demonstração do dissídio jurisprudencial, nos moldes dos arts. 1.029, § 1º, do CPC/2015; e 255, §§ 1º e 2º, do RISTJ.
+Incontestável, portanto, que não houve impugnação específica de todos os fundamentos da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
