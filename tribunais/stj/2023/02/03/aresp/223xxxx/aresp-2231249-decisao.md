@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ MIGUEL DA SILVA SOBRINHO e outros contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça da Paraíba, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA SENTENÇA QUE JULGOU EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESCABIMENTO. INTERCEPTAÇÃO. AGRAVO INTERNO. DESPROVIMENTO.
+1. Trata-se de agravo interno interposto contra a decisão que inadmitiu o agravo de instrumento manejado por ARTE - PIZZARIA E RESTAURANTE LTDA E OUTROS contra a sentença que julgou procedente em parte embargos à execução de título extrajudicial opostos por ARTE - Pizzaria e Restaurante LTDA, Lucicleide Pereira de Sousa da Silva, José Miguel da Silva Sobrinho em face da Caixa Econômica Federal.
+2. A agravante interna alega, em síntese, que deve prevalecer o aproveitamento dos atos processuais e o princípio da instrumentalidade das formas, razão pela qual pede que o agravo de instrumento seja recebido como recurso de apelação.
+3. Suas razões, entretanto, não colhem. Conquanto no direito processual civil exista o princípio da instrumentalidade das formas, tal não tem o condão de ensejar a aplicação do princípio da fungibilidade recursal em casos onde houve o cometimento de erro grosseiro no manejo de recurso descabido. As regras, em verdade, não são incompossíveis.
+4. A instrumentalidade é o norte a ser seguido de modo a se admitir a finalidade dos atos em detrimento de sua forma. Nada obstante, no que tange ao manejo dos recursos, prevalece a boa e velha lição de que a fungibilidade recursal exige a revisitação dos princípios da taxatividade, singularidade e correspondência. Com efeito, os recursos devem estar previstos em lei, são manejáveis um por vez, salvo exceções, e devem corresponder à espécie de pronunciamento judicial respectiva.
+5. A única relativização da correspondência entre o recurso cabível e a decisão recorrida é a que decorre da existência de dúvida objetiva na doutrina, quiçá na jurisprudência. Mas tal não é o caso presente, pois o pronunciamento vergastado é uma sentença prolatada em sede de embargos à execução de título executivo extrajudicial, é dizer, atacável por apelação. Realmente, tratando-se de ação de conhecimento, os embargos à execução de título extrajudicial configuram processo autônomo, e serão decididos por meio de sentença, ainda o equívoco no manejo do recurso de agravo que não extinga inteiramente a execução. Daí que de instrumento é, no caso, inescusável, não havendo falar, pois, em princípio da fungibilidade recursal.
+6. Agravo interno desprovido.
+Irresignado, JOSÉ MIGUEL DA SILVA SOBRINHO e outros interpuseram recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 188 e 227 do CPC. Invocam o princípio da instrumentalidade das formas para que o agravo de instrumento seja processado na origem como um recurso de apelação, sob o argumento de que os diplomas legais não fazem menção a qualquer tipo de condição para aplicação do referido princípio, uma vez que trazem apenas a necessidade de ser preenchida a finalidade essencial do ato.
+O recurso não foi admitido pelo Tribunal de Justiça da Paraíba, por incidir, no caso, o teor da Súmula n.º 211 do STJ (e-STJ, fl. 145).
+Nas razões do presente agravo, JOSÉ MIGUEL DA SILVA SOBRINHO e outros refutam o referido óbice de prelibação (e-STJ, fls. 155/164).
+Foi apresentada contraminuta (e-STJ, fls. 170/173).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial,.
+Da instrumentalidade das formas
+Nas razões do presente recurso, JOSÉ MIGUEL DA SILVA SOBRINHO e outros afirmaram ter havido violação dos arts. 188 e 227 do CPC. Invocaram o princípio da instrumentalidade das formas para que o agravo de instrumento seja processado na origem como um recurso de apelação, sob o argumento de que os diplomas legais não fazem menção a qualquer tipo de condição para aplicação do referido princípio, uma vez que trazem apenas a necessidade de ser preenchida a finalidade essencial do ato.
+Todavia, encontra-se consignado no acórdão recorrido o seguinte:
+Sucede que, no caso, tratando-se de ação de conhecimento, os embargos à execução de título extrajudicial configuram processo autônomo, e serão decididos por meio de sentença, ainda que não extinga inteiramente a execução (e-STJ Fl.96).
+Não se vislumbra nos autos impugnação a tal fundamentos, o que fez por atrair o teor da Súmula n.º 283 do STF, por analogia, tendo em vista que incólumes as conclusões do acórdão recorrido quanto ao fato de os embargos à execução de título extrajudicial configurarem-se processo autônomo e, portanto, sempre decididos por sentença, ainda que não extinta inteiramente a execução.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. INDEFERIMENTO DA INICIAL. ALEGAÇÃO DE EQUÍVOCO NA EXTINÇÃO DO FEITO. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL. FUNDAMENTO INATACADO. SÚMULAS NºS 283 DO STF E 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. CORRETA APLICAÇÃO. PREVISÃO CONTIDA NO ART. 85, § 11, DO NCPC. ENTENDIMENTO FIRMADO EM JULGAMENTO DA EG. SEGUNDA SEÇÃO DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.(..)
+3. A subsistência de fundamento inatacado, apto a manter as conclusões do acórdão impugnado, impõe o reconhecimento da incidência da Súmula nº 283 STF, por analogia.
+(..)
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.818.635/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma , julgado em 25/4/2022, DJe 28/4/2022)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela E menda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO NOS. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. RECURSO INCABÍVEL. PROCESSO AUTÔNOMO. DECISÃO POR SENTENÇA QUE DESAFIA APELAÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. NÃO IMPUGNAÇÃO. SÚMULA N.º 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
