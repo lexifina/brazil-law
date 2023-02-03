@@ -1,0 +1,13 @@
+DECISÃO
+Ao exame mais detido destes autos, colhe-se que o presente pedido de tutela provisória foi apresentado por Caixa Seguradora S/A, por vinculação ao AREsp n. 1.803.898/RN, com o objetivo de que fosse ordenada a suspensão da eficácia do acórdão proferido pelo Tribunal de Justiça do Rio Grande do Norte no julgamento da Ação Rescisória n. 0800078-36.2017.8.20.0000.
+Nos termos da decisão de fls. 1.943-1.948 (e-STJ), esta relatoria deferiu a tutela de urgência.
+Em julgamento de agravo interno, referida decisão foi ratificada pela Terceira Turma, ao que se seguiu a oposição de embargos de declaração pelos requeridos.
+Estando pendente a apreciação dos mencionados embargos, esta relatoria, após examinar as alegações feitas pela Caixa Seguradora S/A nos autos do AREsp n. 1.803.898/RN, decidiu, monocraticamente, não ser possível conhecer do referido agravo em razão de não ter havido a impugnação de todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Inconformada, a seguradora ingressou com agravo interno, mas a tal recurso a Terceira Turma negou provimento, tendo, na sequência, rejeitado os embargos de declaração opostos pela agravante.
+Ainda irresignada, Caixa Seguradora S/A interpôs recurso extraordinário, que teve o seguimento negado por decisão monocrática proferida pelo Ministro Vice-Presidente deste Tribunal.
+Por fim, a Corte Especial, em sessão virtual finalizada em 22/11/2022, nem ao menos conheceu do agravo em recurso extraordinário manejado pela seguradora. Após a publicação desse último acórdão e da certificação do trânsito em julgado, os autos do AREsp n. 1.803.898/RN foram devolvidos ao tribunal de origem em 7/12/2022.
+Encerrada, portanto, nesta Corte Superior, a tramitação do processo principal - AREsp n. 1.803.898/RN -, e não tendo a seguradora recorrente obtido êxito em seu esforço recursal, é fora de dúvida que a presente tutela provisória, dada a relação de acessoriedade com o referido agravo, teve integralmente esvaziado o seu objeto.
+Ante o exposto, julgo prejudicado este pedido de tutela provisória de urgência, tornando sem efeito, em consequência, a decisão de fls. 1.943-1.948 (e-STJ), com o que ficam também prejudicados os embargos de declaração de fls. 2.185-2.188 (e-STJ).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar o arquivamento.
+Comunique-se o teor desta decisão ao Juízo de Direito da 15ª Vara Cível de Natal/RN, dada a conexão com o Processo n. 0804917-51.2014.8.20.6001, que ali tramita.
+Publique-se.
