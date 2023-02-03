@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por ASSOCIAÇÃO SALGADO DE OLIVEIRA DE EDUCAÇÃO E CULTURA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇAO CÍVEL. AÇAO INDENIZATORIA DE DANOS MORAIS E MATERIAIS. DANO MORAL. MAJORAÇÃO PARA VALOR RAZOÁVEL E PROPORCIONAL. DANO MATERIAL. POSSIBILIDADE DE FINANCIAMENTO DO FIES. PERDA DE UMA CHANCE. NÃO CARACTERIZADA. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 927 e 944 do CC, no que concerne à necessidade de redução do valor fixado a título de danos morais, pois não foram observados os "princípios da razoabilidade e proporcionalidade e muito menos na preocupação de promover a justa medida da causa" (fl. 341), trazendo o(s) seguinte(s) argumento(s):
+Restou demonstrado que o valor arbitrado não está obedecendo as regras para fixação do valor, restando revelada a ofensa ao acima citado art. 944 do CC.
+ ..
+Com as devidas vênias, mostra-se flagrante a falta de razoabilidade e proporcionalidade na fixação da verba indenizatória, atingindo diretamente a essência e finalidade do instituto do dano moral.
+Como é de conhecimento, a verba indenizatória resultante do reconhecimento da lesão extrapatrimonial, tem por finalidade compensar os danos advindos de uma conduta ilícita, já que impossível retornar-se ao estado que anteriormente vigia à prática do ato considerado como ofensivo. Importante destacar que tal compensação deve obedecer as estritos limites do caso posto sob análise, a fim de se evitar o enriquecimento sem causa por parte do ofendido.
+ ..
+Valemo-nos dos escólios apontados, bem como do disposto no artigo 944 do CC para concluirmos que a indenização deve ser fixada dentro dos princípios da razoabilidade e proporcionalidade, considerando-se a intensidade do sofrimento, a repercussão da ofensa e a posição social do ofendido, bem como grau de culpa do ofensor e sua situação econômica. Não deve, contudo, ser fator de enriquecimento da vítima, além do que constitua a compensação obtida.
+ ..
+No caso, pode-se claramente verificar que o Acórdão recorrido não se balizou nos princípios da razoabilidade e proporcionalidade e muito menos na preocupação de promover a justa medida da causa.
+O arbitramento do valor indenizatório por dano moral há de ajustar-se aos limites do razoável, já que não atua como meio de enriquecimento, mas, em última análise, como satisfação pessoal da parte ofendida, pelo sofrimento ocasionado pela conduta violadora do seu direito.
+ ..
+Nesse passo, pode-se claramente verificar que o valor de R$ 15.000,00 (quinze mil reais), foi fixado de forma demasiada, cabendo a sua redução, em observância aos princípios da razoabilidade e proporcionalidade, para patamar módico, com o fim de se evitar o enriquecimento sem causa do recorrido.
+Diante de todo o exposto verificamos que no momento em que o v. acórdão proferido pelo Tribunal "a quo" manteve a fixação da verba indenizatória em valor exorbitante acabou violando os artigos 927 e 944 do código civil.
+Portanto, inexiste no caso em questão, situação capaz de justificar a majoração da verba indenizatória, motivo pelo qual se deve, em derradeira análise, ser a mesma fixada minimamente (fls. 335/341).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, se é certo que o ato ilícito gerou o dano, tem-se que o quantum indenizatório a ser pago pela apelada, inicialmente fixado em R$ 5.000,00 (cinco mil reais), deve ser majorado.
+Nesse ínterim, levando em consideração os fundamentos acima expostos, em especial a proporcionalidade de razoabilidade e tendo em vista o patamar comumente adotado por esta c. Câmara, majoro o valor dos danos morais para R$ 15.000,00 (quinze mil reais) (fl.303).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
