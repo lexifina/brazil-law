@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por PEDRO BENJAMIM DOS SANTOS com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO , assim ementado, in verbis:
+EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. CUSTASPROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE.
+1. Conforme o princípio da causalidade, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas custas processuais e pelos honorários advocatícios sucumbenciais.
+2. Por força do princípio da causalidade, é defeso a condenação da exequente em custas processuais e honorários advocatícios de sucumbência, quando a razão de extinção da execução fiscal se der pela prescrição intercorrente, pois, nessa hipótese, não foi a Fazenda a responsável pelo ajuizamento da ação executiva, nem pela não localização do devedor ou de seus bens (AgInt no REsp 1929415/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/09/2021).
+Deu-se à causa, na origem, o valor de R$ 25.633,66 (vinte e cinco mil, seiscentos e trinta e três reais e sessenta e seis centavos).
+No presente recurso especial, o recorrente aponta como violados os arts. 85, caput, e § 3º e a Súmula n. 153 do STJ, sustentando, em síntese, seu direito à fixação de honorários sucumbenciais decorrentes da extinção da execução fiscal pela prescrição intercorrente. Argumenta, ainda, pela possibilidade de ajuizamento de ação autônoma para cobrança de honorários advocatícios, seja pela rejeição da tese na ação originária, seja pela omissão quanto ao tópico, embasando-se no art. 85, § 18, do CPC.
+É o relatório. Decido.
+Não assiste razão à parte recorrente.
+O princípio da causalidade, como parâmetro norteador da definição quanto ao cabimento ou não de honorários de sucumbência, conduz a análise desta Corte em diversas hipóteses semelhantes, afastando-se, regra geral, a condenação do credor em razão da extinção anômala do feito executivo quando a parte devedora tenha dado causa à demanda. Observem-se, nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXUCUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões.
+Precedentes.
+2.Assim como ocorre nas hipóteses de execução frustrada ou reconhecimento de prescrição intercorrente, afigura-se um contrassenso condenar o credor ao pagamento de honorários advocatícios de sucumbência em razão da extinção anômala do feito executório, em razão da aprovação do plano de recuperação judicial da parte devedora.
+2.1 Nestes casos, mostra-se oportuno que o princípio da causalidade incida em desfavor da parte executada, já que foi a causadora da demanda executiva ao deixar de cumprir espontaneamente e tempestivamente com a obrigação evidenciada no título executivo.
+Incidência da Súmula 83/STJ.
+2.2 Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.958.233/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/10/2022, DJe de 6/10/2022.) (grifo nosso)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE EXEQUENTE.
+1. Segundo a tese firmada pela Corte Especial deste Superior Tribunal de justiça quanto ao alcance da norma prevista no art. 85, § 8º, do CPC/15, TEMA 1076, "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+2. Nos termos da compreensão firmada pelas Turmas que compõem a Segunda Seção desta Colenda Corte, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AgInt nos EDcl no AREsp n. 1.613.332/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento adotado pelas Turmas que compõem a Segunda Seção do STJ, é no sentido de que em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa.
+2. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, o devedor que deixou de satisfazer espontaneamente a obrigação - não tendo relação com a causa que ensejou a decretação da prescrição intercorrente (inação do credor durante o prazo prescricional).
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.037.941/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.) (grifo nosso)
+A pretensão da recorrente de fixação de honorários sucumbenciais decorrentes da extinção da execução fiscal pela prescrição intercorrente, portanto, não comporta provimento, estando compatível com a jurisprudência desta Corte o acórdão de origem prolatado nesse sentido.
+A tese relativa à possibilidade de ajuizamento de ação autônoma para cobrança de honorários advocatícios não está prequestionada na origem.
+Incide o óbice das Súmulas 282/STF e 356/STF, quando a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Publique-se. Intimem-se.
