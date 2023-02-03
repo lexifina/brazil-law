@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALENTIM DANIEL SEMENSATO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ADJUDICAÇÃO
+- Execução de título extrajudicial Pedido de adjudicação de bem móvel penhorado Alegação do executado de que se trata de instrumento de trabalho Ausência de demonstração Penhorabilidade já reconhecida por este Tribunal:
+- Executado que não se desincumbiu do ônus de demonstrar que o bem lhe serve como instrumento de trabalho e é impenhorável Questão, ademais, que já foi enfrentada por este Tribunal no julgamento do recurso interposto da decisão que havia rejeitado a impugnação à penhora.
+RECURSO NÃO PROVIDO
+Quanto à controvérsia trazida aos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 833, inciso V, do Código de Processo Civil, no que concerne ao necessário afastamento da penhora de seu caminhão pipa, porquanto trata-se de veículo indispensável ao desenvolvimento do trabalho rural do recorrente, trazendo os seguintes argumentos:
+É cristalino que não se trata de veículo de passeio, pois se trata de "caminhão bombeiro/caminhão-pipa", sendo totalmente impróprio para tanto.
+No entanto, o veículo é extremamente necessário para a garantia hídrica na área rural, mantendo o solo irrigado, pois, se o agricultor permanecer dependente das condicionantes climáticas atuais, pode perder todas as suas plantações.
+É evidente que o recorrente necessita do veículo para exercer sua atividade laboral, destacando que o caminhão possui anos de uso na lavoura e tem baixo valor de mercado (R$ 11.000,00, onze mil reais), não configurando patrimônio elevado.
+Contudo, é clara sua utilidade para o recorrente, que trabalha e reside longe de centros urbanos e necessita do veículo para o seu completo desempenho da atividade de produtor rural. (fl. 43).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+E esta C. Câmara já apreciou a matéria, conforme constou no julgamento do agravo de instrumento acima mencionado (2068605-32.2021.8.26.0000):
+"No caso, não veio nenhuma comprovação, seja em primeiro grau, seja neste agravo, de que o veículo penhorado deve ser enquadrado entre aqueles bens versados no inc. V do dispositivo mencionado, pelo qual são impenhoráveis: "os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício da profissão do executado".
+De fato, embora o agravante alegue tratar-se de "caminhão-bombeiro" ou "caminhão-pipa", voltado a conter incêndios em suas plantações e nas plantações de seus vizinhos, nenhum elemento nesse sentido veio aos autos, de sorte que não foi demonstrada a efetiva utilização do caminhão em sua atividade agrícola. Poderia ter juntado aos autos documento que permitisse qualificar o veículo como pretende, quer por parte do Detran, do Corpo de Bombeiros ou mesmo da Municipalidade local."
+Mais uma vez as afirmações do agravante vêm desprovidas de qualquer respaldo probatório.
+Registre-se que a impugnação à adjudicação está calcada exclusivamente na alegada impenhorabilidade do bem. Dessa forma, não tendo o agravante apresentado elementos que demonstrassem suas afirmações e levando-se em consideração que a matéria já foi apreciada por esta C. Câmara, de rigor a manutenção da decisão agravada. (fls. 34-35, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
