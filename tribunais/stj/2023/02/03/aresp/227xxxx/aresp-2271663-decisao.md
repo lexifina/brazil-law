@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por Ivanilde Santos Melo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 211):
+APELAÇÃO CÍVEL. APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. APELANTE PERTENCENTE A SINDICATO PRÓPRIO E ESPECÍFICO. PRINCÍPIO DA UNICIDADE SINDICAL. MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO. UNANIMIDADE.
+I. Execução individual de sentença proferida em ação coletiva promovida pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão (SINTSEP).
+II. Precedente do Supremo Tribunal Federal no RE 612043/PR no qual fora fixada a seguinte tese jurídica: A eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa dos interesses dos associados, somente alcança os filiados, residentes no âmbito da jurisdição do órgão julgador, que o sejam em momento anterior ou até a data da propositura da demanda, constantes de relação juntada à inicial do processo de conhecimento.
+III. Em situações envolvendo sindicato com amplo alcance, este não possui legitimidade para atuar em nome das categorias específicas que tenham representação própria, devendo ser observado o princípio da unicidade sindical.
+III - In casu, a Apelante, faz parte da categoria de trabalhadores em Educação Básica das Redes Públicas Estadual e Municipais do Estado do Maranhão, representada pelo SINPROESEMMA e não pelo SINTSEP.
+IV. Sentença mantida.
+V. Apelo conhecido e desprovido, de acordo com o parecer ministerial. Unanimidade.
+Opostos embargos declaratórios, foram rejeitados (fls. 237/250).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 489, §1º, IV, 508 e 1.022, II, e do CPC. Sustenta, em síntese, negativa de prestação jurisdicional e que "já ocorreu preclusão sobre a legitimidade, vez que a parte recorrente já teve seu crédito individualizado e homologado em liquidação, momento processual oportuno para aferir a matéria. Mesmo provocada sobre isto, a corte estadual permaneceu omissa. Com isso, evidenciada a negativa de prestação jurisdicional e preclusão da matéria legitimidade, a parte interpõe o presente Recurso Especial." (fl. 253)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da tese de preclusão quanto à suposta ilegitimidade do sindicato para o cumprimento de sentença.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
