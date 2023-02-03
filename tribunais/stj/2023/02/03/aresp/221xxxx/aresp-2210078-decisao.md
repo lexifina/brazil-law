@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Fernando Antonio Albino de Oliveira, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 188):
+AGRAVO DE INSTRUMENTO - Obrigação de Fazer c/c Indenização - Fase de cumprimento de sentença - Decisão que indeferiu pedidos de retificação de ofícios, deferiu a inclusão dos executados nos cadastros de inadimplentes recebeu a impugnação sem efeito suspensivo, deferiu a penhora de imóvel da coexecutada DEC Participações ente outras providências - Possibilidade de penhora de faturamento de sociedade de advogados e desconsideração da personalidade jurídica - Questões que foram analisadas em outro Agravo de Instrumento - Cumprimento provisório que se refere à parte líquida da condenação - Pagamentos e excesso de execução que serão analisados quando do julgamento da impugnação - Efeito suspensivo que somente pode ser deferido após seguro o Juízo - Art. 525, § 6º CPC - Decisão mantida - Recurso improvido.
+Esse acórdão foi objeto de embargos de declaração, rejeitados no Tribunal de origem, o que motivou recurso especial para esta Corte, o qual foi provido, no âmbito do AREsp n. 1.627.226/SP, para determinar o suprimento de omissões no julgamento.
+Foi, então, proferido novo acórdão, de cuja ementa colhe-se o seguinte (e-STJ, fl. 566):
+Embargos de Declaração. Recurso Especial provido para reanálise. Alegação de obscuridade. Inexistência. Então referência a que a matéria já teria sido decidida no agravo de instrumento de nº 2188522-84.2017, quando também deve ser observado o decidido no agravo de instrumento de nº 2091607-70.2017. Indevida a pretensão de extensão do decidido no agravo de instrumento de n º 2188522-84.2017, que abrangeu unicamente a sociedade de advogados de Pernambuco, diante das peculiaridades então analisadas. Embargos acolhido, apenas de forma integrativa, sem alteração do resultado do julgamento.
+Nas razões do presente apelo especial, o recorrente indicou violação aos arts. 133 a 137, 297 e 525, § 6º, do CPC/2015; 50 do CC; e 16 e 22 da Lei n. 8.906/1994.
+Asseverou não ter sido demonstrada a confusão patrimonial nem o desvio de finalidade, além de não ter sido instaurado o incidente de desconsideração inversa da personalidade jurídica.
+Argumentou não ser possível a penhora do faturamento dos escritórios de advocacia que integrou, destacando a natureza alimentar dos honorários advocatícios.
+Pretendeu a concessão de efeito suspensivo ao cumprimento de sentença, destacando que o crédito exequendo estaria garantido, além de inexistirem riscos à moradia dos recorridos, pois estariam adimplindo o contrato de hospedagem.
+Contrarrazões às fls. 576-590 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 191-192):
+Por primeiro, no que tange à alegação de ilicitude da penhora de faturamento de sociedade de advogados, que não tem natureza de empresa, sendo que seu capital e finalidade não são comparados às sociedades mercantis e que a penhora das contas correntes dos escritórios de advogado infringe o disposto no art. 22 do Estatuto da Advocacia, bem como que deve ser afastada a desconsideração inversa da personalidade jurídica, também por ausência do respectivo incidente processual, incabível a reanálise neste agravo de instrumento.
+Isso porque referidas questões foram objeto do Agravo de Instrumento nº 2188522-84.2017.8.26.0000 julgado por esta C. 3ª Câmara, em que vencido este relator.
+( )
+Ademais, as questões relacionadas com pagamento de hospedagem por parte do executado Fernando Antônio, bem como, colocações de excesso de execução e/ou penhora, não foram analisadas pelo Juízo de origem e serão examinadas quando do julgamento da impugnação, não podendo este Tribunal de sopreposição se antecipar na sua apreciação.
+Vale ainda destacar que eventual efeito suspensivo somente poderá ser pleiteado após devidamente seguro o Juízo, nos termos do art. 525, § 6º do Código de Processo Civil.
+De início, cumpre registrar que, para concluir que o juízo já teria sido garantido, como alega a parte, seria indispensável o revolvimento do acervo fático-probatório, o que é vedado na via eleita, ante a previsão contida no enunciado n. 7 da Súmula do STJ.
+No tocante às demais questões jurídicas suscitadas, constata-se que não houve pronunciamento sobre elas no acórdão vergastado, seja porque elas já teriam sido objeto de outro processo, seja porque elas ainda não foram apreciadas pela primeira instância.
+Nesse contexto, é certo que falta o indispensável prequestionamento dos temas aventados no apelo especial , atraindo a incidência, à espécie, dos enunciados n. 282 e 356 da Suprema Corte.
+A título exemplificativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTE TRIBUNAL SUPERIOR. LOCAÇÃO EM SHOPPING CENTER. EXCLUSÃO DO DIREITO DE INDENIZAÇÃO PELAS BENFEITORIAS. VALIDADE. SÚMULA 335/STJ. PRETENSÃO DE ALTERAR O ATRIBUTO DAS BENFEITORIAS REALIZADAS PARA EXTRAORDINÁRIAS. REEXAME DE MATÉRIA FÁTICA. ANÁLISE DE DISPOSIÇÃO CONTRATUAL. SÚMULAS 5 E 7/STJ. TERMO INICIAL DOS JUROS DE MORA. PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. CUMULAÇÃO DE HONORÁRIOS CONTRATUAIS E SUCUMBENCIAIS. PRINCÍPIO DA LIVRE INICIATIVA. FATO GERADOR OBRIGACIONAL DISTINTO. VIABILIDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. DESPROVIDO.
+(..)
+3. O termo inicial dos juros de mora não foi alvo de controvérsia no acórdão recorrido, tampouco foram alvo de embargos de declaração a respeito, evidenciando a inexistência do prequestionamento; o que atrai a aplicação do óbice das Súmulas 282 e 356/STF.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.122.403/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. TESE RELATIVA À GARANTIA DO JUÍZO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DEMAIS QUESTÕES JURÍDICAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
