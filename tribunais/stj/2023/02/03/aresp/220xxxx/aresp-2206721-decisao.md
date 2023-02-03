@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado por Antônio Fernandes Filho e outros, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 848):
+PROCESSUAL CIVIL. AÇÃO DE CONHECIMENTO. FASE DE CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DO PROCESSO. HONORÁRIOS ADVOCATICIOS.
+I - Afigura-se legitima, na espécie dos autos, o arbitramento da verba honorária em R$ 2.000,00 (dois mil reais), atendendo-se os termos do § 4º do art. 20, do diploma processual civil, com observância das normas contidas nas alíneas a, b e c do § 3º do aludido dispositivo legal, a fim de se evitar a fixação de verba honorária em valor excessivo, atentando-se para o princípio da razoabilidade e respeitando-se o exercício digno da advocacia.
+II  Agravo regimental desprovido. Decisão mantida.
+A recorrente, nas razões do apelo nobre, aponta violação ao art. 20, §§ 3º, 4º, do CPC/1973, e dissídio jurisprudencial.
+Sustenta que "o valor arbitrado à título de condenação em honorários advocatícios se mostra insuficiente para remunerar a atividade prestada, sobretudo se for levado em conta o valor da causa" (fl. 856).
+Aponta que "ao se considerar as circunstâncias objetivas do caso presente, é de se concluir que os honorários, apesar de arbitrados em valor fixo, mostram-se irrisórios, notavelmente quando consider ado o proveito econômico obtido pela parte recorrente" (fl. 857).
+Pugna pela reforma do acórdão recorrido, "operando-se a majoração do percentual de honorários de sucumbência deferidos na fase executiva" (fl. 861).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não procede.
+O Tribunal Regional aplicou entendimento vinculante seu nos seguintes moldes (fls. 86/87):
+Na hipótese dos autos, o magistrado sentenciante extinguiu o processo, em de fase de cumprimento de sentença, em razão da satisfação integral da obrigação exequenda de forma não voluntária, contudo, deixou de condenar a executada ao pagamento de honorários advocatícios. Considerando o teor da Súmula 517 do Supremo Tribunal de Justiça, no sentido de que "são devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada", o eminente relator Souza Prudente, por meio de decisão monocrática, deu provimento à apelação e condenou à Caixa Econômica Federal ao pagamento de honorários advocatícios, fixados em R$ 2.000,00 (dois mil reis), nos termos do art. 20, § 4º, do CPC, vigente à época.
+Posto isso, tenho que o arbitramento dos honorários advocatícios no montante de R$ 2.0000 (dois mil reais) harmoniza-se com a regra do § 4º do art. 20 do CPC, tendo em vista os parâmetros previstos nas alíneas a, b e c do § 3º daquele mesmo dispositivo legal, atentando-se para o princípio da razoabilidade e respeitando o exercício da nobre função da advocacia e o esforço despendido pelos Ilustres patronos da parte autora, na espécie.
+Segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do Código de Processo Civil, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade." (REsp 1.155.125/MG, Relator Ministro Castro Meira, DJe de 6/4/2010).
+Ademais, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria reexame do contexto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando forem verificados excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/3/2013, DJe 13/3/2013)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Saliente-se, por fim, que o recurso de fls. 879/893, aparentemente dúplice, se refere a partes e temática estranhas aos autos, além de não ter sido apreciado pelo Tribunal original.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
