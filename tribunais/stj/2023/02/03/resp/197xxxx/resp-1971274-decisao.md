@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Trata-se de recurso especial, encaminhado como Representativo da Controvérsia n. 460/STJ, interposto pela ORDEM DOS ADVOGADO DO BRASIL - SEÇÃO DE SÃO PAULO contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 3ª Região, no julgamento de apelação e remessa oficial, assim ementado (fls. 366/367e):
+MANDADO DE SEGURANÇA. APELAÇÃO CÍVEL. ADMINISTRATIVO. ORDEM DOS ADVOGADOS DO BRASIL.TÉCNICO DO SEGURO SOCIAL (INSS) - EXERCÍCIO DA ADVOCACIA. IMPEDIMENTO AO EXERCÍCIO PROFISSIONAL DA ADVOCACIA NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. A restrição à liberdade profissional deve ser interpretada de forma estrita.
+2. Os técnicos do Seguro Social são impedidos de exercer a advocacia apenas em relação à Fazenda Pública que os remunere ou à qual seja vinculada a entidade empregadora, nos termos do artigo 30, inciso I, da Lei Federal nº 8.906/94. Precedentes.
+3. Apelação e remessa oficial desprovidas.
+Feito breve relato, decido.
+Não obstante a indicação do recurso como representativo da controvérsia, verifico o não preenchimento de requisito que autoriza a apreciação da tese apontada, sob o rito especial, por esta Corte, considerando a insuficiência da multiplicidade recursal envolvendo a questão neste Superior Tribunal - bem como na instância ordinária -, relativamente à específica temática atinente ao cargo de Técnico do Seguro Social.
+Ademais, esta Corte tem entendido pela impossibilidade de afetação de matéria sobre a qual não tenha emitido pronunciamento, ou o tenha feito de forma incipiente.
+Nessa linha:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPETITIVO. ART. 1.036 E SEGUINTES DO CPC. ART. 257 RISTJ. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. EMPRESÁRIO INDIVIDUAL RURAL. INSCRIÇÃO A MENOS DE DOIS ANOS NO REGISTRO PÚBLICO DE EMPRESAS MERCANTIS. ART. 971 CÓDIGO CIVIL. ARTS. 48, CAPUT, E 51, V, LEI 11.101/2005.
+1. A questão de direito que se pretende afetar ao rito dos recursos repetitivos consiste na possibilidade de o empresário individual rural (produtor rural) - pessoa física - requerer o benefício da recuperação judicial, ainda que não se tenha inscrito no Registro Público de Empresas Mercantis há mais de 2 (dois) anos da data do pedido (art. 971 do Código Civil c/c arts. 48, caput, e 51, V, da Lei n. 11.101/2005).
+2. Embora de grande relevância para o país, esta Corte Superior não emitiu posicionamento fundamentado sobre o tema em destaque.
+3. Diante da ausência de precedentes sobre a referida questão de direito e em homenagem ao princípio da segurança jurídica, deve-se aguardar, para fins de afetação ao rito previsto no art. 1.036 e seguintes do Código de Processo Civil, a formação de jurisprudência no Superior Tribunal de Justiça, orientação que vem sendo adotada pela Segunda Seção na afetação e análise de temas repetitivos.
+4. Questão jurídica não afetada ao rito dos recursos repetitivos (art. 257- A, § 2º, RISTJ).
+(ProAfR no REsp n. 1.686.022/MT, Relator p/ acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/11/2017, DJe de 5/12/2017 - destaquei)
+Anote-se, ainda, o recente cancelamento da Controvérsia n. 423/STJ, porquanto: " ..  é necessário que o tema tenha sido minimamente discutido no Tribunal Superior por pelo menos um de seus órgãos fracionários. Em homenagem ao princípio da segurança jurídica, não se deve apresentar precedente vinculante sem o necessário e prudente debate entre os Ministros da Corte Superior" (REsp n. 1.991.694/PB, Rel. Min. Herman Benjamin, DJe 04.11.2022)
+Por fim, a solução da controvérsia pode se vincular a questões probatórias e casuísticas, a exemplo de quando o técnico exerça cargo ou função de direção, atraindo a incompatibilidade do reproduzido art. 28, III do EAOAB, dificultando, desse modo , a fixação de tese verdadeiramente apaziguadora.
+Posto isso, REJEITO o recurso especial como Representativo da Controvérsia, nos termos dos arts. 256-E, I, e 256, § 4º, do RISTJ, devendo ser providenciada, por conseguinte, a retirada da sua identificação do Sistema Integrado da Atividade Judiciária - SIAJ, bem como o CANC ELAMENTO da Controvérsia n. 460/STJ.
+Em atendimento ao disposto no art. 256-G, § 1º, do mesmo diploma normativo, comunique-se, mediante envio de cópia desta decisão, aos Ministros do Superior Tribunal de Justiça, aos Presidentes dos Tribunais de Justiça, dos Tribunais Regionais Federais, da Turma Nacional de Uniformização e ao Núcleo de Gerenciamento de Precedentes e Ações Coletivas - NUGEPNAC desta Corte.
+Em seguida, voltem-me os autos conclusos para a oportuna apreciação do recurso especial.
+Publique-se e intimem-se.
