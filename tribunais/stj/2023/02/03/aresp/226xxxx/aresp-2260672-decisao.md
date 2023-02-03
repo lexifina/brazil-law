@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO PAN S.A contra decisão que inadmitiu recurso especial com fundamento na ausência de prequestionamento dos dispositivos tidos por violados.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Pará (Apelação n. 0813963-21.2018.8.14.0301) nos autos de ação de busca e apreensão.
+O julgado foi assim ementado (fl. 252):
+AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO DE APELAÇÃO. ALEGAÇÃO DE NULIDADE DE INTIMAÇÃO. PRECLUSÃO. AUSÊNCIA DE SITUAÇÃO FÁTICO-JURÍDICA CAPAZ DE MODIFICAR A DECISÃO AGRAVADA. DESPROVIMENTO DO RECURSO DE AGRAVO INTERNO.
+1. O vício relativo à ausência de intimação exclusiva constitui nulidade do processo, devendo ser alegada na primeira oportunidade em que couber à parte se manifestar nos autos, sob pena de preclusão, o que não ocorreu no caso em tela.
+2. Ausente qualquer inovação na situação fática-jurídica estampada na decisão monocrática combatida, o recurso não merece provimento, por uma questão de lógica jurídica da matéria de direito tratada e, principalmente, em nome da segurança jurídica.
+3. Confirmar-se a decisão objurgada, que se mostra correta não merecendo reparos, é medida que se impõe, aplicando-se ope legis, a multa prevista no artigo 1.021, § 4º, do CPC.
+4. Agravo Interno conhecido e desprovido.
+Nas razões do recurso especial, o ora agravante, além de alegar dissídio jurisprudencial, aponta violação do art. 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969. Defende, em resumo, que, "após apreendido o veículo, não havendo purga da mora, a propriedade do bem fica consolidado com o credor fiduciário" (fls. 274-275).
+Requer o provimento do recurso a fim de que seja determinada a consolidação da posse e propriedade do bem móvel objeto de alienação fiduciária em nome do credor fiduciário.
+É o relatório. Decido.
+A questão infraconstitucional relativa à violação do art. art. 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969 não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Considera-se preenchido o requisito do prequestionamento quando o tribunal de origem se manifesta acerca da matéria inserta no dispositivo de lei federal apontado como violado, sendo desnecessária a menção explícita a seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Inexistindo referido debate na instância antecedente, o recurso especial não comporta conhecimento ante a incidência analógica da Súmula n. 282 do STF.
+Ademais, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+No acórdão proferido pela Corte de origem (fls. 252-264), entendeu-se que a inércia diante dos comandos judiciais para dar andamento ao feito, notadamente com vistas à promoção da citação da parte adversa, acarreta ausência de pressuposto processual de desenvolvimento válido e regular do processo, ensejando a extinção da ação sem julgamento de mérito. No recurso especial, entretanto, a parte agravante, a título de divergência pretoriana, colaciona julgado acerca da tese de que, a preendido o veículo e citado o réu, não havendo a purga da mora, a propriedade do bem fica consolidada com o credor fiduciário.
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora agravante, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
