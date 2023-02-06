@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por Anderson de Almeida Barbosa Rodrigues, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5000311-51.2020.4.04.7017.
+Na sentença de fls. 171/190, o Juízo singular julgou procedente o pedido formulado na denúncia para condenar o acusado nos termos dos arts. 330 e 334-A, § 1º, I, e § 3º, ambos do Código Penal, c/c o art. 3º do Decreto-Lei n. 399/1968, na forma do art. 69 do Código Penal, impondo-lhe a pena de 6 anos e 3 meses de reclusão, e 1 mês e 25 dias de detenção, em regime inicial fechado, e pagamento de 95 dias-multa, cada qual no valor de 1/20 do salário mínimo vigente em setembro de 2019 (atualizável pelo IPCA).
+Inconformada com os termos do édito condenatório singular, a defesa interpôs recurso de apelação (fls. 213/231).
+O Tribunal a quo deu parcial provimento ao recurso defensivo (fls. 289/311):
+PENAL. ART. 334-A, § 1º, INCISO I E § 3º, DO CP, C/C ARTIGOS 2º E 3º DO DECRETO-LEI N.º 399/68. CONTRABANDO. 18 CAIXAS DE CIGARROS. CONSUMAÇÃO. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO DELITO. REDIMENSIONADA. VETORIAL PERSONALIDADE. AFASTADA. MAJORANTE DE CONTRABANDO POR MEIO FLUVIAL. INCIDÊNCIA. CRIME DE DESOBEDIÊNCIA. CONFIGURADO. REGIME INICIAL SEMIABERTO.
+1. Devidamente comprovadas a materialidade e a autoria delitivas bem assim o dolo do agente, sendo o fato típico, antijurídico e culpável, e inexistindo causas excludentes, resta evidenciada a prática do delito tipificado no artigo 334-A, § 1º, inciso I, e § 3º, do Código Penal, c/c artigos 2º e 3º do Decreto-Lei n.º 399/68.
+2. Reduzido o recrudescimento da circunstâncias do delito em função do concurso de agentes e empreendido fuga em alta velocidade em veículo adrede preparado.
+3. No contrabando, o transporte dos cigarros durante a noite não desborda da normalidade, sendo inviável utilizar este fator para exasperar a reprimenda.
+4. A existência de ações penais sem trânsito em julgado e processos administrativos não pode ser usada para exasperar a reprimenda. Súmula nº 444 do Superior Tribunal de Justiça.
+5. Incide a majorante do § 3º do art. 334-A do Código Penal ao agente que concorre para conduta de quem importa produtos ilícitos, sabendo que este se realiza por meio de transporte fluvial, mesmo que não seja o transportador direto.
+6. Comete crime de desobediência aquele que deixa de acatar a ordem legal de parada para fins de fiscalização tributária, de trânsito ou policial. O direito à autodefesa ou à não auto-incriminação não autoriza que o agente pratique outros crimes para encobrir crime anterior ou para esquivar-se de eventual mandado de prisão que penda contra si.
+7. Considerando-se que o somatório da pena privativa de liberdade fixada ficou acima de quatro anos de reclusão, estabelecido o regime inicial semiaberto para início do cumprimento da pena privativa de liberdade, nos termos do art. 33, § 2º, b, e § 3º, do CP.
+8. Apelação criminal parcialmente provida.
+Opostos embargos infringentes e de nulidade (fls. 326/331), foram rejeitados (fls. 367/376):
+EMBARGOS INFRINGENTES E DE NULIDADE. PENAL E PROCESSO PENAL. CONTRABANDO. ART. 334-A, § 1º, I, DO CP. DOSIMETRIA. MAJORANTE PREVISTA NO ART. 334-A, § 3º, DO CP. EFETIVA CONTRIBUIÇÃO E COLABORAÇÃO COM A EMPREITADA REALIZADA POR MEIO FLUVIAL. INCIDÊNCIA.
+1. A contrario sensu do que dispõe o art. 30 do CP e em atenção à teoria unitária, comunicam-se aos coautores as circunstâncias de caráter objetivo, compreendidas aquelas que afetam a materialidade e a execução do crime, quando, além do nexo causal, existe também um liame anímico, determinante para a configuração do delito.
+2. Evidenciado que o réu, além de ciente quanto ao ingresso da mercadoria mediante travessia por meio fluvial, efetivamente contribuiu e colaborou com a empreitada, efetuando o transbordo da carga, incide a majorante prevista no artigo 334-A, § 3º, do CP.
+No recurso especial, é apontada a violação do art. 334-A, § 3º, do Código Penal.
+Assevera o recorrente que, na terceira fase da dosimetria, a pena foi dobrada em razão da causa de aumento inerente ao meio fluvial, prevista no art. 334-A, § 3º, do Código Penal.  ..  a referida causa de aumento foi incluída na denúncia após a realização da audiência de instrução, em virtude de o réu ter mencionado que carregou o veículo com cigarros na barranca do rio.  .. , o apelante asseverou que ao chegar no local o "barqueiro" já havia descarregado o barco e tão somente lhe ajudou a colocar a mercadoria no carro (fls. 388/389).
+Sustenta, no ponto, que a sua conduta se limitou a carregar o veículo com as caixas de cigarros que já estavam na barranca do rio, e, por conseguinte realizar o seu transporte terrestre.  ..  não há elemento que demonstre ter sido o apelante o responsável pelo transporte e internalização da mercadoria por via fluvial, não há prova de que concorreu ou possuía domínio sobre fatos anteriores (fl. 389).
+Aponta, ainda, que, na espécie, vislumbra-se ilegalidade manifesta a ser reconhecida. O Tribunal recorrido não adotou fundamentos concretos para justificar a exasperação da pena-base em metade da pena-mínima.  ..  se vislumbra constrangimento ilegal, devendo ser novamente analisada a primeira fase da dosimetria da pena (fl. 391).
+Ao final da peça recursal, pede o recorrente o provimento do presente recurso, ao efeito de - demonstrada afronta a majorante prevista no art. 334-A, § 3º, do CP - redimensionar a pena fixada (fl. 392).
+Oferecidas contrarrazões (fls. 400/408), o recurso especial foi admitido na origem (fl. 411).
+O Ministério Público Federal opina pelo não conhecimento da insurgência (fls. 426/430):
+PENAL e PROCESSUAL PENAL. REsp. Contrabando. Pretensão de afastamento da majorante do artigo 334- A, § 3º, do Código Penal. Réu que tinha ciência de que a mercadoria era transportada por meio fluvial, havendo, ademais, colaborado ativamente para esse transporte. Incidência justificada da causa especial de aumento. Desconstituição da conclusão do acórdão que demandaria o revolvimento de fatos e provas. Súmula 7/STJ. Não conhecimento do recurso especial.
+É o relatório.
+Com efeito, pelos percucientes fundamentos, aos quais nada tenho a acrescentar, adoto como razões de decidir o parecer do Ministério Público Federal, exarado pela Subprocuradora-Geral da República Eliane de Albuquerque Oliveira Recena, ipsis litteris (fls. 428/430 - grifo nosso):
+ ..
+A pretensão recursal esbarra no óbice da Súmula 7 desse Superior Tribunal de Justiça, conforme demonstraremos em seguida.
+Realmente, consoante relatado, a irresignação do recorrente no caso cinge-se ao fato de a Corte a quo ter mantido a majorante do artigo 334-A, § 3º, do Código Penal, a despeito de, segundo se alega no recurso, não haver provas de ter o réu efetivamente contribuído para a prática do crime de contrabando em transporte fluvial.
+Nessa linha, sustenta o réu que o transporte fluvial da mercadoria foi realizado, na verdade, por outra pessoa.
+O TRF-4, ao enfrentar essa questão no julgamento dos embargos infringentes e de nulidade, se manifestou da seguinte forma:
+"No caso, não se trata de mera ciência do réu quanto ao ingresso da mercadoria mediante travessia por meio fluvial, mas, inclusive, de efetiva contribuição e colaboração com a empreitada realizada por meio fluvial, conforme percucientemente descrito na sentença, in verbis:
+
+Consoante se infere, o réu se deslocou até a barranca do rio, em um porto clandestino, auxiliando, inclusive, o transbordo da carga.
+Com efeito, a par da ciência, há efetiva execução do iter ciminis de internalização dos cigarros." (fls. 374/376 e-STJ) (grifos no original e nossos).
+Ora, tal como se pode observar da leitura dos fragmentos do acórdão acima transcritos, a Corte Regional, após minudente análise do acervo fático-probatório dos autos, concluiu que o réu não apenas tinha ciência de que a mercadoria contrabandeada era transportada por via fluvial - o que já seria suficiente para justificar a incidência da majorante -, como também colaborou, ativamente, para esse transporte.
+Diante disso, a pretendida desconstituição da conclusão a que chegou a instância a quo a esse respeito demandaria, forçosamente, aprofundado revolvimento de fatos e provas, providência sabidamente vedada na via do recurso especial, a teor da Súmula 7 desse STJ, abaixo transcrita:
+"A pretensão de simples reexame de prova não enseja recurso especial." (Súmula 7, CORTE ESPECIAL, julgado em 28/06/1990, DJ 03/07/1990, p. 6478).
+No mesmo sentido do que aqui defendemos, confira-se abaixo o seguinte julgado dessa Corte Superior:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. INCIDÊNCIA DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. TROCA DE PLACAS. TIPICIDADE. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Cabe ressaltar a viabilidade do julgamento monocrático, porquanto, nos termos da Súmula n. 568, desta Corte, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+2. No caso dos autos, a decisão agravada está fundamentada em jurisprudência dominante desta Corte no sentido de que a conduta consistente na troca de placas de veículo automotor configura o delito do art. 311, caput, do Código Penal - CP, diante da adulteração dos sinais identificadores.
+3. O Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela ocorrência do crime anterior de contrabando e que o agravante possuía conhecimento de que o veículo automotor era produto deste crime. Para rever este entendimento seria necessário o reexame de provas dos autos, providência vedada pela Súmula n. 7/STJ.
+4. Agravo regimental desprovido." (AgRg no AREsp n. 1.500.468/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 7/10/2019.) (grifamos).
+Dessa forma, considerando-se que a pretensão deduzida no recurso ora examinado esbarra, conforme visto, no óbice da Súmula 7/STJ, o apelo constitucional não comporta conhecimento.
+ ..
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. CONTRABANDO. VIA FLUVIAL. VIOLAÇÃO DO ART. 334-A, § 3º, DO CP. PLEITO DE AFASTAMENTO DA MAJORANTE . VIA IMPRÓPRIA. NECESSIDADE DE EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. PARECER DO MPF ADOTADO COMO RAZÕES DE DECIDIR.
+Recurso especial não conhecido.
