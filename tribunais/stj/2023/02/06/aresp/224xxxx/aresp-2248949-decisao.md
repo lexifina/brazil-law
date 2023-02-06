@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAENGE S.A - CONSTRUCAO ADMINISTRACAO E ENGENHARIA - EM RECUPERACAO JUDICIAL e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO RETARDATÁRIA DE CRÉDITO TRABALHISTA. HONORÁRIOS CONVENCIONADOS NO TÍTULO PARA A HIPÓTESE DE INADIMPLÊNCIA. DIREITO AUTÔNOMO DO ADVOGADO. INCLUSÃO NO QUADRO DE CREDORES. POSSIBILIDADE. DECISÃO MANTIDA.
+1. Os honorários avençados em contrato não dizem respeito àqueles fixados pelo juiz na execução, na forma do art. 827 do CPC, tampouco se confundem com os honorários de sucumbência, ostentando natureza jurídica diversa.
+2. Estabelecida a incidência de honorários advocatícios em instrumento de confissão de dívida, para a hipótese de inadimplência do devedor, e sendo esta verificada, é possível a habilitação do crédito no quadro geral de credores.
+3. Agravo de instrumento conhecido e não provido (fls. 207/208).
+Quanto à primeira controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação e divergência de interpretação do art. 22 da Lei n. 8.906/1994, no que concerne à indevida condenação da parte recorrente aos honorários previstos no instrumento de confissão de dívida que embasa o crédito da parte recorrida e incluídos no cálculo elaborado na habilitação de crédito de origem, trazendo os seguintes argumentos:
+30. Veja-se que os honorários de que trata o aludido art. 22 da Lei 8.906/94 se refere aos honorários convencionados entre a parte e o advogado por ele contratado, com o que não poderá ser utilizado como supedâneo à condenação da parte ex adversa, no caso, as ora Recorrentes, no pagamento da referida verba.
+ ..
+31. In casu, o advogado contratado pelo Recorrido não prestou qualquer serviço às Recorrentes a ensejar a condenação destas ao pagamento dos honorários convencionados no Instrumento de Confissão de Dívida.
+32. Não por outra razão que o Recorrido não pretendeu a habilitação da referida verba na Habilitação de Crédito de origem (v. Id 24215855), pois o Patrono do Recorrido possui pleno conhecimento que o valor dos honorários convencionados no Instrumento de Confissão de Dívida não lhe era devido.
+ ..
+38. De tal modo andou mal o Tribunal a quo ao manter o crédito do Patrono do Recorrido como se devido fosse, à luz do art. 22 da Lei 8.906/94, quando em verdade referido dispositivo trata dos honorários devidos pelo cliente ao advogado contratado e inexiste condenação das Recorrentes em honorários em razão de sucumbência.
+39. Pelo exposto, resta claro que os arestos recorridos, ao asseverarem que os honorários previstos no Instrumento de Confissão de Dívida que embasa o crédito do Recorrido, e incluídos no cálculo elaborado na Habilitação de Crédito de origem, seriam devidos pelas Recorrentes, nos termos do art. 22 da Lei 8.906/94, interpretou e aplicou mal referido dispositivo, devendo ser reconhecida sua violação (fls. 257/260).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 18 do CPC, no que concerne à impossibilidade de reivindicação de direito alheio em nome próprio, trazendo os seguintes argumentos:
+41. Isso porque, consoante se infere dos presentes autos, foi incluído no montante atribuído ao Recorrido, valor referente aos honorários advocatícios que seriam de titularidade de seu Patrono, que não é parte nos autos da Habilitação de Crédito de origem.
+ ..
+43. Se extrai do referido dispositivo que apenas o titular do direito, salvo em específicas situações, tem legitimidade para reivindicar seu direito.
+44. Ou seja, a reivindicação de direito alheio em nome próprio fica vedada, com exceção apenas das hipóteses de legitimidade extraordinária ou substituição processual, o que, a toda evidência, não é o caso dos autos.
+ ..
+48. Neste diapasão, a cobrança de supostos honorários nos autos da Habilitação de Crédito de origem apenas seria possível se o próprio titular do crédito dos honorários, ou seja, o Patrono do Recorrido, estivesse devidamente incluído como polo ativo do feito, o que não ocorreu (fls. 260/262).
+É, no essencial, o relatório. Decido.
+No que concerne a ambas as controvérsias pela alínea "a", na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O crédito objeto do pedido de habilitação é proveniente de instrumento de confissão de dívida firmado entre o agravado e a agravante Caenge (id. 48415910, autos de origem), no qual consta o valor principal de R$ 1.021.059,92 (cláusula primeira) e os encargos moratórios de inadimplência, dispostos no parágrafo único da cláusula segunda, vejamos:
+ ..
+Com base em tais parâmetros, o débito foi atualizado pela Contadoria Judicial, conforme a planilha de cálculo (id. 74005914, autos de origem), na qual constam discriminados o débito principal e os encargos moratórios (correção monetária, juros de mora, multa e honorários).
+A despeito da previsão no termo de confissão de dívida firmado, as agravantes contestam a inclusão dos honorários advocatícios, aduzindo que as partes não poderiam transacionar a respeito, na forma dos arts. 85 e 827 do CPC.
+Não assiste razão às agravantes, no entanto.
+Os honorários avençados em contrato não dizem respeito àqueles fixados pelo juiz na execução, na forma do art. 827 do CPC, tampouco se confundem com os honorários de sucumbência, ostentando natureza jurídica diversa.
+Aqui, a situação é diversa daquela em que uma parte postula em face de outrem o ressarcimento dos honorários pagos ao seu advogado contratado, sem que exista prévia estipulação entre os litigantes acerca da verba cobrada.
+Afinal, a própria agravante anuiu, de forma consentida, com a cobrança, ao assinar o termo de confissão de dívida, cujo parágrafo único da cláusula segunda estabelece que, em caso de inadimplência, incidem os honorários advocatícios de 20% sobre o valor total da dívida atualizada.
+E, de acordo com o art. 22, caput, da Lei 8.906/1994, a prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.
+Trata-se de verba autônoma pertencente ao advogado e que não pode ser confundida com o direito da parte, embora passível a cobrança na mesma ação por constar do título.
+ ..
+Obviamente, não se pode desconsiderar a atuação de advogado na fase pré-processual, mediante a realização de atos preparatórios extrajudiciais concernentes aos serviços advocatícios, o que não se discute nestes autos.
+Ademais, se o próprio advogado concorda com a cobrança de seus honorários juntamente com o crédito principal do cliente, por constar do título, não cabe ao devedor impugnar essa escolha, nos termos do art. 18 do CPC.
+Enfim, o Superior Tribunal de Justiça firmou entendimento, em sede de recurso especial repetitivo (tema 637), que os créditos resultantes de honorários advocatícios têm natureza alimentar, inclusive equiparando-se aos trabalhistas para efeito de habilitação em falência.
+ ..
+Logo, escorreita a inclusão do crédito referente aos honorários advocatícios na mesma categoria do crédito principal, isto é, na casse trabalhista (fls. 209/212).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ademais, no que tange à primeira controvérsia pela alínea "c", verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
