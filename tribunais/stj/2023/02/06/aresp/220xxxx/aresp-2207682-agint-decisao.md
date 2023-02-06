@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado do Rio Grande do Sul contra decisão da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ (fls. 624/626).
+Inconformada, a parte agravante sustenta a inaplicabilidade do referido óbice, sob o argumento de que "feita uma análise do agravo interposto, tem-se que o Estado se desincumbiu de tal tarefa, na medida em que impugnou o fundamento tido por não infirmado, conforme se vê dos trechos abaixo transcritos (e-STJ Fls. 607/615):  ..  Dos trechos trazidos à colação, resta claro que houve impugnação ao fundamento da decisão agravada tido por não impugnado, tendo sido demonstrado que não incide ao presente caso o Verbete 83 da Súmula do STJ, tanto em relação à prescrição quanto à incidência do imposto de renda, na medida em que a jurisprudência trazida pela 1ª Vice- Presidência para negar seguimento ao recurso especial do Ente Público não se aplica ao caso concreto, conforme demonstrado nas razões do recurso acima transcritas." (fls. 631/633).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 624/626), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
