@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de pedido de reconsideração da decisão da Presidência do STJ que indeferiu o pedido de liminar apresentado por EVANDRO SANTIAGO DE MIRANDA (e-STJ fls. 795-797).
+Em síntese, o autor pleiteia o deferimento da tutela provisória para suspender o cumprimento de sentença sob nº 5177749-72.2021.8.13.0024, em trâmite na CENTRASE Cível de Belo Horizonte (Central de Cumprimento de Sentenças), ou, subsidiariamente, a suspensão de todos e quaisquer atos constritivos e expropriatórios de patrimônio em seu nome (e-STJ fls. 819-824).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Tutela Provisória de Urgência
+Como é cediço, a concessão da tutela provisória de urgência está condicionada ao preenchimento dos requisitos previstos no art. 300 do CPC/15, segundo o qual "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Em se tratando de tutela provisória de urgência pleiteada no âmbito de ação rescisória, providência que, conquanto admitida pelo art. 969 do CPC/15, é de natureza reconhecidamente excepcional, o exame dos referidos pressupostos deve ser muito mais rigoroso do que na hipótese de concessão de tutela provisória em ação de conhecimento.
+No particular, nos termos da decisão da Presidência desta Corte, não restou comprovado "o requisito do periculum in mora, já que não há argumentação que comprove o perigo de dano irreparável ao resultado útil do processo. Não bastam, para a comprovação do perigo de dano, alegações genéricas sobre eventual tramitação de incidente de cumprimento de sentença" (e-STJ fl. 796).
+Com efeito, nos termos da jurisprudência desta Corte, o regular prosseguimento do cumprimento de sentença, por si só, não constitui o perigo de dano ou o risco ao resultado útil do processo exigido para a concessão de tutela provisória de urgência, até porque o referido procedimento possui mecanismos próprios para evitar prejuízos ao executado (AgInt na Pet 13.696/RJ, 3ª Turma, REPDJe 12/11/2020, DJe 3/11/2020; AgInt na TutPrv no AREsp 1.070.866/DF, 3ª Turma, DJe 29/11/2017; AgRg na MC 25.558/RJ, 4ª Turma, DJe 31/3/2016). Confira-se, ainda: AgInt AR 6.839/SP, Segunda Seção, DJe 18/12/2020.
+Ademais, afastada a possibilidade de concessão da tutela provisória de urgência sob a ótica do periculum in mora qualificado para a ação rescisória, é despiciendo o exame da questão controvertida sob a perspectiva do fumus boni iuris.
+Forte nessa razões, INDEFIRO o pedido de reconsideração da decisão que não concedeu a tutela de urgência.
+Cumpra-se a determinação de citação da parte ré, conforme estabelecido pela decisão da Presidência (e-STJ fl. 797).
+Publique-se. Intimem-se.
