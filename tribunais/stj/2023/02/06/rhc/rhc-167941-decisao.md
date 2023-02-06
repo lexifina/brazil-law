@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Joa o Vitor Sales Cota contra o acórdão do Tribunal de Justiça de Minas Gerais no HC n. 1.0000.22.127919-3/000.
+Consta dos autos que o recorrente foi preso em flagrante pela prática, em tese, do delito previsto no art. 33, caput, da Lei n. 11.343/2006, bem como teve a sua prisão posteriormente convertida em preventiva pelo Juízo da Vara Única da comarca de Luz/MG, nos Autos n. 5000962-32.2022.8.13.0388 (fls. 50/55).
+Posteriormente, o pedido de revogação da custódia cautelar foi indeferido pelo Magistrado de singular (fls. 56/61).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar (fls. 83/88).
+Daí o presente recurso, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia cautelar está fundamentada na gravidade abstrata do delito, de forma genérica.
+Aduz-se que o recorrente é primário, de bons antecedentes, com residência fixa, menor de 21 anos, e ausente qualquer registro de envolvimento ou dedicação à prática de atividades delituosas (fl. 100).
+Requer-se, liminarmente e no mérito, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido, em 19/7/2022, pelo Vice-Presidente, no exercício da Presidência desta Corte, Ministro Jorge Mussi (fl. 122).
+O Ministério Público Federal emitiu parecer pela negativa de provimento do recurso (fls. 127/128).
+Na origem, em contato telefônico com o Juízo singular, fui informado que houve a prolação de sentença. Na oportunidade, o ora recorrente foi condenado pela prática do delito pelo qual foi denunciado, bem com foi-lhe negado o direito de apelar em liberdade.
+Na origem, houve a prolação de sentença condenatória na Ação Penal n. 0001647-27.2022.8.13.0388, em 23/12/2022.
+É o relatório.
+O recurso não merece prosperar.
+O Juízo plantonista, ao converter a prisão em flagrante em preventiva, assim fundamentou a sua decisão (fls. 51/52 - grifo nosso):
+ ..
+Depreende-se do auto de prisão em flagrante delito que no dia no dia 19 de maio de 2022, no Km 575 da rodovia BR 262, zona rural do Município de Luz/MG, os policiais rodoviários federais Yuri Augusto Junqueira Belém Silva e Felipe Carvalho de Souza, durante operação de combate ao tráfico de drogas, submeteram os passageiros do ônibus Scania, placa HEU-4751, à revista pessoal. De acordo com os autos, os policiais encontraram na bagagem de João Vítor Sales Cota57 invólucros contendo o entorpecente denominado "Cannabis Sativa de Lineu", vulgo "maconha", que, na ocasião, estava na forma de "Skunk",
+ ..
+De uma análise apurada dos elementos jungidos ao APFD, tem-se que há indicativos da materialidade delitiva e dos indícios de autoria, a prisão em flagrante, tendo sido apreendidos 57 invólucros.
+Assim, a necessidade da prisão preventiva resta evidenciada, para garantir a ordem pública, na exata medida em que os indícios até aqui coligidos indicam que o autuado JOÃO VITOR SALES COTA está no serviço do tráfico, sendo necessário coibir tais condutas. O crime de tráfico de drogas fomenta a prática de outros delitos, e vem crescendo assustadoramente, exigindo forte atuação das autoridades constituídas para o impedir a perpetuidade deste delito, que degrada o ser humano de forma cada vez mais brutal.
+Sem embargo, da análise dos elementos jungidos no auto de prisão em flagrante, verifica-se o fumus comissi delictie o periculum libertatis, razão pela qual se faz mister a prisão cautelar a fim se garantir o efetivo deslinde processual.
+Na audiência de custódia, a Juíza também visualizou a periculosidade do agente pela gravidade do crime perpetrado, em tese, identificada a partir das circunstâncias concretas do fato (fl. 58).
+O Tribunal estadual, ao denegar a ordem, convalidou a custódia cautelar imposta ao ora recorrente e ressaltou que (fls. 85/86 - grifo nosso):
+ ..
+Extrai-se que, durante operação de fiscalização de controle interestadual, policiais federais abordaram um ônibus que realizava trajeto de Foz do Iguaçu/PR para Porto Seguro/BA, oportunidade em que revistaram o interior do veículo, bem como analisaram os pertences que os passageiros portavam.
+Consta que o paciente demonstrou bastante nervosismo, o que despertou a desconfiança dos policiais, sendo que João Vitor dizia que só levava consigo uma mochila de mão, todavia, em conferência junto ao motorista do ônibus, os agentes federais verificaram que o acusado havia despachado duas bagagens.
+Ato contínuo, verificadas as malas do paciente, os policiais encontraram cinquenta e sete porções da droga Skunk, pesando aproximadamente 14,520Kg, sendo que João Vitor admitiu ter recebido R$ 3.000,00 para realizar o transporte do entorpecente, da cidade de Ponta Porã/MS até Ipatinga/MG.
+Além disso, o paciente, em tese, trazia consigo, na mochila, quatro buchas de maconha.
+Ora, o crime de tráfico possui extrema gravidade, embora não tenha vítima determinada. Seu poder de disseminação facilita o uso de substâncias geradoras de dependência ou entorpecentes e acaba favorecendo a prática de outros crimes.
+Sendo o tráfico de drogas, hodiernamente, o crime de maior preocupação das políticas de segurança pública, existindo nos autos fortes indícios de autoria e estando comprovada a materialidade delitiva, a prisão preventiva, medida de exceção, se faz necessária para garantia da ordem e da saúde pública, mormente diante das circunstancias em que se deram o flagrante do paciente (tráfico interestadual de vultosa quantidade de droga), que evidenciam a destinação mercantil dos entorpecentes apreendidos e uma habitualidade na prática delitiva.
+Portanto, não se trata de manter o agente preso apenas em decorrência da gravidade abstrata do delito, mas de tratar com cautela os acusados de crimes responsáveis por consequências intensamente negativas na sociedade.
+Quanto à alegação de que a prisão afronta o princípio da proporcionalidade, tenho que ela não pode prevalecer. É que, ainda que remédio heróico constitucional, não é possível, em sede de habeas corpus, análise de uma provável reprimenda a ser aplicada, bem como o regime prisional a ser imposto e eventual possibilidade de concessão da substituição da pena, uma vez que elas demandam valoração probatória, o que não cabe na via estreita do writ.
+Da leitura do que consta dos autos, não percebi a existência de manifesto constrangimento ilegal passível de autorizar a pronta colocação do recorrente em liberdade, como pretendido, não havendo falar em ausência de razoabilidade da motivação, por considerar o modus operandi da conduta e a grande quantidade de maconha do tipo Skunk apreendida (mais de 14,5 kg), para justificar a prisão cautelar. Tudo a revelar a periculosidade in concreto do agente.
+Não foi outra a opinião do Subprocurador-Geral da República Nívio de Freitas Silva Filho, parecer com o qual estou de acordo e também adoto como razão de decidir (fls. 127/128).
+Ademais, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Enfim, na hipótese, a medida de índole excepcional da prisão preventiva está baseada em fundamentação concreta e em indícios suficientes de autoria. Há elementos vinculados à realidade capazes de demonstrar o periculum libertatis.
+Eventuais condições pessoais favoráveis do recorrente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TR ÁFICO INTERESTADUAL DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE DE ENTORPECENTE APREENDIDO (APROXIMADAMENTE 14,520 KG DE MACONHA TIPO SKUNK) E MODUS OPERANDI. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PARECER ACOLHIDO.
+Recurso improvido.
