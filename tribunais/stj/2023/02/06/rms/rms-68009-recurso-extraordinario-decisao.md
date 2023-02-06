@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JOÃO RIBEIRO DE ARAÚJO NETO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 409):
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LEI DE EFEITOS CONCRETOS. DECADÊNCIA DO DIREITO DE IMPETRAÇÃO. ART. 23 DA LEI 12.016/09. OCORRÊNCIA. PRECEDENTES.
+1. O posicionamento do Tribunal de origem está em consonância com a orientação firmada por este Superior Tribunal de Justiça no sentido de que, na hipótese de lei de efeitos concretos que modifica a situação jurídica subjacente, o prazo decadencial para a impetração do mandado de segurança tem início com a publicação da norma. Precedentes do STJ.
+2. Agravo interno não provido.
+O recorrente sustenta a violação dos arts. 5º, caput, XXXVI, LIV e LV, 37, XV, e 93, IX, da CF e aduz que haveria repercussão geral da matéria tratada.
+Afirma que (fl. 455):
+ ..  obteve o seu direito à redução da base de cálculo de contribuição previdenciária reconhecido administrativamente há muitos anos (Processo Administrativo n.º 13/001653/2006 - f. 17/47), possuindo todos os requisitos necessários para manter a concessão do benefício fiscal - aposentado e portador de moléstia grave/incapacitante.
+Argumenta que (fls. 455-456):
+ ..  a redução da base de cálculo de contribuição previdenciária do Recorrente, obtida há mais de 15 anos - 03/08/2006 (f. 48) - por preencher todos os requisitos necessários para tanto, não poderia ter sido preterido em decorrência de legislação superveniente (LC n.º 274/2020), eis que revestido pelo caráter imutável conferido ao ato jurídico perfeito.
+Considera que (fl. 458):
+ ..  ao se manter o decisum que reconheceu a ocorrência da decadência, violou-se, ainda, os artigos 5º, inciso XXXVI, e 37, inciso XV, ambos da CF/88, uma vez que, como dito, o direito líquido e certo do Recorrente encontra-se acobertado pelo instituto do ato jurídico perfeito, sendo inegável a redução salarial ocasionada pelo reconhecimento equivocado da decadência, com consequente manutenção do ato coator praticado pela Administração Pública.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 473-487.
+É o relatório.
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Na espécie, constata-se que foram declinados os motivos pelos quais se negou provimento ao agravo interno, valendo destacar o seguinte excerto (fl. 411):
+Cinge-se a controvérsia, na origem, de mandado de segurança impetrado contra ato praticado pelo Governador do Estado de Mato Grosso do Sul e pelo Diretor- Presidente da Agência de Previdência Social - AGEPREV, consubstanciado em revogação de benefício previdenciário pela LC 274/2020.
+O Tribunal de origem ao analisar a controvérsia observou que ocorreu a decadência para impetração do mandamus, tendo em vista que a norma modificadora é um ato único e de efeitos concretos, sendo o momento da publicação da norma o termo inicial para a contagem do prazo decadencial.
+Nesse passo, verifica-se que o posicionamento do Tribunal de origem está em consonância com a orientação firmada por este Superior Tribunal de Justiça no sentido de que, na hipótese de lei de efeitos concretos que modifica a situação jurídica subjacente, o prazo decadencial para a impetração do mandado de segurança tem início com a publicação da norma.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fl. 443):
+Observa-se, que a questão foi apreciada de forma clara, adequada e suficiente acerca do escoamento do prazo decadencial para a impetração do mandado de segurança, sendo certo que o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Por outro lado, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito , depende da aná lise dos arts. 19-A da Lei Complementar n. 274/2020 e 23 da Lei n. 12.016/2009, razão pela qual incide o Tema n. 660/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
