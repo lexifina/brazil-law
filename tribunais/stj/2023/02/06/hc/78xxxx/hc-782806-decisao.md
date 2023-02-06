@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 25):
+AGRAVO EM EXECUÇÃO PENAL - RECURSO MINISTERIAL - PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA - INOCORRÊNCIA - CAUSA INTERRUPTIVA DA PRESCRIÇÃO - PRÁTICA DE NOVOS DELITOS NO CURSO DO CUMPRIMENTO DA PENA - RECURSO PROVIDO.
+-O cometimento de novo crime no curso do cumprimento da pena, independentemente do trânsito em julgado, configura reincidência, razão pela qual é apta a caracterizar a interrupção da prescrição da pretensão executória.
+Consta dos autos que o acusado foi condenado à pena privativa de liberdade de 10 meses e 18 dias de detenção, a qual foi extinta pela prescrição da pretensão executória.
+Interposto agravo em execução pelo Ministério Público estadual, o Tribunal de origem deu-lhe provimento para afastar a extinção da punibilidade, ao fundamento de inocorrência da prescrição da pretensão executória, em razão da reincidência consistente na prática de novos delitos no curso da execução penal.
+No presente writ, aduz a defesa, em síntese, constrangimento ilegal, em razão do excesso de execução e do cumprimento de uma pena alcançada pela prescrição. A esse respeito, assevera que "não há dúvidas de que transcorrido o lapso prescricional entre o trânsito em julgado para o MP  11/10/2017  e o requerimento de declaração da extinção da punibilidade pela prescrição, formulado pela DPMG" (fl. 14).
+Sustenta, outrossim, a inocorrência de causas interruptivas da prescrição, assinalando que "a simples notícia de novas infrações penais não poderia interromper a prescrição, sendo necessário o trânsito em julgado dos respectivos delitos" (fl. 14).
+Requer, liminarmente e no mérito, a extinção da punibilidade pela prescrição da pretensão executória.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ ou pela denegação da ordem.
+O acórdão impugnado foi proferido nos seguintes termos (fls. 27/31):
+Conforme adiantado alhures, o Órgão Ministerial pugna pelo o não reconhecimento da extinção da punibilidade, ao argumento que houve a interrupção do prazo prescricional, em razão da reincidência consistente na prática de novos delitos no curso da execução penal (ordem n.º 04).
+Razão lhe assiste
+O sentenciado foi condenado a uma pena de 10 (dez) meses e 18 (dezoito) dias de detenção, em razão da condenação pela prática dos delitos previstos no art. 146, caput; art. 147, caput; art. 129, § 9º, todos do Código Penal (ordem n.º 11).
+Com efeito, cinge-se a controvérsia sobre a interrupção da prescrição da pretensão executória em razão do cometimento de novos delitos no curso da execução penal e a necessidade do trânsito em julgado para o reconhecimento da reincidência.
+Pois bem.
+Prefacialmente, o trânsito em julgado da condenação ora em questão se deu em 04/09/2017, iniciando-se, pois, o termo inicial da prescrição da pretensão executória (seq. 1.11 - SEEU).
+À vista disso, considerando condenação em pena inferior a 01 (um) ano, a prescrição da pretensão executória ocorrerá após o transcurso do lapso temporal de 03 (três) anos, nos moldes do art. 109, VI, do Código Penal.
+Contudo, nota-se que, durante o cumprimento da reprimenda, o apenado praticou supostos novos delitos, em 08/03/2019, 00/04/2019, e 25/02/2020, conforme colhe-se da CAC (ordem n.º 09) e FAC (ordem n.º 09).
+Nesse viés, o art. 117, VI, do Código Penal dispõe que a reincidência é causa interruptiva do prazo prescricional, o qual, quando da ocorrência daquela, reinicia-se a contagem. In verbis:
+ ..
+Com efeito, tem-se que para fins de reconhecimento da causa interruptiva da prescrição da pretensão executória pela reincidência, não se faz necessária a existência de sentença condenatória transitada em julgado do fato novo.
+Nesse norte, deve-se considerar o agente reincidente desde a prática de novo delito, ainda que o reconhecimento da condição da reincidência dependa de posterior condenação transitada em julgada, sendo certo que tal fato constituiria tão somente condição de validade da interrupção da prescrição.
+A propósito, já manifestou a Corte Cidadã:
+ ..
+Assim, tendo em vista que o sentenciado, após o trânsito em julgado da sentença condenatória, praticou, em tese, outros delitos, resultando na interrupção do prazo prescricional pela reincidência, não há que se falar na ocorrência da prescrição da pretensão executória.
+Portanto, tendo em vista que não houve o transcurso do prazo prescricional entre os marcos interruptivos da prescrição da pretensão executória, mostra-se inviável a declaração da extinção da punibilidade do sentenciado.
+Ambas as Turmas criminais desta Corte Superior entendem que a reincidência, nos termos do art. 117, VI, do Código Penal, interrompe o prazo da prescrição da pretensão executória do Estado, considerando-se como marco interruptivo a data em que cometido o novo crime, e não a do correspondente trânsito em julgado.
+Por outro lado, consoante acordado pela Sexta Turma no julgamento do REsp n. 1.956.133/DF, de relatoria da Ministra Laurita Vaz, DJe de 3/3/2022:
+" o fato de que a interrupção da prescrição ocorre na data da prática do novo crime, não autoriza a se ter como interrompido o prazo prescricional com a mera notícia da prática delitiva ou mesmo a propositura de ação penal, mas é necessário haver condenação definitiva. Destarte, o art. 117, inciso VI, do Código Penal é claro no sentido de que a reincidência é o marco interruptivo, sendo esta a prática de novo delito após o trânsito em julgado da primeira condenação criminal, segundo a dicção do art. 63 do mesmo Estatuto. E, diante do princípio da presunção de inocência, enquanto não houver sentença condenatória definitiva quanto ao novo delito, não se pode falar que houve reincidência.
+Nesse contexto, enquanto está em curso a ação penal em que se apura a prática do novo delito cuja condenação importará na caracterização da reincidência, mostra-se inviável discutir a ocorrência de prescrição da pretensão executória em relação a condenação anterior, quando a consumação do lapso depender da superveniência ou não de condenação definitiva pelo novo ilícito.
+Por ser vedada a prolação de decisão condicional, nos termos do art. 492, parágrafo único, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, somente quando houver o desfecho final da ação penal referente ao novo ilícito, é que se poderá analisar a prescrição da pretensão executória quando aos crimes anteriores.
+Portanto, mostrou-se correto o acórdão recorrido ao cassar a decisão que declarara a prescrição da pretensão executória, porque ainda estava em curso a ação penal referente ao novo ilícito quando, uma vez nela advindo condenação definitiva, não estará consumado o prazo prescricional, diante da sua interrupção na data em que praticado o referido crime".
+Da mesma forma com que decidido por este Sodalício no aresto acima citado, andou bem a Corte local ao cassar a decisão extintiva da punibilidade proferida pelo juízo de primeiro grau, pois somente após o trânsito em julgado das condenações referentes aos ilícitos cometidos no curso da execução é que se poderá analisar eventual interrupção do prazo prescricional da pretensão executória pela ocorrência da reincidência.
+De outro norte, como já visto, destoa da jurisprudência desse Tribunal Superior o entendimento adotado pela Corte local, no sentido de que "para fins de reconhecimento da causa interruptiva da prescrição da pretensão executória pela reincidência, não se faz necessária a existência de sentença condenatória transitada em julgado do fato novo".
+Ante o exposto, concedo parcialmente o habeas corpus, a fim de que somente após as condenações referentes aos novos ilícitos tornarem-se definitivas, as instâncias ordinárias analisem a eventual ocorrên cia ou não da prescrição da pretensão executória.
+Comunique-se.
+Publique-se.
+Intimem-se.
