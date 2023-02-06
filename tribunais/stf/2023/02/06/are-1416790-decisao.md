@@ -1,0 +1,47 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em desfavor de acórdão assim ementado:
+
+    “AGRAVO INTERNO. EXCEÇÃO DE SUSPEIÇÃO. DECISÃO QUE INDEFERIU O PEDIDO DE ANTECIPAÇÃO LIMINAR DOS EFEITOS DA TUTELA RECURSAL. RAZÕES DE INCONFORMISMO DIVORCIADAS DOS FUNDAMENTOS DO DECISUM. VIOLAÇÃO DO PRINCÍPIO DA DIALETICIDADE (ARTIGO 1.021, § 1º DO CÓDIGO DE PROCESSO CIVIL). RECURSO MANIFESTAMENTE INADMISSÍVEL E PROTELATÓRIO.
+
+    RECURSO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.” (pág. 1 do doc. eletrônico 10).
+
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação dos arts. 1º; 5º, XXXIV, a e b, XXXV, LXXIV, LXXVII; 6º da mesma Carta.
+
+    A pretensão recursal não merece acolhida.
+
+    Destaca-se, inicialmente, que os dispositivos constitucionais apontados como violados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Nesse sentido, cito o ARE 832.707-AgR/RJ, Relator Ministro Luiz Fux, cuja ementa segue transcrita:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. COBRANÇA DE ENERGIA ELÉTRICA. DEMANDA CONTRATADA. TARIFAÇÃO. PREQUESTIONAMENTO. ALEGAÇÃO TARDIA. INVIABILIDADE. 1. O prequestionamento da questão constitucional é requisito indispensável à admissão do recurso extraordinário. A Súmula 282 do STF dispõe, verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada. 2. A alegação tardia da matéria constitucional, só suscitada em sede de embargos de declaração, não supre o requisito do prequestionamento. Precedentes: ARE 693.333-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 19/9/2012, e AI 738.152-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8/11/2012. 3. In casu, o acórdão recorrido assentou: Agravo Inominado. Art. 557 do C.P.C. Obrigação de não Fazer c. c. Repetição e Indenização. Cobrança de energia elétrica. Tarifação por fator de demanda de potência (demanda contratada). Improcedência. 4. Agravo regimental DESPROVIDO.”
+
+    Além disso, divergir do entendimento firmado no acórdão recorrido demandaria o revolvimento do acervo fático-probatório dos autos, bem como da legislação infraconstitucional aplicável à espécie. Incide, no caso, as Súmulas 279 e 280/STF, o que inviabiliza o processamento do presente recurso. Nesse sentido:
+
+     “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AGENTE PENITENCIÁRIO. SUBSÍDIO. ADICIONAL DE INSALUBRIDADE. LEI ESTADUAL Nº 14.188/2012. 1. A presente causa foi decidida com base na análise de legislação infraconstitucional e dos fatos e prova constantes nos autos. Incidência das Súmulas 280 e 279/STF. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”(ARE 1.021.218-AgR/RS, Rel. Min. Edson Fachin).
+
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice das Súmulas 279 e 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.”(ARE 1.102.061-AgR/AL, Rel. Min. Rosa Weber).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. LEIS ESTADUAIS 5.247/1991 E 6.772/2009. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. LEI LOCAL. SÚMULA 280/STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. A análise sobre a controvérsia em relação à base de cálculo do adicional de insalubridade previsto em norma estadual, Leis 5.247/1991 e 6.772/2009, encontra óbice na Súmula 280 desta CORTE. 5. Não é possível analisar, nesta CORTE, a constitucionalidade do pagamento do adicional de insalubridade ao servidor público remunerado por subsídio, nas ações em que se discute apenas a base de cálculo do benefício pago pelo Estado em razão de previsão em norma estadual. 6. Agravo interno a que se nega provimento. Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.”(ARE 1.077.527-AgR/AL, Rel. Min. Alexandre de Moraes).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. LEGISLAÇÃO INFRACONSTITUCIONAL ESTADUAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 873.749-AgR-segundo/RS, Rel. Min. Cármen Lúcia).
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Adicional de insalubridade e periculosidade. 3. Alegação de violação ao princípio da legalidade. Infraconstitucional. Súmula 636. 4. Lei estadual n. 528/2009. Legislação local. Súmula 280. 5. Necessidade de reexame fático-probatório. Súmula 279. 6. Agravo regimental a que se nega provimento.”(ARE 815.479-AgR/RO, Rel. Min. Gilmar Mendes).
+
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Policial civil. Pagamento de horas extras. Legislação local. Ofensa reflexa. Precedentes.
+
+    1. Inadmissível, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280/STF
+
+    2. Agravo regimental não provido.”(ARE 923.251-AgR/MG, Rel. Min. Dias Toffoli).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 15.8.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO REMUNERADO POR SUBSÍDIO. RECEBIMENTO DE HORAS EXTRAS E ADICIONAL NOTURNO. EXAME DE LEGISLAÇÃO INFRA. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSIÇÃO DE MULTA. AGRAVO REGIMENTAL DESPROVIDO.
+
+    1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à possibilidade de pagamento ou não das horas extras e do adicional noturno para os servidores que recebam remuneração por subsídio, seria necessário o exame de legislação infra, além do reexame de de fatos e provas. Incidência da Súmula 279 do STF.
+
+    2. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, §4º, do CPC.”(RE 951.925-AgR/PE, Rel. Min. Edson Fachin).
+
+     Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 6 de fevereiro de 2023.
+
+Ministro Ricardo Lewandowski
+
+Relator
