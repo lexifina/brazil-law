@@ -1,0 +1,19 @@
+DECISÃO
+ERIVALO DA SILVA LOPES opõe embargos declaratórios em face da decisão de fls. 62-66, em que concedi em parte a ordem.
+A defesa aponta contradição e omissão no decisum, no ponto relacionado à agravante da reincidência. Aduz que "nos autos há comprovação da primariedade do Paciente, conforme certidão de objeto e pé de fl. 10, sendo reconhecido que não há condenação anterior, transitada em julgado, por trafico de drogas" (fl. 71).
+Quanto à condenação mencionada no acórdão proferido pela Corte estadual (sofrida no Processo n. 0000039-84.2006.8.17.0180), transcreve decisão prolatada naqueles autos, em 21/11/2013, e apresenta o seguinte raciocínio (fl. 72): "Em rápida analise e calculo rápido, vemos que a prisão se deu em 15/06/2007. Sentenciado e condenado a 04 anos, 05 meses e 10 dias. Logo, vemos que o término da sentença se deu em 24/11/2011. Assim, não resta nenhuma duvida quanto obrigação da aplicação do que determina o o art. 64 do Código Penal que determina que decorridos cinco anos do cumprimento da pena, da extinção da pena ou do término da suspensão, será considerado o réu novamente primário."
+Postula seja suprido o vício apontado, com a atribuição de efeitos infringentes ao decisum, para afastar a agravante da reincidência, aplicar a minorante do tráfico de drogas e readequar a pena imposta ao réu.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, não identifico os vícios suscitados pela defesa.
+Com efeito, a embargada decisão foi clara ao afirmar que o pleito de afastamento da reincidência "não foi sequer suscitado perante a Corte estadual, o que inviabiliza o exame do tema diretamente nestes autos, por configurar supressão de instância" (fl. 63, destaques no original).
+Além disso, destacou-se que, apesar de a condenação por delito de tráfico de drogas não haver transitado em julgado - como fez prova a defesa -, "o Tribunal a quo menciona registro pretérito referente a delito contra o patrimônio, e não há prova nestes autos sobre eventual pendência de recurso quanto a esse feito", o que levou à conclusão de que, "por deficiência na instrução dos autos, não é possível verificar a ocorrência de flagrante ilegalidade no ponto, a justificar a concessão de habeas corpus de ofício" (ambos à fl. 63, destaques no original).
+Nos aclaratórios, conquanto a defesa transcreva decisão proferida nos autos do feito mencionado para configurar a reincidência do réu, deixa de apresentar documentos comprobatórios do trânsito em julgado daquela condenação e da data de extinção da pena aplicada naqueles autos, o que inviabiliza o exame da alegada superação do período depurador previsto no art. 64, I, do Código Penal.
+Ademais, a defesa não havia sustentado, na inicial do writ, o afastamento da reincidência por já estar superado o período de 5 anos desde a extinção da pena de condenação anteriormente sofrida pelo réu. Logo, a apresentação do tema sob esse enfoque, em embargos de declaração, configura indevida inovação recursal, que não admite conhecimento, de acordo com a jurisprudência desta Corte Superior. Nesse sentido:
+ ..
+3. A suscitada ilegalidade da busca pessoal não foi aventada nas razões do recurso especial, tratando-se, pois, de nítida inovação recursal, vedada em sede de agravo regimental ou de embargos de declaração.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.176.309/SE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/12/2022, grifei)
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
