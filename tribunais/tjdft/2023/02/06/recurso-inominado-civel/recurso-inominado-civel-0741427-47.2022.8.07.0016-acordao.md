@@ -1,0 +1,54 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0741427-47.2022.8.07.0016RECORRENTE(S)MARCELO SOUZA DOS SANTOSRECORRIDO(S)DISTRITO FEDERALRelatorJuiz ARNALDO CORRÊA SILVA Acórdão Nº1660350
+
+EMENTA
+
+ JUIZADO ESPECIAL DE FAZENDA PÚBLICA. RECURSO INOMINADO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. SENTENÇA ILÍQUIDA. NULIDADE DA SENTENÇA. PRELIMINAR ACOLHIDA. APLICAÇÃO DA TEORIA DA CAUSA MADURA. DIREITO À SAÚDE.  ENDOSCOPIA DIGESTIVA ALTA E ELETROCARDIOGRAMA. CLASSIFICAÇÃO AMARELA/URGENTE. FIXAÇÃO DE PRAZO PARA REALIZAÇÃO CIRURGIA. ENUNCIADO 93 DO CNJ. SENTENÇA ANULADA. RECURSO CONHECIDO E PROVIDO.
+
+1. Trata-se de ação cominatória na qual a parte autora busca provimento jurisdicional que determine ao Distrito Federal o fornecimento dos exames de Endoscopia Digestiva Alta e Eletrocardiograma. A sentença julgou parcialmente procedente o pedido, determinando ao réu que providencie os exames requeridos, nos termos da prescrição médica, na rede pública de saúde do Distrito Federal ou, na sua falta, que forneça a cobertura em algum hospital da rede particular, observados os critérios de prioridade clínica do sistema de regulação.
+
+2. A parte autora apresentou recurso inominado regular e tempestivo. As contrarrazões não foram apresentadas. O Ministério Público oficiou pela declaração de nulidade da sentença, em razão de sua iliquidez, bem como pela aplicação da causa madura para que se dê provimento do recurso, julgando procedente o pedido do autor, fixando-se para o cumprimento da obrigação.
+
+3. Em seu recurso, o autor alegou que os exames foram solicitados por seu médico em abril de 2022, em caráter de urgência, por causa das dores intensas que lhe vem acometendo e que, apesar da urgência, aguarda os exames até o presente momento. Afirmou que está com quadro de gastrite não especificada, necessitando do exame para avaliação do quadro clínico e que, com auxílio da Defensoria Pública, oficiou as instituições da rede pública de saúde, sendo-lhe foi informado que há fila de espera para realização dos exames, porém não há previsão de data para que possa realizá-los. Arguiu que, conforme o enunciado n. 93 das Jornadas de Direito da Saúde do CNJ, considera-se excessiva a espera do paciente por tempo superior a 100 dias para consultas e exames, devendo ser fixado prazo razoável para sua realização, a fim de que possa ter laudo conclusivo sobre sua enfermidade e iniciar tratamento.
+
+4. Preliminar de nulidade. Conforme observado em diversos recursos inominados, os juízos a quo estão determinando, na sentença, a prestação do serviço público de saúde conforme os critérios de regulação, ficando a execução do título judicial sem possibilidade de concretização. Importa relembrar que nos juizados especiais é vedada a prolação de sentença ilíquida. Portanto, forçoso reconhecer a inexequibilidade da sentença cognitiva, pois não se fixou parâmetros adequados para sua liquidação/execução. Preliminar de nulidade de sentença acolhida.
+
+5. Constatando-se que o processo está em condições de imediato julgamento do mérito, deve ser aplicada a teoria da causa madura, nos termos do artigo 1.013, § 3º, inciso IV, do Código de Processo Civil.
+
+6. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas, que visem à redução do risco de doença e de outros agravos, mediante o acesso universal igualitário às ações de saúde e serviços para sua promoção, proteção e recuperação. Em se tratando de cidadão hipossuficiente, é dever do Estado garantir o tratamento adequado para preservação da saúde e qualidade de vida.
+
+7. Ainda, consoante o Enunciado nº 93 do Conselho Nacional de Justiça: "Nas demandas de usuários do Sistema Único de Saúde - SUS por acesso a ações e serviços de saúde eletivos previstos nas políticas públicas, considera-se excessiva a espera do paciente por tempo superior a 100 (cem) dias para consultas e exames, e de 180 (cento e oitenta) dias para cirurgias e tratamentos para as atividades preventivas, sem prejuízo dos serviços assistenciais”.
+
+8. No caso concreto, a parte autora aguarda há mais de 100 (cem dias) para realização da endoscopia digestiva alta e para o eletrocardiograma, requeridos em caráter de urgência em razão das dores que o autor apresenta, bem como para concluir o diagnóstico da doença que lhe acomete e iniciar de forma efetiva o tratamento. Dessa forma, comprovada a inércia da Administração Pública em prestar o atendimento necessário e classificado como urgente, o recurso deve ser provido.
+
+9. Nesse sentido: “ JUIZADO ESPECIAL DE FAZENDA PÚBLICA. DIREITO À SAÚDE. CONSTITUCIONAL. SAÚDE. DESCOMPRESSÃO DE ÓRBITA. CLASSIFICAÇÃO AMARELA/URGENTE. FIXAÇÃO DE PRAZO PARA REALIZAÇÃO CIRURGIA. ENUNCIADO 93 DO CNJ. RECURSO CONHECIDO E PROVIDO. 1. A requerente interpôs recurso em face da sentença que, a despeito de "imputar ao ente federado a obrigação de fornecer à autora procedimento cirúrgico CE - DESCOMPRESSÃO DE ÓRBITA", consignou que deve ser respeitada a fila de espera e quadros clínicos mais graves, deixando de fixar prazo para a realização do procedimento. Afirma que o provimento jurisdicional se mostra inócuo, porquanto não é possível exigir o seu cumprimento, notadamente por ter sido inserida no cadastro do SISREG III em 21/09/2021 com a classificação Amarela/urgente. Pede o provimento do pedido inicial para realização da cirurgia imediatamente. O Ministério Público manifestou-se favorável à fixação de prazo para realização da cirurgia, tendo em vista que a sentença não está revestida de exequibilidade. 2. Recurso próprio, tempestivo e dispensado de preparo tendo em vista que a parte está patrocinada pela Defensoria Pública, fazendo jus ao benefício da gratuidade de justiça. Contrarrazões id 39222844, pelo improvimento do recurso. 3. O escopo recursal reporta-se, exclusivamente à necessidade de fixação de prazo para a realização do procedimento cirúrgico denominado CE - DESCOMPRESSÃO DE ÓRBITA. Observa-se que a sentença deixou de estabelecer o prazo para cumprimento da obrigação de fazer, de forma que fossem obedecidos os critérios de prioridade clínica definidos pela Central de Regulação da Secretaria de Saúde. 4. No caso sob análise, a recorrente é portadora da Doença de Graves, que é enfermidade autoimune que provoca hiperatividade na glândula tireóide, e atinge, também, os olhos e a região periocular com reações inflamatórias. As consequências dessas inflamações causam o deslocamento ocular, já que há aumento da gordura, tecidos e músculos na região. Dentre os sintomas importantes observados nos pacientes acometidos pela enfermidade, tem-se ardência nos olhos e possível perda da visão. No caso da autora, pelo documento id 39222812, observa-se que já houve a perda total da visão no olho direito, e significativa no esquerdo, além de relatar fortes dores de cabeça e nos olhos. 5. O artigo 196 da Constituição Federal estabelece que a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação. Por sua vez, o artigo 204 da Lei Orgânica do Distrito Federal, de igual modo, dispõe que a saúde é direito de todos e dever do Estado, assegurado mediante políticas sociais, econômicas e ambientais que visem ao bem-estar físico, mental e social do indivíduo e da coletividade, a redução do risco de doenças e outros agravos, bem como ao acesso universal e igualitário às ações e serviços de saúde, para sua promoção, prevenção, recuperação e reabilitação. 6. Consoante o Enunciado nº 93 do Conselho Nacional de Justiça: "Nas demandas de usuários do Sistema Único de Saúde - SUS por acesso a ações e serviços de saúde eletivos previstos nas políticas públicas, considera-se excessiva a espera do paciente por tempo superior a 100 (cem) dias para consultas e exames, e de 180 (cento e oitenta) dias para cirurgias e tratamentos." Em cotejo a situação da paciente, nota-se a inércia da Administração Pública em prestar o atendimento necessário e classificado como urgente, porquanto a recorrente foi inscrita no cadastro do SISREG III em 21/09/2021 (há mais de um ano), sem que até o momento tenha obtido o tratamento cirúrgico necessário. Nesse descortino, impõe-se o provimento do recurso interposto, para fixar o prazo para cumprimento da obrigação. Nesse aspecto, em observância ao princípio da razoabilidade, e considerando-se as situações de emergência relatadas pelo recorrido, e priorizadas em relação à recorrente, acato a cota ministerial e fixo o prazo de 90 (noventa) dias para realização da cirurgia. 6. Recurso CONHECIDO E PROVIDO, para determinar que a obrigação de fazer estipulada pelo juízo de origem seja cumprida em noventa dias corridos a contar a partir do trânsito em julgado do presente acórdão, mantendo-se os demais termos da sentença. 7.Sem condenação em honorários advocatícios, nos termos do artigo 55 da Lei n. 9.099/95. 8. A súmula de julgamento servirá de acórdão, a teor do artigo 46 da Lei n. 9.099/95. (Acórdão 1631960, 07344114220228070016, Relator: MARILIA DE AVILA E SILVA SAMPAIO, Segunda Turma Recursal, data de julgamento: 24/10/2022, publicado no PJe: 3/11/2022. Pág.: Sem Página Cadastrada.)”.
+
+10.  Recurso CONHECIDO E PROVIDO anular em parte a sentença e reformá-la para impor ao réu que cumpra a obrigação de fazer, fixada no juízo de origem, no  prazo de 30 (trinta) dias úteis a contar do trânsito em julgado do presente acórdão, mantendo-se os demais termos da sentença.
+
+11. Sem em custas e em honorários advocatícios, nos termos do artigo 55 da Lei n. 9.099/95.
+
+12. A súmula de julgamento servirá de acórdão, a teor do artigo 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNALDO CORRÊA SILVA - Relator, MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Fevereiro de 2023
+
+Juiz ARNALDO CORRÊA SILVARelator
+
+RELATÓRIO
+
+DISPENSADO O RELATÓRIO, NA FORMA DO ARTIGO 46 DA LEI 9.099/95.
+
+VOTOS
+
+O Senhor Juiz ARNALDO CORRÊA SILVA - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal Com o relatorA Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E PROVIDO. UNÂNIME
