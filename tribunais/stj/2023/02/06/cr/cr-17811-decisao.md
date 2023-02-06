@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória na qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Oeste - Juízo Local Criminal de Cascais - Juiz 2) solicita a citação de COSMO DO VALE LIMA para que tome ciência da sentença estrangeira acostada às fls. 12-17 e efetue o pagamento da pena de 75 dias de multa, às taxas diárias de $6,00 Euros (total de $450,00 Euros), com a advertência de que em caso de inadimplemento poderá ser determinado o cumprimento de prisão subsidiária.
+Concedido o exequatur (fls. 40/42), foram os autos remetidos à Seção Judiciária do Estado de Minas Gerais. O juízo federal noticiou o cumprimento da comissão e acostou aos autos certidão exarada pelo oficial de justiça, nestes termos (fls. 81):
+Certifico que, em cumprimento do presente mandado, dirigi-me ao endereço indicado no dia 12/11/2022, às 10:46 h., onde CITEI E INTIMEI COSMO DO VALE LIMA, lendo-lhe o mandado e entregando-lhe a contrafé, tendo o mesmo exarado o seu ciente. Assim, devolvo o presente mandado à consideração superior, ficando a aguardar novas determinações.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
