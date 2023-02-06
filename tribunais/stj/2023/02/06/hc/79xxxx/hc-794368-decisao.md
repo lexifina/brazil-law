@@ -1,0 +1,51 @@
+DECISÃO
+SUZANA BEATRIZ VIEIRA NERES alega sofrer coação ilegal pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+Nesta Corte, sustenta a defesa que o Juízo monocrático decretou a custódia preventiva da ora paciente e da coautuada JESSICA SOUSA CORREIA, sob os mesmos motivos, pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006. Relata que o RHC n. 172.579/DF foi provido, para substituir a constrição processual de Jessica pela segregação domiciliar. Suscita a primariedade de Suzana e o fato de que é imprescindível aos cuidados do filho, de 8 anos de idade.
+Requer, liminarmente e no mérito, a extensão do benefício concedido à corré Jessica Sousa Correia e a expedição de alvará de soltura à paciente ou a fixação de providências alternativas.
+Opinou o Parquet Federal pela concessão da ordem.
+Decido.
+Expõem os autos que a Magistrada de primeiro grau converteu em prisão preventiva os flagrantes da ora paciente, da coautuada Jessica Sousa Correia e de outros investigados, in verbis (fls. 207-211):
+Narra a autoridade policial que o modo de agir do grupo consiste em utilizar veículos alugados ou de procedência ilícita para transporte de drogas ou até como parte do pagamento pelo entorpecente.
+ ..
+O grupo demonstra uma certa especialidade, cada membro tem uma função definida, e o modo de agir indica que o ato não é isolado na vida dos autuados. Há até uma troca na placa de um dos veículos na estrada e um veículo utilizado como "batedor". Caso colocados em liberdade, certamente irão se envolver em situações semelhantes.
+Ressalte-se que as filmagens anexadas aos autos demonstram que há participação de todos os autuados em toda a dinâmica envolvendo o transporte do entorpecente.
+Ademais, a quantidade apreendida é muito grande. Supera, e muito, a usualmente encontrada para o tipo de delito. Foram apreendidas diversas qualidades de entorpecentes, de alto valor comercial, como "Maconha Gourmet", Skank, haxixe marroquino. São mais de 20 quilos de drogas variadas.
+Tenho, portanto, que está presente a gravidade concreta do delito, a extrapolar o inerente ao tipo penal.
+ ..
+Embora as autuadas Jéssica e Suzana sejam primárias, são apontadas como integrantes do núcleo financeiro. Na residência das duas foram encontradas 04 (quatro) balanças de precisão, papel filme, R$ 957,00, possíveis identidades falsas, um tablete de maconha e anotações da contabilidade financeira do grupo, com citação ao autuado Willians. A residência utilizada por Jéssica é apontada como ponto de venda de drogas.
+ ..
+Nesse cenário de gravidade em concreto dos fatos em apuração e de reiteração criminosa,  ..  a  concessão de liberdade provisória com medidas diversas da prisão não é recomendável, ante a necessidade de se resguardar a ordem pública da prática de novas infrações penais.
+Por fim, não foram verificadas nenhuma das hipóteses do artigo 318 do CPP para fundamentar a prisão domiciliar do autuado (gravidez ou imprescindibilidade aos cuidados de filhos menores), especialmente porque essa conversão exige prova idônea (ausente, ao menos por ora, neste caderno processual).
+ ..
+Na situação descrita nos autos, as autuadas foram surpreendidas como membros de organizado grupo destinado ao tráfico interestadual de substância entorpecente. Há relatos no sentido de que a autuada Jéssica pratica o comércio de entorpecentes dentro da própria residência. Por razões óbvias, é ineficaz o deferimento da prisão domiciliar.
+Além disso, os elementos de convicção colhidos indicam que o fato de serem genitoras ou genitores de crianças menores de 12 anos não foi um obstáculo para coibir a prática criminosa, inclusive com realização da traficância dentro da própria casa. Saliento que as autuadas passaram cerca de duas semanas fora do Distrito Federal, ocasião em que não foram indispensáveis para os cuidados com os filhos.
+ ..
+Assim, acolho a representação da autoridade policial e o parecer do Ministério Público, CONVERTO EM PREVENTIVA a prisão em flagrante de  ..  JESSICA SOUSA CORREIA;  ..  SUZANA BEATRIZ VIEIRA NERES  .. , com fundamento nos artigos 310, II, 312 e 313, todos do Código de Processo Penal.
+Este foi o decisum proferido nos autos do RHC n. 172.579/DF, em favor de Jessica Sousa Correia (DJe 24/11/2022; fls. 11-14):
+A significativa modificação do Código de Processo Penal determinada pelas Leis n. 13.257/2016 e 13.769/2018 garante a substituição da prisão preventiva pela domiciliar, em favor de mães de crianças com menos de 12 anos de idade (arts. 318, V, e 318-A, do CPP).
+ ..  aos ditames da orientação deste Superior Tribunal, noto que a alteração legislativa se aplica ao excepcional caso em comento.
+Segundo narram os autos, a agente é primária, portadora de cardiopatia e mãe de criança com 4 anos de idade, que depende unicamente dos seus cuidados e sustento, sobretudo porque o pai do infante está encarcerado e os avós residem em outro Estado da Federação. As condutas imputadas à investigada não envolvem violência ou grave ameaça contra pessoa, sequer foram praticadas contra seu filho, tampouco deram ensejo, ao menos por ora, à instauração de ação penal.
+Dessarte, muito embora as circunstâncias referidas pelas instâncias ordinárias revelem a imperiosidade de algum acautelamento da ordem pública, compreendo que tais fundamentos não são bastantes, em juízo de proporcionalidade, para lastrear a cautela pessoal mais rigorosa da agente, diante da ponderação dos interesses envolvidos.
+ ..
+À vista do exposto, dou provimento ao recurso, para substituir a segregação preventiva da recorrente pela domiciliar, se por outro motivo não estiver presa  .. .
+Em consulta ao sítio eletrônico do Tribunal a quo, verificou o gabinete que, na Ação Penal n. 0732578-34.2022.8.07.0001, originária deste mandamus, há audiência de instrução designada para o dia 10/2/2023. Ainda constatou o gabinete que se arquivou, em 26/1/2023, o Termo Circunstanciado n. 0719702-63.2021.8.07.0007, lavrado em desfavor da ora paciente, por falta de condição de procedibilidade, nos termos do art. 395, II, do CPP.
+Feitos esses registros, passo ao exame do writ.
+Não vislumbro, no decreto prisional, distinção entre as participações das rés, na prática delituosa. Tampouco identifico, na decisão que deu provimento ao RHC n. 172.579/DF, fatores de caráter pessoal que impeçam a extensão do proveito à paciente.
+Ambas as denunciadas são primárias, imprescindíveis aos cuidados dos filhos, menores de 12 anos, não exercem papel de liderança, são acusadas de crimes não violentos, não praticados contra as crianças.
+A linha das Cortes Superiores sempre foi a de prestigiar a excepcionalidade da custódia ante tempus, principalmente às presas primárias e não violentas.
+Ademais, a significativa modificação do Código de Processo Penal determinada pelas Leis n. 13.257/2016 e 13.769/2018 garante a substituição da prisão preventiva pela domiciliar, em favor de gestantes ou mães de crianças com até 12 anos de idade (arts. 318, III e V, e 318-A, do CPP).
+Também se firmou, no âmbito deste Superior Tribunal, que o exercício do tráfico de drogas e/ou da associação para o comércio ilícito, por si só, não serve de empecilho à concessão do cárcere domiciliar.
+Trata-se de "Cuidados com a mulher presa que se direcionam não só a ela, mas igualmente aos seus filhos, os quais sofrem injustamente as consequências da prisão, em flagrante contrariedade ao art. 227 da Constituição" (STF, HC Coletivo n. 143.641/SP, Rel. Ministro Ricardo Lewandowski, 2ª T., DJe 9/10/2018).
+Ainda ressalto a orientação desta Corte no sentido de que a "imprescindibilidade dos cuidados maternos" às crianças menores de 12 anos é "legalmente presumida" (AgRg no HC n. 731.648/SC, Rel. para acórdão Ministro João Otávio de Noronha, 5ª T., DJe 23/6/2022).
+Apontou-se, tanto no RHC n. 172.579/DF quanto na hipótese presente, a vulnerabilidade dos infantes, porquanto as rés são indicadas como as únicas responsáveis pelas crianças. A propósito, o genitor do filho da coacusada Jessica "está encarcerado e os avós residem em outro Estado da Federação" (fl. 11). Segundo o impetrante, o menor retratado na petição inicial depende tão só de Suzana Beatriz Vieira Neres, "uma vez que ela é mãe solteira" (fl. 5).
+Não foi outro o teor do parecer ministerial, conforme o qual "há de se reconhecer a similitude plena da situação fático-processual entre a corré e a paciente,  ..  presas em flagrante nas mesmas condições de tempo e lugar, sendo-lhes imputado s os mesmos delitos" (fls. 404-405).
+Nesses termos:
+ ..  1. A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado.
+2. Caso em que ambas as acusadas foram presas na mesma ocasião por conduta semelhante, tendo a prisão em flagrante sido convertida em preventiva por meio de mesma decisão, e ambas tendo comprovado serem mães de crianças menores de 12 anos de idade, atraindo, portanto, ao caso, a incidência do enunciado nº 318, inciso V do Código de Processo Penal.
+ ..
+4. Evidenciada a identidade de situação entre a paciente e a ora requerente, deve ser deferido o pedido de extensão.
+5. Pe dido deferido para substituir a prisão preventiva pela domiciliar, sem prejuízo da fixação de outras medidas cautelares, a critério do Juízo a quo.
+(PExt no HC n. 403.473/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 2/4/2018.)
+À vista do exposto, com amparo no art. 580 do Código de Processo Penal, concedo a ordem, a fim de estender à Suzana Beatriz Vieira Neres o benefício concedido à Jessica Sousa Correia, nos autos do RHC n. 172.579/DF, relativamente à Ação Penal n. 0732578-34.2022.8.07.0001, e determinar a substituição da prisão preventiva da paciente por custódia domiciliar, se por outro motivo não estiver presa, com a permissão para que saia da residência para trabalhar, para compromissos médicos e eventuais necessidades inarredáveis - sem prejuízo da fixação de medidas previstas no art. 319 do CPP, que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação do cárcere processual, em caso de violação das providências alternativas ou se sobrevier situação que configure a sua exigência.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
