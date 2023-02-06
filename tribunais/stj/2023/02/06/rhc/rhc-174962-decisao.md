@@ -1,0 +1,35 @@
+DECISÃO
+ANDERSON SOARES DOS REIS afirma sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.22.215588-9/000.
+Nesta Corte, a defesa postula a revogação de prisão preventiva do réu, sob alegação de excesso de prazo para o encerramento do feito, uma vez que "o processo originário está concluso para sentença desde março de 2022" (fl. 118).
+Decido.
+Extrai-se dos autos que o ora recorrente teve sua prisão preventiva decretada, juntamente com outros dois investigados, em 24/11/2021, pela suposta prática de crime de tráfico de drogas.
+Posteriormente, a defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem. O acórdão proferido na oportunidade consignou que (fls. 102-103, grifei):
+No caso "sub judice", a parte impetrante questiona a manutenção do mandado de prisão preventiva do paciente expedido pela prática, em tese, dos crimes previstos no artigo 33, caput, c/c artigo 35, da Lei Federal nº 11.343/2006, sustentando que o processo está concluso para sentença desde o mês de março de 2022, sem que sequer tenha dado causa a morosidade jurisdicional.
+Analisando os autos, verifico que a prisão em flagrante do paciente, ocorrida no dia 19/10/2021, foi convertida em prisão temporária no dia 20/10/2021, mas, posteriormente, o paciente foi colocado em liberdade no dia 19/11/2021.
+Em 24/10/2021 foi decretada a prisão preventiva do paciente, expedindo-se o mandado de prisão em seu desfavor que, frise-se, que até a presente data não foi cumprido.
+A denúncia foi recebida no dia 11/01/2022 e a audiência de instrução e julgamento realizada no dia 14/02/2022. Ato contínuo, as partes apresentaram alegações finais e o processo foi concluso para julgamento no dia 14/03/2022.
+Em uma análise rápida dos autos, poderíamos ser levados a crer que o alegado excesso de prazo ventilado pelo paciente realmente estaria configurado. Contudo, deve-se ressaltar que o excesso de prazo não é decorrente de mera soma aritmética, sendo imperiosa, em certas ocasiões, uma maior dilação do prazo em virtude das particularidades de cada caso concreto.
+Dessa forma, é admissível que ocorra uma tolerância com os prazos, devendo a contagem ser realizada de forma global, atendendo- se, principalmente, ao critério de razoabilidade.
+Nesse sentido, a alegação de excesso de prazo na formação da culpa, deve ser examinada caso a caso, atendidas às peculiaridades de cada um deles, não se podendo tarifar genericamente o lapso temporal que caracteriza excesso que configura constrangimento à liberdade de ir e vir do acusado.
+No entanto, no caso em apreço, verifica-se no dia 28/03/2022, em razão de decisão do Superior Tribunal de Justiça, o julgamento dos autos foi convertido em diligência, sendo determinado o recolhimento do mandado de prisão expedido em desfavor do corréu Nilton, também acusado no processo originário.
+No dia 26/04/2022, novamente, o julgamento foi convertido em diligência para fins de análise do requerimento do corréu Leonardo, que pleiteou para si a extensão do benefício de revogação do decreto prisional que foi concedido ao corréu Nilton. Posteriormente, os autos voltaram conclusos para julgamento no dia 02/05/2022.
+Pois bem. Verifica-se que o processo originário é revestido de complexidade, em razão da pluralidade de acusados, haja vista que a denúncia foi oferecida contra 03 (três) indivíduos, bem como da necessidade de realização de diligências, conforme mencionado.
+Além disso, verifico que o processo ainda comporta uma minuciosa análise participativa do paciente, responsável, "em tese", pelo crime de tráfico de drogas, haja vista que o acusado trazia consigo cerca de 5kg (cinco quilogramas) de cocaína, para fins de traficância.
+Ressalto, ainda, o aumento da criminalidade que vem assolando as cidades mineiras e as Varas Criminais do Poder Judiciário, circunstâncias estas que não podem ser desconsideradas na avaliação dos prazos, mormente quando o crime em apreço seja dotado de extrema censurabilidade.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que "a aferição de excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal, não podendo decorrer de análise puramente matemática, devendo ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar o curso da ação penal" (AgRg no RHC n. 152.530/BA, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 3/11/2021, grifei).
+Deveras: "Para a caracterização do excesso de prazo, a demora excessiva deve estar vinculada à desídia do Poder Público, em decorrência, por exemplo, de eventual procedimento omissivo do magistrado ou da acusação" (AgRg no REsp n. 1953439/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 25/10/2021).
+O Supremo Tribunal Federal também consolidou o posicionamento de que "a demora na conclusão da instrução criminal, como circunstância apta a ensejar constrangimento ilegal, somente se dá em hipóteses excepcionais, nas quais a mora seja decorrência de: (i) evidente desídia do órgão judicial; (ii) exclusiva atuação da parte acusadora; ou (iii) outra situação incompatível com o princípio da razoável duração do processo" (STF, HC 177295, AgR, Relator(a): Ricardo Lewandowski, 2ª T., DJe 6/12/2019).
+Na hipótese, observo que o paciente encontra-se foragido desde 24/11/2021, data da decretação de sua prisão preventiva, visto que não foi localizado a partir de tal data.
+O fato de estar o acusado foragido, de acordo com a jurisprudência desta Corte Superior, impede o reconhecimento da ilegalidade suscitada. A propósito:
+ ..
+2. É entendimento pacificado no STJ que a alegação de excesso de prazo fica superada se estiver o Paciente foragido.
+3. A permanência dos motivos que justificaram o decreto prisional, dentre esses a gravidade concreta do delito, o risco de reiteração delitiva e a necessidade de garantia da aplicação da lei penal, justificam a negativa ao direito de recorrer em liberdade e a manutenção da custódia cautelar.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 626.530/CE, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 13/8/2021, destaquei)
+ ..
+7. Segundo a jurisprudência do Superior Tribunal de Justiça, não há reconhecimento de excesso de prazo da custódia cautelar quando o Acusado encontra-se foragido, o que se verifica na hipótese. Além do mais, constata-se que o processo tramita dentro dos limites do razoável, em razão da complexidade da causa - pluralidade de réus (84 acusados) -, aliada à ausência de desídia do Juízo processante, que desmembrou o feito em relação à Recorrente e já designou data para a realização da audiência de instrução e julgamento.
+8. Recurso ordinário em habeas corpus parcialmente conhecido e, nessa parte, desprovido.
+(RHC n. 137.052/RJ, Rel. Ministra Laurita Vaz, 6ª T., DJe 2/12/2020, grifei)
+Diante dessas circunstâncias, não constato flagrante ilegalidade na espécie.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
