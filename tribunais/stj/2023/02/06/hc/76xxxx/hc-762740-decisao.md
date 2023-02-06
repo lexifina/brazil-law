@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 439):
+CORRUPÇÃO ATIVA - ABSOLVIÇÃO - IMPOSSIBILIDADE -VANTAGEM OFERECIDA AOS POLICIAIS. 1. A oferta de arma de fogo a agentes públicos configura a vantagem indevida, elementar do tipo de corrupção ativa.
+V. V. P: APEL AÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES E PORTE DE ARMA DE FOGO - ABSOLVIÇÃO - IMPROCEDÊNCIA -AUTORIA E MATERIALIDADE SUFICIENTEMENTE DELINEADAS -CONJUNTO PROBATÓRIO ROBUSTO E COESO -CONDENAÇÃO MANTIDA - ART. 333 DO CP - AUSÊNCIA DE OFERTADE "VANTAGEM ILÍCITA" AOS POLICIAIS - ABSOLVIÇÃO DECRETADA.
+Consta dos autos que o paciente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, art. 16, §1º, IV da Lei 10.826/03 e art. 333 do Código Penal, à pena de 10 anos de reclusão e pagamento de 520 dias-multa, em regime inicial fechado.
+Sustenta a Defesa que o paciente preenche os requisitos para a aplicação da causa especial de diminuição de pena prevista no §4º do art. 33 da Lei n. 11.343/2006.
+Alega, também, que é indevida a condenação do paciente pela prática do crime de corrupção ativa, uma vez que "o réu não ofereceu ou prometeu qualquer "vantagem indevida" aos policiais da guarnição que o prenderam em flagrante, pois entregar arma de fogo para os agentes públicos não configura qualquer "vantagem indevida", mesmo porque a apreensão de tal bem não implicaria qualquer benefício (muito menos ilegal) para os policiais. "(fl. 9).
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja aplicado o redutor previsto no art. 33, §4º, da Lei n. 11.343/2006, em seu patamar máximo (2/3), bem como estabelecido o regime aberto, devendo ser expedido o alvará de soltura e que seja o paciente absolvido da prática do delito descrito no art. 333 do Código Penal.
+As informações foram prestadas e o Ministério Público manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+No que se refere à autoria e materialidade do crime de corrupção ativa, consta do acórdão recorrido (fls. 451/453):
+Inicialmente, registro que acompanho o voto proferido pela em. Relatora quando mantém a condenação do réu Ítalo pelo crime de tráfico de drogas e porte ilegal de arma de fogo, porquanto devidamente delineadas nos autos a materialidade e autoria delitivas.
+Lado outro, peço vênia ao voto condutor para dele divergir quando absolve o réu do crime de corrupção ativa previsto no art. 333 do CP, ao fundamento de que não restou configurada a elementar do tipo penal "vantagem indevida".
+ ..
+Para a caracterização do referido tipo penal não se exige resultado naturalístico, consistente na ocorrência da efetiva prática, omissão ou retardamento do ato de ofício por parte do funcionário público, por se tratar de delito formal, que se consuma no exato momento em que o agente oferece ou promete vantagem indevida a funcionário público, ainda que este não venha a aceitá-la.
+A lei não é taxativa ao explicitar o que exatamente é uma vantagem indevida no crime de corrupção ativa, devendo o termo ser interpretado em sua forma ampla.
+A meu ver, traduz vantagem indevida qualquer tipo de lucro, ganho, privilégio ou benefício ilícito, contrário ao direito.
+In casu, a oferta de drogas e arma de fogo, ainda que para agentes de segurança pública, configura sim um benefício.
+Explico.
+Ao incriminar a corrupção ativa, a intenção do legislador era punir o particular cujas condutas corrompessem ou, ao menos, como é o caso, tivessem potencial para fazer com que um funcionário público se tornasse corrupto, atacando assim o objeto jurídico do tipo penal, a probidade e moralidade da Administração Pública.
+Pontue-se que o réu ofereceu aos policiais arma de fogo para que eles não fizessem o seu dever, não prendessem o acusado em flagrante pelo delito de tráfico de drogas. E, ao simularem que iam aceitar, o réu mostrou onde estava a arma de fogo, a qual foi corretamente apreendida.
+Nesse sentido, por óbvio que a intenção do agente era que os militares fossem corrompidos, aceitando a arma como modo de enriquecimento pessoal.
+Assim, fica clara a possibilidade de confusão entre os interesses privado e público, característica do delito de corrupção, eis que a arma oferecida aos milicianos foi apreendida somente em decorrência da corrupção, e estava em lugar diversa da flagrância.
+Portanto, a oferta de arma de fogo a agentes públicos, assim como de qualquer outro bem com conteúdo patrimonial, configura vantagem indevida.
+ ..  De rigor, pois, a manutenção da condenação do acusado pela prática do crime previsto no art. 333 do CP.
+A sentença, no ponto, decidiu (fl. 262):
+O exame das provas produzidas revela, com muita veemência, que o acusado ÍTALO FRANCIS PACHECO mantinha, em depósito pessoal, especificamente enterrado em conhecido ponto de venda de entorpecentes, relevante quantidade de entorpecentes, revelando, na forma do art. 42 da Lei n.º 11.343, de 2006, nítido propósito de sua dispensação no mercado de consumo a quantidade e a variedade das substâncias apreendidas.
+Evidente, destarte, a incursão de ÍTALO FRANCIS PACHECO na conduta descrita no art. 33 da Lei n.º 11.343, de 2006.
+Também se extrai com muita clareza do acervo probatório que o acusado ÍTALO FRANCIS PACHECO tinha ampla disponibilidade de arma de fogo representada por garrucha calibre .32 com numeração raspada, a qual foi disponibilizada à guarnição, por ordem do acusado, com o escopo de viabilizada a soltura.
+Dessume-se que, com especial apoio na prova testemunhal, consubstanciada nos depoimentos dos agentes policiais envolvidos na diligência, colhidos judicialmente, as instâncias ordinárias concluíram que a autoria e a materialidade do crime de corrupção ativa restaram devidamente comprovadas.
+Consignou-se que o acusado "tinha ampla disponibilidade de arma de fogo representada por garrucha calibre .32 com numeração raspada, a qual foi disponibilizada à guarnição, por ordem do acusado, com o escopo de viabilizada a soltura", bem como que "a intenção do agente era que os militares fossem corrompidos, aceitando a arma como modo de enriquecimento pessoal", de forma que a inversão de tal entendimento demandaria revolvimento fático probatório, incabível na via eleita.
+No que tange à minorante do tráfico privilegiado, consta:
+Da sentença (fls. 262/264):
+Ademais, pertinente registrar que os antecedentes infracionais do acusado ÍTALO FRACIS PACHECO, assim como sua recente condenação recorrida por idêntico fato, desautorizam o beneficio do art. 33, §4º, da Lei n.º 11.343, de 2006.
+ ..  Passo à fixação da pena:
+Quanto ao delito de tráfico
+A culpabilidade foi inerente à descrição típica; os antecedentes imaculados; a conduta social não foi objeto de comprovação especifica; a personalidade do agente deve ser considerada em favor do acusado, ante a falta de provas; a motivação foi a obtenção de vantagem financeira; as circunstâncias são as cotidianas pata os delitos desta natureza; e as consequências do delito são as próprias do tipo penal.
+Ante tal exame das circunstâncias judiciais, fixo a pena-base acima do mínimo legal, ou seja, em 5 anos de reclusão e 500 dias-multa, cada um no valor individual mínimo ante a falta de provas da capacidade econômica do agente, ( .. do salário-mínimo).
+Não vislumbro agravantes ou atenuantes.
+Ausentes causas de aumento e de diminuição, pelo que torno definitiva a pena antes indicada.
+Do acórdão (fl. 453):
+Observo que as penas foram fixadas no patamar mínimo legal, para cada um dos delitos, art. 33 da Lei 11.343/06 (05 anos de reclusão e 500 dias-multa), art. 16 da Lei 10.826/03 (03 anos de reclusão e 10 dias-multa) e art. 333 do CP (02 anos de reclusão e 10 dias-multa).
+Aplicado corretamente o concurso material, foi concretizada a reprimenda em 10 anos de reclusão e 520 dias-multa.
+Tendo em vista, o quantum da pena fixado, mantenho o regime fechado fixado na r. sentença.
+Como se vê, as instâncias ordinárias negaram a aplicação do art. 33, § 4º, da Lei 11.343/06, por considerar que "os antecedentes infracionais do acusado ÍTALO FRACIS PACHECO, assim como sua recente condenação recorrida por idêntico fato, desautorizam o beneficio do art. 33, §4º, da Lei n.º 11.343, de 2006.".
+Não obstante, verifica-se que, conforme a sentença, os antecedentes do réu são "imaculados" (fl. 264), não tendo incidido, da mesma forma, a agravante da reincidência (fl. 265).
+Assim, o acordão impugnado encontra-se em dissonância com a jurisprudência desta Corte, firmada no sentido de que a existência de ações penais em curso e condenações não configuradoras de maus antecedentes ou reincidência não constitui, por si só, fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei 11.343/06.
+Além disso, "o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração" (AgRg no HC n. 779.512/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022.), o que não se deu na fundamentação do acórdão.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ADMISSÃO DO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. CONHECIMENTO. MÉRITO. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AÇÕES PENAIS EM CURSO. FUNDAMENTO INIDÔNEO PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. QUANTIDADE NÃO RELEVANTE DE DROGAS. REFORÇO ARGUMENTATIVO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se vislumbra óbice à admissão do agravo em recurso especial quando suficientemente impugnados pela parte todos os fundamentos da decisão agravada. Inteligência do art. 932, III, do CPC e da Súmula n. 182/STJ.
+2. Conforme jurisprudência desta Corte, a quantidade não relevante, no caso, 43,63g (quarenta e três gramas e sessenta e três centigramas) de cocaína e 6,5g (seis gramas e cinco decigramas) de maconha, e a ausência de circunstâncias adicionais desfavoráveis não ensejam a exasperação da pena-base, a vedação da minorante do tráfico na sua fração máxima de 2/3, o recrudescimento do regime prisional ou a negativa à substituição das penas. Precedentes.
+3. A mais recente orientação de ambas as turmas do S upremo Tribunal Federal é a de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de pena relativo ao reconhecimento da figura privilegiada do crime de tráfico de drogas. A Sexta Turma do Superior Tribunal de Justiça, em recente pronunciamento, apresentou entendimento alinhado à Suprema Corte nos autos do AgRg no AREsp n. 1.801.313/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 9/3/2021, DJe 19/3/2021, considerando-se inválido, no caso concreto, o fundamento utilizado pelo Tribunal de origem para afastar o benefício, calcado no fato de que o réu havia sido preso recentemente também por tráfico de drogas.
+4. Agravo regimental improvido.
+(AgRg no AREsp 1839145/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/06/2021, DJe 17/06/2021)
+Ademais, a quantidade, a variedade de droga e a apreensão de uma balança de precisão, embora revele a materialidade do delito de tráfico, não constitui fundamento suficiente a obstar, como elemento suplementar, a aplicação do redutor, porquanto insuficiente a evidenciar a dedicação do réu à atividade crimino sa ou a sua participação em organização criminosa, especialmente em se tratando de paciente primário.
+Assim, fi xada a intermediária em 5 anos de reclusão, na terceira etapa, incide causa de diminuição de pena do tráfico privilegiado na fração de 2/3, resultando nas penas de 1 ano e 8 meses de reclusão e 166 dias-multa.
+Aplicada a regra do concurso material, somam-se as penas aplicadas, resultando na pena final definitiva de 6 anos e 8 meses de reclusão e 186 dias-multa.
+Considerando-se a ausência de circunstâncias judiciais desfavoráveis e a primariedade do paciente, deve ser fixado o regime inicial semiaberto (art. 33, § 2º, b, do CP).
+O quantum da pena inviabiliza a pretendida substituição da pena corporal por penas restritivas de direitos a teor do art. 44, I, do CP.
+Ante o exposto, concedo em parte o habeas corpus para reduzir a pena total a 6 anos e 8 meses de reclusão, em regime inicial semiaberto, e 186 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
