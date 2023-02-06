@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CARLOS ROBERTO PEDRO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1500299-80.2022.8.26.0599.
+Depreende-se dos autos que o paciente foi condenado à pena de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, em regime inicial fechado, como incurso no art. 33, caput, da Lei n. 11.343/06 (fls. 242-269).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 322-335).
+Na hipótese, o impetrante aponta constrangimento ilegal na invasão de domicílio, bem como no afastamento da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas e fixação do regime mais gravoso.
+Requer, ao final, o reconhecimento da nulidade apontada, ou, ainda, o redimensionamento da reprimenda do paciente, com a fixação do regime prisional semiaberto para o início do cumprimento da pena.
+A liminar foi indeferida às fls. 388-389.
+Informações prestadas às fls. 392-442.
+O Ministério Público Federal, às fls. 451-456, manifestou-se pelo não conhecimento do writ, no termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. RACIONALIZAÇÃO NO USO DO MANDAMUS. PRECEDENTES DO STJ E STF. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. PLEITO DE CONCESSÃO DE LIBERDADE PROVISÓRIA. MATÉRIA NÃO ANALISADA PELO TJ/SP. SUPRESSÃO DE INSTÂNCIA. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. INFORMAÇÃO DE AUTORIZAÇÃO PARA O INGRESSO NO DOMICÍLIO. ENTENDIMENTO CONTRÁRIO QUE DEMANDARIA REVOLVIMENTO FÁTICO-PROBATÓRIO. CRIME PERMANENTE. ESTADO DE FLAGRÂNCIA. REDUTOR DO ART. 33,§ 4º, DA LEI Nº 11.343/2006. AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. PARECER PELO NÃO CONHECIMENTO DO WRIT" (fl. 451).
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração: o reconhecimento da nulidade das provas obtidas mediante violação ao domicílio do paciente, ou, ainda, a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, com a fixação do regime prisional semiaberto.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Não se descure que, para o conhecimento da ordem, faz-se necessário que o direito alegado pela defesa seja líquido - dispense apuração probatória - e certo - indene de dúvida.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente. Isso porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+De mais a mais, o habeas corpus não é a via adequada para avaliar a nulidade da prova carreada aos autos, quando, a fim de se aquilatar se a indigitada desconformidade processual atingiu, ou não a sua finalidade, ocasionando prejuízo, ou não, a defesa, a cognição ampla do arcabouço probatório pertinente é demandada.
+Por fim, saliente-se que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Diante de tais considerações, portanto, não se vislumbra a existência dos pressupostos necessários ao conhecimento e à concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
