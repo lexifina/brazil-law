@@ -1,0 +1,13 @@
+DECISÃO
+DEIVIDI CAMPOS DOS SANTOS alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0004987-49.2018.8.26.0196.
+Neste habeas corpus, a defesa pretende, liminarmente e no mérito, o decote do emprego de arma de fogo, ante a ausência de prova pericial para a sua comprovação.
+Decido.
+O writ comporta pronta solução, porquanto existe entendimento do colegiado sobre a questão jurídica controvertida.
+Consta dos autos que o paciente foi condenado, em primeira instância, pela prática do delito previsto no art. 157 do Código Penal, à pena de 4 anos de reclusão, em regime semiaberto, mais multa.
+O Tribunal de origem deu provimento ao apelo da acusação, a fim de reconhecer o emprego de arma no delito de roubo, o concurso formal de crimes, redimensionando a pena para 6 anos, 2 meses e 20 dias de reclusão, além de fixar o regime fechado.
+Sobre a causa de aumento, o acórdão concluiu que "a palavra da vítima, ratificada pela prova testemunhal, bastam à sua comprovação, sendo dispensável, consequentemente, tanto a apreensão, quanto a conclusão pericial" (fl. 24).
+Faço lembrar que, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova, situação ocorrida nos autos.
+Especificamente sobre as alegações defensivas, destaco o entendimento desta Corte Superior: "Quanto à alegação da defesa de que há julgados recentes afastando a incidência da causa de aumento quando a arma se encontrar desmuniciada, inapta para efetuar disparos ou, ainda, quando se tratar de simulacro, cumpre ressaltar que o artefato precisa ter sido apreendido para que seja constatado tratar-se de simulacro ou, ainda, realizada perícia técnica, o que não ocorreu no caso em comento. Ademais, a simples manifestação do réu no sentido do uso de simulacro, sem qualquer respaldo em outro elemento de prova dos autos, não afasta a incidência da causa de aumento de pena (AgRg no HC n. 720.951/MS, relator Ministro Ribeiro Dantas, 5ª T., DJe de 1/4/2022).
+Assim, mantenho a incidência da referida majorante, uma vez que o acórdão está em consonância com a jurisprudência do STJ sobre o tema.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
