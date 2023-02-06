@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOHN DUARTE DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo em Execução n. 5007556-49.2022.8.19.0500 - relatora a Desembargadora Márcia Perrini Bodart).
+Depreende-se dos autos que o paciente encontra-se em cumprimento de pena no regime fechado.
+Pleiteada a transferência para estabelecimento prisional de Magé ou região metropolitana, por ser próximo da família do apenado, o pedido foi indeferido pelo Juízo das execuções.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso, nos termos da ementa de e-STJ fls. 59/64:
+AGRAVO EM EXECUÇÃO PENAL. Recurso interposto em face de decisão que deixou de apreciar o pedido defensivo de transferência de estabelecimento prisional, sob o fundamento de que tal matéria é afeta à esfera discricionária da Autoridade Administrativa Penitenciária. Recurso defensivo não merece prosperar. O direito de o preso cumprir pena privativa de liberdade próximo à família possui natureza relativa, sendo imperiosa sua conciliação com o interesse coletivo de garantir as normas internas de segurança, imprescindíveis para a escorreita administração do sistema prisional. Compete ao Juízo de Execução autorizar ou não transferência do condenado, de acordo com a conveniência e oportunidade da administração pública, incluindo a Autoridade Penitenciária, responsável pelo adequado gerenciamento da distribuição dos custodiados nas unidades prisionais, levando em consideração não apenas a existência de vagas disponíveis, mas, também, o perfil e o grau de periculosidade dos internos, sua adequação às características e especificidades de cada Presídio, bem como a divisão de acordo com as facções criminosas, tudo a ensejar uma maior segurança àqueles que lá irão cumprir suas penas. Artigo 86, §3º da LEP. Precedentes do Superior Tribunal de Justiça e deste Tribunal de Justiça. DES PROVIMENTO DO RECURSO DEFENSIVO.
+Daí o presente writ, no qual alega a defesa a necessidade de transferência, pois, "para que o apenado continue desfrutando da assistência familiar e exercendo o direito de ser visitado, tal como assegura o ordenamento jurídico, seus familiares deveriam dispor de recursos financeiros para a realização da longa viagem intermunicipal, sendo certo que o último trecho de sete quilômetros exigiria o aluguel de um automóvel de passeio, o que se mostra absolutamente inviável" (e-STJ fl. 5).
+Assere que "a alocação da pessoa presa em localidade distante da comunidade a que pertence torna o envio das encomendas aqui mencionadas ainda mais custoso, o que muitas vezes chega a inviabilizar que a família preste a assistência material que o Estado deixa ilegalmente de prestar" (e-STJ fl. 9).
+Requer, liminarmente e no mérito, seja concedida "transferência para a unidade prisional situada na cidade de Magé ou na Região Metropolitana" (e-STJ fl. 16).
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writ.
+É, em síntese, o relatório .
+Decido.
+O presente writ está prejudicado.
+Isso, porque, consoante parecer do Parquet Federal (e informações complementares obtidas no sítio eletrônico do Tribunal de origem), "o Juízo da VEP deferiu a progressão do apenado ao regime semiaberto, bem como determinou sua transferência para unidade prisional compatível com o atual regime" (e-STJ fl. 97).
+Assim, patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
