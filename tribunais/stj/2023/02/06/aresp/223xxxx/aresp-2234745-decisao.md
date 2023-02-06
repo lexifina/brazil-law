@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo, manejado por VOITH-MONT MONTAGENS E SERVICOS LTDA, desafiando decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) aplicação da Súmula 83/STJ no que toca ao entendimento quanto à possibilidade de liquidação antecipada do seguro garantia, com a ressalva de que o levantamento do valor depositado ou sua conversão em renda, pelo exequente, condiciona-se ao trânsito em julgado do feito; e (II) incidência da Súmula 7/STJ quanto à revisão dos critérios adotados pelo julgado para deferir a liquidação antecipada da garantia, assim como a aferição quanto à eventual violação ao princípio da menor onerosidade ao devedor.
+Nas razões do agravo, a parte sustenta que: (I) "ser questão meramente de direito e por ter o v. acórdão violado inequivocamente a lei federal " (fl. 330); e (II) "não ser aplicável o entendimento da Súmula nº 83, do STJ pois a matéria não está pacificada e existem julgados do próprio STJ em favor da tese defendida pela Agravante" (fl. 343).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
