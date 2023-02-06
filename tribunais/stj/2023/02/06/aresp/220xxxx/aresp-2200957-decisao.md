@@ -1,0 +1,28 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 552.402/SP (fl. 169).
+Trata-se de agravo interposto por Henrique Guilherme Loureiro de Oliveira contra a decisão do Tribunal de Justiça de São Paulo que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, em que se impugnava acórdão proferido na Revisão Criminal n. 2068755-13.2021.8.26.0000 (fls. 65/70).
+Nas razões do especial, a defesa apontou contrariedade ao art. 65, III, d, do Código Penal, sustentando, em suma, o cabimento da atenuante da confissão qualificada, reconhecida, inclusive, pelo voto vencido (fl. 89).
+Apresentadas contrarrazões (fls. 108/122), o recurso foi inadmitido na origem, por incidência da Súmula 281/STJ (fls. 125/126).
+Daí o presente agravo (fls. 129/135). Instado a se manifestar, o Ministério Público Federal opina pelo conhecimento do agravo para dar provimento ao recurso especial, mediante os fundamentos sintetizados nesta ementa (fl. 172):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. CONFISSÃO ESPONTÂNEA QUALIFICADA. RECONHECIMENTO. JURISPRUDÊNCIA DO STJ. CONHECIMENTO DO AGRAVO. PROVIMENTO DO RESP.
+1. "Nos termos da orientação do Superior Tribunal de Justiça, "a confissão, ainda que parcial, ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para fins de atenuar a pena" (HC n. 350.956/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/8/2016, DJe 15/8/2016)" (AgRg no REsp n. 2.010.303/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+2. Parecer pelo conhecimento do agravo para dar provimento ao recurso especial.
+É o relatório.
+Com razão o nobre parecerista: a irresignação merece prosperar.
+Consta do acórdão recorrido (fls. 67/68 - grifo nosso):
+ ..  2. Respeitado o posicionamento expresso no voto do eminente Relator, Desembargador AUGUSTO DE SIQUEIRA, ouso divergir de S. Exa., pelas razões a seguir expostas.
+Pede-se nestes autos, de forma principal, o reconhecimento da atenuante da confissão.
+ ..
+No caso em apreço, o peticionário sustentou em plenário que tentou reatar o relacionamento com a vítima, mas ela não quis, motivo pelo qual discutiram. Ela disse que mudaria para o Japão. Ficou nervoso e "perdeu a cabeça", sacou a arma de fogo e a vítima segurou sua mão. Não soube dizer o que aconteceu depois disso, pois, ao retomar a consciência, viu o corpo da vítima no chão, a arma em sua mão e saiu andando. Não se recordou do momento dos disparos.
+Trata-se, pois, de confissão qualificada, uma vez que alegou excludente de culpabilidade que não ocorreu, ao afirmar que teve uma perda de memória momentânea ao efetuar os disparos, o que foi repelido, de forma soberana, pelos jurados.
+ ..
+Ora, é importante mencionar que ponderável corrente doutrinária e jurisprudencial entende que a confissão parcial ou qualificada não é idônea a ensejar a atenuação da pena. Confira-se:  ..
+Contudo, o entendimento da instância ordinária destoa da recente orientação jurisprudencial desta Corte Superior sobre a matéria, no sentido de que o réu fará jus à atenuante do art. 65, III, d, do Código Penal, quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada (REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/6/2022).
+Sobre o tema: AgRg no HC n. 781.327/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/12/2022; AgRg no HC n. 760.122/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/11/2022; AgRg no AREsp n. 2.087.977/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/10/2022; AgRg no HC n. 729.789/SP, Relator p/ acórdão Ministro João Otávio de Noronha, Quinta Turma, DJe 11/10/2022; AgRg no AREsp n. 2.093.147/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/8/2022; e AgRg no AREsp n. 2.091.731/TO, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022.
+Firmadas essas premissas e obedecidas as demais diretrizes fixadas pelas instâncias a quo, passo ao redimensionamento da pena do crime de homicídio.
+Na primeira fase, a pena-base foi fixada em 13 anos de reclusão. Na segunda etapa, preservo o aumento da pena em 2 anos pelo reconhecimento da qualificadora do recurso que dificultou a defesa da vítima; aplico a atenuante da confissão à fração de 1/6, reduzindo a pena intermediária para 12 anos e 6 meses de reclusão. Na terceira fase, mantém-se o aumento da pena operado em 1/3 (fl. 12), ficando a pena final do crime de homicídio estabelecida em 16 anos e 8 meses de reclusão, mantidos os demais termos da condenação.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, e em consonância com o parecer ministerial, conheço do agravo para dar provimento ao recurso especial, com o fim de reconhecer a atenuante da confissão e, assim, redimensionar a pena do crime de homicídio, nos termos acima fixados.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. CONFISSÃO QUALIFICADA. CONFIGURAÇÃO DA ATENUANTE PREVISTA NO ART. 65, III, D, DO CP. NOVA ORIENTAÇÃO DO SUPERIOR TRIBUNAL JUSTIÇA. PRECEDENTES. PARECER ACOLHIDO. PENA DO CRIME DE HOMICÍDIO REDIMENSIONADA.
+Agravo conhecido para, em consonância com o parecer ministerial, dar provimento ao recurso especial, nos termos da fundamentação.
