@@ -1,0 +1,15 @@
+DECISÃO
+CARLOS HENRIQUE MOUTINHO opõe embargos de declaração contra a decisão de fls. 2.939-2.942 em que não conheci do agravo em recurso especial.
+A defesa sustenta que o acórdão embargado é omisso, pois deixou de declarar a prescrição da pretensão punitiva, matéria de ordem pública que deve ser reconhecida de ofício.
+Alega que a consumação dos delitos de fraude licitatória ocorreu em data anterior à considerada pelo Tribunal de origem, pois os delitos teriam sido consumados em 9/7/2009 (data da publicação do Edital do Pregão Presencial SEAP n. 001/2009) e o recebimento da denúncia ocorreu apenas em 10/7/2017, após o lapso temporal previsto no art. 109, IV, do Código Penal.
+Requer o acolhimento dos embargos de declaração, com efeito infringente, a fim de que seja sanado o vício apontado e concedido habeas corpus de ofício para declarar a prescrição da pretensão punitiva estatal.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para sanar ambiguidade, obscuridade, contradição ou omissão verificada no julgado, acerca de tema sobre o qual o tribunal poderia conhecer e se pronunciar.
+A pretexto de omissão no decisum de fls. 2.939-2.942, a parte pretende contornar o não conhecimento de seu agravo em recurso especial, a fim de obter o pronunciamento de mérito desta Corte sobre a data de consumação dos delitos imputados e a eventual ocorrência da prescrição da pretensão punitiva.
+Aplico ao caso o entendimento de que: "é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido na admissibilidade do recurso interposto (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro Felix Fischer, Terceira Seção, DJe 27/10/2015)" (EDcl no AgRg no AREsp n. 1.640.723/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/4/2021).
+Deveras:
+Não tem amparo legal ou regimental o pedido de que sejam os embargos de declaração convertidos em pedido de concessão de habeas corpus. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1.777.820/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/4/2021).
+Ainda: "Nos termos do art. 654, § 2º, do Código de Processo Penal, os tribunais podem deferir ordem de habeas corpus de ofício, quando reconhecerem hipótese de flagrante ilegalidade. O writ, porém, não é meio para a defesa obter pronunciamento judicial a respeito de matéria de mérito de recurso que não ultrapassa os requisitos de admissibilidade" (AgRg nos EDcl no AREsp n. 1.742.926/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 12/3/2021).
+É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido à admissibilidade do recurso interposto.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
