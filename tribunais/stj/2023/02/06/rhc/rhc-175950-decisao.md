@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, com pedido de liminar, interposto por RAFAELA MAIANI DE RAMOS, contra acórdão do Tribunal de Justiça do Estado do Paraná, proferido no julgamento do HC n. 0078551-07.2022.8.16.0000.
+Infere-se dos autos que a recorrente foi presa em flagrante em 25/12/2022, convertida em prisão preventiva, tendo sido denunciada pela prática, em tese, do crime disposto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus originário, o qual teve a ordem denegada pelo Tribunal a quo, nos termos de acórdão assim ementado:
+AÇÃO DE - TRÁFICO ILÍCITO DE DROGAS -HABEAS CORPUSPRISÃO DOMICILIAR - MATÉRIA NÃO ANALISADA PELO JUÍZO DEORIGEM - SUPRESSÃO DE INSTÂNCIA - NÃO CONHECIMENTO -PRISÃO PREVENTIVA -PRESENÇA DOS REQUISITOS DO ART. 312,DO CÓDIGO DE PROCESSO PENAL - GRAVIDADE CONCRETA DACONDUTA - QUANTIDADE DE SUBSTÂNCIAS ENTORPECENTESAPREENDIDAS - NECESSIDADE DE GARANTIA DA ORDEMPÚBLICA -CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA- MEDIDAS CAUTELARES DIVERSAS - INAPLICABILIDADE-CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO - ORDEM DENEGADA.
+O pedido de substituição da prisão preventiva pela domiciliar, nos termos do art. 318, inciso V, do CPP, não foi objeto de análise pelo Juízo de primeiro grau, razão pela qual não deve ser conhecido, sob pena de configurar supressão de instância.
+Não há constrangimento ilegal quando a segregação provisória está motivada na necessidade de se acautelar a ordem pública, sobretudo em razão da gravidade concreta da conduta supostamente praticada pela agente, evidenciada pela quantidade de substâncias entorpecentes apreendidas.
+Mesmo a custodiada ostentando condições pessoais favoráveis, a imprescindibilidade de sua permanência no cárcere se sobrepõe ao seu direito de liberdade.
+Demonstrada a necessidade de afastamento da paciente do convívio social, não se lhe aplicam as medidas cautelares diversas da prisão.
+Ordem parcialmente conhecida e denegada (fls. 45/46).
+No presente recurso, sustenta que a recorrente faz jus à concessão da prisão domiciliar, nos termos do art. 318, V, do CPP, tendo em vista ser mãe de filho menor de 12 anos de idade, que necessita dos cuidados da genitora.
+Requer, em liminar e no mérito, a concessão da prisão domiciliar à recorrente.
+Informações prestadas pelo Juízo de primeiro grau às fls. 97/100.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O tema objeto do presente reclamo, qual seja, a concessão da prisão domiciliar à recorrente, não foi examinado pelo Tribunal de origem , que inclusive destacou que, "inexistente a provocação do Juízo a quo sobre a matéria, não cabe sua análise por parte deste Tribunal" (fl. 47), de modo que esta Corte Superior de Justiça está impedida de pronunciar-se sobre referida matéria, sob pena de atuar em indevida supressão de instância.
+Nessa esteira:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. QUANTIDADE DE DROGAS. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática desta relatoria que negou provimento ao recurso ordinário em habeas corpus e recomendou, ao Juízo processante, a revisão da necessidade da prisão, nos termos da Lei n. 13.964/2019.
+2. Embora o crime não inclua violência ou grave ameaça, as instâncias ordinárias destacaram a necessidade da medida extrema, para fins de garantia da ordem pública, tendo em vista o modus operandi do delito: a agravante, estrangeira, teria saído do seu país de origem, o Paraguai, com destino à Europa e foi presa no Aeroporto Internacional de Foz do Iguaçu/PR, ao tentar embarcar em um vôo para Guarulhos/SP, de onde seguiria para Barcelona-Espanha, transportando 2,615Kg (dois quilos seiscentos e quinze gramas) de cocaína, avaliada em cerca de R$ 237.000,00 (duzentos e trinta e sete mil reais). O Magistrado de primeiro grau destacou, ainda, que a recorrente não possuía passagens de volta para o Brasil, tampouco vestimenta adequada para estadia na Europa, o que evidenciaria, a priori, a existência de contatos no continente Europeu. Há, portanto, adequação aos requisitos do art. 312 do Código de Processo Penal.
+3. Os precedentes desta Corte Superior estão no sentido de que a quantidade de substância entorpecente apreendida é considerada motivação idônea para a decretação e manutenção da prisão preventiva.
+4. Prisão domiciliar. Supressão de instâncias. A questão da prisão domiciliar não foi enfrentada pelo Tribunal a quo no acórdão recorrido. "Matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+5. Agravo regimental conhecido e não provido.
+(AgRg no RHC n. 166.442/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/10/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. IMPUGNAÇÃO QUANTO À MANUTENÇÃO DA CUSTÓDIA CAUTELAR. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO DELITO. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÊNCIA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1 . Presentes elementos concretos para justificar a manutenção da prisão preventiva, para a garantia da ordem pública. Como visto, as instâncias ordinárias afirmaram que, em liberdade, o agravante representava risco concreto ao meio social em razão de sua periculosidade e da gravidade concreta da conduta, evidenciadas pela elevada quantidade da droga apreendida  aproximadamente 10,8kg de maconha  o que, somado à localização de arma de fogo, diversas munições, carregadores, 3 balanças de precisão e elevada quantia em dinheiro, revela o maior envolvimento com o narcotráfico e a necessidade da custódia cautelar para garantia da ordem pública.
+2. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+3. O entendimento deste Superior Tribunal de Justiça é no sentido de ser inaplic ável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+4. O pleito de prisão domiciliar, nos termos do art. 318 do CPP, não foi analisado pelo Tribunal de origem. Assim, fica inviabilizada a análise direta da alegação por esta Corte Superior, sob pena de incidir em indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 717.215/SC, de minha relatoria, Quinta Turma, DJe de 25/4/2022.)
+Ante o exposto, indefiro liminarmente o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
