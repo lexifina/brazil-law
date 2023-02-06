@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça suíça (Juiz da Comuna de Crans Montana) solicita a intimação pessoal de ESTHER SAFRA DAYAN para tomar conhecimento do arquivamento de documento que dá início ao processo relacionado à sucessão de Joseph Yacoub Safra, determinado na decisão acostada às fls. 17/24, bem como da advertência de que deverá escolher um endereço de notificação na Suíça e estar ciente de que em breve lhe será enviada uma citação para comparecer.
+Concedido o exequatur (fls. 67/68), foram os autos remetidos à Seção Judiciária do Estado de São Paulo. O juízo federal noticiou o cumprimento da comissão e acostou aos autos certidão exarada pelo oficial de justiça, nestes termos (fls. 85):
+Certifico e dou fé que, em cumprimento ao mandado, compareci em 20/12/2022, por volta das 10h30min na Rua Engenheiro Edgar Egídio de Souza n. 221, 13º. andar, São Cecilia, São Paulo  SP, CEP 01233-020, e, INTIMEI PESSOALMENTE ESTHER SAFRA DAYAN do inteiro teor do mandado, a qual ciente ficou e aceitou a contrafé que lhe ofereci. Nada mais. São Paulo, 26/12/2022.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
