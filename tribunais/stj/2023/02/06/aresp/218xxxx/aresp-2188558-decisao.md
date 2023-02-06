@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por BV Financeira S.A. - Crédito, Financiamento e Investimento contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 838/857):
+PELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. INOCORRÊNCIA. CÁLCULO FUNDAMENTADO. ANULAÇÃO DE ATO ADMINISTRATIVO. SANÇÃO APLICADA PELO PROCON. INFRAÇÃO ÀLEGISLAÇÃO CONSUMERISTA. LEGITIMIDADE. LEGALIDADE DO PROCESSO ADMINISTRATIVO. OBSERVÂNCIA DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. VALOR DA MULTA IMPOSTA. RESPEITO AOS POSTULADOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. IMPROCEDÊNCIA DOS PEDIDOS EXORDIAIS. SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Não há prescrição porque nas execuções fiscais de créditos não tributários, como na espécie, aplicam-se as causas suspensivas e interruptivas preconizadas no § 3º do artigo 2º da Lei federal nº 6.830, de 22 de setembro de 1980.
+2. Na execução fiscal em discussão, o juízo a quo sequer ordenou a suspensão do processo por 01 (um) ano, fato que impede a deflagração da contagem do prazo da prescrição quinquenal intercorrente, nos termos da Súmula nº 314 do STJ.
+3. As certidões de dívida ativa que aparelham o executivo fiscal contemplam campo específico da composição do crédito e da metodologia de cálculo dos componentes do crédito, afastando qualquer mácula quanto aos critérios de atualização.
+4. É pacífica a jurisprudência do Superior Tribunal de Justiça em reconhecer a legalidade da competência do Procon para aplicar multas administrativas referentes à observância de direitos dos consumidores.
+5. Não há se falar em nulidade da multa aplicada pelo PROCON uma vez que o procedimento obedeceu aos princípios constitucionais do contraditório e ampla defesa.
+6. Mostra-se correta a decisão administrativa que arbitrou a multa por estar devidamente fundamentada nos critérios previstos no artigo 57 do Código de Defesa do Consumidor.
+7. Evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada, conforme previsão do artigo 85, § 11, do Código de Processo Civil.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Os embargos declaratórios foram rejeitados (fls. 887/907).
+A parte recorrente aponta violação aos arts. 489, § 1º, IV e VI, 1.022, II, e parágrafo único, II, do CPC; 2º, caput e parágrafo único, VI, X, 29, 36, 50, I, II, § 1º, da Lei 9.784/99; 55, § 4º, 56, caput e parágrafo único, 57, caput, do Código de Defesa do Consumidor, bem como dissídio pretoriano.
+Sustenta, em resumo: (I) que o acórdão teria sido omisso, pois "deixou de analisar a legalidade da cobrança da "Tarifa de Cadastro", "Tarifa de Emissão de Carnê ou Boleto" e "Registro" nos contratos realizados com os consumidores nos processos administrativos" (fl. 917); (II) que "o valor da penalidade imposta pelo Procon no processo administrativo (..) foi realizada em desarmonia com os critérios legais do artigo 57 do CDC, bem como a sua manutenção e exigência afronta os princípios da razoabilidade e da proporcionalidade" (fl. 924); e (III) que "jamais se poderia considerar que o valor foi proporcional e razoável, se teve com parâmetro unicamente o porte econômico do Recorrente e desconsiderou absolutamente a ausência de proveito econômico assim como a ínfima gravidade da suposta infração" (fl. 922).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fls. 848/853):
+5.1 Dito isso, importa consignar que o procedimento administrativo controvertido seguiu os trâmites legais, uma vez que foi garantido o exercício do contraditório e da ampla defesa.
+5.1.1 Verifica-se da cópia dos procedimentos administrativos carreados aos autos pela embargante/apelante na mov. 01, que foram instaurados a partir da reclamação de consumidores, que o rito foi regular, com manifestação da sociedade empresária, julgamento do pedido, interposição de recurso e decisão final.
+Conclui-se, assim, que o procedimento instituído no Decreto federal nº 2.181, de 20 de março de 1997, foi devidamente observado.
+(..)
+Diante desse quadro fático, é forçosa a conclusão de que o devido processo legal foi respeitado e, portanto, nenhuma nulidade contém.
+(..)
+6.1.3 Além disso, o artigo 57, parágrafo único, do Código de Defesa do Consumidor, prevê que "a multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (UFIR), ou índice equivalente que venha a substituí-lo".
+6.2 No caso em estudo, o valor não só atende os limites legais, como a sanção pecuniária foi arbitrada com base nos seguintes parâmetros objetivos: a) porte da empresa; b) natureza da infração; e c) vantagem; todos esses fatores indicados no artigo 3º da Portaria nº 066/2009 do Procon/Goiás, além das circunstâncias agravantes, a saber, reincidência e desídia em tomar providências, consoante se verifica da leitura da planilha de cálculo constante nas decisões administrativas, alcançando a multa o valor total, atualizado ao tempo da propositura da demanda fiscal, de R$ 105.141,31 (cento e cinco mil, cento e quarenta e um reais e trinta e um centavos).
+6.2.1 Soma-se a isso o fato de que o valor da sanção imposta é revertido ao fundo de proteção ao consumidor, não servindo como forma de enriquecimento indevido por parte do consumidor.
+6.2.2 Desse modo, observados os critérios legais, para aplicar a penalidade, e respeitado os limites monetários, para fixar a sanção pecuniária, não cabe ao Poder Judiciário, a pretexto da falta de razoabilidade, interferir no mérito do ato administrativo, conforme entendimento pacífico desta egrégia Corte:
+(..)
+A pretensão recursal merece acolhida pelos arts. 489, § 1º, IV e VI, 1.022, II, e parágrafo único, II, do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega omissão quanto à tese de inexistência de "qualquer ilegalidade na cobrança da "Tarifa de Cadastro" e "Tarifa de Emissão de Boleto ou Carnê", uma vez que foi realizado em consonância com as resoluções do Banco Central e com o entendimento consolidado por esse Eg. STJ nas Súmulas nº 565 e 566, respeitando ainda o período em que permitidas" (fl. 920).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação aos artigos mencionados, porquanto não prestada a jurisdição de forma integral.
+Assim, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.379.502/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/11/2019)
+Por conseguinte, resta prejudicada a análise dos demais temas veiculados no apelo nobre.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial por violação dos arts. 489, § 1º, IV e VI, 1.022, II, e parágrafo único, II, do CPC . Em consequência, determino o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
