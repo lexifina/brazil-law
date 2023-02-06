@@ -1,0 +1,11 @@
+DECISÃO
+PAULO LUCIO LOPES LEAL postula a extensão dos feitos da decisão de fls. 263-271, em que dei parcial provimento ao recurso em habeas corpus interposto por ELEUSIS BRUDER DI CREDDO para reconhecer a inépcia formal da denúncia quanto ao delito de associação criminosa.
+Nesta Corte, a defesa afirma, em síntese, que o peticionante se encontra em situação fático-processual idêntica à do paciente (fl. 314).
+Decido.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+No caso em exame, há similitude fática entre a situação do paciente deste recurso em habeas corpus e a do ora requerente, porquanto a denúncia não logrou descrever o vínculo associativo permanente ou a predisposição comum do requerente com a prática de crime ambiental.
+Assim, porque caracterizada hipótese prevista no art. 580 do CPP, deve
+ser a ele estendido os efeitos da decisão proferida às fls. 263-271.
+À vista do exposto, defiro o pedido de extensão, a fim de reconhecer a inépcia formal da denúncia quanto ao delito de associação criminosa.
+Comunique-se, com urgência, o inteiro teor dessa decisão ao Juízo de primeiro grau, para adoção das providências cabíveis.
+Publique-se e intimem-se.
