@@ -1,0 +1,3 @@
+LEI DELEGADA Nº 50, DE 6 DE FEVEREIRO DE 2023.
+
+ALTERA DISPOSITIVOS DA LEI DELEGADA Nº 48, DE 30 DE DEZEMBRO DE 2022, QUE INSTITUI O MODELO DE GESTÃO DA ADMINISTRAÇÃO PÚBLICA ESTADUAL DO PODER EXECUTIVO, E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que, no uso da delegação conferida pela Assembleia Legislativa, nos termos da Resolução nº 683, de 7 de dezembro de 2022, promulgo esta Lei Delegada:
