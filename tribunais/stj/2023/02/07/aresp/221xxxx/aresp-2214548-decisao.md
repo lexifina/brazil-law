@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ANDREIA APARECIDA DE OLIVEIRA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE INFRAÇÃO DE TRÂNSITO C/C INDENIZATÓRIA. ALEGAÇÃO DE INEXISTÊNCIA DE NOTIFICAÇÃO QUANTO ÀS MULTAS QUE LHE FORAM IMPUTADAS. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO AUTORAL. NOTIFICAÇÕES ENVIADAS AO ENDEREÇO APONTADO PELO PROPRIETÁRIO DO VEÍCULO. ATUALIZAÇÃO DO ENDEREÇO QUE É DA RESPONSABILIDADE DO TITULAR DO BEM. O DESATENDIMENTO DA EXIGÊNCIA DE ATUALIZAÇÃO DO ENDEREÇO FAZ PRESUMIR VÁLIDA A NOTIFICAÇÃO DA MULTA. TEORIA DA EXPEDIÇÃO. PRECEDENTES DESTA CORTE ESTADUAL DE JUSTIÇA. RECURSO AO QUAL SE NEGA PROVIMENTO" (fl. 261e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 278/283e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. VÍCIOS NO ACÓRDÃO. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE MODIFICAR O JULGADO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. VIA INADEQUADA. PRETENSÃO DE PREQUESTIONAMENTO. ULTRAJE A DISPOSITIVOS INFRACONSTITUCIONAIS. ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA COM ARRIMO EM FUNDAMENTOS SUFICIENTES, POR SI SÓS, PARA MANTER A DECISÃO ALVEJADA, REPUTANDO-SE DESNECESSÁRIO PRONUNCIAR-SE ACERCA DE TODOS OS PONTOS QUE SE PRETENDE PREQUESTIONAR. DECISÃO QUE PERMANECE INALTERADA.
+EMBARGOS REJEITADOS" (fl. 286e).
+Nas razões do Recurso Especial (fls. 301/310e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 489, § 1º, II, 493 e 1.022, I e II, do CPC/2015.
+Sustentou que:
+"Como já salientado no recurso de apelação e nos embargos de declaração opostos, a suposta infração teria sido fruto de estacionamento irregular na cidade do Rio de Janeiro do veículo de propriedade da autora.
+Ocorre que a Autora aduz que, no exato momento da constatação da infração, estava no município de Petrópolis, onde reside e labora, com seu veículo, que utilizou para locomover-se até seu local de trabalho.
+Assim, seria impossível, no mesmo horário encontrar-se o veículo estacionado em local irregular na cidade do Rio de Janeiro. Constaram no polo passivo inicialmente o DETRAN e o DER-RJ.
+Contudo, no decorrer da ação, constatou-se que a multa havia sido imposta pelo Município do Rio de Janeiro o que acarretou a sua inclusão no polo passivo. E o ente municipal trouxe aos autos FATO NOVO, qual seja, o cancelamento administrativo do auto de infração, conforme noticiado em index 144:
+(..)
+Não obstante, este FATO NOVO não foi examinado na r. sentença prolatada em index 196, seja no relatório, seja na fundamentação, nem no v. acórdão vergastado.
+Frise-se, inclusive, que, em suas contrarrazões, o Município do Rio de Janeiro expressamente se refere ao cancelamento do auto de infração:
+(..)
+Assim, parece-nos que houve clara violação ao art. 493, na medida em que o fato novo não foi efetivamente enfrentado pelos julgadores, tanto de 1º grau, como de 2º grau.
+Mais grave se apresenta a situação, uma vez que o Colegiado foi provocado a se manifestar sobre o tema, mas permaneceu omisso, ao negar provimento aos embargos, que visavam sanar a omissão existente na decisão colegiada.
+Como se vê da simples leitura dos autos, todos os aspectos sopesados nos embargos foram ignorados, limitando-se a decisão a basicamente copiar e colar os argumentos já deduzidos na decisão sobre a apelação.
+O julgado embargado restou omisso tanto em apreciar o fato novo trazido aos autos, quanto à incidência da norma cogente do art. 493, da legislação processual civil.
+Como explicado nos embargos de declaração opostos, tal omissão foi crucial no julgamento da causa, na medida em que a análise de FATO NOVO excluiria a a suposta infração administrativa.
+Não é despiciendo frisar ainda que, tendo em vista que o poder público, em seu poder de rever os próprios atos, efetivamente reanalisou a legitimidade do auto de infração, entendendo por bem cancelá-lo, na verdade, acabou por reconhecer o pedido da parte autora, que justamente busca na presente ação a sua invalidade, bem como a restituição do valor pago a título de penalidade dele decorrente, além do cancelamento dos pontos impingidos.
+Em consequência, deveria o feito ter sido julgado procedente integralmente. Dessa forma, deveria ter sido analisada a omissão acima apontada, por sua relevância em relação ao julgamento levado a efeito nestes autos.
+Da mesma forma, em atenção ao princípio do contraditório, que assegura às partes o direito a expor seus argumentos, que devem ser considerados na síntese processual elevada a efeito pelos Julgadores, para que a prestação jurisdicional seja construída a partir da efetiva participação e colaboração dos atores processuais, deve o julgado ser integrado para análise dos aspectos fáticos e processuais acima elencados, bem como serem efetivamente debatidas as normas legais invocada" (fls. 306/311e).
+Contrarrazões a fls. 315/325e.
+Inadmitido o Recurso Especial (fls. 327/330e), foi interposto o presente Agravo (fls. 341/351e).
+Contraminuta a fls. 356/366e.
+A irresignação não merece prosperar.
+De início, em relação à apontada violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC/2015, deve-se ressaltar que o acórdão recorrido, julgado sob a égide do CPC/2015, não incorreu em omissão, contradição ou obscuridade, uma vez que o voto condutor do julgado apreciou fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte (fls. 287/288e):
+"Neste aspecto, em que pese as razões expostas pela autora embargante, no sentido da existência de fatos novos que não foram levados em linha de conta no momento da prolação do acórdão objurgado, verifica-se que em nenhum momento dos autos, após a prolação da sentença, quaisquer destes fatos foram aduzidos pela parte.
+Ademais, verifica-se que o acórdão guardou estrita relação com a tese aduzida na apelação, em razão da matéria devolvida à apreciação por este Colegiado.
+Observa-se, assim, que pretende a autora embargante rediscutir o entendimento do firmado pelo órgão julgador, emprestando ao presente recurso efeitos modificativos, o que não é possível conforme melhor jurisprudência, (..)".
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+I.
