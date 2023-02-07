@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo.
+O paciente foi condenado a 2 anos e 8 meses de reclusão, em regime semiaberto, e 13 dias-multa, por furto qualificado (art. 155, § 4º, IV, do Código Penal). A pena foi reduzida pelo STJ a 2 anos e 6 meses de reclusão e 12 dias-multa (AREsp 2.135.139/SP, transitado em julgado em 25/8/2022).
+A defesa aduz excesso de prazo, pelo Tribunal de origem, em julgar o pedido de revisão criminal. Sustenta haver constrangimento ilegal em razão do cumprimento de pena no regime intermediário, quando deveria ter sido fixado o modo aberto.
+Liminarmente e no mérito, requer a expedição de alvará de soltura para responder em liberdade o julgamento da revisão criminal, sobrestando os efeitos da guia de execução provisória.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal sugeriu o não conhecimento ou denegação da ordem.
+De início, o pedido de notificação da data e horário da sessão de julgamento não encontra previsão no RISTJ, isso porque, nos termos de seu art. 91, independem de pauta o julgamento de habeas corpus, recurso em habeas corpus, conflitos de competência e de atribuições e exceções de suspeição e impedimento.
+Assim, a defesa deverá acompanhar a página deste Tribunal, na qual constará a data de eventual julgamento colegiado com até 48h de antecedência. Caso haja interesse em proferir sustentação oral, deverão ser observados os procedimentos das sessões por videoconferência previstos na Resolução STJ/GP nº 19, de 27/08/2020.
+No mais, a inobservância dos prazos processuais, nas hipóteses de réus presos, pode configurar coação ilegal, com a concessão de habeas corpus, nos termos do art. 648, II, do CPP. A jurisprudência, no entanto, tem tolerado as dilações razoáveis nos casos de processos complexos, com réus numerosos, sobretudo quando a demora se deve aos interesses da defesa.
+Nesse sentido, eventual constrangimento ilegal por excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, à luz do disposto no art. 5º, LXXVIII, da Constituição Federal, levando em consideração as peculiaridades do caso concreto, procurando evitar o retardamento injustificado da prestação jurisdicional.
+Em consulta ao andamento processual no sistema e-SAJ da Corte de origem (cópia às fls. 128/129 - acesso em 29/1/2023), verifica-se que a revisão criminal foi distribuída em 21/9/2022. A liminar foi apreciada em 10/10/2022, e o processo foi encaminhado ao Ministério Público no dia seguinte, tendo sido concluso ao relator em 31/10/2022.
+Nesse contexto, percebe-se que decorreu pouco tempo desde a distribuição do feito até a presente data, não se verificando manifesta ilegalidade.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Não constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Neste sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. EXCESSO DE PRAZO NO JULGAMENTO DA REVISÃO CRIMINAL. INOCORRÊNCIA. MARCHA PROCESSUAL DENTRO DA NORMALIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. "O prazo para a conclusão de julgamento de revisão criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (HC n. 283.430/RJ, Rel. Min. FELIX FISCHER, QUINTA TURMA, Dje 12/6/2015). 3.
+Encontrando-se os autos em devida marcha processual e não sendo o lapso temporal considerável, inviável o reconhecimento do excesso de prazo para o julgamento do pleito revisional.
+4. Agravo regimental improvido. (ARg no HC 439.990/MA, Relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 21/8/2018, DJe 3/9/2018).
+Por fim, quanto ao modo prisional, ressalte-se que a dosimetria da pena do paciente - e, por consectário lógico, o modo prisional imposto - já foi apreciada por esta Corte, nos autos do AREsp 2.135.139/SP, transitado em julgado em 25/8/2022. Não será, portanto, novamente analisada, sob pena de ofensa à coisa julgada.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
