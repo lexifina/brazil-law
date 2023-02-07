@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por BELLS PRODUTOS E DESIGN LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PRESTAÇÃO DE SERVIÇO FORNECIMENTO DE ENERGIA ELÉTRICA - AÇÃO DE COBRANÇA PROCEDÊNCIA DA PRETENSÃO INCONFORMISMO DA RÉ ALEGAÇÃO DE QUE A AUTORA NÃO COMPROVOU O FORNECIMENTO DE ENERGIA NO PERÍODO COBRADO E QUE NÃO ESTAVA MAIS EM ATIVIDADE INADMISSIBILIDADE ENCERRAMENTO DAS ATIVIDADES DA RÉ QUE SE DEU SOMENTE EM MOMENTO POSTERIOR AO DO PERÍODO DE FATURAMENTO DO SERVIÇO EXCESSO DE COBRANÇA NÃO VERIFICADO GRATUIDADE JUDICIÁRIA, CONTUDO, CONCEDIDA À APELANTE APELAÇÃO PARCIALMENTE PROVIDA.
+Alega violação do art. 373, inciso I, do Código de Processo Civil, no que concerne à não comprovação pela parte autora, ora recorrida, do efetivo fornecimento de energia elétrica no período cobrado, trazendo os seguintes argumentos:
+Deve a Autora-recorrida comprovar, dado o ônus da prova para constituição do seu suposto direito (artigo 373, inciso I, do CPC), que MANTEVE EFETIVO FORNECIMENTO DE ENERGIA ELÉTRICA À RÉ-RECORRENTE NO PERÍODO DENUNCIADO. Não provou!
+As faturas, por si só, são imprestáveis para tal fim e DESDE À CONTESTAÇÃO FORAM EXPRESSAMENTE IMPUGNADAS.
+A empresa Ré-recorrente EXPERIMENTOU PROFUNDA CRISE FINANCEIRA E PRATICAMENTE PAROU SUAS ATIVIDADES JÁ EM JULHO DE 2016, tendo sido encerrada oficialmente, perante a JUCESP, em data de 13/12/17 (FLS.261/267).
+Com isso, é impossível que a empresa tenha utilizado energia elétrica no período que compõe a cobrança na lide, se sequer estava em funcionamento, embora, é verdade, ainda sem encerramento oficial.
+Todavia, entendeu o Tribunal de Justiça, por meio do v. acórdão recorrido que:
+ ..
+Data vênia, tem-se que CABIA À AUTORA-RECORRIDA COMPROVAR, POR MEIOS IDÔNEOS E EFICAZES A EFETIVA PRESTAÇÃO DO SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA NO PERÍODO ANUNCIADO, sendo tal atribuição indispensável para constituir seu suposto direito, O QUE NÃO FEZ - artigo 373, inciso I, do CPC.
+Assim, resta patente a violação do artigo acima destacado, de modo que o v. acórdão recorrido deve ser reformado, tudo a reconhecer a necessidade de improcedência dos pedidos formulados na petição inicial, eis que desprovidos da prova necessária à constituição do direito da Recorrida (fls. 368-369).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No mais, os argumentos recursais não convencem.
+As faturas cobradas pela autora referem-se ao período de medição de consumo de energia elétrica que foi de 12.07.2016 a 02.01.2017 (p. 22/33).
+Alega a apelante que encerrou suas atividades em julho de 2016, mas não especifica o dia do mês em que efetivamente parou sua operação. Além disso, é de se notar que no documento de distrato está afirmado pelos distratantes que a empresa somente encerrou suas atividades em dezembro de 2017.
+Portanto, se a única prova documental de que a ré parou de operar é o documento de distrato de p. 261/266, por meio do qual se noticia que houve encerramento das atividades em dezembro de 2017, a apelante não conseguiu demonstrar fato impeditivo, modificativo ou extintivo do direito creditório da autora, uma vez que ela cobra por energia fornecida de julho a dezembro de 2016.
+Ainda que se alegue que o encerramento de fato das atividades empresariais ocorreu em julho de 2016, cabia à ré provar tal circunstância, o que todavia, não está demonstrado nos autos (fls. 352-353).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
