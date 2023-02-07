@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SAECIL-SUPERINT.DE AGUA E ESGOTO DA CIDADE DE LEME, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO Execução Fiscal Exceção prévia de executividade acolhida - Tarifa de Fornecimento de Água e Coleta de Esgoto Exceção prévia de executividade rejeitada Alienação do imóvel anterior aos débitos - Ilegitimidade passiva do executado - Obrigação pessoal Responsabilidade daquele que usufruiu dos serviços Decisão mantida Recurso desprovido" (fl. 116e).
+Nas razões do Recurso Especial (fls. 122/129e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 1.245 do CC/2002; e 2º, § 8º, da Lei 6.830/80.
+Sustentou que:
+"A existência de compromisso de compra e venda, vulgarmente conhecido como contrato de gaveta, juntado as de fls.27/29, não registrado, não pode acarretar extinção da execução, que deve prosseguir em face do atual contribuinte nos termos do voto divergente.
+O artigo 2º, § 8º, da Lei de Execução fiscal estatui ser lícito à Fazenda Pública substituir ou emendar a CDA até o julgamento, em primeira instância, da execução ou dos embargos opostos a ela, inclusive para inclusão no polo passivo do novo proprietário ou possuidor do imóvel.
+Isso porque o título executivo que embasa a cobrança foi emitido depois de regular processo administrativo de lançamento, tendo sido o credito lançado em face do legítimo sujeito passivo constante dos cadastros da fazenda ao tempo do ajuizamento.
+Ora, somente após citada a recorrida da presente ação a Fazenda tomou conhecimento da alienação conforme fls.25.
+Inadmitir tal substituição em ação que versa sobre obrigações incidentes sobre a unidade usuária seria o mesmo que inviabilizar o direito de defesa que tem o proprietário sobre seu bem ou responsabilizar terceiros por obrigações incidentes sobre imóvel que não lhe pertence ou não mais lhe pertence" (fls. 125/126e).
+Ponderou que (fls. 127/128e):
+"Ainda que esta corte se posicione pela extinção, não se pode imputar a fazenda a culpa exclusiva pelo equivocado ajuizamento da ação em face da ex-proprietária do imóvel, até porque a referida alienação de fls.27/29 não foi levada a registro, assim impedindo que o Fisco mantivesse atualizados os seus cadastros.
+O compromisso de compra e venda, vulgo " contrato de gaveta " juntado nos autos as fls.27/29 sem registro no Cartório de Registro de Imóveis somente faz efeito inter partes, sendo os proprietários obrigados legalmente a informar a autarquia.
+Ora no entanto a referida comunicação foi somente realizada pela apelada em 16/06/2020 conforme protocolo as fls.25, ou seja após a citação da presente demanda.
+Somente a alienação do imóvel com a transferência da posse e efetivo registro no cartório de registro de imóveis, garante a publicidade erga omnes da transação, isentando os vendedores da obrigação acessória de informar à fazenda pública a transferência da sua titularidade.
+(..)
+Portanto, considerando a omissão apontada, é possível a cobrança da exação contra quem figurava nos cadastros do Município, até porque, o documento particular, a rigor, não transfere a propriedade do bem imóvel nos exatos termos do artigo 1245 do Código Civil, "in verbis":
+(..)
+Por tal razão, descabida a pretensão de condenar-se a fazenda pública na verba sucumbencial.
+Face ao exposto, respeitosamente requer seja reformada a r. decisão recorrida, pelos argumentos acima alardeados, bem como a condenação da parte adversa, aos pagamentos das custas processuais, verba honorária legal e demais encargos."
+Contrarrazões a fls. 132/146e.
+Inadmitido o Recurso Especial (fls. 147/148e), foi interposto o presente Agravo (fls. 157/172e).
+A irresignação não merece conhecimento.
+O Tribunal estadual, ao julgar o recurso, concluiu que (fls. 117/118e):
+"Portanto, não se trata de obrigação propter rem, pois o débito recai na pessoa do destinatário e consumidor de tais bens e serviços, independente de quem seja o titular do domínio, sendo de rigor o reconhecimento da ilegitimidade passiva em relação ao executado, que não ocupa o imóvel desde 2003, fato suficientemente demonstrado pelo instrumento particular celebrado (fls. 27/29). Assim, o pagamento das aludidas despesas não deve ser imputado ao executado, sem possibilidade alteração do polo passivo, conforme entendimento cristalizado na Súmula 392, do STJ - A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo, já que não se trata de simples emenda da cártula.
+Por fim, não há se falar em descumprimento da obrigação acessória, consistente em atualizar o cadastro municipal de contribuintes, pois a exequente dispõe de todo o aparato administrativo para confirmar dados sobre o executado, antes de ajuizar a ação, não se cogitando de ônus processual."
+O Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada aos dispositivos tidos como violados não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 8% (oito por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
