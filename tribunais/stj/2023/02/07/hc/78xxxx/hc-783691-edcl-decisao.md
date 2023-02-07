@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VINICIUS RUIZ PORTO  contra decisão da minha lavra, assim ementada (fl. 186):
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. POSSE ILEGAL DE ARMA DE USO PERMITIDO. TESE DE AUSÊNCIA DE AUTORIA E MATERIALIDADE DELITIVAS. NECESSIDADE DE INCURSÃO APROFUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ANÁLISE NO ÂMBITO DO WRIT. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS DELITOS QUE INDICA A PERICULOSIDADE DO AGENTE. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E DENEGADA. HABEAS CORPUS. DIREITO PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. POSSE ILEGAL DE ARMA DE USO PERMITIDO. TESE DE AUSÊNCIA DE AUTORIA E MATERIALIDADE DELITIVAS. NECESSIDADE DE INCURSÃO APROFUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ANÁLISE NO ÂMBITO DO WRIT. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS DELITOS QUE INDICA A PERICULOSIDADE DO AGENTE. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E DENEGADA.  "
+Defende o Embargante a contradição do julgado, uma vez que não estava no interior da residência onde foi encontrada a res furtiva, frisando não morar no local . Além disso, sustenta a omissão na análise da ausência de indícios suficientes para manutenção da prisão preventiva, já que a decisão embargada deixou de considerar que a vítima do roubo não o reconheceu.
+Busca o provimento dos aclaratórios com efeitos infringentes, para conhecer e conceder a ordem pleiteada.
+É o relatório. Decido.
+Os embargos não devem ser acolhidos.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado.
+Para se configurar a contradição, é necessário que a fundamentação do julgado esteja em desarmonia com a conclusão atingida, o que em nenhum momento foi demonstrado pelo Embargante.
+No caso, quanto à suposta ausência de indícios de autoria e materialidade delitivas, o julgado embargado expressamente ressaltou que, constatada pelas instâncias ordinárias a existência de prova suficiente para instaurar a ação penal, reconhecer que os indícios de materialidade e autoria do crime são insuficientes para justificar a custódia cautelar implicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na estreita e célere via do habeas corpus.
+Nesse sentido: HC 554.150/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; HC 546.791/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/03/2020, DJe 13/03/2020.
+E se o habeas corpus sequer chegou a ser conhecido é descabido falar em omissão pela falta de enfrentamento das alegações de inocência em suas razões.
+A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. VÍCIOS INEXISTENTES. MATÉRIA SUFICIENTEMENTE DECIDIDA. EMBARGOS REJEITADOS.
