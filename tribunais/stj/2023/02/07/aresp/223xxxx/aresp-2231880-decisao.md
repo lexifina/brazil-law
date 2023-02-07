@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado p or Tatiana Silva Bomfim Moura contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 82):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA NEGATIVA C/C OBRIGAÇÃO DE FAZER. EMENDA À EXORDIAL. INÉRCIA ABSOLUTA. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. MANUTENÇÃO DA R. SENTENÇA. 1. Não atendido o despacho que, com clareza e precisão, indica irregularidades na exordial e determina a sua emenda, impõe -se o indeferimento liminar da petição inicial e a consequente extinção do feito, nos termos do artigo 321, parágrafo único, do CPC. 2. Manutenção da R. Sentença. 3. Negativa de provimento ao recurso.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 98, §5º, 99, §§ 3º e §4º, 290 e 322, § 2º, do CPC. Sustenta, em síntese, que não é cabível a cobrança de custa judiciais e da taxa judiciária no caso em comento, tendo em vista que "não houve sequer ordem para a citação da Requerida, razão pela qual a exigência ofende, inclusive, a razoabilidade, vez que não houve processamento da causa, não houve formação da relação processual e nem ao menos a ordem judicial para a citação da Requerida sobre a existência do processo." (fl. 94).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresign ação não prospera.
+A matéria pertinente aos arts. 98, §5º, 99, §§ 3º e §4º, 290 e 322, § 2º, do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
