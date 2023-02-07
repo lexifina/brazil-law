@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por WILLIAN CESAR DA SILVA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MG.
+Ação: de obrigação de fazer c/c indenização por danos materiais e morais ajuizada por GILVAN FLAUSINO LOYOLA JÚNIOR em desfavor do recorrente, em razão de alegada ausência de transferência de titularidade da motocicleta YAMAHA/XTZ250, placa PWN2983, adquirida do recorrente. Afirma, ademais, que, em 09/06/2020, foi abordado pela Polícia Militar, ocasião em que o bem sido recolhido devido ao vencimento do licenciamento da motocicleta e da ausência de Carteira de Habilitação. Sustenta ter comunicado o fato ao recorrente, para que este procedesse à retirada da motocicleta, mas ele se negou. Ao depois, o recorrente retirou a bicicleta do pátio, mas anunciou a sua venda nas redes sociais.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar resolvido o contrato de compra e venda e condenar o recorrente à devolução da quantia paga pelo recorrido.
+Acórdão: deu provimento à apelação interposta pelo recorrente, para determinar que proceda à transferência da titularidade do bem e efetue o pagamento dos impostos e taxas devidos ao DETRAN, no prazo de 30 (trinta) dias, sob pena de multa diária, conforme a seguinte ementa:
+APELAÇÃO CIVEL - AÇÃO ORDINÁRIA - ALIENAÇÃO DE VEÍCULO -TRANSFERÊNCIA DE TITULARIDADE - INÉRCIA DO COMPRADOR -COMUNICAÇÃO AO DEPARTAMENTO DE TRÂNSITO - OBRIGAÇÃO SOLIDÁRIA-SENTENÇA REFORMADA. O art. 123, inciso I e § 1º do Código de Trânsito Brasileiro, expõe ser incumbência do comprador a transferência da titularidade do bem junto ao Detran. Entretanto, o art. 134, do CTB refere que, caso não haja a providência pelo comprador, deverá o vendedor diligenciar na transferência, sob pena de ser responsabilizado solidariamente.
+Embargos de declaração (1): opostos pelo recorrido, foram acolhidos, com efeitos modificativos, para condenar o recorrente à devolução da integralidade do preço pago.
+Embargos de declaração (2): opostos pelo recorrido, foram rejeitados pela Corte local.
+Recurso especial: alega violação dos arts. 2º, 7º, 141, 492, caput, 489 e 1.022, I e II, do CPC/2015, além de divergência jurisprudencial. Sustenta que a Corte de origem não decidiu sobre o argumento relativo à proibição de reformatio in pejus, bem como que o acórdão é contraditório, porque rejeitou as suas alegações, mas constou do dispositivo o provimento do recurso, e obscuro, uma vez que os direitos e obrigações dos envolvidos não foi claramente definida. Defende ter havido a reformatio in pejus, já que a sentença apenas havia determinado a rescisão do contrato, com a consequente devolução das quantias pagas pelo recorrido, autorizada a compensação e o Tribunal a quo deu provimento à sua apelação, para determinar a devolução da integralidade do montante pago pelo recorrido.
+Decisão de admissibilidade: a Corte local admitiu o recurso especial, determinando a remessa dos autos ao STJ.
+É O RELATÓRIO. DECIDO.
+1. Da negativa de prestação jurisdicional.
+O recorrente alega a existência de omissão, contradição e obscuridade no acórdão recorrido.
+Quanto à suscitada omissão, verifica-se que, em sede de embargos de declaração, o ora recorrente alegou ter havido reformatio in pejus. Todavia, o argumento não foi examinado pela Corte a quo no julgamento dos embargos de declaração (e-STJ, fls. 315-320).
+Acerca da contradição, tem-se que a contradição que justifica a oposição e o acolhimentos dos embargos de declaração é a interna, decorrente da existência de proposições inconciliáveis entre si, mas não a suposta contradição entre o acórdão embargado e as teses que a parte compreendia serem as mais adequadas para a resolução da causa (EDcl na AR n. 6.166/GO, Segunda Seção, DJe de 19/12/2022).
+Na espécie, o Tribunal de origem, ao que parece, manteve a sentença proferida no primeiro grau de jurisdição, mas, no dispositivo, deu provimento à apelação do recorrente (réu), condenando, inclusive, ao pagamento dos ônus sucumbenciais.
+A propalada obscuridade, a seu turno, não se verifica, uma vez que, embora em contrariedade aos interesses do recorrente, a Corte de origem entendeu que cabia ao recorrente proceder à transferência da motocicleta para o nome do recorrido.
+Portanto, constatada a existência de omissão e de contradição no acórdão impugnado, impõe-se o retorno dos autos à origem, ficando prejudicados os demais argumentos suscitados no recurso especial.
+2. Dispositivo.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem, a fim de que sejam sanados os vícios de omissão e contradição, nos termos da fundamentação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE MOTOCICLETA. AUSÊNCIA DE TRANSFERÊNCIA. OMISSÃO. CONTRADIÇÃO. EXISTÊNCIA. OSBSCURIDADE INEXISTENTE.
+1. Ação de obrigação de fazer c/c indenização por danos materiais e morais.
+2. Na hipótese, verifica-se a existência de vícios de omissão e contradição no acórdão recorrido, o que impõe o retorno dos autos à Corte de origem.
+3. Recurso especial conhecido e provido.
