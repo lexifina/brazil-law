@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BANCO SANTANDER (BRASIL) S.A. em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Assevera que "o Recurso Especial aparelhado pelo Embargante cuidou de específica ou pormenorizadamente, elencar o dispositivo legal (leia-se: arts. 246, §1º-A e 485, inciso III e §1º, do CPC) tido como violado pelas instâncias originárias" (fl. 229).
+Aduz ainda que "por ocasião dos princípios da instrumentalidade das formas e da primazia do mérito  ..  a existência de eventual vício de ordem não cogente/dispositivo pode ser suprido ou convalidado pelo Estado-Juiz, na busca pela solução da crise instaurada no caso" (fl. 229).
+Ressalta, ao final, que existe dissídio jurisprudencial devidamente comprovado.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, observo que ao contrário do que foi alegado pelo embargante, não houve indicação expressa do inciso III do art. 485, nem tampouco de qualquer dos incisos do art. 246, § 1º-A, ambos do CPC, como violados. Daí a incidência da Súmula 284/STF.
+Conforme bem destacado na decisão embargada, "essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos ou nos parágrafos" (fl. 221). Justamente por essa razão, não há que se falar em aplicação dos princípios da instrumentalidade das formas e da primazia de mérito, na espécie.
+Da mesma forma, sob o argumento de que o dissídio jurisprudencial restou comprovado, busca o embargante rediscutir o entendimento do decisum embargado de que inexistiu o prequestionamento da tese recursal referente à divergência trazida à baila.
+Ressalto, no entanto, que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
