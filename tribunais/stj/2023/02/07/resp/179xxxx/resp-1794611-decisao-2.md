@@ -1,0 +1,33 @@
+DECISÃO
+MOISES EDIVALDO DA SILVA (MOISES), aposentado da FORD MOTOR COMPANY BRASIL LTDA. (FORD), ajuizou ação de rito ordinário contra esta e BRADESCO SAÚDE S.A. (BRADESCO).
+A sentença julgou parcialmente procedente os pedidos autorias, para que FORD e BRADESCO mantenham o mesmo plano de saúde concedido ao autor e sua dependente durante a vigência do contrato de trabalho, mediante o pagamento integral das mensalidades, ou seja, o valor devido pelo autor na ativa, mais a cota referente à ex-empregadora, tornando definitiva a tutela concedida. Além disso, determinou que o valor definitivo será apurado em liquidação, devendo a ré FORD MOTOR COMPANY BRASIL LTDA. trazer aos autos planilhas dos valores referentes à quantia que subsidiava nos doze meses anteriores à demissão do autor (e-STJ, fls. 725/731).
+Inconformados, MOISES, FORD e BRADESCO apelaram.
+As apelações manejadas por MOISES e FORD foram parcialmente providas, apenas para afastar a liquidação do julgado e fixar a quantia de R$ 844,80 como o valor integral do prêmio, a que o requerente fica obrigado a pagar, com as devidas atualizações, e o apelo de BRADESCO não foi provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. A. C. MATHIAS COLTRO, assim ementado:
+plano de saúde - obrigação de fazer - preliminar de ilegitimidade passiva afastada - aplicação do código de defesa do consumidor - sentença de parcial procedência para manter o autor e sua dependente, no mesmo plano de saúde concedido durante a vigência do contrato de trabalho, mediante o pagamento integral das mensalidades - requeridas que alegam que o valor cobrado é compatível com o do mercado e que está correto; impossibilidade de utilização de índices da ANS para os reajustes e que demonstrou o valor de sua cota-parte - desnecessidade de liquidação do julgado, por demonstrado o valor da cota parte da ex-empregadora - recursos da corré Ford e do autor parcialmente procedente e improcedente o da corré Bradesco (e-STJ, fl. 860).
+Os embargos de declaração interpostos por MOISES foram rejeitados (e-STJ, fls. 919/923).
+FORD e MOISES manejaram recursos especiais.
+O apelo nobre da FORD foi admitido e o de MOISES foi inadmitido.
+MOISES manifestou agravo em recurso especial.
+Nesta Corte, foi determinada a devolução dos autos ao TJSP, em virtude da afetação do Tema 1.034.
+Em juízo de retratação, o Tribunal bandeirante negou provimento ao apelo de MOISES e deu parcial provimento ao apelo de FORD e BRADESCO, para que o autor - MOISES - seja mantido no plano de saúde do qual gozava quando da vigência de seu contrato de trabalho, arcando com o pagamento das mensalidades, no valor apresentado pelas requeridas, quando de sua demissão, devendo incidir reajustes de acordo com os índices autorizados pela ANS, nos termos do acórdão proferido pelo Des. A. C. MATHIAS COLTRO, assim ementado:
+Plano de Saúde Coletivo - Obrigação de fazer - Manutenção do autor e de sua dependente, após a demissão, no plano oferecido pela ex-empregadora - Alegação de abusividade no valor da mensalidade cobrada - Inexistência de tratamento diferenciado aos inativos - Valor da contraprestação que corresponde à somatória da quantia que era cobrada do requerente, na ativa, com a cota patronal - Legalidade da cobrança - Entendimento pacificado pelo Colendo STJ no REsp 1.818.487/SP, julgado sob o regime dos repetitivos Precedentes desta E. Corte - Recurso das corrés parcialmente provido e desprovido o apelo do autor (e-STJ, fl. 1.206).
+Os embargos de declaração interpostos por FORD foram rejeitados (e-STJ, fls. 1.245/1.238).
+O recurso especial manifestado por MOISES, com base no art. 105, III, a e c, da CF, aduziu, além de dissídio jurisprudencial, violação dos arts. 31 da Lei n.º 9.656/98; e 509 e 510, ambos do CPC, sustentando, em suma, que os documentos juntados aos autos NÃO demonstraram de maneira satisfatória o subsidio da ex-empregadora, o que impede a afirmação de que a tabela de cálculo atuarial é o valor integral da mensalidade (e-STJ, fls. 926/945).
+Foram ofertadas contrarrazões (e-STJ, fls. 1.019/1.030 e 1.031/1.039).
+No primeiro juízo de admissibilidade, o Tribunal bandeirante negou seguimento ao apelo nobre (e-STJ, fls. 1.077/1.079).
+Após o juízo de retratação, o TJSP, em novo juízo de admissibilidade, admitiu o apelo nobre manifestado por MOISES (e-STJ, fls. 1.267/1.268).
+É o relatório.
+Decido.
+O recurso especial não merece nem sequer conhecimento.
+Isso porque o apelo nobre foi manifestado contra o acórdão de e-STJ, fls. 859/872.
+Porém, em juízo de retratação, a Corte paulista deu parcial provimento ao apelo de FORD e BRADESCO, para que o autor - MOISES - seja mantido no plano de saúde do qual gozava quando da vigência de seu contrato de trabalho, arcando com o pagamento das mensalidades, no valor apresentado pelas requeridas, quando de sua demissão, devendo incidir reajustes de acordo com os índices autorizados pela ANS, nos termos do acórdão proferido pelo Des. A. C. MATHIAS COLTRO, assim ementado:
+Plano de Saúde Coletivo - Obrigação de fazer - Manutenção do autor e de sua dependente, após a demissão, no plano oferecido pela ex-empregadora - Alegação de abusividade no valor da mensalidade cobrada - Inexistência de tratamento diferenciado aos inativos - Valor da contraprestação que corresponde à somatória da quantia que era cobrada do requerente, na ativa, com a cota patronal - Legalidade da cobrança - Entendimento pacificado pelo Colendo STJ no REsp 1.818.487/SP, julgado sob o regime dos repetitivos Precedentes desta E. Corte - Recurso das corrés parcialmente provido e desprovido o apelo do autor (e-STJ, fl. 1.206).
+Desse modo, tendo o TJSP realizado juízo de retratação, modificando o acórdão anterior, MOISES deveria ter se insurgido contra o novo acórdão, o que não ocorreu.
+Assim, por falta de interesse, o seu apelo nobre não merece nem sequer ser conhecido.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Descabe, a o caso, falar em majoração de honorários recursias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFICIÁRIO. PLANO DE SAÚDE COLETIVO EMPRESARIAL. DEMISSÃO SEM JUSTA CAUSA DE EX-EMPREGADO APOSENTADO. APELO NOBRE MANIFESTADO CONTRA ACÓRDÃO NO QUAL HOUVE SUPERVENIENTE JUÍZO DE RETRATAÇÃO, EXERCIDO PELO TRIBUNAL DE ORIGEM. PARTE RECORRENTE QUE NÃO SE INSURGIU CONTRA O NOVO ACÓRDÃO. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO ESPECIAL NÃO CONHECIDO.
