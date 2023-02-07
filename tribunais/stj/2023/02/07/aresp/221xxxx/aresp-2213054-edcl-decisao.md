@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DARLENE MARLI DOS SANTOS à decisão de fls. 1558/1559, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Às fls. 780/782, acostadas no ato da interposição do recurso, a recorrente, ora Embargante, apresentou Aviso de Indisponibilidade de Sistemas desenvolvido pela Secretaria de Tecnologia da Informação do Tribunal de Justiça de São Paulo, comprovando o quanto asseverado.
+Aliás, por se tratar de fato comprovado, a Procuradoria-geral de Justiça do Ministério Público de São Paulo, ao apresenta a Contraminuta (fls. 785/793) não arguiu a intempestividade do recurso, em face da conhecida, comprovada e severa indisponibilidade do sistema (e-Saj).
+Sem considerar a severa indisponibilidade do sistema, o prazo encerraria em 26/07/2022. Todavia, com a comprovação desta, não só mas especialmente nos dias 13/07/2022, 18/07/2022 e 19/07/2022, de rigor a prorrogação do prazo processual para o dia 29/07/2022, tendo-se, pois, o recurso por tempestivo (fl. 1562).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Observe-se que houve a disponibilização da decisão de admissibilidade do recurso especial em 8/7/2022, e uma vez que houve indisponibilidade de sistema no dia 11/7/2022 (fl. 1538), considera-se a publicação em 12/7/2022 (fl. 754). Assim, excluindo-se o dia 12/7/2022 (primeiro dia), inicia-se a contagem no dia 13/7/2022, até o dia 27/7/2022.
+Dessa forma, o prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal terminou no dia 27/7/2022, sendo que o agravo em recurso especial foi interposto somente em 29/7/2022 , fora do prazo.
+No mais, importante ressaltar que a consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC: a prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do dia.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se
