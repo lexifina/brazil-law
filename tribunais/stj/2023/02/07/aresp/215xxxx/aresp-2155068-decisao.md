@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por COMPANHIA ENERGÉTICA DO RIO GRANDE DO NORTE COSERN contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE cuja ementa guarda os seguintes termos (fls. 329):
+CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL DEEMENTACONTRATO DE RENEGOCIAÇÃO DE DÍVIDA. CAPITALIZAÇÃOMENSAL EVIDENCIADA POR MEIO DE LAUDO CONTÁBILELABORADO PELO AUTOR. PROVA PERICIAL DISPENSADAPELAS PARTES. RÉU QUE NÃO CUIDOU EM DESQUALIFICAR APROVA PRODUZIDA PELO AUTOR. ÔNUS QUE LHE COMPETIA. ART. 341 DO CPC. CAPITALIZAÇÃO NÃO AUTORIZADACONTRATUALMENTE. IMPOSSIBILIDADE DE CAPITALIZAÇÃO. LEI DE USURA. ENTE NÃO INTEGRANTE DO SISTEMAFINANCEIRO. PRECEDENTES. APELO PROVIDO. SENTENÇAREFORMADA.
+Sem embargos de declaração.
+No recurso especial, alega a recorrente ofensa aos arts. 341 e 932, III, do Código de Processo Civil, ao defender o entendimento proferido no acórdão recorrido contrariou o disposto nos artigos acima transcritos, porquanto impugnou e provou a existência de vícios na prova apresentada pelo município o qual deixou de impugnar especificamente os dois fundamentos utilizados pelo juiz que o levaram a julgar improcedente o recurso.
+Foram oferecidas contrarrazões ao recurso especial (fls. 377/382).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 383/384), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta ao agravo (fls. 402/403).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Consta dos autos que o Tribunal de origem deu provimento ao apelo do município, ora recorrido, para expurgar os juros compostos sobre os contratos elencados na exordial, autorizando a repactuação contratual nos moldes previstos nos cálculos elaborados no laudo, momento em que entendeu que houve indevida capitalização mensal de juros porquanto não prevista nos contratos.
+De início, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender pela ocorrência de capitalização de juros no caso, o que não está previsto nos contratos entre as partes, firmou o entendimento com base no conjunto probatório dos autos, em cláusulas contratuais. Confira-se o seguinte excerto o referido acórdão (fls. 332/333):
+O Apelante cuidou em instruir o seu pedido com prova técnica contábil que atesta a prática de capitalização de juros sobre os contratos em análise, os quais resultam em um excesso de cobrança da ordem de R$ 556.254,35 (quinhentos e cinquenta e seis mil, duzentos e cinquenta e quatro mil e trinta e cinco centavos) (Id 6716594 - pág. 13 a 50; Id 6716595 - pág. 01 a 26).
+Nesse contexto, tendo o Apelante comprovado a probabilidade do seu direito, cabia ao Apelado em sua contestação refutar especificamente as alegações autorais, bem como elaborar contraprova apta a desqualificar as provas então produzidas pelo Apelante em suas razões iniciais, o que não verificou.
+Assim, não tendo o Apelado pugnado, oportunamente, pela produção de prova pericial, entendo que o laudo contábil elaborado unilateralmente pelo Apelante é capaz de comprovar a incidência de juros compostos nos contratos em exame, devendo-se presumir verdadeiros os cálculos lá constantes, a teor do caput do art. 341 do CPC/2015.
+(..)
+Não obstante, consoante entendimento acima externado a capitalização de juros com periodicidade inferior à anual exige expressa pactuação, o que não restou evidenciada nos contratos em comento.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. ISSQN. SOCIEDADE DE ADVOCACIA. SERVIÇOS PESSOAIS E NÃO EMPRESARIAIS. RAZÕES RECURSAIS DISSOCIADAS. SÚMULAS 283 E 284 DO STF. REEXAME DE CLAÚSULAS E PROVAS VEDADO. SÚMULAS 5 E 7 DO STJ.
+1. O Agravo Interno não procede.
+2. Assim julgou o Tribunal de origem (fls. 546-551, e-STJ;
+grifou-se): "Da análise dos contratos sociais juntados (págs. 27/39) verifica-se que a empresa tem por objeto social a "o exercício da atividade profissional de advocacia e seu prazo de duração será por tempo indeterminado" (pág.33). No caso dos autos, a impetrante não presta serviços de forma empresarial, pois exsurge labor efetuado em caráter pessoal, nas pessoas de seus sócios. O fato de a impetrante exercer atividades de arbitragem não é, por si só, justificativa para o indeferimento de seu enquadramento do regime especial próprio das sociedades uniprofissionais, porque a prestação de serviços sempre foi pessoal."
+3. O próprio Recorrente sintetiza que, in verbis, "a questão controvertida nos autos é saber se as sociedades de advocacia que tenham árbitros como sócios podem ou não ser enquadradas no regime especial das sociedades uniprofissionais - SUP" (fl. 562, e-STJ;
+grifou-se). Alega ainda que "as sociedades que têm como objeto os serviços de arbitragem não podem se beneficiar do regime jurídico-tributário das Sociedades Uniprofissionais" (fl. 564, e-STJ; grifou-se).
+4. Contudo, o acórdão recorrido deixa claro que os sócios são advogados, e não árbitros, e que o objeto social é o exercício da advocacia. Assim, a tese recursal está dissociada das razões decisórias, o que atrai, por analogia, os óbices das Súmulas 283 e 284 do STF. Precedentes do STJ.
+5. Rever as premissas do julgado para avalizar o argumento recursal implicaria reexame das cláusulas empresariais e das provas dos autos, o que violaria as Súmulas 5 e 7 do STJ. Ademais, é impossível alterar as conclusões alcançadas no aresto impugnado para contrariar o caráter não empresarial da sociedade recorrida sem reexame probatório, o que é vedado pela Súmula 7/STJ. Precedentes do STJ.
+6. Ainda que tais óbices inexistissem, o entendimento desta Corte é de que as sociedades de advogados que não possuem natureza mercantil e são uniprofissionais possuem tratamento tributário diferenciado.
+Precedentes do STJ.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.086.119/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
