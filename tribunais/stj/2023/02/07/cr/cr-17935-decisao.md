@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro - Juízo Local Criminal de Loulé - Juiz 3) solicita que se proceda à intimação pessoal de MARCELO DE FREITAS para proceder ao pagamento integral da pena de multa no montante de  260,00 (duzentos e sessenta euros), imposta em razão de sentença que o condenou pela condução de veículo em estado de embriaguez (fls. 4/7).
+Concedido o exequatur (fls. 35/36), foram os autos remetidos à Seção Judiciária do Estado do Espírito Santo. Os autos retornaram a essa Corte acompanhados de certidão negativa exarada por oficial de justiça, cujo teor é a seguir transcrito (fl. 121):
+Certifico e dou fé que, em cumprimento deste mandado, dirigi-me à Rua João Lopes nº 19, Bairro Taquara II, Serra/ES, onde, em 30/11/22, a moradora Sr.ª Maria das Graças Vasconcelos, que disse que o intimando é seu filho; que sabe que ele está morando em Vila Velha, mas não sabe o endereço; que ele não tem telefone; que ela já deu três aparelhos de celular para ele, mas ele vendeu os três para comprar droga; que ele já foi internado várias vezes em clínicas para recuperação de dependentes químicos; que ele não trabalha.
+Ante o exposto, não foi possível proceder à intimação de Marcelo de Freitas.
+Pelo exposto, verifica-se que as providências para localização da parte interessadas não foram frutíferas, razão pela qual determino a devolução da comissão, sem cumprimento, ao Juízo rogante, por intermédio da autoridade central, nos termos do art. 216-X, do RISTJ.
+Publique-se.
