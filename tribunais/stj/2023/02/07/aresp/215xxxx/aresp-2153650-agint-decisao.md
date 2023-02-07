@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul contra decisão da Presidência desta Corte Superior que não conheceudo agravo em recurso especial, ante a incidência da Súmula 182/STJ (fls. 825/827).
+Inconformada, a parte agravante sustenta a inaplicabilidade do referido óbice, sob o argumento de que "da simples leitura da minuta de agravo, depreende-se que o referido fundamento da decisão de inadmissibilidade do recurso especial foi devida e especificamente impugnado pela Autarquia. Senão vejamos. No que toca à suposta incidência do óbice da Súmula 83/STJ, o ente público asseverou, em seu agravo, que o STJ enfrentou por diversas vezes a matéria, diversamente do argumento do tribunal de piso para negar seguimento ao recurso:  ..  Ressalvou, também, que esta não foi a única tese jurídica trazida no seu recurso, que também tratou da nulidade da decisão de inadmissão  ..  É patente, portanto, que o ente público impugnou o fundamento do Tribunal de origem segundo o qual incide, no caso, o óbice da Súmula 83/STJ." (fls. 832/834).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 825/827), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
