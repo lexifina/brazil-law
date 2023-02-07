@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COSTA E SANTOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e EDSON ALVES DOS SANTOS, contra decisão unipessoal (e-STJ fls. 868/882), que conheceu do agravo, para conhecer parcialmente do recurso especial, negando-lhe provimento, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INADIMPLEMENTO CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL. CORREÇÃO MONETÁRIA. ORDEM PÚBLICA. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança por inadimplemento contratual.
+2. Esta Corte Superior de Justiça firmou entendimento no sentido de que nas pretensões que tenham como fundamento a responsabilidade contratual incide o prazo prescricional decenal, nos termos do art. 205 do CC/2002. Súmula 568/STJ.
+3. Ademais, o STJ entende que "enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva. Precedentes.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido."
+No presente recurso, a parte embargante sustenta " ..  omissão quanto atese constante nas razões de recurso especial no tocante aos princípios "reformatio in pejus", uma vez que no presente caso a discussão não é a respeito da fixação da correção monetária e juros de mora, mas sim dos critérios utilizados pelo Egrégio Tribunal "a quo" que alterou os critérios fixando o marco inicial para fins de correção monetária data anterior a fixada na r. sentença, mesmo a EMBARGADA não impugnando a data fixada  .. " (e-STJ fl. 875)
+Alega omissão quanto aos precedentes desta Corte citados a título de fundamentação em seu recurso especial.
+Defende omissão, pois a decisão " ..  deixou de analisar a questão de que o artigo 1.013 do CPC, o qual possui o princípio "tantum devolutum quantum appellatum"  .. " (e-STJ fl. 876).
+Sustenta omissão constante a respeito da questão da dívida objeto de cobrança nos autos de origem estar lastreada em um contrato, cuja dívida é líquida, certa e exigível nos termos descritos na inicial.
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+No que tange às alegações de prescrição, de proibição da "reformatio in pejus" e de incidência do princípio "tantum devolutum quantum appellatum", a decisão embargada foi clara ao explicitar que:
+"Esta Corte Superior de Justiça firmou entendimento no sentido de que nas pretensões que tenham como fundamento a responsabilidade contratual incide o prazo prescricional decenal, nos termos do art. 205 do CC/2002.
+ ..
+Ademais, o STJ entende que "enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva." (AgInt no REsp 1.910.903/SC, 4ª Turma, DJe 18/06/2021). Cita-se também como precedentes: AgInt no AREsp 1.836.672/PR, 4ª Turma, DJe de 08/10/2021; AgInt no AREsp 1.221.292/DF, 4ª Turma, DJe de 23/09/2021; AgInt no REsp 1.903.615/RJ, 1ª Turma, DJe de 14/09/2021; AgInt no AREsp 1756890 / RJ, 3ª Turma, DJe de 07/06/2021."
+Apenas a título de dilucidação, cita-se precedentes desta Corte acerca da matéria:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALTERAÇÃO, DE OFÍCIO, DO TERMO INICIAL DOS JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. JULGAMENTO "EXTRA PETITA" E REFORMATIO IN PEJUS. INEXISTÊNCIA.
+1. O Tribunal a quo decidiu em conformidade com o entendimento desta Corte Superior, de acordo com o qual o termo inicial dos juros de mora constitui matéria de ordem pública, podendo ser alterado de ofício. Mesmo raciocínio empregado quanto a inversão dos honorários sucumbenciais, pois foi constatada ilegalidade quanto a sua distribuição, pois o autor se sagrou vencedor em maior parte dos pedidos.
+2. A jurisprudência do STJ é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.832.824/RJ, Terceira Turma, DJe de 22/9/2022.)"
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO. NULIDADE. NÃO OCORRÊNCIA. PRESSUPOSTOS PRESENTES. CORREÇÃO MONETÁRIA. COISA JULGADA. NÃO CONFIGURAÇÃO. HONORÁRIOS SUCUMBENCIAIS. NOVA FIXAÇÃO. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Para que seja caracterizado o dissídio jurisprudencial, é essencial a existência de similitude fática entre o acórdão recorrido e os julgados apontados como paradigmas.
+3. Os embargos de declaração, ordinariamente integrativos, podem ter, excepcionalmente, efeitos infringentes, desde que constatada a presença de um dos vícios do artigo 535 do Código de Processo Civil de 1973 (ou artigo 1.022 do Código de Processo Civil de 2015), cuja correção importe alterar a conclusão do julgado.
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que as matérias relativas à atualização monetária e aos juros de mora são de ordem pública, pelo que a alteração de percentuais ou dos termos inicial e final pode ser feita de ofício pelo julgador, não configurando reformatio in pejus ou incidindo, à hipótese, a preclusão temporal.
+5. A correção monetária é matéria de ordem pública, integrando o pedido de forma implícita, motivo pelo qual sua inclusão ex officio, pelo juiz ou tribunal, não caracteriza julgamento extra ou ultra petita. Logo, não há ilegalidade na sua inclusão de ofício, visto que constitui mera atualização do poder aquisitivo da moeda.
+Ausência de constatação de coisa julgada.
+6. Acolhida parcialmente a impugnação ao cumprimento de sentença, o redimensionamento da sucumbência é decorrência lógica, de modo que após a feitura dos novos cálculos é que se poderá saber o grau de sucumbência de cada parte.
+7. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.710.514/PR, Terceira Turma, DJe de 5/5/2022.)"
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. ATRASO NA ENTREGA DO IMÓVEL. INADIMPLEMENTO CONTRATUAL. CULPA CONCORRENTE. VERIFICAÇÃO. SÚMULAS N. 5 E 7 DO STJ. JUROS DE MORA E CORREÇÃO MONETÁRIA DO SALDO DEVEDOR. EXCLUSÃO DE OFÍCIO. JULGAMENTO FORA DOS LIMITES DA LIDE. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que exijam a interpretação de cláusula contratual ou o revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso, para descaracterizar a mora da empresa, seria imprescindível nova análise da matéria fática, inviável em recurso especial. Pelo mesmo motivo, não há como averiguar em recurso especial a concorrência de culpa das partes pelo atraso na entrega do empreendimento imobiliário.
+3. "A jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus" (AgInt no AgInt no AREsp n. 1.379.692/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 2/12/2019, DJe 5/12/2019), o que foi observado na origem.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ). Ademais, "encontrando-se o aresto de origem em sintonia à jurisprudência consolidada nesta Corte, a Súmula 83 do STJ serve de óbice ao processamento do recurso especial, tanto pela alínea "a" como pela alínea "c", a qual viabilizaria o reclamo pelo dissídio jurisprudencial" (AgInt nos EDcl no AREsp n. 741.863/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 1º/4/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.654.833/PR, Quarta Turma, DJe de 11/2/2021.)"
+Ressalta-se que, com exceção dos precedentes vinculantes previstos no rol do art. 927 do CPC, inexiste obrigação do julgador em analisar e afastar todos os precedentes, acórdãos e sentenças, suscitados pelas partes. (AgInt no AREsp 1427771/SP, Quarta Turma, DJe 27/06/2019).
+Na verdade, revela-se nítida a pretensão da parte embargante de se valer do recurso integrativo para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
