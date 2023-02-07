@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUCAS OLIVEIRA SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0003516-31.2022.8.26.0269).
+Consta dos autos que o Juízo das execuções penais revogou o livramento condicional concedido ao paciente em razão do cometimento de novo delito, fixando a data deste como marco inicial para o cálculo do lapso temporal para o benefício.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao agravo em execução, nos termos da seguinte ementa (e-STJ fl. 78):
+Agravo em execução. Decisão da origem que cassou o livramento condicional em razão de prática de nova infração penal. Inconformismo da defesa. Cometimento de novo crime que configura marco inicial para contagem de tempo de benefícios. Precedentes fortes na jurisprudência desta C. Câmara Criminal. Prática de novo crime ocorrida previamente ao esgotamento do período de prova do livramento condicional. Cassação do benefício acertada. Agravo improvido.
+No presente writ, a defesa relata que "ao Paciente, depois de preenchidos os requisitos do artigo 83 do Código Penal, foi concedido o Livramento Condicional em 18/11/2019. Nestes termos, o período de provas findou-se em 05/11/2021, sem qualquer notícia de sustação ou revogação do benefício, considerando-se, portanto, cumprido o período de prova. Sobreveio, entretanto, a decisão de 1º grau que revogou o livramento condicional em 08/06/2022, portanto, após o escoamento do período de provas, e determinou o desconto provisório do tempo em que o executado ficou em liberdade como pena não cumprida" (e-STJ fl. 6).
+Requer, inclusive liminarmente, a cassação da decisão proferida pela autoridade coatora, declarando o cumprimento do período de provas do livramento condicional.
+Indeferida a liminar (e-STJ fls. 90/91), e prestadas as informações solicitadas (e-STJ fls. 95/97 e 101/112); manifestou-se o Ministério Público Federal pela denegação da ordem (e-STJ fls. 114/118).
+É o relatório.
+Decido.
+No caso dos autos, assim decidiu o Juízo da Vara das Execuções Criminais e Infância e Juventude da Comarca de Itapetininga/SP (e-STJ fls. 103/104):
+1  Consta dos autos que o sentenciado foi condenado no processo crime nº 1518940-36.2020.8.26.0228, da 2ª Vara Criminal da Comarca de São Paulo/SP, à pena privativa de liberdade de 03 anos e 02 meses de reclusão, com sentença transitada em julgado para as partes.
+O advento de nova condenação à pena privativa de liberdade imposta em sentença irrecorrivel, por crime cometido durante a vigência do livramento condicional, é causa de revogação obrigatória do benefício.
+Diante do exposto, REVOGO o livramento condicional concedido a LUCAS OLIVEIRA SANTOS, nos autos dos feitos criminais que instruem as 1ª a 6ª execuções criminais, com fundamento no artigo 86, inciso I, do Código Penal.
+Prevalece o regime fechado para o cumprimento das penas, eis que foi esse o regime imposto na 7ª execução criminal.
+Por ter cometido diversas faltas, declaro a perda de um terço (1/3) dos dias remidos pelo trabalho, em período anterior à data em que foi cometido o novo delito.
+Se possível, elabore-se novo cálculo de liquidação de penas, descontando-se o tempo em que o sentenciado esteve em liberdade condicional, considerando-se esse período como tempo de interrupção de pena.
+ ..
+O Tribunal de origem negou provimento ao agravo, com espeque na seguinte argumentação (e-STJ fls. 79/81):
+O sentenciado usufruía de livramento condicional, quando praticou novo delito, consistente em furto simples conduta que também é considerada falta grave.
+Diante disso, a origem revogou o livramento condicional formulado pelo agravante, determinando a formação de novos cálculos, com a data do cometimento do novo delito a constituir a data-base para o cálculo do lapso para o benefício pretendido(f. 12/14).
+Inconformada, recorre a defesa, requerendo a cassação da r. decisão, argumentando que o período de provas do livramento condicional já se teria esgotado aos 5. nov. 2021, previamente ao cometimento da nova infração penal.
+Sem razão, entretanto.
+A discussão travada nos autos cinge-se à extensão do efeito interruptivo ao livramento condicional.
+De rigor a interrupção do lapso para fins de livramento condicional, exatamente como procedido pelo d. Juízo de origem.
+Importante observar que, mesmo diante das importantes alterações legislativas trazidas pela Lei n.º 13.964/19, o chamado "Pacote Anticrime", a prática de fato definido como crime doloso não deixou de ser considerada falta grave.
+Nessa hipótese, de prática de falta grave consistente em fato definido como crime, o efeito interruptivo encontra fundamento na orientação de precedentes do E. Supremo Tribunal Federal (HC nº 100.062, Rel. Min. Marco Aurélio, j. 20. abr. 2010, HC nº 106.865, Rel. Min. Ricardo Lewandowski, j. 22. fev. 2011).
+Portanto, a despeito do teor da Súmula nº 441 do C. Superior Tribunal de Justiça que não possui efeito vinculante - ele deve ser determinado, data venia.
+E não poderia ser outra a solução, até sob pena de se obter resultado incoerente com a interrupção do lapso para fins de progressão de regime, possibilitando que o condenado que não tenha cumprido o período necessário para progredir - isto é, para o menos - já tenha, entretanto e para o mais, preenchido o requisito objetivo do livramento condicional.
+Assim e desde que não extinta a pena, na hipótese de cometimento de novos delitos, como aqui, imprescindível o reinício da contagem do prazo para fins de livramento condicional.
+ ..
+Vale destacar, enfim, que a data da falta grave, que in casu é a data do cometimento do novo delito é 09. set. 2020, portanto anteriormente ao cumprimento do período de provas do livramento condicional.
+Ocorre que a origem não poderia entender pelo reconhecimento da novel infração penal antes do trânsito em julgado, este sim ocorrido posteriormente.
+Entrementes, ainda que não sustado cautelarmente o benefício, o que poderia ser aplicado pela origem, tem-se que o sentenciado praticou nova infração penal durante o livramento condicional, falhando, portanto, no período de provas.
+Donde a necessária revogação, como bem entendeu e fundamentou a origem.
+Daí porque não se acolhe o recurso da defesa.
+Nada se altera, portanto.
+Nega-se provimento ao agravo.
+Da leitura do trecho acima colacionado, verifica-se que o Tribunal de origem decidiu de forma contrária à jurisprudência desta Corte segundo a qual, "consoante o disposto no art. 90 do Código Penal - CP e 146 da Lei de Execução Penal - LEP, não é possível prorrogar, suspender ou revogar o livramento condicional após o escoamento do período de prova, mesmo que em razão da prática de novo delito durante o referido período, pois, terminado o prazo, considera-se extinta a pena privativa de liberdade" (HC n. 357.145/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2016, grifei).
+Nesse mesmo sentido, confiram-se, ainda, os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO PENAL. CRIME PRATICADO DURANTE O LIVRAMENTO CONDICIONAL. NÃO OCORRÊNCIA DE SUSPENSÃO DO BENEFÍCIO DURANTE O PERÍODO DE PROVA. EXTINÇÃO DA PENA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O presente habeas corpus não merece conhecimento, porque substitutivo de recurso especial. No entanto, a ordem comporta concessão de ofício, ante a existência de flagrante ilegalidade na liberdade de locomoção do paciente.
+- Esta Corte possui o entendimento de que o magistrado deve suspender cautelarmente o livramento condicional nos casos em que o apenado praticar novo delito. Do contrário, transcorrido o período de prova, não se admite a revogação do benefício, devendo a pena ser extinta, como na hipótese dos autos.
+- Habeas corpus não conhecido, mas concedida a ordem de ofício para declarar extinta a pena do paciente pelo transcurso do período de prova do livramento condicional (HC n. 342.756/SP, relator Ministro Ericson Maranho, Desembargador Convocado do TJSP, Sexta Turma, DJe de 16/3/2016, grifei).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL. CONCLUSÃO DO PERÍODO DE PROVA, SEM QUE TENHA HAVIDO SUSPENSÃO CAUTELAR, REVOGAÇÃO OU PRORROGAÇÃO DO BENEFÍCIO. IMPOSSIBILIDADE DE POSTERIOR APLICAÇÃO DESSAS MEDIDAS, AINDA QUE PRATICADO NOVO CRIME, NO CURSO DO LIVRAMENTO. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Nos termos da jurisprudência pacífica do STJ, concluído o prazo do livramento condicional, sem que tenha havido suspensão cautelar, revogação ou prorrogação do benefício, não é mais possível a adoção de tais medidas, ainda que se tenha praticado novo crime, durante o período de prova, devendo ser julgada extinta a punibilidade do condenado.
+II. Consoante a jurisprudência, "o Superior Tribunal de Justiça já consolidou o entendimento de que expirado o período de prova do livramento condicional sem qualquer sobrestamento, torna-se inviável ao magistrado da execução, a quem compete fiscalizar o correto cumprimento da pena corporal, suspender, revogar ou, ainda, prorrogá-lo, posteriormente, em razão de ter o reeducando cometido novo delito durante sua vigência" (STJ, AgRg no HC 184.634/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 23/08/2012).
+III. Agravo Regimental improvido (AgRg no HC n. 206.937/RJ, relatora Ministra Assusete Magalhães, Sexta Turma, DJe de 11/10/2013, grifei).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. NOVO CRIME. INEXISTÊNCIA DE DECISÃO SUSPENDENDO OU REVOGANDO O BENEFÍCIO DURANTE PERÍODO DE PROVA. EXTINÇÃO DA PUNIBILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. "A suspensão do curso do livramento condicional até a decisão definitiva do processo resultante da imputação da prática do crime durante a sua vigência é medida cautelar, dependente de decisão judicial específica. Não tendo havido a suspensão cautelar, corre sem óbice o prazo do livramento, cujo termo, sem revogação, implica extinção da pena." (STF, HC 81879-0/SP, Relator Ministro Sepúlveda Pertence, DJ de 6/8/2002).
+2. Não tendo sido suspenso, por medida cautelar, o livramento condicional durante o período de prova, impõe-se a declaração de extinção da pena, não se mostrando possível a revogação posterior do benefício.
+3. Decisão que se mantém por seus próprios fundamentos.
+4. Agravo regimental a que se nega provimento (AgRg no HC n. 112.076/SP, relator Ministro Celso Limongi, Desembargador Convocado do TJSP, Sexta Turma, DJe de 6/12/2010, grifei).
+PROCESSO PENAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. MEDIDA CAUTELAR. SUSPENSÃO. EXTINÇÃO DA PUNIBILIDADE. COMETIMENTO DE NOVO DELITO NO CURSO DO BENEFÍCIO.
+I - Apesar de compulsória a revogação do livramento condicional, no caso de o liberado ser condenado mediante sentença irrecorrível à pena privativa de liberdade por crime cometido durante a vigência do benefício (art. 86, I, do Código Penal), necessária se faz a suspensão do seu curso, por medida cautelar (art. 732 do CPP e 145 da LEP). (Precedentes do Pretório Excelso e desta Corte).
+II - Não havendo qualquer óbice, suspendendo ou revogando o benefício, deve ser declarada extinta a pena, nos termos do art. 90 do Código Penal. Ordem concedida (HC n. 370.004/SP, relator Ministro Felix Fisher, Quinta Turma, DJe de 10/2/2017, grifei).
+Ante o exposto, concedo a ordem para declarar cumprido o período de provas do livramento condicional.
