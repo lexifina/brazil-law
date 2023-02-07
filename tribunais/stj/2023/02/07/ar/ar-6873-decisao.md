@@ -1,0 +1,27 @@
+DECISÃO
+Ingressou Martinha de Oliveira Castro com a presente ação rescisória objetivando a desconstituição do acórdão proferido pela Quarta Turma desta Corte Superior no julgamento do mérito do REsp n. 1.435.392/RJ.
+Alega a autora que o referido órgão julgador, por maioria de votos, negou provimento ao recurso especial por ela interposto, e que, ao assim decidir, teria incorrido em manifesta violação a diversas normas jurídicas, o que autorizaria o ajuizamento da presente ação com fundamento no art. 966, V, do CPC/2015.
+Brevemente relatado, decido.
+A presente ação rescisória deve ser extinta, de plano, em razão de o seu ajuizamento ter ocorrido quando já esgotado o prazo decadencial de dois anos.
+Ao que se colhe das peças que instruem a inicial, o REsp n. 1.435.392/RJ teve o seu mérito julgado pela Quarta Turma na sessão do dia 7/11/2017.
+Publicado o acórdão em 5/12/2017, a recorrente a ele opôs embargos de declaração, que foram julgados e rejeitados pela Quarta Turma na sessão realizada em 8/5/2018.
+A publicação do acórdão dos embargos ocorreu em 15/5/2018.
+Em 16/5/2018, primeiro dia útil após a publicação, teve início, para a recorrente, o prazo de quinze dias úteis para interposição de eventual novo recurso.
+Referido prazo findou em 6/6/2018 sem que houvesse a apresentação de qualquer recurso, daí por que foi certificado o trânsito em julgado do processo no dia 7/6/2018.
+Ocorre que a presente ação rescisória somente foi ajuizada nesta Corte Superior no dia 10/11/2020, quando já havia expirado o prazo decadencial de dois anos previsto no art. 975 do CPC/2015.
+Na tentativa de justificar a propositura tardia da presente ação, a parte autora alega que, após o trânsito em julgado do REsp n. 1.435.392/RJ, ingressou, ainda em 2018, com uma reclamação no colendo Supremo Tribunal Federal, sob a alegação de que o acórdão da Quarta Turma teria desrespeitado decisão proferida pela Suprema Corte: trata-se da Reclamação n. 30.727/RJ, cuja relatoria coube ao ilustre Ministro Celso de Mello.
+Ao apreciar o reclamo, S. Exa. decidiu negar-lhe seguimento por decisão monocrática (e-STJ, fls. 204-213), seguindo-se a isso a negativa de provimento, pela Segunda Turma do STF, ao agravo interno interposto pela reclamante, bem como a rejeição dos declaratórios por ela opostos. O trânsito em julgado da mencionada reclamação ocorreu em 11/8/2020 (e-STJ), e dessa data é que se contaria, no modo de ver da autora, o prazo para o ajuizamento da rescisória.
+Ocorre que essa forma de contagem de prazo não encontra amparo na lei processual em vigor.
+Na dicção do art. 975, caput, do CPC/2015, "o direito à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo".
+Como o objetivo da autora ao ingressar com o presente pedido de rescisão é declaradamente o de ver desconstituído o acórdão proferido pelo STJ no julgamento do REsp n. 1.435.392/RJ, é fora de dúvida que o prazo decadencial de dois anos deve ser contado do trânsito em julgado da última decisão proferida nesse processo.
+A reclamação ajuizada na Suprema Corte possui natureza de ação constitucional, tratando-se, pois, de novo processo, sem nenhuma influência na contagem do prazo para ajuizamento da rescisória.
+Em outra linha de argumentação, a autora justifica o ajuizamento extemporâneo da rescisória na alegação de que estaria amparada pela suspensão dos prazos processuais decorrente da pandemia da Covid-19.
+Conquanto seja certo que, no âmbito desta Corte Superior, houve a suspensão dos prazos processuais em razão da pandemia a partir do dia 19/3/2020, referidos prazos voltaram a fluir na data de 4/5/2020, tal como expressamente determinado pelo art. 1º da Resolução STJ/GP n. 10/2020.
+A contagem do prazo decadencial somente seria impactada por esse fato se o biênio eventualmente se encerrasse no período de suspensão - 19/3/2020 a 3/5/2020. Fosse esse o caso, o prazo final ficaria prorrogado para o dia 4/5/2020, data em que cessada a suspensão.
+Essa interpretação é extraída da norma contida no § 1º do art. 975 do CPC/2015: "prorroga-se até o primeiro dia útil imediatamente subsequente o prazo a que se refere o caput , quando expirar durante férias forenses, recesso, feriados ou em dia em que não houver expediente forense".
+Mas, como já adiantado, o prazo bienal para propositura da rescisória, iniciado em junho de 2018, se encerraria, como de fato se encerrou, em junho de 2020, daí não ter sido afetado, em nenhuma medida, pela suspensão decorrente da pandemia.
+Tendo, pois, por configurada a decadência, julgo extinta a presente ação rescisória com resolução do mérito, nos termos do art. 487, II, do CPC/2015.
+Publique-se.
+EMENTA
+AÇÃO RESCISÓRIA. PRAZO DECADENCIAL BIENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA NO PROCESSO. ART. 975, CAPUT, DO CPC/2015. AJUIZAMENTO DE RECLAMAÇÃO NO STF TENDO POR OBJETO O ACÓRDÃO DO STJ QUE SE PRETENDE RESCINDIR. FATO SEM REPERCUSSÃO NA CONTAGEM DO PRAZO PARA AJUIZAMENTO DA RESCISÓRIA. SUSPENSÃO DOS PRAZOS NO STJ EM RAZÃO DA PANDEMIA DE COVID-19. RELEVÂNCIA APENAS NOS CASOS EM QUE O PRAZO DECADENCIAL EXPIRAR NO PERÍODO DE SUSPENSÃO, PRORROGANDO-SE PARA O PR IMEIRO DIA ÚTIL IMEDIATAMENTE SUBSEQUENTE AO TÉRMINO DA SUSPENSÃO . IMPROCEDÊNCIA DE AMBAS AS JUSTIFICATIVAS APRESENTADAS PARA O AJUIZAMENTO TARDIO DA RESCISÓRIA. DECADÊNCIA CONFIGURADA.
+Ação rescisória julgada extinta com resolução do mérito.
