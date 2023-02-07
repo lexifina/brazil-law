@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo apresentado por CEVERA - PRESTADORA DE SERVIÇOS EM VEÍCULOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+DIREITO CIVIL. Ação de obrigação de fazer cumulada com cobrança. Acautelamento veículo. "Pátio Legal". Apelações desprovidas.
+1. Prazo prescricional decenal
+2. Legitimidade do primeiro apelante para responder pelos débitos perseguidos em razão da propriedade do veículo.
+3. Limitação temporal de 90 dias para cobrança das diárias. Prescrição.
+4. Perda do objeto quanto ao pedido de obrigação de fazer, considerando que se encerrou o convênio entre a segunda apelante e o Estado do Rio de Janeiro para depósito dos veículos recuperados.
+5. Apelações a que se nega provimento.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 6º da Lei 6.575/78 e art. 328 da Lei 9.503/97, no que concerne à impossibilidade de limitação de diárias ao período de noventa dias. Sustenta que diante"da impossibilidade de inclusão da motocicleta em hasta pública por expressa vedação legal, eis que o bem foi recuperado de ilícito penal carecendo de investigação policial e posterior restituição ao proprietário  inegável é a responsabilidade do recorrido, enquanto credor fiduciário, de realizar a quitação do serviço prestado, sem qualquer limitação ao período de cobrança" (fl. 403). Aduziu ainda que " mesmo que o art. 328 do CTB não tenha o objetivo de possibilitar a limitação da cobrança de estadias de veículo encaminhado a pátio privado em decorrência de anotação de ilícito penal, sua incidência deveria ser exclusivamente nos casos derivados de apreensão administrativa." (fls. 402/403), trazendo o(s) seguinte(s) argumento(s):
+Restou demonstrado, ao longo da fase de conhecimento, que a recorrente, desde julho de 2005, realizava a prestação de serviços privados para remoção, depósito, guarda, conservação, auxílio na restituição e na alienação por leilão dos veículos localizados pela Secretaria de Estado de Segurança Pública (SSP/RJ), que tenham sido roubados, furtados ou objeto de outros delitos patrimoniais. (fls. 398).
+Dessa forma, considerando que a motocicleta HONDA/ CBX 250 TWISTER, cor preta, placa KVY2013, chassi 9C2MC35008R03400, de propriedade do recorrido, foi encaminhada ao pátio da recorrente, advinda de recuperação policial, a  CEVERA  enviou ao  BANO BRADESCO , seguindo a determinação da resolução nº 755/2005 SSP/RJ, notificação comunicando que seria concedido ao interessado a gratuidade de 3 (três) dias  a partir da data de recebimento do telegrama  para efetuar a retirada do veículo sem qualquer custo (fls. 107/108).
+ ..
+Em um primeiro momento, imprescindível esclarecer que a interpretação do art. 328 do Código de Trânsito deverá ser realizada de forma sistemática. Para isso, em perfeita cronologia, deverão ser observadas a lei 6.575/78, a resolução n. 331/2009, do Conselho Nacional de Trânsito (CONTRAN) e a lei 13.160/2015.
+Pois bem.
+Dispôs o art. 6º da lei 6.575/78 que as normas ali contidas não seriam aplicadas às hipóteses de veículos recolhidos a depósito por ordem judicial ou aos que estivessem à disposição da autoridade policial.
+Algum tempo depois, com o advento da lei 9.503/1997 (CTB), a redação do art. 328 possibilitava, após o transcurso de noventa dias (prazo mínimo), que o veículo não reclamado por seu proprietário fosse incluído em hasta pública pelo administrador do depósito.
+A expressão a qualquer título, utilizada no caput do art. 328 do CTB, não deveria ser interpretada lato sensu, mas sim restritivamente às hipóteses de apreensão e recolhimento de veículo por infração administrativa, encontradas nos arts. 173, 174, 175, 179, 180, 181, 229, 230, 231, 234, 238, 239, 253, 269, 270 e 271. Isso permitiria concluir, por óbvio, que um dispositivo inserido no CTB para limitação de diárias incidiria tão somente para os casos ali regulados.
+Ademais, observa-se que o CONTRAN, por expressa disposição legal contida no art.
+12, inciso VII, do Código de Trânsito 6 , editou a resolução n. 331/2009, com o objetivo de dispor "sobre uniformização do procedimento para realização de hasta pública dos veículos retidos, removidos e apreendidos, a qualquer título, por Órgãos e Entidades componentes do Sistema Nacional de Trânsito, conforme o disposto no artigo 328 do Código de Trânsito Brasileiro (CTB)".
+Nesse sentido, a redação do art. 3º, parágrafo único, estabeleceu, nos mesmos moldes da lei 6.575/78 7 , que a alienação extrajudicial de veículos à disposição da autoridade policial estava vedada.
+Transcorridos mais alguns anos, entrou em vigência a lei 13.160/2015 que revogou a lei 6.575/78 8 . Todavia, manteve a vedação no que concerne à possibilidade de inclusão de veículo em hasta pública quando o bem estivesse à disposição da autoridade policial 9 .
+Diante da impossibilidade de inclusão da motocicleta em hasta pública por expressa vedação legal, eis que o bem foi recuperado de ilícito penal - carecendo de investigação policial e posterior restituição ao proprietário - inegável é a responsabilidade do recorrido, enquanto credor fiduciário, de realizar a quitação do serviço prestado, sem qualquer limitação ao período de cobrança.
+Supletivamente, não se pode esquecer que o único dispositivo que limitava a cobrança de diárias quando ocorreu a recuperação da motocicleta era o art. 262 da lei 9.503/1997. Todavia, sua incidência era restrita aos casos de veículos apreendidos nas hipóteses de recolhimentos advindos de infrações administrativas.
+Logo, mesmo que o art. 328 do CTB não tenha o objetivo de possibilitar a limitação da cobrança de estadias de veículo encaminhado a pátio privado em decorrência de anotação de ilícito penal, sua incidência deveria ser exclusivamente nos casos derivados de apreensão administrativa.
+Outrossim, a título de embasamento jurisprudencial, confira-se os recentes julgados do Superior Tribunal de Justiça, do E. Tribunal de Justiça do Rio de Janeiro e do E. Tribunal de Justiça de São Paulo, que vedam expressamente a limitação ao período de cobrança de veículo acondicionado em pátio privado:
+ ..
+É de suma importância relembrar: a recorrente possibilitou ao recorrido a retirada da motocicleta, no prazo de três dias, sem qualquer custo. Porém, optou o banco BRADESCO por utilizar o estacionamento da CEVERA sem a devida contraprestação.
+Ante esse exposto, pugna-se pela reforma do acórdão guerreado, devendo ser conhecido e provido o recurso especial, condenando o recorrido ao pagamento das diárias de acautelamento de 08 de janeiro de 2010 (dez anos antes da distribuição da demanda) até 05 de junho de 2020 (data de publicação do convênio nº 5091307/2020) (fls. 399/405).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Na realidade, adotada a teoria da asserção, é mérito saber se é obrigado ou não ao cumprimento de obrigação de fazer, bem como ao pagamento de diárias à segunda apelante em decorrência do evento descrito na inicial.
+Inicialmente, cumpre ressaltar que estamos diante de prazo prescricional decenal, na forma do art. 205 CC:
+ ..
+Dessa forma, no caso concreto houve a ocorrência da prescrição da cobrança das parcelas vencidas antes de transcorrido o prazo de 10 anos do ajuizamento da demanda, ou seja, antes de 08.01.2010, considerando que a ação foi proposta em 08/01/2020.
+Passo ao mérito propriamente dito.
+Restou incontroverso o acautelamento e depósito do bem - fls. 98.
+ ..
+No que se refere às diárias cobradas, à época do acautelamento do veículo, 03.10.2008 vigia o artigo 328 do CTB, in verbis:
+ ..
+O escopo da lei era proporcionar a possibilidade de a segunda apelante obter ressarcimento das despesas e encargos decorrentes da remoção, guarda e conservação do veículo.
+Dessa forma, deve ser observada a limitação temporal de 90 dias para cobrança das diárias. Contudo, uma vez que já esclarecido quanto ao prazo prescricional, vê-se que tendo sido o primeiro apelante notificado em 24.10.2008 e a demanda proposta em 08.01.2020, já havia transcorrido o prazo para exercício do direito de ação.
+Os apelos não prosperam, sendo pronunciada a prescrição (fls. 355/358).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
