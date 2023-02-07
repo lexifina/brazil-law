@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, interposto por MARIA APARECIDA ALVARENGA DE CASTRO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - PRELIMINAR DE OFÍCIO - NULIDADE DA DECISÃO SANEADORA - AUSÊNCIA DE FUNDAMENTAÇÃO - INOCORRÊNCIA.
+- Se a decisão proferida explica motivadamente as razões ampararam o posicionamento adotado, não há que se falar em sua nulidade por ausência de fundamentação. (Desa. Mônica Libânio) VV - A decadência é matéria de ordem pública e pode ser declarada, de ofício, a qualquer tempo e em qualquer grau de jurisdição.
+- Nos termos do art. 178, § 90, V, "b", do Código Civil de 1916, "prescreve" em 4 anos a ação para anular negócio jurídico por vício de vontade. (Des. Alexandre Santiago).
+MERITO: APELAÇAO CIVEL - AÇAO ANULATORIA - CONTRATO SOCIAL - CLÁUSULAS RESTRITIVAS - DIREITO DE HERANÇA - BLINDAGEM PATRIMONIAL - LIBERDADE DE ASSOCIAÇÃO - DIREITO DE PROPRIEDADE - VIOLAÇÃO.
+- A proibição de retirada dos sócios, sob pena de renúncia aos haveres, caracteriza desvio de finalidade da sociedade em razão da clara ocorrência de "blindagem patrimonial", bem como violação à garantia constitucional no que tange à liberdade de associação, bem do direito de propriedade, e, ainda, ao direito de herança da autora, sendo imperiosa a intervenção do Poder Judiciária, que não pode coadunar com o caráter ilícito de que se reveste o contrato social em tela.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 1842/1864, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos artigos 489, 1.021, 1.022, 1.023 e 1.026, todos do CPC/2015.
+Sustenta, para tanto, na presente oportunidade, violação manifesta ao art. 1.021, § 5º, do CPC/2015, porquanto o depósito prévio da multa, imposta em sede de agravo de instrumento, constitui óbice a análise de mérito de recurso subsequente, não podendo, assim, sob pena de ilegalidade, constituir, como ocorreu na hipótese dos autos, em condição para a interposição de recurso em outra fase processual, razão pela qual sua apelação não poderia ter sido não conhecida por esse motivo.
+Contrarrazoado e após decisão de admissão do recurso especial (fls. 2054, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. A matéria jurídica ora devolvida, restou assim delimitada pelo acórdão de origem:
+Em contrarrazões, a apelada arguiu a preliminar de não conhecimento do primeiro recurso tendo em vista que não foi feito o depósito da multa fixada no Agravo Interno interposto pelos primeiros apelantes.
+Verifica-se dos autos que os primeiros apelantes interpuseram o Agravo de Instrumento final 02, em que foi, monocraticamente, indeferido o pedido de efeito suspensivo. Desta decisão, foi interposto o Agravo Interno final 04, que não foi provido, tendo a Turma julgadora aplicado a multa prevista no § 4 0 do art. 1.021 do NCPC, no importe de 1% do valor atualizado da causa (fI. 929).
+Diante destes fatos, foi determinada a intimação dos apelantes para depositarem, no prazo de 05 (cinco) dias o valor da multa mencionada, sob pena de não conhecimento do recurso, conforme despacho defls. 1.154.
+Contudo, embora oportunizada o depósito, os primeiros apenas não cumpriram a determinação judicial, tendo o prazo decorrido in a/bis conforme certidão de fls. 1.1551v.
+A este respeito, reza o § 5 1 do ad. 1.021 da norma processual que a interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa prevista no P4 40, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final.
+Portanto, não sendo os primeiros apelantes beneficiários da justiça gratuita, e, quedando-se inertes quando lhes foi oportunizado o depósito, deve ser acolhida a preliminar.
+Ou seja: a apelação da ora recorrente não foi conhecida porque nos autos do agravo de instrumento proferido pela Corte Estadual, que manteve o indeferimento do efeito suspensivo incidentalmente requerido ao apelo, não houve o recolhimento da multa imposta no acórdão de desprovimento.
+Essa questão incidental não está ligada ao processamento da apelação, condicionando, por lógico, apenas eventuais recursos subsequentes ao exame de sua correção ou não. O não recolhimento causa apenas a preclusão de enventual recurso daquela decisão incidental, não incidindo os seus efeitos para o apelo.
+Ora, repisa-se: a multa imposta como requisito de admissibilidade para novos recursos somente obsta o conhecimento das irresignações supervenientes que tenham por objetivo discutir matéria já apreciada e com relação a qual tenha ficado reconhecida a existência de abuso no direito de recorrer.
+Verifica-se, nesse sentido, a viabilidade de provimento do recurso principal, porquanto, nos termos da jurisprudência do Superior Tribunal de Justiça, o "depósito prévio da multa e sua comprovação constituem óbice à análise de mérito de recurso subsequente que vise a impugnar a mesma matéria já decidida e em razão da qual foi imposta a sanção, não o recurso interposto em outra fase processual e impugnando matéria diversa" (REsp 1354977/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/05/2013, DJe 20/05/2013).
+No mesmo diapasão:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM DA MULTA DO ART. 1.021, § 4º, DO CPC/2015. NECESSIDADE DE RECOLHIMENTO PRÉVIO. FALTA.
+1. O depósito prévio da multa e sua comprovação constituem óbice à análise de mérito de recurso subsequente que vise a impugnar a mesma matéria já decidida e em razão da qual foi imposta a sanção, não o recurso interposto em outra fase processual e impugnando matéria diversa. Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.952.505/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 24/10/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM NÃO CONHECIDO. DEPÓSITO PRÉVIO DA MULTA IMPOSTA COM FULCRO NO ART. 538, PARÁGRAFO ÚNICO, DO CPC/73 EM OUTRO PROCESSO. EXIGÊNCIA. IMPOSSIBILIDADE. PROVIMENTO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A sanção imposta pela norma do parágrafo único do art. 538 do CPC/73 tem por finalidade inibir a interposição de sucessivos recursos objetivando a apreciação de questão já decida, uma vez que o processo não é um saco sem fundos e por isso mesmo sempre segue uma marcha tendente a um fim.
+3. O não recolhimento da multa aplicada com fulcro no referido dispositivo legal, impede o conhecimento de qualquer outro recurso subsequente, da mesma cadeia recursal e não em outra fase processual.
+4. Recurso especial provido.
+(REsp 1675915/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+2. Ante o exposto, dou provimento ao reclamo, com amparo na Súmula 568 do STJ, para anular o acórdão de não conhecimento da apelação da ora recorrente, determinando, por conseguinte, que a Corte Estadual realize o seu processamento e julgamento de mérito como entender de direito.
+Por último, julgo prejudicada a TP 3938/MG , realizando-se a juntada de cópia dessa decisão aqueles autos.
+Cumpra-se. Publique-se. Intimem-se.
