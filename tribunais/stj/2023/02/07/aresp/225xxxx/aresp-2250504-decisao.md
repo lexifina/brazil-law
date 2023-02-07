@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por NAIR PEREIRA DIAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA. ARTIGO 1.021 E §§ DO CPC. REQUISITO DA CARÊNCIA NÃO PREENCHIDO PARA CONCESSÃO DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO (fl. 199).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 53, I, e art. 55, § 2º, da Lei n. 8.213/1991, no que concerne à necessidade de reconhecimento do direito da recorrente à concessão de aposentadoria por tempo de contribuição, ainda que em caráter proporcional, em razão do preenchimento dos requisitos necessários, ao fundamento de que o tempo de serviço do segurado trabalhador rural deveria ser computado independentemente do recolhimento das contribuições correspondentes. Aduz os seguintes argumentos:
+O v. acórdão ao julgar que a recorrente não faz jus a concessão do benefício de aposentadoria por tempo de contribuição ainda que em caráter proporcional cometeu grave afronta à Lei Federal 8.213/91, mais especificamente aos artigos 53, inciso I, in verbis:
+ ..
+Afronta o artigo 55, parágrafo 2º, da referida Lei, que determina que o tempo de serviço do segurado trabalhador rural, anterior à data de início de vigência desta Lei, será computado independentemente do recolhimento das contribuições a ele correspondentes :
+ ..
+Ficou reconhecido pelo v. acórdão e pela r. sentença o período laborado entre 01.01.1972 a 31.12.2001, que somados o tempo constante nos documentos de f. 18/22, alcançam 34 (trinta e quatro) anos, 01 (um) mês e 29 (vinte e nove) dias de serviço à época em que pleiteou o benefício de aposentadoria por tempo de contribuição/tempo de serviço.
+Portanto, restou devidamente demonstrado que recorrente preencheu todos os requisitos necessários para a concessão do benefício de aposentadoria por tempo de contribuição, ainda que de forma proporcional (fls. 211- 213).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Insta destacar, por fim, que, de fato, considera-se a atividade rural informal 24/7/1991 (até vigência da Lei n. 8.213/1991), independentemente do recolhimento, exceto para fins de carência e contagem recíproca (artigo 55, § 2º, e de contribuições artigo 96, inciso IV, ambos da Lei n. 8.213/1991).
+Contudo, a contagem do tempo do trabalhador rural sem registro em CTPS, posterior à referida data, torna-se fundamental o aporte contributivo, comprovação que a demandante deixou de fazer (fl. 202, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
