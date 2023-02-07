@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DANIEL PINHEIRO VIEIRA contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/03/2022.
+Concluso ao gabinete em: 14/12/2022.
+Ação: de indenização por danos materiais e morais ajuizada por DANIEL PINHEIRO VIEIRA em face de MRV ENGENHARIA E PARTICIPACOES S/A, decorrente de atraso na entrega de imóvel objeto de contrato de compra e venda de imóvel.
+Sentença: julgou parcialmente procedentes os pedidos.
+Acórdão: negou provimento às apelações interpostas por MRV ENGENHARIA E PARTICIPACOES S/A e por DANIEL PINHEIRO VIEIRA, nos termos da seguinte ementa:
+"CIVIL E CONSUMIDOR. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL DESCRITO NOS AUTOS.
+AQUISIÇÃO PELO PROGRAMA MINHA CASA MINHA VIDA. PRORROGAÇÃO DO PRAZO DE ENTREGA D0 IMÓVEL POR MAIS 180 DIAS APÓS O PRAZO INICIALMENTE PREVISTO PARA A CONCLUSÃO DA OBRA. VALIDADE.
+ENTENDIMENTO JURISPRUDENCIAL DESTE TRIBUNAL. INÍCIO DA CONTAGEM DO PRAZO DE ENTREGA DO BEM CONDICIONADO À ASSINATURA DO CONTRATO DE FINANCIAMENTO BANCÁRIO. INVALIDADE DESTA DISPOSIÇÃO CONTRATUAL. SÚMULA Nº 36 DO TJRN. ATRASO INJUSTIFICADO. AUSÊNCIA DE EXCLUDENTES DE RESPONSABILIDADE CIVIL. PRESENÇA DOS REQUISITOS DO DEVER DE INDENIZAR. PRIVAÇÃO DO BEM POR CONSIDERÁVEL PERÍODO ALÉM DA DATA EM QUE ESTE DEVERIA TER SIDO ENTREGUE. PREJUÍZO PRESUMIDO DO PROMITENTE COMPRADOR. DANOS MORAIS VERIFICADOS. FRUSTRAÇÃO DA EXPECTATIVA DE RECEBIMENTO DA UNIDADE IMOBILIÁRIA NA DATA ESTIPULADA NO CONTRATO. ATRASO CAUSADOR DE ABALO EXTRAPATRIMONIAL QUE ULTRAPASSA O LIMITE DO TOLERÁVEL E O MERO DESCUMPRIMENTO CONTRATUAL. REDUÇÃO DO VALOR DA RESPECTIVA INDENIZAÇÃO.
+INVIABILIDADE. QUANTIA QUE ATENDE AOS PARÂMETROS DA PROPORCIONALIDADE E DA RAZOABILIDADE. INVERSÃO DA CLÁUSULA PENAL EM FACE DA DEMANDADA PARA EFEITO DE APLICAÇÃO DE MULTA POR MOTIVO DE MORA. VALIDADE. TEMA 971. REPETITIVO DO STJ.
+JUROS DE EVOLUÇÃO DA OBRA.
+DESCUMPRIMENTO DO PRAZO PACTUADO PARA ENTREGA DO IMÓVEL. INADIMPLEMENTO CONTRATUAL POR PARTE DA INCORPORADORA DEMANDADA FACILMENTE CONSTATADO.
+ACESSÓRIOS PAGOS EM FUNÇÃO, TÃO SOMENTE, DO ATRASO NA ENTREGA. DEVER DE INDENIZAR QUE SE IMPÕE. COMISSÃO DE CORRETAGEM.
+VALIDADE. PREVISÃO CONTRATUAL E RECIBO E CHEQUE COM O VALOR DO ENCARGO QUE REVELAM O SEU CONHECIMENTO PELO COMPRADOR. CONHECIMENTO E DESPROVIMENTO DOS RECURSOS. PRECEDENTES." (fls. 677/678, e-STJ).
+Embargos de declaração: opostos por DANIEL PINHEIRO VIEIRA, os primeiros embargos foram acolhidos sem efeitos infringentes e os segundos foram rejeitados.
+Recurso especial: alega, além de dissídio jurisprudencial, violação dos arts. 489, § 1º, e 1.022 do CPC/2015; 389, 394, 395, 402 e 944 do CC; e 52 do CDC.
+Sustenta, em síntese, i) a negativa de prestação jurisdicional, bem como deficiência de fundamentação no acórdão recorrido quanto ao pedido de condenação da recorrida ao pagamento de lucros cessantes decorrentes da mora na entrega do imóvel, cumulado com a inversão da multa penal moratória, ante a não equivalência desta ao valor locativo, sendo exceção ao Tema 970 do STJ; ii) a possiblidade de cumulação de lucros cessantes com a cláusula penal moratória haja vista a não equivalência ao valor correspondente ao locativo; iii) a devolução do valor pago a título de taxa de corretagem por ausência de ciência sobre o seu valor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Nesse sentido, o acórdão recorrido, ao julgar os primeiros embargos de declaração opostos pelo recorrente, já havia esclarecido o que segue:
+"(..) verifica-se que é possível a condenação da apelante na cláusula penal consignada em contrato, "Tema 971", em regra, estabelecida em valor equivalente ao locativo, afastando-se a sua cumulação com lucros cessantes, porquanto este encargo não pode ser cumulado com a condenação na cláusula penal moratória, "Tema 970"." (fl. 728, e-STJ).
+Reforçando seu entendimento, o Tribunal de origem, nos segundos embargos de declaração opostos, assentou o seguinte sobre a questão:
+"Não obstante, da atenta leitura do Acórdão embargado, constata-se que inexiste a omissão porque foi esclarecido que é possível a condenação da Apelante na cláusula penal consignada apontada, em contrato, "Tema 971", em regra, estabelecida em valor equivalente ao locativo, afastando-se a sua cumulação com lucros cessantes, porquanto este encargo não pode ser cumulado com a condenação na cláusula penal moratória, "Tema 970".
+(..)
+Nesse contexto, percebe-se que restou evidenciado que a cláusula penal consignada no contrato descrito nos autos é inacumulável com lucros cessantes e que o Embargante deixou de provar que está residindo em imóvel pelo qual paga aluguel, sem estabelecer parâmetro à valoração da multa de mora, prevista na cláusula penal, o que impede este Juízo de verificar a equivalência entre o valor da multa de mora e eventuais lucros cessantes." (fls. 787/788, e-STJ).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, também, em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+2. Do reexame de fatos e provas
+No tocante à tese atinente à possiblidade de cumulação de lucros cessantes com a cláusula penal moratória, haja vista a alegada não equivalência ao valor correspondente ao locativo, o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte, segundo a qual, é possível a cumulação de cláusula penal e lucros cessantes, desde que a multa não seja equivalente aos locativos. No mesmo sentido: AgInt no REsp 1.917.837/RJ, QUARTA TURMA, DJe 02/08/2021, AgInt nos EDcl no REsp 1.930.574/RJ, TERCEIRA TURMA, DJe 28/10/2021.
+Da detida análise dos autos, o acórdão recorrido assim se pronunciou:
+"Não obstante, da atenta leitura do Acórdão embargado, constata-se que inexiste a omissão porque foi esclarecido que é possível a condenação da Apelante na cláusula penal consignada apontada, em contrato, "Tema 971", em regra, estabelecida em valor equivalente ao locativo, afastando-se a sua cumulação com lucros cessantes, porquanto este encargo não pode ser cumulado com a condenação na cláusula penal moratória, "Tema 970".
+(..)
+Nesse contexto, percebe-se que restou evidenciado que a cláusula penal consignada no contrato descrito nos autos é inacumulável com lucros cessantes e que o Embargante deixou de provar que está residindo em imóvel pelo qual paga aluguel, sem estabelecer parâmetro à valoração da multa de mora, prevista na cláusula penal, o que impede este Juízo de verificar a equivalência entre o valor da multa de mora e eventuais lucros cessantes." (fls. 787/788, e-STJ).
+Dessa forma, alterar o decidido no acórdão impugnado, demanda o exame do inteiro teor da cláusula penal para se verificar se foi estabelecida em valor equivalente ao locativo, ou seja, o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial pela Súmula 7 do STJ.
+3. Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema acima mencionado que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+A propósito: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016; AgInt no AREsp 1306436/RJ, 1ª Turma, DJe 02/05/2019; AgInt no AREsp 1343289/AP, 2ª Turma, DJe 14/12/2018; REsp 1665845/RS, 2ª Turma, DJe 19/06/2017.
+4. Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Por fim, no que se refere à alegada devolução do valor pago a título de taxa de corretagem por ausência de ciência sobre o seu valor, o aresto recorrido assim esclareceu:
+"(..) da atenta leitura do contrato celebrado entre as partes, constata-se que no item "6" deste há expressa previsão deste encargo informando o preço total da unidade imobiliária, bem como foram juntadas cópias do recibo referente ao pagamento do encamo no valor R$ 3.038.00 e do cheque emitido pelo autor para pagar esta quantia. o que demonstra o seu conhecimento sobre a existência da comissão de corretagem e do seu respectivo valor.
+Ademais, em sede de recursos repetitivos, o STJ firmou sua jurisprudência no sentido de que ressalvada a denominada Faixa 1 em que não há intermediação imobiliária, é válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda do Programa Minha Casa Minha Vida, desde que previamente informado o preço total da aquisição da unidade autônoma. com o destaque do valor da comissão de corretagem.
+(..)
+Nesses termos, patente que o contrato em Juízo não se enquadra na Faixa 1 do Programa Minha Casa Minha Vida e que há previsão quanto a transferência da responsabilidade sobre o pagamento da comissão de corretagem para o comprador e o seu respectivo valor, conclui-se que esta cobrança é válida, inexistindo indébito neste sentido." (fls. 688/689, e-STJ).
+Dessa forma, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, bem como reinterpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO. COMISSÃO DE CORRETAGEM. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 5 DO STJ.
+1. Ação de indenização por danos materiais e morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. O reexame de fatos e provas e a nova interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
