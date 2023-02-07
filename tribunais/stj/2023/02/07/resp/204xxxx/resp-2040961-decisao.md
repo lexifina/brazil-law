@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S. A. (AYMORÉ), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paraibano, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL COM REPETIÇÃO DE INDÉBITO. PROCEDÊNCIA PARCIAL. INCONFORMISMO. PREJUDICIAIS DE MÉRITO. COISA JULGADA. INOCORRÊNCIA. REJEIÇÃO. PRESCRIÇÃO TRIENAL DA PRETENSÃO. PRAZO DECENAL. REJEIÇÃO. MÉRITO. PEDIDO DE DEVOLUÇÃO DOS VALORES OBTIDOS PELA INSTITUIÇÃO BANCÁRIA A TÍTULO DE JUROS INCIDENTES SOBRE TAXAS JÁ DECLARADAS ILEGAIS EM PROCESSO DIVERSO. APLICAÇÃO DOS PRINCÍPIOS DA GRAVITAÇÃO JURÍDICA E DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. DEVOLUÇÃO DOS VALORES NA FORMA SIMPLES. CONDENAÇÃO HONORÁRIA. VALOR RAZOÁVEL. RESPEITO AOS PARÂMETROS LEGAIS. APELO DESPROVIDO (e-STJ, fl. 374).
+Os embargos de declaração opostos por AYMORÉ, foram rejeitados (e-STJ, fls.440/456).
+Nas razões do presente recurso, AYMORÉ alegou a violação ao art. 337, §§1º, 2º e 4º, do NCPC, bem como dissídio jurisprudencial, ao sustentar que os juros remuneratórios poderiam ter sido pleiteados na ação anterior, na qual requerida a restituição das tarifas, razão pela qual incide a coisa julgada quanto à matéria (e-STJ, fls. 463/478).
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da incidência da Súmula nº 568 do STJ
+Nas razões do presente recurso, AYMORÉ afirmou a violação do art. 337, §§1º, 2º e 4º, do NCPC, bem como dissídio jurisprudencial, ao sustentar que os juros remuneratórios poderiam ter sido pleiteados na ação anterior, na qual requerida a restituição das tarifas, razão pela qual incide a coisa julgada quanto à matéria.
+Sobre o tema o Tribunal estadual consignou que a questão relativa aos juros remuneratórios incidentes sobre a tarifa reputada ilegal não foi objeto de apreciação, não estando acobertada pela coisa julgada, confira-se:
+Assim, como apenas as questões solucionadas na ação anterior se sujeitam à imutabilidade da coisa julgada e, na hipótese, não foi apreciado, pela sentença do juizado, o pedido de devolução dos valores cobrados a título de juros remuneratórios incidentes sobre a tarifa considerada ilegal, é possível o ajuizamento de nova ação para análise desta matéria, na medida em que os limites da coisa julgada se circunscrevem às questões decididas (e-STJ, fl. 383).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que os juros remuneratórios incidentes sobre tarifa considerada ilegal são acessórios do principal, de maneira que se perfectibilizou a coisa julgada também em relação a esse ponto.
+Confiram-se os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Discute-se a possibilidade de ajuizamento de nova demanda para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas consideradas abusivas em ação de repetição de indébito julgada procedente e transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Recurso especial provido.
+(REsp n. 1.989.143/PB, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 6/12/2022, DJe de 13/12/2022.)
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA. PEDIDO FORMULADO NA PRIMEIRA AÇÃO QUE ABARCOU O MESMO PLEITO AQUI PRETENDIDO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir, além da eventual existência de negativa de prestação jurisdicional, se a declaração de ilegalidade de tarifas bancárias, com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do Juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros remuneratórios incidentes sobre as referidas tarifas.
+2. Não há que se falar em negativa de prestação jurisdicional, pois o Tribunal de origem analisou todas as alegações suscitadas no recurso de apelação, afastando expressamente o reconhecimento da coisa julgada.
+3. Nos termos do art. 337, §§ 2º e 4º, do Código de Processo Civil de 2015, "uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido", sendo que "há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado".
+4. Na hipótese, da forma como a autora formulou o pedido na primeira ação, já transitada em julgado e que tramitou perante o Juizado Especial Cível, consignando expressamente que buscava a devolução em dobro de todos os valores pagos com as tarifas declaradas nulas, é possível concluir que o pleito abarcou também os encargos incidentes sobre as respectivas tarifas, da mesma forma em que se busca na ação subjacente, havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+5. Não se pode olvidar que o acessório (juros remuneratórios incidentes sobre a tarifa) segue o principal (valor correspondente à própria tarifa), razão pela qual o pedido de devolução de todos os valores pagos referentes à tarifa nula abrange, por dedução lógica, a restituição também dos respectivos encargos, sendo incabível, portanto, nova ação para rediscutir essa matéria.
+6. Recurso especial provido.
+(REsp n. 1.899.115/PB, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 5/4/2022, DJe de 8/4/2022.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Diante do provimento recursal, condeno ANTONIO LUIZ PEREIRA NETO ao pagamento das custas processuais e honorários advocatícios, estes fixados em R$ 1.500,00 (mil e quinhentos reais).
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. TARIFA BANCÁRIA. RESTITUIÇÃO. JUROS REMUNERATÓRIOS. QUESTÃO DEDUTÍVEL. COISA JULGADA. OCORRÊNCIA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
