@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANDERSON DE JESUS FURTADO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que o conheceu em parte e denegou a ordem.
+Neste habeas corpus, requer o impetrante, em síntese, a revogação da prisão preventiva em razão da ausência dos pressupostos legais.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+Da análise da decisão impugnada, verifica-se que a Corte de origem não analisou os temas relativos à necessidade da prisão preventiva, visto que foram debatidos em habeas corpus impetrado anteriormente, in verbis:
+"A higidez da custódia já foi analisada pela Turma Julgadora quando do julgamento do HC digital nº 2088239-77.2022, realizado no dia 26/5/2022, oportunidade em que se denegou a ordem, por votação unânime, assim como a alegação de excesso de prazo, examinada em agosto de 2022, no HC digital nº 2170254-06.2022. E agora, já encerrada a instrução, incide o enunciado da Súmula nº 52, do Superior Tribunal de Justiça. Seja como for, o juiz tem se empenhado por imprimir ritmo célere ao feito, e cotejando o tempo de prisão provisória com a pena que poderia vir a ser aplicadas na hipótese de sobrevir condenação não emerge desproporcionalidade" (e-STJ, fls. 167-168).
+Como cediço, é inviável a análise direta por este Tribunal Superior de temas não debatidos na decisão impugnada. Ademais, como bem destacado pela Corte de origem, constitui óbice ao conhecimento do habeas corpus a mera reiteração de pedido anterior, em que há identidade de partes e da causa de pedir e se impugna o mesmo ato coator (AgRg no RHC 76.771/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/12/2016, DJe 13/12/2016).
+Convém anotar, que esta Corte Superior, nos autos do HC n. 745.750/SP, de minha relatoria, julgamento em 1º/6/2022, DJe 2/6/2022, impetrado contra o acórdão proferido pelo TJSP no HC n. 2088239-77.2022, verificou-se que a custódia cautelar do paciente está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, em que foi preso em flagrante com os corréus na posse de mais de 1kg de maconha e é apontado como o responsável pela distribuição de maconha na cidade de Campinas e imedia ções.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se .
