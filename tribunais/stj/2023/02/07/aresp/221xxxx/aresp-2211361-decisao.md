@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a sguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - DESCONSIDERAÇÃO DA PESSOA JURÍDICA - SENTENÇA DE EXTINÇÃO POR PRESCRIÇÃO INTERCORRENTE.
+1. Alegação de ocorrência de preclusão dos apelados oporem Embargos à Execução - Ausência de manifestação dos sócios quando regularmente citados - Procedente, contudo a prescrição é matéria de ordem pública, passível de ser conhecida em qualquer tempo e grau de jurisdição.
+2. Alegação de inocorrência da prescrição intercorrente - Procedente - Prescrição afastada - inexistência de desídia da parte exequente - Pedido de Desconsideração da personalidade jurídica realizado logo após Acórdão que deu provimento aos Embargos de Terceiros que desconstituiu penhora requerida pela exequente - O pedido de desconsideração da pessoa jurídica é um direito potestativo ao interessado e pode ser realizado a qualquer tempo em razão da ausência de prazo decadencial especial.
+3. Declarada a nulidade da sentença. Retorno dos autos a origem para o regular prosseguimento do feito. RECURSO PROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022 do Código de Processo Civil e 205, §5º, e 206-A, do Código Civil, associada a dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso e que já transcorreu o prazo de prescrição para a execução.
+A decisão agravada negou seguimento ao recurso especial por ausência de comprovação de feriado local.
+Os recorrentes invocam precedente desta Casa sustentando que o erro escusável, decorrente de informação equivocada do sistema de informação eletrônica do Tribunal de origem quanto ao termo final do prazo, é causa suficiente para afastar a intempestividade do recurso.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte tem, de fato, entendimento no sentido de que é escusável a interposição do recurs o fora do prazo previsto em lei quando decorrer de informação equivocadamente prestada no sítio eletrônico do Tribunal de origem.
+Tal entendimento não afasta, todavia, o dever de a parte trazer comprovação idônea da referida falha, não bastando, para tanto, a transcrição ou cópia da página do Tribunal de local na rede mundial de computadores.
+Assim:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DO EXPEDIENTE FORENSE. DIA COMEMORATIVO DA CRIAÇÃO DOS CURSOS JURÍDICOS. 11 DE AGOSTO. FERIADO LOCAL. NÃO COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO. JUSTA CAUSA NÃO COMPROVADA. MULTA DO ART. 1.021, §4º, DO CPC. NÃO INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça já consolidou o entendimento de que o dia comemorativo de criação dos primeiros cursos jurídicos no Brasil (11 de agosto) não é feriado nacional, sendo necessária a comprovação da suspensão do expediente forense na origem, no ato de interposição do recurso.
+3. Os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual.
+4. Este Tribunal Superior também já reconheceu que apenas o "print" de tela de computador não é servil à efetiva demonstração da justa causa. Precedentes.
+5. "Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei, nos termos do artigo 1.021, § 4º, do CPC."(EDcl no AgInt no REsp 1792064/RO, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/02/2020, DJe 03/03/2020) 6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.021.223/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+Em face do exposto, nego provimento ao agravo em recurso especial. Sucumbência ao final, diante da cassação da sentença pelo Tribunal local.
+Intimem-se.
