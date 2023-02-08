@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANDRÉ FELIPE MARTINS PEREIRA contra acordão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, que negou provimento à Apelação n. 0006821-53.2012.4.05.8300.
+Consta dos autos que o paciente foi condenado à pena de 4 anos, 6 meses e 21 dias de reclusão no regime inicial semiaberto, além 400 de dias-multa, pela prática dos delitos tipificados no art. 299 c/c art. 71 (falsidade ideológica na modalidade continuada) e no art. 304 (uso de documento falso), todos do Código Penal.
+Os impetrantes sustentam que o paciente teve seu direito de defesa cerceado ao não ter sido apreciado seu pedido de que a audiência fosse presencial, bem como de sustentação oral.
+Requerem, em liminar, a suspensão da execução do acórdão e, no mérito, a sua anulação.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INVIABILIDADE. PENAL E PROCESSUAL PENAL. CRIMES DE FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO (ARTS. 299 E 304 DO CÓDIGO PENAL). CONDENAÇÃO DEFINITIVA À PENA DE 4 ANOS, 6 MESES E 21 DIAS DE RECLUSÃO, EM REGIME FECHADO. PLEITOS DE ANULAÇÃO DO JULGAMENTO DA APELAÇÃO POR NÃO TER SIDO OPORTUNIZADA À DEFESA A REALIZAÇÃO DE SUSTENTAÇÃO ORAL. TRÂNSITO EM JULGADO DA CONDENAÇÃO ANTERIOR À PRESENTE IMPETRAÇÃO. NÃO INAUGURAÇÃO DA COMPETÊNCIA DO STJ PARA REVISÃO DE SEU JULGADO (ART. 105, I, "E", DA CF). MANIFESTA INADMISSIBILIDADE. ADEMAIS, NULIDADE RELATIVA. QUESTÃO PRECLUSA, POIS NÃO ARGUIDA NA PRIMEIRA OPORTUNIDADE (INTIMAÇÃO DO ACÓRDÃO), OCASIONANDO O TRÂNSITO EM JULGADO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. PARECER PELO NÃO CONHECIMENTO DO WRIT" (fl. 1.032).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque o entendimento do STJ é no sentido de que "havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento. Contudo, a nulidade deve ser arguida na primeira oportunidade em que a defesa tomar ciência do julgamento, levando ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão" (RHC 106.180/BA, Rel. Ministro Felix Fischer, QUINTA TURMA, DJe 7/3/2019).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSO PENAL. SUSTENTAÇÃO ORAL. PRELIMINAR DE NULIDADE. INEXISTÊNCIA. AÇÃO DE RESTITUIÇÃO DE COISAS APREENDIDAS. MANDADO DE SEGURANÇA. INCABÍVEL. ENUNCIADO SUMULAR N. 267/STF. EXCESSO DE PRAZO. SUPERAÇÃO. DENÚNCIA RECEBIDA. RECURSO EM MANDADO DE SEGURANÇA DESPROVIDO. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Na esteira da jurisprudência firmada por esta Corte Superior de Justiça, havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento, por ofensa à ampla defesa. Contudo, a nulidade suscitada deve ser arguida na primeira oportunidade em que a Defesa tomar ciência do julgamento, levando-se ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no RMS n. 64.869/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 17/8/2021, DJe de 20/8/2021).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. HOMICÍDIO QUALIFICADO, HOMICÍDIO TENTADO. CONDUZIR VEÍCULO AUTOMOTOR COM CAPACIDADE PSICOMOTORA ALTERADA EM RAZÃO DA INFLUÊNCIA DE ÁLCOOL OU DE OUTRA SUBSTÂNCIA PSICOATIVA. FALTA DE INTIMAÇÃO DA DEFESA PARA REALIZAR SUSTENTAÇÃO ORAL. NULIDADE DO JULGAMENTO DA IMPETRAÇÃO ORIGINÁRIA. INOCORRÊNCIA. PRISÃO PREVENTIVA MANTIDA NA DECISÃO DE PRONÚNCIA. FUNDAMENTAÇÃO IDÔNEA. RÉU QUE CONDUZIA VEÍCULO SOB EFEITO DE BEBIDA ALCOÓLICA NA CONTRAMÃO CAUSANDO A MORTE DE QUATRO VÍTIMAS E FERIMENTO GRAVE NA QUINTA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO DESPROVIDO.
+1. O entendimento deste STJ é no sentido de que "havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento. Contudo, a nulidade deve ser arguida na primeira oportunidade em que a defesa tomar ciência do julgamento, levando ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão" (RHC 106.180/BA, Rel. Ministro Felix Fischer, QUINTA TURMA, DJe 7/3/2019).
+No caso dos autos, não intimada do julgamento do habeas corpus originário, quedou-se inerte a defesa perante a Corte estadual, sequer opondo embargos de declaração para debater a questão ou até mesmo como tentativa de sanar o alegado vício.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 733.034/RJ, de minha Relatoria, Quinta Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. FALTA DE INTIMAÇÃO DA DEFESA PARA SUSTENTAÇÃO ORAL NO JULGAMENTO DO APELO. MATÉRIA NÃO QUESTIONADA NA ORIGEM. PRECLUSÃO. RECOLHIMENTO DE APARELHO CELULAR DE PESSOA QUE NÃO ERA OBJETO DO MANDADO DE BUSCA DOMICILIAR. CONTEXTO DE FLAGRANTE PELO DELITO DE TRÁFICO DE DROGAS. APREENSÃO DE DROGAS NO LOCAL ONDE A RÉ SE ENCONTRAVA. LEGALIDADE. QUEBRA DE SIGILO TELEFÔNICO. FUNDAMENTAÇÃO SUFICIENTE. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. INADMISSÃO. RECURSO NÃO PROVIDO.
+1. "Havendo pedido expresso de sustentação oral, a ausência de intimação do advogado constituído torna nula a sessão de julgamento. Contudo, a nulidade deve ser arguida na primeira oportunidade em que a defesa tomar ciência do julgamento, levando ao conhecimento da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão". (AgRg na PET no RHC 123.093/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/4/2020, DJe 17/4/2020).
+ ..
+7. Agravo regimental não provido.
+(AgRg no RHC n. 137.379/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 26/4/2022).
+Assim, tendo a defesa ficado inerte após o julgamento da apelação em sessão virtual, impugnando o ato na origem somente após o trânsito em julgado do acórdão , não resta constatada flagrante ilegalidade a ser sanada por esta Corte.
+Confiram-se, a propósito, os seguintes trechos:
+Decisão:
+" ..
+Desse modo, tem-se que: a) houve intimação do representa do réu André Felipe Martins Pereira; b) a intimação foi válida; c) houve o trânsito em julgado.
+Considerando as conclusões acima, passa-se à terceira questão.
+A coisa julgada ocorre quando a decisão não pode ser alvo de recurso. No caso dos autos, conforme exposto, houve o decurso de todos os prazos até a formação da coisa julgada.
+Uma vez formada a coisa julgada, todas as questões, entre elas as nulidades, inclusive as absolutas, ficam preclusas, haja vista que não podem mais ser questionadas no mesmo processo. Não obstante, o sistema jurídico traz algumas saídas para alguns defeitos que podem ter maculado o processo de tal forma que a coisa julgada não pudesse sanar. No processo penal, o remédio adequado é a revisão criminal. Assim, apenas através de uma nova demanda é que o defeito eventualmente pode ser corrigido, não podendo mais ser questionado dentro daquele processo" (fls. 1.024/1.025).
+Acórdão:
+" ..
+Por um lamentável equívoco, de fato, não houve apreciação de tal pleito (qual seja, julgamento do processo em sessão telepresencial) pelo relator e o julgamento foi realizado, de fato, na sessão virtual aprazada, o que constitui nulidade de natureza relativa que, in casu, foi arguida de forma totalmente intempestiva (ou seja, após o trânsito em julgado do acórdão), uma vez que, diferentemente do asseverado no recurso, houve regular intimação da defesa do ora agravante quanto ao acórdão proferido nos autos" (disponível o site do Tribunal a quo).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
