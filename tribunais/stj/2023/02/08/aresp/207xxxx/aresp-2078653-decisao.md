@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por ROBERTO JUVENTINO DEMORE e JORGE ERI DE OLIVEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fls. 59):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DOS SÓCIOS. QUESTÃO ACOBERTADA PELA PRECLUSÃO. MASSA FALIDA. REDIRECIONAMENTO PARA OS SÓCIOS. JUROS E MULTA. COBRANÇA. CABIMENTO.
+1. Não se conhece do incidente relativamente ao pedido de declararação da ilegitimidade passiva dos agravantes, visto que tal matéria encontra-se acobertada pela preclusão, a teor do decidido por este Colegiado em outro agravo de instrumento envolvendo as mesmas partes aqui litigantes.
+2. Os valores de juros e multa são exigíveis em relação aos redirecionados, haja vista que estes não se beneficiam dos efeitos da lei falimentar, por não se encontrarem no estado de falidos.
+3. Agravo de instrumento a que se nega provimento.
+Rejeitados os embargos de declaração opostos (fls. 89-95).
+No recurso especial, alegam, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduzem, no mérito, que o acórdão contrariou as disposições contidas no art. 504 do CPC pois "inexiste coisa julgada, na questão de legitimidade de parte, eis que se defende se tratar de matéria de ordem pública que não é abarcada pela coisa julgada e nem pela preclusão" (fl. 114).
+Alegam, ainda, violação dos arts. 23, III e 26 do Decreto-lei n. 7661/45 e 124 da Lei n. 11.101/2005.
+Reclamam, em síntese, que "a reforma do entendimento de que juros e multa são exigíveis em relação aos redirecionados, haja vista que estes não se beneficiam dos efeitos da lei falimentar, por não se encontrarem no estado de falidos pelo fundamento de que a dívida é de responsabilidade da empresa falida e não dos Recorrentes, que estão respondendo somente por terem sido sócios da pessoa jurídica devedora já falida, ou seja, de que o acessório acompanha o principal, se a empresa falida, tem o benefício de não pagar juros e multa, igualmente os sócios redirecionados, se reclamam seja beneficiados, pois decorre do mesmo objeto de dívida inscrita em CDA, sob pena de violação ao artigo 23, III e 26 do Decreto-Lei nº 7661 de1945, vigente na época dos débitos, e do artigo 124 da Nova Lei de Falências" (fl. 118).
+Foram oferecidas contrarrazões ao recurso especial (fls. 124-126).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 129-131), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 155).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há que falar em violação do art. 1.022, do CPC porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Quanto à alegada violação do art. 504 do CPC, maior sorte não assiste aos agravantes.
+A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que se sujeitam à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio (AgInt no AREsp n. 2.114.809/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022).
+Ademais, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, em especial, decisão prolatada nos autos do Agravo de Instrumento n. 5005170-88.2015.404.0000/RS em que litigam as mesmas partes (fl. 62). Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por fim, quanto ao pedido de inexigibilidade de multas e juros, também não merece provimento o recurso especial.
+Nos termos da jurisprudência desta Corte, a ntes da decretação da falência, os juros de mora são devidos, existindo, ou não, ativos suficientes para pagamento do principal. Após a decretação, a sua incidência fica subordinada à suficiência comprovada do ativo para pagamento da dívida.
+A propósito:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. JUROS DE MORA. DECRETAÇÃO DA FALÊNCIA. ENCARGO LEGAL. ART. 10º DO DECRETO-LEI N. 1.025/1969. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se deficiente a fundamentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+IV - Antes da decretação da falência, os juros de mora são devidos, existindo, ou não, ativos suficientes para pagamento do principal.
+Após a decretação, a sua incidência fica subordinada à suficiência comprovada do ativo para pagamento da dívida. Precedentes.
+V - A Primeira Seção consolidou entendimento segundo o qual o encargo de 20%, imposto pelo artigo 1º do Decreto-Lei 1.025/69 pode ser exigido da massa falida.
+VI - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 1.998.963/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+No caso dos autos, o Tribunal de origem manteve a decisão proferida pelo Juízo Substituto da 5ª Vara Federal de Caxias do Sul/RS nos autos da Execução Fiscal n. 5015940-62.2015.4.04.7107, assim fundamentada (fl. 61):
+Decretada a falência da executada, porém havendo redirecionamento do feito contra os sócios, tanto a multa quanto os juros integrais são devidos pelos redirecionados.
+No período posterior a data da quebra, é vedada a fluência de juros nos moldes do artigo 26 do Decreto-Lei n.º 7.661/45, somente quando os valores forem suportados pela própria massa falida e houver ativo suficiente para o pagamento.
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
