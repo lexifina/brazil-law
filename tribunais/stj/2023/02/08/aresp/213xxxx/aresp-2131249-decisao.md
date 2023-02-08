@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por SERVICO SOCIAL DA INDUSTRIA - SESI e SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL contra decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL PEDERAL DA 3ª REGIÃO, nos termos da seguinte ementa (fl. 272):
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. ART. 1.021, CPC. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PARAFISCAIS. SESI. SENAI. ENTIDADES TERCEIRAS. ILEGITIMIDADE PASSIVA. AGRAVO DESPROVIDO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, encontra-se supedanea da em jurisprudência dominante dos Tribunais Superiores, inclusive quanto aos pontos impugnados no presente recurso.
+2. Cabe à Secretaria da Receita Federal do Brasil a fiscalização e cobrança das contribuições destinadas às entidades terceiras, tendo as referidas entidades, na condição de destinatárias dos recursos arrecadados, mero interesse econômico, mas não jurídico, conforme se depreende dos arts. 2º e 3º, caputs, da Lei nº 11.457/2007.
+3. Não estando presente o interesse jurídico exigido pelo art. 119 do CPC, não há que se falarem litisconsórcio passivo necessário e tampouco em intervenção das entidades como assistente simples.
+4. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+5. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 3º do Decreto-Lei n. 9.403/1946; 49 do Decreto-Lei n. 5.737-1965; 4º e 6º do Decreto-Lei n. 4.048/1942; 50 do Decreto n. 494/1962; 7º e 240 da CF; e 15, 18, parágrafo único, 119, parágrafo único, e 1.046, § 2º, do CPC, alegando que é possível a intervenção de terceiro em mandado de segurança e, no caso, podem intervir como assistentes litisconsorciais da União Federal ou, subsidiariamente , como assistentes simples.
+Oferecidas contrarrazões (fls. 355-361), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 363-366), o que ensejou a interposição do presente agravo.
+Apresentadas as contraminutas do agravo (fls. 386-395).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica." (EREsp n. 1.619.954/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 10/4/2019, DJe de 16/4/2019.)
+Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÕES SOCIAIS DESTINADAS A TERCEIROS OU FUNDOS. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO PASSIVO COM OS DESTINATÁRIOS DA ARRECADAÇÃO: SESI, SENAI, SESC, SENAC, SEBRAE, INCRA, APEX, ABDI. ENTENDIMENTO FIRMADO PELA PRIMEIRA SEÇÃO DO STJ NO ERESP 1.619.954/SC.
+1. O Superior Tribunal de Justiça vinha adotando o entendimento de que "o tratamento dado ao tema pela Lei n. 11.457/2007 não alterou os fundamentos da legitimidade passiva das entidades destinatárias das contribuições devidas a terceiro, quais sejam: a percepção dos recursos arrecadados. À toda evidência, as entidades destinatárias das contribuições devidas a terceiros que têm suas contribuições lançadas e recolhidas pela SRF, mediante remuneração, e cobradas judicialmente pela PGFN, nos termos do art. 3º, da Lei n. 11.457/2007 e art. 94, da Lei n. 8.212/91) integram a lide que tem por objeto a sua respectiva contribuição na qualidade de litisconsorte passivo unitário" (AgInt no AREsp 1.153.575/RS, Rel. Min. Mauro Campbell Marques).
+2. Com o julgamento dos EREsp 1.619.954/SC, a Primeira Seção declarou a ilegitimidade passiva do Sebrae, da Apex e da ABDI nas ações que questionam as contribuições sociais a eles destinadas.
+3. Dessa forma, as entidades destinatárias das referidas contribuições são ilegítimas para figurar no polo passivo ao lado da União. É o que ocorre na hipótese dos autos.
+4. Recurso Especial a que se dá provimento, em retificação de voto.
+(REsp n. 1.721.957/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 9/3/2021, DJe de 4/11/2021.)
+TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇO SOCIAL AUTÔNOMO. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA.
+1. De acordo com o entendimento firme desta Corte Superior, "não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica." (EREsp 1.619.954/SC, rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 10/04/2019, DJe 1º/07/2019).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.037.611/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+Desse modo, estando o acórdão recorrido em conformidade com a orientação jurisprudencial do STJ, incide a Súmula n. 83/STJ, que impede o conhecimento do recurso por ambas as alíneas.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
