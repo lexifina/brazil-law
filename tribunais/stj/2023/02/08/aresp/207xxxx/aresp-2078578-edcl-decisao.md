@@ -1,0 +1,32 @@
+DECISÃO
+Cuidam-se de embargos de declaração no agravo em recurso especial, opostos por AGROSETA AGROPECUARIA SEBASTIAO TAVARES LTDA, contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera para, nessa parte, dar-lhe provimento, e que foi assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE QUANTIA PAGA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. EXTINÇÃO DO VÍNCULO CONTRATUAL. INICIATIVA DO CONSUMIDOR. RETENÇÃO. POSSIBILIDADE. PERCENTUAL DE 25%. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação de rescisão contratual cumulada com restituição de quantia paga.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.723.519/SP, consolidou o entendimento de que, na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor, tal como definido no julgamento dos EAg 1.138.183/PE (DJe de 4.10.2012), por ser esse percentual adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, provido. (e-STJ Fls. 805/806)
+No presente recurso, aponta a embargante possível equívoco da decisão embargada, sob o fundamento de que a decisão não se manifestou acerca do afastamento do IGP-M como índice de correção monetária e da aplicabilidade do princípio da causalidade no tocante aos ônus sucumbenciais. Assevera, ainda, omissão no julgado em relação ao pedido de retenção integral das arras.
+É o breve relatório.
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.
+Consoante expressamente o consignado na decisão embargada, os alegados dissídios jurisprudenciais em relação ao afastamento do IGP-M como índice de correção monetária e da aplicabilidade do princípio da causalidade no tocante aos ônus sucumbenciais não foram analisados, eis que não houve o prequestionamento do tema supostamente objeto da divergência. Confira-se:
+ ..
+"- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013." (e-STJ Fl. 808)
+ ..
+Ademais, a incidência da Súmula 284/STF também se aplica aos temas acima mencionados, tendo em vista que, no tocante ao afastamento do IGP-M como índice de correção monetária e da aplicabilidade do princípio da causalidade no tocante aos ônus sucumbenciais, a parte embargante não alegou ofensa a nenhum dispositivo infraconstitucional.
+Outrossim, também não se vislumbra mácula na decisão embargada em relação ao pedido de retenção integral das arras.
+A decisão impugnada é clara ao dispor que "O TJ/SP, ao fixar em 10% o percentual de retenção pela rescisão do contrato de compra e venda de imóvel celebrado entre as partes, por culpa exclusiva do comprador, contrariou o entendimento do STJ no sentido de que "na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor, tal como definido no julgamento dos EAg 1.138.183/PE (Rel. Ministro SIDNEI BENETI, DJe de 4.10.2012),por ser esse percentual adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato." (AgInt no AREsp n. 1.889.730/RJ, Quarta Turma, DJe de 21/10/2022 e AgInt no REsp n. 2.020.138/SP, Terceira Turma, DJe de 13/10/2022)".
+Ainda, no ponto, o julgado embargado asseverou que o art. 419 do CC não foi prequestionado perante o Tribunal de origem, não tendo a parte embargante opostos embargos de declaração com vistas a suprir eventual omissão perpetrada pela Corte local.
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que a embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Dissociado, o pleito, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Forte em tais razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados.
