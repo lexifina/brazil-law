@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MARLENE BITARAES NETTO contra decisão do Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 437):
+APELAÇÃO CÍVEL - CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE UNIDADE AUTÔNOMA - AUSÊNCIA INTERESSE DE AGIR - TERMO DE QUITAÇÃO - REFENTE AOS VÍCIOS DE CONSTRUÇÃO - PRELIMINAR REJEITADA - ATRASO NA ENTREGA DAS CHAVES - AUSÊNCIA DE MÃO DE OBRA - FORTUITO INTERNO - INVERSÃO DA CLÁUSULA PENAL EM DESFAVOR DA CONSTRUTORA-REPETITIVO - CABIMENTO - LUCROS CESSANTES - INDENIZAÇÃO DEVIDA - DANO MORAL INDENIZÁVEL - REDUÇÃO DO QUANTUM. - A quitação constante de termo de recebimento de chaves, no caso concreto, diz respeito à inexistência de vícios de construção em nada tangenciando a pretensão vertida na demanda (lastreada nas consequências advindas do atraso na entrega do imóvel), razão pela qual se mostra imprópria a alegação de ausência de interesse de agir. - Segundo entendimento firmado pelo Superior Tribunal de Justiça no julgamento dos REsps 1.614.721/DF e 1.631.485/DF, submetidos à sistemática dos recursos representativos de controvérsia, prevendo o contrato de compra e venda de imóvel, firmado entre as partes, cláusula penal para o caso de descumprimento apenas em desfavor do consumidor, é medida de equidade a aplicação da mesma penalidade para o caso de mora atribuível ao fornecedor. - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a indenização por lucros cessantes em caso de atraso na entrega de imóvel é presumida, diante da impossibilidade de fruição do imóvel durante a mora contratual. - A frustração na expectativa da aquisição de imóvel, por culpa exclusiva da construtora, gera dever de indenizar o dano extrapatrimonial. O valor da Indenização deve ser fixado de forma proporcional e razoável.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 489, § 1º, IV e VI, e art. 1.022, II, do CPC.
+Sustenta que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou "acerca do período de aplicação da cláusula penal moratória prevista no contrato firmado entre as partes" - fls. 654/655.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+No que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+Ocorre que o Tribunal de origem assim se manifestou acerca da controvérsia (fl. 447):
+Quanto ao pedido subsidiário, verifica-se que também não merece razão à parte recorrente, tendo em vista que, a sentença vergastada estabelece a condenação da ré/apelante ao pagamento cláusula moratória no percentual de 2% sobre o valor atualizado do contrato, apenas uma única vez.
+Cumpre salientar que, a segunda parte da redação do dispositivo, qual seja: "devida a partir do inadimplemento até a efetiva entrega do imóvel", diz respeito aos juros e correção monetária que incidirão na condenação da multa moratória. Ressalta-se que, na decisão dos embargos declaratórios (f1.367), isso foi esclarecido pelo magistrado a quo.
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao pagamento da cláusula penal uma única vez.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. PERIODICIDADE DO PAGAMENTO DE CLÁUSULA PENAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1022 DO CPC. INEXISTÊNCIA. MATÉRIA DEVIDAMENTE ANALISADA PELA CORTE DE ORIGEM.
+1. Verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao pagamento da cláusula penal uma única vez. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
