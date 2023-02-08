@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por TIAGO AUGUSTO LUSTOSA DA CUNHA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 419/424, in verbis:
+Consta dos autos que o recorrente foi condenado em primeiro grau às penas de 1 ano e 8 meses de prisão, por incursão no art. 33, §4º, da Lei 11.343/06.
+Na origem, TIAGO AUGUSTO LUSTOSA DA CUNHA foi denunciado como incurso no arts. 33, caput da Lei nº 11.343/06, em razão do flagrante por policiais em patrulha de rotina, que surpreenderam o recorrente ao supostamente trazer consigo aproximadamente 50,9g de cocaína distribuídos em 59 microtubos, mais R$ 120,00 em dinheiro. Em buscas pela redondeza, os policiais encontraram em uma residência abandonada uma bolsa contendo aproximadamente 422,3g de maconha, 26 buchas pesando 26,1g de maconha e uma arma de fogo de fabricação caseira.
+Na sentença, o Juízo de primeiro grau salientou que "não há como atribuir ao acusado a propriedade do entorpecente, arma de fogo e munições apreendidos no imóvel pelos militares. O réu não foi visto no local ou em contato com o material. Por tal motivo, esse não foi considerado na fundamentação ou na fixação da pena." (fl. 238)
+Da sentença, apelaram a defesa e o Ministério Público.
+Em suas razões recursais, o Ministério Público pugnou pelo afastamento da circunstância atenuante da confissão espontânea, bem como pelo decote da causa de diminuição de pena prevista no art. 33, §4º, da Lei 11.343106.
+Por sua vez, a defesa apresentou razões requerendo a absolvição do réu, por ausência de provas suficientes a lastrear a condenação. Postulou pelo reconhecimento da atenuante da menoridade relativa, bem como pelo decote da agravante do art.61, II, "j", do CP.
+O TJ/MG, por maioria de votos, deu parcial provimento ao recurso defensivo e provimento ao apelo ministerial. O acórdão encontra-se assim ementado (fls. 325/359):
+ ..
+A defesa interpôs recurso especial, com fulcro na alínea "a" do permissivo constitucional, em que alega violação à disposição de lei federal inscrita no art. 33, §4º, da Lei 11.343/06, na fração máxima (2/3). (fls. 388/397) Contrarrazões às fls. 401/404.
+O recurso foi admitido pelo Terceiro Vice-Presidente do TJ/MG (fls. 407/408)
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Acerca da dosimetria da pena, o Tribunal de origem assim consignou (e-STJ fls. 344/349):
+Lado outro, com relação à causa de diminuição de pena prevista no art: 33, §4º da Lei 11.343/06, tem-se que nos delitos definidos no capute no § 1ºdo art. 33, da Lei nº 11.343106, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+ ..
+Ao prever a causa especial de diminuição de pena para o réu primário, de bons antecedentes que não se dedicasse à atividade criminosa e nem integrasse organização criminosa, o legislador pátrio inseriu no delito de tráfico de entorpecentes uma modalidade privilegiada, sendo que tais condições permitem ao julgador concluir que a conduta do réu, nesses casos, merece um juízo de reprovação mais brando em comparação à praticada na figura típica do caput do ad. 33, da Lei 11.343/06.
+Na hipótese, observa-se que, a despeito de ser primário, e possuidor de bons antecedentes (Certidões de Antecedentes Criminais, fis. 63 e 117/118), restou comprovado que o mesmo se dedica às atividades criminosas.
+ ..
+As provas dos autos dão conta que o réu se dedicava às atividades criminosas, notadamente os Boletins de Ocorrência de fls. 39148, Relatório de Circunstanciado de Investigações, fis. 35/36. Somado a isso, o Policial Militar O.M.C.J, asseverou que "( .. ) o réu já era conhecido no meio policial; o pessoal fala que ele é um traficante na região ( .. )o tráfico na região é organizado, o indivíduo que não seja recrutado por essa gerência não consegue vender droga ali naquele ponto (..)" (mEdia, fi. 133).
+Ademais, segundo se denota da Certidão de Antecedentes de Menor de fI.64/65, nota-se que o acusado, enquanto menor, possuiu passagens por atos infracionais análogos ao delito de tráfico de drogas, que, a despeito de não  oderem ser usadas para macular seus antecedentes ou para agravar sua pena pela reincidência, podem indicar, somado aos demais elementôs dos autos, a inclinação do agente a práticas delitivas.
+ ..
+Sendo assim, diante do não preenchimento dos requisitos do art. 33, §4º, da Lei 11.34106, é imperativo o decote da causa de diminuição de pena.
+Como se vê, a conclusão pela dedicação à atividade criminosa foi assentada principalmente no fato de o agravante possuir "passagens" pela Vara da Infância e Juventude.
+No entanto, tenho que o total de entorpecente apreendido -aproximadamente 50g (cinquenta gramas) de cocaína - não se revela expressivo o suficiente para justificar o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, mormente no caso de réu primário e sem antecedentes criminais.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempre gado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021, grifei).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso a aplicação da minorante do § 4º da Lei n. 11.343/2006.
+Ante o exposto e acolhendo o parecer do Ministério Público Federal, dou provimento ao recuro especial para, nos termos acima deduzidos, restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
