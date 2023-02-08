@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por REINALDO ROSA SOARES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 241):
+Apelação cível -Ação ordinária -Pensão por morte -IPSEMG - Filho inválido -Dependência econômica -Presunção relativa - Desconstituição - Exercício de atividade laborativa - Obtenção de benefício previdenciário - Dúvidas quanto à invalidez - Recurso a que se nega provimento. 1. A dependência econômica do filho inválido, para fins de recebimento da pensão por morte, goza de presunção relativa, passível de desconstituição por prova em contrário. 2. O exercício de atividades laborativas por longo lapso temporal e a suspensão de benefício previdenciário por invalidez pelo INSS desautorizam a concessão de pensão por morte ao pretenso dependente.3. A contribuição financeira da mãe com as despesas da casado filho, em razão do surgimento de problemas de saúde, não projeta, por si só, cenário de dependência econômica.
+Rejeitados os embargos de declaração opostos (fls. 261-263).
+No recurso especial, alega o recorrente ofensa ao art. 374, IV, do Código de Processo Civil, ao defender que faz jus à pensão por morte de sua mãe, na condição de filho maior inválido, e que sua invalidez decorre de transplante renal, cuja situação foi agravada por outras moléstias, como retinopatia diabética, fratura de tornozelo, glicemias de difícil controle, hipertensão arterial e dislipidemia.
+Sustenta, ainda. que foi aposentado por invalidez em abril de 2006 e que ainda assim permaneceu dependente economicamente de sua mãe, com quem sempre residiu, e que os documentos juntados aos autos comprovam a dependência. Aduz que o fato de perceber aposentadoria por invalidez não conduz à conclusão de que não havia dependência econômica.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Sem contrarrazões ao recurso especial (fl. 292).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 293-295), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 319).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Consta dos autos que a Corte de origem negou provimento ao recurso de apelação do ora recorrente e manteve a sentença que julgou improcedentes os pedidos na ação em que ele pleiteava pensão previdenciária por morte da mãe, na condição de filho inválido. Reitera o recorrente em recurso especial as alegações acerca da pretensão de receber a pensão por morte em questão no caso dos autos.
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao entender que o recorrente não faz jus à pensão por morte em questão, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto o referido acórdão (fls. 241-245):
+Com efeito, ainda que a prestação previdenciária devida a filho inválido não demande comprovação inequívoca da dependência econômica - exigida aos pretensos beneficiários arrolados nos incisos II e III do artigo 10 - é certo que a presunção de dependência é relativa e, portanto, passível de prova em contrário.
+E no caso sob exame, dois fatores reclamam atenção e obstam, a meu aviso, a procedência dos pedidos iniciais: i) o momento em que constatada a alegada invalidez do autor; ii) as dúvidas existentes quanto à sua incapacidade laborativa.
+Da análise do caderno processual, verifica-se que os problemas de saúde enfrentados pelo autor advieram quando contava com aproximadamente 45 (quarenta e cinco) anos de idade, momento em que já havia exercido atividades laborativas e não dependia dos valores então percebidos por sua genitora.
+Insta ressaltar que, quando da realização do exame pericial, o autor informou ao perito que já trabalhou como servente de pedreiro, pintor, autônomo, organizador de eventos e assessor parlamentar, momento em que foi aposentado por invalidez pelo INSS (f. 84 da ordem 8).
+Nesse contexto, ao que tudo indica, o autor não possuía verdadeira relação de dependência econômica com sua genitora, limitando-se a segurada a contribuir com algumas despesas do lar comum após os problemas de saúde enfrentados pelo filho.
+Ademais disso, nas razões de sua insurgência, o próprio autor relata que não percebe mais qualquer benefício previdenciário pelo INSS.
+Em que pese não tenha colacionado qualquer documento apto a comprovar a alegação e a natureza da suposta suspensão do benefício, presume-se a existência de dúvidas da autarquia em relação à própria situação de invalidez.
+(..)
+De consequência, a desconstituição da presunção relativa de dependência econômica impede a concessão da pensão por morte e demanda a manutenção da sentença que julgou improcedentes os pedidos iniciais.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENSÃO POR MORTE. FILHA MAIOR INVÁLIDA. DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO RELATIVA NÃO AFASTADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que o art. 217, II, a, da Lei n. 8.112/1990, em sua redação original, não exige a comprovação de dependência econômica para o reconhecimento da pensão por morte ao filho maior inválido, ante a presunção relativa de dependência nessa hipótese.
+III - Caso em que o cenário fático definido pelas instâncias ordinárias não indica elemento idôneo para afastar tal requisito, tendo em vista as peculiaridades em torno do caso concreto.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.000.163/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
