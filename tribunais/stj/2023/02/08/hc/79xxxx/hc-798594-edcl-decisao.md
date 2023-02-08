@@ -1,0 +1,8 @@
+DECISÃO
+EVERTON VINICIUS FERREIRA DALMASO opõe embargos de declaração contra a decisão de fls. 728-729, em que a Vice-Presidência do Superior Tribunal de Justiça indeferiu liminarmente o writ, dada a reconhecida supressão de instância na hipótese.
+Para tanto, assere que " o  HABEAS CORPUS 50370790720224040000, Foi impetrado nos mesmos fundamentos, tendo por avaliação somente o quesito da tornozeleira, mas que fora impetrado e requerido pela defesa" (fl. 732).
+Todavia, consoante salientado na decisão embargada, a defesa pleiteia, "liminarmente e no mérito, a retirada do monitoramento eletrônico e, subsidiariamente, que seja reconhecida a incompetência do Juízo da 1ª Vara Federal de Guaíra-PR para a execução da pena aplicada ao paciente" (fl. 728).
+Ocorre que, no acórdão aqui impugnado, cujo número se encontra acima minudenciado, a Corte de origem limitou-se a discutir tão-somente o aparente descumprimento das condições relativas ao monitoramento eletrônico. Desse modo, verifica-se que não foram apreciadas as teses aqui aventadas, sejam os motivos para a retirada do equipamento, seja a suposta incompetência da Justiça federal, de modo que seu exame implicaria indevida supressão de instância.
+Ademais, urge consignar que " n ão podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi" (EDcl no RMS n. 67.503/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/9/2022).
+À vista do exposto, rejeito os embargos.
+Publique-se e intimem-se.
