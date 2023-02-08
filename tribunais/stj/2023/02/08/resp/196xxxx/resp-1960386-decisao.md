@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLUBE DE PESCA TANGARÁ com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Agravo de Instrumento n. 1.0000.20.032695-7/001) assim ementado (fl. 192):
+AGRAVO DE INSTRUMENTO - AÇÃO CAUTELAR - EXIBIÇÃO DE DOCUMENTOS - CUMPRIMENTO DE SENTENÇA - OBRIGAÇÃO DE FAZER - INTIMAÇÃO PESSOAL - DESNECESSIDADE - NÃO CUMPRIMENTO - MULTA DIÁRIA -CABIMENTO.
+- Com o advento do Novo Código de Processo Civil, foi superado pelo § 2º do art. 513, o entendimento do STJ, através da Súmula 410, de que seria condição necessária para a exigibilidade da multa cominatória a intimação pessoal do devedor, já que referido dispositivo estabelece que o devedor poderá ser intimado para cumprir a sentença por meio de publicação da decisão no Diário da Justiça, na pessoa de seu advogado.
+- Se a parte devidamente intimada para cumprir a obrigação de fazer que lhe fora imposta na sentença, não o faz, é devida a multa cominatória arbitrada para tal finalidade.
+Nas razões do recurso especial, a recorrente aponta violação do art. 513, § 2º, do Código de Processo Civil, bem como divergência jurisprudencial entre o acórdão recorrido e julgados do STJ. Sustenta que continua válida a Súmula n. 410 do STJ, mesmo após a edição do CPC de 2015, porquanto é necessária a intimação pessoal do devedor para que cumpra a obrigação de fazer antes de serem aplicadas astreintes.
+Requer o conhecimento e provimento do recurso para que as astreintes só sejam aplicadas se, após a intimação pessoal do devedor, não houver o cumprimento da obrigação.
+As contrarrazões foram apresentadas (fls. 298-302).
+Admitido o apelo extremo às fls. 306-308, os autos ascenderam a esta Corte.
+É o relatório. Decido.
+De fato, verifica-se que o acórdão recorrido diverge da jurisprudência do Superior Tribunal de Justiça de ser necessária, para a aplicação de astreintes, a prévia intimação pessoal do devedor para o cumprimento de obrigação de fazer, entendimento que continua válido após a entrada em vigor do Código de Processo Civil de 2015.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER COM COMINAÇÃO DE MULTA DIÁRIA. NECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR. INCIDÊNCIA DA SÚMULA 410/STJ. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior se firmou no sentido de ser imprescindível a intimação pessoal para a execução da multa cominatória por obrigação de fazer ou não fazer, providência não realizada no caso concreto.
+2. O entendimento consubstanciado no enunciado n. 410 da Súmula do STJ se aplica tanto aos procedimentos instaurados na vigência do CPC/1973 - inclusive os posteriores à entrada em vigor da Lei n. 11.232/2005 -, quanto àqueles iniciados na vigência do CPC/2015.
+3. Agravo interno desprovido. (AgInt no REsp n. 1.728.194/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2019, DJe de 22/10/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. TERMO INICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. SÚMULA 410/STJ. AGRAVO DESPROVIDO.
+1. A Segunda Seção desta Corte consolidou o entendimento de que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Entendimento compendiado na Súmula 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor. Esclarecimento do decidido pela Segunda Seção nos EAg 857.758/RS" (REsp 1.349.790/RJ, julgado em 25/09/2013, DJe de 27/02/2014; AgInt nos EDcl nos EREsp 1.492.933/SP, julgado em 11/04/2018, DJe de 18/04/2018).
+2. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.756.046/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/11/2018, DJe de 12/11/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. NECESSIDADE DE INTIMAÇÃO PESSOAL. JURISPRUDÊNCIA PACIFICADA NO STJ. DECISÃO MANTIDA.
+1. "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer."
+Entendimento compendiado na Súmula n. 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor. Esclarecimento do decidido pela Segunda Seção no EAg 857.758-RS" (REsp 1.349.790/RJ, SEGUNDA SEÇÃO, DJe 27/2/2014).
+2. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.726.817/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/9/2018, DJe de 12/9/2018.)
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para determinar o retorno dos autos ao Tribunal de origem a fim de que proceda à prévia intimação pessoal do devedor, ora recorrente, para que cumpra a obrigação de fazer (exibição de documentos), sob pena de pagamento de astreintes.
+Publique-se. Intimem-se.
