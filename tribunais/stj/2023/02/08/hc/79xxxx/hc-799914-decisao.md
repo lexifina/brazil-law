@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Julio de Barros - condenado como incurso no crime de tráfico de drogas, em regime semiaberto, mas lhe negado o direito de recorrer em liberdade -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2256185-74.2022.8.26.0000), não comporta processamento.
+Com efeito, insurge-se o impetrante contra a manutenção da sentença proferida pelo Juízo de Direito da 2ª Vara da comarca de Ibiúna/SP que, apesar de condenar o paciente no regime semiaberto, negou-lhe o direito de recorrer em liberdade, sem fundamentação idônea para tanto, pois o Douto Juiz nega o direito de recorrer em liberdade com a fundamentação rasa, não demonstrando a real necessidade da manutenção da prisão preventiva, apenas alegando que permaneceu preso, assim violou o preceito fundamental inserido no art. 5º da Constituição Federal (PRESUNÇÃO DE INOCÊNCIA) e art. 93, IX da Constituição Federal (PRINCÍPIO DA MOTIVAÇÃO DOS ATOS JUDICIAIS), art. 654, inciso V do CPP e PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA, considerando que o regime da sentença condenatória é o semiaberto (fls. 5/6).
+Ocorre que, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração de outras ações constitucionais em favor do paciente, com causa de pedir e pedidos idênticos, dentre elas, o Habeas Corpus n. 783.042/SP, no qual concedi liminarmente a ordem para determinar que a segregação cautelar do paciente fosse fixada em estabelecimento compatível com o regime semiaberto, uma vez que a negativa de recorrer em liberdade estaria devidamente fundamentada na reiteração delitiva do sentenciado.
+Eis a ementa:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE RECORRER EM LIBERDADE. INDEFERIMENTO LIMINAR DA IMPETRAÇÃO, DEFICIENTEMENTE INSTRUÍDA. JUNTADA DE CÓPIA DA SENTENÇA CONDENATÓRIA COM O AGRAVO REGIMENTAL. IMPOSIÇÃO DO REGIME SEMIABERTO. NEGATIVA DE RECORRER EM LIBERDADE DEVIDAMENTE FUNDAMENTADO. NECESSIDADE DE COMPATIBILIZAÇÃO. RECONSIDERAÇÃO DA DECISÃO QUE NÃO CONHECEU DA IMPETRAÇÃO. CONCESSÃO DA ORDEM, LIMINARMENTE.
+Decisão reconsiderada. Ordem concedida liminarmente nos termos da decisão.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DIREITO DE RECORRER EM LIBERDADE. REITERAÇÃO DE PEDIDOS. CONHECIMENTO. IMPOSSIBILIDADE.
+Inicial indeferida liminarmente.
