@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAETANO ROTTILI (CAETANO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Mato Grosso do Sul, da lavra do Desembargador Marcelo Câmara Rasslan, assim ementado
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE DESPEJO RURAL SOBRE ARRENDAMENTO CUMULADA COM COBRANÇA DE RENDA - REVELIA - PROCEDÊNCIA DA DEMANDA EM PRIMEIRO GRAU - CONTESTAÇÃO APRESENTADA EM AUTOS DIVERSOS - ALEGAÇÃO RECURSAL DE ERRO ESCUSÁVEL - ERRO CONSIDERADO GROSSEIRO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+A apresentação da peça contestatória em processo diverso, ainda que relativo às mesmas partes litigantes, configura erro grosseiro e inescusável, o que torna correta a decretação da revelia, nos moldes do art. 344, do Código de Processo Civil.
+A presunção de veracidade decorrente da revelia é relativa, cabendo ao juiz atentar-se para os elementos probatórios presentes no feito para, então, decidir pela procedência ou improcedência da ação (e-STJ, fls. 247).
+Os embargos de declaração de CAETANO foram rejeitados (e-STJ, fls. 286/289).
+Irresignado, CAETANO interpôs recurso especial com base nos arts. art. 105, III, alínea a, da CF, apontando a violação aos arts. 286 e 372 do NCPC, ao sustentar que (1) em 21/12/2020 CAETANO protocolou tempestivamente a petição de contestação que, por um erro material, foi realizado em ação diversa nos autos de nº 0813514-13.2019.8.12.0001, que tramita perante a 14ª Vara Cível de Campo Grande/MS; (2) como na outra ação discute-se o mesmo contrato (notificação para exercício de seu direito de preferência para aquisição da área em questão), vislumbra ter ocorrido um erro completamente escusável; (3) a decisão foi proferida por juízo incompetente, já que a demanda deveria ter sido distribuída por conexão ou continência ao juízo da 14ª. Vara Cível de Campo Grande/MS; (4) caso os autos tivessem tramitado perante o juízo competente (14ª. Vara Cível), poderia o juízo ter feito uso da prova emprestada de outro processo (e-STJ, fls. 291/309).
+MATILDE MARQUES (MATILDE) apresentou contrarrazões e a Terceira Vice-Presidência do Tribunal estadual negou trânsito ao apelo nobre (e-STJ, fls. 352/354).
+Nas razões do presente agravo, CAETANO alega ter havido prequestionamento, ainda que implícito, pois a questão referente aos dispositivos tidos por violados foi enfrentada no julgamento da apelação e dos embargos de declaração (e-STJ, fls. 356/363).
+Houve apresentação de contraminuta por MATILDE (e-STJ, fls. 369/378).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da deficiência no prequestionamento a inviabilizar o recurso especial.
+De uma simples leitura do aresto recorrido pode-se observar que os temas referentes aos artigos (1) 286 do NCPC quanto à alegada nulidade da sentença por ter sido proferida por juízo incompetente, diante da conexão instaurada pelo anterior processo de notificação judicial para exercício do direito de preferência; (2) 372 do NCPC pelo não admissão da prova oriunda de outro processo, mediante prévio contraditório, não foram apreciados pelo v. acórdão que fundamentou suas conclusões com base na sustentação do erro escusável, do excesso de formalismo, "cabendo anulação da sentença para que sejam afastados os efeitos da revelia" e não por eventual incompetência na jurisdição (e-STJ, fls. 249).
+Nos embargos de declaração nada trouxe CAETANO sobre a violação dos dispositivos infraconstitucionais apontados e, em consequência, o acórdão do julgamento de tal recurso reiterativo nada abordou quanto aos temas aventados, ou seja, sobre julgamento por juízo incompetente ou falta de admissão de prova de outro processo.
+O acórdão dos aclaratórios foi fundamentado nos seguintes termos
+Com efeito, não há de se cogitar qualquer omissão, contradição ou obscuridade, porquanto a leitura do julgado revela que as questões foram devidamente enfrentadas, de forma clara, in verbis:
+Não obstante a argumentação recursal, tenho que o erro material mencionado não é escusável e, em verdade, configura erro grosseiro, que impede considerar tempestiva a peça contestatória apresentada em processo diverso, de outra Vara Cível, ainda que relativo às mesmas partes.
+Ora, apesar de o ordenamento jurídico prestigiar a instrumentalidade das formas, não há como admitir a validade da contestação na espécie, porquanto compete ao advogado zelar pela correta inclusão das peças processuais no sistema de processos eletrônicos, não sendo admissível que confunda os feitos e venha esclarecer o equívoco somente depois de prolatada a sentença que, frise-se, restou proferida em total consonância com o CPC (art. 355, inciso II).
+Ademais, não cabe ao magistrado ou aos serventuários da Justiça averiguar, ainda que em processos das mesmas partes, se a peças processuais foram juntadas em outros autos por equívoco, medida que se torna ainda mais despropositada em se tratando de feito que tramita em Vara diversa (e-STJ, fls. 249/250).
+Em tais condições, vale destacar que o prequestionamento não ocorreu expressamente (abordagem do tema prequestinado no acórdão recorrido, onde justificadas as conclusões em cotejo com a norma infraconstitucional dita violada), nem de modo implícito (mediante abordagem da fundamentação pertinente, porém sem mencionar os dispositivos de lei ditos violados) e nem de maneira ficta (por meio de abordagem expressa nos embargos de declaração e reiterada omissão do Tribunal na abordagem do tema prequestionado).
+Por isso, a ausência do debate pelo Tribunal estadual sobre os temas agora trazidos a esta Corte Superior, ainda que de ordem pública, inviabiliza sua ascensão nos estreitos limites de cognição do recurso especial, com atração da incidência da Súmula nº 282/STF, por analogia.
+Nesse sentido
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. ATRASO. ENTREGA. LUCROS CESSANTES. IMÓVEL. DESVALORIZAÇÃO. PROVA. SÚMULAS NºS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1.  ..
+2. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Na hipótese, rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022 - sem destaque no original)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO. AUSÊNCIA DE RECURSO. PRECLUSÃO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+1. Não tendo sido discutida no colegiado estadual a questão referente à ocorrência de prescrição, em decorrência da ausência de recurso da parte ora agravante, afigura-se inviável sua apreciação nesta instância em decorrência de a matéria encontrar-se preclusa.
+2. Na instância especial, o requisito do prequestionamento é indispensável mesmo em questões de ordem pública.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.516.680/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/3/2016, DJe de 13/4/2016 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO o percentual dos honorários advocatícios anteriormente fixados em favor de MATILDE para 15%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO NO RECURSO ESPECIAL. AÇÃO DE DESPEJO RURAL SOBRE ARRENDAMENTO CUMULADA COM COBRANÇA DE RENDA. PROCEDÊNCIA. CONTESTAÇÃO APRESENTADA EM AUTOS DIVERSOS. REVELIA. ACÓRDÃO QUE VISLUMBRA ERRO GROSSEIRO. ALEGADA VIOLAÇÃO DOS ARTS. 286 E 372 DO NCPC. PREQUESTIONAMENTO DEFICIENTE. SÚMULA Nº 282/STF, POR ANALOGIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
