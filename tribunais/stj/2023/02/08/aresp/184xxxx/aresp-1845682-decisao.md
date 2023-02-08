@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por FERNANDES & RODRIGUES CONSULTORES ASSOCIADOS LTDA, JOSÉ RICARDO FERNANDES e MIGUEL RODRIGUES FILHO contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 234):
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FURTO DE PERTENCES EXISTENTES NO VEÍCULO ESTACIONADO NO ESTABELECIMENTO DA DEMANDADA. DANOS MATERIAIS. AUSÊNCIA DE COMPROVAÇÃO DOS BENS EXISTENTES NO INTERIOR DO VEÍCULO. CONDENAÇÃO POR DANOS MATERIAIS EXIGE A PROVA EFETIVA NÃO EXISTENTE NA ESPÉCIE. DANOS MORAIS. INOCORRÊNCIA. A empresa responde, perante o cliente, pela reparação de danos ou furto de veículo ocorrido em seu estacionamento (súmula 130 do STJ). Conquanto presente a relação de consumo, não é possível de imediato inverter o ônus da prova, já que o inciso VIII do artigo 6.º do Código de Defesa do Consumidor não mitiga a obrigação do autor em provar o fato constitutivo do seu direito (CPC, art. 373, inc. I). Sem a efetiva comprovação dos bens materiais existentes no interior do veículo e que foram furtados no estacionamento do estabelecimento da demandada, não se mostra possível a condenação pretendida. A ocorrência de furtos e de roubos em cidades de grande população infelizmente é fato corriqueiro que enseja, tão-somente, dissabores do cotidiano. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 261-264).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 7º, 9º, 10, 370 e 355 do CPC. Afirma que houve decisão surpresa em virtude do julgamento antecipado da lide que não permitiu a produção de prova do dano material sofrido. Aduz configurado o dano moral, pois, no caso, a recorrente se viu furtada de seus objetos e dinheiro guardados no interior do veículo estacionado em local disponibilizado pela recorrida.
+Foram apresentadas contrarrazões (e-STJ fls. 336-350).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 351-353), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, não se verifica presente o prequestionamento da matéria relativa aos arts. 7º, 9º e 10 do CPC, porquanto não apreciada pelo julgado recorrido, revelando inclusive razões dissociadas do acórdão, sendo inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+No que tange ao alegado cerceamento de defesa, consta do acórdão integrativo que não houve omissão no acórdão embargado com relação ao tema que nem sequer foi levado à Corte Estadual na apelação. O acórdão foi assim proferido (e-STJ fl. 263):
+Consignou o acórdão que o estabelecimento réu tem o dever de vigilância dos veículos estacionados em sua dependência, devendo assumir os riscos inerentes à atividade que exerce, sendo objetiva sua responsabilidade, nos termos da legislação consumerista.
+Todavia, a improcedência da ação foi mantida porque aos autores incumbia a prova de que os bens reclamados estavam no interior do veículo na ocasião dos fatos, ônus do qual não se desincumbiram.
+Não se olvida que, no curso da lide, os autores pugnaram pela produção de prova testemunhal (depoimento pessoal do representante da ré e de testemunhas f. 159/160), que não foi produzida, diante do julgamento antecipado da lide.
+Todavia, em sua apelação, os autores não alegaram a existência de cerceamento de defesa em razão da não produção da prova testemunhal, mas apenas pugnaram pela inversão do ônus da prova, questão que foi expressamente apreciada no acórdão embargado.
+Ora, ausente alegação de cerceamento de defesa na apelação, não há que se falar em omissão do julgado embagado ao não apreciar o anterior requerimento dos autores sobre prova testemunhal.
+Nesse passo, quanto à apontada violação aos arts. 370 e 355 do CPC, o recurso especial não pode ser conhecido, pois, sobre a matéria de que tratam essas normas, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+No que diz respeito à existência de dano moral, não há, na fundamentação do recurso, a indicação do dispositivo de lei federal violado, incidindo, na espécie, o óbice da Súmula 284 do STF.
+Destarte, inviável a pretensão da recorrente.
+Por fim, impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em 10% do valor da causa (e-STJ fl. 193), majorados pela Corte Estadual para 15% (e-STJ fl. 240), a nova majoração dos honorários para 17% é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
