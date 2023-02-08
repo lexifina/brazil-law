@@ -1,0 +1,31 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS contra a decisão que negou seguimento ao seu recurso especial.
+O acórdão objeto do recurso especial prolatado pelo Egrégio Tribunal de Justiça do Estado de São Paulo está assim ementado:
+INDENIZAÇÃO SECURITÁRIA CUMPRIMENTO DE SENTENÇA - Agravante que pretende, em resumo, o reconhecimento da incompetência do Juízo, com remessa dos autos para a Justiça Federal, consequência da admissão da Caixa Econômica Federal no polo passivo da demanda, bem como a extinção da execução, por ilegitimidade do segurado - Legitimidade da CEF, competência da Justiça Federal e legitimidade do exequente que já foram decididas, em definitivo, no curso da fase de conhecimento, não comportando mais discussões - Recurso que não comporta conhecimento nesta parte Agravante que insiste no excesso de execução (juros sobre multa decendial e respectivos honorários advocatícios sucumbenciais) e questiona a não aceitação do seguro garantia e a determinação de protesto da dívida - Matéria tocante à multa decendial que comporta conhecimento e provimento, vez que o cálculo, da forma como realizado, importa em "bis in idem" - Multa que deve ser limitada ao valor da obrigação principal, sem o acréscimo de juros - Excesso de execução reconhecido - Precedentes - Condenação da executada às penalidades do art. 523, § 1º, do CPC/2015 - Diante da alegação de excesso de execução, competia à executada, ao menos, efetuar o pagamento da quantia incontroversa, o que não o fez - Honorários advocatícios e multa devidos, nos termos do § 1º do art. 523 do CPC - Seguro garantia que não equivale ao pagamento voluntário da dívida, não sendo suficiente para afastaras penalidades do § 1º do art. 523 do CPC - Seguro garantia, no caso dos autos, que não se justifica, porque o cumprimento de sentença é definitivo e a medida se mostra prejudicial ao exequente - Protesto da dívida que encontra amparo no art. 517 do CPC, uma vez que decorrido o prazo para pagamento voluntário - RECURSO NÃO CONHECIDO, EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a insurgente sustentou violação dos arts. 1º- A da Lei n. 12.409/14, 3º da Lei n. 13.000/14, 523, §1º, 525, § 1º, II, 835, §2º, do CPC. Sustenta, em síntese: a) competência absoluta da justiça federal - legitimidade passiva da caixa econômica federal; b) ilegitimidade ativa dos autores; e c) necessidade de reconhecimento do seguro garantia judicial como meio idôneo de garantia do juízo.
+Inadmitido o recurso em face da existência de decisão prolatada em sede de repercussão geral, em face da não demonstração da violação à legislação federal, e da não demonstração do dissídio.
+Sobreveio agravo em recurso especial manifestando inaplicáveis os enunciados 7/STJ e 282/STF.
+É o relatório.
+Passo a decidir.
+O presente recurso não pode ser conhecido em virtude da ausência de impugnação específica dos fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, para impugnar a decisão que inadmite o recurso especial, faz-se necessário apresentar argumentação específica, adequada às particularidades do caso concreto.
+Do exame do agravo em recurso especial, verifica-se que o agravante tratou de óbices sequer citados e deixou de impugnar os efetivamente aplicados, muito provavelmente porque impugnou a decisão que inadmitiu o recurso da parte adversa, este sim a tratar do enunciado 7/STJ e do prequestionamento.
+Saliente-se que é dever da parte agravante impugnar especificamente todos os fundamentos utilizados para a inadmissão do apelo, sob pena de não conhecimento do agravo em recurso especial, a teor do que dispõe o art. 932, inciso III, do CPC/2015, in verbis:
+"Art. 932. Incumbe ao relator: (..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+A respeito do tema, decidiu a Corte Especial:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+(..)
+(grifo nosso) (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+Destarte, desatendido o princípio da dialeticidade recursal, não há conhecer do presente recurso.
+Ante o exposto, não conheço do agravo em recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/15.
+AGRAVO NÃO CONHECIDO.
