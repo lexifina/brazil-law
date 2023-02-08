@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ALDO LAIR SCHWINGEL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/10/2022.
+Concluso ao gabinete em: 06/02/2023.
+Ação: exigir contas e exibição de documentos proposta por CHRISTOF SCHAFKNECHT em face do recorrente.
+Sentença: julgou procedente a prestação de contas requerida e condenou o réu a restituir em favor da sociedade empresarial - SWISS SABOR ALIMENTOS E COMÉRCIO DE DISTRIBUIÇÃO DE CARNES E DERIVADOS LTDA. - o valor de R$ 2.250.999,31, constituindo título executivo judicial.
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa (e-STJ, fl. 1.759):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. INÉRCIA DO REQUERIDO. CONTAS APRESENTADAS PELO AUTOR JULGADAS BOAS. INSUFICIÊNCIA DE DOCUMENTOS. NÃO ACOLHIMENTO. VALORAÇÃO CORRETA PELA SENTENÇA DOS ELEMENTOS CONSTANTES DOS AUTOS. DEVER DE PRESTAR CONTAS RECONHECIDO NA FASE ANTERIOR EM DECORRÊNCIADA ADMINISTRAÇÃO DA SOCIEDADE EMPRESÁRIA. OMISSÃO DO REQUERIDO QUANTOA APRESENTAÇÃO DE DOCUMENTOS. IMPUGNAÇÃO NAS RAZÕES DE APEAÇÃO. IMPOSSIBILIDADE. ALEGAÇÕES ANTERIORES ABSOLUTAMENTE GENÉRICAS E INFUNDADAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. PRECLUSÃO. INOVAÇÃO RECURSAL MANUTENÇÃO DA SENTENÇA. NEGATIVA DE PROVIMENTO.
+1. Reconhecida na primeira fase da ação o dever do requerido prestar as contas exigidas e apresentar os documentos pertinentes, a ausência da juntada dos documentos que, por imposição legal, deveriam ter sido objeto de cuidados e guarda pelo requerido, não pode lhe servir para impugnar as contas apresentadas pelo autor apenas nas razões do recurso de apelação, sob pena de se validar comportamento ilícito, ao se possibilitar ao requerido beneficiar-se de sua própria torpeza.
+2. A inércia do requerido em prestar as contas devidas ao autor, como reconhecido pela sentença proferida na primeira fase do procedimento, permitindo a apresentação de contas pelo autor, implica em ter-se como totalmente infundada a alegação de que prestou contas e apresentou todos os documentos pertinentes e comprobatórios da idoneidade da sua gestão.
+3. Tendo o requerido apresentado impugnação inegavelmente genérica e infundada, quanto as contas apresentadas pelo autor, antes de seu julgamento, configura preclusão da possibilidade de impugnação nas razões do recurso de apelação interposto em face da decisão proferida na segunda fase da ação de prestação de contas, inclusive quando os valores agora impugnados já constavam da prestação de contas do autor, sendo vedado no exame da apelação interposta conhecer-se de questões novas, ante a preclusão operada(art. 1.013, § 1º c/c art. 1.014/CPC).
+4. Apelação Cível à que se nega provimento, majorando-se os honorários de sucumbência (§ 11, art. 85/CPC).
+Embargos de Declaração: opostos pelas partes, sendo que os embargos do recorrente foram rejeitados e os do recorrido acolhidos sem efeitos infringentes.
+Recurso especial: alega violação dos arts. 18 e 278 do CPC, argumentando que "o Recorrido, na qualidade de sócio, não tem legitimidade ad causam para pleitear em nome próprio indenização em favor da sociedade empresarial" (e-STJ, fl. 1.842) e acentua que "o fato do recorrente não ter suscitado a ofensa da norma contida no artigo 18 do CPC em petição de recurso de apelação, mas em petição autônoma (mov. 19) e antes do julgamento do recurso de apelação, não decorre a preclusão, pois o Tribunal pode conhecer de ofício por se tratar de uma das condições da ação" (e-STJ, fl. 1.843).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+O recurso atrai a aplicação da Súmula 284/STF. Isso porque a argumentação desenvolvida no apelo extremo no sentido de que o sócio não tem legitimidade ad causam para pleitear em nome próprio indenização em favor da sociedade empresarial, mostra-se isolada da conclusão do Tribunal de origem, que reconheceu a legitimidade do autor para a ação de prestação de contas.
+Com efeito, entendeu a Corte local que "as partes são sócias no empreendimento denominado "SWISS SABOR ALIMENTOS COMÉRCIO E DISTRIBUIÇÃO DE CARNES NOBRES E DERIVADOS LTDA. ME", e, tendo o requerido  ..  estado à frente da administração da referida sociedade, tem interesse e direito o sócio autor de exigir a prestação de contas como feito por meio da ação originária, a fim de, constatada alguma irregularidade em desfavor da sociedade, seja ela reparada" (e-STJ, fl. 1.825).
+Assim, as razões do recurso especial se mostram dissociadas daquilo que poderia ser motivo de irresignação e, assim, caracteriza deficiência da fundamentação e inviabilidade do recurso especial no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS E EXIBIÇÃO DE DOCUMENTOS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de prestação de contas.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo conhecido. Recurso especial não conhecido.
