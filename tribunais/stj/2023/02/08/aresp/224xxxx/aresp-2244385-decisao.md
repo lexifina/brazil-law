@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EVENTIM BRASIL SAO PAULO SISTEMAS E SERVICOS DE INGRESSOS LTDA. contra decisão que inadmitiu o recurso especial ante a incidência da Súmula n. 7 do STJ.
+A parte agravante alega que, "ao longo da peça processual das razões do recurso especial outrora interposto, apresentara-se, detidamente, todas as infringências incorridas no julgamento do agravo de instrumento" (fl. 368).
+Aduz que "Não se trata de examinar a base fática ou provas, para essa conclusão. Não se trata de reexame da matéria e sim constatação de ofensa que necessita de correção" (fl. 369).
+Reitera as mesmíssimas razões expendidas no recurso especial.
+É o relatório. Decido.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta à parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo jurisprudência do Superior Tribunal de Justiça, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Assim, tendo em vista que a parte agravante, nas razões do agravo em recurso especial, limitando-se a reiterar os argumentos suscitados nas razões do recurso especial, deixou de impugnar o fundamento da decisão agravada, é de rigor a aplicação da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC/2015, majoro, em favor da parte recorrida, os honorários advocatícios de 18%, percentual arbitrado pelo Tribunal de origem, para 19% sobre o valor da condenação, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
