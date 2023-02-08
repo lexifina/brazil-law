@@ -1,0 +1,46 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CASA BAHIA COMERCIAL LTDA. contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que, em juízo de admissibilidade, negou seguimento ao recurso especial interposto contra o seguinte acórdão (fls. 196/197):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. CONTRATODE COMPRA E VENDA DE ARMÁRIO. Autora narra ter adquirido produto que foi entregue com avaria e, após diversas tentativas de resolução da questão na esfera administrativa, recorre ao Judiciário requerendo indenização por danos materiais e morais. Sentença de improcedência da qual se insurge. Falha na prestação do serviço caracterizada, eis que a Ré efetuou a troca do móvel duas vezes, porém o problema persistiu. Autora protocolou queixa no Procon, mas o acordo firmado entre as partes foi descumprido. Perícia técnica relatou avaria condizente com a relatada pela Demandante. Falha na prestação do serviço caracterizada. Vício que não foi sanado no prazo estabelecido pelo Código Consumerista em seu artigo 18, parágrafo primeiro. Reforma da sentença para condenar a Demandada à restituição do valor do produto, bem como ao pagamento de indenização por danos morais com R$2.000,00. Inversão dos ônus sucumbenciais. PROVIMENTO DO RECURSO.
+Opostos embargos de declaração, esses restaram rejeitados nos seguintes termos (fls. 230/231):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. CONTRATO DE COMPRA E VENDA DE ARMÁRIO. Autora narra ter adquirido produto que foi entregue com avarias e, após diversas tentativas de resolução da questão na esfera administrativa, recorre ao Judiciário requerendo indenização por danos materiais e morais. Sentença que julgou improcedentes os pedidos e foi reformada por este Colegiado para para "julgar procedente a pretensão autoral, condenando a Empresa Ré na obrigação de restituir o valor pago pelo produto, R$399,00, corrigido monetariamente desde a data do desembolso e com juros da citação, e a pagar indenização por danos morais de R$2.000,00 com correção desta data e juros da citação por tratar-se de relação contratual." Recurso da Ré aduzindo omissões no decisum. Legitimidade passiva da Ré afirmada no Acórdão, ante ao fato de integrar a cadeia de fornecimento do produto. A análise das provas deve ser feita com base na convicção do Juízo, devendo ele fundamentar a sua decisão, não havendo omissão no aresto quanto a tal ponto. Insurge-se o Embargante ainda questionando a existência de danos morais, mas a questão foi claramente analisada nos autos. A inexistência das alegadas omissões, ou seja, de defeito no decisum, impede o prequestionamento. Mero inconformismo que deve ser manifestado na via processual correta. DESPROVIMENTO DO RECURSO.
+Em suas razões de recurso especial, o recorrente alegou violação aos arts. 12, caput, 13, 21, 32, todos da Lei n.º 8078/1990, bem como aos arts. 186, 927, 944, todos do Código Civil, ao argumento de que não estão presentes no caso concreto os requisitos para a configuração da sua responsabilidade civil e do dever de indenizar, configurando a condenação enriquecimento sem causa. Requereu, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+O Tribunal de Justiça do Estado do Rio de Janeiro negou seguimento ao recurso especial conforme a decisão de fls. 273/278. Irresignada, a recorrente interpôs agravo em recurso especial às fls. 289/298.
+É o relatório.
+Decido.
+1. Prefacialmente, analiso o recurso de agravo em recurso especial:
+Cumpridos os requisitos de admissibilidade, merece provimento o agravo para melhor exame da controvérsia posta no recurso especial.
+2. Passo ao exame do recurso especial:
+No caso concreto, o Tribunal de origem, ao julgar o recurso de apelação, destacou o seguinte (fls. 203/207):
+(..)
+Nesse contexto, conclui-se que a Autora faz jus à indenização pelo dano material, com a restituição do valor pago pelo produto, na ordem de R$ 399,00.
+No tocante aos danos morais, a lesão à dignidade da Autora está caracterizada, já que frustrada a sua legítima expectativa em ter o serviço adequadamente prestado, ressalta-se, por duas vezes, bem como o acordo celebrado junto ao Procon efetivamente cumprido, tendo o comportamento da Ré, inclusive, revelado elevado descaso com os órgãos extrajudiciais decomposição de conflitos.
+(..)
+Logo, merece reforma a sentença para julgar procedente a pretensão autoral, condenando a Empresa Ré na obrigação de restituir o valor pago pelo produto, R$399,00, corrigido monetariamente desde a data do desembolso e com juros da citação, e a pagar indenização por danos morais de R$ 2.000,00 com correção desta data e juros da citação por tratar-se de relação contratual.
+Dessa forma, alterar o posicionamento do Tribunal de Justiça demandaria o reexame de provas, inviável em recurso especial, por força do óbice previsto no Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. ALEGAÇÃO DE JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 7 DO STJ. 2. RESPONSABILIDADE DA TRANSPORTADORA PELO EVENTO DANOSO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. ALEGAÇÃO. AFASTAMENTO. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. DANO MORAL. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. POSSIBILIDADE. SÚMULA 387/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que há julgamento extra petita não só quando se concede prestação jurisdicional diferente da postulada, mas também quando o deferimento do pedido apresentado se dá com base em fundamento não invocado como causa de pedir.
+2. Ademais, com base na análise de premissas fáticas acostadas aos autos, o Tribunal de origem, concluiu que o pedido de danos estéticos foi aduzido na inicial, de forma que, rever o entendimento das instâncias ordinárias, demandaria verdadeiro reexame de fatos e provas, o que encontra óbice na Súmula n. 7/STJ.
+3. A desconstituição da convicção estadual, para concluir que não estariam presentes os elementos configuradores do dever de indenizar, demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência da Súmula n. 7/STJ.
+4. Aplica-se a Súmula n. 7/STJ também à pretensão de reexame do valor indenizatório fixado pela origem, sendo tal providência admitida apenas quando o montante for estabelecido em patamar excessivo ou irrisório, situação que não se verifica no caso concreto, no qual foi fixado em R$ 75.000,00 (setenta e cinco mil reais), em decorrência do amputamento de membro inferior, tanto para reparação a título de danos morais como estéticos.
+4.1. Ressalte-se que, a jurisprudência do Superior Tribunal de Justiça é enfática em permitir a cumulação das indenizações de dano moral com o estético, entendimento este consolidado, inclusive, na Súmula 387/STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.048.641/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE INTIMAÇÃO. PREQUESTIONAMENTO. AUSENTE. INCIDÊNCIA DO ENUNCIADO N.º 282/STF. CULPA CONCORRENTE E VALOR INDENIZATÓRIO. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, a ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (Enunciado n.º 282/STF).
+2. O reexame do montante indenizatório fixado pela origem é admitido apenas quando o valor for estabelecido em patamar excessivo ou irrisório, circunstâncias inexistentes na hipótese dos autos.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt no REsp n. 2.014.533/MT, de minha Relatoria, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+Ante o exposto, conheço do agravo para conhecer e negar provimento ao recurso especial.
+Por fim, majoro os honorários advocatícios sucumbenciais para 18% (dezoito por cento) do valor atualizado da condenação .
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. DEVER DE INDENIZAR. VALOR INDENIZATÓRIO.
+1. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. PRESENTES.
+1.1. Cumpridos os requisitos de admissibilidade do recurso especial, dá-se provimento ao agravo para melhor exame da controvérsia.
+2. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DEVER DE INDENIZAR. VALOR INDENIZATÓRIO. REVISÃO DO JULGADO. IMPOSSIBILIADE INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+2.1. Alterar o posicionamento do Tribunal de Justiça demandaria o reexame de provas, inviável em recurso especial, por força do óbice previsto no Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+2.2. 2. O reexame do montante indenizatório fixado pela origem é admitido apenas quando o valor for estabelecido em patamar excessivo ou irrisório, circunstâncias inexistentes na hipótese dos autos.
+2.3. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+3. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
