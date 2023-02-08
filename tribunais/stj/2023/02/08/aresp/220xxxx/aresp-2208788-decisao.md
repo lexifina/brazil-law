@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. contra decisão que inadmitiu recurso especial com fundamento na ausência de violação do art. 1.022 do CPC, bem como na incidência das Súmulas n. 7 do STJ e 284 do STF em relação à suposta violação do art. 537, § 1º, do CPC.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Piauí em agravo de instrumento (Processo n. 0000960-90.2014.8.18.0000) nos autos de ação ordinária com antecipação de tutela.
+O julgado foi assim ementado (fl. 1.637):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO. AÇÃO ORDINÁRIA COM ANTECIPAÇÃO DE TUTELA. DESCUMPRIMENTO DA ORDEM JUDICIAL. MULTA DIÁRIA. ASTREINTES. 1. Narrou a Agravada que efetivou a abertura de duas contas-correntes junto à agência nº 0854 do Banco agravante, tendo a agravada figurado como avalista em ambos os contratos, e que a conta nº 0015481-4, foi aberta com o objetivo de ser feita a movimentação financeira da empresa, tais como: pagamentos de contas e emissão de cheques, e a conta nº 0015533, para ser depositados os pagamentos oriundos das compras realizadas com cartão de crédito pelos clientes, pagamentos estes que seriam utilizados como capital de giro da empresa agravada, para pagar fornecedores, adquirir mercadorias, bem como pagar demais credores. 2. Contudo, o Banco agravante, atravessou petição, requerendo a dilação de prazo para mais 07 (sete) dias visando localizar a referida conta, bem como prover com a imediata liberação dos valores, como forma de atender à determinação judicial, o que não ocorreu, sendo aplicada multa de 1% (um por cento) ao requerido/Agravante, pela má fé apontada. 3. A multa por descumprimento de provimento jurisdicional é possível com base no poder geral de cautela do juiz, e tem como objetivo impor, uma penalidade ao infrator e uma compensação em benefício de quem foi estipulada, sem, contudo, fomentar o enriquecimento sem causa da parte beneficiada. 4. Recurso conhecido e provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta ofensa ao art. 1.022, II, do CPC na medida em que o Tribunal de origem foi omisso a respeito de ponto essencial para o deslinde da controvérsia, a saber, a impossibilidade material de cumprimento da obrigação de fazer.
+Afirma também que foi violado o art. 537, § 1º, do CPC, porquanto exorbitante a multa arbitrada. Alega falta de razoabilidade do valor fixado para as astreintes e do limite global firmado.
+Requer o provimento do recurso para reforma ou anulação do acórdão recorrido.
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Art. 537, § 1º, do CPC
+O Superior Tribunal de Justiça já sedimentou entendimento no sentido de que a questão relativa à redução das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia, salvo se o arbitramento for excessivo ou ínfimo, o que não ocorreu na espécie.
+No caso, o Tribunal de origem, com base na análise do acervo fático-probatório e nas especificidades do caso, afastou o pedido de minoração da multa e alterou o limite por concluir pela sua razoabilidade, nestes termos (fls. 1. 641):
+Assim sendo, cominação de multa por descumprimento de provimento jurisdicional é possível com base no poder geral de cautela do juiz, e tem como objetivo impor, desde logo, uma penalidade ao infrator e uma compensação em benefício de quem foi estipulada, sem, contudo, fomentar o enriquecimento sem causa da parte beneficiada.
+Em suas razões recursais, a parte agravante alega ser necessária a limitação do valor da multa. Defende que a multa não pode ser mais interessante que o próprio objeto da demanda, sob pena de enriquecimento ilícito. Colaciona doutrina e jurisprudência. Pugna pelo provimento do recurso.
+Busca-se, nessa perspectiva, um ponto de equilíbrio, a fim de se evitar o excesso ou a modicidade, atendidos os princípios da razoabilidade e da proporcionalidade.
+Impõe-se, portanto, a manutenção do valor da muita cominatória arbitrada pelo Juízo de origem em R$ 500,00 (quinhentos reais) por dia de descumprimento, até o limite de R$ 50.000,00 (cinquenta mil reais), contados a partir de quando ficar caracterizado o inadimplemento da ordem judicial.
+Assim, aplica-se ao caso a Súmula n. 7 do STJ.
+Nesse sentido: AgInt no AREsp n. 1.784.618/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022; REsp n. 1.929.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022.
+III - Conclusão
+Ante o exposto, nego pr ovimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
