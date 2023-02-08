@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agr avo interposto por UEVERTON DE SOUZA SODRE contra decisão que inadmitiu o seu recurso especial manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO no julgamento do Recurso em Sentido Estrito n. 1001032-45.2020.8.11.0000.
+Consta dos autos que o Juízo singular pronunciou o agravante para ser julgado perante o Tribunal de Júri como incurso nas sanções do art. 121, § 2º, inciso IV, c/c o art. I e II, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso em sentido estrito, tendo o Tribunal de origem, por unanimidade de votos, negado provimento ao recurso, em acórdão assim ementado (e-STJ fl. 427):
+RECURSO EM SENTIDO ESTRITO - PRONÚNCIA - HOMICÍDIO QUALIFICADO - PRELIMINAR DE NULIDADE - PLEITEADA NULIDADE PROCESSUAL SOB A ALEGAÇÃO DE TER O MAGISTRADO A QUO ANALISADO PROFUNDAMENTE O CONJUNTO PROBATÓRIO - DESCABIMENTO DA PRETENDIDA ANULAÇÃO - EXCESSO DE LINGUAGEM NÃO CONSTATADA - MÉRITO - ALEGADA NECESSIDADE DE IMPRONÚNCIA - ELEMENTOS INSUFICIENTES PARA O PRONUNCIAMENTO DO ACUSADO - ALTERNATIVAMENTE EXCLUSÃO DA QUALIFICADORA DO RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA - INDÍCIOS SUFICIENTES DE AUTORIA EMATERIALIDADE - RECURSO DESPROVIDO.
+Descaracteriza-se excesso de linguagem na pronúncia quando a decisão judicial se limita a cumprir a exigência do artigo 413, do Código de Processo Penal, segundo a qual "O juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação."
+Apresentando-se prova da materialidade do delito e indícios suficientes de autoria de crime competente ao Tribunal do Júri, não se pode eximir da égide deste Tribunal a submissão dos pronunciados, não rutilando a existência do in dubio pro reo.
+A qualificadora do recurso que impossibilitou a defesa da vítima presente no delito descrito no artigo 121, do Código Penal, somente será descartada da pronúncia, quando não possuir qualquer intimidade com os elementos que equipam a instrução.
+A defesa interpôs recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, sustentando violação ao art. 413, § 1º, do Código de Processo Penal.
+Asseverou que "a pronúncia afirmou categoricamente que o Recorrente, sem sombra de dúvidas, é o autor do homicídio praticado pela vítima, tal como narrado na denúncia , denotando, disto, o significado conclusivo pela responsabilidade penal do acusado, o que desborda da simples tarefa de se captar, do material probatório, o conteúdo indiciário suficiente para autorizar a continuidade do julgamento pelo Tribunal do Júri" (e-STJ fl. 459).
+Requereu, assim, o reconhecimento da nulidade do acórdão recorrido, em razão da inobservâncias das normas de regência.
+Contrarrazões (e-STJ fls. 469/475).
+Inadmitido o recurso especial pelo Tribunal de origem (e-STJ fls. 476/482), os autos subiram a esta Corte por meio deste agravo (e-STJ fls. 485/487).
+Contraminuta apresentada (e-STJ fls. 501/505).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+No que tange à tese de excesso de linguagem na decisão de pronúncia, o Tribunal de origem afastou a alegada nulidade, ponderando (e-STJ fls. 434/435):
+Logo, entendo que o douto Magistrado não emitiu nenhum juízo que pudesse ser qualificado como pré-julgamento. Apenas posicionou-se em relação às provas apresentadas, analisando-as superficialmente, sem formular um juízo de certeza capaz de influir na decisão do corpo de jurados, cumprindo assim o comando constitucional que determina sejam as decisões judiciais fundamentadas.
+Deste modo, não incorreu em excesso de linguagem ou qualquer juízo de valor que pudesse prejudicar o julgamento pelos juízes leigos, razão pela qual não se configura a alegada eloquência acusatória.
+No caso dos autos, ao proferir a decisão de pronúncia, o Magistrado sentenciante assim se manifestou na parte aqui atacada (e-STJ fls. 324):
+ ..
+Assim, diante do depoimento das testemunhas em juízo, bem como pelas provas colhidas não há dúvidas de ser o réu autor do crime de homicídio qualificado na forma consumado e tentado, praticado contra as vítimas Valdinei dos Santos e Edi Márcio Lourenço, indícios estes suficientes para nesse momento processual servirem de embasamento para a pronúncia da acusada.
+ ..
+Com efeito, os contornos da fundamentação da sentença de pronúncia são dados pelo art. 413 do Código de Processo Penal, nos seguintes termos:
+Art. 413. O juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação. (Redação dada pela Lei nº 11.689, de 2008)
+§ 1o A fundamentação da pronúncia limitar-se-á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena. (Incluído pela Lei nº 11.689, de 2008)
+§ 2o Se o crime for afiançável, o juiz arbitrará o valor da fiança para a concessão ou manutenção da liberdade provisória. (Incluído pela Lei nº 11.689, de 2008)
+§ 3o O juiz decidirá, motivadamente, no caso de manutenção, revogação ou substituição da prisão ou medida restritiva de liberdade anteriormente decretada e, tratando-se de acusado solto, sobre a necessidade da decretação da prisão ou imposição de quaisquer das medidas previstas no Título IX do Livro I deste Código. (Incluído pela Lei nº 11.689, de 2008)
+Tal decisão, que revela a admissibilidade da acusação no Tribunal do Júri, não pode converter-se em manifestação de mérito apta a influenciar os juízes de fato no futuro plenário.
+Dessa forma, a pronúncia deve reduzir-se ao reconhecimento da existência do crime e de indícios de autoria. A decisão não deve invadir a esfera de mérito para afirmar certezas ou contundências. O excesso de linguagem nessa fase constitui antecipação de julgamento com reflexos destrutivos no devido processo legal substancial quanto à imparcialidade, à ampla defesa e à presunção de inocência.
+No caso, mostra-se patente a eloquência acusatória, pois o Juízo sumariante exerceu juízo de certeza, ao afirmar não existir dúvida sobre a autoria do delito, excedendo a fundamentação necessária, em juízo de possibilidade, para submeter o mérito da imputação ao Conselho de Sentença.
+Esta Corte Superior de Justiça, alinhando-se ao entendimento emanado do Supremo Tribunal Federal, assentou a orientação de que, nos casos em que se verifica a efetiva ocorrência de excesso de linguagem, tal como no caso dos autos, deve ser anulado o decisum impugnado para que outro seja proferido.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. RECURSO EM SENTIDO ESTRITO. EXCESSO DE LINGUAGEM. OCORRÊNCIA. NULIDADE RECONHECIDA.
+1. Na primeira fase dos procedimentos afetos à competência do tribunal do júri, deve-se proceder a apenas um juízo de admissibilidade da acusação, ou seja, avalia-se se há prova da materialidade do delito e indícios suficientes de autoria, para fins de pronúncia do acusado.
+2. Na fase instrutória do julgamento dos delitos de competência do tribunal do júri, a afirmação da certeza quanto à autoria delitiva configura inadmissível excesso de linguagem e enseja o reconhecimento da nulidade do decisum.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 690.278/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. SÚMULA N. 7/STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO. EXCESSO DE LINGUAGEM. CONCLUSÃO PEREMPTÓRIA ACERCA DA INTENÇÃO DO AGENTE. MATÉRIA FÁTICA CONTROVERTIDA. REFUTAÇÃO DIRETA DA TESE DA DEFESA. INVASÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. O apelo nobre não foi admitido em razão da incidência da Súmula n. 7/STJ.
+2. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o citado fundamento, sendo aplicável a Súmula n. 182/STJ.
+3. No tocante à Súmula n. 7/STJ, foi sustentado genericamente que a matéria seria apenas jurídica, sem se explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas, o que não cumpre o requisito da dialeticidade recursal.
+4. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade.
+5. Verificada a existência de ilegalidade manifesta, apta a ser corrigida por meio da concessão de habeas corpus, de ofício.
+6. Na fase de pronúncia, é vedado ao Juízo processante ou ao Tribunal togado apresentar conclusões peremptórias acerca da dinâmica dos fatos, sob pena de usurpação da competência do Tribunal do Júri.
+7. A decisão pertinente a essa fase processual deve conter linguagem sóbria e comedida, a fim de não influir de maneira direta no convencimento dos jurados, mas apenas certificar a existência do crime e dos indícios de autoria.
+8. In casu, o Tribunal de origem assentou verdadeira conclusão fática final acerca da intencionalidade do Acusado em suas condutas, emitindo juízo de mérito em matéria cuja cognição está reservada à análise soberana do Tribunal do Júri, o que caracteriza nulidade insanável por excesso de linguagem na decisão de pronúncia.
+9. Agravo regimental desprovido. Concedido habeas corpus, de ofício, a fim de anular o acórdão e determinar que outro seja proferido, com linguagem sóbria e comedida, nos termos do art. 413, § 1.º, do Código de Processo Penal.
+(AgRg no AREsp n. 2.075.885/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Dessa forma, estando o v. acórdão prolatado pelo Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide no caso o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para anular a sentença de pronúncia ora atacada e determinar que o Juízo processante proceda à necessária fundamentação, em nova decisão.
+Publique-se. Intimem-se.
