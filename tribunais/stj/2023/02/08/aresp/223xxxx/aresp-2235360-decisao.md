@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ FRANCISCO MACEDO AZZOLIN contra decisão que inadmitiu recurso especial por não se verificar a alegada ofensa aos arts. 1.022 e 489 do CPC e por se aplicar ao caso a Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido em apelação em ação revisional e assim ementado (fl. 301):
+APELAÇÃO. PLANO DE SAÚDE COLETIVO. AÇÃO REVISIONAL.
+- PRESCRIÇÃO PARA A RESTITUIÇÃO. Relativamente ao pedido de restituição de valores eventualmente pagos a maior o prazo prescricional é trienal. Pretensão de ressarcimento. Inteligência do art. 206, § 3, inc. IV do CC/2002. Tese firmada no julgamento do REsp 1360969/RS, Tema 610, aprovada pelo STJ, na forma dos Recursos Repetitivos.
+- REAJUSTES ANUAIS. Ausência de abusividade. Os contratos de plano de saúde coletivos não estão limitados aos índices de reajuste autorizados pela ANS para os planos de saúde individuais e familiares. Livre pactuação entre as partes contratantes.
+- REAJUSTE POR FAIXA ETÁRIA. Observância das regras previstas na RN nº 63/2003 da ANS, que adota o critério objetivo de dez faixas etárias, do zero aos 59 anos e dos limites contidos no art. 15º da Lei 9.656/98 Precedente do colendo STJ neste sentido. Autor que tinha pleno conhecimento dos reajustes que seriam praticados em seu plano de saúde, nos termos da cláusula 76 do contrato. lnocorrência de violação ao Código de Defesa do Consumidor e à Lei 9.656/98.
+Deram provimento ao apelo da ré. Unânime.
+Foram opostos dois recursos de embargos de declaração: o primeiro foi parcialmente acolhido (fls. 339-348), o segundo foi rejeitado (fls. 367-375).
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 1.022, II, 489, § 1º, IV, e 371 do CPC po r ter o Tribunal a quo incorrido em omissão ao não se manifestar sobre perícia realizada por "profissional de confiança do juízo", que, através do laudo técnico, demonstrou que os valores dos reajustes das mensalidades em função da faixa etária previstos em contrato não estavam sendo observados pela proponente do contrato de adesão (fls. 382-383).
+Alega também violação dos arts. 141 e 492 do CPC, afirmando que o julgamento foi extra petita, tendo em vista que pugna pela "aplicação do contrato, que está alinhado com os reajustes divulgados pela ANS", e não pela "revisão ou afastamento de disposições contratuais" (fl. 392).
+Requer o provimento do recurso para que seja anulado o acordão recorrido a fim de que, após nova análise, o Tribunal se manifeste sobre a tese levantada. Requer também que as intimações ocorram exclusivamente em nome do advogado Mário de Freitas Macedo Filho (OAB/RS n. 14.630).
+Passo à análise das proposições deduzidas.
+O recurso não merece prosperar.
+I - Da violação dos arts. 1.022, II, 489, § 1º, IV, e 371 do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV, 1.022, II, e 371 do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito, confiram-se trechos do julgado (fls. 305-319, destaquei):
+Diante deste quadro devem ser mantidos os reajustes anuais na forma aplicada no curso da contratualidade, pois inexiste qualquer vinculação destes com os índices divulgados pela ANS, não possuindo amparo a tese veiculada na inicial.
+ ..
+Ademais, não vislumbro a aplicação de percentuais desarrazoados ou manifestamente abusivos, motivo pelo qual não prospera a pretensão da autora quanto ao ponto.
+Do reajuste por mudança de faixa etária.
+ ..
+Aplicam-se ao plano contratado as previsões da Resolução Normativa nº 63/2003 da ANS  ..
+Portanto, de acordo com a resolução referida, o valor fixado para a última faixa etária não pode ser superior a seis vezes o previsto para a primeira e a variação acumulada entre a sétima e décima faixas não pode ser superior à variação cumulada entre a primeira e sétima faixas.
+O contrato celebrado entre as partes - Unipart, prevê a incidência de reajuste nas seguintes faixas etárias, estabelecidas em consonância com a Resolução Normativa nº 63/2003 da ANS (conforme fls. 22verso e 23), da seguinte forma:
+ ..
+In casu, nenhum excesso se verifica nos reajustes efetivamente contratados e aplicados pela operadora de saúde, como se passa a demonstrar.
+A tal conclusão se chega observando fielmente os critérios traçados na Resolução Normativa nº 63, de 22/12/2003, da ANS, que autoriza reajustes por faixa etária, estabelecendo, primeiro, a existência de dez faixas etárias, e a seguir definindo as condições a serem observadas nos reajustes: 1) "o valor fixado para a última faixa etária não poderá ser superior a seis vezes o valor da primeira faixa etária" e ii) "a variação acumulada entre a sétima e décima faixas não poderá ser superior à variação acumulada entre a primeira e a sétima faixas." (art. 2º, caput, e art. 3 2 ,1e II).
+Na realização do cálculo, cabe frisar, quanto à primeira condição acima transcrita sob nº "i", que deve ser considerado o valor da mensalidade fixado para a primeira faixa, pois antes disso não há percentual aplicado. Assim, o valor da mensalidade da última faixa não pode ser superior a seis vezes o valor da mensalidade da primeira.
+No tocante à segunda condição ("ii"), precisa ser observado que a norma fala em variação acumulada e não somatória de percentuais. Deste modo, não cabe fazer mera soma dos percentuais previstos em contrato, mas sim verificar em quanto variou a mensalidade (variação acumulada) da primeira à sétima faixas e da sétima à décima, para depois se verificar se a variação deste último período supera ou não a variação do primeiro.
+Realizada a multiplicação fatorial dos percentuais, obtêm-se os seguintes resultados, arredondados até a terceira casa decimal:
+ ..
+Com efeito, nos termos do inciso I do art. 3º da resolução mencionada, o valor fixado para a última faixa não poderá exceder a seis vezes o valor da primeira.
+Conclui-se, portanto, que o valor da última faixa etária representa 5,9986 vezes o valor da primeira faixa etária, estando, portanto, dentro dos limites da referida resolução.
+No que diz respeito ao inciso li da mesma norma, a variação acumulada entre as faixas 7 a 10 não pode ser superior àquela entre as faixas 1 a 7. No caso em tela, a variação entre as faixas 1 a 7 equivale a 2,4997 (1,0500 X 1,0953 X 1,1302 X 1,1538 X 1,2667 X 1,3159). Já a variação acumulada relativa às faixas subsequentes equivale a 2,3996 (1,3200 X 1,3180 X 1,3793), estando, portanto, de acordo com os parâmetros da norma redigida pela ANS.
+Denota-se, portanto, que os reajuste aplicado obedeceu aos termos das planilhas acima, majorando o valor da mensalidade da autora em 26,73% e 31,81% ou seja, dentro dos aumentos previstos na tabela supra. Não houve, portanto, violação ao Código de Defesa do Consumidor e nem à Lei 9.656/98.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da violação dos arts. 141 e 492 do CPC
+Alega o recorrente que o julgamento foi extra petita, tendo em vista que pugna pela "aplicação do contrato, que está alinhado com os reajustes divulgados pela ANS", e não pela "revisão ou afastamento de disposições contratuais".
+O Tribunal de origem, em acórdão prolatado nos embargos de declaração (fls. 339-348), reconheceu o equívoco da decisão e determinou a retirada do trecho que tratava da parte extra petita. Observe-se (fl. 348):
+No que concerne ao erro material, onde a parte embargante arguiu que a decisão é extra petita, acolho a irresignação para extirpar do acórdão o seguinte parágrafo:
+O formulado pela parte autora equivale à declaração de nulidade do escalonamento de mensalidades de acordo com a faixa etária do beneficiário. Tal pretensão mostra-se descabida, pois o escalonamento das mensalidades por faixa etária está alicerçado no incremento do risco contratado. Por óbvio, quanto mais avançada a idade do beneficiário, maior será o risco assumido pela operadora do plano de saúde, tendo em vista ser notória a possibilidade de o idoso demandar maiores cuidados de assistência médica que pessoas em faixas etárias inferiores.
+Diante do exposto, acolho parcialmente os embargos de declaração, para sanar o erro material, nos termos da decisão supra.
+Assim, está prejudicada a análise da matéria por este Tribunal, pois a situação foi corrigida na instância ordinária, não havendo sucumbência da parte neste ponto.
+Por oportuno, ainda que assim não fosse, o Tribunal de origem, com base nos elementos fáticos apresentados nos autos, não ficou adstrito ao laudo pericial, de modo que a situação concreta demonstrou a existência de outras provas que justificaram o afastamento dos reajustes divulgados pela ANS no caso.
+Portanto, é inviável infirmar as conclusões acima, na medida em que essa revisão demandaria necessariamente o revolvimento fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Da mesma forma, ressalte-se que o entendimento firmado pelo Tribunal a quo está em consonância com a jurisprudência do STJ de que, "retomando a necessidade de instrução processual em demandas a envolver a cobertura de tratamento por plano de saúde, é certo que o juiz não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados nos autos". Nesse sentido: AgInt nos EDcl no AREsp n. 1.885.211/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 17/12/2021; e AgInt no AREsp n. 1.995.177/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem- se .
