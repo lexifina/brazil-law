@@ -1,0 +1,14 @@
+DECISÃO
+AILAN KATIANY DA SILVA SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pela Corte local, que julgou prejudicado o HC n. 2234623-09.2022.8.26.0000.
+Informam os autos que a paciente foi condenada a 3 anos de reclusão, em regime inicial semiaberto, como incursa no art. 171 do Código Penal.
+Após o trânsito em julgado da condenação, apesar de o mandado de prisão ter sido cumprido em 11/5/2022, a vara judicial expediu 7 guias de recolhimento, todas rejeitadas por diferentes erros burocráticos, o que impediu a unificação das penas, bem como a formulação de pelitos executórios, notadamente a progressão de regime, à qual faz jus em razão do decurso de mais de cinco meses de cumprimento de pena.
+A defesa r equer seja determinada a imediata expedição da guia de recolhimento definitiva da paciente.
+Decido.
+A Corte local julgou o writ originário prejudicado, sob o argumento de que "as informações prestadas  noticiavam  que a guia de recolhimento definitiva  havia sido  reenviada ao DEECRIM 1º RAJ com a devida correção".
+Apesar de a defesa ter esclarecido que a guia definitiva havia sido mais uma vez rejeitada em 09/11/2022 em embargos de declaração, o Tribunal de origem entendeu que, como o julgamento do habeas corpus havia ocorrido no mesmo dia, "não est avam  presentes quaisquer das hipóteses de cabimento dos presentes embargos de declaração", limitando-se a "recomenda r  ao d. juízo impetrado celeridade na adoção de providências para eventual regularização, pela serventia, da guia de recolhimento".
+A teor dos arts. 674 do CPP e 105 da LEP, transitada em julgado a sentença, é necessária a prisão do réu para a expedição da guia de execução.
+Essa é a regra geral, que comporta temperamentos - no caso de o condenado não ter sido recolhido - quando detectada a probabilidade de, desde logo, ter direito à benefícios (detração penal, progressão de regime, prisão domiciliar, comutação etc.) que diminuam a intensidade da pena, pois, nessa situação, não se pode exigir o sacrifício da liberdade como mera condição para o exercício da jurisdição. Nesse sentido: AgRg no RHC n. 157.065/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/3/2022, DJe de 16/3/2022.
+Mas no caso dos autos, o constrangimento ilegal é flagrante, visto que a sentença não aplicou a detração, a paciente está recolhida e a vara judicial, por 7 vezes, expediu a guia de execução, todas rejeitadas por culpa exclusiva do Poder Judiciário.
+Portanto, a coação ilegal revela-se concretamente na impossibilidade de unificação das penas e da formulação de pleitos perante a Vara de Execuções Penais.
+À vista do exposto, concedo a ordem in limine para determinar ao Juízo da 1ª Vara Judicial da Comarca de Peruíbe a imediata expedição da guia de recolhimento definitiva da paciente.
+Publique-se. Intimem-se.
