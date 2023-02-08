@@ -1,0 +1,18 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por DEBORAH CRISTINA ALMADA DE OLIVEIRA E OUTROS em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Insurgência contra decisão que deferiu o pedido de levantamento da constrição por impenhorabilidade do bem de família. Não acolhimento. Agravada que reside no imóvel sobre o qual recaiu o ato constritivo. Bem protegido pelo manto da impenhorabilidade. Irrelevância da existência de outros imóveis de propriedade dos executados, se de maior valor. Precedente do E. STJ. Decisão mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, os recorrentes apontam ofensa ao art. 1.022, I e II, do CPC, alegando que houve negativa de prestação jurisdicional, sobretudo quanto à "alegação de que o imóvel penhorado não pertencia aos requeridos, Paulo Rodrigues Ribeiro Conceição e Elza Rodrigues Ribeiro Conceição, o que poderia alterar a conclusão adotada, pois a propriedade do imóvel está diretamente ligada a condição de bem de família do imóvel penhorado".
+Sem contrarrazões.
+É o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não merere prosperar.
+Inicialmente, deixo de conhecer da apontada violação ao art. 1.022, I, do CPC, uma vez que tal dispositivo (que cuida da possibilidade de oposição de embargos de declaração para "esclarecer obscuridade ou eliminar contradição") não contém comando normativo apto a amparar a tes e recursal de que teria havido negativa de prestação jurisdicional no acórdão recorrido.
+Quanto à apontada violação ao art. 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (a) "segundo consta dos autos, o ato constritivo em tela recaiu sobre imóvel de propriedade dos executados, Paulo Rodrigues Ribeiro Conceição e Elza Rodrigues Ribeiro Conceição, no qual, ao que se infere do termo de curadoria definitivo (fl.291) e comprovante de endereço (fl.288), reside a executada", (b) o imóvel residencial é protegido pelo manto da impenhorabilidade, a teor do disposto no artigo 1º, da Lei 8.009/90, (c) "verifica-se, de imediato, que a hipótese vertente versa sobreimóvel protegido pela impenhorabilidade legal, na medida em que os elementosconstantes dos autos induzem à inarredável ilação de que referido bem, de fato, presta-se como residência da executada", (d) para ser reconhecida a impenhorabilidade do bem de família não é necessária a prova de que o imóvel em que reside a família do devedor é único e (e) "para considerar que o imóvel objeto de constrição judicial reveste-se da condição de bem de família, pouco importando, para tanto, em nome de quem esteja esse registrado".
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O não acolhimento das teses ventiladas pelos recorrentes não significa omissão ou deficiência de fundamentação da decisão.
+Por fim, registre-se que se, de fato, os recorrentes não concordam com o entendimento firmado pelo acórdão recorrido, deveriam ter apontado violação a algum dispositivo legal pertinente à questão jurídica de fundo, o que não foi feito.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
