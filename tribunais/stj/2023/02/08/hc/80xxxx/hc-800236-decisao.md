@@ -1,0 +1,13 @@
+DECISÃO
+RUAN FERNANDO RIBEIRO GOMES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500834-14.2019.8.26.0599.
+A defesa aduz, em síntese, que a situação do paciente é idêntica à corréu beneficiado pela concessão da ordem no HC n. 684.076/SP e pleiteia (fl. 4):
+MORMENTE A EXTENSÃO DE ORDEM EM HABEAS CORPUS, com fulcro no artigo 500 do Código de Processo Penal, e a) seja acolhida esse pleito, para corrigir os equívocos dosimétricos para que (b.1) seja mantida a pena-base no patamar mínimo legal, (b.2) seja reconhecida a atenuante da confissão espontânea, e (b.3) seja reconhecida a figura do tráfico "privilegiada". Ainda de modo subsidiário, (c) em razão do reconhecimento da figura "privilegiada", (c.1) seja determinada a remessa dos autos ao juízo de primeira instância para oferecimento da proposta de acordo de não persecução penal, assim como (c.2) seja determinada a substituição da pena privativa de liberdade por restritiva de direitos. Finalmente, (d) pretende-se (d.1) o redimensionamento do regime inicial e (d.2) a aplicação do disposto no art. 387, § 2º, do Código de Processo Penal.
+Decido.
+Verifico que a inicial do writ não veio acompanhada de cópia da sentença, do acórdão e da denúncia, o que prejudica sobremaneira a plena compreensão do caso e inviabiliza, assim, o exame do aduzido constrangimento ilegal de que o réu estaria sendo vítima.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, e não comporta dilação probatória.
+É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+Nessa diretriz, menciono:
+ ..  2. Na espécie, deixou-se de proceder à demonstração, mediante documentação comprobatória suficiente, de que o auto de constatação de dano realizado seria inidôneo, eis que ausente a peça, cabendo ao impetrante a escorreita instrução do habeas corpus, indicando, por meio de prova pré-constituída, o alegado constrangimento ilegal. 3. Habeas corpus não conhecido. (HC n. 166.551/RS, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 17/6/2013)
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as aludidas peças faltantes, o pedido seja reconsiderado e analisado, caso preenchidos os demais requisitos de admissibilidade.
+Publique-se e intimem-se.
