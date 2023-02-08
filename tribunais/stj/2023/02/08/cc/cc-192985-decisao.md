@@ -1,0 +1,30 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência, com pedido liminar, suscitado por CONSTRUIR FACILITIES ARQUITETURA E SERVICOS EIRELI - EM RECUPERAÇÃO JUDICIAL, em face do JUÍZO DE DIREITO DA 1A VARA EMPRESARIAL DO RIO DE JANEIRO - RJ, no qual tramitam os autos da recuperação judicial da suscitante (processo nº 0117608-21.2017.8.19.0001), e do JUÍZO DA 54A VARA DO TRABALHO DO RIO DE JANEIRO - RJ, no qual tramita a execução nº 0100446-64.2018.5.01.0054 movida por HELIO ROBERTO SOARES.
+Afirmou a suscitante que mesmo ciente da concessão da recuperação judicial da empresa, o Juízo do trabalho suscitado determinou o prosseguimento da execução em desfavor da empresa.
+Nesse contexto, sustentou que resta configurado o conflito positivo de competência, na medida em que dois juízos distintos estão decidindo acerca dos pagamentos de créditos sujeitos à recuperação judicial.
+Postulou, assim, a concessão de medida liminar para a) determinar a suspensão dos efeitos da decisão proferida pelo juízo trabalhista, b) considerar o efeito da novação da dívida, e c) liberar os valores eventualmente constritos.
+Requereu, ao final, fosse declarada a "(..) a prevalência absoluta da r. decisão homologatória do Plano de Recuperação Judicial e concessiva da Recuperação Judicial da CONSTRUIR, proferida pelo d. Juízo da 1ª Vara Empresarial da Comarca da Capital do Rio de Janeiro, e, consequentemente, seus efeitos de novação sobre qualquer decisão executória individual de crédito sujeito ao processo coletivo de soerguimento empresarial a implicar na inescapável extinção daquela ação individual, declarando-se, ainda, inválidos quaisquer atos executórios praticados pelo d. Juízo da 54ª Vara do Trabalho do Rio de Janeiro do TRT da 1ª Região" (e-STJ, fl. 25).
+Por meio da decisão de fls. 141/143 (e-STJ), indeferi a liminar, requisitando informações aos juízos suscitados.
+Os juízos suscitados prestaram informações às fls. 147/143 e 143/156 (e-STJ).
+É o relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastantes numerosas da Colenda 2ª Seção.
+Essa Corte Superior possui jurisprudência consolidada no sentido de que não havendo ato constritivo ou a iminência de ato constritivo contra a recuperanda, não há se falar em violação da competência do juízo da recuperação. Seguem, a propósito, julgados em casos análogos apreciado pela e. Segunda Seção desta Corte Superior:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - SOCIEDADE EMPRESÁRIA EM RECUPERAÇÃO JUDICIAL - FINANCIAMENTO IMOBILIÁRIO - PROGRAMA MINHA CASA, MINHA VIDA - AUSÊNCIA DE REPASSES FINANCEIROS - INEXISTÊNCIA DE ATO CONSTRITIVOS EM FACE DE PATRIMÔNIO DA EMPRESA EM RECUPERAÇÃO JUDICIAL - INEXISTÊNCIA DE CONFLITO DE COMPETÊNCIA.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente conflito negativo de competência, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. A orientação pacífica da Segunda Seção caminha no sentido de ser o Juízo onde se processa a recuperação judicial, o competente para examinar o eventual prosseguimento de atos de constrição/expropriação que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2.1. A hipótese dos autos revela circunstância distinta na medida em que há não demonstração de nenhum ato constritivo, exarado pela Justiça Federal, contra o patrimônio e/ou ativos financeiros da recuperanda, limitando-se a discussão ao eventual cumprimento de obrigação em relação à obtenção de recursos destinados ao financiamento habitacional, de modo que a pretensão refoge aos limites cognitivos do conflito de competência e, deverá, na sede apropriada, com os meios e recursos próprios, ser dirimida.
+2.2. Não pode o conflito de competência, consoante pacífica jurisprudência desta Corte Superior, ser utilizado como sucedâneo recursal e nem se presta a resolver questões que devem ser dirimidas nas instâncias ordinárias. Precedentes.
+3. Agravo interno desprovido. (AgInt no CC 172.338/AL, Rel. Min. MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 18/08/2021, DJe de 25/08/2021)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. AUSÊNCIA DE ATOS DE CONSTRIÇÃO DO PATRIMÔNIO DAS EMPRESAS RECUPERANDAS OU DO SÓCIO SUSCITANTE. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A existência do conflito de competência pressupõe controvérsia sobre a extensão da jurisdição em determinado caso, o que não ocorre quando cada juízo está atuando em sua própria esfera de competência.
+2. Na hipótese dos autos, não houve ameaça de constrição que possa comprometer o plano de recuperação judicial, tampouco dois Juízos praticando atos concernentes ao processamento da execução, razão por que não ficou configurada nenhuma das situações previstas no art. 66, do NCPC, inexistindo conflito de competência a ser dirimido.
+3. Agravo interno não provido. (AgInt no CC 167.148/AM (Rel. Min. MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 01/12/2020, DJe de 03/12/2020)
+No caso, conforme noticiado pelo Juízo do Trabalho, não há ordem para a realização de atos constritivos em desfavor da suscitante, pois (..) "como a primeira reclamada se encontra em recuperação judicial, nenhum ato constritivo lhe deverá ser direcionado" (e-STJ, fl. 148).
+Desse modo, a extinção do presente conflito é medida que se impõe.
+Ante o exposto, não conheço do conflito de competência.
+Comuniquem-se as autoridades judiciárias suscitadas acerca da presente decisão.
+Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. NÃO CONFIGURAÇÃO. NÃO DEMONSTRAÇÃO DA PRÁTICA DE QUAISQUER ATOS DE CONSTRIÇÃO DIRIGIDOS AO PATRIMÔNIO DA EMPRESA EM RECUPERAÇÃO JUDICIAL.
+CONFLITO NÃO CONHECIDO.
