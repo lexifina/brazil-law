@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interno interposto por LOJÃO DO MARCENEIRO COMÉRCIO DE MDF EIRELI contra a decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão da incidência do óbice da Súmula nº 284 do STF, no que tange à alegação de ofensa ao art. 1.022 do CPC, e, no mérito, por entender que a controvérsia foi decidida na origem com enfoque eminentemente constitucional.
+Nas razões recursais a agravante sustenta a não incidência da Súmula nº 284 do STF ao caso, eis que não há deficiência de fundamentação no recurso, o qual citou as omissões perpetradas na origem, quais sejam: (i) a indicação do fundamento de validade competente do Decreto nº 9.104/17, haja vista que a LC 123/2006 não possui competência tributária para instituir tributo no Estado de Goiás; (ii) manifestação específica em relação à antecipação de pagamento do tributo e a necessidade desta ser veiculada por meio de lei em sentido estrito. Por fim, aduz que os dispositivos violados no CTN (art. 97, I e II), a despeito de buscarem fundamento de validade na Constituição Federal, possuem conteúdo normativo próprio e, portanto, podem fundamentar recurso especial.
+Pugna pela reconsideração da decisão ou pela submissão do feito a julgamento no órgão colegiado.
+É o relatório. Passo a decidir.
+A irresignação merece parcial acolhida.
+Inicialmente é preciso registrar que o Supremo Tribunal Federal, ao julgar o Tema 1.093 da repercussão geral, nos autos do RE 1.287.019/DF, firmou a seguinte tese: "A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais".
+Tendo em vista que há nos autos agravo em recurso extraordinário dirigido ao Supremo Tribunal Federal, e que a discussão travada no presente feito diz respeito exatamente à necessidade de edição de Lei Complementar para cobrança do DIFAL de ICMS para optante do Simples Nacional, penso que a questão constitucional é prejudicial ao presente recurso especial a atrair o disposto no § 2º do art. 1.031 do CPC, in verbis:
+(..)
+Art. 1.031. Na hipótese de interposição conjunta de recurso extraordinário e recurso especial, os autos serão remetidos ao Superior Tribunal de Justiça.
+§ 1º Concluído o julgamento do recurso especial, os autos serão remetidos ao Supremo Tribunal Federal para apreciação do recurso extraordinário, se este não estiver prejudicado.
+§ 2º Se o relator do recurso especial considerar prejudicial o recurso extraordinário, em decisão irrecorrível, sobrestará o julgamento e remeterá os autos ao Supremo Tribunal Federal.
+§ 3º Na hipótese do § 2º, se o relator do recurso extraordinário, em decisão irrecorrível, rejeitar a prejudicialidade, devolverá os autos ao Superior Tribunal de Justiça para o julgamento do recurso especial. (Grifei)
+(..)
+Ante o exposto, com fulcro no § 2º do art. 1.031 do CPC c/c o art. 259 do RISTJ, conheço do presente agravo interno para tornar sem efeito a decisão de fls. 528-531 e-STJ e DETERMINAR O SOBRESTAMENTO DO AGRAVO EM RECURSO ESPECIAL no STJ e a REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL para julgamento das questões constitucionais prejudiciais, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. COBRANÇA DE DIFAL DE ICMS DE OPTANTE DO SIMPLES NACIONAL. NECESSIDADE DE EDIÇÃO DE LEI COMPLEMENTAR. TEMA 1.093 DA REPERCUSSÃO GERAL. QUESTÃO CONSTITUCIONAL PREJUDICIAL AO RECURSO ESPECIAL. AGRAVO INTERNO CONHECIDO PARA TORNAR SEM EFEITO A DECISÃO AGRAVADA E DETERMINAR A REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL. § 2º DO ART. 1.031 DO CPC/2015.
