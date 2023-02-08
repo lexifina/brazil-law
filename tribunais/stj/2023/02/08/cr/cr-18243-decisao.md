@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a justiça sul-coreana (Tribunal Distrital Central de Seul) solicita a intimação de KIM FRANCISCO SUNG HOON, para que tome conhecimento de "fatura de custos apresentada pelo requerente em relação ao pedido para a determinação do valor dos custos do litígio neste tribunal", e apresente manifestação, no prazo de 10 dias (fl. 8).
+A intimação prévia foi assinada por terceiro, conforme aviso de recebimento constate à fl. 32.
+Não obstante, a parte apresentou impugnação insurgindo-se contra a concessão do exequatur ao argumento de que os documentos advindos da "Seoul Central District Court" são simples cópias reprográficas que não permitem verificar sua autenticidade e tampouco estariam acompanhados de tradução juramentada.
+Acrescenta que o ato requerido não está albergado pelo Decreto n.º 9.734/2019, eis que trata-se de "um "lembrete" pedindo a "opinião" do Requerido" (fl. 35).
+Assinala que "na forma em que se encontram os documentos acostados na Carta Rogatória, não constam as informações necessárias, para que o Requerido saiba sobre o que se manifestar" (fl. 36). Acrescenta que, valendo-se de um instituto jurídico positivado no direito coreano, as partes realizaram prévia composição, possuindo créditos e débitos reciprocamente e a totalidade do crédito, como posta na comissão, não poderia ser cobrada.
+Requer seja negada a concessão do exequatur.
+O Ministério Público Federal opinou pela concessão do exequatur, com a devolução à Justiça rogante, ante o comparecimento espontâneo da parte (fls. 50/51).
+É o relatório.
+Decido.
+De início, no que tange ao apontado óbice consistente na ausência de tradução juramentada do ato, diversamente do consignado pelo interessado, a situação não demonstra irregularidade, eis que atende ao previsto no artigo 6 do Decreto n.º 1.899/96, o qual consigna que :
+"Quando as cartas rogatórias forem transmitidas por via consular ou diplomática, ou por intermédio da autoridade central, será desnecessário o requisito da legalização."
+No mesmo sentido:
+CARTA ROGATÓRIA. AGRAVO INTERNO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. NECESSIDADE DE TRADUÇÃO JURAMENTADA DOS DOCUMENTOS. COMISSÃO. TRÂMITE POR INTERMÉDIO DA AUTORIDADE CENTRAL. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA A COMPREENSÃO DA CONTROVÉRSIA. REQUISITO DO ART. 260 DO CPC. APLICAÇÃO APENAS ÀS CARTAS ROGATÓRIAS ATIVAS. CITAÇÃO. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE.
+1. Inexiste ofensa ao princípio da colegialidade quando o presidente do Superior Tribunal de Justiça concede exequatur a carta rogatória, pois a determinação de distribuição dos autos para julgamento pela Corte Especial, caso o pedido verse sobre ato decisório e haja impugnação do interessado, é discricionária (arts. 216-O e 216-T do RISTJ).
+2. A tradução juramentada dos documentos que compõem a comissão é desnecessária quando a tramitação ocorre via autoridade central.
+3. Para a concessão do exequatur, a carta rogatória não precisa estar acompanhada de todos os documentos indicados na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+4. Os requisitos previstos no art. 260 do CPC somente são aplicáveis às rogatórias ativas.
+5. A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples citação, por si só, não representa situação de afronta à ordem pública ou à soberania nacional, destinando-se apenas a dar conhecimento de ação em curso para permitir a defesa da parte interessada.
+6. Não obsta o cumprimento de carta rogatória a existência de convenção arbitral que elege a jurisdição brasileira para dirimir controvérsias, caso em que a exceção de arbitragem deve ser submetida ao juiz estrangeiro para apreciação.
+7. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão de exequatur a carta rogatória, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa.
+8. Agravo interno desprovido.
+(AgInt nos EDcl na CR n. 14.886/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 9/6/2020, DJe de 16/6/2020.)
+No que se refere à alegação de que os documentos apresentados não permitem o adequado delineamento dos fatos, constato que carta rogatória está acompanhada de elementos suficientes à compreensão da controvérsia. A decisão estrangeira, inclusive, esclarece que as custas são advindas de acordo judicial entre as partes, o qual o interessado confirma ter ocorrido.
+Sobre o tema, veja-se a jurisprudência desta Corte:
+AGRAVO INTERNO NA CARTA ROGATÓRIA. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA COMPREENSÃO DA CONTROVÉRSIA. A CONCESSÃO DE EXEQUATUR À CARTA ROGATÓRIA NÃO IMPORTA EM VIOLAÇÃO DA GARANTIA CONTRA A AUTOINCRIMINAÇÃO. DIREITO DE O AGRAVANTE NÃO PRODUZIR PROVA CONTRA SI PRESERVADO. AGRAVO INTERNO DESPROVIDO.
+1. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+2. A intimação de qualquer pessoa para prestar depoimento como testemunha, por si, não traduz violação da garantia de autoincriminação. A simples tramitação da presente carta rogatória não acarreta prejuízo aos direitos do Agravante. Ao contrário, ao prestar seu depoimento e responder em audiência aos quesitos elencados, por óbvio, o agravante não será obrigado a produzir prova contra si mesmo, nos termos do princípio do nemo tenetur se detegere.
+3. Agravo interno desprovido.
+(AgInt na CR n. 11.000/EX, relatora Ministra Laurita Vaz, DJe de 6/12/2016, grifei.)
+No mais, debates relacionados aos créditos efetivamente devidos devem ser levados ao conhecimento da autoridade judiciária processante a quem compete o enfrentamento de todas as questões relacionadas ao objeto do litígio, inclusive aquelas que se colocam como preliminares ao mérito.
+Constata-se que o objeto da presente carta rogatória se restringe à mera intimação da parte interessada e não atenta contra os demais requisitos legais (ofensa à soberania nacional, à dignidade da pessoa humana; autenticidade dos documentos e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante da manifestação da parte interessada, em sede de impugnação (fls. 33/38), considero consumado o objeto da comissão, consistente na citação da parte interessada, sendo desnecessária a remessa dos autos à Justiça Federal.
+A esse respeito, confira-se:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. CITAÇÃO. AÇÃO POR INADIMPLÊNCIA DE CONTRATO DE EMPRÉSTIMO. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE. PRAZO PARA CONTESTAÇÃO. COMPARECIMENTO ESPONTÂNEO DA PARTE INTERESSADA. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A citação da parte interessada acerca de ação em curso na Justiça rogante não constitui ofensa à ordem pública, pois é ato de comunicação processual. 2. Os documentos que instruem a rogatória enviada pela via diplomática são considerados autênticos, sendo dispensadas a chancela consular e a tradução por profissional juramentado no Brasil.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão do exequatur nas cartas rogatórias, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa. 4. O prazo para contestação, em regra, começa a fluir da juntada do mandado citatório devidamente cumprido aos autos em curso na Justiça rogante, o que, por si só, dá aos interessados prazo suficiente para constituição de advogado para representar seus interesses na Justiça rogante.
+5. A manifestação espontânea da parte interessada consuma o objeto da comissão, caso em que os autos são devolvidos à Justiça rogante por intermédio da autoridade central competente, sendo desnecessária a remessa à Justiça Federal.
+6. Agravo regimental desprovido.
+(AgInt nos EDcl na CR n. 14.431/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/10/2019, DJe de 25/10/2019)
+Ante o exposto, com amparo no art. 216-X do RISTJ, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
