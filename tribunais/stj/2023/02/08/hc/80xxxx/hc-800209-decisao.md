@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GUSTAVO HENRIQUE DE OLIVEIRA contra ato de Desembargador Relator do Tribunal de Justiça do Estado de Minas Gerais (HC nº 1.0000.23.019680-0/000).
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos delitos tipificados nos arts. 329 c/c 163, parágrafo único, inciso III c/c 330, todos do Código Penal. A custódia foi convertida em preventiva.
+Contra a decisão, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 93/95).
+No presente writ, a defesa alega que não estão presentes os requisitos autorizadores da custódia cautelar. Ressalta as circunstâncias pessoais favoráveis do paciente. Argumenta que as penas abstratamente cominadas para os crimes são reduzidas, devendo ser observado o princípio da homogeneidade.
+Requer, em liminar e no mérito, a revogação da custódia, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 93/95):
+Não obstante as alegações apresentadas pelo impetrante em favor do paciente GUSTAVO HENRIQUE DE OLIVEIRA, preso em flagrante delito em razão da suposta prática dos crimes previstos no art.329, c/c art. 163, parágrafo único, III, c/c art. 330, todos do Código Penal, apontando como autoridade coatora o MM. Juiz de Direito Plantonista da Comarca de Campos Gerais/MG, verifico pelos documentos juntados aos autos que o pedido liminar não pode ser deferido, porque improvado o indispensável fumus boni iuris, havendo necessidade da prévia oitiva da autoridade dita coatora para maiores esclarecimentos acerca do alegado constrangimento ilegal.
+Ressalte-se que, a priori, a decisão que decretou a prisão preventiva do paciente (ordem 02-PJE ff.12/15) encontra-se devidamente fundamentada, não padecendo de qualquer irregularidade que possa maculá-la.
+Mediante estas considerações, INDEFIRO O PEDIDO LIMINAR.
+De fato, da leitura do decreto preventivo, verifica-se que o paciente, ao ser abordado pelos policiais, desobedeceu a ordem de parada, resistindo a abordagem agredindo-os com socos e pontapés e ameaçando-os de morte. Além disso, consta que teria arremessado uma garrafa de vidro em direção à viatura, causando amassamento do capô.
+Ainda, ressaltou o Magistrado que ele ostenta maus antecedentes, com registro de inquérito policial por suposto crime de tráfico de drogas.
+Portanto, conforme apontado pelo Desembargador Relator, não há flagrante ilegalidade na decretação da prisão, a justificar o deferimento do pedido de liminar.
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
