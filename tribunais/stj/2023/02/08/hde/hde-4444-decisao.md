@@ -1,0 +1,29 @@
+DECISÃO
+Vistos etc.
+Trata-se de pedido de homologação de sentença estrangeira formulado por CADMUS HOLDINGS LIMITED em face de CONSTRUTORA OAS S. A., em recuperação judicial (CONSTRUTORA COEASA S.A.), oriunda da Justiça de Trinidad e Tobago, que a pretensão condenatória da empresa requerida ao pagamento de US$ 801.693,01, US$ 121.668,50 e US$ 62.515,50 referente ao contrato de prestação de serviço inadimplido no exterior.
+A requerente relata, além das circunstâncias fáticas em que se desenrolou a demanda no exterior, o preenchimento dos requisitos legais ao pleito homologatório.
+Devidamente citado, a requerida contestou o pedido sob o argumento de que o não houve o preenchimento dos requisitos do art. 216-D do Regimento Interno do Superior Tribunal da Justiça e do art. 963 do Código de Processo Civil, porque não foram carreados documentos aos autos que demonstrem "efetivamente o inadimplemento e as datas respectivas, especialmente em relação à divergência de valores indicados na petição inicial e do que consta do plano de recuperação judicial da requerida" (fl. 209 e-STJ), além da ausência de comprovação do trânsito em julgado da sentença estrangeira e da chancela consular ou apostila, que ateste a autenticidade da assinatura dos subscritores das decisões homologandas.
+Referiu, ainda, que se encontra em processo de soerguimento, o que impossibilitaria qualquer pagamento, cujo fato gerador seja anterior ao pedido de recuperação, sob pena de ofensa ao princípio do par conditio creditorum.
+Aduziu, por fim, ofensa à ordem pública brasileira por entender que o título estrangeiro não restou fundamentado, carreando documentos referentes à alteração social da CONSTRUTORA OAS S. A. para CONSTRUTORA COEASA S. A., dos novos diretores da companhia, do novo estatuto social e do processo de recuperação judicial (fls. 224/225,226/227, 228/235 e 238/248 e-STJ).
+Réplica às fls. 279/285 e tréplica às 325/328 (e-STJ).
+Manifestação da requerente às fls. 353/415 (e-STJ) em atendimento à anterior requerimento do MPF (fl. 38 e-STJ).
+O Ministério Público Federal, em seu parecer (e-STJ fls. 422/429), opinou pelo acolhimento do pedido homologatório.
+É o breve relatório.
+Decido.
+A homologação de decisões estrangeiras pelo Poder Judiciário possui previsão na Constituição Federal de 1988 (art. 105, I, i) e, desde 2004 (EC 45/2004), está inserida na competência do Superior Tribunal de Justiça, que a realiza com fundamento nos arts. 15 e 17 do Decreto-Lei n. 4.657/1942 (LINDB), no Código de Processo Civil (art. 960 e seguintes) e no art. 216-A e seguintes do RISTJ.
+Consoante esses dispositivos, especialmente os arts. 15 e 17 da LINDB, 963 do CPC e 216-C, 216-D e 216-F do RISTJ, os quais, atualmente, disciplinam o procedimento homologatório, constituem requisitos indispensáveis ao seu deferimento:
+(i) instrução da petição inicial com o original ou cópia autenticada da decisão homologanda e de outros documentos indispensáveis, devidamente traduzidos por tradutor oficial ou juramentado no Brasil e chancelados pela autoridade consular brasileira;
+(ii) haver sido a sentença proferida por autoridade competente;
+(iii) terem as partes sido regularmente citadas ou haver-se legalmente verificado a revelia;
+(iv) ter a sentença transitado em julgado;
+(v) não ofender a soberania, a dignidade da pessoa humana e/ou ordem pública.
+Na hipótese, ao que se verifica, foram cumpridos todos os requisitos exigidos nos mencionados dispositivos, na medida em que consta dos autos a procuração ad judicia (e-STJ, fl. 11), as decisões estrangeiras foram proferidas por autoridade competente (fls. 12/13, 16/17 e 18/19 e-STJ), são eficazes no país em que foram proferidas (fls. 353/364 e-STJ), encontram-se acompanhadas de apostilas (fls. 79, 81 e 83 e-STJ) e de tradução oficial (fls. 14/15 e 20/22 e-STJ), além de não se referir a quaisquer das hipóteses de exclusividade de jurisdição brasileira (CPC, art. 23).
+Cumpre observar, ademais, que o Superior Tribunal de Justiça exerce juízo meramente delibatório nas hipóteses de homologação de sentença estrangeira, de modo que cabe apenas verificar se a pretensão apresentada atende aos pressupostos previstos na legislação de regência, não sendo hipótese para se observar questões referentes ao mérito do provimento a ser homologado (v.g., SEC 7.009/EX, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/08/2018, DJe de 28/08/2018).
+Destaco, em atenção às alegações trazidas pela sociedade requerida e conforme bem ponderado pelo Ministério Público Federal, que "as condições assumidas pela Requerida perante o Juízo da Recuperação Judicial e eventual impedimento de saldar créditos anteriores ao pedido de recuperação são matérias atinentes à execução, não a este procedimento homologatório do título judicial estrangeiro" (HDE n. 3.518/EX, relatora Ministra Laurita Vaz, Corte Especial, julgado em 22/4/2021, DJe de 4/5/2021).
+Nesse contexto, demonstrado o preenchimento dos requisitos necessários à internalização da sentença estrangeira, inclusive o relacionado à inexistência de violação à soberan ia nacional, à dignidade da pessoa humana ou à ordem pública, impõe-se o acolhimento da pretensão de homologação.
+Ante o exposto, com amparo no artigo 216-K do RISTJ, homologo a sentença estrangeira prolatada pela Justiça da República de Trinidad e Tobago, na forma da fundamentação.
+Após o trânsito e m julgado, expeça-se carta de sentença.
+Intimem-se.
+EMENTA
+HOMOLOGAÇÃO DE DECISÃO ESTRANGEIRA. PROCESSUAL CIVIL. SENTENÇA PROFERIDA PELA JUSTIÇA DA REPÚBLICA DE TRINIDAD E TOBAGO NOS AUTOS DE AÇÃO DE COBRANÇA RELACIONADA A CONTRATO DE PRESTAÇÃO DE SERVIÇO INADIMPLIDO. INCIDÊNCIA DOS ARTS. 15 E 17 DA LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO, 960 E SEGUINTES DO CPC/2015 E ARTS. 216-C, 216- D E 216-F DO RISTJ. REQUISITOS ATENDIDOS.
+PEDIDO DE HOMOLOGAÇÃO ACOLHIDO.
