@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CAROLINA BIONDO, LUCAS BIONDO e DANIELA CUNHA ZANCO BIONDO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 4/8/2022.
+Concluso ao gabinete em: 9/1/2023.
+Ação: de arbitramento e cobrança de honorários advocatícios, ajuizada por JOSÉ JOÃO BUZACHERO em face de CAROLINA BIONDO, LUCAS BIONDO e DANIELA CUNHA ZANCO BIONDO.
+Sentença: julgou procedente a pretensão autoral a fim de condenar os recorrentes ao pagamento de "importância equivalente a seis por cento do valor real de todo o monte mor efetivamente inventariado nos autos de nº 0007249-77.2006.9.26.0394, o que será objeto de apuração em fase de cumprimento de sentença, mediante liquidação" (e-STJ fls. e-STJ fls. 939-941).
+Acórdão: negou provimento à apelação interposta pelos recorrentes, nos termos da seguinte ementa:
+APELAÇÃO - COBRANÇA - Prestação de serviços advocatícios - Contrato firmado - Recurso da parte ré versando sobre a anulação e/ou reforma da sentença - Alegação de prestação de serviço insatisfatória e precária - Cerceamento de defesa - Ilegitimidade de parte - Dever de pagar configurado - Insuficiência de prova fática em sentido contrário - Remuneração devida - Procedência em primeiro grau - Manutenção - Recurso desprovido. (e-STJ fls. 1086-1090)
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º, IV e VI, e 1.022, II, do CPC/15; e art. 206, §5º, I, do CC/02. Aduz que não foram apreciadas as seguintes questões: (I) ilegitimidade passiva de DANIELA CUNHA ZANCO BIONDO; (II) prescrição de cobrança das parcelas vencidas, no período de 26/9/2006 até 28/7/2015; (III) proporcionalidade dos honorários advocatícios contratados, sob o fundamento de que não houve a realização integral do trabalho pelo recorrido; e (IV) dedução dos valores já adimplidos pelos recorrentes. Pugna (I) pela aplicação do prazo prescricional de cinco anos, contado a partir dos respectivos vencimentos e (II) pelo afastamento do art. 25, V, da Lei nº 8.906/94 (Estatuto da OAB). Sustenta, ainda, que deve ser observado o labor efetivamente praticado pelo recorrido para arbitrar o quantum devido a título de honorários.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Nos termos do art. 1.022 do CPC/15, os embargos de declaração destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador.
+Quanto à omissão, ressalta-se que a justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, 3ª Turma, DJe 3/3/2021).
+No particular, o acórdão recorrido manteve a sentença que julgou procedente a pretensão do recorrido e refutou o argumento apresentado pelos recorrentes tão somente em relação à ausência de desídia do autor/recorrido na prestação dos serviços advocatícios (e-STJ fl. 1090).
+Todavia, mesmo após a oposição dos aclaratórios pelos recorrentes, silenciou acerca de suposta (I) ilegitimidade passiva da recorrente; (II) prescrição da pretensão autoral e (III) existência de prova do pagamento parcial do valor devido.
+Destaca-se que, em análise preliminar, os pontos omissos mostram-se pertinentes e devem ser analisados para a adequada resolução da lide.
+Segundo a jurisprudência desta Corte, caracteriza-se a ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da lide (AgInt no REsp 1.829.677/RJ, 3ª Turma, DJe 1/7/2020; AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe 2/3/2018).
+Logo, o recurso especial merece ser provido.
+Forte nessas razões, com fundamento no art. 34, XVIII, "c", do RISTJ, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para (I) anular o acórdão de fls. 1116-1118 (e-STJ) que julgou os embargos de declaração opostos por CAROLINA BIONDO, DANIELA CUNHA ZANCO BIONDO e LUCAS BIONDO contra o acórdão que julgou o recurso de apelação; e (II) determinar a remessa dos autos ao TJSP, a fim de que este se pronuncie, na esteira do devido processo legal, sobre as questões alegadas nos embargos declaratórios.
+Deixo de fixar honorários advocatícios, tendo em vista que o processo será objeto de novo julgamento pela Corte local.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/15. OMISSÃO. OCORRÊNCIA. QUESTÃO RELEVANTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CARACTERIZAÇÃO. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS.
+1. Ação de arbitramento e cobrança de honorários advocatícios.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da lide.
+3. Hipótese em que a Corte local rejeitou os aclaratórios sem apreciar as questões suscitadas pela parte recorrente, razão pela qual os autos devem retornar à instância de origem, para que sejam apreciados, novamente, os embargos de declaração.
+4. Recurso especial conhecido e provido para anular o acórdão que julgou os embargos de declaração, determinando a remessa dos autos ao Tribunal de origem para que se pronuncie sobre as questões arguidas pelos recorrentes/embargantes.
