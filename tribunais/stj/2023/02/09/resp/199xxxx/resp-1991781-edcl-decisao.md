@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MUNICÍPIO DE LIMOEIRO DE ANADIA contra decisão assim ementada (fl. 1.738):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, a parte embargante defende, em síntese, que não há falar em Súmula 283/STF, uma vez que impugnou fundamento do acórdão recorrido ao apontar, no recurso especial, que se fundamentação do decisum do TRF5 fosse levada às últimas consequências - uma liberdade plena para conhecer de fatos e de direito -, mesmo o princípio da congruência (art. 492 do CPC) cairia por terra, não havendo que se falar em decisões, extra, ultra e citra petita." (fl. 1.745)
+Aduz, ainda, que houve prequestionamento do art. 141, I, do CTN e sustenta que não é requisito para o prequestionamento a expressa menção dos dispositivos, mas sim a efetiva discussão quanto à sua incidência. (fl. 1.746)
+Defende, ao fim, que não há deficiência de fundamentação em relação a alegação de violação do art. 1.022 do CPC/15.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, destaca-se que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+No caso, o Recurso Especial não foi conhecido pelos seguintes fundamentos (fl. 1.740):
+ ..
+Não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa aos referidos normativos. Incide à hipótese a Súmula 284/STF.
+Ademais, no tocante a alegação de que houve inovação recursal, o recorrente deixou de impugnar o fundamento do acórdão integrativo, à fl. 1.676, de que ainda que a Fazenda Nacional não tenha, na sua contestação, enfrentado a questão, o juiz não está impedido de adequar os efeitos jurídicos aos fatos reconhecidos no processo (mihi factum, dabo tibi ius). Isso porque, como o juiz conhece do direito (princípio doiura novit curia), este não deve permanecer adstrito ao fundamento legal ou ao enquadramento jurídico proposto pelas partes, não havendo que se falar, portanto, em inovação recursal quanto ao exame da possibilidade de manter íntegros os lançamentos fiscais.
+Incide, ao ponto, a Súmula 283/STF.
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa ao artigo 142 do CTN, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+No que diz respeito ao artigo 145, I, do CTN (e a tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto,não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Nesse passo, como o ora embargante descreve razões inerentes ao mérito da causa, fica clara sua intenção de rediscussão por via transversa da matéria decidida, subvertendo o propósito do presente instrumento recursal.
+Assim, evidenciando-se não haver falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, devem os embargos serem rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
