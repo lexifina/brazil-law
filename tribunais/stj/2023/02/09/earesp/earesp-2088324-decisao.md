@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por ANTONIO CARLOS GALLETTI FILHO contra acórdão proferido pela Quarta Turma desta Corte, assim ementado (fl. 510):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIA DA PARTE AUTORA.
+1. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+2. Esta Corte Superior entende que o único recurso cabível contra a decisão de admissibilidade do apelo nobre é o agravo previsto no art. 1.042 do CPC/15. A interposição de embargos declaratórios não interrompe o prazo para a apresentação do referido reclamo, por serem manifestamente incabíveis.
+3. "A interposição de recurso manifestamente inadmissível não interrompe nem suspende o prazo para a interposição de outros recursos."
+(AgInt no AREsp 1.744.924/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 2/3/2021.)
+4. Agravo interno desprovido.
+A parte embargante alega que haveria divergência de entendimento entre o acórdão embargado e dois outros acórdãos deste Superior Tribunal, que aponta como paradigmas , assim indicados (fl. 523): "AgInt no AREsp 1.747.940/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021 e, em especial, do entendimento da D. TERCEIRA SEÇÃO in Rcl 40.302/DF, publicada no DJe 28/09/2020."
+Defende, ao final, o acolhimento dos embargos para que o recurso especial tenha seguimento (fl. 528).
+É o relatório.
+De início, observo que não foi cumprida a determinação legal do § 4º do art. 1.043 do CPC, reverberada pelo § 4º do art. 266 do RISTJ, segundo a qual "o recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte".
+Com efeito, apesar de mencionar em suas razões que haveria divergência entre o acórdão embargado e o que fora decidido pela Terceira Turma no AgInt no AREsp n. 1.747.940/RJ, não se desincumbiu a parte recorrente do aludido ônus processual, vício substancial insanável que obsta de plano o conhecimento do pedido, conforme pacífica jurisprudência deste Superior Tribunal de Justiça, a seguir representada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA. INTEIRO TEOR. AUSÊNCIA. MERA INDICAÇÃO DO DIÁRIO DA JUSTIÇA EM QUE PUBLICADO. INSUFICIÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A comprovação da divergência deve observar os termos do § 4º do art. 1.043 do CPC de 2015 e do § 4º do art. 266 do RISTJ.
+2. A mera indicação do Diário da Justiça em que publicado o acórdão paradigma não atende à exigência de citação do repositório oficial ou autorizado de jurisprudência, uma vez que consiste apenas em órgão de divulgação no qual somente é publicada a ementa do acórdão e não seu inteiro teor.
+3. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicação do parágrafo único do art. 932 do CPC de 2015.
+4. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.935.286/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 11/10/2022, DJe de 21/10/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO DE RECURSO ESPECIAL. DESCUMPRIMENTO DE REGRA TÉCNICA. MERA TRANSCRIÇÃO DAS EMENTAS, SEM A JUNTADA DE CERTIDÕES, CÓPIAS DO INTEIRO TEOR OU REPRODUÇÃO DO TEXTO DA INTERNET E NÃO INDICAÇÃO DA FONTE. RECURSO INADMITIDO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte está firmada no sentido de que, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder às seguintes providências: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+2. A mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão.
+3. Agravo regimental desprovido.
+(AgRg nos EAREsp n. 2.000.424/PB, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/11/2022, DJe de 28/11/2022.)
+Já no que toca à mencionada divergência quanto ao decidido na Rcl n. 40.302/DF pela Terceira Seção, observe-se que as ações de garantia constitucional não podem ser utilizadas como paradigma de alegada divergência, como exempli ficam os precedentes a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSENSO QUANTO A REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. SÚMULA 315/STJ. IMPOSSIBILIDADE DE EMBARGOS DE DIVERGÊNCIA PARA REVER APLICAÇÃO DE MULTA. INDICAÇÃO DE ARESTO ORIUNDO DO JULGAMENTO DE MANDADO DE SEGURANÇA E HABEAS CORPUS PARA EMBASAR A DIVERGÊNCIA. IMPOSSIBILIDADE. ART. 1.043, § 1º, DO CPC/2015. CISÃO DE JULGAMENTO. DESNECESSIDADE.
+ ..
+3. Mesmo na égide do novo CPC, o § 1º do art. 1.043 restringe os julgados que podem ser objetos de comparação, em sede de embargos de divergência, a recursos e ações de competência originária, não podendo, portanto, funcionar como paradigma acórdãos proferidos em ações que têm natureza jurídica de garantia constitucional, como os habeas corpus, mandado de segurança, habeas data e mandado de injunção.
+ ..
+5. Agravo interno não provido.
+(AgInt nos EAREsp n. 673.112/TO, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 22/2/2022, DJe de 9/3/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS COTEJADOS. INADMISSIBILIDADE. EXECUÇÃO. INCLUSÃO DE VERBA NÃO PREVISTA NA DECISÃO EXEQUENDA. IMPOSSIBILIDADE.
+ ..
+9. Outro óbice ao conhecimento da irresignação foi corretamente apontado pelo eminente Ministro Og Fernandes em voto-vogal proferido nestes autos: o fato de o embargante ter colacionado como paradigma o RMS 28.914/SP. Como consignou Sua Excelência, "os embargos de divergência em recurso especial não podem indicar como paradigma acórdão oriundo do julgamento de ações de natureza de garantia constitucional, como o habeas corpus , recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção, na esteira da jurisprudência desta Corte Superior, inclusive na vigência do Código de Processo Civil de 2015".
+10. No mesmo sentido: AgInt nos EAREsp 474.423/RS, Rel. Min. Nancy Andrighi, Corte Especial, DJe 10.5.2018; AgInt nos EREsp 1.657.041/CE, Rel. Min. Francisco Falcão, Primeira Seção, DJe 17.11.2020; RCD nos EREsp 1.185.404/AM, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 13.3.2019. CONCLUSÃO
+11. Agravo Interno provido, em respeitosa divergência com o judicioso voto do eminente Relator, para não se conhecer dos Embargos de Divergência.
+(AgInt nos EREsp n. 1.194.697/MS, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Herman Benjamin, Primeira Seção, julgado em 12/5/2021, DJe de 3/8/2021.)
+A mesma conclusão se aplica à reclamação, que possui natureza jurídica de ação constitucional de garantia constitucional. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ULTRAPASSA JUÍZO DE ADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 315/STJ. ACÓRDÃO PARADIGMA INDICADO EM SEDE DE RECLAMAÇÃO. IMPOSSIBILIDADE.
+ ..
+3. É firme a jurisprudência desta Corte no sentido de não serem admitidos embargos de divergência manejados tendo por paradigmas acórdãos proferidos em sede de reclamação. Precedentes: EDv no AgInt na Rcl 31.840/SP, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 22/11/2017, DJe 1º/12/2017; AgRg nos EAREsp 305.271/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 19/11/2014, DJe 11/12/2014; AgRg nos EAREsp 1.483.535/SP, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 11/3/2020, DJe 18/3/2020.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDv nos EAREsp n. 1.239.632/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC, não conheço dos embargos de divergência, indeferindo-os liminarmente, nos termos do art. 266-C do RISTJ.
+Publique-se. Intimem-se.
