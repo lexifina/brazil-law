@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de FAGNER DE SOUZA CONCEIÇÃO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO (Apelação Criminal n. 0247551-72.2009.8.19.0001).
+Requer-se a concessão de medida liminar para que o paciente aguarde em liberdade o julgamento do presente writ, recolhendo-se o mandado de prisão. No mérito, pede-se a concessão da ordem para que seja refeita a dosimetria da pena, reconhecendo a afronta às regras de dosimetria e a aplicação do regime semiaberto, tendo em vista o errou na hora da aplicação dosimetria penal, ao aplicar uma pena base maior do que foi aplicada pelo juízo sentenciante, por um recurso exclusivo da Defesa, aplicando uma pena base maior do que foi aplicada pelo juízo de primeiro grau, incorrendo, dessa forma, em reformatio in pejus, ainda mais nesse caso em que o Acórdão criticou a dupla majoração com base na reincidência e, na terceira fase de dosimetria penal, aonde foi valorado apenas a quantidade de majorantes para estabelecer a fração de aumento mais gravosa, sem apresentar elementos concretos nos autos que possam justificar tal fração (fl. 10).
+É o relatório.
+Primeiramente, a sentença condenatória transitou em julgado. O ato ora impugnado tem mais de 12 anos.
+In casu, o presente writ é sucedâneo de revisão criminal. Ocorre que, como não existe, no Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Ademais, o Tribunal estadual não se manifestou a respeito de eventual ocorrência de reformatio in pejus. Assim, a análise da alegação importaria indevida supressão de instância. Sem contar que não é evidente a ilegalidade quanto ao aumento além do mínimo, na terceira etapa do cálculo da pena do roubo, pelo concurso de cinco agentes e pelo uso de armas de fogo (pistolas).
+Afora isso, considerando a data da prisão em flagrante, a negativa do apelo em liberdade e o quantum da condenação, o término do cumprimento da pena teria ocorrido em 6/7/2021 e, segundo a Súmula 695/STF, não cabe habeas corpus quando já extinta a pena privativa de liberdade.
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E EXTORSÃO. INSURGÊNCIA CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. MANEJO DE WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, I, E, DA CONSTITUIÇÃO FEDERAL. DOSIMETRIA. PRETENSÃO DE SUPRIMIR INSTÂNCIA. INVIABILIDADE. SÚMULA 695/STF. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
