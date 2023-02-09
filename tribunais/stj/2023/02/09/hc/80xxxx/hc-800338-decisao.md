@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Nicolas Santos da Silva - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Ação Penal n. 1501238-55.2022.8.26.0536), não comporta processamento.
+Com, efeito, busca a impetração o redimensionamento da pena imposta ao paciente, ao argumento de que se o paciente, embora em seu depoimento afirmara que há um mês estava vendendo entorpecentes e que recebia cerca de R$ 100,00 a R$ 120,00 por dia de trabalho, bem como cumpria horário no ponto de venda de drogas, NÃO restou evidenciada que aquela conduta era reiterada ao longo da vida do paciente, mas sim, apenas naquele curto período de tempo, não havendo razões para negar-lhe a redutora do § 4º do art. 33 da Lei 11.343.2006, ou seja, submeteu-se a tratamento degradante e conduta delituosa, sem nada auferir proveitos consideráveis, por necessidade naquele curto espaço de tempo, o que não caracteriza que o paciente dedicava-se, de forma absoluta, a prática criminosa (fl. 7). Subsidiariamente, insurge-se contra a imposição do regime inicial fechado de expiação.
+Ocorre que, além de a via eleita ter sido utilizada indevidamente, em substituição ao recurso especial, e objetivando fazer com que se analisem as pretensões como forma de uma "segunda apelação criminal", dirigida a uma Corte de Precedentes, não se verifica teratologia no afastamento do r edutor, tampouco na imposição do regime inicial fechado de cumprimento da pena.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. DOSIMETRIA. PRETENSÃO DE REVISÃO DA DOSIMETRIA DA PENA IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA. UTILIZAÇÃO INDEVIDA DO WRIT. PROCESSAMENTO. IMPOSSIBILIDADE.
+Inicial indeferida liminarmente.
