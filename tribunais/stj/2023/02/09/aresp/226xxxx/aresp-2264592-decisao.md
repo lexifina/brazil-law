@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIAÇÃO VERDES VALES LTDA. (VIAÇÃO) contra TRANSLESTE TRANSPORTADORA LESTE LTDA. (TRANSLESTE), pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Santa Catarina (TJSC), relator HELIO DAVID VIEIRA FIGUEIRA DOS SANTOS, assim ementado:
+APELAÇÃO CÍVEL. AÇÕES CONDENATÓRIAS. ACIDENTE DE TRÂNSITO. COLISÃO ENTRE ÔNIBUS E CAMINHÃO. DEMANDAS CONEXAS, UMA AJUIZADA PELA VIAÇÃO CONTRA A TRANSPORTADORA E A OUTRA POR ESTA CONTRA AQUELA. SENTENÇA UNA DE IMPROCEDÊNCIA DAS DUAS LIDES. RECURSOS DE AMBAS AS LITIGANTES.
+VERSÕES SUSTENTADAS PELAS LITIGANTES E RESPECTIVOS ASSISTENTES TÉCNICOS DIAMETRALMENTE OPOSTAS. PERÍCIAS CRIMINALÍSTICA E JUDICIAL QUE NÃO CONSEGUIRAM IDENTIFICAR O PONTO DE COLISÃO E SUA CAUSA PREPONDERANTE.
+BOLETIM DE OCORRÊNCIA IGUALMENTE INCONCLUSIVO NO PARTICULAR. LAUDOS DO PERITO JUDICIAL CONTRADITÓRIOS ENTRE SI. VELOCIDADE DO ÔNIBUS QUE NÃO PODE SER CONSIDERADA ISOLADAMENTE COMO CAUSA DO ACIDENTE. AUSÊNCIA DE INFORMAÇÃO SOBRE A VELOCIDADE DO CAMINHÃO, SUA TRAJETÓRIA E SOBRE O PONTO DE IMPACTO ENTRE OS VEÍCULOS. INEXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA A ATESTAR A CULPABILIDADE DE UM OU DE OUTRO MOTORISTA. CONDENAÇÃO QUE NÃO PODE SE EMBASAR EM PRESUNÇÕES FUNDADAS EM TEORIAS DA FÍSICA. SENTENÇA ACERTADA. MANUTENÇÃO DA IMPROCEDÊNCIA DE AMBOS OS PEDIDOS.
+RECURSOS CONHECIDOS E NÃO PROVIDOS. (e-STJ, fl. 966)
+Os primeiros embargos de declaração opostos por VIAÇÃO foram parcialmente acolhidos, sem efeitos infringentes (e-STJ, fls. 998/1000), ficando assim ementado:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÕES CÍVEIS. RECURSOS CONHECIDOS E NÃO PROVIDOS. ALEGADAS OMISSÕES NA ANÁLISE DE ARGUMENTOS E PROVAS. DEFEITO VERIFICADO EM RELAÇÃO AO DEPOIMENTO DE UMA DAS TESTEMUNHAS. PROVA QUE, NO ENTANTO, NÃO TEM O CONDÃO DE MODIFICAR A CONVICÇÃO ANTERIORMENTE FIRMADA.
+EXISTÊNCIA DE OUTROS ELEMENTOS EM SENTIDO CONTRÁRIO, COMO OBSERVADO PELO JUÍZO A QUO. ACLARATÓRIOS PROVIDOS EM PARTE, APENAS PARA INTEGRAR O ACÓRDÃO, SEM EFEITOS INFRINGENTES. (e-STJ, fl. 997)
+Os segundos embargos de declaração opostos por VIAÇÃO foram rejeitados (e-STJ, fls. 1.037/1.040).
+Irresignada, VIAÇÃO interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 7º, 457, § 2º, 489, § 1º, IV, e 1.022, II e parágrafo único, II, do CPC.
+Afirmou que (1) houve omissão e negativa de prestação jurisdicional acerca do não esclarecimento das razões que levaram à conclusão adotada em contraponto às provas dos autos (2) houve desequilíbrio na consideração das provas testemunhais apresentadas, estando demonstrado que a responsabilidade pelo acidente foi do motorista da TRANSLESTE.
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 1.122/1.133).
+Nas razões do presente agravo, alegou-se que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+1) omissão e negativa de prestação jurisdicional
+Verifica-se que devidamente esclarecidas as razões de decidir pelo TJSC, não se configurando as alegadas omissão e negativa de prestação jurisdicional. Confira-se:
+Sustenta a recorrente que a decisão embargada contém omissão, pois deixou de examinar "argumentos e provas" com potencial de infirmar a conclusão adotada, quais sejam, o depoimento da testemunha Lorena Machado e o laudo pericial elaborado pelo instituto criminalista que realizou exame no local dos fatos. Requer o pronunciamento expresso destes julgadores a respeito dos elementos probatórios supracitados, com a atribuição de efeitos infringentes, para que seja reformada a sentença e julgados procedentes os pedidos formulados pela ora embargante na presente ação.
+Este é o relatório.
+Os embargos de declaração são cabíveis nas situações previstas no art. 1.022, do novo CPC: obscuridade; contradição; omissão; ou erro material.
+1. O laudo elaborado pelo perito criminal designado pela Secretaria de Segurança Pública do Estado do Rio de Janeiro (Instituto de Criminalística Carlos Éboli - ICCE) quando instaurado o inquérito policial foi examinado e referido de forma expressa no acórdão recorrido, abaixo reproduzido no particular:
+ ..
+Dito elemento de prova, como se vê, foi especificamente cotejado com o restante do conjunto probatório, mas não modificou o entendimento firmado, no sentido de que nenhuma das partes logrou comprovar, sem deixar qualquer dúvida, a procedência de seus pedidos.
+2. Em contrapartida, há mesmo uma omissão em relação à contribuição da testemunha Lorena Machado, arrolada pela ora embargante e ouvida por meio de carta precatória.
+Extrai-se do termo de depoimento da referida testemunha, que é guia turística e encontrava-se no ônibus de propriedade da ora embargante na data dos a rmos, que, segundo ela, "o caminhão invadiu a pista contrária vindo a colidir com o ônibus que estava em sua mão de direção" (ev. 55, procjudic6, p. 228 - autos n. 0004680-46.2010.8.24.0030). Sua fala corrobora, pois, a narrativa da viação.
+No entanto, como já observado pelo juízo a quo, trata-se de relato isolado e contrário à declaração de outros testigos, a saber, Geovani Pereira e Leandro Américo.
+O primeiro, que trafegava em outro caminhão, na retaguarda (a aproximadamente 150 metros) do automóvel da Transleste Transportadora envolvido no sinistro, afirmou ter visualizado bem o acidente, ocorrido, segundo ele, após o ônibus da Viação Verde Vale invadir a pista contrária, em que ele se encontrava (ev. 55, vídeo11, a partir de 1m - autos n. 0004680-46.2010.8.24.0030). No mesmo sentido foi o depoimento de Leandro, que conduzia o caminhão no qual era passageiro Geovani (ev. 55, vídeo12, a partir de 40s - autos n. 0004680- 46.2010.8.24.0030).
+Também nesse ponto, então, a prova dos autos é contraditória e não permite a formação de um juízo de convicção certeiro a respeito da dinâmica do evento noticiado nestes autos. Ratifica-se, no particular, as ponderações manifestadas no acórdão embargado, que deixam bem claras razões de manutenção da sentença de improcedência das duas lides (principais e secundárias). (e-STJ, fls. 998/999)
+Sustenta a recorrente que, embora o acórdão ora embargado tenha suprido a omissão apontada nos primeiros aclaratórios, acabou se revelando contraditório, ao atribuir pesos distintos aos depoimentos de seus funcionários José Anacleto Valadão e Sebastião Barbosa Neto. Acrescenta que, por conta dessa conclusão, a decisão é também omissa quanto ao disposto nos arts. 7º e 457, § 2º, do CPC, que preveem a necessidade de se dar tratamento isonômico às partes. Assim, requer o acolhimentos do recurso, com efeitos infringentes, para que sejam sanados os vícios apontados e, consequentemente julgados procedentes os pedidos formulados na inicial (ev. 93).
+Houve contrarrazões (ev. 100).
+Este é o relatório.
+Os embargos de declaração são cabíveis nas situações previstas no art. 1.022, do novo CPC: obscuridade; contradição; omissão; ou erro material.
+1. Todavia, a decisão embargada não contém os vícios apontados.
+No acórdão do ev. 70, a respeito dos depoimentos de José Anacleto Valadão e Sebastião Barbosa Neto, este Colegiado esclareceu o seguinte:
+ ..  as declarações de José Anacleto Valadão, empregado da Viação Verdes Vales, que move ação própria contra a transportadora, e Sebastião Barbosa Neto, que dirigia o ônibus envolvido no acidente, embora rati quem as alegações daquela (autos n. 0004680-46.2010, Ev. 55, PROCJUDIC6, p. 78), devem ser sopesadas sem perder de vista o manifesto interesse de ambos na resolução da presente lide. Seus depoimentos, por óbvio, não têm o condão de contrapor a prova técnica ou de, por si só, fundamentar uma condenação da transportadora (relvoto2)  grifei .
+Já por ocasião do julgamento dos primeiros aclaratórios, apesar de reconhecida a omissão em relação à contribuição de Lorena Machado, compreendeu-se que o seu testemunho (assim como toda a prova oral produzida pelas partes) não "permite a formação de um juízo de convicção certeiro a respeito da dinâmica do evento noticiado nestes autos". Por isso, não houve modificação das conclusões obtidas no primeiro acordão acerca da manutenção da improcedência das duas demandas (ev. 86, rel.voto2).
+Com efeito, o entendimento firmado desde o início é de que nenhuma das litigantes se desincumbiu do ônus de comprovar, de forma clara, como se deu o acidente em questão e, consequentemente, quem foi o culpado.
+Não há contradição alguma, muito menos tratamento desigual de uma ou outra parte.
+Ante o exposto, voto no sentido de conhecer dos aclaratórios e rejeitá-los. (e-STJ, fl. 1.038)
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022)
+Afastam-se, portanto, as alegadas violações.
+(2) responsabilidade pelo acidente/provas testemunhais
+O Tribunal de origem, ao julgar as apelações, concluiu que não sendo possível identificar o ponto de colisão e a exata trajetória dos automóveis envolvidos no acidente noticiado nestes autos, fez bem o juízo a quo ao julgar improcedentes ambas as demandas, razão pela qual nenhum dos apelos deve ser acolhido (e-STJ, fl. 972).
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ. Na mesma direção:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE COM FOGOS DE ARTIFÍCIO. RESPONSABILIDADE DO ORGANIZADOR DO EVENTO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. SÚMULAS 283 E 284 DO STF. PRETENSÃO DE REEXAME. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, incidem as Súmulas 283 e 284 do STF.
+2. Ademais, a modificação das conclusões do Tribunal de Justiça quanto à responsabilidade do agravante pela realização do evento e a existência de nexo causal entre os fatos ocorridos e os danos suportados pelo autor, que teve dois dedos do pé amputados por fogos de artifício que o atingiram durante o evento, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+3. "Em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag 1.179.405/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 6/4/2010, DJe de 13/4/2010).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.016.300/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/11/2022, DJe de 1/12/2022)
+Acrescente-se que cabe ao julgador decidir a lide de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto, a teor do que dispõe o art. 371 do CPC.
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE ATIVA. COMPROVAÇÃO. TEORIA DA APARÊNCIA. APLICAÇÃO. INÉRCIA. CONFIGURAÇÃO. DEVOLUÇÃO DAS ARRAS. OBRIGAÇÃO. DANOS MORAIS. CARACTERIZAÇÃO. JUROS DE MORA. CITAÇÃO. CORREÇÃO MONETÁRIA. A PARTIR DE CADA DESEMBOLSO. REVISÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. LIVRE CONVENCIMENTO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n. 7/STJ).
+2. Cabe ao magistrado a interpretação da produção probatória, necessária à formação do seu convencimento.
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.816.709/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021)
+Assinala-se que a valoração das provas pelo magistrado decorre de seu livre convencimento motivado, na forma dos artigos 370 e 371 do atual CPC, norteando-o, como destinatário da prova, no processo de tomada de decisão, restando, ainda, devidamente observado o disposto no art. 373 do CPC, na medida em que ambas as partes dispuseram de igualdade de condições para a produção das provas que entenderam cabíveis.
+Nessas condições, CONHEÇO o agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de TRANSLESTE, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. ANÁLISE DE PROVA TESTEMUNHAL. LIVRE CONVENCIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL. NÃO PROVIMENTO.
