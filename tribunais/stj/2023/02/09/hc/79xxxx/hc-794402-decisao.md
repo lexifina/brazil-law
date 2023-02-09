@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ISRAEL ESTANISLAU DE SOUZA SILVA JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1500690-35.2022.8.26.0599.
+Depreende-se dos autos que o paciente foi condenado à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e o pagamento de 680 (seiscentos e oitenta) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/06 (fls. 150-169).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 231-242).
+Na hipótese, o impetrante aponta constrangimento ilegal consubstanciada na negativa de desclassificação da conduta imputada para prevista no art. 37 da Lei n. 11.343/2006.
+Sustenta, ainda, que "na segunda fase dosimétrica, deve ser aplicada a atenuante do art. 65, III, d, do CP, porquanto o paciente, conforme relato dos policiais militares, confessou a prática delitiva informalmente" (fl. 8).
+Requer, ao final, "a concessão definitiva da ordem, para que: a) seja desclassificada a conduta do paciente para a prevista no art.37 da lei 11.343/06; b) na dosimetria da pena, seja reconhecida a atenuante da confissão" (fl. 10).
+A liminar foi indeferida às fls. 245-246.
+Informações prestadas às fls. 249-255.
+O Ministério Público Federal, às fls. 260-263, manifestou-se pelo conhecimento da ordem, em parecer assim ementado:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA. TRÁFICO DE DROGAS. CONDENAÇÃO BASEADA NAS PROVAS DOS AUTOS. PROVA TESTEMUNHAL. PEDIDO DE DESCLASSIFICAÇÃO. INFORMANTE. NECESSIDADE DE REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO DOS AUTOS. MEDIDA INCABÍVEL NA VIA ELEITA. CONFISSÃO. NÃO VERIFICADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. NÃO CONHECIMENTO" (fl. 260).
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a desclassificação do crime de tráfico para a conduta prevista no art. 37 da Lei n. 11.343/2006, bem como o reconhecimento da atenuante da confissão espontânea.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício. Isto é, admite-se a concessão da ordem de ofício, nas hipóteses em que o writ é usado como sucedâneo de recurso próprio, quando na impetração há demonstração da teratologia ou da manifesta ilegalidade do ato atacado.
+Não se descure que, para o conhecimento da ordem, faz-se necessário que o direito alegado pela defesa seja líquido - dispense apuração probatória - e certo - indene de dúvida.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente. Isso porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+Portanto, a impetração não se desincumbiu do ônus de demonstrar a teratologia ou a manifesta ilegalidade do ato atacado.
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus para a análise da tese de desclassificação do crime de tráfico para a conduta prevista no art. 37 da Lei n. 11.343/2006, em razão da necessidade de incursão no acervo fático-probatório.
+Por fim, saliente-se que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Diante de tais considerações, portanto, não se vislumbra a existência dos pressupostos necessários ao conhecimento e à concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
