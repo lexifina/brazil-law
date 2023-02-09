@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de SAMUEL EDUARDO SIQUEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC nº 2302370-73.2022.8.26.0000).
+Consta nos autos que o paciente foi condenado à pena de 10 (dez) anos, 4 (quatro) meses e 13 (treze) dias de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 157, §2º, II e §2º-A, I do Código Penal (e-STJ, fls.71-85).
+A defesa impetrou habeas corpus perante a Corte local que não conheceu do writ em decisão não ementada (e-STJ, fls. 111-115).
+Neste writ, o impetrante alega, em síntese, que houve nulidade do auto de prisão em flagrante porque a defesa não teve acesso à autoridade policial.
+Sustenta, ainda, que não houve a individualização da pena e dos fatos imputados a cada uma dos réus.
+Requer a concessão da ordem "para determinar o imediato redimensionamento da pena, em consonância com o FATOS, bem como a nulidade da sentença, conrando (sic) também a policia civil sobre o oficio suas consequências legais, fixando regime menos gravoso para o cumprimento de eventual pena privativa de liberdade, substituindo a pena privativa de liberdade por restritivas de direito para, ao final, seja realizada por este Egrégio Tribunal a nova dosimetria da pena." (e-STJ, fl.12).
+  o relatório.
+Observa-se do inteiro teor do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus nº 2302370-73.2022.8.26.0000 (e-STJ, fls.111-115) que as matérias relativas à nulidade do auto de prisão em fla grante e de ausência de individualização da pena não foram objeto de apreciação pela Corte local, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
