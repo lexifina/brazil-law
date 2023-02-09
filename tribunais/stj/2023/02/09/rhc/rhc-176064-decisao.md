@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 59):
+HABEAS CORPUS. ROUBOS CIRCUNSTANCIADOS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESTA CORTE. LAPSO TEMPORAL NÃO TRANSCORRIDO. CONSTRANGIMENTO ILEGAL INEXISTENTE. Embora ainda não resolvida a questão em sede de repercussão geral (ARE n. 848.107/DF, Tema 788), o Supremo Tribunal Federal e esta Corte adotam o entendimento de que o termo a quo da prescrição da pretensão executória corresponde ao trânsito em julgado da condenação para ambas as partes, antes do qual inexiste inércia do Estado para o exercício do direito de punir. PEDIDO DE ORDEM CONHECIDO E DENEGADO.
+Consta dos autos que o Juízo das execuções deferiu a progressão ao regime aberto, cumulado com monitoramento eletrônico. Impetrado habeas corpus na origem, por decisão monocrática o writ foi indeferido liminarmente. Interposto agravo regimental, o Tribunal de origem negou provimento.
+Sustenta a defesa, em síntese, a existência de constrangimento ilegal, haja vista que o Juízo de 1º grau ao mesmo tempo em que deferiu a progressão de regime, não reconheceu a extinção da punibilidade, diante do pagamento integral de tributos. Afirma que a matéria é de ordem pública e deveria ter sido conhecida pelo Tribunal de origem.
+Requer, liminarmente, a retirada e/ou a suspensão do monitoramento eletrônico e, no mérito, o reconhecimento da extinção da punibilidade pelo pagamento integral do tributo.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+No que se refere ao tema do recurso, extinção da punibilidade, verifica-se do v. acórdão ora combatido que a matéria ora suscitada sequer fora analisada pelo eg. Tribunal a quo, o qual manteve a decisão monocrática e não adentrou no mérito, concluindo pela inadequação da via eleita. Assim sendo, fica impedida esta eg. Corte de apreciar a questão, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a 3ª Seção desta eg. Corte de Justiça, verbis:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PARA O SEMIABERTO. MANUTENÇÃO DO PACIENTE EM REGIME MAIS RIGOROSO. PLEITO DE REGIME ABERTO. AUSÊNCIA DE POSTULAÇÃO EM 1º GRAU. ILEGALIDADE INEXISTENTE. TEMA NÃO ENFRENTADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+2. A questão referente à manutenção do paciente no regime mais gravoso do que aquele judicialmente determinado não foi apreciada pelas instâncias ordinárias, o que impede seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+3. Agravo regimental em recurso ordinário em habeas corpus improvido."
+(AgRg no RHC 48623/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 04/09/2014).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO-CABIMENTO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DESTE SUPERIOR TRIBUNAL DE JUSTIÇA: MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DO STJ, EM CONSONÂNCIA COM O DO STF. RECEPTAÇÃO QUALIFICADA, ADULTERAÇÃO DE SINAL IDENTIFICADOR E FORMAÇÃO DE QUADRILHA. NÃO RECONHECIMENTO DO DIREITO DE APELAR EM LIBERDADE. INDICAÇÃO DE JUSTIFICATIVA CONCRETA PARA A MANUTENÇÃO DA PRISÃO PROCESSUAL. PACIENTE SEGREGADO DESDE O FLAGRANTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO, NO PONTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO APRECIADA PELO JUÍZO DAS EXECUÇÕES. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. O pedido de progressão de regime não foi formulado perante o Juízo das Execuções, razão pela qual não pode ser conhecido originariamente por esta Corte, sob pena de indevida supressão de instância.
+6. Ausência de ilegalidade flagrante que permita concessão da ordem de ofício.
+7. Ordem de habeas corpus não conhecida".
+(HC 220.468/PE, Quinta Turma, Relª. Minª Laurita Vaz, DJe 17/04/2013)
+Ademais, embora fosse possível reconhecer a ilegalidade por ausência de prestação jurisdicional, a fim de que o Tribunal de origem superasse o óbice levantado, examinando a pretensão defensiva, consta do sistema processual eletrônico desta Corte Superior a prévia impetração do HC 795.257/GO, sobre o mesmo caso, tendo sido deferida a liminar em 03/1/2023, para que a instância a quo analisasse tanto o pedido de urgência, quanto posteriormente o mérito, decidindo como entendesse de direito. Aliás, referido habeas corpus consta com pedido de informações formulado, além de determinação de oportuna remessa futura ao Ministério Público Federal para parecer. Dessa forma, o presente recurso é mera reiteração do writ anteriormente impetrado.
+Ante o exposto, liminarmente, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
