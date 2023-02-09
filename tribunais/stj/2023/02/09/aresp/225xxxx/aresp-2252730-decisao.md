@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO MARTINS CARDOSO contra decisão que inadmitiu recurso especial com fundamento na ausência de demonstração da ofensa ao art. 561 do CPC, aplicação da Súmula n. 7 do STJ e ausência de realização cotejo analítico conforme exigido pelo Código de Processo Civil.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada que inadmitiu o recurso especial fundamentou-se na ausência de demonstração da ofensa ao art. 561 do CPC, aplicação da Súmula n. 7 do STJ e inexistência da demonstração da divergência jurisprudencial, nos moldes exigidos pelo Código de Processo Civil, pois não teria sido realizado o cotejo analítico.
+Nas razões recursais, porém, a parte agravante deixou de impugnar o ponto correspondente a ausência de cotejo analítico para demonstração do dissídio jurisprudencial, limitou-se a transcrever as razões do recurso especial anteriormente interposto.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 d o CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
