@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido formulado pela defesa de WERLAN VIEIRA DE MOURA para estender os efeitos da decisão que concedeu a ordem de habeas corpus em favor do paciente BRENO MENDONÇA VIEIRA (e-STJ fls. 1404/1424).
+Segundo consta dos autos, " o s Promotores de Justiça do Grupo de Atuação Especial de Combate ao Crime Organizado - GAECO/GO - aduziram que o PIC n. 2022.0025.5741 foi instaurado com o escopo de apurar a existência de uma suposta organização criminosa voltada para a prática dos crimes de fraude à licitação, corrupção ativa e passiva, falsificação de documentos públicos e particulares, lavagem de capitais, dentre outros, em atuação em diversos municípios goianos". A referida investigação foi desencadeada a partir do compartilhamento de provas produzidas no "PIC n.2017.0041.4547 e nas medidas cautelares probatórias n. 5628586-93.2021.8.09.0051 (busca e apreensão) e n. 5630507-87.2021.8.09.0051 (interceptação das comunicações telefônicas e telemáticas com quebra de sigilo de dados telefônicos e telemáticos e afastamento de sigilo de dados bancários e fiscais" (e-STJ fl. 1105/1106).
+No dia 21/10/2022 o Ministério Público requereu a decretação da prisão de vários investigados, entre eles o ora requerente, o deferimento das medidas cautelares de sequestro de bens e valores, busca e apreensão, autorização para acesso aos dados telefônicos dos aparelhos porventura apreendidos, quebra do sigilo de dados bancários e fiscais e compartilhamento de provas. (e-STJ fls. 175/480).
+Os pleitos foram deferidos no dia 01/12/2022 (e-STJ fls. 1104/1375).
+A defesa alega que a situação do requerente é similar à do paciente, inclusive menos gravosa, o que lhe asseguraria igualmente o direito à liberdade, na forma do art. 580 do Código de Processo Penal.
+Diante disso, pede a extensão do benefício nos termos da norma processual penal.
+É o relatório, decido.
+Não há como conhecer do pedido. Isso porque representa reiteração de outro pedido de extensão formulado nos presentes autos (petição n. 01176207/2022) o qual foi indeferido.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, não conheço do pedido de extensão.
+Intimem-se.
