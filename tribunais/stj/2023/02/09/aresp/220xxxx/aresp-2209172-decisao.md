@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido formulado por RAFAEL DOS SANTOS VENTURA à fl. 1.712 (e-STJ) em que requer espaço para sustentação oral por ocasião do julgamento do agravo regimental de fls. 1.706-1.714 (e-STJ).
+Desde já, adianto que não cabe pedido de sustentação oral em sede de julgamento de agravo regimental no agravo em recurso especial.
+Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial.
+Este último é espécie recursal distinta, consoante a diferenciação adotada expressamente pela legislação processual civil - aplicável ao processo penal por força do art. 638 do CPP - no art. 994, VI e VIII, do CPC, e não teve seu regime de julgamento alterado pela novel legislação. O próprio RISTJ também diferencia os dois tipos de recurso, na instituição de suas classes processuais; com efeito, e em sintonia com o CPC, o art. 67, XXIII e XXXIII, do Regimento não deixa dúvidas de que recurso especial (classe processual REsp) e agravo em recurso especial (classe processual AREsp) são meios de impugnação recursal diversos.
+Assim, diante do silêncio legislativo, o agravo em recurso especial continua seguindo a regra do art. 159, IV, do RISTJ, que veda a realização de sustentação oral em seu julgamento. Conclui-se, em resumo, que o agravo regimental no recu rso especial comporta sustentação oral, na forma do art. 7º, § 2º-B, III, da Lei 8.906/1994, o que não é possível no agravo regimental no agravo em recurso especial.
+Com idêntica compreensão, no STF, já decidiu o douto Presidente, Ministro Luiz Fux, no ARE 1.381.324/SC, em decisão disponibilizada no DJe de 21/6/2022; e, neste STJ, os Ministros João Otávio de Noronha (MS 28.692/DF, DJe de 24/6/2022) e Sebastião Reis Júnior (PET no AREsp 1.999.379/SP, DJe de 27/6/2022)" (e-STJ, fls. 5.346-5.347).
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+Após a publicação, voltem os autos conclusos para o j ulgamento do agravo regimental.
