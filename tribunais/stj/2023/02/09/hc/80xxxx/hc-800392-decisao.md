@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNA KELI DA SILVA GOMES - presa preventivamente, pela suposta prática do crime previsto no artigo 33, caput e 35, ambos da Lei n. 11.343/2006 - contra decisão liminar de Desembargador do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.23.014784-5/000).
+Segundo consta dos autos, a paciente está sendo acusada de ser comandante de uma rede de tráfico de drogas, onde fica responsável por receber a droga e entregar aos vendedores.
+Foi decretada a prisão preventiva (e-STJ fls. 277/283). Contra essa decisão, defesa impetrou habeas corpus, com pedido liminar, na Corte estadual, alegando, naquela oportunidade, ser a paciente mãe de duas crianças menores de 12 anos. O Relator da ação na origem indeferiu a liminar (e-STJ fls. 291/293).
+Na presente oportunidade, argumenta a inidoneidade da fundamentação utilizada pelo Magistrado de primeira instância em sua decisão, por ser a paciente mãe de duas crianças de 04 anos e 03 anos de idade, que estão sob sua guarda e integral responsabilidade.
+Assim, requer, em liminar e no mérito, a concessão da liberdade provisória com a aplicação das medidas cautelares previstas no artigo 319 do CPP, tudo com superação do enunciado n. 691/STF.
+É o relatório. Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Ademais, o pedido de substituição da prisão preventiva pela domiciliar, não foi examinada pelo juízo singular, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância." (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/04/2017, DJe 20/04/2017).
+Ainda, é possível observar que o writ não foi instruído corretamente, a defesa não juntou aos autos peças processuais indispensáveis ao atendimento do pleito, a saber, as certidões de nascimento das crianças.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
