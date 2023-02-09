@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AZEVEDO & TRAVASSOS DESENVOLVIMENTO IMOBILIÁRIOS - PROJETO I LTDA, com fundamento na alínea "a" do permissivo constitucional, exclusivamente, contra acórdão do TJ/SP.
+Recurso especial interposto em: 07/06/2022.
+Concluso ao gabinete em: 01/02/2023.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada por DAUREA MARIA DA SILVA RODRIGUES em face do recorrente, em razão de atraso na entrega de imóvel e vícios de construção.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para: a) condenar a ré a restituir à autora o valor pago referente à taxa de condomínio no valor de R$ 1.680,00, corrigido a contar do vencimento de cada parcela e com incidência de juros de mora a partir da citação; b) condenar a ré ao pagamento de danos materiais referente aos vícios de construção na unidade habitacional da autora no valor de R$ 4.450,65, corrigido a contar de março de 2018 e com incidência de juros de mora a partir da citação; c) condenar a ré ao pagamento de lucros cessantes, desde a mora da ré (respeitada a tolerância de 180 dias) até a efetiva entrega de chaves, estes fixados em 0,5% ao mês sobre o preço atualizado pago pelo imóvel (constante no compromisso de compra e venda), corrigido a contar do evento e com incidência de juros de mora a partir da citação; d) condenar a ré ao pagamento de compensação por danos morais, no valor de R$ 10.000,00, corrigido a partir da prolação da sentença e acrescidos de juros de mora a partir de fevereiro de 2015.
+Acórdão: deu provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA - Atraso na conclusão da obra - Ausência de caso fortuito ou força maior - Lucros cessantes devidos independentemente da valorização que sofreu o imóvel, ou da destinação que se pretendia dar ao bem, para uso próprio ou familiar, locação ou comodato, e que não foi possível, unicamente pela privação da coisa, no período da mora Inteligência das Súmulas 160, 161 e 162 do TJSP - Taxa condominial devida pelo adquirente somente a partir da entrega das chaves - Reembolso devido - Vícios construtivos comprovados, devendo ser indenizados - Recurso desprovido.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 393, 402 e 884 do CC.
+Alega que não pode responder pelos prejuízos resultantes de caso fortuito ou força maior; que não há que falar em vícios de construção, porquanto não foram apontadas quaisquer irregularidades no imóvel na vistoria realizada; que a recorrida optou por quitar o seu saldo devedor com recursos advindos de financiamento imobiliário com a CEF, tendo assinado o contrato somente em 15/04/2013 e efetuado a quitação do saldo devedor em 28/05/2013, enquanto que o Habite-se foi expedido em maio de 2012, não existindo, nesse período de tempo, qualquer empecilho por parte da recorrente para postergação da assinatura do contrato; e que não há que falar em lucros cessantes, já que o imóvel em questão foi adquirido com fins exclusivos de moradia, não tendo a recorrida comprovado que deixou de lucrar alguma coisa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 393, 402 e 884 do CC, indicados como violados, apesar da oposição dos embargos de declaração, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+- Do reexame de fatos e provas
+Ainda que fosse superado óbice acerca da ausência de prequestionamento, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ausência de caso fortuito ou força maior e quanto à existência de vícios de construção, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da existência de fundamento não impugnado
+Além disso, constata-se, da leitura das razões recursais, que a recorrente não impugnou os seguintes fundamentos utilizados pelo TJ/SP:
+"(..) o atraso da ré a partir de 30/05/2012 restou comprovado, uma vez que, apesar do "habite-se" ter sido emitido em 05/10/2012, as chaves a adquirente só foram entregues em 20/06/2013, não havendo prova nos autos de que tenha ocorrido a mora por conta da adquirente, cujo ônus era da embargante, razão pela qual são devidos os lucros cessantes referentes ao período da mora.
+Consoante o inciso II do § 3º do art. 14 do CDC somente a culpa "exclusiva" do consumidor eximiria a responsabilidade da embargante, uma vez que a incerteza acerca da data da entrega do imóvel, com o atraso no habite-se, impossibilitou a prévia atuação da compradora para a obtenção e liberação do financiamento, para o qual é indispensável a regularidade da documentação do empreendimento e da vendedora, independentemente da mera conclusão das obras." (e-STJ fls. 966/967)
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Da Súmula 568/STJ
+Por fim, no tocante aos lucros cessantes, o TJ/SP aplicou corretamente a jurisprudência do STJ no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador (EREsp 1.341.138/SP, 2ª Seção, DJe de 22/5/2018).
+Portanto, nos termos da Súmula 568/STJ, não merece reforma o acórdão recorrido.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADIMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. SÚMULA 568/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente da Segunda Seção do STJ.
+6. Recurso especial parcialmente conhecido e, nessa parte, não provido.
