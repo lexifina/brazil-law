@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KOSMOS INCORPORAÇÕES LTDA. (KOSMOS) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, de relatoria do Des. AMÍLCAR MAIA, assim ementado:
+APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA. CONCESSÃO DA GRATUIDADE DA JUSTIÇA. INSTRUMENTO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. INCIDÊNCIA DO CDC. RESCISÃO POR CULPA EXCLUSIVA DA PROMITENTE VENDEDORA. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO COM A CAIXA ECONÔMICA FEDERAL. EMPRESA PÚBLICA QUE ATUA NA CONDIÇÃO DE MERO AGENTE FINANCIADOR DE IMÓVEL DO PROGRAMA MINHA CASA MINHA VIDA. PACTO NEGOCIAL. CLÁUSULA CONTRATUAL ABUSIVA QUE CONDICIONA O INÍCIO DA CONTAGEM DO PRAZO DE ENTREGA DO IMÓVEL À ASSINATURA DE CONTRATO DE FINANCIAMENTO BANCÁRIO. SÚMULA 36 DESTE TRIBUNAL ESTADUAL. IMÓVEL NÃO CONSTRUÍDO. RESCISÃO QUE SE IMPÕE JUNTAMENTE COM A DEVOLUÇÃO RECURSO INTEGRAL E IMEDIATA DOS VALORES PAGOS. SÚMULA 543 DO STJ. CONHECIDO E EM PARTE PROVIDO (e-STJ, fl. 352).
+Irresignada, KOSMOS interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação ao art. 114 do NCPC, ao sustentar a necessidade da formação de litisconsórcio passivo necessário com a Caixa Econômica Federal (CEF), com quem foi celebrado o contrato de financiamento do imóvel e incumbia a gestão dos recursos.
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio Grande do Norte (e-STJ, fls. 390/392).
+Nas razões do presente agravo, KOSMOS alegou ter impugnado todos os fundamentos da decisão de inadmissibilidade.
+F oi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da formação de litisconsórcio passivo necessário com a CEF
+Nas razões do recurso especial, KOSMOS sustentou a necessidade da formação de litisconsórcio passivo necessário com a CEF, com o consequente reconhecimento da competência da Justiça Federal para o julgamento da causa.
+O TJRN, ao analisar essa questão, assim se pronunciou:
+Quanto ao ingresso da Caixa Econômica Federal na demanda na condição de litisconsorte passiva, as razões do recurso não merecem provimento, eis que, tanto a jurisprudência do STJ quanto a desta Corte Estadual caminham no sentido de que a atuação da referida pessoa jurídica na condição de mero agente financiador de unidade habitacional, não a legitima para responder pelo descumprimento contratual relativo ao atraso na entrega do imóvel adquirido com recursos destinados ao Programa Minha Casa Minha Vida.
+ ..
+Portanto, não há que se falar em litisconsórcio passivo da Caixa Econômica Federal para responder, juntamente com a apelante, pela rescisão do contrato firmado para compra de unidade residencial financiado pelo Programa Minha Casa Vida (e-STJ, fls. 355/357).
+Da leitura dos fundamentos acima transcritos, verifica-se que o Tribunal potiguar concluiu que, no caso, a CEF agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a aquisição do imóvel firmado com a ora recorrente, não podendo, por isso, responder pelo descumprimento do contrato quanto ao prazo previsto para a entrega da obra.
+Desse modo, a revisão do julgado encontra óbice nas Súmulas nºs 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS ALEGADAS. SÚMULA 211 DO STJ. ILEGITIMIDADE E IRRESPONSABILIDADE DA CEF PARA RESPONDER PELAS PRETENSÕES DE DANOS MATERIAIS E MORAIS. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias previstas no art. 9º da Lei nº 11.977/2009, art. 25, § 1º,
+do Código de Defesa do Consumidor, art. 933, do Código de Processo Civil, e art. 724 do Código Civil, não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias de que a atuação da Caixa Econômica Federal no negócio jurídico cingiu-se ao financiamento do imóvel e, nessa condição de agente financeiro, apenas possibilitou a aquisição do bem mediante a concessão do crédito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3.  ..  4. Agravo interno não provido.
+(AgInt no REsp 1.801.437/RN, Rel. MInistro LUIS FELIPE SALOMÃO, Quarta Turma, j. 13/12/2021, DJe 15/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO PELO PROGRAMA MINHA CASA MINHA VIDA (PMCMV). ATUAÇÃO DA CEF. MERO AGENTE FINANCEIRO (SÚMULAS 5 E 7/STJ). DESCABIMENTO DA TESE DA NECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO E DE ATRAÇÃO DA COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. AUSÊNCIA DE PRORROGAÇÃO DO PRAZO DE ENTREGA. INEXISTÊNCIA DE EXCLUDENTES DE ILICITUDES. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o acórdão estadual, a Caixa Econômica Federal (CEF) teria agido no contrato como agente financeiro, ou seja, como mera credora fiduciária, sendo desnecessária a sua participação nos autos por completa ausência de interesse, pois em discussão atos que não condizem com a sua responsabilidade. Essas conclusões foram fundadas na apreciação de fatos, provas e termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ.
+2. A CEF "somente tem legitimidade passiva para responder por vícios, atraso ou outras questões relativas à construção de imóveis objeto do Programa Habitacional Minha Casa Minha Vida se, à luz da legislação, do contrato e da atividade por ela desenvolvida, atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, sendo parte ilegítima se atuar somente como agente financeiro. Súmula nº 83/STJ" (AgInt no REsp 1.646.130/PE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/8/2018, DJe 4/9/2018).
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.494.052/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 29/3/2021, DJe 6/4/2021.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESTITUIÇÃO DE VALORES. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A CEF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA FÁTICA. DESCABIMENTO. APLICAÇÃO DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
