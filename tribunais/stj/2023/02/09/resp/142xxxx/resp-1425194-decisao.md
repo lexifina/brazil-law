@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão prolatado, por unanimidade, pela 5ª Turma do Tribunal Regional da 4ª Região, assim ementado (fl. 272e):
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO/ CONTRIBUIÇÃO. DECADÊNCIA. TERMO INICIAL.
+1. Não tendo sido discutido o reconhecimento do tempo de serviço postulado por ocasião da concessão administrativa, não ocorreu decadência, havendo incidência apenas, em tese, da prescrição, a qual é objeto do parágrafo único do artigo 103 da Lei 8.213/91, e que atinge apenas as parcelas vencidas há mais de cinco anos.
+2. Comprovado o exercício de atividades urbanas somadas aos intervalos já reconhecidos na órbita administrativa pelo INSS, assegura-se à parte autora o direito à revisão do benefício de aposentadoria por tempo de serviço proporcional, a contar da data do requerimento administrativo.
+Opostos embargos de declaração, foram rejeitados (fls. 286/289e).
+Em sede de juízo de conformidade a decisão foi mantida consoante ementa de seguinte teor (fl. 366e):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO EM FACE DE DECISÃO PARADIGMÁTICA. MANUTENÇÃO DO RESULTADO DO JULGAMENTO. DECADÊNCIA DO DIREITO DE REVISÃO - INOCORRÊNCIA. PRAZO DE DEZ ANOS A PARTIR DA MP 1.523- 9/1997. NÃO ULTRAPASSADO.
+1. O prazo decadencial de 10 (dez) anos, instituído pela Medida Provisória 1.523, de 28-6-1997, inicia-se a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação.
+2. Não transcorrido o prazo decadencial entre o pagamento da primeira prestação e o ajuizamento da ação, não é caso de aplicação do Tema STJ nº 975.
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i. Arts 535 do Código de Processo Civil - "não apreciou a tese levantada pela autarquia previdenciária da prescrição no caso concreto, mesmo sendo matéria de ordem pública. Dessa forma, não apreciou também o E. Tribunal a quo o sentido e alcance do art. 103, § único, da Lei nº 8.213/91; art. 193 do Código Civil e art. 219, § 5º, do CPC." (fl. 298e); e
+ii. Arts. 103, § Único da Lei n. 8.213/1991 e 191 do Código Civil e 219, § 5º Código de Processo Civil- deve ser reconhecida a prescrição das parcelas devidas nos 5 (cinco) anos anteriores ao ajuizamento da ação.
+Com contrarrazões (fls. 308/322e), o recurso foi admitido (fls.377/378e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput e § 1º-A, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, bem como a dar provimento ao recurso se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior.
+Reconheço configurado o prequestionamento das teses apresentadas, razão pela qual afastada a alegada violação aos arts. 11, 489 e 1.022 do CPC.
+No caso, verifico que o acórdão recorrido adotou entendimento contrário ao pacificado nesta Corte segundo o qual o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, não sendo atingido pela prescrição de fundo de direito, porquanto objeto de relação de trato sucessivo e de natureza alimentar, incidindo a prescrição somente sobre as parcelas vencidas antes do quinquênio anterior à propositura da ação, conforme julgados assim ementados:
+RECURSO EXTRAODINÁRIO. DIREITO PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO. DECADÊNCIA.
+1. O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário. 2. É legítima, todavia, a instituição de prazo decadencial de dez anos para a revisão de benefício já concedido, com fundamento no princípio da segurança jurídica, no interesse em evitar a eternização dos litígios e na busca de equilíbrio financeiro e atuarial para o sistema previdenciário. 3. O prazo decadencial de dez anos, instituído pela Medida Provisória 1.523, de 28.06.1997, tem como termo inicial o dia 1º de agosto de 1997, por força de disposição nela expressamente prevista. Tal regra incide, inclusive, sobre benefícios concedidos anteriormente, sem que isso importe em retroatividade vedada pela Constituição. 4. Inexiste direito adquirido a regime jurídico não sujeito a decadência. 5. Recurso extraordinário conhecido e provido.
+(RE 626.489, Relator: Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 16/10/2013, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-184 DIVULG 22-09-2014 PUBLIC 23-09-2014 - destaques meus).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/1993 E LEI 10.741/2003. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem se manifestado recentemente no sentido de afastar a prescrição do fundo de direito quando em discussão direito fundamental a benefício previdenciário.
+2. A garantia à cobertura pelo sistema previdenciário traduz inequívoca proteção à manutenção da vida digna. Conforme precedente do STF (RE 626.489/SE), julgado em repercussão geral, o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua qualquer consequência negativa à inércia do beneficiário.
+3. Nas ações ajuizadas com o objetivo de obter benefício previdenciário, relação de trato sucessivo e de natureza alimentar, a prescrição incide apenas sobre as prestações vencidas antes do quinquênio anterior à propositura da ação, não ocorrendo a chamada prescrição do fundo de direito, nos termos da Súmula 85/STJ.
+Precedentes do STJ.
+4. Recurso Especial do particular provido. Recurso Especial do INSS não provido.
+(REsp 1.503.292/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/03/2015, DJe 31/03/2015 - destaques meus).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/1993 E LEI 10.741/2003. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+(..)
+4. Relativamente à ocorrência ou não da prescrição do fundo de direito, parte-se da definição de que os benefícios previdenciários estão ligados ao próprio direito à vida e são direitos sociais que compõem o quadro dos direitos fundamentais.
+5. A pretensão ao benefício previdenciário em si não prescreve, mas tão somente as prestações não reclamadas em certo tempo, que vão prescrevendo uma a uma, em virtude da inércia do beneficiário. Inteligência do parágrafo único do art. 103 da Lei 8.213/1991.
+6. Recurso especial conhecido mas não provido.
+(REsp 1.349.296/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/02/2014, DJe 28/02/2014 - destaques meus).
+Posto isso, com fundamento no art. 557, caput e § 1º-A, do Código de Processo Civil, DOU PARCIAL PROVIMENTO ao Recurso Especial para declarar a prescrição quinquenal das parcelas, nos termos da fundamentação .
+Publique-se e intimem-se.
