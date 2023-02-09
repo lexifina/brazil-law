@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos em benefício de JACKSON SEVERINO DA SILVA, contra decisão monocrática, que indeferiu liminarmenteo habeas corpus, impetrado contra o acórdão proferido pelo eg. Tribunal de Justiça do Estado de Pernambuco.
+Nas razões dos embargos, o embargante sustenta que: "disse o colegiado coator que o réu assumiu o risco de matar - criando a hipótese casuística (tipicidade) do dolo eventual (elemento essencial do crime) NÃO disposta nem na denúncia, nem na pronúncia, nem nos quesitos postos ao conselho de Sentença. Daí a nulidade, daí o bom direito, daí a teratologia do caso concreto, daí o pleito de concessão de ofício do átrio, ao clarão do Art. 654, II do CPP. "
+Postula, ao final, sejam sanadas as alegadas contradições e omissões, dando provimento aos embargos, concedendo-lhes efeitos modificativos (fls. 439-441).
+É o relatório.
+Decido.
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+O parágrafo 1º, do art. 264, do RISTJ, por sua vez, dispõe que: "Os embargos de declaração serão incluídos em pauta, salvo se opostos nas classes previstas no art. 91 deste Regimento ou nas demais classes criminais. § 1º Se os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal, o Órgão Julgador da decisão embargada decidi-los-á monocraticamente."
+O embargante sustenta que: "mas ao nulo azo de aplicar o concurso formal impróprio, repito, por inovação - disse o colegiado coator que o réu assumiu o risco de matar - criando a hipótese casuística (tipicidade) do dolo eventual (elemento essencial do crime) NÃO disposta nem na denúncia, nem na pronúncia, nem nos quesitos postos ao conselho de Sentença. Daí a nulidade, daí o bom direito, daí a teratologia do caso concreto, daí o pleito de concessão de ofício do átrio, ao clarão do Art. 654, II do CPP. "
+À vista disso, no que se refere à alegada insurgência do embargante, tenho que não houve contradição no decisum.
+Conforme consta na decisão ora embargada, o Tribunal de origem não exerceu qualquer juízo de cognição acerca da aventada nulidade do feito. Nesse diapasão, considerando que dita insurgência sequer foi pleiteada oportunamente na origem, esta Corte fica impedida de examinar diretamente a quaestio, sob pena de incorrer em indevida supressão de instância.
+Destarte, não houve contradição no decisum, de modo que demais ilações a respeito da insurgência da embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com o instrumento dos declaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
