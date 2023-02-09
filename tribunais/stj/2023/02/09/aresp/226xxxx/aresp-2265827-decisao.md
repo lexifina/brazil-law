@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por B Z e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS E MATERIAIS. INTERCORRÊNCIA DE CIRURGIA DE HÉRNIA. MORTE DO PACIENTE. ATO ILÍCITO. NÃO CONFIGURAÇÃO.
+No caso em exame, os elementos de prova carreados aos autos não indicam a presença de erro médico, de culpa ou de falha de serviço. A cirurgia era necessária e as consequências ocorreram em face das circunstâncias apresentadas pelo paciente. O perito não referiu a presença de erro médico.
+Sendo assim, diante desses elementos, sem a demonstração de culpa ou de falha técnica, não há motivo para responsabilizar os demandados. Apelo provido.
+Quanto à controvérsia trazida aos autos, pela alínea "a" do permissivo constitucional, alega violação do art. 371 do Código de Processo Civil, no que concerne à ocorrência de erro médico que caracteriza o dever de indenizar, conforme os elementos de prova constantes dos autos, trazendo os seguintes argumentos:
+Os recorrentes, na qualidade de companheira e filho de C. A. Z., falecido em 24/11/2007, ajuizaram a presente ação postulando o pagamento de indenização pelos danos patrimoniais, lucros cessantes, danos emergentes e danos morais, tendo em vista erro médico cometido pelo recorrido, em cirurgia realizada no dia 14/10/2007 no hospital Irmandade da Santa Casa de Caridade de Alegrete, que evoluiu para infecção generalizada que causou falência múltipla de seus órgãos, acarretando na morte do paciente, Sr. C. A. Z..
+ ..
+O Douto Desembargador, ao dar provimento ao apelo a fim de reconhecer a improcedência da demanda, por entender que os elementos de prova carreados aos autos não indicam a presença de erro médico, de culpa ou de falha de serviço, incorreu em grave equívoco.
+ ..
+Portanto, evidenciado está Excelências, que o que ocorreu no caso em tela foi um erro médico, inclusive, tomaram os recorrentes conhecimento desta situação através de uma enfermeira lotada no próprio hospital demandado, a qual relatou que o recorrido teria na verdade "perfurado" o estômago do falecido.
+ ..
+No caso concreto, restou claramente demonstrado através dos documentos acostados com a exordial, e da prova pericial produzida, que as complicações que levaram o paciente ao óbito foram decorrentes de erro médico em cirurgia realizada pelo recorrido.
+Nestes termos, necessário se faz o acolhimento e provimento do presente recurso, devendo ser revogado o acórdão proferido, mantendo-se a sentença proferida pelo juízo de primeiro grau, tendo em vista que restou demonstrada a ocorrência de erro médico cometido pelo recorrido, que ocasionou a morte do paciente, companheiro e pai dos recorrentes. (fls. 1.311-1.315).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A situação exposta nos autos não indica a presença de erro ou de falha do profissional, do médico. Os serviços executados - intervenções cirúrgicas para tratamento de hérnias - não são de resultado, mas de cuidado e adoção da técnica adequada.
+O perito não encontrou sinais de erro médico. E isso é muito importante para a solução da demanda. É a prova técnica sobre o trabalho desenvolvido pelo profissional.
+Verifica-se que as cirurgias realizadas eram necessárias e no momento não era possível impedir as intercorrências. Além disso os procedimentos que se seguiram ao primeiro ato cirúrgico se mostraram necessários para até mesmo preservar a saúde do demandante, que apresentou complicações próprias.
+No caso em julgamento, os elementos de prova não indicam a presença de erro ou de falha no atendimento pelo médico ou pelo hospital. A perícia realizada, bem como as demais provas colacionadas, afastam a existência de defeito de serviço ou erro médico. Na conclusão o expert explicitou:
+ ..
+Não se desconhece sobre os problemas da parte. Contudo, a dificuldade no tratamento e, principalmente, as consequências dele decorrentes, não devem ser atribuídas ao médico, em especial, porque inexistiu o erro, o defeito.
+Foram realizados os exames pré operatórios, inexistindo qualquer intercorrência que obstasse a realização da cirurgia. O paciente era tabagista e alcoolista, tendo realizado a cirurgia para a correção da hérnia e posteriormente outra para drenar líquido em sua pelve, decorrente de uma pancreatite. Após, os familiares decidiram removê-lo para o Hospital da Ulbra, em Canoas, tendo sofrido mais uma intervenção cirúrgica, agora com a retirada do estômago e esôfago.
+Neste hospital fora realizado um exame anatomopatológico (Evento 3 - PROCJUDIC1 - fl. 27) em que restou configurada a presença de uma úlcera profunda, concluindo apresentar o paciente "úlcera péptica perfurada com peritonite aguda", apresentada após a transferência do paciente de Alegrete para Canoas.
+O paciente sofreu quatorze cirurgias, sendo doze no hospital de Canoas, vindo a óbito no dia 24-11-2007 em consequência de "disfunção de múltiplos órgãos e sistema e choque séptico".
+Pelo conjunto probatório verifica-se que o autor, enquanto sob os cuidados do ora apelante, apresentava tão somente um quadro de pencreatite, tendo desenvolvido após sua transferência as demais patologias que culminaram em sua morte.
+A responsabilidade do médico, como regra geral, exige a prova da culpa, a teor do art. 951 do CC e art. 14, § 4º, do CDC.
+ ..
+A evolução do quadro clínico do paciente, a partir da intervenção médica, não obedece sempre a uma fórmula preestabelecida, nem é sempre igual. O organismo pode reagir de forma inesperada, negativa ou adversa, comprometendo o resultado almejado. Na verdade, o elemento imprevisível ou desconhecido é uma realidade no momento atual.
+ ..
+Não basta a simples alegação da parte. Apesar do sofrimento pelo qual passou a pessoa, o erro ou o mau proceder deve ser revelado pelos elementos de prova. Do contrário, o pedido de indenização deve ser negado.
+A condição humana, que está sujeita a doenças e dificuldades de recuperação, e as limitações no tratamento médico, devem ser levadas em consideração no julgamento de demandas judiciais.
+No caso dos autos, como aludido acima, o resultado deve-se a infortúnio, mas não pode ser imputado a parte ré.
+Todos nós esperamos mais. Desejamos que o paciente seja diagnosticado de imediato e obtenha melhora. Entretanto, não é essa a realidade. O sucesso do tratamento e a total recuperação do paciente não são controlados pela ciência na atualidade. Assim, o resultado não deve ser exigido.
+Dessa forma a improcedência da demanda é medida que se impõe. (fls. 1.294-1.298, grifos meus)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
