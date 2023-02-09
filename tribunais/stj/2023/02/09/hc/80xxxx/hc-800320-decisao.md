@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Fabio Glicerio Rodrigues - preso preventivamente e denunciado pela prática, em tese, dos crimes de participação em organização criminosa e associação para o tráfico de drogas majorada -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2202429-53.2022.8.26.0000), que denegou a ordem ali impetrada, mantendo a segregação cautelar imposta pelo Juízo de Direito da 4ª Vara Criminal da comarca de Sorocaba/SP (Autos n. 1503837-60.2022.8.26.0602).
+Alegam os impetrantes, além de insuficiência de indícios de autoria, a ausência de justa causa para o decreto de prisão, uma vez que o paciente já teve passagens criminais, mas está há muito, mas há muito tempo reabilitado, trabalhando de forma honesta e proba, como uma pessoa do bem, sendo desnecessário mencionar o seu passado que para o acusado já morreu a muito tempo - Hoje tem uma vida digna como cidadão do bem, honesto - não devendo nada para o Estado (fls. 8/9).
+Postulam, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+É o relatório.
+O presente writ não comporta acolhimento.
+Isso porque, primeiramente, não cabe, na via estreita do habeas corpus, alcançar conclusão inversa dos órgãos de investigação, no sentido da inexistência de indícios de autoria em relação ao acusado.
+Depois, porque, do atento exame dos autos, verifica-se que foram demonstrados elementos concretos a denotar a necessidade da prisão para a garantia da ordem pública, pois se trata de suposto integrante de facção criminosa de alta periculosidade, despontando o denunciado como integrante do terceiro núcleo, formado por elementos de destaque no organograma dessa organização criminosa, os chamados sintonias, detentores de atribuições relacionadas ao comando das atividades e ao controle dos seus membros (fl. 1.568).
+Este Superior Tribunal tem reiteradamente decidido ser idônea fundamentação consubstanciada na necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, para fins de imposição da medida extrema de privação da liberdade (HC n. 711.304/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/12/2022).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADA. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DOS INDÍCIOS DE AUTORIA E DE FUNDAMENTAÇÃO. VIA ELEITA INADEQUADA PARA DESCONSTITUIR AS CONCLUSÕES DOS ÓRGÃO DE INVESTIGAÇÃO E ACUSAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETO S. ACUSADO APONTADO COMO INTEGRANTE DO NÚCLEO COM PODER DE DECISÃO E LIDERANÇA NO SUPOSTO GRUPO CRIMINOSO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
