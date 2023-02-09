@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) não ocorrência de violação dos arts. 1.022 e 489, do CPC; e (II) a incidência da Súmula 83/STJ, pois o aresto recorrido está alinhado com a jurisprudência do STJ, com relação às seguintes teses: (II.a) " ..o filho inválido tem direito à pensão independentemente da idade em que ficou inválido, sendo necessária a comprovação de que a invalidez é anterior ao óbito do instituidor do benefício." (fl. 393); (II.b) possibilidade de cumulação de pensão por morte com aposentadoria por invalidez.
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, os seguintes fundamentos: (I) não ocorrência de violação dos arts. 1.022 e 489, do CPC; e (II) a incidência da Súmula 83/STJ, pois o aresto recorrido está alinhado com a jurisprudência do STJ, no sentido da possibilidade de cumulação de pensão por morte com aposentadoria por invalidez.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
