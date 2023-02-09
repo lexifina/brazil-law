@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VALDECI PEREIRA DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, proferido no julgamento do Recurso em Sentido Estrito n. 0001738-15.2021.8.27.2700.
+O impetrante sustenta que o ora paciente foi pronunciado pela prática do delito de homicídio qualificado (art. 121, § 2º, II, do Código Penal). Entretanto, "a pronúncia e o respectivo Acórdão que a confirmou se basearam única e exclusivamente em testemunha de ouvir dizer, bem como em elemento produzido somente em inquérito policial." (fl. 4)
+Requer, em liminar, a suspensão da sessão de julgamento designada para o dia 13 de setembro de 2022 e, no mérito, a nulidade da decisão de pronúncia.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 50/56).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, conforme relatado, a defesa aponta a existência de nulidade na pronúncia do paciente, tendo em vista que estaria embasada em testemunho indireto e elementos de informação produzidos na fase inquisitorial.
+Entretanto, verifica-se, de acordo com as informações constantes no site do Tribunal a quo (Proc. n. 0004486-70.2019.8.27.2706), que houve o superveniente julgamento pelo plenário do júri, o qual concluiu pela condenação do ora paciente.
+Ressalte-se que a jurisprudência desta Corte entende que o a superveniência de sentença penal condenatória prejudica a pretensão de exame de eventual nulidade na decisão de pronúncia. Embora este posicionamento possa ser relativizado quando a sentença se funde apenas em elementos inválidos da decisão de pronúncia, esta não é a hipótese dos autos, tendo em vista que a condenação do paciente contou, inclusive, com a sua confissão como elemento de prova.
+Sobre o tema, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CRIMES DE HOMICÍDIO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA MAJORADA. DECISÃO DE PRONÚNCIA. NULIDADE. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. EXAME PREJUDICADO. PENDÊNCIA DE JULGAMENTO DO RECURSO DE APELAÇÃO DEFENSIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos Tribunais Superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Ademais, após a decisão de pronúncia, o agravante foi submetido a julgamento pelo Conselho de Sentença, o que resultou na sua condenação, tal como referido na denúncia. Nesse caso, a superveniência do édito condenatório torna prejudicada a pretensão de exame de eventual nulidade na decisão de pronúncia.
+ ..
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 696.237/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/8/2022, DJe de 30/8/2022).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. CRIME DE HOMICÍDIO QUALIFICADO. PRONÚNCIA E SUPERVENIENTE CONDENAÇÃO BASEADAS, APENAS, EM DEPOIMENTOS COLHIDOS EM JUÍZO DE TESTEMUNHAS AURICULARES. NÃO PRODUÇÃO DE OUTROS ELEMENTOS DE PROVA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Precedentes: STF, HC 147.210-AgR, Rel. Ministro EDSON FACHIN, DJe de 20/2/2020; HC 180.365AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC 170.180-AgR, Relatora Ministra CARMEM LÚCIA, DJe de 3/6/2020; HC 169174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC 172.308-AgR, Rel. Ministro LUIZ FUX, DJe de 17/9/2019 e HC 174184-AgRg, Rel. Ministro LUIZ FUX, DJe de 25/10/2019. STJ, HC 563.063-SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC 323.409/RJ, Rel. p/ acórdão Ministro FELIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; HC 381.248/MG, Rel. p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção , julgado em 22/2/2018, DJe de 3/4/2018.
+2. Conforme orientação jurisprudencial desta Corte Superior, a superveniência de sentença penal condenatória pelo Tribunal do Júri, em regra, prejudica o exame de eventual nulidade da sentença de pronúncia. Entretanto, excepcionalmente, admite-se o exame de eventual nulidade da pronúncia, mesmo diante da superveniência de condenação, quando esta for baseada, apenas, em elementos da pronúncia que não são admitidos pelo ordenamento jurídico pátrio.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para anular o julgamento pelo Tribunal do Júri, bem como para despronunciar HUNDERLAN RODRIGUES DE JESUS SILVA e AIRTON DE MESQUITA, sem prejuízo de formulação de nova denúncia, nos termos do art. 414, parágrafo único, do Código de Processo Penal, revogando, ainda, a prisão dos acusados nos autos n. 0024448-80.2009.8.06.0001 e n. 0040753-95.2016.8.06.0001.
+(HC n. 688.594/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021).
+Ante o exposto, não conheço do habeas corpus .
+Publique-se.
+Intimem-se.
