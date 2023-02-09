@@ -1,0 +1,14 @@
+DECISÃO
+FERNANDO QUINTO OLIVEIRA GONÇALVES ROCHA TOLENTINO alega sofrer coação ilegal em decorrência de acórdão proferido pela Corte local.
+A defesa pretende o trancamento da Ação Penal n. 5001631-72.2022.8.13.0166, em trâmite no Juízo da Vara Única da Comarca de Cláudio, em favor do paciente, vereador, contra quem Reginaldo de Freitas Santos, Prefeito da cidade, noticia a prática de condutas tipificadas nos arts. 138, 139 e 140, todos do Código Penal.
+Salienta a ausência de justa causa para o prosseguimento da ação penal, "porquanto aos vereadores é assegurada imunidade parlamentar material, que diz respeito à inviolabilidade por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município, nos termos do art. 29, VIII, da CR/88".
+Alega que a decisão liminar proferida pelo Juízo de Direito - que determinou a retirada dos vídeos publicados é manifestamente ilegal - "porque determina ao paciente a retirada do vídeo de um perfil da rede social Facebook que não lhe pertence  e  porque restringe ilegalmente o exercício do mandato do parlamentar, ao determinar que "se abstenha de promover qualquer outra publicação de vídeo ou matéria pejorativa à pessoa do querelante, ou autorizar terceiro a fazê-lo".
+Requer a concessão da ordem para determinar o trancamento da ação penal, por ausência de justa causa, bem como seja revogada a decisão liminar proferida.
+Decido.
+O writ não pode ser conhecido.
+A Corte local, embora tenha denegado a ordem, de fato, não conheceu do writ, visto que entendeu pela deficiência de instrução, bem como pelo não cabimento de habeas corpus para tutelar direito que não seja de locomoção.
+Com efeito, com razão o Tribunal de origem, ao concluir pela impossibilidade de analisar a decisão que determinou a retira de videos na internet, sob o argumento de "que o Habeas Corpus, como garantia individual, é um remédio jurídico destinado a tutelar a liberdade física do indivíduo, consagrado no art. 5º, LXVIII, da Constituição Federal, sendo que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Por fim, o acórdão impugnado ressaltou que "os impetrantes não cuidaram de trazer aos autos quaisquer elementos comprobatórios da apontada ilegalidade, de sorte que sequer anexaram, à impetração, cópia dadecisão que deu início à persecução penal", conlcuindo pela impossibilidade de analisar o pedido de trancamento da ação.
+Portanto, considerando que a Corte local não analisou a tese defensiva - por deficiência de instrução -, evidencia-se a impossibilidade de conhecer-se da impetração, sob pena de vedada supressão de instância.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
