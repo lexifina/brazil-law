@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+ADMINISTRATIVO. PROCESSO SELETIVO PARA INGRESSO AOS CURSOS TÉCNICOS INTEGRADOS AO NÍVEL MÉDIO. DOCUMENTO DE IDENTIFICAÇÃO COM FOTO NÃO APRESENTADO. CENÁRIO DE PANDEMIA DO CORONAVÍRUS. PRINCÍPIO DA RAZOABILIDADE. RECURSO DESPROVIDO.
+1 - O impetrante foi aprovado no processo seletivo para ingresso no Curso Técnico Integrado ao Ensino Médio, do Instituto Federal de Educação, Ciência e Tecnologia Fluminense, tendo, no entanto, sua matrícula indeferida, por não ter cumprido a exigência, constante do edital, de apresentação de documento oficial de identidade com foto.
+2 - O ordenamento jurídico pátrio adota, em tema de processo seletivo público, o princípio da vinculação ao instrumento convocatório, sendo o edital um ato vinculante tanto para a administração pública quanto para os candidatos que se submetem ao certame, de forma que todos devem observaras regras ali estabelecidas.3 - Ademais, não cabe ao poder judiciário interferir nos critérios de conveniência e oportunidade adotados pela administração na elaboração do processo seletivo público e na definição dos requisitos necessários para o preenchimento de suas vagas, podendo haver controle jurisdicional, entretanto, quanto à observância dos princípios, valores e regras legais e constitucionais.
+4 - O edital nº 51/21, que regulou o processo seletivo em questão, previu que, para realização da inscrição, o candidato deveria possuir documento oficial de identificação com foto, não podendo utilizar documentos oficiais de identificação de terceiros.
+5 - Embora o impetrante não tenha cumprido a exigência prevista no edital do processo seletivo, vislumbra-se que, no caso, há particularidades que permitem sopesar os princípios da vinculação ao edital e da isonomia com o princípio da razoabilidade.
+6 - Nessa linha, diante do cenário de pandemia do coronavírus, diversos postos de identificação, quando da impetração do mandado de segurança, encontravam-se com as atividades suspensas, oque impossibilitava, ou ao menos dificultava, a confecção de documentos.
+7 - Dos documentos carreados aos autos, verifica-se que o posto do Departamento Estadual de Trânsito - DETRAN do local de residência do impetrante - órgão responsável pela emissão da carteira de identidade no Estado do Rio de Janeiro - estava com a atividade suspensa, o que foi corroborado pelas informações constantes do sítio eletrônico do próprio órgão emissor.
+8 - Portanto, ainda que possível a emissão da carteira de identidade por menores de idade, nos termos do estabelecido pelo Decreto nº 9.278/18, não parece razoável limitar, no caso, o exercício do direito fundamental à educação, em razão da excepcional dificuldade na emissão do referido documento, imposta pela pandemia.
+9 - Há nos autos, também, documento que indica que a flexibilização da apresentação da carteira de identidade, em razão da suspensão das atividades presenciais nos institutos de identificação durante a pandemia, foi, inclusive, adotada no Exame Nacional do Ensino Médio - ENEM do ano de 2020.
+10 - Remessa necessária e recurso de apelação desprovidos.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 44, II, 53, 9.394/1996; 41 da Lei 8.666/1993; 296, 300, 302 e 493 do CPC/2015. Alega:
+No presente caso, verifica-se que, a despeito dos argumentos deduzidos, inexiste direito líquido e certo a ser acolhido. Com efeito, resta inconteste a conclusão de que não o recorrido não tinha o certificado de conclusão do ensino médio no momento da matrícula.
+(..)
+Portanto, não atentou o Desembargador Federal Relator para a hipótese de não haver qualquer comprovação de que o recorrido tenha, efetivamente, concluído o curso, o que demonstra a inexistência de consumação do fato, haja vista que o término da graduação pelos alunos é exigência substancial para a adoção dessa teoria.
+Ademais, também não há que se falar em fato consumado porque o Poder Judiciário pode a qualquer momento reverter tal situação desfavorável à Universidade, diante da ilegalidade cometida.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.12.2022.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+O edital nº 51/21, que regulou o processo seletivo em questão, previu que, para realização da inscrição, o candidato deveria possuir documento oficial de identificação com foto, não podendo utilizar documentos oficiais de identificação de terceiros. Confira-se, no que interessa ao deslinde da controvérsia instaurada nos presentes autos, trecho do instrumento editalício:
+(..)
+Embora o impetrante não tenha cumprido a exigência prevista no edital do processo seletivo, vislumbra-se que, no caso, há particularidades que permitem sopesar os princípios da vinculação ao edital e da isonomia com o princípio da razoabilidade.
+Nessa linha, diante do cenário de pandemia do coronavírus, diversos postos de identificação, quando da impetração do mandado de segurança, encontravam-se com as atividades suspensas (anexo nº 12 do evento nº01), o que impossibilitava, ou ao menos dificultava, a confecção de documentos. Dos documentos carreados aos autos, verifica-se que o posto do Departamento Estadual de Trânsito - DETRAN do local de residência do impetrante - órgão responsável pela emissão da carteira de identidade no Estado do Rio de Janeiro - estava com a atividade suspensa, o que foi corroborado pelas informações constantes do sítio eletrônico do próprio órgão emissor.
+Portanto, ainda que possível a emissão da carteira de identidade por menores de idade, nos termos do estabelecido pelo Decreto nº 9.278/18, não parece razoável limitar, no caso, o exercício do direito fundamental à educação, em razão da excepcional dificuldade na emissão do referido documento, imposta pela pandemia.
+Há nos autos, também, documento que indica que a flexibilização da apresentação da carteira de identidade, em razão da suspensão das atividades presenciais nos institutos de identificação durante a pandemia, foi, inclusive, adotada no Exame Nacional do Ensino Médio - ENEM do ano de 2020.
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO à remessa necessária e ao recurso de apelação.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada na via eleita , conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
