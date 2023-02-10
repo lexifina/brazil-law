@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CLEUCY MEIRELES DE OLIVEIRA, GRUPO OK CONSTRUCOES E EMPREENDIMENTOS LTDA e LUIZ ESTEVÃO DE OLIVEIRA NETO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/02/2022.
+Concluso ao gabinete em: 18/10/2022.
+Ação: de cobrança, ajuizada pela agravada, em face dos agravantes, na qual alega que as partes foram parceiras em empreendimentos imobiliários para cuja execução celebraram instrumento contratual, no qual reguladas obrigações e responsabilidades recíprocas. Afirma que a sociedade agravante violou sua obrigação, o que impõe seja compelida a reembolsar para a agravada os valores pagos no processo nº 0644694-02.2000.8.26.0100 para o cliente Pedro Akiiwa Fukumura, comprador do imóvel descrito na inicial, com acréscimo da cláusula penal de 20%.
+Sentença: julgou procedente o pedido, para condenar, solidariamente, os agravantes a pagarem para a agravada a quantia de R$ 581.722,27 (quinhentos e oitenta e um mil, setecentos e vinte e dois reais e vinte e sete centavos).
+Acórdão: deu parcial provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+COBRANÇA POR RESPONSABILIDADE CIVIL CONTRATUAL - Procedência - Insurgência da ré - Alegação de nulidade da decisão por ausência de fundamentação - Descabimento - Decisão fundamentada, que analisou as questões suscitadas, aquilatando com equilíbrio o contexto fático, dando deslinde à matéria - Inexistência de afronta ao art. 489, do CPC, e art. 93, IX, da CF - Preliminar afastada Ação fundada em contrato para desenvolvimento de empreendimentos imobiliários - Previsão contratual de atribuição das unidades a cada uma das partes Unidade 141, objeto de ação para outorga de escritura, que foi atribuída à corré Grupo OK - Acordo formalizado pela autora com o adquirente, em 2019, para pagamento dos valores devidos, com a pretensão aqui discutida de ressarcimento - Inexistência de prescrição - Prazo prescricional que se inicia a partir do efetivo desembolso - Condenação solidária na ação de obrigação de fazer que não exime os réus da responsabilidade contratual - Evidente descumprimento contratual por parte dos requeridos, razão pela qual é devida a multa de 20% - Questões arguidas sobre a multa diária que não podem ser rediscutidas nesta sede - Procedência da ação que deve ser mantida - Incidência dos juros de mora a partir da citação - Inteligência do disposto no art. 405, do CC - RECURSO PARCIALMENTE PROVIDO. (e-STJ Fl. 2.596)
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 489, § 1º, III e IV, 502, 503 e 1.022, II e parágrafo único, II, do CPC/15; 205, 206, § 3º, 264, 281, 283 e 942 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentam que a pretensão da agravada encontra-se fulminada pela prescrição. Afirmam que a responsabilidade solidária, na espécie, encontra-se acobertada por sentença transitada em julgado, sendo vedada qualquer discussão sobre o tema, sob pena de ofensa à coisa julgada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da responsabilidade e da restituição dos valores pagos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Confira-se:
+ ..
+"Em 25/02/2019 a aqui autora entabulou acordo com Pedro, no qual restou avençado o pagamento total de R$470.000,00 para quitação completa dos valores devidos (fls. 473/480), que seriam pagos em cinco parcelas, sendo a última delas prevista para 05/07/2019.
+Tendo em vista que a autora teve prejuízo financeiro somente quando do pagamento dos valores acima referendados, em 2019, o início do prazo prescricional se dá a partir de quando ela efetivamente desembolsou os valores pagos à Pedro, não havendo que se falar em prescrição, pois esta ação foi ajuizada em 23/09/2019. Ainda que as partes tenham sido condenadas solidariamente ao cumprimento da obrigação de fazer (consistente na outorga, em favor do autor, da escritura definitiva relativa à unidade autônoma em questão, livre de gravames, no prazo de 30 dias, sob pena de multa diária de R$200,00 por sentença proferida em 18/02/2003fls. 503/508), certo é que a cláusula VI, do contrato firmado entre as partes previu que (fls. 75/76):
+"VI) DAS AÇÕES JUDICIAIS PROMOVIDAS CONTRAAS PARTES:
+VI.1. Tramitam, em síntese, em conjunto ou isoladamente, as seguintes demandas contra as partes contratantes:
+(..)
+c). Demandas postulando rescisão do contrato e outorga de escritura condenações em pecúnia:
+Em respeito ao que sempre regulou a associação em questão, deve-se manter a responsabilidade pelas unidades previamente atribuídas às partes contratantes, apurando-se a efetiva responsabilidade pela respectiva condenação. "Não há qualquer fundamento legal para considerar que a sentença proferida na ação de obrigação de fazer substitui o contrato entabulado entre as partes, como pretendido pelos recorrentes.
+Como bem observou o Magistrado sentenciante, "Não se deve confundir a solidariedade perante terceiros, no caso decorrente de condenação judicial, com obrigações e responsabilidades recíprocas reguladas no contrato de parceria, ineficaz perante terceiros, mas obrigatório para as sociedades parceiras.
+Exclusivamente entre elas não prevalece a solidariedade reconhecida pela sentença judicial em favor de terceiro, o cliente consumidor, mas somente o regramento do contrato de parceria, que para determinado tipo de demanda judicial de terceiro sobre determinada unidade atribuiu responsabilidade integral a somente uma parceira.
+Então, se a outra parceira pagou sozinha para terceiro, tem direito de regresso contra aquela que, segundo o contrato de parceria, tem responsabilidade integral."(fls. 2472).
+Em razão do evidente descumprimento contratual por parte dos réus, é realmente devida a multa de 20%, contratualmente prevista (cláusula VIII.1. fls. 76)." (e-STJ Fls. 2.601/2.603)
+ ..
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pelos agravantes não demonstram como o acórdão recorrido violou o art. 942 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 502 e 503 do CPC/15 e 281 do CC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+Os agravantes não impugnaram o fundamento utilizado pelo TJ/SP de que "não há qualquer fundamento legal para considerar que a sentença proferida na ação de obrigação de fazer substitui o contrato entabulado entre as partes, como pretendido pelos recorrentes. Como bem observou o Magistrado sentenciante, "Não se deve confundir a solidariedade perante terceiros, no caso decorrente de condenação judicial, com obrigações e responsabilidades recíprocas reguladas no contrato de parceria, ineficaz perante terceiros, mas obrigatório para as sociedades parceiras" (e-STJ Fl. 2.602), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à inocorrência de prescrição da pretensão da agravante, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Outrossim, a ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados anteriormente para 15% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+7. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+9. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+10. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+11. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
