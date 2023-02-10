@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MULTI CONSTRUTORA E INCORPORADORA LTDA. (MULTI) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Santa Catarina, de relatoria da Desembargadora ROSANE PORTELLA WOLFF , assim ementado:
+APELAÇÃO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIREITO DE VIZINHANÇA. SENTENÇA QUE RECONHECE A PRESCRIÇÃO E, POR CONSEGUINTE, COM FULCRO NO ART. 487,INCISO II, DO CPC, JULGA EXTINTO O PROCESSO COM RESOLUÇÃO DO MÉRITO. INSURGÊNCIA DOS AUTORES.
+RECONHECIMENTO, NA SENTENÇA, DA PRESCRIÇÃO DO PLEITO DE REPARAÇÃO CIVIL, NOS TERMOS DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. INSUBSISTÊNCIA. DANOS PROGRESSIVOS E CONTÍNUOS. IMPOSSIBILIDADE DE FIXAR TERMO INICIAL PARA A PRESCRIÇÃO,QUE, PORTANTO, NÃO RESTOU ALCANÇADA. DECISÃO REFORMADA.
+JULGAMENTO IMEDIATO DA LIDE PELO TRIBUNAL, NOS TERMOS DOART. 1.013, § 4º, DO NCPC. INVIABILIDADE. CAUSA QUE NÃO SE ENCONTRA MADURA. AÇÃO QUE DISCUTE DANOS CONSTRUTIVOS ORIUNDOS DO PRÉDIO VIZINHO, SENDO IMPRESCINDÍVEL A PRODUÇÃO DE OUTRAS PROVAS PARA O DESLINDE DO FEITO.
+HONORÁRIOS RECURSAIS. INVIABILIDADE DE IMPOSIÇÃO. VERBA QUE PRESSUPÕE A EXISTÊNCIA DE DECISÃO FINAL ANTERIOR. SENTENÇA QUE RESTOU ANULADA NESTE GRAU DE JURISDIÇÃO. POSICIONAMENTO EXPOSTO PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+SENTENÇA CASSADA. RECURSO CONHECIDO E PROVIDO. (e-STJ, fls. 840/841)
+Irresignada, MULTI interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 189 e 206, §3º, V do Código Civil, ao sustentar que aplica-se a teoria actio nata, para marcar o início do prazo prescricional, a ciência inequívoca dos danos pelo titular do direito subjetivo.
+O recurso não foi admitido pelo Tribunal de Justiça de Santa Catarina (e-STJ, fls. 1002/1004).
+Nas razões do presente agravo, MULTI alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+MULTI alegou, por meio de dissídio jurisprudencial, violação aos arts. 189 e 206, §3º do Código Civil, pois sustenta que o acórdão estadual contraria o texto de lei ao desconsiderar o marco inicial da prescrição da pretensão, bem como o prazo estabelecido para reparação civil de 3 anos.
+O Tribunal estadual assentou que
+Isso porque, tratando-se de ação indenizatória que busca compensação pecuniária pelos vícios construtivos que abalaram o imóvel da parte interessada, o prazo prescricional se renova sucessiva e diariamente, tendo em vista que os danos decorrentes de infiltração são contínuos e permanentes.
+ ..
+Assim, o fato da obra que supostamente ocasiona as infiltrações ter sido finalizada no ano de 2016 não obsta a protocolização da actio apenas no ano de 2020 pois, como se anteviu, os danos se renovam diariamente, o que resta comprovado, inclusive, pelos orçamentos e notas fiscais datados do ano de 2018, acostado com a petição inicial da ação de conhecimento.
+Não obstante, considerando que a causa não está madura, tendo em vista que o caso versa sobre prejuízos construtivos provocados por prédio vizinho, sendo imprescindível a produção de provas para o deslinde do feito, inviável o julgamento imediato por este Tribunal, nos termos do art. 1.013, §4º do CPC. (e-STJ, fls. 844/845)
+Dessa forma, o acórdão estadual está em harmonia com o entendimento do Superior Tribunal de Justiça, uma vez que os danos decorrentes de vício construtivo se prolongam no tempo e, assim, não se pode fixar, com segurança, o termo inicial do prazo prescricional para a respectiva ação indenizatória, nem aferir responsabilidade civil, na presente demanda, o que faz incidir a Súmula 83/STJ. A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AÇÃO INDENIZATÓRIA POR VÍCIOS DE CONSTRUÇÃO. SEGURO HABITACIONAL. DANOS CONTÍNUOS E PERMANENTES. PRESCRIÇÃO. NÃO OCORRÊNCIA. TERMO INICIAL. RECUSA AO PAGAMENTO DA INDENIZAÇÃO. RESPONSABILIDADE DA SEGURADORA. DANOS DE CONSTRUÇÃO (VÍCIOS OCULTOS). BOA-FÉ OBJETIVA PÓS-CONTRATUAL. PRECEDENTE ESPECÍFICO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em razão do princípio da unirrecorribilidade recursal, para cada provimento judicial admite-se apenas um recurso, ocorrendo a preclusão consumativa ao que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+3. O STJ é firme na compreensão de que os danos decorrentes de vício construtivo se prolongam no tempo e, assim, não se pode fixar, com segurança, o termo inicial do prazo prescricional para a respectiva ação indenizatória contra a seguradora.
+4. Esta eg. Terceira Turma do Superior Tribunal de Justiça, ao julgar o REsp nº 1.717.112/RN, na sessão realizada aos 25/9/2018, analisando controvérsia idêntica à dos presentes autos, pacificou o entendimento de que os vícios estruturais de construção, à luz dos princípios da boa-fé objetiva e da proteção contratual do consumidor, estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato de mútuo, para acobertar o sinistro concomitante a sua vigência, ainda que só depois da sua conclusão venha a se revelar o vício oculto, defeito cuja data inicial não se logra apurar.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp n. 1.821.052/CE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/12/2019, DJe de 18/12/2019. - sem destaque na original)
+Ademais, tendo em vista que o acórdão impugnado não fixou termo inicial para a contagem do prazo prescricional, bem como entende necessária a produção de provas para o deslinde do feito, é impossível, nesta via de recurso especial, reconhecer o instituto da prescrição, porquanto haveria necessidade de reexaminar os elementos fáticos-probatórios dos autos - que nem ocorreram -, que serão delineados pelas instâncias ordinárias, sendo inadmissível nesta fase recursal, nos termos da Súmula n.7/STJ. Nesse sentido, confira-se a jurisprudência:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SFH. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO ÂNUA. CERCEAMENTO DE DEFESA. SÚMULA N. 7/STJ. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CONFIGURADA. RECURSO MANIFESTAMENTE IMPROCEDENTE.
+1. Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do Código Civil de 1916 às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação.
+2. No caso concreto, não havendo data certa a partir da qual se possa contar o lapso prescricional, por serem os danos contínuos e permanentes, não há como, em sede de recurso especial, ultrapassar tal fundamento, por óbice da Súmula n. 7 do STJ.
+3.. A violação do art. 535, II, do CPC não resulta configurada na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a matéria controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 191.988/SP, QUARTA TURMA, Relator Ministro Antonio Carlos Ferreira, DJe de 19/2/2015. - sem destaque na original)
+Quanto ao dissídio jurisprudencial, destaco entendimento pacificado nesta Corte Superior que a necessidade de reexame de matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. UNIDADE IMOBILIÁRIA. ENTREGA. ATRASO. RESPONSABILIDADE. DANO MORAL. MONTANTE INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+3. Para rever a conclusão da Corte local acerca da configuração do dano moral e do patamar indenizatório, seria necessária a análise de fatos e de provas dos autos, procedimento inviável em recurso especial, em virtude do óbice da Súmula nº 7/STJ.
+4. O Superior Tribunal de Justiça entende que a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.121.464/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022. - sem destaque na original)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de aplicar os honorários advocatícios, uma vez que ainda não foram fixados pelas instâncias ordinárias.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANOS CONTÍNUOS E PERMANENTES. INCIDÊNCIA DA SÚMULA 83/STJ. PRAZO PRESCRICIONAL. TERMO INICIAL. RESPONSABILIDADE CIVIL. NECESSÁRIA PRODUÇÃO DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NEGADO PROVIMENTO.
