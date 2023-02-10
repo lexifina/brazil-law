@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por QUEIROZ GALVÃO DESENVOLVIMENTO IMOBILIÁRIO S.A. - EM RECUPERAÇÃO JUDICIAL (QUEIROZ GALVÃO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro, de relatoria do Des. ANDRE GUSTAVO CORREA DE ANDRADE, assim ementado:
+AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESPONSABILIDADE CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE UNIDADES IMOBILIÁRIAS EM CONSTRUÇÃO. ATRASO NA ENTREGA DO BEM PROMETIDO À VENDA. INADIMPLEMENTO DA VENDEDORA, ORA APELANTE, QUE NÃO PODE SER CONSIDERADO FORTUITO EXTERNO OU FORÇA MAIOR, POR ESTAR DIRETAMENTE RELACIONADO AOS RISCOS COMUNS DA SUA ATIVIDADE. OBRIGAÇÃO DE DEVOLUÇÃO DOS VALORES PAGOS PELO COMPRADOR, INTEGRAL E IMEDIATAMENTE, CONFORME ORIENTAÇÃO JURISPRUDENCIAL DO STJ. DANO MORAL. CONFIGURAÇÃO. INDENIZAÇÃO FIXADA COM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. DESPROVIMENTO DO APELO (e-STJ, fl. 624).
+Os embargos de declaração opostos por QUEIROZ GALVÃO foram rejeitados (e-STJ, fls. 654/657).
+Irresignada, QUEIROZ GALVÃO interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, violação aos arts. 884 e 944 do CC/02, ao sustentar, em síntese, (1) a possibilidade da retenção de 25% dos valores pagos em decorrência da rescisão do contrato; e (2) o descabimento da condenação por danos morais na hipótese de mero inadimplemento contratual.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio de Janeiro (e-STJ, fls. 716/720).
+Nas razões do presente agravo, QUEIROZ GALVÃO alegou ter impugnado todos os fundamentos da decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao e xame do recurso especial, que merece prosperar, em parte.
+(1) Do descumprimento do contrato e da retenção de parte dos valores pagos
+Nas razões do presente agravo interno, QUEIROZ GALVÃO defendeu a possibilidade da retenção de 25% dos valores pagos em decorrência da rescisão do contrato firmado entre as partes.
+Sobre o tema, o TJRJ assim se pronunciou:
+ .. , no caso sob exame, os autores, ora apelados, pleitearam a rescisão contratual com base no inadimplemento da ré, ora apelante, que atrasou a entrega das unidades imobiliárias a que se referem os negócios jurídicos descritos na inicial. Sobre essa afirmação não há controvérsia.
+Evidenciada a mora da vendedora, a devolução dos valores pagos pelos compradores deve ser imediata e integral, não havendo que falar em dedução de qualquer quantia, conforme orientação da jurisprudência do Superior Tribunal de Justiça sobre o tema (e-STJ, fl. 627).
+Nessa linha, conforme asseverou o Tribunal local, estando configurada a mora da promitente vendedora, justifica-se a restituição integral das parcelas adimplidas pelo comprador, estando a conclusão adotada em consonância com a Súmula nº 543 do STJ, do seguinte teor:
+"Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.848.001/SP, Relª. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 13/6/2022, DJe 21/6/2022).
+(2) Do dano moral
+A recorrente pretende, outrossim, o afastamento de sua condenação ao pagamento de verba indenizatória resultante na ausência de entrega de imóvel objeto de compromisso de compra e venda ajustado com a recorrido no tempo aprazado.
+No caso dos autos, o TJRJ condenou a demandada a reparar a lesão extrapatrimonial alegada pelos adquirentes dos imóveis, considerando que sofreram transtornos pela demora na conclusão da obra, que exorbitam o mero dissabor.
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do Resp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1426710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ , Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e, REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1637627/RJ, Rel. Ministra j. 6/12/2016, DJe 14/12/2016; REsp 1.633.274/SP; j. 8/11/2016, DJe 11/11/2016; AgRg no AResp 809.935/RS, DJe 11/03/2016; e, REsp 1.551.968/SP, Segunda Seção, DJe 6/9/2016.
+Na hipótese vertente, o fundamento do dano moral está calcado nas seguintes razões:
+ .. , faz-se mister reconhecer que a conduta desidiosa da ré, ora apelante, que atrasou por mais de um ano a conclusão de obras do empreendimento prometido a venda e deixou de assumir as consequências do seu inadimplemento contratual, deu causa aos danos de natureza não patrimonial alegados pelos autores, ora apelados (e-STJ, fl. 629).
+Como visto das razões acima, o fundamento adotado para reconhecimento do dano moral foi o inadimplemento contratual, sem a comprovação de qualquer outro fundamento relevante que importasse em inegável abalo imaterial.
+Desse modo, inexistindo circunstância específica, além do injustificado atraso na entrega da obra por 8 (oito) meses quando da propositura da ação, capaz de provocar graves lesões à personalidade do recorrido, acompanho o recente entendimento firmado na Terceira Turma desta Corte, e afasto a configuração do dano moral na hipótese dos autos, considerando que ele exsurge de agressão à personalidade do ofendido, conforme julgamento do REsp 1.426.710 (Terceira Turma, julgado em 25/10/2016, DJe 8/11/2016).
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, apenas para excluir a condenação da recorrente ao pagamento de compensação por danos morais, mantida a sucumbência.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS ATRASO NA ENTREGA DA OBRA. RESTITUIÇÃO IMEDIATA E INTEGRAL DOS VALORES PAGOS. INCIDÊNCIA DA SÚMULA Nº 543 DO STJ. DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
