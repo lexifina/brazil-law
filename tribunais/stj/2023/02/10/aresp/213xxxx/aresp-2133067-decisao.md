@@ -1,0 +1,5 @@
+DECISÃO
+Conforme indicado pelo despacho de fls. 3009-3010, o Conflito de Competência que originou a demanda julgada no AREsp n. 1.749.116/SP foi suscitado perante o cumprimento de sentença autuado como 0005702-60.2018.8.26.0562, na 2ª Vara Cível - Foro de Santos, correspondente ao cumprimento de sentença relacionado ao processo principal de número 1028986-85.2015.8.26.0562. Esses processos versam sobre o pagamento de despesas condominiais referentes às unidades imobiliárias de números 1201, 1203, 1204, 1205, 1206 e 1207.
+Posto isso, acolho a prevenção suscitada (RISTJ, art. 71) pela Ministra Maria Isabel Gallotti (fls. 3009-3010), tendo em vista que o p resente recurso tem como origem agravo de instrumento interposto contra decisão nos autos do Cumprimento de Sentença de número 10290-95.2015.8.26.0562/SP, que contém as mesmas partes, e diz respeito às unidades imobiliárias de números 1306, 1307, 1308, 1403, 1410 e 1414, segundo a petição inicial do agravo de instrumento (fl.6).
+Por conseguinte, determino a remessa dos autos à Coordenadoria de Processamento de Feitos de Direito Privado para re distribuição e demais providências de praxe.
+Publique-se.
