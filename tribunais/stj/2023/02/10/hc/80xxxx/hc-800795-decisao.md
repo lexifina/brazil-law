@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WELTON ALVES DIAS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO FALTA DISCIPLINAR DE NATUREZA GRAVE - REALIZADO CONTROLE JUDICIAL DA LEGALIDADE E ANOTAÇÃO NA EXECUÇÃO CRIMINAL JUSTA CAUSA PARA O RECONHECIMENTO DA FALTA GRAVE INVIÁVEL A DESCLASSIFICAÇÃO - PERDA DE 1/3 DOS DIAS REMIDOS ADEQUADA AO CASO EM TELA  RECURSO IMPROVIDO." (e-STJ, fl. 151).
+Narra o impetrante que o paciente cumpria pena na Penitenciária de Flórida Paulista -SP, onde, no dia 17.05.2022, supostamente, o sentenciado, teria cometido falta disciplinar consistente em desobediência, por ter em sua posse fios de cobre.
+O Juízo das Execuções homologou a prática de infração disciplinar, decretou a perda de 1/3 (um terço) dos dias remidos anteriormente à data da falta e reconheceu a interrupção do lapso temporal para fins de progressão de regime prisional.
+Inconformada com tal decisão, a Defensoria Pública do Estado de São Paulo interpôs o recurso de Agravo em Execução perante o Egrégio Tribunal de Justiçado Estado de São Paulo, tendo sua 10ª Câmara de Direito Criminal negado provimento ao recurso.
+Aduz que não há individualização da conduta do reeducando, que não poderia sofrer a sanção disciplinar de natureza grave, no máximo, leve.
+Requer, inclusive liminarmente, a absolvição da falta grave por insuficiência de prova e o afastamento dos consectários. Subsidiariamente, requer a desclassificação para outra, de natureza leve, ou, ainda, reduzir a perda dos dias remidos ao mínimo legal.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal Estadual confirmou a decisão do Juízo de primeiro grau, reconhecendo a falta grave, nos seguintes moldes:
+"No caso em tela, observada a regularidade da apuração da falta disciplinar, com observância dos princípios do contraditório e da ampla defesa, não se vislumbra a ocorrência de ilegalidade flagrante ou teratologia da decisão administrativa. Pelo que verte dos autos, há justa causa para o reconhecimento e a anotação da falta disciplinar de natureza grave consistente em desobediência, prevista no art. 50, VI, da Lei de Execuções Penais, ocorrida em 17/05/2022, com a verificação dos efeitos que lhe são inerentes. A r. decisão judicial contra a qual insurge-se o agravante reconheceu a legalidade do procedimento e a existência de justa causa para a aplicação da sanção. Ademais, pelo que se verifica dos autos (fls. 28/43), há justa causa para o reconhecimento da ocorrência da falta disciplinar de natureza grave atribuída ao sentenciado, consistente em desobediência, tendo sido apreendidos em sua posse fios de cobre e pedaços de arame. Inquestionável, portanto, a responsabilização do agravante pela prática de falta disciplinar de natureza grave, nos termos do art. 50, VI, da Lei das Execuções Penais, razão pela qual não há que se falar, também, em desclassificação para falta disciplinar de natureza média ou leve. Raciocínio diverso, aliás, consistiria, inclusive, em potencialização de distorções no sistema prisional. A perda dos dias remidos, a teor do art. 127, da LEP, bem como a determinação de reinicio da contagem do prazo de cumprimento de pena para fins de progressão de regime prisional são consequências inerentes ao reconhecimento da falta grave. O índice máximo fixado para a perda dos dias anteriormente remidos, qual seja, 1/3 (um terço), apresenta-se como razoável, em consonância com o art. 57, da LEP, considerada a natureza da falta grave cometida, como, aliás, bem anotado na r. decisão recorrida. " (e-STJ, fls. 152-153
+).
+Da leitura do trecho acima transcrito, verifica-se que restou bem caracterizada a falta grave prevista no art. 50, VI, c. c. o art. 39, II, da LEP, não havendo, pois, que se falar em sua desclassificação para a de natureza leve, considerando a conduta do reeducando subsome-se perfeitamente ao aludido tipo disciplinar, in verbis:
+"Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+ ..
+VI - inobservar os deveres previstos nos incisos II e V, do artigo 39 desta Lei."
+"Art. 39. Constituem deveres do condenado:
+ ..
+II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se;"
+Vale acrescentar que o exame da tese de que não ocorreu a prática de falta grave não se coaduna com a via estreita do habeas corpus, dada a necessidade, na espécie, de incursão na seara fático-probatória, incabível nesta sede.
+Do mesmo modo, a análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, também demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Sobre o tema, os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. DESOBEDIÊNCIA. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. DIAS REMIDOS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A conduta descrita é prevista como falta grave no art. 50, VI, c/c. o art. 39, II e V, ambos da LEP e não há que se falar em ofensa ao princípio da legalidade. De acordo com a moldura fática do aresto, não se pode cogitar a absolvição ou a desclassificação da falta disciplinar.
+2. A insubordinação externada pela recusa não é insignificante, pois prejudica a boa ordem, a segurança e a disciplina na unidade prisional. Justamente por observar o princípio da proporcionalidade, o legislador qualificou o comportamento como falta grave.
+ ..
+4. Agravo regimental não provido." (AgRg no HC 605.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/08/2020, DJe 01/09/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESOBEDIÊNCIA. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO. VIA IMPRÓPRIA. PERDA DOS DIAS REMIDOS. INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. Conforme precedentes desta Corte Superior, condutas como desobediência ao servidor ou às ordens recebidas constitui falta de natureza grave, nos termos do art. 50, inciso VI, da Lei de Execução Penal.
+3. "O habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020).
+ ..
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido." (AgRg no HC 560.935/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020, DJe 23/06/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AGRESSÕES MÚTUAS ENTRE DETENTAS E DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. RECONHECIMENTO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP. DECISÃO FUNDAMENTADA. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Na hipótese, as instâncias ordinárias concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pela apenada, consistente em mútua agressão entre as detentas acrescida da desobediência aos agentes penitenciários, nos termos do artigo 50, incisos I e VI, combinado com o artigo 39, incisos II e V, ambos da Lei n. 7.210/1984.
+2. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+ ..
+5. Agravo regimental não provido." (AgRg no HC 516.423/SP, deste Relator, QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. DESOBEDIÊNCIA AOS AGENTES PENITENCIÁRIOS. SUBVERSÃO DA ORDEM E DISCIPLINA CARCERÁRIAS. ART. 50, I e VI, C/C O ART. 39, II e V, AMBOS DA LEP. FALTA GRAVE. CARACTERIZAÇÃO. SANÇÃO COLETIVA. INEXISTÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ ..
+2. Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência aos agentes penitenciários, com subversão da ordem e disciplina carcerárias, constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais.
+ ..
+5. Por fim, impende ressaltar que o habeas corpus não é a via adequada para apreciar o pedido de absolvição da falta grave, tendo em vista que, para se desconstituir o decidido pelas instâncias ordinárias, mostra-se necessário o reexame aprofundado dos fatos e provas constantes dos autos da execução, procedimento vedado pelos estreitos limites do remédio heroico, caracterizado pelo rito célere e por não admitir dilação probatória.
+6. Inexistência, portanto, no caso concreto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+7. Habeas corpus não conhecido." (HC 470.531/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2018, DJe 29/10/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
