@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo interposto  por  JOSÉ GABRIEL MENDONÇA DE LIMA contra a decisão do Tribunal  de  Justiça  do  Estado do Rio Grande do Sul que inadmitiu o recurso especial, fundamentado  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  da  República,  dirigido contra o acórdão prolatado  na  Apelação  Criminal  n. 5000719-02.2016.8.21.0057.
+Consta  dos  autos  que  o Agravante  foi  condenado, por sentença proferida no dia 13/02/2020, às penas de 2 (dois) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial aberto, além de 20 (vinte) dias-multa, como incurso no art. 155, caput e § 1.º, do Código Penal. Isso porque, no dia 23/07/2014, o Réu, em tese, "subtraiu um botijão de gás, avaliado em R$ 150,00; uma jaqueta jeans, avaliada em R$ 52,00; uma jaqueta de nylon, avaliada em R$ 69,00; um par de tênis, avaliado em R$ 90,00; uma calça, avaliada em R$60,00; um cobertor, avaliado em R$ 90,00; e gêneros alimentícios diversos, avaliados em R$450,00" (fl. 438).
+Irresignada,  a Defesa  recorreu  ao  Tribunal  estadual,  que  deu parcial  provimento  à  apelação  , redimensionando as penas para 1 (um) ano, 5 (cinco) meses e 23 (vinte e três) dias de reclusão, além de 14 (quatorze) dias-multa, em acórdão assim ementado (fl. 434):
+"APELAÇÃO CRIME. FURTO MAJORADO. REPOUSO NOTURNO.
+Revelando os elementos probatórios coligidos que o acusado, subtraiu, do interior da residência da vítima, diversos objetos, dentre eles um botijão de gás que foi encontrado, por orientação do próprio réu na fase de indagações, na residência de terceiro, impositiva solução condenatória.
+Efetivada a subtração durante a madrugada, depois de o réu, vigiando a residência da vítima, aproveitar-se do fato de essa sair à noite para trabalhar, o período de repouso noturno foi elemento facilitador da conduta por aquele observada, impondo-se a observância da majorante de que trata o art. 155, § 1º, do Código Penal.
+Condenação mantida. Apenamento redimensionado.
+APELO PARCIALMENTE PROVIDO."
+Nas  razões  do  recurso  especial,  a Defensoria Pública aponta ofensa ao art. 59 do Código Penal, argumentando que não houve fundamentação idônea para a exasperação da pena-base em patamar superior a 1/6 (um sexto), pois apenas uma circunstância judicial foi valorada negativamente (antecedentes). Afirma também que o quantum de aumento adotado é desproporcional.
+Contrarrazões (fls. 457-464). O Tribunal de origem inadmitiu o recurso com base no óbice da Súmula n. 83/STJ (fls. 468-473), advindo o presente agravo (fls. 481-499), contraminutado às fls. 503-508.
+O  Ministério  Público  Federal  opinou  pelo desprovimento do agravo (fls. 520-523).
+É  o  relatório.  Decido.
+Em análise preliminar, verifica-se a extinção da punibilidade do Agravante em razão da prescrição da pretensão punitiva.
+Nos termos do art. 110, § 1.º, do Código Penal, a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena concretamente aplicada.
+No caso, a pena concretamente aplicada ao Recorrente não excede a 2 (dois) anos de reclusão, razão pela qual seria aplicável o prazo prescricional de 4 (quatro) anos, nos termos do art. 109, inciso V, do Código Penal. No entanto, por se tratar de Réu com idade inferior a 21 (vi nte e um) anos na data do fato (fl. 06), o prazo prescricional é reduzido pela metade, nos termos do art. 115 do Código Penal.
+Assim, verifica-se que, entre a data do recebimento da denúncia (13/04/2016 - fls. 91-93) e a data da publicação da sentença condenatória (13/02/2020 - fl. 381), houve o transcurso de tempo superior a 2 (dois) anos, consumando-se a prescrição da pretensão punitiva.
+Ante  o  exposto,  CONCEDO a ordem de habeas corpus, de ofício, para declarar extinta a punibilidade do Agravante, em razão da prescrição da pretensão punitiva, nos termos do art. 107, inciso IV, c.c. o art. 109, inciso V , o art. 110, § 1.º, e o art. 115, todos do Código Penal. Por consequência, JULGO PREJUDICADO o agravo em recurso especial.
+ Publique-se.  Intimem-se.
+EMENTA
+AGRAVO EM RECURSO  ESPECIAL.  FURTO MAJORADO.  PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MENORIDADE RELATIVA. REDUÇÃO DOS PRAZOS PRESCRICIONAIS. EXTINÇÃO DA PUNIBILIDADE. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO. AGRAVO EM RECURSO ESPECIAL PREJUDICADO.
