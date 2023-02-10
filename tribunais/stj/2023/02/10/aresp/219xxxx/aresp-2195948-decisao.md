@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fls. 1165/1166):
+APELAÇÃO CÍVEL  AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS  IMPLANTAÇÃO DE GASODUTO NO LITORAL CAPIXABA  DANO AMBIENTAL  INEXISTÊNCIA  AUSÊNCIA DE PROVAS DA PARALISAÇÃO DA ATIVIDADE PESQUEIRA , E DE DIMINUIÇÃO DE RENDA NO PERÍODO  ÔNUS DUAUTOR  ART. 373, INCISO I, DO CPC  RECURSO DESPROVIDO.
+1. O Relatório de Impacto Ambiental  Rima, que aponta possíveis e eventuais danos à atividade pesqueira decorrente da instalação do Gasoduto Sul Norte Capixaba, de forma isolada, assim como reconhecido pelo Magistrado Singular, não é capaz de comprovar a existência de dano efetivo ao meio ambiente.
+2. Invertido o ônus da prova, recaiu sobre a PETROBRÁS, ora apelada, o ônus de provar a inexistência de danos ao meio ambiente decorrente da instalação do citado Gasoduto, tendo acostado aos autos toda a documentação relativa ao empreendimento em questão, tais como todas as licenças e autorizações ambientais conferidas pelos órgãos responsáveis, apontando a regularidade da sua atuação.
+3. Não foi denotado nos autos nenhum evento relevante, decorrente da instalação do gasoduto no capaz litoral capixaba, capaz de interferir ou mesmo impossibilitar o desempenho da atividade pesqueira realizada pelo apelante.
+4. Nesse contexto, correta a conclusão alcançada pelo Magistrado Singular ho sentido de que "apegar da magnitude e complexidade do empreendimento, não resta demonstrada a degradação, ao ponto de gerar obrigação em indenizar a parte autora".
+5. Por outro lado, o ônus de comprovar os danos sofridos em decorrência do referido empreendimento recai sobre o próprio requerente, ora apelante, nos termos do caput do art. 373 do Código de Processo Civil, ante a impossibilidade de a apelada produzir o que se denomina de prova diabólica  ou seja, a prova de que o apelante não sofreu os danos que alega em sua ação reparatória.
+6. No tendo o apelante se desincumbido do ônus que lhe compete, porquanto ausente nos autos elementos suficientes à conclusão de que sua atividade pesqueira foi diretamente impactada pela instalação do gasoduto, indevida a indenização perseguida.
+7. Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 4º, VII e 14, § 1º, da Lei nº 6.938/1981, bem como 186, 402 e 927 do Código Civil.
+Sustenta que a conduta da empresa recorrida concorreu para os danos de ordem ambiental suscitados na inicial.
+Alega que "o recorrente trouxe aos autos o Relatório de Impacto ao Meio Ambiente  RIMA, documento de lavra, curiosamente, da própria recorrida, cujo teor aponta, em diversas oportunidades, a ocorrência dos danos ambientais narrados".
+Aduz que "a empresa recorrida não se desincumbiu de comprovar a inexistência dos danos ambientais alegados pelo recorrente em sua petição exordial".
+Afirma que "As "provas" elencadas pela apelada neste caderno processual tratam-se, em suma, da absurda documentação anexa à defesa c, ainda, a produção da prova testemunhal produzida através de Carta Precatória, as quais não prestam-se a comprovar a inexistência do dano ambiental alegado".
+Defende que a prova testemunhal é a única possibilidade da recorrente comprovar suas alegações e que o acórdão recorrido sequer mencionou os depoimentos prestados pelas testemunhas.
+Assevera que "No que diz respeito aos danos materiais, as provas documentais arroladas nos autos, aliadas ao depoimento das testemunhas trazidas aos autos pelo recorrente comprovam os valores percebidos mensalmente pelos pescadores, quantias que foram suprimidas pelo período narrado na exordial, justificando-se o seu ressarcimento".
+Contrarrazões apresentadas às fls. 1203/1216.
+O recurso especial não foi admitido na origem em razão do óbice da Súmula 7/STJ (fls. 1251/1254).
+Assim delimitada a controvérsia e ultrapassada a admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão recorrido está assim fundamentado (fls. 1173/1179):
+O cerne da presente questão cinge-se à existência de dano ambiental e o impacto do mesmo na atividade pesqueira desenvolvida na localidade de Anchieta/ES, com consequente diminuição de renda dos pescadores artesanais, assim compreendida a apelante.
+A pretensão autoral de reparação de danos materiais veio escorada no Relatório de Impacto Ambiental  Rima (fls. 42/47), que aponta possíveis e eventuais danos à atividade pesqueira decorrente da instalação do Gasoduto Sul Norte Capixaba, os quais passo a transcrever:
+(..)
+O referido relatório, de forma isolada, assim corflo reconhecido pelo Magistrado Singular não é capaz de comprovar a existência de dano efetivo ao meio ambiente.
+Nesse sentido, inclusive, são os precedentes do Tribunal de Justiça do rio de Janeiro:
+(..)
+Invertido o ônus da prova, por meio da decisão de fls.. 922/922-v, recaiu sobre a PETROBRÁS, ora apelada, o ônus de provar a inexistência de danos ao meio ambiente decorrente da instalação do citado Gasoduto.
+Para tanto a requerida/apelada acostou aos autos toda a documentação relativa ao empreendimento em questão, tais como todas as licenças e autorizações ambientais conferidas pelos órgãos responsáveis (fls. 191/205), apontando a regularidade da sua atuação.
+O próprio Instituto Brasileiro de Meio Ambiente  IBAMA reconheceu que "a atividade pretendida não é de significativo impacto ambiental não estando listada na Resolução CONAMA Nº 01/86 e nem na 237/97 como sujeita a licenciamento ambiental" (fl. 209). E após a implantação do gasoduto em questão, afirmou que  relativamente ao Programa de Controle da Poluição na embarcação Seven Oceans  não se verificou nenhuma não conformidade, bem como o lançamento do duto aconteceu dentro do esperado, sem assentamento sobre as formações de corais (fl. 208).
+A PETROBRÁS apresentou ainda o Relatório Final de Monitoramento do Desembarque Pesqueiro (fls. 284/342), elaborado após a implantação do Gasoduto, cujos dados a serem coletados foram definidos pelos Técnicos do Núcleo de Pesca do IBAMA/ES (fls. 340/341), concluindo que "A influência direta da instalação do gasoduto não pôde ser observada, considerando-se que as oscilações na produção podem ser acarretadas por diversas variáveis, como as já citadas mudanças climáticas, sazonalidade e período de defeso, além de problemas em embarcações e problemas pessoais dos pescadores, principalmente em comunidades de frota pequena".
+Tem-se, portanto, que não foi denotado nenhum evento relevante, decorrente da instalação do gasoduto no litoral capixaba, capaz de interferir ou mesmo impossibilitar o desempenho da atividade pesqueira realizada pelo apelante.
+Nesse contexto, correta a conclusão alcançada pelo Magistrado Singular no sentido de que "apesar da magnitude e complexidade do empreendimento, não restou demonstrada a degradação, ao ponto de gerar obrigação em indenizar a parte autora".
+Por outro lado, o ônus de comprovar os danos sofridos em decorrência do referido empreendimento recai sobre o próprio requerente, ora apelante, nos termos do caput do art. 373 do Código de Processo Civil, ante a impossibilidade de a apelada produzir o que se denomina prova diabólica  ou seja, a prova de que o apelante não sofreu os danos que alega em sua ação reparatória.
+Confira-se, por oportuno, julgado nesse sentido:
+(..)
+Não tendo o apelante se desincumbido do ônus que lhe compete, porquanto ausente nos autos elementos suficientes à conclusão de que sua atividade pesqueira foi diretamente impactada pela instalação do gasoduto, indevida a indenização perseguida.
+Vale salientar, que a prova testemunhal produzida nos autos, desacompanhada de elementos concretos, não se presta à comprovação da paralisação da atividade pesqueira no aludido período ou da diminuição da renda auferida pelo apelante.
+Nesse contexto, deve ser mantida integralmente a sentença vergastada, que julgou improcedente os pedidos autorais.
+(sem destaques no original)
+Verifica-se, portanto, que o Tribunal de origem, analisando as circunstâncias fáticas e probatórias do presente caso, concluiu pela ausência de comprovação de dano ambiental, bem como de efetivo prejuízo à atividade pesqueira da parte autora.
+Assim, modificar a conclusão do acórdão recorrido, na forma pleiteada nas razões do recurso especial, demandaria, necessariamente, o reexame de aspectos fáticos e probatórios dos autos, providência vedada em recurso especial, nos termos do disposto na Súmula 7/STJ. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. INTERRUPÇÃO. TEMA 957 DOS RECURSOS ESPECIAIS REPETITIVOS. INAPLICABILIDADE.
+1. Cuida-se, na origem, de ação de indenização por danos materiais e compensação por danos morais, ajuizada por pescadores em razão dos prejuízos sofridos por dano ambiental decorrente de derramamento de ácido sulfúrico na Lagoa dos Patos pelo navio Bahamas, que estava atracado no porto de Rio Grande/RS.
+(..)
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência do dano ambiental, aos danos suportados pelos pescadores e à responsabilidade da empresa agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+(..)
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.264.833/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/5/2020, DJe de 25/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANO AMBIENTAL. LAUDO PERICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ.
+AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. O acórdão recorrido enfrentou de forma fundamentada todas as questões suscitadas pelo recorrente, sobretudo quanto ao laudo pericial, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+2. Não é possível rever as conclusões do acórdão recorrido quanto à não comprovação dos danos e do nexo de causalidade entre o prejuízo e a conduta da empresa, um vez que seria imprescindível o reexame de fatos e provas dos autos, providências vedadas no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.274.513/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO DO ART. 14, § 1º, DA LEI N. 6.938/1981. ALEGAÇÃO DE DANO AMBIENTAL NÃO ACATADA PELAS INSTÂNCIAS ORDINÁRIAS COM BASE NOS ELEMENTOS DOS AUTOS E NA PERÍCIA REALIZADA. TESE DE RESPONSABILIDADE OBJETIVA AFASTADA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. AGRAVO IMPROVIDO.
+1. Tendo o Tribunal de origem, com base nas inúmeras provas produzidas nos autos ao longo da instrução processual, concluído pela inexistência de dano ambiental, a inversão do julgado encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ademais, rechaçada a ocorrência de dano ambiental pelo Tribunal a quo e afastada, consequentemente, a responsabilidade objetiva, o exame das argumentações do agravante acerca da existência de nexo causal fica prejudicado, haja vista que o Tribunal local não reconheceu conduta culposa por parte da agravada, tampouco os alegados prejuízos.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 782.707/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/2/2016, DJe de 7/3/2016.)
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal, assim como a suspensão da exigibilidade da verba face o deferimento da assistência judiciária gratuita.
+Intimem-se.
