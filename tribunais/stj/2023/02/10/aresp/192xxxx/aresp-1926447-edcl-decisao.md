@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULINHO JUNIOR TAVARES em face de decisão de fls. 787/789, de minha relatoria, em que julguei prejudicado o recurso especial.
+No presente aclaratório, a defesa alega que há omissão no decisum embargado, haja vista que, a despeito de ter sido reconhecida a prejudicialidade do apelo nobre, na decisão exarada pelo Supremo Tribunal Federal - STF no julgamento do HC n. 207.686/SC não foi expressamente reconhecida a extinção da punibilidade do ora embargante e nem mesmo houve a indicação de a qual autoridade judiciária caberia o reconhecimento da decadência caso o ofendido deixasse de representar contra o acusado.
+Afirma, assim, que, embora o ofendido tenha deixado transcorrer in albis o prazo para representar, não existe decisão reconhecendo a decadência, motivo pelo qual não houve a perda do objeto do recurso especial.
+Requer, assim, o conhecimento e provimento dos presentes embargos de declaração para que "diante do decurso do prazo trintídio concedido ao ofendido pelo Supremo Tribunal Federal, constar explicitamente se este eminente Relator entende ter ocorrido a extinção da punibilidade, ou se isso deve ser postulado diretamente ao Relator do HC n. 207.686/SC, no STF (já arquivado) ou, ainda, se eventualmente cabe ao juízo de primeiro grau assim declarar" (fl. 792).
+É o relatório. Decido.
+Os aclaratórios merecem acolhimento.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+Na hipótese em epígrafe, de fato, não há informações nos autos sobre a eventual declaração da extinção da punibilidade do recorrente em razão do reconhecimento da decadência, nem mesmo se pode aferir do andamento da ação penal na primeira instância que houve alguma decisão do Magistrado singular nesse sentido.
+Entretanto, entendo não incumbir a esta Corte a análise sobre a ocorrência, ou não, da decadência no caso, na medida em que a decisão acerca da necessidade de representação da vítima para o prosseguimento da presente ação penal partiu da Suprema Corte, ao conceder a ordem no HC n. 207.686/SC, o qual já transitou em julgado.
+Desse modo, cabe ao Juiz singular analisar se, na hipótese, deve ser extinta a punibilidade do ora embargante em razão da configuração da decadência, com amparo no que foi decidido pelo STF.
+Outrossim, consigno que a análise do agravo em recurso especial de fls. 660/687, bem como, caso seja conhecido, do mérito do apelo nobre, deverá ser postergado até a deliberação do Magistrado de piso sobre o prosseguimento, ou não, da presente ação penal.
+Ante o exposto, acolho os embargos de declaração para tornar sem efeito a decisão de fls. 787/789.
+Determino, ainda, a expedição de ofício ao Juízo da Vara Criminal da Comarca de Concórdia - TJSC, com cópia desta decisão, para que esclareça se houve manifestação de mérito acerca da ausência de representação do ofendido no prazo estipulado pelo Supremo Tribunal Federal no HC n. 207.686/SC, conforme informado outrora às fls. 781/782. Em caso negativo, deve-se aguardar o pronunciamento do Magistrado sobre a questão da decadência, para posterior análise dos recursos interpostos junto a esta Corte.
+Publique-se.
+Intimem-se.
