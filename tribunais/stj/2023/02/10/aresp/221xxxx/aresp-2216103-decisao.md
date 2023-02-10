@@ -1,0 +1,25 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local na Apelação n. 0065619-65.2014.8.09.0160.
+O recorrente apontou violação do art. 44 do Código Penal, ao argumento de "que, embora as condenações criminais indicadas no acórdão não sejam aptas a negativar os antecedentes criminais ou configurar a reincidência do recorrido, denotam que a substituição da pena privativa de liberdade por restritivas de direito não é medida que seja socialmente recomendável" (fl. 308).
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 341-349, no qual a parte impugna a incidência da Súmula n. 7 do STJ.
+O Ministério Público Federal opinou pelo provimento do agravo (fls. 373-384).
+Decido.
+Consta nos autos que o réu foi condenado a 3 anos de reclusão, em regime aberto, mais 10 dias-multa, pela prática do delito previsto no art. 16, parágrafo único, IV, da Lei n. 10.826/2003.
+O Tribunal de origem, ao conceder a substituição da reprimenda, asseverou (fl. 272, grifei):
+Nas razões, a Defensoria Pública requereu a substituição por restritivas de direitos ante o preenchimento dos requisitos do artigo 44 do Código Penal.
+A pena-base foi fixada no mínimo legal (3 anos de reclusão) e, não havendo outra causa modificadora, estabelecida neste patamar, no regime inicial aberto (CP, art. 33, §2º, "c"). Não substituiu-a por restritiva de direitos, em razão do acusado cumprir pena pelo cometimento de outro crime, nos termos do art. 44, III, do Código Penal.
+No entanto, presentes as condições estabelecidas no art. 44 do Código Penal, quais sejam, a ausência de reincidência, a condenação por um período não superior a 4 (quatro) anos e a existência de circunstâncias judiciais totalmente favoráveis, deve ser concedida a substituição da pena privativa de liberdade por restritiva de direitos (STJ, HC 127358 / SP) Logo, a pena deve ser substituída por 2 (duas) restritivas de direitos (CP, art. 44, §2º, segunda parte) consistentes em prestação de serviços à comunidade e limitação de fim de semana, cujas formas de cumprimento devem ser estabelecidas pelo Juízo da execução penal.
+Para a substituição da sanção privativa de liberdade por restritiva de direitos, é necessário que estejam preenchidos, cumulativamente, os requisitos objetivos e subjetivos exigidos para a concessão dessa benesse, os quais se encontram previstos no art. 44 do CP.
+Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+II - o réu não for reincidente em crime doloso;
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Ainda, cumpre registrar que a jurisprudência desta Corte Superior entende que "a existência de ação penal em curso não se revela fundamento idôneo para obstar o deferimento da substituição da pena privativa de liberdade por restritiva de direitos" (AgRg no HC n. 473.479/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 18/3/2019).
+A propósito:
+ ..
+V - Ademais, o paciente é primário e não possui maus antecedentes. Desta feita, "consoante jurisprudência prevalente nesta Corte, inquéritos policiais ou ações penais em curso não podem ser utilizadas para valorar negativamente o requisito subjetivo para a concessão da substituição da pena privativa de liberdade por restritiva de direitos, sob pena de se vulnerar a garantia da presunção de inocência" (RHC n. 33.713/ES, Sexta Turma, Rel.ª Min,ª Maria Thereza de Assis Moura, DJe de 29/10/2013). Nessa linha: AgRg no HC n. 473.479/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 18/03/2019; HC n. 166.510/RJ, Sexta Turma, Relª. Minª. Assusete Magalhães, DJe de 13/09/2013; HC n. 143.074/RS, Quinta Turma, de minha relatoria, DJe de 22/03/2010; AgRg no HC n. 473.479/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 18/03/2019; HC n. 281.193/RJ, Quinta Turma, Rel.ª Min.ª Laurita Vaz, , DJe de 17/02/2014.
+Writ não conhecido. Ordem concedida de ofício, a fim de fixar o regime inicial aberto e substituir a pena corporal por duas restritivas de direito, as quais deverão ser especificadas pelo Juízo de Direito da Vara de Execuções Penais.
+(HC n. 607.762/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 18/11/2020, destaquei).
+Assim, preenchidos os requisitos objetivos e subjetivos do art. 44 do Código Penal, não identifico flagrante constrangimento ilegal ou mácula no aresto que justifique a intervenção imediata desta Corte Superior.
+À vista do exposto, com fun damento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
