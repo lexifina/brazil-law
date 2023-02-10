@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ADIANTAMENTO DE CONTRATO DE CÂMBIO (ACC). SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DAS EMBARGANTES. ENCARGOS INCIDENTES SOBRE O ADIANTAMENTO DE CONTRATOS DE CÂMBIO. SUJEIÇÃO DO CRÉDITO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. NATUREZA EXTRA CONCURSAL RESTRITA SOMENTE AO MONTANTE PRINCIPAL ADIANTADO AO EXPORTADOR. ENTENDIMENTO FIRMADO NO ÂMBITO DA TERCEIRA E QUARTA TURMAS DO STJ. PRECEDENTE DESTA CORTE. INSURGÊNCIA ACOLHIDA. REFORMA PARCIAL DA SENTENÇA PARA EXCLUIR OS ENCARGOS ACESSÓRIOS DO VALOR EXECUTADO CONTRA A RECUPERANDA. IMPORTÂNCIA QUE DEVE SER HABILITADA NO QUADRO-GERAL DE CREDORES. POSSIBILIDADE,CONTUDO, DO PROSSEGUIMENTO DA EXECUÇÃO PELO VALOR INTEGRAL CONTRA O DEVEDOR SOLIDÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DA SENTENÇA NESSE PONTO.
+"Por força do vetor interpretativo encartado no princípio da preservação da empresa, os encargos incidentes sobre o adiantamento de contratos de câmbio para exportação se submetem aos efeitos da recuperação judicial da devedora, restringindo-se o caráter extraconcursal (previsto no § 4º do artigo 49 da Lei 11.101/2005) aos créditos efetivamente adiantados, os quais deverão ser objeto de pedido de restituição, ex vi do disposto no inciso II do artigo 86 da citada norma. Precedentes" (STJ, AgInt no REsp1784921/SP, rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/08/2020,DJe 31/08/2020).
+ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. PARTES QUE DECAÍRAM DE FORMA RECÍPROCA DOS PEDIDOS. FIXAÇÃO PROPORCIONAL AO BENEFÍCIO ECONÔMICO OBTIDO. HONORÁRIOS RECURSAIS. CRITÉRIOS CUMULATIVOS ESTABELECIDOS PELA CORTE SUPERIOR NÃO ATENDIDOS. PARCIAL PROCEDÊNCIA DO APELO. MAJORAÇÃO VEDADA. RECURSO CONHECIDO E PROVIDO.(fl. 222, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 256/257, e-STJ)
+Nas razões do especial (fls. 276/291, e-STJ), o recorrente alega negativa de vigência dos arts. 49, caput, § 4º, 86, II, da Lei nº 11.101/2005.
+Sustenta, em síntese, ao decidir sobre a natureza do crédito executado (caráter extraconcursal), o acórdão recorrido invadiu a competência material do juízo da recuperação judicial.
+Na hipótese, defende a competência absoluta do juízo da recuperação para deliberar a respeito da concursalidade ou não do crédito (Antecipação do Contrato de Câmbio).
+No ponto, afirma que
+"(..) não cabe ao Juízo da execução dizer se um crédito é ou não extraconcursal, tampouco se o crédito é, no todo ou em parte, submetido ao Juízo da Recuperação, muito menos afirmar onde estaria enquadrado dentro do quadro geral de credores para receber conforme previsto no Plano aprovado ou por aprova" (fl. 279, e-STJ).
+Oferecidas as contrarrazões (fls. 303/312, e-STJ), recurso não foi admitido na origem, daí o presente agravo, no qual se busca o seu processamento.
+É o relatório.
+DECIDO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida,
+De início, a deficiência na fundamentação recursal ficou evidenciada, tendo em vista que a parte recorrente, apesar de indicar os arts. 49, caput, § 4º, 86, II, da Lei nº 11.101/2005 como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Isso porque o conteúdo normativo de tais dispositivos não são capazes de amparar a discussão posta em debate, qual seja, a invasão de competência do juízo da recuperação pelo aresto atacado.
+Incide, pois, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE SEGURO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. Considera-se deficiente a fundamentação quando o conteúdo normativo dos dispositivos tidos como violados não são capazes de amparar a discussão posta a desate e/ou os argumentos invocados no recurso não demonstram como o acórdão recorrido violou o artigo arrolado, o que importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido" (AgInt no AREsp 892.216/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Além disso, no que diz respeito à sujeição dos encargos incidentes sobre o adiantamento de contratos de câmbio para exportação aos efeitos do procedimento recuperacional, a conclusão do aresto atacado não destoa do entendimento desta Corte firmado sobre o assunto.
+Nesse sentido, confiram-se:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ADIANTAMENTO DE CONTRATOS DE CÂMBIO (ACCs). ENCARGOS. SUJEIÇÃO AO PROCESSO DE SOERGUIMENTO. AUSÊNCIA DE REGRA ESPECÍFICA. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. RISCO DE DECISÕES CONFLITANTES. INEXISTÊNCIA.
+1. Impugnação de crédito apresentada em 16/10/2014. Recurso especial interposto em 21/6/2018. Autos conclusos à Relatora em 21/2/2019.
+2. O propósito recursal, além de verificar se houve negativa de prestação jurisdicional, é definir se os encargos derivados de adiantamento de contratos de câmbio se submetem aos efeitos da recuperação judicial da devedora.
+3. Muito embora os arts. 49, § 4º, e 86, II, da Lei 11.101/05 estabeleçam a extraconcursalidade dos créditos referentes a adiantamento de contratos de câmbio, há de se notar que tais normas não dispõem, especificamente, quanto à destinação que deva ser conferida aos encargos incidentes sobre o montante adiantado ao exportador pela instituição financeira.
+4. Inexistindo regra expressa a tratar da questão, a hermenêutica aconselha ao julgador que resolva a controvérsia de modo a garantir efetividade aos valores que o legislador privilegiou ao editar o diploma normativo.
+5. Como é cediço, o objetivo primordial da recuperação judicial, estampado no art. 47 da Lei 11.101/05, é viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores.
+6. A sujeição dos valores impugnados aos efeitos do procedimento recuperacional é a medida que mais se coaduna à finalidade retro mencionada, pois permite que a empresa e seus credores, ao negociar as condições de pagamento, alcancem a melhor saída para a crise enfrentada. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO. (REsp 1.810.447/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 05.11.2019, DJe 22.11.2019- grifou-se) :
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CRÉDITOS REFERENTES A ADIANTAMENTOS DE CONTRATOS DE CÂMBIO PARA EXPORTAÇÃO. AÇÃO EXECUTIVA AJUIZADA EM FACE DA RECUPERANDA E DOS GARANTIDORES HIPOTECÁRIOS.
+1. Por força do vetor interpretativo encartado no princípio da preservação da empresa, os encargos incidentes sobre o adiantamento de contratos de câmbio para exportação se submetem aos efeitos da recuperação judicial da devedora, restringindo-se o caráter extraconcursal (previsto no § 4º do artigo 49 da Lei 11.101/2005) aos créditos efetivamente adiantados, os quais deverão ser objeto de pedido de restituição, ex vi do disposto no inciso II do artigo 86 da citada norma. Precedentes.
+2. A parte final do § 3º do artigo 49 da Lei 11.101/2005 obsta, durante o stay period, a venda ou a retirada do estabelecimento do devedor de bens de capital essenciais a sua atividade empresarial, o que, por óbvio, abrange o parque fabril e e a sede da sociedade recuperanda, cuja deliberação sobre quaisquer atos expropriatórios compete exclusivamente ao Juízo da recuperação.
+3. Agravo interno não provido" (AgInt no REsp n. 1.784.921/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/8/2020, DJe de 31/8/2020.)
+Nesse contexto, tem incidência a Súmula nº 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, ficando a parte recorrente responsável pelo pagamento de 30% (trinta por cento) e a recorrida em 70% (setenta por cento) desse valor.
+Assim, em observância ao art. 85, §§ 11, do CPC/2015, majoro em 5% (cinco por cento) a verba honorária atribuída à parte recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
