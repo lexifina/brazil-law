@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de mandado de segurança interposto por Mauri Gonçalves, com fundamento nos arts. 5º, LXIX, da Constituição Federal e 1º da Lei 12.016/2009, em contrariedade a acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina que manteve a decisão do Juízo de primeiro grau que indeferiu pedido de concessão dos benefícios da gratuidade da justiça e intimou o autor para pagar as custas iniciais, sob pena de cancelamento da distribuição e extinção da ação, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. DECISÃO QUE INDEFERIU A GRATUIDADE DA JUSTIÇA. INSURGÊNCIA DA PARTE AUTORA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. AUSÊNCIA DE DOCUMENTAÇÃO QUE DEMONSTRE CABALMENTE A CARÊNCIA DE RECURSOS FINANCEIROS. DECISÃO MANTIDA.
+RECURSO NÃO PROVIDO.
+Argumenta o impetrante, em síntese, que, "o ato ilegal se faz presente pelo indeferimento do benefício da justiça gratuita quando cabalmente demonstrada a impossibilidade de a parte arcar com as custas processuais ante a sua hipossuficiência e ainda assim ser condenada a tanto" (e-STJ, fl. 5).
+Aduz que "demonstrou de forma satisfatória sua hipossuficiência, apesar de se observar que o rendimento do impetrante é mínima e irrisoriamente superior ao parâmetro atendido pela Defensoria Pública (R$ 3.636,00), não há sinais de riqueza em sua vida financeira, não havendo como presumir outra a situação da parte senão hipossuficiente" (e-STJ, fl. 8).
+Afirma que "tem necessidade de que lhe seja concedida a antecipação dos efeitos da tutela, pois, caso não seja acarretará sérios prejuízos a ela, uma vez que a cobrança continuará a ser lançada sobre seu nome impossibilitando-a, inclusive, de ajuizar ações futuras em razão do débito com a justiça" (e-STJ, fl. 12).
+Dessa forma, busca seja deferida liminarmente a concessão da ordem, "deferindo os benefícios da justiça gratuita, e caso seja mantido o indeferimento, seja determinado o afastamento de pagamento das custas processuais, ante o cancelamento da distribuição, cessando imediatamente a lesão ao direito líquido e certo da parte Impetrante" (e-STJ, fl. 15).
+Brevemente relatado, decido.
+Preliminarmente, é de ver que ao Superior Tribunal somente compete processar e julgar, originariamente, os mandados de segurança impetrados contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal, consoante previsão do art. 105, I, b, da Constituição.
+Daí que, se não provém o ato atacado de uma das autoridades apontadas nesse rol, evidente se torna a incompetência do Superior Tribunal de Justiça para o processamento do writ.
+Como corolário da previsão constitucional, temos que, nos termos da Súmula 41, "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Com efeito, a jurisprudência desta Corte Superior tem declarado sua incompetência para o julgamento de mandados de segurança impetrados em face de acórdãos de Tribunais de segundo grau, como se vê dos seguintes precedentes:
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO DE TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DESTE STJ. AGRAVO DESPROVIDO.
+1. A CRFB é bastante clara ao restringir a competência deste Superior Tribunal de Justiça para julgar mandados de segurança apenas contra atos de Ministros de Estado, de Comandantes das Forças Armadas ou do próprio Tribunal (art. 105, I, "b").
+2. Agravo regimental desprovido.
+(AgRg no MS n. 28.987/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 9/11/2022, DJe de 14/11/2022.)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. MANIFESTA ADIALETICIDADE. AGRAVO A SUSTENTAR O CABIMENTO DE MANDADO DE SEGURANÇA QUANDO A DECISÃO AGRAVADA LIMITOU-SE A RECONHECER A INCOMPETÊNCIA DO STJ PARA O EXAME DE MANDADO DE SEGURANÇA CONTRA ACÓRDÃO DE TRIBUNAL LOCAL. SÚMULA 41 DO STJ. APLICAÇÃO DA MULTA LEGALMENTE PREVISTA.
+1. De acordo com o enunciado sumular n.º 41 desta Corte, "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+2. É manifestamente improcedente o agravo interno interposto a se voltar contra enunciado sumular desta Corte, expressão direta da Constituição da República, e, ainda, sem a mínima dialeticidade ao que efetivamente decidido.
+3. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+(AgInt no MS n. 28.501/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 25/10/2022, DJe de 27/10/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ACÓRDÃO DO TRIBUNAL REGIONAL FEDERAL DA PRIMEIRA REGIÃO. MANIFESTA INCOMPETÊNCIA DO STJ. SÚMULA 41/STJ.
+1. É patente o descabimento do mandado de segurança impetrado contra ato coator oriundo do Tribunal Regional Federal da 1ª Região, ante a inequívoca incompetência desta Corte Superior. Incidência da Súmula 41 do STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros Tribunais ou dos respectivos órgãos".
+2. Nos termos do art. 102, I, "r", da Constituição da República, compete ao STF processar e julgar originariamente as ações contra o Conselho Nacional de Justiça, tendo o Plenário daquela Corte Suprema, na questão de ordem na Ação Originária (AO) 1.814 e no AgRg na Ação Cível Originária (ACO) 1.680, deter a competência para processar e julgar as chamadas ações mandamentais, de cunho tipicamente constitucional, impetradas contra o CNJ.
+3. Agravo interno não provido.
+(AgInt no MS 24.313/DF, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 27/11/2018, DJe 12/12/2018)
+Não bastasse tal fundamento, assinala-se que o Mandado de Segurança não consubstancia sucedâneo recursal, afigurando-se, pois, inadequada sua impetração em contrariedade à decisão judicial passível de impugnação prevista em lei, conforme preceitua o enunciado n. 267 da súmula do STF.
+Ante o exposto, indefiro a petição inicial, nos termos do art. 10 da Lei n. 12.016/2009.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM QUE NEGOU PROVIMENTO A AGRAVO DE INSTRUMENTO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA O JULGAMENTO. ART. 105, I, B, DA CONSTITUIÇÃO FEDERAL. SÚMULA N. 41/STJ. INCIDÊNCIA. PETIÇÃO INICIAL INDEFERIDA.
