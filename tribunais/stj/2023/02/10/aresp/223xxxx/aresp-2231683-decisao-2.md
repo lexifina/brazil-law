@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Julio Cesar da Silva Trindade contra decisão do Tribunal Regional Federal da 3ª Região, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal 0004257-47.2011.4.03.6181/SP (fls. 1.641/1.667):
+PENAL. APELAÇÃO CRIMINAL. ESTELIONATO CONTRA O INSS. ART. 171, § 3º, DO CP. CORRUPÇÃO ATIVA E PASSIVA. ART. 317 E 333 DO CP. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO. INTERCEPTAÇÕES TELEFÔNICAS AUTORIZADAS JUDICIALMENTE. EXAME PERICIAL DESNECESSÁRIO. PREJUÍZO NÃO DEMONSTRADO. NULIDADES NÃO RECONHECIDAS. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA DA PENA. CONFISSÃO. PATAMAR DE REDUÇÃO. RECURSOS NÃO PROVIDOS.
+1. A juntada de relatórios de investigação e outras provas após o oferecimento da denúncia, por si só, não constitui violação ao contraditório ou a ampla defesa. Na realidade, importa saber se as partes tiveram oportunidade de analisar e refutar as provas trazidas aos autos, exercendo plenamente o contraditório. No caso concreto, a resposta é positiva. Prejuízo para a defesa não demonstrado. Precedente.
+2. A interceptação telefônica foi efetivada com base em autorização judicial, bem como as sucessivas prorrogações, não havendo prova de vício na sua realização. Assim, não cabe falar em nulidade da prova.
+3. A regra do exame pericial não é absoluta, tanto que o art. 167 do Código de Processo Penal dispõe que a prova testemunhal poderá suprir-lhe a falta. Nesta toada, relembro que as próprias subscritoras do documento impugnado (relatório) foram arroladas como testemunhas, sendo ouvidas em audiência. Além disso, o réu sequer indica qual seria a impropriedade do documento, limitando-se a pleitear seu desentranhamento sob o argumento de que seria prova ilícita ou imprestável.
+4. Materialidade, autoria e dolo dos acusados restaram plenamente comprovados pelo conjunto probatório coligido nos autos, que se constituiu a partir de prova documental e oral colhidas no curso da instrução criminal.
+5. Fixação da pena que deve levar em conta as circunstâncias judiciais do caso concreto.
+6. Não se revela correta a majoração da pena em razão da motivação arguida pelo MPF, qual seja a de obter "dinheiro fácil". Isso porque referido intento é comum aos delitos de ordem patrimonial.
+7. Ainda que se reconheça a atenuante da confissão no caso concreto, já que as declarações do réu reforçaram o aspecto objetivo da autoria, mostra-se demasiado o redutor de 1/3 fixado na sentença, uma vez que a confissão do acusado em momento algum abrangeu o dolo. Diante disso, a pena deve ser reduzida em apenas 1/6 na segunda fase da dosimetria da pena.
+8. De ofício, afastam-se as causas de aumento previstas nos artigos 317, § 1º, e 333, § único, ambos do CP, eis que no caso concreto configuram conduta típica, qual seja o próprio tipo legal do estelionato. Proibição ao bis in idem. Precedente.
+9. Recurso do Ministério Público Federal parcialmente provido.
+10. Recursos dos réus não providos.
+Opostos embargos de declaração (fls. 1.670/1.671), foram desprovidos (fls. 1.781/1.810).
+PROCESSO PENAL. PENAL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. DECISÃO DEVIDAMENTE FUNDAMENTADA QUE NÃO APRESENTA QUALQUER VÍCIO. RECURSO DESPROVIDO.
+1. Conforme preceitua o art. 619 do Código de Processo Penal, os embargos de declaração são o recurso cabível quando "houver na sentença, ambiguidade, obscuridade, contradição ou omissão".
+2. Inexistem as omissões, obscuridades ou contradições alardeadas pelo embargante, eis que o acórdão expôs com suficiente clareza as razões para a manutenção do decreto condenatório, seja no que tange às preliminares seja quanto ao mérito, assim como não há discrepância entre os argumentos dispostos no voto da Relatoria e a conclusão alcançada a partir deles.
+3. Em boa medida, as alegações dos embargantes demonstram somente o desagrado com a manutenção da condenação proferida, de modo que seus apontamentos acerca de omissões, contradições e obscuridades não passam de subterfúgios para devolver ao Tribunal o conhecimento da matéria, na esperança de que, a partir de nova análise, altere-se o resultado do acórdão. Contudo, tal intento não pode dar frutos. Os embargos de declaração não servem à rediscussão da matéria, eis que estão limitados às hipóteses expressamente previstas em lei. E, como visto, no tocante a estas, não assiste razão ao embargante.
+4. Embargos de Declaração não providos.
+No recurso especial, o agravante requer o provimento para adequar a pena base ao mínimo legal.  ..  e o afastamento da condenação pelo delito de corrupção passiva, ausentes as elementares do tipo (fl. 1.862).
+O Tribunal de origem não admitiu o recurso, por incidência da Súmula 284/STF (fls. 1.955/1.960).
+Contra essa decisão, a defesa interpõe o presente agravo (fls. 1.966/1.967).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (fls. 2.072/2.081):
+AGRAVO EM RECURSO ESPECIAL. ESTELIONATO CONTRA O INSS. MATERIALIDADE E AUTORIA COMPROVADAS. INTERCEPTAÇÕES TELEFÔNICAS E PRORROGAÇÕES AUTORIZADAS JUDICIALMENTE. EXAME PERICIAL DESNECESSÁRIO. PREJUÍZO NÃO DEMONSTRADO. NULIDADES NÃO RECONHECIDAS. DOSIMETRIA DA PENA. FUNDAMENTADA.
+1. Para entender-se pela absolvição do Recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ;
+2. As interceptações telefônicas e suas prorrogações foram autorizadas judicialmente e eram indispensáveis para a solução do caso em tela;
+3. Inexiste nulidade se não demonstrado o prejuízo sofrido;
+4. A prova técnica não é exclusiva para atestar a materialidade das condutas. Havendo nos autos outros meios de provas capazes de levar ao convencimento do julgador, não há falar em nulidade processual por ausência do exame de corpo de delito;
+5. A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade atribuída ao magistrado sentenciante, impede a revisão da reprimenda pelo Superior Tribunal de Justiça, exceto se ocorrer evidente desproporcionalidade, quando caberá a reapreciação para a correção de eventuais desacertos quanto ao cálculo das frações de aumento ou de diminuição e apreciação das circunstâncias judiciais;
+6. Parecer pelo não provimento da pretensão recursal.
+É o relatório.
+A referida insurgência não comporta conhecimento.
+Conforme se depreende da leitura da decisão ora agravada, o recurso especial não foi admitido, sob as seguintes razões (fl. 1.958 - grifo nosso):
+ ..
+As razões recursais estão dissociadas do acórdão recorrido, que apreciou fundamentadamente a matéria impugnada. O recurso do recorrente não está assentado em quaisquer das hipóteses de cabimento típicas deste recurso excepcional, além do que se insurge em relação à demanda que foi adequadamente apreciada pela Turma julgadora, a revelar a flagrante falta de fundamentação válida à admissibilidade do recurso especial. As questões em torno da tipicidade e dos elementos do crime, assim como a dosimetria da pena foram analisadas, fundamentadamente, no acórdão recorrido.
+O recorrente não se desincumbiu do ônus de impugnar especificamente suas objeções aos fundamentos do acórdão, mas apenas deduz argumentos genéricos relativos ao seu inconformismo com o resultado do julgamento e o montante da sanção aplicada, alegando a existência de error in judicando, reproduzindo as razões que lhe serviram para sustentar o recurso de apelação, o que não se presta para viabilizar o conhecimento deste recurso especial, sobretudo quando veicula, apenas e genericamente, inconformismo em torno da tipicidade do fato descrito na denúncia e error in judicando sobre as provas produzidas na fase deformação da culpa, deixando de se reportar à hipótese para o cabimento do recurso excepcional.
+O Supremo Tribunal Federal, a teor da Súmula 284, que se aplica também a hipótese aqui vertida, em inúmeras ocasiões rechaça o recurso excepcional inepto, caracterizado em arrazoado não fundamentado, que não contenha a demonstração inequívoca da violação ou contrariedade à norma infraconstitucional ou que não contemple expressamente os motivos pelos quais o acórdão recorrido deixou de dar cumprimento ao preceito normativo, revelando, portanto, a deficiência das razões recursais que não podem sequer ser conhecidas, conforme enunciado daquele verbete sumular, com a seguinte redação: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", que se aplica igualmente ao recurso especial, de acordo com precedentes do Excelso Pretório e do C. STJ.
+ ..
+Sucede que, não consta do presente agravo em recurso especial qualquer impugnação relativa a ess es fundamentos.
+Dessa forma, a insurgência não merece prosperar, haja vista os recorrentes não terem atacado de forma específica os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+A corroborar:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. FALHA QUE SE REPETE NO PRESENTE REGIMENTAL. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO. TRÁFICO DE DROGAS. PENA-BASE. MAJORAÇÃO EXACERBADA. REGIME PRISIONAL FECHADO. HEDIONDEZ. FUNDAMENTO INIDÔNEO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Nas razões do presente agravo, a defesa deixou de impugnar de forma clara e objetiva os fundamentos do decisum agravado, o que impede o seu conhecimento, por ausência de requisito de admissibilidade (Súmula 182/STJ).
+2. Como tem reiteradamente decidido esta Corte, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia.
+ ..
+5. Agravo regimental não conhecido. Habeas Corpus concedido de ofício.
+(AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018 - grifo nosso).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE NÃO CONHECIMENTO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 desta Corte, é manifestamente inadmissível o agravo regimental que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+2. O juízo de admissibilidade realizado pelo Tribunal de origem não vincula esta Corte Superior, a quem cabe o juízo definitivo acerca dos requisitos extrínsecos e intrínsecos do recurso especial.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.056.485/ES, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/4/ 2018 - grifo nosso).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ESTELIONATO CONTRA O INSS E CORRUPÇÃO PASSIVA. PENAL E PROCESSUAL PENAL. INADMISSÃO DO RECURSO ESPECIAL COM SUPORTE NA SÚMULA 284/STF. RECURSO QUE NÃO INFIRMOU OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
