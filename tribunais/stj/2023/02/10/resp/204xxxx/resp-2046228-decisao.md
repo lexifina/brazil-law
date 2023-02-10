@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial (fls. 280-296, e-STJ) interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (fls. 86-87, e-STJ):
+EMBARGOS À EXECUÇÃO. CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO NÃO USUFRUÍDA. ABONO DE PERMANÊNCIA. INCLUSÃO NA BASE DE CÁLCULO. CORREÇÃO MONETÁRIA.
+É cabível a inclusão do abono de permanência na base de cálculo das parcelas devidas a título de licença-prêmio não usufruída e convertida em pecúnia.
+No tocante aos acréscimos legais, cumpre destacar que a aplicação do critério de atualização dos débitos judiciais está sendo questionada nas ADIs nº 4357, 4372, 4400 e 4425. A controvérsia ainda não teve solução definitiva, restando pendente a modulação de seus efeitos e os índices a serem aplicados.
+Portanto, a partir da entrada em vigor da Lei nº 11.960/2009, nas condenações impostas à Fazenda Pública, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança nela disciplinados sem, contudo, retroagir ao período anterior à sua vigência.
+Os Embargos de Declaração de fls. 92-96, e-STJ, foram providos para que fosse excluída do julgado a aplicação da Lei 11.960/2009 no tocante aos juros e correção monetária, porque que a matéria não teria sido objeto dos Embargos à Execução opostos pela UFRGS (fls. 133- 141, e-STJ).
+Os Embargos de Declaração de fls. 99-105 e 147-152, e-STJ foram acolhidos somente para fim de prequestionamento (fls. 133-141 e 268-273, e-STJ).
+O recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts.535 do CPC/1973 e 40, 41 e 87 da Lei 8.112/1990. Sustenta:
+Data venia, a r. decisão viola a legislação de regência porque o abono de permanência não faz, nos termos da lei, parte da remuneração da embargada a justificar sua inclusão na indenização. Para exemplificar basta responder à indagação que segue: na aposentadoria cabe incluir nos proventos o abono de permanência  A resposta é obviamente negativa porque estar-se-ia outorgando valor superior à remuneração dos servidor quando em atividade. Portanto, impossível integrar a base de cálculo em debate.
+(..)
+Em verdade, o Recurso repetitivo que julgou a matéria no âmbito do STJ foi o RESP 1.205.946/SP, de relatoria do Min. Benedito Gonçalves, conforme reconhecido inclusive na decisão de afetação do RESP 1.270.439/PR pelo Min. Relator Castro Meira.
+(..)
+Ressalte-se que o referido acórdão proferido pela Corte Especial do STJ no julgamento do RESP 1.205.946/SP, de relatoria do Ministro Benedito Gonçalves, submetido ao rito dos recursos repetitivos, consolidou o entendimento segundo o qual o art. 1º-F da Lei nº 9.494/97 é norma de caráter eminentemente processual, devendo ser aplicado indistintamente a todas as demandas judiciais em trâmite. Há, portanto, de ser aplicada integralmente tal norma, inclusive no que toca à TR.
+O Tribunal a quo entendeu "incabível a retratação desta Turma, porquanto ausente decisão da Turma em relação à (in)constitucionalidade da utilização da TR a título de correção monetária, objeto dos Tema nºs 810/STF e 905/STJ, já que os embargos de declaração do exequente foram providos com efeitos infringentes para excluir do julgado a determinação de aplicação da Lei 11.960/2009 no tocante aos juros e correção monetária" (fls. 350-354, e-STJ).
+O juízo prelibador afastou o Tema 1.086/STJ quanto à questão de fundo devido à harmonia do acórdão recorrido com a jurisprudência consolidada no Superior Tribunal de Justiça, o que fez incidir na espécie o óbice da Súmula 83/STJ.
+No tocante aos Temas 96 e 1.037 do STF, o Colegiado originário considerou que a matéria neles abordada não guarda relação com o Recurso, e que a Lei 11.960/2009 (Tema 905), sequer debatida na inicial dos Embargos à Execução, não pode ser decidida de ofício. Quanto ao ponto, o Apelo merece prosseguir, visto que houve o devido prequestionamento da contrariedade aos dispositivos indicados. Além disso, encontram-se preenchidos os demais requisitos de admissibilidade.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de janeiro de 2022.
+A irresignação não merece acolhida.
+É caso de preclusão consumativa, conforme consignou a Corte regional (fl. 353, e-STJ):
+Opostos embargos de declaração pela UFRGS, estes restaram rejeitados quanto ao ponto:
+A matéria relativa à aplicação da Lei nº 11.960/09 sequer foi debatida na inicial dos embargos à execução, tampouco em sede de apelo. A Universidade, em suas razões, limitou-se a apresentar nova conta especificando que o excesso consistia apenas na inclusão indevida do abono de permanência. Ressalte-se que no parecer juntado no evento 1 - PARECERTEC2, a UFRGS informou o seguinte:
+"Os valores devidos estão de acordo com a Sentença que determinou o pagamento de 9 MESES de remuneração, a título de indenização pela Licença Prêmio, com base na remuneração percebida pelo autor na data da aposentadoria (04/2013), atualizados monetariamente pela variação do IPCA-E mais juros de 6% ao ano a partir da citação (07/2007). Portanto, nada temos a opor neste particular. Ocorre que o autor inclui na base de cálculo da remuneração a rubrica 82273 - referente ao Abono Permanência no valor de R$ 1.820,86 indevidamente(..).
+Ademais, esta Turma vem entendendo que a aplicação da referida lei não pode ser conhecida de ofício pelo juízo.
+São requisitos para o cabimento do juízo de retratação que: (a) tenha havido decisão do colegiado sobre a questão controvertida no julgamento do recurso repetitivo (ou seja, sobre o "tema" delimitado pelo tribunal superior na sistemática dos recursos repetitivos); e (b) que tal decisão tenha contrariado inequivocamente o entendimento emanado do tribunal superior naquele julgamento (a "tese firmada" pelo tribunal superior).
+No caso, é incabível a retratação desta Turma, porquanto ausente decisão da Turma em relação à (in)constitucionalidade da utilização da TR a título de correção monetária, objeto dos Tema nºs 810/STF e 905/STJ, já que os embargos de declaração do exequente foram providos com efeitos infringentes para excluir do julgado a determinação de aplicação da Lei 11.960/2009 no tocante aos juros e correção monetária.
+Ainda que se pudesse adentrar na questão, de modo a entender que o art. 1º-F da Lei 9.494/1997 é norma de caráter eminentemente processual e deve ser aplicado indistintamente a todas as demandas judiciais em trâmite, tal conceito não destoa do tema 905/STJ, que assim determinou:
+(..)
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos.
+As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+(..)
+4. Preservação da coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto.
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
