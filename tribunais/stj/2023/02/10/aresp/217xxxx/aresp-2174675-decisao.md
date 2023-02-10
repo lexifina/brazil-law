@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto a acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE NULIDADE DE AUTO DE INFRAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AUTUAÇÃO DO PROCON. PROCESSO ADMINISTRATIVO. IMPOSIÇÃO DE MULTA. CONTRAPROVA. PRODUTO À DISPOSIÇÃO DA EMPRESA AUTUADA. INÉRCIA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO.
+I. Nos termos do artigo 496, § 3º, II, do CPC/15, não se sujeita ao Reexame Necessário a sentença proferida contra os estados e suas respectivas autarquias e fundações de direito público, cuja condenação ou proveito econômico obtido na causa é inferior a 500 (quinhentos) salários-mínimos, como no caso em comento.
+II. O Procon tem poder de polícia para impor multas decorrentes de transgressão às regras ditadas pelo Código de Defesa do Consumidor e Decreto Federal nº 2.181/1997.
+III. A intervenção do Judiciário nos feitos em que se busca a declaração de nulidade do Processo Administrativo, que fulminou na imposição de sanção pelo Procon, em razão de violação aos direitos dos consumidores, restringe-se à legalidade do ato. À luz da independência dos Poderes, considera-se, neste particular, a competência, a finalidade, a motivação e o objeto, que constituem os requisitos necessários à formação do ato administrativo.
+IV. No caso em comento, não se há falar em cerceamento do direito da empresa autora/apelante, tendo em vista que o processo administrativo respeitou a legislação vigente e, ante a constatação de infração, aplicou a sanção cabível.
+V. Tendo sido deixada a disposição no estabelecimento comercial amostra lacrada para a realização de contraprova e não tendo a empresa autuada utilizado desta para tal, não há que se alegar que foi negada a realização de contraprova, tampouco há que se cogitar ofensa ao direito de defesa.
+VI. Face ao novo deslinde dado à causa, invertem-se os ônus sucumbenciais, a fim de condenar a parte sucumbente ao pagamento das custas e honorários advocatícios.
+REMESSA NECESSÁRIA NÃO CONHECIDA. 1ª APELAÇÃO CÍVEL CONHECIDA E PROVIDA. 2ª APELAÇÃO CÍVEL PREJUDICADA.
+Os Embargos de Declaração foram rejeitados com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO DUPLO GRAU DE JURISDIÇÃO E APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE AUTO DE INFRAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AUTUAÇÃO DO PROCON. PROCESSO ADMINISTRATIVO. IMPOSIÇÃO DE MULTA. CONTRAPROVA. PRODUTO À DISPOSIÇÃO DA EMPRESA AUTUADA. INÉRCIA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AUSÊNCIA DOS VÍCIOS ESPECIFICADOS NO ARTIGO 1.022 E INCISOS DO CPC.
+Não ocorrendo os vícios elencados no artigo 1.022 do Código de Processo Civil, devem ser rejeitados os embargos que visam tão somente rediscutir matéria já examinada e decidida, ainda que para efeito de prequestionamento, conforme precedentes deste Tribunal.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Nas razões do Recurso Especial, a ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 44, 45, 46, 47 e 48 do Decreto 2.181/1997; 489, § 1º, I, III e IV, do CPC/2015; e 37, § 6º, e 93, IX, da CF/1988.
+Contrarrazões às fls. 704-729, e-STJ.
+Instado a se manifestar, o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Humberto Jacques de Medeiros, opinou pelo não conhecimento do Agravo em Recurso Especial.
+Eis a ementa do Parecer Ministerial:
+Direito administrativo e processual civil. Agravo em recurso especial. Multa administrativa. Insufi ciente impugnação dos fundamentos de inadmissão do recurso. Inadmissibilidade.
+Não havendo sido devidamente impugnada a decisão de inadmissão do recurso especial na origem, restam incólumes os seus fundamentos. Incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+Parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6 de janeiro de 2023.
+A pretensão não merece acolhida.
+Com efeito, a Vice Presidência do Tribunal de Justiça do Estado de Goiás negou seguimento ao Recurso Especial nestes termos (fls. 753-754, e-STJ):
+Inicialmente, registre-se que não merece ser conhecido o pedido formulado em sede de contrarrazões, pertinente à majoração da verba advocatícia, ante a inadequação da via eleita, pois, no juízo de admissibilidade dos recursos excepcionais, analisa-se, tão somente, a viabilidade para serem ou não processados e encaminhados às Cortes Superiores para julgamento.
+Dito isso, verifico, de plano, que o juízo de admissibilidade a ser exercido, neste caso, é negativo.
+Em primeiro lugar, o recurso especial não é via adequada à apreciação de eventual ofensa a preceito constitucional, por se tratar de matéria da competência do Supremo Tribunal Federal, em sede de recurso extraordinário, ao teor do art. 102, III e alíneas, da Carta Magna.
+Lado outro, acerca dos dispositivos infraconstitucionais apontados, tem-se que a conclusão sobre o acerto ou desacerto do acórdão recorrido demandaria sensível incursão no conjunto fático-probatório, de maneira que se pudesse aferir se houve ou não burla ao princípio da persuasão racional, bem como perscrutar a (ir)regularidade do processo administrativo descrito nos autos. E isso, de forma hialina, impede o trânsito do recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
+Já quanto à alínea "c" do permissivo constitucional, além do referido óbice sumular, vê-se que a recorrente não cumpriu as exigências do art. 1.029, § 1º, do CPC, porquanto não procedeu à demonstração analítica da pretendida divergência, com menção às circunstâncias que se identifiquem ou se assemelhem aos casos confrontados.
+Isto posto, deixo de admitir o recurso.
+Do exame do Agravo, todavia, verifica-se que a agravante se limita a reiterar as alegações do Recurso Especial e não logra desconstituir a fundamentação que inadmitiu a insurgência.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou a diretriz de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Min. JOÃO OTÁVIO DE NORONHA, Rel. p/ a córdão Min. LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018)
+Por fim, cumpre esclarecer que a impugnação tardia (por ocasião do manejo de Agravo Interno) dos argumentos que motivaram a inadmissão do Recurso Especial, além de caracterizar imprópria inovação recursal, não tem a propriedade de afastar a aplicação do referido verbete da Súmula 182/STJ, haja vista a ocorrência de preclusão consumativa.
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
