@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Embargos à execução. Ação executória lastreada em cheques. Julgamento de parcial procedência dos embargos à execução. Condenação do embargante por litigância de má-fé pela r. sentença. Irresignação recursal do executado/embargante. Preliminares de violação aos princípios do devido processo legal e do juiz natural afastadas. Apuração do saldo devedor por meio de laudo pericial. Inexistência de erro aritmético ou metodológico no laudo. Título líquido, certo e exigível. Inexistência de cobrança excessiva de juros. Não configuração do art. 940, do CC. Condenação do embargante por litigância de má-fé, contudo, afastada. Apelo parcialmente provido.
+A parte agravante sustenta que o valor dos títulos executados não corresponde ao valor real da dívida contraída com a parte recorrida, circunstância que afasta a liquidez, demandando a extinção do feito.
+Quanto ao tema, assim se pronunciou a Corte de origem, in verbis:
+Extrai-se dos autos que as partes mantinham uma relação de amizade (como bem demonstra a conversa no aplicativo "whatsapp", fls. 27/64) e, por conta de dificuldades financeiras do embargante, o embargado aceitou fazer empréstimos em seu nome 1 , na vultuosa quantia total de R$ 321.357,01 2 (fls. 19/22 do Processo nº 1010837-41.2018.8.26.0625), para ajudar o embargante, que, por sua vez, se comprometeu a fazer todo o pagamento nos termos contratados entre o embargado e o banco.
+Porém, em março de 2017, no decorrer do acordo entabulado entre as partes, sobreveio a inadimplência do embargante/ora apelante, o que motivou o ajuizamento de ação de execução de título executivo extrajudicial pelo ora embargado (Processo nº 1010837-41.2018.8.26.0625).
+(..)
+Após processamento dos embargos à execução, verifica- se que o MM. Juízo de primeiro fixou valor da dívida real 3 decorrente de negócio subjacente e, desse modo, reduziu a pretensão executória do apelado com base no valor apurado pelo laudo pericial: R$ 225.436,23 para setembro de 2020 (fls. 1293/1307).
+Assim, foi reconhecido excesso parcial na ação executória e, se no laudo pericial inexiste erro metodológico ou aritmético, os cálculos realizados pelo perito são hígidos e dão norte ao feito, pois indicam o saldo remanescente atualizado devido pelo apelante.
+Nesses termos, a execução se reduz ao montante efetivamente devido, o que exclui a alegação de excesso e iliquidez e a cobrança indevida de juros.
+Com efeito, o fundamento principal do acórdão recorrido é de que a execução pode prosseguir, decotando-se o excesso verificado pela prova pericial, pois a cobrança a maior não retira a certeza e liquidez dos títulos de crédito. Esse fundamento não foi impugnado nas razões do recurso especial, circunstância que atrai a Súmula n. 283/STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
