@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de ISABELA CRISTINA CANTARANI, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que a ora paciente teve a prisão preventiva decretada pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico de drogas.
+Irresignada, a Defesa impetrou habeas Corpus perante o Tribunal de origem pleiteando a revogação da prisão preventiva. O Tribunal denegou a ordem, em acórdão, de fls. 45-50, que restou assim ementado:
+"HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃOPARA O TRÁFICO - Conversão da prisão em flagrante em preventiva - Pedido de liberdade provisória - Impossibilidade - Decisão devidamente fundamentada - Alegação de evidente "periculum in mora" em razão de possuir filhos que de pendem de seu sustento - Não ocorrência - Ausência de comprovação de que os menores estejam desamparados - Constrangimento ilegal não verificado - Ordem denegada" (fl. 46).
+Daí o presente writ, no qual sustenta a Defesa, em síntese, a ocorrência de constrangimento ilegal em razão da ausência dos requisitos ensejadores da prisão preventiva.
+Defende as boas condições pessoais favoráveis da Paciente, bem como a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação das medidas cautelares diversas da prisão.
+A liminar foi indeferida às fl. 324-325.
+Informações prestadas, às fls. 328-332 e 334-357.
+O d. Ministério Público Federal, às fls. 366-370, manifestou pela concessão parcial da ordem, conforme parecer que restou assim ementado:
+"HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DESNECESSIDADE DA PRISÃO PREVENTIVA, DADA A POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDA CAUTELAR DIVERSA. PARECER PELA CONCESSÃO PARCIAL DA ORDEM" (fl. 366).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, inciso XX, permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Quanto a alegação de ausência dos requisitos ensejadores da prisão preventiva, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+Por fim, condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
