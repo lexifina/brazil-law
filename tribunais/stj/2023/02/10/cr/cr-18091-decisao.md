@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça peruana (Vara Mista e Investigação Preparatória de Jorge Basadre) solicita a intimação de ANDRÉ LUIZ CACHUBA NICASTRO para comparecer de maneira pessoal e obrigatória a cada 60 dias, para efeitos do registro de assinatura e justificação de suas atividades (fls. 10/20).
+No pleito, a autoridade rogante requer, ainda, a concretização de ato de cooperação jurídica internacional para que a vara competente no Brasil realize o registro do comparecimento do interessado, nos termos supracitados, até o momento em que o cancelamento da medida seja expressamente disposto.
+Concedido o exequatur (fls. 44/45), foram os autos remetidos à Seção Judiciária do Estado de São Paulo para as providências cabíveis e diligências necessárias para intimar a parte interessada e dar concretização do ato rogado.
+O juízo federal acostou aos autos documentos comprovando a intimação do interessado (fl. 116) e seu primeiro comparecimento na data de 16/1/2023 (fl. 125). Assim que iniciado o cumprimento da medida os autos retornaram a este Superior Tribunal de Justiça.
+Considerando que a apresentação mensal do interessado já teve início e a justiça alienígena destacou que a cooperação deve ser executada "até o momento em que o cancelamento da medida seja expressamente disposto" (fl. 19), entendo que a comissão está cumprida, sendo de rigor o retorno dos autos ao país de origem para que tome conhecimento dos fatos.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ, independentemente do trânsito em julgado.
+Publique-se.
