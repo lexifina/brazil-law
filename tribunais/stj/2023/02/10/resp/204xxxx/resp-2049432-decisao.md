@@ -1,0 +1,11 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por CIRIACO DAS DORES FILHO em face de acórdão do Tribunal de Justiça do Estado do Maranhão proferido em sede de cumprimento de sentença promovido em desfavor do Estado do Maranhão.
+É o breve relatório.
+Declino da competência para julgamento do recurso especial.
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e das respectivas Turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+No caso, a matéria de fundo se insere na competência das Turmas integrantes da 1ª Seção do STJ (art. 9º, § 1º, XI, do RISTJ), tendo em vista o teor da ementa do julgado objeto de cumprimento (e-STJ Fl. 36):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. SERVIDORES PÚBLICOS DO PODER EXECUTIVO. CONVERSÃO DE CRUZEIROS REAIS PARA URV"s. DESCABIMENTO DE PERCENTUAL DE 3,17%. APURAÇÃO EM SENTENÇA DO PERCENTUAL MERECIDO. Já se encontra pacificada a matéria neste Tribunal, seguindo a orientação das Cortes Superiores, no sentido que os servidores públicos estaduais do Poder Legislativo, Judiciário e Ministério público possuem direito ao percentual de 11,98% relativo à conversão de cruzeiros reais em URV, restando, contudo, ao Poder Executivo, a necessidade de apuração em sentença do percentual merecido, oriundo daquela conversão monetária. CONDENAÇÃO DA FAZENDA PÚBLICA. CORREÇÃO. JUROS. HONORÁRIOS ADVOCATÍCIOS. Evidenciada a necessidade de condenação do Estado, resta aplicável a correção monetária, devida a partir do momento em que as diferenças deveriam ter sido pagas, enquanto que o percentual de juros deve ser fixado em 0,5% (meio por cento) ao mês, atendendo ao teor da Lei 9.494/97, art. 1-F inerente às condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos. No que toca aos honorários advocatícios, entendo que devam ser fixados no percentual de 10% (dez por cento) sobre o valor da condenação, fazendo atentar às regras do § 4 0 , do art. 20, do CPC, bem como das alíneas a, b e c do § 3 0 , do mesmo Diploma Legal, ante a natureza da causa e sua relativa complexidade. Conhecimento e parcial provimento da Apelação. Unanimidade.
+Assim, determino sejam os presentes autos encaminhados à redistribuição para um dos Ministros integrantes das Turmas que compõem a 1ª Seção.
+Cumpra-se.
+Intimem-se.
