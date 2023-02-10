@@ -1,0 +1,27 @@
+DECISÃO
+WELINGTON DAMITO DOS SANTOS alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500939-82.2020.8.26.0040.
+O impetrante busca, liminarmente e no mérito: a) o decote da majorante do repouso noturno; b) seja afastada a reincidência e c) abrandado o regime e substituída a pena privativa de liberdade - que lhe foi imposta pela prática do delito de furto qualificado - por restritiva de direitos.
+Indeferida a liminar e dispensadas as informações, veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 516-518)
+Decido.
+Extrai-se dos autos que o paciente foi condenado à pena de 3 anos, 7 meses e 16 dias de reclusão mais 16 dias-multa, em regime fechado, pela prática do delito previsto no art . 155, §§ 1º, 4º, I e IV, do Código Penal.
+Sobre o repouso noturno, no julgamento do tema repetitivo n. 1.087 (REsp n. 1.888.756/SP, REsp n. 1.890.981/SP e REsp n. 1.891.007/RJ, Rel. Ministro João Otávio de Noronha, 3ª S., DJe 27/6/2022), que constituiu overruling do entendimento até então adotado, a 3ª Seção do STJ fixou a tese de que "A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (destaquei).
+Assim, em atenção ao sistema de precedentes qualificados e à nova orientação desta Corte Superior, a referida majorante deve ser excluída da dosimetria.
+No que tange à reincidência, verifico que a tese ora apresentada - impossibilidade de utilização de crime previsto no art. 28 da Lei n. 11.343/2006 para configuração da referida agravante - não foi analisada pela Corte estadual, que se limitou a corroborar a dosimetria proferida na sentença.
+Assim, inviável o conhecimento da matéria, sob pena de indevida supressão de instância.
+Identificada a ilegalidade quanto à incidência do repouso noturno, passo à readequação da pena.
+Observados os critérios adotados pela Corte estadual, a pena-base foi fixada em 2 anos e 4 meses de reclusão mais 11 dias-multa, pela culpabilidade. Na segunda etapa, a pena foi elevada em 1/6, pela reincidência do réu, o que resulta em 2 anos, 8 meses e 20 dias de reclusão, além de 12 dias-multa. Na terceira fase, reconhecida a ilegalidade, afasto o aumento pelo repouso noturno, o que torna a pena definitivamente estabelecida em 2 anos, 8 meses e 20 dias de reclusão mais 12 dias-multa.
+Quanto à pretensão de fixação do regime semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso dos autos, em que pese a reduzida pena aplicada, o regime fechado foi fixado, em razão da reincidência do réu e da circunstância judicial negativa reconhecidas na primeira fase da dosimetria.
+Assim, o acórdão está em consonância com a Súmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+Saliento, ainda, a impossibilidade de concessão do regime aberto, pois tal modalidade, a teor do art. 33, § 2º, do CP, é reservada ao "condenado não reincidente".
+A substituição da pena privativa de liberdade por restritiva de direitos foi negada, pela existência de circunstância judicial negativa, situação que evidencia que a referida benesse não se mostra, no caso, socialmente recomendável, motivo pelo qual não há como ser concedida, ex vi do disposto no art. 44, III, do CP.
+A propósito:
+ ..
+5. Embora o paciente seja primário e a pena privativa de liberdade tenha sido reduzida, na decisão agravada, para 4 anos de reclusão, a existência de circunstâncias judiciais desfavoráveis justificam o estabelecimento do regime inicial semiaberto e a negativa de substituição da pena privativa de liberdade por restritivas de direitos, na esteira do disposto nos arts. 33, §§ 2º e 3º, e 44, inciso III, ambos do Código Penal. Precedentes.
+6. Agravo regimental parcialmente conhecido e, na extensão, não provido.
+(AgRg no HC n. 685.600/RR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 18/03/2022, grifei)
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, concedo parcialmente a ordem, apenas para afastar o repouso noturno e redimensionar a pena para 2 anos, 8 meses e 20 dias de reclusão mais 12 dias-multa.
+Publique-se e intimem-se.
