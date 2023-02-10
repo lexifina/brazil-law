@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de segundos embargos de declaração opostos por JOSÉ ARY NASSIFF contra decisão monocrática, da MINHA LAVRA, que acolheu em parte os embargos anteriores.
+O embargante aduz, em um primeiro momento, que os presentes embargos são cabíveis, uma vez que "as matérias aqui suscitadas dizem respeito a duas questões de ordem pública que surgiram a partir das premissas fixadas quando da apreciação dos primeiros embargos de declaração".
+No mais, afirma, em síntese, que como os fatos foram praticados antes da alteração legislativa trazida pela Lei n. 12.234/2010, é possível reconhecer a prescrição na modalidade retroativa, entre a data dos fatos e a data do recebimento da denúncia, com relação aos fatos ocorridos antes de 5/5/2004.
+Aduz, outrossim, que "a denúncia não detalha quando os atos de lavagem que fazem parte da 12ª quadra fática teriam ocorrido, sendo que eles poderiam ter acontecido antes ou depois de 5/5/2004", de igual sorte, afirma que, "diante da ausência de precisão da data em que os atos de peculato ocorreram", todos devem ser considerados prescritos.
+Pugna, assim, pelo acolhimento dos embargos.
+É o relatório. Decido.
+Como é de conhecimento, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+De plano, destaco que em nenhum momento a decisão embargada abre espaço para as teses trazidas em segundos embargos de declaração, de forma completamente inédita, motivo pelo qual é manifesta a ausência de ambiguidade, obscuridade, contradição ou omissão, o que impede a utilização de segundos embargos.
+Com efeito, os presentes aclaratórios não pretendem propriamente o exame do lapso prescricional, mas em verdade a aferição da data de cada um dos inúmeros fatos imputados, os quais foram praticados ao longo de mais de 15 anos. É manifesto, portanto, que a análise pretendida pela defesa, além de se tratar de indevida inovação, demandaria reexame fático e probatório, o que não é possível, na via eleita.
+A propósito:
+"É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente" (EDcl no AgRg no REsp 1660712/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 5/6/2018, DJe 8/6/2018) (AgRg no REsp n. 1.828.858/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/5/2020, DJe de 10/6/2020).
+Registro, ainda, por oportuno, que os crimes de peculato foram imputados de forma continuada, entre os anos de 1994 e 2010, por 119 vezes, não tendo o embargante se desincumbido de demonstrar que eventual reconhecimento da prescrição de parcela dos crimes praticados até o ano de 2004 teria o condão de repercutir sobre a pena final.
+De igual sorte, eventual reconhecimento da prescrição da "12ª quadra fática", relativa a crimes de lavagem de capitais não teria o condão de repercutir sobre o reconhecimento da causa de aumento referente à habitualidade, não interferindo, igualmente, sobre a pena.
+Feitas essas considerações, constatando-se que o tema trazido nos presentes embargos revela indevida inovação recursal, cuja eventual análise demandaria reexame de fatos e provas, o que é vedado pelo enunciado n. 7 da Súmula desta Corte Superior, não é possível conhecer dos presentes aclaratórios.
+Pelo exposto, não conheço dos embargos de declaração.
+Publique-se.
