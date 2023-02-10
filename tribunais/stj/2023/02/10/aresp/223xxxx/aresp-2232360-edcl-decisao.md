@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALFA SEGURADORA S.A, à decisão de fls. 310/311, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que, data máxima vênia, insta elucidar que de fato esta Embargante foi intimada do Acórdão em 27/05/2021. Ocorre que do Acórdão, esta Embargante opôs Embargos de Declaração, tombado sob o nº 202100717169, cuja decisão somente fora disponibilizada em 26/07/2021, considerando-se publicada em 27/07/2021, quando deflagrado o prazo recursal. Tal informação pode ser facilmente ilustrada e comprovada através do espelho de movimentação processual do Portal do Advogado, sistema vinculado ao Tribunal de Justiça de Sergipe: (fl. 314).
+ ..
+Dessa forma, iniludível está que o prazo recursal somente fora deflagrado com a publicação do acórdão dos embargos declaratórios, tombado sob o nº 202100717169, ocorrida em 27/07/2021.
+Assim, contando-se o lapso legal de 15 (quinze) dias úteis, e considerando o feriado do Dia do Magistrado de 11/08/2021, o termo ad quem do prazo processual seria 18/08/2021, data esta na qual a Embargante aviou o referido recurso. Logo, tempestivo, vez que interposto dentro do prazo legal.
+Dessa forma, tendo em vista que no caso em roga o prazo recursal somente fora iniciado em 27/07/2021, com a publicação do Acórdão dos Embargos de Declaração; e, considerando que o termo ad quem do prazo processual seria 18/08/2021, data esta na qual o recurso especial fora interposto, resta comprovada a tempestividade do recurso, fato este, data máxima vênia, não observado pela MM. Ministra Presidente na decisão de fls. 310 (fl. 315).
+Aduz ainda:
+Não obstante a questão acima ventilada, a MM. Ministra entendeu haver irregularidade na representação processual do recurso especial, por suposta ausência de procuração/substabelecimento conferindo poderes para a Dra. Nayca Negreiros Ferreira, subscritora do recurso.
+Sucede, que a decisão, concessa vênia, encontra-se equivocada, haja vista que há substabelecimento nos autos conferindo poderes para a subscritora do recurso especial, conforme se infere a partir do substabelecimento juntado às fls. 116 e 236 dos autos.
+Cabe, ainda, sinalizar, que a Dra. Nayca se encontra devidamente habilitada desde o processo originário, autuado no TJ/SE, senão vejamos: (fls. 315/316).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que a parte foi intimada em 27/5/2021, circunstância que será devidamente corrigida na fundamentação abaixo.
+Mediante nova análise dos autos, verifica-se que na certidão de fl. 291 consta que a disponibilização do acórdão ocorreu no dia 26/7/2021, sendo a publicação no próximo dia útil subsequente, ou seja, 27/7/2021 e não no dia 27/5/2021, como constou da decisão embargada.
+No entanto, o recurso especial permanece intempestivo, uma vez que a parte não comprovou o feriado no dia 11/8/2021.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Quanto à representação, no caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à Dra. Nayca Negreiros Ferreira, subscritora do recurso especial.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a procuração e o substabelecimento juntados às fls. 303/307 não outorgam poderes para a subscritora do recurso.
+Ainda, não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2020.)
+Registre-se que foi dada a oportunidade, nesta Corte, para a parte sanar o vício de representação e, apesar disso, não houve a regularização.
+Ademais, "revela-se descabida a alegação de que, a despeito da ausência de instrumento de procuração/substabelecimento, o signatário do recurso estaria cadastrado no sistema processual do Tribunal, porquanto esta circunstância, por si só, não tem o condão de comprovar a regular representação processual nessa instância especial, que exige a necessária apresentação do instrumento de procuração ou substabelecimento". (AgInt no REsp n. 1.969.231/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Somente agora, em sede destes aclaratórios, a parte trouxe o substabelecimento com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material verificado na decisão de fls. 310/311, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
