@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Leonir Ianzkovski à decisão, da minha lavra, em que deneguei a ordem impetrada em seu favor, assim ementada (fl. 1.695):
+PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO. PRETENSÃO DE ANULAÇÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. ALEGAÇÃO DE NULIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DE ACESSO AOS AUTOS DE SUPOSTA INTERCEPTAÇÃO TELEFÔNICA QUE DEMONSTRARIA A AUTORIA DOS FATOS. SENTENÇA E ACÓRDÃO QUE TRATAM DE QUEBRA DE SIGILO DE DADOS TELEFÔNICOS, UTILIZADOS PARA ATESTAR A PRESENÇA DO ACUSADO NA CENA DO CRIME E DEFLAGRAR INVESTIGAÇÃO CONTRA ELE. DISPONIBILIDADE DOS DADOS A AMBAS AS PARTES. ALEGAÇÃO EM MOMENTO OPORTUNO. AUSÊNCIA. UTILIZAÇÃO DE NULIDADE DE ALGIBEIRA. IMPOSSIBILIDADE. CONDENAÇÃO CONSUBSTANCIADA EM VÁRIOS ELEMENTOS DE PROVA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+Alega o embargante que a decisão se apresentou contraditória quanto ao fato de que é incontroversa a existência da interceptação telefônica da qual a defesa não teve acesso aos autos, circunstância que, por configurar cerceamento de defesa e nulidade absoluta, deve conduzir o reconhecimento a qualquer tempo e grau de jurisdição.
+Postula, então, o conhecimento e o acolhimento dos embargos, a fim de que seja sanada a contradição apontada, com efeitos infringentes para o fim de conceder a ordem requerida no habeas corpus anteriormente impetrado, pelos seus próprios fundamentos e requerimentos, absolvendo-se o embargante do crime em tela em razão da nulidade por cerceamento de defesa (fl. 1.708).
+É o relatório.
+Os presentes embargos não comportam acolhimento, pois é nítida a intenção do embargante em modificar a conclusão da decisão recorrida.
+A decisão foi clara ao afirmar que (fl. 1.699):
+ ..
+Então, da análise dos trechos transcritos, observa-se que, embora a sentença faça menção ao termo "interceptação telefônica", não se trata de condenação baseada em interceptações telefônicas das quais a defesa não teve acesso, mas da existência de acesso pelos órgãos oficiais de investigação de registros telefônicos que ensejaram a deflagração da investigação e posterior ação penal contra o paciente (QUEBRA DE SIGILO DE DADOS TELEFÔNICOS), redundando em instrução criminal na qual foi comprovada a autoria dele do crime de latrocínio.
+Ademais, consta dos autos os elementos de informação decorrentes da quebra do sigilo de dados telefônicos ficou disponibilizada às partes da ação penal, de modo que contra eventual falta de acesso aos dados foi alegada apenas no recurso de apelação, circunstância que, além de atrair o instituto da preclusão, obsta que se reconheça eventual nulidade, diante a impossibilidade de utilização da "nulidade de algibeira".
+Ainda que assim não fosse, da análise da sentença condenatória, observa-se que a condenação se encontra consubstanciada em vários elementos, são eles (fl. 1.216):
+Compulsando os autos, verifica-se que a delitiva restou comprovada pelo materialidade boletim de ocorrência (mov. 7.1, fls. 3 e 9), relatório de investigação (mov. 7.1 - fl. 4), auto de exibição e apreensão (mov. 7.1 - fls. 5/8, 23 e 26), certidão de óbito (mov. 7.1 - fl. 25), laudo de exame de dispositivo de armazenamento computacional (mov. 7.1 - fls. 32/35), laudo de exame de arma de fogo, munição e confronto balístico (mov. 7.1 - fls. 36/37), laudo de exame cadavérico (mov. 7.1 - fls. 45/47), pesquisa de tráfego por número chamado (mov. 7.1 - fls.52/56 e 7.2 - fls. 1/14), informação nº 030/2009 (mov. 7.3 - fls. 14/17), informação nº 029/2009(mov. 7.3 - fls. 18/23), cruzamentos das chamadas (mov. 7.3 - fls. 28/32), bem como pela prova oral produzida na fase judicial.
+ ..
+Em face do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ALEGAÇÃO DE CONTRADIÇÃO. PRETENSÃO DE MODIFICAR A CONCLUSÃO DA DECISÃO QUE DENEGOU A ORDEM, DIANTE DA INSUBSISTÊNCIA DA ALEGADA NULIDADE (DE ALGIBEIRA). INADMISSIBILIDADE.
+Embargos de declaração rejeitados.
