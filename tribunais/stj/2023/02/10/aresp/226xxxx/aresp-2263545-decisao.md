@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por CARLOS ROBERTO DE OLIVEIRA RIBEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTARIA - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO ACOLHIDA - HOMOLOGAÇÃO DO CÁLCULO DO INSS - AGRAVO DE INSTRUMENTO INTERPOSTO FORA DO PRAZO - NÃO CONHECIMENTO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.022 do CPC, no que concerne a negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 4º e 224, § 1º, do CPC, no que concerne à tempestividade do agravo de instrumento interposto na origem tendo em vista que a indisponibilidade do sistema no último dia do prazo o prorrogando para o dia seguinte, trazendo os seguintes argumentos:
+Conforme reconhecido no v. Acórdão, o sistema ficou indisponível no dia 22/10/2018, último dia para a interposição do recurso.
+Ainda que o sistema estivesse indisponível somente para a primeira instância, constatada a instabilidade /indisponibilidade do sistema, que naquele momento não especificou qual sua extensão, e não conseguindo acesso, foi protocolado o recurso no dia imediatamente seguinte.
+Todavia, este incontroverso fato de que o sistema não estava completamente operacional não pode ser utilizado para considerar o recurso intempestivo, impedindo a análise do mérito do recurso.
+ ..
+Desta forma, um fato ocasionado pelas novas tecnologias não pode ser utilizado para deixar de analisar o mérito do Agravo de Instrumento, perpetuando assim uma decisão manifestamente inconstitucional, que contraria expressamente o julgamento do Tema 810/STF e a Constituição Federal.
+Destaca-se ainda que nos termos do artigo 224, §1º do CPC, o vencimento do prazo deve ser protraído para o primeiro dia útil seguinte, quando houver indisponibilidade da comunicação eletrônica.
+ ..
+Assim, diante da indisponibilidade do sistema no dia 22/10/2018, deve ser considerado tempestivo o recurso do autor, protocolado no dia útil seguinte, em 23/10/2018 (fls. 208/210).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Quanto à segunda controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não socorre ao agravante o argumento no sentido de que a interposição a destempo teria se dado por equívoco seu, imaginando-se ele acobertado pela regra do artigo 224, §1º, do Código de Processo Civil, que protrai o dia do vencimento para o primeiro dia útil seguinte quando nele ocorrer indisponibilidade da comunicação eletrônica.
+Ao contrário, o que se infere da consulta ao sistema de auditoria implementado pelo Tribunal de Justiça, em observância ao artigo 2º do Provimento 87/2013 da Presidência, é que somente o peticionamento eletrônico em Primeiro Grau apresentou indisponibilildade no dia 22/10/2018.
+ ..
+Se assim foi, sabido que o protocolo do agravo de instrumento deve se dar obrigatoriamente em Segunda Instância, e ausente demonstração efetiva de qualquer inconsistência do Sistema em tal Instância a justificar eventual prorrogação do prazo fatal (artigo 3º do Provimento 87/2013 da Presidência do Tribunal de Justiça), inequívoca a constatação da interposição do presente agravo de instrumento quando já decorrido o prazo (fls. 180/181).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
