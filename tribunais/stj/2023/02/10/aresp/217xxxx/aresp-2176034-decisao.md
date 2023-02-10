@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por ESTADO DA BAHIA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA nos termos da seguinte ementa (fls. 392-393):
+APELAÇÃO. MANDADO DE SEGURANÇA. TAXA DE INCÊNDIO. CONSTITUCIONALIDADE PACIFICADA PELO STF. BASE DE CÁLCULO ASSENTADA NA QUANTIDADE DE ENERGIA CONSUMIDA. IMPOSSIBILIDADE. PARÁGRAFO ÚNICO DO ARTIGO 77 DO CTN E ARTIGO 145, § 2º, DA CARTA MAGNA. FATOS GERADORES DISTINTOS. REVOGAÇÃO POSTERIOR DA NORMA. EDIÇÃO DA LEI ESTADUAL Nº 12.929/2013. BASE TRANSFERIDA PARA O COEFICIENTE DE RISCO DE INCÊNDIO. EXERCÍCIO FINANCEIRO ABRANGIDO PELA REGRA. REVOGADA. SEGURANÇA DE VIDA. APELO IMPROVIDO.
+O mandamus se volta para afastar a cobrança de taxa de incêndio calculada pela energia consumida, nos termos da Lei nº 11.631/2009, com redação dada pela Lei nº 12.609/2012. Nesse contexto, considerando que as taxas devem se jungir ao custo específico da atividade onerada pelo Estado, não se pode ter o consumo de energia como base para aferição do serviço de combate a incêndio, mostrando-se evidente a ausência de equivalência. O contribuinte, portanto, via o seu consumo de energia ser utilizado para valoração e pagamento de taxa de serviço público totalmente distinto, com clara violação do caráter específico que deve se relacionar como efetivo custo da atividade.
+Por fim, o próprio Estado da Bahia reconheceu a erronia, visto que editou a Lei nº 12.929/2013 e alterou a base de cálculo da referida taxa de incêndio, desvinculando-a do consumo de energia e a assentando no coeficiente de risco de incêndio do imóvel. Como a alteração não alcança o exercício anterior, objeto da impetração, o interesse processual na utilização da via mandamental persistiu e a segurança se mostrou de vida.
+Recurso Improvido.
+Rejeitados os embargos de declaração opostos (fls. 427-431).
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos: a) 458, II, e 535 do CPC/1973, sustentando que o acórdão recorrido possui omissões e contradições; e b) 77 do CTN; 9º e 10 da Lei Estadual n. 12.609/2012; 515, § 1º, do CPC; e 25 da Lei Estadual n. 12.929/2013, alegando que a base de cálculo da taxa de incêndio não pode ser a mesma do ICMS.
+Oferecidas contrarrazões (fls. 498-515), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 538-540), o que ensejou a interposição do presente agravo (fls. 547-560).
+Apresentadas contraminutas do agravo (fls. 571-581).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não é cabível o recurso especial quando interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação de dispositivos de lei federal.
+No caso, o Tribunal de origem julgou a matéria com base na Lei Estadual n. 11.631/2009, alterada pela Lei Estadual n. 12.609/2012 (fls. 394-395).
+Assim, não é possível a análise das apontadas violações, em razão da incidência, por analogia, da Súmula n. 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FAIXA DE DOMÍNIO. ACESSO Á IMÓVEL. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. DISTRIBUIÇÃO DINÂMICA DO ÔNUS PROBATÓRIO. HIPOSSUFICIÊNCIA DE UMA DAS PARTES. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS N. 05 E 07/STJ. INCIDÊNCIA. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 3.930/2006 E LEI COMPLEMENTAR ESTADUAL N. 741/2019. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+VI - Depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, a Lei Estadual de Santa Catarina n. 13.156/2005, no Decreto Estadual n. 3.930/2006 e na Lei Complementar Estadual n. 741/2019.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 1.960.485/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA MUNICIPAL. MÉDICA. AFASTAMENTO DO CARGO. LICENÇA MATERNIDADE. PRETENSÃO DE RECEBIMENTO DE GRATIFICAÇÃO DE NATUREZA PROPTEM LABOREM, DURANTE O PERÍODO DE AFASTAMENTO. PAGAMENTO INDEVIDO. SEGURANÇA DENEGADA. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. LIMINAR CASSADA. NECESSIDADE DE DEVOLUÇÃO DOS VALORES INDEVIDAMENTE PERCEBIDOS. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei Complementar municipal 65/2013). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022; AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022; AgInt no AREsp 1.217.078/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/06/2018; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 1.864.634/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/11/2022, DJe de 1º/12/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
