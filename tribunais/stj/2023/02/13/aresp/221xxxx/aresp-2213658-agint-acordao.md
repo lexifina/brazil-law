@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  OECHSLER  COMÉRCIO  DE  MATERIAIS  DE  CONSTRUÇÃO  EIRELI  E  OUTROS  contra  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  ( fls.  907/909  e-STJ)  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  do  disposto  no  art.  932,  inciso  III,  do  Código de Processo Civil de 2015  e  na  Súmula  nº  182/STJ.
+O apelo nobre foi inadmitido na origem em virtude da  incidência  das  Súmulas  nºs  5 e  7/STJ.
+Nas  presentes  razões  (  fls.  912/931  e-STJ),  os  agravantes  se  limitam  a  afirmar  que inaplicável a  Súmula  nº  7/STJ  e  que  comprovada  a  violação  dos  arts.  166,  VI,  421,  422  e  2.035  do  Código  Civil  e  1.022,  II,  489,  §  1º,  III  e  IV  ,  do  CPC/2015.
+Tecem  considerações  a  respeito  do  mérito  de  seu  recurso  especial,  que  traz  como  ponto  controvertido  a  pretensão  de  que seja anulada  cláusula  contratual  de  alienação  fiduciária  em  garantia,  por  se  tratar  o  imóvel  de  bem  de  família  ou  pela  existência  de  simulação  e,  subsidiariamente,  o  dever  de  ressarcimento  de  benfeitorias  existentes  no  imóvel  sobre  o  qual  se  operou  a  consolidação  da  propriedade  pelo  credor  fiduciário.
+À  fl.  930  (e-STJ),  consta  requerimento  incidental  apresentado  pelo  agravante  de  concessão  de  efeito  suspensivo  ao  agravo  interno  ora  em  apreço.
+Não  houve  impugnação.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  SÚMULA  Nº  5/STJ.  DECISÃO  AGRAVADA.  FUNDAMENTOS. IMPUGNAÇÃO.  AUSÊNCIA.  ART.  1.021,  §  1º,  DO  CPC/2015.  SÚMULA  Nº  182/STJ.
+1.  Não  pode  ser  conhecido  o  agravo  interno  que  não  infirma  especificamente  os  fundamentos  da  decisão  atacada,  haja  vista  o  disposto  no  artigo  1.021,  §  1º,  do  Código  de  Processo  Civil  de  2015.  O  conteúdo  normativo  do  referido  dispositivo  legal  já  estava  cristalizado  no  entendimento  da  Súmula  nº  182/STJ.
+2.  Agravo  interno  não  conhecido.
+VOTO
+O  recurso  não  comporta  conhecimento.
+A  decisão  impugnada  não  conheceu  do  agravo  em  recurso  especial  em virtude do  disposto  no  art.  932,  inciso  III,  do  CPC/2015  e  da  aplicação,  por  analogia,  da  Súmula  nº  182/STJ.
+De fato, o supra  mencionado  dispositivo  legal  estabelece  que cabe  ao  relator  "(..)  não  conhecer  de  recurso  manifestamente  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida"  (grifou-se).
+No  caso,  o  agravo  em  recurso  especial  deixou  de  impugnar  fundamento  autônomo  esposado  pela  Corte  local  quando  da  realização  do  chamado  exame  de  prelibação  do  apelo  nobre,  qual  seja,  a  incidência  da  Súmula  nº  5/STJ  .
+Nas  presentes  razões,  contudo,  não  foram  apresentados  argumentos  para  afastar  a  incidência  do  preceituado  no  art.  932,  inciso  III,  do  CPC/2015.
+Ao  proceder  de  tal  maneira,  incorrendo  no  mesmo  equívoco  anterior,  o  agravante  atrai  a  incidência  do  disposto  no  art.  1.021,  §  1º,  do  CPC/2015  e  d  o  óbice  da  Súmula  nº  182/STJ.
+A  propósito:
+"AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  CONTRATO  DE  LOCAÇÃO.  GARANTIA  POR  HIPOTECA.  CLÁUSULAS  LEONINAS.  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA.  ILEGALIDADE.  INCOMPETÊNCIA  DO  JUÍZO.  CERCEAMENTO  DE  DEFESA.  AFASTAMENTO.  BEM  DADO  EM  GARANTIA.  BEM  DE  FAMÍLIA.  ÔNUS  DOS  DEVEDORES.  AUSÊNCIA  DE  DESINCUMBÊNCIA.  ESTATUTO  DO  IDOSO.  INAPLICABILIDADE.  INTERVENÇÃO  MINISTERIAL.  DESNECESSIDADE.  PRETENSÃO  RECURSAL.  NULIDADE  POR  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  VIOLAÇÃO  DE  LEI  FEDERAL.  SÚMULAS  5  E  7  DO  STJ.  INCIDÊNCIA.  AUSÊNCIA  DE  PREQUESTIONAMENTO  DA  MATÉRIA.  SÚMULA  211  DO  STJ.  AUSÊNCIA  DE  IMPUGNAÇÃO  QUANTO  A  UM  DOS  FUNDAMENTOS  DA  DECISÃO  MONOCRÁTICA  AGRAVADA.  SÚMULA  182  DO  STJ.  AGRAVO  INTERNO  NÃO  CONHECIDO.
+1.  Inexistindo  impugnação  específica,  como  seria  de  rigor,  aos  fundamentos  da  decisão  de  inadmissibilidade  agravada,  essa  circunstância  obsta,  por  si  só,  a  pretensão  recursal,  pois,  à  falta  de  contrariedade,  permanecem  incólumes  os  motivos  expendidos  pela  decisão  recorrida.  Incide  na  espécie  o  disposto  no  arts.  932,  III  e  1.021,  §  1º,  do  Código  de  Processo  Civil  de  2015  e  a  Súmula  n.  182  do  Superior  Tribunal  de  Justiça.
+2.  Agravo  interno  não  conhecido"  (AgInt  no  AREsp  1.935.702/GO,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  9/5/2022,  DJe  de  11/5/2022  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  APLICABILIDADE  DO  CPC/2015.  NÃO  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  182  DO  STJ.
+1.  Consoante  o  decidido  pelo  Plenário  desta  Corte  na  sessão  realizada  em  9/3/2016,  o  regime  recursal  será  determinado  pela  data  da  publicação  do  provimento  jurisdicional  impugnado.  In  casu,  aplica-se  o  Código  de  Processo  Civil  de  2015.
+2.  Na  espécie,  a  decisão  agravada  não  conheceu  do  recurso  especial  em  razão  da  ausência  de  impugnação  específica  aos  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial.  Todavia,  o  agravante  em  suas  razões  também  não  infirmou  o  fundamento  da  decisão  que  não  conheceu  do  seu  AREsp,  limitando-se  a  reprisar  os  argumentos  do  recurso  especial  e  apontar  suposta  violação  à  lei  federal,  nada  aduzindo  acerca  do  art.  932,  III,  do  CPC/2015  e  da  Súmula  182  do  STJ.
+3.  Dessarte,  é  pacífico  o  entendimento  desta  Corte  de  que  a  falta  de  ataque  específico  à  decisão  agravada  ou  a  apresentação  de  argumentação  dissociada  de  seus  fundamentos  acarreta  o  não  conhecimento  do  recurso,  a  teor  do  que  dispõe  a  Súmula  182  do  STJ.  4.  Agravo  interno  não  conhecido"  (AgInt  no  AREsp  1.945.916/RS,  Rel.  Ministro  BENEDITO  GONÇALVES,  PRIMEIRA  TURMA,  julgado  em  28/3/2022,  DJe  de  30/3/2022  -  grifou-se).
+Solução  nesse  sentido  torna  prejudicado  o  pedido  de  fl.  930  (e-STJ).
+Ante  o  exposto,  não  conheço  do  agravo  interno.
+É  o  voto.
