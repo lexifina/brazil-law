@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pela COMPANHIA DO METROPOLITANO DE SÃO PAULO (METRÔ) contra decisão monocrática do Ministro Og Fernandes que conheceu do agravo para não conhecer do recurso especial em razão de a pretensão esbarrar no óbice da Súmula n. 7/STJ (fls. 8.806/8.808).
+A referida decisão foi objeto de embargos de declaração, os quais foram rejeitados (fls. 8.831-8.832).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 8.622):
+APELAÇÃO - AÇÃO DE PROCEDIMENTO COMUM - Contrato Administrativo para implantação do sistema monotrilho, incluindo projeto, obras civis, fabricação, fornecimento de sistemas e material rodante da linha 15-Prata - Pretensão de reestabelecer o equilíbrio econômico-financeiro do contrato em razão da extensão do prazo contratual em 14 meses - Cerceamento de defesa configurado - Inutilidade do laudo apresentado nos autos - Inobservância do princípio constitucional do contraditório e da ampla defesa - Sentença anulada, com determinação de retorno dos autos à origem para a realização de nova perícia - Apelação da parte Autora parcialmente provida - Recurso adesivo da Ré prejudicado.
+Rejeitados os embargos de declaração opostos (fls. 8.645-8.648).
+Nas razões do recurso interno, a recorrente reitera alegação de afronta aos arts. 489, § 1º, IV, do CPC e 189 do CC. Suscita que se trata de matéria "exclusivamente de direito, não havendo que se falar em rediscussão fática ou necessidade de reanálise de provas. A discussão é apenas a respeito da violação aos artigos de lei acima mencionados" (fl. 8.838).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 8.847-8.861).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LITISPENDÊNCIA E PRESCRIÇÃO. TESES ANALISADAS À LUZ DO ACERVO FÁTICO. INVIABILIDADE DE ALTERAÇÃO. SÚMULA N. 7/STJ.
+1. Inexiste a alegada violação do art. 489 do CPC, visto que o Tribunal de origem efetivamente enfrentou as questões levantadas pela recorrente, em suas contrarrazões à apelação, de que haveria litispendência e prescrição da pretensão.
+2. Cumpre reiterar que entendimento contrário à pretensão não se confunde com ausência de prestação jurisdicional.
+3. Tendo a instância de origem rejeitado a alegação de litispendência e de prescrição à luz do acervo fático dos autos, eventual modificação esbarra no óbice na Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Conforme consignado na decisão agravada, inexiste a alegada violação do art. 489 do CPC, visto que o Tribunal de origem efetivamente enfrentou as questões levantadas pela recorrente, em suas contrarrazões à apelação, de que haveria prescrição da pretensão.
+A propósito, destacou a origem (fls. 8625-8626):
+Inicialmente, cumpre observar que alegação do Metrô de que a matéria discutida nesses autos já teria sido decidida em outra demanda, bem como arguição da preliminar de prescrição, ambas rejeitadas na decisão saneadora de fls. 7.094/7.096 e contra a qual não houve interposição de recurso, deve ser mantida.
+Em relação a tais insurgências, o MM. Juíza a quo consignou que no processo nº 1054532-54.2014.8.26.005 "a causa de pedir era o atraso na obtenção da Licença Ambiental de Instalação e o pedido recaiu sobre os custos adicionais incorridos com a mobilização da equipe civil na obra, mantida ociosa entre dezembro de 2010, data da liberação da Ordem de Serviço, até janeiro de 2012, quando houve a efetiva emissão da referida licença". Registrou, por outro lado, que "a presente ação tem como causa de pedir a assinatura do Aditivo nº 2, em 15.02.2013, que segundo o consórcio autor trouxe a extensão do prazo contratual sem, no entanto, prever a devida remuneração do Consórcio para que se mantenha mobilizado até o fim da vigência do Contrato, no caso, abril de 2017".
+Ademais, assinalou, no tocante à prescrição, que "não há como alegar a ocorrência de prescrição no caso concreto, porquanto, ainda que se entendesse que a pretensão do Autor se sujeita ao prazo prescricional de 3 anos do Código Civil, igualmente não há prescrição no presente caso, já que o termo inicial para a contagem do prazo tem início na data em que violado o direito do Consórcio (abril de 2014) e a presente ação foi ajuizada no dia 12 de fevereiro de 2016, ou seja, menos de três anos depois do início da incorrência dos custos adicionais ora pleiteados; e mesmo que considerado o dia da assinatura do Aditivo n. 2 (15 de fevereiro de 2013), por meio do qual se formalizou a extensão do prazo contratual, ainda assim não se operou a prescrição, pois a ação foi ajuizada em 12 de fevereiro de 2016; portanto, dentro, portanto, do prazo de três anos".
+Nas razões do acórdão que julgou os embargos de declaração, reiterou o órgão julgador que "o v. acórdão foi claro ao consignar a diferença entre as causas de pedir da presente ação e do processo nº 1054532-54.2014.8.26.005, bem como ao afastar a preliminar de prescrição, ambas rejeitadas na decisão saneadora de fls. 7.094/7.096 e contra a qual não houve interposição de recurso" (fl. 8673).
+Cumpre reiterar que entendimento contrário não se confunde com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, confira-se:
+1. Da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional. (AgInt nos EDcl no AREsp n. 1.801.606/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022.)
+Por seu turno, tendo a instância de origem rejeitado a alegação de litispendência e de prescrição à luz do acervo fático dos autos, a teor do transcrito acima, eventual modificação esbarra no óbice na Súmula n. 7/STJ.
+Neste sentido, cito:
+III - No tocante à alegação de prescrição, colhe-se do acórdão que a fundamentação embasou-se em circunstâncias fáticas cuja análise não dispensa novo exame de elementos fático-probatórios, o que é vedado na via especial (Súmula n. 7/STJ). (AgInt no REsp n. 1.847.358/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022.)
+2. Impossível o exame em sede de recurso especial da conclusão feita pela Corte de Origem no sentido de ter ocorrido ou não a litispendência, sob pena de violação à Súmula n. 7/STJ. Precedente repetitivo: REsp. n. 1.129.938 / PE, Segunda Seção, Rel. Min. Massami Uyeda, julgado em 28.09.2011. (AgInt no AREsp n. 1.829.436/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/10/2021.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
