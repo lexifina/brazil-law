@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARCÍLIO SOARES DE CARVALHO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/02/2022
+Concluso ao gabinete em: 15/12/2022.
+Ação: declaratória de inexistência de relação jurídica c/c restituição de valores c/c compensação por danos morais movida pelo agravante, contra BANCO PAN S.A, na qual alega ter sido cobrado por dívida pela qual não deu origem. Aduz ser vítima de fraude.
+Sentença: julgou parcialmente procedentes os pedidos da inicial.
+Acórdão: deu provimento à apelação da agravada e negou provimento à apelação do agravante, nos termos da ementa:
+""Ação declaratória de inexistência de relação jurídica c/c restituição de valores c/c indenização por danos morais com pedido de tutela antecipada". Sentença de parcial procedência. Insurgência do banco réu. Recurso adesivo do autor. Empréstimo com desconto no benefício previdenciário do autor. Alegação de fraude. Ausência de provas mínimas acerca do alegado direito do autor, impedindo a inversão do ônus probante nos termos do inc. VIII, art. 6º, do CDC. Autor que foi o único beneficiário do crédito disponibilizado em sua conta bancária. Inexistência de notícia de devolução do montante ou pretensão de devolução nos autos. Assinaturas apostas no contrato e documento pessoal do autor que são similares a olho nu. Inexistência de indícios de fraude. Contratação legítima. Ademais, poucos descontos decorrentes do empréstimo realizados em montante inexpressivo. Valor disponibilizado que supera em muito os descontos. Ausência de comprovação de danos morais sofridos, ainda que a contratação fosse considerada ilegítima. Reforma da sentença. Improcedência da demanda. Inversão do ônus da sucumbência. Recurso do autor desprovido e do réu provido, com fixação de verba honorária de sucumbência." (e-STJ f. 316)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 7º, 369, 373, 428, I, 429, II, 464, § 1º e 507 da Lei 13.105/15; 6º, VIII da Lei 8.078/90; e 6º da Lei 4.657/1942. Sustenta que o acórdão violou gravemente a coisa julgada e a preclusão, isto porque conforme prevê o art. 507 do CPC os Ilustres Relatores não poderiam ter adentrado na matéria de que se o contrato firmado entre o recorrido e recorrente era lícito. Alega ainda que "não estava precluso o direito do recorrido em provar os fatos impeditivos, modificativos ou extintivos de seu direito acabou por decidir contrário as provas requeridas nos autos baseando-se os Ilustres Relatores em meras presunções o que não se admite no direito." Defender ser ônus do agravado a comprovação de que o documento é autentico. Pleiteia a inversão do ônus da prova pelas regras do CDC. Assevera que a produção de prova pericial é direito adquirido seu.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 428, 507 do CPC/15; e 6º da LINDB, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de verosimilhança das alegações do agravante, condição legal para a inversão do ônus da prova (e-STJ fl. 319), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do cerceamento de defesa
+A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa (AgInt no REsp 1.429.272/MA, 4ª Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017).
+Cabe ao magistrado, por sua vez, fundamentar as razões de seu entendimento, conforme é possível se extrair do acórdão recorrido.
+Além disso, modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas. Incide a Súmula 7 do STJ quanto ao tema.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 325) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória de inexistência de relação jurídica c/c restituição de valores c/c compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Modificar a conclusão do Tribunal de origem no sentido de que não estão presentes os pressupostos para a inversão do ônus da prova implica reexame de fatos e provas.
+4. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa. Precedentes.
+5. Modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas.
+6. Agravo conhecido. Recurso especial não conhecido.
