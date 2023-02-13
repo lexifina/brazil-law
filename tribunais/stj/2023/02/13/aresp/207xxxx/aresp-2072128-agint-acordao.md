@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo ESTADO DO RIO DE JANEIRO contra decisão por mim proferida, constante às e-STJ fls. 529/534, em que conheci do agravo e dei provimento ao recurso especial da empresa REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A. - EM RECUPERAÇÃO JUDICIAL para anular o acórdão a quo que julgou os embargos de declaração, por ofensa ao art. 1.022, II, do CPC/2015 e determinar o retorno dos autos à Corte de origem a fim de que profira novo julgamento do recurso integrativo, sanando os vícios de omissão identificados.
+Nas suas razões (e-STJ fls. 538/545), o ente público agravante sustenta que, diversamente do assentado, não houve negativa de prestação jurisdicional pelo Tribunal de origem. Afirma que: (i) o caso dos autos cuida do mesmo Tema n. 987 do STJ, que veio a ser desafetado pela Primeira Seção; (ii) de acordo com a Lei n. 14.112/2020, a competência para os atos constritivos é do juízo da execução fiscal, cabendo a manifestação do juízo da recuperação fiscal sobre a necessidade da substituição da garantia apenas quando revelada a prejudicialidade à continuidade da atividade empresarial; (iii) no caso, todavia, a recuperação judicial já se encerrou por sentença, "não existindo qualquer previsão legal a respeito da necessidade de trânsito em julgado da mesma"; (iv) "o prazo legal para encerramento da recuperação é de 2 anos e se vingasse a tese da suscitante, in casu, especificamente para seu grupo a recuperação judicial terá efeitos eternos, ante transcorrido até o momento uma década desde o início do seu processo".
+A parte agravada apresentou impugnação (e-STJ fls. 549/559).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Isso porque o decisum ora agravado, ao dar provimento ao recurso especial da empresa agravada, reconheceu a nulidade do acórdão recorrido, porquanto omisso no exame das alegações que sustentam a tese de prorrogação da competência do juízo universal até o transito em julgado da sentença de encerramento da recuperação judicial, assim identificadas:
+(i) a existência de decisão superveniente do juízo da recuperação judicial afirmando a sua competência para examinar as medidas de constrição do patrimônio da recuperanda até o trânsito em julgado da sentença de encerramento;
+(ii) a conformidade dessa decisão com a jurisprudência do STJ;
+(iii) a incompetência da Câmara julgadora do agravo de instrumento tirado de execução fiscal para declarar o encerramento da recuperação judicial;
+(iv) a existência de preclusão temporal, "uma vez que a decisão agravada indeferiu o pedido de reconsideração do Embargado e foi clara ao determinar que a decisão anterior fosse cumprida";
+(v) a existência de indevida supressão de instância, pois a sentença de encerramento da recuperação não foi levada ao conhecimento o juízo da execução fiscal;
+(vi) a existência de efeito suspensivo à apelação interposta contra a sentença extintiva da recuperação.
+Da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar especificamente essa fundamentação, visto que não demonstrou quais os trechos do acórdão recorrido teriam efetivamente examinado referidos argumentos, nem tampouco infirmou a relevância dos mesmos para a integral solução da controvérsia, limitando-se a afirmar que o julgado a quo estaria certo que ao assentar que a sentença de encerramento da recuperação judicial, ainda que pendente de recurso, afastaria, de imediato, a competência do juízo universal para decidir sobre as constrições patrimoniais em desfavor da recuperanda.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
