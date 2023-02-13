@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 263):
+APELAÇÃO CÍVEL - JUIZO DE RETRATAÇÃO - ART. 1.030, II, DO CPC -AÇÃO DE COBRANÇA -SERVIDORA EFETIVADA - LEI COMPLEMENTAR 100/07 -PAGAMENTO DE FGTS -RECURSOS ESPECIAIS Nº 1.806.086/MG E 1.806.087/MG(TEMA 1020) - POSSIBILIDADE - CORREÇÃO MONETÁRIA E JUROS DE MORA -RECURSO A QUE SE DÁ PROVIMENTO.
+- Quando o julgamento proferido no acórdão impugnado diverge da decisão paradigma do colendo Superior Tribunal de Justiça, submetida ao regime da Recursos Repetitivos, é cabível o juízo de retratação, na forma prevista no artigo 1.030, II, do CPC/2015.
+- O Supremo Tribunal Federal, no julgamento do RE nº 765320, assegurou o pagamento do saldo de salário e do FGTS apenas quando declarada a nulidade do contrato temporário, pouco importando se a natureza do regime é administrativo ou celetista, sem prévio concurso público (artigo 37, § 2º, da CRFB).
+- Ao julgar os Recursos Especiais nº 1.806.086/MG e 1.806.087/MG (Tema 1020), o Superior Tribunal de Justiça firmou entendimento de que os servidores efetivados em cargo público pelo Estado de Minas Gerais por meio da Lei Complementar nº 100/2007, declarada parcialmente inconstitucional pelo Supremo Tribunal Federal na ADI nº 4.876, faz jus ao FGTS tendo em vista a nulidade do vínculo.
+-Considerando a orientação firmada pelo STF no julgamento do RE nº 870947, a correção monetária deve ser calculada de acordo com o IPCA-E, enquanto os juros de mora devem observar unicamente os índices oficiais de remuneração básica aplicados à caderneta de poupança.
+Opostos sucessivos embargos de declaração, foram todos eles rejeitados (fls. 296/304; 560/569 e 579/587).
+Sustenta a parte recorrente violação ao art. 19-A da Lei 8.036/1990, ao argumento de que, sendo este "aplicável aos ex-efetivados pela LC 100/2007" (fl. 592), não deve o pagamento referente ao FGTS ser pago diretamente à parte autora, ora recorrida, mas mediante depósito em conta vinculada.
+Requer, assim, o provimento do recurso especial.
+Contrarrazões às fls. 597/598.
+Recurso admitido na origem (fls. 603/604).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O Tribunal de origem deixou de conhecer da tese segundo a qual o pagamento dos valores relativos ao FGTS deveria se dar mediante depósito em conta vinculada, na forma do art. 19-A da Lei 8.036/1990, por dois fundamentos: (a) trata-se de matéria a ser enfrentada na fase de cumprimento de sentença; (b) trata-se de indevida inovação de tese recursal. Senão vejamos (fl. 584):
+No que toca à suposta ausência de manifestação expressa sobre a transferência dos valores a título de FGTS, após a expedição do precatório/RPV, para conta vinculada da trabalhadora junto à Caixa Econômica Federal, dúvidas não há de que referida providência diz respeito à fase de cumprimento de sentença e, portanto, deve ser requerida quando do momento oportuno.
+Além disso, a alegação do embargante de que o pagamento do FGTS deverá ser feito mediante depósito em conta vinculada da CEF até então não fora suscitada pela parte, nem em 1º grau nem em apelação. Assim, sua análise na via declaratória representaria inovação recursal, o que não se admite.
+Sucede que tais fundamentos não foram especificamente impugnados pelo ESTADO DE MINAS GERAIS em seu apelo nobre, o que atrai a incidência da Súmula 283/STF.
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal.
+2. Embargos de declaração acolhidos.
+(EDcl no AREsp 1.679.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURM A, DJe 3/12/2020)
+PROCESSUAL CIVIL. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. ART. 85, §11, DO CPC/2015. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/2015. POSSIBILIDADE.
+1. Hipótese em que foi dado provimento a recurso da Fazenda Nacional para reconhecer a possibilidade de majoração dos honorários recursais, no âmbito do STJ, na forma do art. 85, §11, do CPC/2015.
+2. Conforme consignado no decisum agravado, "não seria a data do ato judicial decisório que determinaria a aplicação do art. 85, § 11, do CPC de 2015, mas a data em que publicada a decisão contra a qual é interposto o recurso" (EDcl no AREsp 1.752.269/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7.4.2021).
+3. "É devida a fixação de honorários recursais no âmbito do STJ quando o acórdão recorrido do Tribunal de origem tenha sido prolatado na vigência do Código Fux, ainda que a sentença tenha sido publicada à luz do Código Buzaid" (AgInt nos EDcl no AREsp 1.424.412/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26.11.2019).
+4. Agravo Interno não provido.
+(AgInt no AgInt nos EDcl no AREsp 1.805.836/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 10/12/2021) - Grifo nosso
+ANTE O EXPOSTO, não conheço do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 10% sobre a verba honorária fixada nas instâncias ordinárias.
+Publique-se.
