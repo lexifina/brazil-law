@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DA BAHIA em face de decisão proferida pela Presidência desta Corte Superior que não conheceu do agravo em recurso especial sob os seguintes fundamentos (fls. 891/893 e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento, consonância com a jurisprudência (integração do Município de Barreiras à lide), ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF e consonância do acórdão recorrido com jurisprudência do STJ (bloqueio de valores em contas públicas para custeio de tratamento médico indispensável).
+Entretanto, a parte agravante deixou de impugnar especificamente: consonância com a jurisprudência (integração do Município de Barreiras à lide) e ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+No agravo interno, o agravante reitera as razões apontadas no recurso especial a fim de evidenciar a necessidade de reforma do acórdão recorrido.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial e aplicou a incidência da Súmula 182/STJ, à consideração de que "a parte agravante deixou de impugnar especificamente: consonância com a jurisprudência (integração do Município de Barreiras à lide) e ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF" (fl. 891 e-STJ).
+2. No presente agravo interno, por sua vez, o agravante se limitou a defender a tese de que as questões foram devidamente prequestionadas, além de pugnar pela procedência do recurso especial reiterando suas razões recursais.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+A pretensão não merece acolhida.
+Dessume-se dos autos que a decisão agravada não conheceu do agravo em recurso especial, aplicando a incidência da Súmula 182/STJ, porquanto "a parte agravante deixou de impugnar especificamente: consonância com a jurisprudência (integração do Município de Barreiras à lide) e ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF" (fl. 891 e-STJ).
+No presente agravo interno, por sua vez, o agravante se limitou a defender que houve o prequestionamento das questões suscitadas, além de pugnar pela procedência do recurso especial reiterando suas razões recursais.
+Com efeito, competia à agravante impugnar de maneira clara, específica e objetiva os fundamentos da decisão agravada, o que não ocorreu, como é possível observar do relato acima mencionado. Aplica-se, portanto, o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade.
+A propósito, a Súmula 182/STJ, segundo a qual: "É inviável o agravo do Art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. MAJORAÇÃO. SÚMULA 7/STJ. DISSÍDIO. DEMONSTRAÇÃO. MERA INVOCAÇÃO DE JULGADOS DIVERSOS. DIALETICIDADE. PRECLUSÃO. REITERADA IDENTIFICAÇÃO INCORRETA DO RECURSO DEFICIENTE E DA DECISÃO IMPUGNADA. SÚMULA 182/STJ.
+1. A alteração dos valores de danos morais fixados nas instâncias ordinárias somente se aplica em situações excepcionalíssimas, quando demonstrada que há patente identidade fático-jurídica entre casos resolvidos de forma gritantemente díspar.
+2. O afastamento da Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial) nesses casos demanda que seja demonstrada pela parte a desnecessidade de se realizar qualquer incursão fático-probatória nos autos para se identificar essa situação teratológica.
+3. A técnica de cotejo analítico, indispensável para o conhecimento do recurso especial pela divergência, não é atendida pela mera colação pela parte de rol de acórdãos em sentido alegadamente diverso do alcançado no caso concreto.
+4. A identificação incorreta da decisão impugnada em cada insurgência implica violação do princípio da dialeticidade, atraindo a incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+5. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 1749880/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/10/2021, DJe 18/10/2021)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. FALECIMENTO DA PARTE AUTORA. RECURSO INTERPOSTO POR ADVOGADO SEM CAPACIDADE POSTULATÓRIA. ÓBICE DA SÚMULA 83/STJ AO CONHECIMENTO DO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DO PARTICULAR NÃO CONHECIDO.
+1. A decisão ora recorrida negou provimento ao recurso especial em razão da incidência da Súmula 83/STJ, uma vez que a conclusão veiculada no acórdão recorrido, no sentido de que: (a) o falecimento da parte extingue, de imediato, o mandato outorgado ao advogado e (b) na hipótese de inércia injustificada do exequente, após a tomada das medidas de que dispõe o Juízo para a habilitação dos sucessores, o feito deve ser extinto, sem resolução de mérito, está em consonância com a orientação desta Corte Superior sobre o tema.
+2. Assim, inadmitido o recurso especial em razão da conformidade entre o acórdão impugnado e a jurisprudência desta Corte Superior sobre a matéria, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, o que não se verificou no caso dos autos, uma vez que a parte recorrente insistiu nas teses anteriormente veiculadas no apelo nobre.
+3 . É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, do CPC/2015). Súmula 182/STJ.
+4. Agravo interno do particular não conhecido.
+(AgInt no REsp 1670413/RJ, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 25/10/2021, DJe 27/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 182/STJ E 284/STF.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno não conhecido.
+(AgInt no AREsp 965.264/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/09/2016, DJe 30/09/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 31/05/2016, contra decisão monocrática, publicada em 16/03/2016, integrada por decisão nos Embargos de Declaração, publicada em 09/05/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. No caso, o Recurso Especial não foi admitido, na origem, com base nos seguintes fundamentos: Súmula 7/STJ e divergência não comprovada. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 855.118/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/09/2016, DJe 28/09/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO DOENÇA/APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. VIOLAÇÃO AO ART. 535 DO CPC. INVIÁVEL A ANÁLISE.
+1. A decisão agravada não conheceu do recurso, ante a incidência da Súmula 182/STJ, uma vez que o Tribunal a quo negou seguimento ao Recurso Especial, sob o argumento de não há violação ao art. 535 do CPC e inviabilidade de revolvimento de matéria fático-probatória. Sucede que a parte não impugnou especificamente tais fundamentos, limitando-se a reafirmar as razões do Recurso Especial.
+2. No presente Regimental, a parte agravante não impugnou os fundamentos da decisão recorrida, limitando-se a reafirmar, mais uma vez, as razões de seu Recurso Especial.
+3. A falta de impugnação específica de todos os fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Regimental. Incide a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 4. Nas razões recursais, não há alegação de violação ao art. 535 do CPC a fim de viabilizar possível anulação do julgado por vício na prestação jurisdicional.
+3. Agravo Regimental não conhecido.
+(AgRg no AREsp 586.278/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/11/2014, DJe 26/11/2014)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na minuta do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi atendido.
+2. Cumpre destacar que o não conhecimento do recurso impede a análise das teses a respeito do mérito discutido no apelo nobre, porque não ultrapassada a admissibilidade recursal.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1414594/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/10/2019, DJe 11/10/2019)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INCIDÊNCIA DAS SÚMULAS 282, 356 E 284 DO STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS ALUDIDOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E DA COFINS. MATÉRIA DECIDIDA, EM REGIME DE REPERCUSSÃO GERAL, PELO STF. RE 574.706/PR (TEMA 69). PRETENDIDA DELIMITAÇÃO DO ÂMBITO DE INCIDÊNCIA DO JULGADO DO STF. DECISÃO SOBRE O JULGADO ABRANGER O ICMS DESTACADO NAS NOTAS FISCAIS OU O ICMS ESCRITURAL. ACÓRDÃO RECORRIDO QUE DECIDIU A QUESTÃO SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME, NA SEARA DO RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. PRECEDENTES. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+VII. Registre-se, aliás, que a própria aplicação de precedente qualificado, proferido pelo STF, pressupõe o conhecimento do recurso. Com efeito, nos termos da jurisprudência desta Corte, "a observância dos precedentes em repercussão geral, conforme previsão do art. 927, III, do CPC/2015, será feita caso se venha a examinar o mérito da causa" (STJ, AgInt nos EDcl no AgRg no Ag 1.216.292/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 09/05/2018).
+ ..
+XI. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 1795344/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 28/03/2022, DJe 30/03/2022)
+Por exposto, não conheço do agravo interno.
+É como voto.
