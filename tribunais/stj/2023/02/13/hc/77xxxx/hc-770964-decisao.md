@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Cesar Augusto Pereira, no qual se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0013015-16.2021.8.26.0482).
+Conforme consta dos autos, no PEC n. 1020157-54.2021.8.26.0482, o Juízo de Direito da 1ª Vara de Execuções Criminais da comarca de Presidente Prudente/SP indeferiu o pedido de progressão ao regime semiaberto formulado pelo paciente, por ausência do requisito objetivo (fls. 27/28).
+Contra essa decisão a defesa interpôs agravo perante o Tribunal a quo, que negou provimento (fls. 12/15).
+Opostos embargos de declaração (n. 0013015-16.2021.8.26.0482/50000 - fls. 16/26), por unanimidade, foram parcialmente acolhidos para corrigir erro material decorrente da data do início do cumprimento da pena, bem como para considerar o cumprimento de 40% da pena referente ao crime hediondo, para fins de preenchimento do requisito objetivo para progressão de regime, contudo, sem efeito modificativo.
+Daí a presente impetração, em que a Defensoria Pública da União requer, em síntese, a concessão da ordem de habeas corpus para; i) a correção do cálculo de pena do paciente mediante a descaracterização da falta grave ou o desfazimento do efeito interruptivo por ela imposto ao cálculo do lapso temporal para progressão de regime e; ii) a definitiva concessão da progressão ao regime semiaberto de cumprimento de pena, tendo em vista o preenchimento dos requisitos objetivo e subjetivo (fl. 11 - grifo nosso). Em sede de liminar, pleiteia a imediata transferência do Paciente César Augusto Pereira, para o regime semiaberto até o julgamento final do writ (fl. 10).
+Sustenta, para tanto: (i) a atipicidade da conduta praticada pelo paciente à luz do disposto na Lei de Execuções Penais em seu art. 49, caput, da Lei n. 7.210/1984, porquanto teve reconhecido contra si o cometimento de falta grave consubstanciada em "subversão a ordem e disciplina" tipificação esta que não se encontra no rol definido nos arts. 50 e 51 da LEP (fl. 7); (ii) ilegalidade flagrante na imposição, pelo TJSP, de efeitos derivados do cometimento da falta grave não previstos em lei à época do fato (fl. 7); (iii) ainda que o TJSP considere a existência, à data dos fatos, de jurisprudência favorável ao efeito interruptivo da falta grave sobre a contagem do prazo para progressão de regime, não havia qualquer norma jurídica em sentido formal que previsse tal efeito, sendo inteiramente ilegal a retroação da norma inserida pela Lei n. 13.964/2019 a fato ocorrido em data anterior à sua vigência (fl. 8 - grifo nosso).
+Liminar indeferida (fls. 90/92).
+Informações prestadas (fls. 96/97 e 99/122), o Ministério Público Federal ofereceu parecer pelo não conhecimento da impetração e, alternativamente, pela denegação da ordem (fl. 131).
+Estes autos foram a mim distribuídos por prevenção (HC n. 536.210/SP).
+É o relatório.
+De pronto, verifica-se que o tema relativo ao afastamento da falta grave por atipicidade de conduta, não foi objeto de debate pelo Tribunal a quo, fato que impede a análise por esta Corte, sob pena de supressão de instância.
+No mais, é entendimento sumulado deste Superior Tribunal de que a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração (Súmula 534).
+A referida súmula foi publicada em 15/6/2015, portanto, bem antes da promulgação do Pacote Anticrime (Lei n. 13.964/2019).
+Assim, observa-se que as instâncias ordinárias decidiram de acordo com a jurisprudência desta Corte Superior, não havendo assim qualquer ilegalidade a ser sanada.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa parte, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ATIPICIDADE. SUPRESSÃO DE INSTÂNCIA. PROGRESSÃO DE REGIME. INTERRUPÇÃO DA DATA-BASE EM RAZÃO DA PRÁTICA DE INFRAÇÃO DISCIPLINAR. SÚMULA 534/STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ parcialmente conhecido e, nessa extensão, ordem denegada.
