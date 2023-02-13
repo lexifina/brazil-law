@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ALAN SOLANO CAVALCANTE (ALAN) ingressou com ação de distrato de "lnstrumento Particular de Promessa de Cessão de Direitos Aquisitivos de Imóvel" cumulada com devolução dos valores pagos contra WROBEL CONSTRUTORA S.A. (WROBEL), JOÃO FORTES ENGENHARIA S.A. (JOÃO FORTES), FERNANDES MERA RIO NEGÓCIOS IMOBILIÁRIOS LTDA. e BALTICO ASSESSORIA DE COBRANÇA LTDA., alegando dificuldades financeiras que o impediram de prosseguir com o cumprimento do negócio jurídico avençado.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para rescindir o contrato celebrado entre as partes, condenando as duas primeiras requeridas, solidariamente, a devolverem 90% dos valores pagos pelo autor, devidamente corrigidos, incidindo juros de mora de 1% ao mês a partir do trânsito em julgado desta sentença, o que deve ser apurado em fase de liquidação. Tendo em vista que o autor decaiu da parte mínima do pedido, as rés suportarão as custas do processo e a verba honorária de 10% sobre o valor da condenação, na forma do art. 85, §§ 2º e 3º, do CPC (e-STJ, fls. 404/409).
+Irresignados, JOÃO FORTES e WROBEL apelaram, e ambos os recursos foram parcialmente providos pelo Tribunal de Justiça do Estado do Rio de Janeiro, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL, CUMULADA COM PEDIDO DE REPARAÇÃO DE DANOS.
+- Demandante que, alegando abusividades em contratos celebrados com as rés, objetiva nestes autos: I) que as demandadas se abstenham de incluir seu nome nos cadastros restritivos ao crédito; II) que seja declarada a rescisão dos contratos entabulados entre as partes; III) que as rés sejam condenadas a restituir todos os valores que receberam desde o início dos contratos (R$ 101.442.31), devidamente corrigidos e acrescidos de juros legais de mora; IV) a condenação das rés a devolverem o valor de R$ 16.594,96 e de R$ 745,00, a título de repetição de indébito, totalizando R$ 34.679,92; e V) a condenação das rés ao pagamento de multa por venda casada, na forma do artigo 5º, inciso II, da Lei nº. 9.137/90.
+- Sentença vergastada que julgou parcialmente procedentes os pedidos iniciais, condenando as rés, solidariamente, a restituírem 90% dos valores pagos pelo autor, além da quantia indevidamente cobrada a título de SATI.
+- Pedido para que o feito seja extinto, sem resolução de mérito, em razão da ilegitimidade ad causam da segunda ré, que não merece acolhida, haja vista a aplicação ao caso da Teoria da Asserção.
+- Alegação do autor no sentido de que teriam ocorrido condutas abusivas durante a celebração da avença com a ré que não merece acolhida, devendo-se considerar que, na verdade, houve mera desistência do consumidor em adquirir o imóvel por ele anteriormente negociado.
+- Devolução parcial dos valores pagos pelo consumidor durante a contratação que é expressamente reconhecida no enunciado nº. 543, da súmula do STJ, não havendo que se falar em retenção integral de valores pela ré.
+- Percentual de retenção de 10% das quantias pagas pelo autor que, todavia, merece majoração, a fim de se adequar ao entendimento do STJ sobre o tema, que prevê a possibilidade de retenção de até 25% dos valores pagos pelo consumidor.
+- Sociedades demandadas que se reuniram com a primeira ré para, juntas, explorarem atividade econômica no mercado de consumo, devendo, portanto, responder de forma solidária em caso de prejuízos.
+Precedentes deste Tribunal.
+- Sucumbência mínima da parte autora que impõe às rés o ônus de custear as despesas e os honorários advocatícios de sucumbência, na forma do artigo 86, parágrafo único, do CPC/15 - Inaplicabilidade dos honorários advocatícios recursais na espécie, eis que não presente a hipótese descrita no artigo 85, § 11º, do novo CPC/15.
+CONHECIMENTO E PARCIAL PROVIMENTO DOS RECURSOS (e- STJ, fls. 518/519).
+Os embargos de declaração opostos por JOÃO FORTES e WROBEL foram rejeitados (e-STJ, fls. 585/596).
+Irresignada, WROBEL manejou recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 420 do CC/02 e 86 do NCPC, ao sustentar (1) a possibilidade de retenção das arras; e (2) a necessidade de redistribuição dos honorários advocatícios, tendo em vista a sucumbência recíproca das partes.
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 645/650).
+Na sequência, WROBEL interpôs agravo em recurso especial que, em decisão desta relatoria, conheceu em parte do apelo excepcional, negando-lhe provimento, nos termos da ementa a seguir:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DISTRATO POR INICIATIVA DO COMPRADOR. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA Nº 83 DO STJ. REDISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DE WROBEL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravo interno interposto por WROBEL não foi provido pela Terceira Turma do STJ, consoante o acórdão assim sumariado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DISTRATO POR INICIATIVA DO COMPRADOR. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA Nº 83 DO STJ. REDISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Na linha dos precedentes desta Corte, não é devida a retenção de arras confirmatórias pelo promitente-vendedor nas hipóteses de desfazimento do contrato de promessa de compra e venda de imóvel.
+Incidência da Súmula nº 83 do STJ.
+3. A apreciação, em recurso especial, do quantitativo em que o autor e o réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno de Wrobel não provido.
+Nas razões dos presentes embargos de declaração, WROBEL indicou ofensa ao art. 1.022, II, do NCPC, por omissão do julgado acerca da necessidade de redistribuição dos ônus sucumbenciais, considerando que o compromissário comprador foi vencido na maioria dos pedidos deduzidos na inicial.
+Não foi apresentada impugnação (e-STJ, fl. 861).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DISTRATO POR INICIATIVA DO COMPRADOR. REDISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que a apreciação, em recurso especial, do qua ntitativo em que o autor e o réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula n.º 7 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+Narram os autos que ALAN ingressou com ação de distrato de "lnstrumento Particular de Promessa de Cessão de Direitos Aquisitivos de Imóvel" cumulada com devolução dos valores pagos contra WROBEL e outras, alegando dificuldades financeiras que o impediram de prosseguir com o cumprimento do negócio jurídico avençado.
+O Tribunal de Justiça do Rio de Janeiro reformou a sentença de parcial procedência do pedido autoral, apenas para majorar o percentual de retenção de 10% para 25% dos valores pagos.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, TRANSPORTADORA e outros sustentaram contrariedade ao art. 1.022, II, do NCPC, por omissão do julgado acerca da necessidade de redistribuição dos ônus sucumbenciais, considerando que o compromissário comprador foi vencido na maioria dos pedidos deduzidos na inicial.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório e tampouco apresentou erro material ao concluir, fundamentadamente, que o Superior Tribunal de Justiça tem jurisprudência firme no sentido de não se admitir, em recurso especial, a aferição do quantitativo em que autor e réu saíram vencidos na demanda ou a verificação de sucumbência mínima ou recíproca para efeito de fixação de honorários advocatícios, tendo em vista que essas questões não prescindem do revolvimento de matéria fático-probatória, atraindo a incidência à hipótese da Súmula n.º 7 do STJ.
+Dessa forma, a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 17/2/2020, DJe 20/2/2020 - sem destaques no original)
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
