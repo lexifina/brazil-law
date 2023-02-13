@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE ROBERTO BATISTA DA SILVA contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República no Agravo em Execução Penal n. 0715676-09.2022.8.07.0000.
+Consta dos autos que o Juízo singular indeferiu o pedido de reconhecimento da continuidade delitiva entre dois crimes de furto oriundos d as Execuções Penais n. 0729098-53.2019.8.07.0001 e 0738960-48.2019.8.07.0001, praticados em 05/05/2019 e 06/05/2019, respectivamente.
+Irresignada, a Defesa interpôs agravo em execução penal, que não foi provido (fls. 412-428).
+Nas razões do recurso especial, o Agravante alega ofensa ao art. 71 do Código Penal, ao argumento de que "os delitos das execuções em apreço são da mesma espécie, com condições de tempo, lugar e modus operandi correspondentes. Presente, ainda, o requisito subjetivo, uma vez que houve um planejamento para a consecução da subtração dos objetos desejados e que um crime foi continuação do outro" (fl. 439).
+Aduz que os crimes foram praticados "com semelhantes circunstâncias objetivas de tempo e espaço (em 05/05/2019 e 06/05/2019, na região de Asa Norte - Brasília/DF), e com idêntico modus operandi (furtos cometidos contra estabelecimentos comerciais, durante o repouso noturno e mediante rompimento de obstáculo, consistente na quebra de vidraças das respectivas vitrines)" (fl. 436).
+Requer o provimento do recurso, "a fim de que a continuidade delitiva seja examinada consoante os critérios elencados no artigo 71 do CP" (fl. 441).
+Foram apresentadas contrarrazões (fls. 448-449). O recurso especial não foi admitido (fls. 452-453). Foi interposto agravo (fls. 458-463).
+O Ministério Público Federal apresentou parecer, opinando pelo "conhecimento do agravo para que seja negado seguimento ao recurso especial" (fl. 485).
+É o relatório.
+Decido.
+Evidenciada a viabilidade do agravo, prossegue-se na análise do recurso especial.
+No que concerne ao pleito pelo reconhecimento da continuidade delitiva, o aresto atacado apresenta as seguintes razões de decidir (fl. 419; sem grifos no original):
+"Na hipótese presente, os furtos foram cometidos pelo agravante em datas diversas: 05/05/2019 e 06/05/2019, em locais diferentes, contra vítimas distintas, sem que tenham relação uma com a outra.
+Ademais, no caso, não houve unidade de desígnios, ou seja, o agravante não praticou o delito subsequente, do dia 6.5.2019, aproveitando-se das mesmas oportunidades do delito praticado no dia 5.5.2019.
+Diversamente, verifica-se habitualidade no cometimento dos furtos, conforme se observa na narração das denúncias (ID"s 35369925 - Pág. 58/59 e 35369925 - Pág. 212), porquanto as vítimas foram escolhidas de modo aleatório, sem qualquer nexo de continuidade entre eles. Desse modo, afasta-se a tese de continuidade delitiva.
+ ..
+Assim, o que se constata é que os delitos de furto foram praticados em momentos e de formas distintos, não havendo qualquer liame de dependência, tratando-se de condutas autônomas, de forma que não se amolda aos requisitos previstos no art. 71 do Código Penal, o que impossibilita o reconhecimento da continuidade delitiva."
+Como se vê, a Corte a quo, soberana quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que, na espécie, não está caracterizada a continuidade delitiva e, sim, reiteração criminosa. Portanto, a inversão do julgado de maneira a fazer incidir o citado instituto preconizado no art. 71 do Estatuto repressor demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. CRIME CONTINUADO. SUPOSTO PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. PLEITO DEFENSIVO DE APLICAÇÃO DO INSTITUTO PREVISTO NO ART. 71 DO CÓDIGO PENAL. INVIABILIDADE. NECESSÁRIO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em observância à Teoria Mista ou Objetivo-Subjetiva, para a caracterização do instituto do art. 71 do Código Penal, é necessário que estejam preenchidos, cumulativamente, os requisitos de ordem objetiva (pluralidade de ações, mesmas condições de tempo, lugar e modo de execução) e o de ordem subjetiva, assim entendido como a unidade de desígnios ou o vínculo subjetivo havido entre os eventos delituosos.
+2. Hipótese em que o Tribunal de origem, instância soberana na análise de fatos e provas, afastou a tese defensiva de que estaria configurado o crime continuado, sobretudo porquanto demonstrada a habitualidade dos delitos praticados pelos agravantes, os quais, em contexto de organização criminosa, faziam do crime seu modo de vida.
+3. Para alcançar conclusão diversa, como pretendido pela defesa, seria necessário inevitável reexame de provas, providência esta sabidamente vedada na via do recurso especial diante do óbice previsto na Súmula 7 do STJ.
+4. Agravo regimental desprovido." (AgRg no AREsp n. 1.988.200/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 16/08/2022, DJe 19/08/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO CIRCUNSTANCIADO. CONTINUIDADE DELITIVA. NÃO PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVO. REEXAME DA PROVA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+ ..
+3. Ademais, se as instâncias ordinárias, soberanas na análise da matéria fática dos autos, estão convictas quanto à ausência de preenchimento dos requisitos previstos no art. 71 do Código Penal, notadamente quanto à ausência de unidade de desígnios, e motivadamente afastaram sua incidência, a pretensão recursal de aplicação da continuidade delitiva esbarraria, necessariamente, no reexame fático-probatório, o que é defeso conforme o Verbete Sumular n.º 07 desta Corte. Precedentes.
+4. Agravo regimental provido, para conhecer do agravo e não conhecer do recurso especial." (AgRg no AREsp n. 1.362.451/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, relatora para acórdão Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/11/2018, DJe 04/0 2/2019; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. FURTOS. PLEITO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7/STJ. HABITUALIDADE DELITIVA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
