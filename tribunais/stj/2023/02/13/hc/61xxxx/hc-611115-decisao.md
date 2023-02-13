@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de LAERTE GOMES, contra decisão de desembargador integrante do Tribunal de Justiça do Estado de Rondônia (Medidas Investigatórias n. 0005264-48.2019.8.22.0000).
+Extrai-se dos autos que no curso de procedimento investigatório foi determinada a busca e apreensão de objetos, documentos e numerário contra Laerte Gomes, em autos que apuram a suposta prática de venda de apoio político para a eleição da mesa diretora da Assembléia Legislativa do Estado de Rondônia - ALE/RO, presidida pelo ora paciente no biênio 2019/2020, além da nomeação, em tese, de "servidores fantasmas" e indícios de desvio de recursos da ALE/RO (rachadinha), tendo o Ministério Público vislumbrado possível prática dos crimes previstos no art. 288 e 312 do Código Penal (associação criminosa e peculato).
+Irresignada, a defesa impetrou o presente habeas corpus, no qual sustenta falta de justa causa para a persecução, asseverando que "a "investigação fiscal encartada nos autos nº 0005263-63.2019.8.22.0000, sequer faz referência ao nome do Paciente" (fl. 9).
+Afirma que a intercepção telefônica realizada pela Polícia Federal é nula, considerando sua falta de atribuição, eis que não se cuida de bens ou serviços da união.
+Aponta que a conduta imputada ao paciente não é conexa aos fatos relacionados na supra referida investigação.
+Assevera a incompetência do Tribunal Pleno do TJ/RO para a condução do feito, a qual deveria ficar a cargo das Câmaras Reunidas Especiais.
+Alega a desnecessidade da busca e apreensão, pois a medida havia sido anteriormente indeferida pelo desembargador, "tendo em vista o lapso temporal decorrido que denota providência cautelar inócua, fazendo referência expressa pela desnecessidade da diligência, porque o suposto "conluio para eleição da mesa diretora da ALE/RO já ocorreu" (fl. 20), não restando demonstrada a necessidade atual do acolhimento de novo pedido da Procuradoria Geral de Justiça do Estado.
+Aduz que, em "evidente hiperatividade judicial a autoridade coatora ampliou o pedido de reconsideração, determinando a apreensão "não só o celular do investigado Laerte Gomes", mas "também computadores, notebooks e todos os instrumentos de armazenamento de dados, tais como, HDS, Pen Drives, tabletes, e arquivos eletrônicos, de qualquer espécie", em afronta ao princípio da inércia" (fl. 32).
+Requer, pois, a concessão da ordem "para declarar imprestáveis os elementos informativos colhidos nas buscas e apreensões realizadas, ante as inúmeras ilegalidades apontadas" (fl. 47).
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela denegação da ordem (fls. 386/389).
+É o relatório.
+Decido.
+Diante do novel posicionamento jurisprudencial do STF e desta Corte não deve ser conhecido o habeas corpus substitutivo de recurso próprio, salvo no caso da existência de flagrante constrangimento ilegal à liberdade de locomoção que autorize a concessão da ordem de ofício, o que não ocorre no presente caso.
+Conforme relatado, busca-se por meio do remédio heroico a concessão da ordem para anular buscas e apreensões levadas a cabo em desfavor do Paciente.
+Em que pese a alegada lesão à direitos fundamentais, no caso em análise o pedido do impetrante é no sentido de anular o ato judicial apontado como concretizador do constrangimento ilegal - deferimento da medida cautelar de busca e apreensão - desvirtuando a finalidade do remédio constitucional, que visa afa star ameaça ou constrangimento ilegal ao direito de locomoção, afastando dessa forma o seu cabimento.
+São precedentes nossos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. RESTRIÇÃO DE ACESSO AOS DADOS PROCESSUAIS. AUSÊNCIA DE LESÃO OU AMEAÇA À LIBERDADE DE LOCOMOÇÃO. PROTEÇÃO DA INTIMIDADE, HONRA E VIDA PRIVADA DO RÉU. AUSÊNCIA DE INFORMAÇÕES SENSÍVEIS. PREVALÊNCIA DO INTERESSE PÚBLICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus é instrumento jurídico destinado à tutela da liberdade de locomoção, não podendo ser utilizado em situações nas quais o direito de ir, vir ou permanecer não tenha sofrido lesão ou esteja ameaçado de limitação em face de constrangimento ilegal.
+2. Os atos processuais são, em regra, públicos e, apenas em caráter excepcional, admite-se a restrição de acesso aos autos nas hipóteses em que houver necessidade de proteção do interesse público ou social, para preservação da intimidade ou da vida privada dos envolvidos ou, finalmente, quando os autos contiverem dados protegidos pela garantia constitucional de sigilo, a exemplo de informações obtidas com quebra de sigilo bancário ou telefônico.
+Nenhuma dessas situações é vislumbrada no presente caso.
+3. Agravo regimental não provido.
+(AgRg no HC n. 784.273/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/12/2022.)
+DIREITO PENAL. NULIDADES. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PEDIDOS NÃO FORMULADOS EM RECURSO DE APELAÇÃO OU EMBARGOS DE DECLARAÇÃO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ATO ILEGAL OU COATOR. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - De plano, verifica-se que a matéria objeto da presente impetração não poderá ser examinada por esta eg. Corte Superior de Justiça, pois, consoante a instrução processual, não foi questionada perante o eg. Tribunal de origem, sob pena de supressão de instância.
+III - Assim, inexistindo ato que tenha atentado contra a liberdade de locomoção do paciente por ilegalidade ou abuso de poder (art. 5º, LXVIII, da Constituição da República), impõe-se o não conhecimento do mandamus.
+Habeas corpus não conhecido. (HC 569.253/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 17/06/2020)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PEDIDO REUNIÃO DE PROCESSOS NA VIA DO HABEAS CORPUS NÃO CONHECIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTOILEGAL.RECURSO DESPROVIDO.
+1. As instâncias ordinárias não divergiram do entendimento dominante nesta Corte Superior, no sentido de que a reunião dos processos é medida facultativa, que depende de os processos por crimes alegadamente conexos estarem na mesma fase de instrução, e somente é atacável pela via do habeas corpus quando restar demonstrado risco concreto à liberdade de locomoção e não depender de revisão fático-probatória.
+2. Não se identificando constrangimento ilegal praticado pelo Tribunal de origem ao não conhecer do writ lá impetrado, resta afastada a competência desta Corte Superior para análise do tema, sob pena de incorrer em indevida supressão de instância.
+3. Agravo Regimental no recurso habeas corpus desprovido.
+(AgRg no RHC 106.260/MS, de minha Relatoria, QUINTA TURMA, DJe 27/09/2019)
+CONSTITUCIONAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. FURTO QUALIFICADO. REPARAÇÃO DOS DANOS CAUSADOS À VÍTIMA. INVIABILIDADE EM SEDE DE WRIT. AUSÊNCIA DE CONSTRANGIMENTO AO DIREITO DE LOCOMOÇÃO. ORDEM NÃO CONHECIDA.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A via processual do habeas corpus não é adequada para impugnar a reparação civil fixada na sentença penal condenatória, com base no art. 387, inciso IV, do Código de Processo Penal, pois a sua imposição não acarreta ameaça, ainda que indireta ou reflexa, à liberdade de locomoção. Precedentes.
+3. Habeas corpus não conhecido.(HC 302.141/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/04/2016, DJe 03/05/2016)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intime-se.
