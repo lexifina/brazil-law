@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Convocado o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+RELATÓRIO
+Trata-se de agravo regimental interposto por HELIO FRANCISCO DOS SANTOS, contra decisão monocrática, da minha lavra, que conheceu do agravo para não conhecer do recurso especial.
+No presente agravo, o recorrente alega que a irresignação está adstrita a revaloração de fatos e provas com a devida aplicação das regras e princípios jurídicos, não havendo se falar em incidência do óbice sumular 7/STJ.
+Reitera as alegações anteriormente expendidas, sustentando que o acervo probatório não ampara o edito condenatório, sendo indevida a consideração, isolada, de interceptações telefônicas sem identificação dos interlocutores. Ressalta que não houve demonstração de vínculo associativo do recorrente com o suposto grupo criminoso.
+Pugna, assim, pelo provimento do presente agravo.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRAFICO. PRETENDIDA DESCONTITUIÇÃO DO EDITO CONDENATÓRIO EM SEDE DE REVISÃO CRIMINAL. IMPRESCINDIBILIDADE DO REVOLVIMENTO FÁTICO-PROBATÓRIO. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo reconheceu a robustez das provas obtidas no curso da instrução, que forneceram subsídios suficientes para a sentença condenatória, já transitada em julgado, cuja desconstituição, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ e incompatível com desiderato da revisão criminal.
+2. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental não merece acolhida.
+Dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada.
+Conforme consignado na decisão agravada, no caso dos autos, o Tribunal a quo reconheceu a robustez das provas obtidas no curso da instrução, que forneceram subsídios suficientes para a sentença condenatória, já transitada em julgado, cuja desconstituição, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Cumpre, ainda, registrar que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado n. 7 da Súmula desta Corte (AgRg no AREsp 1.150.564/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 15/2/2018).
+A respeito, vale citar os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. CONDENAÇÃO CONTRÁRIA ÀS EVIDÊNCIAS DOS AUTOS. RECONHECIMENTO DA CONTINUIDADE DELITIVA. OFENSA AO ARTIGO 621 DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. REAPRECIAÇÃO DO ACERVO PROBATÓRIO. DESCABIMENTO. AGRAVO NÃO PROVIDO.
+1. A Corte de origem entendeu pelo não cabimento da revisão criminal, sob o fundamento de que o pleito revisional não se enquadra nas hipóteses expressamente previstas no art. 621 do CPP, reputando inadequada a via eleita para fins de reexame de matéria fático-probatória, o que está de acordo com a jurisprudência deste Superior Tribunal de Justiça.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.183.476/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO INCIDÊNCIA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. REVISÃO CRIMINAL ART. 621, INCISO I, DO CÓDIGO DE PROCESSO PENAL. ABSOLVIÇÃO POR INSUFICIÊNCIA OU FRAGILIDADE DAS PROVAS. INCABÍVEL A UTILIZAÇÃO DA AÇÃO REVISIONAL COMO NOVA APELAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. As conclusões expostas na decisão agravada não demandaram reexame do acervo fático-probatório, mas somente a correta exegese da legislação que rege a matéria, não incidindo, portanto, o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+2. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória.
+3. Agravo regimental desprovido.(AgRg nos EDcl no REsp n. 1.940.215/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe de 25/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E RECEPTAÇÃO. REVISÃO CRIMINAL INDEFERIDA. PEDIDOS DE ABSOLVIÇÃO, DESCLASSIFICAÇÃO E DOSIMETRIA DA PENA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas.  ..  Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+2. O Tribunal a quo considerou, para a manutenção da condenação, o conjunto fático probatório dos autos, não só no tocante ao reconhecimento da culpa do recorrente, como também no que diz respeito à dosimetria da pena. Assim, inviável sua desconstituição pela via do recurso especial, ante a incidência da Súmula n. 7/STJ.3. Agravo regimental desprovido.(AgRg no AREsp n. 1.807.887/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021 )
+Dessa forma, não tendo o agravante apresentado argumentos aptos a reverter o entendimento assentado na decisão monocrática, esta se mantém por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o meu voto.
