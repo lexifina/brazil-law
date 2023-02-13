@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 378/385) interposto contra decisão desta relatoria que, reconsiderando decisão da Presidência desta Corte, conheceu do agravo em recurso especial e negou-lhe provimento.
+Em suas razões, a agravante insurge-se contra a aplicação das Súmulas n. 284 do STF e 211 do STJ, aduzindo ter oposto embargos de declaração a fim de instar a Corte de origem a se manifestar sobre a vulneração dos art. 805 e 835, § 3º, do CPC/2015 e sobre a Súmula n. 417 do STJ.
+Alega que a matéria recursal não demanda reexame do contexto fático-probatório, sendo, portanto, inaplicável a Súmula n. 7/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 389/409).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 1.022 do CPC/2015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide também a Súmula n. 284/STF.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+4. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 371/374):
+Trata-se de agravo interno (e-STJ fls. 329/333) interposto contra decisão do eminente Ministro Presidente desta Corte que não conheceu do agravo em recurso especial, por aplicação da Súmula n. 182/STJ.
+Em suas razões, a agravante alega ter impugnado todos os fundamentos da decisão que, na origem, negou seguimento ao especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 339/366).
+É o relatório.
+Decido.
+O eminente Ministro Presidente desta Corte, às fls. 326/327 (e-STJ), não conheceu do agravo em recurso especial por aplicação da Súmula n. 182/STJ.
+Entretanto, verifico que, de fato, houve, por parte da recorrente, a devida impugnação dos fundamentos da decisão agravada. Dessa forma, a decisão merece ser reconsiderada, a fim de que seja afastado o não conhecimento do agravo interposto, prosseguindo-se com seu exame.
+O acórdão recorrido está assim ementado (e-STJ fls. 92/93):
+AGRAVO DE INSTRUMENTO. Cuida-se de agravo de instrumento que ataca decisão que tornou sem efeito a decisão de fl. 418, que determinou a intimação da Administração do Penha Shopping para apresentar ao juízo cópia dos atuais contratos de locação dos imóveis listados no índice 377. Destacou o magistrado que em sede de medida cautelar proposta pelo executado frente ao STJ, foi vedada a constrição dos créditos, reformando- se a decisão de fls. 418 que deferiu a penhora dos alugueres que a executada recebe. Cumpre ressaltar que se equivocou o magistrado, pois a fl. 418 não foi deferida constrição alguma. A decisão apenas determinou a intimação para apresentar os contratos atuais de locação dos imóveis. Em relação à decisão do STJ nos autos da medida cautelar, verifica-se que, em 02/01/2003, o Ministro Presidente do STJ deferiu liminar para suspender a penhora sobre os créditos provenientes dos alugueres da TEMAB e determinou que fosse processado o recurso especial nos autos do Agravo de Instrumento nº 2002.002.02878. Foi negado provimento ao agravo regimental interposto por Banco BVA S/A nos autos da Medida Cautelar 5955-RJ. Ocorre que posteriormente foi negado provimento ao recurso especial interposto por TEMAB S/A (REsp 604.766). Tudo isto foi analisado no julgamento do AI nº 0029019- 85.2019.8.19.0000. O desprovimento do recurso especial conduziu à imediata perda dos efeitos da decisão proferida na medida cautelar, que tinha por fim específico a concessão de efeito suspensivo ao recurso, não cabendo a alegação de violação a coisa julgada. O AI nº 0029019-85.2019.8.19.0000, interposto por TEMAB S/A contra decisão que determinou a penhora dos créditos advindos dos contratos de locação do Penha Shopping, foi parcialmente provido para limitar a 5% (cinco por cento) a penhora sobre os créditos advindos dos contratos de locação do Penha Shopping. Para viabilizar o cumprimento do acórdão proferido nos autos do AI nº 0029019-85.2019.8.19.0000, impõe-se acolher a pretensão do agravante para restabelecer a decisão de fl. 418. Reiteração do argumento da coisa julgada com o atraso no andamento do processo, após enfrentamento por esta Corte, caracteriza embaraço injustificado a realização da penhora. Ato atentatório a dignidade da justiça. Multa fixada em 10% (dez por cento) sobre o valor atualizado do débito. Execução que se arrasta há 20 anos. Todo tipo de embaraço tem sido feito pelo Executado para obstar a satisfação do crédito. Inclusive e principalmente, induzindo o magistrado de primeiro grau a erro, com descumprimento do acórdão anterior. Art. 774, III do C.P.C. PROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 140/144).
+Nas razões do especial (e-STJ fls. 146/167), interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, a recorrente apontou, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) art. 1.022, I e II, do CPC/2015, haja vista a omissão da Corte de origem "em examinar a questão suscitada nos embargos de declaração" (e-STJ fl. 157), e
+(b) arts. 805 e 835, § 3º, do CPC/2015, pois, "estando à execução suficientemente garantida, não se mostra adequada, razoável e proporcional deferir o pleito da apresentação dos contratos de locação para posterior efetivação da penhora sobre a receita de aluguel da Recorrente, atentos ainda para a função social da empresa, devendo a mesma recair sobre o bem dado em garantia" (e-STJ fl. 151).
+Afirmou que o acórdão recorrido contraria também a Súmula n. 417/STJ, segundo a qual "a penhora de dinheiro na ordem de nomeação de bens não tem caráter absoluto, o que reforça ainda mais a aplicação da regra contida no parágrafo 3º do artigo 835 do CPC, para afastar a penhora sobre os recebíveis de alugueres da Recorrente" (e-STJ fl. 152). Aduziu tratar-se de divergência notória que dispensaria as formalidades de transcrição dos acórdãos e de realização de confronto entre eles.
+Acrescentou que "a tutela cautelar deferida por essa Corte Cidadã no Processo MC 5955 não foi provisória, como assentado na decisão objurgada, mais sim definitiva, pois a cognição exercida, na linha horizontal, para sua concessão foi exauriente com conteúdo eficacial do direito subjetivo de segurança" (e-STJ fl. 153).
+Insurgiu-se contra a multa por ato atentatório à dignidade da justiça, sustentando que "o agravo de instrumento mencionado para lastrear a aplicação da penalidade foi interposto em ação diversa, ou seja, no Processo n.º 0131521- 32.2001.8.19.0001, que não guarda a menor pertinência com os autos principais do qual o presente recurso está atrelado (Processo n.º 0131523- 02.2001.8.19.0001), portanto não há como vingar o fundamento de repetição de controvérsia" (e-STJ fl. 154). Por tais razões, entendeu que a multa deve ser excluída ou reduzido o seu valor, uma vez que arbitrado de forma excessiva.
+Foram apresentadas contrarrazões (e-STJ fls. 177/212).
+No agravo (e-STJ fls. 249/256), declara a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 262/298 (e-STJ).
+A irresignação não merece prosperar.
+A recorrente aponta violação do art. 1.022 do CPC/2015, aduzindo genericamente que o Tribunal de origem não teria se manifestado sobre a questão apresentada nos embargos de declaração, sem, contudo, especificar, de forma exata, em que consistiria a referida omissão. Isso denota carência de fundamentação, atraindo o óbice da Súmula n. 284/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DE NORMA CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF. PREFERÊNCIA DOS CRÉDITOS TRABALHISTAS SOBRE O CRÉDITO HIPOTECÁRIO. INOVAÇÃO RECURSAL. ADJUDICAÇÃO DO IMÓVEL. LESÃO GRAVE E DE DIFÍCIL REPARAÇÃO. PRECLUSÃO. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+3. Considera-se deficiente a fundamentação do recurso especial que alega violação dos arts. 489 e 1.022 do CPC, quando não demonstrado, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração. Incidência, por analogia, da Súmula 284/STF.
+ ..
+7. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial, apenas para deferir o benefício da justiça gratuita com efeitos ex nunc.
+(AgInt no AREsp n. 1.611.756/GO, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/8/2022, DJe de 1/9/2022.)
+Os arts. 805 e 835, § 3º, do CPC/2015, bem como o tema referente à Súmula n. 417/STJ não foram analisados pelo Tribunal de origem, apesar da oposição de embargos de declaração. Assim, por falta de prequestionamento, incide a Súmula n. 211/STJ.
+A alegação de que a decisão proferida na medida cautelar não foi provisória, mas definitiva, assim como a insurgência quanto à multa arbitrada não se fizeram acompanhar dos supostos dispositivos de lei violados.
+Com efeito, "o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+Incide, portanto, a Súmula n. 284/STF.
+Ademais, a conclusão a que chegou o Tribunal de origem se deu com base no exame do contexto fático-probatório dos autos, o qual não pode ser revisto em sede de recurso especial, por aplicação da Súmula n. 7/STJ.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte de fls. 326/327 (e-STJ) para afastar o não conhecimento do agravo em recurso especial e NEGAR-LHE PROVIMENTO.
+Publique-se e intimem-se.
+Conforme exposto, a recorrente aponta violação do art. 1.022 do CPC/2015, mas deixa de especificar qual o ponto omisso, o que demonstra carência de fundamentação.
+Além disso, não foram indicados os dispositivos legais violados quanto à tese de que a decisão proferida na medida cautelar não é provisória e quanto à insurgência contra a multa arbitrada.
+Por tudo isso, aplicável a Súmula n. 284/STF.
+O Tribunal de origem não se manifestou sobre o conteúdo normativo dos arts. 805 e 835, § 3º, do CPC/2015 nem sobre a Súmula n. 417/STJ, de forma que, por falta de prequestionamento, incide a Súmula n. 211/STJ.
+Ademais, a conclusão adotada pelo TJRJ se deu com base nos elementos de fato do processo, os quais não podem ser revistos, ante o que dispõe a Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
