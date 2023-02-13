@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão (fls. 257-260, e-STJ) que negou provimento ao Recurso Especial.
+A parte agravante sustenta, em síntese, que, "em se tratando de questão unicamente de direito, não haverá revolvimento e novo julgamento de matéria fático-probatória, de modo que o presente Recurso Especial não encontra óbices nas súmulas 5 e 7 do STJ, principalmente ao se considerar que toda a matéria aqui discutida consta expressamente do acórdão recorrido" (fl. 268, e-STJ).
+Argumenta ainda:
+Em que pese o entendimento do Douto Ministro desta Egrégia Turma, não se pode considerar em consonância com o entendimento do STJ arbitramento de honorários de sucumbência que aviltam a profissão.
+Data vênia, muito embora seja licito o arbitramento de honorários por equidade em demandas cujo o proveito econômico seja inestimável, no caso dos autos, a sucumbência arbitrada por equidade é aviltante.
+Como exaustivamente sustentado, o Tribunal a quo arbitrou R$1.500,00 (mil e quinhentos reais) a título de sucumbência, valor este que não condiz com trabalho realizado na demanda em questão.
+(..)
+Excelências, mesmo para arbitramento de honorários por equidade deve-se levar em consideração o art. 85, §2º, do Código de Processo Civil, já que o valor arbitrado pelo TJSP não condiz com o grau de zelo, relevância, trabalho e tempo exigido dos patronos do Agravante, (..) (fls. 269-270, e-STJ).
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do feito ao Órgão Colegiado, "para que sejam majorados os honorários de sucumbência arbitrados, evitando o aviltamento da profissão em consonância com o art. 85, §2º, do Código de Processo Civil." (fl. 272, e-STJ).
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DA VERBA HONORÁRIA. EQUIDADE. CABIMENTO. BEM DE VALOR INESTIMÁVEL. MAJORAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Na hipótese dos autos, nota-se que o entendimento do Tribunal de origem está em consonância com a orientação do STJ no sentido de que a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento de enfermidades, objetiva a preservação, garantida constitucionalmente, da vida e/ou da saúde - bens cujo valor é inestimável -, o que justifica a fixação de honorários por equidade.
+2. Ademais, cumpre ressaltar que o STJ se orienta no sentido da impossibilidade de revisão, em Recurso Especial, do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+3. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+4. No caso, o Tribunal de origem estabeleceu a verba honorária em R$ 1.500,00 (um mil e quinhentos reais), considerando as peculiaridades fáticas do presente feito, que busca tutela da saúde. Dessarte, não configurada a excepcionalidade exigida pela jurisprudência do STJ, não se mostra possível a majoração dos honorários advocatícios pleiteada pela parte ora agravante.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30 de novembro de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Insurge-se o agravante quanto ao valor fixado a título de honorários advocatícios em Ação Ordinária que objetiva o fornecimento de medicamento.
+O Tribunal local estabeleceu a verba honorária da parte vencida em montante fixo, adotando a seguinte fundamentação (fls. 168-171, e-STJ):
+Quanto à fixação dos honorários sucumbenciais merece parcial reforma a r. sentença.
+Verifica-se que a matéria tratada nos autos, fornecimento de medicamentos, não apresenta grande complexidade, tratando-se de demanda já conhecida e sedimentada nesta Corte, não demandando maiores esforços por parte do patrono da parte, valendo salientar que não houve a produção de provas pericial ou testemunhal.
+Frise-se, ainda, que o ordenamento jurídico brasileiro já consagrou os princípios que vedam o enriquecimento sem causa e a onerosidade excessiva, que devem prevalecer no momento do arbitramento dos honorários advocatícios. Desse modo, nos casos como o presente, em que o valor fixado sobre o valor da causa se mostra exorbitante diante da complexidade da causa e do trabalho desenvolvido, admite-se, excepcionalmente, o arbitramento por equidade, com aplicação dos princípios constitucionais da proporcionalidade e da razoabilidade.
+De fato, se a fixação da verba honorária por equidade é permitida quando sua fixação se mostrar irrisória (art. 85, § 8º, do CPC), de rigor se utilizar uma interpretação extensiva do referido dispositivo para permitir sua aplicação quando a verba honorária se mostrar excessiva.
+(..) Por consequência, considerando-se o princípio da razoabilidade, tipificado no art. 8º do CPC, observados os critérios tipificados nos incisos I a IV do § 2º do art. 85 do CPC, ou seja, o grau e zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, deve-se fixar os honorários advocatícios em R$ 1.500,00 que afigura-se razoável para a remuneração do trabalho desenvolvido.
+Isto posto, dou parcial provimento ao recurso de apelação apenas para alterar os honorários advocatícios e fixá-los em R$ 1.500,00, mantida no mais a r. sentença tal como lançada.
+Segundo o entendimento firmado no STJ, os honorários advocatícios podem ser arbitrados por apreciação equitativa nas demandas envolvendo medicamentos, haja vista que, nesses casos, não é possível mensurar, em geral, o proveito econômico obtido com a ação.
+Sobre o tema:
+PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DA VERBA HONORÁRIA. EQUIDADE. CABIMENTO. BEM DE VALOR INESTIMÁVEL.
+1. Na hipótese dos autos, nota-se que que o entendimento do Tribunal de origem está em consonância com a orientação do STJ no sentido de que a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação, garantida constitucionalmente, da vida e/ou da saúde - bens cujo valor é inestimável -, o que justifica a fixação de honorários por equidade.
+2. O acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para reavaliar o proveito econômico da demanda, o valor dos medicamentos fornecidos e os demais requisitos para o arbitramento dos honorários advocatícios, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 2.100.231/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE TRATAMENTO MÉDICO. DIREITO À SAÚDE. VALOR INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. POSSIBILIDADE.
+1. A Corte Especial, no julgamento dos Recursos Especiais 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1.076 - acórdão ainda pendente de publicação), sob o rito dos repetitivos, estabeleceu a seguinte orientação: "I) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa;
+II) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (Informativo 730 do STJ, de 28/3/2022).
+2. A jurisprudência das Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça autoriza o arbitramento de honorários advocatícios por critério de equidade nas demandas em que se pleiteia do Estado o fornecimento de tratamento médico, haja vista que, nessas hipóteses, não é possível mensurar, em geral, o proveito econômico obtido com a ação, por envolver questão relativa ao direito constitucional à vida e/ou à saúde.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.890.101/RN, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+Ademais, cumpre ressaltar que o STJ se orienta no sentido da impossibilidade de revisão, em Recurso Especial, do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem estabeleceu a verba honorária em R$ 1.500,00 (um mil e quinhentos reais), considerando as peculiaridades fáticas do presente feito, que busca tutela da saúde. Dessarte, não configurada a excepcionalidade exigida pela jurisprudência do STJ, não se mostra possível a majoração dos honorários advocatícios pleiteada pela parte ora agravante.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
