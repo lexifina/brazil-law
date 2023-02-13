@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo, manejado por Itaú Unibanco Financeira S/A, contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+MANDADO DE SEGURANÇA - APELAÇÃO - TRIBUTO SUJEITO À LANÇAMENTO POR HOMOLOGAÇÃO - PAGAMENTO EXTEMPORÂNEO - DENÚNCIA ESPONTÂEA - IMPOSSIBILIDADE - SÚMULA 360 DO SUPERIOR TRIBUNAL DE JUSTIÇA - RECURSO IMPROVIDO.
+1. Nos tributos sujeitos a lançamento por homologação, ainda que declarados, é indevido o reconhecimento da denúncia espontânea aos pagamentos feitos a destempo. Aplicação da Súmula 360 do Superior Tribunal de Justiça.
+2. A apelante, nas razões recursais, confessa o recolhimento a destempo. Entretanto, pretende efeitos jurídicos diversos daqueles firmados pelo enunciado sumular, qual seja, o afastamento da multa de mora aplicada, com fundamento na ocorrência de denúncia espontânea.
+3. Apelação Improvida.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 561/566 (e-STJ).
+Nas razões recursais, fundamentado sob o artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, a recorrente alega a violação aos artigos 1.022, inciso II, 138 do CTN, para sustentar em síntese: (i) a nulidade do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) o cabimento da denúncia espontânea no caso em testilha.
+Contrarrazões ao Recurso Especial às fls. 616/617 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do apelo especial.
+No agravo, a recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+A parte Agravada não apresentou contraminuta ao Agravo em Recurso Especial.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação ao artigo 1.022, inciso II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi
+prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. No caso dos autos, observa-se que o acórdão integrativo (e-STJ, fl. 342) consignou que "não houve um agravamento da condenação imposta ao Instituto Nacional do Seguro Social, que ensejaria uma afronta ao princípio da non reformatio in pejus, mas sim uma necessária readequação da decisão ao que restou estabelecido pelo Superior Tribunal de Justiça, quando da fixação da tese delineada no Tema 862". Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Quanto ao mérito, a recorrente defende o cabimento do instituto da denúncia espontânea, pois como não houve a prévia declaração pelo contribuinte, abre-se o caminho para o reconhecimento da configura denúncia espontânea, mesmo em se tratando de tributo sujeito a lançamento por homologação, porquanto a confissão da dívida acompanhada de seu pagamento integral, anteriormente a qualquer ação fiscalizatória ou processo administrativo, permite a incidência do artigo 138 do CTN.
+O Tribunal de origem ao examinar a questão sobredita arrematou, in verbis:
+Na sistemática do lançamento por homologação, o instituto da denúncia espontânea, previsto no artigo 138, do Código Tributário Nacional, não aproveita ao contribuinte que efetua a declaração, mas recolhe os tributos devidos a destempo.
+É o caso concreto.
+A apelante, nas razões recursais, confessa o recolhimento a destempo. Entretanto, pretende efeitos jurídicos diversos daqueles firmados pelo enunciado sumular, qual seja, o afastamento da multa de mora aplicada, com fundamento na ocorrência de denúncia espontânea.
+Como se depreende do contexto fático destacado acima, o Tribunal de origem foi categórico ao reconhecer que apesar da declaração do tributo devido, o adimplemento foi realizado fora do prazo.
+Com efeito, a questão referente à ocorrência de denúncia espontânea já foi matéria controversa no âmbito desta Corte, prevalecendo o entendimento, inclusive em sede de recursos repetitivos, na forma do art. 543-C, do CPC (REsp"s n. 1.149.022, 962.379 e 886.462), no sentido de que "a denúncia espontânea não resta caracterizada, com a conseqüente exclusão da multa moratória, nos casos de tributos sujeitos a lançamento por homologação declarados pelo contribuinte e recolhidos fora do prazo de vencimento, à vista ou parceladamente, ainda que anteriormente a qualquer procedimento do Fisco". Sobre o tema, esta Corte editou, inclusive, a Súmula n. 360, a qual dispõe que: "o benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo".
+A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DENÚNCIA ESPONTÂNEA. NÃO CONFIGURAÇÃO. PAGAMENTO EM ATRASO E PARCELAMENTO DO DÉBITO TRIBUTÁRIO. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO REPETITIVO: RESP 886.462/RS, REL. MIN. TEORI ALBINO ZAVASCKI, DJE 28.10.2008 E RESP 1.102.577/DF, REL. MIN. HERMAN BENJAMIN, DJE 18.05.2009. AGRAVO INTERNO DOS CONTRIBUINTES A QUE SE NEGA PROVIMENTO.
+1. O acórdão hostilizado consignou que a satisfação do débito em atraso não afasta a multa moratória que decorre de quitação realizada a destempo, o que encontra amparo na orientação firmada pela Primeira Seção desta Corte Superior, por ocasião do julgamento do REsp 886.462/RS, de relatoria do eminente Ministro TEORI ALBINO ZAVASCKI, e consolidada na Súmula 360/STJ (O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo).
+2. Ademais, o instituto da denúncia espontânea (art. 138 do CTN) não se aplica nos casos de parcelamento de débito tributário (REsp. 1.102.577/DF, Rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 18.5.2009, acórdão sujeito ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ).
+3. Agravo interno dos contribuintes a que se nega provimento.
+(AgInt no AREsp n. 1.626.581/GO, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. TRIBUTO SUJEITO À LANÇAMENTO POR HOMOLOGAÇÃO. PAGAMENTO EXTEMPORÂNEO. DENÚNCIA ESPONTÂEA. IMPOSSIBILIDADE. SÚMULA 360 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL .
