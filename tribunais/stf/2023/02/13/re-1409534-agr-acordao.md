@@ -1,0 +1,895 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 20
+
+13/02/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.409.534 PARANÁ
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: MARCIA APARECIDA TAVARES GAIARINI
+: ALEX DE SIQUEIRA BUTZKE
+
+Ementa: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO.
+OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA
+AMPLA DEFESA, DO CONTRADITÓRIO, DO DIREITO ADQUIRIDO,
+COISA JULGADA E ATO JURÍDICO PERFEITO. OFENSA
+CONSTITUCIONAL REFLEXA. TEMA 660 DA REPERCUSSÃO GERAL.
+VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636/STF.
+PRESCRIÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL.
+VERBAS
+RECEBIDAS
+EM
+VIRTUDE
+DE
+DECISÕES
+ADMINISTRATIVAS. MANUTENÇÃO DO PAGAMENTO ATÉ
+INTEGRAL ABSORÇÃO POR QUAIQUER OUTROS REAJUSTES
+FUTUROS CONCEDIDOS AOS SERVIDORES. ACÓRDÃO RECORRIDO
+EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF. TEMA 395
+DA REPERCUSSÃO GERAL.
+1. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR
+MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito
+adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da
+legalidade, do contraditório, da ampla defesa e do devido processo legal,
+quando se mostrar imprescindível o exame de normas de natureza
+infraconstitucional.
+2. Em relação à ofensa ao artigos 37, caput, da Constituição Federal
+aplica-se neste caso a restrição da Súmula 636/STF: Não cabe recurso
+extraordinário por contrariedade ao princípio constitucional da legalidade,
+quando a sua verificação pressuponha rever a interpretação dada a normas
+infraconstitucionais pela decisão recorrida.
+3. Relativamente à alegada prescrição da pretensão, verifica-se que a
+análise da questão está situada no contexto infraconstitucional, de forma
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 743B-ED0B-1C7C-1437 e senha 46D9-0E77-B84E-34FB
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 20
+
+RE 1409534 AGR / PR
+que as alegadas ofensas à Constituição seriam meramente indiretas (ou
+mediatas), o que inviabiliza o conhecimento do referido apelo.
+4. Ação que versa sobre o direito de a parte autora perceber o
+restante dos valores reconhecidos administrativamente e não adimplidos,
+referentes à incorporação de quintos/décimos.
+5. O Plenário desta CORTE, no julgamento do RE 638.115-ED-ED/CE
+(Rel. Min. GILMAR MENDES, DJe de 8/5/2020), por maioria, acolheu
+parcialmente os embargos de declaração, com efeitos infringentes, para
+reconhecer indevida a cessação imediata do pagamento dos quintos,
+quando fundado em decisão judicial transitada em julgado.
+6. Quanto as verbas recebidas em virtude de decisões
+administrativas – hipótese dos autos -, modulou-se o efeito da decisão
+para que o servidor continue recebendo os valores até sua absorção
+integral por quaisquer reajustes futuros concedidos aos servidores.
+7. O entendimento firmado pelo STF no Tema 395 em nenhum
+momento extingue débitos já reconhecidos administrativamente, não
+adimplidos no tempo apropriado.
+8. Agravo Interno a que se nega provimento.
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, os Ministros do Supremo
+Tribunal Federal, em Sessão Virtual da Primeira Turma, sob a Presidência
+do Senhor Ministro ROBERTO BARROSO, em conformidade com a ata
+de julgamento e as notas taquigráficas, por unanimidade, acordam em
+negar provimento ao agravo regimental, nos termos do voto do Relator.
+Brasília, 13 de fevereiro de 2023.
+Ministro ALEXANDRE DE MORAES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 743B-ED0B-1C7C-1437 e senha 46D9-0E77-B84E-34FB
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 20
+
+13/02/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.409.534 PARANÁ
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ALEXANDRE DE MORAES
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: MARCIA APARECIDA TAVARES GAIARINI
+: ALEX DE SIQUEIRA BUTZKE
+RE LAT Ó RI O
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Interno contra decisão que negou seguimento ao
+Recurso Extraordinário, sob os argumentos de que (a) incide o Tema 660
+da Repercussão Geral; (b) aplica-se ao caso o óbice da Súmula 636/STF; (c)
+quanto à alegada prescrição, a análise da pretensão recursal está situada
+no contexto infraconstitucional, de forma que as alegadas ofensas à
+Constituição seriam meramente indiretas (ou mediatas); e (c) o acórdão
+recorrido encontra-se em conformidade com a jurisprudência desta
+SUPREMA CORTE firmada no julgamento dos Temas 395.
+No Agravo, a UNIÃO sustenta, em síntese, que “o presente caso trata
+de cobrança retroativa de valores a título de quintos/décimos na forma de VPNI
+reconhecidos administrativamente e não pagos (eDOC 178, e-STF). Tais valores
+não estão abrangidos pela modulação dos efeitos da tese fixada no paradigma RE
+638.115- RG, Tema nº 395 de repercussão geral, conforme adiante se passa a
+demonstrar ” (fl. 4, Doc. 106)
+Defende a impossibilidade de pagamento dos valores atrasados, cuja
+inconstitucionalidade já foi declarada por essa SUPREMA CORTE, pois:
+“[...] para evitar uma interpretação ampliativa e
+equivocada do entendimento firmado do RE nº 638.115-ED-ED,
+em 26.06.2020, no julgamento dos últimos embargos de
+declaração opostos no processo paradigma (RE nº 638.115-EDED-ED), essa Suprema Corte, nos termos do voto do Min.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 14C7-B625-50E3-8745 e senha F5A0-4ABD-9F75-F54D
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 20
+
+RE 1409534 AGR / PR
+Relator, GILMAR MENDES, assentou que a modulação dos
+efeitos da decisão, firmada para os casos de decisão
+administrativa (ou de decisão judicial sem trânsito em julgado),
+deve ser interpretada restritivamente (DJe de 19.08.2020).
+Além disso, consignou-se que referida modulação (i) não
+implica o restabelecimento do pagamento de quintos nos casos
+em que a parcela não estivesse sendo paga em 18.12.2019, ou
+seja, não beneficia os servidores que não estavam percebendo a
+vantagem na data do julgamento do RE nº 638.115- ED-ED; bem
+como (ii) não determina o pagamento de valor a título
+retroativo que, por qualquer razão, não houvesse sido pago até
+então.” (fl. 10, Doc. 250).
+
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 14C7-B625-50E3-8745 e senha F5A0-4ABD-9F75-F54D
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 5 de 20
+
+13/02/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.409.534 PARANÁ
+VOT O
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis a decisão ora agravada:
+“Decisão
+Trata-se de Recurso Extraordinário interposto em face de
+acórdão proferido pelo Tribunal Regional Federal da 4ª Região,
+assim ementado (Doc. 95, fl. 5):
+“ADMINISTRATIVO. SERVIDOR PÚBLICO. PODER
+JUDICIÁRIO. INCORPORAÇÃO DE QUINTOS.
+1. É devida a incorporação de parcelas de quintos,
+com fundamento no artigo 3º da MP nº 2.225-45/2001.
+2. A partir da edição da MP nº 2.225-45/2001 todas as
+parcelas incorporadas ficam transformadas em Vantagem
+Pessoal Nominalmente Identificada-VPNI. ”.
+Opostos Embargos de Declaração pela UNIÃO (Doc. 102),
+foram desprovidos (Doc. 113, fl. 4).
+No Recurso Extraordinário (Doc. 120), interposto com
+fundamento no art. 102, III, “a”, da CF/1988, a UNIÃO sustenta
+violação aos arts. 5º, XXXV, LIV, e LV; 37, caput, X; 40, § 8º; 61,
+§1º, II, “a”; 63, I; e 169, §1º, da CF/1988, alegando, em síntese,
+que o acórdão recorrido (i) deixou de analisar a matéria nos
+embargos de declaração que foram opostos; (ii) não reconheceu
+que a pretensão autoral está prescrita (Doc. 120, fl. 21); (iii)
+fixou a remuneração de servidor público sem embasamento em
+lei específica (Doc. 120, fl. 22); (iv) desconsiderou que não há
+direito adquirido à incorporação dos quintos (Doc. 122, fl. 29); e
+(v) deferiu vantagem remuneratória para a qual não existe
+previsão orçamentária (Doc. 122, fl. 50).
+Sustenta, ainda, que o percentual dos honorários
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 20
+
+RE 1409534 AGR / PR
+advocatícios contra a Fazenda Pública deve seguir as regras do
+CPC.
+Inicialmente, determinou-se o sobrestamento do RE para
+aguardar o julgamento do Tema 395 da repercussão geral Incorporação de quintos decorrentes do exercício de funções
+comissionadas e/ou gratificadas (Doc. 137).
+Julgado o mérito o referido precedente paradigma, os
+autos foram encaminhados ao Órgão Julgador para eventual
+juízo de retratação (Doc. 165).
+Em juízo de retratação positivo, a apelação da UNIÃO e a
+remessa necessária foram providas. Eis a ementa do acórdão
+(Doc. 159, fl. 1):
+“ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO.
+QUINTOS. RECONHECIMENTO ADMINISTRATIVO.
+PAGAMENTO DE DIFERENÇAS. INCORPORAÇÃO.
+PERÍODO DE 8/4/1998 ATÉ 4/9/2001. IMPOSSIBILIDADE.
+TEMA STF 395.
+1. Em face do entendimento firmado pelo Supremo
+Tribunal Federal na análise do Tema STF 395 - Ofende o
+princípio da legalidade a decisão que concede a
+incorporação de quintos pelo exercício de função
+comissionada no período de 8/4/1998 até 4/9/2001, ante a
+carência de fundamento legal, a Vice-Presidência desta
+Corte determinou a remessa dos autos a este Gabinete,
+para eventual juízo de retratação, nos termos dos arts.
+1.030, II, e 1.040, II, do CPC/2015.
+2. Do cotejo do pronunciamento do Supremo
+Tribunal Federal com o acórdão prolatado por este
+Tribunal, infere-se a existência de divergência quanto à
+possibilidade de incorporação de quintos no período de
+8/4/1998 até 4/9/2001.
+3. Embora o(a) servidor(a) tenha postulado o
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 20
+
+RE 1409534 AGR / PR
+pagamento de parcelas atrasadas decorrentes de direito já
+reconhecido na via administrativa, houve contestação
+quanto ao direito a incorporação de quintos em si, o que
+ensejou o pronunciamento desta Corte sobre o tema.
+Ademais, a existência do direito é pressuposto lógico para
+qualquer provimento judicial que determine o pagamento
+de valores.”
+Opostos Embargos de Declaração por MARCIA
+APARECIDA TAVARES GAIARINI (Doc. 192) e pela UNIÃO
+(Doc. 194), os primeiros foram providos com efeitos
+infringentes, e julgados prejudicados os declaratórios do ente
+federativos. Assim, em novo juízo de retratação, ratificou-se o
+primeiro acórdão proferido pela Turma, em aresto assim
+ementado (Doc. 162, fl. 1):
+“PROCESSUAL
+CIVIL.
+ADMINISTRATIVO.
+EMBARGOS
+DE
+DECLARAÇÃO.
+OMISSÃO.
+CONTRADIÇÃO.
+OBSCURIDADE.
+EFEITOS
+INFRIGENTES. SERVIDOR PÚBLICO. TEMA 395 DO STF.
+INCORPORAÇÃO DE QUINTOS. PERÍODO ENTRE A
+EDIÇÃO DA LEI 9.624/1998 E A MP 2.225-48/2001.
+VALORES RECONHECIDOS ADMINISTRATIVAMENTE.
+DISTINÇÃO.
+1. Os embargos de declaração constituem recurso
+interposto perante o magistrado ou colegiado prolator da
+decisão impugnada, com vistas à supressão de omissão,
+contradição, obscuridade ou erro material no texto que
+possa dificultar a exata compreensão da manifestação
+judicial.
+2. Ao apreciar o Tema 395, no julgamento do RE
+638115/CE, submetido à sistemática da repercussão geral,
+o STF firmou a seguinte tese: 'Ofende o princípio da
+legalidade a decisão que concede a incorporação de
+quintos pelo exercício de função comissionada no período
+de 8/4/1998 até 4/9/2001, ante a carência de fundamento
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 20
+
+RE 1409534 AGR / PR
+legal'.
+3. A modulação dos efeitos da declaração de
+inconstitucionalidade
+da
+incorporação
+de
+quintos/décimos, decorrente do exercício de funções
+comissionadas, no período compreendido entre as edições
+da Lei n.º 9.624/1998 e da Medida Provisória n.º 2.22548/2001, alcança o(a) servidor(a) quanto à manutenção da
+parcela já incorporada até sua absorção integral por
+reajustes concedidos a contar da data do julgamento dos
+segundos embargos de declaração no recurso
+extraordinário n.º 638.115 (18/12/2019). Assim, o direito ao
+pagamento de saldo relativo a valores reconhecidos
+administrativamente -, e não a implantação da parcela
+mensal de quintos/décimos na forma de VPNI -,
+enquadra-se à(s) situação(ões) abrangida(s) pela
+modulação de efeitos da decisão paradigmática (Tema
+395).”
+Em face desse acórdão, a UNIÃO peticionou a fim de
+complementar as razões aduzidas em seu Recurso
+Extraordinário. Em suma, sustentou que “na hipótese dos
+autos, não se está discutindo a incorporação de quintos
+relativos ao período de 08.04.1998 a 04.09.2001, mas, sim, o
+pagamento de valores retroativos alegadamente devidos a tal
+título” (Doc. 222, fl. 5), situação que “não se enquadra em
+nenhuma daquelas que foi objeto de modulação dos efeitos
+quando do julgamento do RE nº 638.115/CE” (Doc. 222, fl. 12).
+Assim, requer seja reformado o acórdão recorrido, para
+julgar improcedentes os pedidos do autor.
+Na sequência, o apelo extremo foi admitido, e os autos
+foram remetidos ao SUPREMO TRIBUNAL FEDERAL (Doc.
+166).
+É o relatório. Decido.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 20
+
+RE 1409534 AGR / PR
+Quanto à alegação de afronta ao art. 5º, XXXV, LIV, e LV,
+da Constituição, o apelo extraordinário não tem chances de
+êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT
+(Rel. Min. GILMAR MENDES, Tema 660), rejeitou a
+repercussão geral da alegada violação ao direito adquirido, ao
+ato jurídico perfeito, à coisa julgada ou aos princípios da
+legalidade, do contraditório, da ampla defesa e do devido
+processo legal, quando se mostrar imprescindível o exame de
+normas de natureza infraconstitucional.
+Em relação à ofensa ao artigos 37, caput, da Constituição
+Federal, aplica-se neste caso a restrição da Súmula 636/STF: Não
+cabe recurso extraordinário por contrariedade ao princípio
+constitucional da legalidade, quando a sua verificação pressuponha
+rever a interpretação dada a normas infraconstitucionais pela decisão
+recorrida.
+No mais, em novo juízo de retratação, o Tribunal de
+origem ratificou o primeiro acórdão proferido, com base nos
+seguintes fundamentos (Doc. 162, fls. 5-11):
+“Em relação ao direito de incorporação de 'quintos',
+o entendimento pacífico no âmbito do STJ é no sentido de
+que a Medida Provisória nº 2.225-45/2001 possibilitou a
+percepção do direito:
+(…)
+PRESCRIÇÃO
+O direito de incorporação dos quintos no período
+surgiu com a edição da MP 2.225/2001.
+O reconhecimento administrativo do pedido, por
+meio da decisão proferida pelo Conselho da Justiça
+Federal, no expediente administrativo n.º 2004.16.4940, em
+17.12.2004, interrompeu o prazo prescricional quinquenal,
+o qual ainda não recomeçou sua contagem, tendo em vista
+o que dispõe o art. 4º do D 20.910/32, relativamente à
+demora no pagamento da total dívida, verbis: (…)
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 20
+
+RE 1409534 AGR / PR
+Dessa forma, tenho que não ocorreu a prescrição.
+(…)
+PAGAMENTO
+Tendo transcorrido tempo hábil à inclusão no
+orçamento, não é cabível que o servidor aguarde
+indefinidamente o pagamento da verba a que tem direito.
+(…)
+Após análise detida dos autos e da questão posta em
+debate, concluo pelo existência de omissão no aresto
+embargado quanto à hipótese contemplada pelo STF, em
+sede de julgamento de embargos de declaração do RE
+635.115/CE, que modulou os efeitos do Tema 395.
+Passo ao exame. O eg. Supremo Tribunal Federal, ao
+apreciar o Recurso Extraordinário 638.115/CE, fixou a
+seguinte tese jurídica (Tema n.º 395):
+(…)
+Ao julgar os embargos declaratórios, a Excelsa Corte
+esclareceu que, "em qualquer hipótese, deve ser cessado o
+pagamento dos quintos pelo exercício de função
+comissionada no período entre 8.4.1998 até 4.9.2001, seja
+decorrente de decisão administrativa ou judicial transitada
+em julgado":
+(…)
+Na sequência, o e. Supremo Tribunal Federal, em
+sede de embargos de declaração, modulou os efeitos da
+decisão proferida no julgamento do recurso extraordinário
+n.º 638.115:
+(…)
+Opostos novos embargos de declaração pela União,
+estes foram rejeitados na sessão de julgamento virtual,
+realizada no período de 19/06/2020 a 26/06/2020, com
+trânsito em julgado do decisum em 17/09/2020.
+Diante desse contexto, forçoso reconhecer que o
+pedido deduzido está adstrito à condenação da União ao
+pagamento de valores atrasados, devidos em virtude de
+decisão administrativa. Logo, a modulação dos efeitos da
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 20
+
+RE 1409534 AGR / PR
+declaração de inconstitucionalidade da incorporação de
+quintos/décimos, decorrente do exercício de funções
+comissionadas, no período compreendido entre as edições
+da Lei n.º 9.624/1998 e da Medida Provisória n.º 2.22548/2001, alcança o(a) autor(a) quanto à manutenção da
+parcela já incorporada até sua absorção integral por
+reajustes concedidos a contar da data do julgamento dos
+segundos embargos de declaração no recurso
+extraordinário n.º 638.115 (18/12/2019).
+Em outras palavras, trata-se de ação de cobrança
+objetivando o pagamento do restante dos valores
+reconhecidos administrativamente, e não a implantação da
+parcela mensal de quintos/décimos na forma de VPNI.
+Dessa forma, o(a) autor(a) se encontra em uma das
+situações abrangidas pela modulação de efeitos da decisão
+paradigmática (Tema 395), devendo sua condição ser
+resguardada, nos exatos termos em que determinado pelo
+eg. Supremo Tribunal Federal, em atenção ao princípio da
+segurança jurídica.
+Nesse sentido, trago à colação precedente do eg.
+Supremo Tribunal Federal que, em caso similiar ao aqui
+analisado, em que esta Turma, em juízo de retratação,
+confirmou seu julgado anterior (APELREEX nº 500012965.2010.4.04.7001), manteve a decisão deste Regional:
+(…)
+Destarte, suprindo a omissão apontada, dou
+provimento aos embargos de declaração opostos pelo(a)
+autor(a) para, conferindo-lhes efeitos infringentes, em
+juízo de retratação, ratificar o acórdão proferido pela
+Turma. Resta, assim, prejudicado o exame dos embargos
+de declaração opostos pela União. “
+Relativamente à alegada prescrição do direito da parte
+recorrida, verifica-se que a análise da pretensão recursal está
+situada no contexto infraconstitucional, de forma que as
+alegadas ofensas à Constituição seriam meramente indiretas (ou
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 20
+
+RE 1409534 AGR / PR
+mediatas), o que inviabiliza o conhecimento do referido apelo.
+Nesse sentido:
+AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA AJUIZADA
+CONTRA A UNIÃO. PRESCRIÇÃO QUINQUENAL.
+INCIDÊNCIA DO DECRETO 20.910/1932. OFENSA
+REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL.
+FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE.
+PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. O recurso extraordinário é instrumento de
+impugnação de decisão judicial inadequado para a
+valoração e exame minucioso do acervo fático-probatório
+engendrado nos autos, bem como para a análise de
+matéria infraconstitucional. Precedentes: ARE 844.039AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de
+24/08/2015; ARE 1.271.280-AgR, Tribunal Pleno, DJe de
+25/09/2020; e ARE 1.238.534-AgR, Tribunal Pleno, Rel.
+Min. Dias Toffoli, DJe de 15/09/2020.
+2. Agravo interno DESPROVIDO, com imposição de
+multa de 5% (cinco por cento) do valor atualizado da
+causa (artigo 1.021, § 4º, do CPC), caso seja unânime a
+votação.
+3. Honorários advocatícios majorados ao máximo
+legal em desfavor da parte recorrente, caso as instâncias
+de origem os tenham fixado, nos termos do artigo 85, § 11,
+do Código de Processo Civil, observados os limites dos §§
+2º e 3º e a eventual concessão de justiça gratuita. (ARE
+1.313.077-AgR, Rel. Min. LUIZ FUX, Presidente, Tribunal
+Pleno, DJe de 25/5/2021)
+Sobre a matéria relativa ao pagamento dos valores
+atrasados, o Plenário desta CORTE, no julgamento do RE
+638.115-ED-ED/CE (Rel. Min. GILMAR MENDES, DJe de
+8/5/2020), por maioria, acolheu parcialmente os embargos de
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 20
+
+RE 1409534 AGR / PR
+declaração, com efeitos infringentes, para reconhecer indevida a
+cessação imediata do pagamento dos quintos, quando fundado
+em decisão judicial transitada em julgado.
+Quanto às verbas recebidas em virtude de decisões
+administrativas - hipótese dos autos -, modulou-se o efeito da
+decisão para que o servidor continue recebendo os valores até
+sua absorção integral por quaisquer reajustes futuros
+concedidos aos servidores.
+Eis a ementa do julgado:
+“Embargos de declaração nos embargos de
+declaração no recurso extraordinário. 2. Repercussão
+Geral. 3. Direito Administrativo. Servidor público. 4. É
+inconstitucional a incorporação de quintos decorrente do
+exercício de funções comissionadas no período
+compreendido entre a edição da Lei 9.624/1998 e a MP
+2.225-48/2001. 5. Cessação imediata do pagamento dos
+quintos incorporados por força de decisão judicial
+transitada em julgado. Impossibilidade. Existência de
+mecanismos em nosso ordenamento aptos a rescindir o
+título executivo, ou ao menos torná-lo inexigível, quando a
+sentença exequenda fundamentar-se em interpretação
+considerada inconstitucional pelo STF. Embargos
+acolhidos neste ponto. 6. Verbas recebidas em decorrência
+de decisões administrativas. Manutenção da decisão.
+Inaplicabilidade do art. 54 da Lei 9.784/99. Dispositivo
+direcionado à Administração Pública, que não impede a
+apreciação judicial. Necessidade de observância do
+princípio da segurança jurídica. Recebimento de boa-fé.
+Decurso do tempo. 7. Modulação dos efeitos da decisão.
+Manutenção do pagamento da referida parcela
+incorporada em decorrência de decisões administrativas,
+até que sejam absorvidas por quaisquer reajustes futuros a
+contar da data do presente julgamento. 8. Parcelas
+recebidas em virtude de decisão judicial sem trânsito em
+julgado. Sobrestados em virtude da repercussão geral.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 20
+
+RE 1409534 AGR / PR
+Modulação dos efeitos para manter o pagamento àqueles
+servidores que continuam recebendo os quintos até
+absorção por reajustes futuros. 9. Julgamento Virtual.
+Ausência de violação ao Princípio da Colegialidade. 10.
+Embargos de declaração parcialmente acolhidos, com
+efeitos infringentes, para reconhecer indevida a cessação
+imediata do pagamento dos quintos quando fundado em
+decisão judicial transitada em julgado. Quanto às verbas
+recebidas em virtude de decisões administrativas, apesar
+de reconhecer-se sua inconstitucionalidade, modulam-se
+os efeitos da decisão, determinando que o pagamento da
+parcela seja mantida até sua absorção integral por
+quaisquer reajustes futuros concedidos aos servidores. Por
+fim, quanto às parcelas que continuam sendo pagas em
+virtude de decisões judiciais sem trânsito em julgado,
+também modulam-se os efeitos da decisão, determinando
+que o pagamento da parcela seja mantida até sua absorção
+integral por quaisquer reajustes futuros concedidos aos
+servidores.”
+No mesmo sentido:
+Ementa:
+AGRAVO
+INTERNO.
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. OFENSA AOS
+PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA
+AMPLA DEFESA, DO CONTRADITÓRIO, DO DIREITO
+ADQUIRIDO, COISA JULGADA E ATO JURÍDICO
+PERFEITO. OFENSA CONSTITUCIONAL REFLEXA.
+TEMA 660. VERBAS RECEBIDAS EM VIRTUDE DE
+DECISÕES ADMINISTRATIVAS. MANUTENÇÃO DO
+PAGAMENTO ATÉ INTEGRAL ABSORÇÃO POR
+QUAIQUER
+OUTROS
+REAJUSTES
+FUTUROS
+CONCEDIDOS
+AOS
+SERVIDORES.
+ACÓRDÃO
+RECORRIDO
+EM
+CONSONÂNCIA
+COM
+A
+JURISPRUDÊNCIA
+DO
+STF.
+TEMA
+395
+DA
+REPERCUSSÃO GERAL.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 20
+
+RE 1409534 AGR / PR
+1. O STF, no julgamento do ARE 748.371-RG/MT
+(Rel. Min. GILMAR MENDES, Tema 660), rejeitou a
+repercussão geral da violação ao direito adquirido, ao ato
+jurídico perfeito, à coisa julgada ou aos princípios da
+legalidade, do contraditório, da ampla defesa e do devido
+processo legal, quando se mostrar imprescindível o exame
+de normas de natureza infraconstitucional.
+2. Ação que versa sobre o direito de a parte autora
+perceber
+o
+restante
+dos
+valores
+reconhecidos
+administrativamente e não adimplidos, referentes à
+incorporação de quintos/décimos.
+3. O Plenário desta CORTE, no julgamento do RE
+638.115-ED-ED/CE (Rel. Min. GILMAR MENDES, DJe de
+8/5/2020), por maioria, acolheu parcialmente os embargos
+de declaração, com efeitos infringentes, para reconhecer
+indevida a cessação imediata do pagamento dos quintos,
+quando fundado em decisão judicial transitada em
+julgado.
+4. Quanto às verbas recebidas em virtude de decisões
+administrativas hipótese dos autos -, modulou-se o efeito
+da decisão para que o servidor continue recebendo os
+valores até sua absorção integral por quaisquer reajustes
+futuros concedidos aos servidores.
+5. O entendimento firmado pelo STF no Tema 395 em
+nenhum momento extingue débitos já reconhecidos
+administrativamente, não adimplidos no tempo
+apropriado.
+6. Agravo Interno a que se nega provimento. (ARE
+1.331.515-AgR, de minha relatoria, Primeira Turma, DJe de
+7/3/2022)
+EMENTA: AGRAVO REGIMENTAL EM RECURSO
+EXTRAORDINÁRIO.
+DIREITO
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO
+FEDERAL.
+VANTAGEM
+NOMINALMENTE
+IDENTIFICADA
+VPNI.
+INCORPORAÇÃO DE QUINTOS. LEI 9.614/1998 E MP
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 16 de 20
+
+RE 1409534 AGR / PR
+2.226-45/01.
+RE
+638.115-RG.
+TEMA
+395
+DA
+REPERCUSSÃO GERAL. PARCIAL PROVIMENTO DOS
+SEGUNDOS
+EMBARGOS
+DE
+DECLARAÇÃO.
+MODULAÇÃO DOS EFEITOS. PARCELAS PRETÉRITAS.
+POSSIBILIDADE. MANUTENÇÃO DAS VERBAS
+RECEBIDAS
+EM
+VIRTUDE
+DE
+DECISÕES
+ADMINISTRATIVAS. ABSORÇÃO INTEGRAL POR
+REAJUSTES FUTUROS. SÚMULA 279 DO STF.
+REESTRUTURAÇÃO NA CARREIRA. NATUREZA
+INFRACONSTITUCIONAL.
+1. Esta Corte, ao apreciar o RE 638.115-RG, Rel. Min.
+Gilmar Mendes, Tema 395 da repercussão geral, decidiu
+pela impossibilidade da incorporação de quintos
+decorrentes do exercício de funções comissionadas no
+período entre a edição da Lei 9.624/1998 e a MP 2.22548/2001, por contrariedade ao princípio da legalidade.
+2. Posteriormente, no julgamento dos segundos
+embargos de declaração no mencionado RE 638.115-RG, o
+Plenário, ao modular os efeitos da decisão, acolheu
+parcialmente o recurso, por maioria de votos e com efeitos
+infringentes, para reconhecer indevida a cessação imediata
+do pagamento dos quintos, quando fundado em decisão
+judicial transitada em julgado.
+3. No que tange às verbas pretéritas, em decorrência
+de decisões administrativas, estas foram mantidas até sua
+absorção integral por quaisquer reajustes futuros
+concedidos aos servidores.
+4. Não houve, na hipótese, enfrentamento na
+instância de origem quanto a valores envolvendo
+prestações de trato continuado, a fim de se aplicar o
+entendimento do paradigma nos efeitos futuros, no
+sentido de que tais valores serão absorvidos por aumentos
+posteriores, pois estes, conforme se extrai da sentença,
+somente serão apurados em fase de liquidação, ocasião em
+que serão observados os procedimentos definidos na
+fundamentação da decisão.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 17 de 20
+
+RE 1409534 AGR / PR
+5. Assim, conclusão diversa daquela a que chegou o
+Tribunal de origem, em relação a tal questão, implicaria o
+reexame de fatos e provas, providência vedada nos termos
+da Súmula 279 do STF e a análise de legislação
+infraconstitucional,
+no
+que
+tange
+a
+eventual
+reestruturação na carreira.
+6. Agravo regimental a que se nega provimento.
+Inaplicável, ao caso o art. 85, § 11, do CPC, por se tratar, na
+hipótese, de sentença ilíquida. (RE 1.289.055-AgRsegundo, Rel. Min. EDSON FACHIN, Segunda Turma, DJe
+de 28/9/2021)
+EMENTA DIREITO ADMINISTRATIVO. RECURSO
+EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO
+CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 5º,
+XXXV, XXXVI, LIV E LV, E 37, X, DA CONSTITUIÇÃO DA
+REPÚBLICA. SERVIDOR PÚBLICO. INCORPORAÇÃO
+DE QUINTOS APÓS A LEI Nº 9.624/1998. DIREITO
+RECONHECIDO
+PELA
+ADMINISTRAÇÃO.
+MANUTENÇÃO DO PAGAMENTO ATÉ FUTURA
+ABSORÇÃO. REPERCUSSÃO GERAL NO RE 638.115-RG.
+CONSONÂNCIA DA DECISÃO RECORRIDA COM A
+JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO
+TRIBUNAL FEDERAL. RAZÕES DO APELO EXTREMO
+DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO
+RECORRIDO. APLICAÇÃO DAS SÚMULAS NºS 283 E
+284/STF. REELABORAÇÃO DA MOLDURA FÁTICA.
+PROCEDIMENTO
+VEDADO
+NA
+INSTÂNCIA
+EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A
+VIGÊNCIA DO CPC/2015.
+1. As razões do agravo interno não se mostram aptas
+a infirmar os fundamentos que lastrearam a decisão
+agravada, principalmente no que se refere aos óbices das
+Súmulas nºs 283 e 284 do STF, a inviabilizar o trânsito do
+recurso extraordinário.
+2. O entendimento da Corte de origem não diverge
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 18 de 20
+
+RE 1409534 AGR / PR
+da jurisprudência firmada no Supremo Tribunal Federal.
+Ao julgamento dos embargos de declaração no RE
+638.115-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe
+11.5.2020, esta Suprema Corte rejeitou os embargos e,
+reconhecendo a ilegitimidade do pagamento dos quintos,
+modulou os efeitos da decisão de modo que aqueles que
+continuam recebendo até a presente data em razão de
+decisão administrativa tenham o pagamento mantido até
+sua absorção integral por quaisquer reajustes futuros
+concedidos aos servidores. Compreensão diversa
+demandaria a reelaboração da moldura fática delineada
+no acórdão de origem, a tornar oblíqua e reflexa eventual
+ofensa à Constituição, insuscetível, como tal, de viabilizar
+o conhecimento do recurso extraordinário.
+3. Majoração em 10% (dez por cento) dos honorários
+anteriormente fixados, obedecidos os limites previstos no
+art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual
+concessão do benefício da gratuidade da Justiça.
+4. Agravo interno conhecido e não provido. (ARE
+776.192-AgR, Rel. Min. ROSA WEBER, Primeira Turma,
+DJe de 14/7/2020)
+O Tribunal de origem observou esse entendimento.
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO
+AO RECURSO EXTRAORDINÁRIO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil
+de 2015, tendo em vista que não houve fixação de honorários
+advocatícios nas instâncias de origem.
+Publique-se.”
+
+Não há reparo a fazer no entendimento aplicado, pois o Agravo
+Interno não apresentou qualquer argumento apto a desconstituir os
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 19 de 20
+
+RE 1409534 AGR / PR
+demais óbices apontados.
+
+Diante do exposto, nego provimento ao Agravo Interno.
+É o voto.
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BD9A-C4F9-B401-E566 e senha 4B48-FBCA-C763-DB26
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/02/2023
+
+Inteiro Teor do Acórdão - Página 20 de 20
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.409.534
+PROCED. : PARANÁ
+RELATOR : MIN. ALEXANDRE DE MORAES
+AGTE.(S) : UNIÃO
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+AGDO.(A/S) : MARCIA APARECIDA TAVARES GAIARINI
+ADV.(A/S) : ALEX DE SIQUEIRA BUTZKE (41603/PR)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Primeira Turma, Sessão
+Virtual de 3.2.2023 a 10.2.2023.
+Composição: Ministros Luís Roberto Barroso (Presidente),
+Cármen Lúcia, Dias Toffoli, Luiz Fux e Alexandre de Moraes.
+
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B00D-4A66-84F1-B4EA e senha D63C-76D1-F55B-5D17
