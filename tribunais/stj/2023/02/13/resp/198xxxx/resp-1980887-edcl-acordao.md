@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de embargos de declaração opostos por ROSIMAR FERREIRA, contra acórdão que negou provimento ao agravo interno no recurso especial que interpusera, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de indenização securitária, ajuizada em razão de vícios construtivos em imóvel.
+2. Tratando-se de contrato de mútuo para aquisição de imóvel garantido pelo FCVS, avençado até 25/10/96 e transferido sem a interveniência da instituição financeira, o cessionário possui legitimidade para discutir e demandar em juízo questões pertinentes às obrigações assumidas e aos direitos adquiridos; Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato; No caso de cessão de direitos sobre imóvel financiado no âmbito do Sistema Financeiro da Habitação realizada após 25/10/1996, a anuência da instituição financeira mutuante é indispensável para que o cessionário adquira legitimidade ativa para requerer revisão das condições ajustadas, tanto para os contratos garantidos pelo FCVS como para aqueles sem referida cobertura. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo interno no recurso especial não provido.
+Em suas razões, a embargante afirma que haveria contradição e omissão no acórdão embargado ao aplicar as teses fixadas no REsp Repetitivo nº 1.150.429/CE (Temas 520, 521, 522, 523 do STJ).
+Aduz que o acórdão teria sido omisso ao não observar que nas relações jurídicas securitárias do SFH o seguro habitacional persegue o imóvel, além de contradição ao aplicar as mencionadas teses, as quais seriam aplicadas aos contratos não quitados e às ações revisionais, mas não para a hipótese de ação indenizatória relativa à vício construtivo.
+Assevera que em 06/04/2016 já teria adquirido o imóvel quitado e que não seria necessária a intervenção da instituição financeira na transferência, de modo que teria legitimidade para pleitear a cobertura securitária pelos alegados vícios construtivos.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo interno no recurso especial rejeitados.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+A rigor, na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+De fato, o acórdão embargado, após destacar as teses fixadas no REsp Repetitivo 1.150.429/CE (Corte Especial, DJe de 10/05/2013), foi claro ao aplicar a Súmula 568/STJ, haja vista o entendimento desta Corte Superior no sentido de que, para pleitear a utilização de seguro de contrato de financiamento, seria necessária a verificação da legitimidade ativa dos cessionários à luz do mencionado REsp Repetitivo, indicando precedentes das duas Turmas de direito privado, nos seguintes termos (e-STJ, fls. 2473/2475):
+A decisão agravada conheceu do recurso especial interposto pelo agravado e deu-lhe parcial provimento, devido à incidência da Súmula 568/STJ.
+Veja-se o que constou na decisão quanto ao ponto (e-STJ fls. 2204/2208):
+(..)
+1. Da Súmula 568/STJ
+No julgamento do REsp 1.150.429/CE (Corte Especial, DJe de 10/05/2013), sob a sistemática dos recursos repetitivos, foi fixado o seguinte entendimento (Temas 520, 521, 522, 523 do STJ):
+1.1 Tratando-se de contrato de mútuo para aquisição de imóvel garantido pelo FCVS, avençado até 25/10/96 e transferido sem a interveniência da instituição financeira, o cessionário possui legitimidade para discutir e demandar em juízo questões pertinentes às obrigações assumidas e aos direitos adquiridos.
+1.2 Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato.
+1.3 No caso de cessão de direitos sobre imóvel financiado no âmbito do Sistema Financeiro da Habitação realizada após 25/10/1996, a anuência da instituição financeira mutuante é indispensável para que o cessionário adquira legitimidade ativa para requerer revisão das condições ajustadas, tanto para os contratos garantidos pelo FCVS como para aqueles sem referida cobertura.
+Com efeito, não há qualquer equívoco na aplicação da Súmula 568/STJ, tendo em vista que, de fato, o acórdão proferido pelo TRF5, ao entender pela inaplicabilidade da orientação constante do REsp 1.150.429/CE, relativa aos cessionários de direitos (contratantes de gaveta), aos pedidos relativos a vícios de construção, e concluir que a legitimidade da ora agravante decorreria da comprovação da aquisição do imóvel dos antigos proprietários (e-STJ, fl. 1620/1621), divergiu do entendimento adotado por esta Corte Superior acerca da necessidade de verificação da legitimidade ativa dos cessionários para pleitear utilização de seguro de contrato de financiamento à luz do mencionado REsp 1.150.429/CE.
+Nesse sentido: AgInt no REsp 1.794.641/SP, 4ª Turma, DJe de 4/6/2021; AgInt no REsp 1.844.644/SE, 3ª Turma, DJe de 10/3/2021; AgInt no REsp 1.707.717/RN, 3ª Turma, DJe de 25/6/2019; e AgInt no REsp 1.377.310/PB, 4ª Turma, DJe de 22/2/2017.
+Inviável, portanto, a inaplicabilidade da Súmula 568/STJ.
+As questões suscitadas pela embargante, apesar de por ela classificadas como omissão e contradição, não constituem ponto omisso ou contraditório do julgado, mas mero inconformismo com os fundamentos adotados pelo acórdão embargado.
+Verifica-se que, ao contrário do alegado, o acórdão embargado analisou as questões objeto do recurso, explicando, de maneira adequada e suficiente, os motivos pelos quais negou provimento ao agravo interno.
+Destacou que o Tribunal de origem entendeu pela inaplicabilidade da orientação constante do REsp 1.150.429/CE quanto aos cessionários de direitos (contratantes de gaveta), em relação aos pedidos decorrentes de vícios de construção, e que este entendimento divergiria do adotado por esta Corte Superior, de forma que foi negado provimento ao agravo interno, mantendo a decisão que determinou o retorno dos autos ao Tribunal de origem, pra realização de novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da mencionada jurisprudência do STJ.
+Na verdade, revela-se nítida a pretensão da embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no recurso especial.
