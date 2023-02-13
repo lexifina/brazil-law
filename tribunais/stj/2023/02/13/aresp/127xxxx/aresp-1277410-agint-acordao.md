@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo interposto pelo Estado do Rio Grande do Sul contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, aviado com o objetivo de reformar o acórdão assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. AÇÃO DE REPETIÇÃO DO INDÉBITO. URV. IMPOSTO DE RENDA. CÁLCULO DE LIQUIDAÇÃO. CRITÉRIO.
+Conforme estabelecido no acórdão exequendo, a retenção do imposto de renda sobre valores pagos pela Fazenda Pública a título de URV, não pode ocorrer sobre o montante acumulado, quando corresponder ele ao somatório de parcelas, por causar prejuízo ao credor. Regime de competência, como determinado no título em liquidação. Correção do critério para cálculo de liquidação estabelecido na decisão recorrida.
+Agravo desprovido.
+Foi atribuído à causa originária o valor de R$ 15.702,54 (quinze mil, setecentos e dois reais e cinquenta e quatro centavos).
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta como violados os arts. 502, 503 e 505 do CPC/2015, sustentando, em síntese, que foi violada a coisa julgada, porquanto, na decisão agravada, acerca da incidência do imposto de renda, foi determinado que o valor da URV fosse deslocado para o mês de competência, sem, contudo, somar tais valores aos recebidos no mesmo mês de competência, o que teria indo de encontro com o decidido na sentença.
+Adiante, alega afronta aos arts. 3º e 7º, §1º, da Lei n. 7.713/88, que alterou a Lei 12.350/2010, afirmando, em suma, ser vedado o efeito retroativo imposto pelo acórdão recorrido.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+Parecer do MPF pelo não conhecimento do recurso.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Assim, mesmo que não tenha constado expressamente todos os artigos questionados, o e. TJ-RS manifestou-se sobre o tema, o que atende ao requisito do prequestionamento, não havendo que se falar em incidência do óbice do Verbete 282 da Súmula do STF. Veja-se, por exemplo, que o acórdão expressamente concedeu à parte adversa a retenção o imposto de renda sobre valores pagos pela Fazenda Pública a título de URV, o que induz à violação dos artigos 111 e 176 do CTN, e por consequência, deixou de aplicar o artigo 7º, inciso 1º, da Lei 7.713/88. Restou consignado que no tocante a retenção do imposto de renda sobre valores pagos pela Fazenda Pública a título de URV não se deve observar o montante acumulado, mas sim o regime de competência. É firme no STJ a jurisprudência segundo a qual não se deve exigir o presquestionamento numérico, sendo suficiente o enfrentamento da tese de que tratam os dispositivos. Nesse sentido:
+ ..
+O Estado busca a aplicação do entendimento dessa c. Corte Superior, no sentido de que o cálculo do imposto de renda incidente sobre as verbas recebidas acumuladamente, na hipótese, observe as tabelas e alíquotas vigentes à época em que deveriam ter sido pagos, seguindo a sistemática do regime de competência, somando-se com os rendimentos tributáveis auferidos no respectivo mês. No caso concreto, quer-se afastar o entendimento no sentido de que as parcelas de URV que não foram adimplidas devem ser consideradas de forma isolada e em separado dos valores referentes aos rendimentos normais do servidor, sendo que o imposto de renda deve incidir somente sobre a parcela relativa à URV, sem somar aos rendimentos tributáveis auferidos no mês a mês.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. RESTITUIÇÃO DE IMPOSTO DE RENDA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de cobrança relacionada à restituição de parcelas de imposto de renda incidente sobre as parcelas de URV pagas à autora do ano de 2009 para trás, observada a prescrição. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi mantida.
+II - No que toca à alegada ofensa à coisa julgada verifica-se, de logo, que não é possível, no âmbito do acórdão recorrido, analisar os questionamentos apresentados pelo recorrente, uma vez que para tanto seria necessária uma incursão ao conjunto probatório dos autos, o que é indevido no âmbito do recurso especial. Incidência da Súmula n. 7/STJ.
+III - No tocante à alegada ofensa aos arts. 3º e 7º, §1º, da Lei n. 7713/88, observa-se que, em nenhum momento, seja no acórdão principal, seja no julgamento dos embargos de declaração, foi abordada a matéria constante dos referidos dispositivos legais, o que atrai o comando da Súmula n. 282/STF, diante da falta de prequestionamento.
+IV - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+No que toca à alegada ofensa à coisa julgada verifica-se, de logo, que não é possível, no âmbito do acórdão recorrido, analisar os questionamentos apresentados pelo recorrente, uma vez que para tanto seria necessária uma incursão ao conjunto probatório dos autos, o que é indevido no âmbito do recurso especial. Incidência da Súmula n. 7/STJ.
+No tocante à alegada ofensa aos arts. 3º e 7º, §1º, da Lei n. 7.713/88, observa-se que, em nenhum momento, seja no acórdão principal, seja no julgamento dos embargos de declaração, foi abordada a matéria constante dos referidos dispositivos legais, o que atrai o comando da Súmula n. 282/STF, diante da falta de prequestionamento.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
