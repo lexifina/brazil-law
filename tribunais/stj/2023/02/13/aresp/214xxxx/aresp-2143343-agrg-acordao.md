@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+BRUNO WILLIAN DA SILVA LEONARDO agrava da decisão desta Corte que não conheceu do agravo em recurso especial de fls. 127-133, por incidência da Súmula n. 182 do STJ.
+O apenado se insurge contra o reconhecimento de falta grave. Reitera as assertivas de mérito do recurso especial, de violação, pelo Tribunal de Justiça, dos arts. 112, 131 e 146 da LEP, "sendo que o prequestionamento expresso da matéria ocorreu no agravo em execução" (fl. 154) e "os requisitos de admissibilidade necessários ao seguimento do recurso estão presentes" (fl. 155).
+Para o postulante, o afastamento do registro disciplinar é de rigor e não esbarra no óbice da Súmula n. 7 do STJ, pois não agiu com dolo e "alega em seu depoimento que nunca fora informado  ..  que determinada conduta configuraria falta" (fl. 158). Ademais, a medida humanista foi adotada para outros sindicados e deve ser sopesada a prática do fato durante a pandemia.
+Pede a reforma do julgado.
+EMENTA
+AGRAVO RE GIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A parte deixou de impugnar especificamente a causa do não conhecimento do agravo em recurso especial  (Súmula n. 182 do STJ). É insuficiente, para demonstrar o erro da decisão questionada, a mera reiteração de argumentos referentes ao mérito do recurso especial inadmitido. Violação do princípio da dialeticidade recursal e incidência, mais uma vez, da Súmula n. 182 do STJ.
+2. Agravo regimental não conhecido.
+VOTO
+O reeducando, irresignado com o reconhecimento de falta grave (o preso amarrou cobertores para se isolar com visita no canto da cela, impossibilitou a visibilidade do local e ignorou ordem expressa para retirada dos tecidos do local), afirmou, em recurso especial, a violação dos arts. 112, 131 e 146 da LEP, porquanto não agiu com dolo, não foi informado das consequências da conduta e, por questão de proporcionalidade e humanidade, não pode ser responsabilizado pelo ato de indisciplina.
+O reclamo foi inadmitido pelo Tribunal de origem, ante o óbice da Súmula n. 7 do STJ (fls. 124-143). Na petição de agravo (fls. 127-133), a defesa apenas reiterou os argumentos de mérito do recurso especial.
+A Presidência desta Corte não conheceu a insurgência (fl. 148), ante a incidência da Súmula n. 182 do STJ, porquanto, "nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida"" (fl. 148).
+No regimental, não se esclarece o desacerto da Súmula n. 182 do STJ. Para tanto, seria necessário indicar em que trecho do AREsp a defesa refutou a Súmula n. 7 do STJ, mediante a indicação, no REsp inadmitido, de erro de direito relacionado a regra probatória, com a menção à prova que, uma vez revalorada, pudesse lastrear a absolvição da falta grave.
+A parte se limita a repetir os termos do recurso especial. Aplica-se ao caso a compreensão de que os "recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia. " (AgRg no HC n. 624.133/SP, Rel. Ministro João Otávio de Noronha, DJe 14/12/2021. destaquei).
+Incide a Súmula n. 182 do STJ, mais uma vez, ante a inobservância da regra da dialeticidade, outra face da vedação do arbítrio, pois, se o juiz não pode decidir sem fundamentar, a parte não pode pedir a reforma da decisão sem explicitar adequadamente seu erro.
+À vista do exposto, não conheço do agravo regimental.
