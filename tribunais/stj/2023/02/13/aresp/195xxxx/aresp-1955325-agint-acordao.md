@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ST. BARTH CONDOMÍNIOS INTELIGENTES EIRELI contra a decisão de fls. 1.074-1.077 (e-STJ), da lavra deste signatário, que conheceu do agravo para conhecer em parte do recurso especial por ela manejado.
+O apelo especial foi deduzido com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 376):
+APELAÇÃO CIVIL. CONSIGNAÇÃO EM PAGAMENTO. IMPROCEDÊNCIA. AÇÃO ORDINÁRIA DE GARANTIA HIPOTECARIA. PROCEDÊNCIA. LIBERAÇÃO DE EMBARGOS À EXECUÇÃO. PARCIALMENTE PROCEDENTE. JULGAMENTOS CONJUNTO. SENTENÇA UNA. CONTRATO DE MÚTUO. INSURGÊNCIA DA MUTUÁRIA.
+ALEGADO CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DILAÇÃO PROBATÓRIA DESPICIENDA.
+CONSIGNAÇÃO EM PAGAMENTO. TENTATIVA QUITAÇÃO EXTRAJUDICIAL APÓS O AJUIZAMENTO AÇÃO EXECUTIVA. DEPÓSITO JUDICIAL INFERIOR VALOR DEVIDO. IMPROCEDÊNCIA MANTIDA.
+EMBARGOS À EXECUÇÃO. INTERESSE DE AGIR DOS EXEQUENTES CONFIGURADO. CUMPRIMENTO PARCIAL QUE NÃO EXTINGUE A OBRIGAÇÃO. EXCESSO DE EXECUÇÃO. CÁLCULO QUE DEVE SEGUIR OS PARÂMETROS APONTADOS NO JULGADO. APLICAÇÃO DO ART. 395 DO CÓDIGO CIVIL. INCIDÊNCIA DE JUROS MORATÓRIOS EM RAZÃO DO DESCUMPRIMENTO CONTRATUAL. ALTERAÇÃO NO JULGADO QUE NÃO INFLUI NA DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS, RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos pela insurgente, estes foram rejeitados (e-STJ, fls. 445-450).
+Nas razões do recurso especial (e-STJ, fls. 475-487), a ora agravante apontou violação dos seguintes dispositivos normativos:
+a) arts. 1.022, II, e 1.025 do CPC/2015, em que alegou negativa de prestação jurisdicional;
+b) arts. 355, I, 369, 370, caput , e 373, I, do CPC/2015, ante o cerceamento do seu direito de defesa ao julgar antecipadamente a lide, sem lhe oportunizar a produção de provas necessárias ao julgamento do processo;
+c) art. 335, I, do CC/2002 e arts. 269, I, e 890 do CPC/1973, sustentando, em síntese, a procedência da ação de consignação.
+Em razão do juízo prévio negativo de admissibilidade do recurso especial, a ora insurgente interpôs agravo, ocasião em que foi julgado nos termos da seguinte ementa (e-STJ, fl. 1.074):
+AGRAVO EM RECURSO ESPECIAL. CONSIGNAÇÃO EM PAGAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS E JULGAMENTO PELA IMPROCEDÊNCIA DA AÇÃO DE CONSIGNAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DE ST. BARTH CONDOMINIOS INTELIGENTES EIRELI CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+No presente agravo interno (e-STJ, fls. 1.086-1.102), a insurgente reitera a existência de negativa de prestação jurisdicional e refuta a incidência da Súmula 7/STJ quanto à tese de cerceamento de defesa e de indeferimento da ação de consignação.
+Por fim, no que tange à insuficiência do depósito, assevera que a obrigação deveria, ao menos, ser parcialmente extinta, e não julgada totalmente improcedente. Assim, caso superada a questão relativa à justa causa para recusa no recebimento do valor consignado, prima pelo afastamento da incidência do art. 395 do Código Civil, matéria que também, segundo entende, prescinde de reanálise de fatos e provas.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 1.105-1.115 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSIGNAÇÃO EM PAGAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS E JULGAMENTO PELA IMPROCEDÊNCIA DA AÇÃO DE CONSIGNAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em ofensa ao art. 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal local, para acolher a pretensão recursal quanto à existência de cerceamento de defesa e à procedência da ação de consignação, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em razão da natureza excepcional da via eleita, consoante enunciado do verbete sumular n. 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Primeiramente, sustenta a existência de omissão no aresto impugnado sobre temas imprescindíveis para o deslinde da controvérsia, quais sejam (e-STJ, fl. 1.093):
+(i) quanto à alegação acerca da injustificada recusa dos agravados ao valor consignado, levando-se em consideração que por mais que a execução tenha sido ajuizada no ano de 2.007, a agravante tomou conhecimento somente em março de2.008, ocasião em que foi citada;
+(ii) em relação ao tópico do recurso de apelação denominado "B) Do correto valor depositado e da recusa injustificada", nada disse a respeito a e. Câmara julgadora;
+(iii) e, sobre a alegação contida no tópico "C) Da impossibilidade de se decretar a improcedência do pedido de Consignação em Pagamento", pois a insuficiência do depósito, ou seja, se na ação de consignação em pagamento o valor depositado for inferior ao devido, deve ser parcialmente extinta a obrigação, e não julgada totalmente improcedente.
+É preciso deixar claro que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido expressamente enfrentou as questões necessárias ao deslinde do feito, notadamente ao consignar o não cabimento da ação de consignação, ressaltando, inclusive, a incorreção do valor depositado por ser inferior ao devido.
+Desse modo, aplica-se à espécie o entendimento pacífico do Superior Tribunal de Justiça segundo o qual "não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada" (AgInt no REsp 1.916.616/SE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/06/2021, DJe 01/07/2021).
+Por outro lado, não há como acolher a alegada tese de cerceamento de defesa, pois cabe ao magistrado verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide ou indeferir a produção de provas consideradas desnecessárias, conforme o princípio do convencimento motivado ou da persuasão racional.
+Assim, a inexistência da prova solicitada, por si só, não configura cerceamento de defesa quando o julgador encontrar-se firmemente amparado pelos documentos acostados ao caderno processual e os aspectos decisivos da causa se mostrarem suficientes para embasar o convencimento do magistrado.
+No caso dos autos, o Tribunal de origem asseverou que "os elementos coligidos aos autos se revelam suficientes para o desate do processo, sendo, pois, despicienda a dilação probatória vindicada" (e-STJ, fl. 379). Logo, qualquer alteração nesse quadro demandaria o necessário revolvimento do conteúdo fático-probatório, o que atrairia o óbice da Súmula 7/STJ.
+Com relação ao julgamento da ação de consignação, colhe-se a seguinte fundamentação do acórdão recorrido (e-STJ, fl. 381):
+In casu, a justificativa dos réus em não aceitarem a quantia é plausível, pois o contrato de mútuo venceu em 10-3-2007 (fl. 11-13) e a comunicação da insurgente para o primeiro requerido, na tentativa de quitar o débito, deu-se em o ajuizamento da ação 10-12-2007 e 21-12-2007 (fls. 14-15), ou seja, após execução n. 023.07.124740-0, ocorrido em 13-9-2007.
+No ponto, a insurgente defendeu a procedência da ação de consignação, sob o argumento de ser equivocada a assertiva contida no acórdão recorrido de que teria comunicado o seu intuito de quitar o débito somente após o ajuizamento da ação de execução, uma vez que ainda não tinha ocorrido a sua citação nesta demanda.
+É evidente que a temática não constitui questão apenas de direito, e sim questão eminentemente fática, porque o acolhimento da pretensão veiculada no inconformismo implicaria a formação de nova convicção acerca dos fatos da causa, a partir de revolvimento do material probatório, providência inviável em tema de recurso especial, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Prejudicada, portanto, a tese da necessidade de julgamento pela extinção parcial da ação de consignação com base na insuficiência do valor depositado.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
