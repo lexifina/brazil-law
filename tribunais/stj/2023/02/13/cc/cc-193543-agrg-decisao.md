@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão que indeferiu a liminar no presente writ.
+Aponta o suscitante que foi concluída a perícia, atestando a inimputabilidade e necessidade do tratamento laboratorial, ou seja, não há necessidade de internação.
+Afirma que a insanidade mental, resta incontroversa, como atesta o laudo do perito oficial, restando, assim suprida a necessidade de maior conhecimento da matéria conforme assentada na negativa da medida de urgência.
+A jurisprudência desta Corte é pacífica no sentido de que não cabe agravo regimental contra decisão do relator que defere ou indefere medida liminar , de forma motivada. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LIMINAR. INDEFERIMENTO. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.1. Em que pesem os argumentos exarados no agravo regimental, permanece o fundamento da decisão impugnada no sentido de que o pleito formulado em sede liminar confunde-se com o mérito da impetração.2. A jurisprudência desta Corte é pacífica no sentido de que não cabe recurso contra a decisão do Relator que, em habeas corpus, defere ou indefere a liminar, de forma motivada.3. Agravo regimental no recurso em habeas corpus não conhecido. (AgRg no RHC 57.103/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em14/4/2015, DJe 24/4/2015.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS . LIMINAR. INDEFERIMENTO. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.1. Em que pesem os argumentos exarados no agravo regimental, permanece o fundamento da decisão impugnada no sentido de que o pleito formulado em sede liminar confunde-se com o mérito da impetração.2. A jurisprudência desta Corte é pacífica no sentido de que não cabe recurso contra a decisão do Relator que, em habeas corpus, defere ou indefere a liminar, de forma motivada. 3. Agravo regimental no recurso em habeas corpus não conhecido. (AgRg no RHC 57.103/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/4/2015, DJe 24/4/2015.)
+Na hipótese, a liminar foi indeferida porquanto, ao menos neste juízo inicial, "não vislumbro possibilidade de aferir a alegada identidade entre os feitos processuais, haja vista a inexistência de cópia da denúncia ajuizada na Justiça Federal e da manifestação prévia dos Juízes envolvidos acerca do conflito positivo aventado." (fl. 724)
+Não está demonstrada, assim, a ilegalidade manifesta que justifique o deferimento da liminar, sendo que a apreciação aprofundada da matéria se dará por ocasião do exame de mérito, garantindo-se a necessária segurança jurídica.
+Ante o exposto, não conheço do agravo regimental.
+Tendo em vista que já foram enviadas as informações solicitadas, dê-se vista ao Ministério Público Federal, para parecer.
+Publique-se.
+Intimem-se.
