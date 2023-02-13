@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de embargos de declaração opostos por Breno Estefano de Miranda Castanon desafiando acórdão prolatado pela Eg. Primeira Turma, assim ementado (fls. 611/612):
+TRIBUTÁRIO. PROCESSUAL CIVIL. MANUTENÇÃO DE INDEFERIMENTO DE PEDIDO DE ANTECIPAÇÃO DE TUTELA. DECISÃO PRECÁRIA. RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA 735/STF. APLICAÇÃO ANALÓGICA. POSSIBILIDADE.
+1. Pacífica a jurisprudência do STF e do STJ pelo não cabimento de recursos extraordinários contra acórdão que defere ou indefere liminar ou antecipação de tutela, haja vista a precariedade de tal decisão. Inteligência da Súmula 735/STF. Precedentes: STJ: AgInt no AREsp 1.034.741/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/9/2018, DJe 25/9/2018; AgInt no AREsp 235.368/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/2/2017, DJe 23/2/2017; AgInt no AREsp 1.182.599/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/5/2018, DJe 2/8/2018; e REsp 765.375/MA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ 8/5/2006; STF: RE 612.687 AgR, Relator Min. ROBERTO BARROSO, PRIMEIRA TURMA, julgado em 27/10/2017, Acórdão eletrônico DJe-258 Divulg 13-11-2017 Public 14-11-2017; RE 931.822 AgR, Relatora Min. CÁRMEN LÚCIA, SEGUNDA TURMA, julgado em 15/03/2016, Acórdão eletrônico DJe-060 Divulg 1º-4-2016 Public 4-4-2016.
+2. Agravo interno não provido.
+A parte embargante , em suas razões, aponta omissão e contradição no acórdão embargado, sustentando, em síntese, que, "Na espécie, a decisão a quo tem eficácia preclusiva, portanto viável a a exceção à regra do Súmula 735/STF para cabimento do recurso especial, que se assim não fosse, decisões teratológicas não poderiam ser levadas aos Tribunais Superiores, 7 causando prejuízos e danos irreparáveis" (fls. 631/632).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+A parte embargante sustenta existir omissão e contradição no acórdão embargado, procurando fazer valer a tese de que, na hipótese, não há falar na incidência da Súmula 735/STF, tendo em vista que "a decisão a quo tem eficácia preclusiva, portanto viável a a exceção à regra do Súmula 735/STF para cabimento do recurso especial, que se assim não fosse, decisões teratologicas não poderiam ser levadas aos Tribunais Superiores, causando prejuízos e danos irreparáveis" (fls. 631/632).
+A contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado, ou seja, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Confiram-se, a propósito, os seguintes precedentes: EDcl no REsp 1.200.563/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/9/2012; EDcl no AgRg no AREsp 18.784/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 17/3/2012; e EDcl no AgRg no REsp 1.224.347/SC, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, DJe 6/12/2011. No caso, não há qualquer contradição no julgado embargado.
+Com efeito, a decisão embargada não foi contraditória ao consignar que, na esteira dos precedentes desta Corte, na hipótese em que se trata de decisão proferida, na origem, em sede de medida antecipatória, o que não configura causa decidida em única ou última instância hábil a ensejar a abertura da via extraordinária, inviável se torna o conhecimento do recurso especial, ante a precariedade de tal decisão, razão pela qual, na parte dispositiva do decisum, negou-se provimento ao agravo.
+Verifica-se, assim, que não há falar em contradição apta a macular a decisão ora embargada. Com efeito, essa Corte já se posicionou no sentido de que "O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 5/8/2015).
+Por outro lado, não há como tachar de omisso o acórdão embargado, que consignou, de forma clara, ser incabível o manejo de recursos extraordinários na hipótese, haja vista a inexistência de juízo definitivo e conclusivo da instância ordinária sobre a questão federal neles objeto de irresignação, na esteira da remansosa jurisprudência do STJ e do STF, citada no decisum objurgado.
+Como se vê, não existe contradição no julgado embargado capaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, depreende-se que sua intenção é apontar a existência de error in judicando, propósito este incompatível com a via integrativa.
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/15.
+1. De acordo com a norma prevista no art. 1022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para correção de erro material presente na decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado decidiu pela aplicação do óbice da Súmula 182/STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AREsp 588.871/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/08/2019, DJe 12/09/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 545.285/RS, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJ de 1º/8/2006).
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
