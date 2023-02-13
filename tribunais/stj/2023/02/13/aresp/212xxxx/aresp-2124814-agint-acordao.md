@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por LEONARDO AUGUSTO CAMILLO PORTO contra decisão monocrática de minha lavra, às fls. 600/609, que negou provimento a seu agravo em recurso especial diante dos seguintes fundamentos: (I) deficiência de fundamentação da alegação de ofensa ao art. 1.022, do CPC, o que acarreta a aplicação da Súmula 284/STF, e a (II) incidência da Súmula 7/STJ, com relação: (a) ao argumento de ocorrência de cerceamento de defesa pelo indeferimento de produção de prova, e também (b) ao entendimento que consignou o não preenchimento dos requisitos autorizadores do benefício pretendido.
+A parte agravante, em suas razões, sustenta inicialmente que "EM NENHUM TOPICO DO RECURSO ESPECIAL HOUVE A ALEGAÇÃO DA INFRINGENCIA AO ARTIGO 1.022 E SEUS INCISOS DO CPC, razão pela qual, se torna inócua a decisão que inadmite o recurso com fundamento em matéria que não foi objeto do recurso especial." (fl. 612).
+Aduz, também, que no presente caso, não há falar em incidência da Súmula 7 do STJ, pois o caso concreto não demandaria reexame de provas, mas apenas sua correta revaloração.
+Sem impugnação (fl. 621).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. OMISSÃO NÃO VERIFICADA. INDEFERIMENTO DE PRODUÇÃO DE NOVA PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incide, de fato, a Súmula 284 do STF.
+2. É "inviável no âmbito do recurso especial dissentir da conclusão alvitrada na origem acerca da desnecessidade de dilação probatória, em face do óbice contido na Súmula 7 deste Tribunal" (AgInt no AREsp 237.594/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/6/2016, DJe 18/8/2016).
+3. O Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que a parte autora não preenche os requisitos legalmente exigidos à concessão do benefício pleiteado, por ausência de incapacidade laboral.
+4. A alteração das conclusões adotadas pela Corte a quo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+De início, verifica-se das razões do presente agravo interno que, embora a parte diga que não alegou ofensa ao art. 1.022 do CPC, tal assertiva não se traduz na melhor interpretação diante de uma leitura mais atenta da sua petição de recurso especial, senão vejamos à fl. 459: "Diante do exposto, demonstrada a ofensa a lei federal - art. 1.022, I, II do CPC, requer o conhecimento e provimento do RECURSO ESPECIAL.."
+Assim, mais uma vez é de se destacar que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incide, de fato, a Súmula 284 do STF.
+No que tange à alegação de cerceamento de defesa pelo indeferimento de produção complementar de provas, de acordo com a jurisprudência consagrada nesta Corte, é faculdade do julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, seja ela testemunhal, seja pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão. Nesse sentido, sobressaem precedentes:
+PROCESSUAL. ADMINISTRATIVO. NECESSIDADE DE PRODUÇÃO DEPROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO. SÚMULA 07/STJ.
+1. O acórdão recorrido concluiu: o juízo a quo é o destinatário da prova e cabe a ele avaliar sobre a necessidade de sua produção, indeferindo as diligências inúteis e protelatórias. No caso, o indeferimento está devidamente fundamentado, pois os documentos cuja requisição foi pretendida ou já constam dos autos ou não têm relação direta com a lide. Além disso, foi conferida ao ora agravante a oportunidade de demonstrar o contrário, ônus do qual não se desincumbiu (e-STJ fls. 1.707-1.712).
+2. O magistrado, com base no livre convencimento motivado, pode indeferira produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa. Precedentes.
+3. Rever a orientação adotada pelo Tribunal a quo para acolher-se a tese da recorrente de que no caso a produção de provas seria imprescindível para a solução da lide exige análise de fatos e provas, o que inviabiliza a realização de tal procedimento pelo STJ na via do recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 87.393/AM, Rel. Ministro Castro Meira, Segunda Turma,DJe 5/3/2012).
+Também é oportuno ressaltar que é "inviável no âmbito do recurso especial dissentir da conclusão alvitrada na origem acerca da desnecessidade de dilação probatória, em face do óbice contido na Súmula 7 deste Tribunal" (AgInt no AREsp 237.594/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/6/2016, DJe 18/8/2016).
+E, no caso concreto, o Tribunal de origem firmou seu entendimento no sentido da análise da prova existente nos autos, nos seguintes termos (fl. 374):
+.. descabido falar em nulidade da sentença por cerceamento do direito de defesa, uma vez que a perícia médica foi elaborada por médico especialista em áreas condizentes com as lesões indicadas na petição inicial, e que respondeu adequadamente os quesitos que lhe foram apresentados, revelando-se prescindível a confecção de novo laudo.
+Desta maneira, nota-se que a revisão das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. SERVIÇO PÚBLICO. FORNECIMENTO DE ENERGIA ELÉTRICA. PROVA PERICIAL. INDEFERIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7/STJ.
+1. Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a análise da necessidade ou não de produção de prova, qualquer que seja o momento processual ou o motivo que leve a tanto, é atribuição da instância ordinária.
+2. Eventual reforma desta decisão importaria em reexame do conjunto fático-probatório, o que é vedado para este magistrado pela Súmula n.7deste Tribunal. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.355.378/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 4/6/2013)
+Com efeito, conforme afirmado na decisão agravada, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que a parte autora não preenche os requisitos legalmente exigidos à concessão do benefício pleiteado, conforme se vê do seguinte excerto do acórdão recorrido (fl. 376):
+Com efeito, a conclusão pericial considerou os documentos médicos apresentados pelo autor, bem como exames clínicos direcionados realizados no ato da consulta, sendo devidamente fundamentada e atestando existência de sequela permanente, contudo, sem impactos específicos na função laboral do autor.
+Conclui-se, portanto, que , em que não ficou comprovada incapacidade laboral específica pese a sequela apresentada pelo Sr. LEONARDO.
+Por conseguinte, resulta impossibilitada a concessão de quaisquer dos benefícios previdenciários acidentários.
+Consoante já asseverado na decisão impugnada, ao consignar a inexistência de incapacidade laboral que pudesse ensejar a concessão do benefício pleiteado, o aresto objurgado fundou-se no contexto fático dos autos.
+Dessa forma, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório , providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE BENEFÍCIO DE AUXÍLIO-ACIDENTE JULGADO IMPROCEDENTE PELAS INSTÂNCIAS DE ORIGEM EM RAZÃO DO NÃO RECONHECIMENTO DO NEXO CAUSAL E DA INCAPACIDADE LABORAL DA PARTE AUTORA. AGRAVO REGIMENTAL DESPROVIDO.
+(..).
+3. In casu, o Tribunal a quo, soberano na análise fático-probatória da causa, confirmando a sentença, julgou improcedente o pedido inicial por entender que a moléstia não afeta de modo parcial e definitivo a capacidade laborativa da autora, nem tem nexo causal com a atividade por ela exercida.
+4. A alteração dessa conclusão, na forma pretendida, demandaria necessariamente o incursão no acervo fático-probatório dos autos, a fim de verificar se o autor encontra-se incapacitado para o trabalho. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+(..)
+7. Agravo Regimental desprovido.
+(AgRg no REsp 1.378.370/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/12/2014, DJe 16/12/2014).
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. DISACUSIA. INEXISTÊNCIA DE REDUÇÃO DA CAPACIDADE LABORATIVA. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme decidido pela 3ª Seção desta Corte, no julgamento do Recurso Especial 1.095.523/SP, admitido como representativo da controvérsia (art. 543-C do CPC), "estando presentes os requisitos legais exigidos para a concessão do auxílio-acidente com base no art. 86, § 4º, da Lei n.º 8.213/91 - deficiência auditiva, nexo causal e a redução da capacidade laborativa -, não se pode recusar a concessão do benefício acidentário ao Obreiro, ao argumento de que o grau de disacusia verificado está abaixo do mínimo previsto na Tabela de Fowler" (REsp 1.095.523/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe de 05/11/2009).
+II. No caso, contudo, o Tribunal de origem analisou as provas dos autos, notadamente a perícia médica, e concluiu pela inexistência, ainda que mínima, de redução da capacidade laborativa, provocada pela disacusia bilateral, negando o benefício de auxílio-acidente ao ora agravante.
+III. Diante desse quadro, a inversão do julgado, para se concluir pela eventual existência dos requisitos para a concessão do auxílio-acidente - como pretende o recorrente -, demandaria incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor do enunciado 7 da Súmula do STJ.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 342.174/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/05/2014, DJe 28/05/2014)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
