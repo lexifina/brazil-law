@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ com a seguinte ementa (fl. 4.219, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Esta Segunda Turma, ao julgar o Agravo Interno, esclareceu que o Tribunal de origem não se pronunciou sobre as questões jurídicas levantadas em torno dos arts. 337, § 4º, do CPC/2015 e 884 do Código Civil. Por isso, fez incidir a Súmula 211/STJ, por ausência de prequestionamento, impossibilitando a esta Corte adentrar nas matérias.
+2. No tocante à violação apontada aos arts. 19, III, 20, III, "b", e 21, da Lei de Responsabilidade Fiscal, verifica-se que a matéria foi decidida na instância de origem com base no suporte fático- probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça em face do óbice da Súmula 7 do STJ.
+3. O argumento da parte embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+4. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do Código de Processo Civil (CPC/2015). Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário. Precedentes: EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1.491.187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23.3.2018; EDcl no AgInt nos EDcl no AREsp 1.321.153/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 13.5.2019; EDcl no AgInt no REsp 1.354.069/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9.4.2018; EDcl no AgRg no AREsp 170.405/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23.6.2017.
+5. Embargos de Declaração rejeitados.
+Nos aclaratórios, o embargante sustenta em suma (fls. 4.297-4.301, e-STJ):
+Todavia, repita-se, a decisão ora agravada não analisou o fato que a referida matéria restou prequestionada pelas decisões acima, quando restou dito pelo Acordão regional (fls. 2901/2919) que não houve coisa julgada em relação à legalidade do Decreto nº 06/2013, porquanto "os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença" e "a verdade dos fatos, estabelecida com fundamento da sentença". Aduziu ainda que no caso em tela, todos os recursos foram desprovidos, mantendo-se a sentença que indeferira a inicial da ação mandamental.
+(..)
+Aponta, também, a decisão aqui embargada, quanto aos demais dispositivos legais tidos como violados (artigos 19, III, 20, III, "b", e 21, ambos da LC nº 101/2000 - Lei de Responsabilidade Fiscal), que rever as conclusões adotadas pelo TJCE quanto do julgamento do mérito deste feito implica em análise do acervo fático- probatório, o que encontra óbice na Súmula 07 do STJ.
+Todavia, permissa vênia, questão não analisada é que as premissas fáticas e jurídicas já se encontravam delineadas pelo acórdão regional, ou seja, prequestionadas, sendo perfeitamente cabível em sede de recurso especial, conforme reiterada jurisprudência desta Corte Superior de Justiça.
+Impugnação às fls. 4.310-4.324, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE.
+1. Hipótese em que ficou assentado: a) o Tribunal de origem não se pronunciou sobre as questões jurídicas levantadas em torno dos arts. 337, § 4º, do CPC/2015 e 884 do Código Civil, o que atrai a incidência da Súmula 211 do STJ por ausência de prequestionamento, impossibilitando ao STJ adentrar as matérias; b) no tocante à violação apontada aos arts. 19, III, 20, III, "b", e 21, da Lei de Responsabilidade Fiscal, verifica-se que a matéria foi decidida na instância de origem com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça em face do óbice da Súmula 7 do STJ.
+2. A Segunda Turma rejeitou os Aclaratórios, com motivação clara e suficiente, razão por que inexiste omissão, contradição ou obscuridade no acórdão embargado.
+3. A fundamentação apresentada pelo embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 29.11.2022.
+Não merece prosperar a irresignação.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, que estejam presentes os pressupostos legais de cabimento.
+Conforme já exarado no acórdão embargado:
+Esta Segunda Turma, ao julgar o Agravo Interno, esclareceu que o Tribunal de origem não se pronunciou sobre as questões jurídicas levantadas em torno dos arts. 337, § 4º, do CPC/2015 e 884 do Código Civil. Por isso, fez incidir a Súmula 211/STJ, por ausência de prequestionamento, impossibilitando a esta Corte adentrar nas matérias.
+E, no tocante à violação apontada aos arts. 19, III, 20, III, "b", e 21 da Lei de Responsabilidade Fiscal, verifica-se a matéria foi decidida na instância de origem com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça em face do óbice da Súmula 7 do STJ.
+Não verifico na espécie sub judice nenhuma omissão, obscuridade, contradição ou erro material, senão o intuito do embargante de rediscutir matéria já decidida, atribuindo aos Embargos efeito infringente.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nessa linha:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PROCESSUAL CIVIL. (..) ALEGAÇÃO DE "OMISSÃO". VÍCIO INEXISTENTE. REITERAÇÃO DOS MESMOS ARGUMENTOS. MANIFESTO CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. A insurgência deduzida nestes embargos de declaração expressa mero descontentamento com o resultado do julgamento e o intento de rediscutir questões que já foram objeto de análise e decisão no acórdão embargado, desiderato que sabidamente não se coaduna com a via eleita.
+2. Insiste a Embargante na alegação de que o acórdão impugnado pelos embargos de divergência teria examinado o mérito do recurso especial, quando ficou claro no voto condutor do julgado que "o acórdão embargado nem sequer conheceu do agravo interno, sob o entendimento de que "não houve contraposição da decisão agravada nos pontos em que se aplicou o enunciado da Súmula 284/STF. Tem-se por descumprido o ônus da dialeticidade, previsto no art. 1021, § 1º do CPC/2015. Incidência, pois, à espécie, do enunciado da Súmula 182/STJ." Assim, é notório que não houve enfrentamento do mérito da controvérsia no acórdão que julgou o recurso especial." 3. A mera reiteração da insurgência, repetindo os mesmos argumentos, denota manifesto intuito protelatório, beirando a uma litigância de má-fé, o que enseja a aplicação de multa do art. 1.026, § 2.º, do CPC/2015.
+4. Embargos de declaração rejeitados. Condenação da Embargante a pagar aos Embargados multa de 2% do valor atualizado da causa, nos termos do art. 1.026, § 2.º, do CPC/2015.
+(EDcl no AgInt nos EREsp 1380817/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 16/10/2019).
+EMBARGOS DE DECLARAÇÃO (..) AUSÊNCIA DE OMISSÃO (..) VÍCIOS NÃO CONFIGURADOS. EMBARGOS PROCRASTINATÓRIOS. CABIMENTO DA MULTA DO ART. 1.026, § 2º, DO NOVO CPC. EMBARGOS REJEITADOS.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/2015 e que os embargos declaratórios não se prestam à rediscussão de matéria devidamente analisada.
+(..) 5. A embargante reitera argumentos já apreciados, postergando a solução definitiva da controvérsia. Essa conduta é motivo para a aplicação da multa do art. 1.026, § 2º, do CPC/2015, por terem estes embargos nítido intuito procrastinatório.
+6. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp 1.031.107/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 1º/6/2018, grifei).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 12/11/2018).
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa.
+É como voto.
