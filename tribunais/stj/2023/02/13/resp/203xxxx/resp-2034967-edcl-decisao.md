@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ECONOMUS INSTITUTO DE SEGURIDADE SOCIAL em face da decisão acostada às fls. 1333/1337, e-STJ, da lavra deste signatário, em que se deu provimento ao recurso especial do Banco Patrocinador a fim de reconhecer sua ilegitimidade passiva.
+Nas razões dos aclaratórios (fls. 1343/1345, e-STJ) o embargante alegou omissão no decisum impugnado quanto à recomposição prévia e integral da reserva matemática.
+Impugnação às fls. 1349/1355, e-STJ.
+É o relatório. Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, a embargante sustenta que a decisão restou omissa quanto a recomposição da reserva matemática por parte do Banco do Brasil.
+Razão não lhe assiste.
+Conforme afirma a decisão embargada, o patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma (Tema 936/STJ).
+Ademais, segundo entendimento fixado pela Suprema Corte, em repercussão geral, "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema 1.166/STF).
+Assim, a recomposição da reserva matemática (decorrente da aplicação da modulação de efeitos no julgamento dos Repetitivo/Temas 955 e 1021/STJ) deverá ocorrer na forma delineada no julgamento do EREsp 1557698/RS, pela Segunda Seção desta Corte, conforme dito na decisão ora embargada, o qua estabelece que faculta-se ao autor verter as parcelas de custeio de responsabilidade do patrocinador, se pagas a menor, para recomposição da reserva e poder receber o benefício integral, visto não poder demandá-lo em virtude de sua ilegitimidade passiva ad causam, assegurando-lhe o direito de ressarcimento pelo que despender a título de custeio da cota patronal.
+Portanto, tendo a decisão embargada decidido de modo claro e fundamentado, apenas contrário aos interesses da parte embargante, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2 . Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
