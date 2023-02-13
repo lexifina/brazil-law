@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 281-284, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 7 e 211 do STJ.
+A agravante sustenta, em suma (fls. 302-303, e-STJ):
+Assim, nota-se que as matérias debatidas nos autos foram devidamente pre-questionadas, inclusive porque constituem o cerne da questão e razão principal da interposição do presente recurso, em especial porque aqui se discute a prescrição dos créditos perseguidos pela recorrida.
+b) O debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito, não incorrendo, portanto, com a regra ajustada no enunciado da Súmula 7, desta Corte Suprema.
+Vale dizer que, para a análise dos fatos relevantes, basta uma simples análise dos fundamentos do v. acórdão, tomando-se por base tão somente os fatos que estão expressamente delineados no julgado, não necessitando de revisão do arcabouço fático-probatório dos autos, o que afasta a incidência da Súmula 7/STJ, consoante a jurisprudência deste Col. STJ.
+(..)
+Desta feita, verifica-se que o conhecimento do presente recurso é medida que se impõe, vez que o seu objeto diz respeito à matéria eminentemente de direito, sendo que os fatos pertinentes foram delineados no v. acórdão recorrido, o que não encontra óbice na Súmula 7/STJ.
+c) Tendo entendido que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional, este não pode prevalecer.
+Neste sentido, cabe dizer que, havendo contrariedade à Lei Federal, conforme demonstrado, deverá ser analisada a divergência jurisprudencial apresentada pela parte recorrente, não havendo que se falar em afastamento.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EXECUÇÃO FISCAL. CDA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. REGULARIDADE DO TÍTULO EXECUTIVO. CONTROVÉRSIA DE MÉRITO DO RECURSO DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. ALÍNEA "C". ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+1. Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que a parte não logrou afastar a presunção de certeza e liquidez da CDA. Nesse sentido, transcrevo trecho do acórdão: "em se tratando de documento público comum a parte executada, tendo a ele acesso na repartição competente, competiria a si, se o caso, a apresentação de cópia aos autos, até porque o ônus de desconstituir a presunção de legitimidade e certeza da CDA é da parte autora" (fl. 93, e-STJ). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 30 de novembro de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, a irresignação esbarra no óbice da Súmula 7 do STJ.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 90-93):
+Não se cogita de nulidade do título (fls. 76/81). Os requisitos enumerados no art. 202, do Código Tributário Nacional e no art. 2º, §5º, da Lei nº 6.830/80 encontram-se suficientemente preenchidos, sem margem para se cogitar de qualquer vício formal.
+Consta da CDA a origem, natureza e fundamento legal das infrações, bem como os artigos legais infringidos e que ensejaram a aplicação das penalidades, além de disposições relativas aos encargos moratórios e forma de cálculo dos acréscimos, inexistindo qualquer elemento apto a dificultar a exata compreensão da dívida exigida e o exercício do direito de defesa pela parte embargante. Basta o exame da legislação tributária para se aferir a origem do débito e como foram elaborados os cálculos.
+Não se pode perder de vista, ademais, que o Superior Tribunal de Justiça, quanto ao tema, já assentou que "os requisitos legais para a regularidade da certidão de dívida ativa elencados no artigo 2º, §§ 5º e 6º, da Lei nº 6.830/80 servem ao exercício da ampla defesa. Desse modo, a inexatidão ou eventual irregularidade constante do referido título somente implica sua nulidade quando privarem o executado da completa compreensão da dívida cobrada. Precedentes análogos:
+AgRg no REsp nº 782075/MG, Rel. Ministro FRANCISCO FALCÃO, DJ de 06.03.2006; REsp nº 660895/PR, Rel. Ministro CASTRO MEIRA, DJ de 28.11.2005; REsp nº 660623/RS, Rel. Ministro LUIZ FUX, DJ de DJ 16.05.2005;
+REsp nº 485743/ES.(..)" (1ª Turma REsp 893.541/RS Rel. Min. FRANCISCO FALCÃO j. 12/12/06).
+Por outro lado, a juntada do processo administrativo ou de qualquer outro documento comprobatório do débito não é requisito da execução, dada a presunção de veracidade e legitimidade que emana do título que a embasa.
+Aliás, em se tratando de documento público comum a parte executada, tendo a ele acesso na repartição competente, competiria a si, se o caso, a apresentação de cópia aos autos, até porque o ônus de desconstituir a presunção de legitimidade e certeza da CDA é da parte autora.
+A alteração das conclusões da Corte de origem de que a parte não logrou afastar a presunção de certeza e liquidez da CDA demanda reexame de fatos e provas, o que é vedado nos termos da Súmula 7/STJ. Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO DE COMPENSAÇÃO INDEFERIDA ADMINISTRATIVAMENTE. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. FALTA DE COMBATE A PILARES DO ARESTO RECORRIDO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. SOCIEDADE EMPRESÁRIA EM LIQUIDAÇÃO EXTRAJUDICIAL. COBRANÇA DE JUROS DE MORA E CORREÇÃO MONETÁRIA. POSSIBILIDADE SE HOUVER SUFICIÊNCIA DO ATIVO APURADO. PRECEDENTES.
+1. Não há ofensa ao art. 1.022, II, do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe foram submetidas e aprecia integralmente a controvérsia posta nos autos.
+2. O art. 10 da Lei 9.249/95 não possui comando capaz de sustentar a tese recursal de alegada inobservância do pedido aduzido em exordial e infirmar o juízo formulado pelo acórdão recorrido, o que atrai a incidência da Súmula 284/STF; além disso, o apelo raro não combateu pilares suficientes à manutenção do aresto recorrido, encontrando óbice na Súmula 283/STF, sendo certo, ainda, que a alteração das conclusões da Corte de origem de que a parte não logrou afastar a presunção de certeza e liquidez da CDA demandaria reexame de fatos e provas, o que é vedado nos termos da Súmula 7/STJ.
+3. A decisão agravada amparou-se na hodierna jurisprudência de ambas as Turmas da Primeira Seção no sentido de que a liquidação extrajudicial não implica o afastamento de juros de mora e correção monetária, os quais podem ser cobrados havendo suficiência de ativo.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.702.322/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
