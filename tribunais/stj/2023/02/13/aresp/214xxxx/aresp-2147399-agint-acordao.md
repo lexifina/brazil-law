@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por LUIZ BESSOUAT LAURINO - ESPÓLIO e MIRIAM SEQUEIRA LAURINO contra a decisão de fls. 1.428-1.430 (e-STJ), da Presidência desta Corte, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação de todos os fundamentos da decisão agravada.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 1.150 ):
+APELAÇÃO CÍVEL. USUCAPIÃO. IMISSÃO DE POSSE. BENS IMÓVEIS. AÇÃO DE USUCAPIÃO. PROVA DOS AUTOS QUE CONFORTA A TESE DA PARTE RÉ. AUSÊNCIA DOS REQUISITOS PARA A PRESCRIÇÃO AQUISITIVA. IMÓVEL HIPOTECADO À CAIXA ECONÔMICA FEDERAL (SISTEMA FINANCEIRO DE HABITAÇÃO). BEM PÚBLICO. PRECEDENTES. LITIGÂNCIA DE MÁ-FÉ. AFASTADA.
+Usucapião. A usucapião é forma de aquisição da propriedade e para o seu reconhecimento são necessários dois elementos básicos, quais sejam, a posse e o tempo. Entende-se que este instituto é uma modalidade de aquisição originária da propriedade ou de outro direito real sobre coisa alheia, consistente na posse ininterrupta, com intenção de dono, sem oposição e no decurso do prazo previsto no Código Civil.
+Em verdade, não se tratava de posse sem oposição, porquanto há anos as partes vinham tentando acertar a situação relacionada ao imóvel, em razão da dívida existente na Caixa Econômica Federal em nome dos réus, os quais, possivelmente em nome da amizade de anos entre as famílias, deixaram de propor medidas judiciais, sempre buscando a resolução amigável do conflito. De qualquer sorte, tenho que a pretensão dos autores não prospera, porquanto há prova nos autos de que o imóvel, até meados de 2012, não estava quitado junto à Caixa Econômica Federal (fls. 303/305 - recibo de pagamento do financiamento), ou seja, até o ano de 2012 o imóvel era considerado bem público, insuscetível de usucapião. Por consequência, resta mantida a decisão de primeiro grau, a qual julgou improcedente a ação de Usucapião.
+Litigância de má-fé. Não ocorrência de qualquer das hipóteses do art. 80 do CPC. Litigância de má-fé afastada.
+DERAM PARCIAL PROVIMENTO UNÂNIME.
+Os embargos de declaração opostos foram acolhidos, sem efeitos infringentes, nos termos da seguinte ementa (fl. 1.205, e-STJ):
+EMBARGOS DECLARATÓRIOS. ALEGADA OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PARCIAL RECONHECIMENTO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+Pressupostos do art. 1.022 do CPC/15. Obscuridade, contradição, omissão ou erro material no acórdão embargado. Parcial reconhecimento. Ausência de preclusão consumativa quanto ao pedido de desentranhamento de documentos. Omissão quanto ao pedido de reconhecimento de usucapião ordinária. Modificações parciais que não alteram o mérito do julgado. Rediscussão. Impossibilidade. Pretende a embargante a rediscussão da matéria já apreciada, o que se mostra inadmissível, tendo em vista que os embargos de declaração não se prestam a reabrir a discussão de questões decididas.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES. UNÂNIME.
+Nas razões do recurso especial (fls. 1.227-1.256, e-STJ), além de dissídio jurisprudencial, os recorrentes alegaram que o acórdão impugnado incorreu em violação dos arts. 45, 145 e 178 do Código de Processo Civil de 2015; 98, 99, 1.238 e 1.242 do Código Civil de 2002.
+Sustentaram, em síntese:
+(i) ser indevida a participação do Ministério Público no feito, haja vista se tratar de direito patrimonial disponível;
+(ii) estarem preenchidos os requisitos para configuração da usucapião ordinária e extraordinária, motivo pelo qual o bem sob análise deve ser a eles repassado a esse título;
+(iii) havendo entendimento de que o imóvel objeto da ação de usucapião se trata de bem público federal em face da hipoteca em nome da Caixa Econômica Federal, de rigor a remessa dos autos para julgamento na Justiça Federal.
+O recurso especial foi inadmitido no Tribunal de origem (e-STJ, fls. 1.379-1.400) pelos seguintes fundamentos: a) ausência de prequestionamento dos artigos de lei tidos por violados, bem como não preenchidos os requisitos para possibilitar o prequestionamento ficto; e b) incidência da Súmula 7/STJ para revisão das conclusões estaduais.
+No agravo contra a decisão que inadmitiu o recurso especial (e-STJ, fls. 1.410-1.417), os agravantes limitaram suas razões a repisar as mesmas argumentações trazidas no recurso especial.
+Contraminuta às fls. 1.418-1.420 (e-STJ).
+O feito ascendeu ao Superior Tribunal de Justiça. Entretanto, a Presidência desta Corte, por decisão monocrática, não conheceu do agravo em recurso especial (e-STJ, fls. 1.428-1.430), uma vez que os agravantes não refutaram todos os fundamentos da decisão de inadmissibilidade, em desrespeito ao preconizado no art. 932, III, do CPC/2015, ensejando a aplicação da Súmula n. 182/STJ.
+Irresignados, os recorrentes interpõem este agravo interno (e-STJ, fls. 1.433-1.441), afirmando a inaplicabilidade do óbice apontado para o não conhecimento de seu recurso.
+Pleiteiam, ao final, a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+Sem impugnação, conforme certificado às fls. 1.444-1.445 (e-STJ).
+Em parecer de fls. 1.453-1.457 (e-STJ), o Ministério Público Federal manifestou-se pelo desprovimento do reclamo.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DEFEITO QUE CONDUZ AO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, CONFORME CORRETAMENTE DECIDIDO PELA PRESIDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do apelo especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada, conforme verificado no presente caso, enseja o não conhecimento do agravo em recurso especial. Manutenção da decisão da Presidência desta Corte Superior.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado no sentido de que cabe à parte insurgente, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso, justificando, tese a tese, o cabimento do apelo especial, sob pena de incidência do art. 932, III, do CPC/2015.
+Compulsando os autos, percebe-se que os agravantes não refutaram todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+No tocante à rejeição do recurso especial pela aplicação das Súmulas 7 e 211/STJ, verifica-se, de plano, que tais fundamentos não foram sequer mencionados nas razões do agravo.
+Portanto, à luz do princípio da dialeticidade, os recorrentes deveriam ter impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de seu não conhecimento. Assim sendo, como não se desincumbiram de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ADVOCACIA. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS. NÃO INTERRUPÇÃO DO PRAZO. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO. FUNDAMENTO DA ADMISSIBILIDADE NEGATIVA. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 932, INCISO III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULAS 280/STF E 83 E 182/STJ.
+1. É inviável o agravo em recurso especial se a parte deixa de impugnar fundamentos da decisão de admissibilidade negativa, que obstou o seguimento ao recurso por força da Súmula 83/STJ.
+2. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do CPC e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. "É pacífica a orientação desta Corte no sentido de que os embargos de declaração intempestivos não interrompem o prazo para a interposição de outros recursos (Terceira Turma, AgInt no AREsp 1.607.168/PE, Rel. Ministro Moura Ribeiro, unânime, DJe de 4.3.2021).
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento (AgInt no AREsp 1.090.446/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe 25/11/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.042 DO CPC/2015. DECISÃO DE ADMISSIBILIDADE. NEGATIVA. RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. ORIGEM. ART. 1.030, § 2º, DO CPC/2015. ERRO GROSSEIRO. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC/2015, C/C ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão do Presidente ou Vice-Presidente do tribunal recorrido que não admite o recurso especial com base em entendimento firmado em recurso repetitivo deve ser impugnada por meio de agravo interno, consoante o disposto no art. 1.030, § 2º, do CPC/2015.
+3. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, sob a égide do CPC/2015, a interposição de agravo em recurso especial com tal finalidade constitui erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade. Precedentes.
+4. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC/2015, c/c art. 253, parágrafo único, I, do RISTJ). Precedentes.
+5. Agravo interno não provido (AgInt no AREsp 1.828.169/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 04/10/2021, DJe 08/10/2021).
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
