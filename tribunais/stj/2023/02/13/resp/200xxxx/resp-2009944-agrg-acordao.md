@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CLEUDSON GOMES DA SILVA agrava de decisão na qual não conheci do seu recurso especial e, dessa forma, mantive integralmente sua condenação pelo crime previsto no art. 289, § 1º, do Código Penal.
+O agravante alega não existir consenso no Supremo Tribunal Federal sobre o tema relativo ao termo inicial da prescrição da pretensão executória e, dessa forma, o não conhecimento do recurso especial viola o art. 5º, XXXV, da Constituição Federal.
+Reitera a observância literal do art. 112, I, do Código Penal, o qual estabelece o termo inicial da pretensão executória a partir do trânsito em julgado para a acusação, e não para ambas as partes.
+A defesa sustenta que a posição adotada caracteriza analogia "in malam partem, ou mesmo de interpretação extensiva, que, ao fim e ao cabo, cerceiam o direito de defesa, posto que inibem a interposição de recursos defensivos, já que o julgamento destes acabaria por adiar o início da contagem para a prescrição da pena, prejudicando o acusado" (fl. 1.361).
+Pleiteia a reconsideração do decisum ou o julgamento do agravo regimental pelo órgão colegiado.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES (DEFESA E ACUSAÇÃO) AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior, a partir do julgamento do EAREsp n. 1.983.259/PR, adotou a orientação do Plenário do Supremo Tribunal Federal (AI 794971-AgR/RJ) e pacificou o entendimento de que o termo inicial da prescrição da pretensão executória é o trânsito em julgado para ambas as partes, defesa e acusação. Incidência do disposto na Súmula n. 83 do STJ.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos esforços perpetrados pelo insurgente, não verifico fundamento suficiente a infirmar o decisum agravado, cuja conclusão mantenho.
+A decisão ora impugnada foi estabelecida nos seguintes termos (fls. 1.350-1.352):
+ ..
+Decido.
+I. Não admissibilidade do recurso especial
+Conforme antes relatado, o recorrente foi condenado pelo crime do art. 289, § 1º, do Código Penal, por duas vezes, em concurso material. A Magistrada de primeira instância declarou a prescrição da pretensão executória e, para tanto, considerou como termo inicial o trânsito em julgado para a acusação.
+O Tribunal de origem afastou a extinção da pretensão executória, ao considerar como termo inicial o trânsito em julgado para ambas as partes.
+Prevaleceu, naquela instância, o seguinte entendimento (fl. 1.181):
+ ..
+Como já bem pontuado pelo em. Relator, a divergência está adstrita ao marco inicial de contagem da prescrição da pretensão executória, se o trânsito em julgado apenas para a acusação, na redação literal do art. 112, I do CP, ocorrida em 14/09/2009 ou a data do trânsito em julgado para ambas as partes, ocorrido em 12/12/2016.
+Nesse passo, embora a data de início da contagem da prescrição da pretensão executória ainda seja tema controvertido, não se pode desconsiderar que o instituto da prescrição sempre pressupõe inércia. Não é o desfecho do julgamento, positivo ou negativo em relação a determinadas teses, mas sempre a inércia o vetor que está umbilicalmente ligado à ideia de prescrição.
+Exatamente por força da essência do instituto e considerando a impossibilidade de execução provisória da pena, à luz dos mais recentes julgados do c. STF, que o entendimento prevalente no Excelso Pretório é no sentido de que a interposição de recurso contra a sentença apenas pela defesa, prolongando a fase recursal, não implica em inércia do órgão acusatório, muito menos do Judiciário, que continua prestando jurisdição, inviabilizando assim que se inicie a contagem do prazo da prescrição da pretensão executória, ainda não exercitável.
+Diante dessas ponderações, alinho-me ao entendimento no sentido de que o termo inicial da contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes e não apenas para a acusação, como já decidiu a 1ª Turma Especializada em sua anterior composição, no que transcrevo a ementa relativa ao recurso em sentido estrito n. 0001569-41.2003.4.02.5108.
+A egrégia Terceira Seção desta Corte Superior, a partir do julgamento dos EAREsp n. 1.983.259/PR, adotou a orientação do Plenário do Supremo Tribunal Federal (AI 794971-AgR/RJ) e pacificou o entendimento de que o termo inicial da prescrição da pretensão executória é o trânsito em julgado para ambas as partes, defesa e acusação, conforme estabelecido no acórdão recorrido.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. ENTENDIMENTO SUFRAGADO PELO STF. 1. Sobre o termo inicial da prescrição da pretensão executória - trânsito em julgado para a acusação (art. 112, I - CP) ou para ambas as partes -, tem oscilado a jurisprudência, registrando-se precedentes do STJ adotando a tese do trânsito em julgado para a acusação, como no AgRg no HC n. 717.946/RS, Rel. Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022, onde se positivou que " o  termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal)." 2. Ainda que haja, no STF, reconhecimento de repercussão geral no STF - ARE 848.107/DF (Tema nº 788) -, pendente de julgamento, " o  Plenário do Supremo Tribunal Federal, no julgamento do AI 794971-AgR/RJ (Rel. para acórdão Ministro MARCO AURÉLIO, DJe 25/06/2021), definiu que o dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes. Assim, por já ter havido manifestação do Plenário da Suprema Corte sobre a controvérsia e em razão desse entendimento estar sendo adotado pelos Ministros de ambas as turmas do STF, essa orientação deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justiça, uma vez que não há mais divergência interna naquela Corte sobre o assunto" (AgRg no RHC n. 163.758/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+3. No caso, ocorrendo o trânsito em julgado para ambas as partes em 20/11/2019, e condenado o apenado, ora agravado, a um ano de reclusão, não se encontra prescrita a pretensão executória, nos termos dos arts. 109, V, e 110, do Código Penal.
+4. Provimento do agravo regimental para afastar a prescrição da pretensão executória, mantendo incólume o acórdão proferido pelo TRF da 4ª Região.
+(AgRg no REsp n. 2.000.360/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 15/8/2022.)
+Portanto, forçoso reconhecer que o acórdão recorrido está em consonância com entendimento majoritário desta Corte Superior de Justiça, o que enseja a inadmissibilidade da pretensão pelo disposto na Súmula n. 83 do STJ.
+II. Dispositivo
+À vista do exposto, não conheço do recurso especial.
+Cumpre reiterar a inadmissibilidade da pretensão.
+Com efeito, a egrégia Terceira Seção desta Corte Superior, a partir do julgamento do EAREsp n. 1.983.259/PR, adotou a orientação do Plenário do Supremo Tribunal Federal (AI 794971-AgR/RJ) e pacificou o entendimento de que o termo inicial da prescrição da pretensão executória é o trânsito em julgado para ambas as partes, defesa e acusação, conforme estabelecido no acórdão recorrido.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. ENTENDIMENTO SUFRAGADO PELO STF.
+1. Sobre o termo inicial da prescrição da pretensão executória - trânsito em julgado para a acusação (art. 112, I - CP) ou para ambas as partes -, tem oscilado a jurisprudência, registrando-se precedentes do STJ adotando a tese do trânsito em julgado para a acusação, como no AgRg no HC n. 717.946/RS, Rel. Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022, onde se positivou que " o  termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal)."
+2. Ainda que haja, no STF, reconhecimento de repercussão geral no STF - ARE 848.107/DF (Tema nº 788) -, pendente de julgamento, " o  Plenário do Supremo Tribunal Federal, no julgamento do AI 794971-AgR/RJ (Rel. para acórdão Ministro MARCO AURÉLIO, DJe 25/06/2021), definiu que o dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes. Assim, por já ter havido manifestação do Plenário da Suprema Corte sobre a controvérsia e em razão desse entendimento estar sendo adotado pelos Ministros de ambas as turmas do STF, essa orientação deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justiça, uma vez que não há mais divergência interna naquela Corte sobre o assunto" (AgRg no RHC n. 163.758/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+3. No caso, ocorrendo o trânsito em julgado para ambas as partes em 20/11/2019, e condenado o apenado, ora agravado, a um ano de reclusão, não se encontra prescrita a pretensão executória, nos termos dos arts. 109, V, e 110, do Código Penal.
+4. Provimento do agravo regimental para afastar a prescrição da pretensão executória, mantendo incólume o acórdão proferido pelo TRF da 4ª Região.
+(AgRg no REsp n. 2.000.360/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 15/8/2022.)
+Não cabe ao STJ, em recurso especial, analisar a violação de disposições da Constituição Federal, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal.
+Acrescente-se, ainda, que a observância a qualquer entendimento jurisprudencial do STF não está sujeita apenas quando há o reconhecimento da repercussão geral.
+À vista do exposto, nego provimento ao agravo regimental.
