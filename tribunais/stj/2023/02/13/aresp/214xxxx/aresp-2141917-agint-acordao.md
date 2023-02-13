@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Colhe-se dos autos que NEUSA DE NADAI GUILHEM e outra (NEUSA e outra) ajuizaram execução de título extrajudicial contra CARLOS ARMANDO GALLO (CARLOS).
+Citado, CARLOS opôs exceção de incompetência, que foi acolhida pelo Magistrado de 1º Grau, determinando a remessa dos autos à Comarca de Mauá/SP.
+Contra essa decisão, NEUSA e outra interpuseram agravo de instrumento, que foi provido pelo Tribunal de Justiça de São Paulo nos termos do acórdão relatado pela Desembargadora JONIZE SACCHI DE OLIVEIRA, assim ementado:
+Ação de execução de título extrajudicial Decisão que acolhe exceção de incompetência e reconhece a eleição de foro celebrada entre as partes Remessa dos autos à Comarca de Mauá/SP Agravo de instrumento Cabimento Arguição de incompetência que se encontra preclusa, uma vez que o corréu, apesar de citado, deixou de apresentar contestação e alegar a questão em momento oportuno Artigos 64 e 65 do Código de Processo Civil Demanda que deve permanecer na comarca em que fora ajuizada Ausência de prejuízos ao coexecutado - Precedentes do TJSP Decisão reformada Recurso provido (e-STJ, fl. 21).
+Inconformado, CARLOS interpôs recurso especial com fulcro no art. 105, III, a, da CF, apontando violação do art. 63 do CPC, ao sustentar, em síntese, que deve prevalecer o foro eleito pelas partes.
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do TJSP inadmitiu o apelo nobre pelos seguintes fundamentos: (i) não ficou demonstrada a alegada vulneração ao dispositivo arrolado; e (ii) incidência da Súmula n.º 7 do STJ (e-STJ, fls. 49/52).
+Em decisão monocrática, o Ministro Presidente do STJ não conheceu do agravo em recurso especial que se seguiu, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, porque não foi atacado especificamente o fundamento da decisão agravada quanto a incidência da Súmula n.º 7 do STJ (e-STJ, fls. 88/89).
+Nas razões do presente agravo interno, CARLOS sustentou, em síntese, que não haveria razão para apresentar tópico ou justificativa para a não incidência da Súmula nº 7 do STJ nas razões do agravo se já houve capítulo específico nas razões do apelo nobre demonstrando a violação d os artigos de lei federal, bem como a inaplicabilidade do referido óbice sumular.
+Foi apresentada impugnação (e-STJ, fls. 98/113).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n.º 7 do STJ ).
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que inadmitiu o apelo nobre, pois CARLOS não impugnou a afirmação de incidência da Súmula n.º 7 do STJ.
+E isso não fez porque se limitou a apontar a violação do art. 63 do CPC, sustentando que deve prevalecer o foro eleito pelas partes.
+Destaque-se que CARLOS nem sequer mencionou a Súmula n.º 7 do STJ.
+Assim, repita-se, não houve a demonstração do adequado enfrentamento do fundamento da decisão agravada no que tange à incidência da Súmula n.º 7 do STJ.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n.º 7 do STJ, deve o agravante não apenas mencionar que referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente a impugnação genérica ou a reiteração das razões expostas, quanto ao mérito, no recurso especial.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA.JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020)
+Outrossim, o fato de CARLOS ter apresentado tópico específico ou justificativa para a não incidência da Súmula nº 7 do STJ nas razões do apelo nobre não é suficiente para afastar a necessidade de, nas razões do agravo em recurso especial, infirmar os fundamentos da decisão agravada.
+Assim, como CARLOS não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, já que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
