@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Conheceu-se do agravo para negar provimento ao recurso especial interposto por André Schild Branco de Araújo, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos da seguinte ementa (fl. 39):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VANTAGEM DO ART. 192 DA LEI N.Q 8.112/1990. CÁLCULO COM BASE NA ESTRUTURA DE CARREIRA EXISTENTE À ÉPOCA DA APOSENTADORIA.
+A incorporação da vantagem do art. 192 da Lei n.º 8.112/90 se dá por ocasião da aposentadoria, a partir da situação fática então existente, ou seja, considerando-se a estrutura da carreira vigente à época da jubilação, afigurando-se descabido o respectivo cálculo com base em classe-padrão decorrente de reestruturação de carreira posterior. Precedentes desta Corte.
+Na origem, trata-se de agravo de instrumento interposto por André Schild Branco de Araújo contra a decisão que, nos autos do cumprimento individual de sentença coletiva que declarou o direito dos substituídos "à conversão do tempo de serviço trabalhado sob condições periculosas ou insalubres durante a vigência do contrato de trabalho anteriormente à edição da Lei nº 8.112/90, independentemente de o vínculo empregatício ser com o Poder Público, bem como o direito previsto no artigo 192 da mesma Lei para aqueles que preencheram os requisitos daquela vantagem durante o período de sua vigência", acolheu a impugnação do INSS quanto à forma de cálculo da vantagem.
+No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, André Schild Branco de Araújo aponta violação do art. 1.022, II, do Novo CPC. Alega ofensa ao art. 192, I, da Lei n. 8.112/90.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão (fl. 170):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VANTAGEM DO ART. 192 DA LEI N. 8.112/1990. CÁLCULO COM BASE NA ESTRUTURA DE CARREIRA EXISTENTE À ÉPOCA DA APOSENTADORIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra parte decisão que, no âmbito de cumprimento individual da sentença proferida em ação coletiva, acolheu a impugnação do INSS quanto à forma de cálculo da vantagem do art. 192, II, da Lei n. 8.112/1990. No Tribunal a quo, a decisão foi mantida.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos no que tange ao recebimento da vantagem remuneratória do art. 192 da Lei n. 8.112/1990, levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos (fl. 181):
+Consoante trazido nas razões do agravo interno, ao afastar a violação aos artigos 489 e 1.022, do CPC, não se atentou essa Eg. Colegiado a omissão do C. Tribunal de origem quanto à impossibilidade de congelamento da vantagem prevista no artigo 192, da Lei n. 8.112/90. Ademais, apontou-se a imperiosa a necessidade de apreciação da existência de coisa julgada quanto à sistemática de seu cálculo.
+Não se pode ignorar que, diante da inércia da Corte em apreciar as omissões postas, considerou esse C. Tribunal Superior aplicável o óbice da Súmula n. 7/STJ. Assim, s.m.j., parece contraditório adotar o referido verbete quando, a tempo e modo, a Corte de origem deixou de se manifestar sobre aspectos e violações essenciais à correta apreciação da lide.
+Por fim, não se manifestou essa Eg. Corte para a natureza notadamente jurídica do debate que lhe foi devolvido. Isso porque a violação ao artigo 192, da Lei n. 8.112/90, decorre da reestruturação de carreira havida que modificou a classe funcional do servidor, alterando a vantagem devida do inciso II do referido dispositivo para o inciso I.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VANTAGEM DO ART. 192 DA LEI N. 8.112/1990. CÁLCULO COM BASE NA ESTRUTURA DE CARREIRA EXISTENTE À ÉPOCA DA APOSENTADORIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos do cumprimento individual de sentença coletiva, acolheu a impugnação do INSS quanto à forma de cálculo da vantagem do art. 192, II, da Lei n. 8.112/1990.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante relacionado à negativa de prestação jurisdicional pela Corte de origem e à necessidade de reexame dos fatos e provas foram tratados no acórdão recorrido, o que afasta a alegação de omissão e contradição.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante relacionado à negativa de prestação jurisdicional pela Corte de origem e à necessidade de reexame dos fatos e provas foram tratados no acórdão recorrido, o que afasta a alegação de omissão e contradição, conforme se percebe dos seguintes trechos do acórdão (fls. 174-175):
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. (..)
+Verifica-se que a Corte de origem analisou a controvérsia dos autos no que tange ao recebimento da vantagem remuneratória do art. 192 da Lei n. 8.112/1990, levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
