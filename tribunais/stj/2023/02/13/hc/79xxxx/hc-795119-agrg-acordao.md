@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Convocado o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto por JOÃO VITOR NASCIMENTO DOS SANTOS contra decisão monocrática da Presidência que indeferiu liminarmente o writ nos termos da Súmula n. 691/STF (e-STJ fls. 83/85).
+Infere-se dos autos que o paciente foi preso em flagrante em 24/12/2022, tendo em vista suposta infração ao art. 14 da Lei n. 10.826/2003, ao art. 180, § 6º, do Código Penal e ao art. 2º, caput, da Lei n. 12.850/2013. A prisão foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, argumentando a ausência de fundamentação idônea do decreto prisional. A liminar, contudo, foi indeferida (e-STJ fls. 77/80).
+Daí o presente mandamus que teve o seguimento negado pela Presidência, com fulcro na Súmula n. 691/STF.
+No presente agravo, a defesa sustenta haver flagrante ilegalidade a justificar a superação da Súmula n. 691/STF, uma vez que "não foi observado o disposto no art. 312 do Código de Processo Penal, deixando, o Juízo de Primeira Instância, de apontar quaisquer dados concretos que pudessem justificar a segregação provisória, limitando-se a tecer condições acerca da gravidade abstrata do delito" (e-STJ fl. 90).
+Acrescenta ser o réu primário, detentor de bons antecedentes, além de possuir residência fixa e ocupação lícita.
+Diante disso, pede a reconsideração da decisão anterior, para que conceder a liminar para suspender a prisão preventiva do agravante, com a possibilidade de imposição das medidas cautelares alternativas e, caso assim não entenda, que o recurso seja levado a julgamento pelo Colegiado da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE USO RESTRITO, RECEPTAÇÃO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. NECESSIDADE DE INTERROMPER ATIVIDADE CRIMINOSA. FUNDAMENTAÇÃO IDÔNEA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do paciente, flagrado arma de fogo pertence a Secretaria de Justiça do Piauí, bem como acusado de pertencer a organização criminosa. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, sem adiantar qualquer juízo de valor sobre os fatos, destaco os termos expostos pelo Tribunal de Justiça ao indeferir o pleito liminar (e-STJ fls. 79/80 - grifo não original):
+In casu, visando cessar imediatamente o constrangimento ilegal da prisão do paciente, que teria sido gerado por decreto prisional carente de fundamentação, postula-se a concessão liminar da liberdade provisória, com a aplicação subsidiaria de medidas cautelares diversas da prisão.
+É cediço que o deferimento do pleito liminar em sede de habeas corpus, em razão da sua excepcionalidade, enseja a comprovação, de plano, do alegado constrangimento ilegal, com a necessária demonstração dos requisitos inerentes às medidas cautelares, quais sejam: o fumus boni iuris e o periculum in mora.
+Pela cognição sumariamente realizada, entendo pela ausência dos requisitos necessários ao deferimento da medida.
+Quanto à probabilidade do direito à liberdade em razão de constrangimento legal gerado por decisão carente de fundamentação, não vislumbro, nesse primeiro exame, flagrante ilegalidade, abuso de poder ou teratologia na decisão para justificar a concessão de liminar.
+Aparentemente, a excepcionalidade da prisão processual atribuída à paciente decorreu da análise de indícios concretos de autoria e de prova da materialidade conclusivos quanto à existência do fumus commissi delicti.
+O paciente foi flagrado arma de fogo pertence a Secretaria de Justiça do Piauí, bem como acusado de pertencer a organização criminosa.
+Examinou-se, também, o periculum libertatis que fez convencer o magistrado da necessidade de preservação da ordem pública e garantia da aplicação da lei penal.
+O juiz salientou a existência de relatos de que o paciente JOÃO VITOR NASCIMENTO DOS SANTOS e seu parceiro no crime (Samuel do Espirito Santo Silva) integram a organização criminosa Comando Vermelho-CV, conhecida nacionalmente pela forma violenta de agir nas regiões em que se instala. O magistrado se convenceu de que as condutas dos autuados estava revestida de maior reprovabilidade, se fazendo necessária sua segregação cautelar, a fim de assegurar a ordem pública.
+Noutro ponto, não foi comprovado o prejuízo ou a imprestabilidade do direito na hipótese de não concessão da medida de urgência. O trâmite do habeas corpus já é célere o suficiente para permitir o julgamento do mérito, independentemente da liminar, de modo que o periculum in mora que poderá dar ensejo à liminar não é aquele que reside em sede subjetiva da parte. O risco deve ser concreto, objetivamente demonstrado, e não hipotético.
+Além da ausência de subsídios para a concessão da pretendida liminar, cumpre observar a inviabilidade de se acolher a medida sumária almejada, pois a fundamentação que lhe dá suporte se confunde com o mérito do habeas corpus, o qual, sem sombra de dúvida, diante dos elementos colacionados, exige exame mais abrangente e aprofundado da questão, que se dará por ocasião da apreciação definitiva do mandamus.
+Dispositivo
+Ante o exposto, indefiro o pedido de liminar, e determino o encaminhamento dos autos ao Desembargador para quem o feito foi previamente distribuído por sorteio.
+Com efeito, o decisum impugnado encontra suporte na jurisprudência desta Corte, segundo a qual, a gravidade concreta dos fatos é fundamento idôneo para decretação da prisão preventiva. Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TENTATIVA DE HOMICÍDIO. GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA.
+(..).
+2. A segregação cautelar é medida excepcional, cabendo ao julgador interpretar restritivamente os pressupostos consignados na lei processual, fazendo-se mister a configuração dos referidos requisitos, sendo que razões outras desprovidas de cunho acautelatório não podem ser utilizadas para a imposição da medida constritiva.
+3. No caso, a custódia preventiva decorreu da necessidade de salvaguardar a ordem pública, diante da gravidade concreta do delito evidenciada pelo "modus operandi" e sua suposta motivação (tentativa de homicídio, em tese encomendada pelo recorrente, mediante cinco disparos de arma de fogo, motivada por ciúmes de ex-mulher), fatores que revelam a periculosidade social do agente.
+4. Ameaças de morte efetuadas pelo recorrente contra a vítima e seus familiares do mesmo modo são suficientes para a manutenção do decreto preventivo, haja vista a necessidade de garantir a conveniência da instrução criminal.
+5. Hipótese em que a prisão cautelar não foi efetuada até o momento em razão de o acusado estar em lugar incerto, o que demonstra o intuito de se furtar ao cumprimento da norma penal.
+6. Recurso ordinário em habeas corpus desprovido. (RHC n. 60.858/MT, Rel. Ministro GURGEL DE FARIA, DJe 01/10/2015)
+Além disso, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interromper suas atividades.
+Dessa forma, "não há coação na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que se mostra necessária, para diminuir ou interromper a atuação dos integrantes da associação criminosa, pois há sérios riscos das atividades ilícitas serem retomadas com a soltura" (HC n. 329.806/MS, Quinta Turma, Relator Ministro JORGE MUSSI, julgado em 5/11/2015, DJe de 13/11/2015).
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
