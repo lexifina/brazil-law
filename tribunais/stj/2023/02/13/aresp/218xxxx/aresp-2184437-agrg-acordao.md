@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SE XTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÁFICO DE DROGAS. PLEITO DESCLASSIFICATÓRIO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Apesar da pequena quantidade de entorpecente apreendida, o Tribunal de origem cassou a decisão do Juízo primevo, por entender indevida a desclassificação do crime, a partir dos elementos de prova colhidos nos autos. A inversão do julgado atrai a incidência da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JOÃO CARLOS GARCIA DOS SANTOS contra decisão da Presidente desta Corte Superior que conheceu do agravo para não conhecer do recurso especial, em razão do óbice da Súmula n. 7/STJ (fls. 489-492).
+Nas razões do presente recurso, a Defesa alega que, no caso, não se trata de reexame fático-probatório, mas "apenas e tão somente de revaloração de fatos incontroversos" (fl. 498). Ressalta que o Juízo de primeiro grau desclassificou a conduta do Acusado para o crime de posse de entorpecente para consumo próprio, fundamentando, "sobretudo, na pequena quantidade da droga apreendida (2 gramas de crack)" (fl. 498).
+Pede a reconsideração da decisão agravada ou a submissão do regimental ao Colegiado.
+O Ministério Público Federal manifesta-se pelo desprovimento do agravo regimental (fls. 507-509).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÁFICO DE DROGAS. PLEITO DESCLASSIFICATÓRIO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Apesar da pequena quantidade de entorpecente apreendida, o Tribunal de origem cassou a decisão do Juízo primevo, por entender indevida a desclassificação do crime, a partir dos elementos de prova colhidos nos autos. A inversão do julgado atrai a incidência da Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ(RELATORA):
+Consta dos autos que o Agravante foi denunciado como incurso no art. 33 da Lei de Drogas, pois, " n a data 10 de outubro de 2020, por volta da 22h30min, em via pública,  ..  trazia consigo,  ..  10 (dez) porções de substância análoga à crack,  ..  com peso total de 2,1 g (dois vírgula um gramas),  ..  além da quantia em dinheiro no valor de R$ 384,00 (trezentos e oitenta e quatro reais)" (fl. 111; sem grifos no original).
+O Juízo de primeiro grau desclassificou a conduta descrita na denúncia para a tipificada no art. 28 da Lei n. 11.343/2006, determinando a remessa dos autos ao Juizado Especial Criminal (fls. 248-254).
+Irresignada, a Acusação interpôs recurso em sentido estrito, ao qual a Corte de origem deu parcial provimento, "a fim de cassar a decisão que desclassificou a conduta para a descrita no art. 28 da Lei de Drogas, determinando a remessa dos autos à Vara Criminal de Apucarana, competente para análise e julgamento dos delitos de tráfico, para a prolação de sentença de mérito" (fls. 379-380). O acórdão foi assim ementado (fl. 375):
+"RECURSO EM SENTIDO ESTRITO. DECISÃO QUE DESCLASSIFICOU A CONDUTA DESCRITA NA DENÚNCIA PARA A DO ART. 28 DA LEI 11.343/2006. INSURGÊNCIA MINISTERIAL. ACOLHIMENTO. DECISÃO QUE DEVE SER REFORMADA. INDÍCIOS DE MATERIALIDADE E AUTORIA DO DELITO DE TRÁFICO. PROVAS ROBUSTAS DE QUE AS SUBSTÂNCIAS ERAM DESTINADAS À ENTREGA. ADEMAIS, CRIME MISTO ALTERNATIVO. NECESSIDADE DO PREENCHIMENTO DE APENAS UM DOS VERBOS PRESENTES NO TIPO PENAL. PRESCINDIBILIDADE DA COMPROVAÇÃO DA MERCANCIA. CONDIÇÃO DE USUÁRIO QUE NÃO OBSTA A PRÁTICA DO DELITO DE TRÁFICO. DESCLASSIFICAÇÃO QUE NÃO PODE SER MANTIDA. DECISÃO CASSADA COM A REMESSA DOS AUTOS AO JUIZ DE ORIGEM. RECURSO PARCIALMENTE PROVIDO."
+Nas razões do recurso especial, a Defesa alegou violação ao art. 28, § 2.º, da Lei n. 11.343/2006, pugnando pela desclassificação da conduta imputada ao Recorrente para o crime de posse de entorpecente para consumo próprio, uma vez que não ficou comprovada a traficância (fls. 393-410).
+Na origem, o apelo nobre foi inadmitido (fls. 434-437), sendo interposto o respectivo agravo (fls. 446-459).
+Como já relatado, a Presidente do Superior Tribunal de Justiça, por meio da decisão de fls. 489-492, conheceu do agravo para não conhecer do recurso especial, com base no Enunciado n. 7 desta Corte.
+Daí a interposição do presente agravo regimental (fls. 498-500).
+Feito esse breve escorço histórico, passo ao novo exame do recurso especial.
+Na hipótese, observo que o Tribunal de origem cassou a decisão do Juízo primevo, por entender indevida a desclassificação do crime, a partir dos elementos de prova colhidos nos autos, notadamente: o interrogatório judicial do Réu - que negou ser usuário de crack; os depoimentos policiais prestados nas fases judicial e extrajudicial; e as circunstâncias do flagrante (em local conhecido como ponto de venda de drogas, com apreensão de dinheiro em espécie). É o que se extrai do seguinte excerto do acórdão recorrido (fls. 377-379; grifos diversos do original):
+"O recorrido João Carlos Garcia dos Santos foi denunciado pela prática do crime tipificado no artigo 33, caput, da Lei nº 11.343/06, uma vez que, em tese, mantinha em sua posse 2,1 gramas de crack, totalizando 10 (dez) pedras, além de estar com a quantia de R$ 384,00 (trezentos e oitenta e quatro reais).
+E, cumpre frisar, João Carlos, interrogado em juízo, negou ser usuário de crack, que utiliza somente maconha.
+Assim, a tese de que a droga se destinava ao uso, não possui qualquer respaldo.
+É de se observar que a Lei nº.11.343/06, em seu art. 28, § 2º descreve certas condições que indicam se o agente se trata de usuário ou traficante (eventualmente, os dois), in verbis:
+"§ 2º Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente".
+No presente caso, os elementos colhidos demonstram que não se tratou de mero uso, conforme descrito no artigo 28 da Lei nº. 11.343/2006, mas sim que havia conhecimento e vontade de fornecer a terceiro a substância que trazia consigo, já que sequer o recorrido faz uso da substância apreendida.
+Assim, devidamente caracterizada a prática de tráfico de entorpecentes, na medida em que foram perfeitamente demonstrados os fatos descritos na denúncia.
+Ademais, apenas a título de argumentação, é sabido que, para a caracterização do delito de tráfico de drogas, não há a necessidade da comercialização das substâncias entorpecentes, vez que se trata de delito misto alternativo, ou seja, basta que se pratique uma das várias ações (verbos) previstas no tipo para que esteja caracterizado o delito.
+ ..
+Cumpre ressaltar ainda, que não é necessário que o agente seja surpreendido em atos de mercancia, bastando que as circunstâncias verificadas no momento da apreensão indiquem que a droga era destinada ao tráfico.
+ ..
+Como bem pontuado pelo ilustre Procurador de Justiça, "Ressalte-se, em primeiro lugar, que a quantidade de droga que trazia consigo - 2,1 gramas de "crack", fracionada em 10 pedras - embora não seja tão expressiva, também não pode ser tida como ínfima ao ponto de afastar a possibilidade de traficância."
+Ainda, no que concerne ao local e as condições em que se desenvolveu a ação, os policiais militares, Caubi Rosa e Everton Jospe dos Santos, este ouvido apenas na fase extrajudicial, afirmaram que a equipe estava em patrulhamento em região conhecido pela venda de entorpecentes, quando avistaram três jovens, que saíram do local quando perceberam a presença da viatura, que visualizaram o momento em que o recorrido dispensou um objeto, que fizeram a sua abordagem, que ele tinha a quantia de R$ 384,00 (trezentos e oitenta e quatro reais) e que o objeto dispensado era "crack" (movs. 1.4, 1.5 e 87.1).
+Vale frisar não há motivos para duvidarmos da veracidade do depoimento prestado pelos policiais militares. Insta salientar que, embora os depoimentos dos policiais não sejam revestidos de veracidade absoluta, os mesmos, quando em consonância com as demais provas dos autos são suficientes para embasar a condenação, notadamente quando inexistente qualquer suspeita de parcialidade.
+Assim, entendo que é o caso de ser cassada a decisão que desclassificou a conduta para a descrita no art. 28 da Lei de Drogas, determinando a remessa dos autos à Vara Criminal de Apucarana, competente para análise e julgamento dos delitos de tráfico, para a prolação de sentença de mérito, com o provimento parcial do presente recurso."
+Portanto, assim como registrado na decisão agravada, a inversão do julgado demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Com semelhante conclusão, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. OFENSA AOS ARTS. 244 E 387, AMBOS DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. DESCLASSIFICAÇÃO DA CONDUTA DO RÉU. ART. 28 DA LEI DE DROGAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. REALIZAÇÃO DO EXAME DE DEPENDÊNCIA TOXICOLÓGICA. DESNECESSIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Quanto ao pleito de desclassificação da conduta do agravante, ficou evidenciado, pela análise atenta às conclusões da Corte local, que há provas suficientes da materialidade e da autoria do recorrente para sustentar sua condenação nas infrações penais ora imputadas. Rever a posição adotada pelas instancias ordinárias demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos (Súmula n. 7 do STJ).
+3. Aliás, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp n. 2.036.179/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/5/2022, DJe de 16/5/2022; grifei.)
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO E DESCLASSIFICATÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo o Tribunal de origem concluído pela manutenção da condenação, ante a suficiência dos elementos probatórios, torna-se incabível a revisão do aludido entendimento, diante da necessidade do reexame do conjunto fático-probatório dos autos, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. O fato de ter sido apreendida pequena quantidade de drogas não impõe, por si só, a absolvição criminal, sobretudo quando presentes outros elementos probatórios destacados pelas instâncias ordinárias, que evidenciam a comercialização das referidas substâncias.
+3. "Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito de tráfico de drogas para o previsto no art. 28, caput, da Lei n. 11.343/2006, conforme pretende o agravante, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial"" (AgRg no AREsp 1596085/TO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/3/2020).
+4. Agravo regimental desprovido." (AgRg no AgRg no AgRg no REsp n. 1.912.753/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/10/2021, DJe de 26/10/2021; grifei.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
