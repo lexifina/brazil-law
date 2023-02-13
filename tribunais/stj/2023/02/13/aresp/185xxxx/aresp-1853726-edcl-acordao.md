@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração opostos pela Companhia de Habitação Popular de Curitiba - CHOHAB-CT desafiando acórdão proferido pela Eg. Primeira Turma deste STJ, assim ementado (fls. 3041/3042):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. EDIFICAÇÕES IRREGULARES EM ÁREA DE PRESERVAÇÃO AMBIENTAL. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DO MUNICÍPIO DE CURITIBA. ARTS. 489, § 1º, E 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. OFENSA GENÉRICA AO DECRETO N. 7.929/2013, À LEI 6.766/1979 E AO DECRETO-LEI N. 35.851/1954. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. NEXO DE CAUSALIDADE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS BASILARES QUE AMPARAM A DECISÃO AGRAVADA. SÚMULA 283/STF. INCIDÊNCIA, NA HIPÓTESE.
+1. Na origem, cuida-se de ação civil pública proposta pelo Ministério Público do Estado do Paraná em desfavor do Município de Curitiba e da Companhia de Habitação Popular de Curitiba (COHAB-CT), com o fim de responsabilizar os réus pelos danos ambientais constatados em área de preservação permanente.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Constata-se que, embora a parte recorrente tenha indicado ofensa ao Decreto n. 7.929/2013, à Lei 6.766/1979 e ao Decreto-Lei n. 35.851/1954, não apontou, com precisão, qual dispositivo legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica à lei federal, sem particularização precisa dos dispositivos malferidos, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF.
+4. Quanto à questão do nexo de causalidade entre a conduta da parte agravante e os danos apontados na peça vestibular, a decisão ora agravada concluiu que a hipótese atrai a incidência da Súmula 126/STJ, tendo em vista que a instância a quo, no ponto, amparouse em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, e não foi interposto o respectivo recurso extraordinário. Além disso, a análise do tema também esbarraria nos óbices previstos nas Súmulas 7/STJ e 280/STF.
+5. Assim, ao atacar somente a incidência da Súmula 7/STJ, deixou de obedecer ao comando contido no art. 1.021, § 1º, do CPC/2015, segundo o qual constitui ônus da parte agravante impugnar especificamente todos os fundamentos da decisão combatida.
+6. Agravo interno da COHAB-CT parcialmente conhecido e, nesta extensão, não provido.
+A parte embargante, em suas razões recursais, sustenta a existência de obscuridade no decisum, ao argumento de que, "embora a r. decisão retro relate que não houve omissão no acórdão proferido pelo Tribunal Estadual no tocante à caducidade do decreto expropriatório, fato é que o Relator aponta trecho da decisão que não trata da questão afeta à referida caducidade, deixando de se ater ao tema proposto, não revelando a necessária prestação jurisdicional atinente à interpretação do comando normativo descrito nos arts. 5º, 6º e 10 do Decreto-Lei nº 3.365/1941." (fl. 3064).
+Pugna, pois, pelo acolhimento dos embargos de declaração, a fim de sanar o vício apontado.
+O Ministério Público do Estado do Paraná, embargado, apresentou impugnação (fls. 3.072/3.075), na qual solicita a rejeição dos embargos de declaração.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1. 022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado e, ainda, para correção de erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, no acórdão embargado, consignou-se a ausência de omissão no acórdão proferido pelo Tribunal de origem.
+No caso, além de outros questionamentos, a COHAB-CT sustentou que não ficou configurada qualquer responsabilidade sua pelos danos ambientais ocorridos na área objeto dos autos, porquanto teria ocorrido a caducidade do decreto expropriatório editado pelo Município de Curitiba.
+A Corte estadual, por sua vez, assentou o dever da ora embargante na preservação da área nestes termos (fl. 2491):
+Isso porque restou clara e fundamentadamente reconhecida a obrigação da embargante, juntamente com o Município de Curitiba, em promover o reassentamento das famílias que hoje ocupam a área pública de preservação permanente para moradias dignas no prazo de dois anos e, posteriormente, proceder a demolição dos imóveis e limpeza do local em sessenta dias, com recuperação da área degradada.
+Ademais, importa consignar que a questão acerca da titularidade fática do bem foi pautada não só no Decreto nº 1.547/2011, como também no Termo de Compromisso nº 0352682-82/2011 firmado com a própria embargante.
+Assim, o decisum proferido por esta Primeira Turma é claro ao apontar trecho do acórdão local que analisou o tema da caducidade, suscitado pela COHAB-CT.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegada obscuridade do acórdão embargado, traduzem, na verdade, inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
