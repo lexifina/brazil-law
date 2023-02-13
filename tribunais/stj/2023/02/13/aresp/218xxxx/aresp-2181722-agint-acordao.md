@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Caixa de Previdência dos Funcionários do Banco do Brasil, contra decisão desta relatoria assim ementada (e-STJ, fl. 205):
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. SENTENÇA. LÍQUIDA. VALOR EXEQUENDO HOMOLOGADO ANTERIOMENTE. QUANTIA DEPOSITADA PELA EXECUTADA. NATUREZA. GARANTIA DO JUÍZO E NÃO PAGAMENTO VOLUNTÁRIO. MULTA E HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA. REEXAME DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO. REVALORAÇÃO DA PROVA. AFASTAMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. SÚMULA 283/STF. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante pretende a reforma da decisão proferida.
+Para tanto, sustenta que não se faz necessário o reexame de fatos e/ou provas.
+Além disso, aduz que não se deixou de impugnar o fundamentos do acórdão recorrido, tendo sido apresentada argumentação suficiente para o julgamento do recurso especial, com abordagem de todos os tópicos necessários à apreciação da controvérsia.
+Foi apresentada impugnação (e-STJ, fls. 240-255).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. SENTENÇA. LÍQUIDA. VALOR EXEQUENDO HOMOLOGADO ANTERIOMENTE. QUANTIA DEPOSITADA PELA EXECUTADA. NATUREZA. GARANTIA DO JUÍZO E NÃO PAGAMENTO VOLUNTÁRIO. MULTA E HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA. REVISÃO DAS MATÉRIAS. IMPOSSIBILIDADE. I NCIDÊNCIA DA SÚMULA 7/STJ. 2. REVALORAÇÃO DA PROVA. AFASTAMENTO. 3. ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULAS 283/STF. 4. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. HONORÁRIOS. MAJORAÇÃO. NÃO ACOLHIMENTO. 5. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 6. RAZÕES RECURSAIS INSUFICIENTES. 7. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, acerca da liquidez da sentença, da quantia depositada não se tratar de pagamento e da incidência de multa e honorários advocatícios, não prescindiria do reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo o caso, também, de revaloração da prova.
+2. A falta de impugnação a fundamento suficiente para manter, por si só, o acórdão impugnado impede o conhecimento do recurso, na esteira do enunciado 283 da Súmula do Supremo Tribunal Federal.
+3. Conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1.814.712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021), o que não ocorreu no caso em análise.
+3.1. A jurisprudência desta Corte Superior não admite a majoração de honorários de sucumbência por ocasião do julgamento de agravo interno, tendo em vista que a interposição do mencionado recurso não inaugura nova instância.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Razões recursais insuficientes para a revisão do julgado.
+6 . Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento.
+De início, não obstante as alegações deduzidas pela parte agravante, conforme foi consignado na decisão agravada, o acórdão recorrido, partindo de premissas fáticas insusceptíveis de reanálise no julgamento do recurso especial a teor da Súmula 7/STJ, houve por bem aduzir que, na hipótese, os cálculos feitos em 2015 pelo perito englobaram o valor do principal e dos honorários advocatícios de sucumbência, e, principalmente, ter ocorrido homologação do valor tornando a sentença líquida.
+Além disso, a conclusão adotada teve por base os elementos fático-probatórios dos autos, notadamente a circunstância de que a própria agravante salientou se tratar de depósito para garantir o Juízo, porque pretendia apresentar impugnação.
+Cumpre repisar que, aparentemente, a agravante olvida, em cada uma das situações que (1) a sentença é líquida, porque decorrente do entendimento adotado em julgamento de processo anterior e (2) ela própria afirmou se tratar de depósito para garantir o juízo e, não, de pagamento voluntário.
+Eis o que ficou consignado pela Corte local (e-STJ, fls. 28-61):
+Primeiramente cumpre analisar o recurso interposto pela PREVI, que alega erro nos cálculos no que diz respeito a verba sucumbencial, vez que os exequentes utilizaram o valor depositado para o pagamento rateado dos autores e dos honorários advocatícios. Disse que o valor anteriormente depositado deve ser priorizado para o pagamento dos autores e não da verba sucumbencial.
+Tais argumentos não merecem amparo. Os cálculos realizados pelo perito em 2015 englobaram o valor do principal e dos honorários advocatícios de sucumbência. A agravante se esquece que houve decisão anterior, homologando os cálculos e tornando líquida a sentença fixando como valor devido R$2.312.687,25.
+Não tendo sido depositado o valor integral, o remanescente continua sendo devido, devendo apenas ser atualizado e com incidência de juros. Assim, não há que se falar em equívoco dos cálculos e muito menos de excesso de execução, devendo ser mantida a decisão que rejeitou a impugnação.
+(..)
+Aqui os agravantes/impugnados insurgem-se contra a decisão agravada, alegando que o depósito efetuado pela PREVI teve por escopo a garantia do Juízo e não o pagamento da dívida remanescente.
+Diz que o depósito neste caso não afasta a incidência da multa e dos honorários advocatícios de sucumbência, ambos no percentual de 10%(dez por cento).
+Assiste razão aos agravantes.
+Após a homologação dos cálculos e o depósito a menor efetuado pela executada, os exequentes demandaram o pagamento do valor Após a homologação dos cálculos e o depósito a menor efetuado pela executada, os exequentes demandaram o pagamento do valorA ré, devidamente intimada, efetuou o depósito, mas alegando excesso de execução, afirmou que o valor depositado serviria para garantir o Juízo, vez que pretendia apresentar impugnação.
+Ora, segundo a jurisprudência do STJ, a multa a que se refere o art 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar o seu levantamento a qualquer discussão do débito. A garantia do Juízo não se confunde com o pagamento voluntário.
+(..)
+No caso, não obstante a ré ter realizado o depósito do valor incontroverso de forma tempestiva, requereu que o depósito ficasse a disposição do Juízo sem nenhum levantamento até que seja definitivamente julgada a impugnação por ela a ser apresentada.
+Logo, o depósito efetuado pela ré não afasta a incidência da multa e honorários no importe de 10% cada um.
+(..)
+Assim merece reforma a sentença para determinar a incidência de multa e honorários advocatícios na forma do art. 523 do CPC/2015.
+Dessa forma, ficou assentado, e aqui se reitera, que, para rever o entendimento adotado pelo Tribunal de origem seria necessário o reexame de matéria fático-probatória, o que é vedado em recurso especial, consoante a Súmula 7/STJ.
+Repita-se não ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, que tenha sido suficientemente reconhecido pelas instâncias ordinárias.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVOGAÇÃO DE DOAÇÃO. ATOS DE INGRATIDÃO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. PRETENDIDO REEXAME DE PROVAS CONSTANTES DOS AUTOS NÃO SE CONFUNDE COM NOVA QUALIFICAÇÃO JURÍDICA DE FATOS ASSENTADOS NO ACÓRDÃO RECORRIDO. AGRAVO NÃO PROVIDO.
+(..)
+2. No caso dos autos, as instâncias de origem entenderam, com fundamento na prova dos autos, que a conduta das recorridas não poderia ser classificada como "ato de ingratidão" a que se refere a lei como requisito para a revogação da doação. A pretensão recursal voltada à revisão dessa conclusão choca-se frontalmente com a Súmula 07/STJ.
+3. A revaloração da prova, permitida no âmbito do recurso especial, consubstancia-se em atribuir o devido valor jurídico a fato incontroverso, reconhecido pelo acórdão recorrido, ou seja, é a requalificação jurídica dos fatos, quando suficientes para a solução da questão, tal qual assentados pelo acórdão do Tribunal de origem, não se confundindo, portanto, com a necessidade de verificar a existência ou não de determinado fato, como na presente hipótese.
+4. Se para a verificação de violação à legislação federal apontada for necessária, como no presente caso, a análise das provas carreadas aos autos, e não a análise dos fatos assentados de maneira incontroversa no acórdão recorrido, estar-se-á diante da hipótese típica de incidência do enunciado da Súmula 7 desta Corte Superior.
+5. Agravo interno não provido. (AgInt no AgInt no AREsp 1.593.194/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 26/4/2021).
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Ademais, reitera-se que a conclusão da Corte estadual que serviu de base para o acórdão recorrido - que a sentença era líquida e ter se tratado de depósito para garantir o juízo - e não de pagamento voluntário - não foi impugnada no recurso especial, conforme se extrai das alegações apresentadas.
+Para que fique claro - evitando-se, assim, falar em obscuridade e omissão - a agravante dirigiu suas razões recursais no sentido de que (1) a impugnação apresentada não trata de meros cálculos aritméticos; e, (2) não se configurou o fato gerador para a incidência das penalidades.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Acerca da pretensão da parte agravada de ver aplicada à agravante a pena por litigância de má-fé, o requerimento não merece guarida, pois, conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1814712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021), o que não ocorreu no caso em análise.
+Cumpre também asseverar que a jurisprudência desta Corte Superior não admite a majoração de honorários de sucumbência por ocasião do julgamento de agravo interno, tendo em vista que a interposição do mencionado recurso não inaugura nova instância.
+A título exemplificativo:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. AUTOR PORTADOR DE ENCEFALOPATIA CRÔNICA. TRATAMENTO MULTIDISCIPLINAR. LIMITAÇÃO DO NÚMERO DE SESSÕES. IMPOSSIBILIDADE. ROL DA ANS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DA TERCEIRA TURMA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO NÃO PROVIMENTO DO AGRAVO INTERNO. ART. 85, § 11, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. A jurisprudência do STJ orienta que a interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+6. Agravo interno não provido. (AgInt no REsp 1931815/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/9/2021, DJe 23/9/2021)
+Por fim, quanto ao pleito de aplicação de multa, contido na impugnação ao agravo interno, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não acarreta imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imprescindível para tal desiderato que seja nítido o descabimento do recurso, o que, pelo menos por enquanto, não se verifica na espécie.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
