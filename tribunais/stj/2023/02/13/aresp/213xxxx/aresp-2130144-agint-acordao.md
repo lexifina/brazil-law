@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por ITAÚ UNIBANCO S. A., em face de decisão monocrática deste signatário (fls. 1721/1724, e-STJ), que negou provimento ao recurso do ora agravante.
+O apelo nobre (art. 105, III, alínea "a", CF), desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 1613, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO ACOLHIDA EM PARTE. INCONFORMISMO DOBANCO. ALEGADO DESVIRTUAMENTO DA EXIGIBILIDADE DOSJUROS. OBSERVÂNCIA DO IRDR 1620630-7. ALEGADADESCONSIDERAÇÃO DO PRAZO DE COMPENSAÇÃO DE CHEQUES. REPRODUÇÃO FIEL DOS EXTRATOS. INOCORRÊNCIA DE VÍCIO. RECURSO DO CORRENTISTA. RECLASSIFICAÇÃO DO SALDODEVEDOR. CRÉDITO EM LIQUIDAÇÃO. POSSIBILIDADE DECOMPENSAÇÃO DE VALORES. POSSIBILIDADE DO MANEJO DECUMPRIMENTO DE SENTENÇA PELO BANCO RÉUINDEPENDENTEMENTE DE FORMULAÇÃO DE PEDIDORECONVENCIONAL NA FASE DE CONHECIMENTO, DADO OCARÁTER DÚPLICE DA SENTENÇA CONSTITUTIVA PROFERIDA NAAÇÃO REVISIONAL. DECISÃO MANTIDA. 1. Embora seja admitida aaplicação do artigo 354 do Código Civil na fase de liquidação, o caso concreto inviabiliza tal proceder, na medida em que a perícia concluiu que os depósitos amortizadores da dívida serviram para a quitação do capital, questão acobertada pela coisa julgada. 2. Ausente determinação quanto à observância do prazo de compensação de cheques, o cálculo efetuado a partir da reprodução fiel dos extratos não comporta reparos. 3. Ainda que o lançamento de transferência de créditos em liquidação não integre a coisa julgada em liquidação, após apuração do valor devido é possível a exigibilidade/compensação do débito, pelo banco réu, em sede de cumprimento de sentença, em razão do caráter dúplice da sentença proferida na ação revisional, independentemente de pedido reconvencional. RECURSOS NÃO PROVIDOS.
+Embargos de declaração rejeitados (fls. 1635/1636, e-STJ).
+Nas razões de recurso especial (fls. 1641/1646, e-STJ), o agravante apontou ofensa aos artigos 1.022, II, e 489, §1º, III, IV, e VI, do CPC, afirmando que o Tribunal de origem não apreciou os argumentos e provas que demonstram a necessidade de considerar o prazo de compensação dos cheques depositados pelo cliente na conta corrente, sob pena de mácula do cálculo pericial, qual seja, a diminuição indevida do saldo devedor do titular da conta corrente no período.
+Contrarrazões às fls. 1669/1676, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1677/1679, e-STJ), dando ensejo à interposição de agravo (fls. 1682/1687, e-STJ), por meio do qual o agravante pretendeu a reforma da decisão impugnada e o processamento do apelo.
+Contraminuta às fls. 1706/1708, e-STJ.
+Em decisão monocrática (fls. 1721/1724, e-STJ), negou-se provimento ao recurso, ante à ausência de negativa de prestação jurisdicional.
+Daí o presente agravo interno (fls. 1727/1732, e-STJ), no qual o agravante se insurge contra os fundamentos da decisão impugnada.
+Impugnação às fls. 1742/1744, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada.
+1. Conforme constou da decisão agravada, o agravante apontou violação aos artigos 1.022, II, e 489, §1º, III, IV, e VI, do CPC, afirmando que o Tribunal de origem não apreciou os argumentos e provas que demonstram a necessidade de considerar o prazo de compensação dos cheques depositados pelo cliente na conta corrente, sob pena de mácula do cálculo pericial, qual seja, a diminuição indevida do saldo devedor do titular da conta corrente no período.
+Contudo, da leitura do acórdão recorrido, não se vislumbrou qualquer vício, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão do insurgente, conforme demonstra o seguinte trecho da decisão hostilizada (fls. 1635/1636, e-STJ):
+Do mesmo modo, quanto ao prazo de compensação de cheques, observou-se que o autor destacou ter elaborado os cálculos com "reprodução fiel dos extratos bancários juntados" (mov. 301.1), de modo que não se verifica equívoco do cálculo no aspecto.
+Ademais, referida matéria sequer foi abordada na decisão transitada em julgado, não havendo qualquer determinação quanto ao tema que exija especial observância, de modo que não se constata equívoco a reparar. Nesse sentido jádecidiu esta Câmara:
+ ..
+Diante disso, o certo é que as alegações dos recorrentes reiteram a matéria abordada na decisão embargada, de modo que se verifica que o intuito exclusivo do embargante é o reexame da causa, na tentativa de obter decisão favorável ao seu interesse, o que não se revela possível, tampouco adequado, pela via recursal escolhida, eis que os embargos declaratórios não se prestam para o reexame da causa ou modificação da decisão.
+A orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorreu na hipótese sub judice.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+3. O entendimento da Corte local está em harmonia com jurisprudência consolidada no STJ, o que atrai a incidência da Súmula 83 do STJ.
+4. O exame da pretensão recursal exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, situação que faz incidir o enunciado de Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Nos contratos de alienação fiduciária em garantia regidos pelo Decreto-Lei n. 911/1969, a mora se configura automaticamente quando vencido o prazo para o pagamento (mora ex re), mas o deferimento da busca e apreensão tem como pressuposto a comprovação desse fato por meio de notificação extrajudicial do devedor fiduciante. Súmula n. 72 do STJ" (AgInt no AREsp n. 876.487/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/9/2016, DJe de 26/9/2016).
+3. É imprescindível a comprovação de encaminhamento ao endereço constante do contrato e efetivo recebimento da notificação, mediante protesto, carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento. Precedentes.
+4. O acolhimento da tese articulada nas razões do especial da devedora, quanto à ausência de condição de procedibilidade da ação de busca e apreensão, não demandou reexame das provas, mas tão somente nova interpretação jurídica de fatos consignados pela Corte de origem.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+Na mesma linha, os seguintes precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, negativa de prestação jurisdicional, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+Portanto, de rigor a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
