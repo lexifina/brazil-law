@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem trata-se de agravo de instrumento contra decisão que determinou a conversão em renda de 100% do valor depositado a título de principal e 55% referente aos juros de mora. No Tribunal a quo, negou-se provimento ao agravo de instrumento, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. LEI N. 11.941/09. DEPÓSITO JUDICIAL. CONVERSÃO EM RENDA DE 100% DO VALOR PRINCIPAL E 55% DOS JUROS DE MORA. TRÂNSITO EM JULGADO. CUMPRIMENTO DA DECISÃO AGRAVADA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Com a devida vênia, merece reforma a r. decisão que entende que o v. acórdão se manifestou de forma clara e fundamentada dos pontos indispensáveis para a presente controvérsia, uma vez que em momento algum o v. acórdão se manifestou sobre o laudo pericial noticiado como fato novo, que confirma a existência e suficiência de saldo de prejuízo fiscal e base negativa de CSLL para quitação dos juros remanescentes (55%).
+A violação ao art. 1.022 do CPC persiste ainda, quando o v. acórdão mantém o entendimento no sentido de que o mandado de segurança de origem não estaria no escopo da ação declaratória apesar da Agravante ter sido demonstrado em sede de embargos de declaração que o laudo pericial apresentado naqueles autos apurou o valor do prejuízo fiscal e base negativa de CSLL da Agravante no exercício de 2009 e que seria aplicável, portanto, ao presente caso.
+ ..
+Ocorre que, a matéria discutida nos presentes autos é eminentemente de direito e se limita tão somente à correta aplicação da literalidade dos dispositivos tido como violados, não havendo necessidade de se falar em análise de provas.
+ ..
+Ocorre que, com a máxima vênia, tal entendimento merece reparo, uma vez que o v. acórdão que negou provimento ao agravo de instrumento não só analisou minuciosamente os dispositivos tido como violados, que tratam dos benefícios concedidos pela Lei nº 11.941/2009, como concluiu que a Agravante supostamente não teria preenchido os requisitos necessários previstos na legislação para possibilitar a sua utilização
+ ..
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. LEI N. 11.941/09. DEPÓSITO JUDICIAL. CONVERSÃO EM RENDA DE 100% DO VALOR PRINCIPAL E 55% DOS JUROS DE MORA. TRÂNSITO EM JULGADO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem trata-se de agravo de instrumento contra decisão que determinou a conversão em renda de 100% do valor depositado a título de principal e 55% referente aos juros de mora. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - Não há, portanto, violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Quanto à matéria de fundo, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+IV - Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Relativamente às demais alegações de violação (art. 1º, §7º, da Lei n. 11.941/2009, art. 1º, §§ 3º e 8º, da Lei n. 11.941/2009), esta Corte somente pode conhecer da matéria objet o de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+VI - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+VII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Conforme se verifica, restou definitivamente decidido que Agravante não demonstrou o inequívoco direito aos benefícios previstos nos §§ 3º, 7º e 8º do art. 1º da Lei nº 11.941/2009, pois não comprovou o integral cumprimento dos requisitos estabelecidos na lei e na Portaria Conjunta PGFN/RFB nº 06/2009.
+Por outro lado, ainda que assim não se entendesse, verifica-se que, dentre os processos listados na Ação Declaratória nº 2014.51.01.124389-0, nos quais a agravante aponta os depósitos judiciais que pretende levantar para quitar parte dos juros de mora incidentes sobre os débitos incluídos no REFIS, não há menção ao mandado de segurança de origem.
+Por tais fundamentos, deve ser mantida a decisão agravada que determinou o cumprimento da decisão de fls. 345-346, no sentido da conversão em renda de 100% do valor a título de principal e 55% referente aos juros de mora, depositados na origem.
+ ..
+Não há, portanto, violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 1º, §7º, da Lei n. 11.941/2009, art. 1º, §§ 3º e 8º, da Lei n. 11.941/2009), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
