@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MAURICIO DAL AGNOL contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 706-711):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PENHORA DE HONORÁRIOS ADVOCATÍCIOS. REGRA DA IMPENHORABILIDADE. ART. 833, IV, DO CPC/2015. POSSIBILIDADE DE MITIGAÇÃO. PRECEDENTES. CONCLUSÃO PAUTADA EM FATOS E PROVAS. REEXAME INVIÁVEL. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Irresignado, o agravante alega, em síntese, que não seria o caso de reexame do conjunto fático-probatório dos autos, mas somente de revaloração das provas.
+Sustenta que o ônus da prova de que a penhora não implicaria violação da sua subsistência caberia à parte ora recorrida, tendo em vista que a presunção legal supostamente seria pela impenhorabilidade das verbas.
+Não houve impugnação, consoante certidão de fl. 727 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE HONORÁRIOS ADVOCATÍCIOS. REGRA DA IMPENHORABILIDADE. ART. 833, IV, DO CPC/2015. POSSIBILIDADE DE MITIGAÇÃO. PRECEDENTES. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É possível a penhora dos honorários advocatícios, desde que se preserve percentual capaz de garantir a subsistência e a dignidade do devedor e de sua família, o que deve ser examinado de acordo com as peculiaridades de cada hipótese concreta. Precedentes.
+2. Para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, segundo dispõe a Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+De fato, a decisão agravada deve ser mantida.
+Conforme consignado na decisão monocrática objurgada, a jurisprudência desta Corte Superior possibilita a penhora de honorários advocatícios, desde que se preserve percentual capaz de garantir a subsistência e a dignidade do devedor e de sua família, o que deve ser examinado de acordo com as peculiaridades de cada hipótese concreta (REsp n. 1.991.123/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/6/2022, DJe de 13/6/2022; sem grifos no original).
+O Tribunal de Justiça do Rio Grande do Sul, ao dirimir a controvérsia posta nos autos, assim fundamentou (e-STJ, fls. 382-383; sem grifos no original):
+(..) não obstante o art. 833, inciso IV, do CPC/15 disponha que os valores de ordem alimentar sejam impenhoráveis, e o crédito constrito decorra de honorários advocatícios, assim considerados em atenção à Súmula Vinculante 47 do STF e art. 85 do CPC/15, quando não em questão as exceções previstas no artigo 833, §2º, do diploma processual, o caso destes autos apresenta particularidade que possibilita a relativização da regra, porquanto os valores buscados pela parte agravada decorrem de prejuízos financeiros causados pelo recorrente no exercício do mandato, havendo vinculação direta entre o crédito perseguido e a atividade profissional do recorrente.
+Veja-se que, ainda que a execução tenha de ser feita de forma menos onerosa ao devedor, ela é norteada pelo interesse do credor e, diante da hipótese em que o agravante reconhecidamente locupletou-se às custas dos ex-clientes, ao realizar retenções indevidas e acordos lesivos, possível a penhora no rosto dos autos como forma de satisfação legítima do crédito obtido com a sentença em cumprimento.
+Ressalto, por fim, que não comprovou o agravante qualquer onerosidade excessiva na medida em questão, bem assim de que possível a satisfação do crédito por outros meios - a tanto não bastante um mero cotejo entre o valor "estimado" de seu patrimônio bloqueado, ou o que tem a receber em sede de reconvenção, e o número de vítimas tangenciado, sem que comprovado quaisquer das duas grandezas ou demonstrada a direta relação entre elas, não se desincumbindo do ônus probatório a ele cometido.
+Deste modo, ainda que a situação dos autos não esteja abrangida pelas exceções de impenhorabilidades previstas no art. 883, §§1º e 2º, do CPC/15, tenho que incabível a aplicação da regra do inciso IV daquele mesmo artigo ao caso em tela, sob pena de inviabilizar a satisfação do crédito.
+Destarte, percebe-se que a alteração do entendimento do Tribunal de Justiça não prescindiria do reexame do acervo fático-probatório, o que não é possível nesta esfera recursal, em face do disposto na Súmula 7/STJ.
+Dito de outro modo, não há como chegar a conclusão distinta da adotada pela Corte estadual, a menos que se analisem os fatos ocorridos e as provas produzidas.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Ilustrativamente:
+AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE USUCAPIÃO. BEM DE TITULARIDADE DE SOCIEDADE DE ECONOMIA MISTA. NÃO AFETAÇÃO A SERVIÇO PÚBLICO A CARGO DELA. USUCAPIÃO EXTRAORDINÁRIA RECONHECIDA PELA CORTE DE ORIGEM. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE.
+IMPOSSIBILIDADE DE REVISÃO DOS REQUISITOS PARA A CONCESSÃO DA USUCAPIÃO. SÚMULA N.º 7 DO STJ. DISSÍDIO. PRECEDENTES DA MESMA CORTE E COTEJO ANALÍTICO DEFICIENTE. INVIABILIDADE. SÚMULA N.º 13 DO STJ E INADEQUAÇÃO AO § 1º do ART. 255 DO RISTJ E § 1º DO ART. 1.029 DO NCPC. NÃO SE CONHECEU DO RECURSO ESPECIAL.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A revaloração da prova tem razão de ser quando se busca atribuir devido valor jurídico a fato incontroverso reconhecido nas instâncias ordinárias. A tese recursal da releitura do material de cognição para reverter a natureza privada do bem usucapiendo para a pública, buscando colher a imprescritibilidade (art. 102 do CC), não traduz mera revaloração da prova, mas reexame, vedado em recurso especial.
+3. Os precedentes do mesmo Tribunal não podem servir de paradigma para configuração do dissídio em razão do óbice da Súmula n.º 13 do STJ 4. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+5. Agravo interno não provido.
+(AgInt no REsp 1939870/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe 5/10/2022).
+No caso, o que almeja o agravante é a revisão da conclusão a que chegou a Corte estadual. Por conseguinte, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Assim, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado por esta relatoria, permanece inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
