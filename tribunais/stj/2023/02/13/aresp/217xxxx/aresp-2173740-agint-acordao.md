@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica a todos os fundamentos da decisão de admissibilidade (fls. 1913/1915).
+O recurso especial foi interposto em face de acórdão assim ementado (fl. 1720):
+Apelação cível. Ação indenizatória. Direito ambiental. Construção de Usina Hidrelétrica. Ofensa ao princípio da dialeticidade. Concessionária de serviço público. Responsabilidade objetiva. Nexo de causalidade entre as obras da requerida e os danos causados à autora.
+Evidenciado que a apelação traz expressa impugnação aos fundamentos da sentença, apresentando razões pelas quais se busca sua modificação com base na prova constante dos autos, está caracterizado o requisito da dialeticidade a permitir o conhecimento do recurso.
+Com a sistemática da responsabilidade objetiva, é irrelevante, na espécie, a discussão da conduta do agente (culpa ou dolo) para atribuição do dever de reparação do dano causado, cabendo à concessionária de serviço público provar que sua conduta não ensejou riscos para o meio ambiente, nem ensejou os prejuízos causados ao autor.
+Demonstrado que a inundação decorrente de enchente de 2014 foi ocasionada por fenômeno natural, impõe-se reconhecer a ausência de nexo de causalidade entre os danos sofridos pelos moradores da região afetada e o empreendimento relativo à construção da Usina Hidrelétrica de Santo Antônio, de modo que incabível a responsabilização civil da empresa a fins de reparação.
+Nas razões do agravo interno, sustenta que "ao contrário do entendimento monocrático exarado, a tese protagonista desse fundamento foi devidamente apontada e enfrentada nas instâncias inferiores, e suficientemente demonstrada nas razões do presente Recurso Especial".
+Afirma que "a responsabilidade civil da parte requerida/recorrida é objetiva, conforme destacado nos autos, devendo, neste mister, ser considerado que se trata de concessionária de serviço e uso de bem público para exploração e geração de energia elétrica em trechos do Rio Madeira por meio da implantação e operação de usina Hidrelétrica".
+Defende que "No caso concreto, como houve o agravamento progressivo e irreparável do fenômeno das terras caídas, em decorrência do desenvolvimento das atividades da Usina de Santo Antônio, restam configurados os elementos da responsabilidade civil, ainda que o fenômeno em si tenha sido verificado em momento anterior à construção dos empreendimentos de maneira natural e sem quaisquer impactos às populações ribeirinhas que viviam há vários anos no local".
+Reitera as razões do recurso especial, argumentando que houve erro na valoração das provas dos autos.
+Impugnação apresentada às fls. 1951/1963.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No presente caso, as razões do agravo interno não impugnaram o único fundamento da decisão agravada, que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica à decisão de inadmissibilidade.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+4. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece conhecimento.
+A decisão agravada está assim fundamentada (fls. 1913/1914):
+Cuida-se de agravo em recurso especial apresentado por JOSE DO CARMO VELOSO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 284/STF.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+As razões do agravo interno reiteram as alegações do recurso especial e não apresentam argumentos aptos a infirmar os fundamentos da decisão recorrida.
+Nesse contexto, cabe ressaltar que, em respeito ao princípio da dialeticidade, o agravo interno ser bem fundamentado, sendo necessária a impugnação específica aos pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 1.021, § 1º, do Código de Processo Civil e pela aplicação, por analogia, da Súmula 182 do Superior Tribunal de Justiça. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA (CPC/2015, ART. 1.021, § 1º). AGRAVO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA (CPC/2015, ART. 1.021, § 4º).
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado 3 do Plenário do STJ).
+2. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt nos EDcl no AREsp 589.924/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/10/2021, DJe 11/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO CONHECIDO.
+1. Consoante a jurisprudência do STJ não se conhece do Agravo que deixa de atacar especificamente todos os fundamentos da decisão recorrida, pois, à falta de impugnação, permanecem incólumes os motivos expendidos pelo decisum atacado. Inteligência do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1872694/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 4/10/2021, DJe 7/10/2021)
+Assim, não tendo a parte recorrente impugnado os fundamentos da decisão agravada, incide, por analogia, o óbice da Súmula 182/STJ.
+Ainda que assim não fosse, na hipótese, está correto o entendimento da decisão agravada.
+O recurso especial não foi admitido na origem em razão da incidência do óbice da Sumula 284/STF (ausência de explicação precisa acerca da violação aos dispositivos de lei apontados como violados) e Súmula 7/STJ (a modificação da conclusão do acórdão recorrido de que "não houve comprovação da existência de nexo de causalidade entre a conduta da requerida e os danos alegados pela parte autora" demandaria reexame do conjunto probatório dos autos) (fls. 1838/1841).
+Nas razões do agravo, a parte limitou-se a afirmar que "o recurso especial não se limitou a simples reexame de provas" e que "o juízo de admissibilidade realizado pelo Tribunal a quo deve limitar-se à análise dos requisitos formais do Recurso", bem como reiterar as razões do recurso especial.
+Desse modo, não houve impugnação específica e suficiente para infirmar os fundamentos da decisão que não admitiu o recurso especial.
+Com efeito, conforme entendimento desta Corte Superior, "São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada" (AgInt no AREsp 1904123/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe 8/10/2021).
+Especificamente no que toca à impugnação da Súmula 7/STJ, este Superior Tribunal de Justiça entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AREsp 1280316/SP, relator Ministro Og Fernandes, Segunda Turma, DJe 28/5/2019). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp 1970371/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/12/2021 - sem destaques no original)
+Acrescente-se que, conforme jurisprudência desta Corte, "não há usurpação de competência quando o Tribunal local não admite o Recurso Especial sob o fundamento da inexistência de contrariedade ou negativa de vigência à lei federal, pois, conforme tem reiteradamente decidido o STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia (AgRg no Ag 173.195/SP, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 21.9.1998)" (AgInt no AREsp 1839252/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe 13/10/2021).
+Assim, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
