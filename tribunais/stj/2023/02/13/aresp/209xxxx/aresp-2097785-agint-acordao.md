@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto pelo MUNICÍPIO DE COARACI, em 11/11/2022, contra acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, de minha relatoria, em sede de Embargos de Declaração no Agravo interno no Agravo Recurso Especial, publicado em 25/10/2022, que se encontra assim ementado:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL, NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017). Em igual sentido: STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017.
+III. No caso, os Embargos de Declaração não podem ser conhecidos, pois a parte embargante não aponta, efetivamente, a existência de omissão, contradição, obscuridade ou erro material existentes no acórdão embargado, demonstrando mero inconformismo com as conclusões do decisum.
+IV. Embargos de Declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de Declaratórios" (fls. 424/425e).
+Inconformada, sustenta a parte agravante que:
+"Excelências, a r. Decisão monocrática proferida pela I. Relatora rejeitou o Embargo Declaratório oposto pelo Município de Coaraci ao argumento de que o julgador não tem o dever de apreciar todas as matérias suscitadas pela parte.
+Ocorre que, o N. Julgador Relator deixou de apreciar matérias relevantes, que se não vistas com atenção e presteza irão desencadear inúmeros prejuízos a municipialidade e, consequentemente aos munícipes de Coaraci - Bahia.
+Conforme dito e demonstrado, fora requerido pelo Município prazo para juntada de documentos comprobatórios que demonstravam fato impeditivo do direito da Autora, todavia, em nítido cerceamento de defesa tal pleito não fora apreciado pelo Juiz de primeiro grau.
+Insta salientar que o Município de Coaraci, vem insistentemente reiterando a violação ao artigo 42 da Lei de Responsabilidade Fiscal - vez que esta preceitua a vedação ao titular do Poder público municipal contrariar despesa que não possa ser cumprida integralmente no seu mandato, o que devam ser pagas no exercício seguinte. No caso em questão, não havia disponibilidade financeira para tal finalidade, o que se enquadra perfeitamente no preceito do referido dispositivo legal.
+Ora Excelências, todos os argumentos da Decisão foram impugnados de maneira concreta com as devidas especificidades do caso concreto - não havendo que se falar em generalidade.
+Outrossim, fora demonstrado pela municipialidade a controvérsia judicial.
+Portanto, os argumentos trazidos em sede de Apelação e Embargo Declaratório foram congruentes, objetivos e específicos" (fls. 443/444e).
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO COLEGIADA. INTERPOSIÇÃO DE AGRAVO INTERNO. RECURSO INCABÍVEL. ERRO GROSSEIRO. PRECEDENTES DO STJ. IMPOSIÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+I. Agravo interno aviado contra acórdão da Segunda Turma do STJ, publicado em 25/10/2022.
+II. Conforme os arts. 1.021, caput, do CPC/2015 e 259 do RISTJ, o Agravo interno somente é cabível das decisões proferidas pelo Presidente da Corte Especial, de Seção, de Turmas ou de Relator, não sendo possível a sua interposição contra julgamento colegiado, tal como ocorreu, no caso.
+III. Em razão da clareza dos dispositivos em questão, resta impossibilitada a aplicação, na espécie, do princípio da fungibilidade recursal, por se tratar de erro grosseiro. Precedentes: STJ, AgRg no AgRg nos EDcl nos EAREsp 539.126/ES, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe de 02/09/2015; AgRg no AgRg nos EDcl nos EDv no AgRg no CC 134.824/GO, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 31/03/2015; PET no AgRg no AREsp 687.943/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/08/2015; AgRg no AgRg no AREsp 663.451/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/05/2015.
+IV. Em sendo manifestamente incabível o presente Agravo interno, deve o agravante ser penalizado com a multa prevista no art. 1.021, § 4º, do CPC/2015. Nesse sentido: STJ, AgInt no AgInt no REsp 1.677.165/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2018; AgInt nos EDcl nos EDcl no AgInt no AREsp 455.376/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 02/04/2018.
+V. Agravo interno não conhecido, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): O presente Agravo interno não merece ser conhecido, pois é manifestamente incabível.
+Dispõe o art. 1.021, caput, do Código de Processo Civil de 2015, vigente na data da publicação do acórdão ora recorrido:
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal".
+Também dispõe o art. 259 do RISTJ:
+"Art. 259. Contra decisão proferida por Ministro caberá agravo interno para que o respectivo órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a.
+(..)
+§ 6º O agravo interno será submetido ao prolator da decisão, que poderá reconsiderá-la ou submeter o agravo ao julgamento da Corte Especial, da Seção ou da Turma, conforme o caso, computando-se também o seu voto".
+Conforme se verifica dos dispositivos acima transcritos, o Agravo interno somente é cabível nas decisões proferidas pelo Presidente da Corte Especial, de Seção, de Turmas ou de Relator, não sendo possível, portanto, por este meio recursal, impugnar julgamento colegiado.
+Considerando a clareza dos dispositivos em questão, restou configurado erro grosseiro da parte recorrente, na forma da jurisprudência sobre o assunto.
+Nesse sentido, confiram-se, entre muitos outros, os seguintes precedentes:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - INSURGÊNCIA MANIFESTADA CONTRA DECISÃO COLEGIADA - ERRO GROSSEIRO E INESCUSÁVEL - RECURSO NÃO CONHECIDO.
+1. Dispõem os artigos 1.021 do NCPC e 259 do Regimento Interno do STJ que somente as decisões singulares são impugnáveis por agravo interno/regimental. Nos termos da jurisprudência desta Corte, configura erro grosseiro a interposição do referido recurso em desafio à decisão do Órgão Colegiado. Precedentes.
+2. Agravo interno não conhecido" (STJ, AgInt nos EDcl nos EDcl no AgInt no AREsp 914.619/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 02/04/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA ACÓRDÃO. IMPOSSIBILIDADE. ERRO GROSSEIRO.
+1. A interposição de agravo interno contra decisão colegiada constitui erro grosseiro e inescusável, tendo em vista sua previsão exclusiva para atacar decisão monocrática do Relator. Precedentes: AgRg nos EDcl no AgRg nos EAREsp 723.276/RJ, Rel. Ministro Humberto Martins, Corte Especial, DJe 16/6/2016; AgRg no AgRg no AREsp 616.500/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/10/2015; AgRg no AgRg no REsp 1.337.231/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 24/6/2014.
+2. Agravo interno não conhecido" (STJ, AgInt no AgInt no AREsp 944.393/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 05/12/2017).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO COLEGIADA. RECURSO NÃO CABÍVEL.
+1. Não se admite a interposição de agravo regimental contra julgamento colegiado. Inteligência do art. 258 do RISTJ e do art. 557, § 1º do CPC.
+2. Caracterização de erro grosseiro que impede a aplicação do princípio da fungibilidade recursal.
+3. Agravo regimental não conhecido" (STJ, AgRg no AgRg nos EDcl nos EAREsp 539.126/ES, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe de 02/09/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL CONTRA ACÓRDÃO. RECURSO INCABÍVEL. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Na forma dos artigos 545 do Código de Processo Civil e 258 do Regimento Interno do Superior Tribunal de Justiça, somente é cabível agravo regimental contra decisão monocrática, sendo manifestamente inadmissível sua interposição contra acórdão.
+2. Não incide o princípio da fungibilidade em caso de ausência de qualquer dos requisitos a que se subordina, quais sejam: a) dúvida objetiva sobre qual o recurso cabível; b) inexistência de erro grosseiro; c) que o recurso inadequado tenha sido interposto no prazo do que deveria ter sido apresentado.
+3. Agravo regimental não conhecido" (STJ, AgRg no AgRg nos EDcl nos EDv no AgRg no CC 134.824/GO, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 31/03/2015).
+"PROCESSUAL CIVIL. PETIÇÃO RECEBIDA COMO AGRAVO REGIMENTAL. TENTATIVA DE IMPRIMIR CARÁTER INFRINGENTE AO JULGADO. AGRAVO REGIMENTAL. INTERPOSIÇÃO CONTRA ACÓRDÃO DE TURMA DO STJ. AUSÊNCIA DE PREVISÃO LEGAL. ART. 258 DO RISTJ. ERRO INESCUSÁVEL. PRECEDENTES.
+1. É cabível a interposição de agravo regimental das decisões monocráticas proferidas pelo Presidente da Corte Especial, de Seção, de Turmas ou de Relator, conforme o disposto no art. 557, § 1º, do Código de Processo Civil e no art. 258 do RISTJ. Não se incluem nesta via recursal os acórdãos oriundos de julgamento por órgãos colegiados.
+2. Contra acórdão proferido por Turma não cabe agravo regimental, uma vez que esta via somente tem pertinência para atacar decisão monocrática (singular) de Relator, de Presidente de Turma, de Seção ou da Corte Especial. Precedentes da Segunda Turma: AgRg nos EDcl no AgRg no REsp 1.311.448/SP, Rel. Ministro Humberto Martins, DJe 11.9.2013; EDcl no AgRg no AREsp 281.949/RJ, Rel. Ministro Castro Meira, DJe 30.8.2013; AgRg nos EDcl no REsp 1.314.651/RN, Rel. Ministro Mauro Campbell Marques, DJe 22.5.2013; e AgRg nos EDcl no AgRg no REsp 1.304.340/PR, Rel. Ministro Herman Benjamin, DJe 10.5.2013.
+3. Por se tratar de erro grosseiro, é inviável a aplicação do princípio da fungibilidade recursal, não sendo possível o recebimento deste recurso como embargos de declaração.
+Agravo regimental não conhecido" (STJ, PET no AgRg no AREsp 687.943/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/08/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO APLICABILIDADE.
+1. A interposição de agravo regimental é manifestamente incabível contra decisão emanada de órgão colegiado, o que impede a aplicação do princípio da fungibilidade recursal.
+2. Agravo regimental não conhecido" (STJ, AgRg no AgRg no AREsp 663.451/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/05/2015).
+Ademais, sendo manifestamente incabível o presente Agravo interno, deve o agravante ser penalizado com a multa prevista no art. 1.021, § 4º, do CPC/2015, ora fixada em 1% sobre o valor atribuído à causa. Nesse sentido:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. AGRAVO INTERNO NÃO CONHECIDO.
+1. Só é cabível a interposição de agravo interno contra decisão monocrática, nos termos dos artigos 1.021, caput, do CPC/2015 e 258 do Regimento Interno do STJ.
+2. A imposição da multa prevista no artigo 1.021, § 4º, do CPC/2015, não é decorrência lógica do não provimento do agravo interno, contudo, nos casos, como o dos autos, onde o recurso é manifestamente inadmissível, é autorizada a sua aplicação.
+3. Agravo interno não conhecido, com a condenação do agravante ao pagamento de multa de dois por cento sobre o valor atualizado da causa, em razão do reconhecimento do caráter de manifesta inadmissibilidade" (STJ, AgInt no AgInt no REsp 1.677.165/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2018).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INADMISSÍVEL. NÃO CONHECIMENTO.
+1. É incabível agravo interno contra decisão colegiada, conforme disposto no art. 1.021 do CPC/2015.
+2. Recurso não conhecido, com a condenação da parte agravante ao pagamento de multa no percentual de 2% (dois por cento) sobre o valor corrigido da causa, nos termos do art. 1.021, § 4º, do CPC/2015" (STJ, AgInt nos EDcl nos EDcl no AgInt no AREsp 455.376/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 02/04/2018).
+Ante o exposto, não conheço do Agravo interno, com aplicação da multa, prevista no art. 1.021, § 4º, do CPC/2015, de 1% (um por cento) sobre o valor atualizado da causa, por se tratar de recurso manifestamente inadmissível.
+É como voto.
