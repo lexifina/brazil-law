@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ATO ADMINISTRATIVO. SERVIDOR PÚBLICO. SANÇÃO DE DEMISSÃO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem concluiu que, "para o recurso ser julgado prejudicado ou extinto sem resolução do mérito, a Câmara julgadora necessitava ter conhecimento acerca da perda do objeto da ação, informação que não ocorreu de nenhuma das partes. (..) Com efeito, o relator sem a ciência de que o Sr. Giovanni não mais ostentava a condição de militar, não poderia cogitar a perda do objeto do recurso demonstrando claramente porque a resolução do mérito se tornou inútil para a parte recorrente" (fls. 1173/1174).
+2. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes ã utilização da prova e ã formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial " .
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por GIOVANNI BATISTA FRAGA CARRIJO contra decisão que conheceu do agravo para não conhecer do seu recurso especial nos termos da ementa ora transcrita:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ATO ADMINISTRATIVO. SERVIDOR PÚBLICO. SANÇÃO DE DEMISSÃO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (fl. 1291).
+Em suas razões, a parte agravante sustenta que o deslinde da controvérsia não depende do reexame de fatos e provas, devendo ser afastada a incidência da Súmula 7 do STJ. Isso, porque, "embora reintegrado por força de sentença proferida pelo juízo a quo (objeto de apelação pelo Estado de Mato Grosso), ele foi posteriormente demitido da corporação por força de decisão proferida na RPP nº 1002255-38.2017.8.11.0000, em 09.09.2020, ou seja, muito antes do julgamento do recurso de apelação (ocorrido em 29.06.2021)" (fl. 1298).
+Com impugnação (fls. 1315/1321).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ATO ADMINISTRATIVO. SERVIDOR PÚBLICO. SANÇÃO DE DEMISSÃO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem concluiu que, "para o recurso ser julgado prejudicado ou extinto sem resolução do mérito, a Câmara julgadora necessitava ter conhecimento acerca da perda do objeto da ação, informação que não ocorreu de nenhuma das partes. (..) Com efeito, o relator sem a ciência de que o Sr. Giovanni não mais ostentava a condição de militar, não poderia cogitar a perda do objeto do recurso demonstrando claramente porque a resolução do mérito se tornou inútil para a parte recorrente" (fls. 1173/1174).
+2. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+No que se refere à perda superveniente do objeto da ação, considerando que o embargante teve declarada a perda da função por decisão da Turma de Câmaras Reunidas Criminais, antes mesmo do julgamento do recurso de apelação. Fato é que, o recurso de apelação foi devidamente analisado conforme argumentos apresentados pelas partes.
+Importa consignar que para o recurso ser julgado prejudicado ou extinto sem resolução do mérito, a Câmara julgadora necessitava ter conhecimento acerca da perda do objeto da ação, informação que não ocorreu de nenhuma das partes.
+(..)
+Com efeito, o relator sem a ciência de que o Sr. Giovanni não mais ostentava a condição de militar, não poderia cogitar a perda do objeto do recurso demonstrando claramente porque a resolução do mérito se tornou inútil para a parte recorrente.
+Logo, entendo que, sem as devidas informações não poderia o relator de ofício julgar prejudicada a apreciação do recurso (fls. 1173/1174).
+O Tribunal de origem reconheceu que "o relator sem a ciência de que o Sr. Giovanni não mais ostentava a condição de militar, não poderia cogitar a perda do objeto do recurso demonstrando claramente porque a resolução do mérito se tornou inútil para a parte recorrente" (fl. 1174).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Diante do exposto, nego provimento ao agravo interno de GIOVANNI BATISTA FRAGA CARRIJO.
+É como voto.
