@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por INVEST CORRETORA DE CAMBIO LTDA, contra decisão unipessoal que conheceu em parte do recurso especial interposto pela parte agravante e, nessa extensão, negou-lhe provimento.
+Ação: de cobrança movida por CARLOS EDUARDO ARAUJO FAIAD, contra a INVEST CORRETORA DE CAMBIO LTDA, IEX AGENCIA DE VIAGENS E TURISMO LTDA, J & B VIAGENS E TURISMO LTDA, J.P.F. VIAGENS E TURISMO LTDA, sustentando que que em 18/02/2020 firmou contrato de câmbio para entrega futura de moeda estrangeira no qual pagou R$8.600,00 para receber US$2,000.00 (dois mil dólares) em 19/03/2020 com a ré J. P. F. VIAGENS E TURISMO LTDA, cujo nome fantasia é "IEX CÂMBIO E TURISMO", conforme consta na cláusula primeira do contrato social da empresa, depositando o valor na conta da ré J&B, todavia nunca recebeu qualquer valor.
+Sentença: julgou parcialmente procedentes os pedidos da inicial.
+Acórdão: deu parcial provimento à apelação do agravado, nos termos da ementa:
+"APELAÇÃO CÍVEL. CONTRATO DE ENCOMENDA DE MOEDA ESTRANGEIRA. CORRESPONDENTE E CORRETORA DE CÂMBIO. VIGÊNCIA DE CONVÊNIO. RESPONSABILIDADE SOLIDÁRIA VERIFICADA. PESSOAS JURÍDICAS DISTINTAS. OBRIGAÇÃO NÃO RECONHECIDA. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. INADEQUADO.
+1. Todos aqueles que de algum modo participaram da cadeia de produção e fornecimento do produto ou serviço, consoante inteligência dos artigos 7º, parágrafo único. e 18, do CDC, respondem solidariamente pela reparação dos danos ao consumidor.
+2. A corretora de câmbio, instituição contratante de correspondente no país, responde solidariamente pelo inadimplemento contratual da correspondente cambiária, a teor do CDC e da Resolução nº 3.954/2011 do Banco Central, desde que o convênio firmado entre as empresas esteja em vigência na data da realização do negócio jurídico.
+3. A existência de pessoas jurídicas distintas, porém com o mesmo nome de fantasia ou o mesmo sócio administrador, não conduz, por si só, ao reconhecimento da responsabilidade solidária.
+4. Os honorários advocatícios devem ser fixados, preferencialmente, conforme critérios objetivos apresentados no artigo 85, §2º, do CPC e, somente nas causas em que for inestimável ou irrisório o proveito" (e-STJ fl. 819)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 104, III, 166, IV do CC; 3ºe 14 do CDC. Além de negativa de prestação jurisdicional, sustenta que o contrato entabulado entre o consumidor e as corrés é nulo, haja vista que estabelece entrega de moeda estrangeira em data futura e não possuem registro por si só se caracteriza como ilegal, pois expressamente vedada sua realização pelo Bacen. Aduz para tanto que as partes devem retornar ao status quo ante e que não recebeu nenhum valor das corrés.
+Defende que não participou da operação ilegal, não podendo ser considerada fornecedora do serviço.
+Pleiteia que seja afastada a alegada corresponsabilidade, ante a impossibilidade de responsabilização do mandante nos casos em que o mandatário age com excesso ou extrapola os poderes conferidos no mandato, como restou evidenciado na presente demanda.
+Decisão unipessoal: conheceu em parte do recurso especial interposto pela parte agravante e, nessa extensão, negou-lhe provimento, com fundamento no art. 932, III e IV, "a", do CPC/15.
+Agravo interno: repisa as alegações no sentido de que existe negativa de prestação jurisdicional por parte do Tribunal de origem. Sustenta que argumentos acerca da existência do Contrato e da aplicação da referida Resolução foram exaustivamente impugnados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu em parte do recurso especial interposto pela parte agravante e, nessa extensão, negou-lhe provimento, com base nas seguintes razões: i) ausência de negativa de prestação jurisdicional e ii) Súmula 283/STF.
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Inicialmente, constata-se que os arts. 489 e 1.022 do CPC/15 realmente não foram violados, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade.
+Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à responsabilidade de agravante em razão de seu dever fiscalizatório, conforme Resolução do Bacen, o monitoramento e controle das atividades de sua correspondente contratada, sob viés diverso daquele pretendido por INVEST CORRETORA DE CAMBIO LTDA, fato que não dá ensejo à interposição de embargos de declaração. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Por fim, observa-se que parte agravante, na origem, se utilizaram dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa dos art. 489 e 1.022 do CPC/15, devendo ser mantida a aplicação da Súmula 568/STJ.
+A agravante sustenta em seu recurso especial que as partes devem retornar ao status quo ante em razão da nulidade do contrato promovido sem conhecimento da corretora e em desacordo com as regras do Bacen, bem como que a agravante não pode ser considerada fornecedora pois a correspondente oferece serviço não autorizado pelo Bacen e extrapola os poderes conferidos no mandato, no entanto, não impugnou o seguinte fundamento utilizado pelo TJ/DF:
+"Compulsando os autos (ids 27670734 e 27670773), verifica-se que na data da efetivação do negócio estava em vigência (17/02/2020 a 08/04/2020) o "Contrato de Prestação de Serviços de Correspondente no País" firmado entre a devedora IEX e a ré UNIÃO ALTERNATIVA CORRETORA DE CÂMBIO LTDA, então contratante, que é a instituição autorizada pelo Banco Central a realizar operações cambiárias, sendo a IEX a casa de câmbio contratada/correspondente que atuava por conta e sob as diretrizes daquela.
+A par dessas questões, evidencia-se a obrigação solidária da ré UNIÃO ALTERNATIVA, posto que na qualidade de contratante cambiária assumiu inteira responsabilidade pelo atendimento prestado aos consumidores por meio da sua correspondente contratada.
+Ademais, diversamente do sustentado, é indevido impor ao consumidor as alegações de que as rés IEX e/ou J&B não observaram o contrato estipulado entre as empresas, sobretudo as regras específicas que regem o mercado de câmbio, tendo em vista que era dever da contratante realizar permanentemente fiscalizações com o objetivo de controlar/monitorar a atividade de atendimento ao público realizada por intermédio da sua correspondente, consoante os artigos 4º e 14 da aludida resolução do Bacen, senão vejamos:  .. " (e-STJ fl. 822)
+Razão pela qual deve ser mantido a decisão agravada que não conheceu do recurso especial nesta parte por inteligência da Súmula 283/STF deve ser mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
