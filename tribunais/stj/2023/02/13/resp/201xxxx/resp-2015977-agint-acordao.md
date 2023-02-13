@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 1.600-1.606 e-STJ) que negou provimento ao recurso.
+O agravante alega:
+Na monocrática agravada o douto relator não observou a existência de prequestionamento da questão federal nas decisões recorridas - Acórdão primeiro 1 que julgou a apelação e Acórdão segundo 2 , integrativo, que julgou os embargos de declaração da Fazenda Nacional e da parte Autora, não conhecendo, assim, por óbice da Súmula 282/STF, do especial interposto.
+Contudo, anotando nossa estima e respeito pelo magistrado prolator, a decisão merece ser revista, pois, como se demonstrará adiante, de forma breve, porém inequívoca, a questão federativa cuja violação se denuncia - FIXAÇÃO DE HONORÁRIOS DO ADVOGADO - ARTIGO 85 DO CPC - foi efetivamente decidida e fundamentada nestas deliberações.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SUPOSTA VIOLAÇÃO DO ART. 85, § 2º, § 3º e § 4º, DO CPC/2015. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ.
+1. Verifica-se que o órgão julgador não se pronunciou a respeito da tese referente ao art. 85, § 2º, § 3º e § 4º, do CPC/2015.
+2. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Em conformidade com a orientação pacificada do STJ, caberia à parte, nas razões do seu Recurso Especial, alegar o descumprimento do art. 1.022 do CPC/2015, a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30.11.2022.
+Conforme consignado na decisão agravada, em relação a alegada contrariedade ao art. 85, § 2º, § 3º e § 4º, do CPC/2015, verifica-se que o órgão julgador não se pronunciou a respeito da tese do recorrente referente a tal dispositivo legal.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE PARCELAS ANTERIORES À IMPETRAÇÃO DE MANDADO DE SEGURANÇA COLETIVO. AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS, AUTÔNOMOS OU NÃO, DA DECISÃO QUE NÃO ADMITIRA O RECURSO ESPECIAL. SÚMULA 182/STJ, POR ANALOGIA. INCIDÊNCIA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. RECURSO ESPECIAL. TERMO INICIAL DOS JUROS DE MORA. NOTIFICAÇÃO DA AUTORIDADE APONTADA COATORA, QUANDO DA IMPETRAÇÃO DO MANDAMUS. PRECEDENTES DO STJ, EM CASOS IDÊNTICOS. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 282/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, PROVIDO.
+(..)
+RECURSO ESPECIAL INTERPOSTO POR JOSÉ MANOEL MACZUZAK E OUTROS
+VIII. Quanto à pretensão de revisão do valor dos honorários advocatícios, não tendo o acórdão hostilizado expendido juízo de valor sobre o art. 85, §§ 3º e 4º, do CPC/2015, tido como violado, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação, ou não, ao caso concreto.
+V. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+VI. Consoante se depreende dos autos, em relação à fixação dos honorários advocatícios, o acórdão recorrido não expendeu juízo de valor sobre o dispositivo invocado como violado, na petição do Recurso Especial, nem a parte ora recorrente opôs Embargos de Declaração, nem suscitou, perante o Tribunal de origem, qualquer nulidade do acórdão recorrido, por suposta ausência da devida fundamentação do julgado, não se alegando, no Especial, ademais, violação ao art. 1.022 do CPC/2015, razão pela qual impossível aplicar-se, no caso, o art. 1.025 do CPC vigente.
+VII. No que diz respeito à definição do termo inicial dos juros de mora, o entendimento do Tribunal de origem não está em conformidade com a orientação do Superior Tribunal de Justiça, firmada, inclusive em hipóteses idênticas, no sentido de que "o termo inicial dos juros de mora, na ação de cobrança de parcelas pretéritas à impetração do mandado de segurança, é a data da notificação da autoridade coatora no writ" (STJ, REsp 1.778.798/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/02/2019), pois é o momento no qual ocorre a interrupção do prazo prescricional e a constituição em mora do devedor. Nesse sentido: STJ, REsp 1.916.549/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 07/04/2021; REsp 1.896.040/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/12/2020; AgInt no REsp 1.850.054/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 18/11/2020; AgInt no REsp 1.856.058/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 24/04/2020; AgInt no REsp 1.752.557/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 03/05/2019; AgInt no REsp 1.711.432/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/08/2018.
+IX. Agravo em Recurso Especial, interposto por SPPREV, não conhecido.
+X. Recurso Especial, interposto por JOSÉ MANOEL MACZUZAK e outros, conhecido, em parte, e, nessa extensão, provido.
+(REsp n. 1.953.504/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+Em conformidade com a orientação pacificada desta Corte, caberia à parte, nas razões do seu Recurso Especial, alegar o descumprimento do art. 1.022 do CPC/2015, a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+Cito precedente elucidativo:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CIVIL E COMERCIAL. MONITÓRIA. TRANSAÇÕES CELEBRADAS ATRAVÉS DE PREPOSTO. RESPONSABILIDADE DO RECORRENTE PELO DÉBITO. VIOLAÇÃO DOS ARTS. 401, 415 E 515, § 1º, DO CPC. SÚMULA NºS 211/STJ. MÉRITO. SÚMULAS NºS 283 E 284/STF. REVISÃO DA CONCLUSÃO DO JULGAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A tese veiculada aos artigos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não foi indicada a contrariedade ao art. 535 do Código de Processo Civil, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211 do STJ.
+(..)
+4. Agravo regimental não provido.
+(AgRg no REsp 535.554/MT, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/6/2013.).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
