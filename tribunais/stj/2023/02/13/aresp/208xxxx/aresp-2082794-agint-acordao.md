@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundado no art. 105, III, a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. AÇÃO ANULATÓRIA. ISS. SERVIÇOS DE ENGENHARIA. CARÁTER EMPRESARIAL NÃO VERIFICADO. EXISTÊNCIA DE PESSOALIDADE NO EXERCÍCIO DA ATIVIDADE. TRIBUTAÇÃO PRIVILEGIADA. ART. 9º, §§ 1º E 3º, DO DECRETO-LEI Nº 406/68. CABIMENTO.
+Em se tratando de serviços prestados por sociedades, em caráter social, o ISS será calculado em relação a cada profissional habilitado, nos moldes dos§§ 1º e3º do artigo 9º do Decreto-Lei nº. 406/68. Caso em que restou demonstrado o caráter pessoal da atividade prestada pelos profissionais da sociedade não empresária, a ensejar a nulidade do Auto de Lançamento discutido.
+APELO PROVIDO. UNÂNIME.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+31. E foi a força desse aspecto pessoal que motivou o Excelso STF a considerar recepcionada pela Constituição de 1988 o regime de tributação diferenciado do DL. 406/68, o qual houvera sido criado com o objetivo de evitar que profissionais liberais tivessem seus rendimentos tributados ao mesmo tempo pelo ISS e pelo Imposto de Renda.
+32. Assim, não resta dúvida de que, se o serviço for desenvolvido por uma sociedade em escala empresarial, como a recorrida, com os clientes procurando a sociedade em face da pessoa jurídica e não em face da pessoa de seus sócios, ou ainda se o serviço for prestado sem a responsabilidade pessoal dos sócios, restará afastada a tributação privilegiada.
+ ..
+35. Se esta se revela mais importante, pujante, ampla, do que a só prestação pessoal dos serviços pelos sócios, há elemento de empresa, restando afastada a pretensão de tributação do ISSQN em forma mitigada, cabível a exação com base no preço do serviço.
+36. Portanto, a toda vista, há flagrante divergência na aplicação da legislação federal, o que autoriza a interposição do presente recurso especial.
+37. Da mesma forma, enfrentados todos os argumentos do acórdão recorrido, inexistem os óbices da Súmula 284 do STF, eis que se pretendeu que o Tribunal recorrido exercesse sua manifestação sob este viés, o que não ocorrera, agredindo-se expressamente o artigo 489, do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISS. ANULAÇÃO DE AUTO DE INFRAÇÃO. VIOLAÇÃO DO ART. 489 DO CPC/2015 NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando a anulação de auto de infração. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+III - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+IV - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos i n fraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
