@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação com a finalidade de ver reconhecida a irregularidade de cobrança de IPVA, multas e CDAs, débitos relativos a carro do qual o autor não é proprietário. Requereu o interessado também a exclusão de seu nome dos cadastros do carro e a condenação dos réus indenizarem danos morais. Na sentença, os pedidos foram julgados procedentes em parte. No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA Cobrança de débitos vinculados a veículo adquirido de forma fraudulenta IPVA CDA Uso de documento falso para aquisição de carro em nome do autor Provada a ocorrência de fraude, há de se desvincular o nome da vítima dos registros do veículo e reconhecer a irregularidade das cobranças impugnadas Indenização por danos morais descabida Embora o autor tenha experimentado abalo psíquico pelo apontamento de seu nome como devedor, a responsabilidade pelo evento não é da Fazenda Pública do Estado de São Paulo ou do Detran Fraude perpetrada por terceiro que afasta a obrigação do Estado de indenizar a vítima Precedentes deste Tribunal de Justiça Sentença de parcial procedência mantida APELO DO AUTOR E REMESSA NECESSÁRIA DESPROVIDOS.
+No recurso especial, a parte recorrente alegou violação dos arts. 186 e 927 do CC. Aduziu ainda necessidade de majoração do valor da indenização a título de danos morais.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Ocorre, todavia, que a leitura das razões do agravo em recurso especial bem demonstra que a matéria recursal restringe-se a analisar a condenação ao pagamento de danos morais, com base na negativa de vigência aos artigos 186 e, 927, ambos do Código Civil, cujos dispositivos trazem o direito a indenização pelos danos morais, bem como que tanto a fixação a título de dano moral devem respeitar os princípios da razoabilidade a proporcionalidade, o que por ora NÃO ENSEJA QUAISQUER REEXAMES DE ASPECTOS CONCRETOS DA CAUSA, haja vista tratar-se de fraude praticado por terceiro, e, restou devidamente comprovado o nexo causal e, o ato ilícito praticado por parte da agravada FESP, posto que esta se omitiu com relação a documentação comprobatória da fraude, e ainda gerou CDA" sem nome da parte recorrente, mesmo sabendo que o veículo era objeto de fraude, restando devidamente comprovado o direito ao dano moral!
+ ..
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. COBRANÇA DE DÉBITOS VINCULADOS A VEÍCULO ADQUIRIDO DE FORMA FRAUDULENTA. IPVA. CDA. USO DE DOCUMENTO FALSO PARA AQUISIÇÃO DE CARRO EM NOME DO AUTOR. DANO MORAL. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação com a finalidade de ver reconhecida a irregularidade de cobrança de IPVA, multas e CDAs, débitos relativos a carro do qual o autor não é proprietário. Requereu o interessado também a exclusão de seu nome dos cadastros do carro e a condenação dos réus indenizar danos morais. Na sentença, os pedidos foram julgados procedentes em parte. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, especialmente quanto à presença ou não dos elementos que configuram o dano moral indenizável. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Lado outro, verifica-se que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+IV - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+V - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ ..
+Os termos em que se lavrou o v. Acórdão embargado são claros e não dão margem a dúvida quanto à compreensão de seu sentido.
+Assim, o v. Aresto é firme ao reconhecer a excludente de responsabilidade por culpa de terceiro, conforme leitura do seguinte trecho:
+"Os documentos do autor foram usados de forma fraudulenta para a aquisição de um carro (fls. 27 e 41 a 44). Essa conduta provocada por terceiro causou a inclusão indevida do nome do autor como contribuinte de IPVA em São Paulo.
+ ..  A FAZENDA, depois de comunicada a venda, tem o dever legal de fazer o lançamento do imposto. Não é exigível que a Administração investigue a regularidade do negócio para averiguar a ocorrência de fraudes.
+Por isso, embora o autor tenha experimentado dano moral pelo apontamento de seu nome como devedor,a responsabilidade pelo ato não é da ré. Não era possível à ré evitar que a fraude fosse perpetrada.
+O mesmo entendimento se aplica ao DETRAN. A fraude praticada por terceiro rompe o nexo de causalidade e afasta a obrigação de indenizar por parte dos réus" (fls. 175).
+Não há vício na decisão judicial quando a tese defendida pelo embargante é refutada (fl. 217).
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, especialmente quanto à presença ou não dos elementos que configuram o dano moral indenizável. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Lado outro, verifica-se que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
