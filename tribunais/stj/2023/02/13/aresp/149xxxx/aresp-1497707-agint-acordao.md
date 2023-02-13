@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Luiz Henrique Volpe Camargo desafiando decisão pela qual neguei provimento ao agravo, por entender que: (I) o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; (II) tendo sido efetuada transação pelas partes sem anuência do advogado e antes de pronunciamento judicial fixando os honorários, tem o patrono direito à verba contratual, mas não à sucumbencial, pois esta ainda se encontrava na esfera da expectativa de direito.
+Em suas razões, a parte agravante sustenta que: (I) o precedente citado pela decisão agravada não se amolda à hipótese em julgamento, pois o que se alega, em vista da homologação do acordo realizado entre as partes, é que não tratou sobre os honorários advocatícios devidos em decorrência da atuação no processo, e o juízo a quo deveria ter fixado honorários sucumbenciais; (II) existem outros precedentes que se orientam no sentido de que, em sendo resolvido o processo por composição das partes sem dispor sobre honorários sucumbenciais, a verba deve ser fixada pelo juízo de origem, aplicando-se o princípio da causalidade; (III) a transação realizada entre as partes sem a participação do advogado não prejudica o seu direito de receber os honorários advocatícios, ainda que o acordo tenha sido realizado antes da sentença; e (IV) deve ser imputado o pagamento de honorários ao Município que deu causa à instauração do processo, porque houve atuação do advogado constituído pela credora, o qual teve que se valer das vias judiciais para conseguir o adimplemento do débito.
+Sem impugnação (fl. 435).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE COBRANÇA. HOMOLOGAÇÃO DE ACORDO SEM ANUÊNCIA DO PATRONO. AUSÊNCIA DE PRONUNCIAMENTO JUDICIAL PRÉVIO. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. IMPOSSIBILIDADE.
+1. "A jurisprudência desta Corte é no sentido de que se a transação for realizada entre as partes antes do pronunciamento judicial fixando honorários, como o caso em apreço, tem o patrono direito à verba contratual, mas não à sucumbencial, pois essa ainda encontrava-se na esfera da expectativa de direito" (AgInt no AREsp n. 1.953.138/RR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022).
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese a os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, nos termos da orientação firmada no âmbito desta Corte de Justiça, "A transação, sabidamente, pressupõe que as partes façam concessões mútuas com o objetivo de pôr fim ao litígio (CC/2002, art. 840). Por esse motivo, " n os casos em que houve a revogação, pelo cliente, do mandato outorgado ao advogado, este não está autorizado a demandar honorários de sucumbência da parte adversa nos próprios autos da execução relativa ao objeto principal do processo. Nessas hipóteses, o antigo patrono deve pleitear seus direitos (por exemplo, honorários contratuais e indenização pelos honorários sucumbenciais de que foi privado) em ação autônoma proposta contra o ex-cliente" (AgRg no AREsp 757.537/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira T urma, julgado em 27/10/2015, DJe 16/11/2015).
+Assim, tal como constatou a decisão agravada, a homologação de acordo firmado pelas partes sem anuência do advogado - e antes de pronunciamento judicial fixando os honorários advocatícios - não confere ao patrono o direito à verba sucumbencial, a qual se encontrava apenas na esfera da expectativa de direito.
+Na mesma linha de percepção:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RANSAÇÃO REALIZADA NA AUDIÊNCIA DE CONCILIAÇÃO AUSÊNCIA. SEM ESTIPULAÇÃO DO ÔNUS DA SUCUMBÊNCIA. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que se a transação for realizada entre as pares antes do pronunciamento judicial fixando honorários, como o caso em apreço, tem o patrono direito à verba contratual, mas não à sucumbencial, pois essa ainda encontrava-se na esfera da expectativa de direito.
+2. É inviável rever a conclusão do Tribunal de origem quanto ao preenchimento dos requisitos para o reconhecimento da transação, porquanto demandaria reexame de provas, o que é vedado nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.953.138/RR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. Segundo a jurisprudência desta Corte, efetuada transação pelas partes sem anuência do advogado de uma das partes e antes de pronunciamento judicial fixando os honorários, tem o patrono direito à verba contratual, mas não à sucumbencial, pois esta ainda se encontrava na esfera da expectativa de direito. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.754.419/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2021, DJe de 4/11/2021.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
