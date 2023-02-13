@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido de liminar, impetrado em f avor de SIDINEI DE OLIVEIRA JARDIM, em face de v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls.17-26):
+"AGRAVO EM EXECUÇÃO. NOVATIO LEGIS IN MELLIUS. DECRETO 9.847/19 E PORTARIA 1.222 DO COMANDO DO EXÉRCITO. NOVA DOSIMETRIA DA PENA PELO JUÍZO DA EXECUÇÃO. SÚMULA 611 DO STF E ART. 66, I, DA LEP. REFORMATIO IN PEJUS. INOCORRÊNCIA. PRINCÍPIO DA PROPORCIONALIDADE. PENA REDIMENSIONADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS OU SURSIS. IMPOSSIBILIDADE. PRISÃO DOMICILIAR. MONITORAMENTO ELETRÔNICO. REGIME ABERTO. RETIRADA INVIÁVEL.
+1. A superveniência de lex mitior no curso da execução penal autoriza o juiz da VEC a realizar nova dosimetria da pena. Inteligência da Súmula 611 do STF e art. 66, I, da LEP. Hipótese em que houve desclassificação do crime de posse ilegal de arma de fogo de uso restrito para posse irregular de arma de fogo de uso permitido, em razão da reclassificação dos calibres nominais pela Portaria 1.222 do Comando do Exército, que regulamentou o Decreto 9.847/19. Juiz da execução que não está adstrito aos parâmetros de cálculo dosimétrico utilizados na sentença, desde que não seja agravada a situação final do apenado. Reformatio in pejus não verificada. Precedentes.
+2. Apesar de não caracterizada ilegalidade no proceder do magistrado da execução, no caso concreto a pena aplicada deve ser reduzida, para atender aos critérios de proporcionalidade e razoabilidade com o novo tipo penal em que incurso o agravante. Pena redimensionada.
+3. Inviável a substituição da pena privativa de liberdade por restritiva de direitos ou sursis, ausentes os requisitos que autorizam os benefícios, nos termos do art. 44, III e art. 77, II, ambos do Código Penal.
+4. A concessão de prisão domiciliar, em razão da ausência de vagas em estabelecimento compatível, atende ao disposto na Súmula Vinculante nº 56. A manutenção do equipamento de monitoramento eletrônico, quando as condições impostas são compatíveis com aquelas estabelecidas para o regime aberto, como no caso, não caracteriza ilegalidade.
+AGRAVO PARCIALMENTE PROVIDO."
+Daí o presente writ, no qual a d. Defesa busca, em suma, a retirada do monitoramento eletrônico imposto ao paciente, com consequente substituição da pena privativa de liberdade por restritivas de direito ou concessão da suspensão condicional da pena.
+Requer, inclusive LIMINARMENTE, a concessão da ordem, "reconhecendo a ilegalidade aventada, pelos fatos e fundamentos jurídicos acima expostos, consequentemente devendo ser expedido alvará de soltura na origem em favor do paciente com a imediata retirada do monitoramento eletrônico; e consequentemente sendo convertida a pena de detenção por restritiva de direitos e/ou suspensão da pena conforme exposto; b) No mérito, requer a concessão da ordem, para tornar definitiva a liminar" (fl. 12).
+Liminar indeferida, às fls. 93-94, em Em. Relatoria do Min. João Otávio de Noronha.
+Informações, às fls. 97-114.
+O d. Ministério Público Federal oficiou pela denegação da ordem, às fls. 118-121, em r. parecer de seguinte ementa:
+"HABEAS CORPUS. EXECUÇÃO PENAL. REEDUCANDO QUE CUMPRE PENA DE 1 (UM) ANO E 8 (OITO) MESES DE DETENÇÃO, EM REGIME ABERTO. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS OU DE APLICAÇÃO DO SURSIS. INVIABILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AUSÊNCIA DOS REQUISITOS SUBJETIVOS. ARTS. 44, III, E 77, II, AMBOS DO CP. PARECER PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+O presente writ encontra-se prejudicado, diante da perda superveniente de seu objeto.
+Em consulta ao site do eg. Tribunal de origem, verifica-se que, em 05/10/2022, foi expedido alvará de soltura em favor do paciente, em virtude do término do cumprimento de sua pena.
+Verbis:
+"O(A) Doutor(a) Juiz(a) de Direito, da Vara de Execuções Criminais, desta Comarca, Estado do Rio Grande do Sul, MANDA ao Ilmo(a) Senhor(a) Superintendente dos Serviços Penitenciários do Estado, ou a quem suas vezes fizer, que ponha IMEDIATAMENTE EM LIBERDADE, se por outro motivo não estiver recolhido(a) o(a) réu(ré), acima qualificado, em virtude de TÉRMINO DE PENA " (grifei).
+Tudo o que impede a análise aqui posta, pois a extinção da pena constitui novo título, o qual modifica drasticamente a situação jurídica e torna ineficaz qualquer manifestação desta eg. Corte Superior, até mesmo pela falta de dialeticidade das razões aqui apresentadas, em face do superveniente.
+Ante do exposto, julgo prejudicado o presente habeas corpus.
+P. I.
