@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE BALNEARIO CAMBORIU contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado:
+AGRAVO INTERNO. DECISÃO MISTA DA 2º VICE-PRESIDÊNCIA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL, NA FORMA DO ART. 1.030, INCISO I, ALÍNEA "B", DO CPC, E, QUANTO AO MAIS, NÃO O ADMITIU. TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. FALECIMENTO DO EXECUTADO ANTES DA CITAÇÃO NO FEITO EXECUTIVO. PRETENSO REDIRECIONAMENTO DA EXECUÇÃO CONTRA O ESPÓLIO. IMPOSSIBILIDADE. ERRO FORMAL OU MATERIAL NÃO CARACTERIZADOS NO CASO CONCRETO. ACÓRDÃO DESTA CORTE DE JUSTIÇA EM CONSONÂNCIA COM ENTENDIMENTO CRISTALIZADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA EM SEDE DE RECURSO REPETITIVO (TEMA 166/STJ) E NA SÚMULA N. 392/STJ. APLICAÇÃO CORRETA DA TESE PARADIGMA AO CASO CONCRETO. AGRAVO MANIFESTAMENTE IMPROCEDENTE. COMINAÇÃO DE MULTA AO PATAMAR DE 1% DO VALOR ATUALIZADO DA CAUSA. DEC/SUMMANTIDO INCÓLUME. RECURSO DESPROVIDO. O Superior Tribunal de Justiça, em julgamento de recurso repetitivo, firmou orientação no sentido de que "a Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução" (STJ, Resp n. 1.045.472/BA, Rel. Ministro Luiz Fux, Primeira Seção, j. 25-11-2009 - Tema 166/STA Tendo em vista que manejado agravo interno contra decisão que se amparou em entendimento firmado em recurso especial submetido à sistemática dos recursos repetitivos, é de se reconhecer manifesta a improcedência do recurso, sendo, pois, aplicável a multa prevista no § 4º do art. 1.021 do CPC.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado na alínea "c" do permissivo constitucional, o recorrente sustenta a existência de divergência jurisprudencial.
+Não houve contrarrazões ao recurso especial.
+O Tribunal de origem inadmitiu o recurso especial em virtude do não cabimento de apelo nobre contra agravo interno que mantém o posicionamento da Vice-Presidência da Corte de origem com relação à negativa de seguimento.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Não houve contraminuta ao agravo.
+É o relatório. Decido.
+O agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A insurgência não merece prosperar uma vez que incabível o recurso especial.
+Interposto recurso especial (e-STJ fls. 221/227), a Vice-Presidência da Corte de origem negou-lhe seguimento à luz do Tema n. 166/STF.
+O agravo interno interposto contra a negativa de seguimento foi desprovido pelo Tribunal a quo (e-STJ fls. 360/366).
+Trata-se do acórdão ora recorrido.
+É firme a jurisprudência do STJ no sentido de que o único recurso cabível para debater sobre possíveis equívocos na aplicação do art. 543-B ou 543-C (art. 1.030, I, do CPC/2015) é o agravo interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, DJe de 1º/4/2014).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO DO AGRAVO DO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que a Corte de origem negou seguimento ao recurso especial com base no art. 1.030, I, do CPC/2015 tendo em vista tratar-se de matéria inserida em julgamento realizado sob o regime de repercussão geral (RE 1.043.313/RS).
+2. É firme a jurisprudência do STJ no sentido de que o único recurso cabível para debater sobre possíveis equívocos na aplicação do art. 543-B ou 543-C (art. 1.030, I, do CPC/2015) é o agravo interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, DJe de 1º/4/2014).
+3. A interposição de agravo em recurso especial, ao invés de agravo interno, contra decisão do Tribunal de origem que nega seguimento ao apelo nobre com base no inciso I do art. 1.030 do CPC/2015 configura erro grosseiro, uma vez que, ante a disposição expressa do § 2º do mencionado dispositivo, inexiste dúvida objetiva acerca da insurgência cabível, não sendo possível a aplicação da fungibilidade recursal ou instrumentalidade das formas.
+4. Ante incumbência exclusiva e em caráter definitivo do Tribunal de origem para realizar, em juízo de adequação, a conformação do caso dos autos a entendimento firmado em recursos repetitivos ou representativos de controvérsia, descabe ao Superior Tribunal de Justiça realizar nova análise da controvérsia, sob pena de usurpação da competência da Corte ordinária.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.989.237/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
