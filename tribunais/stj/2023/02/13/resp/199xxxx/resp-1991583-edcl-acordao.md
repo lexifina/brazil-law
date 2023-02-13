@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Convocado o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+RELATÓRIO
+Cuida-se de embargos de declaração opostos contra acórdão proferido por esta Quinta Turma, de minha relatoria, que negou provimento ao agravo regimental, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ART. 144-A, DO CPP. ALIENAÇÃO ANTECIPADA DE BENS. REQUISITOS PREENCHIDOS. RECURSO NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo Ministro Relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, Dje 28/3/2019).
+3. A jurisprudência deste Superior Tribunal de Justiça sedimentou-se no sentido de que " o  art. 144-A do Código de Processo Penal, acrescido ao diploma pela Lei n. 12.694/2012, permite a alienação antecipada de bens que correm risco de perecimento ou desvalorização." (AgRg no RMS n. 65.878/ES, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021, sem grifos no original).
+4. No caso concreto, a determinação de alienação antecipada foi tida como a melhor alternativa para impedir a desvalorização patrimonial do automóvel. Além disso foi considerada a dificuldade da Polícia Federal para manter o bem.
+5. Agravo regimental improvido. (e-STJ fls. 988/989)
+O embargante alega que o acórdão foi omisso ao não se manifestar sobre as seguintes questões: a) avaliação vil do bem; b) mandado genérico e; c) automóvel objeto de busca e apreensão e não de sequestro.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS REJEITADOS.
+1. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. Embargos declaratórios rejeitados.
+VOTO
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, isso porque o acórdão embargado decidiu com clareza os temas mencionados no recurso.
+O tema relacionado à possível venda por preço vil foi corretamente enfrentado pelo Tribunal Regional que, fazendo referência ao art. 144-A, § 2º, do CPP, assentou que a própria lei impede a venda por preço inferior a 80% do avaliação, de forma que a aquisição do automóvel por preço irrisório se revela juridicamente impossível.
+A alegação acerca do caráter genérico do mandado igualmente foi analisada pela Corte de origem. Confira-se:
+Já no que se refere à alegada omissão no voto acerca do caráter genérico e ilegal do mandado de busca e apreensão (pois fez referência imprecisa ao utilizar o termo "carro de luxo"), cumpre, mais uma vez, explicitar que o apelo submetido à apreciação deste Tribuna! teve seu objeto limitado pelo próprio recorrente às condições envolvendo necessidade e proporcionalidade da medida de alienação antecipada e à possibilidade de nomeá-lo depositário fiel.
+Vê-se que o TRF/5ª Região registrou que a questão não fora objeto do apelo, que se limitou às teses relacionadas às condições envolvendo a necessidade e proporcionalidade da medida e à possibilidade de nomear o recorrente como depositário fiel, ressentindo-se o recurso especial, nesse ponto, do necessário prequestionamento.
+Por fim, reitera-se uma vez mais, que a jurisprudência desta Corte é assente no sentido de que  o  art. I44-A do Código de Processo Penal, acrescido ao diploma pela Lei n. 12.694/2012, permite a alienação antecipada de bens que correm risco de perecimento ou desvalorização. (AgRg no RMS n. 65.878/ES, Rei. Ministro JESUÍNO RISSATO - Desembargador Convocado do TJDFT -, Quinta Turma, DJe 20/08/2021).
+Ainda nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO INCIDENTE DE SEQUESTRO. ALIENAÇÃO ANTECIPADA DE VEÍCULO SEQUESTRADO. NECESSIDADE DE DEMONSTRAÇÃO DE DETERIORAÇÃO, DEPRECIAÇÃO OU DIFICULDADE NA MANUTENÇÃO DO BEM. OCORRÊNCIA. DETERMINAÇÃO DO JUÍZO DE DEPÓSITO DO VALOR DA ALIENAÇÃO EM CONTA VINCULADA AO JUÍZO PENAL. LEGALIDADE. RECURSO DESPROVIDO.
+1. O sequestro é medida assecuratória cujo deferimento acarreta a indisponibilidade dos bens móveis ou imóveis adquiridos pelo agente como proveito da infração penal ou produto indireto (fructus sceleris), cuja finalidade precípua é garantir a reparação do dano causado pelo delito e a perda do produto ou proveito auferido pelo agente com a prática do crime, evitando-se, pois, benefício decorrente da própria torpeza.
+2. No contexto da implementação de medidas assecuratórias reais (CPP, arts. 125-144) ou de apreensão (CPP, art. 240, § 1º, b), os bens direitos ou valores constritos podem ser alienados antecipadamente, nos termos do art. 144-A, do Código de Processo Penal, caso o bem esteja sujeito a qualquer grau de deterioração ou depreciação ou houver dificuldade para a sua manutenção. Perceba-se que as medidas cautelares reais tem a finalidade de assegurar o confisco como efeito da condenação, a garantir indenização à vítima da infração penal, pagamento de despesas processuais e penas pecuniárias ao Estado e, paralelamente, obstar o locupletamento indevido do réu com a prática da infração penal. Por sua vez, a alienação antecipada é uma cautela da efetividade da medida assecuratória real decretada, com fim de manter a incolumidade do valor do bem constrito, e não o bem em si. Portanto, não se trata de garantia dos interesses do réu, mas sim dos bens jurídicos protegidos pela norma processual em questão, que são os interesses patrimoniais das eventuais vítimas, o patrimônio público, relativamente aos dispêndios estatais na persecução penal, e a idoneidade do sistema penal, desestimulando o criminoso a cometer crimes, tendo em vista a ausência de vantagem patrimonial decorrente (prevenção especial negativa).
+ ..
+5. Recurso desprovido. (RMS n. 52.537/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/9/2017.)
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
