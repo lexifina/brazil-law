@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por ORIENTE NEGOCIOS IMOBILIARIOS LTDA., contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: embargos de terceiro, opostos pelo agravante, em face de HERACLITO AMÂNCIO PEREIRA JUNIOR e OUTROS, em razão da indevida penhora de valores oriundos de cessão de créditos de precatórios.
+Sentença: rejeitou os embargos de terceiro opostos pela agravante, em razão da configuração da fraude à execução, e declarou a ineficácia em relação à cessão de créditos precatórios realizado entre a agravante e a Construtora Garante, mantendo-se a constrição dos valores..
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+EMENTA: PROCESSO CIVIL. APELAÇÃO CÍVEL. FRAUDE À EXECUÇÃO. CESSÃO DE CRÉDITO. INSOLVÊNCIA, BOA-FÉ. RECURSO CONHECIDO E IMPROVIDO. 1 - Para a fraude à execução é preciso que o devedor já tenha sido citado para o processo, seja ele de conhecimento ou de execução, sendo certo, na hipótese, que o demandado tinha plena ciência da existência de processo judicial movido contra ele quando alienou bens de seu patrimônio mediante a cessão de créditos precatórios efetivada. II - Notória que a realização do contrato de cessão de créditos precatórios no caso em debate acarreta situação de insolvência da cedente, vez que a vultuosa quantia objeto da cessão em monta superior a três milhões de reais, aliado à sua situação cadastral de baixada, denota impossibilidade financeira à satisfação de seus credores, ora embargados, até porque não fora sequer alegada á existência de outros bens da executada que pudesse cumprir tal desiderato. III - Entendeu-se não haver como afirmar pela boa-fé, alegada somente de forma genérica em razões de apelo, da cessionária/embargante na entabulação do contrato de cessão de créditos precatórios, até mesmo porque além de provas em seu desfavor não há qualquer elemento ou mesmo comportamento processual que a corrobore. IV - Apelação conhecida e improvida.
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 7/STJ.
+Razões do agravo: Nas razões do presente recurso o agravante defende a inaplicabilidade da Súmula 7/STJ e a possibilidade de revaloração das provas, o que teria sido demonstrado nas razões do agravo em recurso especial.
+Sustenta que "para alteração do decidido no acórdão de segundo grau, no que se refere à conclusão acerca da configuração da fraude à execução, objeto do recurso especial, não se faz necessário a incursão no acervo fático-probatório dos autos" (e-STJ, fl. 671).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Embargos de terceiro, opostos em razão de penhora de valores oriundos de cessão de créditos de precatórios.
+2. O reexame de fatos e provas em recurso especial são inadmissíveis.
+3. Agravo interno no agravo em recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 7/STJ.
+Veja-se o que constou na decisão (e-STJ fls. 664/666):
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da configuração da fraude à execução, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+1. Da Súmula 7/STJ
+Alterar as conclusões adotadas pelo Tribunal de origem, no que se refere à configuração da fraude à execução, de fato, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Cumpre ressaltar o que restou consignado pelo Tribunal de origem quanto à questão:
+Pois bem. A apelante, na qualidade de embargante de terceiro, assevera ser a legítima titular dos valores penhorados no rosto dos autos do precatório de n. 00 00217-20.2018.8.08.0000 mediante determinação judicial emanada nos autos de n. 0 504801-95.2000.8.08.0035, demanda esta consistente em ação de execução intentada por mais de quarenta autores (ora embargados) em face da Construtora Garante Ltda (cedente dos créditos precatórios), e que encontra-se atualmente em fase de cumprimento de sentença.
+Aludida demanda executiva fora ajuizada há mais de vinte anos (02.08.2000), tendo a Construtora Garante sido condenada ao pagamento de R$ 30.000,00 (trinta mil reais) a cada requerente. Assim, para garantir a efetividade do processo, e com esteio no art. 860, do CPC, entendeu por bem o Juízo a quo determinar a penhora no rosto dos autos do precatório mencionado.
+Assim, com a interposição dos embargos de terceiro ajuizados pelo então cessionário dos créditos precatórios que ora se discute, o magistrado primevo, por sua vez, entendeu por reconhecer a existência de verdadeira fraude à execução ao rejeitá-los, mantendo-se, portanto, a constrição dos valores penhorados no rosto dos respectivos autos.
+Dito isto, de pronto, adianto que o manejo atento deste caderno processual não me permite compreensão diversa a que chegou o magistrado prolator da sentença ora recorrida, o qual lastreou-se, sobretudo no disposto no art. 792, inc. IV, do CPC, que dispõe o seguinte:
+(..)
+Pois bem. Extrai-se dos autos que a cessão de créditos precatórios realizada entre a ORIENTE NEGÓCIOS IMOBILIÁRIOS (cessionária) e a Construtora Garante (cedente) ocorrera em 24 de janeiro de 2019, data esta na qual já havia a Construtora Garante, na qualidade de executada nos autos n. 0504801-95.2000.8.08.0000, sido citada validamente.
+E como é sabido, para a fraude à execução, é preciso que o devedor já tenha sido citado para o processo, seja ele de conhecimento ou de execução, sendo certo, in casu, que o demandado tinha plena ciência da existência de processo judicial movido contra ele quando alienou bens de seu patrimônio mediante a cessão de créditos precatórios efetivada.
+Aliás, aludida cessão fora realizada quando já em fase de cumprimento de sentença do feito executivo, o qual se iniciou em 08.09.2016, o que torna indubitável a ciência da então executada (Construtora Garante) acerca de seu débito.
+Dada conclusão é inegável, ao passo que a cedente Construtora Garante, além de validamente citada, fora intimada para o cumprimento do comando judicial tanto em 31.07.2017 como em 08.03.2018, manifestando-se somente em 23.03.2018, não realizando, contudo, qualquer ato que denotasse seu interesse em adimplir com sua obrigação.
+Aliás, como bem asseverado pelo Juízo a quo "é possível verificar que o precatório antes da cessão realizada entre as partes já estava incluso na lista de pagamento para recebimento do valor em 2019, e antes da cessão realizada, devedora Construtora Garante já tinha sido intimada a pagar o débito na ação de cumprimento de sentença".
+Importante destacar, inclusive, que a então cedente Construtora Garante há tempos (desde 2015) encontra-se com sua situação cadastral informada como "baixada" por motivo de "omissão contumaz", depreendendo-se do feito, ser decorrente da não apresentação de declarações contábeis à Receita Federal por mais de cinco anos seguidos.
+Dada situação torna notória que a realização do indigitado contrato de cessão de créditos precatórios acarreta situação de insolvência da cedente, vez que a vultuosa quantia objeto da cessão em monta superior a três milhões de reais, aliado à sua situação cadastral de baixada, denota impossibilidade financeira à satisfação de seus credores, ora embargados, até porque não fora sequer alegada a existência de outros bens da executada que pudesse cumprir tal desiderato.
+(..)
+Outra questão que salta aos olhos é a alegação de parentesco entre os sócios das pessoas jurídicas que entabularam a cessão dos créditos precatórios, a qual além de não ser rechaçada em nenhum momento pelo apelante, encontra-se aventada em documentos colacionados.
+Não só por sobrenomes coincidentes entre dois sócios das pessoas jurídicas em comento (Tarcísio Abreu de Melo e Antônia Abreu de Sousa), mas também por informações apresentadas em redes sociais na qual extrai-se haver relacionamento intimo, provavelmente na condição de casados/companheiros, entre o sócio da Construtora Garante Tarcísio Abreu de Melo e a sócia da Oriente Valéria Montenegro de Andrade Valentim.
+Dado panorama, em meu sentir, não me permite afirmar pela boa-fé, alegada, inclusive, somente de forma genérica em razões de apelo, da cessionária ORIENTE na entabulação do contrato de cessão de créditos precatórios, até mesmo porque além de provas em seu desfavor não há qualquer elemento ou mesmo comportamento processual que a corrobore.
+Não há nos autos, aliás, qualquer comprovação atinente ao adimplemento das próprias prestações contratadas na cessão de créditos precatórios, situação esta que aliada aos demais componentes dos autos convence-me da fraude à execução reconhecida pelo magistrado sentenciante.
+Por fim, importante registrar que a despeito do argumento de "que a Cessão de Crédito tem validade diante de terceiros, pois foi celebrada mediante instrumento público", é certo que o mero caráter público do documento não confere ao embargante o acolhimento de sua pretensão. (e-STJ, fls. 539/543)
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa à referida Súmula.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
