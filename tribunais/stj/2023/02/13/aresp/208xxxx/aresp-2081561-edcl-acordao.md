@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por ANA CRISTINA RODRIGUES MARQUES contra acórdão que negou provimento ao agravo interno no agravo em recurso especial que interpusera, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE RECONHECEU A LEGITIMIDADE DA INVETARIANTE PARA FIRMAR ACORDO EM NOME DO ESPÓLIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Cumprimento de sentença em que foi proferida decisão reconhecendo a legitimidade da inventariante para firmar acordo em nome do espólio.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo interno no agravo em recurso especial não provido.
+Em suas razões, aponta a embargante suposta omissão no acórdão embargado, porquanto impugnou, nas razões do recurso especial, todos os fundamentos exarados pelo Tribunal de origem, ao demonstrar a existência de questão excepcional na hipótese dos autos, qual seja, a assinatura de Termo Amigável de Partilha entre a herdeira e a viúva-meeira, com expressa previsão de eficácia e validade imediatas das suas condições, independentemente de outras formalidades, inclusive de publicação da sentença homologatória.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+De fato, o acórdão embargado foi claro quanto a manter a aplicação das Súmulas 211/STJ e 283 e 284/STF e a falta de similitude no dissídio jurisprudencial, conforme se depreende dos seguintes trechos:
+No que tange à fundamentação deficiente, a agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa ao art. 1.991 do CC/02. Isso porque o referido dispositivo legal é cristalino ao prever que a administração da herança é exercida pelo inventariante até a homologação da partilha enquanto a agravante limitou-se a sustentar que o termo de partilha amigável firmado entre a herdeira e a viúva- meeira não necessitava de homologação judicial para produzir efeitos entre as partes. Inafastável, pois, a incidência da Súmula 284/STF.
+(..)
+Ademais, o art. 1.784 do CC/02 não foi objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+(..)
+Conforme consignado na decisão agravada, a agravante não impugnou devidamente todos os fundamentos que sustentam o acórdão recorrido no que se refere à validade do acordo realizado entre a inventariante do espólio e a empresa agravada.
+Constata-se, de fato, que os seguintes fundamentos não foram devidamente atacados: i) nos termos do art. 1.991 do CC/02, o inventariante tem administração do espólio até a homologação da partilha; ii) somente após a disponibilização no DJE é que a sentença de partilha produz todos os seus efeitos, mesmo porque, antes dessa data, as partes não teriam conhecimento da homologação judicial, inclusive ante o tempo decorrido desde o termo de partilha celebrado entre as herdeiras.
+No recurso especial, a agravante limitou-se a argumentar que: i) a inventariante não detinha qualquer legitimidade para negociar/transacionar os direitos pertencentes exclusivamente à agravante por conta do acordo concretizado entre ambas, sendo certo que, em razão dele, já não existia mais universalidade e/ou indivisibilidade de bens; ii) os direitos transacionados já haviam sido partilhados pela viúva-meeira e pela herdeira, únicas partes interessadas no processo de arrolamento, quando assumiram a posse de seus respectivos quinhões; iii) a gestão dos bens do espólio, por parte da pessoa investida como inventariante, somente persiste enquanto não houver sido realizada a partilha, porquanto, uma vez encerrado o caráter de universalidade e/ou indivisibilidade da herança, caberá aos herdeiros e demais legitimados atuar na administração de seus respectivos quinhões; iv) o termo de partilha amigável firmado entre a herdeira e a viúva- meeira não necessitava de homologação judicial para produzir efeitos entre as p artes; v) no termo amigável de partilha, existe expressa previsão de eficácia e validade imediata das suas condições, independentemente de outras formalidades.
+Assim, não impugnou, de forma consistente, a necessidade de homologação do termo de partilha amigável nem seus efeitos se darem a partir da disponibilização no DJe.
+(..)
+Por fim, verifica-se que os arcabouços fáticos dos julgados cotejados são divergentes. O acórdão recorrido concluiu pela validade do acordo realizado entre a inventariante do espólio e a empresa agravada, tendo em vista ter poderes para representá-lo até a homologação da partilha. Por outro lado, o acórdão paradigma trata de situação em que o inventário e a partilha amigável dos bens foi realizada por meio de escritura pública.
+Na verdade, revela-se inequívoca a pretensão da embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Portanto, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
