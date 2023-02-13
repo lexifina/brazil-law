@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por HENRIQUE EDUARDO LYRA ALVES no qual se aponta como autoridade coatora o Tribunal Regional Federal da 5ª Região.
+Depreende-se dos autos que o recorrente foi denunciado nos autos da Ação Penal n. 0805556-95.2017.4.05.8400, em trâmite na 14ª Vara Federal da Seção Judiciária/RN, como incurso nos arts. 317, § 1º, e 333, do Código Penal; 1º, § 4º, da Lei n. 9.613/1998; e 2º, § 4º, inciso II, da Lei n.12.850/2013.
+Impetrado writ na origem, no qual se buscava o trancamento da ação penal, a o rdem foi denegada.
+É, em síntese, o relatório.
+A presente insurgência perdeu seu objeto, em razão da decisão proferida no RHC n. 115.054/RN, de minha relatoria, no qual a Sexta Turma, em sessão realizada no dia 28/9/2021, declarou a incompetência da Justiça Federal para o processo e julgamento da Ação Penal n. 0805556-95.2017.4.05.8400 (Operação Manus), que, até então, tramitava perante a 14ª Vara Federal da Seção Judiciária do Rio Grande do Norte e, por conseguinte, determinou a sua remessa para a Justiça eleitoral. O acórdão está assim ementado:
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. LAVAGEM DE DINHEIRO,ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO ATIVA E PASSIVA. DENÚNCIA QUE NARRAFATOS QUE SE AMOLDAM, EM TESE, AO CRIME PREVISTO NO ART. 350 DO CÓDIGOELEITORAL. PRÁTICA CONHECIDA COMO CAIXA 2 PARA O FINANCIAMENTO DE CAMPANHAELEITORAL. PREJUDICADO EM PARTE O PEDIDO. COMPETÊNCIA DA JUSTIÇAESPECIALIZADA.
+1. Parte da pretensão manifestada no presente recurso já foi apreciada por este Colegiado no julgamento do HC n. 541.994/RN. Neste ponto, está prejudicada a irresignação.
+2. No caso em exame, a descrição dos fatos narrados na denúncia sinaliza para a prática do delito de falsidade ideológica eleitoral, descrito no art. 350 do Código Eleitoral, consistente na prática conhecida por "caixa dois", ou seja, o emprego de valores, fruto de práticas delitivas, na campanha ao Governo Estadual, não declarados à Justiça Eleitoral, e utilizados para a compra de apoio político e para o pagamento de dívidas a ela relacionadas.
+3. Vale consignar que os fatos oriundos da denominada Operação Manus (Processo n. 0805556-95.2017.4.05.8400), que ora se examinam, são muito semelhantes aos que decorreram da Operação Lavat (Processo n. 0812330-44.2017.4.05.8400), apreciados no referido HC n. 541.994/RN.
+4. Segundo decidido pela Suprema Corte no Inq n. 4.435/DF, "compete à Justiça Eleitoral julgar os crimes eleitorais e os comuns que lhe forem conexos - inteligência dos artigos 109, inciso IV, e 121 da Constituição Federal, 35, inciso II, do Código Eleitoral e 78, inciso IV, do Código de Processo Penal".
+5. Recurso parcialmente conhecido e, nessa parte, provido.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
