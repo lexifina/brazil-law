@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno (e-STJ, fls. 574 - 585) interposto contra o acórdão de fls. 565 - 569 (e-STJ), desta Quarta Turma do STJ, que rejeitou os embargos de declaração de fls. 537 - 543.
+Em suas razões, a parte agravante informa que: "Analisando o referido Agravo em Recurso Especial por meio de r. decisão monocrática, esta Eg. Corte Superior conheceu do recurso de Agravo, para conhecer em parte do Recurso Especial, e nesta extensão, negar-lhe provimento. Desta decisão, o Agravante ainda interpôs agravo interno e embargos de declaração, permanecendo o r. julgado ainda sem a devida e necessária prestação jurisdicional, no caso, dar-se a devida fundamentação dos motivos ensejadores para o reconhecimento de que, no caso dos presentes autos, não se configurou o cerceamento do direito de defesa" (e-STJ, fl. 576).
+Alega que: "Com a devida vênia a quem não se ousa divergir, a matéria em debate merece reapreciação, tendo em vista que a r. decisão ora Agravada, sequer fez menção acerca da violação aos artigos apontados como olvidados e negligenciados pela Eg. Corte Estadual (artigos 355, I, art. 369 e 373, I do CPC), limitando-se a colacionar parte do julgado agravado acerca do tema. Ignorou, pois, a ofensa aos artigos de lei apontados como violados, deixando de apreciar as razões de recurso e, novamente, tornar solucionada a celeuma sem o necessário provimento/manifestação judicial acerca da flagrante ocorrência de cerceamento do direito de defesa " (e-STJ, fl. 577 - 578).
+Insiste que: "Figura hialino nos autos, a existência de omissão apontada em razão de que, a r. decisão dos embargos de declaração limitou-se a afirmar, que a insurgência não se passava de mera pretensão de rediscutir a matéria já resolvida, desviando-se totalmente da questão apontada como omissa. Note-se que em momento algum a r. decisão se manifestou no sentido de conhecer ou não, a afronta aos artigos 355, I, art. 369 e 373, I do CPC, justificando apenas que, para o correto deslinde do feito, a prova documentação coligida seria suficiente, não havendo necessidade de se analisar, de forma detida e aprofundada, todas as particularidades que envolveram a negociação havida entre as partes. E estes temas, deveriam ter sido exauridos, enfrentados exaustivamente pelo Tribunal a quo, quando em verdade, os mesmos sequer restaram apreciados, não sendo nem acolhidos, nem rejeitados, inexistindo sob o tema qualquer debate nas razões de decidir" (e-STJ, fls. 578 - 579).
+Conclui que: "É aceitável que as teses de defesa sejam rejeitadas, mas para tanto, o mínimo que se espera, é uma análise acerca das razões recursais. A análise acerca dos temas apostos sob apreciação judicial, não se trata somente de atendimento à legislação, consubstanciada principalmente nas disposições contidas no art. 489 do CPC e seus incisos e parágrafos, mas principalmente em respeito ao trabalho do causídico, e principalmente ao direito de ampla defesa do cidadão jurisdicionado. E no caso concreto, a r. decisão olvidou completamente o tema, negando-se a entregar a prestação jurisdicional com base nas alegações constantes da peça recursal. Em momento algum a Agravante perseguiu o exame do conjunto fático-probatório do enleio nas razões deduzidas no apelo raro, como diz a decisão agravada" (e-STJ, fl. 581).
+A parte agravada apresentou impugnação destacando que: "mesmo com várias decisões contrárias, inclusive na mesma espécie recursal ora repetida, todas devidamente fundamentadas e amparadas na legislação, súmulas, bem como nos melhores e pacíficos precedentes jurisprudenciais, ainda assim o Agravante novamente interpõe recurso meramente procrastinatório, eis que tenta se esquivar das obrigações que as decisões judiciais lhe impuseram, se utilizando de infindáveis recursos sem qualquer embasamento legal, repetindo argumentos já repisados, o que mais uma vez não haverá de prosperar" (e-STJ, fl. 604).
+Requer a aplicação de multa por litigância de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL/2015.
+1. Não é cabível agravo interno contra acórdão proferido por órgão colegiado desta Corte. Precedentes do STJ.
+2. Conforme os arts. 1.021, caput, do Código de Processo Civil/2015; e 258 do Regimento Interno do STJ, somente as decisões singulares são impugnáveis por agravo interno, configurando-se, assim, erro grosseiro a reiteração de agravo interno. Precedentes.
+3. Agravo interno não conhecido com aplicação de multa.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não comporta conhecimento.
+Segundo pacífica jurisprudência deste Superior Tribunal, não é cabível agravo interno contra acórdão proferido por órgão colegiado desta Corte. A propósito:
+AGRAVO INTERNO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. RECURSO A QUE SE NEGA CONHECIMENTO.
+1. Não é cabível agravo interno contra acórdão proferido por órgão colegiado desta Corte. Precedentes do STJ.
+2. Conforme os arts. 1021 do Código de Processo Civil/2015 e 258 do RISTJ, somente as decisões singulares são impugnáveis por agravo interno, configurando-se, assim, erro grosseiro a interposição do presente recurso
+3. Agravo interno não conhecido com a imposição de multa.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+1. "O agravo interno não serve para impugnar acórdão proferido pelo Colegiado, mas tão somente decisões monocráticas" (AgInt no AgInt nos EDcl nos EAREsp 869.274/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 29/11/2017, DJe 05/12/2017).
+2. Agravo interno não conhecido.
+(AgInt no AgInt no AREsp 1107312/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+AGRAVO INTERNO CONTRA ACÓRDÃO. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+1. O agravo interno não serve para impugnar acórdão proferido pelo Colegiado, mas tão somente decisões monocráticas.
+2. Recurso não conhecido.
+(AgInt no AgInt nos EDcl nos EAREsp 869.274/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 29/11/2017, DJe 05/12/2017)
+Quanto ao tema, conforme dispõem os arts. 1.021 do Código de Processo Civil/2015 e 258 do Regimento Interno do Superior Tribunal de Justiça, somente as decisões singulares são impugnáveis por agravo interno, configurando-se, assim, erro grosseiro a interposição do presente recurso.
+Conforme se verifica a parte agravante já havia interposto o agravo interno de fls. 482 - 501, em face da decisão de fls. 441 - 445, que não foi provido pelo acórdão de fls. 522 - 533,
+Notoriamente o agravo interno em análise não comporta conhecimento.
+Em face do exposto, não conheço dos agravos, aplicando multa de 1% (um por cento) sobre o valor da causa (art. 1.021, § 4º, do Código de Processo Civil/2015), ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor.
+É como voto.
