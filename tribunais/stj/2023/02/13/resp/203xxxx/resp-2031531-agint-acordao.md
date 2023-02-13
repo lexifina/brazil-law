@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto contra decisão que conheceu do recurso especial e deu-lhe provimento para (i) reformar o acórdão impugnado e determinar o retorno do processo ao Juízo de 1º Grau, a fim de que seja cumprido o disposto no art. 321 do CPC, e (ii) afastar a multa prevista no art. 1.026, §2º, do CPC.
+Agravo interno em recurso especial interposto em: 14/11/2022.
+Concluso ao gabinete em: 30/11/2022.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada contra Norte Energia S/A e Consórcio Construtor Belo Monte, extinta sem resolução do mérito, com esteio no art. 267, VI, do CPC.
+Sentença: extinguiu o processo sem resolução do mérito, nos termos do art. 267, VI, do CPC, sob o fundamento de que a requerente não juntou à inicial (i) carteira de pescador emitida pelo Ministério da Pesca e Agricultura dentro do prazo de validade e (ii) o relatório geral da atividade pesqueira em anos pretéritos (documento emitido pelo referido Ministério), a fim de que os supostos danos fossem individualizados. Acórdão: conheceu do agravo interno, mas negou provimento ao recurso.
+Embargos de declaração: opostos pelo particular, restaram rejeitados.
+Recurso especial: aponta, em preliminar, violação dos arts. 489, § 1º, IV e 1.022, II, parágrafo único, II, ambos do CPC, aduzindo, para tanto, que o aresto impugnado incorreu em negativa de prestação jurisdicional, sob o argumento de que todos os fundamentos adotados pela sentença restaram impugnados e que o Tribunal a quo não se pronunciou sobre questões de ordem pública.
+Assevera que o aresto recorrido não se manifestou acerca da violação do direito de ação, do direito de formular emendas à inicial (art. 284 do CPC/73 e art. 321 do CPC/15) e do direito à instrução probatória (art. 332 e seguintes do CPC/73).
+No mérito, a recorrente aponta violação dos arts. 932, III, 1.010, II e III e 1.013, caput, todos do CPC, asseverando que os fundamentos adotados pela sentença foram impugnados na apelação, não havendo que se falar em inobservância ao princípio da dialeticidade.
+Afirma que o Juízo de 1º Grau proferiu sentença terminativa, em razão (i) de não ter sido provado, por meio de documento hábil, que a autora exerce a profissão de pescador e (ii) de não ter sido juntado relatório de pesca, documento que atestaria o suposto dano individual causado ao recorrente pela construção da usina.
+Assevera que a prova das referidas afirmações seria feita na instrução probatória, por meio da oitiva de testemunhas, revelando-se, pois, prematura a extinção do feito sem resolução do mérito.
+Alega contrariedade aos arts. 6º, 933 e 1.013, § 1º, do CPC, aduzindo que apontou, no recurso de apelação, questões de ordem pública relacionadas à violação do direito de ação, do direito de formular emendas à inicial e do direito à produção de provas, que, segundo a recorrente, impõem a reforma da sentença que extinguiu o feito sem resolução do mérito.
+Defende, ainda, que o entendimento firmado pelo STJ no julgamento do REsp 1.114.398/PR (Segunda Seção, DJe 16/02/2012), é aplicável ao caso concreto, revelando-se cabível indenização quando o dano ambiental prejudica pescadores artesanais.
+Alega ofensa ao art. 1.026, § 2º, do CPC, sustentando ser descabida a multa aplicada pelo Tribunal a quo, quando do julgamento dos embargos de declaração, sob o argumento de que os declaratórios, nos termos da Súmula n. 98/STJ, foram opostos com o intuito de prequestionamento.
+Por fim, aponta dissídio jurisprudencial e traz a confronto aresto prolatado pelo TJ/MT (Apelação Cível n. 0000149-92.2013.8.11.0087, Segunda Câmara de Direito Público e Coletivo, DJe 22/01/2019), com o fim de demonstrar que todos os fundamentos adotados pela sentença foram impugnados no recurso de apelação, restando observado o princípio da dialeticidade.
+Decisão unipessoal (fl. e-STJ 786/791): conheceu do recurso especial e deu-lhe provimento.
+Agravo interposto por Norte Energia S/A (fl. e-STJ 806/8 44): sustenta a ausência de violação do art. 1.022 do CPC, sob o argumento de que o recurso de apelação não restou conhecido.
+Afirma que o TJ/PA não se pronunciou sobre a questão da legitimidade ativa e da tese em torno do art. 321 do CPC, em razão da ausência do cumprimento do ônus da impugnação específica.
+Assevera que, nos autos do REsp n. 2.013.769/PA, o rel. Min. Marco Aurélio Bellizze negou provimento a recurso especial idêntico ao examinado nestes autos, concluindo que o entendimento adotado pelo Tribunal de origem estava em consonância com a jurisprudência consolidada do STJ e que a revisão da questão implicaria em reexame de provas. No mesmo sentido, indica o REsp n. 2.014.423/PA, rel. Min. Mauro Campbell Marques.
+Defende que o recurso especial não merecia conhecimento, nos termos da Súmula n. 284/STF, aduzindo, para tanto, que o recorrente não apontou, nas razões recursais, violação do art. 321 do CPC.
+Alega que a emenda à petição inicial, no processo ora examinado, implicaria em alteração do pedido e da causa de pedir, providência inviável após a prolação do despacho saneador.
+Petição (fl. e-STJ 870/886): intimada, a agravada apresentou contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 321 DO CPC. EMENDA À INICIAL. PRECEDENTE DA SEGUNDA SEÇÃO.
+1. Questões suscitadas no recurso especial que foram devidamente examinadas pela Segunda Seção do STJ.
+2. O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC.
+3. Agravo interno não provido.
+VOTO
+1. No que tange ao argumento em torno da ausência de prequestionamento do art. 321 do CPC, verifica-se que a agravante parece não ter compreendido o real alcance da conclusão adotada no julgamento do REsp n. 2.013.351/PA (Segunda Seção, julgado em 14/9/2022, DJe de 19/9/2022).
+2. Naquela oportunidade, a Segunda Seção do STJ, analisando a preliminar de nulidade do acórdão prolatado pelo TJ/PA, concluiu, nos termos do art. 1.025 do CPC, pelo prequestionamento da questão em torno do art. 321 do CPC (itens 24, 25, 26 e 31 do voto), razão pela qual conheceu da tese de mérito sustentada pela parte e reformou o aresto recorrido, por constatar a existência de "error in iudicando".
+3. Superado esse ponto, observa-se que a agravada, tal como ressaltado nas contrarrazões ao agravo, indicou tese em torno do art. 321 do CPC em sede de embargos declaratórios opostos perante a instância a quo e em sede de recurso especial.
+4. Refuto, ainda, a tese em torno da incidência do art. 329, II, do CPC, já que o presente processo não envolve questão em torno de alteração do pedido ou da causa de pedir, mas tão-somente do direito previsto no art. 321 do CPC.
+5. Ressalto que o entendimento adotado pela Segunda Seção nos autos do REsp n. 2.013.351/PA vem sendo aplicado pelos Ministros que compõem as Turmas de Direito Privado desta Corte. A propósito, confira-se: REsp n. 2.032.081/PA, rel. Min. Paulo de Tarso Sanseverino, DJe 26/10/2022; REsp n. 2.032.035/PA, rel. Min. Marco Aurélio Bellizze, DJe 26/10/2022; REsp n. 2.032.007/PA, rel. Min. Marco Buzzi, DJe 26/10/2022; REsp n. 2.025.922, rel. Min. Antonio Carlos Ferreira, DJe 26/10/2022.
+6. Por fim, consigno que o Min. Marco Aurélio Bellizze, nos autos do AgInt no REsp n. 2.013.769/PA (DJe 25/10/2022), deu provimento ao recurso especial e determinou o retorno dos autos ao Juízo de 1º Grau, a fim de que seja cumprido o art. 321 do Código de Processo Civil.
+Dispositivo
+Forte nessas razões, nego provimento ao agravo interno.
+Fique a parte cientificada de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
