@@ -1,0 +1,12 @@
+DECISÃO
+Neste habeas corpus, com pedido liminar, impetrado em favor de Valdecir Rodrigues Pascoa - cumprindo pena privativa de liberdade nos autos da Execução n. 7001024-96.2010.8.26.0032, em curso na 1ª Vara das Execuções Criminais de Araçatuba/SP -, sob alegação de constrangimento ilegal na decisão proferida pelo Juízo da Execução, no sentido de reconhecer a prática de falta grave (novo crime), perpetrada em 16/6/2018 e, por conseguinte, julgar prejudicada a determinação exarada no julgamento do HC n. 2287765-25.2022.8.26.0000, mantendo o paciente em regime fechado e alterando a data-base para concessão de novos benefícios a partir da falta disciplinar, requer-se, inclusive em caráter liminar, seja declarada prescrita a falta grave, seja em razão da ausência de PAD, seja em razão da falta de audiência de justificação.
+É o relatório.
+O writ é inadmissível.
+Ora, a impetração impugna o acórdão exarado no julgamento do HC n. 2287765-25.2022.8.26.0000, que não conheceu da impetração originária, ou seja, não debateu a matéria de fundo suscitada na impetração, circunstância que obsta a análise da presente impetração, ante a supressão de instância verificada.
+Tampouco diviso possibilidade de anular o acórdão atacado por omissão no provimento jurisdicional, pois o impetrante não se insurgiu contra os fundamentos lançados no aresto hostilizado para não conhecer da impetração, a saber: identidade da tese deduzida na impetração com o objeto do Agravo em Execução n. 0010308-67.2021.8.26.0032, do HC n. 2291314-77.2021.8.26.000 e do HC n. 732.484/SP (STJ).
+Sublinho, nesse particular, que, em se tratando de habeas corpus sucedâneo de recurso ordinário, incumbe ao impetrante, sobretudo por ostentar a condição de advogado, a observância plena do princípio da dialeticidade recursal (art. 932, III, do CPC, c/c o art. 3º do CPP), o que implica no ônus da impugnação dos fundamentos da decisão atacada, circunstância não verificada no caso à luz da argumentação expendida na impetração.
+Ante o exposto, não conheço do habeas corpus (art. 34, XVIII, a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUCEDÂNEO DE RECURSO ORDINÁRIO. EXECUÇÃO PENAL. SUPOSTO CONSTRANGIMENTO ILEGAL NO RECONHECIMENTO DE FALTA GRAVE. MATÉRIA DE FUNDO NÃO DEBATIDA NO ACÓRDÃO ATACADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE DECLARAR A NULIDADE DO ACÓRDÃO ATACADO POR OMISSÃO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO DOS FUN DAMENTOS LANÇADOS NO ARESTO COMBATIDO PARA NÃO CONHECER DA IMPETRAÇÃO ORIGINÁRIA. INOBSERVÂNCIA DO PRINCIPIO DA DIALETICIDADE RECURSAL.
+Writ não conhecido.
