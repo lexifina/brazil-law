@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. GRUPO ECONÔMICO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL POSSIBILIDADE. SÚMULA 83/STJ. MODIFICAÇÃO DA CONCLUSÃO DE ORIGEM. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "A desconsideração da personalidade jurídica, embora seja medida de caráter excepcional, é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial (CC/2002, art. 50)" (AgInt no AREsp 1.973.756/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/5/2022, DJe de 8/6/2022).
+2. No caso, as instâncias ordinárias, examinando as circunstâncias da causa, consignaram que ficou demonstrada confusão patrimonial entre as pessoas jurídicas que integram o grupo societário. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BR PLÁSTICOS INDÚSTRIA LTDA e OUTROS, inconformados com a decisão de fls. 789/792, que conheceu do agravo para negar provimento ao recurso especial, em razão da ausência de violação ao art. 1.022 do CPC/2015 e incidência das Súmulas 7 e 83/STJ.
+Em suas razões, os agravantes alegam que: (a) impugnaram a inaplicabilidade da Súmula 7/STJ nas razões de agravo em recurso especial, sendo a questão de direito, e não de fato; (b) o Tribunal de origem em momento algum menciona a inexistência de provas de desvio de finalidade ou confusão patrimonial, a fim de justificar a desconsideração da personalidade jurídica; e (c) a Súmula 83/STJ é inaplicável considerando que se demonstrou que o desvio de finalidade ou confusão patrimonial devem ser demonstrados de forma concreta, tendo sido apontada a divergência jurisprudencial.
+Foi apresentada impugnação às fls. 808/826.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. GRUPO ECONÔMICO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL POSSIBILIDADE. SÚMULA 83/STJ. MODIFICAÇÃO DA CONCLUSÃO DE ORIGEM. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "A desconsideração da personalidade jurídica, embora seja medida de caráter excepcional, é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial (CC/2002, art. 50)" (AgInt no AREsp 1.973.756/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/5/2022, DJe de 8/6/2022).
+2. No caso, as instâncias ordinárias, examinando as circunstâncias da causa, consignaram que ficou demonstrada confusão patrimonial entre as pessoas jurídicas que integram o grupo societário. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Inicialmente, tem-se que o fundamento de que não houve violação ao art. 1.022 do CPC/2015 não foi objeto de impugnação, de modo que permanece incólume.
+No mais, a irresignação não merece prosperar.
+A Corte de origem concluiu, diante do contexto fático-probatório contido nos autos, que as sociedades empresárias fazem parte do mesmo grupo econômico e que há confusão patrimonial entre os envolvidos, in verbis:
+"No tocante a suposta violação aos arts. 50 do CC/02 e 134, §4º do CPC/15, a Corte de origem afirmou, diante do contexto fático-probatório contido nos autos, que as sociedades empresárias fazem parte do mesmo grupo econômico e que há confusão patrimonial, o que permite que seus bens sejam atingidos para satisfação da dívida, in verbis:
+"Tendo tais pressupostos em vista, o magistrado a quo deferiu o pleito da parte credora e, reconhecendo que a empresa devedora, BR PLASTICOS INDUSTRIALTDA. e as empresas Borrachas Vipal S/A, BR Plast Participação LTDA, Paludo Participações S/A, Sifra Pneumáticos LTDA, Vipar Participações LTDA, Vipal Participações LTDA, Vicencio Paludo Filho & Cia LTDA e Marpal S A Administradora e Participações fazem parte do mesmo grupo econômico, proferiu a já citada decisão reconhecendo "que efetivamente há um grupo econômico entre as sociedades empresárias, seja pela identidade de objetos sociais de parte delas, de localidades, de representantes legais e administradores e também que umas são sócias das outras. Claro, por óbvio, por serem empresas variadas e também pela experiência desse juízo em situações como esta, não se verifica que em todas há o mesmo administrador, com o mesmo objeto social e o mesmo endereço de sede. Isto, aliás, faz parte da intenção do devedor, pois cria verdadeiro emaranhado de situações jurídicas, envolvendo todas as empresas, ainda que não de forma idêntica para todas elas, mas que assemelham-se nos tópicos citados (objetos sociais, administradores, sede, participação social) ora em relação a umas, ora, e relação a outras."
+(..)
+Há, nesse sentido, contornos subsistentes de que as sociedades empresárias fazem parte do mesmo grupo econômico, com atividades idênticas, sob o comando, na grande maioria das vezes, do mesmo sócio-administrador, fatores que são suficientes para caracterizar conglomerado empresarial. Com efeito, a atitude de proteger o patrimônio da executada repercute na permissão que sejam atingidos e vinculados, à satisfação da dívida, também os bens das pessoas jurídicas pertencentes ao mesmo grupo econômico." (e-STJ, fl. 537)
+Nesse ponto, a decisão está em consonância com o entendimento desta Corte Superior, de que é possível a desconsideração da personalidade jurídica se caracterizada confusão patrimonial entre pessoas jurídicas que compõem o mesmo grupo econômico, de modo a incidir a Súmula 83/STJ com relação às alíneas "a" e "c" do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUTOS DE AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. GRUPO SOCIETÁRIO. CONFUSÃO PATRIMONIAL. COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. A desconsideração da personalidade jurídica, embora seja medida de caráter excepcional, é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial (CC/2002, art. 50).
+2. No caso, as instâncias ordinárias, examinando as circunstâncias da causa, consignaram que ficou demonstrada confusão patrimonial entre as pessoas jurídicas que integram o grupo societário, pois exploram o mesmo ramo de negócios, atuam no mesmo endereço e detêm idêntico quadro societário. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.973.756/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/5/2022, DJe de 8/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. GRUPO ECONÔMICO. CONFUSÃO GERENCIAL. ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ART. 50 DO CÓDIGO CIVIL. REQUISITOS. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica (art. 50 do Código Civil) exige a comprovação de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+4. Na hipótese, rever as conclusões das instâncias ordinárias quanto ao preenchimento dos requisitos para a desconsideração da personalidade jurídica da empresa demandaria a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.893.355/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Com efeito, a jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que, nas hipóteses em que reconhecida a existência de grupo econômico e verificada confusão patrimonial entre as empresas, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, inclusive em cumprimento de sentença, sem que haja violação da coisa julgada. Precedentes.
+3. Modificar o entendimento do Tribunal local, acerca da presença dos requisitos para desconsideração da personalidade jurídica, no caso, da confusão patrimonial, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.827.111/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Ademais, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. VIOLAÇÕES DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EMPRESAS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITOS LEGAIS. AFERIÇÃO NA VIA DO RECURSO ESPECIAL.
+IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1 - Não incide a Súmula 182/STJ se a parte, no agravo, impugna os fundamentos da decisão que, na origem, não admitiu o recurso especial. Decisão da Presidência que merece reconsideração.
+2 - Não decididas no acórdão recorrido as matérias afetas aos dispositivos tidos como violados, ressente-se o especial do necessário prequestionamento, atraindo o óbice das Súmulas 282 e 356 do STF.
+3 - Firmado pelas instâncias ordinárias que estão presentes os requisitos legais para a desconsideração da personalidade jurídica, notadamente que há confusão entre o patrimônio da empresa que figura originariamente no polo passivo do cumprimento de sentença e as outras que fazem parte do mesmo grupo econômico, não há como elidir essas conclusões na via do recurso especial, ante o veto das Súmulas 5 e 7 do STJ. Julgados nesse sentido das duas Turmas que integram a Segunda Seção.
+4 - Agravo interno provido, conhecendo do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
