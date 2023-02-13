@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+HÉLIO FÉLIX DAS FLORES (HÉLIO) ajuizou embargos à execução contra BANCO DO NORDESTE DO BRASIL S.A. (BANCO).
+Em primeira instância, os pedidos foram julgados improcedentes, com a condenação de HÉLIO ao pagamento dos honorários advocatícios no importe de 10% sobre o valor da causa.
+A apelação interposta por HÉLIO não foi provida pelo Tribunal de Justiça da Paraíba nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. PRELIMINAR DE , OFENSA MÉRITO. CÉDULA OUTORGA À DIALETICIDADE. REJEIÇÃO. EXECUÇÃO. EMBARGOS À RURAL PIGNORATICIA. AVAL. UXÓRIA. DESNECESSIDADE. TITUIA) DE CRÉDITO NOMINADO (TÍPICO) REGRADO POR LEI ESPECIAL. PRECEDENTE DO STJ. AUSÊNCIA DE ASSINATURA EM ADITIVO. ASSINATURA EM DOCUMENTO ADITIVO CONSECUTIVO QUE CONVALIDA O ANTERIOR. REMISSÃO DA DIVIDA NOS TERMOS DAS LEIS FEDERAIS Nº 12.249/10 e 11.322/06. REQUISITOS NÃO COMPROVADOS. APELO DESPROVIDO.
+- Não há que se falar em ofensa ao princípio da dialeticidade, visto que a apelante se contrapôs ao fundamento da sentença, trazendo argumentos jurídicos com o intuito de afastar a condenação, observando-se, portanto, o . pressuposto processual de admissibilidade referente à regularidade formal do recurso.
+- Extrai-se do informativo nº 0604, de 21 de junho de 2017, do Superior Tribunal de Justiça, que o aval dado aos títulos de créditos nominados (típicos) prescinde de outorga uxória ou marital. Isso porque, em linhas gerais, em que pese a exigência disposta no art. 1.647, inciso III, do CC/2002, que estabelece o consentimento conjugal corno requisito de validade do aval, quando o avalista for casado em outros regimes que não o da separação absoluta, tal deve ser interpretado à luz do sistema cambiado, conciliando-se com tal sistemática, pacificando a Corte o entendimento de que as disposições contidas no referido dispositivo do diploma civil hão de se aplicar aos avais prestados nos títulos de crédito regidos pelo próprio Código Civil (atípicos), não se aplicando aos títulos de  crédito nominados (típicos) regrados pelas leis especiais, que, atentas às características do direito cambiário, não preveem semelhante disposição, pelo contrário, estabelecem a sua independência e autonomia em relação aos negócios subjacentes.
+- Embora o avalista não tenha aposto sua assinatura em determinado aditivo, assinou documento posterior, (também aditivo), referente ao mesmo título de crédito. Nesses termos, a assinatura do documento consecutivo acabou por convalidar o anterior. Assim, em privilégio dos ditames da lealdade e da boa-fé que devem reger os contratos, não merece qualquer acolhida a asserção do autor, porquanto de forma livre e consciente assinou aditivo posterior, ratificando os demais anteriores.
+- No tocante à remissão da divida nos termos das Leis Federais n" 12.249/10 e 11.322/06, também não se vislumbra razão, porquanto tratar-se de uma alegação genérica, desprovida da especificação necessária acerca do preenchimento dos requisitos.
+Os embargos de declaração opostos por HÉLIO foram rejeitados.
+Inconformado, HÉLIO manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 385 e 1.022 do NCPC; 903 e 1.647 do CC; 9º da Lei n.º 12.249/10 e 2º da Lei n.º 11.322/06.
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da incidência das Súmulas n.ºs 7 e 83 do STJ.
+Em decisão monocrática, o Ministro Presidente desta Corte não conheceu do agravo em recurso especial interposto por Hélio, porque a parte agravante deixou de impugnar especificamente a aplicação da Súmula n.º 83 do STJ.
+O agravo interno interposto por HÉLIO não foi provido pela Terceira Turma do STJ em acórdão nestes termos sintetizado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DEFEITO QUE CONDUZ AO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, CONFORME CORRETAMENTE DECIDIDO PELA PRESIDÊNCIA DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do apelo especial proferida pelo Tribunal estadual. A ausência de impugnação de todos os fundamentos da decisão agravada, conforme verificado no presente caso, enseja o não conhecimento do agravo em recurso especial.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (e-STJ, fl. 378)
+Nas razões dos presentes embargos de declaração, HÉLIO sustentou a violação do art. 1.022 do NCPC por entender que todos os fundamentos da decisão de inadmissibilidade do recurso especial foram devidamente impugnados no agravo em recurso especial, inclusive quanto à incidência da Súmula nº 83 do STJ.
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece ser provido.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões dos presentes embargos de declaração, HÉLIO sustentou a violação do art. 1.022 do NCPC por entender que todos os fundamentos da decisão de inadmissibilidade do recurso especial foram devidamente impugnados no agravo em recurso especial, inclusive quanto à incidência da Súmula nº 83 do STJ.
+Contudo, sem razão.
+Da acurada análise dos autos se verifica que o acórdão embargado foi claro ao pontuar que HÉLIO não infirmou a incidência da Súmula n.º 83 do STJ, pois não logrou êxito em demonstrar que o posicionamento adotado pelo Tribunal de Justiça não se encontra alinhado com o entendimento do STJ sobre o tema, já que não indicou precedentes contemporâneos ou supervenientes aos referidos na decisão.
+Por oportuno, transcreve-se:
+Nas razões do presente agravo interno, HÉLIO alegou que, nas razões do agravo em recurso especial, infirmou todos os fundamentos da decisão agravada, devendo ser afastada a aplicação da Súmula n.º 182 do STJ.
+Cumpre registrar que, na hipótese em que se pretende impugnar, a incidência da Súmula n.º 83 do STJ, óbice manifestado na decisão, deve o agravante demonstrar que o posicionamento adotado não se encontra alinhado com o entendimento do STJ sobre o tema, indicando precedentes contemporâneos ou supervenientes aos referidos na decisão, o que não ocorreu. (e-STJ, fl. 380)
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a corrigir no julgado eventual omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Ademais, "não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República" (EDcl no REsp 1.725.452/RS, Relatora Ministra Regina Helena Costa, DJe 22/9/2021).
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.770.095/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/9/2022, DJe de 29/9/2022.)
+Nesse sentido, é f orçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
