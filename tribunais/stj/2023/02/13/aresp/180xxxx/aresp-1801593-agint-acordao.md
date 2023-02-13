@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+ Trata-se  de  agravo  interno  interposto  por GOFFI SCARTEZZINI ADVOGADOS ASSOCIADOS contra  decisão  monocrática proferida pela Presidência do Superior Tribunal de Justiça (fls. 178/181), que conheceu do agravo para não conhecer do recurso especial.
+N as razões do agravo interno  (fls.  183/185),  a  parte  agravante  refuta os fundamentos da decisão agravada, alegando a inaplicabilidade da Súmula 284/STF, ao argumento de que houve a indicação do dispositivo violado.
+ Requer,  ao  final, seja conhecido e provido o presente agravo interno, para sua posterior reforma, com o conhecimento e provimento do Recurso Especial (fl. 185).
+Não houve  impugnação  ao  recurso  (fl.  190 ).
+ É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO NAS RAZÕES DO AGRAVO INTERNO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que as razões do presente agravo interno não impugnam, especificamente, o fundamento da decisão agravada, sobretudo quanto ao fato de que: "incide o óbice da Súmula n. 284/STF, uma vez que os artigos apontados como violados não têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (fl. 180).
+2. A subsistência de fundamento não atacado apto a manter a conclusão da decisão impugnada impõe, por analogia, o óbice constante do enunciado da Súmula 283 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+As razões do presente agravo interno não impugnam, especificamente, o fundamento da decisão agravada, sobretudo quanto ao fato de que: "incide o óbice da Súmula n. 284/STF, uma vez que os artigos apontados como violados não têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (fl. 180).
+Dessa maneira, como a fundamentação supra é apta, por si só, para manter a decisão combatida e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".  Nessa linha de entendimento:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO NAS RAZÕES DO AGRAVO INTERNO. SÚMULA 283 DO STF. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DA CONTRIBUIÇÃO PARA O PIS E DA COFINS. TEMA 69 DO STF. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. REVISÃO NO ÂMBITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. Trata-se de Agravo Interno interposto pela Fazenda Nacional contra decisão monocrática que não conheceu de Agravo em Recurso Especial, sob o fundamento de ausência de violação aos arts. 489 e 1.022 do CPC/2015, bem como que a Corte de origem decidiu a controvérsia sob ótica eminentemente constitucional (Tema 69 do STF), inviável de ser analisada via Recurso Especial, sob pena de usurpação de competência do Supremo Tribunal Federal.
+2. As razões do Agravo Interno não impugnam, especificamente, os fundamentos da decisão agravada, sobretudo quanto ao fato de a solução dada pelo Tribunal de origem envolver matéria eminentemente constitucional. Incide, assim, o óbice constante do enunciado da Súmula 283 do STF.
+3. Verifica-se que não é caso de afronta aos arts. 489 e 1.022 do Código de Processo Civil, pois o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+4. A instância de origem não apenas se manifestou integralmente sobre as questões suscitadas pela Fazenda Nacional, como também o fez à luz de fundamentos eminentemente constitucionais (mais precisamente, o Tema 69 do STF), como evidenciado nos trechos acima. Inviável, portanto, apreciar o mérito do Recurso Especial interposto, diante do risco de usurpação de competência do Supremo Tribunal Federal. Precedentes.
+5. Ainda que superado esse óbice, verifica-se que o Tribunal a quo não emitiu carga decisória sobre os arts. 13, §1º, inciso I, 19 e 20 da Lei Complementar 87/1996, o art. 1º da Lei 10.637/2002, o art. 1º da 10.833/2002, art. 2º da Lei 9.715/1998, e art. 2º da Lei Complementar nº 70/1991, incidindo, dessa forma, a Súmula 282 do STF. Ausente, portanto, o prequestionamento.
+6. O STJ possui entendimento de que  "a apreciação de suposta violação de preceitos constitucionais não é possível na via especial, nem à guisa de prequestionamento, por ser matéria reservada pela Carta Magna ao Supremo Tribunal Federal" (AgRg no REsp 1462360/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 28/11/2014).
+Agravo Interno não provido (AgInt no REsp 1.908.761/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/04/2021).
+Pelas considerações expostas, nego provimento ao agravo interno.
+É como voto.
