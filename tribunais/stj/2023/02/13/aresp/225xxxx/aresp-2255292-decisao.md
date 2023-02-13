@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por SP&TO AGROPECUARIA EM GERAL LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MATÉRIA NÃO COGNOSCÍVEL DE OFÍCIO.
+I. A exceção de pré-executividade - construção doutrinário-jurisprudencial - é admitida em ação de execução fiscal relativamente àquelas matérias que podem ser conhecidas de ofício e desde que não demandem dilação probatória. Súmula 393 do E. STJ.
+II. Hipótese em que a agravante faz alegações de inexigibilidade da cobrança de contribuição ao FUNRURAL, não de nulidade por vício formal e objetivo do título, não correspondendo, portanto, a matéria que pode ser conhecida de ofício pelo magistrado, em verdade tratando-se de questionamento referente ao próprio débito em cobro, a agravante não se podendo valer da via da exceção de pré-executividade para questionar a cobrança, fazendo-se mister a oposição de embargos à execução, nos termos do art. 16 da Lei de Execuções Fiscais.
+III. Recurso desprovido.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 803, I, do CPC; e súmula n. 393 do STJ, no que concerne ao cabimento de reconhecimento de nulidade da presente execução em sede de exceção de pré-executividade, considerando-se que o disposto na Resolução n. 15 do Senado Federal ocasionou a ausência de certeza, liquidez e exigibilidade do título executivo, situação que não demanda dilação probatória, trazendo os seguintes argumentos:
+22. A execução fiscal nº 0003845-03.1996.8.26.0189, em curso perante o MM Juizo do Setor de Execuções Fiscais da Comarca de Fernandópolis  SP, tem por objeto débito de FUNRURAL, exigido com fundamento no artigo 12, inciso VII, no artigo 25, § 2º, e no artigo 30, IV, todos da Lei 8.212/91.
+23. Isso pode ser constatado por breve exame da NFLD de fls.
+473/474 da execução fiscal nº 0003845-03.1996.8.26.0189 (Id. 1872094  Págs.
+52/53). Ou seja, não há necessidade de dilação probatória para a constação desse fato.
+24. Esses dispositivos legais, que dão fundamento à execução fiscal, no entanto, tiveram sua execução suspensa pela RESOLUÇÃO Nº 15 DO SENADO FEDERAL.
+ ..
+25. Isso significa que a execução fiscal nº 0003845-03.1996.8.26.0189 perdeu seu fundamento legal.
+26. Significa, ainda, que o débito que ela tem por objeto não mais corresponde a uma obrigação certa, líquida e exigível.
+ ..
+29. Ora, se a nulidade é matéria que deve ser apreciada de oficio e, na execução fiscal nº 0003845-03.1996.8.26.0189, ela pode ser verificada sem necessidade de dilação probatória, então ela comporta discussão em exceção de pré-executividade (fls. 738-739).
+É, no essencial, o relatório. Decido.
+Na espécie, no que atine a alegação de violação da súmula n. 393 do STJ, não é cabível recurso especial fundado na ofensa a enunciado de súmula dos tribunais, inclusive em se tratando de súmulas vinculantes.
+Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: "A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88". (REsp n. 1.806.438/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/10/2020.)
+Nesse sentido: AgInt no AREsp 1.630.476/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/8/2020; AgInt no AREsp 1.630.025/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 14/8/2020; AREsp 1.655.146/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe 7/8/2020; AgRg no REsp 1.868.900/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 3/6/2020; AgInt no REsp 1.743.359/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 30/3/2020; AgRg no AREsp n. 1.632.328/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 02/09/2020.
+No mais, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, não se verifica no caso hipótese de adequação da via da exceção de pré-executividade para discussão da matéria através dela arguida.
+A exceção de pré-executividade - construção doutrinário-jurisprudencial - é admitida em ação de execução fiscal relativamente àquelas matérias que podem ser conhecidas de ofício e desde que não demandem dilação probatória, nos exatos termos do que dispõe o Enunciado nº 393 do E. STJ:
+ ..
+Pretende a executada fazer supor a existência de vício do título executivo, todavia, o que de fato se verifica é que os argumentos utilizados desbocam em alegações de inexigibilidade da cobrança de contribuição ao FUNRURAL, não em nulidade por vício formal e objetivo do título, não correspondendo, portanto, a matéria que pode ser conhecida de ofício pelo magistrado, em verdade tratando-se de questionamento referente ao próprio débito em cobro, a executada não podendo se valer da via da exceção de pré-executividade para questionar a cobrança, fazendo-se mister a oposição de embargos à execução, nos termos do art. 16 da Lei de Execuções Fiscais (fls. 682-683).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
