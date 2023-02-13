@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por ÉRICA PUNDRICH contra decisão monocrática de minha lavra, às fls. 338/340, que negou provimento a seu agravo em recurso especial diante dos seguintes fundamentos: (I) deficiência de fundamentação do recurso especial, porque o dispositivo tido por violado, art. 21, § 2º, b, da Lei 12.470/11, não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, atraindo a incidência da Súmula 284/STF, (II) aplicação da Súmula 7/STJ, pois não se pode rever o entendimento da Corte de origem no sentido de que não foram preenchidos os requisitos necessários à concessão do benefício de aposentadoria por invalidez e (III) ausência de demonstração do dissídio jurisprudencial nos moldes legais e regimentais.
+A parte agravante sustenta, em síntese: (I) o dissídio jurisprudencial está devidamente comprovado, (II) o reconhecimento do direito alegado implica unicamente análise de matéria de direito e (III) a inaplicabilidade da Súmula 284/STF, pois seu recurso estaria devidamente fundamentado.
+Requer, por fim, a reforma do julgado agravado ou a submissão de sua insurgência ao Órgão Colegiado.
+Sem impugnação (fl. 358).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que a parte autora não preenche os requisitos legalmente exigidos à concessão do benefício pleiteado .
+2. A alteração das conclusões adotadas pela Corte a quo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O recurso não prospera.
+De início, conforme já asseverado na monocrática agravada, o art. 21, § 2º, b, da Lei 12.470/11 não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+No mais, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que a parte autora não preenche os requisitos legalmente exigidos à concessão do benefício pleiteado, conforme se vê do seguinte excerto do acórdão recorrido (fls. 199/200):
+De fato, inexiste controvérsia em relação à incapacidade laboral temporária da autora, pois o laudo médico pericial do INSS (ev. 14 - OUT3), de08/09/2016, que apontou como patologia: colecistectomia, concluiu que a parte autora apresenta incapacidade temporária (60 dias), com data de início da incapacidade (DII) em 20/07/2016, e não foi impugnado pela parte autora.
+No tocante à qualidade de segurado, a parte comprova a inscrição no Cadastro Único para Programas Sociais - CadÚnico desde 11/07/2012 (ev. 1- OUT17), sendo que a simples falta de atualização deste cadastro não é motivo para descaracterizar a condição de segurada baixa renda desde que haja outros meios de comprovar esta circunstância. Não tendo havido o cadastro, para que a falta seja suprida em juízo há de ser comprovada a renda familiar inferior a 2 salarios minimos, bem como os requisitos para estar inscrição no cadastro no período em perspectiva.
+Contudo, na situação em exame, tal como constou em sentença, não há comprovação quanto ao enquadramento da parte autora como "segurada de baixa renda que se dedica exclusivamente ao trabalho doméstico no âmbito de sua residência", tal como exigido pelo art. 21, §2º, II, "b", da Lei8.212/1991, para a validade das contribuições nessa categoria.
+Pelo contrário, a requerente afirma que não se dedica exclusivamente ao labor doméstico: observe-se que embora a parte afirme em sua exordial que sua profissão é "do lar" (ev. 1 - INIC1), ao firmar a procuração para seus advogados ela consta sua profissão como "trabalhadora rural" (ev.1 - PROC2) e ao impugnar a contestação afirma que sua profissão é "diarista"(ev. 18 - 1, fl. 2).
+Assim, ao consignar a ausência de demonstração do preenchimento dos requisitos para fins de concessão do benefício pleiteado, o aresto objurgado fundou-se no contexto fático dos autos.
+Dessa forma, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE BENEFÍCIO DE AUXÍLIO-ACIDENTE JULGADO IMPROCEDENTE PELAS INSTÂNCIAS DE ORIGEM EM RAZÃO DO NÃO RECONHECIMENTO DO NEXO CAUSAL E DA INCAPACIDADE LABORAL DA PARTE AUTORA. AGRAVO REGIMENTAL DESPROVIDO.
+(..).
+3. In casu, o Tribunal a quo, soberano na análise fático-probatória da causa, confirmando a sentença, julgou improcedente o pedido inicial por entender que a moléstia não afeta de modo parcial e definitivo a capacidade laborativa da autora, nem tem nexo causal com a atividade por ela exercida.
+4. A alteração dessa conclusão, na forma pretendida, demandaria necessariamente o incursão no acervo fático-probatório dos autos, a fim de verificar se o autor encontra-se incapacitado para o trabalho. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+(..)
+7. Agravo Regimental desprovido.
+(AgRg no REsp 1.378.370/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/12/2014, DJe 16/12/2014).
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. DISACUSIA. INEXISTÊNCIA DE REDUÇÃO DA CAPACIDADE LABORATIVA. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme decidido pela 3ª Seção desta Corte, no julgamento do Recurso Especial 1.095.523/SP, admitido como representativo da controvérsia (art. 543-C do CPC), "estando presentes os requisitos legais exigidos para a concessão do auxílio-acidente com base no art. 86, § 4º, da Lei n.º 8.213/91 - deficiência auditiva, nexo causal e a redução da capacidade laborativa -, não se pode recusar a concessão do benefício acidentário ao Obreiro, ao argumento de que o grau de disacusia verificado está abaixo do mínimo previsto na Tabela de Fowler" (REsp 1.095.523/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe de 05/11/2009).
+II. No caso, contudo, o Tribunal de origem analisou as provas dos autos, notadamente a perícia médica, e concluiu pela inexistência, ainda que mínima, de redução da capacidade laborativa, provocada pela disacusia bilateral, negando o benefício de auxílio-acidente ao ora agravante.
+III. Diante desse quadro, a inversão do julgado, para se concluir pela eventual existência dos requisitos para a concessão do auxílio-acidente - como pretende o recorrente -, demandaria incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor do enunciado 7 da Súmula do STJ.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 342.174/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/05/2014, DJe 28/05/2014)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
