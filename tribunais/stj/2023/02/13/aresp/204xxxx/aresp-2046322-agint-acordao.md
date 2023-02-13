@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/02/2023 a 13/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE ENGENHARIA DE TRÁFEGO, para desafiar decisão proferida às e-STJ fls. 820/823, em que conheci do agravo para não conhecer do recurso especial, em face da incidência da Súmula 211 do STJ.
+Sustenta a parte agravante, em suma, que o referido enunciado não se aplica à espécie, sob o argumento de que opôs embargos de declaração perante o Tribunal paulista para suscitar a afronta literal aos dispositivos legais discutidos e que "a eventual afronta ao Art. 1.022 - CPC do Acórdão Recorrido não altera o expresso no Art. 1.025, fazendo com que toda a matéria esteja devidamente prequestionada" (e-STJ fl. 831).
+Quanto ao mais, reitera os fundamentos anteriormente expendidos, no sentido de que não há que falar em prescrição no caso concreto, amparado na tese de que "a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ."
+Impugnação apresentada às e-STJ fls. 847/860.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+2. A incidência do art. 1.025 do CPC/2015 exige o reconhecimento nesta instância da negativa de prestação jurisdicional, arguida no recurso especial, o que não ocorreu no presente caso.
+3. Agravo interno desprovido.
+VOTO
+Nada obstante as razões ora invocadas, a decisão recorrida não merece reparos.
+Consta dos autos que o Tribunal estadual proveu agravo de instrumento da ELETROPAULO, ora agravada, para reformar decisão saneadora que reconheceu a prescrição parcial de débitos cobrados pela COMPANHIA DE ENGENHARIA DE TRÁFEGO, ora agravante, a título de "pagamento de preço público pelas operações e serviços desenvolvidos pela CET junto à instalação e manutenção dos mecanismos que providenciam energia elétrica à população" durante o período de 2006 a 2016, no montante de R$14.602.461,80 (quatorze milhões, seiscentos e dois mil, quatrocentos e sessenta e um reais e oitenta centavos) (e-STJ fls. 76 e 698).
+A Corte local entendeu que houve a ocorrência de causas suspensivas do prazo prescricional, entre elas, o ajuizamento de mandado de segurança pela ELETROPAULO, ora agravada, para concluir que "os créditos decorrentes daquelas notas fiscais emitidas até abril de 2009 já prescreveram" (e-STJ fl. 77).
+Mesmo instado a se pronunciar nos embargos de declaração, o Tribunal a quo não emitiu juízo de valor sobre a tese recursal fundada nos dispositivos tidos por violados, o que faz carecer o apelo nobre do requisito constitucional do prequestionamento.
+Ressalte-se que, para que se configure o prequestionamento, "não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto." (AgInt no AREsp n. 2.054.278/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/10/2022, DJe de 03/11/2022).
+Daí por que aplicada a Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Deve-se esclarecer que o art. 1.025 do CPC/2015, já vigente à época da oposição dos embargos de declaração, dispõe que "se consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 13/10/2017, e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreu, in casu.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NULIDADE DE AUTO DE PENHORA. IMPENHORABILIDADE DOS BENS CONSTRITOS. ISENÇÃO DE HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 1.022 do CPC/2015, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. A pretensão de reconhecimento do prequestionamento ficto demanda não só a oposição de aclaratórios na origem, mas a demonstração de insuficiência da medida. Apenas com a alegação, no recurso especial, de violação do art. 1.022 do CPC/2015, com a devida indicação dos vícios remanescentes após o julgamento dos embargos, bem como sua relevância para a solução da causa, pode esta Corte avançar para considerar preenchido o requisito constitucional do prequestionamento por força da ficção legal do art. 1.025 do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1744514/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/10/2020, DJe 23/10/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ILUMINAÇÃO PÚBLICA. TRANSFERÊNCIA DE ATIVOS PARA O MUNICÍPIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RESOLUÇÃO DE AGÊNCIA REGULADORA. NORMA QUE ESCAPA AO CONCEITO DE LEI FEDERAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+2. Suposta ofensa a resolução não enseja a abertura da via especial, pois essa espécie normativa não está abrangida no conceito de "lei federal."
+3. Inadmissível o recurso especial que se fundamenta na existência de divergência jurisprudencial mas não indica quais dispositivos o Tribunal de origem teria dado interpretação divergente de outros tribunais. Hipótese da Súmula 284/STF.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1595641/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 03/09/2020)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Convém registrar que "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/09/2014).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
