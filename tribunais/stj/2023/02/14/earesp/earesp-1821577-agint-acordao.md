@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/02/2023 a 14/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de divergência opostos por ALBER VASCONCELOS VENANCIO DE SOUZA E OUTROS contra acórdão da Primeira Turma, de relatoria do Ministro Sérgio Kukina, assim ementado (fls. 886-887):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DEMISSÃO. GOVERNO COLLOR. ANISTIA. LEI Nº 8.878/94. REINTEGRAÇÃO NO CARGO ANTERIORMENTE OCUPADO E NO MESMO REGIME JURÍDICO. RETRIBUIÇÃO PECUNIÁRIA RETROATIVA. VEDAÇÃO.
+1. O entendimento desta Corte é no sentido de que "Os servidores públicos anistiados devem ser enquadrados no mesmo regime jurídico a que estavam submetidos, sendo, por conseguinte, ilícita a transposição do Regime Celetista para o Regime Jurídico Único Federal" (AgInt no AREsp 1451599/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/8/2019, DJe 29/8/2019).
+2. Nos termos da legislação aplicada aos processos de anistia de ex-servidores demitidos no Governo Collor, inexiste direito à percepção de valores retroativos a qualquer título em razão do desligamento. Precedentes.
+3. Agravo interno não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 910-917).
+A parte embargante insurgiu-se contra o acórdão embargado que não conheceu do agravo interno proferido pela Primeira Turma, aduzindo, em síntese, que "o entendimento adotado pela C. 1ª Turma merece reparo porquanto os cargos ocupados pelos Autores antes de sua demissão não mais existem e, de igual forma, não foram incorporados e/ou transformados. Assim, não há como se falar em retorno ao mesmo regime jurídico" (fl. 926).
+Apontou como paradigma o seguinte aresto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. MÉDICA DO QUADRO DE PESSOAL DO INSS. PROGRESSÃO FUNCIONAL. VIOLAÇÃO DO ART. 535, II, DO CPC. INOCORRÊNCIA. VÍNCULO EMPREGATÍCIO RECONHECIDO POR SENTENÇA TRABALHISTA. TRANSMUDAÇÃO PARA O REGIME ESTATUTÁRIO. APLICABILIDADE DO ART. 243 DA LEI 8.112/1990. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.1. Inexiste violação ao art. 535, II, do CPC, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.2. É firme o entendimento no âmbito do STJ no sentido de que reconhecido através de decisão trabalhista transitada em julgado que o servidor ocupava emprego público quando da entrada em vigor da Lei 8.112/1990, impõe-se reconhecer o seu direito à transmudação para o regime estatutário, na forma do art. 243 da Lei 8.112/1990.3. Precedentes: REsp 1009437/MG, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 20/08/2009, DJe 14/09/2009; REsp 967.506/SE, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 19/02/2009, DJe 16/03/2009; REsp 717.351/SE, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 12/04/2005, DJ 20/06/2005, p. 373.4. Agravo regimental não provido. (AgRg no REsp n. 1.484.727/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2014.)
+Indeferi liminarmente os embargos de divergência, ao fundamento de inexistência de cotejo analítico.
+Inconformada, a parte agravante alega que "não há que se falar em ausência de realização do cotejo analítico quando, às e-fls. 925, os Embargantes evidenciaram que, em uma mesma situação, as C. 1ª e 2ª Turmas adotaram soluções diametralmente opostas. Faz-se necessária, portanto, a reconsideração, ou reforma, do r. decisumagravado, a fim de que, afastado o óbice imposto, sejam apreciados os embargos de divergência manejados" (fl. 954).
+O agravado não apresentou contrarrazões (fl. 962).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. A divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+2. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+VOTO
+O EXMO. MINISTRO HUMBERTO MARTINS (relator):
+Não obstante o esforço contido nas razões de agravo interno, não prospera a pretensão recursal.
+Os presentes embargos de divergência não reúnem condições de admissibilidade, pois inexiste a necessária similitude fática entre os acórdãos confrontados a ensejar o processamento do recurso.
+Verifica-se que a divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+Nesse contexto, cabe aos embargantes a comprovação do dissídio nos moldes estabelecidos no art. 266, § 4º, c/c o art. 255, § 1º, do Regimento Interno do STJ:
+Art. 266. Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo:
+(..)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+art. 255 (..)
+§ 1º Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CRIMES DE VIOLAÇÃO DE SIGILO FUNCIONAL. INSURGÊNCIA CONTRA A DOSIMETRIA DA PENA. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. INSUFICIÊNCIA. PARADIGMAS PROLATADOS EM HABEAS CORPUS. INVIABILIDADE. DISSENSO PRETORIANO INDEMOSTRADO. EMBARGOS LIMINARMENTE INDEFERIDOS. RENOVAÇÃO DA INSURGÊNCIA. INOVAÇÃO NA ARGUMENTAÇÃO, COM INDICAÇÃO DE OUTRO JULGADO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não foi realizado o cotejo analítico, nos moldes do art. 1.043, § 4.º, do CPC, e art. 266, § 4.º, do RISTJ. A mera transcrição de ementas, seguidas de considerações interpretativas do recorrente, não atendem aos requisitos de admissibilidade dos embargos de divergência, que pressupõem a demonstração da identidade fática entre os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa.
+2. Não se admite a inovação de argumentação em agravo regimental ou interno, com indicação de novo paradigma, para corrigir erro na articulação dos embargos de divergência manejados, em razão da preclusão consumativa.
+3. Agravo regimental desprovido. (AgRg nos EAREsp n. 1.910.762/RJ, relatora Ministra Laurita Vaz, Terceira Seção, DJe de 25/2/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDEFERIMENTO. MANUTENÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. SIMPLES TRANSCRIÇÃO DE EMENTA. FALTA DE DEMONSTRAÇÃO DO DISSÍDIO.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.(AgInt nos EAREsp n. 1.723.367/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 10/12/2021.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PARADIGMA. DISSÍDIO JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA. ACÓRDÃO PARADIGMA PROFERIDO EM AÇÃO QUE POSSUI NATUREZA DE GARANTIA CONSTITUCIONAL. INADMISSIBILIDADE.
+1. "O dissídio jurisprudencial deve ser demonstrado conforme preceituam os arts. 266, § 4º, do RISTJ e 1.043, § 4º, do CPC, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados" (AgRg nos EREsp 1.842.988/CE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 2.6.2021, DJe de 9.6.2021).
+2. Além disso, para a configuração da divergência jurisprudencial, é imprescindível a demonstração tanto da similitude fática quanto da identidade de questão jurídica entre o acórdão embargado e os paradigmas apontados, conforme a pacífica orientação desta Corte Superior.
+3. A jurisprudência do STJ firmou o entendimento de que, em embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional, tais como, Habeas Corpus, Recurso Ordinário em Habeas Corpus, Mandado de Segurança, Recurso Ordinário em Mandado de Segurança, Habeas Data e Mandado de Injunção.
+4. Agravo interno a que se nega provimento. (AgInt nos EREsp n. 1.782.867/MS, relatora Ministra Maria Isabel Gallotti, Corte Especial, DJe de 8/11/2021.)
+Registre-se que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça. Cito os precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO ESPECIAL. NÃO CABIMENTO. ACÓRDÃO PARADIGMA QUE NÃO JULGA O MÉRITO RECURSAL. ACÓRDÃO EMBARGADO DE MÉRITO. IMPOSSIBILIDADE DE APRECIAÇÃO DA DIVERGÊNCIA.
+1. No âmbito dos embargos de divergência, não se rejulga o recurso especial, sendo incabível analisar possível acerto ou desacerto do acórdão embargado, mas tão somente se avalia eventual dissídio de teses jurídicas com o objetivo de uniformizá-las.
+2. Nos termos da jurisprudência desta Corte, não se conhece da divergência jurisprudencial entre julgado que incursiona no mérito da demanda e outro que não ultrapassa o juízo de admissibilidade, ante a verificação de óbice processual. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.792.225/CE, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL - ACÓRDÃO EMBARGADO QUE APLICOU OS ENUNCIADOS DAS SÚMULAS N.ºS 5 E 7/STJ - INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INSURGÊNCIA DOS AGRAVANTES .
+1. É inviável, em sede de embargos de divergência, discussão sobre o acerto ou desacerto da regra técnica de conhecimento utilizada pelo relator do julgado embargado. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.691.411/GO, relator Ministro Marco Buzzi, Segunda Seção, DJe de 30/6/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
