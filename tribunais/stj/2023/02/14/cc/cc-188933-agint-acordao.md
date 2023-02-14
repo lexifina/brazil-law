@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/02/2023 a 14/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE INVASÃO DE ATRIBUIÇÕES JUDICIAIS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+2. Nesses casos, de redirecionamento da execução para coobrigados, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio.
+3. Incidência da Súmula 480 desta Corte: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por CHARLEX INDÚSTRIA TÊXTIL EIRELI - EM RECUPERAÇÃO JUDICIAL e OUTRO contra decisão que não conheceu do conflito de competência, pois, nos moldes da Súmula 480/STJ, "o Juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+A decisão agravada esclareceu que, em situações como essa, em que bens de terceiros, de sócios, de coobrigados, de devedores solidários ou de sociedade do mesmo grupo econômico, são chamados para responder à execução ajuizada contra a sociedade em recuperação judicial, a jurisprudência desta egrégia Corte é firme no sentido de não reconhecer a existência de conflito de competência.
+A agravante, por sua vez, alega que o presente agravo interno deve ser conhecido e provido, porque o Juízo trabalhista suscitado desbordou dos limites de sua competência, pois "o único Juízo competente para deliberar acerca de eventual pedido de desconsideração da pessoa jurídica é o MM. Juízo Recuperacional, ou seja, àquele em que tramita o pedido de Recuperação" (na fl. 66).
+Requer o conhecimento e provimento do agravo interno.
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE INVASÃO DE ATRIBUIÇÕES JUDICIAIS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+2. Nesses casos, de redirecionamento da execução para coobrigados, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio.
+3. Incidência da Súmula 480 desta Corte: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Não prospera a irresignação, pois, de início, nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO POSITIVO DE COMPETÊNCIA. SUSCITANTE EM RECUPERAÇÃO JUDICIAL. JUÍZO TRABALHISTA QUE DETERMINOU A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA SUSCITANTE. POSSIBILIDADE. INEXISTÊNCIA, A PRINCÍPIO, DE DECISÕES CONFLITANTES. PLAUSIBILIDADE DO DIREITO VINDICADO E PERIGO DA DEMORA NÃO EVIDENCIADOS. LIMINAR INDEFERIDA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que "a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça" (AgInt no CC 160.384/SP, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 23/10/2019, DJe 30/10/2019).
+2. Por outro lado, inexiste conflito quando a execução contra a recuperanda é redirecionada a sócio que não está submetido ao processo de soerguimento, nos termos da Súmula 480/STJ.
+3. Não evidenciados a plausibilidade do direito vindicado e o perigo de dano, de rigor o indeferimento do pedido liminar, revelando-se escorreita a decisão ora agravada que assim procedeu.
+4. Agravo interno desprovido.
+(AgInt no CC n. 178.530/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 31/8/2021, DJe de 3/9/2021.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE INVASÃO DE ATRIBUIÇÕES JUDICIAIS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+2. Nas hipóteses em que bens de terceiros, de sócios, de coobrigados, de devedores solidários ou de sociedade do mesmo grupo econômico, não submetidos ao plano de recuperação judicial, são chamados para responder à execução ajuizada contra a sociedade em recuperação judicial, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio.
+3. Em casos assim, a sociedade em recuperação judicial é até mesmo beneficiada com a continuidade da execução contra os sócios ou coobrigados, pois em um primeiro momento fica desonerada daquela obrigação, que somente depois lhe será exigida, se for o caso, regressivamente.
+4. Incidência da Súmula 480 desta Corte: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+5. Agravo interno desprovido.
+(AgInt no CC n. 160.384/SP, desta relatoria, Segunda Seção, julgado em 23/10/2019, DJe de 30/10/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DO JUÍZO TRABALHISTA PARA RECONHECIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO MANTIDA.
+1. "A desconsideração da personalidade jurídica de empresa recuperanda por juízo diverso daquele em que se processa a recuperação judicial não caracteriza, por si só, conflito de competência" (AgInt no CC 149.346/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017).
+2. "Se a adjudicação ocorrer antes da declaração da falência, esta não deve ser anulada. Por outro lado, caso a adjudicação se dê depois do decreto falimentar, o ato deve ser desfeito, com a integração do bem à massa falida objetiva" (EDcl nos EDcl nos EDcl no AgRg no CC 109.541/PE, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/9/2012, DJe 23/4/2013).
+3. No presente caso, a Justiça do Trabalho desconsiderou a personalidade jurídica da empresa reclamada e penhorou bem do sócio ora suscitante antes da decretação de sua falência. A adjudicação do referido imóvel ao credor trabalhista também ocorreu antes que o Juízo universal voltasse a execução coletiva contra o patrimônio dos sócios. Portanto, compete ao juízo laboral a prática dos atos tendentes a ultimar a adjudicação.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC n. 144.387/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 8/5/2019, DJe de 20/5/2019.)
+Assim, conforme já alinhavado na decisão agravada, em hipóteses desse jaez, não há dois juízes decidindo acerca do destino do mesmo patrimônio, podendo-se concluir que a sociedade em recuperação judicial é até mesmo beneficiada com a continuidade da execução contra os sócios ou coobrigados, pois em um primeiro momento fica desonerada daquela obrigação, que somente depois lhe será exigida, se for o caso, pelo garante.
+Confira-se, a propósito, a jurisprudência desta Corte:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DOS COOBRIGADOS NO POLO PASSIVO. NÃO SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. SÚMULA 420/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nas hipótese em que bens de terceiros, de sócios, de coobrigados, de devedores solidários ou de sociedade do mesmo grupo econômico, não submetidos ao plano de recuperação judicial, são chamados para responder à execução ajuizada contra a sociedade em recuperação judicial, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio.
+2. Em casos assim, a sociedade em recuperação judicial é até mesmo beneficiada com a continuidade da execução contra os sócios ou coobrigados, pois em um primeiro momento fica desonerada daquela obrigação, que somente depois lhe será exigida, se for o caso, regressivamente.
+3. Incidência da Súmula 480 desta Corte: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+4. Agravo interno desprovido.
+(AgInt no CC 157.947/MT, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, SEGUNDA SEÇÃO, julgado em 08/08/2018, DJe de 13/08/2018)
+Na esteira desse entendimento pacífico, foi editada a Súmula 480 desta Corte, dispondo que "o juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+Por fim, se a Suscitante não concorda que terceiros não abrangidos pela recuperação judicial sejam executados pela Justiça do Trabalho em razão de desconsideração da personalidade jurídica, deve manejar os recursos apropriados para obter a reforma da decisão do d. Juízo laboral, e não manejar conflito de competência.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
