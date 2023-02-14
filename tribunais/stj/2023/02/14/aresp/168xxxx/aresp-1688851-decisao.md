@@ -1,0 +1,23 @@
+DECISÃO
+Trata -se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 109/110).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 46/47):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. EXCEÇÃO PRÉ-EXECUTIVIDADE. NULIDADE DE CITAÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. MEIO INADEQUADO. CITAÇÃO REALIZADA PELO CORREIO EM ENDEREÇO FORNECIDOEM SÍTIO ELETRÔNICO DA EMPRESA. VALIDADE. 1. A exceção de pré-executividade não é apropriada para a discussão de questões que necessitem de dilação probatória. Apenas se presta ao exame de matérias processuais que se relacionem com os pressupostos processuais, condições da ação ou nulidades e defeitos formais flagrantes do título executivo, pois neste meio de defesa não se abre oportunidade para ampla produção de provas. Precedentes TJGO e STJ. 2. Não há nulidade de citação cuja carta teria sido enviada para o mesmo endereço constante do site da empresa, disponível para consumidores. 3. AGRAVO DE INSTRUMENTO CONHECIDO EDESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 59/66).
+Nas razões do recurso especial (e-STJ fls. 70/81), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 239 e 248, § 2º, do CPC/2015, porque (e-STJ fl. 77):
+ ..  a carta de citação foi endereçada erroneamente, uma vez que a sede da empresa recorrente foi alterada, meses antes do cumprimento do ato processual, o que restou comprovado nos autos originários através da juntada do Comprovante de Inscrição e Situação Cadastral(eventosnos26 e 39, arq. 02da medida executiva).
+Por isso, analisada a questão sob a sistemática processual vigente, é imperioso concluir pela INVALIDADE do ato de comunicação processual realizado no evento nº 26dos autos nº 5199956.97, haja vista o seu direcionamento para localidade diversa daquela em que sediada o recorrente.
+No agravo (e-STJ fls. 115/126), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 220/228 (e-STJ).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem assim entendeu (e-STJ fls. 44/45 - grifei):
+ ..  da análise detida dos autos de origem, é possível verificar que a carta de citação foi entregue no endereço constante do sítio eletrônico da empresa e sem que o agente dos Correios tenha feito qualquer ressalva no aviso de recebimento.
+Constata-se que inicialmente foi promovida a citação da empresa executada por carta, no endereçoindicado na inicial (Rua C231 c/ C-248, Setor Nova Suíça, Goiânia), em três tentativas, as quais não obtiveramsucesso, conforme "A. R" juntado no evento 08. Foi então requerida sua citação no endereço indicado nas notasfiscais que embasam a execução e também indicado pela Agravante como sendo o atual de sua sede - Rua JC28, n. 37, Residencial Jardim Canedo, Senador Canedo, igualmente sem sucesso, conforme "A. R." do evento13, que registra a informação prestada por "Fernando" que referida empresa mudou-se.
+Após, foi tentada a citação no endereço indicado no evento 15 (Avenida Botafogo, Senador Canedo), também infrutífera, com a devolução do "A. R." por motivo de mudança, consoante informação do evento 21.
+Em seguida, foi efetivada, com êxito, a citação no endereço informado no sítio eletrônico da empresa, evento 27, objeto de insurgência da Agravante.
+Contudo, em pese os argumentos da Agravante no sentido que a sede da empresa localiza-se à Rua JC 28, n. 37, Residencial Jardim Canedo, Senador Canedo, como bem pontuado pela magistrada singular, o Comprovante de Inscrição e Situação Cadastral perante a Receita Federal, por si só, não comprova que a alteração de endereço ocorreu antes ou depois da citação.
+É de bom alvitre relembrar que a página eletrônica da empresa Agravada(http://www. petrogoias. com. br/Localizacao) indica como sua localização a Rua Niterói c/ Copacabana - Qd. 4 Lt.1/19 - Sl. 13 e 14, Setor Comercial, Senador Canedo - Goiás e não o endereço indicado perante a Receita Federal.
+Nessa ordem, tenho que a comprovação da alteração do endereço e a invalidação das informações prestadas pelos Correios, reclamam questões de dilação probatória, pelo que, a exceção de pré-executividade não representa a via processual adequada.
+Modificar o entendimento do acórdão impugnado quanto ao endereço válido da recorrente no momento da citação, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
