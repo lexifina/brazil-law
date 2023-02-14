@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em benefício de DANIEL DOS SANTOS MÁCEIA (ou DANIEL DOS SANTOS MÁCEA) contra acórdão da Turma Recursal Cível e Criminal do Tribunal de Justiça de São Paulo proferido na Apelação Criminal n. 1500200-43.2021.8.26.0083
+Extrai-se dos autos que o paciente foi condenado em primeiro grau à pena de 7 meses e 25 dias de detenção em regime semiaberto, como incurso no art. 331 do Código Penal.
+Irresignada, a Defesa apelou perante a Turma Recursal sustentando que as provas carreadas aos autos não eram suficientes para basear a sentença condenatória, tendo o colegiado negado provimento ao recurso em acórdão assim resumido:
+"APELAÇÃOCRIMINAL. DESACATO (ART. 331, CAPUT, DO CÓDIGO PENAL). CONDENAÇÃO BEM DECRETADA. AUTORIA E MATERIALIDADE COMPROVADAS. PROVA ORAL ROBUSTA. PENA E REGIME INICIAL DE CUMPRIMENTO BEM FIXADOS. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 82, §5º DA LEI 9.099/95. APELO NÃO PROVIDO" (fl. 17).
+No presente writ, sustenta, em síntese, que "há duas versões nos autos. Uma é sustentada pela vítima, que afirma ter sido ofendida, e outra é sustentada pelo acusado, que negou a prática do delito. Conforme é cediço, meras conjecturas mostram-se demasiado frágeis para sustentar uma condenação, que, efetivada, seria em franca violação ao princípio da presunção de inocência".
+Alega, ainda, que inexiste na comarca estabelecimento prisional compatível com o regime semiaberto e que por essa razão está cumprindo pena em regime fechado, em flagrante violação da Súmula Vinculante n. 56/STF.
+Pugna pela "concessão LIMINAR da ordem, com a imediata expedição do contramandado de prisão. Ao final, a concessão da ordem de habeas corpus em definitivo" (fl. 9).
+É o relatório.
+Decido.
+A irresignação do paciente foi julgada por colegiado da Turma Recursal do Tribunal de Justiça do Estado de São Paulo.
+Nesse contexto, de acordo com o disposto no art. 105, I, alínea "c", da Carta da República, é certo que o Superior Tribunal de Justiça não possui competência para processar e julgar o presente feito.
+A propósito, confiram-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AMEAÇA. NULIDADE DA AÇÃO PENAL PELO NÃO OFERECIMENTO DE TRANSAÇÃO PENAL. REFORMATIO IN PEJUS. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O prévio exame das teses pelas instâncias de origem, constitui requisito indispensável para a apreciação de eventual ilegalidade nesta Corte Superior.
+III - Os temas referentes à proposta de transação penal e à exasperação da pena-base, na forma apresentada neste writ, foram examinadas apenas pela Turma Recursal, circunstância que inviabiliza a análise por esta Corte, pois, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal.
+IV - O Tribunal de origem não exerceu qualquer juízo de cognição acerca da aventada reformatio in pejus, pelo uso de processo em curso, para indeferir o direito à transação penal. Nesse diapasão, esta Corte fica impedida de examinar diretamente a quaestio, sob pena de incorrer em indevida su pressão de instância.
+V - In casu, não há negativa de prestação jurisdicional, pois, o Tribunal a quo consignou a inexistência de situação de dano efetivo ou de risco potencial ao jus ambulandi, pois, quando do julgamento do recurso de apelação, realizado em 26.09.2018, atento ao efeito devolutivo da apelação, assentou que o agravante não preenchia o requisito subjetivo para a transação penal, nos termos do art. 76, parágrafo 2º, inciso III, da Lei n. 9.099/1995, in verbis: "não estão presentes os requisitos legais diante de condenação anterior inclusive por crime de mesma natureza." Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, recurso de rito célere e de cognição sumária.
+Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC n. 137.285/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021.)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. CONTRAVENÇÃO PENAL. ATO PRATICADO POR JUIZ INTEGRANTE DO COLÉGIO RECURSAL. INCOMPETÊNCIA DO STJ. ART. 105, I, C, DA CF. OMISSÃO INEXISTENTE.
+1. Não há omissão a ser sanada. Nos termos da jurisprudência desta Corte, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal. Dessarte, não há se falar em competência do Superior Tribunal de Justiça para conhecer do presente writ (AgRg no HC n. 421.161/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/11/2017).
+2. Embargos de declaração rejeitados.
+(EDcl no HC n. 504.331/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2019, DJe de 3/6/2019.)
+PENAL E PROCESSO PENAL. 1. HABEAS CORPUS CONTRA DECISÃO DE TURMA RECURSAL. INCOMPETÊNCIA DO STJ. ART. 105, I, "C", DA CF. 2. MANDAMUS QUE DEVE SER MANEJADO PERANTE O TRIBUNAL DE ORIGEM. ENTENDIMENTO SEDIMENTADO DO STF E DO STJ. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não é possível conhecer do mérito da presente impetração.
+Conforme verificado, trata-se de mandamus impetrado contra decisão proferida por Juízes de Direito que compõem a Turma Recursal Cível e Criminal do Colégio Recursal de Jaboticabal/SP. Como é cediço, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal. Dessarte, não há se falar em competência do Superior Tribunal de Justiça para conhecer do presente writ.
+2. Conforme entendimento há muito sedimentado pelo Supremo Tribunal Federal, o habeas corpus contra as decisões de turmas recursais deve ser impetrado perante o Tribunal de Justiça, uma vez que os Juízes que compõem as Turmas Recursais estão subordinados ao respectivo Tribunal. Assim, apenas após o exame da alegada ilegalidade pelo respectivo Tribunal de origem, é que se tornará possível o manejo de mandamus perante esta Corte.
+3. Agravo regimental improvido.
+(AgRg no HC n. 421.161/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2017, DJe de 13/11/2017.)
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
