@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANTONIO BELARMINO DE ALMEIDA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte no julgamento do HC n. 0806522-12.2022.8.20.0000.
+Depreende-se dos autos que, em 08/09/2008, o Ministério Público ofereceu denúncia contra o Paciente imputando a ele a prática do crime descrito no art. 121, § 2.º, inciso IV, do Código Penal. Nesse momento, requereu a decretação da prisão cautelar do Acusado.
+A denúncia descreve que "no 21 de abril de 1989, por volta das 21.30 horas, na Rua Getúlio Vargas, bairro Cidade Nova, via pública, nesta Capital, o acusado, agindo de forma a impossibilitar a defesa da vítima e utilizando-se de arma branca, tipo faca peixeira, desferiu cutiladas nas costas de Francisco Severino da Silva, causando-lhes várias lesões em sua região abdominal, que o levaram à óbito" (fl. 13).
+A inicial acusatória foi recebida em 11/09/2008, sendo decretada a prisão cautelar (fl. 38).
+O Acusado foi pronunciado, nos termos da denúncia, em 03/08/2012 (fls. 38-41).
+O mandado de prisão foi cumprido em 30/05/2021 (fl. 4).
+Impetrado habeas corpus na origem, a Corte local conheceu em parte da insurgência e, nessa extensão, denegou a ordem, nos termos da seguinte ementa (fls. 282):
+"EMENTA: CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ARTS. 121, §2º, IV DO CP). ALEGATIVA DE EXCESSO DE PRAZO. PACIENTE JÁ PRONUNCIADO. COMPLEXIDADE DO FEITO E EVASÃO COM RECAPTURA RECENTE. JUSTIFICATIVAS SUFICIENTES PARA ELASTECER OS MARCOS TEMPORAIS. PACIENTE JÁ PRONUNCIADO (SÚMULA 21 DO STJ). TRÂMITE DENTRO DOS LIMITES DA . RAZOABILIDADE JUÍZO LABORIOSO NO IMPULSIONAMENTO DO A QUO INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. FEITO. ORDEM DENEGADA."
+Neste habeas corpus, sustenta, em síntese: a) excesso de prazo para a formação da culpa; b) presença de condições pessoais favoráveis; c) ausência dos requisitos necessários à manutenção da prisão cautelar.
+Pleiteia, em liminar e no mérito, a revogação da custódia, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido (fls. 78-80).
+As informações foram apresentadas (fls. 84-88).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus (fls. 84-88).
+É o relatório. Decido.
+Ao se consultar o andamento da ação penal originária, verifica-se a superveniência de sentença em que se condenou o Paciente pela prática dos crimes descritos na denúncia à pena total de 06 (seis) anos e 03 (três) meses de reclusão, em regime inicial semiaberto.
+Assim, o "superveniente julgamento da ação penal pelo juízo de primeiro grau prejudica writ que impugnava o excesso de prazo na instrução criminal"(AgRg no RHC n. 154.679/BA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 7/12/2021, DJe de 16/12/2021).
+Ao sentenciar o feito, o Juízo de origem adotou os seguintes fundamentos para indeferir a impugnação da condenação em liberdade (sem grifos no original):
+" Na forma do art. 492, I, "e", do CPP, nego ao réu o direito de aguardar o trânsito em julgado da sentença em liberdade, uma vez que entendo que ainda permanecem os motivos autorizadores da custódia cautelar, razão porque mantenho a prisão que lhe foi decretada, agora reforçada com a condenação imposta, para assegurar a aplicação da lei penal, uma vez que esteve foragido por mais de 30 anos, demonstrando intenção concreta em furtar-se a responder aos termos do processo, tudo a teor do art. 312 do CPP."
+Verifica-se, portanto, que o Magistrado condutor da ação penal valorou aspectos fáticos posteriores a este habeas corpus e concluiu pela necessidade de manutenção da prisão cautelar.
+Assim, há novo título a respaldar a custódia cautelar da Apenada, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado. Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, por meio da qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal, in verbis:
+"Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta." (sem grifos no original.)
+A análise de eventual constrangimento ilegal pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foram utilizados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c). Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FORMAÇÃO DE NOVO TÍTULO. REALIDADE JURÍDICO-PROCESSUAL ALTERADA. PREJUDICIALIDADE DA QUESTÃO SUSCITADA NO RHC. PRECEDENTES
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+Ante o exposto, JULGO PREJU DICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO SUPERADO. SUPERVENIENTE SENTENÇA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVOS FUNDAMENTOS. IMPOSSIBILIDADE DE APRECIAÇÃO POR ESTA CORTE SUPERIOR DE JUSTIÇA, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS PREJUDICADO.
