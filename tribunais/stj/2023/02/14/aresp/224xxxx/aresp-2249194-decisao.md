@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por GILMAR DA MOTA PEREIRA contra decisão do Tribunal de Justiça do Estado do Tocantins, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+A defesa aponta violação do art. 155 do Código de Processo Penal, haja vista que a condenação do réu baseou-se no testemunho de Antônio Batista Dias Costa, colhido exclusivamente na fase do inquérito policial, e nos depoimentos dos policiais militares. Entretanto, segundo o recorrente, todos teriam sido unânimes em afirmar que não sabiam se ele estaria traficando drogas, razão pela qual deve ser absolvido.
+Caso assim não se entenda, pleiteia seja desclassificada a conduta para aquela prevista no art. 28, § 3º da Lei 11.343/06, alegando que a inexpressiva quantidade de droga apreendida (26 g de Crack) não seria suficiente para demonstrar a traficância (e-STJ, fls. 471-476).
+Foram apresentadas as contrarrazões (e-STJ, fls. 481-487).
+O recurso foi inadmitido (e-STJ, fls. 493-496). Daí este agravo (e-STJ, fls. 507-513).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (e-STJ, fls. 537-541).
+É o relatório.
+Decido.
+A irresignação merece parcial acolhimento.
+No tocante à tese amparada no art. 155 do Código de Processo Penal, o Tribunal a quo assim se manifestou:
+"Todavia, a versão da recorrente de que é mero usuário não convence, pois destoa das provas dos autos, como passo a expor.
+Ainda nos autos do inquérito policial, o depoente Antônio Batista Dias Costa, indivíduo flagrado juntamente com o apelante, declarou que "(..) presenciou quando Gilmar colocou um invólucro de plástico na boca ao perceber a chegada dos policiais; que presenciou quando os policiais tiraram o plástico da boca de Gilmar contendo uma quantidade considerável de droga; que já foi usuário de drogas e sabe que Gilmar faz comércio da mesma na região; que a olho nu identifica quantidade de droga avaliada em aproximadamente R$ 2.000,00 (dois mil reais); que nega estar usando entorpecentes e que não sabia que Gilmar estava portando drogas naquele momento" (evento 1 - AUD/INTER3, autos do IP).
+Em juízo a referida testemunha foi dispensada pela acusação, consoante termo acostado ao evento 93, dos autos originários.
+Os depoimentos dos agentes policiais que realizaram a abordagem do acusado elucidam a autoria delitiva quanto ao delito de tráfico de drogas, consoante esposado na sentença: "os policiais civis PAULO CÉSAR VALADARES TEIXEIRA e MARCOS ANTÔNIO CAVALCANTE RIBEIRO, tanto na fase investigatória quanto em juízo, confirmaram que o acusado estava sendo investigado por envolvimento com o tráfico de drogas e no dia do fato, o avistaram dando-lhe ordem de parada e ao ver a viatura o acusado acelerou a motocicleta com a intenção de fugir. Naquele momento, os policiais o avistaram colocando a droga dentro da boca com o intuito de engolir. Ato contínuo, deram-lhe voz de prisão e o encaminharam à delegacia de polícia" (evento 95, autos de origem).
+As circunstâncias de apreensão da droga traçadas pelos depoimentos policiais elucidam a prática criminosa, servindo como importante elemento de convicção na condenação do acusado.
+Convém destacar que, além das testemunhas policiais não terem sido contraditadas, a orientação pretoriana é no sentido de que constituem prova idônea seus respectivos depoimentos, como de qualquer outra testemunha que não esteja impedida ou suspeita, notadamente quando prestados sob o crivo do contraditório, aliado ao fato de estar em consonância com o conjunto probatório, como na espécie.
+(..)
+A pronta identificação do apelante como autor do crime de tráfico de drogas pelos policiais, os quais detinham informações de que o increpado exercia o comércio proscrito de entorpecentes naquela localidade, é suficiente ao acolhimento da denúncia, não havendo que se cogitar carência de provas ou que a condenação dera-se por presunção." (e-STJ, fls. 445-447, grifou-se).
+O acusado, por sua vez, tanto na fase policial quanto em juízo, afirmou que é usuário de drogas há aproximadamente quatro anos e que a substância encontrada consigo destinava-se ao seu próprio consumo (e-STJ, fl. 445).
+Sobre o tema, cumpre ressaltar que, de acordo com o entendimento deste Superior Tribunal de Justiça, os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos e colhidos sob o crivo do contraditório e da ampla defesa.
+Ilustrativamente:
+" ..
+1. É cediço que esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa (AgRg no AREsp n. 1.877.158/TO, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 20/9/2021).
+2. In casu, em que pese o testemunho do policial, dando conta da dinâmica da participação do paciente na conduta criminosa, verifica-se que tal relato está alicerçado nas mensagem mostradas por Ezequiel (corréu) na delegacia - Retornaram, com Ezequiel, à Delegacia de Polícia e ele mostrou a conversa no WhatsApp da situação, demonstrando que quem forneceu a arma foi o réu Matheus.
+Ainda de acordo com o depoimento, nas conversas de celular apresentadas por Ezequiel, não constava a palavra "roubo", mas havia tratativas para uma "situação" - sendo que tais mensagens não foram juntadas ao autos, ônus que, de fato, como bem afirmou o Juízo sentenciante, caberia à acusação.
+3. Conforme a jurisprudência desta Corte Superior, em atenção ao disposto na lei processual penal (art. 155 - CPP), não se admite a condenação embasada apenas em provas colhidas no inquérito policial, não submetidas ao devido processo legal, com observância dos princípios do contraditório e da ampla defesa. (HC n. 691.058/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta turma, julgado em 26/10/2021, DJe 28/10/2021).
+4. Ordem concedida para cassar o acórdão de apelação e restabelecer a sentença que absolveu o paciente (Ação Penal n. 0044277-27.2017.8.16.0021)." (HC n. 723.664/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+" ..
+1. De acordo com a jurisprudência predominante deste Superior Tribunal de Justiça, são válidos os depoimentos dos policiais em juízo, mormente quando submetidos ao necessário contraditório e corroborados pelas demais provas colhidas e pelas circunstâncias em que ocorreu o delito.
+Omissis.
+4. Agravo regimental improvido."
+(AgRg no Ag n. 1.336.609/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 6/8/2013, DJe de 14/8/2013.)
+Feitas essas considerações, constata-se que o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte, uma vez que os depoimentos prestados pelos policiais não encontram respaldo em nenhuma outra prova judicializada.
+Assim, uma vez que não foi mencionado nenhum elemento concreto que autorize a condenação por tráfico, mas apenas indícios e suposições da prática da traficância, imperiosa a absolvição do recorrente das sanções do art. 33, caput , da Lei 11.343/2006, em homenagem ao consagrado princípio de Direito Penal, segundo o qual a dúvida resolve-se em favor do réu.
+Contudo, não há dúvidas de que a droga foi encontrada em poder do recorrente, de modo que sua conduta amolda-se àquela prevista no art. 28 da Lei de Drogas.
+Corroboram esse entendimento:
+" ..
+II - Na hipótese, o conjunto probatório é extremamente frágil e não confere certeza alguma da prática do delito, sobretudo em razão dos desencontros entre as várias versões da vítima e as demais evidências dos autos. Nesse contexto, por segurança, o mais adequado é a absolvição, em nome do princípio in dubio pro reo, forte no artigo 386, inciso VII, do Código de Processo Penal. Agravo regimental desprovido." (AgRg no AREsp 915.956/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/11/2016, DJe 02/12/2016).
+" ..
+4. Considerando a apreensão de quantidade não expressiva de droga e a ausência de juízo de certeza quanto aos elementos indicativos da comercialização do entorpecente, afigura-se razoável adotar a interpretação mais favorável ao imputado, com a desclassificação da conduta delituosa para o tipo previsto no art. 28 da Lei n. 11.343/2006.
+5. Agravo regimental provido. Agravo conhecido para prover o recurso especial a fim de desclassificar a conduta para o tipo previsto no art. 28 da Lei 11.343/2006, devendo o Juízo de origem aplicar as sanções nele cominadas, como entender de Direito."
+(AgRg no AREsp n. 2.136.892/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de desclassificar a conduta do recorrente para aquela prevista no art. 28 da Lei de Drogas.
+Publique-se. Intimem-se.
