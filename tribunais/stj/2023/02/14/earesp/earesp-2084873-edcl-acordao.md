@@ -1,0 +1,35 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. REINCIDÊNCIA. ALEGADO ERRO MATERIAL. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO INADMITIDO PELO ACÓRDÃO EMBARGADO. PRETENSÃO DA CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPROPRIEDADE. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGADA OMISSÃO. VÍCIO INEXISTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não há omissão nenhuma a ser reparada. O que se verifica é a utilização indevida de recurso integrativo como meio de reiterar o inconformismo do Embargante, com a repetição da mesma argumentação, oportunamente rechaçada pelo acórdão embargado, que foi claro e expresso ao ratificar o indeferimento liminar dos embargos de divergência, arrimado em farta jurisprudência.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Batista Moreira (Desembargador convocado do TRF1) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por LUÍZ CARLOS DA SILVA contra acórdão desta TERCEIRA SEÇÃO, por mim relatado, assim ementado:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. REINCIDÊNCIA. ALEGADO ERRO MATERIAL. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO INADMITIDO PELO ACÓRDÃO EMBARGADO. PRETENSÃO DA CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPROPRIEDADE. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência mansa e pacífica desta Corte é de que "o prequestionamento constitui requisito de admissibilidade do recurso especial, ainda que se trate de matéria de ordem pública" (AgRg no AREsp 1.964.487/MS, Relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1ª Região, SEXTA TURMA, julgado em 28/06/2022, DJe de 01/07/2022. Inexistência de dissídio jurisprudencial.
+2. É descabida a postulação de habeas corpus de ofício como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, consoante a jurisprudência assente deste Superior Tribunal de Justiça.
+3. Os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - têm como fim precípuo uniformizar a jurisprudência do Tribunal, não se prestam a simples rejulgamento da causa pela Seção, como fosse via recursal ordinária interna, para se corrigir pretensos erros ou incorreções dos demais órgãos fracionários.
+4. Agravo regimental desprovido."
+Alega o Embargante omissão porque parte dos argumentos defensivos não teriam sido examinados, reiterando a insurgência, nestes termos (fl. 2090):
+" ..  o embargante deduziu como razão precípua a ilegalidade de se privilegiar a forma ao erro judiciário, no caso, em razão do reconhecimento de reincidência com base folha de antecedentes de homônimo.
+Pontuou que, inobstante o prequestionamento tenha sido indicado como impeditivo de recebimento do recurso do embargante, tal requisito cederia espaço a análise do erro material, eis que se trata de matéria de ordem pública, passível de apreciação a qualquer tempo, inclusivo por via de Habeas Corpus por concessão de ofício.
+De modo a atender os requisitos de admissibilidade do Embargos de divergência, indicou a divergência havida nas turmas julgadoras, com vistas a uniformização do entendimento jurisprudencial e, para tanto, lançou cotejamento analítico dos precedentes.
+Todavia, com a devida vênia, esta Egrégia Seção julgadora não abordou esses pontos erigidos pela defesa, limitando-se aos motivos que foram exarados na oportunidade de indeferimento liminar dos Embargos de Divergência."
+Requer, pois, o acolhimento dos embargos, "o fim de esclarecer a omissão indicada, notadamente no que tange a divergência quanto à adoção do posicionamento que privilegia os requisitos de admissibilidade recursal em face de matéria de ordem pública (reincidência fundada em processo de homônimo)."
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. REINCIDÊNCIA. ALEGADO ERRO MATERIAL. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO INADMITIDO PELO ACÓRDÃO EMBARGADO. PRETENSÃO DA CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPROPRIEDADE. AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGADA OMISSÃO. VÍCIO INEXISTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não há omissão nenhuma a ser reparada. O que se verifica é a utilização indevida de recurso integrativo como meio de reiterar o inconformismo do Embargante, com a repetição da mesma argumentação, oportunamente rechaçada pelo acórdão embargado, que foi claro e expresso ao ratificar o indeferimento liminar dos embargos de divergência, arrimado em farta jurisprudência.
+2. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Não há omissão nenhuma a ser reparada. O que se verifica é a utilização indevida de recurso integrativo como meio de reiterar o inconformismo do Embargante, com a repetição da mesma argumentação, oportunamente rechaçada pelo acórdão embargado, que foi claro e expresso ao ratificar o indeferimento liminar dos embargos de divergência, arrimado em farta jurisprudência, consignando que:
+(i) " ..  não há divergência de teses jurídicas a ensejar a admissibilidade da via eleita."
+(ii) "A jurisprudência mansa e pacífica desta Corte é de que "o prequestionamento constitui requisito de admissibilidade do recurso especial, ainda que se trate de matéria de ordem pública"  .. ."
+(iii) " ..  é descabida a postulação  de habeas corpus de ofício  como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, consoante a jurisprudência assente deste Superior Tribunal de Justiça."
+(iv) " ..  os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - têm como fim precípuo uniformizar a jurisprudência do Tribunal, não se prestam a simples rejulgamento da causa pela Seção, como fosse via recursal ordinária interna, para se corrigir pretensos erros ou incorreções dos demais órgãos fracionários."
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
