@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado contra acórdão assim ementado (fl. 82):
+EMENTA: RECURSO DE AGRAVO EM EXECUÇÃO - IRRESIGNAÇÃO DEFENSIVA - LIVRAMENTO CONDICIONAL - CONCESSÃO DO BENEFÍCIO - IMPOSSIBILIDADE - REEDUCANDO EM REGIME FECHADO - IRRELEVÂNCIA - REQUISITO OBJETIVO PREENCHIDO - RECOMENDAÇÃO DO CTC PARA O TRABALHO INTERNO - RECURSO CONHECIDO E DESPROVIDO. O fato de o reeducando estar cumprindo sua reprimenda no regime fechado não constitui óbice à concessão da benesse. No entanto, como o agravante não está apto a exercer o trabalho externo no momento, diante da expressa recomendação do CTC "para trabalhos na área interna, já que sua progressão está prevista somente para 2023, pois tais atividades contribuirão com o seu processo de ressocialização", obviamente não tem condições de ser colocado em meio aberto.
+Consta dos autos que o paciente cumpre pena total de 15 anos, 6 meses e 13 dias de reclusão, em regime fechado, como incurso no art. 157, art. 163, parágrafo único, III e art. 157, §1º, do Código Penal, bem como pelo crime previsto no art. 33, caput, da Lei 11.343/2006.
+Sustenta a defesa que o paciente cumpriu todos os requisitos para que seja deferido o benefício do livramento condicional.
+Por decisão proferida em 28 de junho de agosto, o Juiz de primeira instância indeferiu o pedido de livramento condicional ao paciente "diante da não satisfação do requisito subjetivo exigido pelo art. 83, inciso III, alínea "a", do Código Penal" (fl. 56).
+O Tribunal de origem negou provime nto ao agravo em execução.
+Requer a concessão da ordem de habeas corpus, para que seja concedido o benefício do livramento condicional ao paciente, com a expedição do alvará de soltura.
+O Tribunal de origem fundamentou a decisão nos seguintes termos (fls. 83-87):
+Trata-se de recurso de agravo em execução interposto por PABLO CRISTIAN LIMA PRATA em face da decisão proferida pelo Juízo da Vara de Execuções Penais da comarca de Muriaé, que indeferiu seu pedido de livramento condicional.
+Argumenta a defesa que o requisito objetivo fora cumprido pelo agravante, não sendo necessário que o apenado esteja em regime carcerário intermediário, face à ausência de previsão legal expressa no art. 83 do CP. Aduz, ademais, que o agravante cumpriu as frações exigidas nos incisos I, II e V do art. 83 do CP, além do que possui bom comportamento carcerário, uma vez que não praticou falta grave nos últimos 12 meses. (doc. nº 7).
+Em contrarrazões recursais, o Ministério Público manifestou-se pelo conhecimento e desprovimento do agravo (doc. nº 8).
+O magistrado a quo, na oportunidade da retratação, optou pela integral manutenção da decisão combatida (doc. nº 9).
+A douta Procuradoria de Justiça opinou pelo conhecimento e desprovimento do recurso (doc. nº 12).
+É o breve relatório.
+Conheço do recurso, presentes os requisitos objetivos e subjetivos do art. 197 da Lei de Execuções Penais.
+Segundo consta dos autos, o agravante foi definitivamente condenado pelos crimes dos artigos 157, 163, parágrafo único, III e 157, §1º, todos do Código Penal, bem como pelo crime do art. 33 da Lei 11.343/06, ao cumprimento da pena total de 15 (quinze) anos, 06 (seis) meses e 13 (treze) dias de reclusão, em regime fechado.
+No curso da execução, requereu o benefício do livramento condicional, sendo o pedido indeferido pelo d. Magistrado "a quo", nos seguintes termos:
+"Trata-se de execução penal do sentenciado supra.
+No que tange ao pedido de livramento condicional (sequencial n. 342.1), observo que o sentenciado não faz jus a tal benefício.
+Conforme dispõe o artigo 83 do Código Penal, o juiz poderá conceder o livramento condicional ao condenado a pena privativa de liberdade que cumprir o requisito objetivo e comprovar comportamento satisfatório durante a execução da pena, assim como bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto.
+Da análise da situação carcerária, verifico que o reeducando adimpliu o requisito objetivo em 10/06/2022.
+Contudo, o mesmo não pode ser concluído a respeito do requisito subjetivo.
+Segundo se infere dos autos, o apenado ainda se encontra em regime fechado. Ademais, o relatório da CTC recomenda o sentenciado para o trabalho externo somente após a progressão ao regime semiaberto (sequencial n. 340.2). Ora, se não possui recomendação para ser inserido, no momento, no labor extra muros, com muito mais razão (e lógica) não apresenta condições de ser colocado em meio aberto sob livramento condicional (benefício que importa em mecanismos de fiscalização mais amenos).
+É possível inferir, portanto, que o apenado ainda não se encontra em estágio ideal de amadurecimento e ressocialização para ser colocado no meio aberto novamente. Inseri-lo no ambiente externo via livramento implicaria materialmente em autêntica progressão per saltum, vedada pelo nosso ordenamento jurídico, pois o reeducando, em última análise, pularia etapa importante da execução de sua pena, isto é, a passagem pelo regime semiaberto.
+Sob este prima, não vejo como conceder, na presente ocasião, a benesse pleiteada.
+Nesse sentido, mutatis mutandis, transcrevo o seguinte julgado:
+ ..  Nesta ordem de ideias, entendo ser razoável que o sentenciado permaneça, por ora, submetido às condições do regime fechado a fim de que atinja estágio maior de maturação para posteriormente ser cogitada eventual concessão da liberdade antecipada.
+Posto isso, INDEFIRO, nesta ocasião, a concessão do livramento condicional diante da não satisfação do requisito subjetivo exigido pelo art. 83, inciso III, alínea "a", do Código Penal.
+Atenda-se ao requerimento ministerial formulado no sequencial n. 344.1, item II.
+Intimem-se. Cumpra-se."
+Contra esta decisão ora se insurge o agravante.
+Sem razão, contudo.
+De fato, não há dúvida quanto ao preenchimento, pelo reeducando, do requisito objetivo exigido para a concessão do benefício do livramento condicional, que não se confunde com a progressão de regime prisional, previsto no art. 112 da Lei de Execução Penal.
+Com efeito, ao enumerar os requisitos para a concessão do livramento condicional, no art. 710 do Código de Processo Penal, o legislador nada mencionou acerca da obrigatoriedade de um regime de pena específico, pelo que o fato de o reeducando estar cumprindo sua reprimenda no regime fechado não constitui óbice à concessão da benesse.
+No entanto, não foi este o único fundamento utilizado pelo d. Magistrado a quo para indeferir o pedido do agravante, extraindo-se da decisão agravada a conclusão lógica e irrefutável de que, como o agravante não está apto a exercer o trabalho externo no momento, diante da expressa recomendação do CTC "para trabalhos na área interna, já que sua progressão está prevista somente para 2023, pois tais atividades contribuirão com o seu processo de ressocialização", obviamente não tem condições de ser colocado em meio aberto.
+Comentando sobre o benefício em voga, Júlio Fabbrini Mirabete ensina que:
+ ..  Portanto, ainda que o sentenciado cumpra os requisitos de ordem subjetiva para a obtenção do benefício, devem ser aferidas as mudanças psicológicas que o cumprimento da pena privativa de liberdade propiciou ao condenado, de forma paulatina.
+No caso em exame, inexistindo recomendação do CTC para que o sentenciado exerça o labor extra muros e, sendo o resultado favorável do exame criminológico condição irrefutável para a concessão do benefício ao apenado, correto o indeferimento do benefício do livramento condicional.
+Ante o exposto, NEGO PROVIMENTO AO RECURSO.
+Custas, na forma da Lei.
+Como se vê, as instâncias de origem indeferiram o pedido de livramento condicional, em razão de não ter o paciente vivenciado o regime intermediário, fundamentação inidônea. Nesse sentido.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. HISTÓRICO PRISIONAL DESFAVORÁVEL. EXISTÊNCIA DE FALTAS GRAVE E MÉDIAS RECENTES. AUSÊNCIA DO REQUISITO SUBJETIVO. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+2. Todavia, a Corte Local utilizou-se de fundamentação idônea para justificar o indeferimento do benefício, qual seja, a ausência do requisito subjetivo, consubstanciado no histórico prisional desfavorável do reeducando, que ostenta recente prática de falta disciplinar de natureza grave - fuga do sistema prisional, e de outras quatro, de natureza média, fatos que demonstram sua inaptidão, por ora, ao convívio em sociedade.
+3. O "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/6/2020, DJe 10/6/2020).
+4. De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo", bem como, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+5. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Agravo regimental desprovido. (AgRg no HC n. 719.265/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/5/2022, DJe de 10/5/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO LIMINARMENTE. CABIMENTO DO WRIT NAS SITUAÇÕES DE MANIFESTA ILEGALIDADE. FALTA DE MANIFESTAÇÃO DA CORTE A QUO E DO PARQUET. POSSIBILIDADE. PREJUÍZO NÃO DEMONSTRADO. EXECUÇÃO PENAL. INDEFERIDO O LIVRAMENTO CONDICIONAL EM RAZÃO DA NECESSIDADE DE VIVENCIAR O REGIME INTERMEDIÁRIO. FUNDAMENTO INIDÔNEO. PRECEDENTES.
+1. Embora não se admita, via de regra, a utilização do writ como substitutivo de recurso próprio, diante da verificação de evidente ilegalidade, faz-se possível a atuação desta Corte Superior para fazer sanar o constrangimento ilegal.
+2. É imprescindível conferir maior celeridade ao habeas corpus a fim de se garantir a real efetividade da decisão judicial, sem a necessidade de se prolongar o flagrante constrangimento ilegal, sobretudo quando ele é perceptível já no primeiro olhar e afeta direta e imediatamente a liberdade de ir e vir do paciente. Não é perceptível, no caso, qual prejuízo teria o interesse público pela falta de manifestação do Tribunal a quo e do Parquet.
+3. É pacífico no Superior Tribunal de Justiça o entendimento de que não há obrigatoriedade de que o apenado vivencie o regime semiaberto para obter o benefício do livramento condicional, em razão da falta de previsão legal.
+4. Agravo regimental improvido. (AgRg no HC n. 498.805/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/4/2019, DJe de 29/4/2019.)
+Ante o exposto, concedo o habeas corpus para deferir ao paciente o livramento condicional.
+Comunique-se.
+Publique-se.
+Intimem-se.
