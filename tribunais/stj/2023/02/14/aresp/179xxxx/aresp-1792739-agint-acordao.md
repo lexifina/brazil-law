@@ -1,0 +1,22 @@
+EMENTA
+QUESTÃO DE ORDEM
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Eminente Ministro Presidente, eminentes pares, apresento esta Questão de Ordem em virtude da Petição de fls. 646-648, e-STJ.
+Nela, os patronos substabelecidos informam que, antes do julgamento do Agravo Interno no Agravo em Recurso Especial 1.792.739/SP, faleceu o advogado da parte agravante. Alegam que o óbito do patrono da causa ocorreu em 4.5.2021 (certidão de óbito à fl. 649, e-STJ) e o acórdão desta Segunda Turma foi publicado em 1º.7.2021. Apesar do substabelecimento do mandato para outros advogados, houve, no Agravo Interno, pedido expresso para que as intimações fossem realizadas em nome do advogado que faleceu, o Dr. Wilson Miguel (fl. 598, e-STJ).
+Informam também que o autor, Sr. Aluísio Gregório da Costa, faleceu em 5.7.2021, conforme atesta a certidão de fl. 639, e-STJ.
+Assim, tendo em vista o óbito da parte Aluísio Gregório da Costa, em 5.7.2016, bem como do seu procurador, Dr. Wilson Miguel, em 4.5.2021, requerem a anulação de todos os atos processuais praticados após a data do falecimento do patrono do autor, bem como a habilitação da viúva Lucia Maria Felix da Silva Costa, em substituição ao autor, mediante sua inclusão no polo ativo da ação.
+Nos termos do art. 313, § 3º, do CPC/2015, o falecimento do único procurador de qualquer das partes constitui causa para suspensão do processo desde o evento, acarretando a nulidade dos atos processuais a partir de então, ante a existência de manifesto prejuízo, em virtude da impossibilidade da parte exercer sua defesa tempestivamente.
+Por isso, proponho a invalidação do acórdão dantes proferido por este Colegiado, para que haja novo julgamento do recurso com a representação processual da parte devidamente regularizada.
+Determino ainda a intimação do Instituto Nacional do Seguro Social, para que, no prazo de dez dias, manifeste-se acerca do pedido de habilitação da viúva.
+É como voto.
+ACÓRDÃO
+"A Turma, por unanimidade, em questão de ordem suscitada pelo Sr. Ministro-Relator, deliberou pela invalidação do acórdão dantes proferido por este Colegiado, para que haja novo julgamento do recurso com a representação processual da parte devidamente regularizada. Determinando-se ainda a intimação do Instituto Nacional do Seguro Social, para que, no prazo de dez dias, manifeste-se acerca do pedido de habilitação da viúva."
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Humberto Martins votaram com o Sr. Ministro Relator.
+QUESTÃO DE ORDEM
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Eminente Ministro Presidente, eminentes pares, apresento esta Questão de Ordem em virtude da Petição de fls. 646-648, e-STJ.
+Nela, os patronos substabelecidos informam que, antes do julgamento do Agravo Interno no Agravo em Recurso Especial 1.792.739/SP, faleceu o advogado da parte agravante. Alegam que o óbito do patrono da causa ocorreu em 4.5.2021 (certidão de óbito à fl. 649, e-STJ) e o acórdão desta Segunda Turma foi publicado em 1º.7.2021. Apesar do substabelecimento do mandato para outros advogados, houve, no Agravo Interno, pedido expresso para que as intimações fossem realizadas em nome do advogado que faleceu, o Dr. Wilson Miguel (fl. 598, e-STJ).
+Informam também que o autor, Sr. Aluísio Gregório da Costa, faleceu em 5.7.2021, conforme atesta a certidão de fl. 639, e-STJ.
+Assim, tendo em vista o óbito da parte Aluísio Gregório da Costa, em 5.7.2016, bem como do seu procurador, Dr. Wilson Miguel, em 4.5.2021, requerem a anulação de todos os atos processuais praticados após a data do falecimento do patrono do autor, bem como a habilitação da viúva Lucia Maria Felix da Silva Costa, em substituição ao autor, mediante sua inclusão no polo ativo da ação.
+Nos termos do art. 313, § 3º, do CPC/2015, o falecimento do único procurador de qualquer das partes constitui causa para suspensão do processo desde o evento, acarretando a nulidade dos atos processuais a partir de então, ante a existência de manifesto prejuízo, em virtude da impossibilidade da parte exercer sua defesa tempestivamente.
+Por isso, proponho a invalidação do acórdão dantes proferido por este Colegiado, para que haja novo julgamento do recurso com a representação processual da parte devidamente regularizada.
+Determino ainda a intimação do Instituto Nacional do Seguro Social, para que, no prazo de dez dias, manifeste-se acerca do pedido de habilitação da viúva.
+É como voto.
