@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AIGLE EMPREENDIMENTOS IMOBILIARIOS LTDA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Há omissão no decisium ora embargado uma vez que a Nobre Julgadora não verificou que a Agravante demonstrou corretamente a divergência jurisprudência, e, consequentemente, quais dispositivos foram violados, sendo que prequestionou toda a matéria mencionada, portanto as questões foram amplamente debatidas em primeira e segunda instâncias, restando-se em conformidade com a Súmula 282 do STF.
+ ..
+Ato contínuo, em ambos os recursos restou adequadamente demonstrado a comparação analítica dos casos, desmiuçando os entendimentos expressos lá expressos e onde estava a colisão que originou o dissidio, sendo, também, exaustivamente demonstrada, a similitude fática entre eles, já que em ambos os casos houve discussão quanto à causalidade e quanto à proporcionalidade do ônus sucumbencial, configurando-se, portanto, a similitude fáctica (fls. 506/507).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, a ora embargante, nas razões do apelo especial, falhou em demonstrar, de forma fundamentada, a ocorrência de dissídio jurisprudencial entre o julgado vergastado e os acórdãos paradigmas, com a realização de cotejo analítico entre eles, por meio da demonstração da similitude fática e da identidade jurídica, nos moldes previstos no RI/STJ e no CPC.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
