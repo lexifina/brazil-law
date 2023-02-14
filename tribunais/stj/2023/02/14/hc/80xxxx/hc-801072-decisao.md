@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABIO SOARES DOS SANTOS e DIEGO MUDEH BRAGA, contra decisão monocrática proferida no Tribunal de Justiça do Estado de São Paulo pelo Relator do HC n. 2014149-64.2023.8.26.0000.
+Consta dos autos que os Pacientes foram condenados como incursos no art. 121, § 2º, incisos I e IV, do Código Penal, às penas de 23 (vinte e três) anos, 7 (sete) meses, 15 (quinze) dias de reclusão, em regime inicial fechado, vedado o recurso em liberdade.
+Buscando anular o julgamento plenário, com revogação da custódia cautelar, ou, subsidiariamente, sua substituição por medidas cautelares, a Defesa impetrou o writ originário, que teve o seguimento negado liminarmente porque as "alegadas nulidades constituem matéria de apelação " (fl. 74).
+Neste habeas corpus, os Impetrantes sustentam que a "ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (fl. 5).
+Aduzem que a negativa do apelo em liberdade não possui fundamentação idônea e a ilegalidade da execução provisória da pena, como decorrência automática da condenação proferida pelo Tribunal do Júri.
+Afirmam que o despreparo do Defensor Dativo nomeado para corréu contaminou todo o julgamento plenário, pois "defesa do corréu foi deficiente e prejudicou os Pacientes" (fl. 13), devendo o Tribunal do Júri ser anulado.
+Requer, em liminar, a concessão de alvará de soltura ou a substituição da prisão cautelar por medidas alternativas ao cárcere. No mérito, pleiteia a anulação do sessão de julgamento pelo Tribunal do Júri.
+É o relatório. Decido.
+Considerando que o habeas corpus foi denegado por decisão unipessoal por membro do Tribunal de Justiça a quo, a competência desta Corte Superior para o processamento e julgamento do tema não foi inaugurada.
+Cuida-se de entendimento firmado pelas duas Turmas que compõem a Terceira Seção desta Corte, como demonstram os seguintes precedentes, a título ilustrativo:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS CONTRA DECISÃO MONOCRÁTICA DO TRIBUNAL QUE RESTABELECEU PRISÃO PREVENTIVA. NÃO INTERPOSIÇÃO DO RECURSO AO COLEGIADO NA ORIGEM. WRIT INDEFERIDO LIMINARMENTE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instância anterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal, é incabível a impetração do habeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O RECURSO. INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DE INSTÂNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente recurso em habeas corpus se impugna decisão singular do Desembargador Relator do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao writ impetrado na origem, por se tratar de mera reiteração. Contra essa decisão seria cabível agravo regimental ao colegiado competente, o qual não foi interposto, o que impossibilita o conhecimento do recurso ordinário.
+2. O princípio da fungibilidade recursal tem aplicação quando se verifica a existência de dúvida objetiva a respeito de qual seria o recurso cabível em determinada hipótese. O equívoco da defesa em interpor o recurso adequado não se enquadra na categoria de dúvida objetiva, o que impossibilita a incidência do referido princípio na espécie.
+3. No caso, deveria ter sido interposto agravo regimental contra a decisão monocrática do relator na origem, a fim de submeter os argumentos defensivos à análise pelo colegiado competente daquela Corte. O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça.
+4. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciadas pela Corte de origem, sob pena de indevida supressão de instância (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015).
+5. Agravo regimental desprovido." (AgRg no RHC 118.447/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/10/2019, DJe 18/10/2019.)
+Cito, ainda, julgados proferidos pelas Primeira e Segunda Turmas do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+ ..
+3. Agravo regimental conhecido e não provido." (HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS.
+ ..
+2. Penal e Processual Penal.
+3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c. o art. 29, e art. 317, § 3º e 4º, "a" e "c", da Lei 4.898/1965).
+4. Retirada do monitoramento eletrônico.
+5. Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.
+6. Agravo regimental a que se nega provimento." (HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Outrossim, verifico não se tratar de hipótese excepcional de flagrante ilegalidade.
+Isso porque, ao contrário do que alegam os Impetrantes, o Juiz Presidente do Tribunal do Júri negou o apelo em liberdade porque os Pacientes permaneceram presos durante todo o processo, estando ainda presentes os motivos que fundamentaram a prisão preventiva, o que não destoa da jurisprudência desta Corte Superior.
+Com efeito, segundo a jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente para a satisfação do art. 492, I, "e" , do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento.
+Friso que o decreto constritivo, mantido pela sentença condenatória, sequer foi juntado aos autos.
+De outro lado, eventual nulidade, pelo fato de o corréu não ter sido devidamente defendido pelo Defensor Dativo no julgamento plenário, não aproveita aos Pacientes. Afinal, de acordo com a jurisprudência desta Corte Superior de Justiça, na forma do art. 563 do Código de Processo Penal, nenhum ato poderá ser declarado nulo caso não demonstrado efetivo prejuízo para a Defesa do Réu. E, como bem reconheceu a decisão impugnada, eventual ilegalidade só pode ser aferida com reexame de matéria fática, própria do julgamento do recurso de apelação.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. INVIÁVEL A ANÁLISE DA MATÉRIA, EM RAZÃO DO NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE A POSSIBILITAR A CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
