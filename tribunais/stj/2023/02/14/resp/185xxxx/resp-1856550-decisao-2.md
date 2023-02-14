@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por CARLOS HENRIQUE RIBEIRO contra decisão que inadmitiu o recurso especial por ausênci a de negati va de prestação jurisdicional, falta de prequestionamento, consonância do acórdão recorrido com a jurisprudência do STJ e incidência da Súmula n. 7/STJ (e-STJ fls. 472/480).
+O acórdão recorrido está assim ementado (e-STJ fl. 293):
+AÇÃO REGRESSIVA DE COBRANÇA - FIADOR- PAGAMENTO DA DÍVIDA - ARTIGO 831 CÓDIGO CIVIL - SUB-ROGAÇÃO - ARTIGO 346, III CC - HONORÁRIOS ADVOCATÍCIOS - CRITÉRIOS. 1. Diante da quitação do débito pelo fiador, responsável solidário, demonstrado está o fato constitutivo do seu direito, autorizando o exercício de direito regressivo contra o devedor principal. 2. Quitada a dívida pelo fiador, terceiro interessado no adimplemento do débito, ele se sub-roga nos direitos do credor original em relação ao fiado. 3. Os honorários advocatícios devem ser estabelecidos em termos justos, considerando-se a importância e a presteza do trabalho profissional, assim como a imprescindibilidade de o causídico ser remunerado condignamente, devendo ser reduzidos quando fixados de forma elevada.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (e-STJ fls. 345/350).
+Nas razões do recurso especial (e-STJ fls. 393/408), interposto com fundamento no art. 105, III, "a", da CF, o recorrente apontou ofensa aos seguintes dispositivos de lei:
+(a) arts. 128, 458 e 535 do CPC/1973 (141, 490 e 1.022 do CPC/2015), porque, apesar da oposição de embargos de declaração, o Tribunal de origem não teria apreciado "o fato de que a ação regressiva foi proposta antes do pagamento da dívida, do fato de que inexistiu notificação por parte do Recorrido e do fato de que o débito na origem se submetia aos benefícios da lei 13.340, a qual o Recorrente pretendia aderir" (e-STJ fl. 397),
+(b) arts. 899, § 1º e 914, § 2º, do CC/2002, pois foi "acolhida a ação de regresso proposta antes do pagamento da dívida, o que gerou uma situação de "dois credores" para a mesma dívida, o autor da ação de execução ainda em trâmite e o autor da ação de regresso, ainda que nessa não houvesse quitação daquela dívida" (e-STJ fl. 399),
+(c) arts. 290 e 397, parágrafo único, do CPC/2015, na medida em que "ausente a notificação da cessão do crédito ao Recorrente, nos termos de referidas normas, nenhuma eficácia tem referido pacto em face do devedor, restando evidente a eiva no acórdão proferido" (e-STJ fl. 401). Além disso, "o mero pagamento, sem comunicação ao Apelante, não é apto a constituí-lo em mora e, portanto, não serve como marco inicial para a contagem de juros moratórios" (e-STJ fl. 405),
+(d) arts. 259, parágrafo único, 346 e 349 do CC/2002 e 4º da Lei n. 13.340/2016, uma vez que com a sub-rogação, tem direito de pagar o débito com os benefícios da referida lei,
+(e) art. 240 do CPC/2015, haja vista que, no caso, a mora só se constituiria com a comunicação do pagamento. Dessa forma, os juros de mora deveriam incidir "a partir da prolação da sentença condenatória ou, na pior das hipóteses, da data da intimação sobre os comprovantes de pagamento juntado aos autos, data em que o Apelante tomou conhecimento do pagamento, observando-se que os juros não poderão, sob nenhuma hipótese, ser contados a partir de data anterior ao efetivo pagamento por parte do Apelado, pois tal se configuraria enriquecimento sem causa" (e-STJ fl. 407).
+Contrarrazões às fls. 414/433 (e-STJ).
+No agravo (e-STJ fls. 483/492), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 496/510).
+É o relatório.
+Decido.
+De início, não verifico ofensa aos arts. 141, 490 e 1.022 do CPC/2015. A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Quanto às questões apresentadas nos embargos de declaração opostos pelo ora agravante, é de ver que o Tribunal de origem sobre elas se manifestou, afastando a alegada carência de ação, afirmando que a tese de ausência de notificação era inovação recursal e consignando que o fiador se sub-roga nos direitos do credor original, devendo ser ressarcido quanto aos valores efetivamente pagos, tendo havido renegociação da dívida e redução do montante devido.
+Na verdade, sob o pretexto de ver sanado suposto vício, pretende a parte recorrente a reforma da decisão. Contudo, o simples fato de a decisão recorrida ser contrária a seus interesses não configura vício de fundamentação.
+O comando normativo dos arts. 899, § 1º e 914, § 2º, do CC/2002 discrepa da tese apresentada, uma vez que, no caso, a discussão gira em torno de fiança.
+Do mesmo modo, os arts. 259, parágrafo único, 346 e 349 do CC/2002 não possuem alcance normativo para sustentar a tese de que o devedor tem o direito de pagar o débito com eventual benefício legal do qual o fiador supostamente não teria se valido.
+Aplicável, portanto, a Súmula n. 284/STF.
+Ademais, verifica-se que a renegociação feita pelo recorrido é anterior à referida lei.
+Por fim, não há como conhecer da tese re lacionada à eventual falta de notificação do devedor acerca do pagamento da dívida, porque não analisada pelo TJMG, carecendo, portanto, de prequestionamento. Incidente a Súmula n. 282/STF.
+Referida matéria não foi analisada pelo Colegiado local que entendeu que a questão não teria sido arguida em apelação tratando-se de inovação recursal. Tal fundamento não foi impugnado no especial, atrai ndo a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Os honorários recursais estão sendo arbitrados na decisão que aprecia o recurso da parte contrária.
+Publique-se e intimem-se.
