@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/02/2023 a 14/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno em embargos de divergência em recurso especial interposto p or MUZIO SCEVOLA MOURA CAFEZEIR, contra a decisão unipessoal que indeferiu liminarmente os embargos de divergência, nos seguintes termos:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. ACÓRDÃOS PARADIGMAS E EMBARGADO QUE NÃO DECIDIRAM A MESMA QUESTÃO JURÍDICA. AUSÊNCIA DE DIVERGÊNCIA JURISPRUDENCIAL A SER SANADA.
+1. É assente na jurisprudência desta Corte que "os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não se prestam a simples rejulgamento do recurso especial ou do respectivo agravo, para correção de eventual equívoco do acórdão embargado - ainda que se trate de matéria de ordem pública  .. " (AgRg nos EAREsp 1.973.326/SP, 3ª Seção, DJe 13/6/2022).
+2. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma.
+3. Tratando os acórdãos confrontados acerca de questões que possuem bases fáticas essencialmente distintas, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+4. Embargos de divergência indeferidos liminarmente. (e-STJ fls. 366-369)
+Em seu agravo interno (e-STJ fls. 373-377), o agravante sustenta, em síntese, que "o acórdão embargado interpreta a mesma (ou similar) questão de fato, embora ambos, recorrido e paradigma, tenham utilizado expressões linguísticas e técnicas sinônimas, qual seja: a possibilidade ou não possibilidade de afastar a coisa julgada".
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE DISSENSO JURISPRUDENCIAL. ACÓRDÃOS PARADIGMAS E EMBARGADO QUE NÃO DECIDIRAM A MESMA QUESTÃO JURÍDICA.
+1. É assente na jurisprudência desta Corte que "os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não se prestam a simples rejulgamento do recurso especial ou do respectivo agravo, para correção de eventual equívoco do acórdão embargado - ainda que se trate de matéria de ordem pública" (AgRg nos EAREsp 1.973.326/SP, 3ª Seção, DJe 13/6/2022).
+2. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma.
+3. Tratando os acórdãos confrontados acerca de questões que possuem bases fáticas essencialmente distintas, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+4. Agravo interno em embargos de divergência não provido.
+VOTO
+Reitera-se ser assente na jurisprudência desta Corte que "os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não se prestam a simples rejulgamento do recurso especial ou do respectivo agravo, para correção de eventual equívoco do acórdão embargado - ainda que se trate de matéria de ordem pública -, como se a Corte Especial funcionasse como instância revisora ordinária dos demais órgãos jurisdicionais internos, o que, como se sabe, não é o seu papel" (AgRg nos EAREsp n. 1.973.326/SP, 3ª Seção, DJe 13/6/2022).
+No particular, colhe-se da decisão unipessoal o seguinte fundamento determinante para a inadmissibilidade dos embargos de divergência:
+"No que concerne ao paradigma invocado (AgInt no AREsp 938.838/SP, 3ª Turma, DJe 2/3/2019), verifica-se não ser ele apto a amparar a tese do embargante, uma vez que a discussão acerca da coisa julgada, em relação à "impossibilidade de modificar a verba arbitrada a título de honorários em sede de cumprimento de sentença, sob pena de violação à coisa julgada", não foi tratada, expressamente, no acórdão embargado, que se limitou a reconhecer que, diante das especificidades da espécie, "quando o título executivo admite mais de uma interpretação, deve ser adotada aquela que esteja de acordo com o princípio da razoabilidade e não desborde das linhas que estruturam o ordenamento jurídico, o que não implica em ofensa ou relativização da coisa julgada" (e-STJ fl. 305).
+Ou seja, não foi demonstrado que a tese jurídica defendida no aresto impugnado se distanciou de entendimento manifestado por outro órgão fracionário do STJ, circunstância que não satisfaz os pressupostos necessários ao processamento dos embargos de divergência." (e-STJ fls. 366-369)
+Não há que se falar em interpretação estritamente literal dos julgados referenciados. Frisa-se que o acórdão embargado discute, em essência, a possibilidade de múltiplas interpretações do título executiv o, matéria que não apresenta, à toda evidência, similitude fática com o acórdão paradigma.
+Desse modo, considerando que os acórdãos confrontados apresentam bases fáticas e discussões jurídicas essencialmente distintas, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+Por esses motivos, mantém-se o juízo negativo de admissibilidade dos embargos de divergência.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
