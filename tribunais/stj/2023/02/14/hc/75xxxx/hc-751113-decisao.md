@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de AHARON DE FREITAS GOMES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO proferido no julgamento da Apelação Criminal n. 0000335-38.2017.8.08.0062.
+Extrai-se dos autos que o paciente foi condenado em primeiro grau às penas de 8 anos de reclusão, em regime inicial semiaberto, e pagamento de 60 dias-multa, como incurso no art. 157, §2º, incisos I e II, do Código Penal.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL ROUBO QUALIFICADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - PROVA TESTEMUNHAL QUE CONDUZ A UM JUÍZO DE CERTEZA QUANTO A PRÁTICA DELITUOSA REDUÇÃO DA PENA-BASE INVIABILIDADE EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS - RECURSOS CONHECIDOS E IMPROVIDOS. 1. Restando patente pelos depoimentos colhidos nos autos que os denunciados mediante emprego de violência e grave ameaça praticaram os crimes descritos na denúncia, descabida a tese absolutória, devendo ser mantida intacta a sentença condenatória por seus próprios fundamentos. 2. A existência de circunstâncias judiciais desfavoráveis por si só impede a fixação da pena-base em seu patamar mínimo. 3. Recursos conhecidos e improvidos" (fl. 18).
+No presente writ, a Defensoria Pública sustenta que não houve fundamentação idônea para a fixação da pena-base acima do mínimo legal, bem como a desproporcionalidade na exasperação.
+Requer, assim, a concessão da ordem para reduzir a pena-base ao mínimo legal.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem, conforme parecer de fls. 32/36.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Na fixação da pena-base, a sentença consignou:
+"1) quanto ao acusado Aharon de Freitas Gomes:
+A culpabilidade está evidenciada, já que sua conduta se apresenta com elevado grau de reprovabilidade, eis que praticou o crime durante a greve da Polícia Militar, oportunidade em que a sociedade estava vulnerável; antecedentes imaculados; não há dados concretos contrários à conduta social; a personalidade não pode ser aferida por ausência de dados técnicos; os motivos e circunstâncias do crime lhe são desfavoráveis, porém deixo de valorar para não caracterizar "bis in idem"; as consequências extrapenais são próprias do tipo; o comportamento da vítima, não influiu na prática do crime e, por fim, o réu goza de relativa situação econômica, eis que trabalhava e possui advogado particular.
+Atento a esses nortes, fixo como necessário e suficiente à reprovação do delito e prevenção de outros crimes a PENA-BASE de 06 (seis) anos de reclusão e 50 (cinquenta) dias-multa, no valor de 1/30 do S. M" (fls. 22/23).
+O Tribunal de origem, ao manter as reprimendas fixadas em primeiro grau, apresentou os seguintes fundamentos:
+"Em seguida, a defesa pretende a redução da pena-base para o mínimo legal.
+Ao proceder à valoração da penas-base dos acusados Aharon e Matheus, assim se manifestou o magistrado sentenciante:
+"A culpabilidade está evidenciada, já que sua conduta se apresenta com elevado grau de reprovabilidade, eis que praticou o crime durante a greve da Polícia Militar, oportunidade em que a sociedade estava vulnerável; antecedentes imaculados; não há dados concretos contrários à conduta social; a personalidade não pode ser aferida por ausência de dados técnicos; os motivos e circunstâncias do crime lhe são desfavoráveis, porém deixo de valorar para não caracterizar "bis in idem"; as consequências extrapenais são próprias do tipo; o comportamento da vítima, não influiu na prática do crime e, por fim, o réu goza de relativa situação econômica, eis que trabalhava e possui advogado particular".
+Assim, fácil constatar que as circunstâncias judiciais de ambos os recorrentes não lhe são favoráveis, o que justifica a exasperação da pena basal nos moldes procedidos pelo Magistrado singular" (fls. 13/14).
+A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+Sendo assim, é certo que o refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+Com efeito, a pena abstratamente cominada para o delito de roubo (art. 157 do Código Penal) é de 4 a 10 anos de reclusão. In casu, a pena-base do paciente foi fixada em 6 anos de reclusão em razão do reconhecimento de uma circunstância judicial negativa (culpabilidade).
+A culpabilidade, enquanto circunstância judicial, deve ser entendida como a "censurabilidade pessoal da conduta típica e ilícita" (PRADO, Luiz R. Tratado de Direito Penal Brasileiro: parte geral (arts. 1º a 120) - 4. ed. - Rio de Janeiro: Forense, 2021. p. 764.), implicando em maior ou menor gradação na aplicação da pena-base.
+Como visto, as instâncias ordinárias desvaloraram a culpabilidade por entender que o delito praticado durante a greve da Polícia Militar do Estado do Espírito Santo se revestia de maior reprovabilidade.
+Desse modo, não se afigura desproporcional ou irrazoável o recrudescimento da pena básica do paciente da maneira como se procedeu, inexistindo flagrante ilegalidade a ser sanada pelo rito processual eleito.
+No mesmo sentido, a decisão monocrática proferida pela eminente Ministra Laurita Vaz, no julgamento do no HC n.667.279/ES, DJe de 30/09/2022.
+Ressalto que não há critério matemático balizador de aumento da pena-base por cada circunstância judicial considerada negativa, e sim um controle de legalidade para averiguar se houve fundamentação concreta para o incremento.
+Nesse sentido:
+HABEAS CORPUS. PENAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DOSIMETRIA. ART. 59 DO CÓDIGO PENAL. CIRCUNSTÂNCIAS DO CRIME. GRUPO DE GRANDE INFLUÊNCIA NA REGIÃO E QUE UTILIZAVA ARMAMENTO DE ALTA LESIVIDADE. CONSEQUÊNCIAS. EXPOSIÇÃO DOS MORADORES A CONSTANTE RISCO DE MORTE. CULPABILIDADE. POSIÇÃO DE DESTAQUE NO GRUPO CRIMINOSO. FUNDAMENTAÇÃO IDÔNEA. PENA PROPORCIONAL. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+4. O legislador não estabeleceu parâmetros fixos para a fração de majoração da pena em razão da valoração negativa das circunstâncias judiciais. Esta tarefa está adstrita à prudente análise do Magistrado sentenciante que, no caso em apreço, adotou parâmetro que não se mostra flagrantemente desproporcional ou desarrazoado, não havendo razão para que o cálculo penal seja revisto nos limites restritos desta ação constitucional.
+5. Habeas corpus não conhecido.
+(HC 432.170/RJ, Rel. Ministro LAURITA VAZ, SEXTA TURMA, DJe 3/10/2018).
+Ausente, portanto, qua lquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do pre sente habeas corpus.
+Publique-se.
