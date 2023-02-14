@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, recebero pedido de reconsideração como agravo regimental, ao qual se negar provimento.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de pedido de reconsideração, recebido como agravo regimental, de decisão que indeferiu liminarmente habeas corpus impetrado em favor de GUSTAVO HENRIQUE DE OLIVEIRA contra ato de Desembargador Relator do Tribunal de Justiça do Estado de Minas Gerais (HC nº 1.0000.23.019680-0/000).
+Extrai-se dos autos que o agravante foi preso em flagrante pela suposta prática dos delitos tipificados nos arts. 329 c/c 163, parágrafo único, inciso III c/c 330, todos do Código Penal. A custódia foi convertida em preventiva.
+Contra a decisão, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 93/95).
+A defesa impetrou o presente writ, buscando a revogação da custódia, inclusive com aplicação de medidas cautelares alternativas.
+Pela decisão ora agravada (e-STJ fls. 96/98), a ordem foi indeferida liminarmente.
+No presente agravo regimental, a defesa reitera a alegação que não estão presentes os requisitos autorizadores da custódia cautelar. Ressalta as circunstâncias pessoais favoráveis do agravante. Argumenta que as penas abstratamente cominadas para os crimes são reduzidas, devendo ser observado o princípio da homogeneidade.
+Requer, assim, a revogação da custódia, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. RESISTÊNCIA. DESOBEDIÊNCIA. DANO. PRISÃO PREVENTIVA. LIMINAR INDEFERIDA NA ORIGEM. ENUNCIADO Nº 691 DO STF. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. Não há previsão legal de pedido de reconsideração de decisão que não conhece da ordem, motivo pelo qual, em homenagem ao princípio da fungibilidade, deve o pedido ser recebido como agravo regimental.
+2. O presente writ foi impetrado contra decisão monocrática do Desembargador Relator que indeferiu a liminar em habeas corpus impetrado na origem. Ora, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal, conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+3. Ademais, da leitura do decreto preventivo, verifica-se que o agravante, ao ser abordado pelos policiais, desobedeceu a ordem de parada, resistindo a abordagem agredindo-os com socos e pontapés e ameaçando-os de morte. Além disso, consta que teria arremessado uma garrafa de vidro em direção à viatura, causando amassamento do capô. Ainda, ressaltou o Magistrado que ele ostenta maus antecedentes, com registro de inquérito policial por suposto crime de tráfico de drogas. Portanto, não há flagrante ilegalidade na decretação da prisão, a justificar o deferimento do pedido de liminar.
+4. Agravo desprovido.
+VOTO
+Trata-se de pedido de reconsideração da decisão que indeferiu liminarmente o habeas corpus, o qual carece de previsão legal. Contudo, " e m respeito ao princípio da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, deve ser recebido o pedido de reconsideração como agravo regimental, interposto dentro do prazo legal." (RCD no RHC 88.753/AL, Rei. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/11/2017, DJe 24/11/2017).
+No caso, todavia, a decisão deve ser mantida pelos seus próprios fundamentos
+Conforme anteriormente exposto, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 93/95):
+Não obstante as alegações apresentadas pelo impetrante em favor do paciente GUSTAVO HENRIQUE DE OLIVEIRA, preso em flagrante delito em razão da suposta prática dos crimes previstos no art.329, c/c art. 163, parágrafo único, III, c/c art. 330, todos do Código Penal, apontando como autoridade coatora o MM. Juiz de Direito Plantonista da Comarca de Campos Gerais/MG, verifico pelos documentos juntados aos autos que o pedido liminar não pode ser deferido, porque improvado o indispensável fumus boni iuris, havendo necessidade da prévia oitiva da autoridade dita coatora para maiores esclarecimentos acerca do alegado constrangimento ilegal.
+Ressalte-se que, a priori, a decisão que decretou a prisão preventiva do paciente (ordem 02-PJE ff.12/15) encontra-se devidamente fundamentada, não padecendo de qualquer irregularidade que possa maculá-la.
+Mediante estas considerações, INDEFIRO O PEDIDO LIMINAR.
+De fato, da leitura do decreto preventivo, verifica-se que o agravante, ao ser abordado pelos policiais, desobedeceu a ordem de parada, resistindo a abordagem agredindo-os com socos e pontapés e ameaçando-os de morte. Além disso, consta que teria arremessado uma garrafa de vidro em direção à viatura, causando amassamento do capô.
+Ainda, ressaltou o Magistrado que ele ostenta maus antecedentes, com registro de inquérito policial por suposto crime de tráfico de drogas.
+Portanto, conforme apontado pelo Desembargador Relator, não há flagrante ilegalidade na decretação da prisão, a justificar o deferimento do pedido de liminar.
+Com efeito, diante dos indícios de periculosidade do acusado, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Portanto, de fato não é o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
