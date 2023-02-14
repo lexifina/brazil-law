@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/02/2023 a 14/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto por Lamisul Comércio de Madeiras Ltda., contra decisão que deu provimento ao recurso especial interposto no EREsp n. 1.657.716/RS (2017/0046270-2).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, c, do RISTJ, dou provimento aos embargos de divergência, dando provimento ao recurso especial, para que o termo final da incidência dos juros remuneratórios seja a data da 143ª Assembleia Geral (AGE)."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Desse modo, em observância ao entendimento consolidado2pelo E. Superior Tribunal de Justiça, segundo o qual o recurso de agravo deve impugnar a totalidade dos fundamentos da r. decisão agravada3, a ora agravante passa a tecer asrespectivas ilações recursais.
+ ..
+Isso porque, a análise de mérito do recurso interposto pela agravada (embargos de divergência) demanda análise de elementos fáticos, em especial o título executivo formado originariamente -o qual assim dispôs sobre a incidência dos juros remuneratórios reflexos:
+ ..
+Tal reexame fático, como é cediço, encontra-se vedado no âmbito de apreciação desta Corte, conforme enunciado representado pela Súmula nº 7/STJ:
+ ..
+Portanto, não há que se falar em preenchimento dos requisitos extrínsecos eimplícitos de admissibilidade para conhecimento dos embargos de divergência, posto quea matéria discutida pela Eletrobrás vai de encontro ao direito expressamente reconhecido pelo título executivo judicial, bem como acarreta em nítida necessidade de se reanalisar referido comando e as demais provas apresentadas no bojo da discussão, devidamente analisados pelo Tribunal a quo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMPRÉSTIMOS CUMPULSÓRIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ADMISSIBILIDADE IMPLÍCITA. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+I - Trata-se de embargos de divergência interpostos pelas Centrais Elétricas Brasileiras S.A. (Eletrobrás), contra acórdão da Primeira Turma, relator o Ministro Napoleão Nunes Maia Filho. Nesta Corte, deu-se provimento aos embargos de divergência opostos por Centrais Elétricas Brasileiras S. A. (Eletrobras).
+II - A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+III - Ainda se assim não fosse, a Primeira Seção, no julgamento dos embargos de declaração nos EAREsp n. 790.288/PR, interpretando os julgados repetitivos sobre a matéria, firmou compreensão segundo a qual, salvo quanto ao montante correspondente à fração do inteiro de ação não convertido, o termo final dos juros remuneratórios, previstos no art. 2º do Decreto-Lei n. 1.512/1976, é a data das respectivas assembleias gerais extraordinárias as quais autorizaram as conversões dos créditos em ações.
+IV - Nesse sentido: AgInt no REsp 1.952.988/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2022, DJe 6/4/2022; e AgInt no AREsp 601.160/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/12/2021, DJe 9/12/2021.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+Ainda se assim não fosse, a Primeira Seção, no julgamento dos embargos de declaração nos EAREsp n. 790.288/PR, interpretando os julgados repetitivos sobre a matéria, firmou compreensão segundo a qual, salvo quanto ao montante correspondente à fração do inteiro de ação não convertido, o termo final dos juros remuneratórios, previstos no art. 2º do Decreto-Lei n. 1.512/1976, é a data das respectivas assembleias gerais extraordinárias as quais autorizaram as conversões dos créditos em ações.
+Nesse sentido: AgInt no REsp 1.952.988/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2022, DJe 6/4/2022; e AgInt no AREsp 601.160/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/12/2021, DJe 9/12/2021.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
