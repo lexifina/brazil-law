@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 282/STF, da ausência de afronta a dispositivo legal e da aplicação da Súmula n. 7/STJ (e-STJ fls. 158/160).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 119):
+Ação de restituição de valores. Ilegitimidade passiva afastada. Sucessão processual. Sociedade que teve suas atividades encerradas. Caso que permite a inclusão dos sócios no polo passivo por sucessão processual, por aplicação analógica do artigo 110 do Código de Processo Civil. Pretensão indenizatória não atingida pela prescrição. Aplicável a teoria da actio nata. Termo inicial da prescrição da pretensão reparatória que se deu com a ciência da violação do direito que, no caso, ocorreu com a citação da autora em ação proposta pelo credor do valor transferido indevidamente. Apelo improvido.
+Nas razões do recurso especial (e-STJ fls. 123/236), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 206, § 3º, IV, do CC/2002, pois "a demanda deveria ter sido extinta, tendo em vista a prescrição trienal tendo ocorrido o lapso temporal de mais de 03 anos entre a data do depósito (30.09.2016) e a propositura da demanda (28.05.2020) ocasionando a prescrição do direito ao ressarcimento" (e-STJ fl. 133),
+(ii) arts. 110, 485, VI, do CPC/2015, 1.003 e 1.032 do CC/2002, "na medida em que, tendo sido extinta regularmente a pessoa jurídica, o depósito foi efetuado posteriormente em conta da PJ, ou seja, não poderia a parte Recorrente ser responsável, já que não mais encontrava-se nos quadro societário da empresa" (e-STJ fl. 135).
+Assim, requereu o provimento do recurso "para o fim de reformar as decisões contidas nos autos, pelos motivos ora expostos" (e-STJ fl. 136).
+No agravo (e-STJ fls. 163/174), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 176/195 (e-STJ).
+É o relatório.
+Decido.
+Quanto à prescrição, o Tribunal de origem negou provimento ao apelo interposto pela parte ora recorrente, sob os seguintes fundamentos:
+Como bem observou o magistrado sentenciante, a prescrição da pretensão reparatória somente se iniciou a partir do momento que a autora teve plena ciência da violação do direito, ou seja, somente quando foi citada na ação proposta para recebimento destes valores é que tomou ciência de que havia pago pessoa jurídica diversa de seu credor. (..). Portanto, uma vez que a presente ação foi proposta em 28.05.2020 e a citação do feito de cobrança ocorreu em 30.11.2018, fácil concluir que não houve o decurso do prazo prescricional de três anos. (e-STJ fls. 121/122).
+Modificar o entendimento do acórdão impugnado quanto ao momento em que a parte ora recorrida teve plena ciência da violação do direito demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+No referente à tese de ilegitimidade de parte, o Tribunal a quo assim se manifestou:
+Da mesma forma, descabida a alegação de ilegitimidade de parte. Restou incontroverso nos autos que a pessoa jurídica que recebeu o valor indevidamente foi encerrada e o réu era seu sócio, o que permite a sua inclusão no polo passivo por sucessão, por aplicação analógica do disposto no artigo 110 do Código de Processo Civil. (e-STJ fl. 122).
+Dessa forma, para rever a conclusão do acórdão recorrido quanto à legitimidade passiva, no sentido de que a pessoa jurídica foi encerrada e a parte era sua sócia, seria necessário reexaminar o conjunto fático-probatório dos autos, providência inviável em sede especial, nos termos da Súmula n. 7/STJ.
+Ademais, quanto à alegada violação dos arts. 485, VI, do CPC/2015, 1.003 e 1.032 do CC/2002, não houve pronunciamento do Tribunal a quo no sentido pretendido pela parte recorrente, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assi m, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
