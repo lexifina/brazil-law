@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fls. 57):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO (CP, ART. 121, § 2º , IV) - PRISÃO PREVENTIVA - TESE DE REVOGAÇÃO DA MEDIDA DE EXCEÇÃO CALCADA NA AUSÊNCIA DOS PRESSUPOSTOS PREVISTOS NO ART. 312 DO CPP - MATÉRIA ANALISADA EM WRIT TJULGADO ANTERIORMENTE - CIRCUNSTÂNCIAS FÁTICAS INALTERADAS - ORDEM DENEGADA.
+Nas razões recursais, narra a defesa que o recorrente "encontra-se segregado desde a data de 11 de julho de 2022, quando do cumprimento de mandado de prisão temporária (evento 20 dos autos de origem). Em 09 de agosto de 2022 houve a prorrogação da prisão temporária (evento 124 dos autos de origem) e na data de 6 de setembro de 2022 foi determinada a conversão da prisão temporária em prisão preventiva" (fl. 69).
+Alega constrangimento ilegal em razão da ausência de fundamentação idônea para a prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Aduz ser cabível a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, revogação da prisão preventiva, "mediante imposição de medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal" (fl. 78).
+O voto condutor do acórdão recorrido está assim fundamentado (fls. 55-56):
+A denegação da ordem é medida de rigor.
+Isso porque, nos termos assinalados quando da apreciação do pedido liminar, infere -se que as teses de ausência dos requisitos autorizadores da medida de exceção e a possibilidade da adoção das hipóteses preconizadas pelo art. 319 do CPP, já foram objeto de exame por esta Segunda Câmara Criminal no julgamento do HC n. 5054296-72.2022.8.24.0000, de relatoria da Desa. Salete Silva Sommariva, in verbis:
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO (CP, ART. 121, § 2º, IV) - PRISÃO PREVENTIVA - EXISTÊNCIA DO CRIME E PRESENÇA DE INDÍCIOS DE AUTORIA - NECESSIDADE DA CUSTÓDIA CAUTELAR PARA MANUTENÇÃO DA ORDEM PÚBLICA (CPP, ART. 312) - PERICULUM LIBERTATIS EVIDENCIADO - PACIENTE DETENTOR DE HISTÓRICO CRIMINAL DESABONADOR - IMPOSSIBILIDADE DE APLICAÇÃO DAS MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP - CONSTRANGIMENTO ILEGAL INEXISTENTE - ORDEM DENEGADA. (j. em 4-10-2022).
+E consta do voto relacionado ao aludido habeas corpus:
+ ..  observa-se que a materialidade da ação ilícita atribuída ao paciente restou demonstrada, ao menos nesta fase da persecução criminal, nos elementos angariados durante o inquérito policial, em especial, no relatório de missão policial, nos laudos periciais e nas fotografias. Já os indícios de autoria decorrem também das investigações, podendo ser extraídos das declarações de testemunhas e informantes inquiridas pela autoridade policial. (ev. 1 dos autos 5004942-98 . 2022 . 8.24.0058).
+Assim, presentes a materialidade e os indícios de autoria e considerando que somente o crime de homicídio, pelo qual o paciente é acusado, é punido com pena privativa de liberdade máxima superior a 4 anos, mostram-se satisfeitos os primeiros requisitos para a segregação cautelar (CPP, art. 312, in fine, e art. 313, I).
+No que tange ao periculum libertatis, as circunstâncias do fato e a gravidade concreta da conduta, são aspectos suficientes para manter a prisão decretada como garantia da ordem pública e obstar, por ora, a aplicabilidade de medidas diversas do encarceramento.
+Importante destacar, ainda, que o paciente possui condenação pretérita pela prática dos crimes de ameaça e de direção de veículo automotor sem habilitação (autos de execução penal 4000031-89.2022.8.16.0088), o que evidencia o risco de reiteração criminosa.
+Registre-se, portanto, que desde o último julgamento colegiado, ocorrido há pouco mais de três meses, não houve mudanças significativas no quadro fático-processual suficientes para viabilizar eventual soltura do paciente.
+À vista do exposto, voto no sentido de denegar a ordem.
+Como se vê, o Tribunal de origem manteve a prisão preventiva do ora recorrente consignando que "as teses de ausência dos requisitos autorizadores da medida de exceção e a possibilidade da adoção das hipóteses preconizadas pelo art. 319 do CPP, já foram objeto de exame por esta Segunda Câmara Criminal no julgamento do HC n. 5054296-72.2022.8.24.0000".
+De plano, vale destacar que o rito do habeas corpus, bem como de seu consectário recursal, demanda prova documental pré-constituída e incontroversa a permitir a análise do alegado constrangimento ilegal sofrido pelo paciente (recorrente).
+Compulsando o presente feito, constato a ausência do decreto prisional, do acórdão que julgou o HC n. 5054296-72.2022.8.24.0000, bem como de elementos processuais que demonstram a aventada ilegalidade, especialmente a destacada ausência de fundamentação e dos requisitos para a decretação da prisão preventiva, de modo que inviabilizado o conhecimento do recurso em habeas corpus.
+Dessa forma, a ausência de peças essenciais ao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente recurso, interposto por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO RECORRENTE. PRECEDENTES.
+ ..
+3. Como se sabe, o rito do habeas corpus - e do recurso ordinário em habeas corpus - pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente (precedentes), o que não ocorreu no caso vertente (HC n. 541.104/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020).
+4. Embargos de declaração recebidos como agravo regimental. Agravo regimental improvido. (EDcl no RHC n. 169.907/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. RECURSO NÃO CONHECIDO. INSTRUÇÃO DEFICITÁRIA. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE DE ANÁLISE. DECRETO PRISIONAL NÃO CARREADO AOS AUTOS . AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O rito do habeas corpus e do recurso ordinário a ele inerente, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+3. No caso, o recurso não foi conhecido por não ter sido carreado aos autos o decreto prisional.
+4. Agravo regimental desprovido. (AgRg no RHC n. 168.769/PE, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
