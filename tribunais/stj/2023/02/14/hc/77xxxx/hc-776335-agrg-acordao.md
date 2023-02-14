@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Convocado o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto em face de decisão de minha lavra (fls. 716/741) na qual não conheci do habeas corpus substitutivo de recurso próprio vez que o Tribunal de origem não se manifestou acerca da suposta nulidade no acórdão impugnado.
+Na oportunidade foi destacado que Corte a quo afirmou que a matéria deveria ser objeto de apelação, recurso que já havia sido interposto e julgado. Por fim, ressaltou-se a impossibilidade de análise da matéria, vez que o acórdão proferido quando do julgamento da apelação não foi juntado aos presentes autos.
+No presente recurso, a Defesa insiste na possibilidade de conhecimento do habeas corpus substitutivo de recurso próprio, vez que há risco à liberdade ambulatorial do paciente.
+Alega que "tendo em vista que a tese ora aventanda foi firmada recentemente pelo E. STJ, não haveria na época do julgamento da apelação a possibilidade da tese ser discutida como atualmente" (fl. 726).
+Insiste na necessidade de reconhecimento da nulidade das provas obtidas no momento da busca pessoal pela suposta falta de justa causa para a diligência policial.
+É o relatório.
+Decido.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DA BUSCA PESSOAL. PRESENÇA DE JUSTA CAUSA PARA A DILIGÊNCIA. MATÉRIA QUE NÃO FOI ANALISADA NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria impugnada não foi objeto de análise do Tribunal de origem no acórdão impugnado, o que afasta a competência desta Corte Superior para conhecer da matéria, sob pena de incorrer em indevida supressão de instância.
+2. Acolher a tese defensiva de ausência de justa causa para a busca pessoal demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus. Destaque-se que referida matéria sequer foi analisada n a sentença condenatória.
+3. Agravo Regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos. A propósito, confira-se o seu teor:
+"Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CLEDIMAR TROCHE MARQUES, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento do HC n5028038-16.2022.4.04.0000/PR.
+Extrai-se dos autos que o paciente foi condenado à pena corporal definitiva de 18 anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico internacional de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem por decisão monocrática de fls. O agravo interposto restou desprovido nos termos do acórdão que restou assim ementado:
+"AGRAVO REGIMENTAL. TRÁFICO INTERNACIONAL DE DROGAS(MAIS DE DEZ TONELADAS DE MACONHA). CONDENAÇÃOMANTIDA NESTA CORTE E NO STJ. EXECUÇÃO PENAL DEFINITIVAEM CURSO PERANTE A JUSTIÇA ESTADUAL. HABEAS CORPUS EMSUBSTITUIÇÃO A RECURSO PRÓPRIO. DESCABIMENTO. NULIDADEDA SENTENÇA POR SUPOSTA ILEGALIDADE NA PRISÃO EMFLAGRANTE. INEXISTÊNCIA. EXAME DE MATÉRIA FÁTICA. INADMISSÍVEL NA VIA ESTREITA DO HABEAS CORPUS. COMPETÊNCIA DO STJ PARA EVENTUAL DESCONFORMIDADE (ART.105, II, DA CF) IMPETRAÇÃO MANIFESTAMENTE INADMISSÍVEL.
+1. Não se admite habeas corpus em substituição ao recurso próprio (apelação, agravo em execução, recurso especial) ou à revisão criminal, ressalvados os casos em que presente flagrante ilegalidade em prejuízo da liberdade do paciente (HC212.457/GO, Rel. p/ Acórdão Min. Rogério Schietti Cruz, 6ª Turma, DJe04/09/2014).
+2. Tratando-se de impetração que pretende anular sentença condenatória proferida em 2021, mantida nesta Corte e no STJ, transitada em julgado e com execução definitiva em curso perante a Justiça Estadual, por suposta ilegalidade da prisão em flagrante, há meios de impugnação próprios, não cabendo a pretendida substituição pela ação constitucional.
+3. Somente na hipótese de flagrante ilegalidade seria possível o excepcional enfrentamento da pela via imprópria do habeas corpus, o que não se verifica, mesmo em análise perfunctória, pois a abordagem policial - e não busca pessoal - decorreu de regular fiscalização por policiais militares, que atuavam na Operação Hórus visando justamente o combate e a repressão ao tráfico de drogas.
+4. E ainda mais excepcional é o cabimento do writ para o reexame de matéria fática, incabível na via estreita do habeas corpus, sobretudo quando já examinada nesta Corte, em cognição exauriente e na via recursal própria, sendo mantida a condenação - nesta Corte e no STJ.
+5. A irresignação contra condenação já confirmada por esta Corte em grau recursal desafia recurso próprio (já manejado e julgado neste Tribunal, com acórdão mantido pelo STJ), e ainda que se tratasse de matéria não submetida às Cortes Superiores não se teria autorizada a pretensão defensiva, seja porque exauridas as vias recursais próprias, seja porque a preclusão não configura flagrante ilegalidade.
+5. Tratando-se de condenação mantida por este Tribunal, a competência para o exame de eventuais vícios e nulidades é do Superior Tribunal de Justiça, nos termos do art. 105, II, da CF.
+6. É manifestamente incabível, a ensejar o indeferimento liminar nos termos do art. 148 do Regimento Interno desta Corte, a impetração de habeas corpus em substituição a recurso próprio - já manejado e julgado neste Tribunal, com acórdão mantido no STJ -, e que discute condenação mantida nesta Corte, cujo exame compete ao STJ" (fls. 375/376).
+No presente writ, o impetrante sustenta a nulidade do flagrante e da condenação em razão da ausência de justa causa, nos termos do art. 244, do Código de Processo Penal, para a abordagem do caminhão conduzido em via pública pelo paciente, oportunidade em que foram apreendidas mais de dez toneladas de maconha.
+Requer, em liminar e no mérito, a anulação de todo o processo por ausência de fundamentos para a busca pessoal.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso, haja vista o fato de o Tribunal de origem não ter se manifestado no acórdão impugnado sobre as teses deduzidas no presente writ.
+Da atenta leitura das peças essenciais a instrução do feito, verifica-se que o Tribunal de origem não conheceu da impetração em razão da existência de recurso próprio para a apreciação da matéria, qual seja, apelação. Destacou-se ainda, que o referido recurso já havia sido interposto e julgado por aquela Corte.
+Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE. SUPRESSÃO DE INSTÂNCIA. WRIT ORIGINÁRIO. DESCABIMENTO. INTERPOSIÇÃO SIMULTÂNEA DE CORREIÇÃO PARCIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. OFENSA. INDEVIDA SUBVERSÃO DO SISTEMA RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os arts. 932 do Código de Processo Civil - CPC c/c o 3º do Código de Processo Penal - CPP e 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, permitem ao relator negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou com jurisprudência dominante nos Tribunais superiores, não importando em cerceamento de defesa ou violação ao princípio da colegialidade (RHC 59.075/MG, Rel. Ministro FELIX FISCHER, DJe de 1º/4/2016).
+Conforme destacado no acórdão objurgado, o ora paciente, no mesmo dia, em que foi impetrado o writ originário, interpôs correição parcial, destaque-se, o recurso cabível ao caso. O Tribunal de origem decidiu o feito em consonância com a orientação jurisprudencial deste Superior Tribunal de Justiça no sentido de que não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC 549.368/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 19/12/2019).
+RECURSO EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. NEGATIVA DO RECURSO EM LIBERDADE. RISCO CONCRETO DE REITERAÇÃO DELITIVA. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. CIRCUNSTÂNCIAS APTAS A JUSTIFICAR A MANUTENÇÃO DA CUSTÓDIA. SUBSTITUIÇÃO DA CUSTÓDIA POR MEDIDAS CAUTELARES. INVIABILIDADE. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. PENDÊNCIA DE JULGAMENTO DE RECURSO DE APELAÇÃO. ANÁLISE OBSTADA.
+1. Havendo notícias de que o recorrente é reincidente e responde a outras ações penais, bem como que integra organização criminosa, fundamentada está a manutenção da sua prisão cautelar. Precedentes.
+2. É inviável a substituição da prisão preventiva do acusado por medidas cautelares alternativas, porquanto, embora tenham sido trazidos aos autos documentos médicos sugerindo que o seu estado de saúde necessita de atenção, não se logrou comprovar a condição de debilidade permanente, por motivo de doença grave, na forma do art. 318, II, do Código de Processo Penal. Não há, tampouco, a demonstração da real impossibilidade de lhe ser prestada a devida assistência médica no estabelecimento prisional. De igual forma, não se demonstrou a imprescindibilidade do acusado nos cuidados dos filhos menores.
+3. A análise de eventual ilegalidade na aplicação das penas, conforme entendimento do Superior Tribunal de Justiça, mostra-se prematura na via do habeas corpus, quando pendente apreciação de apelação interposta concomitantemente ao writ, recurso próprio à análise das aludidas alegações, sob pena de supressão de instância.
+4. Recurso em habeas corpus conhecido em parte e, nessa extensão, improvido.
+(RHC 115.630/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 10/10/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA ARMADA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. REDUÇÃO DA PENA-BASE. DESCLASSIFICAÇÃO. SUPRESSÃO DE INSTÂNCIA. PENDÊNCIA DE JULGAMENTO DE RECURSO DE APELAÇÃO. ANÁLISE OBSTADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça já se firmou no entendimento de que se mostra prematura a revisão da dosimetria da pena e do regime prisional, na via do habeas corpus, quando pendente apreciação de apelação interposta concomitantemente ao writ, recurso próprio à análise das aludidas alegações, sob pena de supressão de instância. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 463.067/PA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 22/08/2019).
+Destaque-se, ainda, que o acórdão proferido no julgamento do recurso de apelação não foi juntado aos presentes autos.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se."
+Com efeito, a matéria impugnada não foi objeto de análise do Tribunal de origem no acórdão impugnado, o que afasta a competência desta Corte Superior para conhecer da matéria, sob pena de incorrer em indevida supressão de instância.
+Ademais, acolher a tese defensiva de que não havia justa causa para os policiais realizarem busca pessoal no paciente, quando esta matéria sequer foi tratada pela sentença condenatória (fls.152/172), demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+Ante o exposto, voto no sentido de negar provimento ao presente Agravo Regimental no habeas corpus.
