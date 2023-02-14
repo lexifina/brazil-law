@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/02/2023 a 14/02/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por SÔNIA MARIA CERQUEIRA RAMOS ARAÚJO contra decisão que declarou a competência do juízo universal.
+Ação em trâmite no juízo cível: recuperação judicial da suscitante.
+Ação em trâmite na Justiça do Trabalho: reclamatória 0000700-12.2017.5.19.0006, ajuizada por SÔNIA MARIA CERQUEIRA RAMOS ARAÚJO.
+Conflito de competência: alega que o juízo recuperacional é o único competente para dispor sobre o destino do acervo patrimonial de empresas em recuperação judicial. Afirma que a Cooperativa Regional dos Produtores de Açúcar e Álcool de Alagoas também teve seu acervo patrimonial blindado pelo juízo recuperacional, para que não se frustre o cumprimento do plano de soerguimento.
+Decisão agravada: declarou a competência do juízo universal.
+Agravo interno: afirma a agravante que "a Cooperativa Regional dos Produtores de Açúcar e Álcool de Alagoas - CRPAAA não figura, nem nunca figurou na recuperação judicial informada nos autos pela suscitante" (e-STJ, fl. 290) e, por isso mesmo, é viável o prosseguimento da execução trabalhista em seu desfavor.
+Aduz ser ilegal a decisão do Juízo universal estendendo os efeitos da recuperação judicial para a cooperativa, pois "as empresas integrantes do sistema cooperado são independentes entre si, e não se confundem com a Cooperativa" (e-STJ, fl. 294). Requer, assim, seja reformada a decisão agravada.
+É O RELATÓRIO.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. SISTEMA COOPERADO. PRÁTICA DE ATOS DE CONSTRIÇÃO DO PATRIMÔNIO DA COOPERATIVA, RECONHECIDA COMO ATIVO DAS EMPRESAS EM RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL. PRECEDENTES.
+1. Consoante a jurisprudência desta Corte, o "Juízo onde se processa a recuperação judicial é o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, ainda que o crédito seja anterior ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação" (AgInt nos EDcl no CC 176.040/GO, 2ª Seção, DJe 09/12/2021).
+2. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A insurgência não merece ser acolhida.
+Com efeito, a jurisprudência desta Corte assinala que o "Juízo onde se processa a recuperação judicial é o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, ainda que o crédito seja anterior ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação" (AgInt nos EDcl no CC 176.040/GO, 2ª Seção, DJe 09/12/2021).
+No caso, extrai-se da decisão do Juízo universal, que analisou o pedido da recuperanda (suscitante) de liberação dos valores bloqueados, pelo Juízo da 6ª Vara do Trabalho de Maceió - AL, na conta mantida pela Cooperativa Regional dos Produtores de Açúcar e Álcool de Alagoas, o seguinte:
+Consoante se extrai dos autos, a decisão que deferiu o processamento da Recuperação Judicial das empresas Recuperandas (fls. 5.757/5.773) estendeu, de forma expressa, os efeitos da suspensão das execuções à Cooperativa Regional dos Produtores de Açúcares e Álcool de Alagoas, com o objetivo de garantir a preservação da empresa e do emprego e a manutenção da atividade empresarial, tendo em vista que as empresas recuperandas estão inseridas no sistema cooperado.  ..
+Ademais, o prazo de prorrogação de suspensão das ações e execuções (stay period) foi prorrogado até a realização da Assembleia Geral de Credores, nos termos da decisão de fls. 10.966/10.968.
+Nesse trilhar, urge destacar que a realização de eventuais atos de expropriação sobre o patrimônio da Cooperativa - reconhecida como principal ativo das usinas em recuperação judicial - por Juízo diverso revela-se contrária ao entendimento formulado pelo Superior Tribunal de Justiça, que, conforme exposto alhures, entende pela essencialidade da Cooperativa - e seus ativos - para o regular processamento desta recuperação judicial.
+Assim, apenas este Juízo recuperacional detém atribuição exclusiva para apreciar atos de constrição de bens da empresa em recuperação que irão interferir na preservação da atividade empresarial, sendo incluído aí o sistema cooperado das sociedades empresárias.
+Ante o exposto, DEFIRO o requerimento de fls. 16.030/16.035, para determinar a expedição de ofício ao Juízo da 6ª Vara do Trabalho da Comarca de Maceió/AL para que: a) libere imediatamente os valores bloqueados nas contas mantidas pela Cooperativa em razão de determinação proferida nos autos da execução trabalhista movida por Sônia Maria Cerqueira Ramos Araújo (processo nº 0000700-12.2017.5.19.0006); e b) se abstenha de efetuar todo qualquer ato constritivo ou expropriatório sobre o patrimônio da Cooperativa ou das Recuperandas. (e-STJ fls. 189/191)
+Como se observa, houve o reconhecimento, pelo juízo universal, de que a recuperanda estaria inserida no sistema cooperado e que a Cooperativa Regional dos Produtores de Açúcares e Álcool de Alagoas se trata de ativo necessário ao regular processamento da recuperação judicial, inclusive determinando a imediata liberação dos valores bloqueados nas contas mantidas pela Cooperativa em razão de determinação proferida nos autos da execução trabalhista de que tratam os autos.
+Assim, consoante anteriormente consignado, a constrição do patrimônio da Cooperativa, pelo Juízo Trabalhista, resvala, em última análise, nos interesses e bens da empresa em recuperação judicial e, portanto, justifica o reconhecimento da competência do juízo universal.
+Refoge, por conseguinte, do âmbito de cognição do incidente a discussão acerca da legalidade da decisão do Juízo universal que estendeu os efeitos da recuperação judicial para a cooperativa e, assim, não enseja a reforma da decisão agravada .
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
