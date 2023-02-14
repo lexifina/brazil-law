@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMINIO EDIFÍCIO SAINT EXUPERY RESIDENCE SERVICE com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 565):
+Agravo interno Negado provimento à apelação, por decisão monocrática - Embargos de declaração rejeitados - Manutenção da decisão Negado provimento a este recurso.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 5º, LV, da CF e 51, IV, do CDC, argumentando, em suma, que deve ser cobrada tarifa com base no volume real da coleta de esgoto, sob pena de ser dado tratamento diferenciado a situações idênticas, além de impor obrigação excessivamente onerosa ao consumidor.
+Contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 704/707.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Em relação ao indicado dispositivo da Constituição da República, cabe salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+De outro lado, observa-se que o Tribunal de origem não analisou, ainda que implicitamente, o disposto no(s) art(s). 51, IV, do CDC, tampouco foram opostos embargos de declaração com esse desiderato, o que demonstra a carência do requisito constitucional do prequestionamento.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Com efeito, nos termos da jurisprudência desta Corte, para que se configure o prequestionamento, mister se faz que a tese jurídica vinculada no recurso especial tenha sido decidida à luz da legislação federal indicada, o que não ocorreu no presente caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. EMBARGOS À EXECUÇÃO. CHEQUE. ALEGAÇÃO GENÉRICA DE OFENSA À LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC EM RELAÇÃO À MATÉRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. ARRESTO PRÉVIO À CITAÇÃO. COMPARECIMENTO ESPONTÂNEO AOS AUTOS. SENTENÇA POSTERIOR. AUSÊNCIA DE PREJUÍZO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+(..)
+4. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, as Súmulas 282 e 356 do STF.
+5. É entendimento desta Corte Superior que "O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief)" (AgRg no AgRg no AREsp 4.236/GO, de minha relatoria, Quarta Turma, DJe de 2/4/2014).
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.007.763/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022).
+ADMINISTRATIVO. DESAPROPRIAÇÃO. AGRAVO EM RECURSO ESPECIAL. EXTENSAS ÁREAS DA BARRA DA TIJUCA E JACARÉPAGUA (RJ). LEVANTAMENTO DE PRECATÓRIO. DÚVIDA SOBRE O DOMÍNIO. TESE AFASTADA PELO ACÓRDÃO RECORRIDO COM BASE NO CONTEXTO FÁTICO. DECISÃO ANTERIOR COM TRÂNSITO EM JULGADO APÓS RECURSOS AOS TRIBUNAIS SUPERIORES RECONHECEREM USUCAPIÃO TABULAR EM FAVOR DOS EXPROPRIADOS RECORRIDOS. PERMANÊNCIA DA DÚVIDA EM RELAÇÃO A TERCEIROS. SÚMULA N. 7/STJ. NECESSIDADE DE APRESENTAÇÃO DE CERTIDÕES FISCAIS PRÉVIAS AO LEVANTAMENTO. TESE NÃO DISCUTIDA E NÃO OBJETO DE ACLARATÓRIOS NA ORIGEM. SÚMULAS N. 282 E 356 DO STF. DIVERSOS PEDIDOS DE INTERVENÇÃO DE TERCEIROS REJEITADOS OU NÃO CONHECIDOS. AÇÃO DECLARATÓRIA INCIDENTAL NÃO CONHECIDA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+(..)
+9. A tese recursal de ser necessária a apresentação de certidões de regularidade fiscal para levantamento dos precatórios há tempos expedidos, decorrentes de desapropriação iniciada em 1962 e transitada em julgado em 1994, não foi objeto de deliberação na origem, não tendo sido nem sequer opostos aclaratórios diante da suposta omissão. Ainda que se admita a criação legal de hipóteses de prequestionamento fictício, que aqui não se cogita, permanece o requisito constitucional de que o recurso especial se volte contra matéria decidida pela instância ordinária. Ante a ausência dos embargos ao acórdão recorrido, incide a pretensão nos óbices das Súmulas n. 282/STF (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356/STF (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento).
+10. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 1.254.617/RJ, Relator Ministro Og Fernandes, Segunda Turma, julgado em 4/8/2022, DJe de 27/9/2022).
+Nessa quadra, forçoso convir que não há como aferir a similitude fática entre o caso em concreto e o julgado apontado como paradigma, sendo descabido o recurso especial interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO COM PEDIDO DE RESTITUIÇÃO DE VALORES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA SUPOSTAMENTE DIVERGENTE.
+1. Ação revisional de contrato bancário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+Precedentes.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.007.246/AL, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
