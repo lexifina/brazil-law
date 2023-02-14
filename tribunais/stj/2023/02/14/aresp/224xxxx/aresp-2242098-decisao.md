@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 113/118).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 23):
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. NULIDADE DE CITAÇÃO. REABERTURA DE PRAZO PARA APRESENTAÇÃO DE CONTESTAÇÃO. Decisão que declarou a nulidade da citação da parte ré e reabriu prazo para apresentação de contestação. Recurso da parte autora. O comparecimento espontâneo da parte ré supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação. Inteligência do art. 239, §1º do CPC/15. A partir do seu comparecimento espontâneo, a parte ré/agravada deveria ter apresentado contestação em 15 dias úteis, o que não ocorreu. Parte ré que compareceu espontaneamente ao feito em 24/09/2021 e a decisão impugnada foi proferida em 22/01/2002, quando já havia transcorrido o prazo para apresentação da contestação pela parte ré. CPC/2015 que não prevê a possibilidade de o réu comparecer ao feito tão somente para alegar a nulidade e, apenas após a decisão do magistrado declarando a nulidade da citação, oferecer contestação. Precedentes do STJ e desta Corte. Contestação intempestiva. Decisão reformada para decretar a revelia da parte agravada. PROVIMENTO DO RECURSO
+Nas razões do recurso especial (e-STJ fls. 29/54), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou:
+(i) violação dos arts. 5º, LV, da CF, 9º, 269, 272, § 2º, e 274 do CPC/2015, porque (e-STJ fls. 39/40):
+ ..  no que tange a violação dos dispositivos de lei infraconstitucional, tem-se que os v. acórdão proferido Egrégio Tribunal Local de Segunda Instância deixaram de observar que muito embora requereu a citação da Recorrente, a Recorrida não fez o devido cadastro da Recorrente que inclusive é ADVOGADA e assim teria ciência através da OAB/RJ e que não houve intimação e muito menos intimação pessoal.
+(ii) ofensa aos arts. 7º, 9º e 10 do CPC/2015, por violação ao princípio da não surpresa e da segurança jurídica,
+(iii) afronta aos arts. 269, 274, 280, 281 e 283 do CPC/2015, porque (e-STJ fls. 41/43):
+ ..  não foi observado o contraditório e ampla defesa da Recorrente, resguardado pela Constituição Federal de 1988, uma vez que não foi dado vista da petição da Recorrida para o Recorrente, assim como, a fim de oportunizar a Recorrente em manifestar-se quanto a Agravo de Instrumento e consequentemente a produção de provas.
+Outrossim, cumpre salientar, que a Recorrida não se manifestou no processo originário, inclusive sem dar ciência a própria Juíza da causa e continuou a praticar os atos no processo, e com isso nem a Juíza teve seu direito respeitado, o juízo de retratação e muito menos a Recorrente seus direitos de contrarrazoar o Agravo de Instrumento.
+ ..  Assim, a intimação não realizada ou efetuada de forma viciada acarreta a nulidade dos atos processuais a ela dependentes.
+ ..  entende-se que a falta de intimação da Recorrente quanto a contrarrazoar o Agravo de Instrumento evidentemente que configura-se CERCEAMENTO DE DEFESA, uma vez que foi cerceado a Recorrente o seu direito de produção de outros meios de prova dentro do Agravo de Instrumento.
+(iv) que "a ausência na publicação da Nota de Expediente deve conduzir à necessária nulidade de todos os atos posteriores" (e-STJ fl. 51),
+(v) que " a comunicação ao Juízo de origem, bem como o exercício do juízo de retratação era obrigatório, devido ao prejuízo enorme a Recorrente. Vale dizer que a retratação não foi desobrigada e sim facultada" (e-STJ fl. 53).
+No agravo (e-STJ fls. 128/142), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 146).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Quanto às alegações de ofensa aos arts. 7º, 9º, 10, 269, 272, § 2º, 274, 280, 281 e 283 do CPC/2015, bem como de afronta ao princípio da decisão surpresa, da segurança jurídica, do contraditório e ampla defesa e a falta de intimação da parte para contrarr azoar, não houve pronunciamento do Tribunal a quo sobre essas questões, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Já quanto à ausência de publicação de nota de expediente e obrigatoriedade da do juízo de retratação, a parte não indica quais dispositivos de lei federal teriam sido violados, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
