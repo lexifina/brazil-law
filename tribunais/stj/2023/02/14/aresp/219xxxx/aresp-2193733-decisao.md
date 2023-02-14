@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 93):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. DESNECESSIDADE DE INTIMAÇÃO DA PARTE EXEQUENTE PARA PROSSEGUI-MENTO. PRESCRIÇÃO CONFIGURADA.
+Nos termos do IRDR n 2 70076146703, julgado pela 4 2 . Turma deste Tribunal, quando já configurada a prescrição intercorrente antes da vigência do Novo CPC, não se aplica o disposto no artigo 1.056 do referido diploma. O julgado também refere que é desnecessária a prévia intimação pessoal do exequente para dar andamento ao feito executivo, para fins de reconhecimento da prescrição intercorrente.
+Caso dos autos em que verificada a inércia do exequente por prazo superior ao da prescrição do direito material (cinco anos), mostrando-se correta a sentença que extinguiu o feito ante a ocorrência da prescrição intercorrente.
+APELO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 924, 925 e 1.056 do Código de Processo Civil, bem como divergência jurisprudencial.
+Busca afastar o reconhecimento da prescrição intercorrente, alegando que, para as execuções em curso, o termo inicial do prazo prescricional coincide com a data de vigência do Código de Processo Civil de 2015, iniciando em 16.3.2016.
+Defende que o início da contagem do prazo de prescrição intercorrente necessita da intimação do credor para impulsionar o feito.
+Argumenta ainda que não houve inércia do exequente.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Na hipótese, o recurso especial não foi admitido na origem em razão dos seguintes fundamentos: a) quanto ao reconhecimento da prescrição intercorrente, fundamentou-se na aplicação da Súmula 83/STJ, porquanto a orientação firmada pelo acórdão estaria em sintonia com o precedente desta Corte firmado no IAC nº 1/STJ; b) no tocante à questão acerca da inércia do exequente, incidiu o óbice da Súmula 7 do STJ (e- STJ, fls.167/172) e; c) considerou prejudicada a análise no que se refere à divergência jurisprudencial em razão do óbice da Súmula 7/STJ.
+Nas razões do agravo, a parte não rebateu todos os fundamento da decisão agravada, porquanto deixou de refutar a incidência da Súmula nº 83 do STJ.
+Registre-se que, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Assim, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Especificamente quanto ao fundamento de consonância da conclusão do acórdão recorrido com a jurisprudência do STJ (Súmula 83/STJ), esta Corte possui entendimento firme no sentido de que "uma vez que o Tribunal de origem invocou a Súmula n. 83/STJ como fundamento para inadmitir o recurso especial, a efetiva impugnação desta decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgRg no AREsp 1686696/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 29.6.2020). Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE ERRO DE CÁLCULOS DA CONTADORIA JUDICIAL. DISCUSSÃO ACERCA DOS CRITÉRIOS ADOTADOS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REVISÃO DO JULGADO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Colegiado estadual adotou solução em sintonia com a orientação jurisprudencial desta Corte no sentido de que o erro passível de correção a qualquer tempo é somente o material, ou seja, o erro de cálculo evidente, sendo os critérios de cálculo utilizados na liquidação da sentença passíveis de preclusão se não impugnados oportunamente. Incidência, no ponto, da Súmula n. 83 do STJ.
+2.Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. A revisão da conclusão do Tribunal local, para acolher a pretensão recursal, quanto à existência de erro de cálculo, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante o enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp 1342744/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 9.4.2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
