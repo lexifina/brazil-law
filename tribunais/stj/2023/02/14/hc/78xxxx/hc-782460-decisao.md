@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de FLODUARDO JOSÉ CORDEIRODA ROCHA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo nos autos da Apelação Criminal nº 0736129-70.2016.8.02.0001.
+Consta que o paciente foi condenado em primeiro grau incurso nos artigos 158, § 1º, do Código Penal (única vez) c/c e art. 2º, § 2º, da Lei nº 12.850/13, totalizando uma pena privativa de liberdade de 16 anos e 06 meses, e, 603 dias-multa.
+Interposta apelação, a Corte Estadual deu parcial provimento ao recurso para reduzir a pena imposta para 13 anos, 7 meses e 22 dias de reclusão, em regime inicialmente fechado, e 214 dias-multa (fls. 482/483).
+Contra o julgado foi interposto recurso extraordinário, que restou inadmitido no Tribunal a quo.
+No presente habeas corpus , o impetrante alega que o paciente vem sofrendo constrangimento ilegal, diante da nulidade por cerceamento de defesa. Sustenta que o paciente interpôs recurso especial e extraordinário, mas que logo em seguida houve o substabelecimento sem reservas dos poderes do patrono originário para outros três advogados. Alega que, no entanto, os novos advogados substabelecidos não foram intimados da decisão que negou seguimento ao recurso extraordinário.
+Assevera que em seguida à publicação, houve pedido da defesa para publicação em nome dos novos defensores e nova abertura de prazo para recurso, o que não teria ocorrido.
+Requer, assim, o deferimento de "LIMINAR de HABEAS CORPUS e depois mantida de MANEIRA DEFINITIVA por este SUPERIOR TRIBUNAL DE JUSTIÇA, sem a necessidade do pedido de informações para AUTORIDADE COATORA, em razão da CÓPIA INTEGRAL DOS AUTOS DO PROCESSO DE ORIGEM".
+No mérito, "requer que seja concedido a ordem para anular a decisão que transitou em julgado o processo criminal de Número 0736129-70.2016.8.02.0001, em razão da nulidade a partir da intimação dos patronos feita equivocadamente em nome do advogado que não possuía mandato para atuar no feito (fls 2850) (substabelecimento sem reserva de poderes em fls. 2.848), assegurado o direito do paciente aguardar em liberdade o trânsito em julgado da condenação proferida nos autos de origem, confirmando-se no mérito, com espeque ao artigo 5º, inciso LV, da Constituição Federal, e no artigo 370, § 1ºc/c art. 564, inciso III, do Código de Processo Penal" (fl. 24).
+O pedido liminar foi indeferido (fls. 454/456).
+Informações prestadas (fls. 459/510).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 514/516).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, entendo razoável o processamento do feito apenas para verificar a eventual existência de flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se, na presente impetração, a anulação da decisão de trânsito em julgado da condenação, em razão da nulidade por cerceamento de defesa, sob alegação de que os novos advogados substabelecidos não foram intimados da decisão que negou seguimento ao recurso extraordinário.
+Entretanto, o writ está deficientemente instruído. Isso porque, embora o impetrante tenha juntado a estes autos cópia da petição de juntada do substabelecimento sem reservas, assinada pelo advogado originário, Dr. Ítalo Ferro de Souza (fl. 340), deixou de juntar aos autos o substabelecimento propriamente dito.
+Ademais, também não trouxe aos autos a cópia da publicação da decisão que negou seguimento ao seu recurso extraordinário, deixando de demonstrar, por consequência, que os advogados substabelecidos não foram realmente intimados, documentos essenciais à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido, confiram-se os seguintes precedentes, entre outros:
+HABEAS CORPUS. DEFICIÊNCIA NA INSTRUÇÃO. VIA INDEVIDAMENTE UTILIZADA EM SUBSTITUIÇÃO A RECURSO ORDINÁRIO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. NÃO CONHECIMENTO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso ordinário.
+2. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente da ordem, na qual se deixou de coligir cópia do decisum que indeferiu o pedido de degravação da prova testemunhal, documento imprescindível à plena compreensão dos fatos aduzidos no presente mandamus.
+3. De mais a mais, "o Código de Processo Penal, com as alterações promovidas pela Lei n.º 11.719/08, em consagração ao princípio da duração razoável do processo, prevê, em seu art. 405, o registro dos depoimentos em meio audiovisual, sempre que possível, dispensando a transcrição do material colhido" (HC 246770/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/10/2012, DJe 09/10/2012).
+4. Habeas corpus não conhecido.
+(HC n. 247.919/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 18/6/2014, DJe de 4/8/2014.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PREVISÃO LEGAL DE DECISÃO MONOCRÁTICA PELO RELATOR. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Primeiramente, urge consignar que " n ão viola o princípio da colegialidade a decisão monocrática do relator, arrimada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista, por outro lado, a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. Precedentes" (AgRg no AREsp n. 2.091.600/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 24/6/2022).
+2. Ação constitucional de natureza mandamental, o habeas corpustem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Não instruída a impetração com cópia da decisão de primeira instância, mostra-se inviável o exame do sustentado constrangimento ilegal.
+4. Agravo regimental não provido.
+(AgRg no HC n. 768.061/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/9/2022, DJe de 6/10/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ , não conheço do habeas corpus.
+Publique-se. Intimações necessárias.
