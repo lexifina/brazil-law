@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por ADRIANO LAURINI ROSSATO E OUTROS contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 1.110/1.112).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 931):
+APELAÇÕES CÍVEIS. EMBARGOS À EXECUÇÃO. CÉDULA RURAL PIGNORATÍCIA. PRORROGAÇÃO DA DÍVIDA. COMPROVAÇÃO DE REQUISITOS. CAPITALIZAÇÃO MENSAL DE JUROS. POSSIBILIDADE. COMISSÃO DE PERMANÊNCIA EM SUBSTITUIÇÃO A OUTROS ENCARGOS PACTUADOS. LEGALIDADE. SENTENÇA REFORMADA.
+1. O entendimento consolidado nos Tribunais, inclusive no STJ, é no sentido de que o alongamento da dívida originada de cédula de crédito rural constitui direito subjetivo do devedor, conforme enunciado 298 do Superior Tribunal de Justiça: "O alongamento da dívida originada de cédula de crédito rural não constitui faculdade da instituição financeira, mas, direito do devedor nos termos da lei". Os embargantes log raram êxito em comprovar a incapacidade de pagamento em consequência da frustração das safras, o que autoriza reconhecimento do direito à nova prorrogação da dívida.
+2. Quanto à capitalização dos juros no título em execução, baseada na previsão contratual, a matéria está pacificada no Superior Tribunal de Justiça, dispensando estender a fundamentação para aplicação do enunciado da Súmula 93/STJ: "A legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros".
+3. Não há razão para declaração de invalidade da cláusula contratual que prevê a incidência da comissão de permanência em substituição aos outros encargos pactuados, vez que em conformidade com a Súmula 472 do STJ.
+4. Apelações conhecidas. Recurso dos embargantes parcialmente provido. Recurso do embargado provido.
+Nas razões do recurso especial (e-STJ fls. 968/984), interposto com fundamento no art. 105, III, "a" e "c", da CF, as partes alegaram, em síntese, o seguinte:
+(i) "NÃO EXISTE NA CÉDULA RURAL SUB JUDICE QUALQUER PREVISÃO QUE CARACTERIZE A CLARA E EXPRESSA CONTRATAÇÃO DA COBRANÇA DE JUROS SOBRE JUROS, O QUE IMPLICA EM IMPOSSIBILIDADE DE CAPITALIZAÇÃO" (e-STJ fl. 975),
+(ii) violação do art. 5º, parágrafo único, do Decreto-Lei n. 167/1967, porquanto "a comissão de permanência, ou qualquer outro encargo desta natureza, não é sequer mencionada na legislação que fixa e estipula os encargos passíveis de serem cobrados em Crédito Rural, concluindo-se, pois, por descabida e intolerável a sua cobrança" (e-STJ fl. 978), e
+(iii) reversão dos ônus sucumbenciais e reforma da sentença "no tocante a base de cálculo dos honorários advocatícios, a fim de que seja condenada a Recorrida ao pagamento de 20% sobre a redução do valor devido, em consonância com a equidade que deve observada pelo magistrado ao fixar os honorários advocatícios, conforme art. 85, § 8º, DO CPC" (e-STJ fl. 982).
+No agravo (e-STJ fls. 1.136/1.155), afirmam a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.181/1.194 (e-STJ).
+É o relatório.
+Decido.
+Da capitalização de juros
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Incide, portanto, a Súmula n. 284/STF.
+Da comissão de permanência
+"De acordo com o firme entendimento desta Corte Superior, não se mostra possível a incidência de comissão de permanência nas cédulas de crédito rural, comercial e industrial, na medida em que o Decreto-lei n. 167/1967 é expresso em só autorizar, no caso de mora, a cobrança de juros remuneratórios e moratórios (parágrafo único do art. 5º) e de multa de 10% sobre o montante devido (art. 71)" (AgInt no AREsp n. 857.008/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/12/2017, DJe de 13/12/2017). No mesmo sentido: AgInt no REsp n. 1.496.575/PB, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 12/12/2017, DJe de 2/2/2018, e AgInt no REsp n. 1.656.668/SC, de minha relatoria, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021.
+No caso dos autos, o Tribunal de origem, ao assentar que "não há razão para declaração de invalidade da cláusula contratual que prevê a incidência da comissão de permanência em substituição aos outros encargos pactuados" (e-STJ fl. 925), destoou do entendimento deste Tribunal Superior, motivo por que a irresignação do recorrente merece acolhida, a fim de que seja afastada a cobrança de comissão de permanência na dívida oriunda de cédula de crédito rural.
+Ante o exposto, CONHEÇO e DOU PARCIAL PROVIMENTO ao recurso especial, para que seja afastada a cobrança de comissão de permanência na dívida oriunda de cédula de crédito rural.
+Arbitro os honorários advocatícios, nos termos do art. 85, § 2º, do CPC/2015, em 15% do proveito econômico obtido, a ser apurado em fase de liquidação. Custas e honorários distribuídos na proporção de 1/3 (um terço) para os agravantes e 2/3 (dois terços) para o agravado, em atenção ao que prevê o art. 86 do CPC/2015.
+Publique-se e intimem-se
