@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança com pedido de liminar interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão do Tribunal de Justiça local assim ement ado (e-STJ fl. 548):
+MANDADO DE SEGURANÇA. VIA ELEITA INADEQUADA - INADMISSIBILIDADE - SEGUIMENTO NEGADO.
+Consta dos autos que a ação mandamental foi impetrada contra ato da Turma de Uniformização dos Juizados Especiais do Tribunal de Justiça do Estado de São Paulo, nos autos da reclamação, intentada por servidor - em que objetiva o pagamento retroativo do adicional de qualificação e alteração da base de cálculo da vantagem -, para cassação de acórdão da Turma Recursal do Colégio de Andradina/SP (e-STJ fl. 03).
+Na sua insurgência argumenta que: (a) a ação mandamental é a única medida disponível, pois não há nenhuma previsão recursal contra a decisão impugnada, proferida pela Turma de Uniformização dos Juizados Especiais, uma vez que nem sequer houve análise do mérito da reclamação; (b) a decisão impugnada ofende seu direito de obter tutela jurisdicional, pois há nítida inobservância por parte da Turma de Uniformização do teor do art. 988, IV, do CPC/2015; (c) há ofensa de direitos constitucionais, como o princípio da inafastabilidade da jurisdição; e (d) não remanescem dúvidas acerca da possibilidade de interposição de reclamação.
+Acrescenta que o adicional de qualificação somente pode incidir sobre vencimento padrão ou salário base, incluídos, apenas, os décimos constitucionais efetivamente incorporados ao cargo, sem considerar quaisquer outras vantagens.
+Sem contrarrazões.
+A liminar requerida foi indeferida (e-STJ fls. 575/576).
+Parecer do MPF opinando não provimento do recurso (e-STJ fls. 579/583).
+Passo a decidir.
+Entendo que o recurso não deve ser conhecido.
+O órgão originário denegou a segurança se centrando no fundamento principal de que:
+ .. Contra ato judicial, o "mandamus" não é o instrumento adequado, pois não é um sucedâneo de recurso, visto que no sistema processual existem outros específicos para impugnar cada tipo de decisão. No caso, o impetrante deveria ter ingressado com pedido de uniformização de jurisprudência, Resolução TJSP nº 553/2011 e Resolução 589/2012, com a adequada demonstração analítica da divergência de teses entre Turmas de Colégios Recursais do E. TJSP, exigida pela Lei 12.153/2009, artigo 18, lançou não de reclamação, que segundo o art. 14 da Resolução 759/2016, presta-se a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e jurisprudência do Superior Tribunal de Justiça consolidada, que não foi admitida. Contudo, se fez uso do errôneo instrumento processual não pode pretender valer-se do mandado de segurança, que não tem como finalidade discutir ato judicial.
+Conforme corretamente observa o órgão ministerial:
+Irresignado, o ente público impetrante veicula o recurso ordinário de fls. 552/567, onde não rebate os fundamentos da decisão recorrida mas, apenas reitera os fundamentos de mérito da impetração original. (e-STJ fl. 580)
+Isto é, o argumento central do acórdão recorrido não foi infirmado em concreto pelo impetrante, atraindo a aplicação da súmula 283 do STF.
+Pacífica a jurisprudência desta Corte no sentido de que o verbete sumular supracitado (Súmula 283 do STF) prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+Nesse sentido: AgInt no RMS n. 62.779/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt nos EDcl no RMS n. 32.379/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022; AgInt nos EDcl no RMS n. 66.179/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022; AgInt no RMS n. 49.015/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/11/2021, DJe 17/12/2021.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
