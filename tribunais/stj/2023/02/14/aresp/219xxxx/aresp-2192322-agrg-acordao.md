@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IVO CARDOZO, contra decisão monocrática, da minha lavra, que reconsiderando a decisão proferida às e-STJ fls. 2.009/2010, conheceu do agravo para não conhecer do recurso especial.
+No presente agravo, o recorrente alega que a irresignação está adstrita a revaloração de fatos e provas já expostos no aresto impugnado, não havendo se falar em incidência do óbice sumular 7/STJ.
+Reitera as alegações anteriormente expendidas, sustentando que o acervo probatório não ampara o edito condenatório, sendo indevida a consideração, isolada, do relato dos policiais militares. Argumenta que é necessária a devida detração do tempo de pena cumprido pelo Recorrente em caráter provisório para a fixação de regime inicial mais brando.
+Pugna, assim, pelo provimento do presente agravo.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRAFICO. PRETENDIDA ABSOLVIÇÃO. IMPRESCINDIBILIDADE DO REVOLVIMENTO FÁTICO-PROBATÓRIO. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. DETRAÇÃO QUE NÃO INTERFERE NA IMPOSIÇÃO DO REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão unipessoal pelo Ministro Relator não representa violação do princípio da colegialidade, pois está autorizada pelo art. 34 do Regimento Interno desta Corte e em diretriz consolidada pela jurisprudência do Superior Tribunal de Justiça por meio do enunciado n. 568 de sua Súmula.
+2. O Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+3. No caso dos autos, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, nos moldes do art. 387, § 2º, do Código de Processo Penal, para fins de escolha do regime inicial de cumprimento da pena. Isso porque, ainda que descontado o período de prisão cautelar, não haveria alteração do regime inicial fixado na condenação, pois o agravamento do regime está baseado na existência de circunstância judicial desfavorável - maus antecedentes - e na reincidência do acusado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+4. Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental não merece acolhida.
+De início, destaco que não há óbice ao julgamento monocrático nas hipóteses autorizadas pelo Regimento Interno do Superior Tribunal de Justiça e pelo art. 932 do Código de Processo Civil, os quais admitem interpretação extensiva para monocraticamente dar ou negar provimento a recurso contra decisão contrária ou em consonância com jurisprudência dominante. Relevante registrar, outrossim, que os temas decididos monocraticamente sempre poderão ser levados ao Colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+Nesse contexto, "a decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro Felix Fischer, Quinta Turma, DJe 28/3/2019).
+No mais, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada.
+Conforme consignado na decisão agravada, no caso dos autos, o Tribunal de origem, considerando as drogas apreendidas e o depoimento dos policiais, reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, inviável, assim, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA CIRCUNSTANCIADA. ADVOGADO. PEDIDOS DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO DE EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA N. 284/STF.
+1. Os pedidos de absolvição ou de desclassificação para o art. 345 do CP demandariam imprescindível reexame dos elementos fático-probatórios dos autos, uma vez que o Tribunal de origem rechaçou a tese defensiva de que o agravante é advogado credor da vítima, que estava inadimplente. Incidência da Súmula 7 desta Corte.
+2. A mera transcrição de ementas não serve à comprovação do dissenso jurisprudencial, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados. Não demonstrada a divergência nos termos exigidos, incide a vedação prescrita na Súmula n. 284/STF.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.061.781/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/11/2017, DJe de 24/11/2017.)
+Dessa forma, não tendo o agravante apresentado argumentos aptos a reverter o entendimento assentado na decisão monocrática, esta se mantém por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o meu voto.
