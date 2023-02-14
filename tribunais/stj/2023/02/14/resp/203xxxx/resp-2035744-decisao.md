@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manifestado por Juarenilton Cruz de Oliveira, no qual se alega violação dos arts. 85, 373, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil; 884 do Código Civil; 22, 23 e 24 da Lei n. 8.906/1994. O acórdão recorrido está retratado na seguinte ementa (fls. 262/263):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. CÉDULA DE CRÉDITO BANCÁRIO. FINANCIAMENTO DE VEÍCULO. APLICABILIDADE DA TAXA CONTRATADA POR SER INFERIOR A TAXA MÉDIA DE MERCADO. CAPITALIZAÇÃO MENSAL. POSSIBILIDADE. PREVISÃO CONTRATUAL. INSURGÊNCIA CONTRA A TEC E TAC. INEXISTÊNCIA DE PROVAS DE QUE HOUVE TAIS COBRANÇAS. SERVIÇOS DE TERCEIRO. LEGALIDADE DA COBRANÇA. COMISSÃO DE PERMANÊNCIA CAMUFLADA EM JUROS REMUNERATÓRIOS INADIMPLÊNCIA. AFASTAMENTO. IMPOSSIBILIDADE DE DE CUMULAÇÃO COM ENCARGOS REMUNERATÓRIOS, CORREÇÃO MONETÁRIA, JUROS DE MORA OU MULTA CONTRATUAL. SENTENÇA REFORMADA EM PARTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 438):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE SUSCITADA EM SEDE DE CONTRARRAZÕES REJEITADA. MÉRITO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022, DO NCPC. REDISCUSSÃO DA MATÉRIA IMPUGNADA. IMPOSSIBILIDADE.
+- São incabíveis embargos de declaração utilizados com a indevida finalidade de instaurar uma nova discussão sobre a controvérsia jurídica já apreciada. EMBARGOS CONHECIDOS E DESPROVIDOS. DECISÃO UNÂNIME.
+Sustenta o recorrente que "não houve valoração correta das provas carreadas nos autos, haja vista que não foram valoradas as informações da cédula de crédito bancário, nas folhas 45 e 46 dos autos do processo principal, que refletem diretamente no mérito do presente processo" (fl. 288).
+Afirma, por outro lado, que o acórdão recorrido deu parcial provimento ao recurso de apelação interposto pelo recorrente, todavia, não se manifestou acerca dos honorários advocatícios.
+Assim posta a questão, passo a decidir.
+Verifico que procede a alegação de violação dos arts. 489 e 1.022 do CPC/2015 quanto à falta de pronunciamento pela Corte local acerca do tema referente aos honorários advocatícios sucumbenciais.
+Com efeito, observo que o Tribunal de origem, apesar de ser instado a se pronunciar sobre o ponto suscitado acima, nos embargos de declaração opostos às fls. 398/408, não enfrentou a controvérsia de forma específica, o que configura a ofensa aos arts. 489 e 1.022 do CPC/15.
+Em face do exposto, dou parcial provimento ao recurso especial para anular o acórdão dos embargos de declaração, e determinar que outro seja proferido, sanando-se a omissão nos termos acima. Ficam prejudicadas as demais questões tratadas no recurso especial.
+Intimem-se.
