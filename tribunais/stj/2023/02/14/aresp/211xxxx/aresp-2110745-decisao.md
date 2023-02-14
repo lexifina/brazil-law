@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 834/836).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 742):
+EMENTA: PROCESSO CIVIL. APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATICIOS. ALEGADA INEXECUÇÃO. CONJUNTO PROBATÓRIO QUE DEMONSTRA A REALIZAÇÃO DE SERVIÇO PELO CAUSÍDICO. REDUÇÃO DO VALOR PREVISTO NO CONTRATO. POSSIBILIDADE. RELATIVIZAÇÃO DO PRINCIPIO PACTA SUNT SERV ANDA. ABUSIVIDADE DA CLÁUSULA. APRECIAÇÃO PELO JUDICIÁRIO PARA GARANTIR O EQUILÍBRIO ENTRE AS PARTES CONTRATANTES. FIXAÇÃO EM 5% (CINCO POR CENTO) SOBRE O BENEFICIO ECONÔMICO AUFERIDO PELA PARTE AUTORA. RECURSOS CONHECIDOS E DESPROVIDOS.
+Nas razões do recurso especial (e-STJ fls. 795/804), fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 421 e 421-A do CC/2002, porque (e-STJ fls. 797/800):
+É indiscutível que o acórdão em vergasta, ao permitir a redução do percentual contratado entre as partes, viola, expressamente o dispositivo invocado, porquanto não apontou a excepcionalidade a justificar a intervenção estatal na relação privada sub judice.
+7. É que o ordenamento jurídico pátrio proíbe a revisão contratual ordinária e desprovida de excepcionalidade, ao tempo que reafirma a força obrigatória dos contratos, presumindo os contratos civis, a teor do art. 421-A
+ ..  fica nítido que os acórdãos paradigmas defendem posição divergente daquela ostentada pelo aresto recorrido, qual seja: o respeito ao princípio contratual da pacta sunt servanda, quando não evidenciado critérios objetivos aptos a autorizar a revisão contratual.
+12 Enquanto o acórdão recorrido reconhece o cumprimento integraldo contrato, mas ordena a redução do valor ajustado entre as partes, os acórdãos paradigmaS, em sentido contrário, declaram que a força obrigatória dos contratos deve ser respeitada.
+No agravo (e-STJ fls. 837/843), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 845/848 (e-STJ).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 748/749):
+As apelantes defendem que referido valor representa abusividade no contrato firmado, devendo ser reduzido a patamar razoável, enquanto o promovido assevera a necessidade de cumprir o percentual(10%) previsto no contrato.
+A relativização do princípio mostra-se possível quando verificada pacta sunt servanda abusividade no contrato, devendo o Judiciário apreciar tal questão e garantir o equilíbrio entre as partes contratantes, considerando a função social do contrato.
+Dito isto, é de fácil percepção que o valor fixado no contrato de prestação de serviço - 10% sobreo valor do proveito econômico das partes (R$ 3.483.593,07 -três milhões quatrocentos e oitenta e três mil, quinhentos e noventa e três reais e sete centavos) - quando considerado o valor da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço - mostra-se bastante desarrazoado, o que autoriza a sua revisão.
+Na espécie, observa-se que o julgador a quo fixou o percentual de 5% (cinco por cento) sobre o valor do proveito econômico das partes, o que perfaz a quantia R$ 1.741.796,53 (um milhão, setecentos e quarenta e um mil, setecentos e noventa e seis reais e cinquenta e três centavos,) o que, considerando-se as peculiaridades do caso concreto, mostra-se adequado, devendo ser mantida tal quantia.
+Para alterar tais fundamentos e concluir que não houve abuso no valor fixado, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Com relação ao apontado dissídio jurisprudencial, a incidência da Súmula n. 7/STJ impede também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012; REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011; ED cl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TUR MA, julgado em 16/3/2010, DJe 5/4/2010; AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
