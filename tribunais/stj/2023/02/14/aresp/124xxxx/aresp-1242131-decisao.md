@@ -1,0 +1,19 @@
+DECISÃO
+Agrava-se da decisão que inadmitiu o recurso especial interposto DALTON PERIM e DECIO PERIM, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurgem contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DOS ÓRGÃOS JURISDICIONAIS. NÃO CONFIGURAÇÃO DAS HIPÓTESES PREVISTAS NO ART. 115 DO CPC. CONFLITO NÃO CONHECIDO.
+1- De acordo com o disposto no art. 115 do CPC, para que o conflito de competência seja instaurado, seja por iniciativa das partes, dos juízos envolvidos ou do Ministério Público, faz-se necessária a existência de divergência entre dois ou mais juízos acerca da competência para julgar o feito.
+2- A fixação da competência pela 4ª Turma já foi resolvida por ocasião do julgamento da questão de ordem apresentada pela 3ª Turma Especializada, restando acolhida a alegação de prevenção, com redistribuição dos autos 2004.50.01.011398-9 à Desembargadora Federal Lana Regueira, que então compunha a 4ª Turma Especializada.
+3- O fato de a Desembargadora Federal Lana Regueira ter sido removida da 4a Turma Especializada para a 3a Turma Especializada não modifica a competência para julgamento das ações, conforme pretendem os suscitantes, uma vez que a prevenção, segundo o artigo 77, § 1º, do Regimento Interno deste Tribunal, é do órgão julgador, sendo seu acervo assumido pelo novo Desembargador designado para sua vaga, não importando se o processo já se encontrava incluído em pauta para julgamento.
+4- A norma do§ 3º do artigo 44 do Regimento Interno deste Tribunal não se aplica à hipótese dos autos, uma vez que específica para o Desembargador empossado no cargo de Presidente, Vice-Presidente ou Corregedor. No mesmo sentido, a norma do § 2º do art. 46 do Regimento Interno deste Tribunal.
+5- Portanto, não existe controvérsia entre os órgãos jurisdicionais que enseje a suscitação de conflito, pois a divergência então existente já foi argüida pela parte e decidida pelas Turmas.
+6- Conflito de competência não conhecido (fls. 383/384).
+Os embargos de declaração opostos foram rejeitados (fls. 415/423).
+Nas razões de seu recurso especial, os agravantes sustentam, além de divergência jurisprudencial, violação dos arts. 103, 105, 106, 165, 458, II, 503, 522 e 535, I e II, do CPC/1973.
+Alegam, para tanto: (a) não obstante a interposição de aclaratórios, não houve apreciação de questões essenciais ao deslinde da controvérsia; (b) há decisão transitada em julgado que reconheceu a conexão entre a apelação interposta na ação anulatória e as apelações interpostas nos embargos à execução, nas quais se discute o lançamento do IRPF realizado nos autos do processo administrativo MPF de número 2001-00225-2; (c) é obrigatória a vinculação do relator ao processo que colocou em pauta de julgamento, conforme o disposto no art. 522 do CPC/1973.
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 457/468).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+É o relatório.
+A irresignação não merece ser admitida visto que as partes agravantes não infirmaram adequadamente o fundamento da decisão agravada referente à incidência da Súmula 211 do STJ, bem como à deficiência de fundamentação recursal em relação à indicação do dissídio jurisprudencial.
+Como é cediço, a parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimações necessárias.
