@@ -1,0 +1,27 @@
+DECISÃO
+Da análise do agravo de instrumento extrai-se que o CONDOMINIO EDIFICIO YARA (CONDOMINIO) propôs ação de obrigação de fazer contra SOCIEDADE ESPORTIVA PALMEIRAS (PALMEIRAS), objetivando o cumprimento do regimento interno do condomínio e se abstivesse de utilizar as unidades adquiridas como repúblicas para atletas.
+Em primeira instância, o pedido foi julgado improcedente.
+Em cumprimento de sentença, o síndico, Sr. Odair, constituiu novo advogado e firmou acordo com o PALMEIRAS.
+O Juiz de primeira instância, antes da homologação do acordo, determinou a sua aprovação em assembleia. Contudo, a assembleia não foi realizada e o acordo não foi homologado (e-STJ, fl. 657).
+Contra essa decisão, o PALMEIRAS interpôs agravo de instrumento afirmando a ocorrência de preclusão pro judicato nos termos do art. 471 do CPC/73 e que o CONDOMÍNIO teria praticado ilegalidades na assembleia geral extraordinária e que deveria lhe ser imposta a multa cominatória.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo de instrumento em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. ACORDO CELEBRADO POR PESSOA SEM REPRESENTATIVIDADE PERANTE O CONDOMÍNIO. HOMOLOGAÇÃO JUDICIAL. IMPOSSIBILIDADE. PEDIDO DE CONVOCAÇÃO DE ASSEMBLEIA GERAL PARA ELEIÇÃO DE NOVO SÍNDICO PARA CELEBRAÇÃO DO ACORDO COM A COMINAÇÃO DE PENALIDADES NO CASO DE DESCUMPRIMENTO. NÃO CABIMENTO. NECESSIDADE DE CUMPRIMENTO DA SENTENÇA TRANSITADA EM JULGADO, SOB PENA DE DECISÃO EXTRA PETITA, UMA VEZ QUE A REPRESENTATIVIDADE DO SÍNDICO NÃO É OBJETO DESTA DEMANDA. DECISÃO MANTIDA. RECURSO IMPROVIDO (e-STJ, fl. 713).
+Os embargos de declaração opostos pelo PALMEIRAS foram rejeitados (e-STJ, fls. 723/725).
+Inconformado, PALMEIRAS interpôs recurso especial com fundamento no art. 105, III, a e c, da CF, alegando além de dissídio jurisprudencial violação dos arts. (1) 535 do CPC/73 em virtude de: (1.a) omissão quanto à alegada ilegalidade na assembleia do CONDOMÍNIO realizada em 17/12/2014, justamente em virtude do cerceamento do direito de voto do PALMEIRAS nas assembleias; e (1.b) contradição no que se refere à existência de conflito de interesse da síndica, pois, ao se considerar que o síndico que firmou o acordo na ação originária não tinha poderes para representar o CONDOMÍNIO ante suposto conflito de interesses, teria que se levar em consideração a existência de conflito de interesses opostos ao do PALMEIRAS em relação a Sra. Madir Moraes Milan, que se auto proclamou síndica; (2) e 126, 128, 460, 461, § 5º, 471, todos do CPC/73 e 841, 849, 850 e 1.348, II, do CC/02 no que se referia à preclusão pro judicato porque o Juiz determinou o arquivamento dos autos antes do cumprimento da ordem, anteriormente concedida e da necessária aplicação da multa cominatória para que o CONDOMÍNIO cumprisse a ordem de realização da assembleia (e-STJ, fls. 727/755).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da negativa de prestação jurisdicional
+O TJSP, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional, consubstanciado em: (1.a) omissão quanto à alegada ilegalidade na assembleia do CONDOMÍNIO realizada em 17/12/2014, justamente em virtude do cerceamento do direito de voto do PALMEIRAS nas assembleias; e (1.b) contradição no que se refere à existência de conflito de interesse da síndica, pois, ao se considerar que o síndico que firmou o acordo na ação originária não tinha poderes para representar o CONDOMÍNIO ante suposto conflito de interesses, teria que se levar em consideração a existência de conflito de interesses opostos ao do PALMEIRAS em relação a Sra. Madir Moraes Milan, que se auto proclamou síndica.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJSP a se manifestar sobre as questões federais terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Nessas condições, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJSP para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. ACORDO. OMISSÕES E CONTRADIÇÕES . OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
