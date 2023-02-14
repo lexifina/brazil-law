@@ -1,0 +1,80 @@
+EMENTA
+TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. MATÉRIA ANALISADA PELO TRIBUNAL DE ORIGEM. PRESCRIÇÃO. MARCO INICIAL. PROVIDÊNCIA FRUTÍFERA. PRAZO DE SUSPENSÃO DE 1 ANO. INAPLICABILIDADE. TEMA N. 568.
+I - Não ocorre violação do art. 1.022 do CPC/2015 quando o Tribunal de origem analisou a suposta omissão suscitada, ainda que decidindo a lide de forma contrária aos interesses do recorrente e utilizando fundamentos diversos daqueles por ele apontados.
+II - Conforme orientação firmada no Tema n. 566 o prazo de 1 ano de suspensão do processo e do respectivo prazo prescricional, previsto no art. 40, §§ 1º e 2º, da Lei n. 6.830/1980 - LEF, tem início automaticamente na data da ciência da Fazenda Pública a respeito da inexistência de bens penhoráveis no endereço fornecido.
+III - Contudo, observa-se, no acórdão recorrido, que o termo inicial da prescrição foi fixado na data em que a Fazenda Pública solicitou a última providência frutífera, qual seja, em 5/1/2014. Neste caso, a tese a ser aplicada é a correspondente ao Tema n. 568, a qual não prevê o prazo de suspensão de 1 ano, no caso de providência frutífera, devendo ser considerado somente o prazo prescricional de 5 anos.
+IV - Recurso especial improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de recurso especial interposto pelo Estado do Paraná com fundamento no art. 105, III, a, da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO INTERCORRENTE. INSURGÊNCIA DO ESTADO DO PARANÁ. NÃO ACOLHIMENTO NESTE PONTO. SISTEMÁTICA PARA CONTAGEM DA PRESCRIÇÃO INTERCORRENTE DEFINIDA PELO STJ NO RESP Nº. 1340553/RS. CONSTRIÇÃO PATRIMONIAL EXITOSA, NA HIPÓTESE. INTERRUPÇÃO DA PRESCRIÇÃO QUE RETROAGE À DATA DO PROTOCOLO DA PROVIDÊNCIA FRUTÍFERA. PETIÇÃO DATADA DE 5/1/2014. PRESCRIÇÃO VERIFICADA ANTERIORMENTE À DATA DA PROLAÇÃO DA SENTENÇA. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. ÔNUS QUE DEVE SER IMPUTADO À EXECUTADA. NOVEL ENTENDIMENTO DO STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Foi atribuído à causa o valor de R$ 80.432,97 (oitenta mil, quatrocentos e trinta e dois reais e noventa e sete centavos), em agosto de 2004.
+Os embargos declaratórios opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta violação do art. 1.022 do CPC/2015, alegando, em síntese, omissão e contradição no acórdão recorrido, porquanto deixou-se de se pronunciar sobre questões acerca do afastamento da prescrição que entende relevantes para o deslinde da controvérsia.
+Alega, também, afronta aos arts. 174 do CTN e 40 da Lei n. 6.830/1980, sustentando, em suma, que "entre janeiro de 2014 (marco temporal inicial fixado no acórdão) e outubro/2019 (data da sentença que decretou a prescrição ante a não localização de bens, não houve o decurso de 1 ano, seguidos de mais 5 anos (total = seis anos) que completaria o decurso do prazo de prescrição intercorrente. Indica que houve violação dos Temas n. 566 a 571 fixados no julgamento do REsp n. 1.340.553, sob o rito do recursos repetitivos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. MATÉRIA ANALISADA PELO TRIBUNAL DE ORIGEM. PRESCRIÇÃO. MARCO INICIAL. PROVIDÊNCIA FRUTÍFERA. PRAZO DE SUSPENSÃO DE 1 ANO. INAPLICABILIDADE. TEMA N. 568.
+I - Não ocorre violação do art. 1.022 do CPC/2015 quando o Tribunal de origem analisou a suposta omissão suscitada, ainda que decidindo a lide de forma contrária aos interesses do recorrente e utilizando fundamentos diversos daqueles por ele apontados.
+II - Conforme orientação firmada no Tema n. 566 o prazo de 1 ano de suspensão do processo e do respectivo prazo prescricional, previsto no art. 40, §§ 1º e 2º, da Lei n. 6.830/1980 - LEF, tem início automaticamente na data da ciência da Fazenda Pública a respeito da inexistência de bens penhoráveis no endereço fornecido.
+III - Contudo, observa-se, no acórdão recorrido, que o termo inicial da prescrição foi fixado na data em que a Fazenda Pública solicitou a última providência frutífera, qual seja, em 5/1/2014. Neste caso, a tese a ser aplicada é a correspondente ao Tema n. 568, a qual não prevê o prazo de suspensão de 1 ano, no caso de providência frutífera, devendo ser considerado somente o prazo prescricional de 5 anos.
+IV - Recurso especial improvido.
+VOTO
+Em relação à indicada violação do art. 1.022 do CPC/2015 pelo Tribunal a quo, não se vislumbra a alegada omissão ou contradição da questão jurídica apresentada pelo recorrente, qual seja, em apertada síntese, a não ocorrência da prescrição dos créditos tributários que ora persegue, tendo o julgador abordado a questão, às fls. 502-505, consignando que:
+Na espécie, o Embargante sustenta, em síntese, que não decorreu o prazo prescricional de 6 anos (1 ano de suspensão  5 anos da prescrição) desde a última penhora frutífera até o proferimento da sentença.
+Ainda, não ocorreu a prescrição intercorrente, pois houve o reconhecimento do débito por parte do executado através do parcelamento do débito.
+(..)
+No caso, o ente fazendário pugna pelo reconhecimento da sub examine interrupção da prescrição devido a um acordo, em tese, firmado pelas partes em 18/06/2019 (mov. 1.5).
+Ocorre que, tal acordo, sequer foi deduzido no recurso principal, tampouco está contido nos autos executivos originários.
+Logo, o pedido do ente estatal, de maneira nítida, além de atentar contra o princípio da dialeticidade, uma vez que não se contrapõe ao conteúdo específico da decisão atacada, configura inovação recursal.
+(..)
+Ademais, mesmo que o acordo de parcelamento sobreviesse nos autos executivos antes da sentença, outra sorte não socorreria o exequente, seja pela superveniência da prescrição ou seja pelo fato da ausência de comprovação de sua realização (acordo devidamente firmado pela contribuinte).
+Assim, não é possível considerar este suposto parcelamento como causa interruptiva do lapso prescricional, pois se trata, simplesmente, de uma comunicação unilateral da Fazenda Pública.
+Descaracterizada a alegada omissão e contradição, tem-se de rigor o afastamento da suposta violação do referido dispositivo legal, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. INABILITAÇÃO NO PROCEDIMENTO LICITATÓRIO. REVISÃO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. Não prospera a tese de violação dos arts. 489 e 1.022 CPC/2015, porquanto o acórdão proferido pela Corte local fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelas insurgentes, elegendo fundamentos diversos daqueles por elas propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Rever o entendimento da origem no tocante à inabilitação das agravantes no procedimento licitatório implica o imprescindível reexame das cláusulas do edital e das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceituam as Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1526177/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/05/2020, DJe 29/05/2020.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE NEGATIVA DE VIGÊNCIA DOS ARTS. 11, 489, § 1º, IV, E 1.022, II, DO CPC/2015. INEXISTENTE. ALEGAÇÃO DE VIOLAÇÃO DO ART. 7º, XV, DA LEI N. 8.906/1994. CONTROVÉRSIA DOS AUTOS DIRIMIDA PELA CORTE REGIONAL NA ANÁLISE INTERPRETATIVA DA INSTRUÇÃO NORMATIVA N. 45/2010 DO INSS.
+I - Na origem, trata-se de mandado de segurança impetrado contra ato do Chefe da Agência da Previdência Social em São José do Rio Preto/SP objetivando tutela jurisdicional determinando que a autoridade impetrada se abstenha de " ..  exigir do Impetrante o chamado "termo de compromisso", promovendo a carga dos autos de processos administrativos exigindo tão somente o comprovante de inscrição nos quadros da Ordem dos Advogados do Brasil, e se o caso a procuração do cliente". O Tribunal a quo negou provimento ao recurso de apelação autoral, pelo que manteve a decisão monocrática denegatória da ordem.
+II - Em relação à alegação de negativa de vigência dos arts. 11, 489, § 1º, IV, e 1.022, II, do CPC/2015, sem razão o recorrente a esse respeito, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, não obstante tenha decidido contrariamente à sua pretensão.
+III - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+IV - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+V - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+VI - A respeito da alegação de violação do art. 7º, XV, da Lei n. 8.906/1994, o Tribunal a quo, na fundamentação do decisum, entendeu que devolver os autos tirados de repartição pública tempestivamente é obrigação que nem precisaria ser discutida; é dever de todos os que retiram autos devolvê-los no prazo. Assim, na verdade, o INSS não está criando qualquer obrigação, está apenas declarando o que é de todos sabido. Essa declaração em nada prejudica o impetrante, pois já é dever dele - como de qualquer um que retire autos - devolver o processo administrativo.
+VII - Consoante se verifica dos excertos colacionados do acórdão recorrido, a controvérsia dos autos foi dirimida pela Corte Regional na análise interpretativa da Instrução Normativa n. 45/2010 do INSS, norma de caráter infralegal, cuja violação não pode ser aferida por meio de recurso especial, pois assim como portarias, convênios, regimentos internos, regulamentos e resoluções, instruções normativas não se enquadram no conceito de Lei Federal ou tratado.
+VIII - Em que pese o aresto vergastado tratar, também, de dispositivos infraconstitucionais, o acolhimento do apelo nobre exigira o cotejamento desses normativos legais com o referido ato administrativo, daí o óbice do conhecimento do recurso especial. Sobre a questão, os julgados em destaque: (REsp n. 1.618.889/CE, Relator Ministro Benedito Gonçalves, julgamento em 15/5/2018, Dje. 17/5/2018; AgInt no REsp n. 1.584.984/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/12/2016, DJe 10/2/2017).
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 1.535.574/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2020, DJe 20/5/2020.)
+Quanto à suposta ofensa aos arts. 174 do CTN e 40 da Lei n. 6.830/1980, para reconhecer a ocorrência da prescrição intercorrente, o acórdão recorrido assim se manifestou (fls. 430-431):
+Assim, analisando a questão com base nas premissas lançadas pelo STJ, nota-se que a prescrição intercorrente, in casu, restou caracterizada.
+(..)
+No presente feito, o despacho citatório foi proferido em 28/9/2004 (mov. 1.2).
+O executado foi citado em mov. 1.3). 22/10/2004.
+Diante da inércia do executado, houve a penhora de um imóvel (mov. 1.5) e, após, foi deferida a alienação por hasta pública (movs. 1.7 e 1.8).
+Ato posterior, foi reconhecida a impenhorabilidade do imóvel, ocorrendo o levantamento da penhora em 09/09/2008 (movs. 1.24 e 1.26).
+A vista disso, a Fazenda Pública pugnou pela penhora em 21/11/2008 (mov. 1.28), que online culminou no bloqueio de valores (R$ 14.781,22), conforme termo constante do mov. 1.30.
+Em sequência, foi determinado o desbloqueio parcial da penhora, na quantia de R$ 7.776.58 (mov. 1.41), sendo que em 18/12/2009 o restante do valor bloqueado foi transferido ao exequente (movs. 1.42 e 1.43).
+Tendo em vista o pagamento parcial do débito, o ente fazendário pugnou por nova penhora on line, em 17/5/2010 (mov. 1.44), ocorrendo novo bloqueio em 09/11/2010 (mov. 1.46).
+Posteriormente, em 5/1/2014 o Estado requereu novas buscas pelo sistema Bacenjud (mov. 1.61), sendo que, conforme se denota da carta de intimação (mov. 1.63) e do extrato da ordem de bloqueio (mov. 1.65), houve nova penhora de valores.
+Subsequentemente, o ente fazendário requereu a suspensão por 6 (seis) meses (6/10/2015), (mov. 1.64).
+Digitalizados os autos.
+Deferida e procedida a pesquisa de bens pelo sistema Infojud, restando infrutífera, em 25/4/2018 (movs. 13 e 20).
+Como visto, a petição que requereu a última providência frutífera é datada de 5/1/2014.
+Contando-se cinco anos deste marco interruptivo, a prescrição verificou-se em 5/1/2019. Nesta prescrição em 5/1/2019, denota-se que por ocasião da prolação da sentença vergastada (17/10/2019), o prazo prescricional já havia se exaurido.
+Assim, considerando que as diligências pleiteadas pelo exequente não foram suficientes para a satisfação integral do débito, impõe-se a manutenção da sentença que reconheceu a ocorrência da prescrição intercorrente.
+O Superior Tribunal de Justiça, no julgado do REsp. n. 1.340.553/RS, julgado sob o rito dos recursos repetitivos, firmou as seguintes teses:
+Tema 566
+O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução.
+Tema 568
+A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens.
+No caso dos autos, o recorrente argumenta que o acórdão recorrido não considerou o lapso temporal de um ano referente à suspensão do processo.
+Ocorre que, conforme orientação firmada no Tema n. 566 o prazo de 1 ano de suspensão do processo e do respectivo prazo prescricional, previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/1980 - LEF, tem início automaticamente na data da ciência da Fazenda Pública a respeito da inexistência de bens penhoráveis no endereço fornecido.
+Contudo, observa-se no acórdão recorrido que o termo inicial da prescrição foi fixado na data em que a Fazenda Pública solicitou a última providência frutífera, qual seja, em 5/1/2014. Neste caso, a tese a ser aplicada é a correspondente ao Tema n. 568, a qual não prevê o prazo de suspensão de 1 ano, no caso de providência frutífera, devendo ser considerado somente o prazo prescricional de 5 anos.
+Desta forma, tenho que o acórdão recorrido encontra-se em consonância com a orientação firmada no Tema n. 568 pelo Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+É o voto.
