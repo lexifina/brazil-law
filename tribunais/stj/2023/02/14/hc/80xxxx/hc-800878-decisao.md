@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOCEMAR ZANIN VARGAS em que se aponta como autoridade coatora DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Cautelar Inominada Criminal 0000073-48.2023.8.16.0000).
+O paciente teve prisão preventiva decretada em seu desfavor, em razão da suposta prática do crime previsto no art. 121, § 2º, II e IV, e § 4º, do Código Penal.
+A defesa alega: a) "decisão guerreada foi baseada em elementos abstratos, sob o argumento da gravidade do crime" (e-STJ fl. 5); b) "não demonstrou de forma objetiva que a medida cautelar alternativa da prisão seria insuficiente para a manutenção da ordem pública, não tendo assim satisfeito o artigo 315, § 1º e 2º, do Código de Processo Penal" (e-STJ fl. 5); c) "levou em consideração para fundamentar a reiteração criminosa, inquérito policial em tramite em desfavor do Paciente - inquérito policial nº 0006251-89.2022.8.16.0083 -, que apura o crime de receptação, quando é consolidado entendimento que processo em curso não serve para caracterizar maus antecedentes, quanto mais, risco de reiteração criminosa" (e-STJ fl. 5); d)  requisitos  autorizadores  da  prisão  cautelar  elencados  no  art.  312  do  Código  de  Processo  Penal  estão  ausentes; e e) existência de  condições  pessoais  favoráveis.
+Requer, liminar e definitivamente, deferimento da ordem para que seja revogada a prisão preventiva do acusado, com imposição de medidas cautelares alternativas.
+É, no essencial, o relatório. Decido.
+A decisão impugnada foi proferida pelo Desembargador relator . Não há manifestação colegiada do Tribunal de origem sobre a matéria, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, pois não se trata de decisão de última instância (art. 105, II, a, da Constituição Federal).
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
