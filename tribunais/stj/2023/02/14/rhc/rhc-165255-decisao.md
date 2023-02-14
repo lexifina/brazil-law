@@ -1,0 +1,16 @@
+DECISÃO
+Neste recurso, que se volta contra acórdão denegatório proferido pela Primeira Câmara Criminal do Tribunal de Justiça do Ceará (HC n. 062489-51.2022.8.06.0000 - fls. 167/174), pretende-se, inclusive em sede de liminar, a imediata revogação da prisão preventiva de Francisco Tavares de Oliveira Neto no Processo n. 0050266-88.2021.8.06.0041, da Vara Única da comarca de Aurora/CE - condenado, em primeira instância, à pena de 9 anos e 3 meses de reclusão, em regime inicial fechado, como incurso no art. 1º, I, a, da Lei n. 9.455/1997, por duas vezes, em concurso material (art. 69 do Código Penal), vedado o recurso em liberdade (fls. 123/139) -, ao argumento, em suma, de ausência de fundamentação no que diz respeito a insuficiência das medidas cautelares diversa da prisão na decisão em sentença que manteve a prisão preventiva (fl. 179).
+Despacho de admissibilidade à fl. 192.
+Por prevenção do RHC n. 153.548/CE, estes autos foram a mim distribuídos.
+Liminar indeferida (fls. 197/198).
+Prestadas as informações (fls. 201/202), o Ministério Público Federal opinou pelo desprovimento do recurso ordinário (fls. 207/212).
+É o relatório.
+O presente habeas corpus ataca a manutenção da prisão preventiva por ocasião da prolação de sentença condenatória (Ação Penal n. 0050266-88.2021.8.06.0041 - fls. 123/139).
+Pois bem. Com a realização do julgamento do recurso de apelação (n. 0050266-88.2021.8.06.0041), em 8/2/2023, conhecendo do apelo defensivo parcialmente para, no mérito, dar-lhe provimento em parte, verifica-se o exaurimento do objeto do recurso em liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos da sentença, mas do aresto que a substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 8/2/2023, tem-se por esvaído o objeto do remédio heroico.
+Com efeito, nos termos do entendimento adotado por este Sodalício, com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+Tal a circunstância, julgo prejudicado o recurso em habeas corpus (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DESCRITO NO ART. 1º, I, A, DA LEI N. 9.455/1997 (POR DUAS VEZES), EM CONCURSO MATERIAL (ART. 69 DO CP). CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. IMPOSIÇÃO DE REGIME INICIAL FECHADO. MANUTENÇÃO DA PRISÃO PREVENTIVA. PLEITO DE RECURSO EM LIBERDADE. IMPETRAÇÃO QUE SE VOLTA CONTRA INDEFERIMENTO EM WRIT ORIGINÁRIO (HC N. 0624689-51.2022.8.06.0000). SUPERVENIENTE JULGAMENTO DO RECURSO DE APELAÇÃO, COM PARCIAL PROVIMENTO AO APELO DEFENSIVO. SUBSTITUIÇÃO DA SENTENÇA PELO ACÓRDÃO (APELAÇÃO N. 0050266-88.2021.8.06.0041). NOVO TÍTULO JUDICIAL. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA INTERPOSIÇÃO RECURSAL. PERDA DO OBJETO.
+Recurso prejudicado.
