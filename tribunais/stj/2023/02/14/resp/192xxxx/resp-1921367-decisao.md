@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado (e-STJ fls. 24/25):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA REVISIONAL DEBENEFÍCIO PREVIDENCIÁRIO. PREVIDENCIÁRIO. REVISÃODE BENEFÍCIO. ATUALIZAÇÃO DOS SALÁRIOS DECONTRIBUIÇÃO. IRSM DE FEV/94. 39,67%. DECADÊNCIA DODIREITO. NÃO OCORRÊNCIA. PRAZO DECADENCIAL NÃOALCANÇOU O DIREITO DA APELADA. SENTENÇA MANTIDA.
+1. A autora teve seu benefício constituído em 01 de junho de 1.996e, com diretriz da Lei 8.213/91, de fato deveria ter seu benefício corrigido no índice de 39,67%, haja vista que aplicando àquela época, estaria com direto a dita revisão em 10 (Dez) de seus salários de contribuição, sendo assim, pois e incontroverso, patente o direito pleiteado pela autora, ora apelada.
+2. Vertendo atenção ao 2º artigo da elencada Lei 10.999/94,vislumbramos cristalinamente as pessoas/beneficiárias que, conforme disposto, possuem direito à postulada revisão.
+3. Precedente recente do Superior Tribunal de Justiça, conforme julgamento do RECURSO ESPECIAL Nº 1.591.977-SP (2016/0070931-0), da Relatora Ministra ASSUSETE MAGALHÃES, julgado em 07 de novembro de 2017, com publicação em 14/11/2017 DJ.
+4. Recurso conhecido e improvido. Sentença mantida.
+Em suas razões, a parte recorrente aponta negativa de vigência ao disposto no art. 103 da Lei 8.213/1991, art. 207 do Código Civil e nos arts. 1º e 2º da Lei 10.999/2004, argumentando, em suma, que a Lei n. 10.999/2004 não criou qualquer direito material novo, porquanto ela não garantiu nem determinou a recomposição dos benefícios, como faz crer o acórdão vergastado.
+Aduz, ainda, que os prazos decadenciais não se interrompem por nenhum motivo, tampouco se aplicam à decadência as causas de interrupção da prescrição, significando que o interessado deve exercer seu direito dentro do prazo legal, o que, no entanto, não foi observado pela parte recorrida.
+Contrarrazões às e-STJ fls. 48/54. Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 60/62.
+Passo a decidir.
+Verifico que a pretensão recursal não merece ser conhecida, ante a ausência do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF, in verbis:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ressalte-se, por oportuno, não ser aplicável à espécie o art. 1.025 do CPC/2015 (prequestionamento ficto), para efeito de declaração de nulidade do acórdão recorrido por violação do art. 1.022 do CPC/2015, por não ter havido pedido expresso nesse sentido.
+A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. É inadmissível Recurso Especial quanto à questão (art. 21, parágrafo único, do CPC/1973) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. De acordo com a jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+3. Ademais, o acórdão hostilizado consignou que a matéria devolvida na Apelação voluntária do ente público era restrita à discussão: a) quanto ao caráter confiscatório da multa, e b) da perda de interesse processual, depois da superveniência de lei local que reduziu a multa de 200% para 100%. Assim, ao negar provimento à Apelação e manter "incólumes todos os termos da sentença guerreada" (fl. 159, e-STJ), a Corte regional dá a entender que a divisão equânime dos encargos sucumbenciais fora definida já na sentença do juízo de primeiro grau, sem impugnação no recurso voluntário interposto pelo ente público - situação que gera preclusão contra o ente fazendário.
+4. Recurso Especial não conhecido.
+(REsp 1.812.100/PB, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 11/06/2019, DJe 17/06/2019).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
