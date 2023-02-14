@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ROBELL BOULEVARD CALÇADOS LTDA., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa ostenta o seguinte teor (fl. 458):
+EXECUÇÃO FISCAL - EMBARGOS DO DEVEDOR JULGADOS IMPROCEDENTES - HIGIDEZ DA CERTIDÃO DA DÍVIDA ATIVA RECONHECIDA -HIPÓTESE DE AUTO-LANÇAMENTO -CABIMENTO DA COBRANÇA SIMULTÂNEA DE JUROS MORATÓRIOS, MULTA E CORREÇÃO MONETÁRIA - ADMISSÃO DA INCIDÊNCIA DA TAXA SELIC PARA ATUALIZAÇÃO DO DÉBITO FISCAL - INCONSTITUCIONALIDADE DA ELEVAÇÃO DA ALÍQUOTA DE 17% PARA 18%, INSTITUÍDA PELA LEI EST. 6.556/89, SANADA PELA LEI EST. 9.903/97 - DÍVIDA REFERENTE A PERÍODO POSTERIOR A JANEIRO DE 1998 - IMPROCEDÊNCIA DOS EMBARGOS CONFIRMADA, REDUZINDO, NO ENTANTO, A VERBA HONORÁRIA DE 20% PARA 10% SOBRE O VALOR ATUALIZADO DO DÉBITO - SENTENÇA MODIFICADA NESTA PARTE - RECURSO DA EMBARGANTE PROVIDO EM PARTE.
+Rejeitados os embargos de declaração (fls. 479-484).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 535, I e II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, aponta violação dos arts. 148, 114 e 141 do CTN; 1º, I e II, do Decreto Lei n. 406/68; 558 do RICMS; e 34, I, da Lei n. 6.374/89. Sustenta que é cobrado o ICMS sobre fato gerador inexistente, pois não há prova da ocorrência de uma circulação econômica ou jurídica de mercadorias. Suscita divergência jurisprudencial, defendendo a inconstitucionalidade da majoração do ICMS. Afirma ainda excesso de execução e impugna a correção monetária.
+Apresentadas as contrarrazões (fls. 567-574), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 577-578).
+O Ministro Castro Meira entendeu por bem dar provimento ao Agravo de Instrumento n. 1363279/SP para determinar a subida do recurso especial (fl. 608).
+É, no essencial, o relatório.
+Da detida análise dos autos, merece guarida a alegação de afronta ao art. 535 do CPC/73.
+Isso porque tanto a inicial como a própria sentença estabelecem que os valores executados decorrem de autuação fiscal que culminou na constituição de auto de infração, enquanto o acordão recorrido entende tratar-se de "imposto sujeito a lançamento por homologação, também denominado auto-lançamento", o que dispensaria "prévio procedimento administrativo" (fl. 459).
+A divergência de hipótese fática da forma de constituição do referido crédito tributário foi objeto dos declaratórios, mantendo a Corte de origem omissão quanto ao real enquadramento da hipótese de constituição do crédito e, consequentemente, quanto à tese de irregularidade da forma de apuração efetuada pela autoridade fiscal.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC, e em face da relevância da questão suscitada, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, dou provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
