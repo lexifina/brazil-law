@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NULIDADE POR AUSÊNCIA DE INTIMAÇÃO. INOCORRÊNCIA. MÓVEIS QUE GUARNECEM A RESIDÊNCIA. IMPENHORABILIDADE, COMO REGRA. RESSALVA DO ARTIGO 833, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. BENS EM DUPLICIDADE. POSSIBILIDADE DE PENHORA. DECISÃO PARCIALMENTE REFORMADA.
+1. A ausência de intimação dos agravantes quanto ao pedido de penhora, não induz nulidade da decisão que defere a medida, posto que. após a formalização do ato. os executados serão devidamente intimados para impugnarem a constrição judicial.
+2. Como regra, os móveis, os pertences e as utilidades domésticas que guarnecem a residência do executado são impenhoráveis, ressalvados os de elevado valor, os que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida ou aqueles em duplicidade.
+3. Não há óbice para que a penhora recaia sobre bens que guarnecem a residência do executado, se extrapolam as necessidades comuns correspondentes a um médio padrão de vida, na forma descrita na parte final do inciso II do artigo 833 do Código de Processo Civil.
+4. Os bens encontrados em duplicidade na residência são penhoráveis de acordo com a jurisprudência do STJ.
+5. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, apontam os agravantes existência de dissídio jurisprudencial, além de violação dos artigos 8º, 489, 833 e 1.022 do Código de Processo Civil; e 1º da Lei 8.009/90, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração sem suprimento da omissão referente à impenhorabilidade absoluta dos bens de família, do direito social, razoabilidade e dignidade do executado acerca dos bens constritos, bem como do valor obtido com a alienação dos bens constritos no qual será absorvido pela custas da execução ou não acarretará vantagem econômica para a exequente.
+Defendem a impenhorabilidade de bens que guarnecem sua moradia, visto não deterem elevado valor, além disso, ainda que em duplicidade, não ultrapassa m as necessidades comuns de um médio padrão de vida. Afirmam que tal privação viola a dignidade da pessoa humana.
+Registro que não houve a interposição de recurso extraordinário.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+No tocante à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses dos agravantes, o que não autoriza, por si só, o acolhimento de embargos de declaração nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à penhorabilidade dos bens móveis encontrados na residência dos devedores, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Com efeito, a Câmara revisora confirmou a penhorabilidade dos bens móveis dos executados, sob o seguinte fundamento (fls. 156-158, e-STJ):
+Conforme entendimento da colenda Corte da Cidadania, o aparelho de televisão e outros utilitários da vida moderna atual, em regra, são impenhoráveis quando guarnecem a residência do devedor, exegese que se faz do art. 1º, § 1º, da Lei federal nº 8.009, de 29 de março de 1990, (..)
+A garantia dos meios mínimos de sobrevivência, que é a morada e seu conteúdo, decorre de um princípio maior, orientado pelo interesse social de assegurar uma sobrevivência digna aos membros da família, realizando, em última instância, a dignidade humana.
+Ademais, insta gizar que não há óbice para que a penhora recaia sobre bens que guarnecem a residência dos executados, se extrapolam as necessidades comuns correspondentes a um médio padrão de vida. na forma descrita na parte final do inciso II do artigo 833 do Código de Processo Civil, (..)
+À luz dessas considerações, entendo que o decisum proferido pelo juízo de primeiro grau deve ser reformado, em atenção ao disposto no inciso II do artigo 833 do Código de Processo Civil, bem ainda na jurisprudência da colenda Corte da Cidadania e deste egrégio Sodalício.
+AO TEOR DO EXPOSTO, CONHEÇO do agravo de instrumento interposto e DOU-LHE PARCIAL PROVIMENTO, para DETERMINAR que penhora recaia tão somente sobre os bens de elevado valor, os que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida ou aqueles em duplicidade, pelos motivos acima declinados.
+O Tribunal de origem se manifestou, ainda, nos embargos de declaração com efeitos integrativos, nos seguintes termos (fl. 184, e-STJ):
+À luz dessas balizas, a penhora pode recair tão somente sobre os bens de elevado valor, os que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida ou aqueles em duplicidade, sendo que a análise do médio padrão de vida deve ser analisada pelo magistrado a quo.
+No que se refere aos princípios da utilidade e razoabilidade, necessário frisar que a execução corre em proveito do credor e, não apresentando o devedor qualquer medida satisfativa, deve a penhora ocorrer nos moldes postulados pela exequente, de acordo com a decisão proferida por este egrégio Sodalício.
+Com efeito, considerando a moldura fática delineada pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a jurisprudência deste Superior Tribunal de Justiça. Além disso reexaminar a questão da aventada desídia do exequente, esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Em conformidade:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. INADIMPLEMENTO DE CONTRATOS DE MÚTUO. DECISÃO DE CONDENAÇÃO AO PAGAMENTO DE MULTA E DEFERIMENTO DE PENHORA DE BENS QUE GUARNECEM A RESIDÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. BEM DE FAMÍLIA. IMPENHORABILIDADE DE MÓVEIS NA RESIDÊNCIA. EXCEÇÕES. VEÍCULOS DE TRANSPORTE, OBRAS DE ARTE, ADORNOS SUNTUOSOS, BEM COMO AQUELES EM DUPLICIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Execução em razão de inadimplência de contratos de mútuo no bojo da qual foi proferida decisão de condenação ao pagamento de multa e deferimento de penhora de bens que guarnecem a residência.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+(..)
+6. A impenhorabilidade do bem de família compreende os móveis que o guarnecem, excluindo-se apenas os veículos de transporte, obras de arte e adornos suntuosos, bem como aqueles encontrados em duplicidade. Precedentes.
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.095.571/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 11/11/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE BENS QUE GUARNECEM A RESIDÊNCIA DO EXECUTADO. ALEGADA AFRONTA AO ARTIGO 836 DO CPC DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282/STF E N. 356/STF. ALEGADA IMPENHORABILIDADE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SUMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O Tribunal a quo, após o exame do suporte fático-probatório dos autos, concluiu pela penhorabilidade dos bens que guarnecem a residência do ora agravante. Assim, alterar a conclusão do Tribunal de origem demandaria o revolvimento do suporte fático- probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+3. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.886.525/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/11/2021)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
