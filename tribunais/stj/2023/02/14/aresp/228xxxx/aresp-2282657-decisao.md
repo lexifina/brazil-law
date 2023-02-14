@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Diego Pontes Arruda desafiando acórdão proferido pelo Tribunal de Justiça de Sergipe assim ementado (e-STJ, fl. 226):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - PENHORA - DEFESA DE MEAÇÃO PELO CÔNJUGE - DIVIDA CONTRAÍDA NA CONSTÂNCIA DO MATRIMÔNIO - DESCONTITUIÇÃO - IMPOSSIBILIDADE - PROVEITO DA FAMÍLIA - AUSÊNCIA DE PROVA EM CONTRÁRIO - RECURSO IMPROVIDO - SENTENÇA MANTIDA - UNANIMIDADE. Os embargos de terceiros são cabíveis por quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bem que possua ou sobre os quais tenha direito incompatível com o ato constritivo. O esposo da devedora, quando pretende defender a sua meação através dos embargos de terceiros, deve provar que o débito contraído por sua esposa não beneficiou o casal. Não o fazendo, impõe-se o reconhecimento de que a dívida favoreceu a família e, com isso, o embargante também responderá pelo débito.
+Apresentados embargos de declaração pelo ora agravante, estes foram rejeitados (e-STJ, fls. 388-390).
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, o recorrente alegou violação aos arts. 489, § 1º e seus incisos IV e VI, 674, § 2º, I, 1.022, II, e 1.025 do CPC/2015; 50, 1.052 e 1.660, I, do CC, além de afirmar a existência de dissídio jurisprudencial (e-STJ, fls. 237-263).
+Sustentou, em síntese, omissão no acórdão recorrido, pois "além de não se manifestar sobre o fundamento de inexistência de solidariedade entre a pessoa do sócio e a pessoa jurídica e a inexistência da desconsideração da personalidade jurídica, o Acórdão recorrido deixou de seguir precedente invocado pela parte sem demonstrar a existência de distinção no caso em julgamento ou superação do entendimento" (e-STJ, fl. 244).
+Defendeu que que a parte meeira só responde pelas obrigações mediante prova que foi beneficiada, cabendo o ônus da prova ao credor.
+Ponderou que a dívida objeto da lide foi contraída pela sociedade, da qual o recorrente é sócio, porém o Tribunal local não considerou referido fato e concluiu ser devida a constrição do seu patrimônio pessoal.
+Argumentou que a única maneira de se atingir o patrimônio do sócio é através da desconsideração da personalidade jurídica.
+Contrarrazões apresentadas (e-STJ, fls. 292-303).
+O Tribunal de origem não admitiu o processamento do recurso especial por ausência de violação aos arts. 489 e 1.022 do CPC/2015 e em virtude da incidência da Súmula n. 7/STJ (e-STJ, fls. 306-312).
+Foi interposto agravo em recurso especial às fls. 317-327 (e-STJ), e contraminuta apresentada às fls. 329-347 (e-STJ).
+Brevemente relatado, decido.
+No apelo excepcional, o recorrente aponta a existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Contudo, analisando os autos, observa-se que o colegiado local, não obstante a oposição de embargos de declaração na origem, deixou de se manifestar sobre a questão envolvendo a necessidade de desconsideração da personalidade jurídica.
+Observa-se que o acórdão limitou-se a apreciar a questão relacionada ao ônus da prova.
+Portanto, conclui-se que o acórdão combatido não sanou efetivamente a omissão apontada, impondo-se, assim, o retorno dos autos à origem para que o órgão competente realize novo julgamento dos aclaratórios, corrigindo o vício indicado.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. TÍTULO JUDICIAL. REFORMA. EXTINÇÃO DA EXECUÇÃO. ART. 10 DO CPC. OMISSÃO RELEVANTE. ART. 1.022 DO CPC. VIOLAÇÃO. PRINCÍPIO DA COLEGIALIDADE. SÚMULA N. 568/STJ. RECURSO ESPECIAL DA PARTE CONTRÁRIA. PREJUDICIALIDADE. NÃO PROVIMENTO.
+1. Nos termos do artigo 10 do Código de Processo Civil, "O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício." 2. Considera-se violado o artigo 1.022 do Código de Processo Civil quando o Tribunal de segundo grau, instado a se manifestar sobre questão relevante ao deslinde da controvérsia por meio dos competentes e oportunos embargos de declaração, deixa de se pronunciar a respeito.
+3. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." Enunciado n. 568 da Súmula do Superior Tribunal de Justiça.
+4. "Constatada a violação ao art. 1.022 do CPC/2015 e determinada a devolução dos autos à origem para novo julgamento dos embargos de declaração, fica prejudicada a análise de recurso interposto pela parte contrária." (EDcl no AgInt no REsp 1702612/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1/3/2021, DJe 3/3/2021) 5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1923573/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. PREVISÃO DE CUSTEIO. NECESSIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos declaratórios, é de rigor o reconhecimento de violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no REsp 1698218/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/06/2021, DJe 30/06/2021)
+Prejudicada a análise das demais questões.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se .
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
