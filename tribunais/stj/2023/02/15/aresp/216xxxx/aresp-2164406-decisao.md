@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta a defesa a violação do art. 59, sob o argumento de falta de fundamentação idônea na exasperação da pena-base.
+Requer, assim, o provimento do recurso especial, a fim de que seja redimensionada a sanção.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo provimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que o réu foi condenado à pena de 8 anos e 3 meses de reclusão, no regime fechado, como incurso no art. 157, § 2º, I, II e V, do Código Penal. O Tribunal de origem negou provimento ao apelo defensivo.
+Quanto à dosimetria, extrai-se do acórdão recorrido os seguintes fundamentos:
+Dos autos, tem-se que a pena-base foi aplicada em 06 (seis) anos de reclusão e 100 (cem) das-multa. Sem a existência de atenuantes e agravantes, foram aplicadas as causas de aumento da pena, constante nos incisos I, II e V, em 3/8 (três oitavos), perfazendo a pena definitiva de 08 (oito) anos e 03 (três) meses de reclusão.
+Da fundamentação constante na sentença condenatória, foram reconhecidas três causas de aumento da pena referentes ao emprego de arma, concurso de pessoas e restrição de liberdade da vítima, revelando a necessidade do aumento acima do mínimo legal, em razão da quantidade de bens subtraídos. do número de assaltantes em número de três, onde estavam armados com arma de fogo, diminuindo as chances de reação da vítima, além da restrição da sua liberdade, tendo o Juízo de 1º grau fixado a pena definitiva em 08 (oito) anos e 3 (três) meses de reclusão e 100 (cem) dias-muita, atendendo ao principio da proporcionalidade, e de acordo com os fins perseguidos, de retribuição e prevenção do crime, devidamente fundamentada.
+Por sua vez, consta da sentença os seguintes argumentos:
+Nos termos do art. 59 e 68 do Código Penal, passo a dosar as penas do condenado.
+Analisando as circunstâncias judiciais do art. 59 do CPB, observo que a culpabilidade é a normal do tipo. Não existem antecedentes criminais. Nada foi apurado que desabone a conduta social e personalidade. As circunstâncias são desfavoráveis, visto que os autores do delito invadiram o sítio da vítima e o surpreenderam cedo da manhã. Nas consequências do crime, a vítima não recuperou, nenhum dos objetos subtraídos, inclusive sua moto, pelo que considero desfavoráveis. Os motivos para o crime não foram outros do que obter para si vantagem fácil sem precisar trilhar o árduo caminho do labor honesto, também normal ao tipo. O comportamento da vitima não influiu para a prática do delito.
+Pelos motivos acima, aplico a pena-base de 06 (seis) anos de reclusão pelo delito praticado.
+Não estão presentes atenuantes e nem agravantes, mantendo a pena intermediária no mesmo patamar acima.
+Ausentes causas de diminuição de pena.
+Presentes as majorantes dos incisos I, II e V do § 2º, do art. 157, do CP (emprego de arma, concurso de pessoas e restrição da liberdade da vítima).
+ ..
+Nota-se, portanto, que o magistrado pode desprezar uma ou mais causas de aumento de pena. A lei fala em "pode", mas não em "deve". Com efeito, o caso concreto indica a imprescindibilidade do aumento acima do mínimo legal (1/3), pois, diante da quantidade de bens subtraídos alegados pela vítima, ainda, pelo fato dos assaltantes estarem em número de três, sendo que destes, dois estavam armados, um com arma de fogo e outro com um terçado, contra uma só vitima, reduzindo, sobremaneira, as chances de reação, concluindo-se que o concurso de agentes e o uso de arma neste caso proporcionaram uma violência desproporcional à necessária para a consumação do roubo nas circunstâncias do caso concreto.
+Ressalte-se que "a jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação" (AgRg no AREsp 1121856/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/08/2018, DJe 10/08/2018.)
+Ocorre que a motivação empregada pelas circunstâncias e consequências do crime se mostra genérica e inerente ao tipo penal em que foi condenado, razão pela qual devem ser afastadas as aludidas vetoriais, diante da falta de demonstração de maior reprovabilidade da conduta.
+Sendo assim, deve ser realizado o redimensionamento da pena.
+Considerando a inexistência de motivação concreta na exasperação da pena-base, fica reduzida ao mínimo legal. Ausentes circunstâncias agravante e atenuante, permanece inalterada na segunda fase. Na terceira fase, mantém-se a fração de 3/8 fixada na origem, ante a existência de fundamentação idônea no julgado, tornando-se a sanção definitiva em 5 anos e 6 meses de reclusão e 13 dias-multa, no regime semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+Ante o exposto, dou provimento ao agravo em recurso especial para fixar a pena definitiva em 5 anos e 6 meses de reclusão e 13 dias-multa, no regime semiaberto, determinando ao Juízo da execução que examine eventual detração.
+Publique-se.
+Intimem-se.
