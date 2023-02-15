@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por espólio de João Pedro Gomieri em face da seguinte decisão:
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+FASE DE CUMPRIMENTO DA SENTENÇA. Ação de repetição de indébito. Homologação do cálculo elaborado pelo credor. Pleito de realização de perícia contábil. Admissibilidade no caso. Hipótese em que os cálculos apresentados pelas partes apresentam valores muito discrepantes. Necessidade de conhecimento técnico específico para dirimir a controvérsia. Realização da prova técnica determinada. Consideração de que a questão relativa à ilegitimidade de parte foi suscitada pela instituição financeira apenas nesta instância recursal, decorridos aproximadamente dez anos da data do ajuizamento da ação, jamais tendo sido a matéria ventilada pela instituição financeira nestes autos, razão pela qual se tem o tema por acobertado pelo manto da preclusão. Decisão reformada. Recurso provido, em parte. Dispositivo: deram parcial provimento ao recurso.
+Alegou-se, no especial, violação do artigo 525, §§ 4º e 5º, do Código de Processo Civil sob o argumento de que caberia ao devedor informar qual valor entende devido, sob pena de não conhecimento de sua impugnação ao cumprimento de sentença.É de todo incompreensível as alegações formuladas pela parte recorrente, contudo. Diz-se isso porque não só se considerou que havia divergência significativa entre os cálculos apresentados pelas partes, o que demandaria a nomeação de perito para apurar o ocorrido, o que por si só já evidencia que o devedor apresentou o valor que entendia devido, como registrou-se "que postulou o autor o recebimento da importância de R$ 5.147.178,68, atualizados até 31 de dezembro de 2015, sendo certo que, em sua primeira impugnação, a instituição financeira apontou expressamente o excesso de execução, tanto é que declarou como devido o montante de R$ 2.317.329,64, em julho de 2016 (fls. 515/518)" (e-STJ, fl. 1.501).
+Não fosse isso, a questão suscitada pela ótica do agravante não foi examinada no Tribunal de origem, que se limitou a concluir pela necessidade de perícia. Inafastável, pois, a incidência dos verbetes n. 282, 284 e 356 da Súmula do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+Afirma que a "peça de impugnação correta, pela qual o Banco do Brasil S.A. aviou em face do espólio de João Pedro Gomieri, é aquela expressamente referida na decisão recorrida de fls. 431/437 e, que, "in casu", encontra-se encartada às fls. 615/621 deste remédio recursal.
+E, nesta peça de impugnação de fls. 615/621 relativa ao presente feito, ao contrário do concluído na decisão monocrática de fls. 1.696/1.697 com base numa premissa e erro de fato, qual seja, a consideração de que aquela impugnação de fls. 515/518 seria refe-rente à estes autos, coisa que não é, lá realmente, na impugnação de fls. 615/621 deste remédio recursal (correspondente às fls. 431/437 dos autos de origem), não houve por parte do banco recorrido a indicação do valor que entendia devido, em flagrante inobservância ao disposto nos §§ 4º e 5º do art. 525 do novo CPC" (e-STJ, fl. 1.703).
+Pede o acolhimento do recurso.
+Impugnação da parte contrária pela ausência de vício a ensejar a oposição de embargos de declaraçao.
+Assim delimitada a controvérsia, passo a decidir.
+Os embargos de declaração são recurso de rígidos contornos, somente sendo cabíveis quando presentes algum dos vícios constantes de sua norma de regência.
+A saber:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CLÁUSULA DE ELEIÇÃO DE FORO EXCLUSIVO EM CONTRATO INTERNACIONAL. OMISSÃO NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A omissão no julgado que permite o acolhimento do recurso integrativo configura quando não houver apreciação de teses indispensáveis para o julgamento da controvérsia.
+2. No caso dos autos, não existem os defeitos apontados pelos embargantes, mas, apenas, entendimento contrário à sua pretensão recursal, de modo que é manifesta a intenção de rever os pontos analisados no julgado embargado, com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração, em razão dos rígidos contornos processuais desta espécie de recurso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.864.894/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+A parte embargante não veicula vício algum daqueles, senão manifesta mero inconformismo com a decisão embargada, haja vista que toda a matéria fática constante na referida decisão foi extraída do próprio acórdão estadual.
+Se o embargante pretende, portanto, a reforma da decisão que lhe foi desfavorável, há de se valer do instrumento processual cabível.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
