@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por BANCO SANTANDER (BRASIL) S.A., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.271):
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. ALEGADA EXISTÊNCIA DE VIOLAÇÃO A NORMA JURÍDICA E ERRO DE FATO. FERIADO LOCAL. AUSÊNCIA DE DEMONSTRAÇÃO. OPORTUNIDADE PARA COMPROVAÇÃO CONCEDIDA. DOCUMENTO IDÔNEO. NECESSIDADE. PRECEDENTES DESTA CORTE. INTEMPESTIVIDADE DO RECURSO ESPECIAL SUJEITO AO CÓDIGO DE PROCESSO CIVIL DE 1973 DEVIDAMENTE RECONHECIDA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - No caso, a autora da ação rescisória funda a sua pretensão nos arts. 966, V e VIII, do Código de Processo Civil de 2015, afirmando haver manifesta violação a norma jurídica e erro de fato, haja vista a demonstração, adequada, da tempestividade do Recurso Especial julgado intempestivo mediante a decisão rescindenda.
+III - Esta Corte tem entendimento consolidado segundo o qual a suspensão dos prazos processuais em decorrência de feriado local deve ser comprovada mediante documento idôneo, sendo insuficiente, para tanto, a mera referência, nas razões do recurso, à existência de norma local ou ato normativo do tribunal de origem ou a juntada de documento não dotado de fé-pública.
+IV - Na situação examinada, não houve a comprovação da tempestividade do Recurso Especial nos autos originários, mesmo após a intimação da parte e concessão de prazo para a regularização do vício.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida. VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+O recorrente sustenta a violação do art. 5º, XXXV e LV, da CF e aduz que há repercussão geral da matéria tratada.
+Busca a rescisão do julgado que reconheceu a intempestividade do recurso especial, tendo em vista a ausência de adequada comprovação do feriado local.
+De acordo com o recorrente (fl. 1.330):
+No presente caso, é certo que o Recurso Especial, como dito, foi protocolado nos exatos moldes de contagem e de prazo previstos no Código de Processo Civil. Nos termos deste diploma, excluem-se os dias sem expediente forense, o que acabou por avançar o último dia da apresentação da peça, em razão existência de feriado no local de interposição. Este fato era de conhecimento do Tribunal ad quem (STJ), por dois motivos: a) a tempestividade havia sido conferida e atestada no exame de admissibilidade realizado no Tribunal de origem; b) havia indicação do tal feriado nas razões recursais.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 1.344).
+É o relatório.
+O STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Da mesma forma, o STF pacificou o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema n. 895/STF).
+Essa tese foi estabelecida no julgamento do RE n. 956.302-RG/GO, nos termos da seguinte ementa:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE n. 956.302/GO-RG, relator Ministro Edson Fachin, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a suposta ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal, do duplo grau de jurisdição e do acesso à justiça depende da interpretação dos arts. 966, V e VII, do CPC/2015 e 508 do CPC/1973, bem como da análise dos pressupostos de cabimento da ação rescisória que foi liminarmente indeferida pelo aresto ora recorrido, razão pela qual incidem os Temas n. 660 e 895 do STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA N. 660/STF. AFRONTA AOS PRINCÍPIOS DO DUPLO GRAU DE JURISDIÇÃO E DO ACESSO À JUSTIÇA. TEMA N. 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
