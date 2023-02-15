@@ -1,0 +1,23 @@
+DECISÃO
+WALLISON SOUSA DAMASCENO agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí na Apelação Criminal n. 0003608-69.2018.8.18.0140.
+A defesa pretende a redução da pena, ao argumento de que não podem ser aplicadas cumulativamente as frações de aumento decorrentes das majorantes do roubo, na terceira fase da dosimetria.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal estadual, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do especial (fls. 411-414).
+Decido.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 2º, II, e 2º-A, I, c/c o art. 70, ambos do Código Penal. A pena foi aumentada, na terceira fase da dosimetria, em 1/3, pelo concurso de agentes e, em seguida, em 2/3, pelo emprego de arma de fogo. A Corte estadual entendeu justificadas as frações adotadas na sentença. Confira-se (fl. 323, grifei):
+Em que pesem os argumentos defensivos, andou bem o juízo singular ao realizar 02 (dois) cômputos, em vez de apenas um (para as duas causas de aumento)1. A não adoção da faculdade de utilização de único incremento (art. 68, parágrafo único, do CP2) justifica-se pela maior gravidade concreta da conduta, evidenciada pela prática dos delitos de roubo, em concurso de 05 (cinco) agentes, os quais portavam facas e armas de fogo utilizaram-se de extrema violência durante o iter criminis, enquanto rendiam mais de 05 (cinco) vítimas. Noutras palavras, o modus operandi refletiu especial gravidade e, portanto, não se confundiu com a mera descrição típica das majorantes reconhecidas. Dessa forma, tem-se como razoável a escolha operada na sentença, até porque em conformidade com a jurisprudência dos Tribunais Superiores.
+Nos termos do art. 68, parágrafo único do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+A presença, portanto, de duas causas de aumento não acarreta, necessariamente, o aumento acima do mínimo legal previsto no art. 157, §§ 2º e 2º-A, do CP. O referido dispositivo legal - art. 68, parágrafo único do CP - visa garantir ao condenado a aplicação individualizada da pena, de forma proporcional e razoável. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula 443 do STJ.
+No caso, não identifico o constrangimento ilegal apontado, pois a Corte estadual apontou elementos concretos dos autos que justificam a elevação da pena, na terceira fase da dosimetria, no patamar estabelecido, haja vista que o delito foi praticado com emprego de armas de fogo e facas, em concurso de cinco agentes.
+Ilustrativamente:
+ ..
+4. Acerca da incidência cumulativa de causas de aumento, cumpre esclarecer que a jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+5. O Tribunal de origem apresentou fundamento concreto para a adoção das frações de aumento de forma cumulada, destacando que o crime foi praticado com o emprego de arma de fogo e com a participação de três indivíduos. O número agentes, quando superior ao mínimo para a configuração do concurso de agentes, serve como fundamento para que o aumento da pena se dê em fração superior à mínima prevista na lei, sendo, portanto, fundamento apto a manter a incidência cumulativa das causas de aumento referentes à comparsaria e ao emprego de arma de fogo.
+6. Writ não conhecido.
+(HC n. 560.960/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 15/6/2020, grifei)
+ ..
+1. A teor do art. 68, parágrafo único, do Código Penal, a aplicação das causas majorantes e minorantes se dá sem compensação, umas sobres as outras, não sendo admissível a pretendida tese de incidência de única majorante dentre as aplicáveis. 2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de cinco agentes, correta foi a incidência separada e cumulativa das duas causas de aumento.
+3. Agravo regimental improvido.
+(AgRg no HC n. 512.001/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/8/2019)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
