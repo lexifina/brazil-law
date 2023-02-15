@@ -1,0 +1,13 @@
+DECISÃO
+SERGIO SOARES DE ALMEIDA JUNIOR alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0471.16.010890-1/001.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 3 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime de tráfico de drogas.
+A defesa busca, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, em consequência, a fixação de regime inicial mais brando e a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+No que tange à pretendida aplicação da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006, verifico que não há como ser reconhecido o benefício em favor do réu, haja vista a vedação legal expressa da concessão desse redutor tanto aos acusados possuidores de maus antecedentes, quanto aos reincidentes.
+A negativa de aplicação do redutor foi assim justificada pelo Juízo sentenciante (fl. 69, grifei):
+Incabível ao caso a aplicação do privilégio do § 4º do art. 33 da Lei 11.343/06, uma vez que a lei exige cumulativamente quatro requisitos, quais sejam: que o agente seja primário, possuidor de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa. Desse modo, analisando a CAC do réu, acostada às ff. 336/337, verifico que este é tecnicamente primário, todavia, possui maus antecedentes, uma vez que ostenta uma condenação definitiva pela prática de contravenção penal, nos autos de nº 0190474-45.2014.8.13.0471, o que afasta a aplicação do referido privilégio.
+Na hipótese, portante, foram indicados os maus antecedentes do réu para obstar a incidência da minorante. Releva salientar, no ponto, que o registro de condenação definitiva por contravenção penal configura maus antecedentes, nos termos desta Corte Superior.
+A propósito: "Em relação às contravenções penais, sabe-se que a condenação definitiva anterior por contravenção penal não gera reincidência, caso o agente cometa um delito posterior, porquanto o art. 63 do Código Penal é expresso em sua referência a novo crime. Contudo, não obstante não caracterize reincidência, a contravenção penal pode ser considerada como reveladora de maus antecedentes" (HC n. 396.726/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/10/2017, destaquei).
+Logo, não constato flagrante ilegalidade na espécie. Mantida a reprimenda aplicada na sentença, ficam prejudicados os pleitos de abrandamento do regime e substituição da pena privativa de liberdade por restritivas de direitos.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
