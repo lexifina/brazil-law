@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de CLAUDINEI JOSÉ DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2144265-32.2021.8.26.0000.
+Extrai-se dos autos que em 16/7/2020 o Juízo da Vara Criminal da Comarca de Itapevi/SP recebeu denúncia que imputa a prática do delito tipificado no art. 121, §2º, II e IV, c/c o art. 14, II, do Código Penal - CP (homicídio tentado qualificado) e, acolhendo requerimento do Ministério Público, decretou a prisão preventiva do paciente (fls. 65/69).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem alegando, em síntese, excesso de prazo na formação da culpa, cuja ordem foi denegada em 9/9/2021, nos termos do acórdão de fls. 70/73.
+No presente writ, a defesa ressalta a excepcionalidade da prisão preventiva e afirma que o paciente detém condições pessoais favoráveis.
+Sustenta que a prisão preventiva encontra-se amparada na gravidade abstrata do fato crime e menciona que o ulterior encerramento da instrução processual afasta eventual risco à instrução criminal.
+Aduz que a evasão do distrito da culpa não justifica a prisão uma vez que o paciente constituiu representante legal e se apresentou espontaneamente em delegacia de polícia.
+Pondera a ausência dos requisitos autorizadores da prisão preventiva, dispostos no art. 312 do Código de Processo Penal - CPP. Assevera que o acórdão guerreado não enfrentou o cabimento de medidas cautelares alternativas.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do paciente, mesmo que aplicadas medidas cautelares em cumulação.
+É o relatório.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio. Nesse sentido: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016.
+Embora seja possível a concessão da ordem de ofício quando constatada manifesta ofensa à liberdade de locomoção, tal conjuntura não se apresenta na espécie.
+Como relatado, o acórdão da Corte a quo cingiu-se à apreciação da inocorrência de excesso de prazo, fato que obstaculiza, sob pena de indevida supressão de instância, que o Superior Tribunal de Justiça examine qualquer outra matéria que não tenha sido previamente debatida e decidida na origem.
+Inobstante, na petição inicial a defesa aventou constrangimento ilegal dissociado das razões de decidir do Tribunal de origem, contexto que impede a análise dos argumentos da impetração. Cito precedente aplicável, mutatis mutandis, à espécie:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DOIS CRIMES DE HOMICÍDIOS DUPLAMENTE QUALIFICADOS E DE DESTRUIÇÃO DE CADÁVER. NULIDADE DA SENTENÇA DE PRONÚNCIA. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DESTA CORTE SE MANIFESTAR SOBRE O MÉRITO DA IMPETRAÇÃO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão impugnado, proferido antes da sentença de pronúncia, limitou-se a tratar das teses de excesso de prazo, ausência de fatos concretos que embasem o decreto de custódia cautelar, inexistência dos requisitos do art. 312, do Código de Processo Penal e possibilidade de aplicação de medida cautelar diversa da prisão, diante dos problemas de saúde do Agravante narrados na impetração originária.
+2. Em razão de não ter sido alegada no writ na origem, até porque a sentença de pronúncia é posterior ao acórdão impugnado, é vedada a apreciação pelo Superior Tribunal de Justiça da tese de nulidade da sentença que pronunciou o Agravante. Outrossim, a inicial da impetração deixou de infirmar de maneira clara e específica os fundamentos do acórdão hostilizado, colacionando argumentação totalmente dissociada das razões de decidir contidas no habeas corpus originário, que impugnava a custódia cautelar por motivos diversos.
+3. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de impetração que não ultrapassou os requisitos de admissibilidade, como no caso.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 665.290/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 1/6/2021, DJe de 16/6/2021).
+Registro, ademais, que após o julgamento da impetração originária sobreveio, em 1/2/2022, sentença de pronúncia do paciente nas sanções do art. 121, § 2º, incisos I e IV, c/c o art. 14, II, do Código Penal, ocasião em que foi mantida a custódia cautelar (fls. 60/64).
+Incide assim o enunciado de Súmula n. 21/STJ pelo qual "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Ante o exposto, indefiro liminarmente o presente habeas corpus (art. 210 do Regimento Interno do Superior Tribunal de Justiça - RISTJ).
+Publique-se.
+Intimem-se.
