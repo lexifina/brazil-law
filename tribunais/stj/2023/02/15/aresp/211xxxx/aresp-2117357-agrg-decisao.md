@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental de folhas 295/301 interposto por JEREMIAS MAGALHAES AMARO em face de decisão do então MINISTRO PRESIDENTE do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ que, com base nos artigos 21-E, V, e 253, parágrafo único, I, ambos do Regimento Interno do STJ - RISTJ, não conheceu do seu recurso especial, eis que interposto intempestivamente (fls. 292/293).
+No presente regimental, a Defesa alega que o recurso foi interposto dentro do prazo fatal, que consta no Evento n. 32, qual seja, dia 20/10/2021. Aduz que o Desembargador Presidente do Tribunal de Justiça do Estado do Tocantins, em sua decisão, considerou o recurso tempestivo, as partes legítimas, presente o interesse recursal e dispensável o preparo.
+Pretende a reconsideração da decisão e o provimento do recurso especial.
+O MINISTÉRIO PÚBLICO FEDERAL - MPF apresentou parecer, pugnando pelo desprovimento do agravo regimental (fl. 322).
+É o relatório.
+Decido.
+Em face das razões lançadas, reconsidero a decisão agravada, com fundamento no art. 258, § 3º, do Regimento Interno do STJ, para afastar a intempestividade do recurso especial, c ontudo, não conheço do agravo em recurso especial, pois não atendidos os demais pressupostos de admissibilidade.
+Com efeito, a decisão proferida pelo TJTO negou trânsito ao recurso especial em razão dos seguintes fundamentos: a) inadequação do recurso especial para apreciação de eventual ofensa a preceitos constitucionais; b) ausência de prequestionamento dos arts. 157, 186 e 315, § 2º, II, todos do CPP, incidindo as Súmulas ns. 282 e 356 do STF, bem como por deficiência na fundamentação do recurso, aplicando a Súmula n. 284 do STF; c) inviabilidade de análise de violação à súmula; d) incidência da Súmula n. 83, quanto à aplicação do princípio da insignificância; e) ausência de cotejo analítico, quanto ao alegado dissídio jurisprudencial. (fls. 252/257)
+O agravo em recurso especial, no entanto, limita-se a alegar a inaplicabilidade das Súmulas ns. 282, 284 e 356 do STF, sem enfrentar os demais fundamentos da decisão agravada, quando deveria demonstrar o desacerto da decisão agravada, impugnando especificamente todos os argumentos de inadmissão.
+Dessa forma, faz-se necessária a aplicação dos arts. 932, inc. III e 1.021, § 1º, do Código de Processo Civil de 2015 e do enunciado n. 182 da Súmula deste Superior Tribunal de Justiça, por analogia.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que a defesa deixou de refutar, especificamente, o fundamento de inadmissibilidade referente à Súmula n. 83 do STJ.
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese.
+4. Agravo regimental não provido.
+(AgRg no AREsp 1833577/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/12/2022, DJe 16/12/2022)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+4. É descabido postular a ordem de habeas corpus de ofício como forma de burlar a inadmissão do recurso especial. A concessão da ordem de ofício ocorre por iniciativa do próprio órgão jurisdicional, quando há cerceamento flagrante do direito de locomoção, não servindo para suprir eventuais falhas na interposição do recurso ou mesmo para acolher alegações apresentadas a destempo.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 2121358/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/09/2022, DJe 30/09/2022)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. No caso, o agravante deixou de refutar o fundamento segundo o qual, o acórdão recorrido foi proferido em consonância com jurisprudência do STJ, no sentido de que a tipificação dos crimes de sonegação fiscal prescinde da demonstração do dolo específico, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Acrescente-se que, de acordo com o entendimento pacificado nesta Corte Superior, quando o inconformismo excepcional não é admitido pela instância ordinária, sob o fundamento de que a orientação do Tribunal se firmou no mesmo sentido da jurisprudência do STJ, tal como ocorrido na espécie, a impugnação deve indicar precedentes contemporâneos ou supervenientes, em sentido contrário aos mencionados na decisão combatida, o que não se verifica no caso em apreço.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+Ante o exposto, dou provimento ao agravo regimental para alterar o fundamento da decisão agravada de intempestividade, e não conhecer do agravo do recurso especial por incidência da Súmula n. 182/STJ .
+Publique-se. Intimem-se.
