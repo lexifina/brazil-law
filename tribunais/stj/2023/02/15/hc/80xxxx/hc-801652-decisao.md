@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCOS ANTÔNIO MASSIGNANI, por meio do qual a defesa aponta excesso de prazo em medida cautelar diversa da prisão que foi mantida pelo Tribunal de Justiça do Estado de Santa Catarina, nos autos da Apelação Criminal n. 0001750-26.2019.8.24.0067.
+Consta: (i) que o ora paciente foi preso preventivamente, depois submetido a medidas cautelares diversas da prisão (e-STJ fl. 28); (ii) que foi condenado em primeira instância a pena de 5 anos de reclusão, em regime inicial fechado, e 32 dias-multa (1/20 do salário-mínimo), pelo crime de receptação qualificada, preservadas as cautelares antes impostas (e-STJ fl. 46); e (iii) que o segundo grau de jurisdição negou provimento à apelação defensiva (e-STJ fl. 55).
+Nesta oportunidade, o impetrante argumenta que está configurado o constrangimento ilegal por excesso de prazo, na medida em que a medida cautelar de monitoramento eletrônico perdura há mais de 3 anos e 6 meses.
+Diante disso, em liminar e no mérito, pede seja revogada a medida cautelar de monitoramento eletrônico .
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na instância de origem: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso destes autos, em que a defesa se insurge contra decisão singular de relator do feito, parente o segundo grau de jurisdição, o exame da matéria significaria inadmissível supressão de instância.
+Adicionalmente, observo que não há jurisprudência consolidada nesta Corte quanto ao ponto controvertido, e prejudicial aos demais tópicos ventilados pela defesa - atinente à legitimidade de atuação da Procuradoria Geral do Estado, na defesa de agente público, no âmbito de suposto crime perpetrado contra o próprio ente federado -, de modo que não há falar em ilegalidade patente na decisão ora apontada como coator, que justifique o exame per saltum.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
