@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por ORTOTECH S.A. contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. APELAÇÃO. EXECUÇÃO FISCAL. RECONHECIMENTO DO PEDIDO. HONORÁRIOS.
+1. A isenção ao pagamento de honorários de advogado é aplicável na hipótese em que houver o reconhecimento integral da procedência do pedido e não oferta de resistência à pretensão da parte.
+Os embargos declaratórios opostos foram rejeitados.
+Em suas razões, a contribuinte indica violação dos arts. 85, § 3º, 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, 19 da Lei n. 10.522/2002 e 22 da Lei n. 8.906/1994.
+Sustenta, preliminarmente, a existência de negativa de prestação jurisdicional, ante a falta de enfrentamento, pela Corte a quo, sobre o arcabouço legal que envolve a questão debatida nos autos, referente aos honorários advocatícios que entende devidos pela Fazenda Nacional.
+No mérito, salienta, em resumo, ser cabível a condenação do ente fazendário no pagamento de honorários advocatícios, pois "a inexigibilidade do crédito tributário ocorreu em momento posterior à oferta da exceção de pré-executividade, o que implicou a necessidade de contratação dos advogados para a apresentação de defesa, os quais, necessariamente devem ser remunerados pelo trabalho realizado, que resultou na extinção da demanda. Desse modo, a atuação dos procuradores da Recorrente foi imprescindível para que a ilegalidade na cobrança fosse descortinada através da peça defensiva apresentada" (e-STJ fl. 283).
+Contrarrazões apresentadas às e-STJ fls. 302/312.
+A decisão a quo inadmitiu o recurso especial pela incidência da Súmula 83 do STJ, fundamento com o qual não concorda a parte agravante.
+Sem contraminuta.
+Passo a decidir.
+Cuidam os autos, na origem, de execução fiscal extinta em razão do reconhecimento da prescrição intercorrente pela Fazenda Nacional, com a fixação de honorário advocatícios em desfavor da exequente.
+Interposta apelação pelo ente fazendário, essa foi provida pelo TRF da 4ª Região para reconhecer a isenção do pagamento da verba sucumbencial pelo ente fazendário, com amparo no art. 19, § 1º, da Lei n. 10.522/2002. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 213/214):
+A União (Fazenda Nacional) interpõe recurso de apelação contra a sentença que extinguiu a execução fiscal de origem, reconhecida a prescrição intercorrente, condenando a parte exequente a pagamento honorários de advogado de sucumbência de dez por cento do valor da causa.
+(..)
+Dispõe a L 10.522/2002, no que interessa à questão submetida a este julgamento:Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional autorizada a não contestar, a não interpor recurso ou a desistir do que tenha sido interposto, desde que inexista outro fundamento relevante, na hipótese de a decisão versar sobre: (Redação da Lei nº 11.033, de 2004)1º. Nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente: (Redação da Lei nº 12.844, de2013)I - reconhecer a procedência do pedido, quando citado para apresentar resposta, inclusive em embargos à execução fiscal e exceções de pré-executividade, hipóteses em que não haverá condenação em honorários; ou (Incluído pela Lei nº 12.844, de 2013)  ..
+A isenção do pagamento de honorários de advogado é aplicável quando houver o reconhecimento integral da procedência do pedido sem resistência à pretensão da parte adversa:
+(..)
+A União expressamente reconheceu a procedência do pedido(e3d4p4), pelo que não se lhe pode impor o pagamento de honorários de advogado de sucumbência, por expressa previsão legal (inc. I do § 1º do art. 19 da L 10.522/2002).
+O recurso da União comporta provimento para afastar a condenação da União a pagar honorários de advogado de sucumbência.
+Pois bem.
+Quanto à alegada ofensa ao arts. 489, § 1º e 1.022, II, do CPC/2015, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No mérito, tem-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ, no sentido de que a extinção da execução fiscal em face do reconhecimento da prescrição intercorrente (art. 40 da LEF) não justifica a condenação da exequente em honorários advocatícios, salvo se ela manifestar resistência a essa pretensão, o que não ocorreu na espécie.
+A esse respeito, vide:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS EM FAVOR DO DEVEDOR. DESCABIMENTO. RECONHECIMENTO DO PEDIDO. INOCORRÊNCIA.
+1. O reconhecimento da prescrição intercorrente não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação. Precedentes.
+2. Hipótese em que, extinta a execução fiscal com base na prescrição intercorrente, sem resistência da exequente, não é possível reconhecer que a parte devedora sagrou-se vencedora na demanda e, por conseguinte, que obteve algum proveito econômico da Fazenda Pública credora, a justificar que essa venha a pagar honorários advocatícios.
+3. Inocorrência de reconhecimento do pedido pela Fazenda Pública, nos termos do que dispõe o art. 90 do CPC, pois o ente fazendário apenas concordou com fato que ocorreu no curso processual (prescrição intercorrente).
+4. Agravo interno desprovido.
+(AgInt no REsp 1.849.437/SC, de minha relatoria, PRIMEIRA TURMA, julgado em 06/10/2020, DJe 28/10/2020).
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL. EXTINÇÃO POR PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO.
+1. O acórdão recorrido, ao afastar a condenação do ente público em honorários de sucumbência, por haver reconhecido a alegação do executado de prescrição intercorrente, encontra-se em harmonia com a jurisprudência do STJ sobre o tema. Precedentes: AgInt no REsp 1.849.437/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/10/2020, DJe 28/10/2020; AgInt no REsp 1.850.404/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020; AgInt no AREsp 1.532.496/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 18/2/2020, DJe 27/2/2020.
+2. Agravo interno não provido.
+(AgInt no REsp 1.823.309/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2021, DJe 04/03/2021).
+Incide, portanto, in casu a Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" ), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/08/2016, DJe 30/08/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR -LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, ante a ausência de fixação de verba de advogado na instância ordinária.
+Publique-se. Intimem-se.
