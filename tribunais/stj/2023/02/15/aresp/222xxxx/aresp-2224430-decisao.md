@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Rio Brasil Telecomunicações Ltda., com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 240):
+APELAÇÕES CÍVEIS. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+Da data de vencimento do contrato e termo inicial da contagem prescricional até a data do ajuizamento da ação, deixou de haver qualquer causa interruptiva da prescrição ou a demonstração de novação entre as partes.
+Os honorários advocatícios devem ser fixados em 10% sobre o valor da execução, nos termos da legislação e das circunstâncias reconstituídas.
+APELAÇÃO DA DEMANDADA DESPROVIDA. APELAÇÃO DA DEMANDANTE PROVIDA.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente indicou violação aos arts. 206 do CC; e 802, parágrafo único, do CPC/2015.
+Aduziu que não estaria prescrita a cobrança de valores devidos a partir de novembro/2014 em diante, pois o despacho que determina a citação interrompe a prescrição, retroagindo à data da propositura da ação - 8/11/2019. Salientou que haveriam provas claras de que o contrato permaneceria ativo.
+Contrarrazões às fls. 290-291 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+O Tribunal de origem, ao analisar a controvérsia, concluiu pela implementação do prazo prescricional, pois o contrato teria vencido em 10/9/2013, não havendo provas de que essa data teria sido alterada por vontade das partes, nos termos da fundamentação abaixo colacionada (e-STJ, fl. 238):
+Trata-se de execução de título extrajudicial na qual a exequente busca cobrar o valor de proveniente de contrato de prestação de serviços. A petição inicial alega, como questão preliminar, a extinção da execução pela ocorrência da prescrição, referindo que a execução propõe a cobrança de valores vencidos a partir de 10-09-2013, tendo a interrupção da prescrição ocorrido com o despacho judicial proferido em 16-03-2020, depois de 6 anos e 6 meses do vencimento do débito e, portanto, prescrito, nos termos do art. 206, § 5º, inciso I do CC (Evento 1 - INIC1).
+Na contestação, a parte demandada alegou que a natureza do presente contrato não se encontra especificamente em nenhuma das opções do rol exposto pelo Código Civil, devendo ser considerado o prazo prescricional de 10 anos. Caso o juízo considerasse pela aplicação do prazo prescricional quinquenal, requereu a aplicação da prescrição somente nas parcelas anteriores a 8-11-2014, argumentando que fixar a prescrição de todo o período contratual, que se estende até hoje, caracterizaria má-fé. No mérito, referiu que o demandante não nega a dívida e que as parcelas cobradas vencem mensalmente (Evento 9 - CONT1).
+A sentença de procedência dos embargos à execução reconheceu a prescrição, considerando a data final da obrigação, 10-03-2013, termo inicial da prescrição quinquenal, conforme determina o artigo 206, § 5º, I, do Código Civil, e a data da interrupção da prescrição, em 13-03-2020, em razão de despacho judicial (Evento 58).
+Observo que a ação de execução foi ajuizada em 08-11-2019 (processo nº 50426505120198210001) com despacho judicial ocorrido em 16-03-2020, sendo que a interrupção retroage à data de propositura da demanda, conforme o art. 802, parágrafo único, do CPC.
+A existência da relação jurídica entre as partes está demonstrada, circunstância que não se confunde com a data final do vencimento do contrato, 10-09-2013. Entretanto, não há demonstração de que a data final do vencimento do contrato tenha sido modificada por vontade livre de ambas as partes.
+Prevalece que, de 10-09-2013, data de vencimento do contrato e termo inicial da contagem prescricional, até 08-11-2019, data do ajuizamento da ação, não houve qualquer causa interruptiva da prescrição ou a demonstração de novação entre as partes. Justifica-se, assim, o reconhecimento da prescrição, exatamente como consta na sentença.
+Para derruir a convicção formada, entendendo que teria havido novação entre as partes , seria indispensável o revolvimento do acervo fático-probatório, providência vedada na via eleita, ante a previsão contida no enunciado n. 7 da Súmula do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da recorrida em 2% (dois por cento) sobre o valor atualizado da execução.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. OCORRÊNCIA. AUSÊNCIA DE PROVAS DE NOVAÇÃO ENTRE AS PARTES. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
