@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARIA HELENA VIEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Revisão Criminal n. 70085556140.
+Consta nos autos que a Paciente foi condenada às penas de 7 (sete) anos de reclusão, em regime inicial fechado, e 600 (seiscentos) dias-multa, por incidir no disposto no art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei n. 11.343/2006, além de ter sido condenada à pena de 4 (quatro) meses de detenção, em regime aberto, pela prática do crime tipificado no art. 349-A, c.c. o art. 14, inciso II, do Código Penal.
+Contra a sentença, a Defesa interpôs apelação, que foi desprovida (fls. 27-39).
+Após o trânsito em julgado da condenação, a Defesa ajuizou revisão criminal, que não foi conhecida pela Corte de origem (fls. 41-55).
+Neste writ, o Impetrante alega falta de fundamentação idônea para a fixação do regime inicial fechado.
+Requer, inclusive liminarmente, a fixação do regime inicial semiaberto.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta." (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração
+Ao fixar o regime inicial fechado, o Juízo sentenciante apresentou os seguintes fundamentos (fl. 23; grifos diversos do original):
+"Quanto ao regime de cumprimento de pena, tendo em vista que a ré registra condenação definitiva por outro crime de tráfico de entorpecentes (processo 027/2.15.0000008-3  fls. 180/v). além de uma outra condenação por furto, não possui ela personalidade compatível com o início da reprimenda em regime de menor gravidade ou intermediário. razão pela qual fixo o regime inicial fechado, nos termos do art. 33. § 3º, do CP."
+O Tribunal de origem, por sua vez, ressaltou que " a  sentença fundamentou de maneira suficiente os motivos pelos quais o regime inicial foi fixado no fechado" (fl. 54).
+No caso, a pena-base foi estabelecida acima do mínimo legal (fl. 22). Desse modo, estabelecida a pena definitiva acima de 4 (quatro) anos de reclusão, e presente circunstância desfavorável, mostra-se cabível a fixação do regime inicial fechado, segundo o disposto nos arts. 33, § 2.º, alínea b, e 59, ambos do Código Penal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE EXASPERADA EM 1/6. PROPORCIONALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ELEMENTOS CONCRETOS. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. No caso em apreço, o aumento da pena-base em 1/6 não se revela desproporcional ante a quantidade e variedade de entorpecentes apreendidos - 256g (duzentos e cinquenta e seis gramas) de maconha e 59,5g (cinquenta e nove gramas e cinco decigramas) de cocaína.
+3. Não se denota ilegalidade no afastamento do redutor da pena (art. 33, § 4º, da Lei de Drogas), pois as instâncias de origem tomaram em consideração diversos elementos concretos que revelaram a dedicação do réu a atividades ilícitas.
+4. Diante do quantum da sanção definitiva superior a 4 anos de reclusão e da pena-base fixada acima do mínimo legal, de rigor a manutenção do regime inicial fechado, nos termos dos arts. 33, §§ 2º, "a" e "b", e 3º, e 59 do Código Penal e 42 da Lei n. 11.343/2006.
+5. Agravo regimental desprovido." (AgRg no HC 584.337/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO DE PENA. SANÇÃO DEFINITIVA SUPERIOR A 4 (QUATRO) ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INICIAL FECHADO. CABIMENTO. ORDEM DE HABEAS CORPUS DENEGADA.
