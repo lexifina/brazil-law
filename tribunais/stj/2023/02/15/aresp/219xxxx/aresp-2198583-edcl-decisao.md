@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EMPRESA DE SEGURANÇA CINDAPA DO SUL LTDA e OUTRO à decisão de fls. 1004/1005, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Na resposta aos Embargos de Declaração opostos pela ora embargada, a ora embargante suscitou a inocorrência da hipótese legal invocada pela parte então recorrente para fundamentar os aclaratórios, além da violação do princípio da dialeticidade.
+Ademais, invocou a aplicação do entendimento do precedente AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2081394 - MG, de acordo com o que preconiza o art. 926 do CPC, uma vez que no caso em tela não se tratava de prazo comum às partes, mas prazo exclusivo restabelecido à SAP, devendo ser contado de forma simples.
+Contudo, a decisão agora embargada proveu os Embargos Declaratórios, conferindo-lhes efeitos infringentes, limitando-se a dizer que o recurso foi interposto dentro do prazo, sem, contudo, enfrentar as questões suscitadas em contrarrazões e, especialmente, efetuar o distinguish entre o precedente invocado e o caso em tela, a fim de justificar o entendimento diverso.
+Nesse sentido, não foram atendidos os requisitos do 489, § 1º, incisos IV e VI, ambos do Código de Processo Civil (fl. 1007).
+ ..
+Ante ao exposto, requer-se o recebimento, conhecimento e total provimento dos presentes embargos, para que o juízo sane a omissão e se manifeste quanto à tese contida nas contrarrazões, justificando a divergência no entendimento em face do precedente invocado (fl. 1008).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já relatado na decisão anterior, estabelece o art. 229 do CPC, "Os litisconsortes que tiverem diferentes procuradores, de escritórios de advocacia distintos, terão prazos contados em dobro para todas as suas manifestações, em qualquer juízo ou tribunal, independentemente de requerimento".
+No caso, verifica-se que a Integrate Consultoria Empresarial Ltda. fls. 736/750 e a SAP Brasil Ltda., fls. 768/772 recorreram da decisão de fls. 715/733. As referidas empresas possuem diferentes procuradores e escritórios de advocacia distintos, portanto, o prazo para a interposição do recurso especial é em dobro.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
