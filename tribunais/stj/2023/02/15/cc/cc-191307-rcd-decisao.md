@@ -1,0 +1,3 @@
+DECISÃO
+Diante da decisão definitiva proferida neste incidente processual, que reconheceu a competência do Juízo Federal da 5ª Vara de Caxias do Sul - SJ/RS, ora suscitante, para avaliar a conveniência ou não da permanência do preso em Presídio Federal, bem como da notícia de que o condenado já se encontra no Sistema Penitenciário Federal, indefiro o pedido formulado às fls. 1.372-1.375 e 1.376-1.379, para que seja reconsiderada a decisão que definiu a competência, bem como a que negou efeito suspensivo ao agravo regimental interposto, o qual será levado ao colegiado oportunamente.
+Publique-se e intimem-se.
