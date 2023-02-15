@@ -1,0 +1,117 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0706536-21.2022.8.07.0009REPRESENTANTE LEGAL(S)JENNIFER LOPES DOS SANTOSAPELANTE(S)C. L. M.APELADO(S)AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A.RelatorDesembargador ESDRAS NEVES Acórdão Nº1666325
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. CONTRADIÇÃO. INEXISTÊNCIA. Os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar do acórdão impugnado eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022 e incisos, do Código de Processo Civil. A insatisfação da embargante com o resultado do julgamento não é suficiente para sua alteração por meio dos embargos de declaração, mormente quando inexiste a omissão ou contradição anunciadas.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ESDRAS NEVES - Relator, ALFEU MACHADO - 1º Vogal e LEONARDO ROSCOE BESSA - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Fevereiro de 2023
+
+Desembargador ESDRAS NEVESRelator
+
+RELATÓRIO
+
+Cuida-se de EMBARGOS DE DECLARAÇÃO opostos por C. L. M. em face do acórdão no. 1644168 (ID 41855529), cuja ementa está redigida nos seguintes termos:
+
+APELAÇÃO CÍVEL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C TUTELA DE URGÊNCIA E INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. BENEFICIÁRIA DIAGNOSTICADA COM HIDROCEFALIA, MIELOMENINGOCELE, MICROCEFALIA E LESÃO CEREBRAL. TRATAMENTO. FISIOTERAPIA INTENSIVA COM MÉTODO THERASUIT, TERAPIA OCUPACIONAL COM PROFISSIONAL COM FORMAÇÃO DE BOBATH, HIDROTERAPIA, COM HALLIWICK, WST, MÉTODO BAD RAGAZ, WATSU. FALTA DE EVIDÊNCIA CIENTÍFICA. MÉTODO EXPERIMENTAL. NEGATIVA DE COBERTURA. NÃO ABUSIVIDADE. PRECEDENTES STJ E TJDFT. DANOS MORAIS. NÃO CONFIGURAÇÃO. O pacto celebrado entre as partes é regido pelo Código de Defesa do Consumidor, mostrando-se cabível o exame do contrato de plano privado de assistência à saúde à luz dos princípios que regem a relação de consumo, sem prejuízo da legislação específica aplicável, consoante disciplina da Súmula 608, do Superior Tribunal de Justiça. A orientação mais recente do Superior Tribunal de Justiça, já considerando o julgamento dos EREsps nº 1.886.929/SP e nº 1.889.704/SP pela Segunda Seção daquela Corte Especial, é no sentido de ser reconhecida a ausência de obrigatoriedade de os planos de saúde cobrirem o tratamento pelo método PediaSuit (AgInt no AREsp n. 1.960.488/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022). Não estando os procedimentos com as técnicas requeridas pela autora (therasuit, hidroterapia e Bobath) previstos no rol da ANS e não evidenciado o enquadramento nas exceções especificadas pelo Superior Tribunal de Justiça, não se pode obrigar o plano de saúde a custeá-los. A recente Lei n° 14.454, de 21/09/2022, corrobora as teses firmadas pelo Superior Tribunal de Justiça, ao estabelecer que em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais. Se não é possível imputar à seguradora/operadora conduta ilícita ou abusiva, incabível sua condenação ao pagamento de indenização por danos morais.
+
+Em suas razões recursais (ID 42115561), a embargante alega que o acórdão incorreu em contradição em relação ao disposto na Lei no. 14.454/2022. Alega que, com a publicação da aludida lei, em 21/09/2022, está definitivamente derrubado o ‘rol taxativo’ para cobertura de planos de saúde. Defende a eficácia dos tratamentos prescritos. Afirma que deve ser aplicado o Código de Defesa do Consumidor à relação existente entre as partes. Argumenta que sua situação é grave e que a fisioterapia tradicional não tem trazido melhoras. Acrescenta que o fato de o método therasuit não constar no rol de cobertura mínima da ANS não justifica a negativa de cobertura pelo plano de saúde, consoante jurisprudência deste Tribunal e do Superior Tribunal de Justiça. Assevera que o entendimento firmado pelo STJ, no julgamento proferido pela 2ª Seção, em 08/06/2022, quanto à taxatividade do rol de procedimentos da ANS, foi superado pela edição da Lei no. 14.454/2022. Cita julgado que entende corroborar sua tese. Aduz que a negativa injustificada do plano gera dano moral. Ao final, pede o reconhecimento da contradição apontada e reforma do acórdão para julgar totalmente procedentes os pedidos.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ESDRAS NEVES - Relator
+
+Conheço do recurso, pois estão presentes os pressupostos de admissibilidade.
+
+Razão não assiste à embargante.
+
+É cediço que somente em situações excepcionalíssimas – o que não é o caso dos autos – a jurisprudência de nossos pretórios admite a alteração de julgados pela via dos declaratórios. Assim agem nossas Cortes, porque a atribuição de efeitos infringentes representa, em verdade, permissão para a propositura de recurso não autorizado pela letra expressa da lei.
+
+Além disso, sabe-se que os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar da decisão impugnada eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022 e incisos, do Código de Processo Civil.
+
+Inexiste, no caso, omissão, obscuridade, contradição ou erro material sanáveis por embargos, tendo em vista que o acórdão recorrido examinou as questões suscitadas nos autos de forma clara e dentro das normas aplicáveis ao caso.
+
+A contradição que autoriza a oposição dos embargos de declaração é aquela que se verifica quando há incoerência entre as proposições constantes na motivação da decisão, na parte decisória ou entre as referidas nas razões de decidir e o dispositivo. Pode ocorrer contradição, ainda, entre o teor do acórdão e aquilo que resulta da votação.
+
+Ocorre que a contradição apontada pela embargante não é interna, ou seja, nos próprios termos do acórdão, e sim em relação à interpretação que entende correta da Lei no. 14.454/2022, o que não autoriza a oposição dos embargos.
+
+O acórdão embargado expressamente consignou que, na linha do entendimento firmado pelo Superior Tribunal de Justiça, a aludida lei estabeleceu condições para que os planos de saúde sejam obrigados a custear procedimentos e tratamentos não previstos no rol da ANS, bem como o não preenchimento dos requisitos pela autora. Confira-se:
+
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do EREsp nº 1.886.929/SP e do EREsp nº 1.889.704/SP, finalizado no dia 8 de junho de 2022, entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrir tratamentos não previstos na lista. Contudo, o mencionado colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista. As teses definidas na ocasião, por maioria de votos, foram as seguintes:
+
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+
+Devem ser observados, portanto, os parâmetros definidos pelo Superior Tribunal de Justiça acerca da natureza taxativa do rol de procedimentos da ANS, nos moldes acima mencionados.
+
+Atualmente, encontra-se vigente a Resolução nº 465/2021 da Agencia Nacional de Saúde (ANS). O rol de procedimentos e eventos em saúde obrigatórios está previsto no Anexo I, alterado pela RN 456, de 30/09/2022. O Anexo II, por sua vez, estabelece as diretrizes de utilização dos procedimentos. Apesar da previsão de consultas e sessões com fisioterapeuta, terapeuta ocupacional e fonoaudiólogo, não estão previstas no aludido rol e nas diretrizes de utilização os procedimentos com as técnicas requeridas pela autora (therasuit, bobath e hidroterapia).
+
+Ademais, o caso não se enquadra nas exceções estipuladas pelo Superior Tribunal de Justiça. Não foram apresentados estudos que comprovem a eficácia do tratamento à luz da medicina baseada em evidências e recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros.
+
+Ao contrário, as Notas Técnicas nos. 74.212, 9666 e 19.854, elaboradas pelo NAT-jus, disponíveis no site do Conselho Nacional de Justiça são desfavoráveis, respectivamente, às técnicas de Bobath, Therasuit e hidroterapia.
+
+Nesse sentido, cito julgados desta Corte:
+
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SÁUDE. TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTO COM O FÁRMACO CANNAMEDS E SESSÕES DE EQUOTERAPIA E HIDROTERAPIA. AUSÊNCIA DE PREVISÃO NO ROL DA ANS. TAXATIVIDADE. EXCEPCIONALIDADE. AUSÊNCIA. NEGATIVA DE COBERTURA. INEXISTÊNCIA DE ILEGALIDADE. SENTENÇA REFORMADA. 1. Trata-se de Apelação interposta com vistas à reforma da r. sentença que condenou o plano de saúde ao custeio do medicamento Cannameds - Ecogen CBD 3.000 Mg/Ml, 21 frascos de 30 Ml, uso contínuo, além das sessões de hidroterapia e equoterapia indicadas pelo médico assistente, para tratamento de Transtorno do Espectro Autista. 2. A relação jurídica existente entre as partes é de consumo, uma vez que a Ré é fornecedora do plano de saúde e o Autor é destinatário final dos produtos e serviços ofertados, a teor do que dispõem os arts. 2º e 3º da Lei nº 8.078/1990, bem como o enunciado da Súmula nº 469 do c. STJ. 3. O tratamento indicado não está elencado no Rol de Procedimentos e Eventos em Saúde da ANS - Resolução Normativa nº 465/2021 de 1/4/2021. 4. A Segunda Seção do c. STJ no julgamento do EREsp 1.886.929/SP e EREsp 1.889.704/SP, ambos da Relatoria do Ministro Luís Felipe Salomão, fixou tese no sentido de que, em regra, o rol de procedimentos e eventos da ANS é taxativo, destacando, contudo, situações excepcionais capazes de justificar a cobertura de procedimentos não previstos no rol, quais sejam, "(i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar". 5. Assim, se as peculiaridades do caso concreto o enquadrarem nas situações excepcionais estabelecidas no precedente qualificado, resta justificada a necessidade de realização do tratamento solicitado pelo médico especialista, podendo o julgador determinar que o seguro contratado arque com as despesas decorrentes do procedimento, ainda que não constante do rol da ANS. 6. Todavia, o caso sob exame não se enquadra nas exceções à taxatividade, estabelecidas pelo c. STJ, pois não foram apresentados estudos que comprovem a eficácia do tratamento "à luz da medicina baseada em evidências", tampouco "recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros". 7. O laudo médico afirma que o tratamento está sendo solicitado como uma "tentativa de melhorar os sintomas alvo em paciente que não respondeu a tratamentos considerados de primeira linha" sem, no entanto, mencionar ou anexar qualquer estudo técnico defendendo a efetividade do tratamento. 8. No que se refere ao medicamento Cannameds, em consulta ao Natjus/CNJ não se identificou Nota Técnica que trate especificamente de pacientes com Transtorno do Espectro Autista, constando a indicação de tal medicamento, exclusivamente, para o tratamento de epilepsia em crianças e adolescentes, refratários aos tratamentos convencionais, nos termos da Nota Técnica nº 65124 Natjus/CNJ e Resolução nº 2.113/2014 do Conselho Federal de Medicina, não aplicáveis ao caso dos autos. 9. O mesmo ocorre quanto à equoterapia e à hidroterapia, em relação às quais a inexistência de estudos comprobatórios ensejaram conclusão desfavorável à aplicação de tais terapias como método de tratamento para o Transtorno do Espectro Autista, consoante a Nota Técnica nº 81479 Natjus/CNJ, de 22/6/2022, bem como precedentes do STJ e deste TJDFT. 10. Nesse contexto, mostra-se legítima a recusa da Ré em custear o tratamento pleiteado, sendo cabível a reforma da r. sentença apelada, a fim de que seja julgado improcedente o pleito autoral. 11. Apelação conhecida e provida. (Acórdão 1614931, 07364742220218070001, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 15/9/2022, publicado no DJE: 21/9/2022) (g.n.)
+
+APELAÇÃO. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO MULTIDISCIPLINAR. THERASUIT. PEDIASUIT. RECOMENDAÇÃO DO MÉDICO ASSISTENTE. NEGATIVA DE COBERTURA. TERAPÊUTICA NÃO RECONHECIDA CIENTIFICAMENTE. FUNÇÃO SOCIAL DOS CONTRATOS. OBSERVÂNCIA. SUBVERSÃO DA FUNÇÃO SOCIAL. CASO CONCRETO. ROL DA ANS. TAXATIVIDADE. NÃO CABIMENTO. 1. Aplica-se o Código de Defesa do Consumidor aos contratos de plano/seguro de saúde, exceto os de autogestão (STJ, Súmula nº 608). 2. Em decorrência do indiscriminado fornecimento de tratamentos, que a operadora/seguradora de saúde não se obrigou a custear, há um aumento do prêmio/mensalidade pago pelo segurado/usuário, fazendo com que outros usuários paguem também valores exorbitantes por procedimentos que nunca utilizariam. 3. Não são todas as terapêuticas que devem ser autorizadas/custeadas por operadora do plano/seguro de saúde, somente porque recomendadas pelo médico assistente, sob pena de sujeitar o setor de saúde suplementar a um caos econômico. 4. Os planos de saúde não são planos de solidariedade, ao contrário do sistema previdenciário público; nem têm, por princípio, a integralidade, como ocorre no Sistema Único de Saúde (SUS). 5. Os contratos devem observar sua função social (CC, art. 422) e, nos termos do art. 170 da Constituição Federal, a ordem econômica também tem por objetivo assegurar a todos a existência digna, conforme os ditames da justiça social. 6. Operadora de plano de saúde não está obrigada a arcar com terapia sem previsão contratual, a exemplo das terapias conhecidas como TheraSuit ou PediaSuit. 7. A Nota Técnica nº 9.666, elaborada pelo NAT-JUS NACIONAL, em 7/8/2020, disponível no banco de dados e-Natjus, do Conselho Nacional de Justiça (CNJ), contém conclusão desfavorável ao custeio da terapia de alto custo TheraSuit, pelos seguintes fundamentos: a) "foi verificada a escassez de estudos robustos acerca do tema, destacando uma revisão sistemática com metanálise que evidenciou que o referido efeito do protocolo com o Método Therasuit foi limitado e heterogêneo"; b) "o Conselho Federal de Medicina, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes. No mesmo diapasão, propugna o Enunciado de Saúde Suplementar n. 26 das Jornadas de Direito da Saúde do CNJ ser lícita a exclusão de cobertura de produto, tecnologia e medicamento importado não nacionalizado, bem como tratamento clínico ou cirúrgico experimental (AgInt no AREsp 1497534/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2020, DJe 23/10/2020).". [STJ, AgInt no AREsp 1627735/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 02/03/2021). 8. A Segunda Seção do Superior Tribunal de Justiça (STJ), ao concluir, em 8/06/2022, o julgamento do EREsp 1886929 e do EREsp 1889704, estabeleceu a taxatividade, em regra, do Rol de Procedimentos e Eventos em Saúde Suplementar da ANS: "1.1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo; 1.2 -a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol; 1.3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;1.4 -não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS." 9. É incabível a condenação por danos morais quando a seguradora/operadora de saúde recusa a cobertura de tratamento amparada em cláusula contratual e em previsão legal. 10. Recurso da ré conhecido e provido. Recurso da autora prejudicado. (Acórdão 1604066, 07099108820218070006, Relator: MARIO-ZAM BELMIRO, , Relator Designado:DIAULAS COSTA RIBEIRO 8ª Turma Cível, data de julgamento: 18/8/2022, publicado no PJe: 23/8/2022) (g.n.)
+
+A recente Lei no. 14.454, de 21/09/2022, mencionada pela autora em contrarrazões, apenas corrobora as teses firmadas pelo Superior Tribunal de Justiça. Confira-se seu teor:
+
+Art. 1º Esta Lei altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde, para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no rol de procedimentos e eventos em saúde suplementar.
+
+Art. 2º A Lei nº 9.656, de 3 de junho de 1998, passa a vigorar com as seguintes alterações:
+
+“Art. 1º Submetem-se às disposições desta Lei as pessoas jurídicas de direito privado que operam planos de assistência à saúde, sem prejuízo do cumprimento da legislação específica que rege a sua atividade e, simultaneamente, das disposições da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), adotando-se, para fins de aplicação das normas aqui estabelecidas, as seguintes definições:
+
+(...)
+
+“Art. 10.
+
+(...)
+
+§ 4º A amplitude das coberturas no âmbito da saúde suplementar, inclusive de transplantes e de procedimentos de alta complexidade, será estabelecida em norma editada pela ANS, que publicará rol de procedimentos e eventos em saúde suplementar, atualizado a cada incorporação.
+
+(...)
+
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais. (g.n.)
+
+Como já afirmado, no caso, não ficou comprovado o preenchimento dos requisitos previstos no artigo 10, § 13, da Lei no 9.656/98, para que o tratamento seja autorizado pelo plano de saúde.
+
+Bem se pode ver, portanto, que é cristalina a intenção dos embargantes de apenas e tão somente alterar, à míngua dos vícios elencados no artigo 1.022, do Código de Processo Civil, a conclusão alcançada na decisão censurada, pretensão que não encontra cabimento na via estreita dos embargos de declaração.
+
+Destarte, os embargos de declaração, nos termos do artigo 1.022, do Código de Processo Civil, não se prestam à rediscussão da causa. O referido recurso, de fundamentação vinculada e de efeito devolutivo restrito, só pode ser interposto para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e corrigir erro material, apresentando-se vedado o reexame da matéria, cujo julgamento restou exaurido.
+
+Dissensão existente sobre determinada questão jurídica não é hipótese que autorize o manejo dos embargos de declaração, que é recurso, repita-se, de cognição limitada.
+
+Dessa forma, não se constata nenhum vício no acórdão embargado.
+
+Ante o exposto, conheço dos embargos de declaração e os REJEITO.
+
+É como voto.
+
+O Senhor Desembargador ALFEU MACHADO - 1º Vogal Com o relatorO Senhor Desembargador LEONARDO ROSCOE BESSA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS. REJEITADOS. UNÂNIME.
