@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça (STJ), que, por entender aplicável ao caso a Súmula 182 do STJ, deixou de conhecer de agravo em recurso especial.
+No agravo interno, argumenta-se que o agravo em recurso especial impugnou a fundamentação do juízo negativo de admissibilidade exarado pela Corte de origem. Essa argumentação procede. Conforme constato, as razões do agravo em recurso especial combatem especificamente o fundamento ("Súmula 83/STJ.") que, segundo a Presidência do STJ, não teria sido impugnado. Diante disso, necessário reconsiderar essa decisão, afastando-se a incidência da Súmula 182 do STJ.
+Promovo, assim, novo exame do agravo em recurso especial, o qual foi interposto contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. CÉDULA RURAL PIGNORATÍCIA. RAZÕES RECURSAIS DISSOCIADAS DO CONTEÚDO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO DO RECURSO. Decisão que julga prejudicado o exame da alegação de excesso de execução e indefere o pedido de realização de perícia por ausência de cálculo, a teor do art. 525, § 5º, do CPC. Razões recursais fundamentadas na alegação de cerceamento de defesa por ausência de fundamentação quanto ao indeferimento do pedido de realização de perícia, bem como no mérito do excesso de execução. Razões dissociadas da decisão recorrida e de seus respectivos fundamentos. ausência de regularidade formal. art. 932, III, CPC.
+Descabimento da intimação para regularização. Enunciado 6 do STJ. RECURSO NÃO CONHECIDO. UNÂNIME.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+No recurso especial, a parte agravante alega que o acórdão recorrido contrariou:
+1) os artigos 1.022 e 1.025 da Lei 13.105/2015 (Código de Processo Civil - CPC de 2015) porque deixou de sanar os vícios apontados nos embargos de declaração;
+2) o artigo 1.016 do CPC de 2015 porque as razões do agravo de instrumento atacaram a decisão agravada, de sorte que não poderia a Corte estadual deixar de conhecer de tal agravo; e
+3) os artigos 369, 465, 509 e 511 do CPC de 2015 e os artigos 475-A e 475-B da Lei 5.869/1973 (Código de Processo Civil - CPC de 1973) porque ignorou a necessidade de liquidação do título exequendo.
+Inicialmente, verifico que, nas razões do agravo de instrumento, a parte executada apontou a necessidade de prévia liquidação do título exequendo. Essa matéria foi reiterada em embargos de declaração, mas a Corte estadual não a enfrentou. Nesse quadro, evidencia-se que o acórdão recorrido omitiu-se quanto a ponto sobre o qual devia se pronunciar, situação que configura ofensa ao artigo 1.022, inciso II, do CPC de 2015.
+Com relação a esse ponto, porém, entendo desnecessário anular o julgado estadual. Para prestigiar a efetividade, a economicidade e a celeridade (CPC de 2015, artigo 282) e tendo em vista a regra disposta no artigo 1.025 do CPC de 2015, reputo adequado considerar prequestionada a matéria e, assim, prosseguir no seu exame, sem que, para tanto, seja preciso retornar o processo à Corte de origem, uma vez que há no STJ jurisprudência consolidada tratando do tema, como será adiante demonstrado. Nesse sentido:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. GRUPO DE SOCIEDADES. PRESTAÇÃO JURISDICIONAL. FALHA. OCORRÊNCIA. PREQUESTIONAMENTO. ARTIGO 1.025 DO CPC/2015. PRECLUSÃO PRO JUDICATO. HIERARQUIA DAS DECISÕES. OFENSA. NÃO OCORRÊNCIA. PLANO DE RECUPERAÇÃO. ILEGALIDADES. PROCESSO. PRÁTICA DE ATO SIMULADO. NULIDADE RECONHECIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se houve falha na prestação jurisdicional e, caso reconhecida, se é possível a aplicação do artigo 1.025 do Código de Processo Civil de 2015; (ii) se está preclusa a matéria relativa ao reconhecimento da existência de fraude e conluio, com a utilização do processo de recuperação judicial para fins diversos do previsto em lei, e (iii) se identificada a utilização do processo para a prática de ato simulado, deve o Juízo proferir decisão obstativa desse procedimento.
+3. Na hipótese, verifica-se que o Tribunal de origem deixou de analisar diversas matérias suficientes para alterar a conclusão do julgado, ficando caracterizada a falha na prestação jurisdicional. Tais questões, cuja análise independe do reexame de provas, foram oportunamente suscitadas pelo recorrente em contrarrazões de apelação e renovadas em declaratórios, motivo pelo qual, nos termos do artigo 1.025 do CPC/2015, serão consideradas como incluídas no acórdão e, portanto, prequestionadas.
+4. Cabe ao juiz proferir decisão que impeça o objetivo das partes de utilizar o processo para prática de ato simulado, propósito que ressai nítido das situações retratadas nos presentes autos.
+5. A recuperação judicial tem como objetivo preservar a empresa, permitindo a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses do credores e não autorizar a falta de pagamento de dívidas previamente escolhidas, com a utilização do processo para fim não previsto em lei.
+6. Recurso especial provido.
+(REsp n. 1.848.498/SE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/10/2020, DJe de 15/10/2020.)
+Indo adiante, registro que o cumprimento (execução) individual de título oriundo de ação civil pública demanda fase prévia de liquidação com vistas à apuração não apenas do valor devido como também da titularidade do crédito pleiteado. Assim:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1.247.150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011).
+2. Se há a necessidade de apurar a titularidade do crédito e o montante devido a título de condenação dos expurgos inflacionários, revela-se notório o devido respeito ao procedimento de prévia liquidação da sentença coletiva, nos temos do art. 475-A do CPC de 1973. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1580295/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 5/4/2016, DJe 14/4/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE LIQUIDAÇÃO DE CONDENAÇÃO GENÉRICA CONTIDA EM SENTENÇA COLETIVA. PRECEDENTES. CÁLCULOS COMPLEXOS. INVIABILIDADE DE REEXAME EM RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Na linha dos precedentes desta Corte, o cumprimento individual de sentença coletiva, no qual pleiteada a satisfação de interesses individuais homogêneos, demanda, necessariamente, fase prévia de liquidação com vistas à apuração não apenas do quantum debeatur (valor devido), como também da titularidade do crédito pleiteado (cui debeatur).
+ ..
+(AgInt no REsp 1606950/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 18/10/2016, DJe 28/10/2016)
+DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS METAINDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. ALCANCE SUBJETIVO DA SENTENÇA COLETIVA. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA. MULTA PREVISTA NO ART. 475-J, CPC. NÃO INCIDÊNCIA.
+1. Para efeitos do art. 543-C do CPC:
+ ..
+1.2. A sentença genérica prolatada no âmbito da ação civil coletiva, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC). A condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não sendo aplicável a reprimenda prevista no art. 475-J do CPC.
+2. Recurso especial parcialmente provido.
+(REsp 1247150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe 12/12/2011)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. LIQUIDAÇÃO PRÉVIA. NECESSIDADE. DIVERGÊNCIA JURISPRUDÊNCIA. AUSÊNCIA DE SIMILITUDE. SÚMULAS Nº 7/STJ E 284/STF.
+1. É necessária a liquidação sentença coletiva proferida em ação civil pública pelo particular que pretende executá-la, oportunidade em que se provará tanto a sua qualidade de credor quanto o valor do seu crédito.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 370.244/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/10/2015, DJe 23/10/2015)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1247150/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011).
+2. Agravo regimental não provido.
+(AgRg no AREsp 510.687/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe 5/5/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IDEC. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SENTENÇA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593751/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/8/2016, DJe 16/8/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REGULARIZAÇÃO DO PROCEDIMENTO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Há necessidade de prévia liquidação de sentença proferida na ação coletiva para apuração do an debeatur e do quantum debeatur, sob pena, inclusive, de indeferimento liminar do pedido de execução do título executivo judicial. Entendimento firmado no REsp n. 1.247.150/PR (art. 534-C do CPC/1973). É possível que instâncias ordinárias regularizem o vício formal, notadamente quando ausente qualquer prejuízo para a instituição financeira devedora.
+2. Agravo interno desprovido.
+(AgInt no AREsp 991.977/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 3/2/2017)
+No caso, observo que a parte autora ajuizou liquidação de sentença prolatada em ação civil pública, sendo que o juiz da causa, por entender prescindível o procedimento de liquidação, determinou a instauração de cumprimento de sentença. Essa compreensão não coincide com a jurisprudência do STJ, acima demonstrada.
+Em face do exposto, reconsidero a decisão da Presidência do STJ, conheço do agravo em recurso especial e dou provimento ao recurso especial para determinar a liquidação do título exequendo.
+Quanto ao mais, fica prejudicado o recurso especial.
+Intimem-se.
