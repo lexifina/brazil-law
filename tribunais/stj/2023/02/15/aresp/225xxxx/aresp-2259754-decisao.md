@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO ESTADO DE SERGIPE S/A (BANCO), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Sergipe, da relatoria do Desembargador Cezário Siqueira Neto, assim ementado:
+APELAÇÃO CÍVEL. BUSCA E APREENSÃO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. ART. 485, IV DO CPC. NÃO LOCALIZAÇÃO DO BEM ALIENADO. IMPOSSIBILIDADE DE CITAÇÃO DO DEVEDOR. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL. DESNECESSIDADE DE INTIMAÇÃO PESSOAL. SENTENÇA CONFIRMADA. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME. I - Não tendo o autor logrado êxito quanto à localização do bem, não se manifestando quando intimado para indicar novo endereço do devedor, impossibilitando a citação, a extinção do processo é medida que se impõe, ante a ausência de pressuposto de constituição e desenvolvimento válido e regular do processo. II - Apenas nos casos de abandono de causa (art. 485, II e III, do CPC), faz-se imprescindível a intimação pessoal da parte para dar andamento ao feito no prazo de 5 dias, antes de extinguir o processo sem julgamento do mérito (art. 485, § 1º, do CPC). III - Recurso conhecido e improvido (e-STJ, fls. 287/288)
+Irresignado, BANCO interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 9º, 317, 485, III, §1º, e 1.022, II, do NCPC, ao sustentar que (1) omisso o acórdão em relação à aplicação do art. 317 do NCPC e (2) a ausência de citação não é pressuposto de constituição e desenvolvimento do processo, mas apenas de validade, conforme art. 239 do NCPC, devendo haver a intimação pessoal para dar andamento ao feito antes de sua extinção; (3) mencionando julgados em apoio a sua tese.
+O recurso não foi admitido pelo Tribunal de Justiça de Sergipe (e-STJ, fls. 403/407).
+Nas razões do presente agravo, BANCO alegou que os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da ausência de violação do art. 1.022 do NCPC
+Nas razões do seu recurso, BANCO alegou a violação do art. 1.022, do NCPC em virtude da omissão do acórdão em relação à aplicação do art. 317 do NCPC, devendo ser possibilitado à parte corrigir o vício antes de extinguir a demanda.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando:
+Com efeito, da leitura do dispositivo acima transcrito, infere-se que ausência de formação e desenvolvimento válido do processo acarreta a extinção do feito sem resolução do mérito. A prolação da sentença extintiva, ora recorrida, fora precedida por despacho (20/04/2020), o qual determinava a intimação da parte requerente para tomar ciência das pesquisas dos endereços das partes realizadas nos sistemas de consultas, bem como para impulsionar o feito, tudo sob pena de extinção do feito.
+Isto posto, constituindo-se a citação um dos requisitos de validade para o aperfeiçoamento da relação processual, a sua ausência, por incúria imputada ao Autor, que não intentou diligências eficazes e necessárias para concretizar a relação jurídica processual, impõe a extinção do processo, sem julgamento do mérito, com base no artigo 485, IV, do CPC, tal qual entendeu o sentenciante.
+Desse modo, como a ausência dos elementos mencionados é um óbice ao válido e regular prosseguimento da Ação Monitória, não há que se falarem desacerto do julgado recorrido.
+ ..
+Outrossim, não há que confundir a hipótese em voga com a extinção da ação, por abandono da causa, traçada nos incisos II e III do art. 485 do Diploma Processual Civil, onde há norma impondo intimação pessoal.
+ ..
+Desse modo, cumpre ressaltar que a extinção do presente feito não está condicionada à intimação pessoal da parte requerente, sendo idônea a intimação através do procurador por ela constituído, e tendo deixado transcorrer in albis o prazo para cumprir o comando judicial, correta se mostra a extinção do processo, a revelar a não ocorrência de error in procedendo, merecendo manter-se indene a sentença guerreada (e-STJ, fls. 290/295).
+Deste modo, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RECUPERAÇÃO JUDICIAL. PENHORA DEFERIDA EM OUTRO PROCESSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA DECIDIR ACERCA DA DESTINAÇÃO DOS BENS DA EMPRESA RECUPERANDA. ART. 47, Lei 11.101/2005. PRECEDENTES. VENDA DE IMÓVEL JÁ PENHORADO EM OUTRO PROCESSO. POSSIBILIDADE. HIPÓTESE EM QUE O BEM JÁ ESTAVA EXPRESSAMENTE DESTINADO À VENDA, NO PLANO DE RECUPERAÇÃO DA EMPRESA. PREVALÊNCIA DO PROCEDIMENTO DE SOERGUIMENTO PERANTE A AÇÃO INDIVIDUAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS AOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. IRRISORIEDADE DO VALOR ARBITRADO NA ORIGEM. RECURSO ESPECIAL DE INTERPART PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO. RECURSO ESPECIAL DE SÉRGIO E.I. PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+ ..
+12. Recurso especial de INTERPART conhecido em parte e nessa extensão não provido.
+13. Recurso especial de SÉRGIO E.I. provido.
+(REsp n. 1.854.493/SP, de minha relatoria, Terceira Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Afasta-se, portanto, a alegada violação.
+(2) Da intimação pessoal
+BANCO entende que a ausência de citação não é pressuposto de constituição e desenvolvimento do processo, mas apenas de validade, conforme art. 239 do NCPC, devendo haver a intimação pessoal para dar andamento ao feito antes de sua extinção.
+A questão foi assim debatida pelo Tribunal estadual:
+ ..  não há que confundir a hipótese em voga com a extinção da ação, por abandono da causa, traçada nos incisos II e III do art. 485 do Diploma Processual Civil, onde há norma impondo intimação pessoal.
+ ..
+Desse modo, cumpre ressaltar que a extinção do presente feito não está condicionada à intimação pessoal da parte requerente, sendo idônea a intimação através do procurador por ela constituído, e tendo deixado transcorrer in albis o prazo para cumprir o comando judicial, correta se mostra a extinção do processo, a revelar a não ocorrência de error in procedendo, merecendo manter-se indene a sentença guerreada (e-STJ, fls. 293/295).
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor (AgInt no AREsp n. 1.872.705/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022).
+Ainda nesse sentido, anotem-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO FUNDAMENTADO. AUSÊNCIA DE CITAÇÃO DO CÔNJUGE VIRAGO, POR REITERADA DESÍDIA DO PROMOVENTE. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. INTIMAÇÃO PRÉVIA DO AUTOR. DESNECESSIDADE. PRETENSÃO DE REEXAME DE FATOS E PROVAS (SÚMULA 7/STJ). AGRAVO NÃO PROVIDO.
+1. "A falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor"(AgInt no AREsp 1409923/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 25/6/2019, DJe 1º/7/2019). Estando a decisão recorrida de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+2. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu configurada a composse, bem como ter sido o promovente seguidas vezes instado a providenciar a citação do cônjuge virago, deixando de manifestar-se. A pretensão de modificar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.897.188/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. FALTA DE CITAÇÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO REGULAR E VÁLIDO DO PROCESSO. INTIMAÇÃO DO AUTOR. DESNECESSIDADE. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. 1. "A falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor" (AgInt no AREsp n. 1409923/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/6/2019, DJe 1/7/2019).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.509.749/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/10/2019, DJe de 5/11/2019.)
+Incidência da Súmula nº 568 do STJ.
+Sobre o tema:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. ARTS. 489, 927, III, e 1021, § 3º, do NCPC. TEMAS NÃO DEBATIDOS PELAS INSTÂNCIAS ORDINÁRIAS.
+INCIDÊNCIA DAS SÚMULAS N.os 282 E 356 DO STF. 2. COBRANÇA DE ASTREINTES. EXTINÇÃO DA EXECUÇÃO PELO ADIMPLEMENTO DA OBRIGAÇÃO. RECURSO CABÍVEL. APELAÇÃO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. PRECEDENTES. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DESTA CORTE. SÚMULA N.º 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O entendimento da origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça sendo aplicável a Súmula n.º 568 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.041.188/SP, de minha relatoria, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+(3) Dissídio jurisprudencial
+A parte não demonstrou a divergência jurisprudencial por meio do cotejo analítico com transcrição de trechos dos acórdãos recorrido e paradigmas que exponha a similitude fática e a diferente interpretação da Lei Federal entre os casos confrontados, conforme exigência dos arts. 1.029, § 1º do NCPC e 255, § 1º, do RISTJ, não bastando a mera transcrição da ementa dos julgados paradigmas, sendo este o entendimento pacífico nesta Corte de Justiça.
+Confira-se acórdão desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZE R C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.203.568/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE provimento.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. OMISSÃO. INEXISTÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. CITAÇÃO. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. INTIMAÇÃO PESSOAL. DESNECESIDADE. SUMULA Nº 568 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO .
