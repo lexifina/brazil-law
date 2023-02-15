@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de LUANA PEDRITA DE CAMPOS BARRETO em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que indeferiu o pedido de liminar formulado no HC n. 1001475-88.2023.8.11.0000.
+Consta nos autos a prisão em flagrante da paciente em 03/09/2022, posteriormente convertida em preventiva, decorrente de suposta prática do delito capitulado no art. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, nos termos em que denunciada.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual encontra-se despida de fundamentação idônea; ausentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP; revelam-se adequadas e suficientes as medidas cautelares alternativas, positivadas no art. 319 no mesmo diploma normativo; e cabível a substituição da prisão preventiva por domiciliar em razão de a paciente ser mãe de crianças que dependem de seus cuidados.
+Requer, assim, liminarmente e no mérito, a revogação da segregação cautelar em tela ou sua conversão em prisão domiciliar, ou, ainda, a imposição de medidas cautelares alternativas, não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, a decisão atacada não se revela teratológica, tendo em vista os seguintes fundamentos:
+Até aqui se estaria diante da regra do Writ paradigma e do citado artigo de lei, não fossem os fatos de que Luana, aparentemente, faz do Tráfico seu meio de vida, circunstâncias que, analisadas conjuntamente, são aptas a demonstrar que as crianças estavam inseridas em situação de risco e insegurança, já que expostas às atividades ilícitas cometidas pela genitora.
+E apenas por amor a causa, destaco que ao compulsar os autos de 1º grau, ao contrário do que alega o impetrante, verifiquei o Relatório de Estudo Psicossocial em que consta que os infantes estão sob os cuidados da avó materna, Sra. Luciana, que consta: "Sobre a filha Luana, a Sr.ª Luciana relata que esta escolheu a "vida torta", que sempre tentou ajudar a filha, dando conselhos, mas que foram em vão."
+O Relatório ainda atesta que "em situação de visita domiciliar percebeu-se afetividade entre os irmãos, uns cuidando dos outros, principalmente o infante PHCC de 10 anos é cuidadoso e afetuoso com o irmão menor. Observamos ainda, que o infante RVCB reconhece a avó como cuidadora, protetora, demonstra apego para com a avó materna". (Id. 9675104- Autos 1º grau).
+Desse modo, entendo que aparentemente, somente a privação de liberdade da Paciente é suficiente para coibir sua contumácia delitiva específica e, via reflexa, resguardar os interesses das crianças que convivem com as atividades ilícitas da mãe, não sendo, portanto, ao menos em liminar, o caso de "concessão de liberdade provisória" com ou sem medida cautelar, ou substituição da prisão preventiva por domiciliar (fls. 31/32 - grifos meu).
+Ademais, conforme ressaltado no parecer do Ministério Público (fls. 579-591):
+Ressumbram os autos que, em após recebimento de denúncia anônima, após minuciosa busca domiciliar, os investigadores encontraram uma mala preta e uma mochila rosa, escondidas embaixo da residência, em uma espécie deporão, e no interior dos objetos haviam 19 (dezenove) tabletes de maconha, além de adesivos associados ao Comando Vermelho (fl. 582 - grifo meu).
+Quanto ao requisito subjetivo (periculum libertatis), a periculosidade da requerente se extrai da gravidade concreta do delito, pois houve a apreensão de elevada quantidade de droga (16,060 kg de maconha), dentro da residência de Luana, onde também residiam seus filhos, circunstância apta a demonstrar a necessidade da segregação (fl. 582 - grifo meu).
+Ainda no que tange às circunstâncias subjetivas autorizadoras da prisão preventiva a periculosidade da requerente também restou demonstrada por sua insistência na prática de delitos, vez que, trata-se de reincidente, específico, condenada por tráfico de drogas (autos nº 0019513-49.2017.8.11.0042 - 9ª Vara Criminal), cuja pena ainda não foi integralmente cumprida (executivo nº 2000335-12.2019.8.11.0042/SEEU) (fl. 585 - grifo meu).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
