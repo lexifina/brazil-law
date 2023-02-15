@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Batista Moreira (Desembargador convocado do TRF1), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSÉ RAMOS DE AZEVEDO opõe embargos de declaração contra o acórdão de fls. 2.724-2.729, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 2.724):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. NECESSIDADE. ACÓRDÃO APONTADO COMO PARADIGMA. SIMPLES MENÇÃO AO DIÁRIO DA JUSTIÇA. NECESSIDADE DE INDICAÇÃO DA RESPECTIVA FONTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ressalvada diversa compreensão deste relator, a jurisprudência desta Corte firmou a orientação de que a simples menção ao Diário da Justiça em que foi publicado o acórdão paradigma, sem a indicação da respectiva fonte quando o julgado estiver disponível na rede mundial de computadores, não supre a exigência de citação do repositório oficial ou autorizado de jurisprudência nem da juntada de certidão ou de cópia autenticada.
+2. Agravo regimental não provido.
+Em suas razões, afirma o embargante que "a posição também fora adotada pela 3 a . Turma desta Corte quando do Julgamento dos Embargos de Divergência no RESp n. 430.810/SP., consoante do voto-vista do Ministro Fernando Gonçalves ao afirmar que poderá haver o acolhimento do dissenso pretoriano sem o cotejo analítico ou com citação de fontes do paradigma quando o mesmo for do próprio Tribunal segundo o contido no DJ de 18.11.2002" (fls. 2.732-2.733).
+Assinala que "em sendo a citação de repositório oficial que tenha apenas publicado a ementa do julgado paradigma, a verificação da divergência deve ser feita pelo conteúdo da própria ementa, abrindo desta forma o aspecto de excepcionalidade quando de sua apreciação" (fl. 2.734).
+Diante disso, requer "seja reconhecida a Contrariedade do Julgado diante da relativização do entendimento consoante do Agravo Regimental que restou improvido em razão da ausência de citação do repositório oficial quando se trata de paradigma firmado pela própria Corte mediante a alteração do julgado (fl. 2.737).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OBSERVÂNCIA AO ART. 266, § 4º, DO RISTJ. COMPROVAÇÃO DA DIVERGÊNCIA. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou devidamente explicitado no acórdão embargado que a simples menção ao Diário da Justiça, em que foi publicado o acórdão paradigma, sem a indicação da respectiva fonte quando o julgado estiver disponível na rede mundial de computadores, não supre a exigência de citação do repositório oficial ou autorizado de jurisprudência nem da juntada de certidão ou de cópia autenticada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, registro que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios, situação que não ocorre na espécie.
+De fato, ao contrário do qua afirma o embargante, o acórdão embargado deixou explicitado, com base em recente precedente desta Corte, que, a simples menção ao Diário da Justiça em que foi publicado o acórdão paradigma, sem a indicação da respectiva fonte quando o julgado estiver disponível na rede mundial de computadores, não supre a exigência de citação do repositório oficial ou autorizado de jurisprudência nem da juntada de certidão ou de cópia autenticada.
+Ante o exposto, à mingua de contradição, rejeito os embargos de declaração.
