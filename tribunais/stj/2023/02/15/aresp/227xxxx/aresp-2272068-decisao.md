@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEINDERK SANTOS DE MATOS (GEINDERK) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE DESPEJO - TUTELA ANTECIPADA CONCEDIDA - LEGITIMIDADE DO AGRAVADO COMPROVADA - INTERESSE DE AGIR - RECURSO NÃO PROVIDO.
+Presentes os requisitos da tutela antecipada deve ser mantida a decisão que a concedeu.(e-STJ, fl. 135)
+Irresignado, GEINDERK interpôs recurso especial com base no art. 105, III, alíneas a, da CF, apontando a violação aos arts. 18 do NCPC e 422 do CC/2002, ao sustentar (1) ilegitimidade ativa do recorrido; (2) violação aos princípios da probidade e boa-fé contratual.
+O recurso não foi admitido pelo TJMS.
+Nas razões do presente agravo, alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar .
+(1) Dos arts. 18 do NCPC e 422 do CC/2002
+No ponto, verifica-se que os citados preceitos não foram objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada. No caso, aplicam-se as Súmulas nºs 282 e 356 do STF .
+Nesse sentido:
+AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSOESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. VIOLAÇÕES DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EMPRESAS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITOS LEGAIS. AFERIÇÃO NA VIA DO RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ. 1 - Não incide a Súmula 182/STJ se a parte, no agravo, impugna os fundamentos da decisão que, na origem, não admitiu o recurso especial. Decisão da Presidência que merece reconsideração. 2 - Não decididas no acórdão recorrido as matérias afetas aos dispositivos tidos como violados, ressente-se o especial do necessário prequestionamento, atraindo o óbice das Súmulas 282 e 356 do STF. 3 - Firmado pelas instâncias ordinárias que estão presentes os requisitos legais para a desconsideração da personalidade jurídica, notadamente que há confusão entre o patrimônio da empresa que figura originariamente no polo passivo do cumprimento de sentença e as outras que fazem parte do mesmo grupo econômico, não há como elidir essas conclusões na via do recurso especial, ante o veto das Súmulas 5 e 7 do STJ. Julgados nesse sentido das duas Turmas que integram a Segunda Seção. 4 - Agravo interno provido, conhecendo do agravo para não conhecer do recurso especial. (AgInt no AREsp n. 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, j. em 8/8/2022, DJe de 26/8/2022 sem destaque no original.)
+Ademais, observa-se dos autos, que o acórdão recorrido manteve a antecipação de tutela concedida em primeira instância, diante da presença dos requisitos ensejadores da referida medida.
+Na linha da jurisprudência desta Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo. Incide, por analogia, a Súmula nº 735 do STF, in verbis: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Acrescente-se, que rever as conclusões adotadas pelo Tribunal estadual quanto ao preenchimento dos requisitos para a concessão da antecipação da tutela demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIMINAR PARA DESOCUPAÇÃO DE IMÓVEL COMERCIAL (LEI 8.245/91, ART. 59, § 1º, VIII). INDEFERIMENTO. DISCUSSÃO SOBRE OS REQUISITOS. INCIDÊNCIA DA SÚMULA 735 DO STF E DAS SÚMULAS 5 E 7 DO STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO (SÚMULA 283/STF). AÇÃO DE DESPEJO. DENÚNCIA VAZIA. LOCAÇÃO DE POSTO DE COMBUSTÍVEIS E DE SERVIÇOS. RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido liminar ou antecipação de tutela, em razão da natureza precária da decisão, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (CPC/2015, art. 300, e Lei 8.245/91, art. 59, § 1º), e não violação à norma que diga respeito ao mérito da causa.
+2. No caso, o Tribunal de origem, considerando as circunstâncias da causa, em particular a aparente existência de pluralidade de contratos diversos do de locação entre as partes, concluiu não estarem presentes os requisitos para a concessão de medida liminar para a desocupação do imóvel, apontando, ainda, possível irreversibilidade da medida.
+3. Nesse contexto, a modificação do entendimento firmado no acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, assim como a interpretação de cláusulas contratuais, inviável em sede de recurso especial, a teor das Súmulas 5 e 7 do STJ.
+4. No mais, a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo do aresto recorrido atrai o óbice da Súmula 283 do STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.309.161/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/9/2020, DJe de 14/9/2020 - sem destaques no original.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+LOCAÇÃO. AGRAVO EM RECURSO ESPECIAL. NO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS LEGAIS ARROLADOS. SÚMULAS NºS 282 E 356 DO STF. ANTECIPAÇÃO DA TUTELA. REQUISITOS. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO QUE DEFERIU ANTECIPAÇÃO DA TUTELA. INCIDÊNCIA DAS SÚMULAS NºS 735 DO STF E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
