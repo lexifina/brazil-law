@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno contra decisão monocrática de fls. 2.821-2.824, que determinou o retorno dos autos ao Tribunal de origem, com fundamento no art. 1.040 do CPC, sob a justificativa de que a matéria deduzida, qual seja, a exigibilidade do PIS e da COFINS sobre as receitas financeiras das instituições financeiras, seria a mesma objeto do Recurso Especial 609.096, submetido à sistemática de repercussão geral (Tema 372).
+A recorrente alega que, não obstante a discussão no Supremo Tribunal Federal englobando instituições financeiras, a discussão nos autos é distinta, relacionada à incidência do PIS e da COFINS sobre as receitas financeiras decorrentes dos investimentos realizados com as reservas técnicas das seguradoras.
+Ressalta, ainda, que eventual conclusão do Supremo Tribunal Federal favorável ao posicionamento do Fisco não irá resolver a discussão posta nestes autos, visto que aqui se discute se as receitas financeiras decorrentes das aplicações financeiras das reservas técnicas são derivadas das atividades típicas das seguradoras e, consequentemente, se estão sujeitam ou não à incidência do PIS e da COFINS.
+De fato, possui razão a recorrente, razão pela qual torno sem efeito a decisão monocrática de fls. 2.821-2.824, julgo prejudicado o agravo interno e, com fundamento no art. 253, II, d, RISTJ, conheço do agravo em recurso especial para determinar a sua autuação como recurso especial.
+Após a publicação e as intimações pertinentes, tornem-se os autos conclusos para apreciação do recurso especial.
+Publique-se. Intimem-se.
