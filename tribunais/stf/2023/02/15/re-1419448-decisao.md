@@ -1,0 +1,39 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 1.234. DIREITO À SAÚDE. MEDICAMENTOS NÃO PADRONIZADOS PELO SISTEMA ÚNICO DE SAÚDE – SUS. INCLUSÃO DA UNIÃO NO POLO PASSIVO. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal de Ubá - MG:
+
+    “Trata-se de recurso inominado onde o recorrente pretende a reforma da sentença que julgou procedente o pedido inicial, determinando ao MUNICÍPIO VISCONDE DO RIO BRANCO e ao ESTADO DE MINAS GERIAS a entrega do medicamento ALLURENE requerido pela autora. (...) Quanto à preliminar arguida pelo recorrente, registro de início que a Constituição Federal prevê a responsabilidade solidária de todos os entes federados quanto ao serviço de saúde. De fato, o art. 198 institui um sistema único, composto por uma rede regionalizada e hierarquizada, com direção única em cada esfera do governo (art. 198, I, da CRFB/88). No âmbito dos Municípios, entes federados também responsáveis pela assistência à saúde e garantidores do acesso universal e igualitário do cidadão aos serviços a ela inerentes, a direção é exercida pela respectiva Secretaria de Saúde ou órgão equivalente (art. 9º, III, da Lei nº 8.080/90). O sistema de compartilhamento de competências, tal como estabelecido no art. 23, II, da Constituição da República Federal do Brasil/88, reserva competência concorrente ao município, para avaliar as ações e a forma de execução dos serviços públicos relativos à saúde em prol dos municípios. Na qualidade de gestor do sistema de saúde pública, cabe ao Município, através da Secretaria Municipal de Saúde, garantir atendimento aos munícipes acometidos por doenças que carecem de recursos para o necessário tratamento da saúde. Este é seu dever institucional inadiável, ainda que sua atividade deva obediência às regras gerais previamente estabelecidas pelo Ministério da Saúde. Desta forma é inegável e inafastável a legitimidade passiva do Município para responder, na esfera judicial , pelos atos comissivos e omissivos a ele atribuídos, independentemente da presença, no polo passivo, do Estado ou da União, contra os quais pode pleitear o ressarcimento posteriormente, se for o caso. (...) Feitas tais ponderações, REJEITO a preliminar, passando ao exame do mérito propriamente dito, eis que presentes todas as condições da ação, assim como os pressupostos processuais. No mérito, o recurso não prospera, cabendo registrar que a sentença analisou com muita propriedade todos os pontos controvertidos da demanda. Verifica-se dos documentos apresentados pela parte autora com a inicial comprovam que ela é portadora de doença grave e que tem indicação de fazer uso de medicação contínua. A pretensão da parte autora tem arrimo no ordenamento constitucional (art. 196/200 da CF), que prevê o atendimento integral à saúde (art. 198, II) também previsto, como não poderia deixar de ser, na legislação infra-constitucional ( Lei nº 8.080/90, art. 7°, II). Como se verifica, a obrigação do Poder Público de garantir a prestação do serviço de saúde postulado pelo autor decorre de mandamento constitucional, e se assenta no princípio da integralidade, segundo o qual a ‘atenção à saúde deve levar em consideração as necessidades específicas de pessoas ou grupos de pessoas, ainda que minoritários em relação ao total da população. Ou seja, a cada qual de acordo com suas necessidades, inclusive no que pertine aos níveis de complexidade diferenciados’ (SUS, princípios e conquistas, MS, Brasília, 2000). (...) Quanto à alegação de que a parte autora não demonstrou que o uso da medicação requerida é o único tratamento possível, anoto que o pedido está embasado em relatório médico que aponta para a necessidade do uso contínuo da medicação prescrita. Em sendo assim, caberia ao réu produzir prova contrária, no sentido de desconstituir a presunção de veracidade gerada pelo documento firmado pelo médico assistente, porém isso não ocorreu. ISTO POSTO, NEGO PROVIMENTO AO RECURSO, mantendo a sentença monocráticas por seus próprios fundamentos. (....)” (fls. 7-12, e-doc. 13).
+
+      Os embargos declaratórios opostos foram rejeitados (e-doc. 16).
+
+    2. O recorrente alega ter o Tribunal de origem contrariado os arts. 196 e 198 da Constituição da República e argumenta que, “levando em consideração que o medicamento pleiteado pela autora enquadra-se nos medicamentos de alto custo e de uso contínuo, é imprescindível conscientizar que a responsabilidade pela aquisição de medicamentos de alto custo é da União e dos Estados-Membros, e o papel dos Municípios é apenas de promover a sua entrega ao paciente” (fl. 9, e-doc. 18).
+
+    Sustenta que “a pretensão do paciente em face dos municípios maltrata o princípio da indisponibilidade do interesse público, que se encontra agregado ao da supremacia do mesmo interesse” (fl. 19, e-doc. 18).
+
+    Pede “seja o recurso recebido e provido para reconhecer não haver responsabilidade do Município no fornecimento do medicamento pleiteado na exordial, reformando decisão recorrida” (fl. 23, e-doc. 18).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Este processo deve retornar à Turma Recursal de origem, para observância da sistemática da repercussão geral.
+
+    4. Em 8.9.2022, no julgamento do Recurso Extraordinário n. 1.366.243-RG, Tema 1.234, Relator o Ministro Luiz Fux, este Supremo Tribunal reconheceu a repercussão geral da controvérsia sobre a “legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária – ANVISA, mas não padronizados no Sistema Único de Saúde – SUS”:
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA – ANVISA, MAS NÃO PADRONIZADOS NO SISTEMA ÚNICO DE SAÚDE – SUS. INTERESSE PROCESSUAL DA UNIÃO. SOLIDARIEDADE DOS ENTES FEDERADOS. COMPETÊNCIA PARA PROCESSAMENTO DA CAUSA. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 13.9.2022).
+
+    Reconhecida a repercussão geral do tema suscitado no recurso extraordinário, os autos deverão retornar à origem, para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+
+    5. Considerando a falta de razoabilidade da suspensão do medicamento, com base nos princípios da dignidade da pessoa humana e do direito fundamental à saúde, deve ser mantido o fornecimento ao paciente, na forma deferida na origem, até o julgamento de mérito do Tema 1.234 de repercussão.
+
+    6. Pela irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (ARE n. 862.406-AgR-Segundo, Relator o Ministro Edson Fachin, Segunda Turma, DJe 15.2.2019; ARE n. 1.129.179-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 31.7.2018; Pet n. 7.152-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 16.10.2018; e RE n. 607.100-ED, Relator o Ministro Luiz Fux, Primeira Turma, DJe 5.9.2017), determino a devolução dos autos à origem, para observância do art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal, mantido o fornecimento do medicamento ao paciente até o julgamento do mérito da matéria trazida na espécie, enquanto perdurar a necessidade do interessado.
+
+    Publique-se.
+
+    Brasília, 15 de fevereiro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
