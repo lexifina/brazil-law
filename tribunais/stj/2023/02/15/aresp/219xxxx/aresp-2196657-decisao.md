@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por MPE Montagens e Projetos Especiais S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravante propôs embargos à execução, julgados improcedentes.
+Interposta apelação pela ora insurgente, a Décima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 147):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. DUPLICATAS. SENTENÇA DE IMPROCEDÊNCIA. APELO DO EMBARGANTE 1. Apelante reconhece ter tido relação comercial com a exequente, entretanto, alega que não há prova do suposto débito e que não deve nenhum valor à recorrida. 2. Execução instruída com as duplicatas e notas fiscais da compra das mercadorias, estando os títulos devidamente protestados. Há assinatura de preposto da apelante confirmando o recebimento da mercadoria. 3. Restou comprovado que a apelante adquiriu as mercadorias e que as mesmas foram entregues, sendo devido o valor executado. Cabia à embargante comprovar que pagou o valor indicado, ônus do qual não se desincumbiu. Sentença que se mantém. Recurso conhecido e improvido, nos termos do voto do Desembargador Relato
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação do art. 373, I, do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ausência de provas dos fatos constitutivos do direito da recorrida, tendo em conta que não lhe caberia comprovar o cumprimento da contraprestação do negócio.
+Sem contrarrazões, fl. 249 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 272 (e-STJ).
+Reconsiderada a decisão da Presidência do Superior Tribunal de Justiça, foi o feito redistribuído a esta relatoria.
+Brevemente relatado, decido.
+De início, observa-se que a jurisprudência deste Superior Tribunal é no sentido de que ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução.
+Ilustrativamente:
+PROCESSUAL CIVIL E EMPRESARIAL. TÍTULOS DE CRÉDITO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PARCIALMENTE PROCEDENTES. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. DUPLICATA SEM ACEITE. PRESTAÇÃO DE SERVIÇOS. PROTESTO. ACÓRDÃO QUE CONCLUIU PELA COMPROVAÇÃO DA PRESTAÇÃO DOS SERVIÇOS. TÍTULO HÁBIL A FUNDAMENTAR AÇÃO DE EXECUÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO CONTRATUAL APTO A AFASTAR A CERTEZA, LIQUIDEZ E EXIGIBILIDADE DOS TÍTULOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos nos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A jurisprudência deste Tribunal Superior é no sentido de que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução.
+3. No caso em análise, o Tribunal de origem concluiu que, apesar de não possuírem o aceite do devedor, as duplicatas foram devidamente protestadas e a parte embargada/agravada comprovou a efetiva prestação dos serviços de pintura descritos nas notas fiscais, de modo que os títulos ostentam os elementos necessários para lastrear a demanda executiva, asseverando que, ao assinar as notas fiscais, a agravante concordou com a prestação dos serviços e valores ali devidos, e anuiu com o seu pagamento.
+4. A alteração do entendimento do acórdão estadual, sob o fundamento de descumprimento contratual apto a afastar a certeza, liquidez e exigibilidade das duplicatas, demandaria a interpretação de cláusulas contratuais e revolvimento do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.567.366/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 26/5/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS. EXECUÇAO. DECISÃO CONTRÁRIA AOS INTERESSES DO AGRAVANTE NÃO CARACTERIZA OMISSÃO. EXEGIBILIDADE DO TÍTULO EXECUTIVO. PROTESTO. NULIDADE. SÚMULA 7 DO STJ. INOVAÇÃO RECURSAL. PREQUESTIONAMENTO NÃO CARACTERIZADO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+2. Não há falar, na hipótese, em violação aos arts. 489 e 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida (AgInt no AREsp 1046644/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 11/09/2017).
+3. A alteração das premissas do acórdão, no sentido de perquirir sobre a nulidade do protesto ou mesmo a inexigibilidade dos títulos executados dependeria de incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no veto da Súmula 7 desta Corte.
+4. Predomina neste Tribunal Superior que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução. Incidência da Súmula 83/STJ.
+5. Quanto à violação ao art. 20 do CPC/73, aplicação da Súmula 211 do STJ é medida que se impõe já que a inexistência de carga decisória a respeito da matéria impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.519.538/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/12/2020, DJe de 15/12/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICATA SEM ACEITE. TÍTULO EXECUTIVO. CONFIGURAÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ.
+1. A duplicata sem aceite devidamente protestada e acompanhada dos documentos suficientes para comprovar a entrega das mercadorias é título hábil a aparelhar processo de execução.
+2. O reexame da conclusão do acórdão acerca da higidez do título executivo, diante da comprovada realização do negócio jurídico, encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 921.529/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/9/2016, DJe de 30/9/2016.)
+Na espécie, o Tribunal de Justiça, observadas as peculiaridades da causa, ao concluir ser devido o valor executado, apresentou os seguintes fundamentos (e-STJ, fls. 150-151):
+Trata-se de embargos à execução opostos em razão da cobrança de dívida no valor de R$ 208.600,01. O apelante reconhece ter tido relação comercial com a exequente, entretanto, alega que não há prova do suposto débito e que não deve nenhum valor à recorrida.
+De acordo com o artigo 784, I do CPC são títulos executivos extrajudiciais a letra de câmbio, a nota promissória, a duplicata, a debênture e o cheque.
+Para a propositura da execução, a lei exige determinados requisitos, dentre eles, que o título seja certo, líquido e exigível e, no caso de duplicatas, que estas tenham sido aceitas ou que estejam acompanhadas dos comprovantes de entrega das mercadorias.
+(..)
+A inicial da execução foi instruída com as duplicatas e notas fiscais da compra das mercadorias, estando os títulos devidamente protestados, conforme fls. 18 e 20 dos autos da execução.
+Ademais, há assinatura de preposto da embargante confirmando o recebimento da mercadoria. A exequente comprovou que a pessoa que assina o recebimento da mercadoria é preposto da embargante. Por outro lado, a embargante não impugnou a referida assinatura.
+Portanto, restou comprovado que a embargante adquiriu as mercadorias e que as mesmas foram entregues, sendo devido o valor executado. Cabia à embargante comprovar que pagou o valor indicado, ônus do qual não se desincumbiu.
+Como se vê, o acórdão recorrido deu solução à controvérsia por meio de minuciosa análise do contexto fático-probatório que guarnece os autos.
+A pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demanda o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgamento da causa, como se o STJ fosse uma terceira instância revisora e o especial pudesse ser transmudado em uma apelação da apelação.
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da execução.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DUPLICATAS. PRESTAÇÃO DE SERVIÇOS. PROTESTO. ACÓRDÃO QUE CONCLUIU PELA COMPROVAÇÃO DA PRESTAÇÃO DOS SERVIÇOS. TÍTULO HÁBIL A FUNDAMENTAR AÇÃO DE EXECUÇÃO. PROVAS DOS FATOS CONSTITUTIVOS DO DIREITO. PRETENSÃO DE ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
