@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COTRIL AGROPECUÁRIA LTDA (COTRIL AGROPECUÁRIA), COTRIL MÁQUINAS E EQUIPAMENTOS LTDA (COTRIL MÁQUINAS), DOMINGOS PEREIRA DE AVILA JUNIOR (DOMINGOS), e HENRIQUE PEREIRA DE AVILA (HENRIQUE) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Distrito Federal assim ementado:
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PREJUDICADO. PROCESSUAL CIVIL. CUMPRIMENTO. SENTENÇA. TÍTULO EXECUTIVO JUDICIAL. SENTENÇA HOMOLOGATÓRIA. ACORDO. DESCUMPRIMENTO. REMISSÃO. INEXISTÊNCIA. EXIGIBILIDADE. COISA JULGADA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REAPRECIAÇÃO DA MATÉRIA. IMPOSSIBILIDADE. PRECLUSÃO. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA.
+1. Julgado o mérito do agravo de instrumento, resta prejudicado o agravo interno interposto da decisão que examinou o pedido liminar de concessão de efeito suspensivo ao recurso.
+2. A tese de inexigibilidade da obrigação representada por título executivo judicial é matéria passível de alegação em sede de impugnação ao cumprimento de sentença.
+3. Constatado o descumprimento de obrigação estabelecida em acordo homologado judicialmente por decisão transitada em julgado, assiste ao credor a possibilidade de exigir o seu cumprimento forçado por meio do respectivo cumprimento de sentença, afastada a tese de inexigibilidade, salvo a hipótese prevista no artigo 525, §12º, do Código de Processo Civil, na qual não se enquadra o presente caso.
+4. É inviável a rediscussão, através de exceção de pré-executividade, de matéria defensiva já deduzida e apreciada em sede de impugnação ao cumprimento de sentença.
+5. O manejo de exceção de pré-executividade e a interposição de agravo de instrumento para rediscussão de matéria preclusa, pois apreciada anteriormente em sede de apelação e recurso especial, representa nítido intuito de opor resistência injustificada ao andamento do processo, a justificar a imposição de multa por litigância de má-fé.
+6. Recurso parcialmente conhecido e, na parte conhecida, desprovido (e-STJ, fls. 136/161).
+Irresignados, COTRIL AGROPECUÁRIA e OUTROS interpuseram recurso especial com base no artigo 105, III, alíneas a e c, da CF, apontando a violação aos artigos 467, 471, 473, 474, 794 inciso II, 795, 803 CPC/73 ao sustentar que: (1) a sentença que se busca cumprimento foi extinta com fundamento no artigo 794, II, CPC/73, ou seja, com reconhecimento da remissão, ocorrendo a coisa julgada; (2) é possível a discussão sobre a legitimidade do título, visto que o acórdão anterior foi específico em dirimir a competência para processamento do acordo; (3) a cláusula que estabeleceu a rescisão do contrato autorizaria o ajuizamento da ação de execução e não o cumprimento de sentença; (4) a novação da dívida acarreta a extinção do processo. Suscitou ainda a divergência jurisprudencial, pois não é possível o prosseguimento da execução por estar coberta pela coisa julgada material.
+Foram apresentadas contrarrazões (e-STJ, fls. 251/263).
+O recurso não foi admitido pelo Tribunal de Justiça do Distrito Federal (e-STJ, fls. 274/275).
+Nas razões do presente agravo, COTRIL AGROPECUÁRIA e OUTROS alegaram que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 311/327).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da coisa julgada
+Em suas razões recursais, COTRIL AGROPECUÁRIA e OUTROS alegaram que (1) a sentença que se busca cumprimento foi extinta com fundamento no artigo 794, II, CPC/73, ou seja, com reconhecimento da remissão, ocorrendo a coisa julgada; (2) é possível a discussão sobre a legitimidade do título, visto que o acórdão anterior foi específico em dirimir a competência para processamento do acordo; (3) a cláusula que estabeleceu a rescisão do contrato autorizaria o ajuizamento da ação de execução e não o cumprimento de sentença.
+Sobre o tema, o Tribunal do Distrito Federal se manifestou nos seguintes termos:
+Entretanto, apesar de sustentar a referida tese de defesa em exceção de preexecutividade, os agravantes/executados partem de premissa equivocada ao afirmarem que a existência de acordo homologado judicialmente, por si só, impediria a exigibilidade da obrigação, objeto do cumprimento de sentença, visto que esse está lastreado justamente no descumprimento da obrigação novada e não adimplida pelos ora recorrentes.
+A inexigibilidade do presente título deveria estar atrelada, portanto, às hipóteses de cumprimento da obrigação ou da existência de termo, ambas não verificadas no caso concreto, pois as partes efetuaram o acordo de ID 5931908, do processo sob referência, e, diante do descumprimento do acordo, o exequente solicitou o prosseguimento da execução, nos termos que restou acordado na cláusula 20, do referido acordo.
+Ao contrário do alegado, não houve remissão de dívida, mas desistência de outros feitos que tramitavam em juízos diversos, bem como o parcelamento do valor total da dívida.
+Portanto, constatado o descumprimento de obrigação estabelecida em acordo homologado judicialmente por decisão transitada em julgado, assiste ao credor a possibilidade de exigir o seu cumprimento forçado por meio do respectivo cumprimento de sentença, afastada a tese de inexigibilidade, salvo a hipótese prevista no artigo 525, §12º, do Código de Processo Civil, na qual não se enquadra o presente caso (e-STJ, fls. 145/146).
+De acordo com as informações constantes nos autos é possível constatar que o cumprimento de sentença anteriormente proposto foi objeto de acordo entre as partes, homologado judicialmente, sendo o processo extinto nos termos do artigo 794, II, CPC/73.
+Inadimplido o pacto pelos devedores, torna-se totalmente legítima a propositura de cumprimento de sentença com amparo na decisão homologatória do acordo, conforme já decidiu esta Corte Superior:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EMBARGOS DE DECLARAÇÃO. NULIDADE. AUSÊNCIA. ACORDO CELEBRADO. ASSISTÊNCIA DE ADVOGADO. HOMOLOGAÇÃO POR SENTENÇA. TÍTULO EXECUTIVO JUDICIAL. DESCUMPRIMENTO PARCIAL. PROSSEGUIMENTO. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. Qualquer pessoa dotada de capacidade civil pode constituir título executivo extrajudicial, como é o caso do acordo para pôr fim ao litígio executivo anterior, sem a assistência de advogado.
+3. Uma vez apresentado ao juízo para homologação, a sentença converte o título executivo extrajudicial em judicial, pois tem o efeito de suspender a tramitação da execução em curso.
+4. Não cumprido integralmente o acordo, prossegue a execução pelo saldo restante.
+5. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 121.017/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 1/3/2018, DJe de 9/3/2018, sem destaque no original.)
+E não obstante a sentença homologatória tenha extinto o processo com fundamento no artigo 794, II, CPC/73, nem com a melhor das boas vontades é possível reconhecer que houve a remissão da dívida, pois apenas foi feito um acordo com novas condições de pagamento, sem qualquer intenção de extinção da obrigação.
+Tanto é assim, que a própria cláusula 20 da avença copiada nas razões do apelo nobre (e-STJ, fls. 188) indica que, na hipótese de atraso no cumprimento das obrigações, o acordo seria reputado rescindido, facultando ao credor o ajuizamento da execução.
+Portanto, fácil concluir que no caso dos autos, o dispositivo do acordo com lastro no artigo 794, II, CPC/73 deve ser interpretado com parcimônia, de forma lógico sistemática, até porque o sentido literal da remissão está totalmente desconectado da realidade.
+A juriprudência do Egrégio STJ já teve a oportunidade de se manifestar sobre a alegação de ofensa à coisa julgada quando aplicada ao dispositivo da sentença, conforme precedente abaixo indicado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE OFENSA À COISA JULGADA.
+1. Consoante cediço nesta Corte, revela-se possível ao relator decidir o recurso de forma monocrática se baseado em jurisprudência dominante do STJ ou do Supremo Tribunal Federal. Ademais, uma vez facultada ao prejudicado a via do agravo interno a ser apreciado pelo órgão colegiado, fica superada eventual mácula na deliberação unipessoal.
+2. O dispositivo da sentença, comando atingido pela eficácia preclusiva da coisa julgada, deve ser interpretado de forma lógica, de acordo com as premissas que lhe conferem alicerce. Assim, o artigo 469 do CPC de 1973, ao estabelecer as partes da sentença não abarcadas pela res judicata, pretendeu retirar a imutabilidade das questões que compõem os fundamentos jurídicos aduzidos pelo autor, enfrentados pelo réu e decididos pelo juiz. Porém, não retira os efeitos da coisa julgada das premissas essenciais à matriz lógica da decisão, mediante a qual se alcançou o comando normativo contido no dispositivo da sentença.
+3. Caso concreto em que as instâncias ordinárias limitaram-se a dar interpretação lógico-sistemática ao comando condenatório, sem incorrer em ofensa à coisa julgada.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.333.200/MS, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 14/8/2018, DJe de 21/8/2018, sem destaque no original.)
+Portanto, totalmente inócua a alegação de que a transgressão do pacto daria ensejo ao ajuizamento da ação de execução propriamente dita, tendo em vista que o acordo homologado judicialmente constitui título judicial, passível de cumprimento de sentença, sendo irrelevante na hipótese em tela a nomenclatura utilizada.
+(2) Da novação
+COTRIL AGROPECUÁRIA e OUTROS alegaram ainda que a novação da dívida acarreta a extinção do processo.
+No que tange à discussão sobre a novação não houve o necessário prequestionamento, tendo em vista que não foi objeto de debate pelo Tribunal estadual.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável assim, por analogia, a incidência da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. INDENIZAÇÃO NEGADA. CONHECIMENTO DA DOENÇA PREEXISTE E OMITIDA QUANDO DA CONTRATAÇÃO DO SEGURO. MÁ-FÉ. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ. DANO MORAL. PREQUESTIONAMENTO AUSENTE, SÚMULA 282 DO STF.
+1. Não comporta revisão, em recurso especial, as conclusões firmadas pelo Tribunal local, acerca da existência de má-fé do segurado. Incidência da Súmula 7 do STJ.
+2. Atrai a incidência analógica do enunciado sumular n. 282 do STF, quando a questão federal suscitada não foi tratada na decisão proferida pelo Tribunal de origem, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento.
+3. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 2.025.853/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/8/2022, DJe de 1/9/2022 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS C.C. PEDIDO DE TUTELA ANTECIPADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA REQUERIDA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não foram sequer opostos embargos de declaração na origem. Incidência das Súmulas 282 e 356 do STF, aplicáveis também ao dissídio jurisprudencial.
+2. Derruir a afirmação contida no decisum atacado, para acolher o inconformismo recursal no sentido de verificar a ausência de configuração dos danos alegados, como pretende a recorrente, ensejaria em rediscussão de matéria fática, providência vedada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.838.305/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022 - sem destaque no original)
+(3) Do dissídio jurisprudencial
+O dissídio jurisprudencial não pode ser conhecido porque não realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+A propósito, veja-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL. COMPETÊNCIA DE JUÍZO PLANTONISTA. DIREITO LOCAL. SÚMULA 280/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. SIMILITUDE FÁTICANÃO DEMONSTRADA. SÚMULA7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno não provido.
+(AgInt no REsp 1.951.040/AM, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 29/11/2021, DJe 1º/12/2021 - sem destaques no original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do apelo nobre e, nesta extensão, NEGAR PROVIMENTO ao recurso.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO JUDICIAL DE ACORDO. 1. REMISSÃO DA DÍVIDA. NÃO RECONHECIMENTO. DESCUMPRIMENTO DE ACORDO QUE AUTORIZA A COBRANÇA DO DÉBITO POR MEIO DE CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE DE INTERPRETAÇÃO DO DISPOSITIVO DE FORMA LÓGICO-SISTEMÁTICA SEM VIOLAÇÃO À COISA JULGADA. 2. NOVAÇÃO DO DÉBITO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282, DO STF. 3. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
