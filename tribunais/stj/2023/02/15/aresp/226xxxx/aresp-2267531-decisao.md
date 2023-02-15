@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial em razão do óbice das Súmulas 83 e 7, do STJ.
+No presente agravo em recurso especial, a parte alega que (i) o recurso especial trata unicamente dos vícios interpretativos do colegiado acerca de dispositivos legais e também da ausência da análise de alguns dispositivos; (ii) não incide a Súmula 83/STJ, pois a situação dos autos é diferente da considerada na jurisprudência do STJ, sendo que "o acórdão recorrido foi omisso ao afirmar a existência de grupo econômico de fato, mas não se referir em nenhum momento aos quadros societários das empresas, a inexistência de desempenho de igual atividade, a inexistência de sede ou filial da IMCOPA no mesmo endereço das outras empresas, e não analisar que as empresas não possuíam patrimônio único".
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (i) incidência da Súmula 7/STJ; (ii) incidência da Súmula 83/STJ.
+Ocorre que a agravante não impugnou, especificamente, o fundamento da decisão de inadmissibilidade, o que acarreta o não conhecimento do agravo. Isso porque os argumentos ora apresentados são meras alegações genéricas de não incidência das referidas súmulas.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+Assim, a falta de impugnação específica ou a insurgência genérica contra fundamento adotado na decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa era a determinação que estava contida no artigo 544, § 4º, I, do CPC/1973, e que agora vem estabelecida no artigo 932, III, do CPC/2015 e artigo 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+É pacífico nesta Corte que, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. AGRAVO NÃO CONHECIDO
