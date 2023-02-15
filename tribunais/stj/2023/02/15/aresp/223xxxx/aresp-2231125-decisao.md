@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CARE PLUS MEDICINA ASSISTENCIAL LTDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/08/2022.
+Concluso ao gabinete em: 06/12/2022.
+Ação: de obrigação de fazer ajuizada por GILMARA DE SAOUZA DO NASCIMENTO em face da agravante visando o custeio e fornecimento do medicamento Enoxoprina 60 mg (Clexane ou Versa) para tratamento de trombofilia na gestação, bem como a cobertura do exame Dímero D.
+Sentença: julgou procedente a demanda para condenar a agravante no fornecimento e custeio da medicação e a autorização do exame prescrito.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. APELADA DIAGNOSTICADA COM TROMBOFILIA NA GESTAÇÃO. FORNECIMENTO DO MEDICAMENTO ENOXOPRINA 60MG (CLEXANE OU VERSA) E PRESCRIÇÃO DE EXAME MENSAL(DÍMERO D). LIMITAÇÃO CONTRATUAL. ROL DE PROCEDIMENTOS DA ANS. DIREITO FUNDAMENTAL QUE NÃO PODE SER OBSTADO POR CLÁUSULA CONTRATUAL LIMITATIVA. BOA-FÉ OBJETIVA. SÚMULAS 338 E 340. Controvérsia acerca do fornecimento do medicamento ENOXOPRINA 60MG (CLEXANE OU VERSA)e autorização para a realização do exame Dímero D, mensalmente, prescritos para paciente acometida de trombofilia, grávida, e que já havia apresentado perdas fetais. Recusa fundamentada em alegação de limitação contratual e exclusão de cobertura para custeio do medicamento fora do âmbito hospitalar. Interpretação das cláusulas de contrato de plano de assistência à saúde que deve ser feita à luz da boa-fé objetiva. Laudos médicos acostados aos autos atestando que se trata de gestação de alto risco, além da necessidade do fármaco, da forma prescrita, e do exame mensal. Conhecimento e desprovimento do recurso.
+Recurso especial: alega violação dos arts. 10, VI, §§ 1º e 4º e 12 da Lei 9656/98 e 4º, III, da Lei 9961/2000. Sustenta a legalidade da exclusão de cobertura de medicamento de uso domiciliar, não previsto no rol da ANS e com expressa exclusão contratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de obrigação de a operadora de plano de saúde custear medicamento para tratamento domiciliar
+Ambas as Turmas que compõem a Segunda Seção do STJ, independentemente da discussão a respeito da natureza do rol da ANS, já decidiram que "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, 3ª Turma, julgado em 27/4/2021, DJe de 4/5/2021; e REsp 1.883.654/SP, 4ª Turma, julgado em 08/6/2021, DJe de 02/8/2021).
+Nesse mesmo sentido, colhe-se os seguintes precedentes: AgInt no AREsp 2.058.484/MG, 4ª Turma, DJe de 26/8/2022; AgInt no REsp 1.981.905/MG, 3ª Turma, DJe de 17/8/2022; AgInt no REsp 1.973.853/SP, 4ª Turma, DJe de 11/5/2022; e AgInt no REsp 1.939.973/MG, 3ª Turma, DJe de 29/9/2021.
+Constata-se, pois, que o entendimento do TJ/RJ que determinou a cobertura do medicamento domiciliar, está em desarmonia com a orientação desta Corte, sendo forçoso concluir que não há obrigatoriedade de custeio pela operadora do plano de saúde.
+Logo, merece reforma o acórdão recorrido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para julgar improcedentes os pedidos contidos na petição inicial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO MEDICAMENTOSO DOMICILIAR. NEGATIVA DE COBERTURA. MEDICAMENTO PARA TRATAMENTO DOMICILIAR. COBERTURA OBRIGATÓRIA. INEXISTÊNCIA.
+1. Ação de obrigação de fazer visando a cobertura de medicamento domiciliar Enoxoparina.
+2. Segundo a jurisprudência desta Corte, é lícita a negativa de cobertura de medicamento para tratamento domiciliar que não se enquadre em nenhuma das hipóteses de cobertura determinadas pela Lei 9.656/1 998.
+3. Agravo conhecido. Recurso especial conhecido e provido.
