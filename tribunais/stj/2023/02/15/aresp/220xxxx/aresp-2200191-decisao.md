@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por TRISUL S/A, CASTELBLANCO EMPREENDIMENTOS IMOBILIARIOS SPE LTDA e TRISUL VENDAS CONSULTORIA EM IMOVEIS LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/12/2021.
+Concluso ao gabinete em: 25/10/2022.
+Ação: de obrigação de fazer cumulada com reparação por dano material e compensação por dano moral, ajuizada pelos agravados, em face das agravantes, na qual alegam, que celebraram contrato de compra e venda de imóvel com as agravantes e que este lhes foi entregue sem as condições mínimas de habitabilidade, uma vez que o sistema hidráulico não estava funcionando à época, o que os impediu de usufruir do imóvel pelo período de 14 (quatorze) meses, assim como a existência de cobranças indevidas. Pleiteiam sejam as agravantes compelidas a sanar o problema descrito na inicial, bem como reparação por dano material e compensação por dano moral.
+Sentença: julgou parcialmente procedentes os pedidos, para: (i) determinar que as agravantes consertem o problema existente no sistema hidráulico da unidade condominial adquirida pelos agravados; (ii) condenar as agravantes ao pagamento de lucros cessantes; (iii) condenar as agravantes, de forma solidária, a pagarem aos agravados o valor equivalente a 2% sobre o valor do imóvel (R$ 484.500,00) pelo período de 14 meses; (iv) condenar as agravantes à devolução da comissão de corretagem e da taxa SATI; (v) condenar as agravantes, de forma solidária, a devolverem aos agravados o valor de R$ 33.900,00 (trinta e três mil e novecentos reais); (vi) assim como para condenar as agravantes à reparação por danos morais e condeno no valor de R$ 7.000,00 (sete mil reais) para cada agravado.
+Acórdão: deu parcial provimento à apelação interposta pelas agravantes, nos termos da seguinte ementa:
+APELAÇÃO. Ação indenizatória. Compra e venda de bem imóvel. Sentença de parcial procedência. Inconformismo da parte ré. Preliminar de ilegitimidade passiva. Não acolhimento. Integrantes do polo passivo que, pela teoria da aparência, formam uma unidade perante o consumidor, respondendo solidariamente. Mérito. Alegação de que não houve mora na entrega do bem, pois as chaves haviam sido entregues. Não acolhimento. Provas que demonstram vícios construtivos que impediam a habitabilidade da unidade. Inadimplemento da obrigação caracterizado. Inversão da cláusula penal legítima, afastando-se, contudo, a condenação concomitante em lucros cessantes. Temas 970 e 971 do Superior Tribunal de Justiça. Obrigação de dar. Panfleto que concedia aos compradores um vale compras e escritura gratuita do bem. Alegação de que a oferta não se aplicaria ao empreendimento objeto dos autos. Não acolhimento. Propaganda genérica em relação ao vale compras, para aquisição de uma unidade nos empreendimentos da parte apelante, até determinada data, sendo que os apelados adquiriram o imóvel dentro do prazo da oferta. Propaganda da escritura que faz menção à 1ª fase do empreendimento, sendo que as requeridas não comprovaram que a aquisição do bem não se deu na referida fase. Danos morais devidos. Conduta que superou o mero dissabor de um inadimplemento contratual. Empreendimento imobiliário entregue com consideráveis vícios de construção e disponibilização efetiva para moradia após 14 (quatorze) meses do prazo final, já considerada a tolerância de 180 (cento e oitenta) dias. Sentença reformada em parte. Recurso parcialmente provido, em parte mínima, somente para afastar a cumulação de multa contratual com lucros cessantes, decorrentes da mora na entrega do imóvel. (e-STJ Fls. 670/671)
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 489, § 1º, IV, 803, II, parágrafo único, e 1.022, parágrafo único, I, do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, insurgem-se contra a condenação ao pagamento de compensação por dano moral.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do atraso na obra e da existência de vícios construtivos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Confira-se:
+ ..
+"Sobre a mora na entrega, em que pesem as alegações da parte apelante de não disponibilização da unidade, por parte dos adquirentes, para sanar os defeitos existentes, fato incontroverso é que tanto os vícios da área comum, quanto o defeito hidráulico especificamente suportado pelos apelados, impediam a habitabilidade (fls. 409/414).
+Presente a mora, possível a inversão da cláusula penal. Todavia, inaplicável a condenação concomitante com os lucros cessantes. Essa é a tese fixada nos Temas 970 e 971 do Superior Tribunal de Justiça:
+(..)
+O folheto de fls. 54/55 confere aos adquirentes de unidades imobiliárias das requeridas um vale compras no valor de R$3.000,00 (três mil reais), para aquisições realizadas até 15.09.2012. Os apelados adquiriram o imóvel em 06.09.2012.
+Há, também, a previsão de escritura gratuita para aquisição de imóvel no empreendimento objeto dos autos, na 1ª fase.
+A parte ré não fez prova de que a aquisição do bem não fora realizada nesses termos, mantida, então a condenação.
+Por fim, os danos morais são mantidos.
+Pelo que se depreende da documentação juntada aos autos, notadamente dos laudos periciais, a desídia da apelante superou a mera consequência ordinária de um inadimplemento contratual, porquanto o empreendimento imobiliário apresentou uma série de falhas técnico-construtivas que impediram, mesmo após o pagamento integral do preço, a fruição do bem por 14 (quatorze) meses.
+Necessária, portanto, a compensação à vítima, e desestímulo da conduta da parte ré." (e-STJ Fls. 674/675)
+ ..
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pelas agravantes não demonstram como o acórdão recorrido violou o art. 803, II, parágrafo único, do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Ademais, constata-se, da leitura das razões do recurso especial, que quanto à insurgência em relação à condenação ao pagamento de compensação por dano moral, as agravantes não alegam violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 803, II, parágrafo único, do CPC/15, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à condenação ao pagamento de compensação por dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados anteriormente para 15% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer cumulada com reparação por dano material e compensação por dano moral.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+9. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
