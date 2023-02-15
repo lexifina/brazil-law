@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Fabio Cruz da Silva - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que deu parcial provimento à apelação defensiva, apenas para redimensionar as penas impostas, mantendo a condenação do paciente pelo Juízo de Direito da 2ª Vara da comarca de Guapimirim/RJ (Ação Penal n. 0006723-45.2020.8.19.0029).
+Alega a impetrante constrangimento ilegal na manutenção da condenação imposta ao paciente, ao argumento de nulidade do procedimento extrajudicial, pois o réu não foi reconhecido nem informado de seus direitos constitucionais, além de que o acusado nem sequer foi reconhecido na delegacia, tampouco em juízo.
+Postula, então, a concessão liminar da ordem para que seja decretada a absolvição do paciente ou, subsidiariamente, reconhecida a participação de menor importância.
+Em 7/11/2022, deferi o pedido liminar para suspender a condenação imposta ao paciente (fls. 108/109).
+Dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 113/116).
+É o relatório.
+O paciente restou condenado como incurso no crime de roubo majorado, ocorrido no dia 24/11/2020, porque teria ele, de comum acordo com o corréu que praticou a grave ameaça com arma de fogo e subtraído bens de três vítimas diferentes, dirigido o veículo que o comparsa utilizou para a prática do crime.
+Ocorre que, da atenta análise da sentença, sem necessidade de rememorar a prova produzida em juízo, é possível verificar que a condenação do paciente se encontra baseada em presunção de ser ele o motorista do veículo que levou o assaltante ao estabelecimento comercial das vítimas, bem como de ter ele liame subjetivo com o corréu.
+Veja-se que, além de o paciente não ter sido reconhecido por nenhuma das vítimas, nem em sede policial nem em juízo, existe contradição até na cor do veículo utilizado na prática do crime (fl. 95 - grifo nosso):
+Além do reconhecimento válido do réu ALLAN, a vítima confirmou que havia um comparsa lhe aguardando na função de motorista no veículo NISSAN VERSA, justamente no qual o réu FABIO foi encontrado no dia dos fatos. O fato de a vítima ter dito inicialmente que o veículo era cinza e, em juízo, verde escuro, não descredibiliza o seu depoimento, porquanto não se reveste de contradição relevante.
+Além disso, o paciente foi abordado e apreendido por encontrar-se em um veículo de mesma marca do utilizado na prática do crime, mas não houve reconhecimento do veículo pelas vítimas (fl. 95 - grifo nosso):
+ ..  que o acusado desceu de um veículo versa; que o depoente viu o veículo parado um pouco mais à frente; que o acusado desceu pelo carona; que só tinha ele e o motorista no carro; que não conseguiram visualizar o motorista; que o veículo parado até o retorno do acusado; que só viu que o carro era um versa e a cor verde escura; que não fez o reconhecimento do carro;
+E o Juízo arremata afirmando (fl. 95):
+ ..
+Em simples busca na rede mundial de computadores, em sites específicos de venda de automóveis, verifica-se que ora inexiste a categoria "verde" (tampouco "verde escuro"), ora se constata, nesta categoria, Nissan Versas efetivamente cinzas, de modo que a suposta divergência nas declarações sobre a cor do veículo não impõe dúvida razoável hábil a culminar na absolvição dos réus, sobretudo diante do ponto de vista subjetivo sobre a real nomenclatura da cor. Frise-se que não se está diante do confronto entre a cor prata e verde pura e simples, mas entre cinza e verde escuro, o que, a depender do ângulo do observador, pode se revelar uma linha tênue.
+ ..
+O Juízo desconsidera o fato de o paciente não ter sido reconhecido pelas vítimas (fl. 95):
+ ..
+De igual forma, o fato de o réu Fabio não ter sido reconhecido em juízo não significa que não tenha participado da empreitada criminosa descrita na denúncia, mesmo porque a vítima sequer teria condições de fazê-lo, considerando que permaneceu o tempo todo dentro do veículo. Contudo, a contradição entre as versões apresentadas em momentos distintos é suficiente para apontar a autoria delitiva, sendo certo que o interrogando não negou ter se dirigido à delegacia, alegando apenas que assinou o documento sem ler, o que não merece guarida.
+ ..
+No entanto, não oferece outros elementos de prova a corroborar seu juízo de condenação, já que, como o acusado não foi reconhecido em juízo, caberia ao julgador prezar pela existência de outros indícios capazes de o incriminarem, como a demonstração do liame subjetivo entre ele e o corréu, ou a apreensão de algum produto do crime em sua posse, mas sobre essas circunstâncias a sentença se mostrou omissa, atribuindo, inclusive, ao acusado, o ônus da prova de demonstrar ser ele motorista de aplicativo.
+Em face do exposto, concedo a ordem impetrada para anular sentença que condenou o paciente na Ação Penal n. 0006723-45.2020.8.19.0029, da 2ª Vara da comarca de Guapimirim/RJ, sem prejuízo de que outra sentença seja proferida, sanando-se os vícios apontados, em especial, com a demonstração de provas que realmente demonstrem a participação e adesão do acusado à empreitada criminosa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. SENTENÇA. CONDENAÇÃO POR PRESUNÇÃO. PACIENTE ACUSADO DE SER O MOTORISTA DO VEÍCULO UTILIZADO NA PRÁTICA CRIMINOSA. AUSÊNCIA DE RECONHECIMENTO PESSOAL E DO VEÍCULO. INEXISTÊNCIA DE DEMONSTRAÇÃO DO VÍNCULO DO RÉU COM O CORRÉU OU DE TER ELE SIDO APREENDIDO COM OS OBJETOS SUBTRAÍDOS. FALTA DE INDICAÇÃO DOS ELEMENTOS QUE DEMONSTREM A ADESÃO DO ACUSADO À EMPREITADA CRIMINOSA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
