@@ -1,0 +1,1 @@
+Art. 43-B. A redução prevista no inciso II do caput do art. 43 aplica-se às operações com recursos do FGTS firmadas a partir de 26 de agosto de 2020 até a entrada em vigor da Medida Provisória nº 1.162, de 2023.

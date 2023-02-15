@@ -1,4 +1,3 @@
 Art. 7º-B. Acarretam o vencimento antecipado da dívida decorrente de contrato de compra e venda com cláusula de alienação fiduciária em garantia firmado, no âmbito do PMCMV, com o FAR:
 I - a alienação ou cessão, por qualquer meio, dos imóveis objeto de operações realizadas com recursos advindos da integralização de cotas no FAR antes da quitação de que trata o inciso III do § 5º do art. 6º-A desta Lei;
 II - a utilização dos imóveis objeto de operações realizadas com recursos advindos da integralização de cotas no FAR em finalidade diversa da moradia dos beneficiários da subvenção de que trata o inciso I do art. 2º desta Lei e das respectivas famílias; e
-III - o atraso superior a noventa dias no pagamento das obrigações objeto de contrato firmado, no âmbito do PMCMV, com o FAR, incluindo os encargos contratuais e os encargos legais, inclusive os tributos e as contribuições condominiais que recaírem sobre o imóvel.
