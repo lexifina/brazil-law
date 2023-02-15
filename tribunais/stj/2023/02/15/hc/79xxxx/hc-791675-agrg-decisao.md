@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Marcio Henrique Meira Silva contra a decisão, de minha lavra, por meio da qual não conheci do habeas corpus, conforme estes fundamentos (fls. 41/42):
+Busca-se no presente writ a absolvição de Marcio Henrique Meira Silva, relativamente ao crime de roubo praticado contra a vítima Michel Zeiger, em razão da ausência de provas quanto à autoria delitiva (Ação Penal n. 0297807- 48.2011.8.19.0001, da 16ª Vara Criminal da comarca do Rio de Janeiro).
+Insurge-se a defesa contra o acórdão do Tribunal de Justiça do Rio de Janeiro proferido na apelação criminal (fls. 28/38).
+É o relatório.
+A presente impetração não comporta processamento.
+Isso porque, após o trânsito em julgado da condenação, houve novo pronunciamento da Corte estadual em sede de revisão criminal acerca da tese levantada na inicial, bem como sobre a dosimetria da pena.
+No dia 23/5/2018, o Segundo Grupo de Câmaras Criminais da Corte estadual, ao apreciar a Revisão Criminal n. 0032321-93.2017.8.19.0000, julgou parcialmente procedente o pedido para alterar a dosimetria, estabelecendo a pena do paciente em 26 anos e 7 meses de reclusão, e 62 dias-multa.
+Quanto ao pleito absolutório, a Corte a quo ponderou que a revisão criminal não é uma segunda apelação, através da qual é possível a ampla rediscussão dos elementos coligidos. Reavaliar os argumentos e as decisões tomadas no curso do processo criminal, significaria desprezar todo o trabalho desenvolvido pelas instâncias que julgaram o feito, desrespeitando a coisa julgada já formada.
+A defesa não se insurgiu contra o acórdão. Por aqui, tramitou o REsp n. 1.782.029/RJ, interposto pelo Ministério Público estadual, ao qual foi negado provimento.
+Com efeito, por demandar reexame de provas, mostra-se descabida, na via estreita do habeas corpus, nova análise dos fundamentos do decreto condenatório transitado em julgado que, aliás, foi submetido à apreciação do Tribunal de origem em revisão criminal, cujo acórdão não é objeto de questionamento nestes autos.
+Em outras palavras, o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 701.589/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2021).
+Ante o exposto, não conheço do habeas corpus.
+ ..
+Aduz o agravante que, em que pese o escopo jurídico do presente writ seja a sua absolvição, no presente caso não se faz necessário o revolvimento fático-probatório, mas, tão somente, valoração de validade das provas pré-constituídas, nos rígidos limites da Ação Constitucional de Habeas Corpus (fl. 44).
+Diante disso, defende que não há óbice processual para não se conhecer monocraticamente do writ, pois, no presente caso, se faz necessário tão somente a análise de validade da prova (ou sua inexistência) utilizada para apontar autoria delitiva em face do agravante (fl. 45).
+Ao final, pugna pela reconsideração da decisão recorrida ou seja o agravo submetido à apreciação da Sexta Turma desta Corte.
+Às fls. 62/67, o Ministério Público estadual manifestou-se pelo desprovimento do agravo regimental.
+No parecer de fls. 70/75, a Subprocuradoria-Geral da República opinou pelo provimento do agravo regimental, todavia, deve se reconhecer a inadmissibilidade do habeas corpus mas, se admitido, pela concessão da ordem.
+É o relatório.
+A decisão merece reconsideração.
+Busca a impetração seja o acusado absolvido do crime de roubo que teve como vítima Michael Zeiger, ao argumento de que não consta das decisões proferidas pelas instâncias ordinárias prova de autoria delitiva.
+De fato, como bem observou o parecerista, o caso requer apenas a revaloração de fatos incontroversos que já estão delineados nestes autos (e nos conexos) e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias ordinárias para condenar o réu pela prática do crime do roubo praticado contra a vítima acima especificada.
+Quando da apreciação do pedido revisional, o Tribunal estadual concluiu que (fl. 54 do REsp n. 1.782.029/RJ):
+ ..
+Verifica-se que não há dúvida quanto à autoria na decisão condenatória em relação ao delito de roubo efetuado na calçada da Rua Garcia D"avila contra o lesado Michael Zeiger.
+Conforme já exaustivamente reproduzido nos autos, embora o lesado não tenha reconhecido o acusado, o mesmo narrou com riqueza de detalhes o modus operandi do roubo qualificado, que foi exatamente igual ao dos demais roubos apurados nos autos.
+De fato, o ora requerente escolhia vítimas que possuíam relógios de marcas de luxo, sendo que se fazia acompanhar de um comparsa que o auxilia, dando cobertura à empreitada criminosa e fuga na garupa da moto.
+Ademais, as características físicas do acusado, quais sejam, pele escura, parrudo, bigode fino, baixa estatura, bem como o fato de segurar a arma de fogo com a mão esquerda, coincidem perfeitamente com as características ostentadas pelo acusado.
+Na verdade, o que pretende a Defesa, em relação à absolvição, é nova valoração das provas carreadas aos autos originais, já devidamente examinadas, não sendo admissível novo reexame em sede revisional.
+ ..
+Da sentença, a despeito da autoria em relação aos fatos em comento, extrai-se o seguinte (fl. 21 - grifo nosso):
+A vítima Michel Zeiger afirmou serem verdadeiros os fatos mencionados na denúncia e relatou que: "no dia dos fatos estava andando na calçada da Rua Garcia Davila no período da manhã, na companhia da esposa, quando foi abordado por um homem usando capacete; que o meliante estava na garupa de uma moto, exibiu uma arma e deu ordens para que o depoente entregasse o relógio e a carteira; que a arma estava dentro de uma mochila; que a vítima entregou relógio e carteira; que depois soube da gangue do Rolex; que a carteira do depoente foi encontrada 15 dias depois; que na carteira não faltava nada; que a arma mostrada pelo réu era um revólver preto, parecida com um 38; que o relógio subtraído era um Rolex; que após o roubo o marginal foi embora; que parecia que o bandido ia colocar a mão esquerda na arma  ..
+No julgamento da apelação defensiva, o Tribunal de origem apreciou a tese absolutória da seguinte forma (fls. 34/35 - grifo nosso):
+No mérito, melhor sorte não assiste à Defesa, que requer a absolvição do crime de roubo em que foi vítima Michael Zeiger, ocorrido em 11/06/2011.
+Inicialmente, nota-se que a Defesa aduz argumentos - ainda que superficiais, fracos e infundados - apenas em relação ao delito perpetrado contra essa vítima, sendo também o seu pedido final de absolvição direcionado somente a este delito, conformando-se com as demais condenações.
+Verifica-se que não há qualquer fundamento fático ou jurídico embasando o pedido defensivo.
+Trata-se de processo que investigou grupo criminoso formado por elementos que praticaram diversos roubos, especialmente de relógios de alto valor, notadamente "Rolex".
+Analisando em conjunto todas as provas, evidências e indícios constantes dos autos, chega-se de forma segura à certeza dos fatos narrados na exordial, bem como de sua autoria, razão pela qual deve ser mantido o juízo de condenação.
+Quando prestou depoimento em juízo, em que pese a vítima Michael não ter conseguido identificar o apelante como o autor do delito, ela forneceu características importantes e condizentes com o seu tipo físico, tais como cor da pele, compleição física e estatura.
+Disse o lesado, ainda, que o autor do roubo segurou a arma com a mão esquerda e, conforme se verifica nas provas coligidas, outros lesados também relataram que o roubador seria canhoto, sendo essa informação confirmada quando da realização de seu interrogatório, e ressaltado pela Promotora de Justiça, conforme se verifica na gravação contida na mídia eletrônica.
+Essas informações, aliadas às diversas outras, principalmente ao robusto conjunto probatório constante dos autos, no qual restou comprovado que o réu, ora apelante, participava de grupo criminoso especialista em roubos de relógios valiosos, confirmam a certeza da autoria do delito em questão.
+Destaca-se que o apelante possui outras cinco condenações (sem trânsito em julgado) pela prática de roubos majorados, sendo uma delas pelo crime de latrocínio, no qual foi vítima fatal o arquiteto Romulo Castro Ramos, que na ocasião usava um relógio da marca "Rolex".
+Não se pode olvidar, ainda, que, na oportunidade de seu interrogatório, o apelante negou a autoria delitiva e disse que estava trabalhando nos dias em que ocorreram os delitos.
+Contudo, a Defesa absteve-se de apresentar qualquer prova que pudesse respaldar suas alegações ou mesmo desconstituir a tese acusatória.
+ ..
+Pois bem. A condenação ora questionada foi mantida no julgamento da apelação, com base essencialmente nas características físicas do agente do fato descritas pelo ofendido.
+Entretanto, como bem observado no parecer, o depoimento não indica, em momento algum que a vítima teria, de fato, reconhecido o paciente como o autor dos fatos. Na verdade, tratando-se de pessoa que usava capacete não havia como a vítima ter visto seu rosto. Depois, o paciente não foi preso em flagrante, de modo que nem mesmo a roupa que o réu usava na hora do crime pode ligá-lo ao fato (fl. 73).
+Apesar das demais circunstâncias indicadas no acórdão (estatura, tipo físico, cor da pele e modus operandi em outras ações delitivas), tais elementos não são suficientes para comprovar a efetiva participação do réu no crime.
+Como dito, no depoimento da vítima - única testemunha do fato -, não houve o reconhecimento do réu como autor do delito, apenas a descrição da ação criminosa. Dessa forma, não há como concluir, como o fez o Tribunal de origem, pela manutenção da condenação, valendo ressaltar, ainda, que "a longa ficha de furtos e roubos praticados pelo apelante", a que se refere aquele Sodalício, não é fundamento idôneo para se impor ao paciente uma nova condenação, se não houver provas robustas para tanto (HC n. 545.118/ES, Ministra Laurita Vaz, Sexta Turma, julgado em 15/12/2020, DJe 18/12/2020).
+Tal o cenário, à vista da fragilidade dos elementos probatórios quanto ao roubo praticado no dia 11/6/2011, a solução da controvérsia é pela absolvição do acusado.
+Ante o exposto, reconsidero a decisão de fls. 41/42 e, acolhendo o parecer, não conheço do writ, mas concedo a ordem de ofício, para absolver o paciente do crime de roubo praticado contra a vítima Michel Zeiger, com base no art. 3 86, VII, do Código de Processo Penal (Ação Penal n. 0297807- 48.2011.8.19.0001, da 16ª Vara Criminal da comarca do Rio de Janeiro).
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECONSIDERAÇÃO DA DECISÃO DE HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO QUANTO A UMA DAS CONDUTAS DELITIVAS. SENTENÇA QUE NÃO DEMONSTRA A LIGAÇÃO DO RÉU COM O ATO CRIMINOSO. REVOLVIMENTO DE PROVAS. AUSÊNCIA. ANÁLISE INSERTA NOS ELEMENTOS PRÉ-CONSTITUÍDOS NOS AUTOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+Decisão reconsiderada. Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
