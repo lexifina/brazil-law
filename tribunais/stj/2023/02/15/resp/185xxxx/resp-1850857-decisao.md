@@ -1,0 +1,5 @@
+DECISÃO
+Diante das informações prestadas pelo Magistrado de primeiro grau, às fls. 280-286, que noticiaram o avanço da instrução criminal, com a próxima etapa se cingir a apresentação de memoriais finais e desfecho do processo, há a perda superveniente de interesse/utilidade na apreciação deste recurso especial apresentado pelo Ministério Público Federal, mormente porque, devidamente intimado a se manifestar sobre a permanência desse interesse/utilidade, consoante despacho de fl. 288, quedou-se inerte.
+Deveras, a própria ausência de manifestação do Parquet denota que a discussão quanto à necessidade ou não de apresentação de justificativa para a intimação pessoal de testemunhas da defesa se tornou irrelevante no caso, visto que houve o refazimento do ato e o avanço na instrução criminal, que está quase concluída.
+À vista do exposto, em razão da prejudicialidade superveniente da discussão trazida no recurso especial, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Publique-se e intimem-se.
