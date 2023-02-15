@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. MUNICÍPIO DE NITERÓI. ISS. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DE AMBAS AS PARTES. CDA QUE PREENCHEU TODOS OS REQUISITOS DO ART. 202, CTN E QUE GOZA DE PRESUNÇÃO RELATIVA DE LIQUIDEZ E CERTEZA A SEU FAVOR, SENDO ÔNUS DO DEVEDOR DESCONSTITUI-LA, DO QUAL NÃO SE DESINCUMBIU. SÚMULA 125 TJRJ. LEGITIMIDADE DA INCIDÊNCIA DE ISS SOBRE SERVIÇOS BANCÁRIOS CONGÊNERES À LISTA ANEXA AO DECRETO-LEI Nº 406/1968 E À LEI COMPLEMENTAR Nº 56/1987, POR INTERPRETAÇÃO EXTENSIVA. TEMA 132 STJ. SÚMULA 424 STJ. LAUDO PERICIAL QUE ATESTA A INCIDÊNCIA DE ISS. I NCONSTITUCIONALIDADE DO ART. 85, CPC, QUE SE AFASTA. MATÉRIA EXAUSTIVAMENTE APRECIADA PELOS TRIBUNAIS SUPERIORES, ENCONTRANDO-SE CONSOLIDADO NO ÂMBITO DO STJ, SOB O REGIME DOS RECURSOS REPRESENTATIVOS DE CONTROVÉRSIA, O ENTENDIMENTO DE QUE OS HONORÁRIOS DE SUCUMBÊNCIA CONSTITUEM DIREITO AUTÔNOMO DO CAUSÍDICO E TÊM NATUREZA REMUNERATÓRIA EM RAZÃO DO SERVIÇO PRESTADO, TRADUZINDO A DIGNIDADE DO PROFISSIONAL. RECURSO DO EMBARGADO AO QUAL SE DÁ PROVIMENTO. RECURSO DO EMBARGANTE A QUE SE NEGA PROVIMENTO.
+Os Embargos de Declaração foram rejeitados (fls. 266-277, e-STJ).
+Em suas razões recursais, o agravante aponta violação ao art. 2º, § 5º, II e III, e § 6º, da Lei 6.830/1980. Sustenta que a Certidão de Dívida Ativa não possui todos os requisitos essenciais para a sua regularidade, faltando a origem, natureza e o fundamento legal da dívida.
+Contrarrazões às fls. 323-333, e-STJ.
+A inadmissão do Recurso Especial (fls. 335-341, e-STJ), deu ensejo à interposição de Agravo em Recurso Especial às fls. 378-389, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º de fevereiro de 2023.
+O Recurso Especial foi inadmitido com base no argumento de que averiguar a suposta nulidade da CDA acarreta o revolvimento fático probatório, de modo que incide a Súmula 7 do STJ. O agravante, contudo, não atacou especificamente esse item do decisum.
+São insuficientes para contestar a fundamentação da decisão denegatória: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate generalizado e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Agravo.
+Veja-se que a refutação exigida para infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 26.8./2020).
+No caso em questão, embora o recorrente tenha aberto tópico exclusivo em sua petição (fls. 386-388, e-STJ) para tratar da matéria, verifica-se que se utilizou de argumentação imprecisa, a qual não é apta a impugnar o ponto.
+Incide, no caso, o óbice da Súmula 182 do STJ: "É inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido: AgInt no REsp 1.881.152/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.10.2020; e AgInt no AREsp 1.751.773/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 18.12.2020.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os seus tópicos. A propósito: EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Consubstanciado o previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Publiq ue-se.
+Intimem-se.
