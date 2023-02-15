@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO GRANDE DO SUL, em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. SUBVENÇÃO. CONTA DE DESENVOLVIMENTO ENERGÉTICO. MUDANÇA DE ORIENTAÇÃO DA ADMINISTRAÇÃO TRIBUTÁRIA. ARTIGOS 100, III, E 146 DO CTN.
+Em se tratando de mudança de orientação da Administração Tributária, relativamente à incidência de ICMS sobre a subvenção atinente à Conta de Desenvolvimento Energético - CDE, não se pode deixar de considerar a legítima expectativa criada para a contribuinte pela prática até então observada, influenciando no comportamento por ela adotado, a autorizar o acolhimento da pretensão deduzida, com base nos artigos 100, III, e 146, ambos do CTN.
+APELAÇÃO PROVIDA.
+Os embargos de declaração foram acolhidos para sanar erro material na parte dispositiva do acórdão da apelação. Eis a ementa dos aclaratórios:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL/OBSCURIDADE. OCORRÊNCIA.
+Constado o apontado erro material/obscuridade no julgado, ante o fato de não ter havido verdadeira limitação do pedido recursal, pretendendo a ora embargada a não incidência do ICMS sobre a subvenção, tanto em relação ao período posterior quando ao anterior à consulta formulada à Fazenda Estadual, é o caso de acolhimento da aclaratória.
+EMBARGOS DE DECLARAÇÃO PROVIDOS.
+O recorrente, apontando violação dos arts. 100, III, e 146 do CTN, sustenta, em resumo, que não deve subsistir a parte do acórdão recorrido que concedeu em parte a ordem vindicada para impedir o lançamento do ICMS sobre a subvenção criada pela Lei n. 10.604/2002 em relação a período anterior a consulta formulada ao fisco acerca dessa tributação. Aduz que "em nenhum momento foi apresentada prova de qualquer ato, documento oficial do Estado do Rio Grande do Sul, dizendo que a controvertida subvenção não integraria a base de cálculo do ICMS - energia elétrica", tendo havido apenas "uma interpretação de parte dos contribuintes, inclusive da ora recorrida, de que não integraria"; não "se pode afirmar que a ausência de lançamento de ofício quanto ao não recolhimento do ICMS sobre a subvenção pela contribuinte nos últimos anos poderia configurar "as práticas reiteradamente observadas pelas autoridades administrativas""; a observância das "práticas reiteradamente observadas pelas autoridades administrativas" não exime o contribuinte do pagamento do tributo, mas apenas das penalidades; é inaplicável o disposto no art. 146 do CTN, porque não se está diante de "alteração de fundamento fixado em Auto de Lançamento, mas de pretensa modificação de entendimento do Fisco sobre os limites da base de cálculo do ICMS".
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidente a Súmula 83 do STJ, fundamento com o qual não concorda o agravante.
+Oferecida contraminuta.
+O digno representante do Ministério Público Federal opina pelo provimento do recurso especial.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece ser mesmo admitido.
+Vejamos a motivação consignada no acórdão recorrido para impedir o lançamento retroativo referente a inclusão da subvenção criada pela Lei n. 10.604/2002 na base de cálculo do ICMS sobre fornecimento de energia elétrica:
+ ..
+Agora, no que se refere ao lançamento de valores de ICMS sobre a aludida subvenção retroativamente à consulta formulada, não se pode admitir, ante a legítima expectativa criada para a contribuinte pela prática até então observada pelo Fisco Estadual, influenciando no comportamento por ela adotado, ao deixar de incluir o valor correspondente ao ICMS que incidiria sobre a subvenção na composição da tarifa cobrada dos seus cooperados.
+Impõe-se, assim, a observância dos artigos 100, III, e 146, ambos do CTN.
+Não tem sido outro o entendimento adotado no âmbito deste Tribunal de Justiça, como se vê dos seguintes precedentes, assim ementados:
+ ..
+Do que se observa, o recurso especial fazendário parte de premissa fática (referente à inexistência de prova pré-constituída acerca da existência de qualquer ato ou documento oficial do Estado do Rio Grande do Sul afirmando a que a controvertida subvenção não integraria a base de cálculo do ICMS - energia elétrica) e de teses jurídicas (de que a ausência de lançamento não configura atendimento "de práticas reiteradamente observadas pelas autoridades administrativas"; o disposto no art. 100, III, do CTN não dispensa o pagamento da obrigação principal; não houve indevida revisão de lançamento de ofício com fundamento em modificação de critério jurídico a atrair a vedação contida no art. 146 do CTN) que não foram efetivamente examinadas no acórdão recorrido, nem suscitadas nos embargos de declaração, carecendo o recurso especial, portanto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
