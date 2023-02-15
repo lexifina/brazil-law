@@ -1,0 +1,64 @@
+DECISÃO
+BRUNO SESQUINI BOMPEAN (BRUNO) moveu ação indenizatória contra UNIMED BAURU - COOPERATIVA DE TRABALHO MÉDICO (UNIMED), narrando que foi diagnosticado com tumor desmoide em região cervical, sendo que foi submetido a cirurgia junto a ré. Relatou que o médico que o acompanhava informou que necessitava de tratamento em grande centro de referência. Desta forma, dirigiu-se à cidade de São Paulo/SP, onde foi consultado pelo Dr. Luiz Kowalski, que informou a necessidade de tratamento cirúrgico de grande porte, multidisciplinar e urgente, que não teria condições de ser realizado nesta cidade. Alegou que solicitou cobertura total do tratamento, entretanto, a ré se manteve inerte e nem indicou outro centro de referência em sua rede credenciada que pudesse realizar o tratamento cirúrgico. Suscitou que se viu obrigado a suportar os custos do tratamento a que foi submetido junto ao Hospital Sírio Libanês.
+Em primeira instância, o pedido foi julgado improcedente (e-STJ, fls. 326/330.)
+A apelação interposta por BRUNO foi provida parcialmente pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pela Desembargadora BERETTA DA SILVEIRA, assim ementado:
+SEGURO SAÚDE. Preliminar de cerceamento de defesa.
+Afastamento. Inteligência dos arts. 355 e 370 do CPC. Possibilidade de apreciação da controvérsia com base nos documentos acostados aos autos. Desnecessidade de inversão do ônus da prova e de abertura de instrução. Mérito. Pedido de reembolso integral das despesas relativas a procedimento médico de natureza urgente. Inviabilidade.
+Eleição de estabelecimento particular não credenciado. Seguradora que se deparou com a desistência do pedido de autorização e encerrou as tratativas para que o tratamento fosse realizado em outro Município, efetuando o reembolso parcial nos limites do contrato.
+Urgência incapaz de justificar a abdicação do custeio pretendido um dia após a solicitação, havendo evidências concretas de que o paciente tinha o objetivo de ser submetido à intervenção em nosocômio específico independentemente da liberação pelo plano. Possibilidade de que o apelante seja reembolsado pelos valores que seriam repassados ao hospital conveniado e contatado pela Unimed. Valores a serem apurados em cumprimento de sentença, com abatimento daqueles já depositado em decorrência dos mesmos fatos. Precedentes deste E. Tribunal de Justiça. Inexistência de danos morais. Ato ilícito e prejuízo imaterial não verificados. Sucumbência recíproca (art. 86, caput, CPC). Recorrente que deverá arcar com 80% das despesas contratuais e honorários advocatícios de R$6.000,00, imputando-se à recorrida 20% das custas e R$2.000,00 a título de honorários (art. 85, §2º, CPC). RECURSO PROVIDO EM PARTE. (e-STJ, fl. 520.)
+Os embargos de declaração opostos por BRUNO foram rejeitados (e-STJ, fls. 551/556.)
+Inconformado, BRUNO manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando, a par de dissídio jurisprudencial, a violação à RN n. 259/2011 e aos arts. 1º, 4º, XXIV, XXVIII e XXXVII e II do art. 10, todos da Lei n. 9.961/2000, aduzindo, em suma, que faz jus ao reembolso integral das despesas realizadas fora da rede credenciada.
+Foram apresentadas as contrarrazões.
+É o relatório.
+Decido.
+Da limitação do reembolso
+BRUNO sustentou nas razões da insurgência, a par de dissídio jurisprudencial, a violação à RN n. 259/2011 e aos arts. 1º, 4º, XXIV, XXVIII e XXXVII e II do art. 10, todos da Lei n. 9.961/2000, aduzindo, em suma, que faz jus ao reembolso integral das despesas realizadas fora da rede credenciada.
+A propósito do tema, o acórdão impugnado expressamente destacou:
+O autor comprovou que lhe foi recomendado procedimento cirúrgico de alta complexidade a ser realizado em grande centro de referência (fls.
+27/30).
+Em laudo médico datado de 18.12.2019, o profissional atestou a máxima urgência do tratamento e indicou sua realização no Hospital AC Camargo ou Sírio Libanês, ambos no Município de São Paulo.
+Assim, solicitou à Unimed de Bauru a cobertura do procedimento, mas, por não ter obtido resposta dentro do prazo esperado, realizou a intervenção no Hospital Sírio Libanês com recursos particulares.
+Após o ato, a seguradora promoveu o reembolso parcial das
+quantias despendidas, motivando o ajuizamento da ação.
+O feito foi julgado improcedente no juízo a quo (fls.
+326/330).
+O recurso comporta acolhimento parcial.
+De fato, o reembolso integral pretendido pelo apelante não pode ser deferido, visto que claramente optou pela realização do procedimento em estabelecimento não credenciado.
+Ainda que reconhecido o caráter urgente atestado nos relatórios médicos acostados aos autos, era de se esperar que a Unimed levasse certo tempo para averiguar a possibilidade de sua realização em hospitais conveniados situados em outro Município, tendo em vista a inexistência de um grande centro de referência na cidade de Bauru.
+Contudo, apenas um dia depois da solicitação, em 19.12.2019, a seguradora foi informada de que o paciente desistiu da autorização e compareceu ao Hospital Sírio Libanês para a concretização do procedimento, promovendo o pagamento por conta própria e concordando com o reembolso nos limites contratuais. Encerrou, assim, o processo interno que visava à liberação da internação do paciente no Hospital AC Camargo.
+Todos os elementos constantes dos autos indicam que o recorrente escolheu, por livre e espontânea vontade, hospital não pertencente à rede credenciada para realizar a intervenção essencial para a preservação de seu estado clínico. Os documentos de fls. 196/197, 198, 494 e 495, embora produzidos unilateralmente, estão de acordo com as demais evidências constantes dos autos e indicam que a Unimed cobriria a internação no Hospital AC Camargo, mas, diante da opção por outro estabelecimento um dia após a solicitação, encerrou as tratativas e efetuou a restituição parcial nos termos do contrato.
+Vale dizer que referida conclusão condiz com a própria cronologia dos fatos, já que o procedimento foi realizado dia 20.12.2019 e, certamente, o paciente teve que agendar a cirurgia com antecedência, deixando claro que pretendia utilizar a clínica particular independentemente do custeio por parte do plano.
+Inviável, pois, o reembolso integral das quantias pagas.
+Por outro lado, a própria apelada reconheceu que efetuaria a cobertura do procedimento no Hospital AC Camargo, se respeitado o prazo mínimo necessário para que o nosocômio fosse contatado e houvesse liberação da autorização originalmente pretendida:
+"E o procedimento prescrito ao apelante seria realizado na rede credenciada da apelada e inclusive conforme demonstrado às fls. 196-197, no Hospital A_C Camargo, Hospital indicado pelo seu próprio médico às fls. 27-30 ("a mesma deve ser realizada em um grande centro como AC Camargo ou Sírio Libanês.."), porém ele optou por fazer no Hospital Sírio Libanês, sem credenciamento com a apelada e hospital esse de tabela própria e de alto custo" (fl. 491).
+Assim, o apelante deve ser reparado pelos exatos valores que seriam repassados ao estabelecimento em decorrência do tratamento realizado, e não meramente nos limites contratuais. O importe há de ser apurado em cumprimento de sentença, com abatimento do montante já depositado em decorrência dos mesmos fatos (fl. 236)  e-STJ, fls. 522/525, sem destaques no original.
+É firme a orientação do Superior Tribunal de Justiça no sentido de que, nas hipóteses em que não se afigurar possível a utilização dos serviços credenciados, o reembolso poderá ser limitado aos preços e às tabelas efetivamente contratados com o plano de saúde.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. ATENDIMENTO FORA DA REDE CREDENCIADA. REEMBOLSO. LIMITAÇÃO. PREÇOS DE TABELA EFETIVAMENTE CONTRATADOS COM A OPERADORA. AGRAVO DESPROVIDO.
+1. Nos casos em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, a operadora de assistência à saúde deve responsabilizar-se pelo custeio das despesas médicas realizadas pelo segurado, mediante reembolso. O reembolso, porém, é limitado aos preços de tabela efetivamente contratados com a operadora de saúde, à luz do art. 12, VI, da Lei 9.656/98, sendo, portanto, lícita a cláusula contratual que prevê tal restrição, que conta com expressa previsão legal. Precedentes.
+2. O Tribunal de origem consignou que, embora credenciado, o hospital no qual a agravante deseja realizar seu tratamento não o é para os fins pretendidos. A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.489.704/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 18/12/2020 - destacou-se)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EN. 3/STJ. PLANO DE SAÚDE. RECUSA DE COBERTURA DA TERAPIA PEDIASUIT A PACIENTE ACOMETIDO DE MICROCEFALIA. FORNECIMENTO DE EQUIPAMENTOS E ÓRTESES. AUSÊNCIA DE PREVISÃO LEGAL. LIMITAÇÃO DO NÚMERO DE SESSÕES. ÓBICE DA SÚMULA 283/STF. REEMBOLSO DE SERVIÇO PRESTADO FORA DA REDE CREDENCIADA. LIMITAÇÃO AO VALOR DE TABELA. JURISPRUDÊNCIA PACÍFICA DESTA CORTE SUPERIOR. AUSÊNCIA DE URGÊNCIA OU EMERGÊNCIA. MATÉRIA NÃO DEVOLVIDA. TANTUM DEVOLUTUM QUANTUM APPELLATUM. DANO MORAL. INOCORRÊNCIA. LEGITIMIDADE DA RECUSA.
+1. Controvérsia acerca da cobertura da terapia PediaSuit, e dos respectivos equipamentos (andador, roupa biodinâmica, órtese suropodálica fixa e bandagens terapêuticas) a paciente acometido de microcefalia, com sequelas neurosensoriomotoras.
+2. Apesar da posição mais flexível da Terceira Turma desta Corte no sentido da natureza exemplificativa do rol de cobertura fixado pela ANS (REsp. 1.829.583), não há amparo legal para a pretensão de cobertura dos equipamentos necessários para a terapia PediaSuit, pois, nos termos do art. 10, inciso VII, da Lei 9.656/1998, não há obrigatoriedade legal de cobertura de "próteses, órteses e seus acessórios não ligados ao ato cirúrgico". Precedente específico da Quarta Turma sobre a PediaSuit.
+3. Ausência de impugnação específica à fundamentação do acórdão recorrido, no ponto referente inexistência de limitação contratual expressa do número de sessões de terapia ocupacional e fonoaudiologia no contrato. Óbice da Súmula 283/STF.
+4. Descabimento de reembolso de serviços prestados fora da rede credenciada, salvo nas hipóteses de urgência/emergência, ou de insuficiência da rede credenciada. Precedente recente da Segunda Seção.
+5. Inaplicabilidade desse precedente ao caso concreto, pois não houve insurgência recursal contra o reembolso, em si, mas somente contra o valor do reembolso, devendo o julgamento do recurso se limitar à questão efetivamente devolvida (tantum devolutum quantum appellatum).
+6. Limitação do reembolso aos valores da tabela da operadora, na linha da jurisprudência pacífica desta Corte Superior.
+7. Inocorrência de danos morais ao beneficiário do plano de saúde, uma vez que a recusa de cobertura foi reputada legítima.
+8. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1.741.618/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 1º/2/2021 - destacou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA DAR PARCIAL PROVIMENTO AO APELO NOBRE. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Segundo a jurisprudência desta Corte, é lícita a cláusula que limita o reembolso de despesas hospitalares realizadas junto a entidade não conveniada a limites contratualmente previstos.
+Precedentes.
+1.1. Inexistente, no caso, óbice da Súmula 7/STJ, tendo em vista que o provimento do recurso especial, com fundamento na jurisprudência desta Corte, prescindiu de que qualquer análise fática.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.358.568/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 16/11/2020 - destacou-se)
+Conforme se nota, ao afastar o reembolso integral das despesas realizadas fora da rede credenciada, o acórdão estadual está em consonância com o entendimento consolidado nesta Corte Superior, motivo pelo qual não está a merecer reforma.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PLANO DE SAÚDE. REEMBOLSO. LIMITAÇÃO. POSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
