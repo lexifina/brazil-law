@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A. contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 133):
+AGRAVO REGIMENTAL - Recurso interposto contra a r. decisão monocrática, que negou seguimento ao agravo de instrumento - Ao Desembargador Relator é permitido proferir decisão monocrática em recurso cujo objeto é matéria de entendimento consolidado na Turma Julgadora - Inteligência do § 1º, do artigo 557 do Código de Processo Civil - Recurso improvido.
+Em suas razões (e-STJ, fls. 441-458), fundamentadas no art. 105, III, a e c, da CF/1988, o recorrente aponta dissídio jurisprudencial e violação dos arts. 267, IV, 475, II, do CPC/1973; 16 da Lei n. 7.347/1985; e 82, IV, do CDC.
+A insurgência trata dos seguintes temas: (a) legitimidade ativa do poupador beneficiário de sentença coletiva, sob o enfoque do vínculo associativo, (b) limitação territorial dos efeitos da ação civil pública e (c) inexigibilidade do título executivo, por falta de prévia liquidação de sentença.
+Não foram apresentadas contrarrazões (e-STJ, fl. 481).
+Brevemente relatado, decido.
+Na origem, o recorrente interpôs agravo de instrumento contra decisão que, nos autos de cumprimento de sentença proferida em ação civil pública, rejeitou exceção de pré-executividade.
+O Tribunal de Justiça negou provimento ao recurso, mantendo decisão monocrática do Desembargador relator, sob o fundamento de que "as matérias arguidas, mormente no que diz à inadequação da objeção de pré-executividade para arguição de incompetência relativa, bem como quanto ao descabimento de o credor ser associado ao IDEC para promover a habilitação individual e à desnecessidade da prévia liquidação do julgado" (e-STJ, fls. 435).
+Quanto à tese de ilegitimidade ativa da parte exequente, observa-se que o acórdão recorrido está em conformidade com a tese fixada no julgamento do Tema 948 dos Recursos Repetitivos: "Em Ação Civil Pública proposta por associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à associação promovente". (REsp n. 1.438.263/SP, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 28/04/2021, DJe 24/05/2021).
+Incide a Súmula n. 83/STJ.
+No que diz respeito à eficácia territorial da sentença proferida nos autos da ação civil pública e à previa liquidação da sentença, o Tribunal estadual consignou a inadequação da objeção de pré-executividade para discutir essas teses. Entretanto, o banco não infirmou esse fundamento do acórdão recorrido que por si só é suficiente para manter o julgado. Incide no ponto o enunciado da Súmula 283 do STF.
+Diante do exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. 1. LEGITIMIDADE ATIVA. VÍNCULO ASSOCIATIVO. DESNECESSIDADE. TEMA N. 948/STJ. SÚMULA 83/STJ. 2. INCOMPETÊNCIA DE FORO E LIQUIDAÇÃO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. 3. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
