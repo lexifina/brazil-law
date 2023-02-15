@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus impetrado em nome de Joao Adilson Rosa da Silveira - condenado a 2 anos e 4 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 12 dias-multa, pela prática do crime de falso testemunho circunstanciado pelo fim de obter prova destinada a produzir efeito em processo penal, no qual se ataca o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 84/91), que alterou a sentença condenatória prolatada na Ação Penal n. 5000299-69.2016.8.21.0033, da 4ª Vara Criminal da comarca de São Leopoldo/RS - não deve ser conhecido.
+Isso porque se alega constrangimento ilegal consistente em violação dos princípios da correlação, do contraditório e da ampla defesa - ao argumento de que a ausência de apontamento da majorante nos memoriais, não pode o juiz de ofício, reconhecer agravante que decorre de circunstância subjetiva não descrita da peça pórtica, concluindo de ofício que JOÃO ADILSON tinha o objetivo de produzir efeitos no processo supramencionado por intermédio do falso testemunho (fl. 8) -, porém o feito não está suficientemente instruído, pois carece de cópias da sentença condenatória e da denúncia, peças indispensáveis para que seja possível verificar a verossimilhança das alegações.
+Nesse sentido: AgRg no HC n. 552.240/PE, Ministra Laurita Vaz, Sexta Turma, DJe 27/2/2020; e HC n. 558.199/SP, Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 16/3/2020.
+Em razão disso, não conheço do presente writ .
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FALSO TESTEMUNHO CIRCUNSTANCIADO PELO FIM DE OBTER PROVA DESTINADA A PRODUZIR EFEITO EM PROCESSO PENAL. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DA CORRELAÇÃO, DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE CÓPIAS DA SENTENÇA CONDENATÓRIA E DA DENÚNCIA. INSTRUÇÃO DEFICIENTE.
+Writ não conhecido.
