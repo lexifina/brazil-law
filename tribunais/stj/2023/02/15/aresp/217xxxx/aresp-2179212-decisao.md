@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por NILCEA APARECIDA NOBLE SANTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO cuja ementa guarda os seguintes termos (fl. 126):
+ADMINISTRATIVO. APELAÇÃO CÍVEL. MILITAR. CONVERSÃO DE LICENÇA ESPECIAL EMPECÚNIA. TRASNFERÊNCIA PARA A RESERVA REMUNERADA. TERMO A QUO DO LUSTROPRESCRICIONAL. PRESCRIÇÃO CONFIGURADA. SENTENÇA MANTIDA.
+1. Trata-se de recurso de apelação contra sentença que ante o reconhecimento da prescrição, julgou improcedente o pedido de conversão de licença especial militar em pecúnia.
+2. Consoante jurisprudência pacífica do Colendo Superior Tribunal de Justiça, o termo inicial da contagem do prazo prescricional para postular a conversão da licença especial em pecúnia, nos moldes do requerido, é a data da aposentadoria do servidor ou, como na hipótese, da transferência para a reserva remunerada, ocorrida em 17/08/2009, restando manifestamente prescrita a pretensão formulada visto que a demanda somente foi proposta em 17/05/2021.
+3. Oportuno salientar que Portaria Normativa n. 31/GM-MD, de 24/05/2018 não representa renúncia à prescrição. De fato, o mencionado ato normativo condiciona a análise dos requerimentos de conversão em pecúnia aos parâmetros e condições contidos no Parecer nº 00125/2018/CONJUR-MD/CGU/AGU, de 5 de março de 2018,aprovado pelo Despacho Decisório nº 2/GM-MD, de 12 de abril de 2018 (art. 2º, parágrafo único) e, mais adiante, expressamente consigna, em seu art. 6º, que "o requerimento de que trata o inciso I do art. 3º será automaticamente indeferido quando constatada a ocorrência da prescrição quinquenal, tornando prejudicada a continuidade do procedimento, sendo o interessado notificado da decisão".
+4. Apelação desprovida.
+Sem embargos de declaração.
+No mérito, alega violação dos arts. 189, 191, c/c o art. 202, VI, do Código Civil 2002, ante o reconhecimento, pelo Tribunal de origem, da prescrição da pretensão do autor de conversão das suas licenças especiais em pecúnia. Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 173-176).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fl. 182), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Verifica-se que a matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos (REsp n. 1.925.192/RS), que cuida do Tema n. 1.109/STJ:
+Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado.
+A propósito, confira-se:
+DIREITO ADMINISTRATIVO. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. CONTROVÉRSIA 285. SERVIDOR PÚBLICO. ATO REVISIONAL DE APOSENTADORIA. RECONHECIMENTO ADMINISTRATIVO DO DIREITO APÓS O TRANSCURSO DO PRAZO PRESCRICIONAL. RENÚNCIA. POSSIBILIDADE DE SUA OCORRÊNCIA.
+1. Delimitação da controvérsia: "Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado."
+(ProAfR no REsp 1.925.192/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 20/10/2021.)
+Em tal circunstância, deve-se oportunizar às instâncias de origem o juízo de retratação na forma dos arts. 543-C, § 7º, 543-B, § 3º, do CPC, e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido. (AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/5/2012.)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
