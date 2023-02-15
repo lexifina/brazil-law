@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Maria Luiza Construções e Empreendimentos Imobiliários Ltda., com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 339):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - RESCISÃO CONTRATUAL - RESTITUIÇÃO DE VALORES PAGOS - Rescisão unilateral do contrato pelo adquirente (Autor) - Cabível a condenação da Requerida à restituição dos valores pagos, deduzido o percentual de retenção - Razoável a fixação do percentual de retenção em 10% da quantia paga - SENTENÇA DE PARCIAL PROCEDÊNCIA, para declarar rescindido o contrato e para condenar a Requerida à restituição de 90% dos valores pagos pelo Autor a título de aquisição do imóvel (em parcela única), e para determinar que a Requerida se abstenha de solicitar o registro de inadimplência por eventuais parcelas inadimplidas após 28 de abril de 2020 (sob pena de multa diária no valor de R$ 200,00, limitada a R$ 30.000,00) - Razoável a fixação do percentual de retenção em 25% da quantia paga (conforme atual orientação do Superior Tribunal de Justiça) - RECURSO DA REQUERIDA PARCIALMENTE PROVIDO, para condená-la à restituição de 75% dos valores pagos pelo Autor a título de aquisição do imóvel (em parcela única).
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente indicou violação ao art. 1.022, parágrafo único e seu inciso II, do CPC/2015, sob a assertiva de que o Tribunal de origem, apesar de instado, não teria se manifestado sobre a alegação de que seria abusivo o pedido de rescisão do compromisso de compra e venda após o pagamento substancial das parcelas contratadas.
+Contrarrazões às fls. 401-409 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+Quanto à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A propósito, confira-se o seguinte trecho do julgamento do recurso de apelação (e-STJ, fls. 341-342):
+No mais, incontroverso que celebrado compromisso de compra e venda (em 08 de abril de 2014 - fls. 22/26) relativo ao lote número 02, quadra 07, do imóvel matriculado sob o número 36.724 do Cartório de Registro de Imóveis de Ibitinga, e que adimplido o valor histórico de R$ 37.148,79 (em 18 de junho de 2020 - fls. 176/177), limitando-se a controvérsia à possibilidade de rescisão do compromisso e ao percentual de retenção dos valores pagos.
+A Súmula 1 deste Tribunal de Justiça prevê a possibilidade de rescisão do compromisso de compra e venda pelo compromissário comprador, com a restituição das quantias pagas, "admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem".
+Assim, correta a declaração da rescisão do compromisso de compra e venda, com a abusividade da cláusula contratual que impossibilita o pedido de rescisão do contrato, sendo irrelevante o percentual das parcelas adimplidas.
+Do exposto, verifica-se que o Tribunal de origem se manifestou de forma expressa e fundamentada acerca da questão jurídica suscitada, pontuando ser irrelevante o percentual das parcelas adimplidas para o fim de possibilitar a rescisão contratual.
+Nesse contexto, não se constata a propalada ofensa ao art. 1.022 do CPC/2015, mas a mera irresignação da parte com o entendimento apresentado na decisão, situação que não se confunde com negativa de prestação jurisdicional.
+Ilustrativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PROCESSO ADMINISTRATIVO FISCAL. NOTIFICAÇÃO VIA POSTAL. REGULARIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Não há violação do art. 1.022, II, do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+(..)
+4 . Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.582.901/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial de Maria Luiza Construções e Empreendimentos Imobiliários Ltda.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DE MARIA LUIZA CONSTRUÇÕES E EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
