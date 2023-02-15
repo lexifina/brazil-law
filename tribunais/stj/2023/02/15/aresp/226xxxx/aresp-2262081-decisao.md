@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+EXECUÇÃO FISCAL EXCEÇÃO DE PRÉ- EXECUTIVIDADE Pretensão à limitação dos juros à Taxa SELIC, mesmo no tocante à fração de mês Ocorrência Conquanto a CDA impugnada refira-se à competências quando, em tese, já afastada a incidência de juros em excesso, tem-se que a Lei Estadual nº 16.497/17, da mesma forma que a Lei Estadual nº 13.918/09, também fixou taxa de juros em patamar superior à SELIC, ao dar nova redação ao disposto no item 2, do §1º do inciso II do artigo 96 da Lei Estadual nº 6.374/89 Aplicação indevida do índice de 1% para a fração do mês, posto que já conhecida a taxa SELIC vigente à época Recálculo que deve ser realizado de acordo com o entendimento fixado na Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000 Recálculo da CDA que não importa nulidade do título Mera adequação aritmética Em virtude do acolhimento da exceção de pré-executividade, necessário o arbitramento de honorários advocatícios Conforme orientação do STJ, "a fixação da verba sucumbencial é cabível quando a procedência do incidente de exceção de pré-executividade resultar na extinção parcial da dívida ou na redução do valor" Precedentes da Câmara Honorários advocatícios que, na espécie, devem ser fixados em 10% sobre o proveito econômico obtido Decisão reformada Recurso parcialmente provido.
+Os Embargos de Declaração foram acolhidos nestes termos:
+EMBARGOS DE DECLARAÇÃO Alegação de omissão Reconhecimento de que a condenação ao pagamento de honorários advocatícios não constou na parte dispositiva do acórdão Necessária integração do julgado Embargos de declaração acolhidos, sem efeito modificativo, apenas para inclusão, na parte dispositiva, da condenação da Fazenda Pública Estadual ao pagamento de honorários advocatícios em 10% sobre o proveito econômico obtido pela parte.
+Nas razões do Recurso Especial, o agravante sustenta que ocorreu violação dos arts. 1.022, I e III, e 1.025 do Código de Processo Civil e do art. 161, § 1º, do Código Tributário Nacional.
+Contrarrazões às fls. 148-150, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.8.2022.
+O Tribunal de origem consignou:
+Com isso, foi fixado para o montante do imposto ou da multa, aplicada nos termos do artigo 85 da Lei Estadual nº 6.374/89, a taxa de juros de mora em 0,13% ao dia (art. 96, § 1º), facultada a sua redução por ato do secretário da fazenda (art. 96, § 4º).
+Todavia, o Órgão Especial desta Corte dirimiu a questão constitucional da norma em comento, ao julgar procedente em parte a Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000, nos seguintes termos:
+(..)
+Como resultado do julgamento acima mencionado, o E. Órgão Especial desta A. Corte declarou inconstitucional a interpretação e aplicação que estava sendo dada pelo Estado aos artigos 85 e 96 da Lei Estadual nº 6.374/89, com a redação dada pela Lei Estadual nº 13.918/2009, sem alterá-las gramaticalmente, de modo que seu alcance valorativo ficasse adequado à CF (art. 24, inciso I e § 2º).
+Diante disso, em interpretação do exposto, o índice aplicável à fração do mês em que se inicia os juros deve ser limitado à Taxa SELIC.
+Este entendimento é perfilhado tanto pela jurisprudência desta C. Oitava Câmara, quanto desta A. Corte. Observa-se:
+(..)
+Dessa forma, o cálculo do débito exigido pela Fazenda deve ser refeito, aplicando-se a Lei Estadual nº 13.918/2009 em interpretação conforme a Constituição, de modo que, no cômputo dos juros para a fração do mês, seja utilizada a taxa SELIC.
+Contudo, o fato de terem sido excluídos os juros moratórios fixados nos termos da Lei nº 13.918/2009, não faz com que a Certidão de Dívida Ativa seja inexigível, ou nula, vez que é perfeitamente possível a desconstituição de parte do título.
+No caso concreto, simples cálculo aritmético será suficiente para apuração do novo quantum, de modo a ser indevida a declaração de nulidade do título objeto da execução.
+Logo, é o caso de se deferir parcialmente o recurso para que a Fazenda Pública do Estado de São Paulo recalcule os valores das Certidões da Dívida Ativa em questão, procedendo ao afastamento da aplicação dos juros previstos na Lei Estadual nº 13.918/09, devendo incidir sobre os créditos tributários, mesmo na fração do mês, a taxa SELIC. (fls. 68-73, e-STJ)
+Preliminarmente, constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, visto não haver no aresto hostilizado quaisquer dos vícios previstos nesse dispositivo legal. O colegiado originário analisou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+O acórdão recorrido está em consonância com a jurisprudência da Primeira Seção do Superior Tribunal de Justiça, que se orienta no sentido de que é possível alterar a Certidão de Dívida Ativa quando a operação envolver simples cálculos aritméticos.
+A verificação de liquidez e certeza da CDA ou, ainda, da presença dos requisitos essenciais à sua validade demanda a reapreciação do conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+A pretensão do agravante não envolve a aplicação do direito ao caso. O que se pretende é modificar as premissas estabelecidas no decisum em sentido oposto ao interesse da parte, o que não se confunde com revalorar as conclusões obtidas pelo órgão julgador e também é obstado pela Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à afronta ao art. 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
