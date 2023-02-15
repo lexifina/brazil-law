@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. Cumprimento de sentença iniciado em junho de 2007. Desaparecimento da empresa devedora, sem localização de bens passíveis de penhora. Sócio que não deu conta do paradeiro da empresa ou de seus bens, caracterizada confusão patrimonial. Tipificação da conduta prevista no artigo 50, parágrafo 2º, inciso III, do Código Civil. Incidente acolhido. Decisão que deve subsistir. Agravo de instrumento não provido.
+Alegou-se, no especial, violação do artigo 50, § 2º, III, do Código Civil, sob o argumento de que o encerramento irregular da empresa ou a ausência de bens não é causa sufi ciente para a desconsideração da personalidade jurídica.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local manteve a decisão que acolheu a desconsideração da personalidade jurídica da interessada sob o fundamento de que "o agravante, sócio da empresa devedora, nada disse sobre o destino da empresa e do seu patrimônio, que, certamente, não foi utilizado para liquidação ou amortização de dívidas da empresa, já que não há notícia de processo de recuperação judicial ou de falência, o que, a meu ver, caracteriza desvio de patrimônio por parte dos sócios, tipificada a hipótese de confusão patrimonial prevista no artigo 50, parágrafo 2º, inciso III, do Código Civil" (e-STJ, fl. 60).
+Esta Corte Superior tem entendimento de que a desconsideração da personalidade jurídica depende da comprovação do abuso, mediante a verificação de confusão patrimonial ou desvio de finalidade, hipóteses que demandam fundamentação concreta, não servindo para tanto o encerramento irregular das atividades ou ausência de bens.
+Assim:
+AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INSUFICIÊNCIA DE PATRIMÔNIO. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. ELEMENTO DE FUNDAMENTAÇÃO INSUFICIENTE. NÃO COMPROVAÇÃO DE ABUSO DE PERSONALIDADE, CARACTERIZADO PELO DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. INTELIGÊNCIA DO ART. 50 DO CCB. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos arts. 489 e 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de mera insolvência.
+Precedentes.
+3. A inexistência ou não localização de bens da pessoa jurídica não é condição para a instauração do procedimento que objetiva a desconsideração, por não ser sequer requisito para aquela declaração, já que imprescindível a demonstração específica da prática objetiva de desvio de finalidade ou de confusão patrimonial.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.699.542/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/2/2022, DJe de 4/3/2022.)
+A relação de causa e efeito estabelecida pelo Tribunal de origem (ausência de bens como pressuposto de confusão patrimonial) não encontra ressonância na jurisprudência desta Casa.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para afastar a desconsideração da personalidade jurídica da interessada.
+Intimem-se.
