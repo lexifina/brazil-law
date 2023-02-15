@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+APELAÇÃO. TRIBUTÁRIO. DÍVIDA ATIVA. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO OPOSTOS POR SICREDI CELEIRO SUL MINAS-COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO CELEIRO SUL MINAS . ASSOCIAÇÃO DE PESSOAS COM INTERESSES COMUNS, QUE PRESTA SERVIÇOS SEM FINS LUCRATIVOS. DETERMINADA A PENHORA DE QUOTAS SOCIAIS DE SOCIEDADE COOPERADA, DEVEDORA EM EXECUÇÃO FISCAL ESTADUAL. ALEGADA RESTRIÇÃO SOBRE O PATRIMÔNIO DE OUTREM NÃO PERMITIDA. VEREDICTO DE IMPROCEDÊNCIA. INSURGÊNCIA DA SOCIEDADE COOPERATIVADA. ROGO PARA QUE SEJA RECONHECIDA A IMPENHORABILIDADE. ELOCUÇÃO INCONGRUENTE. ESCOPO ABDUZIDO. PRECEDENTES.
+"É viável realizar penhora diretamente sobre as cotas pertencentes a sócio de cooperativa, porém, observadas as características próprias da sociedade cooperativa em relação aos efeitos dessa constrição, faculta-se à cooperativa, na qualidade de terceira interessada, remir a execução, remir o bem ou concedê-la - e aos demais sócios - a preferência na aquisição das cotas, bem como faculta-se ao credor, não ocorrendo solução satisfatória, o direito de requerer a dissolução parcial da sociedade, com a exclusão do sócio e consequente liquidação da respectiva cota, nos termos da orientação do STJ (REsp 1.278.715/PR)." (TJSC, Apelação n. 5004914-74.2020.8.24.0067, rel. Des.
+Monteiro Rocha, Segunda Câmara de Direito Civil, j. em 20/05/2021).
+SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Os Embargos de Declaração foram rejeitados, nestes termos:
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC.
+Apelação. Tributário. Dívida Ativa. Imposto sobre Circulação de Mercadorias e Serviços. Execução Fiscal. Embargos de Terceiro opostos por SICREDI CELEIRO SUL MINAS-COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO CELEIRO SUL MINAS. Associação de pessoas com interesses comuns, que presta serviços sem  ns lucrativos. Determinada a penhora de quotas sociais de sociedade cooperada, devedora em Execução Fiscal Estadual. Alegada restrição sobre o patrimônio de outrem não permitida. Veredicto de improcedência. Insurgência da sociedade cooperativada. Rogo para que seja reconhecida a impenhorabilidade. Elocução incongruente. Escopo abduzido. Precedentes.  ..  Sentença mantida. Recurso conhecido e desprovido.
+INEXISTÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL.
+ARGUMENTOS QUE EVIDENCIAM O INTUITO DE REDISCUTIR TESES JÁ SUBMETIDAS E AMPLAMENTE DEBATIDAS PELO COLEGIADO.
+MANIFESTAÇÃO NÃO PERTINENTE, E QUE CONSUBSTANCIA MERO INCONFORMISMO COM A SOLUÇÃO DA LIDE.
+PREQUESTIONAMENTO.
+INTENTO QUE NÃO SE COADUNA COM A NATUREZA INTEGRATIVA DO INSTITUTO. INVIABILIDADE.
+PRECEDENTES.
+"Os embargos de declaração têm o escopo de sanar possível obscuridade, contradição, omissão ou, ainda, erro material na decisão atacada, nos termos do art. 1.022 do Código de Processo Civil. Se a intenção da embargante não é outra senão rediscutir a prestação jurisdicional entregue, com o fim de amoldá-la ao seu entendimento, não há o que aperfeiçoar, sendo também inviável o pleito de prequestionamento." (TJSC, Apelação n. 0006905-89.2012.8.24.0023, rel. Des. Odson Cardoso Filho, Quarta Câmara de Direito Público, j. em 24/02/2022).
+DECLARATÓRIOS CONHECIDOS E REJEITADOS.
+A parte recorrente alega violação dos arts. 141, 489, § 1º, IV, 492, 1.013 e 1.022, I e II, do Código de Processo Civil.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10.1.2023.
+No julgamento dos Aclaratórios, o Tribunal de origem asseverou:
+Na espécie, o reclamo da Cooperativa de Crédito, Poupança e Investimento Celeiro Sul Minas- Sicredi Celeiro Sul Minas RS/SC/MG não se mostra pertinente, visto que consubstancia mero inconformismo coma solução da demanda, contrastando com o fundamento decisório patenteado, evidenciando latente pretensão de adequação do julgado ao seu interesse.
+Em razão de sua natureza estrita, os embargos de declaração não se prestam à rediscussão do tema já suficientemente debatido no aresto verberado, pelo simples fato da parte embargante discordar das suas conclusões.
+Além disso, a matéria apontada nos aclaratórios foi enfrentada no acórdão combatido, de forma clara e objetiva.
+Senão, veja-se:
+Sicredi Celeiro Sul Minas-Cooperativa de Crédito, Poupança e Investimento Celeiro Sul Minas se insurge contra a ordem para penhora de quotas sociais de Stalar Materiais de Construção Ltda. (em Recuperação Judicial), sociedade empresária devedora nos autos da Execução Fiscal n. 0900037-25.2018.8.24.0067.
+Pois bem.
+Sem rodeios, adianto: a irresignação não prospera.
+Consoante o entendimento do Superior Tribunal de Justiça, ""é possível a penhora de cotas pertencentes a sócio de cooperativa, por dívida particular deste, pois responde o devedor, para o cumprimento de suas obrigações, com todos seus bens presentes e futuros" (Ministra Nancy Andrighi)" (STJ, AgInt no AREsp n. 1694841/SP, rel. Min. Marco Buzzi, Quarta Turma, j. em 26/10/2020).
+Sobre a temática - por consubstanciar circunstância análoga que merece idêntica solução -, trago à lume a interpretação da norma consagrada na decisão lançada pelo Desembargador Monteiro Rocha, quando do julgamento da congênere Apelação Cível n. 5004914-74.2020.8.24.0067, a qual adiro e reproduzo, justapondo-a em meu voto, nos seus precisos termos, como ratio decidendi:
+Versam os autos sobre penhora realizada nos autos de cumprimento de sentença (execução de honorários), em que a constrição recaiu sobre as cotas sociais pertencentes ao executado, que é sócio de cooperativa de crédito.
+A súplica recursal da cooperativa embargante é dirigida contra sentença que, em embargos de terceiro por si opostos contra o exequente, julgou improcedentes os embargos, sob o fundamento de que "não há qualquer vedação à constrição e a ulterior alienação do patrimônio em questão, se observados os aspectos próprios da sociedade cooperativa", porquanto "é vedado o ingresso do credor como sócio, mas nada impede o recebimento dos valores atinentes às cotas, sendo que cabe à Cooperativa, no caso a embargante, remir a execução, remir o bem ou conceder aos demais sócios a preferência na aquisição das cotas".
+- Impenhorabilidade de cotas de sociedade cooperativa Alega a cooperativa embargante, em síntese, que " 1  o valor investido pelo sócio no capital social sai do patrimônio do mesmo e passa a integrar o patrimônio líquido da cooperativa;  2  o capital social da cooperativa é utilizado para o desenvolvimento da atividade econômica prevista no estatuto próprio e, não como nas sociedades mercantis, aplicado na geração de lucro;  3  o valor da cota capital somente passará a ser exigível ao sócio, ou seja, deixará de integrar o patrimônio líquido da cooperativa, quando do seu desligamento;  4  o sócio, ao integralizar a cota capital, deixa de ter a disponibilidade sobre tal valor, passando este a ser considerado como patrimônio líquido da cooperativa (art. 24, §4º, da Lei no 5.764/1971), tornando-se, pois, impenhorável para garantia de débito do cooperado devedor".
+As razões desmerecem acolhimento.
+Sobre o tema, é orientação do Superior Tribunal de Justiça que o primordial óbice - que é a transferência de costas a terceiros (art. 1.094, inc. IV, do CC/02 e art. 4º, inc. IV, da Lei nº 5.764/71), além de outros -, não impede a penhora realizada diretamente sobre as cotas sociais do cooperado, pois os efeitos dessa constrição devem ser aplicados em consonância com os princípios societários e características próprias da cooperativa, ou seja, "deve-se facultar à sociedade cooperativa, na qualidade de terceira interessada, remir a execução (art. 651, CPC), remir o bem (art. 685-A, § 2º, CPC) ou concedê-la e aos demais sócios a preferência na aquisição das cotas (art. 685-A, § 4º, CPC), a tanto por tanto, assegurando-se ao credor, não ocorrendo solução satisfatória, o direito de requerer a dissolução parcial da sociedade, com a exclusão do sócio e consequente liquidação da respectiva cota", verbis:
+(..)
+Assim, nego provimento ao recurso da cooperativa embargante, mantendo-se a penhora realizada diretamente sobre as cotas pertencentes a sócio de cooperativa (executado), porém, observadas as características próprias da cooperativa em relação aos efeitos dessa constrição, faculta-se à sociedade cooperativa, na qualidade de terceira interessada, remir a execução, remir o bem ou concedê-la - e aos demais sócios - a preferência na aquisição das cotas, bem como faculta-se ao credor, não ocorrendo solução satisfatória, o direito de requerer a dissolução parcial da sociedade, com a exclusão do sócio e consequente liquidação da respectiva cota, nos termos da orientação do STJ (REsp 1.278.715/PR). (grifei)
+(..)
+À vista disso, avulto que o acórdão abordou todos os pontos necessários ao deslinde da controvérsia, inexistindo qualquer omissão, obscuridade, contradição ou erro material a serem sanados.
+Ora, o cerne da insurgência recursal consistia na discussão acerca da viabilidade da ordem para penhora de quotas sociais da sociedade empresária Stalar Materiais de Construção Ltda. (em Recuperação Judicial) - devedora na Execução Fiscal n. 0900037-25.2018.8.24.0067 -, tendo o aresto objurgado assim exarado:
+ ..  Consoante o entendimento do Superior Tribunal de Justiça, ""é possível a penhora de cotas pertencentes a sócio de cooperativa, por dívida particular deste, pois responde o devedor, para o cumprimento de suas obrigações, com todos seus bens presentes e futuros" (Ministra Nancy Andrighi)" (STJ, AgInt no AREsp n. 1694841/SP, rel. Min. Marco Buzzi, Quarta Turma, j. em 26/10/2020).
+ ..  Epitomando: inexiste qualquer obstáculo à penhora das quotas sociais de Stalar Materiais de Construção Ltda. (em Recuperação Judicial).
+Igualmente insubsiste a assertiva de omissão quanto à alegação de que "o valor da cota social que vier a ser apurado deverá ser compensado com as obrigações pendentes que tenham sido assumidas pelo associado perante a Cooperativa, e que SOMENTE O SALDO QUE SOBEJAR PODE SER OBJETO DE CONSTRIÇÃO".
+A propósito, no aresto restou referenciado que:
+(..)
+Ademais, a respeito da compensação prevista no Estatuto Social, a Juíza de Direito Catherine Recovreux já havia esclarecido acerca da incidência do art. 861 do CPC na sentença, cuja aplicação permaneceu incólume no julgamento do apelo.
+Com efeito, inexistindo óbice à penhora, as demais questões pertinentes ao saldo devedor deverão ser dirimidas no curso da execução, operando-se a liquidação, se necessário.
+(..)
+Deste modo, insubsistindo os vícios tipificados no art. 1.022 do CPC, nego provimento a insurgência. (fls. 196-200, e-STJ)
+Não há violação dos arts. 489 e 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+O órgão julgador enfrentou a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Ademais, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A pretensão da agravante não envolve a aplicação do direito ao caso. Pleiteia-se modificar as premissas fáticas estabelecidas no acórdão hostilizado, em sentido oposto ao lá estabelecido, desiderato inconfundível com revalorar as conclusões a partir delas extraídas e obstado em razão da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar -lhe provimento.
+Publique-se.
+Intimem-se.
