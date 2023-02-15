@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DA 2ª UNIDADE JURISDICIONAL CÍVEL DE TEÓFILO OTONI - MG, suscitante, e o JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL ADJUNTO DE TEÓLIFO OTONI - SJ, suscitado.
+De acordo com os autos, LORENA FERREIRA DOS SANTOS e OUTRO, ajuizaram ação de obrigação de fazer c/c reparação por danos morais c/c tutela provisória de urgência, em desfavor da FETREMIS - FACULDADE DE EDUCAÇÃO E TECNOLOGIA DA REGIÃO MISSIONÁRIA e FALIBER - FACULDADE LIBERDADE - EDUCAÇÃO E TECNOLOGIA, objetivando a expedição dos diplomas devidamente registrados, sob pena de incidência de multa (fls. 7/19e).
+A ação foi proposta perante a Justiça Estadual. Declarando-se incompetente, o juízo estadual determinou a remessa dos autos à Justiça Federal.
+O Juízo Federal declinou de sua competência, afirmando que "não cabe à União, nem ao Ministério da Educação, emitir ou registrar diplomas universitários. De acordo com a legislação em vigor, trata-se de competência das Instituições de Ensino Superior - IES-, nos termos das regras e diretrizes do MEC" (fl. 437e).
+O conflito de competência foi suscitado com base na tese firmada no Tema 1.154 do STF (fls.453/457).
+Tal como destacado pelo Juízo Suscitante, o Supremo Tribunal Federal, no julgamento do Tema 1.154 da repercussão geral, firmou a seguinte tese: "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL ADJUNTO DE TEÓLIFO OTONI-SJ , suscitante, para o processamento do feito.
+I.
