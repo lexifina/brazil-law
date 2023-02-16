@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JORGE RUBEZ JUNIOR contra decisão que inadmitiu recurso especial pelos seguintes fundamentos: a) impossibilidade de análise de ofensa a dispositivos constitucionais em recurso especial; b) ausência de violação dos arts. 11, 489, 1.013 e 1.022 do CPC; c) não demonstração de ofensa aos arts. 166, II, do CC, 3º da MP n. 2.172-32/2001 e 371, 389 e 390, § 2º, do CPC; c) incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta que o acórdão não apreciou a causa de pedir apresentada nos embargos à execução (inexigibilidade do título emitido para garantia de agiotagem, o que foi confessado pelo embargado em audiência), mesmo diante da oposição de embargos de declaração, incorrendo em clara negativa de prestação jurisdicional e na violação dos arts. 11, 489, II e § 1º, II, III e IV, 1.013 e 1.022 do CPC.
+Destaca que, ao ignorar a causa de pedir e a se recusar a apreciar as alegações apresentadas e a prova dos autos, violou os arts. 166, II, do CC, 3º da Medida Provisória n. 2.172-32/2001 e 371, 389 e 390, § 2º, do CPC.
+Ressalta que o recurso especial demonstrou, de forma fundamentada, a violação de diversos dispositivos legais.
+Argumenta que não pretende obter a reapreciação de provas em recurso especial, o que afasta a incidência da Súmula n. 7 do STJ. Esclarece que o julgamento do recurso especial demanda apenas o cotejo entre o pedido e a causa de pedir deduzidos nos embargos à execução, presentes nos autos, e os fundamentos do julgado combatido.
+Requer o provimento do agravo em recurso especial para que seja admitido e provido o recurso especial.
+O agravado apresentou contraminuta.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão que inadmitiu o recurso especial fundamentou-se nas seguintes razões: a) impossibilidade de análise de ofensa a dispositivos constitucionais em recurso especial; b) ausência de violação dos arts. 11, 489, 1.013 e 1.022 do CPC; c) não demonstração de ofensa aos arts. 166, II, do CC, 3º da MP n. 2.172-32/2001 e 371, 389 e 390, § 2º, do CPC; c) incidência da Súmula n. 7 do STJ.
+Nas razões recursais, porém, a parte agravante não impugnou especificamente a impossibilidade de análise da ofensa de dispositivos constitucionais em recursos especial.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte recorrida, os honorários advocatícios de 15%, percentual arbitrado na origem, para 20% sobre o valor da condenação, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
