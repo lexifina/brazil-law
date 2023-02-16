@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VERTICAL ENGENHARIA E INCORPORAÇÕES LTDA. (VERTICAL) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, de relatoria da Desª. MARIA ZENEIDE BEZERRA, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. SENTENÇA PARCIALMENTE PROCEDENTE. APELAÇÃO CÍVEL. PLEITO DE REFORMA DO . NÃO ACOLHIMENTO. CONTEXTO PROBATÓRIO DECISUM CRISTALINO A ENSEJAR A RESPONSABILIDADE DA APELANTE. MORA NA ENTREGA DO EMPREENDIMENTO CONFIGURADA. RESTITUIÇÃO DO EQUIVALENTE A 0,5% AO MÊS SOBRE O VALOR ORIGINAL DO IMÓVEL, CONTADO A PARTIR DO VENCIMENTO DO PRAZO DE TOLERÂNCIA "MAIO/2013" ATÉ A EFETIVA LAVRATURA DO HABITE-SE, "FEVEREIRO /2015". APELO CONHECIDO, MAS DESPROVIDO (e-STJ, fl. 339).
+Irresignada, VERTICAL interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação aos arts. 389, 402 e 476 do CC/02, ao sustentar o descabimento da indenização por lucros cessantes, a título de aluguéis, bem como da devolução das parcelas relativas ao IPTU da unidade, que foram pagas entre maio de 2013 e fevereiro de 2015, uma vez que a compromissária compradora não efetuou o pagamento das chaves na data aprazada, além de ter sido imitida na posse do imóvel em dezembro de 2013.
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio Grande do Norte (e-STJ, fls. 404/406).
+Nas razões do presente agravo, VERTICAL alegou ter impugnado todos os fundamentos da decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Dos lucros cessantes e da restituição das parcelas relativas ao IPTU
+Nas razões do recurso especial, VERTICAL defendeu o descabimento da indenização por lucros cessantes, a título de aluguéis, bem como da devolução das parcelas do IPTU, referentes ao período compreendido entre maio de 2013 e fevereiro de 2015, uma vez que a compromissária compradora não efetuou o pagamento das chaves na data aprazada, além de ter sido imitida na posse do imóvel em dezembro de 2013.
+Contudo, sem razão.
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora insurgente, o TJRN assim se pronunciou:
+No contrato firmado com a recorrida existia previsão de entrega do imóvel, já contando com a previsão da tolerância de 180 (cento e oitenta) dias, para maio de 2013 e destaco que esta Corte de Justiça vem decidindo não haver ilegalidade na cláusula contratual que estipula o prazo de tolerância, na linha dos seguintes julgados:
+ ..
+E esta Corte entende que é lícito ao adquirente recusar o recebimento das chaves do imóvel quando este não possui habite-se devidamente expedido, todavia, uma vez aceita e consumada a imissão da posse pelo adquirente, ainda que não concluído o processo de regularização do habite-se, deve este arcar com os ônus legais e contratuais que lhe competem. Em contrapartida, deixa de existir a mora da vendedora especificamente no que se refere ao ato de entrega do bem, consoante jurisprudência:
+ ..
+Acontece que, no caso dos autos, a Apelante não comprovou que houve a entrega efetiva das chaves do imóvel à apelada, inclusive, vejo que o Termo de Vistoria foi assinado por pessoa alheia ao processo (id. 6016506 - Pág. 13), porquanto inexiste a imissão de posse do imóvel (unidade 1303 do Edifício Leonor Gonçalves) e o habite-se somente ocorreu em fevereiro de 2015, restando claro o descumprimento contratual apto a ensejar a reparação do dano eventualmente existente, pelo defeito no serviço, nos moldes do artigos 389 e 402 do Código Civil, que estabelecem:
+ ..
+Sobre o assunto, evidencio entendimento do STJ no sentido de existir presunção relativa dos prejuízos suportados pelo promitente comprador em razão do atraso na entrega do imóvel pelo promitente vendedor, sendo ônus deste último a prova de que a demora no cumprimento do contrato não lhe é imputável (e-STJ, fls. 342/344)..
+Desse modo, para rever a convicção firmada no Tribunal de origem, no tocante ao descumprimento do prazo de entrega da unidade, bem como em relação à ausência de recebimento das chaves do imóvel pela adquirente, seria necessária a interpretação de cláusulas do contrato firmado entre as partes, bem como o reexame dos elementos fático-probatórios da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. TERMO INICIAL DA CORREÇÃO MONETÁRIA E DOS JUROS DE MORA. INOVAÇÃO RECURSAL. EXCEÇÃO DO CONTRATO NÃO CUMPRIMENTO. REJEIÇÃO. REEXAME. SÚMULAS 5 E 7/STJ. INDENIZAÇÃO POR DANO MORAL. ATRASO EXCESSIVO. SÚMULA N. 83/STJ. AGRAVO INTERNO CONHECIDO EM PARTE E, NA EXTENSÃO, IMPROVIDO.
+1. Fica inviabilizado o conhecimento de matéria suscitada somente no agravo interno, por se tratar de indevida inovação recursal.
+2. No caso, segundo o Tribunal de origem, " a  mora das empresas iniciou-se em 30/07/2013 ao extrapolarem o prazo fatal para a entrega da unidade e findou em 02/06/2014 quando procederam a entrega das chaves à autora, sendo certo que esta obrigação de quitar o saldo devedor estava vinculada à entrega das chaves e tendo ocorrido dilação do prazo de entrega por parte das rés, não há que se falar inadimplência da autora". A reforma desse entendimento demandaria nova interpretação das cláusulas do contrato e o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõem as Súmula 5 e 7 deste Pretório.
+3. Consoante entendimento desta Corte Superior, a demora excessiva para entrega do empreendimento imobiliário supera o mero aborrecimento e enseja reparação por danos morais. Precedentes.
+4. Agravo interno conhecido em parte e, na extensão, improvido.
+(AgInt no AREsp 2.088.186/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 19/9/2021, DJe 4/10/2022 - sem destaque no original).
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. MORA DAS VENDEDORAS. AFASTAMENTO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso, a Corte de origem assentou que existiu mora das agravantes na entrega das chaves. Para rever tal entendimento, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284 e 283 do STF e 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.991.955/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 4/4/2022, DJe 8/4/2022 - sem destaque no original).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar o valor dos honorários advocatícios, nos termos do art. 85, § 11, do NCPC, tendo em vista a sua fixação pelo percentual máximo no acórdão recorrido.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. QUESTIONAMENTOS SOBRE O DESCUMPRIMENTO DO PRAZO DE ENTREGA DA OBRA E, EM CONSEQUÊNCIA, SOBRE A NECESSIDADE DE PAGAMENTO DE LUCROS CESSANTES E DEVOLUÇÃO DOS VALORES PAGOS A TÍTULO DE IPTU. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
