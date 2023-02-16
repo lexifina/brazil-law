@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Ministério Público do Paraná à decisão que negou provimento ao recurso especial por ele manejado (fls. 922/927):
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (432 KG DE MACONHA). VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA ESPECIAL DE DIMINUIÇÃO DA LEI DE DROGAS. PLEITO DE REDUÇÃO DA FRAÇÃO DE DIMINUIÇÃO DA PENA EM SEU PATAMAR MÍNIMO DE 1/6. INVIABILIDADE, SOB PENA DE BIS IN IDEM. QUANTIDADE DA DROGA APREENDIDA VALORADA NA EXASPERAÇÃO DA PENA-BASE. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO.
+Recurso especial desprovido.
+No presente recurso, é disposto que o decisum ora embargado padece de manifesto vício de obscuridade, uma vez que a fundamentação empregada para negar provimento ao apelo se encontra dissociada da causa de pedir do recurso;  ..  o Ministério Público do Estado do Paraná interpôs recurso especial postulando a aplicação da fração mínima de 1/6 para a minoração da pena dos recorridos, na forma do art. 33, § 4º, da Lei n. 11.343/2006, diante do reconhecimento de que atuaram como mulas ou transportadores de droga (fl. 932).
+Ao final da peça recursal, o Ministério Público do Paraná requer sejam os presentes embargos de declaração acolhidos, com a concessão de efeitos modificativos, para sanar o vício de obscuridade traduzido na dissociação entre a causa de pedir do recurso especial ministerial e o fundamento empregado para negar provimento ao apelo (fl. 936).
+Foi dispensada a oitiva da parte embargada.
+É o relatório.
+Não há vício a ser sanado. Objetivam os declaratórios a rediscussão de fundamentos da decisão embargada, finalidade essa imprópria para esta via recursal.
+Com efeito, não há ilegalidade na escolha do patamar de redução de pena adotada pela Corte paranaense.
+No caso concreto, poderia ser modulada a fração, levando em consideração a quantidade de entorpecente apreendido; contudo, para se evitar o bis in idem, haja vista a exasperação da pena-base com suporte nesse aspecto, inviável o acolhimento do pleito acusatório, nos termos da decisão embargada.
+A condição de mula, isoladamente considerada, sem a colação de fundamentos concretos que indiquem a vinculação dos embargados com a organização criminosa, não é condição obrigatória para a imposição da fração de redução de pena em patamar diverso do máximo permitido.
+A propósito, ainda que a qualidade de "mula", associada a outros elementos, possa evidenciar que o agente se dedica a atividades criminosas ou integra organização criminosa, a ensejar tanto a afastamento da minorante, como justificar a fixação de fração aquém da máxima legal de 2/3, inexiste ilegalidade a ser sanada na via do especial, na fixação da fração máxima pelas instâncias ordinárias, tendo em vista não apenas a ausência de previsão legal para se considerar tal fator como critério obrigatório para justificar menor redução, bem assim à luz do princípio da discricionariedade motivada.  ..  Ademais, a pretendida revisão do julgado, com vistas à alteração da fração redutora, fixada fundamentadamente pelas instâncias ordinárias, não se coaduna com a via especial, a teor da Súmula 7/STJ (AgRg no AREsp n. 1.882.395/PR, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/3/2022 - grifo nosso).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. TESE DE OBSCURIDADE. NÃO OCORRÊNCIA. MERO INCONFORMISMO. CONDIÇÃO DE MULA QUE, POR SI SÓ, NÃO OBRIGA A APLICAÇÃO DE PATAMAR DE REDUÇÃO AQUÉM DO MÁXIMO PERMITIDO PELA LEGISLAÇÃO. DISCRICIONARIEDADE DO JUÍZO.
+Embargos de declaração rejeitados.
