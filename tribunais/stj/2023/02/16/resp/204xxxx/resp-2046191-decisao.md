@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASSOCIAÇÃO DOS MORADORES DO LOTEAMENTO MARF II (MARF II), contra ELIO APARECIDO LOPES FARIA (ELIO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo (TJSP), relator designado JOSÉ APARÍCIO COELHO PRADO NETO, assim ementado:
+APELAÇÃO Ação de Inexigibilidade de Obrigação - Loteamento Condomínio Atípico Taxa de Manutenção Reconvenção cobrando dívida do autor relativa a multas, acordo e taxas totalizando R$ 7.330,33 - Sentença de procedência da ação e improcedência da reconvenção Inconformismo da ré pugnando pela improcedência da ação e procedência da reconvenção para condenar o autor no pagamento dos débitos anteriores à notificação, bem como das taxas mensais vencidas e vincendas - Descabimento Desligamento do autor do quadro associativo da ré oportunamente manifestado não pode ser ignorado, sob pena de afronta ao exercício do direito de liberdade associativa O decidido no Recurso Extraordinário nº 695.911/SP, em regime da repercussão geral, do STJ - Tema nº 492, não impede a pretensão de desassociação legitimamente levada a efeito pelo autor - Recurso desprovido. (e-STJ, fl. 468)
+Nas razões do presente recurso, MARF II alegou violação dos arts. 2º, § 8º, e 36-A, caput e parágrafo único, da Lei nº 6.766/1979; e 884 do CC, bem como dissídio jurisprudencial acerca do entendimento firmado nos Temas 492 do STF e 882 do STJ.
+Afirmou que (1) os atos constitutivos da associação de imóveis em loteamentos e as obrigações deles decorrentes vinculam tanto os já titulares de direitos sobre lotes que anuíram com sua constituição quanto os novos adquirentes de imóveis se a tais atos e obrigações for conferida publicidade por meio de averbação no competente registro do imóvel (e-STJ, fl. 505).
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+(1) cobrança da taxa de manutenção
+A revisão da conclusão adotada exige necessária análise fático-probatória da matéria.
+O Tribunal de origem, ao julgar a apelação, concluiu ser permitida o desligamento do associado, a partir do qual não será obrigado ao pagamento da taxa de manutenção. Confira-se:
+É certo que aos 18 de dezembro de 2020, no julgamento do Recurso Extraordinário nº 695.911/SP, em regime da repercussão geral, o Superior Tribunal de Justiça, terminou por dar solução ao Tema nº 492, firmando a seguinte tese:
+"É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis." (verbis).
+Contudo, a diretriz jurisprudencial supra transcrita não impede a pretensão de desassociação legitimamente levada a efeito pelo autor mediante o documento de fls. 13 recebido e não contestado pela ré.
+Com efeito, o pedido do autor de desfiliação, desassociação, desligamento, do quadro associativo da ré, legitima e inequivocamente manifestado pelo precitado documento de fls. 13, "permissa venia", não pode ser ignorado, sob pena de afronta ao exercício do direito de liberdade associativa garantido por nossa Carta Magna. (e-STJ, fls. 471/472)
+A conclusão adotada na origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que não há vedação alguma para o associado se desfiliar da associação, de sorte que as taxas de manutenção são devidas apenas até a data de desligamento dos recorridos (AgInt nos EDcl no REsp nº 1.812.571/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, Dje de 16.3.2020). Na mesma direção:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. ASSOCIAÇÃO CIVIL. COBRANÇA DE TAXA DE MANUTENÇÃO. DESCABIMENTO APÓS O DESLIGAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, "não há qualquer vedação para o associado se desfiliar da associação, de sorte que as taxas de manutenção serão devidas apenas e tão-somente até a data da sua manifestação" (AgInt no REsp n. 1.794.541/SP, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/6/2019, DJe 14/6/2019).
+1.1. Na esteira do entendimento desta Corte Superior, uma vez registrado no acórdão de origem que os então recorrentes encaminharam notificação extrajudicial à associação, solicitando sua desfiliação, a partir desse momento, não mais serão por eles devidas taxas de manutenção.
+2. A suposta existência de contrato-padrão levado a registro em cartório, o que demonstraria o vínculo entre quem administra o condomínio e o proprietário do imóvel a autorizar a cobrança da taxa de manutenção em questão, não foi tratada no acórdão impugnado tampouco pela Corte local, o que evidencia a ausência do devido prequestionamento. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.922.699/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula 568 do STJ.
+Acrescente-se que a motivação acima transcrita não foi combatida nas razões do especial, atraindo a incidência da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. LOTEAMENTO. TAXA DE MANUTENÇÃO. COBRANÇA. NÃO CABIMENTO. DESASSOCIAÇÃO. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA Nº 283 DO STJ. NÃO PROVIMENTO.
