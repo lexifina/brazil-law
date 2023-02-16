@@ -1,0 +1,27 @@
+DECISÃO
+KLEBER TAVARES SILVA aponta constrangimento ilegal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0015254-66.2022.8.26.0996.
+A defesa assere que o paciente cumpriu o requisito objetivo, de modo que a progressão de regime dever ser efetuada sem a obrigatoriedade de realização de exame criminológico.
+Requer, assim, a concessão da ordem, a fim de que seja a apenada inserido no regime aberto, dada a violação da Súmula n. 439 do STJ.
+Decido.
+O Juízo de primeiro grau assim indeferiu o benefício da progressão de regime:
+No presente caso, em que pese o preenchimento do requisito objetivo, o sentenciado cumpre pena por crime grave, cometido mediante violência ou grave ameaça e possui considerável período de pena por cumprir.
+Além disso, no caso, não se mostra razoável o simples atestado de bom comportamento carcerário como comprovação da absorção do requisito subjetivo, pois como é de conhecimento comum, o "bom" comportamento é decorrente da simples não anotação de faltas disciplinares ou reabilitação de faltas anteriores.
+Assim, nesta situação, denota ser necessário a realização de exame mais aprofundado, que forneça com segurança meios de avaliação do requisito subjetivo, especialmente quanto ao reconhecimento da responsabilidade e absorção da terapêutica penal.
+ ..
+Portanto, por ser um benefício da execução penal em que ocorre o abrandamento da vigilância direta do apenado, torna-se imprescindível a realização de exame criminológico para se aferir cumprimento do requisito subjetivo (fls. 36-37, grifei).
+A Corte de origem, confirmou a decisão do Juízo de primeiro grau, sob a seguinte argumentação:
+Portanto, a solicitação da realização do exame criminológico para apreciação do pedido de progressão de regime/livramento condicional está inserida no poder de cautela do juiz, devendo este apenas fundamentar adequadamente sua decisão.
+Assim, quando cumprido o lapso temporal requisito objetivo o julgador pode ter dúvidas quanto à aptidão, ao mérito e à capacidade do réu para ser agraciado com o benefício, hipótese esta que enseja a necessidade da realização do exame criminológico.
+Logo, não há que se falar que o julgador não pode se valer dos pareceres dos expertos, pois, desta forma, ele apenas age prudentemente a fim de sanar suas incertezas, dentro de seu livre convencimento motivado.
+Conforme se verifica pela decisão de fls. 28-29, o magistrado fundamentou sua decisão no fato de que o agravante teria cometido crimes mediante violência ou grave ameaça (art. 213, caput, art. 157, caput, ambos do CP), in verbis:
+No presente caso, em que pese o preenchimento do requisito objetivo, o sentenciado cumpre pena por crimes graves, cometidos mediante violência ou grave ameaça e possui considerável período de pena por cumprir.
+Além disso, no caso, não se mostra razoável o simples atestado de bom comportamento carcerário como comprovação da absorção do requisito subjetivo, pois como é de conhecimento comum, o "bom" comportamento é decorrente da simples não anotação de faltas disciplinares ou reabilitação de faltas anteriores.
+Assim, nesta situação, denota ser necessário a realização de exame mais aprofundado, que forneça com segurança meios de avaliação do requisito subjetivo, especialmente quanto ao reconhecimento da responsabilidade e absorção da terapêutica penal (fls. 59-60, destaquei).
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, sem a demonstração de prática de falta grave recente. Ainda, conforme pontuado pelo próprio Juízo de origem, o paciente ostenta bom comportamento.
+Sobre a matéria suscitada, o entendimento desta Corte Superior é firme no sentido de que " a  decisão que retarda a concessão do livramento condicional ao paciente, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico, configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável. Precedentes" (HC n. 399.139/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/10/2017, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de afastar a necessidade de realização de exame criminológico e promover o paciente ao regime semiaberto.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
