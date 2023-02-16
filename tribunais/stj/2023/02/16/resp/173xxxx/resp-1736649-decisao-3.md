@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por Ministério Público Federal (fls. 2.493/2.509), contra decisão do Tribunal Regional Federal da 3ª Região (fls. 2.600/2.603) que não admitiu recurso especial pelos seguintes motivos: (I) não ocorrência da alegada negativa de prestação jurisdicional; (II) não houve indicação do dispositivo de lei violado, o que atrai a aplicação da Súmula 284/STF; e (III) o dissídio jurisprudencial não foi adequadamente comprovado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar especificamente todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, a parte agravante deixou de rebater, de modo específico e mediante argumentação suficiente, um dos fundamentos adotados pelo Tribunal de origem para inadmitir o seu apelo nobre, qual seja, no ponto em que aquela Corte asseverou que "o recorrente limitou-se a defender as teses do item ii como se fosse mero recurso ordinário. Não apontou, de forma precisa, quais os dispositivos de lei federal que teriam sido violados e, consequentemente, não atendeu aos requisitos de admissibilidade do recurso extremo" (fl. 2.601 ).
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
