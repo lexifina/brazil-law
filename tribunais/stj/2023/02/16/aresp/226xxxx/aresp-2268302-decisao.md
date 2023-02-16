@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DE ÊXITO. REVOGAÇÃO DE MANDADO. SENTENÇA CASSADA. 1. Caso o contrato de honorários advocatícios seja avençado sob a cláusula ad exitum e na hipótese de revogação do mandado por iniciativa do outorgante, ao advogado contratado cabe propor ação de arbitramento judicial de honorários contratuais. 2. Com base nos princípios da fungibilidade, instrumentalidade das formas, economia processual e primazia da decisão de mérito (art. 4º, CPC), previstos no nosso ordenamento jurídico, desnecessário, no caso em análise, o ajuizamento de prévia ação de arbitramento de honorários advocatícios se intentada ação de conhecimento com pedido de cobrança e, subsidiariamente, de arbitramento de honorários.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 4º do CPC e 22, § 2º, da Lei nº 8.906/94, no que concerne à impossibilidade de propositura de ação de cobrança, porquanto a norma especial apontada veda tal iniciativa quando há prévio contrato de honorários advocatícios existente entre as partes em litígio, trazendo o(s) seguinte(s) argumento(s):
+18. A aplicação do artigo 4º do CPC, norma processual, não pode dá azo ao afastamento do que restou firmado no direito material, de forma escorreita, embasado em norma especial que regula a matéria
+ ..
+19. Para que haja a aplicação do artigo 4º, não pode haver vedação na norma do direito material, portanto, sua aplicação no presente caso não está correta, pois existe norma especial e que veda tal disparate, contida no §2º, do artigo 22, da Lei 8.906/1994, conforme se verá a seguir.
+ ..
+20. Certamente, a aplicação do artigo 4º do CPC, se deu de forma incorreta, no presente caso, pois não é possível a propositura da ação de cobrança (que é mais ampla), muito menos, a ação de arbitramento de honorários, proibida na legislação especial, que normatiza o contrato de honorários de advogado.
+ ..
+24. O contrato prevê todas as situações, inexistindo lacunas a justificar o arbitramento, sendo certo que os honorários serão aqueles pagos pelo executado, quando o BANCO receber sua dívida.
+ ..
+26. O contrato prevê o recebimento dos honorários do executado, apenas. O Banco ficaria responsável pelo pagamento de R$ 500,00, quando o executado não tiver bens. (fls. 405/407).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Observa-se dos autos que a parte autora/apelada convencionou com o banco réu/apelante dois contratos de prestação de serviços advocatícios, nas datas de 23/06/1999 e 20/03/2000 (com aditivos em 19/06/2000). Contudo, em 28/03/2013, o autor foi notificado acerca da rescisão unilateral do contrato pelo Banco do Brasil S/A, o que ensejou o ajuizamento da presente ação de cobrança de honorários advocatícios contratuais.
+Dito isso, verifica-se ser incontroversa nos autos a atuação profissional do autor na defesa dos interesses do réu/apelante, assim como o acertamento pelas partes da remuneração dos trabalhos mediante parcela do êxito alcançado ao final das ações.
+ ..
+Dessarte, como houve indiscutível revogação do mandado antes do efetivo recebimento dos proveitos econômicos almejados, uma vez que as ações ainda estão em tramitação, a ausência de proveito certo faz incidir, de pleno direito, as regras de "arbitramento de honorários" previstas no art. 22 da Lei nº 8.906/94 - Estatuto da Advocacia
+ ..
+A ação de arbitramento de honorários se presta somente para as hipóteses em que as partes não entabulam contrato de honorários advocatícios, ou, quando o contrato não é finalizado por meio do exaurimento do trabalho prometido, como na hipótese em apreço, de rescisão unilateral e estipulação de "cláusula ad exitum".
+ ..
+Com efeito, a remuneração do advogado pelos serviços efetivamente prestados não pode ter por base o parâmetro valor do proveito econômico inicialmente estimado (valor da causa), mas sim os atos processuais efetivamente desempenhados até o momento da revogação do mandato, situação que impõe a estipulação do valor efetivamente devido por meio de perícia.
+Ressalto, por fim, que, com base nos princípios da fungibilidade, instrumentalidade das formas, economia processual e primazia da decisão de mérito (art. 4º, CPC), previstos no nosso ordenamento jurídico, desnecessário, no caso em análise, o ajuizamento de prévia ação de arbitramento de honorários advocatícios se intentada ação de conhecimento com pedido de cobrança.
+Até mesmo porque na petição inicial, o autor requer, em pedido subsidiário, o arbitramento dos honorários.
+Assim, cabe ao juiz, o exame dos fatos alegados e do pedido como formulado na inicial, não se limitando ao conhecimento deste ao estrito nomen juris a ele atribuído pela parte, mas sim adequá-lo ao direito" (fls. 354/358).
+Tal o contexto, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
