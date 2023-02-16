@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de AMILTON SOARES DOS SANTOS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (RSE n. 5000728-72.2022.8.21.0147).
+No caso, o Tribunal de origem manteve a decisão que havia revogado o benefício da suspensão condicional do processo. O acórdão está assim ementado (e-STJ fl. 45):
+RECURSO EM SENTIDO ESTRITO. SUSPENSÃO CONDICIONAL DO PROCESSO. REITERAÇÃO NO DESCUMPRIMENTO. NÃO PAGAMENTO DAS PARCELAS VENCIDAS REFERENTE À REPARAÇÃO DO DANO, BEM COMO DA DOAÇÃO.
+A revogação do benefício da suspensão condicional do processo deve ser precedida de intimação, no intuito de permitir o exercício da ampla defesa e do contraditório. O acusado já havia tido o benefício revogado anteriormente, oportunidade em que apresentou nova proposta de acordo, que foi acolhida com parecer favorável do Ministério Público, sendo restabelecida a suspensão. Posteriormente, descumpriu novamente as condições, sendo novamente revogada a suspensão. Caso concreto em que ficou evidenciada a reiterada desídia da parte. Nulidade não verificada.
+O Superior Tribunal de Justiça pacificou o entendimento sobre o tema, firmando a tese de que o descumprimento das condições impostas durante a suspensão condicional do processo enseja a sua revogação, mesmo se já ultrapassado o prazo legal, desde que o fato tenha ocorrido durante sua vigência. Caso em que a revogação era obrigatória diante do não pagamento das parcelas (§ 4º do artigo 89 da Lei nº 9.099/95).
+RECURSO DESPROVIDO.
+Alega a defesa, nesta impetração, que seria nula a revogação do benefício em razão da ausência de sua prévia intimação.
+A medida liminar foi indeferida (e-STJ fls. 297/298).
+Informações prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 332/337).
+É o relatório. Decido.
+Sobre o tema, "a Quinta e a Sexta Turma desta Corte já decidiram no sentido de que, na revogação do sursis processual facultativa (acusado processado por contravenção penal no curso do prazo ou descumprimento de qualquer outra condição estabelecida), é necessário que o juiz singular possibilite ao beneficiário manifestar-se sobre o descumprimento das condições que lhe foram impostas, já que poderá apresentar justo motivo para tanto" (AgRg no REsp n. 1.566.924/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/3/2016, DJe de 31/3/2016).
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. SUSPENSÃO CONDICIONAL DO PROCESSO. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS REVOGAÇÃO DO BENEFÍCIO APÓS O PERÍODO DE PROVA. POSSIBILIDADE. AUSÊNCIA DE INTIMAÇÃO DA DEFESA. OFENSA AO CONTRADITÓRIO E A AMPLA DEFESA. CONSTRANGIMENTO ILEGAL CARACTERIZADO. ORDEM CONCEDIDA.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. "Se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência." (REsp 1498034/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 25/11/2015, DJe 02/12/2015)
+3. "A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que contraria o devido processo legal a decisão que revoga a suspensão condicional do processo sem prévia manifestação do acusado." (HC 174.870/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 28/09/2010, DJe 18/10/2010)
+4. Habeas corpus não conhecido. Ordem concedida de ofício para anular a decisão que revogou a suspensão condicional do processo, devendo outra ser proferida, com a prévia intimação da defesa, em respeito aos princípios constitucionais do contraditório e da ampla defesa.
+(HC n. 294.380/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/3/2017, DJe de 17/3/2017.)
+Ante o exposto, concedo a ordem para anular a decisão que revogou a suspensão condicional do processo e determinar a prévia intimação do paciente acerca do descumprimento das novas condições de pagamento estipuladas para a reparação dos danos.
+Publique-se. Intimem-se.
