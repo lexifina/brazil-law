@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAIMON RIBEIRO GOMES com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJ em julgamento de apelação criminal n. 0007566-61.2019.8.26.0510.
+Consta dos autos que o recorrente foi denunciado, processado e pronunciado por infração ao art. 121, § 2º, II e IV (homicídio qualificado), c.c os arts. 14, II, e 29, todos do Código Penal - CP. submetido a julgamento, foi absolvido pelo Tribunal do Júri (fl. 668).
+Recurso de apelação interposto pela acusação foi provido para determinar o novo julgamento do réu pelo Júri, em face de vício insanável consistente em falha na captação audiovisual das declarações da vítima (fls. 812/819). O acórdão ficou assim ementado:
+"Tribunal do Júri - Homicídio duplamente qualificado tentado - Apelação ministerial - Sentença absolutória - Falha na captação e registro audiovisual das declarações da vítima, prestadas em Plenário - Vício que se revelou insanável no caso concreto - Prejuízo ao exercício do contraditório e do direito ao duplo grau de jurisdição - Reconhecimento - Inviabilidade de exame do mérito recursal por esta Segunda Instância - Renovação do julgamento pelo Tribunal do Júri - Imposição - Recurso provido." (fl. 813).
+Em sede de recurso especial (fls. 827/842), a defesa aponta violação aos arts. 475, 489 e 564 do Código de Processo Penal - CPP. Sustenta que "não há necessidade de transcrição do registro após feita a degravação" (fl. 833). Defende que a suposta falha no registro testemunhal não interferiu no julgamento pelo Tribunal do Júri e que não há previsão legal de reconhecimento de nulidade por falta de gravação do sistema audiovisual da vítima. Defende, ainda, a necessidade de notificação do Conselho Nacional de Justiça - CNJ para a apuração do ocorrido na falha de gravação do depoimento da vitima nos presentes autos.
+Requer o restabelecimento da sentença absolutória e a expedição de ofício ao CNJ .
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO - MP (fls. 848/851).
+Admitido o recurso no TJ (fl. 854), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento ou desprovimento do recurso especial (fls. 864/870).
+É o relatório.
+Decido.
+Sobre a apontada violação aos arts. 475, 489 e 564 do CPP, verifica-se que a Corte recorrida não debateu sobre as respectivas matérias aventadas no apelo especial, não tendo sido sequer levantadas em embargos de declaração, tratando-se de inovação recursal.
+O requisito do prequestionamento pressupõe o prévio debate das questões pelo Tribunal de origem, com emissão de juízo de valor acerca das teses trazidas no recurso especial, o que não ocorreu no presente caso. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal - STF. Nesse sentido (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 69, 71 E 173, § 3º, DO CÓDIGO PENAL - CP. INEXISTÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 59 DO CP NÃO EVIDENCIADA. FUNDAMENTAÇÃO IDÔNEA. MONTANTE DE EXASPERAÇÃO DA PENA-BASE. DESPROPORCIONALIDADE NÃO VERIFICADA. AUSÊNCIA DE CRITÉRIO LEGAL. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento.
+1.1. No caso em tela, a tese relativa a incidência de crime continuado foi apresentada somente no recurso especial e a tese relativa à atipicidade de uma das condutas foi arguida somente em embargos declaração na origem, deixando o Tribunal local de emitir juízo de valor a seu respeito por se tratar de inovação recursal.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.939.244/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 155 DO CPP. INOVAÇÃO RECURSAL. MATÉRIA NÃO SUSCITADA NA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7/STJ. INCIDÊNCIA MANTIDA. DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO.
+I - O efeito devolutivo da apelação encontra limites nas razões expostas pelo recorrente (tantum devolutum quantum appellatum), em respeito ao princípio da dialeticidade que rege os recursos previstos no âmbito do processo penal pátrio, por meio do qual se permite o exercício do contraditório pela parte detentora dos interesses adversos, garantindo-se, assim, o respeito à clausula constitucional do devido processo legal.
+II - Neste caso, o reconhecimento de violação ao art. 155 do CPP não foi apresentado pela defesa em sede de apelação, consistindo inovação recursal no recurso especial, não tendo sido objeto de debates pelas instâncias antecedentes, o que inviabiliza a discussão da matéria em sede de recurso especial, por caracterizar ausência de prequestionamento. Incidência dos óbices das Súmulas n. 282/STF e 356/STF.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.807.611/ES, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/4/2021, DJe de 27/4/2021).
+Ressalta-se que o requisito do prequestionamento é imprescindível para o conhecimento da matéria por não ser possível que a alegação seja apreciada originariamente em instância superior, per saltum.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
