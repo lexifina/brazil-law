@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por VOLVO ADMINISTRADORA DE CONSORCIO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+FALÊNCIA. DECISÃO QUE DETERMINOU A EXPEDIÇÃO DE OFÍCIO PARA BAIXA DE RESTRIÇÃO FINANCEIRA QUE RECAI SOB VEÍCULO ARREMATADO EM LEILÃO DOS BENS DA MASSA FALICLA. AGRAVO DE INSTRUMENTO DE CREDOR QUE ALEGA SER PROPRIETÁRIO FIDUCIÁRIO DO BEM, A QUEM FOI DIRIGIDA A DETERMINAÇÃO JUDICIAL
+Quanto à controvérsia recursal, a parte alega violação e divergência de interpretação jurisprudencial em relação ao art. 889, V, do CPC, no que concerne à nulidade do ato do leilão, eis que realizado sem a intimação prévia do credor fiduciário, trazendo o(s) seguinte(s) argumento(s):
+O dispositivo citado é claríssimo na medida em que determina que a intimação do credor fiduciário deve ocorrer antes do leilão do bem apreendido.
+No caso dos autos esta intimação nunca ocorreu, como já vastamente esclarecido, tendo o leilão ocorrido à revelia do credor fiduciário.
+Trata-se, assim, de inegável nulidade do ato do leilão ante ao descumprimento da lei.
+ ..
+Da análise dos autos, verifica-se que o leilão realizado infringe a legislação e não é oponível ao proprietário fiduciante (Volvo Administradora de Consórcio Ltda), visto a falta de anuência por parte do credor.
+ ..
+Vejamos o entendimento do TJPR e do TJMS em casos semelhantes, ora utilizados como acórdãos paradigmas (cópia integral da decisão, certidão de publicação e ementa em anexo).
+Evidente que as decisões citadas não se referem exatamente à mesma situação fática anterior, porém os casos são semelhantes como se verá a seguir. Vejamos, primeiramente, a ementa das decisões analisadas:
+ ..
+Resta demonstrado, pois, que a decisão do E.TJSP conflita em diversos aspectos com as decisões proferidas por outros tribunais na medida em que ignora o fato de que a venda em leilão se deu à revelia do credor fiduciário, violando frontalmente a legislação. Assim, se faz imperiosa a reforma do acordão (fls. 364/369).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamentos autônomos e suficientes para manter o julgado, quais sejam:
+Em primeiro lugar, conforme indicado pelo administrador judicial, o agravante deixou de juntar aos autos o contrato que consubstancia a alegada garantia fiduciária que teria recebido da falida.
+Além disso, deve ser levada em consideração a desídia do agravante, posto que a falência, decretada em 2018, decorre de frustrada recuperação judicial que foi ajuizada em 2005.
+Durante todo esse período, em que pese a presumida inadimplência da falida, o agravante não apresentou o competente pedido de restituição do bem de que alega ser proprietária fiduciária, conforme estabelece o art. 85 da Lei 11.101/05.
+Ressalta-se, ainda, que embora não tenha sido intimado antes da realização do leilão do bem, uma vez que houve a presunção de que a dívida havia sido quitada em razão de sua inércia, o agravante, em conjunto com demais empresas de seu grupo econômico, juntou procuração nos autos de origem em 30/10/2019 (fls. 10.103/10.106).
+Mesmo estando como visto representado nos autos da falência, o agravante manteve-se inerte quando o leiloeiro juntou aos autos de origem, a fls. 11.021/11.027, a relação de bens que foram alienados, dentre os quais estava incluído o veículo objeto deste recurso (fls. 343/344).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ademais, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
