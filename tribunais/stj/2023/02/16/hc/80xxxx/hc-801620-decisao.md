@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de FRANCISCO NATANAEL CÂNDIDO DO NASCIMENTO contra ato de Desembargador Relator do Tribunal de Justiça do Estado do Ceará (HC n. 0621282-03.2023.8.06.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 18/7/2022, no bojo da denominada Operação Tentáculos, acusado da suposta prática do delito tipificado no art. 14 da Lei n. 10.826/2003. A prisão foi convertida em preventiva.
+Buscando a revogação da custódia, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 112/115).
+No presente writ, a defesa alega que não estão presentes fundamentos idôneos que justifiquem a segregação. Aduz que a custódia consiste em antecipação da pena. Alega que houve violação sem justa causa do seu domicílio, de modo que as provas colhidas seriam nulas. Argumenta que a prisão já dura aproximadamente 7 meses, mas que a instrução não foi encerrada devido à pendência de exame papiloscópico. Ressalta que ele precisa prover o sustento de seus 3 filhos menores de idade.
+Pleiteia, em liminar e no mérito, a expedição de alvara de soltura, ainda que com aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 112/115):
+O pedido liminar em habeas corpus é medida desprovida de previsão legal, tratando-se de uma criação jurisprudencial voltada ao combate imediato de ato indevido de constrangimento ou ameaça ao direito à liberdade de locomoção, devendo ser concedido apenas em casos nos quais a urgência, a necessidade e a relevância da medida se evidenciemde forma incontroversa na própria impetração e nos elementos de provas a ela colacionados.
+(..)
+No caso em análise não restou demonstrada, pois, de forma inequívoca, a presença simultânea dos requisitos autorizadores da medida (fumaça do bom direito e o perigo da demora).
+Não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferira existência de constrangimento ilegal.
+Por fim, tem-se que o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser apreciado em momento oportuno, pelo colegiado da 2ª Câmara Criminal, quando do julgamento definitivo deste writ.
+Isso posto, INDEFIRO o pedido de liminar, à míngua dos requisitos autorizadores de sua concessão.
+Não há ilegalidade na decisão combatida. Conforme destacado pelo Desembargador Relator, não há constrangimento ilegal patente que justifique o deferimento da liminar peiteada.
+Note-se, a propósito, que os fundamentos de sua prisão já foram objeto de manifestação desta Corte, no bojo do HC n. 775.077/CE, tendo sido considerada devidamente demonstrada sua periculosidade, especialmente diante do seu histório criminal, com registros de processos por homicídio qualificado, tráfico e associação para o tráfico, supostamente cometidos durante cumprimento de execução penal superior a 11 anos.
+De outro lado, não foi demonstrado de forma evidente a existência de ilegalidade na realização da prisão em flagrante, já que os autos não foram instruídos com documentos que relatem o modo como foi efetivado.
+Na mesma linha, não há nos autos elementos que demonstrem que o paciente é o único responsável pelos cuidados de seus filhos.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Também não se verifica constrangimento ilegal patente, apto a ser reconhecido de ofício, no decurso de cerca de 7 meses para a instrução de ação penal, ao que parece, de elevada complexidade, e que, ademais, encontra-se com instrução penal na iminência de seu encerramento.
+Portanto, vê-se que a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, desse modo, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
