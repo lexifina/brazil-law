@@ -1,0 +1,7 @@
+DECISÃO
+A União noticiou, na sua petição de embargos de declaração (fls. 461/465), que o embargado, Mauro Nery da Silva, faleceu em 28/6/2019. No ponto, requereu a suspensão do processo, com a intimação dos herdeiros/sucessores para habilitação no processo. Na oportunidade, suscitou, ainda, omissão do acórdão impugnado quanto à alegação de litispendência deste feito com outra ação ordinária anteriormente ajuizada perante a 17ª Vara Federal da Seção Judiciária do Distrito Federal (Processo n. 0034145-29.2005.4.01.3400).
+Ao se pronunciar sobre os referidos embargos de declaração, na peça de impugnação acostada às fls. 502/507, datada de 19/10/2022, a parte embargada refutou a alegação de litispendência e requereu o prazo de 10 (dez) dias para a regularização processual, a qual, todavia, ainda não foi efetivada.
+Assim, impõe-se nova intimação do espólio ou dos herdeiros/sucessores do anistiado político falecido para que manifestem interesse na sucessão processual e possam dar prosseguimento ao feito.
+ANTE O EXPOSTO, com fulcro no art. 313, I, e § 1º, do CPC, determino a suspensão do processamento deste agravo em recurso especial. Outrossim, nos termos do § 2º, II, do mesmo dispositivo legal, intimem-se o espólio da parte embargada, Mauro Nery da Silva, ou os respectivos herdeiros/sucessores, na pessoa dos advogados constituídos neste feito, para que promovam a habilitação, no prazo de 20 (vinte) dias, bem como a regularização da representação processual, sob pena de extinção do processo, sem resolução de mérito.
+Publique-se.
+Intimem-se.
