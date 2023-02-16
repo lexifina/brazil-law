@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SIDNEY VELOZO DOS SANTOS e OUTRO contra decisão que inadmitiu recurso especial pelos seguintes fundamentos: a) quanto à alínea a do permissivo constitucional, incidência da Súmula n. 7 do STJ; b) quanto à alínea c do permissivo constitucional, prejudicialidade da análise do dissídio jurisprudencial em razão da aplicação da Súmula n. 7 do STJ.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Reiteram as razões do recurso especial, sustentando, em breves linhas, que não buscam o reexame de provas, visto que a controvérsia diz respeito à responsabilidade da agravada de indenizá-los por danos materiais e morais, por ter havido induvidosa denunciação caluniosa em desfavor de seus antigos funcionários, levianamente acusados por representantes da empresa de terem praticado irregularidades, o que teria sido afastado pela Justiça do Trabalho e na esfera penal.
+Apontam violação dos dispositivos legais arrolados (arts. 186, 402, 927 do CC e 339 do CP), defendendo a responsabilidade subjetiva da agravada de indenizar em decorrência da conduta ilícita praticada. Afirma que o recurso não incorre em violação das Súmulas n. 7, 83 e 211 do STJ e 283 e 284 do STF.
+Salientam que foi suficientemente comprovado o ato ilícito imputado à agravada e que foi devidamente atendido o ônus probatório dos agravantes.
+Ressaltam que a imputação caluniosa desabonou a honra subjetiva e objetiva dos ofendidos, fazendo-os passar por situação vexatória que extrapola o mero dissabor do cotidiano, o que comprova a presença dos pressupostos da obrigação de indenizar.
+Apontam a existência de divergência jurisprudencial sobre tema.
+Requerem o provimento do agravo em recurso especial para que o apelo nobre seja provido.
+A agravada apresentou contraminuta.
+É o relatório. Decido.
+Ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+No particular, verifica-se que os recorrentes limitaram-se a reiterar as razões do recurso especial, insurgindo-se contra o mérito da controvérsia, deixando de impugnar especificamente os fundamentos da decisão cuja reforma é pretendida.
+Ademais, em momento algum contestaram o fundamento da decisão quanto à alínea c do permissivo constitucional, a saber, a prejudicialidade da análise do dissídio jurisprudencial em razão da aplicação da Súmula n. 7 do STJ. )
+Assim, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de just iça.
+Publique-se. Intimem-se.
