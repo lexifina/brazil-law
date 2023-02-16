@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de medida cautelar ajuizada pelo Estado de Minas Gerais visando à atribuição de efeito suspensivo a recurso ordinário interposto em mandado de segurança impetrado com vistas à invalidação de ato administrativo editado pelo Juiz de Direito da Comarca de Guaranésia/MG, ato esse por meio do qual se buscou promover, com fundamento no art. 66, inciso VIII, da Lei n. 7.210/1984 (Lei de Execução Penal), a interdição de estabelecimento prisional submetido a condições inadequadas de funcionamento.
+O recurso ordinário, do qual a presente medida cautelar é dependente, impugna acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no supracitado mandamus, cuja ementa é a que segue (fls. 393/404):
+MANDADO DE SEGURANÇA - INTERDIÇÃO DE CADEIA PÚBLICA, COM TRANSFERÊNCIA DE PRESOS PARA OUTRO ESTABELECIMENTO PRISIONAL - CONSTRUÇÃO DE NOVA CADEIA PÚBLICA CONSTITUI QUESTÃO DE NATUREZA POLÍTICO - ADMINISTRATIVA - SEGURANÇA CONCEDIDA PARCIALMENTE
+- O mandado de segurança consubstancia remédio de natureza constitucional destinado a proteger direito líquido e certo contra ato ilegal ou abusivo do poder emanado de autoridade pública.
+- Deve ser mantida a Portaria impugnada apenas no ponto em que determinou, em razão da interdição da cadeia pública por falta de condições mínimas de salubridade e segurança, a transferência dos presos para outros estabelecimentos prisionais.
+- É vedada qualquer medida de caráter administrativo por parte das autoridades apontadas coatoras no sentido de determinar a construção de novo estabelecimento prisional, sob pena de interferência indevida do Poder Judiciário nas atribuições do executivo (art. 2o da CF-88).
+Em 09/12/2005, adveio decisão da lavra do Ministro Hamilton Carvalhido, deferindo a liminar pleiteada pela parte requerente para suspender a eficácia do acórdão impugnado.
+O Ministério Público Federal ofereceu contestação (fls. 458/466).
+Sobreveio, então, em 27/05/2021, decisão da lavra do Ministro Antonio Saldanha Palheiro declinando da competência, e determinando a redistribuição da causa para um dos ministros componentes da Primeira Seção.
+É o relatório.
+O recurso ordinário em mandado de segurança do qual é dependente a presente medida cautelar foi registrado no Superior Tribunal de Justiça como RMS n. 21.059/MG.
+Tal como ocorrido com a cautelar ora em exame, o citado recurso em mandado de segurança foi redistribuíd o para um dos ministros da Primeira Seção do STJ por decisão do Ministro Antonio Saldanha Palheiro, sendo ele, o RMS n. 21.059/MG, objeto de decisão de minha lavra pelo desprovimento do recurso, com fundamento no art. 932, inciso IV, alínea b, do CPC, c/c o art. 34, inciso XVIII, alínea b, do RISTJ.
+Uma vez que ocorrido o julgamento do recurso ao qual a presente cautelar visava atribuir efeito suspensivo, tem-se como ocorrido o fenômeno processual da carência superveniente de ação (perda do objeto), sendo desnecessário, inclusive, que se aguarde o trânsito em julgado da decisão de desprovimento do recurso para que se fulmine a cautelar dele dependente.
+Nesse sentido, é remansosa a jurisprudência do Superior Tribunal de Justiça, em especial no âmbito da Primeira Turma:
+PROCESSUAL CIVIL. AGRAVO INTERNO. TUTELA PROVISÓRIA INCIDENTAL. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. SUPERVENIENTE JULGAMENTO DO RECURSO. PERDA DE OBJETO.
+1. De acordo com a jurisprudência deste Superior Tribunal, "apreciado o recurso cujo efeito suspensivo se buscou garantir, tem-se a superveniente perda do objeto da medida cautelar, em face da ausência do fumus boni iuris autorizador da pretensão, sendo desnecessário o trânsito em julgado ou a confirmação no órgão colegiado" (AgInt no TP 895/MS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 27/11/2017).
+2. Agravo interno não provido. (AgInt na TutPrv no AREsp n. 1.544.182/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/02/2020, DJe de 13/02/2020.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. AÇÃO PREJUDICADA. JULGAMENTO DO RECURSO OBJETO DA PRETENSÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - O julgamento do recurso desprovido de efeito suspensivo prejudica a medida cautelar ajuizada com o escopo único de atribuir-lhe tal eficácia.
+III - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido. (AgRg na MC n. 25.172/AM, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/12/2017, DJe de 15/12/2017.)
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PRETENSÃO DE EFEITO SUSPENSIVO AO AGRAVO NO RECURSO ESPECIAL. PERDA DO OBJETO ANTE O JULGAMENTO DEFINITIVO DO AGRAVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme em que, uma vez apreciado o recurso cujo efeito suspensivo se buscou garantir, resta prejudicada a Medida Cautelar, em razão da perda superveniente de seu objeto. Precedentes.
+2. Agravo Regimental de José de Queiróz de Lima desprovido. (AgRg na MC n. 19.117/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/05/2012, DJe de 21/05/2012.)
+Ante o exposto, nos termos do art. 932, inciso III, do CPC, c/c o art. 34, inciso XI, do RISTJ, julgo prejudicada a medida cautelar , por perda do objeto.
+Publique-se. Intimem-se.
