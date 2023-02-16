@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Rioforte Investment Holding Brasil S.A. e outro contra decisão de fls. 1.442/1.445, que negou provimento ao agravo em recurso especial, sob o fundamento de que o Tribunal de origem não se manifestou sobre a alegação de que "violou flagrantemente o disposto no artigo 20, § 4º, do Código de Processo Civil, na medida em que o valor da condenação sucumbencial representa somente 0,16% do valor da causa" (fl. 1.146 - g.n.), tampouco foram opostos embargos declaratórios para suprir eventual omissão, carecendo a questão do indispensável requisito do prequestionamento a atrair a Súmula 282/STF.
+Os embargantes, em suas razões, sustentam haver obscuridade no decisum, alegando que, "na realidade, o próprio v. acórdão proferido pelo E. TRF da 2ª Região ao fixar os honorários o fez com base no disposto no artigo 20, §4º, do CPC/73, de modo que não há que se falar em ausênci a de prequestionamento e óbice na Súmula 282/STF" (fl. 1.456). Argumentam que "a violação ao artigo 20, § 4º, do CPC/73, foi devidamente analisada e prequestionada pelo v. acórdão a quo, ao contrário do entendido pela r. decisão ora embargada, não foi necessário a oposição de embargos de declaração pelos ora Embargantes (e nem mesmo era cabível), já que não houve qualquer vício (omissão, contradição ou obscuridade) no v. acórdão recorrido a ensejar sua oposição" (fl. 1.457).
+Transcorreu in albis o prazo para impugnação (fls. 1.477/1.479).
+É O RELATÓRIO.
+Considerando o nítido intento da parte embargante de infringir o decisum embargado, conheço dos embargos de declaração como agravo interno, nos termos do art. 1.024, § 3º, do CPC.
+Intime-se a recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º, do CPC.
+Havendo a complementação das razões recursais, abra-se vista ao agravado para impugnação.
+Publique-se.
