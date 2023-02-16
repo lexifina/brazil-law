@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Distrito Federal, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Distrito Federal, nesses termos ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL. SENTENÇA COLETIVA. SINDSAÚDE. PREJUDICIALIDADE EXTERNA. IMPOSSIBILIDADE. PRESCRIÇÃO. REJEIÇÃO. OBSTÁCULO. FICHA FINANCEIRA. INTERRUPÇÃO DO PRAZO. EXECUÇÃO COLETIVA. AJUIZAMENTO. SINDICATO.
+1. Não há que se falar em suspensão do processo por prejudicialidade externa quando o recurso especial interposto contra o acórdão que rechaçou a tese de prescrição da pretensão executiva coletiva não é dotado de efeito suspensivo e encontra-se retido em decorrência do disposto no art. 542, § 3º, do Código de Processo Civil de 1973.
+2. O despacho do juiz que ordena a citação interrompe a prescrição, que somente recomeça a correr da data do ato que a interrompeu ou do último ato do processo.
+3. O prazo prescricional de cinco (5) anos para início do cumprimento de sentença que depende do fornecimento pelo devedor de documentos ou fichas financeiras para liquidação do julgado conta-se a partir de 30.6.2017 para as decisões transitadas em julgado até 17.3.2016, por força da modulação de efeitos operada no Tema Repetitivo n. 880 do Superior Tribunal de Justiça.
+4. O ajuizamento da execução coletiva pelo sindicato, na qualidade de substituto processual, interrompe o prazo quinquenal para o início dos cumprimentos individuais, especialmente porque o último ato processual da execução coletiva ainda não ocorreu.
+5. Agravo de instrumento desprovido.
+Os embargos de declaração opostos na origem foram desprovidos.
+Nas razões do especial, o recorrente sustenta violação dos arts. 1º e 9º, ambos do Dec.-Lei n. 20.910/1932, porque a prescrição da pretensão executória deve ser declarada nos termos da Súm. n. 150/STF. Assevera que as fichas financeiras estavam disponibilizadas ao particular. Afirma que a instauração do cumprimento coletivo de sentença não tem aptidão de interromper ou de suspender o prazo prescricional executório.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Verifica-se que o Tribunal de origem afastou a prescrição da pretensão executória à luz da modulação dos efeitos declarados pelo STJ na definição do Tema repetitivo 880 quanto à observação da entrega de fichas financeiras.
+Por outro lado, o recurso especial limitou-se a defender a aplicação do entendimento firmado no Tema n. 880/STJ, mas não explicou de que modo a modulação dos efeitos não alcança a presente hipótese.
+Dessa forma, verifica-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A propósito:
+DIREITO PROCESSUAL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRANQUIA. AÇÃO DE RESCISÃO. RESPONSABILIDADE CONTRATUAL CARACTERIZADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.954.803/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Além disso, caso esse fundamento estivesse impugnado pelo recurso especial, a pretensão recursal também não poderia ser acolhida porque o Tribunal de origem declarou que a execução coletiva afasta a inércia dos particulares na propositura de execução individual. Ademais, ressaltou que a execução individual de servidores é admitida como forma de evitar tumulto processual, embora cada particular exequente estava abrangido pela execução coletiva.
+Portanto, o recurso especial também não merece acolhida nos termos da Súm. n. 83/STJ. Com efeito, a jurisprudência do STJ reconhece a ausência de inércia dos particulares para promover a execução individual quando pendente, ainda, a execução coletiva do título judicial. Vide:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA INDIVIDUAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELO AJUIZAMENTO DE EXECUÇÃO COLETIVA. POSTERIOR DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. AUSÊNCIA DE INÉRCIA DA PARTE EXEQUENTE.
+1. "Há jurisprudência consolidada desta Corte de que a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há inércia dos beneficiários do título. Precedentes" (AgInt no REsp 1.960.015/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 1º/4/2022). Nesse mesmo sentido: REsp 1.751.667/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, DJe 1º/7/2021.
+2. Caso concreto em que, não obstante a ação coletiva ajuizada pelo Sindicato da categoria não impedir o manejo de ação individual, tem ela o condão de interromper o prazo prescricional para a propositura da demanda individual, mormente diante da não caracterização de indevida inércia.
+3. De fato, ainda que no bojo da execução coletiva não se discuta a legitimidade do Sindicato, fato é que sua existência teve o condão de retirar da parte ora agravada a necessidade de ajuizar sua execução individual, ante a ausência do necessário binômio utilidade-necessidade, uma vez que seus interesses já estavam sendo defendidos naquela execução coletiva.
+4. Em outros termos, a necessidade de ajuizamento da subjacente execução individual somente surgiu para a parte agravada quando determinado o desmembramento da execução coletiva pelo Juízo de primeiro grau, de sorte que, antes desse momento, não estava caracterizada inércia.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.943.751/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO JUDICIAL COLETIVO. EXECUÇÃO INDIVIDUAL. PRESCRIÇÃO AFASTADA, PELO TRIBUNAL DE ORIGEM, DIANTE DO ANTERIOR AJUIZAMENTO DE EXECUÇÃO COLETIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REVISÃO DAS PREMISSAS FÁTICAS FIRMADAS NA ORIGEM. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/2015 .
+II. Trata-se, na origem, de execução individual de título executivo coletivo, tendo o Tribunal de origem afastado a prescrição, reconhecida na sentença, diante do anterior ajuizamento de execução coletiva.
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão que julgou os Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Consoante pacífica jurisprudência desta Corte, "o ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais" (STJ, AgInt no AgInt no AREsp 1.074.006/MS, Rel. Ministro LÁZARO GUIMARÃES (Desembargador Federal convocado do TRF/5ª Região), QUARTA TURMA, DJe de 20/06/2018).
+V. No caso, verifica-se que o Tribunal de origem afastou a prescrição após o exame pormenorizado das provas dos autos. Assim, a modificação do entendimento proclamado pela Corte de origem, demandaria, necessariamente, o reexame do conjunto probatório dos autos, o que é inviável em sede de Recurso Especial. Nesse sentido: STJ, REsp 1.726.458/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2018.
+VI. Agravo interno improvido.
+(STJ, AgInt no AREsp 1.238.993/GO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 08/03/2021).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. O prazo para propositura de execução contra a Fazenda Pública, nos termos do art. 1º do Decreto 20.910/1932 e da Súmula 150 do STF, é de cinco anos, contados do trânsito em julgado do processo de conhecimento.
+2. Nos termos do art. 9º do Decreto 20.910/1932, "a prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo".
+3. Tratando-se de demanda coletiva, o prazo de prescrição para a execução individual do título é interrompido pela propositura da execução coletiva, voltando a correr pela metade a partir do último ato processual da causa interruptiva.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.175.018/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 01/07/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACÓRDÃO A QUO. FUNDAMENTO AUTONÔNOMO. NÃO IMPUGNAÇÃO. SÚM. N. 283/STF. EXECUÇÃO COLETIVA. PRESCRIÇÃO DA EXECUÇÃO INDIVIDUAL. PRECEDENTES. SÚM. N. 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
