@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de reclamação proposta por CLOVIS FIDENCIO (CLOVIS), objetivando garantir a autoridade do entendimento do Superior Tribunal de Justiça pronunciado no Tema nº 677, segundo a qual, na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários da sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial.
+Por não se admitir a reclamação para compelir os Tribunais de Apelação a aplicarem, na apreciação de questões semelhantes, eventuais teses firmadas por esta Corte Superior, o pedido foi julgado improcedente (e-STJ, fls. 401/403).
+Daí os presentes embargos de declaração nos quais se alegou, em suma, que com a publicação do TEMA 677 ESTA CORTE DEVE SEGUIR O QUE FOI IMPOSTO sendo assim cabe esta turma analisar o julgamento seguir determinação da corte Superior (e-STJ, fls. 406/409).
+É o relatório.
+DECIDO.
+O recurso previsto no art. 1.022 do NCPC é considerado de fundamentação vinculada, ou seja, somente cabível nas hipóteses em que ocorram, na decisão, obscuridade, contradição, omissão ou erro material, não tendo, via de regra, por objetivo a modificação do conteúdo do que foi decidido, com a inversão ou alteração do julgado.
+No caso, verifica-se que inexistem os vícios suscitados.
+De fato, atente a defesa dos interesses do embargante, para o fundamento
+da decisão proferida nesta Corte Superior, no sentido de que não era nem sequer cabível a reclamação.
+Conforme se depreende da decisão embargada, o disposto no art. 988, do CPC não prevê a possibilidade de ajuizamento de reclamação para fazer prevalecer ou afastar a tese fixada em julgamento de recursos repetitivos.
+Estas as razões de decidir.
+E era o que bastava.
+Por isso, nunca é demais lembrar à defesa do embargante que, encontrando o julgador fundamento, bastante e suficiente, para decidir - no caso a inadmissibilidade da reclamação -, não é preciso que se manifeste exaustivamente sobre todos os pontos que foram apresentados.
+Nesse sentido é a comezinha lição de MÁRIO GUIMARÃES, segundo a qual não precisa o juiz reportar-se a todos os argumentos trazidos pelas partes. Claro que, se o juiz acolhe um argumento bastante para sua conclusão, não precisará dizer se os outros, que objetivam o mesmo fim, são procedentes ou não ("O Juiz e a Função Jurisdicional", 1ª ed., Forense, 1958, § 208, fl. 350).
+Quanto à alegada contradição, aquela passível de ser sanada pela via dos embargos de declaração é a que se instala entre os próprios termos da decisão embargada, decorrente de preposições entre si inconciliáveis, o que, da simples leitura do ato embargado não se evidencia.
+Por fim, frise-se que a reclamação é via excepcional e não pode ser utilizada como sucedâneo de recurso cabível na origem, pois pressupõe estrita aderência entre o objeto reclamado e o conteúdo da decisão que se alega descumprida, o que, como visto, não se verifica, na hipótese dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. SUPERIOR TRIBUNAL DE JUSTIÇA. HIPÓTESES DE CABIMENTO. AUSÊNCIA. PEDIDO IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. Este agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A reclamação não se presta para compelir os Tribunais de Apelação a aplicarem, na apreciação de questões semelhantes, eventual tese firmada por esta Corte - mesmo que em recurso repetitivo (AgInt na Rcl 28.688, Ministro MARCO AURÉLIO BELLIZZE, DJe de 29/8/2016).
+3. Questão submetida a apreciação da Corte Especial, tendo ficado assentado que não é cabível a reclamação para o controle da aplicação, pelos Tribunais, de precedente qualificado deste Tribunal Superior adotado em julgamento de recursos especiais realizado pelo ritos dos recursos repetitivos (Rcl. nº 36.476, relatada pela Ministra NANCY ANDRIGHI, noticiado no endereço eletrônico desta Corte Superior aos 19/2/2020).
+4. Caso em que se alegou descumprimento ao preceito firmado no julgamento do REsp nº 1.210.064 - ocorrido sob o rito dos recursos repetitivos (art. 543-C do CPC/73) -, que tratou de hipótese de culpa exclusiva da vítima, tendo a Justiça de São Paulo concluído, com base nos elementos fáticos produzidos no processo, que tal argumento não foi devidamente comprovado.
+5. Agravo interno que não trouxe argumentos bastantes e suficientes para infirmar os fundamentos da decisão agravada que aduziu não ser cabível a reclamação, sendo, portanto, manifestamente improcedente.
+6. Agravo interno desprovido.
+(AgInt na Rcl n. 38.789/SP, de minha relatoria, Segunda Seção, julgado em 5/5/2020, DJe de 7/5/2020 - sem destaque no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. PROCESSUAL CIVIL. CPC/2015. RECURSO ESPECIAL AO QUAL O TRIBUNAL DE ORIGEM, NO PONTO, NEGOU SEGUIMENTO COM FUNDAMENTO EM TESE FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO. AGRAVO INTERNO INTERPOSTO COM BASE NOS ARTS. 1.021 E 1.030, §, 2º, AMBOS DO CPC, NÃO CONHECIDO. DESCABIMENTO DA RECLAMAÇÃO VISANDO AO CONTROLE DA APLICAÇÃO DE ENTENDIMENTOS FIRMADOS PELO STJ EM JULGAMENTO DE RECURSOS REPETITIVOS. PRECEDENTE ESPECÍFICO DA CORTE ESPECIAL NA RCL 36.476/SP. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA. INEXISTÊNCIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EDcl na Rcl n. 42.276/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, julgado em 29/3/2022, DJe de 1/4/2022 - sem destaque no original)
+Nessas condições, porque ausentes quaisquer dos vícios ensejadores do
+acolhimento do pedido, REJEITO OS EMBARGOS DE DECLARAÇÃO.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO CONSTITUCIONAL. SUPERIOR TRIBUNAL DE JUSTIÇA. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INOCORRÊNCIA. ENCONTRANDO O JULGADOR FUNDAMENTO, BASTANTE E SUFICIENTE, PARA DECIDIR, NÃO É OBRIGADO A SE MANIFESTAR EXAUSTIVAMENTE SOBRE TODOS OS PONTOS QUE FORAM APRESENTADOS. IRRESIGNAÇÃO COM O JULGAMENTO. RECLAMAÇÃO NÃO SE PRESTA A COMPELIR TRIBUNAIS DE APELAÇÃO A APLICAREM EVENTUAIS TESES FIRMADAS PELO STJ EM JULGAMENTO DE RECURSOS REPETITIVOS. PRECEDENTES. IMPOSSIBILIDADE DE SUA UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
