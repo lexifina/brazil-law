@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de FATIMA RIOS HELENO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fl. 53):
+APELAÇÃO CRIMINAL. TRÁFICO. I - Preliminares afastadas. Cerceamento de defesa não configurado, pois as diligências indeferidas seriam inócuas ao deslinde do feito, considerando-se as provas produzidas contra os apelantes. O exame pericial datiloscópico era impossível de ser realizado, diante o manuseio, por várias pessoas, do material apreendido. Prisão de corréu e advertência do direito ao silêncio. Direito constitucional preservado em seu interrogatório extrajudicial. Inépcia da denúncia. Afastamento. II - Mérito. Condenação mantida. Provas contundentes da narcotraficância, com base nos depoimentos de testemunhas e prova da apreensão de enorme quantidade de entorpecentes.
+Corréu confesso e delação dos demais envolvidos. III - Penas mantidas. Aumento da base justificado para todos dos acusados, diante das peculiaridades do caso concreto. Prazo depurador não se aplica aos maus antecedentes. Redutor afastado. Prova da dedicação dos apelantes ao crime, sendo alguns deles portadores de maus antecedentes. Pena de multa. Constitucionalidade.
+Regime fechado mantido, vedada a detração penal e substituição da pena privativa de liberdade por restritivas de direitos. Justiça Gratuita indeferida.
+Restituição do veículo. Impossibilidade. APELOS DESPROVIDOS.
+Consta dos autos que a paciente foi condenada à pena de 5 anos e 10 meses de reclusão, mais o pagamento de 583 dias-multa, como incursa no art. 33 da Lei de Drogas (130 kg de maconha).
+Requer-se, em liminar e no mérito, a concessão da ordem para que seja reconhecido o tráfico privilegiado e reduzida a pena da paciente, com a fixação de regime mais brando.
+É o relatório.
+A concessão da ordem de habeas corpus é cabível quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, o que não ocorreu no caso.
+Esclarece o acórdão impugnado que a elevadíssima quantidade de substância entorpecente (130 kg) e a prova de seu envolvimento com atividades criminosas, impedem a concessão da benesse prevista no art. 33, § 4º, do CP, destinada apenas a pequenos traficantes, o que não é o caso. Ou seja, o redutor previsto no art. 33, § 4º, da Lei Antidrogas, deve ser afastado, pois há prova da dedicação de Fátima ao crime, levando-se em conta as circunstâncias da sua prisão. De fato, ela organizou o transporte de grande quantidade de drogas (fl. 76).
+Consta do acórdão, por outro lado, que, pelas circunstâncias do crime, desfavoráveis e sopesadas com bom senso: "em vista da engenhosidade empregada na empreitada delituosa, com a contratação de transportador, remessa de vultosa e valiosa quantidade de substâncias entorpecentes, acompanhamento do transportador e fuga da Polícia por diversos municípios da região.", fixou-se a pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa a qual tornou-se definitiva em razão da ausência de atenuantes ou agravantes, e de causas de aumento e diminuição (fls. 75/76).
+Presentes as circunstâncias judiciais desfavoráveis e em razão da pena aplicada, mostra-se devidamente fundamentado o regime mais gravoso.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO. RECONHECIMENTO. IMPOSSIBILIDADE. ELEVADA QUANTIDADE DE DROGA (130 KG DE MACONHA). CIRCUNSTÂNCIAS DA APREENSÃO. CONDUTA INDIVIDUALIZADA DA PACIENTE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTO IDÔNEO.
+Writ indeferido liminarmente.
