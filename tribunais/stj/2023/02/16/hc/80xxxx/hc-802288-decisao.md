@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de VINICIUS CAMINHAS FERREIRA TORRES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo em execução n. 1.0686.18.000866-2/002).
+Depreende-se dos autos que o Juízo de execuções indeferiu o pedido de retificação do atestado de pena.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 42):
+AGRAVO EM EXECUÇÃO PENAL - RETIFICAÇÃO DO ATESTADO DE PENA PARA FINS DE PROGRESSÃO DE REGIME PRISIONAL - CONDENAÇÃO POR TRÁFICO DE DROGAS - NÃO OCORRÊNCIA DA CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, §4º, DA LEI 11.343/06 - PEDIDO DE DESCONSIDERAÇÃO DA HEDIONDEZ - PACOTE ANTICRIME - IMPOSSIBILIDADE.
+Sendo o reeducando condenado pela prática do delito previsto no artigo 33, caput, da Lei 11.343/06, correto o reconhecimento na natureza hedionda do crime, que não foi afastada com o advento do Pacote Anticrime.
+Daí  o  presente  writ,  no  qual  alega  a  defesa  não  ser  mais  o  delito  de  tráfico  de  drogas  equiparado  a crime  hediondo  em  razão  das  alterações  trazidas  pelo  Pacote  Anticrime.
+Requer,  liminarmente  e  no  mérito,  a concessão da ordem "para determinar ao Juízo da Execução retifique o cálculo de pena para que o lapso para progressão de regime seja de percentual de 20% (vinte por cento), ante a ausência de previsão legal equiparando o tráfico de drogas a crime hediondo, especialmente em virtude da revogação do §2º do artigo 2º da lei de crimes hediondos (n.º 8.072/90), sendo certo que a omissão legislativa não pode ser aplicada de forma extensiva e prejudicial ao apenado (vide STJ, AgRg no HC 598.802/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, j. 01/12/2020, DJe 07/12/2020 e STF ARE 1327963/SP, rel. Min. Gilmar Mendes, julgamento no Plenário Virtual finalizado em 17/09/2021 - tema 1169), reformando-se a decisão primeva e do TJMG" (e-STJ fls. 8/9).
+É o relatório.
+Decido.
+ Preliminarmente,  cumpre  salientar  que  é  competência  do  relator,  em  decisão  in  limine,  aplicar  jurisprudência  pacífica  do  colegiado,  conforme  expressamente  dispõem  os  incisos  XVIII  e  XX  do  art.  34  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  bem  como  julgados  nesse  sentido  das  turmas  criminais  desta  Corte  (vide  AgRg  no  HC  n.  622.778/RS,  relator  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  DJe  10/12/2020;  AgRg  no  HC  n.  622.822/SP,  relator  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  DJe  23/11/2020).
+No presente caso, a Corte de origem, ao negar provimento ao agravo em execução, consignou que (e-STJ fls. 43/47):
+Conheço do recurso, presentes os pressupostos objetivos e subjetivos de admissibilidade, nos termos do art. 197 da LEP.
+Segundo consta dos autos, o agravante foi condenado pela prática do crime previsto no artigo 33, caput, da Lei nº 11.343/06.
+No curso da execução, a defesa requereu a retificação do atestado de penas, para alterar a fração do requisito objetivo para a progressão de regime, em razão da entrada em vigor da Lei 13.964/2019, que revogou o art. 2º, §2º da Lei 8.072/90.
+O magistrado a quo indeferiu o pedido, sendo que contra esta decisão ora se insurge o recorrente, por meio deste agravo.
+Com a devida vênia, sem razão.
+O Plenário do Supremo Tribunal Federal, no julgamento do Habeas Corpus nº 118.533/MS, ocorrido em 23.06.2016, entendeu que o chamado tráfico privilegiado, no qual as penas podem ser reduzidas, conforme o artigo 33, § 4º, da Lei nº 11.343/2006, não deve ser considerado crime de natureza hedionda.
+ ..
+Assim, levando em conta o entendimento do Supremo Tribunal Federal, é mister o afastamento da natureza hedionda do crime previsto no art. 33, § 4º, da Lei nº 11.343/2006, quando verificada a sua ocorrência.
+No caso dos autos, contudo, o agravante foi condenado pelo crime de tráfico de drogas previsto no art. 33, caput, da Lei 11.343/06.
+Ora, a CRFB/88 em seu art. 5º, inciso XLIII, dispõe, expressamente, que ao tráfico ilícito de drogas deve ser dispensado tratamento mais gravoso, idêntico àquele destinado aos crimes hediondos, senão vejamos:
+ ..
+A equiparação à hediondez do delito do art. 33, caput, da Lei 11.343/06 também foi prevista no art. 2º da Lei nº 8.072/90, in verbis:
+ ..
+Destarte, a previsão do tráfico ilícito de entorpecentes como uma das figuras equiparadas a hediondas encontra amparo na Constituição Federal tendo sido estabelecida expressamente no texto da Lei n.º 8.072/90, mais precisamente no caput do art. 2º, que permanece em vigor.
+ ..
+Por outro lado, as alterações promovidas pela Lei nº 13.964/2019 na Lei de Execução Penal, ao contrário do que alude a defesa, não indicam que o tráfico ilícito de entorpecentes não seria hediondo para fins de progressão de regime.
+Ao revés, as alterações apenas reafirmam que a equiparação do tráfico aos crimes hediondos se dá para todos os fins, inclusive para a progressão de regime.
+Veja-se, por oportuno, que o §5º, do art. 112 da LEP diz que "não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006".
+Vale dizer, a contrario sensu, a redação do dispositivo legal em comento demonstra, claramente, que o crime de tráfico de drogas previsto no caput do art. 33 da Lei de drogas (quando não incidente a minorante de pena em questão), continua sendo considerado delito equiparado a hediondo.
+ ..
+Por fim, ressalta-se que a questão aqui tratada é, basicamente, de natureza semântica: ao se equiparar determinados delitos àqueles de natureza hedionda, o que quiseram a Constituição e a Lei nº 8.072/90 foi, por óbvio, conferir-lhes o mesmo tratamento penal e processual penal, naturalmente, para todos os fins.
+Assim, verificado que o agravante restou condenado pelo delito previsto no artigo 33, caput, da Lei 11.343/06, correto o reconhecimento da hediondez do delito, por equiparação, nos termos da decisão combatida.
+Diante do exposto, NEGO PROVIMENTO AO RECURSO. (Grifei.)
+Quanto ao tema, já  está  devidamente  assentado  nesta  Corte  que  as  alterações  promovidas  pelo  Pacote  Anticrime  não  retiraram  do  delito  de  tráfico  de  drogas  a  sua  equiparação  aos  delitos  hediondos,  por  ser  mandamento  de  extração  constitucional.
+Nesse  sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CARÁTER HEDIONDO DO DELITO DE TRÁFICO DE ENTORPECENTES. AUSÊNCIA DE ALTERAÇÃO EM VIRTUDE DA VIGÊNCIA DA LEI 13.964/2019 (PACOTE ANTICRIME). AGRAVO REGIMENTAL DESPROVIDO.
+1. A revogação do art. 2º, § 2º, da Lei 8.072/1990, pela Lei 13.964/2019 (Pacote Anticrime), não retirou do tráfico de drogas o caráter de delito equiparado a hediondo, cuja classificação decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal, fundamento reforçado pelo disposto no art. 112, §5º, da LEP, cuja redação foi definida pela própria Lei n. 13.964/2019 e que consigna expressamente que "não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006".
+2. "Esta Corte já teve a oportunidade, em diversas ocasiões, de referendar a natureza de delito equiparado a hediondo do crime previsto no art. 33, caput, da Lei 11.343/06, mesmo após a entrada em vigor da Lei 13.964/2019 (Pacote anticrime), ressaltando-se, inclusive que, no julgamento do Recurso Especial n. 1.918.338/MT (Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/05/2021, DJe 31/05/2021) pela sistemática dos recursos repetitivos (Tema n. 1.084), no qual foi assentada a tese reconhecendo a possibilidade de aplicação retroativa do art. 112, V, da LEP a condenados por crimes hediondos ou equiparados que fossem reincidentes genéricos, o caso concreto tratou especificamente de condenado por tráfico de drogas. Precedentes desta Corte sobre a mesma controvérsia posta nos autos: HC 733.052/RS, Min. RIBEIRO DANTAS, DJe de 06/04/2022; HC731.139/SP, Rel. Min. JOEL ILAN PACIORNIK, DJe de 29/03/2022; HC 723.462/SC, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 11/03/2022; HC 726.162/SC, Rel. Min. RIBEIRO DANTAS, DJe de 16/03/2022; HC 721.316/SC, Rel. Min. JOEL ILAN PACIORNIK, DJe de 08/02/2022" (AgRg no HC n. 729.332/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/4/2022, DJe 25/4/2022).
+3. Agravo regimental desprovido. (AgRg no HC n. 741.147/PR, de minha relatoria, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PROGRESSÃO  DE  REGIME.  TRÁFICO  ILÍCITO  DE  ENTORPECENTES.  HEDIONDEZ  MANTIDA.  LEI  N.  8.072/1990  (ALTERAÇÕES  PROMOVIDAS  PELA  LEI  N.  13.964/2019).  SUFICIÊ NCIA  DA  FUNDAMENTAÇÃO.  ENTENDIMENTO  DO  STJ.  DECISÃO  MANTIDA.
+ ..  2.  As  alterações  promovidas  pela  Lei  n.  13.964/2019  (Pacote  Anticrime)  na  Lei  n.  8.072/1990  não  retiraram  a  equiparação  do  delito  de  tráfico  ilícito  de  entorpecentes  a  crime  hediondo.
+ ..  (AgRg  no  HC  n.  738.853/SP,  relator  Ministro  João  Otávio  de  Noronha,  Quinta  Turma,  julgado  em  14/6/2022,  DJe  de  17/6/2022.)
+Assim, a decisão do Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte Superior.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se. Intimem-se.
