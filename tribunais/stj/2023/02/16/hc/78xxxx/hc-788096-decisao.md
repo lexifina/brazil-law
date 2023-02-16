@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 18):
+APELAÇÃO CRIMINAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO. CONDENAÇÃO. IRRESIGNAÇÃO DEFENSIVA. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE SUFICIENTEMENTE PROVADAS. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS. CONDUTA SOCIAL. ANÁLISE INIDÔNEA. DECOTE. REINCIDÊNCIA. MANTIDA. PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. REQUISITOS PERSISTENTES. MANUTENÇÃO. PROVIMENTO PARCIAL DO APELO.
+O paciente foi condenado à pena de 3 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, por infração ao delito do art. 14 da Lei nº 10.826/2003. Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso para reduzir a pena a 2 anos e 11 meses de reclusão, mantidos os demais termos da condenação.
+Aduz o impetrante a ausência dos requisitos autorizadores e de proporcionalidade da prisão preventiva diante da pena aplicada.
+Requer, liminarmente e no mérito, a sua revogação ou substituição por medidas cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida e as informações foram prestadas. O Ministério Público Federal opina pelo não conhecimento do writ, mas pela concessão parcial da ordem a fim de que seja determinada a reavaliação imediata da necessidade e adequação da segregação cautelar do paciente, nos termos do art. 316, parágrafo único, do CPP.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Extrai-se da sentença (fls. 38-39):
+ ..  Mantenho a prisão preventiva do acusado, uma vez que multireincidente, ainda em cumprimento de pena, e demonstrada a necessidade de seu acautelamento do seio social a fim de evitar-se a prática de novos delitos, garantindo-se a ordem publica, por aplicação do disposto nos arts. 312 e 313, II do CPP. ..
+Como se vê, consta da sentença fundamentação que considera-se idônea, consubstanciada na reiteração delitiva do paciente, pois multirreincidente e ainda em cumprimento de pena.
+A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ainda, tem-se por devidamente fundamentada a prisão preventiva, para a preservação da ordem pública, quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
