@@ -1,0 +1,20 @@
+DECISÃO
+Na origem trata-se de embargos à execução fiscal requerendo nulidade de CDAs e compensação tributária. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 1.750.985,93 (Um milhão, setecentos e cinquenta mil, novecentos e oitenta e cinco reais e noventa e três centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. APELAÇÃO EM EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CDA. PRESUNÇÃO DE LIQUIDEZ E CERTEZA. NÃO ELIDIDAS. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. INCIDÊNCIA NA REVENDA DE PRODUTOS DE PROCEDÊNCIA ESTRANGEIRA. FATO GERADOR AUTORIZADO PELO ART 46, II, C/C 51, PARÁGRAFO ÚNICO DO CTN. PRECEDENTES DO STF COMPENSAÇÃO. IMPOSSIBILIDADE DE ALEGAÇÃO EM EMBARGOS À EXECUÇÃO. VEDAÇÃO EXPRESSA. ART. 16 DA LEF. APELAÇÃO DESPROVIDA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No caso concreto, além de conter todos os requisitos legais, a CDA (evento 01, OUT 1 dos autos executivos) se fez acompanhar do demonstrativo de débito, onde estão elencados suficientes elementos - como o nome da devedora e seu domicílio legal; o valor originário, a origem, os fundamentos legais e o período de apuração da dívida; a indicação de estar o débito sujeito à atualização monetária e os respectivos fundamentos legais; e a data e o número da inscrição no Registro da Dívida Ativa - para embasar eventual defesa do Contribuinte.
+(..)
+Com relação à incidência do IPI sobre a revenda de produtos importados do exterior, no RE n.946.648/SC, julgado sob o regime da repercussão geral, o Supremo Tribunal Federal definiu a tese, por maioria, deque "é constitucional a incidência do Imposto sobre Produtos Industrializados - IPI no desembaraço aduaneiro debem industrializado e na saída do estabelecimento importador para comercialização no mercado interno".
+Confira-se, por oportuno, a ementa do r. julgado:
+(..)
+Já, com relação à compensação pretensa, a e. SEGUNDA SEÇÃO ESPECIALIZADA desta Corte Regional, julgando o PROCESSO Nº 0102434-10.2014.4.02.5101 (Relator Desembargador Federal MARCUS ABRAHAM, julgado em 13.08.2020), assentou a tese da impossibilidade de discussão da matéria atinente à compensação tributária em sede de Embargos à Execução Fiscal, nos termos da vedação expressa do artigo 16, §3º, da Lei nº 6.830, e, ainda, conforme entendimento firmado pelo C. STJ no REsp nº 1.008.343/SP.
+Eis a íntegra da ementa, verbis:
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
