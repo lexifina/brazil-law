@@ -1,0 +1,6 @@
+DECISÃO
+GUSTAVO MATTHEUS DA SILVA SENA ajuíza revisão criminal contra decisão proferida por esta Corte, no HC n. 777.923/GO, que concedeu a ordem, de ofício, para reduzir as penas do requerente para 7 anos, 9 meses e 10 dias de reclusão e 777 dias-multa, mantidos os demais termos da condenação por tráfico de drogas.
+Entretanto, embora a defesa haja apontado a existência de decisão desta Corte, proferida em habeas corpus, é forçoso reconhecer que a competência para apreciação do pedido é do Tribunal de origem. De fato, consoante dispõe o art. 239 do RISTJ, as revisões criminais somente são cabíveis quando o caso é aqui apreciado em recurso especial.
+De fato, "A revisão criminal, como meio extraordinário de impugnação e medida excepcional cabível apenas nas situações expressamente previstas em lei, tem sua utilização restringida justamente diante da existência da coisa julgada. Assim, segundo a orientação desta Corte, somente é cabível a revisão criminal quando as questões objeto do pedido houverem sido examinadas no recurso especial" (AgRg na RvCr n. 5.650/RS, Rel. Ministro Rogerio Schietti, DJe 31/8/2022, destaquei).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço in limine da presente revisão criminal.
+Publique-se e intimem-se
