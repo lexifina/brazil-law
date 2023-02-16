@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial, manejado pela FAZENDA NACIONAL, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 320):
+TRIBUTÁRIO. APREENSÃO DE VEÍCULO. LOCADORA. PERDIMENTO.
+Não havendo prova de que a locadora tenha atuado conjuntamente com o locatário para a prática da conduta infratora, deve ser tutelada a livre iniciativa, a liberdade econômica, a boa fé e o respeito ao contrato, indispensáveis ao crescimento econômico do País.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 348/352.
+A parte recorrente aponta violação aos arts. 1.022, II, do CPC; 23, 24 e 25 do Decreto- Lei 1.455/76; 136 do CTN; 673, parágrafo único, 674, I, 675, II, e 688, V, do Regulamento Aduaneiro (Decreto 6.769/2009); 94, 95, I e II, 96, 97, 104, V, e 105, X, do Decreto-Lei 37/66. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, quanto "à análise da questão sub judice em face do disposto nos artigos 23, 24 e 25 do Decreto-Lei 1.455/76, no art.136 do CTN, nos arts. 673, § único, 674, I, 675, II, e 688, V, do Regulamento Aduaneiro (Decreto n. 6.769/2009), e nos arts. 94, 95, I e II, 96, 97, 104, V e 105, X, do Decreto-Lei 37/66" (fl. 359); e (II) "a aplicação da pena de perdimento independe da boa ou má-fé do proprietário, bastando que reste comprovado o fato de que o veículo foi utilizado para o transporte de mercadorias irregularmente internadas no país" (fl. 361).
+Contrarrazões apresentadas às fls. 380/398.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 535 DO CPC. SÚMULA 284/STF. MANDADO DE SEGURANÇA. LIMINAR. IRREVERSIBILIDADE E SATISFAÇÃO DA MEDIDA. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Considera-se genérica a alegação de ofensa ao art. 535 do CPC consubstanciada na afirmação de que não foram analisados determinados dispositivos de Lei, uma vez que esta é incapaz de individualizar a omissão ocorrida no acórdão recorrido, bem como tornar clara sua relevância para a solução da controvérsia apresentada nos autos.
+ ..
+Agravo regimental improvido.
+(AgRg no REsp 1.318.004/AM, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 21/3/2013, DJe 2/4/2013)
+Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Qu arta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Lado outro, quanto ao mérito, verifica-se o seguinte trecho do acórdão (fl. 313):
+Não havendo prova de que a locadora tenha atuado conjuntamente com o locatário para a prática da conduta infratora, deve ser tutelada a livre iniciativa, a liberdade econômica, a boa fé e o respeito ao contrato, indispensáveis ao crescimento econômico do País.
+Assim, verifica-se que o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1.702.175/GO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1.642.570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+De igual modo, exsurge que a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
