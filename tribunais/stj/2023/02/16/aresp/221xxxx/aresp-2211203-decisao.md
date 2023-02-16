@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BONASA ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL, AROLDO SILVA AMORIM FILHO e MYRIAN PINTO DE AMORIM (BONASA e outros) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO CÍVEL. DIREITO COMERCIAL. DIREITO PROCESSUAL CIVIL. CONTRATO DE CRÉDITO COMERCIAL. CONCESSÃO DE EFEITO SUSPENSIVO IMPRÓPRIO. AUSÊNCIA DOS REQUISITOS LEGAIS. DECLARAÇÃO DE ILEGITIMIDADE PASSIVA DE UMA DAS APELANTES. RECURSO NÃO CONHECIDO. FALTA DE INTERESSE RECURSAL. AVALISTAS. DEVEDORES SOLIDÁRIOS. LEGITIMIDADE PASSIVA. AVALISTAS. AUSÊNCIA DE BENEFÍCIO DE ORDEM. PRELIMINARES REJEITADAS. RESPONSABILIDADE PESSOAL. INDEPENDENTE DA DÍVIDA SOCIETÁRIA.
+1. A concessão de efeito suspensivo impróprio (efeito suspensivo obtido no caso concreto) está condicionada à relevância dos fundamentos do recurso e ao risco de grave lesão, circunstâncias inexistentes no caso em apreço 2. A sentença declarou a ilegitimidade passiva da ré BONASA ALIMENTOS S/A, pois, embora figure como a devedora principal no contrato que embasa o feito, a execução foi recebida unicamente em face dos coobrigados, não tendo interesse recursal para interpor recurso de apelação.
+3. Impossível falar-se de ilegitimidade passiva dos réus, quando estes figuram como avalistas do contrato de crédito, o que lhes impõe o ônus de garantir o montante previsto na obrigação. Frisa-se que, neste caso, nem mesmo pode se invocar o benefício da ordem, uma vez que as obrigações do avalista e do avalizado são autônomas, assim como existe expressamente a responsabilidade solidaria no contrato. Precedentes TJDFT.
+4. Responsabilidade pessoal. No presente caso, o avalista responde solidariamente, pessoalmente, independentemente de ser sócio ou não da pessoa jurídica. Ressalte-se a inexistência de novação ou pagamento comprovado no procedimento de recuperação judicial.
+5.APELO INTERPOSTO POR BONASA ALIMENTOS LTDA, NÃO CONHECIDO.
+6.APELO INTERPOSTO POR AMORIM FILHO E MYRIAN PINTO DE AMORIM CONHECIDO, PRELIMINAR AFASTADA, IMPROVIDO (e-STJ, fls. 1.298/1.299).
+Irresignados, BONASA e outros interpuseram recurso especial que teve seguimento negado com base no art. 1.030, I, b, do NCPC, em relação ao prosseguimento da ação contra os devedores solidários (tema 885); e, no tocante ao ponto remanescente, foi inadmitido tendo em vista a incidência das Súmulas n.ºs 282 e 356 do STF (e-STJ, fls. 1.398/1.400).
+Dessa decisão, foi interposto o presente agravo em recurso especial por BONASA e outros reiterando as razões do apelo nobre (e-STJ, fls. 1.403/1.412).
+Foi apresentada contraminuta (e-STJ, fls. 1.417/1.425).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+(1) Do art. 1.042 do NCPC
+Com o advento do NCPC aos 18/3/2016 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que inadmite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo, in verbis:
+Art. 1.042. Cabe agravo contra decisão do presidente ou do vice- presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+(AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/8/2016, DJe 26/8/2016.)
+No caso dos autos, o recurso teve seguimento negado com base no art. 1.030, I, b, do NCPC, em relação ao prosseguimento da ação contra os devedores solidários (tema 885).
+Portanto, quanto ao ponto, o agravo não pode ser conhecido por constituir erro grosseiro a sua interposição.
+Dos demais temas
+Por sua vez, BONASA e outros defenderam a necessidade de inversão dos ônus sucumbenciais, em observância ao princípio da causalidade.
+Ocorre que essa questão não foi objeto de deliberação pela Corte local, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à hipótese, os óbices das Súmulas nºs 282 e 356 do STF, por analogia.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MÁ PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. RESPONSABILIDADE INDENIZATÓRIA. REVISÃO DE VALOR. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Recurso especial que suscita negativa de prestação jurisdicional, nos termos do art. 1.022 do CPC/2015, sem indicar precisamente o ponto que supostamente estaria omisso, contraditório, obscuro ou com erro material, é deficiente em sua fundamentação e atrai a aplicação do óbice descrito na Súmula 284/STF.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.191.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 17/11/2020, sem destaque no original.)
+Nessas condições, CONHEÇO EM PARTE do agravo para, nessa extensão, NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. PARTE DO RECURSO ESPECIAL INADMITIDA COM FUNDAMENTO NO ART. 1030, I, b, do NCPC (CORRESPONDENTE AO ART. 543-C § 7º, I, DO CPC/73). INTERPOSIÇÃO DE AGRAVO DO ART. 1.042, CAPUT, DO NCPC. ERRO GROSSEIRO. DEMAIS PONTOS. ALEGAÇÃO DE INVERSÃO DOS ÔNUS SUCUMBENCIAIS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA. AGRAVO PARCIALMENTE CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
