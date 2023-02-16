@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus , com pedido liminar, impetrado em favor de JEISON LUIS ASSUNÇÃO DE SOUZA contra ato praticado pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0363772-35.2022.3.00.0000).
+Segundo consta dos autos, o paciente foi sentenciado à pena de 8 anos e 6 meses de reclusão, em regime inicial aberto, mantida a custódia cautelar, pela prática dos delitos tipificados nos arts. 33, caput, e 35, ambos da Lei 11.343/2006 (e-STJ fls. 19/50).
+Na presente oportunidade, alega a defesa constrangimento ilegal, uma vez que " ..  além de descumprir a recomendação desta Eg. Corte Superior por duas vezes de reexaminar a necessidade de segregação cautelar, o Tribunal a quo também não cumpriu com a celeridade necessária para o julgamento da Apelação" (e-STJ fl. 7).
+Sustenta que " o  paciente aguarda preso o julgamento de seu recurso de apelação que está paralisado por razão exclusiva da desídia do Estado-juiz, um painel arbitrário que desafia os princípios constitucionais da razoável duração do processo, ampla defesa e presunção de inocência, além da recomendação expressa desta Egrégia Corte Superior" (e-STJ fl. 7).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão de ordem para revogar a prisão preventiva do paciente, expedindo-se o alvará de soltura (e-STJ fls. 11/12).
+A liminar foi indeferida às fls. 208/209, o MPF se manifestou pela denegação da ordem (e-STJ fls. 282/286) e o Juízo de 1º Grau prestou informações requeridas (e-STJ fls. 275/277).
+É o relatório. Decido.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação." No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Mencione-se, por outro lado, que, com o fim de assegurar que a prisão não se estenda por período superior ao necessário, configurando verdadeiro cumprimento antecipado da pena, a alteração promovida pela Lei nº 13.964/19 ao art. 316 do Código de Processo Penal estabeleceu que o magistrado revisará a cada 90 dias a necessidade da manutenção da prisão, mediante decisão fundamentada, sob pena de tornar a prisão ilegal.
+Necessário, porém, considerar que, cumprido tal requisito, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Intimado a se manifestar, o a Relatora prestou as seguintes informações (e-STJ fls. 275/276):
+ ..  1. O recorrente restou condenado, em 07 de janeiro de 2022, às penas de 08 anos e 06 meses de reclusão, em regime inicial fechado, e 1.250 dias-multa, pela prática do crime de tráfico ilícito de entorpecentes, previsto no artigo 33, caput, e artigo 35, ambos da Lei nº 11.343/06, e manteve a prisão preventiva do paciente.
+2. Em 10 de janeiro de 2022, a defesa técnica do paciente interpôs recurso de apelação, requerendo a apresentação das razões recursais em 2º Grau, sendo os autos remetidos a este Tribunal.
+3. O processo foi distribuído à minha relatoria em 09 de fevereiro de 2022.
+4. Após, em 08 de março de 2022, a Procuradoria de Justiça requereu a intimação das defesas dos recorrentes para a apresentação das razões de recurso.
+5. Em 22 de fevereiro de 2022, proferi despacho de intimação das defesas técnicas de Jeison e Anderson.
+6. Em 30 de maio de 2022 foram apresentadas as razões pela defesa de Anderson, e, posteriormente, em 06 de junho de 2022, foram apresentadas as razões pela defesa de Jeison.
+7. Por sua vez, o Ministério Público apresentou contrarrazões em 27 de junho de 2022.
+8. Por fim, sobreveio parecer da Procuradoria de Justiça em 19 de agosto de 2022, retornando os autos conclusos para julgamento na mesma data.
+9. Informo que a Apelação Criminal estava pautada para julgamento na sessão a ser realizada no dia 25 de novembro de 2022, virtualmente, contudo, em 15 de novembro de 2022, a defesa técnica da recorrente Ingrid solicitou a retirada, considerando a pretensão de sustentação oral, razão pela qual será pautada novamente para a próxima sessão presencial  ..
+Como visto, a Apelação Criminal estava pautada para julgamento na sessão a ser realizada no dia 25 de novembro de 2022, virtualmente, contudo, em 15 de novembro de 2022, a defesa técnica da recorrente Ingrid solicitou a retirada, considerando a pretensão de sustentação oral, razão pela qual será pautada novamente para a próxima sessão presencial.
+Ademais, cumpre lembrar o patamar de pena a que o paciente foi condenado, 8 anos e 6 meses de reclusão, e que "a jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento da apelação" (Informações adicionais do HC n. 448.058/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 12/2/2019, DJe 8/3/2019).
+Assim, considerando que o processo traminta a há um e que o recurso já está prestes a ser levado a julgado, como afirmado no acórdão, forçoso reconhecer a ausência de constrangimento ilegal na prisão do paciente por excesso de prazo.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. INOCORRÊNCIA. PROPORCIONALIDADE EM RELAÇÃO AO TEMPO TOTAL DE CONDENAÇÃO. RECOMENDAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O excesso de prazo para o julgamento da apelação demanda, para aferição de ilegalidade, a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição da República.
+2. Em consulta ao sítio do Tribunal de origem, verifica-se que o revisor da apelação já pediu dia para julgamento do recurso, devolvendo os autos ao relator, de modo que, conquanto alongado, o prazo não se revela excessivo, estando o julgamento da apelação para ser ultimado.
+3. De se destacar, ainda, para o caso, que o quantitativo de pena imposto ao paciente na sentença (13 anos de reclusão), não escancara desproporcionalidade no tempo do exame do recurso de apelação, em trâmite há quase 2 anos e estando a ponto de ser pautada para julgamento. Expedição de recomendação por celeridade na apreciação do recurso.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 748.731/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DO DECISUM. NÃO CONFIGURAÇÃO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Não há nulidade do julgamento do mérito da impetração, pois: a) o feito já estava instruído com as informações do Juízo singular e com o parecer do Ministério Público Federal; b) as questões suscitadas no pedido de reconsideração foram devidamente ponderadas no decisum combatido.
+2. Mesmo com a necessidade de suprir a ausência de intimação de corréus da sentença, não é desproporcional o prazo decorrido desde a prolação do decreto condenatório até o momento (pouco mais de um ano).
+3. Como destacado na decisão agravada, o feito foi devidamente impulsionado pelo Desembargador relator e, atualmente, os autos estão com o revisor, a indicar prognóstico de julgamento do apelo em data próxima.
+4. Agravo não provido.
+(AgRg no HC n. 665.765/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2021, DJe de 29/9/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem de habeas corpus.
+Intimem-se.
