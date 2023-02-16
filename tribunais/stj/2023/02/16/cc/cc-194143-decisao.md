@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE ACAILÂNDIA, suscitante, e o JUÍZO FEDERAL DA 2ª VARA CÍVEL E CRIMINAL DE IMPERATRIZ - SJ, suscitado.
+De acordo com os autos, ANDREZA DA SILVA PRATES e OUTRO, ajuizaram ação de obrigação de fazer c/c pedido de indenização por danos morais e tutela de urgência, em desfavor da FACULDADE VALE DO AÇO LTDA e UNIÃO FEDERAL, objetivando a expedição dos diplomas do curso de Tecnólogo em Agronegócio, sob pena de incidência de multa (fls. 12/21e).
+A ação foi proposta perante a Justiça Federal, que declinou de sua competência por concluir pela ilegitimidade passiva da União (fls. 32/34e).
+O juízo suscitante assevera que "a jurisprudência do Superior Tribunal de Justiça é no sentido de que as causas que versem sobre expedição de diploma são de competência da Justiça Federal, independentemente de serem veiculadas ou não por mandado de segurança" (fl. 37e).
+Parecer do Ministério Público Federal opinando "pelo conhecimento do presente conflito negativo de competência, para reconhecer como competente o juízo suscitado, qual seja, Juízo Federal da 2ª Vara Cível e Criminal de Imperatriz - MA/SJ" (fl. 53e).
+Conforme destacado pelo Ministério Público Federal, o Supremo Tribunal Federal, no julgamento do Tema 1.154 da repercussão geral, firmou a seguinte tese: "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DA 2ª VARA CÍVEL E CRIMINAL DE IMPERATRIZ - SJ, suscitado, para o processamento do feito.
+I.
