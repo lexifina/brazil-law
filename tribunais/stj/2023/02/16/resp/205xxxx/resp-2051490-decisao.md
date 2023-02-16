@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por SEBASTIÃO ASCACIBA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+APELAÇÃO. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL. DOCUMENTOS DESPROVIDOS DE VALORPROBATÓRIO. AUSÊNCIA DE CONTEÚDO PROBATÓRIO EFICAZ A INSTRUIR A PETIÇÃOINICIAL. EXTINÇÃO SEM O JULGAMENTO DO MÉRITO. TEMA 629/STJ.
+1. Apelação contra sentença que julgou procedente o pedido de concessão do benefício de aposentadoria por tempo de contribuição.
+2. Declarações unilaterais de terceiros, declarações contendo dados meramente informados pela parte, declarações emitidas por sindicatos sem homologação pelo INSS ou Ministério Público e os documentos que não possuem fé pública ou confeccionados em momento próximo ao ajuizamento da ação ou do implemento da idade, são desprovidos de valor probatório (TRF1, AC 0000944-60.2015.4.01.9199, Rel. Juiz Fed. Conv. RODRIGO RIGAMONTE FONSECA, 1ª CRP/MG, E-DJF1R17.07.2018; TRF1, AC 0024674-95.2018.4.01.9199, Rel. Des. Fed. WILSON ALVES DE SOUZA, 1ªTurma, E-DJF1R 26.06.2019; e TRF1, AC 0045390-61.2009.4.01.9199, 1ª Turma, E-DJF1R19.12.2019).
+3. A ausência de conteúdo probatório eficaz a instruir a petição inicial implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo sua extinção sem o julgamento do mérito e a consequente possibilidade do autor intentar novamente a ação, caso reúna os elementos necessários a esta iniciativa (Tema 629/STJ).
+4. Apelação parcialmente provida.
+No presente recurso especial, a recorrente aponta como violados os arts. 55 e 106 da Lei n. 8.213/1991, sustentando, em síntese, ante o início de prova material, restou comprovado o desempenho de atividade laboral campesina pelo segurado, razão pela qual, é devida a concessão da aposentadoria por tempo de contribuição.
+É o relatório. Decido.
+É irrefutável que o Tribunal de origem, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que os documentos apresentados "não poderiam ser considerados como início de prova material do exercício do labor rurícola, pois, tal como definido nos fundamentos dos julgados proferidos peloTRF1 citados na decisão, eles seriam desprovidos de valor probante para os fins previdenciários almejados na demanda.".
+Dessa forma, para rever tal posição, relativa à ausência de comprovação da qualidade rurícula da atividade desempenhada pelo segurado, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ. Nesse mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EXERCÍCIO DE ATIVIDADE AGRÍCOLA. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Na esteira do REsp n. 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material corroborado por testemunhos idôneos.
+2. Esta Corte também pacificou o entendimento no sentido de reconhecer como início de prova material certidões de nascimento, casamento e outros documentos em nome de terceiros, desde que corroborados pela prova testemunhal.
+3. Caso em que o acórdão recorrido concluiu em sentido oposto ao postulado, por consignar que a prova produzida não era apta a demonstrar o exercício da atividade no campo, pelo período de carência legalmente exigido, notadamente pela ausência de início de prova material amparada por testemunhos idôneos, circunstâncias que esbarram no óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.917.659/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/12/2022, DJe de 27/1/2023.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. EXERCÍCIO DE ATIVIDADE AGRÍCOLA. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Na esteira do REsp n. 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material, desde que corroborado por testemunhos idôneos.
+2. Caso em que o acórdão recorrido concluiu em sentido oposto ao postulado, por consignar que a prova produzida não era apta a demonstrar o exercício da atividade no campo no período imediatamente anterior ao implemento da idade, circunstância que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.087.737/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
