@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial em razão de: (i) inexistência de violação do artigo 1.022 do CPC/2015; (ii) incidência da Súmula 83/STJ.
+O recurso especial obstado enfrenta acórdão com a seguinte ementa (fls. 93):
+ADMINISTRATIVO. AÇÃO DE DESAPROPRIAÇÃO. CONCESSIONÁRIA. RODOVIA FEDERAL. LEI N.º 9.277/1996. COMPETÊNCIA. JUSTIÇA ESTADUAL.
+1. Tendo a União, a ANTT e o DNIT manifestado desinteresse na causa, e não havendo motivos fáticos que justifiquem a manutenção do feito na Justiça Federal, a Justiça Estadual é competente para processá-lo e julgá-lo.
+2 Agravo de instrumento a que se dá provimento.
+No recurso especial, a recorrente alega violação do artigo 1.022, II do CPC.
+Com contrarrazões.
+No agravo em recurso especial, a parte alega que "opôs embargos de declaração, invocando omissões no Acórdão (artigo 1.022, inciso II,do CPC/15) quanto à presença como parte e o interesse do Ministério Público Federal no acompanhamento e fiscalização das desapropriações e demais compromissos assumidos pela VIAPAR no âmbito da Ação Civil Pública promovida no Juízo Federal e em relação à própria coisa julgada decorrente do acordo homologado judicialmente, em fase de cumprimento de sentença"; que "as questões omissas eram, de fato, relevantes (artigo 489 do CPC/15), de caráter impeditivo ao reconhecimento da competência da Justiça Estadual"; que "sequer se examinou se haveria interesse ou não do Ministério Público Federal no acompanhamento e fiscalização das desapropriações". Sustenta ser "inaplicável o suposto óbice da Súmula 83 do STJ, até porque a negativa de prestação jurisdicional deve ser averiguada caso a caso".
+É o relatório. Decido
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso.
+Sustenta-se afronta ao 1.022 do CPC/2015 porque o acórdão recorrido omitiu-se quanto à existência de título executivo judicial e coisa julgada acerca da competência da justiça federal nos processos de desapropriação do Contorno de Jandaia do Sul.
+Do que se observa, não há falar em violação do artigo 1.022, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido.
+A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. EXERCÍCIO DE ATIVIDADE ECONÔMICA. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489, 927 E 1.022 DO CÓDIGO FUX. A PARTE RECORRENTE NÃO SE DESINCUMBIU DE SEU ÔNUS ARGUMENTATIVO, PERANTE A CORTE DE ORIGEM, EM DEMONSTRAR COMO O CASO CONCRETO SE AMOLDARIA AO PRECEDENTE INVOCADO. AGRAVO INTERNO DO ENTE ESTADUAL A QUE SE NEGA PROVIMENTO.  ..
+2. Inexiste a alegada violação dos arts. 489, 927 e 1.022 do Código Fux, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+3. Ao postular a aplicação de um precedente, a argumentação apresentada pela parte não pode ser genérica, limitando-se a apenas mencionar o entendimento que espera prevalecer no caso concreto. Ao revés, é necessário demonstrar, especificamente, qual seria o equívoco da decisão a ser modificada; é este, inclusive, o teor do Enunciado 9 da ENFAM. Ocorre que, no presente caso, nem os Embargos de Declaração, nem o Recurso Especial, expõem precisamente como as circunstâncias fáticas dos autos se assemelham às do julgado do STF mencionado nas razões recursais.
+4. Agravo Interno do Ente Estadual a que se nega provimento. (AgInt no REsp 1.854.873/AM, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/6/2020)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO
