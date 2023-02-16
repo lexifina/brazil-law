@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO, NA FORMA DO ART. 485 IV DO CPC/2015, SOB O ENTENDIMENTO DE QUE NÃO HOUVE CONSTITUIÇÃO EM MORA DO DEVEDOR. NOTIFICAÇÃO QUE, EMBORA TENHA SIDO ENVIADA AO ENDEREÇO DO CONTRATO, RETORNOU COM A INFORMAÇÃO DE AUSENTE - RECURSO A QUE SE NEGA PROVIMENTO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, sustenta violação e divergência jurisprudencial atinente à interpretação do art. 2º, § 2º, do Decreto-Lei n. 911/69, no que concerne à validade da constituição em mora feita através de envio de correspondência com aviso de recebimento ao endereço do devedor informado no contrato, trazendo os seguintes argumentos:
+Analisando o dispositivo o legislador foi claro em frisar que PODERÁ ser comprovada com carta de recebimento, não exigindo sua obrigatoriedade, frisa-se, ainda, que constou nos autos o Aviso de Recebimento.
+ ..
+O trecho do v. Acórdão não merece prosperar, visto que no caso dos autos a notificação foi enviada para o endereço constante no contrato, ou seja, a entrega não ocorreu por culpa exclusiva do recorrido, tendo em vista que seria de responsabilidade do mesmo informar qualquer alteração cadastral, bem como informar os dados corretos, diante do princípio da boa-fé contratual.
+Assim, a notificação acostada ao feito é suficiente para comprovação da constituição em mora, carecendo de reforma ao Acórdão proferido, vê-se que a Recorrente colacionou nos autos o AR (carta registrada com aviso de recebimento), conforme prevê o artigo 2º, § 2º do Decreto-Lei 911/69, ainda, cumpriu a Recorrente na integralidade do dispositivo mesmo que tal formalidade de AR não é obrigatória.
+Pelo exposto, evidente é a violação à Legislação Federal ao Artigo 2º, §2º do Decreto Lei 911/69, razão pela qual requer seja o reformada a decisão por esse Egrégio Superior Tribunal de Justiça, revigorando sua vigência (fls. 82-83).
+É, no essencial, o relatório. Decido.
+Na espécie, no que tange à controvérsia pela alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+Não assiste razão ao apelante, conforme informações que se seguem.
+Nota-se que a parte autora acostou aos autos cópia da notificação extrajudicial (e-doc. 2382215), a qual, embora encaminhada ao endereço do devedor descrito no contrato, foi devolvida sem êxito, em 3 (três) tentativas, sob a justific ativa de "AUSENTE".
+ ..
+Em que pese a instituição financeira sustentar a regularidade da notificação, verifica-se que, após tentativa frustrada de entrega, a carta registrada extrajudicial foi devolvida, com a informação de motivo da não entrega: "AUSENTE", não se podendo assim, presumir que a correspondência tenha atingido seu fim, pelo simples fato de ter sido endereçada à residência onde o réu supostamente reside.
+De acordo com a orientação do STJ, para efeito de constituição em mora do devedor, é necessária a entrega da notificação no endereço do contrato, o que não ocorreu na hipótese.
+ ..
+Portanto, no caso dos autos, como não restou comprovada a mora do devedor, como exige o artigo 3º, do Decreto-Lei nº 911/69, incabível o deferimento da liminar de busca e apreensão pretendida, devendo a r. sentença ser mantida (fls. 70-74, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PARA O ENDEREÇO DO CONTRATO. AUSÊNCIA DE RECEBIMENTO. ALTERAÇÃO DO CONCLUÍDO PELO TRIBUNAL ESTADUAL. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência desta Corte é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor. Precedente.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.021.437/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
