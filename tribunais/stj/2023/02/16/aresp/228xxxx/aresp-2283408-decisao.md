@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por SANTANDER LEASING S.A. ARRENDAMENTO MERCANTIL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO A APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DOS PRESSUPOSTOS DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (CONSTITUIÇÃO MORA). APELAÇÃO QUE CONFIRMOU DECISÃO DO JUÍZO DE PRIMEIRO GRAU. AGRAVO INTERNO QUE SE NEGA PROVIMENTO. MANUTENÇÃO DAS DECISÕES DO 1º GRAU E DA QUE NEGOU SEGUIMENTO AO APELO. DECISÃO UNÂNIME.
+1- lnexiste qualquer argumentação que venha ensejar a modificação da decisão combatida. Não se estar a exigir a notificação pessoal do devedor para comprovação de sua mora, mas sim, conforme reiterada jurisprudência do STJ, a demonstração da efetiva entrega de notificação extrajudicial em seu endereço, indicado no contrato e, no caso dos autos, a financeira credora não comprovou esse requisito.
+2- Recurso improvido.
+3- Decisão Unânime.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, sustenta violação e divergência jurisprudencial atinente à interpretação do art. 2º, § 2º, do Decreto-Lei n. 911/69, no que concerne à validade da constituição em mora feita através de envio de correspondência com aviso de recebimento ao endereço do devedor informado no contrato, trazendo os seguintes argumentos:
+Não obstante, as r. decisões de primeira e segunda instância contrariam expressa disposição legal contida § 2º do Artigo 2º do Decreto Lei 911/69, não se aplicando o melhor direito violando expressamente o referido dispositivo.
+ ..
+Assim, analisando o referido dispositivo é claro quanto a entrega e recebimento notificação pelo devedor para comprovação da mora, tendo em vista que o termo poderá", não se expressa obrigatoriedade bastando que a notificação seja enviada para o endereço constante no contrato de financiamento.
+Assim, a notificação acostada ao feito é suficiente para comprovação da constituição em mora, carecendo de reforma ao Acórdão proferido (fls. 119-120).
+É, no essencial, o relatório. Decido.
+Na espécie, no que tange à alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+Inexiste qualquer argumentação que venha ensejar a modificação da decisão combatida, mesmo porque, repito, não se estar a exigir a notificação pessoal do devedor para comprovação de sua mora, mas sim, conforme reiterada jurisprudência (AgRg no AREsp 419.667/MS, REsp 692.237/MG, AgInt no AREsp 1373421/MS), a demonstração da efetiva entrega de notificação extrajudicial em seu endereço, indicado no contrato e, no caso dos autos, a financeira credora não comprovou esse requisito.
+Ante o exposto voto no sentido de negar provimento ao agravo de fls. 76/81, mantendo a decisão recorrida por seus próprios fundamentos (fl. 107, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PARA O ENDEREÇO DO CONTRATO. AUSÊNCIA DE RECEBIMENTO. ALTERAÇÃO DO CONCLUÍDO PELO TRIBUNAL ESTADUAL. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência desta Corte é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor. Precedente.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.021.437/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
