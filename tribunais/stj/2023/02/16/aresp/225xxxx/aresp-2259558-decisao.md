@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FORTES FERRAMENTAS INDÚSTRIA E COMÉRCIO LTDA. contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, de relatoria da Desembargadora Ângela Lopes, assim ementado:
+AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS, COM RECONVENÇÃO Autor que pretende a rescisão do contrato entabulado com os réus, na medida em que os equipamentos encomendados (a eronaves não-tripuladas, modelo helicóptero) não foram entregues dentro das especificações de qualidade contratadas Réus que postulam, em reconvenção, a devolução, pela reconvinda, de ferramentas e peças suas, retidas em poder desta Recurso dos réus / reconvintes ao qual se dá parcial provimento tão somente quanto ao desfecho da reconvenção Devolução dos itens que estavam na posse da reconvinda, após o processamento da reconvenção, que consubstancia-se em reconhecimento jurídico tácito da pretensão, e não como consignado pelo N. Juízo, carência superveniente do interesse de agir Reconvenção que deves er julgada procedente, com imputação dos ônus da sucumbência relativamente a tal lide à reconvinda Desfecho quanto à lide principal (procedência do pedido),que deve ser mantida Culpa pela rescisão do contrato que, de fato, deve ser atribuída à ré Fortes Provas nos autos que claramente demonstram que as aeronaves, quando entregues, não lograram sequer alçar voo Perícia conduzida nos autos que confirmou a tese da inadequação dos itens Indenização pelos danos materiais ocasionados à autora que, de fato, é devida Sentença mantida neste tocante RECURSO PARCIALMENTE PROVIDO
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO Embargante que pretende, tão somente, modificação do julgado, pelo que sequer aponta a ocorrência de vícios sanáveis pela via dos embargos de declaração V. Acórdão que fica mantido tal como prolatado EMBARGOS REJEITADOS.
+Irresignada, FORTES FERRAMENTARIA INDÚSTRIA E COMÉRCIO LTDA. interpôs recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 489, § 1º, III, e 1.022, II, do CPC, sob o argumento de omissão no julgado recorrido, que não teria se pronunciado sobre: a hipótese de litigância de má-fé suscitada; a existência ou não do contrato de venda e compra das aeronaves, alvos da presente lide; suspeição do perito, porquanto possuiria relação de amizade e comercial com a empresa recorrida.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo por não configurar omissão ou negativa de prestação jurisdicional no julgado recorrido e por incidir, no caso, o teor da Súmula n.º 7 desta Corte (e-STJ, fls. 696/698).
+Nas razões do presente agravo, FORTES FERRAMENTARIA INDÚSTRIA E COMÉRCIO LTDA. refuta o referido óbice de prelibação (e-STJ, fls. 701/711).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da omissão no julgado recorrido
+Nas razões do seu recurso, FORTES FERRAMENTARIA INDÚSTRIA E COMÉRCIO LTDA. apontou omissão por parte do acórdão recorrido, que não teria se pronunciado sobre: a hipótese de litigância de má-fé suscitada; a existência ou não do contrato de venda e compra das aeronaves, alvos da presente lide; suspeição do perito, porquanto possuiria relação de amizade e comercial com a empresa recorrida.
+Todavia, não se vislumbra omissão no julgado recorrido, mas, tão somente, julgamento contrário à pretensão da parte.
+No acórdão proferido nos embargos declaratórios, o TJSP concluiu que:
+Anota-se, por oportuno, que o reconhecimento tácito do pedido reconvencional, com sua consequente procedência, substituiu decisão que havia julgado extinto o processo sem análise de mérito tal requerimento. Os demais, e nesses inclui-se o pedido de aplicação de multa por litigância de má-fé, não foi atendido (foi julgado pelo N. magistrado de Primeira Instância improcedente, conforme fl. 555). Tal tópico, contudo, não foi objeto de impugnação específica por parte do ora embargante, pelo que nulidade alguma cumpre reconhecer.
+Todos os demais apontamentos denotam atribuição de caráter manifestamente infringente ao recurso, o que, como já dito, não se admite (e-STJ, fl. 659).
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. ALEGAÇÃO DE ILIQUIDEZ DO TÍTULO EXECUTIVO QUANTO AOS DANOS MATERIAIS. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+(..)
+2. Não se pode falar em violação aos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+(..)
+5. Recurso especial conhecido e parcialmente provido
+(REsp n. 1.957.630/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/11/2022, DJe de 10/11/2022 )
+Afasta-se, portanto, a alegada violação.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela E menda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL. INDENIZAÇÃO POR DANOS MATERIAIS. RECONVENÇÃO. OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. CONHECEU-SE DO AGRAVO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
