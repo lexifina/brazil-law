@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 71-75):
+HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO - EXPEDIÇÃO DA GUIA DEFINITIVA DE EXECUÇÃO INDEPENDENTEMENTE DO CUM"PRIMENTO DO MANDADO DE PRISÃO - IMPOSSIBILIDADE - CONDENAÇÃO TRANSITADA EM JULGADO COM REGIME INICIALMENTE SEMIABERTO - GUIA DE EXECUÇÃO EXPEDIDA JUNTAMENTE COM O MANDADO - ORDEM DENEGADA.
+- Tendo transitado em julgado a condenação com fixação de regime inicial semiaberto, se mostra impossível a expedição da guia apartada do mandado de prisão, sendo certo que aquela deverá ser expedida juntamente com aquele.
+Consta dos autos que o paciente foi condenado definitivamente às penas de 4 anos e 2 meses de reclusão, no regime semiaberto, pela prática do crime constante do artigo 33, caput, da Lei n. 11.343/06 e de 1 ano de detenção, em regime aberto, como incurso no art. 12 da lei n. 10.826/03.
+No presente writ, o impetrante sustenta que "sendo o prévio recolhimento à prisão condição excessivamente gravosa e que dificulta o mero pleito dos benefícios da execução, deve ser expedida a guia de execução independentemente do cumprimento do mandado de prisão" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para determinar a expedição da guia de execução da pena, independentemente do recolhimento do paciente à prisão.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento do habeas corpus.
+Acerca da expedição de guia de execução independentemente da prisão, consta do acórdão (fls. 73/75):
+No que tange ao pedido de expedição da guia de execução definitiva ao paciente, para que seja garantido ao mesmo seu direito de cumprimento de pena no regime semiaberto por meio de trabalho externo, de se consignar que tal guia é expedida juntamente com o mandado de prisão em casos de condenação aos regimes fechado e semiaberto, motivo pelo qual DENEGO A ORDEM, não sendo possível, pois, a expedição da guia, sem que antes seja devidamente cumprido o mandado de prisão e, consequentemente, seja dado início ao processo de execução.
+ ..
+Tendo em vista o procedimento a ser seguido para que seja dado início ao processo de execução, inviável se mostra a revogação da prisão eventualmente ou já decretada em seu desfavor, sendo certo que tais medidas são necessárias para a adequação do regime ao que o paciente fora condenado.
+Com tais considerações, oficie-se à autoridade apontada como coatora para expedir o mandado de prisão em desfavor do paciente para que o mesmo seja recolhido ao estabelecimento prisional e, por fim, seja expedida a guia de execução definitiva, vez que a sentença condenatória já transitara em julgado.
+Como se vê, o Tribunal de origem não identificou nenhuma ilegalidade na expedição do mandado de prisão antes da guia de execução definitiva.
+Entretanto, o Conselho Nacional de Justiça, em 09/09/2022, aprovou a Resolução nº 474, que alterou o art. 23 da Resolução nº 417/CNJ, prevendo a intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+Em hipótese semelhante, decidiu recentemente essa Corte Superior de Justiça:
+PENAL. EXECUÇÃO PENAL.HABEAS CORPUS. CONDENAÇÃO EM REGIME INICIAL SEMIABERTO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA CONDICIONADA AO CUMPRIMENTO DO MANDADO PRISIONAL. ART. 105 DA LEP. MITIGAÇÃO. ADVENTO DA RESOLUÇÃO N. 474/CNJ. INTIMAÇÃO PRÉVIA. ORDEM CONCEDIDA.
+1. O entendimento por muito tempo sedimentado do Superior Tribunal de Justiça, nos termos do art. 105 da Lei de Execução Penal, indicava que a expedição de guia de execução definitiva dependia do prévio recolhimento do apenado ao cárcere. Admitindo-se, contudo, exceções em casos pontuais.
+2. Com a alteração do art. 23 da Resolução n. 417/CNJ, promovida pela Resolução n. 474 do mesmo órgão, passou-se a mitigar a imposição do art. 105 da LEP para os casos nos quais o regime inicial for o intermediário ou o aberto.
+3. Tratando-se de paciente condenado à pena de 2 anos e 8 meses de reclusão em regime inicial semiaberto e diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada.
+4. Ordem concedida para determinar, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena. (HC n. 757.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/11/2022, DJe de 11/11/2022.)
+Desse modo, tendo sido imposto ao paciente o regime inicial semiaberto, não se mostra cabível a imediata expedição de mandado de prisão após o trânsito em julgado, mas sim a intimação prévia do apenado para iniciar o cumprimento da pena.
+Ante o exposto, concedo o habeas corpus para, com fulcro na Resolução n. 474 do CNJ, determinar ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento da pena.
+Comunique-se.
+Publique-se.
+Intimem-se.
