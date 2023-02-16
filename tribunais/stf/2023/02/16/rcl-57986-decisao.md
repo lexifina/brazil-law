@@ -1,0 +1,89 @@
+Decisão:
+
+    Vistos.
+
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pela Companhia Regional de Abastecimento Integrado de Santo André (CRAISA) contra decisões do Juiz de Direito da 1ª Vara da Fazenda Pública da Comarca de Santo André e do Tribunal de Justiça do Estado de São Paulo, que teriam afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido nas ADPF´s nº 275, 387, 437.
+
+    Narra a reclamante que, nos autos do Processo de Execução Fiscal nº 1505159-36.2020.8.26.0554, a 1ª Vara da Fazenda Pública da Comarca de Santo André, ao apreciar a exceção de pré-executividade, afastou a extensão do privilégio da Fazenda Pública por ela pretendido.
+
+    Contra essa decisão, relata que interpôs o Agravo de Instrumento nº 2221539-09.2020.8.26.0000, no qual o TJ/SP manteve a decisão recorrida, bem como que, após interposição dos subsequentes recursos, encontram-se pendentes de apreciação os embargos de declaração opostos do acórdão que manteve o entendimento firmado por aquele colegiado após devolução dos autos para apreciar eventual desconformidade com o Tema nº 253 de repercussão geral.
+
+    Afirma que, não obstante sua natureza jurídica de direito privado, constitui empresa pública responsável pela
+
+    “execução de serviço público essencial em sentido estrito, de atuação própria do Estado, em regime não concorrencial, qual seja: a organização do abastecimento alimentar do Município de Santo André, compreendendo a coordenação, produção e distribuição da merenda escolar, fornecimento de refeições aos servidores e hospital público municipal, administração do CEASA do Município de Santo André, bem como a regulamentação com emissão de licenças para o uso de espaços públicos pelo comércio ambulante e pelas feiras-livres nesse Município.”
+
+    Aduz, ainda, que “não distribui lucros aos acionistas, nem tampouco tem finalidade de auferir lucro ao Estado. Pelo contrário, presta serviço público essencial, de atuação própria do Estado”. Entende que deve ser equiparada à Fazenda Pública, tendo também como privilégio a impenhorabilidade de seus bens, assim como que seja adotado o regime de precatórios para pagamento de seus débitos.
+
+    Requer que seja deferido o pedido liminar para “suspender imediatamente o andamento do processo nº 1505213-02.2020.8.26.0554”. No mérito, requer a cassação “[d]a decisão proferida nos autos do processo nº 1505159-36.2020.8.26.0554, bem como o V. Acórdão proferido no Agravo de Instrumento nº 2221539-09.2020.8.26.0000”.
+
+    É o relatório. Decido.
+
+    A presente reclamação volta-se contra decisão monocrática de ordem do Juiz de Direito da 1ª Vara da Fazenda Pública da Comarca de Santo André e também contra o acórdão proferido pelo TJ/SP no Agravo de Instrumento nº 2221564-22.2020.8.26.0000. Confira-se o teor dos atos impugnados, respectivamente:
+
+    “Afasto, inicialmente, as alegações perpetradas acerca da concessão das prerrogativas da Fazenda Pública à empresa excipiente. Conforme pode-se depreender do artigo 1º da Lei Municipal nº 6.639/90, que trata da criação do CRAISA, está constitui-se como empresa pública com fins econômicos, dotada de personalidade jurídica de direito privado, com patrimônio próprio e autonomia administrativa e financeira:
+
+    (...)
+
+    Desta feita, nos termos dos §§ 1º e 2º do artigo 173 da Constituição Federal, as empresas públicas sujeitam-se ao regime próprio das empresas privadas, em especial no tocante aos seus direitos e obrigações, bem como que as prerrogativas da Fazenda Pública não são a elas extensíveis em relação aos benefícios fiscais.
+
+    É certo que a empresa excipiente não atua em regime de monopólio ou presta serviço de caráter essencialmente público, explorando, na verdade, atividade econômica, consistente na comercialização de produtos de gênero hortifrutigranjeiros e outros do gênero alimentício.
+
+    (...)
+
+    Desta feita, resta cristalino que a empresa excipiente não goza dos privilégios dos entes públicos, de modo que torna-se inadimissível conceder a ela aplicação do disposto no artigo 910 do CPC, não se encontrando seus bens resguardados pela impenhorabilidade.
+
+    Não sendo estendida a ela qualquer uma das prerrogativas da Fazenda Pública, torna-se inaplicável ao presente caso as regras previstas no Decreto nº 20.910/32, devendo ser-lhe aplicada, no que concerne a prescrição, as mesmas regras aplicadas às demais pessoas de direito privado, qual seja, a prescrição decenal em relação aos créditos de natureza tarifária e a quinquenal em relação aos créditos de natureza tributária.” (e-Doc 5, p. 87-88).
+
+    “AGRAVO DE INSTRUMENTO Execução fiscal movida em face de CRAISA (Companhia de Abastecimento de Santo André) Cobrança de Tarifa de Água e Esgoto, Taxa de Coleta de Resíduos Sólidos não Residenciais e Taxa de Limpeza Pública Exercícios de 2015 e 2016 Empresa Pública Municipal Prerrogativas da Fazenda Pública que não lhe são extensivas pois, apesar de ser constituída na forma de empresa pública, tem personalidade jurídica de direito privado e é dotada de patrimônio próprio e autonomia administrativo-financeira Determinação do Presidente da Seção de Direito Público para que a Turma Julgadora realize o juízo de conformidade tendo em vista o RE 599.628/DF (Tema 253, STF), Repercussão Geral do C. STF Manutenção do julgado posto que todas as matérias suscitadas foram objeto de análise por este E. Tribunal de Justiça” (e-Doc 5, p. 756).
+
+    Aponta-se como paradigmas de confronto os acórdãos exarados nas ADPFs 275, 387 e 437, nos quais firmou-se o entendimento de que incide o regime de precatórios às sociedades de economia mista e às empresas públicas na condição de prestadoras de serviços públicos essenciais e de natureza não concorrencial em respeito aos princípios constitucionais do sistema financeiro e orçamentário e da harmonia entre os Poderes. Vide as respectivas ementas a seguir:
+
+    “Arguição de descumprimento de preceito fundamental. 2. Ato lesivo fundado em decisões de primeiro e de segundo graus do Tribunal Regional do Trabalho da 22ª Região que determinaram bloqueio, penhora e liberação de valores oriundos da conta única do Estado do Piauí, para pagamento de verbas trabalhistas de empregados da Empresa de Gestão de Recursos do Estado do Piauí S/A (EMGERPI). 3. Conversão da análise do pedido de medida cautelar em julgamento de mérito. Ação devidamente instruída. Possibilidade. Precedentes. 4. É aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Precedentes. 5. Ofensa aos princípios constitucionais do sistema financeiro e orçamentário, em especial ao da legalidade orçamentária (art. 167, VI, da CF), aos princípios da independência e da harmonia entre os Poderes (art. 2º da CF) e ao regime constitucional dos precatórios (art. 100 da CF). 6. Arguição de descumprimento de preceito fundamental julgada procedente.” (ADPF 387, Tribunal Pleno, Ministro Relator Gilmar Mendes, DJe de 25.10.2017).
+
+    “CONSTITUCIONAL. ADPF. BLOQUEIO DE RECEITAS PÚBLICAS POR DECISÕES JUDICIAIS. CRÉDITOS TRABALHISTAS DEVIDOS POR ENTE DA ADMINISTRAÇÃO INDIRETA. INDEPENDÊNCIA ENTRE OS PODERES E LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO PROCEDENTE. 1. Decisões judiciais que determinam o bloqueio, penhora ou liberação de receitas públicas, sob a disponibilidade financeira de entes da Administração Pública, para satisfação de créditos trabalhistas, violam o princípio da legalidade orçamentária (art. 167, VI, da CF), o preceito da separação funcional de poderes (art. 2º c/c art. 60, § 4º, III, da CF), o princípio da eficiência da Administração Pública (art. 37, caput, da CF) e o princípio da continuidade dos serviços públicos (art. 175, da CF). Precedente firmado no julgamento da ADPF 387 (Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 23/3/2017). 2. Arguição conhecida e julgada procedente.” (ADPF 275, Tribunal Pleno, Ministro Relator Alexandre de Moraes, DJe de 27.6.2019).
+
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. LIMINAR DEFERIDA EM PARTE. REFERENDO. EMPRESA DE ASSISTÊNCIA TÉCNICA E EXTENSÃO DO CEARÁ (EMATERCE). ENTIDADE ESTATAL PRESTADORA DE SERVIÇO PÚBLICO, EM CARÁTER EXCLUSIVO E SEM INTUITO DE LUCRO. ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL. INSTRUMENTOS DA POLÍTICA AGRÍCOLA. ART. 187, IV, DA CF. ATIVIDADES ESTATAIS TÍPICAS. EXECUÇÃO. REGIME DE PRECATÓRIOS. ARTS. 2º, 84, II, 167, VI E X, E 100 DA CF. CONVERSÃO DO REFERENDO À LIMINAR EM JULGAMENTO DE MÉRITO. PRECEDENTES. PROCEDÊNCIA. 1. É firme a jurisprudência desta Suprema Corte no sentido de que somente as empresas públicas que exploram atividade econômica em sentido estrito estão sujeitas ao regime jurídico próprio das empresas privadas, nos moldes do art. 173, § 1º, II, da Lei Maior. Precedentes. 2. As atividades de assistência técnica e extensão rural, positivadas no art. 187, IV, da Constituição da República como instrumentos de realização da política agrícola do Estado, traduzem atividades estatais típicas. 3. Embora constituída sob a forma de empresa pública, a EMATERCE desempenha atividade de Estado, em regime de exclusividade e sem finalidade de lucro, sendo inteiramente dependente do repasse de recursos públicos. Por não explorar atividade econômica em sentido estrito, sujeita-se, a cobrança dos débitos por ela devidos em virtude de condenação judicial, ao regime de precatórios (art. 100 da Constituição da República). 4. A expropriação de numerário em contas do Estado do Ceará para satisfazer execuções de débitos trabalhistas da EMATERCE traduz indevida interferência do Poder Judiciário na administração do orçamento e na definição das prioridades na execução de políticas públicas, em afronta aos arts. 2º e 84, II, 167, VI e X, da CF. Precedentes. 5. Conversão do referendo à liminar em julgamento definitivo de mérito. 6. Arguição de descumprimento de preceito fundamental julgada procedente.” (ADPF 437, Tribunal Pleno, Ministra Relatora Rosa Weber, DJe de 5.10.2020).
+
+    A meu ver, não se devem admitir ações reclamatórias propostas por entidades distintas daquela que foi objeto de análise no paradigma, pois:
+
+    i) Há a possibilidade do uso da ADPF (ação da competência originária do STF) para questionar entendimento que eventualmente esteja causando lesão a preceito fundamental, no âmbito da qual o STF poderá impor decisão com efeito vinculante erga omnes no sentido de
+
+    “suspend[er] o andamento de processo ou os efeitos de decisões judiciais, ou de qualquer outra medida que apresente relação com a matéria objeto da argüição de descumprimento de preceito fundamental, salvo se decorrentes da coisa julgada” (Lei nº 9.882/99, art. 5º, § 3º).
+
+    Destaca-se, no ponto, a legitimidade estrita (art. 102, § 1º, da CF/88 e art. 2º, I, Lei nº 9.882/99) para provocar a competência originária do STF para análise da situação jurídica do reclamante e eventual descumprimento de preceito fundamental relacionado às execuções movidas contra a referida entidade.
+
+    ii) A uniformização de decisões judiciais caso a caso com fundamento em tese sobre matéria constitucional é procedida na Suprema Corte em sede recursal, a qual se submete à sistemática da repercussão geral.
+
+    Ressalvo, entretanto, meu entendimento, tendo em vista posicionamento majoritário da Primeira Turma formado no julgamento do agravo regimental nos autos da Rcl nº 41.307/RO (Ata de Julgamento publicada no DJe de 25/9/20) - ocasião em que fiquei vencido -, admitindo a reclamatória para determinar a incidência do regime de precatórios nas execuções movidas contra sociedade de economia mista ou empresa pública, ainda que diversa da analisada pelo STF na ação paradigma, quando prestadora de serviços públicos essenciais e de natureza não concorrencial.
+
+    Assim, tratando-se a hipótese em tela de procedimento executório movido contra empresa pública criada com a finalidade de prestar serviço público de ordenação do abastecimento alimentar no âmbito do Município de Santo André/SP (Lei municipal nº 6.639/90) sem que fosse observado o regime de precatórios, tenho que há afronta a autoridade do Supremo Tribunal Federal no que decidido nas ADPFs nº 275, 387 e 437.
+
+    Como reforço do entendimento, no sentido da finalidade social e de natureza não concorrencial da CRAISA, transcrevo as razões de decidir exaradas pelo Min. Celso de Mello na análise do pedido liminar na ADPF nº 555/PA, na parte em que sumaria o histórico subjacente à criação e à permanência da função de estruturar políticas públicas de abastecimento do mercado interno de hortifrutigranjeiro no âmbito da Administração Pública indireta:
+
+    “Cabe rememorar, por oportuno, que a atividade estatal de fomento aos setores de produção, comercialização e abastecimento do mercado interno de hortigranjeiros, inclusive aos pequenos produtores e à agricultura familiar, teve seu primeiro impulso, no Brasil, com o Decreto nº 70.502/72, que instituiu o Sistema Nacional de Centrais de Abastecimento (SINAC), cuja gestão administrativa foi delegada à Companhia Brasileira de Alimentos (COBAL).
+
+    Sob a égide do SINAC, foram criadas , no País, as Centrais de Abastecimento S/A, distribuídas por todo território nacional, constituídas, na forma de sociedades de economia mista, com a participação acionária da COBAL, de um lado, e dos Estados e Municípios onde se localizavam suas sedes, de outro (IVENS ROBERTO DE ARAÚJO MOURÃO, Breve História do Mercado Atacadista de Hortigranjeiros no Brasil , p. 2, Ano 54, nº 251, Revista de Administração Municipal, IBAM).
+
+    Por meio do Decreto-Lei nº 2.400/87, que extinguiu o SINAC, a totalidade das ações da COBAL, representativas do capital social das Centrais de Abastecimento S/A, entidades integrantesdo SINAC, foram transferidas à União Federal, que as alienou, mediante doação, aos Estados e Municípios, nos termos do art. 2º de referido ato normativo, de modo que os entes políticos donatários passaram a exercer o controle acionário das Centrais de Abastecimento localizadas em seu respectivo território, sob a condição de manterem inalterado o objeto social da CEASA (art. 2ª, I), adotar nos órgãos de administração a participação representativa de usuários e empregados (art. 2ª, II) e observar as orientações normativas dos órgãos e entidades da Administração Federal (art. 2ª, III).
+
+    Após a extinção do SINAC, e atendendo reivindicações do setor, o Ministério da Agricultura, Pecuária e Abastecimento, por meio da Portaria nº 171/2005, instituiu o Programa Brasileiro de Modernização do Mercado Hortigranjeiro (PROHORT), com a finalidade de, em interação com os Estados, Municípios e agentes integrantes da cadeia de produção e distribuição, fomentar o desenvolvimento do setor, delegando-se a coordenação das ações do programa à Companhia Nacional de Abastecimento (CONAB), que as executa, por meio de acordos de cooperação técnica, com o auxílio das centrais de abastecimento, contando, para esse fim, com verbas do seu orçamento anual e recursos captados junto a organismos de fomento interno e externo (art. 3º).
+
+    Vê-se, desse modo, presente esse contexto, que as Centrais de Abastecimento do Estado do Pará (CEASA/PA), não obstante a natureza jurídica de sociedade de economia mista, desempenha atividade de fomento, especialmente no que concerne ao setor de produção, comercialização e abastecimento do mercado de hortigranjeiros no Estado do Pará, qualificando-se, em razão de sua específica condição institucional, como entidade delegatária de serviços públicos essenciais, prestados com exclusividade, sem concorrência com entidades do setor privado.”
+
+    Colaciono, ainda, o seguinte precedente da Primeira Turma do Supremo Tribunal Federal, envolvendo ambas as partes em caso similar:
+
+    “DIREITO PROCESSUAL CIVIL. DOIS AGRAVOS INTERNOS EM RECLAMAÇÃO. O PRIMEIRO, INTERPOSTO PELA CRAISA, REFERENTE À CONDENAÇÃO EM HONORÁRIOS. O SEGUNDO, INTERPOSTO PELA SEMASA, PEDINDO A REFORMA DA DECISÃO POR SER A CRAISA EMPRESA PÚBLICA, NÃO DETENTORA DE PRERROGATIVAS INERENTES À FAZENDA PÚBLICA. 1. Majoração de honorários e correção do valor da causa incabíveis na presente sede recursal. 2. Reclamação ajuizada sob a alegação de violação à autoridade das decisões proferidas nas ADPFs 275, 387 e 437; na ADI 1.642; e no RE 599.628, paradigma do Tema 253. O STF vem acolhendo tal pretensão reconhecendo que se trata de empresa pública que presta serviço público essencial, de abastecimento e segurança alimentar, em serviço de monopólio estatal e sem fins lucrativos, excepcionando, algumas vezes, casos de empresas públicas que desempenham, em regime de monopólio, atividades estritamente públicas, e não concorrenciais. Precedentes. 3. Agravos internos a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de unanimidade da decisão.” (Rcl 47972 ED-AgR-segundo, Primeira Turma, Min. Rel. Roberto Barroso, DJe de 14/03/2022 - grifei).
+
+    Pelo exposto, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, julgo procedente a presente reclamação para cassar a decisão proferida pelo Juiz de Direito da 1ª Vara da Fazenda Pública da Comarca de Santo André nos autos da Execução Fiscal nº 1505159-36.2020.8.26.0554, bem como o acórdão do Tribunal de Justiça de São Paulo, nos autos do Agravo de Instrumento nº 2221539-09.2020.8.26.0000, e determinar que outras decisões sejam proferidas com observância ao que decidido por esta Corte no julgamento das ADPFs 275, 387 e 437.
+
+     Extraia-se cópia desta decisão e envie-se à autoridade reclamada para que junte aos autos do processo, dando ciência à parte beneficiária da decisão reclamada acerca do trâmite da presente reclamação.
+
+    Publique-se. Int..
+
+    Brasília, 16 de fevereiro de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
