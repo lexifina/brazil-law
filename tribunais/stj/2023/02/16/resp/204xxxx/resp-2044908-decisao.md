@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por VERONICE LEONILZA DOS SANTOS com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado, in verbis:
+DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPODE CONTRIBUIÇÃO. TEMPO DE SERVIÇO ESPECIAL COMPROVADO. CUMPRIMENTO DOS REQUISITOS. CONSECTÁRIOS LEGAIS.
+- Não se conhece da parte da apelação da autora que requer afixação do termo inicial do benefício na data do requerimento administrativo, pois a sentença decidiu nos termos do inconformismo da apelante.
+- Com o advento da Emenda Constitucional nº 20/98, a aposentadoria por tempo de serviço foi convertida em aposentadoria por tempo de contribuição, tendo sido excluída do ordenamento jurídico a aposentadoria proporcional, passando a estabelecer o artigo 201 da Constituição Federal o direito à aposentadoria no regime geral de previdência social, nos termos da lei, ao completar 35 (trinta e cinco) anos de contribuição, se homem e 30 (trinta) anos de contribuição, se mulher.
+- Entretanto, o art. 3º da referida Emenda garantiu o direito adquirido à concessão da aposentadoria por tempo de serviço a todos aqueles que até a data da sua publicação, em 16 de dezembro de 1998, tivessem cumprido todos os requisitos legais, com base nos critérios da legislação então vigente.
+- Ao segurado inscrito perante o Regime Geral de Previdência Social anteriormente à promulgação da Emenda Constitucional nº 20/98, mas que, nessa data (16 de dezembro de 1998), ainda não tivesse preenchido os requisitos necessários à sua aposentação, mesmo na forma proporcional, aplicam-se as regras de transição estabelecidas pelo art. 9º da referida norma constitucional.
+- Foram contempladas, portanto, três hipóteses distintas à concessão da benesse: segurados que cumpriram os requisitos necessários à concessão do benefício até a data da publicação da EC 20/98 (16/12/1998); segurados que, embora filiados, não preencheram os requisitos até o mesmo prazo; e, por fim, segurados filiados após a vigência daquelas novas disposições legais.
+- No caso dos autos, restou comprovada a especialidade do labor em parte do período indicado. Somatório do tempo de serviço que autoriza a concessão do benefício de aposentadoria por tempo de serviço proporcional.
+- A correção monetária deve ser aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n.870.947, Rel. Min. Luiz Fux.
+- Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c. c. §11, do artigo 85, do CPC/2015.
+- Apelação da autora conhecida em parte e, na parte conhecida, parcialmente provida e apelação do INSS desprovida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 55, II, da Lei n. 8.213/91 e 60, III, do Decreto n. 3.048/99. Sustenta, em síntese, que faz jus ao reconhecimento como tempo de contribuição no período em que esteve em gozo de auxílio-doença de forma intercalada.
+Em sede de juízo de adequação ao Tema 998 do Superior Tribunal de Justiça, o acórdão foi mantido.
+É o relatório. Decido.
+O Tribunal de origem ao analisar a contagem do em que a parte autora esteve em gozo de auxílio-doença, como tempo de contribuição, assim se manifestou à fl. 334:
+No caso em tela, a autora percebeu auxílio-doença nos períodos de 02.04.2009 a 26.04.2010 e de 19.10.2010 a 31.12.2014. Ocorre que tais períodos não podem ser computados para fins de concessão de aposentadoria por tempo de contribuição, pois não estão intercalados com atividade ou contribuição para caracterizar a alternância exigida em lei.
+Era necessário que a autora houvesse vertido contribuições ao sistema no período entre abril de 2010 a outubro de 2010.
+Com efeito, de rigor a manutenção da sentença quanto à improcedência do pedido de contabilização do período em que a autora esteve em gozo de auxílio-doença para o tempo de contribuição para fins de concessão de aposentadoria por tempo de contribuição.
+Desta forma, a pretensão recursal teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Ainda que fosse possível a superação do referido óbice, melhor sorte não acode a recorrente.
+O entendi mento adotado no acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que para o cômputo do período de recebimento de auxílio-doença como tempo de contribuição é necessário que o afastamento seja intercalado com atividade laborativa ou contribuição, o que não ocorre no caso concreto.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. BENEFÍCIO POR INCAPACIDADE. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. DESCABIMENTO NO CASO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É firme no Superior Tribunal de Justiça o entendimento de que é possível a consideração dos períodos em que o segurado esteve em gozo de auxílio-doença, como carência para a concessão de aposentadoria, se intercalados com períodos contributivos, o que não ocorreu na espécie.
+2. Conforme acentuado na decisão agravada, acerca do período em que a agravante esteve em gozo de auxílio-doença, o Tribunal a quo registrou com base no CNIS e demais dados extraídos da DATAPREV, que os recolhimentos efetuados no período entre 1º/4/2010 a 31/7/2010 foram em período em que a agravante esteve em gozo de benefício assistencial, não tendo sido recolhidos em decorrência de efetivo labor, fato que não deu direito à prorrogação do período de graça.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.530.803/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/12/2019, DJe de 19/12/2019.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. PENSÃO POR MORTE. AUXÍLIO-DOENÇA. SALÁRIO DE CONTRIBUIÇÃO. PERÍODOS INTERCALADOS DE TRABALHO/RECOLHIMENTO. INEXISTÊNCIA. CÔMPUTO. IMPOSSIBILIDADE.
+1. A jurisprudência desta Corte, interpretando o art. 21, § 1º, da Lei n. 8.880/1994, firmou a compreensão de ser devida a adoção do IRSM de 39,67%, antes da conversão em URV, em janeiro e fevereiro de 1994, na atualização dos salários-de-contribuição dos benefícios previdenciários concedidos a partir de 01/03/1994.
+2. Para casos em que não houve períodos intercalados de trabalho (ou recolhimento de contribuição) durante a percepção de auxílio-doença, o regulamento da Previdência Social estabeleceu tão somente a conversão do percentual do salário-de-benefício de 91% (noventa e um por cento) para 100% (cem por cento). Precedente.
+3. Uma vez que inexistiu intercalação de períodos contributivos com o recebimento de benefício decorrente de incapacidade, não há como acolher a pretensão de adotar o valor do auxílio-doença como salário de contribuição para efeito de cálculo da pensão por morte.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.438.597/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/2/2021, DJe de 2/3/2021.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
