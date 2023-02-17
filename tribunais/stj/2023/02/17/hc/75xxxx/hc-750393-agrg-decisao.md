@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por FELIPE CARLOS SANTOS DE MACEDO contra decisão singular por mim proferida, de fls. 108/117, na qual não conheci do habeas corpus.
+No presente regimental, o agravante sustenta ausência de fundamentação idônea na decisão impugnada, nos termos que dispõem o art. 315, § 2º, incisos II e III, do CPP.
+Sustenta ofensa ao princípio da legalidade, tendo em vista que o ajuizamento da ação cautelar inominada para atribuir efeito suspensivo ao recurso em sentido estrito não tem previsão legal.
+Alega que a questão do excesso de prazo foi dada a conhecer ao Tribunal a quo e foi tratada, todavia, implicitamente, pois a Corte estadual a desprezou ao conceder a liminar de efeito suspensivo ao recurso em sentido estrito que impugna a decisão de primeiro grau que revogou a prisão preventiva, exatamente por motivo de excesso de prazo.
+Requer, assim, "do i. Ministro Relator se digne em reconsiderar a decisão agravada, a fim de conceder a ordem pleiteada, mas, sendo diverso o entendimento, pugnam impetrantes e paciente seja este Agravo Interno e o próprio mandamus, submetidos a julgamento pelo órgão colegiado, pugnando, outrossim, seja facultada sustentação oral" (fls. 120/126).
+É o relatório.
+Decido.
+O presente agravo regimental encontra-se prejudicado.
+Extrai-se dos autos que o paciente foi denunciado e preso preventivamente em 9/1/2019, pela suposta prática dos crimes previstos no art. 148, §2º, no art. 121, §2º, incisos I, IV e VII, na forma do artigo 29, caput, todos do Código Penal, e no art. 2º, §2º, da Lei nº 12.850/13. (sequestro/cárcere privado com emprego de maus tratos, feminicídio em concurso de pessoas e organização criminosa com emprego de arma de fogo). Em 2/6/2022 foi concedida liberdade provisória ao acusado, com aplicação de medidas cautelares, em razão de excesso de prazo na formação da culpa.
+O Ministério Público apresentou Medida Cautelar Inominada Criminal objetivando a concessão de efeito suspensivo ao Recurso em Sentido Estrito interposto contra a decisão de 1º instância. A liminar requerida fora deferida para conceder efeito suspensivo ao Recurso em sentido estrito e determinar a expedição de mandado de prisão em desfavor do paciente. O presente writ foi impetrado contra a referida decisão liminar.
+Ocorre que, em consulta ao site do Tribunal de origem, verifiquei que, em 17/10/2022, a 6ª Câmara de Direito Criminal do TJSP julgou o mérito da Cautelar Inominada Criminal, indeferindo liminarmente a medida cautelar inominada apresentada pelo Parquet estadual. Eis o teor da ementa:
+"MEDIDA CAUTELAR INOMINADA - Concessão de efeito ativo a recurso em sentido estrito - Inadmissibilidade - Hipótese não prevista no artigo 584, do Código de Processo Penal - Decisão fundamentada - Não configurada ilegalidade manifesta ou abuso de poder - Indeferimento liminar."
+Ressalte-se ainda que o Recurso em Sentido Estrito n. 0000823-46.2022.8.26.0052, cujo efeito ativo buscava a Medida Cautelar atribuir, também restou julgado, nos termos da seguinte ementa:
+"RECURSO EM SENTIDO ESTRITO. Restauração da prisão preventiva. Denunciados que foram acusados de prática de crimes gravíssimos executados com extrema violência e crueldade. Necessária a manutenção da prisão preventiva para se garantir a proteção às testemunhas e para a instrução processual. Ademais, feito extremamente complexo, que conta com sete denunciados, mais de três mil páginas, oito apensos e um rol de trinta e três testemunhas somente da acusação para serem ouvidas, sem contar aquelas arroladas pelos sete réus, não havendo demora que possa caracterizar o alegado excesso de prazo. Recurso provido para restaurar o decreto de prisão preventiva " (fl. 15).
+Assim, não há como negar a perda superveniente do objeto do presente mandamus.
+Ante o exposto, julgo prejudicado o presente agravo regimental em habeas corpus, com fundamento no art. 34, XI, do RISTJ.
+Publique-se.
+Intimem-se.
