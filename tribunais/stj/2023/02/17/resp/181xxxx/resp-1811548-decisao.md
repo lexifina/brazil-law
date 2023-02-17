@@ -1,0 +1,30 @@
+DECISÃO
+O retrospecto foi suficientemente delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 1431/1432):
+Trata-se de Recurso Especial interposto por RENATO LAURIA JÚNIOR, com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 1ª Região que negou provimento ao recurso defensivo, interposto contra sentença que condenou o recorrente à pena de 03 (três) anos de reclusão, em regime aberto, e ao pagamento de 36 (trinta e seis) dias-multa, por infração ao disposto no artigo 1º, inciso I, da Lei 8.137/90, c/c o art. 71, caput, do Código Penal.
+Daí a interposição de recurso especial, arguindo negativa de vigência aos artigos 59, 60 e 68 do Código Penal, assim como aos artigos 11 e 489, §1º, do Código de Processo Civil, ao argumento de que o acórdão recorrido não estaria devidamente fundamentado, além de que o juízo a quo teria se equivocado ao valorar a culpabilidade do agente, os motivos do delito e suas consequências, além de ter se excedido na fixação dos valores correspondentes às penas substitutivas de natureza pecuniária.
+Apresentadas as contrarrazões pelo recorrido (e-STJ, fls. 1401/1408) e proferido o juízo de admissibilidade (e-STJ, fl. 1415), os autos subiram a esse Colendo Superior Tribunal de Justiça e, digitalizados, vieram com vista ao Ministério Público Federal.
+O  Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 1431/1435).
+É o relatório.
+Decido.
+Preliminarmente, deve-se asseverar que as teses defensivas relativas à alegada negativa de vigência ao disposto nos arts. 3º do Código de Processo Penal; 11 e 489, § 1º, do Código de Processo Civil; e 59 do Código Penal, não comportam conhecimento, uma vez que não foram apreciadas pela Corte a quo, mesmo quando do julgamento dos embargos de declaração opostos na origem, carecendo o recurso especial, no ponto, do imprescindível prequestionamento.
+Incide à espécie, pois, o disposto na Súmula n. 211/STJ, segundo a qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No mais, no que diz respeito à alegada violação ao art. 60 do CP, ao argumento de que os valores fixados são despro porcionais e não condizem com a realidade financeira do recorrente, é preciso destacar que a apuração da situação financeira do réu, a fim de reavaliar os valores definidos a título de multa e prestação pecuniária, ultrapassa os limites de cognição da via eleita pela impreterível necessidade de reavaliação do acervo fático-probatório dos autos, incidindo no caso o óbice contido na Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. PLEITOS DE ABSOLVIÇÃO POR ALEGAÇÃO DE ERRO DE PROIBIÇÃO. AFASTAMENTO DA CAUSA DE AUMENTO PREVISTA NO INCISO I DO § 1º DO ART. 168 DO CÓDIGO PENAL - APROPRIAÇÃO POR DEPOSITÁRIO FIEL -, AO ARGUMENTO DE AUSÊNCIA DE DOLO NA CONDUTA DO AGENTE. REDUÇÃO DA PENA DE MULTA POR ALEGADA DIFICULDADE FINANCEIRA. QUESTÕES CUJA ANÁLISE IMPLICA O REEXAME DO CONTEÚDO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DOSIMETRIA DA PENA. PEDIDO DE AFASTAMENTO DA SÚMULA N. 231/STJ. INOVAÇÃO RECURSAL. INADMISSIBILIDADE.
+1. Para a análise das teses recursais de que o agravante incorreu em erro de proibição ao cometer o crime de apropriação indébita, de afastamento da causa de aumento prevista no inciso I do § 1º do art. 168 do Código Penal por ausência de dolo na conduta do recorrente e de redução da pena de multa por alegada dificuldade financeira, mostra-se, no caso, imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, é defeso, em âmbito de agravo regimental, ampliar a quaestio veiculada nas razões do recurso especial. Na espécie, a questão relativa ao afastamento da Súmula n. 231/STJ não foi suscitada anteriormente.
+3. Agravo regimental parcialmente conhecido e, nessa parte, desprovido.
+(AgRg no AREsp n. 1.012.482/MS, de minha relatoria, Sexta Turma, julgado em 3/10/2017, DJe de 9/10/2017, grifei.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA ORDEM TRIBUTÁRIA. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. VALOR SONEGADO. INCIDÊNCIA DE JUROS E MULTA. POSSIBILIDADE. REDUÇÃO DA PRESTAÇÃO PECUNIÁRIA. NECESSIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O Tribunal a quo fixou o valor da prestação pecuniária com base em elementos do caso concreto, inviabilizando a pretensão de redução, ante a necessidade de reexame do conjunto fático-probatório dos autos, vedada pela Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.002.249/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022, grifei.)
+RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. APROPRIAÇÃO INDÉBITA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. EXCLUSÃO DA CULPABILIDADE POR INEXIGIBILIDADE DE CONDUTA DIVERSA E REAVALIAÇÃO DO VALOR DA PENA PECUNIÁRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N.º 07 DO STJ. PENAS RESTRITIVAS DE DIREITO. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 2º DO CÓDIGO PENAL. NÃO RECONHECIDA. DEMONSTRAÇÃO DO DOLO ESPECÍFICO DE APROPRIAR-SE DOS VALORES NÃO RECOLHIDOS. DESNECESSIDADE. VIOLAÇÃO AO PRINCÍPIO DA INOCÊNCIA. NÃO OCORRÊNCIA.
+ ..
+2. A reavaliação do valor da pena pecuniária implicaria, necessariamente, no reexame do material cognitivo dos autos, a fim de se apurar a situação econômica do Réu, o que é vedado, pelo já citado óbice do verbete sumular n.º 07 do STJ.
+ ..
+8. Recurso especial não conhecido.
+(REsp n. 625.085/PR, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 25/5/2004, DJ de 2/8/2004, p. 559, grifei.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
