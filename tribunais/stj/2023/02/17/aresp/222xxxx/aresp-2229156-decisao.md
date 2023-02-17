@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por JAMES QUINTAO DE OLIVEIRA contra a decisão que inadmitiu recurso especial . O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C RESTITUIÇÃO DE QUANTIA PAGA. DISTRATO. INICIATIVA DO PROMITENTE-COMPRADOR. PRELIMINARES. NULIDADE DA SENTENÇA. AVANÇO AO MÉRITO. DEVOLUÇÃO DA QUANTIA PAGA. CLÁUSULA PENAL. PATRIMÔNIO DE AFETAÇÃO. LEI N. 13.786/18. RETENÇÃO DE 25%. BOA-FÉ OBJETIVA E FUNÇÃO SOCIAL DO CONTRATO. PAGAMENTO APÓS HABITE-SE. VALOR DA CAUSA. PROVEITO ECONÔMICO. CORREÇÃO. ÔNUS DA SUCUMBÊNCIA. SENTENÇA REFORMADA EM PARTE.
+1. Apresenta insuficiente fundamentação a sentença que não enfrenta tese de defesa concernente à retenção de porcentagem da quantia paga por promitente-comprador, conforme a regra disposta na Lei n. 13.786/18, visto se tratar de patrimônio submetido ao regime de afetação. Além disso, também é nula sentença que não aprecia impugnação ao valor dado à causa, conforme previsto nos incisos IV e V do art. 489 do CPC.
+2. A nulidade da sentença é superada para se avançar ao julgamento de mérito, em homenagem ao princípio da economia processual e ao direito das partes obterem a solução integral do mérito em prazo razoável, como previsto no art. 4º do CPC e com suporte nos incisos III e IV do §3º do art. 1.013 do CPC.
+3. Os efeitos do distrato devem respeitar os princípios da boa-fé objetiva e da função social do contrato, que se qualificam como nortes da nova legislação civil, a teor do disposto no art. 413 do Código Civil.
+4. No caso concreto, diante do valor do bem, da importância paga e da quantia representada pela cláusula penal, conclui-se que a previsão de retenção pela vendedora de 50% da quantia paga pelo promitente-comprador constitui cláusula abusiva e deve ser revista, por constituir montante excessivo diante da natureza do negócio, com suporte nos artigos 53 e 51, inc. IV, do Código de Defesa do Consumidor.
+5. Julga-se devida a retenção de 25% (vinte e cinco por cento) dos valores pagos pelo promitente-comprador, observado que os prejuízos advindos do distrato não ultrapassam aqueles presumíveis em situações semelhantes, concernentes a despesas administrativas, e porque o imóvel foi restituído para que pudesse ser renegociado com terceiros.
+6. Reconhece-se como devida a cláusula contratual que previu o prazo de trinta dias para o pagamento da restituição ao comprador, a contar do habite-se, por estar de acordo com expressa previsão legal.
+7. Por força do disposto no art. 292, §3º, do CPC, o valor da causa é corrigido, para corresponder ao proveito econômico perseguido pelo autor, ou seja, ao valor da restituição reconhecida, deduzida a retenção de 25% da quantia paga.
+8. Dada a sucumbência parcial recíproca, não proporcional, as partes são condenadas ao pagamento das despesas processuais e honorários advocatícios de sucumbência, na proporção de 30% (trinta por cento) para o autor e 70% (setenta por cento) para a ré, determinada a readequação das despesas processuais, de acordo com o valor da causa corrigido. Os honorários advocatícios são majorados para 11% (onze por cento) sobre o valor da condenação, com suporte no art. 85, §11, do CPC.
+9. Apelo parcialmente provido" (fls. 266/267, e-STJ).
+No especial, o recorrente aponta violação da Súmula nº 543/STJ, argumentando, em síntese, que "na hipótese de resolução de contrato de promessa de compra e venda de imóvel, sob o rito do CDC, deve-se ocorrer, de imediato, a restituição dos valores pagos pelo comprador" (fls. 305/306, e-STJ).
+Apresentadas contrarrazões às fls. 391/404 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Esta Corte Superior já consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação de súmula de tribunal.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. AÇÃO DE REVISÃO DE MÚTUO HABITACIONAL C/C CONSIGNAÇÃO EM PAGAMENTO. ANÁLISE DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. PROVA PERICIAL INDEFERIDA. LIVRE CONVENCIMENTO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. VIOLAÇÃO DE SÚMULA. INVIABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO PROVIDO. AGRAVO NOS PRÓPRIOS AUTOS DESPROVIDO.
+(..)
+5. O enunciado de súmula não se enquadra no conceito de lei federal, previsto na alínea "a" do permissivo constitucional.
+(..)
+7. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos" (AgInt no AREsp 1.737.302/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2020, DJe 14/12/2020).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. ALEGADA VIOLAÇÃO A SÚMULA. ENUNCIADO N. 518 DA SÚMULA DESTA CORTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FIXAÇÃO DE MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. PLEITO DE MAJORAÇÃO DOS HONORÁRIOS RECURSAIS (ART. 85, § 11, DO CPC/2015). POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado de súmula não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+(..)
+10. Agravo interno desprovido" (AgInt nos EDcl no REsp 1.800.101/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe 30/11/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Reconhecida a sucumbência recíproca, os honorários advocatícios foram fixados em desfavor do recorrente em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da recorrida, observada a proporção estabelecida na origem e assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
