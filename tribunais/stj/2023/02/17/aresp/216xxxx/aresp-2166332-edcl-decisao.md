@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SÉRGIO RIBEIRO CAVALCANTE à decisão de fl. 5611, que chamou o feito à ordem e tornou sem efeito da decisão anterior de fls. 4364/4365.
+Em suas razões, sustenta a parte embargante que:
+SÉRGIO RIBEIRO CAVALCANTE - ADVOGADO - OABSP 89166 - EM DEFESA DE SEUS DIREITOS E PRERROGATIVAS PROFISSIONAIS - OAB - nos autos supra referenciados - argui questões de ordem pública insuscetíveis de trânsito em julgado decorrente de artifício ilegal - sessão virtual - cambulhada - (DOC 01; DOC. 02; DOC. 03; DOC. 04); entrementes, combatido, adequada e tempestivamente impugnado; com base na CF/88: art. 1º; III; art. 5º, II; XXXV; art. 37; art. 93, IX; X; art. 96, I, "a"; inter alia; com efeito, ipso facto opõe EMBARGOS DE DECLARAÇÃO - FITO PREMONITÓRIO - PREQUESTINATÓRIO - com base na CF/88: art. 5º, XXXV; art. 133 advocacia - EC n. 45/2004 - repercussão geral - que atinge em cheio direito e prerrogativas profissionais de ( ou-) 1.200.000 - hum milhão de duzentos mil - inscritos na OAB;
+inchoatus - Lei, 8.906/94 - EC n. 125/2022 - relevância das questões de direito federal infraconstitucional; fundamento na Lei, 13.105/2015, art. 1º; art. 926; art. 1.022; RISTJ, art. 263; a saber:
+In casu - de indagar-se:
+- como suprir omissão de ponto ou questão sobre a qual devia pronunciar-se o Órgão Julgador de ofício ou a requerimento - Superveniência da EC n 62/09 - na prestação de serviço profissional
+- como - na atual conjuntura - conciliar precatórios - com a decência e o princípio geral de Direito que proíbe o enriquecimento ilícito dos beneficiários - Superveniência da EC n 62/09 - em detrimento da advocacia - a partir das instâncias ordinárias -
+- como conciliar - na atual conjuntura - o precatório - com a economia processual e o cânone de hermenêutica, onde se recomenda que nenhuma interpretação da lei pode levar ao absurdo e à impossibilidade de seu cumprimento
+- como conciliar - atualmente - o precatório - com os Princípios Gerais de Direito Honeste vivere, alterun bedere, suum cuigue tribuere
+- como interpretar a CF/88: art. 100; parágrafo 1º - à luz do art. 133 advocacia - e a regra que manda evitar o absurdo
+Ex positis - conjuro-vos perante a Constituição da Republica Federativa do Brasil/1988, art. 5º, XXXV (..) Lei, n. 13.105/2015, art. 926 - os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente (..): a prover EMBARGOS DE DECLARAÇÃO com efeitos infringentes - prequestinatório - premonitório - RESPONSABILIZAÇÃO INSTITUCIONAL E PESSOAL POR DANOS - ERRO JUDICIÁRIO GROSSEIRO - INESCUSÁVEL - INDEVIDA TRANSFERÊNCIA DE RESPONSABILIDADE LEGISLATIVA AO RECORRENTE/ADVOGADO - INCLUSIVE REPARAÇÃO PECUNIÁRIA - POR CRIMINALIZAR O EXERCÍCIO REGULAR DA ADVOCACIA EM DETRIMENTO DE PELO MENOS 1.200.000 - HUM MILHÃO E DUZENTOS MIL - INSCRITOS NA OAB - malgrado; (fls. 5615/5616).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A parte embargante não discutiu os vícios previstos no art. 619 do CPP. Após alegar omissões de forma genérica e invocar artigos da Constituição Federal bem como de leis infraconstitucionais, limitou-se a repetir alguns argumentos apresentados no agravo em recurso especial e no apelo nobre, sem estabelecer conexão entre os fundamentos da decisão que chamou o feito à ordem e tornou sem efeito a decisão anterior e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+Ademais, observe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, não há que se cogitar da ocorrência de omissão nesse sentido, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
