@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SAMPAIO DISTRIBUIDORA DE AÇO S.A., contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO. INGRESSO E MANUTENÇÃO NO PROGRAMA ESPECIAL DE REGULARIZAÇÃO TRIBUTÁRIA (PERT). DESISTÊNCIA DE IMPUGNAÇÃO ADMINISTRATIVA. EXIGÊNCIA LEGAL. LEI Nº 13.496/17.
+1. Hipótese em que a exclusão dos débitos do programa de parcelamento decorre do não atendimento de exigência legal atinente à desistência de impugnação administrativa tendo por objeto os valores devidos.
+2. Uma vez que o ato impugnado encontra amparo nas determinações legais pertinentes, inexiste direito líquido e certo a ser tutelado por meio da ação de mandado de segurança" (fl. 236e).
+O acórdão em questão NÃO foi objeto de Embargos de Declaração.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 489, II, e § 1º e 1.022, II e parágrafo único, II, do CPC, sustentando que "o acórdão restou omisso a respeito do enfrentamento dos princípios da boa-fé, razoabilidade e proporcionalidade, os quais foram reforçados também quando dos embargos de declaração" (fl. 258e); que restaram violados os princípios da boa-fé, razoabilidade e proporcionalidade.
+Por fim, requer "seja o presente recurso recebido e provido, sendo totalmente reformado o r. acórdão proferido pelo Tribunal a quo, primeiramente, para acolher a alegação de afronta ao artigo 1.022, II, c/c 489, § 1º, do CPC/2015, a fim de anular o acórdão proferido e determinar o retorno dos autos à origem para que o Tribunal de origem supra as omissões apontadas. Refutada a preliminar, que no mérito seja provido este recurso especial face a negativa de vigência aos princípios e dispositivos invocados, reformando-se o acórdão recorrido, em observância ao entendimento manifestado pelo STJ sob o rito dos recursos repetitivos (Tema nº 401 -Resp. nº 1.143.216/RS)" (fl. 265e).
+Contrarrazões a fls. 277/278e.
+Inadmitido o Recurso Especial (fls. 281/284e), foi interposto o presente Agravo (fls. 295/307e).
+A irresignação não merece prosperar.
+Com efeito, quanto a suposta violação ao art. 1.022 do CPC, deve-se ressaltar que não foram opostos Embargos de Declaração em face de acórdão proferido no julgamento da apelação, na origem. Portanto, não há que se falar em violação ao referido dispositivo legal.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, no que tange aos princípios da boa-fé, razoabilidade e proporcionalidade, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
