@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOÃO SCHIMANSKI contra decisão em que não conheci do recurso especial, por ausência de similitude fática entre os casos em confronto.
+O embargante alega, sob argumento de erro material e/ou contradição, que se "extrai nitidamente que a ação em pauta também versa sobre verbas pagas em contexto de rescisão de contrato de trabalho, tanto que restou ressalvada a isenção de verbas decorrentes desse evento" (e-STJ fls. 315/316). Argumenta que se encontra "presente a similitude fática entre o acórdão recorrido e o paradigma, colhido do REsp 1.089.720/RS, eis que ambos decidiram, embora de forma divergente, sobre impostos de renda no contexto de rescisão de contrato de trabalho" (e-STJ fl. 316).
+Sem impugnação (e-STJ fl. 323).
+Passo a decidir.
+No caso, não se verificam os vícios processuais apontados, pois a decisão embargada está clara no sentido de inexistir similitude fática entre o julgados em confronto, porquanto o acórdão recorrido decidiu a respeito da incidência do imposto de renda sobre determinadas verbas, pagas fora do contexto de rescisão de relação trabalhista, enquanto a tese ventilada nas razões recursais se refere ao pagamento do tributo no contexto de rescisão de contrato de trabalho.
+A parte embargante insiste, todavia, na alegação de que "a ação em pauta também versa sobre verbas pagas em contexto de rescisão de contrato de trabalho" (e-STJ fls. 315/316). Todavia, esse afirmação não encontra ressonância no acórdão proferido pelo Tribunal de origem, impondo-se ressaltar ser incabível o reexame de provas em recurso especial, nos termos da Súmula 7 do STJ.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
