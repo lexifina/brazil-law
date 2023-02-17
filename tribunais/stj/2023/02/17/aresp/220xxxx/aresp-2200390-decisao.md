@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por RADIO GAETA LTDA contra decisão que negou seguimento a recurso especial, interposto em face de acórdão assim ementado (e-STJ, fl. 1047):
+APELAÇÃO CÍVEL  AÇÃO ORDINÁRIA  PROVAS EMPRESTADAS DA JUSTIÇA DO TRABALHO  ACERVO PROBATÓRIO NÃO AMPARA A PRETENSÃO INDENIZATÓRIA: I RECURSO DESPROVIDO.
+1- Caso concreto em que a oitiva de testemunhas pleiteada pela Apelante se mostra desnecessária ante o vasto acervo probatório emprestado da Justiça do Trabalho, o qual inclui depoimento testemunhal e que vai de encontro à pretensão autoral.
+2- Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 1066-1072).
+Nas razões do especial, aponta a recorrente violação dos artigos 186, 187, 421 e 422 do Código Civil, bem como dos artigos 369, 385, 429 e 442 do Código de Processo Civil.
+Argumenta, em síntese, que o indeferimento de prova testemunhal implica violação ao princípio do contraditório e ampla defesa. Acentua que o depoimento requerido comprovaria que o recorrido teria contratado prestação de serviço de anúncio na emissora, de modo oneroso, e não teria realizado o pagamento.
+O recurso especial não foi conhecido, em razão das Súmulas 7 e 83/STJ, contra o que se manifesta o agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, observo que o agravante não infirmou especificamente o óbice da Súmula 83/STJ, constante na decisão agravada, inviabilizando o conhecimento do presente recurso.
+Com efeito, o precedente mencionado na decisão agravada, para justificar a aplicação da Súmula 83/STJ, contempla a tese segundo a qual: "Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova.  .. " (AgInt no AREsp n. 1.896.553/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021.) (e-STJ, fl. 1094).
+Confira-se, a propósito, a ementa do precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ART. 344 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INDEFERIMENTO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação das Súmulas 282 e 356 do STF.
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.896.553/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021.) (grifo acrescido)
+O agravante, por sua vez, nas razões do presente agravo, argumenta que o precedente aludido não seria aplicável nos casos em que o juízo indefere o pedido de produção de prova, mas julga improcedente o pedido com base em falta de prova.
+Nesse caso, não seria aplicável o óbice da Súmula 7/STJ, conforme precedente desta relatoria (EDcl no AgInt no AREsp n. 1.434.928/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021.), mencionado pelo agravante em suas razões recursais (e-STJ, fl. 1102).
+A despeito disso, extraio da sentença e acórdão confirmatório que a pretensão foi julgada improcedente com base na suficiência da prova apresentada, e não com base no ônus da prova, quando se veda indeferir o pedido de abertura de dilação probatória, sob pena de cerceamento de defesa, conforme decidido no precedente que instrui o presente agravo.
+Confira-se, a propósito, a ementa do precedente mencionado pelo agravante, de minha relatoria:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZATÓRIA. NEGATIVA DE PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA POR FALTA DE PROVAS. CERCEAMENTO DE DEFESA. PRECEDENTES. OMISSÃO. ACOLHIMENTO. EFEITOS INFRINGENTES.
+1. Devem ser acolhidos os embargos de declaração pela existência de omissão no julgamento do recurso anterior, imprimindo-se excepcionais efeitos infringentes.
+2. Esta Corte já firmou posicionamento no sentido de que configura cerceamento de defesa a decisão que conclui pela improcedência do pedido por falta de prova e julga antecipadamente a lide, quando previamente negado o pedido de abertura da dilação probatória.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular os acórdãos precedentes, com remessa dos autos à instância originária, para instrução e posterior rejulgamento da lide, como entender de direito.
+(EDcl no AgInt no AREsp n. 1.434.928/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021.) (grifo acrescido)
+No caso, conforme aludido, a pretensão de condenar o recorrido ao pagamento do anúncio foi julgada improcedente com base na suficiência da prova apresentada, considedada a invalidade do negócio jurídico celebrado entre as partes.
+A propósito, extraio da sentença (e-STJ, fls. 982-983):
+As razões e motivos que formataram a, decisão i transitada em julgado me convencem" sobre a invalidade dos contratos trazidos pela demandante. Isso porque, a aparente contratação como prestador de serviços de forma independente restou patenteada como uma forma de dissimular o verdadeiro vínculo empregatício reconhecido pela justiça especial. Tal situação, a meu sentir, amolda-se ao disposto no artigo 166, inciso VI do Código Civil Brasileiro, que trata sobre a nulidade do negócio jurídico quando tiver por motivo determinante fraudar lei imperativa. Na situação dos autos, a relação contratual foi aperfeiçoada ao arrepio de lei trabalhista imperativa, garantidora de direitos e verbas próprias do vinculo empregaticio devidamente normatizado.
+ ..
+Tecidas tais considerações, com alicerce no artigo 166 da Lei 10.406/2002 (CCB), no artigo 467, inciso I, do CPC e na fundamentação anteriormente alinhavada, JULGO IMPROCEDENTE o pedido autoral. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o pedido foi julgado improcedente com base na análise exaustiva das provas, e não com base em regra de ônus probatório, como suposto no precedente mencionado pelo agravante.
+Ressalte-se que a jurisprudência do STJ pacificou orientação no sentido de que a insurgência específica à aplicação do Enunciado 83/STJ demanda que o agravante traga precedente atuais e em sentido contrário aos mencionados na decisão recorrida.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+1.1. Com relação ao óbice da Súmula 83/STJ, o entendimento desta Corte é no sentido de que a impugnação específica ao aludido enunciado consiste em apontar, nas razões do agravo, precedentes contemporâneos ou supervenientes aos indicados na decisão agravada, procedendo o cotejo analítico entre eles, sendo insuficiente a argumentação genérica de descabimento do óbice.
+1.2. Ainda, no que se refere ao óbice da Súmula 7 desta Corte Superior, que são insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022.)" (grifo acrescido)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULAS 5, 7 E 83 DO STJ.
+PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015.
+IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade dos óbices invocados.
+3. Nas razões do agravo em recurso especial, a parte agravante deixou de impugnar de maneira efetiva, individualizada, específica e fundamentada a incidência das Súmulas 5, 7 e 83/STJ.
+4. Para afastar a incidência do óbice da Súmulas 5 e 7 do STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade dos referidos óbices ou, ainda, que a tese defensiva não demanda reexame de provas ou cláusula de contrato. Para tanto, a parte deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro quais fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou na hipótese dos autos.
+5. O afastamento da Súmula 83/STJ não ocorre com a alegação genérica de presença dos requisitos de admissibilidade do apelo nobre ou de inaplicabilidade do referido óbice, devendo a parte recorrente demonstrar que o entendimento adotado pelo Tribunal a quo diverge da atual jurisprudência desta Corte Superior sobre o tema, com a indicação de precedentes apenas do STJ contemporâneos ou supervenientes ao acórdão recorrido, em favor da tese defendida em seu recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.094.347/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+(grifo acrescido)
+Diante desse quadro, evidenciada a dissintonia entre o pressuposto de fato do precedente apresentado pelo agravante, para infirmar a Súmula 83/STJ, e o caso em julgamento, não há como superar a aplicação do referido óbice sumular.
+Aplica-se, no caso, por analogia, o entendimento consolidado no enunciado da Súmula 182 do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
