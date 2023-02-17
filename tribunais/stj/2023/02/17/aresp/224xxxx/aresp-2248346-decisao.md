@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência Súmula 7/STJ e deficiência na demonstração da divergência.
+Defende o Estado do Maranhão que os exequentes somente apresentaram o pedido de Cumprimento de Sentença após o término do prazo prescricional. Complementa (grifei):
+ ..  Dessa forma, é o caso de conhecimento do recurso especial pela alínea "a", visto que não incide no óbice da Súmula 7.
+ ..  E no presente caso , conforme exposto acima, o precedente da Corte Especial e demais temas repetitivos suscitados são capazes de infirmar em tese a conclusão adotada , visto que alteram o termo inicial adotado pelo acórdão recorrido para o cômputo da prescrição, alteração esta que implica na consumação da mesma para o caso dos autos, inclusive como bem reconheceu o próprio STJ no supracitado AREsp 1.976.928/MA , de modo que o seu não enfrentamento pelo acórdão recorrido implica sim, em violação ao dispositivo processual referido.  ..
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de fevereiro de 2023.
+O Tribunal a quo consignou que a Ação executiva foi intentada dentro do prazo prescricional e que a referida modulação temporal dos efeitos da decisão paradigma, não atinge o julgado (fls. 178-213, e-STJ):
+O caso dos autos versa acerca da fixação do termo inicial do prazo prescricional para a execução do crédito decorrente da sentença proferida na ação coletiva nº 14.440/2000, ajuizada pelo SINPROESEMMA, confirmada por Acórdão do Tribunal de Justiça do Estado do Maranhão, que teria transitado em julgado em 18/07/2011, necessitando, contudo, de liquidação da obrigação.
+ ..
+Vale dizer, o termo para o início do prazo prescricional - dies a quo - referente à pretensão executiva deve ser aquele em que o título restou devidamente liquidado, qual seja, 09/12/2013, nos termos do entendimento do STJ.
+ ..
+Ressalvo, data venia, que o dia de homologação dos cálculos (16/12/2013) não constitui novo marco inicial da prescrição, mas, em verdade, o seu primeiro marco.
+As questões a respeito da necessidade de cálculos mais apurados para a liquidação de sentença, envolve matéria fática como bem ressaltado pelo Colegiado estadual. Veja-se:
+"Na hipótese, o Tribunal de origem assentou, à luz da prova dos autos, que se fez necessária efetiva fase de liquidação da sentença coletiva em execução, não sendo a hipótese de confecção de meros cálculos para a obtenção do valor exequendo. Assim, para rever a conclusão da Corte e apreciar as alegações do apelo nobre, seria necessário incursionar no acervo probatório da causa, o que é vedado na via especial, em virtude do óbice da Súmula 7/STJ" (AgInt no AREsp n. 1.983.153/MA, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, julgado em 2/5/2022, DJe de 4/5/2022).
+Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para verificar o conteúdo de termo de acordo celebrado pelo Estado, bem como para avaliar se é necessária prévia fase de liquidação da sentença coletiva ou se é possível apurar os valores devidos por simples cálculos aritméticos, o que não se admite ante o óbice da Súmula 7/STJ.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, "a liquidação integra a fase de cognição do processo, motivo pelo qual a execução tem início quando o título se apresenta também líquido, iniciando-se aí o prazo prescricional da Ação de Execução" (STJ, REsp 1.724.819/ES, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/5/2018).
+O Recurso Especial Representativo de Controvérsia 1.336.026/PE (Tema 880/STJ), que modulou os efeitos decorrentes das mudanças jurisprudenciais, afirmou que "as situações distintas são aquelas em que o trânsito em julgado ocorreu após a vigência do CPC/2015, a partir de 18/3/2016, as quais, por força de lei, devem receber tratamento diferenciado".
+O STJ entende que a "simples transcrição de ementas ou de excertos dos julgados tidos por dissidentes, sem evidenciar a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial" (AgInt no AgInt no AREsp 1.900.849/SP, Rel. Ministro Gurgel de faria, primeira turma, julgado em 25/4/2022, DJe 27/4/2022).
+Assim, não há motivos para a modificação do juízo prelibador.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial. Condeno a parte recorrente ao pagamento de honorários recursais correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se. Intimem-se.
