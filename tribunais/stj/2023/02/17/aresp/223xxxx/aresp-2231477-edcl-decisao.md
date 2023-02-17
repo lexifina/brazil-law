@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TIAGO PALHARES DE ANDRADE contra a decisão de fls. 839-841 (e-STJ), que negou provimento ao recurso especial.
+O embargante alega omissão na decisão embargada. Para tanto, aduz que "verifica-se a configuração do "bis in idem", pois os maus antecedentes foram utilizados para indeferir a fixação do regime aberto para o início do cumprimento da pena e também utilizados para indeferir o benefício da substituição da PPL em PRD".
+Sustenta, ainda, que "com relação ao requisito de que a medida tenha que ser considerada socialmente recomendável, Vossa Excelência não discorreu sobre quais seriam os motivos que, no Vosso entendimento, apontavam que a medida não fosse socialmente recomendável".
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Colhe-se da decisão embargada:
+"No que se refere ao pedido de Tiago, o Tribunal de origem asseverou:
+"Considerando o quantum da reprimenda aplicada, bem como - os maus antecedentes do réu - correta a fixação do regime semiaberto para cumprimento da pena privativa de liberdade, nos termos do que dispõe o art. 33, § 2º , "b", c/c § 3º , do Código Penal.
+Inviável a substituição da pena privativa de liberdade por outras restritivas de direitos (art. 44 do Código Penal), assim como suspensão condicional da execução da pena (art. 77 do Código Penal), tendo em vista a ausência dos requisitos subjetivos necessários para a concessão de tais benefícios, mormente considerando os maus antecedentes do réu" (e-STJ, fls. 592-593).
+Da leitura do trecho transcrito, verifica-se que estabelecida a pena-base acima do mínimo legal ante o reconhecimento dos maus antecedentes, não se vislumbra desproporcionalidade na imposição do regime prisional semiaberto para o desconto da reprimenda, malgrado a sanção corporal seja inferior a 4 (quatro) anos de reclusão.
+ ..
+Outrossim, nos termos do art. 44 do Código Penal, a substituição da pena privativa de liberdade por restritiva de direitos, no caso de crime doloso, exige que a pena aplicada não seja superior a 4 anos e que o delito não tenha sido cometido mediante violência ou grave ameaça à pessoa. Ademais, o agente deve possuir circunstâncias judiciais favoráveis e não pode ser reincidente em crime doloso, podendo este último requisito ser relevado se a reincidência não for específica e a medida seja socialmente recomendável.
+No caso, ante a constatação dos maus antecedentes e do entendimento de que a medida não é recomendável, inviável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do artigo 44, incisos II e III, do Código Penal".
+Verifica-se, segundo a jurisprudência pacífica desta Corte Superior, que não há que se falar em bis in idem "quando a reincidência é empregada como fundamento para a dosimetria da pena, a fixação do regime prisional e a análise da substituição da pena restritiva de liberdade por restritiva de direitos, porquanto tais institutos são regidos por regramentos distintos" (AgRg no AREsp n. 1.358.292/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 3/12/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESACATO. MULTIRREINCIDÊNCIA QUE JUSTIFICA O RECRUDESCIMENTO DO REGIME E IMPEDE A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. BIS IS IDEM. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo o enunciado n. 440 da Súmula desta Corte, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, as Súmulas n. 718 e 719 do Supremo Tribunal Federal.
+2. No caso dos autos, não obstante a pena-base tenha sido fixada no mínimo legal e esteja abaixo do patamar de 4 anos de reclusão, a multirreincidência do recorrente é elemento apto a justificar a fixação de regime mais gravoso, no caso o semiaberto, do mesmo modo que também pode operar como óbice à substituição da pena restritiva de liberdade por restritiva de direitos.
+3. A fixação do regime prisional segue as regras do artigo 33 do Código Penal. A dosimetria da pena, por sua vez, respeita os critérios definidos pelos arts. 59 e 68 do Código Penal. Assim, inexiste bis in idem quando a reincidência é utilizada para agravar a pena, na segunda fase da dosimetria da pena, e, novamente, para fundamentar o regime mais gravoso.
+4. Agravo regimental não provido. (AgRg no HC n. 615.513/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2020, DJe de 15/10/2020.)
+Em relação à conversão da pena corporal por restritiva de direitos, o art. 44, III, do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente".
+No caso em análise, apesar de o art. 44, § 3º, do CP não impedir a substituição da pena aos reincidentes não específicos, desde que a medida seja socialmente recomendável, o fato de as instâncias ordinárias terem reconhecido como desfavoráveis os antecedentes do réu torna inadmissível a concessão do benefício.
+Outrossim, observa-se que "nos moldes do entendimento deste Sodalício, o magistrado, ao apreciar a contenda, deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso, porém não é obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir" (HC 370.708/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/10/2016, DJe 21/10/2016).
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS.
+1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.
+ ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+Dessarte, a matéria foi suficientemente analisada, não havendo se falar em quaisquer omissões a serem sanadas.
+A toda evidência, portanto, não há o que ser reparado no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
