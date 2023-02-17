@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE ANULAÇÃO DE ATO JURÍDICO. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE AUTORA. HONORÁRIOS ADVOCATÍCIOS. ALEGAÇÃO DE IMPOSSIBILIDADE DE APLICAÇÃO DO CRITÉRIO DE APRECIAÇÃO EQUITATIVA. NÃO ACOLHIMENTO. AUSÊNCIA DE PROVEITO ECONÔMICO. ANULAÇÃO DO LEILÃO QUE NÃO TEM O CONDÃO DE ALTERAR O VALOR DA DÍVIDA. PRECEDENTE DO STJ. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. RECURSO DESPROVIDO.
+Argumenta a parte recorrente, em síntese, que os honorários devem ser arbitrados entre 10% e 20% sobre o valor do imóvel cujo leilão se evitou, com o ajuizamento da presente ação (R$ 700.000,00 - setecentos mil reais), pois certamente seria alienado por valor ínfimo, tendo em vista o valor da dívida executada (R$ 165.000,00 - cento e sessenta e cinco mil reais).
+O recurso, todavia, não tem como ser conhecido, pois não foi impugnado o fundamento do julgado estadual, que se amparou no entendimento exarado no REsp 1875161/RS para a solução deste tema em particular - vale dizer: o valor dos honorários devidos em decorrência da anulação de atos constritivos deve corresponder ao impacto sobre a dívida exequenda. Tal fundamento, suficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
