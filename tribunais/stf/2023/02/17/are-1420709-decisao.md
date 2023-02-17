@@ -1,0 +1,57 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO. JUROS SOBRE O CAPITAL PRÓPRIO. LEIS 10.637/02 e 10.833/03. INCIDÊNCIA. COFINS. INSTITUIÇÕES FINANCEIRAS E EQUIPARADAS. LEI 9.718/98. CONCEITO DE "RENDA BRUTA OPERACIONAL". INSUFICIÊNCIA DA LEGISLAÇÃO ORDINÁRIA. MISSÃO INTEGRATIVA DO PODER JUDICIÁRIO. INOVAÇÕES DO MERCADO FINANCEIRO MUNDIAL. NOVAS PERSPECTIVAS DE NEGÓCIOS. APLICAÇÕES FINANCEIRAS QUE SE AFIGURAM NOVAS OPÇÕES COMERCIAIS DOS BANCOS E SIMILARES. INSERÇÃO EM SUA ATIVIDADE-FIM. RECEITAS FINANCEIRAS. INCLUSÃO NA RENDA BRUTA OPERACIONAL.
+
+    1. A Jurisprudência das duas Turmas do E. Superior Tribunal de Justiça já há muito pacificou-se no de sentido de que sob "a égide das Leis n°s 10.637/02 e 10.833/03, os juros sobre capital próprio integram a base de cálculo da COFINS e do PIS, não se equiparando aos dividendos por possuírem naturezas jurídicas diversas" (AgRg no REsp 964.411/SC, 2ª T., Min. Castro Meira, DJe de 05.10.2009).
+
+    2. Controvérsia sobre o conceito de faturamento para o recolhimento da COFINS pelas instituições financeiras e entidades equiparadas.
+
+    3. A legislação pátria não contribui satisfatoriamente para esclarecer se as receitas financeiras integram ou não a receita bruta operacional das instituições financeiras e entidades equiparadas.
+
+    4. O que se percebe é que nenhum diploma legal esclarece perfeitamente o alcance da receita bruta operacional das instituições financeiras, - pois servem quase exclusivamente à definição de faturamento das empresas que têm como objeto social o oferecimento de bens ou serviços convencionais, como se depreende do art. 44 da Lei 4.506/64, do art. 12 do Decreto-lei 1.598/77 e do art. 44 do Decreto 1.041/94 (RIR).
+
+    5. O mesmo ocorre com as Leis 9.701/98 e 9.718/98, as quais, em momento algum, excluem as receitas financeiras do faturamento ou receita operacional dos bancos e similares.
+
+    6. Para as instituições financeiras, aplicar seus recursos em títulos públicos, no mercado de derivativos e em outras formas de investimento passou a ser parte de uma estratégia comercial, como forma de adaptação ao mercado financeiro mundial.
+
+    7. Enquanto para as empresas comuns as aplicações financeiras são uma garantia contra a desvalorização da moeda ou forma de angariar recursos adicionais, para as instituições financeiras elas consistem numa opção mercadológica de obter maiores lucros com os recursos disponíveis.
+
+    8. Estando inseridas na atividade-fim dos bancos, não há como ignorar que as receitas financeiras também integram o seu faturamento e, nesta condição, devem ser incluídas na base de cálculo da COFINS.
+
+    9. Não se vislumbra inconstitucionalidade da Lei 9.718/98 na parte em que cuida da matéria referente ao faturamento ou receita bruta das instituições financeiras e entidades equiparadas.
+
+    10. Ordem denegada. Sentença reformada.
+
+    11. Apelação da impetrante que se nega provimento. Apelação da União e remessa oficial providas.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º; 5º, caput; 84, inciso IV; 150, incisos I e II; 195, inciso I; e 239 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 17 de fevereiro de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
