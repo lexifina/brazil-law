@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE ALMIR ALVES DA SILVA contra decisão indeferitória de provimento urgente proferida pelo Desembargador Relator do HC n. 2017832-12.2023.8.26.0000, em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Paciente e outra pessoa, em decisão proferida no dia 17/11/2022, foram pronunciados como incursos nos arts. 121, § 2.º, incisos II, III e IV; e 121, § 2.º, incisos II, III e IV, c.c. o art. 14, inciso II, do Código Penal.
+A Defesa do ora Paciente formulou pedido de desmembramento do processo, o qual foi negado pelo Magistrado de primeiro grau em 26/01/2023 (fls. 727-728).
+Impetrado prévio writ perante o Tribunal de origem, o Desembargador Relator indeferiu o pedido liminar (fls. 729-730) e determinou a requisição de informações.
+Neste habeas corpus, a Defesa alega que o Paciente pretende o desmembramento do processo para que seja julgado o mais rápido possível pelo Tribunal do Júri, "pois além de apregoar sua inocência, deseja ver sua via livre do infortúnio que se transformou o referido processo criminal" (fl. 5). Sustenta que é o caso de aplicação do disposto no art. 80 do Código de Processo Penal, que autoriza ao magistrado a promover separação do processo quando, por motivo relevante, concluir ser conveniente o desmembramento.
+Requer, liminarmente e no mérito, seja determinado o desentranhamento do processo em relação ao Paciente, "devendo o Juízo a quo designar, com urgência, o julgamento a ser realizado perante o Tribunal do Júri" (fl. 8).
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado n a Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar").
+No caso, o Juízo de primeiro grau deixou assente que "a infração penal teria sido cometida em concurso de agentes, a marcha processual tem se mostrado célere, considerando as particularidades do autos, não havendo qualquer sinal indicativo de que o manejo de recurso por um dos corréus implicará em ofensa ao princípio da duração razoável do processo" (fl. 727).
+Diante daquela fundamentação, não se evidencia a existência de situação absolutamente teratológica que autorize a mitigação do mencionado óbice processual, por constituir o desmembramento faculdade processual. Sobre o tema, menciono o seguinte julgamento:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS E LAVAGEM DE CAPITAIS. OPERAÇÃO CARDUME. PRISÃO PREVENTIVA. NEGATIVA DE RECURSO EM LIBERDADE. DEMORA NO JULGAMENTO DA APELAÇÃO: AUSÊNCIA DE DESÍDIA JUDICIAL. RÉU FORAGIDO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO DE DESMEMBRAMENTO DO PROCESSO. FACULDADE CONFERIDA AO JUÍZO PROCESSANTE. ART. 80 DO CPP. AGRAVO REGIMENTAL DESPROVIDO.
+1. O excesso de prazo em caso de demora no julgamento de apelação não se afere com base na soma aritmética dos prazos processuais, devendo ser examinadas as peculiaridades da causa, em especial o quantum da pena aplicada na sentença e a complexidade do feito.
+2. A circunstância de o réu estar foragido afasta a alegação de constrangimento ilegal por excesso de prazo.
+3. Nos termos do art. 80 do CPP, a determinação de desmembramento do feito é facultativa, sendo incabível o STJ substituir o juízo de conveniência a ser realizado na origem para determinação de tal providência.
+4. Agravo regimental desprovido." (STJ, AgRg no HC 626.528/CE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/04/2021, DJe 29/04/2021; sem grifos no original.)
+Nessa conjuntura, não havendo notícia de que o Tribunal de Justiça do Estado de São Paulo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULG ADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPRE MA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
