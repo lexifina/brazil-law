@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. SEGUROS. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURIDICA. ILEGITIMIDADE PASSIVA DO GBOEX PARA FIGURAR NO POLO PASSIVO DA PRESENTE DEMANDA.
+1) Trata-se de ação de cobrança em decorrência do inadimplemento da CONFIANÇACOMPANHIA DE SEGUROS S. A.
+2) A demandada GBOEX é parte ilegítima para figurar no polo passivo do presente feito, tendo em vista que é uma entidade aberta de previdência privada e não seguradora, não podendo ser responsabilizada pelo cumprimento de obrigações assumidas pela seguradora CONFIANÇA COMPANHIA DE SEGUROS S. A.
+3) AGBOEX, apesar de fazer parte do mesmo grupo econômico, não é sociedade seguradora e sequer fez parte de qualquer relação jurídica havida entre o autor e a liquidanda, não sendo responsável pelo pagamento da liquidação extrajudicial da CONFIANÇA COMPANHIA DE SEGUROS S. A. NEGARAM PROVIMENTO AO AGRAVO. UNANIME.
+Argumenta a parte recorrente, em síntese, ofensa aos arts. 28, § 2º, § 5º do Código de Defesa do Consumidor e 489, § 1º, VI, do Código de Processo Civil, além de dissídio jurisprudencial.
+Incide, todavia, o enunciado 211 da Súmula do STJ quanto às normas indicadas pela parte recorrente, por ausência de prequestionamento, nada obstante a oposição dos embargos de declaração, não encontrando, assim, condições de análise na instância especial, mormente porque não levantada a negativa de vigência do art. 1.022 do CPC.
+Inviável a alegação de violação do art. 489, § 1º, VI, do Código de Processo Civil, indicada em face da suposta ausência de impugnação do argumento relativo à existência de jurisprudência do STJ acerca do tema da possibilidade de desconsideração da personalidade jurídica, pois o acórdão estadual indicou, expressamente, a existência de outros julgados desta Corte, em sentido contrário ao apontado pela parte - fundamento que, ao rebater expressamente as alegações do recorrente, satisfaz a exigência de fundamentação idônea.
+O dissídio jurisprudencial, por sua vez, não se revela configurado, pois o acórdão indicado como paradigma corroborou a aplicação da teoria da aparência, fundamento sequer cogitado pelo julgado recorrido - que se restringiu à verificação dos requisitos do art. 40, § 4º, do Código Civil, circunstância que afasta a identidade fática entre as teses confrontadas.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
