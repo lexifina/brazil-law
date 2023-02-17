@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo interposto por CARLOS PAIVA GOLGO e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de CARLOS PAIVA GOLGO e OUTRO , o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício (fl. 354), não regularizou. Informou que possui gratuidade de justiça, mas, não ficou comprovada, uma vez que a documentação anexada foi insuficiente para comprovação (fls. 358/385).
+Registre-se que o art. 99, § 5º, preceitua que o advogado que discute só honorários, no recurso, precisa recolher as custas, a não ser que ele mesmo seja beneficiário da gratuidade. A jurisprudência é nesse sentido: AgInt nos EDcl no REsp n. 1.931.135/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 5/5/2022; AgInt no REsp n. 1.959.529/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/11/2021.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
