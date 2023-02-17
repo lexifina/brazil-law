@@ -1,0 +1,1 @@
+Art. 8º-A Fica o órgão central do sistema estadual de habitação autorizado a instituir programa para a renegociação de dívidas, de acordo com as regras, obrigações e percentuais de descontos aprovadas pelo Conselho Estadual de Habitação. (Incluído pela Lei nº 4.363, de 10/06/2024)
