@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Pier Mauá S.A. contra decisão que conheceu de agravo para conhecer parcialmente de seu recurso especial e, nessa parte, negar-lhe provimento, implicando, ainda, majoração da verba honorária em 1%.
+A recorrente aponta vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição (fls. 962-964):
+Contudo, a agravante havia peticionado anteriormente, comunicando a vinda de decisão favorável da Diretoria Colegiada da agravada, em sede de decisão administrativa, juntando documentos, contendo o resultado da deliberação. A petição foi protocolada e juntada aos autos no dia 26 de agosto de 2022, sob o nº 730021/2022, e-STJ Fl.945-946.
+Esse protocolo ocorreu quando os autos se encontravam sob a jurisdição da Ministra Presidente do Superior Tribunal de Justiça. O que resultou, no mês seguinte, no despacho de deslocamento dos autos, sem apreciação da petição da agravante, para distribuição do processo à 2ª Turma, sob a Relatoria de Vossa Excelência.
+A petição protocolada em agosto, anterior ao deslocamento de competência, manifestou nosso entendimento, de haver ocorrido a superveniente perda de interesse recursal, devido à solução da questão na esfera administrativa da própria agravada, como comprovado pela publicação do Acórdão 477/2022 da Antaq, no Diário Oficial da União, no dia 22 de agosto de 2022, Seção 1, página 190. Por isso, foi requerida uma decisão nos presentes autos de processo judicial, em sede recursal, pela perda de objeto.
+Com a devida vênia, não vislumbramos no caso que o referido pedido de perda de interesse recursal tenha sido apreciado na decisão judicial prolatada. Não há na fundamentação da decisão referência expressa à petição de perda de objeto, tampouco fundamento para a rejeição dela.
+Diante do exposto, requeremos a Vossa Excelência esclarecimentos expressos sobre a deliberação no pedido de perda de objeto, diante da juntada aos autos da comunicação de encerramento do litígio no âmbito do contencioso administrativo da agência reguladora, decisão da Antaq no Acórdão 477/2022.
+Intimada, a parte embargada apresentou impugnação (fls. 970-977).
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+A irresignação da parte, no que diz respeito à falta de pronunciamento desta relatoria sobre a superveniente perda do interesse recursal devido à solução da questão na esfera administrativa, expressamente comunicada nos presentes autos, como se evidencia, prospera.
+Ante o exposto, acolho os embargos de declaração, a fim de tornar sem efeito a decisão de fls. 952-960, mantendo a sucumbência conforme determinado na instância ordinária.
+Publique-se. Intimem-se.
