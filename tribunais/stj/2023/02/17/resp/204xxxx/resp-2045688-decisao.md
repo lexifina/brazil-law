@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por TÁRCIO FERNANDES DE LIMA, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado (fl. 2300, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA DE BEM IMÓVEL. DÍVIDA PRINCIPAL QUITADA. HONORÁRIOS PENDENTES. AJUSTE DA PENHORA. POSSIBILIDADE. REAVALIAÇÃO DO BEM. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO MANTIDA.
+1- De acordo com o art. 805 do CPC, "Quando por vários meios o exequente puderpromover a execução, o juiz mandará que se faça pelo modo menos gravoso parao executado".
+2- Observo que após o entendimento proferido pelo magistrado na origem, não me veio nenhuma outra informação capaz de alterar o entendimento ali adotado. A penhora e demais procedimentos seguirão em relação a parte da dívida ainda pendente, não havendo nenhum prejuízo a ser suportado pelo agravante.
+3. Dispõe o STJ que "as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual"
+4. Recurso conhecido e não provido.
+Opostos embargos de declaração, foram desprovidos (e-STJ, fls. 2582-2586).
+Nas razões do especial, aponta o recorrente violação dos artigos 4º, 5º, 489, 502 e 1022 do Código de Processo Civil, bem como do artigo 5º, XXXVI, da Constituição Federal.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido, a despeito da oposição dos embargos de declaração.
+Defende, ainda, que o acórdão recorrido teria violado à coisa julgada, ao desconsiderar os elementos do laudo de avaliação, em relação aos quais já teria sido estabilizada a discussão, em decisão contra a qual não caberia mais recurso.
+As contrarrazões foram apresentadas (e-STJ, fls. 2718-2224).
+O recurso especial foi admitido na origem, conforme decisão de fls. 2745-2747 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, no que se refere à alegada violação dos artigos 489 e 1022 do CPC/15, observo que o Tribunal de origem consignou, expressamente, que a necessidade de nova avaliação decorreria de fato novo imprevisível ocorrido após o trânsito em julgado da decisão que ratificou o laudo de avaliação.
+Além disso, o Tribunal de origem pressupõe que a readequação da penhora seria também imprescindível, tendo em vista o pagamento de parte do valor da dívida após o trânsito da decisão mencionada.
+A propósito, extraio do acórdão que julgou os embargos de declaração (e-STJ, fls. 2584-2585):
+De início, no que se refere à suposta omissão alegada pelo embargante em relação ao trânsito em julgado do laudo, cumpre consignar que toda decisão judicial proferida pelo Órgão Colegiado é composta pelo voto do relator e pelos votos dos vogais, considerando o voto divergente, quando houver, que poderá ser vencedor ou vencido. No caso, a questão de suposta violação da coisa julgada consta do voto divergente, que foi debatida pela turma, todavia, tal posicionamento restou vencido, não havendo qualquer omissão a ser sanada. (evento 35, EXTRATOATA1)
+Observa-se que o voto vencedor, condutor do acórdão embargado, manteve a decisão do juiz de origem, fundamentando tal posicionamento no fato de que o agravado quitou a dívida hipotecária, não havendo amparo legal para manutenção da penhora de 170 alqueires, se 120 deles seriam apenas para garantia desta dívida, a qual, repisa-se, já foi quitada.
+Restou consignado que a elaboração de novo laudo é necessário para saber qual o percentual de redução a ser aplicado, não havendo qualquer prejuízo ao embargante, que receberá todo o valor que lhe é devido.
+Foi mencionado, ainda, que a penhora e demais procedimentos seguirão em relação a parte da dívida ainda pendente, com intuito de se verificar o valor atualizado de cada alqueire, bem como penhorar quantidade suficiente, de modo a saldar a dívida dos autos originários de forma menos onerosa ao executado.
+Em relação à alegada obscuridade no suposto fato de que não há provas de que durante a pandemia houve significativa valorização dos imóveis, tal alegação não prospera.
+No julgamento do agravo de instrumento, o tema foi decidido levando-se em consideração fato novo e superveniente referente à valorização dos bens imóveis, principalmente rurais, em meio ao cenário da pandemia do coronavírus, aliado às alterações do cenário econômico, fato público e notório, configurando a hipótese do artigo 873, II, do Código de Processo Civil, que admite nova avaliação quando observada a majoração ou diminuição do valor do bem.
+Por fim, a menção à existência de uma "dívida principal" mostra-se atrelada ao fato de que a constrição anteriormente existente sobre o imóvel englobava, além da verba de sucumbência, uma dívida hipotecária saldada no curso do feito, denominada "principal" pelo fato de corresponder à maior parte do objeto da constrição. (sem grifo no original)
+Como se vê do trecho acima reproduzido, o Tribunal de origem pressupõe alteração substancial nos pressupostos de fato que nem sequer existiriam quando do trânsito em julgado da decisão que ratificou o laudo de avaliação do bem constrito.
+Desse modo, pressuposta a falta de adequação entre a nova situação e o título, fica afastada a violação à coisa julgada, não havendo cogitar-se de omissão ou decisão não fundamentada.
+Com efeito, nos termos da jurisprudência consolidada no âmbito desta Corte: "O erro de fato que autoriza a oposição dos aclaratórios é apenas aquele que objetivamente compromete a inteligibilidade e o alcance do pronunciamento judicial"". (EDcl no REsp n. 1.501.640/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/12/2019, DJe de 13/12/2019.)
+No que se refere à controvérsia de fundo, pressuposta a falta de equivalência entre os pressupostos fáticos do conteúdo dos termos da avaliação e a nova pretensão executória, fica inviabilizado o reconhecimento de suposta violação à coisa julgada, por demandar o reexame de matéria fático-probatória.
+Aplica-se, no caso, o óbice da Súmula 7/STJ.
+Por fim, também não deve ser conhecido o recurso especial em relação à suposta contrariedade do artigo 5º, XXXVI, da Constituição Federal.
+Conforme pacificado no âmbito do STJ: "É incabível a apreciação da matéria constitucional abordada no recurso especial, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da CF/88"" (AgInt no AREsp n. 1.963.552/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+Em face do exposto, conheço em parte do recurso especial, para a ele negar provimento.
+Deixo de arbitrar honorários de recurso, pois não houve condenação na origem, vedado o acréscimo ulterior, na forma dos §§ 2ºe 11 do artigo 85 do CPC/15.
+Intimem-se.
