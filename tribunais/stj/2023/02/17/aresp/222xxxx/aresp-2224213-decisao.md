@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE EXIGIR CONTAS. FINALIDADEDA PRIMEIRA FASE: APURAÇÃO DA EXISTÊNCIA DO DIREITO À PRESTAÇÃO DE CONTAS. DECISÃO PARCIAL DE MÉRITO. RECURSO CABÍVEL: AGRAVO DE INSTRUMENTO (ART. 1.015, INC. II, CPC). INADEQUAÇÃO DA VIA ELEITA ESCOLHIDA (APELO). PRINCÍPIO DA FUNGIBILIDADE NÃO INCIDENTE. ERRO GROSSEIRO. AUSÊNCIA DE PRESSUPOSTO DE ADMISSIBILIDADE RECURSAL. O artigo 550, § 5º, do CPC, ao disciplinar as consequências provenientes doreconhecimento do direito de exigir contas, reporta-se expressamente aopronunciamento judicial que aprecia a existência de tal direito como se fosse uma decisão interlocutória parcial de mérito. Por conseguinte, não sendo adecisão vergastada de natureza sentencial, o recurso cabível para discuti-la é o agravo de instrumento, conforme dispõe o artigo 1.015, inciso II do CPC. Inaplicável, assim, o princípio da fungibilidade recursal, porquanto configurada a hipótese de erro grosseiro no ato de interposição da apelação. APELO NÃO CONHECIDO.
+Alegou-se, no especial, violação dos artigos 1.774, 1.775, 1.756 e 1.757 do Código Civil sob o argumento de que não é o caso de se julgar procedente o pedido de exigir contas.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que, julgado procedente o pedido de exigir contas proposta em face do agravante, este interpôs recurso de apelação, que não foi conhecido pelo Tribunal de origem sob o fundamento de inadequação da via eleita.
+Esse fundamento não foi impugnado e, a par disso, nenhum dos dispositivos legais foi objeto de exame pelo Tribunal local e nem dos embargos de declaração opostos, além do que a parte não demonstrou de que maneira os artigos invocados teriam sido malferidos pela Corte estadual.
+Inafastável, pois, a incidência dos enunciados n. 282, 283, 284 e 356 da Súmula do Supremo Tribunal Federal e 211 desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
