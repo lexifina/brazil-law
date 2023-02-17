@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE DESENVOLVIMENTO URBANO DA REGIÃO DO PORTO DO RIO DE JANEIRO S.A. - CDURP contra decisão que inadmitiu o recurso especial.
+No apelo nobre, a recorrente insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA PROVISÓRIA DE URGÊNCIA. DEFERIMENTO. DETERMINAÇÃO DO REASSENTAMETO DOS MORADORES, SEM PREJUÍZO DO PAGAMENTO DE AUXÍLIO SOCIAL OU PROGRAMA CONGÊNERE.
+INSURGÊNCIA DA PARTE AUTORA. AUSÊNCIA DE RESPONSABILIDADE PELO REASSENTAMENTO. INCOMPETÊNCIA PARA PAGAMENO DE ALUGUEL SOCIAL. RECURSO DESPROVIDO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Trata-se de agravo de instrumento interposto contra decisão que deferiu a tutela provisória de urgência para determinar o reassentamento dos moradores em localidades próximas, sem prejuízo de, transitoriamente, fazerem jus ao pagamento de auxílio aluguel ou programa congênere até a efetiva requalificação do imóvel.
+2. Defende o agravante que não assumiu a responsabilidade pelo reassentamento das famílias que ocupavam irregularmente os imóveis da Região, mesmo porque a materialização da política de realocação e enfrentamento do problema fundiário da Região do Porto compete ao Município do Rio de Janeiro, bem como que não dispõe atualmente da competência para pagar o aluguel social, encargo também confiado ao Município do Rio de Janeiro.
+3. A Agravante é sociedade de economia mista, com personalidade jurídica e patrimônio próprio, controlada pelo Município do Rio de Janeiro, sendo competente para entre outros, promover o desenvolvimento da AEIU e gerir os ativos patrimoniais a ela transferidos pelo Município, nos termos do art. 1º, §2º e art. 5º, I e IV, do Decreto nº 31.620/09.
+4. Possui ainda a agravante, autonomia administrativa e financeira, de modo que os recursos por ela obtidos podem ser empregados para aquisição de térreos e atendimento econômico e social da população afetada pelo projeto da região do porto, conforme dispõe o art.
+40, §1º, do Decreto nº 31.620/09.
+5. O aluguel social constitui benefício assistencial de caráter temporário, destinado ao atendimento de necessidades advindas da remoção de famílias domiciliadas em áreas de risco, desabrigadas em razão da vulnerabilidade temporária, calamidade pública ou em virtude de Obras do Plano de Aceleração do Crescimento (PAC) além de assegurar o direito fundamental à moradia, que se relaciona com o mínimo indispensável à dignidade humana.
+6. Recurso desprovido" (e-STJ fls. 77-78).
+Compulsando os autos, verifica-se que o recurso especial é oriundo de ação de imissão de posse fun dada em desapropriação amigável e em contrato de aforamento firmado com a União Federal na qual foi deferida tutela de urgência determinado o reassentamento dos moradores em localidades próximas, sem prejuízo de, transitoriamente, fazerem jus ao pagamento de aluguel social ou programa congênere.
+Trata-se, portanto, de matéria de competência da Primeira Seção, conforme o disposto no artigo 9º, § 1º, incisos VII e XIV, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, determino a redistribuição dos autos.
+Publique-se.
