@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LEONARDO GUTTEMBERG DOS SANTOS FARIA à decisão de fls. 365/366, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Conforme se verifica da certidão 355 e-STJ, foi determinada a intimação do agravante, por meio do diário eletrônico deste Eg. Tribunal Superior, para regularização processual no prazo de 05 (cinco) dias.
+Diante disso, o agravante, através de seu advogado, protocolizou petição às fls. 361 e 362 para que fosse sanado o vício em decorrência da intimação para o agravante, que não é advogado e, evidentemente, não possui meios viáveis para tomar o devido conhecimento da intimação (fl. 370).
+ ..
+Todavia a decisão embargada não verificou que o agravante, o qual não possui qualquer formação jurídica e, por conseguinte, também não possui cadastro eletrônico junto a este Eg. Tribunal e sequer tem ciência da existência deste tipo de veículo, não teve meios viáveis para tomar conhecimento da referida intimação.
+Ou seja, a intimação enviada para ao agravante é inócua não servindo da sua utilidade para intimar o agravante que jamais poderia tomar conhecimento de publicação que circulou apenas no Diário de Justiça deste Tribunal.
+Para além, o subscritor do presente não foi cadastrado junto ao e-STJ no presente feito, bem como não houve publicação em seu nome acerca da referida intimação, para que pudesse em tempo hábil proceder com a devida regularização, muito pelo contrário o subscritor diligenciou sobre o andamento processual e se deparou com uma intimação ao agravante, pessoa física sem poderes postulatórios, que jamais poderia tomar ciência (fl. 371).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo, Dra. Renata Pao Alvo da Silva Roberto.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que deixou transcorrer in albis o prazo legal (fl. 358), protocolando intempestivamente a petição de fls. 361/364, ocorrendo, portanto, a preclusão temporal.
+Ao contrário do alegado, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que a parte foi regularmente intimada, em nome do seu advogado, Dr. Eduardo Carvalho da Nóbrega, OAB/RJ n. 207.541.
+Constaram da referida edição do DJe, n. 3521, disponibilizada em 22/11/2022 e publicada em 23/11/2022, todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este AREsp n. 2251265/RJ. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão que consta à fl. 355, e cumprir a determinação de regularização do vício.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
