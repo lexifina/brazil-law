@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - PRELIMINAR - PERDA DE OBJETO - REJEIÇÃO - HOMOLOGAÇÃO DO PLANO - ILEGALIDADE DAS CLÁUSULAS - SITUAÇÃO NÃO VERIFICADA - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+1. Inexistindo prova efetiva de quitação integral do crédito habilitado pelo agravante, deve ser rejeitada a preliminar de perda do objeto recursal.
+2. Não havendo ilegalidades nas cláusulas previstas no plano recuperacional, impõe-se a manutenção da decisão que concedeu a recuperação judicial às empresas agravadas, nos moldes do art. 58 da Lei nº 11.101/2005.
+3. Recurso não provido.
+Alega-se violação dos artigos 1.022 do Código de Processo Civil e 49, § 1º, 50, 61, § 1º, 73, IV, 142, I, e 163, § 4º, da Lei n1 11.101/05 sob o argumento de que o acórdão local é omisso; que, uma vez descumprido o plano de recuperação, a falência é a consequência necessária; que a alienação de ativos que servem de garantia real somente pode ser feita com a concordância do credor; e que apenas com a aprovação do titular do crédito é possível a liberação das garantias do crédito por ocasião da aprovação do plano de recuperação judicial.
+Assim delimitada a controvérsia, passo a decidir.
+Não há, de início, registro algum, no acórdão local, no sentido de que tenha havido descumprimento do plano de recuperação judicial, de modo que o reexame da causa esbarra nas disposições dos verbetes n. 5 e 7 da Súmula desta Casa.
+Quanto à alienação de ativos que constituem garantia real e liberação de outras garantias por ocasião do plano de recuperação judicial, o Tribunal local decidiu que "não há qualquer ilegalidade na referida previsão, ao contrário, existe expresso dispositivo legal que indica a possibilidade, de alienação do ativo permanente como um dos meios de recuperação da empresa em crise momentânea, desde que observados certos requisitos, tais como a aprovação do Comitê de Credores e o reconhecimento da utilidade da venda pelo magistrado (art. 66, LRF), conforme observado no plano recuperacional" (er-STJ, fl. 306); e que o recorrente não é titular da posição de credor fiduciário.
+Esta Corte Superior, todavia, tem sufragado o entendimento de que a liberação das garantias do crédito depende de expresso consentimento do credor específico, não bastante a aprovação do plano de recuperação judicial pela assembleia de credores.
+A propósito:
+EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DAS AÇÕES CONTRA COOBRIGADOS. CLÁUSULA EXPRESSA DE SUPRESSÃO DE GARANTIAS. POSSIBILIDADE. EFICÁCIA. APENAS EM FACE DE CREDOR QUE ANUIU. RETORNO DOS AUTOS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A recuperação judicial do devedor principal não obsta o prosseguimento de ações e execuções propostas em desfavor de devedores solidários e coobrigados em geral, por garantia cambial, real ou fidejussória (Súmula nº 581 do STJ).
+3. Contudo, em julgamento recente, a Segunda Seção também definiu que é válida a previsão no plano de recuperação judicial aprovado quanto à supressão de garantias reais e fidejussórias, salientando, entretanto, que a cláusula não produz efeitos em relação aos credores ausentes, que tenham se abstido de votar ou que tenham se posicionado contra a referida previsão.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.970.001/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido.
+(REsp n. 1.794.209/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 12/5/2021, DJe de 29/6/2021.)
+Em que pese, portanto, a jurisprudência do Superior Tribunal de Justiça a respeito do tema, o Tribunal local não examinou a questão sob a ótica do entendimento desta Casa, de modo que cabe o retorno dos autos à origem para reexame da causa, a fim de que a Corte de origem perquira se foram ou não afastadas garantias reais ou fidejussórias do crédito do recorrente sem a sua anuência.
+Diante do exposto, conheço e dou parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal local para que reexamine a causa, nos termos da fundamentação supra.
+Intimem-se.
