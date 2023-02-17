@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 514):
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. PROTESTO INDEVIDO DO NOME DA AUTORA, PESSOA JURÍDICA. SENTENÇA DE PROCEDÊNCIA. RECURSO DE UMA DAS RÉS. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. ALMEJADA A PRODUÇÃO DE PROVA DESNECESSÁRIA. PROEMIAL RECHAÇADA. MÉRITO. MULTIPLICIDADE DE CESSÕES DE UM MESMO CRÉDITO. ADIMPLEMENTO DIRECIONADO À ENDOSSATÁRIA INDICADA PELA CREDORA PRIMITIVA. VALIDADE. VERIFICADA A BOA-FÉ DA PAGADORA. EXEGESE DA SEGUNDA PARTE DO ART. 292 DO CC. DIVIDA INEXISTENTE. ATO NOTARIAL ABUSIVO. ATO ILÍCITO CONFIGURADO. DANO MORAL PRESUMIDO. PRESENTE O DEVER DE INDENIZAR. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS FIXADOS. APELO DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação do art. 335, IV, do Código Civil.
+Sustenta que "na ocorrência de duplicidade de cessão, e gerando a dúvida a quem pagar, deveria a Recorrida consignar em pagamento, e jamais poderia escolher de forma aleatória que seria o credor correto a pagar".
+Defende que "havendo dúvidas, deveria consignar em pagamento o valor dos títulos perante o Juízo, determinando a intimação dos Cessionários para demonstrar a titularidade do crédito".
+Contrarrazões apresentadas.
+O recurso não foi admitido na origem.
+Delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está assim fundamentado (fls. 516/517):
+Ah initio, importa ressaltar que a multiplicidade de cessões de um mesmo crédito está prevista no art. 291 do CC, que diz que "ocorrendo várias cessões do mesmo crédito, prevalece a que se completar com a tradição do título do crédito cedido".
+Todavia, não cabe, na presente demanda, discutir qual das endossatárias é a verdadeira credora da dívida ou de que forma a autora deveria ter efetuado o pagamento.
+Isto, pois, um debate desta feita muito se distanciaria do cerne da quaestio, o qual se limita à (in)existência da dívida que gerou os apontamentos feitos pelas requeridas Banicred e Investhor, no nome da autora, que afirma ter liquidado as duplicatas junto à cessionária indicada pela credora primitiva.
+O conjunto probatório colacionado corrobora a narrativa fática da requerente. Compulsando-se os autos, verifica-se que em 09/01/2015 as contratantes se comunicaram por e-mail, ocasião em que a devedora foi instruída a realizar a quitação das duplicatas emitidas pela empresa Lira (evento 1, inf. 9, AO), tendo cientificado as demais cessionárias no dia 02/02/2015 (evento 1, inf. 12, AO).
+Ora, se a própria endossante indicou qual das empresas de fomento seria a beneficiária do pagamento das parcelas, orientando, inclusive, quais as duplicatas deveriam ser adimplidas, não se poderia exigir da devedora uma conduta diversa da que foi adotada. Aqui, sublinhe-se, a atitude da cedente denotou a tradição do título do crédito à empresa Lira, levando à confiabilidade de que ela fosse a legítima promissária (vide art. 291 do CC).
+Assim, tendo em vista a boa-fé da apelada e a quitação da obrigação (evento 1, inf. 6, AO), não há falar em mora. Nesse sentido, estabelece o Código Civil brasileiro:
+Art. 292. Fica desobrigado o devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo, ou que, no caso de mais de uma cessão notificada, paga ao cessionário que lhe apresenta, com o título de cessão, o da obrigação cedida; quando o crédito constar de escritura pública, prevalecerá a prioridade da notificação.
+Indubitável, por conseguinte, o nexo de causalidade havido entre a conduta desidiosa da apelante e o dano experimentado pela autora, a qual teve seu nome negativado por dívida inexistente, o que dá ensejo à responsabilidade civil e ao dever de indenizar.
+Na hipótese, a lesão anímica consta in re ipsa, conforme se extrai do voto proferido pelo Excelentíssimo Desembargador Relator Raulino Jacó Brüning, nos autos da apelação n. 0001929-90.2011.8.24.0082:
+(..)
+Salienta-se que a posição ora adotada é consonante à súmula n. 30 deste Tribunal de Justiça, a qual estipula que "é presumido o dano moral decorrente da inscrição ou manutenção irregular do nome da pessoa física ou jurídica no rol de inadimplentes, sendo despicienda a discussão acerca da comprovação dos aludidos danos". Nesse sentido:
+(..)
+Assim, verifica-se que a Corte local, analisando o contexto fático-probatório dos autos, fundamentou sua conclusão na boa-fé da parte recorrida, uma vez que "se a própria endossante indicou qual das empresas de fomento seria a beneficiária do pagamento das parcelas, orientando, inclusive, quais as duplicatas deveriam ser adimplidas, não se poderia exigir da devedora uma conduta diversa da que foi adotada".
+O referido fundamento, contudo, embora suficiente, por si só, para manutenção do julgado, não foi objeto de impugnação nas razões do recurso, de maneira que incide, por analogia, o óbice da Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, modificar o entendimento do Tribunal de origem demandaria, necessariamente, a desconstituição das premissas fáticas do julgado, mediante o reexame de fatos e provas dos autos, procedimento vedado em recurso especial, ante o óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
