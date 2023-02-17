@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por JUSSARA MARCELINO TEIXEIRA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pel o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado, in verbis:
+PREVIDENCIÁRIO. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. TRANSCURSO DE PRAZO SUPERIOR A CINCO ANOS ENTRE A CESSAÇÃO DO AUXÍLIO-DOENÇA E O AJUIZAMENTO DA AÇÃO. APLICAÇÃO DA TESE FIXADA PELO GRUPO DE CÂMARAS DE DIREITO PÚBLICO (TEMA N. 24 - IAC N. 5001380-88.2019.8.24.0025). SENTENÇA QUE INDEFERIU A PETIÇÃO INICIAL E EXTINGUIU O FEITO MANTIDA (ITENS B.1 E C DOTEMA). RECURSO CONHECIDO E DESPROVIDO.
+No presente recurso especial, o recorrente aponta como violado o art. 86, § 2º, da Lei n. 8.213/91, sustentando, em síntese, que o auxílio-doença sendo interrompido sem a concessão de qualquer outro benefício, caracteriza rejeição a concessão do auxilio-acidente, tendo em vista que ele deveria ter sido concedido ao segurado de ofício pela autarquia. Pugna pela aplicação do Tema 862 desta Corte.
+É o relatório. Decido.
+O Supremo Tribunal Federal, por ocasião do julgamento do RE 631.240/MG - Tema 350 de sua repercussão geral, fixou a tese de que é necessário demonstrar, nas ações previdenciárias, a existência de prévio requerimento administrativo, a fim de caracterizar o interesse de agir, condição para o ajuizamento da demanda judicial.
+Ato contínuo, em evolução jurisprudencial, a Primeira Seção do Superior Tribunal de Justiça alinhou sua jurisprudência ao entendimento perfilhado pelo Pretório Excelso, por ocasião do julgamento do REsp. n. 1.369.834/SP, submetido ao rito dos recursos repetitivos, correspondente ao Tema 660.
+Confira-se, por pertinente, a ementa do referido julgado.
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NECESSIDADE. CONFIRMAÇÃO DA JURISPRUDÊNCIA DESTA CORTE SUPERIOR AO QUE DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 631.240/MG, JULGADO SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 631.240/MG, sob rito do artigo 543-B do CPC, decidiu que a concessão de benefícios previdenciários depende de requerimento administrativo, evidenciando situações de ressalva e fórmula de transição a ser aplicada nas ações já ajuizadas até a conclusão do aludido julgamento (03/9/2014).
+2. Recurso especial do INSS parcialmente provido a fim de que o Juízo de origem aplique as regras de modulação estipuladas no RE 631.240/MG. Julgamento submetido ao rito do artigo 543-C do CPC.
+(REsp 1369834/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/09/2014, DJe 02/12/2014)
+Por fim, afasto a aplicação do Tema 862 desta Corte, assim porque com a ocorrência da prescrição, eventual concessão de auxílio-acidente não poderia ter como termo inicial a cessação do auxílio-doença.
+Desta forma, a pretensão recursal destoa do entendimento firmado por esta Corte Superior em sede de recurso repetitivo, razão pela qual o recurso deve ser improvido.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
