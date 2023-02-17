@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por LEANDRO RAMOS DE FREITAS desafiando acórdão do Tribunal de Justiça do Estado de Goiás (HC n. 5606816-10.2022.8.09.0051).
+Depreende-se dos autos que o recorrente foi preso preventivamente, no dia 2 de junho de 2022, e denunciado pela suposta prática dos crimes previstos nos arts. 171, § 2º-A, e 288, caput, ambos do Código Penal, porque, em tese, nos meses de março e abril de 2022, associou-se aos codenunciados para o fim de cometerem crimes de estelionatos, em especial aqueles cuja fraude é praticada com a utilização de informações fornecidas pela vítima ou por terceiro induzido a erro por meio de sites de vendas.
+Buscando a revogação da custódia cautelar, impetrou a defesa habeas corpus no Tribunal de Justiça do Estado de Goiás.
+Entretanto, os desembargadores integrantes da Primeira Câmara de Direito Criminal denegaram a ordem de habeas corpus.
+No Superior Tribunal de Justiça, sustenta a defesa a ilegalidade, ante a ausência de fundamentos suficientes, do acórdão que manteve a medida excepcional.
+Destaca que "tanto a ordem que determinou a prisão, quanto a que manteve a prisão preventiva veio apenas com fundamentação na garantia da ordem pública, sem trazer a relação de tal fundamento com a causa ou questão a ser resolvida, chamando a ordem além do artigo 93, inciso IX, da Constituição Federal, como o artigo 315, §2º, inciso I, do Código de Processo Penal" (e-STJ fl. 91).
+Registra os predicados pessoais favoráveis do réu.
+Reverbera, outrossim, o excesso de prazo na formação da culpa.
+Sublinha que o "acórdão explicita que, devido ao fato de haver mais de um acusado, não há o que falar em excesso de prazo global, mesmo que o juiz a quo sequer tenha marcado audiência de instrução e julgamento e ainda tenha informado que tal audiência apenas ocorrerá quando houver troca de magistrado naquela vara, o que também não se sabe quando será" (e-STJ fl. 93).
+Diante dessas considerações, pede a revogação da prisão preventiva, com ou sem a imposição das medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo parcial conhecimento do recurso e, nessa extensão, pelo seu desprovimento.
+É o relatório.
+Preliminarmente, quanto ao pleito de revogação da prisão preventiva, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Passo, por fim, a examinar a alegação de que há excesso de prazo na segregação cautelar. E, ao fazê-lo, verifico não assistir razão à defesa.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora recorrente está custodiado desde 2/6/2022, e a defesa alega que não há previsão para o encerramento da instrução criminal.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado (e-STJ fl. 82):
+Na hipótese, não se constata transposição irrazoável do período global de 148 (cento e quarento e oito) dias para a formação da culpa, constante no ofício circular 042/2011/ASSJ, em atendimento à recomendação da Corregedoria Nacional de Justiça (ofício circular 008/DMF), somado ao fato de que se trata de feito complexo, com 07 (sete) acusados e advogados distintos, circunstâncias que justificam o elastecimento da instrução processual.
+Ademais, a instrução já se iniciou com a audiência realizada, aos 20/10/2022, oportunidade em que foram ouvidas as vítimas e determinada a suspensão pelo adiantado da hora (movimento 269, dos autos originários 5196954-80.2022.8.09.0051).
+Portanto, não se vislumbra qualquer desídia por parte da condutora procedimental ou negligência atribuível ao aparato estatal, em cotejo ao princípio norteador da razoabilidade, haja vista que a ação penal tramita regularmente.
+As informações complementares dão conta de que (e-STJ fls. 150/151):
+Fora designada audiência de instrução e julgamento para o dia 20/10/2022, às 16h00min (evento n.º 223 dos autos da ação penal).
+Na audiência de instrução e julgamento foram inquiridas 02 (duas) vítimas arroladas na denúncia (evento n.º 269 dos autos da ação penal).
+No dia 07/11/2022, este Juízo indeferiu o pedido revogação da prisão preventiva do paciente (evento n.º 283 dos autos da ação penal).
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sinalizando, inclusive, para o encerramento da instrução. Ademais, o pequeno atraso para o seu término se deve, como consignado, à complexidade do feito, a que respondem 7 réus com representantes distintos, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ ..  (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE INJUSTIFICADO EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO OCORRÊNCIA. DILIGÊNCIAS ESPECÍFICAS. INSTRUÇÃO PRÓXIMA DE ENCERRAMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. RECURSO ORDINÁRIO DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, o Tribunal de origem entendeu que o processo tramita dentro do princípio da razoabilidade, sem registro de qualquer atraso relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão. O recorrente encontra-se preso desde 6/11/2016, com denúncia oferecida em 13/12/2016 e resposta à acusação apresentada em 28/7/2016, sendo que, a despeito da necessidade da expedição de cartas precatórias, os autos receberam marcha célere, com designação de audiência de instrução e julgamento para o dia 19/4/2017, somente não realizada devido à não apresentação do acusado pela Secretaria de Ressocialização. Não obstante, a instrução encontra-se na iminência de seu encerramento, com a audiência redesignada para o dia 17/8/2017.
+ ..  (RHC n. 82.958/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+Ante o exposto, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento, com a recomendação de que o Juízo de piso imprima celeridade no julgamento do feito.
+Publique-se. Intimem-se.
