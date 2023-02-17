@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo BANCO DO BRASIL S/A, fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 30/11/2018.
+Concluso ao gabinete em: 15/02/2023.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC em face do BANCO DO BRASIL, julgada procedente para condenar a instituição financeira a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença..
+Acórdão: negou provimento ao recurso interposto pelo recorrente, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - ILEGITIMIDADE ATIVA - Exequente poupador não associado ao IDEC, autor da ação civil pública - Pretensão deduzida pela instituição financeira executada no sentido extinção da execução sem julgamento do mérito, com fundamento no RE nº 573.232-SC Inadmissibilidade - Precedente do STF que cuida de ação coletiva ordinária, diferente do caso dos autos em que se tem ação civil pública.
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - ILEGITIMIDADE ATIVA - Exequente poupador não associado ao IDEC, autor da ação civil pública - Pretensão deduzida pela instituição financeira executada no sentido extinção da execução sem julgamento do mérito, com fundamento no RE nº 885.658-SP - Inadmissibilidade - Precedente do STF que não se aplica ao caso concreto em razão de haver sido julgado sem efeito repetitivo.
+AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - ILEGITIMIDADE ATIVA - Necessidade de filiação ao IDEC - Descabimento - Possibilidade de ajuizamento de ação executiva individual por todos os poupadores - Entendimento pacificado pelo STJ em análise de recurso repetitivo - Suspensão determinada no REsp 1.438.263 - Perda de eficácia, ante a desafetação de tal recurso do rito dos recursos repetitivos - Prefacial rejeitada.
+AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - CUMPRIMENTO DE SENTENÇA - COMPETÊNCIA - Pleito que não está restrito ao foro onde tramitou a ação coletiva, podendo ser deduzido pelo poupador no foro de seu domicílio - Entendimento pacificado pelo STJ em análise de recurso repetitivo - Prefacial afastada.
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - CUMPRIMENTO DE SENTENÇA - PRESCRIÇÃO - É quinquenal o prazo prescricional para o ingresso com pedido de cumprimento de sentença pelo poupador, a contar do trânsito em julgado da ação coletiva - Entendimento pacificado pelo STJ em análise de recurso repetitivo - Prefacial de mérito rejeitada.
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - JUROS MORATÓRIOS - TERMO INICIAL - Data da citação para a ação coletiva - Matéria que já foi assim decidida na sentença da Ação Civil Pública, e que não pode ser alterada sob pena de violação à coisa julgada - Entendimento, outrossim, nesse sentido pacificado pelo STJ em análise de recurso repetitivo.
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - CUMPRIMENTO DE SENTENÇA - CORREÇÃO MONETÁRIA - TABELA PRÁTICA DO TJ/SP - Pretensão deduzida pelo banco de que sejam utilizados os índices da caderneta de poupança - Descabimento - Tabela Prática do TJ/SP que se revela mais adequada para atualizar monetariamente os débitos para fins de cobrança judicial - Entendimento pacificado pela 17ª Câmara de Direito Privado.
+AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - HONORÁRIOS ADVOCATÍCIOS - Verba honorária devida na fase de liquidação de sentença - Entendimento jurisprudencial. Agravo desprovido.
+Recurso especial: alega violação dos arts. 2º-A, da Lei n.º 9.494/1997; 85, 240, 535, V, CPC, 405 e 884 do CC. Sustenta, em síntese, a ilegitimidade ativa, o excesso de execução no cálculo que incluiu no computo os juros remuneratórios e honorários advocatícios. Insurge-se contra o termo inicial dos juros de mora e o índice de correção monetária.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pelo agravante em seu recurso especial quanto o excesso de execução pela inclusão de juros remuneratórios, o que inviabiliza o seu julgamento.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da Súmula 568 do STJ
+Quanto às demais matérias, o Superior Tribunal de Justiça detém o posicionamento no sentido de que:
+i) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do IDEC, de ajuizarem o cumprimento individual da sentença coletiva proferida na ação civil pública nº 1998.01.1.016798-9 pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF (REsp 1391198/RS 2ª Seção, DJe de 02/09/2014).
+iii) os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração da mora em momento anterior (REsp 1370899/SP, Corte especial, Dje de 16/10/2014).
+iv) a correção monetária dos débitos judiciais, a partir de julho de 1995, é mais adequada a utilização do INPC. Precedentes: AgInt no REsp 1647432/DF, Quarta Turma, DJe 29/09/2017 e AgRg no REsp 1266819/PR, Terceira Turma, DJe 09/06/2015.
+v) são cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp 1798280/SP, Terceira Turma, DJe 04/05/2020 e REsp 1134186/RS, Corte especial, Dje de 27/10/2011).
+Dessa forma, o TJ/SP foi ao encontro da jurisprudência dessa Corte. Aplica-se, portanto, a Súmula 568 do STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA EM FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ.
+1. Ação civil pública, em fase de cumprimento individual de sentença, na qual se discute expurgos inflacionários.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O acórdão recorrido que adota a orientação de acordo com a jurisprudência do STJ não merece reforma.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
