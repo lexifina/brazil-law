@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 325, e-STJ):
+Responsabilidade civil do Estado. Demora na renovação de CNH. Desatualização da base de dados do IIRGD, na qual o autor constava como " procurado". Responsabilidade civil configurada . Dano moral. Redução . Precedentes. Dano material. Elementos dos autos que, em teoria, justificariam sua majoração. Ausência de interesse recursal quanto a esse ponto, por conta do pedido ilíquido. Termo inicial dos juros de mora e correção monetária. Data de prolação da sentença. Momento a partir do qual a prestação passou a ser exigida . Cálculos dos juros de mora e correção monetária. Lei nº 11.960/09. ADI n º 4357. Aplicação somente quanto aos juros de mora. Sentença de parcial procedência parcialmente reformada. Recurso do autor parcialmente conhecido e não provido e recurso da ré parcialmente provido.
+A parte recorrente alega que ocorreu violação do art. 1º-F da Lei 9.494/1997, sob o argumento de que o referido dispositivo deixou de ser aplicado na correção monetária incidente sobre a condenação sofrida pela Fazenda Pública.
+Sem contrarrazões.
+Decisão de admissibilidade às fls. 379-380, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.2.2023.
+A irresignação não merece prosperar.
+Quanto ao índice de correção monetária, a Primeira Seção do STJ, ao julgar o Tema 905, decidiu que não se aplica a TR, índice previsto no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, para fins de correção monetária. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. INAPLICABILIDADE DA TR COMO FATOR DE CORREÇÃO MONETÁRIA. RESP 1.495.144/RS E RE 870.947/SE.
+1. O Supremo Tribunal Federal examinou as questões advindas da aplicação de juros e correção monetária sobre os débitos da Fazenda Pública em decorrência da vigência do art. 1º-F da Lei 9.494/1997, introduzido pela MP 2.180-35/2001, e da posterior alteração pela Lei 11.960/2009, representadas pelos Temas 435 e 810/STF.
+2. Acrescente-se, ainda, que o Supremo Tribunal Federal, no julgamento de Embargos de Declaração no RE 870.947/SE, rejeitou a possibilidade de modulação dos efeitos do julgado.
+3. Com o trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal no âmbito do RE 870.947/SE (Tema 810), submetido à sistemática da Repercussão Geral, ocorrido em 3.3.2020 (e certificado em 31.3.2020), pacificou-se o entendimento no sentido de que deve ser aplicada a variação do IPCA-E em todo o período de atualização.
+4. Observando a decisão do STF, a Primeira Seção do STJ, no julgamento do REsp 1.495.146/MG, Rel. Min. Mauro Campbell Marques, reexaminando a questão relativa à aplicação do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, estabeleceu que as condenações judiciais referentes a servidores e empregados públicos se sujeitam aos seguintes encargos: "(a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E." (Tema 905/STJ) 5. Não merece reparos o acórdão do TJ/RJ, porquanto segue a sistemática do decidido no julgamento do REsp 1.495.146/MG, Rel. Min. Mauro Campbell Marques, DJe de 2.3.2018, acima mencionado.
+6. Dessa forma, não é possível considerar a TR como índice de correção monetária nas condenações impostas contra a Fazenda Pública, conforme pleiteado pelo Estado.
+7. Agravo Interno não provido.
+(AgInt no AgInt no REsp 1.918.364/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/11/2021)
+ENUNCIADO ADMINISTRATIVO Nº 2/STJ. PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. JUROS DE MORA E CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI Nº 9.494/1997. RE Nº 870947/SE. RESP Nº 1.492.221/PR.
+1. Os juros de mora devem incidir da seguinte forma: (a) percentual de 1% ao mês (capitalização simples), nos termos do art. 3º Decreto nº 2.322/87, no período anterior à 24/08/2001, data de publicação da Medida Provisória nº 2.180-35, que acresceu o art. 1º-F à Lei nº 9.494/97; (b) percentual de 0,5% ao mês, a partir da MP nº 2.180-35/2001 até o advento da Lei n.º 11.960, de 30/06/2009, que deu nova redação ao art. 1º-F da Lei nº 9.494/97, e, após, (c) em correspondência com os juros aplicados à caderneta de poupança, consoante a regra do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei nº 11.960/2009.
+2. Quanto à atualização monetária, afastada a incidência do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, uma vez o índice ali definido "não se qualifica como medida adequada a capturar a variação de preços da economia". Incidente os índices previstos no M anual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001 (consoante julgado, pela Primeira Seção, em 22 de fevereiro de 2018, no REsp nº 1.492.221/PR, de minha relatoria, pelo rito dos recursos repetitivos).
+3. Recurso especial parcialmente provido.
+(REsp 1.325.170/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 7/12/2020)
+Dessume-se que o acórdão recorrido está em sintonia com o atual posicionamento do STJ, razão pela qual não merece prosperar a irresignação.
+Diante do exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
