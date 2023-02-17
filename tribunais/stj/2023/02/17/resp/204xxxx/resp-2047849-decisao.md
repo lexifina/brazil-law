@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 296, e-STJ):
+Recurso de apelação interposto pelo INSS conhecido nos termos do art. 1007, par. 1º do CPC/2015.
+Reexame necessário conhecido. Sentença ilíquida proferida contra o INSS. Súmula nº 423, do Supremo Tribunal Federal e Súmula nº 490, do Superior Tribunal de Justiça. Inteligência do art. 496, I do Código de Processo Civil  CPC/2015.
+Acidentária. Bombeiro Industrial. Lesão na coluna. 2º laudo conclusivo: Incapacidade parcial e permanente para o trabalho. Nexo de causalidade caracterizado. Direito ao auxílio-acidente. Termo inicial: a partir do dia seguinte ao da cessação do último auxílio-doença (DCB 10.04.2012  fl. 267) vedada a cumulação com qualquer outro beneficio decorrente da mesma moléstia e, compensando-se os valores pagos em razão da tutela antecipada concedida (fl. 170 v.) e implantada (fl. 268). Inteligência do art. 86, par. 2º da Lei 8.213/91.
+Valores atrasados: (i) deverão ser corrigidos monetariamente a partir do termo inicial pelo IGP-DI (Lei 9.711/98), até a conta de liquidação, a partir de quando deverá incidir o IPCA-E (Resp. 1.102.484/SP, 3a Seção, Rel. Min. Arnaldo Esteves Lima, j. em 22.04.2009, DJ de 20.05.2009), e ainda no que couber, a decisão da ADI 4357 pelo STF; e (ii) juros de mora são devidos a partir do termo inicial, de modo decrescente, mês a mês, nos termos da Lei 11960/09, art. 5º, visto que a citação ocorreu em 11.02.2008 (fl. 52 v.).
+Honorários advocatícios fixados nos termos da Súmula 111 do STJ, no percentual de 10%. Manutenção.
+Recurso do INSS improvido.
+Recurso oficial provido em parte.
+Os Embargos de Declaração foram rejeitados (fl. 323, e-STJ).
+A parte recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 41-A da Lei 8.213/1991; 5º da Lei 11.960/2009 e 1º-F da Lei 9.494/1997. Sustenta, em suma, que o acórdão recorrido indevidamente "entendeu pela adoção do IGP-DI como índice de atualização das parcelas em atraso até a conta de liquidação, quando, então incidirá o IPCA-E" (fl. 331, e-STJ).
+Não foram apresentadas contrarrazões.
+Decisão de admissibilidade do recurso às fls. 374-375, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.2.2023.
+Merece prosperar a irresignação.
+A Primeira Seção do STJ, nos termos do Tema 905/STJ (Recursos Especiais 1.495.146/MG, 1.492.221/PR e 1.495.144/RS, Rel. Ministro Mauro Campbell Marques), determinou que as condenações, de natureza previdenciária, impostas à Fazenda Pública sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior ao início da vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A INDÉBITO TRIBUTÁRIO. TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+1.1. Impossibilidade de fixação apriorística da taxa de correção monetária. No presente julgamento, o estabelecimento de índices que devem ser aplicados a título de correção monetária não implica pré-fixação (ou fixação apriorística) de taxa de atualização monetária. Do contrário, a decisão baseia-se em índices que, atualmente, refletem a correção monetária ocorrida no período correspondente. Nesse contexto, em relação às situações futuras, a aplicação dos índices em comento, sobretudo o INPC e o IPCA-E, é legítima enquanto tais índices sejam capazes de captar o fenômeno inflacionário.
+(..)
+2. Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral. As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos. As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCAE a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+3.1.2 Condenações judiciais referentes a desapropriações diretas e indiretas. No âmbito das condenações judiciais referentes a desapropriações diretas e indiretas existem regras específicas, no que concerne aos juros moratórios e compensatórios, razão pela qual não se justifica a incidência do art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), nem para compensação da mora nem para remuneração do capital.
+3.2 Condenações judiciais de natureza previdenciária. As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+(..)
+6. Recurso especial não provido. Acórdão sujeito ao regime previsto no art. 1.036 e seguintes do CPC/2015, c/c o art. 256-N e seguintes do RISTJ.
+(REsp 1.495.146/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe de 2/3/2018, grifei)
+No enfrentamento da matéria, o Tribunal de origem decidiu (fl. 301, e-STJ):
+Em relação aos valores atrasados, consigno que deverão ser corrigidos monetariamente a partir do termo inicial pelo IGP-DI (Lei 9.711/98), até a conta de liquidação, a partir de quando deverá incidir o IPCA-E (Resp. 1.102.484/SP, 3a Seção, Rel. Min. Arnaldo Esteves Lima, j. em 22.04.2009.. DJ de 20.05.2009), e ainda no que couber, a decisão da ADI 4357 pelo STF.
+Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+Na hipótese, por se tratar de condenação judicial de natureza previdenciária, incide o INPC, para fins de correção monetária, no que concerne ao período posterior à entrada em vigor da Lei 11.430/2006, que incluiu o artigo 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+Diante do exposto, dou parcial provimento ao Recurso Especial, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
