@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BRUNA DA SILVA MONTIBELLER em face da decisão de fls. 1065/1066, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Há omissão no julgado. Excelência, em relação à alegação de ausência de indicação dos fundamentos do recurso, a rápida leitura do Recurso Especial, não deixa dúvida sobre a motivação recursal. Vede que justamente no capítulo "2. CABIMENTO DO RECURSO" de suas razões, a ora Embargante sustentou (e-STJ FL. 744/745) contrariedade e negativa de vigência à diversos dispositivos de lei federal, vejamos:
+ ..
+Diante do exposto, de forma respeitosa, e ciente que de fato do recurso não consta expressamente em que alínea pautou-se o recurso, requer seja conhecido o recurso e provido para sanar a omissão, enfrentando-se os fundamentos expostos nas páginas e-STJ FL. 744/745, para então deles constatar a possibilidade de se verificar a exata compreensão da controvérsia.
+De outro lado, referida súmula em momento algum destacou que a não indicação da alínea em que se fundamenta o recurso impede sua admissão. E neste sentido, requer seja enfrentada a contradição apontada, porquanto a súmula indicada informa que "é inadmissível o recurso a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" e no presente caso, nos perece claro que é possível verificar a exata compreensão da controvérsia porquanto consta expressamente do recurso que a decisão do Tribunal a quo contrariou lei federal e em parte negou-lhe a vigência, ou seja, não há a mínima dúvida de que o fundamento do recurso é o art. 105, III, "a", da Constituição Federal (fls. 1068/1070).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, não indicou o permissivo constitucional autorizador do recurso especial.
+Em outras palavras, para que haja a admissão do recurso especial, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto", devendo evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, não menciona, de forma expressa e precisa, qual o permissivo constitucional que autorizaria sua interposição.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
