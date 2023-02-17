@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado por Falconi Consultores S.A., com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fls. 493/494):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. AÇÃO DE COBRANÇA. FAZENDA PÚBLICA. RELAÇÃO CONTRATUAL. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. ART. 405 DO CÓDIGO CIVIL DE 2002. PRECEDENTES. RECURSO CONHECIDO E NÃO PROVIDO. REMESSA NECESSÁRIA CONHECIDA E SENTENÇA PARCIALMENTE MODIFICADA. À UNANIMIDADE.
+1. Apelação. O Recorrente pretende a incidência dos juros de mora a contar do vencimento da parcela prevista no contrato de prestação de serviços celebrado com a administração pública municipal.
+2. Em se tratando de condenação decorrente de relação contratual estabelecida com o Poder Público, os juros de mora devem incidir a partir da citação, a teor do que estabelece o art.405 do Código Civil de 2002. Precedentes.
+3. Recurso conhecido e não provido.
+4. Remessa necessária. Impõe-se a modificação parcial da sentença para adequar o termo inicial dos juros de mora, devendo incidir a partir da citação.
+5. Remessa necessária conhecida e sentença parcialmente modificada para fixar o termo inicial dos juros de mora a partir da citação.
+Opostos embargos declaratórios, foram rejeitados (fls. 533/556).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 489, §1º, IV, V, VI, 1.022, II, do CPC; 397 do CC; 1º da Lei 4.414/1964. Para tanto, sustenta omissão acerca da tese de que "a incidência dos juros moratórios deve ter como termo inicial o vencimento da prestação positiva, líquida e com data certa estabelecida" (fl. 563).
+Afirma que o colegiado não observou que "podem ser formalizadas inúmeras relações com a administração pública e, dentre elas, o adimplemento de obrigações positivas, líquidas e com vencimento a termo", salientando, com isso, que a "a lei determina que a mora se constitui a partir do vencimento da obrigação, não havendo necessidade de se constituir o devedor em mora pela própria natureza da obrigação,  que  isso resulta na configuração da mora ex re, e não ex persona" (fl. 566).
+Aduz que se firmou "contrato de prestação de serviço, estabelecendo datas certas para o adimplemento da obrigação de pagar, contudo, passado o dia de pagamento, o Município permaneceu inerte, constituindo a mora a partir daquela data pré-fixada" (fl. 568).
+Pugna por anular o acórdão, e, subsidiariamente, sua reforma para "alterar o termo inicial da incidência dos juros de mora, reconhecendo que a mora do Recorrido é ex re" (fl. 571).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que diz respeito ao termo inicial dos juros moratórios, melhor sorte socorre a parte recorrente, porque a jurisprudência desta Corte assevera que, "em se tratando de inadimplemento de obrigação contratual, positiva e líquida, o devedor estará em mora a partir do dia do vencimento da obrigação" (AgInt no REsp n. 1.928.405/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/8/2021, DJe de 31/8/2021.)
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. SERVIÇOS DE ZELADORIA. INADIMPLÊNCIA. OMISSÃO. ART. 1022 DO CPC/2015. INOCORRÊNCIA. PRESCRIÇÃO PELA METADE DO PRAZO. BOA-FÉ OBJETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS QUE NÃO AVENTARAM OS ARGUMENTOS. SÚMULA 282/STF. DOCUMENTAÇÃO APTA A AUTORIZAR A COBRANÇA DE FATURAS. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA SUFICIÊNCIA DE DOCUMENTOS. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. INADIMPLÊNCIA CONTRATUAL. PRECEDENTES.
+ ..
+VII - No que diz respeito aos arts. 405 do CC/2002 e 240 do CPC/2015, relativos ao termo inicial dos juros de mora, o entendimento firmado no acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, que é sedimentada no sentido de que o termo inicial dos juros de mora, em caso de obrigação contratual, é o inadimplemento. Precedentes.
+VIII - Agravo conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+(AREsp n. 1.757.253/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/11/2022, DJe de 14/11/2022.)
+ADMINISTRATIVO, CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. CORREÇÃO MONETÁRIA. TERMO INICIAL. PREVISÃO CONTRATUAL. APRESENTAÇÃO DAS FATURAS. VIOLAÇÃO AOS ARTS. 40, XIV, A, E 55, III, DA LEI 8.666/93. ILEGALIDADE. CLÁUSULA NÃO ESCRITA. JUROS DE MORA. TERMO INICIAL. PRIMEIRO DIA APÓS O VENCIMENTO DA OBRIGAÇÃO. ART. 397 DO CÓDIGO CIVIL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+V. Quanto ao termo inicial para a incidência dos juros de mora, a jurisprudência desta Corte entende que, "nos contratos administrativos, os juros de mora são contados a partir do 1º dia do inadimplemento, por se tratar de obrigações líquidas, certas e exigíveis, consoante as disposições do art. 960, primeira parte, do Código Civil de 1916, atual art. 397 do Código Civil de 2002" (STJ, REsp 1.466.703/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 20/02/2015). No mesmo sentido: STJ, AgRg no AREsp 3.033/MS, Rel. Ministr o ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 18/12/2013; EREsp 964.685/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 06/11/2009.
+VI. Agravo Regimental improvido.
+(AgRg no REsp n. 1.409.068/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/6/2016, DJe de 13/6/2016.)
+Assim, o acórdão recorrido não merece subsistir.
+ANTE O EXPOSTO, dou provimento ao recurso especial, nos termos da fundamentação acima. Por conseguinte, restabeleço a sentença de primeiro grau.
+Publique-se.
