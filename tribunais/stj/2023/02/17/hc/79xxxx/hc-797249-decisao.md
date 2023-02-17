@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE RIVALDO SILVA SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2238751-72.2022.8.26.0000.
+Consta dos autos que o Apenado - que está no cumprimento da pena total de 95 (noventa e cinco) anos, 1 (um) mês e 17 (dezessete) dias de reclusão - formulou pedido de progressão ao regime semiaberto em 06/06/2022.
+Sob a alegação de excesso de prazo para apreciação do pleito, a Defesa impetrou habeas corpus perante o Tribunal estadual, cuja ordem foi denegada nos termos do acórdão acostado às fls. 27-30.
+Daí a presente insurgência, em que se repisa o excesso de prazo na condução do feito, pois "é inaceitável a ultrapassagem de tamanho lapso temporal, sem qualquer providência e ação efetiva" (fl. 7).
+Requer, liminarmente e no mérito, seja determinado ao Juízo da Execução Penal que "tome as medidas cabíveis para a mais rápida entrega da tutela jurisdicional do pedido de progressão ao regime semiaberto" (fl. 9).
+O pedido liminar foi indeferido pelo Ministro OG FERNANDES, no recesso forense (fls. 33-34).
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem de habeas corpus (fls. 45-47).
+É o relatório. Decido.
+No caso, a Defesa alega excesso de prazo para análise de benefício executório pleiteado em favor do Apenado, ainda pendente de decisão pelo Juízo das Execuções Penais.
+Pois bem, cumpre ressaltar que o retardo injustificado à prestação jurisdicional viola o princípio da duração razoável do processo, previsto no art. 5.º, inciso LXXVII, da Constituição da República, acrescido pela Emenda Constitucional n. 45/2004 ("a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação").
+Em outras palavras, somente se cogita da existência de constrangimento ilegal quando o excesso de prazo for motivado pelo descaso injustificado do órgão jurisdicional, o que não se verifica na hipótese em tela.
+Com efeito, o Juízo da Execução Penal, na data de 23/01/2023, prestou os seguintes esclarecimentos (fl. 38):
+"Em atenção ao ofício referente aos autos do Habeas Corpus nº 797.249/SP, em que é paciente JOSE RIVALDO SILVA SANTOS, tenho a honra de informar a Vossa Excelência que o paciente foi condenado as sanções de 95 (noventa e cinco) anos, 01 (um) mês e 17 (dezessete) dias de reclusão, em regime fechado, com início do cumprimento de pena na data de 23 de setembro de 1988. Houve interposição de pedido para a progressão ao regime semiaberto, por meio de petição datada de 18 de maio de 2022.
+Por decisão publicada no dia 07 de outubro de 2022, foi determinada a remessa dos autos ao Ministério Público, para manifestação acerca do pleito. Por ora, ainda não houve a apreciação do pedido.
+Destaco que os autos do processo de execução em epígrafe acabaram totalmente digitalizados no mês de novembro de 2021, com outros inúmeros feitos semelhantes, no total de aproximadamente 10.000 (dez mil), fato que aumentou, sobremaneira, o volume de trabalho desse Departamento.
+Conforme informação da Coordenadoria do DEECRIM, 1.ª RAJ, após a migração dos processos físicos das 1.ª, 2.ª e 5.ª Varas das Execuções Criminais da Comarca de São Paulo, foram recebidos o total de 8.993 processos no fluxo Execução Penal Atos (1929 processos principais e 7064 somados) e 2573 petições criminais.
+Acordou-se que quase a totalidade dos 10.922 processos migrados foram redistribuídos sem cálculo de penas, devido às ausências dos respectivos lançamentos dos eventos no histórico de partes, falta da recategorização das peças processuais (inominadas), ausência dos dados do processo origem e vários processos extintos/absolvidos apensados nos autos principais."
+Como se vê, o pedido foi formulado pelo Apenado perante o Juízo da Execução Penal, depois da digitalização dos processos físicos, não sendo examinado até o momento.
+Ocorre que, s egundo as informações, "no dia 07 de outubro de 2022, foi determinada a remessa dos autos ao Ministério Público, para manifestação acerca do pleito" (fl. 38).
+Nessa situação, não se evidencia, por ora, a existência de desídia estatal e injustificada do aparelho judiciário na condução do feito.
+Mutatis mutandis, cito o seguinte julgado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXCESSO DE PRAZO INJUSTIFICADO NA APRECIAÇÃO DO PEDIDO NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO, COM RECOMENDAÇÃO.
+1. Apesar da garantia constitucional que assegura às partes a razoável duração do processo e a celeridade na tramitação do feito (art. 5º, LXXVIII, da Constituição Federal), esta Corte possui entendimento pacificado no sentido de que a demora para a conclusão dos atos processuais não pode ser verificada da simples análise dos prazos previstos em lei, devendo ser examinada de acordo com os princípios da razoabilidade e conforme as peculiaridades do caso concreto.
+2. Na hipótese, não se constata excesso de prazo injustificado, na medida em que as informações prestadas pelo Juízo a quo dão conta de que o pedido de progressão de regime foi formulado "em data recente e de forma genérica, sem acostar aos autos os documentos minimamente necessários para a apreciação da benesse", o que foi confirmado pelo Tribunal de origem.
+3. Agravo regimental desprovido, com recomendação, de ofício, ao Juízo da Execução, para que examine o pedido de progressão de regime formulado pelo agravante. Preconiza-se, igualmente, celeridade." (AgRg no HC 643.721/SP, Rel. Ministro RIBEIRO DANTAS, DJe 08/03/2021.)
+Ante o exposto, DENEGO a ordem de habeas corpus, com recomendação ao Juízo da Execução Penal para que imprima celeridade na apreciação do benefício executório requerido pelo Reeducando.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. ALEGAÇÃO DE EXCESSO DE PRAZO PARA APRECIAÇÃO DE BENEFÍCIO EXECUTÓRIO. AUSÊNCIA DE DESÍDIA ESTATAL NA CONDUÇÃO DO FEITO. ORDEM DENEGADA, COM RECOMENDAÇÃO.
