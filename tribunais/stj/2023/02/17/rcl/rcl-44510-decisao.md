@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de reclamação proposta por BENEDITO LUIZ BEPE, com fundamento nos arts. 988 e seguintes do CPC contra acórdão proferido pela TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL DA 3ª REGIÃO - ESTADO DE SÃO PAULO nos autos do Processo n. 0000708-22.2019.4.03.6319.
+Alega o reclamante que "A Turma Recursal do Juizado Especial Federal da Seção Judiciária de São Paulo proferiu Acordão em total dissonância com a tese fixada pelo STJ no PUIL 452-PE(Acórdão proferido em julgamento de incidente de resolução de demandas repetitivas" (fl. 4).
+Sustenta, outrossim, que "A jurisprudência do STJ assegura o direito à atividade especial para o trabalhador rural empregado na agropecuária com enquadramento por categoria profissional até 28/04/1995. No caso em tela, o reclamante comprovou que trabalhou na categoria profissional trabalhador rural empregado rural na agropecuária, por isso, é possível o enquadramento por categoria profissional até 28/04/1995. Portanto, demonstrada a divergência entre o V. Acórdão proferido neste feito pela Turma Recursal de São Paulo com a decisão do STJ no PUIL 452-PE, que é aplicável ao caso em tela" (fl. 5).
+Concedido o benefício de assistência judiciária gratuita à fl. 371.
+É, no essencial, o relatório.
+Nos termos do art. 105, I, "f", da Constituição Federal, a reclamação dirigida ao Superior Tribunal de Justiça é cabível para a preservação da competência e a garantia da autoridade de suas decisões.
+O Código de Processo Civil dispôs a respeito da legitimidade e cabimento da reclamação no seu art. 988, in verbis:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+§ 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+Como se vê, o direito protegido pela reclamação restringe-se à I) preservação da competência do Tribunal ou II) à garantia da autoridade de suas decisões, como se depreende dos arts. 105, I, "f", da Constituição Federal, 988 do CPC e 187 do Regimento Interno do Superior Tribunal de Justiça.
+Assim, não é cabível para avaliar o acerto ou desacerto das decisões proferidas pelo Tribunal de origem, tampouco adequada à preservação da jurisprudência do STJ ou, ainda, como sucedâneo recursal, como pretende o reclamante.
+No caso concreto, entretanto, verifica-se que a presente reclamação não se enquadra em nenhuma das hipóteses acima delineadas, ficando evidenciado o intuito da sua utilização como sucedâneo recursal.
+Importa asseverar que, conforme jurisprudência desta Corte , não é possível a interposição de reclamação como sucedâneo recursal para dirimir divergência jurisprudencial: "a reclamação constitucional não é a via adequada para preservar a jurisprudência do STJ, mesmo que firmada em recurso repetitivo, mas sim a autoridade de suas decisões tomadas no próprio caso concreto" (AgRg na Rcl 25.299/SP, Relator Ministro Sérgio Kukina, Primeira Seção, DJe de 4/12/2015); "a reclamação constitucional não é instrumento útil para adequar os julgados do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, mesmo que proferidos em sede de recurso repetitivo. Tal procedimento se destina a fazer cumprir decisão proferida em caso concreto que envolva as partes postas no litígio do qual oriundo a reclamação" (AgRg na Rcl n. 22.505/SP, Segunda Seção, Relator Ministro Ricardo Villas Bôas Cueva, DJe de 15/4/2015).
+No mesmo sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA PELO MINISTRO PRESIDENTE DA TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DOS JUIZADOS ESPECIAIS FEDERAIS - TNU. PRETENSÃO DO RECLAMANTE PELA APLICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL PACIFICADO NESTA CORTE. IMPOSSIBILIDADE. NÃO CABIMENTO DA RECLAMAÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão, publicada na vigência do CPC/2015, que indeferiu liminarmente a Reclamação.
+II. A parte agravante ajuizou a Reclamação, ao fundamento de que, "ao julgar o Recurso Inominado interposto pelo agravante, a Egrégia 1ª Turma Recursal da Seção Judiciária de Minas Gerais decidiu de forma contrária à jurisprudência dominante nesse Excelso Tribunal Superior, que é no sentido de que: as certidões de casamento e de nascimento dos filhos, bem como Título de Eleitor e Carteira de Trabalho e Previdência Social (CTPST), são documentos válidos como início de prova material de labor rural".
+III. Nos termos do art. 105, I, f, da Constituição Federal e 988 do CPC/2015, a Reclamação tem como finalidade preservar a competência do Superior Tribunal de Justiça ou garantir a autoridade de suas decisões, sempre que haja indevida usurpação, por parte de outros órgãos, de sua competência constitucional.
+IV. No caso, não se verifica qualquer das hipóteses preconizadas pelo texto constitucional. A parte reclamante defende, em essência, que o julgado recorrido decidiu em dissonância com o entendimento jurisprudencial desta Corte, pretendendo, em verdade, utilizar-se da Reclamação como sucedâneo recursal, o que não é cabível.
+V. Na forma da jurisprudência do Superior Tribunal de Justiça, "não é cabível reclamação diretamente contra decisão de turma recursal ou da própria Turma Nacional, com a finalidade de discutir contrariedade à jurisprudência dominante ou sumulada do STJ" (STJ, AgInt na Rcl 33.990/SP, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 01/02/2018). Nesse sentido: STJ, Rcl 32.098/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 28/09/2020; AgInt na Rcl 40.627/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 23/05/2022.
+VI. Agravo interno improvido.
+(AgInt nos EDcl na Rcl n. 43.288/MG, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 25/10/2022, DJe de 3/11/2022.)
+AGRAVO INTERNO NA RECLAMAÇÃO. PROCESSUAL CIVIL. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+1. É incabível reclamação proposta como sucedâneo recursal,
+2. A Corte Especial do STJ, na Rcl 36.476/SP, concluiu ser inadmissível reclamação para controlar a aplicação de tese firmada em recurso repetitivo. 3. Agravo interno a que se nega provimento. (AgInt na Rcl n. 37.006/ES, relator Ministro Og Fernandes, Primeira Seção, DJe de 17/6/2021. )
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
