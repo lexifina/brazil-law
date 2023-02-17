@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DIEGO FERNANDES CICCONI GARCIA à decisão de fls. 416/417, que não conheceu do recurso.
+Sustenta a parte embargante que:
+02. Ocorre que, conforme é de conhecimento e senso comum, o mês de Abril abriga importantes feriados nacionais, vale dizer:
+Endoenças (5ª feira Santa), 6ª feira Santa e Tiradentes, nos dias 14, 15 e 21 de abril, respectivamente, conforme Provimento CSM 2641/2021.
+03. Assim sendo, considerando que o ora Embargante, parte recorrente, foi intimada do acórdão recorrido em 06/04/2022 - 4ª feira e que o recurso especial foi interposto em 02/05/2022 - 2ª feira, resta flagrante a TEMPESTIVIDADE do mesmo, eis que contando 15 dias úteis, desde o dia seguinte ao da intimação (vale dizer, 07/904 - 5ª feira), até o protocolo (02/05 - 2ª feira), com o desconto dos sábados, domingos e feriados nacionais de conhecimento geral, vale dizer, quinta e sexta- feira santas (dias 14 e 15/04) e Tiradentes (21/04), o prazo final para interposição do recurso era efetivamente, 02/05/2022 como foi, regular e tempestivamente protocolado (fls. 420/421).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+É certo que os feriados nacionais de 15/4/2022 e 21/4/2022 não precisam ser comprovados. Porém, o dia 14/4/2022 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, providência que não foi cumprida.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
