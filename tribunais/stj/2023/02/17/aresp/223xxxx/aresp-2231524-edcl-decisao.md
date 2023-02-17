@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo Banco Santander (Brasil) S.A. em face de decisão que determinou o retorno do agravo em recurso especial ao Tribunal de origem, a fim de realizar o juízo de conformidade, de acordo com o rito previsto no art. 1.030 do CPC, tendo em vista o julgamento do Tema Repetitivo n. 988.
+O embargante, em suas razões, aponta erros materiais na decisão embargada, quais sejam: "(i) primeiro está no primeiro parágrafo da decisão, que qualifica o embargante como "Banco Santander (Brasil) S.AARA ALIMENTOS LTDA", ao invés de Banco Santander (Brasil) S.A.; e (ii) segundo, ao final das razões decidir, expõe que "cumpre ao Tribunal de Justiça do Estado do Paraná, antes de apreciar a admissibilidade do recurso especial", quando, na verdade, cumpre remeter o feito ao Tribunal Regional Federal da 3ª Região." (fl. 1784).
+Pugna, pois, pelo acolhimento dos embargos de declaração, para sanar o erro material apontado.
+A parte embargada não apresentou impugnação (fl. 1791).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para correção de erro material.
+E, no caso dos autos, assiste razão ao embargante.
+A decisão recorrida, ao identificar a parte ativa do agravo em recurso especial, grafou incorretamente o nome do ora embargante (fl. 1776 - primeiro parágrafo). Constata-se, ainda, que a referência ao Tribunal de origem foi equivocada, consignando o Tribunal de Justiça do Estado do Paraná quanto o correto seria o Tribunal Regional Federal da 3ª Região (fl. 1780 - penúltimo parágrafo), devendo ser corrigido o erro material apontado pelo embargante.
+ANTE O EXPOSTO, acolho os embargos declaratórios, para corrigir erro material, a fim de que o primeiro parágrafo da fl. 1776 e o penúltimo parágrafo da fl. 1780 passem a ter a seguinte redação:
+Trata-se de agravo, manejado por Banco Santander (Brasil) S.A., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 1609/1610):
+(..)
+No caso, cumpre ao Tribunal Regional Federal da 3ª Região , antes de apreciar a admissibilida de do recurso especial, dar cumprimento ao rito do art. 1.030, I, b, e II, do CPC, isto é: ou negativa de seguimento do recurso especial no ponto em que o acórdão recorrido estiver em conformidade com o julgado repetitivo; ou encaminhamento do processo ao órgão colegiado para eventual juízo de retratação se o acórdão recorrido divergir do entendimento do STJ. Acaso o órgão colegiado entenda pela aplicabilidade e consonância do caso ao julgado repetitivo, restará à Presidência daquele órgão judicial apenas a negativa de seguimento do recurso especial nos pontos pertinentes.
+Publique-se.
