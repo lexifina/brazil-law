@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por BANCO PAN S.A , contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. MULTA APLICADA PELO PROCON CONFORME OS PARÂMETROS ESTABELECIDOS NO CDC. LEGALIDADE. PROCESSO ADMINISTRATIVO HÍGIDO, COM OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. O Procon tem legitimidade, à luz do poder de polícia, para impor multa por transgressão às regras do Código de Defesa do Consumidor, por expressa previsão do artigo 18, inciso I, do Decreto nº 2.181/97.
+2. Aplicada a penalidade, ao Poder Judiciário não compete a análise do mérito do processo administrativo, devendo averiguar, tão somente, a legalidade de sua condução, em respeito ao princípio da separação dos poderes.
+3. Patenteada a violação às normas consumeristas, inafastável a legalidade da imposição de penalidades administrativas cabíveis, previstas na legislação de regência.
+4. O valor arbitrado a título de multa mostra-se desarrazoado, pois, ainda que a conduta do banco seja reprovável, não houve a demonstração da gravidade do ato que enseja o numerário aplicado, a impor redução da multa administrativamente fixada e confirmada no primeiro grau, visando alcançar o caráter pedagógico da sanção aplicada, servindo para desestimular qualquer outro comportamento recalcitrante.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. SENTENÇA PARCIALMENTE REFORMADA" (fl. 287e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 302/305e), os quais restaram acolhidos, nos seguintes termos:
+"EMENTA: EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. MULTA APLICADA PELO PROCON CONFORME OS PARÂMETROS ESTABELECIDOS NO CDC. LEGALIDADE. PROCESSO ADMINISTRATIVO HÍGIDO, COM OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PRESENÇA DOS REQUISITOS DO ARTIGO 1.022 DO CPC.
+1. Existindo nos embargos de declaração a omissão aduzida, ou quaisquer das hipóteses previstas no art. 1.022 do CPC, devem ser estes acolhidos.
+2. É evidente a omissão do acórdão quando a matéria apresentada não foi devidamente analisada quanto a aplicação do índice da correção monetária. EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS. ACÓRDÃO MODIFICADO" (fl. 322e).
+Nas razões do Recurso Especial (fls. 334/344e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação ao art. 57 do Código de Defesa do Consumidor, sustentando que: a) "é de simples constatação que a multa administrativa no valor de R$10.000,00, mantida pelo tribunal de origem, não obedece aos preceitos legais, não têm como subsistir, pois não atenderam aos critérios ditados no art. 57 do CDC" (fl. 342e); b) a quantificação da multa não observa a gravidade da infração e da vantagem auferida.
+Por fim, requer o provimento do recurso para "reformar o v. Acórdão do E. TJ/GO, reconhecendo a negativa de vigência ao artigo 57 do CDC, para declarar a nulidade do v. acórdão" (fl. 343e).
+Sem contrarrazões.
+Inadmitido o Recurso Especial (fl. 382/384e), foi interposto o presente Agravo (fls. 389/394e).
+Sem contraminuta.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação Anulatória de Débito ajuizada pela parte ora recorrente em face do Estado de Goiás/GO, pugnando pela nulidade do processo administrativo e a aplicação de multa ou, alternativamente, a revisão do valor da multa aplicada pelo PROCON, ao fundamento de infração à Lei Federal 8.078/90.
+Julgada improcedente a demanda, recorreu o autor, e embora tenha sido parcialmente provido o recurso, pelo Tribunal local, reduzindo-se a multa inicialmente aplicada, o ora recorrente entende que remanesce malferido o art. 57 do CDC.
+Daí a interposição do presente Recurso Especial.
+Como destacou a decisão ora agravada, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou, acerca da legalidade da multa que:
+"3.3.3 Em detida análise dos autos, infere-se que foram respeitadas todas as fases do mencionado processo administrativo, bem como os requisitos de competência, finalidade e forma, além das garantias constitucionais do contraditório e da ampla defesa, sendo tal constatação fato incontroverso nos autos.
+3.3.4 Demais disso, como alhures afirmado, a motivação do ato administrativo somente pode ser apreciada pelo Poder Judiciário, quando ocorrer desrespeito ao princípio constitucional da legalidade (CF, art. 37, caput).
+3.3.5 Destarte, tem-se que, na hipótese vertente, revestiu-se de legalidade de todas as etapas do processo administrativo aviado para fins de imposição da multa em discussão, quando foi possibilitado ao insurgente todos os mecanismos de provas admitidos em direito, assegurados os direitos constitucionais da ampla defesa e do contraditório (art. 5º, inciso LV), aliado ao princípio do devido processo legal" (fls. 292e).
+Embora mantida a aplicação da penalidade, o acórdão reconheceu a necessidade de reduzir o valor de R$ 21.562,50 (vinte e um mil, quinhentos e sessenta e dois reais e cinquenta centavos), nos termos do art. 57 do CDC, em razão de sua desproporcionalidade em relação à gravidade da infração, fixando-o novo valor em R$ 10.000,00 (dez mil reais).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. OFENSA AOS ARTS. 458 E 535 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+1. A Corte local manteve a sentença que julgou parcialmente procedente os Embargos para reconhecer o excesso de execução determinando que ela prosseguisse no valor da diferença devida a título de IRPJ, em conformidade com o laudo pericial, e foi categórica ao consignar que não é devida a condenação da União em honorários advocatícios porque a referida cobrança somente ocorreu em razão de a executada ter feito com erro o preenchimento da sua DCTF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O STJ não pode reexaminar os fatos e as provas produzidas nos autos, sob pena de infringir a Súmula 7 do STJ.
+(..)
+6. Agravo Interno não provido" (STJ, AgInt no REsp 1.592.074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DA PROVA. SÚMULA 7/STJ.
+1. Os arts. 2º, caput e parágrafo único, VII, e 50 da Lei n. 9.784/99 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 912.470/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/10/2016).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SÚMULA 83/STJ. APLICABILIDADE AOS RECURSOS ESPECIAIS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. EXECUÇÃO DEFLAGRADA PELO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. NÃO CABIMENTO.
+1. Não se mostra passível de acolhimento os argumentos da parte recorrente que demandam o reexame de matéria fático-probatória, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 803.101/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/05/2016).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
