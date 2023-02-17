@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS ELIAS DE CASTRO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 1002218-58.2017.8.26.0108.
+Infere-se dos autos que o paciente foi condenado, pelo juízo singular, pela prática dos delitos previstos nos arts. 1º, inciso I, alínea "a" c/c art. 1º, § 4º, incisos I e II, da Lei n. 9.455/97 - "Crimes de Tortura", e art. 62, inciso I, do Código Penal, à pena de 3 anos, 1 mês e 10 dias de reclusão, em regime prisional inicialmente semiaberto (fls. 14/16). Na oportunidade, os corréus Marcus e Rubens foram absolvidos da imputação da prática dos referidos delitos (e-STJ fls. 14/16).
+Ambas as partes apelaram. O Tribunal a quo negou provimento ao recurso defensivo e proveu o ministerial para condenar os corréus (e-STJ fls. 17/22).
+Na presente impetração (fls. 3/12), a defesa sustenta que o paciente suporta constrangimento ilegal em razão da fixação de regime prisional inicialmente semiaberto, a despeito do patamar de pena, inferior a 4 anos de reclusão, permitir a fixação de regime prisional aberto.
+Diante disso, pede, liminarmente e no mérito, a concessão da ordem para que seja aplicado o regime prisional inicialmente aberto.
+O pedido liminar foi indeferido pela Presidente desta Corte (e-STJ fls. 26/27).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 51/54).
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113890, Relatora Ministra Rosa Weber, 1ª Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro Sebastião Reis Júnior, 4ª Turma, julgado em 20/3/2014, DJe 10/4/2014 e STJ, HC n. 283.802/SP, Relatora Ministra Laurita Vaz, 5ª Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora os impetrantes não tenham adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, na presente oportunidade, que seja aplicado o regime prisional inicialmente berto.
+Quanto ao regime inicial aplicado, verifica-se que o tema não foi objeto de debate pela Corte local, uma vez que aquele órgão julgador não foi provocado a manifestar-se acerca da apontada ilegalidade.
+Portanto, inexistente pronunciamento do Tribunal de origem sobre a questão ora aventada e não sendo detectado, de plano, flagrante constrangimento ilegal, resulta inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido, segue a jurisprudência deste Tribunal:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. POSSE DE DROGAS PARA CONSUMO PRÓPRIO E DANO. DOSIMETRIA DE PENA. SUPRESSÃO DE INSTÂNCIA. RECURSO EM LIBERDADE INDEFERIDO. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. RISCO AO MEIO SOCIAL. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. ADEQUAÇÃO DA CUSTÓDIA AO REGIME FIXADO NA SENTENÇA. FLAGRANTE ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. Inicialmente, a alegação concernente à errônea dosimetria da pena não foi objeto de exame no acórdão recorrido, o que obsta a análise por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para adequar a prisão preventiva ao regime prisional semiaberto fixado na sentença. (HC 489.465/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 3/6/2019).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. DOSIMETRIA. PENA-BASE. ADOÇÃO DE NOVOS FUNDAMENTOS PELO TRIBUNAL DE ORIGEM NO JULGAMENTO DA APELAÇÃO. REFORMATIO IN PEJUS. INOCORRÊNCIA. ILEGALIDADE DO RECONHECIMENTO DO CONCURSO MATERIAL. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedente.
+ ..
+4. A tese de ilegalidade do reconhecimento do concurso material não foi alvo de deliberação pelo TJAC, o que impossibilidade manifestação deste Sodalício, sob pena de se configurar a prestação jurisdicional inadmissível supressão de instância.
+5. Habeas corpus não conhecido. (HC 490.344/AC, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 6/5/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Intimem-se.
