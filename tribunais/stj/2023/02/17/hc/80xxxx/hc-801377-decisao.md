@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANIEL CHIBANI FERREIRA, apontando como Autoridade coatora a 15.ª Câmara de Direito Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Em confusa petição, a Parte Impetrante indica que a sua insurgência se dá "contra a r. a 15ª câmara de direito criminal que manteve a prisão preventiva em desfavor do paciente" (fl. 03) e informa que tal reclamação se dá no bojo da Ação Penal n. 0009465-91.2022.8.26.0477.
+Relata, inicialmente, que o Paciente foi preso em flagrante, em 11/11/2022, com posterior conversão da custódia em preventiva, em razão da suposta prática dos ilícitos tipificados no art. 180, caput, e no art. 157, § 2.º, II, e § 2.º-A, I, c.c. o art. 14, II, todos do Código Penal, pelos quais foi denunciado (fls. 12-16).
+De fato, de acordo com a denúncia ministerial (fls. 12-16) e com a decisão judicial que a recebeu (fls. 18-19), a Ação Penal n. 0009465-91.2022.8.26.0477 cuida da instrução criminal referente aos crimes supramencionados.
+No entanto, na fundamentação da petição inicial, a Parte Impetrante alega ser imprescindível a rejeição da denúncia ante a falta de justa causa, "ao menos no que tange à denúncia pelo suposto delito de tráfico de drogas (art. 33, caput), pois após longa investigação na esfera da polícia judiciária, a própria autoridade policial não indiciou o acusado pela prática daquele crime, e sim, tão- somente o indiciou pela suposta prática do crime de associação para o tráfico (art. 35)" (fls. 04-05).
+Argumenta, também, que a prisão preventiva é ilegítima.
+A Parte Impetrante acostou aos autos cópia do acórdão do HC n. 2279624-17.2022.8.26.0000, no qual o Colegiado da 5.ª Câmara de Direito Criminal do Tribunal de Justiça de do Estado de São Paulo indeferiu liminarmente o processamento do writ em razão da ausência de documentos necessários à análise do pedido de revogação da prisão preventiva decretada "nos autos da ação penal a que responde pela infração do artigo 33, caput, da Lei nº 11.343/2006" (fl. 21). Eis a ementa do julgado (fl. 21):
+"TRÁFICO DE ENTORPECENTES (art. 33, caput, da Lei nº 11.343/06). Prisão preventiva. Revogação. Impetrante que, regularmente intimada, deixou de instruir a inicial do habeas corpus com cópias dos documentos comprobatórios do direito e dos fatos alegados. Instrução deficiente que obsta o reconhecimento de eventual constrangimento ilegal a recair sobre o paciente. Habeas corpus indeferido liminarmente."
+Requer, liminarmente e no mérito, a concessão de prisão domiciliar em favor do Paciente.
+É o relatório. Decido.
+De início, pontuo que não restou claro o objeto da insurgência da Parte Impetrante - se a prisão preventiva do Paciente decretada no bojo da Ação Penal n. 0009465-91.2022.8.26.047 (que cuida da suposta prática dos ilícitos tipificados no art. 180, caput, e no art. 157, § 2.º, II, e § 2.º-A, I, c.c. o art. 14, II, todos do Código Penal) ou a custódia decretada na Ação Penal que trata o eventual cometimento do crime de tráfico de drogas (número dessa ação penal não foi informado) -, o que inviabiliza a análise desta impetração.
+Ademais, além da confusa petição, observo que, de acordo com o único acórdão acostado às fls. 20-24, a Corte estadual não emitiu qualquer juízo de valor sobre a prisão preventiva decretada na ação penal que trata do crime de tráfico de drogas.
+Dessarte, o Superior Tribunal de Justiça não pode apreciar esse tema, sob pena de incorrer em indevida supressão de instância, este Tribunal não pode se debruçar sobre essa tese.
+A propósito, mutatis mutandis:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE o processamento do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL CONFUSA. IMPOSSIBILIDADE DE COMPREENSÃO DA INSURGÊNCIA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. ILEGALIDADE FLAGRANTE NÃO CONSTATADA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
