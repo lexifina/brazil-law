@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por CLENI ANTUNES ROLIM e LUIZ ZORZI JÚNIOR contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE COBRANÇA SECURITÁRIA. APÓLICES DE SEGURO CONTRATADAS ENTRE 1993 E 1994, DURANTE A IMPLEMENTAÇÃO DO PLANO REAL. DECISÃO INTERLOCUTÓRIA QUE HOMOLOGOU OS CÁLCULOS REALIZADOS POR PERITO CONTÁBIL JUDICIAL PARA APURAÇÃO DO QUANTUM DEBEATUR EXEQUENDO. RECURSO DOS EXEQUENTES. PRETENDIDO O RECONHECIMENTO DA NULIDADE OU DA INCORREÇÃO DOS CÁLCULOS REALIZADOS PELO CONTABILISTA. RECORRENTES QUE AFIRMAM ESTAREM OS CAPITAIS SEGURADOS PREVISTOS NOS CERTIFICADOS DE SEGURO EXPRESSOS EM UNIDADES REAIS DE VALOR (URV) E NÃO EM CRUZEIROS REAIS(CR$), MOEDA CORRENTE À ÉPOCA (ADOTADA PELO PERITO). INSUBSISTÊNCIA. PRETENDIDO O PAGAMENTO DE INDENIZAÇÕES PREVISTAS EM 3 (TRÊS) APÓLICES DE SEGURO. CERTIFICADOS EMITIDOS EM DATA ANTERIOR À ADOÇÃO DA URV PARA CONTRATOS DE SEGURO DE VIDA. ESCORREITO CÔMPUTO PELO PERITO CONTÁBIL DOS CAPITAIS SEGURADOS EM CRUZEIROS REAIS (CR$). DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.." (fl. 154 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, foi alegada 47 do Código de Defesa do Consumidor, 1º da Lei nº 8.880/1994 e 375 do Código de Processo Civil. Defende, em síntese, que "se reconheça a URV como fator monetário aplicável à época dos fatos, com a consequente declaração de que a apólice de seguros emitida em 23 de junho de 1994está com seu valor grafado em URV e não em Cruzeiros Reais" (e-STJ fl. 213).
+Com as contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Inicialmente, no que se refere à ofensa aos arts. 47 do CDC e 375 do CPC, verifica-se que as matérias versadas em tais dispositivos não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No tocante ao valor do seguro o tribunal de origem consignou:
+""In casu, em razão das datas de vigência dos marcos monetários, forçoso reconhecer ser impossível que as apólices de seguro representadas pelas propostas n. 20.000942-5 e 20.012447-4 contenham o capital segurado expresso em URVs ou Reais.
+Isso porque, em exame minucioso dos autos da ação de cobrança, verifica-se que o termo de adesão n. 20.000942-5 e a proposta de adesão n. 20.012447-4, foram emitidos, respectivamente, em 08/09/1993 e03/01/1994, antes da prática de qualquer ato normativo que instituísse a Unidade Real de Valor (fls. 22 e 23 dos autos da Ação de Cobrança n. 0021436-92.2008.8.24.0033, arquivada no e-SAJ, respectivamente).
+Em consequência, forçoso reconhecer que, se inexistia qualquer previsão normativa das referidas unidades monetárias, os capitais segurados expressos em ambas as apólices só podem estar representados na moeda vigente na data da celebração do contrato (CR$). Deve, por conseguinte, ser aplicado no cálculo das indenizações relativas a estas apólices o fator redutor de conversão entre o Cruzeiro Real e o Real, na forma realizada pelo perito contábil (Evento 51 - LAUDO/119 a LAUDO/126, autos principais).
+No que concerne à apólice representada pela matrícula n. 11.0004.0088912.8, correspondente à proposta n. 20.044332-0 (fl. 24 dos autos da ação de cobrança, arquivada no sistema e-SAJ), verifica-se que o certificado individual do seguro daquela apólice, datado de 23/06/1994, prevê cobertura de renda vitalícia de"2.075,20", pensão mensal de "2.075,20" e pecúlio de "350.000,00", com a seguinte referência no tocante à unidade monetária, in verbis:
+"OS VALORES INDICADOS ESTÃO EXPRESSOS EM MOEDA CORRENTE DO PAÍS E ATUALIZADOS ATÉJUNHO DE 1994"
+Na data da emissão do certificado, já vigorava a Lei n. 8.880/1994 (substituindo a MP n. 434/1994),podendo ser aplicáveis às relações jurídicas e financeiras o padrão URV, nos casos em que ela dispõe.
+No ponto, entretanto, o artigo 16 da Lei n. 8.880/1994 prevê, expressamente, que os valores referentes a contratos de seguro permaneceriam expressos em Cruzeiros Reais (CR$) até a emissão do Real (R$), ocorrida a partir de 01/07/1994." (fl.150 e-STJ).
+Rever a conclusão do tribunal local para acolher a pretensão recursal demandaria a análise e interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. COBERTURA. NECESSIDADE. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias quanto à ausência de cobertura do seguro relativa à incapacidade do autor demandaria a análise de fatos e provas da causa e do contrato firmado pelas partes, o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+3. Agravo interno não provido"
+(AgInt no AgInt no AREsp n. 1.970.084/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se
