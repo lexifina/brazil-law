@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PROCESSO
+Recursos administrativos Protocolos posteriores Tutela de urgência Extensão Possibilidade:
+- O pedido de extensão da tutela de urgência não afeta o princípio do juiz natural, nem implica em violação ao princípio da livre distribuição, garantindo apenas o exercício de defesa, e, principalmente, o direito de protocolo administrativo, enquanto não proferida a sentença.
+Alega violação do art. 1º, § 3º, da Lei n. 8.347/1992 e do art. 1.059 do CPC, no que concerne à "impossibilidade de concessão de liminar contra a Fazenda Pública que esgote o objeto da ação, bem como que corresponda a determinação de pagamento" (fl. 290), trazendo os seguintes argumentos:
+ ..  não há meios de se admitir a concessão da liminar, na forma concedida no v. acórdão de julgamento do Agravo de Instrumento, tratando-se claramente de esgotamento do pedido principal, que consiste justamente na determinação de obrigação de fazer consistente na realização dos protocolos das defesas e dos recurso administrativos.
+Vale lembrar que as restrições nesse sentido constantes da Lei nº 9.494/97 tiveram sua constitucionalidade assegurada pelo Supremo Tribunal Federal na ADC nº 4- DF.
+A doutrina igualmente faz menção às citadas restrições ao deferimento de antecipação de tutela ou cautelares contra a Fazenda Pública, consoante se extrai dos apontamentos feitos por Leonardo Carneiro da Cunha.
+ ..
+Como bem lembrado pelo processualista, a norma do artigo 14, 3º, da Lei 12.016/09 interpretada junto com o já citado artigo 7º, § 2º e com o artigo 1059 do Código de Processo Civil, revela a intenção do legislador em impedir que haja antecipação integral de uma tutela antes de decisão de mérito definitiva.
+Dessa forma, resta claro, que ao acolher integralmente liminar reconhecidamente satisfativa, houve afronta aos interesses públicos protegidos pelos dispositivos da Legislação Federal já mencionados, o que se requer seja reconhecido dando-se provimento a este recurso, para reformar o v. acórdão recorrido, negando-se provimento ao próprio Agravo de Instrumento. (fls. 290/291).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
