@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por LATICÍNIOS MODENA LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA CONTRA DECISÃO QUE REJEITOU AIMPUGNAÇÃO À PENHORA E O PEDIDO DE SUSPENSÃO DAEXECUÇÃO. NÃO ACOLHIMENTO. DESNECESSIDADE DEINTIMAÇÃO DO DEVEDOR PARA, APÓS A REJEIÇÃO DE SUAIMPUGNAÇÃO, PAGAR VOLUNTARIAMENTE O SALDODEVEDOR. AUSÊNCIA DE PREVISÃO LEGAL. NÃORECONHECIMENTO, ADEMAIS, DE EXCESSO DE EXECUÇÃO. DECISÃO AGRAVADA MANTIDA. RECURSO CONHECIDO ENÃO PROVIDO" (fl. 165, e-STJ).
+No recurso especial, a recorrente alega haver necessidade de manutenção da tutela de urgência deferida no primeiro grau, mantendo a suspensão do leilão designado.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+Com efeito, verifica-se a deficiência da fundamentação recursal de fls. 112-120 (e-STJ), visto que a parte recorrente não indicou de modo preciso os dispositivos legais violados, atraindo o óbice da Súmula nº 284/STF.
+Confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284 DO STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. (..)
+2. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+3. "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+4. Agravo Interno não conhecido" (AgInt no AREsp 1.773.664/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 29/3/2021, DJe 6/4/2021 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. PEDIDO GENÉRICO. ANÁLISE LÓGICO-SISTEMÁTICA DA EXORDIAL. NÃO CONSTATAÇÃO. REVISÃO. SÚMULA 7/STJ. CONTRATO DE PROMESSA DE COMPRA E VENDA. RESCISÃO. INICIATIVA DO ADQUIRENTE. POSSIBILIDADE. RETENÇÃO DE PARTE DAS PARCELAS PAGAS. PERCENTUAL DE 25%. INSURGÊNCIA. AUSÊNCIA DE INTERESSE RECURSAL. ARRAS CONFIRMATÓRIAS. PERDIMENTO INTEGRAL. IMPOSSIBILIDADE. TAXA DE FRUIÇÃO. IMISSÃO NA POSSE. INEXISTÊNCIA. IMPOSTOS. DESPESAS CONDOMINIAIS. RESPONSABILIDADE DA COMPRADORA. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. NÃO CABIMENTO. AUSÊNCIA DE MORA. JUROS. CORREÇÃO MONETÁRIA. COMPENSAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. FALTA DE CITAÇÃO DO ARTIGO DE LEI VIOLADO. SÚMULA 284/STF. PAGAMENTO. INEXISTÊNCIA DE COMPROVAÇÃO. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO. (..)
+7. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de incidir a Súmula 284/STF.
+8. Considerando que os fundamentos do acórdão recorrido, quanto à ausência de comprovação dos valores pagos pela recorrida e ao equívoco no critério de cálculo dos honorários sucumbenciais, não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula 283 do Supremo Tribunal Federal.
+9. Agravo interno desprovido" (AgInt no REsp 1.881.300/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/3/2021, DJe 3/3/2021 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista não ter havido condenação em honorários sucumbenciais na origem.
+Publique-se.
+Intimem-se.
