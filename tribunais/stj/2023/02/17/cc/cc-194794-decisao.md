@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Conflito de Competência, instaurado entre o JUIZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL DE ITAPEVA - SJ/SP, ora suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE APIAÍ- SP , ora suscitado, nos autos da ação ajuizada pela parte interessada, em face do INSS.
+O Juízo de Direito declinou de sua competência, ao recusar o cumprimento da Carta Precatória, aduzindo, em apertada síntese, que "a Comarca de Apiaí dispõe de sala passiva no Fórum, que permite a oitiva de partes e testemunhas por videoconferência diretamente pelo juízo deprecante" (fls. 98/100e).
+O Juízo Federal, por sua vez, suscitou o presente Conflito, nos seguintes termos:
+"Conforme dito alhures, o Juízo suscitado, recebendo carta precatória deste Juízo suscitante para o fim de que ele promovesse a oitiva de testemunhas residentes em sua Comarca, recusou-se em cumpri-la, oficiando a este suscitante para a colheita da prova oral diretamente.
+A decisão do juízo suscitado, como dela se infere, não está respaldada em lei, mas nos atos normativos nela referidos.
+Respalda-se na Resolução nº 354/2020, do CNJ.
+Ocorre, todavia, que o CPC, acerca do tema, a faculta possibilidade de realização de oitiva das testemunhas por videoconferência, não se tratando, pois, de imposição legal, de modo que, s.m.j., ao pretender obrigar os juízes a adotarem como regra esse sistema, a Resolução em apreço transborda dos limites regulamentares que lhe são permitidos pela legislação a que se subordina.
+Aliás, ela não só ultrapassa os limites normativos que lhe cabiam, como inverte a lógica empregada no CPC, onde a regra é a deprecação das oitivas e não a videoconferência. A exceção virou regra e vice-versa.
+(..)
+Impende destacar que o C. STJ tem decidido, reiteradamente, competir ao Juízo Deprecado a realização das audiências, conforme recentes decisões monocráticas: , CC 177226 Rel. Ministra Regina Helena Costa; CC 178009, Rel. Ministro Francisco Falcão; CC 179171, Rel. Ministro Gurgel de Faria; CC 184413 Ministro Herman Benjamin; CC 185914, Rel. Ministro Og. Fernandes; CC 181528, Rel. Ministro Manoel Erhardt; Rel. Ministro, CC 183724 Rel. Mauro Campbell Marques.
+Ressalte-se, ainda, que em relação ao Juízo Suscitado, já houve conflito de competência suscitado (CC 185914, 188115 e 188116), no qual foi determinado que cumprisse o ato deprecado (realização de audiência).
+Não fosse o bastante, com a modificação das regras de competência delegada promovida pelo art. 3º da Lei nº 13.876/2019, que alterou o art. 15, III, da Lei nº 5.010/66, as causas previdenciárias das Comarcas de Capão Bonito, Itaberá, Itararé e Buri, passaram a ser todas da competência privativa da Subseção Judiciária de Itapeva, composta por apenas uma Vara Federal com JEF Adjunto (Lei nº 13.876/2019, RESOLUÇÃO PRES nº 322/2019 alterada pela RESOLUÇÃO PRES nº 324/2020, ambas conforme a Resolução CJF nº 603/2019).
+Essa mudança legislativa provocou o aumento de mais de 300% no número da população atendida, que foi de 126.405 para 383.312 habitantes.
+Preocupa-se este Juízo suscitante que a vingar a inversão das regras de competência invocadas pelo Juízo Suscitado, certamente inviabilizará a prestação da tutela jurisdicional nesta Justiça Federal.
+Com efeito, esta Subseção Judiciária está localizada no sudoeste paulista, a segunda região mais pobre do Estado de São Paulo, fora dos eixos das grandes rodovias que ligam o norte ao sul e leste a oeste do Estado, onde há intensa atividade rurícola, notadamente de boias-frias, e, portanto, elevado número de processos em que a realização de audiências é imprescindível.
+E como diz a Resolução 354 do CNJ em suas considerações, seu propósito é de impulsionar o Poder Judiciário à melhor prestação jurisdicional, o que, por certo, não será alcançado com a imposição deste ato normativo, desprezando-se as peculiaridades desta região.
+Por tais razões, SUSCITO conflito negativo de , submetendo-o à apreciação do Superior Tribunal de competência Justiça, nos termos do art. 66, inc. II, c.c. o art. 953, inc. I, ambos do Código de Processo Civil, ante a ausência de hipótese legal justificadora no art. 267 do mesmo diploma legal, servindo o presente como Ofício" (fls. 3/8e).
+Com razão o juízo suscitante.
+No caso concreto, no conflito negativo de competência, debate-se sobre a recusa no cumprimento de carta precatória que objetiva a colheita de prova oral de testemunhas da parte interessada.
+O Código de Processo Civil, no art. 267 e incisos, prevê rol taxativo para hipóteses de recusa de cumprimento de carta precatória, sendo estas:
+"I - a carta não estiver revestida dos requisitos legais;
+II - faltar ao juiz competência em razão da matéria ou da hierarquia;
+III - o juiz tiver dúvida acerca de sua autenticidade".
+Depreende-se dos autos que a motivação para a recusa adotada pelo juízo suscitado não se encontra prevista nas razões elencadas. Com efeito, da análise do dispositivo acima transcrito, verifica-se que a possibilidade de oitiva de testemunha por videoconferência não está inserido no rol do referido artigo, de modo a configurar, em verdade, um recusa injustificada ao cumprimento da carta precatória.
+A propósito:
+"CONFLITO DE COMPETÊNCIA. DIREITO PREVIDENCIÁRIO. OITIVA DE TESTEMUNHA. CARTA PRECATÓRIA. VIDEOCONFERÊNCIA. NÃO OBRIGATORIEDADE. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO.
+I - O art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória. II - A prática de atos processuais por videoconferência é uma faculdade do juízo deprecante, não competindo ao juízo deprecado a determinação de forma diversa da realização de audiência.
+III - Conflito de competência conhecido para declarar competente para a causa o Juízo Federal da 2ª Vara do Juizado Especial Cível e Criminal de Pouso Alegre/MG" (STJ, CC 165.381/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 14/06/2019).
+Nesse sentido, ainda, as seguintes decisões monocráticas, que apreciaram casos análogos aos dos autos: CC 193.255/SP, Rel. Ministro HERMAN BENJAMIN, Dje. de 09/12/2022; CC 191.728/SP, Rel. Ministro HUMBERTO MARTINS, DJe de 06/12/2022; CC 193.256/SP, Rel. Ministra REGINA HELENA COSTA, DJe de 29/11/2022 e CC 184.413/SP, Rel. Ministro HERMAN BENJAMIN, DJe de 17/12/2021.
+Ante o exposto, com fundamento no art . 955, parágrafo único, inciso I, do CPC/2015, conheço do conflito e declaro a competência do JUÍZO DE DIREITO DA VARA ÚNICA DE APIAÍ - SP, o suscitado, em consonância com os precedentes desta Corte a respeito da matéria.
+I.
