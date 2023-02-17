@@ -1,0 +1,53 @@
+DECISÃO
+JOÃO VITOR DEMETRIO alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Santa Catarina (HC n. 5065061-05.2022.8.24.0000).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para a manutenção da prisão processual do paciente, pela suposta prática do crime previsto no art. 157, § 2º, II, do Código Penal. Aduz que não foram observadas as disposições do art. 226 do Código de Processo Penal para o reconhecimento do acusado. Assevera que, se condenado, será imposto ao réu regime menos gravoso.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pela denegação da ordem (fls. 306-307; 311-313; 316-321).
+Decido.
+Expõem os autos que o Juízo monocrático decretou a prisão preventiva de dois investigados, sob estes motivos (fls. 236-240):
+Extrai-se do Boletim de Ocorrência  ..  que a suposta vítima  .. , por volta da 01h00min, próximo ao banheiro público que fica ao lado da Igreja Matriz Nosso Senhor do Bonfim,  ..  teria tido seu celular Samsung J2 e R$ 70,00 em espécie subtraídos por três pessoas que lhe cercaram e agrediram com empurrões, socos e chutes, que resultaram em lesões em seu rosto, vindo elas, após ter o bem em poder, deixado o local. João ainda disse conhecer dois dos três possíveis agressores, indicando o local de sua morada.
+ ..
+Em relação ao reconhecimento fotográfico, tenho que, ao menos neste momento, em que são buscados indicativos de autoria, sua realização foi válida, haja vista que, além de ter sido observado o regramento do art. 226 do CPP, a possível vítima afirmou ter ciência de quem seriam seus agressores, além de ter descrito as características físicas dos seus agressores em sua oitiva perante a autoridade policial, conforme declaração constante na fl. 9  .. :
+ ..  estava caminhando em direção à sua residência, quando foi abordado por três pessoas, sendo uma mulher de estatura baixa, magra, cutis negra, cabelos curtos cacheados, e dois homens, sendo um de estatura baixa, "fortinho", cutis negra, usava boné, e o outro de estatura mediana, cerca de um 1,70m, cutis branca, forte, usava boné, e possuía uma característica marcante, estava com os cabelos tingidos na cor vermelha;  ..  QUE os dois homens já chegaram batendo no declarante, o homem de cutis branca e cabeça vermelha chegou esbarrando no declarante e, juntamente com o outro homem, de cutis negra, começaram a dar socos; QUE o declarante caiu no chão e continuou sendo agredido com chutes pelos dois homens, enquanto a mulher incitava eles a continuarem com as agressões, verbalizando: "podem bater à vontade";  ..  QUE, indagado se já conhecia os envolvidos na prática do crime, disse sim, apenas "de vista", a mulher mora em frente ao "Bar do Peroba"; QUE acredita ter sido perseguido  por  estes autores desde a danceteria AJEEV SOM, pois eles estavam causando tumulto na saída da danceteria e tentaram entrar no mesmo ônibus, mas foram impedidos pelo motorista  .. .
+Portanto, tenho que presente a materialidade do crime de roubo e indícios de autoria em relação aos representados INDIAMARA ALVES FLAUSINO e ANDERSON ALVES ROSA.
+ ..
+A periculosidade dos representados ainda é ratificada pelos seus antecedentes criminais  .. , em que é possível verificar que INDIAMARA ALVES FLAUSINO ostenta recente condenação transitada em julgado pela prática do crime de furto, estando em cumprimento de pena  .. , mesma situação de ANDERSON ALVES ROSA, que possui condenação transitada em julgado pelo crime de tráfico e associação para fins de tráfico de 20/05/2020, também cumprindo pena.
+ ..
+Por estar razões, entendo necessária a imposição da prisão preventiva para garantia da ordem pública, sendo insuficiente a adoção de medidas cautelares diversas da prisão (art. 282, § 6º, do Código de Processo Penal).
+Em 28/10/2022, ao receber a denúncia, o Magistrado de primeiro grau impôs a custódia provisória do ora paciente, in verbis (fls. 52-54):
+6. Por fim, passo a analisar o pedido de prisão preventiva formulado pela autoridade policial contra o denunciado JOÃO VITOR DEMETRIO  .. .
+ ..
+A possível vítima acabou por realizar o reconhecimento dos possíveis agressores por meio de fotografias no âmbito policial, tendo reconhecido INDIAMARA ALVES FLAUSINO e ANDERSON ALVES ROSA  .. .
+Restou pendente, porém, o reconhecimento da terceira pessoa envolvida na aparente prática criminosa, tendo-se informações que seria a pessoa de alcunha "Bololô", conforme imagens constantes nas fls. 20/29 do doc. INQ1 dos autos n. 5005913-33.2022.8.24.0010.
+Nas investigações, a Polícia Civil aparentemente logrou êxito em identificar "Bololô" como sendo JOÃO VITOR DEMETRIO, o qual foi identificado por INDIAMARA ALVES FLAUSINO em seu interrogatório à autoridade policial, ocasião em que indicou que "JOÃO BOLOLÔ" e Jonathan Alves Torres bateram na vítima  .. .
+A identidade de "Bololô" é reforçada pela declaração de Volnei Neves, que realizou o transporte dos acusados quando dos fatos, tendo identificado os irmãos INDIAMARA ALVES FLAUSINO e ANDERSON ALVES ROSA, bem como JOÃO VITOR DEMETRIO, vulgo "Bololô", como as pessoas a quem prestou o serviço de transporte  .. .
+ ..
+Demonstrada também o periculum libertatis do representado, haja vista terem aparentemente cometido crime de roubo, de elevada gravidade e reprovabilidade, em concurso de agentes, com várias agressões à possível vítima, a qual foi surpreendida ao sair do sanitário público e restou impossibilitada de se defender em razão da superioridade numérica dos agentes.
+ ..
+Deste modo, a prisão preventiva se revela imprescindível para a garantia da ordem pública, considerando a periculosidade em concreto do representado, o qual, como mencionado, aparentemente cometeu crime doloso punido com pena privativa de liberdade máxima superior a 4 anos, em concurso de agentes, em local ermo em razão do horário, revelando, desta maneira, menosprezo para com o ordenamento jurídico.
+Por estar razões, entendo necessária a imposição da prisão preventiva para garantia da ordem pública, sendo insuficiente a adoção de medidas cautelares diversas da prisão (art. 282, § 6, do Código de Processo Penal).
+Ante o exposto, DECRETO a prisão preventiva de JOÃO VITOR DEMETRIO para garantia da ordem pública, forte nos arts. 312 e 313, caput, inciso I, ambos do Código de Processo Penal.
+O Tribunal a quo denegou o writ originário.
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que, nos dias 6, 13 e 15/2/2023, foram juntados memoriais à ação penal.
+Feitos esses registros, passo à análise do mandamus.
+De início, noto que a alegada afronta ao disposto no art. 226 do CPP não foi apreciada pelo Tribunal catarinense. Dessarte, eventual exame da matéria por esta Corte Superior daria ensejo à indevida supressão de instância.
+De mais a mais, na espécie, observo que, ao menos em princípio, o reconhecimento na Delegacia de Polícia não foi o único fator que justificou o cárcere provisório do paciente. Além da descrição das características físicas dos agressores pela vítima, João Vitor Demetrio foi identificado por imagens de câmeras de segurança, pelo depoimento da corré e pelas declarações do motorista que fez o transporte dos investigados em direção ao local onde, em tese, foi praticado o roubo.
+Ao que se vê, o modus operandi expresso pelas instâncias ordinárias é bastante, ao menos por ora, para apontar a presença do periculum libertatis e amparar, a contento, o decreto constritivo, uma vez que evidencia a gravidade concreta e acentuada das condutas.
+A propósito, narram os autos que a suposta infração penal foi provocada por três pessoas, em via pública, mediante violência real, com chutes, socos no rosto e empurrões no ofendido, que levou às lesões corporais retratadas no laudo pericial.
+Além da superioridade numérica de agentes, que acarretou a impossibilidade de a vítima se defender, as decisões que instruem o writ relatam que as agressões extrapolam as elementares do tipo penal.
+Nesse sentido:
+ ..  2. No caso, a manutenção da prisão preventiva está justificada no modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática de crime de roubo majorado pelo concurso de agentes e emprego de extrema violência, incluindo diversos socos na cabeça da vítima e ameaça de morte. Tais circunstâncias evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de roubo.
+3. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+4. Os fundamentos adotados para a imposição da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..
+7. Ordem denegada.
+(HC n. 525.502/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 24/10/2019.)
+ ..  1. Mostra-se devidamente fundamentada a segregação preventiva em hipótese na qual o modus operandi do delito o reveste de especial gravidade. No caso, a excessiva violência utilizada pelo recorrente que, com o uso de uma espátula afiada, agrediu a vítima causando-lhe um corte profundo em seu braço, extrapola as elementares do tipo penal e revela sua acentuada periculosidade, reclamando a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP.
+2. O entendimento desta Corte é assente no sentido de que, estando presentes os requisitos autorizadores da segregação preventiva, eventuais condições pessoais favoráveis não são suficientes para afastá-la. Precedentes.
+3. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+4. Recurso desprovido.
+(RHC n. 74.030/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/10/2016.)
+Quanto à tese de desproporcionalidade da segregação preventiva com o regime que, em caso de eventual condenação, será imposto ao acusado, a jurisprudência deste Superior Tribunal é firme ao asseverar que a análise desfavorável das circunstâncias judiciais ou, até mesmo, a menção a elementos concretos dos autos, indicativos do risco de reiteração delitiva, são idôneos para a fixação de regime prisional mais gravoso.
+Dadas as apontadas contingências do fato, não se mostra cabível e suficiente, ao menos por ora, a fixação de providências alternativas (art. 282 c/c art. 319 do CPP).
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
