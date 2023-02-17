@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO COMERCIAL PORTUGUES S.A. contra decisão que inadmitiu o recurso especial.
+No apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, o recorrente insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO UNIPESSOAL, QUE NÃO CONHECEU DO INSTRUMENTAL, PORQUANTO PREJUDICADO. IRRESIGNAÇÃO. PRELIMINAR DE NULIDADE DA MONOCRÁTICA. REJEIÇÃO. INEXISTÊNCIA DE DECISÃO SURPRESA (ART. 10 DO CÓDIGO DE PROCESSO CIVIL). DECISÃO UNIPESSOAL QUE SE INSERE DENTRE OS PODERES DO RELATOR (ART. 932, III, DA LEI FEDERAL N.º 13.105/2015). MÉRITO. DECISÃO DO MM. JUIZ QUE DEFERIU A INCORPORAÇÃO PELA RECUPERANDA, ORA AGRAVADA, DE OUTRA SOCIEDADE EMPRESÁRIA, COMO MEIO DE REESTRUTURAÇÃO DE ATIVOS. SUPERVENIÊNCIA DE ASSEMBLEIA GERAL DE CREDORES E, A SEGUIR, HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. SOBERANIA DAS DELIBERAÇÕES DA A.G.C.. PERDA DE OBJETO RECURSAL ACERTADAMENTE DECIDIDA. AGRAVANTE QUE JÁ INTERPÔS NOVO AGRAVO DE INSTRUMENTO, INSURGINDO-SE, AGORA, CONTRA A HOMOLOGAÇÃO DO P.R.J. AGRAVO INTERNO CONHECIDO E DESPROVIDO" (e-STJ fl. 360).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 418-423).
+No especial (e-STJ fls. 455-487), o recorrente aponta violação dos seguintes dispositivos com as respectivas teses:
+(i) art igo 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015 - negativa de prestação jurisdicional no julgamento dos embargos de declaração e deficiência de fundamentação do acórdão recorrido;
+(ii) artigos 10 e 932, inciso III, do Código de Processo Civil de 2015 - necessidade de intimação das partes sobre fato superveniente e persistência do interesse recursal;
+(iii) artigos 22, inciso II, alínea "a", 47, 49 e 50, § 1º, da LRE, 166, inciso III, 169 e 172 do Código Civil, 232 da LSA e 792, inciso III, do Código de Processo Civil de 2015 - a incorporação é fraudulenta e sequer poderia ser convalidada pelos credores;
+(iv) artigo 35, inciso I, alíneas "a" e "f" da LRE - a incorporação não pode ser deferida sem prévia manifestação dos credores; e
+(v) artigo 313, inciso V, alínea "a", do Código de Processo Civil de 2015 - necessidade de suspensão do recurso até o julgamento final do agravo que discute a homologação do plano de recuperação judicial.
+Com as contrarrazões, e não admitido o recurso na origem, adveio o presente agravo.
+Por meio de petição, protocolizada sob o nº 438.317/2022 (e-STJ fls. 1.013-1.026), o recorrente postula a atribuição de efeito suspensivo ao recurso especial.
+Os autos foram originalmente distribuídos ao Ministro Marco Buzzi (e-STJ fl. 1.155) e redistribuídos por prevenção (e-STJ fl. 1.159).
+O Ministério Público Federal emitiu parecer pelo não provimento do agravo (e-STJ fls. 1.172-1.177).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional e à apontada deficiência de fundamentação do acórdão recorrido (artigo 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015), agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019 - grifou-se)
+Quanto ao mais, registra-se que, a despeito do extenso rol de dispositivos apontados como violados no apelo nobre, apenas foram efetivamente prequestionados aqueles relacionados com o princípio da proibição da decisão surpresa (artigos 10 e 932, inciso III, do Código de Processo Civil de 2015), de modo que, quanto aos demais, inviável o conhecimento do recurso por força das Súmulas nº 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo") e nº 282/STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+E, nesse aspecto, não colhe a inconformidade do recorrente porque o acórdão recorrido está em harmonia com a orientação desta Corte no sentido de que a verificação dos pressupostos de admissibilidade do recurso não caracteriza decisão surpresa, consoante se observa dos seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. DIA DE CORPUS CHRISTI. FERIADO LOCAL. COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. PREJUDICADO O AGRAVO EM RECURSO ESPECIAL ADESIVO DA PARTE AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a parte deverá comprovar a existência de feriados locais no ato da interposição do recurso, nos termos dos arts. 219, caput, 994, VI e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do CPC/2015.
+2. A orientação jurisprudencial desta Corte Superior entende que o dia de Corpus Christi é considerado feriado local para fins de comprovação da tempestividade recursal.
+3. A verificação dos pressupostos de admissibilidade do recurso não caracteriza decisão surpresa.
+4. Considerando que o agravo em recurso especial principal não foi admitido, torna-se prejudicado o exame do agravo em recurso especial adesivo manejado pela parte agravada.
+5. Agravo interno desprovido".
+(AgInt no AREsp n. 2.063.421/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022 - grifou-se)
+Além disso, não há falar em decisão surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de oitiva delas, até porque a lei deve ser do conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO INSURGÊNCIA DA PARTE DEMANDANTE.
+1.Não se conhece da alegada violação dos arts. 489 e 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes.
+1.1Na forma da jurisprudência do STJ, é inviável o conhecimento do recurso especial pelo dissídio jurisprudencial, no que se refere à apontada existência de ofensa ao disposto nos arts. 489 e 1.022 do CPC/2015, porquanto a verificação de ocorrência dos vícios elencados nos referidos dispositivos depende da análise das peculiaridades do caso concreto. Precedentes.
+2. Segundo o entendimento jurisprudencial desta Corte, "não há falar em decisão surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de oitiva delas, até porque a lei deve ser do conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação" (REsp n. 1.755.266/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2018, DJe 20/11/2018).
+3. Segundo o sistema da persuasão racional, adotado pela legislação processual civil (artigos 130 e 131 do CPC/1973 e 371 do CPC/2015), o magistrado é livre para examinar as provas dos autos, formando com base nelas a sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento, ainda que em sentido oposto ao pretendido pela parte. Precedentes.
+3.1 A revisão da s conclusões a que chegou o Tribunal de origem, no sentido da idoneidade do laudo pericial em que se baseou a sentença, demandaria o revolvimento do acervo fático-probatório dos autos, o que é inviável nos termos da Súmula 7/STJ.
+4. Agravo interno desprovido".
+(AgInt no AREsp n. 1.895.370/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021 - grifou-se)
+Incide, na espécie, a Súmula nº 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, prejudicado o pedido de efeito suspensivo .
+Publique-se.
+Intimem-se.
