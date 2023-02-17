@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 26):
+Apelação Criminal Lesão corporal de natureza grave Sentença condenatória Recursos defensivos Preliminar de nulidade da decisão que suspendeu o benefício da Justiça Gratuita Nulidade não demonstrada - A concessão dos benefícios da Justiça Gratuita não exclui a condenação dos réus ao pagamento das custas processuais, apenas suspende a sua exigibilidade pelo prazo de cinco anos Condenação mantida Materialidade e autoria comprovadas Declarações da vítima prestadas de forma harmônica, corroboradas por laudos periciais e depoimentos testemunhais Penas e regime motivadamente fixados Reprimenda fixada acima do mínimo legal Confissão espontânea reconhecida na origem - Regime Semiaberto em razão da valoração negativa das circunstâncias judiciais e da gravidade concreta do delito perpetrado Impossibilidade de substituição da pena privativa de liberdade pela restritiva de direitos, ou do sursis penal, por ausência dos requisitos legais Recursos improvidos.
+Consta dos autos que o paciente foi condenado pela prática do crime tipificado no art. 129, § 1º, I, do Código Penal, à pena de 1 ano e 8 meses de reclusão, em regime inicial semiaberto.
+Interposta apelação pela defesa, o Tribunal de origem negou-lhe provimento.
+Neste writ, alega a defesa nulidade da sentença, pois "o Magistrado a quo incluiu a qualificadora do artigo 33 do CP, também fato que não foi requerido pelo Ministério Público, assim o Magistrado incorreu em mutatis libelli trazendo nulidade à decisão combatida" (fl. 5).
+Informa, ainda, que "o paciente está aguardando julgamento do seu HC HC 789638/SP (2022/0389098-0) (..) Porém, o Juiz da VEC desconsiderou a decisão do Tribunal Superior e expediu Mandado de Prisão" (fl. 4).
+Requer, liminarmente e no mérito, seja concedida a ordem para reformar a sentença e o acórdão.
+Todavia, em consulta ao sistema processual desta Corte Superior, verifica-se que a pretensão em relação à nulidade da sentença já está sendo apreciada por esta Corte nos autos do habeas corpus n. 789.638/SP, cuja decisão, em sede liminar, foi publicada em 15/12 /2022, tratando-se, portanto, de mera reiteração de pedido.
+Quanto à expedição do mandado de prisão , verifica-se dos autos que a matéria alegada não foi examinada pelo Tribunal a quo, o que obsta a apreciação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
