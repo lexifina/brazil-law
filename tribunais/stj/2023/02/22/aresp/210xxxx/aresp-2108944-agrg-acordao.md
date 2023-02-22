@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CORRUPÇÃO ATIVA.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DE  FUNDAMENTO  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+I  -  O  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  firmado  anteriormente,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  por  seus  próprios  fundamentos.
+II  -  A  ausência  de  impugnação  aos  fundamentos  da  decisão  que  não  admitiu  o  recurso  especial  impõe  o  não  conhecimento  do  agravo  em  recurso  especial.
+III  -  In  casu,  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  o  óbice  da  Súmula  7/STJ.
+IV - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedentes ).
+Agravo  regimental  desprovido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ANTÔNIO CARLOS RABELO NASCIMENTO,  contra  decisão  de fls. 4.374/4.380 que não conheceu do  agravo  em  recurso  especial,  em  razão  da  ausência  de  impugnação  específica  a  fundamento  da  decisão  que  inadmitiu  o  apelo  nobre.
+Nas  razões  deste  agravo  regimental  ,  a  Defesa  assevera  que  "(..)  a leitura da r. decisão agravada permite a conclusão de que diversos argumentos lançados no agravo em recurso especial foram desconsiderados e que diversos precedentes demonstrando a inaplicabilidade do óbice da Súmula 07/STJ ao caso em tela nem sequer foram apreciados"  (fl.  4.425).
+Ademais, sustenta que "(..) se alguma violação ao princípio da dialeticidade houve, esta se deu pela r. decisão ora agravada, que nem sequer mencionou (menos ainda analisou) diversos argumentos defensivos capazes de infirmar a conclusão adotada pelo eminente relator, em flagrante violação ao artigo 315, §2º, inciso IV, do CPP, e concomitante ofensa aos postulados constitucionais do JUÍZO NATURAL (artigo 5º, inciso LIII, da CF/88), do DEVIDO PROCESSO LEGAL (artigo 5º, inciso LIV, da CF/88), da AMPLITUDE DE DEFESA (artigo 5º, inciso LV, da CF/88) e da FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS (artigo 93, inciso IX, da CF/88), e à garantia constitucional da DEVIDA PRESTAÇÃO JURISDICIONAL (artigo 5º, inciso XXXV, da CF/88)" (fl. 4.437).
+Nestes  termos,  requer  a  reconsideração  da  decisão  impugnada  ou  a  apresentação  do  recurso  ao  Colegiado.
+Por  manter  o  decisum,  trago  o  feito  a  julgamento  do  Colegiado.
+É  o  relatório.
+EMENTA
+PENAL. AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CORRUPÇÃO ATIVA.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DE  FUNDAMENTO  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+I  -  O  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  firmado  anteriormente,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  por  seus  próprios  fundamentos.
+II  -  A  ausência  de  impugnação  aos  fundamentos  da  decisão  que  não  admitiu  o  recurso  especial  impõe  o  não  conhecimento  do  agravo  em  recurso  especial.
+III  -  In  casu,  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  o  óbice  da  Súmula  7/STJ.
+IV - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedentes ).
+Agravo  regimental  desprovido.
+VOTO
+Em  que  pesem  os  argumentos  da  parte  agravante,  a  decisão  impugnada  deve  ser  mantida.
+Nesta  Corte  Superior,  o  agravo  em  recurso  especial  deixou  de  ser  conhecido  porque  não  foram  infirmados  todos  os  fundamentos  empregados  pela  eg.  Corte  de  origem  para  inadmitir  o  recurso  (Súmula  7/STJ).
+Não  logra  êxito  a  irresignação,  porque,  efetivamente,  não  foram  impugnados  todos  os  fundamentos  da  decisão  proferida  pelo  Tribunal  de  origem.
+Com  efeito,  nas  razões  do  agravo  em  recurso  especial  (fls.  4.182/4.206),  a  parte  alegou  que:  i)  encontram  presentes  todos  os  requisitos  de  admissibilidade  necessários  ao  seguimento  do  inconformismo,  ii)  a  decisão  proferida  pelo  Tribunal de origem contrariou  ou  negou  vigência  a  lei  federal,  iii)  resta  prequestionada  a  matéria  em relação à  (in)competência da Justiça Federal para processar e julgar os delitos impostos ao agravante na denúncia, além de se tratar de matéria de ordem pública e  iv)  a  hipótese  não  demanda  de  simples  reexame  de  provas.
+Por  oportuno,  reproduzo  os  seguintes  trechos  da  decisão  monocrática  agravada  (fls.  4.375/4.376,  destaquei):
+"A  parte  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  todas  as  razões  apresentadas  pelo  eg.  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  não  bastando,  para  tanto,  deduzir  genericamente  a  impossibilidade  de  incidência  da  Súmula  7/STJ.
+Digo,  nas  razões  do  agravo  em  recurso  especial,  em  uma  breve  análise,  a  Defesa,  quanto  à  incidência  da  Súmula  7/STJ,  afirma  que:
+"Quando  muito,  será  necessária  somente  a  VALORAÇÃO  da  prova,  o  que  é  plenamente  cabível  e  permitido  no  âmbito  do  colendo  STJ.
+Vale  lembrar  que  as  teses  discutidas  no  Recurso  Especial  são  estritamente  técnicas,  e  dizem  respeito  a  matérias  de  ordem  pública,  cognoscíveis  de  ofício,  "..em  qualquer  fase  do  processo..",  conforme  dispõe  a  regra  do  artigo  109  do  CPP,  notadamente  a  competência  da  Justiça  Federal  para  conhecer  e  julgar  os  crimes  objeto  da  Denúncia.
+De  acordo  com  a  Súmula  07  do  STJ,  é  inadmissível  a  incursão  em  fatos  e  provas  em  Recurso  Especial,  no  entanto,  em  alguns  casos,  admite-se  a  VALORAÇÃO  DA  PROVA.  Há  muito  que  os  Tribunais  Superiores  vêm  admitindo  a  possibilidade  de  VALORAÇÃO  DA  PROVA  em  sede  de  recursos  constitucionais.
+ ..
+Com  efeito,  não  se  pretende  alcançar  novo  e  aprofundado  exame  do  conjunto  fático-probatório,  mas  simplesmente  a  análise  de  matérias  oportunamente  apresentadas  em  Recurso  Especial  e  que  possuem  natureza  eminentemente  técnica,  não  havendo  falar  em  necessidade  de  revolvimento  do  acervo  fático-probatório  para  reforma  do  acórdão  recorrido.
+A  matéria  objeto  do  Recurso  Especial  é  pacífica  no  âmbito  do  STJ.  O  enunciado  da  Súmula  122  do  Superior  Tribunal  de  Justiça  não  deixa  margem  para  discussões.
+ ..
+Note-se  que  a  matéria  foi  discutida  em  sede  de  Recurso  Especial,  no  qual  nem  sequer  se  cogitou  de  incidência  da  Súmula  07/STJ,  já  que  a  matéria  é  absolutamente  técnica."  (fls.  4.198/4.204).
+Das  razões  colacionadas  na  irresignação,  verifico,  portanto,  que  o  agravante  não  refutou  a  aplicação  da  Súmula  7/STJ  de  maneira  adequada,  pois  deveriam  indicar  como  o  acórdão  recorrido  enfrentou  a  questão  posta  em  debate  no  recurso  especial,  bem  como  demonstrar  a  desnecessidade  da  análise  do  conjunto  fático-  probatório,  deixando  claro  que  os  fatos  foram  devidamente  consignados  no  decisum  a  quo,  o  que  não  aconteceu.
+Com  efeito,  é  entendimento  desta  Corte  Superior  que,  "inadmitido  o  recurso  especial  com  base  na  Súm.  7  do  STJ,  não  basta  a  simples  assertiva  genérica  de  que  se  cuida  de  revaloração  da  prova,  ainda  que  feita  breve  menção  à  tese  sustentada.  O  cotejo  com  as  premissas  fáticas  de  que  partiu  o  aresto  faz-se  imprescindível."  (AgInt  no  AREsp  600.416/MG,  Segunda  Turma,  Rel.  Min.  Og  Fernandes,  DJe  18/11/2016)."
+De  fato,  é  entendimento  desta  eg.  Corte  Superior  de  Justiça  que,  inadmitido  o  apelo  nobre  com  fundamento  na  incidência  da  Súmula  7/STJ,  "não  basta  a  assertiva  genérica  de  que  não  se  pretende  o  reexame  de  provas,  ainda  que  seja  feita  breve  menção  à  tese  sustentada.  É  imprescindível  o  cotejo  entre  o  acórdão  combatido  e  a  argumentação  trazida  no  recurso  especial  que  pudesse  justificar  o  afastamento  do  referido  óbice  processual"  (STJ,  AgInt  no  AREsp  1.463.467/RJ,  Rel.  Ministro  OG  FERNANDES,  SEGUNDA  TURMA,  DJe  de  29/06/2020)"  (EDcl  no  AgInt  no  AREsp  n.  1.694.099/SP,  Segunda  Turma,  Relª.  Minª.  Assusete  Magalhães,  DJe  de  29/4/2022).
+Ressalto  que  cabe  ao  agravante  demonstrar  o  equívoco  da  decisão  em  face  da  qual  se  insurge,  sendo  imprescindível  a  impugnação  específica  a  todos  os  óbices  por  ela  apontados,  obrigação  da  qual  não  se  desincumbiu.
+Na  esteira  do  entendimento  pavimentado  por  esta  eg.  Corte  Superior:  "A  ausência  de  impugnação  específica  ao  fundamento  da  decisão  que  inadmitiu  o  recurso  especial  obsta  ao  conhecimento  do  agravo,  nos  termos  dos  arts.  932,  III,  do  CPC  e  253,  parágrafo  único,  I,  do  RISTJ  e  da  Súmula  182  do  STJ,  aplicável  por  analogia"  (AgRg  no  AREsp  n. 1.790.013/SP,  Sexta  Turma,  Rel.  Min.  Nefi  Cordeiro,  DJe  de  26/02/2021).
+Nesse  sentido:
+"PENAL  E  PROCESSO  PENAL.  TRÁFICO  DE  DROGAS.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL  (SÚM.  83  DO  STJ).  FUNDAMENTO  DA  DECISÃO  AGRAVADA  NÃO  ATACADO.
+I  -  A  ausência  de  impugnação  específica  dos  fundamentos  da  decisão  que  não  admitiu  o  recurso  especial  impõe  o  não  conhecimento  do  agravo  em  recurso  especial.
+ ..
+Agravo  regimental  desprovido"  (AgRg  no  AREsp  n.  1.624.495/MS,  Quinta  Turma,  Rel.  Min.  Felix  Fischer,  DJe  de  4/5/2020).
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.FUNDAMENTO  DA  DECISÃO  AGRAVADA  NÃO  ATACADO.  APLICAÇÃO  DO  ART.  544,  §  4º,  I,  DO  CÓDIGO  DE  PROCESSO  CIVIL  -  CPC  DE  1973.  INCIDÊNCIA  DA  SÚMULA  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  -  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Descabido  o  conhecimento  do  agravo  em  recurso  especial  quando  o  agravante  deixa  de  impugnar  especificamente  algum  dos  fundamentos  adotados  na  decisão  que  negou  seguimento  ao  recurso  especial.
+2.  Agravo  regimental  desprovido"  (AgRg  no  AREsp  n.  842.493/PR,  Quinta  Turma,  Rel.  Min.  Joel  Ilan  Paciornik,  DJe  de  16/5/2016).
+Por fim, cumpre destacar que não cabe a este eg. Superior Tribunal de Justiça se pronunciar acerca de afronta a dispositivos ou a princípios de extração constitucional, em sede de Recurso Especial ou de seus consectários, sob pena de usurpar a competência do Excelso Supremo Tribunal Federal.
+Com efeito: "Não cabe ao Superior Tribunal de Justiça intervir em matéria de competência do STF, tampouco para prequestionar dispositivos e/ou princípios constitucionais, sob pena de violar a rígida distribuição de competência recursal disposta na Carta Magna" (EDcl no AgRg no AREsp n. 1.879.727/SC, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 11/03/2022).
+No mesmo sentido:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS REJEITADOS.
+ ..
+2. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de invasão da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados" (EDcl no AgRg no AREsp 1971078/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/03/2022).
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
