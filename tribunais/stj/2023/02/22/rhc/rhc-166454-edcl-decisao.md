@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por JOÃO CARLOS TEIXEIRA COBRA , em face de decisão proferida em Em. Relatoria do Min. João Otávio de Noronha, às fls. 1264-1267, que deu parcial provimento ao recurso ordinário.
+Nas razões dos presentes embargos, o embargante afirma a existência de obscuridade nestes termos (fls. 1272-1274):
+"(..) Entretanto, com todo respeito e acatamento, a r. decisão padece obscuridade ou um equívoco, tendo em vista que Vossa Excelência aponta que o presente recurso manejado é inadequado "em substituição à revisão criminal ou ao recurso constitucional próprio".
+Com efeito, se o presente recurso ordinário em habeas corpus consoante dispõe o artigo 105, inciso II, "a" da Constituição Federal é inadequado, qual recurso constitucional próprio seria correto, além de que, inclusive, no caso não se trata sequer de recurso em substituição à revisão criminal por não se tratar de processo findo.
+Assim como, há obscuridade no tocante ao tema da violação de domicílio, tendo em vista que a questão foi discutida por diversas vezes, tanto na origem (inclusive três petições deixaram de ser analisados pelo Juízo e, consequentemente, sem a manifestação pelo d. Ministério Público) quanto no E. Tribunal, não tendo o julgador analisado acerca do tema (..)".
+Requer, assim, sejam supridos vícios apontados, com efeitos infringentes, para determinar a revisão do mérito e a concessão da ordem de ofício.
+O d. Ministério Público Federal manifestou-se, às fls. 1280 e 1291.
+Ainda, o d. Ministério Público do Estado de São Paulo manifestou-se pelo desprovimento destes embargos de declaração, às fls. 1300-1309, assim ementado:
+"PROCESSO PENAL. RECURSO ORDINÁRIO. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE. INOCORRÊNCIA. INOVAÇÃO DE TESE NO RECURSO. NÃO CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. DESPROVIMENTO DOS EMBARGOS.
+1. O EMBARGANTE LIMITOU-SE, NA IMPETRAÇÃO DO HABEAS CORPUS, A ALEGAR A DESNECESSIDADE DA PRISÃO PREVENTIVA, REQUERENDO SUA REVOGAÇÃO. A TESE DE NULIDADE DA ENTRADA EM DOMICÍLIO PELA POLÍCIA NÃO FOI VENTILADA EM MOMENTO ALGUM NA INICIAL, NÃO SENDO APRECIADA PELO TRIBUNAL DE ORIGEM, SURGINDO TÃO SOMENTE NO RECURSO ORDINÁRIO.
+2. É PACÍFICO O ENTENDIMENTO DE QUE DESCABE A APRECIAÇÃO, EM SEDE DE RECURSO, DE MATÉRIA NÃO VENTILADA E, PORTANTO, NÃO APRECIADA PELO TRIBUNAL DE ORIGEM, SOB PENA DE SUPRESSÃO DE INSTÂNCIA.
+3. A DECISÃO MONOCRÁTICA, ORA ATACADA, DEIXOU DE APRECIAR A QUESTÃO DA ENTRADA DA POLÍCIA NO DOMICÍLIO DO PACIENTE PARA EVITAR SUPRESSÃO DE INSTÂNCIA, CONFORME SUFICIENTEMENTE EXPLICADO PELO RELATOR, INEXISTINDO QUALQUER OBSCURIDADE.
+4. DESPROVIMENTO DOS EMBARGOS."
+É o relatório.
+Decido.
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também, para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior & Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido, os precedentes: EDcl no AgRg no AREsp n. 292.108/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/2/2015; EDcl no RHC n. 35.243/MG, Quinta Turma, Rel. Min. Félix Fischer, DJe de 10/12/2014; EDcl no AgRg no AREsp n. 527.022/SC, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 9/10/2014; e EDcl no REsp n. 1.290.073/ES, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 1º/7/2014.
+Ao analisar os autos, verifica-se que o embargante afirma a existência de obscuridade no decisum embargado.
+Pois bem.
+Não obstante a irresignação defensiva, de fato, verifica-se que o eg. Tribunal de origem não debateu um tema invocado pelo embargante, acerca da nulidade da busca domiciliar, o que impede esta eg. Corte Superior de apreciar a matéria, sob pena de incorrer em indevida supressão de instância.
+De resto, fica comprovado que, embora a retórica sobre a ação mandamental (que aliás foi o que provocou a origem) tenha sido colocada pela Em. Relatoria anterior, esta tratou a peça como recurso ordinário em todos os planos:
+"Trata-se de recurso em habeas corpus interposto por JOÃO CARLOS TEIXEIRA COBRA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2052861-60.2022.8.26.0000)." - fl. 1264.
+"Ante o exposto,dou parcial provimento ao recurso ordinário em habeas corpus a fim de substituir a prisão domiciliar imposta ao recorrente por medidas cautelares alternativas previstas no art. 319 do CPP, a serem fixadas pelo Juízo processante." - fl. 1266.
+Do acima exposto, verifica-se, pois, que os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim a revisão do mérito - o que não é permitido nesta via.
+Assim, não há que se falar em vício da decisão embargada tão somente porque contrário aos interesses do embargante.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. FACILITAÇÃO DE DESCAMINHO, DESCAMINHO, CORRUPÇÃO ATIVA E PASSIVA. INTERCEPTAÇÃO DE COMUNICAÇÃO TELEFÔNICA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO EMBARGADO. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. COMPETÊNCIA DO PRETÓRIO SUPREMO TRIBUNAL FEDERAL. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que desproveu o agravo regimental pois, na espécie, à conta de omissão no decisum, pretende o embargante a rediscussão de matéria já apreciada.
+III - Não compete a este Superior Tribunal o exame das supostas violações a dispositivos da Constituição da República (artigos 5º, incisos II, LV e LVI, e 93, inciso IX), ainda que para fins de prequestionamento, por estarem restritas à análise do Pretório Supremo Tribunal Federal, por expressa previsão constitucional.
+Embargos de declaração rejeitados" (EDcl no AgRg nos EDcl no AREsp n. 1.205.732/SP, Quinta Turma, Rel. Min Félix Fischer, DJe de 12/11/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste o equívoco apontado pela parte, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Embargos de declaração rejeitados" (EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 9/11/2018).
+"PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. SEGREGAÇÃO CAUTELAR FUNDAMENTADA NAS PROVAS. INTERCEPTAÇÃO CONSIDERADA NULA.POSSIBILIDADE DE MANUTENÇÃO PELAS DEMAIS PROVAS. ANÁLISE DA PRISÃO PREVENTIVA. COMPETÊNCIA INSTÂNCIAS DE ORIGEM. DECISÃO MANTIDA. PETIÇÃO. ALEGADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NO HABEAS CORPUS. INOCORRÊNCIA. CONTINUIDADE DA AÇÃO PENAL. FUNDAMENTO NOS DEMAIS ELEMENTOS PROBATÓRIOS.
+1. Ausente contradição, obscuridade, omissão ou ambiguidade, são rejeitados os embargos declaratórios, que não servem à rediscussão do julgado.
+2. Tendo a magistrada do feito considerado que remanesceriam válidas provas a suportar a justa causa da prisão preventiva, mesmo desconsideradas as anuladas interceptações telefônicas, não há obstáculo à manutenção da prisão preventiva ou ao prosseguimento da ação penal. 3. Embargos de declaração rejeitados" (EDcl no HC n. 423.595/PE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/10/2018).
+Ante o exposto, rejeito os presentes embargos declaratórios.
+P. I.
