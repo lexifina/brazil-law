@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de DANIEL CAMARGO contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, nos autos da apelação criminal n. 003185-75.2019.8.16.0061.
+Depreende-se dos autos que o paciente foi condenado à pena de 05 (cinco) anos de reclusão, em regime inicial semiaberto, mais o pagamento de 500 (quinhentos) dias-multa, como incurso nos arts. 33, § 4º, c/c o 40, inciso V, ambos da Lei n. 11.343/2006 (fls. 52-64).
+No julgamento da apelação, o eg. Tribunal de origem deu provimento ao recurso ministerial, a fim de redimensionar a reprimenda do réu para 08 (oito) anos de reclusão, e o pagamento de 800 (oitocentos) dias-multa, em regime inicial fechado (fls. 40-47).
+Na hipótese, a defesa aponta constrangimento ilegal quanto a dosimetria da pena do paciente.
+Sustenta que a quantidade de droga não é elemento apto a afastar o tráfico privilegiado.
+Aduz ser ilegal considerar a quantidade de droga para elevar a pena-base e para afastar o privilégio.
+Requer, ao final, a concessão da ordem para:
+"I). A aplicação no caso concreto de ser reconhecida o §4º do art.33 da Lei 11.343/06, posto que o Paciente congrega os requisitos de seu conhecimento, é primário, tem bons antecedentes, ocupação lícita, além de não existir nenhuma autorização para que ela deixe de ser aplicada em razão da quantidade e diversidade de entorpecente;
+II). Na hipótese dos autos, seja considerada a quantidade de entorpecente para elevação da pena, não pode ser ela considerada para afastar a causa de diminuição do §4º do art.33 da Lei 11.343/06, muito menos para impor regime mais grave do que o legal. Requer que a causa de diminuição do §4º do art.33 da Lei 11.343/06 seja aplicada no seu patamar de 2/3;
+III). DECRETAR a nulidade do respeitável Acórdão, em relação a dosimetria da pena, uma vez que, com o devido respeito, nula em razão da ausência de fundamentação, diante da previsão constitucional, ante os motivos devidamente expostos acima;
+IV). Assim, diante do que restou demonstrado, pugna também pelo provimento do presente recurso, onde se objetiva o redimensionamento das penas aplicadas em favor do Paciente uma vez que, com o devido respeito sua pena restou exarcebada e, sem a devida fundamentação legal, violando assim a Súmula 444 do STJ" (fls. 37-38).
+Liminar indeferida às fls. 112-113.
+Informações prestadas às fls. 118-136.
+O Ministério Público Federal, às fls. 138-147, manifestou-se pelo não conhecimento do writ ou denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR. DECURSO DO PRAZO PREVISTO NO ART. 64, I, DO CÓDIGO PENAL. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL CARACTERIZADO. NÃO CONHECIMENTO DO WRIT E A CONCESSÃO DA ORDEM, DE OFÍCIO, PARA RESTABELECER A DOSIMETRIADA PENA CONSTANTE NA SENTENÇA DE FLS. 52/64" (fl. 138).
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração: i) a diminuição da pena-base; ii) o afastamento dos maus antecedentes; e iii) a aplicação do tráfico privilegiado.
+Assinale-se que, "na hipótese de ocorrer o trânsito em julgado da sentença condenatória e inexistir, no STJ, julgamento de mérito passível de revisão criminal em relação a essa condenação, não é cabível o manejo do remédio heroico como sucedâneo de revisão criminal. Precedentes" (AgRg no HC n. 624.566/SC, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+Conforme noticiado à fl. 123, houve a certificação do trânsito em julgado do decisum.
+Desta feita, o trânsito em julgado da decisão condenatória impede a parte impetrar habeas corpus perante este Sodalício, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+Aliás, a respeito do cabimento do remédio heroico, oportuna é a menção do escólio de Guilherme de Souza Nucci:
+"O habeas corpus é um remédio, mas não pode se tronar um veneno para as instituições, permitindo a morte de recursos expressamente previstos em lei, desigualando as partes (somente o réu pode valer-se) e deixando o Judiciário refém de uma demanda que se apresenta numa singela petição inicial, acompanhada de alguns documentos apenas" (NUCCI, Guilherme de Souza. Habeas Corpus. 4ª ed. Rio de Janeiro: Forense, 2022, pág. 25).
+Ademais, a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Não se descure que, para o conhecimento da ordem, faz-se necessário que o direito alegado pela defesa seja líquido - dispense apuração probatória - e certo - indene de dúvida.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente. Isso porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+Por fim, saliente-se que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Diante de tais considerações, portanto, não se vislumbra a existência dos pressupostos necessários ao conhecimento e à concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
