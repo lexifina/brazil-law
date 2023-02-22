@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de JOAO LUIZ FRANCISCO DE ASSIS, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução Penal n. 0003645-68.2022.8.26.0032.
+Consta dos autos que, em 10/05/2022, o Juízo das Execuções Penais deferiu o pedido de progressão ao regime semiaberto formulado pelo Paciente (fls. 139-141), que cumpre pena de 10 (dez) anos, 8 (oito) meses e 29 (vinte e nove) dias de reclusão, com término previsto para 28/02/2023.
+Irresignado, o Ministério Público interpôs agravo de execução, o qual foi provido pelo Tribunal estadual nos termos do acórdão assim ementado (fl. 163):
+"AGRAVO EM EXECUÇÃO PENAL PROGRESSÃO DE REGIME RECURSO MINISTERIAL: PLEITO DE CASSAÇÃO DA DECISÃO DE PROGRESSÃO AO REGIME SEMIABERTO, RETORNANDO O ACUSADO AO REGIME FECHADO DE PRISÃO ACOLHIMENTO APLICAÇÃO CUMULATIVA DE PERÍODOS DE REABILITAÇÃO ENCONTRA AMPARO NO ART. 90 DA RESOLUÇÃO SAP Nº 144/2010 COMPETÊNCIA CONCORRENTE PARA LEGISLAR SOBRE DIREITO PENITENCIÁRIO (CF, ART. 24, INC. I) AUSÊNCIA DE AFRONTA OU DESBORDAMENTO DA LEI Nº 7.210/1984 (ART. 47) PRECEDENTES AUSÊNCIA DE BOA CONDUTA CARCERÁRIA INDÍCIOS DE NÃO ASSIMILAÇÃO DA TERAPÊUTICA REEDUCACIONAL AGRAVO MINISTERIAL PROVIDO. "A cumulação de períodos de reabilitação de conduta, prevista no art. 90 do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo (Resolução SAP n.º 144/20 10), encontra legalidade no art. 24, inc. I e § 2.º, da Constituição Federal, cujo caráter suplementar está expressamente previsto no art. 47 da Lei n.º 7.210/1984, desde que dela não conflite ou desborde. Tal dispositivo permissivo de cumulação, além de não afrontar o art. 112, § 7.º, da Lei de Execuções Penais, assegura a isonomia material e atende adequadamente ao princípio da individualização, bem como aos objetivos gerais e individuais da pena"."
+No presente writ, sustenta que as faltas graves estariam sendo computadas cumulativamente, sendo indevida a conclusão do acórdão ora impugnado. Alega, ainda, que:
+"O cerne da questão reside no fato de que no Estado de São Paulo, existe ato administrativo estabelecendo que a reabilitação de faltas disciplinares praticadas no âmbito da execução penal ocorre após o período de 1 ano, sendo que ocorrendo outra na sequência, os prazos devem ser somados e o prazo cumprido de forma cumulativa (Resolução SAP/SP, 144/2010, arts. 89/90).
+Ocorre que o entendimento não mais prevalece em decorrência do que dispõe de forma clara, direta, expressa e objetiva a Lei 7.210/1984, que, por meio de reforma ocorrida posteriormente à data da norma anterior, estabeleceu que o "bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito" (art. 112, §7º)."
+Requer, assim, o restabelecimento da decisão que progrediu o Paciente ao regime semiaberto.
+O pedido liminar foi indeferido (fls. 343-346).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 354-358).
+É o relatório. Decido.
+Em consulta ao andamento processual eletrônico, verifico que o Juízo da Execução Penal, em decisão proferida no dia 07/11/2022, concedeu o livramento condicional ao Paciente.
+Dessa forma, está evidenciada a perda do objeto deste writ.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. SUPERVENIENTE DECISÃO DO JUÍZO SINGULAR DEFERITÓRIA DO LIVRAMENTO CONDICIONAL. PERDA DO OBJETO. WRIT PREJUDICADO.
