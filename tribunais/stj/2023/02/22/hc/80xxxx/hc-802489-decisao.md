@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO FONTES FERREIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Agravo em Execução Penal n. 1.0000.22.213589-9/001.
+O Juízo da Execução Penal de Nanuque/MG revogou a prisão domiciliar do Paciente, que cumpria o regime semiaberto, regredindo-o cautelarmente ao modo fechado, em razão do cometimento de falta grave pelo Paciente (fls. 34-43).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal a quo. A Corte de denegou a ordem consoante a ementa a seguir transcr ita (fl. 30):
+"AGRAVO EM EXECUÇÃO PENAL - TRANSFERÊNCIA DOS AUTOS DE EXECUÇÃO PARA COMARCA DIVERSA E RESTABELECIMENTO DO REGIME SEMIABERTO E DA PRISÃO DOMICILIAR - IMPOSSIBILIDADE - DESCUMPRIMENTO DAS CONDIÇÕES PARA O TRABALHO EXTERNO - DOMICÍLIO COMPROVADO EM COMARCA DIVERSA - RECURSO DESPROVIDO. 1. Não há que se falar em restabelecimento do regime semiaberto ou retorno dos autos à comarca responsável pela execução até então, uma vez que, além de ter restado comprovado o vínculo com a comarca de Nanuque/MG, sobretudo considerando ter o juízo de Teixeira de Freitas, por conta própria, determinado a remessa dos autos para o município de MG (sequencial 497.1 - em consulta ao SEEU), é evidente o descumprimento das condições impostas para o trabalho externo, de modo que cabíveis as medidas adotadas no documento de sequencial nº 509.2. 2. As hipóteses de prisão domiciliar, elencadas no art. 117 da Lei de Execução Penal, são taxativas e, não estando o sentenciado inserido em nenhuma dessas hipóteses, inviável a concessão de tal benefício."
+Aduz a Parte Impetrante, em suma, que:
+" n ão há dúvidas a respeito da competência do Juízo da Comarca de Teixeira de Freitas/BA, para processar e julgar os incidentes advindos da execução penal do paciente, já que estaria firmada a competência do referido processo na referida comarca. Haja vista é dever do juízo de supervisionar a execução penal, nada tendo um terceiro que avocar para si os autos processuais, sem ter qualquer relação processual e competência para proferir decisão nos autos (diga-se - Juízo da Comarca de Nanuque/MG), sendo, portanto Nulo os atos pela magistrada da Comarca de Nanuque-MG" (fl. 13 ).
+Requer, em liminar e no mérito, o reconhecimento da incompetência do Juízo da Execução da Comarca de Nanuque/MG.
+É o relatório. Decido.
+Registro que, no HC n. 801.782/MG, foi formulada idêntica pretensão à veiculada neste feito, em favor do mesmo Reeducando (reconhecimento da incompetência do Juízo da Execução da Comarca de Nanuque/MG).
+A presente impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir.
+Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus e recurso ordinário em habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do mandamus, porquanto não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado anteriormente.
+No mesmo sentido, v.g.: AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019; HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DO PEDIDO FORMULADO NO HC N.º 801.782/MG . LITISPENDÊNCIA. WRIT INDEFERIDO LIMINARMENTE.
