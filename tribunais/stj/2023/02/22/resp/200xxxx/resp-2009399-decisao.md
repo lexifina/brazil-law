@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAVIDSON MARTINS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n. 1.0134.18.004044-31001.
+Consta dos autos que o Juízo de primeiro grau condenou o Recorrente às penas de 1 (um) ano de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, no mínimo legal, como incurso no art. 155, caput , c. c os arts. 61, inciso I, e 65, inciso III, alínea d, todos do Código Penal (fls. 106-111).
+Irresignada a Defesa interpôs apelação, à qual a Corte de origem negou provimento (fls. 161-166).
+Sustenta a Defesa, nas razões do apelo nobre, afronta ao art. 155, caput, do Estatuto Repressor.
+Alega que, na hipótese dos autos, dado que o valor da res furtiva é ínfimo (4 barras de chocolate, avaliadas em R$ 24,00), é cabível a aplicação do princípio da insignificância, não sendo a reincidência do Réu fundamento idôneo a obstar a incidência do citado preceito.
+Foram apresentadas contrarrazões (fls. 180-185). O recurso especial foi admitido (fls. 187-189).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do apelo nobre (fls. 200-202).
+É o relatório.
+Decido.
+A sentença de primeiro grau, corroborada pelo acórdão recorrido, na parte que interessa, está calcada nas seguintes razões de decidir (fl. 109):
+"No caso concreto, o réu é reincidente e possui outras duas condenações por furto, bem como se encontra em cumprimento de pena. Para a incidência do princípio da insignificância não basta que seja constatado o baixo valor do bem que teoricamente seria subtraído, sendo necessária a análise de outras questões relacionadas ao agente e às circunstâncias do delito.
+Nesse caso, constatado que o réu é reincidente e possui outras duas condenações por furto, bem como se encontra em cumprimento de pena, a demonstrar o não atendimento ao requisito relativo à ausência de periculosidade do agente, não se aplica o princípio da insignificância."
+A aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta e identificar a necessidade, ou não, da utilização do direito penal como resposta estatal.
+Não se descura que, diante do caráter fragmentário do direito penal moderno, segundo o qual se devem tutelar apenas os bens jurídicos de maior relevo, somente justificam a efetiva movimentação da máquina estatal os casos que implicam lesões de significativa gravidade.
+De fato, a aplicabilidade do princípio da insignificância é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do Agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+Na hipótese, tendo em vista as peculiaridades dos autos, constato o desinteresse estatal à repressão da conduta praticada pelo Agravante.
+Não obstante a notícia de que o Acusado " ..  é reincidente e possui outras duas condenações por furto, bem com o se encontra em cumprimento de pena" (fl. 109), a natureza e o valor dos bens furtados - 4 (quatro) barras de chocolate, avaliadas em R$ 24,00 (vinte e quatro reais) -, a circunstância de ser a vítima um estabelecimento comercial (com capacidade financeira mais expressiva), bem como a restituição da res furtivae autorizam a conclusão de que o grau de reprovabilidade da conduta do Réu é mínimo, não tendo havido dano social relevante. Assim, não se verifica a tipicidade material da conduta, a ensejar a aplicação do princípio da insignificância.
+No mesmo sentido:
+" ..
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+2. O pequeno valor da res furtiva - uma parafusadeira, que representa cerca de 7% do salário mínimo vigente à época dos fatos -, aliado à capacidade financeira da vítima, um hipermercado, ao qual o bem foi restituído, denota não relevante interesse social na onerosa intervenção estatal, ainda que se trate de réu reincidente.
+3. Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial para absolver o agravante da imputação do art. 155, caput, do CP, por atipicidade material da conduta." (AgRg no AREsp 1.617.119/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original.)
+" ..
+1. É possível a aplicação do princípio da insignificância ao furto de bens avaliados em R$ 42,00 (quarenta e dois reais), ainda que a certidão de antecedentes criminais do agente indique que já respondeu por outro crime (roubo), uma vez que os bens de pequeno valor subtraídos foram imediatamente recuperados, sem prejuízo nenhum material para a vítima.
+2. Ordem concedida para absolver o paciente do crime de furto e, consequentemente, cassar todos os efeitos da condenação proferida no Processo n. 0003367-45.2016.8.26.0269, da 1ª Vara Criminal da comarca de Itapetininga/SP." (HC 493.305/SP, Rel. Ministra LAURITA VAZ, Rel. p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/06/2019, DJe 13/06/2019; sem grifos no original.)
+" ..
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+2. Nem a reincidência nem a reiteração criminosa, tampouco a habitualidade delitiva, são suficientes, por si sós e isoladamente, para afastar a aplicação do denominado princípio da insignificância.
+3. Na espécie, as dez barras de chocolate foram integralmente restituídas à vítima e, não obstante a existência de antecedentes criminais em crime de mesma natureza, a conduta do agravado não traduz lesividade efetiva e concreta ao bem jurídico tutelado.
+4. Agravo regimental improvido." (AgRg no AREsp 1.328.883/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/03/2019, DJe 08/04/2019; sem grifos no original.)
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao recurso especial, a fim de reconhecer a insignificância penal da conduta e absolver a Recorrente no tocante à ação penal n. 1.0134.1 8.004044-3/001, com f undamento no art. 386, inciso III, do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO SIMPLES. RES FURTIVAE: 4 (QUATRO) BARRAS DE CHOCOLATE, AVALIADAS EM R$ 24,00 (VINTE E QUATRO REAIS). PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. POSSIBILIDADE. SITUAÇÃO EXCEPCIONAL. REDUZIDÍSSIMO GRAU DE REPROVABILIDADE NA CONDUTA. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER E DAR PROVIMENTO AO RECURSO ESPECIAL.
