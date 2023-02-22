@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FABIO JUNIOR VILETE DE ASSIS, contra r. decisão proferida por Em. Des. do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, nos autos do HC n. 5012094-27.2022.8.08.0000, acostado às fls. 19-23 e 31-33.
+Depreende-se dos autos que o d. Juízo a quo instaurou processo disciplinar em face do ora recorrente, ante a ocorrência BU nº 47760199, registrada no dia 10/05/2022, na qual a sua vítima e ex-companheira relatou que, no dia 06/05/2022, o reeducando foi supostamente avistado rodeando sua residência.
+Diante desses fatos, foi requerida e deferida medida protetiva de urgência em desfavor do recorrente (Processo nº 0000116-45.20222.8.08.0031).
+Aqui, a autoridade apontada como coatora indeferiu o pedido de fixação do regime semiaberto humanizado (Execução Penal nº 2000054-45.2019.8.08.0008), em virtude dos fatos acima.
+Inconformada, a d. Defesa impetrou HC perante o eg. Tribunal de origem, que julgou monocraticamente a interpelação.
+Daí o presente recurso ordinário, no qual a d. Defesa sustenta, em apertada síntese, que o recorrente está submetido a constrangimento ilegal, ao argumento de que, na data dos supostos fatos (06/05/2022), ele sequer estava em gozo da saída temporária.
+Assere que, embora a medida protetiva seja independente da ação penal originária, é preciso que haja elementos que demonstrem a necessidade de sua manutenção - o que não ocorreu na hipótese (a medida protetiva de urgência encontra-se extinta)
+Aduz a necessidade de se afastar a falta grave (pela falta de previsão legal).
+Alega a presença de requisito subjetivo ao regime semiaberto humanizado buscado e reforça que houve manifestação favorável do Ministério Público local.
+Requer, inclusive LIMINARMENTE, o "recebimento do presente recurso, no seu efeito devolutivo e suspensivo, para tornar sem efeito o acórdão recorrido, concedendo a ordem para fazer cessar a coação ilegal que o paciente está submetido, com o imediato AFASTAMENTO da aplicação da falta grave e da regressão para o regime fechado" (fl. 38).
+Contrarrazões, às fls. 42-44, pela impossibilidade de recurso ordinário em face de uma decisão monocrática.
+É o relatório.
+Decido.
+Não conheço do recurso.
+Primeiramente, o presente recurso é incabível, porquanto ausente manifestação do eg. Tribunal de origem, estando configurada a absoluta supressão de instância com relação a todas as questões expostas e ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Nesse sentido, julgados deste Superior Tribunal de Justiça: EDcl no RMS 52.007/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 7/3/2019; HC 374.752/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/2/2017; HC 367.864/MT, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/2/2017; e AgRg no HC 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017.
+Igualmente, manifesta o col. Supremo Tribunal Federal: AgRg no HC 130240, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/12/2015.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça já se posicionou no sentido de que, nem sendo a nulidade absoluta, pode ser declarada em supressão de instância.
+Confira-se: "Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte. (..) Com efeito, "mesmo se tratando de nulidades absolutas e condições da ação, é imprescindível o prequestionamento (..) fora do qual não se pode reconhecer sequer matéria de ordem pública, passível de conhecimento de ofício nas instâncias ordinárias" (AgRg no AREsp 872.787/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2016, DJe 16/05/2016)" (HC 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/12/2017, grifei).
+Em segundo plano, o presente recurso ordinário não comporta sequer conhecimento, em razão da mera reiteração de pedidos no HC n. 799.970/ES.
+O pedido aqui, tal qual como exposto, já foi analisado no mérito no mencionado writ conexo (claro, nos limites da via eleita), inclusive, em face da mesma r. decisão no HC n. 5012094-27.2022.8.08.0000
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a mera reiteração de pedidos, os seguintes julgados deste STJ: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 84.693/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe de 16/8/2017; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no HC 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017.
+No mesmo sentido, o col. Supremo Tribunal Federal: AgRg no RHC 147748, Segunda Turma, Rel. Min. Dias Tóffoli, DJe de 4/4/2018.
+Ante o exposto, configurada a indevida supressão de instância e a mera reiteração de pedidos, não conheço do recurso.
+P. I.
