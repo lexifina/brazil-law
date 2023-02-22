@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARIA ELISABETE DE CARVALHO contra decisão monocrática da Presidência desta Corte (e-STJ, fls. 138-139), proferida nos seguintes termos:
+Mediante análise do recurso de MARIA ELISABETE DE CARVALHO, a parte recorrente foi intimada do acórdão recorrido em 20/09/2021, sendo o recurso especial interposto somente em 13/10/2021. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 151-152).
+Nas razões recursais, a agravante alega ter anexado documento apto à comprovação de feriado local e, por isso, o recurso seria tempestivo. Sendo assim, requer a reconsideração da decisão agravada.
+Não foram apresentadas contraminutas (e-STJ, fls. 213 e 214).
+Brevemente relatado, decido.
+No caso, observa-se que a parte recorrente anexou documento comprobatório de feriado local no TJSP nos dias 11/10/2021 e 12/10/2021 (e-STJ, fls. 59-61), sendo tempestivo o recurso (termo inicial em 21/09/2021 e termo final em 13/10/2021), motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidera-se a decisão da Presidência do STJ, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015 e passa-se a análise do recurso especial.
+O apelo especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 27):
+CUMPRIMENTO DE SENTENÇA Múltiplas penhoras originárias de créditos decorrentes de condenação da credora em ações trabalhistas - Determinação judicial de pagamento a tais credores em conformidade com a ordem de penhora no rosto dos autos Inaplicabilidade do estabelecido pelo art. 83,I, da Lei nº 11.101/2005, uma vez que a devedora não está em estado falimentar e a credora não está impedida de prosseguirna execução individual - Decisão mantida - Recurso desprovido.
+Os embargos de declaração foram rejeitados, conforme a seguinte ementa (e-STJ, fl. 36):
+EMBARGOS DE DECLARAÇÃO - Inexistência de quaisquer dos defeitos mencionados pelo artigo 1.022 do Código de Processo Civil - Mero prequestionamento - Embargos rejeitados.
+Em suas razões de recurso especial (e-STJ, fls. 40-58), a insurgente alegou violação aos arts. 5º e 20, da LINDB; 83, I, da Lei n. 11.101/2005; 186 do CTN e 908 do CPC/2015.
+Sustentou, em síntese, que deveria ter sido observada a ordem de preferência dos credores, de modo que seu crédito, de natureza trabalhista, prevalece sobre os demais, razão pela qual pleiteia a alteração da decisão para que conste a ordem de preferência.
+De início, observa-se que o recurso não comporta conhecimento diante da deficiência na sua fundamentação.
+Isto porque não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou a divergência nos moldes exigidos pelos artigos 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Nesse sentido:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. MATÉRIA. PUBLICAÇÃO. INTERNET. CENSURA PRÉVIA. IMPOSSIBILIDADE. DIREITO À INFORMAÇÃO. LIBERDADE DE EXPRESSÃO. DIREITOS DE PERSONALIDADE. VIOLAÇÃO. ABUSO DE DIREITO. CONFIGURAÇÃO. VALOR DA INDENIZAÇÃO. REEXAME FÁTICO. VEDAÇÃO.
+(..)
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+(..)
+7. Recurso especial parcialmente conhecido e não provido.
+(REsp 1887919/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2021, DJe 31/08/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RESCISÃO CONTRATUAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. NÃO CABIMENTO. AGRAVO PROVIDO. RECURSO DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. Divergência jurisprudencial não comprovada em razão de a mera transcrição de ementas não ser suficiente para dar abertura ao apelo especial pela alínea "c" do permissivo constitucional, além de decisões monocráticas serem imprestáveis à comprovação do dissídio jurisprudencial.
+(..)
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1671139/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/02/2021, DJe 23/02/2021)
+No mais, o Tribunal de origem, ao dirimir a controvérsia, assim fundamentou (e-STJ, fls. 26-28):
+Em primeiro lugar, não corresponde à realidade dos autos a afirmação de que não foi considerada a preferência dos créditos de caráter alimentar, porquanto todo o valor depositado foi entregue a credores trabalhistas, na ordem preferencial da penhora, o que significa dizer que nada foi atribuído a credores concorrentes de natureza diferente da trabalhista.
+Em segundo lugar, não tem cabimento a aplicação analógica do estabelecido pelo art. 83, I, da Lei nº 11.101/2005, porquanto tal dispositivo tem incidência em situação específica de falência do devedor, e a credora não está impedida de prosseguir a execução do seu crédito.
+Diante destas considerações, a decisão agravada está absolutamente correta, devendo a credora buscar a realização da integralidade de seu crédito em sua própria execução, a menos que novos depósitos sejam realizados nesta.
+Em relação à alegada violação aos arts. 5º e 20, da LINDB, 186 do CTN e 908 do CPC/2015, verifica-se que, a despeito da oposição do respectivo recurso de embargos de declaração, o tema não foi levado à debate no acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356 do STF.
+Por fim, quanto à aplicação analógica do art. 83, I, da Lei n. 11.101/2005, verifica-se que a Corte estadual fundamentou a impossibilidade de aplicação da referida legislação diante dos seguintes argumentos: a) ausência de preterição de créditos de natureza alimenta; b) não se trata de processo de falência, logo, não há incidência da referida norma; em razão disso, a credora não está impedida de prosseguir com a execução de seu crédito.
+Nas razões recursais, a parte recorrente não impugnou o fundamento relativo à ausência de preterição quanto aos créditos de natureza alimentar, o qual, por si só, é suficiente para manutenção do acórdão recorrido.
+Assim, a existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial, incidindo a Súmula 283/STF por analogia.
+Além disso, infirmar a conclusão adotada pelo Tribunal de origem, a fim de analisar a ordem de preferência dos credores, demandaria reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo, em juízo de retratação, para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. TEMPESTIVIDADE RECONHECIDA. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 4. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO . SÚMULA 283/STF. REVISÃO IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. AGRAVO CONHECIDO, EM RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
