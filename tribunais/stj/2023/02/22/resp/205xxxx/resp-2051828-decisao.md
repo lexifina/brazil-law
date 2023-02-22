@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por Aldemir Bobroski, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+EXECUÇÃO FISCAL. EXTINÇÃO MOTIVADA PELA PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. IMPOSSIBILIDADE DE CONDENAÇÃO DA EXEQUENTE.
+No presente recurso especial, a recorrente apontou violação ao art. 85 do CPC/2015, sustentando, em síntese, que é devido o arbitramento de honorários advocatícios em desfavor da Fazenda Nacional, em respeito ao princípio da sucumbência, tendo em vista o reconhecimento da prescrição intercorrente do crédito executado.
+É o relatório. Decido.
+É irrefutável que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou expressamente que "No caso, foi a devedora quem deu causa ao processo, em razão do inadimplemento das suas obrigações tributárias (..)", concluindo, em seguida, que "com base no princípio da causalidade, é defeso condenar a exequente em honorários advocatícios (..)".
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ademais, apenas como complementação, deve-se destacar que esta Corte Superior de Justiça já se manifestou no sentido de que, pelo princípio da causalidade, é incabível a condenação em honorários nos casos de extinção da execução pela prescrição intercorrente em virtude da ausência de localização de bens do executado. In verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE.
+1. Esta Corte de Justiça já se manifestou no sentido de que, pelo princípio da causalidade, é incabível a condenação em honorários nos casos de extinção da execução pela prescrição intercorrente em decorrência da ausência de localização de bens do executado.
+2. Precedente específico: REsp 1.834.500/PE, de minha relatoria, Segunda Turma, DJe 20/9/2019.
+3. Tal entendimento é aplicável especialmente quando a extinção da execução ocorreu independentemente da interposição de embargos do devedor ou da exceção de pré-executividade, como no caso dos autos.
+4. A Corte regional, com base no princípio da causalidade, decidiu que o ente fazendário não deve ser condenado ao pagamento de honorários advocatícios, porque o exequente não deu causa ao processo e não se pode beneficiar o devedor pelo não cumprimento de sua obrigação.
+5. A análise da pretensão recursal implicaria o reexame das provas dos autos a fim de aferir se a Fazenda Pública eventualmente deu causa à demanda, o que é vedado a esta Corte Superior devido ao óbice da Súmula 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1532496/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/02/2020, DJe 27/02/2020)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. BENS DO EXECUTADO. NÃO LOCALIZAÇÃO. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS EM FAVOR DO DEVEDOR. DESCABIMENTO. PRINCÍPIOS DA CONGRUÊNCIA E DO NON REFORMATIO IN PEJUS. OBSERVÂNCIA.
+1. O reconhecimento da prescrição intercorrente, notadamente em razão da não localização de bens do executado, não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação. Precedentes.
+2. Hipótese em que, extinta a execução fiscal com base na prescrição intercorrente, sem resistência da exequente, não é possível reconhecer que a parte devedora sagrou-se vencedora na demanda e, por conseguinte, que obteve algum proveito econômico da Fazenda Pública credora, a justificar que essa venha a pagar honorários advocatícios, mormente com base na pretendida aplicação de percentual sobre o valor da causa (art. 85, § 3º, do CPC).
+3. No contexto em que a exequente nem deveria ter sido condenada ao pagamento de verba honorária, inviável se mostra o provimento da pretensão recursal ora deduzida, de majoração do quantum arbitrado, porquanto representaria fragrante ofensa ao princípio da razoabilidade, atualmente também previsto no art. 8º do CPC.
+4. Hipótese em que, em atenção ao princípio da congruência e do non reformatio in pejus, considerando que não houve recurso fazendário, deverá ser mantida a verba honorária já fixada pelas instâncias de origem.
+5. Recurso especial desprovido.
+(REsp 1768530/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 02/06/2020, DJe 29/06/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
