@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por OSVALDO ANTONIO DE SOUSA em face de acórdão que deu provimento ao agravo regimental do MINISTÉRIO PÚBLICO FEDERAL - MPF para afastar o parcial provimento do recurso especial que havia declarado extinção da punibilidade do embargante em razão da prescrição. O acórdão embargado ficou assim ementado:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL (RECONSIDERAÇÃO) NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. 1) VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. 2) VIOLAÇÃO AO ART. 14 DO CÓDIGO DE PROCESSO CIVIL DE 2015 - CPC/2015. INOCORRÊNCIA. NORMA PROCESSUAL JÁ VIGENTE AO TEMPO DOS FATOS. 3) AGRAVO REGIMENTAL PROVIDO PARA AFASTAR PARCIAL PROVIMENTO DO RECURSO ESPECIAL.
+1. Ausente violação ao art. 619 do CPP, eis que a tese defensiva foi rechaçada, ainda que indiretamente, sendo certo que o julgador não está obrigado a refutar diretamente ponto por ponto levantado pela Defesa quando já tiver apresentados as razões que forma sua convicção para o desfecho da controvérsia.
+2. O TJ dirimiu a controvérsia a respeito da intempestividade dos embargos de declaração opostos em face da sentença considerando que a intimação do MP ocorre com a entrega dos autos, na forma como decidido no REsp n. 1.349.935/SE. Tal proceder não encontra óbice em irretroatividade de norma processual, sequer penal, pois o decidido no referido recurso especial julgado sob a sistemática dos repetitivos apenas pacifica entendimento jurisprudencial, inexistindo vedação para aplicação de atual interpretação para norma processual já vigente ao tempo dos fatos. Inclusive, o referido paradigma foi julgado já sob a vigência do CPC/2015 e decidiu caso concreto em que a sentença foi prolatada em 15/6/2011.
+2.1. No caso concreto, a sentença foi publicada em audiência no dia 25/9/2013, quarta-feira (fl. 1026), mas o prazo dos embargos de declaração de dois dias previsto no art. 619 do CPP não teve início em 26/9/13. Consoante certificado nos autos, os embargos de declaração recebidos em 30/9/13 são tempestivos, o que, além da fé pública, possui verossimilhança, não sendo crível que o membro do MP já saiu com os autos em mãos no próprio dia 25/9/13. Assim, considerando que os autos foram ao MP em 26/9/13, o prazo teve início em 27/9/13 (sexta-feira) e encerramento em 30/9/13 (segunda-feira).
+3. Agravo regimental provido para afastar o parcial provimento do recurso especial." (fls. 1432/1433)
+A defesa sustenta que o voto vencedor do julgamento do agravo regimental não está em sintonia com os documentos inseridos nos autos para fins de contagem do prazo recursal dos embargos de declaração. Acresce que a decisão que reconheceu a prescrição transitou em julgado para o Ministério Público estadual, de modo que o MPF não era competente para interpor o agravo regimental.
+Requereu que seja sanado o erro material, com efeitos infringentes.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. PROPÓSITO DE REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sem a demonstração das hipóteses de cabimento (art. 619 do Código de Processo Penal - CPP, e art. 1022, III, do Código de Processo Civil - CPC), a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+2. Embargos declaratórios rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Não há erro material a ser sanado. Consoante constou no acórdão embargado, foi certificado nos autos que os embargos de declaração recebidos em 30/9/13 são tempestivos, o que, além da fé pública, possui verossimilhança, não sendo crível que o membro do MP já saiu com os autos em mãos no próprio dia 25/9/13.
+Em verdade, o embargante discorda da solução jurídica adotada no julgamento do agravo regimental, pretendendo a modificação do provimento, com a rediscussão das questões, o que não se coaduna com a medida integrativa. No mesmo sentido, citam-se precedentes (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA. MERA REDISCUSSÃO. PREQUESTIONAMENTO. IMPOSSIBILIDADE. MATÉRIA CONSTITUCIONAL. EMBARGOS REJEITADOS.
+1. A ausência, no acórdão, de quaisquer dos vícios elencados no art. 619 do Código de Processo Penal, torna inviável o acolhimento dos embargos declaratórios opostos.
+2. Na espécie, inexiste a omissão apontada, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, nesta via, rediscutir o entendimento adotado.
+3. Não cabe a esta Corte Superior manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDv nos EREsp 1746600/SC, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe 21/2/2020).
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO. OMISSÃO. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO. DISPOSITIVO CONSTITUCIONAL. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1. Apenas se admite embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP.
+ ..
+3. Não se prestam os embargos de declaração para a rediscussão do acórdão recorrido quando revelado mero inconformismo com o resultado do julgamento.
+4. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 1281062/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 9/3/2020).
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO EXAME DE PONTOS TRAZIDOS PELA DEFESA EM RESPOSTA PRELIMINAR. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE DE INTEGRAÇÃO DO JULGADO PARA INSERÇÃO DE FUNDAMENTOS, QUANDO AUSENTES VÍCIOS QUE AUTORIZEM O MANEJO DO MEIO IMPUGNATIVO ELEITO.
+ ..
+6. Os Embargos não constituem via própria para fazer prevalecer tese jurídica diferente da que foi acolhida no Acórdão quando, em sua essência e finalidade, não se dirigem à omissão ou outro vício, mas à nova declaração de efeito infringente. Os argumentos de que não foram dissecadas todas as variantes e possibilidades cogitadas pela defesa trazem como consequência a certeza de que pretendem os Embargos a declaração inversa do fundamento jurídico da decisão, o que impede à Corte renovar o julgamento para declarar o que constituiria nova manifestação de mérito em sentido contrário.
+ ..
+14. Aclaratórios que pretendem, em realidade, a modificação do julgado proferido, com nítido conteúdo infringente.
+15. Ausentes os requisitos autorizadores da via integrativa (omissão, contradição, ambiguidade ou obscuridade), a simples pretensão de reexame de provas não tem o condão de viabilizar os Embargos Declaratórios, motivo pelo qual são rejeitados.
+(EDcl na APn 843/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 23/4/2018).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA, SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. PRELIMINAR DE NULIDADE. IMPOSSIBILIDADE DE REALIZAR SUSTENTAÇÃO ORAL. AGRAVO REGIMENTAL EM MATÉRIA PENAL APRESENTADO EM MESA. POSSIBILIDADE. DISPOSITIVO CONSTITUCIONAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE. ATIPICIDADE DA CONDUTA DE LAVAGEM DE DINHEIRO. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. PREJUÍZO NÃO DEMONSTRADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE.
+ ..
+II - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes).
+III - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão e contradição no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/4/2018).
+Em tempo, o MPF possui legitimidade para recorrer. Precedente (grifo nosso):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENSÃO DE EFEITOS INFRINGENTES. OMISSÃO NO ACÓRDÃO EMBARGADO. CONSTATAÇÃO DO APONTADO VÍCIO. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL. INTERPOSIÇÃO CONCOMITANTE DE RECURSO PELOS MINISTÉRIOS PÚBLICOS ESTADUAL E FEDERAL. POSSIBILIDADE. TRÁFICO ILÍCITO DE ENTORPECENTES. VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. INTELIGÊNCIA POLICIAL. ATITUDE SUSPEITA. FUNDADAS RAZÕES. EMBARGOS ACOLHIDOS COM EFEITO MODIFICATIVO.
+1. A constatação de omissão no julgado impõe o acolhimento dos embargos declaratórios para correção desse vício.
+2. A interposição concomitante de recurso pelo Ministério Público Federal e pelo Ministério Público estadual não inviabiliza a análise do protocolizado por último, pois, de acordo com entendimento jurisprudencial do STJ, o órgão federal tem legitimidade para interpor agravo regimental ainda que o estadual tenha exercido essa faculdade com precedência, sem que se configure preclusão consumativa ou violação do princípio da unirrecorribilidade.
+3. O ingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo.
+4. Afere-se a justa causa para o ingresso forçado em domicílio mediante a análise objetiva e satisfatória do contexto fático anterior à invasão, considerando-se a existência ou não de indícios mínimos de situação de flagrante no interior da residência.
+5. Embargos de declaração acolhidos com efeitos infringentes, para não se conhecer do habeas corpus e se restabelecer o acórdão de apelação.
+(EDcl no AgRg no HC n. 642.130/RS, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 8/8/2022).
+Ante o exposto, voto no sentido de rejeitar os presentes aclaratórios.
