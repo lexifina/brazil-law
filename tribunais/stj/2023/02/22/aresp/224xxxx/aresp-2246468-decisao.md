@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por MONGEAL AEGON SEGUROS E PREVIDÊNCIA S.A., com fundamento no art. 105, III, c, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 811):
+AGRAVO INTERNO - AÇÃO RESCISÓRIA - HIPÓTESES NÃO CONFIGURADAS - FALTA INTERESSE PROCESSUAL - INDEFERIMENTO DA PETIÇÃO INICIAL. - Nos termos do artigo 348, § 4º, do Regimento Interno do TJMG, e artigo 968, § 3º, do CPC, a petição inicial da Ação Rescisória será indeferida liminarmente na hipótese de falta de interesse processual. - Não caracterizadas hipóteses legais previstas nos incisos V e VIII do artigo 966 do CPC/2015 suscitadas para fundamentar ajuizamento da Ação Rescisória, deve ser mantido o indeferimento da petição inicial e extinção do feito, sem resolução do mérito, por falta de interesse processual.
+Nas razões do recurso especial (e-STJ, fls. 824-836), a ora agravante apontou existência de dissídio jurisprudencial em relação aos arts. 330, III, e 968, §3º, do CPC/2015.
+Sustentou, em síntese, que o acórdão recorrido, ao entender pela falta de interesse de agir da ação rescisória proposta, teria ingressado indevidamente no mérito da própria demanda.
+Pleiteou a reforma da decisão objurgada para permitir o regular processamento da ação na origem.
+Contrarrazões às fls. 924-931 (e-STJ).
+O recurso especial não foi admitido pela Corte originária, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Ao dirimir a controvérsia, o Tribunal estadual fundamentou sua decisão da seguinte forma (e-STJ, fls. 813-818, sem grifos no original):
+A decisão que indeferiu a petição inicial e julgou extinto o feito, sem resolução do mérito, nos termos do artigo 485, I e VI, do CPC, deve ser mantida, porque não configurada hipótese de cabimento da Ação Rescisória, nos termos da doutrina e jurisprudência acerca da matéria.
+PRELIMINAR DE IMPOSSIBILIDADE DE JULGAMENTO MONOCRÁTICO
+A agravante suscita preliminar de impossibilidade de julgamento monocrático, tendo em vista que a avaliação de não adequação do caso concreto aos permissivos legais para manejo da rescisória é questão que se confunde com o mérito, sendo inadequada rejeição da petição inicial.
+Todavia, a questão suscitada em preliminar do agravo não merece guarida, tendo em vista a possibilidade de indeferimento da petição inicial mediante decisão monocrática em razão da verificação imediata da não caracterização de hipótese para ajuizamento da Ação Rescisória.
+(..)
+Com efeito. A decisão proferida não analisa o mérito da questão no sentido da correção ou não da atualização da indenização nos moldes pretendidos pela agravante e os parâmetros defendidos na exordial, sobretudo termo inicial de incidência da correção monetária, mas apenas falta de subsunção da situação narrada aos dispositivos que autorizam a ação autônoma de impugnação.
+Afinal, ressaltou-se quanto ao motivo da rejeição liminar que não decorre da narrativa da autora hipótese que possibilite aferir de plano indício de vício na decisão objeto da ação, especialmente no que se refere à violação de norma jurídica e ao erro de fato, de modo que análise inicial da petição permite concluir pela falta de interesse processual.
+O recebimento da petição inicial exige do magistrado análise dos pressupostos processuais e condições da ação, o que foi observado na situação em foco, sem, todavia, adentrar ao mérito da demanda.
+(..)
+Na hipótese, o conteúdo dos autos permite concluir de forma imediata a falta de interesse processual em razão da não caracterização da violação da norma jurídica e nem o erro de fato sustentado pela autora em sua exordial.
+(..)
+Nesse sentido, verificou-se ausência de situação ensejadora de potencial perspectiva de violação da norma jurídica com fundamento no artigo 966, V, do CPC, nos termos do ensinamento doutrinário destacado acerca da hipótese específica.
+(..)
+A autora pretende alteração do julgado para conferir interpretação própria ao dispositivo da Súmula conforme sua conveniência, de modo a modificar o modo de atualização do valor do seguro, o que não configura hipótese de violação à norma jurídica.
+Por outro lado, a autora não aponta objetivamente a distinção entre a questão discutida no processo (cobrança de seguro) e o padrão decisório que lhe deu fundamento, a fim de justificar erro na aplicação da norma jurídica por se tratar de situação distinta não abrangida pela Súmula referida.
+(..)
+Em relação ao erro de fato disposto no inciso VIII do artigo de regência. A decisão adverte que o erro de fato somente estará presente quando, embora conste dos autos elementos de prova para sua identificação, não foi objeto de controvérsia entre as partes, bem como não percebido na solução da lide pelo juiz, levando a uma sentença eivada de vício.
+Todavia, as questões afetas ao valor da indenização pelo seguro contratado e também o termo inicial de incidência da correção monetária foram objeto de controvérsia entre as partes, conforme é possível constatar de forma instantânea da análise dos autos.
+Aliás, destacou-se que a autora suscitou a matéria em sede de recurso de apelação, conforme se infere da cópia de suas razões (ordem 06, f. 101/112), tendo o réu rebatido os argumentos em contrarrazões (ordem 06, f. 128/133), e o Tribunal pronunciado no bojo do acórdão objeto do pedido de rescisão (ordem 06, f. 147).
+A controvérsia existiu viva e foi enfrentada, tendo sido ressaltado no julgado em relação à matéria suscitada: "no que diz respeito ao pedido de que o pagamento do benefício Invida Invalidez, plano 1477, Certificado/Apólice nº. 99943783914771, deve ser no valor originário Apelante.
+Conforme consta do recurso de apelação, a própria Apelante admite que "devidamente atualizados até a data de propositura da presente lide, perfez-se o valor de R$ 318.668,94 (trezentos e dezoito mil seiscentos e sessenta e oito reais e noventa e quatro centavos), como demonstrado o documento de Posição Consolidada dos Planos -documentos estes já acostados aos autos, contudo, aqui Acostados". Também correta neste ponto a sentença, eis que a condenação é exatamente no mesmo valor, de R$ 318.668,94.".
+O acórdão é claro ao concluir que a própria seguradora especifica o montante do benefício a ser pago, caso confirmada a condenação.
+Logo, o juízo ad quem se pronunciou acerca do valor a ser observado no pagamento do benefício. Aliás, o julgado não considera inexistente fato ocorrido, ou seja, "fixação de correção monetária a partir de data diversa daquela constante do documento denominado "Posição Consolidada dos Planos", conforme sustentado pela autora, vez que reconhece como correto o valor atualizado da indenização para fins de pagamento, nos termos da sentença.
+Aliás, a agravante é que pretende discutir novamente o mérito da causa, valendo-se inadequadamente da Ação Rescisória como sucedâneo recursal, o que é vedado.
+Destarte, verifica-se que o Tribunal a quo concluiu não terem sido demonstrados os requisitos autorizadores da ação rescisória. Apontou, ainda, que a pretensão da ora recorrente limita-se à rediscussão do mérito da decisão rescindenda, o que não é possível neste âmbito.
+Nesse contexto, o acórdão recorrido não diverge da jurisprudência desta Corte Superior, no sentido de que a ação rescisória não poder ser utilizada como sucedâneo recursal, a fim de corrigir suposta injustiça na interpretação dos fatos.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PETIÇÃO INICIAL. INDEFERIMENTO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. AÇÃO. DECISÃO JUDICIAL. RESCISÃO. POSSE E PROPRIDADE. DEFESA. INADEQUAÇÃO DA VIA ELEITA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o art. 1.022 do Código de Processo Civil de 2015 o acórdão que motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+3. A ação rescisória não é o meio adequado para corrigir suposta injustiça da decisão, apreciar má interpretação dos fatos ou reexaminar as provas produzidas ou complementá-las.
+4. Na hipótese, o recurso questiona a inadimplência dos réus e pretende defender a posse ao argumento de que é o único e legítimo proprietário do imóvel sem indicar a suposta violação de dispositivo de lei federal necessária à rescisão de decisão judicial transitada em julgado.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.362.768/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/03/2021, DJe 07/04/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AÇÃO DE INDENIZAÇÃO. HOMICÍDIO PRATICADO NAS DEPENDÊNCIAS DA RECORRENTE EM SAÍDA DE BAILE POR ELA PROMOVIDO. ALEGADA FALTA DE SEGURANÇA NO LOCAL DO EVENTO. RESPONSABILIDADE CIVIL RECONHECIDA. DOCUMENTO NOVO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DOS FATOS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Tem-se, na hipótese, ação rescisória fundada na alegação de documento novo, consistente em Escritura Pública Declaratória, na qual o autor do homicídio, em razão do qual a recorrente foi condenada a indenizar, declara que o crime ocorrera fora de suas dependências e, portanto, seria capaz de lhe assegurar pronunciamento favorável para excluir sua responsabilidade civil.
+2. Esta Corte Superior tem entendimento de que o documento novo apto a aparelhar pedido rescisório há de ser preexistente à decisão rescindenda, mas ignorado pelo interessado ou impossível de obtenção para utilização no processo e capaz, por si só, de assegurar-lhe pronunciamento favorável. No caso, o documento não existia à época da decisão rescindenda, pois foi produzido unilateralmente após o trânsito em julgado da ação rescindenda, não podendo ser considerado documento novo.
+3. O Tribunal de origem, ao julgar improcedente a ação rescisória, consignou que "o conteúdo do aludido documento contraria as demais provas produzidas na ação rescindenda e, inclusive, o próprio Inquérito Policial, segundo os quais o crime ocorreu dentro no pátio da sede da parte autora".
+4. Nos termos da jurisprudência desta Corte, a ação rescisória não é o meio adequado para corrigir suposta injustiça da decisão, apreciar má interpretação dos fatos, ou reexaminar as provas produzidas ou complementá-las.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.559.722/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/03/2020, DJe 31/03/2020)
+Ademais, a análise da pretensão recursal, no sentido de modificar o entendimento externado pela Corte originária, exige o reexame do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7 deste Tribunal.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em mais 2% (dois por cento) sobre a base de incidência fixada pelas instâncias ordinárias.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS AUTORIZADORES DA DEMANDA. PRETENSÃO DE REEXAME DOS ELEMENTOS FÁTICOS DA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
