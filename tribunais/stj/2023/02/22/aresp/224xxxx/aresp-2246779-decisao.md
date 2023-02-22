@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DAS GRAÇAS DA SILVA em virtude da inadmissão de recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará assim ementado:
+"DIREITO PROCESSUAL CIVIL E CIVIL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ALEGAÇÃO DE ATO ILÍCITO. SUPOSTO SAQUE INDEVIDO DE PAGAMENTO VIA RPV. AUSÊNCIA DE COMPROVAÇÃO DA TESE RECURSAL. PROVA EMINENTEMENTE DOCUMENTAL QUE MILITA CONTRA A TESE DO RECURSO. INOBSERVÂNCIA DO DISPOSTO NO ARTIGO 373, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA ALTERADA DE OFÍCIO.
+1. Trata-se de apelação cível interposta por Maria das Graças da Silva (fls.150/161) contra decisão prolatada pelo Juízo da 19" Vara Cível da Comarca de Fortaleza/CE (fls.142/147), que nos autos da ação indenizatória ajuizada em face de Francisco Ivan Ponte Mendes, julgou extinto o feito sem resolução de mérito, sob o fundamento da falta de interesse de agir para o ajuizamento da demanda, nos termos do artigo 485 do CPC.
+2. Em que pesem os argumentos expostos na peça recursal, tenho que a sentença deu adequada solução à lide. Explico.
+3. No que concerne a prova da existência do ato ilido da parte promovida (apelada), ônus atribuível à parte autora, ora apelante (art. 373, inciso I, do Código de Processo Civil), parte-se da alegação do fato de que houve realização de saque indevido de montante decorrente de RPV (meio de pagamento de condenações contra a Fazenda Pública). À fl.152 a parte recorrente sustenta que o apelado na condição de seu patrono junto ao processo de nº 0501064-49.2006.4.05.8100, em trâmite perante a 21 Vara da Seção Judiciária no Ceará, aos 09.11.2007 recebeu a quantia de R$ 21.501,38 (vinte e um mil quinhentos e um reais e trinta e oito centavos). 4. Contudo, conforme demonstrado nos fólios, o que se percebe de fato é e que o depósito referente ao RPV 2007.81.00.001500354 (fl.15 e fl.123) foi realizado diretamente na conta da parte apelante, o que, por si só, desnaturaria qualquer tese em sentido contrário ao comando sentencial. Destaca-se, ainda, a existência de outro RPV 2007.81.00.021500258, de fl.128, sem qualquer comprovação de efetivo pagamento.
+5. No conjunto probatório sobressai, portanto, a existência de alvará expedido em nome da apelante e o depósito feito na sua conta devido em razão do benefício pleiteado, consoante se depreende do documento de fl.123.
+6. Dessa maneira, observa-se que a sentença vergastada, neste ponto, não merece nenhuma reforma, na medida em que restou concretamente comprovado que os valores ora perquiridos não são devidos. Contudo, o Julgador monocrático, ao concluir a parte dispositiva da sentença, incorreu em erro, de modo que, pela teoria da asserção, a fundamentação aplicada diz respeito ao mérito do pleito em si, e não às condições da ação.
+7. Sob esse prisma, e considerando que a apelante não se desincumbiu do seu ônus probatório, nos termos do artigo 373, I, do Código de Processo Civil, máxime ante a ausência de pedido de produção de outras provas e inexistência de impugnação ao anúncio do julgamento antecipado da lide, forçoso reconhecer a improcedência do pedido exordial.
+8. Conforme análise processual, tem-se que não há o mínimo indício de comprovação da tese autoral acerca do suposto ato ilícito praticado pelo apelado, bem como pelos danos suportados, o que acarreta inexoravelmente a rejeição da tese recursal.
+9. Apelo conhecido e improvido. Sentença reformada de ofício para julgar improcedente o pedido exordial" (fls. 174/175 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, a recorrente sustenta violação dos artigos 373, inciso II, 489, § 1º, inciso IV, 1.022 do Código de Processo Civil de 2015 e 43 do Código de Defesa do Consumidor.
+Aduz omissão e falta de fundamentação no julgado.
+Menciona ainda que caberia ao réu comprovar o recebimento de valores pela recorrente.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A alegação de negativa de prestação jurisdicional merece prosperar.
+De fato, verifica-se que, não obstante a oposição de declaratórios, a Corte local permaneceu silente quanto ao seguinte ponto:
+"(..)
+O acordão guerreado deixou de verificar o argumento ventilado nos parágrafos 36 e seguintes da peça de apelação, novamente parágrafo 38, em que resta incontroverso que o próprio apelado, ora embargado, confessa o recebimento dos valores. A este respeito, mais uma vez, colaciona-se trecho da prédica defensória em que resta patente o reconhecimento indireto do recebimento de valores embargado:
+O REQUERIDO NÃO REPASSOU OS VALORES À REQUERENTE, UMA VEZ QUE TAIS VALORES PERTENCIAM (E CONTINUAM PERTENCENDO) À FAZENDA PÚBLICA FEDERAL (INSS) E NÃO À REQUERENTE.
+(..)
+Ora, Nobres Desembargadores, o embargado confessa não ter repassado o valor porque o mesmo pertencia à Fazenda Pública, o que deixa mais do que evidenciado não ter havido recebimento de valores pela embargante. Nada obstante a gravidade de tal confissão, não se depara com qualquer pronunciamento por esta Egrégia Corte a este respeito" (e-STJ fl. 189).
+O artigo 1.022, parágrafo único, inciso II, do CPC, remetendo-se ao artigo 489, § 1º, IV, determina que é omissa a decisão que "(..) não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado questões necessárias ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do CPC, a fim de anular o acórdão recorrido para suprir a omissão existente.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+(..)
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo
+modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido" (AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/9/2019, DJe 13/9/2019).
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios de fls. 187/192 (e-STJ), como entender de direito, prejudicada a análise das demais questões.
+Publique-se.
+Intimem-se.
