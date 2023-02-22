@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ISRAEL MOREIRA DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do Recurso em Sentido Estrito n. 0008093-49.2022.8.19.0042.
+Extrai-se dos autos que o paciente foi preso em flagrante em 13/6/2021, o qual foi convertido em preventiva, e restou denunciado pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+Em 29/3/2022, o Juízo de primeiro grau reavaliou a necessidade da custódia, nos termos do art. 316 do CPP, ocasião na qual revogou a prisão preventiva, em razão do excesso de prazo na formação da culpa. (fls. 32)
+Contra a referida decisão, o Ministério Público interpôs recurso em sentido estrito perante o Tribunal de origem, o qual, em 10/8/2022, deu provimento ao reclamo, para decretar a prisão preventiva do réu, nos termos do acórdão que restou assim ementado:
+"RECURSO EM SENTIDO ESTRITO. ARTIGO 33 CAPUT,LEI Nº 11.343/06. DECISÃO QUE, AO RE-AVALIAR A NECESSIDADE DA CUSTÓDIA PRE-VENTIVA,CONCEDEU A LIBERDADE PROVISÓ-RIA AORÉU, POR EXCESSO DE PRAZO. IRRE-SIGNAÇÃO DO MINISTÉRIO PÚBLICO. PRESEN-ÇA DOS PRESSUPOSTOS NECESSÁRIOS PARA AMEDIDA CAUTELAR EXTREMA. ARTIGO 312 DO CPP. RECURSO PROVIDO.
+Segundo narrado na denúncia, o recorrido Israel foi preso em flagrante no dia 13 de junho de2021, por policiais militares que receberam denúncia anônima, acerca de um indivíduo, vulgo "Rael", que estaria vendendo drogas numa rua próxima de sua casa, situada no Morro do Neylor, em Petrópolis. No local, os agentes da lei lograram êxito em deter o réu, que se encontrava na porta de sua residência e, no interior do imóvel, foram arrecadados13 (treze) unidades de tubos plásticos, contendo 37,7g (trinta e sete gramas e sete decigramas) de cocaína, com a inscrição "Neylor CV Pó de R$ 25,00".
+Da consulta à ação penal originária (Processo nº 0132313-82.2021.8.19.0001), verifica-se que, durante a audiência de custódia, o Julgador a quo converteu a prisão em flagrante em preventiva, fundamentada na gravidade da conduta e para a garantia da ordem pública.
+Na decisão atacada, proferida em 29/3/2022, ao reavaliar o cárcere processual, o Juízo concedeu a liberdade provisória ao acusado, por excesso de prazo.
+Na hipótese em testilha, a prisão preventiva do réu é medida que se impõe, diante das circunstâncias do caso concreto. Há indícios suficientes de autoria e prova da materialidade do crime imputado ao recorrido, consoante os documentos e declarações colhidos em sede policial, configurando o fumus comissi delicti.
+In casu, o denunciado foi preso em flagrante, por policiais militares, após informação anônima, no sentido de que estaria ele comercializando entorpecentes na localidade indicada, o que se comprovou com a apreensão, em sua posse, de diversos pinos de cocaína, prontos para venda, restando patente o periculum libertatis.
+Não bastasse isso, resta evidente a sua reiteração criminosa, na medida em que Israel ostenta uma condenação definitiva pela prática de tráfico de drogas, cujo trânsito em julgado ocorreu em 11/5/2018, na qual foi estabelecida a pena de 5 (cinco) anos de reclusão, conforme consta de sua folha penal, o que, também, justifica a sua custódia, nos termos do artigo 313, II, do CPP.
+Em que pese o entendimento do nobre Magistrado a quo, eventual excesso de prazo, isoladamente, não tem o condão de autorizar a revogação da segregação cautelar. Neste caso, deve o Juízo, tão somente, providenciar as medidas necessárias ao andamento célere do processo, a fim de que a prestação jurisdicional possa ser entregue com a maior brevidade possível, levando-se em conta, por óbvio, a situação excepcional causada pela pandemia.
+No tocante à necessidade de garantia da ordem pública, a gravidade da conduta constitui motivação satisfatória à manutenção da custódia cautelar.
+Com efeito, o delito de tráfico é matriz para diversos outros crimes, gerando consequências nefastas para toda a sociedade, o que justifica o ergástulo preventivo, com vistas à garantia da ordem pública
+Vale consignar que, até mesmo a primariedade ou eventual comprovação de endereço fixo ou de atividade laborativa lícita, por si sós, não obstam a prisão provisória. Precedentes.
+Não é demais registrar a inaplicabilidade dos princípios da homogeneidade ou da proporcionalidade, considerando a natureza do delito em tela - tráfico de drogas - que é punido com pena privativa de liberdade superior a 4 (quatro) anos, o que torna incabível, certamente, a incidência de institutos despenalizadores, em caso de condenação, apontando-se, ainda, a reincidência específica.
+Portanto, frente às peculiaridades do caso, não se afigura razoável a imposição, apenas, da medida cautelar de comparecimento mensal em juízo, como fora estabelecido no decisum atacado.
+RECURSO PROVIDO, a fim de decretar a custódia preventiva do recorrido, com imediata expedição de mandado de prisão." (fl. 257).
+No presente writ a Defensoria Pública sustenta o excesso de prazo na formação da culpa, destacando que o paciente esteve preso durante quase 1 ano, sem que tivesse sido encerrado o feito. Aduz que o processo não conta com complexidade que justifique sua demora e informa que a audiência de instrução e julgamento foi designada somente para 21/9/2022. Aponta violação ao princípio da razoabilidade.
+Aduz, ainda, a ausência de fundamentação concreta que justifique a prisão preventiva do paciente, baseada apenas na gravidade abstrata do delito e na mera presunção de reiteração delitiva.
+Destaca que a pequena quantidade de droga apreendida e a reincidência do paciente não constituem elementos aptos a justificar a segregação antecipada.
+Assevera, portanto, não estarem presentes os requisitos previstos no art. 312 do CPP.
+Aduz que a pequena quantidade de droga apreendida indica a desnecessidade da prisão preventiva, no caso concreto.
+Requer, em liminar e no mérito, o relaxamento ou a revogação da prisão preventiva do paciente.
+A liminar foi indeferida (fls.54/57) e as informações foram prestadas (fls.62/65 e 68/91). O Ministério Público Federal opinou pela denegação da ordem (fls. 93/98).
+É o relatório.
+Decido.
+O mandamus está prejudicado.
+Isso porque, em consulta ao andamento processual na página eletrônica do Tribunal de origem, verificou-se que, em 19/12/2022, nos autos da Ação Penal n. 0132313-82.2021.8.19.0001, o paciente foi beneficiado com a liberdade, ocasião na qual foi determinada a expedição de alvará de soltura.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intime-se.
