@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interno interposto por DAVID WILLIAN DE SIQUEIRA DOS SANTOS contra decisão monocrática proferida pelo Ministro Og Fernandes, por meio da qual não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182 do STJ.
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 724-736):
+APELAÇÃO CÍVEL EM AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS INICIAIS. 1. PRELIMINAR DE ILEGITIMIDADE ATIVA ARGUIDA PELA RÉ EM CONTRARRAZÕES. NÃO ACOLHIMENTO. TEORIA DA ASSERÇÃO E COMPROVANTE DE ENDEREÇO EM NOME DA AVÓ DO AUTOR. 2. ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) GUARAITUBA. ALEGAÇÃO DE MAU CHEIRO. RESPONSABILIDADE OBJETIVA POR DANO AMBIENTAL. AUSÊNCIA DE NEXO CAUSAL ENTRE A INSTALAÇÃO DA ETE E A DEGRADAÇÃO AMBIENTAL NA REGIÃO. PROVA PERICIAL ATESTANDO O REGULAR FUNCIONAMENTO DA ESTAÇÃO DE TRATAMENTO ENQUANTO ATIVA. COMPROVAÇÃO DE POLUIÇÃO NO RIO PALMITAL PREVIAMENTE À INSTALAÇÃO DA ETE. MAU CHEIRO QUE PERSISTE MESMO APÓS A SUA DESATIVAÇÃO. PROVAS DOCUMENTAL E ORAL INSUFICIENTES À DESCONSTITUIÇÃO DO LAUDO PERICIAL. SENTENÇA MANTIDA. 3. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. POSSIBILIDADE DE MAJORAÇÃO, NOS TERMOS DO ARTIGO 85, § 11, DO CPC/2015. RECURSO DE APELAÇÃO CONHECIDO E IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 797-804).
+No recurso especial, a parte recorrente aponta violação do art. 14, § 1º, da Lei Federal n. 6.938/81, c/c o art. 373, caput e § 1º, do CPC e do art. 927, caput e parágrafo único, do Código Civil.
+Sustenta que, "ao afirmar que não houve a comprovação do nexo causal e, em razão disso, julgar improcedente a apelação, evidente que o E. Tribunal a quo violou a sistemática do Direito Ambiental instituída pelo art. 14, §1º da Lei Federal n. 6.938/81 e consolidada na Súmula 618 do STJ, com base no princípio da precaução e na aplicação da teoria do risco integral em matéria de responsabilidade civil por danos ambientais" (fl. 816).
+O recurso especial foi inadmitido na origem ao argumento de incidência das Súmulas n. 211/STJ e 7/STJ (fls. 901-903).
+O Ministro Og Fernandes, ao qual sucedi, não conheceu do agravo em recurso especial por entender aplicável ao caso o óbice da Súmula n. 182/STJ (fls. 965-966).
+No presente agravo interno, alega-se que todas as violações apontadas em sede de recurso especial foram explicitamente prequestionadas pelo agravante.
+O agravante aduz ainda que expôs todos os fatos e fundamentos de sua irresignação, na medida em que rebateu fundamentadamente cada um dos termos arguidos nas decisões do Tribunal a quo, permitindo assim, a exata compreensão da controvérsia levantada.
+Por fim, pugna pela reconsideração da decisão agravada.
+Contraminuta às fls. 976-978.
+É, no essencial, o relatório.
+Da detida análise das razões trazidas no agravo, entendo que assiste razão à agravante quanto ao afastamento da Súmula n. 182.
+Desse modo, torno sem efeito a decisão de fls. 965-966 e, atendidos os pressupostos de admissibilidade do agravo, passo a analisar o recurso especial.
+O Tribunal de origem, ao negar provimento à apelação, deixou claro que "a responsabilidade civil do agente causador de dano ambiental é objetiva, nos termos do art. 225, § 3º da CF e do art. 14, § 1º da Lei nº 6.983/81. Por ser objetiva, basta haver nexo de causalidade entre o dano e a conduta comissiva ou omissiva do agente, sendo despicienda a demonstração do elemento culpa" (fls. 728-726).
+O Tribunal local concluiu que "considerando que não restou demonstrado o nexo causal entre a instalação da ETE e o mau cheiro na região do Jardim Guaraituba, impõe-se a manutenção da r. sentença" (fl. 801).
+Assim, para se chegar à conclusão diversa do que restou decidido pelo Tribunal de origem, seria necessário o reexame de matéria fática no âmbito do recurso especial, providência vedada nos termos da Súmula n. 7/STJ.
+No mais, fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7 do STJ.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. AUSÊNCIA. VALOR. INDENIZAÇÃO. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ. DISSÍDIO. NÃO CONFIGURAÇÃO. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados
+Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É inviável rever o entendimento firmado pelas instâncias ordinárias quanto ao valor da indenização por danos morais sem a análise de fatos e provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. A aplicação da súmula do Superior Tribunal de Justiça em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da matéria indicada no dissídio jurisprudencial.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.089.520/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Ante o exposto, torno sem efeito a decisão de fls. 965-966 e conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
