@@ -1,0 +1,7 @@
+DECISÃO
+Em sessão de julgamento realizada em 17/12/2019, a Segunda Seção do STJ decidiu submeter à Corte Especial a apreciação da possibilidade de fixação de horários advocatícios por equidade, nos termos do art. 85, § 8º, do CPC/2015.
+Assim, em que pese o cancelamento do Tema 1046, a Corte Especial do STJ julgou o Tema 1076 (DJe de 31/05/2022) fixando as seguintes teses, com a ressalva do meu entendimento:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Forte nessas razões, e com fundamento no art. 1.040, III do CPC, determino a devolução dos autos ao TJ/MG e a retomada do curso do processo, no Tribunal de origem, para "julgamento e aplicação da tese firmada" pelo STJ no Tema 1076.
+Publique-se. Intimem-se.
