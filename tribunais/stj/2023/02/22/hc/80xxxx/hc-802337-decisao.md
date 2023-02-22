@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VAGNER DOS SANTOS FRANCISCO ou VAGNER DOS SANTOS FRANCISCO COMANDINI contra decisão proferida pelo Desembargador Relator do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido urgente formulado nos autos do HC n. 2025144-39.2023.8.26.0000.
+Consta dos autos que, em 02/08/2022, após requerimento da autoridade policial, foi decretada a prisão preventiva do Paciente pela suposta prática dos delitos previstos no art. 157, § 3.º, inciso II, por duas vezes, na forma do art. 70, c.c. o art. 14, inciso II, todos do Código Penal; art. 288, caput, e art. 180, caput, na todos forma do art. 69, todos do Código Penal, conforme a denúncia de fls. 28-35.
+Impetrado prévio habeas corpus perante o Tribunal de origem, o Desembargador Relator indeferiu o pedido liminar (fls. 1062 -1063).
+Neste writ, a Defesa sustenta, em síntese, o afastamento da incidência da Súmula n. 691/STF, bem como a possibilidade aplicação do princípio da fungibilidade à impetração.
+Aduz teses de negativa de autoria e materialidade delitivas, bem como alega ausência de fundamentação idônea no decreto prisional.
+Argumenta, ainda, que o Paciente é acometido por insuficiência renal crônica, fazendo jus à prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva. Subsidiariamente, pleiteia a substituição da segregação cautelar por prisão domiciliar ou a imposição de monitoramento eletrônico.
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar").
+No caso, não se evidencia a existência de situação absolutamente teratológica que autorize a mitigação do mencionado óbice processual.
+Verifico, inicialmente, que o Tribunal a quo não teve sequer a oportunidade de analisar se estão presentes, na hipótese, os elementos fáticos caracterizadores do alegado constrangimento ilegal, pois o Desembargador Relator do feito na origem destacou que o feito não está devida mente instruído com as peças necessárias à análise da pretensão, afirmando ser "imprescindível a vinda de maiores informações" por parte do Juízo de primeiro grau, nos seguintes termos (fl. 1062):
+" ..  em que pese a argumentação expendida pelos impetrantes, certo é que a medida liminar em habeas corpus, por não estar prevista expressamente entre os artigos 647 a 667 do Código de Processo Penal, é excepcional, razão pela qual está reservada para os casos em que avulta flagrante o constrangimento ilegal, sem o exame aprofundado dos fatos.
+ ..
+No mais, por não estar o feito instruído com todas as peças necessárias para análise do pleito e por se tratar de imputação de delitos que se revestem de extrema gravidade, mostra-se imprescindível a vinda de maiores informações por parte do Juízo apontado como coator."
+É oportuno ressaltar que a prisão domiciliar ora postulada demanda análise de provas que demonstrem o estado de extrema debilidade por motivo de doença grave e a impossibilidade de se receber o tratamento adequado na unidade prisional, motivo pelo qual não se evidencia a existência de teratologia na decisão ora atacada.
+Confira-se, mutatis mutandis, o seguinte julgado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA 691/STF. ILEGALIDADE. AUSÊNCIA. PRISÃO PREVENTIVA. DECRETO IDÔNEO. REITERAÇÃO DELITIVA. TRANCAMENTO DA AÇÃO PENAL. SUPRESSÃO INSTÂNCIA. WRIT INDEFERIDO LIMINARMENTE.
+1. "Não é teratológica a decisão do Desembargador-Relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado n. 691 da Súmula do STF" (AgRg nos EDcl no HC 569.733/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 12/5/2020, DJe de 25/5/2020).
+ ..
+5. Agravo regimental improvido." (AgRg no HC n. 779.086/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022; sem grifos no original.)
+Outrossim, verifica-se que os requisitos da prisão preventiva nem sequer foram analisados na decisão ora impugnada, pois o Relator do feito afirmou que tal controvérsia já foi apreciada em anterior impetração, a saber, no HC n. 2195477-58.2022.8.26.0000/SP, em que, por unanimidade, foi den egada a ordem (fl. 1063).
+Nessa conjuntura, não havendo notícia de que o Tribunal de Justiça do Estado de São Paulo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte a quo , mormente se o writ está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a peti ção inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
