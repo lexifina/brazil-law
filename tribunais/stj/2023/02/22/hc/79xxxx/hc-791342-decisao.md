@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 57-58):
+Cuida-se de agravo em execução interposto pelo MINISTÉRIO PÚBLICO contra a decisão reproduzida às fls. 41/42,datada de 10.10.2022, da Magistrada em exercício na Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Presidente Prudente, que, nos autos da Execução Penal nº 0000412-27.2017.8.26.0521, deferiu o benefício do livramento condicional a LUAN ADRIANO DO NASCIMENTO.
+Sustenta, em resumo, o agravante, que o sentenciado não reúne mérito suficiente para ser agraciado com benesse tão ampla, destacando que ele cumpre pena por crimes graves, perpetrados mediante violência ou grave ameaça à pessoa, possui longa pena a cumprir, e ainda praticou diversas faltas graves.
+Busca a reforma da decisão para que Luan retorne à modalidade carcerária mais gravosa, anotando ser recomendável que o recorrido vivencie primeiramente o regime intermediário, para, somente após, usufruir do livramento condicional (fls. 01/07).
+Regularmente processado o recurso, a decisão atacada foi mantida (fl. 55), colhendo-se, neste Tribunal, a manifestação da Procuradoria-Geral de Justiça pelo provimento (fls.64/67).
+É o relatório.
+Consta dos autos que o Juízo da Execução Criminal da Comarca de Presidente Prudente deferiu ao ora paciente o benefício do livramento condicional.
+Irresignado, o Ministério Público interpôs agravo em execução, provido pelo Tribunal de origem para determinar o retorno do agravado ao regime fechado, para que fosse realizado exame criminológico.
+Sustenta a impetrante, em síntese, que a decisão proferida pelo Tribunal paulista foi baseada apenas na gravidade abstrata dos delitos e no histórico prisional do paciente.
+Afirma que "o paciente já cumpriu o lapso necessário da pena e possui boa conduta carcerária, haja vista que, da data da última falta perpetrada, decorreu, em 05 de julho de 2022 (fls. 688), o prazo depurador de 01 ano para a reabilitação da conduta" (fl. 7), sendo desnecessária, para a concessão do benefício, a prévia progressão ao regime intermediário.
+Requer, assim, liminarmente e no mérito, a concessão do benefício do livramento condicional.
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opina pela denegação da ordem.
+Sobre o tema, dispôs o acórdão (fls. 58-61 ):
+Luan conta com condenação total de onze anos, nove meses e vinte dias de reclusão pela prática de furtos qualificados, roubo e falsa identidade. Iniciou o cumprimento da pena em 09.07.2015 e o término dela está previsto para 12.08.2027 (fls.20/25).
+Pois bem.
+Além do lapso temporal, o artigo 112 da Lei de Execução Penal exige, para a concessão de benesses no cumprimento da pena, boa conduta carcerária.
+Para o livramento condicional, o artigo 83 do Código Penal enumera alguns requisitos, tais como: bons antecedentes; comportamento satisfatório durante a execução da pena, bom desempenho no trabalho e aptidão para prover a própria subsistência mediante trabalho honesto; e reparação do dano, salvo impossibilidade de fazê-lo.
+Nos crimes dolosos cometidos com violência ou grave ameaça à pessoa, exige-se, ainda, a verificação de condições pessoais que façam presumir que o liberado não voltará a delinquir.
+No caso concreto, respeitado o entendimento da Magistrada em exercício na origem, não estão presentes os requisitos exigidos para a concessão da liberdade condicionada. Isto por contado histórico prisional desfavorável de Luan, que praticou faltas graves durante o cumprimento da pena, consistentes em abandono do regime semiaberto (14.05.2018), prática de novo delito durante o abandono (30.06.2018) e desrespeito a servidor público, bem como subversão à ordem (05.06.2021).
+E ainda que as referidas faltas graves já estejam reabilitadas, elas são aptas a macular o mérito do sentenciado.
+(..)
+Assim, esse preocupante perfil pessoal do recorrido não pode ser desconsiderado. E aliado, ainda, à longa pena que ele tem a descontar, decorrente da prática de crimes graves, a concessão imediata do livramento condicional se revela temerária.
+É necessário, no mínimo, que a aptidão do executado para o gozo de benefício tão amplo seja aferida por meio de avaliação criminológica, a fim de averiguar a assimilação da terapêutica penal e afastar o prognóstico de reincidência.
+Sobre o tema, o Superior Tribunal de Justiça firmou entendimento de que "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Enunciado da Súmula 439).
+Portanto, a liberdade condicionada concedida ao agravado deve ser cassada, com o retorno dele ao regime prisional fechado, para que seja submetido à referida perícia criminológica, anotando-se que, embora recomendável, a prévia vivência no regime intermediário não é condição para gozo do livramento condicional.
+Diante do exposto, dá-se provimento ao recurso do Ministério Público, a fim de cassar a decisão proferida na origem, para determinar o retorno do agravado para o regime prisional fechado, sem prejuízo do reexame do respectivo pedido de livramento condicional, após a realização de exame criminológico, que ora se determina, de ofício.
+Com efeito, nos termos da jurisprudência desta Corte, desde a Lei n. 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada.
+Embora tenha a lei abolido a realização obrigatória do exame criminológico para fins de progressão de regime, não o retirou do ordenamento jurídico, pois consta no art. 8º da Lei de Execução Penal (Lei n. 7.210/1984):
+Art. 8º O condenado ao cumprimento de pena privativa de liberdade, em regime fechado, será submetido a exame criminológico para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução.
+Parágrafo único. Ao exame de que trata este artigo poderá ser submetido o condenado ao cumprimento da pena privativa de liberdade em regime semiaberto.
+Nesse sentido a Súmula 439/STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+No caso dos autos, constata-se motivação concreta para a submissão do apenado ao exame criminológico, tendo em vista sobretudo o "histórico prisional desfavorável de Luan, que praticou faltas graves durante o cumprimento da pena, consistentes em abandono do regime semiaberto (14.05.2018), prática de novo delito durante o abandono (30.06.2018) e desrespeito a servidor público, bem como subversão à ordem (05.06.2021)", não se verificando, pois, nenhuma ilegalidade a ser sanada pela via do habeas corpus.
+Assim, a possibilidade de determinação da realização de exame criminológico, sempre que julgada necessária pelo magistrado competente, ou mesmo pelo Tribunal a quo, como no caso dos autos, é pacificamente reconhecida pela jurisprudência deste Superior Tribunal, desde que por decisão fundamentada. Confira-se:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. REQUISITO SUBJETIVO. DETERMINADA REALIZAÇÃO DE PRÉVIO EXAME CRIMINOLÓGICO. FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 439/STJ. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula n. 439 desta Corte: " a dmite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+2. A Corte estadual entendeu ser necessária a prévia realização de exame criminológico para aferir o requisito subjetivo da progressão de regime em virtude da prática de falta grave, pelo Apenado, durante a execução da pena (participação em movimento para subverter a ordem e a disciplina) e do descumprimento das condições impostas no curso de livramento condicional anterior (prática de novo delito).
+3. Não se verifica, na hipótese em apreço, nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de prévio exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior.
+4. Ordem denegada. (HC 614.591/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME/LIVRAMENTO CONDICIONAL. PRÉVIO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo denegou a ordem na origem, mantendo a decisão que determinou a prévia realização de exame criminológico, sob o fundamento de que o apenado ostenta "diversas faltas disciplinares de natureza grave em seu desfavor, a última delas com reabilitação prevista apenas para 12 de novembro de 2022". Inteligência da Súmula n. 439/STJ.
+2. Agravo regimental desprovido. (AgRg no HC 632.422/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/03/2021, DJe 05/04/2021.)
+Desse modo, não se verifica, na hipótese em apreço, nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de prévio exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
