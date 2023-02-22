@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA) contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO cuja ementa guarda os seguintes termos (fl. 216):
+CONSTITUCIONAL E ADMINISTRATIVO. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA). CRIAÇÃO DE PASSERIFORME. ANULAÇÃO DE AUTO DE INFRAÇÃO. MULTA. CONVERSÃO EM PRESTAÇÃO DE SERVIÇOS AO MEIO AMBIENTE. IMPOSSIBILIDADE. AVE AMEAÇADA DE EXTINÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+1. No caso, o autor foi autuado por manter 08 (oito) pássaros da fauna silvestre em cativeiro, sem autorização do órgão competente, aplicando-lhe multa no valor de R$ 4.000,00 (quatro mil reais).
+2. Ocorre que das 08 (oito) aves apreendidas 03 (três) eram canários-da-terra, conhecidos no Estado de Minas Gerais por canários-chapinha (Sicalis Flaveola Brasiliensis), constando da Lista das Espécies da Fauna Ameaçadas de Extinção no Estado de Minas Gerais (Deliberação 041/95 do Conselho Estadual de Política Ambiental - Copam).
+3. Apesar de constatada a infração à legislação ambiental, a atuação administrativa deve se ater ao princípio da estrita legalidade, com observância, inclusive, dos princípios da razoabilidade e da proporcionalidade, devendo a multa ser reduzida para R$ 1.500,00 (mil e quinhentos reais), levando-se em consideração ser o autor trabalhador autônomo e de baixa renda, e que apenas 03 (três) dentre as 08 (oito) aves apreendidas estavam ameaçadas de extinção.
+4. Apelação e remessa oficial parcialmente providas.
+Rejeitados os embargos de declaração opostos (fls. 261-271).
+A recorrente aduz, em síntese, que "o acórdão recorrido, ao reduzir o quantum da multa aquém do mínimo legal violou os arts. 74 e 75, da Lei 9.605/98" (fl. 283).
+Oferecidas contrarrazões (fls. 299-307), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 325-328), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial não comporta conhecimento.
+Trata-se, na origem, de apelação interposta pela parte autora contra sentença que julgou improcedente o pedido de declaração de nulidade do Auto de Infração n. 184006/D, lavrado pelo IBAMA por manter 5 (cinco) pássaros em cativeiro sem autorização da autoridade competente.
+O Tribunal de origem, ao analisar a apelação da parte autora, deu-lhe parcial provimento, mantendo a multa e reduzindo seu valor. Em face dessa decisão, o IBAMA opôs embargos de declaração, os quais foram rejeitados.
+No que tange à questão da multa posta em exame, o Tribunal de origem, decidiu a causa com base nos elementos probatórios presentes nos autos, analisando a questão e concluindo que a imposição da penalidade foi correta e necessária, devido ao caráter punitivo-educativo que visa não só proteger o meio ambiente, mas adicionalmente adequo a multa em razão da hipossuficiência do recorrido.
+A Corte de origem firmou entendimento lastreado no conjunto fático-probatório dos autos, norteando o acórdão pelos princípios da legalidade razoabilidade e proporcionalidade, observando a legislação, jurisprudência e as peculiaridades inerentes ao caso. Assim, a redução do valor da multa imposta levou em consideração o contexto em que foi lavrado o auto de infração, bem como a situação financeira do recorrido à época.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, adotar premissas diferentes das que foram arguidas implicaria necessário reexame do conjunto fático-probatório, o que é vedado na via estreita do recurso especial ante a incidência do óbice do enunciado da Súmula n. 7/STJ. Nesse sentido, cito julgados das duas Turmas: AREsp 2246936/RS, rel. Min. Assusete Magalhães, DJe 7/2/2023; AREsp 2276049/PE, rel. Min. Gurgel de Faria, Primeira Turma, DJe 7/2/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já a rbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
