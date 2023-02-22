@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de PAULA RAFAELA DE LIMA FORTES, contra decisão indeferitória de liminar proferida por Desembargador do Tribunal de Justiça do Estado do Pará, no HC n. 0809621-55.2022.8.14.0000.
+Consta dos autos que a Paciente foi presa em flagrante, no dia 0/07/2022, pela suposta prática dos crimes previstos nos arts. 33 e 35 ambos da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003.
+Inconformada com a conversão do flagrante em prisão preventiva, a Defesa impetrou o writ originário, que teve o pedido liminar indeferido (fls. 14-17).
+Daí o presente habeas corpus, no qual o Impetrante sustenta que como a Paciente é lactante e tem um outro filho de 8 (oito) anos, que dependem dos seus cuidados, faz jus à revogação da prisão preventiva ou substituição por quaisquer das medidas cautelares previstas no art. 319 do Código Penal. Busca, em liminar e no mérito, a revogação da prisão preventiva.
+A Presidência do Superior Tribunal de Justiça deferiu o pedido liminar, "para garantir à paciente o direito de aguardar, em prisão domiciliar, o julgamento de mérito do presente habeas corpus, devendo o Juízo de primeiro grau impor, de forma fundamentada, as condições para seu cumprimento" (fl. 87), bem como dispensou as informações.
+O Ministério Público Federal opina às fls. 96-104, pelo não conhecimento ou denegação da ordem, em parecer assim sumariado:
+"HABEAS CORPUS SUBSTITUTIVO. PENDÊNCIA DE JULGAMENTO DE MÉRITO PELO TRIBUNAL A QUO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. INCIDÊNCIA DA SÚMULA 691/STF. TRÁFICO INTERESTADUAL DE DROGAS (1,09KG DE COCAÍNA E 1,04KG DE MACONHA) E PORTE DE ARMA DE FOGO EM ASSOCIAÇÃO CRIMINOSA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS E FUNDAMENTOS PARA A SEGREGAÇÃO CAUTELAR. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. PACIENTE FLAGRADA COM A ARMA DE FOGO ESCONDIDA NA MANTA DO PRÓPRIO FILHO MENOR. SITUAÇÃO EXCEPCIONAL QUE AFASTA A APLICAÇÃO DOS ARTIGOS 318-A E 318-B DO CPP. PELO NÃO CONHECIMENTO OU DENEGAÇÃO DA ORDEM."
+É o relatório. Decido.
+No caso, em consulta aos andamentos processuais disponibilizados no endereço eletrônico no Tribunal a quo, vejo que a impetração originária foi julgada prejudicada após comunicada a concessão da prisão domiciliar por esta Superior Tribunal de Justiça, em sede liminar. Outrossim, apesar deste writ ter sido impetrado na fase inquisitorial, antes mesmo do oferecimento da denúncia, constatei que a Paciente foi absolvida de todas as acusações em primeiro grau, com expedição de alvará de soltura, em 17/12/2022.
+Evidencia-se, desse modo, que a impugnação à custódia cautelar perdeu seu objeto.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PLEITO DE SUBSTITUIÇÃO DA CUSTÓDIA POR PRISÃO DOMICILIAR. SUPERVENIÊNCIA DE SENTENÇA ABSOLUTÓRIA. CONCESSÃO DE ALVARÁ DE SOLTURA. ORDEM DE HABEAS CORPUS PREJUDICADA.
