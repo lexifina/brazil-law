@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo manejado por Associação Hospitalar Bom Pastor e Susin Advogados contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 110 ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS. CONDENAÇÃO SOLIDÁRIA. PRECLUSÃO.
+1. No caso, os agravantes requereram o cumprimento de sentença em relação a ambos os executados, a saber, a União e Estado do Rio Grande do Sul.
+2. Logo, em que pese não haja controvérsia acerca da condenação solidária dos entes federados constante do título executivo, é certo que a exequente não postulou dessa forma distribuição da verba honorária sucumbencial. Em verdade, o Estado do Rio Grande do Sul sempre foi mencionado pela exequente ao tratar da questão dos honorários, nunca foi excluído da distribuição da citada verba.
+3. Assim, a pretensão dos requerentes, no sentido de ter o pagamento da totalidade da verba prestado exclusivamente pela União, encontra-se acobertada pela preclusão. Mantida, portanto, a decisão monocrática, a qual distribuiu a verba honorária no patamar de 50% para a União e 50% para o Estado do Rio Grande do Sul.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 322, § 2º, 775 e 1.022, I, do CPC, 114 e 275 do CC. Para tanto, sustenta que: (I) houve negativa de prestação jurisdicional; (II) o Tribunal de origem negou direito da recorrente à expedição de precatórios na integralidade a apenas um dos executados, sendo certo que não há impedimento legal para tal, devendo o pagamento ser executado da forma que a parte entender mais efetivo; e (III) nos termos do art. 775 do CPC, "o exequente pode praticar ou deixar de praticar uma ou mais medidas executivas contra um ou mais réus sem que isso o prejudique" (fl. 164).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, I, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por outro lado, vale salientar que, somente quando da oposição dos embargos de declaração de fls. 129/131 é que surgiu a tese jurídica amparada na suposta ofensa ao art. 775 do CPC.
+Destarte, como o referido tema trazido no recurso especial não foi submetido oportunamente à análise do Tribunal a quo, tendo sido ventilado ineditamente nas razões dos embargos de declaração opostos na origem, resta configurada hipótese de inovação recursal, cuja análise queda incabível no presente recurso, como consequência da preclusão consumativa, o que reforça a compreensão de que não há contrariedade ao art . 1.022 do CPC.
+Nessa mesma linha de raciocínio, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+2. O aresto vergastado anotou que alegação de que o índice de correção monetária aplicável é a taxa Selic não pode ser conhecida porque não foram prequestionadas. Ademais afirmou: "Não se pode reputar como omisso o Tribunal de origem quanto ao exame de tais matérias, que não foram suscitadas em Apelação".
+3. A jurisprudência do Superior Tribunal de Justiça é de que os argumentos não apresentados em momento oportuno não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa. Além disso, a jurisprudência desta Corte também é pacífica no sentido de que o requisito do prequestionamento é indispensável mesmo em questões de ordem pública.
+4. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+5. Embargos de Declaração rejeitados
+(EDcl no AgInt no AREsp n. 1.790.481/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/10/2021, DJe de 10/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. RPV. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. PRECLUSÃO. VERIFICAÇÃO QUE DEMANDA ANÁLISE PRÉVIA DE PORTARIA, BEM COMO REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. TESE DE ENRIQUECIMENTO ILÍCITO NÃO PREQUESTIONADA. INCIDÊNCIA DA SÚMULA 211/STJ. INOVAÇÃO RECURSAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INOCORRÊNCIA. DISSÍDIO PREJUDICADO. 1. Afasta-se a ofensa ao art. 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Ademais, o Tribunal de origem não se pronunciou sobre as matérias versadas nos arts. 884 e 885 do Código Civil, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Contudo, deve ser afastada a alegação de contrariedade ao art. 1022 do CPC/15, por se tratar de tema inédito, agitado tão-somente em sede de embargos de declaração e não suscitado oportunamente sob o enfoque ora pretendido, restando caracterizada a existência de inovação recursal.
+ ..
+5. Agravo Interno a que se nega provimento.
+(AgInt no AREsp n. 1.124.681/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/11/2017, DJe de 7/12/2017.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC. VIOLAÇÃO. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não há contradição em afastar a alegada ofensa ao art. 535 do CPC, e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento. Precedentes do STJ (AgRg no AREsp 543.829/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 30/10/2014;
+EDcl nos EDcl no REsp 1.190.734/RJ, Rel. Ministro Mauro campbell Marques, Segunda Turma, DJe de 14/6/2011).
+2. Os dispositivos indicados apenas foram suscitados nos embargos de declaração, após o julgamento da apelação, o que constitui inovação recursal. Incidência do óbice da Súmula 211/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 315.129/GO, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/9/2015, DJe de 23/9/2015.)
+Quanto à alegação no sentido de que não ocorreu a "preclusão do direito de cobrar integralmente a verba em face da União" (fl. 164), melhor sorte não socorre a parte recorrente.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou, nestes termos:
+Logo, em que pese não haja controvérsia acerca da condenação solidária dos entes federados constante do título executivo, é certo que a exequente não postulou dessa forma distribuição da verba honorária sucumbencial. Em verdade, o Estado do Rio Grande do Sul sempre foi mencionado pela exequente ao tratar da questão dos honorários, nunca foi excluído da distribuição da citada verba.
+Assim, a pretensão dos requerentes, no sentido de ter o pagamento da totalidade da verba prestado exclusivamente pela União, encontra-se acobertada pela preclusão
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse mesmo rumo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. PRECLUSÃO. SUSPEIÇÃO. RESPONSABILIDADE. NÃO CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. FUNDAMENTOS NÃO COMBATIDO. ENUNCIADO 283 DA SÚMULA DO STF. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. Preclusão, a propósito da arguição de suspeição do perito, e ausência de responsabilidade da médica, decididas com base na análise dos fatos e provas dos autos, o que obsta ao conhecimento do recurso especial (Súmula 7).
+3. O fundamento de que o julgamento teve por base não apenas o laudo pericial mas, também, outros elementos de prova não foi combatido pela parte recorrente fazendo incidir, assim, o enunciado 283 da Súmula do STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 159.980/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/12/2013, DJe de 4/2/2014.)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
