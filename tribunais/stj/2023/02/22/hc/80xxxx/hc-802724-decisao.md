@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Bruno Henrique Rodrigues de Souza, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n. 2291646-10.2022.8.26.0000.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 2 meses e 20 dias de reclusão, no regime inicial semiaberto, e pagamento de 12 dias-multa, como incurso no art. 157, § 2º, inciso II, c/c o art. 14, inciso II (tentado), e art. 157, § 2º, inciso II, ambos na forma do art. 71 (crime continuado), todos do Código Penal (Ação Penal n. 1501587-33.2020.8.26.0567).
+Interposta apelação pela defesa, o Tribunal local deu parcial provimento ao apelo para, aplicando-se o concurso formal, diminuir as penas do acusado para 6 anos e 5 meses de reclusão, além do pagamento de 16 dias-multa (Apelação Criminal n. 0003207-10.2016.8.26.0337).
+Após o trânsito em julgado, a defesa ingressou com habeas corpus na origem suscitando nulidade diante ausência de intimação válida para a audiência de instrução e julgamento.
+Daí o presente writ, em que a defesa aponta a ocorrência de nulidade absoluta, pela declaração de revelia do paciente, porquanto o não comparecimento ao ato se deu por razões alheias à vontade do réu, já que estava preso por outro processo.
+Aduz que, apesar de ter sido intimado pessoalmente da audiência, no dia do ato ele estava preso e a intimação a qual o paciente recebeu ficou em sua casa, motivo pelo qual este não conseguia lembrar da data e horário correto da audiência, já que não tinha mais acesso à intimação, bem como não conseguia se comunicar com os familiares (fl. 5).
+Ressalta que o paciente entendeu que se estava preso à disposição da justiça então seria requisitado pelo juiz nada data em que fosse ocorrer o ato para que pudesse participar do ato ainda que de forma virtual em razão da pandemia (fl. 5).
+Por fim, traz pedido nos seguintes termos (fl. 8):
+ ..
+Diante de todo o exposto, requer liminarmente a concessão da ordem para a anulação do processo a partir da audiência de instrução, e colocação do Paciente em liberdade, expedindo-se o competente alvará de soltura clausulado em favor deste, para que o mesmo possa retornar a aguardar o processamento do feito em liberdade, retornando-se o feito à Origem para renovação do ato, para que ao final seja concedida a ordem definitivamente, porque, ainda que nos esforcemos a tentar, não conseguimos enxergar, ouvir ou sentir qualquer outra forma de se alcançar a mais lídima e tão costumeiramente esperada JUSTIÇA!!
+ ..
+É o relatório.
+Como visto, a condenação em questão transitou em julgado antes da impetração deste habeas corpus.
+Com efeito, a via eleita mostra-se inadmissível, porque utilizada como sucedâneo de revisão criminal, sendo certo que compete ao Superior Tribunal de Justiça o julgamento de revisão criminal de seus próprios julgados, o que não é o caso dos autos. Nesse sentido: AgRg no HC n. 481.415/SP, de minha relatoria, Sexta Turma, DJe 4/2/2019; e HC n. 467.004/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2018.
+De qualquer forma, não enxergo manifesta ilegalidade a ser aqui reparada.
+Acerca da alegada nulidade, consta do acórdão ora combatido que o réu foi citado pessoalmente, conforme certidão exarada pelo Sr. Oficial de Justiça, porém, deixou de comparecer à audiência para prestar interrogatório, o que torna lícita a declaração de sua revelia e que a tese de que não possuía celular e de que não conseguiu contatar o defensor é conveniente e não restou comprovada. Aliás, fosse verídica, certamente teria sido arguida após a instrução ou em razões de apelo e não somente após o trânsito em julgado (fl. 701).
+Ora, a jurisprudência do Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 527.449/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 5/9/2019).
+Vê-se que conclusão a que chegou a Corte local não destoa do entendimento deste Tribunal, no sentido de que o reconhecimento de nulidades no curso do processo penal, sejam relativas ou absolutas, reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief) - ( HC n. 671.701/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/11/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. ROUBO . WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. ALEGAÇÃO DE NULIDADE. FALTA DE INTIMAÇÃO DA DEFESA PARA AUDIÊNCIA DE INSTRUÇÃO. FLAGRANTE ILEGALIDADE. INEVIDÊNCIA.
+Writ não conhecido.
