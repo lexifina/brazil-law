@@ -1,0 +1,23 @@
+DECISÃO
+
+Trata-se  de  recurso  especial  interposto  por  FUNDAÇÃO  DE  SAÚDE  ITAIGUAPY  fundamentado  nas  alíneas  "a"  e  "c"  do  permissivo  constitucional,  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Paraná  assim  ementado:
+"PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA  DE  MEDICAMENTO  ONCOLÓGICO.  AUSÊNCIA  DE  PREVISÃO  NO  ROL  DE  COBERTURAS  OBRIGATÓRIAS  DA  ANS.  IRRELEVÂNCIA.  LISTAGEM  MERAMENTE  EXEMPLIFICATIVA.  CUSTEIO  DEVIDO.  INDENIZAÇÃO  POR  DANOS  MORAIS.  AUSÊNCIA  DE  SITUAÇÃO  NO  CASO  CONCRETO  APTA  A  CAUSAR  GRAVE  ABALO  PSÍQUICO.  PACIENTE  QUE  NÃO  FICOU  SEM  ASSISTÊNCIA  MÉDICA  AO  SEU  TRATAMENTO.  APELAÇÃO  PRINCIPAL  E  RECURSO  ADESIVO  NÃO  PROVIDOS"  (fl.  435  e-STJ  ).
+Em  suas  razões,  a  recorrente  sustenta  a  violação  dos  artigos  51  e  54,  §  4º,  do  Código  de  Defesa  do  Consumidor  e  10,  §4º,  e  12,  da  Lei  nº  9.656/1998.
+Sustenta,  em  síntese,  que  o  plano  de  saúde  não  tem  o  dever  de  custear  medicamento  não  previsto  no  rol  taxativo  da  ANS  e  expressamente  excluído  da  cobertura  contratual.
+Contrarrazões  às  fls.  473/482  (e-STJ).
+É  o  relatório.
+DECIDO.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  das  questões  de  direito  federal  infraconstitucional.
+A  pretensão  recursal  merece  ser  acolhida.
+A  discussão  gira  em  torno  da  natureza  do  Rol  de  Procedimentos  e  Eventos  em  Saúde,  elaborado  periodicamente  pela  Agência  Nacional  de  Saúde  Suplementar  (ANS),  se  exemplificativo  ou  taxativo.
+Na  origem,  trata-se  de  Ação  Ordinária  ajuizada  pela  recorrida  contra  a  recorrente  objetivando  o  fornecimento  do  medicamento  VERZENIOS  para  tratamento  de  câncer  de  mama  que  acometia  a  autora,  já  falecida.
+Importante  registrar  que,  quando  do  julgamento  dos  EREsps  1.886.929/SP  e  1.889.704/SP  (Rel.  Ministro  Luis  Felipe  Salomão,  DJe  3/8/2022),  a  Segunda  Seção  desta  Corte  Superior  uniformizou  o  entendimento  de  ser  o  Rol  da  ANS,  em  regra,  taxativo,  podendo  ser  mitigado  quando  atendidos  determinados  critérios.
+Assim,  foram  adotados  os  seguintes  parâmetros  para  a  apreciação  de  casos  concretos:
+"1  -  o  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar  é,  em  regra,  taxativo;
+2  -  a  operadora  de  plano  ou  seguro  de  saúde  não  é  obrigada  a  arcar  com  tratamento  não  constante  do  Rol  da  ANS  se  existe,  para  a  cura  do  paciente,  outro  procedimento  eficaz,  efetivo  e  seguro  já  incorporado  ao  Rol;
+3  -  possível  a  contratação  de  cobertura  ampliada  ou  a  negociação  de  aditivo  contratual  para  a  cobertura  de  procedimento  extra  Rol;
+4  -  não  havendo  substituto  terapêutico  ou  esgotados  os  procedimentos  do  Rol  da  ANS,  pode  haver,  a  título  excepcional,  a  cobertura  do  tratamento  indicado  pelo  médico  ou  odontólogo  assistente,  desde  que  (i)  não  tenha  sido  indeferido  expressamente,  pela  ANS,  a  incorporação  do  procedimento  ao  Rol  da  Saúde  Suplementar;  (ii)  haja  comprovação  da  eficácia  do  tratamento  à  luz  da  medicina  baseada  em  evidências;  (iii)  haja  recomendações  de  órgãos  técnicos  de  renome  nacionais  (como  CONITEC  e  NATJUS)  e  estrangeiros  e  (iv)  seja  realizado,  quando  possível,  o  diálogo  interinstitucional  do  magistrado  com  entes  ou  pessoas  com  expertise  técnica  na  área  da  saúde,  incluída  a  Comissão  de  Atualização  do  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar,  sem  deslocamento  da  competência  do  julgamento  do  feito  para  a  Justiça  Federal,  ante  a  ilegitimidade  passiva  ad  causam  da  ANS".
+  No  caso,  contudo,  não  há  elementos  incontroversos  no  acórdão  estadual  que  demonstrem,  nesta  instância  especial,  que  o  fornecimento  do  medicamento  indicado  está  enquadrado  nos  critérios  de  superação  da  taxatividade,  devendo  o  feito  retornar  ao  Tribunal  de  origem  para  que,  com  base  no  s  fatos  e  nas  provas  da  causa,  a  apelação  seja  julgada  conforme  os  parâmetros  elaborados  pela  Segunda  Seção.
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  para  determinar  o  retorno  dos  autos  à  Corte  de  origem  a  fim  de  que  julgue  a  apelação  conforme  os  critérios  estabelecidos  pela  Segunda  Seção  nos  EREsps  1.886.929/SP  e  1.889.704/SP.
+Publique-se.
+Intimem-se.
