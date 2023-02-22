@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Joao Henrique Correa, apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça do Rio Grande do Sul, que indeferiu o pedido liminar nos autos do HC n. 5022537-89.2023.8.21.7000.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática de crime de tráfico de drogas. O flagrante foi convertido em preventiva, e foi oferecida denúncia contra o acusado e corréus. Atualmente, a Ação Penal n. 5000591-25.2022.8.21.0104, da 2ª Vara Judicial da comarca de Horizontina/RS, encontra-se em fase de alegações finais
+Buscando a concessão da liberdade provisória, impetrou-se writ na Corte estadual. No dia 7/2/2023, o Desembargador relator indeferiu o pedido liminar.
+Daí o presente habeas corpus, em que se busca a superação da Súmula 691 do Supremo Tribunal Federal, a fim de que seja substituída a preventiva por medidas cautelares alternativas à prisão.
+Para tanto, alega-se a ausência de fundada suspeita para revista pessoal e veicular realizada pelos policiais, já que baseada apenas em denúncia anônima.
+Sustenta-se, ainda, a desnecessidade da medida extrema de prisão, sobretudo ausente a acentuada gravidade da conduta ou periculosidade do custodiado que recomendem a manutenção da prisão cautelar - que já dura 6 (seis) meses (fl. 8).
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela.
+Segundo o Desembargador relator, o dito constrangimento ilegal não se apresenta de maneira induvidosa, pois a guarnição policial recebeu informações de que J. G. E. receberia drogas e que o veículo que faria a entrega seria um celta, cor branca, placa Mercosul, vindo de Santa Rosa. Diante de tal informação, foi efetuado patrulhamento de rotina nas proximidades da casa de J. G. E., ocasião em que ele foi visualizado na frente de casa e um veículo com as características indicadas nas proximidades. Por tais razões, o automóvel foi abordado, sendo visualizado o momento em que o caroneiro do automóvel a jogar pela janela um invólucro plástico na cor branca, sendo recolhido e identificado como porção de cocaína. Everton foi identificado como condutor do veículo e ora paciente, João, como caroneiro do automóvel e responsável pelo arremesso das drogas, apontado pelos policiais (fls. 27/28).
+Outrossim, no que diz respeito aos fundamentos da prisão, ao que tudo indica, houve a indicação da necessidade de garantia da ordem pública, pois as circunstâncias da prisão evidenciam que os acusados - ambos residentes em Santa Rosa - deslocaram-se a esta comarca com o propósito de abastecer conhecido ponto de traficância, trazendo consigo quantidade de entorpecentes suficiente para afastar qualquer arguição de posse para uso próprio (105 g, que podem gerar mais de 100 porções individuais!) - fl. 43.
+Também há notícias de que houve a apreensão de cerca de R$ 1.100,00 (mil e cem reais) em dinheiro e dois aparelhos celulares, assim como que o paciente e o corréu desempenhavam a traficância na cidade de Horizontina/RS e integrariam facção "Os Manos" (fls. 94/159).
+Ressalto que, no presente caso, as questões trazidas na impetração não foram ainda enfrentadas pelas instâncias originárias, não se admitindo a pretendida supressão de instância.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. LIMINAR INDEFERIDA NO PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
