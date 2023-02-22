@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por UNIMED BELÉM COOPERATIVA DE TRABALHO MÉDICO contra a decisão (fls. 1.114/1.118 e-STJ) que negou provimento ao recurso especial.
+Naquela oportunidade, reconheceu-se a abusividade de cláusulas contratuais que limitam a cobertura do plano de saúde, com esteio na jurisprudência da Terceira Turma do Superior Tribunal de Justiça que afirmava o caráter meramente exemplificativo do rol de procedimentos da ANS.
+Nas presentes razões (fls. 1.121/1.134 e-STJ), a agravante afirma que a decisão recorrida não enfrentou a matéria arguida, ou seja, o fornecimento de medicamento cuja bula não contempla o tratamento da patologia diagnosticada, o que caracteriza uso experimental do fármaco.
+Sustenta que a conclusão adotada pela decisão combatida contraria e nega vigência aos artigos 10, VI e § 4º, da Lei nº 9.656/1998 e 4º, III, da Lei nº 9.961/2000.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+Intimada, a parte contrária não apresentou impugnação.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+Considerando a manifestação da agravante e o atual entendimento do Superior Tribunal de Justiça quanto à matéria controvertida dos autos, faz-se imperiosa a reconsideração da decisão de fls. 1114/1118 e-STJ e passa-se a novo exame do recurso especial.
+O recurso merece parcial provimento.
+De fato, a decisão impugnada se baseou em entendimento superado ao entender que o rol da ANS seria exemplificativo.
+Q uando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior chegou concluiu ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Nesse contexto, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+"1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS."
+O aresto recorrido relata que o autor é "portador de doença denominada Histiocitose de Célula de Langerhans Sistêmica (CID D76.0), cuja principal sequela é a insuficiência pulmonar" (fl. 890 e-STJ). Após quimioterapia antineoplásica com Vimblastina e cirurgia toráxica, ambos com resultados ineficazes, a equipe médica prescreveu quimioterapia com o medicamento Cladribina/Leustatin, o qual possui registro na ANVISA. Entretanto, após o primeiro ciclo, sendo necessários outros seis, o plano de saúde negou o custeio do tratamento ao argumento de que a droga prescrita é experimental.
+No caso em exame, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ante o exposto, reconsidero a decisão de fls. fls. 1.114/1.118 (e-STJ), tornando-a sem efeito, para dar parcial provimento ao recurso especial para determinar o retorno dos autos à Corte de origem a fim de que julgue a apelação conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Caso o tratamento assistencial seja também de caráter continuado, deverão ser observados, a partir de sua vigência, os critérios estabelecidos pela Lei nº 14.454/2022, também a serem verificados pelo Tribunal a quo (aplicabilidade imediata da lei nova).
+Publique-se.
+Intimem-se.
