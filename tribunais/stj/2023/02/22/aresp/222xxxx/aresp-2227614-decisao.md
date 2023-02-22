@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CCG EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (CCG) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. ADILSON DE ARAÚJO, assim ementado:
+AGRAVO DE INSTRUMENTO. COMPROMISSO E PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE QUANTIAS PAGAS. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. DECISÃO AGRAVADA QUE RESPEITOU OS LIMITES TRAÇADOS NO ACÓRDÃO PROFERIDO NO PROCESSO DE CONHECIMENTO, NOTADAMENTE NO QUE SE REFERE À TAXA DE OCUPAÇÃO, DE FRUIÇÃO E A FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. RAZÕES RECURSAIS INSUBSISTENTES À REFORMA DA DECISÃO RECORRIDA. RECURSO IMPROVIDO. A agravante questionou possível interpretação dissonante entre o comando do acórdão exarado no processo de conhecimento. e o que foi decidido na decisão agravada quanto à taxa de ocupação, de retenção e a fixação de honorários advocatícios naquela fase. Sem razão, contudo, haja vista que a decisão agravada, de forma clara, bem tratou dos referidos temas, observados os parâmetros da decisão colegiada, determinada a apresentação de nova memória de cálculo, observada a necessidade de abatimento dos valores depositados em Juízo.
+AGRAVO DE INSTRUMENTO. COMPROMISSO E PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE QUANTIAS PAGAS. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. IMPOSSIBILIDADE. PEDIDO FORMULADO EM CONTRAMINUTA IMPROVIDO. A fixação de honorários advocatícios no incidente de impugnação ao cumprimento de sentença só é possível quando acolhida a impugnação ao cumprimento de sentença, ainda que parcialmente.(e-STJ, fl. 139)
+Irresignado, CCG interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 141, 492, 502, 503, 505, 507 e 508, do NCPC, além de dissídio jurisprudencial, ao sustentar, em síntese, que o acórdão recorrido ao julgar o mérito do processo principal, matéria já preclusa, violou a coisa julgada.
+O recurso não foi admitido pelo TJSP.
+Nas razões do presente agravo, CCG alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece.
+(1) Dos arts. 141, 492, 502, 503, 505, 507 e 508, do NCPC
+No ponto, verifica-se que os citados preceitos não foram objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+No caso, aplicam-se as Súmulas nºs 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSOESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. VIOLAÇÕES DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EMPRESAS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITOS LEGAIS. AFERIÇÃO NA VIA DO RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ. 1 - Não incide a Súmula 182/STJ se a parte, no agravo, impugna os fundamentos da decisão que, na origem, não admitiu o recurso especial. Decisão da Presidência que merece reconsideração. 2 - Não decididas no acórdão recorrido as matérias afetas aos dispositivos tidos como violados, ressente-se o especial do necessário prequestionamento, atraindo o óbice das Súmulas 282 e 356 do STF. 3 - Firmado pelas instâncias ordinárias que estão presentes os requisitos legais para a desconsideração da personalidade jurídica, notadamente que há confusão entre o patrimônio da empresa que figura originariamente no polo passivo do cumprimento de sentença e as outras que fazem parte do mesmo grupo econômico, não há como elidir essas conclusões na via do recurso especial, ante o veto das Súmulas 5 e 7 do STJ. Julgados nesse sentido das duas Turmas que integram a Segunda Seção. 4 - Agravo interno provido, conhecendo do agravo para não conhecer do recurso especial. (AgInt no AREsp n. 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, j. em 8/8/2022, DJe de 26/8/2022 sem destaque no original.)
+Por fim, cumpre assinalar que ausente o prequestionamento dos preceitos legais arrolados, fica prejudicado o exame do dissídio jurisprudencial invocado.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO COM PEDIDO DE RESTITUIÇÃO DE VALORES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA SUPOSTAMENTE DIVERGENTE.
+1. Ação revisional de contrato bancário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.007.246/AL, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022 sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CONTRATUAL. AGRAVO EM RECURSO ESPECIAL NO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DITOS VIOLADOS SÚMULAS NºS 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
