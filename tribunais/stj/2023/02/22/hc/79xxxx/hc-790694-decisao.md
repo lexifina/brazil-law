@@ -1,0 +1,23 @@
+DECISÃO
+Por meio deste habeas corpus, postula-se a imediata expedição de ordem liberatória em favor de Cristiane Pinheiro Marques ou a concessão de prisão domiciliar, nos moldes do art. 318, V, do Código de Processo Penal.
+Para tanto, sustenta-se, em resumo, que: a) a prisão preventiva mantida na sentença condenatória proferida no Processo n. 1502731-55.2021.8.26.0616, pelo Juízo de Direito da 3ª Vara da comarca de Ferraz de Vasconcelos/SP, em razão da prática do crime de tráfico de entorpecentes, é carente de fundamentação; b) sendo a paciente mãe de duas crianças menores de 12 anos de idade, afigura-se viável e necessário que lhe seja concedida prisão domiciliar.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo, que denegou a ordem postulada no HC n. 2192715-69.2022.8.26.0000.
+Liminar deferida às fls. 819/821.
+Informações prestadas (fls. 825/826 e 852/854).
+Parecer do Ministério Público Federal, às fls. 858/864, opinando nos termos da seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. ART. 33 DA LEI 11.343/2006. PRISÃO PREVENTIVA. PLEITO PELO SEU CUMPRIMENTO EM DOMÍCILIO. HIPÓTESES INTRODUZIDAS PELA LEI 13.257/16 NO ARTIGO 318, INCISOS IV E V DO CPP. MÃE DE CRIANÇA MENOR DE 12 ANOS. CONSTRANGIMENTO ILEGAL. NÃO CONHECIMENTO DO WRIT. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, A FIM DE DEFERIR O CUMPRIMENTO DA PREVENTIVA EM DOMICÍLIO CONFIRMANDO-SE A LIMINAR ANTERIORMENTE DEFERIDA.
+Na Corte estadual, encontra-se em tramitação a apelação interposta contra a sentença condenatória.
+É o relatório.
+No caso, a instância de origem apresentou fundamento concreto para decretação da prisão preventiva (fl. 108):
+ ..  os autuados foram detidos em flagrante, supostamente transportando e mantendo drogas em depósito, 784 gramas de crack, 499 gramas de cocaína, 817 gramas de maconha, 190 mililitros de lança-perfume e 10 comprimidos de ecstasy, situação que evidencia o seu envolvimento com atividades criminosas,  ..
+Outrossim, na sentença condenatória - que impôs a pena de 5 anos e 10 meses de reclusão, em regime inicial fechado - houve referência à existência dos maus antecedentes da acusada.
+Apesar disso, em situações como a dos autos, imperioso, pois, garantir o direito da criança, mesmo que para tanto seja necessário afastar o poder de cautela processual à disposição da persecução penal, sendo aplicável o ar. 318, V, do Código de Processo Penal de maneira a permitir que a paciente permaneça em prisão domiciliar a fim de garantir o cuidado de seus filhos menores (HC n. 417.614/PR, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/5/2018).
+Com efeito, embora se observe a gravidade concreta do delito e a reprovabilidade da conduta da paciente, aptos a justificar a prisão preventiva, o delito perpetrado não envolve violência ou grave ameaça e nem foi praticado contra seus descendentes. E é certo, também, que da situação evidenciada nos autos não revela excepcionalidade que justifique o indeferimento da prisão domiciliar, especialmente considerando não ter sido demonstrado que a traficância estaria sendo realizada na residência da paciente ou na presença das crianças, comprometendo sua segurança (HC n. 574.118/AC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/5/2020).
+Outra não é a opinião do Subprocurador-Geral da República Mario Ferreira Leite, segundo a qual, no caso em apreço, foi anexado aos autos documento que comprova ser a paciente mãe de dois filhos menores de 12 anos de idade (fl. 227/228), sendo que ela não cometeu crime que envolvesse violência ou grave ameaça, de modo que não se vislumbra a existência de situação excepcional a impedir a substituição da prisão preventiva por domiciliar para a proteção à maternidade e à infância, priorizando-se o bem estar da menor (fls. 862/863).
+Além disso, conforme adiantei na decisão às fls. 819/821, os registros criminais anteriores da ré são antigos e não se referem a fatos praticados mediante violência ou grave ameaça à pessoa (fls. 442/447).
+Ante o exposto, acolhendo o parecer e confirmando a liminar, concedo a ordem para substituir a prisão preventiva da paciente pela prisão domiciliar (art. 318, V, do CPP), devendo o Juízo competente estabelecer condições que se amoldem à situação da acusada, ressaltando-se que o descumprimento dos termos da prisão domiciliar implicará a revogação do benefício e o restabelecimento da preventiva.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXISTÊNCIA DE FILHOS MENORES DE 12 ANOS. PRISÃO DOMICILIAR. POSSIBILIDADE. ILEGALIDADE MANIFESTA. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
