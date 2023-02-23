@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 7/STJ (e-STJ fls. 1.015/1.016).
+O acórdão recorrido está assim ementado (e-STJ fl. 857):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - DÍ VIDA EM PROVEITO DA ENTIDADE FAMILIAR - PRESUNÇÃO - MEAÇÃO DE ESPOSA - ÔNUS DA PROVA. É da esposa/embargante o ônus de comprovar que houve constrição de bens pertencentes a sua meação e que a dívida contraída pelo seu marido não o foi em benefício da entidade familiar. A ausente essa prova, são improcedentes os embargos de terceiro. V.V. Ainda que não se reconheça a revogação da Lei 4.595/64, os contratos "bancários" estão sujeitos às regras do negócio jurídico conforme se vê do Código civil, submetendo-se também aos requisitos do Código de Defesa do Consumidor. Ausente qualquer dos requisitos do artigo 166 do Código Civil, os negócios jurídicos são nulos de pleno direito. Pela dicção do Parágrafo único do artigo 168 do Código Civil, "as nulidades devem ser pronunciadas pelo juiz, quando conhecer do negócio jurídico ou dos seus efeitos e as encontrar provadas, não lhe sendo permitido supri-las, ainda que a requerimento das partes".
+Os embargos de declaração foram rejeitados (e-STJ fls. 966/971).
+Nas razões do recurso especial (e-STJ fls. 974/983), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa aos seguintes dispositivos de lei:
+(a) arts. 11, 489, § 1º, IV, e 1.022 do CPC/2015, porque o Tribunal de origem teria se omitido "quanto às questões DE NULIDADE DO TÍTULO - o que implica na nulidade dos atos executivos - levantadas pelo E. Des. Antônio Bispo, em seu voto vencido, no que se refere à nulidade do próprio negócio jurídico (contrato bancário) que resultou na penhora do imóvel em questão, é certo que o ato corrido violou o disposto nos artigos 166 e 168 do Código Civil, do artigo 8º da Lei 7.492/86 e do artigo 4º , IX, da Lei 4.595/64" (e-STJ fl. 978),
+(b) arts. 373, I, 374, 674 e 779 do CPC/2015, na medida em que "o v. acórdão recorrido procedeu a uma incorreta valoração da prova, mormente por ter deixado de considerar como comprovados os fatos sobre os quais as partes e o Mm. Juiz de Primeiro Grau tinham como pontos incontroversos" (e-STJ fl. 979). Afirmou ser incontroverso que possui autossuficiência financeira, o que somado ao fato de não ter participado da operação bancária que resultou na execução e penhora do imóvel, a legitimaria a defender sua meação sobre o bem pela via de embargos de terceiro, bem como de desconstituir a referida constrição,
+(c) arts. 166 e 168 do CC/2002, 8º da Lei n. 7.492/1986 e 4º, IX, da Lei n. 4.595/1964, pois, nos termos constantes do voto vencido, o título executivo seria nulo por não apresentar os requisitos mínimos de validade, pela ilegalidade da taxa de juros imposta e por não ter o banco autorização específica para esse tipo de negociação, e
+(d) art. 408 do CPC/2015.
+Contrarrazões às fls. 987/1.011 (e-STJ).
+No agravo (e-STJ fls. 1.019/1.026), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.035/1.037).
+É o relatório.
+Decido.
+De início, registro que a recorrente apontou ofensa ao art. 408 do CPC/2015 sem, contudo, demonstrar as razões pelas quais tal dispositivo de lei teria sido violado. Dessa forma, por carência de fundamentação, incide a Súmula n. 284/STF.
+Não verifico ofensa aos arts. 11, 489 e 1.022 do CPC/2015.
+Com efeito, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Acerca da alegação de que o Colegiado deveria ter se pronunciado sobre as afirmações contidas no voto vencido, assim constou do acórdão que rejeitou os embargos de declaração (e-STJ fl. 968):
+Inexiste omissão do julgado em relação às razões de decidir do voto proferido por um dos julgadores, pois não cabe aos demais manifestarem-se sobre as razões explanadas, senão apontar eventual divergência com argumentos próprios.
+A análise deve cingir-se às questões de fato e de direito trazidas em razões de recurso e respectivas contrarrazões, além das matérias de ordem pública que podem ser suscitadas de ofício.
+Na verdade, sob o pretexto de ver sanado suposto vício, pretende a parte recorrente a reforma da decisão. Contudo, o simples fato de a decisão recorrida ser contrária a seus interesses não configura vício de fundamentação.
+Quanto à questão de fundo, o Tribunal de origem assim se pronunciou (e-STJ fl. 860):
+Todavia, as suas teses estão apenas no campo da cogitação. Desamparadas de qualquer elemento probatório concreto que pudesse dar suporte à desconstituição do indigitado ato judicial.
+Isso porque, dívida foi contraída por Pedro Antônio Rossi  ME e Pedro Antônio Rossi, ou seja, pela pessoa física e pela sociedade em que o único sócio é o esposo da apelante. Frisa-se que na constância do casamento regido pela comunhão universal de bens.
+Portanto, a dívida se deu para fomento da atividade empresarial de seu esposo. Assim, conclui-se que os eventuais frutos também foram colhidos por ele e, consequentemente, sua família.
+Os contracheques juntados aos autos demonstram que a apelante tinha renda própria. Contudo, não são hábeis a demonstrar que ela em nada se aproveita da renda do marido.
+Por fim, quanto ao depoimento pessoal, considero ineficaz em demonstrar que era a apelante a mantenedora do sustento da família, pois se baseia em meras suposições,  .. .
+Acolher a alegação de que os fatos seriam incontroversos ou estariam devidamente comprovados demandaria reexame do contexto fático-probatório dos autos, o que é inviável no âmbito do especial por força da Súmula n. 7/STJ.
+Em relação à aludida afronta aos arts. 166 e 168 do CC/2002, 8º da Lei n. 7.492/1986 e 4º, IX, da Lei n. 4.595/1964, conforme constou do voto dos embargos de declaração (trecho anteriormente transcrito), tais alegações não foram suscitadas no recurso, razão pela qual não foram analisadas. Tal fundamento não foi impugnado, o que atrai a aplicação da Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
