@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 248/249).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 138):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE EXECUÇÃO EXTRAJUDICIAL DE GARANTIA FIDUCIÁRIA IMOBILIÁRIA COM PEDIDO DE URGÊNCIA. COMPRA E VENDA DE IMÓVEL. INADIMPLÊNCIA. LEILÃO EXTRAJUDICIAL. ARREMATAÇÃO DO IMÓVEL POR TERCEIRO DE BOA FÉ. ATO JURÍDICO PERFEITO E ACABADO. ALEGAÇÕES DE PREJUDICIALIDADES EXTERNAS QUE VISAM A ANULAÇÃO DO LEILÃO. IMPOSSIBILIDADE DE INTERFERIR NO DIREITO DE POSSE DO ARREMATANTE. I. Nos termos do artigo 300, do NCPC, a tutela de urgência será concedida quando houver a presença concomitante de elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco de resultado útil do processo. II. Inadimplido o contrato de compra e venda com financiamento garantido por alienação fiduciária é possível o prosseguimento dos atos executórios, inclusive a realização do leilão extrajudicial. III. Tendo havido a arrematação do bem imóvel por terceiro de boa-fé, sem nenhum vício justificável do auto de arrematação, em si, nada há, pois, a obstruir a imissão do arrematante na posse, que advém da condição de pleno proprietário da coisa, a qual lhe confere a faculdade de usar, gozar e dispor da coisa, bem como o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha, nos termos do artigo 1.228, caput, do Código Civil, sob pena de se gerar insegurança nas relações jurídicas negociais. IV. Assim, uma vez comprovada a propriedade do bem imóvel pelos agravantes, não agiu com acerto o julgador de primeira instância em manter, liminarmente, a posse do imóvel, objeto do litígio, aos autores/agravados, até porque eventuais injustiças, problemas na arrematação, ou reconhecimento posterior de nulidade do ato de consolidação da propriedade do imóvel sub judice, ante o descumprimento do procedimento legal aplicável à espécie, principalmente quanto a suposta inobservância de intimação pessoal dos devedores sobre a realização do leilão, serão convertidos em perdas e danos em face do causador da nulidade, não prejudicando terceiros de boa-fé que arremataram o imóvel. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 157/158 e 163/170).
+Nas razões do recurso especial (e-STJ fls. 174/205), fundamentado no art. 105, III, "a" e "c", da CF, as partes alegaram, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) ofensa ao art. 485, VI, do CPC/2015, tendo em vista a ilegitimidade passiva e recursal dos ora agravados, considerando que "não foram inseridos no polo passivo da demanda" (e-STJ fl. 181), e
+(ii) violação do art. 30, parágrafo único, da Lei n. 9.514/1997, pois "basta que a controvérsia se firme sobre a notificação do devedor fiduciante, para que seja garantido o direito de manutenção à posse, e que os direitos dos Recorrentes não sejam limitados em perdas e danos" (e-STJ fl. 184).
+No agravo (e-STJ fls. 252/274), afirmam a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Apesar de opostos embargos de declaração, a tese de ofensa ao art. 485, VI, do CPC/2015 - consistente na ilegitimidade passiva e recursal dos ora agravados, considerando que "não foram inseridos no polo passivo da demanda" (e-STJ fl. 181) - não foi expressamente indicada nas razões dos aclaratórios e nem enfrentada pelo Tribunal a quo.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema.
+Segundo a jurisprudência sedimentada do STJ, mesmo as questões de ordem pública devem ser prequestionadas para ser examinadas em recurso especial. Nesse sentido:
+AGRAVO INTERNO. PLANO OU SEGURO DE SAÚDE EMPRESARIAL E PROCESSUAL CIVIL. PREQUESTIONAMENTO. IMPRESCINDIBILIDADE. LEGITIMIDADE PASSIVA DA ESTIPULANTE. AUSÊNCIA.
+1. "Segundo pacífica jurisprudência deste Superior Tribunal, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento" (AgInt nos EDcl no AgInt no AREsp 1481503/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022).
+ ..
+4. Agravo interno não provido.
+(AgInt no REsp 1639281/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2022, DJe 29/04/2022.)
+DIREITO FALIMENTAR E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. RECLASSIFICAÇÃO DE CRÉDITOS. INCOMPETÊNCIA ABSOLUTA. INOVAÇÃO RECURSAL. INVIABILIDADE. FALTA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+ ..
+2. Nos termos da jurisprudência pacífica desta Corte, ainda que se trate de matéria de ordem pública, é exigido o prequestionamento.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1229309/DF, de minha relatoria, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021.)
+No que diz respeito à alegação de que "basta que a controvérsia se firme sobre a notificação do devedor fiduciante, para que seja garantido o direito de manutenção à posse, e que os direitos dos Recorrentes não sejam limitados em perdas e danos" (e-STJ fl. 184), bem como no tocante à aduzida violação do art. 30, parágrafo único, da Lei n. 9.514/1997, verifica-se que, apesar da oposição de embargos declaratórios tratando acerca da questão, a tese e o conteúdo normativo de tais dispositivos foram apreciados pelo Tribunal de origem.
+Caberia à parte alegar, em sede de recurso especial, violação do art. 1.022 do CPC/2015, o que não ocorreu.
+Dessa forma, à falta do indispensável prequestionamento, incide, no referente a ambas as questões, a Súmula n. 211 do Superior Tribunal de Justiça.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
