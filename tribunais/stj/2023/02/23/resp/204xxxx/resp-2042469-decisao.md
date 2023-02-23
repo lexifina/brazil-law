@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 440-454):
+"APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - HOMICÍDIO QUALIFICADO TENTADO - DOSIMETRIA - ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS PREVISTAS NO ARTIGO 59 DO CÓDIGO PENAL - REDUÇÃO DA PENA - IMPOSSIBILIDADE - PROCEDIMENTO TRIFÁSICO REALIZADO DE FORMA ESCORREITA - BIS IN IDEM NÃO CARACTERIZADO - REPARAÇÃO DE DANOS - IMPOSIÇÃO INADMISSÍVEL - AUSÊNCIA DE INSTRUÇÃO PROBATÓRIA ESPECÍFICA - VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA - RECURSO PARCIALMENTE PROVIDO".
+Os embargos de declaração foram acolhidos em parte, sem efeitos infringentes, apenas para sanar erro material em relação à reincidência (e-STJ, fls. 474-479).
+Em suas razões recursais, a parte recorrente aponta violação do art. 387, IV, do CPP. Aduz para tanto, em síntese, que seria necessária a fixação de valor indenizatório mínimo para a reparação dos danos morais sofridos pela vítima, porquanto existente pedido na denúncia, sendo ônus da defesa impugná-lo.
+Com contrarrazões (e-STJ, fls. 497-500), o recurso especial foi admitido na origem (e-STJ, fls. 502-504).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 515-518).
+É o relatório.
+Decido.
+A insurgência é improcedente.
+Embora, de fato, seja em tese cabível a fixação do montante mínimo para indenizar danos morais na forma do art. 387, IV, do CPP, nem todos os requisitos para tanto foram cumpridos no caso concreto. Afinal, para permitir essa liquidação parcial do dano, a Quinta Turma deste STJ tem exigido, além do pedido expresso na denúncia, a instrução a seu respeito e a quantificação do valor pretendido pela acusação, de modo a permitir o amplo exercício do contraditório. Vejam-se, nesse sentido, os seguintes precedentes:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 272 DO CP. AUSÊNCIA DE COMPROVAÇÃO DE NOCIVIDADE AO ORGANISMO OU REDUÇÃO DO VALOR NUTRITIVO NA DEFORMAÇÃO DO ÓLEO DE SOJA DEGOMADO UTILIZADO PARA A PRODUÇÃO DE ALIMENTOS. ABSOLVIÇÃO. REPARAÇÃO DE DANOS MORAIS. PEDIDO EXPRESSO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE INSTRUÇÃO ESPECÍFICA. VIOLAÇÃO DA AMPLA DEFESA E DO CONTRADITÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A reparação de danos, além de pedido expresso, pressupõe a indicação de valor e prova suficiente a sustentá-lo, possibilitando ao réu o direito de defesa com indicação de quantum diverso ou mesmo comprovação de inexistência de prejuízo material ou moral a ser reparado. Necessário, portanto, instrução específica para apurar o valor da indenização. In casu, verifica-se que, apesar de ter havido pedido expresso do Ministério Público na denúncia para a fixação de valor para a reparação do dano, nos termos do art. 387, inciso IV, do CPP, não houve instrução específica, o que afastou do acusado a possibilidade de se defender e produzir contraprova.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1361693/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/4/2019, DJe 23/4/2019)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 387, INCISO IV, DO CÓDIGO DE PROCESSO PENAL. EXISTÊNCIA DE PEDIDO EXPRESSO DO MINISTÉRIO PÚBLICO PARA REPARAÇÃO DE DANOS MORAIS. INEXISTÊNCIA DE INSTRUÇÃO ESPECÍFICA NO CURSO DO PROCESSO. INOBSERVÂNCIA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. PRECEDENTES.
+I - Na linha da jurisprudência desta Corte, a reparação de danos, além de pedido expresso, pressupõe a indicação de valor e prova suficiente a sustentá-lo, possibilitando ao réu o direito de defesa. Necessário, portanto, instrução específica para apurar o valor da indenização. Precedentes.
+II - A tese fixada por esta eg. Corte de Justiça no sentido de que: "Nos casos de violência contra a mulher praticados no âmbito doméstico e familiar, é possível a fixação de valor mínimo indenizatório a título de dano moral, desde que haja pedido expresso da acusação ou da parte ofendida, ainda que não especificada a quantia, e independentemente de instrução probatória." (REsp 1675874/MS, Terceira Seção, Rel. Ministro Rogerio Schietti Cruz, DJe 08/03/2018, grifei), não é aplicável ao caso, se tratando de delito de roubo.
+Agravo desprovido".
+(AgRg no REsp 1813825/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/6/2019, DJe 25/6/2019)
+E, mais recentemente:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OPERAÇÃO EX-CÂMBIO. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. FIXAÇÃO DE VALOR MÍNIMO PARA INDENIZAÇÃO POR DANOS AO SFN. NECESSIDADE DE PEDIDO NA DENÚNCIA, COM INDICAÇÃO DA QUANTIA PRETENDIDA, E INSTRUÇÃO ESPECÍFICA A ESSE RESPEITO. ENTENDIMENTO DA QUINTA TURMA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o entendimento da Quinta Turma deste STJ, a fixação de valor mínimo para reparação dos danos na forma do art. 387, IV, do CPP exige, além de pedido expresso na inicial, tanto a indicação do montante pretendido como a realização de instrução específica a respeito do tema, para viabilizar o exercício da ampla defesa e do contraditório.
+2. Agravo regimental desprovido".
+(AgRg no REsp n. 1.954.984/RS, de minha relatoria, QUINTA TURMA, julgado em 7/12/2021, DJe 13/12/2021)
+No caso dos autos, a denúncia realmente pediu a fixação do valor indenizatório mínimo; contudo, não foi realizada instrução específica sobre o tema, como se colhe do acórdão recorrido (e-STJ, fls. 450-451). Logo, ausente o atendimento cumulativo a todos os requisitos do pedido, é inviável seu acolhimento.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
