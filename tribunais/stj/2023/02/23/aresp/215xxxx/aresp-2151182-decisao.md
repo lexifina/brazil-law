@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da C orte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos artigos 140, 489, incisos II, § 1º, IV e 1.022 do CPC e incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (e-STJ fl. 343):
+AGRAVO. TRIBUTÁRIO. EXCLUSÃO DA CPRB DA BASE DE CÁLCULO DO PIS/COFINS: IMPOSSIBILIDADE, POR SER TRIBUTO DIRETO, NÃO ASSUMINDO TRANSLAÇÃO QUE PERMITA CONSIDERAR O CONTRIBUINTE COMO MERO DEPOSITÁRIO DOS VALORES. RECURSO DESPROVIDO.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 140, 489, incisos II, § 1º, IV e 1.022 do CPC/15, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa aos artigos 1º e 2º da LC 70/91, 3º da LC 7/70, 1º da LC 17/73, 2º e 3º da lei 9.715/98, 2º e 3º da lei 9.718/98, 1º da lei 10.637/2002, 1º da lei 10.833/2003, 927, inciso III e V, 1.039 e 1.040, inciso II, do CPC/15, sob o argumento de que a Contribuição Previdenciária sobre a Receita Bruta (CPRB) não deveria integrar a base de cálculo do PIS/COFINS, por não se tratar de receita ou faturamento.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do artigo 140, 489, incisos II, § 1º, IV e 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Quanto ao mérito, o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior no sentido de que a Contribuição Previdenciária sobre a Receita Bruta (CPRB) compõe a base de cálculo da contribuição ao PIS e da COFINS.
+Nesse sentido,
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. CPRB. EXCLUSÃO. IMPOSSIBILIDADE.
+1. O STJ, no âmbito das Turmas de Direito Público, decidiu que é legal a inclusão da Contribuição Previdenciária sobre a Receita Bruta - CPRB nas bases de cálculo da contribuição para o PIS e da COFINS. Precedentes.
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ, o que inviabiliza o conhecimento do recurso especial pelas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido. (AgInt no REsp n. 1.968.225/SP, Rel. Min. Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+TRIBUTÁRIO. CPRB. BASE DE CÁLCULO DO PIS E DA COFINS. INCLUSÃO. LEGALIDADE.
+1. "É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS" (RE 1.244.117 RG, Rel. Dias Toffoli, Tribunal Pleno, DJe 25/2/2021 - Tema 1.111/STF).
+2. As duas Turmas que compõem a Primeira Seção deste STJ firmaram a compreensão pela legalidade da inclusão dos valores relativos à contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS.
+3. Precedentes: AgInt no REsp n. 1.968.225/SP, relator Ministro Gurgel de Faria, DJe de 1/7/2022; AgInt nos EDcl no REsp 1.934.023/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/02/2022; e AgInt nos EDcl no REsp 1.930.043/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 15/12/2021.
+4. Agravo interno não provido. (AgInt no REsp n. 1.934.022/SC, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CPRB NA BASE DE CÁLCULO DO PIS E DA COFINS. CONCEITO DE RECEITA BRUTA. ART. 12 DO DECRETO-LEI N. 1.598/1977. LEGALIDADE. PRECEDENTES.
+1. "Conforme dispõe o art. 105 da CF, a competência do Superior Tribunal de Justiça restringe-se à interpretação e à uniformização do direito infraconstitucional federal, impossibilitando-se o exame de eventual violação a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao STF" (AREsp n. 1.600.392/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/5/2020.). Dessa forma, não comporta conhecimento o recurso no que diz respeito às alegações de afronta a tais elementos.
+2. Esta Corte de Justiça já se posicionou no sentido de que, tendo o STF reafirmado a constitucionalidade e legalidade do conceito de receita bruta trazido pelo art. 12 do Decreto-Lei n. 1.598/1977, com a nova redação dada pela Lei 12.973/2014, não se aplica as razões do Tema 69/STF à presente discussão, nem há falar em ofensa ao art. 110 do CTN.
+3. Assim, é de ser reconhecida a legalidade da inclusão dos valores da CPRB nas bases de cálculo da contribuição do PIS e da COFINS, pois são alcançados pelo conceito de receita bruta. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.934.023/RS, Rel. Min. Og Fernandes, Segunda Turma, julgado em 15/2/2022, DJe de 24/2/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RENDA BRUTA (CPRB). EXCLUSÃO DA BASE DE CÁLCULO DA CONTRIBUIÇÃO PARA O PIS E DA COFINS. IMPOSSIBILIDADE. PRECEDENTE DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, objetivando, em suma, assegurar "o direito líquido e certo da autora em excluir da base de cálculo das contribuições PIS e COFINS os valores pagos a título de Contribuição Previdenciária sobre a Receita Bruta - CPRB".
+O Juízo singular denegou a segurança. Mantendo a sentença, o Tribunal de origem negou provimento à Apelação do impetrante.
+III. O Plenário do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário 1.244.117/SC (DJe de 26/02/2021), de relatoria do Ministro DIAS TOFFOLI, reconheceu a inexistência de repercussão geral da questão objeto do presente Recurso Especial, firmando a seguinte tese: "É infraconstitucional a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS".
+IV. Nesse contexto, examinando a questão sob a ótica infraconstitucional, a Segunda Turma do STJ, chegou à conclusão de que "não tem o contribuinte o direito de excluir os valores atinentes à Contribuição Previdenciária sobre a Receita Bruta (CPRB) da base de cálculo das contribuições ao PIS e à Cofins" (STJ, AgInt no AgInt no REsp 1.930.041/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 31/08/2021).
+V. Agravo interno improvido. (AgInt no AgInt no REsp n. 1.929.419/RS, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 19/10/2021, DJe de 22/10/2021.)
+Assim, estando o entendimento de origem em alinhamento com a jurisprudência do STJ, cabível seu desprovimento monocraticamente, a teor do previsto na Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Incabível a aplicação do artigo 85, § 11, à hipótese, tendo em vista que não foram fixados honorários advocatícios nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXCLUSÃO DA CPRB DA BASE DE CÁLCULO DO PIS/COFINS. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
