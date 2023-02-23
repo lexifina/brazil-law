@@ -1,0 +1,21 @@
+DECISÃO
+IRLAN FAHEL LEONEL FILHO opõe embargos declaratórios à decisão de fls. 744-747, que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Em suas razões, o embargante sustenta que houve erro material na decisão embargada em sua parte final. Afirma que, ao contrário do que restou consignado à fl. 747, o ora embargado que deverá arcar com os honorários em seu favor.
+Requer o recebimento e acolhimento dos embargos declaratórios para que seja corrigido o erro material mudando o termo para recorrido, conforme acima suscitado e n os termos das decisões de 1º e 2º graus acerca dos honorários advocatícios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado.
+Preliminarmente, faz-se necessário discorrer acerca da evolução processual em relação aos honorários sucumbenciais.
+Cuidam os autos de ação monitória ajuizada por INDUSMAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. EPP em face de IRLAN FAHEL LEONEL FILHO.
+Consta da parte dispositiva da sentença (fl. 520, destaquei):
+JULGO IMPROCEDENTE a ação ajuizada por INDUSMAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA EPP em face de IRLAN FAHEL LEONELFILHO e julgo procedente em parte a reconvenção, extinguindo o feito com resolução de mérito, o que faço com fundamento no art. 487, I, do Código de Processo Civil, determinando-se ao requerente a devolução dos cheques ao requerido, e condenando a autora a pagar ao réu a quantia de R$10.000,00 (dez mil reais) a título de dano moral, com correção monetária desde o arbitramento e juros de mora a contar da citação.
+Condeno o autor no pagamento das custas e despesas processuais, bem como em honorários advocatícios devidos ao patrono do requerido tanto nos autos principais quanto na reconvenção, que arbitro em R$ 3.000,00 (três mil e quinhentos) reais, considerando o art. 85, § 2º,do Código de Processo Civil.
+Consta do acórdão, ao julgar a apelação de INDUSMAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. EPP (fls. 613-614, destaquei):
+Ante o exposto, pelo meu voto, dou parcial provimento ao recurso, apenas para reduzir a condenação do autor quanto ao pagamento de indenização por danos morais para R$ 5.000,00, corrigidos monetariamente pela Tabela Prática do E. TJSP a partir da data da publicação desse Acórdão e acrescidos de juros de mora de 1% ao mês a partir da citação. Em razão da sucumbência mínima do réu, deve o autor arcar com o pagamento das custas, despesas processuais e honorários advocatícios, fixados em 15% do valor total do proveito econômico do réu.
+Nessa instância, o agravo em recurso especial interposto por NDUSMAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. EPP restou conhecido para conhecer em parte do recurso especial e negar-lhe provimento, constando o seguinte (fl. 747, destaquei):
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Dentro desse contexto e de uma análise mais detida do feito, verifica-se a existência de erro material no decisum.
+Passo, portanto, às devidas correções.
+Com o propósito de corrigir o erro material existente na decisão embargada, impõe-se substituir o termo constante da fl. 747 da decisão ora embargada "em favor do patrono da parte ora recorrente" por "em favor do patrono da parte ora recorrida (agravado)", ficando a parte final do decisum nestes termos (destaquei):
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida (agravado), observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Ante o exposto, acolho os embargos de declaração para corrigir erro material constante da decisão embargada sem, contudo, atribuir-lhes efeitos infringentes.
+Publique-se. Intimem-se.
