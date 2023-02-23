@@ -1,0 +1,22 @@
+DECISÃO
+STEVEN ROBSON SIQUEIRA DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500561-68.2018.8.26.0567.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei de Drogas.
+A defesa aduz, inicialmente, que houve nulidade na busca domiciliar e no acesso ao celular do acusado sem justa causa nem consentimento válido para tanto.
+Subsidiariamente, argumenta que foi inidônea a fundamentação usada para exasperar a pena-base do réu.
+Decido.
+I. Nulidade das provas - supressão de instância
+Verifico que o Tribunal de origem não analisou as teses defensivas de nulidade do acervo probatório, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+II. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juízo singular majorou a pena em 1/6, sob o argumento de que "A quantidade de drogas, já denota a culpabilidade acima da média" (fl. 49, grifei).
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora a quantidade e a natureza da droga apreendida constituam, de fato, circunstâncias preponderantes a serem sopesadas na dosimetria da pena, considero que a quantidade de maconha apreendida em poder do paciente - aproximadamente 70 g - não foi expressiva, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, essa circunstância da droga para justificar a exasperação da pena-base.
+Entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque, em regra, o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado pela Terceira Seção desta Corte por ocasião do julgamento dos EREsp n. 1.544.057/RJ (Rel. Ministro Reynaldo Soares da Fonseca, DJe 9/11/2016).
+Diante de tais considerações, deve a ordem ser concedida, a fim de reduzir a pena-base do paciente para o mínimo legalmente previsto (5 anos de reclusão e 500 dias-multa), haja vista a favorabilidade de todas as demais circunstâncias judiciais.
+Por consequência, com o aumento de 1/5 decorrente da multirreincidência, a nova reprimenda deve ser estabelecida em 6 anos de reclusão e 600 dias-multa, mantido o regime inicial fechado.
+III. Dispositivo
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, concedo a ordem, in limine, a fim de reduzir a reprimenda do acusado a 6 anos de reclusão e 600 dias-multa, mantido o regime inicial fechado.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
