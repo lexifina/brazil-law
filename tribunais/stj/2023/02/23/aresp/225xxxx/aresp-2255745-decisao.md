@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por inexistência de violação dos arts. 489 e 1.022 do CPC/2015 (e-STJ fls. 937/938).
+O Tribunal de origem negou provimento à apelação da recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 789):
+Cumprimento de sentença - Nulidade não configurada: desnecessidade do Juízo aguardar o julgamento de agravo desprovido de efeito suspensivo e que, logo após a sentença, não foi conhecido - Legitimidade ativa ad causam: questão acobertada pela coisa julgada e que, por isso, não admite discussão na fase de cumprimento da sentença que a decidiu - Homologação dos cálculos, tendo em vista a não apresentação de dados adicionais pelo executado (CPC 524, § 5º) - Crédito anterior ao pedido de recuperação judicial a ela se submete, inclusive os honorários de sucumbência. STJ Tema 1.051.
+Os embargos de declaração foram rejeitados (e-STJ fls. 866/882).
+No recurso especial (e-STJ fls. 885/909), fundamentado no art. 105, III, "a", da CF, a recorrente apontou violação dos arts. 489 e 1.022 do CPC/2015, pugnando pela declaração de nulidade do acórdão reco rrido por negativa de prestação jurisdicional. Aduziu omissões no julgado, argumentando com a inexistência de violação à coisa julgada, em razão da possibilidade de se aplicar a hipótese de liquidação zero e inexistência do contrato de número 3675-1517.
+Busca, em suma, o provimento do recurso especial, a fim de que (e-STJ fl. 908):
+ ..  este e. Superior Tribunal de Justiça, no desempenho da sua missão de guarda dos preceitos infraconstitucionais, reconheça e declare a violação ao artigo 1.022, II do Código de Processo Civil, para anular o v. acórdão recorrido no julgamento dos embargos de declaração opostos pela recorrente, determinando -se, com efeito, a baixa dos autos àquela e. Corte de origem para novo julgamento, com o devido enfrentamento sobre ausência de violação à coisa julgada, em razão da possibilidade de se aplicar, no caso, a hipótese de liquidação zero (art. 525, §1º, III, do Código de Processo Civil.
+ ..  caso assim não se entenda, requer -se que esse e. Superior Tribunal de Justiça reconheça e declare a violação ao artigo 1.022, II do Código de Processo Civil, para anular o v. acórdão recorrido no julgamento dos embargos de declaração opostos pela recorrente, determinando - se, com efeito, a baixa dos autos àquela e. Corte de origem para novo julgamento, com o devido enfrentamento da tese ventilada pela Recorrente de inexistência do contrato de número 3675 -1571.
+Contrarrazões apresentadas (e-STJ fls. 931/934).
+No agravo (e-STJ fls. 940/960), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 965/968).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+A agravante afirma que a decisão recorrida não está suficientemente fundamentada, especialmente quanto ao fato de que o Tribunal de origem incorreu em omissão no que se refere aos argumentos de (i) inexistência de violação à coisa julgada, uma vez que não há direito a indenização (alíquota zero), e (ii) que a recorrente cumpriu a ordem judicial de apresentação das informações pertinentes à liquidação do julgado, visto que o contrato de n. 36751571 é inexistente.
+Contudo, não há omissão, pois o acórdão recorrido considerou a impossibilidade de discussão acerca da legitimidade ativa em decorrência da violação à coisa julgada. Na mesma linha, concluiu pela homologação dos cálculos, tendo em vista a não apresentação de dados adicionais pela recorrente. Confira-se (e-STJ fls. 791/794):
+Quanto à alegação de que o exequente não teria direito às ações, trata-se de matéria preclusa, decidida na fase cognitiva por sentença condenatória passada em julgado (ids 17782174 e 17782176) e que ensejou a fase de cumprimento.
+ ..
+Portanto, essa questão sequer pode ser conhecida nesta fase, pois imutável e indiscutível a sentença que a decidiu (CPC 502).
+No que concerne à alegação de que a cópia da radiografia apresentada é suficiente para elaboração correta dos cálculos - matéria que ensejou o agravo supramencionado - de modo a que sejam refeitos pela Contadoria, valho-me dos fundamentos lançados na decisão 17782223:
+"(..).
+Cuida-se de ação em fase de cumprimento de sentença, onde, atualmente, se busca apurar o quantum debeatur referente à subscrição de ações complementares, na forma dos títulos judiciais que se fizeram acostar aos IDs 29503461 e 29503466.
+Instado a juntar aos autos, pro força do decisório de ID 32296607, os documentos pugnados pela requerente, sob pena de acolhimento dos valores apresentados por aquela última parte, alegou a empresa devedora, em ID 33454211, que a radiografia do contrato, por ela juntada aos autos em ID 33454345, seria documento suficiente para aquilatar o importe devido, tendo também afirmando, em acréscimo, que inexistiriam valores a serem indenizados, pois o demandante seria "mero cessionário do direito de uso da linha telefônica, sem direito às ações derivadas do contrato de participação financeira".
+Por entender que a radiografia do contrato não teria, por si só, capacidade de elucidar os valores devidos, determinou este Juízo, em ID 37036391, que a requerida trouxesse aos autos os dados do 1º promitente assinante, bem como dos documentos relacionados ao contrato de nº 36751571, aludido em ID 33454345.
+Vieram aos autos, com isso, os documentos de IDs 38541970 e 38541990, juntados pela parte requerida, sendo que, em manifestação sobre os referidos expedientes, aduziu o credor que os mesmos não seriam suficientes para a apuração dos valores.
+Vieram os autos conclusos. Passo a decidir.
+(..) passo a perquirir sobre a suficiência dos documentos coligidos pela empresa devedora.
+Nesse contexto, tendo a requerida sido intimada para trazer aos autos, nos moldes do decisório de ID 37036391, os dados do 1º promitente assinante, assim como os documentos relacionados ao contrato de nº 36751571, expressamente mencionado pela radiografia do contrato de ID 33454345, constata-se que teria se limitado a parte obrigada a juntar os documentos de IDs 38541970 e 38541990.
+O documento de ID 38541970 equivaleria aos dados do 1º promitente assinante, tendo a empresa de telefonia demandada, portanto, cumprido, nesse tópico, a determinação.
+Noutro vértice, os documentos relacionados ao contrato de nº 36751571, expressamente reclamados na decisão, não teriam sido fornecidos pela requerida, na forma determinada por este Juízo, eis que o expediente de ID 38541990 seria mera cópia da radiografia do contrato já acostada e reputada insuficiente pela decisão de ID 37036391.
+Consoante disposto no relatório deste decisum, teria a requerida sido advertida, de modo expresso (ID 37036391), de que o descumprimento da ordem de juntada dos documentos ensejaria a presunção de "anuência em relação às informações prestadas pelo exequente".
+ ..
+Com isso, em face do evidenciado descumprimento da ordem emanada deste Juízo, voltada a efetivar o reconhecido dever de colacionar os documentos relacionados ao contrato de nº 36751571, para, com isso, possibilitar a apuração do quantum debeatur, HOMOLOGO, com espeque no artigo 524, §§ 4º e 5º, do CPC, os cálculos apresentados pela parte credora, conforme demonstrativo de ID 33746386, atualizados à data de 07/05/2019.
+(..)."
+Portanto, quanto ao vício suscitado, ao contrário do que alega a recorrente, a Câmara julgadora conheceu dos pontos .
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
