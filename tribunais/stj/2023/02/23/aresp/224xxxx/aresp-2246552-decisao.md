@@ -1,0 +1,25 @@
+DECISÃO
+CLEITON DE OLIVEIRA GUIMARÃES agrava da decisão que inadmitiu o recurso especial por ele interposto, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0322490-08.2018.8.19.0001.
+Nas razões do especial, a defesa suscitou a violação dos arts. 593, III, "d", do CPP e 5º, XXXV, da CF, ao argumento de que as qualificadoras reconhecidas pelo Conselho de Sentença são manifestamente contrárias às provas dos autos. Requereu a anulação do julgamento, com a realização de um novo.
+A Corte de origem não admitiu o recurso em virtude da incidência da Súmula n. 7 do STJ, bem como da não apresentação de cotejo analítico e da alegação de infringência de dispositivo constitucional.
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 789-793).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 724-727, grifei):
+Inicialmente, verifico que o recorrente alega violação à norma constitucional (Artigo 5º, inciso XXXV, da Constituição Federal) em sede de recurso especial. O STJ, no entanto, não possui competência para o processo e julgamento destas questões, afetas com exclusividade ao STF.
+ ..
+Por outro lado, o acórdão recorrido negou provimento ao recurso defensivo para manter a condenação do recorrente à pena de 12 (dose) anos de reclusão, em regime inicial fechado, pela prática do crime tipificado no artigo 121, §2º, incisos II e IV, do Código Penal.
+Verifico que a pretensão de rediscussão sobre a decisão dos jurados, que concluiu pela prática do crime previsto no artigo 121, §2º, incisos II e IV, do Código Penal, que supostamente teria sido contrária à prova dos autos, importa no reexame da questão fática, o que é inviável em sede de recursos excepcionais, conforme preceitua o verbete nº 7 da Súmula do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+Por fim, a interposição do recurso especial pela alínea "c" exige do recorrente a comprovação da alegada divergência jurisprudencial, cabendo colacionar os precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial, comparando analiticamente os acórdãos confrontados, nos termos previstos no artigo 1029, §§1º e 2º, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ.
+E mais, à demonstração do dissídio jurisprudencial se impõe indispensável avaliar se as soluções encontradas pelo acórdão recorrido e pelos paradigmas selecionados teriam por base idênticas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. E isso não foi feito pelo recorrente.
+A defesa, contudo, não rebateu todos os fundamentos da inadmissão do especial, uma vez que se limitou a afirmar, genericamente, que o recurso preenchia todos os requisitos de admissibilidade. Veja-se (fl. 751):
+14. Com todas as vênias percebemos que a Inadmissibilidade deste recurso está em contradição ao disposto na Legislação e Princípios que regem o Estado Democrático de Direito, notamos que se trata de antecipação do julgamento que deveria ser proferido pelo Superior Tribunal de Justiça.
+15. Conforme se vê no artigo 105, III, alínea "a" da CF:
+"Compete ao Superior Tribunal de Justiça julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais dos Estados, quando a decisão contrariar Lei Federal ou negar-lhe vigência". Assim, com a devida vênia, consoante as razões recursais, onde foi demonstrado com clareza que a decisão do Tribunal do Estado contrariou várias Leis Federais e, ainda, negou-lhe vigência, cabe ao STJ decidir e corrigir tais equívocos.
+16. Com uma passada de olhos no teor do Recurso Especial interposto se vê com clareza que o juízo de admissibilidade está equivocado, com todas as vênias, pois, inclusive, com os precedentes juntados demonstra- se de plano que o Superior Tribunal de Justiça já decidiu por diversas vezes a tese alegada pelo recorrente:
+ ..
+A parte nada mencionou sobre a ausência de competência do STJ para se manifestar acerca da violação de dispositivo constitucional, sobre a comprovação do cotejo analítico entre o acórdão recorrido e o paradigma ou sobre a necessidade de reexaminar o caderno fático-probatório para analisar a pretensão defensiva.
+Portanto, o agravante não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em r ecurso especial.
+Publique-se e intimem-se.
