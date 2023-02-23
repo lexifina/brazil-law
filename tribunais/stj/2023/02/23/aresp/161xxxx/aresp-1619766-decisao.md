@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pelo ESTADO DE MATO GROSSO DO SUL e por ARLETE CIDADE VIEIRA e OUTROS contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul, assim ementado (e-STJ fl. 212).
+AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA EM FACE DE AÇÃO COLETIVA - PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO - PRELIMINAR AFASTADA - INSTAURAÇÃO DE INCIDENTE DE DEMANDA REPETITIVA - INCOMPETÊNCIA DESTE ÓRGÃO COLEGIADO - PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA - PRAZO PRESCRICIONAL NÃO ESCOADO - CONTRARIEDADE À COISA JULGADA NÃO VERIFICADA - IMUTABILIDADEDO TÍTULO EXECUTIVO - EFICÁCIA PRECLUSIVA DA COISA JULGADA - CORREÇÃO MONETÁRIA - SUPREMO TRIBUNAL FEDERAL - MODULAÇÃO DOS EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 1º-F DA LEI 9.494/97 - RECURSO PARCIALMENTE PROVIDO.
+Defende a Fazenda Pública, preliminarmente, violação dos arts. 489, § 1º, IV, V e VI, e 1.022, parágrafo único, I, do CPC.
+No mérito propriamente dito, afirma que houve contrariedade ao que decidido em recursos representativos de controvérsia julgados nesta Corte no que toca à prescrição, bem como indica vulneração dos arts. 503, 506 e 509, § 4º, do CPC, ao argumento de que houve violação dos limites impostos no título executivo, além de ilegalidade na inversão do ônus da prova.
+No mais, aponta divergência jurisprudencial.
+Já os particulares afirmam violação da coisa julgada.
+Os recursos foram inadmitidos na origem e desafiados por agravo.
+Passo a decidir.
+Adianto que ambos os recursos não merecem guarida.
+Quanto ao apelo especial do Estado do Mato Grosso do Sul, registro que não se pode falar em violação dos art. 489, §1º, do CPC, porquanto, ainda que se considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões suscitadas pela recorrente.
+Não se pode confundir o resultado desfavorável ao litigante com decisão aquém dos limites da lide, motivo pelo qual não se constata violação do preceito apontado.
+A Corte local enfrentou direta e expressamente os argumentos sobre prescrição, entendendo não ter ocorrido o instituto no caso, uma vez que a execução individual do título coletivo teria sido precedida de liquidação, a qual teria impedido o curso do lustro prescricional.
+Além disso, colacionou julgados coerentes com aquele argumento.
+Portanto, a prestação jurisdicional foi dada na medida da lide deduzida, não havendo nulidade do acórdão.
+Ademais, quando houve a interposição dos aclaratórios pela Fazenda Pública, o que queria a parte embargante era rediscutir o mérito da decisão que lhe foi desfavorável, não se prestando o recurso a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AgInt nos EDcl no AgInt no AREsp 1582376/SP, Rel. Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 11/04/2022, DJe 18/04/2022; EDcl no AgInt no REsp 1896032/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, Rel. Ministro Jorge Mussi, Corte Especial, julgado em 08/09/2021, DJe 13/09/2021.
+Portanto, não há violação dos arts. 489, § 1º, IV, V e VI, e 1.022, parágrafo único, I, do CPC.
+No mérito propriamente dito, em relação à prescrição, o juízo a quo adotou a orientação consolidada nesta Corte, segundo a qual "o lapso prescricional da ação de execução apenas inicia-se quando finda a liquidação, com o título já aperfeiçoado" (AgInt no AREsp n. 1.919.988/MA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/5/2022, DJe de 11/05/2022.)
+É que esta Corte Superior tem o pacífico entendimento de que a liquidação integra a fase de cognição do processo, motivo pelo qual a execução tem início quando o título se apresenta também líquido, iniciando-se aí o prazo prescricional da ação executiva. Nesse sentido: AgInt no REsp n. 1.683.705/ES, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/08/2022, DJe de 17/08/2022; AgInt no AREsp 1.746.548/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/04/2021; AgRg no AREsp 809.726/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/05/2016.
+Aplica-se, pois, a Súmula 83 do STJ nesse aspecto.
+Aliás, o posicionamento acima citado em nada conflita com o também consolidado entendimento do STJ firmado quando do julgamento do Tema 877, já que:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AUSÊNCIA DE PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA Nº 1.336.026/PE. TERMO INICIAL DA EXECUÇÃO. NECESSIDADE DE LIQUIDAÇÃO. TEMA REPETITIVO N. 877 DO STJ. NÃO APLICAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem destacou que o termo inicial da prescrição para a execução não começou com o trânsito do título judicial em face da necessária liquidação da condenação.
+2. Por essa razão, observa-se que a regra geral do entendimento jurisprudencial do STJ fixado no Tema Repetitivo n. 877 não se aplica à presente hipótese. Ademais, se gundo a jurisprudência do STJ, o prazo prescricional da pretensão executória não se inicia durante a liquidação do título julgado.
+3. Ademais, em sede de embargos de declaração no REsp 1.336.026/PE - representativo da controvérsia do Tema n. 877 -, houve modulação dos efeitos pela Primeira Seção para definir o dia 30 de junho de 2017 como o termo inicial do prazo prescricional das pretensões executivas fundadas em título judiciais, firmados ainda durante a vigência do CPC/1973, que estejam dependendo do fornecimento de documentos ou fichas financeiras pelo executado.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.860.050/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/4/2020, DJe de 27/4/2020.) (Grifos acrescidos).
+Registre-se que, na espécie, não seria possível confirmar a necessidade ou não de liquidação prévia sem o reexame de matéria fático, pretensão que esbarra no óbice da Súmula 7 do STJ.
+A propósito, o referido verbete sumular também impede o conhecimento das demais matérias alegadas no apelo especial do Estado de Mato Grosso do Sul.
+É que, segundo a Corte local, a execução estaria seguindo fielmente o disposto no título executivo, inclusive sobre a necessidade de a parte executada apresentar documentos.
+Assim, o argumento da Fazenda de que houve violação dos limites impostos no título executivo, além de ilegalidade na inversão do ônus da prova, reclamaria o reexame, no mínimo, de documento fundamental, a saber: o próprio título executivo, que, como não foi formado na presente ação, se integra o presente feito, tem natureza de prova.
+Portanto, aplicável também nesse particular a Súmula 7 do STJ.
+O mesmo argumento, aliás, é empregado quanto ao recurso dos particulares (que também alegam violação da coisa julgada), pois, repita-se, apenas confrontando o título executivo, a liquidação e os documentos da própria execução seria possível confirmar a mencionada violação.
+Por fim, deixo de exercer a faculdade do art. 1.036, § 5º, mencionada no recurso do Estado de Mato Grosso do Sul, uma vez que não comprovada multiplicidade de recursos, além do fato de o presente recurso, como visto, não ser admissível (art. 1.036, § 6º).
+Ante o exposto, CONHEÇO dos agravos para NÃO CONHECER dos recursos especiais.
+Publique-se. Intimem-se.
