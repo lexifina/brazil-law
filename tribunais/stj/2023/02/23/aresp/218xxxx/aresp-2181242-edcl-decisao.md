@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SANDRA PEREIRA BARBOSA (SANDRA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Mineiro, relatado pelo Des. ROGÉRIO MEDEIROS, assim ementado:
+EMENTA: APELAÇÃO CÍVEL -REPARAÇAO DE DANO -INDENIZAÇÃO POR DANOS MORAIS -FALHA NA PRESTAÇAO DE SERVIÇOS -DANOS MORAIS INEXISTENTES. Dadas às particularidades do caso, a situação vivenciada não foi suficiente para lesar a honra ou imagem, revelando-se, na verdade, mero aborrecimento, que não configura dano moral passível de reparação (e-STJ, fl. 201).
+Os embargos de declaração opostos por SANDRA foram rejeitados (e-STJ, fls. 220/223).
+Opostos novos embargos de declaração por SANDRA, foram novamente rejeitados, com imposição de multa, nos termos da seguinte ementa:
+EMENTA: EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, ERRO OU OBSCURIDADE. IMPOSSIBILIDADE DE REEXAME DA MATÉRIA TAL COMO PRETENDIDO NA VIA ELEITA. PREQUESTIONAMENTO. INTUITO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. Desnecessária a declaração do acórdão embargado quando não se encontra presente qualquer dos vícios do art. 1.022 do Novo Código de Processo Civil. Não assiste razão ao embargante, que procura tão somente verbalizar seu descontentamento com a decisão, como se viável fosse procurar um novo julgamento através do recurso eleito. Opostos embargos meramente protelatórios, impõe-se a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015 (e-STJ, fl. 256).
+Irresignada, SANDRA interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 489, 1.022 do NCPC, 6º, III, 14, 39, III, VI, do CDC, 186, 187 e 927 do CC e à Súmula nº 98 do STJ, ao sustentar que (1) o acórdão recorrido foi omisso quanto (i) aos dispositivos legais invocados; e (ii) à comprovação da gratuidade da justiça; (2) a multa aplicada é indevida, porquanto os embargos de declaração não tinham caráter protelatório; e (3) o bloqueio do cartão de crédito repentinamente gerou dano moral (e-STJ, fls. 262/276).
+O recurso não foi admitido pelo Tribunal estadual, tendo em vista a ausência de ofensa aos arts. 489 e 1.022 do NCPC e a incidência da Súmula nº 7 do STJ (e-STJ, fls. 292/296).
+Nas razões do agravo, SANDRA alegou que (1) foram violados os arts. 489 e 1.022 do NCPC; e (2) deve ser afastada a Súmula nº 7 do STJ (e-STJ, fls. 299/312).
+Não foi apresentada contraminuta.
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação à falta de violação do art. 1.022 do NCPC e da Súmula nº 7/STJ (e-STJ, fls. 322/324).
+Os embargos de declaração opostos por SANDRA foram rejeitados (e-STJ, fls. 357/360).
+Nas razões do presente agravo interno, SANDRA defendeu que (1) não incide a Súmula nº 7 do STJ; e (2) foi demonstrada a violação do art. 1.022 do NCPC (e-STJ, fls. 363/373).
+Foi apresentada impugnação (e-STJ, fls. 376/386).
+O agravo interno foi provido para reconsiderar a decisão anterior e, em novo exame, conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, em decisão de minha lavra assim ementada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BLOQUEIO DE CARTÃO. OMISSÃO. AUSÊNCIA. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. BLOQUEIO DE CARTÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 392).
+Nas razões dos presentes embargos de declaração, SANDRA afirmou que (1) a decisão unipessoal foi omissa, porquanto inaplicável a Súmula nº 7 do STJ, ante a comprovação de que o cancelamento do cartão sem aviso prévio causou danos sérios; e (2) não incide a Súmula nº 283 do STF, haja vista a impugnação da tese apresentada (e-STJ, fls. 402/410).
+Não foi oferecida impugnação (e-STJ, fls. 413/425).
+É o relatório.
+A irresignação não merece prosperar.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, SANDRA afirmou a existência de violação do art. 1.022, do NCPC, argumentando que (1) a decisão unipessoal foi omissa, porquanto inaplicável a Súmula nº 7 do STJ, ante a comprovação de que o cancelamento do cartão sem aviso prévio causou danos sérios; e (2) não incide a Súmula nº 283 do STF, haja vista a impugnação da tese apresentada.
+Contudo, sem razão.
+Constou expressamente na decisão embargada que seria aplicável a Súmula nº 283 do STJ, ante a falta de impugnação ao fundamento de que, verificada a inscrição do nome de SANDRA em cadastros de proteção ao crédito por instituições diversas e reconhecidos por esta débitos no valor de R$ 346.793,18 (trezentos e quarenta e seis mil, setecentos e noventa e três reais e dezoito centavos), não se evidenciaria o dano moral. Acrescentou que incidiria a Súmula nº 7 do STJ, pois não seria possível modificar as conclusões do acórdão vergastado quanto à inexistência de dano moral. Confira-se o excerto:
+Nas razões do presente recurso, SANDRA afirmou a violação dos arts. 6º, III, 14, 39, III, VI, do CDC, 186, 187 e 927 do CC, ao sustentar que o bloqueio do cartão de crédito repentinamente gerou dano moral.
+Contudo, da acurada análise do acórdão recorrido, é possível verificar que o Tribunal estadual consignou que constatada a inscrição do nome de SANDRA em cadastros de proteção ao crédito, por dívidas com inúmeras instituições, e reconhecido por esta a existência de débitos totalizando R$ 346.793,18 (trezentos e quarenta e seis mil, setecentos e noventa e três reais e dezoito centavos), o bloqueio do cartão pela instituição financeira não evidencia dano moral, confira-se:
+Na hipótese, não visualizo irregularidade na conduta da parte apelada passível de acarretar reparação a título de dano moral. Inclusive, registro que os fundamentos da sentença foram pouco questionados na peça recursal.
+" ..
+A autora afirma que seu cartão de crédito foi boqueado injustificadamente, tendo em vista que as faturas do referido cartão estavam todas quitadas. Entretanto, o réu comprovou que o nome da autora foi negativado tendo em vista dívidas com várias instituições, conforme documento de fls. 76/79. A própria autora, na petição de fl. 33 informa que possui dívidas e ônus reais que totalizam R$ 346.793,18, o que demonstra que a autora está com dificuldade financeira para quitar seus débitos.
+A instituição bancária concede crédito aos seus clientes de acordo com o perfil de cada um, podendo negar o crédito se entender que o perfil de determinado cliente não atende aos seus anseios, podendo também cancelar o crédito concedido.
+" .. "
+Aquiesço com o entendimento da magistrada primeva, ela reconheceu a falha da instituição financeira, ora apelada, quanto ao fato de que não foi enviada correspondência cientificando à parte autora, ora apelante. Contudo, tal situação, atrelada aos inúmeros débitos da parte autora, não denotou a existência de abalo moral.
+Ora, os bancos não podem ser compelidos a fornecer crédito indefinidamente para aqueles que não honram com seus compromissos.
+No caso, não se vislumbra que o apelante tenha sofrido danos morais, pois a cobrança indevida via mensagens ou ligações telefônicas, por si só, não lesou a sua honra ou imagem, e tampouco lhe causou constrangimento ou humilhação a ponto de caracterizar dano moral, revelando-se o fato, na verdade, mero aborrecimento, que não configura dano moral passível de reparação (e-STJ, fls. 203/204).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA MERO DESPACHO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. REVISÃO. SÚMULA 7/STJ. INEXISTÊNCIA DE COISA JULGADA. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Conforme o disposto no art. 1.001 do Código de Processo Civil de 2015, dos despachos não cabe recurso. No presente caso, é nítida a ausência de conteúdo decisório no referido despacho, tratando-se, tão somente, de ato judicial destinado a dar andamento ao processo, na forma estabelecida pelo art. 203, § 3º, do CPC/2015.
+1.1. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à ausência de cunho decisório e de prejuízo, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.646.320/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/02/2022, DJe 23/02/2022)
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+Ademais, rever as conclusões quanto à inexistência de dano moral, mas mero aborrecimento, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BLOQUEIO DE CARTÃO DE CRÉDITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DANO MORAL. NÃO COMPROVAÇÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DA ANÁLISE. RECURSO NÃO PROVIDO.
+1. Não se constata a alegada violação aos arts. 535 e 458 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+2. O Tribunal local, analisando o acervo fático-probatório dos autos, concluiu que não ficou comprovado dano oriundo do bloqueio de cartão de crédito. Infirmar as conclusões do julgado, como ora postulado, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgRg no AREsp n. 609.762/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 14/3/2017, DJe de 29/3/2017.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. BLOQUEIO DE CARTÃO DE CRÉDITO. ANOTAÇÕES PREEXISTENTES. DEVER DE INDENIZAR. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA N. 385/STJ EM RELAÇÃO AO CREDOR. PRECEDENTES. HUMILHAÇÃO E VEXAME NÃO VERIFICADOS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática. Princípios da economia processual e da fungibilidade.
+2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula n. 385/STJ).
+3. A Súmula n. 385/STJ também é aplicada às ações voltadas contra o suposto credor que efetivou inscrição irregular.
+4. Afastar as conclusões do Tribunal de origem acerca da inexistência de provas que demonstrem que a parte sofreu humilhação decorrente do bloqueio do cartão de crédito enseja a incursão no acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+5. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+6. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AREsp n. 709.162/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. em 15/3/2016, DJe de 28/3/2016.)
+O recurso, portanto, não merece ser conhecido quanto ao ponto (e-STJ, fls. 397/400).
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.656.178/SP, de minha relatoria, Terceira Turma, j. em 24/08/2020, DJe 27/08/2020)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. CANCELAMENTO DE CARTÃO DE CRÉDITO. OMISSÕES. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
