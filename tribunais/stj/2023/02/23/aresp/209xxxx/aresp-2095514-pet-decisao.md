@@ -1,0 +1,7 @@
+DECISÃO
+Os agravantes, TANIA DE LURDES SIMIONI, CIRO JOSÉ SIMIONI,MARA DO ROCIO SIMIONI e TANITUR - AGÊNCIA DE PASSAGENS E TURISMO LTDA., apresentaram petição, protocolizada sob o n. 00067834/2023 (e-STJ fls. 2.007/2.020), informando que "posteriormente ao ingresso desse recurso especial, no prosseguimento do processo junto ao Tribunal de Justiça do Paraná, por ocasião da oposição do recurso especial interposto em face de decisão definitiva, esse veio a conceder os benefícios da gratuidade da justiça a todos recorrentes, reconhecendo a hipossuficiência desses para arcar com os custos do processo, consoante se infere da decisão do seu ilustre 1º Vice-Presidente-Desembargador Luiz Osório Moraes Panza -do evento 19.1" (e-STJ fl. 2.007).
+Assim, afirmam que "resta evidente a perda de objeto do presente feito que discute unicamente o direito dos agravantes ao benefício da justiça gratuita, já que as demais matérias discutidas no feito são objeto de agravo em recurso especial nº 2.227.091 -PR (2022/0320882-0)" (e-STJ fl. 2.008).
+O advogado subscritor da referida peça possui poderes para tanto (e-STJ fl. 651).
+A questão referente ao benefício da justiça gratuita tendo sido superada, conforme se infere das informações constantes dos autos, denota a superveniente falta de interesse recursal, por perda de objeto do presente agravo em recurso especial (e-STJ fls. 1.880/1.937 ).
+Diante do exposto, JULGO PREJUDICADO o recurso por perda de objeto.
+Publique-se e intimem-se.
