@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 289/292).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 261):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. MÚLTIPLAS GARANTIAS. ALEGAÇÃO DE LITISPENDÊNCIA COM AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE IDENTIDADE ENTRE AS DEMANDAS. INTERESSE DE AGIR EVIDENCIADO. NECESSIDADE E UTILIDADE DA EXECUÇÃO PARA OBTER O ADIMPLEMENTO DA OBRIGAÇÃO CONTRATUAL EM FACE DOS CODEVEDORES. ILIQUIDEZ E INEXIGIBILIDADE DO TÍTULO EXECUTIVO. DAÇÃO DE BENS EM PAGAMENTO COM AMORTIZAÇÃO DO SALDO DEVEDOR DE VÁRIOS CONTRATOS. AUSÊNCIA DE NOVAÇÃO SOBRE O CONTRATO EM QUESTÃO. HIGIDEZ DO TÍTULO EXECUTIVO. LEGITIMIDADE DA AVALISTA.
+RECURSO DE APELAÇÃO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 271/278), interposto com fundamento no art. 105, III, "a" e "c", da CF, as partes alegaram, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 337, VI, parágrafos 2º e 3º, do CPC/2015, porquanto " o  recorrente João Carlos Almansa Marques (..) é executado na presente demanda e (..) requerido na Ação de Busca e Apreensão", de sorte que, "ante este recorrente, especificamente, ocorreu a litispendência, já que as partes, causa de pedir e pedido, são os mesmos", considerando ainda que, "muito embora na Ação de Busca e Apreensão, objetive-se a apreensão do veículo o intento é o mesmo que o da presente execução, qual seja a satisfação da mesma dívida, estampada na mesma cédula que embasa ambas as demandas" (e-STJ fls. 274/245 - sic), e
+(ii) art. 5º do Decreto-lei n. 911/1969, tendo em vista que, "pela dicção do artigo fica estabelecido que pode o credor exercer a faculdade de ingressar com a Ação de Execução ou de Busca e Apreensão", o que "exclui a possibilidade de cumulação de ações" (e-STJ fl. 245 - sic).
+No agravo (e-STJ fls. 302/306), afirmam a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 312/316 (e-STJ).
+É o relatório.
+Decido.
+A reforma do acórdão recorrido, no ponto em que entendeu pela inexistência de litispendência, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial (Súmula n. 7 do STJ). A propósito: AgInt no AREsp n. 1.855.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022, e AgInt no REsp n. 1.866.040/MG, de minha relatoria, Quarta Turma, julgado em 19/4/2021, DJe de 23/4/2021.
+Quanto à alegação de violação do art. 5º do Decreto-lei n. 911/1969, todavia, a pretensão recursal encontra respaldo no entendimento jurisprudencial deste Tribunal Superior.
+Com efeito, conforme pacificado no âmbito desta Corte, "não pode o credor amparado por contrato de alienação fiduciária propor ao mesmo tempo a ação de busca e apreensão e a execução, nos termos do que dispõe o art. 5º do Decreto-lei nº 911/69" (REsp n. 450.990/PR, relator Ministro Carlos Alberto Menezes Direito, Terceira Turma, julgado em 26/6/2003, DJ de 1/9/2003, p. 280). No mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA. RECURSO ESPECIAL. BUSCA E APREENSÃO. FINALIDADE DE REAVER O BEM ALIENADO. BEM ENCONTRADO. PÁTIO DE TERCEIROS. DÉBITOS E AVARIAS. CONVERSÃO. AÇÃO DE EXECUÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. MERO DESINTERESSE DO CREDOR FIDUCIÁRIO NA RESTITUIÇÃO DO BEM EM MOMENTO POSTERIOR. ESCOLHA DO PROCEDIMENTO PREVIAMENTE. NÃO COMPROVADA A INUTILIDADE DO BEM, NÃO CONVERTIDO EM SUCATA OU EM PÉSSIMO ESTADO DE CONSERVAÇÃO. MANUTENÇÃO DA AÇÃO AUTÔNOMA DE BUSCA E APREENSÃO. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+(..)
+3. Nos termos do Decreto-Lei nº 911/69, duas são as ações asseguradas ao credor fiduciário para a satisfação do crédito a que faz jus: (I) ação de busca e apreensão, prevista no art. 3º da referida norma; e (II) ação de execução, prevista nos subsequentes arts. 4º e 5º do mesmo diploma. Ações que não podem ser ajuizadas concomitantemente. Precedentes.
+(..)
+(REsp n. 2.019.200/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022 - g.n.)
+BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO DO DEVEDOR EM MORA. PROTESTO EDITALÍCIO. POSSIBILIDADE.
+1. É vedado ao credor promover, concomitantemente, ação de busca e apreensão e o processo de execução da nota promissória dada em garantia, procedimento não verificado no caso.
+(..)
+(REsp n. 576.081/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/5/2010, DJe de 8/6/2010.)
+No caso dos autos, o Tribunal de origem, ao assentar que "não há óbice legal para a adoção concomitante de ambas as medidas que embora atinentes ao mesmo crédito, possuem finalidades diversas" (e-STJ fl. 258), destoou da orientação jurisprudencial do STJ.
+Assim, a irresignação do recorrente merece acolhida, tendo em vista que, proposta inicialmente a ação de busca e apreensão e tratando o presente feito do processo de execução, carece o autor de interesse processual no prosseguimento desta demanda, porquanto "a propositura da ação de busca e apreensão exclui o emprego da execução, em face do que estatui o art. 5º do Decreto-Lei nº 911, de 1.10.1969 (REsp n. 210.622/SC, relator Ministro Barros Monteiro, Quarta Turma, julgado em 11/11/2003, DJ de 16/2/2004, p. 255).
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, para extinguir o presente feito sem julgamento de mérito, na forma do art. 485, VI, do CPC/2015, invertendo os ônus da sucumbência.
+Publique-se e intimem-se.
