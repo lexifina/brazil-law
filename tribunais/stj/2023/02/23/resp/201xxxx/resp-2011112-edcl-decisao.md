@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 1.334/1.341) opostos à decisão desta relatoria que negou provimento ao recurso (e-STJ fls. 1.330/1.332).
+A parte embargante sustenta que (e-STJ fls. 1.336/1.337):
+ ..  a contradição por nós ora apontada reside no fato de que, prolatado o v. Acórdão recorrido de fls. 1008 a 1016, o Embargante interpôs em face do referido v. Decisum os Embargos de Declaração de fls. 1032 a 1064 pretendendo que o E. TRF da 3a Região se manifestasse acerca da matéria de direito em que fundamentado seu REsp.
+ ..  diante da negativa de manifestação expressa por parte do E. TRFda 3aRegião, o Embargante, pretendendo a interposição do REsp e ciente dos termos da r. Súmula no211 desse C. Superior Tribunal de Justiça, interpôs um NOVO Embargos de Declação(fls. 1127 a 1135).
+ ..  não tendo o E. TRF da 3a Região sobre ela se manifestado, embora tempestivamente provocado a tento, nos parece que esse seria precisamente o caso reconhecimento do prequestionamento ficto positivado no artigo 1.025, do Código de Processo Civil.
+Impugnação apresentada às fls. 1.347/1.350 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Na decisão monocrática, foi expresso que (e-STJ fl. 1.332 - grifei):
+No que diz respeito à alegada ofensa ao princípio da não surpresa e ao cerceamento de defesa pelo momento da decisão quanto ao ônus, bem como à violação dos arts. 9º, 10, 373, § 1º, do CPC/2015, verifica-se que a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ainda , conforme a jurisprudência do STJ, a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA. 1. A ausência de enfrentamento da matéria pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. 2.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. 2.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que também não ocorreu na hipótese. 2. Rever o entendimento do Tribunal de origem, na forma como posta nas razões do apelo extremo, ensejaria em rediscussão de matéria fática e interpretação das cláusulas contratuais, providências vedadas nessa instância especial pelas Súmulas 5 e 7 do STJ. Precedentes. 3. Agravo interno desprovido. (AgInt no AREsp n. 1.987.469/RJ, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022.)
+No mais, a contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado, e não entre o julgado e as razões da parte.
+No caso, não se observa a apontada contradição.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
