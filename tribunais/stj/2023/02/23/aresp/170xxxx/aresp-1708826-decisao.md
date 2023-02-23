@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ e 284 do STF.
+O acórdão recorrido está assim ementado (e-STJ fl. 569):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMINATÓRIA E TUTELA DE URGÊNCIA. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. CONVENÇÃO DE ARBITRAGEM. ARGUIÇÃO EM SEDE DE CONTESTAÇÃO. PROTOCOLO TEMPESTIVO EM AUTOS DIVERSO. ERRO ESCUSÁVEL. REVELIA NÃO CARACTERIZADA. INSTRUMENTALIDADE DO PROCESSO. HONORÁRIOS RECURSAIS.
+1. Incumbe ao requerido alegar, na contestação, a existência de convenção de arbitragem, sob pena de aceitação da jurisdição estatal e renúncia ao juízo arbitral. Assim procedendo, de rigor a extinção do processo, sem resolução do mérito, com amparo no art. 485, VII, do CPC.
+2. A contestação ofertada no prazo legal, mas em outro processo, devido a erro justificado e comprovado nos autos, não configura os efeitos da revelia, devendo ser admitida como tempestiva em atenção a instrumentalidade do processo.
+3. Desprovido o recurso de apelação, impõe-se a majoração dos honorários advocatícios de sucumbência com espeque no § 11 do art. 85 do CPC.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 613/620).
+Nas razões do recurso especial (e-STJ fls. 625/634), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022 do CPC/2015, sustentando que a decisão é omissa "sendo o prejuízo ao recorrente evidente. Ora, como se vê das razões recursais do apelo, alegou-se, em preliminar, a nulidade da sentença, já que reconhecida de ofício a convenção de arbitragem, haja vista que a contestação fora apresentada pela ora recorrida de forma intempestiva. Na questão de fundo, por sua vez, advogou-se a inaplicabilidade da cláusula compromissória, já que o tema objeto do pedido do condomínio autor trata de direito indisponível, consoante se vê de trecho pertinente das razões recursais do apelo" (e-STJ fls. 631/632),
+(ii) art. 337 §§ 5º e 6º, CPC/2015, por entender que "estipulada à clausula arbitral, e uma das partes demanda a ação judicial estatal, o juiz não pode extinguir de ofício o processo sem resolução do mérito, sem alegação do réu sobre o ponto na defesa, por expressa previsão legal  ..  a extinção do processo sem a resolução do mérito não pode ser decretada pelo juiz com fundamento em cláusula arbitral antes da alegação do réu na contestação. Pois, determina a lei processual civil, que a presença de convenção de arbitragem entre as partes, deve ser alegada pelo réu na contestação" (e-STJ fl. 629).
+Em suma, são estes os pedidos recursais (e-STJ fl. 634):
+confia e espera o Recorrente ser admitido o presente Recurso Especial e, após, conhecido e provido pelo Colendo Superior Tribunal de Justiça, com o fim de cassar ou reformar a decisão recorrida nos termos alhures consignados.
+Foram oferecidas contrarrazões (e-STJ fls. 749/783).
+No agravo (e-STJ fls. 818/835), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 840/867).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material. Eis a fundamentação do Tribunal de origem (e-STJ fl. 616):
+No caso, conforme destacado no acordão embargado, ocorreu um equívoco escusável no protocolo da peça contestatória por parte da requerida, sendo aplicado à hipótese o princípio da instrumentalidade do processo devido à ausência de má-fé, afastando-se a tese de intempestividade e revelia. Não houve, portanto, reconhecimento de convenção de arbitragem pelo julgador, de ofício.
+A propósito, vejamos a explicação contida no acórdão:
+(..) De acordo com os termos narrados e comprovados nos autos, a procuradora da ré procurou auxílio técnico para o protocolo eletrônico da peça junto ao setor da OAB no prédio do Tribunal de Justiça, que o fez, tempestivamente, no entanto como dependente/apenso na ação originária sob o n  5116314.66.2017.8.09.0051, constando, inclusive, sentença extintiva do pleito dada a incorreção do ato.
+Assim sendo, uma vez existente convenção de arbitragem devidamente suscitada nos autos, não há falar em atuação do Poder Judiciário, haja vista que as partes interessadas, maiores e capazes, nos moldes na Lei n. 9.307/96, podem submeter a solução de seus litígios ao juízo arbitrai, não sendo o direito perseguido indisponível, pois admite autocomposição.
+Destarte, ausentes as hipóteses elencadas no artigo 1.022 do Código de Processo Civil, é o caso de rejeitar os embargos declaratórios, nos moldes da jurisprudência desta Corte de Justiça, vejamos:
+(..)
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O TJGO analisou as provas constantes dos autos e, quanto à questão referente à cláusula compromissória e ao compromisso arbitral, considerou o seguinte (e-STJ fls. 564/565):
+Consoante o teor do § 5º do art. 337 do Código de Processo Civil, o juiz não pode conhecer de ofício acerca da matéria, devendo o réu suscitar a questão em sede de Contestação antes de discutir o mérito, sob pena de aceitação da jurisdição estatal e renúncia ao juízo arbitral.
+No caso, observo que o art. 75 da convenção de condomínio dispõe, de forma clara e objetiva, que todas as questões oriundas da convenção e do regimento interno do Edifício Pamplona serão resolvidas de forma definitiva, conciliatória ou arbitral na 2ª Corte de Conciliação e Arbitragem de Goiânia. Não há restrição no sentido de que a aludida cláusula se aplica somente a direito patrimonial.
+Por outro lado, ao contestar a demanda, a requerida noticiou a existência de convenção de arbitragem, postulando a extinção do processo.
+Conquanto o autor, aqui apelante, defenda que a ré contestou o feito de forma intempestiva, devendo ser reconhecida a sua revelia nos autos, destaco que houve um equívoco escusável no protocolo da peça, devidamente justificado.
+De acordo com os termos narrados e comprovados nos autos, a procuradora da ré procurou auxílio técnico para o protocolo eletrônico da peça junto ao setor da OAB no prédio do Tribunal de Justiça, que o fez, tempestivamente, no entanto como dependente/apenso na ação originária sob o nº 5116314.66.2017.8.09.0051, constando, inclusive, sentença extintiva do pleito dada a incorreção do ato.
+Nesse prisma, em atenção ao princípio da instrumentalidade do processo, descabe falarem revelia haja vista que não configurada a má-fé da ré ou o intuito de obter vantagem indevida, atendendo-se a finalidade do ato.
+(..)
+Destarte, considerando a existência de convenção de arbitragem devidamente arguida nos autos, não há falar em aceitação da jurisdição estatal e renúncia ao juízo arbitral.
+A Corte local concluiu que, "no caso, observo que o art. 75 da convenção de condomínio dispõe, de forma clara e objetiva, que todas as questões oriundas da convenção e do regimento interno do Edifício Pamplona serão resolvidas de forma definitiva, conciliatória ou arbitral na 2ª Corte de Conciliação e Arbitragem de Goiânia. Não há restrição no sentido de que a aludida cláusula se aplica somente a direito patrimonial" (e-STJ fl. 564). A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Além disso, o TJGO entendeu que "em atenção ao princípio da instrumentalidade do processo, descabe falarem revelia haja vista que não configurada a má-fé da ré ou o intuito de obter vantagem indevida, atendendo-se a finalidade do ato" (e-STJ fl. 565).
+A respeito de tais razões de decidir, o recorrente não se manifestou, limitando-se a alegar que a extinção do processo sem a resolução do mérito não pode ser decretada pelo juiz com fundamento em cláusula arbitral.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
