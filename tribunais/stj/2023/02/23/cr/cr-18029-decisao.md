@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça polonesa (Juízo da 9ª Vara Cível de Poznan Grunwald e Jezyce em Ponzan), nos autos do processo IX Ns 60/20 (pedido de despacho judicial de sucessão de Paul Jack Townsend) solicita que se proceda à notificação de THOMAS TOWNSEND para que apresente a sua resposta ao pedido, declarando quais os fatos apresentados pelo requerente contesta, bem como para suscitar quais quer objeções em relação ao pedido, formulando provas, no prazo de 14 dias, contados da data de recepção da cópia do pedido, sob pena de ser devolvida sem contestação (fl. 8).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 787), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
