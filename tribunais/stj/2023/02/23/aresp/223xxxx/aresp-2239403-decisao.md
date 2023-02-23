@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO VENÂNCIO BARBOSA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, o qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 527):
+EMENTA: RECURSO DE APELAÇÃO. AÇÃO DE INDENIZAÇÃO. CEMIG. DANOS MATERIAIS E MORAIS. PROVA TESTEMUNHAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INCÊNDIO EM FAZENDAS DE PROPRIEDADE DO AUTOR. ROMPIMENTO DE CABO DE ENERGIA ELÉTRICA. AUSÊNCIA DE PROVA DO NEXO DE CAUSALIDADE. RECURSO NÃO PROVIDO.
+I. O juiz sendo o destinatário das provas pode dispensar a produção da prova testemunhal, se esta se revelar desnecessária para o deslinde da controvérsia, não havendo de se falar em cerceamento de defesa pelo indeferimento da oitiva de testemunhas.
+II. Ausente os pressupostos para o reconhecimento da responsabilidade civil da ré, na qualidade de prestadora de serviços públicos, pelos danos experimentados pelo autor, pois demonstrado que não provocou os danos alegados na inicial ou falhou no seu dever de agir para evitar o resultado, conforme a prova dos autos, não há como lhe impor a condenação pretendida na inicial.
+Embargos de declaração rejeitados (e-STJ fls. 573/576).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação do art. 369 do CPC/2015, argumentando que houve cerceamento de defesa ao ser indeferida a prova testemunhal requerida.(e-STJ fls. 579/593).
+Sem contrarrazões (e-STJ fl. 610).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa do art. 369 do CPC/2015, constata-se que a recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado.
+No acórdão recorrido, o Tribunal de origem sustentou o indeferimento da prova testemunhal pelos seguintes argumentos (e-STJ fls. 529/530):
+Acontece que, para o deslinde da controvérsia, é essencial a apuração das causas do incidente, sobretudo porque, em período de seca, com a baixa umidade do ar e a falta de chuva é comum o aumento dos incêndios.
+Nesse contexto, a prova pericial é a mais habilitada para esclarecer a origem dos incêndios, por levar em consideração dados técnicos que somente um profissional habilitado é capaz de fornecer.
+Nos autos, surgiu a dúvida: foi o rompimento de um cabo de energia que provocou a corrente de curto-circuito e o incêndio na vegetação; ou foi um incêndio iniciado por causa desconhecida que provocou o rompimento de um dos cabos de energia da linha de transmissão da CEMIG
+Frise-se que, nem mesmo o Corpo de Bombeiro, ao avaliar as causas do incêndio ao tempo dos fatos, atestou ter sido o rompimento de cabo de energia a procedência do incidente.
+Diante desse impasse, impossível uma testemunha que não fosse ocular, ter a capacidade de atestar com firmeza a origem do incêndio.
+Logo, não há de se falar, a meu ver, em cerceamento de defesa em razão do indeferimento da prova testemunhal.
+No julgamento dos embargos de declaração opostos, a Corte reiterou os fundamentos, in verbis (e-STJ fls. 574/575):
+A Turma Julgadora entendeu que, na hipótese em apreço, a prova pericial era a mais habilitada para esclarecer a origem dos incêndios, por levar em consideração dados técnicos que somente um profissional habilitado seria capaz de fornecer.
+Durante a instrução, foi realizada prova pericial sob os crivos do contraditório e ampla defesa. De acordo com o laudo pericial "não é possível afirmar qual a origem do incêndio, em face a decorrência do tempo e falta de investigação na época da ocorrência pelas partes e Corpo de Bombeiros". (doc. Único f. 264).
+Por conseguinte, a prova testemunhal que não tivesse presenciado os fatos, não teria a capacidade de atestar com firmeza a origem do incêndio.
+Verifica-se, portanto, que o Tribunal de origem considerou despicienda a produção da prova testemunhal requerida, uma vez que a prova pericial, que seria mais adequada ao deslinde da controvérsia, foi inconclusiva e que somente uma testemunha ocular dos fatos objeto da lide seria capaz de atestar a origem dos incêndios.
+A parte recorrente, contudo, limitou-se a aduzir genericamente, no recurso especial, que o magistrado deveria ter deferido a produção da prova requerida, em razão do que dispõe o art. 369 do CPC/2015, e que "a realização de prova oral destinava-se à oitiva de testemunha ocular da desídia da recorrida na manutenção dos fios condutores de energia que percorrem a propriedade do recorrente" (e-STJ fl. 589).
+Observa-se que a parte não infirmou os fundamentos que dão sustento à conclusão adotada pela Corte, uma vez que não demonstrou de que modo a prova oral seria decisiva para a solução da controvérsia, já que a perícia foi inconclusiva, apontando, objetiva e concretamente, a imprescindibilidade da produção da referida prova.
+Outrossim, a parte não aduziu que a testemunha arrolada efetivamente presenciou o incêndio narrado na exordial, mas apenas que teria presenciado a omissão da recorrida quanto à manutenção da rede elétrica, sendo certo que foi assentado no acórdão recorrido que a testemunha "que não tivesse presenciado os fatos, não teria a capacidade de atestar com firmeza a origem do incêndio" (e-STJ fl. 575).
+Assim, não tendo sido efetivamente impugnados os fundamentos que, por si só, conferem sustentação ao aresto combatido, incide o óbice da Súmula 283 do STF.
+Convém registrar que "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
