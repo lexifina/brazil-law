@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fl. 396):
+EMENTA: AGRAVO DE INSTRUMENTO - CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA - PRESCRIÇÃO - NÃO OCORRÊNCIA -LEGITIMIDADE ATIVA - FILIAÇÃO AO IDEC - DESNECESSIDADE -ABRANGÊNCIA TERRITORIAL DA SENTENÇA - ÂMBITO NACIONAL.
+1-Conforme entendimento sedimentado no colendo Superior Tribunal de Justiça, "é de cinco anos o prazo prescricional para ajuizamento da execução individual em pedido de cumprimento de sentença proferida em Ação Civil Pública" (REsp 1273643/PR, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 27/02/2013, DJe 04/04/2013).
+2-À luz do decidido no REsp nº 1.391.198/RS, o agravado possui legitimidade para postular em seu favor, independentemente de sua residência ou domicílio ser no Distrito Federal, cumprimento da sentença proferida na ação civil coletiva nº 1998.01.1.016798-9, que condenou o BANCO DO BRASIL ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança, ocorridos em janeiro de 1989 (Plano Verão).
+Os embargos de declaração foram rejeitados (e-STJ fls. 437/440).
+Em suas razões (e-STJ fls. 443/454), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, aduzindo que o Tribunal de origem não se manifestou acerca da "alegação do Banco de que, tendo a sentença coletiva transitado em julgado, em 27.10.2009, o autor perdera o direito de ação, em 27.10.2014, posto que, em que pese a distribuição da ação em 10.10.2014, houve a publicação de despacho, em 23.10.2014, determinando a emenda da inicial, o que somente foi feito pelo autor em 28.10.2014, portanto, quando já então esvaíra-se o prazo de cinco anos, sendo certo que a interrupção da prescrição, com data retroativa a propositura da ação, somente ocorre se a petição inicial reunir os requisitos para ser despachada, o que não é o caso quando o juiz determina sua emenda" (e-STJ fl. 450), e
+(ii) arts. 21 da Lei n. 4.717/1965 e 240, § 1º, do CPC/2015, ante o não reconhecimento da prescrição da ação no caso concreto.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve a omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, a "alegação do Banco de que, tendo a sentença coletiva transitado em julgado, em 27.10.2009, o autor perdera o direito de ação, em 27.10.2014, posto que, em que pese a distribuição da ação em 10.10.2014, houve a publicação de despacho, em 23.10.2014, determinando a emenda da inicial, o que somente foi feito pelo autor em 28.10.2014, portanto, quando já então esvaíra-se o prazo de cinco anos, sendo certo que a interrupção da prescrição, com data retroativa a propositura da ação, somente ocorre se a petição inicial reunir os requisitos para ser despachada, o que não é o caso quando o juiz determina sua emenda" (e-STJ fl. 450).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em r elação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
