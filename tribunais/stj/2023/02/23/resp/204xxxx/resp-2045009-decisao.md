@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIAS RIBEIRO (ELIAS), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paranaense, relatado pelo Des. LUIZ CARLOS GABARDO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO VIA SISBAJUD. VALORES INFERIORES A QUARENTA SALÁRIOS MÍNIMOS. ART. 833, X, DO CPC. CASO CONCRETO. INAPLICABILIDADE. FINALIDADE DE RESERVA FINANCEIRA NÃO COMPROVADA. DECISÃO AGRAVADA MANTIDA. 1. Apesar da interpretação extensiva dada ao artigo 833, X, do Código de Processo Civil, deve ser mantida a penhora de quantia encontrada via Sisbajud, ainda que inferior a 40 (quarenta) salários mínimos, quando não houver nenhum indício de prova de que o valor tenha sido poupado com finalidade de acúmulo de capital, para subsistência do devedor. 2. Agravo de instrumento conhecido e não provido (e-STJ, fl. 51).
+Nas razões do presente recurso, ELIAS alegou violação do art. 833, X, §2º, do NCPC, aduzindo que são impenhoráveis as quantias depositadas em quaisquer contas ou aplicações financeiras até quarenta salários mínimos, independentemente de sua origem ou destinação (e-STJ, fls. 59/70).
+Foram apresentadas contrarrazões (e-STJ, fls. 74/88).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da impenhorabilidade dos valores depositados em conta corrente
+Nas razões do presente recurso, ELIAS alegou violação do art. 833, X, §2º, do NCPC, aduzindo que são impenhoráveis as quantias depositadas em quaisquer contas ou aplicações financeiras até quarenta salários mínimos, independentemente de sua origem ou destinação.
+Sobre o tema o Tribunal estadual consignou que os valores estavam depositados em conta corrente, de modo que não seria possível depreender a origem dos valores e o caráter alimentar da verba, inexistindo demonstração de que a quantia teria sido poupada para viabilizar o sustento do devedor e de sua família, confira-se:
+E, dos aludidos extratos, infere-se que o dinheiro penhorado estava depositado em conta corrente e não tinha, a princípio, finalidade de reserva de capital. conta corrente.
+Ao menos da movimentação financeira da conta, não é possível depreender a origem dos valores, pelo que não está comprovado, por ora, eventual caráter alimentar da verba.
+Ressalte-se que esta 15ª Câmara Cível não desconhece a jurisprudência do Superior Tribunal de Justiça, de que, excepcionalmente, a proteção da impenhorabilidade prevista no artigo 833, X, do Código de Processo Civil, pode estender-se a valores de até 40 (quarenta) salários mínimos depositados não só em poupança, mas também em conta corrente, fundos de investimento ou guardados em papel-moeda.
+Todavia, apesar da interpretação extensiva dada ao citado dispositivo legal, a leitura dos julgados revela que o reconhecimento da impenhorabilidade visa a resguardar, em verdade, valores que tenham sido poupados para viabilizar o sustento do devedor e de sua família, o que não resultou evidenciado nestes autos.
+Anote-se que a impenhorabilidade foi aventada pela Defensoria Pública e que o agravante, principal interessado, não compareceu aos autos até o momento, a fim de demonstrar, concretamente, que a quantia depositada em sua conta corrente era acumulada para assegurar sua subsistência.
+Nesse cenário, deve prevalecer o bloqueio do montante de R$ 3.074,57 (três mil e setenta e quatro reais e cinquenta e sete centavos), sem prejuízo da reanálise da questão, se aparte trouxer documentos novos acerca de sua procedência (e-STJ, fls. 53/54).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que é impenhorável a quantia até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. VALOR DEPOSITADO EM CONTA POUPANÇA COM MOVIMENTAÇÃO DE CONTA CORRENTE. SALDO INFERIOR A 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. ART. 833, X, DO CPC/2015. APLICABILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe de 19/12/2014).
+2. "Nos termos do entendimento jurisprudencial firmado por esta Corte, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias ordinárias, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade" (AgInt nos EDcl no AREsp 1.323.550/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 27/09/2021, DJe de 30/09/2021).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.971.194/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 14/6/2022, DJe de 1/7/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE VALORES DEPOSITADOS EM CONTA POUPANÇA. IMPENHORABILIDADE DE QUANTIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA 7/STJ. OFENSA AO ART. 373, II, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis.
+2. O Tribunal de origem concluiu, com base no conjunto fático-probatório, que as movimentações ocorridas na caderneta de poupança do devedor não demonstram sua utilização como conta-corrente. A pretensão de rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+3. No tocante à alegada ofensa ao art. 373, II, do CPC/2015, verifica-se não ter sido tal dispositivo legal objeto de debate e decisão pela instância ordinária, mesmo após a oposição de embargos declaratórios, razão pela qual incidente na espécie a Súmula 211 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.003.094/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 23/5/2022, DJe de 25/5/2022.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, para reconhecer a impenhorabilidade da quantia bloqueada na conta de ELIAS.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE ATIVOS. LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
