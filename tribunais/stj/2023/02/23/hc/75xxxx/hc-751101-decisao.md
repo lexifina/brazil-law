@@ -1,0 +1,11 @@
+DECISÃO
+Neste writ, que se volta contra o acórdão do Tribunal de Justiça de Minas Gerais, que denegou a ordem no HC n. 1.0000.22.088781-4/000 (fls. 141/143), pretende-se, inclusive em caráter liminar, o imediato relaxamento/revogação da prisão preventiva de Se rgio Lages Moreira de Souza - preso preventivamente em 29/3/2022 e acusado pela prática, em tese, dos crimes descritos no art. 333 do Código Penal, c/c o art. 16, § 1º, IV, da Lei n. 10.826/2003 - no APDF n. 5056980-98.2022.8.13.0024, da comarca de Belo Horizonte/Central de Recepção de Flagrantes, sob os argumentos, em resumo, de ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal, de ocorrência de vícios materiais da prisão em flagrante, porquanto, em nenhum momento, o paciente estava armado ou teria oferecido alguma vantagem ilícita aos policiais, no momento de sua abordagem (fl. 9 - grifo nosso), de ilegalidade do flagrante preparado, da abordagem policial e da reversão da prisão em flagrante em preventiva.
+Liminar indeferida (fls. 202/204).
+Prestadas as informações (fls. 208/216 e 223/254), o Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 294/298).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de Minas Gerais dão conta de que, em 3/10/2022, o Juízo de Direito da 2ª Vara Criminal da comarca de Belo Horizonte/MG relaxou a prisão preventiva do ora paciente, concedendo-lhe a liberdade provisória vinculada a medidas cautelares diversas, expedindo, na oportunidade, o competente alvará de soltura (Ação Penal n. 5179010-38.2022.8.13.0024), fato que esgota a pretensão contida na presente impetração, dada a perda superveniente do objeto e a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NO ART. 333 DO CP, C/C O ART. 16. § 1º, IV, DA LEI N. 10.826/2003. PRISÃO PREVENTIVA. SUPERVENIENTE RELAXAMENTO PELO JUÍZO SINGULAR. CONCESSÃO DE LIBERDADE PROVISÓRIA VINCULADA A MEDIDAS CAUTELARES DIVERSAS. EXPEDIÇÃO DO ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
