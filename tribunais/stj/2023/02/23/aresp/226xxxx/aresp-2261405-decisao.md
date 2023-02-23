@@ -1,0 +1,13 @@
+DECISÃO
+MARIA CRISTINA DA SILVA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região (Apelação n. 0010013-58.2013.4.03.6119/SP).
+A recorrente sustentou a necessidade de oferecimento da proposta de acordo de não persecução penal, a ocorrência da prescrição da pretensão punitiva, bem como a configuração de crime impossível por absoluta impropriedade do meio para alcançar o resultado do crime de estelionato.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 1.135-1.139.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 1.159-1.160).
+Decido.
+Na decisão que inadmitiu o recurso especial, o Tribunal de origem apontou as seguintes premissas: a) "entre o recebimento da denúncia (07/05/2018) e a publicação da sentença condenatória (29/11/2019) e, entre esta data e a data na qual ocorreu a publicação do acórdão condenatório (04/03/2021), não transcorreu prazo superior a 4 anos, na forma do art. 109, V, e art. 117, I e IV, todos do CP" (fl. 1.129); b) "Acordo de não persecução penal. Art. 28-A do CPP. Violação aos arts. 18 e 41 do CP. Crime impossível. Impropriedade do meio para a realização do tipo penal. Matéria não prequestionada. Súmula 282/STF e 356/STF" (fl. 1.129).
+Na peça de fls. 1.135-1.139, a agravante deixou de impugnar especificamente todos os fundamentos do decisum recorrido. Com efeito, nada dispôs sobre a análise da prescrição. Além disso, ela não demonstrou, especificamente, porque os óbices sumulares não se aplicam ao caso em análise.
+É insuficiente a assertiva genérica em sentido contrário à afirmação da decisão agravada. A insurgente deveria expor, com particularidade, que as matérias relativas ao acordo de não persecução penal e ao crime impossível haveriam sido objeto de exame pela Corte de origem ou ao menos que haveriam sido suscitadas na segunda instância.
+Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (Ag Int no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016, destaquei).
+Assim, incide a Súmula n. 182 do STJ, pois é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão de inadmissibilidade do recurso especial.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
