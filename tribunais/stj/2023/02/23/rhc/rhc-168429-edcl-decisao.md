@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Márcio Augusto Ribeiro à decisão de minha relatoria, em que neguei provimento ao recurso ordinário em habeas corpus.
+Esta, a ementa da decisão (fl. 169):
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO. ALEGAÇÃO DE ILICITUDE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO. AUSÊNCIA DE ILEGALIDADE. CONTEXTO FÁTICO ANTERIOR QUE INDICOU A NECESSIDADE DA ENTRADA DOS POLICIAIS NA RESIDÊNCIA. CAMPANA FEITA NOS ARREDORES DA RESIDÊNCIA.
+Recurso em habeas corpus improvido.
+Alega o embargante que há omissão na decisão por ter a defesa apontado ilegalidade não apenas na entrada dos policiais na residência, mas também o fato de inexistirem provas quanto à associação criminosa por sua parte. Sustenta ser necessário o binômio permanência e estabilidade, e que, além do ânimo de associar-se, deve existir a permanência estável.
+Aduz que não integrou associação e que apenas auxiliou dando carona a um amigo que buscaria um veículo em uma residência, e, ainda, que não conhecia os demais corréus e que jamais teria ido no imóvel.
+Requer, assim, seja sanada a presente omissão.
+É o relatório.
+A decisão não traz omissão, pois, ainda que não tenha feito menção expressa à alegação da defesa de que o réu não integra associação criminosa, trouxe a devida fundamentação no sentido de que teria sido feita uma campana em torno da residência, e que os policiais apenas entraram na residência quando, após a saída de um veículo, eles visualizaram, no interior da casa, pela porta aberta, petrechos que são utilizados no preparo de drogas, que seriam duas prensas hidráulicas. Assim, não é possível, na via eleita, que esta Corte analise de forma separada a conduta praticada pelo embargante e se ele estaria ou não envolvido com estabilidade e permanência, até porque consta da sentença que as provas dos autos levaram ao entendimento de não se tratar de um mero concurso de agentes ou encontro casual, mas, sim, um vínculo próximo e duradouro entre os acusados, e o Magistrado não fez distinção entre os envolvidos. Confira-se trecho da sentença (fls. 79/80):
+ ..
+Salienta-se que o material apreendido foi encontrado na residência do acusado Raphael Henrique Silva de Oliveira, conhecido por liderar crimes nos Estado do Ceará e Rio Grande do Norte, sobretudo, os delitos relacionados ao tráfico de drogas. Constatou-se que no imóvel funcionava um laboratório de preparo de drogas, haja vista, terem sido aprendidos 500 g de pó branco utilizado para aumentar o volume da droga, 18 bisnagas de lidocaína, 1 balança de precisão, 1 liquidificador industrial, 2 baldes sujos de pó branco e rolos de sacos plásticos, apontando que o local, de fato, se destinava ao preparo de substâncias entorpecentes para serem postas à comercialização.
+ ..
+No caso em tela, destaca-se que as circunstâncias em que se deram os fatos demonstraram o liame associativo, a estabilidade e a permanência para o tráfico de drogas, tendo em vista que alguns dos réus já se encontravam juntos no local do fato, por volta das 00:30h, chegando outros no decorrer da diligência policial no interior do imóvel. Nesse sentido, para demonstrar a autoria dos delitos, considera-se as condutas de cada réu e a gravidade dos crimes tipificados nos arts. 34 e 35, ambos da Lei n. 11.343/2006. A materialidade, contudo, se consubstancia no extenso material apreendido na posse dos acusados, sobretudo, os objetos anteriormente mencionados.
+ ..
+Nesses termos, as razões da defesa sobre não estar o embargante incluído na organização estão interligadas à investigação que já estaria sendo feita pelos policiais, bem como pelas provas apresentadas na sentença e no acórdão hostilizado acerca da existência e permanência da organização, não sendo possível a alteração desses fatos por parte desta Corte Superior.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. APONTAMENTO DE OMISSÃO ACERCA DA NÃO PARTICIPAÇÃO DO EMBARGANTE NA ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INVESTIGAÇÃO DOS POLICIAIS E CAMPANA FEITA EM TORNO DOS FATOS APRESENTADOS. IMPOSSIBILIDADE DE REEXAME POR PARTE DESTA CORTE.
+Embargos de declaração rejeitados.
