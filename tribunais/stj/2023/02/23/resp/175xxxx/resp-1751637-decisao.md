@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEONARDO YONEKITI NARDINI KUMATA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 57, e-STJ):
+Agravo de instrumento. Ação Civil Pública. Expurgos Inflacionários. Liquidação de sentença transitada em julgado. Prevenção desta C. Câmara para apreciação dos recursos oriundos do processo nº 0403263-60.1993.8.26.0053, que tramitou perante a 6ª Vara da Fazenda Pública da Comarca da Capital. Decisão agravada que acolheu as teses adotadas por esta C. Câmara e determinou, dentre outras deliberações, que o exequente refaça os cálculos, assim como a expedição de mandado de levantamento em relação ao valor incontroverso. Na r. decisão agravada as determinações constantes nos votos deste Relator foram reproduzidas integralmente, e, por isso, desnecessária a repetição dos fundamentos nela adotados. Forçoso convir pela manutenção integral da r. decisão recorrida, já que está em consonância com o entendimento sedimentado nesta C. Câmara, inclusive com relação aos juros moratórios, que deverão ser calculados de forma simples, incidindo desde a citação do Banco-executado na fase de cumprimento de sentença até efetivo pagamento. Decisão mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 67-69, e-STJ).
+Nas razões do apelo extremo (fls. 71-79, e-STJ), o insurgente aponta, além de dissídio jurisprudencial, ofensa ao artigo 405 do CC/02.
+Sustenta, em síntese, que o marco inicial para a incidência dos juros de mora é a citação efetuada nos autos da ação civil pública.
+Sem contrarrazões.
+O apelo extremo foi admitido na origem (fls. 116-118, e-STJ), ascendendo os autos a esta Corte Superior.
+Às fls. 126-127, e-STJ, a Presidência do STJ determinou a devolução dos autos à origem, para permanecerem suspensos até o início do funcionamento da plataforma online, criada com o fim específico de concretizar o pacto firmado na Corte Suprema, visando por fim às controvérsias acerca de expurgos inflacionários, quando, então, as partes poderão se manifestar sobre seu interesse na continuidade do feito.
+Posteriormente, os autos foram reenviados a esta Corte pelo TJSP, por se encontrarem superadas as orientações constantes do Oficio nº. 192/2019-NUGEP do STJ, para os processos em fase de cumprimento de sentença, nos termos do Ofício nº 1/2021 da Presidência da Segunda Seção do STJ, uma vez que os temas de repercussão geral nºs 264, 265, 284 e 285 do STF não possuem mais ordem de suspensão de feitos nesta fase processual, o que tornou desnecessária a manifestação outrora exigida (fls. 389-392, e-STJ).
+Recebidos os presentes autos no STJ, procedeu-se ao restabelecimento da sua tramitação.
+É o relatório. Decido.
+O inconformismo merece prosperar.
+1. Com efeito, quanto ao marco inicial dos juros de mora, o acórdão estadual merece reforma, pois, consoante entendimento desta Corte Superior, os juros de mora incidem a partir da citação do devedor no processo de conhecimento da ação civil pública.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. LEGITIMIDADE ATIVA, LIMITAÇÃO TERRITORIAL E LIQUIDAÇÃO DA SENTENÇA. PRECLUSÃO CONSUMATIVA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. JUROS DE MORA. INCIDÊNCIA A PARTIR DA CITAÇÃO NA AÇÃO CIVIL PÚBLICA. JUROS REMUNERATÓRIOS. CONDENAÇÃO EXPRESSA. INCLUSÃO DA VERBA. POSSIBILIDADE. TERMO FINAL DOS JUROS CONTRATUAIS E PRESCRIÇÃO. FUNDAMENTO DO ACÓRDÃO INATACADO. SÚMULA Nº 283 DO STF NOVAMENTE. ATUALIZAÇÃO MONETÁRIA. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. RECURSO ESPECIAL CONHECIDO EM PARTE E NELA, NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+3. O marco inicial dos juros moratórios é a data da citação efetuada nos autos de ação civil pública. Precedente.
+4. Cabe a inclusão dos juros remuneratórios na fase de cumprimento de sentença de ação civil pública quando houver condenação expressa.
+5. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+6. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp n. 1.940.427/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO BANCÁRIO. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. CORREÇÃO MONETÁRIA. ÍNDICES EXPURGADOS. INCIDÊNCIA. JUROS DE MORA. TERMO INICIAL. CITAÇÃO NA FASE DE CONHECIMENTO. JUROS REMUNERATÓRIOS. MÊS DO EXPURGO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Após a apuração do saldo existente em caderneta de poupança, é possível a aplicação dos expurgos inflacionários posteriores na atualização do débito judicial, desde que não expressamente afastados pelo título judicial exequendo.
+3. Em recurso submetido ao rito do art. 543-C do Código de Processo Civil de 1973, o Superior Tribunal de Justiça decidiu que, nas execuções individuais de sentença coletiva, quando esta se fundar em responsabilidade contratual, os juros de mora incidem a partir da citação do devedor na fase de conhecimento da ação coletiva.
+4. A falta de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 211/STJ).
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.749.666/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/10/2021, DJe de 15/10/2021.)
+AÇÃO CIVIL PÚBLICA - CADERNETA DE POUPANÇA - PLANOS ECONÔMICOS - EXECUÇÃO - JUROS MORATÓRIOS A PARTIR DA DATA DA CITAÇÃO PARA A AÇÃO COLETIVA - VALIDADE - PRETENSÃO A CONTAGEM DESDE A DATA DE CADA CITAÇÃO PARA CADA EXECUÇÃO INDIVIDUAL - RECURSO ESPECIAL IMPROVIDO.
+(..)
+3.- Para fins de julgamento de Recurso Representativo de Controvérsia (CPC, art. 543-C, com a redação dada pela Lei 11.418, de 19.12.2006), declara-se consolidada a tese seguinte: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, se que haja configuração da mora em momento anterior."
+4.- Recurso Especial improvido.
+(REsp n. 1.370.899/SP, relator Ministro Sidnei Beneti, Corte Especial, julgado em 21/5/2014, REPDJe de 16/10/2014, DJe de 14/10/2014.)
+2. Do exposto, com fundamento no art. 932 do CPC/2015 c/c a súmula 568/STJ, conheço do recurso especial e dou-lhe provimento a fim de, reformando parcialmente o acórdão recorrido, determinar que os juros de mora incidam a partir da citação na ação coletiva .
+Publique-se. Intimem-se
