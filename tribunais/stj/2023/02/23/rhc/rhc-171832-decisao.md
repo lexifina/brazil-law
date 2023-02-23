@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ANDRE DE MOURA PEREIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.22.194538-9/000).
+Depreende-se dos autos que o Juízo de primeiro grau decretou a prisão temporária do ora recorrente pela prática, em tese, dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006 e art. 349-A do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 418):
+HABEAS CORPUS-TRÁFICO DE DROGAS E FAVORECIMENTO REAL -PRELIMINAR-NEGATIVA DE AUTORIA E AUSÊNCIA DE PROVAS -EXAME APROFUNDADO DAS PROVAS -NÃO CABIMENTO. WRIT NÃO CONHECIDO. As teses de negativa de autoria e de ausência de provas são matérias que demandam aprofundado exame de provas, o que se mostra impróprio na via estreita do Habeas Corpus. MÉRITO-DECRETAÇÃO DE PRISÃO TEMPORÁRIA -LEI Nº 7.960/89 -REVOGAÇÃO -IMPOSSIBILIDADE -DECISÃO FUNDAMENTADA -IMPRESCINDIBILIDADE PARA AS INVESTIGAÇÕES DO INQUÉRITO POLICIAL -FUNDADAS RAZÕES DE AUTORIA E PARTICIPAÇÃO -PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E PRISÃO PROCESSUAL -COMPATIBILIDADE -APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO -INADEQUAÇÃO -CONDIÇÕES PESSOAIS FAVORÁVEIS -INSUFICIÊNCIA -AUSÊNCIA DE CONSTRANGIMENTO ILEGAL -ORDEM DENEGADA.
+1. A decisão que decretou a prisão temporária do Paciente encontra-se devidamente fundamentada, ancorando- se nos ditames do art. 93, inc. IX, da Constituição Federal, do art. 2º, § 2º, da Lei nº 7.960/89.
+2. A prisão temporária deve ser decretada sempre que, havendo fundadas razões que indiquem a participação ou a autoria do investigado, for imprescindível para as investigações do Inquérito Policial que apura os delitos previstos no art. 33 da Lei 11.343/06 e no art. 288, do Código Penal.
+3. Nos termos do que dispõe o art. 282, inc. II, do CPP, apenas se torna possível promover a imposição de medidas cautelares diversas da prisão quando o benefício se revelar suficiente e adequado para resguardar a ordem pública, garantir os atos instrutórios do processo ou assegurar a aplicação da Lei Penal.
+4. A prisão processual não é incompatível com a presunção de inocência e nem impõe ao Paciente uma pena antecipada, porque não deriva do reconhecimento da culpabilidade, mas, sim, de sua periculosidade, seja para a garantia da ordem pública, seja para a futura aplicação da lei penal, razão pela qual não há de se cogitar em violação do mencionado princípio constitucional.
+5. A existência de condições pessoais favoráveis, por si só, não é suficiente para autorizar a concessão da liberdade provisória, já que tais condições devem ser analisadas diante do contexto dos autos.
+No presente recurso, sustenta o recorrente a ausência de fundamentação idônea da decisão que decretou sua prisão temporária.
+Aduz, nesse sentido que "a justificativa utilizada pela autoridade coatora para a decretação da custódia leva em consideração o pedido descrito na representação da autoridade policial, que não individualiza o conduta do paciente, colocando-o como o membro de uma organização criminosa por simples método indutivo, sem fundamentação legal em arriscada e proibida punição coletiva, o que talvez tenha levado a autoridade coatora a acreditar na sua participação com liame subjetivo com os demais alvos da operação policial, motivo pelo qual não merece prevalecer, por total ausência de justa causa" (e-STJ fl. 450).
+Dessa forma, requer, liminarmente e no mérito, a revogação de sua prisão temporária (e-STJ fls. 447/454).
+O pedido liminar foi indeferido (e-STJ fls. 796/798).
+Informações prestadas (e-STJ fls. 804/894).
+O Ministério Público Fedeal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 898/901).
+É o relatório.
+Decido.
+Insurge-se a defesa contra a prisão temporária imposta ao recorrente.
+Segundo informações acostadas aos autos (e-STJ fls. 804/805):
+Em 09 de agosto de 2022, este Juízo deferiu a representação da DD. Autoridade Policial, decretando, na ocasião, a prisão temporária dos investigados, conforme fundamentos constantes da decisão que encaminho anexa, tendo sido cumprido o mandado em relação ao paciente na data de 11/08/2022 ( autos sob nº 5006440-19.2022.8.13.0324).
+Após representação da Autoridade Policial e parecer ministerial favorável, este Juízo prorrogou a prisão temporária do paciente e dos demais investigados na data de 08/09/2022, conforme movimentação constante dos autos da cautelar acima mencionada (ID 9599805595).
+Informo, ainda, que na data de 30/09/2022, o I. Representante do Ministério Público ofereceu denúncia, e, na ocasião, requereu a conversão da prisão temporária em preventiva, sob fundamento de que necessária para garantia da ordem pública, pedido que foi analisado por este Juízo na data de 06/10/2022, e, na ocasião foi deferido.
+Isto porque, como acima narrado, a gravidade em concreto da conduta atribuída aos acusados se mostrou, ao nosso sentir, hábil a justificar a segregação cautelar dos acusados, em especial em razão da necessidade de se diminuir a atuação de organização criminosa, que, segundo de extrai dos autos, era destinatária, em tese, de aparelhos celulares.
+Além disso, narram os autos que além de meticulosa articulação dos acusados para ingresso de aparelhos celulares, haviam negociações para ingresso de entorpecentes, fato que, ao ver deste Juízo exacerba a gravidade das condutas, ao passo que conduta totalmente contrária à ressocialização daqueles que lá se encontram.
+Logo, o referido pedido encontra-se prejudicado, tendo em vista que a prisão, agora, decorre de novo título.
+No mesmo sentido:
+PROCESSO PENAL. HABEAS CORPUS. FURTO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA E GRAVIDADE DOS FATOS. DECRETO DEVIDAMENTE MOTIVADO. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA.
+1. Não há cabimento para se analisar a tese de que na decisão de prisão temporária não foi observado o art. 1º da Lei n. 7.960/1989, pois é pacífica a jurisprudência desta Corte Superior de que "a superveniente decretação da prisão preventiva constitui novo título a justificar a segregação, razão pela qual ficam superadas todas as questões a respeito de eventuais irregularidades da custódia temporária" (HC n. 549.386/SP, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/5/2020, DJe 10/6/2020).
+ ..
+5. Writ parcialmente conhecido e, nessa extensão, ordem denegada. (HC n. 663.860/AL, de minha relatoria, Sexta Turma, julgado em 15/3/2022, DJe de 18/3/2022, grifei.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SEQUESTRO, TORTURA, ORGANIZAÇÃO CRIMINOSA, PECULATO E OUTROS. PRISÃO TEMPORÁRIA. NEGATIVA DE AUTORIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBAPRIO. VIA INADEQUADA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO TEMPORÁRIA. POSTERIOR CONVERSÃO EM PREVENTIVA. NOVO TÍTULO PRISIONAL. PREJUDICIALIDADE DA IMPETRAÇÃO. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+IV - A conversão da prisão temporária em preventiva, posterior a presente impetração, prejudica o mandamus, porquanto o presente feito se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 697.946/RR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 26/10/2021, DJe de 3/11/2021, grifei.)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
