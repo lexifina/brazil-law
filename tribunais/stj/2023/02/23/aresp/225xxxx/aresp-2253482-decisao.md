@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 306):
+*Ação indenizatória por danos morais - Transporte aéreo internacional Cancelamento do voo de conexão, acarretando atraso de 20 horas na chegada ao destino Prestação do serviço inadequada Responsabilidade objetiva da companhias aérea por danos causados à passageira (art. 14 do CDC) Recurso exclusivo do autor - Majoração do valor da indenização dos danos morais Possibilidade Danos morais majorados em patamar consentâneo com os princípios da razoabilidade e proporcionalidade, porém, em valor menor Recurso parcialmente provido.
+Recurso provido em parte.*
+Nas razões do recurso especial (e-STJ fls. 313/327), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matérias ventiladas nos embargos de declaração,
+(ii) arts. 1º do Decreto Lei n. 5.910/2006, 178 do CF, 22 da Convenção de Montreal, 2º do Decreto-Lei n. 4.657/1942, por entender que o acórdão teria violado a convenção de Montreal, "apesar de se tratar de demanda cujo objeto versa sobre alegados danos morais decorrentes da prestação de serviços de transporte aéreo internacional, o v. acórdão recorrido julgou o caso unicamente a partir das regras e fundamentos do Código Civil, afastando a aplicação da legislação especial que disciplina o transporte aéreo internacional" (e-STJ fl. 317),
+(iii) art. 944 do CC/2002, sustentando que se "exige que a indenização/compensação seja proporcional ao dano verificado, sob pena de enriquecimento sem causa, proibindo, por conseguinte, a inclusão de elementos extra compensatórios como arbitrado pelo v. acórdão" (e-STJ fl. 322).
+Em suma, são estes os pedidos recursais (e-STJ fl. 327):
+Por todo o exposto, requer o recebimento e conhecimento do presente recurso especial, inclusive no efeito suspensivo, e, ao final, seja integralmente provido para reformar o v. acórdão recorrido para que seja assegurada a eficácia e a consequente aplicação da legislação federal acima indicada, bem como para assegurar a observância de entendimento consolidado do Superior Tribunal de Justiça, afastando a condenação imposta à Recorrente, com a modificação do ônus da sucumbência.
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 350/353).
+No agravo (e-STJ fls. 361/379), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 382/387).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+O TJSP, ao analisar as provas constantes dos autos, entendeu que "a falha na prestação do serviço da ré configura mais que mero dissabor decorrente de mero inadimplemento contratual, mas perturbação emocional, gerando angústia, ansiedade, aflição intensa, causa suficiente a gerar a obrigação de indenizar por danos morais" conforme assentou (e-STJ fls. 309/311):
+O dever de pontualidade é ínsito ao contrato de transporte aéreo, por força dos artigos 734 e 737 do C. Civil, dispondo a resolução 141 da ANAC que, nos casos de cancelamento de voo, com espera superior a 4 (quatro) horas, fica assegurado ao passageiro o direito de receber do transportador a devida assistência material, situação não evidenciada nos autos.
+Conforme reconhecido na r. sentença, o ilícito decorreu do cancelamento do voo "LH238" (de Frankfurt a Roma), acarretando atraso de 20 horas para chegada ao destino final (Roma).
+Ademais, não comprovou a companhia aérea requerida que, durante o período de espera, prestou ao passageiro a devida assistência material, conforme estabelece a Resolução 400 da ANAC para hipótese de atraso/cancelamento de voos por mais de 4 horas.
+A falha na prestação do serviço da ré configura mais que mero dissabor decorrente de mero inadimplemento contratual, mas perturbação emocional, gerando angústia, ansiedade, aflição intensa, causa suficiente a gerar a obrigação de indenizar por danos morais.
+(..)
+Evidenciado o dano moral, o valor da indenização deve ser equalizado segundo o dano sofrido e sua extensão, nos termos do art. 944 do C. Civil, em consonância com os princípios da razoabilidade e proporcionalidade.
+Ademais, deve ter caráter preventivo, com o fito da conduta danosa não voltar a se repetir, assim como punitivo, visando à reparação pelo dano sofrido.
+Todavia, não deve transformar-se em objeto de enriquecimento sem causa devido à fixação de valor desproporcional para o caso concreto.
+(..)
+Nesse contexto, à luz do conjunto fático-probatório, levando-se em consideração o caso concreto e a extensão do dano, afigura-se razoável majorar a indenização por danos morais, não para o montante pretendido pelo autor (R$ 13.000,00), mas R$ 10.000,00(dez mil reais), em consonância com os princípios da razoabilidade e proporcionalidade, até porque "a indenização por dano moral deve atender a uma relação de proporcionalidade, não podendo ser insignificante a ponto de não cumprir com sua função penalizante, nem ser excessiva a ponto de desbordar da razão compensatória para a qual foi predisposta".(STJ, REsp. nº 318379-MG, Rel. Min. Nancy Andrighi, j. em20/09/01).
+Quanto ao dano moral, a Corte local concluiu que o va lor da indenização deve ser equalizado segundo o dano sofrido e sua extensão. A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Ante o exposto, NEG O PROVIMENTO ao agravo e JULGO PREJUDICADO o pedido de efeito suspensivo. Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo.
+Publique-se e intimem-se.
