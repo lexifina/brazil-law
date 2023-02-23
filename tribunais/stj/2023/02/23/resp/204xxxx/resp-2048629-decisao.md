@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 186):
+EMENTA: AÇÃO DECLARATORIA. CONTRATO DE FINANCIAMENTO DE VEICULO AUTOMOTOR. DECLARAÇÃO DE NULIDADE DE TARIFAS BANCÁRIAS INDEVIDAS EM AÇÃO QUE TRAMITOU PERANTE JUIZADO ESPECIAL. IMPROCEDÊNCIA. APELAÇÃO CÍVEL DA PARTE AUTORA. RECONHECIMENTO PELO JUIZO A QUO DE CONTRATO DE MÚTUO FENERATICIO. INEXISTÊNCIA. JUROS REMUNERATORIOS. ACESSORIEDADE. NULIDADE CONSEQUENTE. RECEBIMENTO DO VALOR DAS TARIFAS. AUSÊNCIA DE RECEBIMENTO DOS JUROS INCIDENTES SOBRE O VALOR ILEGALMENTE COBRADO. DEVOLUÇÃO SIMPLES DOS VALORES. PROVIMENTO PARCIAL DO APELO.
+Em suas razões (e-STJ fls. 199/210), a parte recorrente aponta violação do arts. 337, §§ 1º, 2º e 4º, e 485, V, do CPC/2015, bem como dissídio jurisprudencial pois (e-STJ fls. 201/202):
+ ..  o núcleo da insurgência é a cobrança de juros remuneratórios sobre tarifas já consideradas ilegais em ação pretérita e transitada em julgado. Existindo demanda anterior em que foram declaras nulas as tarifas, e tendo sido exigido a repetição dos valores pagos, por consequência estão inclusos os juros e todos os demais consectários legais.
+Analisando o pedido formulado na ação anterior, transitada em julgado, denota-se que a pretensão visava a declaração de nulidade das tarifas bancárias e, consequentemente, que houvesse a devolução da integralidade dos valores dispendidos, nos quais estavam inclusos os juros e consectários decorrentes das cobranças, corrigido pelos mesmos índices praticados pela Instituição Financeira.
+Dessa forma, ao formular seu pleito, a Parte Recorrida o fez de forma abrangente, incluindo não somente a restituição da tarifa, mais também dos juros e dos consectários derivados da cobrança. Evidentemente, tais acréscimos, impostos ao valor do financiamento, incluindo o montante das tarifas, correspondem exatamente aos acessórios citados. Ou seja, os juros remuneratórios pleiteados nesta ação, já foram objeto de ação pretérita, o que evidência clara afronta à coisa julgada (art. 337, §§ 1º, 2º e 4º, do CPC).
+A presente demanda versa, portanto, sobre a mesma causa de pedir (contrato de financiamento), sobre o mesmo pedido (declaração de nulidade das tarifas e repetição de todos os valores referentes aos encargos) e envolve as mesmas partes (BANCO ITAUCARD S. A e JACKSON SILVA DO O), evidenciando, assim, a tríplice identidade das ações.
+Contrarrazões apresentadas (e-STJ fls. 233/241).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Quanto à alegação de coisa julgada e ofensa aos art. 337, §§ 1º, 2º e 4º, e 485, V, do CPC/2015, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 190).
+Publique-se e intimem-se.
