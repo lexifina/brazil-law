@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de TIAGO RODRIGO WEBER contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da apelação criminal n. 5005916-06.2020.8.21.0086.
+Depreende-se dos autos que o juízo de primeiro grau desclassificou o delito previsto no art. 33, caput, da Lei n. 11.343/2006 para o art. 28 do mesmo Diploma Legal, em favor do paciente, determinando, ainda, a remessa dos autos ao Juizado Especial Criminal para o processamento e julgamento (fls. 9-17).
+No julgamento da apelação, o Tribunal de origem deu provimento ao recurso ministerial, a fim de condenar o réu como incurso no art. 33, caput, da Lei de Drogas, à pena de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão e o pagamento de 700 (setecentos) dias-multa, em regime inicial fechado (fls. 18-25).
+Na hipótese, a defesa aponta constrangimento ilegal, pois não há prova nos autos da traficância.
+Sustenta que "a acusação dirigida contra o paciente sustenta-se na apreensão de cerca de21 pedras de crack, quantidade esta absolutamente compatível com a posse para consumo. Nesse sentido, importante esclarecer que não há elementos a indicar que a droga encontrada era destinada à venda de terceiros. Inclusive, a prisão de TIAGO ocorreu durante cumprimento de mandado de busca e apreensão expedido nos autos 012/2.19.0002225-7, da comarca de Dom Pedrito. O mandado não tinha como alvo TIAGO, e sim Edilana Fernanda Lima Santos, residente no mesmo local. TIAGO estava dormindo na hora da abordagem, não estava sendo procurado e sequer houve menção de seu nome nos documentos juntados no Evento 112" (fl. 5).
+Pondera que, "ao fundamentar sua decisão reformadora da sentença ao argumento de que nenhum petrecho para uso fora encontrado com o paciente1, de modo que não se poderia concluir no sentido de que se trata de usuário, o TJRS opera verdadeira inversão do ônus da prova, como se não coubesse ao Ministério Público comprovar os termos de sua acusação, mas, sim, à defesa fazer prova da inocência do réu em relação à imputação que lhe é dirigida" (fl. 6).
+Requer, assim, a concessão da ordem, "de modo que se desclassifique a conduta para o tipo penal previsto no art. 28 da Lei 11.343/06, restabelecendo-se a sentença proferida pelo juízo de primeiro grau" (fl. 8).
+A liminar foi indeferida às fls. 29-30.
+Informações prestadas às fls. 33-79.
+O Ministério Público Federal, às fls. 94-96, manifestou-se pelo não conhecimento da ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO PARA O ART. 28, § 2º, DA LEI DE DROGAS. AMPLO REEXAME DO CONJUNTO PROBATÓRIO. INVIABILIDADE. NÃO CONHECIMENTO OU DENEGAÇÃO.
+1 Havendo a condenação pelo crime descrito no art. 33, caput, da Lei n. 11.343/06, devidamente fundamentada, não há como modificar a conclusão do Tribunal de origem e acolher a pretensão defensiva de desclassificação para o crime previsto noart. 28, da Lei de Drogas, por suposta ausência de provas da traficância, sem amplo reexame do conjunto fático-probatório dos autos, o que é incabível na via estreita do habeas corpus.
+2. Parecer pelo não conhecimento da impetração ou pela denegação da ordem" (fl. 94).
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a desclassificação do crime de tráfico para a conduta prevista no art. 28 da Lei de Drogas.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Não se descure que, para o conhecimento da ordem, faz-se necessário que o direito alegado pela defesa seja líquido - dispense apuração probatória - e certo - indene de dúvida.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente. Isso porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus para a análise da tese de desclassificação do crime de tráfico para a conduta prevista no art. 28 da Lei n. 11.343/2006, em razão da necessidade de incursão no acervo fático-probatório.
+Diante de tais considerações, portanto, não se vislumbra a existência dos pressupostos necessários ao conhecimento e à concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
