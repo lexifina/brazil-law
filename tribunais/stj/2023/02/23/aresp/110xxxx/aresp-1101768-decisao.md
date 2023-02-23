@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por OSVALDO HOFFMANN FILHO contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 319/320):
+DIREITO ADMINISTRATIVO. SERVENTIA CARTORÁRIA EXTRAJUDICIAL. CONDIÇÃO DE INTERINO. TETO REMUNERATÓRIO DO FUNCIONALISMO PÚBLICO. ART. 37-XI DA CONSTITUIÇÃO FEDERAL. APLICAÇÃO.
+Aquele que ocupa a serventia extrajudicial de forma interina (ingresso na serventia após 05 de outubro de 1988 por outra forma não seja mediante prévia aprovação em concurso público, de investidura inicial ou de remoção) não é delegatário de serviço público, mas preposto do Estado, e como tal está sujeito à limitação de remuneração ao teto previsto no art. 37-XI da Constituição Federal.
+Embargos de declaração foram acolhidos para fins de prequestionamento (e-STJ fls. 403/416).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 28 e 39, § 2º da Lei n. 8.935/1994.
+Sustentou, em síntese, que não faz parte da Administração Pública Direta, Autárquica e Fundacional, e por essa razão, não está sujeito ao teto remuneratório. Alegou que deve perceber os emolumentos integrais arrecadados na serventia para permitir o desempenho da atividade de forma regular, eficiente e com segurança jurídica.
+Esta Corte determinou a devolução dos autos ao Tribunal de origem para que, após o julgamento do RE 808.202/RS, com repercussão geral reconhecida pelo STF, a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+O Tribunal de origem negou seguimento ao apelo nobre quan to ao TEMA 779 do STF e inadmitiu o especial quanto às matérias remanescentes.
+Passo a decidir.
+Não obstante a Corte de origem tenha inadmitido o apelo nobre quanto outras teses, observa-se do aludido recurso que não há matérias remanescentes, sendo certo o não conhecimento do agravo em recurso especial.
+Ante o exposto, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
