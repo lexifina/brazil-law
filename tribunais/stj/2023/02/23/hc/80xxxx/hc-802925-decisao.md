@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rogério Garcia de Godoi, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo .
+Consta dos autos que o Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 6ª RAJ de Ribeirão Preto/SP indeferiu o pedido de livramento condicional, bem como o de progressão ao regime semiaberto.
+O Tribunal de Justiça de São Paulo não conheceu do HC n. 2009963-95.2023.8.26.0000, por considerar que a questão já está sendo debatida na via adequada, ou seja, o agravo em execução.
+Daí o presente writ, em que se requer, em liminar, seja reconhecido o direito do paciente de aguardar em liberdade o julgamento deste Habeas Corpus e, ao final, seja concedida a ordem definitiva, reconhecendo-se a ilegalidade da decisão que indeferiu o benefício do livramento condicional (fl. 12).
+É o relatório.
+O writ é manifestamente inadmissível.
+No caso, o Tribunal de origem não conheceu do writ por entender que a via estreita do habeas corpus não é adequada para se discutir matéria que desafia recurso específico. Ainda mais quando, como no caso, a defesa do paciente já interpôs Agravo em Execução (n. 0000493-41.2023.8.26.0496) em face da mesma decisão aqui hostilizada e que ainda está pendente de julgamento (fl. 15).
+De fato, a questão há de ser analisada primeiro pela Corte estadual no julgamento do agravo em execução já interposto.
+Com efeito, não há ilegalidade quando a Corte de origem, em consonância com a jurisprudência desta Corte Superior, não conhece do writ impetrado concomitantemente com a interposição do recurso adequado.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. AUTORIZAÇÃO DE VIAGEM PARA O EXTERIOR NO CURSO DA EXECUÇÃO PENAL. RECURSO PRÓPRIO JÁ INTERPOSTO. WRIT NÃO CONHECIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE REVOLVIMENTO FÁTICO PARA AFERIÇÃO DO REQUISITO SUBJETIVO. VIA INADEQUADA. AGRAVO DESPROVIDO.
+1. O Tribunal de origem não conheceu da impetração originária, seguindo a orientação desta Corta e do próprio Supremo Tribunal Federal - STF, reservando a possibilidade de análise da matéria em sede de Agravo em Execução que já foi interposto.
+2. Diante da impossibilidade de revisão do conjunto fático-processual, o remédio heroico não se mostra adequado a afastar as conclusões das instâncias ordinárias a respeito do preenchimento dos requisitos subjetivos necessários à autorização para viagem ao exterior no curso da execução penal.
+3. Agravo Regimental desprovido.
+(AgRg no RHC n. 119.343/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/2/2020 - grifo nosso)
+HABEAS CORPUS. SENTENÇA CONDENATÓRIA. NULIDADES. HABEAS CORPUS IMPETRADO NA ORIGEM DE FORMA CONTEMPORÂNEA À APELAÇÃO, AINDA PENDENTE DE JULGAMENTO. MESMO OBJETO. SUPRESSÃO DE INSTÂNCIA. COGNIÇÃO MAIS AMPLA E PROFUNDA DA APELAÇÃO. RACIONALIDADE DO SISTEMA RECURSAL. HABEAS CORPUS NÃO CONHECIDO.
+1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.
+4. A solução deriva da percepção de que o recurso de apelação detém efeito devolutivo amplo e graus de cognição - horizontal e vertical - mais amplo e aprofundado, de modo a permitir que o tribunal a quem se dirige a impugnação examinar, mais acuradamente, todos os aspectos relevantes que subjazem à ação penal. Assim, em princípio, a apelação é a via processual mais adequada para a impugnação de sentença condenatória recorrível, pois é esse o recurso que devolve ao tribunal o conhecimento amplo de toda a matéria versada nos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental. Igual raciocínio, mutatis mutandis, há de valer para a interposição de habeas corpus juntamente com o manejo de agravo em execução, recurso em sentido estrito, recurso especial e revisão criminal.
+ ..
+10. Habeas corpus não conhecido.
+(HC n. 482.549/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 3/4/2020 - grifo nosso)
+Ademais, é incabível a pretendida supressão de instância para decidir tema não debatido no acórdão impugnado.
+Ante o exposto, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. WRIT NÃO CONHECIDO NA ORIGEM. CONCOMITANTE INTERPOSIÇÃO DE AGRAVO EM EXECUÇÃO E IMPETRAÇÃO DE HABEAS CORPUS. INVIABILIDADE. QUESTÃO A SER ANALISADA PRIMEIRO PELO TRIBUNAL LOCAL NO AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE.
+Writ indeferido liminarmente.
