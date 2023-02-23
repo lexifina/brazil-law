@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto pela MECÂNICA JÚNIOR AUTO DIESEL LTDA. e MECÂNICA JÚNIOR AUTO DIESEL EIRELI mediante o qual se impugna decisão de inadmissibilidade de seu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 361):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE TERCEIRO. IMÓVEL. CAUTELAS NECESSÁRIAS. NECESSÁRIA COMPROVAÇÃO.
+1. A aplicação do Recurso Repetitivo REsp. 1.141.990/PR não é automática, podendo a presunção de fraude ser afastada quando o terceiro comprovar de forma inequívoca a sua boa -fé, a qual pode ser alegada quando não houver o registro de penhora ou de qualquer gravame sobre o bem.
+2. O terceiro embargante não observou as cautelas ordinariamente exigidas nessa espécie de negócio (compra de bem imóvel), razão pela qual não restou comprovada inequívoca boa -fé apta a afastar a constrição.
+Embargos de declaração parcialmente acolhidos para complementar a fundamentação, sem alteração do resultado do julgamento (e-STJ fls. 547/555).
+Em seu recurso especial, a parte ora recorrente aponta, além de dissídio entre julgados, ofensa aos arts. 489, § 1º, 1.022, II, do CPC/2015, 185 do CTN, aos arts. 14, I, da Lei n. 6.830/1980 e aos arts. 167 e 169 da Lei n. 6.015/1973.
+Para tanto, aduz que (e-STJ fl. 576):
+(..) a omissão do julgado não pode prejudicar a análise do fato) que a negociação realizada entre a Recorrente e o BRDE visando a Assunção de Dívida e consequente transferência da Propriedade dos imóveis remonta a Novembro e Dezembro de 2009.
+Nesta ocasião o vendedor era proprietário de outro imóvel, matrícula 5590 do CRI de Fraiburgo/SC, inclusive sobre o qual recaía penhora nos autos, como se depreende dos autos da Execução Fiscal.
+Deste modo, mesmo após a transferência dos bens, não foi reduzido à condição de insolvente, fazendo-se impositiva a aplicação do parágrafo único do referido dispositivo legal.
+Pela oportunidade, vale citar o entendimento esposado pelo E. TRF da 1ª Região no julgamento adiante referido, através do qual afastou a declaração de fraude à execução, em razão da aplicação do parágrafo único do artigo 185, do CTN, face à existência de outros bens passíveis de garantir a dívida.
+Defende a necessidade de registro da penhora para vale perante terceiros.
+Por fim, alega que "merece aplicação o Princípio "Tempus Regit Actum", levando-se em consideração que, na data da aquisição dos imóveis, a prática, o costume do homem médio, balizada pela Jurisprudência consolidada do STJ, consubstanciada na sua Súmula 375, era a consulta apenas da Certidão do Registro do Imóvel e, não havendo registro de restrição, seria possível a negociação" (e-STJ fl. 595).
+Contrarrazões (e-STJ fls. 604/605).
+Recurso especial inadmitido, com amparo na Súmula 7 do STJ (e-STJ fls. 610/613).
+Passo a decidir.
+Cuidam os autos, na origem, de embargos de terceiro em que se busca a anulação de penhora de bens imóveis, ao argumento de que os referidos bens teriam sido adquiridos, de boa-fé, pelo terceiro, de pessoa jurídica estranha àquela que estaria a ser demandada em execução fiscal.
+Pleiteia-se, assim, o cancelamento da ordem de penhora.
+Os embargos de terceiro foram julgados procedentes, por sentença.
+Apelação do ente público provida para, afastando a boa-fé da parte contribuinte, manter a constrição sobre os bens em comento. Entendeu-se que "o conjunto probatório trazido ao feito não sustenta a pretensão deduzida, segundo a qual o terceiro estaria de boa-fé" (e-STJ fl. 370).
+Em sede de aclaratórios, a Corte regional afastou a alegação de que haveria outros bens do devedor suficientes à satisfação da obrigação tributária, o que afastaria a decretação de fraude.
+Na ocasião, destacou (e-STJ fl. 554 e seguintes):
+Com efeito, a causa de pedir dos Embargos de Terceiro foi que os imóveis em questão foram adquiridos de boa-fé, pois "ausente qualquer anotação junto às respectivas matrículas".
+Via de consequência, a União, ao contestar (ev. 11), refutou apenas a causa de pedir apresentada, de que não estaria configurada a fraude à execução.
+E a sentença, ao julgar procedentes os Embargos de Terceiro, acolheu a alegação (a causa de pedir) de "boa-fé do embargante".
+Só nas contrarrazões à apelação da União (ev. 47) é que o embargante, inovando, apresentou a alegação de suficiência de bens do devedor.
+De fato, o próprio autor dos Embargados de Terceiro admite que só apresentou alegação de suficiente de bens do devedor nas contrarrazões à apelação, conforme se pode constatar de trecho de seus embargos de declaração de evento 71:
+(..)
+Portanto, sob pena de supressão indevida de instância, este tribunal recursal não poderia analisar a alegação nova do embargante, a qual não constou na inicial dos Embargos de Terceiro e, por consequência, não foi analisada pelo juízo a quo.
+Nesse sentido, supro a omissão, para não conhecer da alegação de existência de bens do devedor (§ 1º do art. 185 do CTN), porque é matéria nova, não objeto dos Embargos de Terceiro.
+A irresignação não merece prosperar.
+De início, quanto à alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No caso, consoante exposto no trecho acima destacado, houve clara explicitação dos aspectos fáticos e jurídicos suficientes ao deslinde da controvérsia, quanto ao ponto supostamente omisso do julgado.
+Quanto ao mais, no enunciado da Súmula 375 do STJ, esta Corte consolidou o entendimento de que "o reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente", sendo certo que essa compreensão se revela inadequada à fraude à execução fiscal, a qual é regida por regras específicas.
+Com efeito, a Primeira Seção do STJ, no julgamento do REsp 1.141.990/PR, submetido ao rito dos recursos repetitivos (art. 543-C do CPC), fixou o entendimento pela inaplicabilidade daquele verbete sumular às execuções fiscais.
+Ademais, segundo o firme entendimento desta Corte, em se tratando de negócio anterior à modificação do art. 185 do CTN pela Lei Complementar n. 118/2005, há fraude à execução fiscal se a alienação do bem pelo executado tiver ocorrido após a citação do executado na execução fiscal e, em se tratando de ato posterior à referida modificação legislativa, se alienado o bem quando já inscrito o débito tributário em dívida ativa (caso dos autos). Vale salientar que a presunção absoluta de fraude à execução aplica-se, inclusive, às hipóteses de sucessivas alienações dos bens.
+À guisa de mero exemplo:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. BEM IMÓVEL. PENHORA EM EXECUÇÃO FISCAL. ALIENAÇÃO POSTERIOR À CITAÇÃO DA DEVEDORA. FRAUDE À EXECUÇÃO. PRESUNÇÃO ABSOLUTA. BOA-FÉ. IRRELEVÂNCIA. MATÉRIA PACÍFICA.
+1. No REsp 1.141.990/PR, repetitivo, a Primeira Seção definiu: "(a) a natureza jurídica tributária do crédito conduz a que a simples alienação ou oneração de bens ou rendas, ou seu começo, pelo sujeito passivo por quantia inscrita em dívida ativa, sem a reserva de meios para quitação do débito, gera presunção absoluta (jure et de jure) de fraude à execução (lei especial que se sobrepõe ao regime do direito processual civil); (b) a alienação engendrada até 08.06.2005 exige que tenha havido prévia citação no processo judicial para caracterizar a fraude de execução; se o ato translativo foi praticado a partir de 09.06.2005, data de início da vigência da Lei Complementar n. 118/2005, basta a efetivação da inscrição em dívida ativa para a configuração da figura da fraude; (c) a fraude de execução prevista no artigo 185 do CTN encerra presunção jure et de jure, conquanto componente do elenco das "garantias do crédito tributário". Assim, verificada situação caracterizadora de fraude à execução, torna-se irrelevante eventual boa-fé da parte compradora do bem imóvel para fins de impedir a penhora, pois, conforme definição jurisprudencial, a presunção de fraude é absoluta.
+2. Na espécie, o acórdão recorrido consignou que a alienação do imóvel ocorreu após a citação da executada. Logo, caracterizada está a fraude à execução.
+3. Ressalte-se que esse entendimento se aplica também às hipóteses de alienações sucessivas, daí porque "considera-se fraudulenta a alienação, mesmo quando há transferências sucessivas do bem, feita após a inscrição do débito em dívida ativa, sendo desnecessário comprovar a má-fé do terceiro adquirente" (REsp 1.833.644/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2019, DJe 18/10/2019).
+4. Agravo interno não provido.".
+(AgInt no REsp 1.982.766/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 30/05/2022, DJe 02/06/2022).
+Assim, deve o acórdão ser mantido, ainda que por outro fundamento.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte agravante, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
