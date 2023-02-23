@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ADRIANA BROETTO CASOTTO MONTEIRO E OUTROS com fundamento no art. 105, II, "b", da CF contra acórdão do Tribunal de Justiça do Rio de Janeiro, que denegou a ordem por entender ausente a prova pré-constituída as alegações da inicial (direito líquido e certo).
+Defende o impetrante, em resumo, que: a) constam dos autos os contracheques os quais demonstram que houve modificação no pagamento dos triênios dos servidores entre 2018/2019, sendo documentação suficiente para provar o alegado na inicial; b) a Administração, entre 2014 e 2019, pagou o referido benefício tomando como base de cálculo o somatório de todas as vantagens remuneratórias, não sendo possível, agora, considerar apenas o vencimento base.
+Sem contrarrazões.
+Parecer do MPF nas e-STJ fls. 625/629, opinando pelo não provimento do recurso.
+É o que importava relatar.
+Adianto que o recurso não merece guarida, embora por fundamentos distintos daqueles apresentados no acórdão recorrido.
+Entendo que de fato os contracheques acostados com a inicial demonstram que houve alteração na forma como paga a rubrica "triênio" dos servidores (ver, por exemplo, e-STJ fls. 55, 86 e 118), as quais demonstram que houve redução da vantagem em exame entre os anos de 2018/2019.
+Todavia, segundo consta da própria narrativa da inicial, esta redução teria se operado após a Administração ter determinado que o benefício dos "triênios" fosse calculado segundo o vencimento base, e não o conjunto de vantagens remuneratórias.
+A determinação do Poder Público está, pois, em conformidade com o art. 37, XIV, da Constituição federal, sendo certo que "o Supremo Tribunal Federal fixou a tese de que "o art. 37, XIV, da Constituição Federal, na redação dada pela Emenda Constitucional 19/98, é autoaplicável", não havendo "direito adquirido a regime jurídico, notadamente à forma de composição da remuneração de servidores públicos, observada a garantia da irredutibilidade de vencimentos" (Tema 24/STF)" AgInt no RE no RMS n. 64.154/CE, relator Ministro Jorge Mussi, Corte Especial, julgado em 12/4/2022, DJe de 22/4/2022.
+Além disso, a jurisprudência do Superior Tribunal de Justiça se orienta no sentido de que o princípio da irredutibilidade vencimental previsto no art. 37, XV, da CF/88, não alberga a pretensão de se manter o pagamento de verba remuneratória considerada ilegal ou inconstitucional.
+Nessa linha: RMS n. 57.601/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2020, DJe de 27/5/2020; RMS n. 50.083/PR, relatora Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 14/6/2016, DJe de 22/6/2016; RMS 27.966/SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe 26/2/2015.
+Em caso semelhante ao presente, esta Turma assim decidiu:
+ADMINISTRATIVO E CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FISCAIS MUNICIPAIS DE TRIBUTO. SÃO JOÃO DE MERITI. GRATIFICAÇÃO DE PRODUTIVIDADE. BASE DE CÁLCULO PARA INCIDÊNCIA DO ADICIONAL POR TEMPO DE SERVIÇO. EFEITO REPIQUE. VEDAÇÃO CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+1. Cuida-se de recurso ordinário em mandado de segurança coletivo interposto pelo Sindicato dos Fiscais de Tributos do Município de São João de Meriti/RJ contra acórdão que concedeu parcialmente a ordem, mas indeferiu o pedido de que o adicional por tempo de serviço incidisse também sobre a gratificação de produtividade.
+2. O reconhecimento do direito de incorporação da gratificação de produtividade não desnatura a sua essência, de modo a transubstanciar a sua natureza jurídica e excluí-la da vedação constitucional ao efeito repique.
+3. A pretensão de receber adicional calculado também sobre outra gratificação de qualquer espécie, em efeito cascata, não é expressão de um direito líquido e certo, senão pretensão contra expressa vedação constitucional, contida no art. 37, XIV, da Carta Republicana: "os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores".
+4. Ao examinar caso análogo, em que o mesmo sindicato ora recorrente defendeu semelhante pretensão (RMS 45.230/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/3/2017), este STJ negou provimento ao recurso ordinário. Não há razão juridicamente relevante para dar desfecho diverso ao presente recurso.
+5. Recurso não provido.
+(RMS n. 48.893/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/2/2022, DJe de 23/2/2022.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
