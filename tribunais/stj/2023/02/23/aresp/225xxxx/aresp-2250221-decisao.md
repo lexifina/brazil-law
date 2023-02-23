@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão do óbice previsto na Súmula n. 7/STJ (e-STJ fl. 519).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 420/421):
+PROCESSUAL CIVIL E CIVIL. IMÓVEL ADQUIRIDO COM RECURSOS DO FAR. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO DECENAL. RESPONSABILIDADE DA CEF. DANO MATERIAL. REVESTIMENTO CERÂMICO. NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO DO AUTOR. DANO MORAL. NÃO CONFIGURAÇÃO. MERO ABORRECIMENTO.
+1. Trata-se de Apelações Cíveis interpostas pela CAIXA ECONÔMICA FEDERAL - CEF (evento 78/JFRJ) e por ANTONIO JOSE DE OLIVEIRA (evento 79/JFRJ), tendo por objeto sentença (evento 72/JFRJ), prolatada nos autos de ação ajuizada em face da referida empresa pública federal, objetivando, em síntese, indenização por danos materiais e morais.
+2. À falta de prazo específico no CDC que regule a hipótese de indenização por inadimplemento, o STJ possui entendimento no sentido de que deve ser aplicado o prazo geral decenal de prescrição estabelecido no art. 205 do Código Civil.
+3. Analisando a documentação acostada aos autos, verifica-se que o termo de recebimento do imóvel não está datado. Contudo, o perito, em 2021, afirma que o imóvel tem idade aparente de cinco anos, tendo sido a ação ajuizada em junho de 2020, de forma que a pretensão não está fulminada pela prescrição.
+4. Como agente-gestor do Fundo de Arrendamento Residencial, a CEF é responsável tanto pela aquisição como pela construção dos imóveis, que permanecem de propriedade do referido fundo, até que os particulares que firmaram contratos de arrendamento com opção de compra possam exercer este ato de aquisição no final do contrato.
+6. Compete à CEF a responsabilidade pela entrega dos arrendatários de bens imóveis aptos à moradia, respondendo por eventuais vícios de construção.
+7. Não há dúvida acerca da demonstração probatória dos defeitos de construção no imóvel do autor.
+8. Desta forma, correta a condenação da CEF, como gestora e operadora do programa, à reparação dos danos materiais sofridos pelo autor.9. Relativamente ao revestimento cerâmico, tendo sido trocado pelo autor, não há como se aferir se houve vício de construção a justificar sua troca, ou se foi por mera realização de benfeitorias no imóvel, não tendo a parte autora, neste ponto, provado o fato constitutivo de seu direito.
+9. O dano moral apenas é indenizável se causador de dor extraordinária e sofrimento destoante do normal.
+10. O que pode ter ocorrido, quando muito, na hipótese vertente, não passa de um dissabor, um mero aborrecimento do dia a dia.
+11. Não foram verificados vazamentos, infiltrações, rachaduras ou trincas no imóvel, tendo sido verificados, pelo perito, apenas "acabamentos inadequados na junção da alvenaria com as esquadrias do imóvel, o que poderá possibilitar, no futuro, a passagem das águas das chuvas e o aparecimento de manchas de umidade nas paredes."
+12. Recurso do autor desprovido.
+13. Recurso da CEF parcialmente provido para excluir a condenação imposta a título de danos morais.
+14. Diante da sucumbência recíproca, com fulcro no art. 86 do CPC/2015, mantida a condenação da CEF no pagamento da verba honorária sucumbencial, em 10% sobre o valor da condenação, e condenação da parte autora no pagamento de honorários advocatícios de sucumbência, fixados em 10% da diferença entre o valor atribuído à causa e o valor da condenação. Todavia, considerando que o autor está a litigar sob o pálio da gratuidade de justiça, suspendida a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do art. 98, §§2º e 3º do CPC/2015.
+Os embargos de declaração foram rejeitados (e-STJ fls. 446/452).
+Nas razões do recurso especial (e-STJ fls. 459/467), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação do art. 489, § 1º, III e V, do CPC/2015, tendo em vista "A falta de análise dos pontos suscitados em sede de apelação e que efetivamente sustentam o pleito de dano moral" (e-STJ fl. 465), quais sejam:
+1. Os recorrentes são pessoas humildes, receberam o imóvel confiando no ente estatal (CEF), sendo que, com o recebimento do imóvel em questão, não puderam mais tentar obter um bem com a devida qualidade, já que não poderão ser contemplados em outros projetos de habitação social, tendo que conviver diariamente com os defeitos e o medo de que novos vícios possam surgir, dada a flagrante falta de solidez da obra;
+2. A CEF agiu com negligência ao fiscalizar as obras, não arcando com seu dever, não apenas contratual, mas principalmente constitucional enquanto ente público;
+3. Os recorrentes, com o laudo de vistoria de entrada, foram induzidos a crer que seu imóvel era perfeito e adequado;
+4. A existência dos vícios não é um evento que se isola no tempo, possui efeitos pretéritos (a convivência com os problemas) e futuros (a necessidade de reformas); e,
+5. Os recorrentes foram obrigados a conviver com imóvel danificado e será obrigada a conviver com amplas reformas, tendo, por algum tempo, inutilizada parcela considerável de seu imóvel (e-STJ fl. 465)
+Ao fim, a parte recorrente pleiteia que "seja dado total provimento ao presente recurso para que seja anulado o r. Acórdão recorrido, determinando-se que seja proferida nova decisão fundamentada no conjunto de evidências fáticas conforme preconiza a n. Jurisprudência do c. STJ" (e-STJ fl. 467).
+No agravo (e-STJ fls. 526/532), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 538/542 (e-STJ).
+É o relatório.
+Decido.
+Conforme a remansosa jurisprudência deste Tribunal Superior, não há falar em existência dos vícios previstos no art. 489, § 1º, do CPC/2015 ou negativa de prestação judicial quando o Tribunal de origem se manifesta clara e expressamente acerca das questões que lhe foram submetidas, adotando, para a resolução da causa, fundamentação suficiente, a despeito de diversa da pretendida pelo recorrente (AgInt no REsp n. 1.815.974/MA, de minha relatoria, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022; e AgInt no AREsp n. 2.089.520/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2022, DJe de 16/12/2022).
+In casu, no que diz respeito à indenização postulada a título de danos morais, a Corte local fez consignar o seguinte (e-STJ fl. 418/419):
+(..)
+O dano moral apenas é indenizável se causador de dor extraordinária e sofrimento destoante do normal.
+O que pode ter ocorrido, quando muito, na hipótese vertente, não passa de um dissabor, um mero aborrecimento do dia a dia.
+(..)
+Ressalte-se que o dano moral configura-se diante de uma dor superior àquela que as pessoas, de um modo geral, suportam pelo simples fato de viverem em uma época em que o ritmo de vida é marcado pelo estresse, sobretudo para as pessoas que moram em grandes centros urbanos. Assim, não se confunde comum mero aborrecimento passageiro, tal como na espécie, em que o contexto dos fatos não revela sofrimento suficiente para dar ensejo à reparação.
+Não foram verificados vazamentos, infiltrações, rachaduras ou trincas no imóvel, tendo sido verificados, pelo perito, apenas "acabamentos inadequados na junção da alvenaria com as esquadrias do imóvel, o que poderá possibilitar, no futuro, a passagem das águas das chuvas e o aparecimento de manchas de umidade nas paredes."
+(..)
+Constata-se que, no caso concreto, o Tribunal de origem, respaldado no conjunto fático-probatório dos autos, em cuja análise é soberano, concluiu pela inexistência de circunstâncias excepcionais aptas a implicar significativa e anormal violação de direito da personalidade dos proprietários do imóvel.
+Logo, considerando as razões consignadas no acórdão recorrido, bem como o fato de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" e que "a prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp n. 1.483.155/BA, relator Ministro Og Fernandes, Corte Especial, julgado em 15/6/2016, DJe de 3/8/2016), entendo inexistirem, no caso concreto, os vícios elencados no § 1º do art. 489 do CPC/2015, de sorte que não assiste razão à parte recorrente.
+Ante o exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor dos patronos da parte ora agravada, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
