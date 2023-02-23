@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTALEIRO SCHAEFER YACHTS LTDA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO , assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. LEILÃO DE EMBARCAÇÕES PENHORADAS. POSSIBILIDADE. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. Não se visualiza óbice legal a que os bens nominados pela parte agravante possam ser levados à leilão, considerando-se que esta Turma já apreciou, em outro agravo de instrumento, a penhora sobre estes realizada, entendendo por seu cabimento, bem como que tendo em vista que o agravo interposto em razão da inadmissão do recurso especial não possui efeito suspensivo, motivo pelo qual não impede, da mesma forma, sua realização.
+2. Não resta demonstrado de forma inequívoca que a executada agiu com dolo ou culpa, motivo pelo qual não há falar em incidência de multa por ato atentatório à dignidade da justiça. Revelando-se necessário, para sua comprovação, dilação probatória, tem-se que, ao menos por ora, a multa não pode ser aplicável.
+3. Agravo de instrumento provido em parte.
+Os embargos de declaração opostos pelo contribuinte foram rejeitados, sanando-se de ofício erro material contido na ementa.
+Os embargos de declaração opostos pela União foram acolhidos, nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. EXISTÊNCIA. INTEGRAÇÃO DO JULGADO.
+1. Presente o apontado vício no julgado, acolhem-se os embargos de declaração da União, para saná-lo, determinando-se a correção do erro material, a fim de que reste corrigido o descompasso existente entre a ementa e o voto da decisão embargada.
+2. Embargos de declaração acolhidos.
+Na ocasião restou definido que:
+Assim, devem ser acolhidos os embargos de declaração para sanar erro material do acórdão, que passa a constar com a seguinte redação:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL. REDISCUSSÃO. ERRO MATERIAL. PREQUESTIONAMENTO.
+1. De acordo com o disposto no artigo 1.022 do Código de Processo Civil, cabem embargos de declaração contra qualquer decisão judicial, para: I -esclarecer obscuridade ou eliminar contradição; II - suprir omissão de pontoou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e III - corrigir erro material.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração no julgado.
+3. É vedada a rediscussão dos fundamentos da decisão prolatada pela Turma na via estreita dos embargos de declaração.
+ESTALEIRO SCHAEFER YACHTS LTDA interpôs recurso especial, apontando como violados os arts. 489, § 1º, e 1.022, II, do CPC, sustentando, em síntese, ausência de indicação das normas jurídicas que fundamentam a decisão recorrida, bem como omissão relativamente à tese de violação dos arts. 835 e 836 do CPC.
+No mérito, alega violação dos arts. 835 e 836 do CPC quanto à permissão de leilão dos bens penhorados. Aduz que a inserção de "navios e aeronaves" na lista preferencial da penhora se refere a hipóteses em que a embarcação faz parte do patrimônio da empresa, o que não é caso dos autos, em que a executada trabalha com venda de embarcações produzidas sob encomenda. Nesse sentido, aduz que tais embarcações podem ser consideradas bens móveis necessários ao exercício da atividade empresarial.
+Alega, outrossim, violação do art. 805 do CPC e do princípio da preservação da empresa, aduzindo que a penhora efetivada é gravosa à executada, sendo que a execução deve ocorrer pelos meios menos gravosos, aduzindo, ainda, que já é efetivada penhora de 5% sobre o faturamento bruto da empresa.
+Postula concessão de antecipação dos efeitos da tutela recursal, fundamentando na probabilidade do direito e no perigo de dano.
+Foram apresentadas contrarrazões ao recurso especial (fls. 153-167).
+O recurso foi admitido na origem.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+No tocante à suposta violação do art. 1.022, II, e do art. 489, §1º, do CPC/2015, não assiste razão à parte recorrente.
+A alegação de negativa de prestação jurisdicional se fundou nos argumentos de que (i) não foram indicadas as normas jurídicas que embasaram a decisão e; (ii) não foram analisadas as teses relativas à inobservância dos arts. 835 e 836 do CPC.
+Incide o óbice da Súmula n. 284/STF, quando a parte recorrente aponta violação genérica dos arts. 489 e 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), - ausência de indicação de normas jurídicas - sem demonstrar especificamente quais os vícios do aresto vergastado, quais normas jurídicas não teriam sido observadas ou a sua relevância para a solução da controvérsia.
+Nesse sentido, este Superior Tribunal de Justiça já decidiu que: "É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018).
+Quanto à tese de omissão em relação às normas dos arts. 835 e 836, o recurso não comporta conhecimento, porquanto demonstra pretensão de que o Tribunal apreciasse circunstância que não é objeto do agravo de instrumento sob julgamento.
+Isso porque este recurso especial deriva de agravo de instrumento com pedido de antecipação de tutela recursal interposto pela FAZENDA NACIONAL contra decisão de primeira instância que indeferiu a realização de leilão de embarcações penhoradas, bem como indeferiu a imposição de multa à executada por ato atentatório à dignidade da justiça.
+Conforme consta do acórdão recorrido, a legitimidade da penhora das embarcações é objeto do agravo de instrumento n.º 5021052-22.2017.4.04.0000, já julgado, no qual se autorizou a manutenção da penhora sobre os referidos bens. O recurso especial interposto contra a decisão do Tribunal nessa ação foi inadmitido, ensejando a interposição de agravo (AREsp 1.281.627), o qual não foi conhecido por decisão monocrática de minha lavra, transitada em julgado em 18.6.2018.
+A legalidade da penhora sobre as embarcações, portanto, não é objeto destes autos, que discutem apenas a possibilidade de leilão das embarcações já penhoradas, cuja regularidade fora decidida pelo Tribunal em decisão cuja exequibilidade não encontrava qualquer óbice, conforme atestado pela instância de origem (fl. 69):
+Quanto ao mais, tem-se que, de fato, inexistem óbices para que os bens objeto do agravo de instrumento nº 5021052-22.2017.4.04.0000, sejam levados à leilão. Isso porque o agravo de instrumento já foi julgado e provido, autorizando-se a manutenção da penhora sobre os referidos bens.
+Ademais disso, o agravo interposto em razão da inadmissão do recurso especial (AREsp 1.281.627) não possui efeito suspensivo, motivo pelo qual não impede, da mesma forma, sua realização.
+Saliente-se, alfim, que, conforme consulta processual no site do Superior Tribunal de Justiça, o agravo não foi conhecido por aquela Corte Superior, em decisão monocrática do Relator o Exmo. Ministro Francisco Falcão, tendo havido seu trânsito em julgado em 18-6-2018.
+Assim sendo, tem-se que a insurgência deve prosperar no que tange ao leilão das embarcações discutidas no agravo de instrumento n.º 5021052-22.2017.4.04.0000.
+Por essa mesma razão, as teses de mérito aduzidas pelo requerente - de violação dos arts. 805, 835 e 836 - não comportam conhecimento, porquanto, fundadas em dispositivos que disciplinam a realização da penhora, pretendem debater a legitimidade da constrição efetivada, questão que, conforme explicitado, não é objeto destes autos.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial. Prejudicado o pleito de antecipação dos efeitos da tutela recursal.
+Publique-se. Intimem-se.
