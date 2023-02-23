@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno interposto por KIRTON BANK S.A. - BANCO MULTIPLO em face da decisão de fls. 1131-1133 e-STJ, da lavra da Presidência do STJ, que não conheceu do reclamo.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 876-885 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA ORIGINARIAMENTE PROPOSTA PELO IDEC. LEGITIMIDADE ATIVA PARA A EXECUÇÃO DA SENTENÇA COLETIVA. RECONHECIDA. NECESSIDADE DE FILIAÇÃO AO IDEC. AFASTADA. TESE DE REPERCUSSÃO GERAL FIRMADA QUANDO DO JULGAMENTO DO RE N.º 612.043/PR. INAPLICABILIDADE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. SENTENÇA TORNADA INSUBSISTENTE. RECURSO CONHECIDO E PROVIDO. 1. O Supremo Tribunal Federal, na oportunidade do julgamento do RE n.º 612.043/PR, fixou a seguinte tese de repercussão geral: "Beneficiários do título executivo, no caso de ação proposta por associação, são aqueles que, residentes na área compreendida na jurisdição do órgão julgador, detinham, antes do ajuizamento, a condição de filiados e constaram da lista apresentada com a peça inicial." 2. Cediço que a referida tese não é aplicável à hipótese em comento, mormente porque a ação coletiva proposta pelo IDEC é da espécie substitutiva (legitimação extraordinária), e não meramente representativa (representação processual), como ocorreu na ocasião do julgamento do Recurso Extraordinário representativo da controvérsia mencionado. 3. Ao apreciar a controvérsia sobre a legitimidade para execução das sentenças coletivas, o Superior Tribunal de Justiça firmou a seguinte orientação, sob a sistemática dos recursos repetitivos: "Em Ação Civil Pública proposta por associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à associação promovente". 4. Sopesados esses fundamentos, forçoso reconhecer que os exequentes detêm legitimidade ativa para o início do cumprimento de sentença em epígrafe. 5. Recurso provido.
+Opostos embargos declaratórios (fls. 888-899 e-STJ), restaram desacolhidos na origem (fls. 920-928 e-STJ).
+Nas razões de recurso especial (fls. 931-944 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 1.022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; e, (ii) artigo 2º-A da Lei n. 9.494/97, aduzindo a ilegitimidade ativa da ora agravada, ante a ausência de comprovação de autorização expressa para ser representada pelo IDEC.
+Contrarrazões às fls. 957-976 e-STJ.
+Em juízo prévio de admissibilidade (fls. 978-980 e-STJ), a Corte de origem: (a) negou seguimento ao apelo nobre, em relação à alegada violação ao artigo 2º-A da Lei n. 9.494/97; (b) no mais, inadmitiu o reclamo, ante a ausência dos vícios indicados.
+Foi interposto agravo interno na origem (fl. 1066-1071 e-STJ), ao qual se negou provimento (fls. 1089-1093 e-STJ).
+Simultaneamente, foi manejado o presente agravo (art. 1.042 do CPC/15), às fls. 983-991 e-STJ, reiterando a tese de negativa de prestação jurisdicional.
+Contraminuta às fls. 998-1006 e-STJ.
+Em decisão monocrática, a Presidência do STJ não conheceu do reclamo, por ofensa ao princípio da dialeticidade.
+Daí o presente agravo interno (fls. 1136-1139 e-STJ), no qual a parte insurgente sustenta ter impugnado todos os fundamentos da decisão de admissibilidade.
+Impugnação às fls. 1144-1145 e-STJ.
+É o relatório.
+Decide-se.
+Ante as razões expostas, e constatada a efetiva impugnação aos fundamentos da decisão que inadmitiu o apelo nobre, reconsidera-se a decisão agravada, passando-se a nova análise do recurso.
+1. Deve ser afastada a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado restou omisso pois deixou de consignar que a parte recorrida não comprovou filiação ao IDEC, tampouco a habilitação na referida demanda coletiva, o que ofenderia o art. 2º-A, da lei 9.494/97.
+Todavia, o Tribunal local tratou expressamente da questão, ainda que em sentido contrário ao buscado pela parte, concluindo ser desnecessária a filiação (fls. 881-883 e-STJ):
+Pois bem. Tratando-se de ações coletivas, não é rara a discussão no âmbito dos Tribunais pátrios acerca da legitimidade para a execução individual dos títulos judiciais delas oriundos.
+ ..
+Entretanto, cediço que a aludida tese de repercussão geral não é aplicável à hipótese ora em discussão, mormente porque a ação coletiva proposta pelo IDEC é da espécie substitutiva (legitimação extraordinária), e não meramente representativa (representação processual), como o foi na ocasião do Recurso Extraordinário representativo da controvérsia acima mencionado.
+ ..
+É dizer, para o deslinde meritório da controvérsia aqui imposta, faz- se necessário compreender o ponto de distinção entre as demandas paradigmas, que remete o julgador a conclusões diversas sobre a legitimidade para exigir o cumprimento de sentenças coletivas.
+ ..
+Lado outro, a ação civil pública promovida pelo IDEC possui relevo notadamente coletivo, pois visou zelar pelos interesses de todos os titulares de cadernetas de poupança junto ao requerido Banco Bamerindus no período relativo a janeiro de 1989. Assim, trata-se de ação manejada em nome próprio, mas em defesa dos direitos dos consumidores, o que se denomina legitimação extraordinária.
+ ..
+Extrai-se das premissas expostas que o que se busca é a concretização da máxima efetividade do processo coletivo, de modo que, em demandas propostas sob os auspícios da legitimação extraordinária, todos os titulares do direito declarado devem ser autorizados a buscar o quantum que lhes beneficia.
+Em suma, independentemente de pertencerem aos quadros associativos do IDEC, todos aqueles que possuíam caderneta de poupança ou conta corrente à época dos expurgos inflacionários discutidos na ação civil pública originária detêm legitimidade ativa para o ajuizamento de cumprimento individual da sentença coletiva, conclusão esta que abarca o direito dos ora apelantes.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.
+2. Do exposto, reconsidera-se a decisão impugnada e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
