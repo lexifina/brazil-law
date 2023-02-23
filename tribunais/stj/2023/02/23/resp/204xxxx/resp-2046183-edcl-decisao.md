@@ -1,0 +1,14 @@
+DECISÃO
+INCORPORADORA SANTA LUZIA LTDA. opõe embargos de declaração à decisão de fls. 1.242-1.245, que conheceu do recurso especial e deu-lhe provimento para determinar o afastamento da condenação ao pagamento de taxa de fruição.
+Em suas razões, a parte embargante alega a ocorrência de contradição, uma vez que foi comprovado que a embargada edificou, residiu e ainda reside no imóvel objeto dos autos, diversamente do que consta da decisão.
+Sustenta que "resta latente o efetivo uso e gozo do imóvel, situação que autoriza a fixação da indenização pela fruição como forma de compensar a efetiva utilização do imóvel" (fl. 1.249).
+Requer o acolhimento dos embargos de declaração para que seja reconhecida a contradição, revertendo-se o julgamento para manter a condenação da embargada ao pagamento da indenização pela fruição.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+Observa-se que, ao afirmar que o entendimento adotado na instância de origem diverge da jurisprudência do STJ, a decisão ora impugnada ancorou-se em precedentes da Terceira e Quarta Turmas desta Corte para concluir que é incabível a cobrança de taxa de fruição nas hipóteses em que o objeto do contrato de promessa de compra e venda é um lote não edificado.
+A propósito da questão, ressalte-se que, "na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição" (AgInt no REsp n. 1.941.068/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/9/2021, DJe de 29/9/2021); ou "não é cabível a fixação de taxa de fruição na hipótese de desfazimento de contrato de compra e venda de terreno não edificado" (AgInt no AREsp n. 2.044.026/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022).
+Portanto, a irresignação caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
