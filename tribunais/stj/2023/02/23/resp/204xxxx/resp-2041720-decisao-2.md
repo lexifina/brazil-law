@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, a, da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Narram os autos que JOSÉ LUIZ PEREIRA ajuizou a subjacente ação ordinária em face da ora recorrente e da FUNA SA, objetivando desconstituir decisão proferida pelo Tribunal de Contas da União - TCU, consubstanciada nos Acórdãos ns. 7.475/2012 e 622/2014, que determinou à FUNASA que promovesse a supressão de parcela de seus proventos de aposentadoria e o ressarcimento ao Erário dos valores indevidamente pagos/recebidos referente à diferença nominada como "28,86%", desde 1º/01/1993, sob a rubrica "DECISAO JUDICIAL TRANS JUG APO", por determinação judicial proferida no âmbito da ação ordinária n. 94.00.01450-3.
+O Juízo de 1º Grau julgou parcialmente procedente os pedidos, para (fls. 504/505):
+I) DECLARAR ilegal a supressão do pagamento da rubrica "DECISAO JUDICIAL TRANS JUG APO" dos proventos de aposentadoria recebidos pela parte autora;
+II) DETERMINAR à FUNASA restabeleça o pagamento da rubrica "DECISAO JUDICIAL TRANS JUG APO" nos proventos da parte autora bem assim se abstenha de comandar o desconto das parcelas já pagas, a título de reposição ao Erário; e
+III) CONDENAR a FUNASA a pagar e/ou restituir à parte autora os valores correspondentes, atualizados monetariamente pelo IPCA-E e acrescidos de juros de mora, na forma do art. 1º-F da Lei n. 9.494/97, na redação dada pela Lei n. 11.960/09, estes a contar da citação.
+A sentença foi parcialmente reformada pelo Tribunal de origem, nos termos da ementa que segue (fl. 629):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. REVISÃOPELO TCU. RUBRICA 28,86% - "DECISÃO JUDICIAL N TRAN. JULG". ABSORÇÃO. DECADÊNCIA. COISA JULGADA. INOCORRÊNCIA. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ.
+Aos servidores cujos cargos e carreiras foram objeto de reorganização ou reestruturação, eventuais diferenças de reajustes salariais do reajuste de 28,86% são devidas até a data da efetiva implantação dos novos patamares remuneratórios, quando, então, devem ser proporcionalmente absorvidas na nova tabela, o que não afronta a coisa julgada formada na relação de trato sucessivo que se estabelece entre os servidores e a Administração.
+A jurisprudência dominante inclina-se no sentido de que o servidor público civil ou militar que, de presumida boa-fé, recebeu alguma vantagem financeira, em decorrência de errônea interpretação ou aplicação de norma legal pela Administração, sem ter influenciado ou interferido na sua concessão, está dispensado de devolver os valores tidos por indevidamente pagos àquele título.
+Devida a incidência de juros e correção monetária sobre o débito, nos termos da legislação vigente no período a que se refere, postergando-se a especificação dos índices e taxas aplicáveis para a fase de execução.
+Opostos embargos de declaração, foram parcialmente acolhidos para fins de prequestionamento (fls. 781/795).
+Alega a recorrente violação ao art. 1.022, II, do CPC (fl. 836):
+ ..  eis que sonegada a prestação jurisdicional de prequestionamento específico e detalhado pretendido pela recorrente. Com efeito, provocada e instada a Egrégia Turma a manifestar-se sobre temas e dispositivos legais, negou-se a adotar tese expressa sobre os dispositivos apontados como violados.
+Da simples leitura do acórdão que julgou os embargos de declaração, verifica-se que a Egrégia Turma, simplesmente entendeu em não se manifestar de forma específica sobre os temas e dispositivos legais apontados no referido recurso.
+No mérito, assevera que "não há controvérsia quanto ao pagamento indevido da verba ora em discussão" (fl. 837), nem que "no caso, não se trata de erro de interpretação, mas de erro de fato" (fl. 838), motivo pelo qual "a exclusiva constatação de boa-fé no recebimento de valores, não é suficiente para impedir a devolução ao erário de valores recebidos indevidamente" (fl. 838).
+Daí afirmar, à luz das disposições contidas no art. 53 da Lei 9.784/1999 c/c os arts. 114 da Lei 8.112/1990 e 884, 885 e 876 do Código Civil, que basta que a Administração Pública perceba o pagamento ilegal de determinada vantagem a servidor para que, em face de seu poder-dever de controlar a legalidade, promova a busca pelo ressarcimento.
+Segue afirmando que "acertadamente a Administração, implementando as ações administrativas necessárias à retificação de seus vencimentos/proventos e reposição ao erário dos valores pagos indevidamente ao autor, em perfeita aplicação do comando da Lei nº 8.112/90, art. 46" (fl. 839).
+Requer, assim, o provimento do recurso especial.
+Contrarrazões às fls. 878/892.
+Contra a decisão que inadmitiu na origem o recurso (fls. 907/909) foi interposto o AREsp 1.657.675/SC, no bojo do qual proferi decisão determinando o retorno dos autos à Corte regional, para que lá aguardasse a conclusão do julgamento do REsp 1.769.306/AL e REsp 1.769.209/AL (Tema 1.009/STJ), sob a sistemática dos recursos representativos de controvérsia repetitiva (fls. 1.009/1.011).
+Ultimado o julgamento em epígrafe, em novo juízo de admissibilidade do recurso especial da UNIÃO, o Vice-Presidente do TRF da 4ª Região negou-lhe em relação à matéria tratada no Tema 1.009/STJ, em face à compreensão de que "o Órgão Julgador  daquela  Corte decidiu a hipótese apresentada nos autos em consonância com o entendimento do(s) referido(s) Tribunal(is)" (fl. 1.030).
+Nada obstante, admitiu o apelo nobre quanto às demais matérias arguidas.
+A esse decisum foi interposto agravo interno (fls. 1.041/1.046), o qual restou desprovido (fls. 1.076/1.085).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Considerando-se que o presente recurso especial teve seu seguimento negado, na origem, ante a perspectiva de que o Tribunal de origem examinou a questão de mérito - estando prequestionada, portanto -, dando-lhe solução que está em harmonia com a tese firmada pela Primeira Seção desta Corte no julgamento do Tema 1.009/STJ, nada mais há a ser decido quanto a esse ponto.
+Nessa perspectiva, a questão remanescente - suposta ofensa ao art. 1.022 do CPC - encontra-se superada.
+Logo, o presente apelo nobre resta prejudicado.
+ANTE O EXPOSTO, declaro prejudicado o recurso especial.
+Publique-se.
