@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ (e-STJ fls. 200/205).
+O acórdão recorrido está assim ementado (e-STJ fl. 162):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE NUNCIAÇÃO DE OBRA NOVA C/C DEMOLIÇÃO - PRELIMINAR DE NULIDADE DA SENTENÇA - REJEIÇÃO - CONSTRUÇÃO PELO NUNCIADO DE RUFO PINGADEIRA - INDEVIDA UTILIZAÇÃO DO MURO DE DIVISA - OBRA EM FASE DE ACABAMENTO - PEDIDO DEMOLITÓRIO - MEDIDA EXCEPCIONAL PREJUÍZO DESPROPORCIONAL - DEMOLIÇÃO DESNECESSÁRIA - NECESSIDADE DE CONVERSAO EM PERDAS E DANOS. Presentes os requisitos da sentença previstos no art. 489 do CPC, incluindo o relatório e fundamentação, impõe-se a rejeição da preliminar de nulidade. Deve ser julgado improcedente o pedido deduzido em ação demolitória estando a obra em estado adiantado e ressoando que sua demolição acarretará prejuizo desproporcional em relação ao litígio estabelecido, impondo-se a conversão da ordem demolitória em eventual perdas e danos, o que deverá eventualmente ser postulado em procedimento próprio, eis que depende de pedido expresso do autor (art. 461, §10 do CPC).
+No recurso especial (e-STJ fls. 141/152), fundamentado no art. 105, III, "a", da CF, o recorrente alegou violação do art. 1.306 do CC/2002, pois é irregular a obra realizada pela parte recorrida.
+Sustentou negativa de vigência ao art. 489, I, do CPC/2015, visto que o relatório e a fundamentação não observaram os fatos e provas existentes nos autos
+No agravo (e-STJ fls. 208/222), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Em relação à tese de ofensa ao art. 489 1.022 do CPC/2015, a Corte local decidiu que (e-STJ fls. 164/165):
+Anote-se que a nulidade por ausência de fundamentação só se verifica quando não contiver elementos indispensáveis à formação do convencimento do Julgador. A concisão, brevidade ou mesmo deficiência na fundamentação não constituem justificativas à decretação de sua nulidade.
+Feitas essas considerações e ao exame da sentença proferida, consoante se infere da peça de fI. 1 09-TJ, verifica-se, ao contrário do que defende o apelante, que o relatório foi devidamente apresentado, ainda que de forma resumida, cumprindo a decisão, a contento, ao requisito exigido por lei.
+VerifÍca-se, também, que o d. Julgador externou os motivos pelos quais julgou improcedente a pretensão autoral e formou seu convencimento, de acordo com as provas produzidas nos autos.
+De se ressaltar, adõmais, que ao se réferir à suposta deficiência de fundarnehtação da sentença, o que pretende o apelante é indicar erros supostamente cometidos pelo Juízo na análise dos elementos de prova dos autos, o que na verdade constitui matéria de mérito, a ser examinada.
+Nesse contexto, tem-se que o provimento hostilizado está devidamente dotado de relatório, fundamentação e conclusão, não havendo que se falar em violação ao disposto no art. 489 do CPC.
+Para desconstituir a premissa estabelecida no acórdão recorrido, a fim de reconhecer que o relatório e a fundamentação da sentença não observou os fatos e provas dos autos, seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+Quanto à tese de violação do art. 1.306 do CC/2002, o TJMG, consignou que (e-STJ fls. 166/169):
+Na espécie, a presente ação de nunciação de obra nova foi proposta pelo ora apelante tendo como fundamento a construção irregular levada a cabo pelo apelado, que segundo ele se utilizou de toda a espessura do muro de divisa entre os terrenos, tendo retirado as telhas que cobriam o muro, em manifesto prejuízo.
+Primeiramente, ressalto que, conforme as fotografias juntadas pelo i. Perito às fls. 92196, percebe-se que a obra discutida nestes autos já se encontra concluída ou em fase de acabamento, razão pela qual o pedido de embargo da construção resta prejudicado.
+Contudo, entendo que persiste o interesse do autor, ora apelante, na demolição de eventual parcela da construção ou mesmo de sua integralidade, caso sejam constatadas as irregularidades e os prejuízos por ele alegados. Frise-se, neste aspecto, que a pretensão demolitória foi expressamente deduzida na inicial (fI. 06) e subsiste no estado em que a obra atualmente se encontra.
+Fixada a premissa de que a pretensão demolitória deve ser apreciada, no caso especifico, todavia, não vislumbro razões suficientemente convincentes para a demolição almejada pelo autor/apelante.
+Em sua inicial, o autor busca o embargo da obra vizinha e restabelecimento do muro de divisa entre os imóveis à condição similar, asseverando que o demandado retirou as telhas que cobriam o muro e vem levantando uma fileira de tijolos em cima deste muro, sem qualquer aviso.
+Com efeito, para fins de veriticação quanto à eventual irregularidade da obra levantada pelo demandado, foi determinada a realização de perícia técnica judicial. Em resposta aos quesitos elaborados pelo autor, consignou o  xpert:
+(..)
+Afirmou, ainda, o i. Perito, que existem telhas quebradas no lote do autor oriundas da construção da varanda pelo réu.
+Importa destacar que o expert concluiu que o réu se utilizou de toda a espessura do muro de divisa para fazer o rufo pingadeira, o que é proibido, destacando os artigos 1.300, 1.304 e 1.305 do CC/2002, que assim dispõem:
+(..)
+Destarte, restou constatada pela perícia irregularidade na construção do rufo pingadeira pelo demandado, que fora apoiado sobre toda a espessura do muro de divisa, ocasião em que retirou as telhas de cobertura que ali se encontravam, como mostram as fotografias de fls. 93/94.
+Não obstante, não se verifica infração ao art. 1.300 do Código Civil, porque as águas de chuva não são despejadas sobre o imóvel do autorem razão da existência da calha, que se encontra no interior do imóvel do demandado.
+Deflui dos autos, pois, que a construção, embora irregular, em nada prejudica o terreno do nunciante, que teve apenas prejuízos com a retIrada das telhas que cobriam o muro divisório e colocação do rufo pingadeira sobre toda a exténsão do muro.
+É de se ter presente que a pretensão demolitória, em razão do caráter irreversível que lhe é próprio, é medida de aplicabilidade excepcional, reservada às hipóteses em que a conservação da coisa represente prejuízo concreto - e não puramente potencial - à esfera jurídica de outros individuos.
+Mais que a mera arguição genéiica, é necessária prova específica de quê o descumprimento de ato normativo determinado torna arriscada a permanência da obra.
+E não é o que se vislumbra no caso em exame, logo, não há razão suficiente para justificar um comando demolitório.
+Nesse panorama, sendo certo que a demolição da obra construída irregularmente acarretaria vultoso prejuízo ao réu, sem razoável vantagem para o autor, o mais justo, a meu ver, é converter o prejuízo do autor em perdas e danos, o que deverá eventualmente ser postulado em procedimento próprio, eis que depende de pedido expresso do autor (ad. 461, §10 do CPC).
+O Tribunal de origem decidiu que a pretensão demolitória é medida de caráter excepcional, que necessita de prova da ocorrência de prejuízo concreto à parte, o que não foi comprovado nos autos. Novamente para desconstituir a premissa estabelecida no acórdão recorrido exigiria a apreciação das provas dos autos, incidindo a Súmula n. 7/STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
