@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ CARLOS MILOCHI contra decisão que inadmitiu o recurso especial por não ter sido o dissídio jurisprudencial demonstrado nos moldes estabelecidos pelos arts. 1.029, § 1º, do CPC e 255 do Regimento Interno do Superior Tribunal de Justiça.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação n. 0035086-08.2019.8.16.0014) nos autos de ação declaratória de inexistência de dívida cumulada com pedido de indenização.
+O acórdão foi assim ementado (fls. 283-84):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA CUMULADA COM REVISIONAL DE CONTRATO E INDENIZAÇÃO (AUTOS 0034397-61.2019.8.16.0014) E AÇÃO DECLARATÓRIA DE INEXISTENCIA DE DÍVIDA CUMULADA COM PEDIDO DE INDENIZAÇÃO (AUTOS 0035086-08.2019.8.16.0014). SENTENÇA ÚNICA QUE JULGOU PARCIALMENTE PROCEDENTE A AÇÃO DECLARATÓRIA C/C REVISIONAL E IMPROCEDENTE A AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C INDENIZAÇÃO. INSURGÊNCIA EM AMBOS OS FEITOS ATRAVÉS DE RECURSOS DE APELAÇÃO. ANÁLISE EM CONJUNTO.
+1. PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. EXPOSIÇÃO CLARA DAS CIRCUNSTÂNCIAS E DOS MOTIVOS QUE FORMARAM O LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. MERO INCONFORMISMO DA AUTORA QUANTO AO MÉRITO DA DECISÃO. PRELIMINAR QUE NÃO SERVE PARA DISCUTIR MÉRITO.
+2. INSURGENCIA QUANTO A AUSENCIA DA COMUNICAÇÃO DE VENDA DO VEÍCULO EM LEILÃO E AUSENCIA DE DESNECESSIDADE DE INTIMAÇÃO ACERCA DOS ATOS DA ALIENAÇÃO EXTRAJUDICIAL, CONSOLIDAÇÃO DA PROPRIEDADE EM FAVOR DO BANCO REQUERIDO EVIDENCIADA. PRECEDENTES. NOTA DE VENDA EM LEILÃO EXPEDIDA POR LEIOLEIRO OFICIAL. PRETENSÃO DE PRESTAÇÃO DE CONTAS. NÃO 1.2.1. ACOLHIMENTO. DOCUMENTOS APRESENTADOS QUE SE MOSTRAM O SUFICIENTE PARA VERIFICAÇÃO DE EVENTUAL CRÉDITO.
+3. APLICAÇÃO DA TABELA FIPE NA VENDA DO VEÍCULO SOB ARGUMENTO DO PREÇO VIL DA VENDA. NÃO OCORRENCIA. VALOR BASEADO NO ESTADO DE CONSERVAÇÃO DO CARRO. CARRO COM AVARIAS. NOTÓRIO QUE BENS VENDIDOS EM LEILÃO TEM PREÇO ABAIXO DE MERCADO.
+APELAÇÕES CIVEIS CONHECIDAS E DESPROVIDAS.
+Nas razões do recurso especial, o recorrente aponta divergência jurisprudencial a respeito de ser ou não necessário comunicar ao devedor fiduciante a venda extrajudicial do bem objeto de alienação fiduciária. Aduz que a comunicação é devida em razão do fiel cumprimento d o dever de informação e transparência previsto no art. 6º, VIII, do CDC.
+Defende que o acórdão recorrido não apresentou fundamentação apta para não aplicar o precedente invocado.
+Requer o provimento do recurso para que seja cassada a decisão recorrida.
+É o relatório. Decido.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
