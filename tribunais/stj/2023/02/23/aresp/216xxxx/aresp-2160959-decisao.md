@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado pela Associação Estadual de Municípios do Rio de Janeiro - AEMERJ contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 921):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. RESSARCIMENTO DE DANOS AO ERÁRIO MUNICIPAL. REPASSE DE VERBAS, DO MUNICÍPIO DE MACAÉ À CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS E À ASSOCIAÇÃO ESTADUAL DE MUNICÍPIOS DO RJ SEM AUTORIZAÇÃO LEGISLATIVA. SENTENÇA DE PROCEDÊNCIA. RECURSO DO MUNICÍPIO E DA CONFEDERAÇÃO NACIONAL DE MUNICÍPIO. Rejeição das preliminares arguidas. Legitimidade passiva do Município. Pertinência subjetiva da demanda. Abstenção do repasse de verbas. Legitimidade ativa do Ministério Público para a proteção do patrimônio público mediante propositura de ação civil pública. Inteligência do artigo 129, III, da CRFB/88. Súmula nº 329, do STJ.
+- No mérito, o repasse de verbas a entidade de direito privado sem previsão legal viola o princípio da legalidade. -Inexistência de discricionariedade do administrador público, que apenas pode fazer o que lhe é permitido por lei.
+- A Constituição Estadual, apenas no ano de 2011, com a Emenda 47/2011, é que estabeleceu a faculdade aos Municípios de se associarem às rés, inclusive com pagamento de contribuição. Insuficiência da previsão orçamentária da contribuição para o reconhecimento da sua legalidade.
+- Ilicitude do repasse que acarreta o prejuízo ao patrimônio público municipal. Ressarcimento dos valores que se impõe.
+- Obrigatoriedade do pagamento da taxa judiciária pelo Município. Súmula nº 145, do STJ. DESPROVIMENTO DOS RECURSOS.
+Opostos embargos declaratórios pela parte embargante, foram rejeitados ante a inexistência dos vícios elencados no art. 1022 do CPC. Os aclaratórios opostos pela Confederação Nacional de Municípios foram acolhidos, sem efeitos modificativos (fls. 1043/1053).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos seguintes dispositivos de lei:
+(I) arts. 489, § 1º, e 1022, II, do CPC, ao argumento de que o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia, concernentes à prescrição e aos fundamentos que levaram a Corte Estadual a desconsiderar precedentes do Superior Tribunal de Justiça;
+(II) Decreto n. 20.910/32, porquanto incide, na hipótese, o prazo prescricional quinquenal;
+(III) arts. 53 e 54 do CC e 5º, XVII, da Constituição Federal, uma vez que o acórdão recorrido "negou a possibilidade de os municípios se associarem entre si em torno de uma entidade municipalista, uma associação civil de municípios, e de contribuírem para a manutenção dessa entidade.", entendimento que, segundo alega, atenta "contra os princípios da legalidade, moralidade, impessoalidade e isonomia." (fl. 1197);
+(IV) arts. 2º e 84, II, da Constituição Federal, porquanto não se verifica ofensa ao princípio da legalidade nas contribuições objeto da ação civil pública, as quais estão previstas no orçamento municipal, e que se insere "dentro dos limites da competência do Prefeito Municipal, sem necessidade que a Câmara Legislativa aprove esses pagamentos em uma lei específica" (fl. 1202).
+O Ministério Público Federal opinou pelo não provimento do agravo, nos termos assim resumidos (fl. 1947):
+AGRAVO EM RECURSO ESPECIAL.
+ILÍCITO CIVIL. RESSARCIMENTO DE DANO AO ERÁRIO.
+AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+ACÓRDÃO FUNDAMENTADO EM MATÉRIA CONSTITUCIONAL. PRINCÍPIO DA LEGALIDADE.
+IMPOSSIBILIDADE DE REVISÃO NA VIA ELEITA. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+PARECER PELO DESPROVIMENTO DOS AGRAVOS EM RECURSO ESPECIAL.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre os temas tidos como olvidados, a Corte Estadual consignou (fls. 1049/1052):
+Ressalte-se que os precedentes apresentados não têm força vinculante tampouco houve julgamento em sede de recurso repetitivo, não sendo obrigatória, portanto, a sua adoção.
+(..)
+Nessa perspectiva, especificamente quanto à prescrição, posto que o Acórdão sobre ela não se manifestou, tem-se que não se verifica a sua ocorrência, tendo em vista que há o entendimento do Superior Tribunal de Justiça acerca da imprescritibilidade da ação civil pública ajuizada com o objetivo de promover o ressarcimento de prejuízos ao erário. Neste sentido, destaca-se o Informativo nº 381, do STJ, bem como os seguintes julgados desse Tribunal Superior e deste Tribunal de Justiça:
+(..)
+Tal entendimento se fundamenta em norma constitucional que ressalva as hipóteses de ressarcimento de prejuízos ao erário ao determinar a prescritibilidade das ações para apuração e punição por ato ilícito praticado por qualquer agente que cause aqueles danos.
+Assim dispõe o artigo 37, §5º da Constituição da República: § 5º - A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento.
+Não ficou configurada, pois, omissão passível de ser sanada na via do recurso especial.
+Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, XVII, 2º e 84, II, XXX da Constituição Federal.
+Verifica-se que, embora a parte recorrente tenha indicado ofensa ao Decreto n. 20.910/32, não apontou, com precisão, qual dispositivo legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica à lei federal, sem particularização precisa dos dispositivos malferidos, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Acerca do tema, os seguintes julgados ganham relevo: AgInt no REsp 1894935/PR, Rel. Ministra Assusete Magalhães, DJE 22/3/2021; AgInt no AREsp 1689201/PB, Rel. Ministro Raul Araújo, DJE 22/3/2021; AgInt no AREsp 1738090/SP, Rel. Ministro Herman Benjamin, DJE 1º/3/2021.
+Quanto à alegada violação aos arts. 53 e 54 do Código Civil, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados
+No ponto, a Corte Estadual asseverou que "não se está discutindo a legalidade da associação e da confederação rés, mas da contribuição paga às mesmas pelo Município em razão de sua afiliação." (fl. 925).
+O entendimento consignado no acórdão não supre o requisito do prequestionamento das teses sustentadas no apelo nobre, em que a parte agravante aduz que o decisum objurgado "negou a possibilidade de os municípios se associarem entre si em torno de uma entidade municipalista, uma associação civil de municípios, e de contribuírem para a manutenção dessa entidade.", entendimento que, segundo alega, atenta "contra os princípios da legalidade, moralidade, impessoalidade e isonomia." (fl. 1197).
+Assim, constatando-se que a matéria alegada não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Fica prejudicada, pelos mesmos motivos, a análise do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
