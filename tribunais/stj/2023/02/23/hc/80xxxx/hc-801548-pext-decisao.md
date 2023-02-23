@@ -1,0 +1,10 @@
+DECISÃO
+MEZAQUE FERREIRA DA SILVA JUNIOR postula a extensão dos efeitos da decisão proferida às fls. 136-145, em que concedi a ordem para readequar a pena imposta à paciente.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Na hipótese, vejo que a situação do postulante é similar à da paciente beneficiada com a concessão da ordem neste writ.
+A ordem foi concedida com base nas seguintes premissas: a) a quantidade de droga apreendida - 43,3 g de cocaína, 4,3 g de crack e 200,8 g de maconha - não é tão elevada para justificar a exasperação da pena-base; b) não foi indicada motivação idônea para refutar a aplicação da minorante; com a redução da pena de reclusão para 1 ano e 8 meses, é cabível a imposição do regime inicial aberto e a substituição por medidas restritivas de direitos.
+A leitura do acórdão proferido pelo Tribunal a quo permite verificar que a fundamentação da dosimetria da pena é idêntica para o ora postulante, que também viu sua pena-base ser fixada acima do mínimo em razão da natureza das drogas apreendidas e teve negada a aplicação do redutor, sem menção a argumentos bastantes para tanto.
+Logo, é caso de extensão dos efeitos da ordem anteriormente concedida.
+À vista do exposto, defiro o pedido de extensão para: a) afastar a valoração negativa da natureza da droga na primeira fase da dosimetria da pena; b) reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor da acusada, aplicá-la no patamar de 2/3; c) readequar a sua reprimenda para 1 anos e 8 meses de reclusão e pagamento de 166 dias-multa; d) fixar o regime aberto; e) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado (Processo n. 1500416-57.2020.8.26.0594).
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
