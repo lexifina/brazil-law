@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, CPC), interposto pelo INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL contra decisão que não admitiu o recurso especial da parte insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido em apelação cível pelo Tribunal de Regional Federal da 3ª Região, assim ementado:
+REMESSA OFICIAL E APELAÇÃO. PROPRIEDADE INDUSTRIAL. LEGITIMIDADE PASSIVA DO INPI. NULIDADE DE REGISTRO. DEVIDA. EXPRESSÕES SEMELHANTES QUE ATUAM EM MESMO RAMO MERCADOLÓGICO. POSSIBILIDADE DE CONFUSÃO OU ASSOCIAÇÃO ENTRE MARCAS AOS CONSUMIDORES. VEDAÇÃO DE REGISTRO. ARTIGO 124, INCISO XIX, DA LEI N. 9.279/1996. RECURSO NÃO PROVIDO
+1. Preliminarmente, tendo em vista que a controvérsia dos autos reside no pedido de anulação de ato de registro de propriedade industrial pelo INPI, é inegável a sua legitimidade passiva. Precedente do C. STJ.
+2. No mérito, a controvérsia dos autos consiste em apurar se é devida a anulação do registro n. 9012211066 da marca "Forte Embalagens" em razão do registro anterior da marca "Fort Paletes". Compulsando-se os autos, verifica-se que tanto a parte autora quanto a primeira ré atuam no mesmo ramo de atividades, comercializando embalagens de madeira. Desta forma, conquanto ambas expressões tenham apostilamento que prevê o registros em direito ao uso exclusivo dos elementos nominativos, por ser expressão de uso comum, a utilização da expressão "Fort" por uma e "Forte" por outra tem o condão de causar confusão ou associação entre as marcas aos consumidores na hora da compra das embalagens de madeiras.
+3. Cabe destacar que, diante dessa potencial confusão aos consumidores, que se tratam do mesmo público-alvo, a marca da primeira ré não é registrável, nos termos do artigo 124, inciso XIX, da Lei n. 9.279/1996. Precedentes.
+4. Por fim, a parte apelante foi sucumbente na ação, razão pela qual é devida a sua condenação ao pagamento de honorários advocatícios. A alegação de que a parte autora não apresentou oposição administrativa ao registro cancelado nos presentes autos é insuficiente para isentá-la dos ônus sucumbenciais, os quais decorrem do processo judicial.
+5. Remessa oficial e apelação não providas.
+Nas razões do recurso especial (fls. 166-182, e-STJ), alega a insurgente violação ao artigo 57 da Lei 9.279/1996. Sustenta, em síntese, a impossibilidade de condenação do INPI em honorários advocatícios, porquanto apenas interveio no feito na forma legalmente prevista.
+Contrarrazões às fls. 450-453, e-STJ.
+O reclamo foi inadmitido na origem (fls. 455-456, e-STJ) ante a incidência da Súmula 7/STJ, dando ensejo ao o presente agravo (fls. 459-465, e-STJ), visando destrancar a insurgência.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A jurisprudência do STJ já se posicionou no sentido de que o INPI desempenha função própria, mediante intervenção sui generis, nos processos de anulação de registro de marca. Em face disso, nem sempre se comportará como litisconsorte passivo, devendo a sua legitimidade e os consectários da sua atuação processual tomarem em consideração a função efetivamente exercida no caso concreto.
+Na hipótese, o INPI figurou no polo passivo da demanda, tendo sido condenado a efetuar o cancelamento da marca diante da demonstração pela parte da autora de que efetuou "o depósito antes da segunda ré, muito embora esta tenha obtido o registro primeiro" (fl. 341 e-STJ).
+Desse modo, a causa de pedir da recorrida inclui erro no registro, situação imputável exclusivamente à autarquia. Daí se extrai que o INPI possui legitimidade passiva para figurar na causa.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE NULIDADE DE CONCESSÃO DE REGISTRO DE MARCA. MARCA DE USO GENÉRICO. INPI. LEGITIMIDADE PASSIVA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. "Não há ilegitimidade passiva do Instituto Nacional de Propriedade Industrial-INPI em ação que busca invalidar decisão administrativa proferida pela autarquia federal no exercício de sua atribuição de análise de pedidos de registro marcário, sua concessão e declaração administrativa de nulidade. Assim, quando a causa de pedir da ação de nulidade disser respeito a vício cometido pelo próprio INPI ao longo do processo administrativo, haverá legitimidade da autarquia para figurar no processo como litisconsorte passivo" (AgInt no AgInt no REsp 1.493.591/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2019, DJe de 20/08/2019).
+2. No caso, como o pedido versa sobre a declaração de nulidade do registro de marca concedida pelo INPI, as instâncias ordinárias reconheceram a legitimidade da autarquia para figurar no polo passivo da lide, acentuando que o INPI deferiu o registro da marca e não adotou nenhuma providência no âmbito administrativo para corrigir eventual nulidade ou ilegalidade.
+3. O princípio da causalidade reza que o ônus da sucumbência deve ser suportado pela parte que deu causa ao ajuizamento da ação. Na hipótese, quem deve arcar com os ônus sucumbenciais não é apenas a empresa ré, mas também o INPI, que efetuou o registro equivocado, também dando causa ao ajuizamento da ação.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.564.626/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 24/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE REGISTRO C/C OBRIGAÇÃO DE FAZER E ANTECIPAÇÃO DE TUTELA. VIOLAÇÃO DO ART. 535 DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO. LEGITIMIDADE PASSIVA. INPI. PROCEDÊNCIA DO PEDIDO. HONORÁRIOS DE SUCUMBÊNCIA. PRECEDENTES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O agravante não rebate a preliminar de ausência de prestação jurisdicional, insurgindo-se contra o resultado que lhe foi adverso.
+Incide a Súmula n. 182/STJ.
+2. Esta Corte Superior entende o Instituto Nacional de Propriedade Industrial como parte legítima para figurar no polo passivo de ação que busca invalidar decisão administrativa, proferida pela autarquia federal no exercício de sua competência de análise de pedidos de registro de marca, sua concessão e declaração administrativa de nulidade, como no caso dos autos. Incidência da Súmula n. 83 do STJ.
+3. A jurisprudência do STJ é firme sobre a condenação do INPI nos honorários sucumbenciais no caso de procedência do pedido da autora, conforme o art. 26 do CPC (art. 90 do CPC/2015), se o recorrente deu causa à propositura da demanda.
+4. Não há como rever a conclusão do acórdão sobre a condenação da autarquia na verba sucumbencial, tampouco acolher a pretensão recursal de afastamento dos honorários advocatícios sob o argumento de que não teria dado causa à lide, pois isso demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ. Em hipóteses excepcionais, quando exorbitante ou irrisória a importância arbitrada, o referido óbice pode ser afastado, o que não ocorre na presente circunstância, pois a verba de sucumbência foi fixada em R$ 3.000,00 (três mil reais) para cada um dos réus, decisão mantida pelo TRF da 4ª Região.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.473.097/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 1/10/2020.)
+RECURSO ESPECIAL. DIREITO DA PROPRIEDADE INDUSTRIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE NEGATIVA JURISDICIONAL. AÇÃO ANULATÓRIA. POSIÇÃO DO INPI. HONORÁRIOS RECURSAIS. DESCABIMENTO. HONORÁRIOS SUCUMBENCIAIS NÃO DEVIDOS AO ASSISTENTE ESPECIAL. HONORÁRIOS RECURSAIS. NECESSIDADE DE PRÉVIA FIXAÇÃO NA ORIGEM.
+I. Controvérsia em torno da possibilidade de serem arbitrados honorários recursais em favor do INPI quando do provimento de apelação por ele interposta em demanda anulatória de registro de desenho industrial julgada procedente, sendo acolhidos os pedidos formulados pela parte autora.
+II. Não há falar em negativa de prestação jurisdicional quando o tribunal de origem explicitou, no julgamento dos embargos de declaração, o motivo pelo qual entendeu ser descabida a fixação de honorários recursais.
+III. Nas ações anulatórias de direito de propriedade industrial, a pretensão do autor se volta não apenas contra o titular do direito, mas também contra ato administrativo do INPI, a quem compete examinar os requisitos e conceder o direito de exclusividade temporária conferido pelo Estado.
+IV. Eventualmente, porém, a depender da causa de pedir e dos pedidos formulados pelo autor, o INPI pode vir a ocupar a posição de assistente especial, quando então não serão devidos honorários advocatícios aos seus patronos.
+V. Os honorários advocatícios apenas podem ser majorados em grau recursal, nos termos do art. 85, § 11, do CPC, quando eles tiverem sido fixados desde a origem. Precedentes.
+VI. Caso concreto em que os honorários foram fixados na origem, porém apenas ao autor, e não ao INPI.
+VII. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.865.156/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 8/9/2020.)
+Ante a consonância do acórdão recorrido com o entendimento firmado no âmbito desta Corte acerca da matéria, incide o teor da Súmula 83/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
