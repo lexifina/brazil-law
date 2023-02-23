@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDRÉ GEAN PEREIRA TRAJANO contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado da Paraíba em Apelação n. 0052964-02.2014.8.15.2001 nos autos de ação de indenização por danos morais e materiais e obrigação de fazer.
+O julgado foi assim ementado (fls. 276-277):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO PORDANOS MORAIS E MATERIAIS C/C OBRIGAÇÃO DEFAZER. CONTRATO DE CARTÃO DE CRÉDITOCONSIGNADO. DESCONTOS REFERENTES AO VALORMÍNIMO DA FATURA. ALEGADA FORMALIZAÇÃO DECONTRATO EM MODALIDADE DIVERSA DAPRETENDIDA PELO CONSUMIDOR. IMPROCEDÊNCIADOS PEDIDOS. IRRESIGNAÇÃO. ALEGADA VIOLAÇÃODO DEVER DE INFORMAÇÃO PREVISTA NO CÓDIGO DEDEFESA DO CONSUMIDOR. INEXISTÊNCIA DEVIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ OBJETIVA. INFORMAÇÕES CLARAS E EXPRESSAS NO CONTRATO ASSINADO PELO CONSUMIDOR. DANO MORALINEXISTENTE. APELO DESPROVIDO.
+- Nos termos do artigo 6º do CDC, tratando-se de contrato de adesão, cabe à parte que redige as suas cláusulas, consignar, com clareza, todas as obrigações assumidas pelos contratantes, sob pena de violação dos princípios contratuais da transparência e da informação.
+- Comprovado nos autos que o autor tomou conhecimento sobre a natureza da avença firmada - empréstimo e cartão de crédito consignado - não merece reforma a sentença, que julgou improcedentes os pedidos de devolução dos valores e de danos morais.
+- Apelo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 6º, III, 14, 39, IV, 47 e 51, IV e VI do CDC, uma vez que a parte recorrida não prestou informações adequadas e claras a respeito do serviço contratado e ainda negou acesso à cópia do contrato de adesão firmado.
+Alega que "vem sofrendo com uma série de descontos indevidos em sua folha de pagamento referentes a um cartão de crédito consignado, que não foi contratado pelo Embargante. Insta salientar que o serviço contratado com o Banco foi de um empréstimo consignado e o Embargante não recebeu nenhuma cópia do contrato" (fl. 342), caracterizando má-fé do banco que gerará indenização por danos morais.
+Aduz divergência jurisprudencial.
+Requer o provimento do recurso para reforma do acórdão recorrido, além da cessação da cobrança do valor mínimo do cartão de crédito consignado.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A insurgência da parte recorrente diz respeito à alteração da modalidade contratual pactuada, ao argumento de que, levado por informações insuficientes, acreditava estar celebrando contrato de empréstimo consignado quando, na verdade, contratava cartão de crédito consignado.
+No caso, a Corte estadual, com base nos elementos probatórios dos autos, concluiu que não houve desconhecimento da modalidade contratada, nem desconhecimento de informação da operação bancária ao adquirente do crédito, não fazendo jus à indenização. Seguem trechos do julgado (fls. 280-283, destaquei):
+Ao exame dos autos, verifico que sustentou o autor ter sido induzido a erro pelo banco promovido, já que não tinha a intenção de contratar cartão de crédito consignado, mas um financiamento bancário.
+ ..
+Consta no contrato de id Num. 9498890 - Pág. 47. a FICHA CADASTRAL E PROPOSTA DE ADESÃO A CONSIGNAÇÃO DE DESCONTO PARA PAGAMENTO DE EMPRÉSTIMOS E CARTÃO DE CRÉDTO BONSUCESSO VISA, na qual consta autorização de desconto na remuneração/salário do servidor inclusive para pagamento de valor mínimo da fatura mensal do cartão de crédito, não havendo que se falar em desconhecimento de tal cláusula, tampouco ausência de informações. Quanto ao pedido de modificação da sentença para reconhecer a existência de danos morais, tenho que também não merece guarida. Em se tratando de responsabilidade civil, cumpre perquirir a ocorrência dos requisitos que a ensejam e, por conseguinte, geram o dever de indenizar.
+ ..
+Assim, para que se reconheça o cabimento da indenização, mostra-se necessária a constatação da conduta antijurídica que gere dano, bem como o nexo de causalidade entre a conduta e o dano.
+Portanto, não restando comprovada a conduta ilícita, culposa e comissiva por parte da instituição financeira, não há como modificar o julgado neste ponto.
+Para rever as referidas conclusões e reconhecer a efetiva contratação de contrato na modalidade de empréstimo consignado em vez de cartão de crédito, seria imprescindível a análise de cláusulas contratuais e o reexame de provas, o que é inadmissível nesta instância extraordinária em razão do disposto nas Súmulas n. 5 e 7 do STJ.
+Quanto ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 d o CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Indique-se.
