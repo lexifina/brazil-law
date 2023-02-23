@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por HELENY VALENTIM BARBOSA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado (e-STJ fls. 301/302):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO SENTENÇA COLETIVA. SERVIDORES EXONERADO EM 15.08.2008. FÉRIAS VENCIDAS. FÉRIAS PROPORCIONAIS. DÉCIMO TERCEIRO PROPORCIONAL. ILEGITIMIDADE AD CAUSAM EVIDENCIADA. APLICAÇÃO EFEITO TRANSLATIVO. DEMANDA ORIGINÁRIA EXTINTA. RECURSO PROVIDO.
+1. Cumprimento da sentença proferida nos autos nº 5002004- 78.2008.827.2729, que reconheceu o direito ao recebimento de valores relativos às férias proporcionais, férias vencidas e décimo terceiro proporcional dos servidores exonerados através do ATO n.º 2.871-EX.
+2. No caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada (Precedentes STJ). Na espécie, a parte recorrida não integra aludida listagem e, portanto, não possui legitimidade para propor o cumprimento da sentença.
+3. Uma vez evidenciada a ilegitimidade ad causam da parte exequente, imperativa se torna a extinção da demanda, conquanto por meio da atribuição de efeito translativo - conferido a todo recurso - a segunda instância pode extinguir, mesmo em Agravo de Instrumento, o processo originário sem resolução do mérito em razão da constatação de causa que obsta seu prosseguimento, desde que, para tanto, seja assegurado às partes o exercício do direito fundamental ao contraditório (art. 5º, LV, CRFB), como ocorreu na espécie.
+4. Agravo de Instrumento conhecido e provido. Mediante aplicação de efeito translativo ao recurso, extingue-se a demanda originária sem resolução do mérito, nos termos do artigo 485, VI do CPC.
+Rejeitados os aclaratórios (e-STJ fls. 341/349 e 392/400).
+Nas suas razões, a parte recorrente aponta violação dos arts. 141, 489, § 3º, 490 e 492 do CPC/2015, sustentando, em síntese, sua legitimidade para execução individual de julgado coletivo.
+Contrarrazões às e-STJ fls. 435/454.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 460/461.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que toca à alegação de contrariedade dos arts. 141, 489, § 3º, 490 e 492 do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis : "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, o acórdão combatido entendeu que " ..  o título exequendo não assegurou o direito ao pagamento aos associados, nem à categoria representada pelo sindicato autor, mas sim a um grupo específico e limitado de filiados, conforme a expressa consignação do comando sentencial no sentido de que apenas servidores elencados no rol presente nos autos é que seriam beneficiados" (e-STJ fls. 290/291).
+Assim, verifica-se, no acórdão r ecorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
