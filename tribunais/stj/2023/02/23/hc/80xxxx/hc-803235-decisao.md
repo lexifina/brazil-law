@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rones de Paula Silva Filho - preso preventivamente pela prática, em tese, dos crimes de tráfico de drogas e associação para o mesmo fim, posse ilegal de arma de fogo de uso restrito, receptação simples, resistência e desobediência - , em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou a ordem ali impetrada (Habeas Corpus n. 1.0000.23.007137-5/000), mantendo a segregação cautelar imposta pelo Juízo de Direito do plantão judicial da comarca de Ituiutaba/MG (Autos n. 5000018-45.2023.8.13.0598).
+Alega o impetrante, em síntese, constrangimento ilegal na decretação da prisão cautelar imposta ao paciente, pois, após a prisão em flagrante, o paciente teve a prisão em flagrante convertida em preventiva, pelo Juiz de Direito da comarca de Santa Vitória/MG, sob o fundamento de estar em risco a ordem pública, baseando-se o juízo em fundamentos abstratos, sem a individualização da conduta do agente, procedendo o juízo de forma genérica, sem se utilizar de qualquer conteúdo probatório concreto extraído dos autos que ampare a decisão (fl. 4).
+Postula, ao final, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+É o relatório.
+O presente writ não comporta processamento.
+Da análise da decisão que decretou a prisão preventiva do imputado, observa-se que a segregação cautelar se encontra justificada na periculosidade concreta e probabilidade de reiteração delitiva do paciente e demais investigados, pois o Magistrado singular se referiu ao fato de que, após denúncia anônima da prática de vários crimes, os flagranteados foram surpreendidos por militares com quantidade considerável de drogas, armas sem autorização legal e veículos roubados (fl. 34), a evidenciar a insuficiência da substituição da segregação cautelar por medidas alternativas à prisão.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO, POSSE IRREGULAR DE ARMA DE FOGO DE USO RESTRITO E RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. APREENSÃO DE GRANDE QUANTIDADE DE ENTORPECENTES, ALÉM DE ARMAS DE ALTO CALIBRE.
+1. "A prisão preventiva é cabível mediante decisão fundamentada em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts.
+12, 313 e 315 do Código de Processo Penal" (AgRg no HC n. 760.394/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+2. No caso, não há falar-se em ausência de idoneidade do decreto prisional, pois proferido diante da gravidade das condutas imputadas ao réu, ora agravante, com a apreensão de "grande quantidade de substância entorpecente (6,422 kg de cocaína em 8 porções e 1.030 gramas de crack), um Revólver, calibre .38 marca Taurus, uma pistola .380, munições bélicas, balança, máquina de cartão, recibos e caderno com anotações diversas, além de uma grande quantidade de dinheiro escondida em fundo falso, a qual totalizava o montante de R$ 341.696,00 (trezentos e quarenta e um mil e seiscentos e noventa e seis reais)". Precedentes desta Corte.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 768.664/RS, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 15/12/2022 - grifo nosso)
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM, POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO, RESISTÊNCIA, RECEPTAÇÃO E DESOBEDIÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE CONCRETA E PROBABILIDADE DE REITERAÇÃO DELITIVA DEMONSTRADAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
