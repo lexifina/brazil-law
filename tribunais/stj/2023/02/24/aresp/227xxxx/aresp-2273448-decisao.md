@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO PAN S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. AÇÃO ANULATÓRIA DE MULTA ADMINISTRATIVA APLICADA PELO PROCON. INSTITUIÇÃO FINANCEIRA. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS. IRRESIGNAÇÃO DA PARTE AUTORA (fl. 216).
+Quanto à controvérsia recursal, pela alínea "a" e alínea "c" do permissivo constitucional, alega violação e divergência jurisprudencial acerca do art. 57 do CDC, no que concerne à falta de proporcionalidade e razoabilidade do valor da multa aplicada, uma vez que não se realizou a análise adequada dos critérios legais da vantagem auferida e da gravidade da infração, trazendo os seguintes argumentos:
+De fato, mostra-se imperiosa a admissibilidade do presente recurso, eis que o V. Acórdão proferido pelos Doutos Julgadores do Tribunal de Justiça do Rio de Janeiro, contrariou o art. 57 do CDC ao manter a multa originariamente aplicada pelo Recorrido.
+Saliente-se que a Recorrente não almeja o simples reexame de provas, o que seria incabível em sede de Recurso Especial (Súmula STJ nº 7), mas sim a reforma do V. Acórdão tendo em vista que na quantificação da multa o Recorrido não observou o critério da vantagem auferida de forma adequada, frente aos critérios legais do art. 57 do CDC.
+Em que pese a patente violação ao preceito legal, entenderam os D.
+Desembargadores que os critérios foram devidamente observados na planilha de cálculos da penalidade acostada no processo. Destaca-se tal ponto do julgado recorrido:
+ ..
+Além da Lei ser clara aos dispor quais são os critérios legais para imposição de multa pelo Procon, como se vê no art. 57 do CDC: I) Gravidade da Infração; II) Vantagem Auferida; III) Condição Econômica do Fornecedor, os Tribunais são uníssonos ao afirmar que a multa imposta deverá observar todos os requisitos legais do referido artigo.
+Haja vista que o v. acórdão fundamentou a mantença da multa unicamente com base na suposta observância de todos os critérios legais, conforme se vê no trecho extraído do v. acórdão recorrido logo abaixo, é indubitável que o Tribunal a quo conferiu interpretação diversa! (fls. 259- 261)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto ao valor da multa, ressalte-se que devem ser observados os critérios estabelecidos no art. 57 do CDC, bem como as regras previstas no artigo 24 do Decreto 2.181/97 e no artigo 37 da Lei Estadual nº 6.007/11.
+ ..
+Nesse particular, imperiosa a clivagem entre os parâmetros legais e a planilha de cálculos efetuada no processo administrativo (indexador 53; fls. 61).
+ ..
+Dessa forma, deve-se destacar a inexistência de vício nos critérios estabelecidos para a aferição da receita bruta da empresa para o fim de cálculo no auto de infração, podendo ser realizada por estimativa do órgão administrativo, conforme consta na portaria PROCON 06/2014, eis que autorizada pela Lei Estadual nº 6.007/2011:
+ ..
+Registre-se, nesse ponto, não ter a apelante utilizado os meios indicados na legislação de regência para impugnar o valor atribuído pelo PROCON, porquanto caberia à recorrente juntar os documentos necessários a fim de afastar a rubrica estimada pela Autarquia, consoante art. 36, §1º, da Lei Estadual nº 6.007/2011:
+ ..
+Logo, não há como acolher o argumento sustentado pela apelante, porquanto a própria legislação de regência oferece meios para o interessado afastar o montante estimado pela Autarquia, deixando a recorrente de carrear aos autos os documentos e provas indicados na norma, com o escopo de afastar a suposta ilegalidade (fls. 226- 229).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
