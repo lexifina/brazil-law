@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por BANCO J SAFRA S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 220, e-STJ):
+APELAÇÃO CÍVEL. BUSCA E APREENSÃO. CONSTITUIÇÃO EM MORA DO 4 o DEVEDOR. NOTIFICAÇÃO. NECESSIDADE DA JUNTADA DO AVISO DE RECEBIMENTO. ART. 2º, 82º, DO DECRETO-LEI Nº 911/69. AR DEVOLVIDO AO REMETENTE POR MOTIVO DE DESTINATÁRIO "MUDOU-SE". NOTIFICAÇÃO EXTRAJUDICIAL NÃO CUMPRIDA. RECURSO IMPROVIDO.
+De acordo com pacífica jurisprudência do Superior Tribunal de Justiça, é válida a notificação extrajudicial, para a constituição em mora do devedor, desde que recebida no endereço de seu domicílio por via postal e com aviso de recebimento.
+No entanto, no caso em apreço, o AR foi devolvido com a informação destinatário "MUDOU-S SE". Desta forma, não resta comprovada a notificação judicial, pois não houve a efetiva entrega no destino.
+Nas razões do recurso especial (fls. 115/130, e-STJ), o insurgente alegou ofensa ao artigo 2º, § 2º, do Decreto Lei 911/69.
+Sustentou, em síntese, a validade da notificação enviada ao endereço constante do contrato.
+Sem contrarrazões (fls. 143, e-STJ).
+É o relatório.
+Decido.
+1. O insurgente aponta violação ao artigo 2º, § 2º, do Decreto Lei 911/69, alegando a validade da notificação enviada ao endereço constante do contrato.
+O Tribunal de origem, ao analisar a controvérsia, assim decidiu (fls. 110, e-STJ):
+Sobre a comprovação da mora nas ações de busca e apreensão de veículo financiado, é. q entendimento pacífico do Superior Tribunal de Justiça a desnecessidade de notificação à pessoal do devedor, para fins de atendimento à exigência da comprovação da mora constante $ do artigo 2º, §2º, do Decreto-Lei nº 911/69:  ..
+Contudo, impõe-se que seja juntado aos autos o necessário aviso de recebimento, devidamente assinado , para fins de efetiva comprovação da constituição em mora do devedor.
+Na hipótese em apreço, o aviso de recebimento encartado aos autos pelo apelante g consigna a informação de que o documento foi devolvido ao remetente, por motivo des destinatário "mudou-se", como se verifica das fls. 42/43, fato que esvazia por completo as alegada validade da notificação em questão.
+Como dispõe o art. 2º,§ 2º, do Decreto-Lei nº 911/69, "a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário", grifei.
+Note-se que a lei de regência exige seja a notificação enviada na modalidade "carta registrada com aviso de recebimento", pois, de outro modo, não será possível comprovar a sua efetiva entrega no destino.
+ ..
+Tendo em vista que a notificação extrajudicial encaminhada pelo credor não foi comprovadamente entregue ao devedor, este não está regularmente constituído em mora, É estando correta a extinção do processo, pois ausentes os pressupostos de constituição ez desenvolvimento válido e regular.
+Outrossim, incabível sanar a irregularidade após o ingresso da ação, eis que a notificação extrajudicial ou o protesto são condição de procedibilidade da ação de busca e a 5 apreensão, ou seja, o seu ajuizamento só se justifica diante da inércia do devedor, após a notificação ou protesto. Então, não se admite que a notificação ou protesto ocorram após o ajuizamento da ação, uma vez que o devedor não teria tempo hábil para se manifestar ou mesmo purgar a mora.
+Com efeito, o acórdão recorrido amolda-se à jurisprudência desta Corte, segundo a qual entende que a comprovação da mora por meio da notificação extrajudicial do devedor, deve ser realizada por intermédio de carta registrada, enviada por Cartório de Títulos e Documentos, e entregue no domicílio do devedor.
+Nesse sentido, confira-se:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE NOTIFICAÇÃO. PROVA DO RECEBIMENTO NO ENDEREÇO DO DEVEDOR. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No contrato de alienação fiduciária, para a constituição do devedor em mora, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor.
+Precedentes.
+2. No caso dos autos, a Corte de origem consignou que a notificação extrajudicial acostada à exordial retornou com a informação fornecida pelos Correios de "não procurado", ou seja, nem mesmo chegou a ser encaminhada ao endereço fornecido pela devedora no contrato e, portanto, não foi recebida no local de destino, razão pela qual impõe-se a extinção da ação, nos termos da jurisprudência desta Corte Superior.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.138.714/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. VERBETE 83 DA SÚMULA DO STJ.
+1. Apesar de considerar desnecessário o recebimento da notificação pelo próprio devedor, exige-se, ao menos, a comprovação de que efetivamente houve recebimento no endereço do seu domicílio.
+Precedentes.
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.821.668/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. MORA. COMPROVAÇÃO. NOTIFICAÇÃO EXTRAJUDICIAL. OCORRÊNCIA. REVISÃO DO JULGADO. APLICAÇÃO DA SÚMULA 7/STJ. O MERO AJUIZAMENTO DA AÇÃO REVISIONAL NÃO DESCARACTERIZA A MORA. ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE ESTABELECIDO NO RESP N. 1.061.530/RS. AGRAVO IMPROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, para a busca e apreensão nos contratos de alienação fiduciária, imperiosa a comprovação da mora por meio da notificação extrajudicial do devedor, realizada por intermédio de carta registrada, enviada por Cartório de Títulos e Documentos, e entregue no domicílio do devedor, dispensando-se a notificação pessoal. Precedentes. 2. Para a comprovação da mora é imprescindível que a notificação extrajudicial seja encaminhada ao endereço do devedor, ainda que seja dispensável a notificação pessoal. Precedentes. 3. Nas hipóteses em que o Tribunal a quo assenta a premissa fática de que a notificação foi entregue no endereço da devedora, é impossível modificar-se esse entendimento em recurso especial, para concluir pela falta de comprovação da mora, em atenção ao enunciado n. 7 da Súmula do STJ. 4. "O simples ajuizamento de ação revisional não descaracteriza a mora, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual. Precedentes." (AgInt no AREsp 863.320/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/3/2017, DJe 4/4/201). 5. Por fim, registre-se que não é cabível o arbitramento dos honorários recursais previstos no § 11 do art. 85 do Novo Código de Processo Civil no âmbito do agravo interno. Ademais, na hipótese, tanto o recurso especial como o agravo em recurso especial foram interpostos quando ainda estava em vigor o CPC de 1973. 6. Agravo interno improvido. (AgInt no AREsp 894.433/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017)
+Na hipótese, portanto, considerando que o acórdão recorrido está em consonância com a jurisprudência desta Corte acerca da matéria, incide o teor da Súmula 83/STJ, aplicável para recursos interpostos por ambas as alíneas do permissivo constitucional.
+2. Do exposto, nego provimento ao recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, §11, do CPC/15.
+Publique-se.
+Intimem-se.
