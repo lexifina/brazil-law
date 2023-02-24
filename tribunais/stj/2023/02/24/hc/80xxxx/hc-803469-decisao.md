@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 15):
+APELAÇÃO CRIMINAL - RECEPTAÇÃO DOLOSA E ROUBO CIRCUNSTANCIADO - Crime de roubo praticado em concurso de agentes - Autoria e materialidade dos delitos não questionadas pela defesa - Recurso ministerial pelo reconhecimento da causa de aumento do emprego de arma de fogo - Necessidade - Majorante demonstrada por prova oral.
+APELAÇÃO CRIMINAL - EXTORSÃO MAJORADA - Crime praticado com emprego de arma e em concurso de pessoas - Recurso ministerial pela condenação - Cabimento - Réu que, mediante grave ameaça, com desígnio de alcançar proveito econômico indevido, constrangeu a vítima a fornecer a senha do telefone celular para a subtração de seus bens - Condenação devida.
+APELAÇÃO CRIMINAL - PENAS E REGIME PRISIONAL - Bases assentadas no piso legal - Penas dos delitos de roubo e extorsão elevadas pela dupla majorante - Aplicação, ainda, da regra do concurso material entre os crimes - Pleito defensivo pela fixação do regime prisional inicial semiaberto - Impossibilidade - Regime prisional fechado devido, nos termos do artigo 33, §2º,alínea "a", e §3º, do Código Penal - Recurso ministerial provido, improvendo-se o defensivo.
+Consta dos autos que o paciente foi condenado como incurso no art. 157, § 2º, II, em concurso material com o art. 180, caput, do Código Penal, em regime inicial fechado, a 6 anos e 4 meses de reclusão, mais o pagamento de 23 dias-multa.
+Inconformados, defesa e Ministério Público interpuseram recurso de apelação, tendo sido provido o recurso ministerial para condenar o paciente também como incurso nas penas do art. 158, §1º, do Código Penal, bem como para reconhecer a majorante do artigo 157, §2º-A, I, do Código Penal, estabelecendo a pena final em 13 anos e 2 meses de reclusão, mais o pagamento de 39 dias-multa.
+Alega o impetrante, em síntese, que a "acusação improcede na sua inteireza, a autoria não é certeira como aponta todo o instrumento probatório, eivado de provas frágeis incabíveis para imputação de crime ao paciente" (fl. 8).
+Sustenta que o reconhecimento foi vago e que a própria vítima admitiu não ter visualizado o rosto do acusado, não havendo que falar em responsabilidade criminal por meras suspeitas.
+Afirma, ainda, que a pena do paciente deve ser fixada abaixo do mínimo legal "pois não lhe são negativas a maioria das circunstâncias judiciais", sendo inconstitucional a "Súmula do STJ que veda tal comportamento" (fl. 11), devendo, dessa forma, ser reduzida a pena em seu patamar máximo e convertida a pena privativa de liberdade em restritiva de direitos.
+Requer, inclusive liminarmente, a absolvição do paciente por ilicitude das provas ou fragilidade do conjunto probatório. Subsidiariamente, a revisão da dosimetria com a redução da pena, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+Esta não é a situação presente, pois a pretensão do paciente depende de análise mais detida dos autos, sendo, dessa forma, melhor analisada após as informações prestadas pela autoridade apontada como coatora e a manifestação ministerial, postergando-se o seu exame para o julgamento de mérito pelo colegiado, juiz natural da causa, garantindo-se assim a necessária segurança jurídica.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Tribunal local, a serem prestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ.
+Após, ao Ministério Público Federal para manifestação.
+Publique-se.
+Intimem-se.
