@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de NILTON FAGUNDES DE ARAUJO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC 1.0000.23.031312- 4/000).
+O paciente está preso preventivamente pela suposta prática dos delitos previstos no art. 28 da Lei 11.343/2006 e no art. 306 da Lei 9.503/1997, na forma do art. 69 do Código Penal.
+A defesa sustenta: a) violação do art. 316 do Código de Processo Penal, pois "o Paciente encontra-se preso em caráter preventivo por mais de 1 (um) ano sem ocorrer a devida revisão da manutenção da cautelar" (e-STJ fl. 05); b) "a prisão não pode perdurar infinitamente, devendo ser revista a cada 90 dias e, se mantida, deve ser devidamente motivada por decisão fundamentada, todavia, nada disso aconteceu" (e-STJ fl.06); e c) "constata-se a flagrante desproporcionalidade e demora inadmissível, pois trata-se do cerceamento da liberdade sem o devido processo legal, uma vez que a custódia se prolonga por 381 (trezentos e oitenta e um) dias, extrapolando qualquer juízo de razoabilidade, não tendo o Paciente ou essa Defesa dado causa exclusiva a tal situação " (e-STJ fl. 08).
+Requer, liminar e definitivamente, deferimento da ordem para que o paciente seja colocado em liberdade até o julgamento final do presente writ, expedindo-se o competente alvará de soltura.
+É o relatório. Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Do exame da documentação acostada, verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular. A decisão impugnada não se mostrou teratológica, estando fundamentada a negativa do pleito liminar.
+No caso, a autoridade impetrada consignou (e-STJ fl. 25):
+A concessão da tutela de urgência reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do Paciente e desde que preenchidos os pressupostos legais, que são o fumus boni iuris e o periculum in mora.
+No caso em tela afigura-se inviável o acolhimento da pretensão sumária, porquanto a motivação que ampara o pedido liminar confunde-se com o próprio mérito do Writ.
+A questão atinente ao excesso de prazo demanda análise minuciosa que deve levar em conta as particularidades do caso concreto. Logo, julgo prudente, nesta fase de cognição sumária, ouvir previamente a Autoridade apontada como coatora para elucidação de todos os fatos narrados na inicial.
+Com tais considerações, INDEFIRO a liminar pleiteada.
+Dessa forma, não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento final .
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
