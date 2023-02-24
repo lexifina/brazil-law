@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+Por meio da petição de fls. 1.955/1.961 (e-STJ), protocolada neste Superior Tribunal de Justiça sob o número Pet 01134834/2022, almejam os requerentes o conhecimento e subsequente acolhimento de tese absoluta estranha à devolvida a esta Colenda Corte por quaisquer das partes, qual seja, a suspensão de atos de constrição deferidos em detrimento do acervo patrimonial da empresa H. Aidar, ante o deferimento de seu pedido de recuperação judicial.
+Impugnação às fls. 1.967/1.969 (e-STJ).
+Nada a deferir. Conforme destacado no acórdão de fls. 1.948/1.950 (e-STJ), "contra a decisão proferida pela instância de origem, que negou seguimento ao recurso especial interposto por ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA. - EM RECUPERAÇÃO JUDICIAL e H. AIDAR PAVIMENTAÇÃO E OBRAS LTDA., não houve a interposição do respectivo agravo (art. 1.042, do CPC/15). Evidencia-se, portanto, a falta de interesse recursal da parte ora recorrente, na medida em que interpõe o presente agravo interno contra decisão monocrática que não conheceu do agravo em recurso especial manejado por parte adversa".
+Considerando a data de publicação dos acórdãos de fls. 1.938/1.945 e 1.948/1.950 (e-STJ) - certidões de fls. 1.946/1.947 e 1.951/1.952, e-STJ - remetam-se os autos à Coordenadoria para certificação de eventual trânsito em julgado, com a respectiva baixa do feito para o Tribunal a quo.
+Cumpra-se. Publique-se. Intimem-se.
