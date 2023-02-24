@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DALVA APARECIDA OLIVERIO BURATI e JOSÉ BURATI NETO, em face da decisão monocrática proferida às fls. 759/762 (e-STJ) que, amparada no entendimento jurisprudencial adotado por esta Colenda Corte, deu provimento ao apelo nobre interposto por BANCO DO BRASIL S/A, para determinar a inversão dos ônus da sucumbência.
+Em suas razões de fls. 764/766 (e-STJ), os embargantes apontam a ocorrência de omissão e contradição a macular o decisum embargado. Aduzem, para tanto, não terem sido apreciados os prévios embargos declaratórios opostos contra a decisão de fls. 714/716 (e-STJ).
+Impugnação apresentada às fls. 770/771 (e-STJ).
+É o breve relatório.
+Decido.
+Os aclaratórios não merecem acolhimento.
+1. De fato. Contra a decisão de fls. 714/716 (e-STJ), da lavra do Min. LUIS FELIPE SALOMÃO, foram opostos embargos declaratórios pela parte ora insurgente, colacionados às fls. 718/730 (e-STJ).
+Após os autos terem sido atribuídos ao Min. JOÃO OTÁVIO DE NORONHA (fl. 749, e-STJ), este se deu por impedido para julgar o feito, nos termos do art. 144, I, do CPC/15 (fl. 750, e-STJ). Redistribuído o processo para este signatário (fl. 758, e-STJ), restou proferida nova decisão de mérito, sem apreciação dos embargos declaratórios de fls. 718/730 (e-STJ).
+Assim, reconhecida a omissão apontada, passa-se a apreciar as alegações deduzidas pelos recorrentes, nos embargos declaratórios opostos contra a decisão de fls. 714/716 (e-STJ).
+Extrai-se do decisum embargado (fls. 714/716, e-STJ) que, à luz da orientação jurisprudencial firmada por esta Colenda Corte quanto à distribuição dos ônus da sucumbência quando do pronunciamento da prescrição intercorrente, houve por bem o Min. LUIS FELIPE SALOMÃO dar provimento ao apelo nobre interposto pelo BANCO DO BRASIL S/A, para determinar a inversão dos referidos encargos processuais.
+Em suas razões de fls. 718/730 (e-STJ), os embargantes apontam a ocorrência de omissão a macular a decisão hostilizada. Aduzem, para tanto, não terem sido apreciadas as questões por eles suscitadas em contrarrazões recursais, as quais obstariam o conhecimento do apelo nobre. Defendem, assim: a incidência da Súmula 211/STJ, por falta de prequestionamento da matéria devolvida a esta Colenda Corte; ausência de indicação dispositivo de lei objeto da divergência jurisprudencial, a atrair a incidência do enunciado contido na Súmula 284/STF; e ilegitimidade passiva recursal.
+Impugnação ofertada às fls. 736/737 (e-STJ).
+Nos estreitos lindes do artigo 1.022, CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confira-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACÓRDÃO DESTE ÓRGÃO FRACIO NÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA. 1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. 2. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp 1743741/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO. (..) 3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente. 4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. 6. Agravo interno não provido. (AgInt no AREsp 1825577/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Segundo entendimento consolidado desta Corte Superior, configura omissão relevante e impugnável por meio de embargos de declaração a não apreciação, pela manifestação jurisdicional, de tese ou matéria expressamente suscitada pela parte processual e cujo exame, se fosse realizado, poderia alterar o resultado da controvérsia.
+2. Apesar os argumentos deduzidos pelos embargantes às fls. 718/730 (e-STJ), razão não lhes assiste.
+A matéria devolvida a esta Colenda Corte - inversão de verba honorária de sucumbência ante o pronunciamento da prescrição intercorrente - foi objeto de análise e deliberação perante a instância de origem.
+É o que se extrai do seguinte excerto do aresto recorrido (fls. 595/65, e-STJ):
+José Burati Neto, nos autos da ação de execução de título extrajudicial de n. 0550031-13.1998.8.12.0006, em que contende com o Banco do Brasil S/A, interpõe recurso de apelação cível.
+Trata-se de recurso interposto contra a sentença que extinguiu o feito nos seguintes termos:
+"Ante o exposto e o mais que dos autos consta, DECLARO EXTINTA a presente execução, em razão do reconhecimento da prescrição intercorrente, o que faço com fundamento no artigo 924, inciso V, do Novo Código de Processo Civil.
+Autoriza-se o levantamento de importâncias porventura depositadas, arrestos e/ou penhoras porventura feitas, cancelando-se, se for o caso, os respectivos registros.
+Outrossim, tendo em vista que, no presente caso, a fixação da verba honorária sobre o valor da causa acabaria por remunerar o advogado de maneira excessiva, já que se trata de ação distribuída há mais de 20 anos, em dissonância com a previsão dos incisos do § 2º, do artigo 85, do Código de Processo Civil, que determina a observância, dentre outros, do trabalho realizado pelo advogado e o tempo exigido para o seu serviço, condeno a parte executada, solidariamente, nos termos da fundamentação acima, ao pagamento das custas processuais e honorários ao procurador da parte adversa, estes fixados, por equidade, em R$ 2.000,00 (dois mil reais), com fundamento no art. 85, § 8º do NCPC.
+P. R. I. C.".
+A insurgência limita-se ao ônus da sucumbência, requerendo o apelante a sua inversão, com a condenação do credor no pagamento dos honorários advocatícios, os quais devem ser fixados conforme o disposto nos §§ 2º e 6º do artigo 85 do CPC.
+Pois bem. A súplica prospera.
+Com efeito, dispõe o art. 86, parágrafo único, do CPC que "Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários".
+No caso, com o reconhecimento da prescrição intercorrente, o banco-exequente sucumbiu integralmente nos pedidos iniciais, de forma que deve responder integralmente pelas custas processuais.
+De igual forma, é certo que os honorários advocatícios são suportados por aquele que deu causa ao ajuizamento da ação ou de uma execução de título extrajudicial. Sabe-se, outrossim, que existe o princípio da sucumbência, inserto no art. 85, § 2º, do CPC, onde o vencido será condenado a pagar honorários ao advogado do vencedor.
+Dito isso, percebe-se que a questão em debate não é pacífica, tanto neste Tribunal quanto no STJ, uma vez que há posicionamentos recentes, em Câmaras ou Turmas, admitindo ou não o arbitramento de honorários advocatícios, quando a execução é extinta pelo reconhecimento da prescrição intercorrente, suscitada em exceção de pré-executividade pelo executado.
+No Superior Tribunal de Justiça, por exemplo, percebe-se que, tanto a 3ª quanto a 4ª Turma, não admitem o arbitramento, no caso de reconhecimento de prescrição intercorrente, mesmo havendo trabalho exercido pelo advogado da parte devedora. Confira-se:
+(..)
+De igual forma, no âmbito deste Sodalício, há posicionamentos distintos entre os órgãos fracionários e, numa mesma Câmara, conforme a composição do julgamento.
+(..)
+Destarte, dessume-se que inexiste pacificação sobre o tema neste Sodalício e também na Corte Superior, inexistindo, inclusive, um posicionamento majoritário.
+Neste contexto, ainda que respeitando o entendimento de que o exequente não pode ser condenado em honorários advocatícios, no caso de reconhecimento de prescrição intercorrente, pois não foi ele quem deu causa ao ajuizamento do processo expropriatório, tenho que é indevido tal posicionamento, pois o advogado da parte devedora nada tem a haver com a inadimplência do seu cliente, de modo que, tendo o causídico do executado trabalhado e apresentado um incidente de exceção de pré-executividade, o qual foi acolhido e se reconheceu a prescrição intercorrente, devem os honorários de sucumbência serem fixados em seu favor.
+(..)
+Assim, embora o devedor tenha dado causa ao ajuizamento da execução do título extrajudicial, foi o credor quem deu causa à extinção da ação, devendo, portanto, responder pelas custas e honorários de sucumbência, já que os executados tiveram que contratar advogado para postular e juízo o reconhecimento da prescrição intercorrente, em atenção aos princípios da causalidade e da sucumbência.
+(..)
+Desta feita, prospera a pretensão de condenar o credor ao pagamento dos honorários advocatícios.
+(..)
+Diante do exposto, dou provimento ao recurso interposto por José Burati Neto para, reformando em parte a sentença, inverter os ônus da sucumbência, condenando o exequente ao pagamento das custas e despesas processuais, bem como honorários advocatícios, os quais fixo em 10% sobre o valor atualizado da causa.
+Assim sendo, não prospera a alegação de falta de prequestionamento da matéria, o que afasta a aplicação da Súmula 211/STJ.
+Outrossim, em uma análise detida das razões do apelo nobre, apontou a instituição financeira recorrente divergência jurisprudencial ante a interpretação conferida pela Corte de origem ao art. 85, § 10, do CPC/15.
+Destaca-se, para tanto, o seguinte trecho do recurso especial (fls. 632/633, e-STJ):
+II- RAZÕES DE REFORMA DO JULGADO - DA DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM JULGADO DO SUPERIOR TRIBUNAL DE JUSTIÇA - ACÓRDÃO PARADIGMA: AGRAVO INTERNO NO RECURSO ESPECIAL Nº 1.711.219-SC
+Nos termos já mencionados, o Tribunal de Justiça do Estado do Mato Grosso do Sul inverteu o ônus da sucumbência e, consequentemente, condenou o Recorrente ao pagamento das custas e honorários advocatícios, sem aplicar ao caso, corretamente, o Princípio da Causalidade.
+Primeiramente importante destacar que há similitude entre o Acórdão recorrido e o Acórdão paradigma do Agravo Interno no Recurso Especial 1.711.219 (anexo), na media em que ambos tratam do arbitramento de honorários sucumbencial sob o prisma da prescrição intercorrente.
+Nesse sentido, o aresto recorrido consigna, em síntese:
+(..)
+No mesmo sentido, o aresto paradigma, aponta em síntese:
+(..)
+Assim, resta evidenciada a similitude entre as situações enfrentadas, qual seja o cabimento de condenação em honorários de sucumbência.
+(..)
+Portanto, resta evidente que o v. Acórdão recorrido deu interpretação divergente ao artigo 85, § 10 do Código de Processo Civil, em relação ao Acórdão do AgInt no REsp nº 1.711.219, de modo que cabe o prestígio do aresto paradigma, a fim de que seja atribuída a responsabilidade da verba sucumbencial ao recorrido.
+Desta forma, deve ser aplicado o entendimento deste Superior Tribunal de Justiça, ante a demonstração de que, in casu, o Recorrente não pode arcar com os honorários advocatícios quando declarada a prescrição, já que foi o Recorrido, em sua exclusividade, quem deu causa ao ajuizamento da demanda quando não cumpriu com a sua obrigação de satisfazer a dívida proposta na execução.
+Desta forma, também não prospera a alegação de omissão quanto à ausência de indicação do dispositivo de lei objeto da divergência jurisprudencial.
+Por fim, à luz do excerto acima transcrito do acórdão de fls. 593/611 (e-STJ), não há como reconhecer a alegada ilegitimidade de parte. Trata-se, na origem, de ação de execução por quantia certa contra devedor solvente ajuizada por BANCO DO BRASIL S/A contra DALVA APARECIDA OLIVERIO BURATI e JOSÉ BURATI NETO.
+Reconhecida a ocorrência de prescrição intercorrente, houve por bem o Tribunal a quo determinar a inversão dos ônus da sucumbência em favor dos ora embargantes, então executados.
+Apesar dos argumentos deduzidos pelos embargantes, a mera circunstancia de os valores pagos a titulo de honorários serem após dirigidos ao advogado da parte, isso não lhe retira a legitimidade para manter-se no polo passivo ou ativo da demanda até a conclusão do processo.
+3. Do exposto, acolho os embargos de declaração de fls. 764/766 (e-STJ) para, reconhecendo a omissão apontada, apreciar os primeiros embargos de declaração (fls. 718/730, e-STJ) que, embora conhecidos, são rejeitados no mérito. Por conseguinte, fica mantida a higidez da decisão de fls. 714/716 (e-STJ).
+Publique-se.
+Intimem-se.
