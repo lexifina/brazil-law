@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Rafael de Melo Silva, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.22.269909-2/000.
+Consta dos autos que o paciente foi preso em flagrante, ao lado de Paulo César Mendes Duarte e Lucas Gabriel Nunes de Souza Santos, no dia 2/11/2022, bem como teve a sua prisão posteriormente convertida em preventiva pelo delito tipificado no art. 157, § 2º, II e VII, por duas vezes, do Código Penal, APFD n. 0001261-29.2022.8.17.4480, referente ao Inquérito Policial n. 0065703-31.2022.8.13.0433 (fls. 36/38).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar (fls. 39/46).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica, ressaltando-se os predicados favoráveis do paciente, como primariedade, endereço fixo e bons antecedentes.
+Requer-se a revogação do decreto para que o paciente possa responder ao processo em liberdade.
+Indeferida por mim a liminar em 13/12/2022 e solicitadas informações, essas foram prestadas (fls. 54/192).
+O Ministério Público Federal, em seu parecer, opinou pela denegação da ordem (fls. 194/200), conforme esta ementa:
+Habeas corpus. Roubo majorado. Preventiva. Periculosidade social evidenciada pela gravidade concreta da ação delitiva decorrente do modus operandi da conduta. Garantia da ordem pública. Fundamentação idônea. Constrangimento ilegal não evidenciado. Parecer pela denegação do habeas corpus.
+É o relatório.
+A ordem não merece concessão, porque o acórdão recorrido está na linha da jurisprudência desta Casa.
+Busca o impetrante a revogação da prisão preventiva imposta ao argumento de ausência de fundamentação para tanto.
+Infere-se dos autos que o Juízo processante homologou a prisão em flagrante e decretou a custódia preventiva, ressaltando que, em que pese a primariedade dos autuados, a conduta se mostra gravosa, considerando que o crime foi cometido com emprego de grave ameaça com uso de arma branca e em concurso de pessoas, contra duas vítimas e em locais distintos na cidade. O delito se mostra de extrema gravidade e a aplicação de medidas cautelares não se mostra suficiente (fl. 37).
+O Tribunal de Justiça local confirmou a necessidade da prisão, por estas razões (fls. 42/43 - grifo nosso):
+ ..
+Pois bem, depreende-se que a decisão impugnada encontra-se suficientemente fundamentada em dados idôneos extraídos dos autos, não havendo que se falar em constrangimento ilegal.
+O d. Magistrado apontou a presença da materialidade delitiva e dos indícios suficientes de autoria, bem ainda destacou a necessidade de garantia da ordem pública, notadamente em face da gravidade concreta do delito.
+De fato, a medida constritiva se revela, por ora, providência correta e necessária para o devido resguardo do meio social. Da leitura do APFD (ord. 3), é possível observar a gravidade concreta da conduta imputada ao paciente.
+Segundo consta, o paciente e os demais flagranteados supostamente estavam em um bar consumindo bebidas alcoólicas, quando decidiram praticar delitos naquela noite. Ato contínuo, teriam saído em um veículo Fiat/Palio procurando por potenciais vítimas.
+Os autuados, em tese, conseguiram abordar 3 vítimas e exigiram a entrega de seus pertences, ameaçando-as com uma arma branca, tendo, inclusive, perseguido o último ofendido.
+Acionados, policiais militares realizaram rastreamento na região e lograram êxito em localizar o paciente e os coflagranteados, os quais portavam os objetos supostamente subtraídos.
+Nesse sentido, entende-se que a potencialidade do caso concretamente considerado, demonstrada pelas circunstâncias fáticas que o crime teria sido perpetrado, não apenas permite, mas recomenda a manutenção da prisão provisória do paciente, uma vez que dela resulta a percepção da periculosidade do agente, a revelar o perigo real gerado pelo estado de liberdade do imputado.
+Realmente, há indícios de autoria e materialidade dos crimes imputados ao paciente, e o periculum libertatis está configurado, dada a gravidade concreta da imputação. A custódia cautelar está fundamentada em elementos idôneos, tirados das circunstâncias do crime. O réu , de forma premeditada, em coautoria com outros dois agentes, depois de fazer uso de álcool e de posse de uma arma branca, surpreendeu as vítimas em via pública, após saltar de veículo dirigido por um comparsa, chegando até a persegui-las com a arma em punho, ao tentarem empreender fuga, para garantir o resultado da empreitada criminosa (fl. 195). Tais fatores demonstram o risco ao meio social e a necessidade de sua prisão preventiva para a garantia da ordem pública.
+Não foi outra a opinião do Ministério Público Federal, no parecer do Subprocurador-Geral da República José Elaeres Marques Teixeira, para quem, na hipótese, comprovada a materialidade e a existência de indícios de autoria, o periculum libertatis restou demonstrado na necessidade de resguardar-se a ordem pública, considerando especialmente a periculosidade social do paciente, evidenciada pela gravidade concreta do delito e pelo modus operandi da conduta (fl. 195).
+Nesse sentido é a jurisprudência desta Corte Superior. Além dos precedentes mencionados pelo Parquet federal, entre outros, confiram-se estes: RHC n. 153.622/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/11/2021; HC n. 444.637/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018; e AgRg no RHC n. 164.648/RS, Ministro João Otávio de Noronha, Quinta Turma, DJe 15/8/2022.
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, em consonância com o parecer ministerial e precedentes, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO.
+Ordem denegada.
