@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARTA VIVIEN DA SILVA e TAIS BASTOS MEDEIROS contra a decisão proferida no âmbito do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+Depreende-se dos autos que as agravantes foram condenadas à pena de 2 anos de reclusão, em regime aberto, e ao pagamento de 10 dias-multa, pela prática do crime de furto qualificado pelo concurso de pessoas e mediante destruição ou rompimento de obstáculo (art. 155, § 4º, incisos I e IV, do Código Penal). A sanção corporal foi substituída por medidas restritivas de direitos.
+Narram os autos que (e-STJ fls. 67/321):
+Objetos Envolvidos
+Descrição
+OUT-15-27695 - Outros: SEIS SHORTS FEMININO, TOTALIZANDO A QUANTIA NO VALOR DE R$ 700,00 (SETECENTOS REAIS), Quantidade: 6 PEÇAS
+ ..
+Segundo a Denúncia, no dia 30/04/2015, por volta das 13 horas, na loja Centauro, localizada no Salvador Shopping, bairro Caminho das Árvores, cidade de Salvador, as ora Apelantes, mediante prévio acordo de vontades e com destruição de obstáculo, subtraíram, para si, seis bermudas femininas da marca Nike.
+Detalhou o Ministério Público que as acusadas Taís e Marta combinaram a prática do furto e, munidas de um alicate, dirigiram-se à citada loja. No local, na seção de roupas femininas, cada uma pegou três bermudas femininas da marca Nike, cortaram os dispositivos de alarme dos produtos, os acondicionaram em sacos e saíram da loja sem efetuar o pagamento. Segundo a Peça Incoativa, cada uma das denunciadas saiu da loja com três bermudas. Em seguida, quando já se encontravam do lado de fora, as duas foram surpreendidas por seguranças, que as detiveram e recuperaram as seis bermudas subtraídas.
+O Tribunal de origem conheceu parcialmente do apelo das rés e, nessa extensão, negou-lhe provimento, nos termos da ementa de e-STJ fl. 326:
+APELAÇÃO CRIMINAL DEFENSIVA. PENAL E PROCESSO PENAL. APELANTES CONDENADAS PELA PRÁTICA DO CRIME CAPITULADO NO ART. 155, § 4º, INCISOS I E VI DO CÓDIGO PENAL. IMPOSIÇÃO DE PENA, PARA CADA UMA, DE 02 (DOIS) ANOS DE RECLUSÃO, EM REGIME INICIAL ABERTO, E DE 10 (DEZ) DIAS-MULTA, NO VALOR DE 1/30 (UM TRIGÉSIMO) DO SALÁRIO MÍNIMO VIGENTE AO TEMPO DO CRIME. SANÇÃO PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS.
+PRETENSÕES RECURSAIS:
+1. ABSOLVIÇÃO EM RAZÃO DA ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO ACATADA. APELANTES QUE RESPONDEM A OUTRAS AÇÕES PENAIS E QUE, INCLUSIVE, JÁ OSTENTAM OUTRAS SENTENÇAS CONDENATÓRIAS PELA PRÁTICA DE DELITO SEMELHANTE. ENTENDIMENTO DOS TRIBUNAIS SUPERIORES DE QUE O REFERIDO PRINCÍPIO NÃO PODE SALVAGUARDAR "CONSTANTES CONDUTAS DESVIRTUADAS" (STF - AgRr no AREsp 388.938/DF, Min. Marco Aurélio Bellizze. DJe 23/10/2013). HABITUALIDADE DELITIVA EVIDENCIADA. CONDENAÇÕES QUE DEVEM SER MANTIDAS.
+2. RECONHECIMENTO DA TENTATIVA. IMPROVIMENTO. ITER CRIMINIS INTEGRALMENTE PERCORRIDO. AP ELANTES ABORDADAS DO LADO DE FORA DO ESTABELECIMENTO COMERCIAL. INVERSÃO DA POSSE DA RES FURTIVAE COMPROVADA. TEORIA DA AMOTIO. ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA.
+3. GRATUIDADE JUDICIÁRIA. NÃO CONHECIMENTO. MATÉRIA QUE DEVE SER ANALISADA PELO JUÍZO DAS EXECUÇÕES PENAIS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE ÓRGÃO JULGADOR.
+APELAÇÃO PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, IMPROVIDA.
+Nas razões do recurso especial, sustenta a defesa violação ao art. 155 do Código de Processo Penal, pleiteando a absolvição das agravantes pelo reconhecimento do princípio da insignificância.
+Aduz que "o fato de ambas as Recorrentes responderem a outras ações penais em andamento e ostentarem condenação criminal, não é fator impeditivo ao reconhecimento do princípio da insignificância, pois o caráter bagatelar do delito deve ser aferido em concreto, segundo a ótica da lesão do bem jurídico tutelado, de modo a se aferir se a conduta está excluída do campo de incidência do direito penal, desprezando-se, em consequência, da análise da tipicidade penal, dados externos ao crime como a reincidência e os maus antecedentes" (e-STJ fl. 344).
+Subsidiariamente, assere que deve ser reconhecida a forma tentada do crime de furto (art. 14, inciso II, do Código Penal).
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio do presente agravo.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 432):
+Agravo em recurso especial. Ausência de impugnação específica dos fundamentos da decisão agravada. Incidência da Súmula 182/STJ. Ademais, a aplicação do princípio da insignificância, bem como a desclassificação do delito de furto consumado para a forma tentada, atrai a aplicação da Súmula 83/STJ.
+Parecer pelo não conhecimento ou desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+A Corte de origem negou seguimento ao recurso especial, destacando: i) a incidência das Súmulas n. 7 e 83/STJ e 284/STF em relação à tese de atipicidade material da conduta; e ii) a aplicação da Súmula n. 284/STJ e da tese firmada no Tema n. 934/STJ, quanto ao pedido de reconhecimento do crime tentado.
+Em relação ao momento de consumação do crime de furto, o recurso especial teve o seguimento negado com base no art. 1.030, inciso I, alínea b, do Código de Processo Civil.
+Contudo, o § 2º do art. 1.030 do CPC prevê que o recurso cabível contra a decisão que nega seguimento ao recurso especial que esteja em conformidade com entendimento firmado em recurso repetitivo é o agravo interno.
+Desse modo, firmou-se a orientação segundo a qual "não cabe agravo em recurso especial ao STJ contra decisão que nega seguimento ao apelo nobre com base no artigo 1.030, inciso I, alínea "b", do mesmo Diploma Legal, sendo da competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de equívoco na aplicação de precedente do STJ em recurso especial representativo da controvérsia" (AgInt no AREsp n. 982.074/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, Julgado em 25/10/2016, DJe 17/11/2016).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 1.030, I, B, DO CPC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. DESCABIMENTO DO RECURSO DE AGRAVO. CABIMENTO DA INSURGÊNCIA POR MEIO DE AGRAVO REGIMENTAL OU INTERNO, NO TRIBUNAL DE ORIGEM. AGRAVO NÃO CONHECIDO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE.
+PRECEDENTES. ILEGALIDADE FLAGRANTE. TRÁFICO ILÍCITO DE DROGAS NA SUA FORMA PRIVILEGIADA. ART. 33, § 4º, DA LEI N. 11.343/2006. CRIME NÃO EQUIPARADO A HEDIONDO. REVISÃO DO TEMA 600. ENTENDIMENTO DO PLENO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO HC 118.533/MS. REGIME PRISIONAL. GRAVIDADE EM ABSTRATO.
+1. Nos termos do art. 1.030, § 2º, do Código de Processo Civil, não cabe agravo em recurso especial ao Superior Tribunal de Justiça contra decisão que nega seguimento ao apelo nobre com base no art. 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em sede de recurso especial representativo da controvérsia.
+2. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, porquanto, na data da publicação da decisão que inadmitiu o recurso especial, já havia expressa previsão legal para o recurso cabível (art. 1.030, I, b, CPC/2015), afastando-se, por conseguinte, a dúvida objetiva. Precedentes.
+ ..
+5. Agravo regimental improvido. Habeas corpus concedido de ofício para afastar o caráter hediondo do delito de tráfico de entorpecentes privilegiado e fixar o regime inicial semiaberto. Ressalvado o entendimento do Relator, deferido o pedido ministerial de fls. 455/456.
+(AgRg no AREsp 994.487/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/02/2017, DJe 02/03/2017, grifei.)
+Quanto à arguida atipicidade material da conduta, tenho que a defesa não infirmou especificamente os fundamentos da decisão negativa de admissibilidade.
+Ressalte-se, ademais, que, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Ora, de fato, anota-se que o entendimento desta Corte Superior é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, especificamente, os fundamentos utilizados da decisão impugnada, o que atraiu a incidência da Súmula n. 182 do STJ.
+2. O acórdão de apelação indicou razões claras e suficientes para afastar a tese de negativa de autoria e a parte não indicou omissão sobre ponto essencial para o julgamento da lide ou redação de difícil compreensão, a justificar a interposição de recurso especial a pretexto de violação do art. 619 do CPP.
+3. Ainda, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1823881/PR, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 26/4/2021), o que não ocorreu.
+4. Não é suficiente, para requerer o afastamento do óbice da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Deixou de ser indicada premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permitisse a pretendida absolvição.
+5. Agravo regimental não provido. (AgRg no AREsp 1827996/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/8/2021, DJe 16/8/2021, grifei.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO TENTADO E FRAUDE PROCESSUAL. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DO DELITO E AFASTAMENTO DAS QUALIFICADORAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- A incidência da Súmula n. 83 deste Superior Tribunal de Justiça não se restringe ao recurso especial aviado com base na alínea "c" do inciso III do art. 105, da Constituição Federal, aplicando-se o enunciado, da mesma forma, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional. (AgRg no AREsp 299.793/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 27/11/2014)
+- O princípio da identidade física do juiz não é absoluto, devendo a parte fazer prova do prejuízo, o que não ocorreu na espécie.
+- O pedido de desclassificação do delito e de afastamento da qualificadoras enseja o reexame do material fático-probatório dos autos, procedimento inadmissível em recurso especial. Incidência da Súmula n. 7/STJ.
+Agravo regimental desprovido. (AgRg no AREsp 623.381/MA, Rel. Ministro ERICSON MARANHO, Desembargador convocado do TJSP, SEXTA TURMA, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido, confiram-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp n. 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/2/2016, grifei.)
+PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACOU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE, POR ANALOGIA, DA SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inadmissível o agravo que não infirma todos os fundamentos da decisão que negou seguimento ao recurso especial. Súmula 182/STJ.
+2. Na hipótese, inadmitido o recurso em razão das Súmulas 7/STJ e 83/STJ, incumbia à parte demonstrar a não incidência dos enunciados sumulares.
+3. A incidência da Súmula 7/STJ impede o exame do recurso especial pelo dissídio jurisprudencial, tendo em vista a ausência de identidade fática entre o acórdão paradigma apresentado e os fundamentos do acórdão recorrido.
+4. Agravo regimental improvido. (AgRg no AREsp 275.940/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/6/2015, DJe 9/6/2015, grifei.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1.  ..
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido. (AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/6/2013, DJe 26/6/2013, grifei.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
