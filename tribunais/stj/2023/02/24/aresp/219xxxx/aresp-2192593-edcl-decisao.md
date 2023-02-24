@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por APOIO JURÍDICO ARAÇATUBA LTDA., em face de decisão monocrática de fls. 1.544/1.548 (e-STJ), da lavra deste signatário, que não conheceu do agravo em recurso especial interposto pela parte ora embargada.
+Em suas razões (fls. 1.550/1.552, e-STJ), a empresa embargante aponta omissão no julgamento unipessoal, notadamente quanto à fixação da verba honorária recursal, nos termos do artigo 85, § 11, do NCPC.
+Impugnação às fls. 1.556/1.557 (e-STJ).
+É o relatório.
+Decido.
+Com razão a embargante, impondo-se o acolhimento dos embargos.
+1. De fato, verifica-se que a decisão embargada não se manifestou acerca da fixação dos honorários de sucumbência recursal.
+No que se refere ao disposto no artigo 85, § 11º, do NCPC, cumpre enfatizar que, nos termos da orientação do Plenário do STJ, fixada por meio do Enunciado Administrativo n. 7. ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+Destaca-se, por oportuno, o entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, quanto à majoração da verba honorária sucumbencial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS RECURSAIS. CABIMENTO. OMISSÃO RECONHECIDA. EMBARGOS ACOLHIDOS. 1. A Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, concluiu ser devida a majoração da verba honorária sucumbencial, nos termos do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (Rel. Ministro Antonio Carlos Ferreira, DJe de 19.10.2017). 2. No caso, verifica-se omissão quanto à sua fixação na decisão monocrática, relativamente ao recurso da ré, razão pela qual, com fundamento no art. 85, § 11, do CPC, os honorários advocatícios fixados na origem no importe de 10% (dez por cento) são majorados para 11% (onze por cento) sobre o valor da condenação. 3. Embargos de declaração acolhidos. (EDcl no AgInt no AREsp 1157151/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/11/2018, DJe 14/11/2018)
+Dessa forma, considerando que o acórdão recorrido, o qual possibilitou a inauguração da instância extraordinária, foi publicado no Diário de Justiça do dia 22 de novembro de 2021 (certidão de fl. 1.398, e-STJ), e o trabalho adicional do advogado da parte ora embargante, realmente, são cabíveis os honorários recursais.
+Com efeito, o § 11 do art. 85 do NCPC possui dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Constata-se que na instância de origem a verba honorária foi fixada em 12% sobre o valor da condenação (fls. 1.296/1.305, e-STJ), e majorada em 5% (cindo por cento), quando do julgamento do recurso de apelação (fls. 1.387/1.397, e-STJ).
+Assim, com base em tais premissas, majora-se os honorários de sucumbência recursal em 10% (dez por cento) sobre o valor já fixado na origem, tendo em conta a tramitação do feito nesta fase processual e a justa remuneração do patrono pelo trabalho acrescentado.
+2. Do exposto, acolho os embargos de declaração, para suprir a omissão apontada e majorar os honorários advocatícios , com amparo no art. 85, § 11, do NCPC, nos termos da fundamentação supracitada.
+Publique-se.
+Intimem-se.
