@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra a decisão de fls. 157-160, que indeferiu liminarmente o habeas corpus.
+Sustenta a Defensoria Pública do Estado de São Paulo que "o acórdão somente citou as elementares em abstrato do próprio tipo penal de roubo majorado, deixando de mencionar uma situação fática em concreto para fundamentar a fixação do regime mais gravoso" (fl. 165).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao Colegiado.
+Considerando as razões do agravante, em observância ao princípio da celeridade processual, reconsidero a decisão para nova apreciação do writ.
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Tribunal de Justiça de São Paulo (fls. 129/154).
+Consta dos autos condenação pela prática do crime tipificado no art. 157, § 2º, II e V, e §2º-A, I, c/c o 70, caput, e 29, todos do Código Penal, às penas de 10 anos e 8 meses de reclusão, em regime fechado, e 14 dias-multa. Houve provimento ao pelo da defesa para reduzir a pena do paciente para 8 anos de reclusão, em regime fechado, e 19 dias-multa.
+No presente writ, a impetrante alega a fundamentação inidônea para a fixação de regime inicial mais gravoso.
+Requer, liminarmente e no mérito, a concessão da ordem para a fixação do regime semiaberto para o cumprimento da pena.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Quanto ao regime prisional, consta da sentença (fls. 86/87):
+Passo à dosimetria da pena.
+Observando-se os elementos norteadores contidos no artigo 59 do Código Penal, constando a inexistência de circunstâncias necessárias à prevenção e repressão do crime, fixo a pena-base no mínimo legal de 4 (quatro) anos de reclusão e 10 (dez) dias-multa, uma vez que as circunstâncias judiciais o favorecem.
+Ausentes circunstâncias atenuantes ou agravantes.
+Na última etapa da dosimetria, a pena deve ser aumentada em 1/3 (um terço), em razão das majorantes do concurso de pessoas e da restrição da liberdade da vítima e mais 2/3 (dois terços), pela qualificadora do emprego de arma de fogo, somando 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, mais 21 (vinte e um) dias-multa.
+Observe-se que o disposto no artigo 68, parágrafo único, do Código Penal, não impõe ao juiz a escolha de uma dentre as causas de aumento presentes em cada caso concreto, mas faculta ao sentenciante a aplicação de uma delas, ou das duas, dependendo das peculiaridades de cada caso
+Assim já decidiu o Colendo Superior Tribunal de Justiça: "1. A teor do art. 68, parágrafo único, do Código Penal, a aplicação das causas majorantes e minorantes se dá sem compensação, umas sobres as outras, não sendo admissível a pretendida tese de incidência de única majorante dentre as aplicáveis. 2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de cinco agentes, correta foi a incidência separada e cumulativa das duas causas de aumento. 3. Agravo regimental improvido". (AgRg no HC 512.001/SP, Rel. Ministro Nefi Cordeiro, 6ª Turma, DJe 29/08/2019).
+Ante o concurso formal, a sanção é acrescida de 1/5 (um quinto), somando 10 (dez) anos e 8 (oito) meses de reclusão e 25 (vinte e cinco) dias-multa.
+Recomende-se o réu no presídio em que se encontra.
+Assim, o réu ROGÉRIO DA SILVA, condenado à pena de 10 (dez) anos e 8 (oito) meses de reclusão, em regime fechado, mais 25 (vinte e cinco) dias-multa, como incurso no artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, na forma do artigo 70, c/c o artigo 29 todos do Código Penal.
+Por sua vez, observa-se do acórdão de apelação (fls. 137/140):
+Quanto à dosimetria, a pena-base foi fixada com critério e moderação no patamar mínimo, de quatro anos de reclusão e dez dias-multa, no piso mínimo.
+As causas de aumento relativas ao concurso de agentes, à restrição da liberdade das vítimas e emprego de arma de fogo ensejaram acréscimos sucessivos de um terço e de dois terços na fase seguinte, mas nesse ponto o julgado comporta modificação.
+Com efeito, para haver cumulação das três causas de aumento (pelo concurso de agentes, pela restrição da liberdade das vítimas e pelo emprego de arma de fogo), é preciso fundamentação adequada para o rigor adotado, lastreada em elementos concretos dos autos, o que inexistiu na respeitável sentença atacada.
+ ..
+Portanto, é de rigor ser imposto apenas um aumento, de dois terços, relativo ao emprego de arma de fogo, por ser a circunstância que mais aumenta, assim se procedendo em atenção ao disposto no artigo 68, parágrafo único, do Código Penal, de tal modo que as sanções agora alcançam seis anos e oito meses de reclusão e dezesseis dias-multa, no piso mínimo.
+O concurso formal de delitos foi bem reconhecido, pois no mesmo contexto fático foram subtraídos bens pessoais da vítima Francivaldo e da vítima Elda e, ainda, o caminhão e o semirreboque pertencentes à empresa "Rodocargas Transporte e Logística EIRELI", enquanto aquelas vítimas eram ameaçadas e mantidas subjugadas sob a mira de armas de fogo. Como já assentou o colendo Superior Tribunal de Justiça, "(..) A jurisprudência desta Corte é firme no sentido de que o delito de roubo, praticado mediante uma única ação contra vítimas diferentes e em um mesmo contexto fático, configura o concurso formal de crimes e não a ocorrência de crime único, pois violados patrimônios distintos." (AgRg no AREsp nº 1792317, 5ª Turma, Relator Ministro Joel Ilan Paciornik, julgado em 03.08.2021, DJe 06.08.2021).
+Assim, mantido o aumento de um quinto que incidiu por força do concurso formal de crimes, as penas do réu ficam estabelecidas num total definitivo de oito anos de reclusão e dezenove dias-multa, no piso mínimo, observado que, embora as penas pecuniárias devessem ser somadas, por força do disposto no artigo 72 do Código Penal, não houve recurso da acusação nesse aspecto, não se podendo alterar o entendimento adotado sem incorrer em indevida "reformatio in pejus".
+A despeito da primariedade do réu, o regime prisional inicial fechado fica mantido para a adequada e justa reprovação da conduta, de elevada censurabilidade, pois retratou prática de roubos em comparsaria e com emprego de arma de fogo e restrição da liberdade das vítimas. Portanto, para os fins expostos é que se impõe o parcial provimento do recurso.
+Como se vê, as instâncias ordinárias fixaram o regime mais gravoso (fechado), pois "a despeito da primariedade do réu, o regime prisional inicial fechado fica mantido para a adequada e justa reprovação da conduta, de elevada censurabilidade, pois retratou prática de roubos em comparsaria e com emprego de arma de fogo e restrição da liberdade das vítimas".
+A respeito do tema, a súmula n. 440/STJ disciplina que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Desse modo, da fundamentação referenciada pelas instâncias ordinárias não se identifica dado concreto que desborde da gravidade ínsita ao delito praticado, a fim de justificar tratamento mais severo.
+Portanto, diante da primariedade e da pena-base fixada no mínimo legal, sendo fixada pena em 8 anos, cabível o regime semiaberto, nos termos do art. 33, § 2º, do CP.
+Ante o exposto, reconsidero a decisão de fls. 157-160 e defiro liminarmente o habeas corpus para fixar o r egime semiaberto.
+Comunique- se.
+Publique-se.
+Intimem-se.
