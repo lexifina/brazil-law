@@ -1,0 +1,34 @@
+DECISÃO
+Assim relatou o Ministro Og Fernandes, Vice-Presidente, no exercício da Presidência desta Corte, ao indeferir a liminar no presente writ (fl. 66):
+ ..
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RENATO HENRIQUE BEZERRA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 21 anos, 3 meses e 27 dias de reclusão pela prática dos delitos previstos nos arts. 33, caput, da Lei n. 11.343/2006; e 157 do Código Penal.
+O Juízo da execução criminal indeferiu o pedido de progressão ao regime semiaberto formulado pelo paciente, em razão da ausência do requisito subjetivo. A Corte estadual negou provimento ao agravo em execução penal interposto pela defesa.
+Sustenta a impetrante que o paciente preencheria todos os requisitos legais para a progressão ao regime intermediário e que a gravidade dos crimes praticados, a longa pena por cumprir e o histórico prisional desfavorável não seriam fundamentação idônea para o indeferimento da benesse.
+Afirma que o reeducando já teria atingido o lapso temporal necessário, apresentaria bom comportamento carcerário e não possuiria falta disciplinar pendente de reabilitação nos últimos 12 meses.
+Argumenta que as inovações trazidas pela Lei n. 13.964/2019 teriam sido "claras no sentido de impedir ao julgador o indeferimento de direitos prisionais com lastro em faltas disciplinares antigas" (fl. 9) e pondera que levar em conta faltas disciplinares praticadas há mais de 4 anos consistiria em violação ao princípio da razoabilidade.
+Pretende, liminarmente e no mérito, a promoção do paciente ao regime semiaberto.
+ ..
+Depois de indeferido o pedido de liminar (fls. 66/67) e de prestadas as informações (fls. 72/79 e fls. 80/88), o Ministério Público Federal opinou pela extinção do writ sem julgamento do mérito ou pela denegação da ordem, conforme o parecer assim ementado (fl. 92) :
+HABEAS CORPUS IMPETRADO COMO SUCEDÂNEO DE RECURSO ESPECIAL. INADMISSIBILIDADE. PROGRESSÃO DE REGIME. COMETIMENTO DE FALTA GRAVE. PRÁTICA DE NOVO DELITO NO GOZO DE BENEFÍCIOS PRISIONAIS. AUSÊNCIA DO REQUISITO SUBJETIVO. DECISÃO DEVIDAMENTE FUNDAMENTADA NOS DADOS DA EXECUÇÃO DA PENA. PRECEDENTES DESSA CORTE SUPERIOR. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO OU PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta de constatação evidente, o que, na espécie, não ocorre.
+Ao contrário do alegado, verifica-se da leitura do aresto impugnado que a fundamentação utilizada pela Corte estadual para negar ao paciente o benefício da progressão de regime, muito embora também tenha citado a gravidade dos delitos por ele praticados, teve como base fatos ocorridos durante a execução penal, pois o sentenciado ostenta registro de falta de natureza grave, consistente em agressão (fl. 62).
+Além disso, o Tribunal local considerou o fato de que o reeducando tornou a delinquir nas ocasiões em que agraciado com a liberdade. Donde a cautela e prudência que devem nortear as decisões que eventualmente concedam progressão a esta espécie de condenado (fl. 62).
+Não há falar em evidência de inidônea avaliação do requisito subjetivo realizada pelo Tribunal a quo, tendo sido devidamente observado o art. 112, § 1º, da Lei de Execução Penal, assim como a jurisprudência consolidada deste Tribunal.
+Com efeito, esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento tanto do pleito de progressão de regime prisional quanto do de concessão de livramento condicional pelo inadimplemento do requisito subjetivo (AgRg no HC n. 584.224/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020).
+Ademais, segundo o entendimento desta Corte Superior, não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado (HC n. 633.355/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/5/2021).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. FALTA DE REQUISITO SUBJETIVO. FALTAS GRAVES (EVASÃO E PRÁTICA DE DOIS FATOS DEFINIDOS COMO CRIMES DOLOSOS). AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária. Precedentes do STJ.
+2. "O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional" (AgRg no HC n. 477.887/SP, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/3/2019, DJe 25/3/2019).
+3. Sem embargo, tem-se que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício.
+4. Na hipótese em apreço, conforme decidido monocraticamente, o indeferimento da progressão de regime é válido, pois amparado na prática de faltas disciplinares de natureza grave - abandono do cumprimento de regime semiaberto anteriormente concedido (evasão) e prática de dois fatos definidos como crimes dolosos (roubos majorados) - ocorridas no curso da execução que se pretende a concessão do benefício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 494.742/SP, Ministra Laurita Vaz, Sexta Turma, DJe 14/6/2019 - grifo nosso)
+Por fim, a modificação do entendimento do Tribunal estadual quanto ao preenchimento do requisito subjetivo exigiria o aprofundado exame de fatos e de provas, providência inadmissível na via eleita.
+Ante o exposto, com base na jurisprudência , denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA EM FATOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA. REGISTRO DE FALTA GRAVE. APENADO QUE VOLTOU A DELINQUIR NAS VEZES EM QUE FOI POSTO EM LIBERDADE. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES. ANÁLISE DO PREENCHIMENTO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE NESTA VIA. REEXAME APROFUNDADO DE PROVAS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada .
