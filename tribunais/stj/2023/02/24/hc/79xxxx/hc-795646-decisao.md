@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 302):
+JÚRI - Homicídio qualificado - Condenação - Apelo defensivo - Preliminar - Alegada nulidade do ato que intimou o réu da sentença de pronuncia por meio de edital - Rejeição - Réu não encontrado no endereço por ele indicado em juízo - Mérito - Decisão contrária à prova dos autos - Não evidenciação - Veredicto assentado nas evidências existentes no processo - Manutenção - Desprovimento do recurso - Pena - Exacerbação Inocorrência - Estrita observância do sistema Trifásico -- Desprovimento do apelo.
+- "(.. ) 1. Tendo o próprio paciente fornecido o seu endereço, no qual posteriormente não foi encontrado, e inexistindo nos autos quaisquer outros elementos que pudessem auxiliar na sua localização pelo Juízo, não se pode vislumbrar a nulidade da citação por edital, que foi implementado de acordo com os requisitos legais. (..)." (STJ. HC 148.066/GO, Rel. Ministro JORGE MUSSI, 5T., julg. em 21/06/2011, DJe 01/08/2011).
+- Somente se licencia a cassação do veredicto popular. por contrário à prova, quando aberrantemente dissociado dos elementos de convicção reunidos no processo, de modo que, encontrando a decisão apoio em qualquer prova idônea, é defeso à instância ad cem casá-la, sob pena de afrontar a soberania popular.
+- Tendo sido plenamente observado o sistema trifásico de aplicação da pena, justifica-se a fixação da reprimenda acima do mínimo legal, quando suficiente para reprimir a conduta do agente, mormente se considerada a incidência de circunstâncias judiciais desfavoráveis ao acusado.
+- Preliminar rejeitada. Apelo desprovido.
+Consta dos autos que o paciente foi condenado a 15 anos de reclusão, em regime fechado, pela prática do crime previsto no art. 121, § 2º, IV, do CP.
+Interposta apelação pela defesa, a Corte de origem negou provimento ao recurso.
+Sustenta o impetrante, em suma, a nulidade da citação por edital alegando, para tanto, que (fl. 5):
+ ..  depois da realização da referida audiência, ocorrida em 06/07/2007, quando nesta oportunidade, o paciente informou a juíza o seu NOVO ENDEREÇO, onde a juíza determinou que fosse anotado o novo endereço do paciente, tudo certificado pelo nobre meirinho, TODAS as demais intimações foram direcionadas aos endereços antigos do paciente, absurdo, erro grosseiro, desatenção dos meirinhos, culpa exclusiva do judiciário, situação que lhe trouxe graves prejuízos a sua defesa e liberdade, situação que ensejou a intimação por edital, resultando no julgamento e condenação do paciente sem o seu conhecimento, óbvio, por não ter sido intimado em seu endereço devidamente fornecido ao judiciário, mas não visto, não observado pelos meirinhos.
+Afirma, nesse passo, que o mandado de intimação da pronúncia não fez constar o endereço correto do paciente, o que "levou a juíza a determinar a intimação por EDITAL e tal situação ilegal e absurda proporcionou a ausência do paciente no processo" (fl. 9).
+Alega, outrossim, quanto à pena aplicada, que inexistem elementos idôneos que justifiquem a valoração negativa da culpabilidade, da conduta social, da personalidade, dos motivos, das circunstâncias e das consequências do crime, devendo ser fixada a pena-base no mínimo legal.
+Requer, liminarmente e no mérito, a anulação do processo desde a citação por edital ou o redimensionamento da pena imposta.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal se manifestou pela concessão parcial da ordem, para que seja fixada a pena-base no mínimo legal.
+Às fls. 387-394, a defesa apresentou complementação à inicial.
+Acerca dos pedidos, assim constou na sentença condenatória (fls. 235-236):
+Vistos e examinados estes autos acima identificados, temos que:
+Em sessão realizada nesta data, o Conselho de Sentença do Tribunal do Júri desta Comarca, por maioria, reconheceu que o réu praticou o crime descrito na denúncia, não reconhecendo a tese alegada pela defesa.
+ISTO POSTO, e atenta a tudo mais que dos autos constam, CONDENO SEVERINO DOS RAMOS MARQUES DA SILVA, antes qualificado, como incurso nas penas do art. 121, § 2u, inciso IV, do Código Penal.
+Nos termos dos arts. 59 e 68, ambos do Código Penal, passo a dosar-lhe a pena.
+A culpabilidade foi acentuada, merecendo reprovação social. Trata-se de réu primário e nos autos não existem notícias sobre a sua conduta social. Pela forma como praticou o crime, demonstrou ter uma personalidade deformada, distorcida. O motivo do crime foi injustificável. As circunstâncias lhe foram desfavoráveis. As consequências foram de extrema gravidade. Não restou comprovado que o comportamento da vítima tenha influenciado o âmago criminoso do réu.
+Estribada nas circunstâncias judiciais antes mencionadas, aplico a pena base em 16 (dezesseis) anos de reclusão, abatendo-a em 01 (um) ano por reconhecer a atenuante da confissão, tornando-a definitiva em 15 (quinze) anos de reclusão.
+A pena deverá ser cumprida, inicialmente, em regime fechado  art. 33, § 2º, "a", do Código Penal  em local a ser designado pelo juizo das execuções penais, competente para a execução da pena.
+Por sua vez, assim constou do acórdão recorrido (fls. 304-305 e 308-309):
+Com efeito, pelo que se constata do caderno processual, o recorrente, antes mesmo de ser intimado da pronúncia por edital, foi procurado pelo oficial de justiça em todos os endereços indicados no processo, a fim de tomar ciência pessoalmente dos termos daquela decisão.
+À fl. 90  interrogatório do acusado perante a autoridade judicial  o réu mencionou como seu endereço a Rua Projetada, s/n, Cicerolândia, Santa Rita-PB.
+Já pronunciado, o acusado foi procurado na Rua da Caixa D"Água, 102, Santa Rita-PB, consoante mandado de fl. 139, para tornar ciência da sentença, não tendo sido exitosa a diligência, como consta do verso do aludido documento.
+Com vistas, o representante do parquet se manifestou (fl. 140) no sentido de ser renovada a diligencia, desta feita, no endereço mencionado na denúncia, que é o mesmo indicado pelo réu no seu interrogatório.
+Procurado, desta feita, na Rua Projetada, s/n, Cicerolândia, Santa Rita -PB, o acusado não foi localizado, e a intimação, mais uma vez, restou frustrada, consoante se vê às fls. 142/144, o que ocasionou a intimação do réu pela via editalicia (fl. 145V/146).
+Vê-se, com isso, que nem mesmo no endereço indicado pelo próprio acusado foi bem sucedida sua intimação. E, tendo sido esgotados todos os meios de localizá-lo, impositiva a realização da diligencia por meio de edital.
+Portanto, não há qualquer irregularidade na intimação por edital na forma como realizada neste processo.
+Não houve, também, cerceamento de defesa, pois as tentativas de intimação pessoal contemplaram o endereço indicado pelo próprio acusado.
+Inexistente, pois, a alegada nulidade, mesmo porque, segundo reiterados pronunciamentos da nossa jurisprudência, inclusive do STJ:
+ ..
+Da análise da sentença prolatada, percebe-se que foram cuidadosamente observadas as regras de fixação e cálculo constantes dos arts. 59 e 68 do CP.
+De igual modo, vê-se que a juiza a quo apreciou com acuidade as circunstâncias que envolveram o fato, fiando a pena-se e, conseguintemente, a pena definitiva, no patamar que entendeu justo para reprimir a ação delituosa.
+É de se ressaltar que a pena-base  16 anos de reclusão  , justificadamente, distanciou-se do mínimo legal  12 (doze) anos de reclusão  em virtude da incidência de circunstâncias judiciais desfavoráveis ao acusado.
+No entanto, na segunda fase do processo de indlvidualização, a magistrada reduziu o montante da reprimenda em 1 (um) ano, devido à configuração da atenuante da confissão espontânea (art. 65, III, "d", CP).
+A sanção, portanto, restou totalizada em 15 (quinze) anos de reclusão, ou seja, um pouco acima do mínimo legal previsto.
+Esse montante, na minha ótica, foi justo e suficiente para punir o autor do delito, já que a douta magistrada, repita-se, atentou criteriosamente para o sistema trifásico, estando perfeitamente justificada a dosimetria da pena aplicada, o que impede seja reformada a decisão no ponto.
+ ..
+Não se vislumbra, in casu, qualquer razão para reduzir a reprimenda, eis que sua aplicação restou devidamente fundamentada, tendo o quantum fixado sido justo e suficiente para repelir a conduta praticada pelo agente.
+Como se vê, a Corte a quo concluiu pela regularidade da citação por edital, uma vez que "nem mesmo no endereço indicado pelo próprio acusado foi bem sucedida sua intimação. E, tendo sido esgotados todos os meios de localizá-lo, impositiva a realização da diligencia por meio de edital" (fl. 305).
+Em que pese às alegações defensivas, não se vislumbra ilegalidade da citação por edital, visto que, antes da realização da referida diligência, foram esgotados todos os meios para localizar o paciente, de acordo com os ditames legais. Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. HOMICÍDIO. CITAÇÃO EDITALÍCIA. NULIDADE NÃO VERIFICADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL - STF. ENDEREÇO CONSTANTE DOS AUTOS. NÃO LOCALIZAÇÃO DO RÉU. NOMEAÇÃO DE DEFENSOR DATIVO. COMPARECIMENTO EM JUÍZO. INEXISTÊNCIA DE PROVA DO PREJUÍZO. SÚMULA N. 523 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há impugnação ao fundamento da Corte Estadual, se fazendo incidir a Súmula n. 283 do STF.
+2. No caso, diante da informação do mesmo endereço constante dos autos pelo TRE, ao qual o réu não foi localizado e, ainda, ignorada outra localização pela justiça, não se pode vislumbrar a nulidade da citação por edital, que foi feita de acordo com os ditames legais
+3. Consoante dispõe o enunciado 523 da Súmula do STF, "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu".
+Não se verifica qualquer prejuízo à defesa do recorrente, porquanto houve nomeação de defensor dativo para atuar no feito, tendo este comparecido nas audiências de antecipação de provas.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.820.504/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.)
+Quanto à dosimetria, verificou-se que a pena-base foi fixada em 16 anos de reclusão pelos seguintes fundamentos (fl. 236):
+A culpabilidade foi acentuada, merecendo reprovação social. Trata-se de réu primário e nos autos não existem notícias sobre a sua conduta social. Pela forma como praticou o crime, demonstrou ter uma personalidade deformada, distorcida. O motivo do crime foi injustificável. As circunstâncias lhe foram desfavoráveis. As consequências foram de extrema gravidade. Não restou comprovado que o comportamento da vítima tenha influenciado o âmago criminoso do réu.
+Como se vê, a fixação da pena-base acima do mínimo legal se deu de forma inidônea, haja vista que foram indicados elementos genéricos e inerentes ao crime cometido, de modo que, não tendo sido apontados elementos concretos que desbordaram do tipo penal em apuração, a pena-base deve ser estabelecida no mínimo legal. Nesses termos:
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. ATENTADO VIOLENTO AO PUDOR. DOSIMETRIA. PENA-BASE. ANÁLISE DESFAVORÁVEL DA CULPABILIDADE. FUNDAMENTAÇÃO GENÉRICA. AFASTAMENTO DA VALORAÇÃO NEGATIVA E REDUÇÃO DA PENA CONCEDIDOS. PLEITO MINISTERIAL DE RESTABELECIMENTO DA EXASPERAÇÃO.
+1. Esta Corte Superior tem entendido que embargos declaratórios com nítidos intuitos infringentes opostos em razão de decisão monocrática devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. "A jurisprudência pátria, em obediência aos ditames do art. 59 do Código Penal e do art. 93, IX, da Constituição Federal, é firme no sentido de que a fixação da pena-base deve ser fundamentada de forma concreta, idônea e individualizada, não sendo suficiente referências a conceitos vagos e genéricos, máxime quando ínsitos ao próprio tipo penal". (AgRg no HC 548.907/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020).
+3. Quanto à circunstância judicial da culpabilidade, as instâncias ordinárias limitaram-se a afirmar que "a culpabilidade do agente foi intensa, com total domínio sobre os fatos", em dissonância com o entendimento desta Corte, no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020).
+4. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+(EDcl no RHC n. 156.648/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022.)
+Nesse sentido, a pena do paciente deve ser redimensionada.
+Fixo a pena-base no mínimo legal, isto é, em 12 anos de reclusão. Ainda que presente a atenuante da confissão na segunda fase, a reprimenda permanece inalterada em razão da Súmula 231/STJ. Ausentes demais causas modificadoras da pena, fixo a reprimenda definitiva em 12 anos de reclusão.
+Escorreito o regime fechado, ante o quantum de pena aplicado, conforme o art. 33, § 2º, a, do CP.
+Ante o exposto, concedo parcialmente o habeas corpus para reduzir a pena do paciente a 12 anos de reclusão, mantidos os demais termos da condenação.
+Comunique-se.
+Publique-se.
+Intimem-se.
