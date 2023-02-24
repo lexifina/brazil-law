@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por CLÁUDIO YASUO ONO, com fundamento no art. 102, III, a, da Constituição Federal, contra decisão monocrática assim ementada (fl. 271):
+RECURSO ESPECIAL. EXECUÇÃO. BEM DE FAMÍLIA. IMÓVEL DO FIADOR EM CONTRATO DE LOCAÇÃO COMERCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CABIMENTO DA PENHORA. JULGADO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. RECURSO ESPECIAL DESPROVIDO.
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados (fls. 299-302) .
+A parte recorrente sustenta a violação dos arts. 5º, LV, e 93, IX, da CF.
+Alega que a decisão recorrida não teria sido fundamentada, além do que violaria os princípios do contraditório, da ampla defesa e do devido processo legal.
+Sustenta, ainda, que (fls. 320-322):
+ ..  não será efetiva a garantia do contraditório se a postulação das partes for simplesmente ignorada na decisão judicial. De igual forma, a decisão judicial, quando ignorar os argumentos apresentados pelas partes, deixará de observar o dever constitucional de fundamentação das decisões judiciais.
+O contraditório moderno, por sua vez, congrega uma série de direitos interligados entre si, entre os quais estariam: i) o direito de ser ouvido e influenciar a decisão do juiz, tanto nas matérias fáticas quanto nas matérias jurídicas; ii) o direito de acompanhar os atos processuais; iii) o direito de produzir provas pertinentes; iv) o direito de ser informado regularmente dos atos praticados no processo; v) o direito à devida justificação das decisões; e vi) o direito de impugnar as decisões.
+Neste sentido, uma das formas de consagração dos efeitos das garantias constitucionais das partes se dá mediante o pronunciamento jurisdicional, de modo que sua materialidade é fruto da decisão, cuja motivação também é uma garantia constitucional da parte. Uma decisão deficiente, que não seja fundamentada adequadamente, poderá, mais comumente, violar garantias constitucionais apresentadas pelas partes.
+Dar atenção ao contraditório é fornecer aos sujeitos a garantia de que suas razões servirão como elemento de influência ao juiz durante o processo e no conteúdo da decisão. É na fundamentação da decisão que se observará se, de fato, o direito ao contraditório foi efetivamente exercido no processo.
+Além do contraditório, é com base no princípio do devido processo legal e suas premissas, a serem observadas pelos protagonistas do processo, que será possível obter a máxima prestação jurisdicional estabelecida no art. 93, IX, da Constituição Federal de 1988, cujo objetivo é garantir um procedimento judicial justo para os litigantes, devendo ser exigidos, para tanto, a todos os envolvidos na causa, direitos, ônus e obrigações.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 330-337.
+É o relatório.
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+C onstata-se que foram declinados os motivos pelos quais se negou provimento ao recurso especial, valendo destacar o seguinte excerto (fls. 272-274):
+A jurisprudência desta Casa, em recurso repetitivo (Tema 708), erigiu-se no sentido da possibilidade de penhora do bem imóvel de fiador dado em garantia de contrato de locação, tendo sido editada a Súmula 549 do STJ: É válida a penhora de bem de família pertencente a fiador de contrato de locação.
+Ainda que, posteriormente, tenha sido feito um distinguishing em relação ao contrato de locação comercial, resultando na afetação do tema à sistemática dos recursos repetitivos, é certo que foi explicitada naquela decisão a determinação de não suspender os processos pendentes que versam sobre a mesma questão jurídica:  ..
+Destarte, é de aplicar a jurisprudência vigente no Superior Tribunal de Justiça, incidindo-se ao caso a Súmula 549/STJ, a exemplo dos seguintes precedentes, inclusive relatado por este Julgador:  ..
+Logo, é caso de aplicação da Súmula 83/STJ.
+Ademais, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório e da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal depende da análise do art. 1.022 do Código de Processo Civil , razão pela qual incide o Tema n. 660/STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. ALEGAÇÃO DE VIOLAÇÃO DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. NEGATIVA DE SEGUIMENTO.
