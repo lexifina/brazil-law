@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pelo MUNICÍPIO DE ALUMÍNIO, em face de JUNDIÁ TRANSPORTADORA TURÍSTICA LTDA., no qual se discute questão atinente à ação monitória fundada em duplicatas decorrentes de contrato administrativo para exploração e execução do serviço público de transporte, a violação da Lei de Concessões Públicas (Lei 8.987/95) e da Lei de Licitações (Lei 8.666/93), bem como a inaplicabilidade de subsídio criado através de Lei Municipal para remuneração do mencionado serviço.
+Por tratar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, I, e XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
