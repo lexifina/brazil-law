@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por ALESSANDER GIARDINI LENZI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fl. 1.015):
+AMBIENTAL. AÇÃO CIVIL PÚBLICA. EDIFICAÇÃO SOBRE RIO. PRAD.
+INDENIZAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+Mantida a sentença de parcial procedência de ação civil pública ambiental na parte em que determinou a apresentação e cumprimento de PRAD, além do pagamento de indenização no valor de R$ 286.161,04 pelos danos ambientais ocasionados pela edificação sobre o Rio Piçarras.
+Reformada a sentença para condenar os réus ao pagamento de honorários advocatícios em favor do IBAMA.
+Rejeitados os embargos de declaração opostos (fl. 1.081).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 537, § 1º, I, do Código de Processo Civil, 14, § 1º, da Lei n. 6.938/1981 e 927, 186 e 187 do Código Civil.
+Sustenta que a "manutenção da sentença nos termos em que se encontram, traria, tão somente, evidente prejuízo ao proprietário do imóvel, ora apelante, que em nenhum momento se furtou do dever de agir de acordo com a lei, mediante as autorizações das quais detém a posse, bem como pela elaboração do PRAD - Programa de Recuperação de Área Degradada, demonstrando, assim, real interesse do mesmo em recuperar a área de preservação permanente por ele ocupada, não havendo, portanto, necessidade de condenação do apelante em indenização pecuniária, uma vez que, se realmente há danos ambientais no local, estes seriam de baixo impacto, conforme próprio laudo do IBAMA".
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fl. 1.334).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.274-1.280), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.334-1.340; 1.345; 1.347).
+É, no essencial, o relatório.
+Observa-se que o presente agravo não merece prosperar, tendo em vista que, dos argumentos apresentados pelo agravante não se extraí razão para a reforma da decisão agravada que inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ.
+O Tribunal de origem, ao analisar o caso concreto, assim se manifestou:
+A área está de tal sorte degradada que a recuperação recomendada não foi a recondução à condição natural, mas a construção de um ambiente menos antropizado para garantir que a área de preservação permanente voltasse a possuir ao menos parte de sua função ecológica.
+É neste cenário que não identifico como desarrazoada a indenização fixada pela sentença no valor de R$ 286.161,04. Este é o valor identificado pela perícia, consoante a metodologia descrita a partir do item 12, página 10, da prova.
+Adiro nestes termos, integralmente aos fundamentos da sentença analisada, valendo-me dela como razão de decidir. A pretensão do Município e da FATMA de ver afastada a responsabilização pelo dano não deve ser acolhida.
+É inegável sua participação, seja pela omissão em fiscalizar, seja por ter contribuído diretamente ao conferir aparência de legalidade à edificação que está sobre o rio, autorizando a construção. Aqui, mais uma vez, é pertinente que se ressalte imagem que consta na prova pericial (folha 4 da prova), que ilustra o avanço da construção sobre o rio.
+No que toca à multa pelo descumprimento da obrigação de fazer, observo que, por natureza, pode ser revista caso se constate que seu valor se tornou excessivo. Deste modo, considero razoável o patamar fixado, principalmente tendo em vista a possibilidade de revisão, caso haja o descumprimento e seja ela de fato aplicada, na hipótese de o valor atingir patamar excessivo.
+Finalmente, quanto aos honorários advocatícios, o debate relativo à interpretação a respeito do alcance do artigo 18 da Lei nº 7.347/85 permanece vivo no âmbito judicial, com avanços e retrocessos ao longo dos últimos anos.
+Quando a regra afasta a condenação da "associação autora" em honorários advocatícios, salvo má-fé, estaria também afastando, em atenção ao princípio da simetria, a condenação do réu
+(..)
+Assim, embora correta a sentença ao afastar a condenação em honorários a favor do MPF, deve ser reformada para que os réus sejam condenado em honorários em favor do IBAMA. Fixo a verba em 10% sobre o valor da condenação, atendendo ao disposto no artigo 85, § 3º, inciso I, do CPC.
+Ante o exposto, voto por negar provimento aos recursos de apelação dos réus e dar provimento ao recurso de apelação do IBAMA."
+No julgamento dos embargos de declaração, ficou assentado:
+Os embargos declaratórios, tanto o do réu privado quanto o do IMA, tratam de questões que foram sim enfrentadas no acórdão desta Terceira Turma. Não há falar em omissão tal qual propõem os embargantes.
+Em primeiro lugar, a alegação do réu Alessander Giardini Lenzi, tal como expresso na sentença, era a de que o imóvel já teria sido comprado com as edificações. As manifestações do Município de Balneário Piçarras e da FATMA (IMA) autorizando a construção de muro de gabião, antes de imunizar o embargante, apenas demonstra a corresponsabilidade na produção do dano. A autuação do IBAMA, incluindo sua movimentação judicial, demonstram, por outro lado, que a construção demandava outra ordem de autorização que não aquela em que pretende fundar-se o réu para esquivar-se de sua responsabilidade ambiental.
+Ainda, a construção do muro, como consta expressamente no voto, foi considerada necessária para evitar a erosão do solo. A necessidade surgiu, contudo, apenas para preservar uma edificação já irregular por invadir APP Não há, de qualquer sorte, omissão no acórdão quanto ao ponto.
+Em segundo, no que toca ao valor da multa, há expressa manifestação da Turma, como destaco no seguinte trecho do voto condutor (Evento 38, RELVOTO2)(..)
+No que toca à multa pelo descumprimento da obrigação de fazer, observo que, por natureza, pode ser revista caso se constate que seu valor se tornou excessivo. Deste modo, considero razoável o patamar fixado, principalmente tendo em vista a possibilidade de revisão, caso haja o descumprimento e seja ela de fato aplicada, na hipótese de o valor atingir patamar excessivo. Em terceiro, no que toca à responsabilidade do IMA, lê-se no voto condutor:
+"Adiro nestes termos, integralmente aos fundamentos da sentença analisada, valendo-me dela como razão de decidir. A pretensão do Município e da FATMA de ver afastada a responsabilização pelo dano não deve ser acolhida. É inegável sua participação, seja pela omissão em fiscalizar, seja por ter contribuído diretamente ao conferir aparência de legalidade à edificação que está sobre o rio, autorizando a construção. Aqui, mais uma vez, é pertinente que se ressalte imagem que consta na prova pericial (folha 4 da prova), que ilustra o avanço da construção sobre o rio (..)
+É o fundamento, além daqueles da sentença, para o reconhecimento da corresponsabilidade pelo dano ambiental flagrado.
+Em quarto lugar, quanto à cumulatividade da obrigação de fazer e a de indenizar, o acórdão embargado alinhou-se à jurisprudência sumulada do Superior Tribunal de justiça. Nos termos da Súmula 629 daquela Corte, "Quanto ao dano ambiental, é admitida a condenação do réu à obrigação de fazer ou à de não fazer cumulada com a de indenizar".
+Quanto ao valor da indenização, em sexto lugar, houve também expressa fundamentação, considerando-se razoável em conta da impossibilidade de recondução à condição natural do ambiente. Não há falar em omissão no ponto.
+No que toca aos honorários advocatícios, finalmente, há no voto condutor análise tanto da evolução da jurisprudência quanto ao trato da matéria, como da respectiva conformação legal. No tópico, as razões recursais antes de pretenderem integração no acórdão, pretendem sua reforma, o que deve ser requerido pelo manejo do recurso adequado.
+Ante o exposto, voto por negar provimento aos embargos de declaração.
+O Tribunal de origem manteve a sentença recorrida, valendo-se dela como razão de decidir. Rever tal posicionamento, implicaria reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
