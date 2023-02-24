@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 129):
+HABEAS CORPUS - Roubo qualificado pelo uso de arma de fogo (três vezes), em concurso formal de delitos - Denúncia - Conversão do flagrante em prisão preventiva - Inteligência dos artigos 312 e 313 do Código de Processo Penal - Requisitos objetivos e subjetivos verificados - Decisão bem fundamentada, nos termos do artigo 315 do Código de Processo Penal - Gravidade concreta - Liberdade provisória incabível - Ordem DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente e denunciado pela prática do crime descrito no art. 157, § 2º-A, inciso I, por três vezes, na forma do artigo 70, caput, do Código Penal
+No presente writ, alega a impetrante, em síntese, que estão ausentes os requisitos autorizadores da prisão preventiva. Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a substituição da custódia por medidas cautelares diversas da prisão.
+Deferida a liminar, e prestadas informações, manifestou-se o Ministério Público Federal pela concessão parcial da ordem .
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Assim constou no decreto prisional (fls. 42-43):
+Da prisão preventiva.
+A custódia cautelar justifica-se de forma suficiente nesta fase, à vista dos elementos colhidos até agora, mormente pelos depoimentos prestados quando da prisão em flagrante, evidenciando a existência material do crime e os indícios de autoria contra o indiciado.
+Os crimes dessa natureza, dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos, violentos e contra o patrimônio, têm se tornado da moda e cada vez mais causam terrível intranqüilidade social, estando a merecer firme resposta estatal.
+Neste contexto está o crime em análise, que torna necessária a prisão cautelar para resguardar a ordem pública da periculosidade social demonstrada pelo agente, segundo a prova até aqui colhida; ainda para preservar a boa instrução criminal, possibilitando a célere colheita da prova e o seu eventual reconhecimento pessoal e, por fim, garantir a aplicação da lei penal.
+Decorrência lógica, fica indeferido o pedido de liberdade provisória ou medidas cautelares diversas por não revelarem cabimento ao necessário resguardo da ordem pública.
+Ante o exposto, converto a prisão em flagrante e decreto a prisão preventiva de RAFAEL FREITAS DA SILVA, expedindo-se mandado de prisão.
+Como se vê, alude o decreto prisional à necessidade da custódia, pois "Os crimes dessa natureza, dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos, violentos e contra o patrimônio, têm se tornado da moda e cada vez mais causam terrível intranquilidade social, estando a merecer firme resposta estatal" (fls. 42-43).
+Mas, na realidade, não se apontou nenhum elemento do caso concreto para justificar a prisão, fazendo a decisão afirmação genérica e abstrata sobre a gravidade do crime, além de presunções e conjecturas, evidenciando a ausência de fundamentos para o decreto prisional. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES TENTADO. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA. ACRÉSCIMO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, o decreto de prisão preventiva é genérico, nele não havendo menção a fatos que justifiquem a imposição da prisão cautelar. Carece, portanto, de fundamentação concreta, pois se limita a invocar a gravidade abstrata da conduta atribuída ao agente, elemento ínsito ao tipo penal em tela e insuficiente para a decretação ou manutenção da prisão preventiva, sob pena de se autorizar odiosa custódia ex lege.
+4. "A jurisprudência desta Corte Superior é firme em assinalar que o acréscimo de fundamentos, pelo Tribunal local, não se presta a suprir a ausente motivação do Juízo natural, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do paciente" (HC n. 413.447/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017).
+5. Agravo regimental a que se nega provimento (AgRg no HC 580.901/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/08/2020, DJe 28/08/2020).
+Ante o exposto, concedo o habeas corpus, confirmando a liminar, para determinar a soltura do paciente RAFAEL FREITAS DA SILVA, se por outro motivo não estiver preso, devendo propiciar ao juízo endereço atualizado para os futuros atos de intercâmbio processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
