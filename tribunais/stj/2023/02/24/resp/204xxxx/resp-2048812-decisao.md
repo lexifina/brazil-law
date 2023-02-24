@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial, interposto por AYMORE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S/A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 272/281, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA. CONSUMIDOR. . COISA JULGADA E CARÊNCIA DA AÇÃO PORPRELIMINARESFALTA DE INTERESSE DE AGIR. . CONTRATO DEREJEIÇÃOFINANCIAMENTO DE VEÍCULO. SENTENÇA. CONDENAÇÃO A RESTITUIÇÃO DOS JUROS REMUNERATÓRIOS SOBRE AS TARIFASDECLARADAS ILEGAIS PERANTE O JUIZADO ESPECIAL. IRRESIGNAÇÃO. ENRIQUECIMENTO ILÍCITO. INEXISTÊNCIA DEMÁ-FÉ DA INSTITUIÇÃO FINANCEIRA. COBRANÇA BASEADA EMCLÁUSULA CONTRATUAL. DEVOLUÇÃO NA FORMA SIMPLES. PRECEDENTES DO STJ. DESPROVIMENTO DOS APELOS.
+Opostos embargos de declaração, foram rejeitados (fls. 315/320, e-STJ).
+Em suas razões de recurso especial, a Recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 337, § 1º, § 2º, § 4º e 1022 do CPC/15.
+Sustenta , em síntese:
+(i) negativa de prestação jurisdicional, pois a Corte local não se manifestou sobre o fato de que os acréscimos derivados em outra ação estão acobertados pela coisa julgada; e
+(ii) há violação à coisa julgada, pois "tendo como núcleo da insurgência a cobrança de juros remuneratórios sobre tarifas próprias do contrato bancário, uma vez declaradas nulas referidas tarifas e exigida a repetição dos valores pagos em ação pretérita, estão inclusos os referidos juros e os demais consectários".
+Após a apresentação das contrarrazões (fls. 379, e-STJ), e após decisão de admissão do recurso especial (fls. 398/400, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Inicialmente, verifica-se que a apontada violação do art. 1022 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia acerca da coisa julgada, porém em sentido contrário ao pretendido pela recorrente.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fl. 277, e-STJ):
+Oportuno destacar que, já tendo sido reconhecida a ilegalidade das tarifas contratuais, bem assim ordenada a restituição dessa cobrança, os juros reflexos calculados sobre aquela se reputam, igual e inequivocamente, reprováveis.
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 1.022, CPC/15, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+2. Na hipótese, a Corte local entendeu "verifica-se que o autor, também apelante, ajuizou a presente demanda visando a restituição dos encargos financeiros (juros) incidentes sobre tarifas de abertura de crédito, gravame, avaliação de bem e serviços de correspondente, já que estas foram consideradas ilegais em processo que tramitou perante o 3º Juizado Especial Cível da Comarca da Capital, e como fundamento, foi incluído o valor das referidas tarifas, razão pela qual deve o encargo ser restituído." (fl. 275, e-STJ).
+No entanto, o pedido de devolução dos valores referentes às tarifas bancárias - declaradas abusivas em outra demanda ajuizada em sede de juizado especial cível - abrange, por corolário lógico, os juros remuneratórios, pois estes são acessórios àqueles (principal), havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+A propósito:
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA. PEDIDO FORMULADO NA PRIMEIRA AÇÃO QUE ABARCOU O MESMO PLEITO AQUI PRETENDIDO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir, além da eventual existência de negativa de prestação jurisdicional, se a declaração de ilegalidade de tarifas bancárias, com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do Juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros remuneratórios incidentes sobre as referidas tarifas.
+2. Não há que se falar em negativa de prestação jurisdicional, pois o Tribunal de origem analisou todas as alegações suscitadas no recurso de apelação, afastando expressamente o reconhecimento da coisa julgada.
+3. Nos termos do art. 337, §§ 2º e 4º, do Código de Processo Civil de 2015, "uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido", sendo que "há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado".
+4. Na hipótese, da forma como a autora formulou o pedido na primeira ação, já transitada em julgado e que tramitou perante o Juizado Especial Cível, consignando expressamente que buscava a devolução em dobro de todos os valores pagos com as tarifas declaradas nulas, é possível concluir que o pleito abarcou também os encargos incidentes sobre as respectivas tarifas, da mesma forma em que se busca na ação subjacente, havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+5. Não se pode olvidar que o acessório (juros remuneratórios incidentes sobre a tarifa) segue o principal (valor correspondente à própria tarifa), razão pela qual o pedido de devolução de todos os valores pagos referentes à tarifa nula abrange, por dedução lógica, a restituição também dos respectivos encargos, sendo incabível, portanto, nova ação para rediscutir essa matéria.
+6. Recurso especial provido.
+(REsp n. 1.899.115/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+Portanto, o acórdão recorrido deve ser reformado, ante a violação à coisa julgada.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou provimento para, reformando o acórdão recorrido, julgar, sem resolução do mérito, improcedente o pedido, nos termos do art. 485, V, do CPC/15.
+Condeno o recorrido ao pagamento das custas e os honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do CPC/15.
+Publique-se.
+Intimem-se.
