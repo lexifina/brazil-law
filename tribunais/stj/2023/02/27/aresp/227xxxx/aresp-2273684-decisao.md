@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDICARLOS FREITAS MILITAO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO CÍVEL. PEDIDO DE CONCESSÃO DE AUXÍLIO ACIDENTE. BENEFÍCIO EM GOZO DE AUXÍLIO DOENÇA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 86 da Lei 8.213/1991, no que concerne à necessidade de concessão do auxílo-acidente, tendo em vista a comprovação da redução da capacidade laborativa de maneira parcial e permanente, trazendo os seguintes argumentos:
+Conforme narrado na petição inicial, o Autor é portador de de moléstias em coluna, ombros e joelhos, as quais possuem nexo com as atividades desempenhadas na empresa, bem como reduzem a capacidade laboral de modo parcial e permanente.
+Os elementos contidos nos autos demonstram, de forma inequívoca, a configuração dos danos sofridos, bem como o nexo de causalidade e a incapacidade resultante, motivo pelo qual se encontra isolada a conclusão pericial médica que afastou a incapacidade laborativa que recai sobre o autor.
+Frise-se, que tal sequela possui natureza LER/DORT, ou seja, não possui cura clínica, mas tão somente, os sintomas permanecem adormecidos caso o Obreiro permaneça afastado de funções laborativas gravosas aos membros inferiores.
+Sendo o Obreiro portador de LER/DORT, então, a redução da capacidade laborativa é PERMANENTE, haja vista que não poderá mais se ativar em funções que exigem posições gravosas e repetitivas para membros superiores.
+No mais, as moléstias diagnosticadas nos autos não impedem o Obreiro de laborar em funções compatíveis, portanto, a redução da capacidade laborativa mesmo sendo PERMANENTE, é PARCIAL.
+Ademais, há de se ressaltar que todos os exames médicos/laboratoriais acostados demonstram a presença de patologias de cunho estritamente ocupacionais, classificadas como LER/DORT.
+Destarte, sendo o obreiro portador de sequela decorrente de acidente de trajeto e agravada pelas funções laborais, conforme restou comprovado, bem como REDUÇÃO DA CAPACIDADE LABORATIVA DE MANEIRA PARCIAL E PERMANENTE, então, o afastamento da concessão do auxílio-acidente viola o artigo 86 da Lei 8.213/1991, que assim dispõe (fls. 321-322).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Observa-se que antes da propositura da presente demanda, foi concedido administrativamente ao autor o benefício Auxílio-Doença acidentário até 2021, quando então deverá passar por nova avaliação pericial, fato que impede a percepção de Auxílio-Acidente.
+ ..
+Entendo por manter a sentença, já que não é possível cumular o auxílio doença com auxílio acidente por causa idêntica de incapacidade laboral, uma vez que a percepção do auxílio acidente pressupõe a cessação do auxílio doença, conforme estipulado no artigo 86, § 2º, da Lei nº 8.213/1991 (fl. 305).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
