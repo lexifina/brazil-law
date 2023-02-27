@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno, manejado por GLOBO BORRACHAS ESPECIAIS LTDA, em face de decisão da Presidência desta Corte, que não conheceu do recurso especial ante a sua intempestividade.
+O apelo extremo, a seu turno, fundamentado nas alíneas "a" e "c", do permissivo constitucional, foi manejado contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO DIRIGIDO CONTRA R. DECISÃOPELAQUAL FOI DETERMINADO AO AGRAVANTEQUE EXIBISSEOS DOCUMENTOSPUGNADOS PELA AGRAVADA, SOB PENA DE MULTADIÁRIA DE R$ 1.000,00, LIMITADA AO PERÍODO MÁXIMO DE 30 (TRINTA) DIAS ALEGAÇÃO DEINCORREÇÃO- PEDIDODEREFORMA- INAPLICABILIDADEDEMULTAAO CASO- ENTENDIMENTO CONSOLIDADO PELO C. STJ, POR FORÇA DO JULGAMENTO, NOS MOLDES DO ART. 543-"C", DO CÓDIGO DE PROCESSO CIVIL, DO RECURSOESPECIAL Nº 1333988-SP APLICAÇÃO DO QUANTODISPOSTO NA SÚMULA 372, DO C. STJ - CABIMENTO,NA HIPÓTESE, DEBUSCA E APREENSÃO DOS DOCUMENTOSPUGNADOSPELARECORRIDARECURSO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, a recorrente aponta ofensa aos artigos 1.015, incisos I ao XIII, 400, § ú, 536 § 1º e 537 do CPC; sustentando, em suma, não cabimento do agravo de instrumento na hipótese e cabimento de multa cominatória na ação de exibição de documentos.
+Decisão da Presidência desta Corte, que não conheceu do recurso especial ante a sua intempestividade, acostada às fls. 1076/1077, e-STJ.
+Em face dessa decisão foi manejado o agravo interno de fls. 1080/1085, e-STJ, no qual a parte defende a tempestividade do reclamo.
+É o relatório.
+Decido.
+Ante as razões expedidas no presente agravo interno, o despacho de fls. 1103/1104 e a comprovação da tempestividade com a juntada dos documentos às fls. 1106/1111 (e-STJ), reconsidero a decisão monocrática anteriormente proferida e passo, de plano, ao exame do agravo em recurso especial.
+A pretensão não merece provimento.
+1. Com efeito, quanto à alegação de não cabimento do agravo de instrumento, verifica-se que não foi analisada pelo acórdão recorrido bem como não foi examinado o conteúdo legal do artigo 1015 do CPC apontado como violado.
+Portanto, incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a tese ventilada não foi objeto do competente juízo de valor aferido pelo Tribunal de origem.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO. 1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). 2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. 3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017). 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+2. Outrossim, "Consoante jurisprudência desta Corte Superior, na ação de exibição de documentos, não cabe a aplicação de multa cominatória (Súmula 372 do STJ) (AgInt no REsp 1402310/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)." (AgInt no AREsp n. 2.060.566/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA COMINATÓRIA. ASTREINTES. OBRIGAÇÃO DE FAZER. EXIBIÇÃO. DOCUMENTO. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. EXCLUSÃO. REVISÃO. POSSIBILIDADE.
+1. Não cabe a cominação de multa para forçar a exibição de documentos, seja incidental, seja em ação autônoma (cautelar).
+Súmula 372/STJ. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.245.434/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO REPETITIVO. JULGAMENTO PENDENTE. SUSPENSÃO DE PROCESSO EM TRÂMITE NO STJ. IMPOSSIBILIDADE. PROCESSO CIVIL. AÇÃO DE EXIBIÇÃO DE DOCUMENTO. MULTA. DESCABIMENTO. SÚMULA 372/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a orientação jurisprudencial do STJ, a "afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, com correspondência no art. 1.037, II, do NCPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (AgInt no REsp n. 1.661.140/SP, Relatora a Ministra Nancy Andrighi, DJe de 30/5/2018).
+2. De acordo com a jurisprudência firmada no Superior Tribunal de Justiça através da Súmula 372/STJ, não é cabível a incidência de astreintes nas demandas envolvendo pedido cautelar de exibição documental.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.501.099/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/4/2020, DJe de 24/4/2020.)
+Com efeito, da análise da jurisprudência desta Casa, verifica-se que referido entendimento, firmado sob a égide do CPC/73 e que deu origem à Súmula 372/STJ, não foi alterado ou ultrapassado no âmbito desta Corte, sob a égide do CPC/15, o que atrai a incidência da Súmula 83 do STJ na hipótese em apreço.
+3. Do exposto, com amparo no art. 932 do NCPC c/c a súmula 568/STJ, reconsidero a decisão monocrática anteriormente proferida, tornando-a sem efeitos, e de plano conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
