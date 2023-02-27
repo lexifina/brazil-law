@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SMARTCOPY COM. IMPORT. LTDA em face de decisão de fls. 1097/1099 (e-STJ), que deu provimento ao recurso especial de ITAU UNIBANCO S.A a fim de determinar o cálculo dos juros de mora da obrigação pela taxa Selic, vedando a cumulação dos juros com outros encargos de atualização monetária.
+O embargante, em suas razões recursais, aponta obscuridade na decisão recorrida quanto à definição de como o crédito da Embargante deverá ser corrigido monetariamente a partir do vencimento de cada título (30/06/2006 a 23/08/2006) até a data de citação.
+O embargado apresentou impugnação (e-STJ fl. 407)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Conforme constou na decisão embargada, o eg. TJSP rejeitou o pedido do ITAU para que fosse aplicada a taxa Selic no cálculo dos juros de mora, nestes termos:
+"Por fim, também deve ser mantida a r. sentença quantos aos critérios da correção monetária e juros de mora, pois inaplicável a incidência pura da "Taxa Selic".
+A correção monetária nada mais é do que a recomposição do valor aquisitivo da moeda, portanto, devida a atualização pela Tabela Prática deste Tribunal desde o vencimento de cada titulo.
+Tratando-se de relação jurídica contratual, correta também a incidência de juros de mora de 1% ao mês (art. 406 do Código Civil), a contar da citação." (e-STJ fl. 1042)
+No recurso especial, o ITAU reiterou seu pleito, sustentando, em síntese, que a taxa dos juros moratórios prevista no art. 406 do CC/02 é a Taxa SELIC, que deve incidir de forma simples e não capitalizada e afasta a aplicação de qualquer outro índice de atualização ou correção monetária, sob pena de enriquecimento sem causa do beneficiário.
+O recurso especial foi então provido, para determinar o cálculo dos juros de mora da obrigação pela taxa Selic, vedando a cumulação dos juros com outros encargos de atualização monetária.
+Ora, como se vê, o recurso especial tratou apenas do índice a ser utilizado no cálculo dos juros de mora, que incidem a partir da citação, uma vez que não houve alteração do termo inicial do referido encargo.
+Quanto à correção monetária devida a partir do vencimento de cada título (30/06/2006 a 23/08/2006) até a data de citação, restou mantido entendimento da Corte de origem, de que a mesma será devida pela Tabela Prática do TJSP desde o vencimento de cada titulo, uma vez que nem o acórdão recorrido nem o recurso especial trataram do referido tema.
+Diante do exposto, acolho os embargos de declaração, sem efeitos modificativos, apenas para esclarecer que o crédito da Embargante deverá ser corrigido monetariamente a partir do vencimento de cada título (30/06/2006 a 23/08/2006) até a data de citação pela Tabela Prática do TJSP, a partir de quando deverá incidir apenas a taxa de juros de mora calculada pela SELIC, vedada sua cumulação com outros encargos de atualização monetária.
+Publique-se.
