@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL em face da decisão de fls. 575-577, que homologara os cálculos da Contadoria.
+A embargante aduziu, em síntese, que: a.) o feito foi sobrestado até julgamento de questão idêntica em outra execução, sendo determinada "eventual adequação nos cálculos e intimação das partes"; b.) decisão anterior "é categórica em reconhecer razão aos argumentos da autarquia, com a necessidade de abatimento integral dos valores pagos administrativamente"; e c.) entretanto, os autos não retornaram à CEJU para recálculo, sobrevindo homologação dos cálculos. Nesse contexto, pugnou pelo acolhimento dos declaratórios, com efeitos infringentes, a fim de que seja sanada a omissão para determinar o retorno dos autos à Contadoria.
+Em resposta, a Associação argumentou que, conforme informações prestadas pela própria CEJU, os valores já foram apurados observando-se a dedução proporcional do pagamento administrativo, conforme determinado na execução paradigma. Diante disso, requereu seja elidida a pretensão da autarquia, uma vez que não restou comprovada a suposta omissão apontada.
+É o relatório. Decido.
+A decisão embargada é irrepreensível.
+Consoante o disposto no art. 1.022 do CPC, são cabíveis embargos de declaração para suprir omissão, esclarecer obscuridade ou eliminar contradição existentes em decisões judiciais, além de corrigir erro material.
+In casu, é manifesto o propósito de rediscutir o julgado. Não foram apontados, objetivamente, quaisquer dos vícios que autorizam a oposição dos aclaratórios.
+Ao contrário do que o INSS alegou, a decisão embargada não reconheceu a necessidade de abatimento integral dos valores pagos administrativamente, mas sim a aplicação da proporção relativa ao número de meses do cálculo individual de cada substituído (respeitada a data final de constituição do passivo pago - dezembro/2001) dividido pelo período integral de referência desse passivo - janeiro/1995 a dezembro/2001).
+Ao final, consignou que "o parecer da CEJU evidencia que a metodologia de cálculo adotada observou os critérios fixados no referido decisum", não sendo necessário, portanto, o retorno dos autos para recálculo.
+Ante o exposto, por não haver omissão, rejeito os embargos de declaração.
+Advirto ao ente público que a insistên cia na discussão de critério de dedução de pagamento administrativo - definitivamente fixado no paradigma n. 2007/0149244-1 - poderá ser considerada litigância de má-fé (art. 80 do CPC), a ensejar a imposição de multa (art. 81 do CPC).
+Publique-se. Intimem-se.
