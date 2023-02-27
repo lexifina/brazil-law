@@ -1,0 +1,17 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo que deu parcial provimento ao apelo defensivo para absolver o recorrente da prática do crime do art. 311 do CPP e redimensionar a pena do crime de tráfico de drogas para 6 anos de reclusão a ser cumprida no regime semiaberto.
+A defesa aponta a violação do art. 33, §4º, da Lei n. 11.343/2006 alegando, em síntese, que estão preenchidos os requisitos para a aplicação do referido redutor.
+Contrarrazões às e-STJ fls. 175/180.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 225/227.
+É o relatório. Decido.
+Verifica-se que o recurso especial está prejudicado.
+O recorrente impetrou o HC n. 734.786/ES, no qual foi suscitada a mesma questão exposta no presente recurso. O writ foi analisado por esta Corte e publicado em 6/5/2022 com a seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. TERCEIRA FASE. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE NÃO SE TRATAVA DE TRAFICANTE EVENTUAL. NÃO ATENDIMENTO DAS DIRETRIZES EXIGIDAS PARA O RECONHECIMENTO DO PRIVILÉGIO. REEXAME FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA PROCESSUAL ELEITA. PRECEDENTES. PENA PRIVATIVA DE LIBERDADE IGUAL A SEIS ANOS DE RECLUSÃO. MANUTENÇÃO DO REGIME INICIAL SEMIABERTO. EXPRESSA DETERMINAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Nos termos do art. 33, § 4º da Lei n.º 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+- A causa especial de diminuição de pena pelo tráfico privilegiado foi rechaçada porque as instâncias de origem reconheceram expressamente que o paciente não se tratava de traficante eventual, haja vista não apenas a quantidade e natureza do entorpecente apreendido - 28,5 gramas de cocaína (e-STJ, fl. 23) -, e de petrechos de mercancia em sua residência, tais como pinos vazios e sacolas tipo sacolé utilizados para envase de droga, além de R$ 2.500,00 em espécie, mas principalmente devido ao fato de o próprio paciente já ser conhecido do meio policial e de haver confessado que estava praticando a mercancia ilícita; Todas essas circunstâncias a indicar que ele não se tratava de traficante eventual e que se dedicava à prática do tráfico de entorpecentes, não fazendo, portanto, jus à referida minorante.
+- Desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+- Inalterado o montante da sanção - 6 anos de reclusão -, deve ser mantido o regime inicial semiaberto, por expressa determinação legal, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+- Agravo regimental não provido.
+Acresça-se, por oportuno, que a condenação do recorrente pelo crime de receptação também evidencia sua dedicação à atividade criminosa. Nessa linha: AgRg no HC n. 738.450/RS, relator Ministro JOEL ILAN PACIORNIK , Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Intimem-se.
