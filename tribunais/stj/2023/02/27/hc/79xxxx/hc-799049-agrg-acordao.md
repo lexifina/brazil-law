@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE FIDELIS DOS PRAZERES contra decisão monocrática da lavra do eminente Vice-Presidente, no exercício da Presidência, Ministro Og Fernandes, que indeferiu liminarmente o mandamus, por ser mera reiteração.
+O agravante aduz, em síntese, que o presente habeas corpus apresenta novos pleitos que merecem ser conhecidos, uma vez que o prévio writ apontou de forma superficial as nulidades do processo, e o presente indica de forma clara e objetiva que a condenação do paciente foi baseada em prova não judicializadas e testemunhas indiretas "ouvir dizer".
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABES CORPUS. 1. MERA REITERAÇÃO DO HC 507.015/PE. IMPOSSIBILIDADE DE CONHECIMENTO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O presente mandamus é mera reiteração do Habeas Corpus 507.015/PE, motivo pelo qual não é possível dar seguimento ao writ.
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, o presente habeas corpus é mera reiteração do Habeas Corpus n. 507.015/PE, ao qual se negou seguimento em 26/6/2019, concluindo-se não haver constrangimento ilegal, nos seguintes termos:
+(..) diante de todas as provas constantes dos autos, o Tribunal estadual concluiu que a decisão proferida pelo Conselho de Sentença encontrou guarida nos elementos probatórios, em especial as provas testemunhais, contudo, reverter tal posicionamento nesta instância superior e na via eleita, configura provimento inviável nos limites estreitos do writ mandamental, visto que demandaria o revolvimento de todo o conjunto fático probatório constante nos autos.
+Dessa forma, verifica-se que, de fato, os temas já foram previamente submetidos a esta Corte Superior e devidamente refutados, haja vista a indicação pelas instâncias ordinárias da existência de "elementos probatórios, em especial as provas testemunhais", cuja real existência não pode ser aferida pelo Superior Tribunal de Justiça, sob pena de indevido revolvimento fático probatório.
+Dessa forma,, de fato, não é possível dar seguimento ao presente mandamus.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REITERAÇÃO DE PEDIDO. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. TRÁFICO DE DROGAS. POSSE DE ARMA DE FOGO DE USO PERMITIDO. ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. RECURSO DESPROVIDO. 1. A tese de insuficiência do conjunto probatório para a condenação pelo crime do art. 35 da Lei 11343/2006 já foi analisada no HC n. 646.550/SP, constituindo, nesta parte, o writ mera reiteração de outro. 2. O pedido de prisão domiciliar em virtude de a paciente ser mãe de uma criança de 11 anos de idade não foi objeto de impugnação no acórdão originário, o que impede o conhecimento do tema diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância. 3. O pedido de absolvição pelos delitos de tráfico de drogas e de porte de arma e de munições é inadmissível na via eleita, uma vez que exige o reexame do conteúdo fático probatório. 4 Agravo desprovido. (AgRg no HC n. 719.421/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 564.773/SP. AGRAVO DESPROVIDO. 1. O exame da tese de não configuração da falta grave, com vistas à absolvição do Paciente, não se coaduna com a via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória. 2. "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019). 3. Agravo desprovido. (AgRg no HC n. 612.037/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/10/2020, DJe de 23/10/2020.)
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
