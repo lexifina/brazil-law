@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO AMAZONAS contra acórdão prolatado, por unanimidade, pela 3ª Câmara Cível do Tribunal de Justiça do Estado do Amazonas no julgamento de Agravo de Instrumento, assim ementado (fls. 72/77e):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA E INTERCORRENTE. NÃO-OCORRÊNCIA.
+1. Pela análise do andamento processual, verifica-se que, além de os autores da ação terem pugnado pelo início da execução em menos de 01 (um) ano do trânsito em julgado do acórdão, o processo não se quedou inerte desde a certidão do trânsito em julgado até o ajuizannento do pedido de execução pelo Ministério Público, como alega o agravante, não havendo que se falar na ocorrência de prescrição intercorrente ou prescrição da pretensão executória.
+2. Recurso conhecido e desprovido.
+Opostos embargos de declaração, foram acolhidos (fls. 108/115e), consoante fundamentos resumidos na seguinte ementa (fls. 108e):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL E OMISSÃO. CONTAGEM DO PRAZO PRESCRICIONAL. INÉRCIA DA FAZENDA PÚBLICA. AUSÊNCIA DE CAUSA INTERRUPTIVA OU SUSPENSIVA.
+1. A omissão que enseja o acolhimento de embargos de declaração consiste na falta de manifestação expressa sobre fundamento de fato ou de direito ventilado nas razões recursais.
+2. O erro material é o equívoco ou a informação inexata contida na decisão embargada
+3. O prazo prescricional para cumprimento de sentença inicia-se do trânsito em julgado da sentença.
+4. Presente erro material decorrente de análise de premissa fática equivocada, há a necessidade de alteração do julgado para reconhecer a prescrição.
+5. Recurso conhecido e provido.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i. Art. 1.016 do Código de Processo Civil - "A autora do Agravo de Instrumento não incluiu os autores da Ação Popular, tampouco o ente público, no pólo passivo daquele recurso ou dos aclaratórios seguintes" (sic; fl. 275e);
+ii. Art. 265, I, do estatuto processual de 1973 - " ..  a irregularidade de representação do autor falecido, além de conformar a suspensão do processo principal da Ação Popular para a exigível regularização processual, também redundaria em causa obstativa para a própria constituição dos pólos passivos no recurso mencionado" (sic; fl. 276e); e
+iii. Arts. 81, 84 e 246 do Códex Processual de 1973 e art. 6, § 4º da Lei n. 4.717/65 - " ..  o ESTADO DO AMAZONAS ou o Ministério Público Estadual não foram intimados pessoalmente para o cumprimento da sentença, após o trânsito em julgado do Acórdão do STF e consecutivo retorno dos autos" (fl. 281e).
+Com contrarrazões (fls. 289/333; 334/349e), o recurso foi admitido (fl. 350e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+No que se refere às questões da não inclusão das partes no polo passivo do recurso, da suspensão do processo decorrente do falecimento do Autor, bem como da ausência de intimação para o cumprimento de sentença após o trânsito em julgado, verifico que, da forma trazida pelo ora Recorrente, a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dos suscitados arts. 1.016 do Código de Processo Civil, 81, 84, 246, 265, I, do estatuto processual de 1973 e 6, § 4º da Lei n. 4.717/1965.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma devidamente fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
