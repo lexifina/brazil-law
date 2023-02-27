@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado por Marconi Medeiros Marques de Oliveira, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 26):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS.
+1. No caso de cumprimento de sentença contra a Fazenda Pública que resulte em extração de requisição de pequeno valor (RPV), são devidos honorários advocatícios, nos termos do art. 85, § 1º, do Código de Processo Civil, independentemente do oferecimento ou não de impugnação pela Fazenda Pública.
+2. A verba honorária deve incidir uma única vez e ser calculada sobre a totalidade do valor ao final tido como devido.
+3. Na hipótese dos autos, tendo em vista que os honorários foram fixados sobre a diferença apurada, ou seja, sobre o valor devido, a pretensão do agravante configura . bis in idem.
+4. Agravo de instrumento desprovido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 41/45.
+A parte recorrente aponta violação aos arts. 1.022, 85, §§3º e 14, do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, "o quanto à autonomia dos honorários do cumprimento de sentença em relação aos honorários da impugnação, bem como quanto à dessemelhança das respectivas bases de cálculos das verbas em discussão" (fl. 50); (II) "o legislador elegeu o critério do proveito econômico como base de cálculo dos honorários, sendo eles distintos no cumprimento de sentença e na impugnação re spectiva. Nesta, o proveito econômico é o valor do excesso reconhecido. Naquele, o proveito econômico é o valor mantido do crédito após o decote do excesso" (fl. 51).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Confira-se a seguinte fundamentação adotada pelo acórdão recorrido (fls. 28/30):
+Presentes os pressupostos de admissibilidade, conheço do agravo de instrumento. Trata-se de agravo de instrumento interposto contra decisão que, em cumprimento de sentença, acolheu parcialmente a impugnação apresentada pelo ora agravado e fixou honorários do cumprimento de sentença em 10% do valor da diferença apurada, na proporção de 50% para cada parte, em razão da sucumbência recíproca.
+Não observo qualquer fato novo capaz de modificar o entendimento exposto por ocasião da apreciação do pedido de concessão de efeito suspensivo, motivo pelo qual adoto, como razões de decidir, os fundamentos da decisão anteriormente proferida, que ora transcrevo:
+"A controvérsia cinge-se a analisar a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública.
+O regramento dos honorários advocatícios em cumprimento de sentença contra a Fazenda Pública depende do fato desse cumprimento resultar na extração de requisição de pequeno valor (RPV) ou na expedição de precatório.
+Apesar de o art. 85, § 1º, do Código de Processo Civil, estabelecer a incidência de honorários advocatícios no cumprimento de sentença como regra geral, o § 7º do mesmo artigo veda a fixação de honorários advocatícios em cumprimento de sentença contra a Fazenda Pública que não seja impugnada e enseje a expedição de precatório. Confira-se:
+"Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1 São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou o definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+(..)
+§ 7 Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje o expedição de precatório, desde que não tenha sido impugnada."
+O disposto no art. 85, § 7º, do Código de Processo Civil, em razão de sua especificidade e especialidade, não comporta interpretação extensiva, razão pela qual não se aplica aos casos em que o adimplemento do crédito subsuma-se à extração de requisição de pequeno valor.
+No caso de cumprimento de sentença contra a Fazenda Pública que resulte em extração de requisição de pequeno valor (RPV), são devidos honorários advocatícios, nos termos do art. 85, § 1º, do Código de Processo Civil, independentemente do oferecimento ou não de impugnação pela Fazenda Pública.
+Saliente-se que o Superior Tribunal de Justiça, no julgamento do REsp repetitivo n. 1.134.186, reconheceu que a impugnação ao cumprimento de sentença é apenas um incidente processual.
+Assim, a verba honorária deve incidir uma única vez e ser calculada sobre a totalidade do valor ao final tido como devido.
+Na hipótese dos autos, tendo em vista que os honorários foram fixados sobre a diferença apurada, ou seja, sobre o valor devido, entendo que a pretensão do agravante configura bis in idem." Ante o exposto, nego provimento.
+Nesse contexto, verifica-se que o Tribunal a quo, ao analisar a demanda, decidiu que em razão da sucumbência recíproca ocorrida, os honorários advocatícios do cumprimento de sentença seria 10% do valor da diferença apurada na proporção de 50% para cada parte.
+Assim, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a ocorrência da sucumbência recíproca, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nesta parte, nego-lhe provimento.
+Publique-se.
