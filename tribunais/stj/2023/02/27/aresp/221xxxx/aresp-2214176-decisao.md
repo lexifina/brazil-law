@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por BRUNA CERQUEIRA LEITE contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial manejado contra acórdão assim ementado:
+RESPONSABILIDADE CIVIL ACIDENTE DETRÂNSITO - DANOS MATERIAIS E MORAIS. Imprudência da Requerida Bruna, que adentrou a via preferencial sem aguardar a passagem da motocicleta conduzida pelo Autor Não comprovada a culpa concorrente Demonstrados os danos materiais. Caracterizado o dano moral SENTENÇA DEPARCIAL PROCEDÊNCIA, para condenar ao pagamento de indenização por danos materiais no valor de R$ 31.545,00 e ao pagamento de indenização por danos morais no valor de R$ 15.000,00. RECURSO DA REQUERIDA BRUNA PARCIALMENTE PROVIDO, PARA DETERMINAR QUE O LEVANTAMENTO DO VALOR DA INDENIZAÇÃO POR DANOS MATERIAIS (PELO AUTOR) SEJA ANTECEDIDO DA ENTREGA DOS ALVADO (COM A DOCUMENTAÇÃO DO VEÍCULO) AOS REQUERIDOS (e-STJ, fl. 266)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: artigos 489, § 1º, inciso I, 1.022, II, 1.013, § 1º, e 485, inciso VI, do CPC.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou quanto ao cerceamento de defesa, e nem em relação à culpa.
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, não se pode reconhecer a possibilidade de o recorrido pleitear indenização por danos materiais no veículo colidido, mesmo referido bem estando em nome de terceiros, uma vez que não possui interesse e tampouco legitimidade para pleitear direito de terceiros em nome próprio.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, no que tange à alegada violação do art. 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+Ocorre que, por ocasião do julgamento dos embargos de declaração opostos pela ora recorrente, acrescentaram-se os seguintes fundamentos:
+Presente a legitimidade processual do Autor, pois imputada aos Requeridos a responsabilidade pelo acidente de trânsito e pelos danos materiais e morais causados ao Autor, que deve ser apreciada quando do julgamento do mérito, sendo irrelevante a discussão acerca da propriedade da motocicleta conduzida pelo Autor quando do acidente.
+Ausente o cerceamento de defesa, porque o Juiz pode, após analisar as provas produzidas, dispensar posteriores atos processuais que não alterem o deslinde do feito, ainda que contra a vontade das partes, se concluir que os pontos controvertidos estão suficientemente aclarados, inclusive com o julgamento antecipado da lide notando-se que os Requeridos sequer apresentaram o rol de testemunhas no prazo legal, nos termos do artigo 455, parágrafo primeiro, do Código de Processo Civil1, o que fez precluir o direito à produção probatória, que sujeita os Requeridos às consequências desfavoráveis decorrentes da própria inércia, sem que isso configure cerceamento de defesa. (e-STJ, fl. 268 - grifou-se)
+E ainda:
+Por outro lado, não comprovado o alegado excesso de velocidade da motocicleta conduzida pelo Autor (insuficiente a apresentação do "termo de depoimento" de fls.117, que integra o boletim de ocorrência, pois a prova testemunhal deve ser produzida em Juízo, sob o crivo do contraditório), sendo certo que eventual superação do limite de velocidade, por si, não elide (ou atenua) a responsabilidade da Requerida Bruna pois, no caso, foi o ingresso indevido do veículo na via preferencial a causa determinante do acidente, e não a velocidade do veículo conduzido pelo Autor (mero ilícito administrativo). Logo, caracterizada a culpa exclusiva da Requerida Bruna pelo acidente, de rigor a condenação ao pagamento de indenização. (e-STJ, fl. 270 - grifou-se)
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto à ausência de cerceamento de defesa, bem como à presença de culpa exclusiva da ora agravante.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+Ademais, quanto à alegação de ilegitimidade da parte agravada, de requerer dano material em favor de veículo em nome de terceiro, o Tribunal de origem consignou que:
+Quanto aos danos materiais, desnecessária a comprovação da propriedade da motocicleta para pleitear o pagamento da indenização, pois incontroverso que o veículo estava na posse do Autor no momento do acidente e presente o interesse em preservar o veículo que estava sob sua guarda em perfeito estado de conservação. (e-STJ, fl. 271 - grifou-se)
+Como se vê, o Tribunal de origem, com base no acervo probatório produzido nos autos, consignou haver prova suficiente acerca da culpa por parte da ora agravante no evento danoso, afastando a tese de suposta concorrência de culpas, bem assim concluiu que restou configurado o ato ilícito narrado nos autos e o dever de indenizar, porquanto o agravado estava na posse do veículo no momento do acidente.
+Para o acolhimento das teses apontadas pela recorrente, ora agravante, seria necessário o revolvimento da matéria fática probatória, o que não se admite nesta instância, nos termos da Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSENTE. LEGITIMIDADE. DANO MATERIAL. REEXAME. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE O RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR PROVIMENTO.
