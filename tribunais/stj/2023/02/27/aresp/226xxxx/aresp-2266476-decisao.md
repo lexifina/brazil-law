@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por EDILSON SOUSA DA SILVA contra decisão do TRIBUNAL DE JUSTICA DO ESTADO DO TOCANTINS, que inadmitiu o seu recurso especial.
+O agravante foi condenado à pena de 5 anos de reclusão em regime semiaberto, e ao pagamento de 500 dias-multa, por infração ao art. 33 da Lei 11.343/06.
+A Corte de origem negou provimento ao apelo da defesa (e-STJ fls. 527-536 e 542-545).
+Contra a decisão foi apresentado recurso especial (e-STJ fls. 556-568), com fulcro na alínea a do permissivo constitucional, o qual não foi admitido na origem, ante a incidência da Súmula 7/STJ (e-STJ fls. 590-593).
+No presente recurso, alega o agravante que o óbice indicado na decisão de admissibilidade não se aplicaria ao caso em exame (e-STJ fls. 603-614).
+Requer provimento do agravo a fim de que seja admitido e provido o recurso especial.
+Parecer do Ministério Público Federal pelo provimento parcial do recurso especial (e-STJ fls. 642-648).
+É o relatório.
+Devidamente impugnada a decisão combatida, merece exame o inconformismo.
+Nas razões do recurso especial a defesa aponta violação aos arts. 386, VII, do Código de Processo Penal e 33, § 4º, da Lei de Drogas, pretendendo a absolvição do agravante por insuficiência de provas ou, subsidiariamente, aplicação do redutor do tráfico privilegiado em seu grau máximo.
+Acerca das questões controvertidas, o Tribunal estadual consignou (e-STJ fls . 532-535):
+A materialidade do delito de tráfico ilícito de entorpecentes, bem como as suas autorias estão comprovadas pelo através do Auto de Prisão em Flagrante, do Auto de Exibição e Apreensão e do Laudo de Exame Pericial em Substância Entorpecente - todos no Inquérito Policial 0005475-26.2017.827.2713, bem como pelos depoimentos testemunhais colhidos na fase judicial.
+Mencionadas provas, apontam, com clareza, a participação de ambos os acusados no mencionado delito.
+ ..
+O contexto fático probatório permite, de plano, verificar a adequada subsunção da conduta à hipótese normativa, nos moldes denunciado pelo Parquet, restando cristalina a autoria delitiva por parte dos apelantes.
+Ante tais considerações, é de rigor a manutenção da condenação imposta na sentença para ambos os acusados pela prática do crime previsto no art. 33 da Lei 11.343/06.
+ ..
+Após, os acusados postularam a aplicação da causa de diminuição de pena prevista no §4º do art. 33 da Lei 11.343/06, em seu grau máximo, aduzindo a presença dos requisitos autorizadores.
+Razão não lhes assistem.
+Isto porque, conforme já demonstrado neste voto, as provas colhidas, bem como a apreensão de quantidade razoável de entorpecentes, de duas espécies, além dos registros de outras ações penais, não deixam dúvidas de que os apelantes se dedicavam a atividade criminosa de tráfico, sendo certo que suas atuações no submundo do tráfico na região de Colinas do Tocantins/TO não eram ocasionais.
+A Corte a quo reconheceu que a materialidade e autoria do delito foram comprovadas "através do Auto de Prisão em Flagrante, do Auto de Exibição e Apreensão e do Laudo de Exame Pericial em Substância Entorpecente - todos no Inquérito Policial 0005475-26.2017.827.2713, bem como pelos depoimentos testemunhais colhidos na fase judicial" (e-STJ fl. 532).
+Por outro lado, fundamentou a não incidência da minorante do tráfico privilegiado no fato de que "a apreensão de quantidade razoável de entorpecentes, de duas espécies, além dos registros de outras ações penais, não deixam dúvidas de que os apelantes se dedicavam a atividade criminosa de tráfico, sendo certo que suas atuações no submundo do tráfico na região de Colinas do Tocantins/TO não eram ocasionais" (e-STJ fl. 535).
+Para afastar as referidas conclusões acerca da materialidade, autoria e dedicação a atividades criminosas seria necessário o reexame de fatos e provas, providência vedada na via especial, nos termos da Súmula 7 do STJ.
+A propósito:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA DA PENA. CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. QUANTIDADE E VARIEDADE DAS DROGAS APREENDIDAS. COCAÍNA E MACONHA. DEZENAS DE PORÇÕES. CIRCUNSTÂNCIAS DO DELITO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INAFASTÁVEL A INCIDÊNCIA DO VERBETE N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME INICIAL FECHADO. NATUREZA E QUANTIDADE DA DROGA. REGIME MAIS GRAVOSO JUSTIFICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o Tribunal a quo, com base na análise dos elementos fático-probatórios dos autos, entendeu configurada a autoria e a materialidade delitivas, afastar tal entendimento implicaria o reexame de provas, a incidir o enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ.
+2. Esta Corte tem decidido que a quantidade e a natureza da droga, aliadas às circunstâncias em que cometido o tráfico, podem evidenciar a dedicação a atividades criminosas, o que afasta a aplicação da minorante. Ademais, entender diversamente, como pretendido, demandaria o revolvimento do conjunto fático-probatório dos autos. Inafastável a aplicação do enunciado n. 7 da Súmula desta Corte.
+3. Mantida a pena definitiva em 5 anos de reclusão, "o regime fechado (o mais gravoso, segundo o quantum da sanção aplicada) é o correto à prevenção e à reparação do delito, considerada a natureza e a quantidade da droga apreendida, elencadas legalmente como circunstância preponderante" (HC 361.407/SP, desta relatoria, QUINTA TURMA, DJe de 2/9/2016).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1.666.943/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/6/2020, DJe de 29/6/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO. PLEITO PELA ABSOLVIÇÃO. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO INCIDÊNCIA DA MINORANTE PREVISTA NO ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. FIXAÇÃO DO PRIVILÉGIO NA FRAÇÃO DE 1/6 (UM SEXTO). FUNDAMENTAÇÃO IDÔNEA. ALEGADA VIOLAÇÃO AO ART. 600, DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. CORREÇÃO DAS DEFICIÊNCIAS DO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte local, concluiu que, na espécie, foram apresentadas provas hábeis a alicerçar a condenação pelo delito de tráfico de entorpecentes. Assim, a alteração de tal entendimento, de modo a fazer prevalecer o pleito absolutório, esbarraria no óbice sumular n. 7, do Superior Tribunal de Justiça.
+2. O Tribunal de origem entendeu comprovada a dedicação a atividades criminosas, em razão da quantidade da droga apreendida e do modus operandi empregado. Para rever tal conclusão, com o intuito de reconhecer o tráfico privilegiado, seria necessário o reexame de fatos e provas, descabido em recurso especial, nos termos da Súmula n. 7 do STJ.
+3. A tese, referente à alegada violação ao art. 600, do Código de Processo Penal, em que se afirma a intempestividade da apelação interposta pelo Ministério Público, uma vez que o Parquet não teria ratificado o recurso em tempo hábil, não foi objeto de análise e deliberação pelo Tribunal ordinário, tampouco previamente suscitada pela Defesa via embargos de declaração, estando patente, desse modo, a ausência de prequestionamento, conforme a inteligência das Súmulas n. 282 e 356 do STF.
+4. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1.736.334/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe de 15/4/2021.)
+Conheço do agravo e não conheço do recurso especial, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, II, a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
