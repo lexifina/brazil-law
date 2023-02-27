@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por LUCIA RODRIGUES FERNANDES contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO MANDATO - INSURGÊNCIA DA EXEQUENTE CONTRA DECISÃO QUE RECEBEU EMBARGOS À EXECUÇÃO SEM ATRIBUIÇÃO DE EFEITO SUSPENSIVO - EMBARGOS PROTOCOLADOS NOS PRÓPRIOS AUTOS DA AÇÃO EXECUTIVA - EXECUTADA QUE DEIXOU DE ATENDER AO DISPOSTO NO ARTIGO 914, §1º, DO CPC ERRO ESCUSÁVEL POSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE EM PRESTÍGIO À AMPLA DEFESA E AO CONTRADITÓRIO SISTEMÁTICA PROCESSUAL QUE DÁ PRIMAZIA AO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS POSSIBILIDADE DE APROVEITAMENTO E RETIFICAÇÃO DO ATO PROCESSUAL INTELIGÊNCIA DO ARTIGO 288, DO CPC DECISÃO MANTIDA RECURSO DESPROVIDO. (e-STJ, fl. 397)
+Nas razões do recurso especial a parte alega ofensa aos artigos 914, § 1º e 915, do CPC/15.
+Alega, em síntese, que os embargos à execução são intempestivos. Indica que o prazo para oferecimento dos embargos se esgotou em 01.03.2021 e a correta distribuição por dependência só ocorreu em 04.03.2021. Narra que a executada havia protocolado os embargos à execução nos próprios autos da ação executiva, o que não se admite. Defende a ocorrência de erro grosseiro, a impedir a aplicação dos princípios da fungibilidade e da instrumentalidade das formas.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A controvérsia recursal consiste em verificar se o protocolo dos embargos à execução nos autos do processo de execução caracteriza vício escusável ou se houve preclusão para a prática do ato.
+Efetivamente, os Embargos à Execução estão disciplinados nos artigos 914 a 920 do Código de Processo Civil, se caracterizando como meio de defesa típico do devedor no processo de execução.
+Sua natureza jurídica, segundo a doutrina é um "misto de ação e defesa, os embargos inauguram outra relação jurídica processual, de conhecimento. São ajuizáveis por meio de petição inicial, que deve observar os requisitos do CPC 319 e 320. Devem ser distribuídos por dependência ao juízo da execução, que é o competente para processá-los e julgá-los."
+Conforme explicitado no acórdão recorrido, verifica-se que a executada apresentou tempestivamente embargos à execução, os quais foram protocolados nos próprios autos da execução, ao invés de terem sido distribuídos por dependência ao processo executivo, conforme prevê o art. 914, § 1º, do CPC.
+Contudo, constatado o erro, o MM. Juiz a quo proferiu decisão determinando que a executada regularizasse o peticionamento (fls. 175 dos autos n. 1009394-20.2020.8.26.0032), o que foi cumprido, com a distribuição dos embargos por dependência e de forma apartada, nos termos do que dispõe o artigo 914, §1º, do Código de Processo Civil.
+Sobre o tema, entendo que se trata de mera irregularidade, que foi devidamente sanada pelo d. Juízo a quo, ao determinar que a parte procedesse à distribuição em autos apartados.
+De fato, a instrumentalização dos embargos à execução foi equivocada, já que deveriam ter sido protocolados em autos apartados, contudo, deve preponderar, no caso em comento, o princípio da instrumentalidade das formas para se permitir o saneamento do erro.
+Nesse contexto, o protocolo de Embargos à Execução tempestivamente nos próprios autos da Execução configura mera irregularidade formal, devendo ser aplicado o princípio da instrumentalidade das formas, pois se trata de vício sanável, bastando que o Juízo determine o desentranhamento da peça e a distribuição por dependência em autos apartados.
+Da mesma forma, já decidiu o Superior Tribunal de Justiça. Confira-se:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PROTOCOLIZAÇÃO DE EMBARGOS À EXECUÇÃO NOS AUTOS DA PRÓPRIA AÇÃO EXECUTIVA. INOBSERVÂNCIA DO ART. 914, § 1º, DO CPC/2015. ERRO SANÁVEL. APLICAÇÃO DOS PRINCÍPIOS DA INSTRUMENTALIDADE DAS FORMAS E DA ECONOMIA PROCESSUAL. 1. Ação de execução de título executivo extrajudicial, tendo em vista a inadimplência no pagamento de cotas condominiais.
+2. O propósito recursal é definir se configura erro grosseiro, insuscetível de correção, a protocolização de embargos à execução nos autos da própria ação executiva, em inobservância ao que dispõe o art. 914, § 1º, do CPC/2015.
+3. Com efeito, é inegável que a lei prevê expressamente que os embargos à execução tratam-se de ação incidente, que deverá ser distribuída por dependência aos autos da ação principal (demanda executiva).
+4. Contudo, primando por uma maior aproximação ao verdadeiro espírito do novo Código de Processo Civil, não se afigura razoável deixar de apreciar os argumentos apresentados em embargos à execução tempestivamente opostos - ainda que, de forma errônea, nos autos da própria ação de execução - sem antes conceder à parte prazo para sanar o vício, adequando o procedimento à forma prescrita no art. 914, § 1º, do CPC/2015.
+5. Ademais, convém salientar que o art. 277 do CPC/2015 preceitua que, quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
+6. Recurso especial conhecido e não provido.
+(STJ - REsp: 1807228 RO 2019/0093982-1, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 03/09/2019, T3 - TERCEIRA TURMA, Data de Publicação: DJe 11/09/2019. grifou-se)
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PROTOCOLIZAÇÃO DE EMBARGOS À EXECUÇÃO NOS AUTOS DA PRÓPRIA AÇÃO EXECUTIVA. INOBSERVÂNCIA DO ART. 914, § 1º, DO CPC/2015. ERRO SANÁVEL. APLICAÇÃO DOS PRINCÍPIOS DA INSTRUMENTALIDADE DAS FORMAS E DA ECONOMIA PROCESSUAL. PRECEDENTE DO STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
