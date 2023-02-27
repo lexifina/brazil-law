@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por SISTEMA FÁCIL - INCORPORADORA IMOBILIÁRIA - VI SPE LTDA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, em apelação, assim ementado (fl. 346):
+APELAÇÂO. ATRASO NA ENTREGA DO IMÓVEL. SENTENÇA CITRA PETITA. REJEIÇAO. CDC. APLICAÇÃO. RESPONSABILIDADE OBJETIVA. ATO ILÍCITO. CONFIGURAÇÃO. DESPESAS COM O IMÓVEL ANTES DA ENTREGA DAS CHAVES. ONUS DA INCORPORADORA. DANOS MORAIS. POSSIBILIDADE. Pedido de tutela antecipada apreciado em decisão interlocutória deve ser impugnado pela via do agravo de instrumento, pelo que não há falar em sentença citra petita. Evidenciada relação de consumo, aplicam-se as disposições do CDC. Nas relações contratuais que envolvam direito do consumidor, a lei determina que a interpretação do contrato seja favorável ao consumidor. Inteligência do artigo 47, do CDC. As despesas do imóvel relativas à IPTU e taxas de condomínio havidas entre a concessão do "habite-se" pelo Município e a baixa da construção no cartório são de responsabilidade da incorporadora. Na forma do artigo 14, caput do CDC o fornecedor responde de forma objetiva, pela falha na prestação dos serviços. O mero descumprimento do prazo previsto no contrato configura ato ilícito que enseja danos morais a serem reparados, cuja indenização se baseia conforme dispõe o artigo 944 do CC.
+Os embargos declaratórios opostos foram rejeitados em acórdão assim ementado (fl. 374):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - OBSCURIDADE - CONTRADIÇÃO - AUSENCIA - REJEIÇAO. Não havendo efetiva omissão, contradição ou obscuridade no acórdão, não são cabíveis embargos de declaração, mesmo para fins de prequestionamento, devendo o interessado insurgir-se por meio de recurso próprio, se pretende a modificação da decisão.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 422, 427 e 927 do Código Civil. Alega ausência de ato ilícito apto a ensejar a indenização por danos materiais e morais.
+Sustenta que não houve descumprimento contratual de sua parte, visto que foram observadas todas as disposições contratuais, não havendo que se falar em qualquer atraso.
+Explica que o recorrido apenas não tomou posse do imóvel ante sua inadimplência quanto às parcelas avençadas.
+Aduz que há previsão contratual do prazo de tolerância, somado a atrasos provocados por motivo de força maior ou caso fortuito, tendo em vista a natureza e vulto da atividade realizada.
+Defende que não foram comprovados os danos morais.
+Argumenta ainda o entendimento diverso do TJ-RS sobre a validade de cláusula de tolerância de até 180 dias para a entrega do imóvel prevista em contrato, bem como diverge do entendimento do STJ de que não cabe condenação em danos morais em caso de atraso na entrega de imóveis.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas às fls. 438-445 e o recurso especial foi admitido na origem (fls. 447-449).
+É o relatório. Decido.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 350-351):
+A entrega do imóvel estava prevista para 3111012012, podendo ser prorrogado o prazo por 120 (cento e vinte) dias úteis conforme item 6.1.2 do contrato, fls. 35. No capítulo 07 do contrato (DA POSSE) fls. 36, havia a previsão de que se o comprador estivesse em dia com as obrigações, ele tomaria posse sobre o bem em até 60 (sessenta) dias úteis contados da data do "habite-se" da unidade, item 7.1.
+ ..
+De acordo com os documentos juntados aos autos, observa-se que a apelante/ré obteve o "habite-se" do imóvel em 04/04/2013 fls. 165, no entanto, só realizou a baixa no cartório em 05/11/2013 fls. 47, ou seja, houve um atraso de 07 (sete) meses para efetiva entrega da posse do bem para o apelado/autor.
+Neste sentido, entre a concessão do "habite-se" peio Município e a baixa no cartório, a apelante/ré é responsável pelo pagamento das despesas sobre o imóvel correspondentes ao IPTU e taxa condominial (ordinárias e extraordinárias).
+Notadamente aos danos morais, pelo artigo 14, caput do CDC, o fornecedor de serviços responde de forma objetiva em casos de falha na prestação do serviço.
+Portanto, o mero descumprimento do prazo previsto no contrato configura ato ilícito que enseja danos a serem reparados.
+Ademais, trata-se de danos morais in re ipsa, ou seja, aqueles que decorrem da gravidade do ilícito em si, sendo desnecessária demonstração de efetivo prejuízo.
+No julgamento dos embargos de declaração, a Corte de origem decidiu nestes termos (fls. 376-377):
+No presente caso, restou assente pelas provas dos autos que a obtenção do "habite-se" do imóvel em 0410412013, no entanto, a embargante só realizou a baixa no cartório em 0511112013, ou seja, houve um atraso de 07 (sete) meses para efetiva entrega da posse do bem para o embargado, razão pela qual, aquela é responsável pelo pagamento das despesas sobre o imóvel correspondentes ao IPTU e taxa condominial (ordinárias e extraordinárias), pelo período de abril a novembro de 2013.
+Destarte, inexiste omissão, contradição ou obscuridade a ser sanada.
+Em relação à violação dos arts. arts. 422, 427 e 927 do CC, verifica-se que o Tribunal local, instância soberana na análise das provas, concluiu pela responsabilidade da parte recorrente em indenizar à parte recorrida diante do atraso na entrega do bem imóvel, incluindo o prazo de tolerância.
+Desse modo, para adotar conclusões diversas das que restaram assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial em face do óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. IMÓVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ATRASO NA ENTREGA DA OBRA DE ONZE MESES APÓS OS 180 DIAS DE TOLERÂNCIA. PROCEDÊNCIA DO PLEITO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. AFASTAMENTO. 2. RAZÕES RECURSAIS INSUFICIENTES. 3. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca da obrigação de indenizar pela demora de quase um ano além do prazo de tolerância) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo também o caso de revaloração das provas.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.200.676/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Ressalte-se, ademais, que a Corte de origem assentou também que o atraso na entrega do imóvel (de mais de sete meses) provocou mais que mero dissabor, suportando o recorrente danos morais indenizáveis.
+Nesse contexto, rever os fundamentos adotados pela instância ordinária em relação à existência de danos morais indenizáveis demandaria a reavaliação do contexto fático-probatório dos autos, o que é inviável em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ .
+1. O Tribunal de origem, analisando o contexto probatório dos autos, concluiu que o atraso na entrega do imóvel provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+2. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+ ..
+8. Agravo interno desprovido. (AgInt no REsp n. 1.953.733/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DO CONTRATO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. DANOS MORAIS CONFIGURADOS DE FORMA EXCEPCIONAL. OFENSA A DIREITOS DA PERSONALIDADE QUE EXASPERAM MERO DISSABOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.  ..  AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou a ocorrência de danos morais na espécie, tendo em vista que a demora na entrega do imóvel adquirido na planta, excepcionalmente neste caso, gerou significativa e anormal violação do direito da personalidade do promitente-comprador, em razão de transtornos que ocasionaram angústia, apreensão, intranquilidade e dificuldades.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+ ..
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.042.494/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a incidência da Súmula n. 7 do STJ, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+Nesse sentido: AgInt no AREsp n. 1.401.433/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/2/2020, DJe de 13/2/2020; e AgInt no AREsp n. 1.704.998/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/5/2021, DJe de 7/5/2021.
+Ante o exposto, não conheço d o recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
