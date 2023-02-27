@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOP DE DESENVOLVIMENTO ECONOMICO SOCIAL - AREA TRIANGULAR S, contra decisão que inadmitiu recurso especial em razão da incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Afasta a incidência da Súmula n. 7 do STJ, sustentando que a controvérsia não exige nova análise do acervo fático-probatório dos autos, uma vez que se discute o cerceamento de defesa por negativa de produção de prova pericial.
+Afirma que nos autos há indícios de confusão pelo pelo recorrido quanto à titularidade da propriedade objeto da lide e sua localização, de maneira que, a ausência de produção de prova técnica e específica, conduz à nulidade processual.
+Pleiteia o deferimento da produção de prova pericial técnica para constatar área geográfica, posse e propriedade de terra e ainda esclarecer alterações e/ou ocultações nos registros das matrículas que descrevem se a referida área cuja posse foi exercida pela Cooperativa por mais de 20 anos, constatando a contraditória expedição das certidões pelo Ofício de Duque de Caxias.
+Requer o provimento do agravo em recurso especial.
+O agravado apresentou contraminuta ao agravo em recurso especial.
+É o relatório. Decido.
+A agravante contesta a incidência da Súmula n. 7 do STJ no tocante à necessidade de produção de prova pericial e à ocorrência de cerceamento de defesa.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+Por sua vez, não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO
+INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. HOME CARE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Conforme jurisprudência deste Sodalício, não há cerceamento de defesa quando o eg. Tribunal estadual, de forma fundamentada, afasta a necessidade de prova pericial" (AgInt no AREsp n. 1.848.285/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, j. em 28/3/2022, DJe de 3/5/2022).
+2. "Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 1.994.152/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022.)
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.649.729/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. As conclusões adotadas pelo órgão julgador no sentido de que compete ao juiz decidir sobre a produção de provas necessárias ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando em cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ.
+1.1. O Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção da prova testemunhal. O acolhimento da pretensão recursal, no ponto, demandaria revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+2. Consoante a jurisprudência desta Corte Superior, "a cláusula que estipula reserva de poderes inserida em substabelecimento aponta para a circunstância de que os honorários advocatícios são devidos, em regra, ao substabelecente, nos termos do art. 26 da Lei nº 8.906/1994. Qualquer insurgência do substabelecido, em virtude de sua atuação profissional, deve ser solucionada na via própria, diante da natureza pessoal da relação jurídica entre ambos" (REsp n. 1.214.790/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2015, DJe de 23/4/2015.).
+3. A revisão do aresto impugnado para afastar a aplicação de multa por litigância de má-fé exigiria derruir a convicção formada nas instâncias ordinárias sobre a conduta temerária da ora insurgente. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.089.543/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Da análise do processo, verifica-se que o Tribunal de Justiça do Estado do Rio de Janeiro concluiu serem suficientes os elementos existentes nos autos para estabelecer suas conclusões sobre o objeto da lide.
+Indicou, de forma motivada, que "não procede a tese de cerceamento de defesa, pois o contraditório e a ampla defesa não asseguram às partes o deferimento de todo e qualquer pedido relativo à produção de provas, sobretudo quando as provas periciais, documentais e testemunhais são indeferidas porque a matéria é exclusivamente de direito, que independe de produção de prova" (fl. 920).
+Destacou que provas dos autos demonstram a existência de alterações nos marcos quilométricos da Rodovia, bem como que o Km 10 era situado nas proximidades de Duque de Caxias (Evento 21, out. 41 - JFRJ).
+Acrescentou, ademais, que a autarquia (INCRA) logrou demonstrar a alteração dos marcos quilométricos. Registrou ainda que não restou comprovada a existência de posse mansa e pacífica, nos termos do Auto de Reintegração de Posse (fl. 920)
+Portanto, para rever a convicção formada pelo Tribunal de origem acerca da prescindibilidade da produção de prova, seria necessário reexame do conjunto fático-probatório, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7 do STJ (AgInt no AREsp n. 1.334.161/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022).
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Publique-se. Intimem-se.
