@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de divergência apresentados por GUSTAVO HENRIQUE AMORIM (GUSTAVO), na demanda que contende com BANCO DO BRASIL S.A. e CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (BB e outro), contra o acórdão da Quarta Turma do STJ, da relatoria da Ministra MARIA ISABEL GALLOTTI, que entendeu que o patrocinador não possui legitimidade passiva para intervir no feito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA.
+ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. RECURSO REPETITIVO Nº 1.370.191/RJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma." (REsp 1370191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/6/2018, DJe 1º/8/2018) 3. Agravo interno a que se nega provimento. (e-STJ, fl. 1.087)
+A embargante citou como paradigma o julgado da Terceira Turma prolatado no AgInt nos EDcl no EAREsp 1.702.342/DF (e-STJ, fls. 1.466/1.489).
+As impugnações foram apresentadas às e-STJ, fls. 1.146/1.159 e 1.160/1.161.
+O Ministério Público Federal deixou de se manifestar, em razão do tema não retratar nenhuma das hipóteses previstas nos arts. 176 a 178 do CPC/2015 (e-STJ, fls. 1.163/1.166).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O acórdão embargado está em consonância com a jurisprudência atual do STJ quanto à ausência de legitimidade passiva da patrocinadora em demandas, como a presente, voltadas, essencialmente, à revisão de benefício previdenciário complementar.
+Com efeito, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+A propósito, confiram-se precedentes de ambas as Turmas que compõem a Segunda Seção do STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO PARA REVISÃO DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR EM RAZÃO DO RECONHECIMENTO, PELA JUSTIÇA TRABALHISTA, DE VERBAS INCREMENTADAS AO SALÁRIO DE PARTICIPAÇÃO DO ASSISTIDO. PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS. JUSTIÇA LABORAL. ILEGITIMIDADE DA PATROCINADORA.
+1. Ação para revisão de benefícios de previdência complementar em razão do reconhecimento, pela Justiça Trabalhista, de verbas incrementadas ao salário de participação do assistido.
+2. A jurisprudência do STJ é no sentido de que o patrocinador não possui legitimidade passiva para litígios que envolvam participante/ assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. Precedentes do STJ.
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Agravo interno não provido
+(REsp 1.967.153/DF, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 12.05.2022 sem destaque no original).
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. OBRIGAÇÃO DE RECÁLCULO DO BENEFÍCIO CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma."(REsp 1370191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/6/2018, DJe 1/8/2018).
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.942.900/DF, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022 - sem destaque no original)
+Desse modo, considerando que o acórdão embargado se baseou em entendimento pacificado por esta Corte Superior, incide no caso o óbice da Súmula nº 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de dissenso do acórdão embargado com a jurisprudência desta Corte Superior.
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+MAJORO os honorários advocatícios anteriormente fixados em favor de BANCO DO BRASIL S.A. e CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL, em 5% sobre o valor já arbitrado, limitados a 20%, nos termos do art. 85, § 11, do CPC/2015, em observância ao decidido no julgamento do AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 9/8/2017, DJe 19/10/2017.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
