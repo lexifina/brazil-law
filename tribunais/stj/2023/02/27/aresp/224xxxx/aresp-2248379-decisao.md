@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RODRIGO DE CARVALHO BARRETO contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 284 do STF e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (Apelação n. 1004331-04.2020.8.11.0041) assim ementado (fl. 444):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - DPVAT - INVALIDEZ PERMANENTE - LAUDO PERICIAL JUDICIAL - NÃO COMPROVADA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Descabe o pedido de indenização de seguro obrigatório quando a incapacidade é descaracterizada pela existência nos autos de laudo pericial que descreva que o periciado não apresenta invalidez permanente.
+Nas razões do recurso especial, o ora agravante aponta, além de dissídio jurisprudencial, violação dos arts. 7º, 11, 369, 370, 464, §§ 3º e 4º, 465, 466, § 1º, 468, I, 469, 473, 474, 477, §§ 1º, 2º, I, e 3º, 480 e 1.022 do CPC. Alega que houve omissão e contradição no acórdão recorrido, em razão de não terem sido enfrentados os dispositivos apontados como violados e as teses defendidas. Sustenta que não foi nomeado perito médico com especialidade no objeto da perícia.
+Requer o provimento do recurso para que se anule o acórdão de apelação e seja nomeado um perito especialista para a nova perícia.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base nas Súmulas n. 284 do STF e 7 do STJ.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente a aplicação da Súmula n. 284 do STF, limitando-se a alegar violação genérica dos dispositivos indicados a fim de vincular a eles a tese da não escolha do perito com especialidade no objeto da perícia. Não demonstrou, de forma individualizada e específica, como ocorrera a suposta violação, em especial a do art. 480 do CPC, pois nem sequer refutou o óbice relacionado a esse dispositivo.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem (fl. 399), os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
