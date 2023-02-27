@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE FELIPE SILVA CAMARA, contra decisão que inadmitiu recurso especial pelos seguintes fundamentos: a) quanto à violação dos arts. 966, V, VII e VIII, do CPC; 1.297, § 1º, do CC, a incidência da Súmula n. 7 do STJ; b) quanto à alínea c do permissivo constitucional, prejudicialidade da análise do dissídio jurisprudencial, em razão da aplicação da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Afirma que a decisão de inadmissão do recurso especial merece ser revisada, pois a análise do referido recurso prescinde do revolvimento do acervo fático-probatório dos autos, haja vista a lide tratar apenas de matéria de direito.
+Esclarece que a questão controversa cinge-se em verificar se a infiltração que causou danos à casa da recorrida é de responsabilidade do recorrente da presente demanda ou não. Salienta que o fato de a umidade do terreno ter causado danos à estrutura do muro lindeiro somente foi apontado em laudo pericial realizado em 21/2/2021, perfazendo a configuração de prova nova, que foi ignorada pela sentença do Juízo de piso.
+Sustenta , ademais, que os julgadores não observaram que os vizinhos são corresponsáveis pela manutenção do muro lindeiro, pelo que não há razão para a condenação in totum do recorrente ao pagamento da manutenção do muro.
+Aponta a violação dos dispositivos legais arrolados.
+Requer o provimento do agravo em recurso especial para que seja admitido o recurso especial.
+Não foram apresentadas as contrarrazões do agravado.
+É o relatório. Decido.
+Ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Ademais, em momento algum contestaram o fundamento da decisão quanto à alínea c do permissivo constitucional, a saber, a prejudicialidade da análise do dissídio jurisprudencial em razão da aplicação da Súmula n. 7 do STJ.
+Assim, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+Ante o exposto, não conheço do agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
