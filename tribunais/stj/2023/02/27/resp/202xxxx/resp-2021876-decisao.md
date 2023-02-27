@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALIRIO PINTO FILHO com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO em julgamento de embargos de declaração na apelação criminal n. 0001110-95.2016.4.03.6000.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 1º, I, da Lei n. 8.137/90, à pena de 2 anos e 8 meses de reclusão, em regime inicial aberto, substituída por uma restritiva de direito, e 10 dias-multa (fl. 523).
+Recursos de apelação foram interpostos pela defesa e pela acusação. O apelo defensivo foi parcialmente provido para absolver o recorrente da conduta referente ao ano-calendário 2010. O apelo da acusação foi parcialmente provido para, mantendo a condenação pela conduta referente ao ano-calendário 2009, fixar a pena definitiva em 2 anos e 8 meses de reclusão, em regime aberto, substituída por duas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária de 10 salários mínimos) e 13 dias-multa, no valor unitário de meio salário-mínimo (fl. 636). O acórdão ficou assim ementado:
+"PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, C. C. O ART. 12, I, LEI Nº 8.137/90. SÚMULA VINCULANTE Nº 24. CONCESSÃO DA JUSTIÇA GRATUITA. MATERIALIDADE COMPROVADA. AUTORIA DEMONSTRADA APENAS PARCIALMENTE. FALSIDADE IDEOLÓGICA. ART. 299 DO CÓDIGO PENAL. AUSÊNCIA DE PROVA DA AUTORIA DELITIVA. IN DUBIO. DOSIMETRIA. REVISÃO. MAUS ANTECEDENTES AFASTADOS. PRO REOCONDENAÇÃO ÚNICA E EXTREMAMENTE REMOTA. VEDAÇÃO ÀS PENAS DECARÁTER PERPÉTUO. GRAVE DANO À COLETIVIDADE CONFIGURADO. APELOSPARCIALMENTE PROVIDOS.
+1- Ação penal que preenche a condição inserta na Súmula Vinculante nº 24, segundo aqual "não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos Ia IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo."
+2 - Justiça gratuita concedida.
+3- Materialidade objetiva dos crimes de sonegação narrados na denúncia demonstrada pela prova documental que instruiu a denúncia. Autoria delitiva comprovada apenas com relação a um dos fatos.
+3.1 - O dolo do tipo penal do art. 1º da Lei nº 8.137/90 é genérico, bastando, para atipicidade da conduta, que o sujeito queira não pagar, ou reduzir, tributos, consubstanciado o elemento subjetivo em uma ação ou omissão voltada a este propósito.
+3.2 - A ausência de elementos seguros acerca da autoria delitiva quanto ao crime de sonegação havido no ano-calendário de 2010 impõe a absolvição do acusado, em observância ao princípio in dubio pro reo.
+4 - Mantida a absolvição do réu quanto à imputação do crime do art. 299 do Código Penal, por ausência de prova da autoria delitiva.
+5 - Dosimetria. Pena-base. A jurisprudência consolidou o entendimento de que as condenações pretéritas alcançadas pelo período depurador podem ser consideradas como maus antecedentes, tendo o E. Supremo Tribunal Federal decidido, em recurso extraordinário com repercussão geral, que "não se aplica aos maus antecedentes o prazo quinquenal de prescrição previsto para a reincidência (art. 64, I, do Código Penal)" (RE n. 593.818, relator ROBERTO BARROSO, Tribunal Pleno, julgado em 18/8/2020,DJe 20/11/2020).
+5.1- Caso concreto em que o réu ostenta uma única condenação, transitada em julgado mais de vinte anos antes da ocorrência dos fatos objeto de apuração neste feito, o que torna inadmissível sua utilização para configurar maus antecedentes, em atenção aos princípios da razoabilidade, da proporcionalidade, da dignidade da pessoa humana e ao direito ao esquecimento.
+5.2 - O art. 5º, XLVII, "b", da Constituição Federal veda as penas de caráter perpétuo, não se admitindo, portanto, a valoração negativa dos antecedentes criminais sem qualquer limitação temporal. Precedentes.
+6- Mantida a atenuante da confissão espontânea, pois as declarações do réu foram utilizadas como fundamento para sua condenação (Súmula nº 545 do STJ).
+7 - A sonegação de vultosa quantia não é ínsita à tipificação penal contida no art. 1º, I, da Lei nº 8.137/90, e tem aptidão para causar enorme dano à coletividade, o que atrai a incidência da causa de aumento especial prevista no art. 12, I, do mesmo Diploma Legal. Sobre o tema, o C. Superior Tribunal de Justiça definiu que "o dano tributário é valorado considerando seu valor atual e integral, incluindo os acréscimos legais de juros e multa" e que "a majorante do grave dano à coletividade, prevista pelo art. 12, I, da Lei 8.137/90, restringe-se a situações de especialmente relevante dano, valendo, analogamente, adotar-se para tributos federais o critério já administrativamente aceito na definição de créditos prioritários, fixado em R$1.000.000,00 (um milhão de reais), do." (REsp n. 1.849.120/SC, relator Ministro NEFIart. 14, caput, da Portaria 320/PGFNCORDEIRO, TERCEIRA SEÇÃO, julgado em 11/3/2020, DJe 25/3/2020).
+8 - Apelos parcialmente providos." (fls. 634/636).
+Embargos de declaração opostos pela defesa foram rejeitado, conforme acórdão de folhas 683/688.
+Em sede de recurso especial (fls. 701/713), a defesa apontou violação ao art. 28-A do Código de Processo Penal - CPP, porque o TJ não determinou a remessa dos autos ao Parquet para fins de manifestação a respeito da aplicação do acordo de não persecução penal.
+Em seguida, a defesa apontou violação ao art. 45, § 1º, do Código Penal - CP, porque o TJ estipulou a prestação pecuniária em 10 salários mínimos, considerando o prejuízo aos cofres públicos, mas desconsiderando a capacidade econômica do recorrente que é, inclusive, representado processualmente pela defensoria.
+Requer o oferecimento do ANPP e a redução da prestação pecuniária para 1 salário mínimo.
+Contrarrazões (fls. 718/730).
+Admitido o recurso no TJ (fls. 731/737), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo parcial conhecimento e desprovimento do recurso especial (fls. 751/757).
+É o relatório.
+Decido.
+Sobre a violação ao art. 28-A do CPP, o TRF fez constar o seguinte no julgamento dos embargos de declaração (grifo nosso):
+"OMISSÃO - ANPP
+Em sede de embargos de declaração, a defesa alega, em síntese, que há omissão no acórdão em razão da necessidade de aplicação do Acordo de Não Persecução Penal (ANPP), previsto no artigo 28-A do Código de Processo Penal.
+O vício apontado não se verifica.
+Primeiro, porque a tese lançada nos embargos de declaração é, em sua essência, apartada do próprio objeto a que estava restrito o julgamento da apelação.
+Ademais, as questões atinentes à possibilidade de Acordo de Não Persecução Penal possuem caráter negocial a ser travado entre as partes, não havendo obrigação legal do Juiz ou Tribunal provocarem o ou o réu para que Parquet se manifestem quanto ao ponto.
+Consigne-se, por fim, que a Procuradoria Regional da República entendeu pela impossibilidade de oferecimento do acordo no caso concreto (ID. 257104889)." (fl. 685).
+Extrai-se do trecho acima que o Tribunal rechaçou omissão a respeito do ANPP, pois a discussão não foi devolvida pelo recurso de apelação, inexistente obrigação legal de provocação das partes e a Procuradoria Regional da República já ter afastado o cabimento do ANPP ao caso concreto.
+Nas razões do recurso especial, a defesa não refuta fundamento autônomo suficiente para manter o julgado, qual seja, a Procuradoria Regional da República já ter entendido pela impossibilidade de oferecimento do acordo no caso concreto, razão pela qual incide o óbice da Súmula n. 283 do Supremo Tribunal Federal - STF. Precedente (grifo nosso):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 222 DO CPP. CARTA PRECATÓRIA. NÃO SUSPENSÃO DA INSTRUÇÃO CRIMINAL. RESPEITO AO ART. 400 DO CPP. INTERROGATÓRIO COMO ÚLTIMO ATO INSTRUTÓRIO. NULIDADE QUE SE SUJEITA À DEMONSTRAÇÃO DE PREJUÍZO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. No presente caso, a Corte de origem consignou que sequer houve argumentação de prejuízo efetivo para a instrução. Mesmo que o réu tenha sido interrogado antes do regresso da precatória, prejuízo algum há, pois, como se disse, a carta é para inquirição do policial responsável pela prisão, não de testemunha presencial (e-STJ fls. 564).
+Ocorre que a parte deixou de atacar o referido fundamento, autônomo e suficiente para manter o julgado, incidindo a Súmula 283 do STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.168.397/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+.
+Sobre a violação ao art. 45, § 1º, do CP, o TRF fez constar o seguinte no julgamento dos embargos de declaração (grifo nosso):
+"OMISSÃO - Pena de prestação pecuniária
+O embargante sustenta que o acórdão foi omisso quanto aos fundamentos que justificaram a fixação da pena de prestação pecuniária em valor superior ao mínimo legal. Sem razão.
+O voto condutor foi assim redigido, no particular:
+"O Ministério Público Federal requereu, de forma subsidiária em seu recurso, que apena de reclusão imposta ao réu fosse substituída por duas penas restritivas de direitos, consistentes em uma pena de prestação de serviços e uma pena de prestação pecuniária em valor não inferior a dez salários mínimos, o que foi acolhido no aresto embargado, com base nos seguintes fundamentos:
+"Na hipótese em concreto, a pena privativa de liberdade foi substituída por uma pena restritiva de direitos (prestação de serviços à comunidade) e multa (dez dias-multa).
+No entanto, a substituição por uma pena de prestação pecuniária e uma pena de prestação de serviços à comunidade se mostra mais adequada à finalidade da pena, especialmente considerando que o delito praticado pelo réu importou em um prejuízo milionário aos cofres públicos.
+A pena pecuniária substitutiva da pena privativa de liberdade deve ser fixada de maneira a garantir a proporcionalidade entre a reprimenda substituída e as condições econômicas do condenado, além do dano a ser reparado. Ademais, não se deve olvidar que, nos termos do §1º do art. 45 do Código Penal:
+"A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360(trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários."
+Assim, fixo a pena de prestação pecuniária em 10 (dez) salários mínimos, porque o valor se mostra adequado à finalidade da pena, considerando os parâmetros acima expostos (capacidade econômica do réu e dano causado).
+Determino, por fim, que a pena de prestação pecuniária seja revertida em favor da União, nos termos do art. 45, §1º, do Código Penal." - grifei
+Extrai-se do referido trecho que dois foram os vetores assinalados no voto para aferição do quantum adequado da pena pecuniária: a condição econômica do réu e o valor do dano causado.
+Na hipótese, a condição econômica do réu foi analisada no tópico da justiça gratuita e foi reconhecida a sua hipossuficiência, por outro lado, o dano causado aos cofres públicos, detalhado no capítulo da materialidade delitiva, somava mais de dois milhões de reais. Assim, ponderados os dois critérios, a pena foi fundamentadamente fixada em dez salários mínimos." (fls. 685/686).
+Extrai-se do trecho acima que, ao contrário do alegado pela defesa, a condição econômica do réu foi aferida, assim como o dano causado aos cofres públicos, para fixar a pena de prestação pecuniária em 10 salários mínimos.
+De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ. No mesmo sentido, citam-se precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCLUSÃO EM PAUTA E INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. ART. 7º, § 2º-B, DO ESTATUTO DA OAB. AUSÊNCIA DE PREVISÃO LEGAL. PENA RESTRITIVA DE DIREITOS. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO DO VALOR. SITUAÇÃO FINANCEIRA DO RÉU. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..
+2. O valor da pena de prestação pecuniária foi fixado levando-se em conta as peculiaridades do caso, bem como a situação financeira do recorrente. Desse modo, a alteração do julgado encontra óbice na Súmula 7 desta Corte, haja vista a necessidade de incursão no arcabouço fático e probatório dos autos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.098.637/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+PROCESSO PENAL E PENA. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 45, § 1º, DO CP. PRESTAÇÃO PECUNIÁRIA CONCRETAMENTE FIXADA. REVISÃO QUE DEMANDARIA REEXAME FÁTICO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 45 do CP, a fixação do valor da prestação pecuniária deve observar o montante do dano a ser reparado e a capacidade econômica do Condenado.
+2. O art. 45, § 1.º, do Código Penal estabelece que o valor da prestação pecuniária será fixado pelo juiz em valor não inferior a 1 (um), nem superior a 360 (trezentos e sessenta) salários mínimos.
+3. Estabelecido o valor da prestação pecuniária dentro dos limites legalmente fixados e com amparo na análise do caso concreto, o acolhimento do pleito de redução da quantia imposta exigiria reexame fático-probatório, o que não é possível em recurso especial, nos termos da Súmula 7 desta Corte Superior.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.038.953/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
