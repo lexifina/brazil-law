@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça da Bahia, que indeferiu a liminar no writ de origem (fls. 17-20).
+Consta dos autos que o paciente foi preso em flagrante, em 14/2/2023, em decorrência do cumprimento de mandado de busca e apreensão em sua residência.
+Sustenta a defesa, em síntese, ilegalidade da prisão, por ainda não ter sido homologado o flagrante e nem realizada audiência de custódia.
+Requer, liminarmente e no mérito, a revogação da prisão.
+A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, plenamente adotada por esta Corte, em princípio, não se admite a utilização de habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que tão somente em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A liminar foi indeferida na origem nos seguintes termos (fls. 17-20):
+Trata-se de pedido de medida liminar formulado em Habeas Corpus, em sede de Plantão Judiciário de 2º Grau, impetrado pela Advogada CAMILA PITA MIRANDA (OAB/BA:68.900) em favor do Paciente ISRAEL DE JESUS SANTOS, apontando-se como autoridade impetrada o MM. JUÍZO DE DIREITO DO PLANTÃO DE PRIMEIRO GRAU.
+Relatou que o paciente foi preso em flagrante no dia 14 de fevereiro de 2023, após o cumprimento de mandado de busca e apreensão realizado em sua residência.
+Consignou que, em discordância com o estabelecido em leis penais, até o momento da impetração deste writ, ainda não teria sido realizada a homologação do flagrante e a audiência de custódia, embora tenham transcorrido mais de 96h de sua prisão, o que torna o cárcere ilegal.
+Asseverou que iniciado o recesso de carnaval ainda não haviam sido tomadas providências, razão pela qual foi apresentado pedido de relaxamento de prisão no Plantão Judiciário, tendo o Magistrado deixado de analisar o pedido sob o fundamento de que o APF encontra-se em trâmite perante o juízo competente para sua apreciação.
+Sustentou ter havido a violação do domicílio do paciente e pontuou que o relato de tentativa de fuga do acusado, após a comunicação do flagrante, seria inverídico.
+Consignou que a ação policial deu-se de modo violento, com disparos de arma de fogo, o que denotaria a ilegalidade da operação.
+Frisou as condições pessoais favoráveis do paciente, que seria primário.
+Pugnou, assim, pela concessão da medida liminar, com a consequente expedição de alvará de soltura, requerendo a confirmação da concessão da ordem no mérito.
+É o relatório.
+Como é cediço, a liminar, em sede de processo de Habeas Corpus, não é prevista em lei, sendo uma construção dos Tribunais, e sua concessão somente se dará quando os documentos que instruírem o pedido inicial evidenciarem, de plano, de modo inconteste, estreme de dúvidas, com clareza solar, a ilegalidade do ato judicial que promova a alegada coação ao direito de ir e vir.
+Necessário, pois, que o impetrante comprove a presença dos requisitos autorizadores da tutela liminar vindicada (periculum in mora e do fumus boni iuris), de forma a deixar patenteada a urgência na obtenção da medida, a caracterizar a impossibilidade de se prolongar - até o breve julgamento pelo Colegiado - o estado de coação ilegal incidente sobre o jus libertatis dos Pacientes.
+Neste ponto, convém salientar que a ação de Habeas Corpus é remédio jurídico que tem procedimento sumaríssimo e clama pela máxima celeridade, até porque voltado à tutela de um dos maiores bens das garantias constitucionais - a liberdade do indivíduo (CF, 5º, LXVIII).
+Tem-se, pois, em suma, que o imediatismo da medida liminar - que equivale a uma antecipação satisfativa do pedido - insere-se na própria natureza do instituto, razão pela qual somente em casos específicos está a merecer deferimento no momento inaugural da impetração.
+No caso em apreço, da análise sumária dos argumentos trazidos com a inicial, não se evidencia, nesse momento, a presença dos requisitos caracterizadores da medida liminar postulada.
+Com efeito, nota-se que a matéria sequer foi objeto de análise pela Primeira Instância, apesar da distribuição do APF para o juízo competente e da existência de requerimento do Ministério Público de que seja a segregação em flagrante convertida em preventiva.
+Entendo, nesse momento, prematura a análise por esta Segunda Instância da matéria, ao tempo em que observo, também, a gravidade concreta da conduta, considerando terem sido apreendidos com o acusado 13 pinos de cocaína, 01 pedra da mesma substância, 01porção considerável de maconha, além de vários sacos plásticos, tesoura, linha, caderno de anotações e duas caixas de balanças de precisão, além de ele ter acusado afirmado em seu interrogatório que já foi preso por furto, porte de drogas, tráfico de drogas e porte de arma de fogo.
+Dessa forma, entendo imprescindível, considerando o princípio da confiança no Juiz da causa, as devidas informações a respeito, devendo o mérito do processo ser submetido ao crivo do órgão colegiado, juiz natural da causa.
+Ao exposto, não vislumbro, prima facie, os elementos autorizadores da concessão segura da medida liminar suplicada, razão pela qual a INDEFIRO.
+Como se vê, as teses não foram apreciadas pelo Tribunal de origem, por não terem sido "objeto de análise pela Primeira Instância, apesar da distribuição do APF para o juízo competente e da existência de requerimento do Ministério Público de que seja a segregação em flagrante convertida em preventiva".
+Ademais, neste juízo sumário , não se verifica manifesta ilegalidade quantio à prisão, considerando que foram "apreendidos com o acusado 13 pinos de cocaína, 01 pedra da mesma substância, 0 1porção considerável de maconha, além de vários sacos plásticos, tesoura, linha, caderno de anotações e duas caixas de balanças de precisão, além de ele ter acusado afirmado em seu interrogatório que já foi preso por furto, porte de drogas, tráfico de drogas e porte de arma de fogo".
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não se verifica manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
