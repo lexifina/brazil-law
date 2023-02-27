@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela U. C. C. DE T. M. L., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - CONTRATO DE PLANO DE SAÚDE - NEGATIVA DE COBERTURA - TRATAMENTO RECOMENDADO PELO MÉDICO - APLICAÇÃO DO CDC - IMPOSSIBILIDADE DE RESTRIÇÃO - CLÁUSULA EXCLUDENTE ABUSIVA. - Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, nos termos das Súmulas 321 e 469 do STJ. O plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo nula a cláusula contratual que exclui o tratamento e próteses recomendadas pelo médico que acompanha o paciente. Agravo de Instrumento-Cv Nº 1.0000.22.039189-0/001 - COMARCA DE Pirapora - Agravante(s): U. C. C. DE T. M. L. - Agravado(a)(s): M.B.R. representado(a)(s) p/ mãe T.C.B.R" (e-STJ fl. 277).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 333/338).
+Em suas razões (e-STJ fls. 342/374), além de divergência jurisprudencial, a recorrente alega violação dos artigos 300, 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do Código de Processo Civil de 2015; 1º, 3º e 4º, III, da Lei nº 9.961/2000; 10, VI, VII, e § 4º, 35-G da Lei nº 9.656/1998 e 6º da Lei nº 12.376/2010.
+Aduz que o aresto recorrido incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito da validade da negativa de cobertura para procedimento não previsto no rol da Agência Nacional de Saúde Suplementar - ANS, cuja taxatividade, além de decorrer de lei, também restou reconhecida pela jurisprudência do Superior Tribunal de Justiça.
+Sustenta que os exames pretendidos não possuem cobertura obrigatória de acordo com o definido no rol taxativo da ANS, não sendo possível a ampliação da responsabilidade da recorrente.
+Defende que a concessão de uma cobertura não prevista no contrato firmado entre as partes viola o ato jurídico perfeito.
+Afirma que os requisitos para o deferimento da tutela provisória não foram comprovados.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 385/401), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data posterior à publicação da Emenda Constitucional nº 125. Assim, em conformidade com o Enunciado Administrativo nº 8/STJ, não se aplica ao caso o filtro de relevância inaugurado pela EC 125, ou seja, não se exige como requisito de admissibilidade a demonstração da relevância das questões de direito federal infraconstitucional
+A irresignação não merece prosperar.
+De início, no tocante à violação dos artigos 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do Código de Processo Civil, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+De fato, o aresto recorrido consignou que o entendimento foi baseado na jurisprudência do STJ, conforme demonstra a leitura dos seguintes trechos do acórdão que apreciou os aclaratórios:
+"(..)
+Eis que, o julgamento do agravo de instrumento foi antes do Resp especial quando, tratou da taxatividade das doenças para os planos de saúde. Inclusive o acordão embargado foi todo fundamentado com jurisprudência do Superior Tribunal de Justiça. Entende-se que a intenção da recorrente é de unicamente protelar a efetividade do resultado final da lide, ao argumento do desnecessário prequestionamento, neste momento processual" (e-STJ fl. 335).
+Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, cuida-se, na origem, de agravo de instrumento que discute o deferimento do pedido de tutela de urgência.
+A recorrente alega violação dos artigos 300 do CPC; 1º, 3º e 4º, III, da Lei nº 9.961/2000; 10, VI, VII, e § 4º, 35-G da Lei nº 9.656/1998 e 6º da Lei nº 12.376/2010.
+Quanto ao mérito, esta Corte Superior entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (REsp nº 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006, DJ 8/5/2006).
+Ademais, a Corte local, ao manter o deferimento do pedido asseverou que houve o atendimento aos requisitos para a concessão da tutela de urgência.
+A revisão de tal conclusão esbarra, inevitavelmente, no óbice da Súmula nº 7/STJ, visto que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. ENUNCIADO N. 735 DA SÚMULA DO STF. APLICAÇÃO. REVISÃO DA CONCLUSÃO ESTADUAL IMPLICA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO IMPROVIDO.
+1. Devido à precariedade da decisão liminar que decide pedido de concessão de tutela de urgência, passível de reversão a qualquer tempo pelas instâncias ordinárias, em regra, é incabível o recurso especial dela advindo, porque faltante o pressuposto constitucional do esgotamento de instância, conforme a Súmula 735/STF.
+2. A alteração do entendimento do acórdão recorrido acerca da presença, ou não, dos requisitos necessários ao deferimento da tutela de urgência demandaria o revolvimento do conjunto fático-probatório dos autos, medida defesa em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido" (AgInt no AREsp 1.248.498/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/6/2018, DJe 29/6/2018).
+Ante o exposto, conheço parcialmente do recurso especial para negar-lhe provimento.
+Deixa-se de tratar dos honorários recursais (artigo 85, § 11, do Código de Processo Civil), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
