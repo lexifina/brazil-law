@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado pela Defensoria Pública estadual em favor de RUAN DOS SANTOS SANTANA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1501465-96.2022.8.26.0228.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais o pagamento de 21 (vinte e um) dias-multa, como incurso nas iras do art. 157, §§, 2º, II, 2º-A, I, do Código Penal(fls. 15-24).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 25-33.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois não há fundamentação idônea a justificar a aplicação cumulativa das causas de aumento de pena.
+Sustenta que o art. 68, parágrafo único, do Código Penal não foi observado.
+Requer, assim, a concessão da ordem.
+Informações prestadas às fls. 40-52.
+O Ministério Público Federal, às fls. 56-61, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. CAUSA DE AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. ANÁLISE QUALITATIVA DAS CIRCUNSTÂNCIAS DO CASO. GRAVIDADE DO CRIME. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM" (fl. 56).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração o afastamento da aplicação cumulativa das causas de aumento de pena.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"No que concerne às reprimendas impostas, verifica-se que foram criteriosamente dosadas, em respeito aos critérios de razoabilidade e proporcionalidade, tendo sido estipuladas no mínimo legal, com majoração de 1/3 pela causa de aumento do concurso de agentes e de 2/3 pela causa de aumento do emprego de arma de fogo. Nada há, portanto, a ser alterado.
+Em nova reflexão sobre o tema, este Relator entende corretos os aumentos sucessivos. Nesse sentido, aliás, vem decidindo a Colenda Terceira Câmara de Direito Criminal deste Egrégio Tribunal" (fl. 31).
+Conforme relatado, a defesa pretende, em síntese, o reconhecimento da impossibilidade de aplicação concomitante entre o § 2º, inciso II (concurso de agentes), e o § 2º-A, inciso I (emprego de arma de fogo), ambos do art. 157 do Código Penal.
+A correta interpretação do art. 68 do Código Penal permite a aplicação cumulativa de causas de aumento de pena previstas na parte especial, desde que o magistrado sentenciante fundamente a necessidade do emprego cumulativo à reprimenda. Nesse sentido: STJ, HC n. 472.771/SC, Quinta Turma, Rel. Min. Reynaldo Soares Da Fonseca, DJe 13/12/2018; e STF, AgR no ARE n. 896843/MT, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 23/09/2015; HC n. 110.960/DF, Primeira Turma, Rel. Min. Luiz Fux, DJe de 24-09-2014.
+Na hipótese em foco, observa-se que as instâncias ordinárias não fundamentaram adequadamente o emprego cumulativo das majorantes previstas no § 2º, inciso II, e no § 2º-A, inciso I, ambos do art. 157 do Código Penal. Houve apenas remissão a gravidade do fato, a descrição das causas de aumento de pena aplicadas.
+Desta feita, deve ser afastada a incidência da majorante prevista no inciso II do § 2º do art. 157 do Código Penal, mantida a aplicação da causa de aumento de pena do inciso I do § 2º-A do mesmo dispositivo legal.
+Nesse compasso, atento aos parâmetros dosimétricos estabelecidos pelas instâncias ordinárias, fixo a pena para o delito de roubo em 6 (seis) anos e 8 (oito) meses de reclusão, mais o pagamento de 16 (dezesseis) dias-multa, tendo em vista o aumento de 2/3 (dois terços) previsto no inciso I do § 2º-A do art. 157 do Estatuto Repressivo.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena do paciente em 6 (seis) anos e 8 (oito) meses de reclusão, mais o pagamento de 16 (dezesseis) dias-multa, mantidos os demais termos da condenação.
+P. e I.
