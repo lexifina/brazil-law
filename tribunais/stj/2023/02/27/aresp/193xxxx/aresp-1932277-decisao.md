@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto pelo CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fl. 314):
+PELAÇÃO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. MULTAFIXADA EM SALÁRIO MÍNIMO. INCONSTITUCIONALIDADE. RECURSOPREJUDICADO.
+- O Plenário do E. Supremo Tribunal Federal examinou questão análoga no RE237.965 e considerou que a fixação da multa administrativa em número de salários mínimos, ofende o artigo 7º, inciso IV, da CF, conforme assentado na ADI 1.425
+.- Nulidade da cobrança das multas aplicadas pelo conselho, em razão da vedação da vinculação do seu valor ao salário-mínimo (artigo 7º, IV, da Constituição Federal).- Nulidade do título reconhecida, de ofício. Apelação prejudicada.
+Rejeitados os embargos de declaração opostos (fls. 372-383).
+No recurso especial, alega o recorrente, em síntese, que não há inconstitucionalidade ou não recepção na aplicação de multas vinculadas ao salário mínimo, no caso dos autos, e que a vedação da vinculação do salário mínimo é para os "valores monetários", e não para "valores de penalidades", em que é necessário repisar que a multa aplicada por esta autarquia é sanção pecuniária.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 496-497), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo .
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Consta dos autos que o Tribunal de origem reconheceu de oficio a nulidade do título e determinou a extinção da execução fiscal para reconhecer a nulidade da cobrança das multas aplicadas pelo Conselho, em razão da vedação de vinculação do seu valor ao salário mínimo, por violar norma de índole constitucional.
+Na hipótese concreta, não se mostra viável o conhecimento do recurso especial, sendo inaplicáveis os precedentes do STJ a respeito do tema, pois o acórdão hostilizado não solucionou a lide com base na exegese da legislação federal, mas sim na sua compatibilidade com a Constituição Federal de 1988. Confira-se o seguinte excerto do voto condutor (fl. 312):
+Assim, revejo meu entendimento anterior para reconhecer a nulidade da cobrança das multas aplicadas pelo conselho, em razão da vedação da vinculação do seu valor ao salário -mínimo (artigo7º, IV, Constituição Federal).
+Na hipótese dos autos, considerando o valor da causa (R$ 1.784,92-2 5/02/2008- fl. 2), bem como a matéria discutida nos autos, fixo os honorários advocatícios em 10% (dez por cento) de referido valor, devidamente atualizado, conforme a regra prevista no § 4º do artigo 20 do Código de Processo Civi111973. Note-se que, de acordo com os enunciados aprovados pelo Plenário do C. STJ, na sessão de 09/03/2016, a data do protocolo do recurso é parâmetro para aplicação da honorária de acordo com as regras do então vigente Código de Processo Civil/1973, como na espécie.
+Com efeito esse é o entendimento desta Corte. Confira-se:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. NULIDADE DA CDA. MULTA ADMINISTRATIVA. AFASTAMENTO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL.
+1. Devidamente impugnada a motivação para negativa de seguimento ao Recurso Especial, conhece-se do Agravo para examinar o apelo nobre.
+2. Controverte-se acórdão que extinguiu Execução Fiscal por reputar nulo o título executivo (CDA), na medida em que o crédito de natureza não tributária (multa administrativa) possui previsão legal em dispositivo reputado inconstitucional por dois motivos: a) indevida delegação de competência para o exequente fixar e majorar o valor das anuidades; e b) não recepção do art. 1º da Lei 5.724/1971 pela CF/1988.
+3. Na hipótese concreta não se mostra viável o conhecimento do Recurso Especial, sendo inaplicáveis os precedentes do STJ a respeito do tema, pois o acórdão hostilizado não solucionou a lide com base na exegese da legislação federal, mas sim de sua compatibilidade com a Constituição Federal de 1988.
+4. Confira-se o seguinte excerto do voto condutor (fl. 86, e-STJ):
+"(..) o decisum recorrido enfrentou a questão relativa à sanção pecuniária do conselho profissional estabelecida no artigo 1º da Lei nº 5.724/71 e, ainda, considerou que a fixação da multa administrativa em número de salários mínimos ofende o artigo 7º, inciso IV, da Constituição Federal, conforme decidido na ADI nº 1.425, e salientou que o Pleno do Supremo Tribunal Federal examinou questão análoga no RE nº 237.965..".
+5. Em relação ao dissídio jurisprudencial, destaco que a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+6. Agravo conhecido para não se conhecer do Recurso Especial.
+(AREsp n. 1.578.318/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
