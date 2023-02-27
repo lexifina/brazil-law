@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de AMERICO EDUARDO DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0012370-89.2016.8.26.0506.
+Consta nos autos que, em primeiro grau, o Paciente foi condenado pela prática do crime previsto no art. 311, caput, do Código Penal à reprimenda de 3 (três) anos de reclusão, em regime inicial semiaberto, e 58 (cinquenta e oito) dias-multa (fls. 19-32).
+O Sentenciado apelou ao Tribunal estadual, que desproveu o recurso (fls. 34-39).
+O Paciente interpôs recurso especial, que foi inadmitido em decisão proferida na origem, desafiada pelos respectivo agravo. Nesta Corte, o Agravo em Recurso Especial n. 1.792.872/SP foi desprovido, em decisão monocrática disponibilizada no Diário da Justiça Eletrônico em 03/05/2021, certificando-se o trânsito em julgado em 17/05/2021. A Defesa também impetrou, neste Sodalício, o Habeas Corpus n. 658749/SP, cujo pedido foi, em parte, conhecido e, nessa extensão, indeferido.
+Neste writ, o Impetrante insurge-se contra o regime inicial para resgate da pena aplicada ao Paciente. Alega que, embora a pena seja inferior a quatro anos, as instâncias ordinárias fixaram o modo intermediário, tendo em vista os maus antecedentes do Sentenciado. Argumenta, porém, que "a fundamentação é nitidamente, de caráter pessoal, ou seja, a opinião pessoal dos julgadores, é que motivaram (sic) a fixação do regime semiaberto, contrariando assim, a CF/88, o CP, bem como a jurisprudência consolidada do STJ (fl. 14).
+Requer, liminarmente e no mérito, a concessão da ordem para que seja fixado o regime inicial aberto.
+É o relatório. Decido.
+O pedido é incognoscível.
+De início, verifico que a controvérsia em exame diz respeito somente à suposta inidoneidade dos fundamentos utilizados para a a fixação do regime inicial semiaberto.
+É de bom alvitre destacar que a Defesa do Paciente impugnou o acórdão proferido no julgamento da Apelação Criminal n. 0012370-89.2016.8.26.0506 (apontado como ato coator neste writ) por meio do Agravo em Recurso Especial n. 1.792.872/SP e do Habeas Corpus n. 658749/SP.
+Ocorre qu e, no julgamento do Agravo em Recurso Especial n. 1.792.872/SP, foi, expressamente, rechaçada a pretensão defensiva de estabelecimento do modo mais benéfico para resgate inicial da pena. Ressaltei, naquela via re cursal, que "não obstante o montante final da sanção estabelecido em patamar aquém de 4 (quatro) anos de reclusão,  ..  a existência de circunstância judicial negativa, em razão dos maus antecedentes, justifica a manutenção do regime semiaberto para o início do cumprimento da pena e impossibilita a substituição da pena privativa de liberdade em restritivas de direitos" - a revelar que a questão veiculada na exordial do writ já foi apreciada por este Superior Tribunal de Justiça em outra oportunidade.
+E, consoante pacífica jurisprudência desta Corte, " n ão se conhece de habeas corpus que é mera reiteração de outro feito, ainda que o resultado tenha sido desfavorável à defesa" (AgRg no HC n. 730.516/PB, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022; sem grifos no original).
+Cito, no ponto, os seguintes julgados, ante a similitude com caso sub judice:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. PENA-BASE. MINORANTE DO TRÁFICO PRIVILEGIADO. QUESTÕES JÁ APRECIADAS NO ARESP N. 679.733/SP.  .. . AGRAVO IMPROVIDO.
+1. As questões referentes à desproporcionalidade da pena-base e da fundamentação do afastamento da minorante encontram-se superadas, pois já foram apreciadas no julgamento do Aresp n. 679.733/SP, conexo a este, por decisão publicada em 16/8/2016.
+ ..
+3. Agravo regimental improvido." (AgRg no HC n. 625.046/SP, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 2/3/2021, DJe de 5/3/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  DOSIMETRIA. PLEITO DE RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. QUESTÃO JÁ APRECIADA POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O pleito de aplicação da minorante do tráfico privilegiado já foi apreciado por esta Corte Superior nos autos do AREsp n. 1.774.038/SP e do HC n. 547.663/SP. Com efeito, " é  pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+ ..
+4. Agravo regimental desprovido." (AgRg no HC n. 718.845/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022; sem grifos no original.)
+No mesmo sentido: AgRg no HC n. 751.440/DF, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 09/08/2022, DJe 1 5/08/2022; AgRg no HC n. 755.879/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 09/08/2022, DJe 16/08/2022; AgRg no RHC n. 163.643/MG, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 14/06/2022, DJe 21/06/2022 e AgRg no HC n. 738.273/RS, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 07/06/2022, DJe 10/06/2022, v. g.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO. PLEITO DE ABRANDAMENTO DO REGIME INICIAL. MATÉRIA JÁ ANALISADA POR ESTA CORTE NO AGRAVO EM RECURSO ESPECIAL 1.792.872/SP. MERA REITERAÇÃO. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
