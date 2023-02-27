@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO FERNANDO GUIMARÃES contra decisão monocrática, da minha lavra, que não conheceu do habeas corpus, contudo concedeu a ordem de ofício, apenas para redimensionar a pena.
+O agravante aduz, em síntese, que houve sim violação de domicílio, devendo ser reconhecida a ilicitude das provas daí derivadas, motivo pelo qual pugna pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AGRAVO INTEMPESTIVO. PRAZO DE 5 DIAS. NÃO OBSERVÂNCIA. ART. 258 DO RISTJ E 798 DO CPP. 2. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP. Na hipótese, a decisão monocrática foi disponibilizada no DJe em 15/12/2022 e considerada publicada em 16/12/2022, tendo o prazo recursal se iniciado em 19/12/2022 e terminado em 23/12/2022, prorrogando-se até o primeiro dia útil, em 1º/2/2023. Contudo, o presente agravo foi interposto apenas em 4/2/2023, sendo, portanto, manifestamente intempestivo, conforme certificado à e-STJ fl. 474.
+- O recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão. Precedente. 3. Agravo regimental desprovido. (AgRg no AREsp n. 1.481.251/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2019, DJe de 10/9/2019.)
+2. Agravo regimental não conhecido.
+VOTO
+Não é possível conhecer do presente agravo.
+Com efeito, o prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do Código de Processo Penal.
+Na hipótese, a decisão monocrática foi disponibilizada no Diário de Justiça eletrônico em 15/12/2022 e considerada publicada em 16/12/2022 (e-STJ fl. 452), tendo o prazo recursal se iniciado em 19/12/2022 e terminado em 23/12/2022, prorrogando-se até o primeiro dia útil, em 1º/2/2023. Contudo, o presente agravo foi interposto apenas em 4/2/2023, sendo, portanto, manifestamente intempestivo, conforme certificado à e-STJ fl. 474.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. RECURSO EM MATÉRIA PENAL. PRINCÍPIO DA ESPECIALIDADE. INTEMPESTIVIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A suspensão do curso dos prazos processuais prevista no art. 220 do novo Código de Processo Civil - CPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do Código de Processo Penal - CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade. Precedente. 2. O recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão. Precedente. 3. Agravo regimental desprovido. (AgRg no AREsp n. 1.481.251/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2019, DJe de 10/9/2019.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
