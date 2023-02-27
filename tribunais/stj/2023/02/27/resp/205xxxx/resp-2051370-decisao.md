@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Conselho Regional de Engenharia e Agronomia de Santa Catarina - Crea/SC, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 95):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. ARTIGO 8º, §2º, DA LEI Nº 12.514, DE 2011, COM A REDAÇÃO DADA PELA LEI Nº 14.195, DE 2021. APLICAÇÃO ÀS EXECUÇÕES EM CURSO. ARQUIVAMENTO DO FEITO. NOVO PISO A SER CONSIDERADO CORRESPONDENTE A R$ 2.500,00, ATUALIZADO PELO INPC DESDE 10-2011.
+A parte recorrente aponta violação aos arts. 8º, § 2º, 4º, I, II e III, e 6º, I, § 1º da Lei nº 12.514/2011 com as alterações promovidas pela Lei nº 14.195/2021. Sustenta, em resumo, que "Em que pese a nova legislação possuir vigência e aplicação imediata, de acordo com o artigo 6º da Lei de Introdução às normas de Direito Brasileiro, sua aplicação retroativa é vedada em nosso ordenamento jurídico, conforme expressamente previsto no artigo 14 do CPC" (fl. 107).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com relação aos arts. 6º e 8º da Lei 12.514/11, nota-se que os referidos dispositivos legais não possuem comando capaz de sustentar a tese recursal referente à lei processual no tempo e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Além disso, o Tribunal de origem não se manifestou quanto à aplicação dos arts. 6º da LINDB e 14 do CPC, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
