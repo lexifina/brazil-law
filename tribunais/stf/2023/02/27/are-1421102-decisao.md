@@ -1,0 +1,75 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROFESSORAS MUNICIPAIS APOSENTADAS. ENQUADRAMENTO NO ART. 19 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. AUSÊNCIA DE APROVAÇÃO EM CONCURSO PÚBLICO. EFETIVIDADE NÃO RECONHECIDA. IMPOSSIBILIDADE DE EQUIPARAÇÃO COM SERVIDORES PÚBLICOS EM ATIVIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Ceará:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL EM AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. SERVIDORAS MUNICIPAIS ESTABILIZADAS. ART. 19 DO ADCT. APOSENTADORIA. PARIDADE EM RELAÇÃO AOS VENCIMENTOS DOS SERVIDORES ATIVOS. IMPOSSIBILIDADE. EQUIPARAÇÃO DESTINADA AOS PROVENTOS DE APOSENTADORIA DOS SERVIDORES PÚBLICOS TITULARES DE CARGO EFETIVO. APELAÇÃO CONHECIDA, MAS DESPROVIDA.
+
+    1. Cinge-se o pleito em avaliar-se as servidoras estabilizadas no serviço público, em decorrência do art. 19 do Ato das Disposições Constitucionais Transitórias, após aposentar-se, possuem direito à paridade de benefício de aposentadoria em relação aos vencimentos dos servidores ativos.
+
+    2. A parte apelante aduz na peça inicial que seu direito é assegurado pelo art. 2º, § 5º da Lei Federal nº 11.738/2008, a qual institui o piso salarial profissional nacional para os profissionais do magistério público da educação básica. A norma assegurou apenas ao servidor ocupante de cargo de provimento efetivo o direito à paridade de benefício de aposentadoria em relação aos vencimentos dos servidores ativos.
+
+    3. Os institutos da estabilidade adquirida e da efetividade não se confundem. O primeiro decorre da excepcionalidade descrita no art. 19 do ADCT, que tornou estável aquele servidor que, na data da promulgação da CF/1988, estivesse em exercício há pelo menos cinco anos continuados e que não tenha sido admitido na forma do art. 37 da Carta Magna, ao passo que o segundo é atributo de provimento efetivo de cargo após aprovação em concurso público. Logo, não fazem jus à equiparação pleiteada, posto que exclusiva dos proventos de aposentadoria dos servidores públicos titulares de cargo efetivo.
+
+    5. Apelação conhecida, mas desprovida” (fls. 1-2, e-doc. 4).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 7).
+
+    2. No recurso extraordinário, as agravantes alegam ter o Tribunal de origem contrariado o caput do art. 5º e os arts. 18, 37 e 40 da Constituição da República, os arts. 7º e 8º da Emenda Constitucional n. 41/2003, o art. 2º da Emenda Constitucional n. 47/2005 e o art. 19 do Ato das Disposições Constitucionais Transitórias.
+
+    Afirmam-se “aposentadas pelo regime próprio de previdência municipal e não pelo INSS, sendo que a própria legislação que rege o regime próprio de Quixeramobim, considera os servidores estabilizados como ocupantes de cargo efetivo, sendo portanto equiparadas” (sic, fl. 4, e-doc. 9).
+
+    Asseveram que “o direito à paridade nunca foi respeitado, posto que as partes recorrentes nunca tiveram o mesmo reajuste dado a cada ano aos profissionais do magistério da ativa em Quixeramobim, conforme contracheques anexos, que demonstram que recebem bem aquém do que deveriam, já que deveriam estar recebendo, com os reajustes concedidos conforme a lei do piso do magistério, que prevê, no caso das partes recorrentes, direito à paridade de reajuste” (fl. 6, e-doc. 9).
+
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal, de ausência de ofensa constitucional direta e incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (fls. 1-4, e-doc. 11).
+
+    As agravantes reiteram os argumentos do recurso extraordinário e sustentam que, “ainda que se entenda que é o caso de revisar fatos e provas, o que não é nem de longe necessário no presente, trata-se de error in judicando, proveniente de equívoco na valoração das provas que pode ser objeto de recurso extraordinário” (fl. 6, e-doc. 12).
+
+    Pedem o provimento do presente recurso extraordinário com agravo.
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. Razão jurídica não assiste às agravantes
+
+    5. No julgamento do Recurso Extraordinário n. 590.260-RG (Tema 139), este Supremo Tribunal, após reconhecer a repercussão geral da controvérsia constitucional, julgou o mérito e fixou a tese de que “os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005” (tese aprovada na Décima Segunda Sessão Administrativa do Supremo Tribunal Federal, realizada em 9.12.2015).
+
+    Não é o caso, entretanto, de aplicação desse tema de repercussão geral, pois o Tribunal de origem concluiu que as agravantes não preencheram o requisito da efetividade no serviço público municipal, sendo impossível reconhecer o direito à paridade remuneratória com servidores públicos efetivos.
+
+    6. Na espécie vertente, o Tribunal de Justiça do Ceará assentou que:
+
+      “No caso concreto, não apiram dúvidas que as recorrentes são servidoras estáveis, visto que foram beneficiadas pelo art. 19 do Ato das Disposições Constitucionais Transitórias. Porém, não podem ser consideradas detentoras de cargo efetivo, uma vez que não ingressaram no serviço público por meio de concurso público. Logo não fazem jus à equiparação pleiteada, posto que exclusiva dos proventos de aposentadoria dos servidores públicos titulares de cargo efetivo” (fl. 10, e-doc. 4).
+
+    Este Supremo Tribunal tem decidido que os servidores ou empregados públicos alcançados pela estabilidade prevista no art. 19 do Ato das Disposições Constitucionais Transitórias não se equiparam aos servidores efetivos, pois nesse dispositivo apenas se confere o direito de permanência no serviço público nos cargos em que admitidos, sem incorporação na carreira e sem direitos aos benefícios privativos dos servidores efetivos. Assim, por exemplo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. ARTIGO 7º DA LEI COMPLEMENTAR Nº 100/2007 DO ESTADO DE MINAS GERAIS. DECLARAÇÃO DE INCONSTITUCIONALIDADE. ADI 4.876/DF. MODULAÇÃO DOS EFEITOS. RESSALVA PARA AQUELES QUE JÁ ESTAVAM APOSENTADOS E AQUELES QUE, ATÉ A DATA DA PUBLICAÇÃO DA ATA DE JULGAMENTO, TENHAM PREENCHIDO OS REQUISITOS PARA A APOSENTADORIA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STF. 1. No julgamento da ADI 4.876/DF (Rel. Mi. DIAS TOFFOLI, DJe de 1º/7/2014), o Plenário desta CORTE conheceu da ação direta, julgando-a parcialmente procedente para declarar a inconstitucionalidade dos incisos I, II, IV e V do art. 7º da Lei Complementar nº 100/2007. E, por maioria, modulou os efeitos da declaração de inconstitucionalidade para, (a) em relação aos cargos para os quais não haja concurso público em andamento ou com prazo de validade em curso, dar efeitos prospectivos à decisão, de modo a somente produzir efeitos a partir de doze meses, contados da data da publicação da ata de julgamento, tempo hábil para a realização de concurso público, a nomeação e a posse de novos servidores, evitando-se, assim, prejuízo aos serviços públicos essenciais prestados à população; (b) em relação aos cargos para os quais exista concurso em andamento ou dentro do prazo de validade, a decisão deve surtir efeitos imediatamente. 2. Na oportunidade, ficaram ressalvados dos efeitos desta decisão (a) aqueles que já estejam aposentados e aqueles servidores que, até a data de publicação da ata deste julgamento, tenham preenchidos os requisitos para a aposentadoria, exclusivamente para efeitos de aposentadoria, o que não implica em efetivação nos cargos ou convalidação da lei inconstitucional para esses servidores; (b) os que se submeteram a concurso público quanto aos cargos para os quais foram aprovados; e (c) a estabilidade adquirida pelos servidores que cumpriram os requisitos previstos no art. 19 do Ato das Disposições Constitucionais Transitórias da Constituição Federal. 3. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final) (RE n. 1.404.091-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 12.12.2022).
+
+    “Direito administrativo. Agravo interno em embargos de divergência em embargos de declaração em agravo interno em recurso extraordinário com agravo. Provimento derivado. Concurso público. Ausência de similitude fática entre os acórdãos embargado e paradigma. Fato novo. Inaplicabilidade do art. 493 do CPC. 1. O acórdão embargado está alinhado à jurisprudência do Supremo Tribunal Federal (STF) no sentido de que a estabilidade excepcional prevista no art. 19 do ADCT difere da efetividade, para a qual é imprescindível a aprovação em concurso público. 2. A parte embargante não teve êxito em demonstrar a existência de identidade ou de similitude entre o tema discutido no acórdão embargado e os fundamentos do julgado paradigma, tal como previsto no art. 331 do RI/STF. Nessa hipótese, restam incabíveis os embargos de divergência. 3. A jurisprudência do STF firmou-se no sentido da inaplicabilidade do art. 493 do CPC/2015 em sede de recurso extraordinário. 4. Agravo interno a que se nega provimento” (ARE n. 1.334.462-AgR-ED-EDv-AgR, Relator o Ministro Roberto Barroso, Plenário, DJe 21.11.2022).
+
+    Essa orientação jurisprudencial também foi observada no julgamento da Ação Direta de Inconstitucionalidade n. 3.636, Relator o Ministro Dias Toffoli, na qual este Supremo Tribunal assentou que, “mesmo os celetistas estabilizados pela regra do art. 19 do ADCT, e agora amparados pelo regime estatutário, não poderiam titularizar cargo de provimento efetivo sem a aprovação em concurso ao qual se refere o § 1º do art. 19 do ADCT. Esses possuem apenas o direito de permanecer na função para as quais foram admitidos, somente vindo a adquirir efetividade no cargo quando se submeterem a certame público” (Plenário, DJe 7.1.2022).
+
+    7. No julgamento dos embargos de declaração opostos pelas recorrentes contra o acórdão do Tribunal de Justiça estadual, o Desembargador Relator ressaltou que “as recorrentes são servidoras estabilizadas e, a rigor, deveriam ter se vinculado ao regime Geral de Previdência Social (INSS), e não ao Regime Próprio do Município de Quixeramobim, que é exclusivo dos servidores efetivos” (fl. 5, e-doc. 7).
+
+    O Tribunal de origem observou a jurisprudência deste Supremo Tribunal, formada a partir da interpretação conferida ao art. 19 do Ato das Disposições Constitucionais Transitórias, para afastar a equiparação das agravantes aos servidores públicos efetivos do magistério municipal. Neste sentido, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. SERVIDORA PÚBLICA APOSENTADA. ESTABILIDADE DO ART. 19 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE SERVIDORES ESTÁVEIS NÃO EFETIVOS E SERVIDORES EFETIVOS. VINCULAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. PRECEDENTES. AGRAVO REGIMENTAL PROVIDO PARA DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO” (RE n. 1.375.560-AgR, de que fui Redatora para o acórdão, Primeira Turma, DJe 1º.8.2022).
+
+    “Agravo Interno em Recurso Extraordinário. Direito Administrativo e Constitucional. Agentes Públicos estabilizados pelo art. 19 do ADCT. Regime Previdenciário. 1. Agravo interno de decisão que negou seguimento a recurso extraordinário interposto de acórdão que determinara a vinculação de servidores não efetivos, estabilizados pelo art. 19 do ADCT, ao regime próprio de previdência social. 2. Os servidores abrangidos pela estabilidade excepcional prevista no art. 19 do ADCT não se equiparam aos servidores efetivos e, portanto, estão vinculados ao Regime Geral de Previdência Social. Inteligência o art. 40 da CF, na redação dada pela EC 20/98. 3. Agravo interno provido” (RE n. 1.381.137-AgR, Relator para o acórdão o Ministro Roberto Barroso, Primeira Turma, DJe 29.8.2022).
+
+    8. No julgamento do Recurso Extraordinário com Agravo n. 1.306.505-RG (Tema 1.157), Relator o Ministro Alexandre de Moraes, este Supremo Tribunal fixou a tese de ser “vedado o reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor admitido sem concurso público antes da promulgação da Constituição Federal de 1988, mesmo que beneficiado pela estabilidade excepcional do artigo 19 do ADCT, haja vista que esta regra transitória não prevê o direito à efetividade, nos termos do artigo 37, II, da Constituição Federal e decisão proferida na ADI 3.609 (Rel. Min. Dias Toffoli, Tribunal Pleno, DJe. 30/10/2014)” (DJe 4.4.2022).
+
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, pelo que nada há a prover quanto às alegações das agravantes.
+
+    9. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 27 de fevereiro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
