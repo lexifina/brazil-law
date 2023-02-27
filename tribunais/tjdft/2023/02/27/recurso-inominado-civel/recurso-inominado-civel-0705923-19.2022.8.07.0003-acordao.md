@@ -1,0 +1,48 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0705923-19.2022.8.07.0003RECORRENTE(S)FOREI GNER DOMINGOS ALVESRECORRIDO(S)MARIANO ALVES NASCIMENTORelatorJuiz FLÁVIO FERNANDO ALMEIDA DA FONSECA Acórdão Nº1668671
+
+EMENTA
+
+ JUIZADO ESPECIAL. CÍVEL. OFENSA EM PORTARIA DE PRÉDIO RESIDENCIAL. DANO MORAL CONFIGURADO. ADEQUAÇÃO DO VALOR DA CONDENAÇÃO. RECURSO CONHECIDO E PROVIDO EM PARTE.
+
+I. Trata-se de recurso inominado interposto pela parte ré em face da sentença que julgou procedente em parte os pedidos formulados na inicial e improcedente o pedido contraposto, condenando a parte ré ao pagamento de danos morais no valor de R$ 7.000,00. Em seu recurso defende que realmente ocorreu uma discussão entre as partes, mas que não existem provas de que o réu teria a intenção de causar danos ao autor, inclusive porque a parte autora não restou constrangida perante a sociedade. Assinala que foi apenas um fato isolado, sem público ou expectadores, configurando mero aborrecimento. Destaca que para apurar eventual dano moral deveria ser considerada a saúde mental ou distúrbio psicológico da parte ré e eventuais reflexos sobre a parte autora. Desse modo, assinala que não ocorreram danos da conduta para o autor, que continua exercendo a sua profissão na portaria do prédio onde reside a parte ré, o que atesta que a situação não tornou insuportável a sua vida cotidiana. Ressalta a necessidade de considerar que o comportamento do autor, na função de porteiro do prédio, contribuiu para a ocorrência do evento danoso. Ainda, reforça a necessidade de ser observado que o réu está em tratamento psiquiátrico e desempregado. Assim, pugna pela improcedência do pedido de condenação por danos morais. Subsidiariamente, requer a redução do montante para o equivalente a um salário mínimo.
+
+II. Recurso próprio, tempestivo e dispensado de preparo ante pedido formulado de concessão da gratuidade de justiça. Contrarrazões apresentadas.
+
+III. Não se admite a juntada extemporânea do documento ID 42547615, com o intuito de comprovar o diagnóstico psiquiátrico da parte ré. Apesar de incidir o princípio da informalidade nos juizados especiais, a sua aplicação não autoriza que sejam apresentadas provas intempestivas. Isso porque não é viável a juntada de provas apenas após a sentença quando eram pré-existentes, sem qualquer elemento a subsidiar a ausência de sua juntada no momento oportuno. No caso, destaca-se que a parte ré desde a contestação reforça o seu diagnóstico psiquiátrico, de modo que corresponde a situação pré-existente, com documentos a serem juntados por ocasião da ocasião da contestação, não sendo admitida a juntada de provas posteriores para atestar a situação pré-existente, ainda que o referido laudo ID 42547615 tenha sido emitido apenas no dia 01/10/2022. Quanto aos documentos ID 42547616-42547617, relevante pontuar que não interferem nos fatos já atestados, uma vez que a parte ré pretendia demonstrar que o autor não teria sido demitido diante dos acontecimentos debatidos nos autos, o que é fato inconteste, que já havia sido reforçado pelo autor por ocasião da sua oitiva na audiência de instrução (ID 42547605 06:30).
+
+IV. A parte ré assinala que foi até a portaria do prédio para buscar uma chave, sendo que na ocasião não foi atendido de imediato pelo autor (que exerce a função de porteiro) face o alto movimento de pessoas no local e apenas o autor para atendê-las. O réu destaca que a situação decorreu de um momento de deslize, quando estava fora do seu juízo por estar sem medicação e visivelmente embriagado, sendo que o autor não teria contribuído para sanar a sua demanda, de modo que o réu teria se irritado e ocasionado uma discussão entre as partes. Ainda, destacou que sofre de “Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - síndrome de dependência”, “transtorno afetivo bipolar”, e “transtorno hipercinético”, além de transtorno do espectro autista (ID 42547564, págs. 3/4 e ID 42547571). Enfim, na ocasião da audiência de instrução o réu pontuou que os fatos ocorreram no dia do seu aniversário, data em que após acordar se deslocou para a piscina do prédio, onde bebeu uma garrafa de whisky e deixou de tomar seu medicamento. Assim, assinalou que no momento que estava pedindo uma chave para o autor recebeu a negativa porque ele estava atendendo outras pessoas, ocasião em que afirmou ter sofrido um surto, sendo que não possui desavenças em face da parte autora. Alegou que deveriam considerar a sua situação, pois era caso de chamar uma ambulância para ajudá-lo e não a polícia. Inclusive, mencionou recordar que durante o surto proveniente da sua situação de autista ficava gritando e fazendo movimento de bater com os braços (ID 42547606).
+
+V. Ao contrário do alegado pela parte ré recorrente, as ofensas estão devidamente comprovadas, e foram presenciadas por diversas pessoas, sendo inclusive reconhecido pelo réu durante a audiência que uma mulher chamou a polícia diante da situação. No caso, o réu exigiu ser atendido na frente de outras pessoas que aguardavam, o que foi negado pelo autor, de modo que a parte ré se exaltou e começar a proferir xingamentos em face do autor, bem como que ele seria um “bosta” e que pagava o seu salário, além de afirmar que estava sendo perseguido tão somente pela sua condição de homossexual. Inclusive, a situação somente foi resolvida quando uma moradora que presenciava a situação ligou para a polícia, ocasião em que o réu deixou o local e voltou para o seu apartamento. Ademais, a testemunha “Stanley” (ID 42547607) presenciou os fatos, ressaltando que o réu estava totalmente alterado, gritando e xingando o autor, inclusive se jogando para cima do autor (um “peitaço”, conforme expressão utilizada pelo companheiro da parte ré - ID 42547608) e afirmando “você está me agredindo?”, além de tentar derrubar o balcão da recepção, enquanto que o autor se manteve de forma profissional e bem educado, apenas se protegendo para evitar eventual agressão por parte do réu.
+
+VI. A obrigação de indenizar surge quando o ato praticado excede o limite da mera indignação, de modo a ultrapassar os demarcadores e ferir a dignidade e/ou personalidade alheia. No caso, ainda que a parte autora não tenha sofrido demissão do emprego em decorrência da situação vivenciada, constata-se que os fatos relatados suplantam o mero dissabor, com evidente afronta à dignidade da parte autora, que exercia de forma adequada a sua função no prédio. Adiante, não se desconhece o quadro de transtorno psiquiátrico da parte ré uma vez que, apesar dos documentos juntados por ocasião da contestação remontarem aos anos de 2018 e 2019, é de conhecimento geral que tais transtornos não são “curados” apenas mediante a utilização de medicamentos, prolongando-se no tempo. Todavia, a existência de transtornos psiquiátricos e embriaguez no momento dos fatos não afasta a sua responsabilidade pelos seus atos, uma vez que é plenamente capaz, possuindo condições de exercer e responder pelos seus atos da vida civil. Desse modo, o seu quadro clínico não permite ofender a honra de terceiros, de modo que está configurado o dano moral indenizável.
+
+VII. Em observância aos princípios da razoabilidade e da proporcionalidade, considerando-se a situação da parte ofendida, o dano e a sua extensão, o nexo de causalidade e a capacidade econômica das partes, com o escopo de se tornar efetiva a reparação, sem que se descure a vedação ao enriquecimento sem causa, constata-se que o montante fixado está acima do adequado às nuances do caso concreto. Para tanto, deve-se ponderar a gravidade das ofensas e menosprezo em face do profissional que apenas exercia a sua função do prédio, mas sem desconsiderar que a situação foi decorrente de um momento isolado de descontrole, um surto de pessoa com relatos de transtornos psiquiátricos e transtorno do espectro autista, que se mostrou visivelmente arrependida da conduta por ocasião da sua oitiva na audiência, além de estar desempregada. Assim, o valor do dano moral deve ser reduzido de R$ 7.000,00 (sete mil reais) para R$ 2.500,00 (dois mil e quinhentos reais).
+
+VIII. RECURSO CONHECIDO E PROVIDO EM PARTE. Sentença reformada para reduzir a condenação por danos morais para R$ 2.500,00 (dois mil e quinhentos reais). Sem custas processuais e sem honorários advocatícios, face a ausência de recorrente vencido, a teor do art. 55 da Lei nº 9.099/95.
+
+IX. A ementa servirá de acórdão, conforme art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator, RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 1º Vogal e AISTON HENRIQUE DE SOUSA - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 03 de Março de 2023
+
+Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECARelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 1º Vogal Com o relatorO Senhor Juiz AISTON HENRIQUE DE SOUSA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNANIME.
