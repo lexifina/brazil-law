@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por DOUGLAS MORAES DO NASCIMENTO contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"Agravo de instrumento. Direito empresarial e processual civil. Recuperação judicial. Confirmação da competência da 4ª Vara Empresarial do Estado do Rio de Janeiro para processar e julgar o pedido. Precedência de pedidos de falência distribuídos em face de outras empresas participantes do grupo econômico. Recurso desprovido." (fl. 122 e-STJ)
+No especial, o recorrente aponta a violação do art. 6º, §8º, da Lei nº 11.101/2005, além de divergência a respeito da interpretação do aludido dispositivo legal, sustentando, em síntese, a incompetência absoluta da 4ª Vara empresarial do Rio de Janeiro para processar a recuperação judicial da JFE2 EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Após a apresentação das contrarrazões (fls. 255/270 e-STJ), e inadmitido o recurso na origem (fls. 272/276 e-STJ), sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+Por meio do Parecer de fls. 385/392 e-STJ, o Ministério Público Federal opina pelo não provimento do agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De fato, segundo o acórdão recorrido,
+"(..) o Agravante busca reformar a decisão recorrida para que seja firmada a competência da Vara de Falências, Recuperações Judiciais, Insolvência Civil e Litígios Empresariais de Brasília/DF para processar e julgar o feito originário, porquanto já julgou o pedido de falência nº 0708397-29.2019.8.07.0015, manejado em face da JFE10.
+Não assiste razão ao Agravante, porquanto os requerimentos de falência nos 0419897-82.2016.8.19.0001, 0409059-80.2016.8.19.0001, 0038611-24.2017.8.19.0001 e 0122699-92.2017.8.19.0001, foram processados no Juízo agravado e embasaram a distribuição da recuperação judicial em questão, nos termos do artigo 6º, §8º, da Lei 11.101/05, sendo precedentes ao pedido de falência nº. 0708397-29.2019.8.07.0015 noticiado pelos Agravantes.
+O Agravante objetiva afastar a competência do Juízo agravado ao argumento de que não havia, no Rio de Janeiro, pedido de falência em relação à JFE10. Cuida-se de argumento irrelevante, uma vez que referida empresa faz parte de um grupo empresarial em recuperação. Conforme corretamente afirmado pela Procuradoria de Justiça, a recuperação judicial "tem por finalidade resguardar, também, o interesse maior da reestruturação global do grupo societário, não mais a superação da crise de uma sociedade." (fls. 128/129 e-STJ, grifou-se)
+Nesse contexto, a Corte estadual se alinha com o entendimento deste STJ, no sentido de que "conquanto o pedido de recuperação judicial tenha sido efetuado por cinco empresas que compõem um grupo econômico, certo é que contra uma dessas empresas já havia requerimento de falência em curso, o que, consoante o teor do art. 6º, § 8º, da Lei n. 11.101/05, torna prevento o Juízo no qual este se encontra para apreciar o pleito que busca o soerguimento das demandantes" (CC n. 116.743/MG, relator Ministro Raul Araújo, relator para acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 10/10/2012, DJe de 17/12/2012).
+Além disso, a linha argumentativa desenvolvida pela parte recorrente desafia a moldura fática apontada no aresto atacado, no sentido da existência de diversos pedidos de falência processados no juízo agravado em data anterior àquele noticiado pelo insurgente.
+Portanto, sendo certo que esta Corte toma os fatos assim como delineados pelas instâncias ordinárias, não se verifica, no caso, nenhuma questão federal a ser dirimida em grau de recurso especial, estando o apelo obstado pelos rigores contidos nas Súmulas nºs 7/STJ e 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. PROMESSA DE COMPRA E VENDA. IMÓVEL QUE NÃO CUMPRE AS ESPECIFICAÇÕES CONTRATUAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. CONTROVÉRSIA DIRIMIDA À LUZ DO CONTRATO E DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REEXAME. INVIABILIDADE. SÚMULAS NºS 283 E 284 DO STF E 5 E 7 DO STJ. RECURSO INCAPAZ DE MODIFICAR AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme destacado na decisão ora agravada, o pressuposto da tese recursal - o excesso da execução - não foi reconhecido pelo acórdão recorrido, o que esvazia completamente a pretensão deduzida, especialmente porque esta Corte Superior toma os fatos assim como delineados na origem.
+2. Além disso, o Tribunal de origem, ao analisar o acervo fático-probatório dos autos, concluiu que o Recorrente não logrou demonstrar a existência de ameaça real e iminente aos bens ou à estabilidade financeira que permita a concretização do risco até então abstrato.
+3. Logo, não tendo o Tribunal estadual reconhecido o suporte fático invocado pelo recorrente, inexorável a conclusão sobre a necessidade de revolvimento dos elementos de convicção dos autos para a alteração do julgamento realizado na origem, procedimento sabidamente vedado em recurso especial, a teor do óbice contido na Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo regimental não provido." (AgRg no AREsp n. 755.512/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/2/2016, DJe de 12/2/2016)
+Por fim, observa-se que a parte recorrente não refutou o fundamento de que a sociedade empresarial JFE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. faz parte de um grupo em recuperação.
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO. AGRAVO. RAZÕES RECURSAIS DISSOCIADAS DO QUE RESTOU DECIDIDO NA DECISÃO AGRAVADA. SÚMULAS 283 E 284/STF. AGRAVO IMPROVIDO.
+1.- Estando as razões do Agravo Interno dissociadas do que restou decidido na Decisão agravada, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+2.- Agravo Regimental improvido" (AgRg no AREsp 279.074/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 25/4/2013)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial é oriundo de decisão interlocutória, sem prévia fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
