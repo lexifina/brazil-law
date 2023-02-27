@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASL ASSISTÊNCIA A SAÚDE LTDA., com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal Potiguar, relatado pelo Des. , assim ementado:
+EMENTA: CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. PLANO DE SAÚDE. PACIENTE NECESSITANDO DE INTERNAÇÃO PARA TRATAMENTO DE EMERGÊNCIA. SOLICITAÇÃO DO MÉDICO ASSISTENTE. NEGATIVA DO PLANO DE SAÚDE. ALEGAÇÃO DE AUSÊNCIA DE COBERTURA. INEXISTÊNCIA. NECESSIDADE DA AUTORA DE INTERNAÇÃO EM HOSPITAL EM OUTRO ESTADO POR FALTA DE UNIDADE HOSPITALAR QUE REALIZE O PROCEDIMENTO NA ÁREA DE COBERTURA. NEGATIVA INDEVIDA. FALHA NA PRESTAÇÃO DO SERVIÇO EVIDENCIADA. DANO MORAL EVIDENTE. DEVER DE INDENIZAR QUE SE IMPÕE. VALOR INDENIZATÓRIO FIXADO SEM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. REDUÇÃO QUE SE IMPÕE. SENTENÇA REFORMADA NESTE PONTO. JUROS DE MORA EM INDENIZAÇÃO POR DANO MORAL. INCIDÊNCIA A PARTIR DO EVENTO DANOSO. SÚMULA Nº 54 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APELO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fls. 615).
+Os embargos de declaração opostos por ASL foram rejeitados (e-STJ, fls. 653/656).
+Nas razões do presente recurso, ASL alegou a violação aos arts. 1.022 do NCPC, 51, §1º, IV, 54, §§3º e 4º, do CDC, 10, §4º, 12, VI, da Lei nº 9.656/98, 4º, III, da Lei nº 9.961/00, 186, 188, I, 421 e 421-A e 927 do CC, ao sustentar que (1) o acórdão recorrido foi omisso quanto à ausência de cobertura para custeio de transplante hepático; (2) é legal a cláusula limitativa de plano de saúde que afaste a cobertura para transplante hepático, tendo em vista que o valor pago é menor; (3) o reembolso deve ser limitado à tabela de preços de serviços médicos e hospitalares relativos ao mesmo produto; e (4) a falta de descumprimento das cláusulas contratuais afasta o cabimento dos danos morais (e-STJ, fls. 664/689).
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, ASL alegou a violação do art. 1.022, do NCPC em virtude da omissão quanto à ausência de cobertura para custeio de transplante hepático.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando que a recusa de cobertura ao tratamento médico necessitado revelava-se abusiva, não tendo demonstrado ASL que havia médico credenciado na localidade para realização do procedimento, que estaria no âmbito de cobertura do plano, confira-se:
+No caso concreto, como bem consignado na sentença, "se o procedimento écoberto pelo contrato e a demandada não demonstrou que haviana sua rede credenciada hospitalhabilitado para tanto, obviamente que o requerente faz jus ao reembolso das despesas ou, como é o caso,que o plano arque com as despesas realizadas. Caso contrário, o contrato. firmado pelas partes não seria hábil para atingir os seus fins".
+Assim, resta evidente que a negativa de atendimento se deu de forma ilegal,caracterizando, pois o ato ilícito da responsabilidade civil, na medida em que não comprovada àexistência de rede credenciada da parte apelante para atendimento da parte autora.
+Do arcabouço probatório, percebe-se que resta caracterizada a má prestaçãodo serviço da apelante, uma vez que a paciente, em situação de emergência, teve negada a internação paratratamento médico que necessitava, mesmo havendo cobertura de tal procedimento em seu plano de saúdee não comprovada a oferta de rede credenciada na cidade (e-STJ, fls. 620/621).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. RESPONSABILIDADE CIVIL. DANO MORAL CONFIGURAÇÃO. NEXO CAUSAL. PRODUÇÃO DE PROVAS. DESNECESSIDADE. FACULDADE DO MAGISTRADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA N. 54 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Quando a corte de origem, mediante o exame do acervo fático-probatório dos autos, reconhece a configuração da responsabilidade civil da parte que deu causa a danos morais, afasta-se a necessidade de produção de novas provas para se averiguar a existência de concausas.
+3. O magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+4. Rever o entendimento do tribunal de origem acerca do nexo causal e da necessidade de prova requerida demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+5. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual" (Súmula n. 54 do STJ).
+6. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.875.688/SP, relator Ministro João Otávio de Noronha, Quarta Turma, j. em 13/2/2023, DJe de 16/2/2023.)
+Afasta-se, portanto, a alegada violação.
+(2) Da cobertura contratual
+Nas razões do recurso especial, ASL alegou ofensa aos arts. 51, §1º, IV, 54, §§3º e 4º, do CDC, 10, §4º, da Lei nº 9.656/98, aduzindo que é legal a cláusula limitativa de plano de saúde que afaste a cobertura para transplante hepático, tendo em vista que o valor pago é menor.
+Sobre o tema o Tribunal estadual consignou que a recusa de cobertura ao tratamento médico necessitado revelava-se abusiva, não tendo demonstrado ASL que havia médico credenciado na localidade para realização do procedimento, que estaria no âmbito de cobertura do plano, confira-se:
+No caso concreto, como bem consignado na sentença, "se o procedimento écoberto pelo contrato e a demandada não demonstrou que haviana sua rede credenciada hospitalhabilitado para tanto, obviamente que o requerente faz jus ao reembolso das despesas ou, como é o caso,que o plano arque com as despesas realizadas. Caso contrário, o contrato. firmado pelas partes não seria hábil para atingir os seus fins".
+Assim, resta evidente que a negativa de atendimento se deu de forma ilegal,caracterizando, pois o ato ilícito da responsabilidade civil, na medida em que não comprovada àexistência de rede credenciada da parte apelante para atendimento da parte autora.
+Do arcabouço probatório, percebe-se que resta caracterizada a má prestaçãodo serviço da apelante, uma vez que a paciente, em situação de emergência, teve negada a internação paratratamento médico que necessitava, mesmo havendo cobertura de tal procedimento em seu plano de saúdee não comprovada a oferta de rede credenciada na cidade (e-STJ, fls. 620/621).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que a recusa de cobertura de realização de transplante hepático, tratamento prescrito ao paciente, consiste em conduta abusiva da operadora de plano de saúde.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. EXCLUSÃO DE COBERTURA DE TRATAMENTO. TRANSPLANTE DE FÍGADO. ABUSIVIDADE DE CLÁUSULA CONTRATUAL. PRECEDENTES. SÚMULA 83. MATÉRIA QUE DEMANDA REEXAME DE PROVAS DE DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ possui entendimento no sentido de que, ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código de Defesa do Consumidor), revela-se abusiva a cláusula restritiva de direito que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico ou do procedimento cirúrgico coberto ou de internação hospitalar. Precedentes.
+2. A conclusão de ser indevida a recusa e ser necessário o procedimento médico não pode ser revista em sede de recurso especial, pois demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.289.418/SP, relator Ministro LUIS FELIPE SALOMÃO , Quarta Turma, j. em 14/8/2018, DJe de 21/8/2018.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSPLANTE DE FÍGADO. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ.
+1. Estando o acórdão recorrido em consonância com a jurisprudência do STJ, aplica-se a Súmula n. 83/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 529.525/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. em 15/3/2016, DJe de 28/3/2016.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+(3) Da tabela de preços do plano de saúde
+Nas razões de seu recurso, ASL afirmou a violação do art. 12, VI, da Lei nº 9.656/98, sustentando que o reembolso deve ser limitado à tabela de preços de serviços médicos e hospitalares relativos ao mesmo produto.
+Verifica-se que o Tribunal estadual não emitiu pronunciamento sobre o tema e não foram opostos embargos de declaração para sanar a omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial - quanto à limitação do reembolso à tabela de preços do plano de saúde -, em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. APENDICITE AGUDA DIAGNOSTICADA EM MENOR. URGÊNCIA/EMERGÊNCIA. NECESSIDADE DE CIRURGIA. AUTORIZAÇÃO. RECUSA. SITUAÇÃO DE SAÚDE DO PACIENTE REEXAME DAS QUESTÕES. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. DISPOSITIVOS DO CÓDIGO CIVIL E DO CÓDIGO DE DEFESA DO CONSUMIDOR APONTADOS COMO OFENDIDOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA DOS PRESSUPOSTOS. 3. RAZÕES RECURSAIS INSUFICIENTES. 4. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 5. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local (acerca da caracterização de uma situação de emergência, das condições de saúde do paciente e, principalmente, a comprovação, por intermédio do relatório e exame médico, da necessidade emergencial da realização de cirurgia em decorrência de apendicite aguda) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbices ds Súmulas 7/STJ, não sendo também o caso de revaloração das provas.
+2. No caso em exame, a questão envolvendo a alegação de ofensa a dispositivos do Código de Defesa do Consumidor e do Código Civil não foi objeto de debate e decisão, padecendo da ausência de prequestionamento.
+2.1. O Superior Tribunal de Justiça possui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese em que sequer foram opostos embargos de declaração na origem.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1.814.712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021), o que não ocorreu no caso em análise.
+4.1. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.207.579/SE, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 5/12/2022, DJe de 7/12/2022.)
+Incide, quanto ao ponto, o óbice da Súmula nº 282 do STF, por analogia.
+(4) Dos danos morais
+Nas razões do presente recurso, ASL afirmou a violação dos arts. 186, 188, I, e 927 do CC, sustentando que a falta de descumprimento das cláusulas contratuais afasta o cabimento dos danos morais.
+Sobre o tema o Tribunal estadual consignou que a negativa de cobertura em situação de emergência acarretava danos morais, confira-se:
+Ademais, diante da jurisprudência pátria, para a configuração do dano denatureza moral não se necessita da demonstração material do prejuízo, e sim a prova do fato que ensejou oresultado danoso à moral da vítima, fato que deve guardar nexo de causalidade com a lesão sofrida. No caso em apreço, observa-se que a apelada necessitou ser internada emcaráter de emergência, o que foi indevidamente negado pela operadora de plano de saúde (e-STJ, fl. 622).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que a recusa de cobertura de plano de saúde em caso de urgência ou emergência enseja dano moral.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATENDIMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. LIMITAÇÃO DE COBERTURA. RECUSA INJUSTICADA. AGRAVAMENTO DA SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E ANGÚSTIA DO BENEFICIÁRIO. CIRCUNSTÂNCIAS DELIMITADAS NO JULGADO ESTADUAL. DANO MORAL. CARACTERIZAÇÃO. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte, afigura-se abusiva a negativa, pelo plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando a indevida recusa de cobertura.
+3. Outrossim, a recusa injustificada, pela operadora de plano de saúde, em autorizar tratamento médico emergencial enseja reparação a título de danos morais, porque agrava a situação de sofrimento psíquico do usuário, já abalado ante o estado debilitado da sua saúde.
+4. Estando o acórdão recorrido em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.174.617/CE, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DEU PROVIMENTO AO RECLAMO PARA RESTABELECER A SENTENÇA. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Segundo a jurisprudência desta Corte, o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa indevida de cobertura de tratamentos de urgência ou emergência, há configuração de danos morais indenizáveis . Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.005.361/SP, relator Ministro MARCO BUZZI, Quarta Turma, j. em 26/9/2022, DJe de 29/9/2022.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de A. M. V. L. e A V. A. L., nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. REPARAÇÃO DE DANOS. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. AUSÊNCIA. TRANSPLANTE DE FÍGADO. COBERTURA. NECESSIDADE. LIMITAÇÃO DO REEMBOLSO. TABELA DE VALORES. PREQUESTIONAMENTO. INOCORRÊNCIA. SÚMULA Nº 282 DO STF. URGÊNCIA. DANOS MORAIS. CARACTERIZAÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
