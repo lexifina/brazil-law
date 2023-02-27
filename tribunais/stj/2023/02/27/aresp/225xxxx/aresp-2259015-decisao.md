@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo apresentado por CELG DISTRIBUICAO S.A. - CELG D contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE REGRESSO. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. SOBRECARGA NA REDE DE ENERGIA. EQUIPAMENTOS DANIFICADOS. NEXO CAUSAL, DANO E CONDUTA COMPROVADOS. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ART. 37, § 6º, DA CONSTITUIÇÃO FEDERAL DE 1988. APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA.
+Quanto à primeira controvérsia, alega violação do art. 393 do Código Civil, no que concerne à existência no presente caso de excludente de ilicitude, trazendo os seguintes argumentos:
+17. Olvida-se nos Autos que a responsabilidade pode ser excluída quando o agente tiver agido sob uma excludente de ilicitude, ou quando não houver nexo causal entre a conduta do agente e o dano sofrido pela vítima.
+CF: Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+(..)
+§ 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+Art. 393. O devedor não responde pelos prejuízos resultantes de caso fortuito ou força maior, se expressamente não se houver por eles responsabilizado.
+Parágrafo único. O caso fortuito ou de força maior verifica-se no fato necessário, cujos efeitos não era possível evitar ou impedir.
+18. Ainda neste diapasão, a Recorrente não pode responder pelos danos supostamente sofridos pela Requerente, eis que a Resolução nº 414 da ANEEL excepciona, em seu art. 140, como hipóteses cuja ocorrência não configura descontinuidade do serviço, o caso fortuito e a força maior.
+Art. 140. A distribuidora é responsável, além das obrigações que precedem o início do fornecimento, pela prestação de serviço adequado a todos os seus consumidores, assim como pelas informações necessárias à defesa de interesses individuais, coletivos ou difusos.
+(..);
+§ 3º Não se caracteriza como descontinuidade do serviço, observado o disposto no Capítulo XIV, a sua interrupção:
+I - em situação emergencial, assim caracterizada a deficiência técnica ou de segurança em instalações de unidade consumidora que ofereçam risco iminente de danos a pessoas, bens ou ao funcionamento do sistema elétrico ou, ainda, o caso fortuito ou de força maior;
+(..).
+19. Do exposto, quando ausente o nexo causal, não há que se falar em responsabilidade do agente. "Causas de exclusão do nexo causal são, pois, casos de impossibilidade superveniente do cumprimento da obrigação, não imputáveis ao devedor ou agente." (CAVALIERI, Sérgio. Programa de responsabilidade civil, 2006, pág. 89) (fls. 390-391).
+Quanto à segunda controvérsia, alega violação do arts. 186 e 927, ambos do Código Civil, no que concerne à ausência de culpa por parte da concessionária, trazendo os seguintes argumentos:
+20. Além disso, para configuração da responsabilidade civil da Recorrente que, no presente caso, mostra-se SUBJETIVA, é indispensável a caracterização do elemento da CULPA, nos termos do Art. 186 e 927 do Código Civil (fl. 393).
+Quanto à terceira controvérsia, alega violação do art. 373, inciso I, do Código de Processo Civil, no que concerne à ausência de comprovação pelo ora recorrido do nexo de causalidade, ônus que lhe cabia, trazendo os seguintes argumentos:
+21. No que diz respeito ao argumento de que a dispersão do ônus da Prova nos Autos tem-se a pontuar que, no caso em comento, não houve comprovação idônea, por parte da Recorrida, acerca do nexo de causalidade entre os danos que alega e a suposta conduta da Recorrente da qual decorreria o fato gerador do dano.
+22. As provas produzidas pela parte Recorrida jamais poderiam ser levadas em conta no decisivo julgamento da demanda, tendo em vista que FORAM UNILATERALMENTE PRODUZIDAS!
+23. Trata-se de documentação unilateral, superficial e imprestável, ao passo que relata PROVÁVEIS / POSSÍVEIS causas dos danos nos equipamentos danificados.
+24. Figura-se absurda uma condenação baseada numa POSSIBILIDADE de que a Recorrente tenha sido responsável pelos danos alegados à Exordial!
+25. A Recorrida, notadamente, não ocupa posição vulnerável ou hipossuficiente na relação discutida nos Autos, sendo INAMISSÍVEL desonerá-la de seu ônus probante, vez que, é PLENAMENTE E TECNICAMENTE CAPAZ de demonstrar suas alegações, RESTANDO EVIDENTE A INAPLICABILIDADE DAS DISPOSIÇÕES CONSUMERISTAS AO CASO CONCRETO!
+26. Há que se atentar à regra prevista no Art. 373, I do Código de Processo Civil, sendo inadmissível a inversão do ônus da prova em favor da seguradora, que não demonstra nos Autos quaisquer dos requisitos que poderiam ensejar tal medida.
+CPC: Art. 373 - O ônus da prova incumbe:
+I - ao autor, quanto ao fato constitutivo de seu direito;
+(..).
+CDC - Art. 6º São direitos básicos do consumidor:
+(..)
+VIII - a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências;
+27. Nesse sentido:
+ ..
+28. Noutra senda, imputar à Recorrente a responsabilidade por demonstrar fato modificativo, extintivo ou impeditivo do direito da Recorrida, invertendo-se o ônus da prova, implica determinação incoerente e desarrazoada, pois gera ônus de produção de "prova diabólica", acarretando em cerceio de Defesa e nulidades processuais.
+29. Frisa-se que, a Recorrida depreende argumentação de modo a responsabilizar a Recorrente de modo genérico, sem especificar qual seria o nexo de causalidade que efetivamente lhe daria azo à sua pretensão indenizatória, insinuando o absurdo de que a Recorrente deveria comprovar fato negativo.
+30. Certo é que a Recorrente realiza todas as manutenções necessárias nas redes de transmissão de energia elétrica, e que a ocorrência de eventual oscilação de energia, sua causa, e a causa dos danos alegados, se mostram completamente incertas e controvertidas, sendo ônus indiscutível e intransmissível da parte Autora, ora Recorrida, sua comprovação.
+31. Importa registrar, novamente, que a Recorrida não comprovou de maneira adequada os fatos por si aduzidos, cabendo à mesma tal ônus, do qual não se desincumbiu, não sendo legitimo deferir-lhe qualquer verba indenizatória, ao mero sabor de alegações desprovidas de provas incontestes.
+32. Assim sendo, resta evidente que no presente caso, não há que se falar em imputar responsabilidade alguma à Recorrente pelos danos informados à Exordial, o que enseja O INDEFERIMENTO IN TOTUM dos pedidos da Recorrida, o que se requer (fls. 393-396).
+É, no essencial, o relatório. Decido.
+Quanto à primeira, à segunda e à terceira controvérsias, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, a concessionária somente se exime do dever de indenizar se demonstrar no feito alguma excludente, como culpa exclusiva da vítima ou de terceiro ou caso fortuito ou força maior (art. 14, § 3º, inciso II, do Código de Defesa do Consumidor), circunstâncias que não ocorreram na hipótese em discussão.
+Partindo da premissa de ocorrência da oscilação de energia, não se pode cogitar da ocorrência de caso fortuito ou força maior. Isso porque, segundo MARIA HELENA DINIZ, "o requisito objetivo da força maior ou do caso fortuito configura-se na inevitabilidade do acontecimento, e o subjetivo, na ausência de culpa na produção do evento" (Código Civil anotado. 11. ed. atualizada conforme o novo CC (LGL 2002 400). São Paulo: Saraiva, 2005, p. 378).
+Mas, na hipótese dos autos, a queda de energia elétrica naquela região não decorreu de nenhum evento inevitável ou desculpável. Por conseguinte, não se verificou a ocorrência de caso fortuito ou força maior, nem a hipótese de culpa exclusiva da vítima, passíveis de aniquilar o alegado nexo de causalidade entre o dano sofrido pela parte autora e o serviço prestado pela empresa concessionária.
+Em arremate, conforme a lição de RUI STOCCO acerca da responsabilidade civil objetiva da concessionária de energia elétrica:
+"A companhia de energia elétrica fica obrigada a reparar o dano causado a terceiros, quando restar provado que a mesma não tomou as medidas necessárias de segurança e precauções contra acidentes e ficar configurada, outrossim, a "faute du service", que, por si só, determina a responsabilidade da empresa energética" (Responsabilidade civil e sua interpretação jurisprudencial. 4. ed. São Paulo: Revista dos Tribunais, 1999. p. 612).
+Quanto à unilateralidade da instrução de provas, as provas documentais foram suficientes para comprovarem os danos (evento 01, docs 12-17), nexos de causalidade e as sobrecargas/oscilações de energia elétrica, notadamente porque os laudos foram confeccionados por empresas especializadas além de identificarem, suficientemente, as causas responsáveis pelos danos (fl. 377).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
