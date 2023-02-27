@@ -1,0 +1,13 @@
+DECISÃO
+FILIPE DE JESUS ROSA alega sofrer coação ilegal em face de decisão liminar prolatada por Desembargador do Tribunal a quo (HC n. 0000240-87.2023.8.08.0000).
+A defesa explica: a) o paciente foi denunciado no Processo n. 0000926-63.2017.8.08.0041; b) em 25/07/2018, o Juiz de primeiro grau julgou a ação penal improcedente e prolatou sentença absolutória em seu favor, além de determinar o recolhimento do mandado de prisão expedido em seu desfavor; c) o Tribunal de Justiça confirmou a absolvição, em acórdão transitado em julgado.
+Apesar disso, "não houve o recolhimento do mandado de prisão, o que ocasionou o cumprimento" da prisão preventiva (fl. 48) durante o carnaval, sem justa causa.
+O impetrante requer a imediata soltura do paciente.
+Decido.
+Permite-se a superação da Súmula n. 691 do STF em casos excepcionais, em que a teratologia do ato apontado como coator é tão evidente que desperta o tirocínio do aplicador do direito, sem nenhuma margem de dúvida ou divergência de opiniões.
+Na hipótese sob análise, a situação é absurda e comporta avanço para solução monocrática, pois é flagrante a violação do art. 283 do CPP. O paciente está segregado sem justa causa, desde 20/2/2023, em virtude de "mandado de preventiva, conforme número 0000926-63.2017.8.08.0041/0003" (fl. 16), após sua absolvição prolatada há quase seis anos, no Processo n. 0000926-63.2017.8.08.0041 (sentença às fls. 19-29).
+O Juiz de Direito julgou improcedente a pretensão punitiva estatal, mas não recebeu informação nem se certificou sobre o recolhimento do mandado antes de arquivar o processo penal.
+É cogente a pronta intervenção desta Corte para sanar a ilegalidade. O Tribunal de Justiça se omitiu quando Juiz a ele vinculado exarou a ordem de segregação. Não se pode exigir que o paciente aguarde no cárcere a observância de formalismos, e suporte por mais tempo o sacrifício irremediável de seu direito fundamental enquanto o defensor requer o desarquivamento do processo findo, para somente então, reportar o não recolhimento do mandado de prisão preventiva após a absolvição e pedir providências.
+À vista do exposto, supero a Súmula n. 691 do STJ e, por decisão monocrática, concedo a ordem de habeas corpus, in limine, para determinar a imediata soltura de FILIPE DE JESUS ROSA, se por outra razão não estiver preso, ante a invalidade do mandado de prisão preventiva expedido no Processo n. 0000926-63.2017.8.08.0041.
+Comunique-se, com urgência, o Juízo da Comarca de PRESIDENTE KENNEDY - VARA ÚNICA, que deverá expedir o alvará de soltura no prazo máximo de 24h, a partir da intimação dessa decisão, e determinar providências para o recolhimento e a baixa do mandado .
+Publique-se e intimem-se.
