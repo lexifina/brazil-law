@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pelo INSTITUTO NACIONAL DO SEGUR O SOCIAL em face de acórdão da Primeira Turma do Superior Tribunal de Justiça, da relatoria da Ministra Regina Helena Costa, assim ementado:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CÁLCULO DO SALÁRIO DE BENEFÍCIO. INAPLICABILIDADE DA REGRA ORIGINAL DO ART. 32 DA LEI 8.213/1991 EM FACE DA AMPLIAÇÃO DO PBC PROMOVIDA PELA LEI 9.876/1999. PRINCÍPIO CONTRIBUTIVO. CONCRETIZAÇÃO DO DIREITO AO MELHOR BENEFÍCIO. POSSIBILIDADE DE SOMA DOS SALÁRIOS DE CONTRIBUIÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. I
+- Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido está em consonância com recente orientação firmada pela 1ª Turma desta Corte segundo a qual, no cálculo de benefícios previdenciários concedidos após abril de 2003, devem ser somados os salários-de-contribuição das atividades exercidas concomitantemente, sem aplicação do disposto no art. 32 da Lei n. 8.213/1991, inclusive para períodos anteriores a 1º de abril de 2003, observando-se o limite do teto do salário de contribuição.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+O embargante aponta divergência jurisprudencial com o REsp. n. 1.769.804/RS da Segunda Turma deste Tribunal, o qual entendeu pela aplicação do art. 32, da Lei n. 8.213/91, no caso do exercício de atividades concomitantes, e que restou assim sumariado:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DE BENEFÍCIO. ATIVIDADES CONCOMITANTES. SALÁRIO DE CONTRIBUIÇÃO DA ATIVIDADE PRINCIPAL. ART. 32 DA LEI 8.213/1991.
+1. Tratam os autos de revisão do benefício previdenciário para que seja modificada a metodologia de cálculo, tendo em vista a existência de atividades concomitantes.
+2. O acórdão recorrido está em sintonia com o atual entendimento do STJ de que se deve utilizar o salário de contribuição da atividade principal quando é o caso de exercício de atividades concomitantes e não preenchidas as condições para se aposentar em todas elas, razão pela qual não merece prosperar a irresignação. Precedentes: REsp 1.390.046/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 6/12/2017; AgRg no REsp 808.568/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/12/2009.
+3. Recurso Especial não conhecido.
+(REsp n. 1.769.804/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/8/2019, DJe de 5/9/2019.)
+Entende o embargante que o acórdão impugnado divergiu do aresto apontado como paradigma no tocante a aplicação do art. 32, da Lei n. 8.213/91 e o exercício de atividades concomitantes.
+Na decisão de fl. 889, determinei o sobrestamento do presente feito até o julgamento do Tema 1.070, sob o rito dos recursos repetitivos.
+É o relatório. Decido.
+Tenho que não assiste razão ao embargante.
+O detido exame dos autos revela que o Superior Tribunal de Justiça, nos autos dos recursos especiais n. 1.870.793/RS, 1.870.815/PR e 1.870.891/PR, todos de Relatoria do Ministro Sérgio Kukina, julgados sob a sistemática dos recursos repetitivos, firmou o entendimento de que após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário-de-contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário, correspondente ao Tema 1.070.
+Nota-se, portanto, que a tese fixada pelo Superior Tribunal de Justiça no Tema Repetitivo 1.070 encontra-se em consonância com o acórdão ora embargado julgado pela Primeira Turma desta Corte.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, nego provimento aos embargos de divergência.
+Publique-se. Intimem-se.
