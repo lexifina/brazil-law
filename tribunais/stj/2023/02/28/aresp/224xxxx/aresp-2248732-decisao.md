@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por ANNA AGRONEGÓCIOS S.A., contra decisão que não admitiu o recurso especial, o qual foi apresentado em face do acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SUCESSÃO IRREGULAR DE EMPRESAS.
+INSTAURAÇÃO DE INCIDENTE. NECESSIDADE. REQUISITOS CARACTERIZADORES DA SUCESSÃO IRREGULAR. DECISÃO AGRAVADA REFORMADA.
+1. Malgrado a sucessão empresarial não seja o mesmo que desconsideração da personalidade jurídica, para o reconhecimento da sucessão irregular de empresas e a consequente inclusão de empresa que não atuou como parte no processo, faz-se necessária a instauração de incidente próprio, nos moldes do art. 133 do Código de Processo Civil.
+2. Segundo entendimento jurisprudencial, presume-se a sucessão empresarial quando a sucessora, tendo o mesmo objeto social e endereço, prossegue explorando idêntica atividade econômica da empresa sucedida.
+3. No caso vertente, as empresas sucessora e sucedida apresentam identidade de objeto social, endereço e nome fantasia e a relação de parentesco entre os titulares sugerem a sucessão irregular de empresas, de modo que a sucessora deve ser incluída no polo passivo do cumprimento de sentença.
+4. Agravo de Instrumento conhecido e não provido. Agravo Interno prejudicado.
+Unânime." (fls. 128-129)
+As razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, apontaram ofensa aos seguintes dispositivos: a) artigos 373, inciso I, do Código de Processo Civil de 2015, e 1.146 do Código Civil de 2002, sob o argumento de que não teria ocorrido a sucessão empresarial no presente caso; e b) artigo 779 do CPC/2015, porquanto entende que a execução só pode ser promovida em desfavor de quem consta no título executivo, havendo exceções, como, por exemplo, quando há falecimento do devedor original, em que a execução pode ocorrer em desfavor do espólio, dos herdeiros e dos sucessores.
+Não foram apresentadas contrarrazões.
+Em decisão de admissibilidade o Tribunal de origem negou seguimento ao recurso especial, sob os argumentos: a) incidência das Súmulas 5 e 7/STJ no tocante à suposta violação dos arts. 373, I do CPC/2015 e 1.146 do CC/2002; b) incidência das Súmulas 211/STJ e 282 e 283/STF, ante a ausência de prequestionamento do art. 779 do CPC/2015. Tal fato ensejou o presente agravo.
+É o relatório.
+Ao analisar a questão acerca da sucessão empresarial a Corte de origem decidiu o seguinte:
+"No caso, cuida-se de incidente instaurado com a finalidade de reconhecer a sucessão irregular entre a empresa executada, Chiola Empreendimento Imobiliários Ltda., e Anna Agronegócios S.A.
+No que tange à ocorrência de sucessão irregular de empresas, com o intuito de lesar credores, a jurisprudência deste egrégio Tribunal orienta que sua configuração pode ser inferida da identidade de endereço, objeto social, atividade econômica explorada, bem como do quadro societário.
+Assim, ainda que a sucessão empresarial não possa ser presumida, entende-se configurada quando houver fortes evidências da sua ocorrência.
+Ressalta-se que, para a caracterização da sucessão empresarial irregular, não se faz necessária a comprovação de existência de grupo econômico, bastando, para tanto, o preenchimento dos requisitos acima destacados.
+No caso vertente, há evidências suficientes de sucessão empresarial irregular.
+Isso porque, em análise dos autos de origem, verifica-se a identidade de objeto social das empresas, pois ambas se dedicam à atividade de incorporação de empreendimentos imobiliários e compra e venda de imóveis.
+Infere-se do Estatuto Social da Anna Agronegócios S.A que tem por objeto a "participação em empreendimentos imobiliários, compra e venda de imóveis, intermediação, permuta, incorporação imobiliária, administração e locação de imóveis próprios e de terceiros, participações em outras companhias; criação, engorda, compra e venda de bovinos, equinos, suínos, caprinos, ovinos; plantio, colheita e beneficiamento de grãos, plantio de árvores e reflorestamento, extração e corte de madeiras em florestas plantadas." (Id. 28847736).
+Embora a empresa agravante exerça outras atividades no ramo do agronegócio, não se pode desconsiderar que, assim como a empresa sucedida, também exerce atividade no ramo da construção civil e compra e venda de imóveis, fato que evidencia a possibilidade de continuidade das atividades da empresa encerrada por meio da empresa agravante.
+Desse modo, o fato de que a empresa sucessora possuir objeto social mais amplo não descaracteriza a identidade de objeto social, pois engloba o objeto da empresa sucedida no tocante à atividade da construção civil e compra e venda de imóveis.
+No que tange ao quadro societário, a empresa executada Chiola Empreendimentos Imobiliários Ltda. tem como sócio Edilson Tomás Gomes.
+Por sua vez, a empresa Anna Agronegócios S.A iniciou suas atividades sob a direção de Antônio Gomes de Andrade, Edilson Tomás Gomes e Jaire Henrique Nazareno Rodrigues. Em junho de 2020, o quadro societário foi alterado para constar como diretores Antônio Gomes de Andrade e Bárbara Castro Brandespim Gomes, esposa de Edilson Tomás Gomes.
+Logo, como se vê, há confusão entre os sócios, pois o quadro societário é composto por membros da família do sócio da Executada, situação que evidencia a sucessão empresarial.
+Quanto ao endereço, com observado pelo MM. Juiz, os documentos acostados aos autos demonstram que as empresas funcionam no mesmo logradouro, ST SC/Norte Quadra 05, Bloco A.
+Desse modo, estão presentes os pressupostos da sucessão fraudulenta, isto é, identidade de objeto, sob direção, mesmo que informal, dos mesmos sócios e identidade de endereço." (fls. 135-136)  g.n.
+Desse modo, percebe-se que a controvérsia foi resolvida sob premissas fáticas, inviáveis de reexame na via estreita do recurso especial, em razão do óbice das Súmulas 5 e 7/STJ, que vedam o revolvimento de cláusulas estatutárias e matéria fático probatória.
+Na mesma linha de raciocínio:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SUCESSÃO EMPRESARIAL. CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A caracterização da sucessão empresarial fraudulenta não exige a comprovação formal da transferência de bens, direitos e obrigações à nova sociedade, admitindo-se sua presunção quando os elementos indiquem que houve o prosseguimento na exploração da mesma atividade econômica, no mesmo endereço e com o mesmo objeto social.
+4. A conclusão de que houve, na espécie, sucessão das atividades de uma empresa por outra decorreu da análise do contexto fático-probatório dos autos, a impedir o reexame da matéria na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+5. Agravo interno não provido."
+(AgInt no REsp 1.874.250/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)  g.n.
+No tocante à alegada vulneração ao art. 779 do CPC/2015, constata-se que a matéria não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração a fim de provocar o pronunciamento do Colegiado. É entendimento assente neste Superior Tribunal a exigência do prequestionamento dos temas suscitados no especial, de que tratam os dispositivos tidos por ofendidos, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356/STF.
+No mesmo entendimento:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 290 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. ANÁLISE. DISSÍDIO JURISPRUDENCIAL. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação das Súmulas 282 e 356 do STF.
+2. A jurisprudência do STJ assinala que "a falta de prequestionamento obsta o seguimento do recurso por qualquer das alíneas do permissivo constitucional" (AgInt no AREsp 1.591.126/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 4/6/2020).
+3. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 2.003.877/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022)  g.n.
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C PERDAS E DANOS E REPARAÇÃO POR DANOS MORAIS E EMERGENTES E RESTITUIÇÃO DE QUANTIA PAGA. 1. VIOLAÇÃO AO ART. 485, § 3º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. 2. JULGAMENTO EXTRA PETITA E JULGAMENTO BASEADO EM FATO INEXISTENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AO ART. 489 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 4. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC/2015. REITERAÇÃO DOS FUNDAMENTOS. POSSIBILIDADE. PRECEDENTES. 5. MULTA DO ART. 1.021, § 1º, DO CPC/2015. INAPLICABILIDADE. 6. AGRAVO INTERNO IMPROVIDO.
+1. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno improvido."
+(AgInt no AREsp n. 2.129.634/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
