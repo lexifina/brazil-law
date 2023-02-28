@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, desafiando decisão do c. Tribunal de Justiça do Estado de Minas Gerais, interposto pela CENCOSUD BRASIL COMERCIAL LTDA, que não admitiu seu recurso especial, sob o fundamento de incidência dos enunciados 5 e 7/STJ; e 282/STF.
+É o relatório.
+Passo a decidir.
+O recurso não merece sequer conhecimento.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Além disso, observa-se que o agravo previsto no art. 1.042 do CPC/15 tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+Na hipótese, a parte agravante não rebateu, como lhe competia, todos os fundamentos da decisão que inadmitiu o apelo especial. Com efeito, limitou-se a refutar a incidência do enunciado 282/STJ. Olvidou-se, entretanto, de atacar, especificadamente, o fundamento de incidência dos verbetes 5 e 7/STJ, ante a necessidade de revolvimento do acervo fático-probatório dos autos, bem como a interpretação de cláusula contratual.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por
+que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar. Incide, na hipótese, o art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente todos os funda mentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
