@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra decisão na qual neguei provimento ao recurso especial da acusação, com fundamento na Súmula 568 do STJ (e-STJ fls. 379/381).
+Reafirma o Ministério Público a tese de negativa de vigência ao art. 42 da Lei 11.343/06, alegando que a quantidade de droga apreendida justifica o aumento da pena-base acima do mínimo legal.
+Requer, assim, a reconsideração da decisão agravada ou o provimento do recurso pela Quinta Turma (e-STJ fls. 384/391).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. PENA-BASE. AUMENTO. QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO ÍNSITO AO TIPO. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+3. A quantidade e a natureza do entorpecente apreendido (244,27 g de maconha) não justificam a majoração da pena-base, por não extrapolar o tipo penal.
+4. Agravo regimental desprovido.
+VOTO
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para reformar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+No caso, o Tribunal a quo, ao reduzir a pena-base ao mínimo legal, além de retirar a negativação das consequências do crime, salientou que o acréscimo levado a efeito, considerando o volume da Cannabis Sativa L. apreendida, se mostra desarrazoado, consoante precedente do STJ em casuística cuidando de massa superior de drogas, incluindo espécie de maior poder ofensivo (e-STJ fl. 313).
+Cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC n. 272.126/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; HC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes: AgRg no HC n. 526.747/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 22/10/2019, DJe 28/10/2019; AgRg no REsp n. 1.448.502/SP, Relator Ministro ANTÔNIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/10/2019, DJe 23/10/2019; AgRg no AREsp n.1.266.433/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/10/2019, DJe 14/10/2019; AgRg no AREsp n. 1.481.573/MG, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 27/8/2019, DJe 4/9/2019; AgRg no AREsp n. 1.505.515/SP, DE MINHA RELATORIA, Quinta Turma, julgado em 6/8/2019, DJe 22/8/2019).
+No entanto, a quantidade e a natureza do entorpecente apreendido (244,27 g de maconha) não justificam a majoração da pena-base, por não extrapolar o tipo penal.
+O acórdão recorrido encontra-se, portanto, em consonância com o entendimento pacificado neste Tribunal Superior, razão pela qual se mantém a incidência da Súmula 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
