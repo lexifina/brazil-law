@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL Carta citatória encaminhada e recebida, sem ressalvas, no endereço da requerida, pessoa jurídica. Aplicação da teoria da aparência. Possibilidade de citação postal, no bojo da ação de execução. Precedente.
+Citação válida Inexistência de correlação entre as causas de pedir da ação de execução principal e a ação de conhecimento movida pela executada em face da exequente. Desnecessidade de suspensão da ação executiva - Decisão mantida. RECURSO DESPROVIDO "(e-STJ, fl. 32)
+Nas razões do recurso especial, o agravante alega violação aos arts. 829, §1º, 239 e 280 do CPC/15, sustentando, em síntese, (a) que há eminente risco ao resultado útil do processo e ao seu patrimônio se não for suspendido o curso da execução de origem, (b) que foi deferido o levantamento dos valores bloqueados e determinada a constrição de seu veículo e (c) que é necessária a citação por oficial de justiça em execução de título extrajudicial, de modo que ocorreu nulidade com a citação postal.
+É o relatório. Passo a decidir.
+Com relação à suposta violação aos arts. 239, 280 e 829, §1º do CPC/15, a Corte de origem afirmou que não há que se falar em nulidade no presente caso em que houve a citação regular por meio de carta registrada e aplicação da teoria da aparência, bem como que a exigência de diligência pessoal constante no art. 829, §1º do CPC refere-se ao cumprimento da ordem de penhora e avaliação, in verbis:
+"Em primeiro lugar, deve-se frisar que a citação perpetrada nos autos principais se deu de forma consentânea com as regras processuais em vigor.
+Isto porque, conforme se nota às fls. 49 e 96, dos autos principais, a carta citatória foi enviada ao mesmo endereço indicado pela própria executada, na Procuração outorgada ao seu patrono. Some-se a isso, o fato de que o respectivo aviso de recebimento (AR) foi devidamente assinado, sem nenhuma ressalva do recebedor.
+(..)
+Noutro giro, é importante ressaltar que, com o advento do Código de Processo Civil de 2015, não se faz mais necessária a citação, via diligência de Oficial de Justiça, nos processos de execução.
+A regra do art. 829, § 1º, do CPC, é clara no sentido de que a diligência pessoal se refere ao cumprimento da ordem de penhora e avaliação, ordem esta que constará, previamente, do mandado de citação. Em outras palavras, não se quer dizer que a diligência citatória será pessoal, mas apenas o cumprimento da ordem de constrição é que o será.
+(..)
+Portanto, há elementos suficientes que apontam para a regularidade do ato citatório, que, sob a premissa da teoria da aparência, deve ser considerado válido, para os fins da demanda em apreço.." (e-STJ, fls. 33/35)
+Os fundamentos de que a citação foi válida conforme aplicação da teoria da aparência e que o art. 819, §1º do CPC exige diligência pessoal apenas com relação ao cumprimento da ordem de penhora e avaliação não foram objeto de impugnação e são suficientes, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Ademais, a decisão está de acordo com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+Vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. CITAÇÃO DA PESSOA JURÍDICA. TEORIA DA APARÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. A citação por carta com aviso de recebimento, por um lado, transcorre de forma mais ágil e fácil, com grandes vantagens para as partes e para o andamento do feito. Mas, por outro lado, deve o Judiciário estar mais atento e sensível às falhas que esse ato, vez por outra, enseja. Afinal, a ausência de citação válida inviabiliza o contraditório e conduz a parte promovida à injusta revelia.
+2. Na hipótese, ao afastar a nulidade da citação postal da sociedade empresária realizada em endereço industrial de sua filial, recebida por pessoa que não se recusou a assinar o recibo, o v. acórdão recorrido deixou de se manifestar sobre premissas fáticas relevantes, que apontam a ausência de vínculo do suposto funcionário com a empresa (CPC/2015, art. 1.022).
+3. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre questões fáticas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra as omissões existentes.
+4. Agravo interno provido para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios, para que outro seja proferido e, assim, sanados os vícios constatados.
+(AgInt no AREsp n. 1.217.775/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/3/2019, DJe de 11/4/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE. EXAME RELACIONADO AO MÉRITO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. CITAÇÃO. PESSOA JURÍDICA. VALIDADE. TEORIA DA APARÊNCIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. INEXIGIBILIDADE DA OBRIGAÇÃO PRINCIPAL. INOVAÇÃO RECURSAL. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há usurpação de competência do Superior Tribunal de Justiça quando o Tribunal de origem, no juízo de admissibilidade, examina pressupostos específicos e constitucionais relacionados ao mérito da controvérsia (Súmula 123/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido da validade da citação de pessoa jurídica por via postal, quando remetida a carta citatória para o seu endereço, independentemente da assinatura no aviso de recebimento (A.R.) e do recebimento da carta terem sido efetivados por seu representante legal. Precedentes.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. No caso, os 2 (dois) avisos de recebimento (AR) enviados para o endereço da promovida, no intervalo de 8 (oito) meses entre ambos, foram recebidos pela mesma pessoa que a recorrente afirma desconhecer.
+5. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar inadmissível inovação.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.357.895/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe de 20/2/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AGRAVANTE.
+1. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. Rever a conclusão do Tribunal de origem no sentido de que a citação da pessoa jurídica é válida, no caso dos autos, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, aplica-se a teoria da aparência para reconhecer a validade da citação via postal com aviso de recebimento (AR), efetivada no endereço da pessoa jurídica e recebida por pessoa que, ainda que sem poder expresso para tanto, a assina sem fazer nenhuma objeção imediata.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.077.242/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
