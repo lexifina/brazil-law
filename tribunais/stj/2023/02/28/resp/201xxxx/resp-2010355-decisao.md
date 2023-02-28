@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por CAIXA ECONÔMICA FEDERAL - CEF em face do v. acórdão proferido pelo eg. Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. PROGRAMA MINHA CASA. MINHA VIDA. ATRASO NA OBRA. LEGITIMIDADE E RESPONSABILIDADE SOLIDÁRIA DA CEF. DANOS MORAIS. IN RE IPSA. MINORAÇÃO DO QUANTUM. LUCROS CESSANTES PRESUMIDOS.
+- Com efeito, em reiterados julgados, esta Corte já reconheceu a ilegitimidade da Caixa Econômica Federal para responder por pedido de indenização por danos morais e materiais, decorrentes de atraso na entrega da obra e/ou vícios construtivos, quando a sua participação no negócio jurídico está adstrita à função de agente operadora do financiamento, para fins de aquisição do bem.
+- Contudo, no caso concreto, infere-se da análise do Contrato firmado entre as partes que a atuação da CEF é mais ampla, extrapolando a função de um mero agente financeiro, não havendo como afastar a legitimidade passiva da Caixa e a sua responsabilidade civil pelo atraso na entrega do imóvel.
+- O dano moral decorrente do abalo gerado pela impossibilidade de usufruir de imóvel adquirido é conhecido pela experiência comum e considerado in re ipsa, isto é, não se faz necessária a prova do prejuízo, que é presumido e decorre do próprio fato.
+- Sopesando as circunstâncias apresentadas no caso dos autos, entendo que deve ser minorado o quantum fixado em sentença para o patamar de R$10.000,00 (dez mil reais), o qual reputo compatível com o valor do imóvel, o tempo do atraso da obra, bem como a condição econômica das partes.
+- Ainda que não comprovados os danos decorrentes de gastos com aluguel de imóvel ou outros danos, deve ser arbitrada, a título de lucros cessantes, indenização de 0,5% do valor atualizado do imóvel por mês de atraso da obra." (fls. 355/356)
+A recorrente aponta ofensa ao art. 416, parágrafo único, do Código Civil, argumentando que, na hipótese de atraso na entrega de imóvel financiado pelo Programa Minha Casa Minha Vida - PMCMV, o autor tem direito ou ao cumprimento da cláusula penal ou à indenização por lucros cessantes, rubricas que não podem incidir cumulativamente na espécie.
+Contrarrazões às fls. 435/438.
+É o relatório.
+Consoante se observa da sentença, a obrigação prevista na cláusula penal do contrato, na hipótese de atraso na entrega da obra, foi imposta exclusivamente à ré FMM Engenharia Eireli. O juízo de 1º grau, nesse ponto, fez questão de destacar:
+A condenação ao cumprimento da cláusula penal não pode ser solidária, haja vista a previsão constar somente no contrato firmado entre a construtora e os adquirentes da unidade condominial.
+Em 2º grau, além de mantida a aplicação da cláusula penal do contrato, o Tribunal de origem acolheu o pedido autoral de indenização por lucros cessantes, fixados em "0,5% do valor atualizado do imóvel por mês de atraso da obra - contado a partir do dia 19/10/2016 até a data da efetiva entrega do imóvel" (fl. 377).
+O acórdão, contudo, merece reforma.
+Nos termos da jurisprudência já sedimentada por esta Corte em precedente obrigatório (art. 927 do Código Civil), na hipótese de atraso na entrega do imóvel, inclusive no âmbito do PMCMV, o autor não tem direito à incidência da cláusula penal e, cumulativamente, à indenização por lucros cessantes, sob pena de bis in idem.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA AUTORA.
+1. No julgamento do REsp 1.729.593/SP, afetado ao rito dos recursos repetitivos, consolidou-se o entendimento de que em contrato de promessa de compra e venda de imóvel em construção, no âmbito do Programa Minha Casa, Minha Vida, na hipótese de atraso na entrega, "o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado" (REsp 1729593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 27/09/2019).
+2. No julgamento do REsp 1.635.428/SC, também afetado ao rito dos recursos repetitivos, consolidou-se o entendimento de que "a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes" (REsp 1635428/SC, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/05/2019, DJe 25/06/2019).
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "o mero dissabor ou aborrecimento, experimentado em razão de inadimplemento contratual, pela demora na entrega de obra, não configura, por si só, prejuízo extrapatrimonial indenizável.
+Aplicação da Súmula 83 do STJ. Precedentes de ambas as Turmas de Direito Privado desta Corte Superior" (REsp 1573945/RN, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/06/2019, DJe 05/08/2019).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.575.773/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/5/2021, DJe de 4/6/2021.)
+Deve-se, portanto, acolher o pedido da CEF com a reforma do acórdão recorrido, nos termos da Súmula n. 568/STJ.
+Ante o exposto, dou provimento ao recurso especial para julgar improcedente o pedido de indenização por lucros cessantes, mantendo a obrigação da ré FMM Engenharia Eireli de pagar ao autor indenização já fixada na cláusula penal do contrato.
+Fica mantida a distribuição da sucumbência, pois ainda verificado o decaimento mínimo do autor.
+Publique-se.
