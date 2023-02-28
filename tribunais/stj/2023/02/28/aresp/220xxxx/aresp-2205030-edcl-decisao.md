@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por WFNET INTERNET LTDA., contra decisão de minha lavra, publicada em 07/02/2023, que conheceu do Agravo para não conhecer do Recurso Especial.
+Inconformada, sustenta a parte embargante a existência de contradição na decisão recorrida.
+Pondera que:
+"Ademais, a Excelentíssima Ministra Assusete Magalhães sustentou que se a Agravante tivesse entendido pela persistência de algum vício no acórdão impugnado, imprescindível seria a alegação de violação ao art. 1022 do CPC, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Contudo, data maxima venia, a decisão proferida incorreu em contradição, uma vez que ocorreu o devido prequestionamento, inclusive através dos Embargos de Declaração opostos em face do acórdão proferido pela 26ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, que versavam, exclusivamente, sobre a observância do real proveito econômico da parte Agravante para fins de fixação dos honorários de sucumbência.
+Ainda que o Acórdão recorrido não tenha mencionado expressamente acerca da matéria e/ou dispositivo legal violados, seu conteúdo foi colocado para análise pelo Tribunal a quo, restando caracterizado o prequestionamento implícito, considerando que a decisão dos Embargos de Declaração, basicamente, reiterou o Acórdão do Apelo, mencionando os honorários sucumbenciais em favor da Agravante, sobre o valor da condenação.
+(..)
+De mais a mais, destaca-se que caso a Agravante, ora Embargante, suscitasse novamente a matéria violada, por meio de novos embargos declaratórios, certamente à mesma seria imputada multa a teor do ar. 1.025 §2º do CPC.
+Assim, inequívoco a existência do prequestionamento, ante aos aclaratórios opostos pela ora Embargante, e data máxima vênia, a contradição da decisão embargada.
+Não bastasse isso, cita-se, por analogia, a jurisprudência do STF que entende que a simples oposição dos Embargos de Declaração já é o bastante para evidenciar o prequestionamento, pouco importando se suprida ou não a omissão" (fls. 715/716e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pelo não conhecimento dos Embargos Declaratórios (fls. 721/724e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que a tese recursal defendida, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+Outrossim, para a adoção do denominado prequestionamento ficto, previsto no art. 1.025, do CPC/2015 - segundo o qual a oposição dos Embargos de Declaração seria suficiente ao suprimento do requisito do prequestionamento - faz-se necessária, além da invocação da questão, por ocasião dos Embargos de Declaração, opostos contra o acórdão do Tribunal de origem, que a Corte superior considere a existência de erro, omissão, contradição ou obscuridade no referido decisum, em razão da alegação de contrariedade ao art. 1.022 do CPC/2015, nas razões do Recurso Especial.
+Sobre o tema, confira-se o seguinte precedente do STJ:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+Ante o exposto , à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
