@@ -1,0 +1,6 @@
+DECISÃO
+ANTONIO DENILSON DO NASCIMENTO RODRIGUES e MATHEUS VINICIUS SANTOS DA SILVA alegam ser vítimas de constrangimento ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de Minas Gerias, que indeferiu pedido de liminar em habeas corpus impetrado naquela Corte, no qual pretendiam o relaxamento da prisão em flagrante, seja em razão da não realização da audiência de custódia no prazo legal, seja porque não haveria o laudo preliminar de constatação da materialidade delitiva, além da inexistência de requisitos legais para a constrição.
+De início, verifico que o presente writ é mera reiteração (idêntico e não nova postulação) do HC n. 803.472/MG, o qual foi indeferido liminarmente em 22/2/2023, porque não se encontrava devidamente instruído com a cópia audiência de custódia, realizada em 21/2/2023. É pacífica a orientação desta Corte de que não é possível a impetração de habeas corpus em duplicidade, tal como ocorre com qualquer recurso processual.
+Nessa direção, realço que se mostra oportuno que a defesa providencie a cópia do referido documento e, se for o caso, de eventual decisão que haja convertido o flagrante em preventiva, os quais deverão ser juntados naquele mandamus.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
