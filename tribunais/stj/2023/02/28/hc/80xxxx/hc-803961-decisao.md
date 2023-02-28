@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de BELMIRO BORTOLIN, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, no julgamento da Apelação Criminal n. 0000900-19.2010.8.12.0035.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa, pela prática do delito tipificado no art. 35, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 (e-STJ fls. 25/36).
+Irresignada, a defesa apelou e o Tribunal estadual negou provimento ao recurso (e-STJ fls. 14/21), em acórdão assim ementado:
+EMENTA - APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS MAJORADO- REDUÇÃO DA PENA-BASE - IMPOSSIBILIDADE- MINORANTE DO TRÁFICO PRIVILEGIADO- REQUISITOS NÃO PREENCHIDOS - REGIME FECHADO INALTERADO - SUBSTITUIÇÃO INCABÍVEL - RECURSO IMPROVIDO.
+I - A pena-base não comporta redução, uma vez que a fundamentação lançada na sentença revela-se plenamente idônea e evidencia o caráter desabonador da quantidade da droga e circunstâncias do crime.
+II - Inviável o reconhecimento da causa de diminuição do § 4º do art.33 da Lei de Drogas se os elementos dos autos evidenciam que o réu se dedica à atividade criminosa e integrou ocasionalmente organização criminosa, pois, com peculiar destreza, transportava vultosa quantidade de drogas mediante utilização de veículo de alto valor de mercado. Não se trata, portanto, de mero traficante eventual.
+III - Impossível o abrandamento do regime prisional ou a substituição da pena privativa de liberdade por restritivas de direitos, haja vista a quantidade da reprimenda e a presença de circunstâncias judiciais desabonadoras.
+IV - Recurso improvido.
+No presente writ (e-STJ fls. 3/13), o impetrante sustenta que o paciente sofre constrangimento ilegal na fixação de seu regime prisional. Para tanto, alega que não é válido o estabelecimento do regime inicial fechado para o réu BELMIRO BORTOLIN baseado somente na gravidade abstrata do delito (e-STJ, fl. 9), nos termos do enunciado sumular n. 718, do STF.
+Assere também, que não apresentada nenhuma das condições autorizadoras para a fixação do regime inicial mais gravoso do que o montante da pena aplicada, mormente considerando-se que o paciente é primário e de bons antecedentes; devendo ser-lhe estabelecido o regime inicial no semiaberto.
+Diante disso, requer, liminarmente e no mérito, a fixação do regime inicial semiaberto ao paciente.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pelo impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque, ao compulsar os autos, e em consulta aos dados processuais desta Corte Superior, verifico que em impetração anterior interposta pela defesa do paciente, qual seja o HC n. 770.842/MS, de MINHA RELATORIA, o q ual se insurgia contra o mesmo acórdão ora impugnado (Apelação Criminal n. 0000900-19.2010.8.12.0035), era vindicado também o abrandamento do regime prisional do paciente.
+Na oportunidade, asseverei que a quantidade e natureza do entorpecente apreendido - 3.809 Kg de maconha - , e a existência de circunstância judicial desfavorável (circunstâncias do delito), eram elementos aptos a ensejar a aplicação do regime prisional mais gravoso, pois estava em consonância com o entendimento desta Corte, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, e do art. 42, da Lei n. 11.343/2006. Confiram-se: HC n. 488.679/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 11/6/2019; e AgRg no HC n. 380.021/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe de 22/3/2017.
+Nesses termos, por se tratar de reiteração de matéria já apreciada e decidida por esta Corte de justiça, julgo prejudicada a análise dessa insurgência.
+Ante o exposto, com fulcro art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
