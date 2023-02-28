@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CHRISTIAN PITERSON TEODORO contra decisão na qual conheci do agravo para não conhecer do recurso especial, por incidência do óbice contido na Súmula 7 do STJ (e-STJ fls. 281/284).
+Alega a defesa que não busca a revisão do conjunto probatório dos autos, mas tão somente a valoração jurídica dos fatos imputados, sustentando assim a inexistência de provas a amparar a condenação pela prática do delito do art. 317 do Código Penal.
+Pede a reconsideração da decisão agravada ou a apreciação do recurso pela Quinta Turma (e-STJ fls. 287/294).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. INEXISTÊNCIA DE PROVAS. REVISÃO DE FATOS. NÃO CABIMENTO. SÚMULA 7/STJ. DELITO FORMAL E INSTANTÂNEO. SOLICITAÇÃO DE VANTAGEM. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. A pretensão recursal de rever a conclusão da instância a quo, a fim de absolver o réu da condenação pela prática do delito do art. 317 do Código Penal, importa revolvimento do conjunto fático-probatório do autos, o que não comporta análise na via eleita. Incidência da Súmula 7 do STJ .
+2. O crime de corrupção passiva, por se tratar de delito formal e instantâneo, se consuma com a solicitação da vantagem indevida, sendo que o efetivo recebimento da vantagem requerida é mero exaurimento do crime.
+3. Agravo regimental improvido.
+VOTO
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para reformar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+O recorrente foi condenado à pena de 2 anos de reclusão, no regime inicial aberto, além do pagamento de 10 dias-multa, por infração ao art. 317 c/c art. 327, ambos do CP.
+O Tribunal de Justiça do Estado de Minas Gerais, ao manter o decreto condenatório, assim decidiu (e-STJ fls. 211/214):
+Contudo, após detida análise das provas erigidas ao longo da instrução, verifico que o pleito absolutório não procede, posto que os elementos colhidos ao longo da instrução demonstram a prática do crime descrito na denúncia pelo réu.
+Examinando os autos, verifica-se que a vítima S. L. O. levou seu veículo Renault/Sandero a unidade policial do município de Raposos/MG, com o intuito de realizar os procedimentos de praxe para o emplacamento do automóvel.
+Chegando ao local, o apelante, vistoriador, informou ao ofendido que não era preciso realizar a vistoria, pois se tratava de um carro "zero km", havendo somente necessidade de tirar o decalque do chassi. Concluído o serviço, o réu informou que seria cobrado o valor de R$ 20,00 (vinte reais).
+Em razão de a vítima não possuir o dinheiro no momento, acordou com o réu que pagaria no dia do emplacamento, o que foi feito. Depois do pagamento, o ofendido dirigiu-se à Polícia Militar e relatou o ocorrido, tendo os castrenses se dirigido ao local e localizado, com o réu, a cédula de R$ 20,00 (vinte reais) repassada por S.
+Neste sentido, são as declarações da vítima S. L. O., que confirmou toda a empreitada criminosa, afirmando que chegou a tirar cópia da nota de R$ 20,00 (vinte reais) entregue ao réu, sendo orientado por E. D. L. F., seu amigo de infância e funcionário da Prefeitura de Raposos (fls. 09/12 e f. 83).
+A propósito, ressalte-se que não procede a alegação de ocorrência de flagrante forjado.
+Por flagrante forjado, entende-se como aquele "fabricado para incriminar pessoa inocente. É a lídima expressão de arbítrio, onde a situação de flagrância é maquinada para ocasionar a prisão daquele que não tem conhecimento do ardil". (TÁVORA, Nestor; ALENCAR, Rosmar Rodrigues. Curso de direito processual penal. - Salvador: Editora JusPodivm, p. 926, 2018).
+Não é o que ocorreu in casu.
+Ora, ainda que a vítima tenha tirado uma cópia da cédula que entregaria ao réu no dia do emplacamento do veículo, certo é que tal fato em nada influenciou na ocorrência do delito, o qual já havia se consumado dias antes, com a solicitação de vantagem indevida.
+Isso porque, como se sabe, o crime de corrupção passiva, por se tratar de delito formal e instantâneo, se consuma com a solicitação da vantagem indevida, sendo que o efetivo recebimento da vantagem requerida é mero exaurimento do crime.
+Portanto, a conduta do agente de solicitar vantagem indevida, configuradora do delito, não foi criada pela polícia ou pela vítima, motivo pelo qual não há que se falar em flagrante forjado.
+Certo é que a testemunha E. D. L. F. confirmou que foi procurado pela vítima, que lhe questionou se a cobrança para retirar decalque de chassi de carro zero km era correta, tendo ele dito que não, aduzindo que já havia notícia de que o réu vinha recebendo dinheiro para realizar vistorias. Afirmou que não orientou o ofendido a tirar cópia da nota de R$ 20,00 (vinte reais), apenas afirmando que era um direito dele (f. 84).
+Ademais, a testemunha O. G. S. A., condutor do flagrante, também asseverou que já havia ouvido comentários atribuindo ao acusado a prática de atos de corrupção no setor de trânsito na delegacia de Raposos (f. 85).
+O réu, na delegacia, disse que "às vezes alguma pessoas dão dinheiro e dizem "toma um café", mas como gratidão" sendo que "a maioria não dá nenhuma café", reiterando que não solicita valores". Disse que o dinheiro recebido era "em razão de ter comprado com seu dinheiro o decalque de vistoria" (f. 14).
+Lado outro, o réu, em seu interrogatório, negou a imputação, sustentando que o apelante colocou uma nota de R$ 20,00 (vinte reais) em sua camisa, sem qualquer solicitação. Asseverou que informou ao ofendido que o serviço de retirar o decalque do chassi era cobrado por um despachante e não por ele. Alegou que a vítima "por três vezes, lhe ofereceu a importância de 30 reais e acabou por colocar uma nota de 20 no bolso da sua camisa" e, logo depois, foi preso em flagrante. Por fim, disse que "na verdade nunca recebeu nenhum dinheiro pelo trabalho como vistoriador, embora tenham lhe oferecido várias vezes" (f. 90).
+Contudo, não comprovou suas novas alegações, nem logrou êxito em desconstituir as provas existentes em seu desfavor.
+Ressalte-se que o informante G. C. T., que teria presenciado a tratativa entre o réu e a vítima, somente sobreveio aos autos na AIJ (f. 88), não tendo sido citado em qualquer outro momento como indivíduo que presenciou os fatos. Ao contrário, somente o pai do ofendido foi apontado como pessoa que presenciou, de longe, o ocorrido, o que foi por ele confirmado (f. 82).
+Assim, as provas testemunhais, aliadas às notícias pretéritas de que o réu já praticava condutas ilícitas na função de vistoriador, bem como o fato de o réu estar na posse da nota de R$ 20,00 (vinte reais) repassada pela vítima, demonstram, de maneira farta, a prática do delito de corrupção passiva, não havendo que se falar em absolvição.
+Observa-se que a instância a quo concluiu, diante das provas oral e documental presentes nos autos, que o réu, vistoriador, solicitou, em razão de sua função, vantagem indevida, enquadrando-se a sua conduta no delito tipificado no art. 317 do CP.
+Nesse contexto, concluir de forma diversa, para o fim de absolver o recorrente da prática do crime de corrupção passiva, implica em exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súmula 7/STJ.
+Vale destacar que, como cediço, o crime de corrupção passiva, por se tratar de delito formal e instantâneo, se consuma com a solicitação da vantagem indevida, sendo que o efetivo recebimento da vantagem requerida é mero exaurimento do crime. Precedentes: EDcl no AgRg no RHC n. 123.419/DF, Relator Ministro JOEL ILAN PACIORNIK, Relator para acórdão Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 16/8/2022, DJe de 2/9/2022; AGRG no REsp n. 2.010.695/DF, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
