@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por ANGELO VIRGINIO DAL MOLIN - EM RECUPERAÇÃO JUDICIAL e OUTROS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"RECURSO DE AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - IMPUGNAÇÃO AO CRÉDITO - INCLUSÃO COMO CRÉDITO DE CLASSE GARANTIA REAL - DESCABIMENTO - CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA - EXCLUSÃO DA RECUPERAÇÃO JUDICIAL - ART. 49, § 3º, DA LEI Nº 11.101/2005 - BENS ESSENCIAIS ÀS ATIVIDADES ECONÔMICO-PRODUTIVAS - CONSOLIDAÇÃO DA PROPRIEDADE - SUSPENSÃO DURANTE O STAY PERIOD - DISSONÂNCIA DO PARECER MINISTERIAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+A inclusão dos créditos decorrentes de alienação fiduciária no procedimento de recuperação judicial é vedada pelo art. 49, § 3º, da Lei nº. 11.101/2005.
+" .. constatado que o bem dado em garantia é essencial para o exercício da atividade da recuperanda, pertinente a manutenção do indeferimento do pedido de revogação da suspensão da liminar para autorização da continuação do procedimento extrajudicial de consolidação da propriedade das recuperandas, a fim de garantir a sua capacidade produtiva e seu poder de negociação, até ulterior decisão (N.U 1002414- 39.2021.8.11.0000, C MARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, NILZA MARIA POSSAS DE CARVALHO, Primeira Câmara de Direito Privado, Julgado em 20/07/2021, Publicado no DJE 28/07/2021)" "
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 6º, 130, 139, 350, 357, 370, 489, 1.022, II, do CPC/15, bem como divergência jurisprudencial. Para tanto, sustenta, em síntese, isto: (I) negativa de prestação jurisdicional, "em razão da clara omissão sobre a necessidade da dilação probatória requerida pelos Recorrentes" (fl. 165); (II) a demonstração da essencialidade dos bens dados em garantia para continuidade da atividade do Grupo Dal Molin era o objetivo do pedido de produção de prova pericial.
+É o relatório. Decido.
+É indevido conjecturar-se a existência de ausência de fundamentação no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, Segunda Turma, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 1º/7/2019).
+Rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJ-MT analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV e V, e 1.022 do CPC/2015 NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. COLISÃO ENTRE PREMISSAS DE NATUREZA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não há violação dos arts. 489, § 1º, IV e V, e 1.022 do CPC/2015, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+ ..
+9. Agravo Interno não provido."
+(AgInt no AREsp 1294074/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV e 1.022, I e II, do Código de Processo Civil
+ ..
+3. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1199954/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/09/2018, DJe 25/09/2018 - grifou-se)
+Ademais, da atenta leitura das razões postas no apelo nobre, infere-se que a parte ora recorrente limita-se a realizar um histórico do andamento processual e, ao final, aponta violação aos arts. 6º, 130, 139, 350, 357, 370, do CPC/15.
+Com efeito, o recurso especial é o instrumento processual adequado para discutir violação ou divergência jurisprudencial quanto a lei federal, conforme preconiza o art. 105, III, "a" e "c", da CF/88. Nesse diapasão, para atender tal mister, é necessário que nas razões recursais sejam apresentados argumentos jurídicos claros e precisos sobre como o eg. Tribunal a quo teria violado ou interpretando de forma divergente determinado dispositivo de lei federal.
+No caso em apreço, a parte ora recorrente não apresentou argumentação jurídica apta a demonstrar como os diversos artigos indicados no apelo nobre foram violados ou interpretados de forma equivocada pelo eg. TJ-MT. Nesse cenário, as razões do apelo nobre representam mera alegações genéricas de violação da lei federal, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula n. 284/STF, aplicada por analogia. Nesse sentido, confiram- se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. (..). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..)
+2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe 17/05/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..). SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+(..) 4. Agravo interno não provido."
+(AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 24/02/2017 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
