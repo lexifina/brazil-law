@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FABRIZIO DUILO ORTENZIO agrava da decisão de minha relatoria em que não conheci do agravo contra decisão que inadmitiu o recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça Militar do Estado de Minas Gerais.
+Na decisão de inadmissibilidade, a Corte castrense apontou o óbice das Súmulas n. 284 do STF e n. 7 do STJ, além de ressaltar não ser a via especial cabível para análise de violação à dispositivo constitucional. Contudo, o agravante deixou de impugnar os fundamentos do decisum recorrido e cingiu-se a reiterar os argumentos aduzidos no apelo raro.
+Neste regimental, sustenta que o decisum ora impugnado "abordou o tema de forma abstrata, fazendo referência à doutrina e jurisprudência de tribunais superiores, SEM QUALQUER ENFRENTAMENTO do pleito recursal atinente à matéria" e "tão somente os artigos de lei e entendimento sumulados de maneira fria e genérica para lastrear a decisão recorrida" (fl. 1.893, grifo do original).
+A defesa, ainda, assevera que o presente recurso observa os requisitos de procedibilidade exigidos na legislação, que trouxe todas as fundamentações necessárias para a correta compreensão das controvérsias, as quais foram devidamente prequestionadas, e que não busca o reexame de fatos e provas dos autos.
+Pleiteia, portanto, a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES MILITARES. REAPRECIAÇÃO DA MATÉRIA. IMPOSSIBILIDADE NA VIA ELEITA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+2. Constata-se a busca indevida de efeitos modificativos, visando a agravante a rediscussão de matéria imprópria na via recusal interposta.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos aduzidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos. A inadmissão do recurso especial ocorreu com fulcro nas Súmulas n. 7 do STJ e n. 284 do STF, pelo permissivo da alínea "a" do art. 105, III, da CF.
+Trata-se de réu condenado à pena de 6 anos, 1 mês e 15 dias de reclusão, a ser cumprida no regime semiaberto, pelos delitos dos arts. 261, III e 308, ambos do Código Penal Militar.
+Nas razões do recurso especial, a Defesa reitera o malferimento aos arts. 35, 38, 41, 77,78, 328, 393, 399, 427 e 439, "b" e "e", todos do Código de Processo Penal Militar; arts. 156, 157 e 226 do Código de Processo Penal; arts. 69 e 261, III, 308 e 309 do Código Penal Militar; artigo 145, inciso IV, 489, II, § 1º, e 1.022, II, todos do Código de Processo Civil e art. 3º, D, da Lei n. 13.964/2019.
+Neste regimental, resumidamente, o agravante suscita preliminar de nulidade do processo penal; a declaração da atipicidade da conduta ou a absolvição do recorrente por insuficiência probatória. Por fim, pugna nova dosimetria.
+Evidencia-se a deficiência na fundamentação recursal quando o postulante não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve as respectivas e individualizadas argumentações a fim de demonstrar em que consistem as ofensas aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais ou tão somente a menção deles caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Observo que, às fls. 1.796-1.812, a parte agravante não impugnou especificamente todos os artigos de lei supostamente malferidos. Vale dizer, não desenvolveu as razões para a não incidência da Súmula n. 284 do STF.
+E, neste regimental, acostado às fls. 1.891-1.897, verifico idêntico vício, porquanto a defesa não infirma o fundamento da decisão atacada, visto não demonstrar que o agravo interposto contra o decisum haveria combatido a totalidade dos motivos apontados para negar seguimento ao pleito. Incide, portanto, a Súmula n. 182 do STJ, a inviabilizar o conhecimento do pedido.
+A meu sentir, novamente constata-se a busca indevida de efeitos modificativos, visando a agravante a rediscussão de matéria imprópria na via recursal interposta.
+A propósito, em consonância com o entendimento jurisprudencial desta Corte Superior:
+ ..  II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que desproveu o agravo regimental pois, na espécie, à conta de omissão no decisum, pretende o embargante a rediscussão de matéria já apreciada. Embargos de declaração rejeitados (EDcl no AgRg no AREsp n. 2.012.577/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 31/3/2022, grifei).
+À vista do exposto, nego provimento ao agravo regimental.
