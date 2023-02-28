@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO FIBRA S/A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 559):
+"Competência - Execução por quantia certa de título extrajudicial - Contratos de câmbio - Ajuizamento contra avalistas - Exceção de incompetência acolhida e redistribuição ao juízo do foro do domicílio dos executados - Cláusula de eleição de foro julgada nula - Hipótese em que o credor levou a protesto os contratos de câmbio no domicílio da avalizada e renunciou tacitamente o foro de eleição - Aplicação da regra geral do domicílio do réu para a demanda, onde ele terá melhores condições de se defender - Critério justo e equitativo - Recurso desprovido."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 572/574).
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 100, IV, "d", 111, 535, I e II, do CPC/73, 53, III, "d", 62, 63, §§ 1º e 2º, e 1.022 do CPC/2015, 78 do Código Civil, bem como divergência jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a regularidade do protesto em praça do estabelecimento do devedor principal/avalizada e a inexistência de renúncia tácita ao foro de eleição por título protestado em localidade diversa da eleita. Alega a validade, legitimidade e aplicabilidade da cláusula de eleição de foro.
+É o relatório. Decido.
+De início, não prospera a alegada ofensa aos arts. 535 do CPC/73 e 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+O Tribunal de origem, ao decidir a questão acerca do foro prevalente, consignou o seguinte (e-STJ, fls. 560-561):
+"O fundamento que leva ao desprovimento do recurso é outro e está na circunstância de que o exequente renunciou ao foro de eleição ao levar a protesto extrajudicial os contratos de câmbio em lugar diferente.
+Com efeito, os contratos de câmbio foram levados a protesto na Comarca de Engenheiro Beltrão, Paraná, sede da avalizada.
+Naquela localidade, pois, o credor pretendeu que o pagamento fosse feito, apesar da cláusula de eleição de foro.
+O corolário é que passou a aplicar-se ao caso concreto a regra geral do ajuizamento da ação no foro do domicílio do réu, em atenção ao princípio da isonomia, que colima dar equilíbrio à relação processual entre autor e réu.
+Cândido José Dinamarco observa que: "A lei escolhe o réu e não o autor, em primeiro lugar porque alguma escolha havia de ser feita e não existe outro elemento de fixação onipresente e de tão grande amplitude, capaz de substituir o critério pessoal. Além disso, o autor tem sempre a vantagem de escolher o momento mais propício para vir a juízo, o que ele fará quando tiver em mãos o material probatório conveniente, houver feito os necessários entendimentos com o advogado que lhe patrocinará a causa, dispuser de meios para custeá-la etc. O réu, quando citado, tem sempre um prazo exíguo para aparelhar a defesa, sem as folgas de que o autor dispõe. Para compensar tal desvantagem, é justo e equitativo, portanto, que ao réu se ofereça o beneficio de litigar em seu próprio foro, sem se deslocar nem ter a necessidade de entender-se com pessoas que pode até não conhecer, nem de organizar a defesa à distância.." ("in" "Instituições de direito processual civil", Ed. Malheiros, 2013, 7ª ed., vol. I, págs. 506-507).
+Domiciliados os executados na Comarca de Maringá, Paraná, é escorreita a r. decisão que acolheu a exceção de incompetência.
+Diante do exposto, nega-se provimento ao recurso." (grifou-se)
+Da análise do excerto transcrito, verifica-se que o Tribunal de origem decidiu em dissonância com a jurisprudência desta Corte, segundo a qual é competente o foro de eleição contratual para a propositura de qualquer ação dele decorrente, mesmo quando protestado título de crédito atinente a esse contrato em localidade diversa da eleita.
+Nesse mesmo sentido, confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. FORO DE ELEIÇÃO. PROTESTO EM CIDADE DIVERSA. INEXISTÊNCIA DE RENÚNCIA TÁCITA. VALIDADE DA CLÁUSULA CONTRATUAL. RECURSO ESPECIAL PROVIDO. INOVAÇÃO RECURSAL. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior entende que é competente o foro de eleição contratual para a propositura de qualquer ação dele decorrente, mesmo quando protestado título de crédito atinente a esse contrato em localidade diversa da eleita. Precedentes.
+2. Fica inviabilizado o conhecimento de tema trazido somente na petição de agravo interno, não debatido pelas instâncias ordinárias, tampouco alegado em sede de contrarrazões ao recurso especial, por se tratar de indevida inovação recursal. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.253.278/SP, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 18/4/2017, DJe de 4/5/2017, g.n.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE INCOMPETÊNCIA. SUSTAÇÃO DE PROTESTO, ANULATÓRIA E DE RESSARCIMENTO. PREVALÊNCIA DO FORO DA PRAÇA DO PAGAMENTO OU DA CLÁUSULA DE ELEIÇÃO DO FORO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "Prevalência do foro de eleição, pactuado em cláusula contratual, sobre o do praça do pagamento (art. 17 da Lei n. 5474/68) por se tratar de hipótese de competência relativa." (Resp n. 1.208.582, relator Ministro Paulo de Tarso Sanseverino, DJe de 13/12/2012).
+2. Agravo regimental não provido."
+(AgRg no REsp 1.168.712/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/5/2013, DJe de 3/6/2013, g.n.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO RECORRIDA EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. TÍTULO DE CRÉDITO EMITIDO COM RELAÇÃO A CONTRATO. PROTESTO POSTERIOR. AÇÃO DE EXECUÇÃO. COMPETÊNCIA. FORO DE ELEIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É competente o foro de eleição contratual para a propositura de qualquer ação dele decorrente, mesmo quando protestado título de crédito atinente a esse contrato em localidade diversa da eleita.
+II - Ante seu caráter territorial, é de natureza relativa a norma de competência do art. 17 da Lei n. 5.474/68, não afastando a cláusula contratual de eleição de foro.
+III - Agravo regimental a que se nega provimento."
+(AgRg no Ag 1.365.905/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 28/6/2011, DJe de 1º/8/2011, g.n.)
+"RECURSO ESPECIAL - EXECUÇÃO - TRIPLICATAS - COMPETÊNCIA - FORO DE ELEIÇÃO - PROTESTO EM CIDADE DIVERSA - INEXISTÊNCIA DE RENÚNCIA TÁCITA - VALIDADE DA CLÁUSULA CONTRATUAL.
+1. A circunstância de o credor levar o título a protesto no local onde o devedor tem domicílio não traduz renúncia ao foro de eleição para a ação de cobrança. O protesto cambial - simples ato administrativo - nada tem com a execução.
+2. Sendo a competência do Art. 100, V, "d", do CPC relativa, deve ceder ao foro de eleição, que só é desconsiderado se ofender normas de fixação de competência absoluta."
+(REsp 782.384/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 14/12/2006, DJ de 19/3/2007, g.n.)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para rejeitar a exceção de incompetência, reconhecendo a competência do Juízo da 15ª Vara Cível do Foro Central da Comarca de São Paulo/SP para o julgamento da Ação de Execução nº 1123187-34.2014.8.26.0100.
+Publique-se.
