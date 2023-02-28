@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por USINAS SIDERÚRGICAS DE MINAS GERAIS S/A com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO DE INDENIZATÓRIA - ACIDENTE RODOVIÁRIO - CONDUTA CULPOSA DA PARTE REQUERIDA PELO SINISTRO - COMPROVAÇÃO - RESPONSABILIDADE DA TOMADORA DE SERVIÇO - OCORRÊNCIA - PENSIONAMENTO - FIXAÇÃO - POSSIBILIDADE - QUANTUM INDENIZATÓRIO - CRITÉRIOS DE FIXAÇÃO - PRINCÍPIOS ORIENTADORES - RAZOABILIDADE E PROPORCIONALIDADE - JUROS DE MORA - TERMO INICIAL - INCIDÊNCIA DESDE A DATA DO EVENTO DANOSO - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+- São do autor os ônus de comprovar os fatos constitutivos do seu direito e do réu os ônus de demonstrar os fatos impeditivos, modificativos e extintivos do direito pretendido, nos termos do disposto no artigo 373 do vigente Código de Processo Civil.
+- Para a caracterização da responsabilidade civil, necessária se faz a demonstração de um ilícito praticado pelo agente (culpa), do dano sofrido pela vítima e do nexo de causalidade entre um e outro (artigos 186 e 927 do Código Civil).
+- Comprovada a culpa da parte ré pela ocorrência do evento danoso, bem como o nexo de causalidade entre sua ação e os danos alegados na inicial, de ordem patrimonial, resultantes de acidente rodoviário, caracterizada está a responsabilidade civil, ensejadora do dever reparatório.
+- Inexiste critério objetivo para a estipulação do valor da indenização por danos morais, pelo que incumbe ao julgador arbitrá-lo, de forma prudente, com observância dos princípios da razoabilidade e da proporcionalidade e atento às circunstâncias do caso concreto.
+- A indenização por danos morais deve ter caráter reparatório, sem ensejar enriquecimento sem causa, representando, ao ofendido, uma compensação justa pelo sofrimento experimentado, e, ao ofensor, um desestímulo à reiteração do ato lesivo.
+- Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual. Inteligência do Enunciado n.º 54 da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, além de divergência jurisprudencial, que o Tribunal a quo negou vigência ao art. 373, I, do CPC/2015 e arts. 948 e 1.694 do Código Civil, na medida em que, quando da análise do pensionamento mensal, presumiu a dependência econômica entre os familiares, sem, no entanto, haver qualquer prova nos autos capaz de demonstrá-la.
+Obtempera, outrossim, não haver solidariedade com a Seguradora, na melhor interpretação do art. 787 do Código Civil, pois a responsabilidade é exclusiva do transportador no período compreendido entre o recebimento da carga e a sua entrega ao destinatário.
+As contrarrazões ao recurso especial foram apresentadas a fls. 1.189/1.197.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação de indenização ajuizada pelos ora agravados em face da ora agravante e TGC Empreendimentos Ltda, cujo pedido foi julgado procedente.
+No caso em análise restou demonstrado que, em razão do fato ocorrido em 21/06/2016, o motorista Rodrigo, que dirigia o caminhão da ré TCG no dia do acidente, foi condenado pelos crimes tipificados no art. 302 da Lei 9.503/1997 e no art. 70 do Código Penal, cuja condenação transitou em julgado em 02/08/2017.
+A existência de sentença penal condenatória pelos fatos discutidos na presente demanda indenizatória, na qual o funcionário da ré TGC restou condenado pelo homicídio culposo da vítima Waslesson Santos Dias na direção de veículo automotor, tornou certa a obrigação de indenizar o dano causado pelo fato delituoso, nos termos do art. 91, I, do Código Penal, , combinado com o art. 63 do Código de Processo Penal.
+O caminhão envolvido no acidente é de propriedade da requerida TGC e o condutor do automotor, Rodrigo Lopes da Silva, era seu funcionário.
+Irresigna-se a ora agravante acerca do pensionamento mensal, buscando a compreensão de que a dependência econômica dos genitores para com seu filho, a vítima fatal do acidente de trânsito, não pode ser presumida.
+O Tribunal a quo, analisando a questão asseverou o que segue em tela:
+DO PENSIONAMENTO
+Quanto ao pleito de reparação por dano material, sob a forma de pensionamento, entendo-o devido, desmerecendo reforma a sentença, nesse tocante.
+No caso em tela, os documentos constantes do evento n.º 109/113 atestam o exercício de atividade econômica por parte do Autor. Nota-se, ainda, tratar-se de família de baixa renda, exercendo o pai profissão de carbonizador e a mãe se encontrando desempregada, não se podendo afirmar possuírem boa condição financeira, pelo que presumo haver interdependência financeira.
+A pretensão recursal, com efeito, busca afastar a presunção da dependência financeira. Todavia, consoante entendimento jurisprudencial do Superior Tribunal de Justiça, tratando-se de família de baixa renda, como no caso, a dependência econômica de genitores para com seu filho, vítima morta em acidente automobilístico, é presumida.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Rever o entendimento do Tribunal local acerca da suficiência das provas produzidas demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. As questões envolvendo os elementos ensejadores do dever de indenizar demandam reexame dos elementos fáticos contidos no processo, tarefa não encontrada no rol das competências do Superior Tribunal de Justiça e, portanto, expressamente vedada no âmbito deste Tribunal, conforme teor da Súmula 7 desta Corte.
+4. A jurisprudência do STJ é no sentido de que tratando-se de família de baixa renda, há presunção relativa de dependência econômica entre seus membros, sendo devido o pagamento de pensão, como dano material. Precedentes.
+5. "O entendimento deste Superior Tribunal é de que os juros de mora sobre os danos morais, estéticos e patrimoniais incidem a partir da citação" (AgInt no AREsp 1.272.646/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 2.10.2019).
+6. Agravo interno desprovido.
+(AgInt no AREsp 1925959/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/2/2022, DJe de 21/2/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. CULPA COMPROVADA. DEVER DE REPARAR. MORTE DE FILHO MAIOR. FAMÍLIA DE BAIXA RENDA. DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO. PENSÃO DEVIDA. INOVAÇÃO RECURSAL. NÃO CONFIGURAÇÃO. REEXAME. SÚMULA Nº 7/STJ.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Na hipótese, a reforma do acórdão estadual no tocante à existência de inovação recursal demandaria o reexame do conjunto fático-probatório, procedimento inadmissível em recurso especial ante o óbice da Súmula nº 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, em se tratando de famílias de baixa renda, existe presunção relativa de dependência econômica entre os membros, sendo devido, a título de dano material, o pensionamento mensal aos genitores da vítima.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1880254/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/9/2021, DJe de 24/9/2021)
+No tocante à solidariedade, o Tribunal a quo a reconheceu com base nos seguintes fundamentos:
+No que tange à responsabilização da segunda Requerida, Usiminas Siderúrgicas de Minas Gerais S/A, o Superior Tribunal de Justiça pacificou entendimento de que:
+"diante da existência de interesse econômico no serviço, consistente no lucro decorrente da entrega dos produtos a seus destinatários, exsurge, em regra, a responsabilidade solidária entre a tomadora e a empresa de transporte de cargas, devendo ambas responderem perante terceiros no caso de acidente ocorrido durante o deslocamento da mercadoria" (REsp 1.282.069/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/5/2016, DJe 7/6/2016), sendo certo que "esse entendimento aplica-se, de igual forma, em relação à transportadora que terceiriza os serviços contratados para uma outra empresa de transportes" (AgInt no AREsp 1268854/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/08/2018, DJe 03/09/2018).
+Ademais, como exposto pelo douto Juízo de 1.º grau; "o acidente em tela motivou o ajuizamento de três outras ações de n.º 5005851- 70.2018.2016.8.0313, 5006609-49.20168.13.0313, 50006764-52.2016.8.13.0313, em decorrência da morte de duas outras vítimas, cujos familiares invocaram a responsabilidade solidária da ré Usiminas, o que foi reconhecido por sentença (..)".
+Destarte, mantém-se a responsabilidade da Requerida, Usiminas Siderúrgicas de Minas Gerais. (Destaque nosso)
+Depreende-se do trecho supratranscrito que o Tribunal a quo consignou a existência de sentenças em outros processos conexos, responsabilizando a ora agravante pelos fatos contidos neste processo. Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF.
+No mesmo sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLÊNCIA. PLANO DE SAÚDE. UTILIZAÇÃO DE DOCUMENTOS FALSIFICADOS. MAJORAÇÃO DO VALOR DO DANO MORAL. CABIMENTO. ADEQUAÇÃO DO VALOR. PARÂMETROS JURISPRUDENCIAIS. DANO PRESUMIDO. ABALO DE CRÉDITO.
+NULIDADE NA INTIMAÇÃO DA SENTENÇA. NULIDADE DE TODOS OS ATOS PROCESSUAIS SUBSEQUENTES. CONVALIDAÇÃO POR COMPARECIMENTO ESPONTÂNEO. PRECLUSÃO. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na espécie, não houve a demonstração clara e precisa dos motivos pelos quais o acórdão recorrido teria vulnerado o dispositivo apontado no apelo extremo para a manutenção do valor de condenação em honorários advocatícios de sucumbência, incidindo a Súmula nº 284/STF.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+3. Agravo interno não provido.
+(AgInt no AREsp 1929447/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/2/2022, DJe de 3/3/2022)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 2%.
+Publique-se.
