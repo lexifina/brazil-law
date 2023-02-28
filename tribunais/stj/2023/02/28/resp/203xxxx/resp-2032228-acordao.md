@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de recurso especial interposto por Camila Dantas da Silva, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão do Tribunal de Justiça de Alagoas, exarado no julgamento do Recurso em Sentido Estrito n. 0703116- 40.2015.8.02.0058, que cassou a decisão que declarou extinta a punibilidade da recorrente com base na prescrição virtual ou antecipada.
+Nas razões, a recorrente suscitou violação dos arts. 271 e 586, ambos do Código de Processo Penal, aduzindo, em síntese, que é intempestivo e carente de legitimidade o recurso do assistente de acusação interposto na fluência do prazo recursal do órgão acusatório (fls. 505/513).
+Na origem, o recurso foi inadmitido com fundamento na Súmula 7/STJ (fls. 553/556).
+Contra o decisum a defesa interpôs o presente agravo (fls. 558/562).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso especial (fls. 584/586).
+Em decisão exarada às fls. 588/589, determinei a conversão do agravo em recurso especial.
+Os autos, então, vieram conclusos para julgamento.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. RECURSO EM SENTIDO ESTRITO CONTRA DECISÃO EXTINTIVA DA PUNIBILIDADE. RECURSO INTERPOSTO PELO ASSISTENTE DA ACUSAÇÃO NA FLUÊNCIA DO PRAZO RECURSAL DO ÓRGÃO ACUSATÓRIO. CIRCUNSTÂNCIA QUE NÃO ACARRETA, POR SI SÓ, A INTEMPESTIVIDADE DO RECURSO OU A ILEGITIMIDADE DO RECORRENTE. ORIENTAÇÃO JURISPRUDENCIAL NO SENTIDO DA POSSI BILIDADE DE INTERPOSIÇÃO PREMATURA DO RECURSO. INSTRUMENTALIDADE DAS FORMAS E ACESSO À JUSTIÇA.
+1. É admissível o recurso interposto pelo assistente da acusação, ainda que na fluência do prazo do órgão acusatório, desde que verificada a inércia subsequente do órgão ministerial na interposição do recurso ou a interposição de recurso parcial, de forma a atrair a legitimidade subsidiária prevista na norma processual, desnecessária ratificação.
+2. Recurso especial improvido.
+VOTO
+O recurso especial é admissível, pois a tese deduzida na insurgência foi devidamente debatida na Corte de origem, ou seja, está devidamente prequestionada, além do que, ostenta natureza eminentemente jurídica, razão pela qual não encontra óbice na Súmula 7/STJ.
+Contudo, no mérito, entendo que a insurgência não merece acolhida.
+Ora, ao contrário do que alega a recorrente, a interposição de recurso pelo assistente da acusação, ainda na fluência do prazo recursal do órgão acusatório, não acarreta, por si só, a intempestividade do reclamo ou a ilegitimidade do assistente da acusação.
+Ora, a hipótese se assemelha àquela verificada na interposição prematura do recurso, ou seja, antes da publicação da decisão ou do acórdão atacado, situação na qual a jurisprudência desta Corte Superior tem compreendido no sentido da admissibilidade do recurso à luz dos princípios da instrumentalidade das formas e do acesso à Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TEMPESTIVIDADE DO RECURSO ESPECIAL RECONHECIDA. INTERPOSIÇÃO DO RECURSO ANTES DA PUBLICAÇÃO DO ACÓRDÃO DA APELAÇÃO. INEXISTÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. TESE DO RECURSO PREMATURA SUPERADA. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL: AI 703.269, PLENÁRIO. CONTRADIÇÃO SANADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITO MODIFICATIVO.
+1. A questão central dos presentes embargos de declaração consiste na averiguação da tempestividade do recurso especial, outrora declarado intempestivo, por ter sido interposto prematuramente, eis que a publicação do acórdão recorrido se deu em 22/7/2009 e o recurso especial foi interposto em 3/7/2009.
+2. No tocante à tempestividade do recurso especial, sob o ângulo da interposição prematura, a jurisprudência do STJ entendia pela extemporaneidade do recurso especial interposto antes da publicação do acórdão que se pretende impugnar.
+3. Todavia, a tese então prevalente se mostrou superada em observância da garantia constitucional de acesso ao Poder Judiciário, a partir da orientação plenária do STF nos autos do AI 703.269.
+4. Embargos de declaração acolhidos para sanar contradição, com efeito modificativo, para afastar a intempestividade do recurso especial, determinando-se novo julgamento do agravo em recurso especial.
+(EDcl nos EDcl no AgRg no AREsp n. 789.805/SP, Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/10/2016)
+EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL. CORTE ESPECIAL. RECURSO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO ALTERAÇÃO DA DECISÃO EMBARGADA. DESNECESSIDADE DE RATIFICAÇÃO. INSTRUMENTALISMO PROCESSUAL. CONHECIMENTO DO RECURSO. INTERPRETAÇÃO DA SÚMULA 418 DO STJ QUE PRIVILEGIA O MÉRITO DO RECURSO E O AMPLO ACESSO À JUSTIÇA.
+1. Segundo dispõe a Súmula 418 do STJ "é inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação".
+2. A Corte Especial do STJ, no julgamento da Questão de Ordem no REsp n. 1.129.215/DF, rel. Min. Luis Felipe Salomão, firmou o entendimento de que "a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior".
+3. "O cabimento dos embargos de divergência pressupõe a existência de discrepância de entendimentos entre Turmas do STJ a respeito da mesma questão de direito federal. Tratando-se de divergência a propósito de regra de direito processual não se exige haja identidade de questões de direito material decididas nos acórdãos em confronto. O que interessa para ensejar o cabimento dos embargos de divergência em matéria processual é que a mesma questão processual, em conjuntura semelhante, tenha recebido tratamento divergente". (EREsp 1080694/RJ, Rel. Min. Maria Isabel Gallotti, Segunda Seção, julgado em 08/05/2013, DJe 27/06/2013).
+4. Na hipótese, em se tratando de embargos de divergência sobre regra de direito processual (interpretação a ser conferida ao art. 508 do CPC), bem como em se reconhecendo não ter havido alteração do acórdão dos embargos de declaração na apelação, deve haver o processamento normal do recurso (principal), que não poderá mais ser alterado.
+5. Agravo regimental provido para dar provimento aos embargos de divergência.
+(AgRg nos EAREsp n. 300.967/SP, Ministro Luis Felipe Salomão, Corte Especial, julgado em 16/9/2015, DJe 20/11/2015)
+Assim, entendo que a melhor interpretação é no sentido de se admitir o recurso interposto pelo assistente da acusação, ainda que na fluência do prazo do órgão acusatório, desde que verificada a inércia subsequente do órgão acusatório na interposição do recurso ou a interposição de recurso parcial, de forma a atrair a legitimidade subsidiária prevista na norma processual, desnecessária ratificação.
+Ante o exposto, nego provimento ao recurso especial.
