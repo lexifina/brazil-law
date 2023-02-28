@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ESTELIONATO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. INSURGÊNCIA CONTRA A EXTENSÃO DO HABEAS CORPUS CONCEDIDO, DE OFÍCIO, INADMISSIBILIDADE. FALTA DE INTERESSE RECURSAL. REJEITADA A PREJUDICIAL DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A pena concreta fixada para o Agravante, na decisão agravada, foi de 1 (um) ano e 6 (seis) meses de reclusão e 14 (catorze) dias-multa. O recebimento da denúncia ocorreu em 22/08/2017, a publicação da sentença condenatória se deu em 11/06/2021, e o acórdão confirmatório foi prolatado em 1.º/06/2021. Assim, não se consumou o prazo prescricional de 4 (quatro) anos, previsto no art. 109, inciso V, do Código Penal.
+2. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+3. A fixação do regime semiaberto, na decisão agravada, ocorreu por meio de habeas corpus de ofício, ou seja, em atuação sponte propria desta Corte Superior. Assim, tendo em vista que a questão não foi apreciada em razão da análise do mérito de recurso, não houve sucumbência, sem a qual, não há interesse recursal. Na verdade, o presente recurso interno cuida-se de insurgência defensiva que busca ampliar a extensão do habeas corpus que lhe foi concedido, de ofício, na decisão agravada, o que não é admitido.
+4. Rejeitada a prejudicial de reconhecimento da prescrição da pretensão punitiva formulada no agravo regimental e na Petição n. 25420/2023. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar a preliminar de reconhecimento da prescrição da pretensão punitiva e não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MATHEUS DE OLIVEIRA MARTINS contra a decisão que não conheceu do agravo em recurso especial, porém concedeu-lhe habeas corpus, de ofício, assim ementada (fl. 528):
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 171, CAPUT, DO CÓDIGO PENAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. ILEGALIDADES MANIFESTAS. DOSIMETRIA. PENA-BASE. PERSONALIDADE E CONDUTA SOCIAL. NEGATIVAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. REGIME INICIAL FECHADO. PENA INFERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. PRIMARIEDADE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME SEMIABERTO. ADEQUAÇÃO. AGRAVO NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO."
+Alega o Agravante, preliminarmente, a prescrição da pretensão punitiva pela pena concreta, pois transcorridos mais de 4 (quatro) anos desde o recebimento da denúncia, em 22/08/2017.
+Sustenta que o agravo em recurso especial deve ser provido, absolvendo-se o Agravante pela falta de provas, pela aplicação do princípio do in dubio pro reo, bem assim fixado o regime inicial aberto.
+Pede o acolhimento dos pedidos formulados.
+Por meio da Petição n. 25240/2023, o Agravante reitera a alegação de prescrição da pretensão punitiva.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ESTELIONATO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. INSURGÊNCIA CONTRA A EXTENSÃO DO HABEAS CORPUS CONCEDIDO, DE OFÍCIO, INADMISSIBILIDADE. FALTA DE INTERESSE RECURSAL. REJEITADA A PREJUDICIAL DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A pena concreta fixada para o Agravante, na decisão agravada, foi de 1 (um) ano e 6 (seis) meses de reclusão e 14 (catorze) dias-multa. O recebimento da denúncia ocorreu em 22/08/2017, a publicação da sentença condenatória se deu em 11/06/2021, e o acórdão confirmatório foi prolatado em 1.º/06/2021. Assim, não se consumou o prazo prescricional de 4 (quatro) anos, previsto no art. 109, inciso V, do Código Penal.
+2. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+3. A fixação do regime semiaberto, na decisão agravada, ocorreu por meio de habeas corpus de ofício, ou seja, em atuação sponte propria desta Corte Superior. Assim, tendo em vista que a questão não foi apreciada em razão da análise do mérito de recurso, não houve sucumbência, sem a qual, não há interesse recursal. Na verdade, o presente recurso interno cuida-se de insurgência defensiva que busca ampliar a extensão do habeas corpus que lhe foi concedido, de ofício, na decisão agravada, o que não é admitido.
+4. Rejeitada a prejudicial de reconhecimento da prescrição da pretensão punitiva formulada no agravo regimental e na Petição n. 25420/2023. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, não ocorreu a prescrição da pretensão punitiva, tendo a Defesa se olvidado, em sua contagem do prazo prescricional, que a publicação da sentença condenatória e do acórdão confirmatório são marcos interruptivos.
+Após a prolação da decisão agravada, a pena do Agravante ficou fixada em 1 (um) ano e 6 (seis) meses de reclusão e 14 (catorze) dias-multa. O prazo prescricional, portanto, é de 4 (quatro) anos, nos termos do art. 109, inciso V, do Código Penal.
+No caso concreto, o recebimento da denúncia ocorreu em 22/08/2017 (fls. 114-115), a publicação da sentença condenatória se deu em 11/06/2021 (fl. 301), e o acórdão confirmatório foi prolatado em 1º/06/2021 (fl. 340). Assim, não se consumou o prazo prescricional de 4 (quatro) anos.
+No mais, o agravo regimental não comporta conhecimento.
+O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+Com efeito, no caso concreto, as razões do agravo regimental sequer mencionam o motivo pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, qual seja, a falta de impugnação a todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o apelo nobre. Na verdade, se limitam a reiterar as alegações de mérito deduzidas no recurso especial, bem assim a dizer a análise da matéria não demandaria reexame de provas e que estaria comprovada a divergência jurisprudencial.
+Sendo assim, tem incidência a Súmula n. 182 do STJ.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/15. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos da decisão agravada enseja o não conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC/15 e do óbice contido na Súmula 182/STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia. Precedentes do STJ.
+3. Agravo regimental não conhecido." (AgRg no AREsp n. 2.091.694/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 07/06/2022, DJe 13/06/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE OFENSA. FUNDAMENTO NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. FEITO APRESENTADO EM MESA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+3. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto.
+ ..
+5. Agravo regimental não conhecido." (AgRg no AREsp n. 1.919.013/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 23/11/2021, DJe 30/11/2021.)
+Por fim, a fixação do regime semiaberto, na decisão agravada, ocorreu por meio de habeas corpus de ofício, ou seja, em atuação sponte propria desta Corte Superior. Assim, tendo em vista que a questão não foi apreciada em razão da análise do mérito de recurso, não houve sucumbência, sem a qual, não há interesse recursal. Na verdade, o presente recurso interno cuida-se de insurgência defensiva que busca ampliar a extensão do habeas corpus que lhe foi concedido, de ofício, na decisão agravada, o que não é admitido.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. HABEAS CORPUS (DE OFÍCIO) PARA REDUZIR A PENA. PRETENSÃO DE MAIOR ABRANGÊNCIA DA CONCESSÃO PELA DEFESA. AUSÊNCIA DE INTERESSE RECURSAL.
+1. Nos termos do art. 654, § 2º, do CPP, o habeas corpus de ofício é deferido por iniciativa do próprio órgão julgador para sanar flagrante ilegalidade.
+2. "É inviável impugnar a extensão da concessão de habeas corpus de ofício  .. , pois, se a parte não postulou tal modificação no recurso, não há sucumbência e, sem esta, não há interesse recursal" (AgRg no AREsp 485.298/MT, Rel. Ministro SEBASTIÃO DOS REIS JU NIOR, SEXTA TURMA, julgado em 03/03/2015, DJe 11/03/2015).
+3. Agravo regimental improvido." (AgRg no AREsp n. 1.796.682/PR, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 28/9/2021, DJe 04/10/2021; sem grifos no original.)
+Ante o exposto, REJEITO a prejudicial de prescrição da pretensão punitiva trazida no agravo regimental e na Petição n. 25420/2023 e NÃO CONHEÇO do agravo regimental.
+É o voto.
