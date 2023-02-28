@@ -1,0 +1,38 @@
+DECISÃO
+KAUA HENRIQUE XAVIER ALVES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2290453-57.2022.8.26.0000.
+Nas razões deste writ, a defesa postula, em liminar e no mérito, a revogação da prisão preventiva.
+Indeferida a liminar (fls. 293-294), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 357-363).
+Decido.
+O paciente foi condenado à pena de 10 anos de reclusão, no regime inicialmente fechado, mais 530 dias-multa, pela prática dos crimes tipificados no art. 33 da Lei n. 11.343/2006, nos arts. 14 e 15 da Lei n. 10.826/2003 e no art. 180 do Código Penal (fls. 24-44).
+Atendendo a pedido do Ministério Público, o Magistrado de primeiro grau decretou a prisão preventiva do réu em virtude do descumprimento de medida cautelar anteriormente fixada, in verbis (fls. 54-55, grifei):
+O periculum libertatis, por sua vez, é evidenciado pelo risco à garantia da ordem pública, na forma do art. 312 do Código de Processo Penal, tendo em vista a possibilidade concreta de o réu voltar a delinquir, bem como diante da imprescindibilidade da custódia cautelar para assegurar a aplicação da lei penal, uma vez que o réu demonstrou concretamente renitência criminosa e o interesse de se evadir do distrito da culpa.
+Anote-se que KAUÃ HENRIQUE XAVIER ALVES foi colocado em liberdade na audiência de custódia, com a condição de cumprir medidas cautelares diversas da prisão.
+Segundo se extrai dos autos (em especial do interrogatório colhido em juízo), todavia, o réu o mudou para o estado do Paraná, não declarando ou comprovando nos autos o seu atual paradeiro e, embora a Defesa técnica tenha solicitado em audiência prazo para juntar comprovação do atual endereço do réu e do motivo da alteração de residência, quedou-se inerte.
+Nesse cenário, tem-se de forma inequívoca que o réu descumpriu as medidas cautelares diversas da prisão fixadas na audiência de custódia, notadamente àquelas dos itens "c" e "d" consistentes em "impossibilidade de mudar de residência, sem prévia permissão da autoridade processante" e "impossibilidade de ausentar-se por mais de 8 (oito) dias de sua residência, sem comunicar àquela autoridade o lugar onde será encontrado"(fl. 47).
+Some-se a isso o fato de o réu, (segundo admitido no seu próprio interrogatório, registre-se), voltou a traficar após ser liberado na audiência de custódia, em mais um indicativo de que sua prisão é imprescindível para a garantia da ordem pública.
+Desta feita, as medidas cautelares diversas da prisão mostraram-se insuficientes para acautelar a ordem pública e para assegurar a aplicação da lei penal, circunstância que torna imperiosa a decretação de sua prisão preventiva.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos seguintes termos (fls. 18-20, destaquei):
+Nota-se que não há que se cogitar em ausência de fundamentação na decisão que decretou a prisão preventiva do paciente, pois foram analisadas as circunstâncias concretas relativas ao caso.
+Agiu com acerto o d. juízo a quo ao decretar a prisão preventiva do paciente, haja vista que ele afirmou em juízo estar residindo no Estado do Paraná e sua mudança não foi autorizada pelo juízo, não tendo sido sequer informado seu endereço atual nos autos (mídia digital). Assim, ele deixou de cumprir as determinações judiciais para que pudesse permanecerem liberdade durante o transcurso da ação penal, o que revela a necessidade de sua segregação cautelar.
+A propósito, o d. juízo a quo possibilitou em audiência que a i. patrona procedesse à informação nos autos a respeito do novo endereço do paciente. Contudo, a Defesa se quedou inerte.
+Desta forma, há elementos que evidenciam que o paciente tenta se ocultar e descumpriu as medidas cautelares diversas da prisão que lhe foram impostas, justificando a decretação de sua prisão preventiva para assegurar a aplicação da lei penal e a garantia da ordem pública, a teor do que dispõe o artigo 312, caput, e § 1º, do Código de Processo Penal.
+ ..
+De resto, consta da sentença que o paciente ostenta maus antecedentes decorrentes de condenação definitiva por fato anterior, mas com trânsito em julgado posterior nos autos n. 1500330-78.2021.8.26.0262 (fls. 180 - processo digital principal), o que, associado ao descumprimento nestes autos das medidas cautelares diversas da prisão, demonstra a sua insuficiência e a necessidade da prisão p reventiva.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que são idôneos os motivos elencados para justificar a decretação da prisão preventiva, pois evidenciam a sua necessidade para resguardar a instrução processual diante das notícias de descumprimento de medidas cautelares anteriormente impostas.
+Infere-se da decisão de primeiro grau que o paciente "mudou para o estado do Paraná, não declarando ou comprovando nos autos o seu atual paradeiro e, embora a Defesa técnica tenha solicitado em audiência prazo para juntar comprovação do atual endereço do réu e do motivo da alteração de residência, quedou-se inerte" (fl. 54).
+Assim, não vejo ilegalidade na espécie, uma vez que os elementos descritos na decisão prolatada pelo Juízo singular são considerados bastantes, pela jurisprudência desta Corte Superior, para embasar o decreto preventivo. A propósito:
+ ..
+2. No caso, tem-se que a constrição cautelar está baseada em elementos concretos, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando o descumprimento das medidas anteriormente impostas e a periculosidade do agente. Tudo a confirmar a necessidade de manter a medida extrema para garantia da ordem pública e resguardo da instrução criminal. Cumprindo destacar que não houve nenhum debate na origem a respeito da alegada origem anônima das informações.
+3. O agravante, embora possa ser portador de comorbidade, não está inserido na excepcionalidade a justificar a prisão domiciliar, pois não comprovou que está em situação de vulnerabilidade no ambiente prisional.
+4. Agravo regimental improvido.
+(AgRg no HC n. 764.795/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/12/2022)
+ ..
+3. O descumprimento de medida cautelar alternativa anteriormente fixada caracteriza motivo idôneo para a decretação da prisão preventiva.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 747.871/PI, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 8/8/2022, destaquei)
+Além disso, conforme entendimento desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
