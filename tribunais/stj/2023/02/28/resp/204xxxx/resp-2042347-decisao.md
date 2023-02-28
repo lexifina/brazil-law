@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, a, da Constituição Federal, interposto pelo ESTADO DE MINAS GERAIS em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 181/182):
+EMENTA:REMESA NECESSÁRIA//APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA EM FACE DO ESTADO DE MINAS GERAIS REMESSA NECESSÁRIA - CONDENAÇÃ O LÍQUIDA EM VALOR INFERIOR A 500 SÁLÁRIOS MÍNIMOS - ART. 493, §30 , II, DO CPC/15 - DISPENSA  NÃ0:CONHECIMENT0.
+A sentença que define desde logo a extensão da obrigação e a metodologia completa de atualização monetária da dívida atende à exigência de que, "como regra, a condenação deve ser líquida". Inteligência dos arts. 491 e 509, §2º, do CPC/2015.
+Se, diante dos precisos parâmetros indicados para a apuração do valor da condenação, é possível concluir que o será muito inferior ao patamar legal previsto para dispensa da remessa necessária, impõe-se a aplicação da respectiva norma (CPC 15, ad. 493, §3 0, II) - que reduziu, drasticamente, o âmbito de incidência do duplo grau de jurisdição obrigatório.
+Não conhecimento da remessa necessária.
+PRELIMINAR  SOBRESTAMENTO DO FEITO - AUSÊNCIA DE AMPARO LEGAL - REJEIÇÃO
+O reconhecimento da repercussão geral, sob a égide do CPC173, em processo que trata da mesma matéria dos autos não enseja seu sobrestamento automático, visto que, para tanto, necessária prévia e expressa determinação do STF (art. 328 de seu Regimento Interno), o que não se verifica na espécie.
+O sobrestamento automático previsto no ad. 543-C do CPC/73 é direcionado aos recursos especiais e não a todo e qualquer recurso.
+MÉRITO - COBRANÇA - DESPESAS CONDOMINIAIS - INADIMPLÊNCIA INCONTROVERSA - RUBRICA REFERENTE A MANUTENÇÃO DE ELEVADORES - VALOR NÃO DEVIDO PELO ESTADO E TAMBÉM NÃO INCLUÍDO NOS- CÁLCULOS - INSURGÊNCIA INFUNDADA - HONORÁRIOS ADVOCATÍCIOS DO PROFISSIONAL CONTRATATO PELO CONDOMÍNIO - RESSARCIMENTO DEVIDO - PREVISÃO EXPRESSA NA CONVENÇÃO :  .VERBA QUE" NÃO SE CONFUNDE COM OS HONORÁRIOS SUÇUMBENCIAIS - ATUALIZAÇÃO MONETÁRIA DA DÍVIDA - METODOLOGIA PRETENDIDA PELO ESTADO SEM RESPALDO NA CONVENÇÃO - MODIFICAÇÃO PARCIAL DA SENTENÇA QUE SERIA PREJUDICIAL À FAZENDA PÚBLICA - HONORÁRIOS SUCUMBENCIAIS - REDUÇÃO INJUSTIFICÁVEL - MANUTENÇÃO DO VALOR FIXADO.
+Evidenciado que o autor não incluiu, no cálculo da dívida, as despesas condominiais havidas com a manutenção de elevadores, assim respeitando a previsão da convenção que veda a sua cobrança das lojas situadas no pavimento térreo - como o são as unidades de domínio do Estado , não há razão ao pedido recursal do Estado pela exclusão da respectiva rubrica do valor da condenação.
+Incontroverso que a convenção prevê a obrigação do condômino de pagar os honorários advocatícios devidos ao profissional contratado pelo condomínio para a cobrança de taxas em atraso, também não há sentido ao inconformismo do apelante, nesse particular. Honorários sucumbenciais que não se confundem com honorários contratuais.
+Não havendo respaldo, nos termos da convenção de condomínio, ao pedido do Estado pela incidência exclusiva da taxa SELIC para a atualização monetária da dívida  já incluindo juros e correção monetária -, é de se manter a metodologia aplicada na sentença, sob pena de reformatio in pejus.
+Honorários sucumbenciais fixados em valor comedido, ausente justificativa plausível ao pedido de redução.
+Recurso não provido.
+O recorrente aponta ofensa ao art. 1º-F da Lei n. 9.494/97, sustentando, em síntese, que "porque vigente a norma do artigo 1º-F da lei 9494/97 com redação dada pela Lei 11.960/09, o TJMG ao afastar a sua aplicabilidade acabou por violá-la, impondo-se a reforma do acórdão recorrido" - (fl. 200).
+Contrarrazões às fls. 87/91.
+É o relatório.
+Com efeito, trata-se de apelo que discute a forma de cálculo dos juros de mora e da correção monetária, nas condenações impostas à Fazenda Pública, matéria de direito público cuja competência para processamento e julgamento é da Turmas que compõem a Segunda Seção do STJ, na forma do art. 9º, XIV, do Regimento Interno desta Corte.
+Diante do exposto, determino a redistribuição deste feito a um dos eminentes Ministros que compõem a eg. Primeira Seção.
+Publique-se.
