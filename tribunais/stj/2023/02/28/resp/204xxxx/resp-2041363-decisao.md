@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BRADESCO SA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+RECURSO DE AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. POUPANÇA. 1989. AÇÃO CIVIL PÚBLICA. TRANSITADA EM JULGADO. JURISPRUDÊNCIA DO STF, STJ E DESTE EGRÉGIO TRIBUNAL. EXECUÇÃO POR MEROS CÁLCULOS ARITMÉTICOS. POSSIBILIDADE. DESNECESSIDADE DE PERÍCIA. RECURSO PROVIDO.
+I - É assente na jurisprudência desta Corte, dos Tribunais Pátrios e dos Tribunais Superiores de ser desnecessária a realização de perícia contábil em ações de cumprimento de sentença de valores correspondentes aos expurgos inflacionários das cadernetas de poupança.
+II - Viabilidade de realização da liquidação por meros cálculos aritméticos em execuções individuais de títulos judiciais oriundos de ações coletivas que reconheceram o direito à percepção dos expurgos inflacionários aos possuidores de conta de poupança referentes ao Plano Verão.
+III - Verifica-se que o agravante busca apenas a definição do valor da obrigação, sendo possível a individualização do crédito e a definição dos valores devidos com a utilização de cálculos aritméticos.
+IV - Recurso provido (fl. 188)
+Opostos embargos de declaração, restaram rejeitados.
+O recorrente aponta ofensa aos arts. 509, I, e 524, §2º, do CPC, alegando, em síntese, necessidade da prévia fase de liquidação de sentença.
+Contrarrazões às fls. 400/408.
+É o relatório. Decido.
+A Segunda Seção desta Corte, no julgamento do EREsp 1.705.018/DF, firmou o entendimento de que é necessária a fase de liquidação da sentença genérica oriunda de ação civil pública que condena a instituição bancária ao pagamento de expurgos inflacionários em caderneta de poupança, a fim de determinar o sujeito ativo da relação de direito material e o valor da prestação mediante a garantia da ampla defesa e do contraditório pleno à parte executada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. PRÉVIA LIQUIDAÇÃO DA SENTENÇA. NECESSIDADE. PRECEDENTE DA SEGUNDA SEÇÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Segunda Seção do STJ pacificou o entendimento jurisprudencial de que "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado" (EREsp 1.705.018/DF, Rel. p/ acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 09/12/2020, REPDJe 05/04/2021, DJe de 10/02/2021).
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.722.676/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 30.6.2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. DIFERENÇAS DE CORREÇÃO MONETÁRIA. CÉDULAS DE CRÉDITO RURAL. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. PRECEDENTES DESTA CORTE. DECISÃO MANTIDA.
+1. Conforme a jurisprudência do STJ, "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado" (EREsp n. 1.705.018/DF, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/12/2020, DJe 10/2/2021).
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.991.944/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5.12.2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. 1. PRÉVIA LIQUIDAÇÃO DA SENTENÇA COLETIVA. NECESSIDADE. PRECEDENTE DA SEGUNDA SEÇÃO DESTA CORTE SUPERIOR. 2. MULTA. NÃO CABIMENTO. 3. AGRAVO INTERNO DESPROVIDO.
+1.A Segunda Seção desta Corte Superior firmou entendimento de que o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum (EREsp n. 1.705.018/DF, Rel. p/ acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/12/2020, REPDJe 5/4/2021, DJe de 10/2/2021).
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Agravo interno desprovido (AgInt no REsp n. 1.958.296/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 23.2.2022.)
+Ante o exposto, dou provimento ao recurso especial para determinar a prévia liquidação do título exequendo.
+Publique-se.
