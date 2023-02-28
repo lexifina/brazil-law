@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de conflito negativo de competência, suscitado pelo d. Juízo de Direito da 6ª Vara Cível de Osasco/SP e do d. Juízo da 4ª Vara do Trabalho de Osasco/SP.
+O incidente foi estabelecido nos autos de reclamação trabalhista movida por motorista em face de FT LOG TRANSPORTES E LOGISTICA EIRELLI, ETIKA LOGISTICA E TRANSPORTES LTDA e CARREFOUR COMÉRCIO E INDÚSTRIA LTDA.
+A ação foi proposta, inicialmente, perante o d. Juízo da 4ª Vara do Trabalho de Osasco-SP, que declinou de sua competência, sob o fundamento de que o STF decidiu na Reclamação nº 46.356/DF que a justiça do trabalho é incompetente para apreciar a existência de vínculo empregatício de transportador autônomo de carga (nas fls. 668/669).
+Remetidos os autos à justiça comum o d. Juízo de Direito da 6ª Vara Cível de Osasco-SP, a quem o feito foi redistribuído, também se declarou incompetente e suscitou o presente conflito de competência, alegando que, no caso, "não se verificam preenchidos os requisitos necessários para o enquadramento da ação na Lei nº 11.442/2007, já que o autor e as contestantes não demonstraram a inscrição do requerente no Registro Nacional de Transportadores Rodoviários de Cargas - RNTR-C da Agência Nacional de Transportes Terrestres - ANTT, nos termos do artigo 2º e não foi apresentado o contrato celebrado nos termos do artigo 4º da Lei em referência" (na fl. 729).
+O Ministério Público Federal opina pela competência da Justiça do Trabalho.
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+No especifico caso dos autos o eg. Supremo Tribunal Federal, no julgamento da ADC 48 e ADI 3961, declarou a constitucionalidade da Lei nº 11.442/2007 e a previsão do art.
+5º, parágrafo único, que estabelece a competência da Justiça Comum para apreciar as questões decorrentes da assinalada Lei que dispõe sobre o transporte rodoviário de cargas por conta de terceiros e mediante remuneração.
+Nessa esteira, a jurisprudência do Superior Tribunal de Justiça tem preconizado que a discussão a respeito da presença ou não dos requisitos legais para configuração da contratação prevista na Lei nº 11.442/2007, deve iniciar-se na Justiça Comum e que somente quando constatada a ausência dos pressupostos legais é que a competência passa a ser da Justiça do Trabalho. A propósito, confiram-se ilustrado precedente desta eg. Segunda Seção:
+AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA.
+JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. LEI 11.442/2007. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE Nº 48/DF. CONSTITUCIONALIDADE DECLARADA PELO STF. DEMANDA DEVE SER INICIALMENTE AFORADA NA JUSTIÇA COMUM.
+VERIFICAÇÃO DE REQUISITOS DA CONTRATAÇÃO. AFASTAMENTO PELO JUÍZO ESTADUAL. PEDIDO DE RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. REMESSA À JUSTIÇA DO TRABALHO.
+PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DO JUÍZO LABORAL. SUCEDÃNEO RECURSAL. IMPOSSIBILIDADE.
+AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, a controvérsia cinge-se em determinar o Juízo competente para analisar demanda em que a parte interessada requer o reconhecimento de vínculo trabalhista, em que pese a celebração de contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração, o qual é regido Lei nº 11.442/2007.
+2. O Supremo Tribunal Federal - STF, no âmbito da ADC nº 48/DF reconheceu a constitucionalidade da Lei nº 11.442/2007 que prevê o transporte rodoviário de cargas por conta de terceiros e mediante remuneração.
+3. O STF vem decidindo que a discussão sobre a presença dos pressupostos e requisitos legais inerentes à contratação sob a égide da Lei nº 11.442/2007 deve iniciar-se na Justiça Comum e constatado que não foram preenchidos os requisitos dispostos na lei supracitada, a competência passaria a ser da Justiça do Trabalho.
+4. No caso sob análise, a demanda foi inicialmente proposta no Juízo laboral que declinou de sua competência, remetendo o feito à Justiça estadual que reconheceu não estarem presentes os requisitos caracterizadores do contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração regido Lei nº 11.442/2007.
+5. Ademais, se a parte agravante não concorda com os fundamentos exarados pelo Juízo estadual, que afastou a incidência da Lei nº 11.442/2007, deveria se valer dos recursos pertinentes para a reforma do julgado, ao passo que o presente conflito de competência não pode ser utilizado como sucedâneo recursal sob pena de supressão de instâncias, conforme o pacífico entendimento desta Corte Superior.
+6. Agravo interno não provido.
+(AgInt no CC n. 180.647/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/11/2021, DJe de 7/12/2021.)
+Vejam-se, também as seguintes decisões monocráticas, a título de exemplo: CC 186.473/SP (Min. Moura Ribeiro, DJe de 30/06/2022), CC 188.248/SP (Min. Marco Buzzi, DJe de 20/06/2022), CC 186.193/SP (Min. Nancy Andrighi, DJe de 03/05/2022), CC 191740 (Ministro Paulo de Tarso Sanseverino) DJe de 08/02/2023, CC 193274 (Ministro João Otávio de Noronha) DJe de 15/12/2022.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 6ª Vara Cível de Osasco/SP.
+Publique-se.
