@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por ÉRICO ASSUNÇÃO CODAMA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - LITISCONSÓRCIO PASSIVO NECESSÁRIO - INOCORRÊNCIA.
+- O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes (CPC, art. 114)." (fl. 547)
+Nas razões do recurso especial, o agravante aponta violação dos arts. 73, § 1º, I e IV, 114, 115, I, do Código de Processo Civil de 2015, sustentando, em síntese, que "tratando-se de processo executivo, com natureza de ação pessoal, onde é imprescindível a presença dos contratantes como partes, caberia o acolhimento da preliminar arguida, para julgar seja extinta a execução em apenso aos Embargos a Execução, por ausência de litisconsórcio necessário" (fl. 566).
+É o relatório. Decido.
+O eg. Tribunal a quo não acolheu a preliminar arguida pelo ora recorrente para que seja extinta a execução por ausência de litisconsórcio necessário com base na seguinte fundamentação:
+"A pretensão recursal do executado/agravante não procede, pois, de acordo com o Código de Processo Civil, o litisconsórcio será necessário por disposição de lei ou se, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes:
+Art. 114 - O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.
+Ora, no caso, nenhuma das possibilidades da presença do litisconsórcio necessário se faz presente. Com efeito, existe uma execução movida contra o agravante, e nessa execução não existe codevedor. O fato de ser uma execução fundada em dívida com garantia hipotecária, em que existe anuência da cônjuge quanto a essa obrigação, não é fundamento para que haja um litisconsórcio passivo necessário:
+(..)
+Além disso, verifica-se que a esposa do agravante já está defendendo seus interesses pelo meio processual adequado, considerando que ela apresentou embargos de terceiro que está conexo aos presentes autos e nele há recurso pendente de julgamento (nº 1.0000.21.155283-1/001) onde Érika Rodrigues Codama busca reverter a penhora ocorrida na execução de origem.
+Com tais razões de decidir, nego provimento ao recurso." (fls. 549-550, g.n.).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, qual seja, que a esposa do ora agravante já está defendendo seus interesses pelo meio processual adequado apresentando embargos de terceiro, não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
