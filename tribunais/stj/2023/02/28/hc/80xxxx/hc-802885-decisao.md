@@ -1,0 +1,10 @@
+DECISÃO
+SIDNEI ROGERIO RUFFO alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 2024002-97.2023.8.26.0000, em que pleiteava o reconhecimento de excesso de prazo para a apreciação do pedido de progressão de regime.
+Asseriu a defesa, perante a Corte de origem, que "o constrangimento ilegal do qual está a padecer advém da inércia da autoridade coatora. Aponta que o reeducando encontra-se cumprindo pena no regime semiaberto desde 19/10/2021 e que em 10/11/2022 cumpriu o tempo necessário para progressão ao regime aberto. Desse modo, houve pedido de progressão de regime, em caráter de urgência, todavia, até o presente momento, não houve análise pelo juízo a quo" (fl. 13).
+Primeiramente, destaca-se que a matéria aventada neste habeas corpus não foi objeto de análise pelo Tribunal a quo, o que impediria sua análise, sob pena de indevida supressão de instância.
+Nesse contexto, cumpre esclarecer os termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, segundo a qual "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é flagrante de modo a não escapar à pronta percepção do julgador, o que não ocorre nos autos.
+Com efeito, o Desembargador relator indeferiu o pleito liminar, porquanto, o paciente "atingiu o lapso temporal para a progressão ao regime aberto em 10/11/2022, contudo, o pedido foi protocolado apenas em 30/01/2023. Desse modo, em urna análise superficial não se verifica o alegado excesso de prazo" (fl. 14).
+Dessa forma, não vislumbro a possibilidade de infirmar os elementos trazidos pelo Juízo singular, especialmente em momento tão precoce, dado o não julgamento do mérito do writ originário.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
