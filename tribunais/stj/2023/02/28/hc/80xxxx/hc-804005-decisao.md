@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Thiago de Oliveira Meira - condenado como incurso no crime de tráfico interestadual de drogas - contra ato coator do Tribunal de Justiça do Espírito Santo (Revisão Criminal n. 5006502-02.2022.8.08.0000), não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da reprimenda imposta ao paciente, aos argumentos de ilegalidade na exasperação da pena-base e dissonância com a jurisprudência a respeito da não aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006. O acórdão da apelação data de 23/9/2015. A defesa ajuizou revisão criminal na colenda Corte de origem, que não conheceu do pedido.
+Contra o acórdão da revisão criminal é cabível recurso especial, tendo a via eleita sido triplamente utilizada de forma indevida, em substituição ao recurso adequado, pretendendo a revisão da dosimetria da pena imposta pelas instâncias ordinárias (segunda apelação) e como forma de reiteração do Habeas Corpus n. 721.469/ES.
+Vale ressaltar que não existe teratologia a evidenciar o excepcional processamento da impetração, pois além de o aumento da pena-base encontrar-se consubstanciado na quantidade de droga apreendida (18,5Kg de maconha), devendo ser respeitada a discricionariedade regrada do julgador, dos autos não consta apenas o tráfico entre Estados da Federação como circunstância utilizada para afastar a minorante, mas o fato de que o transporte da droga se destinava a adimplir dívidas com traficantes e agiotas em outro Estado (fl. 36), a denotar a dedicação à atividade criminosa.
+Ademais, o habeas corpus não é a via adequada para modificar a conclusão das instâncias ordinárias a respeito da apreciação da prova produzida, sendo inviável a utilização da via eleita como uma segunda apelação, devendo ser preservada a convicção do Magistrado, mais próximo dos fatos e da ação penal (Princípio da Confiança no Juiz do Processo).
+Em face do exposto, não conheço do writ.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS. WRIT IMPETRADO INDEVIDAMENTE. SUBSTITUIÇÃO DE RESP, PRETENSÃO DE REDIMENSIONAMENTO DA PENA E REITERAÇÃO DO HC N. 721.469/ES. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Habeas corpus não conhecido.
