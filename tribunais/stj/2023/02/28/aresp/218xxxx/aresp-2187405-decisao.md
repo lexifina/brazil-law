@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por AUTOPISTA PLANALTO SUL S.A., contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"POSSESSÓRIA. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. RODOVIA. AUTOPISTA PLANALTO SUL. SENTENÇA EXTRA PETITA. INOCORRÊNCIA. FECHAMENTO DE ACESSO À RODOVIA. ATIVIDADE EMPRESARIAL. ACESSO DE CAMINHÕES AO IMÓVEL DO AUTOR. PECULIARIDADE. HONORÁRIOS. MAJORAÇÃO.
+I. Não se acolhe alegação de sentença extra petita por não ter decidido apenas se o acesso irregular permaneceria aberto ou seria fechado, entendendo-se que o decisum, ao determinar a realização de projeto para regularização do acesso existente, não se mostra incongruente com os limites do pedido e da causa de pedir, tampouco sobressaindo a resolução de pretensão diversa da formulada na inicial.
+II. Ainda que restando caracterizada a ocorrência de abertura de acesso irregular em faixa de domínio sem prévia autorização do Poder Público, não se justifica o fechamento do mesmo, pois evidenciada situação peculiar diante da importância da entrada dos caminhões pela rodovia e por se mostrar necessária uma solução que concilie os interesses da concessionária e os interesses do autor e da população em geral.
+III. Regularização do acesso ou abertura de outro adjacente que atende aos interesses da concessionária, por força contratual, e do autor, em face do direito de propriedade.
+IV. Evidenciada situação peculiar na qual a concessionária poderá estudar medida mais adequada, que entender pertinente, a fim de garantir a fluidez do tráfego e a segurança dos usuários e particulares que vivem no local, estando autorizada a fazer as obras que entender necessárias, às suas expensas, para adequar o acesso à rodovia.
+V. Majorados os honorários advocatícios devidos ao autor" (fl. 826e).
+Nas razões do Recurso Especial (fls. 848/854e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 50, 93 e 95 do Código de Trânsito Brasileiro, sustentando que "todo acesso às margens da Rodovia que não possuir a aprovação da ANTT (Agência Nacional de Transportes Terrestres) e que não cumprir com as determinações e normas técnicas aplicáveis pela ANTT e DNIT serão considerados irregulares, como o caso em testilha, a fim de manter a segurança do trânsito" (fl. 853e).
+Por fim, requer seja acolhido o recurso "para resguardar os ditames da legislação federal e afastar qualquer condenação imposta" (fl. 854e).
+Sem contrarrazões.
+Inadmitido o Recurso Especial (fl. 873/879e), foi interposto o presente Agravo (fls. 892/897e).
+Sem contraminuta.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação de Obrigação de Fazer ajuizada pela parte ora recorrida, objetivando que não seja bloqueado o acesso ao estabelecimento comercial do requerente, às margens da Rodovia BR 116, ao fundamento de que tal medida ensejará inúmeros prejuízos, inclusive ao seu direito de propriedade.
+Julgada parcialmente procedente a demanda, recorreu o réu, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que as teses recursais contidas nos arts. 93 e 95 do CPC/2015 não foram apreciadas pelo Tribunal local.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação das aludidas teses recursais.
+Outrossim, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, adotando os fundamentos de decidir da sentença em relação à regularização da via de acesso ao imóvel de propriedade do autor, consignou que:
+"Em contrapartida, a manutenção do acesso irregular atenta contra a segurança dos usuários da BR116, tanto que ocorridos acidentes graves no local, conforme noticiado pela ré.
+Diante deste panorama, há que se conciliar os interesses da parte autora e demais empresas de um lado, e dos usuários da rodovia de outro.
+Para tal fim, é possível a regularização do acesso existente na BR 116/SC, Km221  200, sentido Norte, segundo descrito pela própria concessionária ré no Cadastro de Acessos carreado ao Mandado de Segurança n. 5003104-12.2019.4.04.7206 (antigo 083.12.001764-7 - ev. 1 - INIC1, p. 121), ou, de acordo com o perito judicial, a abertura de um novo acesso, mediante o aproveitamento de uma "meia rotatória" localizada no sentido sul da BR116,em frente ao Corpo de Bombeiros e Polícia Militar de Correia Pinto (ev. 187)
+ ..
+O que se está a determinar na presente sentença é a realização de intervenção e obras para regularização do acesso, sob pena de se manter inviabilizado, em absoluto, o adequado ingresso e trânsito de veículos grandes no estabelecimento do autor e demais outros em mesma situação no Município de Correia Pinto/SC. Tal medida repousa, eminentemente, na conclusão do laudo pericial que aponta existir alternativa viável para regularização do acesso, bem como em documento da própria Autopista Planalto Sul S/A, já acima mencionado, que indica ser possível a regularização" (fls. 836/837e)
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
