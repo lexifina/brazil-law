@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS em face de decisão de minha lavra, de folhas 1515/1531, que conheceu do agravo para conhecer do recurso especial interposto pelo ora agravado, PEDRO HENRIQUE STREHL CARDOSO ALBIN, e, com fundamento na Súmula n. 568 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, dar-lhe parcial provimento, para reduzir a sua pena.
+No presente agravo regimental (fls. 1591/74/1601), o Parquet Estadual alega que "ao acatar o pleito do recorrido, reformando a pena intermediária do ora agravado, este E. Tribunal reduziu a pena aquém do mínimo legal, negando vigência ao teor da Súmula nº 231 do Superior Tribunal de Justiça." (fl. 1597)
+Aduz que a Terceira Seção desta Corte examinou a questão sob o rito dos recursos repetitivos.
+Afirma que "a fixação da pena-intermediária aquém do mínimo legal em razão do reconhecimento da atenuante da confissão na segunda fase da dosimetria contraria a jurisprudência consolidada desta Corte Superior, no sentido de que a incidência de circunstâncias atenuantes não pode conduzir à redução da pena aquém do mínimo legal." (fl. 1599).
+Requer o provimento do regimental para que seja restabelecida a pena fixada no Tribunal de origem.
+É o relatório.
+O recurso do Parquet estadual merece ser provido.
+É firme o entendimento nesta Corte que a incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo estabelecido em lei, conforme disposto na Súmula n. 231 desta Corte Superior, in verbis: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal."
+Na hipótese dos autos, a pena do ora agravado foi redimensionada, nos seguintes termos:
+"Na primeira fase, mantenho a pena fixada no acórdão em 5 anos e 6 meses de reclusão e 583 dias-multa. Na segunda fase ausente qualquer agravante e presente a atenuante da confissão, reduzo a pena em 1/6, como na sentença, resultando em 4 anos e 7 meses de reclusão e 486 dias-multa. Na terceira fase, acrescento 1/6 pela causa de aumento do art. 40, V, da Lei n. 11.343/2006, ficando em 5 anos, 4 meses e 5 dias de reclusão e 567 dias-multa. Reconhecido o tráfico privilegiado, reduzo a pena em 3/10, como no acórdão, resultando a pena final em 3 anos, 8 meses e 28 dias de reclusão e 397 dias-multa. Mantidos os demais termos do acórdão recorrido."
+Com efeito, nos termos da Súmula n. 231/STJ, fixada a pena-base em 5 anos e 6 meses, na segunda etapa, pela presença da atenuante da confissão, na fração de 1/6, a pena fica no mínimo legal de 5 anos de reclusão, pelo crime de tráfico de drogas.
+Daí, na terceira fase, pela causa de aumento do art. 40, V, da Lei n. 11.343/2006, a pena fica em 5 anos e 10 meses de reclusão e 583 dias-multa. Reconhecido o tráfico privilegiado, reduzo a pena em 3/10, como no acórdão, resultando a pena final em 4 anos e 1 mês de reclusão e 408 dias-multa. Mantidos os demais termos do acórdão recorrido.
+Ant e o exposto, dou provimento ao agravo regimental para fixar a pena de PEDRO HENRIQUE STREHL CARDOSO ALBIN em 4 anos e 1 mês de reclusão e 408 dias-multa.
+Publique-se. Intimem-se.
