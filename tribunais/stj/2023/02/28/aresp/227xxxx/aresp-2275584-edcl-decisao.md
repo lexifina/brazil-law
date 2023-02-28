@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Uro-Renos Clínica Médica Especializada em Urologia Ltda - Microempresa, contra decisão de fls. 799/805, a qual negou provimento ao agravo por si interposto, aos seguintes fundamentos: (I) "não houve ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos" (fl. 801); e (II) "a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, para reconhecer o direito ao recolhimento de ISS no regime diferenciado, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e das cláusulas contratuais, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5/STJ e 7/STJ" (fl. 803).
+A parte embargante aponta omissão no julgado, sustentando, em síntese: "i. Omissão quanto ao fato de se tratar de uma sociedade que, muito embora constituída sob a forma de limitada, possui todas as características de uma sociedade uniprofissional; ii. Omissão quanto à comprovação de que os serviços previstos no contrato social da empresa ora embargante são prestados, exclusivamente, por seus sócios, os quais, por sua vez, respondem pessoalmente pela prestação dos serviços, máxime porquanto o Código de Ética Médica assim estabelece; iii. Omissão quanto ao fato de que a receita auferida pela ora Embargante. e tributada pelo ISS sobre o faturamento, é decorrente exclusivamente das consultas e procedimentos médicos (realizadas por seus sócios);iv. Omissão ao não consignar que se trata de atividade que necessita ser realizada exclusivamente por um dos sócios da empresa. v. Omissão quanto ao novel entendimento desta Corte sobre o tema" (fls. 808/809).
+Ao final, pugna pelo provimento dos aclaratórios, para que sejam sanadas as omissões alegadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+A parte embargante sustenta existir "a omissão quanto à organização societária de fato" (fl. 809).
+Ocorre que o Tribunal de origem concluiu pela "presença do elemento de empresa na atuação da sociedade, considerando-se que a prestação dos serviços se dá com característica mercantil e a presença de organização dos fatores de produção (capital e trabalho) para exploração econômica da atividade médica e de outros serviços, tais como a locação de equipamentos" (fl. 603).
+Assim, não há falar em omissão na decisão embargada, pois é vedado a esta Corte o reexame do contexto fático-probatório. In casu, alterar as conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, para reconhecer o direito ao recolhimento de ISS no regime diferenciado, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e das cláusulas contratuais, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5/STJ e 7/STJ.
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/15.
+1. De acordo com a norma prevista no art. 1022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para correção de erro material presente na decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado decidiu pela aplicação do óbice da Súmula 182/STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AREsp 588.871/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/08/2019, DJe 12/09/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do
+valor corrigido da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 545.285/RS, Rel. Ministro TEORI ALBINO ZAVASCKI,DJ de 1º/8/2006).
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+Publique-se.
