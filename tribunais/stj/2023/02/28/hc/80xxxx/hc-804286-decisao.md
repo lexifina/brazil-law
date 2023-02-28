@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABRICIO DA SILVA BELARMINO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2302654-81.2022.8.26.0000.
+Colhe-se nos autos que o Paciente foi preso no dia 11/08/2022, em virtude de decreto de prisão temporária. Posteriormente, o Juízo de primeiro grau converteu a sua prisão temporária em preventiva e o Ministério Público ofereceu denúncia, imputando-lhe a prática dos crimes previstos nos arts. 2.º, caput, da Lei n. 12.850/2013, e 35 da Lei n. 11.343/2006, na forma do art. 69 do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo sido a ordem denegada.
+Neste writ, a parte Impetrante alega que não houve fundamentação idônea para a decretação da prisão preventiva do Paciente e que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal. Aduz que o Paciente possui condições pessoais favoráveis, sendo suficiente a aplicação de medidas cautelares diversas da prisão. Sustenta, ainda, a desproporcionalidade da custódia com a sanção cabível na hipótese de eventual condenação.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do Paciente, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+É o relatório. Decido.
+No caso, verifico que a Parte Impetrante não juntou aos autos as cópias das peças processuais necessárias à compreensão da controvérsia, notadamente a cópia do decreto de prisão preventiva e do inteiro teor do acórdão impugnado (o acórdão juntado refere-se a outro Réu).
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso). Dessa forma, como a Impetrante não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-con stituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do pedido.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intime m-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
