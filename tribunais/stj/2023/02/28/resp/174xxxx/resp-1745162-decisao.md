@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLADSTON TANNOUS, fundado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PRESTAÇÃODESERVIÇOSINTERMEDIAÇÃOIMOBILIÁRIA COBRANÇA Não recolhimento das custas iniciais Determinado o recolhimento, o Autor permaneceu inerte. Ausência de formação da relação jurídica processual não resulta em isenção do pagamento das custas iniciais. SENTENÇA DEEXTINÇÃO, com fulcro nos artigos 284, parágrafo único, 267, incisos I e IV, e 295, inciso I, todos do antigo Código de Processo Civil. RECURSO DO AUTOR IMPROVIDO. (fl. 284)
+Nas razões recursais, o recorrente aponta ofensa ao art. 257 do CPC/73 e divergência jurisprudencial, sustentando, em síntese, que "revela-se totalmente descabida e contraditória a extinção do feito nos termo do art. 267, I e IV, com a condenação do Recorrente ao pagamento das custas processuais, uma vez que a ação, por ele ajuizada, sequer foi iniciada, não tendo sido prestado o serviço jurisdicional."
+Pugna, ainda, pela concessão de efeito suspensivo ao apelo especial.
+É o relatório.
+Decido.
+Compulsando os autos, verifica-se que a Corte de origem consignou que "a ausência de formação da relação jurídica processual não resulta em isenção do pagamento das custas iniciais, de modo que "se o processo for extinto por falta de recolhimento de custas, mesmo assim essas continuam integralmente devidas." " (fl. 285)
+Todavia, nos casos em que a extinção do processo e o cancelamento da distribuição ocorrem em razão da inércia da parte em promover o recolhimento das custas processuais, é incabível, por ilógica, a sua condenação ao pagamento das custas processuais.
+Com efeito, esta Corte Superior já teve a oportunidade de consignar que a extinção do processo sem resolução do mérito, em virtude do cancelamento da distribuição, por ausência do recolhimento das custas, não implica a condenação do autor ao pagamento dos ônus sucumbenciais.
+Nesse sentido, como efeito da lógica jurídica que exsurge da referida tese, afigura-se evidente que não é possível a cobrança de tais custas.
+A propósito, citam-se os seguintes escólios:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS INICIAIS. CANCELAMENTO DA DISTRIBUIÇÃO. CITAÇÃO. INTIMAÇÃO. IMPOSSIBILIDADE. RESPONSABILIDADE DO AUTOR PELO PAGAMENTO DOS ÔNUS SUCUMBENCIAIS. AUSÊNCIA.
+1- Recurso especial interposto em 14/08/2020 e concluso ao gabinete em 24/11/2020.
+2- O propósito recursal consiste em dizer se: a) nos termos do art. 290 do CPC, o cancelamento da distribuição pelo não recolhimento das custas iniciais exige a prévia citação ou intimação do réu; e b) o cancelamento da distribuição impõe ao autor a obrigação de arcar com os ônus de sucumbência.
+3- O cancelamento da distribuição, a teor do art. 290 do CPC, prescinde da citação ou intimação da parte ré, bastando a constatação da ausência do recolhimento das custas iniciais e da inércia da parte autora, após intimada, em regularizar o preparo.
+4- A extinção do processo sem resolução do mérito com fundamento no art. 290 e no inciso IV do art. 485, ambos do CPC, em virtude do não recolhimento das custas iniciais não implica a condenação do autor ao pagamento dos ônus sucumbenciais, ainda que, por erro, haja sido determinada a oitiva da outra parte.
+5- Recurso especial provido.
+(REsp n. 1.906.378/MG, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 11/5/2021, DJe de 14/5/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INÉRCIA DA PARTE EM PROVIDENCIAR RECOLHIMENTO DAS CUSTAS JUDICIAIS. CANCELAMENTO DA DISTRIBUIÇÃO DO FEITO. POSSIBILIDADE. PRÉVIA INTIMAÇÃO PESSOAL. DESNECESSIDADE. AUSÊNCIA DE CONDENAÇÃO DE HONORÁRIOS SUCUMBENCIAIS E RECURSAIS NA ORIGEM. FIXAÇÃO NO ÂMBITO DO STJ. IMPOSSIBILIDADE. PRECEDENTE.
+1. É possível o cancelamento da distribuição do feito por inércia da parte em providenciar o recolhimento das custas judiciais, sendo desnecessária sua prévia intimação pessoal. Precedentes: AgInt no AREsp 914.193/SE, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/9/2018, DJe 28/9/2018; AgInt no AREsp 956.522/MS, Relator Ministro Og Fernandes, Segunda Turma, julgado em 21/2/2017, DJe 2/3/2017; AgInt no AREsp 1.060.742/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2017, DJe 25/8/2017; AgInt no REsp 1.470.877/MG, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/2/2017, DJe 20/2/2017.
+2. Uma vez que não foi fixado valor de honorários sucumbenciais, tampouco recursais, na origem, e tendo constado expressamente no juízo sentenciante que, "considerando que não houve citação da parte ré, sem honorários", a condenação fixada no decisum agravado deve ser afastada. Precedente: AgInt nos EDcl no AREsp 1.339.596/SP, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/12/2018, DJe 19/12/2018.
+3. Agravo interno parcialmente provido.
+(AgInt nos EDcl no REsp n. 1.834.963/RJ, relator Ministro BENEDITO GONÇASLVES, Primeira Turma, julgado em 11/5/2020, DJe de 13/5/2020)
+Assim, imperiosa a reforma do aresto estadual.
+Por fim, insta ressaltar que, tão somente, em casos extremamente excepcionais e teratológicos e, ainda assim, desde que presentes de forma simultânea os pressupostos do fumus boni juris - composto na possibilidade de êxito do recurso - e do periculum in mora, seria viável a concessão de efeito suspensivo ao recurso especial, tratada como tutela de urgência, consoante o art. 300 do CPC/2015.
+Contudo, na hipótese, o insurgente não teceu qualquer consideração a respeito da presença dos aludidos requisitos, cingindo-se a requerer de forma genérica a concessão de efeito suspensivo ao apelo especial.
+Desse modo, indefiro o pedido de concessão de efeito suspensivo ao recurso especial.
+Diante do exposto, dou parcial provimento ao recurso especial para determinar o afastamento do dever do insurgente em efetuar o pagamento das custas iniciais e recursais na Vara de origem.
+Publique-se.
