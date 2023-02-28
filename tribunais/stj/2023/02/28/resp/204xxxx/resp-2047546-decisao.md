@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MEURILUCY DE MELO SANTANA com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado da Paraíba, assim ementado (e-STJ Fls. 232/233):
+"APELAÇÃO CÍVEL 1. AÇÃO DECLARATÓRIA. PEDIDO DE RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE TARIFAS. PEDIDO DISTINTO DO FORMULADO NO ÂMBITO ACESSÓRIO QUE SEGUE O PRINCIPAL.
+RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE AS TARIFAS CONSIDERADAS ABUSIVAS EM DEMANDA ANTERIOR. PEDIDO JULGADO PROCEDENTE. IRRESIGNAÇÃO. RESTITUIÇÃO NA FORMA SIMPLES.
+VALORES A SEREM RESTITUÍDOS DEVEM SER CORRIGIDOS DESDE O EFETIVO PAGAMENTO. MAJORAR HONORÁRIOS. PROVIMENTO PARCIAL DO RECURSO.
+No caso, por inexistir prova da má-fé do Promovido é devida a devolução dos valores considerados abusivos de modo simples, sob pena de enriquecimento injustificado do credor.
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o disposto no § 8º do artigo 85 do CPC apresenta regra excepcional, de aplicação subsidiária, em que se permite a fixação dos sucumbenciais por equidade, apenas para as hipóteses em honorários que, havendo ou não condenação, o proveito econômico obtido pelo vencedor for inestimável ou ; ou o valor da causa for muito baixo. irrisório Sendo assim, havendo proveito econômico em valor baixo, o emprego do § 8º do artigo 85 do CPC, afigura-se medida correta a ser adotada.
+A correção monetária dos valores a serem restituídos devem ser corrigidos desde o efetivo pagamento.
+. PRELIMINAR COISA JULGADA. REJEIÇÃO.
+A matéria submetida a apreciação não encontra-se atingida pela coisa julgada, uma vez que se restringe a restituição dos juros incidentes nas tarifas declaradas abusivas perante o Juizado Especial Cível, o que não foi objeto da ação anteriormente ajuizada.
+APELAÇÃO CÍVEL 2. AÇÃO DECLARATÓRIA. PEDIDO DE RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE TARIFAS. PEDIDO DISTINTO DO FORMULADO NO ÂMBITO ACESSÓRIO QUE SEGUE O PRINCIPAL.
+RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE AS TARIFAS CONSIDERADAS ABUSIVAS EM DEMANDA ANTERIOR. PEDIDO JULGADO. PROCEDENTE. IRRESIGNAÇÃO. DESPROVIMENTO DO RECURSO Declarada por Sentença a ilegalidade de tarifas bancárias em Ação anterior, com determinação de restituição dos valores pagos, é devida, também, a repetição de indébito em relação aos encargos contratuais que incidiram sobre as aludidas tarifas durante o período contratual."
+Opostos embargos de declaração, foram rejeitados às fls. 270/275.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 337, §§1º, 2º e 4º do CPC/15, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que não deveria ter sido afastada a coisa julgada, pois "tendo como núcleo da insurgência a cobrança de juros remuneratórios sobre tarifas próprias do contrato bancário, uma vez declaradas nulas referidas tarifas e exigida a repetição dos valores pagos em ação pretérita, estão inclusos os referidos juros e os demais consectários" - (fl. 291).
+É o relatório. Decido.
+No tocante à configuração de coisa julgada, a Corte de origem consignou que "a matéria submetida a apreciação não se encontra atingida pela coisa julgada, uma vez que se restringe a restituição dos juros incidentes nas tarifas declaradas abusivas perante o Juizado Especial Cível, o que não foi objeto da ação anteriormente ajuizada" - (fl. 233).
+Segundo a jurisprudência desta Corte, "para o reconhecimento da coisa julgada, faz-se necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido" - (AgInt no AREsp n. 1.858.387/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022).
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se houve o preenchimento dos requisitos para a configuração da coisa julgada demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação.
+Aplicação da Súmula 284 do STF, por analogia.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. No caso, alterar a conclusão do Colegiado estadual e acolher a pretensão recursal quanto à ocorrência de preclusão ou ofensa à coisa julgada demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ. Precedentes.
+4. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+5. Agravo interno desp rovido.
+(AgInt nos EDcl no AREsp n. 1.928.373/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022).
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
