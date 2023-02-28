@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJSP assim ementado (fl. 49):
+Execução fiscal - Em conformidade com o art. 789 do CPC/2015, "O devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei" - No momento, a constrição que concede um vislumbre da satisfação do débito, situação adequada ao disposto no art. 805, parágrafo único, do CPC/2015 - A fim de ser evitada uma arrematação por preço vil e observado o valor da dívida, torna-se imperioso o acolhimento do pleito da agravante, restando consignado que a nova avaliação ocorrerá às expensas desta, já que por ela requerida - Recurso provido.
+A recorrente alega violação do art. 47 da Lei 11.101/2005, sob os seguintes argumentos: a) como bem decidiu a decisão agravada na origem, com amparo em consolidada jurisprudência, notadamente desse próprio STJ, os atos de constrição no executivo fiscal originário devem se submeter ao juízo universal da recuperação judicial; b) o acórdão hostilizado, ao dar provimento ao agravo da Fazenda e determinar a avaliação e reavaliação para praceamento do bem penhorado nos autos, infringiu de forma frontal o disposto no artigo indicado; c) o princípio nuclear da recuperação judicial é o de que a empresa, nessa condição, possa dar prosseguimento a suas atividades, de modo a preservar sua atividade econômica e os empregos por ela gerados, nos termos do referido dispositivo de lei federal; d) a empresa em recuperação judicial, como é o caso da Recorrente, não pode ter seus bens constritos em ações paralelas a sua recuperação, sob pena de inviabilizar o cumprimento de seu plano, plano este aprovado pela assembleia de credores e homologado pelo juiz competente.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 89-90.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que no que diz respeito ao art. 47 da Lei 11.101/2005 (e à tese a ele vinculada), não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 47 DA LEI 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
