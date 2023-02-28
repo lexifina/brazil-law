@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOAO SANTANA MARTINS DA SILVA e outro, com fundamento no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça de São Paulo, assim ementado:
+"Agravo de Instrumento. Cumprimento de sentença. Incidente de desconsideração de personalidade jurídica indeferido. Descabida a desconsideração da personalidade jurídica de uma empresa que se encontra em recuperação judicial, por ser medida incompatível com tal instituto. Transitada em julgado a decisão que remeteu a execução aos autos da recuperação judicial. Decisão mantida. Recurso a que se nega provimento."
+(e-STJ fl. 225)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, os recorrentes alegam violação dos arts. 4º, 8º, 134 e 1.022 do Código de Processo Civil e 49 da Lei 11.101/05. Além de sustentar a inadequação da tutela jurisdicional entregue, afirmam que o incidente de desconsideração da personalidade jurídica pode ser alegado em qualquer fase do processo. Asseveram que o pedido tem por motivo a conversão do processo de recuperação judicial em falência, ocasião em que se resguarda ao credor todas as garantias originais do crédito.
+Contrarrazões apresentadas às fls. 407/432.
+É o relatório. Decido.
+Inicialmente, não se verifica a alegada ofensa ao art. 1.022 do CPC, na medida em que todas as questões devolvidas em recurso de apelação foram enfrentadas pelo acórdão recorrido, o qual declinou, de forma expressa e coerente, os fundamentos utilizados como razão de decidir.
+Com efeito, o Tribunal local indeferiu o pedido de desconsideração da personalidade porquanto o processo individual teria sido extinto e o crédito inscrito no quadro geral de credores na recuperação judicial.
+É o que se extrai do seguinte trecho do acórdão recorrido:
+"A decisão já transitada em julgado que extinguiu o processo em razão da recuperação judicia das agravadas afasta qualquer pedido de desconsideração da personalidade jurídica a ele concernente.
+ ..
+Só justifica a desconsideração da personalidade jurídica, ainda que aquela prevista no art. 28 do CDC, no caso de falência ou insolvência quando provada a má gestão "em detrimento do consumidor", ou seja, sempre que abusos sejam praticados atendo a pessoa jurídica como escudo, circunstância não caracterizada a contento. Assim, qualquer interesse em receber os valores devidos deverá ser perseguido nos autos da recuperação judicial."
+(e-STJ fls. 226-227)
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005. Assim, afasta-se a alegação de violação do art. 1.022 do CPC.
+Afastada a alegação de nulidade do acórdão recorrido, verifica-se que o acórdão recorrido não emitiu nenhum juízo de valor acerca do conteúdo normativo dos arts. 4º e 8º do Código de Processo Civil e 49 da Lei 11.101/05. Desse modo, o recurso especia não pode ser conhecido quanto ao ponto, em virtude da incidência do óbice da Súmula 211/STJ.
+De outra banda, a alegação de que houve ofensa ao art. 134 do CPC não foi demonstrada, nem mesmo em tese, pelos argumentos deduzidos nas razões recursais. Isso porque o referido dispositivo legal autoriza a instauração do incidente em qualquer fase processual. No entanto, no caso dos autos, já não há sequer fase processual, uma vez que o processo individual foi extinto com trânsito em julgado, de forma que não há nos autos nenhum argumento que indique a inobservância do referido dispositivo legal indicado. Incide, nesse ponto, o óbice da Súmula 284/STF.
+Ademais, como bem ressaltado pelo acórdão recorrido, de fato, qualquer meio processual ainda admissível para as partes deverá ser manejado nos autos da recuperação judicial, agora convertida em falência, porquanto trata-se do único processo existente no momento.
+Com esses fundamentos, nos termos do art. 255, § 4º , I do RISTJ, não conheço do recurso especial.
+Publique-se.
