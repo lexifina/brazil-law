@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de MARIA BEATRIZ MOURÃO BRASIL LEAL RODRIGUES e OUTRO contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Rondônia, assim ementado:
+"Processo civil. Apelação. Atraso na entrega de obras. Cerceamento de defesa. Prova testemunhal. Inutilidade. Afastamento. Existência de prova de fato impeditivo, extintivo ou modificativo do direito afirmado pelo autor. Improcedência do pedido autoral. Recurso não provido.
+Fica afastada a alegação de nulidade por cerceamento de defesa, quando a prova testemunhal pretendida não tem a envergadura necessária a demonstrar os fatos afirmados na inicial, os quais reclamam prova eminentemente documental, suficientemente anexada aos autos.
+Tendo o réu produzido prova de que a obra foi entregue dentro do prazo assinalado contratualmente pelas partes, a improcedência do pedido autoral de aplicação de multa moratória e indenização por dano moral impõe-se.
+Recurso não provido." (e-STJ fl. 554/555)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 585/589)
+Nas razões do recurso especial, os agravantes alegam violação dos arts. 5º, LV e 93, IX, da CF, arts. 3º, 7º, 442 e 355, I e IV, 369, 489, §1º, 1.022 e 1.023 do CPC e no mérito, os arts. 1º, 2º, 6º, IV e V, 20,30, 47, 51, I, IV e §1º, II e 54 do CDC, 186, 397,408, 927 e 944, todos do Código Civil e arts. 1º, 2º 6º, IV e V, 47, 51, I, IV e §1º, II e 54 do CDC, bem como a ocorrência de dissídio jurisprudencial, sustentando, que:1) houve negativa de prestação jurisdicional; 2) houve cerceamento de defesa pelo julgamento antecipado da lide; 3) houve atraso na entrega do imóvel, o que gera a inversão da multa contratual e o dever de de indenizar.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Melhor sorte assiste aos recorrentes quanto à alegação de cerceamento de defesa.
+Ao analisar o tema, a Corte de origem assim concluiu:
+"Fica afastada, desde logo, a preliminar de nulidade por cerceamento de defesa, considerando que a prova testemunhal, na hipótese, não tem a envergadura necessária a demonstrar os fatos afirmados na inicial, os quais reclamam prova eminentemente documental, suficientemente anexada aos autos.
+A apelante não demonstrou, de forma clara e objetiva, quais informações as testemunhas poderiam trazer aos autos, para além das que já foram delineadas pelas partes, com força suficiente para influir no convencimento do magistrado, em rumo diverso do julgamento." (e-STJ fl. 549/550)
+Como visto, a Corte de origem concluiu pela desnecessidade da prova testemunhal, por entender tal prova - expressamente pleiteada pela parte - não seria capaz de influenciar o convencimento do julgador.
+Contudo, posteriormente, ao julgar os embargos de declaração interpostos pelos ora recorrentes, a Corte de origem consignou:
+"O termo de conclusão da obra emitido pela Prefeitura Municipal, em 27.12.2013, foi acatado como prova da execução de 100% das obras de urbanização do loteamento e da possibilidade de construção das casas nos respectivos lotes. Se, apesar daquele termo, ainda subsistia impedimento para a construção, competia à parte embargante demonstrar tal alegação no curso da instrução processual, ônus do qual não se desincumbiu." (e-STJ fl. 587)
+Assim, ao negar a produção de prova testemunhal e, ao mesmo tempo, rejeitar as alegações da recorrente de que a obra não foi efetivamente entregue com liberação para construção, sob o argumento de que nada há nos autos que a comprove, a Corte de origem acabou por cercear o direito do autor de produzir a prova do seu direito.
+Nestes sentido:
+RECURSOS ESPECIAIS. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADMINISTRAÇÃO E GESTÃO DE FUNDO DE INVESTIMENTO. MAXIDESVALORIZAÇÃO DO REAL. MUDANÇA DA POLÍTICA CAMBIAL. MÁ GESTÃO DO FUNDO. REQUERIMENTO DE PRODUÇÃO PROBATÓRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA.
+1. Ação de indenização por danos materiais e morais em que se alega que as expressivas perdas decorreram de má gestão dos fundos de investimentos derivativos vinculados ao dólar, além de omissão de informações aos investidores dos riscos assumidos.
+2. Requerimento dos réus para produção de prova oral e pericial, bem como expedição de ofício ao Banco Central, para comprovação de suas alegações acerca da ciência dos investidores a respeito dos riscos assumidos e dos lucros que obtiveram nos meses anteriores, precisamente em decorrência do tipo de aplicação de risco, e para a demonstração da composição da carteira de investimentos e o enquadramento dos ativos.
+3. Esta Corte já firmou posicionamento no sentido de que configura cerceamento de defesa a decisão que, a despeito de pedido de produção probatória, julga de forma antecipada o pedido improcedente com fundamento na ausência de provas.
+4. Acolhimento da preliminar de cerceamento de defesa, para anular a sentença e determinar o retorno dos autos à origem a fim de que sejam produzidas as provas requeridas pelos réus.
+5. Recursos especiais parcialmente providos.
+(REsp 1119445/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/09/2019, DJe 25/11/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DE REVISÃO DE CONTRATO IMOBILIÁRIO. PROCESSUAL CIVIL. PRODUÇÃO DE PROVAS NECESSÁRIAS PARA O EXAME DA CONTROVÉRSIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PROVIMENTO DO RECURSO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Há cerceamento de defesa quando o juiz indefere a realização de prova oral e pericial, requeridas oportuna e justificadamente pela parte autora, com o fito de comprovar suas alegações, e o pedido é julgado improcedente por falta de provas. Precedentes.
+2. Agravo interno provido para, reconsiderando a decisão agravada, dar provimento ao recurso especial.
+(AgInt no REsp 1763342/RN, de minha Relatoria, QUARTA TURMA, julgado em 30/05/2019, DJe 21/06/2019)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para determinando o retorno dos autos à instância de origem, a fim de viabilizar a instrução processual e a realização das provas requeridas.
+Ficam prejudicadas as demais questões trazidas no recurso especial.
+Publique-se.
