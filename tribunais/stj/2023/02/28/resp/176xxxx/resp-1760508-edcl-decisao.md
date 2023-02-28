@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IRENE DA SILVA ARAÚJO, nos quais alega "restou omisso o acórdão quanto ao fato novo,a superveniência da legislação permissiva para ocupação pela Deliberação Normativa CECA nº 26 de 17 de Dezembro de 2019 (legislação local)  ..  E ainda se faz necessário manifestação expressa quanto o Tema 1.010 do STJ que afetou a matéria com repercussão geral atribuindo efeito suspensivo a todos os processos que tratam do assunto, e é exatamente a similitude fática que atrai inclusive razões para conceder efeito suspensivo aos processos, uma vez que a decretação da ilegalidade da ocupação se deu em razão de presunção de dano por estar a ocupação em APP inferior à 100 metros o que foi relativizada para 15 metros pelo tema 1.010 do STJ metragem esta que o autor possui de sobra em sua propriedade".
+Sem impugnação pela parte embargada.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+De fato, como consta, expressamente, na decisão embargada: "à luz de pacífico entendimento jurisprudencial deste Tribunal, a concessão de licença ambiental pelo instituto ambiental estadual, em contrariedade às normas gerais editadas pela União, e o só transcurso do tempo não têm aptidão para legalizar as edificações construídas em áreas de proteção ambiental  ..  em razão de a situação retratada nos autos ser semelhante àquelas discutidas nos precedentes acima citados, a mesma solução se impõe, de tal sorte que o recurso especial do Parquet deve ser provido para cassar o acórdão recorrido e restabelecer a sentença de primeiro grau".
+De outro lado, a situação retratada na sentença e no acórdão revela ser inaplicável ao caso a tese firmada pela Primeira Seção, no REsp 1.770.760/SC.
+Ante exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
