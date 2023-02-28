@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ LUIZ DA SILVA em desafio à decisão que inadmitiu recurso especial, este manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 129):
+"REPARAÇÃO DE DANOS MORAIS. Inscrição do nome do autor no CCF e nos cadastros de inadimplentes em razão da devolução de cheques por insuficiência de fundos. Dano moral.
+Inocorrência. Apesar da microfilmagem indicar devolução pela alínea 11, os extratos bancários exibidos em defesa, não impugnados de forma específica, demonstram a segunda tentativa de compensação dos títulos, frustrada por insuficiência de fundos. Débitos incontroversos. Devedor que teve ciência da devolução dos cheques por meio de extratos bancários. Sentença mantida.
+Recurso não provido."
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões, o recorrente aponta violação dos arts. 373, II, 489, § 1º, IV, e 1.022, do CPC/2015; 6º, VIII, 7º, parágrafo único, 14, 39, VII, 42, caput, 43, §§ 1º e 5º, e 73, da Lei 8.078/1990; e 186, 187 e 927 do Código Civil.
+Alega, em suma, que houve restrição do nome do recorrente por "títulos que foram devolvidos pela alínea 11, quando a normatização só permite o apontamento pela alínea 12" (e-STJ, fl. 138), que diz respeito à devolução do cheque pela segunda vez, o que caracteriza a ilicitude da conduta do recorrido e, portanto, o dever de indenizar.
+Acentua que "as cópias dos cheques apresentados (artigo 373, II, CPC) não trazem a indicação de devolução pela alínea 12" (e-STJ, fl. 141), argumento essencial que deixou de ser considerado pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, observa-se que o Tribunal de origem se manifestou sobre todas as questões necessárias ao deslinde da controvérsia envolvendo a pretendida responsabilização civil do recorrido pela inclusão do nome do ora recorrente no cadastro de cheques sem fundos, razão pela qual não há falar em violação do art. 1.022 do CPC/2015.
+O acórdão recorrido, no particular, rechaçou o pedido indenizatório, na mesma linha da decisão de primeiro grau, porquanto constatada a inexistência de fundos das cártulas, além de verificado que estas foram devolvidas por duas vezes, e, portanto, que a inclusão no cadastro de cheques sem fundos se mostrou regular, nestes termos (e-STJ, fls. 130-132):
+"Trata-se de ação de reparação de danos morais decorrentes da inscrição do nome do autor, ora Apelante, no Cadastro de Emitentes de Cheques Sem Fundo (CCF) e nos cadastros de inadimplentes dos órgãos de proteção ao crédito por motivo desconhecido, não esclarecido pelo banco Apelado após notificado para tanto.
+A r. sentença julgou improcedente o pedido por entender provada a legitimidade dos apontamentos, dada a devolução de 5 (cinco) cheques emitidos pelo Apelante por insuficiência de fundos, conforme documentos que instruem a peça de defesa, no que deve ser mantida.
+Respeitadas as razões de recurso, o fato de as microfilmagens juntadas pelo Apelado indicarem a devolução dos cheques pela alínea 11 não basta para afastar a legitimidade dos apontamentos aqui discutidos, pois os extratos da conta corrente do Apelante exibidos na parte inferior dos documentos de fls. 48 e 49, não impugnados, demonstram que os títulos foram devolvidos pela segunda vez (alínea 12), o que autoriza a inscrição no CCF.
+Importa registrar que o Apelado não nega a emissão dos cheques, tampouco a insuficiência de saldo em sua conta bancária para compensá-los, tornando tais fatos incontroversos, e, portanto, legítimos os apontamentos.
+Aliás, configuraria venire contra factum proprium a alegação de desconhecimento dos cheques emitidos sem provisão de fundos, cuja consequência natural era mesmo a inclusão no CCF e a inscrição no cadastro de devedores inadimplentes.
+(..)
+Com a devida vênia, a comprovação de devolução por duas vezes de apenas parte dos cheques não basta para caracterizar a ocorrência de danos morais decorrentes da supostamente ilícita inscrição dos demais no CCF, haja vista que o Apelante já estava com o crédito abalado pelos apontamentos legítimos."
+Assim, para que haja a reforma do acórdão recorrido, como pretende o recorrente, a fim de reconhecer que houve o apontamento pela alínea 11, e não pela alínea 12, de modo a entender pela irregularidade no apontamento, seria necessário o reexame do conteúdo fático-probatório dos autos, providência inviável na via do recurso especial, consoante a Súmula 7 do STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO DA DECISÃO RECORRIDA NA VIGÊNCIA DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que a inscrição do nome da recorrente em cadastro de proteção ao crédito foi regular, uma vez que decorreu da dupla apresentação do cheque sem fundos. Alterar essa conclusão demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 850.074/RS, Relator o Ministro Antônio Carlos Ferreira, DJe de 12/4/2016; sem grifo no original)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
