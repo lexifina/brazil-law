@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por JOÃO PEDRO TIEPPO FORTI FERREIRA contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+APELAÇÃO - AÇÃO DE REPARAÇÃO POR DANO EXTRAPATRIMONIAL SENTENÇA DE PROCEDÊNCIA RECURSO - VOO INTERNACIONAL EXTRAVIO TEMPORÁRIO DE BAGAGENS INCIDÊNCIA SUPLETIVA DO CDC NO QUE TANGE AO DANO MORAL - MONTANTE INDENITÁRIO QUE COMPORTA REDUÇÃO - PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE LEVANTAMENTO QUE PODERÁ OCORRER ATINGIDA A MAIORIDADE OU NO CASO DE EVENTUAL SITUAÇÃO DE EMERGÊNCIA - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 318-322.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts. 1.689, inciso II, 1.690, parágrafo único e 1.693, todos do Código Cível e 9º, 10, 492, 493 e 933, todos do Código de Processo Civil do Código de Processo Civil de 2015. Sustenta, em síntese, que, aos pais, enquanto no exercício poder familiar, compete a decisão de melhor gerir o patrimônio do filho, motivo pelo qual deve-se permitir o levantamento dos valores obtidos em ação indenizatório. Subsidiariamente, houve ofensa ao princípio da vedação à decisão surpresa.
+É o relatório. Decido.
+A irresignação merece prosperar.
+A Corte de origem, ao determinar a manutenção dos valores indenizatórios em juízo, até a maioridade do infante, assim se manifestou:
+Dessarte, de rigor a redução da reparação para R$ 3.000,00, com correção da sentença, súmula 362 do STJ, juros de mora da citação, existente relação contratual, sendo o seu levantamento sujeito ao atingimento da maioridade, 18 anos, ou surgimento de eventual situação de emergência, mantida a condenação da requerida ao pagamento das custas, despesas processuais, e verba honorária de R$ 500,00, tendo em mira o trabalho desempenhado, a natureza da causa e sua rápida tramitação.
+Em sede de embargos de declaração, os quais integram o acórdão estadual, a Corte de origem assim se manifestou:
+Em que pese a possibilidade dos genitores administrarem os bens de sua prole, no caso assente, restou indemonstrada a necessidade da liberação antecipada dos recursos, pertencentes ao requerente.
+Nada impede que, uma vez comprovada situação emergencial, defira, o douto Magistrado, o prévio levantamento, conforme art. 1691 do Código Civil.
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que os pais são administradores e usufrutuários dos bens dos filhos menores e, salvo justo motivo, não é cabível a negativa de levantamento de valores devidos aos menores a título de indenização. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. RECEBIMENTO POR MENOR. VALOR. LEVANTAMENTO PELOS PAIS. CABIMENTO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que os pais são administradores e usufrutuários dos bens dos filhos menores e, salvo justo motivo, não é cabível a negativa de levantamento de valores devidos aos menores a título de indenização.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.658.645/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/10/2017, DJe de 24/10/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. As razões do agravo interno merecem acolhida, porquanto não incide o óbice sumular aplicado no presente caso. Reconsiderada a deliberação da Presidência desta Corte para nova apreciação do agravo em recurso especial.
+2. Salvo justo motivo concretamente visualizado, a negativa de levantamento de valores depositados em juízo, a título de indenização securitária devida a beneficiária menor impúbere representada por sua genitora, ofende o disposto no art. 1.689, I e II, do CC/2002, sobretudo quando o objetivo da operação é propiciar a adequada gestão do patrimônio do menor e garantir-lhe condições de alimentação, educação e desenvolvimento, medidas com as quais se efetiva a prioridade absoluta constitucionalmente garantida à criança, ao adolescente e ao jovem (art. 227, caput, da CF/88).
+3. No caso dos autos, não há notícia acerca de eventual conflito de interesses entre a menor e sua genitora, nem mesmo discussão quanto à correção do exercício do poder familiar, daí porque inexiste motivo plausível ou justificado que imponha restrição a mãe, titular do poder familiar, de dispor dos valores recebidos por menor de idade.
+4. Agravo interno provido para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.702.017/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/5/2021, DJe de 4/6/2021.)
+Nesse contexto, ao afastar a possibilidade de levantamento dos valores, sem que houvesse justo motivo, a Corte de origem contrariou a jurisprudência desta Corte, motivo pelo qual o recurso especial comporta provimento.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
