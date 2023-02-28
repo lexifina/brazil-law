@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de extensão requerido por IZAEL HORA DOS SANTOS no qual se pleiteia a extensão dos efeitos do acórdão de fls. 2886-2898, em que a SEXTA TURMA desta Corte Superior concedeu a ordem de habeas corpus, impetrado em favor de ANDRE CARVALHO RIBEIRO, para revogar a prisão preventiva do Paciente, mediante a imposição das medidas cautelares do art. 319, incisos I, IV, V e IX do Código de Processo Penal.
+O Requerente aponta que "teve sua prisão preventiva decretada em 19/09/2019, estando preso há mais de três anos e cinco meses, por ter supostamente infringido o art. 157, § 2º, incisos I, II e V, e art. 288, ambos do Código Penal" (fl. 3064).
+Destaca que "a situação fático-jurídica do Paciente Izael Hora dos Santos é a mesma do Réu André Carvalho Ribeiro, tendo o segundo mencionado o benefício legalmente neste writ com a ordem de liberdade, com o monitoramento eletrônico, sendo que foi denunciado pelos mesmos tipos penais, apontados em uma só seara criminosa, tendo sido preso preventivamente oriundo da mesma decisão, fundamentação coletiva e genérica que atingiu todos os denunciados " (fl. 3067).
+Registra que "no presente caso é gritante o constrangimento sofrido pelo Réu diante do mesmo está preso a mais de 1.200 dias, ou seja a mais de 03 (três) anos e 05 (cinco) meses preso, sem ter terminado a instrução no processo sob nº 201870000096 que tramita na comarca de Itabaianinha/SE" (fl. 3068).
+Requer a extensão dos efeitos do acórdão que concedeu a ordem de habeas corpus e a expedição de alvará de soltura em favor do Requerente.
+É o relatório. Decido.
+De acordo com informações prestadas pelo Tribunal de origem, verifica-se que o Ministério Público estadual requereu aditamento da denúncia em desfavor do Requerente em 27/08/2019, sendo a prisão preventiva decretada apenas em 19/09/2019 (fl. 76), ou seja, em momento posterior à decretação da custódia cautelar do Paciente ANDRE CARVALHO RIBEIRO, que ocorreu em 17/01/2018, sendo denunciado em 28/02/2018.
+Como se sabe, não se encontrando as Partes na mesma situação fático-processual, não cabe, a teor do Princípio da Isonomia e do art. 580 do Código de Processo Penal, deferir pedido de extensão de julgado benéfico obtido por um deles.
+Assim, ausente similitude fático-processual entre o Requerente e o Paciente ANDRE CARVALHO RIBEIRO, não é possível a extensão dos efeitos da decisão de fls. 2886-2898, nos termos do art. 580 do Código de Processo Penal.
+Ante o exposto, INDEFIRO o pedido de extensão.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE EXTENSÃO. HABEAS CORPUS. ROUBO A AGÊNCIAS BANCÁRIAS COM USO DE EXPLOSIVO EM DIVERSOS ESTADOS. ASSOCIAÇÃO CRIMINOSA ARMADA. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. APLICAÇÃO DO ART. 580 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. PEDIDO DE EXTENSÃO INDEFERIDO.
