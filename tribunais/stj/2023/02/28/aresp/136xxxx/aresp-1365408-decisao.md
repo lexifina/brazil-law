@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por MICHEL LABEYRIE, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Ceará, assim ementado:
+APELAÇÃO CÍ VEL. AÇÃO ORDI NÁRI A de RESCI SÃO CONTRATUAL C/ C DANOS MATERI AI S e MORAI S. DECLARAÇÃO DE NULI DADE DO PACTO. REALI ZAÇÃODEPAGAMENTOSDEVALORES EQUI VALENTE EM MOEDA NACI ONAL. POSSI BI LI DADE. REFORMA DA SENTENÇA. MÉRI TO. RESCI SÃO DO CONTRATO. COMPORTAMENTO CONTRADI TÓRI O DA PARTE AUTORA. VENI RE CONTRA FACTUM PROPRI UM. DESCUMPRI MENTO CONTRATUAL DAS PARTES. DANO MATERI AL E MORAL. NÃO CONFI GURAÇÃO. APELAÇÃOCONHECI DA e PARCI ALMENTE PROVI DA. 1 - O pagamento indexado em moeda estrangeira mas com pagamento do equivalente em moeda nacional é válido conforme jurisprudência do Superior Tribunal de Justiça. 2 - Não se admite sustentação jurídica contrária a ato praticado a fim de que seja obtida consequência jurídica especificavmente contra factum proprium . Com base nesse princípio, não se pode aceitar o pleito de rescisão do pacto somente pelo promovido em razão do autor também ter contribuído para a inexecução efetiva do acordo celebrado pelos litigantes.3 - Na espécie, o inadimplemento de ambas as partes na realização do pacto, não provoca o dever de ressarcimento de danos materiais, assim como, não enseja condenação em danos morais.4 - Apelação conhecida e Parcialmente Provida, para decretar a rescisão do contrato. (fl. 477)
+Os embargos declaratórios foram desacolhidos.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 421 e 475 do Código Civil; 285 e 319 do CPC 1973, sustentando, em síntese, que "a contestação e documentos foram apresentados pelo demandado intempestivamente, incorrendo o mesmo em revelia." Dessa forma "tudo que foi aduzido na inicial é legalmente tido por verdadeiro."
+Afirma, ainda, que "diante da revelia do promovido, a Corte Alencarina não poderia reconhecer de ofício comportamento contraditório, quando os fatos articulados na exordial devem ser tidos como verdadeiros, interpretação, esta, de certa forma, contrária a Súmula 381 do Superior Tribunal de Justiça."
+Aduz, por fim, que "o inadimplemento culposo acarreta o dever de indenizar. Por diversas vezes o recorrente tentou se desvencilhar da obrigação contratual, em face do inadimplemento da parte ré, pelo que ajuizou a presente ação, pretendendo receber os valores contratados até a data da rescisão, momento em que, de fato, pode contratar com terceiros o seu conhecimento técnico."
+É o relatório.
+Decido.
+A irresignação não procede.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Além disso, quanto à alegada violação dos arts. 421 e 475 do Código Civil; e 285 do CPC 1973, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foi alvo dos embargos declaratórios opostos, para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ARTS. 46, 52, II, V, 54, § 3º, DO CÓDIGO DE DEFESA DO CONSUMIDOR E 359, I, DO CÓDIGO DE PROCESSO CIVIL DE 1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. LIMITAÇÃO DA TAXA DE JUROS REMUNERATÓRIOS. IMPOSSIBILIDADE. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. CAPITALIZAÇÃO DOS JUROS. JUROS COMPOSTOS. TARIFA DE CADASTRO. TARIFA DE REGISTRO. CABIMENTO. MORA CONFIGURADA.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incide o óbice do enunciado n. 282 da Súmula do STF.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1595931/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CONCLUSÃO ESTADUAL ACERCA DA AUSÊNCIA DE PREJUÍZOS PRATICADOS PELA RECORRIDA E DANOS MORAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 32, caput, da Lei n. 8.906/1994 e 2º e 4º do Estatuto do Idoso não foram objeto de prequestionamento no julgado da segunda instância e os insurgentes não opuseram embargos de declaração objetivando suprir eventual ocorrência de vícios do art. 1.022 do CPC/2015. Aplicação das Súmulas 282 e 356/STF.
+(..) 3. Agravo interno desprovido.
+(AgInt no AREsp 1549709/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020)
+Outrossim, quanto à alegada violação do art. 319 do CPC/73, verifica-se que o conteúdo normativo do dispositivo suscitado no recurso especial não foi apreciado pelo Tribunal de origem, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à recorrente, na hipótese, alegar violação ao art. 535 do Código de Processo Civil de 1973, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído o investimento realizado pelo consumidor, conforme determinava a portaria que regulamentava a relação entabulada entre as partes à época, nada impede que o contratante postule e veja reconhecido seu direito em ver o valor investido devidamente devolvido. Rever esta conclusão esbarraria no
+óbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se
+configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido."
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)
+Por fim, o recurso não merece prosperar pela alínea "c" do permissivo constitucional em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ.
+Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência
+jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas
+colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
