@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por IESA PROJETOS EQUIPAMENTOS E MONTAGENS S.A. com fundamento na alínea " c" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 3.138/3.139):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS SOBRE AS VERBAS PAGAS AOS EMPREGADOS A TÍTULO DE ABONO ASSIDUIDADE, FÉRIAS GOZADAS, SALÁRIO MATERNIDADE, SALÁRIO PATERNIDADE, HORAS EXTRAS, HORAS IN ITINERE, ADICIONAL NOTURNO, ADICIONAL DE PERICULOSIDADE, ADICIONAL DE INSALUBRIDADE, ADICIONAL DE TRANSFERÊNCIA, ADICIONAL DE SOBREAVISO, AUXÍLIO-MORADIA, AUXÍLIO- ALIMENTAÇÃO E GRATIFICAÇÕES. COMPENSAÇÃO.
+I - Sentença que deve ser reduzida aos limites do pedido, anulando- se no tópico referente às contribuições previdenciárias sobre as férias proporcionais e abono pecuniário de férias.
+II - As verbas pagas pelo empregador ao empregado a titulo de abono assiduidade não constituem base de cálculo de contribuições previdenciárias, posto que tais verbas não possuem natureza remuneratória mas indenizatória. Precedentes do STJ e desta Corte.
+III - É devida a contribuição previdenciária sobre as férias gozadas, salário maternidade, salário paternidade, horas extras, horas in itinere, adicional noturno, adicional de periculosidade, adicional de insalubridade, adicional de transferência, adicional de sobreaviso, auxílio-moradia, auxilio-alimentação e gratificações, o entendimento da jurisprudência concluindo pela natureza salarial dessas verbas. Precedentes.
+IV - Direito à compensação com a ressalva estabelecida no art. 26, § único, da Lei nº 11.457/07. Precedentes.
+V - Recurso da União e remessa oficial parcialmente providos.
+Recurso da impetrante desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 3.157/3.159).
+No recurso especial (e-STJ fls. 3.201/3.235), a parte recorrente aponta divergência jurisprudencial do julgado recorrido com a posição do STJ, alegando que deve ser resguardado o seu direito de exclusão das verbas de caráter indenizatórios, quais sejam "Gratificações, Férias, Salário Maternidade, Adicional Noturno, Adicional de Insalubridade, Adicional de Periculosidade, Adicional de Transferência, Adicional de Sobreaviso, Horas In Itinere, Despesas, Horas Extras e Licença Paternidade" (e-STJ fl. 3.235), da base de cálculo da contribuição previdenciária.
+As contrarrazões foram oferecidas (e-STJ fls. 3.286/3.324).
+Decisão que admitiu o recurso especial consta às e-STJ fls. 3.385/3.388.
+Parecer do MPF (e-STJ fls. 3.404/3.407), pelo não conhecimento do recurso.
+Passo a decidir.
+Destaco que o presente recurso tem origem em mandado de segurança visando a exclusão da base de cálculo das contribuições previdenciárias e parafiscais sobre as verbas pagas aos seus funcionários: gratificações, férias, salário maternidade, adicional noturno, adicional de insalubridade, adicional de periculosidade, adicional de transferência, adicional de sobreaviso, horas in itinere, despesas, horas extras e licença paternidade.
+Em primeira instância, fora concedida parcialmente a segurança (e-STJ fls. 2.978/2.985).
+O Tribunal de origem deu "parcial provimento ao recurso da União para reduzir a sentença aos limites do pedido e anular a declaração de inexigibilidade das contribuições previdenciárias sobre as férias proporcionais e abono pecuniário de férias, dou parcial provimento à remessa oficial para determinar a aplicação do art. 26, § único, da Lei nº 11.457/07 para fins de compensação de valores e nego provimento ao recurso da impetrante, nos termos supra" (e-STJ fl. 3.137).
+Pois bem.
+O recurso não comporta conhecimento pela divergência (alínea "c" do permissivo constitucional), pois a recorrente deixou de promover o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não atendendo, po rtanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, preconizados pelo art. 1.029, § 1º, do Código de Processo Civil de 2015 e pelo art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, "A demonstração do dissenso interpretativo suscitado aperfeiçoa-se, tão somente, a partir da comparação analítica entre os julgados apontados como paradigmas e aquele que se pretende ver reformado; sendo imprescindível a similitude fática dos casos confrontados e a indicação do dispositivo legal objeto da interpretação controvertida, o que não se verifica nos autos" (AgInt no AREsp 812.550/MA, r el. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/03/2018, DJe 13/03/2018).
+Sobre a questão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ.  ..  DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICO-JURÍDICA. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+2. Quanto à interposição do recurso especial pela alínea "c" do permissivo constitucional, convém ressaltar que o recorrente deve cumprir o disposto no art. 1029, § 1º, do CPC/2015, e no art. 255, § 1º, do RISTJ. Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+ ..
+4. Recurso especial não conhecido.
+(REsp 1.790.038/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2020, DJe 09/06/2020).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), porquanto o recurso se origina de mandado de segurança.
+Publique-se. Intimem-se.
