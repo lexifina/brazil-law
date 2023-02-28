@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por AGNALDO DE SOUZA CABRAL em desafio a decisão que inadmitiu recurso especial, este manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl.157):
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS - INDÍCIOS DE FRAUDE - INTIMAÇÃO DA PARTE AUTORA PARA CONFIRMAR A OUTORGA DA PROCURAÇÃO E A PROPOSITURA DA AÇÃO - PARTE LOCALIZADA - AUSÊNCIA DE CONFIRMAÇÃO - AUSÊNCIA DOS PRESSUPOSTOS DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO - CONDENAÇÃO DO ADVOGADO AO PAGAMENTO DAS CUSTAS PROCESSUAIS - CABIMENTO.
+- A regularidade da representação processual enquadra-se como pressuposto de constituição e desenvolvimento válido e regular do processo, podendo ser examinada de ofício, a qualquer tempo e grau de jurisdição, não sendo suscetível de preclusão, visto que, sem instrumento de mandato, o advogado não será admitido a procurar em juízo.
+- Se os elementos constantes dos autos indicam que o advogado ajuizou a ação sem o conhecimento da parte autora, é patente a falta de pressuposto para o desenvolvimento válido e regular do processo, devendo o feito ser extinto sem resolução do mérito.
+- Se o advogado ajuizou a ação sem o conhecimento da parte autora e, por conseguinte, sem sua procuração, deve arcar com as custas processuais e os honorários de advogado de sucumbência da parte contrária.
+- Com fundamento no art. 104, § 2º, do CPC/2015, deve ser mantida a condenação do advogado da parte autora ao pagamento dos ônus de sucumbência, quando esta requerente, repita-se, não confirma a outorga do mandado para o ajuizamento da presente ação."
+Em suas razões, a recorrente aponta violação dos arts. 104, 105, 319, 320 e 485, IV, do CPC/15, sustentando, em síntese: a) incorreta a declaração de inépcia da inicial tendo sido "explanada a causa de pedir, formulado o pedido, além de haver nítida decorrência logica entre a narração e a conclusão da peça" (e-STJ, fl. 186); e b) é indevida a condenação do advogado ao pagamento de custas processuais, ao argumento de que ficou demonstrada a autorização para o ingresso com o instrumento de mandato procuração entre a parte e seu patrono.
+É o relatório. Decido.
+In casu, o Tribunal local, amparado nos elementos fático-probatórios constantes dos autos, concluindo ter ficado demonstrada a irregularidade da representação processual da parte autora ante a inexistência do mandato, confirmou a sentença de extinção do feito sem resolução de mérito, bem como a obrigação de o patrono arcar com as custas do processo, conforme as seguintes justificativas:
+"Ocorre que, conforme comprovado nos autos, por certidão do senhor oficial de justiça, a parte autora, intimada pessoalmente a dizer se havia assinado a procuração juntada aos autos pelo advogado Dr.
+Luiz Fernando Cardoso Ramos (OAB/MG 190.862), relatou não a ter assinado e que tampouco conhece o referido causídico.
+A parte autora disse, ainda, não ter interesse no prosseguimento da demanda.
+Ora, ficou claro, muito claro mesmo, como bem disse a MM.
+Juíza sentenciante, cuidar o presente caso de mais uma ação fraudulenta e predatória, na qual o advogado subscritor da inicial não traz sequer o pressuposto de validade do processo que é a representação processual.
+Ressalto, ainda, que esse advogado, como consta da sentença, tem distribuído milhares de feitos na Comarca de Iturama nos últimos meses, nos quais se constatou a multiplicação de demandas repetitivas, até mesmo com a indicação do mesmo endereço, o que levou a douta Magistrada "a quo", de forma muito bem fundamentada, vale notar, a determinar a intimação da parte autora para confirmar a outorga de procuração, diligência que revelou, como visto, que a parte autora não havia assinado a procuração juntada aos autos.
+(..)
+Assim, a regularidade da representação processual enquadra-se como pressuposto de constituição e desenvolvimento válido e regular do processo, podendo ser examinada de ofício, a qualquer tempo e grau de jurisdição, não sendo suscetível de preclusão, visto que, sem instrumento de mandato, o advogado não será admitido a procurar em juízo.
+(..)
+E como o mandato judicial que permitiu o ajuizamento desta ação não emanou de um ato de vontade da parte autora, é inegável a ausência de um dos pressupostos de existência desse ato jurídico.
+Por conseguinte, inexistente o ato jurídico, qual seja, o mandato judicial, também é inexistente a própria inicial desta ação e todos os atos processuais dele emanados.
+(..)
+Da mesma forma, o ato inexistente é inválido, pois não existe juridicamente, ainda que já tenha gerado algum efeito, pois depende da declaração de sua nulidade para que seja excluído do mundo jurídico.
+Noutro passo, não se pode desconsiderar que parte autora sequer tinha ciência desta ação, faltando, dessa forma, até mesmo o interesse processual para o seu ajuizamento, o que, aliás, ela falou expressamente ao responder ao oficial de justiça quando de sua intimação pessoal.
+Em assim sendo, é forçoso reconhecer a falta de pressuposto para o desenvolvimento válido e regular do processo, devendo ser mantida a extinção do feito sem resolução do mérito, nos termos da sentença apelada.
+(..)
+Noutro norte, diante do contexto dos autos, não se pode condenar a parte autora ao pagamento dos ônus de sucumbência já que sequer tem conhecimento da existência desta ação, indevidamente proposta em seu nome.
+Assim, deve ser mantida a condenação do advogado da parte autora ao pagamento das custas processuais, tendo em vista a norma inserta do art.104, § 2º, do CPC/2015, que impõe ao advogado a obrigação de responder pelas despesas e por perdas e danos quando a procuração não foi ratificada pela parte:"(e-STJ, fls. 163/168)
+Assim, para alterar o decidido no acórdão impugnado, no que se refere a regularidade da representação processual da parte autora com base da validade da outorga do mandato, afastando a condenação do advogado da parte, seria necessário o reexame de fatos e provas, vedado em recurso especial pela Súmula nº 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de reparação de danos morais e materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.752.910/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021).
+Em relação a alegada violação dos arts.319 e 320 do NCPC, observa-se das razões recursais que MARIA DO CARMO se limitou a alegar a violação dos referidos artigos, porém, não detalhou e demonstrou, de forma clara, precisa e fundamentada, como e em que medida o acórdão recorrido teria afrontado os dispositivos legais, o que caracteriza a deficiência na fundamentação. Portanto, incide no caso, por analogia, a Súmula nº 284 do STF, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
