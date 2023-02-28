@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por HENRIQUE LEITE MARDER contra decisão de inadmissibilidade do recurso especial, fundamentada na deserção recursal, devido à ausência de regular comprovação da complementação do preparo recursal previamente concedida, ante a juntada apenas do agendamento bancário do pagamento.
+Em suas razões de agravo, a parte agravante alega a comprovação do pagamento da complementação do preparo recursal que lhe foi exigida. Assevera que "analisando-se o comprovante de pagamento aportado aos autos pelo Agravante (mov. 16.2), verifica-se que a data do pagamento da guia de recolhimento do preparo recursal complementar ocorreu no dia 10/10/2022, às 14:53 horas, portanto, dentro do prazo estabelecido pela Vice Presidência do Tribunal de Justiça do Estado do Paraná." Aduz que o "extrato bancário da conta corrente do Agravante também comprova que o pagamento foi efetuado dentro do prazo determinado pela Vice Presidência do TJPR".
+Contraminuta apresentada às fls. 1.099-1.105 (e-STJ).
+É o relatório. Decido.
+Nos termos da jurisprudência desta Corte, sob a vigência do Código de Processo Civil de 2015, o recurso é deserto quando a parte, mesmo após prévia intimação para regularização do preparo, não comprovar o deferimento da gratuidade de justiça, não recolher em dobro ou não complementar o valor devido, conforme o caso.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREPARO. COMPROVAÇÃO. AUSÊNCIA. INTIMAÇÃO. ART. 1.007, § 4º, DO CPC/2015. JUNTADA DE COMPROVANTE ILEGÍVEL. DESERÇÃO. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte é no sentido de que se configura deserção se, após a intimação, nos termos do § 4º do art. 1.007 do Código de Processo Civil de 2015, a parte recorrente não comprovar o pagamento ou não o efetuar em dobro" (AgInt nos EAREsp 719.811/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017).
+2. No caso, apesar de os agravantes terem sido intimados para juntar a comprovação do preparo (guia faltante) e efetuar o recolhimento em dobro (art. 1.007, § 4º, do CPC/2015), anexaram comprovante ilegível, o que obsta o conhecimento do recurso, tendo em vista a impossibilidade de uma segunda intimação para correção do novo defeito.
+3. Agravo interno a que se nega provimento."
+(AgInt nos EREsp n. 1.710.524/SP, Relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 18/5/2021, DJe de 24/5/2021.)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO INCOMPLETO. INTIMAÇÃO. ART. 1.007, § 2º, DO CPC. JUNTADA DE COMPROVANTE ILEGÍVEL. DESERÇÃO. DECISÃO MANTIDA.
+1. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 2º, do CPC, a parte não comprovar ser beneficiária da gratuidade da justiça, ter pago o preparo no momento da interposição ou o recolhimento determinado no prazo assinalado pelo Juízo.
+2. Apesar de intimada, na forma do § 2º do art. 1.007 do CPC, para completar o preparo, a parte anexou comprovante ilegível, o que obsta o conhecimento do recurso, tendo em vista a impossibilidade de uma segunda intimação para correção do novo defeito.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.030.990/PR, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/5/2022, DJe de 26/5/2022.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. NÃO OBSERVÂNCIA DO PRAZO ASSINALADO. APLICAÇÃO DA PENA DE DESERÇÃO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. AGRAVO NÃO PROVIDO.
+1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro.
+3. A apresentação de comprovante de pagamento após a decurso do prazo do art. 1.007, § 4º, do CPC/2015, leva à deserção do recurso. Incidência da Súmula 187 do STJ. Precedentes.
+4. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro no prazo assinalado, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+5. O entendimento do STJ é no sentido de que a ausência da procuração e/ou da cadeia completa dos substabelecimentos impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+6. A parte recorrente, embora devidamente intimada para a regularização da representação processual, não procedeu à juntada tempestiva da procuração e/ou da cadeia completa dos substabelecimentos conferindo poderes ao subscritor do recurso especial.
+7. Agravo interno não provido."
+(AgInt no REsp n. 1.949.693/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, JULGADO EM 25/4/2022, DJE DE 27/ julgado em 25/4/2022, DJe de 27/4/2022.)
+Além disso, a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido.
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREPARO. COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. INSUFICIÊNCIA. AUSÊNCIA DE REGULARIZAÇÃO APÓS INTIMAÇÃO. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Consoante entendimento desta Corte Superior, a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido.
+2. É deserto o recurso especial se, apesar de regularmente intimada para comprovar o tempestivo recolhimento do preparo, a parte não o faz corretamente.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 1.974.156/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/3/2022, DJe de 25/4/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. INTIMAÇÃO. RECOLHIMENTO EM DOBRO. COMPROVANTE. AUSÊNCIA. AGENDAMENTO. PEDIDO DE RECONSIDERAÇÃO. DESERÇÃO. DECISÃO MANTIDA.
+1. O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, não havendo comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sob pena de deserção, conforme disposição do artigo 1.007, caput e § 4º, do Código de Processo Civil de 2015.
+3. Na hipótese, a parte, apesar de intimada para tal, não complementou o preparo no prazo estabelecido, apresentando agendamento e pedido de reconsideração.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.117.270/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2022, DJe de 16/12/2022.)
+No caso dos autos, o Tribunal de origem fundamentou a deserção do recurso especial nos seguintes termos (e-STJ, fl. 1.071):
+"Declaro a deserção do recurso especial, nos termos do § 2º do artigo 1.007 do Código de Processo Civil, visto que a parte recorrente não comprovou a complementação do preparo recursal, no prazo que lhe foi concedido de 5 (cinco) dias, conforme determinado no despacho de mov. 13.1.
+Mediante a análise dos autos, verifica-se que a parte colacionou no mov. 16.2 apenas o comprovante de agendamento bancário, não tendo sido juntado o comprovante do efetivo pagamento da guia de recolhimento ao Tribunal de Justiça do Estado do Paraná, juntada no mov. 16.1.
+Por oportuno, cumpre destacar, que é ônus da parte recorrente a apresentação de prova inequívoca do recolhimento do preparo recursal, visto que se trata de pressuposto de admissibilidade da sua pretensão.
+A jurisprudência do Superior Tribunal de Justiça firmou entendimento segundo o qual "(..) a juntada de comprovante de agendamento não constitui meio apto à comprovação de que o preparo foi efetivamente (AgInt no AREsp n. 1.342.014/MA, relatora Ministra recolhido, levando, portanto, à deserção do recurso" Assusete Magalhães, Segunda Turma, julgado em 13/12/2018, DJe de 19/12/2018.) À vista disso, a deserção do recurso não pode ser afastada, mormente quando, conferida à parte a oportunidade de comprovar a complementação do preparo, não o faz, não cabendo nova possibilidade de regularização."
+Com efeito, a parte agravante não efetuou a regular comprovação do pagamento da complementação do preparo recursal, embora intimada para tanto em despacho que apontou como devido o valor de R$ 59,31 (cinquenta e nove reais e trinta e um centavos) relativamente a custas exigidas no âmbito do Tribunal de origem (e-STJ, fl. 1.061), porque, em 3/10/2022, juntou apenas o comprovante de agendamento efetuado naquela data do futuro pagamento do montante devido em 10/10/2022 (e-STJ, fl. 1.068).
+Por fim, cumpre destacar que, em decorrência da preclusão consumativa operada pela petição antecedente, é inviável o saneamento posterior da comprovação do recolhimento do valor ainda devido, o que nem mesmo foi corretamente efetuado, pois o extrato bancário reproduzido no agravo em recurso especial, ainda que apresente desconto nos mesmos valor e data agendados, não permite a vinculação com a guia de recolhimento.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
