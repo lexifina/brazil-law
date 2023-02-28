@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro, Juízo Local Criminal de Portimão, Juiz 3) solicita que se proceda à notificação pessoal de GENIVALDO SANTOS FERREIRA para tomar ciência do acórdão, proferido no Processo n. 86/13. SGBABF, bem como de que pode, no prazo de 30 dias, a contar da presente notificação, exercer o direito de recurso do referido Acórdão, devendo para o efeito contatar com o seu defensor - Dr. Rogério Reis, com escritório na Rua António Barbudo, n. 045, 8500-000, Portimão, Telefone n. 966122733, e-mail; rogerioreis-452f@adv.oa.pt, cujos honorários fica responsável, e, bem assim, do direito, a querendo, constituir novo advogado no mesmo prazo do recurso.
+Verifica-se que o conteúdo desta carta rogatória é idêntico ao da CR 18370, razão pela qual deve ser arquivada a presente comissão.
+Cumpra-se.
