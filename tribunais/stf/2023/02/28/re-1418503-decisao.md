@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso extraordinário interposto contra acórdão do Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+
+    “DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL Nº 2.938/2021, QUE ALTEROU E ACRESCENTOU DISPOSITIVOS À LEI MUNICIPAL Nº 2.533/2014, QUE DISCIPLINA O SERVIÇO DE TRANSPORTE DE PASSAGEIROS EM VEÍCULOS DA CATEGORIA ALUGUEL – TÁXI, NO MUNICÍPIO DE SÃO PEDRO DA ALDEIA. DISPOSITIVO QUE, APARENTEMENTE, CRIOU SIGNIFICATIVAS MUDANÇAS NAS REGRAS PARA A CONCESSÃO DO SERVIÇO DE TRANSPORTE DE PASSAGEIROS EM VEÍCULOS DA CATEGORIA ALUGUEL, QUE É CONCEDIDA PELO PODER EXECUTIVO MUNICIPAL. SERVIÇO QUE É REGULAMENTADO PELA SECRETARIA MUNICIPAL DE SEGURANÇA E ORDEM PÚBLICA, QUE TEM COMPETÊNCIA TÉCNICA PARA AVALIAR AS SUAS ESPECIFICIDADES, ANÁLISE ESTA QUE DEVE LEVAR EM CONTA A SEGURANÇA DOS PASSAGEIROS E OS POSSÍVEIS IMPACTOS NA MOBILIDADE URBANA. APARENTE INTERFERÊNCIA NAS ATRIBUIÇÕES DO PODER EXECUTIVO. IMPERIOSA ANÁLISE EM COGNIÇÃO EXAURIENTE. DEFERIMENTO LIMINAR, COM EFEITOS EX-NUNC, ATÉ O JULGAMENTO FINAL DA PRESENTE REPRESENTAÇÃO.” (edoc.3)
+
+    Decido.
+
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil de 1973, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+
+    Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3 de maio de 2007, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+
+    No caso em tela, o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a preliminar recursal para demonstrar a repercussão geral da matéria constitucional objeto do apelo.
+
+    A petição recursal, todavia, não possui a referida preliminar formal e devidamente fundamentada, o que implica a impossibilidade do trânsito do apelo extremo. Sobre o tema, anote-se:
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL SUSCITADA. PRELIMINAR FORMAL E FUNDAMENTADA. NECESSIDADE DE DEMONSTRAÇÃO. ART. 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+
+    1. Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar sobre a repercussão geral na petição de recurso extraordinário, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes.
+
+    2. A ausência dessa preliminar na petição de interposição permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c, e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal).
+
+    3. Cuida-se de novo requisito de admissibilidade que se traduz em verdadeiro ônus conferido ao recorrente pelo legislador, instituído com o objetivo de tornar mais célere a prestação jurisdicional almejada.
+
+    4. O simples fato de haver outros recursos extraordinários sobrestados, aguardando a conclusão do julgamento de ação direta de inconstitucionalidade, não exime o recorrente de demonstrar o cabimento do recurso interposto.
+
+    5. Agravo regimental desprovido” (RE nº 569.476/SC-AgR, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJe de 25/4/08).
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. AUSÊNCIA DE PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 543-A, § 2º, DO CPC/1973 E ART. 327, § 1º, DO RISTF. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A jurisprudência desta Suprema Corte firmou-se no sentido de que incabíveis embargos de declaração opostos em face de decisão monocrática. Recebimento como agravo regimental com fundamento no princípio da fungibilidade. 2. Ausência de preliminar formal e fundamentada de repercussão geral, incluído o que trata de matéria criminal. Inobservância do art. 543-A, § 2º, do CPC/1973 e art. 327, § 1º, do RISTF. Precedentes. 3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (ARE nº 884.560/PR-ED, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 7/11/17).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 28 de fevereiro de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
