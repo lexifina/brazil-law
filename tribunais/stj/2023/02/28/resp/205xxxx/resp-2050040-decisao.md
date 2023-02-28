@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda do Estado de São Paulo, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 130):
+Agravo de Instrumento Execução Fiscal Pedido de sobrestamento da penhora de valores (bloqueio bancário) para pagamento de débito tributário Bem material ofertado e negado de maneira não adequadamente fundamentada pela Fazenda Empresa recém egressa de recuperação judicial Cumprimento do art. 805, parágrafo único, do CPC Oferta que se limita à garantia do Juízo, nos termos do art. 9º, III, da Lei nº 6830/1980, não sendo necessária sua liquidez imediata Agravo provido.
+A parte recorrente aponta violação aos arts. 797, 835 e 1.036 do CPC; e 11 da Lei n.º 6.830/1980. Sustenta, em resumo, ser legitima a recusa dos bens oferecidos à penhora, pois "a executada ofertou bens de seu estoque rotativo que à toda evidência não despertam interesse de licitantes. Assim, não possuem liquidez e também não observam a ordem legal de preferência" (fl. 141).
+Contrarrazões apresentadas às fls. 153/162.
+A Presidência da Seção de Direito Público do Tribunal de origem determinou o envio dos autos ao órgão julgador, a fim de que se procedesse a eventual juízo de conformação (artigo 1.040, I e II, do CPC), quanto ao Tema nº 578/STJ.
+Na sequência, o órgão colegiado realizou o competente juízo de conformidade, em acórdão que restou assim ementado (fl. 130):
+Agravo de Instrumento Execução Fiscal Pedido de sobrestamento da penhora de valores (bloqueio bancário) para pagamento de débito tributário Bem material ofertado e negado de maneira não adequadamente fundamentada pela Fazenda Empresa recém egressa de recuperação judicial Cumprimento do art. 805, parágrafo único, do CPC Oferta que se limita à garantia do Juízo, nos termos do art. 9º, III, da Lei nº 6830/1980, não sendo necessária sua liquidez imediata Agravo provido.
+Admitido do apelo raro, os autos subiram a esta Corte.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Consoante antes relatado, a Corte local analisou a questão posta no recurso especial, entendendo por ilegítima recusa da fazenda pública em aceitar os bens oferecidos em penhora, concluindo pela adequação do acórdão recorrido ao Tema 578/STJ, razão pela qual manteve o acórdão recorrido (fls. 129/149).
+Nesse contexto, resta prejudicada a apreciação do apelo raro, pois, no caso dos autos, o Tribunal de origem manteve o acórdão recorrido por estar em conformidade com a tese adotada no precedente indicado, o que afasta o disposto no art. 1.041 do CPC, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º".
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
