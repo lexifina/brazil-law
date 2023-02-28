@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 2ª REGIÃO - CREF2/RS, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO , assim ementado:
+"AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. INSUFICIÊNCIA DAS RAZÕES. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO" (fls. 96e).
+Nas razões do Recurso Especial (fls. 100/131e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 8º da Lei 12.514/2011(redação original vigente à época da distribuição da execução fiscal) e ao artigo 6º, §1º do Decreto-lei 4.657/42, sustentando, em síntese, a "impossibilidade de aplicação da nova regra processual disciplinada pelo artigo 8º da Lei nº 12.514/2011 às ações em trâmite que foram ajuizadas antes da própria alteração legislativa, cujas condições de procedibilidade, ao contrário do entendimento do acórdão recorrido, não devem ser verificadas no futuro, mas sim, quando da distribuição da ação" (fls. 102e).
+Por fim, requer o provimento do recurso para "determinar o prosseguimento da execução fiscal, sob pena de vermos negada vigência à redação original do artigo 8º da Lei nº 12.514/2011 e ao artigo 6º, §1º do Decreto-Lei nº 4.657/42" (fl. 130e).
+Sem contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 137e).
+A irresignação não merece provimento.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, contra decisão que determinou o arquivamento de execução fiscal, ao fundamento de que o valor cobrado das anuidades de 2012 a 2015 é inferior ao piso de cinco vezes o valor constante do inciso I do caput do artigo 6ª da Lei 12.514/201.
+Não provido o agravo de instrumento foi interposto o presente Recurso Especial.
+O Tribunal regional negou provimento ao recurso, consoante os seguintes fundamentos:
+"O agravo de instrumento foi interposto contra decisão que, nos autos da execução fiscal de origem, determinou o arquivamento provisório do feito, com base no §2º do art. 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021.
+A 1ª Seção deste tribunal, órgão colegiado que reúne as turmas especializadas em matéria tributária, decidiu em 05 de maio de 2022, no julgamento do Incidente de Assunção de Competência nº 5046920- 60.2021.4.04.0000/RS, que é formal e materialmente constitucional o §2º do artigo 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021, sendo aplicável inclusive aos feitos pendentes em que não forem encontrados bens penhoráveis, como ocorre no caso.
+Ora, o agravo de instrumento contraria o entendimento vinculante estabelecido pela 1ª Seção deste tribunal, no julgamento acima indicado, o que justiça o seu desprovimento de plano, com base no artigo 927, III combinado com o artigo 932, IV, "c", do Código de Processo Civil" (fl. 89e).
+Com efeito, verifica-se que o fundamento de que "é formal e materialmente constitucional o §2º do artigo 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021, sendo aplicável inclusive aos feitos pendentes em que não forem encontrados bens penhoráveis, como ocorre no caso" não foi impugnado pela parte recorrente, nas razões do Recurso Especial.
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
