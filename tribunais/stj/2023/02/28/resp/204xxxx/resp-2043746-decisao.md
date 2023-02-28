@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. Não se mostra suficiente, para a constituição do devedor em mora, o simples envio de correspondência eletrônica ao consumidor, especialmente quando não há prova do seu efetivo recebimento. Por sua vez, a instituição financeira não promoveu o protesto do contrato. Assim, ausente demonstração específica da regular constituição do devedor em mora, impõe-se a confirmação da sentença que julgou extinta a ação de busca e apreensão.
+APELAÇÃO DESPROVIDA (fl. 99).
+A parte recorrente aponta negativa de vigência aos arts. 2º, §2º, do Decreto-Lei 911/69 e 439, 440 e 441 do CPC, alegando, em síntese, validade da notificação enviada para o endereço eletrônico da recorrida, para fins de constituição em mora.
+É o relatório. Passo a decidir.
+A controvérsia foi decidida pelo Tribunal de origem à base da seguinte motivação:
+Insurge-se a instituição financeira contra sentença que julgou extinta a ação de busca e contrato de financiamento com garantia de alienação fiduciária.
+Não merece acolhimento a inconformidade.
+A ação de busca e apreensão tem por pressupostos a comprovação do inadimplemento do contrato com garantia de alienação fiduciária e a demonstração da constituição do devedor fiduciante em mora, consoante o disposto no artigo 3º do Decreto-Lei n. 911/1969, com a redação conferida pela Lei n. 13.043 de 2014, bem como na Súmula n. 72 do STJ.
+No caso, não houve a regular constituição do consumidor em mora, tendo em vista que não há notícia da efetiva entrega da notificação extrajudicial no endereço indicado no contrato, não se mostrando suficiente, para tal mister, o documento juntado na instância de origem (Evento1, NOT6), o qual apenas demonstra o envio de correspondência eletrônica - email - à ora apelada, sem prova do seu efetivo recebimento.
+Além disso, não há nos autos notícia de eventual protesto do título.
+Desse modo, não tendo sido demonstrada a efetiva constituição da devedora em mora, impõe-se a confirmação da sentença que julgou extinta a ação de busca e apreensão (fl. 97).
+Conforme entendimento desta Corte, para a constituição do devedor em mora nos contratos de alienação fiduciária, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor. A título ilustrativo:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE NOTIFICAÇÃO. PROVA DO RECEBIMENTO NO ENDEREÇO DO DEVEDOR. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No contrato de alienação fiduciária, para a constituição do devedor em mora, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor. Precedentes.
+(..)
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.138.714/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 14.12.2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. NOTIFICAÇÃO INVÁLIDA. AUSÊNCIA DE RECEBIMENTO. SÚMULA 83/STJ. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 20%. SÚMULA 83/STJ. REEXAME DE PROVA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. "Conforme o entendimento assente deste Superior Tribunal, para a constituição do devedor em mora nos contratos de alienação fiduciária, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, o que não ocorreu no caso dos autos, segundo as instâncias ordinárias, ocasionando a extinção da ação". (AgInt no REsp 1829084/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/11/2019, DJe 19/12/2019). Incidência da Súmula 83/STJ.
+(..)
+4. Agravo interno desprovido. (AgInt no REsp n. 1.956.179/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 26.8.2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. LIMINAR CASSADA NA ORIGEM. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Nos contratos de alienação fiduciária em garantia regidos pelo Decreto-Lei n. 911/1969, a mora se configura automaticamente quando vencido o prazo para o pagamento (mora ex re), mas o deferimento da busca e apreensão tem como pressuposto a comprovação desse fato por meio de notificação extrajudicial do devedor fiduciante. Súmula n. 72 do STJ" (AgInt no AREsp n. 876.487/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/9/2016, DJe de 26/9/2016).
+3. É imprescindível a comprovação de encaminhamento ao endereço constante do contrato e efetivo recebimento da notificação, mediante protesto, carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento. Precedentes.
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso, para dissentir das conclusões do acórdão recorrido, quanto à ausência de prova de que as cartas notificatórias foram efetivamente entregues aos devedores, seria necessário reexaminar o acervo material dos autos, o que não se admite na presente via, a teor da Súmula n. 7 do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1.7.2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. VERBETE 83 DA SÚMULA DO STJ.
+1. Apesar de considerar desnecessário o recebimento da notificação pelo próprio devedor, exige-se, ao menos, a comprovação de que efetivamente houve recebimento no endereço do seu domicílio. Precedentes.
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp n. 1.821.668/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 2.12.2022.)
+Nessa linha, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, como visto, o Tribunal de Justiça concluiu pela ausência de demonstração específica da regular constituição do devedor em mora, ressaltando que não há prova do efetivo recebimento da correspondência eletrônica enviada ao consumidor.
+Eventual modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em recurso especial, a teor do que dispõe a Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. COMPROVAÇÃO DA MORA. CONDIÇÃO DE PROCEDIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor. Para rever a conclusão que chegou o Tribunal de origem quanto à falta de regular notificação acerca da mora, seria necessário o reexame do conjunto fático-probatório dos autos, providência descabida, tendo em vista a incidência da Súmula n. 7/STJ.
+2. Esta Corte de Justiça entende que a comprovação da mora é condição de procedibilidade da ação de busca e apreensão, não se admitindo que ocorra após o ajuizamento da demanda. Incidência da Súmula n. 83/STJ.
+3. Agravo interno improvido. (AgInt no REsp n. 2.022.425/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18.10.2022.)
+Registre-se, por fim, que o conteúdo normativo dos arts. 439, 440 e 441 do CPC não foi apreciado pelo Tribunal de Justiça, faltando o indispensável prequestionamento.
+Com efeito, "não havendo no acórdão objeto do recurso especial decisão sobre o conteúdo normativo do dispositivo tido como violado, forçoso é reconhecer a falta de prequestionamento (Súmula 211/STJ)" (AgInt no REsp n. 1.444.827/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 14.12.2022.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se .
