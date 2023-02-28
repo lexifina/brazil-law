@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 594/596).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 301/302):
+APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C DANOS MORAIS. PLATAFORMA DE REDE SOCIAL. FACEBOOK. REMOÇÃO DE CONTEÚDO E RESTRIÇÃO TEMPORÁRIA DO PERFIL. INFORMAÇÕES INVERÍDICAS SOBRE COVID-19. POLÍTICAS DE USO. VIOLAÇÃO. ALEGAÇÃO DE OFENSA À LIBERDADE DE EXPRESSÃO E À IMUNIDADE PARLAMENTAR. NÃO CONFIGURAÇÃO. DANOS MORAIS. INEXISTÊNCIA.
+1. A Constituição Federal garante a todos o direito de liberdade de manifestação de pensamento, vedando apenas o anonimato. Esse direito não pode sofrer qualquer forma de controle ou limitação de divulgação (CF, art. 220, § 2º), salvo se houver violação de normas ou outros direitos constitucionalmente protegidos.
+2. "A liberdade de expressão é não só uma componente essencial dos regimes democráticos, como o grau de democraticidade de um Estado pode ser razoavelmente aferido através do grau efetivo de liberdade de expressão de que gozam seus cidadãos." (Francisco Teixeira da Mota. A liberdade de expressão em tribunal. Lisboa: FFMS, 2013, p. 11).
+3. A liberdade de expressão não se estende à divulgação de notícias inverídicas.
+4. Ao cadastrar-se na rede social, o usuário expressamente adere aos Termos de Uso e Diretrizes da Comunidade, que devem ser observados por todos que, voluntariamente, optam por utilizar a plataforma.
+5. A inserção de informações falsas sobre a covid-19 viola os Termos de Uso e as Diretrizes da Comunidade estabelecidos pelo Facebook e atrai a aplicação da penalidade prevista, inexistindo ato ilícito, mas mero exercício regular de direito. Precedente deste Tribunal.
+6. Neste momento de pandemia não há espaço para propagação de notícias inverídicas, sobretudo tratando-se de pessoa pública, cujas manifestações e opiniões são de interesse coletivo e alcançam expressivo número de usuários.
+7. Ante a ausência de conexão entre a postagem do vídeo e o mandato eletivo, não há que se falar que a remoção do vídeo implicou ofensa à imunidade parlamentar.
+8. Recurso conhecido e não provido.
+Nas razões do recurso especial (e-STJ fls. 372/386), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação do art. 19 da Lei n. 12.965/2014, "cuja interpretação desta e. Corte consolidou-se no entendimento de que apenas na hipótese de ordem judicial específica o provedor de aplicações pode excluir publicações e perfis" (e-STJ fl. 374). Informa que "o e. Tribunal a quo negou provimento por entender que os direitos referentes a liberdade de expressão não se estendem àqueles que divulgam notícias falsas e, que o artigo 19 do Marco Civil da Internet não obriga os provedores de aplicação à excluírem publicações apenas nas hipóteses de ordem judicial expressa" (e-STJ fl. 374). Defende que, "a partir da vigência do Marco Civil da Internet, os provedores de aplicação apenas podem excluir publicações nas hipóteses de demonstrações claras e objetivas pelo Poder Judiciário" (e-STJ fl. 378).
+No agravo (e-STJ fls. 600/609), afirma-se a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 624/642 (e-STJ).
+É o relatório.
+Decido.
+No caso dos autos, a decisão que negou admissibilidade do recurso especial foi publicada dia 26/5/2022 (quinta-feira) (e-STJ fl. 567), iniciando o prazo para interpor recurso em 27/5/2022 (sexta-feira). O agravo em recurso especial foi interposto somente em 17/6/2022 (sexta-feira), portanto depois de transcorrido o prazo de 15 (quinze) dias (e-STJ fl. 687).
+Segundo a jurisprudência do STJ, o Corpus Christi não é feriado nacional, de modo que a parte deve comprovar, no ato da interposição, que não houve expediente no Tribunal de origem no dia do término do prazo recursal, o que não foi feito no caso em análise.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. DOCUMENTO IDÔNEO. NECESSIDADE. PRECEDENTES.
+1. Nos termos do vigente Código de Processo Civil (Lei nº 13.105/2015), não é cabível a comprovação posterior de feriado local, o qual deve ser demonstrado no ato da interposição do recurso (art. 1.003, § 6º). Precedentes.
+2. A modulação de efeitos implementada pela Corte Especial no REsp 1.813.684/SP é restrita ao feriado de segunda-feira de Carnaval, e tão somente para os casos anteriores à publicação do acórdão do referido precedente, ocorrida no DJe de 18.11.2019, não valendo para os demais feriados.
+3. A Corte Especial, no julgamento do AREsp 1.481.810/SP, reafirmou sua orientação no sentido de que a modulação de efeitos relativa ao feriado de segunda-feira de Carnaval não deve ser estendida aos demais feriados locais, valendo a regra geral instituída pelo Código de Processo Civil quanto à necessidade de comprovação da tempestividade no ato de interposição do recurso.
+4. A jurisprudência do Superior Tribunal de Justiça sedimentou entendimento no sentido de que a existência de feriado local, a paralisação ou a interrupção de expediente forense devem ser demonstradas por documento oficial ou certidão expedida pelo tribunal de origem, que comprovem o período em que tenha ocorrido eventual suspensão de prazos. Precedentes.
+5. "O dia do servidor Público (28 de outubro), a segunda-feira de Carnaval, a quarta-feira de Cinzas, os dias que precedem a sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedente." (AgInt nos EDcl no REsp 1936443/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/5/2022, DJe 5/5/2022)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.047.082/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 25/8/2022.)
+Na hipótese, não houve nenhuma comprovação, por documento hábil (ato normativo ou certidão cartorária) no momento da interposição do recurso, de modo que não se deve conhecer de agravo apresentado fora do prazo.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
