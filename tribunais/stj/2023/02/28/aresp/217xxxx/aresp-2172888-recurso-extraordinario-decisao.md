@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por HENRIKE MAURO MUNIZ, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 355):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ENUNCIADO N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação concreta ao fundamento utilizado pela decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182/STJ.
+2. Agravo regimental não conhecido.
+Os embargos de declaração opostos pela defesa foram rejeitados.
+A parte recorrente sustenta que (fls. 377-378):
+ ..  a afronta ao artigo 105, inciso III, alínea "a", da Constituição Federal é flagrante, pois, em todas as situações que repeliram o processamento do Recurso Especial, nenhuma delas visualizou o permissivo constitucional de processamento daquele. Na verdade, com todo o respeito, temos para nós que o STJ visualizou o REsp como fundamentado na alínea "c", mas, repita-se, o REsp em questão teve outro fundamento (alínea "a").
+Diante das questões acima, o permissivo constitucional que viabiliza o processamento do recurso especial foi ferido, eis, que o Colendo Superior Tribunal de Justiça ignorou de todas as formas possível o processamento daquele. Mas, data venha e ao nosso ver, de forma draconiana e equivocada.
+Pois, a aplicação da Súmula 83 do STJ é descabida naquele caso.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 387-390 e às fls. 393-404.
+É o relatório.
+Da análise dos autos, observa-se que o pronunciamento recorrido limitou-se à verificação da ausência do preenchimento dos pressupostos de admissibilidade do recurso cuja competência é do Superior Tribunal de Justiça, constando da referida conclusão a ausência de impugnação específica dos fundamentos da decisão agravada, atraindo o óbice da Súmula n. 182/STJ.
+Portanto, a questão de mérito não chegou a ser apreciada no julgamento efetivado pelo Superior Tribunal de Justiça, uma vez que a existência de óbices processuais impediu o próprio conhecimento da insurgência.
+Nesse sentido, o STF pacificou o entendimento de que não é cabível recurso extraordinário no qual se alega a ofensa ao art. 105, III, da Constituição da República, questionando o conhecimento ou não do recurso especial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. INFRINGÊNCIA AO ART. 105, III, "A", DA CF/88. REPERCUSSÃO GERAL REJEITADA NO JULGAMENTO DO RE 598.365-RG (REL. MIN. AYRES BRITTO, TEMA 181). OFENSA À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(ARE n. 860.192-AgR, relator Ministro Teori Zavascki, Segunda Turma, julgado em 28/4/2015, DJe de 12/5/2015.)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PONTAL DO PARANAPANEMA. NULIDADE DOS TÍTULOS DE DOMÍNIO EM RAZÃO DO VÍCIO NA ORIGEM DA CADEIA DOMINIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 105, III, DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIAS DE CORTES DIVERSAS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365. TEMA 181. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+(RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, julgado em 21/9/2018, DJe de 1º/10/2018.)
+Como se vê, ainda que o recurso extraordinário suscite violações da Constituição Federal sobre o mérito da causa, para se chegar à análise da matéria de fundo, seria necessário discutir e superar os óbices processuais, hipótese rejeitada pelo STF, que, no julgamento do Recurso Extraordinário n. 598.365-RG/MG, sob a sistemática da repercussão geral, assentou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+Eis a ementa adotada pelo STF no recurso paradigma, por meio do qual foi definida a tese acima transcrita:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Desse modo, resulta inviável a análise da violação constitucional alegada no recurso extraordinário, justamente porque o acórdão recorrido não apreciou o mérito do recurso apresentado ao STJ, o que faz, precisamente, incidir o invocado Tema n. 181/STF.
+Vale salientar ser pacífica a jurisprudência do STF no sentido de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 17/5/2021, DJe de 21/5/2021).
+Idêntico é o entendimento consolidado do STJ, que, ao apreciar agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, caso em tudo semelhante ao presente, assim concluiu: "Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral." (AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, afastada a repercussão geral, consoante a tese fixada no Tema n. 181/STF, de observância cogente (CPC, art. 927, III, parte final), inviável a própria apreciação do mérito recursal.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. AUSÊNCIA DE REQUISITOS DE ADMISSIBILIDADE DO RECURSO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. Os aspectos relativos aos pressupostos de admissibilidade de recursos da competência dos tribunais infraconstitucionais impedem o seguimento do recurso extraordinário, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+2. Tal conclusão é adotada quando o Superior Tribunal de Justiça não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite discussão de mérito.
+3. Alegação de violação das disposições do art. 105, III, da CF. Questão sobre a qual o Supremo Tribunal Federal firmou a ausência de repercussão geral, dada a natureza infraconstitucional do debate, nos termos do Tema n. 181/STF. Precedentes do STF e do STJ.
+4. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
