@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo d. Juízo da 5ª Vara Cível de Natal/RN em face do d. Juízo de Direito da 3ª Vara Cível de de Rio Grande/RS.
+O conflito foi estabelecido nos autos de Ação de Execução de Títulos Extrajudiciais na qual foi alegada a existência de conexão com ação de conhecimento relativa aos mesmos títulos em trâmite perante o d. Juízo capixaba.
+O d. Juízo de Direito da 3ª Vara Cível de de Rio Grande/SR, em face disso remeteu os autos ao d. Juízo da 5ª Vara Cível de Natal/RN que, recebendo os autos suscitou o presente conflito de competência porquanto "a Lei de Organização Judiciária do Estado (do Rio Grande do Norte), em seu art. 57 c/c anexo VII, em seu art. 3º, atribui a competência absoluta para o processamento dos feitos executivos extrajudiciais por distribuição às 19ª 20ª, 23ª, 24ª e 25"ª Varas Cíveis" e que "no presente caso, mesmo que haja conexão em razão das partes litigarem nos feitos sobre mesmo pacto firmado entre ambos, se torna impossível a reunião dos mesmos neste Juízo, em razão da competência absoluta das Varas Cíveis citadas, já que a modificação da competência por conexão apenas é admitida nos casos de competência relativa, conforme de depreende do art. 54 do Código de Processo Civil" (nas fls. 111/112).
+É relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, de interesse de incapaz ou de litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+A conexão e a possibilidade de reunião dos feitos para julgamento conjunto é prevista no CPC sempre que isso não ferir competência absoluta prevista na legislação federal.
+Não é o caso dos autos, porquanto a competência absoluta alegada pelo d. Juízo Suscitante somente ostenta essa natureza perante a organização judiciária do Estado do Rio Grande do Norte, não impedindo a reunião dos processos perante o Juízo suscitante que também possui competência Cível.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 3ª Vara Cível de de Rio Grande/RS.
+Publique-se.
