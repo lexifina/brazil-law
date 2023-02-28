@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JONAS NOGUEIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 5005532-15.2020.8.24.0036).
+Depreende-se dos autos que o paciente condenado às penas de 3 meses de detenção e de 6 anos e 8 meses de reclusão, pela prática dos crimes de lesão corporal e tráfico de entorpecentes (e-STJ fls. 126/132).
+Segundo a peça acusatória, o acusado " ..  ofendeu a integridade corporal da vítima Inara Karina Tribess, ao desferir um soco na boca dela, bem como golpes, com arma branca (facão), nos braços e nas pernas dela, causando as lesões o corporais descritas no Exame de Corpo de Delito Indireto da fl. 22"; além disso, foi apurado que ele " ..  guardava na geladeira, para fins de comercialização, sem autorização e em desacordo com determinação legal ou regulamentar, 61,65g (sessenta e um gramas e sessenta e cinco centigramas) da substância entorpecente conhecida como Maconha, além de 33,48g (trinta e três gramas e quarenta e oito centigramas) da substância entorpecente conhecida como Crack, a qual estava enterrada no imóvel do denunciado" (e-STJ fls. 18/19).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso defensivo (e-STJ fls. 187/194).
+Opostos embargos de declaração, deles não se conheceu (e-STJ fls. 374/377).
+Neste writ, a defesa aponta constrangimento ilegal decorrente do cálculo dosimétrico.
+Sustenta que a quantidade de drogas apreendidas não é relevante a ponto de autorizar o aumento da pena-base, asseverando que "a teor do art. 42 da Lei 11.343/06, a natureza e a quantidade da substância proscrita deverão ser levadas em conta, e não a natureza ou a quantidade. O binômio natureza/quantidade deve ser analisado necessariamente em conjunto. E mais: o intérprete não pode ler o enunciado normativo apenas com lentes punitivas. A quantidade da droga apreendida deve igualmente ser levada em conta e, no caso concreto, tratando-se de pequena quantidade, contraindica a exasperação da pena" (e-STJ fl. 8).
+Dessa forma, requer, liminarmente e no mérito, seja afastada a exasperação da pena-base (e-STJ fl. 11).
+É o relatório.
+Decido.
+Depreende-se dos autos que o presente writ é mera reiteração do pedido formulado no HC n. 701.803/SC (referente à Apelação Criminal n. 5005532- 15.2020.8.24.0036/SC), também de minha relatoria, no qual já proferi decisão afastando o a umento da pena-base pela natureza da droga apreendida e readequando a pena imposta para 5 anos e 10 meses de reclusão. Ocorreu o trânsito em julgado em 14/12/2021.
+Ante o exposto, diante da constatação de que o presente recurso é mera reiteração, indefiro-o liminarmente, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
