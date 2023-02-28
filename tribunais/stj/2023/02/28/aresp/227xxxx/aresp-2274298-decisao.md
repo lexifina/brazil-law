@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por HELIO DE ATHAYDE VASONE que pretende admissão de recurso especial interposto com fundamento no arts. 105, III, "a" e "c", da CF/1988 e que desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 304/305):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PRODUTOR RURAL COM INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA. CNPJ. CONTRIBUINTE DO SALÁRIO-EDUCAÇÃO. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. APELAÇÃO NÃO PROVIDA.
+1. Nos termos do §3º do art. 1º da Lei nº 9.766/98, é sujeito passivo da obrigação tributária a empresa, definida como "qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não".
+2. O produtor rural pessoa física, desde que não esteja constituído como pessoa jurídica, com registro no CNPJ, não se enquadra no conceito de empresa, não sendo, portanto, contribuinte da exação em testilha.
+3. O autor é produtor rural inscrito no CNPJ sob o nº 14.487.462/0001-90, como firma individual, no ramo principal de "Horticultura, exceto morango". Portanto, está enquadrado no conceito de empresa para fins de recolhimento de contribuição social do salário-educação. Precedentes do STJ.
+4. Apelação não provida.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 334/339).
+Em suas razões de recurso, alega a parte recorrente, além de divergência entre julgados, violação dos arts. 489, IV e VI, 1.022, II, do CPC/2015; dos arts. 15 da Lei n. 9.424/1996; 1º, § 3º, da Lei n. 9.766/1998; 2º do Decreto n. 6.003/2006 e dos arts. 45, 966, 967, 971, 982, 984 e 1.150 do Código Civil, ao argumento de serem produtores rurais, pessoas físicas, não equiparados a empresários para fins de incidência de contribuição de salário-educação.
+Contrarrazões apresentadas às e-STJ fls. 440/446.
+Recurso inadmitido na origem (e-STJ fls. 447/455).
+Passo a decidir.
+O apelo nobre se origina de mandado de segurança em que a parte impetrante objetivava a declaração de inexigibilidade da contribuição do salário educação sobre a folha de salário, previsto no art. 15 da Lei n. 9.424/1996 e 25 da Lei n. 8.212/1991.
+A sentença denegou a ordem.
+Em sede de apelação, concluiu a Corte regional que (e-STJ fl. 302):
+À luz dos dispositivos transcritos, verifica-se que o sujeito passivo da obrigação tributária é a empresa, definida como "qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não (..)".
+Portanto, infere-se da interpretação das regras que regem a matéria, que o produtor rural pessoa física, desde que não esteja constituído como pessoa jurídica, com registro no CNPJ, não se enquadra no conceito de empresa, não sendo, portanto, contribuinte da exação em testilha.
+No entanto, na hipótese, o autor é produtor rural inscrito no CNPJ sob o nº 14.487.462/0001-90, como firma individual, no ramo principal de "Horticultura, exceto morango". Portanto, está enquadrado no conceito de empresa para fins de recolhimento de contribuição social do salário-educação.
+Pois bem.
+Quanto à alegada ofensa aos arts. 489, IV e VI, e 1.022, II, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+No mérito, o entendimento adotado pelo Tribunal de origem não destoa da jurisprudência do Superior Tribunal de Justiça, para quem a contribuição do salário educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRODUTOR RURAL PESSOA FÍSICA. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA (CNPJ). ENQUADRAMENTO NO CONCEITO DE EMPRESA PARA EFEITO DE INCIDÊNCIA DA CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual a contribuição para o salário-educação é devida pelas empresas em geral e pelas entidades públicas e privadas vinculadas ao Regime Geral da Previdência Social, entendendo-se como tais, para fins de incidência, qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, conforme estabelece o art. 15 da Lei n. 9.424/96, combinado com o art. 2º do Decreto n. 6.003/06.
+III - O produtor rural pessoa física, inscrito no Cadastro Nacional de Pessoa Jurídica (CNPJ), enquadra-se no conceito de empresa para efeito de incidência da contribuição para o salário-educação. Precedentes.
+IV - Os Agravantes não apresentaram argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno desprovido.
+(AgInt no REsp 1.786.468/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/06/2019, DJe 26/06/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO SOCIAL DESTINADA AO SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL. PESSOA FÍSICA. INEXISTÊNCIA DE COMPROVAÇÃO DE INSCRIÇÃO NO CNPJ. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência do STJ adota o entendimento de que, mesmo em se tratando de contribuintes inscritos na Receita Federal como contribuintes individuais, ocorre a incidência da contribuição para o salário-educação quando for produtor rural pessoa física com CNPJ. Somente nos casos de produtor rural pessoa física desprovido de CNPJ é que esta Corte tem afastado a incidência do salário-educação.
+2. Entretanto, o acórdão recorrido não merece reforma, haja vista o Tribunal de origem não ter se pronunciado sobre se o recorrido, produtor rural pessoa física, possui inscrição no CNPJ. Dessarte, a revisão no julgado, para se demonstrar a existência de tal inscrição, viola o teor do enunciado insculpido na Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1.847.350/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, jul gado em 05/12/2019, DJe 12/05/2020).
+Na hipótese dos autos, considerado o delineamento fático realizado pelo órgão judicial a quo, deve-se reconhecer que o recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, porquanto, além de o acórdão recorrido estar em conformidade com a orientação jurisprudencial deste Tribunal Superior, não há como se revisar a conclusão adotada sem o reexame de fatos e provas.
+Convém registrar que resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
