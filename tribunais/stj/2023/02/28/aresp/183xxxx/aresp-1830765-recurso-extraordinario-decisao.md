@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por NARCISO ALBERTINI, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 4.510):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. EMBARGOS DE DECLARAÇÃO E AGRAVO REGIMENTAL CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DO SEGUNDO. AGRAVO NÃO CONHECIDO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado após o primeiro, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.
+1.1. No caso em tela, os embargos de declaração foram recebidos nesta Corte minutos antes do recebimento do presente agravo regimental, razão pela qual dele não se conhece.
+2. Agravo regimental não conhecido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 4.553-4.558). Os segundos aclaratórios não foram conhecidos (fls. 4.576-4.583)
+O recorrente alega a violação do art. 5º, II e LIV, da CF e aduz que há repercussão geral da matéria tratada.
+Sustenta que (fl. 4.540):
+A r. decisão fere a Carta Magna ao passo que tal decisão fere o princípio da legalidade bem como o devido processo legal.
+Fere o devido processo legal ao passo que não fora devidamente apreciado as alegações do recorrente quanto a prescrição ocorrida entre o fato delituoso e a denúncia.
+Fere ainda o devido processo legal ao passo que não fora acolhido a prescrição retroativa alegada, haja vista que o ato delitivo ocorrera nos anos de 2004 e 2005, entretanto a denúncia fora aceita somente em 2012 ou seja 8 anos depois, e a sentença condenatório ocorrera em 2017, ou seja, da data dos fatos até a sentença decorreram 12 anos 11 MESES e 5 DIAS, tendo ocorrido a prescrição, na forma do art. 109 do C P inc. IV.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 4.593-4.599.
+É o relatório.
+Da análise dos autos, observa-se que o pronunciamento recorrido limitou-se à verificação da ausência do preenchimento dos pressupostos de admissibilidade do recurso cuja competência é do Superior Tribunal de Justiça, constando da referida conclusão que "a interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões" (fls. 4.512-4.513).
+No caso, o agravo regimental não foi conhecido, mantendo, ao final, a decisão que deu provimento ao agravo regimental para conhecer do agravo em recurso especial e, em parte, do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento (fls. 4.411-4.419).
+Na ocasião ficou registrado que (fl. 4.417):
+ ..  não é possível precisar a data da cessação da permanência do delito, de forma a excluir a incidência da Lei n. 12.234/10 e analisar a hipótese de prescrição retroativa entre a data dos fatos e o recebimento da denúncia. Assim, para se concluir de modo diverso ao que entendeu o Tribunal a quo, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ
+Portanto, a questão de mérito não chegou a ser apreciada no julgamento efetivado pelo Superior Tribunal de Justiça, uma vez que a existência de óbices processuais impediu o próprio conhecimento da insurgência.
+Exatamente para casos como o presente, o Supremo Tribunal Federal sedimentou o entendimento segundo o qual a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recursos da competência de outros tribunais impede a abertura da via extraordinária, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+Como se vê, ainda que o recurso extraordinário suscite violações da Constituição Federal sobre o mérito da causa, para se chegar à análise da matéria de fundo seria necessário discutir e superar os óbices processuais, hipótese rejeitada pelo STF, que no julgamento do Recurso Extraordinário n. 598.365-RG/MG, sob a sistemática da repercussão geral, assentou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+Eis a ementa adotada pelo STF no recurso paradigma, por meio do qual foi definida a tese acima transcrita:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Desse modo, resulta inviável a análise da violação constitucional alegada no recurso extraordinário, justamente porque o acórdão recorrido não apreciou o mérito do recurso apresentado ao STJ, o que faz, precisamente, incidir o invocado Tema n. 181/STF.
+Vale salientar ser pacífica a jurisprudência do STF no sentido de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 17/5/2021, DJe de 21/5/2021).
+Idêntico é o entendimento consolidado do STJ, que, ao apreciar agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, caso em tudo semelhante ao presente, assim concluiu: "Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral." (AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, afastada a repercussão geral, consoante a tese fixada no Tema n. 181/STF, de observância cogente (CPC, art. 927, III, parte final), inviável a própria apreciação do mérito recursal.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE REQUISITOS DE ADMISSIBILIDADE DO RECURSO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. Os aspectos relativos aos pressupostos de admissibilidade de recursos da competência dos tribunais infraconstitucionais impedem o seguimento do recurso extraordinário, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+2. Tal conclusão é adotada quando o Superior Tribunal de Justiça não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite discussão de mérito.
+3. Questão sobre a qual o Supremo Tribunal Federal firmou a ausência de repercussão geral, dada a natureza infraconstitucional do debate, nos termos do Tema n. 181/STF. Precedentes do STF e do STJ.
+4. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
