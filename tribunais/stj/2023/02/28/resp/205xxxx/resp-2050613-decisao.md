@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por HIPERCARD BANCO MULTIPLO S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 30/06/2022.
+Concluso ao gabinete em: 14/02/2023.
+Ação: revisional de contrato bancário, ajuizada por ANDERSON DE ZORZI, em face do recorrente, fundada em suposta abusividade de cláusulas contratuais.
+Sentença: julgou parcialmente procedentes os pedidos para: i) limitar os juros remuneratórios do contrato de cartão de crédito em questão à taxa média de mercado; ii) descaracterizar a mora até que seja apurado em liquidação de sentença o valore efetivamente devido; iii) condenar o recorrente a restituir, de forma simples, os valores pagos a maior pelo recorrido; e iv) condenar o recorrente a restituir em dobro a quantia paga a título de seguro.
+Acórdão: deu provimento à apelação interposta pelo recorrido e deu parcial provimento à apelação interposta pelo recorrente para: i) ausente a comprovação da contratação do parcelamento da fatura, manter os juros remuneratórios fixados do contrato; ii) afastar a capitalização diária de juros; iii) descaracterizar a mora; iv) autorizar a repetição do indébito ou a compensação de valores; e v) proibir a inscrição do nome do recorrido nos órgãos de restrição ao crédito.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação dos arts. 1.022, I, do CPC/2015; 1º ao 5º do Decreto 22.626/33; 5º da MP 2.170/01; 1º e 4º, IX, da Lei 4.595/94; 406 e 591 do CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que o TJ/RS deixou de observar entendimento firmado neste STJ no tocante à capitalização dos juros.
+Em juízo de retratação, o TJ/RS manteve o julgamento anterior, oportunidade na qual o recorrente reiterou os termos de seu recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022, I, do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da limitação da taxa de juros remuneratórios, bem como da inviabilidade da suposta abusividade quanto à capitalização de juros e ao seguro supostamente contratado, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da capitalização de juros (Súmula 568/STJ)
+A jurisprudência do STJ é no sentido de que a cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação.
+Especificamente em relação aos juros capitalizados com periodicidade inferior a um ano, está em pleno vigor o entendimento de que: i) é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada (Tema 246/STJ); e ii) a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada (Tema 247/STJ). Nesse sentido: (REsp 973.827/RS, 2ª Seção, DJe 24/09/2012).
+No que se refere à capitalização diária de juros e indicação da respectiva taxa, a Segunda Seção desta Corte Superior (REsp 1.826.463/SC, DJe de 29/10/2020) entendeu ser abusiva a cláusula contratual genérica de capitalização diária, sem informação acerca da taxa diária de juros remuneratórios, por dificultar a compreensão do consumidor acerca do alcance da capitalização diária, o que configura descumprimento do dever de informação, nos termos da seguinte ementa:
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.
+5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIO (REsp 1826463/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe 29/10/2020).
+Também nesse sentido, cita-se o REsp 1.568.290/RS (Terceira Turma, DJe de 02/02/2016), no qual restou consignado que, diante da ausência de informação da taxa diária de juros, apenas das taxas mensal e anual, descabida a incidência da capitalização diária, mas apenas da mensal.
+Destaque-se ainda: AgInt no AgInt no AREsp 1872355/SC, Terceira Turma, DJe de 25/11/2021; e AgInt no REsp 1.689.156/PR, Quarta Turma, DJe de 03/08/2021.
+Na hipótese sob julgamento, o Tribunal de origem entendeu que a capitalização de juros pactuada de forma diária é considerada abusiva por onerar excessivamente o consumidor (e-STJ fl. 484).
+Destarte, por afastar de plano a capitalização diária de juros, sob o fundamento de que a referida contratação é sempre abusiva, o entendimento do Tribunal de origem está em dissonância com a jurisprudência deste Tribunal, devendo ser aplicada a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, IV, "a", e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. CAPITALIZAÇÃO DE JUROS. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional de contrato bancário, fundada na abusividade de cláusulas contratuais.
+2. Ausentes os vícios do art. 1.022, I, do CPC/2015, rejeitam-se os embargos de declaração.
+3. É abusiva a cláusula contratual genérica de capitalização diária, sem informação acerca da taxa diária de juros remuneratórios, por dificultar a compreensão do consumidor acerca do alcance da capitalização diária, o que configura descumprimento do dever de informação. Precedentes.
+4. Recurso especial conhecido e parcialmente provido.
