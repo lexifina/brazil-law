@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra o Tribunal de Justiça do Paraná.
+O recorrente foi preso em flagrante em 17/10/2022, convertido em prisão preventiva, sendo denunciado nos termos do art. 33, caput, da Lei nº 11.343/2006.
+Neste recurso, argumenta, em suma, com a ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Na origem, Processo nº 0010337-48.2022.8.16.0069, oriundo da Vara Criminal de Cianorte/PR, designou-se audiência de instrução e julgamento para 17/4/2023, conforme informações processuais extraídas do site do TJPR em 24/2/2023.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Extrai-se do decreto preventivo (fl. 130):
+ ..  A necessidade de garantia da ordem pública igualmente está presente. Há que se garantia da ordem pública asseverar que o delito em tese perpetrado pelo Autuado ocasiona verdadeiro abalo social, uma vez que esta Comarca é composta por Municípios pequenos, de pacata vida social, sendo inegável que a ocorrência de tráfico, com a alta quantidade de entorpecente 176 gramas de maconha, sendo o Autuado reincidente por já ter recebido condenação pretérita pelo mesmo crime de tráfico, havendo ainda tumulto na prisão, com necessário uso progressivo de força dos milicianos, revela uma verdadeira afronta à Ordem Pública, eis que, se libertado o acusado, não haveria resposta efetiva Estatal contra essa prática repulsiva. ..
+Como se vê, decretou-se a prisão preventiva do réu, ora paciente, diante da "alta quantidade de entorpecente 176 gramas de maconha, sendo o Autuado reincidente por já ter recebido condenação pretérita pelo mesmo crime de tráfico, havendo ainda tumulto na prisão, com necessário uso progressivo de força dos milicianos".
+No entanto, além de a quantidade de droga apreendida não ser relevante, a condenação pretérita apontada (Processo nº 0012406-29.2017.8.16.0069 - fls. 111-112) deu-se por tráfico privilegiado, não obstando, dessa maneira, que o paciente aguarde o julgamento da ação penal em liberdade.
+"No caso, a despeito de o agente ser reincidente, ele foi flagrado em posse de pequena quantidade de maconha, somado ao fato de suas anotações pretéritas não envolverem violência ou grave ameaça, a saber, de furto, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional" (HC n. 679.459/AL, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/9/2021, DJe de 7/10/2021).
+Ante o exposto, dou provimento ao recurso em habeas corpus para determinar a soltura de EDER ANTONELLI CHAVES, se por outro motivo não estiver preso, devendo o réu, ora recorrente, indicar e manter atualizados, para fins de comunicação processual, endereço e telefone pessoais ao juízo de origem (Processo nº 0010337-48.2022.8.16.0069 - Vara Criminal de Cianorte/PR).
+Comunique-se.
+Publique-se.
+Intimem-se.
