@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Wesley Moises de Oliveira Bastos, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro, que negou provimento aos embargos infringentes (Embargos infringentes n. 0198437-47.2021.8.19.0001), mantendo o acórdão da apelação parcialmente provido (Apelação criminal n. 0198437-47.2021.8.19.0001), afastando a possibilidade de absolvição pelo princípio da insignificância em razão da reincidência do paciente.
+Neste writ, busca-se o reconhecimento da atipicidade material do delito de furto, em razão da aplicação ao presente caso do princípio da insignificância (fl. 6).
+Acrescenta-se que, no presente caso, o valor do bem furtado é irrisório, uma vez que se trata de uma bandeja de bacalhau da Rede de Supermercados Extra, configurando a mínima ofensividade e a reduzidíssima reprovabilidade da conduta, bem como os fatos não foram violentos e nem geraram risco à sociedade (fl. 6).
+Requer-se, assim, seja concedida a ordem, desconstituindo-se o v. acórdão, para absolver o acusado do delito do art. 155, caput, do Código Penal, nos termos do art. 386, III, do Código de Processo Penal (fls. 12/13).
+É o relatório.
+Busca a impetrante o reconhecimento da atipicidade material do delito de furto, em razão da aplicação ao presente caso do princípio da insignificância.
+Sob esse enfoque, pontuou a Corte estadual no julgamento dos embargos infringentes (fls. 70/71):
+ ..
+Quanto ao pedido de absolvição baseado na insignificância da conduta, frise-se que a jurisprudência é firme no sentido de que devem estar presentes as seguintes condições: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+Na hipótese, apesar de o valor do bem ser relativamente baixo, a conduta possui alto grau de reprovação social, uma vez que, no caso em análise, evidencia-se que o recorrente é duplamente reincidente em crimes da mesma natureza, indicando habitualidade delitiva, circunstância essa demonstrada pelas várias anotações criminais constantes na vasta FAC do réu acostada aos autos (ind. 170), diversas, inclusive, por crimes contra o patrimônio, como roubos e furtos.
+A conclusão é que o delito ora analisado não é um fato isolado na vida do apelante, demonstrando propensão para a reiteração delitiva.
+Na espécie, o réu é reincidente e responde a diversas outras ações penais, inclusive, por crimes contra o patrimônio.
+O entendimento adotado pelo Tribunal de Justiça vai de encontro com o da Terceira Seção desta Corte Superior, que reafirmou, no julgamento dos EAREsp n. 221.999/RS (Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 10/12/2015), o entendimento de que, em regra, a reiteração delitiva impossibilita a aplicação do princípio da insignificância nos crimes de furto, ressalvada a possibilidade de as instâncias ordinárias, no exame do caso concreto, entenderem pela sua incidência.
+Nesse sentido, confiram-se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. ART. 155, CAPUT, DO CÓDIGO PENAL - CP. 1) PLEITO ABSOLUTÓRIO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA ESPECÍFICA EM CRIME CONTRA O PATRIMÔNIO. AGRAVANTE QUE CUMPRIA PENA PELO DELITO DE FURTO QUALIFICADO À ÉPOCA DO FATO DELITUOSO SUB JUDICE. CIRCUNSTÂNCIAS QUE EVIDENCIAM MAIOR REPROVABILIDADE DA SUA CONDUTA E, POR CONSEQUÊNCIA. AFASTA O RECONHECIMENTO DA ATIPICIDADE MATERIAL DO COMPORTAMENTO. 2) AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC n. 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+1.1. Não obstante o reduzido valor da res furtiva - tratam-se de duas caixas de chocolate no valor aproximado de R$ 48,00 (quarenta e oito reais) -, a reincidência específica em crime contra o patrimônio e o fato de o ora agravante estar cumprindo pena por furto qualificado à época do fato delituoso são circunstâncias que evidenciam maior reprovabilidade do fato delituoso e obstam o reconhecimento da atipicidade material do seu comportamento.
+2. Agravo regimental conhecido e desprovido.
+(AgRg no REsp n. 2.002.318/MG, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/2/2023, DJe 14/2/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REPOUSO NOTURNO. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. MAUS ANTECEDENTES. REINCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior reafirmou, no julgamento dos EAREsp n. 221.999/RS (Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 10/12/2015), o entendimento de que, em regra, a reiteração delitiva impossibilita a aplicação do princípio da insignificância nos crimes de furto, ressalvada a possibilidade de as instâncias ordinárias, no exame do caso concreto, entenderem pela sua incidência.
+2. Na hipótese dos autos, as instâncias ordinárias afastaram a incidência do princípio da insignificância em razão da reiteração delitiva do acusado e da presença da qualificadora do repouso noturno.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.976.768/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/2/2023, DJe 16/2/2023)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO. PEDIDO DE ABSOLVIÇÃO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. REITERAÇÃO DELITIVA. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
