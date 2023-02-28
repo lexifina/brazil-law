@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito negativo de competência, suscitado pelo d. Juízo da Vara do Trabalho de Guarabira/PB em face do eg. Tribunal de Justiça do Estado da Paraíba.
+O incidente foi estabelecido nos autos de ação de reintegração de posse travada entre dois particulares, inicialmente perante a Justiça Comum do Estado da Paraíba, em que, já em sede de agravo de instrumento o eg. Tribunal de Justiça paraibano declinou da competência para a Justiça do Trabalho, alegando que a posse se devia em face de relação de trabalho que unia ambas as partes litigantes.
+O d. Juízo do Trabalho a quem a ação foi distribuída suscitou o presente conflito de competência aduzindo que a existência da suposta relação de trabalho já havia sido negada anteriormente em decisão já transitada em julgado após ter sido confirmada, por substituição, pelo eg. TST.
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+Ademais, a questão é de singela resolução.
+Com efeito, como de trivial sabença, a competência em razão da matéria é fixada a partir da causa de pedir e do pedido deduzidos em juízo, conforme definidos na petição inicial da ação, na contestação e nos atos processuais posteriores.
+Assim, na análise das peças que instruem o presente, colhe-se que a ação de reintegração de posse envolve duas pessoas não ligadas entre si por relação de trabalho, mas sim por qualquer outro vínculo que não encontra na Justiça do Trabalho Foro competente para dirimir seus litígios.
+A propósito, confiram-se as seguintes passagens da decisão do Juízo do Trabalho suscitante:
+"Com todas as vênias, entendo que a decisão do E. TJPB baseia-se em premissa equivocada. De fato, se se tratasse de comodato firmado em decorrência de relação emprego, não haveria dúvida quanto à competência desta Justiça Especializada.
+No entanto, nos autos do Proc. 0000535-28.3016.5.13.0018, que tramitou inicialmente perante a Vara Trabalhista de Areia, e depois foi enviado para esta Vara, após decisão da Primeira Instância, que julgou parcialmente procedente o pedido, a Colenda Segunda Turma do TRT deu provimento ao recurso apresentado pelo reclamado para "aplicando a prescrição bienal, declarar extinto o processo com resolução de mérito, nos termos do art. 487,II do CPC." O promovido, que era reclamante naquele processo, apresentou Recurso de Revista ao TST, cujo seguimento foi negado por este Regional, tendo ele ingressado posteriormente com Agravo de Instrumento. O TST conheceu o agravo, mas negou-lhe provimento, tendo aquela ação transitado em julgado.
+Destaco que naquele processo se discutia a própria existência ou não de relação de emprego entre os litigantes, a mesma relação de emprego da qual teria derivado o comodato, destacando que a defesa, naquele processo, negou o vínculo empregatício" (nas fls. 2.179/2.180).
+Assim, no caso em comento, como a causa de pedir e o pedido não remontam à atos cometidos no âmbito de relação de trabalho, o conhecimento e o julgamento da lide competem à Justiça comum.
+Ante o exposto, conheço do conflito para declarar a competência do eg. Tribunal de Justiça do Estado da Paraíba.
+Publique-se.
