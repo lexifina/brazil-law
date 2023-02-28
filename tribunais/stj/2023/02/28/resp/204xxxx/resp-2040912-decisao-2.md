@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por SABARÁLCOOL S/A AÇÚCAR E ÁLCOOL com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE OBRIGAÇÕES PRINCIPAIS TRADUZIDO. APELAÇÃO 1. CONVERSÃO DA MOEDA ESTRANGEIRA EM NACIONAL.COM BASE NA COTAÇÃO DO DÓLAR DA DATA DO VENCIMENTO ANTECIPADO DA DÍVIDA. CONSIDERADA A CONSTITUIÇÃO EM MORA DO DEVEDOR PRINCIPAL. CORREÇÃO MONETÁRIA. DATA DA CONVERSÃO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. MAJORAÇÃO. INCIDÊNCIA DO ART. 85, §11 DO CPC/15. APELAÇÃO 2. NÃO OCORRÊNCIA DA CONDIÇÃO. HIGIDEZ DO TÍTULO DEMONSTRADA. AUSÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO CREDOR. EXCESSO DECOTADO. ILIQUIDEZ DO TÍTULO. NÃO CONFIGURADA. INAPLICABILIDADE DA SANÇÃO PREVISTA NO ART. 940, DO CC/02. CRITÉRIOS NÃO PREENCHIDOS. SUCUMBÊNCIA RECÍPROCA. ART. 86 DO CPC/15. ADEQUAÇÃO. CUSTAS E DESPESAS PROCESSUAIS. CONDENAÇÃO DA PARTE EMBARGANTE AO PAGAMENTO DE 60% (SESSENTA POR CENTO) E À PARTE EMBARGADA 40% (QUARENTA POR CENTO) DO MONTANTE TOTAL. HONORÁRIOS ADVOCATÍCIOS. AO PROCURADOR DA EMBARGANTE FIXADOS EM 10% (DEZ POR CENTO) COM BASE NO PROVEITO ECONÔMICO OBTIDO. HONORÁRIOS AO PROCURADOR DA EXEQUENTE ARBITRADOS EM 10% (DEZ POR CENTO) COM BASE NO VALOR ATUALIZADO DA EXECUÇÃO (EXCLUÍDO O DECOTE - ABRANGIDOS OS EMBARGOS E A EXECUÇÃO).
+Apelação Cível 1 desprovida.
+Apelação Cível 2 parcialmente provida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente que o Tribunal a quo, ao não valorar adequadamente a prova referente ao depósito judicial e respectivo levantamento, negou vigência ao art. 371 do CPC/2015.
+Obtempera, outrossim, que a repetição do indébito deve ser na forma simples, na melhor interpretação do art.940 do Código Civil.
+O prazo para apresentação das contrarrazões ao recurso especial decorreu in albis.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de embargos à execução referente a Contrato de Obrigações Principais Traduzido, em que se pleiteia a extinção da execução em razão da iliquidez da obrigação em razão dos cálculos terem sido realizados de forma diversa descrita na petição inicial, ato jurisdicional que implica em error iuris.
+O pedido recursal consiste, primordialmente, em reconhecer, nos termos do art. 371 do CPC/2015, que não há prova nos autos da execução acerca da condição imposta no título executivo, isto é, de que tenha ocorrido o depósito judicial, o que lhe retiraria a liquidez.
+Acerca do tema principal defendido no presente recurso especial, o Tribunal a quo asseverou o que segue em tela, in verbis:
+Não há o que se falar em ausência de ocorrência de condição para o exercício do direito à execução.
+Restou incontroverso o reconhecimento pelos contratantes de que o depósito foi realizado e sacado pelo cedente Multibank, tornando definitiva a sub-rogação contratada e legitimando a demanda, nos termos constante da letra "G" do contrato,(..) (Destaque nosso)
+Depreende-se do trecho supratranscrito que o Tribunal a quo reconheceu a existência do depósito, contexto que não pode ser afastado sem que haja incursão no acervo-fático probatório dos autos, técnica vedada no âmbito do recurso especial ante o óbice da Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não há como acolher a pretensão recursal relativa à nulidade da execução sob a fundamentação de que o título careceria de liquidez, pois demandaria promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+2. Conforme entendimento desta Corte, não há falar em violação ao contraditório ou ao princípio da ampla defesa, pois "a aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure." (AgInt no AREsp n. 1.860.750/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 18/4/2022.).
+3. Agravo interno desprovido.
+(AgInt no REsp 1974772/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA , julgado em 12/9/2022, DJe de 16/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. 2. TÍTULO EXECUTIVO. NOTA PROMISSÓRIA. NULIDADE AFASTADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (Súmula n. 211/STJ).
+1.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+2. Reverter a conclusão do colegiado originário (acerca da presença dos requisitos de exigibilidade e liquidez do título executivo) demandaria o revolvimento do acervo fático-probatório dos autos e de cláusulas contratuais, o que é vedado dada a natureza excepcional da via eleita, consoante o enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1977474/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/5/2022, DJe de 11/5/2022)
+Relativamente à repetição do indébito, pretende a parte recorrente ver sua aplicação na forma simples, porquanto não atestada sua má-fé. Todavia, afirmou o Tribunal a quo que no presente caso não cabe qualquer repetição, pois não preenchidos os critérios necessários para aplicação do art. 940 do Código Civil. Confira-se trecho do voto condutor do acórdão recorrido:
+Requer a apelante seja determinada a repetição simples do indébito.
+Para a configuração do dever de indenizar, pautado na hipótese do art. 940 do CC, consolidou-se a jurisprudência pátria para a aferição concomitante dos critérios de ordem objetiva e subjetiva, respectivamente: a) a cobrança em si de dívida já quitada, ainda que parcialmente, sem ressalva dos valores já recebidos; e b) a demonstração de má-fé do credor que a demanda.
+(..)
+Desse modo, a sanção de repetição de indébito prevista neste dispositivo é condicionada, além do fato da dívida ser cobrada indevidamente, à comprovação de má-fé da parte.
+É de se repisar que a má-fé, ao contrário da boa-fé, não se presume, devendo sempre restar cabalmente demonstrada para o fim de que se apliquem seus efeitos, como o do art. 940 do Diploma Civil.
+Portanto, não cabe qualquer repetição, nem como requerido, simples, do valor cobrado em excesso, merecendo ser mantida a r. sentença, pois não preenchidos os critérios necessários para aplicação do art. 940 do CC. (Destaque nosso)
+Em suas razões, não desenvolveu a recorrente argumentação visando desconstituir referidas fundamentações, ou seja, não impugnou especificamente as razões de decidir que se pautam no não cabimento da repetição, atraindo, no ponto, a inteligência da Súmula 283/STF.
+No mesmo sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLÊNCIA. PLANO DE SAÚDE. UTILIZAÇÃO DE DOCUMENTOS FALSIFICADOS. MAJORAÇÃO DO VALOR DO DANO MORAL. CABIMENTO. ADEQUAÇÃO DO VALOR. PARÂMETROS JURISPRUDENCIAIS. DANO PRESUMIDO. ABALO DE CRÉDITO. NULIDADE NA INTIMAÇÃO DA SENTENÇA. NULIDADE DE TODOS OS ATOS PROCESSUAIS SUBSEQUENTES. CONVALIDAÇÃO POR COMPARECIMENTO ESPONTÂNEO. PRECLUSÃO. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na espécie, não houve a demonstração clara e precisa dos motivos pelos quais o acórdão recorrido teria vulnerado o dispositivo apontado no apelo extremo para a manutenção do valor de condenação em honorários advocatícios de sucumbência, incidindo a Súmula nº 284/STF.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.929.447/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/2/2022, DJe de 3/3/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela inexistência de fatos novos supervenientes aptos a provocar a reconsideração pretendida. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Nos termos da jurisprudência desta Corte, "ocorre a preclusão consumativa mesmo quando se tratar de matéria de ordem pública (liquidez do título executivo) que tenha sido objeto de anterior decisão já definitivamente julgada"(AgRg no REsp n. 1487080/PR, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/5/2015, DJe 28/5/2015). Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.150.934/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/2/2022, DJe de 25/2/2022)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 255, §4º, I, do RISTJ, não conheço do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
