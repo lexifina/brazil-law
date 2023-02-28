@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VANUSA PAULO DE LIRA em face de decisão de fls. 1.012/1.013 (e-STJ), que acolheu os embargos de declaração opostos por FREMA CONSULTORIA IMOBILIÁRIA LTDA, a fim de sanar omissão quanto à inversão dos ônus sucumbenciais diante do reconhecimento da ilegitimidade passiva da ora embargada.
+A parte embargante, em suas razões recursais, alega omissão e contradição na decisão embargada no que toca à fixação da verba sucumbencial em decorrência da concessão das benesses da justiça gratuita às fls. 158 (e-STJ).
+A parte embargada não apresentou impugnação (e-STJ, fl. 1.009).
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Assiste razão assiste à parte embargante, visto que a decisão embargada é omissa, pois ao inverter os ônus sucumbenciais olvidou-se quanto à concessão das benesses da justiça gratuita à embargante.
+Vale ressaltar, por outro lado, que o deferimento da assistência judiciária gratuita não isenta o beneficiário dos ônus sucumbenciais, apenas suspende sua exigibilidade pelo período de 5 (cinco) anos ou até que cesse a situação de hipossuficiência. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. EXIGIBILIDADE SUSPENSA. ART. 12 DA LEI 1.060/50. ALTERAÇÃO DA SITUAÇÃO ECONÔMICA DO EXECUTADO NÃO DEMONSTRADA. REVISÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte Superior, "o beneficiário da justiça gratuita não é isento do pagamento dos ônus sucumbenciais, apenas sua exigibilidade fica suspensa até que cesse a situação de hipossuficiência ou se decorridos cinco anos, conforme prevê o art. 12 da Lei 1.060/50" (AgRg no AREsp 590.499/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/11/2014, DJe de 21/11/2014).
+2. Na hipótese dos autos, a Corte de origem entendeu que não ficou demonstrada a alteração da situação econômica do agravado que permitisse a execução dos honorários advocatícios. Infirmar as conclusões do julgado, nesse ponto, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra óbice no enunciado da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.413.182/AC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/04/2015, DJe de 11/05/2015)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/1973. CONTRATO DE COMPRA E VENDA DE VEÍCULO E CONTRATO DE FINANCIAMENTO. VÍCIO DO PRODUTO. INEXISTÊNCIA DE ACESSORIEDADE ENTRE OS CONTRATOS. PARTE BENEFICIÁRIA DA GRATUIDADE JUDICIÁRIA. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. SUSPENSÃO DA EXIGIBILIDADE DO PAGAMENTO. DECISÃO MANTIDA.
+1. Consoante jurisprudência desta Corte não há relação de acessoriedade entre o contrato de compra e venda de bem de consumo e o de financiamento bancário com alienação fiduciária destinado a viabilizar a aquisição, haja vista a autonomia dos negócios jurídicos realizados. Precedentes.
+2. "A parte beneficiária da justiça gratuita também está sujeita aos ônus de sucumbência, não se desonerando, dessa forma, das verbas dela decorrentes, quando vencida. Apenas a exigibilidade do pagamento respectivo deve ficar suspensa, nos termos do art. 12 da Lei n.º 1.060/50. Precedentes" (AgRg na SEC 9.437/EX, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/4/2016, DJe 6/5/2016.)
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.252.879/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/06/2016, DJe de 09/06/2016)
+Reconhecida a omissão, passa-se à sua correção, devendo constar o seguinte trecho no dispositivo do decisum embargado:
+" Nos termos do art. 85, § 2º, do CPC/2015, condeno a parte autora, ora recorrida, ao pagamento de custas e honorários sucumbenciais, os quais fixo em 10% sobre o valor da causa, com a ressalva do disposto no art. 12 da Lei 1.060/50 em razão do deferimento da assistência judiciária gratuita."
+Diante do exposto, embargos de declaração acolhidos, na forma acima.
+Publique-se.
