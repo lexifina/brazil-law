@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, a, da Constituição Federal, interposto por JOSÉ FRANCISCO GRIEBELER contra v. acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - PROMESSA DE COMPRA E VENDA DE IMÓVEL - INEXECUÇÃO CONTRATUAL - IMPOSSIBILIDADE DE TRANSFERÊNCIA DO DOMÍNIO DO IMÓVEL - PRETENSÃO RESSARCITÓRIA DEDUZIDA EM FACE DO PROPRIETÁRIO REGISTRAL, E NÃO DO PROMITENTE VENDEDOR - INEXISTÊNCIA DE RELAÇÃO JURÍDICA OU OBRIGACIONAL ENTRE AUTOR E RÉU - AUSÊNCIA DE LIAME DE CAUSALIDADE A CARACTERIZAR O DEVER DE INDENIZAR - SENTENÇA REFORMADA - RECURSO PROVIDO.
+A promessa de compra e venda possui natureza de contrato preliminar, envolvendo a assunção de compromisso futuro, consistente em obrigação de fazer, de adotar os procedimentos necessários à transferência da propriedade do bem negociado após integral pagamento do preço ajustado, em que o vínculo jurídico formado entre os contratantes é de índole marcadamente pessoal, dada a natureza obrigacional do negócio jurídico, com força obrigacional própria e de eficácia irrecusável entre eles, e somente entre eles se não for levado a registro, como ocorreu na hipótese dos autos, logo, independente do que motivou a inexecução do contrato firmado entre o autor e o promitente vendedor, o fato é que compete a este, e não ao réu/titular registral do bem, responder pelos prejuízos decorrentes da inexecução contratual, seja a título ressarcitória do despendido com o negócio, seja a título de perda e danos.
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 1.245, §1º, do Código Civil. Sustenta, em síntese, que a parte recorrida possui legitimidade para figurar no polo passivo da demanda, uma vez que "a negligência do requerido, ora recorrido, em promover a transmissão formal da propriedade do imóvel em debate quando praticou a primeira alienação, evidentemente desencadeou e contribuiu para ocorrência do evento danoso em questão. Ora, se o recorrido, quando vendeu o bem em debate para terceiro, tivesse promovido, oportunamente, como dita a lei, a transmissão formal da propriedade do imóvel para o então comprador, deixando regular a sua situação perante o registro civil competente, teria tornado público tal ato e, por conseguinte, o requerente, ora recorrente, seria conhecedor desta transação, evitando-se toda a situação reportada nos autos." (fl. 478).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, não merece acolhida a alegada violação ao art. 1245, §1º, do Código Civil, tendo em vista que o conteúdo normativo do referido dispositivo não foi devidamente analisado pelo Tribunal de origem, tampouco foram opostos embargos de declaração na origem, o que acarreta a ausência de prequestionamento da matéria, nos termos das Súmulas 282 e 356 do STF. Nesse sentido, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO EXTRAJUDICIAL. DECRETAÇÃO DE FALÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. MOTIVAÇÃO EM PARTE NÃO COMBATIDA. AUTOFALÊNCIA. REGULARIDADE DO PROCEDIMENTO. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULAS 282, 283, 284 E 356/STF E 5, 7, 83 E 182/STJ.
+1. Não tendo havido o prequestionamento de parte dos dispositivos legais postos em debate nas razões do recurso especial, incidente os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp 6.617/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. ATRASO NA ENTREGA DE VEÍCULO. SOLIDARIEDADE (SÚMULA 83/STJ). MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 7/STJ). AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356 DO STF). DIVERGÊNCIA JURISPRUDENCIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284/STF). RECURSO NÃO PROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282
+e 356 do STF.
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp 1598606/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/11/2020, DJe 17/12/2020)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, não conheço do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 10% para 11% sobre o valor da causa.
+Publique-se.
