@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por SATEC TERRAPLENAGEM E CONSTRUÇÃO LTDA, a decisão de minha lavra, que deu provimento ao Recurso Especial, interposto pela FAZENDA NACIONAL, para afastar a condenação do ente público ao pagamento dos honorários advocatícios.
+Sustenta a parte embargante, em síntese, a existência de omissão, eis que, "a decisão ora embargada não analisou questão de extrema importância e incontroversa no presente agravo, o que consiste na resistência da União ao reconhecimento da prescrição intercorrente, circunstância esta que afasta o entendimento adotado no presente acordão" (fl. 580e).
+Não houve impugnação da parte embargada.
+Do exame dos autos, verifica-se que o objetivo da parte embargante é desconstituir a decisão de fls. 575/577e, razão pela qual recebo os Embargos Declaratórios como Agravo interno e, tendo em conta os fundamentos do embargante, reconsidero a decisão proferida e passo a um novo exame do Recurso Especial.
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"TRIBUTÁRIO. APELAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. PARTE EXECUTADA APRESENTOU DEFESA. CABIMENTO.
+1- Trata-se de apelação cível interposta por SATEC TERRAPLENAGEM E CONSTRUCAO LTDA em face de sentença que extinguiu a execução com julgamento de mérito, nos termos do art. 487, II, do CPC, e artigo 40, § 4º, da LEF, em função da prescrição intercorrente, mas não condenou a União ao pagamento de honorários advocatícios.
+2- Na hipótese dos autos, por não atender aos ditames do artigo 19, § 1º, I, da Lei nº 10.522/02, cabível a condenação da Fazenda Nacional em honorários advocatícios. É que, intimada para se manifestar sobre o pedido de extinção da execução em função da prescrição intercorrente, a Exequente informou não ter identificado causas de suspensão e interrupção da prescrição. A referida manifestação da União Federal não pode ser interpretada como inexistência de resistência, muito menos atende ao que determinado no dispositivo legal acima mencionado, que exige a expressa manifestação do Ente Público no sentido de concordar cum a extinção do feito.
+3- Apelação provida para condenar a UF/FN em honorários advocatícios, fixados nos percentuais mínimos estabelecidos no art. 85, §§ 2º e 3º, do CPC" (fl. 479e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 512/521e).
+A parte recorrente alega violação ao art. 85, caput e § 10 do CPC/2015, sustentando, em síntese, que "a propositura da presente execução fiscal deu-se em virtude do inadimplemento da obrigação tributária pela parte executada, circunstância que em nada se altera com o eventual decurso do prazo de prescrição intercorrente. Corroborando tal entendimento, tem-se o disposto no § 10 do art. 85 do CPC, segundo o qual, "nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo"" (fl. 531e); que "à luz do princípio da causalidade, deve ser afastada a condenação da União ao pagamento de honorários advocatícios" (fl. 532e).
+Não foram apresentadas as contrarrazões.
+O Recurso Especial foi admitido (fls. 556/558e).
+Na origem, trata-se de Execução Fiscal, a qual foi extinta, em face da prescrição intercorrente, nos termos do art. 40, § 4º, da Lei 6.830/80, sem a condenação em custas e honorários.
+A Executada interpôs recurso de apelação, sendo que o Tribunal de origem deu provimento ao recurso, para condenar a Fazenda Pública ao pagamento dos honorários advocatícios.
+Daí a interposição do Recurso Especial pela Fazenda Nacional, que não merece ser conhecido.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Na hipótese dos autos, por não atender aos ditames do artigo 19, § 1º, I, da Lei nº 10.522/02, cabível a condenação da Fazenda Nacional em honorários advocatícios.
+É que, intimada para se manifestar sobre o pedido de extinção da execução em função da prescrição intercorrente, a Exequente informou não ter identificado causas de suspensão e interrupção da prescrição (evento54). A referida manifestação da União Federal não pode ser interpretada como inexistência de resistência, muito menos atende ao que determinado no dispositivo legal acima mencionado, que exige a expressa manifestação do Ente Público no sentido de concordar com a extinção do feito" (fls. 459/460e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, reconsidero a decisão de fls. 575/577e, e, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial interposto pela FAZENDA NACIONAL.
+I.
