@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por CORSEC CLUBE BENEFICENTE DO BRASIL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA DE SEGURO. CIVIL E PROCESSO CIVIL. PRELIMINARES DE ILEGITIMIDADE PASSIVA AFASTADAS. SEGURO DE VIDA - APÓLICE INDIVIDUAL. VIGÊNCIA DO SEGURO NA DATA EM QUE OCORREU O ÓBITO DO SEGURADO - RENOVAÇÃO AUTOMÁTICA - CLÁUSULA CONTRATUAL. DESCONTOS DOS VALORES NO CONTRA CHEQUE DO AUTOR. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA SOBRE A RESCISÃO DO CONTRATO - RENOVAÇÃO AUTOMÁTICA. NEGATIVA DOS RÉUS EM REALIZAR O PAGAMENTO REGULAÇÃO - DANO MORAL CONFIGURADO. RS 3.000,00. RECURSOS CONHECIDOS PARA LHES NEGAR PROVIMENTO. DECISÃO UNÂNIME.
+Quanto à controvérsia recursal, alega violação dos arts. 303, 337, XI, do CPC; e 801 do CC, no que concerne à ilegitimidade passiva da Recorrente para figurar em ação de cobrança de indenização securitária, eis que participou somente como estipulante do contrato, limitando sua atuação na conjunção entre o Contratante/Beneficiário e a Seguradora/Contratada, trazendo o(s) seguinte(s) argumento(s):
+De acordo com a peça exordial, a Autora/Recorrida, pretende o recebimento dos valores referentes ao Contrato de Seguro firmado com a METLIFE na qual a recorrente participou somente como ESTIPULANTE do contrato:
+ ..
+De acordo com os fatos exaustivamente expostos ao longo da demanda e supra aduzidos, resta flagrante a ilegitimidade passiva da Recorrente, seja em virtude da inexistência de participação ou por ausência de ter compromissado qualquer responsabilidade contratual.
+Ademais, houve também o cancelamento do seguro, momento em que, houve a rescisão integral de qualquer participação pela Recorrente. Se houve o cancelamento unilateral pela Seguradora, conforme entendeu o Acórdão ao julgar os recursos de apelação, dever-se-ia reconhecer a responsabilidade somente daquela.
+O Art. 1º da resolução CNSP nº 107 de 2004 da SUSEP, caracteriza que a estipulante é meramente a representante dos segurados perante as seguradoras, não havendo responsabilidade pelo cumprimento/descumprimento do pagamento de indenização.
+ ..
+Ou seja, a Estipulante/Recorrente, participa da relação contratual como espécie de corretora, limitando a sua atuação na conjunção entre o Contratante/Beneficiário e a Seguradora/Contratada (fls. 1026/1027).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No que tange à solidariedade entre a estipulante e a seguradora, esta é patente.
+Tal constatação é reforçada pela existência de diversos documentos fazendo parte integrante do conjunto fático-probatório, às fls. 171/175, 633/650.
+Foi juntado aos autos, fls. 645, um Anexo de Comissionamento, estabelecendo um cenário onde será paga à estipulante uma comissão correspondente a 20% (vinte por cento) dos prêmios mensais.
+Consta a marca da CORSEC existente na Carta-proposta de fls. 171, formalizada em 22.08.2002, discriminando as informações pessoais do demandante, então segurado, e todos os dados necessários para contratação do seguro e sua respectiva beneficiária.
+No instrumento contratual de fls. 633, figuram a CORSEC e a METROPOLITAN, consubstanciando a relação jurídica principal, nos termos em que foi celebrado o contrato entre a seguradora e a estipulante, : ipsis litteris A Seguradora e o Estipulante firmam o presente contrato de seguro, que será regido pelas cláusulas a seguir:
+Trata-se de contrato por adesão, quando as relações jurídicas entre segurador e segurado são inseridas no âmbito do contrato-padrão.
+À base desses pressupostos, tem-se como certo a legitimidade da CORSEC como empresa integrante do polo passivo da demanda (fls. 922).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
