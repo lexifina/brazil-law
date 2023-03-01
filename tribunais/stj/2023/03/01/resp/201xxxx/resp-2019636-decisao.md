@@ -1,0 +1,28 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por JOAO BOSCO DE MENDONCA com arrimo no art. 105, inciso III, alíneas "a" e "c" da Constituição da República contra acórdão do Tribunal de Justiça do Estado do Espírito Santo (fl. 304):
+EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. EMPRÉSTIMO PESSOA JURÍDICA. CDC. INAPLICABILIDADE. COMISSÃO DE CONCESSÃO DE GARANTIA (CCG). POSSIBILIDADE DE COBRANÇA. TARIFA DE ABERTURA E RENOVAÇÃO DE CRÉDITO (TARC). SÚMULA 565/STJ. CONTRATO FIRMADO APÓS A RESOLUÇÃO CMN 3.518/2007. REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. APELAÇÃO CÍVEL PARCIALMENTE PROVIDA.
+1. A questão devolvida ao Tribunal resume-se a verificar a legalidade na cobrança da Tarifa de Abertura e Renovação de Crédito (TARC) e de Comissão de Concessão de Garantia (CCG) no âmbito do contrato firmado entre as partes, bem como possibilidade de que a repetição do indébito seja feita pelo dobro do valor eventualmente pago a maior, nos termos do art. 42, parágrafo único, do CDC.
+2. Não incide o Código de Defesa do Consumidor em contratos de empréstimo bancários firmados por pessoa jurídica com finalidade de formentar sua atividade empresarial, uma vez que a devedora afasta-se do conceito de "destinatária final" do produto (art. 2º CDC).
+3. Em contratos bancários, é válida a cobrança de tarifas e encargos, desde que expressamente autorizados em ato normativo regularmente expedido pelo Conselho Monetário Nacional - CMN e destinados a remunerar um serviço efetivamente prestado ao cliente, distinto daquele objeto do contrato.
+4. A Cédula de Crédito Bancário foi firmada com garantia prestada pelo Fundo de Garantia de Operações - FGO, tendo sido expressamente prevista a cobrança da Comissão de Concessão de Garantia - CCG no item 2 da CCB. A Lei nº 12.087/09, que permitiu a participação da União em fundos destinados à garantia de operações de crédito (a exemplo do Fundo de Garantia de Operações),autoriza a cobrança da comissão pecuniária com a finalidade de remunerar o risco assumido em caso de inadimplemento, bem como os custos financeiros da operação, sendo recebida diretamente do tomador do empréstimo. Sendo assim, não há abusividade na cobrança da Comissão de Concessão de Garantia - CCG, eis que devidamente respaldada pela Lei nº 12.087/09 com o objetivo de remunerar o risco assumido pelo financiamento concedido, havendo expressa previsão no contrato.
+5. A Tarifa de Abertura e Renovação de Crédito - TARC era cobrada pelas instituições financeiras como contraprestação pela mera concessão do financiamento bancário. Por meio da edição da Súmula565, o Colendo Superior Tribunal de Justiça consolidou o entendimento no sentido de que, nos contratos firmados após 30 de abril de 2008, data em que entrou em vigor a Resolução CMN nº3.518/2007, não é mais permitida a pactuação de Tarifa de Abertura de Crédito (TAC), de Tarifa de Emissão de Carnê (TEC), ou qualquer outra tarifa com o mesmo fato gerador. Isso porque a Resolução CMN nº 3.518/2007 substituiu a Resolução CMN nº 2.303/1996, que autorizava a cobrança dessas tarifas, mas que deixou de ser permitida com o advento da nova Resolução.
+6. A cobrança da Tarifa de Abertura e Renovação de Crédito - TARC mostra-se indevida, tendo em vista que a Cédula de Crédito Bancário foi firmada em 05 de agosto de 2016 (portanto, após a entrada em vigor da Resolução CMN nº 3.518/2007), não sendo mais permitida a cobrança dessa tarifa à luz da legislação vigente à época.
+7. Apelação Cível conhecida e parcialmente provida.
+Em suas razões, a recorrente sustentou violação ao art. 39, inciso V e 51, inciso IV, §1º, inciso III, da Lei n.º 8.078/90, além da existência de divergência jurisprudencial, ao argumento de que é ilegal a cobrança da Comissão da Concessão de Garantia pelo Banco Credor. Acenou pela ocorrência de dissenso jurisprudencial. Requereu o provimento do recurso.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+Conforme a jurisprudência do Superior Tribunal de Justiça, nos contratos de financiamento em que a garantia é complementada pelo Fundo de Garantia de Operações (FGO), a Comissão de Concessão de Garantia (CCG) pode ser repassada ao tomador do empréstimo, desde que expressamente pactuada.
+A propósito:
+RECURSO ESPECIAL. DIREITO BANCÁRIO. EMBARGOS À EXECUÇÃO. CONTRATO DE FINANCIAMENTO. FUNDO DE GARANTIA DE OPERAÇÕES (FGO). COMISSÃO DE CONCESSÃO DE GARANTIA (CCG). TOMADOR. REPASSE. POSSIBILIDADE. LEI Nº 12.087/2009. PREVISÃO LEGAL EXPRESSA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos contratos de financiamento em que a garantia é complementada pelo Fundo de Garantia de Operações (FGO), a Comissão de Concessão de Garantia (CCG) pode ser repassada ao tomador do empréstimo, desde que expressamente pactuada.
+3. Recurso especial provido. (REsp n. 1.848.714/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/11/2022, DJe de 9/12/2022.)
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO BANCÁRIO. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. EMPRÉSTIMO PESSOA JURÍDICA. COMISSÃO DE CONCESSÃO DE GARANTIA (CCG). POSSIBILIDADE DE COBRANÇA.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, nos contratos de financiamento em que a garantia é complementada pelo Fundo de Garantia de Operações (FGO), a Comissão de Concessão de Garantia (CCG) pode ser repassada ao tomador do empréstimo, desde que expressamente pactuada.
+2. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
