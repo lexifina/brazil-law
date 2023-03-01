@@ -1,0 +1,45 @@
+DECISÃO
+Relatou Ministro Og Fernandes, Vice-Presidente desta Corte, no exercício da Presidência, ao indeferir a liminar (fl. 116):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de AILTON SOUZA DOS SA NTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao Agravo em Execução n. 9000189-82.2022.8.26.0637, consoante a seguinte ementa (fl. 107):
+Agravo em execução. Falta grave. Tentativa de introdução de aparelho celular e/ou acessórios no interior do presídio. Pleito de desconstituição da falta sob a alegação de que o sentenciado não pode ser punido por ato de terceiro. Inadmissibilidade. Comprovação do fato por meio de procedimento investigatório regularmente efetuado. Fixação da perda de 1/3 dos dias remidos bem fundamentada e que deve ser mantida. Manutenção da decisão recorrida. Recurso não provido.
+No presente mandamus, sustenta a impetrante que a imputação da prática de falta grave em razão de conduta praticada por terceiro viola o princípio constitucional da intranscendência.
+Pretende-se, pois, seja afastada a anotação da prática de falta grave.
+Informações prestadas (fls. 121/123).
+O Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 127/132).
+É o relatório.
+O Tribunal a quo manteve a homologação da falta grave nos seguintes termos:
+ ..
+O procedimento disciplinar demonstra que por ocasião de procedimento de revista, através do scanner corporal, foi constada a presença de material metálico nas partes íntimas da visitante Ana Lúcia Alves da Silva, cadastrada como companheira do agravante. Questionada a respeito do que se tratava, a visitante nada disse; todavia, quando questionada novamente, acabou confirmando estar de posse de um aparelho celular introduzido em sua vagina. Conduzida a uma sala reservada, a visitante não conseguiu retirar o objeto ilícito e aceitou ser encaminhada para atendimento médico na Santa Casa. A polícia civil foi acionada e a visitante foi encaminhada à Santa Casa, local onde foi retirado um invólucro cilíndrico, contendo em seu interior uma placa de aparelho de telefonia móvel.
+A versão do agravante, negando ter solicitado que sua companheira ingressasse no presídio com o objeto apreendido (fls. 47/48), restou isolada nos autos e não merece acolhida.
+Ora, o ônus da prova incumbe a quem alega, de modo que deveria o agravante comprovar que sua companheira tentou prejudicá-lo e disso não há notícia nos autos.
+Pelo contrário, ouvida no curso da sindicância, Ana Lúcia respondeu afirmativamente, quando questionada se o recluso Ailton Souza dos Santos tinha conhecimento dos fatos (fls. 32).
+Por sua vez, os agentes de segurança penitenciária Altair Luiz Silva Bento (fls. 41/42), Rozenei Batista Miola Dias (fls. 43/44) e Itamar Caetano da Silva (fls. 45/46), em relatos seguros e convincentes, absolutamente consonantes com o histórico de boletim de ocorrência (fls. 15/16), também deram plena conta do ocorrido, evidenciando a falta grave praticada pelo ora agravante.
+Assim, não que se falar que o agravante está sendo punido por fato praticado por terceiro, não havendo dúvida de que ele foi participe na empreitada de tentar introduzir no presidio a placa de aparelho de telefone celular, por intermédio de sua companheira Ana Lúcia, como, de resto, foi por ela própria admitido, o que também foi confirmado pelos agentes penitenciários.
+ ..
+Esta Corte possui o entendimento de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos (HC n. 372.850/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 25/4/2017).
+Nesse contexto, do que consta dos autos verifica-se que não foram apresentados elementos concretos de que o paciente solicitou ou teve qualquer participação na tentativa de ingresso de sua companheira, no interior do presídio, por ocasião do dia de visita, de placa de aparelho celular (fl. 62). Assim, a conduta praticada por terceiro não pode ser reconhecida como falta grave para o réu sob pena de violação do princípio da intranscendência penal (art. 5º, inciso XLV, da Constituição Federal).
+Vale salientar que, no parecer do Ministério Público estadual, o nobre promotor destacou que, no caso dos autos, a visitante do sentenciado foi surpreendida na posse de uma placa de carregador de telefone celular no momento em que ela era revistada para entrar na Unidade. Devido a atuação dos funcionários, o aparelho sequer chegou às mãos do sentenciado, que negou qualquer envolvimento com o fato (fl. 47), cuja conduta, portanto não encontra tipificação no art. 50 da LEP que define e enumera taxativamente as situações que configuram falta grave (fl. 72).
+Nessa linha, confiram-se estes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE IMPUTADA AO REEDUCANDO POR ATO DE TERCEIRO. IMPOSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE O PACIENTE TERIA CONCORRIDO PARA A CONDUTA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior entende que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada sua autoria, através de elementos concretos.
+2. In casu, não ficou provada a prática de ato material pelo paciente. O fato de ser sua genitora a remetente do SEDEX e a simples suspeita de que ele teria sido o solicitante do entorpecente não são suficientes para afirmar a prática da falta grave, especialmente ao se considerar que o reeducando sequer teve consigo a posse do material que lhe havia sido enviado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 740.321/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/6/2022 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ATO DE TERCEIRO. AUSÊNCIA DE DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DE AJUSTE PRÉVIO. AFASTAMENTO DA FALTA GRAVE. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui o entendimento de que, "em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 25/4/2017). Nesse sentido, é possível a responsabilização do reeducando por fato praticado por terceiro, desde que sejam evidenciados indícios mínimos de participação quanto à prática do ato, baseada em elementos concretos e não apenas em meras presunções.
+2. No caso, conquanto crível a existência de ajuste prévio entre o agravado e sua genitora quanto ao envio de placa de microaparelho de telefonia celular escondida em um pote de manteiga, não houve a indicação concreta de indícios mínimos em relação a tal ajuste, de maneira que a responsabilização do paciente deu-se por meio de mera ilação, tão somente porque a genitora do agravado constava em seu rol de visitantes. Constrangimento ilegal configurado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 692.885/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2022 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ENVIO, POR TERCEIRO, VIA SEDEX, DE APARELHO CELULAR. FALTA DISCIPLINAR. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da personalidade, também conhecido como princípio da intranscendência penal, assume relevo tanto para o processo de conhecimento, quanto para o processo de execução penal.
+2. Por esse princípio, compreende-se que a pena não pode passar da pessoa do autor ou partícipe do crime. O raciocínio deve ser estendido para os casos em que se apura a prática de falta grave no âmbito da execução penal, em decorrência das implicações que sofrerá o condenado com a constatação do ato de indisciplina.
+3. Ainda que sejam fortes as suspeitas de que algum reeducando tenha solicitado a terceiros o envio, via correios, de aparelho celular, tal ilação, desamparada de outro elemento probatório concreto que indique a anuência com o ato de terceiro ou a solicitação da encomenda pelo preso, não se mostra suficiente para o reconhecimento da falta grave.
+4. Agravo regimental não provido.
+(AgRg no HC n. 723.120/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/3/2022 - grifo nosso)
+Ante o exposto, concedo a ordem para afastar o reconhecimento da falta disciplinar de natureza grave decorrente do fato havido em 22/12/2018 (fls. 79/80), bem como seus consectários legais.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. FALTA GRAVE. AUSÊNCIA DE ELEMENTOS CONCRETOS DE PARTICIPAÇÃO DO REEDUCANDO NO FATO ILÍCITO. TENTATIVA DE INGRESSO NO PRESÍDIO COM PLACA DE APARELHO CELULAR. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. C ONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
