@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado por Contisul Transportes Ltda. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 184):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CPRB NA PRÓPRIA BASE DE CÁLCULO. POSSIBILIDADE.
+1. Impõe-se reconhecer que a CPRB integra a sua própria base de cálculo, uma vez que faz parte da compos ição da receita bruta, não havendo previsão legal ou precedentes consolidados em sentido contrário.
+2. Inaplicabilidade do Tema 69.
+Opostos embargos declaratórios, foram rejeitados (fls. 211/215).
+A parte recorrente aponta violação aos arts. 8º da Lei 12.546/2011; 2º da Lei 12.973/2014; 12 do Decreto-lei 1.598/1977. Sustenta, em síntese, que "o valor referente à base de cálculo da CPRB não pode ser considerado receita, mas mero ingresso, sem repercussão patrimonial positiva. A tributação dessa quantia extrapola os limites constitucionais previstos para base de cálculo da CPRB" (fl. 228); e que, "por tais motivos, o Supremo Tribunal Federal reconheceu a inconstitucionalidade da inclusão do ICMS na base de cálculo de PIS e COFINS, conforme se depreende de trecho do voto do Ministro Marco Aurélio no RE 240.785/MG, reproduzido no RE 574.706/PR" (fl. 230). "Dessa forma, sob qualquer aspecto que se analise a questão, inconstitucional a inclusão da CPRB na sua própria base de cálculo, seja por não haver previsão legal de sua inclusão antes de 2015 ou pela inconstitucionalidade da inclusão do §5º do Decreto-Lei no 1.598/77, incluído pelo art. 2º da Lei 12.973/2014, eis que em sentido contrário ao entendimento sedimentado no âmbito do STF" (fl. 236).
+Contrarrazões às fls. 266/268.
+Recurso Extraordinário interposto às fls. 239/254, inadmitido às fls. 275/277.
+Parecer Ministerial às fls. 299/302, pelo não conhecimento do recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece trânsito.
+Em relação à controvérsia sobre a incidência da CPRB em sua própria base de cálculo, reconheceu o Tribunal de origem às fls. 187/188 (g.n.):
+Busca a impetrante afastar a inclusão da contribuição substitutiva em sua própria base de cálculo. A Contribuição Previdenciária Substitutiva foi instituída pela Lei nº 12.546/2011, que assim dispõe:
+ ..
+Assim, se vê que a contribuição substitutiva prevista no caput do artigo 8º da Lei nº 12.546/11 incide sobre o valor da receita bruta. E, no conceito de receita bruta o legislador expressamente dispôs que se incluem os tributos sobre ela incidentes e que a receita líquida será a receita bruta diminuída dos tributos sobre ela incidentes (§1º, III e §5º do artigo 12, acrescentados pela Lei nº 12.973/14), não importando que na formação do preço de venda, que vai dar origem à receita bruta, sejam tomados em consideração os custos e outras despesas decorrentes do exercício da atividade empresarial, entre elas os tributos incidentes sobre as vendas.
+No caso dos autos, pretende a impetrante ver reconhecido o direito de excluir da base de cálculo da contribuição em tela (CPRB) as parcelas relativas à própria CPRB, utilizando-se do fundamento jurídico do STF no julgamento final do RE 574.706, com repercussão geral reconhecida (Tema nº69).
+Todavia, não é de se aplicar a tese firmada no RE 574.706, indiscriminadamente, para fins de exclusão de quaisquer tributos (no caso, a CPRB) da base de cálculo de tributos que tenham como base de cálculo o faturamento ou a receita bruta (no caso, a CPRB).
+Logo, impõe-se reconhecer que a CPRB integra a sua própria base de cálculo, uma vez que faz parte da composição da receita bruta, não havendo previsão legal ou precedentes consolidados em sentido contrário.
+Nesse contexto, ressalte-se ser incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicado nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal.
+Com efeito, o Superior Tribunal de Justiça já decidiu no seguinte sentido: "Finalmente, ressalto que, apesar de ter sido invocado dispositivo legal, o fundamento central da matéria objeto da controvérsia e as teses levantadas pelos recorrentes são de cunho eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF". (REsp 1.655.968/PE, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/5/2017.)
+No mesmo sentido: AgInt no AREsp 1.448.670/AP, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 12/12/2019; AgInt no AREsp 996.110/MA, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/5/2017; AgRg no REsp 1.263.285/RJ, Relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 13/9/2012; AgRg no REsp 1.303.869/MG, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2012.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
