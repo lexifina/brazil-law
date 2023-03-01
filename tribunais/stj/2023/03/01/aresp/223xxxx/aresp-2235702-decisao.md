@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDNILSON ROBERTO AUGUSTO, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o agravante foi condenado, pelo juízo de primeiro grau, pela prática do crime previsto no art. 155, caput, c/c o art. 14, inciso II, ambos do Código Penal, à pena de 01 (um) ano de reclusão, em regime semiaberto, e pagamento de 10 (dez) dias-multa (fls. 207-210).
+O eg. Tribunal de origem, por unanimidade, negou provimento ao recurso da defesa (fls. 274-283).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, alegando (fl. 308, grifei):
+"que o v. acórdão negou vigência ao art. 14.3, alínea d, do Pacto Internacional de Direitos Civis e Políticos, tendo em vista que, a despeito do fechamento do Fórum, impossibilitando o acesso do recorrente, reputou correta a decretação de revelia, vulnerando, pois, o direito de presença.
+Ademais, o v. acórdão negou vigência ao art. 67 do Código Penal, porquanto deixou de efetuar a compensação entre a reincidência e a atenuante da confissão.
+Finalmente, houve negativa de vigência ao disposto no art. 33, § 2º, c e § 3º, do Código Penal, eis que o v. acórdão manteve o regime semiaberto".
+Apresentadas as contrarrazões (fls. 333-339), sobreveio juízo negativo de admissibilidade fundado: a) na incidência da Súmula 7/STJ; b) na incidência da Súmula 83/STJ, porquanto o acórdão está em sintonia com a jurisprudência desta Corte Superior; c) na incidência da Súmula 269/STJ; e d) na incidência da Súmula 284/STF, por deficiência na fundamentação (fls. 343-345).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 350-357).
+O Ministério Público Federal manifestou "pelo não conhecimento do recurso especial, mas pela concessão da ordem de ofício, no sentido de substituir a sanção restritiva de liberdade por pena restritiva de direitos" (fl. 390).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da incidência das Súmulas 269, 7 e 83, todas do STJ e Súmula 284/STF.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, parte das razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade das Súmulas 7 e 83, ambas do STJ.
+No que se refere aos fundamentos lançados pelo Tribunal a quo para inadmitir o apelo nobre, relativo ao fato de o acórdão recorrido estar em consonância com a jurisprudência consolidada no âmbito deste Superior Tribunal de Justiça, bem como ser necessário o reexame do material fático probatório, verifico que o agravante não cuidou de refutar, de forma específica e fundamentada, tais óbices.
+Limitou-se o agravante a mencionar, em síntese, que, "no que se refere às Sumulas 83 e 269, ambas do STJ, é certo que a Defensoria Pública apresentou razões para afastar a orientação fixada pelo Tribunal de Justiça, demonstrando argumentos que justificavam o distinguishing" (fl. 357); bem como que "percebe-se, assim, que a pretensão exposta no recurso não encontra óbice na Súmula 7 deste Superior Tribunal de Justiça, porquanto versa sobre matéria estritamente de direito, não sendo necessária a análise dos fatos" (fl. 356).
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Ademais, deveria o agravante comprovar, por meio da indicação de precedentes atuais e em sentido contrário aos que colacionados pelo eg. Tribunal de origem, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, o que, também, não se verificou no caso dos autos.
+Ainda, no que diz respeito à impugnação da aplicação do óbice da Súmula 83/STJ, no mesmo sentido, confira-se o seguinte precedente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. PARADIGMA EM HABEAS CORPUS. INADMISSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. "Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016).
+3. Outrossim, a jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência.4. Agravo regimental não provido" (AgRg no AREsp n. 1.040.832/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 31/10/2017, grifei).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido" (AgRg no AREsp n. 1667698/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 29/05/2020).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
