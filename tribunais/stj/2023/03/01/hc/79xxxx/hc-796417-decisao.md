@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Agnaldo Chones Ribeiro Marcos - condenado à pena de 5 anos de reclusão, em regime semiaberto, e pagamento de 500 dias-multa, pela prática do delito de tráfico ilícito de entorpecentes -, no qual se aponta como autoridade coatora o Tribunal de Justiça do Paraná, que negou provimento ao recurso de Apelação n. 0000328-32.2022.8.16.0035.
+Sustenta a Defensoria Pública estadual, em suma, que o presente habeas corpus merece ser conhecido em virtude da evidente ilegalidade do acórdão: ele contraria entendimento jurisprudencial no sentido de que é cabível o reconhecimento da prática do crime de tráfico privilegiado, ainda que existentes inquéritos e ações penais em curso em desfavor do condenado (fl. 6 - grifo nosso).
+Pleiteia, inclusive liminarmente, a aplicação da causa de diminuição de pena, prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+O pedido de liminar foi indeferido pela Presidência desta Corte (fl. 93).
+Dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 99/103).
+É o relatório.
+Apesar de a questão ora debatida não ter sido objeto de discussão no Tribunal a quo, caracterizando a indevida supressão de instância, passo ao seu exame, tendo em vista a existência de ilegalidade flagrante, verificada de plano.
+Com efeito, o Magistrado de primeiro grau afastou a incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, por entender que o réu, embora não seja reincidente nem conte com maus antecedentes, responde a outro processo criminal pela suposta prática de delito de tráfico de drogas (fls. 39/40).
+Ou seja, a minorante foi negada sem que houvesse menção à sentença condenatória transitada em julgado.
+Ora, até há pouco tempo, a Jurisprudência do Superior Tribunal de Justiça admitia como prova da dedicação a atividades criminosas a existência de ações penais em curso (AgRg no HC n. 638.848/MT, Ministro Felix Fischer, Quinta Turma, DJe 26/4/2021).
+No entanto, em recentes julgados, a Sexta Turma desta Corte Superior, seguindo orientação do Supremo Tribunal Federal, passou a não admitir ações penais em andamento como fundamento da dedicação a atividades criminosas, tendo em conta o princípio da presunção de inocência.
+Dito de outra forma, inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS PRIVILEGIADO. DISSÍDIO JURISPRUDENCIAL. PLEITO DE DECOTE DO RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA. AÇÃO PENAL EM CURSO DESCRITA NO ACÓRDÃO DA APELAÇÃO. FUNDAMENTO INSUFICIENTE A JUSTIFICAR A EXCLUSÃO DA MINORANTE. NOVO POSICIONAMENTO DA SEXTA TURMA (HC N. 559.880/RS, DJE 2/3/2021).
+1. Colhe-se de recentes julgados da Sexta Turma que a Suprema Corte, em recentes precedentes, consignou que, na ausência das demais situações impeditivas da causa de diminuição da pena, tão-somente a existência de ações penais sem trânsito em julgado não pode justificar a negativa de minorante, na esteira do entendimento, firmado sob a sistemática da repercussão geral de que, "ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais." (RE 591.054, Tema 129, Relator Marco Aurélio, Pleno, DJe 26/02/2015) (AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021).
+2. O Supremo Tribunal Federal, por ambas as Turmas, possui o entendimento de que inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade. Ressalva deste relator (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+3. Agravo regimental improvido. (AgRg no REsp n. 1.912.740/SP, de minha relatoria, Sexta Turma, DJe 21/6/2021)
+Nesse mesmo sentido o AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021; e o HC n. 602.611/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/11/2020.
+Além disso, a quantidade do material entorpecente apreendido (tráfico de 2,5 g de cocaína e 15 g de crack) não pode ser considerada elevada a ponto de, isoladamente, levar à conclusão de dedicação a atividades criminosas.
+Dessa forma, tratando-se de réu primário e não havendo, pelas instâncias ordinárias, menção a elementos aptos a demonstrar, com segurança, a dedicação a atividades criminosas ou a integração em organização da mesma natureza, deve ser reconhecido seu direito à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no seu patamar máximo.
+Assim, partindo-se do quantum de 5 anos de reclusão e 500 dias-multa, reduzo a reprimenda em 2/3 (art. 33, § 4º, da Lei n. 11.343/2006), fixando-a definitivamente em 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa.
+Tratando-se de réu primário e fixada a pena-base no mínimo legal, deve ser fixado o regime aberto para o seu cumprimento.
+Pelos mesmos motivos, determino a substituição da privativa de liberdade por restritivas de direitos, que deverão ser estabelecidas pelo Juízo de primeiro grau.
+Ante o exposto, concedo a ordem a fim de fixar a pena do paciente em 1 ano e 8 meses de reclusão, a ser cum prida em regime aberto, além do pagamento de 166 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos a serem estabelecidas pelo Juízo de primeiro grau.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, § 4º, DA LEI N. 11.343/2006. AÇÃO PENAL SEM TRÂNSITO EM JULGADO. MUDANÇA DE ENTENDIMENTO. MINORANTE. APLICAÇÃO. NECESSIDADE. REGIME ABERTO. FIXAÇÃO. CONVERSÃO DAS REPRIMENDAS.
+Ordem concedida nos termos do dispositivo.
