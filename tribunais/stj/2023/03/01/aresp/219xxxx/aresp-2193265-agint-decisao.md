@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se  de  agravo  interno  interposto  por  CONSÓRCIO  CONSTRUTOR  VIRACOPOS  contra  decisão  monocrática  proferida  pela  Presidência  desta  Corte  nos  seguintes  termos  (e-STJ,  fl.  323-324):
+Mediante  análise  do  recurso  de  CONSORCIO  CONSTRUTOR  VIRACOPOS,  a  parte  recorrente  foi  intimada  do  acórdão  recorrido  em  02/07/2021,  sendo  o  recurso  especial  interposto  somente  em  26/07/2021.
+O  recurso  é,  pois,  manifestamente  intempestivo,  porquanto  interposto  fora  do  prazo  de  15  (quinze)  dias  úteis,  nos  termos  do  art.  994,  VI,  c/c  os  arts.  1.003,  §  5º,  1.029,  e  219,  caput,  todos  do  Código  de  Processo  Civil.
+A  propósito,  nos  termos  do  §  6º  do  art.  1.003  do  mesmo  código,  "o  recorrente  comprovará  a  ocorrência  de  feriado  local  no  ato  de  interposição  do  recurso",  o  que  impossibilita  a  regularização  posterior.
+Caso  exista  nos  autos  prévia  fixação  de  honorários  advocatícios  pelas  instâncias  de  origem,  determino  sua  majoração  em  desfavor  da  parte  recorrente,  no  importe  de  15%  sobre  o  valor  já  arbitrado,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo  legal,  bem  como  eventual  concessão  da  gratuidade  da  justiça.
+Ante  o  exposto,  com  base  no  art.  21-E,  V,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  recurso.
+Em  suas  razões,  o  agravante  alega  ter realizado a comprovação d a  tempestividade  do recurso especial no ato de sua interposição,  conforme  documento de fl. 108 (e-STJ).
+Requer,  assim,  a  reconsideração  da  decisão  monocrática.
+De  fato,  verifica-se  que  houve  a  publicação  do  acordão  no  dia  2/7/2021 ( sexta-feira),  começando  a  ser  contado  o  prazo  em  5/7/2021  e  se  encerrando  no  dia  26/7/2021,  dada a exclusão, nessa contagem, do feriado estadual do dia 9/7/2021.
+Dessa  forma,  tendo  o  agravante  comprovado  a  existência  da  suspensão  do  prazo  processual,  nos  termos  do documento  acostado  à  fls.  108  (e-STJ),  a  interposição  do  recurso  especial  é  tempestiva.
+Portanto,  com  apoio  no  art.  259,  §  6º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  reconsidero  a  decisão  de  fls.  323-324  (e-STJ).
+Passo  à  análise  do  agravo  em  recurso  especial.
+Trata-se  de  agravo  contra  decisão  que  inadmitiu  recurso  especial  (e-STJ,  fls.  304-306)  manejado  para  impugnar  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado  (e-STJ,  fls.  93-97):
+CUMPRIMENTO  DE  SENTENÇA  -  Pretensa  extinção  -  Possibilidade  -  Crédito  exequendo  relativo  a  honorários  advocatícios  de  sucumbência  -  Sentença  proferida  em  momento  anterior  ao  deferimento  do  pedido  de  recuperação  judicial  da  empresa  Construtora  Triunfo,  integrante  do  Consórcio  agravante  -  Natureza  concursal  do  crédito  -  Extinção  da  fase  executiva  que  é  medida  de  rigor  -  Decisão  reformada  -  Recurso  provido,  com  observação.
+Opostos  embargos  de  declaração,  o  aresto  recorrido  foi  integralizado  pela  seguinte  ementa  (e-STJ,  fls.  282-285):
+EMBARGOS  DE  DECLARAÇÃO  -  Erro  material, omissão,  contradição  e  obscuridade  -  Vícios  inocorrentes  -  Julgamento  lastreados  em  posições  claras,  precisas,  exaurientes  -  Pretensão  voltada  contra  a  justiça  do  julgamento  -  Embargos  improvidos.
+Nas  razões  do  recurso  especial,  o  recorrente  alegou,  com  fulcro  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  Federal,  violação  ao  art.  85,  § 1º,  do  CPC/2015.
+Sustentou  que  é  empresa  em  recuperação  judicial  e  que ,  por  esse motivo,  não  deve  ser  obrigada  a  pagar  honorários  sucumbenciais  fixados por decisão que extinguiu  cumprimento  de  sentença  ajuizado  fora  do  Juízo  universal em razão de o crédito executado ter natureza concursal .
+Contrarrazões  apresentadas  (e-STJ,  fls.  299-303).
+Apreciada  a  admissibilidade  do  recurso  excepcional,  o  Tribunal  de  origem  inadmitiu  a  insurgência  (e-STJ,  fls.  304-306).
+Brevemente  relatado,  decido.
+Não  assiste  razão  ao  recorrente.
+Veja-se  que  a  extinção  do  cumprimento  de  sentença  em  face  da  necessidade  de  habilitação  do  crédito  em  recuperação  judicial  confere  ao  devedor  o  ônus  do  pagamento  das  custas  processuais  e  dos  honorários  advocatícios,  com  fundamento  no  princípio  da  causalidade.
+Nesse  sentido,  a  Segunda  Seção  já  se  manifestou:
+RECURSO  ESPECIAL.  EMPRESARIAL.  RECUPERAÇÃO  JUDICIAL.  CRÉDITO.  PEDIDO.  FATO  GERADOR  ANTERIOR.  SUBMISSÃO.  EFEITOS.  NOVAÇÃO.  CUMPRIMENTO  DE  SENTENÇA.  PROSSEGUIMENTO.  IMPOSSIBILIDADE.  HONORÁRIOS.  CAUSALIDADE.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Cinge-se  a  controvérsia  a  definir  se  o  crédito  se  submete  aos  efeitos  da  recuperação  judicial  e,  nessa  hipótese,  se  o  cumprimento  de  sentença  deve  ser  extinto.
+3.  Nos  termos  da  iterativa  jurisprudência  desta  Corte,  consolidada  no  julgamento  de  recurso  repetitivo,  para  o  fim  de  submissão  aos  efeitos  da  recuperação  judicial,  considera-se  que  a  existência  do  crédito  é  determinada  pela  data  em  que  ocorreu  o  seu  fato  gerador.
+4.  Na  hipótese,  o  fato  gerador  -  descumprimento  do  contrato  de  prestação  de  serviços  firmado  entre  as  partes  -  é  anterior  ao  pedido  de  recuperação  judicial,  motivo  pelo  qual  deve  ser  reconhecida  a  natureza  concursal  do  crédito.
+5.  O  credor  não  indicado  na  relação  inicial  de  que  trata  o  art.  51,  III  e  IX,  da  Lei  nº  11.101/2005  não  está  obrigado  a  se  habilitar,  pois  o  direito  de  crédito  é  disponível,  mas  a  ele  se  aplicam  os  efeitos  da  novação  resultantes  do  deferimento  do  pedido  de  recuperação  judicial.
+6.  O  reconhecimento  judicial  da  concursalidade  do  crédito,  seja  antes  ou  depois  do  encerramento  do  procedimento  recuperacional,  torna  obrigatória  a  sua  submissão  aos  efeitos  da  recuperação  judicial,  nos  termos  do  art.  49,  caput,  da  Lei  nº  11.101/2005.
+7.  Na  hipótese,  a  recuperação  judicial  ainda  não  foi  extinta  por  sentença  transitada  em  julgado,  podendo  o  credor  habilitar  seu  crédito,  se  for  de  seu  interesse,  ou  apresentar  novo  pedido  de  cumprimento  de  sentença  após  o  encerramento  da  recuperação  judicial,  observadas  as  diretrizes  estabelecidas  no  plano  de  recuperação  aprovado,  diante  da  novação  ope  legis  (art.  59  da  LREF).
+  8.  Nos  casos  de  extinção  do  processo  sem  resolução  de  mérito,  a  responsabilidade  pelo  pagamento  de  honorários  e  custas  deve  ser  fixada  com  base  no  princípio  da  causalidade,  segundo  o  qual  a  parte  que  deu  causa  à  instauração  do  processo  deve  suportar  as  despesas  dele  decorrentes.
+9.  Recurso  especial  conhecido  e  provido.
+(REsp  n.  1.655.705/SP,  relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Segunda  Seção,  j.  em  27/4/2022,  DJe  de  25/5/2022.  -  sem  grifo  no  original)
+Assim,  porque  os  fundamentos  adotados  pelo  acórdão  recorrido  estão  em  consonância  com  o  entendimento  firmado  nesta  Corte,  deve  ser  ele  mantido (Súmula 83/STJ).
+Ante  o  exposto,  em juízo de reconsideração, conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC/2015,  majoro  os  honorários  em  favor  do
+advogado  da  parte  recorrida em 2% (dois por cento)  sobre  o  valor  atualizado  do  débito  executado.
+Fiquem  as  partes  cientificadas  de  que  a  insistência  injustificada  no  prosseguimento  do  feito,  caracterizada  pela  apresentação  de  recursos  manifestamente  inadmissíveis  ou  protelatórios  contra  esta  decisão,  ensejará  a  imposição,  conforme  o  caso,  das  multas  previstas  nos  arts.  1.021,  §  4º,  e  1.026,  §  2º,  do  CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECONSIDERAÇÃO  DA  DECISÃO  DA  PRESIDÊNCIA.  TEMPESTIVIDADE  DEMONSTRADA.  COMPROVAÇÃO DO FERIADO LOCAL EFETIVADA NO ATO DA INTERPOSIÇÃO POR DOCUMENTO HÁBIL.  CUMPRIMENTO  DE  SENTENÇA DEFLAGRADO CONTRA EMPRESA SOB  RECUPERAÇÃO  JUDICIAL. EXTINÇÃO POR SE TRATAR DE CRÉDITO CONCURSAL.  CONDENAÇÃO  DA  EMPRESA  RECUPERANDA  AO  PAGAMENTO  DOS  HONORÁRIOS  SUCUMBENCIAIS.  PRINCÍPIO  DA  CAUSALIDADE.  SÚMULA  83/STJ.  AGRAVO  CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO,  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.
