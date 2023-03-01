@@ -1,0 +1,48 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por ZACARIAS VEÍCULOS LTDA. contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS DE OUTRO PROCESSO, QUE LEVOU À EXPROPRIAÇÃO DO ÚNICO IMÓVEL DO DEVEDOR COMUM. OBRIGAÇÃO DE NATUREZA . CRÉDITOS PROPTER REM QUE NÃO CONCORREM COM O DIREITO ORIUNDO DA DÍVIDA CONDOMINIAL, ESPECIALÍSSIMO NO CASO CONCRETO E NÃO SUJEITO AO CONCURSO, POR MAIS PRIVILEGIADOS QUE SEJAM OS CRÉDITOS DOS DEMAIS CREDORES. POSSIBILIDADE DE O AGRAVANTE E SEUS ADVOGADOS, CUJA VERBA HONORÁRIA POSSUI NATUREZA ALIMENTAR, MAS, EM TESE, SEQUER SE SOBREPÕE AO CRÉDITO DO SEU CONSTITUINTE, POSTULAREM EVENTUAL SALDO DA ARREMATAÇÃO.
+RECURSO NÃO PROVIDO.
+Opostos embargos de declaração pelo ora agravante, foram rejeitados (fls. 1.543/1.547).
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, apontou violação aos arts. 85, § 14, e 908, caput e § 2º, do Código de Processo Civil, e 23 da Lei Federal nº 8.906/1994. Alegou, em apertada síntese, que o crédito do Recorrente decorre honorários advocatícios de natureza alimentar, detendo privilégio geral em concurso de credores, e equiparando-se ao crédito trabalhista, conclui-se que o mesmo é mais privilegiado que o crédito do 1º de natureza real (propter rem), decorrente da cobrança de cotas condominiais.
+Não foram apresentadas contrarrazões ao recurso especial (fls. 1.596, 1.599 e 1.605).
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+A discussão dos autos cinge-se em analisar a ordem de preferência para pagamento dos créditos oriundos de honorários advocatícios. O voto vencido bem resumiu a controvérsia dos autos:
+Cinge-se a controvérsia recursal à análise do concurso de credores, tendo em vista que a decisão agravada não reservou crédito para o pagamento dos honorários advocatícios dos patronos da agravante.
+A parte agravante requereu o provimento do recurso, devendo considerar seu crédito, detalhando as verbas honorárias de seus patronos, para que referido créditos tenham seu recebimento preferencial; e a transferência do saldo remanescente dos valores penhorados para o Juízo da 4 a Vara Cível da Comarca de Maringá/PR, de onde partiu a ordem de penhora (autos nº 1340-15.1997.8.16.0017), a fim de satisfazer o crédito referente aos honorários dos patronos da Agravante no montante atualizado até a data de 16/11/2018 em R$ 53.496,52 (cinquenta e três mil, quatrocentos e noventa e seis reais e cinquenta e dois centavos), uma vez não ser possível a satisfação integral do débito da agravada, e desde que satisfeito o crédito do Condomínio e de seus patronos.
+O voto vencedor considerou a primazia do crédito condominial sobre os honorários advocatícios. (fl. 1.491).
+A Corte Especial do STJ já teve a oportunidade de pacificar entendimento, em julgamento submetido à sistemática dos recursos repetitivos, no sentido de que os créditos resultados de honorários advocatícios têm natureza alimentar, equiparando-se aos trabalhistas. Eis a ementa do referido julgado:
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. HONORÁRIOS ADVOCATÍCIOS. FALÊNCIA. HABILITAÇÃO. CRÉDITO DE NATUREZA ALIMENTAR. ART. 24 DA LEI N. 8.906/1994. EQUIPARAÇÃO A CRÉDITO TRABALHISTA.
+1. Para efeito do art. 543-C do Código de Processo Civil:
+1.1) Os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam- se aos trabalhistas para efeito de habilitação em falência, seja pela regência do Decreto -Lei n. 7.661/1945, seja pela forma prevista na Lei n.
+11.101/2005, observado, neste último caso, o limite de valor previsto no artigo 83, inciso I, do referido Diploma legal.
+1.2) São créditos extraconcursais os honorários de advogado resultantes de trabalhos prestados à massa falida, depois do decreto de falência, nos termos dos arts. 84 e 149 da Lei n. 11.101/2005.
+2. Recurso especial provido.
+(REsp 1152218/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 07/05/2014, DJe 09/10/2014).
+Analisando especificamente a questão sob o enfoque da ordem de preferência entre créditos condominiais e honorários advocatícios, esta Corte já teve a oportunidade de firmar entendimento no sentido da preferência dos últimos sobre os primeiros justamente em razão do entendimento sedimentado acerca da natureza alimentar da verba honorária.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. CONCURSO DE CREDORES. FATO NOVO. RECURSO ESPECIAL. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. VERBA ALIMENTAR. EQUIPARAÇÃO A CRÉDITO TRABALHISTA. PREFERÊNCIA EM RELAÇÃO A COTAS CONDOMINIAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não é possível a alegação de fato novo exclusivamente no âmbito de recurso especial por carecer o tema do requisito indispensável de prequestionamento e importar, em última análise, em supressão de instância. Precedentes.
+3. A questão da existência de limitação no ofício quanto ao direito do terceiro apenas no que tange a eventual saldo residual, após satisfação dos créditos, não foi suscitada no recurso especial, inviabilizando que seja levantada em agravo interno, por configurar inovação recursal.
+4. Os honorários advocatícios ostentam natureza alimentar, equiparando-se a créditos trabalhistas, gozando de preferência em relação a crédito decorrente de cotas condominiais.
+5. Agravo interno não provido.
+(AgInt no AREsp 1612917/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS EM FASE DE EXECUÇÃO. CONCURSO DE CRÉDITOS. HONORÁRIOS ADVOCATÍCIOS. CRÉDITO DE NATUREZA ALIMENTAR, EQUIPARADO AO TRABALHISTA. PRECEDENTE DA CORTE ESPECIAL DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE IMPROCEDENTE. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Corte Especial do STJ no julgamento do REsp nº 1.152.218/RS, submetido ao rito dos recursos repetitivos, firmou orientação de que os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas.
+3. O agravo interno não impugnou as razões da decisão agravada. Incidência da Súmula nº 182 do STJ.
+4. No caso, 1) a matéria foi prequestionada porque, embora o órgão julgador não tenha feito indicação numérica dos dispositivos de lei, apreciou e decidiu com amparo no seu conteúdo normativo; 2) houve a efetiva comprovação da ocorrência da violação dos dispositivos de lei apontados pela banca; e, 3) a questão concernente à natureza dos honorários advocatícios é unicamente de direito. Além do mais, 4) o conhecimento do recurso especial pela alínea c do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração da divergência, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/73), tal como foi devidamente demonstrado pela banca, nas razões de seu apelo nobre.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+6. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 924.706/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 04/08/2017)
+O acórdão recorrido, entretanto, decidiu de maneira contrária ao entendimento desta Corte, de modo que merece reforma para que se proceda a reserva do valor referente às verbas honorárias.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Advirto as partes da multa prevista ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CONCURSO DE CREDORES. HONORÁRIOS ADVOCATÍCIOS. CRÉDITO DE NATUREZA ALIMENTAR. PRECEDENTE DA CORTE ESPECIAL. PREFERÊNCIA . PRECEDENTES.
+RECURSO ESPECIAL PROVIDO.
