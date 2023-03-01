@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S/A ELETRONORTE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO CÍVEL. SERVIÇO DE COMUNICAÇÃO MULTIMÍDIA. FUNDO ESTADUAL DE ERRADICAÇÃO DA POBREZA. INCIDÊNCIA.
+Alega violação dos arts. 6º da Lei n. 8.987/1995; e 10 da Lei n. 7.783/1989. Sustenta que em face da essencialidade do serviço que presta de comunicação, não incide o adicional de 2% na alíquota de ICMS para o Fundo Estadual de Combate e Erradicação da Pobreza, trazendo os seguintes argumentos:
+3.1. No Acordão de ID 13185270, o r. juízo negou vigência ao Art. 6º da Lei de Concessões nº 8.987/95 e Art. 10 da Lei 7.783/89, ao deixar de observar a ESSENCIALIDADE DO SERVIÇO prestado pela Recorrente, porquanto que, a inteligência do Art. 82, §1º do ADCT, o adicional de 2% de ICMS a título de Fundo Estadual de Combate e Erradicação da Pobreza (FECOEP) SOMENTE é devida na comercialização de SERVIÇOS SUPÉRFLOS.
+3.2. A Recorrente ELETRONORTE é sociedade de economia mista, concessionária de SERVIÇOS PÚBLICOS de transmissão de energia elétrica e de telecomunicações para o Estado de Rondônia.
+3.3. As referidas atividades sociais desempenhadas pela Recorrente são caracterizadas como SERVIÇOS ESSENCIAIS porque além de ser concedidas pelo PODER PÚBLICO nos termos da Lei de Concessões nº 8.987/95, devem ser prestadas de forma ininterrupta, eficiente e segura para atendimento às necessidades básicas da população conforme preceituam o Art.6º da Lei de Concessões nº 8.987/95 e o Art. 10 da Lei 7.783/89, verbis:
+Lei nº 8.987/95
+"Art. 6º. Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato.
+§ 1º Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas.
+§ 2º A atualidade compreende a modernidade das técnicas, do equipamento e das instalações e a sua conservação, bem como a melhoria e expansão do serviço.
+§ 3º Não se caracteriza como descontinuidade do serviço a sua interrupção em situação de emergência ou após prévio aviso, quando:"
+Lei 7.783/89
+"Art. 10 São considerados serviços ou atividades essenciais:
+I - tratamento e abastecimento de água; produção e distribuição de energia elétrica, gás e combustíveis;
+(..)
+VII - telecomunicações;"
+3.4. Portanto, se as atividades sociais da Recorrente são consideradas serviços essenciais não podem sofrer a incidência do adicional de 2% a título de FECOEP, o qual somente é devido na comercialização de serviços supérfluos, o que por óbvio não é o caso.
+"Art. 82. Os Estados, o Distrito Federal e os Municípios devem instituir Fundos de Combate à Pobreza, com os recursos de que trata este artigo e outros que vierem a destinar, devendo os referidos Fundos ser geridos por entidades que contem com a participação da sociedade civil (Incluído pela Emenda Constitucional nº 31, de 2000).
+§ 1º Para o financiamento dos Fundos Estaduais e Distrital, poderá ser criado adicional de até dois pontos percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, sobre os produtos e serviços SUPÉRFLUOS e nas condições definidas na lei complementar de que trata o art. 155, § 2º, XII, da Constituição, não se aplicando, sobre este percentual, o disposto no art. 158, IV, da Constituição." Grifos nossos (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003).
+3.5. Logo, não há dúvidas que, entender pela possibilidade de incidência do adicional de 2% da FECOEP sob os serviços prestados pela Recorrente é negar vigência ao Art. 6º da Lei de Concessões nº 8.987/95 e Art. 10 da Lei 7.783/89.
+3.6. Ademais, registre-se que, equivocadamente, o d. juízo entendeu que a Recorrente estava questionando a legalidade do FECOEP. O qual, de fato é legal, conforme inclusive já decidido pelo STF e brilhantemente citado no r. Acordão.
+3.7. Contudo, não está a se discutir a legalidade do adicional, mas a possibilidade de incidência deste sob os serviços prestados pela Recorrente. Ou seja, apesar de legal e válido, não se aplica as operações realizadas pela Recorrente por se tratarem de serviços essenciais, sendo a incidência do adicional violação aos Art. 6º da Lei de Concessões nº 8.987/95 e Art. 10 da Lei 7.783/89 (fls. 334-335).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência". (AgRg no AREsp 1.532.282/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.302.307/TO, relatora Ministra Eliana Calmon, Primeira Seção, DJe de 13/5/2013; REsp 1.110.552/CE, relator Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15/2/2012; AgInt no REsp 1.830.547/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no AREsp 1.488.516/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/7/2020; AgInt no AgInt no AREsp 1.484.304/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp 1.519.322/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 30/10/2019; AgInt no AREsp 1.358.090/SE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
