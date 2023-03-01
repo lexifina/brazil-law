@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Aro - Estacionamento e Lavagem de Veículos Ltda. e outros, que desafiava acórdão da Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 967):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. TERMO DE ADESÃO AO REGULAMENTO DO CARTÃO BNDES. DECISÃO QUE DETERMINA A EXTINÇÃO DA AÇÃO EM RELAÇÃO AO REQUERIDO FALECIDO NO CURSO DO PROCESSO. PROSSEGUIMENTO DO FEITO EM RELAÇÃO AOS DEMAIS. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ART. 1.015, VII, DO CPC/2015. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. ERRO GROSSEIRO. O pronunciamento judicial que determina a exclusão de litisconsorte tem natureza de decisão interlocutória, sendo recorrível por agravo de instrumento, nos termos do art. 1.015, VII, do CPC, especialmente porque o processo prossegue em seu trâmite em relação aos corréus. Ressalta-se que não se admite o conhecimento do recurso de apelação como se agravo de instrumento fosse, com fundamento no Princípio da Fungibilidade, haja vista a configuração de erro grosseiro. APELAÇÃO NÃO CONHECIDA.
+Opostos embargos de declaração por ambas as partes, eles foram rejeitados.
+Nas razões do apelo especial, os recorrentes apontaram violação ao art. 85, § 2º, do CPC/2015, sob o argumento de que não seria cabível, na espécie, o arbitramento da verba honorária de forma equitativa, por não se enquadrar nas hipóteses legais.
+Contrarrazões às fls. 1.123-1.129 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando os insurgentes a interpor o presente agravo, por meio do qual contestam a aplicação do óbice indicado na decisão de admissibilidade.
+Brevemente relatado, decido.
+O Tribunal local, ao analisar a controvérsia, entendeu que, não tendo havido a impugnação oportuna da base de cálculo dos honorários sucumbenciais, seria incabível a posterior modificação da referida verba.
+A propósito, confira-se o seguinte excerto do aresto vergastado que tratou sobre o tema (e-STJ, fls. 1.007-1.008):
+Note-se que a verba honorária devida ao procurador da parte requerida, face à extinção parcial do feito, foi fixada em 1º Grau, pelo critério da equidade, no valor de R$ 2.500,00, em face da qual não houve impugnação recursal da parte embargante, de modo que a base de cálculo estabelecida não poderia ser objeto de modificação.
+O referido entendimento está em consonância à jurisprudência desta Corte de Justiça, segundo a qual, tendo a verba honorária sido arbitrada em patamar fixo, deixando o interessado de interpor recurso, no momento adequado, com o propósito de alterar a base de cálculo, fica preclusa a referida matéria (AgInt nos EREsp n. 1.787.027/RS, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 30/3/2021, DJe de 16/4/2021).
+Nesse contexto, de rigor a aplicação, à espécie, do enunciado sumular n. 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial de Aro - Estacionamento e Lavagem de Veículos Ltda. e outros.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRETENSÃO DE ALTERAÇÃO DA BASE DE CÁLCULO DOS HONORÁRIOS SUCUMBENCIAIS. NÃO CABIMENTO. PRECLUSÃO. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DE ARO - ESTACIONAMENTO E LAVAGEM DE VEÍCULOS LTDA. E OUTROS.
