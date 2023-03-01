@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ALAN COSTA DE OLIVEIRA contra decisão proferida pela 2ª Vice-Presidência do Tribunal de Justiça do Estado da Bahia (e-STJ fls. 245/247), que não admitiu o recurso especial adrede manejado.
+A controvérsia foi bem sumariada pelo parecer do Ministério Público Federal, cujo excerto transcrevo a seguir (e-STJ fls. 285/286):
+No recurso especial se sustenta a ofensa ao artigo 33, § 4º, da Lei nº 11.343/06, sob o argumento de que "o ora recorrente tem em seu favor todas as condições exigidas na Lei 11.343/2006 para aplicação da diminuição de pena em seu grau máximo, ou seja, 2/3, isso porque, os processos e inquéritos policiais aos quais responde se encontram ainda em curso, não havendo qualquer condenação que pese contra ele, devendo, assim, o Acórdão ser reformado para que se aplique o privilégio que é de direito do acusado, em seu patamar máximo" (fls. 219/220).
+A decisão agravada inadmitiu o apelo excepcional sustentando: a) a incidência da Súmula 7/STJ; b) a incidência da Súmula 83/STJ; e c) o reconhecimento da reincidência como óbice da aplicação da causa de diminuição do tráfico privilegiado.
+Daí a interposição do presente agravo (fls. 253/260), sustentando que não deve ser aplicada ao caso a Súmula 7/STJ, pois "Este não exige o reexame do conjunto fático- probatório, ainda mais porque não se nega os fatos consignados no acórdão, mas tão somente se infirma a argumentação de que tais fatos impedem a aplicação da figura do tráfico privilegiado" (fl. 257).
+Defende, ainda, que "em casos pretéritos, esta Corte Superior já discutiu o tráfico privilegiado no bojo de recurso especial (AgRg no REsp 1816894/AL, SEXTA TURMA, Min. Rel. SEBASTIÃO REIS JÚNIOR, j. em 22/10/2019 e publicado em 29/11/2019 e AgRg no REsp 1847328/SP, QUINTA TURMA, Min. Rel. REYNALDO SOARES DA FONSECA, j. em 10/12/2019, publicado em 19/12/2019)" (fl. 257).
+Posto isso, requer "seja admitido e provido o presente agravo, para que, enfim, seja admitido e provido o recurso especial, quanto ao pleito de reconhecimento do tráfico privilegiado, previsto no art. 33, §4º, da Lei 11.343/06, reconhecendo-se o error in iudicando cometido pelo Tribunal de Justiça da Bahia, pelos fundamentos expostos" (fl. 260).
+Contraminuta apresentada às fls. 265/269.
+Ao se manifestar, o Parquet federal opinou pelo não conhecimento do recurso ou pelo seu desprovimento (e-STJ fls. 285/288).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão agravada, conheço do recurso de agravo.
+No mérito, contudo, a irresignação não merece prosperar.
+De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+Sob esse prisma, não vislumbro o alegado constrangimento ilegal, pois as instâncias ordinárias, como visto acima, não reconheceram a incidência da minorante com base na recalcitrância delitiva do agente. Assim, em respeito aos critérios estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006, foi excluída a possibilidade de aplicação do pretendido redutor.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO CONHECIMENTO. JUNTADA DA PROCURAÇÃO. RECONSIDERAÇÃO. ALEGADA INOVAÇÃO PROBATÓRIA. NÃO OCORRÊNCIA. PROVAS QUE JÁ SE ENCONTRAVAM À DISPOSIÇÃO DAS PARTES. AUSÊNCIA DE PREJUÍZO. ABSOLVIÇÃO. REVOLVIMENTO PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. MINORANTE DO TRÁFICO. REINCIDÊNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL, MAS LHE NEGAR PROVIMENTO.
+1. Cumprida a determinação desta Corte, a fim de juntar a procuração nos autos, deve ser conhecido o agravo.
+2. Evidenciado pelo Tribunal local que os autos de mandado de busca e apreensão, em que se estava anexado o vídeo, já se encontravam juntado no processo principal, motivo pelo qual não há falar em nulidade por não se tratar de prova nova, sendo certo que a desconstituição dos fatos mencionados no acórdão recorrido resultaria em indispensável revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+3. Ademais, a Lei Processual Penal em vigor adota, em sede de nulidades processuais, o princípio da pas de nullité sans grief, segundo o qual somente há de se declarar a nulidade se houver demonstração ou comprovação de efetivo prejuízo para a parte, o que, conforme as premissas delineadas no acórdão, não ocorreu, visto que a condenação não se fundou unicamente nas imagens de vídeo.
+4. Cabe às instâncias ordinárias fazer o exame do conteúdo fático-probatório, a fim de aferir a existência de fundamentos aptos a embasar a condenação, sendo que a reversão das premissas fáticas encontra óbice na Súmula 7/STJ.
+5. Constatada na origem a reincidência, incabível a concessão da minorante do tráfico, porquanto não preenchido os requisitos previstos no art. 33, § 4º, da Lei 11.343/06.
+6. Agravo regimental provido para conhecer do agravo em recurso especial, mas lhe negar provimento.
+(AgRg no AREsp 1501231/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/05/2020, DJe 15/05/2020, grifei.)
+Da mesma forma, a reincidência do acusado autoriza a fixação de regime fechado no caso em tela, ainda que a pena total tenha sido fixada em quantum abaixo de 8 anos, ante a existência de circunstâncias judiciais desfavoráveis, como no caso vertente.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. CULPABILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. FORMAÇÃO SUPERIOR E CONDIÇÃO SOCIAL DO RÉU. FUNDAMENTAÇÃO IDÔNEA. REGIME INICIAL FECHADO. REINCIDÊNCIA. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Juízo de primeiro grau justificou a fixação da pena-base acima do mínimo legal de forma fundamentada, destacando, além da quantidade e natureza da droga apreendida, a elevada culpabilidade do acusado, elemento concreto que evidencia a reprovabilidade da conduta atribuída ao recorrente e autoriza a majoração.
+2. Embora a reprimenda seja inferior a 8 anos de reclusão, ressalto que a imposição do regime inicial fechado de cumprimento de pena, tal como consignado na decisão agravada, foi justificada na reincidência do réu e na valoração negativa de circunstâncias judiciais. "Tais circunstâncias, nos termos da jurisprudência desta Corte Superior, inviabilizam a fixação de regime menos gravoso" (AgInt no AREsp 675.715/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 28/11/2017).
+Agravo regimental desprovido.
+(AgRg no REsp 1.743.432/PR, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 02/10/2018, DJe 11/10/2018, grifei.)
+Por fim, na linha dos precedentes desta Corte, para concluir se "o ora recorrente não foi condenado com trânsito em julgado pelos fatos aos quais responde" (e-STJ fl. 219) seria necessário o revolvimento fático-probatório, expediente proscrito pelo verbete 7 da Súmula do Superior Tribunal de Justiça.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CONDENAÇÕES PRETÉRITAS DISTINTAS DA REINCIDÊNCIA PARA DESFAVORECER CIRCUNSTÂNCIA JUDICIAL. POSSIBILIDADE. BIS IN IDEM. INOCORRÊNCIA. PRECEDENTES. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NATUREZA E
+QUANTIDADE DE DROGAS. ACRÉSCIMO DA REPRIMENDA NA PRIMEIRA FASE JUSTIFICADO. PRECEDENTES. DESPROPORCIONALIDADE DO AUMENTO DA PENA-BASE. INOCORRÊNCIA. ACRÉSCIMO DE 1/6 PARA CARA CIRCUNSTÂNCIA NEGATIVA. PRECEDENTES DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte está firmada no sentido de que é possível a utilização de condenações pretéritas distintas, evitando-se o bis in idem, para justificar o aumento da pena-base, ante a consideração desfavorável das circunstâncias judiciais dos maus antecedentes e da reincidência. No caso, para se concluir de modo diverso, pela inexistência de trânsito em julgado das ações penais, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1827181/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/12/2021, DJe 16/12/2021, grifei.)
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
