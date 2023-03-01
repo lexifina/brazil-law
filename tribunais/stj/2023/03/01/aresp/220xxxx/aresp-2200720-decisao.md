@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por C&M EMPREENDIMENTOS IMOBILIARIOS LTDA e QUARTIER DESENVOLVIMENTO URBANO - INCORPORACAO E CONSTRUCAO LTDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/07/2022.
+Concluso ao gabinete em: 06/10/2022.
+Ação: de rescisão de promessa de compra e venda de imóvel, cumulada com pedidos de indenização por danos materiais e compensação por danos morais, ajuizada por FAGNER PINTO DE ARAUJO em face das ora agravantes e de NEXPE PARTICIPACOES S.A., devido a atraso na entrega da obra.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a parte ré à devolução das quantias pagas pelo autor, bem como ao pagamento de compensação por danos morais no valor de R$ 10.000,00.
+Acórdão: negou provimento à apelação interposta pelas agravantes, nos termos da seguinte ementa (e-STJ fl. 869):
+"APELAÇÃO CÍVEL. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DA OBRA. RELAÇÃO DE CONSUMO. RESPONSABILIDADE OBJETIVA DASRÉS. DEVER DE REPARAR. DANO MORAL CONFIGURADO. QUANTUMRAZOAVELMENTE ARBITRADO. MANUTENÇÃO.
+1. Trata-se, na origem, de ação indenizatória decorrente de inadimplemento de contrato de incorporação imobiliária, com prazo final de entrega previsto para o dia 30/05/2016, prorrogável por 180 (cento e oitenta) dias, uma vez que até o ajuizamento da ação, em 19/12/2017, nada fora construído no local.
+2. Interposição de recurso de apelação apenas pelas 1ª e 2ª rés, limitando o julgamento à apreciação do pedido de exclusão da condenação ao pagamento de compensação por dano moral. Preclusão das demais questões decididas na sentença e não impugnadas pelas partes. Tantum devolutum quantum appellatum.
+3. Relação de consumo. Responsabilidade objetiva das rés, com base na teoria do risco do empreendimento. Atraso injustificado de mais de um ano na conclusão do empreendimento. Inadimplemento contratual passível de reparação na forma da lei consumerista. Inteligência do art. 40, §§ 2º e 3º e 43, II da lei 4.591/64.
+4. Dano moral inequivocamente configurado. Violação ao direito fundamental à moradia da parte autora. Aplicação da teoria do desvio produtivo. Precedentes.
+5. Quantum indenizatório razoavelmente arbitrado na sentença, em consonância com os princípios da razoabilidade, proporcionalidade, vedação ao enriquecimento sem causa, diante das circunstâncias do caso concreto, bem como em atenção ao aspecto preventivo-pedagógico da condenação. Manutenção.
+DESPROVIMENTO DO RECURSO".
+Embargos de declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alega violação do art. 1.022 do CPC/15, sustentando que o Tribunal de origem não sanou omissão relativa à aplicação do art. 944 do CC, por força do qual o alegado dano moral deveria ter sido comprovado, bem como a sua extensão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+Nos termos do art. 1.022 do CPC/2015, somente é cabível a oposição de embargos de declaração quando existente no julgado omissão acerca de questão relevante para a solução da controvérsia, ou, ainda, obscuridade, contradição ou erro material.
+Na hipótese dos autos, contudo, não está presente nenhum desses vícios.
+Com efeito, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da existência do dano moral e da sua quantificação, em que pese não tenha efeito menção explícita ao dispositivo legal invocado pela parte.
+A propósito, transcreve-se trecho do aresto:
+"Sabe-se que nos casos envolvendo inadimplemento contratual a compensação a título de dano moral é devida quando a parte prejudicada pelo inadimplemento vem a ser atingida em direitos fundamentais que lhes são assegurados pela Constituição Federal, bem como em virtude do caráter preventivo-pedagógico da reparação, com vistas a coibir a repetição da conduta lesiva.
+Ora, a hipótese vertente é de imóvel adquirido para residência do autor, aquisição esta que restou frustrada pela parte ré, ao inadimplir injustificadamente a entrega do imóvel por mais de um ano, fato que ultrapassa o mero aborrecimento, violando direito fundamental à moradia da parte autora, a justificara compensação a título de dano moral, como também concluiu o juízo a quo.
+Quanto mais não fosse, além da frustração da legítima expectativa do autor de recebimento do imóvel ao final do prazo contratualmente previsto, restou também evidente a perda do tempo útil do consumidor na tentativa de solucionar os problemas a que não deu causa, tendo sido obrigado a recorrer ao Judiciário para obter o justo ressarcimento dos valores pagos pelo imóvel que não foi entregue por desídia exclusiva das rés, o que permite aplicar ao caso a Teoria do Desvio Produtivo, que vem sendo acolhida pela jurisprudência pátria em hipóteses análogas.
+Segundo a referida teoria, constitui fato gerador de dano moral a perda de tempo extra imposta ao consumidor na tentativa de solucionar um problema de responsabilidade do fornecedor, privando-o deste tempo para cumprir seus deveres e obrigações, ou simplesmente para seu lazer ou qualquer outra finalidade. A lesão extrapatrimonial, nestes casos, se caracteriza em razão da finitude e irrepetibilidade do transcurso de tempo na vida humana.
+Destarte, restou claramente configurado no caso o dano de natureza moral suportado pelo demandante, devendo ser mantida a condenação.
+Quanto ao arbitramento do dano moral, devem ser observados os princípios da razoabilidade, proporcionalidade e vedação ao enriquecimento sem causa, a extensão do dano e suas consequências, bem como a capacidade sócio-econômica das partes envolvidas, e a natureza preventiva-pedagógica da condenação sob tal rubrica.
+À luz de tais parâmetros, a quantia de R$10.000,00 (dezmil reais), arbitrada pelo magistrado singular, se mostra satisfatória a compensar os transtornos suportados, bem como adequada quanto ao aspecto preventivo-pedagógico da condenação, não merecendo a redução pretendida, sob pena de não servir ao propósito do desestímulo" (e-STJ fls. 872/873)
+Ora, devidamente analisada e discutida a questão controvertida, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1.022 do CPC/2015.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL C/C PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Ação de rescisão de promessa de compra e venda de imóvel, cumulada com pedidos de indenização por danos materiais e compensação por danos morais, ajuizada em razão de atraso na entrega da obra.
+2. Não prospera a alegação de violação do art. 1.022 do CPC/2015 na hipótese em que o Tribunal de origem tenha examinado, de maneira expressa e fundamentada, a questão controvertida, de modo a solucionar integralmente a demanda, ainda que sem menção explícita a dispositivo legal invocado pela parte.
+3. Agravo conhecido. Recurso especial conhecido e não provido.
