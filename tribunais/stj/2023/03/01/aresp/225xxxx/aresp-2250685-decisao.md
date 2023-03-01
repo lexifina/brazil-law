@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO (UNIMED) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro, da relatoria do Des. VITOR MARCELO RODRIGUES, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. SENTENÇA DE PROCEDÊNCIA. CONDENAÇÃO DA RÉ AO PAGAMENTO AO PRIMEIRO AUTOR DO VALOR DE R$ 52.000,00 (CINQUENTA E DOIS MIL REAIS) E DO VALOR DE R$ 10.000,00 (DEZ MIL REAIS), A TÍTULO DE DANOS MATERIAIS E MORAIS, RESPECTIVAMENTE. CONDENAÇÃO DA RÉ AO PAGAMENTO AO SEGUNDO AUTOR DO VALOR DE R$ 5.000,00 (CINCO MIL REAIS) A TÍTULO DE DANOS MORAIS. INCONFORMISMO DA RÉ. RECUSA INDEVIDA. O FATO DE O TRATAMENTO NÃO CONSTAR NO ROL DE PROCEDIMENTOS DA ANS NÃO DESOBRIGA A OPERADORA DE CUSTEÁ-LOS. PROCEDIMENTO REALIZADO EM MAIO DE 2019. DANO MORAL CONFIGURADO. OFENSA A DIREITO DA PERSONALIDADE. QUANTUM FIXADO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. NEGA-SE PROVIMENTO AO RECURSO (e-STJ, fls. 561/562).
+Irresignada, UNIMED interpôs recurso especial, com base no art. 105, III, c, da CF, sustentando dissídio jurisprudencial em relação à taxatividade do rol da ANS, pois o procedimento solicitado não se encontra previsto no rol. Apontou como violados aos arts. 10, § 4º, da Lei 9.656/98 e 4º, III da Lei 9.961/00.
+O recurso não foi admitido pelo TJRJ (e-STJ, fls. 611/614).
+Nas razões do presente agravo, UNIMED alegou que seu recurso merece seguimento, uma vez que, deve ser afastado o óbice sumular aplicado.
+Foi apresentada contraminuta (e-STJ, fls. 638/642).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da alegada violação aos 10, § 4º, da Lei 9.656/98 e 4º, III da Lei 9.961/00.
+UNIMED sustentou dissídio jurisprudencial em relação à taxatividade do rol da ANS, pois o procedimento solicitado não se encontra previsto no rol.
+A questão encontra-se assim delineada:
+Assim, estando indicado como forma de tratamento a utilização do procedimento cirúrgico descrito na inicial, este deveria ser garantido, uma vez que se mostrava imprescindível à vida do segurado.
+Por fim, impertinente a alegação de que o procedimento em questão não se encontra na categoria de cobertura obrigatória, visto que, conforme laudo médico acostado, a cirurgia foi prescrita para tratamento de massa de linfonodos retroperitoneal pós-quimioterapia, sendo abusiva, portanto, a negativa.
+Outrossim, dúvida não remanesce de que não pode o contrato excluir o tratamento ou procedimento necessário ao restabelecimento da saúde do segurado.
+ ..
+Os exames e laudos médicos acostados aos autos demonstram a gravidade do quadro clínico do Autor, que já havia passado por procedimento cirúrgico anterior e por tratamento quimioterápico para cura do câncer e apresentou, pouco tempo depois, um aumento da lesão metastática retroperitoneal.
+A Apelante, por seu turno, não nega que o plano contratado possui cobertura para a doença que acometeu o Autor.
+Sendo assim, deve disponibilizar ao beneficiário o tratamento que proporcione menores riscos e maior chance de cura, de acordo com a indicação do médico que acompanha o paciente e, como tal, conhece a fundo as peculiaridades de seu quadro clínico.
+Acertado, pois, o reconhecimento de ser injustificada a recusa da parte ré em custear o procedimento (e-STJ, fls. 571/574).
+Observa-se que o acórdão recorrido está em sintonia com o entendimento do STJ no sentido de que o plano de saúde deve ser compelido a custear o tratamento de doença coberta pelo contrato, porquanto as operadoras não podem limitar a terapêutica a ser prescrita por profissional habilitado ao beneficiário para garantir sua saúde ou sua vida, esclarecendo, ainda, que tal não é obstado pela ausência de previsão no rol de procedimentos da ANS..
+Assim, na hipótese de procedimento para o tratamento de câncer, esta Corte é firme no entendimento de que a ausência de previsão no rol da ANS não afasta do plano de saúde a obrigação de custear o referido tratamento nos termos recomendados pelo médico com vistas à preservação da saúde do segurado se a doença é coberta contratualmente.
+A propósito, confira-se o precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NEGATIVA DE COBERTURA DE MEDICAMENTO. TRATAMENTO DE CÂNCER. ADENOCARCINOMA DE PULMÃO. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+3. No caso, trata-se de fornecimento de medicamento para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, causando abalo emocional no segurado, como ocorrido no presente caso, a orientação desta Corte admite a caracterização de dano moral, não se tratando de mero aborrecimento. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.905/DF, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/11/2021, DJe de 3/12/2021 - sem destaques no original)
+Dessa forma, forçoso concluir que a solução jurídica esposada pelo TJRJ, no sentido de obrigar a operadora do plano de saúde a custear o procedimento cirúrgico em testilha, encontra-se em sintonia com o entendimento consolidado nesta Corte Superior, não merecendo, portanto, reparos.
+No mais, observa-se que, nas razões do recurso especial, a UNIMED não impugnou o fundamento do acórdão recorrido de que em virtude do quadro grave do paciente não pode o contrato excluir o tratamento ou procedimento necessário ao restabelecimento da saúde do segurado. Assim, forçoso é o reconhecimento do óbice da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da UNIMED, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a concessão da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO CONSISTENTE EM CIRURGIA PELA VIA ROBÓTICA. CÂNCER. RECUSA. ROL DE PROCEDIMENTOS DA ANS. PRECEDENTES. QUADRO GRAVE DO BENEFICIÁRIO. RECUSA INDEVIDA.FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO .
