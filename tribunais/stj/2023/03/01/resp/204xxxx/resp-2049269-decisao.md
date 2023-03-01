@@ -1,0 +1,54 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (fls. 458/459):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. CAPITAL DE GIRO.
+INOVAÇÃO RECURSAL. Considerando que os tópicos sobre comissão de permanência e Tabela Price foram apresentados somente agora, em grau recursal, é caso de não conhecimento do recurso quanto aos pontos.
+JUROS REMUNERATÓRIOS. A abusividade da taxa dos juros remuneratórios em contratos bancários não se configura tão somente por ter sido pactuada acima de 12%ao ano, devendo ser objeto de análise casuística, mediante cotejo entre a taxa média estipulada e divulgada pelo BACEN para a espécie contratual e a correspondente datada contratação. Caso em que os juros remuneratórios foram estipulados acima do limite previsto pelo Banco Central, constatando-se sua abusividade.
+CAPITALIZAÇÃO MENSAL DOS JUROS. Em se tratando de contratos firmados após a edição da MP 2.170-36, é admitida a capitalização mensal dos juros, desde que expressamente pactuada no contrato. In casu, há cláusula prevendo a cobrança do encargo. CDI. É ilegal a fixação da taxa de juros vinculada ao Certificado de Depósito Interbancário, consoante precedentes jurisprudenciais.
+DESCARACTERIZAÇÃO DA MORA. Verificada a abusividade de cláusula contratual compreendida nos encargos da normalidade (juros remuneratórios), deve ser afastada a mora.
+COMPENSAÇÃO. Constatada a abusividade dos juros remuneratórios aplicados, é cabível a compensação de valores pagos em excesso pela demandante com o restante da dívida.
+REPETIÇÃO DO INDÉBITO. Apurado excesso na cobrança, é cabível a repetição simples do indébito.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Opostos embargos de declaração, esses restaram rejeitados nos seguintes termos (fl. 496):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO. O acórdão embargado enfrenta de maneira suficiente todas as matérias ventiladas no recurso, não sendo constatada qualquer omissão, contradição ou obscuridade. Eventual discordância com o entendimento esposado no provimento judicial não justifica os embargos de declaração. Assim, inexistindo, no acórdão atacado, omissão a ser suprida, obscuridade a ser esclarecida ou contradição a ser eliminada, impõe-se a rejeição dos embargos. Inteligência do art. 1.022 do CPC. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Em suas razões de recurso especial, a recorrente apontou violação aos arts. 141, 373, inciso I, 492, 1.013, 1.022, incisos I e II, 489, §1º, IV, do Código de Processo Civil, bem como ao art. 51, §1º, inciso III, do Código de Defesa do Consumidor, sob os fundamentos de que houve negativa de prestação jurisdicional, insurgiu-se contra a limitação dos juros remuneratórios, afirmando inexistir significativa discrepância entre o percentual contratado e a média de mercado e aduziu nulidade do acórdão em face de decisão citra petita. Suscitou dissídio jurisprudencial. Requereu o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+1. Da negativa de prestação jurisdicional e carência de fundamentação:
+Consoante a jurisprudência do Superior Tribunal de Justiça, tendo as questões postas em discussão sido dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022, ambos do CPC/15.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO, CARÊNCIA DE FUNDAMENTAÇÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA EXISTÊNCIA DE TÍTULO EXECUTIVO LÍQUIDO, CERTO E EXIGÍVEL. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão, carência de fundamentação ou negativa de prestação jurisdicional a ser sanada no julgamento da segunda instância, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 489 § 1º, I, III, IV, do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+(..)
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.097.946/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+2. Do julgamento "citra petita":
+Conforme a jurisprudência do Superior Tribunal de Justiça, não há falar em julgamento "citra petita" quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco deixa de apreciar providência jurisdicional pleiteada pelo autor da ação, respeitando o princípio da congruência.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. ACOLHIMENTO EM PARTE. QUITAÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. PREQUESTIONAMENTO. INEXISTÊNCIA. JULGAMENTO CITRA PETITA. INOCORRÊNCIA. DANO MORAL. AUSÊNCIA. REVISÃO FÁTICO-PROBATÓRIA. INVIABILIDADE. SÚMULA Nº 7 DO STJ. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS PARA NEGAR PROVIMENTO AO AGRAVO INTERNO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. O acórdão vergastado assentou que era válida a quitação, não se demonstrando vício de consentimento ao verificar que no distrato foi assegurada quitação relativa a todo o período contratual. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas nºs 5 e 7 do STJ.
+4. A ausência de debate no acórdão recorrido quanto a tema suscitado no recurso especial evidencia a falta de prequestionamento.
+5. Não há julgamento citra petita se a decisão não deixa de examinar pedido pleiteado pela parte. Precedentes.
+6. A pessoa jurídica pode sofrer danos morais, desde que comprovado o efetivo abalo à imagem da sociedade. Precedentes.
+7. O acórdão recorrido consignou que não houve dano concreto à sociedade empresarial, não vislumbrando dano moral indenizável. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+8. Embargos de declaração parcialmente acolhidos para negar provimento ao agravo interno. (EDcl nos EDcl no AgInt no REsp 1837060/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+3. Dos juros remuneratórios:
+Conforme a jurisprudência do Superior Tribunal de Justiça, não há como afastar a conclusão estadual - no que diz respeito à abusividade dos juros remuneratórios estipulados na avença - sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos Enunciados n.º 5 e 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+2. Não há como afastar a conclusão estadual - no que diz respeito à abusividade dos juros remuneratórios estipulados na avença - sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Corte Superior.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno improvido. (AgInt no AREsp n. 2.148.102/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022.)
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e nego provimento ao recurso especial.
+Por fim, majoro os honorários advocatícios sucumbenciais para 15% (quinze por cento) sobre o valor atualizado da causa.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO BANCÁRIO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO CITRA PETITA. NÃO OCORRÊNCIA. JUROS REMUNERATÓRIOS. ABUSIVIDADE. REVISÃO. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Não é considerado julgamento "citra petita", conforme a jurisprudência desta Corte, quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco deixa de apreciar providência jurisdicional pleiteada pelo autor da ação, respeitando o princípio da congruência.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, não há como afastar a conclusão estadual - no que diz respeito à abusividade dos juros remuneratórios estipulados na avença - sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos Enunciados n.º 5 e 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+4. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
