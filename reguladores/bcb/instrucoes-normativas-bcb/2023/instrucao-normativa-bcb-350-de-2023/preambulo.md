@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 350, DE 15 DE FEVEREIRO DE 2023
+Altera dispositivos da Instrução Normativa BCB nº 243, de 16 de março de 2022, que divulga procedimentos a serem observados para participação direta no Sistema de Pagamentos Instantâneos (SPI), para a abertura da Conta Pagamentos Instantâneos (Conta PI) e define os limites máximos de tempo para validação e para liquidação das ordens de pagamentos instantâneos, de que trata o Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022.
+O Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos (Deban), no uso das atribuições conferidas pelo art. 23, inciso I, alínea “a”, e pelo art. 111, inciso V, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em conta o disposto no Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022,
+R E S O L V E :
