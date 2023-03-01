@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCELO HASENCLEVER BORGES (MARCELO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Minas Gerais, de relatoria do Desembargador LUIZ CARLOS GOMES DA MATA, assim ementado:
+EMENTA: APELAÇÃO CÍVEL  PREPARO REALIZADO EM DOBRO NA FORMA PREVISTA PELO ARTIGO 1.007, §4º, DO CPC  PRELIMINAR DE DESERÇÃO REJEITADA  EXTINÇÃO DA AÇÃO DE EMBARGOS A ADJUDICAÇÃO  DECISÃO EM RECURSO DE AGRAVO DE INSTRUMENTO QUE DETERMINA A REAVALIAÇÃO DO IMÓVEL  CAUSA SUPERVENIENTE INDEPENDENTE DA VONTADE DAS PARTES  INAPLICABILIDADE DO PRINCÍPIO DA CAUSALIDADE  AFASTAMENTO - DA CONDENAÇÃO EM CUSTAS E HONORÁRIOS.  Verificando que houve a realização do preparo, ainda que posterior ao protocolo do recurso, mas de acordo com o disposto no artigo 1.007, § 4º, do Código de Processo Civil, não há que se falar em deserção, impondo-se a rejeição da preliminar de contrarrazões.  Se em grau de recurso, há provimento de um agravo de instrumento, onde se reconhece a necessidade de que, o bem penhorado seja novamente avaliado, cumpre reconhecer que, a extinção posterior dos embargos a adjudicação decorre de causa superveniente, independente de atuação das partes e, portanto, inaplicável se torna o principio da causalidade, não sendo possível reconhecer a sucumbência em honorários, em desfavor de quaisquer das partes. (e-STJ, fls. 234/239)
+Os embargos de declaração opostos por MARCELO foram rejeitados (e-STJ, fls. 257/260).
+Irresignado, MARCELO interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 85, 1022, II, III do CPC, ao sustentar que houve erro material e contradição no acórdão estadual, uma vez que ocorreu sucumbência no julgamento, devendo ser o recorrido condenado ao pagamento de honorários sucumbenciais.
+O recurso não foi admitido pelo Tribunal de Justiça de Minas Gerais (e-STJ, fls. 314/317).
+Nas razões do presente agravo, MARCELO alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da contrariedade e erro material do acórdão estadual
+MARCELO alegou que a decisão estadual possui erro material e contradição, pois não se aplica o princípio da causalidade para fixar os honorários advocatícios sucumbenciais, uma vez que a decisão de extinção dos embargos é completamente dependente com o pleito de adjudicação e com os embargos opostos à mesma por MARCELO.
+Inicialmente, quanto à contradição e erro material do acórdão estadual, nota-se que na verdade o que ocorreu apenas foi decisão contraria à pretensão da parte recorrente. Não restou caracterizada nas razões recursais, qual o erro material ou contradição o acórdão impugnado apresentou em si mesmo, o que a parte quer é que prevaleça a sua tese.
+Assim sendo, a alegação de violação do art. 1.022, II e III do Código de Processo Civil não se sustenta, uma vez que a Corte estadual examinou, de forma fundamentada, as questões submetidas à apreciação na medida necessária para o deslinde da controvérsia, ainda que contrariamente à pretensão do recorrente.
+Portanto, verifica-se que MARCELO não desenvolveu argumentação que evidenciasse a ofensa ao art. 1.022, caracterizando a deficiência na fundamentação do recurso especial, circunstância que atrai, por analogia, a incidência da Súmula 284/STF.
+(2) Dos honorários advocatícios sucumbenciais
+Quanto ao princípio da causalidade e os honorários de sucumbência, o Tribunal estadual fundamentou nos seguintes termos:
+Vejo que, no momento em que a parte contrária requereu nos autos, a adjudicação do bem penhorado, a mesma exerceu, naquele momento, o seu regular direito previsto por lei e permitido pelo andamento processual daquele momento.
+E a parte, ora apelante, igualmente, também exerceu o seu regular direito, ao apresentar os embargos à adjudicação.
+No entanto, nesse ínterim, foi julgado em grau recursal, um anterior recurso de agravo de instrumento, onde restou reconhecida, pelo órgão Julgador, a necessidade de que fosse realizada uma nova avaliação sobre o bem penhorado. Tal fato se constitui em causa superveniente, completamente independente dos embargos à adjudicação ou do pleito de adjudicação e, como tal, não há com o atribuir a quaisquer das partes, a responsabilidade pelo pagamento dos honorários ou custas, sendo inaplicável, no caso presente, o princípio da causalidade.
+Logo, o fato superveniente não guarda correlação com o pleito de adjudicação e não guarda correlação com a oposição dos embargos a adjudicação, tratando-se de decisão judicial independente dos atos processuais praticados pelas partes, nos embargos a adjudicação.
+ ..
+Assim, vejo que, a sentença, ao reconhecer a extinção da ação, acertadamente, reconheceu o afastamento da condenação em custas e honorários, porquanto demonstrado nos autos, que a extinção se deu por causa superveniente independente de atuação das partes. (sem destaque na original)
+Dessa forma, alterar o entendimento do acórdão estadual acerca da inexistência de sucumbência e por isso não há que se falar em princípio da causalidade, tendo em vista a ocorrência de fato superveniente, demandaria análise fática, o que é vedado em sede de recurso especial, nos termos da Súmula n.7/STJ. Confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESCISÃO DE PROMESSA DE COMPRA E VENDA PELO PROMITENTECOMPRADOR. ARRAS CONFIRMATÓRIAS SEGUNDO O ACÓRDÃO. DEVOLUÇÃO INTEGRAL. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. ANÁLISE DE DISPOSITIVO CONTRATUAL. ENUNCIADOS 5 E 7/STJ. TAXA DE OCUPAÇÃO. INVIABILIDADE. TERRENO NÃO EDIFICADO. SÚMULA 83/STJ. DATA DA RESCISÃO. SÚMULA 284/STF. PRINCIPIO DA CAUSALIDADE. SUCUMBÊNCIA. SÚMULA 7/STJ. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM DESACORDO COM JURISPRUDÊNCIA DA SEGUNDA SEÇÃO FIXANDO EM 25% PERCENTUAL DE RETENÇÃO PELO DESFAZIMENTO. ESTIPULAÇÃO ANTERIOR A LEI 13.786/2018. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+6. A revisão da conclusão a que chegou o Tribunal de origem (acerca do fato de que foi a parte agravada quem deu causa para o ajuizamento da demanda) exigiria o revolvimento do acervo fático probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+(..)
+(AgInt no REsp n. 1.930.685/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/10/2021, DJe de 19/10/2021. - sem destaque na original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de fixar honorários advocatícios porque incabíveis.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE E ERRO MATERIAL DO ACÓRDÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/15. NÃO CARACTERIZADA. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. FIXAÇÃO HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. NÃO OCORRÊNCIA. FATO SUPERVENIENTE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
