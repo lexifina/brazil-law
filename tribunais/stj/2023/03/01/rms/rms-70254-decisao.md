@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Victor Ribeiro Soares contra o acórdão de fls. 471/483, proferido à unanimidade pela 5.ª Câmara Cível do Tribunal de Justiça do Estado de Goiás, resumido na seguinte ementa:
+MANDADO DE SEGURANÇA. AGRAVO INTERNO CONTRA DECISÃO PRELIMINAR. PREJUDICIALIDADE CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR. LIMITE ETÁRIO. LEGALIDADE. EXIGÊNGIA EDITALÍCIA E PREVISÃO EM LEI. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Tendo em vista que o feito está apto para julgamento do mérito, deve ser reputado prejudicado o Agravo Interno.
+2 - É permitido à lei "estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir", nos termos do artigo 39, §3º, da Constituição da República.
+3 - O artigo 2º da Lei Estadual nº 15.704/06, que institui o Plano de Carreiras de Praças da Polícia Militar do Estado de Goiás, prevê como requisito de ingresso na carreira militar a idade máxima de 30 (trinta) anos, o que também é corroborado pelo item 3.1.5 do Edital 002/22 não havendo que se falar em ilegalidade ou violação de direito líquido e certo do candidato de permanecer no certame mesmo já tendo atingido idade superior ao permitido (31 anos).
+4. - O Supremo Tribunal Federal entende que a comprovação do requisito relativo ao limite de idade deve realizar-se no momento da inscrição do concurso público (Precedentes).
+AGRAVO INTERNO PREJUDICADO. SEGURANÇA DENEGADA (fl. 473).
+Segundo se extrai da petição vestibular, o recorrente, já em idade acima da legalmente admitida, participou de concurso público para ingresso nos quadros da Polícia Militar do Estado de Goiás e, exatamente por conta do critério etário, teve sua inscrição liminarmente indeferida.
+A Corte Estadual, como se verifica da própria ementa do aresto recorrido, denegou a ordem por não vislumbrar, na espécie, ilegalidade ou abuso de poder.
+Nas razões recursais, fls. 492/507, o Impetrante, ainda fiel às teses suscitadas na exordial, insiste em que o estatuto dos militares estaduais, de 2006, não considera que a expectativa de vida do brasileiro foi dilatada desde então, pelo que manter a cláusula de barreira seria ferir os princípios da razoabilidade e da proporcionalidade e que a restrição editalícia é carente de motivação.
+Em contrarrazões, fls. 688/700, o Instituto AOCP, na qualidade de recorrido, informa que o recorrente, amparado pela decisão liminar posteriormente revogada, participou efetivamente do certame, do qual foi eliminado por não ter alcançado a pontuação mínima prevista no edital. No mais, endossa os fundamentos do acórdão atacado, realçando a ausência de ilegalidade ou abuso de poder.
+O Estado de Goiás não apresentou contrarrazões, consoante certidão de fls. 874.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Brasilino Pereira dos Santos, manifestou-se pelo não provimento do apelo, consoante o parecer de fls. 893/896, assim ementado:
+RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR. ELIMINAÇÃO DO CERTAME POR EXTRAPOLAR O LIMITE ETÁRIO PREVISTO EM LEI E NO EDITAL. JURIDICIDADE DO ATO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. PARECER PELO NÃO PROVIMENTO DO RECURSO ORDINÁRIO. (fl. 893).
+Recurso tempestivo, bem como regular representação (fl. 20).
+Benefício de gratuidade de justiça deferido na origem (fl. 229).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O êxito do recurso ordinário interposto contra acórdão que denega a segurança vai condicionado à demonstração, pelo recorrente, da ocorrência de erro - de procedimento ou na aplicação do direito - verificado durante a prolação do aresto impugnado.
+Na presente hipótese, o recorrente requer a reforma do anterior julgado por compreender que a Corte local não aplicou bem o direito à espécie, ao validar a decisão administrativa de indeferimento da inscrição no certame público, por ser o candidato de idade além do limite etário legalmente fixado.
+O argumento, todavia, não merece prosperar.
+Em primeiro lugar porque, conforme claramente estipula o art. 1º da Lei n. 12.016/2009, a concessão da ordem pressupõe a existência de ato ilegal ou arbitrário, inocorrente na espécie, visto que a fixação da barreira etária não decorre meramente de cláusula editalícia, mas de literal previsão legal, contida no art. 2º da Lei Estadual nº 15.704/2006. Logo, não poderiam as autoridades impetradas agir de outra forma, senão cumprindo fielmente o disposto no instrumento convocatório, indeferindo a inscrição, sob pena de incursão em ilegalidade e arbitrariedade.
+Em segundo lugar, a pretensão autoral não é expressão de um direito líquido e certo, mas pura e simples pretensão contra legem, visto que busca o autor afastar, mediante obtenção da ordem, a incidência do comando legal ao seu caso concreto, fim para o qual não se presta o mandado de segurança.
+Ademais, a se confirmar a notícia de eliminação posterior em razão do baixo desempenho nas provas objetivas, faltaria ao recorrente também o interesse de agir.
+Por todas estas razões, isolada ou conjuntamente consideradas, não se vislumbra, no acórdão recorrido, erro de aplicação do direito, o que recomenda a sua integral preservação.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVII, "b" do RISTJ, nego provimento ao presente recurso ordinário, mantendo íntegro, e pela sua própria fundamentação, o acórdão recorrido.
+Publique-se.
