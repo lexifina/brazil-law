@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo do BANCO DO BRASIL S.A. impugnando decisão que não admitiu o recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 145):
+INTERESSES TRANSINDIVIDUAIS - EXECUÇÃO INDIVIDUAL - Descabimento da suspensão da execução individual - As demais matérias ora alegadas já foram objeto da impugnação ao cumprimento da sentença - Referida defesa foi julgada - Ocorrência do trânsito em julgado - Impossibilidade de rediscussão Cabimento da extinção da execução, nos moldes do inciso II, do artigo 924 do Novo Código de Processo Civil Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 181-184).
+Nas razões do recurso especial (e-STJ, fls. 188-207), fundamentadas no art. 105, III, a , da CF, o agravante apontou violação dos arts. 240, 884 do CC; 2º-A da Lei n. 9.494/1997; 20 do CPC/1973; 85, 525, V, do CPC/2015. A insurgência tratou dos seguintes temas: (a) ilegitimidade ativa do poupador beneficiário de sentença coletiva, por falta de vínculo associativo (suspensão do feito); (b) excesso de execução; (c) juros remuneratórios não contemplados na sentença; (d) honorários advocatícios; (e) termo inicial dos juros de mora; e (f) e índice de correção monetária para fevereiro de 1989 (10,14%).
+Brevemente relatado, decido.
+O pedido de sobrestamento do processo não se justifica, haja vista a superveniência da tese fixada no julgamento do Tema 948 dos Recursos Repetitivos: "Em Ação Civil Pública proposta por associação, na condição de substituta processual de consumidores, possuem legitimidade para a liquidação e execução da sentença todos os beneficiados pela procedência do pedido, independentemente de serem filiados à associação promovente" (REsp n. 1.438.263/SP, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 28/04/2021, DJe 24/05/2021).
+Nota-se, igualmente, que não houve pronunciamento sobre as demais teses recursais.
+Ausente o debate no acórdão recorrido a respeito dos referidos te mas, é inviável a apreciação da insurgência ante a falta do indispensável prequestionamento, incidindo a Súmula n. 211/STJ.
+Ante o exposto, nego provimento agravo.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. 1. LEGITIMIDADE ATIVA. POUPADOR. VÍNCULO ASSOCIATIVO. SOBRESTAMENTO. DESNECESSIDADE. TEMA N. 948/STJ. 2. EXCESSO DE EXECUÇÃO. JUROS REMUNERATÓRIOS. HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. 3. AGRAVO DES PROVIDO.
