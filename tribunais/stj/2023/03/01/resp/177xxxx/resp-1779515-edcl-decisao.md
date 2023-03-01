@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ABAC - ASSOCIAÇÃO BRASILEIRA DE ADMINISTRADORAS DE CONSÓRCIOS (fls. 991-997), recurso em relação ao qual o CONSÓRCIO NACIONAL FORD LTDA aderiu às fls. 1.000-1.001.
+A decisão embargada não conheceu do recurso especial do Consórcio Nacional Ford Ltda.
+Afirmam as embargantes ter sido omissa a decisão de fls. 973-986, porque não se manifestou sobre o pedido de ingresso nos autos do amicus curiae, apresentado às fls. 919-960, em momento anterior ao decisum.
+Alegam ser a omissão relevante porque o amicus curiae poderia contribuir para a apreciação dos temas de mérito colocados no recurso especial do Consórcio Nacional FORD, notadamente no que se refere à "definição sobre a conformação e os limites da Cláusula Penal, com exclusão da parte destinada à Administradora, por suposta dupla penalidade, é relevante para as Administradoras de Consórcio, pois a d. decisão Estadual desconsidera o regime jurídico patrimonial e as bases em que o Sistema de Consórcio é constituído, especialmente a separação de patrimônios de Administradora e Grupos (cf. § 5º do art. 1º do Regulamento anexo à Circular BACEN nº 2.766/972 - norma que regia o Sistema de Consórcio até a elaboração da Lei do Consórcio - e, hodiernamente, § 3º do art. 3º da Lei 11.795/083) e, assim, a necessidade de separação contratual do destinatário de cada parcela da pena convencional prevista em contrato, e retirando a previsibilidade e desprotegendo a Administradora dos custos incorridos pelo consorciado desistente e pela frustração de receitas." (fls. 993-994).
+Dizem que a decisão que não conheceu do especial equivoca-se ao consignar que essa controvérsia encontra óbice nas Súmulas 5 e 7/STJ.
+Pedem o acolhimento dos embargos de declaração, com efeitos infringentes, para que seja reconsiderada a decisão que julgou o recurso especial, possibilitando a sua manifestação prévia.
+Não foi apresentada impugnação (fl. 1.009).
+É o relatório. Decido.
+A súplica merece acolhida, pois constata-se a omissão relativa à não apreciação do ingresso do amicus curiae, bem como a aparente relevância das alegações da ABAC, quanto a ponto trazido a debate no especial, atraindo a incidência do art. 138 do CPC, já que foi proferida a decisão no recurso especial, sem que fosse apreciado o pleito da ora embargante de ingresso nos autos.
+Ante o exposto, acolho os embargos de declaração, para admitir a ABAC - ASSOCIAÇÃO BRASILEIRA DE ADMINISTRADORAS DE CONSÓRCIOS como amicus curiae, ficando integrada a decisão embargada.
+Publique-se.
