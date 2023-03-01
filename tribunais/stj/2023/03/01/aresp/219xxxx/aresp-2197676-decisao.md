@@ -1,0 +1,18 @@
+DECISÃO
+Na origem trata-se de Mandado de Segurança contra ato coator de autoridade pública acerca de exação tributária municipal. Na sentença concedeu-se a segurança pleiteada. No Tribunal a quo a sentença foi reformada para reconhecer ilegitimidade da autarquia regulatória no feito e determinar o encaminhamento dos autos à justiça estadual. O valor da causa foi fixado em R$ 3.000,00 (Três mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. DEBATE ACERCA DE TRIBUTO MUNICIPAL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INTERESSE DA ANEEL QUE NÃO SE VERIFICA. INCOMPETÊNCIA DA JUSTIÇA FEDERAL
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Isto porque a Lei n" 9.427/96, em seu artigo 2º, esclarece que a finalidade da Agência Nacional de Energia Elétrica - ANEEL é regular e fiscalizar a produção, transmissão, distribuição e comercialização de energia elétrica, em conformidade com as políticas e diretrizes do governo federal, consignando ademais, no artigo 3º que suas atribuições consistem em:
+(..)
+Desta maneira, não se vislumbra dentre as funções da ANEEL intervir nas relações entre a concessionária do serviço público e qualquer outra pessoa jurídica ou física, salvo para fazer valer as atribuições acima referidas. Este tem sido o entendimento sufragado pela Jurisprudência do Superior Tribunal de Justiça, sendo oportuna a transcrição da seguinte decisão:
+(..)
+E não se alegue que o pagamento de dita exação pode vir a interferir no equilíbrio financeiro do contrato de concessão, a autorizar a participação da ANEEL no feito, porquanto o pagamento do tributo, se devido, não implica em automático aumento do custo dos valores a serem cobrados dos consumidores, cabendo à concessionária demonstrar, se o caso, a necessidade do repasse de tais valores aos consumidores.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
