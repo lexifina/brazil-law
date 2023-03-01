@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por Maria Cristina de Britto Beraldi Abduch e Raphael Antônio de Britto Abduch contra a decisão de fls. 1.582-1.584 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 1.513-1.519 e 1.549-1.555 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+Inventário - Homologação da partilha - Pretendido sobrestamento do feito, para aguardar decisão a ser proferida nos autos da ação de prestação de contas ajuizada em face do inventariante - Inadmissibilidade - Inexistência de prejudicialidade - Demais questões patrimoniais que devem mesmo ser objeto de demandas autônomas, por exigirem dilação probatória - Litigância de má-fé - Não ocorrência - Sentença mantida - Recurso desprovido.
+Embargos declaratórios fundados em omissão e visando ao prequestionamento - Decisão que trouxe a fundamentação necessária à conclusão que ali se chegou, à unanimidade - Rejeição dos embargos.
+Nas razões do recurso especial (e-STJ, fls. 1.522-1.536), apontaram os insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 313, V, a, 553, Parágrafo único, e 554, § 5º, do CPC/2015. Sustentaram, em síntese, a existência de prejudicialidade externa que torna nula a sentença que homologou a partilha.
+Contrarrazões às fls. 1.560-1.581 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não demonstração da violação aos dispositivos arrolados; b) incidência da Súmula 7/STJ; e c) não comprovação do alegado dissídio jurisprudencial.
+Daí o presente agravo, no qual os insurgentes contestam a aplicação dos óbices.
+Contraminuta às fls. 1.666-1.685 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise dos acórdãos recorridos, verifica-se que o Tribunal de origem concluiu pelo descabimento da suspensão da ação de inventário, por inexistência de prejudicialidade externa e por inexistência de prejuízo.
+Veja-se às fls. 1.517-1.518 (e-STJ):
+Em verdade, o que pretendem os recorrentes é a suspensão do trâmite do inventário, para aguardar o julgamento da ação de prestação de contas ajuizada em face do inventariante, o que, todavia, não se mostra razoável, mormente em se considerando o trâmite do inventário há mais de 06 anos. Além do mais e como observado pelo e. juízo, outras questões pendentes, máxime a prestação de contas dos valores auferidos com a venda dos imóveis e a alegada simulação, devem ser dirimidas nas vias a tanto adequadas, até e porque exigem dilação probatória, o que é absolutamente inviável nos estreitos lindes do inventário. Inexiste, ainda, prejuízo para os apelantes, tendo em vista que eventual acréscimo patrimonial ao espólio em decorrência das demandas autônomas poderá ser objeto de oportuna sobrepartilha, de modo que não se há falar em sobrestamento do inventário, para aguardar decisão a ser proferida nos autos da ação de prestação de contas, já que não cuida de questão prejudicial.
+A jurisprudência desta Corte é no sentido de que a revisão da conclusão a que chegou o Tribunal de origem sobre o descabimento da suspensão do processo por prejudicialidade externa encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE PREJUDICIALIDADE EXTERNA. SUSPENSÃO DO PROCESSO. NECESSIDADE DE REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. INTEGRANTES DA CADEIA DE CONSUMO. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O STJ possui o entendimento de que a paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto, não podendo a questão ser revista nesta sede excepcional, ante o óbice da Súmula n.º 7 do STJ. Precedentes.
+3. A jurisprudência desta Corte reconhece a responsabilidade solidária entre os fornecedores que figuram na cadeia de consumo na compra e venda de imóvel. Incidência da Súmula n.º 568 do STJ.
+4. N ão sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.143.080/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Importante consignar o entendimento desta Corte Superior no sentido de que a incidência da Súmula 7/STJ impede o exame do alegado dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RESPONSABILIDADE DO FORNECEDOR CIVIL. PROPAGANDA ENGANOSA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. A verificação de que a situação não ultrapassou o mero inadimplemento contratual exigiria o reexame de provas, vedado em recurso especial.
+3. "Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1812345/AM, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe 21/11/2019).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.817.343/SP, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 04/10/2021, DJe 08/10/2021).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. HOMOLOGAÇÃO DA PARTILHA. EXISTÊNCIA DE PREJUDICIALIDADE EXTERNA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE OBSTADA PELA INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
