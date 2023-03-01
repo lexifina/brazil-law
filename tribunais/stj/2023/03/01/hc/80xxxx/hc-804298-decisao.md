@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de BRUNO LUCAS DA SILVA, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal nº 1518708-58.2019.8.26.0228.
+Depreende-se dos autos que a parte paciente foi condenada às penas de 9 anos e 4 meses de reclusão e 711 dias-multa, como incursa nas sanções dos crimes de corrupção ativa e tráfico de drogas.
+Daí o presente habeas corpus, no qual a d. Defesa invoca a anulação das provas que considera ilícitas, em decorrência de suposta violação do direito ao silêncio do paciente, não advertido disso quando da sua abordagem.
+Explica que a condenação, ao final, se deu com base apenas nas palavras dos policiais, o que ensejaria a absolvição.
+Requer, inclusive LIMINARMENTE, a concessão da ordem, para "absolver o Paciente nos termos do artigo 386, inciso VII do Código de Processo Penal" (fl. 12).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso próprio.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Aliás, a respeito do cabimento do presente remédio heroico, oportuna é a menção do escólio de Guilherme de Souza Nucci:
+"O habeas corpus é um remédio, mas não pode se tronar um veneno para as instituições, permitindo a morte de recursos expressamente previstos em lei, desigualando as partes (somente o réu pode valer-se) e deixando o Judiciário refém de uma demanda que se apresenta numa singela petição inicial, acompanhada de alguns documentos apenas" (NUCCI, Guilherme de Souza. Habeas Corpus. 4ª ed. Rio de Janeiro: Forense, 2022, pág. 25).
+Não se descure que, para o eventual conhecimento da ordem, far-se-ia necessário que o direito alegado pela d. Defesa fosse líquido - dispensando apuração probatória - e certo - indene de dúvidas.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no v. acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial da parte paciente.
+Isso até mesmo porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+Sobre a autoria e materialidade, consignou a eg. Corte de origem que (fls. 17-18):
+"A materialidade do delito restou demonstrada pelo laudo de exame toxicológico juntado a fls. 127/130, que constatou que as substâncias apreendidas eram cocaína e maconha, entorpecentes capazes de causar dependência física e psíquica, enquanto a autoria em relação ao apelante ficou bem demonstrada na prova dos autos.
+De fato, preso em flagrante, na posse dos entorpecentes, o acusado preferiu o silêncio quando foi ouvido na delegacia de polícia (fls. 17), mas já naquela oportunidade foi incriminado pelos policiais militares Gary Antônio dos Santos e Leandro Tenório de Freitas Oliveira, que aprenderam em poder dele uma bolsa contendo 233 pinos de cocaína e R$ 3.912,00 em dinheiro trocado, além de um telefone celular e a chave de um automóvel FIAT/Punto, no interior do qual foi encontrado mais entorpecente e outro do telefone celular.
+Levado à delegacia, o acusado ofereceu aos policiais a quantia de R$ 10.000,00 e uma arma de fogo para evitar a prisão e, depois que simularam interesse na oferta, ele telefonou para alguém e uma moça (a corré não apelante Tainara) trouxe uma bolsa até próximo da delegacia, contendo R$ 10.008,00 e uma pistola, calibre 380 (fls.14/15 e 16).
+Como, então, a corré Tainara confirmou que andava na rua, quando um indivíduo desconhecido passou de carro e pediu que levasse aquele saco até o local, onde foi presa em flagrante, afirmando que desconhecia o seu conteúdo (fls. 18), somente esses elementos já conferiam razoável certeza a propósito da procedência da acusação.
+Mas não é só. (..)" (grifei)
+Como se apreende, não obstante o paciente tenha optado pelo direito ao silêncio na fase inicial, tal suposta nulidade não foi objeto de insurgência na origem.
+No mais, a autoria e materialidade, como acima demonstrado, se extraem de outras provas, como o laudo toxicológico e a própria prisão em flagrante.
+Assim, eventual desconstituição de tal premissa demandaria aprofundada dilação probatória, totalmente incompatível com a via eleita.
+Outrossim, no que atine à questão da validade dos depoimentos policiais em geral, esta eg. Corte também é pacífica no sentido de que eles merecem a credibilidade e a fé pública inerente ao depoimento de qualquer funcionário estatal no exercício de suas funções e ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada.
+Nestes termos: "Conforme entendimento desta Corte, o depoimento de policiais responsáveis pela prisão em flagrante do acusado constitui meio de prova idôneo a embasar o édito condenatório, mormente quando corroborado em Juízo, no âmbito do devido processo legal" (AgRg no AREsp n. 1.281.468/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe d e 14/12/2018, grifei).
+No mesmo sentido: AgRg nos EDcl no HC n. 446.151/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2019.
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+Sobre o tema, os seguintes julgados: HC 431.708/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/5/2018; HC n. 376.672/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/8/2017; e AgRg no HC 379.981/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2017.
+Diante disso, não se constatou, de plano, a flagrante ilegalidade apontada pela d. Defesa nestes autos.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+P. I.
