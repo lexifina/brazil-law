@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Versina Nunes da Silva à decisão proferida por esta relatoria nos termos da seguinte ementa (e- STJ, fl. 403):
+AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. AÇÃO REVISIONAL. 1. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega a embargante a existência de vício na decisão embargada.
+Para tanto aduz a ocorrência de omissão no decisum, acerca da falta de majoração dos honorários sucumbenciais recursais em seu favor, sob a justificativa de já ter o Tribunal local fixado no seu percentual máximo de 20%.
+Afirma que a fixação em Segundo grau não se deu pelo valor da condenação, mas sobre a fixação do Juízo de primeiro grau, o qual arbitrou os honorários sucumbenciais em R$ 1.000,00 (mil reais) em favor do patrono da autora.
+Dessa maneira, defende que os honorários foram fixados no processo por arbitramento e equidade, não sobre a condenação ou valor da causa, de modo que devem ser majorados em atenção ao trabalho realizado para o percentual sugerido pelo TJRS, com mais 30% sobre a majoração anterior.
+Impugnação apresentada às fls. 414-422 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Na hipótese dos autos, a insurgente alega a existência de omissão no decisum por não ter arbitrado os honorários recursais de sucumbência.
+Com efeito, a jurisprudência desta Corte é no sentido de que o CPC/2015 são aplicáveis e consequentemente incidem honorários recursais de sucumbência, nos recursos interpostos contra decisões publicadas na vigência do novo código.
+Nesse sentido (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO CONFIGURADA. ACOLHIMENTO DOS EMBARGOS PARA SANAR O VÍCIO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS.
+I - Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos: Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+II - A título exemplificativo, podem ser utilizados pelo julgador como critérios de cálculo dos honorários recursais: a) respeito aos limites percentuais estabelecidos nos §§ 2º e 3º do art. 85 do CPC de 2015; b) observância do padrão de arbitramento utilizado na origem, ou seja, se os honorários foram fixados na instância a quo em valor monetário, por meio de apreciação equitativa (§ 8º), é interessante que sua majoração observe o mesmo método; se, por outro lado, a verba honorária foi arbitrada na origem com base em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, na forma do § 2º, é interessante que o tribunal mantenha a coerência na majoração utilizando o mesmo parâmetro; c) aferição do valor ou do percentual a ser fixado, em conformidade com os critérios estabelecidos nos incisos I a IV do § 2º do art. 85; d) deve ser observado se o recurso é parcial, ou seja, se impugna apenas um ou alguns capítulos da sentença, pois em relação aos demais haverá trânsito em julgado, nos termos do art. 1.002 do CPC de 2015, de modo que os honorários devem ser arbitrados tendo em vista o proveito econômico que a parte pretendia alcançar com a interposição do recurso parcial; e) o efetivo trabalho do advogado do recorrido.
+III - No caso dos autos, além de o recurso especial ter sido interposto quando ainda estava em vigor o CPC de 1973 e não haver sido fixada verba honorária na origem, por se tratar de decisão interlocutória, a parte ora embargante pretende o arbitramento dos honorários recursais previstos no § 11 do art. 85 do Novo CPC no âmbito do agravo interno, o que, como visto, não é cabível.
+IV - Embargos de declaração acolhidos para, sem atribuição de efeitos infringentes, sanar a omissão no acórdão embargado. (EDcl no AgInt no REsp 1.573.573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/4/2017, DJe 8/5/2017)
+No presente caso, em relação aos honorários advocatícios o acórdão recorrido ao negar provimento ao apelo da parte ora embargada asseverou que (e-STJ, fls. 132-133 - sem grifo no original):
+HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO.
+Os honorários advocatícios devem ser fixados tendo em conta o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo ou não havendo condenação, sob o valor atualizado da causa; e sua fixação entre o percentual mínimo e máximo - quando não taxada - deve levar em conta a natureza e a importância da causa, o grau de zelo, lugar da prestação do serviço, trabalho realizado e tempo exigido do profissional, mesmo no caso de extinção do processo sem resolução de mérito, como disposto no art. 85 do CPC/15.
+A sentença de procedência implica na responsabilização do réu por honorários percentuais de 10% a 20% sobre o valor da condenação; e em caso de sucumbência recíproca na condenação percentual sobre o reflexo econômico da condenação a cada uma das partes. Dispõe o Código:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(..)
+§ 2o Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+(..)
+Art. 86. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas.
+Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários.
+Na hipótese em que o proveito econômico for de valor inestimável ou irrisório ou, ainda, o valor da causa for muito baixo, os honorários serão fixados por apreciação equitativa levando em conta aqueles critérios de valoração profissional; e estabelecidos em valor determinado porquanto inviável a estipulação percentual sem resultar em honorários irrisórios. Dispõe, no ponto, aquele artigo:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(..)
+§ 8o Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2o.
+(..)
+No caso dos autos, a sentença fixou honorários em R$ 1.000,00 em favor do patrono da parte autora; e o recurso da parte ré busca a sua redução.
+No entanto, os honorários advocatícios foram fixados com adequada valoração dos critérios fixados no Código; e se impõe mantê-los no valor fixado.
+Com efeito, os honorários devem ser fixados atendendo aos critérios estabelecidos no art. 85 do CPC/15; e em particular com observância do previsto nos respectivos §§ 2º e 8º.
+Circunstância dos autos em que impõe manter os honorários fixados na sentença.
+Portanto, no ponto, o recurso não merece provimento.
+Finalmente, o §11 do art. 85 do CPC/15 prevê a majoração dos honorários advocatícios em caso de não conhecimento integral ou desprovimento do recurso; a sentença fixou honorários de R$ 1.000,00 e com o resultado deste julgamento impõe-se majorá-los em 30%.
+Dessa maneira, verifica-se do aresto recorrido que os honorários sucumbenciais fixados na sentença em R$ 1.000,00 (mil reais) foram mantidos, e sobre eles foi imposta a majoração de 30%, nos termos do art. 85, § 11, do CPC/2015, cujo percentual está acima daquele previsto no § 2º do citado dispositivo do Código processual.
+Sendo assim, os honorários sucumbenciais em favor do advogado da parte ora embargante não foram majorados tendo em vista que estes já fixados no valor máximo pela instância ordinária, nos termos do art. 85, § 11 do NCPC.
+Portanto, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
