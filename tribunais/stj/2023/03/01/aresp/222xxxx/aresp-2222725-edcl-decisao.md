@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ LUCIANO MALHEIROS DE PAIVA e outros, em face de decisão monocrática da lavra deste signatário, acostada às fls. 790-795 (e-STJ), que negou provimento ao reclamo em razão da incidência das Súmulas 282 e 283 do STF.
+Irresignados, os embargantes sustentam, em síntese, a existência de erro no decisum monocrático, demonstrando insatisfação com a incidência dos óbices sumulares e pugnando pela reforma da decisão embargada.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer erro ou omissão a ser sanada.
+A decisão foi suficientemente clara e devidamente fundamentada nas suas razões ao negar provimento ao recurso em razão da incidência da Súmula 283 e da falta de prequestionamento. Assim constou da decisão ora embargada (e-STJ, fl. 791-793):
+1. Inicialmente, quanto à alegada ofensa ao art. 485, VI do CPC/15, o recorrente alegou que com a extinção do Espólio, esgotou-se a sua legitimidade ad causam. Sobre o tema, a Corte estadual assentou o seguinte (e-STJ, fl. 420):
+Impende mencionar que, tendo sido homologado o esboço de partilha apresentado no arrolamento judicial (processo nº 0003021 -59.2012.8.19.0001), não foi noticiada nos presentes autos a averbação da propriedade dos herdeiros no registro de imóveis, ausente, portanto, a alegada ilegitimidade do espólio. Ademais, os herdeiros apelantes poderiam ter requerido sua habilitação nos autos ao tempo da homologação da partilha, sem esperar a prolação da sentença, cujo teor foi desfavorável às suas pretensões, tendo optado, no entanto, por requerer a exclusão do espólio do polo passivo, p ara prosseguimento do feito somente em face da herdeira possuidora (peça 000205).
+Nesse contexto, atentando-se aos argumentos trazidos pela parte insurgente e ao fundamento (acima destacado) adotado pela Corte estadual, verifica-se que este não foi objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de fundamento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+(..)
+2. Outrossim, a pretensão relativa aos arts. 1348 e 1350 do Código Civil também não merece prosperar, tendo o Tribunal de origem afirmado expressamente a inviabilidade de apreciação do pedido de prestação de contas em razão da exigência de rito especial. Confira-se (e-STJ, fl. 422):
+Aduzem os herdeiros, o espólio e a inventariante e herdeira possuidora do imóvel a imprescindibilidade da prestação de contas pelo condomínio para a cobrança das cotas condominiais, tendo pleiteado em reconvenção a prestação de contas por parte do condomínio, o que não se mostra possível, na espécie, devido ao rito especial da ação de prestação de contas.
+Nesse sentido, como esse fundamento é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, também incide, neste ponto, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+(..)
+3. Por fim, constata-se da leitura do acórdão recorrido que o Tribunal de origem não decidiu acerca dos arts. 9º, 12 e 24 da Lei 4591/64, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Saliente-se, ainda, que o agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de provocar o pronunciamento do Colegiado sobre a matéria contida nos referidos artigos. Incidem, portanto, os óbices dispostos nas Súmulas 282 e 356 do STF.
+Deste modo, não se vislumbrando quaisquer das máculas do artigo 1.022 do CPC/15, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, é de rigor a rejeição do apelo.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
