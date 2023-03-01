@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDIA VALERIA ANDRADE GOMES contra decisão que inadmitiu recurso especial com fundamento na ausência de afronta aos arts. 9º, 10 e 487 do CPC e 205 do CC, bem como na falta de demonstração de similitude fática entre o acórdão recorrido e os paradigmas colacionados.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1010768-71.2020.8.26.0032) assim ementado (fl. 801):
+Apelação - Compra e venda de imóvel - Área de garagem menor do que a constante na proposta de compra e venda - Pretensão indenizatória - Prazo decadencial ânuo, conforme previsto no artigo 501 do Código Civil, que flui da entrega do imóvel - Precedentes Recurso provido, extinta a demanda com apreciação do mérito no que diz respeito ao pleito indenizatório relativo à vaga de garagem.
+Nas razões do recurso especial, a ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 9º, 10 e 487, parágrafo único, do CPC (item a), afirmando que a Corte estadual reconheceu a existência da decadência, matéria que não fora objeto do recurso de apelação, incorrendo em "decisão surpresa", além de não oportunizar a manifestação das partes.
+Alega também afronta ao art. 205 do CC (item b), sustentando que o prazo a ser considerado para o ajuizamento de ações indenizatórias por inadimplemento contratual é decenal.
+Requer o conhecimento e o provimento do recurso para que se afaste o prazo prescricional.
+Apresentadas contrarrazões às fls. 1.022-1.026.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Na origem, a ação foi julgada procedente para condenar a recorrida ao pagamento de indenização por dano material em razão da entrega de vaga de garagem em metragem inferior àquela constante na proposta de venda do imóvel objeto do contrato de promessa de compra e venda firmado entre as partes.
+A Corte local reconheceu a decadência e extinguiu a demanda com apreciação do mérito no que diz respeito ao pleito indenizatório. Observe-se (fls. 803-807):
+Não me parece que se possa reconhecer direito indenizatório pela entrega de bem imóvel com área menor, que não se confunda com o próprio direito ao abatimento do preço, que tem prazo de um ano para ser exercido, nos termos do disposto no artigo 501 do Código Civil.
+Dispõe o artigo 500 do Código Civil: "Se, na venda de um imóvel, se estipular o preço por medida de extensão, ou se determinar a respectiva área, e esta não corresponder, em qualquer dos casos, às dimensões dadas, o comprador terá o direito de exigir o complemento da área, e, não sendo isso possível, o de reclamar a resolução do contrato ou abatimento proporcional ao preço".
+Por seu turno, prevê o artigo 501 do Código Civil: "Decai do direito de propor as ações previstas no artigo antecedente o vendedor ou o comprador que não o fizer no prazo deum ano, a contar do registro do título. Parágrafo único. Se houver atraso na imissão de posse no imóvel, atribuível ao alienante, a partir dela fluirá o prazo de decadência". Aplica-se, portanto, à espécie, este dispositivo legal.
+ ..
+Trata-se, portanto, do prazo decadencial ânuo.
+O recebimento das chaves ocorreu no dia 01 de fevereiro de 2018 (conferir fls. 249/250) e a presente demanda foi ajuizada apenas em 26 de junho de 2020.
+A pretensão da autora, portanto, foi alcançada pela decadência.
+Por fim, saliento que a tendência do sistema jurídico brasileiro tem sido a redução dos prazos decadenciais e prescricionais, respeitando-se, cabe destacar, o direito dos consumidores, plenamente razoável o prazo de um ano para que se identifique o alegado vício de metragem.
+3. Ante o exposto e por tudo mais quedos autos consta, DOU PROVIMENTO ao recurso da ré para acolhera preliminar de decadência, ficando prejudicada as demais matérias.
+Condeno a autora ao pagamento das custas e despesas processuais, além de honorários ao advogado da ré, que fixo em 20% do valor atribuído à causa, devidamente corrigido, ficando a cobrança adstrita à alteração de fortuna, por ser beneficiária da justiça gratuita (fl. 94).
+Registre-se que a afronta ao princípio da vedação de decisão surpresa e as questões infraconstitucionais relativas aos arts. 9º, 10 e 487, parágrafo único, do CPC (item a), suscitadas no recurso especial, não foram objeto de debate no acórdão recorrido, tampouco a parte suscitou tais matérias nos embargos de declaração opostos; ausente, portanto, o indispensável prequestionamento.
+Caso, pois, de aplicação das Súmulas n. 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO INDENIZATÓRIA. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DANOS MORAIS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não foram desenvolvidas as razões pelas quais o recorrente entende ser cabível o recurso especial pela alínea "c" do permissivo constitucional, não se desincumbindo sequer de colacionar os eventuais julgados que divergem do acórdão ora impugnado, o que atrai, por analogia, o óbice previsto na Súmula 284/STF.
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 8.000,00 (oito mil reais) não se mostra irrisório nem desproporcional aos danos suportados pela parte autora, considerando que os danos sofridos em seu imóvel foram reparados e que este foi posteriormente alienado.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 2.190.702/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. ARTS. 371 E 489, § 1º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo Tribunal de origem e não foram opostos embargos de declaração para provocar sua análise.
+2. Não há ofensa aos arts. 371 e 489 do CPC quando o Tribunal estadual decide, de modo fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.095.751/MS, de minha relatoria, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Em relação à contrariedade ao art. 205 do CC (item b) e à divergência jurisprudencial, melhor sorte não socorre a parte ora agravante, tendo em vista que o acórdão recorrido se coaduna com a jurisprudência do STJ de que o direito de abatimento do preço do imóvel decorrente da diferença entre a área real do bem e a constante do contrato decai em 1 ano, o que atrai a incidência da Súmula n. 83 desta Corte.
+Confiram-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. CAGA DE GARAGEM ENTREGUE COM METRAGEM INFERIOR. PRAZO DECADENCIAL DE 1 ANO. INTELIGÊNCIA DOS ARTS. 500 E 501 DO CC/02. PRECEDENTES. NOMEN IURIS DA AÇÃO. IRRELEVÂNCIA. CAUSA DE PEDIR E PEDIDO DEFINEM A NATUREZA. PRECEDENTES.
+1. Ação de indenização por danos materiais.
+2. A jurisprudência do STJ é no sentido de que o direito de abatimento no preço do imóvel, decorrente da diferença de metragem entre a área real do bem e a constante do contrato, decai em 1 (um) ano, conforme art. 501 do Código Civil. Precedentes.
+3. O nomen iuris atribuído à demanda é irrelevante para se determinar sua natureza jurídica, a qual depende da causa de pedir e do pedido. Precedentes.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.073.506/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ÁREA MENOR DO QUE A PREVISTA NO CONTRATO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE EXAME. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRAZO DECADENCIAL. ART. 501 DO CÓDIGO CIVIL. AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2. O direito de abatimento no preço do imóvel, decorrente da diferença entre a área real do bem e a constante do contrato, decai em um ano, conforme art. 501 do Código Civil de 2002. Precedentes.
+3. Agravo interno provido para, em novo exame, conhecer do agravo e negar provimento ao recurso especial. (AgInt nos EDcl no AREsp n. 1.914.674/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022, DJe de 1º /4/2022.)
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
