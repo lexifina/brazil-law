@@ -1,0 +1,15 @@
+DECISÃO
+Estes autos foram-me distribuídos em razão de conexão com o REsp n. 1.844.824/SP.
+T rata-se de habeas corpus impetrado em favor de Luis Fernando de Cerqueira, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0056620-64.2012.8.26.0114 - fls. 30/65).
+Consta dos autos que o Juízo de Direito da 5ª Vara Criminal da comarca de Campinas/SP condenou o ora paciente à pena de 4 anos, 5 meses e 10 dias de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 50 dias-multa, em razão da prática do crime previsto no art. 155, § 4º, II e IV, por diversas vezes, c/c o art. 71, ambos do Código Penal (Ação Penal n. 0056620-64.2012.8.26.0114 - fls. 13/29).
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, a fim de afastar as circunstâncias desfavoráveis, reduzir as penas para 3 anos, 4 meses de reclusão, e ao pagamento de 16 dias-multa, alterar o regime inicial de cumprimento da pena de Luiz para o inicial aberto e substituir a pena privativa de liberdade para ambos os apelantes por 2 restritivas de direitos, a serem estabelecidas pelo Juízo da Vara das Execuções Penais e, afastando, por fim, a condenação a reparar os danos causados à vítima, mantendo-se, a r. sentença, por seus próprios e jurídicos fundamentos (fl. 65).
+Interposto o REsp n. 1.844.824/SP por SABIC INNOVATIVE PLASTICS SOUTH AMERICA, na qualidade de assistente de acusação, proferi decisão dando-lhe parcial provimento, a fim de restabelecer a valoração negativa dos vetores judiciais que exasperaram a pena-base na sentença condenatória, bem como os regimes iniciais de cumprimento de pena e a vedação à substituição do cárcere por restritivas de direitos ao recorrido L F de C (fl. 1.831 daqueles autos - grifo nosso).
+No presente writ, a defesa pretende, em síntese, seja reconhecido que o paciente ter sua pena diminuída e consequentemente alterado o regime de pena do semiaberto para o aberto, inexistindo motivo para que lhe fosse vedado esse direito (fl. 9).
+É o relatório.
+As questões referentes à dosimetria da pena e ao regime de seu cumprimento já foram devidamente analisadas por esta Casa no julgamento do REsp n. 1.844.824/SP, ocasião em que restabeleci a pena-base fixada pelo Juízo de primeiro grau, bem como seus consectários legais.
+Reitero que, tratando-se de réu primário, que teve sua pena-base fixada acima do mínimo legal e a definitiva em 4 anos, 5 meses e 10 dias de reclusão, não há falar em existência de constr angimento ilegal no estabelecimento do regime semiaberto para o início do seu cumprimento. Pelo contrário, apesar da existência de circunstâncias judiciais desfavoráveis, o paciente foi amplamente beneficiado com o regime intermediário (art. 33, § 3º, do CP).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA DA PENA. REGIME DE CUMPRIMENTO. MATÉRIAS JÁ ANALISADAS EM RESP INTERPOSTO PELO ASSISTENTE DE ACUSAÇÃO.
+Writ não conhecido.
