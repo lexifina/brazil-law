@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravos em recurso especial interpostos por VALDENICE CAROLINA SOARES (primeira agravante) e por NEURI ROQUE SIEPAMANN (segundo agravante) contra decisões que inadmitiram os recursos especiais, fundamentados no art. 105, inciso III, Constituição Federal.
+Ação: reivindicatória, ajuizada por PAULO FERNANDO LERIAS (agravado), em face de VALDENICE CAROLINA SOARES (primeira agravante), de NEURI ROQUE SIEPAMANN (segundo agravante) e OUTROS (interessados), pretendendo a declaração de seu domínio sobre o imóvel ocupado pelos requeridos, assim como a restituição do bem. Aduz que é proprietário do imóvel rural integrante do Lote n. 35, Remanescente, Projeto Fundiário Alto Madeira, Gleba 01, cadastro 950.106.021.792, com área superficial de 21,9483ha, conforme escritura pública.
+RELATADO O PROCESSO, DECIDE-SE.
+I - Do recurso especial de VALDENICE CAROLINA SOARES:
+O recurso especial interposto é inadmissível por ser intempestivo. O acórdão prolatado pelo TJ/RO foi publicado em 25/10/2021 (e-STJ, fl. 1.842), segunda-feira. Exauriu-se, pois, o prazo legal para a interposição do recurso especial em 17/11/2021, quarta-feira. No entanto, a petição do recuso foi protocolizada em 28/03/2022, segunda-feira (e-STJ, fl. 2.029), ou seja, fora do prazo legal de 15 dias úteis.
+Na hipótese dos autos, o recurso especial foi manejado em face de acórdão publicado em 25/10/2021, quando já em vigor o novo Diploma Processual Civil.
+Desse modo, nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS (Corte Especial, DJe 19/12/2017).
+Além disso, é necessário salientar que, em se tratando de embargos de declaração não conhecidos, não há nem a suspensão nem a interrupção do prazo para a interposição de recursos (EDcl no AgInt no RE nos EDcl no AgInt no AREsp 1100142/MG, Corte Especial, DJe 24/05/2019). Nesse sentir, em razão do não conhecimento dos embargos de declaração de fls. 1.989/1.994 (e-STJ), não há que se falar na interrupção do prazo para a interposição do recurso especial.
+Dessa forma, em razão da ausência de comprovação da suspensão do prazo processual quando da interposição do recurso especial, a intempestividade do citado recurso há de ser reconhecida.
+II - Do recurso especial de NEURI ROQUE SIEPAMANN:
+O recurso especial interposto é inadmissível por ser intempestivo. O acórdão prolatado pelo TJ/RO foi publicado em 25/10/2021 (e-STJ, fl. 1.842), segunda-feira. Exauriu-se, pois, o prazo legal para a interposição do recurso especial em 17/11/2021, quarta-feira. No entanto, a petição do recuso foi protocolizada em 28/03/2022, segunda-feira (e-STJ, fl. 2.010), ou seja, fora do prazo legal de 15 dias úteis.
+Na hipótese dos autos, o recurso especial foi manejado em face de acórdão publicado em 25/10/2021, quando já em vigor o novo Diploma Processual Civil.
+Desse modo, nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Nesse sentido: AgInt no AREsp 957.821/MS (Corte Especial, DJe 19/12/2017).
+Além disso, é necessário salientar que, em se tratando de embargos de declaração não conhecidos, não há nem a suspensão nem a interrupção do prazo para a interposição de recursos (EDcl no AgInt no RE nos EDcl no AgInt no AREsp 1100142/MG, Corte Especial, DJe 24/05/2019). Nesse sentir, em razão do não conhecimento dos embargos de declaração de fls. 1.989/1.994 (e-STJ), não há que se falar na interrupção do prazo para a interposição do recurso especial.
+Dessa forma, em razão da ausência de comprovação da suspensão do prazo processual quando da interposição do recurso especial, a intempestividade do citado recurso há de ser reconhecida.
+Forte nessas razões, CONHEÇO dos agravos, para NÃO CONHECER dos recursos especiais, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto aos advogados da parte agravada, em virtude da interposição destes recursos, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa (e-STJ, fls. 1.828) para 20%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVOS EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. CPC/15. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. É intempestivo o recurso especial que é interposto fora do prazo recursal de quinze dias úteis.
+2. Agravos conhecidos. Recursos especiais não conhecidos, com majoração de honorários.
