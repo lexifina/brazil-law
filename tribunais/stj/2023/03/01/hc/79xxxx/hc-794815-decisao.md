@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de THAIDE FONSECA TORRES, contra r. decisum de em. Desembargador do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu a liminar pleiteada em writ naquela Corte impetrado.
+Depreende-se dos autos que a Paciente teve a prisão preventiva decretada pela prática, em tese, do delito de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva da paciente. O em. Desembargador Relator indeferiu liminarmente o writ.
+Daí o presente writ, no qual sustenta a Defesa, em síntese, que a paciente estaria sofrendo constrangimento ilegal em ra zão da ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que decretou a segregação cautelar.
+Argumenta que a quantidade de droga apreendida é ínfima.
+Ressalta que as condições pessoais da Paciente seriam favoráveis.
+Requer, ao final, a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 159-161.
+As informações foram prestadas às fls. 165-168 e 170-183.
+O d. Ministério Público Federal, às fls. 188-190, manifestou pela concessão da ordem, conforme parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RÉU REINCIDENTE. INEXPRESSIVA QUANTIDADE DE DROGA. SUFICIÊNCIA DAS MEDIDAS CAUTELARES
+1. Na hipótese, mesmo levando em conta a motivação declinada no decreto prisional - paciente reincidente -, as particularidades do caso demonstram a suficiência, a adequação e a proporcionalidade da imposição das medidas menos severas previstas no art. 319 do Código de Processo Penal.
+2. Parecer pela concessão da ordem de ofício" (fl. 188).
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar.
+Sobre o tema, contudo, insta consignar que a jurisprudência desta eg. Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em situação como a presente, sob pena de ensejar indevida supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Na hipótese, não verifico, da análise da r. decisão do e. Desembargador Relator que indeferiu o pedido liminar deduzido no habeas corpus originário, a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido, razão pela qual o não conhecimento do presente writ é medida que se impõe.
+Nesse sentido a jurisprudência deste Superior Tribunal de Justiça:
+"PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MENÇÃO À QUANTIDADE DE DROGA APREENDIDA (268,3 G DE MACONHA) NA DECISÃO DO JUÍZO SINGULAR. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. CONSTRANGIMENTO ILEGAL CAPAZ DE JUSTIFICAR O ABRANDAMENTO DO ÓBICE. INEXISTÊNCIA. INDEFERIMENTO LIMINAR DO WRIT QUE DEVE SER MANTIDO.
+1. Evidenciada a inexistência de constrangimento ilegal capaz de justificar o abrandamento do óbice da Súmula 691 do Supremo Tribunal Federal, uma vez que o Magistrado singular ao converter a prisão em flagrante da paciente em prisão preventiva o fez com menção à quantidade de droga apreendida (268,3 g de maconha) e à quantidade de munições de calibre 12.
+2. Pedido de reconsideração, às fls. 68/69, recebido como agravo regimental. Agravo regimental improvido" (RCD no HC 397.283/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 24/05/2017, grifei).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ATO COATOR: DECISÃO SINGULAR DE DESEMBARGADOR DA INSTÂNCIA DE ORIGEM. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA QUE AUTORIZE A RELATIVIZAÇÃO DA DIRETRIZ DA SÚMULA 691 DO STF. ROUBO COM EMPREGO DE ARMA E CONCURSO DE PESSOAS, TENDO SIDO A VÍTIMA AMARRADA, VENDADA E ABANDONADA EM LOCAL ERMO. FUNDAMENTOS CONCRETOS A EVIDENCIAR FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem. 2. Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15). 3. No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a concessão da ordem de ofício, pois a prisão preventiva encontra-se baseada não apenas na gravidade abstrata do tipo penal, mas também nas circunstâncias específicas do delito praticado no caso concreto e em suas consequências, tratando-se de roubo com emprego de arma e concurso de pessoas, tendo sido a vítima amarrada, vendada e abandonada em local ermo, tudo a evidenciar periculum libertatis. Quanto ao fumus comissi delicti, outrossim, as instâncias ordinárias consideraram suficientes os indícios de autoria.
+4. Agravo regimental não provido" (AgRg no HC 392.268/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 07/04/2017).
+Ante o exposto, não conheço do presente writ.
+P. e I.
