@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE PINHEIRO DE OLIVEIRA e HUGO SANTOS CAVALCANTE contra decisão de minha lavra, ementada nos seguintes termos (fl. 44):
+"HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. PENA- BASE ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO VÁLIDA. AUSÊNCIA DE DESPROPORCIONALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. QUANTIDADE DE ENTORPECENTE E OUTRAS CIRCUNSTÂNCIAS DO CASO CONCRETO. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. CABÍVEL O REGIME FECHADO. ORDEM DE HABEAS CORPUS DENEGADA."
+Os Embargantes alegam que, em relação à fixação do regime para o cumprimento da pena privativa de liberdade, a decisão impugnada desconsiderou que um dos Pacientes teve reduzida sua pena para 06 (seis) anos e 03 (três) meses de reclusão, além de consignar a fixação do regime fechado pelas instâncias de origem, que estabeleceram o regime semiaberto.
+É o relatório. Decido.
+Assiste razão à Defesa.
+Com efeito, constou na decisão à fl. 50:
+"Na hipótese, os Pacientes são primários e a reprimenda definitiva foi estabelecida em 7 (sete) anos e 6 (seis ) meses de reclusão, porém a pena-base foi fixada acima do mínimo legal, sendo-lhes desfavorável a análise das circunstâncias judiciais previstas no art. 59 do Código Penal. Por esses fundamentos, correta a fixação do regime fechado para início de cumprimento da pena privativa de liberdade. Por esses fundamentos, correta a fixação do regime fechado para início de cumprimento da pena privativa de liberdade."
+Ocorre que, de fato, conforme destacado no relatório da decisão impugnada, " o s recursos interpostos pelos Réus foram providos em parte para "reduzir as penas do réu HUGO para 06 anos e 03 meses de reclusão (em regime semiaberto) e 625 dias-multa, no piso, e as do réu ALEXANDRE para 07 anos e 06 meses de reclusão (em regime semiaberto) e 750 dias- multa, no piso, mantida, no mais, a r. sentença hostilizada" (fl. 33)" (fl. 44).
+Desse modo, deve ser retificada a decisão embargada para que, onde se lê:
+"os Pacientes são primários e a reprimenda definitiva foi estabelecida em 7 (sete) anos e 6 (seis ) meses de reclusão, porém a pena-base foi fixada acima do mínimo legal, sendo-lhes desfavorável a análise das circunstâncias judiciais previstas no art. 59 do Código Penal. Por esses fundamentos, correta a fixação do regime fechado para início de cumprimento da pena privativa de liberdade. Por esses fundamentos, correta a fixação do regime fechado para início de cumprimento da pena privativa de liberdade."
+Leia-se:
+"os Pacientes são primários e a reprimenda definitiva foi estabelecida em 7 (sete) anos e 6 (seis ) meses de reclusão para o réu ALEXANDRE e 06 anos e 03 meses de reclusão para o réu HUGO, porém a pena-base foi fixada acima do mínimo legal, sendo-lhes desfavorável a análise das circunstâncias judiciais previstas no art. 59 do Código Penal. Nesse contexto, apesar de a sanção reclusiva ser superior a quatro anos e se verificar a presença de circunstância judicial desfavorável, fica mantido o regime inicial semiaberto estabelecido na origem, a fim de se evitar indevida reformatio in pejus."
+Ante o exposto, ACOLHO os embargos de declaração para sanar o erro material apontado na decisão embargada, sem efeitos modificativos .
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSUAL PENAL. ERRO MATERIAL NO JULGADO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
