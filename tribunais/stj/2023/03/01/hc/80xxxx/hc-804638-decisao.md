@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de FERNANDO BORGES DE ANDRADE, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Habeas Corpus nº 5755176-40.2022.8.09.0000), nestes termos ementado (fls. 95-99):
+"HABEAS CORPUS SUBSTITUTO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE PROVAS ILÍCITAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. NÃO CONHECIMENTO.
+1. Salvo situações excepcionais, denotativas de flagrante constrangimento ilegal à liberdade, o habeas corpus não deve ser utilizado como substitutivo de recurso próprio.
+2. Ordem não conhecida."
+Daí o presente habeas corpus, no qual a d. Defesa, em resumo, afirma haver constrangimento ilegal pela existência de nulidades na condenação imposta.
+Alega que houve a invasão de domicílio, visto que "Não há nos autos elementos probatórios que demonstrem que o paciente autorizou a entrada dos policiais, na residência, ao contrário, conforme depoimento dos policiais nos autos" (fl. 12)
+Destaca devassa ao aparelho celular, "com o atendimento do celular por parte do policial que efetuou a abordagem no paciente. Percebe-se dessa forma que toda a ação penal desenrola A PARTIR DO MOMENTO EM QUE O POLICIAL ATENDE O CELULAR DO PACIENTE E CONVERSA COM UM INTERLOCUTOR QUE LHE PASSA SUA LOCALIZAÇÃO" (fl. 7).
+Requer a concessão da ordem, inclusive LIMINARMENTE, para "cassar a sentença condenatória, para que seja declarada nulo o acesso ao telefone celular que originou a ação penal, e que também seja declarada a invasão domiciliar na residência do paciente, tornando todas as provas derivadas da busca ilícitas. Se ainda assim, não for o entendimento, requer que seja de ofício, concedida ordem para determinar ao Tribunal de Justiça de Goiás, que proceda ao julgamento do HC nº 5755176-40.2022.8.09.0000, por se tratar de direito ambulatorial" (fls. 15-16).
+Pedido de sustentação oral (fl. 16).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do writ, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso próprio.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem de ofício e liminarmente.
+Pois bem.
+In casu, da leitura do v. acórdão, constata-se, ao fim, que questão fundamental apresentada a esta Corte Superior não foi analisada pelo eg. Tribunal de origem.
+Ora, tem-se que a questão de direito deveria ter sido apreciada, mas não foi, pois, mesmo provocado, o eg. Tribunal a quo sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta eg. Corte Superior de proceder à sua análise - sob pena de indevida supressão de instância.
+Nesse sentido: HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2017; e AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/5/2017.
+Verifica-se, portanto, que a ausência de manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional. Com efeito, é consabido que a via estreita do writ e do seu recurso ordinário não se presta para análise de temas que comportem recurso próprio, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Isso, diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, de modo que o eg. Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a(s) r. decisão(ões), se em desacordo com o ordenamento jurídico pátrio.
+Tratando-se de questão relevante, devidamente suscitada na origem e que não demanda, em tese, o revolvimento fático-probatório, devem os autos retornar para o eg. Tribunal, a fim de que se manifeste.
+Mais precedentes desta Corte Superior: RHC 74.291/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/9/2016; HC 393.671/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017; HC 396.539/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 26/6/2017; e RHC 49.656/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/10/2014.
+Ante o exposto, não conheço do habeas corpus, considerando a indevida supressão de instância. Concedo a ordem, de ofício, para anular o julgamento constante do acórdão proferido de nº 5755176-40.2022.8.09.0000, determinando sejam apre ciadas pelo eg. Tribunal a quo, como entender de direito, as questões ali deduzidas, com recomendação de celeridade.
+P. I.
