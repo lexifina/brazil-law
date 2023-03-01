@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por GISELLE CRISTINA DE LIMA COELHO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. PRODUÇÃO ANTECIPADA DE PROVA. INDEFERIMENTO DA PETIÇÃO INICIAL. NÃO PREENCHIMENTO DAS HIPÓTESES DISPOSTAS NO ART. 381 DO CPC/15. PRETENSÃO DE PRODUÇÃO DE PROVA PARA VIABILIZAR A DEFESA EM SEDE DE EXCEÇÃO DE PRE-EXECUTIVIDADE. MANIFESTO DESCABIMENTO. HIPÓTESE ALHEIA À PREVISÃO DA PRODUÇÃO ANTECIPADA DE PROVA. SENTENÇA MANTIDA. RECURSO A QUE SE NEGA PROVIMENTO.
+Quanto à controvérsia recursal, alega violação do art. 381, III, do CPC, no que concerne ao cabimento da ação de produção antecipada de prova, uma vez que a recorrente pretende se utilizar da prova em exceção de pré-executividade, cujo procedimento depende de prova pré-constituída, e o prévio conhecimento dos fatos pode evitar o ajuizamento de ação, trazendo o(s) seguinte(s) argumento(s):
+Cumpre trazer trecho do acórdão do recurso de apelação, onde consta expressamente que o pleito só seria possível caso fosse necessário para viabilizar o ajuizamento de alguma ação ou pudesse a prova viabilizar autocomposição do conflito. Observa-se:
+ ..
+Contudo, o raciocínio esposado acima, fere o art. 381, III, do CPC/2015, pois este é claro ao prever o cabimento da ação de produção antecipada de prova, quando o prévio conhecimento dos fatos possa evitar o ajuizamento de ação.
+Conforme já explicitado até aqui, a recorrente pretende se utilizar da prova em exceção de pré-executividade, a fim de comprovar sua ilegitimidade passiva.
+Caso a recorrente não possa se defender por meio de exceção de pré- executividade, terá de ajuizar uma nova ação, ou até duas novas ações. Explica-se:
+Caso escolha se defender por meio de ação anulatória terá de ingressar com uma nova ação.
+Caso escolha se defender por meio de ação rescisória terá de ingressar com duas ações, quais sejam:
+Ação de produção antecipada de provas (primeira ação), para colher o depoimento da vítima do acidente e, posteriormente ajuizar ação rescisório (segunda ação) junto ao TJPR, haja vista que ação rescisória também depende de prova pré-constituída.
+Destarte, é evidente que o pleito autoral encontra amparo no art. 381, III, do CPC/2015, uma vez que, impedirá o ajuizamento de uma nova ação.
+ ..
+A exceção de pré-executividade depende de prova pré-constuída, conforme já pacificado por esta Egrégia Corte Superior: (fls. 640/642).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+10. Cinge-se a controvérsia recursal acerca da aptidão da petição inicial para impulsionar esta demanda, fazendo com que seja determinada a produção de prova testemunhal.
+11. A apelante denominou sua demanda de "ação de produção antecipada de provas" apontando como fundamento legal o art. 381, II e III, do CPC/15.
+12. Em sua petição inicial, a recorrente discorre que teria sido indevidamente incluída em processo reparatório movido pela seguradora em razão de acidente de trânsito que teria causado prejuízos ao seu segurado. Destacou que naqueles autos fora decretada a sua revelia.
+Assim, já em fase de cumprimento, busca a oitiva do condutor do veículo nesta sede a fim de apresentar informações acerca do efetivo causador do dano.
+ ..
+14. Não obstante, no caso em análise não se pretende com a alegada prova a viabilização de autocomposição ou outro meio adequado de solução de conflito, mormente a pretensão de que seja utilizada esta via como forma de instrumentalizar defesa em sede de exceção de pré-executividade, estando aquele feito já em fase de cumprimento de sentença.
+15. Sequer há alegação da utilização desta via para viabilizar o ajuizamento de alguma ação, devendo-se lembrar a existência de demanda reparatória manejada pela seguradora e já transitada em julgado, portanto, sob os efeitos da coisa julgada (fls. 597/598 - grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Além disso, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+14. Não obstante, no caso em análise não se pretende com a alegada prova a viabilização de autocomposição ou outro meio adequado de solução de conflito, mormente a pretensão de que seja utilizada esta via como forma de instrumentalizar defesa em sede de exceção de pré-executividade, estando aquele feito já em fase de cumprimento de sentença.
+15. Sequer há alegação da utilização desta via para viabilizar o ajuizamento de alguma ação, devendo-se lembrar a existência de demanda reparatória manejada pela seguradora e já transitada em julgado, portanto, sob os efeitos da coisa julgada (fls. 597/598 - grifos meus).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
