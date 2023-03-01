@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Banco Bradesco S.A. contra decisão que não admitiu o recurso especial, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 318):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. JUROS REMUNERATÓRIOS SUPERIORES À TAXA MÉDIA DO MERCADO. ABUSIVIDADE CONFIGURADA. RESTITUIÇÃO OU COMPENSAÇÃO NA FORMA SIMPLES. INEXISTÊNCIA DE MÁ-FÉ DA INSTITUIÇÃO FINANCEIRA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 346-355).
+Nas razões do recurso especial, o recorrente alegou, além de divergência jurisprudencial, violação ao art. 1.022, II, do CPC/2015.
+Sustentou omissão no acórdão recorrido acerca do exame da inexistência de abusividade entre a taxa pactuada e a taxa média apurada pelo Banco Central.
+Aduziu ainda que ao limitar a taxa de juros remuneratórios à taxa de mercado, apenas porque superior a esta, o decisum recorrido distanciou-se do entendimento adotado pelo Superior Tribunal de Justiça.
+As contrarrazões não foram apresentadas - fl. 386 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a consonância do acórdão recorrido com o entendimento do STJ firmado por meio de recurso repetitivo, nos termos do art. 1.030, I, b, do CPC/2015 (Temas 24, 25, 26 e 27), além da falta de ofensa ao art. 1.022 do CPC/2015 e da prejudicialidade da análise da divergência jurisprudencial.
+O agravo interno interposto pela parte ora agravante foi improvido (e-STJ, fls. 427-432).
+No agravo em recurso especial o ora agravante além de refutar os óbices apontados na decisão de inadmissibilidade, faz alusão aos Temas já discutido e apreciados no julgamento do agravo interno.
+Brevemente relatado, decido.
+Conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030, b, do CPC/2015, haja vista que a questão relativa ao cabimento da revisão da cláusula contratual que põe o consumidor em desvantagem exagerada (Temas 24, 25, 26 e 27) foi decidida na Corte estadual em conformidade com precedente firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+Assim, não merece conhecimento o presente agravo nesse ponto. Isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte no julgamento do AREsp n. 959.991/RS, desta relatoria, julgado em 16/8/2016 e publicado em 26/8/2016.
+Além disso, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos do art. 1.030, I, "b", do CPC/15, não cabe a interposição de recurso ao STJ para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+2. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 1.917.218/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO CUMULADA COM REVISIONAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO. AUSÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de consignação em pagamento cumulada com revisional.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I, b, § 2º, c/c o art. 1.021 do CPC/15).
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo interno não provido. (AgInt no AREsp 1.895.566/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+No mais, consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Imperativo destacar que, no julgamento dos embargos de declaração, expressamente enfrentaram-se todas as questões suscitadas pela parte recorrente, esclarecendo que (e-STJ, fls. 350-354 - sem grifos no original):
+Pois bem. O embargante sustenta que o acórdão restou omisso no tocante ao entendimento firmado pelo C. Superior Tribunal de Justiça no Recurso Especial nº 1.061.530/RS.
+Afirma que a taxa de juros mensal contratada não ultrapassa uma vez e meia a taxa média divulgada pelo Banco Central, não havendo que se falar, pois, em abusividade.
+Destaca que "não é uma obrigação praticar a mesma taxa média divulgada pelo BACEN, se não houver significativa discrepância entre esta e a taxa de juros contratada, exatamente como no presente caso".
+Entretanto, o acórdão embargado analisou e decidiu todos os assuntos postos a exame, não comportando nenhum esclarecimento, eis que, inexistem omissões a serem supridas.
+Para consubstanciar esse entendimento, cumpre trazer à baila excerto do decisum recorrido, que enfrenta, de forma clara, as irresignações apresentadas pelo Embargante:
+"A respeito do percentual da taxa dos juros remuneratórios, no Recurso Especial nº 1.061.530/RS, julgado de acordo com a alteração legislativa expressa no artigo 543-C do CPC/1973, o Superior Tribunal de Justiça consolidou o seguinte posicionamento:
+"a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada na Lei de Usura (Decreto 22.626/33), como dispõe a Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano por si só não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancários as disposições do art. 591 c/c art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CPC) fique cabalmente demonstrada, ante as peculiaridades do caso concreto." De logo, consoante consignado pela Corte Superior, é possível concluir que a revisão das taxas de juros se dará em situações excepcionais, desde que haja relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC, esteja cabalmente demonstrada.
+Neste sentido, com a aplicação de tal entendimento, deve o julgador, em cada caso, confrontar a taxa de juros remuneratórios fixada no contrato com a taxa média de mercado apurada pelo Banco Central em avenças similares, praticada no mesmo período, devendo prevalecer o pactuado caso o percentual entabulado não se revele superior.
+In casu, a taxa de juros mensal cobrada foi de 3,60% e a anual foi de 52,87%, consoante informado no documento constante do ID 9220382.
+Em consulta ao Sistema Gerenciador de Séries Temporais do Banco Central do Brasil, infere-se que as taxas médias de mercado, à época da contratação (01/08/2007), para os contratos de empréstimo pessoal, eram de 3,43% ao mês e 49,89% ao ano.
+É, pois, verdade que, de acordo com a jurisprudência do STJ, "a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras." (STJ - AgInt no AREsp: 1314836 MS 2018/0152798-6, Relator: Ministro RAUL ARAÚJO, Data de Julgamento: 13/11/2018, T4 - QUARTA TURMA, Data de Publicação: DJe 04/12/2018).
+Neste caso, contudo, as diferenças entre as taxas de juros cobradas e as taxas médias de mercado à época da avença, a meu ver, são relevantes, considerando a soma dos valores correspondentes ao longo de toda a vigência do contrato (30 meses), o que certamente resultará, ao final, em quantia que não pode ser tida como insignificante.
+Destarte, verificada a abusividade, faz-se necessário que os juros remuneratórios cobrados sejam reduzidos ao patamar da taxa média de mercado divulgada pelo Banco Central do Brasil."
+Outrossim, impende ressaltar que, quanto à alegação recursal de flexibilização do percentual da taxa média para até 50% do valor divulgado pelo Bacen, essa Câmara pacificou o entendimento no sentido de observar o exato percentual das tabelas divulgadas, a fim de estabelecer parâmetro objetivo, a proporcionar maior segurança jurídica.
+Confira-se:
+(..)
+Não bastasse isso, é de se lembrar que o juiz não aplica o direito conforme a pretensão das partes, mas sim de acordo com o seu livre convencimento, apreciando livremente as provas, a lei, a jurisprudência e a doutrina que entender pertinentes à matéria.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da parte insurgente, não se pode negar ter havido, por parte do Tribunal, efetivo enfrentamento e resposta aos pontos controvertidos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+Outrossim, segundo entendimento jurisprudencial desta Corte, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISSQN. EXISTÊNCIA DE UNIDADE DA EMPRESA NO LOCAL DA PRESTAÇÃO DO SERVIÇO. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PRETORIANO PREJUDICADO.
+ ..
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional. Precedentes: AgInt no AREsp 1.381.105/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 16.4.2019; AgInt no AREsp 1.336.834/RS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 17.12.2018; AgInt no AREsp 909.861/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 17.5.2018.
+5. Recurso Especial não conhecido. (REsp n. 1.832.674/SP, relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 1/10/2019, DJe de 11/10/2019)
+Diante do exposto, conheço parcialmente do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte adversa em 2% sobre o valor do proveito econômico a ser obtido pela parte autora.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO. 1. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. 2. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. AGRAVO PARCIALMENTE CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
