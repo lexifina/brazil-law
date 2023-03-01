@@ -1,0 +1,42 @@
+DECISÃO
+ANDRÉ FELIPE MARTINS PEREIRA  agrava de decisão que inadmitiu o  recurso  especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  Regional Federal da 5ª Região  na  Apelação Criminal n. 0815456-14.2017.4.05.8300.
+O recorrente foi condenado, pelo crime do art. 1º, I, c/c o art. 12, I, ambos da Lei n. 8.137/1990, a 3 anos, 1 mês e 20 dias de reclusão mais 100 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritiva de direitos.
+A defesa, nas razões do recurso especial, apontou violação dos arts. 41, do Código de Processo Penal, 59 e 68 do Código Penal. Alegou a inépcia da denúncia, especialmente por se tratar de imputação genérica. Pleiteou, subsidiariamente, o afastamento da valoração desfavorável da vetorial culpabilidade, por ausência de fundamentação idônea.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O  Ministério  Público  Federal , às fls. 1.055-1.059,  opinou  pelo  não provimento do AREsp.
+Decido.
+I. Contextualização
+Conforme já relatado, o recorrente foi condenado pela prática do delito previsto no art. 1º, I, da Lei n. 8.137/1990.
+A Corte de origem, quanto à alegada inépcia da denúncia, assim se manifestou (fls. 832):
+ ..
+I. 2) Da alegada inépcia da denúncia.
+Houve a descrição dos fatos dirigidas em desfavor do denunciado, que se encontrava na administração da empresa na época, havendo sido inclusive citada a prova documental e testemunhal que se se lastreou
+II. Inépcia da denúncia
+Prevalece o entendimento de que, com a prolação da sentença condenatória, fica esvaída a análise do pretendido reconhecimento de inépcia da denúncia. Isso porque se, após toda a análise do conjunto fático-probatório amealhado aos autos ao longo da instrução criminal, já houve um pronunciamento sobre o próprio mérito da persecução penal (denotando, ipso facto, a plena aptidão da inicial acusatória), não há mais sentido em se analisar eventual vício da peça inaugural.
+Vale dizer, se houve condenação é porque já existiu prévia e ampla dilação probatória, na qual foi devidamente aferida a presença de elementos suficientes não apenas para o recebimento da denúncia mas até para a condenação do recorrente.
+Ilustrativamente:
+ ..
+1. A superveniência da sentença penal condenatória (confirmada em apelação criminal) torna esvaída a pretensão de reconhecimento de inépcia da denúncia. Súmula 83 do STJ. Precedentes.  ..
+4. Agravo regimental não provido. (AgRg nos EDcl no AREsp n. 879.614/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/2/2020)
+Com efeito, o STJ entende que, nos crimes contra a ordem tributária praticados em coautoria, a denúncia pode ser oferecida sem a atribuição pormenorizada e exauriente de cada ação delituosa, porém é imprescindível a demonstração, em linhas gerais, do vínculo entre a posição do agente na empresa e o crime imputado, de forma a propiciar o conhecimento da acusação e o exercício da ampla defesa.
+Na hipótese, a inicial descreve a condição do agravante de representante legal da sociedade empresarial, bem como a conduta ilícita.
+Ademais, no caso, não houve a demonstração de efetivo prejuízo ao exercício da ampla defesa e do contraditório, apenas a indicação de vício meramente formal, o que não se admite.
+III. Dosimetria
+Sobre a avaliação desfavorável da vetorial culpabilidade, o Tribunal a quo explicitou (fls. 895-896, destaquei):
+ ..
+No que se refere à dosimetria, a única circunstância judicial tida, na sentença de primeiro grau e confirmada no Acórdão, como desfavorável foi a culpabilidade do réu, tendo sido inclusive reduzido o incremento dado à pena-base para 6 meses, pois a sentença teria aumentado de 1 ano. Nesse ponto, consignou o acórdão embargado:
+I - Para a fixação da pena-base, reconheceu-se a existência de uma circunstância judicial, dentre as previstas no artigo 59 do Código Penal, em desfavor do réu (culpabilidade), razão pela qual procedeu a uma exasperação da reprimenda, estabelecendo-a em 03 anos de reclusão, sob a seguinte fundamentação:
+"(..)No exame da culpabilidade, considerada como juízo de reprovação exercido sobre o autor de um fato típico e lícito, observo que o acusado atuou com culpabilidade moderada para delitos da espécie, uma vez que usou de pessoa de sua confiança (VIRGILIO) para viabilizar as fraudes constatadas e depois querer da responsabilidade por elas eximir-se, buscando a atribuir àquele. Esse comportamento in casu reprovável merece devida censura(..)".
+II -Mantém-se a culpabilidade enquanto circunstância judicial desfavorável. Redução do incremento dado à pena-base para 06 meses, considerada a orientação dada quanto ao aumento de 1/8 (um oitavo) por circunstância judicial desfavorável. Pena-base em 02 anos e 06 meses de reclusão.
+Vê-se, assim, que o tema foi enfrentado de forma clara no julgado embargado, não tendo que se falar em ambiguidade, pois os elementos de prova demonstraram que o réu ANDRE FELIPE, verdadeiro administrador de mais de uma empresa, embora pudesse manter-se distante fisicamente, era quem comandava os negócios, detendo o domínio dos fatos e o poder de decisão.
+Reconheceu-se, tanto de fato, como de direito, a pessoa do acusado que se encontrava no comando da empresa A. PEREIRA TRANSPORTES LTDA, durante o período informado na denúncia, pois, com efeito, além de toda a documentação posta na RFFP e dos vários depoimentos prestados no âmbito policial, no sentido da responsabilidade do réu pela condução dos negócios, a testemunha Sueli Francisco da Costa, ouvida em juízo, confirmou seu testemunho à Polícia, de que o réu era o administrador, sendo a pessoa de "Virgílio" subordinada a ele, concluindo o julgado embargado que:
+I - Em sentido oposto caminha a robusta documentação trazida pela acusação, a partir da qual se infere que o denunciado, administrador da empresa A. PEREIRA TRANSPORTES LTDA. e detentor de poder decisório na empresa, possuía, sim, ciência de todos os atos administrativos, inclusive no que tange às informações fiscais e recolhimento de tributos.
+II - não se pode deixar de frisar que restou comprovado que VIRGILIO recebia salário fixo, desde antes de ser sócio da empresa, o que corrobora a informação de que ele somente constava como tal pro forma, porque de fato o dono e administrador da empresa, pessoa que, em VIRGILIO, depositava grande confiança e, somente por isso, permitia que ele gerisse as contas da empresa. Isso não pode significar que, só por isso, o dono e detentor do poder de mando na empresa fosse VIRGÍLIO. Não foi por outra razão que VIRGILIO foi inclusive absolvido noutro processo criminal (AP n.º 0005292-67.2010.4.05.8300) em que denunciado por crimes cometidos na verdade pelo ora réu, como se pode ler de trecho da sentença a seguir transcrita.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelos oito fatores indicativos relacionados no caput do art. 59 do Código Penal, os quais não se deve furtar de analisar individualmente. São eles: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime, assim como comportamento da vítima.
+A análise da vetorial culpabilidade é idônea e deve ser mantida. O emprego de interposta pessoa para a prática do ilícito e também para se eximir de eventual incriminação são elementos não integrantes o tipo penal da sonegação fiscal e, in casu, acrescentam maior desvalor ao ato ilícito praticado.
+A pretensão de se discutir o lastro probatório em relação à interposta pessoa implica reexame de matéria fática, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+IV. Dispositivo
+À  vista  do  exposto,  conheço do agravo para não conhecer do recurso especial.
+Publique-se  e  intimem-se.
