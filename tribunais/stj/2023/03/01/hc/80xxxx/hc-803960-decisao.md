@@ -1,0 +1,7 @@
+DECISÃO
+REGINALDO WILLIAM FERNANDES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.22.110760-0/000.
+Ao analisar os autos, verifico que este habeas corpus cuida do mesmo objeto do HC n. 756.954/MG - aponta como ato coator do acórdão proferido pelo Tribunal estadual no HC n. 1.0000.22.110760-0/000 e busca a revogação da prisão preventiva do paciente ou a substituição da medida extrema por medidas cautelares diversas e, subsidiariamente, a extensão da liberdade provisória concedida ao corréu -, evidenciando-se, assim, a impossibilidade de conhecer-se a impetração ante a reiteração de pedido.
+No que tange às alegações de ausência de perícia fonográfica da interceptação e de cerceamento de defesa, constata-se que as matérias não foram objeto de análise pela Instância a quo, circunstância que impede a sua apreciação por este Tribunal Superior, sob pena de atuar em indevida supressão de instância.
+Por fim, ressalto que esta Corte Superior, no julgamento do referido writ - em 4/11/2022 -, afastou a apontada ilegalidade do encarceramento ante tempus do ora paciente.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ, não sem lamentar a falta de cooperação da parte quanto à economia processual que há de nortear a atuação de todos os sujeitos processuais, máxime em um quadro de hiperjudicialização dos conflitos, a abarrotar os escaninhos (físicos ou eletrônicos) dos tribunais.
+Publique-se e intimem-se.
