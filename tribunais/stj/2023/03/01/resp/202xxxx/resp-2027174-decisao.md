@@ -1,0 +1,33 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por VIVIAN KOGUISHI com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição da República contra acórdão do Tribunal de Justiça do Estado do Paraná (fl. 145):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESTITUIÇÃO DE VALOR PAGO. INDEFERIMENTO DO PEDIDO DE SUBSTITUIÇÃO DA GARANTIA. INSURGÊNCIA DA RÉ. PEDIDOS SUBSIDIÁRIOS DE INCIDÊNCIA EXCLUSIVA DE CORREÇÃO MONETÁRIA A PARTIR DA CITAÇÃO E DE JUROS DE MORA E CORREÇÃO MONETÁRIA A PARTIR DA CITAÇÃO NÃO CONHECIDOS. INOVAÇÃO RECURSAL. EXAME QUE ACARRETARÁ OFENSA AO DUPLO GRAU DE JURISDIÇÃO. PRETENSÃO DE SUBSTITUIÇÃO DA GARANTIA. OFERECIMENTO DE BEM IMÓVEL. IMPOSSIBILIDADE. IMÓVEL INDICADO AVALIADO EM VALOR MUITO AQUÉM AO DA DÍVIDA. ALEGAÇÃO DE IMPOSSIBILIDADE DE INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA NO VALOR PRETENDIDO PARA FINS DE GARANTIA. NÃO ACOLHIMENTO. A FINALIDADE DA GARANTIA É PERMITIR O RETORNO DAS PARTES AO STATUS QUO ANTE. RESULTADO ÚTIL DO PROCESSO QUE ESTÁ DIRETAMENTE LIGADO À POSSIBILIDADE DA AGRAVANTE EM SALDAR O VALOR QUE EVENTUALMENTE SERÁ DETERMINADO PELO JUÍZO PARA DEVOLUÇÃO DOS VALORES COM A INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. DECISÃO MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+Opostos embargos de declaração, esses restaram parcialmente acolhidos nos seguintes termos (fls. 213):
+EMBARGOS DE DECLARAÇÃO CÍVEL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESTITUIÇÃO DE VALOR PAGO. INDEFERIMENTO DO PEDIDO DE SUBSTITUIÇÃO DA GARANTIA. ACÓRDÃO QUE MANTEVE A DECISÃO AGRAVADA. APONTAMENTO DE OMISSÃO. INOCORRÊNCIA. MATÉRIA DEVIDAMENTE ANALISADA. PRETENSÃO DE REDISCUSSÃODA MATÉRIA. AUSÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DOCPC. PREQUESTIONAMENTO QUE SE DÁ PELO MERO ENFRENTAMENTO DA MATÉRIA DECIDIDA, INCLUSIVE PARA FINS DE INTERPOSIÇÃO DE RECURSO A INSTÂNCIAS SUPERIORES. IMPROPRIEDADE DA VIA EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Em suas razões de recurso especial, a recorrente apontou violação aos arts. 489, §1º, incisos II, III, IV e V, 1.022, inciso I e II, parágrafo único e 1.025, todos do Código de Processo Civil, ao argumento de que houve negativa de prestação jurisdicional e carência de fundamentação. Sustentou contrariedade ao art. 395, do Código Civil, por entender que o valor estabelecido para garantia do juízo se revela excessivo. Acenou pela ocorrência de dissídio jurisprudencial. Requereu o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+1. Da negativa de prestação jurisdicional e carência de fundamentação:
+Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. HOME CARE. COBERTURA. AUSÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, a modificação do entendimento adotado pelo órgão colegiado, que afastou a ocorrência de danos morais e materiais, implicaria a interpretação de cláusula contratual e análise de fatos e provas, procedimentos inviáveis em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.120.263/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022.)
+2. Do valor da garantia:
+O Tribunal de Justiça do Estado do Paraná, ao julgar o recurso de agravo de instrumento destacou o seguinte (fl. 147):
+(..)
+Em que pese a argumentação tecida pela agravante, não lhe assiste razão. Conforme já consignado na decisão que indeferiu o pedido de efeito suspensivo ao recurso, o objetivo da garantia, perfectibilizada na averbação de ordem impeditiva de alienação e vedação de quaisquer outros atos relativos ao imóvel, é permitir o retorno das partes ao ao final do processo, status quo ante assegurando o resultado útil do processo, que está diretamente ligado à possibilidade da agravante em saldar o valor que eventualmente será determinado pelo juízo para devolução dos valores pagos, que evidentemente sofrerá incidência de juros e correção monetária.
+Em sendo assim, conforme acertadamente consignou o magistrado singular, não há como a garantia do juízo corresponder somente ao valor da causa apurado por ocasião do ajuizamento da ação, mormente porque o referido valor não é suficiente para possibilitar o retorno das partes ao status quo ante.
+Perceba-se que o imóvel indicado pela agravante para fins de substituição da garantia foi avaliado em R$ 300.000,00 (mov. 201.2 - 1º Grau), valor este muito aquém da dívida que, de acordo com os cálculos apresentados no mov. 204.1 - 1º Grau, representam a quantia de R$ 1.439.058,79 (um milhão, quatrocentos e trinta e nove mil, cinquenta e oito reais e setenta e nove centavos), de sorte que não pode a substituição trazer prejuízo ao credor.
+Nesse contexto, rever os fundamentos do acórdão recorrido, importa necessariamente no reexame de provas, o que é defeso nesta fase recursal (Enunciado n.º 7/STJ) .
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESTITUIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. GARANTIA DO JUÍZO. VALOR. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Rever os fundamentos do acórdão recorrido, importa necessariamente no reexame de provas, o que é defeso nesta fase recursal (Enunciado n.º 7/STJ) .
+3. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
