@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FLAVIA KASSIANA DA SILVA RODRIGUES contra decisão proferida no HC n. 5040243-85.2023.8.21.7000/RS, em trâmite no Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta nos autos que a Paciente foi presa em flagrante, em 17/02/2023, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 109,5g de maconha.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, tendo sido indeferido o pedido liminar (fls. 19-21).
+Neste writ, a parte Impetrante alega a ilegalidade da custódia da Paciente, pois "até a presente data e hora, 19/02/2023, às 00:30 h a autoridade coatora do 1º grau ainda não converteu a prisão em preventiva, e nem expediu mandado de prisão legitimando a permanência da paciente na presídio. E pelo visto pretende legitimar a prisão da paciente só depois do carnaval, na audiência de custódia que deveria também ocorrer no máximo em 24 horas" (fl. 9).
+Aduz que não estão presentes os requisitos autorizadores da prisão preventiva.
+Informa que a Paciente possui condições pessoais favoráveis.
+Argumenta que se mostra possível a substituiç ão da prisão por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, o relaxamento da prisão da Paciente.
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020); HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+Assim, em regra, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, por forçar o pronunciamento adiantado da Instância Superior, suprimir a competência da Inferior e subverter a regular ordem do processo.
+Na espécie, todavia, não é possível ultrapassar tal vedação, sobretudo diante do consignado na decisão impugnada no sentido de que, "conquanto não seja ideal que o Magistrado tenha designado audiência de custódia apenas o dia 23/02/2023, entendo que tal situação, por si só, não autoriza o reconhecimento da ilegalidade da prisão paciente" (fl. 21).
+Com efeito, "A teor dos julgados desta Corte, a não realização de audiência de custódia, por si só, não é suficiente para ensejar a nulidade da prisão preventiva se observadas as garantias processuais e constitucionais do investigado ou acusado" (AgRg no HC n. 745.061/GO, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022). No mesmo sentido: AgRg no RHC n. 166.133/RS, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 2/8/2022, DJe de 16/8/2022.
+Destaque-se que as questões acerca da presença dos requisitos legais autorizadores da prisão preventiva, da presença de circunstâncias pessoais favoráveis e da possibilidade de substituição da prisão por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal devem ser primeiramente analisadas pelo Juízo de primeira instância .
+Assim, por não se observar, ao menos primo ictu oculi, nenhuma teratologia, não há como superar o óbice processual previsto na Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
