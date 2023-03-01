@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ, inexistência de violação de artigos de lei federal e impossibilidade de análise de suposta afronta a dispositivos constitucionais (e-STJ fls. 1.010/1.011).
+O acórdão recorrido está assim ementado (e-STJ fl. 983):
+AÇÃO REGRESSIVA. SEGURADORA. DESCARGA ELÉTRICA QUE CULMINA COM DANOS A BENS DOS SEGURADOS. Não houve efetiva comprovação do alegado dano decorrente de defeito no serviço prestado pela parte requerida.
+Insuficiência de laudo unilateral. Recurso não provido.
+No recurso especial (e-STJ fls. 991/1.005), fundamentado no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 37, § 6º, da CF, 25, caput, da Lei n. 8.987/1995, 373, I, II, do CPC/2015 e 6º, VIII, do CDC.
+Sustentou, em síntese, que "o defeito na prestação de serviços públicos essenciais faz nascer a responsabilidade objetiva pela reparação dos danos causados, independentemente da existência de culpa ou dolo, não se aplicando as excludentes de responsabilidade civil do direito privado tradicional " (e-STJ fl. 999).
+Suscitou a necessidade de inversão do ônus da prova, pois a seguradora sub-roga-se nos direitos de seus segurados.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.009).
+No agravo (e-STJ fls. 1.014/1.021), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta (e-STJ fl. 1.025).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Inicialmente, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 983/988):
+ ..  A seguradora requerente, em ação regressiva, aduz que, em razão de defeito na prestação de serviços pela requerida decorrentes de alterações de tensão elétrica, queda de energia e falta de fornecimento por períodos prolongados e sem prévio aviso, equipamentos elétricos de propriedade dos segurados foram danificados.
+Para alicerçar sua alegação, apresenta Laudos Técnicos (fls. 634/ 635, 664/665, 677/681, 695/702, 727/728, 742/743, 761, 771/772 e 791).
+Entretanto, com o devido respeito, referidos laudos foram produzidos unilateralmente, sem apresentar efetivamente a causa do dano, sem conclusões específicas.
+De fato, não consta dos laudos o detalhamento dos danos elétricos e nem a especificação de como atingiu os equipamentos e suas peças. Também não estão especificados os componentes danificados substituídos e nem os novos componentes adquiridos, já que ausentes as peças danificadas e, muito menos, está descrito apropriadamente a causa do dano.
+Com todas as vênias, não é possível, a partir de tais documentos, concluir que as alegadas avarias decorreram de defeito na prestação de serviço da requerida e, muito menos, que as peças substituídas necessitavam serem substituídas, não se podendo julgar procedente o presente pedido indenizatório. Na verdade, a partir do momento em que foi buscada a tutela jurisdicional, a controvérsia seria sanada com a apresentação, em juízo, dos equipamentos e dos seus componentes danificados, para realização de perícia judicial, apurando-se, efetivamente, a existência do proclamado dano e sua causa.
+Outrossim, nem se diga que o ônus da prova é da requerida, pois quem tem a posse do equipamento e dos seus componentes danificados é a requerente, a qual incumbe a efetiva comprovação de suas alegações, nos termos do artigo 373, inciso I, do Código de Processo Civil.
+ ..  Assim, de rigor reconhecer que não cumpriu com o disposto no artigo 373, inciso I, do Código de Processo Civil, sujeitando-se, pela sua desídia, à improcedência do pedido inicial, não fazendo jus, portanto, ao acolhimento de sua pretensão regressiva.
+Nesse contexto, relativamente à alegação de ofensa ao art. 25, caput, da Lei n. 8.987/1995, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, inafastáveis as Súmulas n. 282 e 356 do STF.
+Outrossim, quanto aos demais dispositivos tidos por violados, rever as conclusões do Tribunal de origem e analisar as alegações suscitadas demandaria o revolvimento do contexto fático-probatório dos autos, vedado em recurso especial pela Súmula n. 7 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. AQUISIÇÃO DE PRODUTO IMPRÓPRIO PARA O CONSUMO. ALEGADA AUSÊNCIA DE COMPROVAÇÃO DA EXISTÊNCIA DO ALEGADO DANO. ÔNUS DO QUAL NÃO TERIA SE DESINCUMBIDO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal, a fim de verificar a alegações relacionadas ao ônus da prova e ausência de comprovação da existência do alegado dano, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Ademais, "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 13/9/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.106.783/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 5/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Para alterar as conclusões contidas no decisum, no sentido de afastar a condição de consumidora da parte e, consequentemente, não aplicar as normas consumeristas ao caso, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. Rever o entendimento do Tribunal local, no sentido de verificar se o acervo probatório foi ou não suficiente para embasar o decisum atacado, se a parte autora trouxe ou não aos autos provas para demonstrar o fato constitutivo do direito alegado, e se estão presentes ou não os requisitos necessários para a inversão do ônus da prova, forçosamente ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.098.730/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
