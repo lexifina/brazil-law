@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno manejado pela Fazenda do Estado de São Paulo desafiando decisão de fls. 254/257, que negou provimento ao agravo com base na seguinte fundamentação: (I) não ocorreu violação ao art. 1.022 do CPC e (II) o entendimento externado no acórdão recorrido não destoa do firmado nesta Corte Superior.
+O agravante, em suas razões, sustenta em síntese que "a leitura atenta dos fundamentos da decisão que rejeitou os embargos de declaração revela que o e. TJSP não apreciou, sequer superficialmente, a questão relativa à aplicação, à hipótese dos autos, da tese por ele mesmo firmada em IRDR. Veja-se às fls. (e-STJ Fl. 151/152)" (fl. 261).
+Aberta vista ao agravado, apresentou impugnação (fl. 266/303).
+É O RELATÓRIO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC, e 259 do RISTJ, reconsidero a decisão de fls. 254/257, tornando-as sem efeito, passando novamente à analise do recurso especial de fls. 157/167:
+Trata-se de agravo manejado pela Fazenda do Estado de São Paulo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 127):
+Agravo de instrumento - Embargos à execução fiscal - Garantia parcial do juízo pela executada Possibilidade de oposição de embargos à execução mesmo sem a integralização da garantia, sob pena de cerceamentos cerceamentos cerceamento do direito de defesa da executada, ainda mais quando o valor do crédito fiscal é vultoso - Admissibilidade de posterior reforço da penhora art.
+914 do CPC/2015 e art. 15, II da Lei nº 6.830/80 - Garantia parcial, contudo, não tem o condão de suspender o prosseguimento do feito executório - art. 919, do CPC/2015 - Precedentes desta C. Câmara - Recurso provido
+Opostos embargos declaratórios, foram rejeitados (fls. 149/153).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, I e II, do CPC e 16, §1º da LEF. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso quanto à aplicação do REsp 1.272827/PE e no IRDR 2020356-21.2019.8.26.000; (II) é necessária a garantia integral para a apresentação dos embargos à execução.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte agravante, com o objetivo de ver sanada a omissão, opôs embargos declaratórios, sustentando a seguinte omissão (fl. 145):
+o V. Acórdão não analisou à questão que lhe foi posta à luz do decidido no Incidente de Resolução de Demandas Repetitivas - IRDR - n. 2020356-21.2019.8.26.0000 pelo Tribunal de Justiça do Estado de São Paulo e no Recurso Especial n. 1.272.827/PE, submetido à sistemática dos recurso repetitivo, conforme a seguir transcrito, in verbis:
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ora, reconhecida a violação aos art. 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do apelo especial (REsp 1.185.288/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJe 17/5/2010).
+ANTE O EXPOSTO, (I) reconsidero a deci são de fls. 254/257 e (I) conheço do agravo para dar provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
