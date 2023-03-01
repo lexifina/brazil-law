@@ -1,0 +1,16 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por COOPERATIVA DE CREDITO, POUPANÇA E INVESTIMENTO VALOR SUSTENTÁVEL - SICREDI VALOR SUSTENTÁVEL PR/SP, sob o fundamento de que (a) o entendimento do acórdão recorrido acerca da possibilidade de declaração de impenhorabilidade de pequena propriedade rural, ainda que tenha sido oferecida em garantia, amolda-se a orientação do Superior Tribunal de Justiça, a atrair o óbice da Súmula 83/STJ, e (b) a revisão da conclusão do acórdão recorrido de que os recorridos comprovaram o enquadramento nos requisitos exigidos pela legislação para o reconhecimento da impenhorabilidade da pequena propriedade rural, inclusive que é trabalhado pela família, encontra óbice na Súmula 7/STJ.
+No agravo, a agravante alega que (a) "o recurso não ofendeu a Súmula 83 do STJ ao pleitear a impenhorabilidade do imóvel", pois no próprio recurso especial houve indicação de entendimento diverso emitido pelo próprio STJ, no sentido de que "é obrigação do devedor o ônus de comprovar que, além de pequena, a propriedade destinava-se à exploração familiar", e (b) não incide a Súmula 7 do STJ, uma vez que a controvérsia não exige revolvimento de fatos, mas apenas modificar a conclusão jurídica do Tribunal de origem a partir de direito analisado equivocadamente.
+É o breve relatório.
+Passo a decidir.
+As razões do agravo encontram-se dissociadas dos fundamentos da decisão agravada.
+O óbice da Súmula 83/STJ foi aplicado quanto ao entendimento pacífico desta Corte a respeito da possibilidade de reconhecimento da impenhorabilidade da pequena propriedade rural, ainda que dada pelos proprietários em garantia hipotecária para financiamento da atividade produtiva.
+Logo, competia à agravante comprovar que os precedentes indicados na decisão agravada quanto ao tema não se aplicam à espécie, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não foi feito.
+Com efeito, na tentativa de impugnar o óbice da Súmula 83/STJ, afirmou a agravante que chegou a apontar, no recurso especial, a existência de precedente do STJ, no qual se decidiu que "é obrigação do devedor o ônus de compro var que, além de pequena, a propriedade destinava-se à exploração familiar" (REsp 1.716.425/RS).
+Entretanto, até mesmo as razões do recurso especial encontram-se dissociadas dos fundamentos do acórdão recorrido, uma vez que se colhe da sua leitura que tal orientação foi justamente observada (e-STJ Fls. 121-122), concluindo o Tribunal de origem que "os Executados/Agravados desincumbiram-se do ônus de demonstrar que há exploração familiar do imóvel objeto da penhora".
+Assim, a falta de ataque específico à decisão agravada acarreta o não conhecimento do presente recurso, a teor do que dispõe o art. 932, III, do CPC.
+Além disso, não é possível conhecer do apelo quanto à parte impugnada, consoante decidido pela Corte Especial nos autos dos EAREsp 746.775/PR (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+Diante do exposto, não conheço do agravo em recuro especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
