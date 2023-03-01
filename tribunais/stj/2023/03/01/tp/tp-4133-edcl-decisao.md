@@ -1,0 +1,17 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por ALTA PAULISTA INDUSTRIA E COMERCIO LTDA - FALIDA, ALTA PAULISTA AGROCOMERCIAL LTDA - FALIDA, JUNQUEIROPOLIS AGROCOMERCIAL LTDA. contra a decisão deste relator que indeferiu a tutela provisória postulada.
+Nas suas razões recursais, ressaltou que o Desembargador Presidente do E. Tribunal de Justiça do Estado de São Paulo, em decisão proferida no dia 08/09/2022, reconheceu a presença dos requisitos do Recurso Especial, inclusive o prequestionamento e as exigências do art. 255 do Regimento Interno deste E. Superior Tribunal de Justiça, pelo que entende haver prognóstico favorável para o seu provimento. Pediu o acolhimento.
+É o relatório.
+Passo a decidir.
+O fato que os embargantes agora sustentam como relevante e omitido por este relator de modo algum possui a relevância pretendida pelos embargantes.
+Quando da análise do prognóstico favorável ao conhecimento e provimento do recurso, isto para que esta relatoria venha a conceder a tutela provisória pretendida, examina-se detalhadamente o recurso especial interposto e o acórdão contra o qual é manejado, buscando identificar a pretensa reunião dos requisitos para que os efeitos de eventual provimento futuro do recurso possa ser antecipado.
+O juízo de admissibilidade primevo - realizado, por delegação, pela pela Corte de origem - não molda e nem coarcta este juiz natural do recurso que ora se pretende extrair a concessão de tutela provisória, já que, sabidamente, o que fora inadmitido na origem, poderá ser aqui conhecido e provido, e o que fora conhecido, poderá vir a ser inadmitido ou desprovido.
+Remanescem, pois, as conclusões de outrora, no sentido da ausência do prognóstico favorável ao provimento do recurso especial, não decorrendo da alegada afronta ao art. 66, I, do CPC a conclusão do recorrente, atraindo-se o enunciado 284/STF, por analogia, e, ainda, em face da ausência de prequestionamento em relação aos demais dispositivos mencionados cuja violação seria reflexa (art. 76 e 108, §3, da Lei 11.101/05), atraindo-se o enunciado 282/STF.
+Equivocada a suscitação de conflito quando há relação hierárquica entre os juízos que se diz indevidamente reconhecerem a sua própria competência para o julgamento das diferentes ações e, com isso, o destino de valores de algum modo relacionados às falidas.
+É antiga a jurisprudência do Supremo Tribunal Federal nesse sentido como demonstra o Min. Athos Gusmão Carneiro, na sua insuperável obra jurisdição e competência (12ª ed., 2002, Ed. Saraiva, p. 216):
+Reiteradamente tem entendido o Pretório Excelso ser incabível o conflito de competência entre tribunais "organizados hierarquicamente, como acontece entre o STJ e os TRFs. entre o TST e os TRTs. entre o TSE e os TREs" (CC 6.963-STF. Plenário, ac. de 26-2-1998. rei. Min. Maurício Corrêa. DJU. 17 abr. 1998. p. 2). Nesse caso cuidou-se de decisão do STJ que em ação rescisória de julgado declinara de competência para o TRF da 1ª Região, vindo esta Corte a suscitar conflito negativo perante o Supremo Tribunal Federal, que dele não conheceu, e mandou fossem os autos devolvidos ao tribunal suscitante.
+No mesmo sentido, definindo o alcance do art. 102, I, o, da Constituição Federal, o CC 6.990-STF, rel. Min. Maurício Corrêa, ac. de 12-2-1998. DJU. 13 mar. 1998.
+A compreensão, ademais, remanesce tranquila no Supremo Tribunal Federal.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
