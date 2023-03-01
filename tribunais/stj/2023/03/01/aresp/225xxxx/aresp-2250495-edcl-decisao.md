@@ -1,0 +1,26 @@
+DECISÃO
+Cuidam-se de embargos de declaração opostos por Chiapin & Herzog Advogados, à decisão monocrática proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 780):
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇO. HONORÁRIOS ADVOCATÍCIOS. REVOGAÇÃO DE MANDATO. PROCESSOS EM TRAMITAÇÃO. AJUIZAMENTO DE AÇÃO MONITÓRIA PARA O RECEBIMENTO DE VALORES. EXTINÇÃO DO FEITO. VIA INADEQUADA. DECLARAÇÃO. REEXAME DA CONCLUSÃO ESTADUAL. INVIABILIDADE. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. REVALORAÇÃO DA PROVA. AFASTAMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. DISPOSITIVOS TIDOS COMO OFENDIDOS. FALTA DE PREQUESTIONAMENTO. SÚMULA211/STJ. APLICAÇÃO. PREQUESTIONAMENTO IMPLÍCITO. CONDIÇÕES NÃO SATISFEITAS. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A embargante alega a existência de vícios na decisão embargada.
+Houve impugnação (e-STJ, fls. 796-798).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+No caso, a pretensão não merece acolhida, porque a decisão embargada não contém nenhum vício.
+Registre-se, de início, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Na decisão aduziu-se que o que se pretende é a revisão das conclusões a que chegou a Corte estadual, acerca da inadequação do uso da ação monitória, adotada com base no exame dos fatos - encontrarem-se em andamento ações ajuizadas pelo agravante, a ausência da integral prestação dos serviços, e os honorários ajustados referirem-se a valores efetivamente recebidos nas cobranças , o que não é possível a teor das Súmulas 5 e 7/STJ.
+E mais: o mesmo se diga quanto ao reconhecimento da idoneidade dos documentos apresentados, que serviu de base para o afastamento do art. 700 do CPC/2015 (e-STJ, fl. 784).
+Ora, bastaria à parte embargante ler com atenção a decisão proferida para concluir que a questão devolvida ao Superior Tribunal de Justiça por intermédio do recurso especial interposto foi enfrentada, não se podendo falar, daí, em omissão.
+Tenha-se em conta, ademais, que omissão é a ausência de apreciação de ponto ou argumento relevante sobre a qual o órgão jurisdicional deveria ter se manifestado, e que, no caso, conforme acima descrito, observa-se que as questões arguidas no recurso dirigido a esta Corte Superior foram devidamente examinadas e explicitadas na decisão embargada.
+Com efeito, não se deixou de apreciar a alegação da parte quanto aos temas indicados no especial, o que poderia ser considerado ponto omisso, tendo apenas sido feita a análise em desconformidade com o seu interesse, notadamente quanto a não ser possível limitar a incidência dos encargos de correção monetária e juros de mora até a data do pedido de recuperação judicial, entendimento esse que está em conformidade com julgado desta Corte Superior.
+Não há falar, pois em omissão na decisão embargada.
+Além disso, é de sabença geral que a obscuridade passível de correção é aquela que se constata no texto da decisão alusiva à falta de clareza e, como se verifica, a decisão proferida é inteligível e bem fundamentada.
+Não é, e não pode ser, quanto a dúvida da defesa.
+De fato, ficou bem claro ter sido o agravo em recurso especial conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+O que não está perceptível é em que ponto reside a necessidade de aclaramento, na medida que é de sabença geral que, em se tratando de recurso especial, não se pode conhecer de matérias que não superem a barreira das súmulas, o que, por sinal, foi abordado de maneira escorreita na impugnação apresentada pela defesa da parte contrária.
+Não obstante, a matéria não possui a relevância que a embargante lhe quer emprestar. Isso porque, como se sabe, na eventualidade da interposição de recurso interno contra a decisão proferida por esta Corte Superior, deve-se observar, sempre, o principio da dialeticidade - com impugnação específica a todos fundamentos adotados -, sob pena de, em assim não procedendo, ocorrer a preclusão maior quanto aos temas não enfrentados.
+Por conseguinte, a decisão embargada não possui vício a se r sanado por intermédio dos embargos de declaração, sendo evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do ar t. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDAD E OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
