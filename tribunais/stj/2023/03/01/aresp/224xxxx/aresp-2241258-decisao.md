@@ -1,0 +1,31 @@
+DECISÃO
+Na origem trata-se de ação de rito comum ajuizada por PRISMA COMERCIAL EXPORTADORA DE OLEOQUIMICOS LTDA contra a UNIÃO, postulando que reconheça o seu direito de excluir o ICMS destacado nas notas fiscais da base de cálculo do PIS e COFINS, além do ressarcimento dos valores recolhidos indevidamente nos últimos cinco anos. Na sentença julgou-se procedente o pedido. No Tribunal a quo a sentença foi parcialmente reformada, apenas para que a atualização pela SELIC ocorra a partir do mês seguinte ao pagamento. O valor da causa foi fixado em R$ 1.000.000,00 (um milhão de reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. TEMA 69 DO STF. LEIS 9.718/1998 E 12.973/2014.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial deve ser parcialmente provido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+2.2 Exclusão do ICMS da base de cálculo do PIS/COFINS
+Ao apreciar o Tema 69 da Repercussão Geral, o Supremo Tribunal Federal assentou o entendimento no sentido de que "O ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS".
+ ..
+Quanto aos honorários, nas causas em que a Fazenda Pública for parte, a fixação da verba honorária dar-se-á sobre o valor da condenação ou do proveito econômico (art. 85, §3º, do CPC), ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Nesse contexto, devem ser fixados os honorários advocatícios sobreo valor da condenação, nos percentuais mínimos previstos nos incisos do § 3ºdo art. 85 do CPC, observado o escalonamento do § 5º do mesmo artigo. O percentual será de 10%, quando o valor da condenação se enquadrar no critério estabelecido no inciso I do § 3º; em 8% quando enquadrado no inciso II, e assim sucessivamente, conforme escalonamento previsto no § 5º, a incidir sobre a condenação.
+A União é isenta do pagamento de custas processuais no âmbito da Justiça Federal, devendo restituir, no entanto, os valores adiantados pela parte adversa a esse título, atualizados pelo IPCA-E (Lei n. 9.289/1996, art. 4º, I, e parágrafo único).
+ ..
+Segundo entendimento desta Corte Superior, proferida a sentença sob a égide do CPC/2015, e vencida a Fazenda Pública, os honorários advocatícios devem ser fixados com base nos parágrafos 3º e 4º da referida norma, sendo possível a definição dos percentuais aplicáveis somente quando da liquidação do julgado, de acordo com o art. 85, parágrafo 4º, inciso II, da Lei 13.105/2015.
+Por oportuno, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. SENTENÇA ILÍQUIDA. PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS A SER DEFINIDO EM LIQUIDAÇÃO. ART. 85, § 4º, II, DO CPC/2015. PRECEDENTES.
+1. Ausência de ofensa aos arts. 489 e 1.022 do CPC, uma vez que o acórdão recorrido se manifestou de forma clara e fundamentada, quando do julgamento dos embargos de declaração, no sentido de que, ainda que a apuração do proveito econômico da causa somente ocorra na fase de liquidação do julgado, o § 2º do art. 85 do CPC autoriza que os honorários sejam fixados desde já entre o mínimo de dez e o máximo de vinte por cento sobre ele. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+2. A jurisprudência do Superior Tribunal de Justiça posicionou-se no sentido de que, nas causas em que a Fazenda Pública for parte, o estabelecimento do montante relativo aos honorários advocatícios está vinculado à necessidade de liquidez do decisum proferido, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial, de modo que a definição do percentual dos honorários sucumbenciais deve ocorrer somente quando da liquidação do julgado, de acordo com a redação do art. 85, § 4º, II, do CPC/2015.
+3. Recurso especial parcialmente provido.
+(REsp n. 1.878.908/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2021, DJe de 10/2/2021.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA ILÍQUIDA. ART. 85, § 4º, II, DO CPC/2015. PERCENTUAL QUE SERÁ FIXADO PELAS INSTÂNCIAS ORDINÁRIAS. HONORÁRIOS RECURSAIS. CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça posicionou-se no sentido de que o estabelecimento do montante relativo aos honorários recursais está vinculado à necessidade de liquidez do decisum proferido, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial. 2. Desse modo, justifica-se a definição do percentual dos honorários sucumbenciais somente quando da liquidação do julgado, de acordo com o art. 85, § 4º, II, da Lei 13.105/2015.
+3. Registre-se que a possibilidade de fixação de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada quando não imposta.
+4. Recurso Especial não provido.
+(REsp n. 1.844.891/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+No mais, uma vez realizado o juízo de conformação pelo Tribunal a quo com entendimento proferido em recurso especial submetido ao rito dos recursos repetitivos ou em recurso extraordinário em repercussão geral, nos termos do art. 1.030 do CPC, fica prejudicada a análise da matéria do apelo raro coincidente com aquela discutida no referido recurso representativo de controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo e dou parcial provimento ao recurso especial para determinar que a definição do percentual dos honorários sucumbenciais somente ocorra quando da liquidação do julgado, de acordo com o art. 85, parágrafo 4º, inciso II, do CPC/2015.
+Publique-se. Intimem-se.
