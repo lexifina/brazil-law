@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 353, DE 16 DE FEVEREIRO DE 2023
+Dispõe sobre procedimento a ser observado por cooperativa de crédito previamente ao início de sua atuação no Programa de Garantia da Atividade Agropecuária, relativo à utilização de conta Reservas Bancárias.
+O Chefe do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro (Derop), no uso das atribuições que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em vista as disposições do art. 66-A da Lei nº 8.171, de 17 de janeiro de 1991, e da alínea “m” do item 1 da Seção 1 (Disposições Gerais), dos itens 19 e 21 da Seção 2 (Enquadramento), dos itens 11 e 12 da Seção 3 (Adicional) e dos itens 18, 19, 20, 21 e 23 da Seção 7 (Despesas), todos do Capítulo 12 (Proagro) do Manual de Crédito Rural (MCR),
+R E S O L V E :
