@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto pelo MARCO XX CONSTRUÇÕES LTDA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+Apelação cível em mandado de segurança - Inadimplemento de obrigação -Suposta quebra na ordem cronológica das exigibilidades dos pagamentos -Artigo 5º da Lei Federal 8.666, de 1993 - Prova pré-constituída - Ausência - Decadência - Constatação -Recurso ao qual se nega provimento.
+1. A estreita via do mandado de segurança exige a demonstração, por prova pré-constituída, da existência de direito líquido e certo alegado e sua ameaça ou violação, à luz do que preceitua o art. 1º da Lei 12.016, de 2009.
+2. Não demonstrada, mediante prova pré-constituída, a quebra da ordem cronológica dos pagamentos devidos pela autoridade coatora, o prazo decadencial conta-se da ciência da parte impetrante acerca do inadimplemento contratual.
+3. É imperioso o reconhecimento da decadência quanto o mandado de segurança é impetrado mais de 3 (três) anos após o ato coator.
+Opostos embargos de declaração, não foram acolhidos.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente aponta violação dos seguintes dispositivos: a) art. 5º, da Lei n. 8.666/93, 12.016/09, sustentando a quebra da ordem cronológica de pagamentos, visto que os créditos constituídos posteriormente aos da ora recorrente foram pagos primeiro que os seus, que ainda continuam a ser preteridos; b) art. 6º, da Lei n. 12.016/09, argumentando que o Tribunal de origem entendeu ser incabível a aplicação do referido dispositivo no caso concreto, concluindo que "diante da absoluta ausência de indícios da violação ao direito líquido e certo da recorrente, não é possível concluir que o suposto documento necessário à prova do alegado sequer exista."
+Sustenta por fim a necessidade de se intimar a autoridade coatora para apresentar os documentos necessários à demonstração do direito líquido e certo da recorrente.
+O Tribunal de origem inadmitiu o recurso especial com fulcro na Súmula n. 7/STJ porquanto a decisão encontra-se fundada no que a Turma Julgadora inferiu do acervo probatório contido nos autos, sendo notório que os recursos constitucionais não são meios propiciadores ao debate sobre se acertada ou errônea a conclusão colegiada advinda daquele exame.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Parecer do Ministério Público Federal (e-STJ fls. 373/383) pelo conhecimento do agravo para conhecimento parcial do recurso especial e, nessa extensão, negar-lhe provimento.
+É o relatório.
+Decido.
+Impugnado o fundamento de inadmissibilidade, passo ao exame do recurso especial.
+A insurgência não comporta acolhida.
+Isso porque, o Tribunal de origem concluiu pela inexistência de direito líquido e certo a amparar o presente writ ao seguinte entendimento, verbis:
+(..)
+No caso em exame, denota-se que a recorrente falhou em demonstrar os diversos pagamentos que sustenta terem sido realizados pelo Município, em data posterior a emissão da fatura pela apelante, e que estariam ferindo o disposto no art. 5º, da Lei nº. 8.666/93.
+Com o devido e necessário respeito, as provas documentais acostadas aos autos (ordem 4 à 19) não são suficientes para apuração da suposta violação ao direito líquido e certo, reclamando instrução probatória. Sabe-se, apenas, que foi firmado contrato entre a impetrante e o Município de Divinópolis, sem que, contudo, tenha sido adimplida a última medição.
+Assim, inexistindo provas que corroborem a alegada preterição injustificada na ordem cronológica de pagamentos, sobre a mesma fonte de recursos, não há sequer substrato fático nos autos que permita a contagem do prazo decadencial na forma pretendida pela apelante, qual seja, com fulcro no suposta quebra da ordem cronológica de pagamentos.
+Em suma, não se pode cogitar que, simplesmente pelo longo espaço de tempo desde a constituição do débito, haveria uma presunção da existência de direito líquido e certo em favor da contratada.
+Reclama atenção, ainda, o teor da resposta à notificação extrajudicial (ordem 19), que apenas informa a ausência de pagamento à apelante após a data de 23.6.2016, sem mencionar quaisquer outros pagamentos efetuados pelo Município de Divinópolis à outros fornecedores de serviços de engenharia.
+Nesse viés, apesar da recorrente apontar duas ocasiões a partir das quais poderia ter início o transcurso do prazo decadencial, a verdade é que inexistindo indícios da violação de seu direito, impossível a contagem do referido prazo na forma pretendida.
+(..)
+Assim, observada a prova pré-constituída constante do caderno processual, depreende-se que o marco inicial da contagem do prazo decadencial para impetração do mandado de segurança não é outro senão o momento em que a impetrante tomou ciência inequívoca do inadimplemento.
+Logo, transcorrido mais de 3 (três) anos entre o ato coator elucidado nos autos e a data da impetração, mantém-se a sentença que reconheceu a decadência. (fls. 264/266 e-STJ)
+Dessa forma, contrariar a conclusão a que chegou o aresto combatido exigiria o exame do acervo fático-probatório dos autos a fim de analisar a existência de direito líquido e certo e a não ocorrência da decadência, providência que atrai o óbice da Súmula n. 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. ADICIONAL DE PRODUTIVIDADE. FISCAL DE OBRAS. SEGURANÇA DENEGADA. DIREITO LÍQUIDO E CERTO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado contra o Prefeito do Município de São Gonçalo/RJ objetivando receber o adicional de produtividade, ao argumento de que foram nomeados para o cargo de Fiscal de Obras em 1991. No Tribunal a quo, denegou-se a segurança. Esta Corte negou provimento ao recurso ordinário em mandado de segurança.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - O mandado de segurança possui como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória. Para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido. Nesse sentido: AgInt no RMS n. 34.203/PB, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/2/2018, DJe 16/2/2018 e AgInt no RMS n. 48.586/TO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+IV - Para que se possa aferir a alegação de ilegalidade na prática do ato administrativo, seria necessário realizar incursão probatória inviável em mandado de segurança. Nesse sentido: AgInt no RMS n. 66.700/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2021, DJe 17/12/2021; AgInt no RMS n. 59.770/GO, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/9/2021, DJe 28/9/2021.
+V - Relativamente à alegação de violação da Lei municipal n. 005/2003 e da Lei municipal n. 050/1991; o teor da Súmula n. 266/STF, a impetração de mandado de segurança contra lei em tese.
+Nesse sentido: (EDcl no RMS n. 60.820/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2019, DJe 11/10/2019 e AgInt no RMS n. 60.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/8/2019, DJe 27/8/2019).
+VI - É pacífica a jurisprudência desta Corte no sentido de que a Súmula n. 283 do STF prestigia a o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido. Nesse sentido: AgInt no RMS n. 49.015/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/11/2021, DJe 17/12/2021.
+VII - Agravo interno improvido.
+(AgInt no RMS n. 60.012/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ALEGAÇÃO DE INADIMPLEMENTO DE OBRIGAÇÃO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
