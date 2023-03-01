@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALPHAVILLE SPE PALMAS EMPREENDIMENTOS IMOBILIARIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÕES CÍVEIS. PRIMEIRO RECURSO. INSCRIÇÃO INDEVIDA DE DÉBITO COMPROVADA. INDENIZAÇÃO POR DANOS MORAIS DEVIDA. QUANTUM RAZOÁVEL. JUROS MORATÓRIOS. SÚMULA  54 DO STJ.
+Quanto à controvérsia recursal, alega violação do art. 944 do CC, no que concerne ao excessivo valor fixado a título de danos morais, trazendo o(s) seguinte(s) argumento(s):
+O r. acórdão recorrido, manteve a r. sentença de primeiro grau, que condenou a recorrente a pagar a recorrida a importância de R$10.000,00 (dez mil reais) à título de danos morais.
+Na presente situação, a apelada teria sofrido danos morais causados pela recorrente pela suposta manutenção de inscrição de seu nome nos órgão de restrição de crédito, o que teria lhe causado abalo moral, fixando indenização no montante acima exarado.
+Ocorre que, está claro que o valor arbitrado é exagerado, desproporcional, desarrazoado, e, por isso mesmo, merece ser mirado pelo Egrégio STJ (fl. 658).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, o grau de culpa da parte não excedeu o ilícito praticado. Por outro lado, ao sopesar a indenização com vistas ao seu caráter repressivo e pedagógico, deve-se levar em conta que a instituição requerida é empresa de grande porte, com inúmeras unidades imobiliárias pelo país, merecendo, portanto, uma maior condenação em virtude desse fator.
+Diante desses fatos, entendo que a sentença merece ser mantida. É certo que a tarefa de fixar indenização por danos morais não é fácil, eis que cuida não da fixação de uma verba ressarcitória. O julgador, portanto, no uso da discricionariedade que lhe é conferida em tais casos, procede à fixação do quantum indenizatório de acordo com seu prudente arbítrio, tendo sempre em mira, contudo, um patamar lindado pela razoabilidade.
+À luz dessas circunstâncias e, em que pese à ausência de parâmetros legislativos, há parâmetros jurisprudenciais que se pode ter em vista, para que seja garantida a equidade das partes, ou seja, a igualdade de tratamento.
+Na situação em espeque, em que houve a efetiva inclusão do nome da parte em cadastros de restrição ao crédito, esta Corte de Justiça tem adotado, como valor médio de indenização, o montante de R$10.000,00 (dez mil reais).
+ ..
+Assim, no caso, entendo que a indenização fixada pelo magistrado a quo, de R$10.000,00 (dez mil reais), diante das peculiaridades do caso, repara o dano sofrido pelo apelado, sem, contudo, ensejar seu enriquecimento sem causa (fls. 594/595).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
