@@ -1,0 +1,50 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por MARQUES & ADVOGADOS ASSOCIADOS e GAFISA S/A em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Acolhimento parcial. Alteração do procedimento. Necessidade de prévia liquidação de sentença. Ausência de fixação de honorários advocatícios. Discussão acerca de juros. Matéria preclusa. Coisa julgada.
+O acolhimento mesmo que parcial da impugnação ao cumprimento de sentença, quando apenas reconhece a necessidade de prévia liquidação de sentença afasta a pretensão de condenação em honorários advocatícios, já que inexistente redução do valor que se pretende receber, o que será posto em julgamento posteriormente quando interposto novo cumprimento de sentença.
+Impossível alterar os parâmetros fixados no acórdão a título de juros, quando ocorrido o trânsito em julgado, sendo a matéria preclusa acobertada pela coisa julgada.
+Opostos embargos de declaração, foram rejeitados (fls 150/157).
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, os recorrentes apontam, além da divergência jurisprudencial, ofensa aos artigos 85, §§ 1º, 11 e 14; 489, § 1º, VI; 523, § 1º, 927, incisos III, IV e V, c/c §§ 1º e 4º, todos do Código de Processo Civil; Súmulas Nº 47 do STF; Nºs 362 e 517 do STJ.
+Alegam que ocorreu a extinção parcial do cumprimento de sentença em relação aos danos materiais, portanto o acórdão recorrido teria inobservado a obrigatoriedade de arbitramento de honorários advocatícios de sucumbência no acolhimento da impugnação ao cumprimento de sentença.
+Referem que o acórdão é nulo, porquanto deixa "de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento".
+Aduzem que o acórdão deixou de extinguir a execução, como também não deliberou acerca do ônus da sucumbência, mediante o argumento de que não haveria extinção processual, ferindo o artigo 85, § 1º do Código de Processo Civil e a Súmula 517 do STJ.
+Por fim, alegam que o acórdão foi omisso, acerca dos parâmetros de atualização da indenização por danos morais, de modo que o termo inicial da incidência da correção monetária é escorreita, em atenção à Súmula Nº 362 do STJ, entretanto os juros foram arbitrados a partir da citação.
+Contrarrazões apresentadas (fls 182/187).
+É o relatório.
+Passo a decidir.
+Inicialmente, quanto à alegação de que o termo inicial dos juros moratórios deve ser fixado a partir do arbitramento, o recurso não pode ser conhecido. A teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No caso, o acórdão recorrido assentou que:
+No que tange a fixação dos juros na condenação a título de dano moral, o acórdão anteriormente citado minorou o valor para R$ 7.000,00, acrescidos de correção monetária a partir do acórdão (Súmula 362 do STJ) e juros de mora desde a citação, nos termos do art. 405 do Código Civil.
+Ocorre que os agravantes, sem razão, se insurgem acerca da incidência dos juros, acreditando que esses têm início com a data do arbitramento.
+Note-se que o acórdão transitou em julgado, não possibilitando qualquer alteração do que fora decidido naquele momento, eis que preclusa a matéria por força da coisa julgada (cf. REsp 886.178/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 02/12/2009, DJe 25/02/2010).
+A insurgência recursal, no entanto, não refuta o fundamento disposto, limitando-se a asseverar que a jurisprudência já se consolidou no sentido de que o termo inicial dos juros é a data do arbitramento.
+Quanto à ofensa aos arts. 85, §§ 11 e 14; 489, §1º; 523, §1º e 927, III, IV, §§1º e 4º, todos do CPC, a matéria de que tratam tais dispositivos não foi objeto de análise pelo acórdão recorrido, razão pela qual incide, no ponto, o óbice da Súmula 211/STJ.
+Ressalto que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017), o que não ocorreu.
+Logo, não há como se ter como prequestionada a matéria. Nesse sentido: AgInt no AREsp 1043549/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017; AgInt no REsp 1633039/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017.
+Cinge-se a controvérsia acerca da possibilidade de fixação de verba honorária sucumbencial na hipótese de, em sede impugnação ao cumprimento de sentença, acolher-se parcialmente a impugnação para determinar a prévia liquidação da sentença de modo diverso da efetuada pelo exequente.
+O tema foi objeto de análise em recurso repetitivo, conforme a ementa a seguir:
+RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Para efeitos do art. 543-C do CPC:
+1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS).
+1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC.
+2. Recurso especial provido. (REsp n. 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 1/8/2011, DJe 21/10/2011.)
+O acolhimento, entretanto, necessariamente deve acarretar a extinção do procedimento executivo ou a redução do montante executado. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. IMPUGNAÇÃO PARCIALMENTE ACOLHIDA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O Tribunal de origem decidiu em consonância com a Jurisprudência desta Corte Superior, que possui firme o entendimento no sentido de que são devidos honorários advocatícios ao executado/ impugnante quando o acolhimento da impugnação do cumprimento de sentença resulte em extinção do procedimento executivo ou redução do montante executado, o que, segundo o acórdão recorrido, ocorreu no presente caso. Precedentes.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.679.816/SP, relator MINISTRO LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/5/2021, DJe de 19/5/2021.)
+No caso dos autos, o Tribunal de origem negou a possibilidade de condenação ao pagamento de honorários nos seguintes termos:
+Verifica-se dos autos que a irresignação dos agravantes diz respeito à ausência de fixação de honorários advocatícios quando acolhida parcialmente a impugnação ao cumprimento de sentença e a fixação de juros moratórios ao dano moral a que a parte foi condenada.
+Acerca da alegação de que ao acolher a impugnação ao cumprimento da sentença, mesmo que parcialmente os honorários advocatícios são devidos deve ser considerada com ressalvas, há jurisprudência no sentido de que reconhecendo o excesso de execução, mesmo que de forma parcial, incidem honorários advocatícios. Confira-se, por exemplo, o REsp 1.134.186/RS.
+No entanto, no caso em apreço, tenho que não cabe a referida condenação ao pagamento de honorários advocatícios no caso concreto, porque a impugnação ao cumprimento da sentença foi acolhida apenas para reconhecer a necessidade de prévia liquidação de sentença de modo diverso da efetuada pelo exequente, mediante conversão do procedimento, como definido no acórdão (ID. 32906985 - Pág. 6).
+Portanto, tendo sido acolhida parcialmente a impugnação, sem que tenha sido alterado o valor executado, mas apenas alterado o procedimento, com a necessária prévia liquidação de sentença, a fixação de honorários nesse momento é indevida como posto pelo juízo singular.
+Como se nota, o acolhimento da impugnação não extinguiu total ou parcialmente o débito, tampouco a execução, apenas determinou a alteração do procedimento, indicando a necessidade de prévia liquidação da sentença quanto ao dano material.
+Logo, a hipótese tratada nos autos não autoriza a fixação de honorários em impugnação ao cumprimento de sentença, estando o acórdão recorrido em consonância com a jurisprudência desta Corte.
+Diante do exposto, dou parcial provimento ao recurso especial, nos termos da fundamentação.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSUAL CIVIL. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO PARCIALMENTE ACOLHIDA PARA RECONHECER A NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DO DANO MATERIAL. HONORÁRIOS ADVOCATÍCOS SUCUMBENCIAIS. DESCABIMENTO. DECISÃO QUE NÃO PÔS FIM AO CUMPRIMENTO DE SENTENÇA OU EXTINGUIU TOTAL OU PARCIALMENTE A DÍVIDA. ENTENDIMENTO CONSOLIDADO PELA CORTE ESPECIAL NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO 1.134.186/RS.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
