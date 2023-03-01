@@ -1,0 +1,31 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS, PARA, CASSANDO O ACÓRDÃO EMBARGADO, DAR PROVIMENTO AO RECURSO ESPECIAL. OMISSÃO ACERCA DAS VERBAS SUCUMBENCIAIS. VÍCIO EXISTENTE. DEVIDA A INVERSÃO DA SUCUMBÊNCIA, MAS NÃO A MAJORAÇÃO DA VERBA HONORÁRIA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. É devida a fixação de honorários advocatícios recursais, previstos no § 11 do art. 85 do Código de Processo Civil, em caso de indeferimento liminar, não conhecimento integral ou desprovimento dos embargos de divergência.
+2. No entanto, é indevida a majoração dos honorários advocatícios, na forma do § 11 do art. 85 do Código de Processo Civil, quando os embargos de divergência são providos, ainda que parcialmente.
+3. Embargos de declaração parcialmente acolhidos para, sanando a omissão, determinar a inversão dos ônus sucumbenciais, mas sem majoração da verba honorária já fixada.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher parcialmente os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Antonio Carlos Ferreira, Francisco Falcão e Nancy Andrighi votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por MARIA ZILDA SILVA MAIA contra acórdão desta CORTE ESPECIAL, por mim relatado, que acolheu os embargos de divergência para, "cassando o acórdão embargado, dar provimento ao recurso especial, a fim de determinar que a penhora fique limitada à metade do numerário encontrado na conta-corrente conjunta solidária" (fl. 394), em conformidade com o precedente firmado com o REsp 1.610.844/BA, Relator Ministro Luis Felipe Salomão, julgado em 15/06/2022, DJe de 09/08/2022 - cujo entendimento é de observação obrigatória, em consonância com o art. 927, inciso III, do Código de Processo Civil.
+Aponta a Embargante omissão, na medida em que não houve pronunciamento acerca dos ônus de sucumbência, notadamente em relação aos honorários advocatícios. Requer, pois, o acolhimento dos embargos para que "seja invertida a condenação e majorada a verba, por força do art. 85, §11, do CPC" (fl. 405).
+Instado a se manifestar, o Município Embargado deixou transcorrer in albis o prazo para contrarrazões, conforme certidão de fl. 412.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS, PARA, CASSANDO O ACÓRDÃO EMBARGADO, DAR PROVIMENTO AO RECURSO ESPECIAL. OMISSÃO ACERCA DAS VERBAS SUCUMBENCIAIS. VÍCIO EXISTENTE. DEVIDA A INVERSÃO DA SUCUMBÊNCIA, MAS NÃO A MAJORAÇÃO DA VERBA HONORÁRIA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. É devida a fixação de honorários advocatícios recursais, previstos no § 11 do art. 85 do Código de Processo Civil, em caso de indeferimento liminar, não conhecimento integral ou desprovimento dos embargos de divergência.
+2. No entanto, é indevida a majoração dos honorários advocatícios, na forma do § 11 do art. 85 do Código de Processo Civil, quando os embargos de divergência são providos, ainda que parcialmente.
+3. Embargos de declaração parcialmente acolhidos para, sanando a omissão, determinar a inversão dos ônus sucumbenciais, mas sem majoração da verba honorária já fixada.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Assiste parcial razão à Embargante.
+Com efeito, a sentença de primeiro grau condenou a parte terceira embargante ao pagamento das despesas e custas, bem como honorários advocatícios fixados em 10% sobre o valor atualizado da causa (fls. 102-108).
+O acórdão do Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, majorando a verba honorária para 12% sobre o valor atualizado da causa (fl. 151).
+A Primeira Turma desta Corte Superior negou provimento ao recurso especial, majorando os honorários advocatícios para 14% sobre o valor atualizado da causa (fl. 285).
+E, finalmente, esta Corte Especial, acolheu os embargos de divergência para, "cassando o acórdão embargado, dar provimento ao recurso especial, a fim de determinar que a penhora fique limitada à metade do numerário encontrado na conta-corrente conjunta solidária" (fl. 394), mas sem se manifestar sobre os ônus de sucumbência.
+De fato, com o acolhimento dos embargos de divergência, devem ser invertidos os ônus sucumbenciais. Não cabe, contudo, a pretendida majoração da verba honorária.
+Com efeito, " é  devida a fixação de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, em caso de indeferimento liminar, não conhecimento integral ou desprovimento dos embargos de divergência, sendo dispensada a comprovação do trabalho adicional do advogado do embargado, quando se tratar de recurso interposto contra acórdão publicado na vigência do CPC de 2015 e houver condenação em honorários advocatícios desde a origem" (AgInt nos EDcl nos EAREsp 1.653.223/RJ, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 11/05/2021, DJe de 17/05/2021; sem grifo no original).
+No mesmo sentido, "consoante a jurisprudência desta Corte, descabe a majoração dos honorários na forma do § 11 do art. 85 do CPC/2015 quando provido, ainda que parcialmente, o recurso especial, visto que essa regra incide apenas nos casos de inadmissão ou rejeição do recurso. Nesse sentido: REsp 1.727.396/PE, Segunda Turma, Rel. Min. Herman Benjamin, DJe de 02/08/2018" (AgInt no REsp n. 1.922.510/MT, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022).
+Assim, tendo sido provido o recurso, a verba honorária e demais ônus sucumbenciais são simplesmente invertidos, não cabendo majoração daquela.
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração para, sanando a omissão, determinar a inversão dos ônus sucumbenciais, sem majoração da verba honorária já fixada.
+É como voto.
