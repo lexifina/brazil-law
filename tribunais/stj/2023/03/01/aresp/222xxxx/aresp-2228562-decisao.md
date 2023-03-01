@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se, na origem, de ação declaratória de inexigibilidade de débito cumulada com obrigação de fazer ajuizada por ELIANE PAULA RICCI em desfavor de CONDOMÍNIO RESIDENCIAL MORADA DOS PÁSSAROS (ora recorrente).
+Na ocasião, sobreveio a sentença proferida pela magistrada singular, a qual julgou improcedente os pedidos formulados na inicial, com o seguinte fundamento (e-STJ, fl. 127):
+Ante o exposto, JULGO IMPROCEDENTES os pedidos iniciais, resolvendo o mérito, nos termos do artigo 487, I, do Código de Processo Civil e condeno a autora no pagamento das custas processuais e honorários advocatícios, que fixo, por equidade, nos termos do artigo 85, §8º, em R$ 500,00.
+Interposta a apelação pela ora recorrida, a Vigésima Sexta Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu-lhe provimento, reformando a decisão outrora proferida, nos termos da ementa (e-STJ, fl. 153):
+DESPESAS DE CONDOMÍNIO. COBRANÇA. MULTA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIADE DÉBITO C. C. OBRIGAÇÃO DE NÃO FAZER. Não tendo sido demonstrada a conduta reiterada da condôminaem não cumprir com os seus deveres perante o condomínio,de rigor o afastamento da multa prevista no art. 1.337 do CC. Sentença reformada. Recurso provido para julgar a ação procedente.
+Opostos os embargos de declaração pela ora insurgente, o Tribunal local os rejeitou, conforme ementa abaixo reproduzida (e-STJ, fl. 166):
+EMBARGOS DE DECLARAÇÃO. DESPESASCONDOMINIAIS. COBRANÇA DE MULTA, AÇÃODECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C. C. OBRIGAÇÃO DE NÃO FAZER. Não havendo no julgado qualquer vício que comporte declaração, e não se destinando os embargos declaratórios à manifestação do inconformismo da parte com o resultado do julgamento, nada há a declarar. Embargos rejeitados.
+Contra o acórdão, o CONDOMÍNIO RESIDENCIAL MORADA DOS PÁSSAROS, com fulcro no art. 105, III, a, da Constituição Federal, interpôs recurso especial, apontando violação aos arts. 1.336, IV, §2º, 1.337, e 1.348, IV e VII, do Código Civil.
+Em suas razões, alegou o recorrente (a) que ao aplicar a multa à condômina decorrente do uso indevido da piscina por visitante, o síndico o fizera com fundamento no 1348, IV e VII, do Código Civil, em cumprimento das normas internas do condomínio (Convenção de Condomínio, Regulamento Interno e Decisões de Assembleia); e (b) a inaplicabilidade do art. 1.337 do mesmo diploma, visto que não se trata do caso de condômino antissocial.
+Foram apresentadas as contrarrazões (e-STJ, fls. 191-198).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 197-198), o que ensejou a interposição do presente agravo (e-STJ, fls. 201-2013).
+Brevemente relatado, decido.
+No caso vertente, cinge-se a controvérsia quanto à aplicação de multa à condômina decorrente de descumprimento das normas condominiais.
+Compulsando os autos, colhe-se do acórdão recorrido que, ao reformar a sentença, a Câmara julgadora aplicou o art. 1.337 do Código Civil, por considerar que não fora realizada a assembleia, tampouco não ficara comprovado o comportamento reiterado da ora recorrente.
+Veja-se (e-STJ, fls. 153-154):
+O recurso merece prosperar, respeitado o entendimento da magistrada sentenciante.
+Depreende-se da leitura dos autos que a apelante não discute a prática de conduta violadora das normas condominiais, mas insurge-se contra a validade da multa.
+De fato, a Convenção (fls. 35/72) e o Regimento Interno (fls. 73/94) constituem o conjunto de regras que regem as relações entre os condôminos, disciplinando a conduta e o comportamento dos moradores no âmbito de convivência do Condomínio/réu.
+Entretanto, não se pode olvidar que a matéria é igualmente prevista pelo artigo 1337 do Código Civil, que é expresso ao dispor:
+ ..
+Outro não é o ensinamento de Francisco Eduardo Loureiro, ao comentar o artigo 1.337 do Código Civil ("in" "Código Civil Comentado", 2013, Ed. Manole, de vários autores sob a coordenação do Ministro Cezar Peluso, p. 1.362):"A multa é sempre imposta em assembleia, com o quórum qualificadíssimo dos condôminos restantes" sendo certo "que o condômino deve ser previamente advertido e convidado a prestar esclarecimentos por escrito ou em assembleia, perante os demais condôminos", observando-se que não se exige "ampla dilação probatória nem precisa ser fundamentada a decisão que em assembleia aplica a multa"
+Observo que no caso em discussão não foi realizada assembleia em cumprimento ao ordenamento jurídico vigente, tampouco há qualquer evidência de que o comportamento da apelante seja reiterado, impondo-se a necessidade da imposição da sanção.
+Nesse ponto, vinga a pretensão do recorrente em relação à inaplicabilidade do art. 1.337 do Código Civil.
+Deveras, esta Corte Superior possui entendimento firme no sentido de que, para a aplicação do art. 1.337 do CC/2002, se exige o comportamento reiterado e contumaz em relação ao não cumprimento dos deveres por parte do condômino.
+Ilustrativamente (sem grifos no original):
+RECURSO ESPECIAL. DIREITO CONDOMINIAL. DEVEDOR DE COTAS CONDOMINIAIS ORDINÁRIAS E EXTRAORDINÁRIAS. CONDÔMINO NOCIVO OU ANTISSOCIAL. APLICAÇÃO DAS SANÇÕES PREVISTAS NOS ARTS. 1336, § 1º, E 1.337, CAPUT, DO CÓDIGO CIVIL. POSSIBILIDADE. NECESSIDADE DE CONDUTA REITERADA E CONTUMAZ QUANTO AO INADIMPLEMENTO DOS DÉBITOS CONDOMINIAIS. INEXISTÊNCIA DE BIS IN IDEM. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 1.336, § 1º, do Código Civil, o condômino que não pagar a sua contribuição ficará sujeito aos juros moratórios convencionados ou, não sendo previstos, os de 1% (um por cento) ao mês e multa de até 2% (dois por cento) sobre o débito.
+2. O condômino que deixar de adimplir reiteradamente a importância devida a título de cotas condominiais poderá, desde que aprovada a sanção em assembleia por deliberação de 3/4 (três quartos) dos condôminos, ser obrigado a pagar multa em até o quíntuplo do valor atribuído à contribuição para as despesas condominiais, conforme a gravidade da falta e a sua reiteração.
+3. A aplicação da sanção com base no art. 1.337, caput, do Código Civil exige que o condômino seja devedor reiterado e contumaz em relação ao pagamento dos débitos condominiais, não bastando o simples inadimplemento involuntário de alguns débitos.
+4. A multa prevista no § 1º do art. 1.336 do CC/2002 detém natureza jurídica moratória, enquanto a penalidade pecuniária regulada pelo art. 1.337 tem caráter sancionatório, uma vez que, se for o caso, o condomínio pode exigir inclusive a apuração das perdas e danos.
+5. Recurso especial não provido.
+(REsp n. 1.247.020/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/10/2015, DJe de 11/11/2015.)
+Destarte, tento em vista a evidente dissonância entre o fundamento do acórdão e o entendimento jurisprudencial deste Superior Tribunal acerca da matéria, o provimento ao reclamo é medida que se impõe.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de, revertendo o julgado, inclusive em relação a os ônus de sucumbência, julgar improcedente a ação ajuizada pela ora recorrida.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM OBRIGAÇÃO DE FAZER. APELAÇÃO CÍVIL. 1. DIREITO CIVIL. MULTA APLICADA À CONDÔMINA. DESCUMPRIMENTO DE REGRAS PREVISTAS EM REGULAMENTOS DO CONDOMÍNIO. INAPLICABILIDADE DO ART. 1.337 DO CÓDIGO CIVIL. PRECEDENTES. 2. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
