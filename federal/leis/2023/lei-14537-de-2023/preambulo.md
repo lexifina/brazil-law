@@ -1,0 +1,3 @@
+LEI Nº 14.537, DE 28 DE FEVEREIRO DE 2023
+Altera a Lei nº 12.249, de 11 de junho de 2010, para dispor sobre a alíquota do imposto sobre a renda retido na fonte incidente sobre as operações a que se refere; e revoga dispositivos das Leis nºs 12.810, de 15 de maio de 2013, 12.844, de 19 de julho de 2013, e 13.315, de 20 de julho de 2016.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.138, de 2022, que o Congresso Nacional aprovou, e eu, Rodrigo Pacheco, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
