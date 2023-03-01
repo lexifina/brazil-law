@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BENEDITO MUTRAN NETO e B. M. IMPORTAÇÃO E EXPORTAÇÃO DE CASTANHAS LTDA. à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 522, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO JULGADA PROCEDENTE. ALIENAÇÃO FIDUCIÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 529-536, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Impugnação às fls. 539-547 (e-STJ).
+É o relatório.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, somente têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situação que não se observa na espécie.
+A decisão embargada decidiu a controvérsia com base em fundamentação sólida, sem omissões ou contradições. Na verdade, apenas se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+Dito isso, cabe rememorar que os ora embargantes, em desfavor do acórdão proferido pelo TJSP, interpuseram recurso especial (fls. 430-450, e-STJ), o qual não foi admitido (fls. 472-474, e-STJ), ensejando o manejo do agravo em recurso especial (fls. 477-496, e-STJ), do qual se conheceu para negar provimento ao recurso especial.
+Nas razões do recurso especial, os então recorrentes alegaram estar configurada a negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão impugnada.
+Em especial, apontaram não ter havido análise acerca da noticiada composição entre as partes, com a expressa concordância do banco recorrido com a proposta de pagamento de R$ 247.500,00 (duzentos e quarenta e sete mil e quinhentos reais) para quitação da dívida existente entre as partes, conforme mensagens trocadas entre as partes, contudo, posteriormente, o banco alterou a negociação, situação com a qual os recorridos não concordaram, haja vista a força vinculante da proposta bem como em atenção ao princípio da boa-fé contratual.
+Na decisão embargada, reconheceu-se: a) não estar configurada a alegada violação dos arts. 489 e 1 .022 do CPC/2015, porquanto as questões trazidas pelos recorrentes foram analisadas, de forma fundamentada; b) a impossibilidade de revisão das conclusões estaduais, dada a necessidade de revolvimento do acervo fático-probatório dos autos, o que é vedado no âmbito do recurso especial, conforme óbice da Súmula n. 7 do Superior Tribunal de Justiça; e c) incidência da Súmula 283/STF, por falta de impugnação a fundamento do acórdão recorrido.
+Desse modo, ainda que a solução tenha sido contrária à pretensão dos ora insurgentes , não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+Logo, ausentes pontos omissos, contraditórios ou outros vícios processuais, não cabe falar em provimento destes embargos de declaração.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. PRETENSÃO DE PREQUESTIONAMENTO DE QUESTÕES CONSTITUCIONAIS. INVIABILIDADE.
+1. Ação de inexigibilidade de débito cumulada com cancelamento de restrição em banco de dados e indenização por danos morais.
+2. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+3. Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na CF.
+4. Embargos de declaração no agravo interno no agravo em recurso especial rejeitados (EDcl no AgInt no AREsp 1.814.371/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 30/08/2021, DJe 02/09/2021).
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL POR DANOS MATERIAIS, MORAIS C/C LUCROS CESSANTES. CONTRATO DE CESSÃO DE DIREITOS DE USO DE ÁREA IMÓVEL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Existência de erro material que deve ser sanado, para restabelecer a decisão agravada, que acrescentou 10% (dez por cento) à verba previamente arbitrada nas instâncias precedentes, perfazendo 11% (onze por cento) sobre o valor da condenação.
+3. Embargos de declaração rejeitados, sanado erro material (EDcl no AgInt no AREsp 1.424.868/PR, Rel. Ministra Marai Isabel Gallotti, Quarta Turma, julgado em 30/08/2021, DJe 02/09/2021).
+Dessa forma, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
