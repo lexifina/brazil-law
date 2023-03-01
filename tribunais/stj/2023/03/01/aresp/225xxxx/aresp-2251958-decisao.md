@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do TJSP cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO ICMS Parcial acolhimento da exceção de pré-executividade oposta em execução fiscal para determinar a correção dos juros de mora de a-cordo com os índices estabelecidos para débitos da UniãoNecessidade apenas de retificação da CDA, sem extinção da execução fiscal Decisão mantida Recurso desprovido.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 783 e 803, § único do CPC/2015; 202, II do CTN; 2º, §5º e 3º, § único da Lei 6.830/80, sob o argumento que "a medida em que a Certidão da Dívida Ativa, para cumprir sua função legal, deveria conter todos os requisitos obrigatórios previstos de forma correta, o que não se observou no que diz respeito a quantia devida e a maneira de calcular os juros de mora. Também foi violado o art. 3º, parágrafo único, da Lei n. 6.830/80, a medida em que a incorreção da maneira de calcular os juros de mora na exação em questão, retirou a presunção de certeza e liquidez do título, tendo esta sido ilidida por prova inequívoca" (fl. 70).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso.
+O recurso foi inadmitido pela decisão de fls. 93/94, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O acórdão do Tribunal de origem entendeu que (fl. 38 e-STJ):
+O Órgão Especial deste Tribunal de Justiça decidiu conferirinterpretação conforme a CF dos arts. 85 e 96 da Lei 6.374/89, com a redaçãodada pela Lei 13.918/09, de modo que a taxa de juros aplicável ao montantedo tributo não exceda aquela incidente na cobrança dos tributos federais(Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.0000, Órgão Es-pecial do Tribunal de Justiça de São Paulo, rel. Des. Paulo Dimas Mascaretti, j. 27.02.2013).Ressalte-se que a execução fiscal não será extinta, não há fundamento para isso, será somente suspensa, com impedimento de atos e-xecutórios enquanto não corrigido o título executivo; a incorreção da formade cobrança dos juros de mora não acarreta a nulidade do título, mas apenasa necessidade de correção do valo
+A verificação acerca da existência dos requisitos essenciais que devem constar da certidão de dívida ativa, a fim de que fiquem demonstradas a certeza e liquidez do título, demanda o revolvimento do suporte fático-probatório carreado aos autos, o que é inviável em sede de recurso especial, tendo em vista o óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISCUSSÃO ACERCA DOS REQUISITOS DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. ALEGADA ILEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO FISCAL. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido. (AgRg no AREsp 207.967/MG, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 12.9.2012)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DISCUSSÃO ACERCA DA REGULARIDADE DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
