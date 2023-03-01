@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ROBSON ALVES DOS SANTOS contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, apresentado contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento da Apelação Criminal n. 0107285-47.2020.8.21.7000.
+O Ministério Público Federal opinou não conhecimento do agravo (fls. 590-592).
+É o relatório. Decido.
+O agravo em recurso especial não reúne condições de admissibilidade, pois não foi concretamente impugnado o fundamento da decisão agravada.
+No caso, a Corte de origem não admitiu o recurso especial em razão da ausência de prequestionamento dos dispositivos legais apontados como violados (fls. 547-550). Desse modo, para impugnar concretamente este fundamento, o Agravante deveria ter demonstrado em que momento do acórdão estadual a tese veiculada no recurso especial foi efetivamente debatida pelo Tribunal de origem, ônus do qual não se desincumbiu.
+Ressalte-se que as alegações de que os termas abordados seriam matéria de ordem pública ou constituiriam nulidade absoluta não são suficientes para impugnar o óbice decorrente da falta de prequestionamento, pois "mesmo as matérias consideradas de ordem pública exigem o prequestionamento como requisito necessário para a abertura da via especial" (AgRg no REsp n. 1.967.356/PR, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/11/2022, DJe de 17/11/2022).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. CRIME DE TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. NULIDADE. INVASÃO DOMICILIAR. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior.
+2. No caso, a tese de nulidade do feito em razão da suposta invasão domiciliar pela polícia não foi submetida e, por consequência, não foi debatida pela Corte local, tanto no julgamento da apelação, tampouco no julgamento dos embargos infringentes, de modo que o tema não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+3. Por fim, ressalta-se que: De acordo com a jurisprudência desta Corte Superior, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária  ..  (AgRg no HC 720.256/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022).
+4. Agravo regimental a que se nega provimento." (AgRg no HC n. 732.589/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022, sem grifos no original).
+Em razão de o Agravante não ter rebatido concretamente o fundamento da decisão agravada, não é possível o conhecimento do agravo, conforme se extrai do art. 932, inciso III, do Código de Processo Civil, e da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. FURTO SIMPLES. MINUTA DE AGRAVO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
