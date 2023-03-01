@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS em julgamento de AGRAVO EM EXECUÇÃO PENAL N. 1.0470.18.003246-3/001.
+Consta dos autos que foi concedido ao ora recorrido a prisão domiciliar (fl. 276). O r ecurso de agravo em execução interposto pela acusação foi desprovido (fl. 280). O acórdão ficou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL -PRISÃO DOMICILIAR -SENTENCIADO CUMPRINDO PENA EM REGIME DIVERSO DO ABERTO -PANDEMIA -CONDENADO PORTADOR DO VÍRUS HIV -EXCEPCIONALIDADE EVIDENCIADA. -A concessão de prisão domiciliar ao reeducando em cumprimento de pena em regime diverso do aberto pode ser justificada diante de situação excepcional. -Caso em que a segregação domiciliar foi deferida ao condenado por se enquadrar em grupo de risco em relação à pandemia do coronavírus, sendo portador do vírus HIV." (fl. 275).
+Embargos de declaração opostos pela acusação foram rejeitados. O acórdão ficou assim ementado:
+"EMBARGOS DECLARATÓRIOS - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE - REEXAME DO MÉRITO DA CAUSA -IMPOSSIBILIDADE - EMBARGOS REJEITADOS. -Os embargos declaratórios, cujas hipóteses de manejo encontram-se expressamente previstas em lei, não se prestam para nova análise de questões já examinadas, sendo incabível a sua utilização apenas como forma de exteriorizar o inconformismo do embargante com o deslinde do julgado." (fl. 305).
+Nas razões do apelo especial, alega o Ministério Público do Estado de Minas Gerais, em síntese, contrariado o disposto nos artigos 112 e 117, ambos da LEP, uma vez que a concessão de prisão domiciliar somente é possível nos casos de cumprimento de pena em regime aberto, o que não se verifica no presente caso (regime fechado). Aduz, ainda, que a situação de excepcionalidade prevista na Recomendação nº 62/2020, do Conselho Nacional de Justiça não seria aplicável, pois o recorrido cumpre pena por crime equiparado a hediondo, bem como não existem informações da impossibilidade do cumprimento da pena no estabelecimento prisional em razão de superlotação ou ausência de equipe médica.
+Requer a revogação da prisão domiciliar do recorrido.
+Contrarrazões do RAFAEL OLIVEIRA LOPES (fls. 393/401).
+Admitido o recurso no TJ (fls. 407/409), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pela prejudicialidade do recurso especial (fls. 561/563).
+É o relatório.
+Decido.
+O Ministério Público do Estado de Minas Gerais busca a revogação do benefício da prisão domiciliar e o retorno do reeducando ao sistema penitenciário para dar continuidade ao cumprimento da pena. Contudo, considerando a dinâmica do processo de execução da pena, foi determinada a prestação de informações ao Juízo da Vara de Execuções Penais da Comarca de Paracatu/MG, acatando-se o parecer ministerial.
+Em resposta ao oficio, consta que, em outubro de 2021, cessou a vigência da Portaria n. 7/2020, que concedeu a prisão domiciliar ao recorrido, tendo retornado ao cumprimento da pena na APAC local.
+Destarte, considerando que o benefício da prisão domiciliar do ora recorrido já foi revogado e que o mesmo está cumprindo a pena no estabelecimento prisional, verifica-se a perda de objeto do presente recurso.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
