@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de reclamação proposta por FELIPE KUSNITZKI RANGEL LIMA, contra acórdão proferido pelo TRF da 2ª Região que, segundo o reclamante, ao julgar novamente o agravo de instrumento - cumprindo o comando do AREsp n. 1.726.797/RJ - teria deixado "de observar o comando expresso e objetivo proferido pela 4ª. Turma do E. STJ" (e-STJ fl. 13).
+Narra que o recurso anterior (AREsp n. 1.726.797/RJ) "foi conhecido e provido, para "(..) anular o acórdão recorrido e determinar o retorno dos autos à origem, para novo julgamento do agravo de instrumento, observados os termos desta decisão quanto ao prazo prescricional de três anos, a contar do vencimento da dívida"" (e-STJ fl. 11).
+Afirma que o TRF da 2ª Região, no julgamento do AI 5002607-39.2019.4.02.0000/RJ, "apesar de ordenada a rejulgar o Agravo de Instrumento em questão, conforme determinado nos autos do AREsp nº 1.726.797/RJ pela 4ª. Turma do E. STJ, deixou de fazê-lo em razão de entender que o que estaria em execução naqueles autos seria "Cheque Especial" e que a Cédula de Crédito Bancária, por sua vez, constituiria "mera garantia"" (e-STJ fl. 13).
+Defende a procedência do pedido, para que seja cassado o acórdão e reconhecida a prescrição da Cédula de Crédito Bancário.
+É o relatório.
+Decido.
+A Constituição Federal prevê, em seu art. 105, I, "f", os casos de reclamação ao STJ. Confiram-se:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+(..)
+f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+(..)
+No caso dos autos, não houve usurpação de competência ou descumprimento, pela autoridade reclamada, de alguma decisão proferida por esta Corte, de modo a justificar a presente ação.
+A decisão supostamente afrontada, proferida no AREsp n. 1.726.797/RJ, determinou fosse realizado novo julgamento do agravo de instrumento (e-STJ fl. 21/22):
+Ante o exposto, DOU PROVIMENTO ao agravo interno para RECONSIDERAR a decisão da Presidência desta Corte de fls. 244/248 (e-STJ) e CONHECER do agravo nos próprios autos, a fim de DAR PROVIMENTO ao recurso especial, de modo a anular o acórdão recorrido e determinar o retorno dos autos à origem, para novo julgamento do agravo de instrumento, observados os termos desta decisão quanto ao prazo prescricional de três anos, a contar do vencimento da dívida.
+Em novo julgamento, o TRF da 2ª Região (AI 5002607-39.2019.4.02.0000/RJ) apontou a data de vencimento da Cédula de Crédito Bancário, mas entendeu que consistiria em mera garantia do crédito rotativo, cujo inadimplemento ocorreu meses depois. Asseverou que a prescrição somente existiria a partir da inércia do titular do direito, que não pode ser considerada antes do inadimplemento.
+Portanto, o novo julgamento observou o comando do AREsp n. 1.726.797/RJ, embora tenha indicado suposto elemento obstativo da prescrição - a falta de inadimplemento.
+Oportuno transcrever parte dos fundamentos do AI 5002607-39.2019.4.02.0000/RJ (e-STJ fls. 42/43):
+Ocorre que, na hipótese dos presentes autos, em que pese o vencimento da Cédula de Crédito Bancário tenha ocorrido em 16/01/2015, consoante assinala o Termo de Aditamento à Cédula de Crédito Bancário - Cheque Empresa Caixa 0152.0201 - acostado no Evento 1-OUT6 -, é imperioso destacar que tal cédula de crédito constitui mera garantia do empréstimo celebrado entre as partes, sendo que a dívida que está sendo objeto da execução originária, qual seja, a dívida do limite de Crédito Rotativo (Cheque Especial) se iniciou tão somente em 12 de junho de 2015, conforme denota o Demonstrativo de Débito anexado aos autos originários (JFRJ, Evento 1, OUT8), pelo que descabido considerar-se qualquer transcurso de prazo prescricional antes de iniciada a própria inadimplência, já que a prescrição pune a inércia do titular do direito e não há qualquer inércia antes do início dessa inadimplência.
+Com efeito, "em relação ao crédito rotativo, há que se considerar a peculiaridade desse tipo de crédito, que é disponibilizado pela instituição financeira dentro do limite contratado para utilização de forma automática, conforme as necessidades do tomador, ou seja, não havendo saldo disponível na conta-corrente, o banco libera automaticamente o crédito pré-estabelecido. Nesse caso, a prescrição deve ser contada a partir da data apontada, no demonstrativo de débito, como data de início de inadimplemento, pois esta corresponde, na verdade, ao termo final do prazo para pagamento da dívida, estabelecido em contrato e contado a partir da data em que o débito atinge o limite do crédito contratado, sem que o tomador realize qualquer depósito para saldar sua dívida" (CF. TRF3ª Reg., 11ª T.,AC 0007160-65.2001.4.03.6000, Rel. Des. Fed. CECILIA MELLO, e-DJF323.02.2017).
+De tal sorte, ainda que se considere aplicável ao caso dos autos o prazo prescricional de 3 (três) anos, a teor do art. 70 da Lei Uniforme de Genebra, tendo sido a execução originária proposta em 31 de janeiro de 2018, ou seja, há menos de três anos do inadimplemento do Cheque Especial (12.06.2015), não há que se cogitar de prescrição da pretensão executória. (Grifei.)
+Assim, a decisão reclamada não contrariou o comando específico do AREsp n. 1.726.797/RJ. Ao contrário, apenas tornou efetiva a determinação desta Corte relativa ao novo julgamento do agravo de instrumento. Eventual discordância do resultado deverá ser manifestada na forma processual adequada. A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS AUTÔNOMOS. DECISÃO DESSA CORTE. OBSERVÂNCIA. USURPAÇÃO DA COMPETÊNCIA DO STJ. INEXISTÊNCIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso" (AgInt na Rcl 40.171/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 9/9/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 42.471/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe de 26/9/2022.)
+Em tal conjuntura, conclui-se que não se encontram presentes os requisitos constitucionais para a propositura da reclamação.
+Diante do exposto, INDEF IRO LIMINARMENTE a reclamação.
+Prejudicado o pedido de liminar.
+Publique-se e intimem-se.
