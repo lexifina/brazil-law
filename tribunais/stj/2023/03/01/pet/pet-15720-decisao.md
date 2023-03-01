@@ -1,0 +1,21 @@
+DECISÃO
+LEONY DE MENDONCA SILVA requer tutela provisória, para conceder efeito suspensivo a recurso especial inadmitido, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte (Apelação Criminal n. 0001151-82.2021.8.20.5600).
+Consta dos autos que o insurgente foi condenado à pena de 9 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, § 2º, II, e §2º-A, I, por três vezes.
+A Corte estadual deu parcial provimento ao apelo defensivo.
+Em seguida, a defesa interpôs recurso especial, inadmitido na origem, o que ensejou a interposição de agravo, ainda pendente de processamento pelo Tribunal a quo.
+Nestes autos, o requerente aponta grande chance de êxito do REsp inadmitido e o perigo da demora.
+Para tanto, afirma que o réu está preso há 1 ano e 5 meses e que a condenação foi baseada unicamente em reconhecimento pessoal realizado sem a observância dos requisitos previstos no art. 226 do CPP.
+Postula a concessão de efeito suspensivo ao reclamo especial inadmitido, até o julgamento ao AREsp por este Superior Tribunal.
+Decido.
+A medida pleiteada não merece acolhimento.
+Preliminarmente, releva salientar que a concessão de eficácia suspensiva ao recurso especial, para legitimar-se, pressupõe: a) existência de juízo positivo de admissibilidade, proferida pelo Presidente do Tribunal de origem; b) viabilidade processual do recurso especial; c) plausibilidade jurídica do direito invocado e d) periculum in mora.
+Nessa diretriz, a lição do Supremo Tribunal Federal:
+A concessão de eficácia suspensiva ao apelo extremo, para legitimar-se, supõe a conjugação necessária dos seguintes requisitos: (a) que tenha sido instaurada a jurisdição cautelar do Supremo Tribunal Federal (existência de juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem), (b) que o recurso extraordinário interposto possua viabilidade processual, caracterizada, dentre outras, pelas notas da tempestividade, do prequestionamento explícito da matéria constitucional e da ocorrência de ofensa direta e imediata ao texto da Constituição, (c) que a postulação de direito material deduzida pela parte recorrente tenha plausibilidade jurídica e (d) que se demonstre, objetivamente, a ocorrência de situação configuradora do periculum in mora. Precedentes.
+(Agrg na Pet. n. 1859, Rel. Ministro Celso de Mello, 2ª Turma, DJ 28/4/2000, p. 90)
+O caso dos autos, de início, não satisfaz o primeiro requisito exigido, qual seja, a existência de juízo positivo de admissibilidade pelo Presidente da Corte antecedente. Observo, a propósito, que a defesa nem sequer juntou cópia da decisão de inadmissibilidade do recurso especial, tampouco da sentença condenatória e da denúncia, de modo a viabilizar a plena compreensão do caso.
+Ademais, ao menos em um juízo de cognição sumária, verifico, pela leitura do acórdão impugnado, não ser possível concluir, de plano, que a condenação do réu haja sido amparada, única e exclusivamente, no ato de reconhecimento.
+Com efeito, consta do acórdão impugnado que (fl. 29):
+Os depoimentos dos policiais em Delegacia e em juízo corroboram todo o contexto fático-probatório narrado pelas vítimas, inclusive relatam que o réu foi preso em flagrante logo após o crime, com a mesma bermuda, estando em lugar próximo ao que o rastreador do aparelho celular marcava. Ainda, informaram que em que pese não tenham conseguido adentrar à residência apontada pelo rastreador como o local em que o celular roubado estava, por não terem autorização para tanto, ao chegarem ao local, "os familiares saíram exatamente da casa na qual o sinal estava apontando".
+Assim, uma vez que, ao menos à primeira vista, houve outros elementos probatórios que deram amparo ao reconhecimento, os quais, ao que tudo indica, também foram sopesados pela Corte de origem para fins de se concluir pela condenação do acusado em relação ao crime de roubo que lhe foi atribuído, fica afastada a plausibilidade jurídica do direito tido como violado.
+Ante o exposto, indefiro liminarmente este pedido de tutela provisória, por analogia ao disposto no art. 210 do RISTJ.
+Publique-se e intimem-se.
