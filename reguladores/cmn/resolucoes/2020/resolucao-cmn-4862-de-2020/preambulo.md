@@ -1,0 +1,4 @@
+Resolução Nº 4.862 RESOLUÇÃO CMN Nº 4.862, DE 23 DE OUTUBRO DE 2020
+Altera a data da entrada em vigor da Resolução nº 4.762, de 27 de novembro de 2019, que altera a Resolução nº 4.292, de 20 de dezembro de 2013, que dispõe sobre a portabilidade de operações de crédito realizadas com pessoas naturais, e da Resolução nº 4.790, de 26 de março de 2020, que dispõe sobre procedimentos para autorização e cancelamento de autorização de débitos em conta de depósitos e em conta-salário.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 22 de outubro de 2020, com base nos arts. 4º, incisos VI e VIII, da referida Lei, 7º do Decreto-Lei nº 2.291, de 21 de novembro de 1986, e 33-E da Lei nº 9.514, de 20 de novembro de 1997,
+R E S O L V E U :
