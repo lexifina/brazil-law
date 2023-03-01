@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 352, DE 15 de FEVEREIRO de 2023
+Altera a Instrução Normativa BCB nº 291, de 29 de julho de 2022, que estabelece os procedimentos necessários para a adesão ao Pix, para ajustar dispositivos referentes à etapa cadastral, à etapa homologatória e à etapa de operação restrita; para inserir disposições transitórias sobre regime de transição; e para ajustar os formulários de adesão.
+O Chefe do Departamento de Competição e de Estrutura do Mercado Financeiro (Decem), no uso da atribuição que confere o art. 97-A, inciso X, alínea “b”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em conta o disposto no § 3º do art. 25 do Regulamento anexo à Resolução BCB nº 1, de 12 de agosto de 2020,
+R E S O L V E :
