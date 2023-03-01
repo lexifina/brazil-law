@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Apelação Cível. Ação de Obrigação de Fazer c/c Indenizatória. Relação de Consumo. Plano de Saúde. Consumidora que necessita de atendimento de urgência em nosocômio. Alegação de recusa da ré,sob alegação de inadimplência superior a 60(sessenta) dias. Autora que refuta a inadimplência. Sentença de procedência. Manutenção. A Lei n. 9.656/98, que trata dos planos e seguros privados de assistência à saúde, prevê a possibilidade de resolução e resilição dos contratos de plano de saúde individuais e familiares nos casos de não pagamento da mensalidade por período superior a sessenta dias, seja ele consecutivo ou não, nos últimos doze meses de vigência do contrato. Contudo, necessária a notificação prévia do segurado até o quinquagésimo dia de inadimplência. Caso concreto no qual a notificação foi levada a efeito após o quinquagésimo dia de atraso, bem como não recebida pela autora, ou por seus familiares. Inobservância do disposto no art. 13, parágrafo único, II, da Lei n. 9.656/98. Descumprimento do ônus probatório do art. 373, II, do CPC. Cancelamento ilegítimo do plano de saúde pela operadora. Falha na prestação dos serviços. Danos morais configurados. Falecimento da consumidora no curso do feito. Possibilidade de prosseguimento da ação quanto à indenização por dano imaterial, eis que, o que se sucede nãoé o dano moral em si, que é personalíssimo, mas o direito de ação, de caráter patrimonial. Inteligência da Súmula n.642 do E. STJ. Danos morais configurados na hipótese. Legítima frustração das expectativas da falecida consumidora de ser atendida pelo plano contratado. Incidência da Súmula n.339 do E. TJRJ. Verba reparatória fixada em R$ 8.000,00(oito mil reais). Consonância aos Princípios da Razoabilidade e da Proporcionalidade. Aplicação da Súmula nº 343 deste E. TJRJ. Majoração dos honorários advocatícios, na forma do art. 85,§11, do CPC. Fixação de honorários recursais, a teor do art. 85, §1º, do CPC. Jurisprudência e precedentes citados:0004757-37.2020.8.19.0000 - AGRAVO DE INSTRUMENTO. Des(a). RICARDO RODRIGUES CARDOZO -Julgamento: 28/04/2020 - DÉCIMA QUINTA CÂMARA CÍVEL; 0076946-57.2014.8.19.0021 - APELAÇÃO. Des(a). EDUARDO GUSMAO ALVES DE BRITO NETO -Julgamento: 16/04/2019 - DÉCIMA SEXTA CÂMARA CÍVEL; 0038475-24.2013.8.19.0209 -APELAÇÃO. Des(a). MÔNICA MARIA COSTA DI PIERO -Julgamento: 09/10/2018 -OITAVA CÂMARA CÍVEL; 0000076-81.2014.8.19.0049 - APELAÇÃO. Des(a). MAFALDA LUCCHESE -Julgamento: 10/11/2021 -VIGÉSIMA QUARTA CÂMARA CÍVEL; (0010303-07.2019.8.19.0001 -APELAÇÃO. Des(a). PAULO CESAR VIEIRA C. FILHO -Julgamento: 04/08/2021 -VIGÉSIMA QUARTA CÂMARA CÍVEL; 0008678-71.2015.8.19.0002 -APELAÇÃO. Des(a). DENISE LEVY TREDLER -Julgamento: 18/03/2021 -VIGÉSIMA PRIMEIRA CÂMARA CÍVEL. DESPROVIMENTO DOS RECURSOS. (e-STJ, fls. 631/632)
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls. 691/699).
+Irresignada, AMIL interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 1022, II, do Código de Processo Civil; 13, parágrafo único, inciso II, da Lei 9.656/98; 186, 188, I, e 927 do Código Civil, ao sustentar (1) a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração sem a correção da omissão acerca da legalidade da rescisão do contrato em face do inadimplemento do autor, nos termos do art. 13 da Lei nº 9.656/98, bem como da efetiva notificação sobre o cancelamento; (2) a regularidade da notificação enviada, possibilitando a denúncia unilateral do contrato de plano de saúde em razão do inadimplemento por período superior a sessenta dias; e (3) a não configuração dos danos extrapatrimoniais indenizáveis em razão da regularidade na rescisão unilateral do contrato.
+O recurso não foi admitido pelo TJRJ (e-STJ, fls. 731/737).
+Nas razões do presente agravo, AMIL alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, AMIL alegou a violação do art. 1.022, II, do NCPC em virtude da da omissão do acórdão recorrido acerca da legalidade da rescisão do contrato em face do inadimplemento do autor, nos termos do art. 13 da Lei nº 9.656/98, bem como da efetiva notificação sobre o cancelamento
+Contudo, verifica-se que o TJRJ se pronunciou sobre os temas consignando (i) que a notificação não alcançou seu objetivo de notificar o consumidor, especialmente em razão das peculiaridades do caso, confira-se:
+No caso concreto,no dia de 30/07/2016, sábado, a falecida autora deu entrada em emergência hospitalar, por estar com quadro de fortes dores abdominais e lombares, quando foi informada do cancelamento do plano.
+E, como não seria possível resolver a questão no final de semana, assumiram seus ora sucessores sua internação particular, para que pudesse a falecida ter os primeiros cuidados.
+Afim de provar que não estaria a autora inadimplente, foram acostados:
+- boleto do período de10/05/2016 a 09/06/2016, com vencimento em 30/07/2016, que foi pago nesta data, tendo se dado a compensação em 01/08/2016, conforme comprovante fls. 11. Emissão do documento em 13/04/2016 (fls.10/11);
+- boleto do período de 10/06/2016 a 09/07/2016, com vencimento para 08/07/2016, e pago nesta data. Emissão do documento em 13/05/2016, (fls.12/13);
+- boleto do período de 15/07/2016 a 09/08/2016, com vencimento em 30/07/2016, pago nesta data. Emissão do documento em 15/06/2016 (fls.14/15).
+Já a parte ré apresentou cópia de carta envida à autora, notificando-a da inadimplência do mês de maio de 2016, consistindo em atraso de 63 dias, a ensejar futuro cancelamento. A carta foi datada de 12/07/2016, informando o prazo máximo para pagamento em 25/07/2016. Há cópia do AR, fls. 280,com data de recebimento em 20/07/2016, com assinatura de "Jorge Vieira", como recebedor.
+Veja-se que, na data que adentrou ao nosocômio, em 30/07/2016, a autora encontrava-se inadimplente desde 10/05/2016.
+Contudo, a notificação deu-se após o quinquagésimo dia do atraso. E os boletos emitidos para quitação pela ré continham data de vencimento em 30/07/2016 e 08/07/2016.
+Em assim sendo, considerando a legítima expectativa criada pelo comportamento da operadora ré, há, à luz da boa-fé objetiva, o surgimento de um direito, em razão da supressão de outro, razão pela qual impõe-se reconhecer, no caso em análise, a caracterização dos institutos da supressio e da surrectio, de modo que a falecida autora estava confortável em realizar o pagamento no dia 30/07/2016.
+(..)
+Ademais,o AR acostado demonstra que a correspondência foi recebida por terceira pessoa, estranha à lide, de modo que não restou comprovada a efetiva comunicação do atraso.
+(..)
+Dessa forma, entende-se que a ré não cumpriu o ônus do art.373,II, do CPC, de notificar a falecida autora acerca da inadimplência na forma exigida pelo art. 13, parágrafo único,II,da Lei n.9.656/98.
+Portanto,ilegítimo cancelamento unilateral do plano, bem como a recusa de atendimento à falecida na data de 30/07/2016 e dias que se seguiram.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. DECISÃO AGRAVADA. RECONSIDERAÇÃO. ART. 932 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INAPLICABILIDADE. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alterar a conclusão do julgado.
+2. Pode ser conhecido o recurso que infirma especificamente os fundamentos da decisão agravada.
+3. Não viola o art. 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+4. Citado o réu para responder a apelação e apresentadas as contrarrazões, cabe a fixação de honorários advocatícios sucumbenciais se o referido recurso não for provido .
+5. Embargos de declaração acolhidos com efeitos modificativos.
+Agravo em recurso especial conhecido. Recurso especial parcialmente provido.
+(EDcl nos EDcl no AgInt no AREsp n. 1.549.240/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Afasta-se, portanto, a alegada violação.
+(2) (3) Da validade da notificação e da configuração dos danos morais
+AMIL afirmou a violação do art. 13 da Lei nº 9.656/98 sustentando a regularidade da notificação enviada, possibilitando a denúncia unilateral do contrato de plano de saúde em razão do inadimplemento por período superior a sessenta dias.
+Apontou, ainda, que a negativa de cobertura foi legal e regular, não podendo, assim, ensejar a condenação no pagamento de danos extrapatrimoniais.
+Sobre o tema, como visto nos excertos acima transcritos, o TJRJ consignou que a notificação não cumpriu sua finalidade em razão da legítima expectativa criada pelo comportamento da operadora ré de que o pagamento dos boletos nas datas fixadas ensejaria a manutenção da cobertura pactuada. Apontou-se, ainda, a ausência de recebimento da notificação pela segurada.
+Assim, rever as conclusões quanto à aos referidos pontos demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RESCISÃO UNILATERAL. INADIMPLÊNCIA. NOTIFICAÇÃO PRÉVIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória c/c compensação por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.167.206/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+O recurso, portanto, não merece ser conhecido quanto aos pontos.
+Nessas condições, CONHEÇO do agravo para CONHECER PARCIALMENTE o recurso especial e, nessa parte, NEGAR-LHER PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de REJANE e outros, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. PLANO DE SAÚDE. INADIMPLÊNCIA. RESCISÃO UNILATERAL. NOTIFICAÇÃO. INVALIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VALIDADE DA NOTIFICAÇÃO E, PORTANTO, DA NEGATIVA DE COBERTURA. REEXAME. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
