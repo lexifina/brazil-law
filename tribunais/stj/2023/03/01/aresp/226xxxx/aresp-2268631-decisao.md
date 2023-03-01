@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por PRO SAUDE - ASSOCIACAO BENEFICENTE DE ASSISTENCIA SOCIAL E HOSPITALAR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE COBRANÇA. GRATUIDADE DE JUSTIÇA. DEFERIMENTO. MÉRITO. ORGANIZAÇÃO SOCIAL. CONTRATO DE GESTÃO. FORTUITO EXTERNO. NÃO VERIRICADO. EXCESSO DE COBRANÇA. AUSÊNCIA DE COMPROVAÇÃO. CONSECTÁRIOS DA MORA. DEVIDOS. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO EFETIVO PREJUÍZO. RECURSO PROVIDO EM PARTE (fl. 391).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 396 do CC, no que concerne ao afastamento da mora por não haver fato e/ou omissão que seja imputável ao devedor em razão do atraso no pagamento, trazendo os seguintes argumentos:
+Vale dizer: a defesa da PRÓ-SAÚDE não está negando que o serviço foi prestado, não é disso que se trata.
+O que se discute na tese de defesa é que o pagamento só não foi feito em razão do INADIMPLEMENTO do município de Salvador, o real e verdadeiro beneficiário pelos serviços, inadimplemento esse caracterizador do FORTUITO EXTERNO.
+Essa linha argumentativa do voto-condutor incide em 2 (duas) VIOLAÇÕES à lei federal:  i  uma que desafia o presente REsp e outra que  ii  nega uma disposição contida no regramento jurídico que regula a relação de fomento-cooperacional que liga o Poder Público e as Organizações Sociais no Brasil.
+ ..
+Ora, se o atraso no pagamento se deu, como está no voto condutor, por ato do próprio órgão pagador, e não por culpa e/ou desídia da PRÓ- SAÚDE, a situação fática invariavelmente atrai a incidência do art. 396 do Código Civil ao caso concreto, já que se a omissão não é imputável ao devedor este não incorre em mora (art. 396).
+ ..
+Sendo assim, ao contrário do que constou no voto-condutor do acórdão, a ausência de repasse das respectivas verbas públicas NÃO ERA e NUNCA FOI fato previsto e previsível.
+ ..
+Mas, infelizmente, o necessário repasse das verbas não ocorreu. E não ocorreu por fato e/ou omissão que NÃO podem ser imputados à PRO- SAÚDE, Logo, NÃO há que se falar em mora (CC, art. 396), tampouco que o termo inicial para contagem dos juros seja a partir do vencimento dos títulos.
+ ..
+Nesse panorama, e voltando os olhos a este caso concreto, a partir do instante em que o Município de Salvador ficou INADIMPLENTE, e não realizou os repasses das verbas públicas, a PRÓ- SAÚDE viu-se diante de um obstáculo que por ela NÃO FOI GERADO!
+Aliás, o atraso no pagamento do crédito em favor da empresa Recorrida se deu por motivo NÃO IMPUTÁVEL o devedor (=a PRÓ-SAÚDE, ora Recorrente), de modo que este NÃO incorreu em mora (CC, art. 396) (fls. 405/408).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Inobstante sua responsabilidade pelo pagamento da dívida incontroversa, a recorrente sustenta que não foi possível honorar a obrigação em virtude da inadimplência do Município do Salvador, que deixou de repassar as respectivas verbas orçamentárias, impossibilitando a quitação do débito contraído junto à apelada.
+Entretanto, compreende-se que o atraso no repasse das verbas pelo Poder Público não alcança o conceito de fortuito externo, por configurar-se fato previsível diante da natureza da relação jurídica em questão, bem como um risco inerente à exploração da atividade desenvolvida pela recorrente.
+Forçoso reconhecer, em realidade, que eventual inadimplência ocorrida no contrato de gestão entabulado entre a apelante e o Município do Salvador, tendo como objeto "a operacionalização e execução das atividades e serviços de saúde em hospitais públicos do Estado da Bahia e Município de Salvador, dentre os quais insere-se a Unidade de Pronto Atendimento - UPA Valéria e o Centro de Saúde Maria Conceição Imbassay" não tem o condão de eximir a empresa acionada de suas responsabilidades junto à autora, sendo aquela as responsável pelas obrigações pendentes (fl. 397).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
