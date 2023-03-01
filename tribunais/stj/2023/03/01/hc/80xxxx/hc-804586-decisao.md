@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de IGOR NASCIMENTO DOS SANTOS contra decisão monocrática de e. Magistrado Singular da 1ª Vara Criminal da Comarca de Sumaré-SP, nos autos do processo criminal n. 1500794-65.2021.8.26.0630.
+Na hipótese, o impetrante aponta constrangimento ilegal na manutenção da prisão preventiva, alegando que fundada apenas na gravidade abstrata do crime descrito no art. 157 § 2º, II, §2-A, I, do Código Penal, e se requer, em caráter liminar e no mérito, a concessão da ordem para " ..  revogar a prisão preventiva combatida, para que o Paciente possa responder ao processo criminal que pesa em seu desfavor em estado de liberdade, até o trânsito em julgado da decisão condenatória ou absolutória, envolvido sob o manto do princípio constitucional da presunção de inocência como norma de tratamento; c) Subsidiariamente, caso Vossas Excelências não entendam da forma acima esposada, considerando as manifestas ilegalidades verificadas na espécie, requer seja concedida a ordem de Habeas Corpus de ofício, tudo em exercício da mais lídima e esperada justiça" (fl. 10).
+É o breve relatório.
+Decido.
+De plano se percebe a incompetência desta Corte para o apreço deste writ, uma vez que este deveria ter sido impetrado perante a autoridade hierarquicamente superior àquela de onde provém o alegado constrangimento ilegal.
+Vale dizer, falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz de primeiro grau.
+Nesse sentido, a título ilustrativo:
+"EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. ALEGAÇÕES DE AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA E DE EXCESSO DE PRAZO NA INSTRUÇÃO. WRIT NÃO CONHECIDO POR INCOMPETÊNCIA DO STJ, COM DETERMINAÇÃO DE REMESSA DOS AUTOS AO TRIBUNAL COMPETENTE. 1. PRETENDIDO EFEITOS INFRINGENTES DOS ACLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. 2. MATÉRIA SUSCITADA SOMENTE NESTA VIA MANDAMENTAL. IMPOSSIBILIDADE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE PRÉVIO EXAME DAS MATÉRIAS NA INSTÂNCIA ORDINÁRIA. 3. RECURSO IMPROVIDO.
+ ..
+2. "De acordo com a Constituição Federal, não compete ao Superior Tribunal de Justiça processar e julgar habeas corpus, quando o ato contra o qual se insurge a defesa foi praticado por Juiz de primeiro grau" (AgRg no HC nº 268.759/PA, Rel. Ministro CAMPOS MARQUES (Desembargador convocado do TJ/PR), DJe 24.6.13).
+3. Embargos declaratórios recebidos como agravo regimental, e, nestes termos, não provido" (AgRg no HC 271.471/PR, Quinta Turma, Rel. Min. Moura Ribeiro, DJe de 25/2/2014).
+Observa-se que não há nos autos qualquer decisão ou acórdão proferido pelo Tribunal a quo.
+Diante do exposto, exsurgindo-se a incompetência desta Corte, a teor do disposto no art. 105 da Carta Magna, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+P. e I.
