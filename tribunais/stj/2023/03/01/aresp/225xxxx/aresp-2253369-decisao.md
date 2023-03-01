@@ -1,0 +1,22 @@
+DECISÃO
+Na origem trata-se de ação de rito comum ajuizada por ODIRLEI SOARES AVELINO contra o INSS, postulando a concessão de auxílio-acidente. Na sentença julgou-se procedente o pedido, para conceder o auxílio-acidente desde o dia seguinte a cessação do auxílio-doença. No Tribunal a quo a sentença foi reformada, para julgar improcedente o pedido. O valor da causa foi fixado em R$ 11.448,00 (onze mil e quatrocentos e quarenta e oito reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+ACIDENTÁRIA - LER EM OMBRO DIREITO - DÚVIDAS SOBRE A INCAPACIDADE LABORATIVA E O NEXO CAUSAI - NECESSIDADE DE CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+De fato, o novo exame físico obteve resultado absolutamente normal, destacando-se elementos como porte físico atlético com boa definição da musculatura do tronco e cintura escapular, atos de despir e vestir sem dificuldades, testes provocativos negativos, e inexistência de limitações funcionais ou redução de força (fls. 1316).
+Assim, a par do quadro apurado e procedendo a detida análise da documentação disponível (inclusive sobre a história médico-ocupacional e as atividades habituais do autor), embora reconhecendo nexo ocupacional para as patologias (no mínimo, por concausa) e incapacidade pregressa, o novo jurisperito de confiança afasta de forma clara qualquer resquício de redução atual da capacidade laborativa (fls.1316/1318):
+ ..
+Anoto ser desnecessária a devolução dos autos ao expert para resposta aos quesitos formulados em impugnação, pois estes já se encontram respondidos no laudo apresentado, ainda que indiretamente, ou não revelam aptidão para modificar achados objetivos do exame pericial, ou mesmo pôr em xeque as conclusões fundamentadas do expert.
+Outrossim, descabe falar em realização de uma terceira perícia médica, vez que a produzida pelo médico de confiança desta Corte se mostra atualizada e sana os pontos de incerteza levantados anteriormente pela Turma Julgadora, sobrepondo-se, então, àquela efetivada em primeiro grau de jurisdição e aos laudos emprestados acostados, cuja utilização, vale lembrar, deve se dar de forma restrita e em caráter complementar à prova oficial, a qual, na hipótese, se faz suficiente ao correto desfecho da lide.
+Lembro, por oportuno, que não basta a existência de quadro patológico. A lei de regência tem por escopo indenizar lesões e moléstias atuais, que repercutam de imediato e modo objetivo na capacidade laboral, o que, já visto, não se afigura na hipótese.
+Em conclusão, ausente a incapacidade laborativa, de rigor o provimento dos recursos oficial e do INSS para julgar o pedido improcedente, prejudicada a análise da apelação do autor.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
