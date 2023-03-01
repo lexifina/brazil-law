@@ -1,0 +1,2 @@
+Art. 37-A. Não se aplica o prazo para conclusão da etapa homologatória de que trata o art. 10 para as instituições que estiverem em regime de transição, nos termos da Seção IX do Capítulo XXII do Regulamento do Pix, durante o processo de adesão.
+Parágrafo único. As instituições referidas no caput deverão manifestar sua elegibilidade ao regime de transição no formulário de adesão ao Pix disposto nos anexos I ou III, a depender de a instituição ter ou não ter autorização para funcionamento do Banco Central do Brasil, respectivamente.” (NR)
