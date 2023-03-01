@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Banco Itaucard S.A., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado (e-STJ, fl. 144):
+Apelação cível. Busca e apreensão. Notificação extrajudicial. Endereço do devedor. Recebimento. Inocorrência. Constituição em mora. Não configuração. Extinção sem resolução de mérito. A notificação extrajudicial expedida ao endereço constante no contrato, que foi devolvida com informação de entrega interna não autorizada, não se mostra apta a constituir o devedor em mora, o que é imprescindível para o deslinde da ação de busca e apreensão.
+Em suas razões de recurso especial (e-STJ, fls. 154-160), o agravante alegou violação aos arts. 2º, § 2º, e 3º DL n. 911/1969; 113 e 422 do CC/2002; e 319 e 320 do CPC/2015.
+Sustentou, em síntese, que "expedida a notificação no endereço constante do contrato, este é válido para fins de constituição em mora do devedor, ainda que este esteja domiciliado em localidade onde os correios não fazem entregas, sendo, portanto, de sua integral responsabilidade o comparecimento à agência postal para sua retirada, esta, por óbvio, desde que atendida certas condições, como in casu, tendo a inicial de busca e apreensão atendido todos os requisitos para o seu prosseguimento" (e-STJ, fl. 156).
+Ressaltou que as partes devem agir com probidade e boa-fé nas relações contratuais, sendo que "não pode ser imputado ao credor fiduciário a desídia do devedor em informar endereço onde não poderia ser entregue a notificação pelos correios, sendo que é de sua responsabilidade comparecer "regularmente" na agência postal para a retirada de toda e qualquer correspondência, fato este notório e de pleno conhecimento do recorrido"(e-STJ, fl. 158).
+Requereu, dessa forma, o provimento do recurso.
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, reitera-se que a Segunda Seção do Superior Tribunal de Justiça, em Questão de Ordem proposta pelo Ministro Marco Buzzi, relator dos Recursos Especiais 1.951.888/RS e 1.951.662/RS - Tema 1.132/ STJ, determinou o afastamento da suspensão/sobrestamento do processamento de todos os feitos e recursos pendentes acerca da matéria.
+No mais, o Tribunal de Justiça do Estado de Rondônia, ao dirimir a controvérsia, concluiu pela ausência de comprovação da mora, em decisão assim fundamentada (e-STJ, fls. 142-143):
+In casu, verifica-se dos documentos que instruem a inicial a juntada da notificação extrajudicial expedida ao endereço constante no contrato, para fins de comprovação da mora do devedor, entretanto, com a respectiva devolução ao remetente pelo motivo "entrega interna não autorizada", ou seja, sem o recebimento por qualquer pessoa.
+( )
+Concomitantemente, a Terceira Turma do STJ manifestou-se, em casos análogos, que, nos contratos regidos pelo Decreto-Lei n. 911/1969, o simples fato de o devedor estar ausente de sua residência não importa violação à boa-fé objetiva, exigindo-se para a comprovação da mora a efetiva entrega da notificação no seu endereço cadastral.
+( )
+Como se vê, é necessária a entrega da notificação no endereço, não seu simples envio, sendo dispensável o recebimento pessoal, desde que entregue no local indicado no contrato, a quem quer que seja, situação que não ocorreu na espécie.
+Consoante entendimento firmado por esta Corte Superior de Justiça, "para a constituição em mora na ação de busca e apreensão é imprescindível a comprovação de encaminhamento de notificação extrajudicial ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente pelo devedor" (AgRg no AREsp 467.074/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2014, DJe 4/9/2014).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO EXTRAJUDICIAL. ENTREGA FRUSTRADA. DEVEDOR AUSENTE. INVALIDADE. MÁ-FÉ. PRESUNÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de ser insuficiente para a constituição em mora a notificação extrajudicial devolvida em virtude da ausência do devedor no momento da entrega, não sendo possível a presunção de má-fé.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.957.682/RS, relator Ministro Ricardo Villas Bôas
+Cueva, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. EXTINÇÃO DO PROCESSO. AUSÊNCIA DE CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO QUE NÃO FOI RECEBIDA NO ENDEREÇO DO DEVEDOR PORQUE AUSENTE. MORA NÃO CONFIGURADA. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendimento de que a entrega da notificação no endereço do devedor fornecido no contrato, ainda que recebida por terceira pessoa, é bastante para constituí-lo em mora.
+2. Nos termos da jurisprudência desta Corte, "a notificação apresentada não tem validade para constituição em mora se não foi entregue no endereço do devedor, não podendo ser presumida sua má-fé por encontrar-se ausente no momento da entrega" (AgInt no REsp 1.929.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe de 1º/12/2021).
+3. Na hipótese, a notificação não foi recebida porque o devedor estava ausente, inexistindo qualquer outra pessoa no imóvel.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.003.589/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022)
+Assim, nos termos da jurisprudência anteriormente citada, não há falar em reforma do acórdão recorrido, uma vez que, embora desnecessário o recebimento da notificação pelo próprio devedor, exige-se, pelo menos, a comprovação de que efetivamente houve o recebimento no endereço do seu domicílio, por meio do aviso de recebimento, o que não foi demonstrado na hipótese dos autos .
+Dessa forma, constata-se a consonância da decisão recorrida com a jurisprudência desta Corte Superior, nos termos acima declinados, motivo pelo qual incide o óbice da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CÉDULA DE CRÉDITO BANCÁRIO COM ALIENAÇÃO FIDUCIÁRIA. FINANCIAMENTO DE VEÍCULO. NOTIFICAÇÃO REMETIDA AO ENDEREÇO DO DEVEDOR. RETORNO COM A INFORMAÇÃO "ENTREGA INTERNA NÃO AUTORIZADA". MORA NÃO COMPROVADA. REVISÃO. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL .
