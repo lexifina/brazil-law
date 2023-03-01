@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por POSTO DE SERVIÇO SIMBA LTDA. (outro nome AUTO POSTO SIMBA LTDA.) contra decisão prolatada pela Presidência desta Corte Superior (e-STJ, fls. 252-254), que não conheceu do agravo nos termos dos seguintes fundamentos:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Nas razões recursais, a recorrente afirma ter rebatido todos os fundamentos da decisão que inadmitiu o recurso especial.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 265-283 (e-STJ).
+Diante dos argumentos apresentados, constata-se assistir razão à agravante.
+Assim, mediante juízo de retratação, nos termos do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 252-254 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 221-229).
+Cuida-se de agravo interposto por POSTO DE SERVIÇO SIMBA LTDA. (outro nome AUTO POSTO SIMBA LTDA.) contra decisão que inadmitiu recurso especial (e-STJ, fls. 217-218) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 164):
+AGRAVO DE INSTRUMENTO. COMPRA E VENDA. COMBUSTÍVEL. PETROBRÁS. TUTELA CAUTELAR ANTECEDENTE. RESCISÃO CONTRATUAL. Decisão que concedeu liminar pleiteada pela PETROBRÁS DISTRIBUIDORA S/A, para que a parte ré (AUTOPOSTO SIMBA LTDA) se abstenha de utilizar qualquer marca, elemento visual da marca "Petrobrás" ou elementos que compõe o conjunto imagem da BR, sob pena de multa diária de R$ 5.000,00 (cinco mil reais), limitada ao valor de R$ 50.000,00 (cinqüenta mil reais), sem prejuízo da necessidade de majoração em caso de reiterado descumprimento, bem como devolva os equipamentos de propriedade da parte autora, cedidos a título de comodato e relacionados no contrato, conforme relação anexa ao contrato. Decisão mantida. Recurso não provido.
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação ao art. 300 do CPC/2015.
+Sustentou que não estão presentes os requisitos legais para o deferimento da tutela de urgência que determinou a abstenção da utilização de qualquer marca, elemento visual da marca "Petrobrás" ou elementos que compõe o conjunto imagem da BR, sob pena de multa diária de R$ 5.000,00 (cinco mil reais), limitada ao valor de R$ 50.000,00 (cinqüenta mil reais), bem como a devolução dos equipamentos de propriedade da parte recorrida.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 217-218).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 221-229).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, a agravante defende a ausência dos requisitos legais necessários para deferimento de tutela de urgência.
+Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância a quo.
+Efetivamente, na espécie, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, o que atrai a aplicação analógica da Súmula 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITOS AUTORAIS. TRANSMISSÃO MUSICAL. AUTORIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. DEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. MÉRITO. DISPOSITIVOS DE LEI. OFENSA. IMPOSSIBILIDADE. SÚMULA Nº 735/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o art. 489, § 1º, III, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. A verificação da procedência dos argumentos expendidos no recurso especial exigiria, por parte desta Corte, o reexame de matéria fática, procedimento vedado pela Súmula nº 7/STJ.
+4. O Superior Tribunal de Justiça entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, circunstância que atrai, por analogia, a Súmula nº 735/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.073.533/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA. JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME. SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. "Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ." (REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 27/4/2015.)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+In casu, consta dos autos que o recurso especial interposto pela recorrente impugna acórdão proferido pelo Tribunal de origem no julgamento de agravo de instrumento manejado para rebater decisão que indeferiu tutela de urgência na ação revisional de contrato.
+Nesse contexto, a precariedade da decisão liminar, de fato, não autoriza a interposição do recurso especial.
+Ademais, a análise acerca dos requisitos para o deferimento da tutela antecipatória requer o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ante o exposto, mediante juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE DECISÃO QUE INDEFERE MEDIDA LIMINAR. IMPOSSIBILIDADE. SÚMULA 735/STF. REQUISITOS LEGAIS DO ART. 300 DO CPC/2015. REVISÃO. SÚMULA 7/STJ. DECISÃO DA PRESIDÊNCIA DO STJ RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
