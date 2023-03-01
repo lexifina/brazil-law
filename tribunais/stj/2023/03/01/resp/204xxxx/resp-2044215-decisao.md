@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A (AMIL), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, da relatoria do Desembargador LUIS GUSTAVO B. DE OLIVEIRA, assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. PRESCRIÇÃO MÉDICA DE APARELHO E MEDICAMENTOS. TRATAMENTO PARA DIABÉTES. NEGATIVA DE COBERTURA. AUSÊNCIA DE PREVISÃO NO ROL DA ANS. ROL EXEMPLIFICATIVO. RECUSA INDEVIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. A cobertura do tratamento indicado pelo médico assistente deve ser observada pelo plano de saúde e se mostra indissociável da sua obrigação contratual. A previsão de cobertura para tratamento de determinada morbidade compreende também dos meios imprescindíveis para o seu diagnóstico e cura.
+2. O fato do procedimento solicitado não constar na lista de cobertura mínima da ANS não é suficiente para retirar a obrigação da seguradora em fornecer o aparelho glicosímetro capilar, bem como os os medicamentos Basaglar 100UI/mL (insulina glargina) e Apidra 100UI/mL (insulina glustina) indicados pelo médico assistente.
+3. Além disso, o Superior Tribunal de Justiça firmou entendimento no sentido de que o plano de saúde pode
+estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas, de modo que resta abusiva a negativa de cobertura de procedimento, tratamento, medicamento ou material considerado essencial para preservar a saúde e a vida do paciente.
+4. APELAÇÃO CONHECIDA E DESPROVIDA (e-STJ, fls. 304/305.)
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls. 357/370.)
+Nas razões do presente recurso, AMIL alegou, a par de dissídio jurisprudencial, a violação ao arts. 10 da Lei n. 9.656/98; e 1.022 do CPC/15, sustentando, em síntese, (1) negativa de prestação jurisdicional e (2) que não está legal e contratualmente obrigada ao custeio do tratamento pleiteado, visto que não inserido no rol taxativo da ANS.
+Não foram ofertadas as contrarrazões.
+É o relatório.
+DECIDO.
+O recurso merece prosperar.
+Do dever de cobertura
+AMIL alegou, em síntese, que não está é legal e contratualmente obrigada ao custeio do tratamento pleiteado, visto que não inserido no rol taxativo da ANS.
+Pois bem.
+ Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Contudo, da nova análise do acórdão estadual ressai que o TJDFT não se pronunciou sobre os requisitos acima elencados de modo a justificar a excepcional cobertura do tratamento em testilha.
+Portanto, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ademais, diante da retroatividade mínima, nos tratamentos de caráter continuado, deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022, que alterou a natureza do Rol da ANS, de taxativo superável para exemplificativo condicionado, de modo que, conforme o art. 10, § 13:
+"(..)
+Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais."
+Nessas condições, DOU PROVIMENTO ao recurso especial ara determinar o retorno dos autos à Corte de origem, de modo a permitir o reexame dos elementos dos autos e da necessidade de produção de outras provas, a fim de que se realize novo julgamento conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Caso o tratamento assistencial seja também de caráter continuado, deverão ser observados, a partir de sua vigência, os critérios estabelecidos pela Lei nº 14.454/2022, que também devem ser verificados pelo Tribunal local (retroatividade mínima da lei).
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO E FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. DEVER DE COBERTURA. APLICAÇÃO DO ENTENDIMENTO DA SEGUNDA SEÇÃO SOBRE O TEMA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
