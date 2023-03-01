@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Danilo José de Castro à decisão proferida por esta relatoria nos termos da seguinte ementa (e- STJ, fls. 1.686-1.687):
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. 2. HORAS EXTRAS. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. INEXISTÊNCIA DE LEGITIMIDADE PASSIVA DO PATROCINADOR. OBRIGAÇÃO DE FAZER CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. 3. OFENSA À RESOLUÇÃO. NORMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. 4. VIOLAÇÃO A DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. PRESERVAÇÃO DO SALÁRIO PARTICIPAÇÃO. ALTERAÇÃO. SÚMULAS 5 E 7/STJ. 6. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. 7. AGRAVO PARCIALMENTE CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL DE DANILO JOSÉ DE CASTRO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Para tanto aduz a ocorrência de omissão acerca da violação ao art. 397 do Código Civil, na medida em que tanto a PREVI como o Banco do Brasi S.A. devem arcar com o pagamento dos juros de mora a partir da citação da demanda.
+Impugnações apresentadas às fls. 1.709-1.720 e 1.723-1.730 (e-STJ), nas quais as partes embargadas pedem a condenação do embargante ao pagamento de multa pelo manejo protelatório recursal.
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+Dito isso, não merece acolhimento o apontado vício na decisão embargada.
+Isso porque, conforme consignado na decisão de fls. 1.686-1.701 (e-STJ), o recurso especial não foi conhecido na parte em que o embargante defendeu que os recorridos deveriam arcar com o pagamento dos juros de mora a partir da citação da presente demanda, indicando ofensa ao art. 397 do CC/2002.
+Porquanto, a fundamentação adotada foi clara em consignar que da leitura do acórdão recorrido, observa-se que não houve debate do ponto de vista da infringência ao art. 397 do Código Civil, apesar da oposição de embargos de declaração, não havendo, portanto, o devido prequestionamento, o que atrai os óbices das Súmulas 282 do STF e 211 do STJ.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. DEPÓSITOS JUDICIAIS. PAGAMENTO. PARCELAS DO PROGRAMA DE RENEGOCIAÇÃO DE DÍVIDAS TRIBUTÁRIAS. IM POSSIBILIDADE. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 282 DO STF. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - No acórdão recorrido, não foi analisado o conteúdo do dispositivo legal apontado no presente recurso especial, pelo que carece o recurso do requisito do prequestionamento, indispensável para a interpretação normativa exigida. Incide na hipótese o óbice constante da Súmula n. 282 do STF.
+ ..
+VII - Agravo interno improvido. (AgInt nos EDcl no AREsp n. 1.920.556/RS, relator Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 12/9/2022, DJe de 14/9/2022)
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+No que diz respeito ao pleito trazido na impugnação aos declaratórios de aplicação da multa do art. 1.026, § 2º, do CPC/2015, constata-se que não está configurado, por ora, o manifesto intuito protelatório capaz de ensejar a aplicação da sanção.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
