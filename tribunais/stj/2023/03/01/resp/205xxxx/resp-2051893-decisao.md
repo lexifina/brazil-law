@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ANTÔNIO RAPHAEL CADORINE DE JESUS, em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 364, e-STJ):
+APELAÇÃO CÍVEL COMPROMISSO DE COMPRA E VENDA Atraso na entrega do bem Inexistência de caso fortuito ou de força maior Restituição integral dos valores Cumulação indevida com multa Corretagem Prescrição corretamente reconhecida, em consonância com precedente do E. STJ - Recurso desprovido.
+Embargos de declaração rejeitados (fls. 394/398, e-STJ).
+Nas razões de recurso especial (fls. 400/414, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, ofensa ao artigo 205 do CC, sustentando que é decenal o prazo prescricional para o ajuizamento de ação na qual se busca indenização pelo descumprimento do contrato de compra e venda por culpa exclusiva da construtora.
+Contrarrazões às fls. 410/421, e-STJ.
+Decisão de admissibilidade às fls. 436/438, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão merece acolhimento.
+1. Com relação à devolução da comissão de corretagem, esta Corte Superior se posicionou sobre a existência de distinção entre a pretensão restituitória abordada no Tema 938/STJ (fundada na abusividade de cláusula contratual) e a pretensão restituitória do caso dos autos (fundada na resolução do contrato).
+Quanto a demanda objetiva a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão de restituição de valores tem início após a resolução da avença, sendo inaplicável o prazo prescricional trienal.
+Por outro lado, o Tema 938, que fixa a "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC)" aplica-se quando a pretensão de restituição se funda na abusividade da cláusula contratual, ou seja, quando se discute a validade da cobrança dos referidos encargos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO DE DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO DO CONTRATO. INADIMPLEMENTO DO VENDEDOR. DANO MORAL. COMPROVAÇÃO. VALOR. INDENIZAÇÃO. REVISÃO. SÚMULAS NºS 5 E 7/STJ. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional quando o tribunal de origem indica adequadamente os motivos que lhe formaram o convencimento e analisa de forma clara, precisa e completa as questões relevantes do processo, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese.
+3. Na hipótese, rever a conclusão do tribunal local acerca da existência de danos morais e do valor fixado como indenização demandaria análise e interpretação de cláusulas contratuais e revolvimento do acervo fático-probatório dos autos, procedimentos inviáveis ante a natureza excepcional da via eleita, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça está sedimentada no sentido de que, em demandas objetivando a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão da restituição de valores tem início após a resolução, sendo inaplicável o prazo prescricional trienal.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.974.518/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVL. CPC/2015. PROMESSA DE COMPRA E VENDA. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DO IMÓVEL. PRETENSÃO DE RESTITUIÇÃO DE PARCELAS PAGAS, COMISSÃO DE CORRETAGEM E SATI. PRESCRIÇÃO INOCORRÊNCIA. NECESSIDADE DE PRONUNCIAMENTO JUDICIAL SOBRE A RESOLUÇÃO JUDICIAL DO CONTRATO NO CASO. DISTINÇÃO COM A HIPÓTESE DE PRESCRIÇÃO TRIENAL DO TEMA 938/STJ. DANOS MATERIAIS. AUSÊNCIA INDICAÇÃO DA QUESTÃO FEDERAL. ÓBICE DA SÚMULA 284/STF.
+1. Controvérsia acerca da prescrição das pretensões restituitórias decorrentes da resolução de promessa de compra e venda por atraso na entrega do imóvel. 2. Nos termos da Súmula 543/STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+3. Caso concreto em que a resolução foi pleiteada com base na culpa da incorporadora, sendo cabível, portanto, a restituição integral das parcelas pagas, nos termos da referida súmula.
+4. No julgamento do Tema 938/STJ, esta Corte Superior concluiu pela Incidência da "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnicoimobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC)".
+5. Distinção entre a pretensão restituitória abordada no Tema 938/STJ (fundada na abusividade de cláusula contratual) e a pretensão restituitória do caso dos autos (fundada na resolução do contrato por inadimplemento da incorporadora). Doutrina sobre o tema da pretensão restituitória decorrente da resolução do contrato.
+6. Inaplicabilidade do Tema 938/STJ aos casos em que a pretensão de restituição da comissão de corretagem e da SATI tem por fundamento a resolução do contrato por culpa da incorporadora.
+7. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS. (REsp 1737992/RO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/08/2019, DJe 23/08/2019)
+No caso concreto, o pedido de restituição da comissão de corretagem se fundamentou na rescisão do contrato em razão da mora da construtora na entrega do imóvel. Logo, inaplicável o prazo prescricional trienal abordado no Tema 938/STJ.
+Portanto, o recurso merece provimento, para afastar a prescrição da pretensão de restituição da comissão de corretagem, que deve ser devolvida ao comprador em razão da resolução do compromisso de compra e venda por culpa da construtora.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dá-se provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
