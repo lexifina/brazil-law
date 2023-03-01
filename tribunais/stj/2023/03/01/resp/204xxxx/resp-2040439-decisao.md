@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUSTAVO ALVES FONSECA e JUSSARA FERNANDES GURGEL FONSECA com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido em agravo de instrumento e assim ementado (fl. 144):
+AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - DANOS MATERIAIS E MORAIS E REVISIONAL DE CONTRATO DE CONSTRUÇÃO - AÇÃO DE EXECUÇÃO ANTERIOR - MESMO CONTRATO - CONEXÃO - EXISTÊNCIA - PRECLUSÃO CONSUMATIVA - NÃO OCORRÊNCIA. A decisão proferida em audiência inicial de tentativa de conciliação, a respeito de noticiado ajuizamento de ação executiva anterior, com identidade da causa de pedir e partes, não tem o condão de firmar preclusão consumativa, eis que o momento processual adequado para se suscitar prevenção por conexão, é a preliminar de contestação. São conexas as ações ordinárias e executiva em que há identidade da causa de pedir e pedido, devendo a ação ajuizada posteriormente ser remetida ao juízo prevento.
+Os embargos declaratórios opostos foram rejeitados nestes termos (fl. 184):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - OCORRÊNCIA -ACOLHIMENTO DO RECURSO - SEM EFEITOS INFRINGENTES.
+- Acolhe-se o recurso de embargos de declaração para aclarar a omissão em relação à tese não analisada.
+- A contestação apresentada no prazo legal, por e-mail, com a juntada aos autos do original em 05 (cinco) dias, conforme o art. 2º, da Lei nº 9.800/99, não é intempestiva.
+- A despeito de a competência aferida em razão da relação de consumo ter sido estabelecida para ser exercitada em benefício do consumidor, ela é de natureza relativa.
+Nas razões do recurso especial, a parte recorrente aponta divergência jurisprudencial em relação à aplicação do art. 101 do Código de Defesa do Consumidor, defendendo a competência absoluta do foro do domicílio do consumidor.
+Argumenta que o julgado da Corte local diverge do entendimento do STJ sobre a natureza absoluta da competência estabelecida na lei consumerista
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas às fls.255-266, e o recurso especial foi admitido na origem (fls. 273-274).
+É o relatório. Decido.
+Acerca da questão suscitada, consta do acórdão impugnado o seguinte (fls. 146-147):
+A ação ajuizada pelos agravantes tem como causa de pedir contrato de construção, número de ordem NL-1-45911-PDTO, firmado entre eles e as agravadas, para realização de obras na casa residencial deles.
+Nesta ação, os agravantes narram que existem várias pendências destacadas no "Termo de Recebimento do Imóvel", não resolvidas, em relação à obra contratada e que vem lhes causando inúmeros prejuízos. Discutem, também, supostas nulidades de algumas cláusulas contratuais. Ao final, além dos danos morais, pugnam pela condenação das agravadas ao pagamento de multa contratual e abatimento proporcional do preço referente aos reparos que se fizerem necessários para perfeita execução da obra (ordem 7).
+Outrossim, anteriormente, foi ajuizada em desfavor dos ora agravantes, ação de execução de título extrajudicial, cujo objeto é o mesmo contrato de construção, discutido nos autos da ação ordinária originária deste recurso.
+Pelo que foi acima exposto, indubitável a existência de conexão entre as ações, nos termos do que dispõe o inciso I, §2º, do artigo 55 do CPC.
+A decisão anterior, em que o pedido da construtora de remessa dos autos ao Juízo da 24ª Vara Cível da Capital foi indeferido, foi proferida em audiência inicial de tentativa de conciliação, de se dizer, em fase pré-processual. Naquela oportunidade, o advogado das agravadas deixou expressamente consignado que a questão seria devidamente alegada no momento processual oportuno, ou seja, em preliminar de defesa, consoante determina o caput do artigo 64 do CPC. É o que se vê da ata da audiência (ordem 11).
+Ressalte-se que o indeferimento deu-se em razão de as agravadas não terem apresentado maiores informações sobre a ação de execução noticiada, como número do processo e data de ajuizamento, bem como a ocorrência, ou não de citação.
+Na preliminar de contestação, por sua vez, todos os elementos necessários para a verificação da ocorrência da conexão foram apresentados.
+Não se há falar, pois, neste caso em específico, em ocorrência de preclusão consumativa.
+No julgamento dos embargos de declaração, a Corte de origem assim decidiu (fls.189-190):
+Já a alegação dos embargantes de que, em se tratando de relação de consumo, a competência do domicílio do consumidor seria absoluta, não merece ser acolhida.
+De fato, o artigo 101, inciso I, do Código de Defesa do Consumidor estabelece o foro do domicílio da parte autora como o competente para o julgamento das ações decorrentes da responsabilidade do fornecedor de produtos/serviços. Assim, a mens legis do referido artigo visa à facilitação do acesso ao judiciário por parte do consumidor que, então, na busca pela tutela de seus interesses, pode optar por propor a demanda no foro que entender ser mais benéfico.
+Contudo, referida competência não é absoluta e sim relativa.
+ ..
+Sendo assim, em se tratando de competência relativa, tendo sido suscitada conexão em preliminar de contestação e reconhecida a prevenção do juízo da 24ª Vara Cível da Comarca de Belo Horizonte, a decisão agravada deve ser mantida.
+No tocante à ofensa ao art. 101 do CDC, verifica-se que o entendimento adotado no acórdão recorrido não encontra amparo na jurisprudência do STJ de que, "tratando-se de relação de consumo, na qual a competência para julgamento da demanda é de natureza absoluta, deve a ação ser interposta no domicílio do consumidor" (AgInt no AREsp n. 1.449.023/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/4/2020, DJe de 23/4/2020).
+Ressalte-se que, nos casos de relação consumerista, a competência absoluta não se prorroga em decorrência da conexão de demandas.
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. DERRAMAMENTO DE ÓLEO. PESCADORES ARTESANAIS. ACIDENTE DE CONSUMO. CONSUMIDOR EQUIPARADO. COMPETÊNCIA ABSOLUTA. FORO DO DOMICÍLIO DOS AUTORES. DECISÃO MANTIDA.
+1. Os autores, pescadores artesanais, ajuizaram demanda reparatória por danos morais e materiais, em função de dano ambiental.
+2. Conforme reconhecido pela Segunda Seção do STJ, os pescadores artesanais prejudicados pelo derramamento de óleo no litoral do Estado do Rio de Janeiro - caracterizado como acidente de consumo, ante o suposto prejuízo de suas atividades pesqueiras - são considerados consumidores por equiparação, nos termos do art. 17 do CDC.
+3. Nesse sentido, aplicam-se ao caso as regras definidoras de competência do art. 101 do CDC, as quais, nos termos da jurisprudência do STJ, têm natureza absoluta, podendo ser conhecidas de ofício pelo juízo, sendo improrrogável, sobretudo quando tal prorrogação for desfavorável à parte mais frágil.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no CC n. 132.505/RJ, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 23/11/2016, DJe de 28/11/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA. CONEXÃO ENTRE DEMANDAS. COMPETÊNCIA ABSOLUTA. OBSERVÂNCIA EM DETRIMENTO DA COMPETÊNCIA RELATIVA. AGRAVO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, "a modificação da competência é exceção à regra geral, admitida apenas quando autorizada em lei, e que, portanto, só encontra terreno fértil no campo da competência relativa, haja vista que nas hipóteses de competência absoluta o legislador fez a opção expressa de imunizá-las de qualquer modificação, sequer por força de conexidade" (REsp n. 1.687.862/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 19/9/2018, DJe 24/9/2018).
+2. Havendo conexão entre as demandas ou uma prejudicialidade externa, impõe-se a reunião dos processos, a qual deverá ocorrer no juízo em que preponderar a competência, que, no caso vertente, será a competência absoluta em detrimento da competência relativa.
+3. Agravo interno desprovido.(AgInt no REsp n. 1.655.993/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/8/2019, DJe de 30/8/2019.)
+Nesse contexto, a fixação da competência da 1ª Vara Cível da Comarca de Nova Lima (MG), foro do domicílio do consumidor, é medida que se impõe.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para determinar a competência da 1ª Vara Cível da Comarca de Nova Lima (MG), foro do domicílio do consumidor, para julgar as demandas em questão.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
