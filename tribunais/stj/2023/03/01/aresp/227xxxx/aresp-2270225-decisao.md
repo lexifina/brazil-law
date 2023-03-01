@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE PARANAVAÍ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO. SENTENÇA QUE EXTINGUE O FEITO SEM RESOLUÇÃO DO MÉRITO. PRELIMINAR. IMPUGNAÇÃO AO VALOR DA CAUSA. ART. 292 DO CPC. AUSÊNCIA DE COMPROVAÇÃO DOCUMENTAL DO ALEGADO. PRELIMINAR AFASTADA. MÉRITO. INSURGÊNCIA QUANTO AOS HONORÁRIOS ADVOCATÍCIOS. ENTENDIMENTO STJ. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR DA CAUSA. ART. 85, § 2º DO CPC. TEMA REPETITIVO  1076. RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 292, V, do CPC, no que concerne ao quantum considerado como valor da causa pelo juízo a quo. Apresenta os seguintes argumentos:
+Nos termos do art. 292, CPC/15, o valor da causa deve refletir o real proveito econômico a que persegue o autor, ora apelado. Diante disso, o valor de 65 mil reais atribuído pela parte Autora/Recorrida fora totalmente aleatório inicialmente, sem qualquer mensuração fática na ação de cobrança. Diferentemente do fundamentado em sede de acórdão impugnado, o documento juntado pelo ente municipal e não impugnado pelo Sindicato, não fora realizado de maneira unilateral, mas sim, por órgão público que goza de presunção de veracidade.
+Note-se que em momento algum o Recorrido impugnou o documento seq. 18.2, sendo este documento idôneo, que deve ser objeto de apreciação para fins de aplicação do art. 292, V, CPC/15.
+Nos termos da informação prestada pela Diretoria de Recursos Humanos do ente municipal (seq. 18.2), o proveito econômico da pretensão da parte Recorrida era de R$ 1.142.424,84 (Hum milhão cento e quarenta e dois mil quatrocentos e vinte e quatro reais e oitenta e quatro centavos), sendo este o benefício econômico que deve ser considerado para fins de aplicação do art. 292, V, CPC/15.
+Acolher o valor aleatório de 65 mil reais atribuído pela Recorrida é negar a vigência do dispositivo da legislação federal em comento, pois despreza a necessária mensuração do proveito econômico almejado.
+ ..
+Logo, o Tribunal de Origem afastou o entendimento de que o valor da causa deve refletir o verdadeiro proveito econômico, desrespeitando o comando expresso contido no art. 292, V, CPC/15 (fls. 371-373).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Busca o apelante a retificação do valor da causa, alegando que o montante correto seria o valor do benefício econômico pretendido.
+Conforme art. 292, V do CPC o valor da causa será na ação indenizatória, inclusive a fundada em dano moral, o valor pretendido.
+ ..
+Percebe que o valor da causa de R$ 65.000,00 (sessenta e cinco mil reais) é a soma do montante pretendido no tocante aos danos morais (R$ 50.000,00) e os salários não pagos pelo período almejado (R$ 2.886,15).
+Contudo, o documento referente a tabela que demonstra o valor do benefício econômico desejado (mov. 18.2 - 1º Grau), o qual não informa o ano a é um documento anexado unilateralmente pelo apelante que se refere os valores, nem realiza a discriminação necessária a fim de comprovar efetivamente que a soma seria realmente o valor do benefício econômico pretendido.
+Consequentemente, o apelante não apresenta qualquer documento ou fundamentação convincente para embasar sua alegação, nem tampouco afasta efetivamente o valor apresentado pelo apelado. Na verdade, apenas limita a alegar a incorreção do valor da causa.
+Avaliando a demanda, o valor efetivo dos salários pleiteados necessitaria de liquidação de sentença e produção de prova, o que considerando o indeferimento da petição inicial, não é possível no caso em espécie.
+ ..
+Dessa forma, descabível a alteração do valor da causa com base em documento acostado unilateralmente e genérico pelo apelante (fls. 358-360, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
