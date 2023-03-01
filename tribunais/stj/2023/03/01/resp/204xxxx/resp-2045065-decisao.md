@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MATEUS PERIGRINO ARAUJO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO , assim ementado:
+"MEDICAMENTO. FORNECIMENTO GRATUITO PELO PODER PÚBLICO.
+- Adriano DE CUPIS, no merecidamente clássico I Diritti della Personalità, lecionou que a tutela complementar da vida, da integridade física e da saúde reclama a garantia dos meios econômicos e financeiros idôneos a prover os cuidados necessários à preservação ou reintegração desses bens da personalidade, e observou que o estado se obriga a assegurar o fornecimento desses meios para tornar possível a gratuidade da cura dos necessitados.
+- "O art. 196 da Constituição Federal estabelece como dever do Estado a prestação de assistência à saúde e garante o acesso universal e igualitário do cidadão aos serviços e ações para sua promoção, proteção e recuperação. O direito à saúde, como está assegurado na Carta, não deve sofrer embaraços impostos por autoridades administrativas, no sentido de reduzi-lo ou de dificultar o acesso a ele" (RE 226.835 - STF, j. 14-11-1999).
+- O STJ, ao julgar o mérito do REsp 1.657.156, em 25 de abril de 2018, modulou expressamente os efeitos do referido acórdão, entendendo que "os critérios e requisitos estipulados somente serão exigidos para os processos que forem distribuídos a partir da conclusão do presente julgamento".
+- Verifica-se, in casu, o preenchimento dos requisitos definidos no julgamento do REsp 1.657.156 (STJ) para a concessão de medicamento não incorporado em atos normativos do SUS.
+- Observando, pois, o critério de equidade a que se reportam designadamente as indicações do § 2º do art. 85 do Código de processo civil, a saber: (a) o grau de zelo do profissional; (b) o lugar de prestação do serviço; (c) a natureza e a importância da causa, (d) o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, cabe temperar (com expressa remissão no § 3º do mesmo art. 85) os extremos da moldura previsora da verba honorária nas causas em que seja parte a fazenda pública.
+Não provimento da remessa necessária, que se tem por interposta, e parcial provimento da apelação fazendária apenas para aplicar o critério da equidade no arbitramento dos honorários advocatícios" (fls. 306/307e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 328/334e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. DISSONÂNCIA DE ENTENDIMENTO. INEXISTÊNCIA DE VÍCIOS ENSEJADORES DA VIA RECURSAL ACLARATÓRIA.
+A discordância com os maus ou bons fundamentos de uma decisão não viabiliza o recurso aclaratório. Rejeição dos embargos" (fl. 337e).
+Nas razões do Recurso Especial (fls. 345/360e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 85, § 2º e 3º, do CPC/2015.
+Sustenta que:
+"Conforme exposto no próprio v. Acórdão recorrido, na ocasião da conclusão do julgamento do Tema 1076 por este Eg. STJ, sedimentou-se o entendimento segundo o qual a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados.
+Restou enunciado que é obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) a depender da presença da Fazenda Pública na lide, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+O supramencionado artigo 85, § 3º, do CPC, é dotado da seguinte redação:
+(..)
+Neste caso, em que o valor atribuído à causa é de R$ 107.152,80, os honorários advocatícios devem ser fixados entre o mínimo de dez e máximo de vinte por cento sobre o valor da causa, nos termos do art. 85, § 3º, I, do CPC, conforme decidido por este Eg. STJ ao apreciar o Tema 1076.
+Não há espaço para fixação dos honorários advocatícios por apreciação equitativa.
+Ademais, ao contrário do enunciado no v. Acórdão recorrido, está equivocada a premissa de que o bem jurídico tutelado neste caso seria a vida e, portanto, o sucesso da demanda seria dotado de proveito econômico inestimável.
+Buscou-se com a propositura da presente demanda o fornecimento de um medicamento específico, dotado de valor econômico absolutamente mensurável.
+Rememora-se que ao propor a presente demanda o Recorrente havia atribuído à causa o valor de R$ 1.000,00.
+O D. Juízo de primeira instância, então, determinou a emenda à inicial para que o valor da causa correspondesse ao conteúdo econômico da demanda (fl. 33):
+(..)
+Conforme já registrado na emenda à inicial de fls. 35/36, considerando que o custo do medicamente para um mês de tratamento seria no valor de R$ 8.929,40, o valor para realização do tratamento pelo período de um ano equivaleria a R$ 107.152,80 (cento e sete mil, cento e cinquenta e dois reais e oitenta centavos).
+Por analogia ao disposto no art. 292, § 2º, do CPC 1 , o valor da causa deve correspondente ao custo da medicação necessária para realização do tratamento por um ano.
+Dessa forma o Recorrente procedeu à emenda à inicial para atribuir à causa o valor de R$ 107.152,80 (cento e sete mil, cento e cinquenta e dois reais e oitenta centavos), o que foi acolhido pelo D. Juízo de primeira instância (fls. 39/40).
+Neste sentido, por qualquer ângulo que se analise a presente demanda sob a ótica da decisão enunciada por ocasião do julgamento do Tema 1076 por este Eg. STJ, conclui-se que os honorários advocatícios sucumbenciais devem ser fixados entre o mínimo de dez e máximo de vinte por cento sobre o valor da causa, nos termos do art. 85, § 3º, I, do CPC" (fls. 356/359e).
+Contrarrazões a fls. 371/380e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 381/386e).
+A irresignação não merece prosperar.
+O Tribunal estadual, ao julgar o recurso, concluiu que (fls. 338/340e):
+"2. Observa-se, de início, que o recurso de declaração não se autoriza para infringir o julgado, sequer para que a Corte reconsidere matéria que, mal ou bem, bem ou mal, já apreciou e decidiu.
+3. No caso dos autos, o acórdão embargado indicou expressamente os motivos pelos quais entendeu, aplicável o critério da equidade no arbitramento dos honorários advocatícios:
+"Por mais se reconheça o empenho do patrono do demandante, o fato é que o caso dos autos, a exemplo de reiterados processos símiles, tem sua trilha facilmente demarcada, e a regra do § 6º do versado art. 85 do Código de processo civil parece abonar, ademais, a metódica de estimativa sistêmica das previsões de seus §§ 2º e 3º, prestigiando a equidade (o justo do caso concreto).
+Observando, pois, o critério de equidade a que se reportam designadamente as indicações do § 2º do art. 85 do Código de processo civil, a saber: (a) o grau de zelo do profissional; (b) o lugar de prestação do serviço; (c) a natureza e a importância da causa, (d) o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, cabe temperar (com expressa remissão no § 3º do mesmo art. 85) os extremos da moldura previsora da verba honorária nas causas em que seja parte a fazenda pública.
+Adotam-se, deste modo, os fundamentos acima expostos para, já considerando a norma do § 11 do art. 85 do Código de processo civil, acolher o recurso fazendário para assinar o valor final dos honorários advocatícios em R$2.500,00, valor que, razoável, aparenta bem moldado à espécie".
+O STJ, ao julgar o Tema n. 1076, em sede de recursos repetitivos, fixou as seguintes teses:
+"1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) a depender da presença da Fazenda Pública na lide , os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido;
+ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação:
+(a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (o destaque não é do original).
+Tratando-se, na espécie, de demanda em que se objetiva o fornecimento de medicamento, o bem jurídico tutelado -vida- não possui valor pecuniário, de sorte que o proveito econômico obtido se revela inestimável, hipótese que se amolda ao estabelecido pelo STJ no item "a" da segunda tese do Tema n. 1076, o que autoriza o arbitramento dos honorários segundo o critério da equidade.
+4. Refletindo, pois, a pretensa omissão tão somente uma discordância da recorrente com a solução adotada por esta Câmara ao julgar o feito, não se autoriza a oposição de embargos declarativos, uma vez que, nesse caso, inexiste o vício propiciador de reparo por essa via recursal.
+5. Calha dizer que o caráter infringente do recurso integrativo "só é admitido quando, por ocasião do saneamento de eventual omissão, obscuridade ou contradição de que padece a decisão atacada, há modificação do resultado do julgamento"; ao revés, "se a parte discorda da decisão de mérito, deve valer se dos expedientes processuais adequados" (EDcl nos EDcl no REsp 650.613 STJ)."
+Assim, verifica-se que o acórdão recorrido está em consonância com o entendimento firmado por esta Corte, atraindo, assim, a incidência da Súmula 83/STJ.
+Vejamos:
+"PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO INESTIMÁVEL. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. TEMA N. 1.076/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte Especial deste Tribunal Superior, na sessão de 16.03.2022, concluiu o julgamento do Tema n. 1.076/STJ (Recursos Especiais ns. 1.850.512/SP, 1.877.833/SP. 1.906.618/SP e 1.906.623/SP, acórdãos pendentes de publicação) adotando o entendimento segundo o qual a fixação de honorários por apreciação equitativa do juiz (art. 85, § 8º, do CPC/2015), restringe-se às causas em que irrisório ou inestimável (onde não seja possível atribuir valor patrimonial à controvérsia, não se estendendo àquelas demandas em que atribuído valor elevado) o proveito econômico ou, ainda, quando o valor da demanda for muito baixo.
+III - As ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde, possuem proveito econômico inestimável, possibilitando o arbitramento de honorários advocatícios sucumbenciais por apreciação equitativa. Precedentes.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido."
+(AgInt no REsp n. 1.976.775/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
