@@ -1,0 +1,1616 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 35
+
+01/03/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 223.476 MATO GROSSO DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: JEFERSON DOS SANTOS PARODE
+: OSVALDO JOSÉ DUNCKE E OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTICA
+
+EMENTA: HABEAS CORPUS. PENAL E PROCESSUAL PENAL.
+CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33
+DA LEI Nº 11.343/2006. REDISCUSSÃO DOS CRITÉRIOS DE
+DOSIMETRIA DA PENA. INOCORRÊNCIA DE TRÁFICO
+PRIVILEGIADO.
+FUNDAMENTAÇÃO
+IDÔNEA
+PELAS
+INSTÂNCIAS ORDINÁRIAS. DISCRICIONARIEDADE MOTIVADA
+DO JUÍZO. PRETENSÃO DE REVOGAÇÃO DA CUSTÓDIA
+CAUTELAR. FUNDAMENTAÇÃO IDÔNEA. REVOLVIMENTO DO
+CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS.
+INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE
+UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE
+RECURSO OU REVISÃO CRIMINAL. INOBSERVÂNCIA DO DEVER
+DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA.
+REITERAÇÃO DAS RAZÕES. AGRAVO INTERNO DESPROVIDO.
+1. A dosimetria da pena, bem como os critérios subjetivos
+considerados pelos órgãos inferiores para a fixação do quantum a ser
+aplicado para as causas de diminuição e exasperação da pena não são
+passíveis de aferição na via estreita do habeas corpus, por demandar
+minucioso exame fático e probatório inerente a meio processual diverso.
+Precedentes: HC nº 122.688-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe
+de 10/6/2016; HC nº 128.754, Segunda Turma, Rel. Min. Dias Toffoli, DJe
+de 11/5/2016.
+2. O tráfico privilegiado, para ser reconhecido, imprescinde do
+preenchimento cumulativo dos vetores estabelecidos pelo legislador.
+Precedentes: HC nº 208.474-AgR, Segunda Turma, Rel. Min. Nunes
+Marques, DJe de 8/4/2022; e HC nº 188.333-AgR, Primeira Turma, Rel.
+Min. Luiz Fux, DJe de 18/9/2020.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E537-EBA2-5B71-F6B7 e senha 5E34-A4FC-85CF-D9BC
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 35
+
+HC 223476 AGR / MS
+3. A decretação da custódia preventiva para assegurar a aplicação da
+lei penal e a garantia da ordem pública que tem como fundamentos a
+gravidade concreta da conduta, considerada a quantidade de substâncias
+entorpecentes, bem como o risco de reiteração criminosa, encontra
+amparo na jurisprudência desta Corte. Precedentes: RHC nº 193.153-AgR,
+Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 15/12/2020; HC
+nº 170.393-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de
+6/8/2019; e HC nº 137.131-AgR, Primeira Turma, Rel. Min. Roberto
+Barroso, DJe de 17/5/2017.
+4. In casu, o recorrente foi condenado à pena de 5 (cinco) anos e 3
+(três) meses de reclusão, em regime inicial fechado, bem como ao
+pagamento de 521 (quinhentos e vinte e um) dias-multa, pela prática do
+crime previsto no artigo 33, caput, da Lei nº 11.343/2006. Foram
+apreendidos 398,75 kg (trezentos e noventa e oito quilogramas e setenta e
+cinco gramas) de “maconha”.
+5. O habeas corpus é ação inadequada para a valoração e exame
+minucioso do acervo fático-probatório engendrado nos autos.
+6. O writ é impassível de ser manejado como sucedâneo de recurso
+ou revisão criminal.
+7. A impugnação específica da decisão agravada, quando ausente,
+conduz ao desprovimento do agravo interno. Precedentes: HC nº 137.749AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 17/5/2017; e HC
+nº 133.602-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de
+8/8/2016.
+8. A reiteração dos argumentos trazidos pelo agravante na petição
+inicial da impetração é insuscetível de modificar a decisão agravada.
+Precedentes: HC nº 136.071-AgR, Segunda Turma, Rel. Min. Ricardo
+Lewandowski, DJe de 9/5/2017; HC nº 122.904-AgR, Primeira Turma, Rel.
+Min. Edson Fachin, DJe de 17/5/2016; e RHC nº 124.487-AgR, Primeira
+Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015.
+9. Agravo interno DESPROVIDO.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E537-EBA2-5B71-F6B7 e senha 5E34-A4FC-85CF-D9BC
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 35
+
+HC 223476 AGR / MS
+ACÓRDÃO
+A Primeira Turma do Supremo Tribunal Federal, na conformidade
+da ata de julgamento virtual de 17 a 28/2/2023, por unanimidade, negou
+provimento ao agravo interno, nos termos do voto do Relator.
+Brasília, 1º de março de 2023.
+Ministro LUIZ FUX - RELATOR
+Documento assinado digitalmente
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E537-EBA2-5B71-F6B7 e senha 5E34-A4FC-85CF-D9BC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 35
+
+01/03/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 223.476 MATO GROSSO DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: JEFERSON DOS SANTOS PARODE
+: OSVALDO JOSÉ DUNCKE E OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTICA
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+interno interposto por JEFERSON DOS SANTOS PARODE contra decisão que
+negou seguimento a pedido de habeas corpus e restou assim ementada:
+“HABEAS CORPUS. PENAL E PROCESSUAL PENAL.
+
+CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES.
+ARTIGO 33 DA LEI Nº 11.343/2006. REDISCUSSÃO DOS
+CRITÉRIOS
+DE
+DOSIMETRIA
+DA
+PENA.
+INOCORRÊNCIA
+DE
+TRÁFICO
+PRIVILEGIADO.
+FUNDAMENTAÇÃO IDÔNEA PELAS INSTÂNCIAS
+ORDINÁRIAS. DISCRICIONARIEDADE MOTIVADA DO
+JUÍZO. PRETENSÃO DE REVOGAÇÃO DA CUSTÓDIA
+CAUTELAR.
+FUNDAMENTAÇÃO
+IDÔNEA.
+REVOLVIMENTO
+DO
+CONJUNTO
+FÁTICOPROBATÓRIO
+ENGENDRADO
+NOS
+AUTOS.
+INADMISSIBILIDADE
+NA
+VIA
+ELEITA.
+IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS
+CORPUS COMO SUCEDÂNEO DE RECURSO OU
+REVISÃO CRIMINAL.”
+Colhe-se dos autos que o recorrente foi condenado à pena de 5
+(cinco) anos e 3 (três) meses de reclusão, em regime inicial fechado, bem
+como ao pagamento de 521 (quinhentos e vinte e um) dias-multa, pela
+prática do crime previsto no artigo 33, caput, da Lei nº 11.343/2006. Foram
+apreendidos 398,75 kg (trezentos e noventa e oito quilogramas e setenta e
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 35
+
+HC 223476 AGR / MS
+cinco gramas) de “maconha”.
+Em sede de apelação, o Tribunal de origem manteve a condenação.
+Irresignada, a defesa impetrou habeas corpus perante o Superior
+Tribunal de Justiça, o qual não foi conhecido. Ato contínuo, interpôs
+agravo interno, porém não foi provido, nos termos da seguinte ementa:
+“PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.
+TRÁFICO DE DROGAS. PENA-BASE. REFORMATIO IN
+PEJUS. NÃO OCORRÊNCIA. VALORAÇÃO NEGATIVA DA
+QUANTIDADE DO ENTORPECENTE. FUNDAMENTO
+VÁLIDO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI
+N. 11.343/2006. HABITUALIDADE DELITIVA EVIDENCIADA.
+REGIME
+FECHADO.
+CIRCUNSTÂNCIAS
+JUDICIAIS
+DESFAVORÁVEIS.
+RECURSO
+EM
+LIBERDADE.
+SUBSISTÊNCIA DOS FUNDAMENTOS DA CUSTÓDIA
+CAUTELAR. RESGUARDAR A ORDEM PÚBLICA. RÉU QUE
+RESPONDEU AO FEITO SEGREGADO. AUSÊNCIA DE
+CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+1. A individualização da pena é uma atividade em que o
+julgador está vinculado a parâmetros abstratamente cominados pela
+lei, sendo-lhe permitido, entretanto, atuar discricionariamente na
+escolha da sanção penal aplicável ao caso concreto, após o exame
+percuciente dos elementos do delito, e em decisão motivada. Dessarte,
+ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é
+inadmissível às Cortes Superiores a revisão dos critérios adotados na
+dosimetria da pena.
+2. Sob o aspecto da extensão e da profundidade do efeito
+devolutivo na apelação, o Superior Tribunal de Justiça já se
+manifestou que é permitido ao Tribunal de origem agregar novos
+fundamentos para manter a dosimetria fixada em primeiro grau, sem
+se falar em ofensa ao princípio da reformatio in pejus, desde que se
+valha de elementos contidos na sentença condenatória e não agrave a
+situação do réu (HC 374.006/SP, Rel. Ministro RIBEIRO DANTAS,
+QUINTA TURMA, julgado em 10/11/2016, DJe 18/11/2016; HC
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 35
+
+HC 223476 AGR / MS
+349.015/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA
+TURMA, DJe 2/5/2016).
+3. Na hipótese, o fato da Corte de origem deslocado a quantidade
+da droga (398,75kg de maconha) do vetor relativo às circunstâncias do
+delito para vetorial específica descrita no art. 42 da Lei de Drogas não
+configura reformatio in pejus, sobretudo por tal fundamento ter sido
+utilizado anteriormente pelo Juízo sentenciante para desqualificar
+aquela circunstância judicial.
+4. Portanto, a sanção inicial foi fundamentadamente elevada em
+1 ano e 3 meses acima do mínimo legal com amparo na expressiva
+quantidade de droga apreendida - o que não se mostra desproporcional,
+tendo em vista as penas mínima e máxima do delito de tráfico de
+drogas (5 a 15 anos).
+5. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os
+condenados pelo crime de tráfico de drogas terão a pena reduzida, de
+um sexto a dois terços, quando forem reconhecidamente primários,
+possuírem bons antecedentes e não se dedicarem a atividades
+criminosas ou integrarem organizações criminosas.
+6. In casu, a Corte de origem manteve afastado o redutor do
+tráfico privilegiado, por entender que as circunstâncias do delito e as
+provas colhidas nos autos denotam a habitualidade delitiva do paciente
+e seu envolvimento com grupo criminoso, visto que foi flagrado
+realizando o transporte de 398,75 kg de maconha da cidade de
+Amambaí/MS para Mundo Novo/MS, tendo recebido o veículo
+previamente modificado, com as substâncias acondicionadas nos
+bancos e no assoalho, e admitido que receberia o valor de R$ 2.000,00
+pelo serviço. Portanto, a alteração desse entendimento – para fazer
+incidir a minorante da Lei de Drogas – enseja o reexame do conteúdo
+probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Precedentes.
+7. Não há que se falar em bis in idem na hipótese, pois, há nos
+autos outros elementos que evidenciam a habitualidade delitiva do
+paciente no tráfico de drogas além da quantidade e natureza do
+entorpecente apreendido.
+8. Embora o paciente seja primário e a pena reclusiva do crime
+de tráfico de drogas tenha sido fixada em patamar superior a 4 anos e
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 35
+
+HC 223476 AGR / MS
+não excedente a 8 anos de reclusão, o regime fechado mostra-se
+adequado para o início do cumprimento da sanção imposta, diante da
+aferição desfavorável de circunstância judicial (quantidade do
+entorpecente), nos termos dos art. 33 do CP c.c o art. 42 da Lei n.
+11.343/2006.
+9. Estabelecido o quantum da sanção corporal em patamar
+superior a 4 anos de reclusão, é inadmissível a substituição da pena
+privativa de liberdade por restritivas de direito, pela falta do
+preenchimento do requisito objetivo (art. 44, I, do Código Penal).
+10. A teor do § 1º do art. 387 do CPP, o magistrado, ao proferir
+sentença condenatória, decidirá fundamentadamente sobre a
+manutenção ou, se for o caso, imposição de prisão preventiva ou de
+outra medida cautelar, sem prejuízo do conhecimento da apelação que
+vier a ser interposta.
+11. Na hipótese, como se observa, as instâncias antecedentes
+negaram ao paciente o recurso em liberdade, na forma do § 1º do art.
+387 do CPP, sob o fundamento de que, além dele ter respondido ao
+feito segregado, a medida se justifica para resguardar a aplicação da lei
+penal, diante da condenação em regime fechado, e por subsistirem os
+motivos do decreto preventivo, amparados na garantia da ordem
+pública, em razão do paciente ter realizado o transporte de gigantesca
+quantidade de droga - 398,75kg de maconha.
+12. Agravo regimental não provido.”
+
+Sobreveio a presente impetração, na qual a defesa apontou, em
+síntese, constrangimento ilegal consubstanciado na dosimetria da pena
+imposta ao paciente.
+Aduziu, inicialmente, a “impossibilidade de ajuste de ofício pelo segundo
+grau de jurisdição em prejuízo do réu, situação evidente na decisão inquinada
+constrangedora”, pois “a fundamentação exposta pelo d. juízo não é válida ao
+incremento como exposto, migrar para valoração com outra roupagem implica em
+manter uma pena elevada fixada de forma inidônea”. Advogou, ainda, que é
+“necessário o reconhecimento de que o cálculo dosimétrico não se coaduna com a
+jurisprudência consolidada no Superior Tribunal de Justiça, na medida em que
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 35
+
+HC 223476 AGR / MS
+adotou a fração de 1/4 (um quarto) para a exasperação da pena-base tão somente
+em razão da negativação do vetor relativo à quantidade de drogas”, que “a
+quantidade da droga aprendida – aproximados 399 quilos –, a natureza
+(maconha) não possui destaque a justificar a exasperação da pena-base, realizada,
+de toda sorte, de forma desproporcional e irrazoável”, sendo que “em recente
+manifestação, o Superior Tribunal de Justiça julgou adequada a exasperação da
+pena base no patamar de 1/6 quando considerada a natureza e a quantidade da
+droga apreendida”.
+Alegou, também, que “o paciente preenche todos os requisitos para ser
+agraciado com o famigerado tráfico privilegiado, conforme art. 33, § 4º, da Lei de
+Drogas”, que “eventuais particularidades do fato (modo de acondicionamento e
+recompensa) não se prestam a traduzir uma habitualidade ilícita pelo paciente, o
+afastamento da causa especial de diminuição com base na presunção de dedicação
+às atividades criminosas ou integração/envolvimento em organização criminosa
+unicamente amparado pela quantidade de substâncias entorpecentes apreendidas,
+não se mostra idônea”, e que “não só a fundamentação é inidônea em virtude de
+a justificativa não comportar materialização dos requisitos, como também o é em
+face a ocorrência de bis in idem, posto que utilizada a quantidade para o
+incremento da pena-base, e depois como argumento exclusivo para o afastamento
+da benesse”.
+Ressaltou, ainda, que “não há fundamentação para adoção de regime mais
+gravoso do que aquele previsto por lei na suposta existência de circunstância
+judicial negativa”, e que “exclusivamente com fulcro no art. 2º, § 1º da Lei n.
+8.072/90, o magistrado indicou como adequada a fixação do regime inicial
+fechado para o cumprimento da pena corpórea”.
+Afirmou, por fim, que “não prospera a manutenção do regime inicial
+fechado para o resgate da pena corpórea, devendo, portanto, ser reformado o
+decisum combatido, sendo fixado regime diverso do fechado”, pois, “tratando-se
+de sentença penal condenatória recorrível, o binômio necessidade fundamentação
+é premissa imperiosa, mormente, por estar em jogo a jus libertatis”. Pugnou,
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 35
+
+HC 223476 AGR / MS
+enfim, pela redução da pena-base e pela aplicação do redutor previsto no
+§ 4º do artigo 33 da Lei nº 11.343/2006 em seu patamar máximo, bem
+como a fixação de regime mais brando, e que o paciente recorra em
+liberdade.
+O habeas corpus teve o seguimento negado, nos termos da ementa
+supratranscrita, sobrevindo o presente agravo interno, no qual a defesa
+reitera os argumentos expendidos na inicial.
+Alega, em síntese, que “é necessário o reconhecimento de que o cálculo
+dosimétrico não se coaduna com a jurisprudência consolidada no Superior
+Tribunal de Justiça, na medida em que adotou a fração de 1/4 (um quarto) para a
+exasperação da pena-base tão somente em razão da negativação do vetor relativo à
+quantidade de drogas”, que “considerando a exasperação da pena-base operada
+pela quantidade da droga apreendida, não pode o mesmo argumento servir para
+modular a fração de redução pelo tráfico privilegiado”. Afirma que “o d. acórdão
+erroneamente alinhou que houve a fixação de regime mais gravoso em face a
+presença de circunstância judicial desfavorável, no entanto, de uma leitura
+simples do trecho referenciado, não é a situação”, e que há incompatibilidade
+entre a segregação cautelar e o regime inicial a ser fixado, sendo
+necessária a concessão da ordem para conceder ao recorrente o direito de
+recorrer em liberdade.
+Por fim, formula pedido recursal nos seguintes termos:
+“Pelo exposto, requer a) seja recebido e processado o presente
+Agravo Interno, e, ao final, b) seja conhecido do writ, reconhecendo o
+preenchimento dos requisitos para sua admissibilidade e, por
+conseguinte, c) sejam acolhidos in totum os pleitos expostos no
+remédio heroico, a fim de que i) seja concedida a ordem para afastar o
+aumento da pena-base, ou, adequar a fração aplicada na primeira fase
+dosimétrica ao patamar de 1/6; ii) reconheça a ocorrência de
+fundamentação inidônea ou de bis in idem quando da negativa da
+benesse contida no art. 33, § 4º, da Lei n. 11.343/06, aplicando-a; iii)
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 35
+
+HC 223476 AGR / MS
+seja reformado o regime inicial para o cumprimento da pena, sendo
+fixado o regime aberto ou semiaberto; e iv) seja garantido o direito de
+recorrer em liberdade; o que pode, inclusive, ser reconhecido de ofício
+por esse c. Tribunal.”
+
+É o relatório.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3233-16A8-FBAE-76C5 e senha B475-7012-8CC3-80A3
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 35
+
+01/03/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 223.476 MATO GROSSO DO SUL
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): A presente irresignação
+não merece prosperar.
+Em que pesem as razões expendidas no agravo, é ausente
+argumento capaz de infirmar a decisão hostilizada, motivo pelo qual
+deve ela ser mantida, por seus próprios fundamentos.
+Inicialmente, observo que o recorrente se limitou a reiterar parte dos
+argumentos expostos na petição inicial e já refutados exaustivamente na
+decisão ora agravada. Assim, não houve a impugnação específica do
+decisum objurgado, ao insistir em repetir os argumentos constantes da
+exordial, silenciando sobre os fundamentos da decisão concernentes: i) à
+inadmissibilidade de revolvimento do conjunto fático-probatório
+engendrado nos autos; e ii) à impossibilidade de utilização do habeas
+corpus como sucedâneo de recurso ou revisão criminal. Nesse sentido, in
+verbis:
+“Penal. Agravo Regimental em Habeas Corpus. Falta de
+impugnação específica dos fundamentos. Descaminho. Princípio da
+insignificância. Reiteração delitiva. Recurso não conhecido. 1. A parte
+recorrente não impugnou, especificamente, todos os fundamentos da
+decisão agravada, o que impossibilita o conhecimento do recurso, na
+linha da pacífica jurisprudência do Supremo Tribunal Federal. 2. A
+notícia de que a paciente responde a outros procedimentos
+administrativos fiscais inviabiliza, neste habeas corpus, o pronto
+reconhecimento da atipicidade penal da conduta. A jurisprudência do
+Supremo Tribunal Federal firmou orientação no sentido de que a
+reiteração delitiva impede a adoção do princípio da insignificância
+penal, em matéria de crime de descaminho. Precedentes. 3. Agravo
+regimental não conhecido.” (HC 137.749-AgR, Primeira Turma,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 12 de 35
+
+HC 223476 A GR / MS
+Rel. Min. Roberto Barroso, DJe de 17/5/2017)
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL.
+DESCAMINHO.
+DESCONSIDERAÇÃO
+DE
+ALEGADA
+REITERAÇÃO DELITIVA DO PACIENTE A IMPOSSIBILITAR A
+INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA.
+NECESSÁRIA CONTINUIDADE DA AÇÃO PENAL NA
+ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA
+DECISÃO AGRAVADA. DECISÃO AGRAVADA MANTIDA.
+AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(HC 133.602-AgR, Segunda Turma, Rel. Min. Cármen Lúcia,
+DJe de 8/8/2016)
+
+In casu, consoante assentado na decisão recorrida, inexiste situação
+que permita a concessão da ordem de ofício ante a ausência de teratologia
+na decisão atacada, flagrante ilegalidade ou abuso de poder. Por
+oportuno, transcrevo a fundamentação da decisão do Superior Tribunal
+de Justiça, naquilo que interessa, in verbis:
+“Inicialmente consigno que a individualização da pena é uma
+atividade em que o julgador está vinculado a parâmetros
+abstratamente cominados pela lei, sendo-lhe permitido, entretanto,
+atuar discricionariamente na escolha da sanção penal aplicável ao caso
+concreto, após o exame percuciente dos elementos do delito, e em
+decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta
+ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a
+revisão dos critérios adotados na dosimetria da pena.
+Como cediço, ‘não existe critério matemático obrigatório para a
+fixação da pena-base. Pode o magistrado, consoante a sua
+discricionariedade motivada, aplicar a sanção básica necessária e
+suficiente à repressão e prevenção do delito, pois as infinitas variações
+do comportamento humano não se submetem, invariavelmente, a uma
+fração exata na primeira fase da dosimetria’ (AgRg no HC
+563.715/RO, Rel. Ministro Rogério Schietti Cruz, sexta turma,
+julgado em 15/9/2020, DJe 21/9/2020) [...]
+Na hipótese, observa-se que a Corte de origem entendeu não ser
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 13 de 35
+
+HC 223476 A GR / MS
+adequada a valoração das circunstâncias do delito, descritas no art. 59
+do Código Penal, visto que o vetor relativo à quantidade do
+entorpecente possui descrição própria no art. 42 da Lei de Drogas,
+definido inclusive como circunstância preponderante sobre as
+elencadas naquele artigo.
+Desse modo, a elevação da pena-base em 1 ano e 3 meses acima
+do mínimo legal foi mantida não pela valoração negativa das
+circunstâncias do delito - expressiva quantia de entorpecente
+(398,75kg de maconha) -, mas pela utilização deste vetor, nos termos
+do art. 42 da Lei n. 11.343/2006.
+Sob o aspecto da extensão e da profundidade do efeito devolutivo
+na apelação, o Superior Tribunal de Justiça já se manifestou que é
+permitido ao Tribunal de origem agregar novos fundamentos para
+manter a dosimetria fixada em primeiro grau, sem se falar em ofensa
+ao princípio da reformatio in pejus, desde que se valha de elementos
+contidos na sentença condenatória e não agrave a situação do réu (HC
+374.006/SP, Rel. Ministro Ribeiro Dantas, quinta turma, julgado em
+10/11/2016, DJe 18/11/2016; HC 349015/SC, Rel. Ministro Rogério
+Schietti Cruz, sexta turma, DJe 2/5/2016).
+Logo, o Tribunal estadual, ao exercer sua soberania para dizer o
+direito, pode, em recurso exclusivo da defesa, inclusive manter a pena
+aplicada ao réu com base em elementos diversos do que os valorados
+pelo juiz sentenciante, desde que seja respeitada a imputação deduzida
+pelo órgão de acusação.
+Desse modo, inexiste ilegalidade no decisum combatido, em
+razão da Corte de origem ter deslocado a quantidade de droga
+apreendida do vetor relativo às circunstâncias do delito para a vetorial
+específica descrita no art. 42 da Lei n. 11.343/2006, sobretudo por tal
+fundamento ter sido utilizado anteriormente pelo Juízo sentenciante
+para desqualificar aquela circunstância judicial [...].
+Assim, tendo sido apresentado elemento idôneo para a majoração
+da reprimenda básica, elencado inclusive como circunstância
+preponderante, e levando-se em conta as penas mínima e máxima
+abstratamente cominadas ao referido delito (5 a 15 anos), não se
+mostra desarrazoado o aumento operado pela instância ordinária, a
+autorizar a intervenção excepcional desta Corte. [...]
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 14 de 35
+
+HC 223476 A GR / MS
+[...] a Corte de origem manteve afastado o redutor do tráfico
+privilegiado, por entender que as circunstâncias do delito e as provas
+colhidas nos autos denotam a habitualidade delitiva do paciente e seu
+envolvimento com grupo criminoso, visto que foi flagrado realizando o
+transporte de 398,75 kg de maconha da cidade de Amambaí/MS para
+Mundo Novo/MS, tendo recebido o veículo previamente modificado,
+com as substâncias acondicionadas nos bancos e no assoalho, e
+admitido que receberia o valor de R$ 2.000,00 pelo serviço.
+Portanto, assentado pelas instâncias antecedentes, soberanas na
+análise dos fatos, com fulcro em elementos colhidos nos autos, que o
+paciente é contumaz na prática delitiva, a modificação desse
+entendimento – a fim de fazer incidir a minorante da Lei de Drogas –
+enseja o reexame do conteúdo probatório dos autos, o que é
+inadmissível em sede de habeas corpus. [...]
+Saliente-se, que não há que se falar em bis in idem na hipótese,
+pois há nos autos outros elementos que evidenciam a habitualidade
+delitiva do paciente no tráfico de drogas além da quantidade e
+natureza do entorpecente apreendido. [...]
+Quanto ao regime prisional, melhor sorte não socorre ao
+impetrante. Embora o paciente seja primário e a pena tenha sido
+estabelecida em patamar superior a 4 anos e não excedente a 8 anos, o
+modo fechado é o adequa e suficiente para o início do cumprimento da
+pena reclusiva, diante da aferição desfavorável de circunstância
+judicial (quantidade do entorpecente), nos termos dos art. 33 do CP
+c.c o art. 42 da Lei n. 11.343/2006. [...]
+Estabelecido o quantum da sanção corporal em patamar superior
+a 4 anos de reclusão, é inadmissível a substituição da pena privativa
+de liberdade por restritivas de direito, pela falta do preenchimento do
+requisito objetivo (art. 44, I, do Código Penal).
+Por fim, especificamente quanto ao pleito de recorrer em
+liberdade, verifica-se que o Juízo sentenciante manteve a prisão
+preventiva do paciente com base nos seguintes fundamentos: [...]
+Na hipótese, como se observa, as instâncias antecedentes
+negaram ao paciente o recurso em liberdade, na forma do § 1º do art.
+387 do CPP, sob o fundamento de que, além dele ter respondido ao
+feito segregado, a medida se justifica para resguardar a aplicação da lei
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 15 de 35
+
+HC 223476 A GR / MS
+penal, diante da condenação em regime fechado, e por subsistirem os
+motivos do decreto preventivo, amparado na garantia da ordem
+pública, em razão do paciente ter realizado o transporte de gigantesca
+quantidade de droga - 398,75kg de maconha. [...]
+Convém anotar, ainda, que esta Quinta Turma firmou
+orientação de que ‘não há lógica em deferir ao condenado o direito de
+recorrer solto quando permaneceu segregado durante a persecução
+criminal, se persistentes os motivos para a preventiva’ (HC
+396.974/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA,
+julgado em 22/8/2017, DJe 30/8/2017).”
+
+Com efeito, o Supremo Tribunal Federal fixou entendimento no
+sentido de que “a dosimetria da pena, bem como os critérios subjetivos
+considerados pelos órgãos inferiores para a sua realização, não são passíveis de
+aferição na via estreita do habeas corpus, por demandar minucioso exame fático e
+probatório inerente a meio processual diverso” (HC nº 114.650, Primeira
+Turma, Rel. Min. Luiz Fux, DJe de 14/8/2013). Nesse sentido, o seguinte
+julgado:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO
+TRANSITADA EM JULGADO. DOSIMETRIA DA PENA. 1. A
+Primeira Turma do Supremo Tribunal Federal consolidou
+entendimento no sentido da inadmissibilidade do uso da ação de
+habeas corpus em substituição ao recurso ordinário previsto na
+Constituição Federal (HC 109.956, Rel. Min. Marco Aurélio; e HC
+104.045, Rel.ª Min.ª Rosa Weber). 2. O Supremo Tribunal Federal
+não admite a utilização do habeas corpus em substituição à ação de
+revisão criminal (RHC119.605-AgR, Rel. da minha relatoria; HC
+111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias
+Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204,
+Rel.ª Min.ª Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo
+Lewandowski). 3. A dosimetria da pena é questão relativa ao
+mérito da ação penal, estando necessariamente vinculada ao
+conjunto fático probatório, não sendo possível, em habeas
+corpus, a análise de dados fáticos da causa para redimensionar
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 16 de 35
+
+HC 223476 A GR / MS
+a pena finalmente aplicada. Assim, a discussão a respeito da
+dosimetria da pena cinge-se ao controle da legalidade dos
+critérios utilizados, restringindo-se, portanto, ao exame da
+“motivação [formalmente idônea] de mérito e à congruência
+lógico-jurídica entre os motivos declarados e a conclusão” (HC
+69.419, Rel. Min. Sepúlveda pertence). 4. A orientação
+jurisprudencial do Supremo Tribunal Federal é no sentido de que, “Se
+instâncias ordinárias concluíram que o ora agravante se dedicava à
+atividade criminosa para negar a incidência da causa especial de
+redução de pena prevista no art. 33, § 4º, da Lei de Drogas, para se
+chegar a conclusão diversa, necessário seria o reexame de fatos e
+provas, o qual o habeas corpus não comporta. Não há que se falar em
+bis in idem, pois, embora haja simples referência à quantidade de
+droga apreendida, ela não foi um fator preponderante na negativa de
+aplicação da causa especial de redução de pena prevista no art. 33, §
+4º, da Lei 11.343/06, já que se entendeu, em razão das circunstâncias
+em que foi praticado o delito, que o agravante se dedicava à atividade
+criminosa, o que, por si só, obsta a incidência do redutor de pena
+pretendido” (HC 136.177-AgR, Rel. Min. Dias Toffoli). 5. Agravo
+regimental a que se nega provimento. (HC 141.167-AgR, Primeira
+Turma, Rel. Min. Roberto Barroso, DJe de 16/6/2017) (Grifei)
+
+Outrossim, há que se reconhecer que a dosimetria da pena é matéria
+sujeita a certa discricionariedade judicial, sindicável apenas em casos de
+flagrante teratologia, ilegalidade ou abuso de poder. No mesmo sentido o
+HC nº 132.475, de relatoria da Min. Rosa Weber, Primeira Turma, DJe de
+23/8/2016:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.
+SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO
+DA VIA ELEITA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR.
+TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO.
+DOSIMETRIA. FIXAÇÃO DA PENA-BASE. AFASTAMENTO
+DA MINORANTE DO ARTIGO 33, § 4º, DA LEI 11.343/2006. 1.
+Contra a denegação de habeas corpus por Tribunal Superior prevê a
+Constituição Federal remédio jurídico expresso, o recurso ordinário.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 17 de 35
+
+HC 223476 A GR / MS
+Diante da dicção do art. 102, II, a, da Constituição da República, a
+impetração de novo habeas corpus em caráter substitutivo escamoteia
+o instituto recursal próprio, em manifesta burla ao preceito
+constitucional. 2. A jurisprudência deste Supremo Tribunal Federal
+no sentido de que “não se conhece de habeas corpus em que se reitera a
+pretensão veiculada em writ anteriormente impetrado” (HC
+112.645/TO, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012). 3. A
+dosimetria da pena é matéria sujeita a certa discricionariedade
+judicial. O Código Penal não estabelece rígidos esquemas matemáticos
+ou regras absolutamente objetivas para a fixação da pena. Pertinente à
+dosimetria da pena, encontra-se a aplicação da causa de diminuição da
+pena objeto do § 4º do art. 33 da Lei 11.343/2006. 4. Na hipótese,
+adequada a exasperação da pena-base acima do mínimo legal dada
+'a expressiva quantidade de droga apreendida – 57 kg de
+maconha'. 5. A tese defensiva de aplicação da minorante do § 4º
+do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a
+constatação de o paciente integrar organização criminosa e/ou dedicarse à atividades delitivas, demandaria o reexame e a valoração de fatos e
+provas, para o que não se presta a via eleita. 6. Agravo regimental
+conhecido e não provido.
+
+De outro lado, o Tribunal a quo consignou a inocorrência da alegada
+reformatio in pejus, porquanto “o Tribunal estadual, ao exercer sua soberania
+para dizer o direito, pode, em recurso exclusivo da defesa, inclusive manter a
+pena aplicada ao réu com base em elementos diversos do que os valorados pelo
+juiz sentenciante, desde que seja respeitada a imputação deduzida pelo órgão de
+acusação”. Deveras, inexistindo agravamento da pena aplicada, não há
+que se falar em reformatio in pejus. Nesse sentido, mutatis mutandis:
+’HABEAS CORPUS’ – PENA-BASE ESTABELECIDA
+ACIMA DO MÍNIMO LEGAL – RECONHECIMENTO, PELO
+MAGISTRADO SENTENCIANTE, DA EXISTÊNCIA DE
+CIRCUNSTÂNCIAS
+JUDICIAIS
+DESFAVORÁVEIS
+AO
+CONDENADO – DECISÃO TRANSITADA EM JULGADO –
+REVISÃO CRIMINAL – JULGAMENTO QUE MANTEVE
+CIRCUNSTÂNCIA JUDICIAL SOB NOVO FUNDAMENTO,
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 18 de 35
+
+HC 223476 A GR / MS
+MAS SEM AGRAVAMENTO DA SITUAÇÃO JURÍDICO-PENAL
+DO SENTENCIADO – INEXISTÊNCIA DE ‘REFORMATIO IN
+PEJUS’ – FUNDAMENTAÇÃO IDÔNEA, QUE, ADEMAIS,
+BASEIA-SE EM ARGUMENTOS EXTRAÍDOS DA PRÓPRIA
+SENTENÇA PENAL CONDENATÓRIA – JURISPRUDÊNCIA
+DO SUPREMO TRIBUNAL FEDERAL CONSOLIDADA
+QUANTO À MATÉRIA VERSADA NA IMPETRAÇÃO –
+PARECER DA PROCURADORIA-GERAL DA REPÚBLICA
+PELO NÃO PROVIMENTO DESTA ESPÉCIE RECURSAL –
+RECURSO DE AGRAVO IMPROVIDO. (HC 159.349-AgR,
+Segunda Turma, Rel. Min. Celso de Mello, DJe de 16/5/2019)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM
+HABEAS CORPUS. PENAL E PROCESSO PENAL. ROUBO
+MAJORADO.
+EXTORSÃO
+MEDIANTE
+SEQUESTRO.
+ASSOCIAÇÃO CRIMINOSA. DOSIMETRIA DA PENA.
+DISCRICIONARIEDADE.
+REFORMATIO
+IN
+PEJUS.
+DEFICIÊNCIA
+DE
+FUNDAMENTAÇÃO.
+DESPROPORCIONALIDADE.
+INOCORRÊNCIA.
+1.
+A
+jurisprudência da Suprema Corte evoluiu para, novamente, admitir a
+impetração de habeas corpus em substituição a recurso ordinário
+constitucional (HC 152.752, Rel. Min. Edson Fachin, Tribunal Pleno,
+DJe-127 de 27.6.2018).2. Não encontra guarida na jurisprudência da
+Corte a pretensão de conferir valor cartesiano às circunstâncias
+judiciais, à vista do entendimento de que dosimetria da pena é matéria
+sujeita a certa discricionariedade judicial, à míngua de previsão, no
+Código Penal, de rígidos esquemas matemáticos ou regras
+absolutamente objetivas para a fixação da pena (RHC 140.006-AgR,
+de minha relatoria, Primeira Turma, DJe 15.12.2017).3. Não se
+reconhece a ocorrência de reformatio in pejus nas hipóteses em que a
+pena do recorrente não se agrava por ocasião do julgamento do recurso
+(HC 124.250/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe
+18.12.2014).4. Valoradas as circunstâncias judiciais com base nos
+parâmetros previstos na legislação penal, não há desproporcionalidade
+ou deficiência na fundamentação que justifique a atuação excepcional
+deste Supremo Tribunal Federal em sede de habeas corpus.5. Agravo
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 19 de 35
+
+HC 223476 A GR / MS
+regimental conhecido e não provido. (RHC 124.739-AgR, Primeira
+Turma, Rel. Min. Rosa Weber, DJe de 16/11/2018)
+
+Demais disso, no que concerne à aplicabilidade do redutor previsto
+no artigo 33, § 4º, da Lei nº 11.343/2006, esta Corte sufraga o
+entendimento de que se comprovado o não preenchimento cumulativo
+dos critérios estabelecidos pelo legislador para a caracterização do tráfico
+privilegiado, é impossível a sua aplicação. Nessa linha, in verbis:
+HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE
+DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI
+11.343/2006. APLICAÇÃO. INVIABILIDADE. REVOLVIMENTO
+DE FATOS E PROVAS. ORDEM DENEGADA. 1. A não aplicação
+da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 pressupõe
+a demonstração pelo juízo sentenciante da existência de conjunto
+probatório apto a afastar ao menos um dos critérios – porquanto
+autônomos –, descritos no preceito legal: (a) primariedade; (b) bons
+antecedentes; (c) não dedicação a atividades criminosas; e (d) não
+integração à organização criminosa. Nesse juízo, não se pode ignorar
+que a norma em questão tem a clara finalidade de apenar com menor
+grau de intensidade quem pratica de modo eventual as condutas
+descritas no art. 33, caput e § 1º, daquele mesmo diploma legal em
+contraponto ao agente que faz do crime o seu modo de vida, razão pela
+qual, evidentemente, não estaria apto a usufruir do referido benefício
+2. O Tribunal de Justiça concluiu, com base nos elementos de provas
+colhidos sob o crivo do contraditório, pela dedicação do paciente a
+atividades criminosas, circunstância que não pode contraditada em
+sede de habeas corpus, instrumento que não se presta para o
+revolvimento do conjunto fático probatório. Precedentes. 3. Ordem
+denegada. (HC 129.360, Segunda Turma, Rel. Min. Teori
+Zavascki, DJe de 4/2/2016).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS
+SUCEDÂNEO DE REVISÃO CRIMINAL. TRÁFICO DE
+ENTORPECENTES. CONDENAÇÃO A PENA INFERIOR A
+OITO
+ANOS.
+CIRCUNSTÂNCIAS
+JUDICIAIS
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 20 de 35
+
+HC 223476 A GR / MS
+DESFAVORÁVEIS. IMPOSIÇÃO DE REGIME MAIS GRAVOSO.
+POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. 1. A aplicação
+da causa especial de diminuição de pena prevista no § 4º do artigo 33
+da Lei 11.343/06 está condicionada ao preenchimento, cumulativo, dos
+requisitos legais: primariedade, bons antecedentes e agente que não se
+dedique a atividades criminosas nem integre organização criminosa.
+Precedentes: HC 108.135, Primeira Turma, Relator o Ministro Luiz
+Fux, DJ de 27.06.12; RHC 105.150, Primeira Turma, Relator o
+Ministro Dias Toffoli, DJ de 04.05.12; HC 101.265, Segunda Turma,
+Relator para o acórdão o Ministro Joaquim Barbosa, DJ de 06.08.12;
+RHC 107.860, Primeira Turma, Relatora a Ministra Rosa Weber, DJ
+de 25.09.12. 2. In casu, a paciente, na condição de “mula”, foi
+surpreendida transportando expressiva quantidade de droga ao
+exterior. Tal fato afasta o preenchimento dos requisitos do art. 33, § 4°,
+da Lei de Drogas, conforme parecer ministerial: “as instâncias
+ordinárias com base no acervo fático-probatório, evidenciaram que a
+paciente integrava organização criminosa ou, ao menos, dedicava-se a
+atividades criminosas, desautorizando a incidência da minorante
+prevista no art. 33, § 4° da Lei 11.343/06¹, uma vez que o redutor é
+incompatível com ambas as condições. A revisão de tal entendimento é
+inviável de ser realizada na via estreita do writ, por exigir dilação
+probatória. Contra a pretensão da paciente, é importante argumentar
+que o transportador da droga é elemento essencial na dinâmica do
+tráfico, pois sem a pessoa que conduza a droga ao seu local de destino
+fica inviabilizado o seu comércio.” 3. O regime inicial fechado revelase possível em condenações por tráfico de entorpecentes, mesmo para o
+cumprimento de pena inferior a 8 (oito) anos, desde que desfavoráveis
+as circunstâncias judiciais elencadas no artigo 59 do Código Penal. 4.
+In casu, considerada tão-somente a quantidade da pena aplicada, o
+paciente teria direito ao regime inicial semiaberto, nos termos do
+artigo 33, § 2º, alínea b, do Código Penal. Todavia, a fixação de regime
+mais gravoso, deu-se à luz das circunstâncias judiciais do artigo 59 do
+Código Penal e, no caso da regência específica do crime de tráfico de
+entorpecentes, do art. 42 da Lei n. 11.343/2006, verbis: “O juiz, na
+fixação das penas, considerará, com preponderância sobre o previsto
+no art. 59 do Código Penal, a natureza e a quantidade da substância
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 21 de 35
+
+HC 223476 A GR / MS
+ou do produto, a personalidade e a conduta social do agente”. 5. O
+habeas corpus não pode ser utilizado como sucedâneo de revisão
+criminal. Precedentes: HC 111.412-AgR, Primeira Turma, Relator o
+Ministro Luiz Fux, DJe de 14.08.13; RHC 116.038, Primeira Turma,
+Relator o Ministro Luiz Fux, DJe de 15.08.13; RHC 116.204,
+Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 02.05.13;
+HC 115.609, Segunda Turma, Relator o Ministro Ricardo
+Lewandowski, DJe de 1º.04.13; RHC 111.547, Primeira Turma,
+Relator o Ministro Dias Toffoli, DJe de 15.06.12. E a condenação
+transitou em julgado em 13.06.2014. 6 A competência originária do
+Supremo Tribunal Federal para conhecer e julgar habeas corpus está
+definida, taxativamente, no artigo 102, inciso I, alíneas “d” e “i”, da
+Constituição Federal, sendo certo que os pacientes não estão arrolados
+em nenhuma das hipóteses sujeitas à jurisdição desta Corte. 7. Habeas
+Corpus extinto. (HC 123.430, Primeira Turma, Rel. Min. Luiz
+Fux, DJe de 18/11/2014).
+
+A propósito, o Tribunal de origem consignou que “não deve incidir a
+causa de redução prevista no § 4º do art. 33 da Lei de Drogas, tendo em vista que
+ficou demonstrado que o acusado está envolvido com organização criminosa,
+considerando a grande quantidade de droga que estava sendo transportada no
+veículo: 398,75 kg de maconha (auto de apreensão de p. 17 e laudo de constatação
+preliminar de p. 19)”.
+Deveras, o referido entendimento não diverge da posição deste
+Supremo Tribunal Federal. Nesse sentido, in verbis:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+TRÁFICO DE DROGAS (ART. 33 DA LEI 11.343/2006). CAUSA
+ESPECIAL DE REDUÇÃO DE PENA (ART. 33, § 4º, DA LEI
+11.343/2006). AFASTAMENTO. DEDICAÇÃO A ATIVIDADES
+CRIMINOSAS.
+ANÁLISE
+DE
+FATOS
+E
+PROVAS.
+IMPOSSIBILIDADE.
+REGIME
+INICIAL
+FECHADO.
+FUNDAMENTOS IDÔNEOS. 1. A jurisprudência do SUPREMO
+TRIBUNAL FEDERAL chancela o afastamento da causa de
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 22 de 35
+
+HC 223476 A GR / MS
+diminuição (art. 33, § 4º, da Lei 11.343/2006) quando presentes fatos
+indicadores da dedicação do agente a atividades criminosas, como, por
+exemplo, a) a conduta social do acusado, b) o concurso eventual de
+pessoas, e c) a quantidade de droga. 2. As instâncias ordinárias,
+soberanas na apreciação do conteúdo fático-probatório, assentaram que
+os elementos colhidos sob o crivo do contraditório indicaram a
+dedicação do paciente a atividades criminosas. O registro de que o
+agravante alugou imóvel para a prática do comércio de drogas, bem
+como a apreensão de considerável quantidade de entorpecente e
+petrechos destinados à divisão da substância, revelam que a hipótese
+não retrata quadro de traficância eventual ou de menor gravidade,
+circunstâncias para quais a minorante em questão deve incidir.
+Precedentes. 3. A fixação do regime inicial de cumprimento da pena
+não está atrelada, de modo absoluto, ao quantum da sanção corporal
+aplicada. Desde que o faça em decisão motivada, o magistrado
+sentenciante está autorizado a impor ao condenado regime mais
+gravoso do que o recomendado nas alíneas do § 2º do art. 33 do Código
+Penal. Inteligência da Súmula 719/STF. 4. As particularidades do
+caso concreto apuradas pelos Juízos antecedentes – notadamente no
+tocante à quantidade de droga encontrada em poder do agravante
+(2.539,6g de maconha) – constituem fundamentação idônea para a
+imposição de regime mais severo fechado, medida que se mostra
+adequada e necessária para a repressão e prevenção do crime. 5.
+Agravo regimental a que se nega provimento. (HC 161.482-AgR,
+Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de
+19/10/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+IMPOSSIBILIDADE DO REEXAME NO WRIT DE FATOS E
+PROVAS NO TOCANTE À PARTICIPAÇÃO DO PACIENTE EM
+ORGANIZAÇÃO CRIMINOSA OU À VALORAÇÃO DA
+QUANTIDADE DA DROGA APREENDIDA, QUANDO
+UTILIZADOS COMO FUNDAMENTO PARA AFASTAR OU
+DOSAR, AQUÉM DO PATAMAR MÁXIMO, A CAUSA DE
+DIMINUIÇÃO DA PENA PELO TRÁFICO PRIVILEGIADO,
+PREVISTA NO ART. 33, § 4°, DA LEI DE DROGAS.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 23 de 35
+
+HC 223476 A GR / MS
+INVIABILIDADE DO REEXAME DA MATÉRIA FÁTICOPROBATÓRIA NA ESTREITA VIA DO WRIT. SOMENTE EM
+SITUAÇÕES EXCEPCIONAIS SE FAZ POSSÍVEL O NOVO
+EXAME DOS FUNDAMENTOS DA DOSIMETRIA DA PENA
+LEVADA A EFEITO PELO JUIZ NATURAL DA CAUSA A
+PARTIR DO SISTEMA TRIFÁSICO. AGRAVO REGIMENTAL A
+QUE SE NEGA PROVIMENTO. I - A orientação jurisprudencial
+desta Suprema Corte é firme no sentido de ser inadequada a via do
+habeas corpus para reexaminar fatos e provas no tocante à
+participação do paciente em organização criminosa ou à valoração da
+quantidade da droga apreendida, quando utilizados como fundamento
+para afastar ou dosar, aquém do patamar máximo, a causa de
+diminuição da pena pelo tráfico privilegiado, prevista no art. 33, § 4°,
+da Lei de Drogas. II – O entendimento do STF é o de que somente em
+situações excepcionais é admissível o reexame dos fundamentos da
+dosimetria da pena levada a efeito pelo juiz natural da causa a partir
+do sistema trifásico, o que, adianto, não se dá na espécie. III - Os
+Ministros integrantes da Quinta Turma do Superior Tribunal de
+Justiça assentaram que, “[n]o que tange à alegação de inexistência de
+provas para manutenção da condenação, o Tribunal de origem, com
+base no acervo probatório, firmou compreensão no sentido da efetiva
+prática do crime de tráfico ilícito de entorpecentes”. Ademais,
+consignaram que “a apreensão de elevada quantidade de entorpecente,
+aliada às circunstâncias em que ocorreu o delito, indicativas do tráfico
+habitual, são elementos que permitem concluir que há dedicação às
+atividades criminosas”. Dissentir dessa decisão demandaria o reexame
+de fatos e provas, o que, como visto, é inviável na via do habeas
+corpus. IV – Agravo regimental a que se nega provimento. (HC
+157.258-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,
+DJe de 4/10/2018)
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE
+DROGAS. MINORANTE. DEDICAÇÃO ÀS ATIVIDADES
+CRIMINOSAS. IMPOSSIBILIDADE DE INCIDÊNCIA. 1. A causa
+de diminuição prevista no art. 33, §4°, da Lei 11.343/06 é aplicada
+‘desde que o agente seja primário, de bons antecedentes, não se
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 24 de 35
+
+HC 223476 A GR / MS
+dedique às atividades criminosas nem integre organização criminosa’.
+2. Tais requisitos negativos devem ser avaliados pelas instâncias
+próprias segundo as particularidades de cada caso. Nessa linha, não é
+possível rever, em habeas corpus, a ausência de aplicação da causa
+minorante na hipótese em que as instâncias ordinárias,
+motivadamente, compreenderam que as especificidades do modo de
+execução revelariam a dedicação do paciente às atividades criminosas.
+3. Ordem denegada. (HC 140.553, Segunda Turma, Rel. Min.
+Edson Fachin, DJe de 2/6/2017)
+
+Demais disso, na espécie, não vislumbro bis in idem, porquanto o
+benefício do tráfico privilegiado não foi afastado unicamente com
+fundamento na quantidade de entorpecentes, mas em razão de o paciente
+se dedicar a atividade criminosa, o que restou demonstrado do amplo
+conjunto probatório dos autos.
+Ademais, esta Corte sufraga o entendimento de que o habeas corpus é
+a via inadequada para um juízo de ponderação sobre a suficiência das
+circunstâncias judiciais valoradas pelas instâncias antecedentes. Nessa
+linha, in vebis:
+RECURSO ORDINÁRIO EM HABEAS CORPUS.
+CONSTITUCIONAL.
+TRÁFICO
+DE
+ENTORPECENTE.
+DOSIMETRIA DA PENA BASE. LIMITES INSTRUTÓRIOS DO
+HABEAS CORPUS. 1. Elementos concretos para a fixação da pena
+base imposta ao Paciente, entre os quais a culpabilidade, a quantidade
+e a natureza do entorpecente apreendido, não se mostra juridicamente
+desproporcional a pena-base de reclusão mantida nas instâncias
+antecedentes. 2. Não se presta o habeas corpus para ponderar, em
+concreto, a suficiência das circunstâncias judiciais invocadas pelas
+instâncias antecedentes para a majoração da pena-base. Precedentes.
+3. Recurso ao qual se nega provimento. (RHC 132.361, Segunda
+Turma, Rel. Min. Cármen Lúcia, DJe de 22/4/2016)
+AGRAVO
+
+REGIMENTAL
+
+EM
+
+HABEAS
+
+CORPUS.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 25 de 35
+
+HC 223476 A GR / MS
+PROCESSO
+PENAL.
+DECISÃO
+MONOCRÁTICA.
+INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁLA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO.
+DOSIMETRIA DA PENA. CULPABILIDADE CONSIDERADA
+ACENTUADA. REVISÃO. IMPOSSIBILIDADE. AGRAVO
+REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação
+apta a infirmar o julgamento monocrático conduz à manutenção da
+decisão recorrida. 2. Não há ilegalidade evidente ou teratologia a
+justificar a excepcionalíssima concessão da ordem de ofício na decisão
+que deixa de reconhecer excesso na fixação da pena. Hipótese em que
+as instâncias ordinárias concluíram que “a culpabilidade do réu refoge
+à esfera normal dos delitos da espécie”. 3. Não há como empreender
+juízo exato da correspondência entre o aumento da pena e a
+quantidade de circunstâncias judiciais desfavoráveis, visto que a
+exasperação não deriva, de modo automático, da expressividade
+numérica dessas particularidades. 4. Agravo regimental desprovido.
+(HC 130.760-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe
+de 22/4/2016)
+
+A propósito, cabe referir posição deste Supremo Tribunal Federal no
+sentido da prescindibilidade de valoração negativa de todas as
+circunstâncias judiciais para fixação da pena em patamar máximo,
+cabendo ao órgão julgador, à luz do caso concreto, fixar o quantum a ser
+exasperado. A propósito, cumpre mencionar, in verbis:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E
+PROCESSO
+PENAL.
+SUPOSTA
+UTILIZAÇÃO
+DE
+FUNDAMENTAÇÃO ABSTRATA PARA FIXAR A PENA-BASE
+EM PATAMAR MÁXIMO. DOSIMETRIA DA PENA PAUTADA
+À LUZ DO CASO CONCRETO. ILEGALIDADE NÃO
+VERIFICADA. AUSÊNCIA DE VALORAÇÃO NEGATIVA DE
+TODOS OS VETORES PREVISTOS NO ART. 59 DO CP.
+DESNECESSIDADE. EXASPERAÇÃO DA PENA ASSENTADA
+UNICAMENTE NA MAIOR REPROVAÇÃO DA CONDUTA.
+POSSIBILIDADE. RECURSO DESPROVIDO. 1. É adequada e
+suficiente a fundamentação que exaspera a pena-base em razão da
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 26 de 35
+
+HC 223476 A GR / MS
+intensa ação do paciente em todas as fases do crime. 2. A exasperação
+da reprimenda assentada unicamente na maior reprovação da conduta
+não destoa da ordem jurídica, pois a fixação da pena em patamar
+máximo, consoante jurisprudência desta Corte, prescinde da avaliação
+negativa de todas as vetoriais do art. 59 do CP. 3. Recurso ordinário
+em habeas corpus desprovido. (RHC 140.539, Segunda Turma, Rel.
+Min. Edson Fachin, DJe de 19/9/2017)
+DIREITO PENAL. RECURSO ORDINÁRIO EM HABEAS
+CORPUS. APROPRIAÇÃO INDÉBITA DE CONTRIBUIÇÃO
+PREVIDENCIÁRIA.
+DOSIMETRIA.
+AUSÊNCIA
+DE
+DEMONSTRAÇÃO
+DE
+ILEGALIDADE
+OU
+ARBITRARIEDADE. A dosimetria da pena é matéria sujeita a certa
+discricionariedade judicial. O Código Penal não estabelece rígidos
+esquemas matemáticos ou regras absolutamente objetivas para a
+fixação da pena. Cabe às instâncias ordinárias, mais próximas dos
+fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da
+dosimetria das penas em grau recursal, compete apenas o controle da
+legalidade e da constitucionalidade dos critérios empregados, bem
+como corrigir, eventualmente, discrepâncias gritantes e arbitrárias nas
+frações de aumento ou diminuição adotadas pelas instâncias
+anteriores. Tanto a concorrência de diversas vetoriais negativas como
+a existência de uma única vetorial negativa de especial gravidade
+autorizam pena base bem acima do mínimo legal. Não se presta o
+habeas corpus, enquanto não permite ampla avaliação e valoração das
+provas, como instrumento hábil ao reexame do conjunto fáticoprobatório que leva à fixação das penas. Recurso ordinário em habeas
+corpus não provido. (RHC 101.576, Primeira Turma, Rel. Min.
+Rosa Weber, DJe de 14/8/2012)
+
+Assim, a não configuração, no caso sub examine, da ocorrência de
+tráfico privilegiado, torna prejudicada a pretensão de readequação do
+regime inicial de cumprimento de pena, porquanto o que compunha a
+sua causa de pedir, quanto a esse requerimento era, justamente, o
+reconhecimento da incidência do artigo 33, § 4º, da Lei nº 11.343/2006.
+
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 27 de 35
+
+HC 223476 A GR / MS
+Noutro giro, destaco a jurisprudência do Supremo Tribunal Federal
+no sentido da possibilidade de fixação de regime inicial de cumprimento
+da pena mais gravoso, mercê da existência de circunstâncias judiciais
+negativas. Nessa linha, in verbis:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. REGIME
+PRISIONAL MAIS GRAVOSO. POSSIBILIDADE. PENA-BASE
+FIXADA ACIMA DO MÍNIMO LEGAL. PRESENÇA DE
+CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS (ART. 59 DO CP).
+INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.I – À
+luz do que dispõe o § 3º do art. 33 do Código Penal, a imposição de
+pena-base acima do mínimo legal justifica a aplicação de regime
+prisional mais gravoso do que permitiria a sanção aplicada. É nesse
+sentido a orientação firmada pelas duas Turmas desta Suprema Corte
+(HC 145.000 AgR/SP, de relatoria do Ministro Alexandre de Moraes;
+HC 147.408 AgR/SP, de relatoria do Ministro Luiz Fux; HC 153.641
+AgR/SP, de relatoria do Ministro Dias Toffoli; entre outros).II –
+Agravo a que se nega provimento. (RHC 164.871 AgR, Segunda
+Turma, Rel. Min. Ricardo Lewandowski, DJe de 18/3/2019)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO
+AGRAVO
+REGIMENTAL
+EM
+HABEAS
+CORPUS.
+INDIVIDUALIZAÇÃO
+E
+DOSIMETRIA
+DA
+PENA.
+ADEQUAÇÃO DE REGIME DE CUMPRIMENTO DA PENA.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.1. A
+dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é
+realizado pelo magistrado sentenciante após a análise do acervo
+probatório amealhado ao longo da instrução criminal. Daí ser inviável,
+na seara do Habeas Corpus, reavaliar os elementos de convicção, a fim
+de se redimensionar a sanção. O que está autorizado, segundo
+reiterada jurisprudência desta CORTE, é apenas o controle da
+legalidade dos critérios invocados, com a correção de eventuais
+arbitrariedades. Precedentes.2. As particularidades do caso concreto,
+invocadas para qualificar as circunstâncias judiciais, constituem
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 28 de 35
+
+HC 223476 A GR / MS
+fundamentação idônea para a exasperação da pena, notadamente no
+que diz respeito à culpabilidade do agente, pois “a quebra do dever
+legal de representar fielmente os anseios da população e de quem se
+esperaria uma conduta compatível com as funções por ele exercidas,
+ligadas, entre outros aspectos, ao controle e à repressão de atos
+contrários à administração e ao patrimônio públicos, distancia-se, em
+termos de culpabilidade, da regra geral de moralidade e probidade
+administrativa imposta a todos os funcionários públicos, cujo conceito
+está inserido no art. 327 do Código Penal, não se confunde com a
+qualidade funcional ativa exigida pelo tipo penal previsto no art. 312
+do Código Penal” (RHC 125.478-AgR, Rel. Min. TEORI
+ZAVASCKI, Segunda Turma, DJe de 27/2/2015).3. A fixação do
+regime inicial de cumprimento da pena não está atrelada, de modo
+absoluto, ao quantum da sanção corporal aplicada, devendo-se
+considerar as especiais circunstâncias do caso concreto. Assim, desde
+que o faça em decisão motivada, o magistrado sentenciante está
+autorizado a impor ao condenado regime mais gravoso do que o
+recomendado nas alíneas do § 2º do art. 33 do Código Penal.4. Para
+divergir do aresto impugnado, notadamente acerca da dosimetria da
+pena e da adequação do regime fixado para cumprimento da
+reprimenda, seria indispensável o reexame dos fatos e provas carreados
+aos autos, providência incompatível com esta via processual.5.
+Embargos de Declaração recebidos como Agravo Regimental, ao qual
+se nega provimento. (HC 149.439 ED, Primeira Turma, Rel. Min.
+Alexandre de Moraes, DJe de 28/11/2018)
+
+Ainda, impende considerar que, na hipótese sub examine, não se
+olvidou do enunciado nº 719 da Súmula do Supremo Tribunal Federal, o
+qual assim dispõe:
+A imposição do regime de cumprimento mais severo do que a
+pena aplicada permitir exige motivação idônea.
+
+A propósito, na hipótese sub examine, o Tribunal a quo assentou que
+“as instâncias antecedentes negaram ao paciente o recurso em liberdade, na
+forma do § 1º do art. 387 do CPP, sob o fundamento de que, além dele ter
+18
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 29 de 35
+
+HC 223476 A GR / MS
+respondido ao feito segregado, a medida se justifica para resguardar a aplicação
+da lei penal, diante da condenação em regime fechado, e por subsistirem os
+motivos do decreto preventivo, amparado na garantia da ordem pública, em razão
+do paciente ter realizado o transporte de gigantesca quantidade de droga 398,75kg de maconha”. Convém registrar que o Tribunal de origem
+consignou que “a custódia preventiva ainda se faz imprescindível para a
+garantia da aplicação da lei penal, considerando que o réu reside fora do distrito
+da culpa, somado a elevada pena aplicada e a exorbitante quantidade de
+entorpecente que transportava, de modo que a manutenção da medida constritiva
+constitui providência necessária e adequada diante do risco concreto de reiteração
+delitiva, sendo inviável assegurar ao apelante o direito de responder ao feito em
+liberdade”.
+Nesse contexto, cabível se mostra o entendimento de que a custódia
+cautelar para assegurar a aplicação da lei penal e garantir a ordem
+pública justifica-se ante a gravidade concreta do crime. A propósito, a
+prisão preventiva que tem como fundamento gravidade concreta da
+conduta, considerada a quantidade de substâncias entorpecentes, bem
+como a possibilidade de reiteração delitiva, encontra amparo na
+jurisprudência desta Corte. Cumpre destacar que o fato de a paciente
+ostentar condições pessoais favoráveis não lhe garante o direito de
+liberdade. Nesse sentido, verbis:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL.
+RECORRENTE PRESO PREVENTIVAMENTE PELO DELITO
+DE TRÁFICO ILÍCITO DE DROGAS. GARANTIA DA ORDEM
+PÚBLICA. PERICULOSIDADE DO PACIENTE EVIDENCIADA
+PELA GRANDE QUANTIDADE DA DROGA APREENDIDA.
+POSSIBILIDADE. FUGA APÓS A PRÁTICA DO CRIME.
+INTUITO DE FURTAR-SE À APLICAÇÃO DA LEI PENAL.
+IDONEIDADE. AGRAVO REGIMENTAL A QUE SE NEGA
+PROVIMENTO . I – A jurisprudência do Supremo Tribunal Federal
+admite que “a periculosidade do paciente, evidenciada pela acentuada
+
+19
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 30 de 35
+
+HC 223476 A GR / MS
+quantidade de droga apreendida e pelo fundado receio de reiteração
+delitiva” é fundamento idôneo para a decretação de prisão cautelar
+(HC 126.905/RJ, Redator para o acórdão Ministro Alexandre de
+Moraes). Precedentes. II – A circunstância de o recorrente ter
+permanecido em lugar incerto e não sabido logo depois de
+supostamente ter cometido o crime, em nítido intuito de furtar-se à
+aplicação da lei penal, também mostra-se apta a justificar o decreto de
+prisão preventiva. Precedentes do STF. III – A primariedade, a
+residência fixa e os bons antecedentes não obstam a decretação da
+custódia cautelar quando presentes os requisitos do art. 312 do Código
+de Processo Penal. Precedentes. IV – Agravo regimental a que se nega
+provimento. (RHC 193153-AgR, Segunda Turma, Rel. Min.
+Ricardo Lewandowski, DJe de 15/12/2020)
+Agravo regimental em habeas corpus. 2. Tráfico e associação
+para o tráfico de drogas (artigos 33, caput, e 35, caput, todos da Lei
+11.343/2006). Porte de arma de uso permitido (artigo 12 da Lei
+10.826/2003). 3. Prisão preventiva. Necessidade da custódia cautelar
+para garantia da ordem pública. 4. Gravidade concreta do delito.
+Considerável quantidade de droga apreendida. Possibilidade de
+reiteração delitiva. 5. Fundamentação idônea que recomenda a medida
+constritiva. 6. Ausência de constrangimento ilegal. Negativa de
+provimento ao agravo regimental. (HC 152.912-AgR, Segunda
+Turma, Rel. Min. Gilmar Mendes, DJe de 30/11/2018)
+Processual penal. Agravo regimental em Habeas corpus. Porte
+ilegal de arma de fogo e munição. Prisão preventiva. Reiteração
+delitiva. Ausência de teratologia, ilegalidade ou abuso de poder. 1. A
+Primeira Turma do Supremo Tribunal Federal consolidou
+entendimento no sentido da inadmissibilidade do uso da ação de
+habeas corpus em substituição ao recurso ordinário previsto na
+Constituição Federal. Precedentes. 2. A orientação jurisprudencial do
+Supremo Tribunal Federal é no sentido de que a periculosidade do
+agente, evidenciada pelo modus operandi, e a probabilidade concreta
+de reiteração na prática criminosa constituem fundamentação idônea
+para a decretação da custódia cautelar. Hipótese em que o paciente
+
+20
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 31 de 35
+
+HC 223476 A GR / MS
+ostenta duas condenações anteriores pelo mesmo delito e ainda
+responde a uma outra ação penal por crime diverso. 3. Agravo
+regimental desprovido. (HC 137.131-AgR, Primeira Turma, Rel.
+Min. Roberto Barroso, DJe de 17/5/2017)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE
+DROGAS.
+FAVORECIMENTO
+REAL.
+AUSÊNCIA DE
+TERATOLOGIA, ILEGALIDADE FLAGRANTE OU ABUSO DE
+PODER. 1. A orientação jurisprudencial do Supremo Tribunal
+Federal é no sentido de que a gravidade em concreto do crime e a
+fundada probabilidade de reiteração criminosa justificam a decretação
+da prisão cautelar. Precedentes. 2. Hipótese de paciente denunciado
+pelos crimes de tráfico de drogas e favorecimento real, sendo que o
+decreto prisional deixou consignado o maior risco à ordem pública, na
+medida em que o acusado, valendo-se de sua condição de agente
+penitenciário, estaria introduzindo entorpecentes em estabelecimento
+prisional. Ausência de teratologia, ilegalidade flagrante ou abuso de
+poder que justifique a concessão da ordem de ofício. 3. Agravo
+regimental desprovido. (HC 170.393-AgR, Primeira Turma, Rel.
+Min. Roberto Barroso, DJe de 6/8/2019)
+
+Ainda, cabe referir que o exame das questões de fato suscitadas pela
+defesa demanda uma indevida incursão na moldura fática delineada nos
+autos. Com efeito, o habeas corpus é ação inadequada para a valoração e
+exame minucioso do acervo fático probatório engendrado nos autos.
+Destarte, não se revela cognoscível a insurgência que não se amolda à
+estreita via eleita. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E
+PROCESSUAL
+PENAL.
+CRIME
+DE
+HOMICÍDIO
+DUPLAMENTE
+QUALIFICADO.
+HABEAS
+CORPUS
+SUBSTITUTIVO
+DE
+RECURSO
+EXTRAORDINÁRIO.
+INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO
+TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS:
+CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE AMOLDA
+
+21
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 32 de 35
+
+HC 223476 A GR / MS
+AO ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA
+CORTE. REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA.
+INÉPCIA DA DENÚNCIA. NÃO CARACTERIZADA.
+CUSTÓDIA
+PREVENTIVA
+DEVIDAMENTE
+FUNDAMENTADA.
+ELEMENTOS
+CONCRETOS
+A
+JUSTIFICAR A MEDIDA. ALEGADO EXCESSO DE PRAZO.
+INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. (HC
+130.439, Rel. Min. Luiz Fux, Primeira Turma, DJe de 12/5/2016).
+
+Demais disso, impende consignar que não cabe a rediscussão da
+matéria perante essa Corte e nesta via processual, porquanto o habeas
+corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM
+HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU
+REVISÃO
+CRIMINAL.
+EXECUÇÃO
+PENAL.
+FALTA
+DISCIPLINAR
+GRAVE.
+ABSOLVIÇÃO
+OU
+DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICOPROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE
+OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o
+emprego do habeas corpus como sucedâneo de recurso ou revisão
+criminal. Precedentes. 2. Para concluir em sentido diverso das
+instâncias anteriores quanto ao pleito de absolvição ou desclassificação
+da imputação de falta grave, imprescindíveis o reexame e a valoração
+de fatos e provas, para o que não se presta a via eleita. Precedentes. 3.
+Agravo regimental conhecido e não provido. (RHC 217.371-AgR,
+Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM
+HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO
+COMO
+SUCEDÂNEO
+DE
+REVISÃO
+CRIMINAL.
+IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE
+EVIDENTE
+OU
+TERATOROLOGIA
+A
+INFIRMAR
+JULGAMENTO ACOBERTADO PELA COISA JULGADA.
+AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário
+
+22
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 33 de 35
+
+HC 223476 A GR / MS
+em habeas corpus não merece conhecimento na medida em que
+funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido
+ao caráter excepcional da superação da jurisprudência da Corte, a
+concessão da ordem de ofício configura providência a ser tomada tão
+somente em casos absolutamente aberrantes e teratológicos, o que não
+se verifica na espécie. 3. Agravo regimental desprovido. (RHC
+213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de
+26/8/2022)
+
+Por fim, ressalto que esta Corte sufraga o entendimento de que a
+reiteração dos argumentos aduzidos na petição de habeas corpus, os quais
+já foram objeto de exame pelo Relator, não possui o condão de infirmar os
+fundamentos da decisão agravada. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL
+QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO
+AGRAVADA. WRIT CONTRA DECISÃO LIMINAR DO
+SUPERIOR
+TRIBUNAL
+DE
+JUSTIÇA.
+POSTERIOR
+JULGAMENTO DO MÉRITO: PREJUDICIALIDADE DA
+IMPETRAÇÃO. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+I - O agravante reitera os argumentos anteriormente expostos na
+inicial do habeas corpus, sem, contudo, aduzir novos elementos
+capazes de afastar as razões expendidas na decisão agravada. II - A
+superveniência do julgamento do mérito de habeas corpus pelo
+Superior Tribunal de Justiça torna prejudicada a impetração que ataca
+a decisão que indeferiu a liminar. III – Agravo ao qual se nega
+provimento. (HC 136.071-AgR, Segunda Turma, Rel. Min.
+Ricardo Lewandowski, DJe de 9/5/2017)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSO
+PENAL.
+DECISÃO
+MONOCRÁTICA.
+INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁLA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO.
+DELITO DE TRÁFICO ILÍCITO DE DROGAS. RITO ESPECIAL.
+RESPOSTA À ACUSAÇÃO. PRESCINDIBILIDADE. PRISÃO
+
+23
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 34 de 35
+
+HC 223476 A GR / MS
+PREVENTIVA. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL
+DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o
+julgamento monocrático conduz à manutenção da decisão recorrida. 2.
+O artigo 396 do CPP, que assegura ao acusado a apresentação de
+resposta à acusação após a admissão da imputação, não se aplica ao
+rito disciplinado na Lei 11.343/06, hipótese em que a defesa escrita
+precede ao recebimento da denúncia. Ademais, ambas as defesas são
+direcionadas a evitar a persecução criminal temerária, de modo que,
+forte no princípio da especialidade, não há direito subjetivo à
+acumulação das oportunidades de defesa. 3. Não há ilegalidade na
+decisão que impõe prisão preventiva com lastro em argumentos que
+evidenciam o fundado receio de reiteração delituosa. 4. Agravo
+regimental desprovido. (HC 122.904-AgR, Primeira Turma, Rel.
+Min. Edson Fachin, DJe de 17/5/2016)
+Direito Penal e Processo Penal. Agravo Regimental. Recurso
+Ordinário em Habeas Corpus. Ação Penal. Desobediência. Coação
+no Curso do Processo. Nulidade do Processo em que Ocorreu o Crime.
+1. O crime de coação no curso do processo é formal. Sua consumação
+independe de resultado naturalístico, bastando a simples ameaça
+praticada contra qualquer pessoa que intervenha no processo, seja
+autoridade, parte ou testemunha. É irrelevante que a conduta produza
+o resultado pretendido. 2. A conduta foi praticada quando o processo
+se encontrava em curso, o que atende à descrição típica do art. 344 do
+Código Penal. 3. A reiteração dos argumentos trazidos pelo agravante
+na inicial da impetração não é suficiente para modificar a decisão
+agravada (HC 115.560-AgR, Rel. Min. Dias Toffoli). 4. Agravo
+regimental a que se nega provimento. (RHC 124.487-AgR, Primeira
+Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015)
+
+Ex positis, DESPROVEJO o agravo interno.
+É como voto.
+
+24
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 982D-6A05-8AFF-A2AB e senha 337D-F4AE-2F09-530B
+
+Supremo Tribunal Federal
+Extrato de Ata - 01/03/2023
+
+Inteiro Teor do Acórdão - Página 35 de 35
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 223.476
+PROCED. : MATO GROSSO DO SUL
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : JEFERSON DOS SANTOS PARODE
+ADV.(A/S) : OSVALDO JOSÉ DUNCKE (34143/SC) E OUTRO(A/S)
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo,
+nos termos do voto do Relator. Primeira Turma, Sessão Virtual de
+17.2.2023 a 28.2.2023.
+Composição: Ministros Lúis Roberto Barroso (Presidente),
+Cármen Lúcia, Dias Toffoli, Luiz Fux e Alexandre de Moraes.
+Disponibilizou processos para esta Sessão o Ministro André
+Mendonça, não tendo participado do julgamento desses feitos a
+Ministra Cármen Lúcia.
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4E13-4A29-C67A-CAA2 e senha 6153-1C6A-24F5-D51C
