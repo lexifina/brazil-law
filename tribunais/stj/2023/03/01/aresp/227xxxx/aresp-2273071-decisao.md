@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a e c, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 0707735-34.2020.8.07.0014), que manteve a condenação de Micaely Teixeira Alves como incursa no crime de furto qualificado.
+Nas razões do recurso especial, a defesa da agravante suscitou violação e dissídio jurisprudencial quanto ao art. 59 do Código Penal (fls. 493/506).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 83/STJ (fls. 537/538).
+Contra o decisum a defesa interpôs o presente agravo (fls. 547/556).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 589/592).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+A tese deduzida no recurso é de ilegalidade no critério adotado pela Corte de origem para aumentar a pena na primeira fase.
+A insurgência, no entanto, não merece acolhida.
+O legislador não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria.
+O critério de 1/6 ou de 1/8 (a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador) por cada vetorial negativa, embora utilizado como referência em alguns precedentes desta Corte Superior (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018; e HC n. 544.961/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020), não traduz uma imposição, já que há precedentes que orientam no sentido da possibilidade de fixação da pena-base em patamar superior apenas com base em uma circunstância judicial negativada:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. AVALIAÇÃO NEGATIVA. QUANTIDADE DE DISPAROS DESFERIDOS CONTRA A VÍTIMA. PERSEGUIÇÃO DESTA. CONDUTA QUE RESULTOU EM ACIDENTE AUTOMOBILÍSTICO. FUNDAMENTAÇÃO ADEQUADA. QUANTUM DE AUMENTO RAZOÁVEL. INEXISTÊNCIA DE CRITÉRIO PURAMENTE MATEMÁTICO. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mostra-se idônea a fundamentação consignada, na origem, para atribuir desvalor à circunstância judicial da culpabilidade, tendo em vista que o Paciente desferiu inúmeros disparos de arma de fogo contra a vítima, após intensa perseguição desta, conduta que também resultou em colisão automobilística.
+2. A adoção do parâmetro de aumento de 1/6 (um sexto) para cada circunstância judicial negativa afigura-se como importante baliza para a realização do cálculo da pena. No entanto, consoante jurisprudência desta Corte, é possível a exasperação da pena de forma mais rigorosa mediante a apresentação de fundamentação idônea.
+3. No caso em exame, foi apresentada motivação adequada e suficiente para a elevação da reprimenda em patamar superior a 1/6 (um sexto), já que, além da considerável quantidade de disparos (constatada, no corpo da vítima, a presença de cinco orifícios de entrada de projétil de arma de fogo - PAF), também foi ressaltado que o modus operandi do delito envolveu intensa perseguição do ofendido, resultando, ainda, em acidente automobilístico.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 703.403/ES, Ministra Laurita Vaz, Sexta Turma, DJe 19/9/2022)
+Com efeito, não há falar em critério matemático impositivo estabelecido pela jurisprudência desta Corte Superior, mas, sim, em um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO PREVIDENCIÁRIO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE. AUMENTO. FRAÇÃO DE 1/8. POSSIBILIDADE.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. As instâncias ordinárias apontaram motivação suficiente e idônea para exasperar a pena-base pela culpabilidade. Com efeito, ressaltaram que o agravante gozou da aposentadoria indevida por longo lapso, qual seja, quase 8 anos. Além disso, destacaram que faltavam 19 anos para que ele pudesse almejar o benefício previdenciário.
+3. Não se verifica a arguida ilegalidade, ainda, quanto às consequências do crime. Embora o prejuízo financeiro seja decorrência comum dos crimes contra o patrimônio, sua análise pode ser considerada quando extrapolar a normalidade, como na hipótese dos autos, haja vista o elevado montante dos prejuízos aos cofres públicos - aproximadamente R$ 86.000,00 (oitenta e seis mil reais), em detrimento dos mais necessitados que fariam jus à assistência previdenciária.
+4. "A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático.  ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada)" (AgRg no HC n. 603.620/MS, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 59 DO CP. SUPOSTA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE.
+1. O legislador não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria (pena-base).
+2. O critério aludido pelo agravante (1/6 por cada vetorial negativa), embora utilizado como referência em alguns precedentes desta Corte (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018), não traduz uma imposição, mesmo porque há precedentes que reputam justificada a fixação de fração de aumento em 1/8 por vetorial negativa (a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador) - HC n. 544.961/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020.
+3 Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+4. Considerando que a instância ordinária utilizou de fundamentação idônea para aumentar a pena e aplicou um critério, dentro da discricionariedade vinculada que lhe é assegurada pela lei, não há falar em violação do art. 59 do Código Penal.
+5. Agravo regimental improvido.
+(AgRg no REsp n. 1.852.272/PA, de minha relatoria, Sexta Turma, DJe 4/6/2020)
+No caso, a instância ordinária, dentro da discricionariedade vinculada assegurada pela lei penal e de forma fundamentada, reputou suficiente o incremento da pena em 9 meses pela vetorial negativada (fl. 475 - grifo nosso):
+ ..
+Na primeira fase de fixação da pena, ao fazer a análise das circunstâncias judiciais do art. 59 do Código Penal, o d. Juiz avaliou negativamente as circunstâncias do crime, fixando a pena- base em 2 (dois) anos e 9 (nove) meses de reclusão.
+Em relação às circunstâncias do crime, o MM. Juiz, tendo em vista que o crime foi praticado com duas qualificadoras, a qualificadora do concurso de pessoas foi utilizada para agravar a pena na primeira fase e a fraude para qualificar o delito.
+ ..
+Assim, mantenho a análise desfavorável das circunstâncias do crime.
+No tocante ao cálculo da pena-base, importante destacar que este Relator tem entendimento firme no sentido de que o acréscimo adequado, em virtude de cada circunstância judicial negativa, correspondente a 1/8 (um oitavo) da quantidade de meses existentes entre os intervalos mínimo e máximo de pena abstratamente cominada ao crime. No caso concreto, o preceito secundário do crime em questão, furto qualificado, prevê penas mínima e máxima de 2 e 8 anos de reclusão, respectivamente, o que ensejaria um aumento de 9 (nove) meses, para cada circunstância negativa.
+Pelo que se observa, o Magistrado somou 9 (nove) meses à pena mínima de 2 (dois) anos.
+Assim, conclui-se que, de fato, aplicou-se a fração de acréscimo de 1/8 (um oitavo) sobre a pena mínima abstratamente prevista ao tipo, não havendo reparos nesse ponto.
+Conservo, pois, a pena-base em 2 (dois) anos e 9 (nove) meses de reclusão.
+ ..
+Logo, não há falar em ilegalidade no critério adotado, sendo o caso de incidir a Súmula 568/STJ, inclusive quanto ao recurso fundado na alínea c (art. 105, III, da CF).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. VIOLAÇÃO DO ART. 59 DO CP. SUPOSTA ILEGALIDADE NO AUMENTO APLICADO NA DOSIMETRIA DA PRIMEIRA FASE. IMPROCEDÊNCIA. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO IMPOSITIVO. PRECEDENTES DESTA CORTE SUPERIOR. DISCRICIONARIEDADE VINCULADA. SÚMULA 568/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
