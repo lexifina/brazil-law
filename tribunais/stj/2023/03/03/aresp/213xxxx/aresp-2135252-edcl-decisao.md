@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BAUTZ E ROUSSEAU SOCIEDADE ADVOGADOS, ANDREY GUSMÃO ROUSSEAU GUIMARÃES, HÉLIO GUSTAVO BAUTZ DALLACQUA e MONZA DISTRIBUIDORA DE VEÍCULOS LTDA., contra decisão que conheceu do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu do recurso especial e deu-lhe provimento, para que os honorários sejam fixados pela Corte local com base nos parâmetros estabelecidos nesta Corte, conforme o julgado no REsp 1.746.072/PR, em 13/02/2019, mesmo com a ressalva do entendimento desta relatora.
+Em suas razões recursais, os embargantes alegam que a decisão é omissa, pois não acatou diretamente o pleito "c" do Recurso Especial interposto pelos embargantes.
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+No caso, os embargantes alegam que a decisão é omissa, pois não teria atendido o pedido estampado no item "c" do Recurso Especial interposto pelos embargantes (e-STJ fl. 666), a saber:
+"c) Seja dado provimento ao recurso ora interposto para reformar a decisão objurgada, afastando a interpretação baseada em presunção e situação hipotética constante no acórdão, e por seguida aplique o artigo 85, §2º do CPC, reconhecendo que em razão da ilegitimidade da empresa Monza, os honorários fixados não devem ser divididos pela metade, em razão da legislação não dispor sobre isso, bem como pela empresa Monza e seus patronos não terem qualquer envolvimento com a outra demandada."
+No entanto, da leitura dos embargos opostos, conclui-se que razão não assiste aos embargantes, pois os argumentos apresentados não demonstram que a r. decisão seja omissa, mas percebe-se, nitidamente, que o desejo dos embargantes é que seja dado provimento aos aclaratórios para que haja uma modificação do julgado.
+Nesse sentido, inclusive, destaca-se a proposta de desfecho apresentada pelos causídicos para a decisão proferida nesta Corte:
+"Com isso, sugere que a decisão embargada conste o seguinte: Fixação dos honorários advocatícios sucumbenciais em 10% sobre o valor atualizado da causa, somado a 5% em razão do acréscimo pela fase recursal, totalizando 15% de honorários advocatícios sobre o valor atualizado da causa, que compete exclusivamente aos advogados da empresa Monza." (e-STJ fl. 1099)
+Desta forma, malgrado o inconformismo dos embargantes, restou clara a análise das razões apresentadas no recurso especial, e nesse sentido foi clara a decisão embargada, a qual apresentou os seguintes fundamentos:
+"Por conseguinte, na aplicação conjunta dos §§ 2º e 8º do art. 85, foi estabelecida uma ordem de preferência para o arbitramento da verba honorária: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (iii) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+Logo, o acórdão comporta reforma quanto ao ponto.
+- Da divergência jurisprudencial
+Diante da análise do mérito em que foi acolhida a pretensão dos recorrentes, fica prejudicada a divergência jurisprudencial.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para que os honorários sejam fixados pela Corte local com base nos parâmetros estabelecidos nesta Corte.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravante em virtude da interposição deste recurso, majoro os honorários, a serem fixados pela Corte local, em mais 5%, em desfavor de ROBERTO MASSAKI OSHIRO." (e-STJ fl. 1086/1087)
+No mais, o argumento dos agravantes, no sentido de que sobre a decisão embargada, embora procedente, não foi expressa em registrar que os honorários devem ser fixados em 10% sobre o valor da atualizado da causa, sendo está a base de cálculo, não prospera como se pode ver pelas razões expedidas na r. decisão monocrática.
+Assim, os fundamentos apresentados nos aclaratórios revelam apenas inconformidade e o nítido desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza deste recurso.
+Conclui-se, portanto, que o presente recurso não reúne os pressupostos específicos para o seu acolhimento.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, e a inexistência de vício leva à rejeição.
+2. Embargos de declaração rejeitados.
