@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO PETECK contra decisão que negou seguimento ao recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+"AGRAVO INTERNO. PROCESSO CIVIL DECISÃO MONOCRÁTICA. PROVIMENTO DA APELAÇÃO. LITISPENDÊNCIA NÃO CONFIGURADA. SIMPLES CONEXÃO E CONTINÊNCIA. ARTIGOS 56 E 57 DOCPC. IMPOSSIBILIDADE DE EXTINÇÃO PARCIAL DOS PEDIDOS. REUNIÃO DOS PROCESSOS PARA JULGAMENTO CONJUNTO. AGRAVO INTERNO IMPROVIDO.
+1. Hipótese em que "o pedido dos embargos do devedor,nos quais se busca a extinção da execução, por ausência de título líquido certo e exigível, ou o reconhecimento de excesso na execução pela existência de cláusulas ilegais, não coincide com o pedido da ação revisional, na qual se pretende a revisão de cláusulas contratuais" (REsp719.566/RS,Rei. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/09/2006, DJ09/10/2006, p.288).
+2."Quando houver continência e a ação continente tiver sido proposta anteriormente, no processo relativo à ação contida será proferida sentença sem resolução de mérito, caso contrário, as ações serão necessariamente reunidas (art.57 do CPC), o que evidencia a desnecessidade de extinção parcial dos pedidos formulados nos embargos à execução.
+3. Agravo interno improvido" (e-STJ fl. 958).
+No recurso especial (e-STJ fls. 1164/1186), o recorrente alega violação dos arts. 783 e 798, I, do CPC/2015, ao argumento de que o banco-recorrido, embora tenha apresentado o relatório de cálculo, não demonstrou a liquidez do valor executado, uma vez que sequer fez constar da planilha dados essenciais à propositura da demanda, tais como a data e o valor liberado em conta.
+Por fim, alega divergência jurisprudencial no tocante à ausência de responsabilidade imputável ao recorrente no que tange ao pagamento de verba sucumbencial.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Primeiramente, no tocante à alegação de que a obrigação constante no título não é líquida, certa e exigível por deficiência na planilha de cálculos do exequente, eis o que decidiu a Corte de origem, quando do julgamento dos embargos de declaração opostos:
+"No caso em exame, vejo que a execução embargada foi instruída com a planilha de cálculo de fl. 26 do id 9974214, que apresenta como valor da operação de crédito a quantia de R$ 298.166,40 (duzentos e noventa e outo mil cento e sessenta e seis reais e quarenta centavos), com a data do vencimento da obrigação em 25/06/2012.
+É importante, aqui, realçar que o título de crédito em execução, a Cédula de Produto Rural Financeira de nº 000371754, apresenta de forma bem clara em seu corpo que o ora apelante se obrigou a proceder à liquidação financeira da cédula, em moeda corrente, no valor total de R$ 298.166,40 (duzentos e noventa e oito mil cento e sessenta e seis reais e quarenta centavos), em uma só parcela, na data do seu vencimento, ou seja, em 25/06/2012. Os encargos incidentes em caso de inadimplemento também estão previstos no título (fls. 20/25 do id 9974214).
+Nota-se, portanto, que o valor de base, sobre o qual foram acrescidos juros remuneratórios, juros moratórios e multa contratual, e no qual foi realizada correção monetária, a partir da data do vencimento, é exatamente o valor do débito inscrito no título, sem nenhum acréscimo. É esse o valor que deveria ser pago em caso de inadimplemento, razão pela qual é esse o valor de base da execução. No mais, a evolução da dívida é observada a partir da planilha de fl. 26 do id 9974214, da qual se observa a progressão mensal do valor executado.
+Dessa forma, entendo que não há vício formal no demonstrativo de débito juntado pelo banco. Aponto, nessa senda, que todas as exigências enumeradas no parágrafo único do artigo 798 do CPC foram preenchidas pela planilha que instrui a execução. Dessa forma, não há que se acolher a argumentação do recorrente de que o apelado seria carente de ação" (e-STJ fl. 1122 - grifou-se).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Por fim, no tocante à divergência jurisprudencial invocada, referente ao pagamento de verba sucumbencial, registre-se que o recurso especial fundamentado em dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido." (AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013 - grifou-se)
+"RECURSO ESPECIAL. DUPLICATAS PRESCRITAS. AÇÃO DE LOCUPLETAMENTO ILÍCITO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO VÁLIDA. RECURSO IMPROVIDO.
+(..)
+4. Para a demonstração do dissídio pretoriano, na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, são necessários a similitude fática e o cotejo analítico entre os acórdãos confrontados, circunstâncias não aferidas na espécie.
+(..)
+6. Deveras, a indicação do dispositivo tido como objeto da divergência jurisprudencial é imprescindível para a correta configuração do dissídio, nos termos do art. 105, III, "c", da Constituição Federal. Contudo, esta circunstância não se verifica na espécie, motivo pelo qual vislumbra-se a incidência da Súmula n. 284 do STF.
+7. Recurso improvido." (REsp nº 299.827/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 1/3/2011, DJe 16/3/2011)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 3% o valor dos honorários advocatícios anteriormente fixados em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do NCPC, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
