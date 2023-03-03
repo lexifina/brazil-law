@@ -1,0 +1,30 @@
+DECISÃO
+IMOBILIÁRIA E COMERCIAL PIRUCAIA LTDA. agrava em face da decisão que inadmitiu o recurso especial, por si interposto diante do acórdão exarado pelo Tribunal de Justiça do Estado de São Paulo, no curso do feito em que contende com SERGIO TADEU RODRIGUES E HERCILIA RODRIGUES, cuja ementa transcreve-se:
+GRATUIDADE DA JUSTIÇA - Pessoa Jurídica- Não comprovação da insuficiência de recursos - Indeferimento - Súmula n. 481 do STJ. AGRAVO DE INSTRUMENTO Cumprimento de Sentença Valor do aluguel pela fruição do imóvel a ser fixado com base no valor de aquisição do bem como estabelecido na sentença transitada em julgado - Coisa julgada - Honorários advocatícios devidos sobre o proveito econômico obtido pela impugnação apresentada- Inteligência do art. 85, § 2º, do CPC/2015 - Recurso desprovido.
+Opostos embargos de declaração, foram desacolhidos.
+Em suas razões, sustenta o agravante a não incidência da Súmula 07/STJ, tratando-se de revaloração da prova. Refere ser "importante revalorar as provas carreadas aos autos, notadamente, conforme declarado na sentença profirida nos autos de origem os dito documento/contrato figuravam como nulos de pleno direito, e como tal não podendo influir com base de cálculo da condeneção dos recorridos, posto que não ato nulo não gera efeitos" (sic). Aduz que, valorada equivocadamente as provas, houve o reconhecimento de fato inexistente. Indica violação aos artigos 166 e 169 do Código Civil, pois se reconheceu a validade de negócio reconhecidamente nulo, sobre o qual incide decisão transitada em julgado. Requer o provimento do recurso.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+Ao negar seguimento ao recurso especial da ora recorrente, consignou a decisão agravada (e-STJ. 94):
+Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão.
+Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial" (agravo interno nos embargos de declaração no agravo em recurso especial 1549004/MS, Relator Ministro Marco Aurélio Bellizze, in DJe de 25.06.2020).
+Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça.
+No presente agravo, a parte limita-se a reproduzir, mecanicamente, as razões do recurso especial, sem impugnar específica e concretamente os termos da decisão que negara seguimento ao recurso.
+Revelam-se insuficientes, neste contexto, para considerar como impugnação aos fundamentos da decisão agravada as alegações deduzidas pela agravante.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator MINISTRO FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.117.661/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do arts. 932, III, do CPC/2015 e do enunciado da Súmula 182/STJ.
+2. Consoante orientação do Superior Tribunal de Justiça, o agravo que visa conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC/2015 e art. 253, I, do RISTJ, ônus do qual não se desincumbiu a parte insurgente, sendo insuficientes alegações genéricas de não aplicabilidade do óbice invocado (AgInt no AREsp 1.953.597/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.996.169/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS. AGRAVO NÃO CONHECIDO.
