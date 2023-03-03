@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 186-196) opostos por SANDRA CRISTINA GUENKA DIONISIO à decisão (e-STJ fls. 180-184) que negou provimento ao seu recurso especial.
+A embargante reitera omissão quanto ao marco inicial que deveria corresponder à lesão de seu direito, consignando se aplicar à hipótese a teoria da actio nata, pois o termo inicial da prescrição seria aquele em que a recorrente tomou conhecimento da morte do pai e não o da homologação da partilha (e-STJ fl. 188).
+A embargante sustenta, em síntese, que, como herdeira, não tinha ciência inequívoca do falecimento de seu genitor e, portanto, ignorava a existência da violação a seu direito à partilha.
+Por sua vez ainda alega a imprescritibilidade do seu direito, pois conforme o art. 993, I e II, do CPC/2015, a embargante deveria ter sido chamada ao feito na qualidade de herdeira necessária, na posição de litisconsorte necessária ativa (e-STJ fl. 193).
+"(..) o v. acórdão recorrido foi omisso ao deixar de enfrentar a matéria preliminar suscitada em contrarrazões (e-STJ 448/449), a respeito da aplicação da Súmula 7/STJ.
+Na verdade, além disso, analisou o quadro fático do caso e o delimitou de maneira diversa da que fez o Egrégio Tribunal a quo, embora a GMB não tivesse fundamento o recurso especial, também, na violação ao artigo 1022 do CPC" (e-STJ fl. 539).
+Requer, ao final, a atribuição de efeitos infringentes para que o recurso especial seja provido.
+Sem impugnação aos embargos (e-STJ fl. 197).
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+O acórdão embargado não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, o recurso especial foi desprovido, com fundamentação completa, clara e coerente, consoante se colhe da fundamentação da referida decisão (e-STJ fls. 180-184).
+Não há falar em nulidade processual por ausência de citação de herdeiro necessário no inventário, que remanesce com o direito tanto de buscar o ingresso no feito, como de sobrepartilha, por meio de petição de herança, desde que respeitado o prazo prescricional para tanto, fundamento aliás não atacado pela recorrente de forma autônoma, o que atrai o teor da Súmula nº 283/STF.
+Desse modo, é intuitivo que o direito à petição de herança é prescritível contada da abertura da sucessão, aplicada a corrente objetiva acerca do princípio da actio nata, consoante se afere da mera leitura da decisão embargada, na qual não remanesce nenhuma omissão, diferentemente do que alegado nos aclaratórios.
+À luz do princípio da "saisine", a herança transmite-se no momento da abertura da sucessão (art . 1.572 do CC/1916 e 1.784 do CC/2002). Portanto, havendo eventual questionamento de alta indagação acerca da condição de herdeiro, tal matéria será remetida às instâncias ordinárias, reservando-se o respectivo quinhão até a solução do caso (arts. 1.000, parte final do parágrafo único, e 1.001 do CPC/1973 e arts. 627, § 3º, e 628, § 2º, do CPC/2015).
+Desse modo, aberta a sucessão, o herdeiro, independentemente do reconhecimento oficial de tal condição, poderá imediatamente postular seus direitos hereditários nas vias ordinárias.
+Aliás, válido mencionar excerto do voto vogal proferido pela Ministra Nancy Andrighi no EAREsp n. 1.260.418/MG, de relatoria do Ministro Antonio Carlos Ferreira, julgado na Segunda Seção (DJe de 24/11/2022), no sentido de que "se o nascimento da pretensão de petição de herança ocorre na data da abertura da sucessão, este deve ser o termo inicial do prazo prescricional a que a referida pretensão está submetida, saiba ou não o herdeiro de tal condição jurídica".
+No caso dos autos a herdeira necessária alega ter sido preterida no inventário, porém, somente se insurgiu quanto à situação supostamente lesiva após o trânsito em julgado da sentença. Ora, não se desconhece que à recorrente estava reservado o direito de propor ação de petição de herança no juízo competente, o que não ocorreu no caso concreto tempestivamente.
+Leciona Pinto Ferreira apud Arnaldo Rizzardo que:
+"Assim sendo, até a partilha, quem se julgar preterido tem legitimação ativa para reclamar a sua admissão no inventário. Depois de realizada a partilha, tal reclamação não é mais admissível, pois tanto o inventário como a partilha já estão encerrados, e somente com uma ação específica e autônoma, que é a ação de petição de herança ("petitio hereditatis"), pode a pessoa que se sentir preterida postular a sua pretensão jurídica à parte da herança" (Direito das Sucessões, 10ª Edição, Editora Forense, pág. 671).
+Segundo a jurisprudência desta Corte a prescrição para anular partilha, em que eventualmente preterido herdeiro sob a vigência do Código Civil de 1916 necessário é vintenária (REsp nº 260.079/SP, relator Ministro Fernando Gonçalves, Quarta Turma, julgado em 17/5/2005, DJ de 20/6/2005).
+Por sua vez, tanto
+"a preterição de herdeiro como a inclusão de terceiro estranho à sucessão merecem tratamento equânime, porquanto situações antagonicamente idênticas, submetendo-se à mesma regra prescricional prevista no art. 177 do Código Civil de 1916, qual seja, o prazo vintenário, vigente à época da abertura da sucessão para hipóteses de nulidade absoluta, que não convalescem" (EAREsp n. 226.991/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 10/6/2020, DJe de 1/7/2020).
+Definido o prazo prescricional cumpre ressaltar que a Segunda Seção desta Corte recentemente superou o entendimento constante do acórdão alegado como violado no recurso especial, assentando, por maioria, que o "prazo prescricional para propor ação de petição de herança conta-se da abertura da sucessão, aplicada a corrente objetiva acerca do princípio da actio nata (arts. 177 do CC/1916 e 189 do CC/2002).
+No caso concreto colhe-se do acórdão recorrido que:
+"(..) a pretensão da requerente está prescrita, pois o prazo prescricional aplicável no caso concreto é o de vinte anos previsto no artigo 177 do CC/1916, contado a partir da homologação da partilha em 09/05/1988, consumando-se em 09/05/2008, alguns anos antes da propositura da ação em 19/12/2013" (e-STJ fl. 142).
+Desse modo, o acórdão recorrido se amolda à jurisprudência dominante do Superior Tribunal de Justiça.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
