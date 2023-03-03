@@ -1,0 +1,19 @@
+DECISÃO
+CAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S/A agrava em face da decisão que inadmitiu o recurso especial, por si interposto diante do acórdão exarado pelo Tribunal de Justiça do Estado de Goiás, no curso do feito em que contende com MARCIO LEANDRO DE OLIVEIRA, cuja ementa transcreve-se:
+DUPLO APELO. AÇÃO DE COBRANÇA DO SEGURODPVAT. PERDA FUNCIONAL PARCIAL INCOMPLETA DOSMEMBROS SUPERIORES. SÚMULA 474 DO STJ. VALOR DAINDENIZAÇÃO. PARÂMETRO. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. I. Diante da constatação de perda funcional parcial e incompleta em cada um dos membros superiores do acidentado, o cômputo do valor da indenização deverá observar a rubrica "danos corporais segmentares (parciais)" da tabela SUSEP, sem prejuízo à redução proporcional prevista no art. 3º, II, da Lei6.194/74 e Súmula 474 do STJ. II. É adequada a utilização do INPC como índice de correção monetária, por ser o que melhor reflete a desvalorização da moeda. III. Nas causas em que for irrisório o proveito econômico, o juiz fixará o valor dos honorários de sucumbência por apreciação equitativa, nos termos do artigo 85, § 8º,do Código de Processo Civil. 1ª APELAÇÃO CÍVEL CONHECIDA EPARCIALMENTE PROVIDA. 2ª APELAÇÃO CÍVEL CONHECIDA EDESPROVIDA NA FORMA DO ART. 932 DO CPC.
+Em suas razões, sustenta o agravante violação ao artigo 3º, §1º, II da lei 6.194/74 devendo a indenização obedecer à proporcionalidade da invalidez constatada, inerente ao Seguro DPVAT. Aduz que no caso dos autos apurou-se através de perícia que a invalidez não é completa, mas com grau de repercussão em 25%, aplicando-se, portanto, o disposto no inciso II do artigo 3º da referida Lei, de maneira que o percentual correspondente à perda da repercussão funcional sofrida pela vítima será calculado sobre a importância anteriormente encontrada: R$13.500,00 (treze mil e quinhentos reais) x 25% = R$3.375,00 (três mil e trezentos e setenta e cinco reais. Defende que quantia de R$3.375,00 (três mil e trezentos e setenta e cinco reais) foi suficiente, consoante a conclusão apresentada pelo Perito, não havendo, portanto, que se falar em qualquer complementação de valores. Objeta a inaplicabilidade da Súmula 07/STJ. Requer o provimento do recurso.
+Foram apresentadas contrarrrazões.
+É o relatório.
+Decido.
+Conheço do agravo, pois preenchidos os pressupostos de admissibilidade, e passo ao exame do recurso especial.
+O acórdão, ao enfrentar a questão acerca do grau de invalidez da parte autora, decorrente do acidente de trânsito, e os respectivos reflexos pecuniários, assim decidiu (e-STJ fl. 496):
+À guisa dessa constatação, não está a merecer reparo a sentença recorrida, haja vista que, corretamente, utilizou como parâmetro para o cálculo da indenização a rubrica "danos corporais segmentares (parciais)" da tabela da SUSEP.
+Infirmar esta conclusão, ao efeito de aferir o correto enquadramento do grau de invalidez previsto na Tabela anexa à lei de regência, com base na prova pericial produzida, para com isto alterar o exato valor a ser dispendido a título de complementação de cobertura securitária, pressuporia o revolvimento do contexto fático-probatório dos autos.
+Tal providência, contudo, é vedada a esta instância excepcional, a teor da Súmula 07/STJ.
+Não prospera, portanto, a irresignação recursal.
+Ante o exposto, conheço do agravo para NÃO CONHECER do recurso especial.
+Majoram-se em adicionais R$ 1.000,00 os honorários advocatícios fixados em prol do advogado da parte recorrida, forte no art. 85, §11º do CPC.
+Advirto que a oposição de incidentes protelatório ensejará a aplicação de multa.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO. DPVAT. ALTERAÇÃO DO ENQUADRAMENTO DA LESÃO REALIZADO NA ORIGEM. IMPOSSIBILIDADE. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 07/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
