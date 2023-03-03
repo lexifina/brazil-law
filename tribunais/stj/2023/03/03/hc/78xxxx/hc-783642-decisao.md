@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CESAR PEREIRA MEIRELLES contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado às penas de 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial aberto, e 11 (onze) dias-multa, como incurso na sanção do art. 102 da Lei nº 10.741/2003 (fls. 518-530).
+Irresignada, a defesa interpôs recurso de apelação perante o eg. Tribunal a quo, que negou provimento ao apelo defensivo, em v. acórdão assim ementado:
+"APELAÇÃO CRIMINAL - APROPRIAÇÃO INDÉBITA CONTRA IDOSO (Art. 102 da Lei nº 10.741/2003 -Estatuto do Idoso) - Absolvição  Impossibilidade  Materialidade delitiva, autoria e dolo devidamente comprovados  Idoso com plena capacidade de discernimento, podendo dispor de seu dinheiro como melhor lhe conviesse  Condenação mantida  Pena corporal bem dosada e substituída  Regime inicial aberto que não cede margem para abrandamento  Recurso desprovido." (fl. 532).
+Daí o presente mandamus, no qual o impetrante alega, em síntese, a ocorrência de constrangimento ilegal, consubstanciado na condenação do paciente, por entender ausente o dolo e a tipicidade da conduta.
+Assevera, nesse sentido, que " ..  com base nos elementos de prova produzidos nos autos, não há como comprovar que houve por parte do paciente a inversão do animus com relação a rés. Desde o início Sebastião tinha ciência sobre a destinação dos valores obtidos com a venda do apartamento, caso contrário não teria assinado, por mais de uma vez, a procuração que outorga amplos poderes ao César." (fl. 11).
+Requer, ao final, a concessão da ordem, para "que seja reconhecida a atipicidade da conduta imputada ao paciente e que, consequentemente, seja absolvido pela prática do crime previsto no artigo 102, da Lei nº 10.741/03" (fl. 11).
+As informações foram prestadas às fls. 514-542 e às fls. 548-549.
+O Ministério Público Federal, às fls. 551-552, manifestou-se pelo não conhecimento do writ, ou pela denegação da ordem, em parecer ementado nos seguintes termos:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS. APROPRIAÇÃO INDÉBITA CONTRA IDOSO. LEI Nº 10.741/2003. ACÓRDÃO CONDENATÓRIO. PEDIDO DE ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA. IMPOSSIBILIDADE PARECER PELA DENEGAÇÃO DA ORDEM." (fls. 551-552).
+É o relatório.
+Decido.
+O impetrante alega, em síntese, a ocorrência de constrangimento ilegal, consubstanciado na condenação do paciente, por entender ausente o dolo e a tipicidade da conduta.
+Assevera, nesse sentido, que " ..  com base nos elementos de prova produzidos nos autos, não há como comprovar que houve por parte do paciente a inversão do animus com relação a rés. Desde o início Sebastião tinha ciência sobre a destinação dos valores obtidos com a venda do apartamento, caso contrário não teria assinado, por mais de uma vez, a procuração que outorga amplos poderes ao César." (fl. 11).
+In casu, consoante informações prestadas pelo eg. Tribunal de origem às fls. 514-542, a defesa do paciente interpôs recurso especial que está em processamento na origem, in verbis:"Neste Tribunal, a Quarta Câmara de Direito Criminal, em julgamento virtual finalizado aos 25 de maio transato, sem discrepância de votos, negou provimento ao apelo. Intimados, os patronos ingressaram com recurso especial, o qual está em processamento." (fl. 514, grifei)
+Nesse diapasão, inviável a análise do presente writ, em razão do entendimento firmado nesta Corte Superior no sentido de que "não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade" (AgRg no HC n. 549.368/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019).
+Ante o exposto, não conheço do presente habeas corpus .
+P. e I.
