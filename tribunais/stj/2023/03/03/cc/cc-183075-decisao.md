@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, sendo suscitantes COLÉGIO OLIMPO S/A - RECUPERAÇÃO JUDICIAL, COLEGIO OLIMPO LTDA. - EM RECUPERAÇÃO JUDICIAL, CONCEPTU SERVIÇOS EDUCACIONAIS LTDA. - EM RECUPERAÇÃO JUDICIAL, EDUCANDARIO SOL NASCENTE S/S LTDA. - EM RECUPERAÇÃO JUDICIAL, EDITORA OPIRUS LTDA. - EM RECUPERAÇÃO JUDICIAL, CANTINA ASA SUL LTDA. - EM RECUPERAÇÃO JUDICIAL, CANTINA MARISTA LTDA. - EM RECUPERAÇÃO JUDICIAL e EDUCANDARIO SOL NASCENTE LTDA. - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE GOIÂNIA - GO e o JUÍZO DA 5ª VARA DO TRABALHO DE GOIÂNIA - GO.
+As suscitantes esclarecem que se encontram em recuperação judicial nos autos do processo nº 0452938.97.2015.8.09.0051, em trâmite no JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE GOIÂNIA - GO.
+Argumentam que, apesar de a decisão que deferiu o processamento da recuperação judicial (datada de 5/2/2016) ter determinado a suspensão de todas as ações promovidas em seu desfavor, bem como ter esclarecido a necessidade de os credores habilitarem seus créditos, sob pena de burla ao princípio da equidade entre os credores, as suscitantes vêm sendo submetidas a inúmeras execuções na esfera trabalhista.
+Aduzem que vêm realizando, na forma estabelecida no plano de recuperação judicial homologado, o pagamento dos créditos apurados em ações trabalhistas que já possuíam cálculos líquidos, mas quando comprovam a quitação das dívidas junto aos juízos laborais ora suscitados, estes estão negando o pedido de perda do objeto das execuções.
+Afirmam que o Juízo da Recuperação Judicial já proferiu decisão informando o integral cumprimento do Plano de Recuperação Judicial em relação aos credores trabalhistas.
+Alegam que, indevidamente, tem sido dado prosseguimento às execuções mediante seu redirecionamento aos sócios e às empresas constantes dos polos passivos, não abrangidas pela recuperação.
+Defendem que é imperiosa a concentração no Juízo recuperacional de todas as decisões acerca do patrimônio das recuperandas, para que não haja prejuízo ao plano de recuperação judicial, bem como para que seja respeitado o princípio da isonomia dos credores.
+Requerem, assim, a suspensão dos atos praticados pelo Juízo trabalhista ora suscitado e, ao final, o conhecimento do conflito com a declaração definitiva da competência do Juízo recuperacional para tratar de atos que envolvam o patrimônio das empresas recuperandas, inclusive para reconhecer o cumprimento da obrigação com a comprovação do pagamento dos créditos por meio da juntada dos boletins de emissão e subscrição de ações.
+O pedido de liminar foi deferido às fls. 1.106/1.109 (e-STJ).
+Às fls. 1.114/1.122 e 1.124/1.126 (e-STJ), foram prestadas as informações pelo Juízo recuperacional.
+O Ministério Público Federal, em seu parecer de fls. 1.128/1.131 (e-STJ), opinou pelo não conhecimento do conflito de competência.
+É o relatório.
+DECIDO.
+O conflito de competência não se encontra devidamente configurado.
+Dos elementos constantes dos autos se observa que o Juízo laboral entendeu que
+"(..) esclareço que não estão sendo realizados atos de constrição em face das empresas em recuperação judicial.
+Registro, por oportuno, que nos autos principais (0010692-61.2016.5.18.0005) os valores executados foram considerados quitados por este Juízo, declarando-se extinta a execução, estando os autos aguardando julgamento de agravo de petição interposto pelo Exequente. " (fl. 1.125 e-STJ).
+Nesse contexto, não se encontra devidamente caracterizado conflito de competência, haja vista que a jurisprudência desta Corte consolidou-se no sentido de que, a teor do que dispõe a Súmula nº 408/STJ, "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+Nesse sentido:
+"PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELA JUSTIÇA DO TRABALHO. CONSTRIÇÃO DE BENS DOS SÓCIOS. NÃO CONFIGURAÇÃO DE CONFLITO.
+1. A desconsideração da personalidade jurídica ou o reconhecimento da existência de grupo econômico não é de competência exclusiva do Juízo que processa a recuperação judicial.
+2. Não se configura conflito de competência quando constrito bem de sócio da empresa em recuperação judicial, à qual, na Justiça do Trabalho, foi aplicada tal providência. Isso porque, em princípio, salvo decisão do Juízo da recuperação em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial. Precedentes.
+3. Atuando as autoridades judiciárias no âmbito de sua competência, não se configura conflito positivo.
+4. Conflito de competência não conhecido" (CC 124.065/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 3/11/2016).
+"CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - REDIRECIONAMENTO DA EXECUÇÃO - RECONHECIMENTO PELA JUSTIÇA DO TRABALHO DE EXISTÊNCIA DE GRUPO ECONÔMICO - INCIDÊNCIA DA SÚMULA 480 DO STJ - INCIDENTE UTILIZADO COMO SUCEDÂNEO DE RECURSO - INOCORRÊNCIA DE INVASÃO DE COMPETÊNCIA.
+1. Não há conflito de competência quando o redirecionamento da execução trabalhista para empresas do mesmo grupo econômico não atingir o patrimônio daquela em regime de recuperação judicial. Aplicação da Súmula 408 do STJ.
+2. Nestes termos, o presente incidente processual não é sucedâneo de recurso para reverter a decisão da justiça especializada que, em sede de exceção de pré-executividade, reconheceu a existência de responsabilidade solidária entre sociedades coligadas. Precedentes da Segunda Seção.
+3. Conflito de competência não conhecido" (CC 145.428/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 8/6/2016, DJe 17/6/2016).
+"PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO FALIMENTAR E JUÍZO TRABALHISTA. DECRETAÇÃO DA FALÊNCIA. EXECUÇÃO DE CRÉDITO TRABALHISTA EM FACE DA MASSA FALIDA. INCLUSÃO DO SÓCIO SUSCITANTE NO POLO PASSIVO DA EXECUÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL APENAS EM RELAÇÃO AOS ATOS CONSTRITIVOS REFERENTES AOS BENS DA FALIDA. CONFLITO PARCIALMENTE CONHECIDO.
+1. Uma vez deferido o processamento da recuperação judicial ou decretada a falência, ao Juízo laboral compete tão somente a análise da matéria referente à relação de trabalho, vedada a alienação ou disponibilização do ativo.
+2. Porém, se a execução trabalhista, movida em face da empresa que teve a falência decretada, foi redirecionada para atingir bens dos sócios, não há conflito de competência entre a Justiça especializada e o Juízo falimentar, portanto não justifica o envio dos autos ao Juízo universal, pois o patrimônio da empresa falida continuará livre de constrição. Precedentes.
+3. Ademais, considerando que os recursos a serem utilizados para satisfação do crédito trabalhista não desfalcarão o patrimônio da massa falida, não há falar em burla à ordem de pagamento dos credores na falência. (AgRg no CC 109256/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/04/2010, DJe 23/04/2010).
+4. A situação é diferente quando o Juízo universal da recuperação também decreta a desconsideração, relativamente aos mesmos bens e pessoas, ainda que posteriormente, única exceção capaz de limitar a aplicação da disregard doctrine aos sócios de empresas integrantes de conglomerados econômicos pela Justiça trabalhista.
+5. Conflito parcialmente conhecido para declarar competente o Juízo da 2ª Vara Empresarial de Belo Horizonte/MG, apenas no que diz respeito aos atos constritivos dos bens da Massa Falida, nas ações de execução em debate" (CC 125.589/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, ju lgado em 25/9/2013, DJe 14/10/2013).
+Registre-se que quaisquer discussões acerca da comprovação do pagamento da dívida trabalhista ou até acerca da desconsideração da personalidade jurídica devem se limitar às vias ordinárias, não se prestando o conflito de competência, para tanto, pois não serve de sucedâneo recursal.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
+Intimem-se.
+Oficiem-se.
