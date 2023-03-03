@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL 1- ITAÚ UNIBANCO- AÇÃO REVISIONAL DECONTRATO DE CONTA CORRENTE C/C EXIBIÇÃO DE DOCUMENTOS - SENTENÇA DE PARCIAL PROCEDÊNCIA -PRELIMINAR DE INAPLICABILIDADE DA LEGISLAÇÃO CONSUMERISTA - NÃO CONHECIMENTO - PARTES QUE NÃO SE INSURGIRAM NO MOMENTO OPORTUNO EM FACE DA DECISÃO SANEADORA DO FEITO - PRECLUSÃO LÓGICA - INTELIGÊNCIADO ARTIGO 507, DO CPC - MÉRITO -JUROS REMUNERATÓRIOS- AUSÊNCIA DE PREVISÃO EXPRESSA NOS CONTRATOS NÃODISCRIMINADOS NA SENTENÇA - APLICAÇÃO DA TAXA MÉDIADE MERCADO DIVULGADA PELO BACEN, SALVO SE A TAXACOBRADA FOR MAIS VANTAJOSA AO CONSUMIDOR - SÚMULA 530 DO SUPERIOR TRIBUNAL DE JUSTIÇA - CAPITALIZAÇÃO DEJUROS - AUSÊNCIA DE DEMONSTRAÇÃO DE PRÉVIA PACTUAÇÃO NOS CONTRATOS NÃO DESCRITOS NO -DECISUM MANUTENÇÃO DA EXTIRPAÇÃO DA COBRANÇA -PRECEDENTES - TAXAS E TARIFAS - IMPOSSIBILIDADE DE COBRANÇA - AUSÊNCIA DE PREVISÃO CONTRATUAL E AUTORIZAÇÃO DO CORRENTISTA - RESSALVA QUANTO AOS LANÇAMENTOS QUE REVERTERAM EM PROVEITO DO PRÓPRIO CORRENTISTA - ARTIGO 354 DO CÓDIGO CIVIL - REGRA DE IMPUTAÇÃO AO PAGAMENTO - AUSÊNCIA DE INTERESSE RECURSAL - APLICAÇÃO DETERMINADA NA SENTENÇA -TAXA SELIC - DESCABIMENTO - REPETIÇÃO DO INDÉBITO -FORMA SIMPLES - APURAÇÃO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA (ARTIGO 509, DO CPC) - SENTENÇA ESCORREITA - APELAÇÃO CÍVEL 2- AUTO POSTO BRAMBILA LTDA. E OUTROS - ALEGAÇÃO DE OMISSÃO QUANTO À FALTA DEDEMONSTRAÇÃO EFETIVA DA LIBERAÇÃO DO CRÉDITO EM CONTA CORRENTE - INOCORRÊNCIA - EXTRATOS JUNTADOS PELO BANCO QUE DEMONSTRAM A ORIGEM DA DÍVIDA E SUA EXIGIBILIDADE - DEMAIS QUESTÕES ANALISADAS CONJUNTAMENTE - SENTENÇA MANTIDA - HONORÁRIOS ADVOCATÍCIOS RECURSAIS MAJORADOS - INTELIGÊNCIA DOARTIGO 85, § 11, DO CPC - RECURSO DE APELAÇÃO CÍVEL 1 PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO PROVIDO. RECURSO DE APELAÇÃO CÍVEL 2 CONHECIDO E NÃO PROVIDO." (fls. 5.294/5.295 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+O recorrente alega violação do art. 1.022, II, do Código de Processo Civil. Sustenta negativa de prestação jurisdicional por ter o Tribunal de origem deixado de examinar "uma premissa fundamental, qual seja -há evidente previsão expressa de cláusula de renovação automática das avenças" (fl. 5.395 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à cláusula de renovação automática das avenças, conforme se verifica do seguinte trecho do acórdão proferido no acórdão:
+"o Colegiado entendeu que a ausência de juntada do efetivo contrato celebrado entre as partes não possibilitou a aferição da real taxa de juros pactuada.
+Assim, ante a ausência de contratação expressa, os juros remuneratórios deveriam incidir de acordo coma taxa média de mercado apurada pelo Banco Central do Brasil - Bacen, para operações da mesma espécie (cheque especial/conta corrente).
+Aliás, convém destacar que para as ações desprovidas do instrumento contratual ou que seja impossível a comprovação da taxa de juros efetivamente contratada por ausência de pactuação, o Superior Tribunal de Justiça editou a Súmula nº 530,
+(..)
+Em relação à alegação de que a cláusula de renovação automática autorizaria a capitalização dos juros, melhor sorte não lhe advém.
+Porque conforme entendimento sedimentado pelo Superior Tribunal de Justiça, é possível a capitalização, em período inferior a um ano, de juros havendo expressa previsão contratual e, desde que o contrato, data de edição da Medida Provisória nº 1.963-17/2000, que bancário tenha sido firmado após 31.02.2000 fora reeditada como Medida Provisória nº 2.170-36/2001.
+No caso em comento, os contratos revisados são posteriores a março de 2000, portanto, após a reedição da Medida Provisória nº 2.170-36/2001, de modo que somente seria possível a cobrança de juros capitalizados se houvesse expressa previsão contratual, situação que não ocorreu, eis que a instituição bancária não trouxe aos autos instrumentos contratuais hábeis a aferir se houve ou não a expressa pactuação da capitalização dos juros" (fls. 5.362/5.363 e-STJ).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. MANIFESTO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+2. A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+3. Embargos de Declaração rejeitados."
+(EDcl no AgRg no AREsp 840.702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Em observância ao art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) a verba honorária atribuída aos recorrentes, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
