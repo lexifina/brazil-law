@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADRIELE MELAINE ARVELINO ou ADRIELE MELAINE AVELINO ou ADRIELE MALAINE AVELINO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução Penal n. 9000100-16.2022.8.26.0037.
+Consta dos autos que, em 05/07/2022, o Juízo das Execuções Penais indeferiu o pedido de progressão de regime formulado pelo Paciente (fls. 26-29).
+Irresignada, a Apenada interpôs agravo de execução, o qual foi desprovido pelo Tribunal estadual (fls. 96-114).
+Neste writ, a Parte Impetrante aduz a ilegalidade da Resolução SAP n. 144/2010, que determina a somatória dos lapsos de um ano para reabilitação para cada falta grave cometida.
+Argumenta que "considerando-se a interpretação dada pela jurisprudência superior e o encerramento de tais discussões com o advento da Lei 13.964/19, a concessão da benesse pleiteada é medida que se impõe, uma vez que além do preenchimento do lapso, já houve a reabilitação do comportamento, sendo certo que a última falta disciplinar de natureza grave foi pratica há mais de 12 (doze) meses" (fl. 8).
+Aduz que o Reeducando já cumpriu o lapso temporal para a progressão de regime.
+Pleiteia, liminarmente e no mérito, a concessão da ordem a fim de que seja concedido o livramento condicional ao Paciente (fl. 9).
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020). No mesmo sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+Na espécie, o Juízo singular indeferiu o pedido de progressão de regime ao Apenado nos seguintes termos (fl. 26):
+"Com efeito, não se mostra aconselhável a concessão de progressão de regime prisional à condenada, porquanto ainda não se apresenta devidamente preparada para essa nova etapa do cumprimento de pena.
+Chega-se a essa conclusão por uma só razão, e bastante simples: a sentenciada praticou várias faltas disciplinares, não transcorrendo, ainda, o prazo necessário para a devida reabilitarão do comportamento, previsto nos arts. 89 e 90 do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo, cuja regra administrativa, dotada de razoabilidade e proporcionalidade, encontra amparo no art. 47 da Lei de Execução Penal."
+O Tribunal estadual, por sua vez, ao manter o decisum, consignou (fls. 100-110; sem grifos no original):
+"Verte-se dos autos que a agravante cumpre pena total de onze (11) anos e quatro (4) meses de reclusão, pela prática dos delitos tipificados nos artigos 33, "caput", da Lei de Drogas e art. 157, § 2., inciso II, do Código Penal, com previsão de término de cumprimento em 14.6.2025 (fls. 14/15).
+A Reeducanda registra a prática de onze (11) faltas ao longo do cumprimento de pena, sendo sete (7) de natureza grave e quatro (4) de natureza média. Obtendo-se o prazo para reabilitação das condutas em 18.2.2025 (fls. 15).
+O douto Magistrado, após analisar as particularidades do caso concreto, entendeu que, a sentenciado não preencheu o requisito subjetivo necessário para a concessão da benesse, uma vez que praticou faltas disciplinares e não cumpriu parcela temporal suficiente para demonstrar a absorção da terapêutica penal, devendo aguardar novo período para obter a benesse almejada (fls. 16/17).
+ ..
+Superada, pois, tal questão, deve-se atentar para a forma de cálculo preconizada no parágrafo único, artigo 90, da Resolução em estudo, no sentido que, com a prática de nova infração disciplinar no curso do período de reabilitação, deve-se exigir do apenado o cumprimento do tempo correspondente à soma do prazo aplicável à falta superveniente com aquele ainda não cumprido relativo à infração anterior.
+Este é o caso dos autos, o que fez com que o prazo para sua reabilitação se estendesse até 18.2.2025."
+Pois bem, quanto à Resolução SAP n. 144/2010, que instituiu o Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo, já decidiu esta Corte Superior de Justiça que "a Resolução SAP n. 144/2010 encontra-se de acordo com os ditames constitucionais e legais, não havendo que se falar em inconstitucionalidade por afronta aos princípios da reserva legal ou proporcionalidade" (AgRg no HC n. 616.729/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe DE 14/10/2020; sem grifos no original).
+No mesmo sentido, confira-se a decisão prolatada no HC n. 532.698/SP, da lavra do Ministro ANTONIO SALDANHA PALHEIRO, da qual transcrevo os seguintes trechos:
+" ..
+Como se pode ver, aos Estados compete suplementar a legislação penal da União, assim como o Poder Disciplinar também compete às autoridades administrativas estaduais, tanto que a legislação local pode criar departamento penitenciário, de forma que o governo paulista criou a Secretaria de Administração Penitenciária, a qual, por sua vez, editou a Resolução n. 144/2010.
+Com base nessa competência legal, a referida resolução da Secretaria de Administração Penitenciária disciplinou a reabilitação de faltas disciplinares da seguinte forma:
+Artigo 89 - o preso em regime fechado ou em regime semiaberto tem, no âmbito administrativo, os seguintes prazos para reabilitação do comportamento, contados a partir do cumprimento da sanção imposta:
+I- 03 (três) meses para as faltas de natureza leve;
+II- 06 (seis) meses para as faltas de natureza média;
+III- 12 (doze) meses para as faltas de natureza grave.
+Artigo 90 - o cometimento de falta disciplinar de qualquer natureza, durante o período de reabilitação, acarreta a imediata interrupção do tempo até então cumprido.
+Parágrafo único - com a prática de nova falta disciplinar, exige-se novo tempo para reabilitação que deve ser somado ao tempo estabelecido para a falta anterior, sendo detraído do total o período já cumprido.
+Enfim, o Estado, ao editar a Resolução SAP n. 144/2010, nada mais fez do que se valer da competência que lhe foi outorgada pela Constituição Federal, ante a inexistência de regulamentação específica sobre o tema."
+Assim, considerando que o Apenado praticou faltas disciplinares graves, com reabilitação prevista para fevereiro de 2025, verifico que o indeferimento da progressão de regime foi devidamente fundamentado pelas instâncias ordinárias, diante da ausência do requisito subjetivo. Exemplificativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA DE FALTAS DISCIPLINARES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte considera que a existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo.
+2. Configura-se legítimo o indeferimento da progressão de regime prisional, com base em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico do agravante, que praticou faltas disciplinares de natureza grave, consistentes em posse de entorpecente e de celular, nos ano s de 2017 e 2019.
+3. Agravo regimental improvido." (AgRg no HC 668.421/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1. ª REGIÃO), SEXTA TURMA, DJe 17/09/2021.)
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RESOLUÇÃO SAP N. 144/2010 DO ESTADO DE SÃO PAULO. LEGALIDADE. AUSÊNCIA DO REQUISITO SUBJETIVO. EXISTÊNCIA DE FALTA DISCIPLINAR NÃO REABILITADA. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA.
