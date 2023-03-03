@@ -1,0 +1,28 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por LUCAS SCHEFFER DAL PONT em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+APELAÇÃO - RECURSO ADESIVO - AÇÃO DE INDENIZAÇÃO - COMPRA E VENDA DE SEMENTES - ILEGITIMIDADE DA EMPRESA CEDENTE DO USO DA MARCA - SENTENÇA MANTIDA - CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS - RECURSO ADESIVO DA REQUERIDA EXCLUÍDA DO POLO PASSIVO PROVIDO - BAIXO VIGOR/GERMINAÇÃO - SEMENTE DE MÁ QUALIDADE - INSUFICIÊNCIA DE PROVAS - SENTENÇA MANTIDA - RECURSO DA PARTE AUTORA DESPROVIDO.
+Com a cessão do direito de uso da marca, necessário reconhecer a ilegitimidade passiva da cedente, com a extinção da ação em relação a ela e a condenação do autor nas custas processuais e honorários advocatícios, com aplicação da regra geral do art. 85, § 2º, do CPC. A responsabilidade civil para a reparação de prejuízos decorre da demonstração de que uma conduta (ou omissão) culposa do agente causou danos à vítima. Cabe a parte autora demonstrar os fatos constitutivos de seu direito (art. 373, I, CPC). Sem a prova de que as sementes de soja adquiridas não germinaram exclusivamente por causa de má qualidade do produto, incabível a pretensão de reparação de danos.
+Os embargos de declaração foram rejeitados.
+No recurso especial, aponta-se, além de dissídio jurisprudencial, ofensa aos arts. 6º, VIII, do CDC, 4º, 25, 27, 38, 39 e 65 da Lei 10.711/03, 87, §§ 1º e 2º, e 489, § 1º, do CPC, alegando que (a) apesar de ter recebido o benefício da inversão do ônus da prova ainda na fase inicial do processo, a sentença e o acórdão consideraram que o recorrente era o responsável pelo ônus da prova, independentemente da inversão do ônus da prova ainda na fase saneadora, (b) a revogação da inversão do ônus da prova é evidente nulidade, ferindo o princípio da vedação à decisão surpresa e o princípio da ampla defesa e do contraditório, e (c) caso o julgador da causa entenda pela alteração da regra, ou seja, conceder, negar ou revogar a inversão do ônus da prova após já ter decidido previamente, é necessário que fundamente a decisão e oportunize às partes a possibilidade de nova produção de provas em virtude de tal alteração, em respeito ao princípio da ampla defesa e ao princípio do contraditório.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+Como se sabe, o recurso especial possui fundamentação vinculada, com forma e conteúdo próprios, e se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa.
+Assim, exsurge deficiente a fundamentação recursal, pois o recorrente limitou-se a indicar os dispositivos supostamente violados (arts. 4º, 25, 27, 38, 39 e 65 da Lei 10.711/03, 87, §§ 1º e 2º, e 489, § 1º, do CPC), deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+Com efeito, "a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF" (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 15/09/2017).
+Quanto à apontada violação ao art. 6º, VIII, do CDC, lê-se do acórdão recorrido o seguinte:
+Por seu turno, a alegação de que o v. acórdão não observou o deferimento da inversão do ônus da prova em favor do autor, trata-se de inovação recursal. Ainda que assim não fosse, certo é que o v. acórdão examinou atentamente as provas produzidas por uma e outra parte, como consignado:
+(..)
+Realça-se, desta feita, como registrado, que a parte contrária apresentou farta documentação, não impugnada pelo autor, diga-se, que foi conclusiva para o afastamento da responsabilidade de indenização.
+A toda evidência, a questão controvertida foi apreciada, com fundamentação suficiente, não se caracterizando omissão, obscuridade ou contradição.
+Como se vê, as razões recursais não refutam o fundamento disposto (inovação recursal), atraindo o óbice do enunciado da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por outro lado, ilidir o afirmado pelas instâncias ordinárias - de que o "v. acórdão examinou atentamente as provas produzidas por uma e outra parte" -, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios devidos ao(s) advogado(s) da parte recorrida de 10% sobre o valor atualizado da causa para 11%.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA DE SEMENTES. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SIMPLES REFERÊNCIA A DISPOSITIVOS LEGAIS DESACOMPANHADA DA NECESSÁRIA ARGUMENTAÇÃO. SÚMULA 284/STF. ALEGADA INOBSERVÂNCIA DA INVE RSÃO DO ÔNUS DA PROVA. INOVAÇÃO RECURSAL. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. PRETENSÃO QUE, ADEMAIS, DEMANDARIA O REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+RECURSO ESPECIAL NÃO CONHECIDO.
