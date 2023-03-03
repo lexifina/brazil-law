@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANO MACHADO contra a decisão que inadmitiu o recurso especial.
+O recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna o acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+"ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. CONTRATOBANCÁRIO. CERCEAMENTO DE DEFESA. CAPITALIZAÇÃO. COMISSÃO DE PERMANÊNCIA. TAXA DE JUROS. MORA.1. Não há falar em cerceamento de defesa por ausência de prova pericial, haja vista que o conjunto probatório que instruiu o presente feito é suficiente para a formação da convicção do julgador.2. É legal a capitalização de juros desde que expressamente pactuada (Súmula 539 - STJ).3. A forma de incidência da comissão de permanência está sujeita aos mesmos critérios dos juros remuneratórios, sendo indevida a sua capitalização em período inferior ao anual, diante da inexistência de previsão expressa nesse sentido. Ademais, é vedada a cumulação da comissão de permanência com juros remuneratórios, moratórios, correção monetária, taxa de rentabilidade e multa convencional.4. Os bancos não estão obrigados a aplicar a taxa média de mercado, que apenas representa a média dos índices utilizados no país.5. O fato de a CEF aplicar taxa superior à média não representa necessariamente juros abusivos. Contudo, demonstrado o abuso, a descontextualização, a exorbitância das taxas aplicadas, com a aplicação de um percentual de taxa de juros excessivo em relação à taxa média de mercado, configura-se a onerosidade excessiva. 6. Uma vez demonstrada a abusividade ou ilegalidade em cláusulas referentes ao período de normalidade contratual, devem ser ser afastados amora e seus consectários.7. Apelação da parte embargante parcialmente provida e apelação da parte embargada improvida" (fl. 799).
+Os embargos de declaração opostos foram rejeitados (fl. 840).
+No especial, além de divergência jurisprudencial, o recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, § 1º, IV e 1.022 do Código de Processo Civil - por falta de fundamentação e negativa de prestação jurisdicional;
+(ii) arts. 141, 490 e 492 do CPC - ao argumento de que houve decisão citra petita;
+(iii) arts. 355, I, 370 e 396 do CPC - ao argumento de que houve cerceamento de defesa e que a dispensa da prova com julgamento antecipado da lide não pode ter por fundamento a ausência de prova, e
+(iv) art. 51, IV e § 1º, do CDC - por defender que os juros remuneratórios sejam reduzidos a taxa média de mercado.
+Sem contrarrazões (certidão de fl. 896).
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+A irresignação não merece prosperar.
+Com efeito, no que se refere à negativa de prestação jurisdicional, a simples indicação de violação dos arts. 489 e 1.022 do CPC/2015, desacompanhada da necessária fundamentação, atrai o óbice da Súmula nº 284/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO. PARTICULARIZAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF. ASTREINTE. AFASTAMENTO. POSSIBILIDADE. SÚMULA Nº 83/STJ. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A simples indicação de violação dos arts. 489 e 1.022 do CPC/2015, desacompanhada da necessária fundamentação que lhe dê respaldo, atrai o óbice da Súmula nº 284/STF.
+3. É possível o afastamento da multa diária pelo descumprimento de decisão judicial a qualquer tempo, inclusive na fase de cumprimento de sentença, quando a prestação tiver se tornado fática ou juridicamente inexigível, desnecessária ou impossível (Súmula nº 83/STJ).
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias no tocante ao afastamento da multa cominatória demandaria a análise dos fatos e das provas dos autos, o que atrai a aplicação da Súmula nº 7/STJ.
+5. Agravo interno não provido." (AgInt no AREsp 1.865.820/SC, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe 29/11/2022)
+No que concerne ao julgamento citra petita, o Tribunal de origem decidiu pelo indeferimento da exibição de documentos, visto queo recorrente não teria indicado quais seriam os contratos originários, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+Embora a parte embargante alegue que os montantes emprestados foram utilizados para saldar débitos oriundos de outros contratos com a embargada em operações "mata-mata", não indica minimamente quais seriam esses contratos originários, razão pela qual, inclusive, foi indeferida a exibição de documentos no despacho do evento 3, decisão esta que foi mantida em grau de recurso pelo e. TRF4R" (fl. 843).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Quanto ao cerceamento de defesa, extrai-se do acórdão recorrido que
+"(..) esta Turma tem consolidado o entendimento de que, nos contratos bancários, não há cerceamento de defesa face a não realização de prova pericial. Os documentos acostados aos autos são suficientes para o deslinde da questão, principalmente porque são discutidas questões de direito, há muito tempo conhecidas e examinadas pelo Poder Judiciário, o que dispensa a produção de provas para o debate" (fl. 803).
+Assim, alterar o entendimento do julgado atacado acerca da suficiência das provas e da inexistência de cerceamento de defesa demandaria o revolvimento do acervo fático-probatório dos autos, procedimento obstado no recurso especial pela Súmula nº 7/STJ.
+No que se refere aos juros remuneratórios, o Tribunal de origem fundamenta que
+"(..) deve ser respeitada a pactuação das partes quando se apresenta razoável em relação às taxas aplicáveis para as mesmas espécies de contrato. Não deve ocorrer modificação da taxa para menos simplesmente porque há outras instituições que cobram menos. Essa avaliação (da melhor taxa de juros)cabe à pessoa interessada em realizar transação bancária quando da escolha da instituição financeira" (fl. 806).
+Assim, eventual abusividade deve ser verificada no julgamento do caso concreto em função do percentual fixado pela instituição financeira, comparado às taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie, conforme decidido em precedentes desta Corte julgados sob o rito dos recursos repetitivos, o que não se verifica na espécie.
+Por fim, pela alínea "c" do permissivo constitucional, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Ademais, a falta de similitude fática entre os acórdãos paradigmas e o acórdão recorrido, caracteriza deficiência na fundamentação e atrai a incidência da Súmula nº 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois não foram fixados na origem.
+Publique-se.
+Intimem-se.
