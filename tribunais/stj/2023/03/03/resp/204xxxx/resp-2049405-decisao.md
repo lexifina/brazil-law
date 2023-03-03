@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Cível n. 5020383-14.2022.8.21.0023) nos autos de ação de busca e apreensão em contrato de financiamento de veículo com garantia de alienação fiduciária.
+O julgado foi assim ementado (fl. 92):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL INIDÔNEA. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (CÓDIGO DE PROCESSO CIVIL, ARTIGO 485, INCISO IV).
+NO CASO, A NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇO DECLINADO NO CONTRATO RESTOU FRUSTRADA, NÃO TENDO O BANCO AUTOR PROMOVIDO OUTRAS DILIGÊNCIAS PARA A COMPROVAÇÃO DA MORA. NÃO ERA CASO DE OPORTUNIZAR AO CREDOR A EMENDA À INICIAL, POIS A VÁLIDA COMPROVAÇÃO DA MORA É CONDIÇÃO DE PROCEDIBILIDADE DA AÇÃO DE BUSCA E APREENSÃO, NÃO SE ADMITINDO QUE OCORRA APÓS O AJUIZAMENTO DA DEMANDA. MANUTENÇÃO DA SENTENÇA TERMINATIVA.
+NEGADO PROVIMENTO À APELAÇÃO CÍVEL.
+Nas razões do recurso especial (fls. 100-120), a parte aponta divergência jurisprudencial e violação do art. 2º, § 2º, do Decreto Lei n. 911/1969.
+Afirma que houve a regular constituição da mora do devedor/recorrido, tendo em vista "a expedição de notificação extrajudicial corretamente endereçada ao endereço residencial indicado no contrato, a qual, mesmo após três tentativas, não pôde ser entregue", por circunstância alheia à vontade da financeira (fl. 104).
+Defende a validade da notificação extrajudicial encaminhada ao endereço indicado no momento da contratação e não entregue pelo "motivo ausente".
+Sustenta a inaplicabilidade das Súmulas n. 5 e 7 do STJ, porquanto não pretende a interpretação de cláusulas contratuais nem a discussão de questões fáticas.
+Aduz que a mora passou a existir pelo inadimplemento das prestações estabelecidas entre as partes.
+Alega que não lhe foi oportunizada a possibilidade de emenda à inicial.
+Afirma que é suficiente o envio da notificação ao endereço do devedor, sendo desnecessária a comprovação do recebimento.
+Pugna pela aplicação da teoria da expedição, segundo a qual basta a comprovação do envio da notificação extrajudicial ao endereço apontado pelo próprio devedor no contrato, sendo dispensável a sua assinatura no aviso de recebimento.
+Requer a reforma do acórdão neste ponto.
+As contrarrazões não foram apresentadas.
+Admitido o apelo extremo (fls. 138-143), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Insurge-se o recorrente contra a extinção da ação de busca e apreensão por ausência de comprovação da mora do devedor fiduciante.
+O magistrado de primeiro grau julgou extinto o feito sem resolução de mérito, nos autos da ação de busca e apreensão, por entender que "a notificação extrajudicial não foi válida, pois a carta AR foi devolvida pelo motivo "ausente"" (fls. 51 e 63).
+Interposta apelação pela recorrente, o Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao recurso, mantendo a extinção da ação de busca e apreensão com base no art. 485, IV, do Código de Processo Civil (fl. 90).
+Com efeito, para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, esta Corte firmou o entendimento de que, vencido o prazo para pagamento, a mora se configura automaticamente - mora ex re -, mas, considerando o teor da Súmula n. 72 do STJ, é imprescindível a comprovação da mora para o prosseguimento da ação de busca e apreensão.
+Nesse sentido: Nesse sentido: AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022; e AgInt no AREsp n. 876.487/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/9/2016, DJe de 26/9/2016.
+A respeito da constituição em mora do devedor nas hipóteses de alienação fiduciária, a Segunda Seção do Superior Tribunal de Justiça fixou a orientação de que a mora deve ser comprovada por meio de notificação extrajudicial expedida por cartório de títulos e documentos ou por carta registrada com aviso de recebimento e entregue no domicílio do devedor, sendo dispensada a notificação pessoal (AgInt no AREsp n. 2.119.740/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022; AgInt no REsp n. 1.978.852/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022; e AgInt no REsp n. 1.956.179/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022).
+Esta Corte também já sedimentou entendimento no sentido de que, na ação de busca e apreensão, é possível a comprovação da mora por intermédio do protesto do título por edital, desde que esgotados todos os meios de localização do devedor (AgRg no AREsp n. 818.244/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 9/8/2016, DJe de 16/8/2016; AgInt no AREsp n. 877.490/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/6/2016, DJe de 1º/7/2016; e AgRg no AREsp n. 484.535/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/3/2015, DJe de 12/3/2015).
+No caso, o Tribunal local manteve a sentença - que extinguira a ação de busca e apreensão - ao fundamento de não ter sido demonstrada a regular constituição do devedor em mora. Confira-se (fls. 89-90, destaquei).
+No presente caso, a notificação extrajudicial (evento 1, Notificação 6) foi enviada para o endereço constante no contrato - indicado pelo fiduciante quando da negociação, qual seja, Av C,144, BL H, Quinta, Rio Grande/RS. Todavia, resultaram inexitosas as três tentativas de entrega pelo motivo "ausente". Assim, não restou comprovada a mora, porquanto a notificação deixou de ser entregue no endereço declinado pelo fiduciante.
+Ante a não perfectibilização da diligência notificatória, deveria a parte autora ter exaurido os meios para a notificação do devedor, esgotando diligências pertinentes e, quiçá, promovido o protesto, mesmo com a intimação por edital. Porém, in casu, a única diligência constituiu-se da notificação extrajudicial infrutífera. Dessa forma, não foi comprovada nos autos a constituição em mora do devedor. Nesse sentido, e. g.:
+ ..
+Cumpre referir, por oportuno, que descabe a concessão de prazo para regularização da comprovação da mora. Ocorre que a notificação extrajudicial é condição de procedibilidade da ação de busca e apreensão, não se admitindo que essa ocorra após o ajuizamento. A ação judicial somente se justifica pela inércia do devedor após sua notificação acerca do débito. Logo, a notificação ou o protesto após o ajuizamento da busca e apreensão não são admitidos, pois não seria oportunizado ao devedor tempo hábil para eventual manifestação ou pagamento administrativo do atraso.
+ ..
+Sendo a comprovação da mora pressuposto de constituição e de desenvolvimento da ação de busca e apreensão (Código de Processo Civil, artigo 485, inciso IV), verificada sua inidoneidade, não é possível dar continuidade ao feito. Nada a alterar da sentença, portanto.
+Isso posto, VOTO no sentido de negar provimento à apelação.
+Assim, o entendimento adotado no acórdão recorrido está em conformidade com a jurisprudência do STJ, razão pela qual se aplica ao caso a Súmula n. 83 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
