@@ -1,0 +1,16 @@
+DECISÃO
+REGIANE RAMOS DA CRUZ SOZZA opõe embargos de declaração à decisão de fls. 179-184, pois "o novo cálculo da pena realizado com relação ao art. 99 da Lei 10.741/03 padece de evidente erro material" (fl. 189).
+Pede a correção do julgado e de seu dispositivo.
+Decido.
+Deveras, a decisão embargada padece de erro material, que passo a corrigir.
+A ré foi "condenada à pena de 2 (dois) anos, 5 (cinco) meses e 5 (cinco) dias de pena corporal, em regime aberto, e 40 (quarenta) dias-multa, por infração ao disposto nos artigos 99 e 102 da Lei nº 10.741/03, na forma dos artigos 71 e 69, ambos do Código Penal" (fl. 89).
+Ao realizar a dosimetria, em sentença mantida pelo Tribunal de origem, o Juiz assinalou (fl. 89):
+ ..  fixo as penas-base acima dos mínimos legais, no percentual de 1/4 (um quarto), somando 2 (dois) meses e 15 (quinze) dias de detenção e 12 (doze) dias-multa e 1 (um) ano e 3 (três) meses de reclusão e 12 (doze) diárias, respectivamente, tendo em vista as circunstâncias e consequências dos delitos.
+Ausentes circunstâncias atenuantes ou agravantes, bem como causas especiais de aumento ou diminuição.
+Convém observar, agora, que em razão da continuidade delitiva, os delitos requerem apenação mais rigorosa (Código Penal, artigo 71, parágrafo único). Vale dizer, aumento de 2/3 (dois terços). Assim, as sanções passam a ser de 4 (quatro) meses e 5 (cinco) dias de detenção e 20 (vinte) dias-multa e 2 (dois) anos e 1 (um) mês de reclusão, mais 20 (vinte) diárias.
+Em razão do concurso material, as penas são somadas, tornando-se definitiva em 2 (dois) anos, 5 (cinco) meses e 5 (cinco) dias de pena corporal e 40 (quarenta) dias-multa.
+Concedeu-se a ordem para que a pena-base fosse reduzida ao mínimo legal, pois "o Juiz não indicou ao jurisdicionado as razões pelas quais valorou negativamente as circunstâncias e consequências do delito" (fl. 182).
+A sanção ficou reduzida a "2 meses de detenção e 10 dias multa (art. 99, da Lei n. 10.741/2003) e 1 ano de reclusão e 10 dias-multa (art. 102, da Lei n. 10.741/2003)" (fl. 182). Ausentes circunstâncias atenuantes ou agravantes, bem como causas especiais de aumento ou diminuição, manteve-se a fração de 2/3, em face da continuidade delitiva, ponto em que ocorreu o erro de cálculo na decisão embargada.
+Assim, corrijo o vício apontado pela embargante para que, ante a aplicação do art. 71 do CP, a sanção da ré seja redimensionada para 3 meses e 10 dias de detenção e 16 dias-multa, em relação ao art. 99, da Lei n. 10.741/2003, e 1 ano e 8 meses de reclusão, mais 16 dias-multa, por incursão no art. 102, da Lei n. 10.741/2003. Ficam inalteradas as disposições sobre o concurso material entre os dois crimes, o regime inicial aberto e os demais termos da condenação.
+À vista do exposto, acolho os embargos de declaração e altero o dispositivo do habeas corpus, a fim de conceder parcialmente a ordem, apenas para reconhecer a violação do art. 59 do CP, de modo a estabelecer a pena-base no mínimo legal e reduzir a sanção da paciente para 3 meses e 10 dias de detenção e 16 dias-multa (art. 99, da Lei n. 10.741/2003) e 1 ano e 8 meses de reclusão, mais 16 dias-multa ((art. 102, da Lei n. 10.741/2003), mantidos o regime inicial aberto e o reconhecimento do concurso material entre os delitos.
+Publique-se e intimem-se.
