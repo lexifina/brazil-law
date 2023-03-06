@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Gilberto Moreira Cardozo , cuja prisão preventiva, ainda não cumprida, foi decretada em 17/3/2021, pela prática, em tese, dos crimes de homicídio qualificado e porte ilegal de arma de fogo de uso permitido.
+Ataca-se acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul no HC n. 1420809-50.2022.8.12.0000 (fls. 374/380) - que manteve a prisão preventiva do recorrente decretada nos Autos n. 0000011-91.2021.8.12.0031 (fls. 159/161), da 1ª Vara da comarca de Caarapó/MS -, assim ementado:
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - PRELIMINAR SUSCITADA PELA PGJ - REITERAÇÃO DE PEDIDOS - AÇÃO MANDAMENTAL PARCIALMENTE CONHECIDA - PREFACIAL ACOLHIDA. MÉRITO - PREVENTIVA - SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA - GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL - ORDEM DENEGADA.
+I- Não se conhece de pedidos caracterizados como mera reiteração, como análise dos requisitos autorizadores da prisão, das condições pessoais favoráveis, assim como o fato de o paciente ter cometido o crime sob o manto da legítima defesa, objetos de impetração anterior, sem indicação de novos elementos.
+II - Não caracteriza constrangimento ilegal a manutenção da segregação se a decisão que a decretou encontra-se devidamente fundamentada com base em elementos concretos que demonstram risco à garantia da ordem pública e à instrução criminal.
+III - Somente cabível a aplicação de medida cautelar diversa da prisão quando adequada à gravidade do crime, às circunstâncias do fato e às condições pessoais do paciente.
+Aduz-se ilegalidade manifesta consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, o conhecimento e o provimento do recurso, inclusive em caráter liminar, a fim de que seja revogada a prisão imposta.
+Contrarrazões aprese ntadas pelo Parquet estadual, assentando que o decreto de prisão fora mantido por decisão devidamente fundamentada nas normas legais que autorizam a segregação cautelar (fl. 429).
+É o relatório.
+Não diviso o alegado constrangimento, pois o decreto preventivo (fls. 159/161) evidenciou:
+a) requerimento do Ministério Público na denúncia (fl. 121/127), após representação da autoridade policial (fls. 115/116);
+b) prova da existência do delito e indícios suficientes de autoria (fl. 159);
+c) o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública - ressaltando a gravidade concreta do delito: um bar, acompanhado da vítima, a qual lhe conteve em uma briga, acusado gerando sua irritação e subsequente prática do homicídio narrado na denúncia, mediante disparos de arma de fogo (fls. 159/160); e
+d) o receio de perigo gerado pelo estado de liberdade do imputado à futura aplicação da lei penal - pontuando que a fuga do recorrente: o acusado, após a prática do fato, tomou rumo ignorado, visando dificultar a atuação da polícia (fl. 160) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Nesse sentido: verifica-se que prisão preventiva foi decretada mediante fundamentação idônea, com base em elementos concretos que evidenciam a gravidade concreta da conduta, homicídio qualificado por motivo torpe, com diversos disparos de arma de fogo, o que constitui base empírica idônea para a imposição da mais gravosa cautelar penal, dada a periculosidade do acusado, tendo ainda sido fundamentadas a necessidade da custódia em face da garantia da instrução criminal (foi apreendida arma de fogo em busca domiciliar), além de aplicação da lei penal, uma vez que até o presente momento ainda não havia sido cumprido o mandado de prisão temporária, em face da fuga do agravante (AgRg no RHC n. 166.576/RJ, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, julgado em 11/10/2022, DJe 19/10/2022).
+Em razão disso, nego seguimento ao presente recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. FUGA DO DISTRITO DA CULPA. GARANTIA DA FUTURA APLICAÇÃO DA LEI PENAL. FUNDAMENTOS IDÔNEOS. PRISÃO MANTIDA.
+Recurso a que se nega seguimento.
