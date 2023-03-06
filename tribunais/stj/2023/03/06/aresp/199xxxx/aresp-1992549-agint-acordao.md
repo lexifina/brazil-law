@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 705/706) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a recorrente argumenta que não se aplicaria a Súmula n. 7/STJ e reitera que seria ilegítimo o cancelamento do contrato coletivo de plano de saúde, por afronta ao art. 13, parágrafo único, II, da Lei n. 9.656/1998, ante a falta de comunicação prévia da estipulante, além da inobservância do prazo de 60 (sessenta) dias para a rescisão.
+Ao final, pede a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+A parte agravada apresentou impugnação, postulando a condenação nos ônus de sucumbência em sede de agravo interno (e-STJ fls. 711/716).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. CANCELAMENTO. INADIMPLEMENTO DA ESTIPULANTE. CIÊNCIA PRÉVIA DA ESTIPULANTE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. ART. 13, § 2º, LEI N. 9.656/1998. NÃO INCIDÊNCIA. DECISÃO MANTIDA.
+1. "O art. 13, parágrafo único, II, da Lei n. 9.656/98, que veda a resilição unilateral dos contratos de plano de saúde, não se aplica às modalidades coletivas, tendo incidência apenas nas espécies individuais ou familiares" (REsp n. 1.346.495/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/6/2019, DJe de 2/8/2019).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. O Tribunal de origem entendeu que seria válida a rescisão contratual, pois teria sido demonstrada a ciência da estipulante sobre os atrasos no pagamento das mensalidades por período superior ao exigido pela norma que autoriza o cancelamento (60 - sessenta dias).
+4. Para alterar a conclusão do Tribunal de origem e acolher os argumentos da ora agravante, a fim de entender pela inexistência da ciência prévia, bem como pela ausência de inadimplemento pelo prazo exigido em lei para fins de cancelamento, seria necessário o reexame dos fatos e das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 702/703):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ.
+O acórdão impugnado apresenta a seguinte ementa (e-STJ fl. 529):
+APELAÇÕES CÍVEIS RECIPROCAS. Contrato de plano de saúde coletivo empresarial. Cancelamento em decorrência da inadimplência pela estipulante do plano, durante vários meses. Possibilidade de cancelamento que é expressamente prevista pelo parágrafo único, do artigo 13, da Lei n. 9.656/1998. Autora que alega, em síntese, ter sido ilegítimo o cancelamento, tendo em vista que não teria recebido a notificação prévia exigida pela norma. Ré que traz aos autos a carta enviada à autora, simplesmente não apresentando o aviso de recebimento que comprovaria sua entrega efetiva. Autora que deixa claro que estava ciente, a todo tempo, de sua inadimplência, sendo de se destacar, ainda, que não se trata de consumidor pessoa física, mas sim de pessoa jurídica empresária, plenamente conhecedora das consequências de sua impontualidade. Autora que, além disso, entrou em contato com a operadora do plano reconhecendo sua mora e solicitando a emissão de boletos atualizados para purgá-la, mas que apenas pagou tais boletos após o prazo fatal informado pela operadora para o cancelamento do plano. Circunstâncias que permitem considerar suprida a função da notificação prévia, ainda que não haja prova cabal de sua entrega efetiva à autora. Cancelamento que, portanto, se considera legítimo. Pretensão indenizatória por danos morais prejudicada. Sentença que se reforma, no sentido da improcedência dos pedidos autorais. RECURSO DA RÉ PROVIDO. RECURSO DA AUTORA PREJUDICADO.
+Os embargos de declaração não foram rejeitados (e-STJ fls. 576/582).
+Nas razões do recurso especial (e-STJ fls. 584/598), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, em síntese, afronta aos arts. 4º, I, 51, IV, XI e XV, do CDC, 13 da Lei n. 9.656/1998, 402, 884 e 927 do CC/2002, 489, § 1º, IV e VI, do CPC/2015, sob fundamento de que seu plano de saúde foi indevidamente extinto pela operadora, ante a falta de pagamento das mensalidades, pois não teria havido prévia notificação válida da pessoa jurídica consumidora, sendo abusiva a cláusula contratual que permite o rompimento automático do plano.
+Aponta também violação da Súmula n. 98/STJ, pois não teria oposto embargos declaratórios na origem com intuito protelatório.
+No agravo (e-STJ fls. 669/672), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inicialmente, nos termos do Enunciado Sumular n. 518 do STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (SÚMULA 518, CORTE ESPECIAL, julgado em 26/02/2015, DJe 02/03/2015).
+O Tribunal de origem reconheceu que a rescisão do contrato foi legítima, pois a parte beneficiária do plano teria ciência quanto ao atraso no pagamento das mensalidades (e-STJ fls. 530/532).
+A alteração do entendimento da Corte a quo, a fim de reconhecer, no caso, a inexistência de prévia notificação válida da parte beneficiária, exigiria o reexame dos fatos e das provas autos, medida incabível em recurso especial, nos termos da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+No recurso especial, a parte requerente argumenta que "foi surpreendida pela informação de que o seu plano de saúde empresarial estaria cancelado por falta de pagamento, sendo certo que, em momento algum, isto foi passado à Empresa Recorrente, seja mediante ligação/notificação/sistema" (e-STJ fl. 586).
+Afirma também que "o plano empresarial foi inicialmente suspenso com apenas 10 (dez) dias de atraso no pagamento, ou seja, a recorrida sequer cumpriu o taxativamente o imposto no art. 13, parágrafo único, inciso II, da Lei 9.656/1998 (Lei dos Planos e Seguros Privados), onde se disserta sobre o prazo de 60 (sessenta) dias para suspensão e/ou cancelamento, desde que cientificado o consumidor" (e-STJ fl. 587).
+Entretanto o Tribunal de origem rechaçou essa argumentação, com base nos fatos e nas provas dos autos, nos seguintes termos (e-STJ fl. 531):
+No caso em tela, está em discussão, essencialmente, a notificação prévia da estipulante do plano acerca da inadimplência e do possível cancelamento, conforme exige expressamente o art. 13 da Lei n. 9.656/1998, acima transcrito.
+A parte autora afirma que jamais recebeu notificação e que, por isso, seria ilegítimo o cancelamento; no entanto, ela própria afirma que tinha plena ciência de sua inadimplência e que entrou em contato espontaneamente com a operadora do plano para buscar purgar sua mora, o que demonstra que, a rigor, a única função decorrente da notificação, que é a de cientificação do interessado, foi suprida.
+Além disso, a AMIL traz aos autos a carta que enviou à parte autora comunicando-a acerca da inadimplência e indicando os meses em relação aos quais estava em mora (índex 252);  ..
+Nesse contexto, concluiu que "Não há razão, portanto, para reputar ilegítimo o cancelamento, ante a inadimplência da parte autora, amplamente documentada nos autos, por período superior ao exigido pela norma que autoriza o cancelamento, e tendo em vista que a função da notificação prévia foi sabidamente suprida no presente caso" (e-STJ fl. 532).
+Conforme explicitado na decisão embargada, o recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+Para alterar a conclusão do Tribunal de origem e acolher os argumentos da ora agravante, a fim de entender pela inexistência de sua ciência prévia e do inadimplemento de 60 (sessenta) dias, seria necessário o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+Acrescente-se que "O art. 13, parágrafo único, II, da Lei n. 9.656/98, que veda a resilição unilateral dos contratos de plano de saúde, não se aplica às modalidades coletivas, tendo incidência apenas nas espécies individuais ou familiares" (REsp n. 1.346.495/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/6/2019, DJe de 2/8/2019).
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Por fim, indefiro o pedido da parte ora agravada, de majoração dos honorários em sede de agravo interno, por não ter havido alteração do grau recursal.
+É como voto.
