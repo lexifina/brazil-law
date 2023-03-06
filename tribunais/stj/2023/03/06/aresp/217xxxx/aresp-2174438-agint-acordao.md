@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo de decisão que conheceu em parte do agravo e, na parte conhecida, negou provimento ao recurso especial interposto por UNIÃO TRANSPORTE INTERESTADUAL DE LUXO S.A. - UTIL, conforme a seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. DEBATE SOBRE DISPOSITIVOS DE RESOLUÇÃO ANTT. NÃO CABIMENTO. PROCESSO ADMINISTRATIVO. VÍCIOS. AUSÊNCIA DE MOTIVAÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante insurge-se contra o óbice da Súmula n. 7/STJ, aduzindo a desnecessidade do reexame de matéria fática,
+Alega ter havido ofensa aos arts. 489 e 1.022 do CPC/2015, por omissão não sanada pelo Tribunal de origem, insurgindo-se contra a incidência da Súmula n. 284/STF.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. ALEGAÇÃO GENÉRICA DE OMISSÃO. AUSÊNCIA DE MOTIVAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Relativamente à alegada violação ao art. 1.022 do CPC/2015, sem razão o recorrente. É que a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que o não cumprimento das obrigações fixadas na sentença não se limitou à falta de operacionalização do Poder Público, diante da alteração da lei, mas, também, de inércia do próprio recorrente.
+2. Incabível a rediscussão de questões que envolvam dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido quanto à motivação do acórdão recorrido no que se refere ao reconhecimento da infração cometida e da multa imposta. Incidência do enunciado da Súmula 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): A insurgência não prospera.
+Com efeito, inafas tável a incidência da Súmula n. 284/STF, diante da deficiência do recurso especial.
+De início, quanto à alegada ofensa ao art. 1.022 do CPC/2015, a despeito da indicação de inciso e da alegação de negativa de prestação jurisdicional, não se verifica a adequada e conclusiva a argumentação do recurso especial sobre os supostos vícios do acórdão recorrido.
+Quanto ao mais, a Corte de origem realizou juízo de natureza fática para reconhecer a responsabilidade da agravante e sobre a exigência da multa imposta .
+Nesse contexto, o exame da pretensão dos agravantes demandaria novo juízo de matéria fática, o que não é cabível na presente via. Como a parte agravante não trouxe argumentos suficientes para infirmar os fundamentos da decisão agravada, o seu teor deve ser reiterado:
+Sobre a suposta ausência de motivação e da existência de vícios no processo administrativo, o Tribunal de origem assim se manifestou (e-STJ, fls. 458/461):
+Vê-se que é a própria lei que estabelece o poder de polícia da ANTT sobre o setor de transporte terrestres, e o poder da autarquia de editar as normas pertinentes, promover as medidas fiscalizadoras no âmbito administrativo e aplicar as penalidades pelas infrações cometidas.
+A própria lei, também, prevê a multa. As multas executadas na referida CDA são oriundas de autos de infração, lavrados pela exequente, em desfavor da embargante, pelo cometimento de diversas condutas infratoras, relacionadas ao transporte rodoviário-interestadual de passageiros, inscritas na Resolução ANTT nº 3.075/2009 (Regulamenta a imposição de penalidades, por parte da ANTT, referentes ao serviço de transporte rodoviário, interestadual e internacional, de passageiros, operado em regime de autorização especial), cujo fundamento de validade são os arts. 24, inciso XVIII e 78-A, II, todos da Lei nº 10.233/2001.
+(..)
+Também não merece acolhimento o argumento de que a Resolução ANTT nºs 3.075/2009 seria inquinada de inconstitucionalidade, por desrespeito aos princípios da individualização das condutas sancionadoras e da proporcionalidade, ante a previsão de valores fixos a título de multa, na hipótese de sanções por infrações às normas em referência.
+Tal se dá, porque o art. 78-F, caput e § 1º, da Lei nº 10.233/2001, expressamente prevê a imposição de multa, isolada ou em conjunto com outra sanção, com atribuição à Diretoria da ANTT de proceder à aprovação de regulamento, para a estipulação do valor das multas, respeitando-se o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sanção, classificando-a em grupos, consoante a natureza das infrações passíveis de aplicação de multa, competindo ao administrador, no exercício da sua discricionariedade, valorar a gravidade das infrações no caso concreto.
+Rejeita-se, igualmente, a alegada violação aos postulados da proporcionalidade e da razoabilidade na aplicabilidade das multas na espécie, ante a alegada falta de previsão de modulações nos valores das multas, em consonância com as circunstâncias do caso concreto, porquanto, na fixação de tais importâncias, observou-se os parâmetros mínimo e máximo dispostos na legislação de regência da matéria  Lei nº 10.233/2001 - art. 78-A e Resolução ANTT nº 3.075/2009 , ressaltando-se que, no caso, a aplicação das multas em questão nem mesmo foi objeto de juízo discricionário pela Administração Pública, dado que os mencionados preceitos normativos afastam tal possibilidade.
+Ademais, na incidência das multas, deve-se levar em conta, não a capacidade econômica ou contributiva do autuado, mas, entre outros fatores, o caráter preventivo e educativo da medida sancionadora, além da gravidade da infração, com o escopo de se evitar o descumprimento de dever legal imposto ao infrator, em prol do interesse público.
+As multas não são desarrazoadas e nem mesmo desproporcionais, pois fixadas dentro dos parâmetros legais.
+(..)
+Ressalte-se que a profundidade do exame levado a efeito pela Autoridade também depende dos argumentos apresentados pelo interessado, pois, diante de alegações genéricas sobre as ocorrências fáticas, pode a Autoridade, validamente, acolher a presunção de veracidade.
+Passando à análise das demais alegações contidas no apelo - v) desrespeito aos prazos do processo da ANTT; vi) que há vícios nos processos administrativos que deram origem às multas: vi. a) Do vício de preenchimento do auto de infração que deu origem ao processo administrativo n.º 50515.001671/2012-16 - da violação à Resolução n.º 442/04 da ANTT; vi. b) Da nulidade dos processos administrativos n. 50515.001671/2012-16, 50505.019611/2015-11 e 50505.000238/2014-36 - inexistência de infração por ausência de provas; viii) e desvio de finalidade -, é possível afirmar que a apelante repisou os argumentos apresentados no iter processual dos Embargos à Execução.
+Quanto ao debate acerca de supostos vícios do processo administrativo, o acolhimento da pretensão da recorrente demandaria o revolvimento do acervo fático-probatório dos autos, consubstanciado na análise da integralidade do processo extrajudicial.
+Inviável o recurso especial quanto ao ponto, a teor da Súmula n. 7/STJ.
+Dessa forma, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
