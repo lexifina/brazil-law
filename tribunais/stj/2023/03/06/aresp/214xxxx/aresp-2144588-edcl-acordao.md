@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração, opostos por ACTIO PLANEJAMENTO E DESENVOLVIMENTO IMOBILIARIO LTDA., contra acórdão de fls. 906/908 (e-STJ), de relatoria deste signatário, que negou provimento ao agravo interno apresentado pela parte adversa.
+A decisão embargada consubstancia-se na seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REITEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA. 1. Rever a conclusão da Corte de origem o Tribunal de origem no sentido de que não houve o cometimento de ato ilícito, já que a empresa agravada apenas exerceu seu direito de ação, buscando proteger os limites da sua propriedade, ensejaria reexame de todo o acervo fático e probatório dos autos, o que encontra óbice no disposto na Súmula 7 do STJ. Precedentes. 2. Agravo interno desprovido.
+Nas razões dos presentes embargos de declaração (fls. 912/914, e-STJ), o embargante sustenta, em suma, que houve omissão na apreciação do pedido de imposição de multa prevista no artigo 1.021, § 4º, do CPC.
+Impugnação às fls. 918/921, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REITEGRAÇÃO DE POSSE - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO DA PARTE ADVERSA.
+IRRESIGNAÇÃO DA DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte, a aplicação da multa prevista no artigo 1.021, § 4º, do CPC/15 não é automática, pressupondo a interposição do recurso manifestamente inadmissível ou improcedente, o que não se vislumbra na hipótese dos autos.
+2. Embargos de declaração acolhidos, sem efeito infringente.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração devem ser acolhidos, porém, sem efeitos infringentes.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão ou acórdão.
+No presente caso, os embargos de declaração merecem provimento, para sanar omissão acerca do pedido de aplicação da multa prevista no artigo 1.021, § 4º, do CPC, formulado pela ora embargante em sede de contrarrazões ao agra vo interno interposto pela parte adversa.
+No ponto, a jurisprudência do Superior Tribunal de Justiça orienta que não é possível a aplicação automática da referida multa na hipótese de desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+Sobre o tema, colaciona-se os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA EM AGRAVO INTERNO. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. CONTRADIÇÃO CONFIGURADA. EMBARGOS PARCIALMENTE ACOLHIDOS. 1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). 2. Consoante entendimento desta Corte Superior, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do embargante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 29/8/2016). 3. Embargos de declaração parcialmente acolhidos, com efeitos modificativos, para fins de afastar a multa prevista no art. 1.021, § 4º, do CPC. (EDcl no AgInt no AREsp n. 2.020.673/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 27/9/2022.)
+EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO IMPROCEDENTE. MULTA PREVISTA NO ARTIGO 1.021, § 4º, DO NOVO CÓDIGO DE PROCESSO CIVIL. NÃO INCIDÊNCIA. 1. Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei, nos termos do artigo 1.021, § 4º, do CPC. 2. Embargos de declaração acolhidos, sem efeito modificativo. (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017)
+Na hipótese, não se observa conduta abusiva ou protelatória imputável à agravante, mas apenas o exercício da possibilidade de recorrer prevista na lei, razão pela qual se reputa descabida a imposição da multa disposta no artigo 1021, § 4º, do CPC.
+2. Do exposto, acolhem-se os embargos de declaração, sem efeito infringente, apenas para sanar a omissão apontada.
+É como voto.
