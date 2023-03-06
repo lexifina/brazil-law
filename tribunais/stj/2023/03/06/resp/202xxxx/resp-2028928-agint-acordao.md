@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BANCO DO BRASIL S/A. contra decisão unipessoal que não conheceu do recurso especial que interpusera.
+Agravo interno em recurso especial interposto em: 8/12/2022.
+Concluso ao gabinete em: 14/12/2022.
+Ação: de revisão de benefício previdenciário complementar, ajuizada por PAULA ALVES PEIXOTO em face de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI e BANCO DO BRASIL S/A.
+Sentença: julgou parcialmente procedente a pretensão autoral.
+Acórdão: negou provimento à apelação interposta por BANCO DO BRASIL S/A e deu parcial prov imento aos recursos interpostos por PAULA ALVES PEIXOTO e CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PREVIDENCIÁRIO. DIREITO CIVIL. PROCESSO CIVIL. AÇÃO REVISIONAL DE APOSENTADORIA. JULGAMENTO RESP 1.778.938/SP. MODULAÇÃO EFEITOS. AÇÃO AJUIZADA ANTES DE 8/8/2018. MANUTENÇÃO ENTENDIMENTO DO RESP 1.312.736/RS. PRELIMINARES. INCOMPETÊNCIA ABSOLUTA. ILEGITIMIDADE PASSIVA. PRECLUSÃO E COISA JULGADA REJEITADAS. MÉRITO. CDC. NÃO APLICAÇÃO. RECOMPOSIÇÃO APOSENTADORIA. RECÁLCULO DO BENEFÍCIO. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA DO TRABALHO. CÁLCULOS ATUARIAIS. BIS IN IDEM. PRESERVAÇÃO SALÁRIO PARTICIPAÇÃO. CABÍVEL. TETO SALÁRIO DE PARTICIPAÇÃO. LIMITAÇÃO. BENEFÍCIO ESPECIAL TEMPORÁRIO (BET). NÃO INCLUSO. COMPENSAÇÃO. CABÍVEL. JUROS DE MORA. TERMO INICIAL. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. LIQUIDAÇÃO. NECESSÁRIA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §2º, CPC. RECURSOS CONHECIDOS. RECURSO DO BANCO RÉU NÃO PROVIDO. RECURSOS DA PREVI E DA AUTORA PARCIALMENTE PROVIDOS. SENTENÇA REFORMADA.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1.778.938/SP entendeu que nos casos ajuizados antes de 8/8/2018 é necessário aplicar o entendimento firmado no REsp 1.312.736/RS.
+2. Como o caso dos autos foi ajuizado antes de 8/8/2018, necessário manter o entendimento do REsp 1.312.736/RS.
+3. Quanto à alegação de incompetência absoluta, importante asseverar que o Supremo Tribunal Federal, no julgamento do RE 586453, com repercussão geral, reconheceu a autonomia do Direito Previdenciário em relação ao Direito do Trabalho e firmou a competência da Justiça comum para o processamento de demandas ajuizadas contra entidades privadas de previdência buscando-se o complemento de aposentadoria. Preliminar rejeitada.
+4. Frise-se que a participação da instituição financeira no processo faz-se necessária para viabilizar o pedido principal de complementação de aposentadoria, uma vez que este recálculo apenas poderá ocorrer depois de efetivados os recolhimentos das contribuições vertidas pela participante/autora e pelo patrocinador/banco, em observância ao regime de capitalização consagrado no artigo 202 da Constituição Federal. Preliminar rejeitada.
+5. O pedido de revisão do benefício previdenciário, decorrente do reconhecimento da inclusão de horas extras na remuneração do autor pela Justiça do Trabalho, deve ser formulado perante a Justiça Comum e contra a entidade de previdência privada, que não integrou o polo passivo da Reclamação Trabalhista. Preliminar de preclusão e coisa rejeitada.
+6. A questão objeto do apelo foi analisada pelo Superior Tribunal de Justiça, em sede de recurso repetitivo, tendo sido firmada a seguinte tese no REsp 1.312.736/RS: "nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso."
+7. Nos termos da Súmula 563 do STJ: O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.
+8. Em relação aos aportes necessários para complementação da aposentadoria por conta do reconhecimento do direito de horas extras na Justiça do Trabalho, não há como afastar a aplicação da lei e do Regulamento, sendo necessário entender que a recomposição da reserva matemática deverá ser feita pelo participante/aposentado e pelo patrocinador.
+8.1. Os valores já pagos pelo banco patrocinador deverão ser observados na fase de liquidação de sentença, objetivando evitar pagamento duplicado.
+9. Nos termos do inciso IV do artigo 30 do Regulamento do Plano de Previdência, no caso de perda parcial de remuneração mensal será facultado ao participante preservar um salário-de-participação, devendo tal faculdade ser exercida por meio de requerimento por escrito do participante interessado, a ser formulado no prazo máximo de 90 (noventa) dias contados a partir do reconhecimento judicial à integração das horas extras à remuneração do participante, pois somente neste momento surgiu o interesse e possibilidade da preservação do salário de participação.
+9.1. In casu, restou comprovado que o participante realizou o pedido administrativo no prazo de noventa dias contados do trânsito em julgado da reclamação trabalhista, devendo ser admitida a preservação do salário de participação.
+10. Necessário observar o teto contributivo previsto no Regulamento da Previ para calcular os valores que devem ser pagos por ambas as partes. Precedentes.
+11. Os benefícios especiais decorrem de reservas decorrentes de superávit e só são pagos enquanto há valores no fundo de reserva, tendo natureza diversa da do benefício principal, de forma que o pagamento de horas extras não influencia no pagamento dos benefícios especiais, não havendo que se falar em complementação quanto a esses benefícios. Precedentes.
+12. A necessidade de apuração dos valores que devem ser vertidos à Previ não afasta a possibilidade de compensação de valores, tal qual previsto nos artigos 368 e 369 do Código Civil. Precedentes.
+13. Conforme entendimento estabelecido pelo STJ nos autos REsp 1.312.736/RS, não pode ser imputado à PREVI qualquer ilícito ou violação do regulamento do plano por ocasião da concessão inicial do benefício, pois o valor relativo às horas extras não se refletiu nas contribuições vertidas pelo participante, tampouco pela patrocinadora.
+13.1. Assim, somente após a devida recomposição matemática é que se pode considerar a mora da ré. Precedentes.
+14. Necessária a fase de liquidação de sentença para realização da perícia atuarial. Precedentes.
+15. A fixação dos honorários no percentual de 10% (dez por cento) sobre o valor da condenação observa o disposto no art. 85, §2º do CPC, inexistindo qualquer irregularidade ou necessidade de minoração do valor fixado.
+15.1. Tendo a parte autora sucumbido minimamente, caberá às rés arcar com as custas processuais e honorários advocatícios. Art. 86, caput do CPC.
+16. Dá-se por prequestionada a matéria.
+17. Recursos conhecidos. Preliminares rejeitadas. Recurso do banco réu não provido. Recursos da parte autora e da Previ parcialmente provido. Sentença reformada. (e-STJ fls. 908-1044)
+Embargos de declaração: opostos por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI e BANCO DO BRASIL S/A, foram rejeitados; opostos por PAULA ALVES PEIXOTO, foram parcialmente acolhidos.
+Recurso especial interposto por BANCO DO BRASIL S/A: alega violação dos art. 114, VI, da CF/88, art. 927 do CC, e arts. 1.040, III, e 927, III, do CPC/15. Sustenta distinguishing em relação à hipótese dos autos e àquela versada no Tema 955/STJ. Requer seja conhecido e provido o recurso especial para "julgar improcedente o pedido de recomposição de 50% da reserva matemática, invertendo-se os ônus da sucumbência".
+Decisão unipessoal: não conheceu do recurso especial.
+Agravo interno: insurge-se o agravante em relação ao não conhecimento do recurso especial. Requer seja reformada a decisão recorrida a fim de conhecer e prover integralmente o recurso especial interposto, reconhecendo-se a sua ilegitimidade passiva.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSENTE. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Ação de revisão de benefício previdenciário complementar.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento capaz de ilidir os fundamentos da decisão agravada.
+1. Da violação de dispositivo constitucional ou de súmula
+Conforme mencionado na decisão unipessoal, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Da ausência de prequestionamento
+Mantém-se a decisão também no que tange à ausência de prequestionamento.
+O acórdão recorrido não decidiu acerca do art. 927 do CC/02, e arts. 1.040, III, e 927, III, do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Outrossim, o agravante não alegou a violação do art. 1.022 do CPC/15 pelo Tribunal de origem e, segundo a jurisprudência desta Corte, a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indic ada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei (REsp 1.639.314/MG, 3ª Turma, DJe 10/4/2017 e AgInt no REsp 1.835.818/SP, 4ª Turma, DJe 1º/2/2022).
+A decisão monocrática, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
