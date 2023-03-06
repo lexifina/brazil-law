@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+RENAN FELIX ANDRADE opõe embargos de declaração a acórdão assim ementado (fl.474):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento da decisão agravada, de incidência do óbice da Súmula n. 7/STJ, não basta apenas deduzir alegação genérica de inaplicabilidade do referido óbice ou que a tese defensiva não demanda reexame de provas. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa.
+Em suas razões, a parte embargante afirma que houve omissão com relação à majoração dos honorários de sucumbência.
+Requer o acolhimento dos embargos a fim de que seja sanada a omissão verificada e sejam majorados os honorários advocatícios fixados em desfavor da embargada, nos termos do art. 85, §1º, do CPC, em razão do desprovimento do recurso especial aviado por ela. Aduz que essa omissão consiste na circunstância de a ora embargada haver interposto recurso especial, agravo em recurso especial e agravo regimental.
+A parte embargada apresentou impugnação às fls. 488-490.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. DESCABIMENTO. EMBARGOS REJEIT ADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Na espécie, não se constata vicio sanável por meio dos presentes embargos.
+Compulsando ao autos, verifica-se, consoante inclusive ressaltado pela Corte a quo no voto condutor dos embargos de declaração (fl. 364), que os honorários advocatícios já foram fixados no máximo de 20 %, de modo que não falar em eventual majoração quando do julgamento de recurso subsequentemente interposto. Com efeito, da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo" (Nesse sentido: AREsp n. 1.961.766/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/2/2022, DJe de 2/3/2022; e AgInt nos EAREsp n. 762.075/MT, relator Ministro Felix Fischer, Corte Especial, julgado em 19/12/2018, DJe de 7/3/2019). Precedentes: AgInt nos EDcl no REsp n. 1.662.325/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 12/11/2020; AgInt no AREsp n. 1.740.978/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/8/2021; e AgInt no AREsp n. 1.843.997/PR, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/8/2021).
+Desse modo, não se visualiza omissão na decisão que, não conhecendo de agravo em recurso especial (fl. 456), não fixou honorários sucumbenciais recursais.
+Quanto ao agravo interno interposto pela ora embargada (fls. 459-461), ao qual não foi conferido provimento (fls. 476-481), de igual modo, não propicia a aplicação de honorários recursais. Consoante o entendimento firmado pela Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração (Nesse sentido: EDcl no AgInt no REsp n. 1.944.179/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/4/2022, DJe de 6/4/2022).
+No tocante ao recurso especial, inadmitido na instância a quo (fls. 420-421), não foi objeto de julgamento nesta Corte, razão pela qual não há possibilidade de fixação de honorários recursais.
+Assim, tendo sido toda a matéria apta à apreciação do STJ analisada, não padece o acórdão embargado dos vícios que autorizem sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
