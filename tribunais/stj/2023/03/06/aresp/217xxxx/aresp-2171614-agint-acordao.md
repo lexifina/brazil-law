@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu do Agravo para não conhecer do Recurso Especial, ante o óbice da Súmula 7 desta Corte (fls. 473-476, e-STJ).
+A parte agravante alega que impugnou devidamente a referida súmula em seu Agravo em Recurso Especial. Afirma que a decisão ora agravada não foi fundamentada. Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. FALTA DE IDENTIDADE ENTRE A DECISÃO AGRAVADA E AS RAZÕES RECURSAIS. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de Agravo Interno contra decisão que conheceu do Agravo para não conhecer do Recurso Especial, ante o óbice da Súmula 7/STJ (fls. 473-476, e-STJ). A parte agravante defende que impugnou devidamente a Súmula 7/STJ e que houve equívoco no decisum agravado quanto à suposta violação ao Princípio da Dialeticidade. Aduz ter ocorrido falha na prestação jurisdicional, uma vez que não houve análise de todos os temas suscitados.
+2. A concessionária agravante trata de temas totalmente alheios àquele que foi julgado na decisão de fls. 473-476, e-STJ. Em nenhum momento houve o questionamento acerca da impugnação da Súmula 7/STJ, tampouco foi suscitada pela parte "afronta ao Princípio do Contraditório e Ampla Defesa". O cerne da decisão ora agravada foi, em verdade, a impossibilidade de reverter a conclusão do Tribunal de origem sobre a existência de nexo de causalidade e de dano, bem como de reduzir a indenização por danos morais  temas que, agora sim, não foram impugnados.
+3. Nessa conjuntura, a agravante não observou as diretrizes fixadas pelo Princípio da Dialeticidade, entre as quais a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado.
+4. Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 13.12.2022.
+O Agravo Interno não merece conhecimento.
+Na decisão ora agravada, ficou consignado (fl. 474, e-STJ):
+Verifica-se que o órgão julgador reconheceu que houve falha na prestação do serviço pela concessionária ora recorrente, bem como foram demonstrados o nexo causal e o dano. Esbarra na Súmula 7/STJ a tentativa de alterar o quadro fático para demonstrar que não houve responsabilidade civil ou diminuir o valor da indenização, como se observa pelo seu enunciado: "A pretensão de simples reexame de prova não enseja Recurso Especial". Os fatos são aqui recebidos como estabelecidos pelo Tribunal a quo, senhor da análise probatória. Se a violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o Apelo Nobre.
+Em suas razões no presente Agravo, a parte defende que impugnou devidamente a Súmula 7/STJ e que houve equívoco no decisum agravado quanto à suposta violação ao Princípio da Dialeticidade. Aduz, ainda, ter ocorrido falha na prestação jurisdicional, uma vez que não houve análise de todos os temas suscitados. Transcrevo os principais trechos do Recurso (fls. 482-483, e-STJ):
+Diante do que consta expressamente nas razões do Agravo da Agravante, temos que a r. decisão ora agravada equivocou-se, ao concluir a Agravante havia deixado de observar o princípio da dialeticidade ao deixar de impugnar especificamente o fundamento relativo à incidência do Enunciado de Súmula nº 7/STJ.
+Concessa venia, a Agravante entende ser equivocado o entendimento contido na r. decisão agravada, pois, nas razões do Agravo interposto pela ora Agravante perante o Eg. TJMA, há tópico voltado a impugnar a r. decisão que inadmitiu o RESP sob o fundamento do óbice do Enunciado de Súmula 7/STJ.
+Ainda que a seu modo, a Agravante, em SEU Agravo em RESP, buscava impugnar de forma expressa e específica o fundamento da r. decisão estadual agravada de que o Recurso Especial não poderia ser admitido ante ao disposto no Enunciado de Súmula nº 07.
+Com isso temos que não subsiste o fundamento adotado pela r. decisão, ora agravada, no sentido de que teria a Agravante deixado de impugnar especificamente nas razões de seu Agravo em Recurso Especial, o fundamento do óbice do Enunciado de Súmula 07.
+Com relação à não impugnação do fundamento de que a deficiência do cotejo analítico não havia sido efetiva e especificamente impugnado, isso é bem verdade, porquanto, a Agravante não pretendeu discutir tal fundamento.
+Ocorre que, a deficiência de cotejo analítico apenas obstacularizava a admissibilidade do Recurso Especial no tocante ao fundamento de divergência jurisprudencial (alínea "c", do art. 105, III, da CRFB/1988), não impactando na admissibilidade do apelo pela alínea "a" do citado dispositivo Constitucional.
+(..)
+A ora Agravante, exercendo seu amplo direito de defesa expressamente garantido pela Carta Magna de 1988, interpôs o competente recurso de Agravo na tentativa de promover a análise dos dispositivos legais que julgava vulnerados pelas r. decisões até então pr oferidas.
+Entretanto, a r. decisão, não se manifestou sobre todos os temas levantados no Agravo, ou quando o fez, realizou análise extremamente sucinta, mormente acerca da afronta ao princípio do contraditório e ampla defesa, disposto no artigo 5º, LV, da CF/88 e ao disposto no inciso II, do mesmo artigo, majorou os honorários em desfavor da parte recorrente em 10% (dez por cento) sobre o valor já arbitrado.
+De fato, não se manifestar sobre estes pontos, nada obstante a incitação por parte da Recorrente, a r. decisão, violou frontalmente o artigo 93, IX, da CF, merecendo, pois, ser reformada a r. decisão proferida.
+A concessionária agravante trata de temas totalmente alheios àquele que foi julgado na decisão de fls. 473-476, e-STJ. Em nenhum momento houve o questionamento acerca da impugnação da Súmula 7/STJ, tampouco foi suscitada pela parte "afronta ao Princípio do Contraditório e Ampla Defesa". O cerne da decisão ora agravada foi, em verdade, a impossibilidade de reverter a conclusão do Tribunal de origem sobre a existência de nexo de causalidade e de dano, bem como de reduzir a indenização por danos morais  temas que, agora sim, não foram impugnados pela agravante.
+Nessa conjuntura, a agravante não observou as diretrizes fixadas pelo Princípio da Dialeticidade, entre as quais a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo. Nessa esteira:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO CONFIGURADA. PEDIDO GENÉRICO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que se acolhem os aclaratórios para sanar a contradição apontada quanto ao pedido genérico.
+2. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Embargos de Declaração acolhidos, sem efeito infringente, apenas para sanar contradição e integrar o julgado.
+(EDcl no REsp 1.617.381/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 22/5/2018).
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declarou que os servidores integrantes de associação coletiva serão beneficiados por título proferido em mandado de segurança coletivo independentemente da existência de lista de servidores na petição inicial
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.206.856/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24/05/2018).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há que conhecer o Agravo Interno que contra ela se insurge.
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
