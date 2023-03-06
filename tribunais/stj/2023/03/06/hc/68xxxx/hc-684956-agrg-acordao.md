@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O Ministério Público Federal interpõe agravo regimental contra decisão de fls. 113/114, assim ementada:
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE DETRAÇÃO NA PENA DO PACIENTE DO PERÍODO DE PRISÃO PREVENTIVA (27/07/2017 A 20/12/2017). PEDIDO NEGADO PELO JUÍZO DAS EXECUÇÕES PENAIS. AGRAVO EM EXECUÇÃO PENAL. NEGATIVA DE DETRAÇÃO DO PERÍODO EM QUE O APENADO ESTEVE NO GOZO DE LIBERDADE PROVISÓRIA (21/12/2017 A 14/10/2018). EQUÍVOCO QUANTO AO PERÍODO DE DESCONTO PLEITEADO PELO APENADO, NO QUAL EFETIVAMENTE PERMANECEU PRESO CAUTELARMENTE. ORDEM CONCEDIDA NOS TERMOS DO DISPOSITIVO.
+Alega o agravante, inicialmente, que o tema relativo à detração não poderia ter sido analisado por esta Corte Superior, em razão da indesejável supressão de instância. Afirma, por outro lado, que, como se vê, ainda que se dispense a análise do tema pelo Tribunal de Justiça, não se constata, a partir da leitura da decisão proferida pelo Magistrado de 1º grau, o constrangimento ilegal invocado pelo ora Agravado, porquanto o respectivo período de custódia cautelar já teria sido computado como pena efetivamente cumprida na ação penal a que se refere, tanto que a própria Defensoria Pública, naquela oportunidade, manifestou-se contrariamente ao pleito (manifestação em anexo).
+Diante do exposto, requer, seja recebido e processado este Agravo Regimental, submetendo-o, inicialmente, ao insigne Ministro Relator para o devido juízo de retratação e, na hipótese de manter de pé a sua r. decisão ora hostilizada, seja a insurgência submetida a julgamento pela Douta Sexta Turma, nos termos do que dispõe o art. 259, do RISTJ, esperando merecer provimento, para determinar o retorno dos autos à Corte de Justiça para prosseguir na análise do recurso, nos termos postulados pelo Paciente/Impetrante; ou, na hipótese de avanço no mérito, para que seja denegada a ordem.
+Apresentada impugnação ao agravo regimental às fls. 112/144.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE DETRAÇÃO NA PENA DO PACIENTE DO PERÍODO DE PRISÃO PREVENTIVA (27/07/2017 A 20/12/2017). PEDIDO NEGADO PELO JUÍZO DAS EXECUÇÕES PENAIS. AGRAVO EM EXECUÇÃO PENAL. NEGATIVA DE DETRAÇÃO DO PERÍODO EM QUE O APENADO ESTEVE NO GOZO DE LIBERDADE PROVISÓRIA (21/12/2017 A 14/10/2018). EQUÍVOCO QUANTO AO PERÍODO DE DESCONTO PLEITEADO PELO APENADO, NO QUAL EFETIVAMENTE PERMANECEU PRESO CAUTELARMENTE. ORDEM CONCEDIDA. AGRAVO REGIMENTAL IMPROVIDO.
+Agravo regimental improv ido.
+VOTO
+O inconformismo não merece prosperar.
+A ordem foi concedida nestes autos, de acordo com a manifestação do próprio Ministério Publico Federal, que considerou evidenciado que houve um equívoco da Corte de origem quanto ao período pleiteado pelo apenado para a detração penal, haja vista que no Agravo em Execução Penal foi analisada a possibilidade de desconto do tempo em que o sentenciado esteve em liberdade provisória (fl. 110).
+A s razões do agravo regimental não se revelam suficientes a justificar a reforma da decisão agravada, cuja fundamentação mantenho, nos termos a seguir transcritos (fls. 113/114):
+A ordem deve ser concedida, em consonância com a manifestação do Parquet federal.
+Com efeito, ao prestar informações, o Juízo das Execuções Penais noticiou que fora indeferido pedido de detração pela prisão no período de 27/07/2017 a 20/12/2017 (fl. 99), de modo que resta evidenciado que houve um equívoco da Corte de origem quanto ao período pleiteado pelo apenado para a detração penal, haja vista que, no agravo em execução penal, foi analisada a possibilidade de desconto do tempo em que o sentenciado esteve em liberdade provisória, o que não corresponde ao período em questão, no qual o paciente, pelo que consta dos autos, efetivamente permaneceu preso cautelarmente.
+Observo, por fim, que, em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que, na presente data, o paciente cumpre pena no regime semiaberto.
+À vista do exposto, concedo a ordem para reconhecer o direito do paciente à detração da pena quanto ao período pleiteado, compreendido entre 27/07/2017 a 20/12/2017, determinando ao Juízo da Execução que proceda à atualização dos cálculos - Execução Criminal n. 00003609020198260026.
+Ante o exposto, nego provimento ao agravo regimental.
