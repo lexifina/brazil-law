@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MARIA DOS ANJOS RAMALHO DA SILVA contra decisão monocrática proferida pelo Ministro Og Fernandes, por meio da qual aplicou a Súmula n. 182 do STJ e não conheceu do agravo em recurso especial (fls. 586-589) .
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 466):
+PREVIDENCIÁRIO. CONSTITUCIONAL. APOSENTADORIA POR IDADE. RURÍCOLA. INEXISTÊNCIA DE RAZOÁVEL INÍCIO DE PROVA MATERIAL. VÍNCULOSURBANOS. IMPROCEDÊNCIA DO PEDIDO.
+1. A comprovação da qualidade de trabalhador rural ocorre mediante início de prova material devidamente corroborado pela prova testemunhal produzida em juízo, bem assim a implementação do requisito etário exigido.
+2. Na hipótese, a parte-autora cumpriu o requisito etário. Todavia, não logrou êxito em demonstrar a sua condição de campesina. Embora tenha juntado aos autos documentos que, em tese, poderiam configurar início de prova material do labor rural, sua eficácia probante restou infirmada pela existência de vínculos urbanos, o que descaracteriza o regime de economia familiar.
+3. O exercício de atividade urbana pelo cônjuge ou pela própria parte-autora afasta a admissibilidade de documentos que, em regra, são válidos como início de prova material do exercício de labor rural no período exigido por lei, para fins de concessão do benefício de aposentadoria por idade rural.
+4. Diante da ausência de documentos que demonstrem atividade rural da parte-autora não se reconhece o direito ao benefício de aposentadoria rural por idade, eis que não é admitida prova exclusivamente testemunhal para tal fim (Súmula 27 do TRF/1ª Região e 149/STJ).
+5. Considerado o caráter social que permeia o Direito Previdenciário, a coisa julgada opera secundum eventum litis ou secundum eventum probationais, permitindo a renovação do pedido, ante novas circunstâncias ou novas provas. Precedentes.
+6. A concessão ex-offício da tutela antecipada na sentença não autoriza a devolução dos valores desembolsados pelo INSS, haja vista se tratar de verba de natureza alimentar. Precedentes do STF.
+7. Os honorários advocatícios devem ser fixados em R$ 300,00 (trezentos reais), a serem pagos pela parte autora ao INSS, ficando suspensa a execução desse comando por força da assistência judiciária gratuita, nos termos do art. 98, § 3º do NCPC.
+8. Apelação do INSS provida para reformar a sentença e julgar improcedente o pedido.
+Os embargos de declaração opostos foram rejeitados (fl. 506):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. AUSÊNCIA DEOMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. REDISCUSSÃO DOMÉRITO. INCONFORMISMO. REJEIÇÃO.
+1. Nos termos do art. 1022 do CPC, são cabíveis embargos de declaração quando houver no acórdão obscuridade, contradição ou quando for omitido ponto sobre o qual deveria pronunciar-se o juiz ou tribunal, bem assim para corrigir erro material no julgado.
+2. A pretexto de esclarecer o julgado, o que se pretende, na realidade, é o reexame da questão e sua consequente alteração, o que não se mostra possível em sede de embargos.
+3. É desnecessária a manifestação expressa por parte do acórdão recorrido dos dispositivos legais invocados pelas partes, nos termos do entendimento do Superior Tribunal de Justiça (STJ,2ª Turma, EDcl no REsp 561.372/MG, Rel. Min. Castro Meira, DJ 28.06.2004.).
+4. "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. O julgador possui o dever de enfrentar apenas as questões capazes de infirmar (enfraquecer) a conclusão adotada na decisão recorrida. Assim, mesmo após a vigência do CPC/2015, não cabem embargos de declaração contra a decisão que não se pronunciou sobre determinado argumento que era incapaz de infirmar a conclusão adotada" (EDcl no MS 21.315/DF, Rel. Min. Diva Malerbi  Desembargadora Convocada do TRF da 3ª Região , julgado em 08/06/2016).
+5. É pacífica a jurisprudência deste Tribunal no sentido de que o prequestionamento, por si só, não viabiliza o cabimento dos embargos declaratórios, sendo indispensável a demonstração da ocorrência das hipóteses previstas no art. 1022 do CPC.
+6. Embargos de declaração das partes rejeitados.
+Nas razões do agravo interno, a segurada alega que (fls. 574-575):
+ ..  diferentemente do que constou na decisão agravada, a matéria levada à discussão pela Agravante através do Recurso Especial em questão, aborda matéria de direito e não matéria de prova, pois a Agravante demonstrou no recurso especial que houve violação de lei - artigo 30, da Lei 10.741/03 e artigos 48, § 2º, art. 142 e 143, todos da Lei n. 8.213/91,(..) Neste compasso, demonstrou a Agravante no Recurso Especial interposto, que possui direito adquirido a aposentaria rural quando completou 55 anos de idade, ou seja, 2010, que de acordo com artigo 142 da Lei 8.213/91, na data em que a mesma completou 55 anos, era exigido a comprovação da atividade rural por 174 (cento e setenta e quatro) meses, que por si só, ficou devidamente comprovado pelas testemunhas ouvidas e pelas provas dos autos.
+Pugna, por fim, pela reconsideração da decisão agravada ou submissão do presente recurso à Turma.
+A parte agravada, instada a manifestar-se, silenciou (fl. 604).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO ÚNICO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação do único fundamento da decisão que inadmitiu o recurso especial .
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. MINISTRO HUMBERTO MARTINS (relator):
+Extrai-se dos autos que Maria dos Anjos Ramalho da Silva interpôs recurso especial alegando violação do art. 30 da Lei n. 10.741/2003 e dos arts. 4º, § 2º, 142 e 143 da Lei n. 8.213/1991, além de divergência jurisprudencial.
+O recurso foi inadmitido pela instância a quo ao fundamento da Súmula n. 7/STJ (fls. 557-558).
+Na decisão ora agravada foi aplicada a Súmula n. 182/STJ, porquanto a parte não impugnou de forma específica a incidência da Súmula n. 7/STJ.
+Com efeito, do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que, de fato, a parte agravante não rebateu a Súmula n. 7/STJ.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando
+houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ademais, ad argumentandum tantum, mesmo que superado o óbice processual, vê-se que a tese sustentada encontra impedimento na Súmula n. 7/STJ, na medida em que assim decidiu o TRF da 1ª Região (fl. 461):
+Na hipótese, a parte-autora cumpriu o requisito etário. Todavia, não logrou êxito em demonstrar a sua condição de campesina. Embora tenha juntado aos autos documentos que, em tese, poderiam configurar início de prova material do labor rural, sua eficácia probante restou infirmada pela existência de vínculos urbanos, o que descaracteriza o regime de economia familiar. O exercício de atividade urbana pelo cônjuge ou pela própria parte-autora afasta a admissibilidade de documentos que, em regra, são válidos como início de prova material do exercício de labor rural no período exigido por lei, para fins de concessão do benefício de aposentadoria por idade rural. Saliente-se, por oportuno, que uma vez verificada a imprestabilidade da prova material, não se pode conceder o benefício com base apenas nas provas testemunhais, como já sedimentou este Tribunal em reiterados julgados, o que culminou na edição da Súmula 27, sob a forma da qual "Não é admissível prova exclusivamente testemunhal para reconhecimento de tempo de exercício de atividade urbana e rural (Lei 8.213/91, art.55,§ 3º)".
+Assim, vê-se que, para alterar a conclusão do Tribunal a quo, é necessária a incursão na seara fático- probatória, incabível por esta via recursal, conforme a pacífica jurisprudência desta Corte:
+PREVIDENCIÁRIO. VÍNCULO DE TRABALHO URBANO. EXAME ACERCA DA NECESSIDADE DA RENDA PROVENIENTE DO TRABALHO RURAL PARA FINS DE MANUTENÇÃO DO NÚCLEO FAMILIAR. IMPOSSIBILIDADE DE ANÁLISE NA VIA ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A apuração acerca da dispensabilidade ou não do trabalho rural para fins de subsistência do grupo familiar, apenas seria possível mediante novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula n. 7/STJ.
+2. "O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ). (REsp 1.304.479/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19/12/2012, recurso submetido ao rito do art. 543-C do CPC) .
+3. Agravo Regimental a que dá provimento, para não conhecer do recurso especial.
+(AgRg no REsp n. 1.268.039/SC, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Sérgio Kukina, Primeira Turma, julgado em 15/9/2016, DJe de 11/10/2016.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
