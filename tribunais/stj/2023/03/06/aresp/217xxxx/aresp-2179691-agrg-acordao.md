@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por HERISON DOS SANTOS SOARES contra decisão de e-STJ fls. 487/488, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do seu agravo.
+Depreende-se dos autos que o ora agravante foi condenado, em Juízo de primeiro grau, como incurso nas sanções do art. 303 (praticar lesão corporal culposa na direção de veículo automotor), parágrafo único (deixar de prestar socorro), c/c o art. 305 (afastar-se o condutor do veículo do local do acidente, para fugir à responsabilidade penal ou civil que lhe possa ser atribuída), ambos do Código de Trânsito Brasileiro, às penas de 8 meses de detenção e suspensão de sua habilitação para dirigir veículo automotor, por igual prazo, e 1 ano e 2 meses de detenção e proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 8 meses. O regime para o início do cumprimento da pena estabelecido foi o aberto. A pena restritiva de liberdade foi substituída por uma restritiva de direitos (e-STJ fls. 347/358).
+O Tribunal de origem deu parcial provimento ao apelo defensivo, "a fim de reduzir o prazo da suspensão da habilitação para dirigir veículo automotor para 02 (dois) meses e 20 (vinte) dias, mantida, no mais, a r. sentença" (e-STJ fl. 415), conforme a seguinte ementa (e-STJ fl. 416):
+APELAÇÃO CRIMINAL Lesão corporal culposa na direção de veículo automotor e fuga do local do acidente Recurso da defesa Inépcia da denúncia - Inocorrência - Atendimento aos requisitos legais Possibilidade do pleno exercício do direito de defesa Ausência de prejuízo Absolvição por atipicidade da conduta e insuficiência probatória Descabimento Materialidade e autoria devidamente demonstradas Culpa devidamente evidenciada Inobservância ao dever de cuidado objetivo Mal súbito não comprovado Imprudência caracterizada Afastamento do local do acidente para fugir à responsabilidade penal ou civil que possa ser atribuída ao condutor Inexigibilidade de conduta diversa não caracterizada Pena fixada com critério, assim como o regime prisional aberto Acusado que deixou de prestar socorro à vítima, quando possível fazê-lo sem risco pessoal Causa de aumento corretamente reconhecida e aplicada Redução do prazo da suspensão da habilitação para dirigir veículo automotor, devendo ser observado o mesmo critério utilizado para a fixação da pena privativa de liberdade, bem como o patamar mínimo cominado no artigo 293, do CTB Afastamento da penalidade Inviabilidade Ausência de amparo legal Mantida a substituição da pena corporal por apenas uma restritiva de direitos, mercê da concordância do Ministério Público Apelo parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 448/450).
+Nas razões do recurso especial (e-STJ fls. 439/443), a defesa apontou violação ao art. 41 do Código de Processo Penal, alegando que "é imprescindível que a hipótese acusatória contida na denúncia descreva, com precisão, os fatos e circunstâncias do suposto crime" (e-STJ fl. 442).
+Defendeu que, no presente caso, "o Parquet não descreveu a ação humana praticada pelo recorrente, acompanhada de suas circunstâncias, limitando-se a reproduzir, meramente, que "agindo com culpa na modalidade imprudência, invadiu o acostamento direito e atingiu a vítima em sua motocicleta, atropelando-a - cf. laudos periciais do veículo e da motocicleta (..) A imprudência do denunciado consistiu em não observar que a vítima se encontrava regularmente parada no acostamento direito da via e ali ingressar abruptamente, colhendo-a com seu veículo"" (e-STJ fl. 442).
+Contrarrazões às e-STJ fls. 459/463. O recurso especial não foi admitido (e-STJ fls. 466/467). A defesa interpôs agravo (e-STJ fls. 470/474).
+A Presidência desta Corte não conheceu do agravo, por ausência de impugnação específica de fundamentos da decisão que havia inadmitido o recurso especial (e-STJ fls. 487/488).
+Irresignada, a parte interpôs agravo regimental (e-STJ fls. 491/496), alegando que "a decisão de sua inadmissibilidade é flagrantemente nula, por não ter respeitado os padrões de fundamentação impostos pelo CPC no art. 489, §1º, devendo o Agravo em Recurso Especial ser admitido e julgado nos termos expostos inicialmente" (e-STJ fls. 493/494).
+Intimado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo regimental (e-STJ fls. 505/510).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR E FUGA DO LOCAL DO ACIDENTE. INÉPCIA DA DENÚNCIA . AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. O agravante deixou de impugnar especificamente todos os fundamentos da decisão agravada, atraindo a aplicação do óbice previsto na Súmula n. 182 desta Corte. Precedentes.
+2. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+Com efeito, o presente inconformismo não se dirige contra todos os fundamentos do decisum recorrido, que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182/STJ, uma vez que a parte recorrente deixou de impugnar especificamente todos os fundamentos da decisão que inadmitiu o apelo nobre (e-STJ fls. 487/488).
+Ademais, confor me bem observado pelo Parquet Federal, "verifica-se que, de fato, o agravo em recurso especial não impugnou especificamente as razões da decisão de inadmissão do recurso especial, porquanto, embora tenha afirmado genericamente que "nenhum dos entendimentos  ..  mencionados  na decisão de inadmissibilidade  encontram guarida para a sua incidência" (e-STJ fls. 472), não realizou o enfrentamento específico do fundamento de que os óbices sumulares (Súmulas 7 e 182/STJ) incidiriam ao conhecimento do reclamo ofertado, tal como apontado na decisão de inadmissão do recurso especial" (e-STJ fl. 508).
+Destarte, é de rigor a aplicação do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. SÚMULA N. 182 DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A agravante deixou de impugnar a causa específica de inadmissão do agravo em recurso especial. Incidência, por analogia, do enunciado sumular n. 182 do STJ.
+2. O pedido de declaração da prescrição punitiva estatal constitui inovação de tese recursal e não pode ser acolhido de ofício, haja vista o entendimento consolidado pela Terceira Seção nos EAREsp n. 386.266/SP, relacionado à retroatividade do trânsito em julgado da condenação em caso de não conhecimento do agravo em recurso especial.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 1126384/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/2/2018, DJe 15/2/2018, grifei.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
