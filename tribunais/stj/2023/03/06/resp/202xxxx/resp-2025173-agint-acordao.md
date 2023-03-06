@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno, interposto por HELENA BARBIERI DA SILVA, contra decisão monocrática, acostada às fls. 837/838, e-STJ, da lavra do Ministro Presidente do STJ, a qual negou provimento ao reclamo.
+Consoante se depreende dos autos, o apelo nobre, interposto, com fundamento no art. 105, inc. III, alínea "a", da Constituição Federal, pretendia reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 734, e-STJ):
+Indenização securitária. Sistema Financeiro da Habitação. Imóvel destinado à moradia de pessoas de baixa renda. Construção longeva. Prescrição não configurada. Seguro habitacional tem início por ocasião do contrato de financiamento. Ocorrido anteriormente não tem a cobertura securitária. Ausência de risco de desmoronamento. Imóvel que sofreu ampla reforma. Seguro habitacional tem por escopo garantir o credor. Pretensão da apelante de reformar o imóvel à custa da seguradora não pode sobressair. Improcedência da ação mantida. Apelo desprovido.
+Nas razões do recurso especial (fls. 742/753, e-STJ), a recorrente apontou ofensa aos artigos 47, 51, IV, e 54, § 4º, do CDC/90.
+Sustentou, em síntese, a necessidade de "interpretação das cláusulas contratuais de maneira mais favorável ao consumidor", bem como que deve ser declarada a nulidade das cláusulas abusivas. Alegou que a seguradora, ora agravada, deve ser condenada ao pagamento da cobertura securitária, em razão dos vícios construtivos.
+Contrarrazões às fls. 803/824 (e-STJ).
+Após a decisão de admissão do recurso especial (fls. 826/827, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 837/838, e-STJ), foi desprovido o reclamo, sob o fundamento de incidência da Súmula 7 do STJ.
+Na presente oportunidade, a agravante, em suas razões de fls. 844/854 (e-STJ), pretende a reforma da r. decisão agravada alegando "que os danos ocasionados nos imóveis são decorrentes das falhas ou defeitos na execução da construção dos imóveis, ou seja, são consequências naturais e previsíveis dos vícios construtivos, restando evidente que a seguradora não pode estar eximida do dever de indenizar os alegados danos, como decidido em primeiro grau" (e-STJ, fl. 851).
+Impugnação às fls. 558/870, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AUTORA.
+1. A modificação das conclusões das instâncias ordinárias, demandaria necessariamente, o reexame de fatos e provas, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O inconformismo não merece prosperar.
+1. A Segunda Seção do Superior Tribunal de Justiça, no REsp 1.804.965/SP, em 27/05/2020, de relatoria da em. Ministra NANCY ANDRIGHI, firmou entendimento de que, no contrato de seguro habitacional obrigatório vinculado ao SFH, a exclusão da responsabilidade da seguradora deve ficar limitada aos vícios decorrentes de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, uma vez que a expectativa do mutuário é receber o bem imóvel próprio e adequado ao uso a que se destina.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. 1. Ação de indenização que visa à cobertura de seguro habitacional firmado no âmbito do SFH, tendo em vista vícios de construção no imóvel adquirido. 2. À luz dos princípios da boa-fé objetiva e da proteção contratual do consumidor, consideram-se cobertos pelo seguro habitacional os vícios estruturais de construção - que provocam, por si mesmos, a atuação de forças anormais sobre a edificação -, sendo cabível a exclusão da responsabilidade da seguradora apenas em relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem. Precedente da 2ª Seção do STJ. 3. Agravo interno no recuso especial não provido. (AgInt no REsp n. 1.963.300/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022.)
+Na espécie, a Corte de origem, ao negar provimento ao recurso de apelação da insurgente, adotou a seguinte fundamentação (fl. 736, e-STJ):
+No mérito, o imóvel é de categoria popular e nada consta que tipo de material seria o adequado, levando-se em consideração o valor gasto, sendo que o imóvel sofreu reforma e ampliação, fls. 533, porém, desconsideradas pela perícia.
+Ademais, a construção é longeva, haja vista que o contrato original é de 30 de setembro de 1996, fls. 41, configurando, assim, imóvel construído há mais de 24 anos, e, ante o regular uso, os desgastes que o tempo impõe nas edificações estão caracterizados.
+O laudo técnico apresentara ausência de risco de desmoronamento ou desabamento de reboco ou de telhados, fls. 536, item 6, e fls. 539, item 33, mesmo porque, o trabalho do expert não expôs, de forma clara e precisa e de modo pormenorizado, no que consistiriam tais vícios de construção, optando pela generalidade, como material de má qualidade e mão de obra inadequada.
+Destarte, o que efetivamente existe é a pretensão da apelante de reformar o imóvel à custa da seguradora, o que não se admite, sob pena de configurar enriquecimento sem causa, daí por que a improcedência da ação é medida de rigor.
+Assim, diante das razões do recurso especial e da fundamentação do acórdão recorrido, rever o entendimento do Tribunal de origem demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+A propósito:
+PROCESSUAL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SFH. VÍCIOS DE CONSTRUÇÃO. INEXISTÊNCIA. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. A Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de que "a interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio" (REsp 1.804.965/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/05/2020, DJe de 1º/06/2020). 2. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, concluiu pela ausência de comprovação de vícios construtivos no imóvel ou do estado de inutilização dele. Desse modo, a alteração das conclusões a que chegaram as instâncias ordinárias demandaria o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial. 3. Agravo interno desprovido. (AgInt no REsp n. 1.936.157/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/4/2022, DJe de 6/5/2022.)
+Logo, verifica-se, no caso, que a decisão singular deve ser mantida com amparo nos fundamentos e nos precedentes acima alinhavados.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
