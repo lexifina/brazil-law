@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado pelo Estado de Minas Gerais, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fl. 299):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. REDUÇÃO DA BASE DE CÁLCULO NA SAÍDA DE PRODUTOS DA CESTA BÁSICA. HIPÓTESE DE ISENÇÃO FISCAL PARCIAL. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL. APROVEITAMENTO DO CRÉDITO TRIBUTÁRIO. DECADÊNCIA. ART. 150, § 4o, CTN. SENTENÇA CONFIRMADA.
+- Sob a ótica da Suprema Corte, há aproximação conceitual das figuras da redução da base de cálculo do ICMS e da isenção parcial quando observado o disposto no art. 155, § 2º, II, b, CR (ED no RE nº 174.478).
+- Em relação aos tributos sujeitos a lançamento por homologação, ocorrendo o pagamento antecipado por parte do contribuinte - ainda que inferior ao efetivamente devido, mas ausente dolo, fraude ou simulação o prazo decadencial para o lançamento de eventuais diferenças é de cinco anos a contar do fato gerador, conforme estabelece o § 4º do art. 150 do CTN. Precedentes do STJ.
+Opostos embargos declaratórios, foram rejeitados (fls. 326/331).
+A parte recorrente aponta, além de dissídio pretoriano, violação aos arts. 149, V, 150, § 4º, e 173, I, do CTN. Sustenta, em resumo, que "O não recolhimento de ICMS em decorrência de aproveitamento de créditos em desconformidade com a legislação autoriza o lançamento de ofício de que cuida o art. 173, I do CPC, não se aplicando em casos tais a regra do art. 150, §4º do CTN" (fl. 338).
+Contrarrazões apresentadas às fls. 417/438.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O compulsar dos autos dá conta de que, já no julgamento da apelação, a Corte local, em relação à questão da decadência, decidiu à luz do que consolidado pelo STJ no REsp 973.733/SC, julgado pelo rito dos recursos repetitivos (cf fl. 305).
+Vigora nesta Corte Superior o entendimento de que, "na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2009" (AgInt no AREsp 1.661.317/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/10/2020).
+Nesse panorama, inviável o exame da insurgência recursal no particular, visto que aplicado à espécie entendimento firmado em recurso representativo da controvérsia.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
