@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por QUEIROZ GALVÃO DESENVOLVIMENTO IMOBILIÁRIO S. A. EM RECUPERAÇÃO JUDICIAL contra decisão unipessoal, proferida pela Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial que interpusera.
+Ação: de reparação por dano material e compensação por dano moral, ajuizada pela agravada, em face da agravante, na qual pleiteia o recebimento de $ 16.842,27 (dezesseis mil, oitocentos e quarenta e dois reais e vinte e sete centavos), a título de cláusula penal compensatória e de R$ 67.369,09 (sessenta e sete mil, trezentos e sessenta e nove reais e nove centavos), em virtude de cobranças abusivas perpetradas pela agravante, assim como de compensação por dano mora.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a agravante ao pagamento das multas expressamente previstas no contrato e nos percentuais previstos, bem como a restituir a quantia paga a maior pela agravada, derivada da correção indevida aplicada pela agravante quando do cálculo do saldo devedor.
+Acórdão: deu provimento à apelação interposta pela agravada e negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Apelação cível. Incorporação imobiliária. Promessa de compra e venda. Expressivo atraso de 13meses na entrega das chaves. O atraso de fornecedores e de prestadores de serviços públicos configura hipótese de fortuito interno, incapaz de afastar o dever de indenizar. Previsão de multa única de 2% e multa mensal de 0,5% para o caso de atraso na entregada unidade. Possibilidade de cumulação das penas, diante de sua natureza moratória. Termo final de incidência da multa, que deve ser a data de entrega das chaves, conforme previsão contratual. Manutenção do indexador setorial para atualização do saldo devedor do contrato no período de mora da incorporadora, mais benéfico ao consumidor, no caso(Tema Repetitivo n.º 966, do Superior Tribunal de Justiça). Atraso considerável na entregada unidade, que inviabilizou os preparativos para chegada do bebê que a autora gestava em seu ventre. Indenização arbitrada em R$ 15.000,00, que leva em consideração, também, os expressivos valores investidos. Desprovimento ao 1ºrecurso, provimento ao 2º. (e-STJ Fl. 254)
+Recurso especial: alega violação dos arts. 416, parágrafo único, 476, 884 e 944 do CC; 52 da Lei nº 4.591/64, bem como dissídio jurisprudencial.
+Decisão unipessoal: proferida pela Ministra Presidente desta Corte, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que a parte agravante não impugnou todos os fundamentos utilizados pelo TJ/RJ para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, a parte agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que esta não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à parte agravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
