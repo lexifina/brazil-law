@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO PARANÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. APOSENTADORIA NA VIGÊNCIA DA LEI ESTADUAL 7.424/80, NO PADRÃO MAIS ELEVADO DA CARREIRA. LEI ESTADUAL 13.666/02. ENQUADRAMENTO NA ÚLTIMA CLASSE. IN ADMISSIBILIDADE. DIREITO ADQUIRIDO. OFENSA AOS ARTIGOS 40, § 8º DA CF/88, NA REDAÇÃO DA EC 20/98, E 7º DA EC 41/03. REENQUADRAMENTO NA CLASSE MAIS ELEVADA E EM REFERÊNCIA EQUIVALENTE. PAGAMENTO DE DIFERENÇAS. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1º do Decreto n. 20.210/1932, no que concerne à ocorrência da prescrição do fundo de direito relativo ao direito ao reenquadramento funcional do servidor, trazendo os seguintes argumentos:
+6. No que toca ao prequestionamento, a despeito do v. acórdão não mencionar o dispositivo legal de forma textual, enfrento-o ao debater a questão da existência ou não da ocorrência da prescrição do fundo de direito versada no caput do art. 1º do Decreto n. 20.190/32, segundo se extrai do seguinte excerto:
+ ..
+7. Já propriamente ao mérito, ao contrário do assentado no v. acórdão recorrido, o caso não é de prescrição de trato sucessivo. Isso porque, para que haja a prescrição de parcelas que se vencem mês a mês é necessário que haja um direito subjacente já reconhecido e integrado ao patrimônio jurídico do titular.
+8. Mas a integração do direito só se dá após sua constituição, que no caso restaria configurada com a publicação da novel lei estadual que institui nova estruturação à carreira com o reenquadramento e avanços funcionais. Note-se que no caso dos autos não se discute qualquer diferença nos vencimentos conforme o reenquadramento realizado pela Lei n. 13.666, mas do próprio enquadramento por ela operado e os avanços funcionais havidos posteriormente por outros decretos, mas tendo o reenquadramento feito em 2002 como referência.
+ ..
+10. Assim, é evidente que não se fala em prescrição das parcelas em razão da não observância de progressões e respectivos vencimentos durante a vigência da Lei 13.666/02, mas do próprio enquadramento inicial.
+ ..
+18. Destarte, considerando que de fato e direito o que se discute nos autos é o direito ao reenquadramento funcional - com os devidos avanços funcionais implementados pela Lei n. 13.666/02 e decretos que a regulamentaram - e não o ressarcimento/recomposição de parcelas, o v. acórdão violou o art. 1º do Decreto n.
+20.910/32, o que motiva a sua reforma e a extinção do feito ante a prescrição do fundo de direito (fls. 1037-1044).
+É, no essencial, o relatório. Decido.
+Na espécie, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
