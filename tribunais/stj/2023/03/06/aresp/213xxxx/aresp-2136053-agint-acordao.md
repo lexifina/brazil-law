@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: civil pública, ajuizada pelo agravante, em face de COMPANHIA BRASILEIRA DE DISTRIBUICAO, na qual alega - em síntese - que por meio de Inquérito Civil iniciado por denuncia de consumidor constatou que, nas lojas controladas pela demandada (PÃO DE AÇÚCAR, EXTRA E COMPREBEM), há reiterada prática da divergência entre os preços das gôndolas, das prateleiras, e daqueles verificados nos caixas e leitores óticos, conforme anotado pela fiscalização do PROCON a pedido do Ministério Público. Aduz que a referida prática também foi registrada no sítio eletrônico "Reclame Aqui", sendo abusiva e bastante para causar dano moral coletivo.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+Apelação Cível. Ação Civil Pública. Preliminar de impossibilidade de suscitar fatos novos em sede de apelação. Rejeitada. Divergência entre os preços das gôndolas, prateleiras, e aqueles verificados nos caixas e leitores óticos. Parte autora não logrou êxito em provar que a parte demandada continuou na prática irregular após a apuração inicial no Inquérito Civil. Recurso improvido.
+- Da preliminar de impossibilidade de suscitar fatos novos em sede de apelação. Art. 435. É lícito às partes, em qualquer tempo, juntar aos autos documentos novos, quando destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos. Preliminar rejeitada.
+- Tenho que o alegado pelo denunciante, não pode prevalecer, mormente porque nenhuma prova foi anexada aos autos, a exemplo de cópia do cupom fiscal ou das fotos que o mesmo alega possuir. Sem tais elementos, não há como se verificar o que realmente ocorreu, até porque nem a data em que teria ocorrido este último fato foi informado.
+- Por outro lado, em duas diligências realizadas pelo PROCON em 2012 a pedido do Ministério Público, conforme fls. 75/76, se atestou não encontrar nenhuma irregularidade relacionadas aos fatos que embasaram o Inquérito Civil. Os resultados dessas duas últimas diligências são determinantes para a correta aferição do pedido da petição inicial, isso porque embora os resultados iniciais das diligências realizadas pelo PROCON em 2010 pudessem apontar pela ocorrência de irregularidades em diversas lojas controladas pela demandada com relação ao preço anunciado e cobrado, nas ocorrências posteriores, em 2012, nada foi encontrado de irregular.
+- Com referência a juntada de uma nova fiscalização realizada no dia 16 de outubro de 2015, onde o PROCON-PE encontrou no Pão de Açúcar da Av. Conselheiro Aguiar divergência entre os preços das prateleiras e os do caixa, também não merece prosperar tendo em vista que a diferença de preços se refere a descontos (ofertas) concedidos ao "Cliente mais" do Pão de Açúcar, Extra e Comprebem (um programa de relacionamento com ofertas exclusivas, promoções e acúmulo de pontos), conforme campanha promocional às fls. 191/191v. As ofertas e pontuações provenientes das Campanhas Promocionais vinculadas ao programa de fidelidade "Cliente mais" mais conhecido como cliente fiel e são pessoais e intransferíveis.
+- De acordo com as provas dos autos a parte autora não logrou êxito em provar que a parte demandada continuou na prática irregular após a apuração inicial no Inquérito Civil, restando improcedentes os pedidos. Com essas considerações, nego provimento ao recurso de apelação mantendo todos os termos da sentença.
+- Apelo a que se nega provimento. (e-STJ, fls. 344/345) (grifo nosso)
+Embargos de declaração: opostos pelo agravante foram rejeitados.
+Recurso especial: alega a violação dos arts. 6º, III e VI, e 31, ambos do CDC. Sustenta que "restou devidamente comprovado nos autos que o embargado incidiu na prática proibida pelo Código de Defesa do Consumidor, devendo, em contrapartida, responder pelo dano moral causado a sociedade" (e-STJ, fl. 389).
+Parecer do MPF: de lavra do i. Subprocurador-Geral da Pública, Antônio Carlos Martins Soares, opinou pelo não provimento do agravo em recurso especial, em razão da incidência da Súmula 7/STJ (e-STJ, fls. 472/474).
+Decisão Monocrática: conheceu do agravo, para não conhecer do recurso especial interposto pela agravante, com fundamento no art. 932, III, do CPC/15 (e-STJ, fls. 476/478).
+Agravo interno: aduz, em síntese, a deficiência de fundamentação no âmbito da decisão agravada, bem como a inaplicabilidade da Súmula 7/STJ na hipótese dos autos (e-STJ, fls. 483/490).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação civil pública.
+2. Alterar o decidido no acórdão impugnado, no que se refere à ausência de comprovação de ilícito praticado pela parte agravada, a ensejar a responsabilidade por danos morais em âmbito coletivo, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo, para não conhecer do recurso especial, em razão da incidência da Súmula 7/STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Do reexame de fatos e provas
+A incidência da Súmula 7/STJ deve ser mantida, pois, eventual alteração do entendimento do acórdão recorrido, no que se refere à ausência de comprovação de ilícito praticado pela parte agravada, a ensejar a responsabilidade por danos morais em âmbito coletivo, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos.
+A esse propósito, é o teor do acórdão recorrido:
+O que daí se conclui é que, embora se atestasse irregularidade inicial, o fato não se repetiu nas ocorrências seguintes, portanto, não se provou tenha se perpetuado no tempo as irregularidades constatadas inicialmente. Desse modo, a reiteração na infração de tais práticas não se verificou posteriormente.
+De igual forma, as informações levantadas pela internet, de fls. 83/92, trata de indícios de infração, não servindo de prova bastante por si só sem que tenha provado, no curso do processo, a efetivação das irregularidades.
+Com referência à juntada de uma nova fiscalização realizada no dia 16 de outubro de 2015, onde o PROCON-PE encontrou no Pão de Açúcar da Av. Conselheiro Aguiar divergência entre os preços das prateleiras e os do caixa, também não merece prosperar tendo em vista que a diferença de preços se refere a descontos (ofertas) concedidos ao "Cliente mais" do Pão de Açúcar, Extra e Comprebem (um programa de relacionamento com ofertas exclusivas, promoções e acúmulo de pontos), conforme campanha promocional às fls. 191/191v.
+(..)
+De acordo com a prova dos autos a parte autora não logrou êxito em provar que a parte demandada continuou na prática irregular após a apuração inicial no Inquérito Civil, restando improcedentes os pedidos. (e-STJ, fls. 342/343) (grifo nosso)
+Por derradeiro, devidamente analisadas e discutidas as questões de mérito, e fundamentada suficientemente a aplicação da Súmula 7/STJ na hipótese, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015 e, via de consequência, na existência de fundamentação deficiente, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
