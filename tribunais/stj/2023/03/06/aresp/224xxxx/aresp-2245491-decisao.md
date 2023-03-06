@@ -1,0 +1,12 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por MOROCO PARTICIPAÇÕES E COMERCIO SA, sob o fundamento de que (a) não se verifica a pretendida ofensa aos arts. 489, § 1º, III e IV, e 1022, I e II, e parágrafo único, II, do CPC, porquanto as questões suscitadas foram todas apreciadas pelo acórdão atacado, naquilo que à Turma Julgadora pareceu pertinente à apreciação do recurso, com análise e avaliação dos elementos de convicção carreados para os autos, (b) não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial, e (c) não ficou demonstrada na peça recursal a similitude de situações com soluções jurídicas diversas entre o entendimento esposado pelos doutos julgadores e o paradigma colacionado para confronto.
+No agravo, a agravante sustenta que (a) "a ação originária deve ser suspensa porque depende do julgamento da ação de usucapião, eis que se discute a exata mesma área, ou não se entendendo pela suspensão, as demandas devem ser reunidas pelo claro risco de prolação de decisões conflitantes", (b) "desta forma, está claramente demonstrada a violação as arts. 55, § 3º, 313, V, a, do CPC", (c) "permitir que a ação originária prossiga de forma autônoma e independente, é ferir de morte o disposto nos arts. 1.238 e 1.241 do cc, negando que a área já foi adquirida pela agravante anos atrás, quando cumpriu os requisitos necessários para tanto", (d) quanto à divergência jurisprudencial, "não se sabe quais motivos esta não foi acolhida, tendo em vista tratarem, tanto o caso em tela quanto aquele escolhido como paradigma, de mesma situação fática".
+É o relatório.
+Passo a decidir.
+Não houve impugnação a todos os fundamentos da decisão agravada, sobretudo o item (a).
+A falta de ataque específico à decisão agravada acarreta o não conhecimento do presente recurso, a teor do que dispõe o art. 932, III, do CPC.
+Além disso, não é possível conhecer do apelo quanto à parte impugnada, consoante decidido pela Corte Especial nos autos dos EAREsp 746.775/PR (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+Diante do exposto, não conheço do agravo em recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
