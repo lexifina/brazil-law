@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO AGIBANK S.A com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, em sede de apelação, nos autos de ação de obrigação de não fazer, cumulada com indenização por danos morais e pedido de antecipação de tutela.
+O julgado foi assim ementado (fl. 251):
+APELAÇÃO. AÇÃO INDENIZATÓRIA. DESCONTOS EM CONTA CORRENTE, EM QUE DEPOSITADO O BENEFÍCIO PREVIDENCIÁRIO. PERCENTUAL SUPERIOR A 30%. DANO MORAL. CARACTERIZAÇÃO. NEXO DE CAUSALIDADE. PRESENÇA. FIXAÇÃO DO QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. CIRCUNSTANCIAS DO CASO EM CONCRETO. O desconto indevido em verba alimentar, por si só, caracteriza dano moral. A fixação do quantum a ser solvido a tal título deve ser feita com lastro nas circunstancias do caso em concreto e em observância aos princípios da razoabilidade e proporcionalidade.
+As contrarrazões foram apresentadas às fls. 225-238, a fim de requerer a improcedência dos pedidos feitos.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Alega a parte ter sido violado o art. 422 do Código Civil, sob o argumento de que o acórdão, sem observar que os instrumentos particulares firmados não apresentaram qualquer irregularidade, decidiu pela nulidade da contratação entre as partes.
+Aponta ainda violação dos arts. 188, I, do Código Civil, 373, II, do Código de Processo Civil e 6º, §1º, da LINDB, ante a capacidade da parte de contratar livremente os empréstimos e má valoração das provas acostadas nos autos.
+A respeito da negativa de vigência ao art. 422 do Código Civil, ante a declaração de nulidade da contratação entre as partes, destaca-se que sequer foi mencionada nulidade no acórdão recorrido, sendo discutida apenas a fixação dos danos morais em razão das cobranças indevidas realizadas pela instituição.
+Desse modo, incabível a análise de tais alegações, ante a falta de prequestionamento da matéria.
+Quanto a violação dos art. 188, I, do Código Civil e 373, II, do Código de Processo Civil, respectivamente, verifica-se que, nas razões do recurso especial, não restou demonstrada a violação do alegado dispositivo e que se fez inviável aferir o motivo da violação suscitada.
+A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+Assim, aplica-se por analogia a Súmula n. 284 do STF.
+Por fim, refoge da competência do STJ a análise de suposta ofensa ao art. 6º da LINDB, visto que, após a promulgação da Constituição Federal de 1988, os princípios ali inscritos, a saber, direito adquirido, ato jurídico perfeito e coisa julgada, passaram a ter feição eminentemente constitucional, insuscetível de exame na estreita via do apelo nobre. Nesse sentido, os seguintes julgados: AgInt no AgInt no AREsp n. 1.996.080/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022; e AgInt no AREsp n. 1.934.602/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 5% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
