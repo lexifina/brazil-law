@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de HAUNA TARAGUI RAMBO DE SOUZA  em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL  no  julgamento  do  Habeas Corpus  5043925-48.2023.8.21.7000.
+O paciente está preso preventivamente pela suposta prática do delito de aborto praticado por terceiro.
+A defesa sustenta: a) não há fundamentação concreta a justificar a segregação cautelar, pois não atendidos os requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal; b) "o mero registro de ocorrência policial unilateral, não é suficiente a comprovar a materialidade dos fatos, sendo que a autoria de eventual fato criminoso somente será comprovada após a oitiva de todas as testemunhas arroladas pelo paciente, bem como após a juntada do laudo do IGP" (e-STJ fl. 7); c) "o paciente jamais descumpriu as medidas protetivas lhe impostas e sempre colaborou com a justiça e compareceu aos atos processuais" (e-STJ fl. 10); d) possibilidade de substituição da prisão preventiva por medidas cautelares alternativas; e e) condições pessoais favoráveis.
+Requer, liminar e definitivamente, deferimento da ordem para que seja revogada a prisão preventiva do acusado, com ou sem aplicação de medidas cautelares diversas de prisão.
+É  o  relatório.  Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Do exame da documentação acostada, verifica-se que não está caracterizada manifesta ilegalidade suficiente a superar o óbice do referido enunciado sumular. A decisão impugnada não se mostrou teratológica, estando fundamentada a negativa do pleito liminar.
+No caso, a autoridade impetrada consignou (e-STJ fls. 13-15):
+Consta nos autos da representação que no dia 06 de novembro de 2022 o paciente teria levado a vítima Bruna, então sua namorada, até a propriedade rural do seu genitor, localizada no interior do município de Rolador, onde, sob ameaça de morte praticada, em tese, com o uso de arma de fogo, obrigou a vítima a ingerir oito comprimidos do medicamento Cytotec, que possui efeitos abortivos, bem como a introduzir dois comprimidos na vagina. Na data do registro de ocorrência foram deferidas medidas protetivas de urgência em favor da ofendida.
+A prisão preventiva foi decretada para garantia da ordem pública e aplicação da lei penal.
+ ..
+Em relação ao periculum libertatis, fez referência aos indicativos de que o paciente está dificultando as investigações e que não pretende colaborar com a persecução penal:
+ ..
+Pese a não colaboração, por si, seja motivo controverso para a custódia preventiva, a gravidade concreta da conduta imputada, constitui fundamentação idônea para, ao menos neste momento, justificar a medida excepcional. As alegações quanto à suficiência dos indícios de autoria e de materialidade do delito dependem de ampliação da cognição, inviável em liminar de habeas corpus.
+Dessa forma, não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento definitivo.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
