@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por GEÚ HENRIQUE GAMA DE OLIVEIRA contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão da ausência de violação dos arts. 489 e 1.022 e da incidência da Súmulas n. 280 e 7 do STJ (fls. 381-387).
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS assim ementado (fl. 162):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. AGENTE PENITENCIÁRIO. GRATIFICAÇÃO DE AÇÃO POLICIAL. GAP. EXCLUSÃO DA VERBA. LEI 6682/06 DE EFEITO CONCRETO. INÍCIO DO PRAZO PRESCRICIONAL. AJUIZAMENTO DA AÇÃO EM LAPSO TEMPORAL QUINQUENAL SUPERIOR. PRESCRIÇÃO DE FUNDO DE DIREITO. MANUTENÇÃO DA DECISÃO DE PRIMEIRO GRAU. REFITICAÇÃO DA FIXAÇÃO DOS HONORÁRIOS. RECURSO CONHECIDO E NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 200-209).
+Alega o agravante que "não restam dúvidas acerca da patente violação aos arts. 489, inciso II, e 1.022, inciso II, do Código de Processo Civil, vez que a C. 1ª Câmara deixou de sanar as omissões havidas no Acórdão recorrido, não se pronunciando, portanto, acerca de pontos indispensáveis ao deslinde da controvérsia" (fl. 393).
+Aduz, ainda, que "toda a análise que deve ser feita no presente caso diz respeito exclusivamente à ofensa à lei federal, não demandando qualquer exame da legislação local, eis que, para a completa apreciação do feito, faz-se necessário tão somente averiguar se há ou não incompatibilidade entre o regime de subsídio e o recebimento de gratificações e, em função disso, se a lei instituidora do regime de subsídio teria o condão de revogar a legislação que criou a referida gratificação, todos esses fatos acima destacados, incontroversos nos autos" (fl. 395).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões às fls. 405-412.
+É, no essencial, o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. GRATIFICAÇÃO DE AÇÃO POLICIAL. EXCLUSÃO DA VERBA. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 280/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 2º E 3º, DO CPC.
+1. O acórdão recorrido abordou de forma fundamentada todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação dos arts. 489 e 1.022 do CPC.
+2. Hipótese em que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Leis estaduais n. 5.247/1991, 5.813/1996, 6.276/2001, e 6.682/2006), o que impossibilita a revisão do aresto, na via eleita, por esbarrar no óbice na Súmula n. 280 do STF.
+3. O s honorários advocatícios, regra geral, devem ser fixados consoante o que dispõem os §§ 2º e 3º do art. 85 do CPC.
+4. O Superior Tribunal de Justiça, no julgamento do Tema n. 1.076, consolidou entendimento segundo o qual o art. 85, § 8º, do CPC (fixação de honorários advocatícios por equidade) só se aplica quando, havendo ou não condenação, (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo, o que não é o caso dos autos.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+As alegações do agravante não merecem prosperar.
+Mantenho a decisão monocrática que conheceu do agravo para não conhecer do recurso especial.
+Inicialmente, não há que se falar em violação dos arts. 489 e 1.022 do CPC porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+O Tribunal de origem expressamente se manifestou quanto às omissões apontadas, como se extrai dos seguintes trechos do acórdão recorrido (fls. 204 -207):
+10 Na hipótese dos autos, tem-se no acórdão combatido (fls. 162/170) clara delimitação da controvérsia (direito do servidor quanto à implantação da gratificação de ação policial  GAP, ao pagamento das parcelas retroativas e a fixação dos honorários advocatícios), bem como as razões que levaram esta relatoria a concluir pela configuração da prescrição de fundo de direito.
+11 A eventual alegação de que inexistiu ato de efeito concreto, por não haver nenhum servidor ocupante do cargo de Agente no momento da publicação da lei, não deve prosperar. Conforme exposto exaustivamente no voto proferido, a carreira dos agentes penitenciários foi criada por meio da Lei nº 6.682/2006, logo, consequência lógica é não haver ainda servidor ocupando o cargo à época da publicação da lei, tendo em vista que, para ingresso na carreira, o diploma legal estabelece regras que deveriam ser seguidas pela Administração Pública a partir daquele momento. É por isso que se diz que a lei possui efeitos concretos, por justamente suprimir gratificação, sendo seus efeitos suportados pelo titular do direito destinatário a partir de sua edição, configurando tal momento seu marco inicial, não havendo que se falar de relação de trato sucessivo.
+ ..
+13 Noutro giro, não se vislumbra qualquer obscuridade em razão da aplicação do disposto no art. 85, § 11 do CPC, nem mesmo ofensa ao direito constitucional do acesso à justiça, tendo em vista se tratar, a majoração dos honorários recursais, de medida que a norma processual determina que seja adotada.
+14 Destaque-se, ainda, a impossibilidade, nos presentes autos, de fixação dos honorários advocatícios por apreciação equitativa, como deseja o embargante, haja vista que o previsto no § 8º do art. 85 do CPC somente será aplicado nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, situações não vislumbradas neste feito.
+ ..
+16 A partir dessas premissas, forçoso concluir que, independente da existência (ou não) de erro de julgamento, o fato é que as obscuridades apontadas não se verificam no caso concreto, sendo, portanto, incabível o manejo dos embargos de declaração.
+Como se vê, o acórdão estadual encontra-se devidamente fundamentado. Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mérito, melhor sorte não assiste ao agravante.
+Na origem, trata-se de ação movida contra o estado de Alagoas, pleiteando a imediata implantação e pagamento das parcelas atrasadas (últimos 5 anos, com as devidas correções) referente à gratificação de ação policial - GAP, prevista na Lei Estadual n. 5.813/96, em vigor até a presente data.
+O Tribunal de origem, ao analisar a matéria, assim se manifestou (fls.165-168):
+6 O cerne da controvérsia trazida a juízo reside em apreciar o direito da apelante quanto à implantação da gratificação de ação policial GAP, bem como ao pagamento das parcelas retroativas.
+7Pois bem. Inicialmente, é de ressaltar que a referida gratificação fora instituída pela lei nº 5.813/96, em seus artigos 1º e 2º, senão vejamos:
+ ..
+8 Ocorre que, da análise da evolução legislativa, é de se observar que como advento da lei nº 6.682/2006, foi criada a carreira dos agentes penitenciários, tendo sido fixada a remuneração por subsídio, que, nos termos do artigo 10, seria .. fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou qualquer outra espécie remuneratória, ressalvadas as verbas de gratificação de função de confiança e o adicional noturno, obedecido, em qualquer caso, o disposto no art. 37, X e XI, da Constituição Federal.
+9Com efeito, concluo que, no presente caso, ocorreu prescrição de fundo de direito.
+10Isso porque, consoante se percebe da redação do dispositivo acima destacado, é de se verificar que fora excluída a percepção de qualquer gratificação, ressalvadas as verbas de gratificação de função de confiança e o adicional noturno, não havendo que se cogitar, portanto, o direito à percepção da Gratificação de Ação Policial GAP, desde a sua expressa exclusão.
+11Nessa linha, pertinente consignar que se trata de ato normativo de efeito concreto, o qual acarreta a prescrição de fundo de direito, quando não impugnado nos 05 (cinco) anos subsequentes, considerando-se, assim, que a edição da lei estadual nº 6.682/2006 é o início do citado lapso temporal. Nesse sentido, vejamos:
+ ..
+12Nesse diapasão, cumpre salientar que a prejudicial de mérito, qual seja, prescrição da pretensão autoral, merece ser reconhecida, uma vez que, de fato, trata-se de lei de efeito concreto, sendo esta causadora da alegada violação de direito, não sendo, por consectário lógico, de trato sucessivo.
+13Portanto, à luz do artigo 1º, do Dec. nº 20.190/32, deve ser respeitado o prazo de 05 (cinco) anos para exercitar o direito de ação contra a Fazenda Pública, in verbis:
+ ..
+14Desta feita, tendo a lei estadual nº 6.682/2006 sido publicada em 11 de janeiro 2006, e a ação ajuizada em 04/10/2016, resta configurada prescrição de fundo de direito, haja vista a proposta muito além do lapso temporal estabelecido no artigo 1º, decreto nº 20.910/32.
+Verifica-se que o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, as Leis estaduais n. 5.813/1996, 6.276/2001 e 6.682/2006, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+No mesmo sentido, cito o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATIFICAÇÃO DE AÇÃO POLICIAL - GAP. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. SÚMULA 280/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Leis estaduais 5.247/91, 5.813/96, 6.276/2001, e 6.682/2006). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.546.431/AL, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/04/2020; AgInt no AREsp 1.511.923/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 18/09/2019; AgInt no AREsp 1.482.578/AL, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 02/12/2019; AgRg no REsp 1.298.919/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/03/2014; AgRg no REsp 1.474.018/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/10/2014.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 1.887.002/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2022, DJe de 30/3/2022, grifo meu.)
+Por fim, quanto à alegada ofensa ao art. 85, § 8º, do CPC, sem razão o agravante porquanto o critério utilizado pelo TJAL para fixação da condenação da verba honorária, encontra-se em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que, como regra geral e obrigatória, os honorários advocatícios, na égide do CPC de 2015, devem ser fixados consoante o que dispõem os §§ 2º e 3º do art. 85 do citado diploma processual, sendo a apreciação equitativa da verba, em cada caso, estabelecida apenas subsidiariamente (AgInt no AREsp n. 2.092.870/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022).
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
