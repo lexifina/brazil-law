@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DENOMINADO COMO PRESTAÇÃO DE SERVIÇOS. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM DE TODAS AS CARACTERÍSTICAS DE CONTRATO DE AGÊNCIA E DISTRIBUIÇÃO. REEXAME. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. APLICAÇÃO DA LEI 4.886/65. PRESCRIÇÃO QUINQUENAL. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, ao examinar o contrato de prestação de serviços firmado entre as partes, o Tribunal de origem entendeu que o vínculo é de agência e distribuição e, diante das características do contrato, há afinidades que permitem sujeitá-lo à Lei 4.886/65. A modificação de tal entendimento demandaria a interpretação de cláusulas contratuais e o reexame do substrato fático-probatório dos autos, providências inviáveis no recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+2. Considerando a configuração da contratação como agência e distribuição, com afinidades que permitem sujeitá-la à Lei 4.886/65, é quinquenal o prazo prescricional, nos termos do art. 44, parágrafo único, da Lei 4.886/65, e não trienal, como postula a agravante.
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por CLARO S/A contra decisão que conheceu do agravo para negar provimento ao recurso especial, com os seguintes fundamentos: a) aplicação das Súmulas 5 e 7 do STJ; b) consonância do acórdão recorrido com o entendimento do STJ acerca da incidência da prescrição quinquenal.
+A agravante sustenta que a questão não precisa de reanálise de contrato ou interpretação de cláusulas contratuais (Súmula 5), muito menos a questão fática e de provas (Súmula 7) precisa ser revisitada. Isso, porque o o acórdão recorrido apontou que "o vínculo entre as partes demandantes é de agência e distribuição, permeado de mandato e comissão, em que pese a autora também estivesse autorizada a comercializar aparelhos de telefonia celular e acessórios adquiridos de terceiros desde que homologados pela ANATEL Agência Nacional de Telecomunicações". Contudo, apesar de reconhecer expressamente que a avença celebrada detém a nuance de diversas espécies de contratos típicos, optou o órgão julgador por configurá-la como sendo de agência, aplicando indevidamente a Lei de Representação Comercial. Afirma que, se o contrato não é de agência ou representação comercial, torna-se inaplicável o prazo da Lei Especial, devendo incidir a prescrição trienal.
+A agravada apresentou impugnação (e-STJ, fls. 1.012/1.030).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DENOMINADO COMO PRESTAÇÃO DE SERVIÇOS. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM DE TODAS AS CARACTERÍSTICAS DE CONTRATO DE AGÊNCIA E DISTRIBUIÇÃO. REEXAME. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. APLICAÇÃO DA LEI 4.886/65. PRESCRIÇÃO QUINQUENAL. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, ao examinar o contrato de prestação de serviços firmado entre as partes, o Tribunal de origem entendeu que o vínculo é de agência e distribuição e, diante das características do contrato, há afinidades que permitem sujeitá-lo à Lei 4.886/65. A modificação de tal entendimento demandaria a interpretação de cláusulas contratuais e o reexame do substrato fático-probatório dos autos, providências inviáveis no recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+2. Considerando a configuração da contratação como agência e distribuição, com afinidades que permitem sujeitá-la à Lei 4.886/65, é quinquenal o prazo prescricional, nos termos do art. 44, parágrafo único, da Lei 4.886/65, e não trienal, como postula a agravante.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada.
+Na hipótese, ao examinar o contrato de prestação de serviços firmado entre as partes, o eg. Tribunal de origem entendeu que o vínculo é de agência e distribuição e, diante das características do contrato, há afinidades que permitem sujeitá-lo à Lei 4.886/65.
+A propósito, confiram-se os seguintes trechos do v. acórdão recorrido (e-STJ, fls. 706/708):
+"Apesar de o contrato entre as demandantes ser denominado de prestação de serviços, há nele todas as características de contrato típico de agência e distribuição, ao contrário do que julgou a r. sentença.
+É adequado transcrever o art. 710 do Código Civil: "Pelo contrato de agência, uma pessoa assume, em caráter não eventual e sem vínculos de dependência, a obrigação de promover, à conta de outra, mediante retribuição, a realização de outros negócios, em zona determinada, caracterizando-se a distribuição quando o agente tiver à sua disposição a coisa a ser negociada. Parágrafo único. O proponente pode conferir poderes ao agente para que este o represente na conclusão dos contratos".
+No caso em reexame a autora foi contratada pela ré para o fim de negociar serviços e produtos, nisso compreendida a venda de aparelhos de telefonia celular e de acessórios e de planos de serviço de telefonia pós-pagos ou pré- pagos, bem como a prestação de serviços de assistência técnica em caráter de exclusividade, incumbindo à autora representar a ré junto a clientes - consumidores finais.
+Há no contrato, portanto, a tipicidade de agência e distribuição, além de regras concernentes ao mandato e à comissão, conforme, aliás, preconiza o art. 721 do Código Civil, a saber: "Aplicam-se ao contrato de agência e distribuição, no que couber, as regras concernentes ao mandato e à comissão e as constantes de lei especial".
+Então, embora o "nomen iuris" seja contrato de prestação de serviços, o vínculo entre as demandantes é de agência e distribuição, permeado de mandato e comissão, em que pese a autora também estivesse autorizada a comercializar aparelhos de telefonia celular e acessórios adquiridos de terceiros desde que homologados pela ANATEL - Agência Nacional de Telecomunicações, compatíveis com a faixa de frequência e certificados pela ré.
+Diante das características do contrato há afinidades que permitem sujeitá-lo à Lei n. 4.886/65, com as modificações da Lei n. 8.420/92, preservada, como lei especial que é, na parte final do art. 721 do Código Civil.
+(..)
+Dirimido que o vínculo entre as demandantes o vínculo é regulado pelo Código Civil e pela Lei n. 4.886/65, alterada pela Lei n. 8.420/92, não tem razão a autora ao argumentar que o contrato é de adesão e sujeitou-a a coação econômica." (grifou-se)
+Nesse contexto, a reforma do julgado demandaria a interpretação de cláusulas contratuais e o reexame do substrato fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+Em precedentes análogos, o Superior Tribunal de Justiça entendeu aplicáveis os citados óbices sumulares. Confiram-se:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+1.Para rever a conclusão do Tribunal de origem acerca da inexistência de abusividade na rescisão contratual, seria imprescindível promover o reexame do contexto fático-probatório dos autos, bem ainda dos termos contratuais, providências inviáveis a esta Corte Superior ante os óbices das Súmulas 5 e 7 do STJ.
+2. O acolhimento do inconformismo recursal, no sentido de verificar se o contrato de prestação de serviço de consultoria para fidelização de clientes tinha o mesmo objeto do contrato de representação comercial, demandaria a desconstituição das conclusões estabelecidas pela Corte de origem, o que não é possível sem a análise das cláusulas contratuais e do conjunto fático e probatório dos autos, atraindo os óbices das Súmulas 5 e 7/STJ.
+3. Para alterar as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a apontada ilegitimidade passiva ad causam, seria imprescindível a interpretação de cláusulas do contrato celebrado entre as partes e a incursão no conjunto fático e probatório dos autos, providências que atraem os óbices estabelecidos pelas Súmulas 5 e 7 do STJ.
+Precedentes.
+4. Consoante jurisprudência desta Corte Superior, a pretensão do representante comercial autônomo para cobrar comissões nasce mês a mês com o seu não pagamento no prazo legal e está sujeita ao prazo quinquenal previsto no art. 44 da Lei 4.886/65. Precedentes.
+5. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 1583482/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020) - grifou-se.
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES.
+RELAÇÃO DE REPRESENTAÇÃO COMERCIAL NÃO CONFIGURADA.
+MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ possui pacífico no sentido de que não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões fundamentais ao resultado do julgamento.
+2. O acórdão afastou a alegada existência de contrato de representação comercial entre as partes, amparado na relação contratual estabelecida, bem como no conjunto fático-probatório dos autos. A revisão do julgado nesse ponto, esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 1402194/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019) - grifou-se.
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE REPRESENTAÇÃO COMERCIAL.
+RESCISÃO UNILATERAL. INDENIZAÇÃO PREVISTA DO ART. 27, J, DA LEI 4.886/65. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5/STJ E 7/STJ. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias, após o acurado exame da documentação acostada aos autos, foram categóricas em afirmar que a ora agravante não se incumbiu do ônus de comprovar os fatos modificativos ou extintivos do direito da ora agravada, de modo que a modificação de tal entendimento encontra óbice na Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. O Tribunal a quo foi categórico ao afirmar que as partes mantinham entre si contrato de representação comercial, regido pela Lei 4.866/65, por prazo determinado e que a agravante, de forma unilateral, rescindiu o contrato, injustificadamente, antes do seu termo, surgindo, então, para o representante, o direito à indenização. A alteração de tal entendimento, como pretendida, demandaria a análise das cláusulas contratuais e análise do acervo fático-probatório dos autos, o que é vedado pelas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgRg no AREsp 497.205/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/08/2015, DJe 21/08/2015) - grifou-se.
+Com efeito, o acolhimento do inconformismo recursal, no sentido de verificar se o contrato de prestação de serviços firmado pelas partes tem natureza predominante de agência e distribuição, de modo a sujeitar a contratação à Lei 4.886/65, demandaria a desconstituição das conclusões estabelecidas pela Corte de origem, o que não é possível sem a análise das cláusulas contratuais e do conjunto fático e probatório dos autos, atraindo os óbices das Súmulas 5 e 7 do STJ.
+Considerando a configuração da contratação como agência e distribuição, com afinidades que permitem sujeitá-la à Lei 4.886/65, é quinquenal o prazo prescricional, nos termos do art. 44, parágrafo único, da Lei 4.886/65, e não trienal, como postula a recorrente, ora agravante.
+Por oportuno, seguem os ensinamentos de André Rodrigues Parente:
+"A agência brasileira é objeto simultâneo de duplo regramento legal; tanto o Código Civil nacional, entre os arts. 710 e 721 regula a questão, quanto a Lei nº 4.886/65, esta mais profundamente, disciplinam a representação comercial.
+O Código Civil faz menção superficial à temática, no art. 718, aludindo à legislação especial, verbis:
+Art. 718. Se a dispensa se der sem culpa do agente, terá ele direito à remuneração até então devida, inclusive sobre os negócios pendentes, além das indenizações previstas em lei especial.
+A Indenização de Clientela, de forma concreta, é o objeto do art. 27, j, e parágrafo 1º, da Lei 4.886/65 e, senão vejamos:
+Art. 27. Do contrato de representação comercial, além dos elementos comuns e outros a juízo dos interessados, constarão obrigatoriamente:
+(..)
+j) indenização devida ao representante pela rescisão do contrato fora dos casos previstos no art. 35, cujo montante não poderá ser inferior a 1/12 (um doze avos) do total da retribuição auferida durante o tempo em que exerceu a representação;
+§ 1º Na hipótese de contrato a prazo certo, a indenização corresponderá à importância equivalente à média mensal da retribuição auferida até a data da rescisão, multiplicada pela metade dos meses resultantes do prazo contratual.
+(..)
+Assim como, verbi gratia, no direito português, em que a própria legislação da agência prescreve o prazo para o exercício do direito de cobrar, judicialmente, a Indenização de Clientela, no âmbito brasileiro a questão é objeto de regramento no art. 44, parágrafo único da Lei 4886/65, pela qual se prescreve em 05 anos a ação do agente para pleitear a multicitada indenização prevista pelo art. 27, j, do mesmo diploma legal.
+Ressalte-se que o prazo suso aludido é para o exercício da ação, não limitando, a 05 anos, o cálculo da Indenização de Clientela. Esse envolverá toda a vigência contratual." (PARENTE, André Rodrigues. O contrato de agência brasileiro e a indenização de clientela: uma análise crítica, reflexiva e comparativa com o sistema português. Rio de Janeiro: Lumen Iuris, 2018. págs. 52-58)
+Logo, o entendimento do Tribunal a quo, no tocante à incidência da prescrição quinquenal, conforme regramento do art. 44, parágrafo único, da Lei 4.886/65, não merece nenhum reparo.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
