@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+HENRIQUE CÉSAR NUNES DE BERREDO opõe embargos de declaração a acórdão assim ementado (fls. 544-547):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADEDO APELO EXTREMO. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A decisão de admissibilidade na origem não vincula o Superior Tribunal de Justiça, que promoverá nova análise dos pressupostos recursais dos casos que lhe são submetidos.
+2. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+3. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+4. Agravo interno desprovido.
+Em suas razões, o embargante aponta a existência de contradição no julgamento. Reitera as mesmas teses anteriormente analisadas, qual sejam, que o recurso "já teve sua admissibilidade analisada , conforme se demonstra, sendo permissa vênia, altamente contraditório ao negar prosseguimento do recurso por intempestividade" (fl. 555). Defende ainda que o print de tela do PJe apresentado no corpo da petição dos embargos (fl. 554) é documento idôneo para comprovar a tempestividade.
+Requer, assim, o provimento dos presentes aclaratórios a fim de que seja sanada a contradição apontada, bem como seja reconhecida a tempestividade do recurso especial e lhe seja dado provimento.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. REANÁLISE. DESCABIMENTO. PRECLUSÃO CONSUMATIVA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Transcorrido o momento oportuno, é incabível a juntada de documento que busca sanar a intempestividade do recurso, ante a ocorrência da preclusão consumativa.
+4. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Registre-se que, no caso, o acórdão embargado foi claro ao analisar a questão, apontando que o único documento passível de aferição do prazo recursal era a certidão de fl. 419, ressaltando ainda que não foi apresentado outro documento idôneo para fins de comprovação da alegada data de intimação via PJe. Confira-se trecho do voto condutor do agravo interno (fl. 546, destaquei):
+No caso, o agravante alega que o Tribunal de origem, na emissão do juízo de admissibilidade, levou em consideração o sistema PJE, bem como a publicação no DJE, que define o prazo processual e automaticamente já contabiliza qualquer feriado ou suspensão de prazo. Entretanto, não juntou aos autos documento do Tribunal de origem certificando o alegado, limitando-se a apresentar nas razões do agravo interno as datas que constariam no expediente do PJE.
+Além disso, da análise dos autos verifico que o único documento passível de aferição do prazo recursal é a certidão de fl. 419, que certificou a disponibilização do acórdão proferido em embargos de declaração, ocorrida em 3/9/2021, com a informação de que a publicação ocorreria no próximo dia útil subsequente, ou seja, 6/9/2021.
+Dessa forma, não obstante as razões expostas pelo agravante, além da sobredita certidão de fl. 419, não foi apresentado outro documento idôneo para fins de comprovação da alegada data de intimação via PJE e - que a mera indicação das datas que constariam do PJE na petição de agravo interno não é suficiente para tanto - deve ser mantida a decisão que reconheceu a intempestividade do recurso especial.
+Nesse sentido:
+ ..
+Nas razões destes embargos, a parte embargante não demonstrou a ocorrência de contradição, mas restringiu-se a reiterar as teses apresentadas nos recursos anteriormente interpostos, demonstrando seu interesse na reapreciação da questão.
+Por fim, ressalta-se que, além de o recurso manejado não se prestar ao reexame de matéria já apreciada, não foi apresentado, no momento oportuno, qualquer documento idôneo para fins de comprovação da data de intimação pelo sistema, razão pela qual não é cabível a sua apresentação somente em sede de embargos de declaração. Desse modo, inviável a apreciação de documento não apresentado anteriormente, ante a preclusão consumativa. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO SOBRE UMA DAS ALEGAÇÕES FEITAS NOS PRIMEIROS ACLARATÓRIOS. OCORRÊNCIA. EMBARGOS ACOLHIDOS PARA AGREGAR FUNDAMENTO AOS PRIMEIROS EMBARGOS.
+1. Os presentes embargos declaratórios não se fundamentam na eventual existência dos vícios no acórdão que julgou o recurso especial da parte adversa, mas somente no fato de não ter sido explicitamente refutado uma de suas alegações feitas nos primeiros embargos de declaração aviados.
+2. É vedado à parte inovar nas razões dos embargos de declaração, tendo em vista a ocorrência da preclusão como consequência de a questão não ter sido tratada oportunamente.
+3. Presente o vício imputado no acórdão recorrido, acolhem-se os embargos de declaração somente para agregar fundamentação aos embargos de declaração anteriormente aviados, sem efeito modificativo no dispositivo que rejeitou os primeiros aclaratórios (EDcl nos EDcl no AgInt no REsp 1.610.303/SE, relator Ministro Lázaro Guimarães, Desembargador Convocado, Quarta Turma, julgado em 23/8/2018, DJe de 29/8/2018, destaquei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. APELO NOBRE. PANDEMIA DA COVID-19. SUSPENSÃO DOS PRAZOS. RESOLUÇÕES DO CNJ NºS 313, 314 E 318/2020. TRIBUNAL DE ORIGEM. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO. ATO DA INTERPOSIÇÃO. NECESSIDADE. SISTEMA ELETRÔNICO. ERRO NO PRAZO. COMPROVAÇÃO. AUSÊNCIA. JUNTADA POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, nos termos dos arts. 1.003, § 5º, e 219 do Código de Processo Civil de 2015.
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o art. 1.003, § 6º, do Código de Processo Civil de 2015. Precedente da Corte Especial.
+4. Em virtude da pandemia do novo coronavírus (Covid-19), o Conselho Nacional de Justiça editou a Resolução nº 313, de 19/3/2020, que determinou a suspensão dos prazos processuais, a partir de sua publicação até o dia 30/4/2020, voltando a correr no dia 4/5/2020.
+5. A Resolução CNJ nº 318, de 7/5/2020, prorrogou a vigência das Resoluções nºs 313 e 314 até o dia 31 de maio de 2020, mantendo a fluência dos prazos desde 4/5/2020 e permitindo a suspensão, caso autoridade estadual determinasse medidas restritivas (lockdown), ou a pedido do próprio Tribunal, suspensão que seria válida somente para aquela unidade da federação.
+6. Na hipótese, o recorrente não comprovou, no ato de interposição do recurso especial, que houve determinação local de prorrogação da suspensão dos prazos além do período previsto nas resoluções do CNJ.
+7. Não se aplica a modulação de efeitos adotada no REsp nº 1.813.684/SP aos recursos interpostos após a data da publicação do acórdão, ocorrida em 18/11/2019.
+8. O erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser devidamente comprovado para que configure justa causa capaz de afastar a intempestividade do recurso, o que não ocorreu no caso dos autos.
+9. Não é possível a juntada posterior do documento que corrigiria a irregularidade, ante a ocorrência da preclusão consumativa.
+10. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.034.914/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022, destaquei.)
+Assim, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
