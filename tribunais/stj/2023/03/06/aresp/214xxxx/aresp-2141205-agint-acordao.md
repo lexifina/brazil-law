@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  HDI  SEGUROS  S.A.  contra  a  decisão  (fls.  1.376/1.379  e-STJ)  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido  à  incidência  das  Súmulas  nºs  5  e  7/STJ.
+Nas  presentes  razões,  a  agravante  defende  a  inaplicabilidade  das Súmulas nºs 5 e 7/STJ,  tendo  em  vista  que  a  matéria  discutida  no  recurso  especial  é  exclusivamente  de  cunho  jurídico.
+Argumenta  que  não  pode  responder  pelo  valor  integral  da  condenação.
+ Alega  que  a  cobertura  de  danos  morais  é  limitada  ao  valor  de  R$  50.000,00  (cinquenta  mil  reais),  devendo  ser  observado  o  limite  estipulado  na  apólice  de  seguro.
+Impugnação  às  fls.  1.390/1.396  ( e-STJ ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  ACIDENTE  AUTOMOBILÍSTICO.  PENSÃO.  SEGURADORA.  CONDENAÇÃO.  LIMITES.  APÓLICE  CONTRATADA.  REVISÃO.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  No  caso,  rever  a  conclusão  firmada  pelas  instâncias  ordinárias,  de  que  houve  extrapolação  dos  limites  indenizatórios  previstos  na  apólice  de  seguro,  demandaria  o  reexame  do  contexto  fático-probatório  e  a  análise  de  cláusulas  contratuais,  procedimentos  vedados  na  estreita  via  do  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+De  início,  cumpre  asseverar  que  a  legislação  processual  civil  vigente,  em  seus  artigos  370  e  371,  manteve  o  princípio  da  persuasão  racional  do  juiz,  que  preceitua  caber  ao  magistrado  dirigir  a  instrução  probatória  por  meio  da  livre  análise  das  provas  e  da  rejeição  da  produção  daquelas  que  se  mostrarem  protelatórias.
+Com  efeito,  ao  julgador  é  permitido  formar  a  sua  convicção  em  qualquer  elemento  de  prova  disponível  nos  autos,  bastando  para  tanto  que  indique  na  decisão  os  motivos  que  lhe  formaram  o  convencimento,  de  forma  que  a  intervenção  desta  Corte  quanto  a  tal  valoração  encontra  óbice  na  Súmula  nº  7/STJ.
+No  caso  dos  autos,  consta  no  acórdão  recorrido  que  a  indenização  devida  à  agravada  foi  estipulada  nos  limites  estabelecidos  na  apólice  contratada, conforme se colhe do  seguinte  trecho  do  julgado:
+"(..)
+O  terceiro  apelo  indicou  a  existência  de  conexão  com  os  processos  n.211101-86.2011.8.09.0180  e  430262-98.2011.8.09.0180,  ambas  decorrentes  do  mesmo  fato  gerador  aqui  analisado.  No  mérito,  alegou  que  sua  obrigação  é  regressiva  e  limitada  aos  valores  contratados  na  apólice,  não  havendo  mora  de  sua  parte,  visto  que  seu  encargo  é  de  reembolso  ao  segurado.  Afirmou  que  não  há  provas  de  que  o  motorista  do  segurado  seria  responsável  pelo  sinistro.  Refutou  a  pensão  mensal,  considerando  que  não  restou  provado  que  a  vítima  trabalhava  ao  tempo  do  acidente.  Por  fim,  entendeu  que  não  deve  ser  condenado  em  honorários,  já  que  não  se  opôs  à  denunciação  da  lide.
+Pois  bem.
+O  processo  211101-86.2011.8.09.0180  já  foi  julgado,  assim,  não  há  que  se  falar  na  reunião  dos  feitos.  No  que  se  refere  ao  430262-98.2011.8.09.0180  este  encontra-se  com  este  relator.
+De  uma  análise  da  sentença,  verifica-se  que  o  pagamento  da  condenação  à  terceira  apelante  foi  imposta  apenas  na  medida  da  cobertura  da  apólice,  assim,  deixo  de  conhecer  desta  parte  do  recurso,  pois  ausente  o  interesse  recursal.
+Por  outro  lado,  a  responsabilidade  da  seguradora,  ora  terceira  apelante,  ao  aceitar  a  denunciação  da  lide  e  contestar  os  pedidos  inaugurais,  consoante  movimento  3,  arquivo  23,  é  solidária,  inclusive  com  juros  de  mora  desde  a  data  da  citação,  conforme  dispõe  a  Súmula  nº  537  do  STJ  (..)"  (fls.  1.205/1.206  e-STJ  -  grifou-se).
+Nesse  contexto,  rever  a  conclusão  firmada  pelas  instâncias  ordinárias,  de  que  está  presente  o  interesse  recursal , visto  que  a  indenização  superou  os  valores  contratados,  demandaria  o  reexame  do  contexto  fático-probatório  e  a  análise  de  cláusulas  contratuais,  procedimentos  vedados  na  estreita  via  do  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+A  propósito:
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA  DE  INDENIZAÇÃO  SECURITÁRIA.  INDENIZAÇÃO  COMPLEMENTAR.  IRRESIGNAÇÃO  SUBMETIDA  AO  NCPC.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  ALEGADA  DE  FORMA  GENÉRICA.  SÚMULA  Nº  284  DO  STF.  HONORÁRIOS  ADVOCATÍCIOS  SUCUMBENCIAIS.  PERCENTUAL  SOBRE  VALOR  DA  CONDENAÇÃO.  CRITÉRIO  QUE  PRECEDE  AOS  DEMAIS.  PRETENSÃO  DE  RECONHECMENTO  DE  SUCUMBÊNCIA  MÍNIMA.  SÚMULA  Nº  7  DO  STJ.  DISCUSSÃO  QUANTO  AOS  LIMITES  DA  APÓLICE.  REVOLVIMENTO  DO  CONJUNTO  FÁTICO-PROBATÓRIO.  SÚMULAS  N.os  5  E  7  DO  STJ.  CORREÇÃO  MONETÁRIA.  FLUÊNCIA.  TERMO  INICIAL.  REFORMATIO  IN  PEJUS.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+5.  No  caso  dos  autos,  a  alegação  de  que  a  indenização  securitária  concedida  estaria  ultrapassando  o  valor  coberto  pela  apólice  não  pode  ser  acolhida  sem  nova  interpretação  do  contrato  nem  reexame  de  provas,  esbarrando,  portanto,  nas  Súmulas  nº  5  e  7  do  STJ.
+6.  A  correção  monetária  representa  um  mecanismo  de  recomposição  da  efetiva  desvalorização  da  moeda,  por  isso,  em  casos  como  o  presente,  deve  incidir  desde  a  data  do  efetivo  desembolso,  pelo  segurado,  do  valor  pago  pelo  reparo/recomposição  do  bem  sinistrado.
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.307.283/MG,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  16/8/2021,  DJe  de  19/8/2021  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL  -  AÇÃO  INDENIZATÓRIA  POR  DANOS  MATERIAIS  E  MORAIS  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO  -  INSURGÊNCIA  RECURSAL  DA  DEMANDADA.
+1.  No  caso  concreto,  o  Tribunal  de  origem  examinou  os  elementos  de  convicção  dos  autos,  concluindo  ser  devida  a  indenização  securitária  pelos  danos  materiais,  morais  e  pelo  pensionamento,  até  os  limites  previstos  na  apólice.  Alterar  tais  conclusões  demandaria  a  análise  de  provas  e  cláusulas  contratuais,  providência  esta  vedada  em  sede  de  recurso  especial,  em  razão  dos  óbices  das  Súmulas  5  e  7  do  STJ.
+2.  O  posicionamento  adotado  no  acórdão  recorrido  está  em  consonância  com  a  orientação  desta  Corte  Superior.  Incidência  da  Súmula  83  do  STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.284.244/PR,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  18/5/2017,  DJe  de  24/5/2017  -  grifou-se).
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SEGURO  DE  VEÍCULO.  1.  INDENIZAÇÃO  POR  DANOS  MATERIAIS.  REVISÃO  DAS  CLÁUSULAS  CONTRATUAIS  E  DO  CONJUNTO  FÁTICO-PROBATÓRIO.  SÚMULAS  5  E  7/STJ.  2.  DANOS  MORAIS.  MERO  DESCUMPRIMENTO  CONTRATUAL.  SÚMULA  83/STJ.  3.  HONORÁRIOS  ADVOCATÍCIOS.  REVISÃO  DOS  CRITÉRIOS  PARA  SUA  FIXAÇÃO.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  4.  AGRAVO  REGIMENTAL  IMPROVIDO.
+1.  No  tocante  ao  pedido  de  indenização  dos  danos  materiais  relativo  aos  serviços  de  adaptação  do  veículo  sinistrado,  o  Tribunal  de  origem  negou  provimento  ao  pedido,  pois  "já  abrangidos  pela  indenização  securitária,  respeitados  os  limites  da  apólice".  A  revisão  do  julgado  a  quo  exigiria  o  revolvimento  das  cláusulas  pactuadas  entre  as  partes  e  das  circunstâncias  de  fato  pertinentes  ao  caso,  o  que  não  se  admite  em  recurso  especial,  diante  da  aplicação  das  Súmulas  5  e  7  desta  Corte.
+(..)
+4.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  687.034/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  6/8/2015,  DJe  de  24/8/201  5  -  grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
