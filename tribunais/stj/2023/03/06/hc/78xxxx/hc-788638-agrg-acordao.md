@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por EMERSON MATHEUS LESSA DE SOUZA BREGUEZ - preso preventivamente, em 19/10/2022, decorrente de suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006 - contra a decisão, da lavra da Ministra Presidente deste Superior Tribunal, que indeferiu liminarmente o writ impetrado a favor do ora agravante (fls. 61/63).
+Alega a parte agravante, em suma, que há ilicitude de provas produzidas nos autos, porque obtidas em decorrência de infundada busca pessoal (fls. 65/70).
+Requer, assim, o relaxamento da prisão cautelar em tela, com trancamento da ação penal originária e consectária absolvição do ora agravante. Subsidiariamente, pugna por sua revogação, com a concessão de liberdade provisória incondicionada ou, ainda, mediante cominação de medidas cautelares alternativas não prisionais, positivadas no art. 319 do referido diploma.
+O Ministério Público estadual se manifestou pelo desprovimento do agravo regimental (fls. 84/94).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado da Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+Nesse contexto, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado da Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, sobre os fundamentos da prisão cautelar do ora agravante, o decisum do Juízo de Direito da 39ª Vara criminal da comarca da Capital/RJ explicitou o seguinte (fl. 40):
+ ..
+Para a custódia cautelar deve ser demonstrada a coexistência de fumus comissi delicti e periculum libertatis que justifiquem o cárcere antes do trânsito em julgado de decisão condenatória.
+No presente caso, atesta-se a presença do fumus comissi delicti pela prisão em flagrante dos custodiados, com a apreensão de material entorpecente, nos termos do laudo prévio e do auto de apreensão anexos, bem como pelas declarações prestadas em sede policial.
+O periculum libertatis, definido como o risco provocado pela manutenção dos indiciados em liberdade, está igualmente presente: trata-se de crime grave, em que os custodiados traziam consigo certa quantidade de droga para venda.
+Consta do auto de prisão em flagrante que policiais militares, em patrulhamento, tiveram atenção voltada para o veículo Fiat Palio placa LNP-2916 em que se encontravam os custodiados. Relata que, ao procederem com a abordagem e revista do veículo, foi encontrada farta quantidade de material entorpecente em uma mochila, entre o banco do carona e o do motorista. Narra que foram apreendidos 214 pinos contendo pó branco, 20 embalagens contendo erva seca, 15 embalagens contendo crack e um frasco de cor marrom contendo líquido branco e transparente aparentando ser lólo. Acrescenta que, ao serem indagados sobre o material apreendido, os custodiados confessaram a propriedade da droga e afirmaram tê-la comprado no Parque União com intuito de revendê-la.
+O auto de apreensão indica que foram apreendidos 150g de maconha, 80g cocaína, 16g de crack e 20 mililitros de solvente orgânico, sendo certo que as circunstâncias da prisão, bem como a quantidade e variedade da substância entorpecente que os custodiados traziam consigo, reforçam os indícios de que o material ilícito se destinava à venda.
+Ora, os custodiados tinham em sua posse certa quantidade de droga, em variedade, sendo certo que dentre as drogas apreendidas em sua posse havia cocaína e crack, conforme se extrai do laudo de exame de material entorpecente, substâncias que, por sua natureza, levam rapidamente à dependência e que possuem alto grau de destruição do organismo, situação que não pode ser ignorada pelo juízo, já que incrementa a reprovabilidade da conduta.
+A gravidade da conduta é acentuada já que, apesar de não configurar o tráfico interestadual, contribui para o tráfico de drogas entre as cidades do Estado e para a expansão da atuação das facções criminosas que comandam a atividade.
+ ..
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
