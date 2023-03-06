@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de MANOEL MÁRCIO DA SILVA GOMES, apontando como autoridade coatora o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0638541-45.2022.8.06.0000).
+Narram os autos que o paciente, condenado em mais de uma execução penal, não teve os seus processos unificados por inércia estatal.
+Neste habeas corpus, a d. Defesa alega que "o Paciente alcançou o requisito objetivo (temporal) e subjetivo (bom comportamento carcerário) para Progredir de Regime para Semiaberto desde 09/07/2021, e até a presente data o juízo da execução não proferiu decisão unificando as penas para estabelecer novo relatório de situação executória que permitirá a progressão para regime mais branco, dando contextos de cumprimento de pena em caráter perpetuo" (fl. 16).
+Requer, inclusive LIMINARMENTE, "reconhecer o excesso de execução para conceder a progressão de regime para o semiaberto harmonizado com prisão domiciliar mediante monitoramento eletrônico, nos termos do enunciado de Súmula Vinculante nº 56 do Supremo Tribunal Federal -STF, ainda que EX OFFICIO, para que MANOEL MARCIO DA SILVA GOMES, comunicando a ordem a autoridade coatora para o seu cumprimento" (fl. 18).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Pelo que se afere da exordial, o habeas corpus investe contra a ausência de apreciação de pedido nos autos de execução penal na origem.
+Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento constitucional em situação como a presente, sob pena de ensejar a indevida supressão de instância.
+Sobre o excesso de prazo nos processos de natureza penal, bem explica o seguinte julgado desta Quinta Turma que: "Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional" (RHC 122.744/BA, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 16/3/2020, grifei).
+Porém, como dito, o eg. Tribunal não se manifestou acerca da alegada omissão e, nesse aspecto, "Não merecem conhecimento as matérias não apreciadas na origem (..) Tal intervenção nesta Corte Superior configuraria indevida prestação jurisdicional em supressão de instância" (EDcl no RMS 52.007/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 7/3/2019, grifei).
+Ante o exposto, indefiro liminarmente o presente writ.
+Intime-se, com urgência, o d. Juízo da Execução, pois recomenda-se que, desde já, tome todas as providências possíveis a analisar o pleito do paciente com a devida celeridade.
+P. I.
