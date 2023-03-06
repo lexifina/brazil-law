@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por IVONE FONTANA AMARAL contra decisão de minha lavra, assim fundamentada (fls. 182/184):
+Trata-se de recurso especial interposto por IVONE FONTANA AMARAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Narram os autos que o ESTADO DO PARANÁ opôs embargos à execução movida em seu desfavor pela parte ora recorrente, os quais restaram julgados procedentes pelo Juízo de 1º Grau para reconhecer o excesso de execução e, via de consequência, fixar o quantum debeatur em R$ 143.823,59 (cento e quarenta e três mil, oitocentos e vinte e três reais e cinquenta e nove centavos).
+A sentença foi confirmada pelo Tribunal de origem, nos termos da ementa que segue (fl. 84):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA - FIXAÇÃO DE HONORÁRIOS NO DESPACHO INAUGURAL DA EXECUÇÃO - DECISÃO PROFERIDA SOB A ÉGIDE DO CPC/1973 - CORRETA APLICAÇÃO DOS PERCENTUAIS VIGENTES À ÉPOCA - OPOSIÇÃO DE EMBARGOS À EXECUÇÃO - HONORÁRIOS LÁ FIXADOS - CORRETA REMUNERAÇÃO DOS PROFISSIONAIS PELA FASE - EXECUÇÃO QUE PERMANECEU SUSPENSA ATÉ A DECISÃO FINAL DOS EMBARGOS - SIMPLES PETIÇÃO REQUERENDO EXPEDIÇÃO DE PRECATÓRIO - AUSÊNCIA DE TRABALHO ADICIONAL A JUSTIFICAR A MAJORAÇÃO DA VERBA ANTES FIXADA - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Sustenta a parte recorrente violação ao art. 85, §§ 1º, 2º e 3º, I, do CPC, ao argumento de que embora os honorários advocatícios tivessem sido originalmente fixados em 5% sobre o débito, no despacho inicial proferido ainda na vigência do CPC/1973, sua fixação definitiva se deu já em 2021, devendo a verba honorária ser arbitrada segundo os parâmetros do CPC/2015.
+Nesse sentido, assevera que (fl. 108):
+Não prevalece na execução a fixação provisória dos honorários advocatícios arbitrados no início dessa fase.
+O E. Tribunal a quo olvidou-se que são autônomas as verbas honorárias da execução e dos embargos à execução, bem como que a fixação definitiva dos honorários da execução se faz com supedâneo na lei vigente, ou seja, o CPC/2015. Todo o trabalho após a propositura da execução é feita na defesa em embargos ou impugnação à execução.
+A verdade é que a verba honorária fixada no início da execução é provisória e só se aplica em caso de pronto pagamento, por isso ela é fixada em valor inferior.
+Daí requerer o provimento do recurso especial (fl. 109):
+a)  ..  a fim de que seja determinado a fim de que os honorários advocatícios devidos à parte recorrente na execução sejam fixados de forma definitiva, entre 10% e 20% do valor atualizado da execução, na forma prevista no artigo 85, §1º, §2º e §3º, inciso I, do CPC/2015, bem como em respeito ao decidido em caráter vinculante no Tema/Repetitivo587 por esse E. STJ.
+Contrarrazões às fls. 150/153.
+Recurso admitido na origem (fls. 164/166).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O presente agravo interno não merece prosperar.
+Com efeito, "o STJ possui entendimento firme no sentido da autonomia entre os honorários fixados nos embargos à execução e os honorários relativos à propositura da execução, respeitado o teto legal estabelecido no Código de Processo Civil" (AgInt nos EDcl no REsp n. 1.888.835/RS, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/6/2022 - Grifos nossos).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO E EMBARGOS. VERBA HONORÁRIA ÚNICA PARA AMBAS AS AÇÕES. ACÓRDÃO EM CONTRARIEDADE COM A JURISPRUDÊNCIA DO STJ. TEMA REPETITIVO N. 587. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF.
+I - Trata-se de agravo de instrumento interposto contra decisão que, em cumprimento de sentença, rejeitou o pedido de fixação de honorários advocatícios. No Tribunal a quo, o agravo de instrumento foi improvido.
+II - O acórdão contraria a jurisprudência desta Corte no sentido de que os honorários dos embargos à execução são independentes dos honorários fixados na execução.
+III - Conforme tese firmada sobre o Tema Repetitivo n. 587: ""Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973."" Nesse sentido: AgInt no REsp 1.850.732/PE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 8/10/2021; e AgInt no REsp 1.337.173/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 6/12/2019.
+IV - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+V - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.819.523/RS, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 18/4/2022.)
+Desse modo, fixada de forma autônoma a verba honorária relativa à propositura da execução, não está ela vinculada ao trabalho posteriormente realizado pelo causídico nos embargos à execução, o qual será remunerado, conforme for o caso, por novos honorários de sucumbência arbitrados nos próprios embargos.
+ANTE O EXPOSTO, conheço do recurso especial e nego-lhe provimento.
+Insiste a parte agravante na tese de afronta ao art. 85, §§ 1º, 2º e 3º, I, do CPC, ao argumento de que (fl. 1920:
+ ..  uma coisa são os honorários provisórios fixados no início da execução (época em que vigia o art. 20 do CPC/73), outra coisa são os honorários definitivos arbitrados ao final da execução (época que vigia o artigo 85, § 3º, inciso I, do CPC/2015, com patamar mínimo de 10%).
+Ou seja, o douto Ministro Relator desconsiderou esse fundamento essencial do recurso especial aviado, qual seja, o respeito àfixação dos honorários definitivos no patamar mínimo legal de 10%.
+O fato da parte autora, vencida nos embargos à execução, ao contrário do entendimento do douto Ministro Relator, não tem o condão de reduzir o patamar mínimo de 10% para o arbitramento dos honorários definitivos nos autos de execução. A lei existe e necessita ser cumprida, não havendo nela a ressalva que o patamar de 10% será reduzida se o exequente for vencido em sede de embargos à execução.
+Requer, assim, a reconsideração ou a reforma da decisão agravada.
+Impugnação às fls. 199/202.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL. HONORÁRIOS INICIAIS DE SUCUMBÊNCIA ARBITRADOS AINDA NA VIGÊCIA DO CPC/1973. EMBARGOS À EXECUÇÃO CUJO JULGAMENTO DE PROCEDÊNCIA FOI ULTIMADO NA VIGÊNCIA DO CPC/2015. ALEGAÇÃO DE TRABALHO ADICIONAL DO PATRONO DO EXEQUENTE. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS DA EXECUÇÃO, À LUZ DO NOVO CPC. NÃO CABIMENTO.
+1. Na forma da jurisprudência do STJ, "as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova (Lei 13.105/2015) e que o decisum que os determina, como ato processual, deve ser considerado o marco temporal para o emprego das regras fixadas pelo CPC/2015. Aplicação do princípio tempus regit actum" (AgInt no REsp n. 1.948.326/MG, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/12/2021).
+2. Caso concreto em que os honorários de sucumbência da execução foram fixados ainda na vigência do CPC/1973, sendo desinfluente que o julgamento dos embargos do devedor - que, aliás, foram acolhidos para reconhecer a existência de excesso de execução - tenha sido ultimado já na vigência do atual CPC.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): O presente agravo interno não merece prosperar.
+Como consignado na decisão atacada, "o STJ possui entendimento firme no sentido da autonomia entre os honorários fixados nos embargos à execução e os honorários relativos à propositura da execução, respeitado o teto legal estabelecido no Código de Processo Civil" (AgInt nos EDcl no REsp n. 1.888.835/RS, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/6/2022 - Grifos nossos).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO E EMBARGOS. VERBA HONORÁRIA ÚNICA PARA AMBAS AS AÇÕES. ACÓRDÃO EM CONTRARIEDADE COM A JURISPRUDÊNCIA DO STJ. TEMA REPETITIVO N. 587. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF.
+I - Trata-se de agravo de instrumento interposto contra decisão que, em cumprimento de sentença, rejeitou o pedido de fixação de honorários advocatícios. No Tribunal a quo, o agravo de instrumento foi improvido.
+II - O acórdão contraria a jurisprudência desta Corte no sentido de que os honorários dos embargos à execução são independentes dos honorários fixados na execução.
+III - Conforme tese firmada sobre o Tema Repetitivo n. 587: ""Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973."" Nesse sentido: AgInt no REsp 1.850.732/PE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 8/10/2021; e AgInt no REsp 1.337.173/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 6/12/2019.
+IV - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+V - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.819.523/RS, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 18/4/2022.)
+Desse modo, fixada de forma autônoma a verba honorária relativa à propositura da execução, não está ela vinculada ao trabalho posteriormente realizado pelo causídico nos embargos à execução, o qual será remunerado, conforme o caso, por novos honorários de sucumbência arbitrados nos próprios embargos.
+Nessa linha de ideias, em face do princípio tempus regit actum, torna-se irrelevante o fato de os embargos de declaração terem sido julgados já na vigência do atual CPC, uma vez que a fixação dos honorários advocatícios iniciais da execução se deu à luz do CPC/1973. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL. HONORÁRIOS INICIAIS DE SUCUMBÊNCIA ARBITRADOS AINDA NA VIGÊCIA DO CPC/1973. EMBARGOS À EXECUÇÃO CUJO JULGAMENTO DE PROCEDÊNCIA FOI ULTIMADO NA VIGÊNCIA DO CPC/2015. ALEGAÇÃO DE TRABALHO ADICIONAL DO PATRONO DO EXEQUENTE. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS DA EXECUÇÃO, À LUZ DO NOVO CPC. NÃO CABIMENTO.
+1. Na forma da jurisprudência do STJ, "as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova (Lei 13.105/2015) e que o decisum que os determina, como ato processual, deve ser considerado o marco temporal para o emprego das regras fixadas pelo CPC/2015. Aplicação do princípio tempus regit actum" (AgInt no REsp n. 1.948.326/MG, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/12/2021).
+2. Caso concreto em que os honorários de sucumbência da execução foram fixados ainda na vigência do CPC/1973, sendo desinfluente que o julgamento dos embargos do devedor - que, aliás, foram acolhidos para reconhecer a existência de excesso de execução - tenha sido ultimado já na vigência do atual CPC.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.969.581/PR, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/9/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
+ANTE O EXPOSTO, conheço do recurso especial e nego-lhe provimento.
