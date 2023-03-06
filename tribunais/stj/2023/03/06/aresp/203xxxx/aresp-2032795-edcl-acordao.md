@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa (fl. 1.322, e-STJ):
+PROCESSUAL CIVIL. DECISÃO DE INADMISSIBILIDADE DE RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O Ministro Presidente desta Corte não conheceu do Agravo em Recurso Especial, pois verificou que, em face da decisão de inadmissibilidade do Recurso Especial (fls. 540-547, e- STJ), a parte apresentou dois Recursos: os Embargos de Declaração de fls. 579-588, e-STJ, e, posteriormente, o Agravo em Recurso Especial de fls. 648-691, e-STJ.
+2. Observa-se, assim, que não há necessidade de retificação a ser promovida na decisão agravada, visto que "diante do princípio da unirrecorribilidade recursal e da ocorrência da preclusão consumativa, não merece conhecimento o segundo recurso interposto pela mesma parte contra a mesma decisão" (AgInt no AgInt no AREsp 488.243/MG, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 12/5/2017).
+3. Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determina-se a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+4. Agravo Interno não provido.
+Em síntese, o embargante sustenta que os precedentes indicados no acórdão recorrido não se aplicam ao caso em tela, o que configuraria a ofensa aos arts. 489 e 1.022 do CPC.
+Impugnação apresentada às fls. 1.346-1.349, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. FALTA DE DELIMITAÇÃO DO VÍCIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. A parte insurgente sustenta que os arts. 489 e 1.022 do CPC/2015 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas que a jurisprudência citada não é aplicável à presente hipótese e que (fls. 1.337-1.341, e-STJ): "(..) o que a jurisprudência do Superior Tribunal de Justiça não admite é a interposição do agravo contra decisão denegatória do REsp, quando a parte recorrente opõe embargos de declaração em face dessa decisão, crendo na interrupção do prazo, e, de conseguinte interpõem o recurso intempestivamente (foi o que houve no primeiro julgado citado na decisão embargada). Ou ainda, quando com receio de que os embargos de declaração não interrompam o prazo, acabam protocolando o agravo antes de obter uma decisão dos embargos de declaração opostos (nesta hipótese sim haveria a tramitação simultânea de dois recursos). (..) Ante todo o exposto, acreditamos ser absolutamente possível o acolhimento dos embargos de declaração, nos termos dos art. 1.022, II, combinado com os artigos 1.022, Parágrafo único, inciso II, e incisos I e V, do §1º, do art. 489, todos do CPC, pois, comprovadamente, não há no caso em exame, a simultaneidade de recursos tramitando, tampouco, pode ser invocada a preclusão consumativa, pois, esta Corte possui entendimento, como comprovado que o recurso pode ser apresentado dentro do prazo, e, excepcionalmente, ainda admite que o seja fora do prazo".
+2. Inviável o acolhimento dos Aclaratórios, ante o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Embargos de Declaração rejeitados, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.12.2022.
+A parte insurgente sustenta que os arts. 489 e 1.022 do CPC/2015 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas que a jurisprudência citada não é aplicável à presente hipótese e que (fls. 1.337-1.341, e-STJ):
+(..) o que a jurisprudência do Superior Tribunal de Justiça não admite é a interposição do agravo contra decisão denegatória do REsp, quando a parte recorrente opõe embargos de declaração em face dessa decisão, crendo na interrupção do prazo, e, de conseguinte interpõem o recurso intempestivamente (foi o que houve no primeiro julgado citado na decisão embargada).
+Ou ainda, quando com receio de que os embargos de declaração não interrompam o prazo, acabam protocolando o agravo antes de obter uma decisão dos embargos de declaração opostos (nesta hipótese sim haveria a tramitação simultânea de dois recursos).
+(..)
+Ante todo o exposto, acreditamos ser absolutamente possível o acolhimento dos embargos de declaração, nos termos dos art. 1.022, II, combinado com os artigos 1.022, Parágrafo único, inciso II, e incisos I e V, do §1º, do art. 489, todos do CPC, pois, comprovadamente, não há no caso em exame, a simultaneidade de recursos tramitando, tampouco, pode ser invocada a preclusão consumativa, pois, esta Corte possui entendimento, como comprovado que o recurso pode ser apresentado dentro do prazo, e, excepcionalmente, ainda admite que o seja fora do prazo.
+Assim, é inviável o acolhimento dos Aclaratórios, ante o óbice da Súmula 284/STF: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Cito precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso, o embargante alega ocorrência de contradição na decisão embargada, sem, contudo, explicitar em que consistiria o alegado vício, tecendo argumentos genéricos e desconectados da alegada ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.801.722/RS, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/03/2020).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..)
+(AgInt no REsp 1.817.079/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2019).
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
