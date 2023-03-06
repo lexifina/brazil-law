@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por ARLETE MICHELETTO LAURINO em face de decisão monocrática da lavra deste signatário que deu parcial provimento ao recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 1113):
+APELAÇÃO CÍVEL. Ação Declaratória de Propriedade em condomínio. Sentença de Improcedência. Inconformismo. Não acolhimento. Pretensão de concessão da assistência judiciária gratuita. Deferimento. Declaração de pobreza devidamente acostada ao Feito. Inteligência do artigo 99, § 3º do NCPC. Cerceamento de defesa. Não ocorrência. As provas documentais encartadas nos Autos já se revelavam suficientes à formação da convicção do Douto Magistrado "a quo". A Autora não é condômina do Imóvel, não constando seu nome no Contrato firmado. Inexistência de irregularidades no Contrato. RECURSO PARCIALMENTE PROVIDO apenas para conceder a Recorrente Justiça Gratuita, mantida no mais a Decisão de Primeiro Grau proferida.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1128-1132).
+Em suas razões recursais (e-STJ, fls. 1150-1193), a parte recorrente sustentou a existência de violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou a omissão e contradição supostamente perpetradas pelo acórdão embargado acerca da ocorrência de cerceamento de defesa pela negativa de produção de provas sem a devida fundamentação, bem como quanto transação e à impossibilidade de majoração dos honorários recursais face o parcial provimento do recurso, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 7º, 11, 370 e 371, alegando cerceamento de defesa, porquanto não teve a oportunidade de produzir as provas testemunhal e pericial que havia requerido.
+Aponta, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 1265-1283 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 1286-1288 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 1326-1328), este signatário deu parcial provimento ao recurso especial em razão da negativa de prestação jurisdicional e determinou o retorno dos autos à origem para que fosse sanada a omissão quanto à tese relativa à majoração dos honorários.
+No presente agravo interno (e-STJ, fls. 1369-1409), a ora agravante se insurge insistindo na existência de omissão também quanto à produção de provas e de ocorrência de cerceamento de defesa.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1412-1426 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Embora o julgador não esteja obrigado a responder um a um dos argumentos sustentados pela parte postulante, ao fundamentar sua decisão, não deve se omitir acerca de pontos essenciais ao bom andamento do processo, sob pena de violar o art. 1022 do CPC/15.
+1.1. Na hipótese, deve ser reconhecida a negativa de prestação jurisdicional somente quanto à majoração dos honorários, porquanto as demais teses apontadas (quais sejam, transação do imóvel objeto da lide e cerceamento de defesa por negativa da apreciação de pedido de provas sem fundamentação) foram enfrentadas pelo Tribunal, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, deve ser reconhecida a negativa de prestação jurisdicional somente quanto à majoração dos honorários, porquanto as demais teses apontadas (quais sejam, transação do imóvel objeto da lide e cerceamento de defesa por negativa da apreciação de pedido de provas sem fundamentação) foram enfrentadas pelo Tribunal, não havendo omissão quanto às mesmas.
+Confira-se, a seguir, o seguinte excerto do acórdão estadual que contém a manifestação do Tribunal quanto aos referidos pontos (e-STJ, fl. 1116):
+Ademais, afasta-se a suposta nulidade da sentença recorrida por cerceamento de defesa ante a desnecessidade de produção de outras provas.
+E tal se dá pela interpretação dos artigos 370 e 371 do Código de Processo Civil, os quais autorizam o Digno Juízo, de forma discricionária, a ponderar sobre os documentos acostados aos Autos, bem como sobre os atos processuais realizados, com o intuito de analisar as provas produzidas.
+Posteriormente, utilizando-se de sua convicção íntima, poderá o Magistrado determinar a elaboração de outras provas que entender necessárias para o esclarecimento da hipótese, indeferir aquelas que considerar protelatórias e inúteis ou, ainda, julgar a Lide de forma antecipada.
+Sendo assim, constata-se que o pleito formulado não necessitava da produção de outras provas, pois incapazes de alterarem o entendimento exposto nos Autos, bastando para tanto aquelas já existentes no Feito, em especial os documentos de fls. 19/24 (Instrumento Particular de Compromisso de Venda e Compra), fls. 26/110 (Boletos de cobrança e Comprovantes de pagamento), fl. 112 (Termo de quitação), fls. 347/349 (Recibo de quitação geral) e todos os demais documentos juntados aos Autos, que foram devidamente apreciados pelo Digno Juízo "a quo" não se configurando, portanto, a ocorrência de cerceamento de defesa, até porque no caso em exame, dada a natureza jurídica da Avença, a prova essencial ao deslinde da controvérsia de fato é exclusivamente documental.
+No mérito, nenhuma razão assiste à Autora, ora Apelante. Não se cogita a possibilidade desta ser condômina do Imóvel em questão em decorrência de negócio jurídico de compra e venda se o seu nome não constar do Instrumento contratual (pág. 19/24). Portanto, acertada a r. sentença (fl. 939): "Assim, e não havendo na hipótese em questão o elemento nuclear do negócio jurídico de aquisição do domínio, Escritura Pública, impossível se fez o ingresso da manifestação de vontade das Partes tanto no plano da existência, quanto no plano da validade, visto que ausente o suporte fático do respectivo elemento nuclear. Logo, trata-se de ato inexistente para o Ordenamento Jurídico a manifestação de vontade das Partes, visando tal fim. (..) Se houve a intenção das Partes de aquisição conjunta do Imóvel em questão, tal como alegado na petição inicial, tal ato não passou de mera manifestação preliminar de vontade, não se podendo cogitar sequer de Contrato preliminar, por ausência de forma (CC, artigo 462)".
+Dessa forma, apenas a tese referente à majoração dos honorários restou omissa, razão pela qual devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
