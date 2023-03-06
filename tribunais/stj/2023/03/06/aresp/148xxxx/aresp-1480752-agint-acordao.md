@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SERVIÇO  DE  APOIO  ÀS  MICRO  E  PEQUENAS  EMPRESAS  DE  SÃO  PAULO  -  SEBRAE/SP  contra  a  decisão  (fls.  2.116/2.118,  e-STJ)  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido  à  incidência  da  Súmula  nº  282/STF.
+Nas  presentes  razões,  a  agravante  afirma  que  a  questão  veiculada  no  apelo  especial,  relativa  à  verba  honorária  sucumbencial,  foi  expressamente  tratada  no  acórdão  estadual,  não  havendo  falar  em  ausência  de  prequestionamento.
+Impugnação  às  fls.  2.136/2.150  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  ORDINÁRIA.  VERBA  HONORÁRIA . CARÁTER  ÍNFIMO ADVOCATÍCIA  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Inviável  a  análise  de  ofensa  à  matéria  não  debatida  na  origem, haja vista o disposto na  Súmula  nº  282/STF.
+3.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+4.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Trata-se,  na  origem,  de  ação  ordinária  ajuizada  pela  UNIÃO  MUNICIPAL  DOS  ESTUDANTES  SECUNDARISTAS  -  UMES  que  foi  julgada  improcedente  pelo  tribunal  de  origem,  nos  seguintes  termos  :
+"(..)
+Como  se  vê,  a  lei  permite  que  um  contratante  suste  sua  parte  no  cumprimento  até  que  o  outro  contratante  perfaça  a  sua.  Como  ensina  Silvio  de  Salvo  Venosa,  cuida-se  de  "uma  exceção,  tratada  dentro  do  princípio  romano  de  que  a  exceptio  é  uma  forma  de  defesa.  O  contratante  opõe  essa  exceção  como  forma  de  se  defender  contra  o  outro  contratante  inadimplente",  exatamente  como  ocorre  no  caso,  pelo  que  reputo  lícita  a  posição  adotada  pela  autora,  com  relação  à  suspensão  do  cumprimento  de  sua  obrigação  (pagamento  das  prestações)  até  que  a  ré  cumprisse,  ou  ao  menos  iniciasse  o  cumprimento  de  sua  parte  no  contrato.
+O  fundamento  desse  princípio  "repousa  no  justo  equilíbrio  das  partes  no  cumprimento  do  contrato,  fundamentalmente  em  razão  da  equidade,  portanto.  É  uma  aplicação  do  princípio  da  boa-fé  que  deve  reger  os  contratos.."  (Teoria  Geral  dos  Contratos,  Atlas,  3"  edição,  pag.  39).
+Não  se  trata  de  apego  demasiado  à  forma,  pois,  a  intenção  das  partes,  salvo  casos  excepcionais  e  devidamente  comprovados,  precisa  ser  respeitada  com  fiel  obediência  à  interpretação  que  retratar  o  escrito,  ou  titulo,  ou  documento,  porque  o  acordo  "faz  lei  entre  as  partes",  e  porque  no  encadeamento  do  que  foi  estabelecido  incluindo  todo  e  qualquer  direito,  com  a  extensão  a  qualquer  relação  jurídica  entre  as  partes,  não  se  afigura  de  bom  senso  distinguir  o  que  elas  não  diferenciaram.
+Ante  o  exposto,  desprovidos  os  agravos  retidos  e  rejeitadas  as  preliminares,  dá-se  provimento  ao  recurso  para  julgar  a  ação  improcedente,  condenando  a  autora  no  pagamento  das  custas  e  despesas  processuais,  inclusive  honorários  advocatícios,  arbitrados  em  R$  10.000,00  (dez  mil  reais),  observada  a  condição  do  artigo  12  da  Lei  nº  1.060,  de  05  de  fevereiro  de  1950,  tendo  em  vista  que  a  autora  é  beneficiária  da  assistência  judiciária.
+(..)"  (fls.  1.971/1.972,  e-STJ  -  grifou-se).
+Nas  razões  do  recurso  especial,  a  ora  agravante  indicou  violação  dos  arts.  14,  85,  § 2º,  98,  § 2º,  1.046  e  1.072,  III,  do  Código  de  Processo  Civil  de  2015.  Argumentou que  a  verba  honorária  de  sucumbência  a  que  faria  direito  foi  fixada  pela  Corte  de  origem  em  patamar  ínfimo  sobre  o  proveito  econômico  da  causa,  muito  inferior  ao  mínimo  legal.
+Da  análise  do  excerto  supratranscrito,  verifica-se que  a  matéria  veiculada  no  apelo  especial  não  foi  objeto  de  debate  pelo  tribunal  de  origem  e  não  foram  opostos  embargos  declaratórios  com  a  finalidade  de  sanar  omissão  porventura  existente.
+De  fato,  para  que  se  configure  o  prequestionamento,  é  necessário  que  a  Corte  local  se  pronuncie  especificamente  acerca  da  matéria  articulada  pela  parte,  emitindo  juízo  de  valor  em  relação  aos  dispositivos  legais  indicados  e  examinando  a  sua  aplicação  ou  não  ao  caso  concreto.  Nessa  circunstância,  ausente  o  prequestionamento,  incide  o  disposto  na  Súmula  nº  282/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  não  ventilada,  na  decisão  recorrida,  a  questão  federal  suscitada."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  CONDENATÓRIA  -  DECISÃO  MONOCRÁTICA  DA  PRESIDÊNCIA  DO  STJ  QUE  CONHECEU  DO  RECLAMO  PARA  NÃO  CONHECER  DO  APELO  NOBRE.  INSURGÊNCIA  DO  REQUERIDO.
+1.  A  ausência  de  enfrentamento  da  matéria  objeto  da  controvérsia  pelo  Tribunal  de  origem  impede  o  acesso  à  instância  especial,  porquanto  não  preenchido  o  requisito  constitucional  do  prequestionamento.  Na  hipótese,  não  foram  sequer  opostos  embargos  de  declaração  na  origem.  Incidência  das  Súmulas  282  e  356  do  STF.
+(..)
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.099.320/RJ,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  24/10/2022,  DJe  de  27/10/2022  -  grifou-se).
+"CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  PROMESSA  DE  COMPRA  E  VENDA  DE  IMÓVEL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  CUMULADA  COM  PEDIDO  INDENIZATÓRIO  POR  ATRASO  NA  ENTREGA  DA  OBRA.  SITUAÇÃO  EXCEPCIONAL  QUE  DEMONSTROU  A  EXISTÊNCIA  DO  DANO  MORAL  VINDICADO.  SÚMULA  Nº  7  DO  STJ.  CORREÇÃO  MONETÁRIA  DO  SALDO  DEVEDOR.  FALTA  DE  PREQUESTIONAMENTO.  SÚMULAS  NºS  282  E  356  DO  STF,  POR  ANALOGIA.  APLICAÇÃO  DA  PENA  POR  LITIGÂNCIA  DE  MÁ-FÉ  E  DA  MULTA  PREVISTA  NO  ART.  1.021,  §  4º,  DO  NCPC.  IMPOSSIBILIDADE.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+3.  O  Tribunal  de  origem  não  deliberou  sobre  a  incidência  de  correção  monetária  no  saldo  devedor  do  imóvel,  a  despeito  do  descumprimento  do  prazo  de  entrega  da  obra,  sem  que  fossem  opostos  embargos  de  declaração  a  fim  de  suscitar  a  discussão,  ressentindo-se  o  recurso  especial,  no  ponto,  do  indispensável  prequestionamento.  Incide,  à  hipótese,  os  óbices  das  Súmulas  nºs  282  e  356  do  STF,  por  analogia.
+(..)
+6.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.186.436/RJ,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  24/10/2022,  DJe  de  26/10/2022  -  grifou-se).
+Cabe  ressaltar  que  as  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+Com  efeito,  "(..)  nos  termos  da  jurisprudência  pacífica  desta  Corte,  ainda  que  se  trate  de  matéria  de  ordem  pública,  é  exigido  o  prequestionamento"  (AgInt  nos  EDcl  no  REsp  1.862.503/SP,  Rel.  Ministro  Antonio  Carlos  Ferreira,  Quarta  T urma,  julgado  em  29/8/2022,  DJe  de  31/8/2022).
+Confiram-se:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  SEGURO  HABITACIONAL.  AÇÃO  DE  INDENIZAÇÃO  SECURITÁRIA.  MATÉRIA  DE  ORDEM  PÚBLICA.  NECESSIDADE  DE  PREQUESTIONAMENTO.  SÚMULAS  N.  282  E  356  DO  STF.  COMPETÊNCIA  INTERNA.  FALTA  DE  REQUISITOS  PARA  A  ANÁLISE.  VÍCIOS  ESTRUTURAIS  DE  CONSTRUÇÃO.  COBERTURA  DA  APÓLICE  SECURITÁRIA.  SÚMULA  N.  83/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+(..)
+2.  Segundo  o  entendimento  do  Superior  Tribunal  de  Justiça,  é  exigível  o  prequestionamento  inclusive  da  matéria  de  ordem  pública,  razão  pela  qual  a  alegada  incompetência  da  Justiça  Estadual  não  pode  ser,  originariamente,  suscitada  em  sede  de  recurso  especial.  Precedentes.
+(..)
+4.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  REsp  1.840.224/SP,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  15/8/2022,  DJe  de  26/8/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  1.  TESE  SOBRE  QUESTÃO  DE  ORDEM  PÚBLICA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282  E  356/STF.  2.  ALEGAÇÃO  DE  FATO  SUPERVENIENTE.  INOVAÇÃO  RECURSAL.  3.  MULTA  DO  ART.  1.021,  §  4º,  DO  CPC/2015.  NÃO  CABIMENTO.  4.  HONORÁRIOS  RECURSAIS.  MAJORAÇÃO  EM  AGRAVO  INTERNO.  INVIÁVEL.  5.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Em  relação  à  alegada  nulidade  por  afronta  a  matéria  de  ordem  pública  (art.  337,  VIII,  §  2º,  CPC/2015),  verifica-se  que  o  tema  não  foi  objeto  de  análise  no  acórdão  recorrido,  o  que  configura  a  ausência  do  indispensável  prequestionamento  da  matéria  e  atrai  a  incidência  das  Súmulas  282  e  356  do  STF.  Segundo  a  jurisprudência  sedimentada  do  Superior  Tribunal  de  Justiça,  mesmo  as  questões  de  ordem  pública  devem  ser  prequestionadas  para  serem  examinadas  em  recurso  especial.
+(..)
+5.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.069.337/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  15/8/2022,  DJe  de  17/8/2022  -  grifou-se).
+Nesse  contexto,  os  argumentos  expostos  pela  agravante  são  insuficientes  para  alterar  os  fundamentos  da  decisão  atacada,  a  qual  permanece  incólume  em  todos  os  seus  termos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
