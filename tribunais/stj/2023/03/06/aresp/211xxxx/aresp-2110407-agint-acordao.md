@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SÉ RGIO  LUIZ  MONTE  BLANCO  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial.
+Naquela  oportunidade,  as  seguintes  questões  foram  decididas:
+(i)  aplicação dos  óbices  das  Súmulas  nºs  283  e  284/STF,  devido  à  ausência  de  impugnação  de  fundamentos  do  acórdão  estadual,  além  de  deficiência  de  fundamentação  do  recurso  especial  acerca  da  ofensa  aos  arts.  37,  §  1º,  43,  §§  1º  e  5º,  46,  47  e  51  do  Código  de  Defesa  do  Consumidor;  206,  §  5º,  I,  do  Código  Civil  e  334  do  Código  de  Processo  Civil  de  2015;
+(ii)  inviabilidade  do  pedido  de  indenização  por  danos  morais,  devido  a  o  óbice  da  Súmula  nº  7/STJ,  e
+(iii)  impossibilidade  de  revisão  da  distribuição  da  sucumbência,  visto  que  a  questão  enseja  o  reexame  do  conjunto  fático-probatório,  fazendo  incidir  também  nesse  ponto  a  Súmula  nº  7/STJ.
+Nas  presentes  razões,  o  agravante  refuta  os  óbices  das  Súmulas  nºs  283  e  284/STF,  aduzindo  que  "(..)  o  recurso  é  muito  BEM  FUNDAMENTADO  QUANTO  A  OFENSA  AOS  PRINCÍPIOS  DA  CAUSALIDADE  E  DA  SUCUMBÊNCIA  -  ART.  85,  §§  10  E  14,  DO  CPC"  (fl.  625,  e-STJ).
+Repisa  a  insurgência  veiculada  no  recurso  especial  no  tocante  à  violação  dos  princípios  da  causalidade  e  da  sucumbência.
+Argumenta  que
+"(..)  se  a  ação  foi  julgada  parcialmente  procedente  considerando  a  dívida  PRESCRITA  não  há  que  se  falar  em  sucumbente  em  parte  ínfima  a  ré,  já  que  a  ré  perdeu  50%  do  pedido  requerido  na  inicial,  gerando  OFENSA  AOS  PRINCÍPIOS  DA  CAUSALIDADE  (ART.  85,  §  10,  CPC)  E  DA  SUCUMBÊNCIA  (ART.  85,  §  14,  CPC)"  (fl.  626,  e-STJ).
+Insiste  na  tese  de  que  a  recorrida  deu  causa  ao  ajuizamento  da  demanda,  inclusive  pela  cobrança  de  dívida  prescrita  e  inexistente,  devendo  responder  pelos  ônus  decorrentes  da  sucumbência.
+Ao  final,  postula  o  conhecimento  do  agravo  interno  para  dar  provimento  ao  recurso  especial.
+Devidamente  intimada,  a  parte  contrária  deixou  transcorrer  o  prazo  para  impugnar  o  recurso  (certidão  de  fl.  638,  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  COMBINADA  COM  INDENIZAÇÃO  POR  DANOS  MORAIS.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  Nº  284/STF.  HONORÁRIOS.  PRINCÍPIO  DA  CAUSALIDADE.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125.
+2.  No  caso  dos  autos,  ocorreu  a  deficiência  de  fundamentação  do  agravo  interno,  visto  que  os  argumentos  apresentados  não  são  suficientes  para  infirmar  os  fundamentos  da  decisão  agravada,  tampouco  para  sustentar  a  tese  defendida  pelos  agravantes,  o  que  configura  a  deficiência  de  fundamentação  do  recurso  a  atrair  a  incidência  da  Súmula  nº  284/STF.
+3.  A  jurisprudência  do  Superior Tribunal de Justiça  preleciona  que  a  análise  acerca  da  distribuição  do  ônus  de  sucumbência,  a  aplicação  do  princípio  da  causalidade  e  o  valor  dos  honorários  advocatícios  demandam  o  reexame  do  acervo  fático-probatório,  procedimento  inviável  na  via  do  recurso  especial,  haja vista  o  óbice  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+  O  acórdão  impugnado  pelo  presente  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  da  questão  de  direito  federal  infraconstitucional.
+A  irresignação  não  merece  prosperar.
+Com  efeito,  observa-se  deficiência  de  fundamentação  do  presente  agravo  interno  quanto  à  alegada  ofensa  aos  princípios  da  causalidade  e  da  sucumbência.
+  Isso  porque  a  decisão  atacada  não  aplicou  os  óbices  das  Súmulas  nºs  283  e  284/STF  para  fundamentar  a  manutenção  dos  honorários  advocatícios  fixados  pelo  tribunal  estadual.
+Acerca  da  questão,  o  acórdão  recorrido assim consignou :
+"(..)  não  há  nos  autos  comprovação  de  inscrição  negativa  e/ou  cobrança  vexatória.  Aliás,  não  há  nem  sequer  comunicado  de  solicitação  de  abertura  de  cadastro.  Assim,  tem-se  que  a  hipótese  dos  autos  é  caso  de  cobrança  indevida,  o  que,  por  si  só,  não  gera  o  dever  de  indenizar.  Os  transtornos  não  atingiram  os  direitos  de  personalidade  do  autor,  de  forma  que  somente  restaria  configurado  o  abalo  moral  caso  o  recorrente  lograsse  demonstrar  alguma  excepcion  alidade,  o  que  não  aconteceu,  no  caso.
+Desse  modo,  a  irresignação  merece  acolhimento  apenas  em  parte.
+Nada  a  ser  alterado  com  relação  aos  ônus  de  sucumbência,  sopesando  o  decaimento  mínimo  da  parte  ré,  visto  que  o  autor  postulou  pela  declaração  de  inexistência  dos  débitos  e  por  R$  15.000,00  a  título  de  indenização  por  danos  morais,  ambos  pedidos  sem  acolhimento"  (fl.  378,  e-STJ).
+Nesse  contexto,  reitera-se  que  a  revisão  da  distribuição  da  sucumbência  é  matéria  eminentemente  fática  e  exige  o  reexame  do  conjunto  fático-probatório  dos  autos,  medida  inviável  na  estreita  via  do  recurso  especial,  devido  ao  óbice  da  Súmula  nº  7/STJ.
+  A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL  E  CIVIL.  CONTRATO  DE  COMPRA  E  VENDA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  FORÇA  MAIOR.  NÃO  CONFIGURAÇÃO.  MULTA  POR  RESCISÃO  CONTRATUAL  POR  INADIMPLEMENTO.  CABIMENTO.  ANÁLISE.  INTERPRETAÇÃO  DAS  CLÁUSULAS  CONTRATUAIS  E  REEXAME  DE  PROVAS.  VEDAÇÃO.  SÚMULAS  5  E  7/STJ.  INCIDÊNCIA.  ÔNUS  DA  SUCUMBÊNCIA,  PRINCÍPIO  DA  CAUSALIDADE  E  HONORÁRIOS  ADVOCATÍCIOS.  ANÁLISE.  REEXAME  DE  PROVAS.  VEDAÇÃO.  SÚMULA  7/STJ.  INCIDÊNCIA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  A  conclusão  a  que  chegou  o  Tribunal  de  origem,  no  sentido  de  que  não  se  configurou  nenhum  motivo  excludente  de  força  maior  previsto  no  contrato  apto  a  causar  o  atraso  na  entrega  do  imóvel,  ensejando  a  multa  por  rescisão  contratual  por  inadimplemento  ,  também  prevista  no  instrumento,  decorreu  de  convicção  formada  em  face  do  contrato  celebrado  entre  as  partes  e  dos  elementos  fáticos  existentes  nos  autos.  Rever  os  fundamentos  do  acórdão  recorrido  importa  necessariamente  na  interpretação  das  cláusulas  contratuais  e  no  reexame  de  provas,  o  que  é  vedado  nesta  fase  recursal.  Incidência  das  Súmulas  5  e  7/STJ.
+2.  O  STJ  possui  entendimento  uniforme  no  sentido  de  que  a  análise  sobre  a  distribuição  do  ônus  da  sucumbência,  a  aplicação  do  princípio  da  causalidade  e  o  valor  dos  honorários  advocatícios  demanda  o  reexame  do  conjunto  fático-probatório,  o  que  é  inviável  nesta  via  especial.  Incidência  da  Súmula  7/STJ.
+3.  Agravo  interno  não  provido"  (AgInt  no  AgInt  no  AREsp  1.628.525/PE,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  29/6/2020,  DJe  3/8/2020).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  BANCÁRIO.  AÇÃO  REVISIONAL.  CAPITALIZAÇÃO  MENSAL  EXPRESSAMENTE  PACTUADA.  POSSIBILIDADE.  INCIDÊNCIA  DA  SÚMULA  541/STJ.  HONORÁRIOS  ADVOCATÍCIOS.  GRAU  DE  SUCUMBÊNCIA.  REEXAME  DE  MATÉRIA  FÁTICA.  INCIDÊNCIA  DA  SÚMULA  7  DO  STJ.  AGRAVO  NÃO  PROVIDO.
+(..)
+3.  A  rediscussão  acerca  da  distribuição  dos  ônus  sucumbenciais,  com  o  objetivo  de  perquirir  eventual  sucumbência  mínima  ou  recíproca,  no  caso,  demandaria  o  reexame  de  matéria  fática,  o  que  encontra  óbice  na  Súmula  7  do  STJ.  Precedentes.
+ 4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.391.438/MS,  Rel.  Ministro  RAUL  ARÚJO,  QUARTA  TURMA,  julgado  em  14/5/2019,  DJe  24/5/2019).
+Desse  modo,  as  razões  do  agravante  são  incapazes  de  infirmar  os  fundamentos  da  decisão  atacada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
