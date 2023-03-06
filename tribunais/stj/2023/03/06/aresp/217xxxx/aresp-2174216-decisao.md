@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por JOSE VICENTE PEREIRA contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial manejado contra acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL -AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO -CESSÃO DE CRÉDITO COMPROVADA -INSCRIÇÃO DE NOME EM CADASTRO NEGATIVADOR -RELAÇÃO JURÍDICA COMPROVADA -ATO ILÍCITO NÃO CONFIGURADO -EXERCÍCIO REGULAR DO DIREITO-LITIGÂNCIA DE MÁ FÉ -VERIFICAÇÃO.-A ausência de notificação do devedor acerca da cessão do crédito (art. 290 do CC) não torna a dívida inexigível, tampouco impede o novo credor de praticar os atos necessários à preservação dos direitos cedidos, como, por exemplo, a negativação do devedor nos órgãos de proteção ao crédito (art. 293, CC).-Nas ações declaratórias de inexistência de relação jurídica, o ônus da prova compete ao réu, pela impossibilidade de fazer o autor a prova negativa da causa da obrigação. -Estando demonstrada a relação jurídica existente entre as partes, age em exercício regular de direito a ré ao inscrever o nome do devedor nos órgãos de proteção ao crédito. -Comprovado que o autor deduziu pretensão faltando com a verdade, visando se eximir de obrigação sabidamente devida, deve responder pela litigância de má-fé. (e-STJ, fl. 310)
+Nas razões do recurso especial a parte alega ofensa aos artigos 79, 80 , inciso I e 81, do CPC/15; art. 93, IX, CF/88 e art. 1, I, EOAB.
+Defende o decote da condenação por litigância de má-fé e ainda a exclusão da sentença da parte que determina o envio de ofício à OAB para apuração de litigância temerária, pois seria prudente o envio não só da inicial e da sentença, como determinado pelo juiz da causa, mas sim de todo o processo para se verificar a inexistência de má-fé.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Extrai-se dos autos que a multa foi aplicada em razão da conduta desidiosa do ora recorrente, in verbis:
+Por fim, também não vejo elementos para reformar a decisão objurgada quanto a condenação do autor, ora Apelante, nas penas da litigância de má fé. Isto porque, ciente da contratação dos serviços junto à instituição financeira, ainda assim, insistiu o autor, ora apelante, através do presente recurso, com as teses descabidas arguidas em primeira instância, atitude que coaduna com o dolo processual.
+Ora a notificação recebida pela parte autora, acerca da sua inscrição junto ao SERASA, é clara ao informar o número do contrato e o valor da dívida. Sendo a parte devedora, de fato, bem como não contestando ter estabelecido relação jurídica com a CEF, cedente do crédito, o prosseguimento do feito, alegando não ter relação jurídica com a cessionária, numa tentativa de esquivar-se da dívida, importa em ato que é compatível com a má-fé entabulada no artigo 80, CPC.
+Destarte, entendo que deve ser mantida a condenação do autor, ora Apelante, por litigância de má-fé, na forma dos arts. 79 e 80, II e III do CPC/2015, ante o manejo da presente lide, e prosseguimento recursal, apenas para se eximir da responsabilidade pelo adimplemento da dívida sabidamente contraída.
+Portanto, correta é a condenação da parte Apelante como litigante de má-fé e não há reparos a se fazer quanto ao montante fixado.
+Finalmente, não vejo motivos para se excluir a determinação de oficiar à OAB para apuração da conduta do causídico, pois mesmo que tenha atuado de maneira diligente, não há como negar que atuou de forma temerária ao insistir na negativa de conhecimento do débito de seu cliente, quando sabedor da existência de dívida em seu nome. (e-STJ, fls. 319/320 - grifou-se)
+Sabe-se que a Litigância de má-fé é o exercício de forma abusiva de direitos processuais.
+As partes de um processo devem litigar de forma adequada para que a demanda possa atingir sua finalidade. Quando uma parte impõe, voluntariamente, empecilhos para atingir esta finalidade na velocidade processual adequada, está litigando de má-fé.
+Nesse contexto, constata-se que elidir a conclusão a que chegou a Corte local, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. LITIGÂNCIA DE MÁ-FÉ. PARTE BENEFICIÁRIA DA GRATUIDADE DE JUSTIÇA.REVOGAÇÃO DO BENEFÍCIO. DESCABIMENTO.
+1. Ação ajuizada em 31/07/2019, do qual foi extraído o presente recurso especial interposto em 14/12/2021 e concluso ao gabinete em 25/03/2022.
+2. O propósito recursal consiste em dizer se a) houve negativa de prestação jurisdicional; b) deve ser afastada a aplicação de multa por litigância de má-fé e c) o reconhecimento de que a parte beneficiária da gratuidade de justiça agiu contrariamente à boa-fé implica a revogação do benefício.
+3. Não se pode conhecer do recurso especial quanto à alegada violação ao art. 1.022 do CPC, pois as alegações que o fundamentam são genéricas, sem discriminação específica e inteligível do que efetivamente se revelaria omisso, contraditório ou obscuro. Incide, no caso, por analogia, a Súmula 284/STF.
+4. Na espécie, é inviável a análise acerca da caracterização da litigância de má-fé, em razão do óbice veiculado pela Súmula 7/STJ.
+5.  ..
+7. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp n. 1.989.076/MT, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 19/5/2022 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA INEINEXIGIBILIDADE DE TÍTULO C/C INDENIZAÇÃO POR DANOS MORAIS. 1. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ARGUMENTOS GENÉRICOS. INCIDÊNCIA. SÚMULA 284/STF.2. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. AGRAVO INTERNO IMPROVIDO.
+1. No que concerne à alegada violação ao art. 1.022 do Código de Processo Civil de 2015, observa-se que não houve a indicação pormenorizada dos pontos supostamente omitidos pela Corte de origem, tampouco acerca de quais temas a fundamentação do acórdão estaria deficiente, apresentando-se a fundamentação do recurso, no ponto, de forma genérica, a ensejar a incidência da Súmula 284/STF.
+2. O Tribunal de origem concluiu pela configuração da dívida, o que justificou a exigibilidade do crédito, bem como pela existência de litigância de má-fé. O acolhimento do recurso, nos termos pretendidos, exigiria o reexame das provas examinadas a fim de que fossem extraídas conclusões em sentido contrário àquelas constantes do acórdão recorrido, providência manifestamente proibida nesta instância, conforme o óbice da Súmula 7/STJ.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.784.996/SP, RELATOR MINISTRO MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 13/5/2021 - grifou-se)
+Além disso, na espécie, cabível oficiar a OAB, porque houve atuação temerária do causídico, sendo que torna-se inviável a análise acerca desta matéria, em razão do óbice veiculado pela Súmul a 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA CONFIGURADA PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
