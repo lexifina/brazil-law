@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto pelo Estado do Paraná, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Paraná, nos termos assim ementados (fl. 387):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - 1. DECADÊNCIA NÃO CONF IGURADA - 2. LEGITIMIDAI)F ATIVA E PASSIVA DAS PARTES - 3. MÉRITO - POSSIBILIDADE DE JULGAMENTO PELO TRIBUNAL - ARTIGO 515 § 3º - REDAÇÃO DADA PELA LEI 10,352/01 - COBRANÇA DE ICMS SOBRE POTÊNCIA DE DEMANDA DE ENERGIA ELÉTRICA - IMPOSSIBILIDADE - RECURSO PROVIDO.
+Na origem, trata-se de mandado de segurança impetrado pelo Hospital Geral Nossa Senhora Aparecida Ltda. contra o Chefe da Agência de Arrecadação e o Chefe da Delegacia Regional da Receita Estadual objetivando desonerar-se do pagamento do ICMS cobrado na fatura de energia elétrica.
+Na sentença, extinguiu-se o processo, sem julgamento do mérito, por ilegitimdade ativa. No Tribunal a quo, a sentença foi reformada para conceder a segurança. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+No recurso especial, o Estado do Paraná aponta a violação dos arts. 489 e 1.022 do CPC, ao argumento de que (fl. 432):
+Sustentou-se nos embargos declaratórios que a douta Terceira Câmara Civel do Tribunal de Justiça Paranaense "se omitiu quanto ao fato de que no período em que o impetrante discute a incidência do ICMS sobre a demanda reservada de potência  a partir de dezembro de 1997  o Convênio n. 66/88 havia sido revogado, eis que adveio a Lei Complementar nº 87/96, que dispôs sobre o ICMS nos termos anunciados pelo art. 155, §2 0 , XII, da Constituição Federal. Por conseguinte, a invocação do artigo 19 do aludido Convênio traduz omissão quanto ao diploma legal e aos dispositivos que efetivamente regem a questão jurídica agitada nos presentes autos" (fls. 257).
+Aduziu -se, também, que o v. acórdão "se omitiu quanto ao fato de que a contratação de demanda reservada de energia elétrica (ou demanda reservada de potência) se caracteriza como prestação de serviço. E tal serviço não está compreendido na competência tributária dos Municípios, pelo que a cobrança do ICMS sobre o mesmo encontra respaldo nos dispositivos do artigo 155, §2º, IX, b, da Constituição Federal, bem como nos dispositivos dos artigos 2º, inciso IV; 12, inciso VIII, a, e 13, IV, a, todos da Lei Complementar nº 87/96, os quais não foram analisados" (fls. 257/258) pelo Tribunal de Justiça local.  ..
+Aponta, ainda, como violados os arts. 1º da Lei n. 1.533/1991; 4º da LC n. 87/1996; e 267, VI, do CPC, porquanto a impetração do mandado de segurança teria se dado contra lei em tese, bem como carência da ação por ilegitimidade passiva e ativa ad causam das partes.
+Defende, por fim, além da existência de dissídio jurisprudencial, a violação dos arts. 2º, IV, 12, VIII, a, e 13, IV, a, da Lei Complementar n 87/1996, sustentando, em síntese, a "viabilidade da incidência do ICMS sobre o valor da energia elétrica que se diz efetivamente consumida, acrescido do que também se pagou pela "demanda reservada", cujo serviço foi prestado e disponibilizado ao Recorrido" (fls. 440).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e c, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos (fls. 1.314-1.316):
+A questão de fundo já está devidamente sedimentada quanto à incidência do ICMS sobre a demanda contratada de energia nos seguintes termos:
+Tema 63 - É indevida a incidência de ICMS sobre a parcela correspondente à demanda de potência elétrica contratada mas não utilizada.
+Súmula 391 - O ICMS incide sobre o valor da tarifa de energia elétrica correspondente à demanda de potência efetivamente utilizada
+.. o acórdão do TJPR está em verdadeiro descompasso com o entendimento firmado por essa C. Corte (Tema 63 e Súmula 391/STJ), merecendo, pois, provimento o recurso especial do Estado do Paraná.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. ENERGIA ELÉTRICA NÃO CONSUMIDA. DESONERAÇÃO. PROCEDÊNCIA DO PEDIDO. ACÓRDÃO RECORRIDO ALINHADO COM JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado pelo Hospital Geral Nossa Senhora Aparecida Ltda. contra o Chefe da Agência de Arrecadação e o Chefe da Delegacia Regional da Receita Estadual objetivando desonerar-se do pagamento do ICMS cobrado na fatura de energia elétrica.
+II - Na sentença, extinguiu-se o processo, sem julgamento do mérito, por ilegitimidade ativa. No Tribunal a quo, a sentença foi reformada para conceder a segurança. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o fato gerador do ICMS, no caso de fornecimento de energia elétrica, é a energia efetivamente consumida, logo, é excluída da base de cálculo do ICMS, a demanda de potência contratada ou reservada e não utilizada.
+IV - O Tribunal de origem, reformando a sentença, concedeu a segurança pleiteada para declarar o direito ao não pagamento do ICMS cobrado sobre os valores contratados de energia elétrica reservada e não consumida.
+V - Nesse diapasão, observa-se que o acórdão recorrido está em conformidade com a jurisprudência da Primeira Seção do Superior Tribunal de Justiça que ao apreciar o REsp 960.476/SC, sob o rito do art. 543-C do CPC. Por oportuno, confiram-se: (AgInt no AREsp 1.455.904/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2019, DJe 20/11/2019 e REsp 1.722.535/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/3/2018, DJe 13/11/2018.)
+VI - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que o fato gerador do ICMS, no caso de fornecimento de energia elétrica, é a energia efetivamente consumida, logo, é excluída da base de cálculo do ICMS, a demanda de potência contratada ou reservada e não utilizada.
+O Tribunal de origem, reformando a sentença, concedeu a segurança pleiteada para declarar o direito ao não pagamento do ICMS cobrado sobre os valores contratados de energia elétrica reservada e não consumida.
+Nesse diapasão, observa-se que o acórdão recorrido está em conformidade com a jurisprudência da Primeira Seção do Superior Tribunal de Justiça ao apreciar o REsp n. 960.476/SC, sob o rito do art. 543-C do CPC.
+Por oportuno, confiram-se:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL . OFENSA AO ARTIGO 535 DO CPC/73. NÃO CONFIGURAÇÃO. ICMS. ENERGIA ELÉTRICA. DEMANDA CONTRATADA, MAS NÃO UTILIZADA. NÃO INCIDÊNCIA. RECURSO ESPECIAL REPETITIVO 960.476/SC.
+1. Afasta-se a alegada violação do artigo 535 do CPC/73, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. O acórdão recorrido está em conformidade com a jurisprudência da Primeira Seção do Superior Tribunal de Justiça que ao apreciar o REsp 960.476/SC, sob o rito do art. 543-C do CPC, firmou o entendimento de que o fato gerador do ICMS, no caso de fornecimento de energia elétrica, é a energia efetivamente consumida, logo, é excluída da base de cálculo do ICMS, a demanda de potência contratada ou reservada e não utilizada.
+3. Agravo interno não provido.
+(AgInt no AREsp 1455904/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2019, DJe 20/11/2019.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 458 DO CPC/1973. INEXISTÊNCIA. ICMS SOBRE O VALOR CORRESPONDENTE À DEMANDA DE POTÊNCIA ELÉTRICA CONTRATADA MAS NÃO UTILIZADA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ.
+1. Não configura ofensa ao art. 458 do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Verifica-se que o acórdão recorrido está em sintonia com o entendimento do STJ de que é indevida a incidência do ICMS sobre o valor correspondente à demanda de potência elétrica contratada mas não utilizada. Precedente: REsp 960.476/SC, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe de 13.5.2009.
+3. Consigne-se que as questões amparadas no conteúdo dos arts. 460 do CPC/1973 e 1º-F da Lei 9.494/1997 não foram apreciadas pelo Tribunal a quo, tampouco foram alvo dos Embargos Declaratórios opostos para sanar eventual omissão. Dessa forma, tais matérias não merecem ser conhecidas por esta Corte, ante a ausência de prequestionamento.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1722535/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/3/2018, DJe 13/11/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
