@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por MANOEL CARLOS DE MAGALHÃES NETO e outro contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS - SENTENÇA DE PROCEDÊNCIA - MANUTENÇÃO - PREJUDICIAL DE PRESCRIÇÃO QUE DEVE SER REJEITADA - COTAS CONDOMINIAIS VENCIDAS EM SETEMBRO À DEZEMBRO DE 2006, JANEIRO, MARÇO À SETEMBRO DE 2007 - SEGUNDO O STJ, INFORMATIVO Nº 0527, DE 2013, PRESCREVE EM CINCO ANOS, CONTADOS DO VENCIMENTO DE CADA PARCELA, A PRETENSÃO, NASCIDA SOB A VIGÊNCIA DO CC/2002, DE COBRANÇA DE COTAS CONDOMINIAIS - ENTÃO, O TERMO INICIAL DA PRESCRIÇÃO CONTA-SE DO VENCIMENTO DE CADA PARCELA - AÇÃO AJUIZADA EM 23/03/2009, COM DESPACHO ORDENANDO A CITAÇÃO EM 15/05/2009 - EM QUE PESE A DEMORA NO TEMPO DECORRIDO PARA PROMOVER A CITAÇÃO DOS RÉUS, O CONDOMÍNIO AUTOR DILIGENCIOU A TODO MOMENTO EM BUSCA DO ENDEREÇO DOS DEMANDADOS, NÃO TENDO SIDO COMPROVADA DESÍDIA OU INÉRCIA DE SUA PARTE - POR CONSEGUINTE, OCORREU A INTERRUPÇÃO DA PRESCRIÇÃO PREVISTA NO ART. 219, §1º DO CPC/73, QUE RETROAGIU À DATA DA PROPOSITURA DA AÇÃO, QUE FOI EM 23/03/2009 - REJEIÇÃO DA TESE DE PRESCRIÇÃO - OS APELANTES ALEGAM TAMBÉM QUE A PREFEITURA REVIU AS ÁREAS DE ALGUNS APARTAMENTOS COMPONENTES DO CONDOMÍNIO, INCLUSIVE DO IMÓVEL DOS RÉUS QUE TEVE SUA ÁREA DIMINUÍDA E, POR TAL RAZÃO, SUSTENTAM A MODIFICAÇÃO DO RITO PARA ORDINÁRIO E FIXAÇÃO PELO JUÍZO, DE NOVO VALOR PARA AS COTAS CONDOMINIAIS, QUE DEVERIAM SER ALTERADAS JÁ QUE A ÁREA DO IMÓVEL FOI REDUZIDA PELA PREFEITURA - CONTUDO, TAL PEDIDO DO RÉUS NECESSITA DE AÇÃO PRÓPRIA, COM RITO QUE PERMITA AMPLA DILAÇÃO PROBATÓRIA, VISANDO A REVISÃO DAS COTAS, O QUE NÃO É ADMITIDO NESTA AÇÃO DE COBRANÇA - NO MÉRITO, RESTOU COMPROVADO QUE OS RÉUS SÃO DEVEDORES DAS COTAS CONDOMINIAIS, POIS SEQUER NEGAM ESTE FATO - APENAS ALEGAM QUE A PRETENSÃO ESTÁ PRESCRITA E QUE O VALOR ESTARIA INCORRETO - OS RÉUS NÃO PROVARAM FATO IMPEDITIVO, MODIFICATIVO E EXTINTIVO DO DIREITO DO AUTOR, NA FORMA DO ART. 333, II, DO CPC/73 - RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73 - RECURSO DESPROVIDO.
+Os agravantes argumentam que lhes estão sendo exigidas cotas condominiais lastreadas em título sem liquidez. Entendem que não incide sobre o caso a Súmula 7/STJ, cuja aplicação implica violação ao art. 5º, XXXV e LV, da Constituição Federal.
+Não foi apresentada impugnação ao agravo.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. LIQUIDEZ DO TÍTULO QUE EMBASA A PRETENSÃO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+Com efeito, o recurso especial não dispensa o reexame de prova. As razões do recurso partem da premissa de que estão sendo exigidas dos agravantes cotas condominiais que não estão amparadas em título que ostente liquidez. A respeito da matéria, porém, confira-se o que ficou consignado no seguinte trecho do acórdão recorrido (e-STJ fl. 363):
+Os demandados, réus, pretendem que seja apurado o valor preciso e líquido da quota condominial cobrada, para que haja proporcionalidade entre esta e a área do imóvel e a dos demais que compõem o Condomínio, o que não é possível uma vez que deveria tal pedido vir por ação própria, sob o rito ordinário, com dilação probatória.
+A ação de cobrança de cotas condominiais, como se sabe, corre pelo rito sumário, conforme CPC/73, art. 275, II, "b", cujo rito não pode ser modificado, no caso, sendo certo que o pedido dos réus deveria vir por via própria, uma vez que se faz necessário instrução ampla, com averiguação da área do imóvel, verificação do que dispõe a convenção de condomínio, entre outras provas.
+(..) Quanto ao mérito, os Réus não negaram que estivessem em atraso com as cotas condominiais, apenas sustentaram que as cotas estariam prescritas e que os valores estariam incorretos, assim como o rito do processo que teria que ser alterado.
+Os réus não lograram comprovar fato impeditivo, extintivo e modificativo do direito autoral, na forma do art. 333, II, do CPC/73, aplicável já que a interposição da Apelação ocorreu sob a égide do CPC/73.
+Os Réus não juntam qualquer planilha comprobatória de que o valor indicado pelo Autor estaria incorreto, nem mesmo declina na peça de Apelação e de contestação, qual valor entende correto e qual estaria em excesso.
+O Autor cumpriu o disposto no art. 333, I, do CPC, pois trouxe aos autos planilha discriminada do débito, cabendo ao Réu o ônus de provar fato extintivo do direito autoral, conforme a distribuição do ônus da prova no direito processual civil.
+Nesse contexto, não há que se falar em título ilíquido sem estabelecer controvérsia quanto à situação de fato delineada no acórdão recorrido. Por isso foi aplicada ao caso a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
