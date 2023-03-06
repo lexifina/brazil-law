@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO contra a decisão  monocrática  (fls.  157/160)  que  não conheceu do recurso  especial  nos  termos  da  seguinte  ementa:
+TRIBUTÁRIO. RECURSO ESPECIAL. ATIVOS FINANCEIROS INFERIORES A 40 SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE PREVISTA EXPRESSAMENTE NO ART. 833, X, DO CPC/2015. DESNECESSIDADE DE ARGUIÇÃO POR PARTE DA EXECUTADA DE CAUSA DE IMPENHORABILIDADE LEGAL. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em  suas  razões,  a  parte  agravante  sustenta  que a questão relativa à impenhorabilidade com fundamento no inciso X do art. 833 do CPC não pode ser presumida, tampouco reconhecida de ofício pelo juiz, porquanto matéria eminentemente de defesa, nos termos do art. 854, §§3º, I, e 5º, do CPC (fl.  172).
+Pugna,  desse  modo,  pela  reconsideração  da  decisão  ora  atacada  ou  pela  apresentação  do  feito  à  turma  julgadora.
+À  fl.  178  certificou-se o decurso de prazo para  impugnação.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  EXECUÇÃO FISCAL. ATIVOS FINANCEIROS INFERIORES A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PREVISTA EXPRESSAMENTE NO ART. 833, X, DO CPC/2015. DESNECESSIDADE DE ARGUIÇÃO POR PARTE DA EXECUTADA DE CAUSA DE IMPENHORABILIDADE LEGAL. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO  INTERNO  DO INMETRO  DESPROVIDO.
+1.  Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis valores inferiores a 40 (quarenta) salários mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da interessada, indeferir o bloqueio de ativos financeiros ou determinar a liberação dos valores constritos, isso porque, além de as matérias de ordem públicas serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor. Precedente: AgInt no AREsp 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/09/2022, DJe de 22/09/2022.
+2.  Agravo  interno  do IMNETRO a que se nega provimento.
+VOTO
+Não  obstante  a  irresignação  da  parte  agravante,  não  foram  trazidos  argumentos  capazes  de  desconstituir  a  decisão  agravada.
+Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis valores inferiores a 40 (quarenta) salários mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da interessada, indeferir o bloqueio de ativos financeiros ou determinar a liberação dos valores constritos, isso porque, além de as matérias de ordem públicas serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor.  A  propósito:
+ADMINISTRATIVO. AGRAVO INTERNO. PENHORA. SISTEMA BACENJUD. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. POSSIBILIDADE DE DESBLOQUEIO EX OFFICIO.
+1. A penhora eletrônica não pode descurar-se do disposto no art. 833, X, do CPC, uma vez que "a previsão de impenhorabilidade das aplicações financeiras do devedor até o limite de 40 salários-mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário" (AREsp n. 2.109.094, Rel. Ministro Gurgel de Faria, DJe de 16/8/2022).
+2. Nos termos da jurisprudência firmada no âmbito desta Corte de Justiça, a impenhorabilidade constitui matéria de ordem pública, cognoscível de ofício pelo juiz, não havendo falar em nulidade da decisão que, de plano, determina o desbloqueio da quantia ilegalmente penhorada.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma , julgado em 19/9/2022, DJe de 22/9/2022.)
+Verifica-se, portanto, que a conclusão veiculada no acórdão está em harmonia com a orientação do STJ sobre o tema, incidindo na hipótese o disposto na Súmula 83/STJ ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Ante  o  exposto,  nega-se  provimento  ao  agravo  interno  do INMETRO.
+É  como  voto.
