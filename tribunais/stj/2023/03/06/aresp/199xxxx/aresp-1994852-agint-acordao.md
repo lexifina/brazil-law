@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 258/263) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante reitera alegações de cerceamento de defesa, ante a falta da prova pericial, o que seria necessário para demonstrar o abuso dos juros cobrados pela agravada.
+No mais, reitera as alegações do especial relativas à exorbitância dos juros.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 268/270).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece conhecimento.
+O agravo em recurso especial foi decidido nos seguintes termos (e-STJ fls. 252/255):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) falta de cotejo analítico para demonstrar o dissídio jurisprudencial alegado (e-STJ fls. 219/221).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 180):
+AÇÃO RESCISÓRIA - NULIDADE DE ACÓRDÃO - AÇÃO MONITÓRIA - VIOLAÇÃO DE NORMA JURÍDICA - ERRO DE FATO - I - Pretensão à rescisão de acórdão, com fundamento na ocorrência de manifesta violação de norma jurídica, sob a alegação de que a decisão rescindenda afastou a prática de agiotagem, sem que houvesse a inversão do ônus da prova e sem que se admitisse a produção de outras provas - Art. 966, V, do NCPC - Inocorrência de manifesta violação de norma jurídica - Decisão rescindenda que suficientemente justificou a desnecessidade de ampla dilação probatória, com a inversão do seu ônus - Prova documental apta e suficiente ao deslinde do feito - II - A rescisória não se presta a corrigir injustiças do julgado ou ao reexame da prova - Não reconhecida, ainda, a existência de erro de fato, nos termos do art. 966, VIII e §1º, do NCPC, em face de a controvérsia posta ter sido expressamente resolvida no acórdão, vez que o decisum não admitiu fato inexistente e nem considerou inexistente fato efetivamente ocorrido - Ocorreu, em realidade, valoração da prova, baseada nos elementos constantes dos autos - Erro de fato inexistente - Segundo Sidney Sanches "Erro dos sentidos, de percepção, eventualmente de reflexão, de raciocínio, mas nunca de interpretação ou valoração da prova" - E José Carlos Barbosa Moreira "Deve tratar-se, pois de uma questão não resolvida pelo juiz" - Decisum mantido - Ante a improcedência da ação, ônus sucumbenciais carreados à autora - Conversão do depósito prévio em favor da ré - Ação Rescisória improcedente".
+Nas razões do recurso especial (e-STJ fls. 192/204), interposto com base no art. 105, III, "a", da CF, a recorrente alegou que:
+(a) o acórdão rescindendo teria violado os arts. 406 do CC/2002, 1º, do Decreto-Lei n. 22.626/1933 e 1º, I, da Medida Provisória n. 2.172-32/2001, por não reconhecer, conforme a recorrente teria demonstrado, a abusividade das taxas de juros exigidas no contrato, por serem superiores a 1% (um por cento) ao mês, não tendo a recorrida comprovado a legalidade das tarifas (e-STJ fls. 200/203) ,
+(b) "a decisão em recurso de apelação proposto por essa recorrente, julgado improcedente pela 24ª Câmara de direito privado, violou duplamente o art. 492 do CPC. Primeiro porque a decisão foi proferida de natureza diversa da pretendida. Segundo, condenou a parte em valor superior ao demandado. Ainda, somando na esteira das violações, o Acórdão Rescindendo, ignorou literalmente toda a jurisprudência deste Tribunal e do Superior Tribunal de Justiça" (e-STJ fl. 197), por não reconhecer a necessidade de produzir a prova pericial requerida para demonstrar a prática de agiotagem,
+(c) "embora a 12ª Câmara de direito privado do Egrégio Tribunal de Justiça Paulista não tenha entendido como erro de fato, demonstra-se que a autora/recorrida não cobrava o valor do cheque, e sim um saldo de uma conta corrente de Agiotagem, o cheque foi emitido somente, para garantia da dívida, que do valor do cheque de R$ 32.737,00 declarou que recebeu o valor de R$15.017,56 a título de amortizações e R$ 3.928,00 a título de juros" (e-STJ fl. 198).
+Aduziu contrariedade:
+(a) ao art. 492 do CPC/2015, visto que a recorrida estaria cobrando apenas o saldo remanescente da dívida garantida pelo cheque, e não o valor total do título, como teria reconhecido a Corte local em decisão extra petita, e
+(b) ao art. 5º, LV, da CF, porque a decisão indeferindo a prova pericial pleiteada para demonstrar a a real taxa de juros aplicada e a agiotagem no contrato implicaria cerceamento de defesa.
+Foram ofertadas contrarrazões (e-STJ fls. 209/212).
+No agravo (e-STJ fls. 224/234), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 238/240).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a dispositivos constitucionais, porquanto a competência desta Corte Superior restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal. A propósito: (EDcl no AgInt no AREsp n. 1.848.917/RS, de minha Relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021).
+Nas razões recursais, a parte recorrente não indicou a legislação federal infraconstitucional objeto de afronta pela Corte de origem ao afirmar a existência de cerceamento de defesa advindo do indeferimento da prova pericial para demonstrar a abusividade dos juros exigidos no contrato.
+Ausente citada providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Ainda que ultrapassado tal óbice, a irresignação da recorrente não merece amparo, tendo em vista que a Corte local, no acórdão rescindendo, afastou a tese de cabimento da ação rescisória por inexistir manifesta violação de norma jurídica, ao justificar, após o exame da prova documental acostada no processo, os motivos pelos quais a prova pericial requerida era desnecessária. Confira-se (e-STJ fls. 183/184):
+No caso, como se vê do v. acórdão de fls. 160/163, a decisão afastou a configuração de cerceamento de defesa, assim como da necessidade de inversão do ônus da prova, sob os seguintes fundamentos:
+Por proêmio, rejeito a preliminar atinente ao cerceamento de defesa ante o julgamento antecipado do feito (artigo 330, inc. I, do CPC) .
+Ao contrário do sustentado pelo apelante, a discussão nos presentes autos versa de forma preponderante sobre questões de direito, sendo suficiente a prova documental juntada, para o deslinde da causa.
+(..)
+Vê-se, desta forma, que não houve manifesta violação a norma jurídica, como quer fazer crer a autora, uma vez que na decisão rescindenda restou suficientemente justificada a desnecessidade de ampla dilação probatória, com a inversão do seu ônus.
+Neste diapasão, apenas para que não pairem dúvidas, consigna-se que a credora acostou aos autos da ação monitoria planilha indicando a evolução pormenorizada da dívida, com menção das atualizações e juros incidentes, bem como abatendo os pagamentos parciais realizados pela devedora.
+Assim, havia prova documental apta e suficiente ao deslinde do feito, tornando-se desnecessária a produção de outras provas, inexistindo, portanto, a alegada manifesta violação ao art. 5º, inciso LV, da CF, ou, ainda, ao art. 3º da Medida Provisória n.º 1.820/99.
+Segundo entendimento fixado na jurisprudência do STJ, "não configura o cerceamento de defesa o julgamento da causa sem a produção de outras provas, quando o Tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento, como no caso" (REsp n. 1.838.279/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/10/2019, DJe 28/10/2019).
+Verifica-se que, nas razões recursais, a recorrente tão somente limitou a aduzir ofensa ao art. 492 do CPC/2015 para sustentar que a decisão teria natureza diversa da pretendida e que o acórdão rescindendo teria violado a jurisprudência do STJ, ao deixar de acolher a prova pericial necessária para evidenciar a alegada agiotagem.
+O referido dispositivo não possui alcance normativo, por si só, para sustentar a tese, visto que nada dispõe sobre as hipóteses de cabimento da ação rescisória em caso de erro de fato.
+Dessa forma, a fundamentação recursal mostra-se deficiente, atraindo a aplicação, por analogia, da Súmula n. 284/STF, como óbice ao recurso. A propósito: "Os comandos normativos dos arts. 87 e 263 do CPC/1973 não guardam pertinência com o tema da controvérsia. Incide, portanto, a Súmula 284 do STF" (AgInt no AREsp n. 1.069.872/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/201 7, DJe 1º/9/2017).
+Além disso, a inexistência de debate prévio quanto à tese fundada no art. 492 do CPC/2015, nos termos defendido no recurso especial, somada à ausência de aclaratórios para suscitar a questão na instância de origem, impede o conhecimento do recurso, diante da incidência das Súmulas n. 282 e 356 do STF.
+Outrossim, a Corte de origem não debateu o conteúdo dos arts. 406 do CC/2002, 1º, do Decreto-Lei n. 22.626/1933 e 1º, I, da Medida Provisória n. 2.172-32/2001, tendo em vista que apenas reconheceu que o acórdão rescindendo não incorreu em erro de fato, por ter indeferido a prova pericial julgada desnecessária após o exame da documentação apresentada nos autos da ação monitória para comprovar a evolução da dívida.
+Dessa forma, sem ter sido objeto de debate na decisão recorrida e sem a oposição de aclaratórios para tal fim, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Conforme excerto aqui transcrito sobre a tese de cerceamento de defesa, por indeferimento da prova pericial, a fim de provar o suposto abuso dos juros cobrados pela agravada, aplicaram-se a Súmulas n. 518 do STJ e 284 do STF.
+A Súmula n. 284/STF incidiu porque o art. 492 do CPC/2015, isoladamente, não tem alcance normativo pra reformar o entendimento da Corte local quanto ao descabimento da demanda rescisória fundamentada em erro de fato.
+Ademais, conforme afirmado na decisão agravada, o conteúdo jurídico do art. 492 do CPC/2015 não foi examinado pelo TJSP, sobretudo com o enfoque pretendido pela agravante, que ademais não cuidou de opor embargos de declaração exigindo o prequestionamento da matéria, de sorte que o conhecimento do recurso, no ponto em que alega a violação do referido dispositivo, deparou-se com o óbice das Súmulas n. 282 e 356 do STF.
+Quanto à suposta cobrança de juros abusivos, a ação rescisória nem sequer ultrapassou a barreira do conhecimento. Desse modo, o Tribunal a quo não enfrentou o conteúdo normativo dos arts. 406 do CC/2002, 1º do Decreto-Lei n. 22.626/1933 e 1º, I, da Medida Provisória n. 2.172-32/2001, sendo caso de nova aplicação das Súmulas n. 282 e 356 do STF no juízo agravado.
+No agravo interno (e-STJ fls. 258/263), a agravante, porém, insurge-se contra o resultado que lhe foi adverso sem proceder à impugnação de tais fundamentos.
+Deixando a recorrente de rebater especificamente o fundamento do capítulo impugnado da decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+(..)
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
