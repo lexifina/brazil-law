@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno (fls. 613-619, e-STJ) interposto por FERNANDO ROBERTO TELINI FRANCO DE PAULA, contra decisão monocrática da lavra deste signatário, que negou provimento ao agravo da ora insurgente.
+O  apelo  extremo,  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Santa Catarina,  assim  ementado  (fl.  184,  e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. DECISÃO QUE INDEFERIU O PEDIDO DE ADJUDICAÇÃO DOS IMÓVEIS E DETERMINOU O LEVANTAMENTO DAS PENHORAS QUE RECAEM SOBRE REFERIDOS BENS. RECURSO DO EXEQUENTE. PLEITO DE MANUTENÇÃO DA PENHORA E ADJUDICAÇÃO DOS IMÓVEIS. PARCIAL ACOLHIMENTO. PENHORA DOS DIREITOS SUCESSÓRIOS DA EXECUTADA ANTERIOR À HOMOLOGAÇÃO DO PLANO DE PARTILHA AMIGÁVEL FIRMADO PELOS COHERDEIROS SEM A RESERVA DA MEAÇÃO DA EXECUTADA. PRESUNÇÃO DE FRAUDE À EXECUÇÃO. ART. 828, § 4º, DO CPC. PLANO DE PARTILHA VÁLIDO, PORÉM INEFICAZ EM RELAÇÃO À PRESENTE EXECUÇÃO. PRECEDENTES. ALEGADO RECONHECIMENTO DE SALDO DEVEDOR NA AÇÃO DE PRESTAÇÃO DE CONTAS MOVIDA CONTRA A INVENTARIANTE (EXECUTADA). IRRELEVÂNCIA. MERA CERTIFICAÇÃO DE CRÉDITO INSUFICIENTE PARA ACARRETAR A EXCLUSÃO DA EXECUTADA DA SUCESSÃO HEREDITÁRIA. CONSTRIÇÃO E ADJUDICAÇÃO QUE SE IMPÕE, LIMITADAS, CONTUDO, À PARTE QUE CABE À VIÚVA-MEEIRA SOBRE CADA UM DOS BENS (50%). DÍVIDA EXECUTADA CONTRAÍDA EM SEU PROVEITO EXCLUSIVO. DECISÃO REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 378-381, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa  ao  artigo  796 do CPC.
+Sustenta,  em  síntese, a manutenção da penhora sobre a totalidade dos bens na partilha, e não apenas sobre a parte que cabe à meeira, tendo em vista a fraude à execução na partilha amigável realizada.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  agravo  de fls.  525-533,  e-STJ.  Contraminuta  às  fls.  546-549,  e-STJ.
+Em decisão singular (fls. 593-596, e-STJ), negou-se provimento ao reclamo, ante a incidência das Súmulas 283/STF e 284/STF, tendo em vista a existência de fundamentos inatacados, aptos à manutenção do aresto recorrido, e a constatação de razões dissociadas do recurso em relação ao acórdão impugnado.
+Daí o presente agravo interno (fls. 613-619, e-STJ), no qual a parte agravante sustenta a não incidência das Súmulas 283/STF e 284/STF, por entender que enfrentou os fundamentos do acórdão.
+Impugnação às fls. 623-626, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DO AGRAVANTE.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. O agravante defende a inaplicabilidade das Súmulas 283/STF e 284/STF, por entender que enfrentou pontualmente os fundamentos do acórdão recorrido, no ponto em que alega violação ao art. 796 do CPC, sustentando a manutenção da penhora sobre a totalidade dos bens na partilha, e não apenas sobre a parte que cabe à meeira, tendo em vista a fraude à execução na partilha amigável realizada.
+Razão não lhe assiste.
+Nesse ponto, o aresto recorrido (fl. 188, e-STJ):
+Por derradeiro, oportuno anotar que o presente cumprimento de sentença tem por objeto obrigação de pagamento de honorários de sucumbência arbitrados na ação de rescisão de contrato de promessa de compra e venda de imóvel de n. 0000654-87.2003.8.24.0082, ajuizada por terceiros contra a aqui executada em 2003, por meio do qual se buscou o desfazimento de relação negocial firmado em 1992, ou seja, após o falecimento de Adilton Carboni.
+É inequívoco, pois, que, embora casados pelo regime de comunhão universal de bens, a dívida objeto do presente cumprimento de sentença, não se comunica com o falecido, de modo que apenas a meação da executada deve responder pela dívida ora executada, devendo, por outro lado, serem preservados os quinhões hereditários dos cohereiros legítimos.
+Veja-se que, ao contrário do sustentado pelo apelante, a regra contida no art. 796 do CPC não se aplica ao caso sob julgamento, já que a dívida não é do falecido, tampouco reverteu em seu proveito.
+Por esses fundamentos, impõe-se a manutenção das penhoras, com a ressalva, contudo, de que a constrição judicial e os atos expropriatórios que a sucederem deverão recair somente sobre a parte que cabe à meeira executada (metade de cada um dos imóveis).
+Com  efeito,  constata-se  que  o  recorrente  não enfrentou  pontualmente  os  fundamentos  do  acórdão,  em  especial  o fato de que a penhora realizada decorre do desfazimento de relação negocial firmada em 1992, após o falecimento de Adilton Carboni, de modo que a dívida objeto do cumprimento de sentença não se comunica com o falecido, fundamento autônomo e suficiente para a manutenção do acórdão recorrido, independentemente do desfazimento de relação negocial firmada em 1992 (ressalte-se: após o falecimento do autor da herança).
+Não rebateu adequadamente, ainda, o argumento da inaplicabilidade do art. 796 do CPC, ante a dívida não ser do falecido, nem ter revertido em seu proveito.
+ Nos  termos  da  jurisprudência  desta  Corte,  a  existência  de  fundamentos  inatacados,  aptos  à  manutenção  do  aresto  recorrido , e a constatação de  razões  dissociadas  do  recurso  em  relação  ao  acórdão  impugnado  atraem  a  incidência  das  Súmulas  283  e  284  do  STF,  aplicáveis  por  analogia.  Nesse  sentido,  confira-se:
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  LUCROS  CESSANTES.  FUNDAMENTO  INATACADO.  MORA  DO  COMPRADOR.  SÚMULA  283  E  284  DO  STF.  MATÉRIA  QUE  DEMANDA  REEXAME.  SÚMULAS  5  E  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+ 1.  A  subsistência  de  fundamento  inatacado  apto  a  manter  a  conclusão  do  aresto  impugnado  impõe  o  não  conhecimento  da  pretensão  recursal,  a  teor  do  entendimento  disposto  na  Súmula  nº  283/STF:  "É  inadmissível  o  recurso  extraordinário  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles.".  ..
+3.  Agravo  interno  não  provido.  (AgInt  nos  EDcl  no  AREsp  874.193/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  01/09/2016,  Dje  08/09/2016)  grifou-se
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PRESCRIÇÃO.  HONORÁRIOS  ADVOCATÍCIOS.  PRINCÍPIO  DA  CAUSALIDADE.  INÉRCIA  DO  EXEQUENTE  NA  PROPOSITURA  DO  CUMPRIMENTO  DE  SENTENÇA.  RAZÕES  DISSOCIADAS  DOS  FUNDAMENTOS  DO  ACÓRDÃO  ATACADO.  SÚMULA  284/STF.  AGRAVO  CONHECIDO  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.  ..
+4.  É  inadmissível  o  inconformismo  por  deficiência  na  fundamentação  quando  as  razões  do  recurso  estão  dissociadas  do  decidido  no  acórdão  recorrido.  Aplicação  da  Súmula  284  do  Supremo  Tribunal  Federal.
+5.  Agravo  interno  provido  para  afastar  a  falta  de  dialeticidade  recursal,  conhecer  do  agravo  e  negar  provimento  ao  recurso  especial.  (AgInt  no  AREsp  1680324/SC,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  19/10/2020,  DJe  16/11/2020)  grifou-se
+Inafastáveis, no ponto, os óbices das Súmulas 283/STF e 284/STF.
+2. Do exposto, nega-se provimento ao agravo interno interposto por FERNANDO ROBERTO TELINI FRANCO DE PAULA.
+É como voto.
