@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Roge rio Oliveira Machado contra a decisão da Ministra Maria Thereza de Assis Moura, Presidente desta Corte Superior, que indeferiu liminarmente a petição do habeas corpus impetrado em seu favor (fls. 32/34).
+A defesa repisa as alegações apresentadas na inicial do writ, destacando que o suposto delito não ostenta violência ou grave ameaça. Não há indícios de que o agravante em liberdade coloque em risco à ordem pública, ou ainda, a instrução criminal, portanto, não há risco à aplicação da lei penal. (fl. 38).
+Requer o conhecimento e o provimento do agravo regimental, a fim de que a decisão seja reconsiderada, dando-se seguimento ao habeas corpus, concedendo-se a liminar.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE TERATOLOGIA OU DE MANIFESTA ILEGALIDADE. MANUTENÇÃO DA DECISÃO INDEFERITÓRIA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática em que se indefere liminarmente o writ impetrado contra decisão monocrática de relator, que indeferiu medida de urgência em habeas corpus originário, quando não evidenciada teratologia ou ilegalidade manifesta.
+2. No caso, a Desembargadora relatora do writ originário simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+3. Agravo regimental improvido.
+VOTO
+A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Reitere-se que as Turmas integrantes da Terceira Seção desta Corte Superior, na esteira do preceituado no enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo as hipóteses de inquestionável teratologia ou de ilegalidade manifesta.
+No caso, a Desembargadora relatora do writ originário, indeferiu a liminar por entender que, ausente qualquer ilegalidade a ser verificada de plano, importa destacar que uma análise mais aprofundada acerca do conjunto probatório não pode ser feita na via estreita do habeas corpus. A doutrina entende incabível, em sede de habeas corpus, o exame exauriente do conjunto fático probatório (fl. 27 - grifo nosso).
+Assim, continua a Desembargadora, não se vislumbra, por ora, constrangimento ilegal operado pela autoridade apontada como coatora devendo ser indeferida a liminar pleiteada (fl. 28).
+Ora, a Relatora do prévio writ, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+Ademais, ao contrário do que alega a defesa, na decisão de prisão preventiva, o Magistrado de piso deixou consignado que a considerável quantidade de droga apreendida (2kg de cocaína), aliada à apreensão de utensílio comumente utilizado na divisão de entorpecentes para venda (balança de precisão), permite presumir a prática do delito de tráfico no varejo: hipótese em que o ilícito abasteceria diretamente os moradores desta Cidade. Tal presunção é agravada pela existência de mandado de busca e apreensão, cuja diligência resultou positiva, culminando no presente flagrante. A gravidade do delito é robustecida, ainda, ao considerarmos a natureza do entorpecente apreendido (cocaína), o qual é conhecido pelo seu elevado poder destrutivo e alto potencial viciante. Ademais, a apreensão de arma de fogo e munições, em que pese a versão apresentada pelos flagrados, também que é indicativo de que a residência era tida como ponto de comércio de drogas e que tal armamento era utilizado como forma de proteção do local e dos envolvidos (fl. 20 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
