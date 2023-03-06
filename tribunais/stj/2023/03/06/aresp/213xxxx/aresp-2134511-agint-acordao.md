@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por A R ANGRA - ARQUITETURA, TEXTURAS E REVESTIMENTOS - EIRELI - MICROEMPRESA e ROMEU MAIA DE MEDEIROS MENDONCA MEIRA contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpuseram.
+Ação: embargos à execução, opostos pelos agravantes, em face do agravado, nos quais alegam a inexigibilidade do título exequendo em virtude da novação operada quando do refinanciamento da cédula de crédito bancário que lastreia o processo principal, assim como a nulidade do título em razão da assinatura do refinanciamento ter sido realizada por pessoa sem poderes de representação da empresa agravante, e excesso de execução. Pleiteiam seja declarada a nulidade do título descrito na inicial, bem como o desbloqueio das contrições realizadas nos autos principais.
+Sentença: julgou procedente o pedido, para reconhecer a nulidade da cédula de crédito bancário de número 0033382930000005960 que lastreia a execução e, consequentemente, do aval nela aposto, assim como para extinguir o processo de execução de número 1045669-63.2017, liberando-se todas as constrições efetuadas nos autos da execução sobre quaisquer valores e veículos de propriedade dos agravantes.
+Acórdão: deu parcial provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+EMBARGOS À EXECUÇÃO - Cédula de crédito bancário - Sentença que julgou procedente o pedido formulado pelos embargantes, para declarar a nulidade do título executivo, sob o fundamento de que foi celebrado por pessoa que não tinha poderes para representar a pessoa jurídica Insurgência do banco embargado Parcial cabimento Hipótese em que a instituição financeira apresentou procuração firmada pelo titular da pessoa jurídica embargante, outorgando amplos e ilimitados poderes para que o signatário da cédula de crédito bancário tratasse de todos os seus negócios e interesses - Admissibilidade da juntada tardia de documento, fazendo prevalecer a verdade real sobre a formal Impossibilidade de apreciação das demais teses debatidas nos autos, em razão da necessidade de instrução probatória, sobretudo de prova pericial grafotécnica que já havia sido deferida pelo juízo de primeiro grau, a fim de aferir a autenticidade das assinaturas dos avalistas do título executivo - RECURSO PARCIALMENTE PROVIDO, com determinação de remessados autos ao juízo de origem. (e-STJ Fl. 307)
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 435, parágrafo único, 1.013, § 1º, e 1.014 do CPC/15, bem como dissídio jurisprudencial. Sustentam que a juntada e análise de documento não caracterizado como documento novo, o qual se tornou peça fundamental nas razões de decidir adotadas pelo acórdão recorrido, configura cerceamento de defesa e configura nulidade de julgamento. Afirmam que a análise de documento extemporaneamente trazido aos autos configura supressão de instância, de modo que o acórdão recorrido deve ser reformado para seja reconhecida a procedência dos embargos à execução.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: nas razões do presente recurso, os agravantes sustentam que os dispositivos arrolados foram devidamente prequestionados perante o Tribunal de origem. Asseveram que o dissídio jurisprudencial foi demonstrado, mediante a realização de cotejo analítico entre o acórdão recorrido e o paradigma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Embargos à execução.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada foi assim fundamentada, na parte em que impugnada pelos agravantes:
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 435, parágrafo único, 1.013, § 1º, e 1.014 do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Ademais, a ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15. Publique-se. Intimem-se. (e-STJ Fl. 458)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que os agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da ausência de prequestionamento
+De fato, os arts. 435, parágrafo único, 1.013, § 1º, e 1.014 do CPC/15 não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Ressalto ainda que, nos termos da reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir por sua aplicação ou afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Ademais, a alegação da agravante de que a oposição de embargos de declaração perante o Tribunal de origem, por si só, haveria de ser suficiente para se considerar prequestionado o tema em análise só encontra guarida se o Tribunal superior considerar existentes erro, omissão, contradição ou obscuridade, o que, a toda evidência, não retrata a hipótese dos autos.
+2. Da divergência jurisprudencial
+Quanto ao dissídio jurisprudencial, verifica-se que entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque fora descumprido o art. 255, §§ 1º e 2º, do RISTJ.
+Ademais, a ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
