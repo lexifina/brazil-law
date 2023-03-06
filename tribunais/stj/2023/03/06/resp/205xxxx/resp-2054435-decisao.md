@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado por João Carlos Tezouro com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 617):
+ASSISTÊNCIA JUDICIÁRIA - Concessão do benefício com a simples declaração de necessidade da parte - Entendimento do TJ e STJ no mesmo sentido - Benefício concedido.
+AÇÃO RESCISÓRIA - Fundamento no CPC, art. 966, inc. VII, sob alegação de prova nova - Decadência - Direito à rescisão que se extingue em cinco anos (CPC, 975, § 2º) - Ajuizamento de ação cautelar não interrompe o prazo decadencial - Ajuizamento da ação rescisória após o prazo legal, contado do trânsito em julgado do acordão rescindendo - Decadência reconhecida - Ação rescisória improcedente.
+Opostos embargos declaratórios, foram rejeitados (fls. 628/631).
+A parte recorrente aponta violação aos arts. 240, § 4º e 1.022, II, do CPC. Sustenta, em síntese, negativa de prestação jurisdicional, sob a alegação de que a Corte de origem teria se mantido omissa quanto a ponto essencial ao deslinde do feito.
+Aduz que "sempre que houver o propósito de ajuizamento de ação futura, a citação realizada no processo cautelar de presunção antecipada de provas interrompe a prescrição ou decadência, porque, em suma, equivale ao protesto do Código Civil, raciocínio que encontra abrigo na sistemática dos §§1º e 4º do art. 240 do CPC; ressaltando-se que não houve desídia por parte do recorrente que concorresse para qualquer atraso desnecessário, seja no tocante à citação ou mesmo ao andamento processual." (fl. 646)
+Parecer do MPF, às fls. 696/701, opinando pelo provimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da seguinte tese (fls. 626/627):
+(..) interrupção do prazo decadencial em razão da propositura da ação cautelar, à luz do § 4º do art. 240, o que, considerando a data da homologação da prova pericial (prova nova), obstaria a fluência do prazo quinquenal da decadência, assim como o próprio prazo de 2 (dois) anos previsto na cabeça do art. 275. Até mesmo porque o autor, ora embargante, não poderia processualmente ser prejudicado pela demora imputável exclusivamente ao serviço judiciário (CPC, § 3º do art. 240).
+(..) o v. aresto deixou de constar na fundamentação os dados factuais referentes à ação cautelar preparatória desta ação rescisória; a propositura desta ação cautelar e a citação válida estão entre o trânsito em julgado da ação principal e a data da descoberta da prova nova, seguida do ajuizamento da ação rescisória.
+Com efeito, os fatos expressamente mencionados para a consideração de Vossa Excelência na petição de fls. 610/612 (e que acabaram não constando no v. acórdão), são os seguintes:
+Que em 09.06.2014 (fl. 11), o autor propôs uma ação cautelar preparatória desta ação rescisória, para produção da prova pericial que revelaria a doença grave.
+Que neste processo da ação cautelar houve o despacho ordenando a citação, conforme fls. 374/380.
+E que a decisão deste Egrégio Tribunal homologando a prova produzida na ação cautelar, foi proferida em 14.03.2019 (fls. 542/544).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
