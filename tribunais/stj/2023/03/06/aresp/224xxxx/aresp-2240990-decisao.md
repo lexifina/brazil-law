@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por IVAN CÉSAR TELLES contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra o acórdão proferido no julgamento da Apelação Criminal n. 5005691-50.2021.8.21.0021.
+Consta nos autos que o Agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial semiaberto, e 730 (setecentos e trinta) dias-multa, por sentença proferida no dia 15/02/2022 (fls. 405-412).
+Irresignadas, a Acusação e a Defesa recorreram ao Tribunal de origem, que negou provimento à apelação defensiva e deu provimento ao apelo ministerial para "aumentar a pena do apelante para nove anos e quatro meses de reclusão, regime fechado, bem como determinar sua prisão" (fl. 543; sem grifos no original).
+Opostos embargos de declaração pela Defesa, foram rejeitados pelo Colegiado estadual (fls. 566-570).
+Nas razões do recurso especial, a Defesa alega violação ao art. 315, § 2.º, inciso IV, do Código de Processo Penal e ao art. 93, inciso IX, da Constituição Federal. Segundo a tese recursal, "não se desconhece da possibilidade de fundamentação per relationem, como houve a utilização, entretanto, é necessário que o acórdão enfrente, e se for o caso de desprovimento, rechace minimamente os argumentos e possíveis provas trazidas pela defesa na apelação, fato que não ocorreu" (fl. 580; sem grifos no original). Destaca que "foram trazidas 5 testemunhas por parte da defesa, cujos depoimentos destoam da dinâmica dos fatos narrados na denúncia, e em nenhum momento houve menção por parte do tribunal a essas testemunhas" (fl. 581). Requer, assim, seja provido o apelo nobre, "anulando o acordão proferido pela 1ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul na apelação  .. , a fim de que seja submetida a novo julgamento em todos os seus termos" (fl. 581).
+Contrarrazões às fls. 586-593. O recurso especial não foi admitido (fls. 596-603), razão pela qual a Defesa interpôs o presente agravo, em 24/10/2022 (fls. 611-616), contraminutado às fls. 620-622.
+O Ministério Público Federal opinou pelo desprovimento do agravo, em acórdão assim ementado (fl. 634):
+"PENAL e PROCESSUAL PENAL. AREsp. Art. 1.042 do CPC. Tráfico de drogas. Alegação de negativa de jurisdição. Julgador que não está obrigado a enfrentar todos as teses e argumentos da parte. Fundamentação per relationem. Possibilidade. Precedentes. Incidência da Súmula nº 83/STJ. Não provimento do agravo."
+É o relatório. Decido.
+Em consulta ao sistema de informações processuais do Superior Tribunal de Justiça, constata-se que a tese defendida neste recurso já foi examinada por esta Corte Superior, nos autos do HC n. 761.061/RS, cuja decisão por mim proferida ficou assim ementada:
+"HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NULIDADE DO ACÓRDÃO IMPUGNADO POR INOBSERVÂNCIA DO INCISO IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA NÃO CONFIGURADA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. PRECEDENTES. ORDEM DENEGADA."
+A mencionada decisão transitou em julgado em 23/08/2022, antes mesmo da interposição do presente agravo em recurso especial.
+Desse modo, o recurso especial ficou prejudicado, pois a matéria levantada já foi apreciada em habeas corpus impetrado pela Defesa contra o acórdão recorrido.
+Ante o exposto, JULGO PREJUDICADO o agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. MATÉRIA JÁ APRECIADA NOS AUTOS DO HC N. 761.061/RS. AGRAVO PREJUDICADO.
