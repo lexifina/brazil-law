@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público do Estado de Goiás contra a decisão que concedeu liminarmente o habeas corpus.
+O agravante sustenta que "o caso em análise comporta distinção do julgado prolatado pela Terceira Seção. Primeiro, porque rompida a inércia jurisdicional mediante manifestação ministerial com a solicitação de adoção de medidas cautelares vinculativas, e não a concessão de liberdade irrestrita e desvigiada. Segundo, porquanto ocaso trata da aplicação da sistemática cautelar do processo penal em sede persecutória voltada a crimes perpetrados no âmbito doméstico e familiar contra a mulher, dotado de peculiaridades que, embora não avessas ao ideal garantista de separação entre juízo e acusação, refreiam o ímpeto monocular de tutela da dignidade apenas do investigado/acusado, em detrimento do resguardo à integridade das vítimas" (fl. 281).
+Assevera que "se o juiz já foi provocado para examinar a necessidade geral de alguma medida cautelar, a inércia que marca a prestação jurisdicional e ajuda a compor sua imparcialidade já foi rompida. Cabe a ele, diante desse cenário, apreciar não só a pertinência e adequação das cautelares pessoais mais abrangentes e menos severas, mas também a necessidade específica da prisão preventiva, de forma a aplicar a medida que entender mais adequada à tutela do direito, da ordem pública e da própria vítima - enfim, aos postulados do artigo 312 do CPP (fl. 286).
+Requer que o presente agravo regimental seja conhecido e provido para reconsiderar a decisão e determinar a prisão preventiva do paciente.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que, em 27/2/2023, foi proferida sentença condenatória concedendo o direito de o agravado recorrer em liberdade (fls. 297-303) .
+Assim , embora relevantes os argumentos trazidos pelo agravante, a existência de novo título torna superada a discussão objeto deste agravo.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se.
+Intimem-se.
