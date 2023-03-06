@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por Helio Alves dos Santos contra acórdão da Sexta Turma assim resumido (fl. 5.212):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL DE HELIO ALVES DOS SANTOS. ASSOCIAÇÃO PARA O TRÁFICO. OPERAÇÃO FLASHBACK. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+2. Agravo regimental não conhecido.
+Nas razões recursais, a defesa alega tencionar aclarar pontos omissos e contraditórios no r. acórdão (fl. 5.254), e repete os mesmos argumentos dos recursos anteriores (recurso especial, embargos de declaração e agravo regimental), de violação dos arts. 59 e 68 do Código Penal (fls. 5.255/5.261); de ausência de provas da autoria do crime (fls. 5.2.61/5.262); de negativa de vigência aos arts. 35 da Lei n. 11.343/2006; 59 e 68 do Código Penal e da interpretação adotada pelo STJ (fls. 5.263/5.266); e de ofensa ao art. 49 do Código Penal, em relação à pena de multa imposta (fls. 5.266/5.268), acrescentando o argumento de inaplicabilidade das Súmulas 281 e 284/STF e 7/STJ (fls. 5.268/5.275).
+Postula, ao final, o recebimento e procedência destes embargos, pelas razões e fundamentos jurídicos aduzidos, e por tudo mais que, por certo, há de ser suprido pelo conhecimento jurídico dos ilustres membros dessa corte, proferindo nova decisão anulando a sentença de primeiro grau, para que seja conhecido e julgado procedente este Recurso (fl. 5.275).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL DE HELIO ALVES DOS SANTOS. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. RECURSO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES. DESCABIMENTO DA REDISCUSSÃO DE MATÉRIA. IMPUGNAÇÃO TARDIA. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE VÍCIOS A SEREM SANADOS. MANIFESTA IMPROCEDÊNCIA.
+Embargos de declaração rejeitados.
+VOTO
+A pretensão não merece acolhida, pois não há no acórdão embargado defeito a ser corrigido.
+Na espécie, o ora embargante, conquanto mencione a existência dos vícios de contradição e de omissão, deixou de demonstrar, de forma concreta e analítica, as apontadas eivas; apenas reitera, nas razões de seu recurso, os mesmos argumentos levantados em sede dos recursos anteriores (recurso especial, embargos de declaração e agravo regimental).
+Ora, os embargos de declaração são cabíveis quando presente ao menos uma das hipóteses previstas no art. 619 do Código de Processo Penal, não sendo possível o seu manejo para tornar a discutir questões anteriormente decididas.
+Imperioso registrar que a Corte Especial do Superior Tribunal de Justiça já assentou que a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF (EDcl no AgInt nos EAREsp n. 635.459/MG, Ministro João Otávio de Noronha, Corte Especial, DJe 15/3/2017).
+Veja-se, ainda, o EDcl nos EDcl no AgRg no AREsp n. 2.098.825/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 27/6/2022 e o EDcl no AgRg no AREsp n. 1.871.908/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/3/2022.
+Assim, A fundamentação recursal no tocante à alegada omissão do acórdão recorrido é deficiente, pois deixou de apontá-la de forma concreta e analítica, o que atrai a incidência do disposto na Súmula n. 284 do STF (AgRg no AREsp n. 2.026.405/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/8/2022).
+Outrossim, o julgado de fls. 5.214/5.218 ostenta fundamentação clara e suficiente para firmar a conclusão nele estabelecida, inexistindo defeito a ser corrigido. A Turma desproveu o apelo mediante motivação clara, adequada e suficiente (deixou o agravante de impugnar todos os fundamentos da decisão agravada, atraindo a aplicação do óbice previsto na Súmula 182/STJ), inexistindo omissão no acórdão embargado.
+Nesse panorama, diante da ausência de qualquer ambiguidade, obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 619 do Código de Processo Penal, mas em se tratando de mera irresignação da parte com o julgado embargado, impõe-se a rejeição dos presentes embargos de declaração.
+A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no decisum.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.002.327/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 25/4/2022)
+Em relação à alegação de inaplicabilidade das Súmulas 281 e 284/STF e 7/STJ, Súmulas 281 e 284/STF e 7/STJ, imperioso mencionar que a impugnação tardia dos fundamentos da decisão agravada, somente agora, em sede de embargos de declaração, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+Sobre o tema, destaco:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE VÍCIO A SER SANADO. REDISCUSSÃO DE MATÉRIA. DESCABIMENTO. IMPUGNAÇÃO TARDIA QUE ENCONTRA ÓBICE NA PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. AUSÊNCIA DE VÍCIOS A SEREM SANADOS. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+2. Sem a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+3. A impugnação tardia de fundamento da decisão de inadmissibilidade do recurso especial configura inovação recursal e não afasta a ausência de impugnação constatada na petição de agravo em recurso especial, em razão da preclusão consumativa.
+4. Não cabem embargos de declaração para fins de prequestionamento se inexistem vícios a serem sanados.
+5. Embargos declaratórios rejeitados.
+(EDcl no AgRg nos EDcl no AREsp n. 1.253.070/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/4/2019)
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o Supremo Tribunal Federal (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgam ento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018)
+Ante o exposto, rejeito os embargos de declaração.
