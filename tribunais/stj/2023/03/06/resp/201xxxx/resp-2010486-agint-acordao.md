@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por DOMÍNIO DONA FRANCISCA LTDA. contra decisão monocrática de minha relatoria que não conheceu do recurso especial pelos seguintes fundamentos: a) ausente o prequestionamento da matéria alegadamente violada (Súmulas n. 211/STJ e n. 282 e n. 356 do STF); b) Súmula n. 283/STF; c) Súmula n. 7/STJ.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 658):
+APELAÇÃO. MANDADO DE SEGURANÇA. OBJETIVADA ANULAÇÃO DE AVERBAÇÃO EX OFFICIO PROMOVIDA PELA OFICIALA TITULAR DOCARTÓRIO DO 1o REGISTRO DE IMÓVEIS DE JOINVILLE. PRENOTAÇÃO DE SANEAMENTO E AUSÊNCIA DE ÁREA DISPONÍVEL. PETIÇÃO INICIAL INDEFERIDA, POR INADEQUAÇÃO DO MEIO ELEITO. MAGISTRADO SENTENCIANTE QUE ENTENDEU SER A SUSCITAÇÃO DE DÚVIDA, A VIA ADEQUADA PARA DISCUSSÃO DA MATÉRIA. INSURGÊNCIADA SOCIEDADE EMPRESÁRIA IMPETRANTE. ASSERÇÃO DE QUE O ATO COATOR NÃO COMPORTA CONSULTA ADMINISTRATIVA, MAS, SIM, DISCUSSÃO JUDICIAL. TESE SUBSISTENTE. CABIMENTO DE AÇÃO MANDAMENTAL. ART. 5o, INC. LXIX, DA CONSTITUIÇÃO FEDERAL. SENTENÇA CASSADA. CAUSA MADURA. JULGAMENTO DO PROCESSO NO ESTADO EM QUE SE ENCONTRA. ART. 1.013, § 3o, INC. I, DO CPC. INDISPENSÁVEL INSTRUÇÃO PROBATÓRIA PARA CONFRONTAÇÃO DA ÁREA TIDA COMO EXCEDENTE. RITO ESTABELECIDO PELA LEI N. 12.016/09. IMPOSSIBILIDADE DE DILAÇÃOPROBATÓRIA. ORDEM DENEGADA. RECURSOCONHECIDOE PARCIALMENTE PROVIDO.
+Embargos de declaração rejeitados (fls. 729-737).
+Alega a parte agravante, em síntese, que: 1) houve a preclusão pro judicato, em relação aos motivos pelos quais o recurso especial não foi conhecido (ausência de prequestionamento, Súmula 283/STF e Súmula 07/STJ); 2) houve o prequestionamento em relação aos arts. 214, § 1º, 233 e 250, todos da Lei n. 6.015/1973 e art. 6º da Lei de Introdução ao Direito Brasileiro; 3) o recurso também foi claro ao apontar que não se trata de reexaminar provas, mas sim de uma revaloração daquilo que já foi produzido ao longo da marcha processual; 4) a tese de óbice na Súmula n. 283/STF também não é cabível, pois o recurso especial ataca todos os fundamentos do acórdão vergastado, que unicamente afirmou que para a análise do acerto ou desacerto do ato combatido, seria necessário a incursão em amplitude probatória, modalidade não permitida em mandado do segurança.
+Pugna, por fim, pelo provimento do agravo interno e do recurso especial.
+As partes agravadas, instadas a manifestar-se, apresentaram contrarrazões (fls. 956-961 e 963-969).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REAVALIAÇÃO DO QUADRO FÁTICO DELINEADO NA INSTÂNCIA ORDINÁRIA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. "A determinação de reautuação do agravo não representa a satisfação dos requisitos de admissibilidade do recurso especial, o qual passará por novo juízo de admissibilidade, além da análise do mérito, se ultrapassado aquele" (AgInt no AREsp n. 773.569/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 18/10/2017).
+2. Ausente o prequestionamento dos artigos alegados como violados, não é possível o conhecimento do recurso especial. Incidência da Súmula n. 211/STJ.
+3. A Corte a quo entendeu que seria necessário adequada instrução probatória, dilação que sabidamente é incompatível com a regra da Lei n. 12.016/2009. Contudo, tal fundamento não foi objeto de impugnação nas razões do recurso especial. Nesses termos, aplica-se ao caso, por analogia, o óbice da Súmula n. 283/STF.
+4. Ademais, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Inicialmente, não há que se falar em preclusão pro judicado, pois a decisão proferida pelo Ministro Og Fernandes de convolação do agravo em recurso especial limitou-se nos requisitos de admissibilidade do agravo e não do próprio recurso especial.
+Ademais, não ocorre preclusão pro judicato quanto aos requisitos de admissibilidade recursal.
+Nesse sentido, cito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU SEGUIMENTO AO RECLAMO ANTE À INCIDÊNCIA DA SÚMULA 115/STJ. INSURGÊNCIA DO EMBARGANTE.
+ ..
+3. Não há preclusão pro judicato no que tange à apreciação dos requisitos de admissibilidade do recurso especial, mesmo que a sua subida a esta Corte Superior seja proveniente do provimento do agravo de instrumento.
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.175.564/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 17/11/2015.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
+1. O STJ possui firme entendimento no sentido de que é irrecorrível a decisão que determina a conversão do agravo nos próprios autos em recurso especial, exceto se houver descumprimento de requisitos de admissibilidade do próprio agravo, o que não ocorre no presente caso.
+2. "A determinação de reautuação do agravo não representa a satisfação dos requisitos de admissibilidade do recurso especial, o qual passará por novo juízo de admissibilidade, além da análise do mérito, se ultrapassado aquele.".(AgInt no AREsp 773.569/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/10/2017, DJe 18/10/2017).
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt nos EDcl no REsp n. 1.833.940/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 18/3/2021.)
+No mais, o recurso não merece prosperar.
+DA FALTA DE PREQUESTIONAMENTO
+Conforme exposto na decisão agravada, verifica-se que a parte recorrente não se desincumbiu de provocar o Tribunal de origem de se manifestar a respeito da matéria trazida no recurso especial quanto aos artigos apontados no presente recurso.
+Com efeito, ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados 282 e 356 da Súmula do STF.
+E, embora a matéria tenha sido objeto dos embargos de declaração opostos pela recorrente, não houve arguição de violação do art. 1.022 do CPC.
+Cito a jurisprudência do STJ a respeito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. ALEGADA OFENSA AOS ARTS. 264 E 942 DO CÓDIGO CIVIL.AUSÊNCIADE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXCESSO DA CONSTRIÇÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ. IV. Não havendo sido apreciada a questão após a oposição
+dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 1.022 do CPC/2015, e não aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie. Precedentes do STJ.
+ ..
+VII. Agravo interno improvido. (AgInt no REsp n. 1.929.723/MT, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/6/2022.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. SUBSTITUIÇÃO PROCESSUAL. INTIMAÇÃO. NULIDADE. DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. NÃO APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA 211 DESTA CORTE. DISPOSITIVOS LEGAIS QUE NÃO AMPARAM AS TESES RECURSAIS. SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+ ..
+2. Extrai-se dos fundamentos do acórdão da apelação e dos embargos de declaração que o tema não foi decidido pelo colegiado de origem explícita ou implicitamente. Ademais, embora interpostos embargos de declaração, a parte não apontou violação ao art. 1.022, II, do Código de Processo Civil, o que impede a constatação, pelo Superior Tribunal de Justiça, de eventual omissão do acórdão e determinação de retorno dos autos a fim de completar a prestação jurisdicional. Em razão de tais deficiências, o recurso especial não pôde ser conhecido. Aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal e 211 desta Corte.
+3. "O entendimento majoritário do Supremo Tribunal Federal e o Superior Tribunal de Justiça é no sentido de que, no âmbito dos recursos excepcionais, é indispensável o prequestionamento explícito ou implícito da questão objeto do recurso extraordinário ou especial" (AgInt no REsp 1765907/RS, minha relatoria, Segunda Turma, DJe 28/06/2019).4. Outrossim, "o Superior Tribunal de Justiça aceita o prequestionamento explícito e implícito; contudo, não admite o chamado "prequestionamento ficto", que se daria com a mera oposição de aclaratórios, sem que o Tribunal de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgInt no AREsp 1484121/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/06/2020). .. 6. Agravo interno não provido. (AgInt no AgInt no AREsp n. 1.980.457/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022.)
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. PARTICIPAÇÃO EM PROGRAMA DE TELEVISÃO. ACIDENTE. DANOS MATERIAIS E MORAIS. COMPROVAÇÃO. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL A QUO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ALEGAÇÃO DE ENRIQUECIMENTO SEM CAUSA. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS Nº 211 DO STJ E 282 DO STF. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO NCPC. INVIABILIDADE DE ADMISSÃO DO PREQUESTIONAMENTO FICTO (ART. 1.025 DO NCPC). DANO MORAL. QUANTUM. FALTA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A ausência de debate no acórdão recorrido quanto as alegações do recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto somente na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não ocorreu no caso dos autos.
+ ..
+5. Agravo interno não provido. (AgInt no AgInt no AREsp n. 1.614.911/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/7/2020.)
+Não tendo, portanto, a parte recorrente alegado, no recurso especial, ofensa ao disposto no art. 1.022 do CPC, fica inviabilizada a apreciação do recurso.
+DA SÚMULA N. 283/STF
+Incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Isso porque, para contrapor a averbação lançada pela Oficiala titular do Cartório do 1º Registro de Imóveis de Joinville, consubstanciando divergência de área remanescente, seria necessário adequada instrução probatória, dilação que sabidamente é incompatível com a regra da Lei n. 12.016/2009.
+Nesse sentido, cito:
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018.)
+DA SÚMULA 7/STJ
+Ademais, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "seria necessário adequada instrução probatória, dilação que sabidamente é incompatível com a regra da Lei n. 12.016/09".
+Nesse contexto, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. ACÓRDÃO COMBATIDO. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. MANDADO DE SEGURANÇA. INTERESSE DE AGIR. AUSÊNCIA. PROVA PRÉ-CONSTITUÍDA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+ ..
+3. A desconstituição do entendimento a que chegou o acórdão recorrido (que concluiu pela falta de interesse de agir em razão da ausência de comprovação do direito líquido e certo da parte impetrante) demandaria o revolvimento do material fático-probatório dos autos, providência vedada em sede de recurso especial diante do óbice contido na Súmula 7 do STJ (a pretensão de simples reexame de prova não enseja recurso especial).
+4. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 1.858.099/GO, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 1º/7/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. FISCALIZAÇÃO DE ESTABELECIMENTOS FARMACÊUTICOS. ART. 44 DA LEI 5.991/1973. COMPETÊNCIA DO ÓRGÃO DE VIGILÂNCIA SANITÁRIA. MANDADO DE SEGURANÇA. PROVA PRÉ-CONSTITUÍDA INSUFICIENTE. SÚMULA 7/STJ. APLICAÇÃO.
+ ..
+3. No caso em análise, contudo, a segurança foi denegada pela ausência de prova pré-constituída de que o Conselho Regional de Farmácia do Estado do Paraná teria desrespeitado suas competências legais por meio de fiscalização das condições de controle sanitário.
+4. Nesse contexto, a inversão do julgado exige incursão na seara fático-probatória dos autos, o que descabe na via eleita, consoante o enunciado sumular 7/STJ.
+5. Como se trata de Mandado de Segurança ajuizado na origem, o Superior Tribunal de Justiça possui jurisprudência pacífica de que é "incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória. Incide, na espécie, a Súmula 7 deste Tribunal" (REsp 1.660.683/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20.6.2017).
+6. Agravo Interno não provido. (AgInt no REsp n. 1.862.803/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/9/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
