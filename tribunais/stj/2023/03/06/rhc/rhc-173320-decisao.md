@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra o Tribunal de Justiça de Minas Gerais.
+O recorrente foi preso em flagrante em 6/10/2022, convertido em prisão preventiva, pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/2006.
+Inconformada, a Defensoria Pública impetrou habeas corpus na origem, requerendo, em resumo, a revogação da prisão preventiva, por não ter a autoridade judicial fundamentado devidamente a decisão que converteu a prisão flagrancial em custódia preventiva, e a concessão da prisão domiciliar, ao argumento de que o paciente, ora recorrente, é paraplégico, necessitando de cuidados específicos para a realização das atividades diárias, alegações que se reiteram no presente recurso (fls. 153-162).
+Deferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo provimento recursal.
+Na origem, Processo nº 0030875-78.2022.8.13.0313, oriundo da 1ª Vara Criminal de Ipatinga/MG, encontra-se o feito na fase de apresentação de defesa prévia, conforme informações processuais extraídas do site do TJMG em 2/3/2023.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada sob os seguintes fundamentos (fl. 79):
+ ..  Estão presentes os pressupostos (prova da existência do crime e indícios suficientes de autoria) por meio das declarações do condutor e depoimentos de testemunhas. Ademais, o autuado registra condenação criminal, o que demonstra sua periculosidade ao meio social. Diante disso, revela-se a necessidade de garantia da ordem pública, com fundamento no art. 312 do CPP, uma vez que se faz necessário inibir ou evitar que o autuado, caso se livre solto possa reincidir na prática de delitos, assegurando-se assim, a ordem na sociedade, que, em regra, é abalada pela prática de qualquer delito. ..
+Como adiantando liminarmente, ao tratar dos requisitos da custódia cautelar, o juízo de 1º grau não apresentou motivação concreta para a prisão, mencionando apenas a reiteração delitiva do réu, ora recorrente, o qual registra passagens criminais antigas, evidenciando-se, ainda, a inexpressiva quantidade de droga apreendida (34,19g de maconha - fl. 21).
+Logo, a ausência de elementos novos a justificar a necessidade de segregação, torna-se ilegal a prisão preventiva por não atender ao requisito essencial da cautelaridade, ficando as demais questões aqui trazidas prejudicadas.
+Ante o exposto, dou provimento ao recurso em habeas corpus para determinar a soltura de ANTONIO TADEU MENDES JUNIOR, se por outro motivo não estiver preso, devendo o réu indicar e manter atualizados endereço e telefone pessoais, para fins de comunicação processual, ao juízo de origem (Processo nº 0030875-78.2022.8.13.0313 - 1ª Vara Criminal de Ipatinga/MG).
+Comunique-se.
+Publique-se.
+Intimem-se.
