@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FERNANDO JORGE RODRIGUES PIRES de decisão na qual não conheci do habeas corpus.
+O agravante insiste na exclusão da causa de aumento de pena do artigo 40, inciso IV, da Lei nº 11.343/2006, sob alegação de que "se outros indivíduos utilizavam armas, não pode o Paciente ser punido pela conduta de terceiros". Destaca que sequer houve apreensão de arma nos autos principais.
+Afirma que a pena-base deve ser estabelecida no mínimo legal, uma vez que primário e de bons antecedentes o agravante, e foi comprovado que ele se dedicava à atividade laborativa lícita, instrutor de auto-escola.
+Pontua ser devido o reconhecimento da atenunante da confissão espontânea, pois "o agravante foi acusado de informar a respeito de voos de aeronaves. E é nisso que a Defesa tanto insiste. Em seu interrogatório o agravante confessou as frases, mas que se tratava de brincadeira - ainda que de péssimo gosto".
+Alega violação às Súmulas 440/STJ e 719/STF.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PENA-BASE. CULPABILIDADE DO AGENTE. CONFISSÃO ESPONTÂNEA. NÃO OCORRÊNCIA. CAUSA DE AUMENTO DO EMPREGO DE ARMA DE FOGO. PROVA DOCUMENTAL. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE FATOS. PROVIDÊNCIA INADMISSÍVEL NA VIA ELEITA. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Hipótese em que o Tribunal de origem considerou a culpabilidade exacerbada do agente - "ante o papel de relevo que desempenhavam na estrutura da organização criminosa" - para justificar o aumento a pena-base em 6 meses de reclusão, o que não se mostra desproporcional.
+3. O pedido de exclusão da majorante prevista no art. 40, IV, da Lei n. 11.343/20 06 demanda o reexame de provas, medida incabível na via estreita, uma vez que as instâncias ordinárias asseveraram que há documentos (interceptação telefônica) e depoimentos orais que comprovam ser o paciente responsável pela movimentação e manutenção das armas do grupo criminoso. Assentou-se, ainda, que "o armamento apreendido compunha o arsenal utilizado pelos narcotraficantes que atuam naquela localidade para garantir o sucesso na venda de entorpecentes, tendo os seus integrantes pleno conhecimento e disponibilidade dos mesmos."
+4. Se o réu não assumiu a prática dos núcleos verbais do tipo penal (integrar associação criminosa voltada ao tráfico de drogas), deixando de assumir o fato delitivo a ele atribuído, é inviável a aplicação da atenuante do art. 65, III, "d", do CP.
+5. Recurso não provido.
+VOTO
+O agravante não trouxe argumentos novos para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos:
+Inicialmente, vale anotar que a individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Na hipótese, observa-se que o Tribunal de origem, em decisão motivada, considerou a culpabilidade exacerbada do agente - "ante o papel de relevo que desempenhavam na estrutura da organização criminosa" - para justificar o aumento a pena-base em 6 meses de reclusão.
+Segundo se infere, o paciente tinha função múltipla na quadrilha, sendo o responsável por avisar a movimentação do helicóptero da polícia na comunidade, quando estava atuando como instrutor de autoescola na Lagoa, bem como pelo transporte de drogas e de manutenção do armamento da quadrilha. Portanto, indicados elementos válidos e referentes ao caso específico para majorar a pena-base, não se verifica manifesta ilegalidade a autorizar a atuação excpecional desta Corte.
+Vejamos:
+ ..
+Do mesmo modo, não merece acohimento o pedido de reconhecimento da atenuante da confissão espontânea.
+O Superior Tribunal de Justiça tem entendimento firmado no Enunciado Sumular n. 545, de que a confissão espontânea deve ser reconhecida na segunda fase da dosimetria da pena, ainda que tenha sido parcial, qualificada ou retratada em juízo, se utilizada para fundamentar a condenação (AgRg no REsp 1.643.268/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, Julgado em 7/3/2017, DJe 17/3/2017).
+Todavia, no caso, observa-se que o paciente, tanto em juízo, como na fase policial, negou integrar quadrilha criminosa voltada ao tráfico. Afirmou que conhecia o corréu apenas de jogos de futebol e, sobre as mensagens interceptadas que o incriminam, disse tratarem-se de mera brincadeira.
+Logo, se o réu não assumiu a prática dos núcleos verbais do tipo penal, deixando de assumir o fato delitivo a ele atribuído, é inviável a aplicação da atenuante do art. 65, III, "d", do CP.
+ ..
+No que tange ao pedido de exclusão da majorante prevista no art. 40, IV, da Lei n. 11.343/06, anote-se que o exame do tema demanda o reexame de provas, medida incabível na via estreita, uma vez que as instâncias ordinárias asseveraram que há documentos (interceptação telefônica) e depoimentos orais que comprovam ser o paciente responsável pela movimentação e manutenção das armas do grupo criminoso. Assentou-se, ainda, que "o armamento apreendido compunha o arsenal utilizado pelos narcotraficantes que atuam naquela localidade para garantir o sucesso na venda de entorpecentes, tendo os seus integrantes pleno conhecimento e disponibilidade dos mesmos."
+Pontue-se, por fim, que "De acordo com a jurisprudência desta Corte, o fato de não ter sido apreendida arma de fogo não descaracteriza a aplicação da regra do inciso IV do artigo 40 da Lei n. 11.343/2006, quando comprovado por outros meios de provas que os delitos foram perpetrados com emprego de arma de fogo (AgRg no HC n. 555.960/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
