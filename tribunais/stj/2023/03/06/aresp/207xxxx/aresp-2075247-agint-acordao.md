@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESIDÊNCIA. AÇÃO DE COBRANÇA DE SEGURO DPVAT. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PROVEITO ECONÔMICO IRRISÓRIO. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção do STJ firmou entendimento de que, havendo ou não condenação, nas causas em que o proveito econômico obtido pelo vencedor for inestimável ou irrisório, ou o valor da causa for muito baixo, os honorários sucumbenciais deverão ser fixados por apreciação equitativa, nos termos do § 8º do art. 85 do CPC/2015 (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe de 29/3/2019).
+2. Na espécie, o proveito econômico obtido pelo vencedor é irrisório (R$ 675,00), mostrando-se correto o arbitramento dos honorários advocatícios sucumbenciais na quantia de R$ 2.500,00 (dois mil e quinhentos reais), por apreciação equitativa.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto pela SEGURADORA LÍDER DOS CONSÓRCIOS DO SEGURO DPVAT S/A contra decisão da Presidência desta Corte, acostada às fls. 487/488, que conheceu do agravo para negar provimento ao recurso especial, ante a consonância do posicionamento do acórdão com a jurisprudência do STJ.
+Nas razões recursais, a agravante sustenta, em síntese, que o acórdão recorrido contraria a jurisprudência do STJ, sob a tese de que o arbitramento dos honorários por equidade é subsidiário.
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Intimada, a agravada não apresentou impugnação (fl. 502).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESIDÊNCIA. AÇÃO DE COBRANÇA DE SEGURO DPVAT. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PROVEITO ECONÔMICO IRRISÓRIO. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção do STJ firmou entendimento de que, havendo ou não condenação, nas causas em que o proveito econômico obtido pelo vencedor for inestimável ou irrisório, ou o valor da causa for muito baixo, os honorários sucumbenciais deverão ser fixados por apreciação equitativa, nos termos do § 8º do art. 85 do CPC/2015 (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe de 29/3/2019).
+2. Na espécie, o proveito econômico obtido pelo vencedor é irrisório (R$ 675,00), mostrando-se correto o arbitramento dos honorários advocatícios sucumbenciais na quantia de R$ 2.500,00 (dois mil e quinhentos reais), por apreciação equitativa.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso colhe, em parte.
+Extrai-se dos autos que o eg. Tribunal de origem fixou os honorários advocatícios por equidade, na quantia de R$ 2.500,00 (dois mil e quinhentos reais), sob a tese de que o arbitramento sobre o valor da condenação ensejaria quantia irrisória, como se verifica no trecho do acórdão a seguir (fl. 326):
+No caso em comento, o proveito econômico da parte vencedora corresponde a R$675,00 (seiscentos e setenta e cinco reais), de modo que eventual fixação dos honorários advocatícios em 15% (quinze por cento) dessa quantia, como determinado na sentença, corresponderia a irrisórios R$101,25 (cento e um reais e vinte e cinco centavos).
+Tal valor, certamente, é incapaz de remunerar de forma digna o trabalho do advogado, cujos honorários possuem, inclusive, caráter alimentar, conforme dispõe o art. 85, § 14, do CPC. A propósito:
+Ementa: "AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO COBRANÇA SEGURO DPVAT. HONORÁRIOS SUCUMBENCIAIS. VALOR IRRISÓRIO. FIXAÇÃO EQUITATIVA.
+DECISÃO MANTIDA. 1 - Consoante o disposto no §8º, do artigo 85, do CPC, os honorários advocatícios nas causas em que for irrisório o proveito econômico, o juiz fixará o valor dos honorários por apreciação equitativa. 2 - Ausentes argumentos relevantes que demonstrem o desacerto dos fundamentos utilizados na decisão recorrida, nega-se provimento ao Agravo Interno. Agravo Interno conhecido e desprovido" (TJGO, Apelação (CPC) 0117107- 31.2017.8.09.0006, Rel. GILBERTO MARQUES FILHO, 3ª Câmara Cível, julgado em 29/08/2019, DJe de 29/08/2019).
+Dessa forma, revela-se adequada a fixação dos honorários advocatícios no importe de R$ 2.500,00 (dois mil e quinhentos reais), nos termos do artigo 85, § 8º, do CPC, observados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (artigo 85, § 2º, do mesmo diploma legal).
+Consoante a jurisprudência da Segunda Seção desta Corte (REsp 1.746.072/PR, Relator para o acórdão Ministro Raul Araújo, DJe de 29/3/2019), o novo Estatuto Processual Civil introduziu expressa "ordem de vocação" para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+Primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); terceiro, havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+Em reforço, sobre o tema:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. OMISSÃO VERIFICADA. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DE FIXAÇÃO. ACOLHIMENTO.
+1. Nos termos da jurisprudência firmada na Segunda Seção do Superior Tribunal de Justiça, os honorários devem ser fixados segundo a "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)". (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019)
+2. Embargos de declaração acolhidos, com efeitos modificativos.
+(EDcl no AgInt no REsp 1882639/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/08/2021, DJe 18/08/2021) - grifou-se.
+Dessa forma, a expressa redação legal impõe concluir que o § 2º do art. 85 do CPC de 2015 veicula a regra geral e obrigatória de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% a 20% sobre a objetiva e concreta base de cálculo que discrimina, relegando ao § 8º do art. 85 a instituição de regra excepcional, de aplicação subsidiária, em que se permite a fixação equitativa.
+Diante dessas premissas, correta a fixação, pela Corte estadual, do valor de R$ 2.500,00 (dois mil e quinhentos reais), a título de honorários advocatícios, tendo em vista que o arbitramento tendo como parâmetro o proveito econômico do vencedor (R$ 675,00) ensejaria quantia irrisória, a justificar a incidência da fixação equitativa, em conformidade com a referida orientação.
+Cabe ressaltar que, na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015, e sua revisão nesta instância especial implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula 7/STJ.
+Nesse sentido, destacam-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. APRECIAÇÃO EQUITATIVA. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. LIMITAÇÃO. NÃO OCORRÊNCIA. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1497043/SE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2017, DJe 14/12/2017, g. n.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.155.125/MG (em 10.3.2010, DJe 6.4.2010), relatoria do Ministro Castro Meira, submetido ao regime dos recursos repetitivos, reafirmou a orientação no sentido de que, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade".
+2. A fixação da verba honorária de sucumbência cabe às instâncias ordinárias, uma vez que resulta da apreciação equitativa e avaliação subjetiva do julgador em face das circunstâncias fáticas dos autos, razão pela qual insuscetível de revisão em recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. A condenação imposta não se mostra teratológica, tendo em vista que o Tribunal de origem, soberano nas circunstâncias fáticas e probatórias da causa, concluiu pela razoabilidade da verba honorária após apreciação equitativa, situação que impede a revisão pelo Superior Tribunal de Justiça, em razão do óbice previsto na Súmula 7/STJ. Agravo regimental improvido.
+(AgRg no AREsp 634.872/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/03/2015)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
