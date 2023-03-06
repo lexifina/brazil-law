@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUILHERME NOGAIA DE SOUZA (e-STJ, fls. 97-104) contra decisão monocrática proferida por esta relatoria, em que o habeas corpus não foi conhecido (e-STJ, fls. 92-94).
+Neste recurso, o agravante afirma que "pode-se concluir que as matérias de ordem pública não só podem como devem ser conhecidas em qualquer grau de jurisdição, ainda que de ofício, o que derivará do EFEITO TRANSLATIVO dos recursos, que é uma decorrência direta do princípio do inquisitivo."
+Pleiteia a reconsideração da decisão agravada ou que o feito seja apreciado pelo colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERADA CONDUTA DELITIVA DO AGENTE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. RECURSO NÃO CONHECIDO.
+1. "Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamentos utilizados na decisão agravada" (AgRg no AREsp 471.237/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+2. Na hipótese, a decisão agravada não conheceu do habeas corpus, sob o entendimento de que a custód ia preventiva estaria motivada na garantia da ordem pública, dada a reiterada conduta delitiva do agente. Todavia, o agravante não impugnou tal fundamento, o que faz incidir a Súmula 182 do STJ.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo não merece prosperar.
+A decisão recorrida, transcrita a seguir, assim expôs seus fundamentos (e-STJ, fls. 92-94):
+O Juiz sentenciante decretou a prisão cautelar sob a seguinte motivação:
+A prisão se deuporque policiais civis receberem informações sobre tráfico de drogas no estabelecimentocomercial "BAR CHT". Foram para o local com viatura descaracterizada e em ponto de observação estática, puderam notar a presença de duas pessoas jovens do sexo masculino, de acordo com as informações, responsáveis pelo tráfico. Visualizaram, por quatro vezes, que o autuado e o menor eram procurados por outras pessoas, que entregavam dinheiro e depoisrecebiam algo em troca; assim o autuado atendia as pessoas e recebia o dinheiro, enquanto o adolescente deslocava-se para a Rua abaixo de onde estavam, mais precisamente Rua ÂngeloGiovane Breda, altura do numeral 223, retirava objetos escondidos em um cano d"água e dos pésde uma árvore, retornando ao local inicial e entregando ao comprador. Diante dos fatos, emmomento oportuno, os dois investigados foram abordados, sendo localizado um aparelhocelular com cada e o valor em dinheiro de R$ 99,00 (noventa e nove reais) com o ora adolescenteinfrator, indagados no momento, negaram qualquer envolvimento com venda de drogas, no localonde visualizaram o ora adolescente se deslocar por várias vezes, encontraram 50 porções de maconha e 30 de cocaína fls.15/16 ..  Sobretudo em se considerando que o autuado é reincidente por crimecontra o patrimônio, praticado com violência qual seja artigo 157§2º I e II c. C. Artigo 14 , II do CP (fls. 54/56), faz uso de cocaína, maconha e bebidas alcoólicas, trabalha eventualmente e já esteve internando em clínica para dependentes químicos, aliadas a quantidade e a forma de acondicionamento do entorpecente apreendido, bem como as circunstâncias apuradas bemindicam a prática da mercância ilícita, o que deve ser duramente combatido. De se esclarecer queo autuado declarou-se desempregado, que faz bicos eventuais como ajudante, tudo levando a crerque voltará ao serviço do tráfico, até mesmo porque é de conhecimento público e notório queeste crime enseja habitualidade, em especial diante do pronto e rápido retorno financeiro. Justificável, assim, a custódia cautelar para garantia da ordem pública.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente motivada na garantia da ordem pública, haja vista a reiterada conduta delitiva do paciente, pois ele registra condenação pelo delito de roubo qualificado e foi surpreendido novamente comercializando entorpecentes - 50 porções de maconha (192g) e 30 porções de cocaína (134g), juntamente com um adolescente.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+Como se vê, a decisão agravada não conheceu do habeas corpus, consignando que a custódia provisória está motivada na garantia da ordem pública, dada a reiterada conduta delitiva do agente. Destacou que esta Corte, inclusive, possui entendimento reiterado de que é inviável a substituição da prisão preventiva por medidas cautelares diversas, quando a habitualidade delitiva do agente indica que a ordem pública não estaria acautelada com a sua soltura.
+Desse modo, caberia ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada, o que não foi feito. Logo, incide, no caso, a Súmula 182 do STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É ônus do agravante impugnar os fundamentos da decisão agravada, sob pena de incidência da Súmula n. 182 do STJ.
+2. O agravo regimental possui razões de pedir dissociadas do ato judicial combatido e não fez oposição aos motivos que ensejaram o indeferimento liminar do habeas corpus.
+ ..
+4. Agravo regimental não conhecido." (AgRg no HC 525.324/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019).
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS. RECORRENTE DEFINITIVAMENTE CONDENADO. PLEITO DE PRISÃO DOMICILIAR HUMANITÁRIA. REQUISITOS. EXTREMA DEBILIDADE. IMPOSSIBILIDADE DE REALIZAÇÃO DO TRATAMENTO NA UNIDADE PRISIONAL. NÃO VERIFICADOS. AUSÊNCIA DE ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+ ..
+III - A Defesa limitou-se a repisar os argumentos suscitados no habeas corpus, o que atrai a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental não conhecido." (AgRg no RHC 110.539/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DECISÃO QUE INDEFERIU LIMINARMENTE A PETIÇÃO INICIAL. APLICAÇÃO DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. RECURSO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO NA ORIGEM. PREJUDICIALIDADE DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não merece conhecimento o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Aplicação da Súmula n. 182 do STJ.
+2. Com a superveniência do julgamento colegiado do mérito do writ na origem, fica prejudicada a impetração contra a anterior decisão do Desembargador Relator que indeferiu pedido liminar.
+3. Agravo regimental não conhecido." (AgRg no HC 472.047/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 26/02/2019).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
