@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MINERAÇÃO MONEGO LTDA. contra decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial (fls. 385-386).
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 254-255):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS DECLARADO EM ATRASO. NULIDADE DA CDA NÃO VERIFICADA. PREENCHIMENTO DOS REQUISITOS LEGAIS. DÉBITO DECLARADO EM GIA. DESNECESSIDADE DE PROCESSO ADMINISTRATIVO E DE NOTIFICAÇÃO DO CONTRIBUINTE. AUSÊNCIA DE DISCRIMINAÇÃO DA FORMA DE CÁLCULO DOS JUROS E MULTA. IRRELEVÂNCIA.
+- Regularidade da CDA que contém de modo claro os requisitos legais previstos nos arts. 201 e 202 do Código Tributário Nacional, inexistindo prejuízo ao exercício da ampla defesa e contraditório pelo contribuinte (pas de nullité sans grief).
+- A entrega de Guia de Informação e Apuração do ICMS - GIA é modo de constituição do crédito tributário, dispensando a Fazenda Pública de qualquer outra providência conducente à formalização do valor declarado (REsp 962.379/RS, submetido ao rito do artigo 543-C do CPC). No mesmo sentido, a súmula 436 do STJ.
+- Não obstante os respeitáveis entendimentos no sentido proposto pelo recorrente, o entendimento pacífico no Superior Tribunal de Justiça e amplamente predominante neste Tribunal é no sentido de que a menção aos dispositivos legais é suficiente para o preenchimento dos requisitos previstos na legislação, não sendo necessário que o título discrimine a "forma" de cálculo, como proposto pela recorrente.
+- Por último, verifica-se que o tributo cobrado é oriundo das transações comerciais realizadas pela parte apelante e por ela informadas ao fisco, não se tratando de ICMS incidente sobre transmissão e distribuição de energia elétrica, cobrados diretamente na fatura de consumo. Precedentes. APELO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, a parte recorrente alega que o acórdão negou vigência aos arts. 113, 114, 142, 149, 150, 201, 202, inciso II, e 203 do Código Tributário Nacional, bem como ao art. 2º, § 5º, da Lei de Execuções Fiscais.
+O agravo interposto contra decisão que inadmitiu o recurso especial não foi conhecido com fundamento no óbice da Súmula n. 182/STJ.
+É contra essa decisão que se insurge a parte agravante. Em resumo, alega que realizou a contraposição aos motivos que levaram à inadmissão do recurso especial.
+Aduz, ainda, que "fora feito pela Agravante tópicos específicos em seu Agravo em Recurso Especial para infirmar os argumentos utilizados pela Vice-Presidência do TJRS, que sustentava que as súmulas 7/STJ e 83/STJ (fl. 390)".
+Sustenta, outrossim, que (fl. 392):
+ ..  os argumentos foram específica e detalhadamente impugnados! Não há que se dizer que não houve, portanto, impugnação, bastando a simples leitura para comprovar o alegado. Enfim, é inverídico o argumento de que a Recorrente não impugnou, especificamente, o fundamento de inadmissão recursal. Tudo isso foi devidamente esmiuçado no Agravo interposto, bastando a minudente leitura do mesmo, NOS TÓPICOS "3.1"e "3.2", para constatar o equívoco em que laborou a presente decisão monocrática.
+Por fim, houve nítida omissão deste MM. juízo quanto à necessidade de sobrestamento do presente feito ante o fato do mesmo versar sobre questão atinente ao TEMA STJ Nº 986
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 398-403).
+É, no essencial, o relatório.
+VOTO
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não obstante os esforços expendidos pelo recorrente, sua irresignação não merece provimento, devendo a decisão agravada ser mantida.
+Não é possível afastar o óbice do enunciado 182 da Súmula desta Corte.
+Conforme consignado na decisão monocrática, observa-se, da análise dos autos, que a decisão agravada negou a subida do recurso especial, com base nos seguintes fundamentos: enunciado da Súmula n. 83/STJ e da Súmula n. 7/STJ.
+A parte agravante, entretanto, não rebateu nenhum dos fundamentos da decisão denegatória de processamento de recurso especial.
+No caso dos autos, não houve impugnação adequada e precisa de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu os fundamentos da inadmissão, limitando-se a sustentar que ambos os óbices foram objeto de impugnação contando com tópicos específicos no agravo em que foram infirmados os argumentos para inadmissão do recurso especial.
+Em relação ao pedido de suspensão do processo, ressalto que o STJ tem entendido que é desnecessário o sobrestamento dos recursos que não ultrapassam o juízo de admissibilidade, na medida em que não há discussão de mérito. Nesse sentido, cito: AgInt no AREsp n. 1.746.550/PE, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 19/4/2021, DJe de 23/4/2021; AgInt no AREsp n. 1.102.468/PR, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 19/9/2017, DJe de 2/10/2017; AgRg no REsp n. 1.076.239/SP, Primeira Turma, relator o Ministro Benedito Gonçalves, DJe de 18/3/2009.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, confiram-se estes precedentes: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência do enunciado 182 da Súmula do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
