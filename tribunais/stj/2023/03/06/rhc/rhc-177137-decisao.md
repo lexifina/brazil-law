@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por João Batista Vitorino Albuquerque contra acórdão do Tribunal de Justiça do Acre, assim ementado (fl. 644):
+PROCESSUAL PENAL. HABEAS CORPUS. ARGUMENTO DE INCOMPETÊNCIA DA JUSTIÇA COMUM. ARGUMENTO DA PRÁTICA DE CRIME ELEITORAL. PRECEDENTES DA CORTE EM CASOS CONEXOS. VIA INADEQUADA. CONSTRANGIMENTO ILEGAL INEXISTENTE. DENEGAÇÃO DA ORDEM.
+1. A discussão sobre a competência ou não do Juízo comum para processar e julgar o feito deve ser afastada nesta sede, vez que é via inadequada para tanto;
+2. O exame feito na via estreita do Habeas Corpus não permite afirmar que os fatos imputados ao paciente tipificam crime eleitoral, já que a própria justiça especializada declinou da sua competência;
+3. Precedentes já existentes dessa Corte em Writs advindos de casos conexos;
+4. Habeas Corpus denegado.
+Narram os autos que, em razão de investigação realizada pelos membros do Grupo de Atuação Especial de Combate ao Crime Organizado - GAECO do Estado do Acre (PIC n. 06.2015.00000563-1.7), denominada Operação Midas, destinada a desvendar uma organização criminosa articulada para a prática de desvios de recursos públicos da Empresa Municipal de Urbanização de Rio Branco - EMURB, terminando por coletar indícios da prática de crimes licitatórios relacionados a contratos de locação (fornecimento de insumos, especialmente madeira, cimento e combustíveis), mediante a realização de despesas por meio de notas fiscais fictícias e pagamentos efetuados pela EMURB sem a correspondente prestação.
+Por conseguinte, o Ministério Público estadual denunciou o recorrente como incurso nos crimes de participação em organização criminosa, dispensa indevida de licitação e lavagem de dinheiro, perante o Juízo de Direito da 4ª Vara Criminal da comarca de Rio Branco/AC (fls. 113/167 - Ação Penal n. 07114025-38.2021.8.01.0001).
+Ao argumento de incompetência da Justiça Comum estadual para processar e julgar a ação penal, o recorrente impetrou habeas corpus na colenda Corte de origem, que denegou a ordem (Habeas Corpus n. 1001012-62.2022.8.01.0000).
+Aqui, o recorrente alega constrangimento ilegal na manutenção da ação penal contra ele, perante Juízo absolutamente incompetente, uma vez que todos os indícios e provas apontam que o "esquema" orquestrado pelo EX-PREFEITO MARCUS ALEXANDRE utilizou dos recursos da EMURB para financiar a campanha de 2014, para custeio de comitê, compra de voto dentre outros. Inclusive, no Habeas Corpus 1000934-68.2022.8.01.0000, que tem como Recorrente o próprio Ex-Prefeito Marcus Alexandre e trata sobre os mesmos fatos e que também envolve o Recorrente é demonstrado a relação eleitoral de financiamento (fl. 1.035), além do que não é necessário que haja expressamente a imputação de crime eleitora l para que o processo seja remetido à para Justiça Eleitoral , devendo apenas existir indícios e/ou contexto eleitoral no caso (fl. 1.038).
+Postula, então, o deferimento de medida liminar para que seja suspensa a ação penal, até o julgamento do mérito do recurso ordinário. No mérito, requer seja declarada a incompetência absoluta da Justiça Comum, aplicando-se os consectários legais.
+É o relatório.
+O presente recurso não comporta seguimento.
+Conforme já tive oportunidade de me manifestar, em outro feito relacionado à Operação Midas, já existe decisão da Justiça Eleitoral a respeito de sua incompetência para processar e julgar os fatos em apuração na ação penal em questão (fl. 597):
+ ..
+Assim, informo que já houve declínio da competência da Justiça Eleitoral, ao qual anuiu este Juízo ao não suscitar conflito negativo de competência, sendo que, até o presente momento, não há evidência de vínculo das condutas atribuídas, em tese, ao paciente e demais réus, à prática de captação ilícita de voto.
+ ..
+Se a impetração se apega a elementos de convicção coletados no decorrer da ação penal, deve ser respeitado, por ora, o juízo do Magistrado singular a respeito dos fatos que sobrevieram a instrução, não cabendo ao Superior Tribunal, antes da sentença, intervir, até porque a análise demanda reexame de provas.
+Além disso, o Magistrado singular consignou que não há evidência de vínculo das condutas atribuídas, em tese, ao recorrente e demais réus, à prática de captação ilícita de voto (fl. 597), a reforçar que a conclusão inversa exige profunda análise de provas por esta Corte Superior de Justiça.
+Em face do exposto, nego seguimento ao recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA, DISPENSA INDEVIDA DE LICITAÇÃO E LAVAGEM DE DINHEIRO (OPERAÇÃO MIDAS). ALEGAÇÃO DE NULIDADE. INCOMPETÊNCIA ABSOLUTA. ALEGAÇÃO DE APURAÇÃO DE CRIMES CONEXOS COM DELITOS ELEITORAIS. EXISTÊNCIA DE DECISÃO DA JUSTIÇA ELEITORAL DECLINANDO DE SUA COMPETÊNCIA. PRETENSÃO DE RECONHECIMENTO DA CONEXÃO DE ACORDO COM A INSTRUÇÃO PROBATÓRIA DO JUÍZO DE CONHECIMENTO, QUE, INCLUSIVE, AFIRMA INEXISTIR VINCULAÇÃO DAS CONDUTAS ATRIBUÍDAS AOS ACUSADOS COM CRIMES ELEITORAIS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE NA VIA ELEITA.
+Recurso em habeas corpus a que se nega seguimento.
