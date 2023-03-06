@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Mara Regina Ramos Primo desafiando decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa ao art. 1.022, II e III, do CPC; e (II) a alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+A parte agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional e à desnecessidade de reexame de provas dos autos, sob a alegação de que, "no caso concreto, se o Tribunal recorrido enfrentou, de maneira adequada, a tese ventilada em sede de Embargos de Declaração no recurso de apelação, no sentido de que houve, por parte do juízo de 1º grau, uma inversão do ônus probatório decorrente da aplicação da teoria da carga dinâmica pelo juízo, em razão da determinação da apresentação nos autos dos documentos comprobatórios da natureza do vínculo de Jacob Primo, por ocasião de seu falecimento em 18/02/1970, requerendo especialmente a apresentação da íntegra do processo 50770.002352/1995-82 (processo físico). Não se trata de reanálise das provas do caso concreto, e sim de simples exame acerca do enfrentamento, ou não, da tese ventilada pela recorrente em sede de Embargos de Declaração." (fl. 477)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022, I E II, DO CPC. NÃO OCORRÊNCIA. PENSÃO POR MORTE. AUSÊNCIA DE COMPROVAÇÃO DE VÍNCULO ESTATUTÁRIO . REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na referida decisão, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional." (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Ademais, colheu-se do acórdão o seguinte trecho, in verbis (fl. 314):
+(..) não há nos autos comprovação de que o "de cujus" possuía vínculo estatutário com a União Federal e esta Turma Especializada já firmou o entendimento de que os atos administrativos têm presunção de legitimidade relativa (juris tantum), isto é, pode ser ela desconstituída por prova contrária.
+Em tal hipótese, consagra o art. 373, I, do CPC, que o ônus da prova incumbe ao autor, quanto ao fato constitutivo de seu direito, o que não ocorreu no caso concreto. Precedente: TRF2, 5ª Turma Especializada, AC 5096053- 22.2019.4.02.5101, Rel. Des. Fed. ALUISIO GONÇALVES DE CASTRO MENDES, julgado em 8.9.2020.
+A União no evento 50/ANEXO8 informa que na Carteira de Trabalho do senhor Jacob Primo, consta que o referido era oriundo da Administração do Porto do Rio de Janeiro - APRJ, admitido em 01/03/1968, no cargo de Manobreiro, com contrato de trabalho Celetista.
+De fato, a União não trouxe aos autos a integralidade do processo administrativo, mas a apelante não trouxe nenhum documento que desconstituísse a veracidade da informação prestada pela Administração, como por exemplo a Carteira de Trabalho do seu genitor ou o comprovante de recebimento de pensão da sua genitora.
+Dessa forma, diante da ausência de comprovação da condição de servidor estatutário deixo de analisar os outros requisitos para a concessão do benefício previdenciário.
+Em conclusão, verifico que a controvérsia foi corretamente solucionada pelo juiz de primeiro grau, devendo a sentença ser mantida pelos seus próprios fundamentos.
+Nesse contexto, está correto o decisum ao observar que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
