@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+EDSON PALMIERI DE MENDONÇA (EDSON) promoveu ação de repetição de indébito contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL), pleiteando a exclusão dos aumentos nas mensalidades do período de dezembro de 2015 a dezembro de 2018, decorrentes de reajustes anuais em razão de sinistralidade e reequilíbrio econômico-financeiro do contrato, sob alegação de abusividade.
+Narram os autos que emendada à inicial, EDSON requereu a restituição dos valores pagos a maior dos últimos 3 (três) anos.
+Em primeira instância, o pedido foi julgado procedente para condenar AMIL à devolução simples dos valores de mensalidades pagos a maior no triênio anterior à data da propositura da ação. Na ocasião, AMIL foi condenada ao pagamento das custas e despesas processuais e dos honorários advocatícios fixados em 10% do valor da condenação.
+A apelação interposta pela AMIL não foi provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. JOSÉ APARÍCIO COELHO PRADO NETO, assim ementado:
+APELAÇÃO - Ação de Repetição de Indébito - Plano de Saúde Alegação de abusividade dos reajustes anuais promovidos pela ré, devendo ser aplicado o reajuste pelo índice da ANS, com repetição do indébito - Sentença de procedência - Inconformismo da ré Alegação de que inexiste qualquer ilegalidade nos reajustes, uma vez que, além da expressa previsão no contrato celebrado entre as partes, não se submetem ao reajuste previsto pela ANS - Caso em que a ré não se desincumbiu do ônus de comprovar o aumento da sinistralidade a justificar o índice aplicado, ou existência de outro fato novo que desse ensejo ao reajuste no patamar aplicado - Repetição do indébito devida - Recurso desprovido (e-STJ, fl. 235).
+Os embargos de declaração opostos pela AMIL foram rejeitados.
+Inconformada, AMIL manejou recurso especial, com amparo no art. 105, III, alínea a, da CF, alegando violação dos arts. 35, § 2º, da Lei nº 9.656/1998; 478 do CC/2002 e 1.022 do NCPC. Sustentou que (1) o aresto recorrido foi omisso; (2) não existe, nos planos coletivos, necessidade de prévia aprovação da ANS para reajustes baseados na sinistralidade; (3) o reajuste é aplicado de acordo com o cálculo atuarial da empresa; (4) no bojo de um contrato coletivo não é possível obter a proteção conferida aos planos individuais; e (5) o reajuste se operou nos termos das cláusulas contratuais.
+O apelo nobre interposto pela AMIL não foi admitido em virtude da (1) ausência de afronta a dispositivo legal; (2) ausência de ofensa ao art. 1.022 do NCPC; e (3) incidência da Súmula n.º 7 do STJ.
+Seguiu-se o agravo em recurso especial que, por decisão monocrática da relatoria da Ministra Presidente do STJ, dele não conheceu, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, AMIL alegou que (1) foram violados os arts. 35, § 2º, da Lei nº 9.656/1998; 478 do CC/2002 e 1.022 do NCPC; (2) não incide a Súmula nº 182 do STJ; e (3) não são cabíveis as multas impostas com fulcro nos arts. 1.021, § 4º, e 1.026, § 2º, do NCPC por não se tratar de recurso protelatório, inadmissível ou improcedente.
+Não houve impugnação ao recurso (e-STJ, fl. 606).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. NÃO SE CONHECEU DO AGRAVO.
+1. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a incidência da Súmula n.º 7 do STJ, que levou ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula n.º 182 do STJ.
+2. Não se conheceu do agravo interno.
+VOTO
+O recurso não merece conhecimento.
+Incide ao caso a Súmula n.º 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a aplicação da Súmula n.º 7 do STJ.
+Isso porque, nas razões do presente agravo interno, AMIL limitou-se a alegar que (1) foram violados os arts. 35, § 2º, da Lei nº 9.656/1998; 478 do CC/2002 e 1.022 do NCPC; (2) não incide a Súmula nº 182 do STJ; e (3) não são cabíveis as multas impostas com fulcro nos arts. 1.021, § 4º e 1.026, § 2º, do NCPC por não se tratar de recurso protelatório, inadmissível ou improcedente.
+Na hipótese, AMIL olvidou-se de infirmar o óbice apontado, tendo apenas afirmado que houve ofensa a dispositivos de lei federal, o que acarreta a aplicação da Súmula n.º 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n.º 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 )
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula n.º 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Assim, porque os argumentos que AMIL trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula n.º 182 desta Corte.
+Nessas condições, NÃO CONHEÇO do agravo interno.
+É o voto.
