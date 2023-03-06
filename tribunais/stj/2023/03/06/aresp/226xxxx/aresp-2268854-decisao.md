@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por REINALDO PINHEIRO FARIA JUNIOR contra decisão que não admitiu recurso especial, fundamentado na alínea a do permissivo constitucional, que desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ fl. 67):
+DIREITO PENAL E PROCESSO PENAL. AGRAVO EM EXECUÇÃO. DECISÃO QUE DEFERIU PEDIDO DE RETIFICAÇÃO DE FRAÇÃO PARA FINS DE PROGRESSÃO DE REGIME E AFASTAMENTO DA NATUREZA HEDIONDA EQUIPARADA DO TRÁFICO DE DROGAS. INSURGÊNCIA MINISTERIAL. ACOLHIMENTO. TRÁFICO DE DROGAS É EQUIPARADO AO CRIME HEDIONDO. ART. 5º, XLIII, DA CONSTITUIÇÃO FEDERAL. § 5º, DO ART. 112 DA LEP. TRATAMENTOS SIMÉTRICOS AO TRÁFICO DE DROGAS E CRIMES HEDIONDOS. REVOGAÇÃO DO § 2º, DO ART. 2º DA LEI DE CRIMES HEDIONDOS QUE NÃO AFASTA A NATUREZA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL. RECURSO CONHECIDO E PROVIDO.
+O Juízo da execução deferiu o pleito de adoção da fração para progressão de regime dos crimes comuns para o delito de tráfico de drogas.
+O Tribunal de origem deu provimento ao agravo em execução do Ministério Público para reconhecer o caráter equiparado a hediondo do crime de tráfico de drogas (e-STJ fls. 67/75).
+Nas razões do recurso especial alega: a) violação do art. 112 da Lei de Execução Penal; e b) "não existe mais qualquer dispositivo legal que preveja que o tráfico ilícito de entorpecentes terá um parâmetro específico e mais rígido que os crimes comuns para a progressão de regime" (e-STJ fl. 93); c) o art. 5º, XLIII, da Constituição Federal "é cristalino a mencionar tão somente que o tráfico de drogas é insuscetível de graça, indulto e anistia, nada além disso" (e-STJ fl. 93); e d) "não deve prevalecer a tese defendida pelo Tribunal de Justiça, pois, caso assim fosse, seria admitir a interpretação em desfavor do réu, violando obviamente os princípios da legalidade, taxatividade e do in dubio pro reo" (e-STJ fl. 93).
+Contrarrazões apresentadas às e-STJ fls. 107/116.
+O Tribunal a quo inadmitiu o apelo extremo por incidência das Súmulas 83 e 126/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 133/140).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 175/178).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever o seguinte trecho do acórdão impugnado (e-STJ fl. 73):
+Da mesma forma, chega-se na mesma conclusão ao analisar o § 5º, do art. 112 da Lei nº 7.210/84, em que dispõe que a modalidade de tráfico de drogas privilegiado não possui natureza hedionda: "Não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no §4º do art. 33 da Lei nº 11.343, de 23 de . agosto de 2006".
+Ora, se o dispositivo dispõe a hipótese de exceção - tráfico de drogas privilegiado - a regra seria, portanto, a natureza equiparada à hedionda em relação às outras modalidades do delito.
+Nesse rumo, a doutrina pátria é assídua em demonstrar a natureza equiparada à hedionda ao tráfico de drogas, senão vejamos:
+(..).
+Dessa forma, ainda que revogada a redação do § 2º, do art. 2º da Lei de Crimes Hediondos, a equiparação do tráfico de drogas ao hediondo se mostra demonstrada.
+O entendimento adotado pela Corte estadual quanto à hediondez do crime de tráfico de drogas encontra amparo na jurisprudência do Superior Tribunal de Justiça, conforme demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. HEDIONDEZ EQUIPARADA. AGRAVO IMPROVIDO.
+1. A Lei n. 13.964/2019 não retirou o caráter de equiparado a hediondo do crime de tráfico de drogas. O caráter hediondo somente é retirado quando incide a figura do tráfico privilegiado, o que não é o caso dos autos, conforme já decidido pelo Supremo Tribunal Federal no HC n. 118.533/MS.
+2. Dir-se-á que a previsão do § 5º, do art. 112, da Lei n. 7.210/1984 (LEP), de que "Não se considera hediondo ou equiparado, para fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343, de 23 de agosto de 2006", antessupõe norma legal que arrole o tráfico de drogas como crime hediondo ou equiparado, premissa que tem sustentabilidade um tanto vulnerável depois que a Lei n. 13.964, de 24/12/2019, revogou o § 2º, do art. 2º, da Lei n. 8.092/1990, mas, de toda forma, essa é a jurisprudência estabilizada do STJ.
+3. Agravo regimental improvido.
+(AgRg no HC 772.776/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. HEDIONDEZ EQUIPARADA.
+1. A Lei n. 13.964/2019 não retirou o caráter de equiparado a hediondo do crime de tráfico de drogas. O caráter hediondo somente é retirado, nos termos do § 5º do art. 112 da Lei 7.210/1984, quando incide a figura do tráfico privilegiado, o que não é o caso dos autos, conforme já decidido pelo Supremo Tribunal Federal no HC 118.533/MS.
+2. Dir-se-á que a previsão do § 5º do art. 112 da Lei 7.210/1984 (LEP), de que "Não se considera hediondo ou equiparado, para fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343, de 23 de agosto de 2006.", antessupõe norma legal que arrole o tráfico de drogas como crime hediondo ou equiparado, premissa que tem sustentatibilidade um tanto vulnerável depois que a Lei nº 13.964, de 24/12/2019, revogou o § 2º do art. 2º da Lei 8.092/1990. Mas, de toda forma, essa é a jurisprudência estabilizada do do STJ.
+3. Agravo regimental improvido.
+(AgRg no HC 750.428/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+Incide, no ponto, a Súmula 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Conheço do agravo para conhecer do recurso especial e negar-lhe provimento, nos termos do art. 253, parágrafo único, II, b, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
