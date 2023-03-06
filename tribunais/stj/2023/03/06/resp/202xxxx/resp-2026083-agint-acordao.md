@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+MARIA DIVINA LOBO EILERS (MARIA) ajuizou ação de obrigação de fazer cumulada com pedido de indenização por danos morais contra GEAP AUTOGESTÃO EM SAÚDE (GEAP) pretendendo a cobertura de tratamento médico-hospitalar.
+Em primeira instância, os pedidos foram julgados improcedentes, com a condenação da autora ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 15% sobre o valor da causa, observados os termos do art. 98, § 3º, do NCPC.
+A apelação interposta por MARIA foi parcialmente provida pelo Tribunal de Justiça de Mato Grosso do Sul nos termos do acórdão assim ementado:
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA DE URGÊNCIA. PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - AFASTADA. CONTRATO DE PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO QUIMIOTERÁPICO - OBRIGATORIEDADE. DANO MORAL INDEVIDO - MERA DIVERGÊNCIA CONTRATUAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. Havendo impugnação específica quanto aos fundamentos contidos na sentença, a exposição de fato e de direito, as razões do pedido de reforma e pedido de nova decisão, deve ser afastada a alegada ofensa ao princípio da dialeticidade. A Lei 9.656/98 prevê a obrigação de plano de saúde para tratamentos antineoplásicos, MESMO AQUELES DE USO ORAL. As operadoras de planos de saúde podem estabelecer as doenças às quais será oferecida cobertura, mas não pode escolher o tipo de tratamento a ser utilizado. A jurisprudência no Superior Tribunal de Justiça é no sentido de que, em se tratando de responsabilidade contratual, apenas a recusa injustificada é capaz de ensejar a condenação por dano moral (e-STJ, fl. 324).
+Inconformada, GEAP manejou recurso especial, com base no art. 105, III, a e c, da CF alegando, além do dissídio jurisprudencial, a violação dos arts. 12 e 10, § 4º, da Lei n. 9.656/98, 4º, III e XXXVII, da Lei nº 9.961/00; 186, 187, 188, 927, 944, 421 e 422 do CC/02, ao sustentar que (1) a amplitude das coberturas é definida pela ANS, e a observância da Lei nº 9.656/98 e do contrato celebrado entre as partes é obrigatória. Aduz que o rol da ANS é taxativo; (2) inexiste ato ilícito que configure hipótese da responsabilidade civil; e (3) o quantum indenizatório fixado é excessivo.
+As contrarrazões foram apresentadas (e-STJ, fls. 393/408).
+O apelo nobre foi admitido pelo TJMS (e-STJ, fls. 492/493) e, no âmbito do STJ, foi conhecido e não provido em decisão monocrática de minha lavra nestes termos ementada:
+RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO QUIMIOTERÁRIPICO. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. DANO MORAL E QUANTUM INDENIZATÓRIO. INTERESSE RECURSAL. AUSÊNCIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO. (e-STJ, fl. 501)
+Nas razões do presente agravo interno, GEAP sustentou que é lícita a recusa de cobertura de medicamento que não consta no rol da ANS.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PEDIDO DE CUSTEIO DE MEDICAMENTO. RECUSA DE COBERTURA. TRATAMENTO DE CÂNCER. DEVER DE COBERTURA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente agravo interno, GEAP sustentou que é lícita a recusa de cobertura de medicamento que não consta no rol da ANS.
+Como constou na decisão agravada, a despeito do entendimento da Quarta Turma em sentido contrário, a Terceira Turma mantém a orientação firmada há muito nesta Corte de que a natureza do rol de procedimentos e eventos em saúde da ANS é meramente exemplificativa.
+É de se ressaltar também que, nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1.Nos termos da jurisprudência deste Corte,a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa.
+Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à existência de ofensa a direitos da personalidade em razão do ilícito em questão, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.909.215/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022 - sem destaque no original)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ILEGALIDADE. MEDICAMENTO ANTINEOPLÁSICO ORAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Seria necessário o reexame dos fatos e das provas dos autos para alterar o entendimento do Tribunal de origem quanto à doença que atinge a paciente (câncer de ovário) e à necessidade do medicamento postulado para seu tratamento.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.890.823/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NEGATIVA DE COBERTURA DE MEDICAMENTO. TRATAMENTO DE CÂNCER. ADENOCARCINOMA DE PULMÃO. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+3. No caso, trata-se de fornecimento de medicamento para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, causando abalo emocional no segurado, como ocorrido no presente caso, a orientação desta Corte admite a caracterização de dano moral, não se tratando de mero aborrecimento. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.905/DF, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/11/2021, DJe de 3/12/2021 - sem destaque no original)
+A ess e respeito, o TJMS consignou o seguinte:
+Em que pese o argumento apresentado pela apelada, de que o fornecimento do medicamento está expressamente excluído da cobertura do plano de saúde, a Lei 9.656/98 prevê a obrigação de plano de saúde para tratamentos antineoplásicos, MESMO AQUELES DE USO ORAL.
+ ..
+No Superior Tribunal de Justiça, o entendimento é no sentido de que não cabe ao operador do plano de saúde a escolha quanto ao tratamento a ser ministrado ao paciente, mas sim ao médico que lhe acompanha.
+ ..
+Portanto, considerando que a requerente é beneficiária do plano de saúde e que é obrigatório o fornecimento de medicamentos antineoplásicos de uso oral, indevida a negativa de fornecimento do medicamento pela requerida, razão pela qual, nesse ponto, impõe-se reformada a sentença (e-STJ, fls. 331/335).
+Assim, porque os fundamentos adotados pelo acórdão estadual estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
