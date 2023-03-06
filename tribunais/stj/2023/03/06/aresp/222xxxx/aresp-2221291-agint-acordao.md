@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+FLÁVIA CUPOLILLO YAMAGATA (FLÁVIA) propôs ação regressiva decorrente de responsabilidade objetiva contra TYRONE GOMES (TYRONE), julgada procedente para condenar o réu ao pagamento dos valores despendidos com a recompra do imóvel, quais sejam, R$ 247.517,98 (duzentos e quarenta e sete mil, quinhentos e dezessete reais e noventa e oito centavos), com juros de mora de 1% ao mês e correção monetária ambos da data do desembolso, 20/4/2018; bem como ao ressarcimento dos valores pagos com a perícia judicial naqueles autos, R$ 2.769,40 (dois mil setecentos e sessenta e nove reais e quarenta centavos), com juros de mora de 1% ao mês e correção monetária, ambos a partir do desembolso, 7/11/2012, além de despesas processuais e honorários de sucumbência arbitrados em 10% do valor da condenação (e-STJ, fls. 283/286).
+O Tribunal de Justiça do Rio de Janeiro negou provimento ao apelo de TYRONE em acórdão da relatoria do Des. Camilo Ribeiro Ruli re assim ementado:
+Apelação Cível. Ação Regressiva por Responsabilidade de Tabelião. Atos notariais declarados nulos. Procuração e Escritura de Compra e Venda de imóvel. Sentença de procedência dos pedidos. Recurso do réu.
+Preliminares. Alegação de incompetência absoluta do Juízo. Rejeição. Competência territorial com base na alínea "f" do inciso III do artigo 53 do Código de Processo Civil que é relativa. Incompetência que não foi alegada em preliminar de contestação, incidindo o artigo 65 do Diploma Processual, que determina a prorrogação da competência. Matéria que só foi suscitada em embargos de declaração alvejando a Sentença.
+Alegação de que o julgado deve ser anulado por não ter sido deferida a inclusão de terceiros, elencados na contestação, que não merece ser conhecida. Juízo a quo que indeferiu o pedido ("1-Indefiro a inclusão de Marcelo e Emilton no polo passivo requerida na contestação por falta de amparo legal, nos termos dos artigos 125 e 130 do CPC.."), não tendo sido impugnada a decisão pelo recorrente através de recurso próprio. Artigo 1.015, incisos VII e IX do Código de Processo Civil. Preclusão temporal. Artigo 507 do referido Diploma.
+Ilegitimidade passiva. Rejeição. Demanda declaratória nº 0054318-10.2009.819.0002 que reconheceu a responsabilidade do tabelião apelante em relação aos atos realizados pelo Cartório que é titular, não podendo, agora, alegar ilegitimidade passiva pelos danos que advieram. Lide secundária da ação anulatória que o condenou a ressarcir a apelada, denunciante naquela demanda, nos ônus sucumbenciais.
+Atos nulos que foram praticados em2007, ou seja, quando ainda em vigor a redação original do artigo 22 da Lei 8.935/94, sendo a responsabilidade do de legatário objetiva. Precedente da Corte Superior e deste Tribunal.
+Prescrição trienal suscitada que deve ser afastada. Teoria da actio nata. Termo inicial do prazo prescricional que não pode ser a prática dos atos nulos, ocorrida em 2007, ou a propositura da ação de nulidade, em 2009, mas sim a ciência da autora/recorrida que foi condenada a ressarcir a proprietária originária do imóvel, que ocorreu com o trânsito em julgado da sentença conjunta dos feitos 0054318-10.2009.819.0002 e 0009322-19.2012.8.19.0002,em 06/08/2018.
+Comprovado o dano sofrido pela autora/apelada, com o valor dispendido pela recompra do imóvel, em virtude de atos de sua responsabilidade, lavratura de procuração e Escritura de Compra e Venda nulas, deve o recorrente ser condenado a ressarci-lo. Manutenção da sentença. Majoração dos honorários (artigo 85, parágrafo 11 do Código de Processo. Desprovimento da Apelação (e-STJ, fls. 448/450).
+Os embargos de declaração opostos por TYRONE foram rejeitados (e-STJ, fls. 526/538).
+Irresignado, TYRONE manejou recurso especial com fulcro no art. 105, III, a, da CF, sustentando a violação do art. 64, § 1º, do CPC, sob o argumento de que a competência dos fóruns regionais seria absoluta, podendo a matéria ser alegada a qualquer tempo, inclusive de ofício (e-STJ, fls. 558/593).
+O recurso não foi admitido por (a) incidência da Súmula n.º 83 do STJ (e-STJ, fls. 615/620).
+Por decisão monocrática, o em. Ministro Presidente desta Corte não conheceu do agravo que sobreveio, por ausência de impugnação específica ao óbice da Súmula n.º 83 do STJ (e-STJ, fls. 681/683).
+No presente agravo interno, TYRONE afirmou que, ao contrário do que consignado, as razões do agravo em recurso especial teriam impugnado adequadamente a incidência da Súmula n.º 83 do STJ, indicada na origem para obstar o seguimento do apelo nobre (e-STJ, fls. 686/694).
+A impugnação foi apresentada (e-STJ, fls. 699/703).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna um dos fundamentos da respectiva inadmissibilidade (incidência da Súmula n.º 83 do STJ ).
+2. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra os fundamentos da decisão que negou seguimento ao apelo nobre, pois TYRONE, na ocasião, não refutou, de forma arrazoada, o óbice da incidência da Súmula n.º 83 do STJ.
+Ressalte-se que, na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula n.º 83 do STJ, deve o agravante refutar o citado óbice mediante a clara demonstração de que o acórdão recorrido não decidiu de acordo com a jurisprudência do STJ ou que o entendimento citado na decisão agravada não trata de entendimento dominante nesta Corte, o que não se observa no caso concreto.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020 - sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA.JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+3. Não pode ser conhecido o agravo em recurso especial que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no artigo 932, inciso III, do CPC/2015.4. Agravo interno não provido.
+(AgInt no AREsp 1.578.985/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/3/2020, DJe 26/3/2020 - sem destaque no original)
+Assim, como TYRONE não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, já que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
