@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência da Súmula 284/STF.
+Inconformada, sustenta a parte agravante que "a decisão que não conheceu o Recurso Especial restou equivocada ao considerar não indicado na hipótese o que consistia a suposta ofensa, quando o próprio texto do recurso, em sua interpretação lógica evidencia tratar de omissão e conseqüente debate quanto a negativa de jurisdição pela Corte "a quo". de forma que se deve afastar o formalismo exacerbado na aplicação da regra processual que acaba por fulminar o direito ao qual deve servir ã norma processual como instrumento de sua efetivação".
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+A fls.161/165e, o agravante pugna pelo "sobrestamento dos recursos pendentes que tratem da mesma matéria, nos termos do art. 1.036 do CPC, para aguardar o julgamento dos recursos especiais paradigmas".
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Agravo de Instrumento interposto contra decisão que, em ação indenizatória, em fase de cumprimento de sentença, indeferiu o requerimento formulado pelo Autor para que fosse incluído no polo passivo da demanda o Município do Rio de Janeiro, sustentando o Agravante a ausência de êxito na realização de penhora eletrônica, assim como na constrição de bens da Executada, uma vez que, na qualidade de Poder Concedente, responde subsidiariamente, na forma do art. 37, § 6º, da Constituição da República.
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 1.022 do CPC/2015, a parte agravante não evidencia qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgInt no AREsp 1.229.647/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/06/2018; AgInt no AREsp 1.173.123/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 29/06/2018.
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Agravo de Instrumento interposto contra decisão que, em ação indenizatória, em fase de cumprimento de sentença, indeferiu o requerimento formulado pelo Autor para que fosse incluído no polo passivo da demanda o Município do Rio de Janeiro, sustentando o Agravante a ausência de êxito na realização de penhora eletrônica, assim como na constrição de bens da Executada, uma vez que, na qualidade de Poder Concedente, responde subsidiariamente, na forma do art. 37, § 6º, da Constituição da República.
+O Tribunal de origem negou provimento ao recurso, consignando que "a questão já foi adredemente analisada quando do julgamento proferido em anterior Agravo de Instrumento, distribuído à esta Colenda Oitava Câmara Cível, sob o nº 0057632- 91.2014.8.19.0000, ao qual foi negado provimento".
+Opostos Embargos Declaratórios, restaram eles rejeitados.
+Sustenta a parte agravante, nas razões de seu Recurso Especial, que houve ofensa ao art. 1.022 do CPC/2015, alegando que "o recorrente, em seus Embargos de Declaração de fls. 47/49, demonstrou equívoco do v. acórdão recorrido ao negar provimento ao recurso sob o fundamento de que a questão já foi analisada quando do julgamento do agravo de instrumento n.º 00576-32-91.2014.8.19.0000, entretanto, o Tribunal manteve-se inerte".
+Sem razão, contudo.
+De início, nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso, quanto à alegação de negativa de prestação jurisdicional, feita sob a égide do CPC/2015, verifica-se que, apesar de apontar como violado o art. 1.022, a recorrente não evidencia qualquer dos vícios no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do STF.
+Nesse sentido: "O recurso especial que indica violação do art. 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia" (STJ, AgInt no REsp 1.675.361/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 17/10/2022).
+Confiram-se, ainda:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS E TAXAS EXTRA DE IMÓVEIS. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. AUSÊNCIA DE INDICAÇÃO CLARA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. VIOLAÇÃO DOS ARTS. 373 E 1.013, AMBOS DO NCPC. INDEFERIMENTO DE PROVA ORAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do NCPC se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula nº 284 do STF.
+(..)
+6. Agravo interno não provido, com imposição de multa" (STJ, AgInt no AREsp 1.229.647/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/06/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. NEXO CAUSAL. INDENIZAÇÃO POR DANOS MORAIS. VALOR. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+(..)
+5. Agravo interno não provido" (STJ, AgInt no AREsp 1.173.123/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 29/06/2018).
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Nesse contexto, considerando que o acórdão recorrido sequer debateu o mérito da controvérsia, não há falar em sobrestamento do feito, para aguardar julgamento de recurso repetitivo.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
