@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 228):
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE HONORÁRIOS DE SUCUMBÊNCIA. PENHORA DE SALÁRIO. ART. 833, § 2º, DO CPC/2015. CARÁTER ALIMENTAR. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+Posteriormente, ao julgar os embargos de declaração, a decisão integrativa restou assim ementada (fl. 244):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE HONORÁRIOS DE SUCUMBÊNCIA. PENHORA DE SALÁRIO. ART. 833, § 2º, DO CPC/2015. CARÁTER ALIMENTAR. TRIBUNAL DE ORIGEM DECIDIU PELA IMPOSSIBILIDADE DE PENHORA NO CASO CONCRETO. OMISSÃO VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
+Em suas razões, a parte agravante defende a possibilidade de relativização da impenhorabilidade prevista no 833, IV e § 2º, do CPC/2015, por esta própria Corte que, em outras situações, porquanto " ..  embora tenha sido registrado, como regra geral, a impenhorabilidade do salário para pagamento de honorários advocatícios, assinalou-se possível a penhora de parte do salário do devedor para quitação dos honorários quando não houver comprometimento da sua subsistência digna." (fl. 253).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE SALÁRIO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DA IMPENHORABILIDADE DE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A orientação jurisprudencial do Superior Tribunal de Justiça estabelece que o salário, o soldo ou remuneração são impenhoráveis, sendo que essa regra somente pode ser excepcionada em situações especiais, as quais não foram constatadas na hipótese concreta.
+3. Nesse contexto, ainda que se reconheça, em tese, a possibilidade de mitigação da regra de impenhorabilidade de vencimentos em situações absolutamente excepcionais, o exame concreto da excepcionalidade da medida na hipótese vertente, com vistas à alteração das conclusões apostas no acórdão recorrido, reclamaria o reexame dos elementos de convicção dos autos, providência vedada em recurso especial, nos termos da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Quanto à possibilidade de relativização da impenhorabilidade prevista no 833, IV e § 2º, do CPC/2015, o entendimento apresentado na decisão agravada, complementada pela decisão integrativa, foi no sentido de que, em regra, é incabível a penhora de valores recebidos a título de subsídios, soldos, salários, remunerações, proventos de aposentadoria e pensões, entre outras, quando se voltar:
+I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e
+II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto.
+Ainda assim, em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+Nesse aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DA VERBA SALARIAL. EXCEPCIONALIDADE. ART. 833, INCISO IV, DO CPC. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Nos termos da jurisprudência desta Corte, a exceção à impenhorabilidade das verbas salariais aplica-se apenas quando os rendimentos excederem 50 (cinquenta) salários mínimos. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.974.781/DF, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO- DOENÇA. VERBA REMUNERATÓRIA. IMPENHORABILIDADE, REGRA. EXCEÇÕES DISPOSTAS NO ART. 833, § 2º, DO CPC/15. PAGAMENTO DE VERBA NÃO ALIMENTAR. GANHOS DO EXECUTADO SUPERIORES A 50 SALÁRIOS MÍNIMOS.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. As exceções à regra da impenhorabilidade não podem ser interpretadas de forma tão ampla a ponto de afastarem qualquer diferença entre as verbas de natureza alimentar e aquelas que não possuem tal caráter.
+3. As dívidas comuns não podem gozar do mesmo status diferenciado da dívida alimentar a permitir a penhora indiscriminada das verbas remuneratórias, sob pena de se afastarem os ditames e a própria ratio legis do Código de Processo Civil (art. 833, IV, c/c o § 2º), sem que tenha havido a revogação do dispositivo de lei ou a declaração de sua inconstitucionalidade.
+4. Na hipótese, trata-se de execução de dívida não alimentar proposta por pessoa jurídica que almeja o recebimento de crédito referente à compra de mercadorias recebidas e não pagas pelo devedor, tendo o magistrado autorizado a penhora de 30% do benefício previdenciário (auxílio-doença) recebido pelo executado. Assim, pelas circunstâncias narradas, notadamente por se tratar de pessoa sabidamente doente, a constrição de qualquer percentual dos rendimentos do executado acabará comprometendo a sua subsistência e de sua família, violando o mínimo existencial e a dignidade humana do devedor.
+5. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1.407.062/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 08/04/2019)
+No presente feito, esta Corte, ao julgar o recurso integrativo, firmou que " ..  conforme se assevera na decisão, no caso concreto, o Tribunal de origem entendeu não existir situação excepcional a autorizar a mitigação da regra da impenhorabilidade. Alterar esse entendimento demandaria reexame de fatos e provas, vedado em recurso especial, por força da Súmula 7/STJ" (fl. 245).
+Por outro lado, verificar-se que o acórdão do tribunal de origem não apresentou qualquer situação que justificasse eventual alargamento das situações excepcionais de penhora de vencimentos para pagamento do débito principal, conforme se extrai dos trechos do aresto recorrido, a seguir transcritos:
+ ..
+Pois bem, verifica-se que os valores penhorados configuram-se como de natureza alimentar, ao passo que advém de constrição de sua remuneração.
+Desse modo, tenho como impenhorável a referida verba, por força do contido no art. 833, IV, do CPC/2015, por se tratar de verba de natureza alimentar.
+ ..
+Sobre a impenhorabilidade de verba de natureza alimentar, cito os julgados proferidos por esta Corte de Justiça:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - INOCORRÊNCIA DE ABANDONO DA CAUSA PELO EXEQUENTE - PRESCRIÇÃO DIRETA DE PARTE DOS CRÉDITOS CARACTERIZADA - PENHORA SOBRE VERBA DE NATUREZA SALARIAL - CARÁTER ALIMENTAR - IMPENHORABILIDADE - RECURSO PARCIALMENTE PROVIDO.
+(TJPR - 3ª C.Cível - AI - 1719174-9 - Região Metropolitana de Maringá - Foro Central de Maringá - Rel.: Desembargador Marcos S. Galliano Daros - Unânime - J. 04.09.2018).
+I - AGRAVO DE INSTRUMENTO. PENHORA ON-LINE. BLOQUEIO DE VALORES REFERENTE A RECEBIMENTO DE VERBA SALARIAL (APOSENTADORIA). II - ALEGAÇÃO DE QUE OS VALORES BLOQUEADOS SÃO ORIUNDOS DE APOSENTADORIA. CONGRUÊNCIA. CONFUSÃO NA INTERPRETAÇÃO DO EXTRATO BANCÁRIO DO AGRAVANTE. EXISTÊNCIA APENAS DE PAGAMENTO DE BENEFÍCIO (INSS). DEMAIS NUMERÁRIOS ALI CONSTANTES QUE SE REFEREM AOS SAQUES POR ELE REALIZADO. III - RECURSO PROVIDO PARA QUE SE EFETIVE O DESBLOQUEIO DOS ALUDIDOS VALORES.
+(TJPR - 3ª C.Cível - 0019334-38.2019.8.16.0000 - Rolândia - Rel.: Desembargador Jorge de Oliveira Vargas - J. 03.09.2019).
+ ..
+Assim, dou provimento ao presente recurso, a fim de reconhecer a impenhorabilidade dos vencimentos da ora Agravante, bem como determinar que eventuais penhoras já realizadas em folha sejam desbloqueadas em favor da mesma, relativas ao caso abordado nestes autos.
+Nesse contexto, alterar as conclusões do aresto recorrido para passar a afirmar que existe nos autos situação excepcionalíssima a permitir penhora de percentual de proventos de aposentadoria demanda incursão na seara fático-probatória, atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+A propósito, nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. SISBACEN. DEPÓSTIO INFERIOR A ATÉ 40 SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama contra a decisão que, nos autos da execução fiscal ajuizada contra Pedro Paulo Scheffer Cardoso, considerou impenhorável a quantia depositada até o valor de 40 salários-mínimos.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se conhece do recurso especial, se o Tribunal de origem decidiu a controvérsia alinhado com a jurisprudência desta Corte Superior.
+IV - A Corte de origem, ao apreciar a controvérsia, manteve a decisão monocrática proferida anteriormente, a qual se deu com base nos seguintes fundamentos: "(..) Ademais, cabe referir que a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta corrente, fundos de investimento, ou guardados em papel-moeda, segundo julgado da Quarta Turma do Superior Tribunal de Justiça."
+V - O Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." No mesmo sentido: (AgInt no AREsp n. 1.968.794/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/9/2022, DJe em 14/9/2022 e REsp n. 1.721.203/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/2/2018, DJe em 2/8/2018).
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.169.474/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/12/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. IMPENHORABILIDADE DOS VALORES CONTIDOS EM CONTA CORRENTE ATÉ O LIMITE DE 40 SALÁRIOS-MÍNIMOS. RECONHECIMENTO PELO JUÍZO. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade há de ser respeitada. Ademais, em se tratando de matérias de ordem pública, tal como a impenhorabilidade, o juiz pode conhecer de ofício. Precedentes: AgInt no AREsp n. 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/9/2022, DJe de 22/9/2022; AgInt no AREsp n. 1.853.515/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 4/10/2021, DJe de 7/10/2021; REsp n. 1.809.145/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2020, DJe de 27/5/2020; REsp n. 1.189.848/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/10/2010, DJe de 5/11/2010.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.020.634/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 14/12/2022.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMPENHORABILIDADE. 40 (QUARENTA) SALÁRIOS MÍNIMOS. ALCANCE.
+1. De acordo com a jurisprudência firme desta Corte Superior, é impenhorável a quantia de até quarenta salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes.
+2. O disposto no art. 854, § 3º, I, do CPC/2015 não afasta o entendimento consolidado no Superior Tribunal de Justiça de que os valores inferiores a 40 salários-mínimos são presumidamente impenhoráveis.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.149.281/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/1/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
