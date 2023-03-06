@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SALINAS INDÚSTRIA DE PESCA LTDA, JORGE JOSE DA SILVA BASTOS FILHO, JORGE JOSE DA SILVA BASTOS NETO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/05/2022.
+Concluso ao gabinete em: 23/02/2023.
+Ação: monitória ajuizada por ITAÚ UNIBANCO S/A em face dos agravantes.
+Sentença: julgou parcialmente procedente o pedido formulado na inicial, tendo condenado os agravantes ao pagamento dos valores contratados, dos quais fora decotada a quantia correspondente à Tarifa de Abertura de Crédito (TAC).
+Acórdão: negou provimento à apelação dos agravantes, nos termos da seguinte ementa:
+CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA E EMBARGOS MONITÓRIOS. EMPRÉSTIMO BANCÁRIO. CAPITAL DE GIRO. ALEGAÇÃO DE ABUSIVIDADE E ONEROSIDADE EXCESSIVA QUANTO À CAPITALIZAÇÃO DE JUROS. JULGAMENTO DO RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL DE Nº 592377 PELO STF. MODIFICAÇÃO DO ENTENDIMENTO FIRMADO NO PLENÁRIO DESTA CORTE APÓS O JULGAMENTO DOS EMBARGOS INFRINGENTES 2014.026005-6, DECLARANDO VÁLIDA A PRÁTICA DA CAPITALIZAÇÃO EXPRESSAMENTE PACTUADA, NOS CONTRATOS FIRMADOS A PARTIR DA MP 2.170-36/2001. PREVISÃO EXPRESSA NO CONTRATO QUANTO À CAPITALIZAÇÃO. TAXAS DE JUROS MENSAL E ANUAL. PROVA DOCUMENTAL QUE TAMBÉM PERMITE A IDENTIFICAÇÃO DA CAPITALIZAÇÃO MENSAL DOS JUROS PACTUADA ENTRE AS PARTES. RECONHECIMENTO DA VALIDADE DO ANATOCISMO NESTA SITUAÇÃO. JUROS REMUNERATÓRIOS DE 1,62%. CONTRATO JUNTADO. CONFORMIDADE COM A TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN ACRESCIDA DE CINQUENTA POR CENTO, PARA A MODALIDADE CONTRATADA À ÉPOCA. ABUSIVIDADE NÃO EVIDENCIADA. DESNECESSIDADE DE REALIZAÇÃO DA PERÍCIA CONTÁBIL REQUERIDA. CONJUNTO PROBATÓRIO SUFICIENTE À SENTENÇA. MAGISTRADA QUE DECIDIU DE ACORDO COM SEU LIVRE CONVENCIMENTO E DE MANEIRA FUNDAMENTADA. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO RECURSO. (e-STJ fl. 279)
+Recurso especial: alegam violação dos arts. 39, V, 51, II e XV, do CDC, bem como dissídio jurisprudencial.
+Sustentam cerceamento de defesa, consubstanciada na negativa de produção de prova pericial, bem como asseveram a abusividade de cláusulas previstas no contrato, as quais lhes onerariam sobremaneira, em evidente anatocismo. Assim, caberia ao Tribunal a quo hostilizar a cobrança indevida.
+Nesse sentido, insurgem-se, notadamente, contra a capitalização dos juros contratuais previstos, os quais estariam em desacordo com entendimento jurisprudencial desta Corte. Ademais, ressaltam o descumprimento do dever de informação pela instituição bancária, quando da contratação das quantias, ao não elucidar os valores efetivamente cobrados dos agravantes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do Tema 246 do STJ
+Essa Corte Superior possui entendimento no sentido de que a cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação:
+Em relação aos juros capitalizados com periodicidade inferior a um ano, está em pleno vigor o entendimento de que: i) é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada (Tema 246/STJ). Nesse sentido: REsp 973.827/RS, 2ª Seção, 24/09/2012); ARESP 1917563/RS, 3º Turma, 05/08/2021.
+Assim, quanto à possibilidade de capitalização dos juros pactuados, a decisão recorrida está em consonância com a jurisprudência predominante no âmbito do STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Na espécie, o acórdão recorrido, analisando as circunstâncias fáticas específicas destes autos, bem como os elementos probatórios que o instrui, constatara: i) a desnecessidade de produção de prova pericial, uma vez que o acervo mostrou-se suficiente para o julgamento da demanda ; e ii) inexistirem cláusulas leoninas que justificassem a excepcional revisão do termo contratual pelo órgão judicante.
+Assim, alterar as conclusões do Tribunal a quo exigiria o revolvimento do acervo probatório e a interpretação de cláusulas contratuais, providências obstadas pelas Súmulas 5 e 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ fl. 270) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. JURISPRUDÊNCIA DO STJ. TEMA 246. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação monitória.
+2. Em relação aos juros capitalizados com periodicidade inferior a um ano, está em pleno vigor o entendimento de que é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada (Tema 246/STJ).
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
