@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FELIPE CORREA ABREU de decisão do Ministro Presidente deste Tribunal Superior, que indeferiu liminarmente o writ, com fundamento na Súmula 691/STF.
+A defesa reitera que não há fundamento concreto para a prisão cautelar. Destaca a primariedade do acusado. Requer assim a sua colocação em liberdade.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+2. Hipótese em que o Tribunal de origem indeferiu a liminar, motivadamente, por não ter verificado de imediato o alegado constrangimento ilegal que justifique a antecipação do mérito.
+3. As possíveis ilegalidades apontadas pela defesa, aptas à mitigação da mencionada Súmula e a justificar manifestação antecipada deste Superior Tribunal de Justiça, não foram constatadas.
+4. Agravo regimental não provido.
+VOTO
+O recurso não comporta provimento.
+A jurisprudência deste Tribunal Superior é firme no sentido de ser incabível habeas corpus contra decisão que indefere liminar, ressalvadas as hipóteses excepcionais de manifesta ilegalidade ou arbitrariedade, conforme entendimento firmado no Enunciado Sumular 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, a Corte de origem indeferiu o pleito liminar por não verificar, em um primeiro exame, o alegado constrangimento ilegal que justifique a antecipação do mérito:
+Pelo que se observa, há indicativos de que o custodiado estava sob investigação da Polícia Judiciária precisamente pela prática do tráfico de entorpecentes. Em que pese o custodiado FELIPE seja primário, há de se destacar a grande quantidade de entorpecentes (370 pedras de crack, pesando 1,12g; diversas porções de maconha, em tamanho diverso, totalizando mais de 1kg de droga; 45 porções de cocaína, pesando 37,62g). Os objetos apreendidos (balança de precisão, pinos vazios,lâminas para fracionamento da droga, centenas de embalagens do tipo "ziplock" utilizada para o embalo da droga), além de dinheiro em espécie fornecem indícios de que o custodiado vem se dedicando à traficância de grandemonta, com a distribuição de variados tipos de entorpecentes. Da experiência forense advém (de inúmeras oitivas de réus- usuários ou comerciantes de entorpecentes - e de um sem número de testemunhas policiais que se dedicam a investigar o tráfico de entorpecentes e tem familiaridade com as rotinas e valores das drogas) o conhecimento de que o tráfico de entorpecentes no Estado de São Paulo se não no país é controlado pela organização criminosa PCC Primeiro Comando da Capital. Trata-se de fato notório e negar essa circunstância é negar a realidade. Para que o custodiado estivesse na posse e na guarda dessa quantidade de entorpecentes é necessário, ao menos, a sua proximidade com membros da organização. Se dela não faz parte, ao menos goza da confiança de seus membros. Essa proximidade com a organização criminosa significa que a colocação do custodiado em liberdade constitui ameaça à ordem e à paz públicas. Sabe-se que um traficante iniciante jamais teria acesso a essa quantidadede entorpecentes. É preciso, portanto, evitar o retorno ao comércio espúrio. Dentre os entorpecentes apreendidos está significativa quantidade de crack.
+Assim, não se verifica, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
