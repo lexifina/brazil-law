@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 365/374) interposto contra decisão desta relatoria que negou provimento ao recurso especial.
+Em suas razões, a agravante aponta violação da Lei n. 9.656/1998 e dos arts. 188, I, e 421 do CC/2002, defendendo ser legítima a limitação da cobertura de terapia não prevista no rol de procedimentos e eventos da Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa.
+Ao final, pleiteia a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (e-STJ fls. 377/385).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece conhecimento.
+O recurso especial foi decidido nos seguintes termos (e-STJ fls. 359/362):
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 294):
+APELAÇÃO DE AMBAS AS PARTES - Obrigação de fazer - Plano de Saúde - Sentença de procedência para fornecimento de sessões de psicoterapia comportamental, terapia fonoaudiológica, fisioterapia e manutenção do atendimento psicológico cm curso, tendo por objetivo o monitoramento de metas clinicas, gerenciamento do caso e orientação parental - Insurgência da operadora do plano de saúde - Impossibilidade - Obrigação da ré de custear realização de tratamento multidisciplinar descritos na inicial ao autor diagnosticado com transtorno global do desenvolvimento sem outra especificação - Alegação de procedimentos não previstos no rol de procedimentos básicos da ANS -Aplicação da súmula 102 desta Corte - Rol de procedimentos da ANS meramente exemplificativo - Cabe ao médico a escolha do tratamento - Precedentes do E. STJ e desta Corte - Pretensão da seguradora a limitar o número de sessões terapêuticas - Questão superada ante a regulamentação pela ANS (RN 469/2021), estabelecendo a impossibilidade de limitação das sessões de tratamento para pacientes com transtornos globais do desenvolvimento, como c o caso dos autos, proibindo a limitação das sessões de quaisquer terapias - Insurgência do autor - Incabível - Pretensão a que as sessões de psicoterapia devam ser realizadas no ambiente natural da criança em casa ou escola - Não há qualquer justificativa legal que obrigue o plano de saúde a oferecer os procedimentos em casa ou na escola - Sentença mantida - Apelos improvidos.
+Nas razões do especial (e-STJ fls. 311/326), fundamentado no art. 105, III, "a", da CF/1988, a parte recorrente aponta violação dos arts. 10, § 4º, da Lei n. 9.656/1998 e 188, I, do CC/2002, afirmando legítima a limitação da cobertura de procedimento terapêutico não previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa.
+Contrarrazões às fls. 330/335 (e-STJ).
+Decisão pela admissibilidade do recurso às fls. 351/352 (e-STJ).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 188, I, do CC/2002.
+Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Na origem, a parte recorrida ajuizou demanda objetivando a cobertura do plano de saúde para tratamento de Transtorno Global do Desenvolvimento Sem Outra Especificação pelo método ABA e através do atendimento multidisciplinar descrito na exordial (e-STJ fls. 1/7).
+Em primeiro grau de jurisdição (e-STJ fls. 210/215), os pedidos foram julgados parcialmente procedentes, decisão confirmada pelo TJSP nos termos do acórdão cuja ementa fora transcrita acima.
+Ocorre que, em assentada recente, a Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Sem embargo, o Órgão Colegiado admitiu a excepcional possibilidade de cobertura do procedimento, indicado pelo médico ou odontólogo assistente, mas não previsto no rol da agência reguladora, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar,
+(ii) haja comprovação da eficácia do tratamento, à luz da medicina baseada em evidências,
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros, e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+De modo específico, para a terapia que visa o tratamento do Transtorno do Espectro Autista pelo método ABA, definiu-se, no âmbito dos EREsp n. 1.889.704/SP, ser devida a cobertura pelo plano ou seguro de saúde, porque a ANS considera que "as psicoterapias no método ABA estão contempladas na sessão de psicoterapia" do Rol da Saúde Suplementar (Relatório de Revisão do Rol 2018, pág. 147; e Nota Técnica n. 196/2017, pág. 146).
+Consigne-se que, embora houvesse limitação do número de sessões de tratamento, a resolução RN-ANS n. 469/2021 regulamentou expressamente "a cobertura obrigatória de sessões com psicólogos, terapeutas ocupacionais e fonoaudiólogos, para o tratamento/manejo do Transtorno do Espectro Autista (TEA)."
+De fato, conforme informação da própria autarquia reguladora, os "(. ..) beneficiários de planos de saúde portadores do Transtorno do Espectro Autista (TEA) de todo o País passam a ter direito a número ilimitado de sessões com psicólogos, terapeutas ocupacionais e fonoaudiólogos para o tratamento de autismo", o que "(..) se soma à cobertura ilimitada que já era assegurada para as sessões com fisioterapeutas".
+Sob outro enfoque, o voto condutor do julgado anteriormente referido ponderou que a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007, da Organização das Nações Unidas (ONU), incorporada no Ordenamento Jurídico pátrio pelo Decreto n. 6.949/2009, e que detém estatura constitucional, assegura, em seu art. 25, que "as pessoas com deficiência têm o direito de gozar do estado de saúde mais elevado possível, sem discriminação baseada na deficiência", sendo vedada a "discriminação contra pessoas com deficiência na provisão de seguro de saúde e seguro de vida, caso tais seguros sejam permitidos pela legislação nacional, os quais deverão ser providos de maneira razoável e justa" (art. 25, "e").
+Além disso, o art. 3º da Resolução Normativa da ANS n. 539, de 23 de junho de 2022, incluiu o tratamento dos Transtornos Globais de Desenvolvimento no rol mínimo de cobertura, mediante terapêutica a ser indicada pelo médico assistente, sendo, portanto, irrelevante a discussão do método utilizado e da quantidade de sessões.
+A esse respeito:
+Art. 3º O art. 6º, da RN nº 465, de 2021, passa a vigorar acrescido do § 4º, com a seguinte redação:
+Art. 6º ( ..)
+§ 4º Para a cobertura dos procedimentos que envolvam o tratamento/manejo dos beneficiários portadores de transtornos globais do desenvolvimento, incluindo o transtorno do espectro autista, a operadora deverá oferecer atendimento por prestador apto a executar o método ou técnica indicados pelo médico assistente para tratar a doença ou agravo do paciente.
+Tem-se, nesses termos, que o acórdão recorrido manifesta entendimento que converge com a jurisprudência firmada pela Segunda Seção desta Corte Superior, razão pela qual se impõe s ua manutenção.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+Na petição de agravo interno (e-STJ fls. 365/374), a parte insurge-se contra o resultado que lhe foi adverso sem rebater os seguintes fundamentos da decisão agravada:
+(i) a Segunda Seção do STJ decidiu, nos Embargos de Divergência no Recurso Especial n. 1.889.704/SP, que os planos de saúde devem custear a terapia do Transtorno do Espectro Autista pelo método ABA, pois a Agência Nacional de Saúde considera que "as psicoterapias no método ABA estão contempladas na sessão de psicoterapia" do Rol da Saúde Suplementar" (Relatório de Revisão do Rol 2018, pág. 147; e Nota Técnica n. 196/2017, pág. 146),
+(ii) a jurisprudência aqui referida encampou a tese de que a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007, da Organização das Nações Unidas (ONU), incorporada no Ordenamento Jurídico Nacional pelo Decreto n. 6.949/2009, dotada de relevância constitucional, assegura, em seu art. 25, que "as pessoas com deficiência têm o direito de gozar do estado de saúde mais elevado possível, sem discriminação baseada na deficiência", sendo vedada a "discriminação contra pessoas com deficiência na provisão de seguro de saúde e seguro de vida, caso tais seguros sejam permitidos pela legislação nacional, os quais deverão ser providos de maneira razoável e justa" (art. 25, "e"), e
+(iii) o art. 3º da Resolução Normativa da ANS n. 539, de 23 de junho de 2022, incluiu o tratamento do Transtorno do Espectro Autista no rol mínimo de cobertura, mediante terapêutica a ser indicada pelo médico assistente, sendo, portanto, irrelevante a discussão do método utilizado e da quantidade de sessões.
+Aplicável, desse modo, a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
