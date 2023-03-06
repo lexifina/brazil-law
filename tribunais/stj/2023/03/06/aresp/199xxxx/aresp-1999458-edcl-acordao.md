@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  BASIMÓVEL  CONSULTORIA  IMOBILIÁRIA  LTDA.  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PROMESSA  DE  COMPRA  E  VENDA.  PARTE  ADQUIRENTE.  RESCISÃO  CONTRATUAL.  MOTIVAÇÃO.  AÇÃO  INDENIZATÓRIA.  COMISSÃO  DE  CORRETAGEM.  RESTITUIÇÃO.  PARCIAL.  SÚMULA  Nº  568/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  A  controvérsia  dos  autos  reside  em  definir  se  a  parte  compradora  faz  jus  à  restituição  do  valor  pago  a  título  de  comissão  de  corretagem  no  caso  em  que  o  contrato  de  promessa  de  compra  e  venda  foi  rescindido  por  sua  culpa.
+3.  A  cláusula  que  transfere  ao  promitente  comprador  o  pagamento  da  comissão  de  corretagem  é  legal,  desde  que  observado  o  dever  de  informação.
+4.  No  caso  de  rescisão  contratual  motivada  pela  parte  adquirente,  a  comissão  de  corretagem  deve  ser  parcialmente  restituída  (Súmula  nº  543/STJ).  Incidência  da  Súmula  nº  568/STJ.
+5.  O  entendimento  desta  Corte  Superior  é  de  que  todos  os  integrantes  da  cadeia  de  consumo  respondem  solidariamente  pelos  danos  causados  ao  consumidor.
+6.  Agravo  interno  não  provido"  (fl.  707  e-STJ).
+Em  suas  razões  (fls.  715/719  e-STJ),  a  embargante  aponta,  em  síntese,  omissão  no  julgado  ao argumento de que não foi  enfrentada a afirmação de  que  a  Súmula  nº  543/STJ  não  se  aplica  à  corretora  imobiliária,  mas apenas à  incorporadora/construtora,  que  não  integra  a  presente  demanda.
+Além  disso,  sustenta  que  o  aresto  embargado  também  foi  omisso  quanto  à  mudança  de  entendimento  ocorrida  na  jurisprudência  do  Superior  Tribunal  de  Justiça,  em  que  restou  pacificado  que  a  corretora  de  imóveis  não  faz  parte  da  mesma  cadeia  de  fornecimento  da  construtora/incorporadora.
+Defende  a  inaplicabilidade  da  Súmula  nº  568/STJ ao caso vertente.
+Assevera  que  a  devolução  de  valores  deve  ser  imputada  à  construtora,  pois  é  ela  quem  integra  o  contrato  de  promessa  de  compra  e  venda.
+Ao  final,  requer  o  acolhimento  do  recurso.
+A  parte  embargada  apresentou  impugnação  às  fls.  723/729  (e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO  NÃO  VERIFICADA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  irresignação,  que  objetiva  não  suprimir  omissão,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+A  irresignação  não  merece  prosperar.
+Consoante  o  disposto  no  artigo  1.022  do  CPC/2015,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição;  (b)  suprir  omissão  de  ponto  ou  questão  sobre  a  qual  devia  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  art.  489,  §  1º,  do  CPC/2015,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+Extrai-se  dos  autos  que  a  embargada,  na  inicial  ,  alegou que  teve  de  desistir  do  negócio  jurídico  por  falha  na  prestação  do  serviço  da  embargante,  a  qual,  embora  tenha  assumido  a  obrigação  de  intermediar  a  obtenção  de  crédito  imobiliário,  informou-lhe  ,  após  a  concretização  do  negócio,  que  não  poderia  utilizar  o  saldo  do  FGTS.
+Irresignada  com  a  determinação  de  restituição  de  90%  (noventa  por  cento)  do  valor  pago,  a  embargante  interpôs  recurso  especial  pretendendo a  reforma  do  julgado. Para tanto, indicou a  violação  dos  artigos  6º,  III,  do  Código  de  Defesa  do  Consumidor  e  722  e  725  do  Código  Civil,  alegando  que,  cumprido  o  dever  de  informação  e  realizado  o  negócio,  não  há  falar  em  restituição  de  valores  pagos  a  título  de  comissão  de  corretagem.
+O  aresto  impugnado,  mantendo  a  decisão  que  negou  provimento  ao  recurso  especial,  consignou  que,  no  caso  de  rescisão  contratual  de  promessa  de  compra  e  venda  de  unidade  imobiliária  motivada  pelo  comprador,  nos  termos  da  Súmula  nº  543/STJ,  deve  haver  a  restituição  parcial  de  todas  as  parcelas  pagas,  o  que  abrange  a  comissão  de  corretagem.
+  Referido  entendimento  foi  mantido  pela  decisão  combatida por  estar  em  consonância  com  a  jurisprudência  desta  Corte  Superior,  o  que  atraiu  a  incidência  da  Súmula  nº  568/STJ.
+Registra-se  que  a  orientação  jurisprudencial  de  que  há  solidariedade  entre  todos  os  fornecedores  que  figuram  na  cadeia  de  consumo  foi  utilizada  apenas  como  reforço  de  argumentação.
+De  todo  modo,  não  se  desconhece  o  entendimento  atual  de  que  a  empresa  que  atua  na  intermediação  não  responde  de  forma  solidária,  salvo  nas  hipóteses  de  falha  na  prestação  do  serviço  ou  de  envolvimento  da  corretora  nas  atividades  da  construtora/incorporadora.
+Contudo,  referida  discussão  não  foi  examinada  pelo  tribunal  de  origem  e  sequer  levantada  pela  embargante,  de  modo  que  descabe  tal  análise  neste  momento  processual,  seja  por  depender  de  revisão  de  provas,  seja  por  se  tratar  de  evidente  inovação  recursal.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  eventual  omissão,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Confira-se:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  ALEGAÇÃO  DE  PUBLICIDADE  ENGANOSA.  INFORMAÇÃO  FALSA.  AFRONTA  À  BOA-FÉ.  FABRICAÇÃO  E  COMERCIALIZAÇÃO,  NO  ANO  DE  2015,  DE  DUAS  VERSÕES  DO  VEÍCULO  "IX  35"  ANO-MODELO  2015/2016.  PRIMEIRA  VERSÃO  NÃO  FOI  FABRICADA  NO  ANO  DE  2016.  CONSUMIDORES  LESADOS  EM  RAZÃO  DA  FALSA  PUBLICIDADE.  INDUÇÃO  A  ERRO.  PRINCÍPIOS  DA  BOA-FÉ  E  DA  ETICIDADE.  SUBTRAÇÃO  DAS  EXPECTATIVAS  LEGÍTIMAS  DOS  CONSUMIDORES.  OBRIGAÇÃO  DE  FAZER.  PUBLICAÇÃO  EM  DOIS  JORNAIS  DE  GRANDE  CIRCULAÇÃO  DA  PARTE  DISPOSITIVA  DO  ACÓRDÃO  EXARADO  PELO  TRIBUNAL  DE  ORIGEM.  INDENIZAÇÃO  PELOS  DANOS  MATERIAIS  DECORRENTES  DA  DESVALORIZAÇÃO  DO  VEÍCULO.  AFIRMAÇÃO.  DANO  MORAL  INDIVIDUAL  E  COLETIVO.  NÃO  CONFIGURAÇÃO.  OBRIGAÇÃO  DE  NÃO  FAZER.  ABSTENÇÃO  DE  OFERTA  DE  AUTOMÓVEIS  SOB  A  DENOMINAÇÃO  DE  MODELO  DO  PRÓXIMO  ANO  SEM  QUE  O  VEÍCULO  SEJA  FABRICADO  E  PRODUZIDO  NO  ANO  MENCIONADO.  MULTA  MONITATÓRIA  EM  CASO  DE  DESCUMPRIMENTO.  ACÓRDÃO  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  83  DO  STJ.  APLICAÇÃO.  PRETENSÃO  QUE  EXIGE  O  REVOLVIMENTO  DO  CONJUNTO  FÁTICO  E  PROBATÓRIO  DOS  AUTOS.  SÚMULA  7  DO  STJ.  INCIDÊNCIA.  AGRAVO  INTERNO  NÃO  PROVIDO.  OMISSÃO.  CONTRADIÇÃO.  OBSCURIDADE  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  EMBARGOS  REJEITADOS.
+1.  Inexistindo  omissão,  obscuridade,  contradição  ou  erro  material,  cumpre  registrar  que  os  embargos  de  declaração  não  se  não  são  via  adequada  para  a  insurreição  que  vise  a  reforma  do  julgamento.
+2.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  1.588.036/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  24/8/2020,  DJe  31/8/2020).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
