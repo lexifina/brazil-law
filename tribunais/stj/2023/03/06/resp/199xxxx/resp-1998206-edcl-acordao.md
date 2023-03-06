@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+CRISTIANE PORTO VASCONCELOS RODRIGUES opõe embargos de declaração contra decisão assim ementada (fls. 439-440):
+RECURSO ESPECIAL. REVISÃO CONTRATUAL. PANDEMIA DA COVID-19. CDC. REDUÇÃO DO VALOR DAS MENSALIDADES ESCOLARES. SUPRESSÃO DE DISCIPLINAS E VEICULAÇÃO DAS AULAS PELO MODO VIRTUAL. SERVIÇO DEFEITUOSO E ONEROSIDADE EXCESSIVA. INEXISTÊNCIA. QUEBRA DA BASE OBJETIVA DO NEGÓCIO JURÍDICO. ART. 6º, INCISO V, DO CDC. EXIGÊNCIA DE DESEQUILÍBRIO ECONÔMICO-FINANCEIRO IMODERADO. ENRIQUECIMENTO SEM CAUSA DO FORNECEDOR. IRRELEVÂNCIA. OBSERVÂNCIA AOS POSTULADOS DA FUNÇÃO SOCIAL E DA BOA-FÉ CONTRATUAL. SITUAÇÃO EXTERNA. REPARTIÇÃO DOS ÔNUS. AUSÊNCIA DE FUNDAMENTO APTO À REVISÃO DO CONTRATO NA HIPÓTESE. RECURSO ESPECIAL NÃO PROVIDO.
+1. As vertentes revisionistas no âmbito das relações privadas, embora encontrem fundamento em bases normativas diversas, a exemplo da teoria da onerosidade excessiva (art. 478 do CC) ou da quebra da base objetiva (art. 6º, inciso V, do CDC), apresentam como requisito necessário a ocorrência de fato superveniente capaz de alterar - de maneira concreta e imoderada - o equilíbrio econômico e financeiro da avença, situação não evidenciada no caso concreto. Precedentes.
+2. O STJ de há muito consagrou a compreensão de que o preceito insculpido no inciso V do art. 6º do CDC exige a "demonstração objetiva da excessiva onerosidade advinda para o consumidor" (REsp n. 417.927/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/5/2002, DJ de 1/7/2002, p. 339.)
+3. Nesse contexto, a revisão dos contratos em razão da pandemia não constitui decorrência lógica ou automática, devendo ser analisadas a natureza do contrato e a conduta das partes - tanto no âmbito material como na esfera processual -, especialmente quando o evento superveniente e imprevisível não se encontra no domínio da atividade econômica do fornecedor.
+4. Os princípios da função social e da boa-fé contratual devem ser sopesados nesses casos com especial rigor a fim de bem delimitar as hipóteses em que a onerosidade sobressai como fator estrutural do negócio - condição que deve ser reequilibrada tanto pelo Poder Judiciário quanto pelos envolvidos, - e aquelas que evidenciam ônus moderado ou mesmo situação de oportunismo para uma das partes.
+5. No caso, não houve comprovação do incremento dos gastos pelo consumidor, invocando-se ainda como ponto central à revisão do contrato, por outro lado, o enriquecimento sem causa do fornecedor - situação que não traduz a tônica da revisão com fundamento na quebra da base objetiva dos contratos. A redução do número de aulas, por sua vez, decorreu de atos das autoridades públicas como medida sanitária. Ademais, somente foram inviabilizadas as aulas de caráter extracurricular (aulas de cozinha experimental, educação física, robótica, laboratório de ciências e arte/música). Nesse contexto, não se evidencia base legal para se admitir a revisão do contrato na hipótese.
+6. Recurso especial não provido.
+Em suas razões, a embargante sustenta que houve omissão no acórdão embargado.
+Sustenta ser indiscutível a alteração contratual com a redução da carga horária, supressão de aulas e uso da estrutura domiciliar ao invés da estrutura escolar.
+Aduz que " é incontroverso que o contrato de consumo não foi observado conforme os termos dos arts. 46 e 48 do CDC. E não se está a falar de fortuito externo, mas em definir a aplicação da vinculação ao contrato de consumo no período pandêmico" (fl. 473).
+Requer sejam julgados procedentes os presentes embargos declaratórios com efeitos modificativos, a fim de que seja sanada a omissão existente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+A decisão embargada entendeu que não há nos autos provas do efetivo abalo das finanças da família, tampouco que a escola deixou de prestar o serviço educacional a que foi contratada, mediante as adaptações para a modalidade não presencial, atendendo as medidas sanitárias impostas pelo Estado.
+No presente caso, a parte não aponta omissão passível de ser suprida pelo Superior Tribunal de Justiça em embargos de declaração, restringindo-se a sustentar que contrato de consumo não foi observado conforme os termos dos arts. 46 e 48 do CDC, demonstrando apenas mero inconformismo.
+Nas razões dos embargos de declaração, a embargante não deduz em suas razões nenhuma obscuridade, omissão ou contradição no fundamento adotado pelo decisum de desprovimento do recurso especial.
+Em recente julgamento, a Corte Especial do STJ concluiu que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
