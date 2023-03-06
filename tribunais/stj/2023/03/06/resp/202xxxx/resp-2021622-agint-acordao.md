@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por TELEFÔNICA BRASIL S.A. contra decisão monocrática desta relatoria, proferida nos seguintes termos (e-STJ, fls. 124-129):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. DOBRA ACIONÁRIA. FUNDAMENTO INATACADO. RAZÕES DISSOCIADAS. SÚMULA 283/STF. LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais, a agravante insiste na tese referente à violação aos arts. 503 e 509 do CPC/2015. Sendo assim, requer a reconsideração da decisão agravada.
+Foram apresentadas contrarrazões (e-STJ, fls. 148-156).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. DOBRA ACIONÁRIA. FUNDAMENTO NÃO ATACADO. RAZÕES DISSOCIADAS. SÚMULAS 283 E 284/STF. LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial, incidindo a Súmula 283/STF por analogia.
+2. A dissociação entre os fundamentos do acórdão recorrido e aqueles deduzidos nas razões do recurso especial caracteriza deficiência na fundamentação, a atrair a incidência da Súmula 284/STF.
+3. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+4. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Na origem, a parte ora agravante opôs embargos de declaração à decisão do Juízo primeiro grau, o qual acolheu os aclaratórios, assim fundamentando, conforme consta do relatório do acórdão recorrido (e-STJ, fls. 51-52 - sem grifo no original):
+"Fls. 188/189: cuida-se dos EMBARGOS DECLARATÓRIOS opostos pela ré, aduzindo que ocorreu OBSCURIDADE e OMISSÃO, no tocante a não apreciação, de forma expressa, de pontos trazidos nos embargos declaratórios de fls. 171/177, pois apontou duas questões, a primeira no tocante à consideração dos eventos societários ocorridos, e a segunda no que diz respeito à exclusão de todas as verbas não tratadas no título executivo, sendo que a decisão não esclareceu se também estariam excluídas as verbas de dividendos, juros sobre o capital próprio e valores referentes à Telefônica Data Brasil e Telesp Celular.
+O exequente se manifestou a fls. 192/195, alegando que a embargante tenta afastar a aplicação da totalidade dos eventos societários, a fim de que os eventos que tragam benefício não sejam considerados, mas somente aqueles que a beneficiam, tanto que postula a consideração do grupamento acionário, mas omitiu o fato de que tal evento não está previsto no título executivo.
+Ao final, mencionou que para a apuração dos valores ser aplicada de forma justa e correta, deverão ser considerados a totalidade ou ignorados todos os eventos societários (cisão, incorporação e grupamento).
+DECIDO.
+Assiste parcial razão à embargante.
+É que, no tocante aos eventos societários ocorridos entre a data da integralização e a data do trânsito em julgado, já se afirmou que são necessários para fins de pagamento das diferenças acionárias, mormente porque esta é a única maneira de se aferir o número de ações que atualmente correspondem à quantidade apurada à época da integralização.
+Referente à inclusão das verbas mencionadas, necessário complementar a decisão, o fazendo para afastar essas verbas do cálculo, pois consonante REsp nº 1.866.932 do STJ, em julgado proferido no dia 19.03.2020, decidiu-se pela exclusão da verba relativa à dobra acionária, bem como no pagamento dos dividendos e dos juros sobre o capital próprio, posto que tais verbas não foram incluídas no processo de conhecimento (fls.16/32).
+Porém, cabível a inclusão de valores referentes à Telefônica Data Brasil e Telesp Celular, se essas empresas abrangeram, no período determinado, qualquer evento societário (cisão, incorporação e grupamento).
+ ..
+Assim, ACOLHO PARCIALMENTE OS PRESENTES EMBARGOS DECLARATÓRIOS, e o faço para determinar que sejam excluídos do cálculo as verbas descritas, posto que não é correto computar dividendos, juros sobre capital próprio e dobra acionária. Intime-se."
+Inconformado, o ora recorrido interpôs agravo de instrumento, ao qual foi dado provimento, tendo o Tribunal estadual se manifestado sobre a impossibilidade de acatamento dos critérios estabelecidos pelo Superior Tribunal de Justiça, por ser proveniente de decisão posterior ao acórdão condenatório, em respeito à coisa julgada material.
+Nesse sentido, o Tribunal de Justiça do Estado de São Paulo consignou que (e-STJ, fls. 53-55 - sem grifo no original):
+I) Em que pese o entendimento do MM Juízo, o presente agravo deve ser provido.
+Isso, porque a execução diz respeito a acórdão (título executivo judicial) já transitado em julgado, que estabeleceu critério para apuração do montante devido, como se vê da ementa a seguir copiada:
+"CONTRATO DE PARTICIPAÇÃO FINANCEIRA. Plano de expansão de rede de telefonia. Pedido que visa à complementação das ações devidas como contraprestação ao investimento inicial do autor, bem como indenização pelo seu inadimplemento. Indeferimento tardio da petição inicial. Recurso do autor. Jurisprudência tranquila desta Câmara Reservada de Direito Empresarial no sentido da existência de relação de consumo nesses casos, do cabimento da inversão do ônus da prova, nos termos do art. 6º, do CDC, bem como da aplicabilidade da Súmula 371 do C. STJ. Montante das ações deve ser corrigido com base nos valores apurados nos balancetes do mês da integralização de cada uma delas. Recurso provido."
+Em breve histórico, em primeiro grau a petição inicial foi indeferida, tendo sido interposto recurso de apelação, no qual foi condenada a ré (AP nº 0054003-59.2011.8.26.0602, Rel. Des. Francisco Loureiro, j. em 26/02/2013). Ainda, a ré, ora agravante, interpôs Recurso Especial, o qual não foi admitido por este E. Tribunal de Justiça (decisão copiada às fls. 33/35 dos originais), tendo sido o agravo em Recurso Especial não provido (decisão copiada às fls. 38/43 dos originais). O acórdão transitou em julgado em 22/02/2019 (fls. 36/37 dos originais).
+II) O recurso representativo de controvérsia apontado como paradigma de critérios pela agravada (REsp nº 1.866.932 do STJ, em julgado proferido no dia 19.03.2020) é posterior ao trânsito em julgado do v. acórdão da apelação na qual houve condenação ao pagamento com critério de cálculo que determina que o "Montante das ações deve ser corrigido com base nos valores apurados nos balancetes do mês da integralização de cada uma delas".
+Portanto, tendo em vista que a decisão do recurso trazido pela executada é posterior ao trânsito em julgado do acórdão condenatório, há coisa julgada material.
+A impugnação feita pela Telefônica quer que prevaleçam os critérios estabelecidos pelo STJ, o que não pode ocorrer, em face da coisa julgada existente, lembrando que o v. acórdão transitado em julgado fixou o critério a ser utilizado para apuração do quanto devido.
+Logo, o que não se subsume ao determinado no título judicial extrapola os limites da coisa julgada. Assim, a executada pretende alterar os próprios parâmetros de cálculo fixados no acórdão da apelação nº 0054003-59.2011.8.26.0602, o que envolve, portanto, questão de mérito, ao invés de análise do mero acerto dos cálculos em liquidação.
+Entretanto, diante do trânsito em julgado do acórdão condenatório, não é admissível a rediscussão das matérias de mérito, ainda que com base em entendimento posterior do Superior Tribunal de Justiça, sob pena de ofensa à coisa julgada (NCPC, art. 509, §4º, CPC/1973, art. 475-G).
+Nos termos do art. 508, do NCPC (art. 474, CPC/1973), "transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido".
+ ..
+III) Portanto, o recurso deve ser provido, a fim de que sejam rejeitados os embargos de declaração opostos pela executada.
+Da leitura do trecho acima, verifica-se que o acórdão recorrido está fundamentado na questão referente à impossibilidade de utilização dos critérios expostos na decisão do Superior Tribunal de Justiça, por ser esta posterior ao acórdão condenatório, em respeito à coisa julgada material.
+Nas razões recursais, contudo, a parte recorrente não impugnou o referido fundamento, o qual, por si só, é suficiente para manutenção do acórdão recorrido.
+Assim, a existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial, incidindo a Súmula 283/STF por analogia.
+Ademais, as razões recursais encontram-se dissociadas do acórdão recorrido, tendo em vista tratarem sobre a impossibilidade de inclusão da dobra acionária, dividendos e juros em liquidação de sentença, ao passo que a fundamentação da Corte local foi no sentido de afastar os critérios estabelecidos pelo Superior Tribunal de Justiça no REsp 1.866.932/SP, ante ao respeito à coisa julgada, sem adentrar no mérito da questão.
+Por fim, a pretensão da parte recorrida de ver aplicada à recorrente a pena por litigância de má-fé não merece guarida, pois, consoante entendimento desta Corte, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. EXIGÊNCIA DE DOCUMENTO IDÔNEO. MULTA DO ART. 1.021, §4º, DO CPC E POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. No julgamento do REsp. 1.813.684/SP, a Corte Especial reafirmou o entendimento segundo o qual é necessária a comprovação, no ato de interposição do recurso, da existência de feriado local por meio de documento idôneo. Todavia, segundo a modulação de efeitos determinada no referido recurso, admitiu-se a comprovação posterior da tempestividade dos recursos dirigidos ao STJ, protocolados até 18/11/2019, em relação ao feriado da segunda-feira de carnaval.
+(..)
+5. "A aplicação das multas por litigância de má-fé ou por interposição de recurso manifestamente inadmissível não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer." (AgInt no AREsp 1163437/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 04/05/2020, DJe 07/05/2020)
+6. Agravo interno não provido
+(AgInt no AREsp 1.855.710/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021; sem grifo no original).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DO RECORRIDO. IMPOSIÇÃO. MULTA. PARTE ADVERSA. ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça estabelece que a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo.
+2 . Embargos de declaração acolhidos com efeitos integrativos, sem efeitos infringentes
+(EDcl no AgInt no AREsp 1.704.723/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/06/2021, DJe 22/06/2021; sem grifo no original).
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
