@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, o entendimento de que, no caso, a condenação da ora insurgente ao pagamento de indenização por danos extrapatrimoniais decorreu não do atraso na entrega da unidade imobiliária, mas da inclusão indevida do nome do compromissário comprador nos cadastros da SERASA, atraindo a incidência da Súmula nº 283 do STF, o que inviabilizou, no ponto, o conhecimento do recurso especial. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+CARLOS RICARDO PINCELI e ELISSANDRA CRISTINE CASTRO POSSETTI PINCELI (CARLOS e outra) ingressaram com ação de indenização por danos materiais e morais contra ERBE INCORPORADORA 024 LTDA. (ERBE), alegando descumprimento do contrato de promessa de compra e venda de imóvel firmado entre as partes, por atraso na entrega das obras.
+Em primeira instância, os pedidos foram julgados improcedentes (e-STJ, fls. 260/264).
+O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso de apelação de CARLOS e outra, em acórdão de relatoria da Des.ª SILVIA MARIA FACCHINA ESPÓSITO MARTINEZ, assim ementado:
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. Compromisso de compra e venda. Atraso na entrega do imóvel. Sentença de improcedência. Irresignação dos autores.
+PRELIMINAR Cerceamento de defesa Livre convencimento motivado do juiz Preclusão lógica em razão da petição dos autores, afirmando que não iriam produzir outras provas - Afastamento.
+MÉRITO. 1 Prazo de 120 previsto em contrato Manutenção, pois razoável Intuito de amenizar eventuais imprevistos técnicos ou burocráticos no decorrer das obras desta magnitude Não verificado abuso ou situação de desequilíbrio contratual Jurisprudência. Atraso, todavia, configurado para além do prazo de tolerância Ausência de motivo justo Responsabilidade da empreiteira inafastável. 2 Índice de correção Mera reposição de valor à moeda. Inviável o congelamento do saldo Pertinente, porém, a substituição do INCC pelo IGP-M, por interpretação analógica de cláusula contratual. 3-Inversão da multa moratória Admissibilidade, com fundamento nos princípios norteadores do direito consumerista Injusta a previsão de penalidade apenas para os compradores em caso de inadimplência Precedentes. 4 Lucros cessantes Reconhecimento - Jurisprudência do STJ Valor equivalente a 0,5% do valor do imóvel por mês de atraso. Indevida cobrança em relação aos valores do condomínio e do IPTU em relação ao imóvel alugado pelos autores Obrigaç ão que também existiria no concernente ao imóvel objeto dos autos caso este já tivesse sido entregue e os autores estivessem nele residindo. 5 Danos morais Negativação indevida do nome do autor Carlos junto ao Serasa Alto valor do apontamento (R$ 212.247,90) que se referia ao financiamento condicionado à providência não tomada pela empreiteira (regularização do imóvel) Condenação em R$ 10.000,00 pelo abalo psicológico e à honra supotados Duplo caráter da indenização.
+Sentença reformada, com a parcial procedência da inicial. Ônus da sucumbência deverão recair sobre a requerida Honorários fixados em 10% do valor total da condenação.
+PRELIMINAR AFASTADA, RECURSO PARCIALMENTE PROVIDO (e-STJ, fls. 308/309).
+Os embargos de declaração opostos por ERBE foram rejeitados (e-STJ, fls. 326/329).
+Irresignada, ERBE manejou recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, violação dos arts. 186, 389, 402, 403, 927 e 944 do CC/02, ao sustentar (1) a impossibilidade da cobrança cumulativa de lucros cessantes com multa contratual; e (2) o descabimento da indenização por danos morais na hipótese de mero descumprimento contratual, ou, alternativamente, que seja reduzido o valor da condenação, em observância aos princípios da razoabilidade e da proporcionalidade.
+Contra-arrazoado (e-STJ, fls. 364/369), o recurso foi admitido (e-STJ, fls. 415/418).
+Nesta Corte Superior, o apelo nobre interposto por ERBE foi parcialmente provido, em decisão de minha relatoria assim ementada:
+CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. COBRANÇA DE LUCROS CESSANTES. POSSIBILIDADE, DESDE QUE NÃO CUMULADA COM MULTA CONTRATUAL. TEMA Nº 970 DO STJ. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. CONDENAÇÃO POR DANO MORAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF, POR ANALOGIA. QUANTUM FIXADO COM RAZOABILIDADE. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA 83 DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Nas razões do presente agravo interno, ERBE sustentou que o descumprimento do prazo para a entrega do imóvel não enseja reparação a título de danos morais.
+Não foi apresentada impugnação (e-STJ, fls. 494/495).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, o entendimento de que, no caso, a condenação da ora insurgente ao pagamento de indenização por danos extrapatrimoniais decorreu não do atraso na entrega da unidade imobiliária, mas da inclusão indevida do nome do compromissário comprador nos cadastros da SERASA, atraindo a incidência da Súmula nº 283 do STF, o que inviabilizou, no ponto, o conhecimento do recurso especial. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+2. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o fundamento de que, no caso, a condenação da ora insurgente ao pagamento de indenização por danos morais decorreu não do atraso na entrega da unidade imobiliária, mas da inclusão indevida do nome do compromissário comprador nos cadastros da SERASA, atraindo a incidência da Súmula nº 283 do STF, o que inviabilizou, no ponto, o conhecimento do recurso especial .
+Isso porque, nas razões do presente agravo interno, ERBE se limitou a alegar que o descumprimento do prazo para a entrega do imóvel não enseja reparação a título de danos extrapatrimoniais.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demons trar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008).
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. Ação de cobrança c/c indenização por danos morais e materiais.
+2. Não merece conhecimento o agravo em recurso especial que não impugna especificamente todos os fundamentos da decisão agravada.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.568.942/PR, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 4/5/2020, DJe 7/5/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO. APLICAÇÃO DE MULTA. ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..  2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.476.609/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 11/2/2020, DJe 18/2/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182/STJ. GRATUIDADE DE JUSTIÇA. INDEFERIDA.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art.
+1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. A concessão da gratuidade de justiça não eximiria o agravante dos ônus da sucumbência.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.492.052/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/2/2020, DJe 12/2/2020).
+Assim, porque os argumentos que ERBE trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
