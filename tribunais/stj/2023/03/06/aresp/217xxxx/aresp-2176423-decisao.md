@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por LUIZ AUGUSTO LOUZA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial manejado contra acórdão assim ementado:
+Alienação fiduciária. Ação de cobrança. Sentença de procedência. Apelo do réu. Ação de busca e apreensão ajuizada anteriormente pelo réu em face do autor, julgada extinta, sem resolução do mérito, nos termos do artigo 485,IV, do CPC. Cumprimento de sentença, no qual o banco informou a alienação extrajudicial do veículo, tendo sido convertida a obrigação de devolução do bem em indenização por perdas e danos. Autor que persegue, nesta ação, a condenação do réu ao pagamento da multa prevista no § 6º do art. 3º do DL nº 911/69, que tem a sua aplicação restrita aos casos em que a ação de busca e apreensão for julgada improcedente. Ademais, o ora autor havia formulado semelhante pedido na contestação da ação de busca e apreensão, não recorrendo da decisão que deixou de impor a multa ao credor. Precedentes do C. STJ e deste E. TJSP. Sentença reformada. Ação improcedente. Ônus de sucumbência pelo autor. Apelo prov ido. (e-STJ, fl. 218)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega violação ao artigo 3º, § 6º, do DL nº 966/69, defendendo que a finalidade da norma em questão é punir o banco que vende o bem em leilão extrajudicial, malgrado a perda da causa da ação de busca e apreensão, dado que referida postura acarreta prejuízos em demasia ao cliente.
+Assevera a aplicabilidade da multa do art. 3º, § 6º, do Decreto-Lei nº 911/69 tanto nos casos de improcedência do pedido de busca e apreensão, quanto nos de extinção do processo sem resolução demérito.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Nas razões do presente inconformismo, o agravante aduziu a impossibilidade do afastamento da multa prevista no art. 3º, § 6º, do Decreto-lei n.º 911/69, pois a reprimenda visa punir a conduta abusiva do autor que, indevidamente, alija o réu da posse do bem e o aliena a terceiro, impedindo o fiduciante de adquirir-lhe, futuramente, a propriedade plena, sobretudo quando o processo é extinto sem resolução do mérito.
+Contudo, a Terceira Turma se posiciona no sentido de que as hipóteses de cabimento da penalidade devem ser interpretadas restritivamente, nos moldes das ementas adiante reproduzidas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. JULGAMENTO SEM RESOLUÇÃO DO MÉRITO. INVIABILIDADE DE FIXAÇÃO DA MULTA DO ART. 3º, § 6º, DO DECRETO-LEI N. 911/1969. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior (Súmula 83/STJ), quando a ação de busca e apreensão for extinta sem julgamento de mérito por decisão judicial, não cabe a fixação da multa do art. 3º, § 6º, do Decreto-Lei n. 911/1969. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.875.676/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 20/9/2021, DJe 23/9/2021, grifou-se)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. LIMINAR DE BUSCA E APREENSÃO DO BEM REVOGADA. DESCARACTERIZAÇÃO DA MORA. RESTITUIÇÃO DE VEÍCULO AO DEVEDOR FIDUCIANTE. INVIABILIDADE, ANTE A SUA ALIENAÇÃO. RESTITUIÇÃO QUE DEVE OBSERVAR O VALOR MÉDIO DE MERCADO DO VEÍCULO À ÉPOCA DA BUSCA E APREENSÃO. MORA DESCARACTERIZADA. FIXAÇÃO DE MULTA COM BASE NO ART. 3º, § 6º, DO DECRETO LEI N. 911/69. JULGAMENTO DE IMPROCEDÊNCIA.
+1. Ação de busca e apreensão, em virtude de suposto inadimplemento de contrato de financiamento, garantido por alienação fiduciária.
+2. Ação ajuizada em 16/11/2018. Recurso especial concluso ao gabinete em 22/04/2021. Julgamento: CPC/2015.
+3. O propósito recursal é definir i) qual é o valor a ser restituído à devedora fiduciante quando há venda extrajudicial do bem no bojo de ação de busca e apreensão posteriormente julgada extinta sem resolução do mérito - se o valor do veículo na Tabela FIPE à época da apreensão do bem ou se o valor propriamente obtido com a sua venda extrajudicial; e ii) se a condenação ao pagamento da multa prevista no art. 3º, § 6º, do DL 911/69 subsiste ainda que a ação de busca e apreensão tenha sido julgado extinta sem resolução do mérito
+4. Após a execução da liminar de busca e apreensão do bem, o devedor terá o prazo de 5 (cinco) dias para pagar a integralidade da dívida pendente, oportunidade em que o bem lhe será restituído sem o respectivo ônus. Caso o devedor não efetue o pagamento no prazo legal, haverá a consolidação da propriedade e da posse plena e exclusiva do bem móvel objeto da alienação fiduciária no patrimônio do credor.
+5. Consolidado o bem no patrimônio do credor, estará ele investido em todos os poderes inerentes à propriedade, podendo vender o bem. Se, contudo, efetivar a venda e a sentença vier a julgar improcedente o pedido, o risco do negócio é seu, devendo ressarcir os prejuízos que o devedor fiduciante sofrer em razão da perda do bem.
+6. Privado indevidamente da posse de seu veículo automotor, a composição do prejuízo do devedor fiduciante deve traduzir-se no valor de mercado do veículo no momento de sua apreensão indevida (valor do veículo na Tabela FIPE à época da ocorrência da busca e apreensão).
+7. A multa prevista no art. 3º, § 6º, do Decreto-lei 911/69 não é cabível quando houver extinção do processo sem julgamento do mérito.
+8. No entanto, uma vez demonstrada, no ajuizamento da ação, a devida constituição em mora do fiduciante, a sua descaracterização - porque reconhecida, a partir da análise das cláusulas pactuadas, a abusividade dos encargos no período de normalidade contratual - implica o julgamento de improcedência do pedido de busca e apreensão e não a extinção do processo sem resolução do mérito.
+9. Recurso especial conhecido e não provido, com majoração de honorários.
+(REsp 1.933.739/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 15/6/2021, DJe 17/6/2021 - grifou-se)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI N. 911/1969. INAPLICABILIDADE.
+1. O artigo 3º, § 6º, do Decreto-lei n. 911/69, estabelece que a sentença que decretar a "improcedência da ação" de busca e apreensão, também condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado, caso o bem apreendido já tenha sido alienado.
+2. Normas que impõem sanção devem ser interpretadas de forma restritiva, motivo por que o referido dispositivo legal não se aplica aos casos de extinção do processo sem julgamento do mérito.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.588.151/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 13/12/2018, DJe 19/12/2018 - grifou-se)
+Assim, o presente recurso não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI N. 911/1969. INAPLICABILIDADE. PRECEDENTES.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
