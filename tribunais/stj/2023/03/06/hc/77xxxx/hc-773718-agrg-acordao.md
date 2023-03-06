@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão de minha lavra, na qual não conheci do mandamus, ante a impossibilidade do reconhecimento da inconstitucionalidade de lei no presente remédio constitucional.
+A defesa diz que não requereu a inconstitucionalidade de lei.
+Requer, assim, a reconsideração do decisório agravado ou o julgamento pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE RECONHECIMENTO DA INCONSTITUCIONALIDADE DO ART. 273, § 1º-B, INCISOS I E III DO CÓDIGO PENAL - CP. IMPOSSIBILIDADE DE ANÁLISE NA VIA ELEITA. AGRAVO DESPROVIDO.
+1. "A ação constitucional do habeas corpus não é via adequada para se requerer a declaração de inconstitucionalidade de lei, em tese, pois tal matéria é reservada ao controle concentrado de normas, de competência do Supremo Tribunal Federal" (HC n. 291.368/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 6/6/2014).
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pese o argumento apresentado pelos agravantes, devendo a decisão ser mantida por seus próprios fundamentos.
+No presente writ, o impetrante defendeu que o art. 273, § 1º-B, I e III, do Código Penal seria inconstitucional, buscando, destarte, a aplicação da pena no patamar de 1 a 3 anos, como reconhecido pelo Pretório Excelso no RE 979.962 (tema 1.003 de repercussão geral).
+Conforme asseverado no decisum, o mandamus substitutivo de recurso próprio, não pode sequer ser conhecido, pois este é uma ação constitucional de rito célere e não serve para o reconhecimento de inconstitucionalidade de lei como quer a defesa, que depende para essa aferição em Tribunal, da manifestação do Plenário ou do Órgão Especial.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO. DESVIRTUAMENTO. ARTIGO 324 DO CÓDIGO PENAL MILITAR. INÉPCIA DA DENÚNCIA. TESE ALEGADA APÓS A SENTENÇA CONDENATÓRIA. PRECLUSÃO E SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. ATO PREJUDICIAL À ADMINISTRAÇÃO MILITAR. CARACTERIZAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. TESE NÃO DEDUZIDA PERANTE O TRIBUNAL DE ORIGEM. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. IMPROPRIEDADE DA VIA ELEITA.
+1. Na linha dos precedentes desta Corte, a alegação de inépcia da denúncia deve ser deduzida antes da prolação do édito condenatório, sob pena de convalidação pelo princípio da preclusão.
+2. No caso, a suposta irregularidade da denúncia não foi deduzida e, por esse motivo, sequer debatida pelo Tribunal de Justiça do Sergipe; ademais, foi levantada pela defesa após a prolação da sentença condenatória, do acórdão que a confirmou e do trânsito em julgado para as partes.
+3. A tese absolutória, quando demandar a análise de conteúdo fático-probatório dos autos, como na hipótese, não pode ser analisada na via estreita e célere do habeas corpus. Precedentes.
+4. A prática de ato prejudicial à administração militar, no aspecto dos princípios que a norteiam - em especial os da probidade, moralidade e impessoalidade -, caracteriza a elementar contida no artigo 324 do Código Penal Militar, pois o tipo não faz qualquer previsão sobre a natureza jurídica do prejuízo.
+5. Na hipótese, o policial militar deixou, no exercício da função de fiscalização de trânsito, de observar o Código de Trânsito Brasileiro, ao não lavrar auto de infração durante a abordagem de cidadão aparentemente embriagado, sem capacete, carteira de motorista e documento da motocicleta, dando causa, segundo delimitado pelas instâncias ordinárias, à prática de ato prejudicial à administração militar, no aspecto da probidade administrativa, moralidade e impessoalidade, princípios que dão eficácia e preservam a reputação das instituições militares.6. O Estatuto dos Policiais Militares de Sergipe dispõe, em seu artigo 27, que seus integrantes devem ter conduta moral e profissional irrepreensível e exercer com probidade as funções que lhe couberem em decorrência do cargo, cumprindo e fazendo cumprir as leis, os regulamentos, as instruções e as ordens das autoridades competentes.7. Mostra-se inviável a análise direta, por este Superior Tribunal, da pretendida aplicação do princípio da insignificância, visto que a Corte estadual, em momento algum, analisou se estariam preenchidos os vetores para a sua incidência.
+8. A ação constitucional do habeas corpus não é via adequada para se requerer a declaração de inconstitucionalidade de lei, em tese, pois tal matéria é reservada ao controle concentrado de normas, de competência do Supremo Tribunal Federal.
+9. Ordem não conhecida.
+(HC n. 291.368/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 6/6/2014).
+PENAL. TRANSAÇÃO PENAL. MULTA PECUNIÁRIA. VALOR. CONCORDÂNCIA DA DEFESA E DO RECORRENTE. PEDIDO DE REDUÇÃO. INDEFERIMENTO PELO JUIZ APÓS MANIFESTAÇÃO CONTRÁRIA DO MINISTÉRIO PÚBLICO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. INCONSTITUCIONALIDADE. MATÉRIA IMPRÓPRIA À VIA ELEITA.
+1. Se o recorrente concordou com o valor da multa pecuniária proposta pelo Ministério Público Federal em atenção a pedido de redução da defesa, não há constrangimento ilegal em não concordar o Parquet com nova redução daquele montante, com a chancela judicial, não só porque o motivo invocado (desemprego) já havia sido considerado antes, mas também pelo fato de que foi fixada prestação de serviços comunitários, com expressa referência às limitações físicas do recorrente, como alternativa à possível impossibilidade de pagamento daquela pena em dinheiro.
+2. É descabido, em razão da inadequação da via eleita, suscitar inconstitucionalidade em sede de habeas corpus, eis que é ação autônoma de impugnação, com sede constitucional, de natureza célere, vocacionada à tutela da liberdade de locomoção. Não se presta, pois, a declarar a inconstitucionalidade de lei, porquanto o ordenamento jurídico constitucional prevê instrumentos adequados para tanto.
+3. Recurso ordinário não provido.
+(RHC n. 55.616/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 13/4/2015).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
