@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura do agravo de instrumento que deu origem ao presente recurso, infere-se que JOSELITA PINAS DE MORAIS (JOSELITA) ajuizou ação declaratória cumulada com pedidos de obrigação de fazer, indenização por danos materiais, morais e tutela de urgência em desfavor de EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A. (EQUATORIAL), alegando a inexistência de débito lançado em fatura de consumo no montante de R$ 1.479,65 (mil, quatrocentos e setenta e nove reais e sessenta e cinco centavos), bem como requerendo, em tutela de urgência, que EQUATORIAL fosse compelida ao conserto do forro de sua residência/ponto comercial e fiação exposta em decorrência de inspeção realizada por esta, além de indenização por danos materiais no montante de R$ 1.980,00 (mil, novecentos e oitenta reais), referente ao reparo do forro, e indenização por danos morais.
+A sentença julgou procedente o pedido, confirmando tutela de urgência anterior, declarando inexistente o débito e condenando EQUATORIAL ao pagamento dos danos materiais na quantia pleiteada e danos morais na importância de R$ 2.500,00 (dois mil e quinhentos reais), além das custas processuais e honorários advocatícios, estes fixados em 20% sobre o valor da condenação.
+Os embargos de declaração opostos por JOSELITA para condenar EQUATORIAL a se abster de cortar a energia elétrica do imóvel ou de proceder à inscrição em cadastro de proteção ao crédito, a consertar o forro e a fiação exposta, sob pena de multa diária de R$ 500,00 (quinhentos reais).
+Após alegação de descumprimento da tutela de urgência, o Juízo majorou a multa diária para R$ 800,00 (oitocentos reais).
+Decorrido novo lapso temporal, em face da persistência no descumprimento da ordem judicial, a penalidade foi majorada para R$ 1.000,00 (mil reais) e, posteriormente, para R$ 1.500,00 (mil e quinhentos reais).
+Após a extinção do processo, foi requerido o pagamento de astreintes no montante de R$ 462.300,00 (quatrocentos e sessenta e dois mil e trezentos reais).
+Intimada, EQUATORIAL ofereceu impugnação à execução, afirmando descabimento e exorbitância do valor executado.
+O Juízo de primeira instância rejeitou a impugnação.
+Opostos embargos de declaração por EQUATORIAL, foram rejeitados.
+Contra essa decisão interlocutória, EQUATORIAL interpôs agravo de instrumento, aduzindo que (1) o conserto do forro já havia sido pago; (2) a multa é desproporcional ao valor dos imóveis na cidade de Imperatriz/MA; e (3) o valor das astreintes é exorbitante, competindo a JOSELITA mitigar as próprias perdas, em face da boa-fé objetiva.
+O Relator, liminarmente, conferiu efeito suspensivo ao agravo de instrumento, reduzindo a multa para R$ 231.150,00 (duzentos e trinta e um mil, cento e cinquenta reais).
+Contra essa decisão, foi interposto recurso especial por EQUATORIAL, que não foi admitido pelo Tribunal maranhense.
+Examinando o mérito do agravo de instrumento, o Tribunal de Justiça do Maranhão deu-lhe provimento, confirmando a liminar concedida, nos termos da seguinte ementa:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DEDÉBITO C/C DANOS MORAIS, MATERIAIS E PEDIDO DE TUTELA DE URGÊNCIA, EM FASE DE CUMPRIMENTO DE ASTREINTES. VALOR EXCESSIVO. NECESSIDADE DE REDUÇÃO. PROVIMENTO PARCIAL. I - Apesar de fixadas as astreintes e indiscutível e reconhecidamente violada a obrigação de fazer imposta pelo juízo a quo (Id. 9999671 dos autos originários) pelo executado/agravante, merece ser reduzido o quantum exequendo (R$462.300,00 - quatrocentos e sessenta e dois mil e trezentos reais), por in casu ter se tornado extremamente excessivo a ponto de ultrapassar (e muito) o conteúdo do direito material em jogo, em nítida inversão de prioridade: de instrumento para o cumprimento da obrigação de fazer para o objeto de interesse do credor, como fim em si mesma, relegando a plano secundário a prestação inicialmente visada; II - no STJ, inclusive, há tese, em sede de recurso representativo de controvérsia, sobre a temática de multa cominatória, retratando não precluir, tampouco fazer coisa julgada a decisão que comina astreintes; III - a conversão da obrigação de fazer em perdas e danos não exclui a multa cominatória incidente até esse momento, tal como realizado pela credora/agravada, que lhe procedeu aos cálculos até março/2020 (Id. 29017320 e 34056559 - Pág. 8 dos autos originários), quando deferida a referida conversão. Inclusive, o art. 500 do CPC preconiza que "a indenização por perdas e danos dar-se-á sem prejuízo da multa fixada periodicamente para compelir o réu ao cumprimento específico da obrigação." Afinal, a multa cominatória se reveste de natureza coercitiva, e, por possuírem naturezas e fundamentos distintos, a conversão da obrigação de fazer em perdas e danos não exclui a incidência das astreintes até o momento da conversão;
+IV - agravo de instrumento parcialmente provido (e-STJ, fl. 1.193/1.194).
+Os embargos de declaração opostos por EQUATORIAL foram rejeitados (e-STJ, fls. 1.214/1.234).
+Inconformada, EQUATORIAL interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação dos arts. 537 do NCPC e 884 do CC, bem como dissídio jurisprudencial, ao sustentar que (1) a multa pode ser reduzida com fundamento nos princípios da razoabilidade, proporcionalidade e na vedação ao enriquecimento indevido; (2) a multa diária foi fixada em R$ 1.500,00 (mil e quinhentos reais), valor desproporcional; e (3) a multa fixada alcançou a quantia de R$ 231.150,00 (duzentos e trinta e um mil, cento e cinquenta reais), ao passo que a conversão da obrigação de fazer em perdas e danos resultou em montante indenizatório de R$ 4.189,50 (quatro mil, cento e oitenta e nove reais e cinquenta centavos)  e-STJ, fls. 1.236/1.252 .
+Foram apresentadas contrarrazões (e-STJ, fls. 1.383/1.398).
+O recurso especial não foi provido em decisão de minha lavra, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. RAZOABILIDADE. PROPORCIONALIDADE. RECALCITRÂNCIA. VERIFICADA. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 1.448).
+Nas razões do presente agravo interno, EQUATORIAL defendeu que (1) a decisão agravada não observou que a obrigação de reparar o forro era impossível e os custos já haviam sido ressarcidos no montante relativo aos danos materiais; e (2) a decisão unipessoal foi omissa quanto à alegada violação do art. 944, parágrafo único, do CC (e-STJ, fls. 1.512/1.517).
+Foi apresentada impugnação (e-STJ, fls. 1.519/1.530).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER, INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AVARIA EM IMÓVEL INSPECIONADO. MULTA COMINATÓRIA. IMPOSSIBILIDADE DE CUMPRIMENTO DA OBRIGAÇÃO. ART. 944, PARÁGRAFO ÚNICO, DO CC. TEMAS NÃO SUSCITADOS EM RECURSO ESPECIAL. EXAME INVIÁVEL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em agravo interno, é inviável o exame de alegações não trazidas em recurso especial.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) e (2) Da impossibilidade de cumprimento e do art. 944, parágrafo único, do CC
+Nas razões do presente recurso, EQUATORIAL alegou que (1) a decisão agravada não observou que a obrigação de reparar o forro era impossível e os custos já haviam sido ressarcidos no montante relativo aos danos materiais; e (2) a decisão unipessoal foi omissa quanto à alegada violação do art. 944, parágrafo único, do CC.
+Ocorre que as referidas teses não foram objeto do recurso especial (e-STJ, fls. 1.236/1.252), examinado por este Relator.
+Conforme iterativa jurisprudência desta Corte, em agravo interno, é inviável conhecer de matéria que não fora suscitada no recurso especial.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL COM DEVOLUÇÃO DE VALORES PAGOS. INADIMPLEMENTO DO COMPRADOR. DIREITO DE RETENÇÃO DO VENDEDOR. ALTERAÇÃO DO PERCENTUAL PARA 25%. ALTERAÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. AGRAVO DESPROVIDO.
+1. A alteração do percentual de retenção sobre os valores pagos pela compradora, que serão objeto de restituição à vendedora do imóvel, não altera a sucumbência da demanda, na medida em que a agravada continua a ostentar insucesso mínimo.
+2. Fica inviabilizado o conhecimento de matéria suscitada somente nos embargos de declaração e no agravo interno, sem a prévia impugnação no recurso especial, por se tratar de indevida inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.922.958/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 27/6/2022, DJe de 29/6/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. RECURSO ESPECIAL NÃO CONHECIDO À LUZ DAS SÚMULAS 283/STF, 284/STF e 7/STJ. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECIFICADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/15. INOVAÇÃO RECURSAL.
+1. Não deve ser conhecido o agravo interno no qual não se encontram especificamente impugnados os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC/15.
+2. Impossibilidade de se conhecer da alegação de dissídio jurisprudencial formulada apenas em agravo interno, a configurar inovação recursal, porquanto o recurso especial se fundou apenas na alínea  "a" do permissivo constitucional.
+3. AGRAVO INTERNO NÃO CONHECIDO.
+(AgInt no REsp n. 1.765.888/DF, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. em 15/12/2020, DJe de 18/12/2020)
+Vale destacar que as alegações foram inseridas no recurso especial (e-STJ, fls. 929/951) interposto contra o acórdão que negou provimento ao agravo interno manejado contra a decisão liminar do Relator, que concedeu em parte o efeito suspensivo ao agravo de instrumento.
+Contudo, referido recurso especial não foi admitido nem foi interposto agravo em recurso especial para que o apelo nobre tivesse curso.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
