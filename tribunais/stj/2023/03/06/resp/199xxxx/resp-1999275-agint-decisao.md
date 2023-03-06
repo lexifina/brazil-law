@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por MIKE LU contra a decisão que não conheceu do recurso especial.
+Nas razões do presente recurso (e-STJ fls. 183/189), o agravante alega que a verba oriunda de salário é impenhorável quando destinada ao pagamento de débito sem natureza alimentar.
+Argumenta que a regra de impenhorabilidade só pode ser mitigada quando o crédito ostentar natureza alimentar ou os valores recebidos pelo devedor forem superiores a 50 salários-mínimos mensais, ressalvadas as peculiaridades do caso concreto.
+Defende, ainda, que a questão é exclusivamente de direito, não esbarrando no óbice contido na Súmula 7/STJ.
+Ao final, requer o provimento do agravo interno a fim de se reconsiderar a decisão agravada.
+Devidamente intimada, a parte contrária apresentou impugnação (e-STJ fls. 192/205).
+É o relatório.
+DECIDO.
+Considerando a manifestação do agravante, faz-se imperiosa a reconsideração da decisão de fls. 179/180 (e-STJ) e passa-se a um novo exame do recurso especial por ele interposto.
+O recurso especial, interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação cujo processo se encontra em fase de cumprimento de sentença. Insurgência contra a r. decisão que determinou a penhora de 30% do salário do executado, ora recorrente. Decisão mantida. Impenhorabilidade do art. 833, IV, do CPC que não é absoluta. Possibilidade de relativização. Caso concreto em que o devedor ocupa o cargo de CEO de empresa de grande capital social. RECURSO NÃO PROVIDO." (fl. 116 e-STJ).
+Em suas razões (fls. 120/133 e-STJ), o recorrente aponta, além de divergência jurisprudencial, a violação do art. 833, IV, e §2º, do Código de Processo Civil de 2015, sustentando, em síntese, que a penhora de vencimentos para pagamento de débitos que não configuram prestação alimentícia é vedada por lei.
+Após a apresentação das contrarrazões (fls. 159/167 e-STJ), o recurso foi admitido na origem (fls. 168/170 e-STJ), ascendendo a esta Corte Superior.
+A irresignação merece prosperar.
+De fato, embora a jurisprudência do STJ não afaste, de forma absoluta, independentemente da natureza jurídica do crédito executado, a possibilidade da penhora de parte das verbas de caráter remuneratório especificadas no art. 833, IV, do CPC/2015 - nos casos em que, a partir da análise concreta, ficar evidente que o ato de constrição judicial não retira do devedor a capacidade de manutenção de um mínimo existencial e de um padrão de vida digno em favor dele próprio e de seus dependentes -, não há, no acórdão recorrido, a análise pontual das exceções estabelecidas no §2º do art. 833 do CPC/2015, tampouco o exame de peculiaridades concretas que poderiam, em tese, justificar a mitigação da regra de impenhorabilidade, além da ponderação concreta do impacto que a medida trará à subsistência do devedor.
+Com efeito, no aresto impugnado, não foi pontuada a natureza do débito, se o devedor recebe salário acima de 50 (cinquenta) salários-mínimos mensais, nem foi apontada outra peculiaridade concreta a amparar a mitigação da regra de impenhorabilidade.
+Da mesma forma, não houve a análise da possibilidade, ou não, de o devedor manter o seu mínimo existencial e o padrão de vida digno de seus familiares.
+A propósito:
+"AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 489 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. PENHORA DE SALÁRIO. ART. 833, IV, C/C O § 2º, DO CÓDIGO DE PROCESSO CIVIL. PARTICULARIDADES DO CASO CONCRETO QUE PERMITEM A FLEXIBILIZAÇÃO DA REGRA DA IMPENHORABILIDADE DE VENCIMENTOS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, de forma fundamentada, não se configurando negativa de prestação jurisdicional.
+2. A jurisprudência do STJ firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º, do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento." (AgInt no AgInt no AREsp n. 1.861.912/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022, grifou-se)
+Ante o exposto, reconsidero a decisão de fls. 179/180 e-STJ, para dar provimento ao recurso especial a fim de anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem para que profira outro, analisando pontualmente a presença, ou não, dos pressupostos para a mitigação da regra de impenhorabilidade de salário no caso concreto.
+Publique-se.
+Intimem-se.
