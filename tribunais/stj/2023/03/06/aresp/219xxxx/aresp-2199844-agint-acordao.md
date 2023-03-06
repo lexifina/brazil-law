@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 298/310) interposto contra decisão da eminente Ministra desta Corte que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 292/295).
+Em suas razões, a parte alega que a matéria foi devidamente prequestionada e que não busca o reexame de provas.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 313/320).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO DE INSTRUMENTO. AÇÃO EXECUTIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DEPOSITÁRIO FIEL. DESCARTE DO BEM DEPOSITADO SEM AUTORIZAÇÃO JUDICIAL. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. REVISÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação do dispositivo legal tido por violado, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela aplicação da multa por ato atentatório à dignidade da justiça, visto que o depositário nomeado descartou o bem depositado sem autorização judicial. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 292/295):
+Cuida-se de agravo apresentado por FERNANDO LUIS STOFFEL e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA INCERTA - DECISÃO QUE CONDENOU O FIEL DEPOSITÁRIO AO PAGAMENTO DE MULTA POR ATO ATENTATÓRIO A DIGNIDADE DA JUSTIÇA, FIXADA EM 10%  DEZ POR CENTO) DO VALOR DA CAUSA - DESCARTE DO BEM DEPOSITADO SEM AUTORIZAÇÃO JUDICIAL - ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA - ART. 161, PARÁGRAFO ÚNICO, E ART. 77, § 2O, DO CPC - DECISÃO MANTIDA - AGRAVO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia recursal, alega violação dos arts. 642 do CC; 161, parágrafo único, e 77, § 2º, do CPC, no que concerne à não configuração de infidelidade do depositário fiel, eis que o perecimento do bem se deu por força maior em razão de depósito por período superior ao recomendado em laudo técnico, não havendo se falar em culpa da parte recorrente, trazendo o(s) seguinte(s) argumento(s):
+18. Porém, o depositário não responde pelos casos de força maior (art. 642 do CC). Além disso, para que reste configurado o ato atentatório à dignidade da justiça, a ensejar a imposição de multa, deve ser demonstrado o comportamento doloso, a má-fé do depositário infiel quanto à prática das condutas previstas no artigo 77, IV e IV, do CPC, o que não se constata no caso.
+19. Isso porque o Recorrente comprovou que houve o perecimento do algodão sem culpa sua. Conforme laudos técnicos juntados no ID. 100864980, o primeiro realizado logo após o arresto, em 05.11.2019, o algodão depositado no armazém já não apresentava características de qualidade preservadas, tendo sido recomendada a sua comercialização no prazo de até 06 (seis) meses.
+20. Todavia, o algodão permaneceu depositado por período superior a 20 (vinte) meses no pátio da empresa S. Cotton, o que acarretou, em razão da natureza fungível do produto, como demonstrado no segundo laudo, realizado em 30.06.2021, o apodrecimento generalizado das fibras, não preservando qualquer característica de sua qualidade.
+ ..
+22. Nesse diapasão, ante a constatação, por profissional especializado, de que o prazo recomendado para armazenamento do algodão é de 6 (seis) meses, independentemente do acondicionamento que lhe é dado, sendo que o produto permaneceu depositado muito além desse período, não há que se falar em infidelidade do depositário, pois se trata de acontecimento inevitável, que não pode ser imputado a qualquer conduta do Recorrente.
+ ..
+25. Com efeito, o Recorrente cumpriu fielmente o encargo que assumiu, tomando todas as medidas possíveis para a guarda e manutenção do produto. No entanto, o perecimento do algodão decorreu do longo tempo de depósito, bem como das intempéries climáticas, tais como a grande umidade no período de chuva e as altas temperaturas na época de seca.
+26. Ora, não há como imputar ao Recorrente, ainda que conheça sobre o armazenamento e tenha assinado termo de responsabilidade, a culpa pela deterioração de um produto perecível que ficou à disposição do Juízo da execução, por vontade dos Executados, por extenso período, sabendo-se de antemão que o algodão, ainda que bem armazenado, não tem vida útil longa (fls. 229/231).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Como se vê dos fatos narrados retro, o agravante recebeu a posse dos bens na condição de fiel depositário, comprometendo-se a não dispor deles sem ordem judicial expressa, a qual nunca existiu, sendo certo que "o depositário infiel responde civilmente pelos prejuízos causados, sem prejuízo de sua responsabilidade penal e da imposição de sanção por ato atentatório à dignidade da justiça" (art. 161, parágrafo único, CPC).
+O agravante FERNANDO LUIS STOFFEL, representante da também depositária S. COTTON BENEFICIAMENTO DE ALGODÃO, confessou que, sem autorização judicial, removeu e descartou o produto "diante da necessidade de abrir espaço para receber a safra de algodão de 2021" (ID 62034617 - origem).
+Tendo procedido à alienação/descarte dos bens sem autorização judicial, caracterizou-se como depositário infiel.
+O descumprimento do encargo importa na obrigação do agravante de indenizar a parte agravada pela perda dos bens, de acordo com o art. 161, parágrafo único, do CPC, em quantia a ser apurada em ação autônoma ou procedimento de liquidação próprios a esta finalidade, nos moldes como decidido pelo magistrado de piso, inexistindo qualquer ilegalidade na decisão.
+ ..
+Ressalte-se que a empresa agravante, onde foi depositado o produto, exerce atividade de preparação e fiação de fibras de algodão, com amplo conhecimento no armazenamento de fardos de pluma até a finalização do processo de beneficiamento, portanto, ciente dos cuidados que o produto necessita para manter sua qualidade e não correr riscos de perecimento (fls. 204/205).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+A questão relativa à ausência de culpa do depositário fiel pelo perecimento do produto, visto que este permanec eu em depósito por período superior ao recomendado, não foi apreciada pelo Tribunal de origem. Inafastável, desse modo, a Súmula n. 211 do STJ.
+Ademais, conforme destacado na decisão transcrita, revisar os fundamentos do acórdão recorrido - que, levando em consideração as provas dos autos, concluiu pela aplicação da multa por ato atentatório à dignidade da justiça, visto que o depositário nomeado descartou o bem depositado sem autorização judicial - esbarra na Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
