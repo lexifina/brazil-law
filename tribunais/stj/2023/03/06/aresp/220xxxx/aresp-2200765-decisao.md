@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por BRASILIENSE FUTEBOL CLUBE contra decisão do Tribunal de Justiça do Distrito Federal e Territórios, que não admitiu recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SOBRESTAMENTO DOPROCESSO DE ORIGEM. TEMA 769 DO STJ. INAPLICABILIDADE. DECISÃO MANTIDA.1. Agravo de instrumento interposto contra decisão que, em cumprimento de sentença, deferiu o pedido de penhora de eventuais créditos a receber em razão da sua condição de associado da Confederação Brasileira de Futebol e da Federação Brasiliense de Futebol, até o limite do valor da dívida. No julgamento dos embargos de declaração, foi rejeitado o pedido de sobrestamento do feito em virtude do julgamento do Tema 769 do Superior Tribunal de Justiça.2. Não prospera a pretensão de sobrestamento com base no Tema 769 do STJ se a penhora incidente no caso concreto não trata de faturamento mensal do devedor. 2.1. No caso em exame a medida constritiva incide sobre "eventuais créditos relativos a repasses da Confederação Brasileira de Futebol e da Federação Brasiliense de Futebol ao agravante". 2.3. Ademais, todos os recursos representativos da controvérsia delimitada no Tema nº 769 do STJ referem-se a execuções fiscais e os autos de origem não se regem pela Lei n. 6.830/80.3. Recurso conhecido e desprovido. (e-STJ, fl. 1.270)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega violação aos artigos 927, inciso III, 1.036, § 5º, e 1.037, inciso II, todos do Código de Processo Civil, sustentando que, por se tratar de clube de futebol profissional, sua principal fonte de renda são os eventuais repasses da Federação Brasiliense e da Confederação Brasileira de Futebol, decorrentes de participação em competições oficiais, verba essa que se caracteriza como faturamento e sobre a qual recaiu a constrição.
+Assim, pugna pela aplicação do tema 769 do STJ, julgado sob o regime dos recursos repetitivos, a fim de que seja determinado o sobrestamento do feito de origem até decisão final acerca da matéria delimitada. Acrescenta, ainda, que a suspensão fixada no precedente alcança toda e qualquer penhora, e não apenas aquelas realizadas nas execuções fiscais.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Requer a parte agravante o sobrestamento do processo em razão da afetação do Tema 769 do STJ, em razão da necessidade de definição a respeito da necessidade de esgotamento das diligências como pré-requisito para a penhora do faturamento.
+No entanto, o referido Tema restringe-se à Lei de Execução Fiscal, o que não é a hipótese do presente, não havendo, portanto, similitude fática entre os processos.
+Assim consignou o acórdão recorrido:
+Apesar de não ser o caso, ainda assim, esclareço ao executado que a decisão embargada não se encontra em oposição ao tema afetado pelo STJ, pois na presente demanda houve determinação de penhora de créditos que executado porventura possua perante a CBF e Federação Brasiliense de Futebol. Já o tema afetado pelo STJ discutirá a penhora de faturamento. Portanto, tratam-se de situações distinta. (e-STJ, fl. 1.273)
+E ainda:
+No entanto, o caso dos autos não se amolda ao Tema 769, pois não se trata de penhora de faturamento mensal do devedor, e sim de eventuais créditos rela t ivos a repasses da Confederação Brasileira de Futebol e da Federação Brasiliense de Futebol ao agravante. Ademais, todos os recursos representativos da controvérsia referem-se a execuções fiscais e os autos de origem não se regem pela Lei n. 6.830/80. (e-STJ, fl. 1.304)
+Portanto, não é cabível a suspensão dos autos, porque não se enquadra na hipótese prevista no Tema 769/STJ.
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
