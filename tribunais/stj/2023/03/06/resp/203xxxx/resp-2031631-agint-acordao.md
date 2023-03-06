@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por SÃO LUCAS SAÚDE S/A, contra decisão que negou provimento a seu recurso especial.
+Ação: de ressarcimento de despesas médicas c/c compensação por danos morais ajuizada por ALMIR ALMEIDA SOUZA em face do recorrente, visando o pagamento das despesas com órtese para tratamento de plagiocefalia de seu filho.
+Sentença: julgou parcialmente procedente a demanda para condenar o recorrente no pagamento das despesas realizadas pelo autor no valor de R$ 17.907,00.
+Acórdão: negou provimento à apelação de ambas as partes, nos termos da seguinte ementa:
+Apelação Ação de ressarcimento de despesas médicas cumulada com pedido de indenização por dano moral - Plano de saúde - Sentença de parcial procedência - Insurgência das partes Paciente diagnosticado com plagiocefalia, cujo tratamento implica na produção de órtese personalizada para a criança e acompanhamento mensal com médico especialista até o momento de sua retirada - Recusa de cobertura de órtese craniana Alegação de que o tratamento não está especificado no rol de cobertura obrigatória editado pela Agência Nacional de Saúde e de que a órtese não decorre de cirurgia - Abusividade Necessidade de cobertura pela operadora do tratamento indicado por médico assistente Cláusula de exclusão genérica de caráter abusivo Aplicação do Código de Defesa do Consumidor e da Súmula 102 do Tribunal de Justiça ao caso Impossibilidade de discussão pelo plano de saúde acerca da pertinência da prescrição feita pelo médico assistente Prevalência do princípio ao acesso à saúde Indenização pelo reembolso devida - Ausência de demonstração, pela requerida, de que na rede credenciada existam profissionais e clínicas para a cobertura do tratamento Reembolso integral das despesas quitadas pelo autor, com atualização determinada de ofício - Dano moral Negativa de cobertura fundamentada em suposta cláusula de exclusão - Não configuração - Ausência de descrição de fato excepcional a configurar abalo imaterial - Divergência em relação à interpretação de cláusula contratual ou descumprimento do ajuste - Inexistência de conduta capaz de causar danos imateriais Sentença mantida Recursos do autor e da ré não providos, com observação.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso Especial: alega violação dos arts. 1022 do CPC 10, VII e 12, §5º, da Lei 9656/98, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a legalidade da exclusão de cobertura de órtese não ligada a ato cirúrgico, mormente quando o dispositivo não está inserto no rol da coberturas obrigatórias da ANS, de natureza taxativa. Acrescenta que tendo rede credenciada para cuidar da moléstia do paciente, não pode o segurado optar pelo atendimento fora da rede credenciada, sendo legítima a recusa de pagamento de despesas efetuadas fora da rede.
+Decisão unipessoal: conheceu parcialmente do recurso especial e negou-lhe provimento, ante a incidência da Súmula 284/STF na apontada negativa de prestação jurisdicional, e pela Súmula 568/STJ na obrigatoriedade de cobertura de tratamento de plagiocefalia com órtese.
+Agravo interno: o agravante alega que não há obrigatoriedade de cobertura de tratamento não incluído no rol da ANS, o qual segundo recente entendimento jurisprudencial deste Superior Tribunal, tem natureza taxativa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICAS C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. PLAGIOCEFALIA. ÓRTESE CRANIANA. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de ressarcimento de despesas médicas c/c compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada conheceu parcialmente do recurso especial e negou-lhe provimento, ante a incidência da Súmula 284/STF na apontada negativa de prestação jurisdicional, e pela Súmula 568/STJ na obrigatoriedade de cobertura de tratamento de plagiocefalia com órtese, substitutiva de futura cirurgia de cobertura obrigatória.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante, não trouxe argumentos capazes de ilidir todos os fundamentos da decisão agravada.
+Isso porque, a parte agravante não apresenta qualquer refutação acerca dos fundamentos da decisão agravada relacionadas tanto à falta de fundamentação recursal quanto à negativa de prestação jurisdicional, bem como da incidência da Súmula 568/STJ a respeito da jurisprudência do STJ quanto à obrigatoriedade da cobertura da órtese para correção da plagiocefalia, se necessária para evitar futura cirurgia.
+Ressalte-se que o art. 34, XVIII, "a", do RISTJ exige a impugnação específica e consistente a todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual a incidência da Súmula 182/STJ deveria ter sido integralmente combatida.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Por fim, o referido entendimento foi inclusive positivado pelo legislador pátrio no bojo do CPC/15, cujo § 1º do art. 1.021 afirma que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial.
