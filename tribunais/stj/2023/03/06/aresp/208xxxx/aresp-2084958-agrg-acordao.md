@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Roberto Grah interpõe agravo regimental contra a decisão de fls. 1.016/1.021, de minha lavra, assim ementada:
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. ART. 180, §§ 1º E 2º, DO CP. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. LEI N. 13.924/2019. PLEITO DE APLICAÇÃO RETROATIVA. DESCABIMENTO. DENÚNCIA RECEBIDA ANTES DA VIGÊNCIA DA LEI. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
+Em suas razões recursais, insiste a defesa no argumento de aplicação retroativa do art. 28-A do Código de Processo Penal, ressaltando o decidido no AgRg no HC n. 575.395/RN, pugnando, ao final, pela reconsideração da decisão monocrática ou para que o recurso seja submetido ao julgamento pelo órgão colegiado a fim de que seja conhecido e provido o recurso especial para o fim de ser aplicado o art. 28-A, do CPP, em benefício do Agravante Roberto Grah, determinando-se a baixa dos autos a origem para que suspenda a ação penal e intime o agravado acerca de eventual interesse na propositura de Acordo de Não Persecução Penal, nos termos do Art. 28-A do CPP (fl. 1.032).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. ART. 180, §§ 1º E 2º, DO CP. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. LEI N. 13.964/2019. DENÚNCIA RECEBIDA. APLICAÇÃO RETROATIVA. DESCABIMENTO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que a parte agravante não logrou desconstituir seus fundamentos, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Disse e repito: não há nenhuma ilegalidade a ser reparada no caso dos autos, porquanto a peça acusatória foi oferecida em 22/5/2018 e recebida em 21/6/2018 (fls. 148/150 e 155), bem antes da vigência da Lei n. 13.964/2019.
+Ora, é cediço que o limite temporal para a propositura do ANPP é o recebimento da denúncia, porque diversamente do que ocorre na suspensão condicional do processo (art. 89, Lei n. 9.099/1995) - para a qual se estabeleceu como limite temporal a prolação da sentença ou sua modificação por Acórdão (Súmula 337/STJ) -, o ANPP visa a impedir o início da persecutio criminis in juditio. O próprio nome do instituto, aliás, indica que não se pode cogitar de incidência do ANPP depois de iniciada ou percorrida a marcha processual, por incoerência semântica e porque não se pode retroceder na marcha. Trata-se, pois, de um negócio jurídico pré-processual.
+A propósito, a jurisprudência da Primeira Turma deste STF fixou a tese de que "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia" (AgRg no HC 191.464 /SC, Ministro Roberto Barroso, Primeira Turma, DJe 25/11/2020).
+Logo, não merece prosperar a tese da defesa, pois, como visto, o acordo de não persecução penal se esgota na etapa pré-processual, buscando evitar o ajuizamento da ação penal, e a fase em que o processo se encontrava mostra-se totalmente incompatível com a finalidade do referido instituto.
+Nesse sentido, vem se pronuncian do o Superior Tribunal de Justiça: AgRg nos EDcl no AREsp n. 1.648.025/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/10/2021; AgRg no HC n. 680.533/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/10/2021, DJe de 13/10/2021; AgRg no HC 638.821/SC, Ministro João Otávio Noronha, Quinta Turma, DJe 13/8/2021; AgRg no HC 627.461/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/6/2021, dentre outros.
+Descabida, portanto, a pretensão defensiva.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OMISSÃO INEXISTENTE. USURPAÇÃO DE COMPETÊNCIA DO PRETÓRIO EXCELSO. NÃO OCORRÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DENÚNCIA RECEBIDA E SENTENÇA CONDENATÓRIA CONFIRMADA EM SEGUNDA INSTÂNCIA. IMPOSSIBILIDADE
+ ..
+5. A jurisprudência firmou entendimento no sentido de que, "iniciada a persecução penal com o recebimento da denúncia e, no caso, com a condenação, inclusive, do paciente em segunda instância, resta afastada a possibilidade de acordo de não persecução penal, por não se coadunar com o propósito do instituto despenalizador pré-processual" (AgRg no HC N. 644.020/SC, Ministro Felix Fischer, Dje 12/3/2021).
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg nos EAREsp n. 1.533.884/PB, Ministro Humberto Martins, Corte Especial, DJe 25/6/2021 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP, INTRODUZIDO PELA LEI N. 13.964/2019. NORMA HÍBRIDA: CONTEÚDO DE DIREITO PENAL E PROCESSUAL PENAL. RETROATIVIDADE. POSSIBILIDADE ATÉ O RECEBIMENTO DA DENÚNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, que passou a vigorar a partir de 24/1/2020, traz norma de natureza híbrida, isto é, possui conteúdo de Direito Penal e Processual Penal.
+2. Infere-se da norma despenalizadora que o propósito do acordo de não persecução penal é o de poupar o agente do delito e o aparelho estatal do desgaste inerente à instauração do processo-crime, abrindo a possibilidade de o membro do Ministério Público, caso atendidos os requisitos legais, oferecer condições para o então investigado (e não acusado) não ser processado, desde que necessário e suficiente para reprovação e prevenção do crime. Ou seja: o benefício a ser eventualmente ofertado ao agente sobre o qual há, em tese, justa causa para o oferecimento de denúncia se aplica ainda na fase pré-processual, com o claro objetivo de mitigar o princípio da obrigatoriedade da ação penal.
+3. Se, por um lado, a lei nova mais benéfica deve retroagir para alcançar aqueles crimes cometidos antes da sua entrada em vigor - princípio da retroatividade da lex mitior, por outro lado, há de se considerar o momento processual adequado para perquirir sua incidência - princípio tempus regit actum, sob pena de se desvirtuar o instituto despenalizador.
+4. Ao conjugar esses dois princípios, tem-se que é possível a aplicação retroativa do acordo de não persecução penal, desde que não recebida a denúncia. A partir daí, iniciada a persecução penal em juízo, não há falar em retroceder na marcha processual.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 628.647/SC, Ministra Laurita Vaz, Sexta Turma, DJe 7/6/2021 - grifo nosso)
+Em face da ausência de qualquer elemento c apaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente recurso.
+Ante o exposto, nego provimento ao agravo regimental.
