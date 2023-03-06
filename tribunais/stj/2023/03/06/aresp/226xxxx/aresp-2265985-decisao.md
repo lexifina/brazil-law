@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NORCON ROSSI EMPREENDIMENTOS S.A. (NORCON ROSSI) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, NORCON ROSSI alegou a violação aos arts. 134, § 2º, e 513, § 5º, do CPC, ao sustentar que a formação de grupo econômico não autoriza a inclusão de terceiros no procedimento de cumprimento de sentença, se estes não participaram da fase de conhecimento, o que torna indispensável a instauração do incidente de desconsideração da personalidade jurídica, a fim de apurar eventual responsabilidade de cada uma das empresas coobrigadas.
+Dos requisitos para a desconsideração da personalidade jurídica
+Na espécie, o Tribunal sergipano, ao julgar o agravo de instrumento interposto pela exequente, GLÍCIA CONCEIÇÃO MORAIS, entendeu que estavam presentes os requisitos necessários para a desconsideração da personalidade jurídica, tendo em vista a subsunção do caso às normas consumeristas, bem como por estar comprovada a existência de grupo econômico e confusão patrimonial, envolvendo empresas que atuam conjuntamente no negócio de compra e venda de imóveis. Confira-se:
+Na situação em comento, a legitimidade das referidas empresas para figurarem na execução é patente, tendo em vista que os estatutos sociais acostados aos autos demonstram que todas elas integram um mesmo grupo empresarial, restando demonstrado que as suscitadas aparecem como beneficiárias dos créditos de empreendimentos comercializados pela devedora Norcon Rossi, além de que consta explícita informação de que as executadas figuram como sócias das empresas suscitadas.
+Não é só. Ainda dos aludidos instrumentos, verifica-se a identidade de endereços entre as empresas bem como dos seus administradores, além do quadro societário.
+Assim, verifica-se nítida confusão patrimonial entre as empresas.
+O fato é que pela própria interpretação do art. 3º, do Código de Defesa do Consumidor, enquadrando-se as demandadas na condição de fornecedor, é pacífico o entendimento no sentido de que todos os participantes da cadeia de produção ou da prestação de serviços são responsáveis solidariamente perante o consumidor pelos danos decorrentes da relação firmada.
+Além disso, é de conhecimento público que as empresas fazem parte do mesmo grupo empresarial e, portanto, estão sujeitas à aplicação da Teoria da Aparência, razão pela qual se mostra cabível o redirecionamento da execução à Norcon Rossi, Rossi Residencial e demais conglomeradas.
+ ..
+Outrossim, necessário ressaltar que o processo de execução já se arrasta desde o ano de 2016, com diversas tentativas de satisfação do crédito perseguido pela agravante, o que demonstra um possível indicativo de fraude, e, consequentemente, possível abuso da personalidade jurídica a ser averiguado em juízo de cognição exauriente (e-STJ, fls. 78/80).
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ.
+Na mesma direção:
+AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. VIOLAÇÕES DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EMPRESAS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITOS LEGAIS. AFERIÇÃO NA VIA DO RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1 - Não incide a Súmula 182/STJ se a parte, no agravo, impugna os fundamentos da decisão que, na origem, não admitiu o recurso especial. Decisão da Presidência que merece reconsideração.
+2 - Não decididas no acórdão recorrido as matérias afetas aos dispositivos tidos como violados, ressente-se o especial do necessário prequestionamento, atraindo o óbice das Súmulas 282 e 356 do STF.
+3 - Firmado pelas instâncias ordinárias que estão presentes os requisitos legais para a desconsideração da personalidade jurídica, notadamente que há confusão entre o patrimônio da empresa que figura originariamente no polo passivo do cumprimento de sentença e as outras que fazem parte do mesmo grupo econômico, não há como elidir essas conclusões na via do recurso especial, ante o veto das Súmulas 5 e 7 do STJ. Julgados nesse sentido das duas Turmas que integram a Segunda Seção.
+4 - Agravo interno provido, conhecendo do agravo para não conhecer do recurso especial.
+(AgInt no AREsp 2.057.822/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 8/8/2022, DJe 26/8/2022 - sem destaque no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OCORRÊNCIA DE GRUPO ECONÔMICO E PREJUÍZO DAS EMPRESAS CAUSADOS AOS CONSUMIDORES. CABIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. QUESTÕES QUE PERPASSAM PELA ANÁLISE DE MATÉRIA FÁTICA. SÚMULA 7/STJ. EXISTÊNCIA DE RELAÇÃO DE CONSUMO. AQUISIÇÃO DE IMÓVEIS. SÚMULAS 5 E 7/STJ. CABIMENTO DA APLICAÇÃO DO CDC. SÚMULA 83/STJ. INVIABILIDADE DE INCIDÊNCIA DO ART. 942, § 3º, II, DO NOVO CPC. CUMPRIMENTO DE SENTENÇA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Já decidiu esta Corte Superior que o Código de Defesa do Consumidor incide nos contratos de compra e venda em que a incorporadora se obriga à construção das unidades imobiliárias, mediante financiamento. Precedentes.
+6. O acórdão entendeu que as empresas formavam um grupo econômico e que, nesse contexto, ocultavam bens e causavam prejuízos aos consumidores, motivo por que era cabível a desconsideração da personalidade jurídica. Aplicação da Súmula 7/STJ.
+7. O acórdão firmou que não ocorreu a desconsideração da personalidade jurídica per saltum, mas de reconhecimento da responsabilidade de fornecedor, participante de mesmo grupo econômico, que causou prejuízos ao consumidor. Incidência do texto do verbete sumular n. 7 desta Corte, porquanto a conclusão acerca da ocorrência de responsabilidade de fornecedor, formadora de grupo econômico, que lesava o consumidor, foi feita com suporte probatório.
+8. Agravo interno desprovido.
+(AgInt no REsp 1.854.579/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 14/9/2020, DJe 21/9/2020 - sem destaque no original.)
+Vale lembrar, ademais, a orientação jurisprudencial desta Corte, segundo a qual a aplicação da teoria menor da desconsideração da personalidade jurídica da empresa é justificada pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do art. 28 do CDC, o que atrai a incidência da Súmula nº 83 do STJ (AgInt no AREsp 1560415/DF, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 30/3/2020, DJe 1º/4/2020).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. GRUPO ECONÔMICO E CONFUSÃO PATRIMONIAL. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
