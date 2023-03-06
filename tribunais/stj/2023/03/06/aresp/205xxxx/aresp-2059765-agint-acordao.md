@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS em face da decisão acostada às fls. 961/965, e-STJ, da lavra deste relator, que negou provimento a agravo (art. 1.042 do CPC/15), por meio do qual a ora insurgente pretendia ver admitido o recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Previdência Privada. Ação revisional de cálculo benefício. Sentença de procedência. Apelo da ré. Ilegitimidade do patrocinador do plano. O Superior Tribunal de Justiça, no julgamento do REsp 1370191/RJ, apreciado sob o regime dos recursos repetitivos representativos de controvérsia, firmou o entendimento de que o patrocinador do plano de previdência privada não possui legitimidade para figurar no polo passivo de demandas entre participante e entidade privada, cujo objeto for obrigação contratual decorrente do plano de benefícios, dada a sua personalidade jurídica autônoma.
+Autor que participava do plano de previdência privada Petros- Transpetro desde dezembro de 2002, plano que foi extinto em novembro de 2011, sendo oferecido o Plano Petro 2 aos participantes, em substituição. Migração do autor ao Plano Petros 2, diante da extinção de seu plano anterior (Petros- Transpetro), deve ser entendida como sucessão de planos, de forma a aproveitar todos os prazos de carência do plano anterior.
+Danos morais não evidenciados. A recusa da ré no pagamento do benefício "garantia mínima" fundada em interpretação de cláusula contratual não é capaz de, por si só, ensejar dano moral.
+Recurso parcialmente provido.
+Opostos embargos declaratórios (fls. 785/793, e-STJ), restaram desacolhidos na origem (fls. 796/799, e-STJ).
+Nas razões de recurso especial (fls. 802/816, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal:
+(i) arts. 16, § 2º, 17, 33 e 68, §1º, da LC n.109/201, 202 da CF/88, e tema 907 do STJ, na medida em que deverá ser aplicado o regulamento vigente à época em que o participante tornou-se elegível ao benefício, o que afasta qualquer ilegalidade na revisão do plano de benefícios como manutenção do equilíbrio-financeiro;
+(ii) arts. 1º e 19 da LC n. 109/2001 e 6º da LC n. 108/2001, ante a ausência de contribuição para o fundo de custeio, o que afasta a possibilidade de suplementação de aposentadoria sem a devida contribuição; e
+(iii) 6º, §1º, da LINDB, por violação ao ato jurídico perfeito.
+Contrarrazões às fls. 847/768, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação das Súmulas 5, 7 e 211/STJ.
+Inconformado, interpôs o agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 897/906, e-STJ, por meio do qual pretendeu ver admitido o recurso especial.
+Contraminuta às fls. 936/943, e-STJ.
+Em julgamento monocrático, negou-se provimento ao reclamo, por não caber em recurso especial a análise de ofensa a diapositivos constitucionais; em relação ao artigo 6º da LINDB, a matéria revolve-se de natureza eminentemente constitucional, ainda que reproduzida em legislação infraconstitucional, sendo inviável seu conhecimento em sede de recurso especial; incidência das Súmulas 283 e 284 do STF, quanto ao tema 907; e incidência da Súmula 7/STJ.
+Inconformada, interpôs o presente agravo interno (fls. 968/985, e-STJ), em síntese, sustentando a inaplicabilidade dos referidos óbices.
+Impugnação às fls. 988/1000, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Não cabe ao STJ o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que manejados para fins de prequestionamento.
+2. A jurisprudência do STJ firmou-se no sentido da impossibilidade dos princípios contidos no artigo 6º da LINDB serem analisados em sede de recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF.
+4. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre o aporte complementar . Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. De início, registra-se que não cabe, em recurso especial, a análise de ofensa a dispositivos constitucionais, competência reservada à Suprema Corte.
+Neste sentido, destacam-se os precedentes: AgInt no AREsp 1321805/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 03/12/2018, DJe 05/12/2018; AgInt no REsp 1761022/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/12/2018, DJe 07/12/2018; AgInt no AREsp 1340592/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2018, DJe 07/12/2018; EDcl no AgInt no REsp 1720230/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018.
+2. Do mesmo modo, em relação ao artigo 6º da LINDB, a matéria revolve-se de natureza eminentemente constitucional, ainda que reproduzida em legislação infraconstitucional, sendo inviável seu conhecimento em sede de recurso especial.
+Neste sentido: AgInt no AREsp 1202430/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018;
+AgInt no REsp 1684121/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018.
+3. No que se refere a alegação de necessidade de observância da Tema 907 do STJ, observa-se que o Tribunal local afastou a sua incidência no caso concreto nos seguintes termos:
+Também não há que falar em afronta ao entendimento firmado no REsp 1.435.837/RS, pois como já fundamentado no v. acórdão, o julgado não trouxe inovação no plano atual e nem mesmo determinou aplicação de regra do regimento antigo. O que se garantiu neste julgado foi o aproveitamento dos prazos de carência do plano anterior, cuja possibilidade estava prevista, expressamente, no plano atual "Petros 2", nos termos de seu art. 125.
+No entanto, nas razões do recurso especial, a insurgente limita-se a sustentar que deve ser aplicado o entendimento trazido no tema 907 do STJ, pois "O regulamento aplicável ao participante de plano fechado de previdência privada para fins de cálculo da renda mensal inicial do benefício complementar é aquele vigente no momento da implementação das condições de elegibilidade, haja vista a natureza civil e estatutária, e não o da data da adesão, assegurado o direito acumulado."(fls. 807,e-STJ) Nada tratou, todavia, do fundamento utilizado pela Corte de origem, de que " o julgado não trouxe inovação no plano atual e nem mesmo determinou aplicação de regra do regimento antigo. O que se garantiu neste julgado foi o aproveitamento dos prazos de carência do plano anterior, cuja possibilidade estava prevista, expressamente, no plano atual "Petros 2", nos termos de seu art. 125."
+Infere-se, assim, a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO EMBARGANTE.
+1. Admissível o agravo interno, apesar de não infirmar a totalidade da decisão monocrática recorrida, pois a jurisprudência do STJ é assente no sentido de que a impugnação a capítulos autônomos da decisão apenas induz à preclusão das matérias não discutidas.
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando a Corte de origem decide de modo fundamentado, como ocorre na hipótese, Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a aplicação das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto ao bem ser o único da família ou servi-lhe de residência ou, ainda, de subsídio para essa. Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido. (AgInt no AREsp 1215038/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno não provido. (AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015.
+VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido.
+Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido. (AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)
+4. O Tribunal ainda afastou a necessidade de aporte complementar por parte do autor e consignou não haver prejuízo ao plano. Veja-se (fls. 725, e-STJ):
+Como corretamente entendeu o douto Magistrado, a migração do autor ao Plano Petros 2, diante da extinção de seu plano anterior (Petros-Transpetro), deve ser entendida como sucessão de planos, de forma a aproveitar todos os prazos de carência do plano anterior.
+A corroborar com tal raciocínio, o próprio regimento do plano Petros 2 considera o cumprimento de carências do plano anterior, em relação ao cumprimento de carência mínima de 60 (sessenta) contribuições mensais para a aposentadoria normal (art. 55, "a" do regimento), como se vê de seu art. 125:
+"Art. 125. As contribuições mensais eventualmente vertidas pelo Participante junto a outro plano de benefícios de natureza previdenciária oferecido pela Patrocinadora, realizadas durante período anterior à sua inscrição no PLANO PETROS-2, serão consideradas, exclusivamente, para fins de cumprimento das carências estabelecidas na alínea "a" do inciso I do art. 55." E considerando que houve efetiva sucessão de planos, diante da extinção do plano anterior, fere o princípio da boa-fé objetiva e da legítima expectativa do autor, a ré recusar a aplicação da "garantia mínima" ao benefício da suplementação da aposentadoria, sob o argumento de doença pré-existente, quando na verdade o autor foi acometido pela doença na vigência do plano anterior.
+Por óbvio, o plano de beneficio do qual serão retirados os recursos para satisfação da obrigação é o plano que rege o benefício do apelado, Petros 2, e isso, ao contrário do tenta argumentar a ré, não trará qualquer prejuízo ao plano, pois a decisão não faz qualquer inovação no regulamento, mas apenas determina que ele seja cumprido em seus exatos termos. Por tal razão também, não há que se falar em aporte complementar pelo autor.
+No mais, a ré alega genericamente que o benefício deve respeitar o teto regulamentar, mas não diz, especificamente, se no caso dos autos ultrapassaria o referido teto. Tal argumento veio desprovido de qualquer fundamento.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+É de rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
