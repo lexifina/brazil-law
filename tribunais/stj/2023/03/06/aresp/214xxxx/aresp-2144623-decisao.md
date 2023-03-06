@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por TWS BRASIL IMOBILIARIA, INVESTIMENTOS E PARTICIPACOES SOCIETARIAS LTDA contra decisão do Tribunal de Justiça do Estado da Paraíba, que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C PERDAS E DANOS. CONTRATO DE EMPREITADA. OBRA PÚBLICA. SERVIÇOS DE PINTURA. PAGAMENTO PROPORCIONAL AO QUE FOI REALIZADO. COMPROVAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DO RECURSO. - Não tendo o Autor comprovado o fato constitutivo do direito perseguido na inicial, inviável se mostra sua pretensão, a qual visava a cobrança do serviço de pintura em sua integralidade. (e-STJ, fl. 353)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos artigos 282, IV, 300, 331, 407 e 412, todos do CPC/73.
+Defende a necessidade de se realizar nova audiência instrutória para ouvir testemunha essencial ao deslinde processual, sob pena de configuração de cerceamento de defesa.
+Sustenta a necessidade de que seja oportunizada a produção de prova, não podendo se falar em preclusão antes da determinação da data de audiência de instrução e julgamento.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Na espécie, o Tribunal de origem afastou o cerceamento de defesa decidindo da seguinte forma:
+Averigua-se que em audiência de conciliação, datada de 25/11/2014 (fl. 67), tendo em vista que não houve acordo formalizado, o juízo a quo determinou a especificação de provas no prazo de 10 (dez) dias.
+Em 08/05/2015 (fl. 76), em audiência de instrução, o Advogado da parte promovida solicitou a inquirição de duas testemunhas, tendo o Juiz singular entendido que já havia sido ultrapassado o mencionado prazo.
+O art. 407 do CPC/73, não reproduzido na nova legislação processual, versava sobre o prazo das partes para anexar ao feito o rol de testemunhas, qual seja, "até 10 dias antes da audiência".
+Omitindo-se o juiz na estipulação do referido prazo, o rol terá de ser apresentado até dez dias antes da audiência (art. 407, com a redação da Lei nº 10.358, de 27.12.2001). Esse prazo é estabelecido pelo Código em benefício da parte contrária, a fim de que possa conhecer com a necessária antecedência a idoneidade da prova que contra si vai ser produzida. Há, por isso, de ser observado tanto nos casos de testemunhas a serem intimadas como daquelas que comparecerão independentemente de intimação.
+Com efeito, a atenção do legislador, à época, ao fixar o prazo antecipado para apresentação do rol de testemunhas visa, em última análise, garantir o direito constitucional a ampla defesa, assegurando à parte contrária a prévia ciência a respeito das pessoas que irão prestar depoimento em juízo.
+Cumpre observar que o fato de o processo civil contemporâneo se manifestar favorável à busca da verdade real, podendo o julgador determinar, inclusive de ofício, a produção de prova necessária para a solução da lide, tal posicionamento não implica em exclusão dos efeitos da preclusão temporal, restando impossibilitada a altiva de testemunhas arroladas intempestivamente.
+No mais, o Código de Processo Civil/73 deixa claro que compete ao Juiz avaliar a necessidade da prova, tanto que lhe impõe indeferir "as diligências inúteis ou meramente protelatórias." (art. 130). (e-STJ, fls. 379/381 - grifou-se)
+Desse modo, demonstrado pela instância de origem, diante dos demais elementos probatórios constantes dos autos, que não há ilegalidade no indeferimento de oitiva de testemunha apresentada fora do prazo legal, impõe-se o não reconhecimento da nulidade pleiteada, sobretudo por não se verificar, na hipótese, o alegado prejuízo sustentado pela defesa.
+Ademais, de acordo com o § 4º, do art. 357 do Código de Processo Civil, caso tenha sido determinada a produção de prova testemunhal, o juiz fixará prazo comum não superior a 15 (quinze) dias para as partes apresentem o rol de testemunhas. Transcorrido, portanto, o prazo fixado precluiu o direito do agravante.
+A jurisprudência desta Corte é no sentido de que opera a preclusão quando as partes não apresentam o rol de testemunhas dentro do prazo designado pelo juízo, mesmo que exista pedido antecedente de produção da prova.
+Nesse sentido:
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA AFASTADO. INÉRCIA DURANTEA INSTRUÇÃO PROCESSUAL. PRECLUSÃO. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. "Esta Corte já firmou entendimento de que preclui o direito a prova se a parte, intimada para especificar as que pretendia produzir, não se manifesta oportunamente, e a preclusão ocorre mesmo que haja pedido de produção de provas na inicial ou na contestação, mas a parte silencia na fase de especificação" (AgRg no AREsp 645.985/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em16/06/2016, DJe de 22/06/2016).
+2. Deve ser rejeitado o alegado cerceamento de defesa, na medida em que, apesar de devidamente intimada para especificar provas que pretendia produzir, a parte se manteve silente, ocorrendo a preclusão. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1586247/GO, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 01/06/2020, DJe 15/06/2020) .
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ROL DE TESTEMUNHAS. ART. 407 DO CPC/1973. DESCUMPRIMENTO DO PRAZO. PRECLUSÃO. CERCEAMENTO DE DEFESA NÃO COMPROVADO. PENSÃO POR MORTE. CÔNJUGES DIVORCIADOS. DEPENDÊNCIA NÃO COMPROVADA. ALTERAÇÃO DO JULGADO QUE DEMANDA O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A parte autora alega cerceamento de defesa pois entende que a apresentação do rol de testemunhas, somente seria possível após a sua efetiva intimação para a audiência. Contudo, o ato de depósito do rol de testemunhas é privativo daquele que ostenta capacidade postulatória, ou seja, o Advogado, que, no caso, foi intimado mais de 30 dias antes da audiência para o cumprimento do ônus processual.
+2. O acórdão recorrido concluiu pela ausência de comprovação da dependência da autora com o de cujus, uma vez que não foi apresentada prova material nesse sentido, nem produzida prova testemunhal a demonstrar que o falecido contribuía para a subsistência familiar, embora tenha sido concedido, oportunamente, o prazo para apresentação do rol de testemunhas. Assim, desconstituir tais assertivas, significa adentrar no contexto fático-probatório dos autos, o que é vedado em Recurso Especial.
+3. Agravo Interno da Particular desprovido.
+(AgInt no AREsp n. 406.450/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 9/5/2017, DJe de 16/5/2017 - grifou-se )
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 15% sobre o valor da condenação (e-STJ fl. 297), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 20% sobre o valor da condenação é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRODUÇÃO DE PROVA TESTEMUNHAL. NÃO APRESENTAÇÃO DO ROL DE TESTEMUNHAS NO PRAZO FIXADO. PRECLUSÃO. POSSIBILIDADE. CERCEAMENTO DE DEFESA AFASTADO.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
