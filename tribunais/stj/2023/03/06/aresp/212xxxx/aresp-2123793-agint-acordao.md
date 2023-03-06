@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo ESTADO DE MINAS GERAIS contra decisão por mim proferida, constante às e-STJ fls. 1.643/1.646, em que conheci do agravo para negar provimento ao recurso especial no qual o ente público postulou a anulação do acórdão recorrido por suposta infringência aos arts. 489 e 1.022 do CPC/2015.
+Nas suas razões (e-STJ fls. 1.650/1.652), o agravante reedita a sua alegação de nulidade do acórdão recorrido, ao argumento de que o Tribunal de origem teria sido omisso ao não indicar qual a questão suscitada no recurso administrativo da parte agravada que não estaria englobada na ação judicial proposta por outro coobrigado a justificar o prosseguimento do processo administrativo.
+A parte agravada apresentou impugnação (e-STJ fls. 1.655/1.669).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+No recurso especial, a Fazenda Pública agravante sustentou a nulidade do acórdão recorrido, por ofensa aos arts. 489, § 1º, VI, e 1.022, II, parágrafo único, I, do CPC/2015, porque teria sido omisso ao não mencionar qual a questão suscitada no recurso administrativo da recorrida que não estaria englobada no ação judicial ajuizada pelo coobrigado que justificasse a subsistência do processo administrativo tributário. Afirmou que, como o coobrigado pediu judicialmente a desconstituição integral do crédito lançado, não haveria razão para continuar o processo administrativo tributário em relação aos demais coobrigados, inexistindo, assim, a nulidade do PTA por cerceamento de defesa reconhecida pelas instâncias ordinárias.
+Pois bem.
+Como cediço, inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. A esse respeito, vide: AgInt no REsp 1.949.848/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe 15/12/2021; AgInt no AREsp 1.901.723/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/12/2021, DJe 10/12/2021; AgInt no REsp 1.813.698/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/12/2021, DJe 09/12/2021; AgInt no AREsp 1.860.227/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021.
+No presente caso, vejamos a fundamentação consignada no acórdão recorrido:
+Conheço da remessa necessária, porque presentes os pressupostos para a sua admissibilidade.
+O autor ajuizou a presente ação com o objetivo de ser excluído como responsável pelo débito fiscal referente à CDA nº 01 01.000185006.31 e exigido na execução fiscal de nº 1103403.97.2016.8.13.0024, e/ou a anulação do crédito tributário em relação a ela.
+Discute-se a ilegalidade da extinção do Processo Tributário Administrativo por parte do Estado de Minas Gerais em relação ao autor, em razão do ajuizamento de ação judicial pelo coobrigado Antônio Paolinelli, que teria cerceado o direito de defesa do autor, tornando nula a CDA e a Execução Fiscal originadas do referido PTA.
+A extinção do PTA decorreu da aplicação do art. 105 do Decreto Estadual nº 44.747/08, que estabelece o Regulamento do Processo e dos Procedimentos Tributários Administrativos (RPTA), nestes termos:
+ ..
+Do referido dispositivo legal extrai-se que somente quando a matéria objeto do processo administrativo for idêntica à questão objeto de ação judicial haverá prejuízo do recurso administrativo, implicando na solução final do caso na instância administrativa.
+O § 2º do art. 105 do Decreto Estadual n. 44.747/08 é expresso ao dispor que a existência no PTA de questão não abrangida pelo pedido judicial demanda o desmembramento e continuidade do PTA na esfera administrativa em relação à questão não impugnada na via judicial.
+O devido processo legal, com observância ao contraditório e à ampla defesa, deve ser respeitado nos processos administrativos, sob pena de nulidade dos atos, uma vez que o prejuízo para o autuado decorre da própria inobservância ao seu direito de defesa, o que inviabiliza a supressão da falha para convalidação dos atos praticados.
+No caso em análise, a extinção do processo administrativo e a limitação do direito de defesa do autor decorreu do ajuizamento da questão pelo coobrigado Antônio de Pádua Paolinelli Cabral, por meio da Ação Anulatória n. 1749988- 66.2013.8.13.0024.
+Ocorre que o Estado de Minas Gerais, ao extinguir o processo administrativo e não apreciar o recurso do autor, utilizando como fundamento o artigo 105 do RPTA (Decreto n. 44.747/08), não observou a ressalva de seu § 2º, pelo qual o recurso administrativo somente ficará prejudicado na parte em que a matéria for abrangida pelo pedido judicial.
+Isso porque, embora a referida norma estabeleça que a ação judicial proposta contra a Fazenda Pública Estadual implicará na extinção do PTA, prejudicando o seu julgamento, o § 2º ressalva expressamente a continuidade do PTA quanto às questão não abrangida pelo pedido judicial.
+Como a relação jurídica estabelecida entre o coobrigado Antônio Paolinelli Cabral e o Estado de Minas Gerais é distinta em relação aos demais autuados, o ajuizamento da ação anulatória por um dos coobrigados não poderia extinguir o processo administrativo em relação aos demais.
+A nulidade da CDA e o cerceamento do direito de defesa no processo administrativo em razão do ajuizamento da questão pelo coobrigado já foi apreciada por esta 4ª Câmara Cível:
+ ..
+Demonstrou-se, assim, que a extinção prematura do PTA cerceou o direito de defesa do autor, que foi privado de se defender e de obter decisão final na esfera administrativa, violando o art. 5º, incisos LIV (devido processo legal), LV (contraditório e ampla defesa) e XXXIV (direito de petição), da Constituição da República.
+Do que se observa, não há falar em negativa de prestação jurisdicional, pois a fundamentação contida no julgado a quo, partindo da interpretação da legislação estadual de regência do Processo Administrativo Tributário, é clara ao expressar a compreensão de que o ajuizamento de ação judicial somente prejudica o julgamento do recurso administrativo quando há identidade entre as matérias suscitadas, devendo prosseguir o processo administrativo em relação à questão não aventada judicialmente, de modo que o ajuizamento de demanda por coobrigado não fulmina o recurso administrativo de outro, sob pena de indevido cerceamento do direito de defesa, visto que é distinta a relação jurídica existentes entre cada um deles e o fisco.
+Nesse contexto, não é mesmo possível presumir que as exceções (defesas) apresentadas pelos coobrigados nas instâncias administrativa e judicial, que, inclusive, também podem ser de ordem pessoal, são as mesmas.
+Dito isso, reafirmo que caberia à Fazenda Pública apontar ao Tribunal de origem, inclusive nos aclaratórios lá manejados, quais seriam as questões ventiladas no recurso administrativo da parte recorrida que teriam ficado realmente prejudicadas pela ação judicial apresentada por coobrigado, sem o que não há falar em omissão sanável pela via dos embargos de declaração.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
