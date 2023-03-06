@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Universidade Federal do Rio Grande do Norte contra decisão que não conheceu recurso especial, em razão de o Tribunal de origem ter decidido a controvérsia à luz de fundamentos eminentemente constitucionais (fls. 600/603).
+Alega a parte embargante que "em decisão proferida em 22/09/2022 e publicado no DJe de 17/10/2022, o e. Superior Tribunal de Justiça qualificou e distribuiu, como representativos de controvérsia, os Recursos Especiais nº 2.005.923/AL e 2.006.464/PE, delimitando a seguinte tese controvertida (Controvérsia 461): "Definir a possibilidade de extensão do Reconhecimento de Saberes e Competências (RSC), modo especial de cálculo da Retribuição por Titulação (RT), ao servidor aposentado anteriormente à Lei 12.772/2012". Muito embora a matéria ainda não tenha sido afetada como Tema Repetitivo, a controvérsia foi reconhecida pelo c. Superior Tribunal de Justiça e se encontra pendente de julgamento, de modo que é salutar que o relator determine a suspensão, no caso concreto, para evitar a prolação de decisões contraditórias com o precedente que será firmado no julgamento repetitivo." (fls. 607/608).
+Pugna, ao fim, que "o presente processo seja sobrestado até a apreciação da Controvérsia 461 pelo Superior Tribunal de Justiça." (fl. 609).
+As razões do recurso não foram impugnadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, a matéria relativa à possibilidade de extensão do Reconhecimento de Saberes e Competências (RSC) ao servidor aposentado anteriormente à Lei 12.772/2012, não foi afetada por esta Corte ao rito dos Recursos Especiais Repetitivos, não havendo falar, portanto, em necessidade de sobrestameto.
+Ademais, cumpre observar que, ""Conforme pacificado na jurisprudência desta Corte: "A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias (AgRg na Rcl 27.689/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/11/2015, DJe de 16/11/2015)" (AgInt nos EREsp n. 1.841.540/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 16/9/2022).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas obscuridades do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
