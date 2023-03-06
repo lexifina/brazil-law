@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto contra acórdão assim ementado (fl. 157):
+Direito Penal e Processual Penal. Habeas Corpus. Tráfico de entorpecentes. Apreensão de grande quantidade de entorpecentes (5.266,38 gramas de maconha), além de duas balanças de precisão, máquina de cartão de crédito, sacos plásticos do tipo ziplock e quantia em dinheiro. Prisão preventiva. Fumus comissi delicti e periculum libertatis demonstrados. Garantia da ordem pública. Constrangimento ilegal não demonstrado. Ordem denegada.
+Colhe-se dos autos que os recorrentes foram presos preventivamente pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006
+Sustentam a ausência dos requisitos previstos no art. 312 do CPP para custódia cautelar. Alegam que não há gravidade concreta da conduta, uma vez que o crime não envolveu violência ou grave ameaça, além da pequena quantidade do entorpecente apreendido.
+Requerem, liminarmente e no mérito, a revogação da prisão preventiva, ainda que com aplicação de medidas cautelares alternativas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a prisão preventiva quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada nos seguintes termos (fls. 101-104):
+Análise sobre a necessidade de conversão do flagrante em prisão preventiva
+A redação do artigo 310 do CPP, ao tratar da conversão da prisão preventiva, exige que os requisitos do artigo 312 do referido diploma legal sejam satisfeitos e, que as medidas cautelares diversas da prisão se revelem inadequadas e insuficientes ao caso.
+Por meio da análise das peças que instruem a comunicação da prisão em flagrante, constata-se a materialidade do delito, bem como a existência de indícios de que o autuado seja, em tese, o autor da conduta a ele imputada.
+Quanto à prisão, entendo ser necessária para a manutenção da ordem pública. O crime cometido pelo autuado foi concretamente grave.
+Trata-se de tráfico e associação para o tráfico.
+Os policiais foram ao local após notícia de que o autuado Eric estaria abertamente traficando drogas na sua residência e que a residência do vizinho, Carlos estaria servindo de depósito.
+ ..
+Visualizaram o momento em que um usuário entrou na residência de Eric e, após a abordagem foi encontrada porção de maconha que admitiu ter adquirido no local.
+A irmã do autuado Eric franqueou o acesso ao local, dizendo que não concordava com a conduta do autuado. Foram encontradas três porções de maconha em cima de uma mesa, em cima do telhado, foi encontrada uma caixa de plástico, tendo em seu interior uma máquina de cartão, uma balança de precisão e várias porções de maconha. Na lateral direita, no telhado da vizinha, foi encontrada uma sacola preta com várias porções de maconha.
+O vizinho dos fundos solicitou a presença da guarnição, pois Eric teria dispensado lá uma sacola, e os policiais encontraram várias porções da droga conhecida popularmente como ""skank"".
+Na residência do autuado Carlos Daniel, em duas mochilas escondidas entre a caixa d água e a residência vizinha, foram encontrados tijolos de maconha.
+A quantidade de entorpecente é significativa (total de mais de 5kg) e foram apreendidos objetos que demonstram a prática reiterada do delito, como balança de precisão. Foram encontradas porções em pequenos sacos de plástico, o que demonstra o acondicionamento para posterior revenda.
+ ..
+O autuado Eric Silvestre é primário. O autuado Carlos Daniel responde por delito de roubo. Embora ambos sejam primários, o modo de agir demonstra que o ato não é isolado, sendo que, se colocados em liberdade certamente voltarão a se envolverem em situações semelhantes. Nesse cenário de gravidade em concreto dos fatos em apuração e de reiteração criminosa, a concessão de liberdade provisória com medidas diversas da prisão não é recomendável, ante a necessidade de se resguardar a ordem pública da prática de novas infrações penais.
+Por fim, não foram verificadas nenhuma das hipóteses do artigo 318 do CPP para fundamentar a prisão domiciliar do autuado (gravidez ou imprescindibilidade aos cuidados de filhos menores), especialmente porque essa conversão exige prova idônea (ausente, ao menos por ora, neste caderno processual).
+Conforme se observa, há fundamentação idônea para custódia cautelar dos recorrentes, uma vez que destacado que foi apreendida quantidade significativa de entorpecente (115 porções de maconha, totalizando 5.266,38kg) e foram apreendidos objetos que demonstram a prática reiterada do delito, como balança de precisão e porções em pequenos sacos de plástico, o que demonstra o acondicionamento para posterior revenda.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos gen éricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Dessa forma, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
