@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por PAGSEGURO INTERNET S.A em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 545-546):
+AÇÃO COMINATÓRIA - AÇÃO DE OBRIGAÇÃO DE NÃO FAZER SUSPENSÃO DE VEÍCULAÇÃO DE ANÚNCIO DO SANTANDER GETNET NOS MEIOS DE COMUNICAÇÃO Propaganda lançada em01/08/2019 pelo SANTANDER GETNET, veiculada no intervalo do Jornal Nacional da Globo e no YouTube. O anúncio traz como protagonista a atriz FERNANDA TORRES, apresentando um novo produto lançado pelo SANTANDER GETNET, que é o SUPERGET MOBILE, anunciado como a "solução de portabilidade" de maquininhas de cartão Do acervo probatório, o comercial veiculado pela ré SANTANDER GETNET não tem cunho depreciativo, nem faz uso parasitário da marca da autora, a caracterizar concorrência desleal - Apesar de ser possível associar a máquina da autora ("minizinha") pelo uso da cor amarela, o comercial veiculado pela ré não faz menção expressa ao nome "PAG SEGURO", tampouco há uso de termos ou expressões ofensivas ou aviltantes a tal marca Inexistência de conteúdo depreciativo da imagem da autora, ou situação que encerre potencial risco de confusão aos consumidores, desvio de clientela, concorrência desleal ou uso parasitário da marca Sentença de improcedência mantida RECURSO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 567-571).
+Nas razões do especial (e-STJ, fls. 574-586), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 130, 195, incisos I, II, III e V, e 209 da Lei nº 9.279/96, defendendo o caráter depreciativo da propaganda veiculada pelo recorrido e pugnando pelo reconhecimento da concorrência desleal, porquanto além de utilizar indevidamente a identidade visual (conjunto imagem) do PAGSEGURO, faz sérias acusações, com nítido propósito de auferir vantagem, que é justamente o desvio de clientela. Aduziu, ainda, que caracteriza-se como ilícita a publicidade que desacredita de forma gratuita a imagem de empresa concorrente;
+b) arts. 371 e 375 do CPC/15, alegando que o Tribunal a quo deixou de apreciar as provas constantes dos autos.
+Oferecidas as contrarrazões às fls. 635-654 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 658-660, e-STJ), o que ensejou o manejo do agravo (fls. 678-693, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 780-784), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 7/STJ e 211/STJ.
+No presente agravo interno (e-STJ, fls. 788-805), a ora agravante combate os óbices supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 808-825 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AUTORA.
+1. No caso, para reformar o entendimento da instância ordinária e reconhecer a existência de conteúdo depreciativo na publicidade veiculada pelo recorrido, bem como concluir pela caracterização de concorrência desleal, como pretende a parte agravante, seria imprescindível o reexame de matéria fático-probatória, prática vedada pela Súmula 7/STJ.
+2. A ausência de enfrentamento dos arts. 371 e 375 do CPC do CPC/15, pelo Tribunal de origem, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, não havendo falar em prequestionamento ficto dada a não interposição do reclamo pela violação ao art. 1.022, do NCPC. Incidência da Súmula 211 do STJ. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Em relação à alegada ofensa aos arts. 130, 195, incisos I, II, III e V, e 209 da Lei nº 9.279/96, a decisão agravada merece ser mantida.
+Em suas razões recursais, a recorrente defendeu o caráter depreciativo da propaganda veiculada pelo recorrido; pugnou pelo reconhecimento da concorrência desleal, e aduziu, ainda, que caracteriza-se como ilícita a publicidade que desacredita de forma gratuita a imagem de empresa concorrente.
+Sobre o tema, o Tribunal de origem, soberano na apreciação do acervo fático-probatório dos autos, asseverou o seguinte (e-STJ, fl. 554):
+Em que pesem as alegações da apelante, ao apresentar fatos novos, afirmando que a ora apelada ajuizou ação contra a empresa AKIREDE, pretendendo obstar a prática de concorrência desleal, consubstanciada na identidade visual da máquina de pagamento GETNET, reconhecida no mercado pela cor vermelha, o recurso não comporta guarida (fls. 481/490). No caso em apreço, não se discute que a autora é detentora da marca "PAGSEGURO", utilizando de suas máquinas com a cor predominante amarela. Contudo, o acervo probatório demonstra que o comercial veiculado pela ré SANTANDER GETNET não tem cunho depreciativo, nem faz uso parasitário da marca da autora, a caracterizar concorrência desleal Como dito, apesar de ser possível associar a máquina da autora ("minizinha") pelo uso da cor amarela, o comercial veiculado pela ré não faz menção expressa ao nome "PAG SEGURO", tampouco há uso de termos ou expressões ofensivas ou aviltantes a tal marca. As frases "Muita gente esconde a verdade por interesse. Não é transparente. Se você comprou uma maquininha, deveria ser livre até para fazer dela outra maquininha e usar com quem te dá mais benefícios. Afinal, é sua", não fazem alusão ao produto que a autora comercializa. Veja-se que o comercial faz referência à possibilidade de portabilidade das máquinas, e não de sua venda. Ou seja, ainda que ambas as empresas atuem no ramo de meio de pagamentos, trata-se de produtos distintos, sendo impossível falar em risco de confusão entre os consumidores. Somado a isso, não restou comprovada a veracidade dos anúncios espalhados pela cidade, como alegado pela autora PAG SEGURO em sua petição inicial. Ao revés, ela própria reconhece que se trata de mero material publicitário retirado das redes sociais, e que sequer foi utilizado pela ré GETNET (fls. 228/229).
+(..)
+Nesse contexto, não se vislumbra qualquer conteúdo depreciativo da imagem da autora, ou situação que encerre potencial risco de confusão aos consumidores, desvio de clientela, concorrência desleal ou uso parasitário da marca.
+Nesse contexto, derruir a conclusão da instância ordinária e reconhecer a existência de conteúdo depreciativo na publicidade veiculada pelo recorrido, bem como concluir pela caracterização de concorrência desleal, seria necessário o revolvimento de fatos e provas, prática vedada pela Súmula 7/STJ.
+Nesse sentido:
+RECURSO ESPECIAL. MARCA. ABSTENÇÃO DE USO E INDENIZAÇÃO. SINAL SUGESTIVO. EXCLUSIVIDADE. MITIGAÇÃO. CONCORRÊNCIA DESLEAL. CONFUSÃO. NÃO OCORRÊNCIA.
+(..)
+5. Na hipótese, rever o entendimento do Tribunal de origem, que concluiu que a confusão nos fiéis e a concorrência desleal não se caracterizaram, exigiria o reexame de provas, procedimento vedado pela Súmula nº 7/STJ.
+6. Recurso especial não provido.
+(REsp n. 1.912.519/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/6/2022, DJe de 17/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER CUMULADA COM INDENIZATÓRIA. DANO MORAL. LUCROS CESSANTES. CONCORRÊNCIA DESLEAL. INEXISTÊNCIA. REEXAME DE MATÉRIA PROBATÓRIA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O eg. Tribunal de origem, com fundamento nas provas trazidas aos autos, reconheceu a inexistência de dano moral ou material, ou concorrência desleal por parte do recorrido, decorrentes da reprodução indevida de apenas uma imagem de um produto da recorrente, constante em seu endereço eletrônico.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.697.806/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/6/2021, DJe de 1/7/2021.)
+2. Em que pese a irresignação da parte agravante, o exame dos autos revela que a matéria contida nos arts. 371 e 375 do CPC, apontados como violados, é estranha ao acórdão recorrido, faltando-lhes o indispensável prequestionamento, do qual não estão isentas nem mesmo as questões de ordem pública, por força do próprio comando constitucional que prevê o recurso especial.
+Cabe destacar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inafastável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Sumula 211/STJ.
+Acrescente-se que, a despeito de ratificar o prequestionamento da matéria supracitada, a agravante não alegou ofensa do art. 1022 do CPC/15 - medida absolutamente necessária ao enfrentamento de possível negativa de prestação jurisdicional por esta Corte Superior. Nesse sentido, confira-se a orientação dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA CONHECER EM PARTE DO APELO EXTREMO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO. INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+2.A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282 do STF.
+2.1. O prequestionamento ficto, invocado pela agravante, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, pois somente dessa forma o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. OMISSÃO. NÃO VERIFICADA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. FICTO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração. Súmula nº 211/STJ.
+4. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+(..)
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.910.672/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
