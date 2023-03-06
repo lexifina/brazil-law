@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO PEREIRA DOS SANTOS ALVES contra decisão que não admitiu recurso especial, fundamentado na alínea a do permissivo constitucional, que desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (e-STJ fl. 719):
+REVISÃO CRIMINAL. LATROCÍNIO. ILEGALIDADE OU AUSÊNCIA DE PROVAS PARA FUNDAMENTAR A CONDENAÇÃO. INOBSERVÂNCIA DO RITO PRECONIZADO NO ARTIGO 226, DO CPP. REDISCUSSÃO DA MATÉRIA APRECIADA EM SEDE DE APELAÇÃO CRIMINAL. NÃO CABIMENTO. Não servindo a via eleita como sucedâneo recursal e verificado que a pretensão do requerente não se amolda a nenhuma das hipóteses previstas no artigo 621, do Código de Processo Penal, buscando-se, tão somente, o reexame de matéria já apreciada em sede de Sentença, julga-se improcedente a presente ação. REVISÃO CRIMINAL IMPROCEDENTE.
+O agravante foi condenado à pena de 20 anos de reclusão em regime inicial fechado, e ao pagamento de 30 dias-multa, por infringência ao art. 157, § 3º, II, do Código Penal.
+O Tribunal de origem julgou improcedente a revisão criminal (e-STJ fls. 714-721).
+Nas razões do recurso especial alega: a) violação dos arts. 226 e 386, V e VII, do Código de Processo Penal; b) "o magistrado fundamentou a condenação com base em reconhecimento realizado por fotografia e imagens de segurança, sem ter colocado o recorrente com outras pessoas para ser realizado o reconhecimento" (e-STJ fl. 730); c) "não há nenhuma prova independente que permitisse à acusação chegar a autoria delitiva" (e-STJ fl. 734); e d) "a autoria delitiva não foi corroborada por outras provas colhidas na fase judicial sob o crivo do contraditório e da ampla defesa, sobretudo porque a todo momento a autoria delitiva recaiu sobre o corréu MACIEL, pois ele é confessou que efetuou os disparos" (e-STJ fl. 740).
+Contrarrazões apresentadas às e-STJ fls. 752-759.
+O Tribunal a quo inadmitiu o apelo extremo por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 768-773).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo, ou caso conhecido, pelo desprovimento (e-STJ fls. 789-795).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever os seguintes trechos do acórdão impugnado (e-STJ fls. 716-719):
+A defesa do requerente pugna (mov. 01, arq. 01) pela absolvição, sob o argumento de ilicitude das provas produzidas na persecução penal respectiva, ante a inobservância do rito preconizado pelo art. 226, do Código de Processo Penal, para o reconhecimento de pessoas.
+De início, merece ser salientado que a Revisão Criminal constitui uma ação penal originária própria dos tribunais, que tem por finalidade desconstituir sentença condenatória ou acórdão transitado em julgado. Objetiva, por excelência, corrigir excepcionais casos de erro judiciário, equivalendo à ação rescisória civil.
+ ..
+Desse modo, por atacar a coisa julgada, somente será admitida se houver adequação em ao menos uma das hipóteses taxativamente enumeradas no artigo 621, do Código Processual Penal, ou seja, o processo findo só será revisto "quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos" (inciso I); ou "quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos" (inciso II) ou, por fim, "quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena" (inciso III).
+Diante desse cenário, certo que o Magistrado singular observou com acuidade todas as provas que formaram seu convencimento para ensejar uma condenação.
+Assim sendo, o que se tem, na verdade, é que o requerente busca a reavaliação do pleito, sem contudo, apontar qualquer erro técnico ou afronta a texto expresso da lei penal.
+ ..
+Desse modo, não procede a pretensão posta, já que a Revisão Criminal não autoriza o mero reexame do conjunto probatório ou da pena, como se recurso de apelação fosse, para que o Tribunal aplique à hipótese o seu particular convencimento.
+Para a rescisão do julgado sob tal argumento, imprescindível que a sentença tenha recaído em evidente erro e esteja completamente dissociada da prova produzida na instrução processual, ou que houvesse vício intransponível na dosimetria da pena, o que não é o caso.
+O Colegiado a quo, com amparo nas provas constantes dos autos, julgou improcedente a revisão criminal destacando o desatendimento aos requisitos do art. 621 do CPP, porquanto "a Revisão Criminal não autoriza o mero reexame do conjunto probatório ou da pena, como se recurso de apelação fosse, para que o Tribunal aplique à hipótese o seu particular convencimento" (e-STJ fl. 718).
+A reforma do julgado não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório dos autos, providência incabível em recurso especial, conforme consolidado na Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. LATROCÍNIO TENTADO. UTILIZAÇÃO DA VIA COMO SE RECURSO FOSSE. NÃO CABIMENTO. ABSOLVIÇÃO E PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (ut, HC 206.847/SP, Rel. Ministro NEFI ORDEIRO, Sexta Turma, DJe 25/02/2016).
+2. A questão referente à participação de menor importância demanda o revolvimento do conteúdo fático-probatório dos autos, providência inadmissível na via do recurso especial. Incidência do enunciado n. 7 da Súmula desta Corte.
+3. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 1.954.937/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E DANO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. ART. 621, III, DO CPP. PROVA NOVA. VERSÃO DE TESTEMUNHA QUE INOCENTA O ACUSADO. PLEITO ABSOLUTÓRIO. PRETENSÃO INVIÁVEL NO JUÍZO RESCISÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/2/2016).
+3. A condenação do agravante encontrou base no acervo probatório produzido nos autos, não havendo que se falar em contrariedade ao texto legal ou à evidência dos autos, tampouco que estivesse lastreada em depoimentos, exames ou documentos comprovadamente falsos, se desse ônus não se desincumbiu a defesa do insurgente.
+Isso porque, conforme bem colocado pela Corte estadual, não soa razoável a nova versão apresentada pela testemunha, sobretudo por se tratar de segunda revisão criminal ajuizada pela defesa, com o mesmo fundamento de prova nova lastreado em terceira versão de testemunha, a qual já fora julgada improcedente sob o fundamento de a condenação do agravante estar lastreada em todo o conjunto probatório da ação penal.
+(..)
+5. Neste sentido, a desconstituição do entendimento consolidado pela Corte de origem demandaria dilação probatória, inviável no julgamento de recurso especial, conforme o óbice da Súmula n. 7 do STJ.
+6. Agravo regimental não provido.
+(AgRg no AREsp 1.390.878/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/10/2020, DJe de 12/11/2020.)
+Por fim, o Tribunal de origem não analisou a alegada ofensa aos arts. 226 e 386, V e VII, do Código de Processo Penal, o que impede a apreciação por esta Corte, nos termos das Súmulas 282 e 356/STF.
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
