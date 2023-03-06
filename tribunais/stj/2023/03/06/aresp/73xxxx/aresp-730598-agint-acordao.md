@@ -1,0 +1,6 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PEÇA OBRIGATÓRIA. CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA. INTELIGÊNCIA DO ART. 525 DO CPC/1973. NÃO COMPROVAÇÃO DA TEMPESTIVIDADE RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte perfilha entendimento de que o agravo de instrumento previsto no art. 522 do CPC/1973 pressupõe a juntada das peças obrigatórias, bem como aquelas essenciais à correta compreensão da controvérsia, nos termos do art. 525, I e II, do referido Código, de modo que a ausência das peças obrigatórias obsta o conhecimento do agravo, não sendo possível a conversão do julgamento em diligência para complementação do traslado nem a posterior juntada destas.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Raul Araújo.
