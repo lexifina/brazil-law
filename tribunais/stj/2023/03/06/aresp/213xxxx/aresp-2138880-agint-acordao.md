@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto de decisão monocrática da Presidência do STJ (fls. 325326, e-STJ) que não conheceu do Agravo em Recurso Especial, com base na intempestividade.
+A parte agravante sustenta, em suma (fl. 353, e-STJ):
+De início impende destacar que em virtude do feriado nacional do dia 07 de Setembro de 2021 (Independência do Brasil) não houve expediente forense nos dias 6 e 7 de Setembro/2021 tanto no Tribunal de Justiça do Estado de São Paulo conforme se denota do Provimento CSM nº2.584/2020 e da Portaria STJ/GP nº 2, de 11 de Janeiro de 2021, com redação alterada pela Portaria STJ/GP nº 284, de 1º de Setembro de 2021 (fls. e- 333/335).
+Note-se, assim, que a contagem do prazo iniciado no dia 02/09/2021, nos termos do art. 219 e art. 1.003, §5º do Código de Processo Civil, findou-se no dia 24/09/2021, sendo, portanto, tempestivo.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. EXIGÊNCIA DE DOCUMENTO IDÔNEO.
+1. A decisão monocrática da presidência do STJ assentou: "Mediante análise do recurso de RODRIGO RIBEIRO DELOCCO, a parte recorrente foi intimada do acórdão recorrido em 01/09/2021, sendo o recurso especial interposto somente em 24/09/2021. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil." (fl. 325, e-STJ).
+2. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do Recurso, o que impossibilita regularização posterior.
+3. No julgamento do REsp. 1.813.684/SP, a Corte Especial reafirmou o entendimento segundo o qual é necessário demonstrar, no ato de interposição do Recurso, a existência de feriado local por meio de documento idôneo. Todavia, segundo a modulação de efeitos determinada no referido Recurso, admitiu-se a comprovação posterior da tempestividade dos Recursos dirigidos ao STJ, protocolados até 18/11/2019, em relação ao feriado da segunda-feira de carnaval.
+4. A Corte Especial do STJ, no julgamento do AgInt no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021, concluiu que não se deve estender a modulação do entendimento firmado no REsp 1.813.684/SP para outros feriados locais, ou seja, consolidou o entendimento de que a comprovação posterior da tempestividade dos Recursos dirigidos ao STJ somente é permitida quando se refira ao feriado da segunda-feira de Carnaval, não sendo admitida quanto às demais hipóteses de suspensão dos prazos processuais na origem.
+5. Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos, para os processos físicos, no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, bem como Portaria nº 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido verificada no momento da interposição do Recurso.
+6. Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem no ato da interposição do Agravo em Recurso Especial, e, ademais, considerando que a hipótese em tela não incide na modulação de efeitos delineada pela Corte Especial no REsp 1.813.684/SP, inafastável o decreto de intempestividade desse recurso.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30.11.2022.
+A decisão monocrática da presidência do STJ assentou (fl. 325, e-STJ):
+(..)
+Mediante análise do recurso de RODRIGO RIBEIRO DELOCCO, a parte recorrente foi intimada do acórdão recorrido em 01/09/2021, sendo o recurso especial interposto somente em 24/09/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+(..)
+Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do Recurso, o que impossibilita a regularização posterior.
+No julgamento do REsp. 1.813.684/SP, a Corte Especial reafirmou o entendimento segundo o qual é necessário demonstrar, no ato de interposição do recurso, da existência de feriado local por meio de documento idôneo. Todavia, segundo a modulação de efeitos determinada no referido recurso, admitiu-se a comprovação posterior da tempestividade dos recursos dirigidos ao STJ, protocolados até 18/11/2019, em relação ao feriado da segunda-feira de carnaval.
+A Corte Especial do STJ, no julgamento do AgInt no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021, concluiu que não se deve estender a modulação do entendimento firmado no REsp 1.813.684/SP para outros feriados locais, ou seja, consolidou o entendimento de que a comprovação posterior da tempestividade dos recursos dirigidos ao STJ somente é permitida quando se refira ao feriado da segunda-feira de Carnaval, não sendo admitida quanto às demais hipóteses de suspensão dos prazos processuais na origem.
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos, para os processos físicos, no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, bem como Portaria 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido verificada no momento da interposição do Recurso, o que não ocorreu no presente caso. Precedentes do STJ.
+Para efeito de tempestividade, a prova de feriado local e da suspensão de prazos processuais na Corte local deve ser feita pela parte interessada por meio de documento idôneo.
+Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem no ato da interposição do Agravo em Recurso Especial, e, ademais, considerando que a hipótese em tela não incide na modulação de efeitos delineada pela Corte Especial no REsp 1.813.684/SP, inafastável o decreto de intempestividade deste Recurso.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
