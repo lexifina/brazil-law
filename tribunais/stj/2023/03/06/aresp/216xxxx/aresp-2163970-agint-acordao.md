@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/02/2023 a 06/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se inferir que TIAGO REIS PEREIRA, RODRIGO SIMÓES CASTILHO e CAROLINA ALMEIDA VIEIRA (TIAGO e outros) promoveram ação revisional cumulada com repetição de indébito e consignação em pagamento contra MIRANTE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (MIRANTE), objetivando a declaração de abusividade da cláusula nº 2.2 do contrato firmado entre as partes, de modo que fossem expurgados os juros capitalizados e houvesse a atualização das prestações de forma simples e não composta. Pleitearam, ainda, a concessão da tutela provisória de urgência para que fosse autorizada, de forma liminar, a consignação em pagamento das prestações vincendas atualizadas de forma simples, afastando-se a cobrança de juros capitalizados até a decisão final da demanda.
+Em primeira instância, o d. Juízo não concedeu a tutela provisória de urgência ao argumento de falta da necessária verossimilhança das alegações atinentes à abusividade de encargos.
+Dessa decisão, TIAGO e outros interpuseram agravo de instrumento, alegando que firmaram contrato de compra e venda com MIRANTE, optando pelo financiamento imobiliário direto com a incorporadora/construtora. Ressaltaram que, com o tempo, a atualização monetária das prestações começou a gerar valores exorbitantes. Destacaram que contataram profissional habilitado que confeccionou um parecer técnico contábil, anexado aos autos, que demonstrou a cobrança de juros sobre juros, ou seja, capitalização composta. Sustentaram que MIRANTE aplica tal prática sem autorização legal ou contratual. Pugnaram pela antecipação dos efeitos da tutela recursal, para que seja autorizada a consignação em pagamento das prestações vincendas atualizadas de forma simples.
+O agravo de instrumento interposto por TIAGO e outros foi parcialmente provido pelo Tribunal de Justiça de Minas Gerais para, confirmando a medida antecipatória deferida, autorizar o pagamento das parcelas com exclusão dos juros capitalizados, nos termos do acórdão relatado pela Des.ª CLÁUDIA MAIA, assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO CONTRATUAL. TUTELA DE URGÊNCIA. CAPITALIZAÇÃO MENSAL DE JUROS. INSTITUIÇÃO QUE NÃO INTEGRA O SISTEMA FINANCEIRO NACIONAL. IMPOSSIBILIDADE. PROBABILIDADE DO DIREITO. PERIGO DE DANO. PRESENÇ A. 1. Nos termos da norma estabelecida no caput do art. 300 do Código de Processo Civil, poderá ser liminarmente deferida a tutela de urgência quando "houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo". 2. Uma vez presentes os requisitos previstos no artigo 300 do C P C , vale dizer, a verossimilhança das alegações somada ao fundado receio de dano irreparável ou de difícil reparação, a concessão da tutela antecipada é medida de rigor. 3. Revela-se bastante à formação de juizo de verossimilhança de pleito revisional a presença de laudo técnico contábil, no qual se apurou a ocorrência de capitalização mensal dos juros, prática, com o se sabe, vedada às instituições que não integram o Sistema Financeiro Nacional (e-STJ, fl. 322).
+O agravo interno interposto por TIAGO e outros foi considerado prejudicado.
+Inconformada, MIRANTE manejou recurso especial, com amparo no art. 105, III, alíneas a e c, da CF, alegando violação dos arts. 104 e 394 do CC/2002, além de divergência jurisprudencial. Sustentou não ser possível a suspensão da cobrança, pois o contrato entabulado é válido e deve ser observado o princípio do pacta sunt servanda.
+O apelo nobre interposto por MIRANTE não foi admitido em virtude da incidência da Súmula n.º 735 do STF.
+Seguiu-se o agravo em recurso especial que, por decisão monocrática da relatoria da Ministra Presidente do STJ, dele não conheceu, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, MIRANTE alegou que (1) foram impugnados especificamente os fundamentos da decisão agravada; e (2) foram violados os arts. 5º, LV, e 93, IX, da CF.
+Não houve impugnação ao recurso (e-STJ, fls. 537/539).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. NÃO SE CONHECEU DO AGRAVO.
+1. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a incidência da Súmula n.º 735 do STF, que levou ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula n.º 182 do STJ.
+2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+3. Não se conheceu do agravo interno.
+VOTO
+O recurso não merece conhecimento.
+Incide ao caso a Súmula n.º 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a aplicação da Súmula n.º 735 do STF.
+Isso porque, nas razões do presente agravo interno, MIRANTE limitou-se a alegar que (1) foram impugnados especificamente os fundamentos da decisão agravada; e (2) foram violados os arts. 5º, LV, e 93, IX, da CF.
+Na hipótese, MIRANTE olvidou-se de infirmar o óbice apontado, tendo apenas afirmado que foram impugnados especificamente os fundamentos da decisão agravada, o que acarreta a aplicação da Súmula n.º 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n.º 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula n.º 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Outrossim, nas razões do agravo interno, MIRANTE alegou contradição dos arts. 5º, LV, e 93, IX, da CF.
+No entanto, tal assertiva é tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, do qual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Assim, porque os argumentos que MIRANTE trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula n.º 182 desta Corte.
+Nessas condições, NÃO CONHEÇO do agravo interno.
+É o voto.
