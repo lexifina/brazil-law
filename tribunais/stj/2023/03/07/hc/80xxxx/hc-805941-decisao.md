@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de JOÃO HENRIQUE CAETANO DA SILVA contra decisão liminar de Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2002934-91.2023.8.26.0000).
+Segundo consta dos autos, o paciente foi preso preventivamente pela suposta prática do crime de tráfico de drogas, porque estava na posse de 38 porções de cocaína, pesando 32 gramas.
+Na ação originária, a defesa postulou a revogação da prisão preventiva, alegando a pequena quantidade de drogas encontradas em poder do paciente. O Relator da ação na origem, contudo, indeferiu a liminar (e-STJ fl. 69).
+Nas razões da presente impetração, a defesa reafirma que, a ausência de fundamentos idôneos para a prisão preventiva, ressaltando a pequena quantidade de drogas encontradas na posse do paciente.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva da paciente, tudo com superação do enunciado n. 691/STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 73 - grifei ):
+ ..
+Ademais, conforme bem apontou o juiz a quo, embora não se trate de expressiva quantidade de droga apreendida, o Paciente possui condenação anterior por crime da mesma espécie (fl. 35), a justificar, desde logo, a necessidade de sua custódia cautelar a fim de se garantir a ordem pública, mesmo em face de outras circunstâncias favoráveis, conforme jurisprudência pacífica.
+Efetivamente, "conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
