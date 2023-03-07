@@ -1,0 +1,7 @@
+DECISÃO
+Em atendimento a decisões proferidas nos embargos conexos, a Coordenadoria de Processamento de Feitos em Execução Judicial apresentou informações e cálculos, com os quais ambas as partes anuíram.
+Ante o exposto, homologo os cálculos de fls. 384-417 e determino a expedição das requisições de pagamento, com destaque de honorários advocatícios contratuais, observados os instrumentos de fls. 306-308 e 327-328 e as informações prestadas relativas à divergência de nome de RAQUEL TERESA MARTINS PERUCH (fls. 419-423 e 682-712 dos embargos conexos).
+Intime-se o exequente para indicar se autoriza o decote/abatimento, diretamente nas requisições de pagamento, da sucumbência apurada na coluna G da fl. 417 (art. 18-C da Resolução CJF n. 458/2017, com redação dada pela Resolução CJF n. 670/2020, c/c o art. 25 da Instrução Normativa STJ/GP n. 3/2014). Havendo concordância, fica desde logo autorizada a realização da providência.
+Determino, também, a expedição da requisição de pagamento relativa à sucumbência, a ser requisitada em favor de TEIXEIRA E LOPES ADVOGADOS ASSOCIADOS e MENDES PLUTARCO ADVOCACIA E CONSULTORIA, na proporção de 50% (cinquenta por cento) para cada, consoante instrumento de fls. 331-333.
+Diante da proximidade do prazo limite para inclusão de precatórios no orçamento com previsão de pagamento no exercício de 2024 (art. 100, §5º, da Constituição Federal), e levando-se em consideração a concordância das partes, a expedição deverá ser providenciada independentemente do prazo recursal.
+Publique-se. Intimem-se.
