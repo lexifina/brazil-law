@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela Companhia Energética do Ceará - ENEL em face de decisão que não conheceu do recurso especial, sob os fundamentos de que: (I) incide a Súmula 7/STJ no tocante ao enquadramento da parte recorrida, dada a necessidade de reexame de matéria fático-probatória; e (II) aplica-se a a Súmula 282/STF, por falta de prequestionamento do art. 21 da Lei n. 4.717/65.
+A embargante, em suas razões, sustenta que a decisão embargada é omissa quanto aos seguintes temas:
+(I) a ilegitimidade ativa da parte, em decorrência de inexistência de relação consumerista, bem como em face "da ausência de autorização expressa dos associados e ausência de lista d e empresas as quais a associação representa" (fl. 1537). Acrescenta que a análise do tema não depende de reexame de fatos e de provas;
+(II) a impossibilidade de inversão do ônus da prova;
+e (III) houve o efetivo prequestionamento do art. 21 da Lei n. 4.717/65 no acórdão recorrido, não sendo caso de aplicação da Súmula 282/STF.
+Pugna, pois, pelo acolhimento dos embargos de declaração, para sanar as omissões apontadas.
+A parte embargada não apresentou impugnação (fl. 655).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado na decisão embargada o seguinte (fls. 1528/1529):
+O Tribunal de origem classificou a ora recorrida como consumidora, reiterou a aplicação do CDC ao caso concreto e manteve a sentença primeira, nestes termos (fls. 973/980):
+Inicialmente cumpre destacar que, a par das alegações recusais, a Associação Brasileira de Consumidores de Água e Energia Elétrica - ASSOBRAEE, fundada em 03 de junho de 1991, tem como objetivo, dentre outros, proporcionar aos seus associados, relativamente a área de fornecimento de água e energia elétrica, serviços de assistência jurídica, e de um modo geral, prestação de serviços securitários, econômico-financeiro, para resguardo de seus direitos e interesses, na forma do Código de Defesa do Consumidor, sem prejudicar as disposições deste estatuto.
+11. Em sendo assim, vislumbra-se que aplicação da Lei Consumerista é devida ao presente caso, já que a teoria finalista mitigada disciplina que as pessoas jurídicas industriais, ora substituídas pela associação apelada, podem ser enquadradas como consumidores, perante a inequívoca vulnerabilidade dos usuários industriais de energia elétrica frente as concessionárias de tal serviço. (..)
+12. Ante os julgados acima transcritos, não resta dúvida de que os substituídos são consumidores, portanto é cabível a inversão do ônus da prova, o que acaba por rechaçar o pleito da recorrente.
+13. Ademais, como já decidido pelo Superior Tribunal de Justiça, é desnecessária a autorização dos associados para a propositura de demanda que envolvam direitos e interesses homogêneos, como é o caso dos presentes autos
+(..)
+17. Em relação a argumentação de que a concessionária de energia elétrica somente teria obrigação de manter em seus arquivos os faturamentos de consumo dos últimos 5 (cinco) anos, esta não procede, posto que uma Resolução não pode subjugar o prazo prescricional disposto no Código Civil, o qual preceitua que a prescrição para ajuizar a pretensão de repetição de indébito é vintenária, consoante disposto no art. 177 do Código Civil de 1916, visto que a tarifa de energia elétrica não tem natureza tributária.
+Como se vê, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, de modo a se afastar o enquadramento consumerista da parte recorrida demandaria, necessariamente, reexame fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+Ressalte-se que, na petição de apelo nobre, a questão relativa à inversão do ônus da prova está vinculada à caracterização da parte agravada como consumidora. Assim, os temas suscitados no recurso especial não foram conhecidos na decisão embargada ante a aplicação do óbice da Súmula 7/STJ.
+Quanto à prescrição, o decisum embargado concluiu que o art. 21 da Lei n. 4.717/65 não foi objeto de enfrentamento pelo acórdão proferido pelo Tribunal local. Note-se que, embora o voto condutor do acórdão recorrido tenha se manifestado sobre a questão da prescrição, não decidiu o tema com enfoque no aludido dispositivo de lei, razão pela qual se aplicou o óbice da Súmula 282/STF,
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
