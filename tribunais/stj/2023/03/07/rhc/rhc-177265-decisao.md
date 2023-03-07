@@ -1,0 +1,8 @@
+DECISÃO
+O recorrente alega sofrer constrangimento ilegal em decorrência de ato atribuído ao Tribunal de Justiça do Estado do Paraná, em que foi mantida sua prisão preventiva.
+De plano, verifico que a inicial do mandamus não veio acompanhada de cópia do decreto de prisão preventiva impugnado, deficiência que impede a compreensão da controvérsia e inviabiliza a identificação do alegado vício de motivação do ato judicial.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, pois não comporta dilação probatória ou conversão em diligência.
+É obrigatório à parte - sobretudo quando assistida por profissional - apresentar documentos suficientes para a aferição de patente ilegalidade no ato atacado na impetração.
+Ademais, ao que parece, pois existe esse registro no acórdão do Tribunal de origem, o édito prisional indicou a periculosidade do suspeito, revelada pela apreensão de "cerca de 1kg de maconha e 100g de cocaína" e "enorme quantidade de pinos ependorf para o fracionamento e distribuição" da substância (fl. 136) para justificar o receio de reiteração delitiva. Nesse contexto, a pretensão vai de encontro à jurisprudência desta Corte, firme em assinalar que "a manutenção da prisão preventiva está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pela apreensão de grande quantidade de drogas, o que justifica a segreg ação cautelar para garantia da ordem pública" (AgRg no RHC n. 173.924/MG, relatora Ministra Laurita Vaz, 6ª T., DJe de 14/2/2023).
+À vista do exposto, não conheço do recurso ordinário.
+Publique-se e intimem-se.
