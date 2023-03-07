@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SANTIAGO GASULL FERNANDEZ, contra decisão proferida por em. Desembargador do Tribunal de Justiça do Estado de São Paulo, (Habeas Corpus Criminal Nº: 2240944-60.2022.8.26.0000).
+Depreende-se dos autos que, por meio de r. decisium de em. Desembargador do eg. Tribunal de origem, foi indeferido "o processamento, determinando o arquivamento" do habeas corpus originário, (fl. 11).
+Verbis:
+"Trata-se de habeas corpus impetrado em favor de Santiago Gassuk Fernandez, figurando como autoridade coatora a C. 16ª Câmara de Direito Criminal deste Tribunal de Justiça.
+Decido.
+O presente habeas corpus não apresenta condições de admissibilidade.
+Isto porque o artigo 37, § 1º, do Regimento Interno do Tribunal de Justiça do Estado de São Paulo não mais prevê a competência do Grupo de Câmaras para conhecer de writ ajuizado contra decisão de uma das Câmaras julgadoras.
+Nem há, no mesmo regimento interno, previsão de competência de outro órgão interno do Tribunal de Justiça para conhecimento do mandamus impetrado contra v. acórdão proferido por uma das Câmaras Criminais.
+Inexiste, assim, previsão regimental para que o Tribunal de Justiça, por seus diversos órgãos, reveja decisão de uma das suas Câmaras Criminais, cabendo, tão somente, recursos ou ações autônomas de impugnação junto aos Tribunais Superiores.
+Da mesma forma, devendo ser o habeas corpus dirigido ao Superior Tribunal de Justiça e havendo impossibilidade de remessa destes autos ao aludido Sodalício, por absoluta incompatibilidade do sistema informatizado, imperativa a repetição da impetração, mas diretamente ao Tribunal Superior.
+Ante o exposto, indefiro o processamento, determinando o arquivamento do presente habeas corpus.
+Intime-se.
+São Paulo, 11 de outubro de 2022" (fls. 10-11, grifei).
+No presente habeas corpus, alega o impetrante que: "Conforme solicitado pela autoridade coatora através de requerimento junto a POLICIA FEDERAL, foi registrada a sua entrada no país pela última vez em 25/02/2019 e deixou o país em 14/03/2019conforme documento anexo, ou seja, quase 01/09/2021, ou seja  de 2 anos antes do oferecimento da denúncia" (fl. 5).
+Aduz que: "Importante destacar que na época em que o paciente deixou o país não havia nenhum fato antijurídico imputado a si, tão pouco inquérito policial em curso, ou seja, tornando ineficaz a medida imposta ao paciente" (fl. 5).
+Aponta que: "Ficou condicionado ao paciente, o pagamento de uma fiança ora fixado em R$ 50.000,00 (cinquenta mil reais) sob. alegação em assegurar o comparecimento a ATOS DO PROCESSO, concedendo o prazo de 10 dias para deposito entre outras medidas cautelares. Pois bem, o paciente atualmente possui prisão preventiva decretada em razão do não pagamento do valor estipulado pela autoridade coatora" (fl. 6).
+Assevera que: "Levar em consideração as condições financeiras do acusado, bem como as condições de fortuna e vida pregressa são ditas como circunstância significativas de sua periculosidade, o que no caso concreto, o paciente não possui renda financeira compatível ao ponto de poder arcar com a fiança imposta pela autoridade coatora" (fl. 7).
+Requer, ao final, a expedição de contramandado de prisão e, subsidiariamente, a aplicação de outras medidas cautelares diversas da prisão.
+Informações prestadas, às fls. 117-189 e 190-202.
+O Ministério Público Federal, às fls. 209-213, manifestou-se pelo "não conhecimento do writ, mas pela concessão da ordem de ofício para que o TJSP analise o mérito da impetração", em parecer ementado nos seguintes termos, verbis:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ORGANIZAÇÃO CRIMINOSA E ESTELIONATO. MEDIDAS CAUTELARES DIVERSAS. LIBERDADE PROVISÓRIA CONDICIONADA AO PAGAMENTO DE FIANÇA CRIMINAL. DECRETAÇÃO DA PRISÃO PREVENTIVA POR AUSÊNCIA DE CUMPRIMENTO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO ANALISADA NA ORIGEM. PELO NÃO CONHECIMENTO DO WRIT COM CONCESSÃO DE OFÍCIO PARA QUE O TRIBUNAL DE ORIGEM ANALISE O MÉRITO DA IMPETRAÇÃO" (fl. 209).
+É o relatório.
+Decido.
+No caso, inviável o conhecimento do presente habeas corpus, uma vez que se insurge contra decisão monocrática, proferida por nobre Desembargador do eg. Tribunal de origem.
+Todavia, observa-se que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do art. 105, "c", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição.
+Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição Federal, para julgar habeas corpus impetrado contra decisão monocrática, proferida por Desembargador, que julga extinta a impetração na origem, sem resolução do mérito.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste habeas corpus.
+Sobre o tema, destaco os seguintes precedentes:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. MANDAMUS NÃO INSTRUÍDO COM CÓPIA DO PROVIMENTO JUDICIAL QUESTIONADO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF.
+ ..
+4. Agravo regimental desprovido" (AgInt no HC n. 409.060/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 28/02/2018, grifei).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. AUSÊNCIA DE REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR QUE NEGOU SEGUIMENTO LIMINAR AO WRIT. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO NESSA CORTE. NULIDADE NÃO ANALISADA PELO TRIBUNAL A QUO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A questão referente à nulidade decorrente da ausência de realização de audiência de custódia não foi submetida à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposição do devido agravo regimental contra a decisão monocrática do relator que negou seguimento liminar ao writ sem análise do mérito. Assim, não compete a esta Corte Superior, o debate da tese levantada pela defesa, sob pena de se incorrer em indevida supressão de instância.
+3. Não tendo sido individualizada a situação prisional de cada réu, mostra-se inviável a verificação coletiva da questão relativa à não realização da audiência de custódia, uma vez que não é possível saber para quais acusados o tema ficou superado em virtude da decretação de prisão preventiva. Habeas corpus não conhecido" (HC n. 385.063/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe de 14/11/2017, grifei).
+"PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido" (AgRg no HC n. 401.079/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 12/12/2017, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O WRIT NA ORIGEM. AGRAVO REGIMENTAL NÃO INTERPOSTO. MATÉRIA NÃO SUBMETIDA AO COLEGIADO DO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O inconformismo dirigido contra decisão de Desembargador que, ao analisar o habeas corpus, indefere liminarmente o writ, deve ser o recurso de agravo regimental para oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.
+2. Em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus.
+3. Agravo regimental não provido" (AgRg no HC n. 399.172/MA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/08/2017).
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
