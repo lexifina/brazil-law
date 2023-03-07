@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Leonardo Luis de Faria, réu em ação penal que apura a prática do crime de tráfico de drogas (208,960 g de crack - fl. 72).
+Ataca-se acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2008745-32.2023.8.26.0000 (fls. 11/16), que manteve o indeferimento de produção de prova pericial defensiva na Ação Penal n. 1502920-63.2022.8.26.0530 (fls. 82/84), da 2ª Vara Criminal da comarca de Ribeirão Preto/SP.
+Alega-se constrangimento ilegal consistente em cerceamento de defesa, ao argumento de necessidade de comprovar a tese de negativa de autoria delitiva, e requer-se, então, a concessão da ordem, inclusive em caráter liminar, para determinar que o Juízo de primeiro grau adote todas as medidas necessárias à imediata realização da perícia requerida (fl. 9).
+É o relatório.
+Da análise dos autos tem-se que o Juízo de primeiro grau indeferiu a produção de prova - exame pericial nos objetos apreendidos (bolsa preta e balança de precisão) a fim de verificar eventuais impressões digitais e o confronto com as digitais do acusado (fl. 82) -, considerando-a insustentável diante do tipo de prova requerida e as condições necessárias para a sua realização (fl. 82):
+ ..  Não há como se afirmar que tais objetos, desde a sua apreensão até a presente data, encontram-se incólumes, sem que qualquer pessoa tenha deixado suas impressões digitais em sua superfície; pelo contrário, é muito provável que isso tenha ocorrido, seja pelos policiais militares que foram responsáveis pelo seu manuseio e verificação do material que encontrava em seu interior, seja pelos policiais e agentes civis e outros na delegacia de polícia responsáveis pelo seu acondicionamento e lacração. Tais circunstâncias comprometeria quase que na totalidade o resultado do exame pericial, não o tornando confiável como meio de prova.
+Por sua vez, a Corte local manteve o indeferimento, ao fundamento de que a decisão de indeferimento da prova requerida pela defesa está bem fundamentada, além de possuir respaldo legal no art. 400, § 1º, do CPP (fl. 16).
+Assim, sem razão a impetração, pois, concluído fundamentadamente pelas instâncias ordinárias pela desnecessidade da produção de prova requerida, entender de forma diversa demandaria reexame probatório da causa, inviável na via eleita.
+Nesse sentido: o indeferimento motivado de pedido de produção de prova pericial não configura cerceamento de defesa, porquanto o juízo de necessidade da prova deve ser orientado pelo critério de discricionariedade do julgador (AgRg no RHC n. 160.301/MG, Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe 10/6/2022).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (208,960 G DE CRACK). CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. DISCRICIONARIEDADE DO MAGISTRADO. INDEFERIMENTO FUNDAMENTADO. CONCLUSÃO DIVERSA. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. INVIABILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
