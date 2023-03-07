@@ -1,0 +1,37 @@
+DECISÃO
+LEANDRO MADRUGA DOMINGUES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+A defesa busca a concessão de livramento condicional ao paciente. Para tanto, argumenta que o sentenciado possui comportamento satisfatório e que a última falta grave foi praticada em 8/1/2021. Argumenta que "as recentes alterações promovidas no artigo 83 do Código Penal fixam o prazo de 12 (doze) meses como necessário à reabilitação pelo cometimento de faltas graves, sendo que após o transcurso de tal período não mais repercutem para obstaculizar o livramento" (fl. 8). Aduz, ainda, ser possível conceder o benefício ao apenado que se encontra em regime fechado.
+Indeferida a liminar (fls. 104-105) e prestadas as informações (fls. 108-129), os autos foram ao Ministério Público Federal, que opinou pela denegação da ordem (fls. 134-137).
+Decido.
+Infere-se dos autos que o paciente cumpre pena total de 11 anos de reclusão, em regime prisional fechado, cujo término está previsto para 7/7/2028.
+Formulado em seu favor pedido de livramento condicional, este foi indeferido pelo Magistrado de origem, por meio de decisão assim fundamentada (fls. 27-28):
+O reeducando já alcançou o requisito temporal (11/3/21 - RSPE). Contudo, quanto ao requisito subjetivo, diante do laudo psicológico  seq.133.1  de Leandro, destaco o que segue:
+Resposta: O apenado apresenta embotamento afetivo, dificultando o estabelecimento de vínculos consistentes em suas relações. Apresenta um nível de agressividade latente, situação que no decorrer de sua vida lhe gerou muitos problemas. Esta questão de sua personalidade, associada ao uso imoderado de substâncias psicoativas, permite a adoção de uma postura imatura e impulsiva no contexto social. Estas características de sua personalidade ainda se mostram latentes em seu comportamento no momento, podendo prejudicar respostas e escolhas futuras.
+Resposta: O apenado refere estar comprometido com um estilo de vida diferenciado do qual se propôs anteriormente, com apoio do grupo familiar, vínculo muito valorizado por ele em razão de o terem acompanhado nesta trajetória. Assim, refere que acredita no resgate de sua liberdade de forma gradual e afastado do processo criminal. Entretanto, destacamos que o apenado já desfrutou de oportunidade de abrandamento de seu regime, não conseguindo corresponder de forma adequada as exigências do mesmo.
+Diante do exposto, não havendo nos autos elementos capazes de justificar a concessão das benesses, indefiro o livramento condicional por ora.
+Por fim, determino a realização de nova avaliação psicossocial no prazo de 6 meses, a fim de reanalisar a referida concessão.
+O Tribunal a quo ratificou o decisum supra, sob os seguintes fundamentos (fls. 72-73):
+Em execução, desde 10 de julho de 2017, pena privativa de liberdade de onze anos de reclusão, por incurso no artigo 155, §2º, no artigo 155, §4º, e no artigo 157, §2º, todos do Código Penal.
+O requisito objetivo foi atendido em 11/03/2021.
+Sabe-se que o atestado de conduta carcerária não pode ser avaliado separadamente, de modo que se faz necessário um exame detalhado dos demais elementos do caso em tela. E, tratando- se de livramento condicional, devem ser respeitados os requisitos do artigo 83 do Código Penal.
+Além disso, é verdade que a nova redação do artigo 112 da LEP, bem como o teor da Súmula 439 do STJ, não apontam para a obrigatoriedade da realização dos exames psicossociais.
+Mas também não os impedem. Assim, uma vez que realizados, não há óbice para utilizá-los. Pelo contrário, eles são fundamentais para entender como o reeducando se vê no curso da execução e quais seus planos para o futuro.
+No ponto, merece ser destacado um trecho importante da avaliação do agravante, o qual demonstra que ele não encontra-se pronto para usufruir da benesse:
+ ..
+Ademais, da análise da guia de execução observa-se registro de duas faltas graves, consistentes em desobediência e fuga, sendo a última ocorrida em janeiro de 2021, quando em regime mais brando.
+ ..
+Pelo exposto, uma vez analisados todos os elementos do caso, entende-se o agravante não cumpriu o requisito subjetivo.
+Em adendo, se cumpre pena em regime fechado, possível fazer analogia com a Súmula 491-STJ, que não admite a progressão per saltum.
+E, se tanto não é possível, sendo então vedado passar do regime fechado para o aberto, fere a lógica passar direto do fechado para o livramento condicional.
+- PREQUESTIONAMENTO.
+Por fim, quanto ao prequestionamento invocado pela defesa, importante esclarecer que o voto traduz o entendimento do Relator acerca da matéria, de modo que não se está, aqui, negando vigência à legislação constitucional, tampouco infraconstitucional.
+- CONCLUSÃO.
+Voto por negar provimento ao agravo defensivo.
+Consoante se observa dos excertos colacionados, o benefício referido foi negado ao paciente por ausência do requisito subjetivo.
+Destaco que, conquanto a falta grave não seja considerada marco interruptivo para o deferimento do benefício, o paciente possui histórico de mau comportamento durante o cumprimento da pena, incluindo 1 fuga do sistema prisional quando beneficiado com a progressão a regime mais brando, em data recente - janeiro de 2021. Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse.
+Ademais, segundo jurisprudência firmada por esta Corte, "o parecer psicossocial desfavorável é suficiente para impedir a progressão de regime: Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto - avaliação técnica desfavorável - que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo" (AgRg no HC n. 650.845/AL, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 19/04/2021).
+Deveras, "O julgador forma sua convicção por meio de livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal" (AgRg no HC n. 624.407/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/12/2020).
+Ainda: "A decisão da instância primeira, confirmada pela Corte de origem, não padece de ilegalidade, uma vez o Juiz justificou o não preenchimento do requisito subjetivo do art. 112 da LEP com lastro em laudo psicossocial desfavorável" (AgRg no HC 525.070/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 4/10/2019).
+Com efeito, o parecer psicossocial constante do exame criminológico referiu que o reeducando "apresenta embotamento afetivo, dificultando o estabelecimento de vínculos consistentes em suas relações. Apresenta um nível de agressividade latente, situação que no decorrer de sua vida lhe gerou muitos problemas. Esta questão de sua personalidade, associada ao uso imoderado de substâncias psicoativas, permite a adoção de uma postura imatura e impulsiva no contexto social" (fl. 28). A mera revaloração desse dado não autoriza o reconhecimento do requisito subjetivo do art. 112 do LEP. Seria necessário, para tanto, debater o conteúdo do laudo e o acerto da avaliação do profissional, o que demanda revolvimento de provas, incabível na via eleita.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
