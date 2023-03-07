@@ -1,0 +1,26 @@
+DECISÃO
+RONALTH FONSECA MOREIRA e DENNIS MICHELL GONÇALVES GOES alegam ser vítimas de coação ilegal em decorrência acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão.
+A defesa pretende a soltura dos pacientes - acusados da suposta prática do crime de homicídio qualificado - ou a aplicação de medidas cautelares alternativas à prisão, sob os argumentos de ausência de fundamentos que justifiquem a segregação cautelar e de não consideração das condições subjetivas pessoais dos acusados.
+O MPF opinou pelo desprovimento do recurso (fls. 179-181).
+Decido.
+No que tange à fundamentação da cautelar máxima imposta aos réus, ao converter o flagrante em preventiva, o Juízo de Direito ofereceu os argumentos a seguir:
+ ..
+Da ana"lise da presente representac a o, infere-se que existe verdadeiramente o fumus comissi delicti, consubstanciado na materialidade delitiva (declarac a o de o"bito) e indícios suficientes do cometimento do fato delituoso (termos de declarac o es), ale"m de que as circunsta ncias do crime e o "modus operandi" empregado na pra"tica delitiva demonstram que a liberdade do representado coloca em risco a ordem pu"blica, oque leva ao periculum libertatis, preenchendo, portanto. os requisitos do art 312 do CPP.
+Provada a materialidade delitiva e havendo indi"cios suficientes de autoria, vejo que a custo"dia cautelar deve ser deferida, notadamente em raza o dos depoimentos das testemunhas ouvidas perante a autoridade policial, elementos de prova que, cada um na sua medida, servem a" comprovac a o de que, no dia 08/03/2022, por volta das 12.30 horas, no Povoado Descanso. Penalva/MA, os representados RONALTH FONSECA MOREIRA e DENNIS MICHELL GONC ALVES GO"ES executado a vitima a mando de ADELMA DE JESUS SOUZA RIBEIRO.
+ ..
+Esta o, pois, presentes os pressupostos da segregac a o proviso"ria.
+Demais disto, RONALTH FONSECA MOREIRA ainda fugiu da abordagem da Policia Civil, sendo indi"cios, portanto, de que a manutenc a o da liberdade dos representados pora" em risco a aplicac a o da lei penal alte o risco de fuga.
+Por fim, não se pode deixar de mencionar o entendimento assentado na doutrina e jurisprude ncia de que a prisa o preventiva na o conflita com o principio constitucional da presunc a o de inoce ncia. Constitui, sim, medida excepcional. mas que deve ser efetivada sempre que o exija o caso concreto (RT 697,386).
+ ..
+Assim, diante da conduta do representado e dos fortes indi"cios desfavora"veis que recaem sobre eles, exige-se uma refletida ponderac a o entre o princípio da presunc a o de inoce ncia e a necessidade de Preservac a o da ordem pu"blica, bem como efica"cia na aplicac a o da lei penal (fls. 52-53, grifei).
+Ao término da instrução processual, os recorrentes foram pronunciados pela prática do delito tipificado no art. 121, § 2º, I e IV, do CP, mantida a cautelar máxima, nos seguintes termos:
+ ..
+Considerando que os Acusados foram preventivamente presos com fundamento na garantia da ordem pu"blica, bem como na aplicac a o da lei penal e na o tendo havido modificac a o ou extinc a o dos motivos que ensejaram a sua decretac a o, mantenho a prisa o preventiva decretada em seu desfavor, devendo aquele aguardar o julgamento pelo Plena"rio do Ju"ri segregado, na forma do art. 413, §3o do CPP (fl. 152).
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a custódia provisória, sobretudo diante da gravidade em concreto do delito e do modus operandi da ação criminosa praticada pelos recorrentes - trata-se de homicídio qualificado pelo cometimento mediante paga ou promessa de recompensa ou por motivo torpe, uma vez que a vítima foi morta por disparo de arma de fogo, a mando de terceiro, por ciúmes.
+Na esteira do entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/4/2019).
+Saliento, ainda, que este Superior Tribunal entende que "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019, grifei).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são capazes de demonstrar a necessidade de garantia da ordem, por isso mesmo constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
