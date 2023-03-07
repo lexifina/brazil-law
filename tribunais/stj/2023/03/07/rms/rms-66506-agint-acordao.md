@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 01/03/2023 a 07/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por GILVANUSIA ALBAGESIA LELIS MIRANDA LEITE contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 482):
+RECURSO EXTRAORDINÁRIO. DIREITO CIVIL, ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO. SALÁRIO MÍNIMO. ARTS. 7º, IV; e 39, § 3º, DA CONSTITUIÇÃO FEDERAL. REMUNERAÇÃO GLOBAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE EM REPERCU SSÃO GERAL. TEMA 142/STF. SEGUIMENTO NEGADO.
+A parte agravante alega que a decisão merece ser reconsiderada, por entender que (fls. 494-495):
+O que precisamos repetir mais uma vez é que o pedido dos presentes autos não se fundamenta nos artigos 7º, inciso IV, e artigo 39, §3º todos da Constituição Federal, mas sim de pedido de pagamento de vencimento base correspondente ao salário mínimo obedecendo ao quanto estabelecido pelos os artigos 51, 52 e 55 da Lei Baiana nº 6677/1994 que não foi objeto de nenhum controle de constitucionalidade, o que demonstra, portanto, que o tema 142/STF e em tampouco a Súmula Vinculante 16 daquela Suprema Corte não pode ser aplicado ao caso em tela e muito menos para obstar o prosseguimento do recurso extraordinário, tendo em vista que a Lei Estadual em destaque não foi objeto daquelas decisões proferidas pela Suprema Corte que analisou estritamente o texto constitucional não tendo feito nenhuma menção as Legislações Estaduais. Dessa forma, permissa venia, evidencia-se que merece reforma a decisão, ora agravada, para dar prosseguimento ao Recurso Extraordinário interposto pela parte agravante para facultar a Suprema Corte enfrentar a matéria e pacificar de uma vez por todas se os entes da Federação poderão legislar fixando o vencimento mínimo base no valor correspondente a um salário mínimo como fez o Estado da Bahia ao criar os artigos 51, 52 e 55 da Lei nº 6677/1994 (Estatuto do Servidor Público do Estado da Bahia), que prevê a obrigatoriedade do pagamento do vencimento base dos servidores estaduais em valor não inferior ao salário mínimo  .. .
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 810).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO. SALÁRIO MÍNIMO. REMUNERAÇÃO GLOBAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE EM REPERCUSSÃO GERAL. TEMA N. 142/STF.
+1. O Supremo Tribunal Federal, no julgamento do RE n. 582.019-QO-RG, sob a sistemática da repercussão geral, fixou a tese de que a garantia do salário mínimo, a que se referem os arts. 7º, IV, e 39, § 3º, da CF, corresponde ao total da remuneração percebida pelo servidor (Tema n. 142/STF).
+2. No caso, o acórdão proferido pelo Superior Tribunal de Justiça está em consonância com a orientação firmada pela Suprema Corte, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+3. Agravo interno a que se nega provimento.
+VOTO
+O Supremo Tribunal Federal, no julgamento do RE n. 582.019 QO-RG, sob a sistemática da repercussão geral, fixou a tese de que a garantia do salário mínimo, a que se referem os arts. 7º, IV, e 39, § 3º, da Constituição, corresponde ao total da remuneração percebida pelo servidor (Tema n. 142/STF).
+Confira-se a ementa do acórdão paradigma:
+CONSTITUCIONAL. SERVIDOR PÚBLICO. SALÁRIO-BASE INFERIOR AO SALÁRIO MÍNIMO. POSSIBILIDADE. ARTS. 7º, IV, E 39, § 3º (redação dada pela EC 19/98), DA CONSTITUIÇÃO.
+I - Questão de ordem. Matéria de mérito pacificada no STF. Repercussão geral reconhecida. Confirmação da jurisprudência. Denegação da distribuição dos recursos que versem sobre o mesmo tema. Devolução desses RE à origem para adoção dos procedimentos previstos no art. 543-B, § 3º, do CPC. Precedentes: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, Rel. Min. Ellen Gracie; RE 591.068-QO/PR, Rel. Min. Gilmar Mendes; RE 585.235-QO/MG, Rel. Min. Cezar Peluso.
+II - Julgamento de mérito conforme precedentes. III - Recurso provido.
+(RE n. 582.019-QO-RG, relator Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 13/11/2008, DJe de 13/2/2009.)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça concluiu que "os artigos 7º, IV, e 39, § 3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público" (fl. 324), razão pela qual incide o Tema n. 142/STF.
+A propósito:
+Ação direta de inconstitucionalidade. Art. 95, I, da Constituição do Estado de Goiás e art. 56 da Lei estadual 11.416/1991. 2. Servidor público. Garantia de vencimento básico não inferior ao salário mínimo. Impossibilidade. Orientação do STF no sentido de que a garantia do salário mínimo, prevista no art. 7º, IV, c/c art. 39, § 3º, da Constituição Federal, é alusiva ao total da remuneração do servidor, incorrendo em inconstitucionalidade material o dispositivo que vincula tal garantia ao vencimento básico. 3. Militar. Soldo. Garantia de valor não inferior ao salário mínimo. Impossibilidade. A jurisprudência desta Corte assentou entendimento no sentido de que não se estende aos militares a garantia de remuneração não inferior ao salário mínimo vigente. 4. Ação direta de inconstitucionalidade julgada procedente.
+(ADI n. 751, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 9/5/2019, DJe de 22/5/2019.)
+Verifica-se, desse modo, que o acórdão recorrido está em consonância com a orientação firmada pela Suprema Corte, conforme o Tema n. 142.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
