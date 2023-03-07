@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 01/03/2023 a 07/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Embargos de Declaração contra acórdão da Corte Especial do STJ, que não conheceu do Agravo Regimental.
+Em apertada síntese, a parte embargante alega que o acórdão recorrido é omisso, porquanto não enfrentou todos os argumentos deduzidos no Agravo capazes de infirmar a conclusão contida na decisão embargada (fl. 624, e-STJ).
+A parte embargada, apesar de intimada, não ofereceu impugnação.
+Parecer do Ministério Público Federal pelo não conhecimento dos Embargos de Declaração (fls. 657-662, e-STJ).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. DIVERGÊNCIA NÃO DEMONSTRADA. EMBARGOS DE DECLARAÇÃO. ART. 619 DO CPP. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. INVIABILIDADE DE PREQUESTIONAR DISPOSITIVOS CONSTITUCIONAIS. INEXISTÊNCIA DE NULIDADE NO PROCESSO.
+1. Na verdade, a intenção do embargante com esse recurso é rediscutir o julgado da Corte Especial que lhe foi desfavorável. Assim sendo, aduz que impugnou corretamente o fundamento "segundo o qual o acórdão embargado estaria de acordo com a jurisprudência desta Corte".
+2. Entretanto, ao contrário do alegado pelo embargante, ele não combateu - nem ao menos em tese - o não conhecimento dos Embargos de Divergência em decorrência de a jurisprudência do STJ estar de acordo com o decisum embargado.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente fundamento autônomo para manter a decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada ou o combate de apenas parte dos argumentos.
+4. Dessa forma, a ausência de refutação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Quanto à ofensa a dispositivos constitucionais, ressalto que o STJ não pode apreciar ofensa aos arts. 5º, LIV, e 97 da CF em Embargos de Declaração, mesmo que para viabilizar a interposição de Recurso Extraordinário.
+6. O embargante não foi capaz de demonstrar que está sofrendo coação ilegal em decorrência da nulidade do processo. No caso, não houve infringência ao art. 1.021, § 3º, do CPC, pois o acórdão não reproduziu os fundamentos da decisão agravada. Portanto, não cabe na hipótese o deferimento do pedido de Habeas Corpus de ofício (art. 654, § 2º, do CPP).
+7. Anote-se, por fim, a incidência do disposto no art. 116, III, do Código Penal, na redação dada pela Lei 13.964/2019, diante do caráter evidentemente inadmissível dos Embargos opostos.
+8. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26.8.2022.
+Os Embargos de Declaração não merecem prosperar.
+Na verdade, a intenção do embargante com esse recurso é rediscutir o julgado da Corte Especial que lhe foi desfavorável. Assim sendo, aduz que impugnou corretamente o fundamento "segundo o qual o acórdão embargado estaria de acordo com a jurisprudência desta Corte".
+Entretanto, ao contrário do alegado pelo embargante, ele não combateu - nem ao menos em tese - o não conhecimento dos Embargos de Divergência em decorrência de a jurisprudência do STJ estar de acordo com o decisum embargado.
+Transcrevo mais uma vez os argumentos do embargante ao impugnar a decisão que não conheceu dos Embargos de Divergência:
+Por fim, no mérito, a decisão agravada assevera que o acórdão embargado estaria de acordo com o entendimento deste Superior Tribunal de Justiça, no sentido de ser plenamente possível a mera reprodução, no julgamento do agravo interno, dos fundamentos deduzidos na decisão monocrática.
+No ponto, a decisão agravada afasta a vigência do art. 1.021, §3º, do código de processo civil, sem observar a cláusula de reserva de plenário, em franca violação ao art. 97 da Constituição Federal e à súmula vinculante 10 do Supremo Tribunal Federal.
+Depreende-se pela leitura dos trechos acima transcritos que o embargante se afastou da melhor técnica processual para impugnar a decisão monocrática.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente fundamento autônomo para manter a decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada ou o combate de apenas parte dos argumentos.
+Dessa forma, a ausência de refutação especificada faz incidir na espécie a Súmula 182 do Superior Tribunal de Justiça, que está em consonância com a redação atual do Código de Processo Civil em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS PELA PRESIDÊNCIA DO STJ SOB DOIS FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada prolatada pela Presidência do STJ indeferiu liminarmente os embargos de divergência em razão de dois fundamentos autônomos e suficientes: (1) ausência de comprovação da divergência "nos termos do art. 1.043, § 4º do Código de Processo Civil de 2015 e no art. 266, § 4º do Regimento Interno do Superior Tribunal de Justiça"; e, (2) "em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus  .. ."
+2. Hipótese em que não foi impugnado o segundo fundamento no agravo regimental. Incidência do Verbete Sumular n.º 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, aplicável subsidiariamente (art. 3.º do CPP), o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil.
+3. "É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto. (Precedentes). Agravo regimental desprovido." (AgRg nos EDcl nos EAREsp 413.911/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 27/10/2015).
+4. Agravo regimental não conhecido.
+(AgRg nos EDv nos EAREsp 1412126/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 11/09/2019, DJe 27/09/2019)
+Quanto à ofensa a dispositivos constitucionais, ressalto que o STJ não pode apreciar ofensa aos arts. 5º, LIV, e 97 da CF em Embargos de Declaração, mesmo que para viabilizar a interposição de Recurso Extraordinário.
+Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. FALHA OU INDISPONIBILIDADE DO SISTEMA DE PETICIONAMENTO ELETRÔNICO. NÃO COMPROVAÇÃO NO MOMENTO OPORTUNO. PRAZO. ART. 224, § 1º, DO NCPC. INÍCIO E FIM. AUSÊNCIA DE FALHA DO SISTEMA. PRAZO RECURSAL. PRORROGAÇÃO. NÃO OCORRÊNCIA. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada indisponibilidade do sistema deve ser comprovada, no momento oportuno, por documento idôneo, o que não ocorreu no caso dos autos.
+3. Nos termos do art. 224, § 1º, do NCPC, apenas Os dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte, se coincidirem com dia em que o expediente forense for encerrado antes ou iniciado depois da hora normal ou houver indisponibilidade da comunicação eletrônica.
+4. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+5. Agravo interno não provido. (AgInt no AREsp 1.650.329/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 7/5/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. CONTRATAÇÃO A TÍTULO PRECÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). INEXISTÊNCIA. ANÁLISE QUANTO A REGULARIDADE DE CONTRATO FIRMADO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES.
+I - Na origem, o presente feito decorre de ação de cobrança objetivando o pagamento a parte autora de diversas verbas trabalhistas, as quais decorreriam de contratos sucessivos firmados com o Município réu e que não teriam sido pagas. Por sentença, julgou-se parcialmente procedente o pedido para reconhecer o direito da parte autora ao saldo do salário e ao depósito do FGTS. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido.
+II - Inicialmente, não cabe a esta Corte Superior conhecer da alegação de violação de dispositivos constitucionais em recurso especial, ainda que para o fim de prequestionamento, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+(..)
+Agravo interno improvido.
+(AgInt no AREsp 1703571/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 15/3/2021).
+Observa-se, também, que o embargante não foi capaz de demonstrar que está sofrendo coação ilegal em decorrência da nulidade do processo. No caso, não houve infringência ao art. 1.021, § 3º, do CPC, pois o acórdão não reproduziu os fundamentos da decisão agravada. Portanto, não cabe na hipótese o deferimento do pedido de Habeas Corpus de oficio (art. 654, § 2º, do CPP).
+Anote-se, por fim, a incidência do disposto no art. 116, III, do Código Penal, na redação dada pela Lei 13.964/2019, diante do caráter evidentemente inadmissível dos Embargos opostos.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
