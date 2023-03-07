@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por SIENA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e DISC EXPRESS EMPREENDIMENTOS LTDA. contra a decisão de fls. 884-892 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (fls. 742-743, e-STJ, grifos no original):
+Agravo interno em Apelação cível. Obrigação de fazer c/c indenizatória. Direitos e deveres do Condomínio. Alteração de fachada. Sentença de procedência. Inconformismo da parte ré. Decisão monocrática de negativa de provimento ao apelo. Novo inconformismo da apelante. Entendimento desta Relatora quanto à prevalência da sentença vergastada confirmada por Decisão Monocrática desta Relatora.
+1. Pedido de intervenção como
+amicus curiae, que subordina-se à verificação, concomitante de requisitos legalmente definidos no art. 138 do
+CPC, e consagrados pela jurisprudência da Suprema Corte, sendo essencial a demonstração da utilidade das informações prestadas e da capacidade de efetivamente contribuir para o debate, o que na espécie não se verifica.
+2. Empresa privada,
+DISC Express, ora segunda ré, que atua na exploração de franquia dos correios.
+3. Natureza de diligência predominantemente instrutória. Violação ao disposto no inciso III do artigo 1.336 do Código Civil, que leva à imposição da pena de demolição e desfazimento da obra realizada no condomínio agravado.
+4. Prova pericial que apurou existência de contrato, com a empresa DISC Express, realizados sem anuência do edifício, (fls. 434, item 7.1.9), assumindo os próprios riscos pelo empreendimento.
+5. Alterações feitas na fachada do edifício de mais de 60 anos de existência, no trancamento da garagem, invasão da calçada e outras inúmeras alterações, às fls. 264 e às fls. 265/280 e fls. 443/445.6. Atividade desempenhada pela agência de Correios, que afeta a segurança e o sossego dos moradores, e traz interferência na rotina do edifício, tais como: impacto de obras constantes; carga e descarga; grande circulação de pessoas dentro das dependências do condomínio, expondo os moradores à riscos de segurança suportados ao longo do trâmite processual, ensejando a bem aplicada condenação por dano moral, no valor de R$ 10.000,00 (Dez mil reais), na sentença do magistrado do 1º grau. Dano moral configurado.
+7. Confirmação da sentença proferida, determinando o desfazimento da obra, e o restabelecimento da fachada original. Referidas obras realizadas em patente afronta ao contrato, sem a devida autorização do condomínio, não trazida aos autos.
+8. Pedido de ressarcimento em razão de despesas suportadas pela obra, que não prospera. Despesas estas não comprovadas, não havendo que se falar em eventual ressarcimento, em pedido contraposto, na forma do art. 278, § 1º do CPC vigente à época. Confirmação da sentença de procedência bem lançada, bem como da majoração da condenação de pagamento de honorários de sucumbência recursal, em 2% do valor da condenação. Agravante não conseguiu trazer aos autos argumentos capazes de infirmar a decisão proferida por esta Relatora, devendo a mesma ser mantida por seus próprios fundamentos. Precedentes do TJERJ. CONHECIMENTO DO RECURSO. NEGO PROVIMENTO AO AGRAVO INTERNO.
+Os embargos de declaração opostos foram desacolhidos (fls. 774-777, e-STJ).
+Nas razões do recurso especial (fls. 785-799, e-STJ), as recorrentes alegaram que o acórdão impugnado incorreu em violação do s seguintes normativos:
+a) arts. 5º e 170 da Constituição Federal de 1988;
+b) arts. 1.022 e 1.026, § 4º, do Código de Processo Civil de 2015;
+c) art. 1.335 do Código Civil de 2002;
+d) Lei 11.668/2008.
+Sustentaram, em suma:
+(i) negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia;
+(ii) ser indevido o desfazimento da obra para instalação de agência para exploração de franquia dos correios, porquanto além de a convenção de condomínio não conter essa proibição, as atividades desempenhadas pela franquia são lícitas;
+(iii) necessidade de intervenção de amicus curiae no feito, porquanto a decisão recorrida afeta interesses de terceiros, no caso e Empresa Brasileira de Correios e Telégrafos; e
+(iv) ausência dos requisitos ensejadores da reparação civil a que foram condenadas, tendo em vista que a conduta por elas adotada estava amparada na legislação que regulamenta a matéria.
+Em juízo de admissibilidade (fls. 884-892, e-STJ), a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não configurada a alegada violação aos arts. 489 e 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas de forma fundamentada; e b) aplicação da Súmula 284/STJF, por deficiência na fundamentação do reclamo, haja vista a alegação de violação aos arts. 489 e 1.022 do CPC/2015 ter sido efetuada por meio de argumentos genéricos; e c) impossibilidade de interposição de recurso especial para análise de dispositivos constitucionais, tendo em vista tal exame ser de competência do Supremo Tribunal Federal.
+Irresignadas (fls. 976-992, e-STJ), aduzem as agravantes que o reclamo merece trânsito, limitando-se a reafirmar a violação dos arts. 489 e 1.022 do CPC/2015 e a repisar as mesmas razões trazidas no recurso especial inadmitido.
+Contraminuta às fls. 1.075-1.105 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCURSÃO NA ANÁLISE DE CLÁUSULAS CONTRATUAIS PACTUADAS ENTRE AS PARTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.843.909/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 7/4/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.042 DO CPC/2015. DECISÃO DE ADMISSIBILIDADE. NEGATIVA. RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. ORIGEM. ART. 1.030, § 2º, DO CPC/2015. ERRO GROSSEIRO. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC/2015, C/C ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão do Presidente ou Vice-Presidente do tribunal recorrido que não admite o recurso especial com base em entendimento firmado em recurso repetitivo deve ser impugnada por meio de agravo interno, consoante o disposto no art. 1.030, § 2º, do CPC/2015.
+3. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, sob a égide do CPC/2015, a interposição de agravo em recurso especial com tal finalidade constitui erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade. Precedentes.
+4. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC/2015, c/c art. 253, parágrafo único, I, do RISTJ). Precedentes.
+5. Agravo interno não provido (AgInt no AREsp n. 1.828.169/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 8/10/2021).
+No caso, verifica-se que as agravantes não atenderam a esse reclamo, pois não refutaram todos os óbices de admissibilidade do recurso especial interposto.
+De fato, no tocante à rejeição do recurso especial - pela aplicação da Súmula 284/STF, por deficiência na fundamentação do recurso, bem como pela impossibilidade de interposição de recurso especial para análise de violação a dispositivos constitucionais -, verifica-se, de plano, que tais fundamentos não foram sequer mencionados nas razões do agravo.
+Dessa forma, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice no teor do art. 932, III, do CPC/2015, desatendendo a s recorrentes o princípio da dialeticidade exigido na esfera recursal.
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
