@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+A defesa alega que a matéria discutida não demanda reexame fático-probatório, requerendo o provimento do recurso.
+Oferecida contraminuta, o Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser conhecido, passando-se à análise do recurso especial em que a defesa alega violação ao art. 59 do CP, ao argumento de desproporcionalidade do aumento atinente à vetorial dos antecedentes.
+O recorrente foi condenado como incurso no art. 157, § 4º, IV, c/c art. 70 do Código Penal, à pena de 4 anos e 1 mês de reclusão, em regime fechado, mais 10 dias-multa.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso da defesa mantendo a dosimetria realizada na sentença, proferida pelos seguintes fundamentos (fls. 244/245):
+RODRIGO SANFORD BORGES
+Na análise feita em relação às, circunstâncias do artigo 59, do Código Penal se tem uma culpabilidade dentro de uma repulsa natural social, entretanto, normal do crime; aos seus antecedentes demonstrando condenação anterior; sua conduta social e personalidade sem meios de avaliar; aos motivos, circunstâncias e consequências próprias do tipo e ao comportamento das vítimas sem contribuição com o evento danoso, quando fixo a pena-base em 3 (três) anos de reclusão e multa;
+Ao estudo dos artigos 61 a 66, do Código Penal se observam a agravante da reincidência e nenhuma atenuante, quando se eleva a pena em 1/6 (um sexto) fixando a pena provisória em 3 (três) anos e 6 (seis) meses de reclusão;
+Finalmente, na leitura .da parte geral e especial do Código Penal se vê a majorante do concurso formal, porquanto mais de um patrimônio foi ofendido em única ação do acusado e seus cúmplices, quando se eleva em 1/6 (um sexto) e nenhuma minorante a ser considerada quando a se fixa a pena definitiva em 4 (quatro) anos e 1 (um) mês de reclusão e multa.
+A sanção de multa é fixada em 10 (dez) dias/multa cada um deles calculado à razão de 1/30 (um trinta avos) do salário-mínimo vigente ao tempo do crime com os acréscimos legais permitido por lei, quando da execução.
+Estabeleço o regime fechado pata início de cumprimento de pena, na forma do artigo 33, 5§ e alíneas do Código Penal.
+A Corte a quo, por sua vez, assim se manifestou (fl. 363):
+Colhe-se da CAC de fls. 1601163 que o acusado possui péssimos antecedentes, sendo ele multireincidente. São seis condenações definitivas, por crimes anteriores. Diante das condições pessoais flagrantemente desfavoráveis, a fixação da pena-base, privativa de liberdade, em "três anos de reclusão, um ano acima do mínimo, não se mostrou desarrazoada.
+Como se vê, a pena-base foi aumentada em decorrência da valoração negativa dos antecedentes, considerando-se o fato de que o recorrente é multireincidente, ostentando seis condenações definitivas por crimes anteriores.
+Com efeito, não há falar em desproporcionalidade, pois o aumento acima do patamar de 1/6, pela referida circunstância sopesada, está em conformidade com a jurisprudência desta Corte, no sentido de que a "majoração da pena na primeira fase de dosimetria deve seguir, em regra, a fração de 1/6 (um sexto) para cada circunstância judicial considerada desfavorável. A eleição de patamar superior a esse quantum exige que o Órgão Judiciário decline fundamentos idôneos e concretos capazes de demonstrar que o contexto na hipótese exorbita a gravidade inerente àquela vetorial. Precedentes (AgRg no HC n. 711.280/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+Quanto aos maus antecedentes, aplica-se o seguinte entendimento: "Adotada fundamentação concreta e idônea para o incremento da pena-base em fração superior a 1/6 (um sexto), não há falar em violação ao disposto no art. 59 do CP (AgRg no REsp n. 1.942.930/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/10/2021)" (AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Assim, não se mostra desproporcional o aumento perpetrado, de 1/2, pela referida circunstância judicial, dadas as seis condenações definitivas ostentadas pelo paciente.
+"A dosimetria da pena não está atrelada a critérios rígidos, puramente objetivos, submetendo-se a certa discricionariedade vinculada do julgador, dentro dos limites permitidos pela legislação pertinente" (AgRg no AREsp 1822435/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
