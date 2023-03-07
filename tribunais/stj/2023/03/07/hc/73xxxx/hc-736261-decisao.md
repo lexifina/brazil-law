@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ELIEL VENCESLAU FLAUSINO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1519968-05.2021.8.26.0228.
+Consta nos autos que o Paciente foi condenado, em primeiro grau, às penas de 6 (seis) anos e 5 (cinco) meses de reclusão, em regime inicial fechado, e 641 (seiscentos e quarenta e um) dias-multa, pela prática do crime previsto no art. 33, caput, na forma do art. 40, inciso V, da Lei n. 11.343/2006, em razão da apreensão de "50 (cinquenta) tabletes de massa líquida de cocaína, com peso total de 47kg (quarenta e sete quilogramas)" (fl. 90).
+O Tribunal de origem negou provimento à apelação (fls. 123-136).
+Neste writ, sustenta-se que não há que se falar no caso dos autos na incidência da agravante da calamidade pública, uma vez que o delito praticado em nada se relaciona com a situação pandêmica.
+Requer a concessão da ordem para o afastamento da agravante prevista no art. 61, inciso II, alínea j, do Código Penal, na dosimetria da pena.
+Foram prestadas informações às fls. 143-166.
+O Ministério Público Federal manifestou-se às fls. 170-175, opinando pelo não conhecimento do writ, mas pela concessão da ordem, de ofício.
+É o relatório.
+Decido.
+Na espécie, verifica-se que o Tribunal estadual fixou a pena intermediária do Sentenciado com a seguinte fundamentação (fl. 133; grifos diversos do original):
+" 2ª fase. Presente agravante da calamidade pública, a pena foi elevada em 1/21, alcançando 5 (cinco) anos e 6 (seis) meses de reclusão e 550 (quinhentos e cinquenta) dias-multa.
+Inafastável a agravante do art. 61, inc. II, "j", do Código Penal.
+A incidência dessa agravante prescinde do nexo de causalidade ou correlação com a infração penal, posto tratar-se de circunstância objetiva observada à época do fato. Assim, praticado o crime na vigência do Decreto Estadual nº 64.879, de 20/03/2020, o qual reconheceu o estado de calamidade pública em razão da pandemia pela Covid-19, de rigor sua aplicação."
+Ocorre que a jurisprudência desta Corte Superior firmou-se no sentido de que a incidência da agravante prevista no art. 61, inciso II, alínea j, do Código Penal exige a demonstração de que o réu, de algum modo, tenha se prevalecido desta situação fática para a prática do crime.
+Desse modo, não é suficiente apenas a referência genérica à existência de uma calamidade pública contemporânea aos fatos, sendo imprescindível a demonstração de que o réu valeu-se da conjuntura de calamidade para possibilitar ou facilitar o delito, o que não ocorreu no caso em apreço.
+Com igual conclusão:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. APLICAÇÃO DA CIRCUNSTÂNCIA AGRAVANTE DECORRENTE DA PRÁTICA DO CRIME EM SITUAÇÃO DE CALAMIDADE. PANDEMIA DO NOVO CORONAVÍRUS. CIRCUNSTÂNCIAS DO CRIME QUE NÃO POSSUEM NEXO DE CAUSALIDADE COM A SAÚDE PÚBLICA. RESPONSABILIDADE PENAL OBJETIVA. AFASTAMENTO PELO ATUAL ORDENAMENTO JURÍDICO VIGENTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. MANUTENÇÃO DA DECISÃO CONCESSIVA DA ORDEM QUE SE IMPÕE.
+1. É assente neste Superior Tribunal o entendimento de que o atual ordenamento jurídico não admite a responsabilidade penal objetiva, circunstância que autoriza a concessão liminar da ordem nos casos em que a ofensa ao citado postulado se mostra manifesta.
+2. Evidenciado, no caso, que o reconhecimento da agravante decorrente do estado de calamidade pública, ocasionado pela pandemia do novo coronavírus, não possui nenhum nexo com o crime praticado, inviável sua incidência, sob pena de violação à culpabilidade, em seu sentido principiológico. Precedente.
+3. Agravo regimental improvido." (AgRg no HC 669.508/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 18/06/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva (HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido." (AgRg no HC 655.339/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/04/2021, DJe 19/04/2021; sem grifos no original.)
+Assim, por não haver sido demonstrada, no édito condenatório, a existência de vínculo entre a calamidade pública invocada e a prática do delito, deve ser afastada a incidência da agravante prevista no art. 61, inciso II, alínea j, do Código Penal, na dosimetria da pena do Paciente.
+Fixadas essas premissas, passo ao redimensionamento das reprimendas.
+Na primeira fase, mantenho a pena-base fixada pelas instâncias ordinárias, isto é, 5 (cinco) anos e 3 (três) meses de reclusão e 525 (quinhentos e vinte e cinco) dias-multa.
+Na segunda etapa, afastada a agravante do estado de calamidade pública, reduzo a pena ao mínimo legal, ficando a pena intermediária estabelecida em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na terceira fase, incide a causa de aumento de pena prevista no art. 40, inciso V, da Lei n. 11.343/2006, no que conservo o patamar de exasperação de 1/6 (um sexto), fixado pelas instâncias ordinária, de forma que a pena definitiva fica estabelecida em 5 (cinco) anos e 10 (dez) meses de reclusão, além de 583 (quinhentos e oitenta e três) dias-multa, no mínimo legal.
+Mantenho o regime inicial fechado, tendo em vista a presença de circunstâncias judiciais desfavoráveis.
+Ante o exposto, CONCEDO a ordem de habeas corpus a fim de afastar a agravante do estado de calamidade pública, redimensionando as penas impostas ao Paciente, nos moldes desta decisão, mantidos os demais termos dos éditos condenatórios.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. AGRAVANTE DO ESTADO DE CALAMIDADE PÚBLICA. AUSÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA. AFASTAMENTO DEVIDO. ORDEM CONCEDIDA.
