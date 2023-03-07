@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 01/03/2023 a 07/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de divergência opostos por WAJDI IBRAHIM EL HAOULI contra acórdão da Quarta Turma, de relatoria do Ministro Luis Felipe Salomão, assim ementado (fl. 1.879):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+2. A prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Cópia de calendário da Corte local não serve para tal finalidade. Precedentes.
+3. Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem por meio de documento idôneo no ato da interposição do recurso especial, não há como ser afastado o decreto de intempestividade do recurso.
+4. Agravo interno não provido.
+Opostos embargos de declaração, foram rejeitados (fl. 1.897):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Segundo o art. 1.022, caput e incisos, do CPC/2015, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+2. Nenhum desses vícios se faz presente na decisão ora embargada. Ao contrário, verifica-se claro objetivo de reexame da matéria pelo embargante, incabível em sede de declaratórios, que se prestam a sanar obscuridade, contradição interna ou omissão, inexistentes no caso em tela.
+3. Embargos de declaração rejeitados.
+Apontou como paradigma o seguinte aresto:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRAZO RECURSAL. INFORMAÇÃO CONSTANTE DO SISTEMA ELETRÔNICO DO TRIBUNAL DE ORIGEM. TERMO FINAL PARA INTERPOSIÇÃO DO RECURSO QUE CONSIDERA FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO DESTE NO ATO DE INTERPOSIÇÃO DO RECURSO. MITIGAÇÃO. PRINCÍPIOS DA CONFIANÇA E DA BOA-FÉ. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. A única exceção à regra da obrigatoriedade de comprovação de feriado local no ato de interposição do recurso é o da segunda-feira de carnaval, conforme entendimento assentado neste Superior Tribunal de Justiça no julgamento da QO no REsp 1.813.684/SP, Rel. Ministra NANCY ANDRIGHI, julgada em 03/02/2020, DJe 28/02/2020, com modulação dos efeitos, reafirmado por ocasião do julgamento dos EDcl na QO no REsp 1.813.684/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 19/05/2021, DJe 20/08/2021.
+2. Embora seja ônus do advogado a prática dos atos processuais segundo as formas e prazos previstos em lei, o Código de Processo Civil abre a possibilidade de a parte indicar motivo justo para o seu eventual descumprimento, a fim de mitigar a exigência.
+Inteligência do caput e § 1º do art. 183 do Código de Processo Civil de 1973, reproduzido no art. 223, § 1º, do Código de Processo Civil de 2015.
+3. A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso. Precedentes.
+4. "Ainda que os dados disponibilizados pela internet sejam "meramente informativos" e não substituam a publicação oficial (fundamento dos precedentes em contrário), isso não impede que se reconheça ter havido justa causa no descumprimento do prazo recursal pelo litigante (art. 183, caput, do CPC), induzido por erro cometido pelo próprio Tribunal" (REsp 1324432/SC, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 10/05/2013).
+5. Embargos de divergência acolhidos para afastar a intempestividade do agravo em recurso especial, com determinação de, após o transcurso do prazo recursal, remessa dos autos ao Ministro Relator para que prossiga no exame de admissibilidade do recurso. (EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022.)
+A Ministra Maria Thereza de Assis Moura, no exercício da Presidência, indeferiu liminarmente os embargos de divergência (fls. 1.921-1.924).
+Inconformada, a parte agravante alega que "o entendimento do Ilustre Ministro Relator esposado na decisão ora agravada, no sentido de privilegiara rigorosa jurisprudência defensiva no âmbito da admissibilidade dos embargos de divergência para indeferir liminarmente o recurso em razão de vício estritamente formal, afasta a principal finalidade dos embargos de divergência: uniformizar a jurisprudência e garantir segurança jurídica" (fl.1.929).
+Aduz, por fim, que, em "caso muito semelhante ao presente, em que os embargos de divergência foram indeferidos liminarmente em razão de ausência de comprovação do dissídio jurisprudencial, decisão monocrática proferida pelo Ilustre Ministro Mauro Campbell Marques, em sede de Agravo Interno em Embargos de Divergência, reconsiderou a decisão agravada para autorizar a abertura de prazo para regularização do vício" (fl. 1.931).
+O agravado apresentou contrarrazões (fls. 1.965-1.972).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ACÓRDÃO PARADIGMA NÃO APRESENTADO. VÍCIO INSANÁNAVEL. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. No caso dos autos, a parte embargante, no momento da interposição do recurso, não apresentou o inteiro teor do acórdão paradigma (ementa, acórdão, relatório, voto e certidão ou termo de julgamento), uma vez que foi constatada a ausência da ementa do acórdão.
+2. A parte deixou de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável. Ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+3. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+VOTO
+O EXMO. MINISTRO HUMBERTO MARTINS (relator):
+Não obstante o esforço contido nas razões de agravo interno, não prospera a pretensão recursal.
+Mediante análise dos autos, verifica-se que a parte, no momento da interposição do recurso, não apresentou o inteiro teor do acórdão paradigma (ementa, acórdão, relatório, voto e certidão ou termo de julgamento), uma vez que foi constatada a ausência da ementa do acórdão.
+Dessa forma, a parte deixou de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável. Ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+A propósito, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. SUSPENSÃO DO PROCESSO NO STJ. AFETAÇÃO. INDEFERIMENTO. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. VÍCIO FORMAL INSANÁVEL. NÃO APLICAÇÃO DA REGRA DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015.
+1. Ação de cobrança, em que se discute o dever de informação da seguradora sobre as condições da apólice de seguro de vida em grupo.
+2. A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, com correspondência no art. 1.037, II, do NCPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias. Precedentes.
+3. A Corte Especial firmou o entendimento de que a ausência de juntada das cópias ou do repositório do inteiro teor dos arestos apontados como paradigmas configura vício formal insanável, o que afasta a incidência do parágrafo único do art. 932 do CPC/2015.
+5. Agravo interno nos embargos de divergência desprovidos. (AgInt nos EDcl nos EREsp n. 1.859.673/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/9/2022, DJe de 22/9/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. AGRAVO INTERNO DESPROVIDO.
+1. Falta aos embargos de divergência pressuposto básico para sua admissibilidade na hipótese em que o mérito do acórdão embargado não foi analisado devido ao óbice da Súmula n. 7 do STJ, que incide em razão das particularidades de cada caso e indica a existência de controvérsias em relação às questões fáticas, cuja pacificação não é cabível por meio desse recurso.
+2. A juntada do inteiro teor do acórdão paradigma (relatório, voto ementa/acórdão e certidão de julgamento) ao recurso de embargos de divergência constitui regra técnica que condiciona o conhecimento desse recurso.
+3. Agravo interno desprovido. (AgInt nos EREsp n. 1.835.498/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 23/8/2022, DJe de 25/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CERTIDÃO
+DE JULGAMENTO. ACÓRDÃO PARADIGMA. INTEIRO TEOR. AUSÊNCIA. REGRA TÉCNICA. VÍCIO INSANÁVEL.
+1. Na hipótese dos autos, não consta a juntada do inteiro teor do acórdão paradigma (relatório, voto, ementa/acórdão e certidão de julgamento), de modo que não foi cumprida regra técnica para conhecimento do recurso, o que constitui vício substancial insanável. Precedentes: Corte Especial; Primeira, Segunda e Terceira Seções.
+2. AGRAVO INTERNO NÃO PROVIDO. (AgInt nos EAREsp n. 1.771.001/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 16/8/2022, DJe de 18/8/2022.)
+Cabe registrar que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça. Cito os precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO ESPECIAL. NÃO CABIMENTO. ACÓRDÃO PARADIGMA QUE NÃO JULGA O MÉRITO RECURSAL. ACÓRDÃO EMBARGADO DE MÉRITO. IMPOSSIBILIDADE DE APRECIAÇÃO DA DIVERGÊNCIA.
+1. No âmbito dos embargos de divergência, não se rejulga o recurso especial, sendo incabível analisar possível acerto ou desacerto do acórdão embargado, mas tão somente se avalia eventual dissídio de teses jurídicas com o objetivo de uniformizá-las.
+2. Nos termos da jurisprudência desta Corte, não se conhece da divergência jurisprudencial entre julgado que incursiona no mérito da demanda e outro que não ultrapassa o juízo de admissibilidade, ante a verificação de óbice processual. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt nos EREsp n. 1.792.225/CE, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL - ACÓRDÃO EMBARGADO QUE APLICOU OS ENUNCIADOS DAS SÚMULAS N.ºS 5 E 7/STJ - INVIABILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INSURGÊNCIA DOS AGRAVANTES .
+1. É inviável, em sede de embargos de divergência, discussão sobre o acerto ou desacerto da regra técnica de conhecimento utilizada pelo relator do julgado embargado. Precedentes.
+2. Agravo interno desprovido. (AgInt nos EAREsp n. 1.691.411/GO, relator Ministro Marco Buzzi, Segunda Seção, DJe de 30/6/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
