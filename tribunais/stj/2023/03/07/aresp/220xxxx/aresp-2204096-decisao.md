@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, porquanto incidente a Súmula nº 7/STJ.
+"DANIEL GIMENES, qualificado nos autos, foi condenado a cumprir pena de quatro (4) anos de reclusão, mais três (3) meses e quinze (15) dias de detenção, bem como a proceder ao pagamento de multa correspondente a vinte e três (23) diárias, unidade no piso, como incurso nos artigos 19 do Decreto-lei 3.688/41, 250, § 1º, II, "a" (em relação à vítima Tie Furie Nishimura), 329, caput e 147, caput, por três vezes (em relação às vítimas Clauber, Fábio e Adenilson), na forma do artigo 69, todos do Código Penal, estipulado o regime semiaberto diante das corporais, possibilitada a apresentação de recurso em liberdade, absolvendo-o quanto ao crime previsto no artigo 150, caput, daquele mesmo Estatuto Repressor, com fundamento no artigo 386, inciso VII, do Código de Processo Penal" (fl. 552).
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+No recurso especial de fls. 594-616, interposto com fundamento na alínea "a" do permissivo constitucional, aponta o recorrente, ora agravante, negativa de vigência aos arts. 42 do Código Penal e 387, § 2º, do Código de Processo Penal, afirmando, em suma, que não foi realizada a detração da pena que cumpriu preventivamente, ocorrendo, assim, excesso de execução.
+Requer, ao final, "que seja realizada a detração da pena, modificando a fixação do regime prisional inicial de cumprimento da pena para o regime aberto, nos termos do disposto no artigo 33, § 2º, alínea "c" do Código Penal" (fl. 616).
+A pretensão trazida no apelo nobre de fls. 594-616 já foi analisada no HC 718.151/SP, conexo ao presente recurso, julgado em 9/8/2022 pela 6ª Turma desta Corte, ocasião na qual negou-se provimento ao agravo regimental no habeas corpus interposto pelo ora agravante.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
