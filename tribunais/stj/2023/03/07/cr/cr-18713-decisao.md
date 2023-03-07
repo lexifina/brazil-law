@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça argentina (Procuradoria Federal de Primeira Instancia de Eldorado Misiones) solicita que se proceda à notificação de NILSON CARNEIRO DE MORAES, nos autos do Processo n. FPO-5819/2022 (Caso Coiron 45668/2022), para que constitua defensor de sua confiança, no prazo de dez (10) dias úteis contados da notificação, com advertência de que, no silêncio, ser-lhe-á designado, de oficio, assistência prestada pelo Estado, através do Ministério Público da Defesa, por intermédio do Defensor Oficial Federal Coadjuvante, Dr. Ricardo José Cantero Leyes, com domicílio em Av. Córdoba n. 278 de Eldorado, Mnes, telefone 03751-420420 (Art., 104, 106, 107 108 e concordantes do CPPN)" (fl. 4).
+Verifica-se que o conteúdo desta carta rogatória é idêntico ao da CR 18126 , razão pela qual deve ser arquivada a presente comissão.
+Cumpra-se.
