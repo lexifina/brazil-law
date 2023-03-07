@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por LIDIO ALVES PEREIRA NETO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado (e-STJ, fl. 217):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTOPROVISÓRIO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. PLANO COLLOR. LEVANTAMENTO DE VALORES. EXIGÊNCIADE CAUÇÃO. NECESSIDADE. DECISÃO MANTIDA. AGRAVODE INSTRUMENTO IMPROVIDO.
+1. A dispensa de caução é medida excepcional, que se revela possível quando preenchidos os requisitos do art. 521 CPC, ou seja, nas situações em que a prestação é de natureza alimentar ou decorrente de ato ilícito em que o valor não ultrapassa o limite de 60 (sessenta) vezes o salário mínimo e se prove o estado desnecessidade, não se vislumbrando ser esta a hipótese dos autos, conforme se depreende da leitura da petição inicial (cumprimento de sentença - plano Collor).
+2. O artigo 520, inciso IV, do CPC, dispõe que o levantamento de depósito realizado no cumprimento provisório de sentença, dependerá de caução suficiente e idônea. No caso dos autos, pende julgamento de recurso na superior instância.
+3. Ademais, ainda que assim não fosse, a legislação permite a exigência de caução quando da dispensa possa resultar manifesto risco de grave dano de difícil ou incerta reparação, como no caso dos autos, considerando a importância vultuosa depositada (R$40.979,21). Assim, para o levantamento do valor, deverá a parte prestar caução suficiente e idônea ou comprovar o trânsito em julgado.
+4. Recurso conhecido e improvido. Decisão mantida.
+Em suas razões (e-STJ, fls. 306-334), o recorrente aponta violação do art. 521, III e IV, do CPC/2015, além de divergência jurisprudencial , sustentando ser desnecessária a caução para o levantamento de valores no curso da execução provisória.
+Contrarrazões às fls. 340-345 (e-STJ).
+Brevemente relatado, decido.
+A controvérsia tem origem em agravo de instrumento interposto contra decisão que havia indeferido o pedido de levantamento de honorários advocatícios.
+O Tribunal de Justiça negou provimento ao recurso, sob os seguintes fundamentos (e-STJ, fls. 210-211):
+Ressalte-se, que a dispensa de caução é medida excepcional, que se revela possível quando preenchidos os requisitos do art. 521 CPC, ou seja, nas situações em que a prestação é de natureza alimentar ou decorrente de ato ilícito em que o valor não ultrapassa o limite de 60 (sessenta) vezes o salário mínimo e se prove o estado de necessidade, não se vislumbrando ser esta a hipótese dos autos, conforme se depreende da leitura da petição inicial(cumprimento de sentença - plano Collor).
+A impugnação ao cumprimento de sentença ajuizada pelo agravado, embora decidida pelo juízo singular delimitando a quantia devida, não transitou em julgado, haja vista o sobrestamento dos recursos especiais e extraordinário.
+(..)
+Frisa-se que o artigo 520, inciso IV, do CPC, dispõe que o levantamento de depósito realizado no cumprimento provisório de sentença, dependerá de caução suficiente e idônea. No caso dos autos, pende julgamento de recurso na superior instância.
+Ademais, ainda que assim não fosse, a legislação permite a exigência de caução quando da dispensa possa resultar manifesto risco de grave dano de difícil ou incerta reparação, como no caso dos autos, considerando a importância vultuosa depositada (R$ 40.979,21). Assim, para o levantamento do valor, deverá a parte prestar caução suficiente e idônea ou comprovar o trânsito em julgado.
+O recorrente argumenta, em suma, que o caso dos autos se submete à regra objetiva, não cabendo análise de riscos para o fim de se exigir caução, haja vista (i) a pendência do agravo do art. 1.042 do CPC/2015 e (ii) a inexistência de julgados do STF e do STJ contra a decisão executada.
+Contudo, diante das especificidades de cada caso, é possível manter a caução quando a sua dispensa puder resultar manifesto risco de grave dano de difícil ou incerta reparação (art. 521, parágrafo único, do CPC/2015).
+A propósito:
+PROCESSO CIVIL. RECURSOS ESPECIAIS MANEJADOS SOB A ÉGIDE DO NCPC. EXECUÇÃO PROVISÓRIA. ART. 475-O, § 2º, II, DO CPC/73. (1) RECURSO DE ARIETE E SUAS FILHAS: AGRAVO EM RECURSO ESPECIAL TIRADO NOS AUTOS DA AÇÃO PRINCIPAL. CONVERSÃO EM APELO NOBRE. DESPROVIMENTO POR DECISÃO UNÂNIME DA TERCEIRA TURMA DO STJ. LIBERAÇÃO DO VALOR TOTAL EXECUTADO. CAUÇÃO. DISPENSA. INEXISTÊNCIA DE RISCO DE GRAVE DANO, DE DIFÍCIL OU INCERTA REPARAÇÃO, PARA OS EXECUTADOS. (2) RECURSO DA CASSI: AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF, POR ANALOGIA. RECURSO ESPECIAL DE ARIETE SUAS FILHAS PROVIDO. RECURSO ESPECIAL DA CASSI NÃO CONHECIDO.
+1. Os recursos especiais foram interpostos contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O objetivo da execução provisória é conferir celeridade ao processo. Assim, antes do trânsito em julgado, poderá o credor pleiteá-la, nas situações previstas em lei.
+3. O art. 475-O, § 2º, II, do CPC/73, autoriza que a caução, na execução provisória, seja dispensada caso penda agravo de instrumento junto ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça (art. 544), salvo quando da dispensa possa manifestamente resultar risco de grave dano, de difícil ou incerta reparação.
+(..)
+9. Recurso especial de Ariete e suas filhas provido. Recurso especial da CASSI não conhecido.
+(REsp n. 1.686.751/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/8/2017, DJe de 31/8/2017 - sem grifo no original)
+No caso, o acórdão entendeu ser necessária a caução, por se tratar de vultosa quantia, inserida em cumprimento provisório de sentença, havendo risco de grave dano, de difícil ou incerta reparação para o devedor.
+Para alterar o desfecho conferido ao processo e concluir pela prescindibilidade da caução, seria necessário revolvimento de provas, vedado pela Súmula 7/STJ, conforme é do entendimento das duas Turmas que compõem a Segunda Seção esta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ART. 521, PARÁGRAFO ÚNICO, DO CPC/2015. DISPENSA DE CAUÇÃO. AUSÊNCIA DE ELEMENTOS NOS AUTOS APTOS A DEMONSTRAR A EXISTÊNCIA DE RISCO DE GRAVE DANO DE DIFÍCIL OU INCERTA REPARAÇÃO DECORRENTE DA DISPENSA. PRETENSÃO DE REVISÃO DA PREMISSA FIXADA NO ACÓRDÃO RECORRIDO. INVIABILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1465855/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA. CAUÇÃO. DESNECESSIDADE. SÚMULA 7/STJ. JUROS DE MORA E CORREÇÃO MONETÁRIA. SÚMULA 254/STF.
+1. O Tribunal de origem, ao ponderar a urgência e os riscos envolvidos, concluiu que não há necessidade de prestação de caução para o levantamento de valor incontroverso, na pendência de julgamento de agravo de instrumento perante o STF. A pretensão recursal de ver reconhecida a existência de risco de dano à executada demandaria o reexame de provas, o que é vedado em sede de recurso especial (Súmula 7/STJ). Precedentes.
+2. A matéria referente aos arts. 614, II, e 475-J do CPC não foi objeto de discussão no julgamento recorrido, de modo que carece do indispensável prequestionamento (Súmulas 282/STF e 211/STJ).
+3. A inclusão de juros de mora e a correção monetária na execução independe de pedido expresso e de determinação contida na sentença exequenda (Súmula 254/STF).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 72.420/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/08/2013, DJe 22/08/2013)
+Ante o exposto, conheço do agravo par a não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. LEVANTAMENTO DE DEPÓSITO PELO CREDOR. NECESSIDADE DE PRESTAR CAUÇÃO. RISCO DE DANO GRAVE DE DIFÍCIL OU INCERTA REPARAÇÃO. ALTERAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. REVOLVIMENTO DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CO NHECIDO.
