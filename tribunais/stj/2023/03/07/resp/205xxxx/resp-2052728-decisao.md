@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por INCORPY INCORPORACOES E CONSTRUCOES S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 01/08/2022.
+Concluso ao Gabinete em: 01/03/2023.
+Ação: de rescisão contratual, ajuizada pela recorrente, em desfavor de MAURA CELI MARTINS, em virtude de suposto inadimplemento de contrato de promessa de compra e venda de imóvel firmado entre as partes.
+Sentença: julgou procedente o pedido, para declarar a rescisão do contrato firmado entre as partes, com fixação de indenização prevista na cláusula VIII, § 1º do instrumento firmado, bem como de indenização pela fruição do bem.
+Acórdão: conheceu em parte da apelação interposta pela recorrida e, nesta extensão, deu-lhe parcial provimento, a fim de afastar o pleito de rescisão contratual formulado; e julgou prejudicada a apelação interposta pela recorrente. O acórdão foi assim ementado:
+RECURSOS DE APELAÇÃO - AÇÃO DE RESCISÃO CONTRATUAL - COMPRA E VENDA DE IMÓVEL - ALEGAÇÃO DE INADIMPLEMENTO PELA PROMITENTE COMPRADORA - PRELIMINAR DE INOVAÇÃO RECURSAL - ACOLHIMENTO EM PARTE - INOVAÇÃO DE TESE EM GRAU DE RECURSO - APELAÇÃO CONHECIDA CABIMENTO DA PARTE REQUERIDA PARCIALMENTE - MÉRITO - RESCISÃO CONTRATUAL - NÃO DE AÇÃO  TRAMITAÇÃO PARALELA INDENIZATÓRIA POR ATRASO NA ENTREGA DO IMÓVEL JULGADA PROCEDENTE E TRANSITA EM JULGADO - ORDEM JUDICIAL PELA SUSPENSÃO DAS PARCELAS VINCENDAS E ATUALIZAÇÃO DO SALDO DEVEDOR ATÉ A EFETIVA ENTREGA DO IMÓVEL - PARTE REQUERIDA QUE COMPROVOU A AUSÊNCIA DA MORA DIANTE DA EXISTÊNCIA DE DECISÃO JUDICIAL - CONSTRUTORA QUE NÃO COMPROVOU A ENTREGA FORMAL DA UNIDADE IMOBILIÁRIA - INDENIZAÇÃO POR DANOS MORAIS E APLICAÇÃO DE MULTA POR LITIGÃNCIA DE MÁ-FÉ - NÃO CABIMENTO - RECURSO DA PROMITENTE VENDEDORA - PREJUDICADO - SENTENÇA DE PROCEDÊNCIA REFORMADA - RECURSO DA REQUERIDA PARCIALMENTE CONHECIDO E NA PARTE CONHECIDA PARCIALMENTE PROVIDO - RECURSO DA REQUERENTE PREJUDICADO (e-STJ fls. 471).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação dos arts. 10, 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015. Alega a ocorrência de negativa de prestação jurisdicional, bem como a prolação de decisão surpresa por parte do TJ/AM.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do Tribunal de origem residem na alegação de que o TJ/AM, apesar de instado a manifestar-se por meio de embargos declaratórios, quedou-se contraditório em suas conclusões, pois não acatou a tese da recorrida de que não teria havido a ocupação do imóvel - considerando tratar-se de inegável inovação recursal -, ao passo que reconheceu a ausência de provas quanto à entrega do bem.
+No mais, a recorrente aponta omissão do acórdão recorrido no tocante às alegações i) de efetiva entrega do imóvel, comprovada pela emissão de taxas condominiais em nome da recorrida desde 10/12/2013, e que atestam que a mesma estava na posse do imóvel, usufruindo de seus benefícios; e ii) de existência de Boletim de Ocorrência, registrado pela recorrente contra a recorrida, em virtude da troca das fechaduras do imóvel.
+Da análise do processo, contudo, constata-se que o Tribunal, ao julgar os embargos de declaração opostos pelo recorrente, foi omisso quanto a estes argumentos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício suscitado, bem como a remessa dos autos ao TJ/AM, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte em tais razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para: a) anular o acórdão que julgou os embargos de declaração opostos pela recorrente; e b) determinar a remessa dos autos ao TJ/AM, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito dos supracitados fundamentos tidos por contraditórios e omissos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. CONTRADIÇÃO E OMISSÃO APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de rescisão contratual, em virtude de suposto inadimplemento de contrato de promessa de compra e venda de imóvel firmado entre as partes.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se e é contraditório no exame de questões pertinentes para a resolução da lide.
+3. Recurso especial conhecido e provido.
