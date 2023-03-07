@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARIA DO SOCORRO PINTO DE SOUSA contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0620382-54.2022.8.06.0000.
+Consta nos autos que a Recorrente foi presa preventivamente, em 16/02/2021, e, posteriormente, denunciada como incursa nos arts. 2.º, caput, § 2.º, da Lei n. 12.850/2013, 33 e 35 da Lei n. 11.343/2006. O Juízo de primeira instância indeferiu pedido de revogação/relaxamento da prisão.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões recursais, a Defesa alega que há excesso de prazo para a formação da culpa.
+Aduz que "a recorrente foi presa exclusivamente pela gravidade abstrata do crime e a seriedade dos fatos colididos na investigação, o que, de per si, não deveria embasar a referida constrição" (fl. 302), e que se mostra possível a fixação de medidas cautelares diversas da prisão.
+Sustenta que a Recorrente não responde a nenhum outro processo, tem residência fixa e trabalho lícito, além de ser mãe de dois filhos, um de 15 anos e outro de 13 anos, que dependem de seus cuidados.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva ou a conversão da prisão em domiciliar ou, ainda, a substituição por outra medida cautelar.
+O pedido liminar foi indeferido às fls. 325-327.
+Foram prestadas informações às fls. 333-336.
+O Ministério Público Federal manifestou-se às fls. 338-341, opinando pelo desprovimento do recurso.
+É o relatório. Decido.
+Quanto à alegada ausência dos requisitos da prisão e possibilidade de concessão de medidas cautelares diversas da prisão ou prisão domiciliar, observo que as questões não foram apreciadas pelo Tribunal a quo no acórdão ora impugnado, de modo que não podem ser conhecidas originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A respeito do alegado excesso de prazo para a formação da culpa, o Tribunal de origem destacou o que segue (fls. 280-281; sem grifos no original):
+"Na espécie, inicialmente, trata-se de Ação Penal com expressiva complexidade, sobretudo em decorrência do concurso de 25 (vinte e cinco) pessoas no polo passivo, múltiplos recursos entre Pedidos de Liberdade Provisória, Habeas Corpus, Recurso Especial e Extraordinário.
+Sobre o tema, o Tribunal de Justiça do Estado do Ceará, através da Súmula Nº 15 desta Corte, positivou entendimento de que as particularidades da demanda e a pluralidade de réus podem justificar o alongamento do processo.
+É oportuno registrar que a concessão de Habeas Corpus em face da ocorrência de excesso de prazo é medida de todo excepcional, somente admitida quando resultante de inércia ou morosidade atribuíveis ao aparato judicial, premissas que não foram observadas no caso em apreço.
+ .. "
+No caso, trata-se de processo de elevada complexidade, tendo sido a ação inicialmente proposta contra mais de vinte acusados, os quais estão segregados em comarcas distintas e são representados por diversos Advogados.
+Observo dos andamentos obtidos no endereço eletrônico do Tribunal de origem e nos registros processuais desta Corte que houve desmembramento do feito e que foram apresentados diversos incidentes processuais, tanto na ação penal originária quanto no feito desmembrado.
+Ademais, em informações prestadas pelo Juízo processante nos autos do HC 754.480/CE, impetrado em favor de corréu, foi consignado que foi iniciada audiência de instrução, em 1.º/02/2023, tendo sido determinada a suspensão do ato a pedido do Ministério Público, para oitiva de testemunhas ausentes, a qual foi designada para os dias 15 e 16 de maio de 2023, a evidenciar que o feito tem contínua tramitação, o que afasta a ocorrência de desídia no caso.
+Destaque-se que somente se cogita a existência de constrangimento ilegal quando o excesso de prazo for motivado pelo descaso injustificado do juízo, o que não se verifica na hipótese em tela. Além disso, como se sabe, os prazos indicados para o fim da persecução criminal servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade.
+A propósito:
+" ..
+9. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+10. Na espécie, a ação se desenvolve de forma regular, sem desídia ou inércia do Magistrado singular, podendo eventual retardo na instrução decorrer da complexidade do feito, que envolve uma pluralidade de réus (14), com advogados distintos, extenso número de testemunhas, com interceptações telefônicas e extenso trabalho investigativo, além da necessidade de análise de pleitos incidentais de revogação das prisões preventivas, tudo a contribuir para demora na marcha processual.
+11. Ademais, não se ignoram os transtornos relacionados à suspensão de trabalhos presenciais, ante as medidas adotadas para evitar a disseminação do novo coronavírus, situação que, ao lado das demais circunstâncias anteriormente mencionadas, colaboram com um razoável e inevitável, ainda que indesejável, prolongamento da marcha processual.
+12. Agravo regimental improvido." (AgRg no HC 725.077/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/04/2022, DJe 29/04/2022.)
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.
+ ..
+5. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+6. No caso em exame, o agente encontra-se custodiado desde 16/8/2021, mas o feito vem tendo regular andamento, ocorrendo apenas um pequeno atraso em razão da ausência de testemunhas de acusação em uma audiência, o que não importa em automático reconhecimento de excesso de prazo porquanto decorridos somente 8 meses de custódia.
+7. Na mesma linha a manifestação da Procuradoria-Geral da República, para quem "ainda que tenha transcorrido tempo superior ao desejável em decorrência de ausência de testemunha de acusação, não se pode concluir pela inércia no trâmite processual, já que não se verifica inércia do Poder Judiciário, nem excessiva mora no trâmite processual".
+8. Ordem denegada, acolhido o parecer ministerial." (HC 717.571/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/03/2022, DJe 25/03/2022.)
+Ante o exposto, CONHEÇO EM PARTE do recurso ordinário em habeas corpus e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. CRIMES PREVISTOS NOS ARTS. 2.º, CAPUT, § 2.º, DA LEI N. 12.850/2013, 33 E 35 DA LEI N. 11.343/2006. PRISÃO PREVENTIVA. REQUISITOS DA PRISÃO E PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PRINCÍPIO DA RAZOABILIDADE. PECULIARIDADES DO FEITO. DESÍDIA ESTATAL NÃO VERIFICADA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO .
