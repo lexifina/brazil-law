@@ -1,0 +1,60 @@
+DECISÃO
+FLAVIO SOUZA DOS SANTOS VAZ SARDINHA alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0020384-71.2008.8.19.0204.
+A defesa argumenta que a pena-base do réu foi fixada no mínimo legal e que a intensidade do dolo não é fundamento idôneo a justificar o aumento da reprimenda em três vezes em razão da continuidade delitiva.
+Pretende seja reconhecida a falta de fundamentação do acórdão e seja aplicada a fração de 1/5 para o referido incremento.
+O Ministério Público Federal opinou "pelo não conhecimento do writ, e se conhecido, que seja denegada a ordem" (fl. 160).
+Decido.
+Submetido a julgamento pelo Tribunal do Júri, o paciente foi condenado a 37 anos e 6 meses de reclusão pelo crime previsto no art. 121, § 2º, II, do CP, por três vezes, em concurso material.
+Inconformada, a defesa apelou à Corte estadual, que deu parcial provimento ao pleito, de modo que estabeleceu a pena-base no mínimo legal, reconheceu a continuidade entre os delitos e fixou a sanção em 36 anos de reclusão. O Tribunal a quo rejeitou os embargos declaratórios opostos pelo réu e, de acordo com pesquisa realizada no sistema eletrônico da Corte de origem, a condenação transitou em julgado em 21/3/2016.
+Assim, percebo que a presente impetração é substitutiva de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no caso. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. REANÁLISE DA AÇÃO PENAL. EXAME APROFUNDADO DE PROVAS. IMPOSSIBILIDADE. TESES INOVADORAS. SUPRESSÃO DE INSTÂNCIA. BIS IN IDEM. IMPOSSIBILIDADE DE COMPREENSÃO DA ALEGAÇÃO. RECURSO NÃO CONHECIDO.
+1. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão recorrida, não merece ser conhecido o agravo regimental.
+2. Não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621, do CPP.
+3. A impetração de habeas corpus não pode acontecer para simplesmente desejar uma reanálise das teses e argumentos apresentados no âmbito de ação penal transitada em julgada, especialmente quando nela houve interposição de recurso especial, agravo contra sua inadmissibilidade e agravo regimental, tudo isso sem êxito inclusive no âmbito deste Tribunal Superior.
+4. Não havendo ilegalidade nas decisões oriundas das instâncias ordinárias, prolatadas no bojo de uma ação penal, é impossível alterar-se seu resultado por meio de habeas corpus ou sucessivo recurso ordinário, porque para tanto seria indevidamente exigido um aprofundado exame das provas produzidas na causa originária.
+5. Não é possível a apresentação, em sede de recurso ordinário, de teses inovadoras, que não foram apreciadas oportunamente pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+6. Não há como apreciar tese de bis in idem quando ela é extremamente confusa, misturando vários tipos penais diferentes e sem menção a ter ou não havido condenação por fatos idênticos no âmbito de ações penais diversas.
+7. Agravo regimental não conhecido.
+(AgRg no RHC n. 150.320/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/12/2021, destaquei)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INTIMAÇÃO PESSOAL DA SENTENÇA. RÉU SOLTO. ART. 392, II, CPP. PRESCINDIBILIDADE. PRECEDENTES. CASO CONCRETO: INTIMAÇÃO DO DEFENSOR COMPROVADA. TRÂNSITO EM JULGADO. REVISÃO CRIMINAL NÃO BUSCADA. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+IV - De todo modo, tem-se que o presente recurso ordinário em habeas corpus foi utilizado como sucedâneo de revisão criminal - o que não se mostra possível, até mesmo pela falta dos pressupostos do art. 621 do Código de Processo Penal (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019).
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC n. 145.440/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 31/5/2021, grifei).
+Os óbices acima apontados só podem ser superados quando demonstrada, de plano, uma das hipóteses previstas no art. 621 do CPP, ou, ainda, ilegalidade flagrante, o que não é o caso dos autos.
+A revisão criminal é uma ação penal sui generis que visa corrigir erro provocado por decisão judicial desfavorável ao réu que tenha transitado em julgado. A prestação jurisdicional deve sempre buscar a justiça de suas decisões, pois o poder punitivo do estado somente se legitima com a comprovação da responsabilidade penal do réu. Por isso, a revisão criminal é um instituto valioso na busca da verdade material das decisões judiciais.
+No entanto, por desconstituir a coisa julgada (instituto também importante para preservação da segurança jurídica), deve ter aplicabilidade bastante restrita.
+Nesse sentido, o art. 621 do Código de Processo Penal dispõe que a revisão dos processos findos será admitida quando a sentença condenatória: a) for contrária ao texto expresso da lei penal ou à evidência dos autos; b) se fundar em depoimentos, exames ou documentos comprovadamente falsos; c) caso, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+No caso em exame, não constato a caracterização de nenhuma das hipóteses que autorizaria o ajuizamento de revisão criminal.
+O réu pleiteou a redução da pena, sem, contudo, apresentar circunstâncias novas que poderiam ensejar o redimensionamento pretendido. Assim, a princípio, deve ser preservada a coisa julgada, notadamente porque as teses ora formuladas foram devidamente apreciadas pela Corte local.
+Além disso, entendo pertinente destacar não haver flagrante ilegalidade na conclusão do colegiado estadual.
+O Tribunal de origem fixou a pena-base do réu no mínimo legal, mas entendeu por bem aumentar no triplo a reprimenda em função da continuidade delitiva, sob os seguintes fundamentos (fls. 29 e 37-39):
+Todavia, deve a pena aqui, e como se tratou de três vidas humanas subtraídas na mesma oportunidade, aplica-se a pena mínima pelo triplo, conforme preceitua o art. 71, parágrafo único, do CP, em face da gravidade desse crime único por mera ficção legal e que chegou a ser capitulado pelo júri como homicídio torpe.
+O embargante mereceu o cúmulo material e não a exasperação, por expressa previsão do parágrafo único, do art. 71 do CP.
+Não se pode confundir o bem jurídico "vida", considerado o de maior relevância de tutela por todo e qualquer ramo do direito, notadamente o penal, com qualquer outro (honra, patrimônio, dano material), por sua pertinência tanto à existência física, como, quem vê e também a espiritual.
+Assim não se pode dar o mesmo tratamento a bens personalíssimos e tão significativos, como o que é comum admitir com relação ao patrimônio.
+No caso foram três vidas subtraídas, assim se grafarmos como A, B ou C as vítimas, quais delas valeriam de 1/6 a 2/3  Todas um inteiro por certo.
+Evidentemente que cada vida humana tem o mesmo valor, não podendo ser aplicado critério diverso do que o encontrado na individualização da pena, distinguindo equivalência e autonomia para cada resposta penal, e assim o total de 36 anos de reclusão.
+Neste sentido, pontifica Nucci:
+ ..
+Ainda, neste sentido, leia-se o julgado da Suprema Corte:
+ ..
+Outrossim, e apesar do enunciado 605 da súmula do STF ter sido derrogado pelas novas disposições do art. 71 e seu parágrafo do CP, na prática permanece a consequência jurídica do cúmulo punitivo, por força de sua previsão quanto aos bens personalíssimos, com destaque para a vida humana.
+Diz a súmula:
+"Não se admite continuidade delitiva nos crimes contra a vida" Por tais fundamentos, CONHEÇO dos embargos para REJEITÁ-LOS.
+Segundo a jurisprudência do STJ, a fração de aumento em virtude da continuidade criminosa é avaliada sob aspectos objetivos e subjetivos. Assim, o incremento leva em consideração não apenas o número de crimes cometidos e de vetoriais negativadas, mas também elementos relativos à própria conduta.
+Dessa forma, em que pese aos argumentos defensivos, uma vez que a Corte estadual apontou haver sido o agir do acusado dotado de especial gravidade, pois matou três pessoas por motivo torpe, não identifico situação apta a ensejar a superação dos óbices já apontados.
+Exemplificativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. DOSIMETRIA. FRAÇÃO DE AUMENTO PELA CONTINUIDADE DELITIVA ESPECÍFICA. MANUTENÇÃO DA RAZÃO DE 2/3, APESAR DA INEXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS. FRAÇÃO MANTIDA COM BASE NOS ASPECTOS E NA GRAVIDADE EM CONCRETO DOS DELITOS. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. TESES DE BIS IN IDEM E APLICAÇÃO ANALÓGICA DA FRAÇÃO DA CONTINUIDADE DELITIVA COMUM NÃO CONHECIDAS. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. No que tange à continuidade delitiva específica, descrita no art. 71, parágrafo único, do Código Penal, além daqueles requisitos exigidos para aplicação do benefício penal da continuidade delitiva simples, são concomitantemente requisitos da modalidade específica que os crimes praticados sejam: I) dolosos; II) realizados contra vítimas diferentes; e III) cometidos com violência ou grave ameaça à pessoa.
+2. Ademais, o Superior Tribunal de Justiça entende que, para a fixação da fração de aumento em razão da continuidade delitiva específica, também devem ser analisados, em conjunto, tanto o aspecto objetivo- número de infrações cometidas - como os subjetivos - relativos à verificação da culpabilidade, dos antecedentes, da conduta social, da personalidade do agente, dos motivos e das circunstâncias do crime. Assim, tal análise em conjunto permite que a fração de aumento leve em consideração os fatores subjetivos das condutas, e não apenas o número de crimes cometidos e de vetoriais negativadas.
+3. Na espécie, o Tribunal de origem, apesar de a pena-base ter sido fixada no mínimo legal, reduziu a fração de aumento em razão da continuidade delitiva específica do art. 71, parágrafo único, do Código Penal, para a razão de 2/3, ao idôneo argumento de que a gravidade dos delitos, cometidos apenas porque uma das vítimas era de facção rival (motivo torpe) e estava embriagada no momento do crime (recurso que dificultou a defesa), justifica a fração adotada.
+4. Portanto, agiu corretamente a Corte local ao reconhecer que a fração de 2/3 pela continuidade delitiva específica é a adequada, apesar da inexistência de circunstâncias judiciais negativadas, uma vez que, além da própria gravidade dos delitos, o motivo dos crimes e o emprego de recurso que dificultou a defesa das vítimas foram consideradas por demais gravosas para a redução ainda maior da mencionada fração.
+5. Configuram inovação recursal em agravo regimental e, portanto, não passíveis de conhecimento, as teses de bis in idem na aplicação das qualificadoras dos homicídios e a sua utilização na fundamentação para a fração de 2/3 pela continuidade delitiva específica; bem como de possibilidade de aplicação analógica, ao presente caso, da fração de 1/6 da continuidade delitiva comum.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no HC n. 759.031/SC, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 30/11/2022)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
