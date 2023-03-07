@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Monteiro e Monteiro Advogados Associados e outro contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. CONSTITUCIONAL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. FUNDEF. ASSOCIAÇÃO. LIMITES SUBJETIVOS DA COISA JULGADA. ILEGITIMIDADE DO EXEQUENTE.
+1. Caso em que pretende o Município de Olinda-PE executar título judicial oriundo de ação movida pela Associação Municipalista de Pernambuco em face da União, em que se discutiu o repasse de verbas relativas a diferenças de FUNDEF, de acordo com o Valor Mínimo Anual por Aluno - VMAA, nos termos do art. 6º da Lei n. 9.424/1996;
+2. A execução individual de título judicial oriundo de ação ordinária coletiva movida por associação, somente pode ser deflagrada por aquele que, constando da relação acostada à inicial, tenha expressamente concedido autorização para o processo de conhecimento (STF - RE 573232 - submetido à sistemática da repercussão geral) ;
+3. No caso, não houve autorização expressa do mesmo para a propositura da ação, de modo que ele não pode ser considerado beneficiário do título executivo;
+4. A questão posta refere-se aos limites subjetivos da coisa julgada, não se confundindo com a legitimidade da AMUPE para o manejo da ação (resolvida na cognição);
+5. Apelação da União provida, para extinguir a execução. Apelação do Município, que versava tão somente honorários advocatícios, prejudicada.
+Os embargos de declaração opostos pelo Município foram parcialmente providos apenas para determinar que fossem anexadas as notas taquigráficas.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente aponta violação dos seguintes dispositivos: a) art. 1.022, II e parágrafo único, I, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) arts. 502 e 503 do Código de Processo Civil, aduzindo a necessidade de preservação da coisa julgada.
+Houve contrarrazões ao recurso especial (e-STJ fls. 884/916).
+É o relatório. Decido.
+A insurgência não merece prosperar.
+Inicialmente, argumenta-se que o Tribunal local deixou de se manifestar acerca da existência de coisa julgada e da aplicação da tese definida nos autos do ARE n. 901963 RG, no qual o Supremo Tribunal Federal, definiu que, quando o título coletivo explicitamente define quem seriam os beneficiados da ação, tal situação se insere nos limites da coisa julgada, o que vedaria a possibilidade de se verificar a existência dos requisitos estabelecidos no julgamento do RE n. 573.232.
+Ocorre que, no julgamento dos primeiros aclaratórios opostos, a Corte de origem fundamentou que (e-STJ fl. 624):
+Registre-se, por oportuno, que o título executivo exequendo não especificou os municípios beneficiados, não havendo que se falar em afronta à coisa julgada.
+A cognição, é importante ter presente, não resolve a questão ora posta, acerca dos limites subjetivos da coisa julgada, tal só se examina no momento da execução.
+Por outro lado, diferentemente do que alega o Município, a data do Julgamento do RE 573.232 não constitui marco regulatório. De fato, o julgamento não inaugura direito, como ocorre com a edição de leis. Quando se julga, julga-se porque, de acordo com as normas existentes, já era assim, de modo que são irrelevantes as datas do julgamento do recurso extraordinário indicado e do transito em julgado do titulo exequendo.
+Do excerto restou clara a ausência de coisa julgada na medida em que o título exequendo não especificou os municípios beneficiados, de forma que não se pode falar em negativa de prestação jurisdicional, mas tão somente em decisão contrária aos interesses da parte.
+No mérito, melhor sorte não assiste a parte.
+Ao aduzir a ofensa à coisa julgada, o recorrente alega que "no processo de conhecimento os beneficiados da ação coletiva foram expressamente identificados" (e-STJ fl. 798). Entretanto, tal argumentação vai de encontro à conclusão do aresto combatido, segundo o qual não houve especificação dos municípios beneficiados.
+Assim, o acolhimento da pretensão recursal exigiria o reexame do acervo fático-probatório dos autos, mais especificamente do processo de conhecimento, a fim de averiguar a definição ou não dos limites subjetivos, providência que esbarra no óbice da Súmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. LIMITAÇÃO. COISA JULGADA. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que, havendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ. Precedentes.
+2. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido realmente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial. Precedentes.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, impedindo o conhecimento do recurso pela alínea "c" do permissivo constitucional (AgInt no AREsp 964.391/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 21.11.2016).
+4. Não há que falar em sobrestamento do feito, uma vez que as alegações da agravante apenas apontam para iminência de encaminhamento de IRDR ao STJ, inexistindo, portanto, ordem de sobrestamento. Não obstante, ainda que houvesse afetação da tese via Recurso Representativo de Controvérsia, essa não implicaria o sobrestamento dos processos em curso no STJ, mas apenas aqueles em trâmite nos Tribunais de origem; e não se aplicariam ao caso em tela, em que há incidência de óbice sumular ao conhecimento do Recurso Especial.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.019.640/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. OFENSA À COISA JULGADA. LIMITES SUBJETIVOS NA AÇÃO DE CONHECIMENTO. SÚMULA N. 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO .
