@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por UNITEXTIL UNIÃO INDUSTRIAL TÊXTIL S.A., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado ( fl. 360):
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. CRÉDITO-PRÊMIO DE IPI. CÁLCULOS. RESOLUÇÃO CIEX 02/1979. LIQUIDAÇÃO POR ARTIGOS. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+2. Inexiste violação dos arts. 458, II, e 535, II, do CPC/1973 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. O acórdão recorrido atuou em harmonia com a orientação jurisprudencial do Superior Tribunal de Justiça, ao entender que, nos cálculos para restituição dos valores devido a título de crédito-prêmio de IPI, é necessária a liquidação por artigos, devendo ser observadas as alíquotas da Resolução CIEX n. 02/1979.
+4. O Tribunal de origem não incorreu em julgamento ultra ou extra petita, porquanto se verifica que procedeu à interpretação lógico-sistemática do pedido e da causa de pedir, atuando em harmonia com a orientação da jurisprudência do Superior Tribunal de Justiça.
+5. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+6. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+7. Agravo interno desprovido.
+A parte recorrente sustenta a violação dos arts. 5º, XXXVI e 93, IX da CF, sob o argumento de ocorrência de ofensa à coisa julgada e ao ato jurídico perfeito e de omissão na fundamentação do acórdão impugnado. Aduz que haveria repercussão geral da matéria tratada.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 428).
+É o relatório.
+A Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quais se negou provimento ao agravo interno, valendo destacar o seguinte excerto (fls. 364-372):
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Os recursos especiais originam-se de acórdão do Tribunal Regional Federal da 5ª Região, que, ao julgar agravo de instrumento, assentou que, no cumprimento de sentença que reconhecera ao contribuinte o direito a indébito relativo ao crédito-prêmio de IPI, devem ser observadas as alíquotas previstas na Resolução CIEX n. 2/1979 e a liquidação da sentença por artigos.
+Eis a ementa do acórdão (e-STJ fl. 107):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. TRIBUTÁRIO. IPI. CRÉDITO - PRÊMIO. EXIGIBILIDADE DE CRÉDITO. ALÍQUOTA. RESOLUÇÃO CIEX N.º 02/79. CÁLCULOS DA CONTADORIA. HOMOLOGAÇÃO. ERRONIA. PARCIAL PROVIMENTO DO RECURSO.
+1 - Cumpre, por rigor lógico, consignar a exigibilidade do título judicial que deferiu à exequente o crédito-prêmio de IPI, em tese, pois diz respeito às operações comerciais realizadas entre novembro de 1988 a fevereiro de 1990, antes, portanto, da extinção do benefício fiscal pela entrada em vigor do art. 41, caput, e § 1º, do ADCT, em 05 (cinco) de outubro de 1990.
+2 - Constata-se, a partir da leitura da sentença exequenda, que ela não apontou qual alíquota deveria ser aplicada para fins do cômputo do montante devido. É certo que, via decisão interlocutória proferida em março de 2009, a primeira instância determinou que o percentual seja de 15% (quinze) por cento. Entretanto, a premissa adotada no decisório está equivocada, porquanto há uma ampla diversidade de alíquotas na Resolução CIEX n.º 02/79, dependendo da natureza dos negócios, e não apenas o referido índice. Constitucionalidade reconhecida pelo STF. Precedente: RE 570680, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 28/10/2009, REPERCUSSÃO GERAL - MÉRITO DJe-228 DIVULG 03-12-2009 PUBLIC 04-12-2009 EMENT VOL-02385- 05 PP -01024 RTJ VOL-00213- PP -00693 RSJADV mar., 2010, p. 41-51 RT v. 99, n. 894, 2010, p. 105-124 LEXSTF v. 32, n. 373, 2010, p. 215-245.
+3 - Para a confecção dos cálculos do montante, devido a título de crédito-prêmio de IPI deve-se proceder à liquidação da sentença por artigos, observando-se as alíquotas estabelecidas na Resolução CIEX n.º 02/79. Entendimento consagrado no Superior Tribunal de Justiça nos seguintes precedentes: EDcI no AgRg no REsp 1153335/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/03/2012, DJe 23/03/2012.
+4 - Reforma da decisão homologatória de cálculos da Contadoria do Foro, para determinar nova apuração, segundo os parâmetros retromencionados.
+Agravo de instrumento parcialmente provido.
+Os embargos de declaração opostos por ambos os recorrentes foram rejeitados (e-STJ fls. 136/144).
+Conforme exposto na decisão agravada, em relação à apontada ofensa aos arts. 458, II, e 535, II, do CPC/1973, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+Ademais, consoante entendimento jurisprudencial pacífico do Superior Tribunal de Justiça, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa. Nesse sentido: AgRg no AREsp 750.650/RJ, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 22/09/2015, DJe 30/09/2015; e AgInt nos EDcl no REsp 1.591.711/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 05/06/2018, DJe 08/06/2018.
+Quanto ao mérito, o acórdão recorrido atuou em harmonia com a orientação jurisprudencial do Superior Tribunal de Justiça, ao entender que, nos cálculos para restituição dos valores devido a título de crédito-prêmio de IPI, é necessária a liquidação por artigos, devendo ser observadas as alíquotas da Resolução CIEX n. 02/1979.
+Nesse sentido, os seguintes julgados:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APLICAÇÃO DAS ALÍQUOTAS PREVISTAS NA RESOLUÇÃO CIEX 02/79. CRÉDITO-PRÊMIO DE IPI. NECESSIDADE DA LIQUIDAÇÃO POR ARTIGOS PARA A APURAÇÃO DO QUANTUM DEBEATUR. AGRAVOS REGIMENTAIS A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção do STJ entendeu que aplica-se a alíquota prevista na Resolução do Ciex 02/1979 para fins de cálculo de benefício intitulado crédito-prêmio de IPI (EREsp 800.578/MG, Rel. Min. CASTRO MEIRA, DJe 25.3.2011).
+2. Esta Corte afirmou ser necessária a liquidação por artigos para a apuração do quantum debeatur nos casos de ressarcimento do crédito-prêmio de IPI, especialmente quando são juntados documentos novos, que não foram objeto de debate no processo de conhecimento. (REsp 959.338/SP, de minha relatoria, PRIMEIRA SEÇÃO, DJe 8.3.2012 - julgado sob o rito do art. 543-C do CPC).
+3. Agravos Regimentais da FAZENDA NACIONAL e da DECCAN COMERCIAL LTDA a que se nega provimento.
+(AgRg no REsp 1.155.727/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/09/2015, DJe 22/09/2015).
+ ..
+No tocante à alegação de ofensa aos arts. 128 e 460 do CPC/1973, o Tribunal de origem não incorreu em julgamento ultra ou extra petita, porquanto se verifica que procedeu à interpretação lógico-sistemática do pedido e da causa de pedir, atuando em harmonia com a orientação da jurisprudência do Superior Tribunal de Justiça.
+ ..
+A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ, o que inviabiliza o conhecimento do recurso pelas alíneas "a" e "c" do permissivo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  ..  INCIDÊNCIA DO ENUNCIADO SUMULAR N. 83/STJ. ..
+V - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.  ..
+VIII - Agravo Interno improvido.
+(AgInt no AREsp 71.415/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 02/03/2018).
+A revisão do entendimento do Tribunal a quo, a fim de decidir a respeito do alcance da coisa julgada, da existência de preclusão e reformatio in pejus, mormente porque remetida a sentença transitada em julgado à liquidação por artigos, demandaria o reexame do conjunto probatório e das peças processuais, providência que encontra óbice na Súmula 7 do STJ.
+ ..
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fl. 396):
+No voto condutor do julgado, apresenta-se claro o entendimento da turma julgadora no sentido de que: a) não houve violação dos arts. 458, II, e 535, II, do CPC/1973; b) o acórdão recorrido atuou em harmonia com a orientação do Superior Tribunal de Justiça ao entender que, nos cálculos para restituição dos valores devidos a título de crédito-prêmio de IPI, é necessária a liquidação por artigos, devendo ser observadas as alíquotas da Resolução CIEX n. 02/1979; c) a conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ; d) não houve julgamento ultra ou extra petita; e e) o reexame de provas em recurso especial é inviável, nos termos da Súmula 7 do STJ.
+A embargante argumenta que o acórdão recorrido acarretou em ofensa ao art. 93, IX, d a Constituição Federal. Insiste na alegação de que a análise das razões apresentadas não demanda reexame de provas.
+Contudo, "não cabe a esta Corte se manifestar, ainda que para fins de prequestionamento, acerca de suposta afronta a princípios ou artigos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp 1.436.618/RS, rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
+Por fim, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devi do processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta ofensa ao princípio da segurança jurídica bem como da coisa julgada depende da análise dos arts. 463, 467, 471, 473 e 474 do CPC/1973, razão pela qual incide o Tema n. 660/STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
