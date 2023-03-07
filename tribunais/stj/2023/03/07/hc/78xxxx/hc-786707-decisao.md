@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 128-129):
+ ..  GABRIEL HENRIQUE ANDERSON DA SILVA foi denunciado por tráfico de drogas.
+Regularmente processado, acabou sendo condenado ao desconto de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais o pagamento de 680 dias-multa, no piso, por infração ao artigo 33, caput, da Lei nº 11.343/06 (fls. 166/175).
+Descontente com tal desfecho, apelam as partes.
+O Parquet pleiteia o agravamento da pena em, pelo menos, 1/5, em razão da reincidência específica (fls. 188/198).
+GABRIEL, por sua vez, alega que as provas coligidas ao processo não são suficientes para alicerçar a sua condenação, razão pela qual pretende ser absolvido. Se assim não for, pleiteia o afastamento da agravante da reincidência, o reconhecimento de que houve confissão espontânea, o abrandamento do regime prisional e a feitura da detração penal (fls. 201/218). ..
+O paciente foi condenado como incurso no art. 33, caput, da Lei nº 11.343/2006, a 7 anos de reclusão, em regime inicial fechado, além de 700 dias-multa.
+A defesa alega, em suma, que a exasperação da pena intermediária em 1/5 carece de fundamentação idônea, pois apenas a reincidência específica não é suficiente para tanto, aduzindo, outrossim, que deve ser reconhecida a atenuante da confissão espontânea, ao argumento de que "o paciente confessou os fatos informalmente, conforme o depoimento dos policiais ouvidos em juízo" (fl. 15).
+Afirma, ainda, que a reincidência não pode justificar, por si só, a fixação do regime inicial fechado, requerendo, liminarmente e no mérito, "a concessão definitiva da ordem para que: a) seja afastada a fração desproporcional fixada na segunda fase da dosimetria, aplicando-se a fração de 1/6 com base no princípio da proporcionalidade e jurisprudência prevalente; b) seja a agravante da reincidência integralmente compensada com a atenuante da confissão - ainda que informal; c) seja modificado o regime inicial de cumprimento de pena, fixando-se o regime semiaberto, com base no princípio da proporcionalidade e o disposto no artigo 387, § 2º, do Código de Processo Penal" (fls. 20-21).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação do mandamus.
+Acerca da dosimetria, extrai-se da sentença (fls. 71-72):
+ ..  Na primeira fase de fixação da pena, em razão dos maus antecedentes do réu (fls.36 - tráfico de drogas), fixo pena-base acima do mínimo legal, em cinco anos e dez meses de reclusão, e pagamento de quinhentos e oitenta e três dias-multa.
+Na segunda fase, em razão da reincidência (fls. 36/37 - tráfico de drogas), fixo a pena intermediária em seis anos, nove meses e vinte dias de reclusão, e pagamento de seiscentos e oitenta dias-multa.
+Na terceira fase, causas de aumento ou de diminuição de pena, observo que nada há para ser considerado. A causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, não incide porque a reincidência e os maus antecedentes impedem a aplicação do redutor, por expressa previsão legal.
+O regime inicial de cumprimento de pena será o fechado, considerando que o réu ostenta maus antecedentes e é reincidente. ..
+No que se refere à agravante da reincidência, " a  jurisprudência desta Corte é no sentido que a aplicação de patamar superior a 1/6 em razão da incidência de agravante exige que o julgador apresente fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica" (AgRg no HC n. 668.427/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022), como contrariamente entendeu o Tribunal local (fl. 131).
+Assim, a pena do paciente merece reparo, nesse ponto, uma vez que o Tribunal de origem exasperou-a na fase intermediária em 1/5, tão somente, diante da reincidência específica, o que, como visto, não se sustenta.
+Acerca da confissão, decota-se do auto de prisão em flagrante que "o indiciado confessou a propriedade das drogas e que estava traficando no local onde foi flagrado; que o indiciado ainda indicou um terreno baldio onde havia mais entorpecentes, situado a cerca de trinta metros do local onde ele foi primeiramente flagrado, e nesse terreno foram localizados, embaixo de alguns entulhos, 31 (trinta e uma) porções de crack, 47 (quarenta e sete) porções de maconha e 55 (cinquenta e cinco) pinos com cocaína, idênticos àquelas que estavam no maço de cigarro" (fl. 22).
+Todavia, vê-se que a atenuante em apreço não foi considerada na dosimetria, sob o argumento de que "confissão informal não foi o fator determinante para concluir que o réu praticava o tráfico de drogas." (fl. 69), fundamentação essa que se revela inidônea nos termos do atual entendimento deste Tribunal. Por oportuno:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO. ATENUANTE CONFIGURADA. MANIFESTO CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - A atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada.
+III - In casu, o Tribunal de origem, ao pontuar os motivos pelos quais entendeu configurada a traficância, mencionou expressamente a confissão informal do paciente.
+Agravo regimental desprovido. (AgRg no HC n. 732.143/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022.)
+Por fim, em relação ao regime prisional, fixou-se o fechado, em razão dos maus antecedentes e da reincidência do réu (fl. 72), não havendo falar-se em constrangimento ilegal, na medida em que tal entendimento encontra-se em harmonia com a jurisprudência desta Corte. A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. NULIDADE. AÇÃO CONTROLADA SEM PRÉVIA AUTORIZAÇÃO JUDICIAL. MERA COLHEITA INICIAL DE PROVAS DO CRIME INVESTIGADO. MÉRITO. DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI 11.343/2006. SÚMULA 7 DO STJ. DOSIMETRIA. CAUSA DE AUMENTO DO ART. 40, III, DA LEI N. 11.343/2006. REGIME INICIAL FECHADO. ANTECEDENTES E REINCIDÊNCIA. DETRAÇÃO PENAL. AGRAVO NÃO PROVIDO.
+ ..
+5. Estabelecida a sanção em patamar superior a 4 anos e não excedente a 8 anos de reclusão, fica mantido o regime inicial fechado, por se tratar de réu reincidente, nos termos do art. 33, § 2º, do Código Penal.
+6. Mostra-se irrelevante a detração do período de prisão cautelar, nos termos do art. 387, § 2º, do CPP, considerando que o regime prisional mais gravoso foi estabelecido em virtude dos antecedentes e da reincidência do réu. Precedentes.
+7. Agravo regimental desprovido. (AgRg no AREsp n. 2.194.622/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Passa-se, assim, à nova dosimetria (fls. 131-132).
+Fixada a pena-base em 5 anos e 10 meses de reclusão, e 583 dias-multa, mantém-se tal quantum na fase intermediária, dada a compensação entre a agravante da reincidência com a atenuante da confissão, a qual se torna definitiva na ausência de causas de aumento e diminuição no seu último estágio.
+Ante o exposto, concedo parcialmente o habeas corpus para (re)fixar a pena definitiva de GABRIEL HENRIQUE ANDERSON DA SILVA no total de 5 anos e 10 meses de reclusão, além de 583 dias-multa, mantendo-se, no mais, o acórdão condenatório (Processo nº 1500671-17.2022.8.26.0603 - 1ª Vara Criminal de Araçatuba/SP).
+Comunique-se.
+Publique-se.
+Intimem-se.
