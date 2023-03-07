@@ -1,0 +1,9 @@
+DECISÃO
+Em atenção ao pedido de expedição de alvará de soltura (e-STJ, fls. 191-193), ao argumento de que o requerente já teria direito à progressão de regime (em razão da decisão proferida por esta Corte Superior, que redimensionou a pena que lhe fora imposta) (e-STJ, fls. 180-187), cumpre registrar que este habeas corpus já foi decidido, nada mais tendo a prover nestes autos, sob pena de indevida supressão de instância.
+Desse modo, "Não tendo esta Corte acesso aos dados mais recentes da execução penal, que poderiam influenciar na avaliação do pedido de progressão imediata de regime do executado, revela-se inviável a manifestação desta Corte sobre o tema, sob pena de indevida supressão de instância" (Rcl n. 41.718/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/11/2021, DJe de 29/11/2021.).
+Ademais, ressalto que cabe à instância primeva o cumprimento da decisão exarada por esta Corte. A alegação de descumprimento de decisão judicial deste Tribunal enseja o ajuizamento de reclamação de modo a garantir a autoridade do que foi decidido.
+Cumpre esclarecer, quanto ao eventual descumprimento da decisão prolatada neste mandamus, que a via do habeas corpus não é apropriada à análise da alegação, cabendo ao impetrante formular a competente reclamação, instrumento processual cabível para garantir autoridade ou mesmo assegurar a preservação da competência desta Corte Superior, nos termos do art. 105, I, "f", da Constituição Federal e do art. 187 do RISTJ (STJ, HC 345485, Rel. Min. NEFI CORDEIRO, 18-12-2015).
+Dessarte, indefiro o pedido formulado.
+Reitere-se, contudo, a determinação de envio da cópia integral da decisão de fls. 180-187 (e-STJ) ao Juízo de Direito da Vara de Execução Criminal DEECRIM 5ª RAJ da Comarca de Presidente Prudente/SP para as providências necessárias, mormente para a compatibilização da prisão com o regime inicial semiaberto.
+Nada mais a prover.
+Publique-se. Intimem-se.
