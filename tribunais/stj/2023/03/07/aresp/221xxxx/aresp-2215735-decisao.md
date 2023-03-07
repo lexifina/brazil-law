@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por TERESA GUILHERME TEIXEIRA DA SILVA e OUTROS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/09/2022.
+Concluso ao gabinete em: 29/11/2022.
+Ação: interdito proibitório cumulada com pedido de multa cominatória, ajuizada por SERGIO HENRIQUE ROCHA SANTOS, em face dos agravantes, em razão de ameaça de turbação/esbulho em servidão de água.
+Sentença: julgou procedente o pedido, para evitar o esbulho na captação da água advinda da propriedade dos agravantes.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - INTERDITO PROIBITÓRIO - REQUISITOS PREENCHIDOS - POSSE LEGÍTIMA DO AUTOR - JUSTO RECEIO DE SER MOLESTADO NA POSSE - ALEGAÇÃO DE POSSE CLANDESTINA - AUSÊNCIA DE COMPROVAÇÃO - SERVIDÃO DESPROVIDA DE REGISTRO - SÚMULA 416 DO STF - APLICAÇÃO ANALÓGICA - CONCESSÃO DA PROTEÇÃO POSSESSÓRIA - MANUTENÇÃO DA SENTENÇA. Para concessão do interdito proibitório, imprescindível a demonstração, pelo possuidor legítimo, do justo receio de ser molestado em sua posse. Demonstrada nos autos a servidão de águas exercida há vários anos, com construções visíveis, passando por toda propriedade do prédio serviente e sem oposição, não há que se falar em posse clandestina. Por interpretação analógica da Súmula 416 do STF, deverá ser conferido direito à proteção possessória de servidão de águas não registrada, na hipótese em que é tomada permanente, e pela natureza das obras realizadas, se considera aparente. Preenchidos os requisitos legais para concessão do interdito proibitório, a manutenção da sentença é medida de rigor.
+Recurso especial: alegam violação dos arts. 405, 444, 473 e 567 do CPC/15 e 1.378 do CC/02. Sustentam que: i) a declaração por instrumento público não pode ter o alcance a que pretendeu o acórdão recorrido, pois o tabelião não estava no lugar dos fatos para certificar verdadeiro ou falso o que lhe foi relatado pelos empregados do agravado; ii) não merece veracidade o conteúdo da declaração se o objetivo é usar como prova testemunhal em processo, sobretudo litigioso; iii) não se pode dar crédito a declarações prestadas perante o tabelião como verdadeiras para fazer prova em processo, eis que o devido processo legal tem de ser respeitado e o sistema processual brasileiro não valida atos que não sejam produzidos perante as partes do processo, respeitado o contraditório; iv) a conclusão da prova pericial é no sentido da inexistência da servidão de aqueduto subterrâneo; v) as declarações por escritura pública não podem ser levadas em consideração para fins de reconhecimento de servidão e concessão de proteção possessória; vi) não pode a prova testemunhal ser substituída por atas notariais e não pode o juiz inverter o ônus da prova em matéria de servidão de águas; vii) para a caracterização da servidão, a lei exige a existência de declaração expressa do proprietário, tendo em vista que isso implicará restrição no direito de propriedade, inclusive desvalorização do imóvel; viii) é indispensável que a servidão seja registrada no respectivo cartório, sob pena de não ser possível sua proteção; ix) não se pode conceder proteção possessória à servidão não aparente que não foi registrada em cartório.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelos agravantes não demonstram como o acórdão recorrido violou o art. 473 do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 405, 444 e 473 do CPC/15, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à configuração de servidão de água aparente e ao preenchimento dos requisitos legais para concessão do interdito proibitório, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INTERDITO PROIBITÓRIO CUMULADA COM PEDIDO DE MULTA COMINATÓRIA. AMEAÇA DE TURBAÇÃO/ESBULHO EM SERVIDÃO DE ÁGUA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de interdito proibitório cumulada com pedido de multa cominatória em razão de ameaça de turbação/esbulho em servidão de água.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
