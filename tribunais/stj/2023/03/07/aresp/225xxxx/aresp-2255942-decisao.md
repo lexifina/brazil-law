@@ -1,0 +1,6 @@
+DECISÃO
+Cotejando os autos, observa-se que o pedido de relaxamento da prisão do corréu IGOR DE MENEZES CARVALHO, remetido pelo juízo de primeiro grau por meio do ofício de e-STJ fl. 2.767/2.796, refoge à competência desta Corte Superior, restrita à análise do agravo em recurso especial ajuizado por ALEXANDRE MAGNO RODRIGUES DE OLIVEIRA, com o desiderato de impugnar decisão de inadmissibilidade do seu recurso especial que desafia o aresto proferido pelo Tribunal de Justiça do Estado da Bahia no julgamento do recurso em sentido estrito autuado sob o n. 0000379-19.2015.8.05.0189.
+Relevante consignar que a análise do pedido de relaxamento da prisão preventiva compete ao órgão julgador que a decretou, enquanto não esgotada a sua jurisdição.
+Na espécie, é ressaltado que a fase instrutória já teve fim e que, no momento, a marcha processual perante o Juízo de primeiro grau foi interrompida para análise de recurso em sentido estrito apresentado pela defesa; contudo, não foi encerrado o procedimento no primeiro grau, sendo incabível a análise do pedido de relaxamento da prisão preventiva diretamente nesta Corte Superior, pela via inadequada, em subversão à regular ordem de competências.
+Diante do exposto, determino que sejam desentranhados os documentos de e-STJ fls. 2.767/2.796 e remetidos ao juízo de origem para a análise pertinente.
+Intimem-se.
