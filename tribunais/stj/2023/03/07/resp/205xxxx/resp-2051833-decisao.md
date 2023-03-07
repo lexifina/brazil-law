@@ -1,0 +1,37 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANRISUL S/A ADMINISTRADORA DE CONSÓRCIOS com arrimo no art. 105, inciso III, alíneas "a" e "c" da Constituição da República contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 579):
+APELAÇÕES CIVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE RESCISÃO DE CONTRATO. PRELIMINAR DE SENTENÇA CITRA PETITA. ACOLHIMENTO. JULGAMENTO DO MÉRITO RECURSAL. POSSIBILIDADE. PROCESSO MADURO. DEVOLUÇÃO IMEDIATA DE PARCELAS PAGAS. INTERESSE DE AGIR. CLAUSULA PENAL. JULGAMENTO MANTIDO EM JUÍZO DE RETRATAÇÃO.
+I. CONFORME JULGAMENTO PROFERIDO PELO SUPERIOR TRIBUNALDE JUSTIÇA: RECURSO ESPECIAL N. 1.119.300/RS - TEMA 312, SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS, RESTOU FIRMADA PELA SEGUNDA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, PARA OS EFEITOS DO ART. 543-C DO CPC/1973, A SEGUINTE TESE: "É DEVIDA A RESTITUIÇÃO DE VALORES VERTIDOS POR CONSORCIADO DESISTENTE AO GRUPO DE CONSÓRCIO, MAS NÃO DE IMEDIATO, E SIM EM ATÉ TRINTA DIAS A CONTAR DO PRAZO PREVISTO CONTRATUALMENTE PARA O ENCERRAMENTO DO PLANO".
+II. NÃO VERIFICADA CONTRADIÇÃO DO JULGADO COM O REFERIDO RECURSO ESPECIAL, SENDO HIPÓTESE DISSOCIADA DO CASO PARADIGMÁTICO ANALISADO PELO STJ, EM SEU RECURSO REPETITIVO. HÁ EXCEPCIONALIDADE NA APLICAÇÃO DA REGRA GERAL, SOMADO AO FATO DE A CARTA DE CRÉDITO JÁ TER SIDO CONTEMPLADA. EM JUÍZO DE RETRATAÇÃO, MANTIVERAM O RESULTADO DO ACÓRDÃO. UNÂNIME.
+Opostos embargos de declaração, esses restaram rejeitados nos seguintes termos (fl. 610):
+EMBARGOS DE DECLARAÇÃO. APELAÇÕES CIVEIS. DIREITO PRIVADONÃO ESPECIFICADO. AÇÃO DE RESCISÃO DE CONTRATO. EM JUÍZO DERETRATAÇÃO. ALEGAÇÃO DE OMISSÃO. VÍCIO NÃO CONSTATADO. REDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO. DESNECESSIDADE.
+I. O ACOLHIMENTO DOS EMBARGOS DE DECLARAÇÃO PRESSUPÕE AEXISTÊNCIA, NA DECISÃO JUDICIAL, DE PELO MENOS UM DOS VÍCIOSPREVISTOS NO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL.
+II. NO CASO, O EMBARGANTE ESTÁ SE INSURGINDO CONTRA OJULGAMENTO DA APELAÇÃO CÍVEL EM JUÍZO DE RETRATAÇÃO,SUSCITANDO A EXISTÊNCIA DE OMISSÃO NO QUE SE REFERE AOCANCELAMENTO DA CONTEMPLAÇÃO.
+III. AS QUESTÕES IMPUGNADAS, CONTUDO, FORAM DEVIDAMENTEFUNDAMENTADAS, INEXISTINDO POSSIBILIDADE DE REDISCUSSÃODOS FATOS E DOS FUNDAMENTOS ANALISADOS PARA OBTERALTERAÇÃO DO JULGAMENTO.
+IV. DESNECESSÁRIO O PREQUESTIONAMENTO DA LEGISLAÇÃO INVOCADA, CONFORME ENTENDIMENTO DO ARTIGO 1.025 DO NOVOCÓDIGO DE PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS. UNÂNIME.
+Em suas razões de recurso especial, o recorrente alegou contrariedade aos arts. 3º, §2º e 30, ambos da Lei n.º 11.795/08, além de dissídio jurisprudencial, ao argumento de que a restituição de consorciado excluído por falta de pagamento só ocorrerá após 30 dias do encerramento do grupo. Requereu, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+Prefacialmente, destaca-se que a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE CRÉDITO. CONSÓRCIO DE BEM IMÓVEL. DESISTÊNCIA. DEVOLUÇÃO DOS VALORES PAGOS PELO PARTICIPANTE. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. ENTENDIMENTO FIRMANDO NO RESP Nº 1.119.300/RS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano. Precedente firmado em recurso representativo da controvérsia.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no REsp n. 1.741.693/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020.)
+Por segundo, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano, inclusive em relação aos contratos celebrados na vigência da Lei n.º 11.795/2008.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONSÓRCIO. DESISTÊNCIA DO CONSORCIADO. DEVOLUÇÃO DAS PARCELAS PAGAS. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. MATÉRIA DECIDIDA EM RECURSO ESPECIAL REPETITIVO. CONTRATOS CELEBRADOS APÓS 6/2/2009, NA VIGÊNCIA DA LEI 11.795/2008. APLICAÇÃO. RECURSO IMPROVIDO.
+1. Nos termos do julgamento proferido no REsp 1.119.300, processado nos termos do art. 543-C do CPC/1973, "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano" (Rel. Min. LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 27/8/2010).
+2. Consoante decidido pela Segunda Seção na Rcl 16.390/BA, "Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008" (Rel. Min. MARIA ISABEL GALLOTTI, DJe de 13/9/2017).
+3. Agravo interno não provido. (AgInt nos EDcl no REsp 1617560/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018).
+Desse modo, é impositiva a reforma do acórdão recorrido, porque se encontra em divergência ao entendimento jurisprudencial acima declinado.
+Ante o exposto, com arrimo no art. 932, inciso V, do Código de Processo Civil, dou provimento ao recurso especial para afastar a determinação de restituição imediata dos valores pagos ao consórcio.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO DE CONTRATO. DEVOLUÇÃO IMEDIATA DE PARCELAS PAGAS. NÃO CABIMENTO.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, o entendimento de que é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano, aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008.
+2. RECURSO ESPECIAL CONHECIDO E PROVIDO.
