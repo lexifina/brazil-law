@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 962-984) interposto por LUIZ JOSÉ DE OLIVEIRA NETO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 949-950):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIÇÃO PARA O TRÁFICO DE DROGAS. RECURSO INTERPOSTO APÓS LAPSO DE QUINZE DIAS. RECESSO FORENSE. SUSPENSÃO DO PRAZO ATÉ 20 DE JANEIRO. INOCORRÊNCIA. INCIDÊNCIA DA ESPECIALIDADE NORMATIVA. SUSPENSÃO DOS PRAZOS POR FORÇA DE NORMA LOCAL. COMPROVAÇÃO. INEXISTÊNCIA. FORÇA MAIOR. DEVOLUÇÃO DE PRAZO. IMPOSSIBILIDADE. INTEMPESTIVIDADE DO RECLAMO CONSTATADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Permanece vigente e aplicável a norma especial estabelecida no art. 798 do Código de Processo Penal, segundo a qual os prazos deverão ser computados de forma contínua e peremptória, não se interrompendo ou suspendendo durante as férias, domingos ou feriados.
+2. A suspensão dos prazos entre os dias 20 de dezembro e 20 de janeiro, estatuída no art. 3º, caput, da Resolução n.º 244, de 12/09/2016, do Conselho Nacional de Justiça (CNJ), não se aplica à contagem dos prazos processuais penais, ex vi da especialidade normativa do art. 798 do Digesto Processual.
+3. É iterativa a orientação desta Corte Superior que "eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos Tribunais de Justiça estaduais, deve ser comprovada no ato de interposição do recurso" (AgRg no AREsp 2.016.917/MG. Quinta Turma. Rel. Desembargador Convocado Jesuíno Rissato. DJe de 25.3.2022)
+4. Na espécie, a parte foi considerada intimada do acórdão apelatório no dia 10.12.2021 e o recurso especial somente interposto em 20.1.2022, portanto, fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º e 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+5. Nos termos da reiterada jurisprudência deste Superior Tribunal de Justiça a possibilidade de devolução do prazo recursal prevista no art. 1.004 do Código de Processo Civil exige demonstração no sentido de que o causídico habilitado nos autos encontrava-se absolutamente impedido de exercer seu múnus processual ou de substabelecer os poderes que lhe foram conferidos, situação que não se verifica nos autos.
+6. Agravo regimental improvido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, XLVI e LIV, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, entende que teria havido inobservância do princípio da individualização da pena, argumentando a tempestividade do recurso especial interposto e o cabimento da absolvição do réu pelo crime de associação para o tráfico, bem como da inc idência do § 4º do art. 33 da Lei n. 11.343/2006.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 996-1.013.
+É o relatório.
+Como relatado, o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, afirmou-se a intempestividade do recurso especial, interposto quando já superado o lapso recursal.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da com petência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
