@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FERNANDO CESAR MACHADO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 202):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO INTERNO NÃO CONHECIDO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, constata-se a manifesta inadmissibilidade do agravo interno, ensejando não só o seu não conhecimento, mas também a aplicação da multa pecuniária prevista no § 4º do art. 1.021 do CPC/2015.
+3. Agravo interno não conhecido, com aplicação de multa.
+A parte recorrente alega a violação do art. 5º, V, da CF e aduz que há repercussão geral da matéria tratada.
+Sustenta que a verba indenizatória por danos extrapatrimoniais " ..  deve ser suficiente para restabelecer o bem-estar da vítima e desestimular o ofensor a cometer nova falta, coibindo o enriquecimento sem causa ao ofendido" (fl. 217).
+Defende ainda ter direito à assistência judiciária gratuita, nos termos da Lei n. 1.060/50 e do art. 5º, LXXIV, da CF.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 229-233.
+É o relatório.
+Da análise dos autos, vê-se que o pronunciamento recorrido limitou-se à constatação da ausência do preenchimento dos pressupostos de admissibilidade do recurso cuja competência é do Superior Tribunal de Justiça, constando da refe rida conclusão que não houve impugnação específica dos fundamentos da decisão agravada, de modo a incidir o disposto no art. 1.021, § 1º, do Código de Processo Civil.
+Portanto, a questão de fundo não chegou a ser apreciada no julgamento efetivado pelo Superior Tribunal de Justiça, uma vez que a constatação de óbices processuais impediu o próprio conhecimento da insurgência.
+Exatamente em casos tais, o Supremo Tribunal Federal já sedimentou a compreensão de que a existência de questões relativas ao preenchimento dos pressupostos de admissibilidade de recursos da competência de outros tribunais impede a abertura da via extraordinária, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+A mesma conclusão é adotada quando o tribunal recorrido não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite violações da Constituição Federal sobre o mérito da causa, já que, para se chegar à análise da matéria de fundo, seria necessário discutir e superar os óbices processuais erigidos pelo tribunal.
+Esse é o entendimento firmado pela Suprema Corte no julgamento do Recurso Extraordinário n. 598.365-RG/MG, sob a sistemática da repercussão geral, segundo o qual "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+Para melhor compreensão, eis a ementa adotada pelo STF no recurso paradigma, por meio do qual foi definida a tese acima transcrita:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Assim, resulta inviável a análise da violação constitucional alegada no recurso extraordinário, justamente porque o acórdão recorrido não apreciou o mérito do recurso apresentado ao STJ, o que faz, precisamente, incidir a conclusão do STF externada no mencionado Tema n. 181 da repercussão geral.
+Vale salientar ser pacífica a jurisprudência do STF no sentido de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 17/5/2021, DJe de 21/5/2021).
+Ainda, idêntico é o entendimento consolidado do STJ, que, ao apreciar agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, caso em tudo semelhante ao presente, assim concluiu: "Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral." (AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Ante o exposto, caracterizada a inexistência de repercussão geral da discussão, sem a qual não podem ser apreciados os aspectos meritórios do recurso extraordinário, e com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE REQUISITOS DE ADMISSIBILIDADE DO RECURSO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. Os aspectos relativos aos pressupostos de admissibilidade de recursos da competência dos tribunais infraconstitucionais impedem o seguimento do recurso extraordinário, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+2. Tal conclusão é adotada quando o Superior Tribunal de Justiça não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite discussão de mérito.
+3. Questão sobre a qual o Supremo Tribunal Federal firmou a ausência de repercussão geral, dada a natureza infraconstitucional do debate, nos termos do Tema n. 181/STF. Precedentes do STF e do STJ.
+4. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
