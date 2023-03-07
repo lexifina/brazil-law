@@ -1,0 +1,15 @@
+DECISÃO
+CÍCERO CARTAXO DA SILVA alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal a quo.
+O recorrente narra haver sido condenado por tráfico de drogas, por sentença transitada em julgado. Todavia, possui condições pessoais favoráveis, é hipertenso e diabético. Pleiteia, por isso, a absolvição por falta de provas, a substituição da pena privativa de liberdade por restritiva de direitos ou a alteração do regime prisional.
+A parte assinala que "fora realizado pedido de prisão domiciliar" (fl. 180) e a ausência de fundamentação da prisão preventiva, pois, "além de indicar a presença do fumus commisi delicti e do periculum libertatis, necessários à constrição cautelar, é imperioso que o magistrado analise uma a uma as medidas cautelares previstas no art. 319 do Código de Processo Penal" (fl. 181).
+Por fim, indica que mulher com filho de até 12 anos de idade incompletos faz jus à aplicação do art. 318 do CPP.
+Requer a concessão de prisão domiciliar.
+Decido.
+O princípio da dialeticidade impõe ao recorrente o ônus de indicar os motivos de fato e de direito suficientes à reforma da decisão proferida pelo Tribunal de origem.
+No caso, o recurso ordinário não pode ser conhecido, pois traz fundamentação deficiente, totalmente dissociada do aresto combatido. Ademais, não indica lastro jurídico adequado para o pedido.
+O recorrente "encontra-se encarcerado por força de decisão condenatória  ..  que transitou em julgado" (fl. 32). Sua segregação não possui natureza cautelar. Assim, são impertinentes as alegações defensivas sobre a falta de indicação, por juiz, de indício suficiente de autoria e de fundamentação do perigo gerado pelo estado de liberdade do sentenciado. A pretensão de prisão domiciliar não encontra amparo no art. 318 do CPP, primeiro, porque o dispositivo está relacionado à substituição da prisão preventiva e, segundo, porque não estamos diante de mulher que é mãe de filho menor de 12 anos.
+O acórdão recorrido não comporta reparos. O HC n. 0801841-37.2022.8.15.0000 deixou de ser conhecido pelo Tribunal a quo porque a sentença transitou em julgado, sendo a revisão criminal o instrumento para sua desconstituição, observadas as hipóteses legais. A prisão domiciliar ao apenado do regime fechado nem sequer foi requerida ao Juiz da VEC, autoridade competente para, em primeiro lugar, analisar a pretensão.
+O pedido de benefício humanitário precisa ser deduzido no processo executivo, para demanda a dilação probatória e a manifestação do Ministério Público (art. 67 do CP), em contraditório.
+Não está inaugurada a competência do Tribunal de Justiça ou deste Superior Tribunal para deslinde do incidente, pois, conforme pontuou o Tribunal, "no caso em apreço, verifico não haver nos autos qualquer prova de que houve manifestação do Juízo singular (Juízo das Execuções Penais) a respeito dos pedidos formulados, ficando este órgão julgador impossibilitado de se pronunciar a respeito do pleito, sob pena de incidir em supressão de instância" (fl. 34).
+À vista do exposto, não conheço do recurso ordinário, em face de sua deficiência.
+Publique-se e intimem-se.
