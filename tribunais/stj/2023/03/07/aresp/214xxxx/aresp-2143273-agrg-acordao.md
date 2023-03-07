@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão da Presidência desta Corte que não conheceu do agravo pela incidência do óbice previsto na Súmula n. 182/STJ.
+Inconformada, alega a defesa que "o Agravo em Recurso Especial está devidamente adequado e merece ser acolhido, mormente por ter impugnado, enfrentado e fundamentado todos os termos da decisão Agravada, item por item, ao contrário do douto entendimento esposado." (fl. 119.)
+Sustenta que, "conforme restou demonstrado no Agravo em Recurso Especial, o mesmo reúne todas condições de admissibilidade, tanto pela negativa de vigência de Lei, tendo, inclusive, a matéria sido devidamente prequestionada. Presentes, assim, os requisitos de admissibilidade, principalmente diante da negativa de vigência de lei, além da repercussão geral." (fl. 120.)
+Aduz que "o que se pretende com o recurso em testilha não é o simples reexame fático da matéria (Súmula 7 do STJ), e sim o reconhecimento de negativa de vigência da legislação federal e constitucional e a divergência jurisprudencial, além de repercussão geral, tal como evidenciado. Conforme cabalmente demonstrado no Agravo interposto, foi negada vigência art. 2º, §2º, da Lei dos Crimes Hediondos revogado pela Lei 1.964/2019 -Pacote anti-crime, e artigo 42 do Código Penal." (fl. 120.)
+Foi apresentada impugnação pelo agravado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO IMPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 932, III, CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182/STJ. A defesa deixou de impugnar especificamente os fundamentos da decisão que inadmitiu o recurso especial.
+2. Agravo regimental improvido.
+VOTO
+A decisão agravada encontra-se assim fundamentada (fls. 114-115):
+ .. .Cuida-se de agravo em recurso especial apresentado por PAULO EDUARDO CARDOSO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal. É, no essencial, o relatório.
+Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 284/STF. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.  .. .
+Como se vê, o agravante não impugnou especificamente os fundamentos da decisão que inadmitiu o agravo em recurso especial, mormente porque não se insurgiu quanto à aplicação da Súmula n. 284/STF, limitando-se a alegar que não se trata d a não incidência da Súmula n. 7/STJ.
+Ao recorrente incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados, de maneira específica e suficientemente demonstrada, nos termos dos arts. 932, III, CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão recorrida.
+É o voto.
