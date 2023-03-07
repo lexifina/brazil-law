@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 01/03/2023 a 07/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONDOR TRANSPORTES URBANOS LTDA contra decisão da Presidência desta Corte que indeferiu liminarmente seus embargos de divergência em agravo em recurso especial, sob o fundamento de que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial, com base na incidência da Súmula n. 7/STJ.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+Interposto agravo interno, a empresa agravante alega, em síntese, que o julgado embargado teria analisado a matéria de mérito, o que autorizaria o seu processamento e conhecimento. Requer, assim, submissão do feito ao Colegiado para resolução da alegada divergência.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ÓBICE DA SÚMULA N. 7/STJ NA DECISÃO EMBARGADA. EMBARGOS LIMINARMENTE INDEFERIDOS. IMPOSSIBILIDADE DE DECISÃO DE MÉRITO. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA.
+I - Trata-se de agravo interno interposto por CONDOR TRANSPORTES URBANOS LTDA contra decisão da Presidência desta Corte que indeferiu liminarmente seus embargos de divergência em agravo em recurso especial, sob o fundamento de que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial, com base na incidência da Súmula n. 7/STJ.
+II - Os embargos de divergência têm por fim a uniformização de divergência jurisprudencial atual a respeito da aplicação do direito material ou processual na hipótese de o acórdão de um órgão fracionário deste Tribunal Superior divergir do julgamento de qualquer outro.
+III - Depreende-se dos autos que a decisão agravada sequer conheceu do mérito recursal, com base na incidência do óbice da Súmula n. 7/STJ. Registre-se que o agravo em recurso especial nem sequer ultrapassou a barreira da admissibilidade.
+IV - Tal situação impede, por si só, o conhecimento da presente via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+V - No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe 19/4/2017; AgInt nos EAREsp n. 315.046/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 5/4/2017, DJe 25/4/2017; AgInt nos EAg n. 1.357.322/DF, relator Ministro Felix Fischer, Corte Especial, julgado em 7/12/2016, DJe 15/12/2016; EAREsp n. 559.766/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016; AgInt nos EREsp n. 1.226.477/RS, relator Ministro Humberto Martins, Corte Especial, julgado em 19/10/2016, DJe 26/10/2016.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+Os embargos de divergência têm por fim a uniformização de divergência jurisprudencial atual a respeito da aplicação do direito material ou processual na hipótese de o acórdão de um órgão fracionário deste Tribunal Superior divergir do julgamento de qualquer outro.
+Depreende-se dos autos que a decisão agravada sequer conheceu do mérito recursal, com base na incidência do óbice da Súmula n. 7/STJ. Registre-se que o agravo em recurso especial nem sequer ultrapassou a barreira da admissibilidade.
+Tal situação impede, por si só, o conhecimento da presente via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe 19/4/2017; AgInt nos EAREsp n. 315.046/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 5/4/2017, DJe 25/4/2017; AgInt nos EAg n. 1.357.322/DF, relator Ministro Felix Fischer, Corte Especial, julgado em 7/12/2016, DJe 15/12/2016; EAREsp n. 559.766/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016; AgInt nos EREsp n. 1.226.477/RS, relator Ministro Humberto Martins, Corte Especial, julgado em 19/10/2016, DJe 26/10/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
