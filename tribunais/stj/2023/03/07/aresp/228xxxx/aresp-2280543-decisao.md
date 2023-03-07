@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO DO BRASIL S/A, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado (e-STJ, fl. 58):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. COMPETÊNCIA. LIQUIDAÇÃO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. JUSTIÇA FEDERAL. EXPURGOS INFLACIONÁRIOS. CORREÇÃO MONETÁRIA. CÉDULA DE CRÉDITO RURAL. BANCO DO BRASIL S/A. SOCIEDADE DE ECONOMIA MISTA. JUSTIÇA COMUM. CHAMAMENTO AO PROCESSO. INDEVIDO. LIQUIDAÇÃO POR ARBIRTRAMENTO. DEVIDA.
+1. O Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos, decidiu que a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário.
+2. Nos termos do art. 275 do Código Civil, "O credor tem direito a exigir e receber de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais devedores continuam obrigados solidariamente pelo resto".
+3. "O instituto do chamamento ao processo tem aplicação restrita ao processo de conhecimento, pois seu escopo é constituir título executivo que permita ao devedor solidário que assumir o ônus integral da obrigação, cobrar dos demais coobrigados". Assim, "uma vez que o agrava(da) já detém título executivo judicial contra os demais devedores, carece de interesse jurídico para o chamamento ao processo". (Acórdão 1346088, 07056005720218070000, Relator: MARIA DE LOURDES ABREU, Relator Designado:LUÍS GUSTAVO B. DE OLIVEIRA 3ª Turma Cível, data de julgamento: 1/6/2021, publicado no DJE: 18/6/2021. Pág.: Sem Página Cadastrada.)
+4. Nos termos do art. 509, I, do CPC, "Quando a sentença condenar ao pagamento de quantia ilíquida, proceder-se-á à sua liquidação, a requerimento do credor ou do devedor: I - por arbitramento, quando determinado pela sentença, convencionado pelas partes ou exigido pela natureza do objeto da liquidação. Sendo certo que nesse procedimento o "juiz intimará as partes para a apresentação de pareceres ou documentos elucidativos, no prazo que fixar, e, caso não possa decidir de plano, nomeará perito, observando-se, no que couber, o procedimento da prova pericial" (Art. 510, CPC).
+5. Agravo de Instrumento conhecido e desprovido.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 80):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REJEIÇÃO. PREQUESTIONAMENTO.
+1 - Os embargos de declaração têm por finalidade a eliminação de obscuridade, contradição e omissão existentes no julgado, e, ainda, por novel legislativo, a correção do erro material.
+2- Havendo compatibilidade lógica entre os fundamentos e o dispositivo do decisum não se configura o vício de contradição no julgado.
+3- De acordo com o teor do enunciado n.º 98 da Súmula do Superior Tribunal de Justiça, configura-se legítima a oposição dos aclaratórios com a finalidade de prequestionar matéria para fins de interposição de recursos especiais. Contudo, ainda que se tenha a finalidade de prequestionamento, deve o embargante apontar omissão, obscuridade ou contradição, sob pena de desvirtuar a finalidade do recurso, causando a sua rejeição.
+4- O órgão fracionário não resta obrigado a se manifestar sobre todas as alegações levantadas no recurso, nem a se pronunciar sobre os dispositivos legais que o recorrente entende aplicáveis ao caso concreto, mas apenas sobre os pontos relevantes para a fundamentação do decisum.
+5- A via estreita dos embargos de declaração, recurso de fundamentação vinculada, não permite, por si, o reexame da matéria debatida e decidida, conjectura que reclama outra espécie de recurso.
+6 - Embargos de declaração rejeitados.
+Em suas razões de recurso especial (e-STJ, fls. 97-117), o agravante alegou violação dos arts. 95 do CDC; 130, III, 132, 509, II, e 511, todos do CPC/2015; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a necessidade de prévia liquidação da sentença pelo rito comum, não cabendo o arbitramento. Ainda, defendeu a possibilidade de chamamento ao processo da União e do Banco Central do Brasil.
+Foram apresentadas contrarrazões (e-STJ, fls. 131-136).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe discussão sobre questão de direito que foi afetada pela Corte Especial do STJ como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ, de relatoria do Ministro Benedito Gonçalves, DJe 18/10/2022, delimitaram o Tema 1.169 da seguinte forma:
+"Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DO JULGADO. RECURSO QUE TRATA DE TEMA AFETADO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.169/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM.
