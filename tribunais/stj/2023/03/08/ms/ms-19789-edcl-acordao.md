@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 02/03/2023 a 08/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração, com pedido de "efeitos infringentes e moduladores", manejados por Júlio Gomes Ferreira, com o objetivo de reformular o acórdão de fls. 409/414, resumido pela seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REVISÃO DAS ANISTIAS CONCEDIDAS A EX-MILITARES DA FORÇA AÉREA. AUTOTUTELA. DECADÊNCIA. NÃO OCORRÊNCIA. TESE FIRMADA PELO STF EM SEDE DE REPERCUSSÃO GERAL (TEMA 839). JUÍZO DE RETRATAÇÃO. ORDEM DENEGADA.
+1. Em anterior apreciação, no já distante ano de 2013, esta Primeira Seção concedeu a ordem em harmonia com a jurisprudência então formada, no sentido de que "o direito da Administração de rever portaria concessiva de anistia é limitado ao prazo decadencial de cinco anos, previsto no art. 54 da Lei n.º 9.784, de 29 de janeiro de 1999, salvo se comprovada a má-fé do destinatário, hipótese sequer alegada na espécie".
+2. Todavia, o Supremo Tribunal Federal, ao julgar, sob o regime de repercussão geral (Tema 839/STF), o Recurso Extraordinário 817.338/DF, da relatoria do Ministro Dias Toffoli, assentou compreensão diversa, declarando que, "no exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria n. 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas", ainda que transcorrido lapso maior que o quinquênio previsto na LPA.
+3. Mandado de segurança rejulgado, com fundamento no art. 1.040, II, do CPC, para, em juízo de retratação, denegar a segurança. (fl. 409).
+Na petição dirigida a esta Corte, o embargante rememora o contexto fático que emoldura a concessão de anistia política aos ex-militares da FAB e, reportando-se ao recente entendimento do STF, insurge-se contra o que entende ser "surpreendente mudança de posição de jurisprudência", para, ao fim e ao cabo, questionar a razoabilidade do aresto prolatado pela Suprema Corte. Manifesta, também, o entendimento de que "a aplicação da repercussão geral deve ficar suspensa, até novo julgamento administrativo de sua anistia" (fl. 423) e requer o acolhimento do recurso integrativo para, "suprindo a lacuna no que pertine à modulação, sejam os presente Embargos recebidos e julgados procedentes para modular os efeitos do acórdão e não aplicar a tese de repercussão geral revogando a segurança, até que a União comprove que foi realizado nova revisão da anistia do ora Embargante, respeitando os claros limites impostos pelo devido processo legal, conforme decidiu o STF no RE 817.338/DF" (sic. fl. 425).
+Em contrarrazões, fls. 429/432, a União peticiona pela rejeição dos embargos, ao argumento de que a parte adversa intenta apenas rediscutir a questão já decidida.
+Recurso tempestivo e representação regular.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. ANISTIA. CABOS DA AERONÁUTICA. PRETENSÃO DE MODULAÇÃO DE EFEITOS PARA VIABILIZAR CONCESSÃO DA ORDEM. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Consoante prevê o art. 1.022, II, do CPC, cabem embargos de declaração para: (a) "esclarecer obscuridade ou eliminar contradição"; (b) "suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento"; e, (c) "corrigir erro material". Cuida-se, assim, de um recurso de emprego extremamente limitado, pelo que manifestamente incabível fora das hipóteses legalmente previstas.
+2. No caso, o embargante não se reporta a nenhum dos defeitos previstos no diploma processual civil. Busca, em verdade, excluir-se da diretriz fixada em repercussão geral pela Suprema Corte no julgamento do RE 817.338/DF, de modo a repristinar a anterior concessão da ordem, fim para o qual sabidamente não se presta o recurso integrativo.
+3. Embargos de declaração não conhecidos.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Consoante prevê o art. 1.022, II, do CPC, cabem embargos de declaração para: (a) "esclarecer obscuridade ou eliminar contradição"; (b) "suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento"; e, (c) "corrigir erro material". Cuida-se, assim, de um recurso de emprego extremamente limitado. Portanto, fora das hipóteses legalmente previstas, o manejo do recurso integrativo é manifestamente incabível.
+No caso , como se relatou, o embargante não se reporta a nenhum dos defeitos previstos no diploma processual civil. Busca o autor, em verdade, excluir-se da diretriz fixada em repercussão geral pela Suprema Corte no julgamento do RE 817.338/DF, de modo a repristinar a anterior concessão da ordem, obtida no já distante ano de 2013, fundada em compreensão explicitamente desautorizada pela atual jurisprudência do STF.
+Todavia, a esse fim não se presta o manejo dos aclaratórios.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. CONTRADIÇÃO. NÃO OCORRÊNCIA. ART. 974, PARÁGRAFO ÚNICO, DO CPC. NÃO INCIDÊNCIA. ACÓRDÃO NÃO UNÂNIME AUTORIZA O LEVANTAMENTO DO DEPÓSITO JUDICIAL PELA PARTE AUTORA.
+1. Os embargos de declaração, recurso de manejo limitado, são cabíveis tão somente nas restritas hipóteses expressamente previstas no art. 1.022 do CPC, quais sejam: (a) esclarecer obscuridade ou eliminar contradição; (b) suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento; e, (c) corrigir erro material.
+ ..
+4. É inadmissível o manejo dos aclaratórios para rediscutir as questões já decididas no acórdão embargado.
+5. Embargos rejeitados.
+(EDcl na AR n. 5.805/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 27/11/2019, D Je de 2/12/2019.)
+Eis porque, na minha compreensão, revela-se manifestamente incabível o presente recurso.
+ANTE O EXPOSTO, à míngua de omissão a suprir, obscuridade ou contradição a esclarecer, ou, ainda, não se apontado erro material a reparar, o caso é de não conhecer o presente recurso integrativo, pois manifestamente incabível.
+É como voto.
