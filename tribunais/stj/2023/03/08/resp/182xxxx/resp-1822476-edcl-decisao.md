@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIÃO contra decisão monocrática que conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento, assim ementado (fl. 616):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CÁLCULOS DA CONTADORIA JUDICIAL ELABORADOS EM VALOR SUPERIOR AO APRESENTADO PELO EXEQUENTE. ADEQUAÇÃO AO TÍTULO JUDICIAL. NÃO OCORRÊNCIA DE JULGAMENTOEXTRA OU ULTRA PETITA. PRECEDENTES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS DE SUCUMBÊNCIA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. RECURSO PARCIALMENTE CONHECIDO E NESSA EXTENSÃO, PROVIDO.
+A embargante sustenta, em suas razões de embargos, (..) "equívoco ao majorar a verba honorária. Isso porque o recurso especial foi interposto pela União e a ele foi dado provimento" (fl. 625).
+Com impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Tenho que a irresignação da parte comporta acolhida.
+No caso dos autos, a decisão monocrática conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento, ao mesmo tempo em que houve a majoração dos honorários de sucumbência fixados na origem.
+Ocorre que esta Corte firmou a compreensão de que a majoração dos honorários com base no art. 85, § 11, do CPC/2015 somente é devida quando estiverem presentes 3 (três) requisitos cumulativos: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+A propósito, mutatis mutandis:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC CONFIGURADA. OBSCURIDADE RECONHECIDA E SANADA. HONORÁRIOS RECURSAIS. MAJORAÇÃO INDEVIDA. EMBARGOS ACOLHIDOS.
+1. No caso, verifica-se erro material quanto a majoração dos honorários recursais na forma do art. 85 do CPC/2015.
+2. Não assiste razão ao embargante na sua pretensão de majoração dos honorários com base no art. 85, §11 do CPC/2015, pois esta somente é devida quando estiverem presentes 3 (três) requisitos cumulativos:
+a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegia do competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+3. Na hipótese dos autos, o recurso especial foi admitido pela decisão de admissibilidade proferida na origem (fl. 201 e-STJ). Além disso, o acórdão embargado conheceu em parte do recurso especial interposto (fls. 313-314 e-STJ).
+4. Com isso, é afastada a aplicação do art. 85, §11 do CPC/2015, visto que deixa de haver o preenchimento cumulativo dos 3 requisitos previstos jurisprudencialmente para sua aplicação, uma vez que não houve o não conhecimento integral do recurso especial interposto, nem a majoração dos honorários pelo Tribunal a quo.
+5. Embargos de declaração acolhidos. (EDcl no REsp 1756240/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/03/2019) (grifei).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.
+(..)
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+(..)
+5. Os honorários recursais de que trata o artigo 85, § 11, do CPC/2015, são aplicáveis tanto nas hipóteses de não conhecimento integral quanto de não provimento do recurso. Precedente.
+6. Agravo interno não provido. (AgInt no AREsp 1347176/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 06/05/2019) (grifei)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+(..)
+2. Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC/15, é necessário, entre outros requisitos cumulativos, recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente, hipótese recorrente nos autos. Precedentes.
+3. Agravo interno desprovido. (AgInt no AREsp 1222036/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 30/05/2018) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. ART. 85, § 2º, DO CPC/2015. PRECEDENTES. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. DESCABIMENTO NA HIPÓTESE.
+1. A Corte a quo, ao fixar os honorários advocatícios com base no valor da causa, e não no valor da condenação, acabou por prequestionar, ainda que implicitamente, a norma prevista nos § § 2º e 3º do art. 85 do CPC/2015, uma vez que, de fato, a questão da base de cálculo da referida verba foi devidamente enfrentada pelo acórdão recorrido, não havendo que se falar em ausência de prequestionamento na hipótese.
+2. Os honorários advocatícios de sucumbência devem ser fixados, via de regra, sobre o valor do proveito econômico obtido ou, não sendo possível quantificar o proveito econômico do vencedor da demanda, sobre o valor atualizado da causa. Nesse sentido: REsp 1.746.072/PR, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro Raul Araújo, Segunda Seção, DJe 29/03/2019; REsp 1789913/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/03/2019.
+3. O recurso especial foi parcialmente conhecido e, nessa parte, provido para consignar o valor da condenação como base de cálculo dos honorários advocatícios, de modo que, consoante a jurisprudência desta Corte, descabe a majoração dos honorários na forma do § 11 do art. 85 do CPC/2015 quando provido, ainda que parcialmente, o recurso especial, visto que essa regra incide apenas nos casos de inadmissão ou rejeição do recurso. Nesse sentido: REsp 1.727.396/PE, Segunda Turma, Rel. Min. Herman Benjamin, DJe de 02/08/2018.
+4. Agravo interno parcialmente provido apenas excluir a majoração de honorários advocatícios em desfavor da parte ora agravante. (AgInt no REsp n. 1.922.510/MT, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022.) (grifei).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PARCELAMENTO ANTERIOR AO AJUIZAMENTO DA AÇÃO. DÉBITO SUSPENSO. EXTINÇÃO. HONORÁRIOS. CRITÉRIO DE FIXAÇÃO E PEDIDO DE REDUÇÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. MAJORAÇÃO. ART. 85, § 11 DO CPC/2015. DESCABIMENTO. APELAÇÃO PARCIALMENTE PROVIDA. 1. É firme a jurisprudência do STJ no sentido de não ser possível, por meio de Recurso Especial, a revisão dos critérios e do valor estipulado pelas instâncias ordinárias para fixação da verba advocatícia, sob pena de ofensa ao disposto na Súmula 7/STJ.
+2. Em situações excepcionalíssimas o STJ afasta a incidência do referido enunciado sumular, para permitir a revisão dos honorários advocatícios, quando o montante arbitrado se revelar manifestamente ínfimo ou exorbitante.
+3. Hipótese em que, considerando as circunstâncias abstraídas no acórdão recorrido, não se vislumbra qualquer excepcionalidade a justificar a alteração do quantum fixado.
+4. De acordo com o entendimento firmado pela Segunda Seção do STJ, descabe a majoração de honorários já fixados, na forma do art. 85, § 11, do CPC/2015, quando provido o recurso, ainda que parcialmente, visto que es sa regra incide apenas nos casos de inadmissão ou rejeição do recurso.
+5. Recursos Especiais não conhecidos. (REsp n. 1.727.396/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2018, DJe de 2/8/2018.) (grifei).
+Deste modo, procede a irresignação da parte.
+Ante o exposto, acolho os embargos de declaração para sanar contradição e afastar a majoração dos honorários na forma do § 11 do art. 85 do CPC/2015, por ser descabida na hipótese.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
