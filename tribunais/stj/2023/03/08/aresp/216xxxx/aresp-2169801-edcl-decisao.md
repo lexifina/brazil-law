@@ -1,0 +1,73 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração, opostos por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE CONTRATO. NEGÓCIOS JURÍDICOS BANCÁRIOS. ALEGADO DISSÍDIO PRETORIANO QUANTO AO ART. 51, INCISO IV, §1º, INCISO III, DO CDC. AUSÊNCIA DE SIMILITUDE FÁTICA E DE COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. INCIDÊNCIA DA SÚMULA N. 07/STJ. HONORÁRIOS RECURSAIS.
+1- A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+2- Quanto à alegada ausência de abusividade da taxa de juros remuneratórios pactuada, verifica-se que, elidir as conclusões do aresto impugnado, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula N. 07/STJ.
+3- Conforme a jurisprudência deste Superior Tribunal de Justiça, presentes os requisitos cumulativos necessários para a majoração dos honorários sucumbenciais, possível a majoração prevista no art. 85, § 11, do CPC/2015.
+4- AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte embargante, em suas razões, alega, em síntese, contradição na decisão ora embargada, haja vista que "a comparação entre os julgados feita em sede de recurso especial, corretamente reproduziu o cotejo analítico entre as decisões confrontadas"; que apontou, corretamente, "que os casos em comparação são idênticos, ou, pelo menos, assemelhados, valendo-se estritamente de recorte do inteiro teor do acórdão recorrido em comparação, de modo a não ser necessário que este Colendo Tribunal analisasse documentos ou outras provas nos autos"; bem como que não há falar em incidência da Súmula N. 07/STJ.
+É o breve relatório.
+Passo a decidir.
+Os embargos de declaração não merecem acolhida.
+Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INEXISTÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS, APENAS PARA FINS DE ESCLARECIMENTOS QUANTO AOS HONORÁRIOS.
+1. Ação de cobrança.
+2. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+3. Não verifico na espécie os pressupostos necessários e exigidos pelo art. 1.022 do CPC/2015 para o acolhimento dos Aclaratórios, visto que nenhuma omissão, obscuridade, contradição ou erro material existe, no corpo do decisum, que justifique o oferecimento desse recurso.
+4. Contudo, para evitar novos questionamentos, acolhem-se os Embargos Declaratórios para prestar esclarecimentos, sem, no entanto, atribuir-lhes efeitos infringentes.
+5. São inaplicáveis honorários recursais sucumbenciais nos termos do enunciado 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)".
+6. O Agravo Interno é recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada no Recurso Especial, o caso concreto não comporta a aplicação do art. 85, § 11, do CPC/2015.
+7. Embargos de Declaração acolhidos, sem efeito modificativo, apenas para prestar esclarecimentos.
+(EDcl no AgInt no AREsp 1751778/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/04/2021, DJe 22/04/2021) - g.n.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO OMISSÃO NO ACÓRDÃO EMBARGADO. OCORRÊNCIA. CORREÇÃO. RECURSO INTEGRATIVO PARCIALMENTE ACOLHIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta egrégia Corte Superior já proclamou que os embargos de declaração constituem a via adequada para sanar omissões, contradições, obscuridades ou erros materiais do decisório embargado, admitida a atribuição de efeitos infringentes apenas quando esses vícios sejam de tal monta que a sua correção necessariamente infirme as premissas do julgado (EDcl no AgRg no EREsp n.º 747.702/PR, Rel. Ministro MASSAMI UYEDA, Corte Especial, DJe de 20/9/2012). É o caso da existência de omissão no que concerne à suposta violação dos art. 1.022, II, do NCPC.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que rejeitou os primeiros embargos de declaração.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, para sanar omissão.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.244.109/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.) - g.n.
+Ato contínuo , percebe-se que a parte recorrente, no bojo destes embargos declaratórios, sustenta, em síntese, contradição na decisão ora embargada, haja vista que "a comparação entre os julgados feita em sede de recurso especial, corretamente reproduziu o cotejo analítico entre as decisões confrontadas"; que apontou, corretamente, "que os casos em comparação são idênticos, ou, pelo menos, assemelhados, valendo-se estritamente de recorte do inteiro teor do acórdão recorrido em comparação, de modo a não ser necessário que este Colendo Tribunal analisasse documentos ou outras provas nos autos"; bem como que não há falar em incidência da Súmula N. 07/STJ.
+Ora, quanto à alegada contradição, vislumbra-se que melhor sorte não socorre à parte embargante, uma vez que a decisão vergastada restou cristalina ao não conhecer do recurso especial, ao fundamento de que o dissídio jurisprudencial não foi comprovado nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015, e do art. 255, §§ 1º e 2º, do RISTJ, bem como de incidência da Súmula N. 07/STJ, veja-se (e-STJ fls. 605-608 ):
+O recurso especial não merece ser conhecido.
+1- Quanto ao alegado dissídio pretoriano acerca da interpretação conferida ao art. 51, inciso IV, §1º, inciso III, do Código de Defesa do Consumidor:
+Com efeito, percebe-se que o dissídio jurisprudencial não foi comprovado conforme estabelecido no art. 1.029, § 1º, do Código de Processo Civil de 2015, e no art. 255, §§ 1º e 2º, do RISTJ.
+A divergência jurisprudencial, nesse passo, deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+No caso concreto, entretanto, a parte recorrente, a par de não proceder ao devido cotejo analítico, aponta julgados que não guardam similitude fática com a hipótese dos autos, mormente quanto ao reconhecimento da abusividade da taxa de juros remuneratórios em contrato de empréstimo consignado entabulado entre as partes.
+A questão suscitada, desse modo, foi claramente rechaçada na origem em observância às peculiaridades da espécie.
+Nessa esteira, destaca-se que esta Corte Superior firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei, como ocorreu na espécie.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO. PLANO DE SAÚDE COLETIVO. MAJORAÇÃO ANUAL DA MENSALIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO AUMENTO DE INSUMOS E SERVIÇOS. FUNDAMENTO NÃO IMPUGNADO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. REAJUSTE EM VIRTUDE DA ALTA SINISTRALIDADE. FUNDAMENTOS RECURSAIS DISSOCIADOS DO ARESTO COMBATIDO. SÚMULA Nº 284 DO STF. AUSÊNCIA DE PROVA QUE JUSTIFICASSE O REAJUSTE. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APELO NOBRE NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A subsistência de fundamentos inatacados impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF, e a dissociação das razões recursais daquilo que ficou decidido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios obstaculiza a análise do objeto recursal, a teor da Súmula nº 284 do STF.
+3. Qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7, ambas do STJ.
+4. Esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+5. Recurso especial não conhecido. (REsp n. 1.848.022/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 1/9/2020, DJe de 8/9/2020.) - g. n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. NEGÓCIO SIMULADO. NULIDADE ABSOLUTA. IMISSÃO DE POSSE. IMPROCEDÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. IMPUGNAÇÃO. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NºS 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, rever o entendimento do tribunal de origem, que reconheceu a nulidade da escritura pública de confissão de dívida com garantia fiduciária por se tratar de negócio simulado, demanda incursão no contexto fático dos autos e na relação contratual estabelecida entre as partes, o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Incidência das Súmulas nºs 283 e 284/STF.
+4. De acordo com a jurisprudência desta Corte, resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra no óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.951.608/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.) - g. n.
+Destarte, assim como não resta evidenciado o devido cotejo analítico entre os acórdãos confrontados, verifica-se, ainda, que, elidir as conclusões do aresto impugnado, sobretudo a de que "os juros remuneratórios contratados estão muito superiores à taxa média de mercado das operações da espécie, motivo pelo qual merecem limitação" (e-STJ fl. 319), demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula N. 07/STJ
+A pretensão da parte recorrente, portanto, mostra-se inviável.
+Ademais, destaca-se que a contradição que autoriza o manejo dos aclaratórios é a interna, isto é, "aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis" (EDcl no AgInt no AREsp 1935610/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/02/2022, DJe 21/02/2022) - g.n.
+Confira-se:
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. ERRO MATERIAL E OMISSÃO. INOCORRÊNCIA. RESULTADO DO JULGAMENTO QUE REFLETE A MANIFESTAÇÃO E DELIBERAÇÃO COLEGIADA DO ÓRGÃO FRACIONÁRIO. CONTRADIÇÃO. INOCORRÊNCIA. INEXISTÊNCIA DE PROPOSIÇÕES INCONCILIÁVEIS ENTRE SI. OBSCURIDADE. AUSÊNCIA. CLAREZA DO TRECHO ALEGADAMENTE INCOMPREENSÍVEL E QUE, ALIÁS, É MERO OBITER DICTUM.
+1. Não há que se falar em erro material ou omissão quando se depreende, do acórdão embargado e da certidão de julgamento, que houve unanimidade quanto ao resultado, embora por fundamentações distintas, inclusive com alteração da Relatoria originária.
+2. A contradição que justifica a oposição de embargos de declaração é a interna, decorrente de proposições inconciliáveis entre si, mas não a suposta contradição entre as razões de decidir e a lei, doutrina, jurisprudência, fatos ou provas.
+3. Não há que se falar em obscuridade quando o trecho alegadamente incompreensível, além de ser preciso e claro quanto ao argumento utilizado, apenas compõe o obiter dictum e não a ratio decidendi.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1745371/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/12/2021, DJe 17/12/2021) - g.n.
+Destarte, observa-se que o verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela.
+A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipóteses como a dos autos, que revelam tão-somente o inconformismo da parte com o julgado.
+Assim , não merecem acolhida os presentes embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Advirta-se, por fim, que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa (art. 1.026, § 2º, do CPC/2015).
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, elimina r contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. A contradição que autoriza a oposição de embargos de declaração é a interna, ou seja, aquela que se verifica entre a fundamentação e a conclusão do julgado, o que não ocorre na espécie.
+3. Embargos de declaração rejeitados.
