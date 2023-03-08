@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Gabriel Nekis Goncalves contra o ato coator proferido pela Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Recurso em Sentido Estrito n. 0005708-74.2022.8.26.0482, deu provimento ao recurso ministerial para decretar a prisão do paciente pela suposta prática de organização criminal (Processo n. 1509849-67.2019.8.26.0482, da 3ª Vara Criminal de Presidente Prudente/SP).
+O impetrante alega, em síntese, que a pena do paciente foi extinta em 6/2/2023 e que ele encontra preso em razão apenas da prisão preventiva.
+Sustenta que o paciente possui todas as condições favoráveis e o decreto de prisão foi lavrado com base em fundamentação inidônea.
+Pede, em caráter liminar e no mérito, a revogação da prisão preventiva ou, subsidiariamente, sua substituição por cautelares diversas da prisão (fls. 3/9).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local proveu a insurgência ministerial aos seguintes termos (fl. 18):
+Ocorre, contudo, que a natureza permanente do crime de organização criminosa (contemporaneidade), a gravidade concreta do delito (ameaça a autoridade pública, com menção a drones, armamento pesado e atuações criminosas da facção), o fundado risco de reiteração delitiva, a reincidência e, quanto ao GABRIEL, a possibilidade de ser em breve libertado (fls. 109/116), são circunstâncias que, por si sós, justificam a decretação da prisão cautelar de GABRIEL e TONY, para a garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal, nos termos do art. 312, caput, do Código de Processo Penal.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Outrossim, a necessidade de manutenção do cárcere constitui importante instrumento de que dispõe o Estado para desarticular organizações criminosas. A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (HC n. 371.769/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2017).
+No presente caso, verifica-se que o Tribunal local destacou que o paciente integra organização armada, complexa, com muitos integrantes, possui histórico desfavorável, haja vista ser reincidente, além de ter praticado ato especialmente grave, tendo ameaçado autoridade pública, com menção ao uso de drones e armamento pesado. Além disso, a organização se encontra em pleno funcionamento, razão pela qual não há falar em ausência de contemporaneidade.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E AMEAÇA. PRISÃO PREVENTIVA. MATERIALIDADE E INDÍCIOS DE AUTORIA DEMONSTRADOS. FALTA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. ORGANIZAÇÃO CRIMINOSA EM FUNCIONAMENTO. PRECEDENTES.
+Writ indeferido liminarmente.
