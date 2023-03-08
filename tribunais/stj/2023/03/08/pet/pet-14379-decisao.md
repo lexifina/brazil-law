@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso ordinário constitucional interposto por RAFAELA PINHEIRO NABACK, com fundamento no art. 105, inciso II, alínea "b" da Constituição Federal, por meio da qual objetiva a concessão da segurança para determinar sua nomeação e posse em cargo público.
+Em síntese, a requerente impetrou na origem mandado de segurança, por entender que possuía direito líquido e certo à nomeação no cargo público de agente administrativo, tendo em vista a contratação recorrente de pessoal a título precário para o cargo em que a recorrente foi aprovada fora das vagas previstas no edital.
+Interposta apelação, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, por unanimidade, manteve a decisão do primeiro grau que denegou a segurança, consignando a ausência de direito líquido e certo à nomeação, porquanto não houve preterição dos candidatos de forma arbitrária e imotivada, conforme ementa a seguir transcrita (fl. 311):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA -CONCURSO PÚBLICO - NOMEAÇÃO - CANDIDATO APROVADO COMO EXCEDENTE - CONTRATAÇÃO TEMPORÁRIA INJUSTIFICADA PARA O CARGO DISPUTADO - INEXISTÊNCIA - RECURSO NÃO PROVIDO. Na Repercussão Geral reconhecida pelo Supremo Tribunal Federal no julgamento do RE nº 837.311/PI, restou sedimentada a tese segundo a qual o direito à nomeação também se estende ao candidato aprovado fora do número de vagas previstas no edital, "quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos aprovados fora das vagas de forma arbitrária e imotivada por parte da administração". Diante da inexistência de contratação arbitrária e imotivada para o cargo disputado e em número suficiente para alcançar a classificação ocupada pelo candidato excedente, a denegação da ordem é medida que se impõe.
+No recurso ordinário, alega a recorrente que possui direito subjetivo de ser nomeada e tomar posse no cargo público, sob pena de se homenagear a preterição de seu direito líquido e certo em favor da contratação de livre nomeação e exoneração (fl. 365).
+A parte recorrida apresentou contrarrazões (fls. 382-391).
+Apresentado parecer do Ministério Público Federal (fls. 412-415).
+É, no essencial, o relatório.
+De acordo com o art. 105, inciso II, alínea "b", da Constituição Federal, cabe recurso ordinário contra decisão denegatória de Tribunais regionais ou estaduais, em única instância, proferida em mandado de segurança; vejamos:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+ ..
+II - julgar, em recurso ordinário:
+ ..
+b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
+ ..
+Por essa razão, mostra-se incabível a interposição de recurso ordinário no âmbito do presente writ, porquanto a decisão recorrida consiste em acórdão de apelação em mandado de segurança. No caso, deveria a recorrente ter interposto recurso especial, previsto no art. 105, inciso III, da Constituição Federal, de forma que a interposição de recurso ordinário representa erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade recursal. Nesse sentido, cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 105, II, B, DA CF. ACÓRDÃO RECORRIDO PROFERIDO EM SEDE DE APELAÇÃO. NÃO CABIMENTO DA VIA ELEITA. AUSÊNCIA DE DÚVIDA OBJETIVA. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL PARA O RECEBIMENTO DO RECURSO ORDINÁRIO COMO RECURSO ESPECIAL.
+1. O recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O agravante impugna decisão da Presidência do STJ que não admitiu o processamento do recurso ordinário em mandado de segurança.
+3. Nos termos do artigo 105, II, b, da CF, compete ao STJ julgar, por meio do recurso ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão. Assim, não é cabível recurso ordinário em mandado de segurança interposto contra acórdão que julgou apelação em mandado de segurança. Inaplicável o princípio da fungibilidade ante a ausência de dúvida objetiva.
+4. Agravo interno não provido.
+(AgInt no RMS n. 68.385/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/11/2022, DJe de 24/11/2022, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. COMPETÊNCIA RECURSAL DO TRIBUNAL LOCAL PARA O JULGAMENTO DE APELAÇÃO EM MANDADO DE SEGURANÇA. DESCABIMENTO DE RECURSO ORDINÁRIO. INAPLICABILIDADE DA FUNGIBILIDADE RECURSAL. JURISPRUDÊNCIA SEDIMENTADA. AGRAVO INTERNO. CARÁTER DE MANIFESTA IMPROCEDÊNCIA. COMINAÇÃO DE MULTA.
+1. A denegação do mandado de segurança mediante julgamento proferido em primeiro grau de jurisdição, tendo o Tribunal de Justiça meramente desprovido a apelação, não desafia recurso ordinário, na forma do art. 105, inciso II, alínea "b", da Constituição da República, mas sim recurso especial, hipótese aquela de erro grosseiro que obstaculiza a fungibilidade. Jurisprudência remansosa do STJ.
+2. O agravo interno que se volta contra essa compreensão sedimentada na jurisprudência e que se esteia em pretensão deduzida contra texto expresso de lei enquadra-se como manifestamente improcedente, porque apresenta razões sem nenhuma chance de êxito.
+3. A multa aludida no art. 1.021, §§ 4.º e 5.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que, como a presente, se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+4. Agravo interno não provido, com a condenação do agravante ao pagamento de multa de cinco por cento sobre o valor atualizado da causa, em razão do reconhecimento do caráter de manifesta improcedência, observada a gratuidade de justiça.
+(AgInt no RMS n. 69.273/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/10/2022, DJe de 10/11/2022, grifo meu.)
+PROCESSUAL CIVIL. INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA CONTRA ACÓRDÃO DE APELAÇÃO. HIPÓTESE DE RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. ERRO GROSSEIRO.
+1. A jurisprudência do STJ é no sentido de que constitui erro grosseiro interpor Recurso Ordinário, em vez de Recurso Especial, contra acórdão de Apelação em Mandado de Segurança.
+2. Agravo Interno não provido.
+(AgInt no RMS n. 67.834/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2022, DJe de 23/6/2022, grifo meu.)
+Ante o exposto, com base nos arts. 932, inciso III, do CPC e 34, XVIII, alínea "a", do RISTJ, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
