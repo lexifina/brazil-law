@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 02/03/2023 a 08/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Ricardo Villas Bôas Cueva, Marco Buzzi e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual não conheci dos embargos de divergência, os quais foram opostos em face de acórdão proferido pela Terceira Turma desta Corte, de Relatoria da Ministra Nancy Andrighi, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES. PRAZO DE PRESCRIÇÃO TRIENAL. INAPLICABILIDADE. INCIDÊNCIA DO PRAZO GERAL DECENAL. IMPUGNAÇÃO DA SÚMULA 568 DO STJ. PRECEDENTES ANTERIORES AOS MENCIONADOS NA DECISÃO AGRAVADA. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. AUSÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICIALIDADE.
+1. Cuida-se, na origem, de ação de restituição de contribuições previdenciárias.
+2. Segundo a atual jurisprudência de ambas as Turmas que compõem a Segunda Seção do STJ, o prazo prescricional aplicável à pretensão de restituição de contribuições vertidas indevidamente para fundo de previdência complementar, como na presente hipótese, é o decenal. Precedentes.
+3. Inaplicabilidade do prazo trienal previsto no art. 206, §3º, IV, do CC/2002, por não se tratar de ação subsidiária de in rem verso. Precedente da Corte Especial.
+4. A aplicação da Súmula 568/STJ é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada, o que não ocorreu na hipótese.
+5. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+6. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+7. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+8. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+9. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes do STJ.
+10. Agravo interno não provido."
+Em suas razões, o agravante reiterou os fundamentos dispendidos nas peças anteriores, apontando a existência de divergência em relação ao prazo prescricional aplicável à pretensão de devolução dos descontos feitos indevidamente em benefício complementar previdenciário dos participantes abrangidos pela Lei Paulista 4819/1958, pugnando pela incidência do prazo trienal.
+Por fim, pugnou pela inaplicabilidade do óbice contido na Súmula 168, do STJ.
+A parte agravada, regularmente intimada, pugnou pela manutenção da decisão.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA ATUAL. SÚMULA 168/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos - artigo 205 do Código Civil -, seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica" (AgInt nos EREsp n. 1.710.251/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 20/5/2022.)".
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168, CORTE ESPECIAL, DJ 22/10/1996, p. 40503).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pelo agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Como salientado na decisão que não conheceu dos embargos de divergência, não foi demonstrada a divergência atual de posicionamento, visto que em consonância com a jurisprudência desta Segunda Seção, firmada por ocasião do julgamento dos ERESP 1.280.825/RJ, concluído em 27.6.2018, no sentido de que, tratando-se de responsabilidade contratual (hipótese dos autos), incide o prazo geral de 10 (dez) anos previsto no art. 205 do Código Civil de 2002, aplicando-se a prescrição trienal do inc. V do § 3º do art. 206 do mesmo estatuto aos casos de responsabilidade extracontratual.
+Nesse contexto, reitero que não há divergência entre as Turmas de direito privado em relação ao prazo prescricional aplicável à pretensão de devolução dos descontos feitos indevidamente em benefício complementar previdenciário, a qual prescreve em 10 (dez) anos, seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica.
+Com efeito, a ementa do referido precedente tem a seguinte redação:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO. IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA.
+1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017.
+2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, §3, V, do CC/2002) ou decenal (art. 205 do CC/2002).
+3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado").
+4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança.
+5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos.
+6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição da toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito.
+7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados.
+8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia.
+9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos.
+(Relatora Ministra Nancy Andrighi, DJ 2.8.2018)
+Na mesma linha, a propósito, mais recentemente concluiu a Corte Especial, no exame dos EREsp 1.281.594/SP, que "a unidade lógica do Código Civil permite extrair que a expressão "reparação civil" empregada pelo seu art. 206, § 3º, V, refere-se unicamente à responsabilidade civil aquiliana, de modo a não atingir o presente caso, fundado na responsabilidade civil contratual", a qual se encontra sujeita ao prazo prescricional geral decenal, contido no artigo 205 do diploma civil, nos termos de ementa com o seguinte teor:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSENSO CARACTERIZADO. PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DECORRENTE DA RESPONSABILIDADE CIVIL CONTRATUAL. INAPLICABILIDADE DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. SUBSUNÇÃO À REGRA GERAL DO ART. 205, DO CÓDIGO CIVIL, SALVO EXISTÊNCIA DE PREVISÃO EXPRESSA DE PRAZO DIFERENCIADO. CASO CONCRETO QUE SE SUJEITA AO DISPOSTO NO ART. 205 DO DIPLOMA CIVIL. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes, o que, in casu, consiste em definir o prazo prescricional incidente sobre os casos de responsabilidade civil contratual.
+II - A prescrição, enquanto corolário da segurança jurídica, constitui, de certo modo, regra restritiva de direitos, não podendo assim comportar interpretação ampliativa das balizas fixadas pelo legislador.
+III - A unidade lógica do Código Civil permite extrair que a expressão "reparação civil" empregada pelo seu art. 206, § 3º, V, refere-se unicamente à responsabilidade civil aquiliana, de modo a não atingir o presente caso, fundado na responsabilidade civil contratual.
+IV - Corrobora com tal conclusão a bipartição existente entre a responsabilidade civil contratual e extracontratual, advinda da distinção ontológica, estrutural e funcional entre ambas, que obsta o tratamento isonômico.
+V - O caráter secundário assumido pelas perdas e danos advindas do inadimplemento contratual, impõe seguir a sorte do principal (obrigação anteriormente assumida). Dessa forma, enquanto não prescrita a pretensão central alusiva à execução da obrigação contratual, sujeita ao prazo de 10 anos (caso não exista previsão de prazo diferenciado), não pode estar fulminado pela prescrição o provimento acessório relativo à responsabilidade civil atrelada ao descumprimento do pactuado.
+VI - Versando o presente caso sobre responsabilidade civil decorrente de possível descumprimento de contrato de compra e venda e prestação de serviço entre empresas, está sujeito à prescrição decenal (art. 205, do Código Civil).
+Embargos de divergência providos.
+(Relator Ministro BENEDITO GONÇALVES, Relator p/ Acórdão Ministro FELIX FISCHER, CORTE ESPECIAL, DJ 23/5/2019)
+Por fim, confiram os julgados desta Segunda Seção que afastaram expressamente a existência de divergência em relação ao tema ora em debate:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. FUNDAÇÃO CESP. PRESCRIÇÃO. PRAZO DECENAL. EXISTÊNCIA DE CAUSA JURÍDICA. ENRIQUECIMENTO SEM CAUSA. PRETENSÃO SUBSIDIÁRIA.
+1. A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos - artigo 205 do Código Civil -, seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica.
+2. Incidência da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EREsp n. 1.710.251/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 20/5/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. SÚMULA N. 168 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EAREsp n. 1.455.093/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 20/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. SÚMULA N. 168 DO STJ.
+1. Inexiste atualmente divergência no âmbito da SEGUNDA SEÇÃO acerca do tema objeto destes embargos, tendo em vista que os últimos julgamentos realizados pela QUARTA TURMA (AgInt no REsp n. 1.638.321/SP e AgInt no REsp n. 1.721.823/SP), da mesma forma do acórdão ora embargado, adotou o prazo decenal para a ação na qual o autor pede a restituição de contribuições previdenciárias indevidas.
+2. Incidência da Súmula n. 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1838337/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 1.7.2021)
+Os julgados apontados como paradigmas são, inclusive, anteriores aos acórdãos transcritos desta Segunda Seção, conforme se depreende das ementas transcritas nas razões dos embargos de divergência, razão pela qual estão ultrapassados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA NEGAR PROVIMENTO AO APELO NOBRE. INSURGÊNCIA RECURSAL DO REQUERENTE.
+1. Cuidando-se de pretensão fundada no enriquecimento sem causa, embasada apenas nos arts. 884 e 885 do CC/02, o prazo prescricional a ser aplicável é o trienal previsto no art. 206, § 3º, inc. IV, do Código Civil de 2002. Precedentes.2. Agravo interno desprovido.
+(AgInt no AREsp 1462041/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 4.3.2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DE PARCELAS DESCONTADAS INDEVIDAMENTE. PRESCRIÇÃO TRIENAL. PRECEDENTES. DECISÃO MANTIDA.
+1. "A prescrição da pretensão de devolução de parcelas descontadas indevidamente dos vencimentos dos beneficiários de contrato de previdência privada é de 3 (três) anos, estabelecida no art. 206, § 3º, IV, do Código Civil de 2002, por se tratar de ressarcimento de enriquecimento sem causa" (AgInt no AREsp n. 1.322.956/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/12/2018, DJe 01/02/2019).2. Agravo interno desprovido.
+(AgInt no REsp 1763228/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 26.6.2020)
+Nesse sentido, adequada a incidência da Súmula nº 168/STJ, que estabelece que "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Assim, assevero que não foi demonstrada a divergência suscitada, nos moldes do estabelecido pelo artigo 266, do RISTJ, c/c artigo 1.043, § 4º, do novo Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
