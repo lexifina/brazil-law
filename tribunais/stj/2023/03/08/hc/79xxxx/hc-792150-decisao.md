@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de Tiago Goncalves Prestes, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, não comporta acolhimento.
+Com efeito, no caso dos autos, insurge-se a defesa acerca de constrangimento ilegal consistente em insuficiência de fundamentação da decisão de pronúncia, ao argumento de que fundada exclusivamente nos elementos informativos da fase policial.
+Aduz, portanto, que não há elementos concretos probatórios que demonstrem a participação do paciente na suposta prática do delito de homicídio qualificado, razão pela qual postula a concessão da ordem para cassar a decisão de pronúncia e, por conseguinte, determinar a soltura do acusado.
+Na hipótese, o alegado constrangimento não se apresenta com a nitidez imprimida na inicial, pois é cediço que a pronúncia é uma decisão interlocutória por meio da qual o Julgador singular verifica a existência de suporte probatório mínimo da autoria de crime doloso contra a vida.
+Nest a fase, o dever de fundamentação do M agistrado deve ser cumprido dentro de limites estreitos, com linguagem comedida, sob pena de influenciar os jurados, razão pela qual a indicação de suporte probatório mínimo acerca da autoria e materialidade do delito consiste em fundamento idôneo para a sua manutenção.
+Tal o contexto, em uma análise perfunctória, percebo que o Juízo singular atuou dentro dos limites da moldura normativa, apontando fundamentação adequada ao destacar que não obstante as testemunhas presentes ao evento não tenham logrado identificar os agentes do delito, cumpre ressaltar que os contornos fáticos por elas relatados, assim como os elementos colhidos da prova pericial, vão ao encontro da narrativa incriminatória de Samantha Campelo da Rosa, de modo a, portanto, reforçá-la (fl. 3.409 - grifo nosso).
+Assim, sobressai-se que a decisão de pronúncia do réu está condicionada a prova mínima, judicializada, na qual tenha sido garantido o devido processo legal, com o contraditório e a ampla defesa que lhe são inerentes. O caso ora em exame não destoa dessa orientação jurisprudencial (AgRg no AREsp n. 1.674.333/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/6/2021).
+Por fim, desconstituir a conclusão adotada pelas instâncias ordinárias ensejaria indesejável revolvimento fático- probatório, o que é inadmissível na via estreita do habeas corpus.
+Em face do exposto, denego a ordem. Julgo prejudicados os pedidos de reconsideração de fls. 3.430/3.432 e 3.442/3.444.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. FUNDAMENTAÇÃO. SUPORTE PROBATÓRIO MÍNIMO DE AUTORIA E MATERIALIDADE. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada. Prejudicados os pedidos de reconsideração de fls. 3.430/3.432 e 3.442/3.444.
