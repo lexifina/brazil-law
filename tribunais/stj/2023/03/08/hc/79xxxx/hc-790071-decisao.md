@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Cleiton Marques dos Santos, contra acórdão do Tribunal de Justiça do Estado de Goiás, proferido na Apelação n. 0106291-04.2019.8.09.0011 , assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. ILICITUDE DAS PROVAS. INGRESSO VÁLIDO. AUSÊNCIA DE NULIDADE. ABSOLVIÇÃO. INSUFICIÊNCIA PROBATÓRIA. IN DUBIO PRO REO. PROVADA DIFUSÃO ILÍCITA. AUTORIA -PARCIALMENTE COMPROVADA. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. DOSIMETRIA. PEDIDO DE MITIGAÇÃO DA PENA. AUSÊNCIA DE INTERESSE RECURSAL. SENTENÇA PARCIALMENTE RETIFICADA.
+I - O Supremo Tribunal Federal definiu, em repercussão geral, que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem a ocorrência, no interior da casa, de situação de flagrante delito (Tema 712).
+II - A busca domiciliar não padece de ilegalidade quando, além de demonstrada a presença de fundadas razões para o ingresso dos policiais no imóvel, o acesso é franqueado pelo próprio morador, que reiterou essa circunstância em juízo.
+III - Na hipótese em que os elementos de prova produzidos em juízo convergem à certeza da prática do crime de tráfico ilícito de entorpecentes por um dos acusados, resta inviabilizada a absolvição e a desclassificação da conduta para a figura típica do artigo 28 da Lei n. 11.343/2006.
+IV - Lado outro, não sendo possível extrair-se do conjunto probatório a indispensável certeza de que um dos réus concorreu para o crime descrito na denúncia, a absolvição, com fundamento no art. 386, VII, do CPP, é medida que se impõe.
+V - Falta interesse recursal ao apelante quando pleiteia o reconhecimento de direitos já assegurados no édito objurgado, tais como, in casu, o reconhecimento da atenuante da confissão espontânea e a aplicação da minorante do artigo 33, §4º, da Lei de Drogas em seu patamar máximo (art. 577, parágrafo único, do CPP).
+APELAÇÃO CONHECIDA EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDA" (fls. 26/27).
+Consta dos autos que o paciente foi condenado a 1 (um) ano e 8 (oito) meses de reclusão, no regime aberto, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico de drogas, por guardar 13,56g de cocaína).
+Pretende a desclassificação do delito para posse de droga para uso próprio, ou subsidiariamente a redução da pena-base, ao argumento de que 13.56g de cocaína seria insuficiente para majorá-la, bem como a aplicação do redutor de pena previsto no art. 41 da Lei n. 11.343/2006.
+O pedido liminar foi indeferido em decisão de fls. 279/281.
+Parecer do Ministério Público Federal, opinando pela denegação da ordem.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+O Tribunal a quo rechaçou a tese da defesa quanto à desclassificação, com a seguinte fundamentação:
+"Não há prova corroborando a versão de que a balança de precisão apreendida estava atrelada ao desempenho de atividade lícita.
+Por outro lado, dos dados extraídos do telefone de Cleiton (aparelho de celular marca Samsung, modelo J500, IMEI"s 356361084151204 e 356362084151202- fls. 36 do mov. 03) mediante autorização judicial, exsurge que a Polícia Técnico-Científica identificou conversas apontando a prática da mercancia de drogas (mov. 03- fls. 198/198-v), como bem ponderou a magistrada sentenciante.
+Além disso, depreende-se que foram apreendidas diversas embalagens comumente utilizadas para o acondicionamento de drogas fracionadas.
+ ..
+Diante dessa conjunção de fatores, a despeito da quantidade não exacerbada de cocaína encontrada, a forma de acondicionamento dos entorpecentes (17 papelotes), a existência de balança de precisão e a presença de diversas embalagens para fracionamento da droga, evidenciam que o intuito de Cleiton envolvia a mercancia e não o mero consumo pessoal." (fl. 263)
+O acórdão atacado, com base nos acervo probatório constantes dos autos, concluiu pela existência de elementos fáticos aptos para manter a condenação do paciente. A modificação desse entendimento demanda o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DA CONDUTA PARA MERO USUÁRIO. REEXAME DE FATOS. INCABÍVEL NA VIA ELEITA. ATENUANTE DA CONFISSÃO. SÚMULA 630/STJ. RECURSO NÃO PROVIDO.
+1. A pretensão de desclassificação da conduta de tráfico de drogas para a de mero usuário prevista no art. 28 da Lei n. 11.343/2006 demanda o exame aprofundado dos fatos, o que é inviável em habeas corpus. Há testemunhos seguros, somado ao conjunto probatório trazido como fundamento no acórdão recorrido (auto de prisão em flagrante; relatório de denúncia anônima, autos de apreensão e laudo de exame químico), de que o paciente trazia consigo 12 porções de crack e tinha em depósito 2 porções de maconha, sem autorização legal, em local conhecido como ponto de tráfico, corroborando diversas denúncias anônimas de traficância no imóvel a ele pertencente e seu irmão.
+2. "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio" (Súmula 630/STJ).
+3. Recurso não provido.
+(AgRg no HC 693.294/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 04/10/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS E POSSE IRREGULAR DE MUNIÇÕES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. CIRCUNSTÂNCIAS DO CASO CONCRETO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME INICIAL DE CUMPRIMENTO DE PENA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CABÍVEL O REGIME MAIS GRAVOSO. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. A minorante do tráfico privilegiado não foi aplicada em razão das circunstâncias concretas do caso demonstrarem a dedicação habitual do Agravante a atividades criminosas pois, apesar de primário, o Tribunal local ressaltou "a posse de munição" pelo Apenado, fundamento que não se mostra inidôneo. Precedentes.
+3. Nesse contexto, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do Acusado à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+4. Estabelecida a pena-base acima do mínimo legal, em razão da quantidade de entorpecentes apreendidos, e fixada pena definitiva acima de 4 (quatro) anos de reclusão, mostra-se cabível a fixação do regime inicial fechado, segundo o disposto nos arts. 33, § 2.º, alínea b, e 59, ambos do Código Penal.
+5. Agravo regimental desprovido.
+(AgRg no HC 702.694/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 18/11/2021).
+Quanto à atenuante da confissão, o acordão prolatado confirmou a aplicação no patamar máximo, " d estaco que, na 3ª fase, a magistrada reduziu a reprimenda em 2/3 (dois terços), máximo patamar previsto para a causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006", portanto o pedido é inócuo. (fl.269)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
