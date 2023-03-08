@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES - EM RECUPERACAO JUDICIAL (ou PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES), contra decisão que inadmitiu o recurso especial ante a ausência de ofensa aos artigos apontados no recurso especial.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Afirma que o exame da matéria não demanda análise de provas.
+Contrarrazões ao agravo apresentadas à fl. 818.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 766):
+CUMPRIMENTO DE SENTENÇA. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INSURGÊNCIA CONTRA DECISÃO QUE A INCLUIU A AGRAVANTE NO POLO PASSIVO. RELAÇÃO DE CONSUMO. SITUAÇÃO EM QUE HÁ EXISTÊNCIA DE NÍTIDOS OBSTÁCULOS AO RESSARCIMENTO DO CONSUMIDOR, MEDIANTE O ESVAZIAMENTO PATRIMONIAL DA PESSOA JURÍDICA EXECUTADA. INTELIGÊNCIA DO ARTIGO 28, § 5º, DO CDC. COMPROVADA A EXISTÊNCIA DE GRUPO ECONÔMICO DE FATO. PERSONALIDADES JURÍDICAS INDEPENDENTES, MAS ECONOMICAMENTE UNIDAS. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 782-786).
+Nas razões do recurso especial, a parte recorrente aponta violação dos seguintes artigos: 489, § 1º, IV e VI, e 1.022 do CPC; 134, § 4º, 320 e 321 do CPC; 50 do CC; 28 do CDC; e 59 da Lei n. 11.101/2005.
+Afirma que o Tribunal a quo limitou-se a invocar fundamentação genérica, sem efetivo enfrentamento dos argumentos apresentados em seu recurso acerca do crédito estar sujeito à recuperação judicial e do esgotamento das vias executivas.
+Sustenta que "a aprovação do Plano de Recuperação Judicial do "Grupo PDG" acarreta na novação da obrigação objeto do cumprimento de sentença" (fl. 792) e "que o crédito titularizado pelo Recorrido deverá ser recebido no bojo da recuperação judicial, tratando-se de crédito concursal, com base no artigo 49 da Lei nº 11.101/05" (fl. 793).
+Aduz que não pode a inexistência/não localização de bens ou a simples exist ência de grupo econômico embasar a desconsideração da personalidade jurídica.
+Requer o conhecimento e provimento do recurso especial para reconhecer a nulidade do acórdão. Subsidiariamente, pleiteia o indeferimento do pedido de desconsideração da personalidade jurídica.
+É o relatório. Decido.
+Verifico a ocorrência da alegada ofensa aos arts. 489 e 1.022 do CPC.
+O acórdão recorrido (fls. 765-775), ao apreciar o recurso de agravo de instrumento concluiu que estava correta a decisão que acolheu o incidente de desconsideração da personalidade jurídica da executada, pois existente nítidos obstáculos ao ressarcimento do consumidor, mediante esvaziamento patrimonial da pessoa jurídica executada e comprovada a existência de grupo econômico de fato.
+A parte recorrente opôs embargos de declaração, alegando que o acórdão fora omisso a respeito do crédito estar sujeito à recuperação judicial e do esgotamento das vias executivas. No entanto, o Tribunal a quo rejeitou referido recurso por entender que fora interposto com o intuito de rediscutir matéria já enfrentada.
+Contudo, no contexto ora demonstrado, houve omissão acerca alegação de novação do crédito exequendo em razão da aprovação do plano de recuperação judicial, uma vez que, instada a se manifestar, a Corte de origem nada falou sobre a questão.
+Assim, diante da omissão no julgado sobre questão relevante, necessário o retorno dos autos para exame da matéria. A respeito, os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA NÃO SURPRESA. FATO NOVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO DO TRIBUNAL DE ORIGEM. DEVOLUÇÃO DOS AUTOS.
+1. Deixando a Corte local de se manifestar sobre questões relevantes apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Inexiste omissão no acórdão proferido por esta Corte, ora embargado, ao deixar de apreciar diretamente questão relevante ao julgamento do recurso não analisada previamente pelo Tribunal de origem, sob pena de supressão de instância.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 1.501.575/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATORIA C/C PEDIDO CONDENATORIO - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL INSURGÊNCIA RECURSAL DA PARTE RÉ .
+1. Há violação dos arts. 489 e 1.022 do CPC/15 quando, apesar do requerimento da parte, por meio de embargos declaratórios, a Corte de origem se recusa a se manifestar sobre questão que lhe foi apresentada por ocasião dos embargos de declaração, relevante ao deslinde da controvérsia. Nessa hipótese, o processo deve retornar à Corte local para que a omissão seja suprida. Precedentes.
+2. Agravo interno desprovido. (AgInt no AREsp n. 1.992.917/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+Ante o exposto, conheço do agravo em recurso especial e dou provimento ao recurso especial para, anulando o acordão proferido nos embargos de declaração, determinar o retorno dos autos ao Tribunal de origem a fim de sanar a omissão apontada.
+Publique-se. Intimem-se.
