@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE PLANO DE SAÚDE. CONTINUIDADE DO PLANO DE ASSISTÊNCIA MÉDICA PARA DEMITIDOS. PLANO DE INATIVOS. REAJUSTE ABUSIVO. INOBSERVÂNCIA DO DEVER DE INFORMAÇÃO.
+Quanto à controvérsia, alega violação dos arts. 15, 16, IV, 30, § 6º, e 31, § 2º, da Lei n. 9.656/1998, no que concerne à legalidade do reajuste por faixa etária de plano de saúde usufruído por pessoa demitida sem justa causa, que permaneceu no plano na modalidade de inativo, eis que o plano do beneficiário, neste caso, é regulado nos moldes do contrato coletivo firmado com a empresa, trazendo o(s) seguinte(s) argumento(s):
+Ocorre que o recorrido foi demitido sem justa causa da referida empresa, tendo solicitado a embargante a possibilidade de permanência no plano de saúde, para aproveitar a carência e benefícios. Tal solicitação foi aceita pela recorrente, tendo sido autorizado a transferência para modalidade de "Inativos".
+Nessa seara, conforme legislação vigente, o plano do beneficiário/recorrido/inativo será regulado nos moldes do contrato coletivo firmado com a empresa, devendo, porém, assumindo o pagamento do valor integral, com os devidos reajustes e alterações de preço, conforme estabelece a ANS:
+ ..
+Aqui, importante salientar que os percentuais de reajuste aplicados ao plano empresarial, que difere das demais modalidades, estes NÃO são definidos pela ANS, sendo que a agência apenas acompanha os aumentos praticados:
+ ..
+Nesse interim, as regras para o reajuste, precificação e aplicação por faixa etária encontra-se nos termos aditivos do contrato coletivo empresarial firmado com a empresa contratante. No referido aditivo, consta a tabela atualizada de reajuste por faixa etária: (fls. 553/555).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Havendo omissão de informação relevante ao consumidor em cláusula contratual, prevalece a regra contida no art. 47 do CDC, que assim prevê: "As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor".
+ ..
+Embora tenha ocorrido o desligamento do apelado, titular do plano de saúde, ao emprego no qual a empresa empregadora pagava parcialmente o plano, não se verifica nos autos nenhuma comprovação de que o mesmo tenha sido notificado acerca dos efeitos práticos dessa desvinculação, assim como previsto no art. 30 da Lei 9.656/98, que dispõe sobre os planos e seguros privados de assistência à saúde:  ..
+ ..
+No exame do instrumento contratual (Opção para Continuidade do Plano de Assist. Médica para Demitidos e Aposentados - Plano de Inativos - evento 01, doc. 03), constata-se a existência de vício de informação acerca da tabela de preços e reajustes, in verbis:
+"2. A mensalidade do Plano de Inativos deverá observar a tabela de preços constante do contrato coletivo empresarial celebrado entre a Central Nacional Unimed e a sua ex-empregadora, sendo certo, ainda, que estará sujeita aos reajustes previstos no referido contrato".
+Portanto, percebe-se que houve clara violação ao dever de informação e transparência da operadora de plano de saúde ao consumidor, quando não esclareceu através do contrato firmado que o mesmo teria que arcar com o valor correspondente a cota parte da ex-empregadora, ou seja, o valor integral da mensalidade.
+ ..
+Assim, não havendo no contrato informação precisa sobre o repentino aumento da mensalidade do plano de saúde, tampouco esclarecido acerca da tabela de preços constante no Plano de Inativos, denota o acerto do ato judicial vituperado ao declarar abusivo o reajuste operado pela apelante (fls. 504/506).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de fo rma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
