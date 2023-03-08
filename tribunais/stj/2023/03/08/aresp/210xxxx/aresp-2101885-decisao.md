@@ -1,0 +1,41 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por JOÃO PAULO DE OLIVEIRA CARLOS em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+AGRAVO DO INSTRUMENTO - AÇÃO MONITÓRIA -INVERSÃO DO ÔNUS DA PROVA - ART. 6º, INCISO VIII, CDC - CABIMENTO -VEROSSIMILHANÇA DAS ALEGAÇÕES E HIPOSSUFICIÊNCIA TÉCNICA-INCIDÊNCIA DAS REGRAS DE DISTRIBUIÇÃO DO ÔNUS DA PROVA DO ART. 373 CPC.
+-A tese da taxatividade mitigada, desenvolvida no bojo do REsp 1.704.520/MT, propõe que se analise o cabimento de agravo de instrumento fora das hipóteses expressamente previstas no art. 1.015 do CPC a partir do requisito objetivo da urgência, que decorre da inutilidade futura do julgamento da questão em recurso de apelação.
+-O Agravo de Instrumento é admissível nas hipóteses "decisão interlocutória que defere ou que indefere quaisquer outras atribuições do ônus da prova distintas da regra geral, desde que se operem ope judicis e mediante autorização legal" (REsp 1729110/CE).
+-O Código de Defesa do Consumidor adotou a Teoria da Distribuição Dinâmica do Ônus da Prova.
+-A inversão de que trata o Art. 6º, inciso VIII do CDC opera-se mediante decisão proferida pelo juiz da causa - ope judicis, que deve verificar alternativamente a presença dos requisitos autorizadores, quais sejam: (i) a verossimilhança das alegações ou (ii) a hipossuficiência do consumidor.
+-A hipossuficiência a que se refere o art. 6º, inciso VIII do CDC é de caráter técnico, relacionada dificuldade de produção de determinada prova, não se confundindo com hipossuficiência econômica ou jurídica.
+-Eventual inversão do ônus da prova não resulta na atribuição de responsabilidade à parte de arcar com os custos das diligências probatórias que não foram requeridas por ela.
+-Revela-se desnecessário invocar uma suposta hipossuficiência técnica do réu a ensejar a aplicação da regra do art. 6º, VIII, do CPC/15, resolvendo-se a questão da distribuição do ônus da prova pelas regras comuns da lei processual civil.
+-Recurso a qual se dá provimento.
+No recurso especial, aponta-se, além de dissídio jurisprudencial, ofensa ao art. 6º, VIII, do CDC, alegando que "a hipossuficiência do ora recorrente deriva, dessa maneira, da superioridade que a recorrida detém em relação aos elementos técnicos, científicos e contábeis para a produção da prova".
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não comporta conhecimento.
+Como se sabe, o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+No caso, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, assentou o seguinte:
+In casu, extrai-se da decisão guerreada que a hipossuficiência na qual se fundou a inversão do ônus probatório não diz respeito à capacidade técnica da agravada, mas sim à dificuldade de custeio da prova pericial que será necessária ao deslinde do feito.
+Como dito alhures, a hipossuficiência a que se refere o art. 6º, inciso VIII do CDC é de caráter técnico, relacionada à dificuldade de produção de determinada prova, não se confundindo com hipossuficiência econômica ou jurídica.
+Ademais, a inversão do ônus da prova, permitida no mencionado dispositivo legal, não resulta na atribuição de responsabilidade à parte de arcar com os custos das diligências probatórias que não foram requeridas por ela.
+Essa alteração da dinâmica probatória tem o efeito, tão somente, de desincumbir o consumidor da responsabilidade por produzir provas às quais efetivamente não teria acesso ou que o onerariam sobremaneira, atribuindo tal ônus ao fornecedor, sob pena de, não o fazendo, arcar com as consequências jurídicas da não produção.
+Não significa, entretanto, o dever de uma das partes custear a prova requerida pela outra.
+Conforme o disposto no art. 95 do Código de Processo Civil, "cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes."
+In casu, a prova foi requerida somente pela parte ré, ora agravada, de modo que não cabe imputar à agravante a obrigação de antecipar os honorários periciais.
+No caso, o réu é assistido pela Defensoria Pública, pelo que se presume sua hipossuficiência financeira. Nessa medida, poderá a parte requerer a concessão de assistência judiciária gratuita, incumbindo ao douto Juízo de 1.º grau, nessa hipótese, nomear profissional que aceite realizar os trabalhos periciais de forma gratuita ou mediante recebimento de seus honorários ao final da demanda a serem pagos pela parte autora, no caso de improcedência do pedido inicial, ou pelo Estado, em caso de sucumbência da parte ré e ora agravada, nos termos do art. 95, § 3º do CPC.
+(..)
+Assim, a eventual dificuldade de custeio da prova por parte do consumidor não enseja a atribuição de tal ônus à parte autora e ora agravante.
+Some-se a isso que a inversão do ônus da prova não se justifica no presente caso, pois a dinâmica normal estatuída pelo próprio CPC já revela que é o autor e ora agravante quem tem que demonstrar na ação monitória a partir da prova escrita ( cédula de crédito bancário) o montante cobrado. Ora, se a autora traz sua planilha de débito com os encargos na forma como foram, em tese, pactuados, não há como imputar-lhe fazer a prova de cobrou a maior. Quem traz o fato modificativo do direito do autor é que tem que realizar a referida prova e, como já analisado, inexiste qualquer dificuldade técnica para que o consumidor a faça, ainda que esteja sob o pálio da gratuidade.
+(..)
+O Código de Processo Civil adota como regra a distribuição estática do ônus da prova que pode ser resumida, de forma simplificada, no brocado "cada um que prove suas alegações". Cada parte, dessa forma, deverá provar os pressupostos fáticos do direito que pretenda ser aplicado na solução do litígio.
+(..)
+Conforme raciocínio explanado pelo i. doutrinador Humberto Theodoro Júnior em sua obra Curso de Direito Processual Civil, a regra veiculada pelo artigo retro transcrito deve ser aplicada da seguinte maneira: se o réu, ao contestar a ação apresenta defesa direta, se limitando a negar os fatos alegados pelo autor, o ônus probatório recai sobre este. Ainda que o réu não tome nenhuma iniciativa probatória, se o autor não demonstrar a veracidade do fato constitutivo de seu direito, esse perderá a causa.
+Por outro lado, se o réu se defende de maneira indireta, invocando outro fato capaz de alterar ou extinguir o direito do autor, a regra inverte-se. Isso porque, ao basear-se em fato modificativo, extintivo ou impeditivo do direito do autor, o réu, de forma implícita, admite como verídicos os fatos alegados na petição inicial que, contudo, sofrerá as consequências da existência do fato alegado na contestação.
+Assim, mesmo na relação consumerista, o consumidor é quem tem que fazer prova dos fatos impeditivos ou extintivos do direito invocado pela outra parte, quando não seja uma situação de real hipossuficiência técnica que justifique a inversão na forma do art. 6º, VIII, do CDC. Nessa medida, mostra-se totalmente desnecessária e inócua a "inversão" do ônus da prova, com o fundamento de que a parte ré seria hipossuficiente para a produção das provas.
+Como se nota, a discussão acerca do cabimento ou não da regra de instrução probatória inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência técnica do consumidor e da verossimilhança das alegações deduzidas, circunstância que demandaria o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial, a teor da Súmula 7/STJ.
+Registro que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", o que prejudica a análise do dissídio jurisprudencial.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
