@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 02/03/2023 a 08/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno em embargos de divergência em recurso especial interposto por ERNY PARISENTI e DELBRAY CHRISTOFOLLI, contra a decisão unipessoal que indeferiu liminarmente os embargos de divergência, nos seguintes termos:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. MANUTENÇÃO DE POSSE. INTERDITO PROIBITÓRIO. SIMILITUDE FÁTICA NÃO DEMONSTRADA. ACÓRDÃOS PARADIGMAS E EMBARGADO QUE NÃO DECIDIRAM A MESMA QUESTÃO JURÍDICA. AUSÊNCIA DE DIVERGÊNCIA JURISPRUDENCIAL A SER SANADA.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma.
+2. Tratando os acórdãos confrontados acerca de questões que possuem bases fáticas essencialmente distintas, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+3. Embargos de divergência indeferidos liminarmente. (e-STJ fls. 1642-1646)
+Em seu agravo interno, os agravantes reiteram seus argumentos no sentido de que os acórdãos paradigma e recorrido divergiram em relação à aplicabilidade do art. 923 do CPC/73. Requerem seja reformada a decisão monocrática a fim de admitir e dar provimento aos embargos de divergência (e-STJ fls. 1649-1657).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE DISSENSO JURISPRUDENCIAL. ACÓRDÃOS PARADIGMAS E EMBARGADO QUE NÃO DECIDIRAM A MESMA QUESTÃO JURÍDICA. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AUSÊNCIA DE DIVERGÊNCIA JURISPRUDENCIAL A SER SANADA.
+1. É assente na jurisprudência desta Corte que "os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não se prestam a simples rejulgamento do recurso especial ou do respectivo agravo, para correção de eventual equívoco do acórdão embargado - ainda que se trate de matéria de ordem pública  .. " (AgRg nos EAREsp 1.973.326/SP, 3ª Seção, DJe 13/6/2022).
+2. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma.
+3. Considerando que os acórdãos confrontados possuem bases fáticas essencialmente distintas e que tampouco divergiram em relação à mesma questão jurídica, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que os agravantes não trouxeram qualquer argumento capaz de ilidir os fundamentos da decisão agravada.
+Colhe-se da decisão unipessoal o seguinte fundamento determinante para a inadmissibilidade dos embargos de divergência:
+"Com efeito, o acórdão embargado apreendeu que "o Tribunal de origem, ao consignar a total inadmissão da discussão acerca do domínio em sede de ação possessória, julgou em dissonância com a jurisprudência do STF e do STJ, merecendo reforma". Para tanto, valeu-se do entendimento sufragado pelas Cortes Superiores, no sentido de que "o atual Código Civil e a redação atribuída ao art. 923 do Código de Processo Civil impedem a apreciação de questões envolvendo a jus petitorium em juízo possessório. No entanto, a doutrina de Pontes de Miranda esclarece ser possível a exceptio dominii nos casos em que duas pessoas disputam a posse a título de proprietários ou quando é duvidosa a posse de ambos os litigantes" (grifo original) (e-STJ fl. 1528).
+Nesse sentido, mencionou a aplicação da Súmula 487/STF à hipótese em concreto, a afirmar que "a posse será concedida com base no domínio quando a disputa estiver nele fundada".
+Por outro lado, o acórdão paradigma retrata situação fática distinta. Naqueles autos, afirmou-se expressamente que "a ação, como admite o próprio recorrente, não se funda em posse. Não se pretendeu sua manutenção ou reintegração, até porque é incontroverso que o autor jamais deteve a posse do imóvel litigioso" (REsp 207849/DF, 3ª Turma, DJe 4/10/1999, fl. 5). (grifou-se)
+Reprisa-se, ainda, que as razões dos embargos de divergência estão fundamentadas na suposta existência da posse pelos embargantes, conforme se depreende dos seguintes trechos: "trata-se de litígio entre agravantes e agravados com objetivo de definir a posse e propriedade de bem imóvel de matrícula nº 12.884"; "fica muito nítido que a decisão de origem, a qual é a única com competência jurídica para definir a moldura fática que limita a atuação da instância superior, consignou que não há qualquer dúvida de que a posse foi provada em favor dos ora Recorrentes"; "o colegiado de origem resolveu o litígio com base nos documentos e demais provas dos autos, os quais foram taxativos quanto à prova da posse" (e-STJ fls. 1601).
+Assim, infere-se que a pretensão dos embargantes não pode ser acolhida, haja vista a ausência de similitude fática entre as hipóteses confrontadas." (e-STJ fl. 1644-1645).
+Considerando que os acórdãos confrontados possuem bases fáticas essencialmente distintas e que tampouco divergiram em relação à mesma questão jurídica, não há que se falar em dissídio jurisprudencial a ser sanado na presente via.
+Por esses motivos, não há que se falar em juízo positivo de admissibilidade dos embargos de divergência. Mantém-se, no ponto, a decisão monocrática.
+Por fim, frisa-se que o mero não conhecimento, improcedência ou rejeição do agravo interno e dos embargos de declaração não enseja a necessária imposição das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15. Rejeita-se, portanto, o requerimento de aplicação da multa processual (e-STJ fl. 1666).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenaç ão às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
