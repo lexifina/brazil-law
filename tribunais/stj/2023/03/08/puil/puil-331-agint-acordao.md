@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 02/03/2023 a 08/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Mauro Campbell Marques.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou procedente o pedido de uniformização de interpretação da lei formulado pela União, tendo por fundamento o art. 14, § 2º, da Lei n. 10.259/2001, contra acórdão proferido pela 1ª Turma Recursal da Seção Judiciária Federal do Estado do Paraná que deferiu o pedido de recebimento de ajuda de custo decorrente de remoção a pedido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, c, do RISTJ, julgo procedente o pedido de uniformização, reafirmando a jurisprudência desta Corte de não ser devido o pagamento de ajuda de custo em situações de remoção a pedido, restabelecendo, in casu, a sentença a quo."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Da análise da jurisprudência dominante tanto dos E. Tribunais Regionais Federais, como das Turmas Recursais dos Juizados Especiais Federais de vários estados da Federação, assim como da jurisprudência das Turmas Regionais de Uniformização e da própria Turma Nacional de Uniformização, constata-se que o acórdão citado pela União, proveniente da Turma Recursal dos Juizados Especiais Federais do Ceará, trata-se de decisão isolada, não refletindo o posicionamento dominante sobre o tema, que afirma ser devida indenização a título de mudança a procurador da República em razão de remoção a pedido, pela simetria do estatuto constitucional dos membros do Ministério Público e dos membros da Magistratura. A título de exemplo, passa-se a citar alguns acórdãos extraídos de consulta ao site do CJF: (..)
+ ..
+Portanto, a decisão combatida, ao negar o pagamento à Autora da verba aqui pleiteada, não está dando uma interpretação correta ao sistema legislativo em análise, o que fere frontalmente os princípios da razoabilidade e isonomia.
+É que para a espécie não cabe legitimamente qualquer outra interpretação diversa da aqui sustentada, sob pena de se criar o seguinte paradoxo: o único Procurador da República com direito à percepção da ajuda de custo e demais verbas de auxílio, seria aquele removido ex officio (ou seja, à título de punição) nos termos do art. 211 da LC nº 75/93, mediante decisão do Conselho Superior, pelo voto de 2/3 de seus membros, assegurada ampla defesa. A admitir-se tal interpretação estar-se-ia beneficiando o Procurador punido, e prejudicando o Procurador que teve seu pedido de remoção atendido pela Administração, uma vez que esta reconheceu presentes tanto a necessidade do serviço, quanto o interesse público na transferência, o que esvaziaria completamente o sentido da norma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. REMOÇÃO A PEDIDO. INCABÍVEL PAGAMENTO DE AJUDA DE CUSTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de pedido de uniformização de interpretação de lei formulado contra acórdão proferido pela 1ª Turma Recursal da Seção Judiciária Federal do Estado do Paraná que deferiu o pedido de recebimento de ajuda de custo decorrente de remoção a pedido.
+II - Verifica-se que o acórdão atacado está em dissonância com o entendimento jurisprudencial desta Corte acerca da matéria controvertida nos autos. Esta Corte possui entendimento de que "é incabível o pagamento de ajuda de custo a membros do Ministério Público quando se trate de remoção a pedido, conforme dispõe o art. 227 da Lei Complementar nº 75/93, considerando, ainda, o disposto nos artigos 209 a 213, da mencionada lei, os quais expressamente dispõem sobre as diferentes espécies de remoção". A propósito, confira-se: AgRg no AREsp n. 649.985/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/3/2015, DJe 23/3/2015.
+III - Agrav o interno improvido.
+VOTO
+O agravo interno não merece provimento.
+Verifica-se que o acórdão atacado está em dissonância com o entendimento jurisprudencial desta Corte acerca da matéria controvertida nos autos. Esta Corte possui entendimento de que "é incabível o pagamento de ajuda de custo a membros do Ministério Público quando se trate de remoção a pedido, conforme dispõe o art. 227 da Lei Complementar nº 75/93, considerando, ainda, o disposto nos artigos 209 a 213, da mencionada lei, os quais expressamente dispõem sobre as diferentes espécies de remoção". A propósito, confira-se:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCURADOR DA REPÚBLICA. REMOÇÃO A PEDIDO. AJUDA DE CUSTO. LEI COMPLEMENTAR Nº 75/93. IMPOSSIBILIDADE. PRECEDENTE. SÚMULA Nº 83/STJ.
+1. O acórdão recorrido está em consonância com o entendimento do Tribunal a quo firmado no sentido de que "é incabível o pagamento de ajuda-de-custo a membros do Ministério Público da União quando se trate de remoção a pedido, conforme dispõe o art. 227 da Lei Complementar nº 75/93, considerando, ainda, o disposto nos artigos 209 a 213, da mencionada lei, os quais expressamente dispõem sobre as diferentes espécies de remoção" (v. g.: REsp 720.813/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJ 04/12/2006).
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 649.985/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/3/2015, DJe 23/3/2015.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
