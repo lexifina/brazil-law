@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fulcro no art. 105, III, a, da CF, contra acórdão do Tribunal regional federal DA 4ª Região, assim ementado (fl. 1.816):
+TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. PRESCRIÇÃO. AUSÊNCIA. PEDIDO DE COMPENSAÇÃO ADMINISTRATIVA DE CRÉDITOS. HOMOLOGAÇÃO PARCIAL.
+Não decorridos cinco anos contados da intimação ao contribuinte da decisão administrativa não homologatória de pedido de compensação de créditos, e o ajuizamento de ação anulatória, não há falar em prescrição.
+Embargos de declaração opostos e rejeitados (fl. 1.852).
+Aponta afronta ao art. 1.022, II, do CPC/2015 pelo acórdão, "ao deixar de analisar as omissões apontadas nos embargos declaratórios da União, em especial quanto às circunstâncias e fatos então aventados, em cotejo com a legislação enfocada (art. 168, II do CPC C/C art. 74 da Lei nº 9.430/96 (em sua redação original)" (fl. 1.867). Pugna pelo prequestionamento do art. 1.025 do CPC/2015.
+Requerendo seja restabelecida a vigência dos arts. 168, II, do CTN e 74 da Lei n. 9.430/1996, a recorrente alega (fls. 1.872-1.874):
+Importante repetir que o pedido de compensação, bem como a reclamação interposta contra o mesmo, devem ser analisados à luz da legislação então vigente. Considerando que o pedido de compensação foi protocolizado em 12/06/2001, a legislação a ser aplicada deve ser a da época em que ocorridos os fatos, época em que, é bom que se repita, não estava em vigor a atual redação do art. 74 da Lei n. 9.430 e não havia qualquer previsão de aplicação de efeito suspensivo a insurgências contra indeferimento de compensação.
+ ..
+Nota-se, portanto, que, na melhor das hipóteses em agosto de 2007 foi sepultada administrativamente a pretensão de utilização dos créditos da contribuição ao pró-labore, visto não ter o contribuinte interposto qualquer recurso do indeferimento da utilização do crédito previdenciário. O recurso da Fazenda Nacional dizia respeito tão somente ao FINSOCIAL e em nada lhe (ao contribuinte) aproveitava. Portanto, em agosto de 2007 operou-se a coisa julgada administrativa no que se refere à utilização do crédito referente ao pró-labore. Naquele momento teve início o curso do prazo prescricional para a sua utilização.
+ ..
+Assim, ajuizada a presente ação em junho de 2018, é de se reconhecer a prescrição dos créditos relativos ao pró-labore.
+Contrarrazões a fls. 1.882-1.901.
+Juízo positivo de admissibilidade a fls. 1.904/1.905.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, não se conhece do recurso quanto à apontada afronta ao art. 1.022, II, do CPC/2015, uma vez que a recorrente não aduz argumentação sobre a relevância das questões, a fim de demonstrar a necessidade de rejulgamento dos aclaratórios na origem - circunstância que configura deficiência insanável da fundamentação recursal, autorizando a aplicação, por analogia, da Súmula 284/STF. Nesse passo, não configurada hipótese para o prequestionamento do art. 1.025 do CPC/2015.
+No mérito, quanto ao art. 74 da Lei n. 9.430/1996, o recurso não se viabiliza, em razão da falta de prequestionamento da tese recursal vinculada. Incidência do óbice da Súmula 211/STJ.
+Quanto à prescrição, a recorrente, nas razões recursais apresentadas, não impugna a fundamentação do acórdão de que, somente em novembro de 2014, o contribuinte foi notificado da decisão final do processo administrativo, com homologação parcial das compensações, concluindo, assim, não haver sido operada a prescrição dos créditos discutidos, quando do ajuizamento da ação em 25/6/2018 (fls. 1821/1.822):
+O cumprimento do acórdão foi determinado pela Receita Federal apenas em 10/2014 (PROCADM6, ev. 1, fls. 136), quando então foi emitido o demonstrativo analítico de compensação e proferida a decisão final do processo administrativo, com homologação parcial das compensações (fls. 447- 455).
+O contribuinte foi intimado da homologação parcial em 11/2014, via telefone, e em 12/2014, via edital (PROCADM6, ev. 1, fls. 463 e 469).
+Consoante explicitado acima, o pedido de compensação apresentado pela autora em 2001 foi convertido pela autoridade fiscal em declaração de compensação (fls. 380 e ss do PROCADM5), dado o advento da Lei nº (e-STJ Fl.1821)
+Documento recebido eletronicamente da origem 10.637/2002, regulamentada pela IN SRF 233/2002.
+Nos termos do artigo 74, § 2º da Lei nº 9.430/96 (redação da Lei nº 10.637/2002), a compensação declarada à Receita Federal extingue o crédito tributário, sob condição resolutória de sua ulterior homologação.
+Nesse contexto, a despeito dos recursos apresentados por ambas as partes no curso do processo administrativo, a homologação parcial da compensação declarada pela autora à Receita Federal ocorreu apenas em 2014. Com a prolação do referido decisum, operou-se a condição resolutória, antes da qual prevalecia, para todos os efeitos, a presunção legal de que os créditos objeto do pedido de compensação estavam extintos.
+Apenas com a homologação parcial da declaração teve o contribuinte ciência inequívoca e definitiva de que os créditos objeto da AORD 97.3011735-7 (contribuições sociais sobre pro-labore) não estavam abrangidos na decisão do 3º Conselho de Contribuintes, que deu provimento ao seu recurso sem qualquer ressalva expressa acerca da impossibilidade de compensação de parte dos créditos constituídos.
+Via de consequência, a pretensão do contribuinte visando o reconhecimento judicial de seu direito de compensar os créditos constituídos na AORD 97.3011735-7 com débitos do SIMPLES surge no instante em que esse toma ciência de que a declaração de compensação dos referidos créditos não foi homologada pela autoridade fiscal, a saber, em 12/2014.
+Tomando em conta o ajuizamento da ação em 25/06/2018, conclui-se que não ocorreu a prescrição dos créditos discutidos, quer se entenda pela aplicação do prazo decenal (trata-se de créditos de contribuição social constituídos antes do advento da LC 118/2005) ou mesmo o quinquenal.
+Assim, o referido fundamento, à míngua do devido enfrentamento, mantém-se incólume, tornando inadmissível o recurso que não o impugnou. Incidência da Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
