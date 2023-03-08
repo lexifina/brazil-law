@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE AMERICANA - SP, ora suscitante, e o JUÍZO DA 2ª VARA DO TRABALHO DE AMERICANA - SP, ora suscitado.
+Consta dos autos que foi proposta reclamação trabalhista por VALDECIR ERRERA DE FRANÇA, guarda civil municipal, postulando o pagamento de verbas trabalhistas no Juízo Laboral que declinou da competência para o Juízo Comum (e-STJ fls. 692/694), que, por sua vez, suscitou o conflito de competência (e-STJ fls. 899/904).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Estadual (e-STJ fls. 916/919).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Considerado isso, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua, na competência da Justiça do Trabalho, a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir: Rcl 6.527 AgR-segundo, rel. Ministro LUIZ FUX, Primeira Turma, DJe 16/10/2015; Rcl 7.857 AgR/CE, rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias decorrentes dessa avença" (AgRg no CC 139.456/RN, rel. Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 13/05/2015, DJe 19/05/2015).
+Na presente hipótese, conforme consignado no decisum prolatado pelo Juízo Laboral (e-STJ fl. 692/694), o ente municipal adotou o regime jurídico-administrativo (Lei Municipal n. 5.110/2010), o que atrai a competência da Justiça comum.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE AMERICANA - SP, ora suscitante.
+Publique-se. Intimem-se.
