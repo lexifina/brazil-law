@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MATHEUS LIMA ANDRADE contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial, violação do artigo 155 do Código de Processo Penal.
+Aduz, em síntese, que o Tribunal de origem manteve a condenação do réu, por entender que "há nos autos a certeza da prática do delito, baseando-se apenas nas evidências produzidas no inquérito".
+Requer a "reforma do acórdão recorrido para, reconhecendo a violação ao artigo 155 do Código de Processo Penal, absolver o recorrente na forma do artigo 386, inciso V, do Código de Processo Penal."
+Apresentadas as contrarrazões (e-STJ, fls. 391-393).
+O recurso foi inadmitido com fundamento nos óbices da Súmulas 7 do STJ (e-STJ, fls. 395-397). Daí este agravo (e-STJ, fls. 401-407).
+Em decisão de fls. 419-420, proferida pela Ministra Presidente desta Corte, não se conheceu do agravo, por incidência da Súmula 182/STJ.
+Interposto agravo regimental da referida decisão (e-STJ, fls. 426-433), a Ministra Presidente reconsiderou a decisão anterior que não havia conhecido do agravo em recurso especial e determinou a respectiva distribuição dos autos (e-STJ, fl. 435).
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 442-445).
+É o relatório.
+Decido.
+O recurso especial não comporta conhecimento.
+É que a tese de violação ao artigo 155 do CPP, por entender que a condenação está baseada apenas em elementos do inquérito, não foi enfrentada pela Corte de origem.
+Conforme consta dos autos, em sede de apelação, a defesa sustentou a insuficiência de provas quanto à autoria delitiva do delito de roubo, requerendo a absolvição do réu em observância ao princípio do in dubio pro reo.
+Como bem pontuou o Ministério Público Federal em seu parecer, "a alegada violação ao art. 155 do CP configura nítida inovação recursal, na medida em que não foi suscitada na apelação (principio tantum devolutum quantum appellatum ), e, por tal razão, não foi objeto de discussão por ocasião dos julgamentos da apelação e dos embargos de declaração." (e-STJ, fls. 443-444).
+Assim, a matéria que não foi ventilada no acórdão recorrido e não foi objeto de embargos de declaração carece do necessário prequestionamento, recaindo à espécie a Súmula 282 do STF, a qual transcrevo: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+A propósito:
+" ..  2. É condição sine qua non ao conhecimento do especial que tenham sido ventiladas, no contexto do acórdão objurgado, as teses jurídicas indicadas na formulação recursal, emitindo-se, sobre elas, juízo de valor, interpretando-se -lhes o sentido e a compreensão. Súmulas 282 e 356, ambas do STF.  ..  4. Agravo regimental a que se nega provimento." (AgRg no AREsp 1168770/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/11/2017, DJe 13/11/2017).
+Além disso, conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte.
+Ilustrativamente:
+" ..  2. Para que se reconheça o requisito constitucional do prequestionamento, é necessário que o Tribunal se pronuncie acerca da matéria debatida, formulando tese jurídica sobre a questão. 3. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte. (HC 349.782/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/12/2017, DJe 12/12/2017). 4. Ressalvada pessoal compreensão diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação da impossibilidade da execução provisória de pena restritiva de direito. A execução da pena restritiva de direitos, embora não seja idêntica, traz notória similitude com o cumprimento das condições impostas no sursis, razão pela qual merece tratamento jurídico equivalente 5. Agravo regimental improvido e indeferida execução provisória." (AgRg no REsp 1546132/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018).
+" ..  1. Mesmo as matérias de ordem pública devem ser previamente submetidas às instâncias ordinárias para serem enfrentadas na via especial.  ..  4. Agravo regimental não provido." (AgRg no REsp 1493762/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/10/2017, DJe 25/10/2017).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
