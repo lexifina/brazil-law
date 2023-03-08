@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  benefício  de  Tiago  Maia  Silva,  no  qual  se  aponta  como  autoridade  coatora  o  Tribunal  de  Justiça  de  São  Paulo,  que  negou  provimento  ao  Agravo  de  Execução  Penal  n.  0006973-24.2022.8.26.0996,  nos  termos  da  seguinte  ementa  (fl.  50):
+AGRAVO  EM  EXECUÇÃO  -  Pedido  de  reforma  da  decisão  que  indeferiu  o  pedido  de  retificação  do  cálculo  de  penas  -  IMPOSSIBILIDADE  -  Agravante  que  cumpre  penas  por  crime  hediondo  e  comuns  -  Cálculo  que  considera  o  cumprimento  simultâneo  das  penas,  para  efeito  de  contagem  de  prazo  para  progressão  de  regime,  na  forma  legal,  respeitada  a  unificação  das  penas  -  Remição  devidamente  considerada,  conforme  art.  128  da  LEP  -
+NEGADO  PROVIMENTO  AO  AGRAVO.
+Aqui ,  a  defesa  alega  ser  e vidente  a  ofensa  direta  ao  art.  76  do  Código  Penal,  o  delito  hediondo  deve  ser  cumprido  antes  de  qualquer  outro.  Só  se  inicia  uma  pena  mais  branda  após  cumprida  aquela  de  maior  gravidade.  É  o  que  orienta  o  mencionado  artigo,  aqui  simplesmente  ignorado  (fl.  5).
+Aduz  que,  no  presente  feito,  deve  o  Sr.  Contador  realizar,  portanto,  o  lançamento  do  delito  hediondo,  desde  o  ICP  até  a  data  da  falta  (interrupção),  onde  será  lançado  o  cumprimento  de  8 a  9m  para ,  somente  após,  lançar  a  fração  necessárias  aos  demais  delitos  comuns  (fl.  9).
+Requer,  ao  final,  a  concessão  da  ordem  para  determinar  a  retificação  do  cálculo  de  liquidação  de  penas  do  Paciente,  nos  exatos  termos  do  art.  76  do  Código  Penal,  sem  qualquer  tipo  de  interrupção,  desde  o  ICP (13/5/2009)  até  a  data  da  falta  disciplinar  (12/2/2018),  servindo  esta  última  (data  do  PAD)  a  consistir  em  data-base  onde  deverá  cumprir  o  paciente  20/100  do  restante  do  hediondo  16/100  dos  demais  delitos  comuns  (fl.  10).
+Informações  prestadas  (fls.  61/81  e  86/88).
+O  Ministério  Público  Federal  ofereceu  parecer  pelo  não  conhecimento  do  writ  e,  caso  conhecido,  quanto  ao  mérito,  pela  sua  denegação  (fls.  90/95).
+É  o  relatório.
+A  insurgência  não  prospera,  visto  que  o  acórdão  impugnado  está  de  acordo  com  a  jurisprudência  desta  Corte,  no  sentido  de  que  a  disposição  do  art.  76  do  Código  Penal  refere-se  apenas  à  gravidade  da  pena  imposta,  qual  seja,  reclusão  e  detenção,  e  não  à  relativa  aos  crimes  praticados,  comum  ou  hediondo,  para  os  quais  inexiste  ordem  de  precedência  na  execução.  Precedentes  (AgRg  no  REsp  1.745.057/MS,  Ministro  Nefi  Cordeiro,  Sexta  Turma,  julgado  em  11/12/2018,  DJe  17/12/2018).
+Ainda  nesse  sentido:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  INEXISTÊNCIA  DE  VIOLAÇÃO  AO  PRINCÍPIO  DA  COLEGIALIDADE.  EXECUÇÃO.  CRIMES  HEDIONDO  E  COMUM.  IRRELEVÂNCIA.  PENAS  DA  MESMA  ESPÉCIE.  RECLUSÃO.  AUSÊNCIA  DE  PENA  MAIS  GRAVE.  ORDEM  DE  PRECEDÊNCIA  NA  EXECUÇÃO  DAS  PENAS.  CRONOLOGIA.
+1.  Não  constitui  ofensa  ao  princípio  da  colegialidade  a  análise  monocrática  do  habeas  corpus  pelo  relator  quando  a  decisão  monocrática  for  proferida  com  base  na  jurisprudência  dominante  do  Superior  Tribunal  de  Justiça.
+2.  "A  despeito  do  delito  hediondo  ser  considerado  mais  grave  em  relação  ao  crime  comum,  se  a  reprimenda  privativa  de  liberdade  aplicada  para  ambos  for  de  reclusão,  não  há  falar  em  pena  mais  grave  em  razão  da  natureza  do  crime  praticado  e,  pois,  em  incidência  da  regra  do  art.  76  do  CP.  Precedentes"  (AgRg  no  HC  n.  406.980/SC,  relator  o  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  DJe  de  27/3/2018,  grifei).
+3.  Agravo  regimental  a  que  se  nega  provimento.
+(AgRg  no  HC  n.  577.548/MS,  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  2/3/2021,  DJe  10/3/2021 - grifo nosso)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  EXECUÇÃO  PENAL.  CONCURSO  DE  CRIMES.  DELITO  COM  PENA  DE  RECLUSÃO.  PRECEDÊNCIA  DE  EXECUÇÃO  EM  RELAÇÃO  AO  CRIME  COM  DETENÇÃO.  DELITOS  HEDIONDOS  E  COMUNS.  IRRELEVÂNCIA.  ORDEM  CRONOLÓGICA.  JURISPRUDÊNCIA  FIRMADA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  O  critério  expressamente  adotado  pelo  art.  76  do  Código  Penal  refere-se  à  gravidade  das  penas  privativas  de  liberdade,  a  saber,  reclusão  e  detenção.  Assim,  havendo  mais  de  uma  condenação,  com  penas  diversas,  executa-se  primeiro  a  pena  de  reclusão  com  precedência  sobre  a  detenção,  em  ordem  cronológica,  sendo  irrelevante  se  o  delito  é  comum  ou  hediondo  (HC  325.645/MS,  Rel.  Ministro  FELIX  FISCHER,  Quinta  Turma,  julgado  em  1º/9/2016,  DJe  29/9/2016).
+2.  Agravo  regimental  não  provido.
+(AgRg  no  HC  n.  522.195/MS,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  1º/10/2019,  DJe  8/10/2019 - grifo nosso).
+Ante  o  exposto,  denego  a  ordem.
+Publique-se.
+EMENTA
+HABEAS  CORPUS .  EXECUÇÃO  PENAL.  UNIFICAÇÃO  DE  PENAS  DA  MESMA  ESPÉCIE  (RECLUSÃO).  ART.  76  DO  CP.  INAPLICABILIDADE.  CUMPRIMENTO  EM  ORDEM  CRONOLÓGICA.  AUSÊNCIA  DE  ILEGALIDADE.  PRECEDENTES.
+Ordem  denegada.
