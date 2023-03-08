@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Matheus Almeida de Jesus, preso preventivamente pela prática, em tese, do crime de integrar organização criminosa.
+Ataca-se acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.22.116637-4/000 (fls. 52/63), que manteve a prisão preventiva do paciente, decretada nos Autos n. 0208.22.000077-1 (fls. 69/75 - CNJ n. 0000771-30.2022.8.13.0208), da Vara Única da comarca de Cruzília/MG.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e excesso de prazo para a formação da culpa e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+Em 10/1/2023, a Ministra Maria Thereza de Assis Moura, Presidente desta Corte, indeferiu o pedido liminar (fls. 470/472).
+Prestadas informações pelo Juízo de primeiro grau (fls. 477/479) e Tribunal estadual (fl. 700), o Ministério Público Federal opinou pela denegação da ordem (fls. 735/737):
+PROCESSO PENAL. ASSOCIAÇÃO CRIMINOSA E LAVAGEM DE CAPITAIS. PRISÃO PREVENTIVA. NECESSIDADE. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA.
+- Pela denegação da ordem.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva imposta ao paciente - como garantia da ordem pública pela prática, em tese, do crime de integrar organização criminosa -, aos argumentos de deficiência de fundamentação do decreto preventivo e excesso de prazo para formação da culpa.
+Inicialmente, não se conhece da alegação de excesso de prazo para formação da culpa, porque não foi enfrentada pela Corte estadual no ato tido como coator, em visível supressão de instância.
+Ademais, no tocante ao fundamento utilizado para o decreto de prisão, não diviso o alegado constrangimento, pois o decreto preventivo evidenciou que houve requerimento do Ministério Público (fl. 381) e o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando o risco de reiteração criminosa - indícios apontados pelo Ministério Público que foram capazes de elucidar possível organização, devidamente estruturada, para cometer delitos não apenas nesta região, mas também no estado de São Paulo (fl. 382) -, gravidade concreta do delito - grupo estruturado, com organização pormenorizada e cujos participantes se dissipam entre os estados mencionados, sendo certo que a liberdade dos representados de muito corrobora com a manutenção de crimes, colocando em risco toda sociedade e a segurança pública (fl. 385) - e a periculosidade do agente - M.A.D.J., muito mencionado durante toda investigação, demonstrou-se ser pessoa de grande importância nos trâmites da organização, haja vista que, conforme explanado acima, mantinha contato estreito e direito com os demais investigados, tomando frente as operações (fl. 384) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Ademais, registre-se que o decreto preventivo aqui hostilizado foi considerado suficientemente fundamento pela Sexta Turma desta Corte, no julgamento de impetração de corréu (HC n. 772.717/MG, de minha relatoria, Sexta Turma, julgado em 7/2/2023, DJe 13/2/2023).
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA. OPERAÇÃO CARCARÁ. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. INDEVIDA SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA, RISCO DE REITERAÇÃO CRIMINOSA E PERICULOSIDADE DO AGENTE. FUNDAMENTOS IDÔNEOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
