@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por CARLA FERNANDA DOS SANTOS TORRES, ESTEFANYO APARECIDO SANTOS TORRES, KELLY CRISTINA HONÓRIO DOS SANTOS e SUZIQUELI DOS SANTOS TORRES, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 460):
+COMPRA E VENDA ENTRE PARTICULARES - AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO c/c OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Sentença que reconheceu a simulação de todos os negócios jurídicos celebrados após a compra e venda realizada com os réus Estefânio e Suziqueli, incluindo o negócio jurídico celebrado com os autores e também com terceiros que não fizeram parte da lide. Inconformismo dos autores e dos réus Estefânio e Suziqueli.
+RECURSO DOS RÉUS - Expressa desistência Homologação - RECURSO NÃO CONHECIDO.
+RECURSO DOS AUTORES - Julgado que deve se limitar à análise e julgamento dos pedidos constantes da inicial. Nulidade de negócios jurídicos envolvendo terceiros não foram deduzidos pelos autores. Sentença "extra petita", ao julgar questões não explicitadas na causa de pedir e no pedido. Sentença anulada. RECURSO PROVIDO.
+Os embargos de declaração foram parcialmente acolhidos, conforme se verifica da seguinte ementa (e-STJ, fl. 491):
+EMBARGOS DE DECLARAÇÃO. Acórdão que anulou a r. sentença, por tratar-se de sentença extra petita. Insuficiência do preparo não verificada. Impossibilidade de decretação de deserção sem a intimação da parte apelante/embargada. Nulidade da sentença que poderia ser reconhecida de ofício. Embargos parcialmente acolhidos, porém, sem efeitos modificativos.
+Opostos novos embargos de declaração, este foram rejeitados (e-STJ, fls. 500-503).
+Em suas razões de recurso especial (e-STJ, fls. 469-474), os agravantes alegaram violação do art. 1.007 do CPC/2015, sustentando, em síntese, que houve deserção do recurso de apelação, de modo que não poderia o acórdão recorrido ter adentrado ao mérito diante da ausência de pressuposto de admissibilidade recursal. Ao assim agir, a Corte local teria infringindo a legislação pertinente.
+Foram apresentadas contrarrazões (e-STJ, fls. 508-515).
+O processamento do apelo especial não foi admitido pela Corte local, levando os insurgentes a interporem o presente agravo.
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Contraminuta apresentada (e-STJ, fl. 527-532).
+Brevemente relatado, decido.
+O Tribunal de origem, ao dirimir a controvérsia, no julgamento dos embargos de declaração, assim fundamentou (e-STJ, fls. 490-493 - sem grifo no original):
+No mais, o recurso comporta parcial provimento e diante da ausência de efeito infringente que a decisão aqui causará, fica dispensada a intimação da parte contrária, conforme determina o artigo 1.024, §4º, Código de Processo Civil.
+De fato, verifica-se que o valor do preparo recursal não foi analisado no acórdão, contudo, é cediço que, constatada a insuficiência do preparo, deve o recorrente ser intimado para que proceda à devida complementação no prazo de cinco dias a contar de sua intimação, não sendo possível julgar deserto o recurso antes de efetuada a referida providência.
+Deste modo, não é possível, neste recurso, julgar a deserção do apelo, pois não houve a intimação dos apelantes para suprir a falha, nos termos do artigo 1.007, §2º, do Código de Processo Civil.
+Também não é o caso de se anular o Acórdão, reestabelecendo a r. sentença, pois mesmo se a deserção fosse constatada, poderia este E. Tribunal, reconhecer, de ofício, a nulidade da r. sentença, conforme restou expressamente disposto no julgado.
+ ..
+Assim sendo, neste ponto, restou evidente a impropriedade da via eleita, devido ao nítido propósito infringente do recurso, nada havendo para ser alterado.
+De qualquer modo, para viabilizar eventual acesso às vias extraordinária e especial, considero pré-questionada toda matéria infraconstitucional e constitucional, observando o pacífico entendimento do Superior Tribunal de Justiça no sentido de que, tratando-se de pré-questionamento, é desnecessária a citação numérica dos dispositivos legais, bastando que a questão posta tenha sido decidida (EDROMS 18205 / SP, Ministro FELIX FISCHER, DJ 08.05.2006 p. 240). Assim também nos termos do art. 1.025 do CPC.
+Do exposto, pelo meu voto, ACOLHO EM PARTE OS EMBARGOS DE DECLARAÇÃO, sem efeitos modificativos, devendo os embargados recolher a diferença do preparo recursal, em cinco dias, na origem, sob pena de inscrição na Dívida Ativa.
+Sobre a deserção, a jurisprudência desta Corte é no sentido de que "o recurso dever ser reconhecido deserto se, depois da intimação para regularização, nos termos do art. 1007, § 2º, do CPC, a parte não comprovar ser beneficiária da justiça gratuita, ter pago o preparo no momento da interposição do recurso ou recolhimento determinado no prazo assinado" (AgInt no AREsp n. 2.074.069/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - sem grifo no original ).
+No caso, observa-se que o Tribunal estadual, reconhecendo a insuficiência do preparo recursal, determinou a intimação da parte para complementação das custas, o que foi providenciado às fls. 476-487 (e-STJ).
+Desse modo, não havia como reconhecer a deserção do recurso de apelação sem antes oportunizar a parte a realizar a sua complementação, nos moldes do art. 1.007, § 2º, do CPC/2015.
+Assim, uma vez providenciada a referida determinação, qualquer discussão a respeito da necessidade de reconhecimento da deserção recursal perde relevância, de modo que o acórdão recorrido não merece qualquer reparo.
+Ademais, tratando-se de vício sanável, não haveria plausibilidade em se anular o acórdão recorrido somente pela constatação de preparo insuficiente, sobretudo diante do reconhecimento da nulidade da sentença por julgamento extra petita, o que poderia ter sido feito de ofício pelo órgao julgador, conforme delineado pela Corte local.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. PREPARO INSUFICIENTE. INTIMAÇÃO PARA REGULARIZAÇÃO. COMPLEMENTAÇÃO. DESERÇÃO AFASTADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
