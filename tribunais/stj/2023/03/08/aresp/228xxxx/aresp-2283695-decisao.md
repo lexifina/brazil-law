@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEDIVAN LOURENCO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO PELA AUSÊNCIA DE PROVAS - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - DEPOIMENTOS TESTEMUNHAIS EM PERFEITA CONSONÂNCIA COM O ACERVO PROBATÓRIO - CONDENAÇÃO MANTIDA - ISENÇÃO DO PAGAMENTO DAS CUSTAS PROCESSUAIS - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO.
+Quanto à controvérsia recursal, alega violação do art. 33 da Lei n. 11.343/2006 e do art. 386, III, do Código de Processo Penal, no que concerne à necessidade de reconhecimento da atipicidade do fato imputado ao recorrente, ao argumento de que a conduta efetivamente praticada configura, no máximo, ato preparatório, não sendo, portanto, punível por falta de previsão legal, trazendo os seguintes argumentos:
+A sentença de primeiro grau condenou o recorrente nas iras do art. 33, capu, e §42 da Lei 11.343/06, às penas de 01 (um) ano 10 (dez) meses de reclusão em regime aberto, substituída por duas restritivas de direitos, e 170 dias-multa.
+Em que pese argumentos trazidos pela defesa, em sede Recursal, a decisão foi mantida incólume.
+Todavia, conforme será demonstrado por via do presente recurso, não foi realizada conduta típica pelo recorrente, já que este não recebeu as "supostas mercadorias que seriam objeto do tráfico", não há que se falar em fato típico.
+Dito isso, passamos a análise da conduta considerada como provada no acórdão, não sem antes pontuar que não se objetiva no presente recurso reexaminar provas, mas apenas demonstrar a atipicidade da conduta do recorrente com base no delineamento fático constante do acórdão.
+ ..
+Conforme se vê, a conduta pelo qual o recorrente foi, configura, no máximo, ato preparatório, não estando descrita em nenhum dos verbos constantes do art. 33 da Lei 11.343/06, portanto, não puníveis pela falta de previsão legal.
+É que a conduta do recorrente que se considerou provada nos presentes autos foi a de encomendar a terceira pessoa que lhe entregasse, conduta esta que, nitidamente, não se enquadra naquelas tipificadas no art. 33 da Lei de Tóxicos.
+Neste contexto, importante rememorar que o princípio da legalidade, em matéria penal, impõe que a interpretação dada aos tipos penais deve ser sempre restritiva, não se admitindo, portanto, analogia, salvo se in bonam partem.
+ ..
+Destarte, diante da violação ao art. 33 da Lei n. 11.343/06, e ao art. 386, inciso III, do Código de Processo Penal, manter a condenação do recorrente por fato atípico, impõe-se o restabelecimento da legalidade por esta augusta Corte Superior de Justiça.
+Ante o exposto, a Defesa Pública do recorrente pede que o presente Recurso Especial seja admitido, conhecido e provido, a fim de a fim de absolver o recorrente nos termos do art. 386, III do CPP (fls. 508/513).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
