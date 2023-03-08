@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LANDBANKING INCORPORAÇÕES LTDA. contra decisão que inadmitiu o recurso especial com fundamento na ausência de violação legal e na deficiência da demonstração do dissídio jurisprudencial.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 120917-82.2021.8.26.0000) assim ementado (fl. 189):
+Agravo de Instrumento. Incidente de Desconsideração da Personalidade Jurídica. O abandono da empresa por parte dos sócios, com a ausência de bens da empresa devedora e a consequente existência de bens em nome das empresas agravantes que compõe o mesmo grupo econômico e atuam no mesmo segmento, só vem a corroborar a incidência e violação ao disposto no artigo 50, §1º, §2º, inciso III, e § 4º do Código Civil. Decisão Mantida. Agravo Desprovido.
+Nas razões do recurso especial, a ora agravante aponta ofensa ao art. 50 do Código Civil, argumentando que não foram comprovados o desvio de finalidade e a confusão patrimonial de forma a autorizar a desconsideração da personalidade jurídica da empresa.
+Aduz ainda que não se demonstrou a existência de grupo econômico, pois as empresas não possuem o mesmo objeto social, não possuem os mesmos sócios e não estão localizadas no mesmo endereço. Assevera que "não há, portanto, qualquer vínculo entre a empresa devedora e as empresas Recorrentes" (fl. 210).
+Alega, por fim, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 253-258.
+É o relatório. Decido.
+No caso, o Tribunal de origem manteve a decisão que decretou a desconsideração da personalidade jurídica da empresa GPX LI Empreendimentos Imobiliários a fim de incluir no polo passivo da execução os sócios Romero e Landbanking Incorporações Ltda. por entender que foram demonstrados a confusão patrimonial, o desvio de finalidade e a existência de grupo econômico a autorizar a desconsideração pretendida (fl. 194):
+No caso em questão, o abandono da empresa por parte dos sócios, com a ausência de bens da empresa devedora e a consequente existência de bens em nome das empresas agravantes que atuam no mesmo segmento, só vem a corroborar a incidência e violação ao disposto no artigo 50, §1º, §2º, inciso III, e § 4º do Código Civil:
+(..)
+Pouco importa o fato de as empresas agravantes não estarem estabelecidas no mesmo endereço da devedora, importando, sim, a questão da empresa GPX II Empreendimentos Imobiliários SPE Ltda ter sido abandonada e não possuir bens, enquanto as empresas Landbanking e Romero possuírem vasto patrimônio, o que denota a segmentação das atividades pelas pessoas jurídicas, dando andamento aos negócios de forma paralela, com o propósito de lesar credores. Assim, diante da inconteste ligação entre as empresas que compõe o mesmo grupo econômico, com interesses comuns e a ausência de bens da devedora e vasto patrimônio das agravantes, de rigor o reconhecimento da confusão patrimonial e desvio de finalidade a impor a desconsideração da personalidade jurídica perseguida.
+Assim, ao contrário do que alega a agravante, a desconsideração da personalidade jurídica não se baseou apenas no fato de não terem sido localizados bens em nome da devedora, mas em outros fatos que demonstraram a confusão patrimonial e o desvio de finalidade com o propósito de lesar credores.
+Nesse contexto, para reconhecer a suposta ofensa ao art. 50 do Código Civil, seria necessário o reexame de fatos e provas do processo, o que não se admite no recurso especial a teor da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
