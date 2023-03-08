@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO LÍVIO GARCIA, AGOSTINHO GARCIA, LUCIA DE FÁTICA GARCIA TEIXEIRA, RENATO DOS SANTOS GARCIA E ZEILE DE JESUS DOS SANTOS (JOÃO e outros) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, JOÃO e outros alegaram a violação dos arts. 966, V, CPC, Súmula 514 do STF, art. 198 do CC, ao sustentar que a ação rescisória deveria ser julgada procedente, ao argumento de que a sentença rescindenda deveria ter conhecido do agravo de instrumento como apelação, pois não configura erro grosseiro a sua inversão.
+O Tribunal estadual fundamentou a decisão no seguinte sentido:
+Referido recurso não foi conhecido diante do erro grosseiro em sua interposição, pois contra sentença, como se sabe, o recurso cabível é a apelação.
+Em seguida, não satisfeitos, os autores interpuseram novo agravo de instrumento
+ ..
+De acordo com as alegações contidas na inicial, pretendem os autores utilizar-se da ação rescisória como instância recursal, o que lhes é defeso. Inconcebível a pretensão dos autores, que objetivam, em sede de ação rescisória, a reforma do julgado simplesmente por ser contrário a seus interesses, mas sem qualquer respaldo nas hipóteses taxativas do art. 966 do CPC/2015. (e-STJ, fls. 360/374)
+Confiro que as razões recursais do presente recurso são genéricas, não impugnam ou demonstram de forma clara e objetiva onde o acórdão estadual violou a legislação federal.
+Sendo assim, a argumentação no presente caso é deficiente, o que faz incidir a Súmula 284/STF, por analogia. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C PERDAS E DANOS E REPARAÇÃO POR DANOS MORAIS E EMERGENTES E RESTITUIÇÃO DE QUANTIA PAGA. 1. VIOLAÇÃO AO ART. 485, § 3º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. 2. JULGAMENTO EXTRA PETITA E JULGAMENTO BASEADO EM FATO INEXISTENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 3. VIOLAÇÃO AO ART. 489 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 4. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC/2015. REITERAÇÃO DOS FUNDAMENTOS. POSSIBILIDADE. PRECEDENTES. 5. MULTA DO ART. 1.021, § 1º, DO CPC/2015. INAPLICABILIDADE. 6. AGRAVO INTERNO IMPROVIDO.
+1. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+2. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.129.634/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.- sem destaque na original)
+Quanto ao pedido de concessão de gratuidade de justiça, destaco que os recorrentes somente requereram nesta oportunidade.
+A teor do disposto no art. 4º, caput e § 1º, da Lei 1.060/50, e arts. 98 e 99 do CPC/2015, a parte gozará dos benefícios da assistência judiciária mediante a simples afirmação e documentos apresentados de isenção de imposto de renda (e-STJ, fls. 432/449) sendo portanto deferido o pedido, até prova em contrário.
+Todavia, ainda que seja possível formular pedido de gratuidade de justiça a qualquer tempo, a concessão do benefício somente produzirá efeitos práticos para o futuro, de forma que a condenação em custas, despesas processuais e honorários advocatícios não pode mais ser elidida. Nesse sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECURSO ESPECIAL. PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO COMPROVAÇÃO DO RECOLHIMENTO. DESERÇÃO. GRATUIDADE DE JUSTIÇA. EFEITOS EX NUNC. DECISÃO MANTIDA. 1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro no prazo de 05 (cinco) dias, sob pena de deserção. 2. É deserto o recurso quando a parte recorrente, intimada efetuar o recolhimento do preparo, não cumpre a diligência no prazo fixado. Aplicação da Súmula 187 desta Corte. 3. O benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial. 4. Agravo interno não provido." (AgInt no AREsp n. 2.064.741/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado 6/6/2022, DJe 8/6/2022)
+Assim, defiro o benefício da justiça gratuita exclusivamente para fins recursais, vedadas a retroatividade.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de MARIA ANTÔNIA DE CAMPOS, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observado o benefício da gratuidade da justiça, nos termos do art. 98, §3º do CPC .
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCI SÓRIA. DISCUSSÃO DE MÉRITO DA AÇÃO RESCINDENDA. ALEGAÇÃO GENÉRICA E DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
