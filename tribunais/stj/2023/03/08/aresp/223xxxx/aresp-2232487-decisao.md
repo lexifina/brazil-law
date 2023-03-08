@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO APARECIDO DE ANDRADE (JOÃO) contra decisão que negou seguimento ao seu apelo nobre, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL - CONTRATO DE ARRENDAMENTO MERCANTIL DE BENS MÓVEIS - REINTEGRAÇÃO DE POSSE CONVERTIDA EM EXECUÇÃO - EMBARGOS À EXECUÇÃO - PEDIDOS PARCIALMENTE ACOLHIDOS - INCONFORMISMO DO EMBARGANTE - PLEITO DE AFASTAMENTO DA RENÚNCIA À DEVOLUÇÃO DO VALOR RESIDUAL GARANTIDO (VRG) - NÃO ACOLHIMENTO - SÚMULA Nº 564 DO SUPERIOR TRIBUNAL DE JUSTIÇA - RESP. Nº 1.099.212/RJ - INAPLICABILIDADE AO CASO VERTENTE - PREMISSA FÁTICA DISTINTA - EXISTÊNCIA DE TERMO DE ENTREGA DOS BENS ARRENDADOS - ACORDO MÚTUO - QUITAÇÃO INTEGRAL E RECÍPROCA - CLÁUSULA LIVREMENTE PACTUADA - AUSÊNCIA DE VÍCIO DE VONTADE -IMPOSSIBILIDADE DE AFASTAMENTO - JURISPRUDÊNCIA DO E. TRIBUNAL DE JUSTIÇA DO PARANÁ E DESTA CÂMARA CÍVEL - ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA - NÃO CONFIGURADO - SENTENÇA MANTIDA - RECURSO DESPROVIDO (e-STJ, fl. 244)
+Inconformado, JOÃO interpôs recurso especial, com fundamento nas alíneas a e c, III, do art. 105 da CF, apontando ofensa aos artigos 368 do Código Civil; 42 e 51 do Código de Defesa do Consumidor, bem como divergência jurisprudencial. Sustenta ser abusiva a cláusula de quitação recíproca celebrada entre as partes no ato de devolução dos bens arrendados, pois subtraiu o direito de devolução do valor residual garantido (VRG), previsto na Súmula 564/STJ.
+As contrarrazões foram apresentadas. (e-STJ, fls. 326/342)
+O recurso não foi admitido pelo TJPR (e-STJ, fls. 343/345).
+Nas razões do presente agravo, JOÃO alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da devolução do VRG
+JOÃO afirmou a violação dos arts. 368 do Código Civil; 42 e 51 do Código de Defesa do Consumidor, bem como divergência jurisprudencial, sustentando que é abusiva a cláusula de quitação recíproca celebrada entre as partes no ato de devolução dos bens arrendados, pois subtraiu o direito de devolução do valor residual garantido (VRG), previsto na Súmula 564/STJ.
+Sobre o tema o TJPR consignou a validade da quitação reciproca concedida entre as partes no termo de devolução dos bens arrendados, ressaltando a ausência de vício de vontade, confira-se:
+Cumpre esclarecer que a relação jurídica de arrendamento mercantil estabelecida pelas partes, concretiza-se por um contrato de adesão, cujas cláusulas são pré-estabelecidas pela instituição financeira e assentidas pelo arrendatário, sendo que a revisão judicial dos termos contratados depende da demonstração de abusividade.
+Contudo, com a formalização da entrega amigável dos bens arrendados,houve quitação mútua e recíproca em relação às obrigações constantes no contrato de arrendamento mercantil, sendo incabível a discussão de eventual nulidade das cláusulas ou de valores devidos referentes ao negócio, como a restituição do VRG.
+A leitura do dispositivo contratual em análise não oferece outra conclusão salvo a de inexistência de vício de vontade, ou qualquer afronta à proteção conferida pelo Direito de Consumo, eis que a autonomia negocial do embargante foi respeitada, estando ausente fundamento hábil à descaracterização da conformidade da avença, considerando que foi dada ao consumidor a opção de firmá-la ou não.
+Nesse passo, a higidez da quitação recíproca não pode ser afastada ante os argumentos de que o embargante a pactuou desacompanhado de advogado e houve indução do consumidor a erro.
+Quanto ao primeiro argumento, caso acolhido, restaria aceita a premissa de que a capacidade negocial plena do embargante apenas seria preenchida mediante o suprimento de um causídico, fundamento que, a toda ordem, não se pode aceitar,considerando a ausência nos autos de qualquer prova que demonstre fato impeditivo para o exercício de atos da vida civil.
+Em vista da indução do consumidor a erro por parte do banco credor,melhor sorte não assiste ao embargante, vez que não há no conjunto processual elemento de convicção que sirva de substrato à conclusão de que houve falsa representação da realidade que resultou em engano do devedor sobre o acordo que entabulava, porquanto a vontade de entregar os semirreboques ressai límpida da leitura do termo (mov. 1.3), sobretudo quando se evidencia a intenção do embargante de extinguir as obrigações para com a instituição financeira. (e-STJ, fl. 249)
+Assim, rever as conclusões quanto à validade e ao alcance do termo de quitação recíproca celebrado entre as partes demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e nova interpretação de suas cláusulas, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE CONVERTIDA EM EXECUÇÃO. EMBARGOS. ENTREGA DOS BENS ARRENDADOS. DEVOLUÇÃO DO VRG. RENUNCIA EM ACORDO CELEBRADO ENTRE AS PARTES. REEXAME. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
