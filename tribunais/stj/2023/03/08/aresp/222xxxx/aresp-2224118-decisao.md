@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CIPAX MEDICINA DIAGNÓSTICA LTDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/01/2022.
+Concluso ao gabinete em: 07/12/2022.
+Ação: compensação por danos morais, ajuizada por ADRIANA MARQUES BATISTA, em face da agravante, em razão de erro médico.
+Decisão interlocutória: indeferiu o pedido de denunciação à lide de seguradora.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. Erro médico. Entidade hospitalar e plano de saúde que buscam trazer ao feito o profissional que realizou o procedimento cirúrgico do paciente, ora agravado. Descabimento. Relação de consumo. Chamamento ao processo ou denunciação da lide. Medidas que acarretariam o prolongamento da controvérsia desnecessariamente, o que não se admite. Recurso a que se nega provimento.
+Embargos de Declaração: opostos pela agravante, foram acolhidos em parte, apenas para correção de erro material.
+Recurso especial: alega violação dos arts. 125 do CPC/15 e 14, §4º, do CDC. Sustenta que: i) a concordância da parte demandante não caracteriza requisito para o deferimento ou não de denunciação à lide; ii) a denunciação à lide é sempre admissível àquele que estiver obrigado, por contrato, a indenizar, em ação regressiva, o prejuízo de quem for vencido no processo; iii) a proibição disposta no art. 88 do CDC aplica-se para a denunciação da lide na hipótese voltada, exclusivamente, aos casos em que ou o comerciante denunciaria o produtor ou o produtor denunciaria o comerciante à lide; iv) em se tratando de uma seguradora como litisdenunciada, nenhum prejuízo processual será imposto ao consumidor; v) para que a agravante seja condenada a ressarcir a agravada, por qualquer espécie de dano, necessária faz-se a prova da existência de erro por parte do médico que analisou o exame ao qual submeteu-se a paciente, porquanto a responsabilização é caracterizada como subjetiva; vi) nos atendimentos prestados à agravada foram empregados, pelos médicos, todos os meios e técnicas demandados pela situação para obtenção do diagnóstico mais fidedigno possível, não havendo como atribuir-se aos profissionais ou aos laboratórios qualquer espécie de conduta imprópria.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 125 do CPC/15 e 14, §4º, do CDC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da Súmula 568/STJ
+O acórdão recorrido, ao entender como inadmissível a denunciação à lide, aplicou corretamente a jurisprudência do STJ no sentido de que, em se tratando de relação de consumo, descabe a denunciação da lide, não se restringindo a vedação prevista no art. 88 do CDC à responsabilidade de comerciante por fato do produto (art. 13 do CDC), sendo aplicável também às demais hipóteses de responsabilidade civil por acidentes de consumo (AgInt no AREsp n. 2.199.836/SP, 4ª Turma, DJe de 24/2/2023; AgInt no AREsp n. 2.026.035/RN, 3ª Turma, DJe de 2/6/2022; AgInt no AREsp n. 1.975.384/PE, 2ª Turma, DJe de 26/5/2022; AgInt no AREsp n. 1.640.821/ES, 4ª Turma, DJe de 16/11/2020; e AgInt no AREsp n. 1.137.085/SP, 3ª Turma, DJe de 20/11/2017).
+Logo, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. ERRO MÉDICO. DECISÃO QUE INDEFERIU O PEDIDO DE DENUNCIAÇÃO À LIDE DE SEGURADORA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INCIDÊNCIA DO CDC. DENUNCIAÇÃO À LIDE. VEDAÇÃO. INTERPRETAÇÃO DO ART. 88 DO CDC. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de compensação por danos morais em razão de erro médico, no bojo da qual foi proferida decisão indeferindo o pedido de denunciação à lide de seguradora.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Em se tratando de relação de consumo, descabe a denunciação da lide, não se restringindo a vedação prevista no art. 88 do CDC à responsabilidade de comerciante por fato do produto (art. 13 do CDC), sendo aplicável também às demais hipóteses de responsabilidade civil por acidentes de consumo. Precedentes.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
