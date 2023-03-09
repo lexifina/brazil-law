@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Aveiro, Juízo Central Criminal de Santa Maria de Feira, Juiz 2) solicita a obtenção de provas consistentes em "informar se têm registros dos Réus SERGIO LUIZ SANTOS e ANA PAULA LIMA, já identificados, enquanto cidadãos brasileiros, quais as suas moradas em Portugal e/ou no Brasil" (fls. 6 e 12-13).
+Consultado previamente sobre as informações requeridas e a concessão de exequatur, o Ministério Público Federal informou o solicitado pela Justiça rogante, bem como opinou pela concessão do exequatur (fls. 23-25).
+Nesse passo, constata-se que o objeto da presente carta rogatória não atenta contra os requisitos legais (não ofender à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos; e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Tendo em vista que a diligência foi cumprida (fls. 23-25), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
