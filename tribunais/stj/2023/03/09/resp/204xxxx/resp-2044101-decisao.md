@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCIO ROGERIO DE OLIVEIRA MALKO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Paraná (Apelação Cível n. 000233-18.2019.8.16.0193) assim ementado (fl. 278):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. RECUSA DA INSTITUIÇÃO DE ENSINO EMPROCEDER AO CANCELAMENTO DA MATRÍCULA. LEGALIDADE. RÉU QUE NÃO HAVIAQUITADO OS SEUS DÉBITOS JUNTO À INSTITUIÇÃO. EXPRESSA PREVISÃOCONTRATUAL. REQUERIDO QUE TINHA PLENA CIÊNCIA DA EXIGIBILIDADE DE TAISVALORES. AUSÊNCIA DE ABUSIVIDADE DAS CLÁUSULAS CONTRATUAIS. VALORESDEVIDOS. HONORÁRIOS MAJORADOS EM GRAU RECURSAL. RECURSO DE APELAÇÃOCÍVEL CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 6º da Lei 9.870/1999 e 39, V, e 51, § 1º, III, do CDC. Defende, em síntese, o seguinte:
+a) é vedada a aplicação de quaisquer penalidades pedagógicas por motivo de inadimplemento, inserindo-se a prática de condicionar o trancamento da matrícula ao pagamento de mensalidades vencidas ou vincendas; e
+b) a previsão contratual se mostra abusiva e, portanto, nula, uma vez que a exigência contida na cláusula oitava do contrato, de pagamento de parcelas vencidas e vincendas para o trancamento da matrícula, bem como de não acolhimento do pedido em caso de inadimplência, revela condição excessivamente onerosa para o consumidor.
+Aduz ainda a existência de dissídio jurisprudencial.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas (fl. 332).
+É o relatório. Decido.
+O recurso não deve prosperar.
+A Corte de origem analisou as questões apresentadas e concl uiu o seguinte (fls. 281-283):
+Pois bem. Em que pese o esforço despendido pela parte apelante, vê-se logo que o recurso está fadado ao naufrágio, devendo a r. sentença a quo ser mantida.
+Da análise dos autos, verifica-se que as partes firmaram entre si contrato de prestação de serviços educacionais, que tinha como objeto a contratação, por um semestre, do curso de enfermagem ofertado pela parte Apelada.
+A sua cláusula oitava versava acerca das hipóteses de término da relação contratual, dentre elas o cancelamento decurso, senão vejamos (mov. 8.7):
+ ..
+Veja-se que o instrumento contratual é claro ao consignar que o pedido de cancelamento pelo contratante (alínea a)deve ser formalizado e protocolado.
+Ocorre que, além disso, o caput da cláusula acima citada estabelece que o término da relação contratual somente irá se operar "mediante pagamento das mensalidades devidas até o mês (inclusive) em que o evento ocorrer".
+Ocorre que, como admitido pelo próprio Apelante em sua peça contestatória, quando da solicitação de cancelamento estava pendente o pagamento de duas mensalidades, no valor de R$ 907,00 (novecentos e sete reais). Ou seja, as mensalidades devidas por serviços efetivamente usufruídos não estavam quitadas.
+Desse modo, por expressa disposição contratual, o réu não poderia requerer o cancelamento da matrícula. Afinal, a quitação dos débitos se apresentava enquanto conditio sine qua non para tanto.
+ ..
+Do mesmo modo, a prática da autora tampouco configura, como defende o Apelante, "penalidade pedagógica", o que é vedado pelo art. 6º da Lei nº 9.870/99. Penalidade pedagógica seria se a autora, diante do in adimplemento, obstasse o autor de participar de atividades pedagógicas, isto é, relacionadas ao ensino. O que se tem em mesa, contudo, é apenas uma condição autorizativa para a rescisão contratual, que em nada se confunde com a citada penalidade.
+No que se refere à suscitada ofensa ao art. 6º da Lei n. 9.870/1999 (item a), sob a alegação de ser vedada a aplicação de quaisquer penalidades pedagógicas por motivo de inadimplemento, bem como de ofensa aos arts. 39, V, e 51, § 1º, III, do CDC (item b), sob o argumento de que a previsão contratual se mostra abusiva, a Corte de origem concluiu que, "por expressa disposição contratual, o réu não poderia requerer o cancelamento da matrícula" (fl. 25) e que a exigência contratual não configura "penalidade pedagógica", o que é vedado pelo art. 6º da Lei n. 9.870/1999, mas "apenas uma condição autorizativa para a rescisão contratual, que em nada se confunde com a citada penalidade" (fl. 283).
+Nesse contexto, a pretensão de novo pronunciamento, nesta instância especial, a respeito das obrigações assumidas pelas partes e da ocorrência de "penalidade pedagógica" implicaria a interpretação de cláusulas contratuais e o reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face das Súmulas n. 5 e 7 do STJ.
+Confira-se precedente sobre a questão:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZATÓRIA. NEGÓCIO JURÍDICO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. RESSARCIMENTO DE VALORES. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusula contratual (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos e o contrato celebrado para concluir pela ilegitimidade passiva dos réus quanto à obrigatoriedade de pagar os encargos cobrados pelos autores. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.030.561/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+Vejam-se ainda estes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte ora recorrente, pois a tese arguida em relação ao apelo especial pela alínea a do permissivo constitucional já foi afastada, tendo em conta da impossibilidade de reexame de prova (Súmula n. 7 do STJ) nesta instância especial, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nessa linha de entendimento, os seguintes julgados: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 12%, percentual arbitrado na instância de origem, para 15% sobre o valor da condenação.
+Publique-se. Intimem-se.
