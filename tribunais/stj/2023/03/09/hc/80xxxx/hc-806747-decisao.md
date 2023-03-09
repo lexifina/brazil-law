@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de EVANDRO PEREIRA DA SILVA, impugnando acórdão do Tribunal de Justiça de São Paulo no Habeas Corpus criminal n. 2008507-13.2023.8.26.0000.
+Consta que, em decisão proferida em 20/9/2021 no bojo da Petição Criminal n. 1001539-89.2021.8.26.0602 (Execução Física n. 501.018), o Juízo de Direito da Vara do Júri e Execuções da Comarca de Sorocaba/SP determinou a realização de exame criminológico no paciente para fins de aferição do requisito subjetivo necessário à concessão do regime aberto (e-STJ fls. 121/122).
+Apresentados o laudo de avaliação psicológica e as declarações dos responsáveis pelo Centro de Trabalho e Educação e do Centro de Educação e Disciplina do estabelecimento prisional, com parecer favorável, o Juízo de Execução, atendendo pleito ministerial, determinou a realização, também de avaliação psiquiátrica, em 16/11/2021 (e-STJ fls. 154/155).
+Houve notícia da realização do exame criminológico em 30/03/2022, sem que seu resultado tenha sido encaminhado ao Juízo de Execução (e-STJ fl. 192, 125 e 235).
+Ainda sem a juntada do exame psiquiátrico, o executado foi transferido para a Penitenciária "Orlando B. Filinto", na cidade de Iaras, e a execução redistribuída ao Juízo de Execução da Comarca de Avaré/SP, em 30/5/2022 (e-STJ fl. 205).
+Inconformada com a demora no exame de seu pedido de progressão de regime, a defesa impetrou habeas corpus perante o Tribunal de Justiça, mas a ordem foi denegada em acórdão assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXCESSO DE PRAZO.
+1. Impetração visando o imediato julgamento do benefício executório pendente e, caso seja indeferido o pedido que o paciente seja colocado em prisão domiciliar até o efetivo julgamento do benefício pendente por meio de "habeas corpus", sendo via inadequada para obter-se apreciação ou reanálise de matérias relativas à execução, cuja análise da pretensão diretamente por este Tribunal que configuraria inegável supressão de instância.
+2. Autos, ademais, no aguardo do cumprimento de determinação para que o IMESC envie o laudo da perícia, já realizada, para a apreciação do pedido de progressão de regime, inexistindo o apontado excesso de prazo.
+Constrangimento ilegal não evidenciado. Ordem denegada.
+(Habeas Corpus Criminal nº 2008507-13.2023.8.26.0000, Rel. Des. CAMILO LÉLLIS, 4ª Câmara de Direito Criminal do TJ/SP, unânime, julgado em 27/2/2023)
+Na presente impetração, a defesa insiste no excesso de prazo para julgamento de seu pleito de progressão de regime.
+Afirma que "já se passaram exatamente 486 dias e até a presente data o referido exame técnico não fora anexado nos autos, trazendo um enorme prejuízo ao Paciente em decorrência do excesso de prazo para o julgamento de progressão formulado pela Defesa em 2 de setembro de 2021" (e-STJ fl. 5).
+Aduz que "Após a provocação da Defesa técnica através de Habeas Corpus no Superior Tribunal de Justiça, em 06 de outubro de 2022, o Ilustre Juiz de Direito Dr. MERSON TADEU PIRES DE CAMARGO, determinou, novamente, a expedição de ofício ao IMESC, a fim de encaminharem o laudo técnico aos autos do processo. Após a referida determinação, o ofício fora expedido em 29/11/2022, porém, já se passaram mais 2 (dois) meses e meio e até a presente data e o IMESC não juntou o laudo nos autos, bem como não acusou recebimento do referido ofício, deixando a justiça sem retorno até a presente data" (e-STJ fl. 5).
+Pede, assim, a concessão de liminar para que o paciente seja colocado em prisão albergue domiciliar até o julgamento do presente habeas corpus.
+No mérito, requer a concessão do regime aberto.
+É o relatório. Passo a decidir.
+Tenho que não remanesce interesse na controvérsia posta nos autos pois, em consulta ao andamento processual da Execução Penal n. 0003993-86.2017.8.26.0059, atualmente em trâmite perante a Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 2ª RAJ - da Comarca de Araçatuba/SP, verifica-se que houve a juntada do laudo psiquiátrico em questão no dia 28/2/2023, já tendo sido colhidas as manifestações do Ministério Público e da Defensoria Pública sobre o referido exame e o feito foi concluso para decisão do Juízo das Execuções em 6/3/2023.
+Uma vez que o pedido de progressão de regime do paciente já se encontra em vias de ser decidido, não subsiste interesse da defesa no exame do alegado excesso de prazo.
+Ante o exposto, com amparo no art. 34, XI e XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, ante a perda superveniente de seu objeto.
+Recomendo, no entanto, que o pedido de progressão de regime do paciente seja examinado pelo Juízo das Execuções com a máxima brevidade possível.
+Dê-se ciência da presente decisão ao Juízo de Execução, com urgência.
+Intimem-se.
