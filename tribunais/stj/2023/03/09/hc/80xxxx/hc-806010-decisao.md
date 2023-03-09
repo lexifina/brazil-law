@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 26):
+Habeas Corpus - Tráfico de drogas (artigo 33, caput, da lei nº 11.343/06) - Pedido de revogação da custódia cautelar do paciente e sua substituição por medidas cautelares diversas da prisão - Impossibilidade - Decisão devidamente fundamentada na gravidade concreta do delito - Fortes indícios de autoria e materialidade - Paciente detido em flagrante em posse de expressiva quantidade e variedade de entorpecentes - Paciente que possui condenação transitada em julgado pretérita por delito da mesma natureza - Necessária manutenção da prisão preventiva para garantia da ordem pública, bem como para conveniência da instrução criminal e aplicação da lei penal - Não cabimento de quaisquer das medidas cautelares previstas no art. 319, do Código de Processo Penal - Constrangimento ilegal não configurado - Ordem denegada.
+Consta dos autos que o paciente foi preso em flagrante em 18/1/2023, custodia convertida em prisão preventiva, pela suposta prática do delito previsto no art. 33, caput, da Lei 11.343/2006.
+Impetrado habeas corpus no Tribunal de origem, foi a ordem denegada.
+Neste writ, alega o impetrante, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Aduz a desnecessidade da manutenção da prisão preventiva, sustentando que o paciente "tem ocupação lícita, residência fixa, possui bons antecedentes" (fl. 7).
+Aventa a possibilidade de substituição da prisão preventiva por medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, em que pese o impetrante ter juntado aos autos cópia do acórdão impugnado, não colacionou aos autos a íntegra do decreto de prisão preventiva. Dessa forma, a ausência de peça essencial ao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO DO JUÍZO SINGULAR QUE DECRETOU A PRISÃO PREVENTIVA DO ACUSADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DA CAUSA. SEIS CORRÉUS. NECESSIDADE DE EXPEDIÇÃO DE CARTA PRECATÓRIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. REAVALIAÇÃO PERIÓDICA DOS FUNDAMENTOS DA PRISÃO PREVENTIVA A CADA 90 DIAS PELO JUIZ QUE A DECRETOU. ART. 316, PARÁGRAFO ÚNICO, DO CPP. PRAZO NÃO PEREMPTÓRIO. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM, COM RECOMENDAÇÃO.
+1. A Defesa não acostou aos autos a cópia da decisão que decretou a prisão preventiva do Paciente, o que impede a análise da suposta ilegalidade do decreto prisional.
+ ..
+5. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem, com recomendação de urgência na condução do processo.
+Outrossim, deverá o Juízo singular dar cumprimento ao que determina o art. 316, parágrafo único, do Código de Processo Penal, decidindo sobre a necessidade de manutenção da prisão cautelar do Paciente como entender de direito. (HC n. 651.766/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/4/2021, DJe de 30/4/2021.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. RECURSO NÃO CONHECIDO. INSTRUÇÃO DEFICITÁRIA. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE DE ANÁLISE. DECRETO PRISIONAL NÃO CARREADO AOS AUTOS . AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa insurge-se contra a decisão monocrática que não conheceu do recurso no que diz respeito ao pedido de revogação da prisão preventiva (por instrução deficitária).
+2. O rito do habeas corpus e do recurso ordinário a ele inerente, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+3. No caso, o recurso não foi conhecido por não ter sido carreado aos autos o decreto prisional.
+4. Agravo regimental desprovido. (AgRg no RHC n. 168.769/PE, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. DEFICIÊNCIA NA INSTRUÇÃO. AUSÊNCIA DO DECRETO PRISIONAL. PRISÃO PREVENTIVA NO REGIME SEMIABERTO. COMPATIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embargos declaratórios com nítidos intuitos infringentes devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. É ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento.
+3. Segundo orientação desta Corte, "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, mormente quando compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime, providência determinada pela sentença condenatória". (AgRg no HC n. 779.532/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022), como ocorreu, in casu.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
