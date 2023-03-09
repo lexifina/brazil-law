@@ -1,0 +1,21 @@
+DECISÃO
+WALQUIRIA FAGUNDES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+A defesa pretende a revogação da prisão preventiva da recorrente - condenada pela prática dos crimes de tráfico e associação para o tráfico de drogas - ou a aplicação de medidas cautelares alternativas à prisão, sob os argumentos de ausência de fundamentos e requisitos para manutenção da segregação cautelar, de desconsideração das condições pessoais favoráveis da ré e de impossibilidade de execução antecipada da prisão-pena.
+O MPF opinou pelo não provimento do recurso (fls. 170-173).
+Decido.
+Infere-se dos autos que a acusada foi condenada pela prática dos delitos previstos nos arts. 33 e 35 da Lei n. 11.343/2006, a 10 anos de reclusão, em regime inicial fechado, e que lhe foi negado o direito de recorrer em liberdade, nos seguintes termos:
+ ..
+Nego aos acusados o direito de recorrer em liberdade, por persistirem os requisitos da segregac a o tutelar, como garantia da ordem pu"blica, conforme os artigos 311, 312 e 313, I e II, todos do Co"digo de Processo Penal (fl. 37, grifei).
+A Corte estadual, ao denegar a ordem de habeas corpus, aduziu que:
+ ..
+Ademais, como bem destacou o Ministério Público em seu parecer, no decreto constritivo encontra-se o fundamento da necessidade da segregação da paciente: a manutenção da ordem pública, principalmente porque os acusados foram condenados por crime de organização criminosa, que atuam com emprego de violência extrema na consecução de seus intentos criminosos.
+Sendo assim, tendo em vista que a paciente foi condenada juntamente com mais 8 pessoas por crime de tráfico de drogas, e associação para o tráfico, após uma minuciosa investigação policial que durou cera de 1 ano, e culminou na condenação dos envolvidos e no desmantelamento da estrutura criminosa, o que justifica a manutenção da prisão preventiva do paciente, pelo fundamento da ordem pública, em razão da periculosidade da paciente (fl. 68, destaquei).
+Acerca da matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a custódia provisória, ao assinalar a periculosidade da acusada - integrante de associação criminosa, que atua com emprego de violência - e o modus operandi do delito  - praticado por ela e mais oito acusados.
+O Magistrado sentenciante destacou que a atuação da ora paciente consistia em ser a responsável pela contabilidade e pelo armazenamento da droga pertencente ao grupo criminoso.
+No entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/4/2019).
+Saliento, ainda, que este Superior Tribunal assevera que "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019, grifei).
+Assim, na hipótese, observo que o Juiz, conforme dita o art. 387, § 2º, do CPP, manteve a prisão preventiva na sentença para garantir a ordem pública mediante as razões invocadas na instância de origem para justificar a prisão cautelar do paciente, porquanto contextualizaram, em dados concretos dos autos, o periculum libertatis.
+À vista do exposto, nego provimento ao recurso ordinário
+Publique-se e intimem-se.
