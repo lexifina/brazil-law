@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por SV ENGENHARIA LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. PRESCRIÇÃO. ADESÃO A PARCELAMENTO. INEXISTÊNCIA DE PROVA. AUSÊNCIA DE CONSOLIDAÇÃO. FATO INCONTROVERSO. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO SANADA.
+7. O art. 85, §2º, do CPC/15 prevê que os honorários devem ser fixados sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos os critérios ali especificados.
+8. Tratando-se de condenação contra a Fazenda Pública, a norma matriz do Código de Processo Civil indica que União deve ser condenada com base nos percentuais previstos nos incisos I a V, do §3º, do art. 85, do CPC/2015, sobre o valor da execução ao tempo do ajuizamento dos embargos.
+9. Honorários advocatícios fixados nos percentuais mínimos previstos nos incisos I e II, do §3º, do art. 85, do CPC/15 sobre o valor do proveito econômico obtido, correspondente ao valor do débito indevidamente cobrado, na data do ajuizamento da execução (R$353.882,53 - trezentos e cinquenta e três mil oitocentos e oitenta e dois reais e cinquenta e três centavos).
+10. Embargos de declaração da União e da Executada a que se dá provimento.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85, §§ 2º e 3º, do CPC, no que concerne à necessidade de se determinar que o proveito econômico utilizado como base de cálculo dos honorários sucumbenciais corresponda ao valor atualizado da dívida exigida na execução, trazendo os seguintes argumentos:
+15. Nos termos do citado artigo 85 do NCPC, os honorários devem ser arbitrados levando em consideração o grau de zelo do profissional, o local da prestação do serviço, a natureza e a importância da causa e o trabalho desempenhado pelo advogado, mas SEMPRE OBSERVANDO O PERCENTUAL MÍNIMO APLICADO SOBRE O PROVEITO ECONÔMICO OBTIDO PELA PARTE.
+ ..
+16. No caso concreto, o Acórdão reconheceu o direito da Recorrente de não ser compelida a pagar o valor exigido na Execução Fiscal processo n.º 0072409-43.2016.4.02.5101.
+Portanto, o proveito econômico alcançado não pode ser outro senão o valor apontado pela Recorrida naquele processo como sendo o débito da Recorrente, evidentemente, equivalente nos dias atuais.
+17. Até porque, se a Recorrente não tivesse obtido êxito no Agravo de Instrumento, estaria sendo cobrada do valor total da execução, atualizado hoje.
+18. Ora, se não será mais cobrada do valor atualizado do débito exeqüendo, é claro que foi este foi o verdadeiro proveito econômico alcançado.
+19. Todavia, não foi este o entendimento do TRF 2, que em sede de julgamento de Embargos de Declaração foi categórico em afirmar que o valor do proveito econômico deve ser o valor histórico da divida, calculado há mais de 15 anos atrás (fls. 349-350).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
