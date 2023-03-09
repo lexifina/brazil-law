@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FABIO LUIZ DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que, ao apreciar o Agravo em Execução n. 5024608-04.2021.8.24.0064, manteve a decisão que indeferiu o pedido de alteração da data de fruição da 5ª saída temporária, agendada para 22/11/2022, para o dia 20/12/2022, nos termos da seguinte ementa (e-STJ fl. 500):
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE INDEFERIU O PEDIDO DE ALTERAÇÃO DA DATA DA SAÍDA TEMPORÁRIA. INSURGÊNCIA DO REEDUCANDO. PRETENDIDA FRUIÇÃO DA SAÍDA TEMPORÁRIA NO PERÍODO DE NATAL. AVENTADA IMPORTÂNCIA DA FESTIVIDADE PARA A RESSOCIALIZAÇÃO DO APENADO. DESCABIMENTO. DEFINIÇÃO DAS DATAS DE FRUIÇÃO DO BENEFICIO QUE SE ENCONTRA NA ESFERA DE DISCRICIONARIEDADE DO JUIZO DA EXECUÇÃO PENAL. PRECEDENTES DESTA CORTE. ADEMAIS, JUIZO DE ORIGEM QUE JUSTIFICOU A ESCOLHA DAS DATAS E GARANTIU QUE PELO MENOS UMA DAS SAÍDAS COINCIDISSE COM UMA FESTIVIDADE (DIA DAS MÃES). DECISUM IRRETOCÁVEL. RECURSO CONHECIDO E DESPROVIDO.
+No Superior Tribunal de Justiça, esclarece a Defensoria Pública que "o juízo fixou um calendário anual para saídas temporárias, e, o apenado não foi agraciado com saída próxima ao natal, nem no ano de 2021, tão pouco há previsão para 2022, o que demostra grave afronta à isonomia, na medida em que outros apenados gozaram o benefício no natal" (e-STJ fl. 7).
+Reverbera que, "no caso concreto, os argumentos expendidos pela autoridade coatora para indeferir a alteração da última saída temporária de 2022 estão longe de ser considerados concretos, atentos às peculiaridades dos autos. O fundamento de que o apenado sairá em outras datas comemorativas é absolutamente inválida, sendo que não se está preocupado com a ressocialização, mas sim com a rigidez dos dígitos sorteados. Veja-se que a incapacidade do cartório realizar o gerenciamento de quem usufrui ou não saída temporária não pode ser motivação idônea para modificar a data de saída temporária do paciente" (e-STJ fl. 7).
+Requer, liminarmente e no mérito, seja alterada a data da 5ª saída temporária do paciente para 20/12/2022.
+Indeferida a liminar (e-STJ fls. 512/512) e prestadas as informações (e-STJ fls. 517/521 e 522/534), manifestou-se o Ministério Público Federal, nesta instância, em parecer acostado às e-STJ fl. 539.
+É, em síntese, o relatório.
+Decido.
+O presente writ está prejudicado.
+Na presente impetração, buscava-se a alteração da data da 5ª saída temporária do paciente de 22/11/2022 para 20/12/2022, para que ele pudesse passar o Natal com seus familiares.
+Desse modo, está evidenciada a perda do objeto do writ, pois objetivava a concessão do benefício da saída temporária no Natal/2022, data já ultrapassada.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
