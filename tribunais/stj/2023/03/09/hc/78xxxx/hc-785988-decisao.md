@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário , com pedido liminar, impetrado em benefício de BRENO VITAL DE OLIVEIRA, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela, suposta, prática dos delitos de associação criminosa armada, roubo majorado e corrupção de menores.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. O Tribunal denegou a ordem em v. acórdão, assim, ementado, verbis:
+"Habeas corpus. Associação criminosa armada, roubo e corrupção de menores. Prisão preventiva. Requisitos objetivos da prisão preenchidos. Custódia decretada com vistas à garantia da ordem pública, sob fundamento da periculosidade do paciente e gravidade concreta da conduta. Motivo idôneo a embasar a custódia, a despeito da primariedade do paciente. Insuficiência de cautelares diversas. Ordem denegada" (fl. 19).
+Daí o presente writ, no qual sustenta a Defesa, em síntese, que o Paciente estaria sofrendo constrangimento ilegal em razão da ausência dos requisitos ensejadores da prisão preventiva, bem como da ausência de fundamentação idônea da decisão que decretou a segregação cautelar.
+Aduz que o Paciente possuiria condições pessoais favoráveis
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação das medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 144-145.
+As informações foram prestadas às fls. 148-150.
+O d. Ministério Público Federal, às fls. 160-163, manifestou-se pela denegação da ordem, conforme parecer que restou assim ementado:
+"Habeas Corpus substitutivo de recurso próprio. Roubos majorados e corrupção de menores.
+- Prisão preventiva. Decisão devidamente fundamentada. Necessidade de garantia da ordem pública. Gravidade concreta do delito. Risco de reiteração delitiva. Ausência de constrangimento ilegal.
+- Promoção pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem" (fl. 160).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, inciso XX, permite ao relator "decidir o habeas corpus quando for ina dmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Quanto a alegação de ausência dos requisitos ensejadores da prisão preventiva, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.)
+Condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No mais, cumpre esclarecer que a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso próprio.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
