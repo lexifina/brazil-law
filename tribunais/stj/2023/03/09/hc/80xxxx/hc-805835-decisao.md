@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Diego Viller Lima de Oliveira, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 0211544-57.2019.8.13.0079).
+Consta dos autos que o ora paciente foi condenado como incurso nos arts. 16, parágrafo único, IV, da Lei n. 10.826/2003; 330 do Código Penal; e 309 do Código de Trânsito Brasileiro; às penas de 4 anos e 15 dias de reclusão, em regime inicial fechado, para o crime de porte ilegal de arma de fogo com numeração suprimida, e regime inicial aberto, para os delitos de desobediência (art. 309 do CTB), além do pagamento de 21 dias-multa, fixado o valor do dia-multa no mínimo, com cumprimento da reprimenda no regime prisional inicialmente fechado.
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, a fim de alterar o regime inicial de cumprimento da pena para o semiaberto, mantendo-se, no mais, a sentença condenatória (fls. 27/47).
+Aqui, o impetrante sustenta, em síntese, que o paciente teve o seu direito de recorrer vulnerado, ante a certificação do trânsito em julgado e baixa dos autos precipitada, ainda na fluência do prazo recursal.
+Requer, liminarmente e no mérito, a desconstituição do trânsito em julgado, com a devolução do aludido prazo recursal, bem como a suspensão da expedição da guia de recolhimento.
+É o relatório.
+A ordem merece concessão.
+A documentação que instruiu a inicial, sobretudo a peça colacionada à fl. 51, indica que a defesa do paciente foi intimada do acórdão exarado no julgamento da apelação no dia 12/12/2022, tendo o prazo recursal iniciado no primeiro dia útil subsequente, qual seja: 13/12/2022.
+Assim, considerando que à época da prolação do acórdão já vigia a Lei n. 14.365/2022, não há dúvida de que o prazo recursal, no ano de 2022, só transcorreu entre o lapso verificado entre os dias 13/12/2022 e 19/12/2022, tendo permanecido suspenso a partir do dia 20/12/2022 até o dia 20/1/2023, voltando a fluir apenas em 21/1/2023, com previsão de encerramento para o dia 30/1/2023 (primeiro dia útil subsequente ao término do prazo recursal).
+Ocorre que, do que se colhe do andamento da apelação na origem (fl. 49), a serventia, de forma precipitada, certificou o trânsito em julgado em 27/1/2023, ou seja, antes do término do prazo recursal, efetivando a baixa imediata dos autos, circunstância que efetivamente obstou o protocolo de quaisquer recursos no prazo legal perante o Tribunal de Justiça, tendo a defesa sido obrigada a lançar mão do protocolo postal para suscitar o equívoco na certificação ao Juízo de origem e interpor o recurso extraordinário (em 27/1/2023), evitando o perecimento do direito de recorrer.
+Assim, entendo que há prova pré-constituída suficiente para acolher a pretensão defensiva, sendo o caso, pois, de cassar a certidão de trânsito em julgado lavrada na Apelação Criminal n. 0211544-57.2019.8.13.0079 e admitir o processamento do recurso extraordinário (protocolado via postal) na Corte de origem.
+Ante o exposto, concedo a ordem para cassar a certidão de trânsito em julgado lavrada nos autos da Apelação Criminal n. 0211544-57.2019.8.13.0079 e seus consectários, inclusive expedição de guia de execução definitiva, determinando que a Corte de origem processe o recurso extraordinário interposto pela defesa do paciente mediante protocolo postal no dia 27/1/2023.
+Dê-se ciência ao Juízo da 1ª Vara Criminal de Contagem/MG e ao Tribunal de Justiça de Minas Gerais.
+Intime-se o Ministério Público de Minas Gerais .
+Publique-se.
+EMENTA
+HABEAS CORPUS. SUPOSTO CONSTRANGIMENTO ILEGAL NA CERTIDÃO DE TRÂNSITO EM JULGADO LAVRADA NA CORTE DE ORIGEM. PROCEDÊNCIA. CERTIFICAÇÃO E BAIXA PRECIPITADA, AINDA NA FLUÊNCIA DO PRAZO RECURSAL. CASSAÇÃO DA CERTIDÃO COM DETERMINAÇÃO DE PROCESSAMENTO DO RECURSO EXTRAORDINÁRIO INTERPOSTO VIA PROTOCOLO POSTAL.
+Ordem concedida nos termos do dispositivo.
