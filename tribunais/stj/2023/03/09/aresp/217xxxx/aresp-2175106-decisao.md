@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por ESLY SEBASTIÃO MOREIRA DE SOUZA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 335-336):
+AGRAVO DE INSTRUMENTO - AÇÃO ANULATÓRIA - MULTA AMBIENTAL - PRESCRIÇÃO INTERCORRENTE - LEI FEDERAL Nº 9.873/99 E DECRETO FEDERAL 6.514/2008 -INAPLICABILIDADE - DECRETO LEI 20.910/32 - AUSÊNCIA DE REGULAMENTAÇÃO QUANTO À PRESCRIÇÃO INTERCORRENTE - DECRETO ESTADUAL 1.986/2013 VIGÊNCIA POSTERIOR AO FATO - SUSPENSÃO DA EXIGIBILIDADE AFASTADA - AUSÊNCIA DOS REQUISITOS AUTORIZADORES - ARTIGO 151, V, DO CTN - APLICAÇÃO POR ANALOGIA - POSSIBILIDADE - CAUÇÃO OFERTADA - INIDONEA - RECURSO PROVIDO.
+1 - Com relação à prescrição intercorrente de multa ambiental, nos termos do entendimento atual do STJ, o art. 1º do Decreto20.910/1932 regula somente a prescrição quinquenal do fundo de direito, não havendo previsão acerca de prescrição intercorrente do processo administrativo.
+2. Não restando demonstrada a probabilidade do direito, a liminar deve ser indeferida.
+3. O crédito não tributário pode ter a sua exigibilidade suspensa pelo "a partir da apresentação da fiança bancária e do seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento, nos moldes previstos no art. 151, inciso IIdo CTN c/c o art. 835, § 2º. do Código Fux" (STJ, Primeira Turma, REsp1381254/PR, relator Ministro Napoleão Nunes Maia Filho, publicado no Diário da Justiça Eletrônico em 28 de junho de 2019).
+4. Recurso provido.
+Rejeitados os embargos de declaração opostos (fls. 401-435).
+No recurso especial, alega negativa de vigência aos arts. 206 do Código Tributário Nacional, 7º, I, da Lei n. 10.522/2002 e 492 do Código de Processo Civil.
+Defende o recorrente que o acórdão seria ultra petita, contrariando o art. 492 do CPC, pelo fato de ter dado provimento ao recurso de agravo de instrumento para reformar a decisão a quo sem ressalvar a determinação ao Estado de Mato Grosso que se abstivesse de incluir o seu nome nos órgãos de restrição ao crédito, Cadin e protesto.
+Sustenta ofensa ao art. 7º da Lei n. 10.522/20021, pois o acórdão de origem não teria acatado a apresentação de caução real para emissão de certidão positiva com efeito de negativa.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 479-485).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 486-489), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 505-509).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de agravo de instrumento interposto contra decisão que deferiu pedido de tutela antecipada determinando a suspensão da exigibilidade da multa aplicada em razão de infração ambiental e a inclusão do nome do ora recorrido nos órgãos de proteção ao crédito, Cadin e protesto.
+O acórdão do Tribunal de origem deu provimento ao agravo de instrumento sem ressalvar o óbice à restrição de inclusão do nome do ora recorrido nos órgãos de proteção ao crédito, também não deferiu o pedido de expedição de certidão positiva com efeito de negativa, mesmo ante a prestação de caução real.
+No caso dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na incidência da Súmula n. 735/STF, pois a decisão recorrida tem caráter liminar, o que impede seu questionamento por recurso especial.
+Com efeito, as tutelas provisórias de urgência, por não representarem pronunciamento definitivo a respeito do direito demandado, configuram medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final.
+Em razão da natureza instável desse tipo específico de decisão, incide, por analogia, o entendimento segundo o qual não cabe recurso extraordinário contra acórdão que defere medida liminar, amoldando-se ao enunciado da Súmula n. 735/STF.
+Confira-se precedente :
+1. A controvérsia sub examine versa sobre irresignação recursal contra tutela provisória indeferida na origem objetivando a suspensão de crédito tributário.
+2. A jurisprudência do STJ é pacífica no sentido de "não ser cabível Recurso Especial contra decisão que defere ou indefere liminar ou antecipação de tutela, porquanto sua natureza é precária" (REsp 1.678.22. Ministra Regina Helena Costa. Data da Publicação 2/8/2017). Tal se deve por aplicação analógica da Súmula 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar." Precedentes: REsp 1.689.992/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/10/2017, DJe 16/10/2017; AgInt no REsp 1.554.028/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 14/6/2016, DJe 24/6/2016; AgRg no AREsp 714.049/MG, Rel. Ministro Humberto Gomes Martins, Segunda Turma, julgado em 5/4/2016, DJe 13/4/2016; AgRg no AREsp 235.239/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2015, DJe 5/2/2016; AgRg no AREsp 690.896/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 19/5/2015, DJe 1/6/2015. lcão, Segunda Turma, DJe de 29/10/2018.)
+(..)AgInt no AREsp 1701603/SP, Rel. Min. Herman Benjamin, Segunda Seção, DJe de 19/12/2017.)
+Ressalte-se, ainda, que, em sede de recurso especial, o reexame de decisões liminares atrai a incidência da Súmula n. 7/STJ, pois demandaria necessária revisão do juízo fático proferido pelas instâncias inferiores. Nesse sentido, cito:
+III - Ademais, com efeito, nos casos em que o recurso especial é interposto contra acórdão que analisa pedido de tutela antecipatória, a jurisprudência do STJ é pacífica no sentido da incidência do óbice sumular n. 7/STJ, em razão da necessidade de se discutir e revolver os elementos probatórios que levaram a Corte a quo a proferir tal entendimento. (AgInt no AREsp n. 2.099.641/MT, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/12/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
