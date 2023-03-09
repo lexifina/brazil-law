@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Município de Araucária contra decisão que não conheceu do pedido de suspensão resumida nos seguintes termos:
+SUSPENSÃO DE LIMINAR E DE SENTENÇA. DECISÃO IMPUGNADA PROFERIDA EM CUMPRIMENTO DE SENTENÇA. NÃO CABIMENTO. PEDIDO NÃO CONHECIDO.
+Alega o embargante contradição no julgado na medida em que teria partido de premissa de fato equivocada, qual seja, a de que a decisão proferida no Agravo de Instrumento n. 0017506-36.2021.8.16.0000 é definitiva.
+Requer, pois, "sejam acolhidas as razões recursais para reconhecer que a SLS foi protocolada visando a suspensão da decisão liminar proferida nos autos de Agravo de Instrumento nº 0017506-36.2021.8.16.0000 - 4ª CC / TJPR, para que se reestabeleça a acertada decisão da instância originária que, considerando as inúmeras ações que envolvem as partes e que a então Exequente Viação Tindiquera é, em verdade, devedora do Município de Araucária, suspendeu a execução em questão (..) Em excepcionais efeitos infringentes, reformar a decisão embargada e, afastando a premissa de fato equivocada e a contradição, deferir o pedido de suspensão de liminar para determinar, em definitivo, a suspensão da decisão proferida no Agravo de Instrumento nº 0017506-36.2021.8.16.0000 que tramita na 4ª CC do e. TJPR, restabelecendo a decisão de primeiro grau que suspendeu o cumprimento de sentença nº 0004964-42.2020.8.16.0025, até o trânsito em julgado das ações principais, com fundamento no artigo 313, V, a e 525, § 6º e do Código de Processo Civil, ante a dependência de julgamento de outra ação e a possibilidade de se causar ao MUNICÍPIO executado dano de difícil ou incerta reparação" (fl. 640).
+Contrarrazões às fls. 644/652.
+É o relatório.
+Consoante a literalidade do art. 1.022 do CPC, os Embargos de Declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+Na hipótese dos autos, contudo, não se verifica a existência da alegada contradição.
+Com efeito, ao contrário do alegado, ficou devidamente acentuado no provimento embargado que não cabe pedido de suspensão em sede de execução de título judicial.
+Mais. Esclareceu-se que a suspensão de liminar e de sentença se destina a impedir a execução provisória de decisão judicial de natureza precária, cujos efeitos tragam risco a algum dos bens tutelados pela legislação de regência. Vale dizer, a suspensão da eficácia pressupõe que o título não seja definitivo.
+No caso, restou claro que a decisão impugnada foi proferida na execução de título judicial, portanto, fase de cumprimento e não de conhecimento. Daí o entendimento de não ser cabível o pedido de contracautela.
+Cumpre, outrossim, anotar que o fato de se tratar de decisão unipessoal tomada em agravo de instrumento (antecipação da tutela recursal) não desnatura a premissa invocada nas razões originariamente apresentadas. Isso porque não se fala mais em processo de conhecimento, na medida em que já se está na fase de execução de título judicial.
+Assim, mesmo que seja uma decisão provisória, repita-se, porque proferida no curso da execução, afasta-se a possibilidade de manejar o pedido de suspensão.
+Nesse contexto, não há vício a ser sanado. Na verdade, pretende o embargante a rediscussão da da pretensão já decidida. Ocorre, contudo, que os aclaratórios possuem finalidade integrativa e, portanto, não se prestam à reforma do entendimento aplicado ou ao rejulgamento do pedido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. PEDIDO DE SUSPENSÃO. DECISÃO IMPUGNADA PROFERIDA EM CUMPRIMENTO DE SENTENÇA. NÃO CABIMENTO. CONTRADIÇÃO INEXISTENTE. RECURSO REJEITADO.
