@@ -1,0 +1,45 @@
+DECISÃO
+FELLIP GUILHERME DE OLIVEIRA MOTA, HENRIQUE MARINO PEREIRA e FELIPE GARCIA DO NASCIMENTO agravam da decisão que inadmitiu o recurso especial que interpuseram, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná no Recurso em Sentido Estrito n. 0020639-25.2013.8.16.0014.
+Nas razões do especial, a defesa apontou a violação do art. 155 do Código de Processo Penal, ao aduzir que "não houve nenhuma prova produzida na fase judicial que comprovasse a participação dos recorrentes no crime de homicídio qualificado" (fl. 1.283).
+Requereu a impronúncia dos insurgentes.
+O reclamo foi inadmitido na origem em virtude de sua intempestividade.
+O agravante, às fls. 1.309-1.330, assere haver apresentado o recurso de forma tempestiva, no dia indicado como marco final pelo Projudi, e tece considerações a respeito da impossibilidade de se responsabilizar o advogado por informações erradas fornecidas pelo mencionado sistema. Também, reitera as teses desenvolvidas no especial.
+O Ministério Público Federal manifestou-se pelo não provimento dos agravos, "mantendo-se a decisão recorrida por seus próprios fundamentos" (fl. 1.360).
+Decido.
+O agravo é tempestivo, mas não merece conhecimento.
+O Desembargador 1º-Vice-Presidente da Corte de origem inadmitiu o recurso especial defensivo sob as seguintes alegações (fls. 136-, grifei):
+O recurso é intempestivo.
+Verifica-se que as partes não comprovaram, no ato da interposição do recurso, a suspensão dos prazos processuais no dia 07/01/2022, prevista no Decreto Judiciário nº 717/2021. Veja-se:
+"Art. 1º Fica definido para as repartições forenses do Estado do Paraná o calendário de feriados no ano de 2022:
+janeiro: (..) Dia 07 (sexta-feira) - Transferência do feriado do dia 08 de dezembro;"
+A comprovação da suspensão do expediente forense no Tribunal local é ônus que incumbe ao recorrente no ato da interposição, sob pena de o recurso ser declarado intempestivo, consoante o artigo 1.003, § 5º e 6º, do Código do Processo Civil, o artigo 798, caput e § 1º, do Código de Processo Penal, o artigo 4º, § 4º, da Lei nº 11.419/06, e a Súmula nº 310 do Supremo Tribunal Federal, além de entendimento consolidado pelo Superior Tribunal de Justiça. Veja-se:
+ ..
+Isso porque, muito embora sejam interpostos perante a Presidência ou Vice-Presidência dos Tribunais Estaduais ou Regionais, os recursos excepcionais são dirigidos às Cortes Superiores, as quais não têm como tomar conhecimento da prorrogação do prazo no Juízo a quo se a parte não faz prova de tal circunstância.
+Com efeito, a ocorrência de suspensão de prazos processuais nos Tribunais de Justiça não se presume pública e notória em âmbito nacional, motivo pelo qual se impõe sua comprovação, por documento idôneo, no ato de interposição, dos recursos às Cortes Superiores. Nesse sentido:
+ ..
+Verifica-se que nos movs. 41. 42 e 42 do Recurso em Sentido Estrito, no dia 15/12/2021, foram expedidas as intimações do acórdão recorrido.
+Visto que os recorrentes não procederam à leitura das intimações dentro do prazo de 10 (dez) dias contados, as intimações automáticas se deram em 25/12/2021, com prorrogação para 10/01/2022 (artigo 798, § 3º, do Código de Processo Penal), em virtude da suspensão do expediente forense neste Tribunal Estadual nos dias 20/12/2021 a 06/01/2022 (recesso judiciário) e no dia 07/01/2022 (Decreto Judiciário nº 717/2021).
+Contudo, não tendo os recorrentes realizado a devida comprovação da suspensão do expediente forense do dia 07/01/2022, considera-se eficazes as intimações no dia 07/01/2021, com início do prazo recursal em 10/01/2022 e fim em 24/01/2022 (artigo 1.003, § 5º, do Código do Processo Civil, e artigo 798, caput, do Código de Processo Penal).
+Interposto em 25/01/2022 (mov. 1.1. Pet.1), o presente recurso é extemporâneo.
+Por fim, a utilização do Sistema Projudi para averiguar desenganadamente a tempestividade para interposição do recurso não se afigura legítima, vez que a contagem de prazos é dever das partes, sendo o sistema eletrônico meramente informativo e auxiliar e, não, meio oficial de contagem dos prazos. A respeito:
+ ..
+Diante do exposto, o Recurso Especial interposto por inadmito FELIPE GARCIA DO NASCIMENTO, FELLIP GUILHERME DE OLIVEIRA MOTA E HENRIQUE MARINO PEREIRA OLIVEIRA DA SILVA.
+A atenta leitura da decisão ora impugnada revela que o especial foi considerado extemporâneo porque a parte não comprovou a suspensão do expediente no ato da interposição.
+Com efeito, o Tribunal a quo explicou que, como os especiais são dirigidos às Corte Superiores, "as quais não têm como tomar conhecimento sobre a suspensão de expediente determinada pelo Tribunal de Justiça Estadual" (fl. 972), é dever da parte comprovar eventuais suspensões de expediente nesses órgãos.
+A Corte chegou a esclarecer (fl. 1.299, destaquei):
+Contudo, não tendo os recorrentes realizado a devida comprovação da suspensão do expediente forense do dia 07/01/2022, considera-se eficazes as intimações no dia 07/01/2021, com início do prazo recursal em 10/01/2022 e fim em 24/01/2022 (artigo 1.003, § 5º, do Código do Processo Civil, e artigo 798, caput, do Código de Processo Penal).
+No agravo em recurso especial, o insurgente, como já relatado, afirmou ser tempestivo o especial - haja vista haver sido interposto no dia indicado como marco final pelo Projudi -, argumentou que o advogado não pode ser responsabilizado por falhas no referido sistema e reiterou as teses desenvolvidas no especial.
+Todavia, nada aduziu acerca da apontada falta de comprovação, no ato de interposição do especial, das suspensões dos prazos no âmbito do Tribunal estadual.
+Saliento que o agravo em recurso especial tem como objetivo atacar os fundamentos invocados pelo Tribunal a quo ao negar seguimento ao recurso especial. Uma vez que isso não foi feito integralmente pelo agravante, é de rigor a incidência da Súmula n. 182 do STJ, que diz, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Exemplificativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. INTEMPESTIVIDADE. COMPROVAÇÃO. FERIADO LOCAL. ATO DE INTERPOSIÇÃO DO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. MÉRITO DO APELO NOBRE. ANÁLISE. INVIABILIDADE. COMPETÊNCIA. PRESIDENTE DO STJ. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Compete ao Presidente do Superior Tribunal de Justiça, antes mesmo da distribuição do processo, decidir pelo não conhecimento de recursos inadmissíveis, prejudicados ou que não houverem impugnado especificamente todos os fundamentos da decisão recorrida, nos termos do art. 21-E, inciso V, do RISTJ, inexistindo ofensa ao princípio da colegialidade.
+2. A decisão agravada, ao julgar intempestivo o recurso especial, afirmou que a existência de feriado local deve ser demonstrada no ato de interposição do recurso, não sendo admissível a comprovação posterior, nos termos do art. 1.003, § 6.º, do Código de Processo Civil. As razões do agravo regimental, entretanto, não refutaram o fundamento, mas se limitaram a sustentar que o apelo nobre seria tempestivo, em razão de suspensão dos prazos no Tribunal de origem.
+3. Ausente a impugnação ao fundamento que deu suporte à decisão agravada, o recurso interno não comporta conhecimento, pela falta de observância da dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil c.c o art. 3.º do Código de Processo Penal), bem assim pela aplicação da Súmula n. 182 do Superior Tribunal de Justiça.
+4. Não conhecido o agravo regimental interposto contra a decisão que julgou intempestivo o recurso especial, é inviável a análise da questão de mérito deduzida no apelo nobre.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp n. 1.777.324/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 17/2/2021)
+Destaco, por oportuno, que, consoante a compreensão da Corte Especial do STJ, a decisão que inadmite o recurso especial não pode ser impugnada parcialmente (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018).
+Segundo o entendimento que prevaleceu (do Ministro Salomão), não há diversos capítulos no decisum que inadmitiu o recurso especial, que é formado por um único dispositivo, qual seja, o da inadmissão do recurso: "A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva e não a fundamentação como um elemento autônomo em si mesmo". O Ministro sustentou, categoricamente, que "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade", sob pena de incidência do enunciado na Súmula n. 182 do STJ.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
