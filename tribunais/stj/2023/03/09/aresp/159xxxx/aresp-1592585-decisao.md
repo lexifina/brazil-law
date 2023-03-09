@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRAIHA INCORPORADORA LTDA. contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 do STJ e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1114413-10.2017.8.26.0100) assim ementado (fl. 292):
+
+MONITÓRIA - DOCUMENTOS APRESENTADOS COMOPROVA DA OBRIGAÇÃO QUE NÃO SÃO HÁBEIS AINSTRUIR A AÇÃO MONITÓRIA - NÃO HÁ NOS AUTOSPROVA MÍNIMA SUFICIENTE A DEMONSTRAR A RESPONSABILIDADE DE PAGAMENTO DO MONTANTE INDICADO, SEM A PRÉVIA DISCUSSÃO DA ORIGEM - INADEQUAÇÃO DA VIA ELEITA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO - DADO PROVIMENTO AO RECURSO
+Opostos  embargos  de  declaração,  foram  rejeitados (fls. 335-343).
+Nas razões do  recurso  especial, a parte  recorrente  aponta violação dos seguintes artigos: a) 489, § 1º, IV, e 1.022, II e parágrafo único, II, do Código de Processo Civil, aduzindo negativa de prestação jurisdicional, pois o acórdão foi omisso em relação a questão que reputa ser relevante para o deslinde do processo; e b) 356, § 5º, 507 e 700, I, do Código de Processo Civil, sustentando que, ao contrário do que decidiu o Tribunal a quo, há nos autos prova apta a instruir a ação monitória.
+Requer  o  conhecimento  e  provimento  do  recurso.
+As contrarrazões foram apresentadas às fls. 347-364.
+É  o  relatório.  Decido.
+O  recurso  não  merece  prosperar.
+No  presente  caso,  o  Tribunal  de  origem  , ao  analisar as questões, manifestou-se da  seguinte forma  (fls. 294-295):
+A prova escrita apta a embasar a monitória é aquela que possui um mínimo de plausibilidade, trazendo a plena identificação das partes e do objeto.
+E nesse particular os email"s trocados entre as partes, onde a apelante assume a responsabilidade por quaisquer multas referentes ao formato e conteúdo do seu jornal, não se enquadra no conceito legal de prova escrita.
+Assim, forçoso reconhecer que os documentos apresentados como prova da obrigação não são hábeis a instruir a ação monitória, não há nos autos prova mínima suficiente a demonstrar a responsabilidade da apelante pelo pagamento das multas indicadas na inicial, sem a prévia discussão da origem.
+Se a prova escrita, embora sem força de título executivo, não contém em si mesma obrigação certa, líquida e exigível, de forma a possibilitar a expedição de plano do mandado de pagamento ou de entrega de coisa, não cabe a ação monitória, devendo o credor manejar ação cognitiva para obtenção do título executivo judicial.
+No que se refere à alegada violação dos arts. 489, § 1º, IV, e 1.022, II e parágrafo único, II, do Código de Processo Civil (item a), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante à suscitada ofensa aos arts. 356, § 5º, 507 e 700, I, do Código de Processo Civil (item b), a  Corte  de  origem  concluiu  que "os documentos apresentados como prova da obrigação não são hábeis a instruir a ação monitória, não há nos autos prova mínima suficiente a demonstrar a responsabilidade da apelante pelo pagamento das multas indicadas na inicial, sem a prévia discussão da origem" (fls. 294-295).
+Nesse contexto, a pretensão de novo pronunciamento, nesta instância especial, a respeito da existência de documentos hábeis à propositura de ação monitória implicaria a interpretação de cláusulas contratuais e o reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUTADO EM RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL. IMPOSSIBILIDADE. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DISSÍDIO NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. Ação monitória.
+2. Ao julgamento do Tema 1.051, sob o rito dos recursos repetitivos, firmou-se o entendimento segundo o qual "para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu seu fato gerador". Tendo isso em conta, na espécie, não remanescem dúvidas de que o crédito é concursal.
+3. Resultando a obrigação de fato anterior ao pedido de recuperação, a ação de conhecimento somente deve prosseguir no juízo próprio até a formação do título. Ocorrido tal fato, não tendo transitado em julgado a recuperação judicial, o crédito deverá ser habilitado no quadro geral de credores. Precedentes.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais é inadmissível em recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmulas 5 e 7 do STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido. (AgInt no AREsp n. 2.174.187/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+Ante  o  exposto,  conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento .
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 15%, percentual arbitrado na instância de origem, para 17% sobre o valor atualizado da causa, na ação principal e na reconvenção, tal como fixado na origem.
+Publique-se. Intimem-se.
