@@ -1,0 +1,64 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por SIMPLEST SOFTWARE LTDA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que deu provimento ao agravo de instrumento interposto por MARITUCS ALIMENTOS LIMITADA para reconhecer a incidência do CDC e declarar a nulidade da cláusula de eleição de foro, nos termos da seguinte ementa (fl. 155):
+AGRAVO DE INSTRUMENTO. Fornecimento de serviços de informática. Ação de rescisão contratual cumulada com restituição de valores. Decisão que acolheu exceção de incompetência, determinando a remessa dos autos à comarca de Joinville/SC.
+1. Admissibilidade do recurso. Embora a decisão que acolhe preliminar de incompetência não encontre previsão no rol taxativo do art. 1.015 do CPC, conforme entendimento do STJ, a decisão pode ser combatida pela via do agravo de instrumento, isto em razão de interpretação analógica do inciso III do mencionado dispositivo legal.
+2. Relação jurídica entre as partes que se qualifica como de consumo. Hipossuficiência técnica da recorrente. Precedentes.
+Competência para processamento do feito é a do domicílio da agravante, conforme o disposto no art. 101, I, do CDC. Cláusula de eleição de foro pode ser afastada quando prejudicial à defesa do consumidor. CDC prevê a facilitação da defesa em juízo e de acesso aos órgãos judiciários.
+3. Decisão reformada para determinar a manutenção da demanda no foro de domicílio da recorrente. Recurso provido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, a recorrente aponta, além de divergência jurisprudencial, a violação dos seguintes dispositivos infraconstitucionais: (i) art. 2ºdo CDC, argumentando que a legislação consumerista não incide na presente hipótese, pois a recorrida não é destinatária final do produto adquirido, pois utiliza o software com insumo de sua produção; e (ii) art. 101, I, do CDC, alegando que, não se tratando de relação de consumo e tampouco de contrato de adesão, deve prevalecer a cláusula de eleição de foro constante no contrato.
+Houve apresentação de contrarrazões (e-STJ, fls. 209-216).
+É o relatório.
+Passo a decidir.
+O recurso especial merece ser parcialmente conhecido e, nessa extensão, desprovido.
+Cinge-se a controvérsia a respeito da incidência do Código de Defesa do Consumidor e a possibilidade de declaração de nulidade de cláusula de eleição de foro.
+A jurisprudência do Superior Tribunal de Justiça adota a teoria finalista mitigada, segundo a qual, mesmo que a pessoa física ou jurídica não seja a destinatária final do produto ou serviço, é possível a incidência da legislação consumerista, se reconhecida a sua vulnerabilidade técnica, jurídica ou fática .
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE GESTÃO DE PAGAMENTOS. CHARGEBACKS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE. RELAÇÃO DE CONSUMO. AUSÊNCIA. UTILIZAÇÃO DOS SERVIÇOS PARA DESEMPENHO DE ATIVIDADE ECONÔMICA. AUSÊNCIA DE VULNERABILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO.
+1. Ação de cobrança ajuizada em 13/05/2019, da qual foi extraído o presente recurso especial interposto em 31/08/2021 e concluso ao gabinete em 15/06/2022.
+2. O propósito recursal consiste em definir se o Código de Defesa do Consumidor é aplicável à relação jurídica firmada entre as partes, oriunda de contrato de gestão de pagamentos on-line.
+3. Há duas teorias acerca da definição de consumidor: a maximalista ou objetiva, que exige apenas a existência de destinação final fática do produto ou serviço, e a finalista ou subjetiva, mais restritiva, que exige a presença de destinação final fática e econômica. O art. 2º do CDC ao definir consumidor como "toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final" adota o conceito finalista.
+4. Nada obstante, a jurisprudência do STJ, pautada em uma interpretação teleológica do dispositivo legal, adere à teoria finalista mitigada ou aprofundada, a qual viabiliza a aplicação da lei consumerista sobre situações em que, apesar do produto ou serviço ser adquirido no curso do desenvolvimento de uma atividade empresarial, haja vulnerabilidade técnica jurídica ou fática da parte adquirente frente ao fornecedor.
+5. Nessas situações, a aplicação do Código de Defesa do Consumidor fica condicionada à demonstração efetiva da vulnerabilidade da pessoa frente ao fornecedor. Então, incumbe ao sujeito que pretende a incidência do diploma consumerista comprovar a sua situação peculiar de vulnerabilidade.
+ ..
+(REsp n. 2.020.811/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/11/2022, DJe de 1/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO AGRÍCOLA. EXCESSO DE CHUVAS. PERDA DA QUALIDADE DO PRODUTO. PRODUTOR RURAL. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. VULNERABILIDADE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. CLÁUSULAS LIMITATIVAS. AUSÊNCIA DE INFORMAÇÃO ADEQUADA. INDENIZAÇÃO DEVIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Contudo, tem admitido o abrandamento da regra quando ficar demonstrada a condição de hipossuficiência técnica, jurídica ou econômica da pessoa jurídica, autorizando, excepcionalmente, a aplicação das normas do CDC (teoria finalista mitigada). Precedentes.
+ ..
+(AgInt no AREsp n. 1.973.453/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Ademais, rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido de que "a agravante atua no ramo alimentício, e não no de tecnologia, verificando-se, assim, sua hipossuficiência técnica" (e-STJ, fl. 158) e de que foi reconhecido "o caráter de consumidor final dos produtos, à vista de sua situação fática" (e-STJ, fl. 187), o que demanda o revolvimento das provas carreadas aos autos, vedado em sede de recurso especial, nos termos do Enunciado n.º 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. ALEGADA VIOLAÇÃO DO 357, III, DO CPC/2015. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DO CDC. TEORIA FINALISTA. MITIGAÇÃO. POSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. VULNERABILIDADE. NECESSIDADE DE COMPROVAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ.
+ "..
+4. Alterar o decidido pelo Tribunal local sobre a existência ou não de vulnerabilidade da recorrente e da necessidade de inversão do ônus probatório, seja pelo art. 6º VIII, do CDC, seja pelo art. 373, § 1º, do CPC/2015, demandaria o reexame do conjunto fático-probatório dos autos, além de cláusulas contratuais, o que não se admite em sede de recurso especial. Súmulas 5 e 7 do STJ.
+ ..
+(AgInt no REsp n. 1.989.321/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CDC. SÚMULAS 283 DO STF, 7 E 83 DO STJ. TARIFAS E TAXAS BANCÁRIAS. SÚMULA 284 DO STF. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+3. Na espécie, a Corte local concluiu pela comprovação da vulnerabilidade técnica da parte agravada a ensejar a incidência do CDC. Desse modo, rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+(..)
+(AgInt no AREsp 1537969/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2019, DJe 08/11/2019)
+Quanto à apontada violação ao art. 101, I, do CDC e à validade da cláusula de eleição de foro, a recorrente se limitou a alegar que "uma vez não sendo de consumo, a contratante deve respeitar a cláusula de eleição de foro, perfeitamente válida" (e-STJ, fl. 198) e que "o contrato discutido não é de adesão, e que as empresas são de portes equivalentes, não havendo que se falar, portanto, nem em hipossuficiência nem econômica, nem em hipossuficiência técnica, uma vez que ausente qualquer desequilíbrio entre as partes" (e-STJ, fl. 198).
+Deixou de impugnar, portanto, os principais argumentos vertido pelo acórdão recorrido para reconhecer a nulidade da referida cláusula, quais sejam, "nos termos do artigo 6º, VII e VIII, da legislação consumerista, trata-se de direito do consumidor a facilitação da defesa em juízo e de acesso aos órgãos judiciários. Além disso, de acordo com o artigo 51, XV, do Código de Defesa do Consumidor reputam-se nulas as cláusulas estejam em desacordo com o sistema de proteção ao consumidor" (e-STJ, fls. 158-159) e "a remessa dos autos para a comarca eleita, localizada em outro estado, dificultará o acesso à justiça, impondo eventuais deslocamentos, além do acréscimo de custos financeiros" (e-STJ, fl. 158).
+Desse modo, a subsistência de fundamentos inatacados, aptos a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido a jurisprudência do Tribunal:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. CONCLUSÃO DO ACÓRDÃO PELO DESCABIMENTO DO PEDIDO DE INCLUSÃO EM FOLHA DE PAGAMENTO DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO EM SUBSTITUIÇÃO À CONSTITUIÇÃO DE CAPITAL ASSECURATÓRIO DO ADIMPLEMENTO DO PENSIONAMENTO. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+ ..
+(AgInt no AREsp 1530151/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FALSIDADE DE DOCUMENTO. NULIDADE DO NEGÓCIO JURÍDICO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES VÍCIO DE COAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. PRESCRIÇÃO. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANO MORAL. REDUÇÃO. REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1274995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018)
+Ante o exposto, CONHEÇO PARCIALMENTE e, nessa extensão, NEGO PROVIMENTO ao recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE RESCISÃO CONTRATUAL E DEVOLUÇÃO DE PARCELAS PAGAS. AGRAVO DE INSTRUMENTO. LEGISLAÇÃO CONSUMERISTA. PESSOA JURÍDICA. INCIDÊNCIA DA TEORIA FINALISTA MITIGADA. VULNERABILIDADE TÉCNICA, JURÍDICA E ECONÔMICA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. CLÁUSULA DE ELEIÇÃO DE FORO. NULIDADE. FUNDAMENTOS SUFICIENTES INATACADOS. SÚMULA 283/STF.
+1. A jurisprudência do Superior Tribunal de Justiça adota a teoria finalista mitigada, que viabiliza a aplicação da lei consumerista sobre situações em que, apesar do produto ou serviço ser adquirido no curso do desenvolvimento de uma atividade empresarial, haja vulnerabilidade técnica jurídica ou fática da parte adquirente frente ao fornecedor.
+2. Rever o acórdão recorrido a respeito da vulnerabilidade técnica da recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do Enunciado n.º 7 do STJ.
+3. Não tendo sido impugnados fundamentos suficientes do acórdão recorrido para declarar a nulidade de cláusula de eleição de foro, incide o óbice da Súmula 283/STF.
+4. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
