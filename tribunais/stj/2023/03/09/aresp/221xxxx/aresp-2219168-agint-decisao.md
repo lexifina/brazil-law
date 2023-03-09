@@ -1,0 +1,25 @@
+DECISÃO
+Em face das razões do agravo interno de fls. 759/773 (e-STJ), RECONSIDERO a decisão agravada, de fls. 754/756 (e-STJ) e passo a novo exame do agravo em recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: de cobrança, em fase de cumprimento de sentença, proposta por SAVIO DUARTE ALCOFORADO em desfavor da ora agravante, com vistas ao pagamento de indenização relativa a seguro de vida.
+Decisão interlocutória: acolheu em parte a impugnação apresentada pela agravante, para reconhecer excesso de execução com relação à aplicação de juros de mora de 1% ao mês sobre o valor da dívida.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo agravado, para determinar que sobre o valor da indenização de R$ 100.000,00, "seja acrescido o percentual de 1% ao mês correspondente aos juros de mora, bem como seja atualizado pela Tabela ENCOGE, desde a data da contratação até o dia do efetivo pagamento pela variação da FAJ-TR, conforme determinado em sentença".
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 272, § 2º, 280, 281, 283, 489, § 1º, IV, 502, 505, caput, e 1.022 do CPC/15, e 884 do CC, sustentando, além de negativa de prestação jurisdicional, que há dupla incidência de correção monetária, além de violação à coisa julgada, haja vista que a sentença da fase de conhecimento fixou parâmetros alternativos de atualização da indenização, quais sejam, (i) correção monetária pela Tabela ENCOGE mais atualização do contrato securitário pela FAJTR, ou, (ii) outro índice que melhor se aplique, a ser acrescido de correção monetária. Aduz que a utilização da FAJ-TR tem o condão de fazer incidir os juros legais na atualização de valores quanto a contratos securitários. Argumenta, outrossim, que há nulidade na intimação da decisão que acolheu em parte a impugnação ao cumprimento de sentença.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+As razões recursais tecidas acerca da negativa de prestação jurisdicional pelo Tribunal de origem residem na alegação de que o acórdão recorrido foi omisso quanto à determinação do título judicial de utilização da FAJ-TR como índice de juros moratórios, além de ter sido contraditório, pois, ao considerar que a FAJ-TR é índice de correção monetária, não observou a duplicidade de cobrança com a aplicação da Tabela ENCOGE.
+Compulsando-se os autos, verifica-se que assiste razão à recorrente.
+Em sua fundamentação, o acórdão recorrido, de forma contraditória, afirma que "o FAJ-TR é o índice de atualização dos contratos de seguro, calculado de acordo com a taxa diária de juros pró-rata da TR", porém, em seguida, assevera que o referido índice "corresponde à correção monetária" (e-STJ fl. 555, grifou-se).
+Não bastasse, o dispositivo do acórdão determina que "ao valor do prêmio de R$ 100.000,00 (cem mil reais), seja acrescido o percentual de 1% ao mês correspondente aos juros de mora, bem como seja atualizado pela Tabela ENCOGE, desde a data da contratação até o dia do efetivo pagamento pela variação da FAJ-TR" (e-STJ fl. 557, grifou-se).
+Ora, ao assim decidir, o Tribunal de origem novamente incidiu em contradição, quiçá em obscuridade: ou a variação da FAJ-TR corresponde à correção monetária, e, portanto, não pode incidir duplamente com a Tabela ENCOGE, ou a FAJ-TR já representa os juros, não podendo incidir duplamente com os juros de mora de 1%.
+Saliente-se que referida contradição foi expressamente suscitada nos embargos de declaração opostos pela ora agravante (e-STJ fls. 573/583) e, no entanto, o Tribunal de origem manteve o julgado.
+Logo, impõe-se o acolhimento do recurso especial para o retorno dos autos à Corte local, a fim de que seja devidamente sanada a contradição.
+Por conseguinte, tem-se por prejudicado o exame das demais questões suscitadas pela parte recorrente.
+Forte nessas razões, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar ao Tribunal de origem que reaprecie os embargos de declaração opostos pela agravante, sanando, na esteira do devido processo legal, as conclusões contraditórias explicitadas nesta decisão.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO RECORRIDO. CONTRADIÇÃO INTERNA. CARACTERIZAÇÃO.
+1. Ação de cobrança, em fase de cumprimento de sentença.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 quando o acórdão recorrido apresenta contradição interna, não sanada mesmo após a oposição de embargos de declaração, redundando em provimento jurisdicional ambíguo.
+3. Decisão agravada reconsiderada. Agravo conhecido para conhecer do recurso especial e dar-lhe provimento.
