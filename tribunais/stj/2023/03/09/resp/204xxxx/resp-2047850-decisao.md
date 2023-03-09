@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. BRASIL TELECOM. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. 1. FATO GERADOR DO CRÉDITO. O CASO EM EXAME TRATA-SE DE CRÉDITO CONCURSAL, COM A CONSTITUIÇÃO DO FATO GERADOR ANTES DE 20.06.2016, TENDO EM VISTA QUE ESTE SE DEU COM A EMISSÃO INCOMPLETA DAS AÇÕES, AINDA NA DÉCADA DE 1990, E NÃO COM O TRÂNSITO EM JULGADO DA FASE DE CONHECIMENTO DA PRESENTE DEMANDA. 2. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO FINAL. DE ACORDO COM O ART. 9º, II, DA LEI Nº 11.101/2005, O CRÉDITO DEVE SER ATUALIZADO ATÉ A DATA EM QUE PROFERIDA A SENTENÇA QUE DECLAROU A FALÊNCIA DA EMPRESA OU DO PEDIDO DE RECUPERAÇÃO JUDICIAL. DESTARTE, OS JUROS DE MORA E A CORREÇÃO MONETÁRIA DEVEM INCIDIR ATÉ A DATA DA RECUPERAÇÃO JUDICIAL DA BRASIL TELECOM (20.06.2016). NO ENTANTO, CABE RESSALTAR QUE DE ACORDO COM O PRECONIZADO NO ART. 10, §6º, DA LEI Nº 11.101/05, A HABILITAÇÃO RETARDATÁRIA DO CRÉDITO É UMA FACULDADE DA PARTE CREDORA, E NÃO UMA IMPOSIÇÃO, RAZÃO PELA QUAL CASO O CRÉDITO NÃO SEJA HABILITADO NA RECUPERAÇÃO JUDICIAL, A LIMITAÇÃO DOS CONSECTÁRIOS ATÉ A DATA DO SEU RECEBIMENTO NÃO SERÁ CABÍVEL. 3. OFÍCIO. CANCELAMENTO. CARECE DE INTERESSE RECURSAL A ORA AGRAVANTE AO POSTULAR O CANCELAMENTO DA EXPEDIÇÃO DE OFÍCIO AO JUÍZO DA RECUPERAÇÃO JUDICIAL PARA PAGAMENTO DO CRÉDITO À PARTE AUTORA, UMA VEZ QUE NÃO HOUVE DETERMINAÇÃO DE EXPEDIÇÃO DE OFÍCIO NA DECISÃO AGRAVADA. RECURSO NÃO CONHECIDO NO PONTO. AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO. UNÂNIME.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+A parte recorrente alega que o acórdão recorrido contrariou:
+a) os artigos 7º, 9º e 51 da Lei 11.101/2005, porque a correção monetária do crédito deve ser limitada até a data do pedido de recuperação judicial;
+b) os artigos 9º, 49, 59 e 126 da Lei 11.101/2005, porque deixou de reconhecer que o crédito é concursal; e
+c) os artigos 489 e 1.022 da Lei 13.105/2015 (Código de Processo Civil - CPC de 2015) porque deixou de sanar os vícios apontados nos embargos de declaração.
+Aponta divergência jurisprudencial.
+Inicialmente, anoto que o recurso especial é incognoscível, por ausência de interesse, quando o acórdão recorrido decide a matéria controvertida no mesmo sentido defendido pela parte recorrente. Confira-se:
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A ALIENAÇÃO PARTICULAR DO IMÓVEL LITIGIOSO. INSURGÊNCIA RECURSAL NO SENTIDO DE QUE A ALIENAÇÃO RECAIRÁ SOBRE A TOTALIDADE DO BEM. EQUIVOCADA INTERPRETAÇÃO. RESGUARDO DA PROPRIEDADE DO AGRAVANTE. AUTO DE PENHORA NESSE SENTIDO, CONFORME ACÓRDÃO DE ORIGEM. AUSÊNCIA DE INTERESSE EM RECORRER. AGRAVO INTERNO NÃO PROVIDO.
+1. "A decisão cuja parte dispositiva é favorável ao recorrente denota a ausência de interesse em recorrer" (REsp 914062/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2011, DJe 29/09/2011).
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 1858898/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2021, DJe 24/08/2021)
+No caso, o acórdão recorrido reconheceu que o crédito é concursal. Com relação a esse ponto, portanto, evidencia-se ausência de interesse em recorrer, uma vez que a parte recorrente não foi sucumbente. Em suma, o objeto (pedido) que se pretende alcançar com o recurso especial já foi atendido.
+Prosseguindo, destaco que o crédito deve ser corrigido monetariamente até a data do pedido de recuperação judicial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. AUSÊNCIA DE PREVISÃO DO PLANO DE RECUPERAÇÃO. ATUALIZAÇÃO LIMITADA À DATA DO PEDIDO DE RECUPERAÇÃO. 3. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. FACULDADE DO MAGISTRADO. AUSÊNCIA DE DIVERGÊNCIA. 4. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973. 5. AGRAVO DESPROVIDO.
+1. Todas as questões suscitadas pelas partes foram devidamente apreciadas pela Corte estadual, não havendo que se falar em negativa de prestação jurisdicional.
+2. Conforme jurisprudência desta Corte Superior, as decisões da assembleia de credores representam o veredicto final a respeito dos destinos do plano de recuperação, cabendo ao Poder Judiciário, sem adentrar a análise da viabilidade econômica, somente controlar a legalidade dos atos do plano. Ademais, a atualização do crédito, mediante incidência de juros de mora e correção monetária, é limitada à data do pedido de recuperação judicial. Precedentes.
+3. O incidente de uniformização de jurisprudência, previsto no art. 476 do CPC/1973, consiste numa faculdade conferida ao juiz, como instrumento hábil para sanar divergência prévia entre órgãos fracionários de um mesmo tribunal, o que, consoante disposto pelo acórdão recorrido, não ocorre na presente hipótese.
+4. Salvo em hipóteses excepcionais, não é possível, na via do recurso especial, desconstituir o entendimento do Tribunal de origem que concluiu pelo caráter protelatório dos embargos de declaração opostos na origem, aplicando, com isso, a referida sanção processual, tendo em vista o óbice da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.073.431/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/5/2018, DJe de 17/5/2018.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. ATUALIZAÇÃO. TRATAMENTO IGUALITÁRIO. NOVAÇÃO. JUROS E CORREÇÃO. DATA DO PEDIDO DA RECUPERAÇÃO.
+1. Ação de recuperação judicial da qual foi extraído o recurso especial, interposto em 21/08/2014 e atribuído ao gabinete em 25/08/2016. Julgamento: CPC/73
+2. O propósito recursal é decidir se há violação da coisa julgada na decisão de habilitação de crédito que limita a incidência de juros de mora e correção monetária, delineados em sentença condenatória por reparação civil, até a data do pedido de recuperação judicial.
+3. Em habilitação de créditos, aceitar a incidência de juros de mora e correção monetária em data posterior ao pedido da recuperação judicial implica negativa de vigência ao art. 9º, II, da LRF.
+4. O plano de recuperação judicial implica novação dos créditos anteriores ao pedido, e obriga o devedor e todos os credores a ele sujeitos. Assim, todos os créditos devem ser atualizados até a data do pedido de recuperação judicial, sem que isso represente violação da coisa julgada, pois a execução seguirá as condições pactuadas na novação e não na obrigação extinta, sempre respeitando-se o tratamento igualitário entre os credores.
+5. Recurso especial não provido.
+(REsp 1662793/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 8/8/2017, DJe 14/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DOS AGRAVANTES.
+1. Inexiste, na hipótese, negativa de prestação jurisdicional pela instância ordinária, porquanto houve expressa manifestação judicial quanto à natureza extraconcursal dos créditos que embasam, na origem, o cumprimento de sentença.
+2. Segundo a orientação jurisprudencial do Superior Tribunal de Justiça, a atualização do crédito habilitado no plano de soerguimento, mediante incidência de juros de mora e correção monetária, é limitada à data do pedido de recuperação judicial, respeitando a sua novação legal imposta naquele momento. Precedentes do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.554.686/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+PROCESSUAL CIVIL E DIREITO EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. HABILITAÇÃO RETARDATÁRIA DO CREDOR PRETERIDO. FACULDADE. INOVAÇÃO RECURSAL. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. CRÉDITO CONCURSAL. ATUALIZAÇÃO ATÉ O PEDIDO DE RECUPERAÇÃO JUDICIAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+3. Nos termos da jurisprudência desta Corte, "a atualização do crédito habilitado no plano de soerguimento, mediante incidência de juros de mora e correção monetária, é limitada à data do pedido de recuperação judicial, respeitando a sua novação legal imposta naquele momento" (AgInt no AREsp 1.554.686/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.960.636/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 2/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECUPERAÇÃO JUDICIAL. ATUALIZAÇÃO DE VALORES. TERMO FINAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O crédito objeto de pedido de recuperação judicial será atualizado por meio de incidência de correção monetária e juros de mora calculados até o dia do referido pedido.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.793.799/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+Na hipótese vertente, o acórdão recorrido decidiu que a correção monetária do crédito só será limitada até a data do pedido de recuperação judicial se houver a habilitação de tal crédito.
+Esse entendimento, conforme os precedentes acima indicados, diverge da jurisprudência do STJ.
+Em face do exposto, dou provimento ao recurso para determinar que o crédito seja corrigido monetariamente até a data do pedido de recuperação judicial.
+Quanto ao mais, fica prejudicado o recurso.
+Intimem-se.
