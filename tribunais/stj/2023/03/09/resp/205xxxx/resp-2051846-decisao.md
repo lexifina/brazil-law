@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por VIVIAN PAULA ALVES MALHEIROS TOLENTINO em face de acórdão do TJMG que negou provimento ao seu agravo de instrumento, mantendo a decisão do primeiro grau de jurisdição que converteu a ação de prestação de contas em ação de produção antecipada de provas, nos termos da seguinte ementa:
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE PRESTAÇÃO DE CONTAS - BENEFÍCIO DA GRATUIDADE DA JUSTIÇA - REQUISITOS PREENCHIDOS - HIPOSSUFICIÊNCIA COMPROVADA - DEFERIMENTO - ADEQUAÇÃO DA AÇÃO - POSSIBILIDADE. A Constituição da República garante o benefício da gratuidade da justiça aos que comprovarem insuficiência de recursos. A presunção de veracidade da declaração de hipossuficiência não é absoluta, conforme art. 99 §2º do Código de Processo Civil, sendo imperativa comprovação de impossibilidade de arcar com as despesas processuais. Demonstrada a fragilidade econômica do Recorrente, o deferimento da gratuidade da justiça é medida que se impõe. Diante da impossibilidade, por motivo alheio à sua vontade, de a autora instruir a demanda inicial com os documentos necessários à demonstração de seu interesse, o recebimento da pretensão como pedido de produção antecipada de prova documental, determinando que a ré exiba os documentos necessários é medida cabível.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente apontou ofensa aos arts. 434 e 485, IV, do CPC, alegando que, como o recorrido não trouxe aos autos a documentação necessária ao ajuizamento da ação, o processo deveria ser extinto, sem apreciação do mérito, e não convertido em ação de produção antecipada de provas, cujo rito é incompatível com o da ação de prestação de contas.
+Contrarrazões ao recurso especial às fls. 347/351.
+É o relatório.
+Passo a decidir.
+O presente recurso especial não merece ser conhecido.
+Quanto à alegada violação dos arts. 434 e 485, IV, do CPC, as razões do recurso especial não impugnaram o fundamento suficiente do acórdão recorrido de que a conversão da ação de prestação de contas em ação de produção antecipada de provas era possível porque a documentação não pode ser juntada ao processo por estar na posse da recorrente. Referidos fundamentos foram assim deduzidos no acórdão recorrido (e-STJ, fl. 263, g.n.):
+É que, conforme bem destacado pelo magistrado, a presente ação de prestação de contas restou impossibilitada de prosseguir vez que os documentos solicitados não puderam ser juntados aos autos, pois estão em posse da ré, que, conforme sustenta a parte autora, "quando saiu do cargo não prestou contas e não apresentou a documentação de sua gestão".
+ ..
+Ora, neste contexto, diante da impossibilidade, por motivo alheio à sua vontade, de a autora instruir a demanda inicial com os documentos necessários à demonstração de seu interesse, tenho que agiu com acerto o douto juiz ao receber a pretensão como pedido de produção antecipada de prova documental, determinando que a ré exiba as atas do período de sua administração.
+Certamente, a medida adotada pelo magistrado possibilitará ao autor tomar conhecimento das deliberações condominiais anteriores, e, de seu conteúdo, o autor obterá certeza da necessidade ou da desnecessidade de ingressar em juízo, pois, se prestadas as contas, não haverá mais o interesse na demanda.
+Lado outro, se de fato as contas não tiverem sido prestadas, fará jus o ajuizamento da ação para exigi-las, a qual poderá ser proposta com todos os documentos necessários a sua instrução inicial.
+Entretanto, os recorrentes argumentaram, tão somente, o malferimento aos arts. 434 e 485, IV, do CPC, sob as alegações de que "ao ajuizar a ação de prestação (exigir) contas, o recorrido deveria ter instruído o processo com os documentos necessários à admissão do processo, não podendo o magistrado, a partir daí, própria manu, de ofício, arvorasse nos desejos do autor e converter a ação de prestação de contas ajuizada em um procedimento produção antecipada de prova" (e-STJ, fl. 302) e de que "o procedimento especial da ação de exigir contas (2 fases) é incompatível com o procedimento da ação de produção antecipada de provas" (e-STJ, fl. 304), deixando, assim, de refutar o principal argumento vertido pelo acórdão recorrido para autorizar a conversão da ação, qual seja, o fato de a documentação não ter sido juntada ao processo por motivos alheios à vontade do autor, por estarem na posse da recorrente.
+Desse modo, a subsistência de fundamentos inatacados, aptos a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido a jurisprudência do Tribunal:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. CONCLUSÃO DO ACÓRDÃO PELO DESCABIMENTO DO PEDIDO DE INCLUSÃO EM FOLHA DE PAGAMENTO DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO EM SUBSTITUIÇÃO À CONSTITUIÇÃO DE CAPITAL ASSECURATÓRIO DO ADIMPLEMENTO DO PENSIONAMENTO. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+ ..
+(AgInt no AREsp 1530151/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FALSIDADE DE DOCUMENTO. NULIDADE DO NEGÓCIO JURÍDICO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES VÍCIO DE COAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. PRESCRIÇÃO. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANO MORAL. REDUÇÃO. REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1274995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018)
+Ante o exposto, com substrato no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONVERSÃO EM AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. DOCUMENTAÇÃO NÃO JUNTADA À INICIAL POR MOTIVOS ALHEIOS À VONTADO DO AUTOR. POSSE DA RECORRENTE. POSSIBILIDADE. FUNDAMENTOS SUFICIENTES INATACADOS. SÚMULA 283/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
