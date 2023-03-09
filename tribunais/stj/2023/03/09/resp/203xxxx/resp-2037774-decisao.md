@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, na Apelação Criminal n. 0000921-66.2015.4.01.3201/AM.
+A controvérsia foi bem relatada pelo Parquet Federal em seu parecer, in verbis (e-STJ fls. 638/639):
+Trata-se de recurso especial interposto pelo Ministério Público Federal contra v. Acórdão proferido pela 4a Turma do Tribunal Regional Federal da 1ª Região que deu provimento ao apelo defensivo nº 0000921-66.2015.4.01.3201, restando assim ementado (fl. 562):
+"PENAL E PROCESSUAL PENAL. ART. 50-A DA LEI 9.605/98 E ART. 2º DA LEI 8.176/91, NOS TERMOS DO ART. 70 DO CP. AUTORIA, MATERIALIDADE E DOLO COMPROVADOS. MANUTENÇÃO DA SENTENÇA CONDENATÓRIA. DOSIMETRIA ALTERADA. PENA DE MULTA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE DIREITO.
+1. A sentença, analisando detidamente a prova produzida ao longo da instrução criminal, em especial pela confissão dos acusados, concluiu de forma acertada pela suficiência da prova da materialidade, autoria e configuração do dolo dos crimes imputados; desse modo, os acusados limitam as insurgências recursais à dosimetria da pena.
+2. A pena submete-se a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena, cabendo às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. As Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete precipuamente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais discrepâncias gritantes e arbitrárias nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. É este o caso.
+3. A pena fixada para o crime do art. do art. 50-A, da Lei 9.605/98, na primeira fase, deve ser reduzida, haja vista a circunstância judicial relativa ao motivo do crime ser inerente ao tipo penal, que prevê expressamente "desmatar ou explorar economicamente" floresta, ou seja, explorar com objetivo de lucro.
+4. Ainda que hipoteticamente demonstrada a hipossufíciência dos acusados, nada a prover quanto ao pedido exclusão da pena de multa, porque, por opção legislativa, esta integra o preceito secundário do tipo penal, sendo de aplicação obrigatória; e, também, nada a prover quanto ao pedido de redução da pena de multa, tendo em conta que cada dia-multa foi fixado no mínimo legal, à razão de 1/30 (um trigésimo) do salário-mínimo vigente à época dos fatos.
+5. Considerando o quantum da reclusão aplicada, e em conformidade com o previsto nos arts. 43 e seguintes do CP, possível a substituição, para todos os acusados, da pena privativa de liberdade por penas restritivas de direito, a serem mais bem definidas pelo juízo da execução.
+6. Apelação parcialmente provida".
+Em suas razões o Ministério Público Federal alega, em síntese, que o v. Acórdão recorrido violou o artigo 70, caput, Ia parte do Código Penal, "pois deixou de fazer incidir a fração de aumento de 1/6 sobre a pena do crime mais grave, o do art. 50-A da Lei 9.605/1998 e, em vez disso, na verdade, reduziu-a, sem nenhuma fundamentação a respeito " (fls. 571/579). Pede que as penas definitivas sejam majoradas, com exasperação de 1/6 sobre as penas privativas de liberdade e de multa respectivamente aplicadas para o crime previsto no do artigo 50-A da Lei nº 9.605/98, por ser o mais grave.
+Contrarrazões apresentadas às fls. 633/635.
+Decisão admissibilidade inserta às fls. 588/589.
+Opinou, então, o órgão ministerial pelo provimento do recurso.
+É o relatório.
+Decido.
+A irresignação não ultrapassa o juízo de admissibilidade.
+Com efeito, a questão relativa ao concurso formal, do modo em que debatida no apelo extremo, não foi tratada de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA. CONFISSÃO E REINCIDÊNCIA. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. RESP N. 1341370/MT. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. AGRAVO NÃO PROVIDO.
+1. A tese acerca da incidência da atenuante da confissão e sua posterior compensação com a agravante da reincidência não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282 do STF.
+ ..
+3. Agravo regimental não provido. Ordem de habeas corpus concedida de ofício para determinar a compensação da agravante da reincidência com a atenuante da confissão, redimensionando a pena para 9 anos, 7 meses e 6 dias de reclusão e 19 dias-multa, mantidos os demais termos da condenação. (AgRg no REsp 1.778.141/RO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/03/2019, DJe 25/03/2019.)
+PROCESSUAL PENAL. AGRAVOS REGIMENTAIS NO AGRAVO EM RECURSO ESPECIAL. ART. 16, CAPUT, DA LEI 10.826/03, ART. 288, PARÁGRAFO ÚNICO, DO CP, ART. 157, § 2, I, II E V, DO CP E ART. 155, § 4º, II E IV, DO CP. AGRAVO DE A. M. DA S. S. SUSTENTAÇÃO ORAL NO AGRAVO REGIMENTAL. IMPOSSIBILIDADE. INTEMPESTIVIDADE. DECISÃO MANTIDA. CONTINUIDADE DELITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUMENTO NA TERCEIRA ETAPA DA DOSIMETRIA PELO NÚMERO DE MAJORANTES DO CRIME DE ROUBO. ILEGALIDADE FLAGRANTE. SÚMULA 443/STJ. REDUZIDA AS PENAS. AGRAVO IMPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+5. Carece o recurso especial de A. G. DE J e S. C. DA S. do indispensável requisito do prequestionamento quanto ao reconhecimento da continuidade delitiva. Incidência das Súmulas 282 e 356/STF.
+ ..
+7. Agravos regimentais improvidos e habeas corpus concedido, de ofício, para reduzir as penas dos agravantes relacionadas aos crimes de roubo, ante a inobservância da Súmula 443/STJ, mantido o regime fechado. (AgRg no REsp 1.668.610/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
