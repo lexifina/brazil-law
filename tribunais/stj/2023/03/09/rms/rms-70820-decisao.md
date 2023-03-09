@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Wilson Antônio Ferreira Júnior, visando reformar o acórdão do Tribunal de Justiça de Mato Grosso do Sul, assim ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA - INDEFERIMENTO DA INICIAL - WRIT IMPETRADO CONTRA DECISÃO DOS JUIZADOS ESPECIAIS QUE DETERMINOU A INCLUSÃO DA UNIÃO NO POLO PASSIVO - QUESTÃO DE ORDEM - AUTORIDADE COATORA - JUIZ DE TURMA RECURSAL - COMPETÊNCIA DA SEÇÃO ESPECIAL E DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA DO JUIZADO ESPECIAL - COMPETÊNCIA FUNCIONAL ABSOLUTA - RECURSO CONHECIDO E DESPROVIDO.
+01. Consoante artigo 101-B, I, "a", da Lei Estadual 1.071/90, "Compete à Seção Especial e de Uniformização de Jurisprudência processar e julgar originariamente os mandados de segurança contra atos dos juízes de direito praticados no exercício de funções nas Turmas Recursais Mistas incluídos os atos dos respectivos presidentes."
+02. Considerando, pois, a autoridade coatora do mandado de segurança e que se trata de competência funcional absoluta, impõe-se a remessa dos autos para processar e julgar o feito.
+03. Recurso conhecido e desprovido.
+O recorrente sustenta, em síntese, que "o V. Acórdão não fez a análise adequada do pedido constante do Mandado de Segurança, pois nele não há insurgência quanto ao mérito do que foi decidido, mas sim a autodeclaração de incompetência que fez a Turma Recursal sobre si" (e-STJ, fl. 338).
+Alega, assim, que "a 4ª Seção Cível do Tribunal de Justiça do Mato Grosso do Sul, ao prolatar o V. Acórdão, que remete os autos para a apreciação da Seção Especial e de Uniformização da Jurisprudência do Juizado, está a merecer reparo com a determinação de análise adequada de seu conteúdo e da resolução da questão da competência, única trazida aos autos" (e-STJ, fl. 344).
+Brevemente relatado, decido.
+O presente recurso é oriundo de ação de obrigação de fazer ajuizada pelo ora recorrente em desfavor do Estado de Mato Grosso do Sul, no qual buscava o fornecimento de medicamento.
+O feito foi extinto, sem resolução do mérito, sob o fundamento de que deveria ser incluída a União no polo passivo da demanda.
+Dispõe o art. 9º do Regimento Interno do Superior Tribunal de Justiça que a natureza da relação jurídica em litígio determina a competência entre as Seções desta Corte e, no caso, está-se diante de competência da Primeira Seção, responsável pelos julgamentos relacionados a direito público, nos termos do art. 9º, § 1º, XIV, do RISTJ.
+A propósito, confira-se o seguinte julgado:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTO COM REGISTRO NA ANVISA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de afastar a competência da Justiça Federal nos casos de fornecimento de medicamento não incorporado na Relação Nacional de Medicamentos Essenciais (Rename).
+2. Analisando os autos, verifica-se que a ação originária, proposta contra o ente estadual apenas objetiva o fornecimento de medicamento registrado na Anvisa, mas não incorporado em atos normativos do SUS/Rename.
+3. O entendimento exposto no julgamento do RE 657.718/MG diz respeito, apenas, a medicamentos sem registro na Anvisa, para o qual a Corte Suprema estabelece a obrigatoriedade de ajuizamento da ação em desfavor da União.
+4. No RE 855.178/SE, apreciado sob o regime de Repercussão Geral e vinculado ao Tema 793/STF, o Supremo Tribunal Federal consignou que o "tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, sendo responsabilidade solidária dos entes federados, podendo figurar no polo passivo qualquer um deles em conjunto ou isoladamente".
+5. Ao julgar os Embargos Declaratórios opostos nos referidos autos, o STF, apesar de consignar que a presença da União no polo passivo de demandas relacionadas a fornecimento de medicamento seria de rigor, rejeitou os respectivos declaratórios.
+6. Como salientado no Voto vencedor do Ministro Edson Fachin, trata-se de atribuir à autoridade judicial o direcionamento do cumprimento da decisão, além de que a União poderia melhor esclarecer acerca da matéria controvertida, podendo-se inferir que tal fundamentação está relacionada, de fato, à fase de "cumprimento de sentença e às regras de ressarcimento aplicáveis a quem suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde", conforme já deliberado neste eg. STJ, nos autos do AgInt no CC 166.929/RS, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 23.6.2020.
+7. O julgamento dos aclaratórios supracitados não alterou o entendimento outrora firmado, conforme jurisprudência que vem se consolidando nesta Corte. No mesmo sentido, confiram-se: CCs 173.439/RS e 173.415/SC, julgados pela Primeira Seção em 7.10.2020.
+8. Desse modo, à consideração de que a situação dos autos, conforme relatado, é de fornecimento de medicamento não incorporado ao elenco da Relação Nacional de Medicamentos Essenciais - Rename, mas não sendo caso de ausência de registro na Anvisa, e não ajuizada a demanda em desfavor da União, afastada a competência da Justiça Federal.
+9. Agravo Interno não provido.
+(AgInt no RMS 68.251/GO, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 25/8/2020, DJe de 5/9/2022)
+Por essa razão, determino a redistribuição dos autos a um dos Ministros integrantes das Turmas da Primeira Seção do STJ.
+Publique-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. AÇÃO SUBJACENTE QUE TRATA DE OBRIGAÇÃO DE FAZER EM DESFAVOR DE ESTADO DA FEDERAÇÃO, BUSCANDO O FORNECIMENTO DE MEDICAMENTO AO AUTOR. COMPETÊNCIA DAS TURMAS DA PRIMEIRA SEÇÃO DESTA CORTE. ART. 9º, § 1º, DO RISTJ. REDISTRIBUIÇÃO DO FEITO.
