@@ -1,0 +1,20 @@
+DECISÃO
+Tratam-se de agravos interpostos por PETROLEO BRASILEIRO S.A PETROBRAS e pelo MUNICÍPIO DO RIO DE JANEIRO contra a decisão que inadmitiu os seus recursos especiais aviados com o objetivo de reformar o acórdão assim ementado, in verbis:
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO PROVISÓRIA. EMBARGOS À EXECUÇÃO. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO, EM RAZÃO DE SUPERVENIÊNCIA DE AUSÊNCIA DE INTERESSE PROCESSUAL. SUCUMBÊNCIA E CAUSALIDADE. AUSÊNCIA. Sabe-se que a verba honorária é orientada pelos princípios da sucumbência e da casualidade, no sentido de que devem ser suportadas pela parte que deu causa à instauração do processo. Dessa forma, em função do princípio da causalidade, nas hipóteses de extinção do processo sem resolução de mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação/incidente processual, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios. Contudo, a situação versada nos autos, onde a extinção dos embargos e da execução provisória propriamente dita se deu pelo transito em julgado da sentença exequenda, demonstra que é inviável imputar a uma ou a outra parte a responsabilidade pelos ônus sucumbenciais, na forma corretamente assinalada na sentença. Sentença mantida.
+DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, PETROLEO BRASILEIRO S.A PETROBRAS aponta como violados os arts. 85, caput e 489, II e 1º, IV, do CPC.
+Sustenta, em síntese, que é devida a condenação em honorários do Município do Rio de Janeiro, alegando, em suma, que a despeito da perda de objeto dos embargos a execução, decorrente da execução definitiva do título executivo, é devida a condenação em honorários, em face do princípio da causalidade.
+Por sua vez o Município do Rio de Janeiro indica ofensa ao art. 85, §10 do CPC/2015, afirma, em resumo, que de acordo com o principio da causalidade é a PETROBRÁS que deve pagar os honorários advocatícios, porque ela teria dado causa à demanda.
+Contrarrazões pela manutenção da decisão recorrida.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+O Tribunal a quo ao analisar a controvérsia consignou, in verbis:
+Sabe-se que a verba honorária é orientada pelos princípios da sucumbência e da casualidade, no sentido de que devem ser suportadas pela parte que deu causa à instauração do processo.
+Dessa forma, em função do princípio da causalidade, nas hipóteses de extinção do processo sem resolução de mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação/incidente processual, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios.
+Assim, cabe ao julgador indagar, perquirindo qual parte deu origem à extinção do processo sem julgamento de mérito.
+Contudo, a situação versada nos autos, onde a extinção dos embargos e da execução provisória propriamente dita se deu pelo transito em julgado da sentença exequenda, demonstra que é inviável imputar a uma ou a outra parte a responsabilidade pelos ônus sucumbenciais, mostrando-se inadequado que uma das partes suporte os encargos relativos aos honorários advocatícios da outra, ante a ausência de sucumbência ou causalidade, na forma corretamente assinalada na sentença.
+Explicitou, em suma, que ninguém teria dado causa à extinção do feito, o que implicaria na inexistência de sucumbência. Tal fundamentação, baseada nos fatos dos autos, impõe a necessidade de reexame desses mesmos fatos, o que é indevido no âmbito do recurso especial, incidindo a súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço dos agravos para não conhecer dos recursos especiais .
+Publique-se. Intimem-se.
