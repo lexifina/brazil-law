@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDIA ELIAS EL JALISS SCHUH contra a decisão de fls. 346-348, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ quanto às alíneas a e c do permissivo constitucional.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Defende seja afastada a incidência da Súmula n. 7 do STJ, sustentando que não há, nas alegações apresentadas em recurso especial, necessidade de reexame de fatos nos autos do processo.
+Ressalta que o cerne da questão diz respeito à análise da imprescindibilidade ou não de o contrato de desconto de título ser instruído com os títulos de crédito que foram descontados pela instituição financeira em favor de seu cliente, posteriormente não quitados. Por essa razão, esclarece que não há necessidade de reexame dos autos.
+Afirma que busca apenas a revaloração jurídica dos fatos expressamente mencionados no acórdão.
+Aponta violação do inciso IV do art. 485 do CPC, afirmando que o acórdão em questão não analisou, de forma pormenorizada, o conteúdo dos autos, especialmente no que diz respeito à inépcia da exordial, consubstanciada na não juntada de documentos hábeis a instrumentalizar o crédito perseguido pelo banco.
+Destaca que a jurisprudência pátria firmou-se no sentido de que cabe à instituição financeira anexar aos autos os títulos descontados em favor de seu cliente, posteriormente inadimplidos pela terceira pessoa emitente das cártulas, sob pena de faltar-lhe pressupostos de constituição e de desenvolvimento válido e regular do processo.
+Aduz que que não há razoabilidade em se proceder à cobrança de um contrato que tenha por natureza o desconto de títulos de crédito, sem que, para tanto, a instituição financeira instrua sua demanda com os títulos de créditos eventualmente descontados e não pagos.
+Sustenta que logrou êxito em demonstrar o dissídio jurisprudencial existente.
+Requer o provimento do agravo em recurso especial para que seja admitido e provido o recurso especial.
+O agravado apresentou contraminuta ao agravo em recurso especial.
+É o relatório. Decido.
+Com efeito, o contrato de desconto bancário (borderô) não constitui, por si só, título executivo extrajudicial, dependendo a execução de sua vinculação a um título de crédito dado em garantia ou à assinatura do devedor e de duas testemunhas, nos termos do art. 784, II, do CPC.
+Para que seja considerado como título executivo extrajudicial, o contrato de desconto de título de crédito deve estar vinculado a um título de crédito dado em garantia da dívida, in casu, duplicata, ou possuir a assinatura do devedor e de duas testemunhas, conforme exige o art. 784, III, do CPC, c/c o art. 29 da Lei n. 10.931/2004.
+No caso em apreço, o Tribunal a quo, amparado nas provas dos autos, concluiu que o contrato firmado entre as partes, a saber, o acordo comercial para desconto de duplicatas físicas e escriturais, cheques e antecipação de direitos creditórios, contém assinatura dos devedores, bem como de duas testemunhas, além de estar a demanda acompanhada do demonstrativo do saldo, não havendo falar em inexequibilidade do título extrajudicial.
+Dessa forma, rever o entendimento do Tribunal a quo acerca da exequibilidade do título extrajudicial demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Por fim, quanto ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
