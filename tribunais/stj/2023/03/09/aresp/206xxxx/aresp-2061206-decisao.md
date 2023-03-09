@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por BANCO RABOBANK INTERNATIONAL BRASIL S/A contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Execução - Arresto liminar de valores, imóveis e veículos de propriedade dos agravados - Deferimento da pesquisa BacenJud e indeferimento dos demais arrestos - Perigo de dano que deve ser concreto, o que não restou demonstrado - Necessária a citação e a formação do contraditório - Conflito de competência suscitado perante o C. STJ, pendente de julgamento - Suspensão da ação executiva - De rigor, e por prudência, que se mantenha a decisão proferida pelo magistrado de primeiro grau quanto aos demais arrestos pleiteados pelo agravante, até que o processo tome o seu regular curso, sob pena de se praticar atos invalidáveis - AGRAVO NÃO PROVIDO.
+Nas razões do recurso especial, a parte alega violação aos artigos 300 e 830, do Código de Processo Civil, pois, em execução de título extrajudicial, não há necessidade de observância dos requisitos da probabilidade do direito e do perigo de dano, para deferimento do arresto. Acrescentou que não foi conferido efeito suspensivo ao recurso especial no conflito de competência que envolve a vara de recuperações judiciais e a vara cível em que tramita a execução.
+Diante da decisão que inadmitiu o recurso especial, o recorrente interpôs o presente agravo.
+Intimado a se manifestar acerca da perda superveniente de interesse recursal, o recorrente não se manifestou.
+É o relatório.
+O interesse recursal se subdivide em necessidade e utilidade. A primeira está presente quando há sucumbência e, de conseguinte, precisa-se do recurso para modificar a decisão anterior. A segunda, por sua vez, depende do resultado prático que o recurso pode trazer ao recorrente.
+Neste caso, o substrato fático da decisão de primeira instância, confirmada no acórdão, está intrinsecamente relacionado à não citação dos executados. Afinal, o arresto só é aplicável antes da citação: posteriormente, é possível a realização direta de penhora. A propósito, a decisão de primeira instância afirma expressamente que o objetivo era aguardar a triangularização da relação processual: " indefiro por ora, os demais arrestos pleiteados na medida em que houve constrição de valor substancial, sendo de rigor que se aguarde a citação e eventual contraditório." (e-STJ fl. 556).
+Em consulta aos autos da execução, verifica-se que todos os réus que ainda não haviam sido citados apresentaram exceção de pré-executividade. Portanto, no mínimo, compareceram espontaneamente. Nesse cenário, não há utilidade no julgamento do recurso, pois a mudança do contexto fático esvazia o conteúdo da decisão: não há que se falar em arresto, após a citação de todos os executados.
+Além disso, o pedido de penhora pode ser novamente formulado perante o próprio juízo de primeira instância, dado que o óbice inicialmente observado não mais existe.
+Dessa forma, verifica-se que ocorreu a perda superveniente do interesse recursal.
+Ante o exposto, não conheço do recurso.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ARRESTO. DECISÃO DE PRIMEIRA INSTÂNCIA QUE CONDICIONOU O ATO À CITAÇÃO DOS EXECUTADOS. COMPARECIMENTO ESPONTÂNEO SUPERVENIENTE DE TODOS OS EXECUTADOS. PERDA SUPERVENIENTE DE INTERESSE. RECURSO NÃO CONHECIDO.
