@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 2ª Vara Criminal de São Paulo - SJ/SP, suscitante, e o Juízo de Direito do Departamento de Inquéritos Policiais e Polícia Judiciária de São Paulo - DIPO 4 - São Paulo - SP, suscitado.
+Cingem-se os autos na definição da competência para apuração da prática ilegal de venda de equipamentos desbloqueadores de sinais de telecomunicações ("TV BOX"), não autorizados pelas empresas privadas comercializadoras de programação televisiva fechada (art. 183, parágrafo único, da Lei 9.472/97).
+O Ministério Público Federal opinou pelo conhecimento do conflito e pela declaração da competência do Juízo suscitante.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição da República, razão pela qual passo ao seu exame.
+Sobre o tema da controvérsia, a Terceira Seção firmou o entendimento pela competência da Justiça Federal para o processamento do crime do artigo 183, parágrafo único, da Lei 9.472/97, pois a comercialização dos ditos aparelhos desbloqueadores de sinais afronta diretamente as regras estabelecidas pela Agência Nacional de Telecomunicações (ANTEL). Confira-se a ementa do precedente:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. VENDA DE APARELHOS PARA DESBLOQUEIO CLANDESTINO DE SINAL DE TELEVISÃO POR ASSINATURA. MONTAGEM E CERTIFICAÇÃO REGULADOS PELA ANATEL. CONDUTA TIPIFICADA, EM TESE, NO ART. 183, PARÁGRAFO ÚNICO, DA LEI N. 9.472/1997. SERVIÇO DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
+1. A Sexta Turma desta Corte Superior, no julgamento do Recurso Especial n. 1.838.056/RJ, de minha Relatoria, em sintonia com precedente do Supremo Tribunal Federal, entendeu que a captação clandestina de sinal de televisão por assinatura não pode ser equiparada ao furto de energia elétrica, tipificado no art. 155, § 3.º, do Código Penal, pela vedação à analogia in malam partem.
+2. Os equipamentos utilizados na prestação dos serviços de telecomunicações estão sujeitos à fiscalização e certificação pela Agência Nacional de Telecomunicações - ANATEL, segundo previsto do art. 19, incisos XII e XIII, da Lei n. 9.472/1997, podendo tais objetos, inclusive, ser alvo de busca e apreensão por parte da referida Agência, segundo autorização contida no inciso XV, do mesmo artigo. Sendo assim, a montagem e comercialização de aparelhos em desacordo com as regras estabelecidas pelo mencionado Órgão caracteriza ofensa ao serviço por ela regulado e fiscalizado.
+3. A conduta investigada, de venda de aparelhos para desbloqueio clandestino de sinal de televisão por assinatura, configura, em tese, o crime do art. 183, parágrafo único, da Lei n.º 9.472/1997.
+4. Havendo, em tese, a prática de crime contra as telecomunicações, tipificado na Lei n. 9.472/1997, está configurada a competência da Justiça Federal, por haver lesão a serviço da União, nos termos do art. 21, inciso XII, alínea a, c.c. o art. 109, inciso IV, da Constituição da República.
+5. Conflito conhecido para declarar competente o Juízo Federal da 7.ª Vara Criminal de São Paulo - SJ/SP, o Suscitante.
+(CC n. 173.968/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/12/2020, DJe de 18/12/2020, grifou-se.)
+Desde então, é essa a orientação seguida por este Superior Tribunal de Justiça. Exemplificativamente, cito a seguinte decisão monocrática: CC 181.006/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe: 6/10/2021.
+Ante o exposto, conheço do conflito para decl arar a competência do Juízo Federal da 2ª Vara Criminal de São Paulo/SP, ora suscitante.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
