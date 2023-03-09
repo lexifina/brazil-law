@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA - MP contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA - TJ que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0503638-24.2018.8.05.0103.
+Consta dos autos que a ora agravada foi condenada pela prática dos delitos tipificados no art. 33, caput, da Lei 11.343/2006 (tráfico ilícito de drogas) e no art. 333, caput, do Código Penal - CP (corrupção ativa), à pena cumulada de 7 (sete) anos de reclusão, em regime inicial semiaberto, e 510 (quinhentos e dez) dias-multa (fls. 132/141).
+O Recurso de apelação interposto pela Defesa foi parcialmente provido para absolver Vivia de Jesus Almeida da prática do crime de corrupção ativa. O acórdão ficou assim ementado:
+"APELAÇÃO CRIME. TRÁFICO ILÍCITO DE DROGAS. LEI N.º 11.343/2006. CORRUPÇÃO ATIVA. ART. 333, CAPUT, DO CP. CONDENAÇÃO. INÉPCIA DA INICIAL. PRELIMINAR REJEITADA. ABSOLVIÇÃO. TRÁFICO ILÍCITO DE DROGAS. ALEGAÇÃO DA ACUSADO DE QUE A SUBSTÂNCIA ENTORPECENTE PERTENCIA AOS POLICIAIS. INOCORRÊNCIA. COMPRO- VADAS A MATERIALIDADE E A AUTORIA DELITIVAS, IMPÕE-SE A MANUTENÇÃO DA CONDENAÇÃO. PENA APLICADA EM PATAMAR JUSTO. CORRUPÇÃO ATIVA. CONDUTA DA ACUSADA DEMONSTRANDO MUITO MAIS UMA REAÇÃO DE DESESPERO, DO QUE ALGUÉM QUE VISA MACULAR A MORALIDADE DA ADMINISTRAÇÃO PÚBLICA. ABSOLVIÇÃO NOS TERMOS DO ART. 386, INC. VII, DO CPP. APELO PARCIALMENTE PROVIDO." (fl. 239).
+Em sede de recurso especial (fls. 253/264), o MP apontou violação ao art. 333, caput, do Código Penal, porque o TJ afastou a condenação pelo crime de corrupção ativa.
+Sustenta, em síntese, que o crime é formal, restando caracterizado pelo simples fato de se oferecer ou prometer vantagem indevida a funcionário público.
+Assevera que o delito do art. 333, caput, do Código Penal se consumou com a simples oferta de pagamento de R$ 2.000 (dois mil reais), na intenção de evitar a prisão, sendo irrelevante a capacidade da ré de realizar o pagamento da quantia indevida.
+Requer seja reformado o acórdão, impondo-se a condenação da ré pelo delito de corrupção ativa.
+Sem contrarrazões (fl. 269).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.
+Em agravo em recurso especial, a Defesa impugnou o referido óbice (fls. 291/297). Sem contraminuta (fls. 300/301).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 316/319).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à aná lise do recurso especial.
+Sobre a violação ao art. 333, caput, do CP, o TJ afastou a condenação nos seguintes termos do voto do relator (grifos no original):
+"Já no que diz respeito ao crime de corrupção ativa, com razão a defesa ao postular a absolvição da acusada.
+É que, segundo narrou os agentes públicos, pareceu (demonstrou) muito mais uma reação de desespero, do que alguém que visa macular a moralidade da Administração Pública, até porque inexequível.
+Corrupção ativa. Não caracterização. Promessa vã, inexequível, fruto do desespero daquele que está sendo preso. Ausência do propósito de macular a moralidade da Administração. Absolvição decretada.
+Recurso provido. Para que se aperfeiçoe o delito de corrupção ativa é necessário que a oferta ou a promessa feitas pelo agente ao funcionário revistam-se de alguma autenticidade e de alguma possibilidade de concretização" (JTJ 185/287).
+ ..
+Desse modo, absolvo Vivia de Jesus Almeida da prática do crime de corrupção ativa, forte no art. 386, inc. VII, do CPP." (fls. 244/245).
+Por seu turno, na sentença constou o seguinte:
+" ..
+Quanto ao crime de corrupção ativa, entendo que restou comprovado nos autos, tendo em vista que os policiais militares afirmaram que a ré ofereceu a quantia de R$ 2.000,00 reais para não ser presa, ou seja, a vantagem indevida objetivava que os policiais militares não praticassem o ato ao qual estavam obrigados por seu ofício.
+Estatui o art. 333 do Código Penal:
+"Art. 333 - Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício:
+Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa".
+Sendo crime formal, consuma-se no momento em que a vantagem indevida é oferecida, independentemente da aceitação da outra parte:
+"O crime de corrupção ativa ostenta caráter formal e se consuma no momento do oferecimento ou da promessa de vantagem indevida, sendo, pois, prescindível à caracterização do delito a efetiva apreensão do valor oferecido" (Ap. 106231/2014-MT, 2.a C. Crim., rel. Alberto Ferreira de Souza, 04.03.2015)." (fls. 136/137).
+Extrai-se dos trechos acima que o TJ concluiu pela absolvição, sob o argumento de que houve reação de desespero da autora, sem que a mesma tivesse como executar o prometido aos agentes da polícia. Tal entendimento contraria a jurisprudência desta Corte Superior, sobretudo porque trata-se de crime formal .
+No mesmo sentido, cita-se precedente (sem grifos no original):
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. CORRUPÇÃO ATIVA. PLEITO DE ABSOLVIÇÃO. ATIPICIDADE NÃO CONFIGURADA. CRIME FORMAL. PACIENTE QUE SE ENCONTRAVA NO PÁTIO DA DELEGACIA. PRISÃO NÃO FORMALIZADA. REGIME PRISIONAL FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA INFERIOR A 4 ANOS DE RECLUSÃO. REGIME SEMIABERTO. POSSIBILIDADE. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou a desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+3. Não há que se falar em atipicidade da conduta, pois, apesar de apreendido pelos militares, a prisão do paciente ainda não tinha sido formalizada, eis que o acusado sequer havia sido apresentado ao Delegado de Polícia, encontrando-se, no momento da oferta indevida, no pátio da delegacia.
+4. É entendimento pacificado nesta Corte Superior que o "crime de corrupção ativa é um crime formal, bastando a oferta ou a promessa de vantagem indevida do agente" (REsp 783.525/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 10/05/2007, DJ 06/08/2007).
+Assim, ainda que o paciente não tivesse condições de arcar com o valor prometido, o delito se consumou no momento da oferta, sendo que o efetivo pagamento configura mero exaurimento da conduta ilegal.
+5. Se as instâncias ordinárias, com base nos elementos de prova produzidos no bojo do processo, reconheceram que a conduta do réu se subsume ao tipo do delito de corrupção ativa, desconstituir tais conclusões demandaria revolvimento do contexto fático-comprobatório dos autos, o que se revela inviável na via do writ, por exigir o revolvimento do conjunto fático-probatório.
+6. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+7. Considerando que a pena foi estabelecida em patamar inferior a 4 anos de reclusão, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional e diante do reconhecimento de circunstância judicial desfavorável, o regime inicial semiaberto mostra-se adequado e suficiente para o início do cumprimento da pena imposta ao paciente, nos termos do art. 33, §§ 2º e 3º, e art. 59, ambos do Código Penal.
+8. Writ não conhecido. Ordem concedida, de ofício, a fim de estabelecer o regime prisional semiaberto, salvo se, por outro motivo, o paciente estiver descontando a reprimenda em meio prisional diverso.
+(HC n. 588.211/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, dar-lhe provimento para restabelecer a condenação pelo crime de corrupção ativa.
+Publique-se. Intimem-se.
