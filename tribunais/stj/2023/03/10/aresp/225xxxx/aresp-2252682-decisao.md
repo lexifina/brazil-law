@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial, por entender aplicável o óbice da Súmula n. 7/STJ (e-STJ fls. 381-382); interposto, por sua vez, contra acórdão assim ementado (e-STJ, fls. 295-296):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. PRELIMINARES. INTEMPESTIVIDADE DO RECURSO. TRÂNSITO EM JULGADO DA SENTENÇA. REJEITADAS. PRESCRIÇÃO. QUESTÃO PRECLUSA. ABANDONO. ABANDONO DA CAUSA. INTIMAÇÃO DO ADVOGADO VIA DIÁRIO DE JUSTIÇA ELETRÔNICO. OBSERVÂNCIA. INTIMAÇÃO PESSOAL DO AUTOR. REALIZAÇÃO. ART. 485, INCISO III e §1º, CPC. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. CABIMENTO. SENTENÇA MANTIDA.
+1. Opostos embargos de declaração nos quais a parte aponta algum dos vícios do art. 1.022 do Código de Processo Civil e tendo havido juízo positivo acerca de da tempestividade e da regularidade formal interrompem-se os prazos para interposição dos recursos, nos termos do art. 1.026 do CPC, ainda que não tenham sido conhecidos pelo d. Juiz, de modo que o exame acerca da ocorrência ou não de quaisquer das referidas máculas cuida-se do próprio mérito do recurso.
+2. Ainda que se trate de matéria de ordem pública, a questão relativa à prescrição, no presente caso, encontra-se preclusa, haja vista que já foi decidida pelo Juiz de primeiro grau e não houve interposição de recurso no prazo legal, razão pela qual não se admite rediscussão do tema, nos termos do art. 507 do Código de Processo Civil
+3. Preenchidos os requisitos legais para a extinção do processo por abandono da causa (art. 485, inciso III e §1º, do CPC/15), quais sejam a inércia da parte quanto ao chamamento judicial, após a intimação do advogado e da intimação pessoal da parte no endereço declinado na inicial (art. 274, parágrafo único, do CPC/15), nenhuma censura há que se fazer à sentença que extinguiu o feito sem resolução do mérito.
+4. Apelação conhecida e desprovida.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 329-347).
+Nas razões do especial, aponta a recorrente violação dos artigos 139, I, 231, I, 283, parágrafo único, 489 e 1022, todos do Código de Processo Civil.
+Argumenta em síntese que remanesceria omissão no acórdão recorrido acerca dos honorários de sucumbência.
+Defende, ainda, que não teria sido comprovada o abandono da causa, de modo que seria indevida a extinção do processo sem resolução do mérito. Ressalta que a intimação do autor deveria ser comprovado pelo aviso de recebimento; o que, porém, não teria ocorrido na hipótese.
+Contra-arrazoado, o recurso especial não foi admitido na origem, contra o que se manifesta a agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Observo, de início, em relação à alegada violação dos artigos 489 e 1022 do CPC/15, que o Tribunal de origem de fato menciona que a controvérsia não teria sido devolvida pelo apelante. Acrescentou, todavia, que, em todo caso, a condenação em honorários seria justificada em razão do princípio da causalidade (e-STJ, fl. 343):
+Ressalto que não há nada a prover acerca da alegada omissão com relação à sucumbência fixada na origem, haja vista que o pedido da apelação se limitou à anulação da sentença recorrida, não havendo insurgência recursal quanto ao ponto. Não bastasse, a fixação pelo d. Juiz de honorários na espécie (abandono de causa pelo autor) decorreu de mera aplicação dos arts. 85, §§ 1º e 2º e 485, § 2º, do Código de Processo Civil  ..
+Desse modo, como o Tribunal de origem justificou a condenação pelos honorários, não há cogitar-se de omissão a respeito.
+De toda forma, o agravante não menciona a repercussão do suprimento da alegada omissão na conclusão adotada no acórdão recorrido, evidenciando a deficiência na argumentação, o que atrai a aplicação do óbice da Súmula 284/STF.
+Por outro lado, em relação à suposta nulidade relativa à prévia intimação que implicou a extinção do processo sem resolução do mérito, extraio do acórdão recorrido a seguinte passagem a respeito (e-STJ, fl. 301):
+Em novo despacho, proferido em 31/08/2021, o d. Juiz consignou que não era possível prosseguir com a execução sem que credor promovesse as medidas pertinentes e determinou a intimação da exequente, na forma do §1º do art. 485, do CPC (id. 32986452).
+O mandado de intimação pessoal foi expedido (ids. 32986453), tendo sido juntado o respectivo AR assinado pelo recebedor, com data de 29/09/2021, ao id. 32986454.
+Após, o d. juiz de origem proferiu a r. sentença de extinção do feito, em 14/10/2021, com fundamento no art. 485, II, do CPC (Id. 32986457).
+Inconformado, a autora/apelante interpõe o presente recurso pelas razões já expostas.
+Com efeito, percebe-se do teor da r. sentença que o processo foi extinto em razão de o d. magistrado de origem entender que o feito restou paralisado por 3 meses - período superior a 30 (trinta) dias , apesar de o autor ter sido intimado para a prática dos atos processuais, nos termos do art. 485, III e §1º, do CPC. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o Tribunal Local pressupõe que a intimação prévia ao reconhecimento do abandono da causa foi comprovada por aviso de recebimento.
+Desse modo, o acolhimento da pretensão do recorrente, para reconhecer a nulidade, em virtude de falha na comprovação do aviso de recebimento correspondente ao mesmo ato processual, demandaria a revisão de fatos e provas, procedimento vedado, em razão da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
