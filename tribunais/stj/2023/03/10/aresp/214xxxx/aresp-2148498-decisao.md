@@ -1,0 +1,32 @@
+DECISÃO
+BANCO ALFA DE INVESTIMENTOS S.A agrava em face da decisão que não admitiu o recurso especial, por si interposto diante do acórdão exarado pelo Tribunal de Justiça do Estado de São Paulo, no curso do feito em que contende com CATRICALA E CIA LIMITADA E OUTROS, cuja ementa transcreve-se:
+AGRAVO DE INSTRUMENTO - Insurgência contra decisão que manteve a penhora sobre os imóveis objetos de ação pauliana, e declarou a preferência da penhora realizada na presente execução, em relação ao imóvel matriculado sob n. 63.700 - Superveniência de acordo quanto ao produto da alienação do imóvel matriculado sob n. 63.700 - Perda do objeto recursal - Recurso prejudicado neste ponto - Venda de imóveis anulada em ação pauliana promovida pelo agravante - Bens que retornaram ao patrimônio dos executados, possibilitando-se a penhora levada a efeito nestes autos - Decisão mantida quanto a este tópico - RECURSO PARCIALMENTE PREJUDICADO e, em sua parte conhecida, DESPROVIDO
+Em suas razões, sustenta o recorrente que a decisão de admissibilidade do recurso especial ultrapassa os limites de competência da Corte de origem. Aponta a inaplicabilidade da Súmula 07/STJ, sendo necessário apenas o exame acerca da violação do art. 506 do CPC. Aduz que a questão acerca dos efeitos da sentença entre as partes que participaram da demanda é objetiva, resumindo-se a delimitar o alcance da sentença proferida nos autos da ação pauliana. Defende que somente o Banco Alfa propôs ação pauliana, e a sentença não pode produzir efeitos para além da relação subjetiva estabelecida naquele processo. Argumenta que a consequência do negócio fraudulento é apenas a ineficácia relativa, e a sentença não pode beneficiar o agravado Banco Pine, devendo ser desconstituída a penhora deferida pelo Juízo de origem em seu favor, sobre os imóveis objetos da ação pauliana. Requer o provimento do recurso.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Conheço do agravo, pois preenchidos os pressupostos de admissibilidade, e passo ao exame do recurso especial, o qual, adianta-se, não comporta conhecimento.
+A pretensão recursal consiste em ver reconhecida vulneração ao art. 506 do CPC, afirmando o recorrente que a procedência de ação pauliana não poderia ter os seus efeitos subjetivos estendidos, para alcançar o recorrido.
+Contudo, a matéria relativa aos efeitos subjetivos da coisa julgada não foi objeto de discussão e decisão na origem, tendo o acórdão se limitado a reconhecer (e-STJ fl. 2.398):
+Quanto à penhora sobre os imóveis objetos da ação pauliana nº. 1015849-52.2019.8.26.0576, a r. sentença proferida naquela demanda (copiada às fls. 1353/1355), anulou as vendas dos imóveis matriculados sob os números 85.438, 85.443, 85.444, 4.657, 4.658, 23.013, 44310 e 101.494, do 1º CRI de São José do Rio Preto/SP, 6.980 do 2º CRI de São José do Rio Preto/SP, e 15.723, 21.931, 26.719 e 26.514, do 1º CRI de Bebedouro/SP(fls. 22, item "i", da ação pauliana), com consequente cancelamento dos registros junto à matrícula de cada um dos bens (fls. 1353, último parágrafo, destes autos), de forma que retornaram à propriedade dos vendedores, inexistindo, portanto, óbice para que fossem objeto de penhora nos presentes autos.
+Depreende-se dos termos da decisão que o conteúdo normativo contido no art. 506 do CPC não foi objeto de pronunciamento pelo acórdão, e tampouco foram opostos embargos de declaração ao efeito de sanar eventual vício de fundamentação, o que obsta o conhecimento do recurso, incidindo os enunciados das Súmulas 282 e 356/STF.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CUMPRIMENTO DE SENTENÇA. 1. OFENSA AOS ARTS. 73 E 115 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. CONCLUSÃO ESTADUAL NO SENTIDO DO CONHECIMENTO PELA INSURGENTE DO TEOR DA DECISÃO CONCESSIVA DA PENHORA. CARÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. SÚMULA 7/STJ. 3. PREMISSAS DO ARESTO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 5. AGRAVO INTERNO DESPROVIDO.
+1. Em relação ao argumento recursal concernente à suposta ofensa aos arts. 73 e 115 do CPC/2015, incidem as Súmulas 282 e 356/STF, diante da ausência de prequestionamento, uma vez que tal tese não foi objeto de análise pela Corte local. Ademais, considera-se configurado o prequestionamento implícito quando, mesmo sem a expressa menção dos dispositivos federais tidos como violados, há o efetivo debate da norma neles contida, o que, todavia, não se verifica na hipótese dos autos.
+(..)
+(AgInt nos EDcl no AREsp n. 2.097.129/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. ATRASO. ENTREGA. LUCROS CESSANTES. IMÓVEL. DESVALORIZAÇÃO. PROVA. SÚMULAS NºS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Na hipótese, rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+Não prospera, portanto, a pretensão recursal.
+Ante o exposto, CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO PAULIANA. PENHORA. LIMITES SUBJETIVOS DA COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Norma federal contida no art. 506 do Código de Processo Civil que não foi objeto de enfrentamento e decisão pela Corte de origem.
+2. Não conhecimento do recurso que se impõe. Súmulas 282 e 356/STF. Precedentes.
+3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
