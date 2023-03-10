@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JODECIR SUED DA CRUZ, com fundamento no art. 1.042, § 2º, do Código de Processo Civil, contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 83):
+AGRAVO DE INSTRUMENTO Compra e venda de veículo Ação de rescisão de contrato c/c reintegração de posse e indenização Autor que, na petição inicial, alegou ter vendido seu veículo para duas pessoas físicas, as quais, mesmo sem efetuar o pagamento do preço, venderam esse mesmo bem a uma pessoa jurídica Ausência de informação, por parte do autor, de qualquer relação jurídica com a pessoa jurídica, que é parte ilegítima besta lide Decisão agravada que fica mantida Recurso improvido.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, a agravante alega violação aos arts. 186, 422, 927, caput, e 1.228 do Código Civil.
+Defende que "O fato de o veículo estar sob a posse da recorrida confirma que o direito de sequela e o direito de indenização, decorrentes dos artigos 186, 422, 927, caput, e 1.228 do Código Civil, incidem sobre o caso e produzem efeitos em relação à recorrida".
+Reforça dizendo que "Devido à referida posse do veículo e dos mencionados direitos de sequela e de indenização, com a rescisão do contrato de compra e concessão da tutela de reintegração de posse, a recorrida estará obrigada a restituir ao recorrente a posse do veículo, bem como estará obrigada, caso o veículo seja danificado ou tenha sido danificado, por culpa ou por dolo da recorrida, a indenizar o recorrente. É o que se extrai dos artigos 186, 422, 927, caput, e 1.228 do Código Civil (Lei Federal nº 10.406/2002), que incidem sobre o caso e devem ser aplicados em relação à recorrida".
+Defende que a " conclusão no sentido de que a transferência da propriedade de bem móvel é concretizada mediante simples tradição e que, por esse motivo, a recorrida não poderia responder por nenhuma obrigação de reintegração de posse ou de indenização, é infirmada, no presente caso, pelos princípios do direito de sequela e da boa-fé objetiva, pelos deveres jurídicos que deles decorrem, bem como pelo disposto nos artigos 186, 422, 927, caput, e 1.228 do Código Civil".
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial, tendo em vista (i) ausência de demonstração de ofensa à legislação federal, bem como em razão da (ii) vedação de reexame do acervo fático-probatório (Súmula 7/STJ).
+Nas razões do agravo em recurso especial, reitera-se que haveria violação à legislação federal e pugna-se pela superação dos óbices.
+Assim delimitada a controvérsia, passo a decidir.
+A agravante alega, em síntese,
+Apesar dos argumentos, o agravo não merece acolhida.
+Transcrevo, por oportuno, os fundamentos do acórdão recorrido, na parte pertinente ao objeto do recurso (e-STJ, fls. 86/88):
+(..)
+Depreende-se da inicial que o autor vendeu seu veículo para Márcio e Adriana, os quais, mesmo sem efetuar o pagamento do preço, venderam esse mesmo bem a JJL Veículos Britto & Britto Veículos e Transportes Ltda. A ação proposta pelo autor contra Márcio, Adriana e JJL Veículos foi de rescisão de contrato c/c reintegração de posse e indenização.
+O autor não indica relação jurídica com a pessoa jurídica, mas apenas com Márcio e Adriana. Assim, JJL Veículos não tem mesmo legitimidade para figurar no polo passivo da ação.
+Como bem asseverado pelo d. magistrado, a venda do veículo a Márcio e Adriana se deu com a tradição, de modo que a alienação por parte desses à JJL Veículos ou apenas a transmissão da posse a essa empresa, para que ela realizasse a venda a terceiros por meio de consignação era possível.
+Se o preço foi ou não pago por Márcio e Adriana, é matéria de mérito, que não influencia na questão da ilegitimidade da agravada para o processo.
+Estas as razões pelas quais meu voto nega provimento ao recurso.
+Verifico, do exame do acórdão, que o Tribunal local, mediante exame do contexto fático dos autos e das próprias alegações da parte agravante, concluiu não ter sido demonstrada a relação jurídica entre a agravante e a agravada JJL Veículos, do que decorreu o julgamento pela ilegitimidade da última.
+Com efeito, a modificação de tal entendimento demandaria o reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Ainda, constato que o Tribunal local não emitiu nenhum juízo de valor acerca dos arts. 186, 422, 927, caput, e 1.228 do Código Civil, e tampouco a matéria por eles abrangida foi suscitada em embargos de declaração, de modo a justificar a ocorrência dos efeitos do art. 1.025 do Código de Processo Civil.
+Com efeito, para que se configure o prequestionamento, é necessário que o Tribunal local se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto, o que não ocorreu no caso dos autos. Ausente o indispensável prequestionamento das questões federais suscitadas pela recorrente, de rigor a incidência, na espécie, da Súmula 282/STF.
+Nesse sentido:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA E INDENIZATÓRIA. AFRONTA AOS ARTS. 927, III, DO CPC/2015 E 413 DO CC/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. DANO MORAL. CONFIGURAÇÃO. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. "O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi superior a um ano após a expiração do prazo de tolerância" (AgInt no REsp 1.949.046/RJ, Relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022).
+3. Na hipótese, o atraso de 30 meses, após o período de tolerância, na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.115.061/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
