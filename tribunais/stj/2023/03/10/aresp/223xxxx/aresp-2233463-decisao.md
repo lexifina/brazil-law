@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte impetrou mandado de segurança, ao qual atribuiu o valor de R$ 250.000,00 (duzentos e cinquenta mil reais) em novembro de 2020, objetivando a exclusão do crédito presumido de ICMS da base de cálculo do IRPJ e da CSLL.
+Após sentença que concedeu a segurança pleiteada, foi interposta apelação pela Fazenda Nacional, que teve seu provimento negado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, ficando consignado o entendimento de que os créditos presumidos de ICMS se qualificam como subvenções para investimento, conforme o art. 30 da Lei n. 12.973/2014, e estão excluídos da base de cálculo do IRPJ e da CSLL.
+O referido acórdão foi assim ementado:
+TRIBUTÁRIO. CRÉDITOS PRESUMIDOS DE ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. SUBVENÇÕES PARA INVESTIMENTO. 1º, §3º, IX, DAS LEIS 10.637/02 E10.833/03. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E DA CSL. LUCRO REAL.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, a FAZENDA NACIONAL interpôs recurso especial, apontando violação dos arts. 489 e 1.022 do CPC/2015, 25, 28 e 29 da Lei n. 9.430/1996, 20 da Lei n. 9.249/1995 e 30 da Lei n. 12.973/2014.
+Inicialmente, em seu recurso especial, a recorrente aduziu que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca de questões essenciais ao deslinde da controvérsia.
+Em seguida, sustentou que apenas os créditos presumidos de ICMS que estiverem regularizados na forma prevista na Lei Complementar n. 160/2017 e que atendam aos critérios do art. 30 da Lei n. 12.973/2014 é que devem ser excluídos da base de cálculo do IRPJ e da CSLL.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo a recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Em relação à alegada violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em ausência de fundamentação e omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação ou falta de fundamentação, pelo Tribunal de origem, quanto aos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. AUSÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há violação do art. 535, inc. II, do CPC/1973 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados pelos litigantes.
+2. O Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+3. A ausência de impugnação de fundamento autônomo apto, por si só, para manter o acórdão recorrido, atrai o disposto na Súmula n. 283/STF.
+4. A simples legação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula n. 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 e 515, § 1º, E 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+IV - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual é cabível a conversão dos créditos relativos ao empréstimo compulsório sobre energia elétrica em ações pelo valor patrimonial, e não pelo de mercado, sendo legítimo o critério de fixação do valor da ação no momento de sua conversão (art. 3º do Decreto-lei n. 1.512/76 e no art. 4º da Lei n. 7.181/83).
+V - A possibilidade de a Eletrobrás converter os créditos de empréstimo compulsório em ações tem amparo em expressa autorização legal, sendo, portanto, incabível falar em abuso de direito.
+VI - A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de trechos dos julgados.
+VII - Recurso especial conhecido em parte e improvido.
+(REsp n. 1.274.167/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.)
+Quanto aos demais artigos suscitados por violados, verifica-se que as razões recursais apresentadas pela recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, a recorrente insurge-se quanto à impossibilidade de exclusão do crédito presumido das bases de cálculo do IRPJ e da CSLL, quando a empresa é optante pela sistemática do lucro presumido, enquanto, no acórdão recorrido trata acerca da exclusão desse benefício fiscal quando a empresa é optante pelo lucro real. Dessa forma, tal fundamento do acórdão recorrido, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
