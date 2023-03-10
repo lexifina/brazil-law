@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer dos embargos.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração de folhas 8288/8290 opostos por ELOIZO GOMES AFONSO DURÃES contra acórdão que rejeitou anteriores embargos de declaração de folhas 8268/8271 opostos em face do acórdão que negou provimento ao seu agravo regimental. O acórdão embargado ficou assim ementado:
+"PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. REDISCUSSÃO DE MATÉRIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.
+2. Sem a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+3. "Não cabe a esta Corte Superior manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes" (EDcl no AgRg nos EDcl nos EDv nos EREsp 1746600/SC, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe 21/2/2020).
+4. Embargos declaratórios rejeitados." (fl. 8280)
+O embargante sustenta que seus anteriores embargos de declaração não visavam rediscutir a matéria decidida no agravo regimental, nem mesmo o prequestionamento de artigos da Constituição Federal - CRFB/1988. Afirma que foram citados os artigos 5º e 93, IX, da CRFB/1988 apenas para contextualizar a ausência de fundamentação do acórdão que julgou o agravo regimental. Destaca que já interpôs recurso para o Supremo Tribunal Federal - STF e que na peça dos embargos não pediu nem pretendeu o prequestionamento.
+Requer seja sanada obscuridade e omissão, com provimento do recurso especial.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. NOVA PRETENSÃO DE REDISCUSSÃO. CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Os presentes embargos de declaração visam rediscutir o julgamento dos anteriores, bem como rediscutir o mérito do julgamento do agravo regimental, sem qualquer demonstração de vícios, a denotar caráter manifestamente protelatório.
+2. Embargos de dec laração não conhecidos, com determinação de trânsito em julgado e remessa dos autos ao Supremo Tribunal Federal - STF para análise de agravo em recurso extraordinário.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Não há obscuridade ou omissão.
+Consoante consignado no voto embargado, todas as teses defensivas foram analisadas. Ainda, dado que na peça dos embargos a defesa afirmou expressamente que o acórdão do julgamento do agravo regimental fere o art. 5º, LV, e o art. 93, IX, ambos da CRFB/1988 (fl. 8271), registrou-se no voto embargado que a rediscussão do provimento anterior não se coaduna com a medida integrativa, sequer para fins de prequestionamento de dispositivo constitucional.
+Assim, o embargante pretende novamente rediscutir a análise dos anteriores embargos de declaração e do seu agravo regimental, o que denota manifesto caráter protelatório, a ensejar o imediato trânsito em julgado nesta Corte. Precedentes (grifos nossos):
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OMISSÃO. NÃO VERIFICAÇÃO DOS VÍCIOS DO ART. 619 DO CPP. NÍTIDO CARÁTER PROTELATÓRIO. EMBARGOS NÃO CONHECIDOS.
+1. Os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+2. A superveniência de inúmeras petições e recursos, sem demonstração de tese apta à reversão do julgado, revela nítido caráter protelatório da defesa.
+3. Embargos de declaração rejeitados, com a determinação da remessa dos autos ao Supremo Tribunal Federal para a apreciação do agravo em recurso extraordinário constante dos autos, independentemente da interposição de outro recurso.
+(EDcl nos EDcl no AgRg no AREsp n. 2.008.061/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/4/2022).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS NÃO CONHECIDOS. DETERMINAÇÃO DE REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL.
+1. A ausência, no acórdão, de quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, impede o conhecimento dos embargos declaratórios.
+2. Ainda que na esfera penal não seja comum a fixação de multa por litigância de má-fé, a insistência do embargante, diante das sucessivas oposições de embargos de declaração contra o acórdão impugnado, revela não só o exagerado inconformismo, bem como o desrespeito ao Poder Judiciário e o seu nítido caráter protelatório, constituindo abuso de direito.
+3. A jurisprudência desta Corte Superior de Justiça pacificou-se no sentido de que, diante da reiterada oposição de aclaratórios meramente protelatórios pela parte, não se deve conhecer dos embargos declaratórios.
+4. Embargos de declaração não conhecidos, com determinação de remessa dos autos ao Excelso Pretório, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, certificando-se o trânsito em julgado do acórdão de fls. 1.691-1.693.
+(EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp n. 1.481.166/PE, relator Ministro Jorge Mussi, Corte Especial, DJe de 25/3/2022).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. IMEDIATA REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL. EMBARGOS REJEITADOS.
+1. A reiterada insistência dos recorrentes evidencia nítido caráter protelatório do recurso, configurando abuso do direito de defesa
+2. A defesa insiste na tese já rechaçada em embargos anteriormente opostos, a respeito da ocorrência da prescrição da pretensão punitiva ou da pretensão executória, as quais foram afastadas fundamentadamente pelo acórdão embargado.
+3. O pleito de extinção da punibilidade pela prescrição da pretensão executória demanda a análise de diversas informações, não apenas quanto ao trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts. 116, parágrafo único, e 117, incisos V e VI, ambos do CP, de modo que deve ser submetida à análise do Juízo executivo.
+4. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para julgamento dos agravos em recurso extraordinário interpostos.
+(EDcl nos EDcl no AgRg no AgRg no AREsp n. 387.891/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 24/3/2021).
+Ante o exposto, voto no sentido de não conhecer os aclaratórios, com certificação de trânsito em julgado, independentemente da interposição de outro recurso, e determinação de remessa dos autos ao Supremo Tribunal Federal para apreciação de agravo em recurso extraordinário.
