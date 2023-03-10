@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Suspensão do cumprimento. Julgamento de ação rescisória. Trânsito em julgado. Necessidade. Recurso não provido.
+O sobrestamento dos autos de cumprimento de sentença se deu em razão do exame da matéria ventilada na ação rescisória, a qual só produzirá efeitos após o trânsito em julgado.
+Argumenta a parte recorrente, em síntese, a violação dos arts. 489, 520, 995 e 1.022, II, do Código de Processo Civil. Afirma que, em razão da prolação de sentença favorável, em ação rescisória, deve ser suspenso o cumprimento de sentença do título executivo judicial rescindido, com a devolução do valor já levantado pelo exequente (em 2017, antes da sentença favorável na rescisória, publicada em 2020), que corresponderia a um valor de R$15.095.268,11 (quinze milhões, noventa e cinco mil, duzentos e sessenta e oito reais e onze centavos).
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, os embargos declaratórios foram opostos para que o Juízo de origem se manifestasse quanto à possibilidade de cumprimento provisório da sentença da ação rescisória.
+Ao que se depreende do exame dos autos, todavia, não se trata de decisão proferida em sede de cumprimento provisório da sentença da ação rescisória, mas da decisão que, ao passo de suspendeu o cumprimento de sentença do título judicial rescindendo, negou a prolação de decisão determinando a restituição do valor levantado em 2017. Assim, o requerimento da parte não guarda lógica com a realidade dos autos, o que atrai a incidência da Súmula n. 284/STF, no particular.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto à alegada violação dos arts. 520 e 995 do Código de Processo Civil, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
