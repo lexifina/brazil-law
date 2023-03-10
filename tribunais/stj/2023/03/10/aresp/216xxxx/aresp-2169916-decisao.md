@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por VALDINEI ROBELIS LANG contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. PROMESSA DE COMPRA E VENDA. AÇÃO DE ANULAÇÃO DE ATOS JURÍDICOS. DECLARAÇÃO DE VALIDADE DE COMPRA E VENDA. RESTAURAÇÃO DE AUTOS. SENTENÇA DE PARCIAL PROCEDÊNCIA REFORMADA EM PARTE. Nos termos do art. 373, I e II, do CPC, sabe-se que ao autor cabe o ônus de demonstrar os fatos constitutivos de seu direito, enquanto ao réu cabe comprovar a existência de fatos modificativos, impeditivos ou extintivos do direito autoral. Hipótese dos autos em que a parte autora logrou êxito em comprovar a nulidade do negócio jurídico objeto da ação, devendo ser mantida, no ponto, a sentença apelada. No caso, todavia, não se evidencia responsabilidade de uma das rés pelos fatos narrados, sendo de rigor, por conseguinte, o reconhecimento da respectiva ilegitimidade passiva. Ante o resultado do julgamento, necessária a redistribuição dos ônus sucumbenciais fixados em primeira instância. Apelação cível da ré LAMPAR provida. Recurso do autor parcialmente provido. Apelação dos demais demandados desprovida. Unânime" (e-STJ fl. 932).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 17 do Código de Processo Civil de 2015, ao fundamento de que a empresa Lampar Serviços de Logística Ltda. é parte legítima para figurar no polo passivo da ação, devendo ser condenada ao pagamento de lucros cessantes, perdas e danos, e
+(ii) arts. 112, 142 e 422 do Código Civil, pois deve ser reconhecido que o recorrente comprou o imóvel matriculado no CRI de ljuí/RS, sob o nº 24.242.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+As conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Nesta ordem de ideias, mostra-se inviável o acolhimento do pedido de que se declare que o imóvel realmente adquirido pelo autor foi, de fato, o de matrícula n. 24.242, determinando-se as respectivas averbações.
+Como apontado pela respeitável Magistrada a quo, em setembro de 2005 (ao tempo em que celebrado o negócio jurídico rescindido), o bem era de propriedade de terceiros estranhos à lide, GLÁDIS, SÉRGIO e ANTÔNIO CALLAI, que prometeram alienar o imóvel no ano de 2006 (fls. 72/76), não havendo demonstração de que tenham agido de má-fé.
+Efetivamente, bem ressaltou a sentença, por força dos princípios que regem os registros públicos, como o da publicidade, há necessidade de que se mantenha a fidelidade com a situação fática existente. Além disso, o hipotético acolhimento do pleito autoral, como visto, atingiria eventuais direitos de terceiros estranhos à lide (não havendo demonstração de que tenham agido de má-fé), importando também necessidade de rescisão de compromisso de compra e venda de fls. 72/76, e não há pedido inicial em tal sentido. Ainda, a transferência da propriedade do imóvel (de GLÁDIS, SÉRGIO e ANTÔNIO CALLAI diretamente para o autor), quando ausente qualquer transação ou instrumento juridicamente capaz de amparar a transferência da propriedade, teria o condão de ferir o princípio da continuidade dos registros públicos.
+Por tais razões, no ponto, impositivo o desprovimento do recurso interposto pelo autor.
+Relativamente à legitimidade para integrar o polo passivo da ação, aliás, tem-se que merece guarida a irresignação da empresa ré LAMPAR.
+Ocorre que a mencionada litigante, como se observa, não participou dos negócios jurídicos em relação aos quais fora declarada nulidade em primeira instância.
+Por conseguinte, não tendo a referida empresa (LAMPAR), como se constata, integrado os referidos pactos (e, assim, recebido quantias), inviável que seja condenada a restituir valores ou a suportar a condenação por lucros cessantes (bem como a título de ônus sucumbenciais), eis que não há demonstração de que tenha agido de má-fé ou dado causa aos fatos narrados.
+Acerca da mencionada litigante, pelo contrário, presume-se que agiu de boa-fé ao, posteriormente, e frente a terceiros, prometer adquirir parte do imóvel em que já desenvolvia as suas atividades (fls. 53/55 e 72/76).
+Por conseguinte, no ponto, necessário o provimento do recurso interposto pela demandada LAMPAR, para que seja excluída do polo passivo da ação, prejudicadas, portanto, as demais questões de mérito suscitadas pela mencionada recorrente" (e-STJ fls. 943/944).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) a verba honorária atribuída ao recorrente, sobre o valor arbitrado pela corte local, em favor do patrono da parte recorrida, observando-se o benefício da gratuidade de justiça, se for o caso.
+Publique-se.
+Intimem-se.
