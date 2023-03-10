@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Des. ERICKSON GAVAZZA MARQUES, assim ementado:
+APELAÇÃO PLANO DE SAÚDE COLETIVO POR ADESÃO SINISTRALIDADE REAJUSTES FINANCEIROS SÃO DEVIDOS AO LONGO DO CONTRATO A FIM DE MANTER O EQUILÍBRIO DO NEGÓCIO FALTA DE CLAREZA QUANTO AOS CRITÉRIOS LEVADOS EM CONSIDERAÇÃO PARA APURAÇÃO DO ÍNDICE - ABUSIVIDADE CARACTERIZADA REQUERIDA NÃO ATENDEU AOS PEDIDOS DE FORNECIMENTO DE INFORMAÇÕES E DOCUMENTOS SOLICITADOS PELO PERITO JUDICIAL, INVIABILIZANDO A REALIZAÇÃO DO CÁLCULO ATUARIAL CIRCUNSTÂNCIA QUE JUSTIFICA A APLICAÇÃO DOS ÍNDICES IMPOSTOS PELA AGÊNCIA NACIONAL DE SAÚDE AOS CONTRATOS INDIVIDUAIS - FUNDAMENTOS DA SENTENÇA QUE DÃO SUSTENTAÇÃO ÀS RAZÕES DE DECIDIR APLICAÇÃO DO ARTIGO 252 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA RECURSO NÃO PROVIDO (e-STJ, fl. 1.157).
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls. 1.281/1.285).
+Nas razões do presente recurso, AMIL alegou a violação aos arts. 1.022, II, do NCPC, 421, 421-A e 478 do CC/02, ao sustentar (1) omissão do acórdão recorrido sobre a efetiva comprovação da necessidade dos reajustes do plano de saúde adquirido pelo autor; e (2) a legalidade do reajuste dos planos coletivos com base no critério de sinistralidade, em substituição aos índices divulgados pela ANS, que se aplicam tão somente aos contratos individuais ou familiares.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da violação do art. 1.022, II, do NCPC
+Nas razões do recurso especial, AMIL sustentou, preliminarmente, omissão do acórdão recorrido sobre a efetiva comprovação da necessidade dos reajustes do plano de saúde adquirido pelo autor.
+Contudo, sem razão.
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora insurgente, o TJSP assim se pronunciou:
+ .. , diante de tais considerações, fica evidente o acerto no qual incorreu o Juízo a quo, eis que apesar de o contrato prever o reajuste por sinistralidade, a priori, legal, certo é que a parte requerida falhou no dever de informar com clareza os critérios que levaram aos índices propostos.
+Aliás, digno de nota, que a conduta omissiva se repetiu no processo, pois conforme relatado pelo senhor perito em seu laudo, por diversas vezes solicitou informações e documentações que esclarecem os reajustes, sobretudo quanto ao percentual de 80% aplicado na mensalidade da parte autora em meados de 2016, porém sem sucesso.
+O senhor vistor descreveu em vários trechos do laudo, que a requerida juntou documentos repetidos e que não guardavam relação com o que estava sendo questionado e, ainda, que o assistente técnico nomeado pela ré, após pedir sucessivos prazos retardando a conclusão da perícia, em um dado momento deixou de atendê-lo.
+Assim, não tendo a requerida se desincumbido do ônus de provar fato modificativo, extintivo ou impeditivo do direito do autor, outra solução não havia senão a procedência da pretensão.
+A restituição dos valores pagos a maior, observado o período prescricional, é consequência lógica da decisão, pois ao contrário estaríamos validando o enriquecimento ilícito, prática esta vedada em nosso ordenamento.
+E a utilização dos índices de correção estabelecidos pela Agência Nacional de Saúde aos contratos individuais se justifica, em virtude da negativa da ré em prestar as informações e documentações necessárias à apuração do cálculo atuarial no caso em concreto, garantindo, ao menos um equilíbrio financeiro ao contrato (e-STJ, fls. 1.161/1.162).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do NCPC, o que busca AMIL é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original.)
+Não há falar, portanto, em negativa da prestação jurisdicional.
+(2) Do reajuste por sinistralidade
+Por sua vez, a AMIL defendeu a legalidade do reajuste dos planos coletivos com base no critério de sinistralidade, em substituição aos índices divulgados pela ANS, que se aplicam tão somente aos contratos individuais ou familiares.
+Todavia, da leitura dos fundamentos transcritos no item anterior, verifica-se que, no caso, a conclusão do aresto recorrido pela substituição do reajuste por sinistralidade decorreu da análise das circunstâncias fáticas da causa, notadamente, em razão da operadora não ter informado com clareza os critérios que levaram aos índices propostos. Ressaltou-se, outrossim, a informação prestada pelo perito de que, por diversas vezes, solicitou informações e documentos que pudessem embasar a confecção do laudo, porém, sem obter sucesso. Daí ter assinalado o órgão julgador local, por ocasião do julgamento dos embargos de declaração, que "já foi realizada perícia, logo, não há que se falar em apuração atuarial em sede de cumprimento de sentença" (e-STJ, fl. 1.284).
+Desse modo, para ultrapassar a convicção firmada nas instâncias oridinárias seria necessário o reexame do acervo fático-probatório dos autos, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A título ilustrativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE COLETIVO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO EVIDENCIADA. CONVERSÃO DO FEITO EM DILIGÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA 284/STF. REAJUSTE POR AUMENTO DE SINISTRALIDADE. ÍNDOLE ABUSIVA DEMONSTRADA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO.
+ .. .
+2. A ausência de indicação dos dispositivos de lei federal supostamente violados impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado.
+Precedentes.
+4. Na hipótese, o Tribunal de origem, analisando o conjunto fático-probatório contido nos autos, concluiu que foi abusivo o índice aplicado no contrato em análise porque a recorrente não se desincumbiu do ônus de comprovar o aumento da sinistralidade, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.071.919/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 10/10/2022, DJe 21/10/2022.)
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE COLETIVO. (1) VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. (2) REAJUSTE POR SINISTRALIDADE. ACÓRDÃO RECORRIDO QUE DECIDIU COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
