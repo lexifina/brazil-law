@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LUIZ EVERTON REIS MOURA contra acórdão proferido pelo Tribunal Regional Federal da 5.ª Região no HC n. 0807494-66.2021.4.05.0000.
+Consta dos autos que o Recorrente foi condenado às penas de 6 (seis) meses e 20 (vinte) dias de detenção, em regime inicial aberto, e 44 (quarenta e quatro) dias-multa pela prática dos crimes tipificados no art. 138 c.c. o art. 141, inciso II, na forma dos arts. 69 e 70, todos do Código Penal.
+Após o trânsito em julgado da condenação, o Juízo do processo de conhecimento (8.ª Vara Federal) determinou que fossem remetidas ao Juízo das Execuções Penais (17.ª Vara Federal) as cópias necessárias para formação da execução penal em relação ao Recorrente.
+Formulado pedido de reconhecimento da prescrição da pretensão punitiva, o Magistrado da 8.ª Vara determinou que o requerimento fosse encaminhado ao Juízo da 17.ª Vara Federal/PE (despacho de fl. 358).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu parcialmente da ordem e a denegou.
+Nesta insurgência, o Recorrente pleiteia, em síntese, o reconhecimento da prescrição da pretensão punitiva. Aduz, inicialmente, que a questão deveria ter sido enfrentada pelo Juízo do processo de conhecimento (8.ª Vara Federal/PE), que teria se negado a apreciar a controvérsia.
+Argumenta, ainda, que os acórdãos confirmatórios de sentença condenatória não interrompem a prescrição.
+Requer, em liminar e no mérito, o provimento do recurso, determinando-se à 8.ª Vara Federal/PE que aprecie o pleito de extinção da punibilidade , ou que seja reconhecida a prescrição da pretensão punitiva.
+Indeferida a liminar (fls. 506-508) e prestadas as informações (fls. 511-514), o Ministério Público Federal opinou pelo não conhecimento do recurso ordinário (fls. 517-521).
+É o relatório.
+Decido.
+Inicialmente, consoante as informações de fls. 511-514 e consulta ao sítio eletrônico da Corte de origem (Autos n. 9000004-72.2021.4.05.8308), verifica-se que, após a interposição do presente recurso, o pleito da Defesa concernente à prescrição da pretensão punitiva foi apreciado em primeira instância, tendo a Juíza da 17.ª Vara Federal da SJ/PE indeferido a pretensão, em 28/10/2021.
+Contra a decisão de primeira instância, a Defesa interpôs agravo em execução penal dirigido ao Tribunal a quo, a quem cabe, inicialmente, a minuciosa análise da controvérsia. Encontra-se suspenso o curso de execução da pena.
+Nesse contexto, diante da modificação do cenário fático-processual que determinou a interposição do presente recurso, a insurgência deve ser julgada prejudicada, no ponto.
+Quanto à alegação do Recorrente de que " o s acórdãos confirmatórios de sentença condenatória não interrompem a prescrição" (fl. 478; sem grifos no original), não se evidencia a existência de patente ilegalidade a ser sanada na espécie.
+Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento do HC 176.473/RR, concluído em 25/04/2020, pacificou a tese de que "nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta", entendimento do qual não destoou o Tribunal de origem (fls. 451-452; sem grifos no original).
+No mesmo sentido, confira-se o seguinte precedente deste Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. CRIMES DE TRANSPORTE ILEGAL DE MADEIRA, FALSIFICAÇÃO E USO DE DOCUMENTO PÚBLICO FALSO, CORRUPÇÃO PASSIVA E ATIVA. TESE DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. MARCO INTERRUPTIVO DO PRAZO PRESCRICIONAL. JURISPRUDÊNCIA DAS CORTES SUPERIORES. PLEITO DE ABSOLVIÇÃO. INVIABILIDADE DE DESCONSTITUIÇÃO DO DOLO NA VIA ELEITA. SÚMULA 7/STJ. TESE DE INAPLICABILIDADE DA PENA DE PERDA DA FUNÇÃO PÚBLICA EM DECORRÊNCIA DA APOSENTADORIA. CARÊNCIA DE PREQUESTIONAMENTO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE APRESENTADO PELO RECORRENTE. SÚMULA 282/STF. PREQUESTIONAMENTO IMPLÍCITO. NÃO CONFIGURADO.
+1. Não há que se falar em prescrição da pretensão punitiva, haja vista, nos termos da atual jurisprudência desta Corte, que passou a acompanhar o entendimento do SUPREMO TRIBUNAL FEDERAL, o acórdão confirmatório da condenação também interrompe o prazo prescricional da pretensão punitiva (AgRg na PET no AREsp n. 1.892.785/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 27/6/2022).
+ ..
+8. Agravo regimental desprovido." (AgRg no REsp n. 1.800.041/RN, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022; sem grifos no original.)
+Ante o exposto, JULGO PARCIAL MENTE PREJUDICADO o recurso ordinário em habeas corpus e, no mais, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AUSÊNCIA DE ANÁLISE DA QUESTÃO À ÉPOCA DA INTERPOSIÇÃO DESTE RECURSO. SUPERVENIENTE APRECIAÇÃO DA CONTROVÉRSIA EM PRIMEIRA INSTÂNCIA. INSURGÊNCIA POSTERIORMENTE SUBMETIDA À CORTE DE ORIGEM. PREJUDICIALIDADE. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NOVO MARCO INTERRUPTIVO. RECURSO ORDINÁRIO PARCIALME NTE PREJUDICADO E, NO MAIS, DESPROVIDO.
