@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GOOGLE BRASIL INTERNET LTDA. contra a decisão em que dei provimento ao seu recurso especial.
+Em seu recurso, a parte embargante argumentou a existência de omissão, diante da falta de manifestação acerca da majoração dos honorários sucumbenciais.
+A parte embargada, regularmente intimada, pugnou pela rejeição dos embargos de declaração (fls. 474/478, e-STJ).
+Assim posta a questão, destaco que não se verifica a omissão apontada. A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração.
+O embargante interpôs recurso especial que foi provido "(..) para restringir a obrigação de remoção de URLs aos endereços eletrônicos indicados apenas em decisão judicial".
+De acordo com a jurisprudência desta Corte, conforme o Enunciado 7 do Plenário do STJ:
+"Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba" (EDcl no AgInt no REsp 1573573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/4/2017, DJe 8/5/2017).
+Portanto, conhecido e provido o recurso especial interposto pelo embargante, não está preenchido o requisito de "(..) o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente".
+Assim sendo, não se verifica a pretendida omissão, pois, conforme o entendimento desta Corte, não se configurou hipótese que admita a majoração dos honorários sucumbenciais.
+Em face do exposto, rejeito os embargos.
+Intimem-se.
