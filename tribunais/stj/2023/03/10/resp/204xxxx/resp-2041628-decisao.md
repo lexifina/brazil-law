@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, contra acórdão assim ementado:
+CONTRIBUIÇÃO SOCIAL DO SALÁRIO-EDUCAÇÃO. LEI Nº 9.424, DE 1996, ART. 15. TITULAR DE SERVIÇO NOTARIAL E REGISTRAL. INEXIGIBILIDADE.
+Atribuiu-se à causa o valor de R$ 14.550,78 em janeiro de 2021.
+Em seu recurso especial, a recorrente suscitou contrariedade ao art. 15 das Leis ns. 8.212/1991 e 9.424/1996, sustentando, em síntese, que incide salário-educação pelos serviços cartorários prestados pelos titulares destes serviços.
+Contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os serviços cartorários são serventias judiciais que desenvolvem atividade judicial típica, não se enquadrando como empresa para fins de incidência de contribuição de salário-educação em relação aos seus empregados. In verbis:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO SALÁRIO-EDUCAÇÃO. PESSOA FÍSICA TITULAR DE CARTÓRIO. INEXIGIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, visando declarar a inexigibilidade da contribuição para o salário-educação, em relação aos empregados vinculados ao impetrante enquanto pessoa física titular de cartório que exerce atividades públicas notariais e registrais, bem como declarar o direito à compensação dos valores recolhidos indevidamente, a esse título, atualizados pela Taxa Selic, desde que não prescritos. O Juízo de 1º Grau concedeu a segurança. O Tribunal de origem manteve a sentença. Opostos Embargos Declaratórios, em 2º Grau, restaram eles rejeitados. No Recurso Especial, sob alegada violação aos arts. 15, parágrafo único, da Lei 8.212/91 e 15 da Lei 9.424/96, a recorrente sustentou que "o titular do cartório, ainda que na condição de pessoa física, está sujeito ao recolhimento da contribuição ao salário-educação, calculada sobre a folha de pagamento de seus empregados, vez que equiparado a empresa".
+III. Na forma da jurisprudência do STJ, firmada sob o rito dos recursos repetitivos, "a contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, em consonância com o art. 15 da Lei 9.424/96, regulamentado pelo Decreto 3.142/99, sucedido pelo Decreto 6.003/2006" (STJ, REsp 1.162.307/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe de 03/12/2010). Nos termos, ainda, da jurisprudência desta Corte, "a definição do sujeito passivo da obrigação tributária referente à contribuição ao salário-educação foi realizada pelo art. 1º, § 3º, da Lei 9.766/98, pelo art. 2º, § 1º, do Decreto 3.142/99 e, posteriormente, pelo art. 2º, do Decreto 6.003/2006. Sendo assim, em havendo lei específica e regulamento específico, não se aplica à contribuição ao salário-educação o disposto no parágrafo único, do art. 15, da Lei 8.212/91, que estabelece a equiparação de contribuintes individuais e pessoas físicas a empresas no que diz respeito às contribuições previdenciárias" (STJ, REsp 1.812.828/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/08/2022). Com relação às pessoas físicas titulares de serviços notariais e de registro, este Tribunal já proclamou que elas não se enquadram na definição de sujeito passivo da contribuição para o salário-educação, ao fundamento de que "o art. 178 da CF/69 indica como sujeito passivo da contribuição para o salário-educação as empresas comerciais, industriais e agrícolas. O Tabelionato de Notas é uma serventia judicial, que desenvolve atividade estatal típica, não se enquadrando como empresa" (STJ, REsp 262.972/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJU de 27/05/2002).
+IV. Agravo interno improvido.
+(AgInt no REsp n. 2.011.917/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+PREVIDENCIÁRIO - SALÁRIO-EDUCAÇÃO: CONTRIBUIÇÃO - TABELIONATO DE NOTAS: SUJEITO PASSIVO.
+1. O art. 178 da CF/69 indica como sujeito passivo da contribuição para o salário-educação as empresas comerciais, industriais e agrícolas.
+2. O Tabelionato de Notas é uma serventia judicial, que desenvolve atividade estatal típica, não se enquadrando como empresa.
+3. Recurso especial improvido.
+(REsp n. 262.972/RS, relatora Ministra Eliana Calmon, Segunda Turma, julgado em 16/4/2002, DJ de 27/5/2002, p. 151.)
+Ademais, a Corte regional, ao analisar os elementos de convicção constantes nos autos, concluiu que a atividade desenvolvida pela recorrida não possui os elementos caracterizadores do conceito de empresa, não se enquadrando na condição de sujeito passivo da contribuição para o salário-educação. Nesse aspecto, merece destaque o seguinte trecho do julgado (fl. 173-174, e-STJ):
+De salientar que, no caso dos autos, muito embora a União tenha em apelação alegado que todas as serventias notariais e registrais devam inscrever-se no CNPJ, não trouxe prova do cadastro do impetrante.
+(..)
+Desse modo, e considerando que não há prova de que o impetrante esteja inscrito no CNPJ, parece-me aplicável ao caso - e com maior razão - a jurisprudência já pacificada do Superior Tribunal de Justiça (STJ) (..).
+Nesta senda, fica evidente que para atingir conclusão diversa - no sentido de se enquadrar a atividade da recorrida como passível de cobrança da contribuição salário-educação - seria necessário o reexame das provas carreadas aos autos, o que é defeso na via especial em face da incidência da Súmula 7/STJ. Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL. CADASTRO NO CNPJ. SÚMULA 7/STJ.
+1. "A contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não" (REsp 1.162.307/RJ, Primeira Seção, Relator Ministro Luiz Fux, DJe 3/12/2010).
+2. Segundo a instância ordinária, a "atividade dos impetrantes tem nítidos contornos e características de uma empresa, independentemente de serem ou não pessoa jurídica, considerando que todos os atos relativos à atividade rural desenvolvida pelos impetrantes".
+3. A revisão de tais conclusões demandaria incursão na seara probatória, o que não se revela cabível na via especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.043.829/SP, Rel. Min. OG FERNANDES, DJe 20.10.2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. REQUISITOS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DE CONTRIBUIÇÕES TRIBUTO-PREVIDENCIÁRIAS DE CARÁTER INDENIZATÓRIO NÃO COMPROVADA. SÚMULA 7/STJ. ALÍNEA C. PREJUDICADA.
+1. É inviável analisar a tese defendida no Recurso Especial, de que a CDA não preenche os requisitos legais e que ocorreu a incidência de contribuições previdenciárias sobre verbas não remuneratórias, uma vez que o acórdão impugnado, com base nas provas produzidas nos autos, teria afastado tais alegações. Aplica-se o óbice da Súmula 7/STJ.
+2. A jurisprudência do STJ firmou entendimento de que o óbice da Súmula 7 do STJ é aplicável também ao Recurso Especial fundado no artigo 105, III, c, da Constituição.
+3. Agravo Regimental não provido.
+(AgRg no AREsp. 664.484/RS, Rel. Min. HERMAN BENJAMIN, DJe 5.8.2015)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
