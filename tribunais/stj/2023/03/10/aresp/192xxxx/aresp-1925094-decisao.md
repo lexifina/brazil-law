@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DO BENEFICIO DE APOSENTADOR1A COMPLEMENTAR. PREVIDÊNCIA PRIIVADA. AÇÃO JULGADA EXTINTA PELO RECONHECIMENTO DA PRESCRIÇÃO. NÃO CONSTATADA A PRESCRIÇÃO DO FUNDO DE DIREITO. PRAZO QUINQUENAL. INCIDÊNCIA SOBRE AS PARCELAS VENCIDAS ANTES DO QUINQUENIO QUE ANTECEDE O AJUIZAMENTO DA AÇÃO. SENTENÇA REFORMADA. CABIMENTO DO JULGAMENTO DA CAUSA EM SEGUNDO GRAU. CAUSA MADURA. MÉRITO. VERBAS SALARIAIS RECONHECIDAS EM RECLAMATÓRIA TRABALHISTA. REPERCUSSÃO DIRETA NO SALÁRIO DE CONTRIBUIÇÃO PARA F1NS DE CÁLCULO DO BENEFÍCIO PREVIDENCIÁRIO. DIREITO DE INCLUSÀO NA BASE DE CÁLCIULO DA COMPLEMENTAÇÃO DE APOSENTADOR1A. INCIDÊNCIA DE CORREÇÃO MONETÁRIA DESDE O VENCIMENTO DE CADA PRESTAÇÃO DO BENEFICIO PREVIDENCIÁRIO DEVIDOS. JUROS MORATÓRIOS DEVIDOS A PARTIR DA CIT"AÇÃO. INIVERSÃO DO ÔNUS SUCUMBENCIAL. RECURSO PROVIDO." (fls. 311).
+Após decisão de sobrestamento (fl. 476), em juízo de retratação, o acórdão ficou com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. JUÍZO DE RETRATAÇÃO. AÇÃO PREVIDENCIÁRIA. INSURGÊNCIA. ERRO MATERIAL APONTADO. NÃO VERIFICADO. AUSÊNCIA DE IRRESIGNAÇÃO À ÉPOCA DA PROLAÇÃO DO ACÓRDÃO EM REANÁLISE INQUINADA OMISSÃO. AFASTADA. MATÉRIA JÁ DECIDIDA NO C. STJ. FALTA DE INSURGÊNCIA SOBRE A MATÉRIA NO RESP INTERPOSTO PELA FUNCEF. AUSÊNCIA DE VÍCIOS. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA FÁTICA. IMPOSSIBILIDADE. EMBARGOS CONHECIDOS E REJEITADOS (fl. 533).
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, a violação do artigo 492 do Código de Processo Civil/2015, sob o argumento de que não cabível a procedência do adicional de periculosidade, pois não teria sido requerido pela recorrida. Sustenta ainda ofensa ao art. 1.022 do CPC por omissão quanto à necessidade de fonte de custeio e reserva matemática.
+Contrarrazões juntadas às fls.812/820.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..) a Corte foi bastante clara, quando da prolação do decisum ora hostilizado, que se tratava de juízo de retratação, previsto no artigo 1.040, II, do CPC/15, pelo qual o órgão fracionário tão somente se debruçou sobre o alinhamento do acórdão anterior com o novel entendimento do c. STJ, proferido no leading case REsp nº 1.358.281/SP.
+Na ocasião, entendeu-se pela necessidade de se reformar parcialmente o julgado, em sede de juízo de retratação, para se julgar improcedente o pleito autoral de inclusão das horas extras na base de cálculo do benefício previdenciário complementar, nos moldes da exegese emanada pelo citado precedente.
+Por outro lado, observou-se que havia, no acórdão sob reanálise, determinação de inclusão "também em tal base de cálculo de benefício complementar outras verbas reconhecidas na Justiça laborai, a saber, atinentes a adicional de periculosidade". (fl. 535).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que se refere à ofensa ao art.492 do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De mais a mais, não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em R$ 500,00 (quinhentos reais).
+Publique-se.
+Intimem-se.
