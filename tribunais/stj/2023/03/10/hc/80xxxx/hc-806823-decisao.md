@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de WILLANIMY PETTERSON GUEDES DE MIRANDA contra decisão proferida por em. Des. do eg. Tribunal de Justiça do Estado do Piauí.
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 171, caput, do Código Penal, à pena de 01 (um) ano e 02 (dois) meses de reclusão, além de 11 (onze) dias-multa, em regime inicial semiaberto.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que indeferiu o pedido liminar e ainda não julgou o mérito da impetração.
+No presente writ, o impetrante alega constrangimento ilegal, ao fundamento de que o juízo deixou de efetivar a detração da pena, para fins de fixação do regime inicial de cumprimento da sanção, de modo que, com o cômputo do tempo da prisão preventiva, o paciente teria direito à cumprir regime menos gravoso.
+Requer, ao final, a concessão da liminar, "no sentido de que seja suspenso o cumprimento do mandado de intimação para que o paciente se apresente perante a Penitenciária Agrícola Major César(doc. 28 anexo), bem como de eventual mandado de prisão expedido em seu desfavor, relativamente à ação penal em referência(Processo no0001681-05.2017.8.18.0140), até o julgamento definitivo da impetração, e que seja determinada a expedição da guia de execução definitiva do paciente, com o envio dos autos de origem ao Juízo da Execução Penal." (fls. 3-9).
+É o breve relatório.
+Decido.
+O impetrante alega constrangimento ilegal, ao fundamento de que o juízo deixou de efetivar a detração da pena, para fins de fixação do regime inicial de cumprimento da sanção, de modo que, com o cômputo do tempo da prisão preventiva, o paciente teria direito à cumprir regime menos gravoso.
+Ab initio, verifica-se que o presente writ investe contra decisão proferida por em. Desembargador, que indeferiu o pedido liminar em habeas corpus, e ainda não julgou o mérito da impetração. Nesse diapasão, considerando que o Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Com efeito, tem-se manifesta a incompetência desta Corte para tomar conhecimento do pedido, impossibilitando o prosseguimento do writ, a teor do disposto no art. 210, do RISTJ, in verbis: "Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente. "
+Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+Cientifique-se o Ministério Público Federal.
+P. e I.
