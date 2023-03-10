@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Alega a defesa que a matéria em discussão não demanda o reexame de fatos em provas, requerendo o provimento do recurso.
+Acrescenta que "o que se procura saber neste feito é se a condenação baseada exclusivamente no testemunho dos policiais é suficiente para manter o édito condenatório" (fl. 288).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido para julgar o recurso especial, em que a defesa alega negativa de vigência ao art. 20 do Código Penal.
+Sustenta que o recorrente incorreu em erro de tipo, por não ter conhecimento de que o pacote que transportava em sua moto continha uma arma de fogo de uso permitido.
+Pontua, ainda, que a condenação foi baseada exclusivamente no testemunho de policiais.
+Requer, assim, o provimento do recurso especial, a fim de que o réu seja absolvido.
+O recorrente foi condenado pela prática do crime previsto no art. 14 da Lei n. 10.826/2003, à reprimenda de 2 anos e 2 meses de reclusão, a ser cumprida inicialmente no regime semiaberto, bem como à pena pecuniária de 12 dias-multa.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso pelos seguintes fundamentos (fls. 243/245):
+Em suas razões, a defesa pleiteia a absolvição do acusado, devido a incidência de erro de tipo, vez que este não tinha como saber que o pacote que transportava em sua moto continha uma arma de fogo de uso permitido.
+Alega, para tanto, que o acusado aceitou um serviço de entregas oferecido em um aplicativo de celular e não tinha conhecimento do que havia dentro do pacote que transportava no baú de sua moto.
+Sem razão a defesa.
+A materialidade e a autoria do crime estão demonstradas pelos documentos acostados aos autos, principalmente pelo Auto de Prisão em Flagrante n. 646/2021, da 17ª DP (ID n. 36908377), pelo Auto de Apresentação e Apreensão n. 270/2021 (ID n. 36908389), pela Ocorrência Policial n. 4.815/2021, da 12ª DP (ID n. 36908392), bem pelos depoimentos produzidos durante a instrução processual.
+Ademais, a alegação de que o acusado desconhecia a existência de uma arma de fogo de uso permitido dentro do pacote que transportava no interior do baú de sua moto, ensejadora de eventual erro de tipo, mostrou-se desacompanhada de prova mínima.
+No caso dos autos, a defesa não se desincumbiu de seu ônus de comprovar que o acusado agiu em erro de tipo, já que não existem provas que corroborem os argumentos suscitados.
+Conforme ressaltado pelo Ministério Público, "não parece crível a narrativa da Defesa de que o apelante apenas aceitou um serviço de aplicativo de entregas, que prometia pagamento acima do valor usual de mercado, sem saber o que estava transportando, ainda mais por que sequer declinou, no curso das investigações, os dados da suposta pessoa que o contratara ou comprovou suas alegações por outros meios hábeis." Ademais, a testemunha policial WESLEY PAULO DE OLIVEIRA afirmou, em juízo (ID n. 36908751), que o acusado apresentou atitude suspeita antes da abordagem e, ao ser questionado, afirmou que a arma de fogo não era sua e que iria vendê-la. Vejamos:
+"Os fatos se deram conforme narrados na denúncia. Estávamos terminando uma abordagem quando os policiais viram uma moto se aproximando nos comércio. Quando o condutor da moto viu os policiais ele estacionou e saiu correndo. O indivíduo nem tirou o capacete e se evadiu do local. Eu corri atrás dele e consegui detê-lo no canteiro central. Indaguei o motivo dele ter corrido e ele disse que havia uma arma de fogo no baú da moto. Constatamos que havia uma arma no baú da moto que o acusado conduzia. Abordamos o acusado devido a atitude suspeita que ele apresentou. O abordado ficou bem nervoso quando viu os policiais e saiu correndo. Indagamos o denunciado acerca da arma de fogo e ele disse que iria vendê-la.
+O acusado disse que a arma não era dele. Diante da situação resolvemos conduzi-lo até a delegacia. No momento que o acusado chegou na moto nos estávamos realizando a abordagem de outra pessoa. Não me recordo quem era a pessoa abordada antes do acusado chegar, provavelmente os outros"
+Conforme cediço, o depoimento de testemunha policial possui valor probatório suficiente para ensejar uma condenação, vez que sua palavra tem fé pública e presunção relativa de veracidade, principalmente quando sua credibilidade não foi questionada nos autos.
+ ..
+Nesse esteio, comprovadas a materialidade e a autoria do fato, estando plenamente demonstrado o dolo pelas circunstâncias descritas nos autos e não tendo o acusado se desincumbido do ônus de demonstrar a incidência da excludente de tipicidade prevista no art. 20 do Código Penal, mantém-se a sua condenação.
+Ante o exposto, NEGO PROVIMENTO ao recurso, mantendo íntegra a sentença apelada.
+Vê-se que as instâncias de origem entenderam que "a materialidade e a autoria do crime estão demonstradas pelos documentos acostados aos autos, principalmente pelo Auto de Prisão em Flagrante n. 646/2021, da 17ª DP (ID n. 36908377), pelo Auto de Apresentação e Apreensão n. 270/2021 (ID n. 36908389), pela Ocorrência Policial n. 4.815/2021, da 12ª DP (ID n. 36908392), bem pelos depoimentos produzidos durante a instrução processual".
+Nesse contexto, conclui-se que restaram "comprovadas a materialidade e a autoria do fato, estando plenamente demonstrado o dolo pelas circunstâncias descritas nos autos" (fl. 245).
+Nos termos da orientação jurisprudencial desta Corte, "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC 672.359/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021), o que não ocorreu no presente caso.
+Alterar a conclusão da Corte de origem, acerca da incidência de erro de tipo demandaria inevitável reexame fático-probatório, providência obstada segundo o teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
