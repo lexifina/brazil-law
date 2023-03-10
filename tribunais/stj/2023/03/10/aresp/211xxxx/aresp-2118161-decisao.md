@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em face de inadmissão de recurso especial interposto por CFR IMOBILIÁRIA LTDA. e outros. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"EMBARGOS À EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA. CONTRATO INICIAL NÃO ADIMPLIDO. ADITIVO CONTRATUAL QUE FIXA NOVO VALOR E NOVAS CONDIÇÕES. NOVAÇÃO. ACEITAÇÃO INTEGRAL DA RENEGOCIAÇÃO. AFASTADA SÚMULA 286 DO STJ ANTE AO NÃO CUMPRIMENTO INTEGRAL PELOS EMBARGANTES DO CONTRATO ORIGINAL. IMPOSSIBILIDADE DE APROVEITAMENTO DE ERRO DE CÁLCULO DO PRIMEIRO CONTRATO, SUBSTITUÍDO INTEGRALMENTE. ART. 360, I DO CÓDIGO CIVIL. Sentença de improcedência. Apelação dos embargantes com preliminar de nulidade da sentença por ausência de fundamentação e ultrapassado, apontam falta de liquidez no título, quitação integral e
+alternativamente seja afastada capitalização e excesso por cobrança de juros. Preliminar de nulidade rejeitada. Sentença que enfrenta as teses apresentadas. Matéria apresentada em sede recursal já enfrentada nos autos da apelação 0347194-27.2014.8.19.0001, entre as mesmas partes e vinculada a mesma cédula de crédito bancário, as quais foram rechaçadas por esta Câmara. Embargantes que não comprovam a quitação da dívida. Notas promissórias dadas em garantia que não se prestam a comprovar quitação. REsp 774591/RS, que assevera a possibilidade da capitalização anual de juros e, no tocante a períodos inferiores, prevalece o que se estabeleceu na Medida Provisória nº 1.963-17/2000. Inocorrência de excesso de cobrança de juros. No exame da apelação anterior, foi fixado que o laudo naqueles autos produzido deve, neste ponto, ser afastado, em razão do reconhecimento da novação do título originário e da ausência de incidência de suas cláusulas ante ao inadimplemento integral dos apelantes em relação a dívida, o que afasta o verbete sumular286 do STJ. Apelantes que renegociam a integralidade da dívida advinda do primeiro contrato, inclusive com incidência de juros menores. Recurso desprovido" (fls. 1.251/1.252 e-STJ).
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, os recorrentes sustentam, além da divergência jurisprudencial, violação dos artigos 28, § 2º da Lei nº 10.931/04; 19 do Decreto nº 57.663/66; 1.361, 1.435 do Código Civil ; 489, 927 e 1022 do Código de Processo Civil de 2015.
+Aduzem omissão e falta de fundamentação no julgado.
+Pleiteiam que "(..) não tendo a execução embargada sido instruída com o extrato de conta corrente em questão, fica caracterizada a inobservância de requisito formal essencial, a despir o título exequendo da necessária liquidez" (fl. 1.320 e-STJ).
+Mencionam que "mostra-se necessário reconhecer que, tendodeixado de condenar o banco recorridoao pagamento da indenização devida, e, por ter declarado que a garantia seria uma cessão fiduciária" (fl. 1.325 e-STJ).
+Aduzem que houve excesso de execução.
+Contrarrazões às fls. 1.360/1.396 e-STJ.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem. Ante a deficiente fundamentação do recurso neste ponto, incide, por analogia, a Súmula nº 284/STF.
+No mais, quanto aos argumentos de liquidez, documento essencial e excesso de execução, o Tribunal de origem assim se manifestou:
+"(..)
+Partindo da premissa da norma legal é possível se aferir que banco exequente anexou cópia integral da cédula de crédito bancário pactuada entre as partes, e seus aditamentos, o que não foi contestado pelo exequente -index 79 dos autos da execução. Bem como apontou nos autos principais o valor principal da dívida; encargos cobrados; a planilha de débitos, data de incidência e forma de cálculo
+dos juros; além de informar o saldo devedor líquido perseguido diante da inadimplência dos embargantes. Na verdade o que se identifica no presente recurso, exatamente nos termos do que apontou o apelado em suas contrarrazões, é reiteração de tese que já foi devidamente enfrentada nos autos dos embargos0347194-27.2014.8.19.0001por esta Câmara, que restou assim ementado:
+(..)
+Atentativa de provar a quitação da integralidade da dívida ou de seu parcial pagamento não foi aptaa afastar a pretensão autoral do exequente. Ademais a prova da quitação da dívida compete aos embargantes para afastar a execução, assim poderiam juntar extratos para comprovar a quitação da dívida perseguida, fato este que não o fizeram. Quanto a pretensão dos embargantes de comprovar a quitação do débito com fulcro nas Notas Promissórias melhor sorte não socorre aos mesmos. De acordo com o que constou no sétimo aditamentoa empresa Hal S/A ingressa na qualidade de "interveniente garantidora" e para tanto foi efetivada entrega em cessão fiduciária ao banco credor dos direitos aos créditos especificados. NÃO EXISTE por meio deste documento qualquer menção de que os mesmos representariam a quitação da dívida, mas tão somente como garantia da mesma" (fls. 1.263/1.267 e-STJ).
+"(..)
+Não foi apresentado pelos embargantes qualquer vício neste termo aditivo, assim resta afastada a alegação de excesso de execução" (fl. 1.276 e-STJ).
+No caso concreto, rever a conclusão do tribunal de origem demandaria apreciar o conjunto fático-probatório dos autos e cláusula contratual, o que encontra óbice nas Súmulas nºs 5 e 7/STJ.
+A esse respeito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. ALIENAÇÃO JUDICIAL DE BEM. INTIMAÇÃO POR EDITAL. VALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Impõe-se ao recorrente, mesmo nos recursos especiais por dissídio jurisprudencial, a correta indicação do dispositivo de Lei federal a que fora dada interpretação divergente pelo Tribunal a quo, atraindo a incidência do óbice da Súmula 284 do STF a deficiência de fundamentação.
+2. O devedor deverá ser intimado pessoalmente do dia e hora da alienação judicial de seus bens (Súmula 121 do STJ), admitindo-se a intimação por edital quando impossível a intimação pessoal e quando esgotadas todos os meios de localização do devedor.
+3. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, atento ao conjunto fático-probatório, decidiu a validade da intimação por edital em razão de o executado estar se ocultando e ter havido tentativa de intimação pessoal anterior frustrada, o que está em conformidade com o pacífico entendimento jurisprudencial deste Tribunal Superior.
+4. Agravo interno desprovido"
+(AgInt no AREsp n. 1.340.641/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/4/2021, DJe de 5/5/2021.)
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que os honorários advocatícios já foram fixados no grau máximo .
+Publique-se.
+Intimem-se.
