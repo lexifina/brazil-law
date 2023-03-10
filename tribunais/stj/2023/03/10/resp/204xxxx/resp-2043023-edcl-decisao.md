@@ -1,0 +1,21 @@
+DECISÃO
+MÁRCIO DAL BELLO DE MENEZES e OUTRA opõem embargos de declaração à decisão de fls. 244-246, que deu provimento ao recurso especial, da parte ora embargada, para, afastando a intempestividade do agravo de instrumento, ordenar o retorno dos autos à instância de origem, a fim de que promova a análise do recurso.
+A parte embargante alega a ocorrência de omissão na decisão embargada, por não ter analisado as contrarrazões recursais, dos ora embargantes, que demonstram a absoluta inépcia recursal. Para tanto, sustenta (fls. 249-250):
+a) inépcia do recurso especial por ausência de demonstração do requisito da "relevância jurídica" previsto no artigo105, III, § 2º da Constituição Federal.
+b) ausência de prequestionamento do artigo 223, §§ 1º e 2º, do CPC, e incidência das SÚMULAS nº 211 do STJ e 282 e 356 do STF, porque o artigo 223, §§ 1º e 2º, do Código de Processo Civil nunca foi invocado pela recorrente antes da interposição do recurso especial. Em seu agravo de instrumento, a recorrente fez considerações sobre os artigos 272 e 494, I, ambos do Código de Processo Civil, e sobre o artigo 4º, §2º, da Lei 11.419/2006, mas não sobre a aplicação do artigo 223, §§ 1º e 2º, do Código de Processo Civil. A recorrente interpôs embargos de declaração, mas neles não invocou o artigo 223, §§ 1º e 2º, do Código de Processo Civil, o que revela a total ausência de prequestionamento desse dispositivo legal.
+c) necessidade de análise dos fatos e das provas produzidas na causa, e incidência da SÚMULA nº 7 DO STJ;
+d) ausência de impugnação aos fundamentos da decisão recorrida e incidência da SÚMULA n. 283 do STF;
+e) inépcia do recurso especial por ausência de indicação expressa dos dispositivos legais sobre os quais teria sido dada interpretação divergente por outro Tribunal;
+f) inépcia do recurso especial porque a recorrente não comprovou a similitude fática entre o acórdão recorrido e a decisão paradigma, violando o disposto no §1º do art. 1.029, do novo CPC, e o disposto no § 1º do art. 255 do Regimento Interno do Superior Tribunal de Justiça.
+Requerem o acolhimento dos embargos de declaração para que sejam sanadas as omissões apontadas no julgado.
+A parte embargada apresentou impugnação ao recurso às fls. 255-259.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+Nesse contexto, os fundamentos da decisão embargada foram claros no sentido de que o STJ tem entendimento firmado de que o "equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp n. 1.805.589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 18/11/2020, DJe de 25/11/2020).
+Registre-se que não prospera a insurgência da parte embargante acerca da ausência de pressupostos para admissão do apelo extremo, da parte ora embargada, na medida em que, restou ultrapassado o juízo de admissibilidade por esta Corte Superior e, obviamente, não havendo óbice instransponível ao julgamento de mérito do recurso especial, revelou-se viável seu conhecimento para adentrar o exame das questões suscitadas pela parte recorrente, inclusive com base na diretriz jurisprudencial sobre a matéria.
+Ademais, o julgador não é obrigado a se manifestar sobre todas as questões expostas no recurso, desde que demonstre, de maneira fundamentada, suas razões de decidir.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
