@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado de Minas Gerais contra decisão da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ (fls. 252/255).
+Inconformada, a parte agravante sustenta a inaplicabilidade do referido óbice, sob o argumento de que "Dentre outros fundamentos, a decisão ora agravada ao apontou a ausência de impugnação específica do seguinte fundamento: Consonância com a jurisprudência do STJ. Ocorre que o Estado de MG, in firmou, nas suas Razões Recursais, para o STJ, os fundamentos indicados, apresentando suas devidas razões, ou seja, impugnou a fundamentação do Acórdão combatido Obtempera-se que a peça recursal inclusive abriu tópico específico com esse objeto, a saber: DA VIOLAÇÃO À JURISPRUDÊNCIA DO STJ E DO MÉRITO RECURSAL.  ..  Dessa maneira, discorda-se que o Agravo em Recurso Especial, não tenha logrado êxito em infirmar os fundamentos da decisão de inadmissibilidade prolatada pelo tribunal de origem. Diante do que fora apresentado, é patente a necessidade de conhecimento do recurso, para que seja oportunamente analisado o seu mérito" (fls. 261/265).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 252/255), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
