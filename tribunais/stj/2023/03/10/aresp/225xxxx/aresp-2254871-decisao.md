@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de agravo interposto por Benefits Consultoria, Incorporação e Empreendimentos Ltda contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 681):
+APELAÇÃO CÍVEL - CONTRATO DE COMPRA E VENDA DE IMÓVEL - ATRASO NA ENTREGA - RESPONSABILIDADE - LUCROS CESSANTES - INDENIZAÇÃO PELA PERDA DE UMA CHANCE - NÃO CABIMENTO - DANO MORAL CONFIGURADO. O promitente vendedor responde solidariamente com a construtora pelo adimplemento do objeto do contrato (entrega do imóvel no prazo estipulado), posto que se comprometeu a garantir a entrega do bem. Os lucros cessantes, nos termos do art. 402, do CC, traduzem-se na reparação do que o ofendido deixou razoavelmente de lucrar por consequência direta do ato ilícito, seria, portanto, a perda de um lucro esperado. Ocorrendo o distrato da compra e venda de bem imóvel, por fato atribuível exclusivamente à construtora, faz jus o consumidor a ser indenizado pelos lucros cessantes, correspondentes ao valor de locação do bem. A teoria da perda de uma chance visa à responsabilização do agente causador não de um dano emergente, tampouco de lucros cessantes, mas de algo intermediário entre um e outro, precisamente a perda da p ossibilidade de se buscar posição mais vantajosa que muito provavelmente se alcançaria, não fosse o ato ilícito praticado. É incabível a cumulação de lucros cessantes e indenização por perda de uma chance quando ambos os pedidos são baseados da alegação de possibilidade de locação do imóvel. Embora o descumprimento contratual não seja apto a configurar indenização por dano moral, o atraso sem justificativa na entrega do imóvel não se trata de mero dissabor, ensejando o ressarcimento do dano moral. O valor da indenização por dano moral deve atender as circunstâncias do caso concreto, não podendo ser fixado em quantia irrisória, assim como não pode ser elevada a ponto de propiciar enriquecimento sem causa.
+Os embargos de declaração opostos foram rejeitados (fl. 714).
+Nas razões do recurso especial, interposto com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, a parte ora agravante alega violação aos "artigos 295 e 296 do Código Civil (cedente não responde pela solvência do devedor) e artigos 402 e 403 do Código Civil (as perdas e danos abrangem apenas os prejuízos efetivos, e nada para além do fim da relação contratual decretada por provimento jurisdicional), e ainda diverge da jurisprudência majoritária acerca da incompatibilidade do pedido de lucros cessantes na ação de rescisão contratual, além de que, em atenção ao princípio da eventualidade, o acórdão objurgado diverge da jurisprudência referente ao aspecto do MARCO FINAL de incidência dos lucros cessantes em caso de RESCISÃO".
+Contrarrazões às fls. 800/810.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao analisar a controvérsia, adotou os seguintes fundamentos, in verbis:
+(..)
+A ré Benefits Consultoria defende que a responsabilidade de entregar a unidade é da incorporadora, não podendo ela responder pelo inadimplemento da empresa Habitare Da leitura do contrato (cód. 54), observa-se que a construção do imóvel objeto da lide seria realizada pela incorporadora (Habitare Construtora), senão vejamos.
+TERCEIRA - DA ADESÃO E DO OBEJTO: Ciente das condições e particularidades deste empreendimento, reconhecendo expressamente que lhe foi franqueada ampla oportunidade de conhecer previamente e obter esclarecimentos sobre todos os documentos relativos à incorporação registrada, em especial os projetos aprovados e memorial descritivo da obra, bem como discutir o teor e alcance de todas as cláusulas deste contrato, o PROMISSÁRIO COMPRADOR resolve adquirir os direitos obre a unidade imobiliária identificada no item 2.1 do Quadro Resumo, o qual será construído e disponibilizado pela INCORPORADORA, pela forma e nas condições previstas neste instrumento.
+Contudo, vê-se que a segunda apelante figurou como vendedora do imóvel e, assim como a incorporadora, comprometeu-se a entregar o imóvel aos autores:
+QUINTA - DO PRAZO E DAS CONDIÇÕES DE ENTREGA: A data estimada para o término das obras e disponibilização da unidade autônoma negociada ao PROMISSÁRIO COMPRADOR é a indicada no item 4 do Quadro Resumo, contando a PROMISSÁRIA VENDEDORA e a INCORPORADORA com um prazo de carência de até 120(cento e vinte) dias úteis da data estimada, ora fixado em função das características do empreendimento imobiliário e que tornar-se-á efetivo independentemente de qualquer aviso e/ou notificação.
+No mesmo sentido, dispõe paragrafo terceiro da mesma cláusula:
+PARÁGRAFO TERCEIRO - A data estimada para disponibilização do imóvel, sem prejuízo do prazo de carência estipulado no caput, restará prejudicada, não mais obrigando A PROMITENTE VENDEDORA e a INCORPORADORA, em virtude de prorrogações de prazo de entrega e/ou modificações na forma de pagamento do preço ajustadas como o PROMISSÁRIO COMPRADOR, bem como em virtude de circunstâncias que prejudiquem o bom andamento da obra e que não decorram diretamente da PROMITENTE VENDEDORA e da INCORPORADORA, mencionando-se, enunciativamente, dentre as mesmas: ( ).
+Assim, apesar de o contrato dispor que a construção seria realizada pela incorporadora (Habitare Construtora), a promitente vendedora (Benefits Consultoria) também se comprometeu a entregar o imóvel no prazo e condições pactuadas.
+Além disso, tratando-se de relação de consumo deve ser reconhecida a responsabilidade solidária da vendedora e da incorporadora do imóvel.
+Dessa forma inegável a responsabilidade das rés, inclusive da segunda apelante pela entrega do imóvel, devendo responder solidariamente pelo atraso decorrente da entrega do imóvel.
+LUCROS CESSANTES
+Os autores destacam que fazem jus à indenização por danos materiais e lucros cessantes, pelo descumprimento contratual, no valor do aluguel do imóvel praticado pelo mercado, qual seja R$ 1.300,00 (um mil e trezentos reais), tendo como termo inicial da contagem o primeiro dia posterior à data contratualmente aprazada para entrega da unidade até a presente data.
+Os lucros cessantes, nos termos do art. 402, do CC, traduzem-se na reparação do que o ofendido deixou razoavelmente de lucrar por consequência direta do ato ilícito, seria, portanto, a perda de um lucro esperado.
+Quanto à ausência de prova efetiva do prejuízo, impende ressaltar o entendimento já firmado pelo STJ Superior Tribunal de Justiça de que o dano decorrente da possibilidade de locação é presumido, sendo, pois, desnecessária a prova do prejuízo.
+E, realmente, a presunção do dano, no caso presente, já se constitui em tese já abraçada pelo STJ e que ora cito:
+(..)
+Assim, baseado no convencimento demonstrado pelo julgado do STJ de que o prejuízo decorre da obviedade da impossibilidade de fruição do imóvel pelo comprador por decorrência do não recebimento do imóvel e entrega do bem pelo vendedor, não possuindo o comprador a fruição do imóvel no tempo prometido, por si só, decorre que o reconhecimento do seu prejuízo.
+Com efeito, ocorrendo o distrato da avença, por fato atribuível exclusivamente à vendedora e à incorporadora, é medida de justiça que sejam os compradores indenizados pelo que deixaram de lucrar, caso o contrato seguisse o curso normal e fosse efetivamente concluído.
+No caso, é inegável haver a adquirente sofrido um prejuízo material, decorrente da falta de entrega das unidades imobiliárias, na medida em que, como cediço, o mercado imobiliário brasileiro teve um forte aquecimento nos últimos anos.
+Diante deste contexto, os lucros cessantes são devidos e o valor pleiteado na inicial - R$1.300,00 por mês - mostra-se bastante razoável.
+Quanto ao termo inicial para pagamento dos lucros cessantes, tem-se que deve ocorrer desde um dia após a data que o imóvel deveria ter sido entregue, qual seja, 30 de março de 2013, levando em consideração o prazo de tolerância de 180 dias contados a partir de 30 de setembro de 2012, tendo como prazo final para entrega a data de 29 de março de 2013, sendo devido o pagamento até que seja depositado em juízo o valor pago pelos autores pelo imóvel.
+PERDA DE UMA CHANCE
+No que tange ao pedido de indenização pela perda de uma chance, sem razão a parte autora.
+A teoria da perda de uma chance (perte d"une chance) visa à responsabilização do agente causador não de um dano emergente, tampouco de lucros cessantes, mas de algo intermediário entre um e outro, precisamente a perda da possibilidade de se buscar posição mais vantajosa que muito provavelmente se alcançaria, não fosse o ato ilícito praticado.
+Assim, a perda de uma chance é considerada uma lesão às justas expectativas frustradas do indivíduo que, ao perseguir uma posição jurídica mais vantajosa, teve o curso normal dos acontecimentos interrompido por ato ilícito de terceiro.
+No caso dos autos, não é cabível a cumulação de indenização pela perda de uma chance com lucros cessantes, quando ambos os pedidos são baseados da alegação de possibilidade de locação do imóvel.
+DANO MORAL
+Quanto aos danos morais, o simples inadimplemento contratual, a princípio, não é capaz de ocasionar danos morais, no entanto, o caso em análise não se enquadra no mero descumprimento da avença.
+Em virtude de tal atraso - mais de nove anos -, os autores se viram em situação de incerteza quanto ao cumprimento contratual, considerando a inexistência de informações precisas ou mesmo uma previsão para a efetiva entrega do imóvel, depois de vencido o prazo de tolerância, frustrando a expectativa de concretização do direito à posse do bem imóvel. Assim, tal situação mostra-se suficiente para comprovar o abalo moral sofrido.
+Dessa forma, impõe-se o dever de compensar tais danos.
+(..)
+Quanto à fixação do valor da indenização a título de danos há de se atentar para a extensão do sofrimento advindo do evento danoso, e, ainda, para o grau de responsabilização da parte obrigada, considerando-se, também, a condição econômica das partes envolvidas. O valor da indenização não pode ser alto a ponto de enriquecimento ilícito da vítima, nem de empobrecimento despropositado do devedor.
+Analisando criteriosamente os fatos, e atento às condições jurídicas para a fixação, tem-se que o importe de R$10.000,00 (dez mil Reais) para cada autor se amolda aos parâmetros da razoabilidade e da proporcionalidade, devendo a indenização ser fixada em tal valor.
+Verifico, assim, que, conforme muito bem destacado na decisão de admissibilidade proferida pelo Tribunal de origem, "de pronto, salienta-se que inexiste questão federal a ser submetida ao colendo Superior Tribunal de Justiça, uma vez que os temas insertos nos dispositivos legais tidos por violados, nos termos em que postos nas razões recursais, não foram objeto de deliberação pelo Colegiado estadual, estando ausentes os indispensáveis debate e decisão prévios. Por essa razão, inexistente o prequestionamento, mostra-se, pois, inviável a pretendida análise na via especial, incidindo o teor das Súmulas 282 do Supremo Tribunal Federal, aplicada por analogia a recursos especiais, e 211 do Superior Tribunal de Justiça".
+Ademais, a revisão das premissas adotadas no acórdão recorrido demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ, sendo certo, ainda, que o posicionamento do Tribunal de origem acerca dos temas debatidos está em consonância com a jurisprudência desta Corte.
+Nesse sentido são os seguintes julgados do STJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE IMÓVEL. JULGAMENTO EXTRA PETITA. SÚMULAS 282 E 356/STF. AUSÊNCIA DE ATRASO NA ENTREGA DA OBRA. SÚMULAS 5 E 7/STJ. LUCROS CESSANTES. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Aplicação das Súmulas 282 e 356 do STF.
+2. O Tribunal local concluiu pela culpa exclusiva da construtora na entrega do empreendimento fora do prazo ajustado no contrato. A modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal, demandaria o reexame do acervo fático-probatório dos autos e de cláusulas contratuais, procedimento inviável no âmbito do recurso especial, nos termos das Súmulas 5 e 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, sobretudo após o esgotamento do período de prorrogação, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário-comprador.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.975.781/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023.)
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESPONSABILIDADE CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM DE FORMA. RESCISÃO POR CULPA EXCLUSIVA DA CONSTRUTORA. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. DANOS MORAIS. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. SÚMULAS 5, 7, 83 E 543/STJ.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e contratual (Súmulas 5 e 7/STJ).
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidência do enunciado 83 da Súmula do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.973.012/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLATÓRIA DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA DE TODOS OS INTEGRANTES DA CADEIA DE PRESTAÇÃO DE SERVIÇOS. LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. FIXAÇÃO EM ALUGUÉIS. PERÍODO DE MORA. TERMO FINAL. DATA DA DISPONIBILIZAÇÃO DAS CHAVES AOS ADQUIRENTES.
+1. Ação declaratória de obrigação de fazer cumulada com compensação por danos morais em razão de atraso na entrega de imóvel objeto de promessa de compra e venda.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Na hipótese de relação de consumo, impõe-se a responsabilidade solidária, perante o consumidor, de todos aqueles que tenham integrado a cadeia de prestação de serviço, em caso de defeito ou vício. Precedentes.
+5. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente.
+6. Reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos e devem corresponder à média do aluguel que o comprador deixaria de pagar. Precedentes.
+7. É cabível a indenização por lucros cessantes até a data da efetiva disponibilização das chaves por ser o momento a partir do qual os adquirentes passam a exercer os poderes inerentes ao domínio, dentre os quais o de fruir do imóvel. Precedentes.
+8. Agravo interno no recurso especial não provido.
+(AgInt nos EDcl no REsp n. 1.992.870/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de
+origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do
+CPC/15.
+2. É cabível, na hipótese de rescisão de promessa de compra e venda de
+imóvel por inadimplemento da promitente-vendedora, a condenação desta ao
+pagamento de indenização por lucros cessantes, sendo dispensável a prova
+desses. Precedentes.
+3. O Tribunal de origem com base no acervo fático probatório dos autos
+concluiu que houve a efetiva comprovação dos danos morais, derruir esse
+entendimento para reconhecer a ausência de comprovação, demandaria o
+revolvimento do conjunto fático-probatório dos autos, medida defesa em
+âmbito de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.978.011/RJ, relator Ministro Marco Buzzi, Quarta
+Turma, julgado em 23/5/2022, DJe de 30/5/2022.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
