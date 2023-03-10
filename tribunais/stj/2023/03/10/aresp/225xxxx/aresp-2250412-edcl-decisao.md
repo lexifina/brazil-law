@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PAULO RODRIGO SANTOS E OUTRO à decisão de fls. 827/828, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No entanto, Excelência, com o devido acato, deixou de ser observada na decisão em estudo a ocorrência de suspensão de prazos por conta dos feriados nacionais e locais dos dias 30 de novembro (Dia do Evangélico, instituído pela Lei Federal nº 12.328/2010) e 08 de dezembro (Dia da Justiça, previsto no inciso IV, do §2º, do art. 81, do RISTJ), razão pela qual o recurso anteriormente protocolado é tempestivo (fl. 831).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+É certo que o feriado nacional da Justiça de 8/12/2021 não precisa ser comprovado. Porém, o dia 30/11/2021 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, providência que não foi cumprida.
+Veja-se que a Lei 12.328/2010 apenas institui o Dia Nacional do Evangélico a ser comemorado no dia 30 de novembro de cada ano, mas não estabelece que esse dia será necessariamente feriado nacional, não servindo para comprovar que não houve expediente forense no âmbito do Tribunal de Justiça do Estado de Alagoas.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
