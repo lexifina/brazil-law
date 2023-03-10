@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim relatado (fl. 43):
+Ao relatório da respeitável sentença, que ora se adota, acrescenta-se que Leonardo de Souza Santos, originalmente denunciado por incurso no artigo 33, caput, da Lei n 11.343/06, teve a conduta desclassificada para a prevista no artigo 28 da Lei n 11.343/06 (1s. 277/289).
+Apela o Ministério Público. Pugna pela condenação nos termos da denúncia (fls. 293/322).
+O recurso foi devidamente contrariado (fls. 327/331), contando os autos com parecer da douta Procuradoria-Geral de Justiça, opinando pelo provimento do apelo defensivo (ls. 338/341).
+É o relatório.
+O paciente foi condenado, em segunda instância, às penas de 5 anos de reclusão, em regime fechado, e 500 dias-multa, por tráfico de drogas.
+A defesa entende que o regime mais gravoso foi fixado à míngua de fundamentação, em ofensa à Súmula 719/STF. Também sustenta que estão preenchidos os requisitos necessários ao reconhecimento do tráfico privilegiado.
+Busca a imediata incidência da minorante e seus consectários legais.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento e concessão parcial, de ofício, da ordem.
+A dosimetria foi fixada pelo acórdão nos seguintes termos (fls 48/50):
+Atento aos critérios norteadores do artigo 59 do Código Penal, não vislumbrando circunstâncias judiciais desfavoráveis, fixo a pena-base no mínimo legal.
+Na segunda fase, não se observam circunstâncias agravantes ou atenuantes.
+Inaplicável mesmo o redutor previsto no § 4º do artigo 33 da Lei nº 11.343/06. Veja-se que o caso cuida da traficância de drogas variadas e em quantidade por demais relevante, 10,6g de cocaína e 691g de maconha, que se sabe, assim, não confiadas a traficantes inexperientes, o que se soma ao fato de Leonardo não ter comprovado o desempenho de atividade lícita e, principalmente, ter contra si, em curso, inquérito policial versando também a prática do tráfico de drogas (1503978- 93.2019.8.26.0405 fls. 35), tudo a autorizar a conclusão de dedicação à atividade criminosa.
+ ..
+À míngua de causas modificadoras, fica a pena estabelecida em 5 (cinco) anos de reclusão, mais 500 (quinhentos) dias-multa, no piso.
+O montante da pena aliado às circunstâncias concretas gravosas do crime, marcadas pela traficância de drogas diversas, a conferir maior alcance da conduta, na medida em que atinge ampla gama de usuários, de diversos tipos de entorpecentes, demonstrando, também nesse contexto, a grande extensão da ofensa ao bem jurídico protegido, bem como pela natureza da droga traficada, mormente a cocaína, altamente viciante, capaz de, a curto prazo, provocar até mesmo convulsões no usuário, e, a longo prazo, torná-lo psicótico, justificam a imposição do regime prisional fechado e impedem a substituição da pena corporal por penas alternativas.
+Como visto, a minorante foi afastada com base na quantidade e diversidade de drogas apreendidas - 10,6g de cocaína e 691g de maconha, montante considerado pouco expressivo por esta Corte -, pela ausência de comprovação de atividade laboral lícita, e pela existência de inquérito policial em curso contra si.
+"A não comprovação da existência de trabalho lícito pelo acusado não implica presunção de dedicação à narcotraficância, nos termos da jurisprudência desta Corte" (AgRg no HC 749.854/RS, Sexta Turma, Relatora Ministra Laurita Vaz, DJe 19/9/2022), " até porque o desemprego, diante da realidade social brasileira, representa, na verdade, um infortúnio de boa parte da população, e não algo desejado." (AgRg no HC 507.057/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/6/2019).
+A Terceira Seção desta Corte, no julgamento do REsp n. 1.977.027/PR, de relatoria Ministra Laurita Vaz (DJe de 18/8/2022), submetido ao rito dos recursos repetitivos (Tema 1.139), firmou a seguinte tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06".
+Além disso, "A quantidade não expressiva de drogas autoriza a aplicação da minorante na fração máxima de  (dois terços)" (AgRg no REsp 1.953.442/SP, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/9/2021, DJe 4/10/2021).
+Tratando-se de réu primário e, não tendo sido indicado nenhum elemento adicional que demonstre cabalmente a inserção do paciente em grupo criminoso de maior risco social, a atuação armada, o envolvimento de menores ou apreensão de apetrecho/instrumento de refino da droga, a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 é medida que se impõe.
+Tendo sido fixada a pena-base em seu mínimo legal, sem circunstâncias agravantes ou atenuantes, e aplicada a causa de redução de pena em fração máxima, fixo as penas do paciente em 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Quanto ao regime mais gravoso, foi fixado tendo em vista a diversidade de drogas e a nocividade da cocaína.
+Contudo, em que pese a natureza deletéria do entorpecente, a quantidade apreendida "não demonstra reprovabilidade superior àquela inerente ao delito de tráfico de drogas e, portanto, não justifica qualquer modulação da minorante, tampouco o recrudescimento do regime prisional inicial ou o indeferimento da substituição da pena." (AgRg no HC 781355/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 19/12/2022).
+Desse modo, sendo o paciente primário, tendo sido a basilar fixada no mínimo legal e estabelecida pena inferior a 4 anos de reclusão, cabível a imposição do regime aberto para o cumprimento da pena, nos termos do art. 33, §§ 2º e 3º, do Código Penal, bem como a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do CP.
+Ante o exposto, concedo o habeas corpus para fixar a pena do paciente em 1 ano e 8 meses de reclusão, em regime aberto, e 194 dias-multa, assim como para substituir a pena privativa de liberdade por penas restritivas de direitos, a serem estabelecidas pelo juízo da execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
