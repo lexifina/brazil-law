@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 4.343-4.367) interposto por SINDICATO NACIONAL DAS EMPRESAS DISTRIBUIDORAS DE COMBUSTÍVEIS DE LUBRIFICANTES - SINDICOM, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 4.221):
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PET NO AGRAVO EM RECURSO ESPECIAL. NÃO CABE AGRAVO INTERNO CONTRA A DECISÃO QUE INADMITE A PARTICIPAÇÃO DE AMICUS CURIAE. INTERPRETAÇÃO DO ART. 138 DO CÓDIGO FUX, À LUZ DA JURISPRUDÊNCIA DESTE STJ. AGRAVO INTERNO DO SINDICOM NÃO CONHECIDO.
+1. Consoante o entendimento desta Corte Superior, é incabível a interposição de Agravo Interno contra decisão que indefere o pedido de ingresso de amicus curiae na lide, em virtude do disposto no caput do art. 138 do Código Fux. Julgados: AgInt no REsp. 1.734.471/SP, Rel. Min. HERMAN BENJAMIN, DJe 9.9.2020; AgInt na PET no AREsp. 1.139.158/MG, Rel. Min. SÉRGIO KUKINA, DJe 19.6.2018.
+2. Agravo Interno do SINDICOM não conhecido.
+Os embargos de declaração foram rejeitados, conforme ementa a seguir (fls. 4.331-4.337):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CABE AGRAVO INTERNO CONTRA A DECISÃO QUE INADMITE A PARTICIPAÇÃO DE AMICUS CURIAE. INTERPRETAÇÃO DO ART. 138 DO CPC/2015, À LUZ DA JURISPRUDÊNCIA DESTE STJ. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO DO SINDICATO NACIONAL DAS EMPRESAS DISTRIBUIDORAS DE COMBUSTÍVEIS E DE LUBRIFICANTES REJEITADOS.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previsto no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Com efeito, é incabível a interposição de Agravo Interno contra decisão que indefere o pedido de ingresso de amicus curiae na lide, em virtude do disposto no caput do art. 138 do CPC/2015. Em reforço, confiram-se os recentes julgados: AgInt no AREsp 1.763.972/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/05/2021; e AgInt no AREsp 1.612.887/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/04/2021.
+3. Nota-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida e fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. O recurso especial não é a via adequada para análise de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência constitucional do colendo STF. Nesse sentido: AgRg no REsp 1.236.247/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 28/09/2011.
+6. Embargos de declaração do SINDICATO NACIONAL DAS EMPRESAS DISTRIBUIDORAS DE COMBUSTIVEIS E DE LUBRIFICANTES rejeitados.
+A parte recorrente sustenta ter havido ofensa ao art. 5º, XXXV, da CF e aduz ser a matéria tratada dotada de repercussão geral.
+Aponta, em suma, que, ao não admitir o ingresso da parte recorrente no recurso com amicus curiae, o órgão julgador do Tribunal incorreu em violação d o princípio constitucional de acesso à Justiça.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 4.462-4.466.
+É o relatório.
+Como relatado, o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, não se conheceu do agravo interno, por não ser cabível agravo interno contra decisão que indefere o pedido de ingresso de amicus curiae.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a n ão superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do agravo em recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
